@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por MATHEUS MARIANO AGUIAR BINOTTI contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que não admitiu o recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 180, caput, do Código Penal, à pena de 01 (um) ano de reclusão, em regime inicial aberto, e 10 (dez) dias-multa (fls. 243-262).
+O Tribunal negou provimento ao apelo defensivo (fls. 899-900).
+Os embargos de declaração foram rejeitados (fls. 424-429).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a" e "c", da Constituição Federal, para alegar negativa de vigência ao art. 5º, inciso LVII da CF e ao art. 180, §3º, do Código Penal (fls. 437-454).
+O recurso foi inadmitido na origem devido à incidência das Súmulas n. 7 e n. 83, STJ, bem como ao descabimento de recurso especial para alegar contrariedade a norma constitucional (fls. 473-476).
+Nas razões do agravo em recurso especial, a defesa sustenta que a pretensão não demandaria o reexame do conjunto fático-probatório (fls. 482-498).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do agravo (fls. 522-524).
+É o relatório. DECIDO.
+O agravo em recurso especial tem por finalidade demonstrar o desacerto da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, de forma a viabilizar o exame do recurso especial por esta Corte de Justiça.
+Assim, o agravante tem o ônus de refutar especificamente cada um dos óbices recursais aplicados pela decisão de inadmissibilidade do recurso especial, em respeito ao princípio da dialeticidade.
+No caso concreto, a decisão agravada não conheceu do recurso especial com base na incidência das Súmulas n. 7 e n. 83, STJ, bem como no descabimento de recurso especial para alegar contrariedade a norma constitucional.
+Caberia, assim, ao agravante demonstrar a desnecessidade da análise do conjunto fático-probatório para o acolhimento das teses do recurso especial, deixando claro que os fatos foram devidamente consignados no acórdão recorrido. Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018.
+De igual modo, incumbiria ao agravante apontar precedentes do Superior Tribunal de Justiça atuais que comprovem entendimento jurisprudencial diverso daquele adotado pelo acórdão recorrido.
+A propósito:
+DIREITO PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ALEGADA INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONDENAÇÃO POR ASSOCIAÇÃO. INVIABILIDADE DE APLICAÇÃO DA REDUTORA DO TRÁFICO PRIVILEGIADO. SÚMULA N. 83/STJ. PRECEDENTES. AGRAVO NÃO CONHECIDO.
+I - Segundo a orientação desta Corte, para que haja a transposição do óbice da Súmula n. 7, STJ, o agravo precisa demonstrar em que medida as teses não exigem a alteração do quadro fático delineado pelo Tribunal local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas.
+II - A superação da Súmula n. 83, STJ, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar a modificação do julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.
+III - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia.
+Agravo em recurso especial não conhecido.
+(AREsp n. 2.400.357/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+Na espécie, o agravante limitou-se a asserir de modo genérico que a controvérsia não reclama reconstituição de fatos e provas, bem como reiterou as razões de mérito do recurso especial, não tratando dos demais argumentos lançados pela decisão agravada - descabimento de recurso especial para alegar afronta a norma constitucional e não indicação de julgados contemporâneos do STJ no sentido da tese defendida pelo recurso especial.
+A ausência de impugnação adequada e específica de cada um dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Vale notar, ainda, que a decisão de admissibilidade do recurso especial é composta de um único capítulo, devendo o agravante infirmar cada um dos argumentos adotados pelo Tribunal de origem para negar trânsito ao recurso especial, sob pena de não ser conhecido o agravo (EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+No caso concreto, conquanto a decisão de admissibilidade tenha adotado três diferentes fundamentos, o agravo contestou tão somente a incidência da Súmula n. 7, STJ.
+A impugnação parcial dos fundamentos da decisão de inadmissibilidade impõe o não conhecimento do agravo, nos termos da firme jurisprudência desta Corte Superior. A propósito cito o seguinte precedente: AgR g no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/10/2022.
+Ante o exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. DESCLASSIFICAÇÃO PARA CONDUTA CULPOSA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DE INADMISSÃO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. REITERAÇÃO DO MÉRITO DO RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA DIALETICIDADE. DECISÃO DE ADMISSIBILIDADE. CAPÍTULO ÚNICO. AUSÊNCIA DE IMPUGNAÇÃO DA INTEGRALIDADE DA DECISÃO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
