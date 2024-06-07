@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de DARLEI ETERNO DE OLIVEIRA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão cautelar decretada, pela prática, em tese, dos delitos previstos nos artigos 344 e 129 do CP, na forma do art. 69, todos do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que manteve a decisão do juízo a quo, apontando que a prisão se encontra devidamente justificada, consignando em acórdão assim ementado: "Habeas Corpus - Prisão preventiva suficientemente fundamentada - Incêndio em casa habitada, coação no curso do processo, lesão corporal e posse irregular de arma de fogo - Constrangimento ilegal inexistente Não consubstancia constrangimento ilegal, passível de reparação por via de habeas corpus, a ordem de custódia preventiva, cujo teor contenha fundamentos suficientes, demonstrativos da presença de uma das circunstâncias inscritas no art. 312 do CPP. Ao analisa-los, deve o Magistrado considerar não apenas a natureza da infração, mas as circunstâncias e as condições pessoais do paciente." (fl. 193), tendo denegado a ordem, conforme fls. 192-198.
+Neste writ, postula a Defesa, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do Paciente, em razão da ausência de fundamentação para a segregação cautelar; alegando que  O paciente tem residência fixa, trabalha como autônomo, é nascido e criado na cidade de Urânia/SP e não tinha conhecimento sobre a persecução criminal, pois nunca foi intimado. Sendo assim, não sabendo da investigação em seu nome, não se pode falar que a liberdade do Paciente seria um risco a aplicação da lei penal e/ou a ordem pública. Assim, o fato subjetivo apontado pelo Juízo a quo não é elemento idôneo à decretação da cautelar. O ato que determinou e manteve a prisão do paciente -oriundo do Juízo a quo-desta forma, não está devidamente fundamentado por dois fatores: a) O paciente não é perigoso; b) Mesmo se fosse, esse motivo é inidôneo a fundamentar a decretação e/ou a manutenção da preventiva.  (fl. 6).
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 201-204.
+Informações prestadas às fls. 208-219 e 225-249.
+O Ministério Público Federal, às fls. 251-259, em parecer, manifestou-se pela inadmissibilidade do habeas corpus e, no mérito, pela denegação da ordem:
+"HABEAS CORPUS SUBSTITUTIVO DERECURSO PRÓPRIO. ABUSO DO DIREITO DE IMPETRAÇÃO. INCÊNDIO. COAÇÃO NO CURSO DO PROCESSO. DECRETAÇÃO DA PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS DO ART.312 DO CPP. GRAVIDADE CONCRETA. MODUS OPERANDI. EXPRESSIVA PERICULOSIDADE DO ACUSADO.. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO DO ART. 319, CPP INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRESENÇA DE CONDIÇÕES PESSOAIS FAVORÁVEIS NÃO IMPEDE DECRETAÇÃO OU A MANUTENÇÃO DA CUSTÓDIA CAUTELAR. PRECEDENTES DO STJ.
+Parecer pela inadmissibilidade do habeas corpus e, se admitido, pela denegação da ordem." (fl. 251).
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SP-, na data de hoje, foi proferida sentença absolutória, em 06/12/2023, conforme expresso:
+"ABSOLVER o acusado DARLEI ETERNO DE OLIVEIRA SILVA, qualificado nos autos, da imputação de ter violado o disposto nos artigos 163, parágrafo único, inciso II, e 344, ambos do Código Penal, o que faço com fundamento no artigo 386, incisos V e VII, do Código de Processo Penal."
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
