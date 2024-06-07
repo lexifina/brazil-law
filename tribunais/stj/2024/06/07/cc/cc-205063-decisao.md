@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito de competência submetido a este Sodalício, nos termos do art. 105, I, d, da Constituição Federal, e dirimido pela decisão de fls. 188/191, reconhecendo a competência do Juízo suscitado, a 10ª Vara Federal de Curitiba/PR.
+Sucede que sobreveio manifestação do Excelentíssimo Juiz Federal atuante naquele Juízo, pela qual noticia ter remetido o feito à Justiça estadual em atenção ao que decidiu o STF no RE 1.434.771, em que fixada a seguinte tese: "Compete à Justiça Comum Estadual julgar as ações acidentárias que, propostas pelo segurado contra o Instituto Nacional do Seguro Social (INSS) visem à prestação de benefícios relativos à acidentes de trabalho (Tema 414)" (fl. 200).
+Nesse sentido, solicita manifestação desta Corte acerca de "como proceder, considerando que a decisão proferida no RE 1.434.771. interposto no Agravo 50200998220224040000/TR" (fl. 201).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Data venia, a decisão proferida no presente incidente aplicou o entendimento consolidado neste Tribunal Superior, no sentido de competir à Justiça Federal promover a execução de sentença por ela proferida, nos termos do art. 516, II, do CPC.
+Em um dos precedentes citados, de relatoria do eminente Min. Gurgel de Faria, fez-se constar que " a  orientação jurisprudencial prevalecente no âmbito desta Corte, ainda sob a égide do CPC/1973, é de que o cumprimento da sentença efetuar-se-á no juízo que decidiu a causa no primeiro grau de jurisdição, cuja competência funcional não pode ser questionada após o trânsito em julgado da fase de conhecimento, sob pena de ofensa aos princípios da segurança jurídica e da coisa julgada" (AgInt no AREsp n. 2.089.125/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/20).
+Nesse sentido, embora seja possível, em tese, o ajuizamento da ação em foro distinto - por se tratar de cumprimento de sentença coletiva (CC n. 199.938/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023) -, dev e o título constituído na Justiça Federal ser por ela executado , o que não contraria o entendimento firmado pelo STF no citado Tema 414 da Repercussão Geral.
+ANTE O EXPOSTO, mantida a decisão de fls. 188/191, dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
