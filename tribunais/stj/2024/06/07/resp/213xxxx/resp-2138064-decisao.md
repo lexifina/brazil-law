@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. (NOTRE DAME), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria da Desembargadora JANE FRANCO MARTINS, assim ementado:
+Apelação Cível - Plano de Saúde - Ação indenizatória com pedido de antecipação de tutela para desinternação hospitalar acompanhada de "Home Care" - Sentença parcialmente procedente para condenar a operadora a fornecer tratamento domiciliar pelo tempo necessário e custear tratamento médico, ou seja, serviços que requerem capacitação técnica na área de saúde, entretanto, não obrigou a ré a fornecer itens de higiene pessoal não abrangidos pelo contrato, medicamentos de uso domiciliar encontrados em farmácia nos termos do artigo 10, VI, da Lei 9656/98 e nem cama hospitalar, colchão de ovos, cadeira postural infantil Adaptte-Ortus, banheira entre outros equipamentos e insumos, conforme laudo pericial - Recurso da parte autora- Pede a condenação da apelada para cobertura integral do tratamento multidisciplinar e internação domiciliar sem limitações relacionadas a equipamentos e insumos, de acordo com as prescrições médicas e dinâmica do quadro clínico, até alta médica definitiva do apelante - Mérito - Exclusão de c obertura que não prevalece diante da indispensabilidade do tratamento - Precedentes da Câmara e do STJ - Normas de ordem pública que se sobrepõem ao poder dispositivo das partes - Código de Defesa do Consumidor - Cobertura que abrange equipamentos, insumos e medicamentos necessários ao tratamento - Sentença reformada - Recurso provido (e-STJ, fl. 2.439.).
+Os embargos de declaração opostos por M. foram rejeitados (e-STJ, fls. 2.563.2.567.).
+Nas razões do presente recurso, NOTRE DAME alegou a violação dos 188, I, do CC; 6º, §1º, do Decreto Lei n. 4.657/42 e à Lei nº 9.656/98, sustentando, em síntese, que (1) não está obrigado ao custeio de tratamento não previsto no rol taxativo da ANS; e (2) que não é cabível a condenação à reparação cível.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece provimento.
+(1) Da negativa de cobertura
+O TJSP consignou que é abusiva a negativa da operadora de saúde em cobrir atendimento domiciliar, confira-se:
+A Magistrada decidiu por condenar a ré a fornecer tratamento domiciliar pelo tempo necessário, quais sejam, aqueles serviços que requerem capacitação técnica na área de saúde, a saber:
+"- enfermeiro 1 vez por semana; - fisioterapia motora 7 dias por semana; - fisioterapia respiratória 7 dias por semana; - fonoaudiólogo 3 vezes por semana; - médico pediatra a cada 15 dias; - nutricionista a cada 15 dias; - técnicos de enfermagem 24 horas, 7 dias por semana; - terapeuta ocupacional 3 vezes por semana. Deverá, ainda, fornecer os equipamentos, insumos e medicamentos necessários, desde que não excluídos de cobertura, à luz da fundamentação supra.
+Competirá ao autor apresentar à ré pedido médico atualizado a cada um ano, a fim de discriminar os serviços médicos a serem fornecidos pela seguradora."
+Quanto a parcial procedência dos pedidos para condenar a ré a fornecer pelo tempo necessário o tratamento domiciliar, as apeladas não recorreram, de forma que houve o trânsito em julgado.
+Por outro lado, o douto magistrado de origem, destacou que o atendimento domiciliar não abrangeria o fornecimento de itens de higiene pessoal (como fraldas), não abrangidos pelo contrato ou medicamentos de uso domiciliar encontrados em farmácias, nos termos do artigo 10, VI, da Lei 9656/98 12 , assim como também não importariam em fornecimento de cama hospitalar, colchão hospitalar ou colchão casca de ovos, banheira, cadeira postural infantil Adaptte-Ortus, entre outros equipamentos e insumos, por entender que não são cobertos pelo plano de saúde e que se relacionam com os cuidados rotineiros de higiene pessoal e manutenção da saúde.
+Entendeu, ainda, que o plano de saúde não é obrigado a fornecer insumos e medicamentos especificados no laudo pericial 13 . Entretanto, a r. sentença merece reparo no tocante a não obrigatoriedade de fornecimento de equipamentos, insumos e medicamentos por parte da operadora.
+Senão vejamos:
+O laudo pericial indicou todos os itens que eram necessários ao tratamento em domicílio, além da indicação dos profissionais que o estado de saúde do apelante-autor demandaria. Assim, tem-se que o laudo apontou para as necessidades e não para o que não seria obrigatório fornecer.
+O Ministério Público se manifestou no sentido de que o recurso mereceria parcial provimento.
+Quanto ao custeio de itens de higiene pessoal, entendeu que estão além do tratamento médico e não estão ligados à atividade fim da apelada e, neste ponto, a r. sentença deveria ser mantida.
+ ..
+Há que se observar que, entre as duas manifestações, houve um pequeno erro material, sendo certo que as manifestações levam a entender que o apelo deve ser provido.
+Diante desse contexto, não se trata de obrigações relacionadas a higiene, ou fornecimento de medicamentos comuns, insumos e equipamentos que estariam fora da cobertura do plano de saúde. E, sim, de estrutura indispensável aos cuidados profissionais e técnicos, próprios aos serviços "home care", especialmente, considerando-se o grave quadro de saúde do paciente, conforme avaliação médica e de acordo com o laudo pericial 14 e documentação 15 apresentados pelo perito nomeado pelo juízo de origem.
+Também não se trata de "emitir um cheque em branco", como afirmado nas contrarrazões 16 da apelada Qualicorp, mas sim de dar cumprimento ao ônus da empresa prestadora de serviços de propiciar o atendimento médico e hospitalar, incluído o sistema "home care", que não pode ser negado quando indispensável à manutenção da saúde do paciente e recomendados pelos profissionais que o atendem.
+Embora seja possível a existência de cláusulas limitativas ou de exclusão de cobertura, estas têm limites, como na situação em que se contrapõe ao próprio objeto que justifica a existência do pacto, com a negativa de tratamento indispensável ao paciente e pretensão de se sobrepor à decisão profissional do médico a quem cabe definir o melhor tratamento e forma de sua prestação ao enfermo.
+Se a limitação ofende a natureza e o equilíbrio contratual, a disposição se mostra abusiva por se revelar incompatível com a boa-fé e a equidade e deve prevalecer frente ao disposto nos artigos 47 e 51, IV e §1º, II e III da Lei n. 8.078/90 17 , que traduzem normas de ordem pública que se sobrepõe ao "pacta sunt servanda".
+ ..
+Não há que se acolher a alegação de que o paciente deve ser responsável pelo custeio dos medicamentos e insumos ou que a operadora de saúde não é obrigada a fornecê- los, haja vista que o tratamento domiciliar é extensão dos cuidados hospitalares. O paciente deve ser atendido como se estivesse no ambiente hospitalar, como se internado estivesse, e portanto, os itens cobertos ao tempo da internação igualmente devem ser suportados pela operadora de saúde ao longo do atendimento em domicílio, de forma que o medicamento, insumos e equipamentos necessários ao atendimento domiciliar devem ser integralmente fornecidos pela operadora de saúde (e-STJ, fls. 2.544/2.553.).
+É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+Nesse sentido confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. HOME CARE. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ. DANOS MORAIS. CONDENAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar (Lei nº 9.656/1998).
+3. Na hipótese, inviável rever o entendimento firmado pelas instâncias ordinárias quanto à necessidade do tratamento de home care sem a análise de fatos e provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. A recusa indevida da operadora de plano de saúde em autorizar a cobertura de tratamento médico a que esteja legal ou contratualmente obrigada enseja reparação a título de dano moral por agravar psicologicamente a situação e o espírito do beneficiário. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.681.104/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 12/4/2021, DJe 16/4/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO DOMICILIAR. DANOS MORAIS CONFIGURADOS. VALOR RAZOÁVEL. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+3. A recusa indevida, pela operadora de plano de saúde, em autorizar a internação domiciliar (home care), conforme reconhecida pelas instâncias ordinárias, agravou, no caso, a situação de aflição psicológica e de angústia no espírito do beneficiário, o que enseja a indenização por danos morais.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou excessivo. No caso, o montante fixado em R$ 8.000,00 (oito mil reais) não é exorbitante nem desproporcional aos danos causados em decorrência de recusa de cobertura de tratamento domiciliar (home care).
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1.741.492/DF, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 1/3/2021, DJe 22/3/2021.).
+Dessa forma, incide a Súmula nº 568 do STJ.
+(2) Do dano moral
+Por fim, NOTRE DAME assevera o não cabimento da condenação por danos morais.
+Não obstante, não há noticia nos autos do seu tratamento pelo órgão colegiado, seja no âmbito do julgamento do recurso de apelação, seja por ocasião dos
+aclaratórios.
+Portanto, ante a falta do devido prequestionamento, tem incidência no ponto a Súmula n. 211 do STJ.
+Nessas condições, CONHEÇO, em parte do recurso especial, e, nessa extensão, NEGO-LHE PROVIMENTO.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. NEGATIVA DE COBERTURA DE TRATAMENTO DOMICILAR. ABUSIVIDADE. PRECEDENTES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE. SÚMULA Nº 568 DO STJ. DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA. SÚMULA N. 211 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
