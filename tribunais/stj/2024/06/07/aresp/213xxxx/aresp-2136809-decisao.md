@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo interposto por VEGA ENGENHARIA AMBIENTAL S.A. em objeção a decisão vista às fls. 445-447 por meio da qual foi inadmitido o recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, ante a inexistência de violação aos arts. 489 e 1.022 do CPC/2015, a incidência da Súmula 7/STJ ao caso e do não atendimento do requisito previsto no art. 1029, § 1º, c/c art. 255, § 1º, do RISTJ.
+O acórdão impugnado no recurso especial está assim ementado:
+Agravo de instrumento. Ação ordinária. Cumprimento de sentença. Alegação de excesso de execução. Cálculo do contador judicial superior ao postulado pelo exequente. A homologação de cálculos do contador judicial, quando de acordo com o título executivo judicial, ainda que superiores ao postulado, não caracteriza julgamento ultra petita. (i) Correção Monetária.
+Cálculos apresentados pelo contador que se encontram em conformidade com os precedentes dos Tribunais Superiores. (ii) Juros de Mora. Decisão, nessa parte, que comporta reforma. Juros que devem respeitar os índices adotados para remuneração da caderneta de poupança a partir da entrada em vigor da Lei 11.960/09. Agravo provido em parte.
+O agravante sustenta, resumidamente, que os embargos de declaração foram opostos ante clara e evidente contradição, "tendo em vista que a retratação exercida não foi fundamentada em julgamento de recurso repetitivo proferida por esta C. Corte, como estabelece o art. 1040, II, do CPC", e que o objeto do recurso é simples, uma vez que o acórdão aplicou indevidamente artigo de lei declarado inconstitucional, sendo desnecessário o revolvimento do substrato fático-probatório.
+Diz, quanto ao dissídio jurisprudencial, que foram anexadas ao recurso especial as cópias dos dois acórdãos citados como paradigmas e feitas as devidas comparações analíticas. Reitera as razões do recurso especial e pede o provimento do agravo.
+É o relatório.
+Passo a decidir.
+As alegações deduzidas pela agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência da Súmula 7/STJ.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+Com efeito, limita-se o agravante a aduzir a desnecessidade de revolvimento do lastro probatório, sem sequer registrar as razões específicas do seu inconformismo diante da motivação da Corte de origem para o desprovimento do recurso, deixando ainda de indicar, com base nesse cotejo, os motivos pelos quais pretende seja afastada a incidência da Súmula 7/STJ do caso.
+Destarte, deve ser considerado insuficiente o seu argumento para o conhecimento deste agravo.
+Da mesma forma, o recorrente não impugna eficazmente a indicação da ausência de cotejo analítico sobre o dissídio jurisprudencial, afirmando apenas que foi atendido o requisito, mais uma vez de forma genérica.
+Por pertinente, a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. 1. A ausência de impugnação específica aos fundamentos da decisão agravada de inadmissibilidade impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ. 2. Agravo em recurso especial não conhecido.
+(STJ - AREsp: 1346360 PR 2018/0207791-3, Relator: Ministro NAPOLEÃO NUNES MAIA FILHO, Data de Julgamento: 02/04/2019, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 13/05/2019)
+Isso posto, não conheço do agravo em recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
