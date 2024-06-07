@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por INDÚSTRIA DE CALÇADOS PRIORITY LTDA. - EM RECUPERAÇÃO JUDICIAL, com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte ajuizou embargos à execução fiscal, com valor da causa atribuído em R$ 320.114,94 (trezentos e vinte mil, cento e quatorze reais e noventa e quatro centavos), em abril de 2023, tendo como objetivo a invalidade de créditos tributários relacionados ao ICMS, diante de suposto vício de fundamentação constante na CDA.
+Após sentença que julgou improcedente a demanda, foi interposta apelação, que foi improvida pelo Tribunal de Justiça do Estado de Sergipe, ficando consignado que o título que embasou a execução fiscal preencheu os requisitos de liquidez, certeza e exigibilidade. O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EMBARGOS À EXECUÇÃO FISCAL - REJEIÇÃO - AUSÊNCIA DE NULIDADE NA CERTIDÃO DE DÍVIDA ATIVA - OBSERVÂNCIA AOS TERMOS DA LEI Nº6.830/80 - MANUTENÇÃO DO -DECISUM - CONHECIMENTO E IMPROVIMENTODO RECURSO - DECISÃO UNÂNIME.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa por serem considerados protelatórios.
+Contra a decisão cuja ementa se encontra acima transcrita, INDÚSTRIA DE CALÇADOS PRIORITY LTDA. - EM RECUPERAÇÃO JUDICIAL interpôs o presente recurso especial, apontando violação dos arts. 489, II, § 1º e 1.022, II, parágrafo único, I e II, ambos do CPC/2015, sustentando, em síntese, que houve omissão no acórdão ao majorar os honorários sucumbenciais para 12%, o que desrespeita o limite imposto pela norma processual e Tema 587 do STJ, quando somados com os fixados na execução fiscal.
+Adiante alega ofensa do art. 1.026, § 2º, do CPC/2015, defendendo, em suma, que descabe a fixação de multa quando os únicos embargos de declaração são opostos com intuito de prequestionamento da matéria.
+Acrescenta ainda afronta aos arts. 85, §§ 2º, 3º e 11, 827, caput e § 1º, e 927, III, todos do CPC/2015, argumentando, em resumo, que é ilegal a majoração dos honorários advocatícios sucumbenciais quando ultrapassado o limite de 20%, considerando-se a cumulação dos honorários fixados na execução fiscal e nos embargos à execução.
+Por fim, afirma violação ao art. 2º, § 5º, inciso III, da LEF e ao art. 202, III, do CTN, sustentando, em síntese, que há nulidade na CDA, uma vez que não consta a fundamentação legal no título e que não seria possível verificar as operações que a geraram a dívida.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja, a majoração dos honorários advocatícios sucumbenciais acima do limite legal, tendo o julgador abordado a questão, consignando que:
+Além do que, em relação aos honorários sucumbenciais, observo que de forma diversa do argumentado pelo embargante, os honorários da execução fiscal foram fixados em 05%,decisão publicada em 10/05/2022, não extrapolando, assim, os 20%.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. CUMULAÇÃO DAS OBRIGAÇÕES DE INDENIZAR E DE REPARAR DANO AMBIENTAL. CABIMENTO. SÚMULA 629/STJ. REVISÃO DOS PARÂMETROS DE DEFINIÇÃO DO VALOR INDENIZÁVEL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDÊNCIA DO PIS E COFINS. ZONA FRANCA DE MANAUS. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+ ..
+2. Não configurada a violação apontada ao art. 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum a quo.
+ ..
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Quanto a alegada ofensa do art. 1.026, § 2º, do CPC/2015, verifica-se que não é cabível a imposição da multa prevista no dispositivo legal em razão da mera rejeição dos embargos de declaração, sendo necessária a configuração da manifesta improcedência do recurso a autorizar a sua aplicação, o que não ocorreu no caso em apreço. Na mesma linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO. OCORRÊNCIA. NÃO APLICAÇÃO DO ENTENDIMENTO CONSOLIDADO NO JULGAMENTO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.336.026/PE. TEMA 880. MODULAÇÃO DOS EFEITOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. OMISSÕES E CONTRADIÇÃO. INEXISTÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - Inaplicabilidade à hipótese do entendimento firmado pela Primeira Seção desta Corte, em precedente submetido ao rito do art. 1.036 do Código de Processo Civil de 2015 (Tema 880).
+III - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração no tocante às alegadas omissões e contradição.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 em razão do mero improvimento dos Embargos de Declaração, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 1301935/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 05/11/2019, DJe 29/11/2019)
+Nesse sentido, não verifico o caráter protelatório dos embargos de declaração opostos, o que justifica o afastamento da multa aplicada com fulcro no art. 1.026, § 2º, do CPC/2015.
+Em relação aos honorários advocatícios sucumbenciais, o Superior Tribunal de Justiça firmou tese, em sede de Recurso Repetitivo (Tema 587 do STJ), de que " o s embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973".
+In casu, o acórdão vergastado majorou a verba honorária para 12% sob o fundamento de que na execução fiscal foram fixados verba de 5%, o que respeitaria o limite legal. Por sua vez, o recorrente sustenta que a dívida permanece sem pagamento, de modo que não incide a hipótese de redução pela metade prevista no art. 827, § 1º, do CPC, consequentemente, os honorários da execução fiscal seriam de 10%.
+Desse modo, deve-se aplicar a tese firmada pelo STJ no sentido de garantir que os honorários adequem-se ao limite de 20% previsto na norma processual, considerando-se a cumulação dos honorários fixados na execução fiscal e nos embargos à execução.
+Finalmente, quanto a violação ao art. 2º, § 5º, inciso III, da LEF e ao art. 202, III, do CTN, ao analisar o caso concreto, o Tribunal de origem fundamentou a questão, conforme se vislumbra da transcrição abaixo:
+(..)
+O título que embasa a Execução fiscal preenche os requisitos de liquidez, certeza e exigibilidade. Outrossim, somente se cogita de nulidade por vício formal da CDA quando o elemento sonegado implicar, de algum modo, em prejuízo ao exercício de defesa do contribuinte.
+A atuação da Administração Tributária se deu dentro dos limites legais, não havendo como prosperar as pretensões do recorrente, sendo, exigível, portanto, a dívida ativa que embasa o feito executivo.
+Não há nulidade na Certidão de Dívida Ativa, que observa fielmente os termos da Lei n.6.830/80, razão por que deve ser mantida integralmente a r. decisão de primeiro grau.
+Dessa forma, não há que se falar em falta de exigibilidade do título em questão.
+(..)
+Nesse sentido, verifica-se que a análise da tese apresentada pelo recorrente, em contraste com as convicções declaradas pelo Tribunal a quo, implica no reexame do conjunto probatório dos autos, o que é vedado no recurso especial. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I e III, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, dou-lhe provimento para afastar a multa aplicada com fundamento no art. 1.026, § 2º, do CPC/2015, e para que a cumulação dos honorários advocatícios fixados observem o limite de 20%.
+Publique-se. Intimem-se.
+EMENTA
