@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 292):
+PREVIDENCIÁRIO. RECONHECIMENTO DE TEMPO DE SERVIÇO EXERCIDO SOB CONDIÇÕES ESPECIAIS. COMPROVAÇÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO DE SERVIÇO NECESSÁRIO AO SEU DEFERIMENTO. TERMO INICIAL. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. Caso em que o autor pretende o reconhecimento de tempo de serviço especial, para conversão em tempo comum e deferimento de aposentadoria por tempo de contribuição, tendo o magistrado singular reconhecido os períodos de 01.10.1984 a 25.07.2006, de 21.08.2006 a 05.10.2007 e concedido a aposentadoria pretendida;
+2. Comprovado, por meio de CTPS, de Perfil Profissiográfico Previdenciário e de laudo técnico, que o demandante, na função de encanador, junto à empresa Construtora Asfora Ltda - ME, esteve exposto, de forma habitual e permanente, aos agentes químicos (cola plástica, contendo solventes aromáticos) e biológicos (contato com esgotos - galerias e tanques), nos lapsos temporais de 01.10.1984 a 25.07.2006, de 21.08.2006 a 05.10.2007, sem eficácia de EPI, é de se reconhecer tais interstícios como exercidos sob condições especiais, mantendo-se a sentença que deferiu o benefício;
+3. Deve ser fixado como termo inicial das parcelas em atraso a data do requerimento administrativo (24.12.2014) e não da citação, com requer o apelante, pois, é a partir da provocação da parte, seja administrativa ou judicial, que o réu passa a estar em mora e é dela que o postulante manifesta o seu interesse ao gozo do direito ao benefício e demonstra os requisitos necessários a sua percepção;
+4. Não se aplicam as atualizações introduzidas pela Lei nº 11.960/09 quanto ao critério de correção monetária das parcelas devidas, posto que consideradas inconstitucionais pelo STF;
+5. Os juros de mora devem ser calculados segundo os índices aplicáveis à caderneta de poupança em todo o período devido;
+6. Apelação parcialmente provida, apenas para fixar os juros de mora pelos índices da caderneta de poupança.
+Opostos embargos declaratórios, foram parcialmente providos, apenas para determinar a incidência da taxa SELIC no cálculo da atualização monetária e juros de mora (fl. 368).
+A parte recorrente aponta violação aos arts. 489, § 1º, IV, 1.022, II, do CPC, 57, §§ 3º e 4º, e 58 da Lei n. 8.213/1991. Sustenta que teria havido negativa de prestação jurisdicional, em razão de o Tribunal de origem não ter apreciado as seguintes questões jurídicas (fl. 388):
+a) O reconhecimento como tempo especial de período submetido à agente(s) biológico(s)cuja atividade não está relacionada no Anexo IV dos Decretos 2.172/97 e 3.048/99, portanto, sem submissão a agente nocivo de modo permanente, não ocasional, nem intermitente, através de formulários DSS 8030 ou SB-40, LTCAT ou PPP, viola os arts. 57, §§3º e 4º, e 58 da Lei 8.213/91;
+b) o reconhecimento como tempo especial de período submetido à agente(s) agente(s) químico(s) não relacionado(s) nos Decretos regulamentares, ou que não contenham a exigida análise quantitativa, viola os arts 57, § 3º, e 58 da LBPS;
+Afirma, quanto à exposição a agentes biológicos, nos períodos de 01/10/1984 a 25/07/2006 e de 21/08/2006 a 05/10/2007, que "é exigido a partir de 06/03/1997 a apresentação de LTCAT ou PPP, que devem descrever se há ou não a exposição ao agente biológico de modo permanente nas atividades realizadas conforme o Anexo IV do Decreto 2.172/1997 ou Anexo IV do Decreto 3.048/1999" e que "A profissiografia constante no PPP, portanto, não permite o enquadramento, por não estar elencada na descrição contida no código 3.0.1" dos citados anexos (fls. 394/395).
+E acrescenta (fl. 395):
+Portanto, o reconhecimento como tempo especial de período submetido à agente(s) biológico(s) cuja atividade não está relacionada no Anexo IV dos Decretos 2.172/97 e 3.048/99, portanto, sem submissão a agente nocivo de modo permanente, não ocasional, nem intermitente, através de formulários DSS 8030 ou SB-40, LTCAT ou PPP, viola os arts. 57, §§ 3º e 4º, e 58 da Lei 8.213/91.
+Aduz, quanto à exposição a agentes químicos, naqueles mesmos períodos, que "para serem considerados nocivos à saúde, devem estar presentes na atividade do segurado de forma habitual e permanente em nível de concentração acima dos limites de tolerância, indicado no perfil profissiográfico previdenciário, baseado em laudo pericial, não sendo suficiente a alusão genérica (adesivos, hidrocarbonetos, etc)." (fl. 408)
+Defende que (fl. 411):
+No caso concreto, conforme PPP juntados ao processo, os agentes químicos indicados não constam dos Anexos IV do Decreto 3.048/99 e Anexo 13 da NR-15, ou, se constam, não há a devida e exigida análise quantitativa, e nem mesmo há, nos casos de hidrocarbonetos, a sua especificação, o que é necessário, pois alguns deles demandam grau de concentração mínimo para serem considerados nocivos à saúde.
+Assim, o reconhecimento como tempo especial de período submetido à agente(s) agente(s) químico(s) não relacionado(s) nos Decretos regulamentares, ou que não contenham a exigida análise, quantitativa, viola os arts 57, § 3º, e 58 da LBPS.
+Sem contrarrazões (fl. 420).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Observe-se o que consta do voto condutor do acórdão recorrido (fl. 289):
+No caso, observa-se que o demandante comprovou, nos lapsos temporais de 01.10.1984 a 25.07.2006, de 21.08.2006 a 05.10.2007, junto à Construtora Asfora Ltda - ME, na função de encanador, que esteve exposto, de forma habitual e permanente, aos agentes químicos (cola plástica, contendo solventes aromáticos) e biológicos (contato com esgotos - galerias e tanques), por meio de CTPS, de Perfil Profissiográfico Previdenciário (PPP) e de laudo técnico, sem eficácia de EPI. Assim é de se reconhecer tais interstícios como exercidos sob condições especiais, mantendo-se a sentença que deferiu o benefício.
+A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO AO AGENTE NOCIVO RUÍDO NÃO COMPROVADA. ALTERAÇÃO DO ACÓRDÃO A QUO. SÚMULA 7/STJ.
+HONORÁRIOS. MAJORAÇÃO. SÚMULA 7.
+1. O Tribunal a quo, soberano na análise do conjunto probatório, entendeu pela ausência de comprovação de exposição à atividade insalubre.
+Dessa forma, modificar tal conclusão demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+2. A fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7.
+Agravo interno improvido.
+(AgInt no AREsp nº 824.714/SP , Rel. Min. HUMBERTO MARTINS, DJe de 12/05/2016)
+ANT E O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+EMENTA
