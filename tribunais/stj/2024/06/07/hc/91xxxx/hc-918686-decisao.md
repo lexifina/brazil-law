@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado por CAIO DE MOURA PACHECO - preso cautelarmente, no dia 20/3/2024 pela suposta prática do crime te tráfico de drogas -, apontando como autoridade coatora o Desembargador do Tribunal de Justiça do Rio de Janeiro.
+Contra essa decisão, requereu a revogação da prisão preventiva, que foi indeferida (e-STJ fl. 13).
+Irresignado, impetrou habeas corpus com pedido liminar, requerendo a revogação do decreto prisional que, até a presente data, não foi analisada pelo Relator.
+Na presente oportunidade, a defesa requer que seja concedida de ofício a revogação da prisão preventiva, como também seja oficiado a autoridade coatora, determinando a apreciação do pedido contido no habeas corpus.
+É o relatório. Decido.
+Inicialmente, a questão referente aos fundamentos do decreto prisional não foi objeto de análise perante o Tribunal de origem, o que impede o seu exame diretamente por esta Corte, sob pena de supressão de instância.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Em relação à demora na apreciação do pleito liminar, contudo, assiste melhor sorte ao paciente.
+Com efeito, o habeas corpus originário foi impetrado em 9/4/2024 e distribuído ao relator na mesma data. Porém, passados quase 2 meses, a defesa não obteve resposta sequer do seu pleito liminar. Assim, resta evidente o excesso de prazo para a apreciação do pleito emergencial e a ofensa ao art. 5º. LXXVIII, da Constituição Federal.
+Sendo, assim, de modo a não frustrar a finalidade do remédio constitucional, que é a de atuar de forma célere e efetiva no caso de manifesta violência ou coação à liberdade de locomoção do cidadão por ilegalidade ou abuso de poder (art. 5º, LXVIII, da CF), deve, na origem, ser examinado o suposto constrangimento ilegal apontado pela defesa, com urgência.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa parte, concedo ordem, para determinar que o Desembargador Relator do HC n. 0026152-46.2024.8.19.0000 examine o pleito liminar em até 48 horas, como entender de direito.
+Intimem-se.
+EMENTA
