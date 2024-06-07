@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por THALLES FREITAS DE OLIVEIRA (THALLES), contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO CONFIGURADA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO BANCÁRIO. RESPONSABILIDADE DO BANCO. NÃO CARACTERIZAÇÃO. CULPA EXCLUSIVA DA VÍTIMA. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 224)
+Nas razões do presente inconformismo, defendeu que o BANCO não juntou nenhum documento hábil a fim de comprovar que as operações realizadas estavam dentro do padrão de consumo do autor, o que impossibilitaria do banco de reconhecer de pronto a fraude e obstar o processamento das transações/operações e a decisão embargada não apreciou a questão referente à imprudência, imperícia e negligência da instituição financeira, que tem o dever de cautela e de prevenção a fraudes nas operações financeiras de seus clientes.
+Foi apresentada contraminuta (e-STJ, fls. 241/243).
+É o relatório.
+DECIDO.
+Os embargos não merecem acolhimento.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões deste aclaratório, THALLES alegou omissão no julgado defendendo que o BANCO não juntou nenhum documento hábil a fim de comprovar que as operações realizadas estavam dentro do padrão de consumo do autor, o que impossibilitaria do banco de reconhecer de pronto a fraude e obstar o processamento das transações/operações e a decisão embargada não apreciou a questão referente à imprudência, imperícia e negligência da instituição financeira, que tem o dever de cautela e de prevenção a fraudes nas operações financeiras de seus clientes.
+Sem razão, contudo.
+A decisão não foi omissa e claramente consignou que não houve falha na prestação do serviço bancário e que cabe ao correntista o dever de agir com zelo e cuidado na guarda dos instrumentos utilizados para efetuar as transações bancárias.
+Confira-se:
+É possível constatar que as operações ocorreram em razão da conduta do próprio autor, que não zelou pelos correspondentes celular e cartão de débito/crédito, deixando-os à sorte de serem usurpados por terceiros, ao que tudo indica, por não ter observado as cautelas que, infelizmente, são exigidas ao consumir alimentos e bebidas em locais desconhecidos e na presença de inúmeros estranhos, dada a existência do chamado golpe do "boa noite cinderela".
+Além do mais, nas operações com a plataforma "PIX" e cartão de crédito/débito, o Banco não tem meios de impedir a operação e de observar o perfil do cliente. Estas transações bancárias são instantâneas, nas quais o banco não tem tempo para verificá-las e impedi-las. A instituição financeira não tem controle de perfil do cliente nessas operações, que são automáticas, não podendo assim ser responsabilizado.
+Ademais, o exame das provas juntadas aos autos não permite concluir que o resultado alcançado pelos meliantes somente teria sido possível por causa da alegada negligência do banco réu que, segundo o autor, não teria tomado qualquer precaução e ainda teria permitido que fossem realizadas transações bancárias incompatíveis com o seu perfil de cliente.
+Importante ressaltar que a responsabilidade é do correntista quanto ao dever de agir com zelo e cuidado na guarda dos instrumentos utilizados para efetuar transações bancárias, e a instituição financeira não pode responder por qualquer operação realizada por terceiro que teve acesso ao aparelho telefônico e aos cartões por falta de diligência e cautela do consumidor.
+Diante dos fatos narrados, muito embora aplicável o Código de Defesa do Consumidor, não é possível concluir pela responsabilidade objetiva do banco apelante, por força do inciso II, § 3º, do art. 14, que isenta o fornecedor de serviços quando provada a culpa exclusiva do consumidor ou de terceiros, como no caso dos autos (e-STJ, fl. 143/145, sem destaque no original).
+Assim, inexistindo omissão, contradição, obscuridade e/ou erro material na
+presente irresignação, não há falar em ofensa ao art. 1022 do CPC.
+Nessas condições, REJEITO os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO BANCÁRIO. RESPONSABILIDADE DO BANCO. NÃO CARACTERIZAÇÃO. ERRO MATERIAL, OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
