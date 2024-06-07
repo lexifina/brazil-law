@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de reclamação ajuizada por VALDETE DIAS DA SILVA, com fundamento no art. 105, I, f, da Constituição Federal c/c o art. 988 do CPC, em face de decisão da Turma Recursal do Juizado Especial do Estado do Rio Grande do Sul que, ao apreciar agravo de instrumento, deferiu (fl. 21):
+ ..  A ANTECIPAÇÃO DA TUTELARECURSAL, a fim de determinar que os agravados forneçam à parte agravante a cirurgia postulada, sob pena de bloqueio de valores, bem como determino u , de ofício, a inclusão da União no polo passivo, deslocando, assim, a competência para Justiça Federal.
+Sustenta a parte reclamante que a determinação de inclusão da UNIÃO no feito, realizada de ofício pelo Juízo reclamado, desrespeitou a "decisão liminar no âmbito deste Superior Tribunal no Incidente de Assunção de Competência - IAC nº 14 (conflito de competência n. 187.276-RS (2022/0097613-9), a qual determinou que os Juízes Estaduais devem abster-se de praticar quaisquer atos judiciais de declinação de competência nas referidas ações de saúde" (fls. 5/6).
+Em suas próprias palavras (fls. 7/8):
+ ..  logo após a admissão do incidente, a Primeira Seção do STJ, em sessão realizada em 08/06/2022,apreciando questão de ordem proposta pelo Ministro Relator, deliberou, por unanimidade, que até o julgamento definitivo do IAC o juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico, de modo que o processo deve prosseguir na jurisdição estadual.
+No ponto, na decisão da questão de ordem do Ministro Gurgel de Faria é expressa a determinação aos juízes estaduais para que se abstenham de praticar qualquer ato de declinação de competência, conforme bem se vê do excerto abaixo reproduzido:
+Entretanto, mesmo após a afetação do IAC, continua havendo declínio mútuo de competência entre as Justiças Estaduais e Federais e, em consequência, sendo instaurado inúmeros conflitos dirigidos ao Superior Tribunal de Justiça.
+Nesse contexto, em atenção ao princípio da segurança jurídica, submeto apresente questão de ordem aos Colegas, para que fique expressamente determinado que, até o julgamento definitivo do incidente de assunção de competência (IAC), o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao destes autos, de modo que o processo deve prosseguir na jurisdição estadual. No caso em questão, porém, o juízo deixou de aplicar a decisão do IAC n. 14.
+Desse modo, foi colocada em risco a eficácia da decisão proferida no IAC nº 14, assim como a autoridade do STJ, na forma do art. 988, II e §4º, do CPC, razão pela qual deve ser cassada a decisão reclamada, haja vista a necessidade de sustação de atos de declinação de competência da Justiça Estadual para a Justiça Federal, até o julgamento definitivo da tese a ser firmada no IAC, determinando-se a manutenção do andamento dos autos na Justiça Estadual.
+E conclui (fl. 10):
+Em face disso, sendo flagrante o desrespeito da decisão impugnada àquela tomada unanimemente pela Primeira Seção do STJ na "questão de ordem" do IAC no CC n. 187.276/RS, deve o Superior Tribunal de Justiça cassá-la, para o fim de garantir à parte autora a tramitação do processo perante o Juízo Estadual, em razão da solidariedade na obrigação do Poder Público em fornecer os insumos pleiteados.
+Tece, ainda, considerações a necessidade de respeito à decisão proferida pelo STF no Tema n. 1.234.
+Por fim, formula os seguintes pedidos (fls. 12/13):
+Ante o exposto, requer a Defensoria Pública do Estado do Rio Grande do Sul o recebimento e conhecimento da presente Reclamação Constitucional, ao efeito de:
+a) deferir a gratuidade judiciária, nos termos do artigo 98 e seguintes do CPC, por se tratar de pessoa hipossuficiente econômica, assistida pela Defensoria Pública, e que não detém os meios de arcar com as despesas processuais;
+b) deferir, liminarmente, nos termos do art. 989, inciso II, do CPC, a suspensão dos efeitos do ato impugnado apenas quanto à parte que determinou a inclusão da União no feito;
+ ..
+g) ) ao final, julgar procedente a reclamação, confirmando-se a antecipação dos efeitos liminares, para determinar a suspensão e cassação da decisão impugnada, quanto à parte que determinou a inclusão da União no feito, a fim de assegurar a autoridade da decisão desta Egrégia Corte, aplicando-se o precedente no IAC nº 14, para, com isso, afastar-se a determinação de inclusão da União e manter-se a tramitação do feito na Justiça Estadual, garantindo a continuidade do tratamento e regular processamento da ação;
+O pedido de gratuidade de justiça foi deferido (fl. 31).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como cediço, em 8/6/2022, ao apreciar Questão de Ordem no IAC n. 14, este Superior Tribunal assim deliberou: "até o julgamento definitivo do incidente de assunção de competência (IAC), o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao destes autos, de modo que o processo deve prosseguir na jurisdição estadual".
+Cumpre registrar que, na sessão realizada em 12/4/2023, a Primeira Seção desta Corte concluiu o julgamento do aludido IAC n. 14 (Conflitos de Competência 187.276/RS, 187.533/SC e 188.002/SC).
+Sob esse panorama, conclui-se que ao tempo da prolação do decisum reclamado, em 6/5/2024 (fls. 19/21), já não mais vigia o acórdão prolatado pela Primeira Seção na Questão de Ordem apreciada no bojo do IAC n. 14/STJ, haja vista o julgamento do mérito, realizado em 12/4/2023.
+Logo, não houve despeito à decisão contida na aludida Questão de ordem.
+ANTE O EXPOSTO, não conheço da reclamação. Prejudicado o pedido de liminar.
+Publique-se.
+EMENTA
