@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por Monte Tabor Centro Ítalo Brasileiro de Promoção Sanitária contra a decisão de fls. 512-519 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 405-413 e 475-481 (e-STJ), prolatados pelo Tribunal de Justiça do Estado da Bahia, assim ementados:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA INTERNAMENTO. ALEGAÇÃO DE PERÍODO DE CARÊNCIA. INTERNAMENTO EM CARÁTER DE URGÊNCIA. CARÊNCIA QUE DEVE SER AFASTADA NESTA SITUAÇÃO. EXIGÊNCIA POR PARTE DO HOSPITAL DE ASSINATURA DE TERMO DE RESPONSABILIDADE, NA HIPÓTESE DO PLANO DE SAÚDE NÃO ARCAR COM OS CUSTOS. COMPORTAMENTO ABUSIVO DOS RÉUS. RISCO DE VIDA IDENTIFICADO. DANO MORAL CONFIGURADO. QUANTIFICAÇÃO. R$10.000,00 (DEZ MIL REAIS). APELO PROVIDO EM PARTE.
+EMBARGOS DE DECLARAÇÃO. NECESSIDADE DE VINCULAÇÃO AOS VÍCIOS PREVISTOS NO ART. 1.022, CPC/15. INEXISTÊNCIA DE PONTO VICIADO. ABORDAGEM DO CONTEÚDO NO MÉRITO DO ACÓRDÃO. VÍCIO INEXISTENTE. REDISCUSSÃO DA MATÉRIA. ADOÇÃO DA TESE O PREQUESTIONAMENTO FICTO PELO CPC/15 EM SEU ART. 1.025. ACLARATÓRIOS NÃO ACOLHIDOS.- A alegada contradição supostamente existentes no acórdão vergastado, em verdade, inexistem. A todo tempo o Embargante busca rediscutir o mérito da demanda, fazendo ressurgir as mesmas questões sustentadas nas contrarrazões recursais, na tentativa de camuflar a análise meritória em um dos vícios passíveis de embargos de declaração.- A imputação feita pelo ora embargante carece de qualquer fundamento jurídico, pois o vício da decisão apontado inexiste. O inconformismo do recorrente visa, tão-só, a reexaminar pontos já decididos.- Embargos não acolhidos.- Acórdão mantido intacto
+Nas razões do recurso especial (e-STJ, fls. 495-502), apontou o insurgente a existência de violação dos arts. 489, § 3º, do CPC/2015; e 186, 187, 884 e 927 do CCB. Sustentou, em síntese: i) contradição da decisão recorrida; e ii) inexistência de ato ilícito a justificar a sua condenação solidária.
+Sem contrarrazões (e-STJ, fls. 510-511).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) inexistência de contradição da decisão; e b) incidência das Súmulas 7/STJ e 282 e 356/STF.
+Daí o presente agravo, no qual o insurgente contesta a aplicação dos óbices.
+Sem contraminuta (e-STJ, fls. 537-538).
+Brevemente relatado, decido.
+Inicialmente, defendeu o recorrente que a decisão recorrida foi contraditória, porquanto não apontou nenhum ato ilícito da recorrente mas condenou-a solidariamente a indenizar a vítima.
+Todavia, observa-se a inexistência da alegada contradição, tendo em vista que o Tribunal de origem fundamentou a decisão na responsabilidade objetiva do integrante da cadeia de fornecimento.
+Veja-se às fls. 478-479 (e-STJ):
+Distintamente do quanto alegado em relação à responsabilidade solidária, a decisão que deu parcial provimento ao apelo, condenando em danos morais os Réus, restou clara e simétrica em todo seu teor.
+Importante salientar ainda, que o acórdão proferido encontra-se em plena harmonia com o entendimento do STJ.
+ ..
+As provas coligidas aos autos revelam que, de fato, o dano sofrido decorreu da recusa de atendimento médico pelo Hospital recorrente que tenta excluir a sua responsabilidade mediante a justificativa de que o atendimento não foi autorizado pelo plano de saúde.
+Todavia, há que se observar que o Hospital é o responsável final pela prestação do serviço médico, participando, portanto, da cadeia de fornecedores.
+Ademais, adentrar no mérito da conduta pessoal de cada empresa, como pretende o embargante, importa em realizar juízo de culpabilidade na cadeia de fornecedores, afastando a responsabilidade objetiva instituída pelo CDC, que prevalece a responsabilidade solidária de todas as empresas que concorreram para o evento danoso, como observado na hipótese dos autos.
+Desta forma, não se exclui a possibilidade de o hospital responder solidariamente com o plano de saúde, com base na responsabilidade objetiva do CDC, quando houver recusa indevida de atendimento, reservado o direito de regresso.
+No mérito, a tese recursal de inexistência de ato ilícito a amparar a sua condenação solidária se mostra dissociada do fundamento da decisão recorrida (responsabilidade objetiva do integrante da cadeia de fornecimento), conforme trecho da decisão acima colacionada.
+Dessa forma, estando a tese recursal dissociada do fundamento da decisão recorrida, incidente a Súmula 284/STJ a obstar o seu conhecimento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. MANUTENÇÃO DO EX-EMPREGADO APOSENTADO. ART. 31 DA LEI N. 9.656/1998. DEFINIÇÃO ACERCA DAS CONDIÇÕES DE CUSTEIO. PRECEDENTE DA SEGUNDA SEÇÃO DO STJ APRECIADO SOB O RITO DO JULGAMENTO REPETITIVO. TEMA N. 1.034/STJ. ACÓRDÃO DO TRIBUNAL DE ORIGEM CONSENTÂNEO COM A JURISPRUDÊNCIA DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+1. A Segunda Seção desta Corte Superior, no julgamento do REsp n. 1.818.487/SP, sob a sistemática dos recurso repetitivos (Tema n. 1.034), firmou a seguinte tese jurídica: "o art. 31 da Lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador".
+2. O acórdão recorrido está em sintonia com o entendimento firmado por este Superior Tribunal de Justiça.
+3. Demonstra-se deficiente a fundamentação quando as razões recursais estão dissociadas do decisum impugnado, incidindo, na espécie, o óbice da Súmula n. 284 do STF.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.920.005/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do Fundo de Assistência Judiciária da Defensoria Pública do Estado da Bahia em 20% (vinte por cento) sobre o valor já arbitrado, devendo tal majoração ficar a cargo exclusivo do recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA INTERNAMENTO. ALEGAÇÃO DE CARÊNCIA. INTERNAMENTO EM CARÁTER DE URGÊNCIA. AÇÃO INDENIZATÓRIA. CONTRADIÇÃO DA DECISÃO. IMPROCEDÊNCIA. INEXISTÊNCIA DE ATO ILÍCITO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
