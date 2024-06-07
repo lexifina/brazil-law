@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de Angelica Rodrigues de Campos, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul nos autos da Apelação Criminal n. 0273961-53.2018.8.21.7000.
+Consta do processo que a paciente foi condenada, em primeiro grau de jurisdição, à pena privativa de liberdade de 11 anos e 8 meses, em regime inicial fechado, e ao pagamento de 1.220 dias-multa, pela prática dos delitos previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+A sentenciada interpôs recurso de apelação, o qual foi parcialmente provido apenas para neutralizar os vetores conduta social e personalidade e, assim, reduzir as penas a 3 (três) anos, 9 (nove) meses e 15 (quinze) dias de reclusão para o delito de associação para o tráfico e 6 (seis) anos e 5 (cinco) meses de reclusão para o tráfico de drogas (fl. 267).
+Neste writ, aponta a defesa as seguintes questões: a) nulidade decorrente de violação de domicílio; b) condenação contrária aos elementos probatórios dos autos, no que diz respeito ao delito de associação para o tráfico de drogas; c) afastamento da valoração negativa na primeira fase dosimétrica em relação à natureza e à quantidade da droga apreendida; d) afastamento da causa de aumento de pena do art. 40, inciso III, da Lei n. 11.343/2006; e e) aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, em caso de absolvição pelo delito de associação para o tráfico de drogas.
+Requer, inclusive liminarmente, a absolvição das imputações, a absolvição do delito de associação para o tráfico de drogas ou a reformulação da dosimetria.
+É o relatório.
+Pelo exame dos autos, o presente writ não comporta processamento.
+Primeiro, porque a impetrante se insurge, novamente, contra a Apelação Criminal n. 0273961-53.2018.8.21.7000, pretendendo, mais uma vez, o exame de diversas questões de mérito, que já fora negada apreciação em decisão de minha lavra (HC n. 886.310/RS), sem reconhecer manifesta ilegalidade, na qual não conheci do writ por ser substitutivo de revisão criminal, com trânsito em julgado no dia 23/4/2024. Desse modo, descabe apreciar as matérias, superando o óbice apontado, sob pena de ofensa à coisa julgada.
+Na espécie, a reiteração se verifica pela repetição do pedido mais abrangente (conhecer de writ substitutivo de revisão criminal) e a indicação do mesmo ato coator. A propósito, mutatis mutandis: AgRg no RHC n. 184.017/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/9/2023.
+Segundo, porque, ainda que assim não fosse, seria o caso de afirmar que a presente impetração é substitutiva de pedido revisional e, portanto, incabível. Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O MESMO FIM. ALEGAÇÃO DE INCIDÊNCIA DA MINORANTE. REITERAÇÃO DE PEDIDO FORMULADO NO HC N. 886.310/RS. OFENSA À COISA JULGADA. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL.
+Petição inicial liminarmente indeferida.
