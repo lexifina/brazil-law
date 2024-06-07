@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto pela SOCIEDADE DE APOIO, HUMANIZACAO E DESENVOLVIMENTO DE SERVICOS DE SAUDE , contra decisão proferida por esta Relatoria, ementada no seguinte sentido (fl. 2.227 e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DO ART 1.022 DO CPC/2015. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. REQUISITOS DA RESPONSABILIDADE CIVIL. VALOR DA INDENIZAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. CONHEÇO DO AGRAVO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+No agravo interno, o agravante afirma que houve negativa de prestação jurisdicional, violando os arts. 489 e 1.022, do CPC/15, porquanto o Tribunal de origem "deixou de apontar qual teria sido o erro médico necessário para a responsabilização da médica e solidariamente da SOCIEDADE DE APOIO, HUMANIZAÇÃO E DESENVOLVIMENTO DE SERVIÇOS DE SAÚDE - SAHUDES, assim como também deixou de fazer qualquer menção aos 3 (três) consistentes laudos periciais que não identificaram falha grosseira dos profissionais que atenderam VERA MARCIA FIORITO CHAVES" (fl. 2.255 e-STJ). No mais, limitou-se a reiterar as teses suscitadas em recurso especial, nada manifestando quanto à incidência das Súmulas 283/STF e 7/STJ.
+Contraminuta às fls. 2.266/2.277 e-STJ.
+É o relatório. Passo a decidir.
+No caso em análise, verifica-se a necessidade de tornar sem efeito a decisão agravada, eis que o caso se insere na competência da 2ª Seção desta Corte Superior.
+A competência das Seções e das Turmas que compõem o STJ é estabelecida conforme a natureza da relação jurídica litigiosa. No caso, tem-se uma ação indenizatória proposta em face da Sociedade de Apoio, Humanização e Desenvolvimento de Serviços de Saúde - SAHUDES, organização social, e dos médicos João Francisco Lopes e Rita de Cassia Tassinare Barini, decorrente de falha na prestação de serviço médico, ocasião em que a paciente veio a óbito.
+In casu, nota-se que o pleito reparatório busca salvaguardar direitos individualmente considerados, sem a responsabilização do Estado.
+Com efeito, nos termos do art. 9º, § 2º, III, cabe à Segunda Seção processar e julgar os feitos relativos à responsabilidade civil, salvo quando se tratar de responsabilidade civil do Estado.
+Sendo assim, torno sem efeito as decisões de fls. 2218/2226 e-STJ e 2227/2239 e-STJ, e determino a REDISTRIBUIÇÃO dos AUTOS a uma das Turmas que compõem a 2ª Seção desse Sodalício. Prejudicado a análise do agravo interno de fls. 2248/2262 e-STJ.
+Publique-se. Intimem-se.
+EMENTA
