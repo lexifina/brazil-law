@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de CAIO VINICIUS BORGES ALVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL proferido no julgamento da Apelação n. 0800408-73.2023.8.12.0023.
+Extrai-se dos autos que o Juízo da Vara Única da Comarca de Angélica/MS julgou procedente ação penal para condenar o paciente pela prática do delito de tráfico de drogas na forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006), fixando a pena em 4 anos e 2 meses de reclusão, no regime semiaberto, e o pagamento de 417 dias-multa.
+Irresignada, a defesa recorreu e a Corte de origem deu parcial provimento ao recurso para reduzir a pena, consoante o acórdão assim ementado:
+"APELAÇÃO CRIMINAL - RECURSO DA DEFESA - TRÁFICO DE DROGAS - APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PELO TRÁFICO PRIVILEGIADO EM 2/3 - POSSIBILIDADE - BIS IN IDEM CONFIGURADO - PRETENSÃO DE ALTERAÇÃO DO REGIME PRISIONAL - INVIABILIDADE - RECURSO PARCIALMENTE PROVIDO.
+Como bem se sabe, o entendimento pela configuração do bis in idem foi encampado recentemente pelo Supremo Tribunal Federal, que não mais admite a análise das moduladoras da natureza e da quantidade da droga, simultaneamente, na primeira e na terceira fase do procedimento da dosimetria penal, seja para mensurar o "quantum" de diminuição do tráfico privilegiado ou mesmo para afastar a minorante.
+No caso dos autos, é possível observar que a magistrada de primeira instância, ao fixar a pena-base do apelante, utilizou, como circunstância judicial negativa, a quantidade e a natureza da droga apreendida, como acima transcrito, pelo que fixou a sanção penal, na etapa primária, acima do mínimo legal.
+Na etapa final do procedimento de dosimetria, a sentenciante reconheceu a incidência do tráfico privilegiado e, ao deliberar sobre o "quantum" de redução da pena, levou novamente em consideração a moduladora da quantidade e da natureza da droga, deixando, por isso, de reduzir a pena em seu grau máximo.
+Observa-se, então, que houve a configuração do "bis in idem", na medida em que a moduladora da quantidade e da natureza da droga foi utilizada tanto para exasperar a pena-base quanto para mensurar a fração redutora do tráfico privilegiado, o que, à luz de toda a jurisprudência acima ressaltada, não merece prevalecer, restando configurado o bis in idem, pelo que a redução pelo patamar máximo é consequência lógica." (fl. 244)
+Neste writ, a Defensoria Pública aduz a inidoneidade da fundamentação adotada no acórdão impugnado para manter o regime inicial semiaberto.
+Alega a desproporcionalidade do regime intermediário tendo em conta, sobretudo, a suposta apreensão de pequena quantidade de entorpecentes e a primariedade do agente.
+Requer, assim, o abrandamento do regime para o aberto.
+A liminar foi indeferida por decisão de fls. 261/263.
+As informações foram prestadas às fls. 269/278.
+O Ministério Público Federal - MPF emitiu parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. PENAL. TRÁFICO DE ENTORPECENTES PRIVILEGIADO. CONDENAÇÃO À PENA INFERIOR A 4 ANOS DE RECLUSÃO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. INTELIGÊNCIA DO ARTIGO 33, § 3º, DO CÓDIGO PENAL.
+Pela denegação da ordem." (fl. 284)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração nem sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal, o que, todavia, não ocorre na hipótese dos autos.
+Com efeito, não obstante a aplicação da causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/06 e a fixação da reprimenda em patamar inferior a 4 anos, é cediço que a natureza e a quantidade de entorpecentes apreendidos foram utilizadas para exasperar a pena-base, o que justifica a imposição do regime mais gravoso, não se cogitando de contrariedade à Súmula Vinculante n. 59 do STF, a qual dispõe "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado e ausentes vetores negativos na primeira fase da dosimetria, observados os requisitos do art. 33, § 2º, alínea c e do art. 44, ambos do Código Penal".
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME ABERTO E SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Certo é que, consoante o enunciado na Súmula Vinculante n. 59 do STF, "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c, e do art. 44, ambos do Código Penal".
+2. No caso, não obstante o agravante haja sido condenado a reprimenda inferior a 4 anos de reclusão, teve a pena-base fixada acima do mínimo legal, em razão da desfavorabilidade da circunstância judicial relativa à quantidade de drogas apreendidas (24 kg de maconha), elemento que evidencia ser o regime inicial semiaberto o mais adequado para a prevenção e a repressão do delito praticado, ex vi do disposto no art. 33, § 2º, "b", e § 3º, do CP, com observância também ao enunciado no art. 42 da Lei n. 11.343/2006.
+3. A existência de circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal, evidencia que a substituição da reprimenda privativa de liberdade por restritivas de direitos não se mostra, na hipótese dos autos, medida socialmente recomendável, nos termos do art. 44 do CP.
+4. Agravo regimental não provido.
+(AgRg no HC n. 904.123/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+AGRAVO REGIMENTAL NOS EMBARGOS DO DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. TRÁFICO DE DROGAS PRIVILEGIADO. REGIME INICIAL SEMIABERTO. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida em obediência ao art. 932 do Código de Processo Civil - CPC e art. 3º, do Código de Processo Penal - CPP, por se tratar de pedido em confronto com a jurisprudência do Superior Tribunal de Justiça - STJ. Ademais, o julgamento colegiado do agravo regimental supre eventual vício da decisão agravada.
+2. Não obstante a aplicação da causa de diminuição capitulada no art. 33, § 4º, da Lei n. 11.343/06, à espécie, é cediço que a natureza e a quantidade de entorpecentes apreendidos foram utilizadas para exasperar a pena-base, o que justifica a imposição do regime mais gravoso. Entendimento conforme precedentes desta Corte e Súmula Vinculante n. 59 do Supremo Tribunal Federal - STF.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl nos EDcl no HC n. 850.291/SP, de minha relatoria, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
