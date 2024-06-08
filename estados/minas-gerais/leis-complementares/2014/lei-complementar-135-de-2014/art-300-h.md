@@ -1,0 +1,2 @@
+Art. 300-H - Os serviços notariais e de registro vagos poderão ser anexados ou desanexados provisoriamente, pelo prazo máximo de seis meses, mediante portaria do Diretor do Foro da comarca, expedida em virtude de decisão fundamentada.
+Parágrafo único - O Diretor do Foro poderá sugerir ao Corregedor-Geral de Justiça a extinção de serviço notarial ou de registro vago para, ser for o caso, o órgão competente do Tribunal de Justiça apresentar proposição de lei com esse objetivo.

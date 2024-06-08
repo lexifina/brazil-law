@@ -1,0 +1,5 @@
+Art. 84-G - Na comarca onde não existir ou onde não tiver sido instalada unidade jurisdicional de Juizado Especial, os feitos da competência dos Juizados Especiais tramitarão perante o Juiz de Direito com jurisdição comum e a respectiva secretaria, observado o procedimento especial estabelecido na legislação nacional pertinente.".
+Art. 39 - Fica acrescentado à Lei Complementar nº 59, de 2001, o seguinte art. 84-H:
+"Art. 84-H - Os Juizados Especiais da Fazenda Pública são competentes para processar, conciliar, julgar e executar causas cíveis de interesse do Estado e dos municípios, e das autarquias, fundações e empresas públicas a eles vinculadas, até o valor de sessenta salários mínimos, nos termos da legislação nacional pertinente.".
+Art. 40 - Os arts. 85 e 85-A da Lei Complementar nº 59, de 2001, passam a vigorar com a seguinte redação:
+"Art. 85 - Os Juizados Especiais poderão funcionar descentralizadamente, em unidades instaladas em municípios ou distritos que compõem as comarcas, bem como nos bairros do município-sede, até mesmo de forma itinerante, conforme disposto em ato expedido pelo Tribunal de Justiça.

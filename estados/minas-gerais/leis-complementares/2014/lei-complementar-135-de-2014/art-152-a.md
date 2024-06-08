@@ -1,0 +1,2 @@
+Art. 152-A - Cumprirá ao Corregedor-Geral de Justiça fazer o acompanhamento necessário à reabilitação e propor que seja reaproveitado o Juiz de Direito compulsoriamente removido ou posto em disponibilidade.
+Parágrafo único - A atribuição a que se refere o caput pertencerá ao Presidente do Tribunal de Justiça, quando for o caso de disponibilidade de Desembargador, ou ao Presidente do Tribunal de Justiça Militar, quando se tratar de membro deste Tribunal.

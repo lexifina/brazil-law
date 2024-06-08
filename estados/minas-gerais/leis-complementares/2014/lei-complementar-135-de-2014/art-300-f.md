@@ -1,0 +1,2 @@
+Art. 300-F - Os serviços notariais e de registro, previstos na Lei Federal nº 8.935, de 1994, são criados por lei de iniciativa do Tribunal de Justiça, observado o disposto no inciso VII do art. 98 da Constituição do Estado.
+Parágrafo único - A definição de circunscrição geográfica de atuação de registradores, quando necessário, será realizada por meio de resolução do órgão competente do Tribunal de Justiça.
