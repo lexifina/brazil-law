@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO CLASSIFICADO PARA ALÉM DAS VAGAS OFERECIDAS NO CERTAME. ALEGAÇÃO DE SURGIMENTO DE NOVA VAGA. DISCRICIONARIEDADE. AGRAVO NÃO PROVIDO.
+1. Os candidatos aprovados, mas classificados para além do número de vagas oferecidas no edital do certame, não possuem, em regra, direito líquido e certo à nomeação, mesmo que surjam novas vagas no período de vigência do concurso, caso em que o preenchimento está sujeito ao juízo discricionário de conveniência e oportunidade por parte da administração. Precedentes.
+2. Na hipótese, a agravante, ainda que aprovada no certame, foi reclassificada em 13º (décimo terceiro) lugar, muito além das 2 (duas) vagas oferecidas no edital.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de agravo interno interposto por Saara Lidiana Costa Lima contra a decisão de fls. 623/625, que, com fundamento nos arts. 932, VIII, do CPC, e 34, XVIII, b, do RISTJ, negou provimento ao recurso ordinário manejado contra o acórdão de fls. 547/550, preferido pelo plenário do Tribunal de Justiça do Estado do Rio Grande do Norte.
+A decisão agravada, ancorada em precedentes deste STJ, validou o fundamento invocado pela Corte de origem para denegar a ordem, ao reconhecer como lídimo o exercício do poder discricionário administrativo, reservando à administração a capacidade de livremente decidir pela conveniência e oportunidade de preencher, ou não, apontada vaga nova em região diversa, mediante convocação de candidatos classificados para além das vagas originalmente previstas em edital.
+Segundo se colhe da petição vestibular (fls. 7/36), a autora, após reclassificação em razão de desistência da primeira convocação, passou ao 13º lugar para o cargo de professor de Química para a 13ª DIREC e, nessa condição, impetrou o subjacente writ no intento de obter ordem para ocupar cargo equivalente na 8ª DIREC, sob alegação de surgimento de vaga nesta última região.
+Nas razões recursais, fls. 579/599, como também na petição do agravo interno (fls. 631/646), insiste em que a existência de cargo vago em outra regional (no caso, na 8ª DIREC) convola em direito a mera expectativa que detinha até então e, firme nesse argumento, requer a reforma da decisão agravada e a consequente concessão da ordem.
+O Estado do Rio Grande do Norte não apresentou contrarrazões em tempo, consoante certidão às fls. 652.
+O recurso é tempestivo, bem como regular é a representação (fl. 37).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO CLASSIFICADO PARA ALÉM DAS VAGAS OFERECIDAS NO CERTAME. ALEGAÇÃO DE SURGIMENTO DE NOVA VAGA. DISCRICIONARIEDADE. AGRAVO NÃO PROVIDO.
+1. Os candidatos aprovados, mas classificados para além do número de vagas oferecidas no edital do certame, não possuem, em regra, direito líquido e certo à nomeação, mesmo que surjam novas vagas no período de vigência do concurso, caso em que o preenchimento está sujeito ao juízo discricionário de conveniência e oportunidade por parte da administração. Precedentes.
+2. Na hipótese, a agravante, ainda que aprovada no certame, foi reclassificada em 13º (décimo terceiro) lugar, muito além das 2 (duas) vagas oferecidas no edital.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Como já anotado, a agravante, após renúncia à convocação, foi reclassificada em 13º lugar e, assim, mesmo que aprovada no certame, se achou posicionada para além das duas (2) vagas reservadas a professores de Química para exercício no âmbito da 13ª DIREC. Apesar disso, compreendeu ter o direito líquido e certo à vaga alegadamente disponível em outra regional (8ª DIREC), sob alegação de que "diante dos números trazidos em juízo, se somadas as vagas decorrentes de novas convocações, no mesmo formato, realizadas pelo poder público, chega-se a 01cargo vago, ficou demonstrado a imperiosa necessidade para PROFESSOR DE QUÍMICA, do quadro geral de pessoal da Secretaria de Estado da Educação e da Cultura  ..  devendo a Impetrante, ora Agravante, aprovada na 13º. DIREC, ser lotada no cargo na 8ª DIRED (ANGICOS), porque o Edital assim permite" (fl. 644).
+Nesse contexto, a iterativa jurisprudência, tanto do STJ como do STF, se firmou no sentido de que os candidatos aprovados, mas classificados para além do número de vagas oferecidas no edital do certame, como é o caso da impetrante, não possuem, em regra, direito líquido e certo à nomeação, mesmo que surjam novas vagas no período de vigência do concurso, hipótese em que o preenchimento está sujeito ao juízo discricionário de conveniência e oportunidade por parte da administração.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO CLASSIFICADO PARA ALÉM DAS VAGAS OFERECIDAS NO CERTAME. ALEGADO SURGIMENTO DE VAGAS NO DECORRER DO PRAZO DE VALIDADE DO CONCURSO, EM RAZÃO DE DESISTÊNCIAS. MERA EXPECTATIVA DE DIREITO À NOMEAÇÃO. PRECEDENTES DO STJ E DO STF. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Os candidatos aprovados, mas classificados para além do número de vagas oferecidas no edital do certame, não possuem, em regra, direito líquido e certo à nomeação, mesmo que surjam novas vagas no período de vigência do concurso, caso em que o preenchimento está sujeito ao juízo discricionário de conveniência e oportunidade por parte da Administração. Precedentes do STJ e do STF.
+2. As provas nos autos não autorizam a conclusão de que o agravante, classificado em 20º (vigésimo) lugar na ordem geral, seria alcançado, ainda que consideradas as anunciadas desistências, mormente porque o edital previu tão somente 14 (quatorze) vagas para Oficiais de Justiça, das quais 2 (duas) reservadas para a capital e as remanescentes distribuídas entre doze comarcas do interior, uma para cada localidade, de modo que não se pode afirmar, sem dilação probatória, que a única vaga anunciada para a comarca de Rolim de Moura/RO, pretendida pelo Autor, estaria disponível.
+3. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 67.908/RO, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 31/3/2022.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATA CLASSIFICADA PARA ALÉM DAS VAGAS OFERECIDAS NO CERTAME. SURGIMENTO DE VAGAS NO DECORRER DO PRAZO DE VALIDADE DO CONCURSO. MERA EXPECTATIVA DE DIREITO À NOMEAÇÃO. PRECEDENTES DO STJ E DO STF.
+1. Os candidatos aprovados, mas classificados para além do número de vagas oferecidas no edital do certame, não possuem, em regra, direito líquido e certo à nomeação, mesmo que surjam novas vagas no período de vigência do concurso, caso em que o preenchimento está sujeito ao juízo discricionário de conveniência e oportunidade por parte da Administração. Precedentes do STJ e do STF.
+2. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 60.840/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 12 /12/2019.)
+Por isso, tenho que a decisão agravada deve ser mantida, por sua própria fundamentação.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
