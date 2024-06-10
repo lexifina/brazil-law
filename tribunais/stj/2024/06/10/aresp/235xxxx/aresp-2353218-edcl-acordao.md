@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fls. 2.019-2.020):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. PRÊMIO DE PRODUTIVIDADE A AUDITORES FISCAIS APOSENTADOS E PENSIONISTAS. OFENSA À COISA JULGADA. EXAME DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. DESCABIMENTO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O recurso especial não é via recursal adequada para analisar suposta ofensa a dispositivo constitucional, sob pena de usurpação da competência que, por expressa determinação da Constituição Federal, pertence ao Supremo Tribunal Federal.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. Esta Corte firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ.
+5. Agravo interno não provido.
+Os embargantes, aduzindo a ocorrência de omissão, sustentam que "deixou-se de analisar o recente julgamento do STF proferido na ADI 5510, que repercute diretamente no caso em tela e que impõe a modificação do acórdão ora embargado" (fl. 2.032). Reiteram que "a ação que deu ensejo à execução tratava exatamente de reconhecer o direito, aos auditores aposentados, ao recebimento do prêmio de produtividade. Portanto, trata-se, no mérito, de discussão quanto à preservação dos direitos dos aposentados. Desse modo, o e. STF, ao determinar a preservação das "situações consolidadas exclusivamente para fins de aposentadoria", impõe o reconhecimento da condição de auditores, dos ora embargantes, no que se refere à sua condição de aposentados. Daí porque, a partir de tal decisão, deve ser reconhecida a legitimidade dos ora embargantes para figurarem no polo ativo da presente demanda" (fl. 2.035). Ao final, requerem "seja sanada a omissão e seja apreciada a decisão proferida na ADI n. 5510 para que seja reformada a decisão objurgada e que se reconheça a legitimidade ativa dos embargantes para continuar executando seus direitos, bem como prequestionar a matéria para interposição de recursos futuros" (fl. 2.037)
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que: (i) é descabida a utilização da via especial para o exame de afronta a dispositivo constitucional; (ii) incide, à hipótese, o óbice da Súmula 283/STF, pois "ao interpor o recurso especial e indicar afronta à coisa julgada (arts. 502, 503, 507 e 508 do CPC/2015), a parte recorrente deixou de impugnar o fundamento do acórdão recorrido segundo o qual "se o título executivo não contempla a legitimidade ativa dos ora embargantes, inexiste ofensa à coisa julgada material estabelecida nos autos nº 824/2005, uma vez que a vantagem postulada é restrita aos Auditores Fiscais que ingressaram na carreira por meio de concurso público" (fl. 1.164)" (fls. 2.023-2.024); e (iii) "esta Corte firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (fl. 2.024).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
