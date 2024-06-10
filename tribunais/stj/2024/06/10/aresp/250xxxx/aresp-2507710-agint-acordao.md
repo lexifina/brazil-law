@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE VIOLAÇÃO DO TEMA REPETITIVO 877/STJ. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 283/STF. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Aplicável o óbice da Súmula 284/STF, uma vez que as razões recursais delineadas no Especial estão dissociadas dos fundamentos utilizados no aresto recorrido, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Quanto ao Tema 877 do STJ, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal (AgInt no AREsp 2.243.619/RJ, rel. Ministro Francisco Falcão, Segunda Turma, DJe de 17.5.2023).
+3. Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto da decisão (fls. 680-685) proferida pela Presidência do STJ que não conheceu do Recurso.
+A parte agravante defende, em suma, ser inaplicável ao caso o Tema 877 do STJ e a Súmula 284 do STF.
+Reitera ainda as razões apresentadas no Recurso Especial.
+Ao final, requer a reconsideração do decisum agravado ou a submissão do feito ao Órgão Colegiado.
+Não houve contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE VIOLAÇÃO DO TEMA REPETITIVO 877/STJ. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 283/STF. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Aplicável o óbice da Súmula 284/STF, uma vez que as razões recursais delineadas no Especial estão dissociadas dos fundamentos utilizados no aresto recorrido, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Quanto ao Tema 877 do STJ, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal (AgInt no AREsp 2.243.619/RJ, rel. Ministro Francisco Falcão, Segunda Turma, DJe de 17.5.2023).
+3. Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste em 19.4.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado no decisum combatido, quanto ao Tema n. 877 do STJ, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal.
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.565.020/RJ, rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 14.8.2020; AgInt no REsp n. 1.832.794/RO, rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 27.11.2019; AgInt no AREsp n. 1.425.911/MG, rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15.10.2019; AgInt no REsp n. 1.864.804/SP, rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7.6.2021.
+Ademais, o acórdão recorrido assim decidiu:
+Pois bem, não obstante as ponderações do agravante tenho não lhe assistir razão, na medida em que, na espécie, o magistrado de origem agiu em consonância com o entendimento já exarado por esta Corte de Justiça quanto a ausência da apontada prescrição.
+No caso dos autos, consta que a parte exequente ingressou com o cumprimento de sentença na data de 26/11/2021, embora o Mandado de Segurança n. 698/93 (n. 5000002-05.1993.8.27.0000), que trata do restabelecimento de quantitativo salarial retirado dos militares, tenha sido julgado no ano de 2004, nota-se claramente que o processo ainda se encontra pendente nesta E. Corte de Justiça, com movimentação datada recentemente.
+Portanto, tenho que não transcorreu o prazo de cinco anos, não havendo que se falar em prescrição para postular o cumprimento de sentença (fl. 421).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no Especial estão dissociadas dos fundamentos utilizados no aresto recorrido, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ademais, o Tribunal de origem asseverou que, "embora o Mandado de Segurança n. 698/93 (n. 5000002-05.1993.8.27.0000), que trata do restabelecimento de quantitativo salarial retirado dos militares, tenha sido julgado no ano de 2004, nota-se claramente que o processo ainda se encontra pendente nesta E. Corte de Justiça, com movimentação datada recentemente. Portanto, tenho que não transcorreu o prazo de cinco anos, não havendo que se falar em prescrição para postular o cumprimento de sentença (fl. 421)."
+Como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Desse modo, conclui-se que o Recurso Especial não merece conhecimento, devendo ser mantida a decisão da Presidência.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
