@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto pelo ESPÓLIO DE PAULO AUGUSTO VASCONCELOS, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 176):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - AUSÊNCIA DE PRESCRIÇÃO - PARTE QUE SEMPRE FOI DILIGENTE - MANUTENÇÃO DA DECISÃO - RECURSO CONHECIDO E DESPROVIDO- UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 182-184).
+Nas razões do recurso especial, o agravante alegou violação aos arts. 485, IV e VI, 489, 924, V, e 1.022, II, do CPC/2015; 12, V, e 568, do CPC/1973; e 202, 206, § 3º, VIII, e 206-A, do CC/2002.
+Apontou, inicialmente, que o acórdão recorrido foi omisso, pois não se manifestou a respeito das questões suscitadas nos aclaratórios, imprescindíveis para a solução da controvérsia.
+Sustentou, em relação ao mérito, a ocorrência de prescrição intercorrente ante a inércia da credora em regularizar o polo passivo da execução após a morte do devedor, em tempo anterior ao prazo trienal intercorrente.
+Foram apresentadas contrarrazões (e-STJ, fls. 255-272).
+O processamento do apelo especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+De início, depreende-se que a apontada afronta aos arts. 489 e 1.022, II, do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, convém registrar que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DESIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+6. Agravo interno a que se nega provimento (AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+No caso em análise, o Tribunal de origem, ao dirimir a controvérsia, apresentou a seguinte fundamentação (e-STJ, fl. 177):
+Conheço do agravo por estarem preenchidos os requisitos de admissibilidade.
+Colhe-se dos autos que a parte agravada ajuizou cumprimento de sentença em face do recorrente em 2003, no entanto dois anos depois o devedor faleceu.
+Do manusear dos autos vejo que na Apelação Cível 201300224300 já restou decidido que não caberia a extinção do feito por desídia da exequente.
+Ocorre que analisando o processo de inventário do devedor, iniciado apenas em 2014, n. 201412300006, vejo que houve vários percalços no mesmo como remoção de inventariante por duas vezes e dois embargos de terceiro, situações estas que atrapalharam a regularização do polo passivo da lide e não pode ser imputado a exequente.
+Ademais, o cumprimento de sentença continuou a tramitar em face dos herdeiro do devedor, sendo que apenas a partir do julgamento do Agravo de Instrumento n. 201900723934 restou decidido que devia ser suspenso o presente cumprimento e determinada "a intimação do inventariante para regularizar o pólo passivo do Cumprimento de Sentença e efetue a comunicação do Juiz de Direito da 23a. Vara Cível de Aracaju quanto ao valor atualizado da dívida, para viabilizar a determinação de reserva de bens necessários ao adimplemento, na forma determinada no Acórdão nº20205784 (ação conexa)".
+Nesse toar, não há que se falar em inercia da exequente, nem mesmo em incidência da prescrição intercorrente, como sustenta o devedor.
+Nesse sentido ponderou o magistrado a quo em sede de embargos de declaração à decisão agravada. In verbis:
+"Destarte, observo que o exequente promoveu os atos necessários para habilitação nos autos do respectivo Espólio, não sendo justo e nem coerente que no tempo necessário para os atos de habilitação seja decretado que o exequente ficou inerte para fins de reconhecimento da prescrição intercorrente".
+Nesse toar, impende a manutenção da decisão agravada.
+Assim, constata-se que as questões postas em debate foram efetivamente decididas, não havendo falar em ausência de fundamentação, mas sim em julgamento adverso ao pretendido pelo recorrente.
+Portanto, não se cogita de negativa de prestação jurisdicional, tampouco de nulidade do aresto estadual.
+Em relação à questão principal, tenha-se em conta que a prescrição se funda na cognição de que a inércia prolongada do titular, ao não exercer o seu direito, faz presumir a intenção de renunciá-lo. O ordenamento jurídico pune, assim, o negligente ao não exercer o seu direito durante um lapso temporal determinado. Como pilar da segurança jurídica e da pacificação das relações sociais, o instituto da prescrição tradicional irradia seus efeitos para dentro do processo, já que a satisfação do direito não pode ser eternizada na via judicial.
+Consoante destacado no REsp 1.604.412/SC, desta relatoria, Segunda Seção, DJe 22/8/2018, deve-se ter em mente que a prescrição intercorrente é meio de concretização das mesmas finalidades inspiradoras da prescrição tradicional, guarda, portanto, origem e natureza jurídica idênticas, distinguindo-se tão somente pelo momento de sua incidência. Por isso, não basta ao titular do direito subjetivo a dedução de sua pretensão em juízo dentro do prazo prescricional, sendo-lhe exigida a busca efetiva por sua satisfação.
+Noutros termos, é imprescindível que o credor promova todas as medidas necessárias à conclusão do processo, com a realização do bem da vida judicialmente tutelado, o que, além de atender substancialmente o interesse do exequente, assegura também ao devedor a razoabilidade imprescindível à vida social, não se podendo albergar no direito nacional a vinculação perpétua do devedor a uma lide eterna.
+Nesse contexto, observada a consonância da decisão recorrida com a jurisprudência desta Corte Superior (Súmula 83/STJ), nos termos acima declinados, constata-se a impossibilidade de revisar a conclusão adotada pelo colegiado local, ante o óbice da Súmula 7/STJ.
+Com efeito, nota-se, da leitura do trecho acima transcrito, que a conclusão adotada pela Corte local está calcada nas premissas fáticas e probatórias acostadas aos autos, de modo que rever o entendimento da Corte local acerca da inexistência dos requisitos para o reconhecimento da prescrição intercorrente e de que a exequente promoveu as devidas diligências para o regular andamento do feito demandaria reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ART. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. PRESCRIÇÃO INTERCORRENTE. NÃO INCIDÊNCIA. AUSÊNCIA DE INÉRCIA DO CREDOR. PREMISSAS FÁTICAS E PROBATÓRIAS. REEXAME INVIÁVEL. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
