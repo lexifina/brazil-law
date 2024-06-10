@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRB - BANCO DE BRASÍLIA S.A., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+"APELAÇÃO. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. FUNCIONÁRIO DO BANCO. NOTÍCIA-CRIME POR PRÁTICA CRIMINOSA. AÇÃO PENAL. ABSOLVIÇÃO. COMPETÊNCIA. COISA JULGADA. PRESCRIÇÃO. VALORAÇÃO.
+I - O pedido de indenização por danos morais está fundamentado no ajuizamento de ação penal movida contra o autor após notícia-crime realizada pelo Banco-réu, do qual era funcionário. Nesse contexto, o litígio não versa sobre a relação trabalhista estabelecida entre as partes ou os seus consectários, razão pela qual compete à Justiça do Distrito Federal processar e julgar a demanda.
+II - A distinção entre as causas de pedir impede o reconhecimento da coisa julgada, uma vez que não se tratam de demandas idênticas.
+III - O art. 206, § 3º, inc. V, do CC fixa prazo trienal da pretensão de reparação civil. Por sua vez, o art. 200 do CC estabelece que "quando a ação se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva". Na demanda, não transcorreram 3 anos entre o trânsito em julgado da r. sentença penal absolutória e o ajuizamento da ação, pois de junho a outubro/2020 os prazos prescricionais estavam interrompidos por força da Lei 14.010/20. Prejudicial rejeitada.
+IV - Configurado o abuso do direito do Banco-réu ao produzir, de maneira desarrazoada, notícia-crime que resultou no ajuizamento de ação penal contra o apelado-autor, na qual foi absolvido, causando-lhe indiscutíveis desgastes emocionais e violação da sua honra e imagem perante os colegas de trabalho, a comunidade e familiares, que superaram os aborrecimentos e transtornos cotidianos. Em consequência, o autor da notícia-crime indevida deve reparar os danos morais dela decorrentes.
+V - A valoração da compensação moral deve observar os princípios da razoabilidade e da proporcionalidade, a gravidade e a repercussão dos fatos, a intensidade e os efeitos da lesão. A sanção, por sua vez, deve observar a finalidade didático-pedagógica, evitar valor excessivo ou ínfimo, e objetivar sempre o desestímulo à conduta lesiva. Mantido o valor fixado pela r. sentença.
+VI - Apelação do réu conhecida e desprovida" (e-STJ fls. 1.924).
+Em suas razões, o recorrente aponta, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigo114, incisos I e IX, da Constituição Federal, porque compete à Justiça do Trabalho processar e julgar as ações oriundas da relação de trabalho; e
+(ii) artigo 188 do Código Civil, pois a notícia-crime configura exercício regular de direito, razão pela qual o seu oferecimento não dá ensejo à responsabilização por danos morais, ainda que seja reconhecido que o acusado era inocente ou que os fatos não existiram.
+Contrarrazões às e-STJ fls. 1.979/1.993.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Quanto ao art. 114 da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+No mais, a jurisprudência do Superior Tribunal de Justiça possui orientação no sentido de que,
+"muito embora a simples apresentação de notícia-crime perante autoridade competente, com a indicação do suposto autor, constitua, em regra, exercício regular de direito, poderá o "denunciante" ser responsabilizado quando o seu comportamento doloso ou culposo contribuir de forma decisiva para a imputação de crime não praticado" (AgInt no REsp nº 1.727.822/AM, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/10/2018, DJe de 22/10/2018).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANO MORAL. APRESENTAÇÃO DE NOTÍCIA-CRIME PERANTE A AUTORIDADE COMPETENTE, COM A RESPECTIVA INDICAÇÃO DO ACUSADO. AÇÃO CRIMINAL ARQUIVADA. EXERCÍCIO REGULAR DE DIREITO. AUSÊNCIA DE ABUSO DE DIREITO. REEXAME FÁTICO-PROBATÓRIO. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta egrégia Corte se orienta no sentido de considerar que a comunicação à autoridade policial de fato que, a princípio, configura crime, ou o pedido de apuração de sua existência e autoria, suficientes a ensejar a abertura de inquérito policial, corresponde ao exercício de um dever legal e regular de direito, que não culmina na responsabilidade indenizatória. "Poderá o denunciante ser responsabilizado, entretanto, se o seu comportamento doloso ou culposo contribuiu de forma decisiva para a imputação de crime não praticado pelo acusado" (REsp 470.365/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 2/10/2003, DJ de 1º/12/2003, p. 349).
+2. No caso, o eg. Tribunal de origem foi categórico em reconhecer que a apelada, ora agravada, agiu no exercício regular de direito de apresentar notícia-crime perante a autoridade competente, não havendo falar em ato ilícito a ensejar a responsabilidade pelo pagamento de indenização. Incidência do óbice da Súmula 7/STJ.
+Precedentes.
+3. Agravo regimental a que se nega provimento" (AgInt no AREsp nº 745.351/PA, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2017, DJe de 29/6/2017).
+"RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DANO MORAL DECORRENTE DE NOTÍCIA-CRIME ARQUIVADA POR MANIFESTA ATIPICIDADE. RESPONSABILIDADE CIVIL. PRESCRIÇÃO. TERMO INICIAL. DATA DA SENTENÇA PENAL ABSOLUTÓRIA.
+1. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. A responsabilização civil dos autores de notícia-crime depende da demonstração de atuação abusiva, seja em razão do exercício temerário ou de má-fé.
+5. Desse modo, a pretensão de compensação de danos morais tem estrita relação de dependência em relação ao fato apurado perante o juízo criminal, razão porque são aplicáveis analogicamente as regras relativas à ação civil ex delicto, inclusive quanto ao prazo prescricional (art. 200 do CC/02).
+6. Recurso especial parcialmente conhecido e, nesta parte, provido" (REsp nº 1.309.015/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 17/12/2013, DJe de 4/2/2014).
+Todavia, a Corte de origem consignou que, diante das peculiaridades do caso concreto, estaria configurado o dever de indenizar, porquanto
+"(..)
+Evidente (..) o abuso do direito do apelante-réu ao produzir, de maneira desarrazoada, notícia-crime, que resultou no ajuizamento de ação penal contra o apelado-autor, causando-lhe indiscutíveis desgastes emocionais e violação da sua honra e imagem perante os colegas de trabalho, a comunidade e familiares, que superam os aborrecimentos cotidianos. Em consequência, o autor da notícia-crime indevida deve reparar os danos morais dela decorrentes" (fl. 1.936 e-STJ).
+Nesse contexto, afastar a conclusão a que chegou o Tribunal de origem, que, com fundamento nas particularidades da hipótese, considerou configurado o dever de indenizar e a conduta abusiva do ora recorrente, demandaria revolvimento do arcabouço fático-probatório, o que é vedado nesta sede especial ante o enunciado da Súmula 7 do STJ.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
