@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. LEGITIMIDADE PASSIVA AD CAUSAM. SECURITIZADORA. AQUISIÇÃO DE DIREITOS CREDITÓRIOS. RESPONSABILIDADE. AFASTAMENTO. REEXAME. SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, tais como termo de parceria firmada entre empresas garantindo fornecimento de recursos necessários para a execução da obra, conforme dispõem as Súmulas n. 5 e 7 do STJ.
+2. Ausente o prequestionamento de matéria alegadamente violada, a despeito da oposição de embargos de declaração na origem, não é possível o conhecimento de recurso especial ante a incidência da Súmula n. 211 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+TRUE SECURITIZADORA S.A. (ou APICE SECURITIZADORA IMOBILIARIA S.A) interpõe agravo interno contra a decisão de fls. 1.131-1.134, que negou provimento ao agravo em recurso especial.
+Na origem, trata-se ação de conhecimento proposta por WALMIR RIOS DA SILVA em face de SUMMERVILLE PARTICIPAÇÕES LTDA., AGC URBANISMO LTDA. e APICE SECURITIZADORA IMOBILIÁRIA S.A., objetivando a rescisão do contrato e devolução de 75% dos valores pagos e a indenização por lucros cessantes.
+A sentença julgou parcialmente procedentes os pedidos e confirmou a liminar deferida inicialmente, responsabilizando todas as demandadas a devolverem os valores pagos pelo autor da ação e a pagar indenização por lucros cessantes.
+O Tribunal de origem, reformou a sentença, para: 1) condenar as rés ao pagamento de indenização por lucros cessantes correspondente a 15 meses de aluguel e no percentual de 0,5% ao mês, incidente sobre o valor do imóvel pago na planta, com juros de mora de 1% ao mês e correção monetária pelo IPCA, a partir de cada mês de prejuízo experimentado; 2) condenar as rés, de maneira solidária, a pagarem ao autor, a título de indenização por danos morais, o valor de R$ 12.000,00, com juros de 1% ao mês a partir do evento danoso, e correção monetária pelo INPC/IBGE a partir do arbitramento; bem como 3) suspender a exigibilidade das verbas de sucumbência devidas pelo 1º apelante, em virtude da concessão do benefício da gratuidade de Justiça, pelo período de 5 anos, caso não se comprove a alteração de sua situação de hipossuficiência econômica, na forma do artigo 98, § 3º, do CPC.
+Contra o referido acórdão, a ora agravante interpôs recurso especial, no qual, além de dissídio jurisprudencial, apontou violação dos arts. 29 e 31-A, § 12, da Lei n. 4.591/1964, sustentando que não possui relação jurídica com a parte compradora do lote por não integrar a compra e venda, tampouco a cadeia de consumo relacionada à incorporação imobiliária que deu origem ao contrato. Contudo, o recurso especial fora inadmitido, sob o fundamento de ausência de impugnação de todos os dispositivos legais que serviram de base ao acórdão recorrido.
+O agravo em recurso especial fora desprovido, pela ausência de prequestionamento e contra a referida decisão, a parte agravante interpôs o presente recurso.
+A agravante, neste agravo interno (fls. 1.137-1.143), sustenta que a matéria suscitada no recurso especial foi devidamente enfrentada no acórdão recorrido.
+Requer a reconsideração da decisão impugnada ou a submissão do presente agravo interno ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. LEGITIMIDADE PASSIVA AD CAUSAM. SECURITIZADORA. AQUISIÇÃO DE DIREITOS CREDITÓRIOS. RESPONSABILIDADE. AFASTAMENTO. REEXAME. SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, tais como termo de parceria firmada entre empresas garantindo fornecimento de recursos necessários para a execução da obra, conforme dispõem as Súmulas n. 5 e 7 do STJ.
+2. Ausente o prequestionamento de matéria alegadamente violada, a despeito da oposição de embargos de declaração na origem, não é possível o conhecimento de recurso especial ante a incidência da Súmula n. 211 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+Consta do acórdão da apelação que a Corte de origem concluiu que a alegação de que o construtor e/ou incorporador responde com exclusividade por prejuízos decorrentes do inadimplemento contratual, nos termos dos arts. 29 e 31-A, § 12, da Lei n. 4591/1964, não prospera, uma vez que foi comprovado, por meio de documentos emitidos pela própria agravante, ser ela, a atual proprietária e administradora dos recebíveis do empreendimento.
+Nesse contexto, "os conteúdos normativos dos dispositivos impugnados não foram objeto de apreciação pelo Tribunal de origem - nem mesmo implicitamente, apesar da interposição dos embargos de declaração objetivando suprir eventual omissão quanto a esse ponto" (fl. 1.133), porquanto a legitimidade fora aferida com base em dados fáticos e contratuais dos autos.
+Nesse sentido, os seguintes trechos do acórdão da apelação (fl. 306, destaquei):
+De pronto, destaco que vejo do instrumento contratual  ..  que a True Securitizadora S/A adquiriu junto à Summerville Participações Ltda. cédulas de crédito imobiliário (CCIS) representativas de créditos imobiliários referentes a unidades imobiliárias do "Loteamento Summer Ville". Por meio desse instrumento, inclusive, ficou acertado que todos os pagamentos efetuados pelos devedores das unidades seriam em favor da securitizadora, não podendo ser recebidos pela cedente dos créditos.
+Chama atenção, ainda, o documento  .. , emitido pela securitizadora (ainda com seu nome antigo) e pela Summerville Participações Ltda., que trata da parceria que teria sido firmada entre as empresas, em que a primeira é apresentada como "atual proprietária e administradora dos recebíveis do empreendimento". Desta parte é dito, ainda que, forneceria os recursos necessários para a execução da obra.
+Tendo isso por bem exposto, tenho que a ilegitimidade passiva não deve ser reconhecida na espécie. Isso porque há legitimidade da True Securitizadora S/A decorrente da responsabilidade solidária existente entre todos aqueles que integram a cadeia de fornecimento do produto ou serviço.
+Caso, pois, de manutenção da Súmula n. 211 do STJ.
+Ademais, ainda que superada a aplicação do óbice pela ausência de prequestionamento, seria caso de aplicação das Súmulas n. 5 e 7 do STJ, porquanto o recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, conforme dispõem as Súmulas n. 5 e 7 do STJ.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É como voto.
