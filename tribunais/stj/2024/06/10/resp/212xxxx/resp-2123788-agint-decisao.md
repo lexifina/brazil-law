@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FUNDAÇÃO SÃO JOSÉ contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 1.285):
+APELAÇÕES CÍVEIS - AÇÃO DE EXECUÇÃO -PENHORA DE IMÓVEIS - DEPÓSITO JUDICIAL DE VALOR EM DINHEIRO SUPERIOR À DÍVIDA -QUANTIA PROVENIENTE DA VENDA DOS IMÓVEIS A TERCEIROS - PROPÓSITO DE SATISFAÇÃO DO CRÉDITO ALCANÇADO - MODO MENOS GRAVOSO PARA O EXECUTADO - VALIDADE -ADJUDICAÇÃO OU FORMALIZAÇÃO DA ALIENAÇÃO -DESNECESSIDADE - RESTRIÇÃO CANCELADA -ORDEM DE PAGAMENTO - CRÉDITO PRINCIPAL, EM SEGUIDA CRÉDITO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS -RELAÇÃO DE ACESSORIEDADE -CONCURSO DE CREDORES -INEXISTÊNCIA - SENTENÇA MANTIDA. Alienados os imóveis penhorados e depositado em juízo a integralidade do valor apurado na venda, com satisfação do crédito principal exequendo, é inadequada e protelatória a pretensão de adjudicação dos imóveis em consideração ao longo trâmite processual sem efetivação da medida e à disponibilização do valor em conta judicial pelo terceiro adquirente. Cancelada a penhora, carece de razão a formalização da alienação na medida em que possibilitada a transferência da propriedade por meio de diligência junto ao ofício cartorário. Os honorários advocatícios de sucumbência titularizado pelo procurador do credor vencedor da lide executiva não possuem preferência em relação ao crédito principal ostentado por seu cliente diante da acessoriedade. A verba honorária exigida pelo espólio do procurador não preserva a natureza alimentar, porque já não se destina ao custeio das despesas para a sobrevivência da pessoa natural, sendo objeto de repartição entre os seus herdeiros. Recursos não providos.
+A decisão agravada não conheceu do recurso especial da agravante (fls. 1.417-1.421).
+Nas razões do agravo interno, aduz a agravante que (fl. 1.427):
+A ofensa e negativa de vigência aos artigos 870, 874, 876, 879 e 880 do CPC são claras e diretas, pois houve a autorização de celebração de negócio jurídico de compra e venda entre o devedor e terceiro estranho ao processo, em pese a impugnação dos credores.
+Sustenta que (fl. 1.427):
+A remissão da dívida não ocorreu no caso dos autos, mas sim pedido de alienação do bem por terceiros, alienação essa autorizada pelo MM. Juiz sentenciante em que pese as impugnações feitas pelos credores, em especial quanto ao valor, forma e preferência da adjudicação em relação à alienação judicial do bem a terceiro, antes da sua regular e obrigatória avaliação, deferida a tempo e modo pelo juízo da causa.
+Pugna, por fim, a não incidência da Súmula n. 7/STJ.
+A agravada apresentou impugnação às fls. 1.436-1.445.
+Incluído na pauta de julgamento da Sessão Virtual da Terceira Turma de 28/5/2024 a 3/6/2024, o presente feito foi retirado de pauta (fls. 1.452-1.453).
+É, no essencial, o relatório.
+Em juízo de retratação, reconsidero a decisão monocrática recorrida (fls. 1. 417-1.421), tornando-a sem efeito para o fim, exclusivo, de submeter o recurso especial ao julgamento colegiado, oportunizando às partes, se assim entenderem, exercerem o direito à sustentação oral.
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeito a decisão agravada e submeter o recurso especial ao julgamento cole giado.
+Publique-se. Intimem-se.
+Após, voltem conclusos para pedido de dia de julgamento.
+ EMENTA
