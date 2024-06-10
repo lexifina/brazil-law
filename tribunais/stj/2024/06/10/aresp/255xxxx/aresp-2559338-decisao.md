@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRANCISCA DAS CHAGAS NERES DIAS (FRANCISCA) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, FRANCISCA alegou a violação dos arts. 205 do CC e 27 do CDC, além da existência de divergência jurisprudencial, ao sustentar que é decenal o prazo prescricional da pretensão de indenização por vícios de construção, contado a partir da ciência inequívoca acerca de sua existência.
+Com razão.
+No caso dos autos, o TRF - 5ª Região entendeu que o prazo para o ajuizamento da ação de indenização relativa a vícios de construção é de 10 (dez) anos, porém, os referidos vícios devem ser apontados nos 5 (cinco) anos subsequentes ao recebimento do imóvel, de acordo com o art. 618 do CC. Veja-se, in verbis:
+(..) Deveras, estabelece o art. 618 do CC uma garantia, não a prescrição. Detectado o problema nesse interregno de cinco anos, a culpa do construtor ou agente fiscalizador é presumida. O prazo de ajuizamento de ação de indenização relativa a vícios de construção é de dez anos, porém, os referidos vícios devem ser apontados no decorrer dos cinco anos, contados a partir do recebimento do imóvel pelo mutuário. Dessa forma, detectado o defeito nesse lapso quinquenal, o mutuário do imóvel terá até 10 anos para acionar o construtor e o agente operacional do FAR.
+ ..
+"In casu", a entrega dos imóveis, conforme se depreende dos documentos acostados, ocorreu em 27 de outubro de 2011. Nessa esteira, mais de 5 anos depois da entrega das unidades em questão, há o ajuizamento da presente ação. Portanto, depreende-se que os vícios "sub examine" só foram apontados após ter escoado o prazo quinquenal de garantia posterior à entrega dos imóveis (e-STJ, fl. 405).
+Ao assim decidir, todavia, o Tribunal regional dissentiu da jurisprudência desta Corte, que entende que o prazo quinquenal previsto no art. 618 do CC se trata de garantia mínima e irredutível quanto à solidez e segurança da obra, não tendo nenhuma influência na contagem do prazo prescricional, cujo termo inicial é a data de constatação do vício construtivo.
+Deveras, a "solidez e segurança do trabalho de empreitada de edifícios ou outras construções consideráveis" foram destacadas pelo legislador (artigo 618 do Código Civil) para fins de atendimento ao prazo irredutível de garantia de cinco anos, não consubstanciando, contudo, critério para aplicação do prazo prescricional enunciado na Súmula 194 do STJ (AgInt no AREsp n. 438.665/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/9/2019).
+Destaque-se que o enunciado sumular mencionado, publicado ainda na vigência do Código Civil de 1916, dispõe que prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos da obra (Súmula n.º 194 do STJ), prazo esse que, na vigência do Código Civil de 2002, é de 10 (dez) anos, conforme previsto no art. 205 desse diploma legal.
+Sobre o tema, destacam-se os seguintes precedentes deste Sodalício:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. VÍCIO CONSTRUTIVO. PRESCRIÇÃO DECENAL. ART. 205 DO CÓDIGO CIVIL. TERMO INICIAL. SÚMULA Nº 568/STJ
+1. No caso, não subsiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que se aplica o prazo prescricional decenal disposto no art. 205 do Código Civil à pretensão indenizatória decorrente de vício construtivo. Precedentes.
+3. O tribunal de origem decidiu em consonância com a jurisprudência desta Corte Superior ao concluir que termo inicial da prescrição é a data do conhecimento das falhas construtivas.
+4. Estando o acórdão recorrido em consonância com o entendimento do Superior Tribunal de Justiça, correta a aplicação da Súmula nº 568/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.431.587/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. VÍCIO CONSTRUTIVO. ART. 26 DO CDC. ART. 618 DO CC. PRAZO DECADENCIAL. INAPLICABILIDADE. MÍNIMO DE GARANTIA DO IMÓVEL. IRRELEVÂNCIA PARA CONTAGEM DO PRAZO PRESCRICIONAL DECENAL. PRECEDENTES.
+1. Conforme entendimento jurisprudencial da Segunda Seção, a pretensão do consumidor de ser indenizado pelo prejuízo decorrente de vícios de construção não se sujeita a prazo decadencial, quer previsto no Código Civil, quer previsto no CDC.
+2. A jurisprudência do STJ destaca que o prazo previsto no art. 618 do CC é meramente para irredutibilidade de garantia mínima, não tendo nenhuma influência com o prazo prescricional, o qual tem como termo a quo a constatação do vício. Precedentes.
+3. "A "solidez e segurança do trabalho de empreitada de edifícios ou outras construções consideráveis" foram destacadas pelo legislador (artigo 618 do Código Civil) para fins de atendimento ao prazo irredutível de garantia de cinco anos, não consubstanciando, contudo, critério para aplicação do prazo prescricional enunciado na Súmula 194 do STJ". (AgInt no AREsp n. 438.665/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/9/2019).
+Agravo interno improvido. (AgInt no AREsp n. 2.172.556/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+RECURSO ESPECIAL. CIVIL. RESPONSABILIDADE CIVIL. CONSTRUTORA. PRESCRIÇÃO. SOLIDEZ E SEGURANÇA. PRAZO QUINQUENAL DE GARANTIA. DANOS. NÃO APRESENTAÇÃO. SÚMULA Nº 194/STJ. DESCUMPRIMENTO CONTRATUAL. CIÊNCIA DO DANO. POSSIBILIDADE. NÃO EXERCÍCIO. PRAZO VINTENÁRIO. PRESCRIÇÃO. RECONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O artigo 1.245 do Código Civil de 1916 prevê um prazo de garantia de 5 (cinco) anos. Caso o vício oculto, capaz de comprometer a solidez e segurança da obra, manifeste-se dentre desse prazo, o proprietário da obra tem 20 (vinte) anos, prazo ordinário para o exercício das pretensões de direito material pessoais, contado do aparecimento do defeito, para o ajuizamento da ação para reparação de danos. Súmula 194/STJ.
+3. Ao dono da obra é permitido demandar o construtor por vícios relacionados com a solidez e à segurança da construção no prazo de 20 (vinte) anos (artigo 1.056 do Código Civil de 1916), contados desde o conhecimento do vício ou desde quando possível o conhecimento do defeito, sendo desimportante que tenha ocorrido ou não nos primeiros 5 (cinco) anos da entrega da obra. Precedente.
+4. No caso concreto, conhecido o vício construtivo desde 1987, deve ser declarada prescrita a pretensão ajuizada em 2010, mesmo interrompida por medida cautelar de produção antecipada de provas proposta em 2008.
+5. Na hipótese, o prazo vintenário deve ser aplicado em sua integralidade, haja vista que na entrada em vigor do novo Código Civil, já havia transcorrido mais de 10 (dez) anos (artigo 2.028 CC/2002). 6. Recurso especial provido.
+(REsp n. 1.711.581/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2018, DJe de 25/6/2018.)
+A par disso, verifica-se que, no particular, não houve o implemento da prescrição, porquanto, conforme consignado no v. acórdão impugnado, o imóvel foi entregue no ano de 2011, sendo a presente ação ajuizada em 2020.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de afastar o decreto de prescrição.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO. PRAZO DECENAL. TERMO INICIAL. CONSTATAÇÃO DO VÍCIO. PRECEDENTES DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
