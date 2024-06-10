@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. " Nos termos da iterativa jurisprudência desta Corte, não é cabível a condenação em honorários recursais em recurso provido" (REsp n. 2.098.937/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/3/2024, DJe de 11/3/2024).
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  BANCO SANTANDER S/A  contra  a  decisão  que  negou provimento ao recurso especial, dada a jurisprudência do STJ "que preconiza cabimento dos honorários recursais se satisfeitos os requisitos da contemporaneidade da decisão recorrida - se já sob a égide do novo diploma processual -, a manutenção de seu teor e a condenação em honorários desde a origem" (fl. 411).
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  o r. acórdão estadual nem de longe se mostra suficientemente fundamentado, tendo claramente optado por tangenciar a matéria e não se manifestar sobre o cerne da discussão, absolutamente nenhuma palavra dedicando a elemento essencial à definição acerca da aplicação (ou não) do § 11º do art. 85 do CPC, relativo ao inegável desprovimento do apelo do Município" (fl. 417) e que "plenamente satisfeitos os requisitos da (i) contemporaneidade da decisão recorrida (sentença datada de 10/12/2018); (ii) manutenção de seu teor (procedência da ação face à decadência reconhecida); e (iii) condenação em honorários desde a origem (sentença estipulou a verba em 8% sobre o valor atualizado da causa) (fl. 418).
+Pugna pela reconsideração da decisão agravada ou provimento, pelo Colegiado, do agravo interno.
+Sem impugnação da parte agravada.
+É o relatório .
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. " Nos termos da iterativa jurisprudência desta Corte, não é cabível a condenação em honorários recursais em recurso provido" (REsp n. 2.098.937/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/3/2024, DJe de 11/3/2024).
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação ao art. 1.022 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material.
+Ao rejeitar os Embargos de Declaração de fls. 325-326, restou assentado, quanto aos honorários recursais, que, " ..  se devidos apenas quando o recurso é desprovido ou não conhecido (STJ, EDcl no AgInt 1212921-SP, 3º Turma, Rel. Min. Paulo de Tarso Sanseverino, DJ e de 18-10-2019), e não quando provido, como foi o caso, não há falar em omissão" (fl. 337).
+Conforme jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+No mais, de fato, consoante jurisprudência dessa Corte, "os honorários recursais são cabíveis apenas quando não conhecido ou não provido recurso interposto" (AgInt no REsp n. 1.775.399/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024), sendo, portanto, incabível a majoração no caso de provimento do recurso.
+A propósito:
+RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CARTAS DE FIANÇA. PRESTAÇÃO JURISDICIONAL. FALHA. AUSÊNCIA. CONDIÇÃO. IMPLEMENTO. TÍTULO EXECUTIVO EXTRAJUDICIAL. DOCUMENTO PARTICULAR. SUBSCRIÇÃO. DUAS TESTEMUNHAS. LIQUIDEZ. CERTEZA. EXIGIBILIDADE. PRESENÇA. NOVAÇÃO. SÚMULAS NºS 5 E 7/STJ. HONORÁRIOS RECURSAIS. RECURSO PROVIDO. NÃO CABIMENTO.
+ ..
+7. Nos termos da iterativa jurisprudência desta Corte, não é cabível a condenação em honorários recursais em recurso provido.
+8. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido (REsp n. 2.098.937/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/3/2024, DJe de 11/3/2024 - grifo nosso).
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARRAS. VALOR. REDUÇÃO. LITIGÂNCIA DE MÁ-FÉ. DOLO. HONORÁRIOS ADVOCATÍCIOS. DISTRIBUIÇÃO DA SUCUMBÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS. DESCABIMENTO. DECISÃO MANTIDA.
+ ..
+6. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil, (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente e (c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. Ausente um dos requisitos, não deve ocorrer o aumento da verba sucumbencial. Precedentes.
+7. Agravo interno a que se nega provimento (AgInt no AREsp 1.508.332/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 20/2/2020 - grifo nosso).
+Por outro lado, as alegações referentes ao cabimento dos honorários recursais, em razã o do anterior desprovimento da apelação interposta pela parte ora recorrida, carecem de prequestionamento, tendo surgido com a interposição do recurso especial, o que caracteriza inovação recursal. Referida circunstância, ao mesmo tempo em que afasta a ocorrência de negativa de prestação jurisdicional, também impede a análise da referida alegação na via especial, ante o óbice da Súmula 282/STF.
+Isso posto, nego provimento ao recurso.
