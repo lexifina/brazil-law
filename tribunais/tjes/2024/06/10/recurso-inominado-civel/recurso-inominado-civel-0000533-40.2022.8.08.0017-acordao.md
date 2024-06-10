@@ -1,0 +1,95 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 0000533-40.2022.8.08.0017
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DEPARTAMENTO ESTADUAL DE TRANSITO DO ESPIRITO SANTO
+RECORRIDO: JOCIMAR VICENTE DE CASTRO
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 0000533-40.2022.8.08.0017
+RECORRENTE: DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DO ESPÍRITO SANTO - DETRAN/ES
+RECORRIDO: JOCIMAR VICENTE DE CASTRO
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO ANULATÓRIA C/C TUTELA PROVISÓRIA DE URGÊNCIA. SUSPENSÃO DE CNH. (1).
+O AUTOR PRETENDE A NULIDADE DAS NOTIFICAÇÕES DE PENALIDADE RELATIVA AO AUTO DE INFRAÇÃO NO PM30727014 EM RELAÇÃO AO REQUERENTE, CORN A CONSEQUENTE NULIDADE DO PROCESSO ADMINISTRATIVO NO 81963750.
+(2)
+SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO AUTORAL.
+(3) RECURSO
+DETRAN
+.
+DA VALIDADE DO ENVIO DAS NOTIFICAÇÕES DE AUTUAÇÃO E DE PENALIDADE DO PROCESSO ADMINISTRATIVO DE MULTA DE TRÂNSITO AO PROPRIETÁRIO. AUSÊNCIA DE NOTIFICAÇÃO DO CONDUTOR NO PROCESSO ADMINISTRATIVO DE MULTA DE TRÂNSITO QUE NÃO REPRESENTA VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, BEM COMO ESTÁ EM CONSONÂNCIA COM A ESTRITA LEGALIDADE, POIS O PROPRIETÁRIO É O ÚNICO RESPONSÁVEL PELOS DÉBITOS VINCULADOS AO VEÍCULO. PLEITO DE REFORMA DA SENTENÇA, PARA JULGAR-SE TOTALMENTE IMPROCEDENTE O PEDIDO DA INICIAL.
+(4). CONTRARRAZÕES DO AUTOR.
+EM SÍNTESE, SEJA MANTIDA
+IN TOTUM
+A SENTENÇA PROFERIDA.
+(5) MÉRITO.
+CÓDIGO DE TRÂNSITO BRASILEIRO
+.
+SUSPENSÃO E CASSAÇÃO DE CNH. NO CASO DOS AUTOS, O AUTOR ALEGA TER TIDO FERIDO O SEU DIREITO AO CONTRADITÓRIO E AMPLA DEFESA, PELA RAZÃO DE NÃO TER SIDO NOTIFICADO ACERCA DO
+PAD
+FACE A ELE INSTAURADO.
+O RÉU MENCIONA A TENTATIVA DE NOTIFICAÇÃO POR MEIO POSTAL, TAL QUAL RESTOU INFRUTÍFERA, HAVENDO POSTERIOR NOTIFICAÇÃO POR EDITAL. POIS BEM.
+DESTACO O TEXTO LEGAL DO ARTIGO SUPRACITADO:
+“Art. 282. Aplicada a penalidade, será expedida notificação ao proprietário do veículo ou ao infrator,
+por remessa postal ou por qualquer outro meio tecnológico hábil, que assegure a ciência da imposição da penalidade.”
+(GRIFO MEU). DIANTE DO EXPOSTO, TENHO QUE NÃO RESTOU DEMONSTRADO QUE A REQUERIDA REALIZOU
+MAIS TENTATIVAS DE NOTIFICAÇÃO AO REAL CONDUTOR, SEJA POR MEIO POSTAL OU AINDA PESSOAL, COMO PREVÊ DISPOSITIVO LEGAL SUPRA.
+OUTROSSIM, DESTACO AINDA QUE, SEGUNDO ENTENDIMENTO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA, É POSSÍVEL A APRESENTAÇÃO, EM JUÍZO, DO VERDADEIRO CONDUTOR DO VEÍCULO NA OCASIÃO DA INFRAÇÃO DE TRÂNSITO, COM BASE NO PRINCÍPIO DA INAFASTABILIDADE DO CONTROLE JURISDICIONAL E DA INDEPENDÊNCIA DAS INSTÂNCIAS ADMINISTRATIVA E JUDICIAL. VEJAMOS:
+
+AGRAVO DE INSTRUMENTO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. DETRAN/RS. APRESENTAÇÃO DE CONDUTOR INFRATOR. ART. 257 §7º DO CÓDIGO BRASILEIRO DE TRÂNSITO. PRAZO PRECLUSIVO NA ESFERA ADMINISTRATIVA. APRESENTAÇÃO NA ESFERA JUDICIAL. POSSIBILIDADE. ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+A jurisprudência do E. STJ sedimentou entendimento de que o prazo previsto no art. 257 do CTB preclui tão somente na esfera administrativa, podendo ser revista a apresentação do condutor infrator no âmbito judicial, em respeito ao princípio da inafastabilidade da jurisdição previsto no art. 5º, inciso XXXV, da Constituição Federal.
+A decisão que deferiu a antecipação de tutela merece confirmação. AGRAVO DE INSTRUMENTO PROVIDO. (TJRS, Agravo de Instrumento Nº 71007947856, Turma Recursal da Fazenda Pública, Turmas Recursais, Relator: Thais Coutinho de Oliveira, Julgado em 30/01/2019).
+ASSIM, CONSIDERANDO QUE A PARTE RECORRIDA NÃO FOI VALIDAMENTE NOTIFICADA DA CASSAÇÃO DA SUA
+CNH
+,
+A ANULAÇÃO DO RESPECTIVO PROCESSO ADMINISTRATIVO É MEDIDA QUE SE IMPÕE, TENDO EM VISTA A VIOLAÇÃO ÀS GARANTIAS CONSTITUCIONAIS DA AMPLA DEFESA E DO CONTRADITÓRIO.
+DESSE MODO, DIANTE DOS FATOS E FUNDAMENTOS SUSO REFERIDOS, NÃO HÁ QUE SE FALAR EM REFORMA DA SENTENÇA DE PISO.
+RECURSO
+DETRAN
+CONHECIDO E IMPROVIDO.
+(7).
+SENTENÇA DE PROCEDÊNCIA MANTIDA POR SEUS FUNDAMENTOS..
+(8)
+POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENO O RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS, BEM COMO DOS HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE R$ 1.000,00 (HUM MIL REAIS), NOS TERMOS DO ARTIGO 85, §8° DO CPC.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
