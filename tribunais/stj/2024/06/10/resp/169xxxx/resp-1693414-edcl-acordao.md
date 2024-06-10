@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, acolher os embargos de declaração, sem efeito modificativo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MORTE DE VÍTIMA POR ELETROPLESSÃO. OMISSÃO CONFIGURADA. SEGURADORA LITISDENUNCIADA. CONDENAÇÃO SOLIDÁRIA. LIMITES DA APÓLICE. EMBARGOS ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. "Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice." (Súmula 537/STJ).
+3. Embargos de declaração acolhidos, sem efeito modificativo.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ALLIANZ SEGUROS S.A. a acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fls. 699-700):
+RECURSO ESPECIAL. 1. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MORTE DE VÍTIMA POR ELETROPLESSÃO. 2. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. 2.1. ATIVIDADE DE RISCO. RESPONSABILIDADE OBJETIVA. 3. CONCORRÊNCIA DE CAUSAS. 4. AUXÍLIO-FUNERAL. 5. PENSIONAMENTO AOS PAIS, ASSEGURADO O DIREITO DE ACRESCER. RESPONSABILIDADE EXTRACONTRATUAL. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. TERMO INICIAL. 5.1. PAGAMENTO DE DÉCIMO TERCEIRO. 6. FIXAÇÃO DO VALOR DA REPARAÇÃO POR DANOS EXTRAPATRIMONIAIS. 7. CONSTITUIÇÃO DE CAPITAL OU INCLUSÃO DOS BENEFICIÁRIOS NA FOLHA DE PAGAMENTO DA EMPRESA. 8. RECURSO PARCIALMENTE PROVIDO.
+1. Trata-se de ação de indenização por danos materiais e morais decorrentes do falecimento da filha e irmã dos autores, respectivamente, vítima de acidente causado por descarga elétrica quando se encontrava no terraço da residência.
+2. A responsabilidade civil das pessoas jurídicas de direito público e das de direito privado prestadoras de serviços públicos, sob a modalidade do risco administrativo, está prevista no art. 37, § 6º, da Constituição Federal, sendo incontroverso nos autos que a empresa ré, concessionária de serviço público, atua no setor de transmissão de energia elétrica, atividade que, não obstante sua essencialidade, apresenta alta periculosidade e, em consequência, oferece riscos à população.
+2.1. Dispõe ainda o art. 927, parágrafo único, do Código Civil, que "haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem".
+3. No caso, o acidente decorreu da concorrência de causas, uma vez que, concomitantemente à ausência da indispensável atuação fiscalizatória por parte da concessionária de energia elétrica, deve ser considerado o fato de que a residência da família foi construída de forma irregular, sem respeitar a distância mínima da rede de energia preexistente, o que possibilitou que, ao manusear uma barra de ferro próxima à fiação, a vítima viesse a sofrer o acidente fatal. Tal fato, em observância ao art. 945 do diploma civil, acarreta a redução proporcional dos valores indenizatórios.
+4. As despesas com funeral devem ser ressarcidas, independentemente de comprovação, em consonância com as regras previstas na legislação previdenciária. Precedentes.
+5. A jurisprudência desta Corte orienta que, em se tratando de famílias de baixa renda, há presunção relativa de colaboração financeira entre os seus membros, sendo pois devido, a título de dano material, o pensionamento mensal aos genitores do falecido, a despeito de prova da dependência econômica, admitido o direito de acrescer.
+5.1. Há de ser admitido o recebimento de décimo terceiro salário apenas na hipótese de ser comprovado que a vítima mantinha vínculo empregatício na data do óbito.
+6. Considerando os elementos fáticos da causa, o valor da indenização por danos morais deve ser fixado em R$ 50.000,00 (cinquenta mil reais) para cada um dos genitores e R$ 25.000,00 (vinte e cinco mil reais) para o irmão, já considerada a concorrência de causas. Esses valores deverão ser corrigidos a partir desta data (Súmula 362/STJ) e juros de mora a partir do evento danoso (Súmula 54/STJ), de acordo com a taxa SELIC.
+7. A possibilidade de substituição da constituição de capital pela inclusão dos beneficiários em folha de pagamento da empresa deverá ser avaliada pelo Juízo da causa no procedimento de liquidação.
+8. Recurso especial parcialmente provido.
+Em suas razões (e-STJ, fls. 714-717), a embargante sustenta que o acórdão foi omisso, por não ter emitido pronunciamento sobre o limite da responsabilidade da seguradora, em virtude do contrato noticiado nos autos, bem como em relação aos danos morais.
+Pondera que sua obrigação é contratual, razão pela qual os termos do contrato devem ser observados.
+Destaca que "o contrato estabelece que a empresa segurada participará, em toda ocorrência, com uma franquia obrigatória no valor de R$ 150.000,00 (cento e cinquenta mil reais), que deverá ser atualizada a partir do inicio de vigência do seguro, conforme disposto nas condições contratuais" (e-STJ, fl. 715), acrescentando que sua responsabilidade é apenas pelo que exceder a franquia obrigatória.
+Argumenta que a seguradora somente terá responsabilidade em relação aos danos morais quando decorrentes de danos materiais e/ou pessoais indenizados pela embargante.
+Não foi apresentada impugnação (e-STJ, fls. 721-723).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MORTE DE VÍTIMA POR ELETROPLESSÃO. OMISSÃO CONFIGURADA. SEGURADORA LITISDENUNCIADA. CONDENAÇÃO SOLIDÁRIA. LIMITES DA APÓLICE. EMBARGOS ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. "Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice." (Súmula 537/STJ).
+3. Embargos de declaração acolhidos, sem efeito modificativo.
+VOTO
+Com efeito, dispõe o art. 1.022 do CPC/2015 que "cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e III - corrigir erro material".
+Ademais, esclarece o inciso I do parágrafo único do referido dispositivo legal que se considera omissa a decisão que "deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento".
+Em relação à seguradora embargante, de fato, não houve manifestação deste Tribunal Superior acerca da extensão da sua responsabilidade, constando do acórdão embargado apenas que a condenação imposta foi solidária.
+Desse modo, necessário que seja suprida a omissão mencionada.
+Como consabido, de acordo com a Súmula 537 do STJ, "em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO CIVIL. SEGURADORA LITISDENUNCIADA. RESPONSABILIDADE. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. PRECEDENTES. CONDENAÇÃO SOLIDÁRIA NOS LIMITES DA APÓLICE. SÚMULA 537/STJ. NÃO PROVIMENTO.
+1. "A melhor interpretação do título executivo judicial se extrai da fundamentação que dá sentido e alcance ao dispositivo do julgado, observados os limites da lide, em conformidade com o pedido formulado no processo. Não viola a coisa julgada a interpretação razoável e possível de ser extraída do título judicial" (AgInt no REsp 1432268/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 29/3/2019).
+2. "Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice." (Súmula 537/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.537.439/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/5/2020, DJe de 28/5/2020., sem grifo no original)
+Na hipó tese em apreço, considerando o aceite quanto à denunciação da lide, é necessário limitar a responsabilidade da ora embargante aos limites estabelecidos contratualmente quanto aos danos materiais e morais, a ser verificado em liquidação de sentença.
+Ante o exposto, acolho os embargos de declaração para, sanando a omissão, estabelecer que a responsabilidade da seguradora embargante se dará na forma e nos limites definidos na apólice contratada pela ré Eletropaulo Metropolitana Eletricidade de São Paulo S.A.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
