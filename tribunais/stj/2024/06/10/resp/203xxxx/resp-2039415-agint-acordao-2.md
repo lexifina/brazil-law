@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. COEXECUTADA. ASSINATURA COMO SIMPLES ANUENTE. SÚMULAS N. 5 E 7/STJ. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Banco do Brasil S.A. em face da seguinte decisão, que negou provimento a recurso especial:
+Trata-se de recurso especial interposto por Banco do Brasil S.A. em face de acórdão com a seguinte ementa:
+NULIDADE DA DECISÃO - Alegação de ausência de fundamentação - Descabimento - Preenchimento dos requisitos dos artigos 489, do atual Código de Processo Civil, e 93, da Constituição Federal - Fácil verificação do motivo pelo qual o Juiz singular rejeitou a exceção de pré-executividade - Preliminar rejeitada.
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE - Pretenso reconhecimento da ilegitimidade passiva da agravante Maria Cristina Hegg Massafera - Possibilidade - Agravante que não figurou como devedora solidária, fiadora, avalista etc., mas sim como cônjuge anuente, conforme exigido pelo artigo 1.647, do Código Civil - Ilegitimidade passiva reconhecida - Execução extinta em relação a ela - Decisão reformada - Recurso provido, nessa parte.
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE - Pretensa extinção da execução por estar vinculada ao plano de recuperação judicial da Construtora Massafera Ltda., Devedora Principal - Impossibilidade - Recuperação judicial que não gera efeitos na execução movida contra os Coobrigados - Inteligência do disposto no artigo 49, § 1º, da Lei 11.101/05 e Súmula 581/STJ - Decisão mantida - Recurso não provido.
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE - Título executivo revestido das características da liquidez, certeza e exigibilidade - Ademais, está acompanhado por planilha de cálculo, que demonstra a origem e evolução do débito, além dos encargos incidentes para o período de normalidade e inadimplência - Correto prosseguimento da execução - Decisão mantida - Recurso não provido, nessa parte.
+Alega-se violação dos artigos 489, 1.022, 1.025, 779, V, do Código de Processo Civil, associada a dissídio jurisprudencial, sob o argumento de que o acórdão local é omisso, que é indevida a multa aplicada no julgamento de embargos de declaração com propósito de prequestionamento e que a cônjuge do devedor também figurou como codevedora e não apenas como anuente.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omissa, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+No que toca à companheira do devedor, cuja ilegitimidade passiva foi declarada, o Tribunal local concluiu que esta assinou apenas como anuente, de modo que o reexame da questão encontra os óbices de que tratam os verbetes n. 5 e 7 da Súmula desta Casa.
+Quanto à multa aplicada, de outro lado, esta Corte Superior tem sumulado o entendimento de que os embargos de declaração opostos com notório propósito de prequestionamento não são considerados protelatórios, como ensina o verbete n. 98.
+Colhe-se dos referidos embargos que o embargante buscou "esgotar a prestação da atividade jurisdicional, pretende-se, na hipótese de desprovimento do recurso, abrir acesso às vias excepcionais, na esteira do disposto nas Súmulas 98 do STJ e 282 e 356 do STF" (e-STJ, fls. 164/165), o que torna clara a pretensão de prequestionar a matéria.
+Em face do exposto, conheço do recurso e a ele dou parcial provimento para afastar a multa aplicada no julgamento dos embargos de declaração pelo Tribunal de origem.
+Intimem-se.
+Reitera a omissão do acórdão local no sentido de que a coexecutada assinou o título como garante, e não apenas como simples anuente.
+Pede o afastamento dos verbetes n. 5 e 7 da Súmula desta Casa e o provimento do recurso.
+Impugnação da parte contrária no sentido de que foi correta a incidência dos enunciados n. 5 e 7 da Súmula desta Casa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. COEXECUTADA. ASSINATURA COMO SIMPLES ANUENTE. SÚMULAS N. 5 E 7/STJ. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+O recurso não pode ser conhecido.
+A decisão agravada adotou como razões de decidir a ausência de omissão no acórdão estadual e a incidência dos verbetes n. 5 e 7 da Súmula desta Casa.
+Nenhum desses fundamentos foi, específica e fundamentadamente, impugnado pelo recorrente, a despeito da norma extraída do artigo 1.021, § 1º, do Código de Processo Civil.
+Como está, aliás, claro na decisão agravada, concluir de maneira diversa da que concluiu a Corte local, no sentido de que a coexecutada assinou a CCB apenas como anuente, não comporta reexame nesta via, de modo que omissão não há, porquanto a questão foi examinada pela Corte local.
+A parte, portanto, simplesmente reitera os argumentos lançados anteriormente, deixando de combater os fundamentos e razões da decisão agravada.
+Inequívoca, pois, a incidência do verbete n. 182 da Súmula desta Casa.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
