@@ -1,0 +1,81 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5022378-58.2022.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TOOTH ODONTOLOGIA LTDA e outros
+RECORRIDO: ARLETE BISSI
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5022378-58.2022.8.08.0012
+Recorrente: AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S. A.
+Recorrido: ARLETE BISSI.
+Relator: DR. FELIPE LEITÃO GOMES.
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO.
+JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA DANOS MATERIAIS. DIREITO DO CONSUMIDOR.
+(1). TESE AUTORAL.
+ALEGA A PARTE AUTORA, EM SÍNTESE, QUE COMPARECEU A CLÍNICA ODONTOLÓGICA DA RÉ TOOTH PARA FAZER UM ORÇAMENTO DE PRÓTESE DENTÁRIA. PORÉM, FOI LEVADO A EFEITO UM CONTRATO DE FINANCIAMENTO COM O RÉU AYMORE CREDITO NO VALOR DE R$ 11.000,00 A SEREM PAGOS EM 24 VEZES DE R$ 240,00, NO ENTANTO, FOI ENTREGUE UM CARNÊ COM PARCELAS DE R$ 448,00, SEM SUA ANUÊNCIA OU AUTORIZAÇÃO. RELATA QUE NÃO REALIZOU O PROCEDIMENTO CONTRATADO E NÃO OBTEVE ÊXITO NO CANCELAMENTO JUNTO À PRIMEIRA REQUERIDA. DIANTE DISSO, POSTULA A DESCONSTITUIÇÃO DOS NEGÓCIOS JURÍDICOS E RESSARCIMENTO DOS VALORES PAGOS.
+(2). ANTÍTESE.
+EM CONTESTAÇÃO, ALEGOU QUE AS COBRANÇAS DECORRERAM DO INADIMPLEMENTO DO CONTRATO DE FINANCIAMENTO REGULARMENTE CELEBRADO ENTRE AS PARTES E QUE ATUOU COMO MERO AGENTE FINANCEIRO. ARGUMENTOU QUE A CONTRATAÇÃO É LEGÍTIMA, ASSIM, DEFENDE QUE NÃO PRATICOU QUALQUER ATO ILÍCITO, PUGNANDO, AO FINAL, PELA IMPROCEDÊNCIA DOS PEDIDOS.
+(3). DISPOSITIVO DA SENTENÇA.
+
+“Ante o exposto, julgo procedentes os pedidos iniciais para declarar a rescisão dos contratos levados a efeito pelos réus Anymore Crédito e Tooth Odontologia e, por conseguinte, determinar que se abstenham de promover qualquer cobrança em desfavor da autora, sob pena de multa equivalente ao dobro de cada débito realizado; ainda, condeno os réus Anymore Crédito e Tooth Odontologia, solidariamente, a restituírem R$ 4.480,00, corrigido monetariamente e acrescido de juros moratórios legais a partir da data do desembolso. Com isso, resolvo meritoriamente o processo, na forma do art. 487, inc. I, do CPC.’’.
+
+(4). RECURSO DA PARTE RÉ.
+REQUER A REFORMA DA SENTENÇA DE PRIMEIRO GRAU, PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS. CASO MANTIDA A CONDENAÇÃO, QUE HAJA REDUÇÃO DO DANO MATERIAL PARA R$ 4.032,18, VALOR EFETIVAMENTE PAGO.
+(5). CONTRARRAZÕES DA PARTE AUTORA NÃO APRESENTADAS. (6). DO MÉRITO.
+A PRIORI
+, CUMPRE-ME DESTACAR QUE A DEMANDA VERSA SOBRE DIREITO DO CONSUMIDOR, INCIDINDO, PORTANTO, AS NORMAS CONSTANTES DA LEI N.º 8.078/1990, SENDO A AUTORA CONSUMIDORA NA FORMA DO ART. 2.º E A REQUERIDA FORNECEDORA NA FORMA DO ART. 3.º, AMBOS DO ALUDIDO DIPLOMA LEGAL. INSURGE-SE A EMPRESA RECORRENTE CONTRA A SENTENÇA DE PISO QUE JULGOU PROCEDENTE EM PARTE O PEDIDO DE CONDENAÇÃO EM DANOS MATERIAIS, BEM COMO O CANCELAMENTO DO CONTRATO FIRMADO ENTRE AS PARTES, DIANTE DA ALEGAÇÃO DA AUTORA NA FALHA NA PRESTAÇÃO DE SERVIÇO.
+
+APÓS ANÁLISE DO CONTEÚDO PROBATÓRIO, VERIFIQUEI A FALHA NOS SERVIÇOS ODONTOLÓGICOS, QUANTO AO TRATAMENTO A SER REALIZADO NA AUTORA. DESTE MODO O TRATAMENTO NÃO ALCANÇOU O RESULTADO COMO PROMETIDO, DEVIDO A ALTERAÇÕES FISIOLÓGICAS DA PARTE RECORRIDA.
+
+APLICAÇÃO DOS ARTIGOS 6º, INCISO VIII E 14, DO CÓDIGO DE DEFESA DO CONSUMIDOR. DEVER DA RECORRENTE DE REPARAÇÃO DOS DANOS MATERIAIS, CONSISTENTE NA DEVOLUÇÃO DOS VALORES PAGOS,
+POIS O SERVIÇO INICIALMENTE REALIZADO NÃO SE DEU A CONTENTO. INEXISTINDO PRESTAÇÃO DE SERVIÇOS, INDEVIDO É O PAGAMENTO DE QUALQUER QUANTIA PELA PARTE AUTORA, DEVENDO ESTA SER RESTITUÍDA DOS VALORES QUE PAGOU PELO SERVIÇO, BEM COMO A RESCISÃO CONTRATUAL EXISTENTE ENTRE AS PARTES. SENTENÇA PROFERIDA PELO COLEGA DE PISO QUE NÃO MERECE QUALQUER RETOQUE.
+
+(7).
+
+RECURSO CONHECIDO E IMPROVIDO
+. (8). SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. (9).
+POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LJE), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 20% (VINTE POR CENTO) SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
