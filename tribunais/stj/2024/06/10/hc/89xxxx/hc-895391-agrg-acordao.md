@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. QUEBRA DA CADEIA DE CUSTÓDIA NÃO CONSTATADA. INCURSÃO EM CONTEÚDO FÁTICO-PROBATÓRIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O instituto da cadeia de custódia diz respeito à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade.
+2. Na hipótese, não houve a indicação de nenhuma circunstância apta a configurar a quebra da cadeia de custódia ou de indícios de adulteração dos elementos obtidos a partir do aparelho celular da corré Márcia, que foi apreendido em sua posse e desbloqueado com sua autorização, bem como autorizada a extração de seus dados pela mesma. E a revisão desse entendimento implica incursão em conteúdo fático-probatório, providência inviável no âmbito desta Corte.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOÃO CLAUDIO CIUFFA e PRISCILLA VICENTINI (ou PRISCILLA VICENTINI CIUFFA) contra decisão que não conheceu do habeas corpus.
+Em suas razões, os agravantes reiteram a alegação acerca da ocorrência da quebra da cadeia de custódia da prova digital, especificadamente quanto a arrecadação, manuseio, registro, extração e armazenamento dos diálogos extraídos do celular da corré Márcia.
+Argumentam que a constatação de sua ocorrência não exige incursão em conteúdo fático-probatórios dos autos, uma vez que a violação está consubstanciada em prova pré-constituída.
+Sustentam que não se tratar de mera irregularidade na fase pré-processual mas de nulidade que desencadeou outras medidas cautelares e deu lastro à exordial acusatória.
+Requer a reconsideração da decisão de forma monocrática ou mediante deliberação colegiada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. QUEBRA DA CADEIA DE CUSTÓDIA NÃO CONSTATADA. INCURSÃO EM CONTEÚDO FÁTICO-PROBATÓRIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O instituto da cadeia de custódia diz respeito à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade.
+2. Na hipótese, não houve a indicação de nenhuma circunstância apta a configurar a quebra da cadeia de custódia ou de indícios de adulteração dos elementos obtidos a partir do aparelho celular da corré Márcia, que foi apreendido em sua posse e desbloqueado com sua autorização, bem como autorizada a extração de seus dados pela mesma. E a revisão desse entendimento implica incursão em conteúdo fático-probatório, providência inviável no âmbito desta Corte.
+3. Agravo regimental desprovido.
+VOTO
+O agravo não comporta provimento.
+Conforme registrado na decisão agravada, o instituto da cadeia de custódia, como se sabe, diz respeito à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade.
+No caso dos autos, a Corte estadual afastou a nulidade ora apontada, sob os seguintes fundamentos:
+Da mesma forma que a nulidade aventada anteriormente, tem-se que esta também foi devidamente afastada pelo magistrado singular, sob os seguintes fundamentos: "Em relação à suposta quebra da cadeia de custódia digital, pela extração de dados do aparelho de telefone celular da ré Márcia, anote-se, com autorização dela própria, observo que tal situação já foi analisada quando da análise das defesas preliminares oferecidas pelos acusados e saneamento do processo, tendo este Juízo, naquela oportunidade, afastado o pedido de reconhecimento da nulidade da prova, ante a ausência de elementos indicativos de adulteração dos dados extraídos e, portanto, de prejuízo para a defesa."
+Destaque-se que por ocasião da decisão saneadora o magistrado singular afastou esta alegação, consignando:
+"Os denunciados Pedro e Roseleia pugnaram pela declaração de nulidade das provas apresentadas juntamente com a denúncia, ao argumento de que ilícitas e juntadas sem observação quanto a cronologia, não preservando a cadeia de custódia da prova.
+Contudo, verifica-se que os elementos de prova que acompanham a inicial acusatória foram juntados cronologicamente nos autos e demonstram a relação existente entre os acusados e os demais membros da organização criminosa.
+Inobstante a argumentação exposta, não há comprovação de que houve adulteração dos dados ou qualquer outro tipo de interferência que viesse a contaminar as provas, restando, assim, afastada a preliminar arguida."
+Veja-se assim, que ao contrário do alegado não se vislumbra a alegada quebra da cadeia de custódia, vez que o aparelho foi apreendido na posse da corré MÁRCIA e desbloqueado com sua autorização, bem como autorizada a extração de seus dados pela mesma. E procedida a extração dos dados, estes foram integralmente exportados e disponibilizados à defesa, bem como apensados na denúncia.
+Importante consignar-se que no processo penal aplica-se o princípio do ou seja, de pas nullité sans grief, que não existe nulidade sem que se comprove o prejuízo sofrido (art. 563 do CPP).
+E no caso inexiste até o momento comprovação de qualquer prejuízo sofrido pelos pacientes, limitando-se os impetrantes a tecerem conjecturas acerca de que não se pode ter certeza da integridade da prova.
+Conforme esclarecido pelo Ministério Público em sua manifestação (mov. 1384.1, autos nº 0025017-43.2021.8.16.0014):
+ ..
+De outro lado, saliente-se que a estreita via eleita não se presta para incursão em aspectos do processo que demandem dilação probatória, valoração do conjunto de provas produzidas e/ou incursão no mérito da causa, sob pena de afronta ao princípio do devido processo legal.
+Desta feita, inexiste nulidade a ser declarada neste tocante.
+Corroborando o posicionamento ora adotado, destaco trecho do parecer da Douta Procuradoria Geral de Justiça que analisa com propriedade o caso, o qual adoto como razões de decidir (mov. 18.1 - TJ):
+3. Cumpre esclarecer que os pacientes são acusados de integrar suposta organização criminosa, chefiada, em tese, pelo paciente João Cláudio Ciuffa, voltada à prática de delitos de lavagem de dinheiro, extorsão, estelionato, falsificação de documento público, uso de documento falso, falsidade ideológica, com o fim de se apoderarem, por meio de documentos falsos e com divisão de tarefas, de bens móveis e imóveis do narcotraficante da região de Novo Mundo/MS Adib Kadri e sua esposa Camila Kadri, para em seguida vendê-los.
+3.1 Ao que consta nos autos, as pessoas de Adib e Camila Kadri estão desaparecidos desde janeiro de2018, havendo fortes indícios de terem sidos mortos no Paraguai por facção criminosa rival (Família Molina), situação, porém, não confirmada nos autos.
+3.2 É importante esclarecer que a corré Márcia Soares Humenhuk, em 18/05/2021, foi presa em flagrante pelo Grupo de Atuação Especial de Combate ao Crime Organizado - GAECO quando estava no 3º Tabelionato de Notas de Londrina, tentando outorgar procuração a terceiros, mediante ouso de documento falso em nome de Camila Wazlawick. Com isso, iniciou-se a investigação criminal, denominada "Operação Fauda", que culminou na identificação dos supostos envolvidos no esquema criminoso. No curso do inquérito policial, o Ministério Público pleiteou a prisão temporária dos investigados e outras medidas cautelares, as quais foram deferidas, sendo apreendidos vários documentos falsos.
+4. Em relação às nulidades arguidas pelos impetrantes, infere-se que todas foram afastadas, de maneira fundamentada, pela autoridade impetrada, como bem consignou o Excelentíssimo Desembargador Relator da decisão liminar.(..)
+4.2 Como se pode observar, a autoridade judiciária afastou as nulidades arguidas com base em elementos concretos contidos nos autos, de modo que não se vislumbra ausência ou precariedade na fundamentação expendida, tampouco qualquer eiva a ser reparada por meio de habeas corpus.
+4.3 Vale frisar que a arguição de ilicitude da prova pela via estreita do writ, demanda a comprovação certa e inequívoca do alegado, sem a qual não há se cogitar em declaração de nulidade de toda a ação penal, como pretendem os impetrantes. Pois, como cediço, o habeas corpus constitui ação constitucional de rito célere e de cognição sumária, o que inviabiliza o exame aprofundado de provas."
+ ..
+(e-STJ, fls. 25-28; grifou-se)
+Conforme destacado pelo acórdão impugnado, não houve a indicação de nenhuma circunstância apta a configurar a quebra da cadeia de custódia ou de indícios de adulteração dos elementos obtidos a partir do aparelho celular da corré Márcia, que foi apreendido em sua posse e desbloqueado com sua autorização, bem como autorizada a extração de seus dados pela mesma. E a revisão desse entendimento implica incursão em conteúdo fático-probatório, providência inviável no âmbito desta Corte.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRONÚNCIA. ACESSO A MENSAGENS DE WHATSAPP. SUPOSTA PERMISSÃO DO ACUSADO. ELEMENTOS QUE CORROBORAM A VERSÃO DOS POLICIAIS. REVERSÃO DAS PREMISSAS FÁTICAS. SÚMULA 7 DO STJ. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A devassa do aparelho celular durante o flagrante constitui situação não albergada pelo comando do art. 5º, inciso XII, da Constituição Federal, o qual assegura a inviolabilidade das comunicações. Por outro lado, os dados armazenados nos aparelhos celulares decorrentes de envio ou recebimento de dados via mensagens SMS, programas ou aplicativos de troca de mensagens (dentre eles o "WhatsApp"), estão relacionados com a intimidade e a vida privada do indivíduo, o que os torna invioláveis, nos termos do art. 5º, X, da Carta de 1988.
+2. Hipótese em que o contexto narrado não traz indicações de que a permissão teria ocorrido mediante constrangimento ou coação nem dúvidas quanto à voluntariedade do consentimento do acusado, razão pela qual a reversão das premissas fáticas encontra óbice na Súmula 7 do STJ.
+3. Quanto à alegada quebra da cadeia de custódia da prova, as instâncias ordinárias não constataram o comprometimento às determinações do art. 158-A do CPP, pois o aparelho celular e os outros bens apreendidos durante o cumprimento de mandados de busca e apreensão foram devidamente lacrados e identificados, inexistindo nos autos indício de adulteração da prova, de modo que a reversão das premissas fáticas demandaria amplo revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.330.373/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024; grifou-se.)
+É necessário relembrar que todo o conteúdo probatório obtido será revisitado durante a fase instrutória, sob o pálio do devido processo legal, nos quais são assegurados o exercício do contraditório e da ampla defesa.
+Foi como opinou o Ministério Público Federal:
+Ressalte-se, ainda, que o reconhecimento da ocorrência de quebra da cadeia de custódia, neste momento processual, demandaria amplo revolvimento do conjunto fático-probatório, o que, como é sabido, não é possível na via do writ.
+Caberá aos acusados, portanto, nos autos do processo, não em HC, fazer prova da ocorrência concreta de qualquer nulidade processual. Tal matéria não pode ser discutida em autos de habeas corpus, que se presta, no máximo, a fazer correções pontuais em casos deflagrante ilegalidade ou abuso do poder de acusar, o que não é o caso.
+Não há, portanto, qualquer constrangimento ilegal a ser reconhecido, devendo prosseguir a ação penal. (e-STJ, fls. 30-38)
+Diante do exposto, nego provimento ao agravo.
+É como voto.
