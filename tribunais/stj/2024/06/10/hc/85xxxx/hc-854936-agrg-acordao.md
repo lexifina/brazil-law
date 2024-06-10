@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. REVISÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL. TESES NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DA SÚMULA VINCULANTE N. 56. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. As pretensões de revisão na primeira e na terceira fases da dosimetria e de abrandamento do regime inicial não foram objeto de análise pelo Tribunal a quo, por não atender ao escopo da revisão criminal, cuja via é inadequada para o reexame de provas, especialmente considerando que a defesa não trouxe elementos novos ou sequer apontou vícios de procedimento ou de julgamento, razão pela qual este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+2. A questão relativa à aplicação da Súmula Vinculante n. 56, inobstante ter sido aprovada após a condenação do agravante, ao argumento de que o entendimento desta Corte é no sentido da adoção do entendimento jurisprudencial mais benigno e atual, constitui inovação recursal, uma vez que não deduzida na petição do habeas corpus, o que impede sua análise no presente agravo regimental.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão de minha lavra, na qual não conheci do habeas corpus, porquanto as teses suscitadas pela defesa não foram enfrentadas pelo Tribunal de origem.
+O agravante busca a revisão da pena-base, com o decote dos motivos do crime, a aplicação da minorante do § 4º do artigo 33 da Lei n. 11.343/2006, no grau máximo, e o abrandamento do regime inicial.
+Aduz que a Súmula Vinculante n. 56 deve ser aplicada no presente caso, inobstante ter sido aprovada após a sua condenação, porquanto o entendimento desta Corte é no sentido da adoção do entendimento jurisprudencial mais benigno e atual.
+Assevera que não há que se falar em supressão de instância, em razão do caráter vinculante da referida Súmula.
+Requer, assim, a reconsideração da decisão agravada, ou a submissão do recurso a julgamento no órgão colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. REVISÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL. TESES NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DA SÚMULA VINCULANTE N. 56. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. As pretensões de revisão na primeira e na terceira fases da dosimetria e de abrandamento do regime inicial não foram objeto de análise pelo Tribunal a quo, por não atender ao escopo da revisão criminal, cuja via é inadequada para o reexame de provas, especialmente considerando que a defesa não trouxe elementos novos ou sequer apontou vícios de procedimento ou de julgamento, razão pela qual este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+2. A questão relativa à aplicação da Súmula Vinculante n. 56, inobstante ter sido aprovada após a condenação do agravante, ao argumento de que o entendimento desta Corte é no sentido da adoção do entendimento jurisprudencial mais benigno e atual, constitui inovação recursal, uma vez que não deduzida na petição do habeas corpus, o que impede sua análise no presente agravo regimental.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Da leitura atenta dos autos, verifica-se que os pleitos de revisão na primeira e na terceira fases da dosimetria e de abrandamento do regime inicial não foram objeto de análise pelo Tribunal a quo, por não atender ao escopo da revisão criminal, cuja via é inadequada para o reexame de provas, especialmente considerando que a defesa não trouxe elementos novos ou sequer apontou vícios de procedimento ou de julgamento. Dessa forma, esta Corte Superior de Justiça está impedida de pronunciar-se diretamente sobre a matéria, sob pena de atuar em indevida supressão de instância. Nessa esteira:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO. CARÊNCIA DE PROVAS. TESTEMUNHOS INDIRETOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPROPRIEDADE DA VIA ELEITA. VIOLAÇÃO DO ART. 155 DO CPP. SUPRESSÃO DE INSTÂNCIA. HIPÓTESE DO ART. 621 DO CPP NÃO CONFIGURADA. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+2. Se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor do delito descrito na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ.
+3. A alegação de nulidade do feito criminal por ofensa ao art. 155 do CPP não foi trazida pela defesa em suas razões recursais de apelação e não foi analisada no julgamento da revisão criminal, motivo pelo qual não foi examinada pelo Colegiado local, o que impede esta Corte Superior de antecipar a apreciação da quaestio, sob pena de incorrer em indevida supressão de instância.
+4. Conforme a orientação consolidada nesta Corte, não cabe revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas já examinados pelo Tribunal de origem.
+5. " n os termos do inciso I do artigo 621 do Código de Processo Penal, para que o pleito revisional seja admitido, é preciso que a defesa demonstre que a condenação foi contrária ao texto expresso da lei penal ou aos elementos de convicção constantes dos autos" (AgRg no AREsp 1.471.442/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/08/2019).
+6. Agravo desprovido.
+(AgRg no HC n. 788.354/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. ABSOLVIÇÃO PLEITEADA. INADEQUAÇÃO DA VIA ELEITA. REEXAME DE PROVAS. AGRAVO DESPROVIDO.
+1. As teses de ilicitude das provas não foram submetidas à apreciação do Tribunal a quo, de modo que não podem ser conhecidas originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Não se olvide que, consoante pacífica jurisprudência desta Corte, até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte. Precedentes.
+3. "Nos termos do inciso I do artigo 621 do Código de Processo Penal, para que o pleito revisional seja admitido, é preciso que a defesa demonstre que a condenação foi contrária ao texto expresso da lei penal ou aos elementos de convicção constantes dos autos" (AgRg no AREsp 1.471.442/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/08/2019)
+4. Agravo regimental desprovido.
+(AgRg no HC n. 690.585/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/10/2022, DJe de 3/11/2022.)
+Por fim, constata -se que a questão relativa à aplicação da Súmula Vinculante n. 56, inobstante ter sido aprovada após a sua condenação, ao argumento de que o entendimento desta Corte é no sentido da adoção do entendimento jurisprudencial mais benigno e atual, constitui inovação recursal, uma vez que não deduzida na petição do habeas corpus, o que impede sua análise no presente agravo regimental.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
