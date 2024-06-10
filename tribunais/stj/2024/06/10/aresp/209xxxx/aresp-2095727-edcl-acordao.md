@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto de exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível nos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo ESTADO DO AMAPÁ contra acórdão proferido pelo Segunda Turma desta Corte Superior que conheceu parcialmente de agravo interno e, nessa extensão, negou-lhe provimentos, nos termos da seguinte ementa (fls. 345-346):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ILEGITIMIDADE PASSIVA DO ENTE PÚBLICO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, A, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. VIOLAÇÃO AO ART. 700 DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO DO DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. SÚMULA 284/STF. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, NÃO PROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisumpublicado na vigência do CPC/2015.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - no ponto em que decidiu pelo não conhecimento do Recurso Especial pela incidência da Súmula 284/STF -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, manteve a decisão do juízo de primeiro grau, consignando que "embora o Estado do Amapá negue a ausência de prova por parte do apelado e até questione cláusulas dos termos aditivos também celebrados, no curso da instrução em primeiro grau ficou bem claro, que a FCRIA usufruiu (e parece que ainda usufrui) do imóvel locado para o desempenho de suas atividades, havendo inclusive comprovantes de pagamento dos alugueis, via empenhos. (..) Sendo assim, muito embora a Fazenda Pública não esteja submetida ao ônus da impugnação específica", o apelado trouxe provas dos fatos constitutivos do seu direito, cuja narrativa foi corroborada pela documentação colacionada na inicial, sendo que o apelante não negou o aluguel do imóvel no período reclamado, não comprovando, portanto, suas alegações, como exige o art. 373, II, do CPC". Tal entendimento, firmado pelo Tribunal a quo, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+IV. Agravo interno parcialmente conhecido, e, nessa extensão, não provido.
+Nas razões dos embargos, o Embargante reitera a alegação de que a matéria trazida no recurso especial não exigiria reexame de provas e defende que "o recurso foi preciso ao tecer suas argumentações de reforma da decisão" (fl. 369).
+Não foram apresentadas contrarrazões (fl. 375).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto de exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível nos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Co m efeito, no aresto embargado foi explicitamente assinalado que: a) não houve impugnação específica quanto à aplicação da Súmula n. 284 do STF, razão pela qual o agravo interno não poderia se conhecido nesse aspecto, nos termos da Súmula n. 182 do STJ; e b) a discussão acerca dos elementos fático-probatórios configuradores da responsabilidade do Embargante pelo débito encontraria óbice na Súmula n. 7 do STJ.
+De fato, contata-se que há simples intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, o que representa mera contrariedade com a conclusão da lide e é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
