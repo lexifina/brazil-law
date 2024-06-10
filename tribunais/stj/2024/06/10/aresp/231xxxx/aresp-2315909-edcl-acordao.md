@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO DE INSTRUMENTO.  DESERÇÃO  DO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  OMISSÃO  OU  CONTRADIÇÃO.  INEXISTÊNCIA  DE  VÍCIO  NO  JULGADO.
+1.  Nos  termos  do  art.  1.022  do  Código  de  Processo  Civil,  os  embargos  de  declaração  destinam-se  a  esclarecer  obscuridade,  eliminar  contradição,  suprir  omissão  e  corrigir  erro  material  eventualmente  existentes  no  julgado,  o  que  não  se  verifica  no  caso  dos  autos.
+2.  O  acórdão  embargado,  de  maneira  clara  e  fundamentada,  declarou  deserto  o  recurso  especial,  tendo  em  vista  a  mera juntada de comprovante de agendamento  e  a  ausência  de  regularização  no prazo fixado.
+3.  A  pretensão  de  rediscutir  matéria  devidamente  abordada  e  decidida  no  julgado  embargado,  consubstanciada  na  mera  insatisfação  com  o  resultado  da  demanda,  é  incabível  na  via  eleita.
+Embargos  de  declaração  rejeitados.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  embargos  de  declaração  opostos  por  APARECIDO HELIO ZADI e MARIA APARECIDA LANA ZADI  contra  acórdão  da  Terceira  Turma  do  STJ  (fls.  458-469)  que  manteve  decisão  monocrática  de  relatoria  da  Ministra  Maria  Thereza  de  Assis  Moura,  por  meio  da  qual  não  conheceu  do  recurso  em  razão  da  deserção  (fls.  390-392).
+Interposto  agravo  interno,  foi  proferido  o  acórdão  ora  embargado  com  a  seguinte  ementa  (fl.  458):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. IRREGULARIDADE NO PREPARO. DESERÇÃO. SÚMULA N. 187/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Em síntese, cuida-se de agravo de instrumento interposto contra decisão proferida nos autos de embargos à execução, que negou a concessão de efeito suspensivo aos embargos.
+2. Hipótese em que o recurso especial não foi conhecido em função da deserção.
+3. A jurisprudência do Superior Tribunal de Justiça preleciona que o juízo de admissibilidade do feito no Tribunal de origem não vincula esta Corte por se tratar de procedimento bifásico.
+4. Nos termos da jurisprudência do STJ, é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC).
+5. A mera juntada do comprovante de agendamento de pagamento das custas não constitui meio apto à comprovação de que o preparo do recurso especial foi efetivamente recolhido.
+6. A juntada posterior de comprovante de pagamento de custas não é capaz de superar a deserção em razão da preclusão consumativa.
+Agravo interno improvido.
+Sustentam  as  parte s  embargante s  que  o  acórdão  foi  omisso quanto à aplicação do princípio da instrumentalidade das formas. Aduzem que o entendimento desta Corte é flexível, de forma que não estaria caracterizada a deserção, pois a finalidade pretendida foi atingida.
+Requerem,  ao  final,  o  acolhimento  dos  embargos  declaratórios,  com  efeitos  modificativos.
+A  parte  embargada ,  instada  a  manifestar-se, apresentou contrarrazões, requerendo a aplicação da multa prevista no art. 1.026, § 2º do CPC (fls. 485-490).
+É,  no  essencial,  o  relatório.
+EMENTA
+CIVIL E  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO DE INSTRUMENTO.  DESERÇÃO  DO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  OMISSÃO  OU  CONTRADIÇÃO.  INEXISTÊNCIA  DE  VÍCIO  NO  JULGADO.
+1.  Nos  termos  do  art.  1.022  do  Código  de  Processo  Civil,  os  embargos  de  declaração  destinam-se  a  esclarecer  obscuridade,  eliminar  contradição,  suprir  omissão  e  corrigir  erro  material  eventualmente  existentes  no  julgado,  o  que  não  se  verifica  no  caso  dos  autos.
+2.  O  acórdão  embargado,  de  maneira  clara  e  fundamentada,  declarou  deserto  o  recurso  especial,  tendo  em  vista  a  mera juntada de comprovante de agendamento  e  a  ausência  de  regularização  no prazo fixado.
+3.  A  pretensão  de  rediscutir  matéria  devidamente  abordada  e  decidida  no  julgado  embargado,  consubstanciada  na  mera  insatisfação  com  o  resultado  da  demanda,  é  incabível  na  via  eleita.
+Embargos  de  declaração  rejeitados.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Em  síntese,  cuida-se  de  agravo de instrumento interposto por APARECIDO HELIO ZADI e MARIA APARECIDA LANA ZADI contra decisão proferida nos autos de embargos à execução opostos contra o BANCO DO BRASIL SA, que negou a concessão de efeito suspensivo aos embargos e entendeu que o valor da causa deveria ser igual ao do título da execução.
+Verifica-se  que  o  acórdão  embargado  negou  provimento  ao  agravo  interno  de  APARECIDO HELIO ZADI e MARIA APARECIDA LANA ZADI,  manejado  contra  decisão  que  não  conheceu  do  recurso  em  razão  da  deserção  (fls.  458-469).
+Nos  termos  do  art.  1.022  do  CPC,  os  embargos  de  declaração  destinam-se  a  corrigir  erro  material,  esclarecer  obscuridade,  eliminar  contradição  ou  suprir  omissão  existente  na  decisão  embargada.
+No  caso  em  exame,  inexistem  vícios  no  julgado.  Não  verifico  nenhuma  contradição  ou  omissão  acerca  de  questão  essencial  ao  deslinde  da  controvérsia,  tampouco  vislumbro  outro  vício  a  impor  a  revisão  do  julgado.
+O  acórdão  recorrido  consignou,  de  forma  clara  e  fundamentada,  o  dever  das  partes  recorrentes  de  realizarem  o  correto  preparo  do  recurso  especial,  destacando,  inclusive,  que  foram  dadas oportunidades  aos  embargantes para  sua  regularização,  ocasião  em  que  o  fizeram de forma incompleta, seja pela ausência da sequência numérica do código de barras, seja pela juntada de mero comprovante de agendamento.
+Nesse  contexto,  em que pese a existência do princípio da instrumentalidade das formas, este não deve ser aplicado ao caso, porquanto as partes recorrentes tiveram duas oportunidades de sanarem o vício e não o fizeram dentro do prazo estipulado. Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. GUIAS DE RECOLHIMENTO. ILEGIBILIDADE. INTIMAÇÃO DA PARTE PARA SANEAMENTO DO VÍCIO. NÃO ATENDIMENTO NO PRAZO ASSINALADO. DESERÇÃO. SÚMULA 187/STJ. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. INAPLICABILIDADE. PRINCÍPIOS CONSTITUCIONAIS. AUSÊNCIA DE MÁCULA. SURPRESA PROCESSUAL. NÃO OCORRÊNCIA. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal assevera que é deserto o recurso na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz no prazo assinalado para tanto, aplicando-se a Súmula n. 187/STJ.
+ ..
+3. Esclareça-se, ao ensejo, que "a consequência prevista expressamente na lei processual civil para a ausência de regularização do preparo no prazo designado é o reconhecimento da deserção e o não conhecimento do recurso, motivo pelo qual não procede a alegação no sentido de que deve ser aplicado ao caso o princípio da instrumentalidade das formas, sobretudo quando foi concedida à parte oportunidade de sanar o vício" (AgInt no AREsp n. 1.900.761/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022).
+4. Inexiste, da mesma forma, mácula aos princípios da legalidade, do devido processo legal e da proporcionalidade. Nesse sentido, confira-se: AgRg no RMS n. 62.080/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 28/4/2020, DJe de 4/5/2020.
+5. Além disso, é certo que a conclusão pela deserção do recurso é mero desdobramento do descumprimento de norma cogente, não havendo falar, assim, em surpresa processual (AgInt no AREsp n. 1.272.607/GO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 8/3/2021, DJe de 10/3/2021).
+6. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.054.048/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. CONDOMÍNIO. SÍNDICO. PREPARO. IRREGULARIDADE. CÓDIGOS DE BARRAS DISTINTOS NA GUIA DE RECOLHIMENTO E NO COMPROVANTE. DESERÇÃO. INSTRUMENTALIDADE DAS FORMAS. INAPLICABILIDADE. OPORTUNIDADE PARA SANAR O VÍCIO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É imprescindível a comprovação do preparo mediante a juntada das guias de recolhimento e dos respectivos comprovantes, entre os quais deve haver correspondência no que se refere a numeração dos códigos de barras.
+3. A instrumentalidade das formas não socorre a parte recorrente que, intimada a regularizar o preparo, deixa de sanar o vício verificado.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.039.769/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022, grifo meu.)
+Diante  do  exposto,  percebe-se  que  as  partes  embargante s  não  apresentaram  argumentação  apta  a  infirmar  as  conclusões  do  acórdão  embargado,  e  que  ,  na  verdade,  não  se  conformam  com  o  não  conhecimento  do  recurso  e,  ainda  neste  momento,  pleiteia m  novo  julgamento  da  demanda.  Todavia,  os  embargos  de  declaração  não  são  a  via  adequada  para  se  buscar  o  rejulgamento  da  causa.  A  propósito,  cito:
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DE  SENTENÇA.  PRETENSÃO  DE  PARCELAMENTO  DO  DÉBITO  EXEQUENDO.  IMPOSSIBILIDADE.  INEXISTÊNCIA  DOS  VÍCIOS  ENSEJADORES  À  OPOSIÇÃO  DOS  DECLARATÓRIOS.  EMBARGOS  REJEITADOS.1.  Nos  termos  do  que  dispõe  o  art.  1.022  do  CPC/2015,  os  embargos  de  declaração  são  cabíveis  apenas  quando  amparados  em  suposta  omissão,  contradição,  obscuridade  ou  erro  material  na  decisão  embargada,  não  se  caracterizando  via  própria  ao  rejulgamento  da  causa.  2.  Na  hipótese,  o  acórdão  embargado  encontra-se  suficientemente  fundamentado,  em  relação  à  aplicabilidade  dos  arts.  805  e  916,  §  7º,  do  CPC,  seja  em  relação  à  alínea  a  do  permissivo  constitucional  seja  em  relação  à  alínea  c.  3.  Embargos  de  declaração  rejeitados.(EDcl  no  REsp  n.  1.891.577/MG,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  DJe  de  2/9/2022.)
+No  mesmo  sentido,  cito:  EDcl  no  AgInt  no  AREsp  n.  1.896.238/RJ,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  DJe  de  25/3/2022;  EDcl  no  AgInt  no  AREsp  n.  1.880.896/RJ,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  26/5/2022.
+A  pretensão  de  rediscutir  matéria  devidamente  abordada  e  decidida  no  julgado  embargado,  consubstanciada  na  mera  insatisfação  com  o  resultado  da  demanda,  é  incabível  na  via  eleita.
+Por fim, afasto a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC, pois "o mero inconformismo da parte embargada com a oposição de embargos de declaração não autoriza a imposição da multa prevista no § 2º do art. 1.026 do CPC/2015, uma vez que, no caso, não se encontra configurado o caráter manifestamente protelatório, requisito indispensável à imposição da sanção" (EDcl no AgInt no AREsp n. 2.229.238/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/5/2023).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  como  penso.  É  como  voto.
