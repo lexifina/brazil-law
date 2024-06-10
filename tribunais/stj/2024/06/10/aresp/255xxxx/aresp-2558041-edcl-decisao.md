@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLIVIA SOFIA OLIVEIRA CAMILO à decisão de fls. 330/331, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Como dito, é de conhecimento de todos, que o E. Supremo Tribunal Federal julgou a ADPF (Arguição de Descumprimento de Preceito Fundamental) nº. 634-São Paulo, no dia 30.11.2022, declarando a constitucionalidade do dispositivo expresso pelo art. 9º da Lei 14.485/2007 do Município de São Paulo, este que instituiu o dia 20 de novembro como feriado do Dia da Consciência Negra, (doc.01), conforme se transcreve: (fl. 335).
+ ..
+Desta forma, Ínclita Ministra Relatora, à evidência, demonstra-se a desnecessidade de comprovação do feriado local do dia 20 de novembro, instituído pela Lei 14.485/2007 do município de São Paulo, já que restou, pois, superada, diante do efeito vinculante, que tornou a norma cogente, e erga omnes, em decorrência da procedência do pedido da ADPF 634 -STF, que julgou constitucional o mencionado feriado, questão de pleno conhecimento, e que não pode ser ignorada por todos (fl. 336).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Ressalte-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 10.607/2002 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro. Além desses, são considerados feriados forenses, o Dia da Justiça (8 de dezembro) e a terça de carnaval, elencados na Lei nº 1.408/1951.
+Veja-se que a Lei nº 14.485/2007 é uma lei municipal, do município de São Paulo, que institui feriados locais, como o dia 20/11/2023, portanto, essa data deveria ter sido comprovada no momento da interposição do recurso, providência que não foi cumprida.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
