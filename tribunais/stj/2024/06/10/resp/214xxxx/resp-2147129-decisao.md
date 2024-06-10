@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial, interposto por KÉNIA CRISTINA PAIXÃO ANTUNES DA CUNHA, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão exarado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 170, e-STJ):
+AÇÃO DECLARATÓRIA C.C. INDENIZAÇÃO PORDANOS MORAIS. DÍVIDA INSCRITA NO PORTAL SERASA LIMPA NOME. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+INSURGÊNCIA QUE NÃO PROSPERA. DESCABIMENTO DA INDENIZAÇÃO POR DANOS MORAIS, VISTO QUE NÃO HOUVE NEGATIVAÇÃO.
+SERASA LIMPA NOME QUE CONSISTE EM AMBIENTE DESTINADO SOMENTE À FACILITAÇÃO DE NEGOCIAÇÃO E QUITAÇÃO DEDÍVIDA, E NÃO CONTA COM PUBLICIDADE. NÃO É CRÍVEL EXIGIR DO FORNECEDOR A GUARDA PORMAIS DE DEZ ANOS DE TODOS OS DOCUMENTOSQUEEMBASARAMO NEGÓIOJURÍDICO,SOBRETUDO QUANDO A PRAXE É DE CINCO ANOSE O PRAZO PRESCRICIONAL DA COBRANÇA É TRIENAL. TELAS UNILATERAIS, IN CASU, COMPROVAM O DÉBITO. DANO MORAL NÃO CONFIGURADO.
+SENTENÇA REFORMADA. RECURSO PROVIDO EM PARTE.
+Nas razões do recurso especial (fls. 184/193, e-STJ), a recorrente alega, além de dissídio jurisprudencial, violação ao art. 187 do CC e art. 3º, § 3º, I e II, da Lei n. 12.414/2011, sustentando, em suma, que a inscrição indevida de dívida prescrita na plataforma "SERASA Limpa Nome" enseja indenização a título de danos morais.
+Contrarrazões às fls. 196/201 (e-STJ).
+Em juízo prévio de admissibilidade (fls. 202/204, e-STJ), o apelo foi admitido, ascendendo os autos a esta Corte de Justiça.
+É o relatório.
+Decido.
+A pretensão não merece conhecimento.
+1. Na hipótese, observa-se que o Tribunal local entendeu pela ausência de dano moral indenizável, sob os seguintes termos (fls. 171/172, e-STJ):
+A platafor ma SERASA LIMPA NOME tem por função facilitar a negociação e quitação de dívidas, sem efetuar cobranças abusivas, pois possui informação sobre débitos atrasados, quais os credores e as possibilidades de pagamento, sem publicidade e em ambiente somente acessível ao próprio devedor, mediante login e senha. No caso em debate, as cobranças foram realizadas apenas pelo portal SERASA LIMPA NOME, o qual não detém publicidade, tendo em vista que somente o próprio devedor possui a informação das dívidas atrasadas e o seu credor. Também não houve inclusão do nome da autora nos órgãos de restrição creditícia, cobranças judiciais, abusivas ou vexatórias que caracterizassem o dano moral "in re ipsa". Portanto, em relação ao pedido de indenização por danos morais, a autora nada trouxe de concreto para evidenciar que pudesse ter sofrido, efetivamente, algum abalo de ordem moral em decorrência das cobranças recebidas, até porque, ter seu nome no portal Serasa Limpa Nome, não caracteriza por si só, imenso abalo que justificaria indenização.
+Referido portal do Serasa não detém publicidade. Destarte, não há que se falar em danos que ferem à honra ou à imagem da autora perante terceiros ou que isso diminui o seu "score", afetando seu poder de compra e crédito, até porque não trouxe elementos que demonstrassem que seu crédito foi alterado no sistema mercantil, o que afasta a indenização por danos morais postulada, tendo em vista a ausência de comprovação de inscrição desabonadora.
+Nesse contexto, declarar a existência, ou não, dos danos morais demandaria o reexame fático-probatório nesta Corte Superior, o qual é vedado em sede de recurso especial, atraindo o óbice da súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTENTE. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, o que é inviável em recurso especial devido ao óbice da Súmula nº 7/STJ. 3. Agravo interno não provido. (AgInt no AREsp n. 2.030.791/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022.)
+2. Ante o exposto, com amparo no art. 932 do CPC/2015 c/c a Súmula 568/STJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 1% sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15, observada a gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
