@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. COMPESAÇÃO TRIBUTÁRIA. NECESSIDADE DE LEI AUTORIZADORA EDITADA PELO ENTE TRIBUTANTE. MATÉRIA NÃO PREQUESTIONADA. SUMULA N. 211/STJ. PREQUESTIONAMENTO FICTO. REQUISITOS NÃO PREENCHIDOS. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A tese defendida pelo Recorrente acerca da necessidade de legislação autorizadora de compensação tributária editada pela entidade pública tributante, inexistente no Estado do Espírito Santo, suposta violação ao art. 170 do CTN, não foi examinada pelo Tribunal de origem.
+III - Não tendo sido apreciada a questão objeto do recurso especial pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ.
+IV - Na exegese do art. 1.025 do CPC/2015, considera-se prequestionada determinada matéria se: i) opostos os embargos de declaração para provocar o debate da Corte de origem acerca de dispositivos de lei os quais versam sobre temas indispensáveis à solução da controvérsia; e ii) no recurso especial, arguida, de forma devidamente fundamentada, e reconhecida a violação ao art. 1.022 do mesmo estatuto.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo ESTADO DO ESPIRITO SANTO contra a decisão monocrática de minha lavra, mediante a qual o recurso especial não foi conhecido por falta de pequestionamento.
+Sustenta o Agravante, em síntese, que o acórdão impugnado na via especial emitiu expresso juízo de valor a respeito da matéria encartada no art. 170 do CTN (tese recursal), porquanto concluiu ser garantido à parte impetrante o direito à compensação tributária, bastando, para tanto, a mera apresentação dos comprovantes de recolhimento indevido perante o Fisco estadual, a quem competiria apenas a verificação do pagamento indevido.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 409e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. COMPESAÇÃO TRIBUTÁRIA. NECESSIDADE DE LEI AUTORIZADORA EDITADA PELO ENTE TRIBUTANTE. MATÉRIA NÃO PREQUESTIONADA. SUMULA N. 211/STJ. PREQUESTIONAMENTO FICTO. REQUISITOS NÃO PREENCHIDOS. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A tese defendida pelo Recorrente acerca da necessidade de legislação autorizadora de compensação tributária editada pela entidade pública tributante, inexistente no Estado do Espírito Santo, suposta violação ao art. 170 do CTN, não foi examinada pelo Tribunal de origem.
+III - Não tendo sido apreciada a questão objeto do recurso especial pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ.
+IV - Na exegese do art. 1.025 do CPC/2015, considera-se prequestionada determinada matéria se: i) opostos os embargos de declaração para provocar o debate da Corte de origem acerca de dispositivos de lei os quais versam sobre temas indispensáveis à solução da controvérsia; e ii) no recurso especial, arguida, de forma devidamente fundamentada, e reconhecida a violação ao art. 1.022 do mesmo estatuto.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+- Do prequestionamento
+A tese defendida pelo Recorrente acerca da necessidade de legislação do ente tributante autorizadora de compensação tributária, inexistente no Estado do Espírito Santo, suposta violação ao art. 170 do CTN, não foi examinada pelo Tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. ALEGAÇÃO DE VIOLAÇÃO DOS DISPOSITIVOS DOS ARTS. 458, I, E 535, I E II, DO CPC/1973. FUNDAMENTAÇÃO GENÉRICA E DEFICIENTE. SÚMULA 284/STF. INCIDÊNCIA. SUPOSTA AFRONTA AOS ARTS. 28, PARÁGRAFO ÚNICO, DA LEI N. 9.868/99; 267 E 295 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICABILIDADE. MÉRITO. PISO SALARIAL DOS PROFESSORES NO ÂMBITO DO ESTADO DO RIO GRANDE DO SUL. DISCUSSÃO ACERCA DA LEGITIMIDADE PASSIVA DA UNIÃO. ALEGADA CONTRARIEDADE AO DISPOSITIVO DO ART. 4º, CAPUT, E §§ 1º E 2º, DA LEI N. 11.738/2008. NÃO OCORRÊNCIA. RECURSO CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, IMPROVIDO. RECURSO JULGADO SOB A SISTEMÁTICA DO ART. 1.036 E SEGUINTES DO CPC/2015, C/C O ART. 256-N E SEGUINTES DO REGIMENTO INTERNO DO STJ.
+ ..
+2. O Tribunal de origem não analisou, nem sequer implicitamente, os arts. 28, parágrafo único, da Lei 9.868/1999 e 267 e 295 do CPC. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+ ..
+9. Recurso especial conhecido, em parte, e, nessa extensão, improvido.
+(REsp 1559965/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 14/06/2017, DJe 21/06/2017, destaque meu.)
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Ademais, o atual Estatuto Processual admite o denominado prequestionamento ficto, é dizer, aquele que se consuma " ..  com a mera oposição de aclaratórios, sem que o Tribunal a quo tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgRg no REsp 1.514.611/PR, Rel. Min. Sérgio Kukina, 1ª T., DJe 21.06.2016), nos seguintes termos:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+No entanto, na linha da orientação adotada por este Superior Tribunal, somente se poderia considerar prequestionada a matéria especificamente alegada - de forma clara, objetiva e fundamentada - e reconhecida a violação ao art. 1.022 do CPC/15, como o demonstram os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. DEMORA NO RESTABELECIMENTO DO SERVIÇO RESPONSABILIDADE CIVIL. DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 1.025 DO CPC/2015. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 14/12/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação de Indenização, ajuizada pela parte agravante contra AES SUL Distribuidora Gaúcha de Energia S/A, em decorrência da interrupção do serviço de energia elétrica pelo período de 9 (nove) dias, após a ocorrência de um temporal no Município de São Sepé/RS. O acórdão do Tribunal de origem reformou a sentença que julgara improcedente a ação, condenando a ré ao pagamento de indenização por danos morais, no valor de R$ 5.000,00 (cinco mil reais).
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre os arts. 2º da Lei 9.427/96 e 29, I, da Lei 8.987/95, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Na forma da jurisprudência, "a admissão de prequestionamento ficto (art.
+1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+ ..  VI. Agravo interno improvido.
+(AgInt no AREsp 1.017.912/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 16/08/2017 - destaquei.)
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS HERDEIROS SÓCIOS EM CONDOMÍNIO. CABIMENTO. PRESCRIÇÃO DO DIREITO. NÃO OCORRÊNCIA.
+ ..  04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art.
+1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+ ..
+06. Recurso especial não provido.
+(REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017 - destaquei.)
+Nesse cenário, tem-se que, na exegese do art. 1.025 do CPC/2015, considera-se prequestionada determinada matéria se: i) opostos os embargos de declaração para provocar o debate da Corte de origem acerca de dispositivos de lei os quais versam sobre temas indispensáveis à solução da controvérsia; e ii) no recurso especial, arguida, de forma devidamente fundamentada, e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não ocorreu.
+Não sendo possível examinar a matéria trazida nas razões do recurso especial interposto pela alínea a do permissivo constitucional, a análise da divergência jurisprudencial está prejudicada.
+De fato, o recurso especial não pode ser conhecido com fundamento em dissenso pretoriano, porquanto os óbices os quais impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. TITULARIDADE DOS CRÉDITOS EXECUTADOS. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS E NA INTERPRETAÇÃO DE CLÁUSULAS CLÁUSULAS CONTRATUAIS REVISÃO. SÚMULAS N. 05 E 07/STJ. DISSÍDIO JURISPRUDENCIAL ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+V - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria. Precedentes.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.883.971/PR, de minha relatoria, Primeira Turma, julgado em 5/10/2020, DJe de 8/10/2020, destaquei.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL ENUNCIADO ADMINISTRATIVO N. 3/STJ. IPTU. LOTEAMENTO. ACÓRDÃO FUNDAMENTADO EM LEI MUNICIPAL. SÚMULA N. 280/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Independe do dispositivo de lei federal apontado como violado no especial, a controvérsia foi decidida na origem à luz da Lei Municipal n.
+492/15, a qual, consoante o acórdão recorrido, concedeu isenção de IPTU ao imóvel (e-STJ fl. 428).
+2. Julgada a questão com fundamento na norma municipal, e não com fundamento no CTN, o conhecimento do especial é inviável a teor da Súmula n. 280/STF.
+3. Conforme consignado (e-STJ fl. 501), a análise da divergência jurisprudencial fica prejudicada pelo óbice aplicado à alínea "a" uma vez que ambas as alíneas tratam da mesma matéria e do mesmo dispositivo violado.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.827.093/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/11/2019, DJe de 27/11/2019, destaquei.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
