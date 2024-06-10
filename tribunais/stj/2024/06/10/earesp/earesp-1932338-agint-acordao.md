@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO ORDINÁRIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1.  A tese apresentada pela recorrente, no sentido de que efetivamente arca com o pagamento do adicional de dois pontos percentuais cobrados sobre o ICMS incidente na venda de óleo diesel destinado ao financiamento do PROTEGE GOIÁS, não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356/STF, por analogia.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por MAX DISTRIBUIDORA DE PETRÓLEO LTDA. contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial  para não conhecer do recurso especial, pela incidência das Súmulas 282 e 356/STF.
+Argumenta  a  parte agravante,  em  síntese,  que o recurso especial possui como objeto a legitimidade processual da substituída tributária na relação de incidência do Imposto sobre Circulação de Mercadorias e Serviços - ICMS à luz da melhor interpretação do art. 166 do CTN, sendo certo que o acórdão recorrido trouxe menção expressa ao dispositivo, havendo o devido prequestionamento.
+Defende, ainda, que pratica o fato jurídico-tributário, demonstra capacidade contributiva, e sofre redução em seu patrimônio em razão do indevido adicional de dois pontos percentuais incidentes sobre a venda de óleo diesel destinados ao PROTEGE GOIÁS ao qual é submetido, restando evidenciado portanto sua legitimidade processual para questionar a manifesta.
+Requer o provimento do agravo interno, a fim de que seja reformada a decisão monocrática, com provimento do recurso especial.
+Impugnação da parte agravada apresentada às fls. 937-931, suscitando preliminar de não conhecimento do recurso e, no mérito, protestando pelo seu não provimento.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO ORDINÁRIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1.  A tese apresentada pela recorrente, no sentido de que efetivamente arca com o pagamento do adicional de dois pontos percentuais cobrados sobre o ICMS incidente na venda de óleo diesel destinado ao financiamento do PROTEGE GOIÁS, não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356/STF, por analogia.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Inicialmente, a preliminar suscitada pelo Estado de Goiás deve ser rejeitada.
+Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+Com efeito, a dialeticidade recursal é um princípio fundamental da validade dos recursos, a partir do qual entende-se que o agravante deve atacar os argumentos da decisão, e não somente manifestar a vontade de recorrer, ou aduzir razões genéricas.
+No caso, a agravante devidamente indicou os fundamentos que entende infirmar as conclusões da decisão recorrida, que por sua vez não conheceu do recurso especial, sendo impositiva a análise do agravo interno.
+Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+No mérito, o agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Na jurisprudência desta Corte, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, de fato a tese apresentada pela recorrente, no sentido de que efetivamente arca com o pagamento do adicional de dois pontos percentuais cobrados sobre o ICMS incidente na venda de óleo diesel destinado ao financiamento do PROTEGE GOIÁS, não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Veja-se o teor do acórdão da origem:
+Extrai-se dos autos que a parte autora insurge-se contra a sentença que acolheu a preliminar de ilegitimidade ativa, suscitada pelo recorrido, bem como declarou extinto o processo, sem resolução do mérito, nos termos do artigo 485, VI, do Código de Processo Civil (evento 39).
+Pois bem. De início, cumpre ressaltar que a relação discutida nos autos se sujeita ao regime de substituição tributária, disposto nos artigos 150, § 7º da Constituição Federal e 128 do Código Tributário Nacional, e regulamentado pela Lei 11.651/1991 (Código Tributário do Estado de Goiás).
+Nesse toar, sendo o caso de substituição tributária concernente ao ICMS das operações sobre derivados de petróleo, as Refinarias/Produtoras são substitutas tributárias, ou seja, são contribuintes de direito, vez que são responsáveis pelo recolhimento do aludido imposto; sendo a apelante, substituída tributária, integrando a cadeia negocial que leva o produto até o consumidor final, e, este suporta o encargo financeiro.
+Portanto, o contribuinte de direito é o responsável pelo pagamento do tributo, sendo o legitimado para questionar a legislação em regência; restando patente a ilegitimidade da Apelante para figurar no polo ativo desta demanda.
+Assim, sem maiores delongas, cumpre assentar que a parte autora não possui legitimidade ativa ad causam, sendo medida impositiva a manutenção da sentença vergastada.
+Ora, em que pese a complexidade do tema aqui questionado, a resolução não guardam maiores controvérsias, até porque a questão de legitimidade ativa nestes casos encontra-se pacificada no âmbito do colendo Superior Tribunal de Justiça.
+Ausente, portanto, o requisito do prequestionamento, incide, no ponto, as Súmulas 282 e 356/STF, por analogia.
+Isso posto, nego provimento ao recurso.
