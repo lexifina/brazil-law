@@ -1,0 +1,93 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003161-36.2021.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: AMIGALINK COMUNICACOES LTDA - ME
+RECORRIDO: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003161-36.2021.8.08.0021
+Recorrente: AMIGALINK COMUNICAÇÕES LTDA. - ME
+
+Recorrida: EDP ESPÍRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A.
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER COM PEDIDO DE TUTELA RE URGÊNCIA EM MOMENTO LIMINAR. (1). DA LIDE
+.
+A PARTE AUTORA ADUZ QUE PRESTA SERVIÇOS COMO PROVEDORA DE INTERNET E QUE, PARA TANTO, DISTRIBUI PARTE DO SINAL DE INTERNET QUE COMERCIALIZA, POR CABOS LANÇADOS NA ESTRUTURA FÍSICA – POSTES – DA REQUERIDA. ADUZ QUE FORA NOTIFICADA PELA REQUERIDA POR LANÇAR CABOS NOS POSTES SEM O RESPECTIVO PROJETO DE OCUPAÇÃO, PORÉM APRESENTOU À REQUERIDA REFERIDO PROJETO E A DOCUMENTAÇÃO POR ELA SOLICITADA. ENTRETANTO, SUSTENTA QUE EM 30/04/2021 FORA SURPREENDIDA PELA RETIRADA GERAL DA REDE E DE EQUIPAMENTOS DA INFRAESTRUTURA LANÇADOS NOS POSTES DA REQUERIDA, O QUE PARALISOU INTEGRALMENTE SUAS ATIVIDADES. EM SEDE DE TUTELA DE URGÊNCIA DE NATUREZA ANTECIPADA A AUTORA VISA ORDEM JUDICIAL PARA COMPELIR A PARTE REQUERIDA A “EFETUAR A IMEDIATA RESTITUIÇÃO DOS EQUIPAMENTOS DA AUTORA RETIRADOS DA INFRAESTRUTURA DA RÉ, BEM COMO, PARA ABSTER-SE DE EFETIVAR NOVA RETIRADA OU REMOÇÃO DOS CABOS E INFRAESTRUTURA DA AUTORA, ATÉ ULTERIOR DELIBERAÇÃO JUDICIAL”. NO MÉRITO, REQUEREU A CONFIRMAÇÃO DA TUTELA PRETENDIDA, BEM COMO SEJA A RÉ CONDENADA A OBRIGAÇÃO DE NÃO FAZER NOVAS RETIRADAS DE CABOS E EQUIPAMENTOS LANÇADOS PELA AUTORA.
+(2). ANTÍTESE.
+DEFESA DA RÉ SEM PRELIMINARES, ALEGANDO QUE PARA TER ACESSO À INFRAESTRUTURA DE POSTES DETIDA PELAS DISTRIBUIDORAS DE ENERGIA ELÉTRICA, AS EMPRESAS DO SETOR DE TELECOMUNICAÇÕES DEVEM MANIFESTAR PREVIAMENTE O INTERESSE NO USO COMPARTILHADO DESTA INFRAESTRUTURA E, EM SEGUIDA, SUBMETER PROJETO TÉCNICO À AVALIAÇÃO.
+(3). DISPOSITIVO DA SENTENÇA.
+“Diante do exposto,
+JULGO IMPROCEDENTE os pleitos autorais, revogando a liminar anteriormente deferida, que determinava que a ré se abstivesse de realizar novas retiradas de equipamentos da parte autora, que ainda não tenham sido objeto de contrato entre as partes.
+Resolvo o mérito, nos termos do artigo 487, I do CPC; Isento de custas e honorários por determinação legal (artigo 55 da Lei 9099/95).”
+(4). RECURSO DA PARTE AUTORA.
+EM SÍNTESE, PUGNA PELO PROVIMENTO DO RECURSO INTERPOSTO, REFORMANDO-SE A SENTENÇA
+A QUO
+, PARA JULGAR PROCEDENTES OS PEDIDOS AUTORAIS EM ESPECIAL O PEDIDO Nº 5, QUAL SEJA, O DE CONDENAÇÃO DA RÉ NA OBRIGAÇÃO DE NÃO FAZER NOVAS RETIRADAS OU REMOÇÃO DOS CABOS E DEMAIS EQUIPAMENTOS DE INFRAESTRUTURA DA AUTORA EM DESCONFORMIDADE COM OS DITAMES DA RESOLUÇÃO ANEEL Nº 797/2017- SOBRETUDO QUANDO NA PENDÊNCIA DE ANÁLISE DOS PROJETOS SUPRA REFERENCIADOS.
+(5). CONTRARRAZÕES DA PARTE RÉ.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(6). DO MÉRITO.
+POIS BEM. O CONJUNTO PROBATÓRIO NÃO SE MOSTRA SUFICIENTE A AMPARAR A PRETENSÃO DA RECORRENTE, QUE CONSISTE NA
+“CONDENAÇÃO DA RÉ NA OBRIGAÇÃO DE NÃO FAZER NOVAS RETIRADAS OU REMOÇÃO DOS CABOS E DEMAIS EQUIPAMENTOS DE INFRAESTRUTURA DA AUTORA EM DESCONFORMIDADE COM OS DITAMES DA RESOLUÇÃO ANEEL Nº 797/2017”.
+EXPLICO. INICIALMENTE, VALE REMEMORAR, DIANTE DA PERTINÊNCIA PARA O CASO, O CONCEITO DE OCUPAÇÃO CLANDESTINA, PREVISTO NO INCISO VII DO ARTIGO 2º DA RESOLUÇÃO NORMATIVA Nº 797/2017 DA ANEEL, A SABER:
+VII - Ocupação Clandestina:
+situação na qual ocorre a Ocupação à Revelia de infraestrutura sem que haja contrato de compartilhamento vigente com o Detentor ou quando o proprietário do ativo não tenha sido identificado após prévia notificação do Detentor a todos os Ocupantes com os quais possui contrato de compartilhamento.
+ATO CONTÍNUO, COMO BEM OBSERVADO PELO JUIZ MONOCRÁTICO:
+“A própria autora confirma que tinha instalados seus cabos e equipamentos nos postes, mesmo sem os contratos assinados, e projetos aprovados. Portanto, tem razão a requerida quando diz que a ocupação da autora era considerada clandestina. [...] Outrossim, conforme relatado pela ré, e confirmado pela parte autora, durante a suspensão do projeto, a Autora logrou êxito em viabilizar a aprovação tão somente do projeto nº 45004586155, o qual abrange 44 (quarenta e quatro) postes, pelos quais passou a pagar em agosto de 2022. Fica claro que a utilização dos postes da ré, pela parte autora, depende de prévio requerimento, e homologação do projeto pela ré. Portanto, toda utilização que não seja realizada mediante tais termos, não podem ser continuadas. Portanto, todos os outros postes que não foram objeto do referido contrato devem ser considerados ocupação clandestina, com revogação da liminar anteriormente deferida.”
+COMO SE VÊ, O CASO EM APREÇO SE TRATA DE OCUPAÇÃO CLANDESTINA, UMA VEZ INEXISTE CONTRATO FIRMADO ENTRE AS PARTES PARA COMPARTILHAMENTO DE INFRAESTRUTURA, COM DEFINIÇÕES DE FAIXA DE OCUPAÇÃO, EQUIPAMENTOS QUE INTEGRAM A REDE DE TELECOMUNICAÇÕES, PLANO DE OCUPAÇÃO, DENTRE OUTROS ELEMENTOS E PROCEDIMENTOS NECESSÁRIOS PARA O DESENVOLVIMENTO DOS SERVIÇOS PRESTADOS PELA RECORRENTE. ASSIM SENDO, EM NÃO HAVENDO ATUAL PACTO CONTRATUAL ENTRE AS PARTES, QUANTO À PRESTAÇÃO DOS SERVIÇOS, NÃO PARECE PLAUSÍVEL QUE A EMPRESA RECORRENTE PERMANEÇA COM SEUS CABOS LANÇADOS NA INFRAESTRUTURA DA RECORRIDA, QUANDO INEXISTENTE QUALQUER PRÉVIO REQUERIMENTO, E HOMOLOGAÇÃO DO PROJETO PELA RÉ. POR FIM, HÁ DE SE RESSALTAR QUE O LANÇAMENTO DE CABOS NA INFRAESTRUTURA DA CONCESSIONÁRIA REQUERIDA, SEM QUAISQUER CUIDADOS TÉCNICOS PODERIA COLOCAR EM RISCO A POPULAÇÃO E A PRESTAÇÃO DO SERVIÇO DE ENERGIA ELÉTRICA, PORQUANTO INDISPENSÁVEL A APROVAÇÃO DE PROJETOS TÉCNICOS E A DEVIDA AUTORIZAÇÃO DA CONCESSIONÁRIA, ORA RECORRIDA, A FIM DE EVITAR PROBLEMAS COMO A INTERRUPÇÃO DE ENERGIA ELÉTRICA. NESTA ESTEIRA, ENTENDO QUE A SENTENÇA IMPUGNADA DEVE SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS NA FORMA DO ENUNCIADO NÚMERO 11 DAS TURMAS RECURSAIS:
+“A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9.099/95, SEM NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.”
+
+(7).
+DIANTE DO EXPOSTO,
+CONHEÇO
+DO RECURSO INOMINADO INTERPOSTO PELA RECORRENTE E, NO MÉRITO
+NEGO-LHE PROVIMENTO
+, MANTENDO INCÓLUME A SENTENÇA PROFERIDA PELO JUÍZO
+A QUO
+.
+POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LJE), CONDENA-SE A RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS,
+OS QUAIS FIXO NO IMPORTE DE R$ 1.000,00 (MIL REAIS) NA FORMA DO ART. 85, § 2º DO CPC.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
