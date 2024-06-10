@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTENTE. REQUISITOS. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. MULTA DO ART. 1.026 DO CPC. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. SÚMULA 7.
+1. Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+2. O acórdão recorrido afastou a impenhorabilidade do imóvel rural pois a recorrente deixou de comprovar que o bem destinava-se à exploração familiar. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. A análise da alegada divergência jurisprudencial fica prejudicada quando a suposta dissonância aborda a mesma tese que amparou o recurso pela alínea "a" do permissivo constitucional, e cujo julgamento esbarrou no óbice do enunciado n. 7 da Súmula deste Tribunal.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ROSANGELA DE REZENDE ORTIZ COSTELLA contra decisão monocrática de minha relatoria que conheceu do agravo em recurso especial para não conhecer do recurso especial em razão da incidência da súmula 7/STJ.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 1.040):
+Embargos de terceiro - penhora - impenhorabilidade da pequena propriedade rural - art. 5º,XXVI da Constituição Federal - requisitos não preenchidos - ausência de prova de que o imóvel é trabalhado em regime de subsistência familiar - Precedentes do STJ - embargos julgados improcedentes - sentença mantida - recurso improvido.
+Os embargos de declaração opostos por Van Der Hoeven Indúsria e comércio de Estufas Agrícolas Ltda. foram acolhidos para fixar honorários sucumbenciais (fl. 1.059). Os primeiros embargos de declaração opostos pela ora recorrente foram rejeitados (fls. 1.316-1.320), mas os segundos embargos foram acolhidos sem efeitos modificativos (fls. 1.348-1.350).
+Nas razões do agravo interno, a agravante reitera a violação do art. 1.022 do CPC.
+Aduz, ainda, que a Súmula 7 deve ser afastada, pois entende que não se aplica ao presente caso, "porque a questão debatida no Recurso Especial não se limita à mera rediscussão de fatos e provas constantes dos autos, mas sim envolve a correta interpretação de dispositivos legais infraconstitucionais à luz de normas constitucionais, bem como apontar as divergências jurisprudenciais havidas nas decisões que tratam da mesma matéria a fim de que sejam dirimidas" (fl. 1.971).
+Defende, ainda, que "o imóvel rural penhorado nos autos da execução embargada possui uma área total de 10,5 ha, módulo fiscal de 1,05,estando cadastrado no INCRA sob nº 950.050.544.167-8e na Receita Federal sob nº 7.070.263-2, portanto, é impenhorável à luz dos preceitos legais retro citados haja vista que caracteriza-se como sendo uma pequena propriedade rural na qual trabalha a agravante/recorrente juntamente com sua família, sendo fonte de renda para sua mantença e sobrevivência" (fl. 1.976).
+Requer a exclusão da multa do art. 1.026 do CPC aplicada na instância primeva.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 2.000-2.012).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTENTE. REQUISITOS. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. MULTA DO ART. 1.026 DO CPC. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. SÚMULA 7.
+1. Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+2. O acórdão recorrido afastou a impenhorabilidade do imóvel rural pois a recorrente deixou de comprovar que o bem destinava-se à exploração familiar. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. A análise da alegada divergência jurisprudencial fica prejudicada quando a suposta dissonância aborda a mesma tese que amparou o recurso pela alínea "a" do permissivo constitucional, e cujo julgamento esbarrou no óbice do enunciado n. 7 da Súmula deste Tribunal.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que a parte agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Noticiam os autos que a recorrente ajuizou embargos de terceiro contra a empresa recorrida com o intuito de liberar bem imóvel penhorado nos autos de ação de execução promovida pela recorrida contra Valter Costella pessoa jurídica e Valter Costella, seu marido, pois sustenta se cuidar de bem impenhorável enquadrado como pequena propriedade rural trabalhada pela família tratando-se de sua fonte de renda. Juntou documentos.
+A sentença julgou improcedentes os embargos de terceiro, sob o argumento de que, no caso do imóvel em questão, não se encaixa na definição legal de pequena propriedade rural.
+Inicialmente, afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial.
+É sabido que o bem de família agrário é direito fundamental da família rurícola, sendo núcleo intangível - cláusula pétrea -, que restringe, justamente em razão da sua finalidade de preservação da identidade constitucional, uma garantia mínima de proteção à pequena propriedade rural, de um patrimônio mínimo necessário à manutenção e à sobrevivência da família.
+O acórdão recorrido confirmou a sentença e negou provimento à apelação com base nos seguintes fundamentos (fl. 1.042):
+Com efeito, conforme bem observou o MM. Juízo "a quo", a prova constante dos autos não permite o reconhecimento de que o imóvel é impenhorável, vez que não foi demonstrado que a sobrevivência da apelante e de sua família advém da utilização da terra.
+Ademais, a apelante é proprietária de outros imóveis, conforme se infere da declaração de imposto de renda copiada às fls. 19/27, não restando demonstrado, portanto, que o sustento da família é oriundo exclusivamente do trabalho realizado no imóvel penhorado.
+Além disso, o imóvel penhorado retrata uma empreitada empresarial, fato comprovado pelo laudo de avaliação (fls. 350/379 dos autos em apenso) que descreveu o bem penhorado contendo seis estufas climatizadas, duas casas para moradia de colaboradores, galpão com escritório, refeitório, sanitários, área de lazer, além de outras benfeitorias.
+Não se pode, dessa forma, conferir a proteção constitucional de impenhorabilidade a esse imóvel, pois tal benesse se encontra reservada à pequena propriedade que garante ao produtor condições mínimas de sobrevivência.
+No caso em apreço, o Tribunal de origem, pautando-se nos elementos fáticos e probatórios constantes dos autos, deliberou pela manutenção da constrição, em virtude da ausência de demonstração inequívoca de que o sustento familiar derive exclusivamente das atividades desenvolvidas no mencionado imóvel.
+Vale ressaltar que, para que o imóvel seja reconhecido como pequena propriedade rural e receba a proteção da impenhorabilidade prevista no art. 5º, XXVI, da CF/88, c/c o art. 833, VIII, do CPC, art. 4º, II, da Lei n. 4.504/1964 e art. 4º, II, "a", da Lei n. 8.629/1993, há necessidade de comprovação simultânea do preenchimento de certos pressupostos que estão estabelecidos na legislação de regência, além do requisito objetivo da metragem, há que ser trabalhada pelo agricultor e sua família, além de ser o único meio de sustento do executado e de sua família, este último requisito não comprovado pela recorrente.
+Desse modo, a alteração das conclusões a que chegaram as instâncias ordinárias demandaria o reexame do acervo fático-probatório dos autos, inviável em recurso especial em razão do óbice da Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Na hipótese, o Tribunal de origem analisou a prova dos autos para concluir pela penhorabilidade do imóvel rural, pois os recorrentes deixaram de comprovar que o bem destinava-se à exploração familiar.
+A revisão do aresto impugnado exigiria derruir a convicção formada nas instâncias ordinárias, providência obstada pela incidência da Súmula 7/STJ.
+3. O art. 50, § 3º, da Lei nº 4.504/1964 não tem pertinência temática com a tese exposta, o que atrai a incidência da Súmula 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.283.384/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BEM DE FAMÍLIA. OMISSÃO. INEXISTENTE. REQUISITOS. IMPENHORABILIDADE. BEM DE FAMÍLIA. PEQUENA PROPRIEDADE RURAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ.
+1. Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+2. A alteração das conclusões do acórdão recorrido acerca da impenhorabilidade do bem de família exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 2.245.091/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+No tocante ao pedido de exclusão da multa do art. 1.026 aplicada pelo Juízo de primeiro grau, o aresto consignou em embargos de declaração (fl. 1.349):
+Inicialmente, destaque-se que a omissão, relativa à multa processual imposta em Primeiro Grau, efetivamente ocorreu.
+A esse passo, verifica-se às fls. 1005/1006 que o MM. Juízo "a quo" aplicou multa de 2% sobre o valor atualizado da causa, tendo em vista a oposição de embargos de declaração com intuito manifestamente protelatório, com a única finalidade de substituir o entendimento manifestado na r. sentença monocrática, configurando a hipótese do art. 1.026, §2º da lei de rito.
+E tal entendimento deve prevalecer, pois a embargante deixou de apontar qualquer omissão, contradição ou obscuridade, manifestando expressa tentativa de modificar a decisão guerreada, caracterizando a hipótese para aplicação da penalidade, que fica mantida.
+Com efeito, na hipótese, o caráter protelatório dos embargos de declaração opostos ainda em primeira instância foi ratificada pelo Tribunal a quo, razão pela qual sua alteração por esta Corte superior fica obstada pela Súmula 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. APELAÇÃO CÍVEL. AÇÃO DE PARTILHA DE BENS. INDICAÇÃO EXPRESSA DOS DISPOSITIVOS LEGAIS VIOLADOS. AFASTAMENTO DA SÚMULA N. 284 DO STF. CABIMENTO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. ENTENDIMENTO DA CORTE LOCAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. MULTA PROCESSUAL IMPOSTA NA ORIGEM. ART. 1.026, § 2º, DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. REITERAÇÃO DE ARGUMENTOS. PERTINÊNCIA DA MULTA. SITUAÇÃO ANALISADA PELO TRIBUNAL DE ORIGEM. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A expressa indicação dos dispositivos legais violados afasta o não conhecimento do recurso especial por incidência da Súmula n. 284 do STF.
+2. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.426.607/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+Por fim, a análise da alegada divergência jurisprudencial fica prejudicada quando a suposta dissonância aborda a mesma tese que amparou o recurso pela alínea "a" do permissivo constitucional, e cujo julgamento esbarrou no óbice do enunciado n. 7 da Súmula deste Tribunal.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
