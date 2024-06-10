@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DISPOSITIVO  CONSTITUCIONAL.  VIOLAÇÃO.  ANÁLISE.  IMPOSSIBILIDADE.  PRESTAÇÃO  JURISDICIONAL.  VÍCIOS.  AUSÊNCIA.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  INEXISTÊNCIA.  ART.  1.021,  §  1º,  DO  CPC.  SÚMULA  Nº  182/STJ.
+1.  Nos  termos  do  art.  105,  inciso III,  da  Constituição  Federal,  compete  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  a  análise  da  interpretação  da  legislação  federal,  motivo  pelo  qual  se  revela  inviável  invocar  a  violação  de  dispositivos  constitucionais,  porquanto  matéria  afeta  à  competência  do  Supremo  Tribunal  Federal  (art.  102,  inciso  III,  da  Carta  Magna).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  Constatada  a  ausência  de  impugnação  específica  dos  fundamentos  da  decisão  agravada,  incide  o  disposto  no  art.  1.021,  §  1º,  do  Código  de  Processo  Civil  e  no  entendimento  jurisprudencial  do  Superior  Tribunal  de  Justiça,  reproduzido  na  redação  da  Súmula  nº  182/STJ.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CARLOS  HENRIQUE  FERREIRA  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento  em  virtude  dos  seguintes  fundamentos:  (i)  inviabilidade  da  abertura  da  instância  especial  por  ofensa  a  dispositivo  constitucional;  (ii)  não  ocorrência  da  suscitada  negativa  de  prestação  jurisdicional;  (iii)  inviabilidade  do  reexame  da  matéria  objeto  do  recurso  especial  por  força  da  Súmula  nº  7/STJ,  e  (iv)  deficiência  na  fundamentação  recursal  (Súmula  nº  284/STF).
+Os  embargos  de  declaração  opostos  foram  rejeitados.
+Nas  presentes  razões,  o  agravante  pleiteia  o  controle  difuso  de  constitucionalidade  "(..)  para  que  afaste  a  norma  do  artigo  27  do  FETJ  já  que  o  mesmo  viola  diretamente  o  artigo  5º  inciso  XXXV  E  LXXIV  da  C.  R.  F.  B"  (e-STJ  fl.  518).
+Alega  violação  dos  arts.  82,  98,  §  6º,  203,  caput  e  §  4º,  278,  280,  290,  1.022,  incisos I  e  II,  e  1.025  do  Código  de  Processo  Civil.
+Defende  a  nulidade  do  ato  administrativo  que  intimou  o  autor  para  comprovar  o  recolhimento  das  custas.
+Afirma  que  o  deferimento  do  pagamento  de  custas  ao  final  refere-se  ao  término  do  processo,  com  o  trânsito  em  julgado,  e  não  antes  da  sentença.
+Assevera  que  o  ato  processual  deve  ser  praticado  pelo  juiz  togado,  sob  pena  de  causar  prejuízo  à  parte  pela  impossibilidade  de  interposição  de  agravo  de  instrumento.
+Requer  a  concessão  do  benefício  da  assistência  judiciária  gratuita  e  que,  em  caso  de  rejeição  do  recurso,  seja  deferido  o  parcelamento  das  custas.
+Aduz  que  o  acórdão  combatido  incorreu  em  negativa  de  prestação  jurisdicional  ao  não  apreciar  aspectos  relevantes  da  demanda  suscitados  nos  embargos  declaratórios.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Sem  impugnação  (e-STJ  fl.  557).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DISPOSITIVO  CONSTITUCIONAL.  VIOLAÇÃO.  ANÁLISE.  IMPOSSIBILIDADE.  PRESTAÇÃO  JURISDICIONAL.  VÍCIOS.  AUSÊNCIA.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  INEXISTÊNCIA.  ART.  1.021,  §  1º,  DO  CPC.  SÚMULA  Nº  182/STJ.
+1.  Nos  termos  do  art.  105,  inciso III,  da  Constituição  Federal,  compete  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  a  análise  da  interpretação  da  legislação  federal,  motivo  pelo  qual  se  revela  inviável  invocar  a  violação  de  dispositivos  constitucionais,  porquanto  matéria  afeta  à  competência  do  Supremo  Tribunal  Federal  (art.  102,  inciso  III,  da  Carta  Magna).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  Constatada  a  ausência  de  impugnação  específica  dos  fundamentos  da  decisão  agravada,  incide  o  disposto  no  art.  1.021,  §  1º,  do  Código  de  Processo  Civil  e  no  entendimento  jurisprudencial  do  Superior  Tribunal  de  Justiça,  reproduzido  na  redação  da  Súmula  nº  182/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+Inicialmente,  consigne-se  que  compete  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  a  análise  da  interpretação  da  legislação  federal,  motivo  pelo  qual  revela-se  inviável  pleitear  o  controle  difuso  de  constitucionalidade  na  presente  via  recursal,  sob  o  argumento  de  violação  do  art.  5º,  incisos  XXXV  e  LXXIV,  da  Constituição  Federal.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO.  OFENSA  A  DISPOSITIVO  CONSTITUCIONAL.  INADEQUAÇÃO  DA  VIA  ELEITA.  CERCEAMENTO  DE  DEFESA.  FUNDAMENTAÇÃO  DEFICIENTE.  INCIDÊNCIA  DA  SÚMULA  284/STF.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Conforme  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  "é  inviável  a  apreciação  de  ofensa  a  eventual  violação  de  dispositivos  e  princípios  constitucionais,  sob  pena  de  usurpação  da  competência  atribuída  ao  Supremo  Tribunal  Federal".  (EDcl  no  AgInt  no  REsp  1.828.610/SP,  Rel.  Ministro  Paulo  de  Tarso  Sanseverino,  Terceira  Turma,  julgado  em  22/11/2021,  DJe  25/11/2021).
+(..)
+3.  Agravo  interno  improvido"  (AgInt  no  AgInt  no  AREsp  1.829.061/BA,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  DJe  24/3/2022).
+No  que  tange  ao  suscitado  vício  na  prestação  jurisdicional,  o  recorrente  pretende  o  pronunciamento  acerca  dos  seguintes  pontos:  o  autor  está  com  seu  nome  inscrito  em  cadastro  de  inadimplentes;  não  possui  condições  de  arcar  com  as  custas  e  taxas  judiciais  em  valor  superior  a  onze  mil  reais, e  recebe  um  salário mínimo  de  aposentadoria.
+Contudo,  impende  asseverar  que  cabe  ao  julgador  apreciar  os  fatos  e  as  provas  da  demanda  segundo  seu  livre  convencimento,  declarando,  ainda  que  de  forma  sucinta,  os  fundamentos  que  o  levaram  a  solucionar  a  lide.
+Desse  modo,  o  não  acolhimento  das  teses  ventiladas  pelo  recorrente  não  significa  omissão  ou  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia,  como  na  espécie.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  MONITÓRIA.  CHEQUES.  RECONSIDERAÇÃO  DA  DECISÃO  MONOCRÁTICA.  EMBARGOS  DE  DECLARAÇÃO.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  NÃO  OCORRÊNCIA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  211/STJ.  REEXAME  DE  FATOS  E  PROVAS.  INADMISSIBILIDADE.  DIVERGÊNCIA  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.
+1.  Ausentes  os  vícios  do  art.  1.022  do  CPC,  rejeitam-se  os  embargos  de  declaração.
+2.  A  ausência  de  decisão  acerca  dos  dispositivos  legais  indicados  como  violados,  não  obstante  a  interposição  de  embargos  de  declaração,  impede  o  conhecimento  do  recurso  especial.
+3.  O  reexame  de  fatos  e  provas  em  recurso  especial  são  inadmissíveis.
+4.  O  dissídio  jurisprudencial  deve  ser  comprovado  mediante  o  cotejo  analítico  entre  acórdãos  que  versem  sobre  situações  fáticas  idênticas.
+5.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  não  há  que  se  falar  em  violação  do  art.  489  do  CPC.
+6.  Agravo  interno  provido.  Agravo  conhecido.  Recurso  especial  não  conhecido"  (AgInt  no  AREsp  1.033.786/RS,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  DJe  20/6/2017  -  grifou-se).
+Na  hipótese  dos  autos,  o  tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese,  conforme  se  observa  no  seguinte  trecho:
+"(..)
+O  aresto  embargado  reconheceu  a  regularidade  da  intimação  para  o  recolhimento  das  custas,  visto  que,  em  decisão  pretérita,  o  juiz  de  1º  grau  já  havia  indeferido  a  gratuidade  de  justiça  e  determinado  o  recolhimento  de  custas  ao  final.
+Vale  mencionar  que  o  ato  que  ora  embargante  questiona  advém  da  fiscalização  do  recolhimento  das  custas  e  da  permissão  legal  para  a  sua  prática,  a  permitir  a  desburocratização  de  serviços  meramente  ordinatórios  do  processo,  sem  a  necessidade  de  que  deles  participe  o  juiz,  a  teor  do  art.  152,  VI,  c/c  203,  par.  4º,  do  CPC.
+Não  se  evidencia,  portanto,  qualquer  nulidade  em  relação  ao  disposto  no  art.  290  do  CPC,  que,  aliás,  também  não  impõe  dever  de  advertir  previamente  a  parte  acerca  da  consequência  jurídica  do  não  recolhimento  das  custas  de  ingresso.
+Caso  tivesse  alguma  questão  a  ser  solucionada  quanto  ao  valor  das  custas  devidas  ou  em  relação  ao  momento  para  o  recolhimento,  cabia  ao  autor  embargante,  diante  de  sua  intimação  em  1ª  instância,  deduzi-la  ao  juiz  naquela  primeira  oportunidade,  e  não  depois  de  ter  sido  sentenciado  o  processo,  o  que  demonstra  tratar-se  de  inovação  recursal  a  alegada  inconstitucionalidade  do  Enunciado  27  do  FETJ  e  omissão  em  relação  ao  pedido  subsidiário.
+Cabe  observar  que  restou  assegurado  ao  autor  embargante  o  acesso  à  justiça  diante  do  deferimento  do  recolhimento  de  custas  ao  final,  em  exceção  ao  disposto  no  art.  82  do  CPC,  o  que  deveria  então  ser  comprovado  necessariamente  antes  da  prolação  da  sentença,  vez  que  as  despesas  de  ingresso  constituem  pressuposto  de  desenvolvimento  do  processo,  sem  as  quais  o  mérito  não  pode  ser  enfrentado.
+(..)
+Outrossim,  como  restou  explicitado  no  acórdão,  a  gratuidade  de  justiça  restou  indeferida  por  decisão  irrecorrida  e  o  autor  embargante,  embora  intimado,  não  providenciou  o  recolhimento  das  custas  ao  final,  razão  pela  qual  mostrou-se  correto  o  cancelamento  da  distribuição,  na  forma  do  permissivo  contido  no  art.  290  do  Código  de  Processo  Civil"  (e-STJ  fls.  261/262).
+
+Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  do  recorrente.
+Ademais,  a  decisão  agravada  concluiu  que  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  inviável  ante  o  enunciado  da  Súmula  nº  7/STJ.  Quanto  ao  pedido  de  parcelamento  das  custas,  afirmou  que  evidenciada  a  deficiência  na  fundamentação  recursal  ante  a  falta  de  indicação  do  artigo  de  lei  federal  violado,  atraindo  a  incidência  da  Súmula  nº  284/STF.
+No  caso,  o  agravante  não  impugnou  de  modo  específico  os  fundamentos  relacionados  com  as  Súmulas  nº  7/STJ  e  nº  284/STF,  limitando-se  a  fazer  assertivas  genéricas  sem,  no  entanto,  comprovar  suas  alegações.
+Nesse  cenário,  em  obediência  às  regras  processuais,  incide  o  disposto  no  art.  1.021,  §  1º,  do  Código  de  Processo  Civil.
+Imperioso  mencionar,  ainda,  que  o  óbice  previsto  no  dispositivo  legal  em  epígrafe  já  estava  contido  na  Súmula  nº  182/STJ.
+A  propósito:  AgInt  no  AgInt  no  AREsp  1.930.878/CE,  Rel.  Ministro  Luis  Felipe  Salomão,  Quarta  Turma,  julgado  em  8/8/2022,  DJe  de  15/8/2022;  AgInt  no  AREsp  1.918.614/SP,  Rel.  Ministro  Luis  Felipe  Salomão,  Quarta  Turma,  julgado  em  13/12/2021,  DJe  de  15/12/2021;  AgInt  no  AREsp  2.092.094/GO,  Rel.  Ministra  Assusete  Magalhães,  Segunda  Turma,  julgado  em  16/8/2022,  DJe  de  23/8/2022,  e  AgInt  no  AREsp  2.079.519/RS,  Rel.  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  29/8/2022,  DJe  de  31/8/2022.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
