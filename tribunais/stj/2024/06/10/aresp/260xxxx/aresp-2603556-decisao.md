@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por CABANHA OVIEDO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PROCESSUAL CIVIL - AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS JULGADA PROCEDENTE - FASE DE CUMPRIMENTO DE SENTENÇA - INEXISTÊNCIA DE PATRIMÔNIO DA EXECUTADA - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - FILHOS DE SÓCIO DA PESSOA JURÍDICA INCLUÍDOS NO POLO PASSIVO - PENHORA DE COTAS SOCIAIS - DECISÃO DE PRIMEIRO GRAU QUE DETERMINA A APRESENTAÇÃO DE BALANÇOS E DEMONSTRAÇÕES FINANCEIRAS DOS ÚLTIMOS 3 (TRÊS) ANOS. ACOMPANHADOS DAS PRESTAÇÕES DE CONTAS MENSAIS - AGRAVO INTERPOSTO PELAS PESSOAS JURÍDICAS DAS QUAIS SÃO SÓCIOS OS EXECUTADOS - MEDIDA ADEQUADA VOLTADA À SATISFAÇÃO DO CRÉDITO - DECISÃO MANTIDA - RECURSO DESPROVIDO
+Quanto à controvérsia, a parte recorrente alega violação do art. 861 do CPC, no que concerne à indevida determinação de exibição de documentos pretéritos à penhora de lucros e dividendos, eis que o respectivo pedido carece de qualquer fundamento legal, trazendo a seguinte argumentação:
+22. Conforme relatado, o E. Tribunal de Justiça violou o artigo 861 do Código de Processo Civil, ao justificar a determinação de apresentação de documentos pretéritos (3 anos antes) para penhora de cotas, que sequer é objeto da ação.
+23. Veja que o pedido formulado - e deferido - é para que as Recorrentes juntem documentos de 3 anos antes da penhora de faturamento:
+ ..
+24. O dispositivo legal utilizado pelo v. acórdão - e obviamente violado - determina a juntada, em até 3 meses, das seguintes informações:
+ ..
+25. Veja-se, portanto, que o pedido carece de qualquer fundamento legal. Pior, o v. acórdão recorrido viola dispositivo legal que sequer trata sobre a matéria unicamente pra acolher a pretensão da Recorrida.
+26. O pleito tem caráter meramente especulativo por parte da Recorrida, que aparentemente supõe que as empresas Recorrentes possam vir a descumprir a ordem judicial, o que não se confirmou.
+27. Com efeito, desde a determinação da penhora de faturamento, as Recorrentes - mês a mês - juntam nos autos de origem os documentos contábeis e realizem o depósito judicial, na forma como determinada.
+28. O que não se justifica, todavia, é a utilização de fundamento legal que trata de penhora de cotas, com a apresentação de balanço especial obviamente atualizado, para que isto sirva de fundamento para juntada de documentos que nada servirão de útil para a finalidade dos autos (penhora de faturamento, repise-se!) (fls. 103-105).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Longe de se tratar de "desconfiança" (item 19 das razões de agravo) ou de se imaginar que possam agir de má-fé, a necessidade de as agravantes apresentarem os documentos contábeis dos últimos 3 (três) anos tem por finalidade avaliar com a precisão necessária quais foram os dividendos anteriormente pagos aos executados Priscila Quirós e Augusto Quirós e verificar se estes eventualmente passaram a partir de determinado momento, por algum motivo, a não mais recebê-los, de modo a que a credora possa adotar as providências que entender cabíveis.
+As circunstâncias acima autorizam, pois, a ratificação da decisão agravada, a qual determinou a apresentação pelas agravantes de balanços e demonstrações financeiras/resultados dos últimos 3 (três) anos, acompanhados das prestações de contas mensais (fls. 84-85).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fá tico-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
