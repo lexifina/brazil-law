@@ -1,0 +1,87 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5026032-17.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: GERMANO SANTOS FRAGOSO e outros
+RECORRIDO: ESTADO DO ESPIRITO SANTO e outros
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5026032-17.2022.8.08.0024
+RECORRENTE/RECORRIDO: GERMANO SANTOS FRAGOSO
+
+RECORRENTE/RECORRIDO: ESTADO DO ESPÍRITO SANTO
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES – RELATOR
+
+Conheço de ambos os recursos, eis que se encontram preenchidos os requisitos de admissibilidade, recebendo-os, tão somente, em seu efeito devolutivo, eis que ausentes quaisquer das hipóteses que justifiquem a concessão do efeito suspensivo, nos termos do art. 43 da lei nº 9.099/95.
+
+EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO DO ESTADO. SERVIDOR PÚBLICO EXONERADO. FOLGAS NÃO GOZADAS. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. DIREITO INDENIZATÓRIO RECONHECIDO. RECURSO DO ESTADO IMPROVIDO. RECURSO DO AUTOR. PRESCRIÇÃO. MARCO INICIAL PARA O PLEITO INDENIZATÓRIO. EXONERAÇÃO. PRESCRIÇÃO AFASTADA. RECURSO PROVIDO. (1). TESE AUTORAL
+. NA PETIÇÃO INICIAL, PRETENDEU O REQUERENTE PELA INDENIZAÇÃO DE FOLGAS NÃO GOZADAS DURANTE O PERÍODO DE ATIVIDADE DO SERVIÇO PÚBLICO.
+(2) ANTÍTESE
+. O REQUERIDO APRESENTOU DEFESA NA FORMA DE CONTESTAÇÃO. PUGNOU PELA IMPROCEDÊNCIA DO PLEITO DA PEÇA INICIAL EM RAZÃO DE NÃO SER POSSÍVEL A INDENIZAÇÃO POR FOLGAS NÃO GOZADAS EM CASO DE NÃO DEMONSTRAÇÃO DE CONDUTA IMPEDITIVA DA ADMINISTRAÇÃO. DEFENDEU-SE, AINDA, A PRESCRIÇÃO PARCIAL DOS CRÉDITOS VINDICADOS.
+(3) SENTENÇA QUE JULGOU O PLEITO AUTORAL PARCIALMENTE PROCEDENTE.
+“(...) Ante o exposto, acolho a prescrição quinquenária dos valores correspondentes aos dias de folga pleiteados pelo requerente, que tenham sido originados antes de 15/08/2017, pois foram alcançados pela prescrição, com base no artigo 487, II e JULGO PARCIALMENTE PROCEDENTE o pedido inicial para seja reconhecido o seu direito a ser indenizado pelo equivalente aos dias trabalhados extraordinariamente que não foram gozados durante o serviço público, acrescidas de juros de mora de acordo com os índices da caderneta de poupança, contados a partir da citação, e correção monetária pelo IPCA-E até 08/12/2021. Juros e correção monetária pela Taxa Selic a partir de 09/12/2021, nos termos do art. 3º da EC 113/21. RESOLVO e JULGO EXTINTO o processo, nos termos do art. 487, inc. I do CPC (...)”.
+
+(4) RECURSO INOMINADO INTERPOSTO PELO ESTADO DO ESPÍRITO SANTO (ID
+38738353
+) E POR GERMANO SANTOS FRAGOSO (ID
+37099688
+).
+BASICAMENTE, NOTA-SE QUE O RECURSO MANEJADO POR GERMANO SANTOS FRAGOSO DEFENDEU A NARRATIVA DE “(...)
+que o REQUERENTE/RECORRENTE ingressou, corretamente, com a presente ação, respeitando o limite temporal, logo, deve ser afastada a prejudicial de prescrição quinquenal, porquanto observado o limite temporal previsto no art. 1º, do Decreto nº 20.910/32 (...).
+IGUALMENTE, SUSTENTOU-SE NO ARRAZOADO QUE “
+(...) a r. Sentença recorrida faz alusão em “apontamentos existentes na ficha funcional do servidor”, o que, data vênia, compromete, sobremaneira, o direito postulado pelo REQUERENTE/RECORRENTE, na medida em que muitos dos dias trabalhados extraordinariamente (comprovados nos autos) não constam assentados em sua ficha funcional, até porque a ficha funcional do mesmo, assim como de inúmeros servidores do PJES, lamentavelmente, não é devidamente alimentada e atualizada, ou seja, muitas das vezes, não reflete a realidade fática, por esta razão optou-se pela juntada dos comprovantes propriamente ditos (...)”.
+POR SUA VEZ, O ESTADO DO ESPÍRITO SANTO EXPÕE EM SEDE RECURSAL HAVER PERDA SUPERVENIENTE DO INTERESSE RECURSAL EM RAZÃO DO PAGAMENTO SUPERVENIENTE INTEGRAL DE TODAS AS VERBAS PLEITEADAS PELO REQUERENTE. SUSTENTOU-SE, ALÉM DISSO, HAVER IMPEDIMENTO PARA O RESSARCIMENTO DOS DIAS NÃO COMPENSADOS FACE NÃO HAVER SE DEMONSTRADO QUE TAL FATO DECORREU DE ÓBICE IMPOSTO PELA ADMINISTRAÇÃO.
+(5) GRATUIDADE DA JUSTIÇA.
+FACE OS DOCUMENTOS COLACIONADOS EM RECURSO INOMINADO INTERPOSTO PELO RECORRENTE, GERMANO SANTOS FRAGOSO, E ANTE A PRESUNÇÃO LEGAL NÃO ILIDIDA OU IMPUGNADA PELA PARTE CONTRÁRIA, DEFIRO O BENEFÍCIO DA GRATUIDADE.
+(6) CONTRARRAZÕES PRESTADAS POR AMBAS AS PARTES.
+EM SÍNTESE, PUGNARAM AS PARTES PELO IMPROVIMENTO DO RECURSO INTERPOSTO PELA PARTE CONTRÁRIA.
+(7) MÉRITO RECURSAL.
+PRIMEIRAMENTE, IMPERIOSO SE ESTABELECER QUE
+“(...) o termo inicial da prescrição do direito de pleitear indenizações referentes a licenças e férias não gozadas tem início com o ato de aposentadoria”
+(TJES, 0001345-61.2007.8.08.0000, Relator RÔMULO TADDEI, Julg.: 30/07/2007, CONSELHO DA MAGISTRATURA, Pub.: 27/09/2007). PARA ALÉM DISSO, A PRIMEIRA SEÇÃO DO C. SUPERIOR TRIBUNAL DE JUSTIÇA, POR OCASIÃO DO JULGAMENTO DO RESP N. 1.254.456/PE (TEMA DE N. 516), DE RELATORIA DO MINISTRO BENEDITO GONÇALVES, DJE DE 2/5/12, FIXOU O ENTENDIMENTO DE QUE A CONTAGEM DA PRESCRIÇÃO QUINQUENAL RELATIVA À CONVERSÃO EM PECÚNIA DE LICENÇA-PRÊMIO NÃO GOZADA TEM COMO TERMO A QUO A DATA EM QUE OCORREU A APOSENTADORIA/EXONERAÇÃO DO SERVIDOR PÚBLICO. ASSIM, NÃO OBSTANTE OS JUDICIOSOS FUNDAMENTOS ESPOSADOS PELA SENTENÇA DE PISO, TENHO QUE O RECURSO MANEJADO POR GERMANO SANTOS FRAGOSO MERECE PROVIMENTO – AO MENOS PARCIAL – A FIM DE AFASTAR A PRESCRIÇÃO FIXADA PELO DECISUM COMBATIDO, DE FORMA A SE RECONHECER QUE A AÇÃO RESTOU AJUIZADA DENTRO DO PRAZO LEGAL, INCLUSIVE NO QUE PERTINE A FOLGAS/FÉRIAS NÃO GOZADAS ANTES DO DIA 15/08/2017. POIS BEM. FIXADA A REFERIDA PREMISSA, PASSO AO EXAME EXAURIENTE DAS DEMAIS TESES RECURSAIS. DE PLANO, RECHAÇO A ALEGAÇÃO DO ENTE ESTATAL DE NÃO SER POSSÍVEL HAVER A INDENIZAÇÃO PELAS FÉRIAS/FOLGAS NÃO GOZADAS. O SUPREMO TRIBUNAL FEDERAL, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL, RECONHECERA QUE “(...)
+é devida a conversão de férias não gozadas bem como de outros direitos de natureza remuneratória em indenização pecuniária por aqueles que não mais podem delas usufruir, seja por conta do rompimento do vínculo com a Administração, seja pela inatividade, em virtude da vedação ao enriquecimento sem causa da Administração
+” (STF, ARE n. 721.101/RJ). NO CASO EM APREÇO, ESPECIAL DIREITO SOCORRE AO REQUERENTE, POSTO QUE SUA ATUAÇÃO NA CONDIÇÃO DE SECRETÁRIO DE GESTÃO DO FORO DE PIÚMA, CARGO DE CONFIANÇA, DEMANDAVA, HABITUALMENTE, ESTAR À DISPOSIÇÃO PARA EVENTUAIS EXCEPCIONALIDADES. ADEMAIS, EM RELAÇÃO À NARRATIVA DE PERDA SUPERVENIENTE DO INTERESSE DE AGIR EM RAZÃO DE PAGAMENTO OCORRIDO APÓS O AJUIZAMENTO DA DEMANDA, ENTENDO QUE ESTA TAMBÉM NÃO MERECE PROSPERAR. ISSO, POIS NÃO SE DEMONSTROU QUE A RUBRICA ADIMPLIDA (VIDE ID 19544238) É COINCIDENTE ÀQUELA VINDICADA NOS PRESENTES AUTOS. DECERTO, A AÇÃO VERSA SOBRE INDENIZAÇÃO POR FOLGAS NÃO GOZADAS, E O PAGAMENTO DO VALOR INFORMADO NO ID 19544238 SE REFERE A FÉRIAS VENCIDAS RELATIVAS A PERÍODO NÃO ABARCADO PELO PEDIDO DA INICIAL. REGISTRO, IGUALMENTE, QUE O ENTE ESTATAL SE UTILIZOU DA MESMA NARRATIVA NOS AUTOS Nº 5016377-21.2022.8.08.0024 A FIM DE SE DEFENDER A FALTA SUPERVENIENTE DE INTERESSE DE AGIR DO REQUERENTE. NAQUELA SITUAÇÃO, PORÉM, DE FATO O PAGAMENTO COMPROVADO SE PRESTOU A ABARCAR PARCIALMENTE O OBJETO DA INICIAL, A QUAL PLEITEAVA INDENIZAÇÃO DE FÉRIAS VENCIDAS E NÃO GOZADAS. A CONDUTA, ALIÁS, PODERIA, EM TESE, ATRAIR A FIXAÇÃO DE MULTA POR MÁ-FÉ PROCESSUAL. NO ENTANTO, TENDO EM VISTA A INEXISTÊNCIA DE COMPROVAÇÃO DO ELEMENTO SUBJETIVO PARA A CONSTATAÇÃO DA MÁ-FÉ, DEIXO DE APLICAR MULTA NO CASO EM APREÇO, SEM PREJUÍZO, CONTUDO, DE NEGAR PROVIMENTO AO APELO MANEJADO PELO ESTADO DO ESPÍRITO SANTO. NESSE SENTIDO, SEM MAIS DELONGAS, ENTENDO PELO IMPROVIMENTO DO RECURSO INTERPOSTO PELO ESTADO E PELO PROVIMENTO DO RECURSO DE GERMANO SANTOS FRAGOSO PARA AFASTAR A PRESCRIÇÃO FIXADA PELO
+DECISUM
+DE PISO E JULGAR TOTALMENTE PROCEDENTE O PLEITO DA EXORDIAL, RESSALTANDO-SE QUE O ESTADO SEQUER IMPUGNOU, ESPECIFICAMENTE, A DOCUMENTAÇÃO TRAZIDA PELO REQUERENTE HÁBIL A DEMONSTRAR AS FOLGAS REALIZADAS (AINDA QUE NÃO REGISTRADAS EM SUA FICHA FUNCIONAL).
+(8) RECURSO INTERPOSTO PELO ESTADO DO ESPÍRITO SANTO NÃO PROVIDO. RECURSO INTERPOSTO POR GERMANO SANTOS FRAGOSO PROVIDO A FIM DE AFASTAR A PRESCRIÇÃO E JULGAR TOTALMENTE PROCEDENTE O PLEITO DA INICIAL
+.
+(9) FACE AO ART. 55, DA LEI 9.099/95, CONDENO O ESTADO DO ESPÍRITO SANTO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS DE 15% SOBRE O VALOR DA CONDENAÇÃO. SEM CUSTAS FACE A ISENÇÃO LEGAL.
+
+ISABELA GONÇALVES ADRIANO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator
+Dr. FELIPE LEITÃO GOMES
+– Nos termos da
+Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
