@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CURTUME PROGRESSO LTDA, pedindo integração quanto à majoração dos honorários advocatícios de sucumbência, uma vez que o recurso especial do Estado de Goiás não foi conhecido.
+Impugnação apresentada pela parte embargada (fls. 270/275).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A Corte Especial deste Tribunal Superior, ao julgar o REsp 1864633/RS, repetitivo, definiu tese segundo a qual "a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação" (tema 1059).
+No caso dos autos, em processo executivo fiscal, foi apresentada exceção de pré-executividade, a qual foi rejeitada, com a condenação da excipiente em honorários de 5% sobre o valor da causa (fl. 22). Não obstante, a parte executada interpôs agravo de instrumento, provido pelo Tribunal de Justiça, com a condenação do Estado de Goiás em honorários; vejamos (fls. 101/113):
+A verba honorária deve ser fixada sobre o proveito econômico, que corresponde ao valor cobrado em excesso. Pela peça inaugural (movimento 12) foi executada a quantia de R$ 3.085.834,43 (posição em 08.07.2016), sendo que nos novos cálculos elaborados (movimento 26), a Fazenda Pública passou a executar a importância de R$ 1.186.498,07 (posição em 28.02.2022), resultando na diferença de R$ 1.899.336,36.
+Atenta às regras previstas no artigo 85 e às faixas elencadas no § 3º, considerando que R$ 1.899.336,36 gira em torno de 1.458 salários-mínimos vigentes e, em atenção ao disposto no § 5º para a primeira faixa (inciso I, § 3º) fixo em 10% de 200 salários-mínimos e, para a segunda faixa (inciso II, § 3º), fixo em 8% de 1.258 salários-mínimos.
+Diante do reconhecimento do excesso de execução pela Fazenda Pública, possível a aplicação do disposto no artigo 90, § 4º, do Código de Processo Civil, com a redução da verba honorária pela metade.
+ ..
+Assim, a reforma decisão agravada é medida que se impõe, com o acolhimento parcial da exceção de pré-executividade e condenação da Fazenda Pública ao pagamento da verba honorária, ficando reduzida pela metade, em atenção ao disposto no artigo 90, §4º, do CPC.
+Do exposto, conheço em parte do agravo de instrumento e, nesta extensão, dou-lhe provimento para acolher em parte a exceção e pré-executividade, condenando o ente estatal ao pagamento da verba honorária, que deverá incidir sobre o proveito econômico (valor cobrado em excesso), correspondendo a 10% de 200 salários-mínimos e em 8% de 1.258 salários-mínimos, ficando reduzida pela metade, em atenção ao disposto no artigo 90, § 4º, do Código de Processo Civil.
+Nesse contexto, deve ser reconhecida a omissão quanto à majoração dos honorários advocatícios de sucumbência.
+Ante o exposto, acolho os embargos de declaração para majorar em 1% a verba honorária de sucumbência arbitrada nas instâncias ordinárias, respeitados os limites e os critérios previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015.
+Publique-se. Intime-se. Após, voltem-me para julgamento do agravo interno.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO CONFIGURADO. EMBARGOS ACOLHIDOS.
