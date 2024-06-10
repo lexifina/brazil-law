@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. AUSÊNCIA DO DISSÍDIO JURISPRUDENCIAL.
+1. Ação declaratória de inexistência de relação jurídica cumulada com repetição de indébito e compensação por danos morais.
+2. Agravo interno interposto contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+3. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por NEUZA CARLOTTO contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Ação: declaratória de inexistência de relação jurídica cumulada com repetição de indébito e compensação pelos danos morais, ajuizada por NEUZA CARLOTTO, em face de CLUBE DE BENEFÍCIOS DO BRASIL.
+Sentença: julgou parcialmente procedente o pedido, para declarar a inexistência da relação jurídica contratual entre as partes com relação ao(s) contrato(s) de seguro descrito(s) na inicial, com a cessação dos descontos, tornando definitiva a tutela de urgência, bem como para condenar o agravado a restituir à agravante os valores descontados de seu benefício previdenciário decorrente(s) do(s) contrato(s) citado(s) na inicial, em dobro, devendo o valor ser apurado em sede de liquidação de sentença, descontado o valor já restituído (fl. 127), rejeitando o pedido de compensação pelo dano moral. Assim, em razão da sucumbência recíproca, determinou que cada parte arque com o pagamento de metade das custas, arbitrando os honorários em 10% sobre o valor da condenação, observada a justiça gratuita concedida à agravante.
+Acórdão: deu parcial provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Seguro facultativo de vida e acidentes pessoais. Contratação fraudulenta em nome da autora, com débito de valor em sua conta bancária para pagamento do prêmio. Demanda declaratória negativa acolhida, com reconhecimento da inexigibilidade dos descontos efetuados e restituição em dobro dos valores, mas denegação de verba reparatória por ofensa extrapatrimonial. Inconformismo da autora. Dano moral não caracterizado. Quantidade de descontos sequer indicada pela autora. Demonstração nos autos somente de um único desconto, em valor reduzido, em conta corrente. Insignificância do evento para a caracterização de abalo juridicamente relevante à esfera psicológica da parte. Juros moratórios, no tocante à restituição, contudo, incidentes da data do desconto. Súmula nº 54 do STJ. Mora caracterizada no momento do ilícito. Sucumbência recíproca reconhecida na r. sentença, quando, na verdade, decaiu a autora em termos praticamente integrais. Impossibilidade de modificação do critério, contudo, à míngua de recurso da ré. Ausência de base, de toda forma, para a majoração da verba destinada ao patrono da autora, ainda que reduzida. Sentença parcialmente reformada, apenas quanto aos juros. Apelação da autora parcialmente provida." (e-STJ fl. 196)
+Recurso especial: alega violação dos arts. 85, §§ 2º, 8º, 8º-A, 14, 86, § único, CPC, 186, 927, CC, 6º, VI, 14, Lei 8.078/90, bem como dissídio jurisprudencial, sustentando que: i) os prejuízos advindos dos descontos indevidos realizados na conta corrente da recorrente foram enormes e a prova desta modalidade de dano torna-se difícil, razão pela qual, dispensando-se a demonstração em juízo do abalo sofrido quanto ao dano moral, figura-se in re ipsa, pois restou evidente a desproporção e vantagem abusiva do recorrido, frustrando a igualdade de tratamento entre as partes; e, ii) os ônus sucumbenciais devem ser suportados integralmente pelo recorrido; e, iii) o valor arbitrado à título de condenação em honorários advocatícios se mostra insuficiente para remunerar a atividade prestada, sobretudo se for levado em conta o valor da causa.
+Decisão unipessoal: conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Agravo interno: a parte agravante alega que esta Corte reconhece o prequestionamento implícito, que não é o caso de se reexaminar fatos e provas, mas sim de revaloração e que o dissídio está devidamente comprovado. Requer, assim, o provimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. AUSÊNCIA DO DISSÍDIO JURISPRUDENCIAL.
+1. Ação declaratória de inexistência de relação jurídica cumulada com repetição de indébito e compensação por danos morais.
+2. Agravo interno interposto contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+3. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+A decisão agravada conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial., em virtude dos seguintes fundamentos:
+i) ausência de prequestionamento da matéria tratada no recurso especial;
+ii) reexame de contexto fático-probatório (Súmula 7/STJ);
+iii) deficiência na demonstração do dissídio jurisprudencial.
+- Da ausência de prequestionamento da matéria tratada no recurso especial (Súmula 282/STF)
+A parte agravante não sustentou a inaplicabilidade da Súmula 282/STF de forma consistente, pois se limitou a asseverar, de forma genérica, que a matéria teria sido prequestionada implicitamente, segundo o entendimento desta Corte.
+Não demonstrou, ainda, que a tese relativa à interpretação do artigo de lei federal indicado no apelo especial teria sido efetivamente analisada e debatida no acórdão recorrido, bem como não demonstrou que foram opostos os devidos embargos de declaração.
+No ponto, também, argumentou que da leitura do recurso especial da parte agravante percebe-se que os artigos tidos como violados são os artigos 186 e 927 do CC e artigos 6º, inciso VI, e 14 do CDC, não se podendo falar, portanto, na violação dos artigos 85, §§ 8º, 8º-A, 14, CPC, indicados na decisão agravada.
+No entanto, foi a parte agravante quem alegou ofensa aos artigos 85, §§ 8º, 8º-A, 14, CPC, em suas razões de recurso especial (e-STJ fls. 210/214).
+Nesse sentido: AgInt no REsp 2.101.466/SP, Terceira Turma, DJe 28/02/2024; AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe 21/12/2023.
+- Do reexame de contexto fático-probatório (Súmula 7/STJ)
+Da análise das razões do agravo em recurso especial, verifica-se que a parte agravante não sustentou a inaplicabilidade da Súmula 7/STJ de forma consistente, limitando-se a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar quais os pressupostos fáticos necessários ao julgamento do recurso estavam delineados no acórdão recorrido.
+Ademais, alegou que houve a errônea valoração da prova pela Corte local, o que dá ensejo à intervenção desta Corte na questão que decorre da falha na aplicação das normas tidas por violadas no campo probatório dos autos, aliás, que estão descritas no corpo do acórdão recorrido.
+Malgrado o inconformismo da parte agravante, convém registrar o que foi consignado pela Corte local a respeito: i) bem pesadas as circunstâncias, não se vislumbra, em particular, hipótese de especial sofrimento ou dificuldades causadas à parte agravante pela conduta do agravado, em termos suficientes a levar à caracterização de ofensa extrapatrimonial juridicamente relevante; e, ii) por se afigurar insignificante o impacto do ilícito sobre a esfera pessoal da parte agravante, em que pese a parte agravante tenha realizado reclamação junto ao Procon (fls. 68/71), não se pode dizer que isso configure particular sofrimento ou mesmo perda de tempo útil, buscando a parte agravante se aproveitar de evento de diminutas proporções em prol de enriquecimento fácil; e, iii) houve, sim, decaimento praticamente integral de uma das partes, mas da parte agravante, não do agravado, tendo em vista a parcela acolhida do pedido, em confronto com aquela desacolhida, relativa à compensação pelos danos morais; e, iv) seria o caso de aplicação, em desfavor da parte agravante, da regra do art. 86, parágrafo único, do CPC, o que, entretanto, deixa-se de fazer, à míngua de inconformismo do agravado, e para que não haja reformatio in pejus.
+Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe 28/02/2024; AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe 21/12/2023.
+- Da deficiência na demonstração do dissídio jurisprudencial
+A parte agravante não realizou análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças das situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal.
+Ademais, não há, nas razões do recurso especial, o cumprimento dos requisitos formais previstos nos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+Nesse sentido: AgInt no REsp 1.813.194/ES, Terceira Turma, DJe 29/02/2024; AgInt no REsp 2.041.495/RN, Quarta Turma, DJe 20/12/2023.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
