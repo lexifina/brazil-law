@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno contra decisão que negou provimento ao agravo em recurso especial.
+Nas razões do agravo, sustenta que "Não há dúvidas de que a agravante demonstrou no Recurso Especial e no Agravo em Recurso Especial que houve prequestionamento, tendo o acórdão recorrido se pronunciado sobre a matéria jurídica, violando os dispositivos legais apontados pela agravante".
+Alega que "a matéria referente a ausência de mora e sucumbência por parte da Previ foi devidamente abordada em tópico próprio nas razões ao recurso especial, sendo desnecessário o fato do não conhecimento da apelação da parte recorrente, uma vez que o acórdão recorrido tratou de apreciar a questão ventilada no recurso especial da agravante".
+Defende que "o recálculo do benefício necessita da prévia e integral recomposição da reserva matemática, sendo esta última não é obrigação da PREVI. Dessa forma, enquanto não cumprida essa obrigação por parte da autora, não se pode exigir da ré o recálculo do benefício", de modo que "INEXISTE MORA DA PREVI, não sendo cabível a sua condenação em honorários advocatícios e ou qualquer outro reflexo da suposta mora".
+Ao final, requer-se a retratação da decisão ou o provimento do recurso pelo órgão colegiado.
+Impugnação ao agravo apresentada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+VOTO
+Apesar dos argumentos expendidos, o agravo não merece prosperar, ante a ausência de argumentos hábeis a alterar os fundamentos da decisão agravada.
+A parte agravante, nas razões do recurso especial, sustentou, em síntese, que não houve mora de sua parte, bem como que o contrato previdenciário não se vincula ao contrato de trabalho, não havendo que se falar em ato ilícito a justificar sua condenação em honorários advocatícios ou qualquer outro reflexo da suposta mora reconhecida pelo Tribunal local.
+Como se destacou, e agora reitero, o recurso não merece ser provido, tendo em vista esbarrar em, ao menos, três circunstâncias, que constituíram os fundamentos da decisão agravada: a) ausência de prequestionamento, b) consonância do entendimento adotado pelo Tribunal local com o entendimento do STJ firmado nos Temas 955 e 1021 de repetitivos, c) e interposição de agravo em recurso especial em face de decisão que não admitiu recurso especial com base em juízo de conformidade (art. 1.030, I, do CPC).
+Em relação ao prequestionamento, a decisão agravada pontuou que os temas suscitados pela agravante não foram examinados pelo Tribunal local em razão da intempestividade do recurso de apelação (e-STJ, fl. 1632):
+Tratam os autos de ação de revisão de benefício de suplementação de aposentadoria, em que os autores, ora recorridos, requereram a integração da horas extras laboradas, reconhecidas em ação trabalhista, nos proventos de aposentadoria complementar, com a apuração de novo valor para o benefício.
+A sentença julgou parcialmente procedente os pedidos formulados, dela tendo ambas as partes interposto recurso apelação.
+O acórdão recorrido negou provimento ao recurso de apelação interposto pelos ora recorridos, a) em razão da conformidade da sentença com o entendimento firmado pelo Superior Tribunal de Justiça no julgamento do Tema 955 de repetitivos, b) da impossibilidade de revisão do Benefício Especial Temporário, pela inexistência dos pressupostos de sua concessão, e pela c) inexistência dos requisitos autorizadores da concessão de tutela provisória de urgência.
+Por sua vez, o acórdão não conheceu do recurso de apelação interposto pela ora agravante, Caixa De Previdência Dos Funcionários Do Banco Do Brasil - PREVI, em razão de sua intempestividade (e-STJ, fl. 1102):
+No entanto, a Apelação interposta pelo réu foi apresentada em 26/03/2019; considerando-se que o Decreto Judiciário nº 85, de 25 de fevereiro de 2019, apenas suspendeu o expediente nos dias 28 de fevereiro e 1º de março de 2019 nas Comarcas da Capital, ficando suspenso o expediente nas Comarcas do Interior apenas no dia 06 de março de 2019, conclui-se pela intempestividade do recurso do acionado, haja vista que houve o transcurso do prazo de 15 (quinze) dias úteis. Ressalta-se que não há nos autos qualquer menção a possíveis motivos ou circunstâncias que dariam azo a suspensão do prazo recursal na Comarca de Feira de Santana, nos dias 28 de fevereiro e 1º de março de 2019, fato este que deveria ter sido ventilado, caso houvesse.
+Assim, intempestivo o recurso interposto pelo réu, o seu conhecimento deve ser obstado, por falta de observância ao pressuposto processual estabelecido em lei, previsto no $5º do art. 1.003, do CPC/2015.
+Observe-se, portanto, que, em razão da intempestividade do recurso de apelação da ora agravante, o acórdão recorrido apenas se manifestou sobre a matéria deduzida no recurso de apelação da parte ora recorrida, que teve por objeto os três pontos acima indicados - a possibilidade de revisão do valor do benefício, a concessão do BET e a tutela provisória.
+Verifico, dessa forma, que os temas abrangidos pelos arts. 85 e 86 CPC, 125, 188, 189, 332, 394, 395, 396, 397, 398 e 476 do CC, 1º, 2º, 6º , 7º, 9º, 10, 12, 14, 17, 18, 19 e 68 da LC nº 109/2001, que a parte agravante, nas razões de seu recurso especial, alega terem sido violados, na verdade não foram objeto de debate pelo acórdão recorrido, sobretudo em razão da intempestividade do recurso de apelação interposto pela parte agravante perante a Corte local.
+Apesar desse relevante fundamento, a parte, no presente agravo, limitou-se a argumentar que "a matéria referente a ausência de mora e sucumbência por parte da Previ foi devidamente abordada em tópico próprio nas razões ao recurso especial, sendo desnecessário o fato do não conhecimento da apelação da parte recorrente, uma vez que o acórdão recorrido tratou de apreciar a questão ventilada no recurso especial da agravante", como se o fato de ter alegado a matéria no recurso especial bastasse para cumprir o requisito de prequestionamento, o que não é verdade.
+É inconteste, no presente caso, a ausência de prequestionamento da matéria, em razão da intempestividade do recurso da parte recorrente.
+Desse modo, tenho que as razões do agravo interno não impugnam devidamente os fundamentos da decisão agravada.
+Assim, não se desincumbiu, a parte agravante, do ônus de impugnar especificamente os fundamentos da decisão agravada, na forma exigida pelos arts. 932, III, e 1.021, § 1º, do CPC. Incide, por analogia, a Súmula 182/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
