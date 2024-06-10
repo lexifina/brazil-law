@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo de Direito da 3ª Vara de Nova Mutum - MT, tendo por suscitado o Juízo Federal da 5ª Vara de Cuiabá - SJ/MT.
+O juízo suscitado declinou de sua competência aduzindo que "na modalidade de financiamento contratada os supostos prejuízos decorrentes das fraudes narradas na denúncia serão suportados, ao fim, pelos próprios beneficiários do empreendimento Flor do Cerrado" (e-STJ FL.14), concluindo que "se, por um lado, não houve fraude na obtenção do financiamento - não havendo se falar, por isso, em crime contra o sistema financeiro e prejuízo à instituição financeira ou ao Fundo do Desenvolvimento Social -, e, por outro, se não há indícios de que a Caixa Econômica Federal foi vítima de estelionato, falece competência à Justiça Federal para processamento do feito" (e-STJ FL.15).
+A seu turno, o juízo suscitante afirma "que o FDS possui recursos oriundos do Orçamento Geral da União, e a entidade estava habilitada junto ao Ministério das Cidades, como entidade organizadora do programa habitacional, de modo que eventuais crimes e irregularidades revelam o claro interesse da União, já que praticados em detrimento de bens da União." (e-STJ FL. 2.222)
+O Ministério Público Federal promove a competência do juízo suscitado (e-STJ Fl.2.232/2.244).
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A competência criminal da Justiça Federal possui natureza absoluta, encontrando previsão constitucional no art. 109, IV a X da CRFB/88, "verbis":
+Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral;
+V - os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente;
+V-A as causas relativas a direitos humanos a que se refere o § 5º deste artigo; (Incluído pela Emenda Constitucional nº 45, de 2004)
+VI - os crimes contra a organização do trabalho e, nos casos determinados por lei, contra o sistema financeiro e a ordem econômico-financeira;
+VII - os habeas corpus , em matéria criminal de sua competência ou quando o constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição;
+VIII - os mandados de segurança e os habeas data contra ato de autoridade federal, excetuados os casos de competência dos tribunais federais;
+IX - os crimes cometidos a bordo de navios ou aeronaves, ressalvada a competência da Justiça Militar;
+X - os crimes de ingresso ou permanência irregular de estrangeiro, a execução de carta rogatória, após o "exequatur", e de sentença estrangeira, após a homologação, as causas referentes à nacionalidade, inclusive a respectiva opção, e à naturalização;
+Nas hipóteses elencadas no inciso IV, ressalvadas as exceções expressas no texto da lei, restringe-se a competência especializada às hipóteses em que haja ofensa direta aos "(..) bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas (..)".
+Consta dos autos que o Ministério Público Federal ofertou denúncia contra Cleuto Soares e José Carlos dos Santos pela prática dos crimes de estelionato e falsidade ideológica relacionados à prestação de contas do programa Minha Casa Minha Vida - Entidades, cujas operações são financiadas com recursos do Fundo de Desenvolvimento Social - FDS, mediante transferências de recursos do Orçamento Geral da União.
+Verifica-se que, embora o juízo suscitado tenha afirmado a ausência de prejuízo à instituição financeira ou ao FDS, tendo em vista a ausência de fraude na obtenção do financiamento pela Entidade Organizadora, há, a princípio, ofensa aos interesses da União.
+Nesse sentido, conforme destacado pelo Ministério Público Federal: "O Ministério das Cidades, órgão integrante do Governo Federal, por sua vez, nos termos do item 14.1 da Resolução 194/2012, possui a incumbência de gerir a aplicação dos recursos do FDS e acompanhar a avaliação do desempenho das operações contratadas no âmbito do PMCMV-E (Programa Minha Casa Minha Vida)" (e-STJ FL.2.241/2.242).
+Além disso, a entidade investigada foi previamente habilitada junto ao Ministério das Cidades como Entidade Organizadora do programa habitacional, cabendo ao órgão estatal a responsabilidade de acompanhar e avaliar o desempenho das operações contratadas no âmbito do PMCMV-E, o que reforça a presença de interesse da União.
+Dessa forma, há de incidir, por analogia, a "ratio" da Súmula 208/STJ, segundo a qual "Compete à Justiça Federal processar e julgar Prefeito Municipal por desvio de verba sujeita à prestação de contas perante órgão federal".
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo Federal da 5ª Vara de Cuiabá - SJ/MT, o Suscitado, para proce ssar e decidir a Ação Penal n. 1012889-04.2019.4.01.3600 .
+Publique-se. Intimem-se.
+ EMENTA
