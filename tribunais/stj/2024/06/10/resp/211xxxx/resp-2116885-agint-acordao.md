@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. EXECUÇÃO FISCAL. IMPENHORABILIDADE. AFASTADA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 7/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - O Colegiado a quo compreendeu que a constrição tem caráter relativo, devendo ser interpretada em consonância com os demais valores albergados pela ordem constitucional e pela legislação processual civil, havendo que se atentar para a necessidade de manutenção das atividades empresariais, de modo a preservar os meios eficazes ao adimplemento dos tributos devidos e ao pagamento dos salários dos funcionários, entre outras obrigações. Na hipótese em questão, a aludida medida não provoca de forma contundente a invasão na esfera patrimonial da empresa executada, a impossibilitar, em especial, a manutenção da atividade empresarial.
+III - Rever tal entendimento, com o objetivo de acolher a pretensão recursal de afastar a constrição questionada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por VISUAL ENGRENHARIA LTDA - EPP, contra a decisão monocrática de minha lavra que conheceu em parte e negou provimento ao Recurso Especial.
+Opostos embargos de declaração, foram rejeitados.
+Sustenta a Agravante, em síntese, inaplicável a Súmula n. 7/STJ. Isso porque a conclusão jurídica de 2ª instância de que os bens arrestados não são impenhoráveis não implica em revolvimento da matéria fática-probatória, apenas das conclusões jurídicas dadas pelo Tribunal de origem.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 396e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. EXECUÇÃO FISCAL. IMPENHORABILIDADE. AFASTADA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 7/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - O Colegiado a quo compreendeu que a constrição tem caráter relativo, devendo ser interpretada em consonância com os demais valores albergados pela ordem constitucional e pela legislação processual civil, havendo que se atentar para a necessidade de manutenção das atividades empresariais, de modo a preservar os meios eficazes ao adimplemento dos tributos devidos e ao pagamento dos salários dos funcionários, entre outras obrigações. Na hipótese em questão, a aludida medida não provoca de forma contundente a invasão na esfera patrimonial da empresa executada, a impossibilitar, em especial, a manutenção da atividade empresarial.
+III - Rever tal entendimento, com o objetivo de acolher a pretensão recursal de afastar a constrição questionada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nas razões do recurso especial a Recorrente alega que se verifica dos próprios autos, do auto de penhora, que os objetos penhorados encontram a proteção do invocado dispositivo legal, uma vez que computadores e máquinas são absolutamente indispensáveis ao exercício das atividades profissionais da Agravante, sem os quais não resta apenas prejudicada, mas inviabilizada a própria empresa.
+O Colegiado a quo compreendeu que a constrição tem caráter relativo, devendo ser interpretada em consonância com os demais valores albergados pela ordem constitucional e pela legislação processual civil, havendo que se atentar para a necessidade de manutenção das atividades empresariais, de modo a preservar os meios eficazes ao adimplemento dos tributos devidos e ao pagamento dos salários dos funcionários, entre outras obrigações. Na hipótese em questão, a aludida medida não provoca de forma contundente a invasão na esfera patrimonial da empresa executada, a impossibilitar, em especial, a manutenção da atividade empresarial.
+Rever tal entendimento, com o objetivo de acolher a pretensão recursal de afastar a constrição questionada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
