@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DOCUMENTOS INSUFICIENTES PARA COMPROVAR O CRÉDITO PERSEGUIDO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Verifica-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, decidiu pela inexistência de prova documental para embasar a ação monitória em questão.
+2. Assim, inviável a revisão do referido entendimento nesta via recursal, pois seria impresci ndível o reexame de matéria fática, vedado em recurso especial, nos termos da Súmula n. 7 desta Corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por LOGGAL PRODUTOS E SERVIÇOS EM PLÁTICOS E ALUMÍNIOS LTDA. contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para conhecer em parte do recurso especial e negar-lhe provimento, em razão de ausência da alegada ofensa ao art. 1.022 do Código de Processo Civil, e de aplicação da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante de revisão do entendimento assentado do Tribunal de origem pela inexistência de prova documental para embasar a ação monitória em questão (fls. 502-506).
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 330):
+Monitória - Reconhecimento de inexistência de prova escrita que autorize o manejo da ação - Embargos acolhidos - Sentença corretamente fundamentada - Ratificação nos moldes do art. 252 do Regimento Interno deste E. Tribunal de Justiça - Recurso improvido, com majoração dos honorários advocatícios.
+Rejeitados os embargos de declaração opostos (fls. 432-436).
+No presente agravo interno, alega a agravante que não incide o óbice da Súmula n. 7/STJ, pois a pretensão não enseja reexame de provas, ao tempo que reitera as alegações do recurso especial de que faz-se necessário seja reconhecida a cognição exauriente dos embargos monitórios, ao aduzir que, no caso, o silêncio diante das comunicações eletrônicas representa o reconhecimento da veracidade e idoneidade de tais tratativas, e, por consequência, tem-se que a recorrida reconheceu a confissão da dívida manifestada por seu preposto.
+Sustenta que se houve o exercício do contraditório e da ampla defesa pelada ora agravada, está-se diante de um juízo de cognição exauriente, o que atribui força probante às provas juntadas aos autos pela ora agravante.
+Pugna, por fim, pelo encaminhamento do feito à apreciação da Turma e pelo seu provimento.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões (fls. 519/526).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DOCUMENTOS INSUFICIENTES PARA COMPROVAR O CRÉDITO PERSEGUIDO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Verifica-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, decidiu pela inexistência de prova documental para embasar a ação monitória em questão.
+2. Assim, inviável a revisão do referido entendimento nesta via recursal, pois seria impresci ndível o reexame de matéria fática, vedado em recurso especial, nos termos da Súmula n. 7 desta Corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso dos autos, entendeu a Corte de origem pela inexistência de prova documental para embasar a ação monitória em questão.
+Consoante relatado, por meio da decisão agravada, o agravo em recurso especial foi conhecido para se conhecer em parte do recurso especial e negar-lhe provimento, em razão do entendimento assentado de ausência de ofensa ao art. 1.022 do Código de Processo Civil e de aplicação da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante.
+Não merece prosperar o recurso.
+Com efeito, conforme assentado na decisão agravada, inviável a apreciação das alegações da agravante, considerando que a Corte de origem, ao entender pela improcedência da ação monitória em questão por falta de prova escrita a embasá-la, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 331-333):
+Assim, sobreveio a r. decisão aqui guerreada, proferida nos seguintes termos: "Como a embargante estivesse a controverter noutra demanda sobre as mesmas notas fiscais que a embargada utiliza nesta ação monitória, reconheceu-se existir uma questão prejudicial externa. O julgamento dessa questão prejudicial externa revela-se importante para definir se a ação monitória pode ou não ser utilizada, dado que a embargante argumentara que havia aspectos diretamente ligados à nota fiscal que estavam naquela outra ação sob controvérsia, aspectos que são, de fato, importantes na análise da adequação instrumental da ação monitória, sobretudo diante do que foi julgado na ação.
+Com efeito, declarou-se ali inexistir a dívida da autora(aqui embargante) em relação a uma das notas fiscais por não haver qualquer prova de recebimento das mercadorias, como também se pronunciou, na mesma sentença, a prescrição em face das demais notas fiscais, conforme se vê de folhas 227/235.
+O que significa reconhecer razão à embargante quando afirma haver importante controvérsia fática quanto a significativos aspectos que envolvem a relação contratual entre as partes, nomeadamente quanto a ter existido ou não ter existido a efetiva entregadas mercadorias, questão fática que foi examinada no contexto da questão prejudicial externa e cujo resultado reforça aqui a argumentação da embargante no sentido de que a via da ação monitória não é azada.
+Destarte, havendo, como há séria dúvida quanto a ter havido ou não a entrega das mercadorias, além de outros aspectos dar elação negocial que os embargos legitimamente questionam, daí decorre que a documentação apresentada não pode ser juridicamente qualificada como prova escrita para adequado manejo da ação monitória, devendo a embargada utilizar-se da ação sob processo de conhecimento, com um campo cognitivo amplo a permitir, em cognição plena e exauriente, a discussão da relação jurídico-material.
+POSTO ISSO, acolho os embargos à ação monitória, por força de reconhecer e declarar a inexistência de prova escrita que autorize o manejo da ação monitória. Declaro a extinção destes embargos à ação monitória, com julgamento de seu mérito, nos termos do artigo 487,inciso I, do Código de Processo Civil, e em consequência, por ausência de interesse específico de agir (prova escrita), julgo extinta a ação monitória em razão da aplicação subsidiária do artigo 485, inciso VI, do mesmo Código."Com efeito, diante do quadro apresentado, observa-se que agiu com acerto o d. Magistrado de piso, nada havendo para ser alterado na r. sentença, ora mantida por seus próprios e jurídicos fundamentos.
+Dessa forma, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. AUSÊNCIA DE COMPROVAÇÃO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO AUTORAL. ART. 373, II, DO CPC/2015. 3. VIOLAÇÃO À LEI N. 8.004/1990. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 4. INADIMPLEMENTO DO CONTRATO DE COMPRA E VENDA DO IMÓVEL E SUFICIÊNCIA DOS DOCUMENTOS QUE EMBASARAM A AÇÃO MONITÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. ARTS. 884, 885 E 886 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 6. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O colegiado estadual consignou que os agravantes deixaram de comprovar fato impeditivo, modificativo ou extintivo do direito autoral, em desconformidade ao disposto no art. 373, II, do CPC/2015.
+3. Quanto a alegada ofensa à Lei n. 8.004/1990, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+4. Modificar o entendimento do Tribunal local (acerca do inadimplemento dos agravantes relativo ao contrato de compra e venda do imóvel e da suficiência dos documentos que embasaram a ação monitória) demanda reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo também o caso de revaloração das provas.
+5. Em relação aos arts. 884, 885 e 886 do Código Civil apontados como ofendidos, a leitura do acórdão recorrido revela que as matérias a eles relativas não foram objeto de debate e decisão pela Corte estadual, carecendo, assim, de prequestionamento. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+6. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 259, § 4º, do RISTJ, devendo ser analisado caso a caso.
+7. Agravo interno a que se nega provimento.
+(AgInt no AR
+Esp n. 2.325.795/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/8/2023, D
+Je de 30/8/2023.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
