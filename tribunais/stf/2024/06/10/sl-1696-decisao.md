@@ -1,0 +1,133 @@
+DECISÃO:
+
+Ementa: Direito Constitucional. Pedido de reconsideração em suspensão de liminar. Uso de câmeras em operações policiais. Indeferimento.
+
+I. Caso em exame
+
+1. Pedido de reapreciação apresentado em suspensão de liminar em que se discute o uso de câmeras corporais em operações policiais no Estado de São Paulo.
+
+2. Na decisão anterior, diante do compromisso assumido pelo Estado de adotar as medidas necessárias para efetivar o uso de câmeras corporais pela polícia, entendi que não seria necessário expedir ordem judicial. Contudo, registrei que, em razão da natureza estrutural do litígio, caberia a esta Presidência reapreciar o pedido em caso de descumprimento pelo Estado de São Paulo, remetendo o feito ao Núcleo de Processos Estruturais Complexos (NUPEC/STF) para acompanhamento.
+
+3. Os requerentes alegam que o edital de licitação publicado para a contratação de novas câmeras corporais representa retrocesso em relação ao modelo anterior e viola o compromisso assumido pelo Estado junto a esta Corte, pedindo sua retificação, em especial a fim de que: (i) as câmeras sejam alocadas prioritariamente nas unidades da Polícia Militar que realizam operações; (ii) as gravações sejam feitas de forma ininterrupta, independentemente de acionamento pelo policial ou gestor; (iii) sejam mantidos os prazos de armazenamento de imagens atualmente praticados.
+
+II. Questão em discussão
+
+4. Discute-se o atendimento aos compromissos assumidos pelo Estado quanto ao uso de câmeras corporais nas ações policiais.
+
+III. Razões de decidir
+
+5. Em diálogo com essa Presidência, o Estado de São Paulo reforçou o seu compromisso com a efetivação de política pública de uso de câmeras corporais, esclarecendo que:
+
+ 5.1. Quanto ao critério para alocação das câmeras: (i) todos os policiais e unidades que atualmente dispõem de câmeras continuarão a usá-las; (ii) as câmeras adicionais serão distribuídas a partir de “critérios técnico-estratégicos”, que consideram a quantidade de ocorrências; e (iii) em “operações de grande envergadura”, haverá preferência para tropas que portem câmeras.
+
+ 5.2. Quanto ao modelo de gravação: embora tenha substituído a gravação ininterrupta, o novo modelo prevê acionamento automático das câmeras quando: (i) for detectado som de estampido de tiro; (ii) o equipamento estiver no raio de 50m de uma posição georeferenciada de ocorrência em andamento; e (iii) o equipamento for desativado durante o atendimento de ocorrência.  O Estado estabeleceu em regulamento próprio, após reunião com a Presidência, que as câmeras devem ser acionadas em todas as hipóteses previstas na Portaria nº 648/2024 do Ministério da Justiça e Segurança Pública como de gravação obrigatória. Comprometeu-se também a atualizar suas diretrizes após a contratação, tendo em vista que a viabilidade do novo modelo depende da realização de prova de conceito dos equipamentos previstos na licitação.
+
+ 5.3. Quanto ao prazo de armazenamento das imagens: o edital publicado observa norma estadual que exige a guarda das imagens pelo prazo 365 dias, não havendo diminuição do período.
+
+6. Ademais, para garantir a continuidade da política e dissipar dúvidas quanto à viabilidade técnica da nova solução, o Estado afirmou que os equipamentos atuais somente deixarão de ser usados quando os novos já estiverem em operação efetiva.
+
+7.  Com base nas informações prestadas, não há, por ora, evidente descumprimento dos compromissos assumidos pelo Estado de São Paulo. No entanto, como o novo modelo de câmeras deve ser tecnicamente viável e eficaz em seu funcionamento, o que não é possível apreciar nesta fase do processo licitatório, o Núcleo de Processos Estruturais e Complexos do STF (NUPEC) seguirá monitorando, de modo a assegurar que não haja retrocesso que possa comprometer a continuidade da política pública de uso de câmeras corporais.
+
+IV. Dispositivo
+
+8. Por ora, não há razão para reconsiderar a decisão anterior, fundada no compromisso assumido pelo Estado e complementado pela regulamentação subsequente editada, em diálogo com essa Presidência. Retorno dos autos ao NUPEC/STF para acompanhamento. Determinação de que as manifestações apresentadas nesta ação e a presente decisão sejam anexadas ao processo administrativo da licitação e divulgadas na forma de esclarecimentos complementares ao edital.
+
+__________
+
+Atos normativos citados: Constituição Federal, art. 37, caput, e art. 134; Portaria nº 648/2024 do Ministério da Justiça e Segurança Pública, art. 2º, 8º e 10.
+
+    1. Trata-se de pedido de reapreciação do caso apresentado pela Defensoria Pública do Estado de São Paulo, por meio de seu Núcleo Especializado de Cidadania e Direitos Humanos, pela Conectas Direitos Humanos e pela JUSTA - Associação Plataformas - Ideias e Projetos para Soluções Públicas, que impugnam no presente feito decisão da Presidência do Tribunal de Justiça local, que sustou os efeitos de determinação para o uso de câmeras corporais em operações policiais no Estado de São Paulo.
+
+    2. Na decisão anterior, registrei que, diante do compromisso assumido pelo Estado de adotar as medidas necessárias para efetivar o uso de câmeras corporais, naquele momento não seria necessário expedir ordem judicial. Reservei-me, em razão da dimensão estrutural do litígio, ao direito de reapreciar a questão em caso de descumprimento da obrigação, caracterizado pela inobservância dos marcos fundamentais do cronograma apresentado para nova aquisição de câmeras corporais. Por fim, remeti o feito ao Núcleo de Processos Estruturais Complexos (NUPEC/STF), para acompanhamento.
+
+    3. No pedido de reapreciação, os requerentes alegam que o edital de licitação recentemente publicado pelo Estado para a contratação de “solução integrada de gestão, captação, transmissão, armazenamento, custódia e compartilhamento, de vestígios digitais por Câmeras Operacionais Portáteis nas atividades policiais” representa retrocesso em relação ao modelo anterior e viola o compromisso assumido junto a esta Corte. Argumentam que: (i) o edital não contém qualquer disposição quanto à destinação preferencial das 12 mil câmeras que se pretende contratar para as unidades da Polícia Militar que realizam operações; (ii) a mudança do modelo de gravação - de ininterrupta para intencional - pode comprometer a eficiência no uso desses equipamentos; (iii) a redução do período de armazenamento das imagens de 60 para 30 dias causaria prejuízos ao trabalho dos atores envolvidos; e (iv) o edital não é suficientemente rigoroso quanto aos requisitos para a habilitação técnica das licitantes. Pedem que se determine a retificação do edital publicado, a fim de que:
+
+    A) Haja previsão expressa de que as novas câmeras contratadas serão destinadas, preferencialmente, às unidades e batalhões que realizam operações policiais;
+
+    B) Em relação ao tipo do vídeo (fls. 30 do edital) conste que a COP contratada deverá contemplar os dois modelos de gravação (automática e intencional) e não pode depender única e exclusivamente do acionamento do policial militar, local ou remotamente pelo gestor;
+
+    C) Em relação ao tempo de armazenamento das imagens, sejam mantidos os prazos previstos nos contratos vigentes de 60 dias para as gravações de rotina e 365 dias para as gravações intencionais.
+
+    D) Em relação aos requisitos para habilitação técnica das empresas concorrentes no certame, seja exigido, no mínimo, o cumprimento do disposto na Súmula 24 do TCESP.
+
+    4. Determinei a intimação do Estado de São Paulo, da Procuradoria-Geral da República e do Ministério Público do Estado de São Paulo, para que se manifestassem sobre o pedido de reapreciação do caso, em especial quanto aos seguintes pontos: (i) existência de política pública que priorize a alocação das câmeras corporais para as unidades da Polícia Militar que realizam operações; (ii) necessidade de que as gravações sejam feitas de forma ininterrupta, com a guarda das imagens de maneira íntegra, independentemente de acionamento pelo policial ou pelo gestor; (iii) redução dos prazos de armazenamento das imagens em relação aos anteriormente praticados; e (iv) adequação do modelo de contratação proposto às diretrizes estabelecidas pela Portaria nº 648/2024 do Ministro de Estado da Justiça e Segurança Pública.
+
+    5. O Estado pede o indeferimento do pedido. Aponta irregularidade na representação processual da Defensoria Pública, em razão de a petição apresentada não ter sido assinada pelo Defensor Público-Geral. Indica que o pedido de suspensão de liminar não é a via processual adequada para que os requerentes formulem sua pretensão.
+
+    6. Argumenta que “está prevista a manutenção de utilização das câmeras pelas Organizações Policial-Militares (OPM) que já as utilizam”. Sustenta que a distribuição das novas câmeras seguirá critérios técnicos. Indica que, no novo edital, a modalidade atual (gravação ininterrupta) foi substituída pelo acionamento remoto, manual ou intencional. Entende que essa mudança tem por objetivo “a preservação de direitos, principalmente das mulheres policiais – com ampliação da governança e dos casos de acionamento, garantindo momentos de privacidade dos policiais; bem como melhor alocação de recursos, com aumento da quantidade de câmeras e menor custo para o erário, deslocando as despesas com armazenamento de vídeos de rotina (sem valor probatório) para equipamentos melhores e com mais funcionalidades” (destaques do original). Afirma ainda que não haverá redução no prazo de armazenamento das imagens, que continuarão disponíveis por 365 dias, conforme exige norma estadual, sendo que o prazo de 30 dias se refere apenas ao dever de armazenamento das imagens em nuvem pela empresa contratada. Defende que o novo edital observa as diretrizes previstas na Portaria nº 648/2024 do Ministro de Estado da Justiça e Segurança Pública pelo novo edital.
+
+    7. No Ofício nº 369/2024, apresentado em anexo à manifestação do Estado, afirma-se que “a previsão de acionamento é na modalidade remota (automática ou intencional) ou manual”. O documento indica que o remoto automático é quando o software aciona remotamente a câmera, em especial quando “a) detecta som de estampido de tiro; b) o equipamento se aproxima ao raio de 50m de uma posição georeferenciada de ocorrência em andamento; c) o equipamento foi desativado, mas ainda está no atendimento de ocorrência”. No remoto de acionamento intencional, o Centro de Operações da Polícia Militar tem a competência de acionamento, em especial, nas situações que as “equipes estejam nas proximidades da ocorrência, sob raio de 50m” e “perceber que houve alteração para o modo stand-by, mas ainda está ocorrendo o atendimento da ocorrência ou no local da ocorrência”. Aponta-se no ofício que há expectativa que a nova contratação “possa trazer economia de armazenamento”, com a mudança do modelo de guarda e armazenamento dos vídeos de rotina.
+
+    8. A Procuradoria-Geral da República se manifestou pelo acolhimento parcial do pedido, “para que o Estado de São Paulo ajuste a exigência de tempo de armazenamento das imagens levando em consideração os prazos mínimos previstos na Portaria MJ nº 648/2024, bem como para que exija, como requisito de habilitação técnica, atestado que comprove o fornecimento de, no mínimo, cinquenta por cento do objeto licitado”. Entende que “a distribuição das câmeras corporais nas unidades é, portanto, questão técnica que depende de estudos de alocação de recursos e avaliação do gestor competente”. Afirma que “a não adoção do modelo de acionamento automático não exime o agente do dever de gravar as suas atividades nos exatos termos da regulamentação adotada no Estado”.
+
+    9. O Ministério Público do Estado de São Paulo, admitido no feito na qualidade de amicus curiae, apresentou manifestação.  Destaca que “as câmeras corporais servem como eficaz e idôneo elemento de prova para viabilizar a condenação criminal, sendo útil ferramenta no combate à criminalidade”. Afirma que o Grupo de Atuação Especial da Segurança Pública e Controle Externo da Atividade Policial acompanha a política de implantação das câmeras corporais em policiais. Concorda com a ideia de que esses equipamentos devem ser instalados prioritariamente nas unidades da Polícia Militar envolvidas em operações de retomada de espaços ou reposição da ordem. Com relação à modalidade de gravação, considera que a decisão do Estado deve levar em conta os custos e destaca que, independentemente do tipo de acionamento, deve prevalecer o princípio da transparência. Indica que o prazo de armazenamento das imagens será mantido em 365 dias. Entende que o novo modelo de contratação proposto “apresenta-se adequado às diretrizes estabelecidas pela Portaria nº 648/2024”.
+
+    10. Os requerentes apresentaram nova manifestação, em que reiteraram os argumentos anteriores. Apontam que as gravações rotineiras, embora majoritariamente não sejam de “interesse criminal”, podem ser importantes para esclarecer ocorrências. Observam que, na experiência da Defensoria Pública, há casos em que os policiais deixam de acionar a gravação intencional ou criam obstáculos para que ela ocorra. Entendem que o Procedimento Operacional Padrão vigente já prevê mecanismos para que os policiais não usem câmeras em momentos privados, como em vestiários ou banheiros. Afirmam que, quando o acesso da Defensoria Pública às imagens é permitido, o tempo médio de resposta é 15,2 dias. Indicam que o atual edital impede o acesso direto da instituição às gravações, violando o art. 134 da Constituição.
+
+    11. No ofício CG nº 405/2024, apresentado em anexo, o Estado explicita que a modalidade de gravação ininterrupta atual (video recall) foi substituída pelo acionamento remoto, manual ou intencional. Indica que as novas funcionalidades exigirão, após a prova de conceito dos equipamentos, alterações nas normativas internas e que os novos contratos substituirão os existentes, mantendo-se a continuidade do uso da COP pelos policiais.
+
+    12. Em seguida, o Estado apresentou manifestação complementar. Noticia a publicação da Portaria nº PM1-04/02/24 que estabelece “diretrizes sobre o emprego de câmeras operacionais portáteis da Polícia Militar do Estado de São Paulo”, a qual prevê que: (i) nas “operações de grande envergadura”, será priorizado o uso de tropas que portem câmeras; (ii) os policiais que usam esses equipamentos têm a obrigação de realizar gravações nas hipóteses especificadas, que contemplam todas as situações previstas na Portaria nº 648/2024 do Ministro de Estado da Justiça e Segurança Pública; e (iii) após a conclusão da licitação, a diretriz da corporação para o uso de câmeras será atualizada, de modo a disciplinar as hipóteses de acionamento remoto, automático ou intencional.
+
+    13. Sustenta que a mudança na forma de gravação se justifica porque os vídeos de rotina, sem interesse para apuração criminal, representam 37% do valor do contrato (cerca de R$ 36 milhões por ano) e 21% das despesas com tecnologia da informação da Polícia Militar. Afirma que os requisitos de habilitação técnica previstos no edital consideram as novas especificações técnicas e foram fixados de modo a permitir ampla concorrência e evitar o direcionamento da licitação.
+
+    14. Os requerentes apresentaram manifestação complementar, ressaltando que “não há outro modelo de acionamento compatível com a Polícia Militar que não o automático e ininterrupto de todo o seu turno de serviço”. Destacam que a mudança do modelo seria uma inovação desproporcional para proteção dos direitos e reiteram os argumentos quanto à violação do princípio da vedação ao retrocesso. Ao final, reapresentam os pedidos formulados, para reapreciação do caso.
+
+    15. É o relatório. Decido.
+
+    16. De início, reconheço que o vício quanto à representação da Defensoria Pública foi sanado. Isso porque a instituição apresentou decisão que reconhece a possibilidade de atuação direta do Núcleo Especializado de Cidadania e Direitos Humanos no presente feito (doc. 44).
+
+    17. Passando a analisar o pedido de reapreciação, considero essencial reforçar a importância e a relevância da continuidade da política pública do uso de câmeras corporais por policiais militares, no contexto da segurança pública. Esse ponto, inclusive, me parece ser um consenso entre todas as partes envolvidas na presente ação, que abordaram as inúmeras vantagens do uso de câmeras pelos policiais, tanto em sua própria garantia como para a contenção de eventuais abusos.
+
+    18. Como reflexo da importância do tema, no curso deste processo, o Ministério da Justiça e Segurança Pública editou a Portaria nº 648/2024, que estabelece diretrizes sobre o uso de câmeras corporais pelos órgãos de segurança pública. Embora essa norma não vincule diretamente o Estado, constitui diretriz técnica importante, sobretudo por estabelecer as situações em que o uso das câmeras é obrigatório e os tipos de acionamento admitidos. Assim, entendo possível usar os parâmetros nela estabelecidos para verificar se os compromissos assumidos pelo Estado quanto à continuidade da política do uso das câmeras estão sendo atendidos.
+
+    19. Ressalto, entretanto, que a efetividade da nova política do Estado não é objeto de apreciação, tendo em vista a impossibilidade de aferição, no presente momento, do funcionamento do novo modelo adotado, em virtude da fase em que se encontra o processo licitatório. Conforme esclarecimentos apresentados, depende-se ainda da prova de conceito e da efetiva contratação dos equipamentos para verificar se o novo modelo da política será viável. Ademais, como destacado pelo Estado no ofício CG nº 405/2024, haverá continuidade na transição entre os contratos vigentes e a nova contratação, de modo que não haverá prejuízo da utilização de câmeras pelos policiais.
+
+    20. Partindo dessas premissas, em diálogo com essa Presidência, o Estado de São Paulo reforçou o seu compromisso com a efetivação de política pública de uso de câmeras corporais, esclarecendo os pontos controvertidos.
+
+    21. Em primeiro lugar, quanto à existência de política pública que priorize a alocação das câmeras corporais para as unidades da Polícia Militar que realizam operações, o Estado esclarece que: (i) todas as unidades da Polícia Militar que já utilizam câmeras corporais seguirão com o equipamento; (ii) as câmeras adicionais, que se tornarão disponíveis após a conclusão da nova contratação, serão distribuídas a partir de “critérios técnico-estratégicos” que incluem a modalidade de policiamento, o tamanho da população na área de atuação e a quantidade de ocorrências; e (iii) nas “operações de grande envergadura”, haverá preferência para as tropas que portem câmeras corporais. Tendo em vista as informações técnicas prestadas quanto ao ponto, não há evidência de descumprimento dos compromissos assumidos pelo Estado.
+
+    22. Em segundo lugar, analiso o argumento relativo à necessidade de que as gravações sejam feitas de forma ininterrupta, independentemente de acionamento pelo policial ou pelo gestor, com a guarda das imagens de maneira íntegra. Sobre o ponto, o Estado afirma que o edital prevê três tipos de gravação, nos seguintes termos:
+
+    • No modelo remoto automático, o software aciona remotamente, sem prejuízo de outras regras determinadas pela instituição, quando: a) detecta som de estampido de tiro; b) o equipamento se aproxima ao raio de 50m de uma posição georeferenciada de ocorrência em andamento; c) o equipamento foi desativado, mas ainda está no atendimento de ocorrência.
+
+    • No modelo remoto de acionamento intencional, o Centro de Operações da Polícia Militar – COPOM deverá acionar as câmeras sempre que: a) despachar uma ocorrência para uma equipe; b) receber determinação da supervisão; c) em caso de equipes de apoio que estão se direcionando ao local; d) equipes estiverem nas proximidades da ocorrência, em raio de 50m; e) perceber que houve alteração para o modo stand-by, embora esteja ocorrendo o atendimento ou permaneça no local da ocorrência.
+
+    • No modelo de acionamento manual, a câmera deverá ser acionada sempre que houver interação com o público, por exemplo, quando o agente policial: a) se deparar com uma ocorrência em andamento; b) realizar uma abordagem policial; c) iniciar uma comunicação por meio de equipamento; d) se deslocar para apoio em uma ocorrência; sem prejuízo de outras interações não mencionadas.
+
+    23. Formalmente, essas previsões se alinham ao previsto no art. 10, I, da Portaria nº 648/2024 do Ministro de Estado de Justiça e Segurança Pública, que prevê duas hipóteses de acionamento automático das câmeras corporais, que podem ser implementadas de forma concomitante ou alternativa: (i) a gravação ininterrupta, que registra todo o turno do policial; e (ii) a gravação configurada para “responder a determinadas ações, eventos, sinais específicos ou geolocalização”[1]. Apesar de a norma estabelecer preferência pela gravação ininterrupta, não há vedação ao uso de modalidade diversa[2].
+
+    24. O Estado argumenta que a opção administrativa pela substituição do modelo de gravação ininterrupta tem por fundamento o alto custo de armazenamento de imagens de rotina que não são úteis para o controle da atividade policial. Quanto ao ponto, ainda que seja legítima a argumentação em torno dos custos, será necessário aferir, em momento posterior, se a mudança no modelo terá ou não impacto na efetividade da política do uso das câmeras. Afinal, em se tratando do princípio da eficiência, previsto no art. 37, caput, da Constituição, não é apenas o aspecto de custo pecuniário que importa, mas a economicidade, que exige que a finalidade da política seja atingida. Dessa forma, entendo que caberá ao Estado de São Paulo e às entidades de controle externo realizarem o devido monitoramento na transição para o novo modelo.
+
+    25. Quanto às situações que exigem a gravação, buscando ajustar-se à diretriz nacional, o Estado editou norma interna que obriga os policiais militares a acionarem voluntariamente as câmeras em todas as hipóteses em que a gravação é necessária, sob pena de punição disciplinar. Comprometeu-se também a atualizar suas diretrizes após a conclusão da licitação, de modo a regulamentar as situações em que o acionamento das câmeras será feito de modo automático, por software. Neste ponto, ressalta-se que a viabilidade do novo modelo depende da realização de prova de conceito dos equipamentos previstos na licitação, a fim de verificar se a tecnologia de acionamento por software descrita é exequível e efetiva. Ademais, reitero que deve haver mecanismos de fiscalização adequados que permitam a aferição do cumprimento das normas.
+
+    26. Em terceiro lugar, o Estado informou que permanecerá guardando as imagens captadas a partir das câmeras corporais dos policiais por 365 dias, prazo previsto na Resolução SSP-49/2020. Segundo o ente público, o edital pretendeu permitir o acesso imediato às imagens nos primeiros 30 dias posteriores ao registro, período em que a empresa contratada estará obrigada a armazenar o material em nuvem.
+
+    27. Ademais, para garantir a continuidade da política e dissipar dúvidas quanto à viabilidade técnica da nova solução, o Estado afirmou que os equipamentos atuais somente deixarão de ser usados quando os novos já estiverem em operação efetiva. Isto é, o Estado de São Paulo se comprometeu a manter os contratos existentes até que os novos estejam em operação e já se tenha a certeza da viabilidade técnica e efetividade do modelo de câmeras corporais ora proposto.
+
+    28. Por fim, quanto aos argumentos relacionados aos requisitos de habilitação técnica das licitantes e regras formais do edital, como demandariam a análise da legislação infraconstitucional (art. 62 e seguintes da Lei nº 14.133/2021), entendo que não cabe a esta Corte apreciar a medida de contracautela.
+
+    29.  Assim, considerando os esclarecimentos prestados pelo Estado e os documentos apresentados, não há evidente descumprimento dos compromissos assumidos pelo Estado de São Paulo. No entanto, como o novo modelo de câmeras deve ser tecnicamente viável e eficaz em seu funcionamento, o que não é possível apreciar nesta fase do processo licitatório, é preciso que o Núcleo de Processos Estruturais e Complexos do STF (NUPEC) continue o monitoramento, de modo a assegurar que não haja retrocesso que possa comprometer a continuidade da política pública de uso de câmeras corporais.
+
+    30. Por todo o exposto, por ora, não há razão para reconsiderar a decisão anterior, fundada no compromisso assumido pelo Estado e complementado pela regulamentação subsequente editada, em diálogo com essa Presidência. Retornem os autos ao Núcleo de Processos Estruturais Complexos (NUPEC/STF) para que siga o monitoramento. O NUPEC/STF deverá aferir a observância dos parâmetros aqui fixados, bem como a efetividade das câmeras contratadas e do software desenvolvido para gravação das situações previstas na Portaria nº 648/2024 do Ministério da Justiça e Segurança Pública. Em caso de desempenho insatisfatório, esta Presidência voltará a atuar.
+
+    31. Adicionalmente, para permitir a avaliação dos compromissos apresentados, determino ao Estado de São Paulo que: (i) anexe as manifestações apresentadas nesta ação (doc. 94 e 109 e seus anexos) e a presente decisão ao processo administrativo da licitação, bem como as divulgue na forma de esclarecimentos complementares ao edital; (ii) informe a esta Corte os resultados da licitação e da prova de conceito prevista no item 7.15.1 do edital, até 72h após a conclusão de cada ato; e (iii) apresente, seis meses após o início da execução do contrato a ser celebrado, relatório em que avalie a efetividade das novas câmeras contratadas e do software desenvolvido para gravação das situações previstas na Portaria nº 648/2024 do Ministério da Justiça e na Portaria Estadual nº PM1-04/02/24 .
+
+          Publique-se.
+
+          Brasília, 10 de junho de 2024.
+
+Ministro Luís Roberto Barroso
+
+Presidente
+
+    Notas:
+
+    [1] Art. 10. A gravação das câmeras corporais ocorrerá, alternativa ou concomitantemente, segundo a regulamentação de cada órgão de segurança pública, admitidas as seguintes modalidades:
+
+    I - por acionamento automático, quando:
+
+    a) a gravação é iniciada desde a retirada do equipamento da base até a sua devolução, registrando todo o turno de serviço; ou
+
+    b) a gravação é configurada para responder a determinadas ações, eventos, sinais específicos ou geolocalização.
+
+    [2] Art. 10. [...] § 2º Os órgãos de segurança pública deverão adotar, preferencialmente, o modo de gravação a que se refere a alínea “a” do inciso I do caput deste artigo.
