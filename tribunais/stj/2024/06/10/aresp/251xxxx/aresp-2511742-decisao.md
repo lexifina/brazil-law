@@ -1,0 +1,34 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fls. 1.083-1.084 (e-STJ).
+Decido.
+Trata-se de agravo interposto por ANDERSON PEIXOTO DOS REIS contra decisão proferida pelo Presidente do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que inadmitiu seu recurso especial com espeque nas Súmulas 7 e 83 do STJ (e-STJ fls. 1.083-1.086).
+O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, os óbices aplicados na origem foram devidamente rebatidos.
+Passo ao exame do recurso especial.
+O recorrente foi condenado pelo Tribunal do Júri à pena de 14 (catorze) anos e 3 (três) meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, § 2º, I, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação alegando contrariedade da decisão dos jurados às provas dos autos e erro na dosimetria. O Tribunal de origem deu parcial provimento ao apelo apenas para reduzir a pena imposta ao recorrente para 14 (catorze) anos de reclusão.
+Na fundamentação de fls. e-STJ 1.027-1.034, a Corte local refuta a tese de decisão contrária às provas dos autos.
+Na análise do caso, saliento, de início, que o princípio da soberania dos veredictos é basilar, de modo que, ausente manifesta ilegalidade, não se pode retirar dos jurados a possibilidade de decidir o caso concreto, de acordo com as provas apresentadas pela acusação e pela defesa.
+À vista disso, não é possível, sob pena de usurpação da competência concedida aos jurados pelo texto constitucional, proceder a uma extensa valoração das provas para aferir se é ou não o caso de anular o julgamento em razão da ausência de elementos probatórios para sustentar a decisão.
+Acrescento que n ão cabe ao Superior Tribunal de Justiça reformar ou anular decisão das instâncias ordinárias que foi proferida sob a égide do devido processo legal.
+No caso concreto, os jurados escolheram uma das teses que possui amparo nos elementos de informação e provas, não cabendo a incursão pormenorizada nessa seara, sob pena de incorrer em revolvimento fático-probatório. (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Sobre o tema, "para af astar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Nesse sentido a jurisprudência desta Corte de Justiça:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. OFENSA À NORMA CON STITUCIONAL. INVIABILIDADE. OFENSA AO 155 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à ofensa ao art. 5º, LV, da Constituição Federal - CF, "tem-se que tal pleito não merece subsistir, uma vez que a via especial é imprópria para o conhecimento de ofensa a dispositivos constitucionais" (AgRg no AREsp 1072867/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/4/2018).
+2. Não há falar em violação do art. 155 do CPP, pois a prova utilizada para a condenação do agravante não deriva exclusivamente dos elementos colhidos na fase extrajudicial, mas também das provas que foram ratificadas em juízo sob o crivo do contraditório, como os depoimentos dos policiais envolvidos na ocorrência.
+3. Para rever a conclusão do Tribunal de origem acerca da existência de provas da autoria delitiva, para o fim de absolver o agravante, seria necessário o revolvimento fático-probatório, o que encontra óbice na Súmula n. 7 do STJ.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.266.469/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, a Corte de origem, após a análise acurada dos elementos probatórios, entendeu comprovada a autoria dos agentes e a materialidade do delito.
+2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.
+3. No que diz respeito ao crime continuado, vale salientar que, no caso dos crimes de roubo majorado e latrocínio, sequer é necessário avaliar o requisito subjetivo ou o lapso temporal entre os crimes, porquanto não há atendimento do requisito objetivo da pluralidade de crimes da mesma espécie.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. APLICABILIDADE DA SÚMULA N. 182 DO STJ. REVISÃO CRIMINAL. LATROCÍNIO TENTADO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. SÚMULA N. 7 DO STJ. REDUÇÃO DA PENA. CIRCUNSTÂNCIAS DO CRIME. JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não se conhece de agravo em recurso especial que deixa de atacar, especificamente, todos os fundamentos utilizados pelo Tribunal de origem para negar o processamento do apelo especial (art. 253, parágrafo único, I, do RISTJ).
+2. Na espécie, o agravante deixou de combater o fundamento da decisão agravada, daí a aplicação do enunciado sumular n. 182 desta Corte Superior.
+3. Para afastar a conclusão do acórdão recorrido e decidir pela absolvição do réu ou pela desclassificação da imputação, seria necessário o reexame do material probatório, a fim de averiguar, por exemplo, se o recorrente não agiu com animus necandi, quis participar de crime menos grave ou, mesmo, se assumiu o risco de produzir o resultado morte. Óbice da Súmula n. 7 do STJ.
+4. A exasperação da pena-base do réu está devidamente fundamentada.
+Jurisprudência do Superior Tribunal de Justiça.
+5.Agravo regimental não conhecido. (AgRg no AREsp n. 2.002.317/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 8/3/2022, DJe de 16/3/2022.) (Grifos acrescidos).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+EMENTA
