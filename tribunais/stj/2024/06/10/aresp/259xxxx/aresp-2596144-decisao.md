@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por MATHEUS KENZO FUNAKI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. DUPILUMABE. TRATAMENTO DE DERMATITE ATÓPICA GRAVE. INEFICÁCIA DA POLÍTICA PÚBLICA. NÃO COMPROVADA. CONCESSÃO JUDICIAL DO TRATAMENTO. IMPOSSIBILIDADE (fl. 271).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 2º da lei n. 8.080/90 e do art. 10 do Protocolo de San Salvador, no que concerne à necessidade de se disponibilizar à parte recorrente tratamento médico a ser custeado pelo Estado, em razão do preenchimento dos requisitos estabelecidos para o fornecimento de medicamentos de alto custo, trazendo a seguinte argumentação:
+O não reconhecimento do pleito do Recorrente, mais que negar um direito, representa uma negativa à sua garantia da saúde e da dignidade do menor ora recorrente, pois do fármaco objeto da presente ação depende para manter sua qualidade de vida.
+O tratamento proposto pelo SUS, trata-se apenas de tratamento que não alcança o resultado do qual necessita o Recorrente e, principalmente, não é capaz de evitar a complicação decorrente da doença.
+No entanto, o medicamento objeto da ação é superior e mais benéfico para o tratamento da doença, sendo o único meio de tratamento disponível para o caso em tela.
+A 1ª Seção desse colendo Superior Tribunal de Justiça, ao julgar o REsp 1.657.156 relatado pelo ministro Benedito Gonçalves que, pela sistemática dos Recursos Repetitivos se transformou no TEMA 106, admitiu que o Estado deve fornecer medicamentos ditos de alto custo, desde que respeitados 03 (três) requisitos, quais sejam:
+Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da molés2a, dos fármacos fornecidos pelo SUS;
+Da análise do laudo médico juntado aos autos da Ação Ordinária, observa- se que a médica assistente conclui e prescreve ao ora Recorrente o medicamento pleiteado como o único medicamento disponível para enfrentar o caso clínico específico do seu paciente, ora Recorrente.
+ ..
+b) Incapacidade financeira do paciente de arcar com o custo do medicamento prescrito;
+A incapacidade financeira foi reconhecida na origem (Ação Ordinária), sendo desnecessários maiores debates sobre a incapacidade financeira de arcar com o custo do tratamento reconhecida pelo r. juízo a quo.
+Aliás, o colendo Supremo Tribunal Federal já definiu pela sistemá1ca dos Recursos Repe11vos nos termos do Tema 6, que é "Dever do Estado de fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras para comprá-lo." c) Existência de registro do medicamento na Agência Nacional de Vigilância Sanitária (Anvisa).
+O medicamento possui Registro na ANVISA!
+Portanto, desnecessários maiores debates também sobre esse requisito.
+ ..
+Outrossim, como é de se observar, foi negada para o Recorrente a vigência do art. 2º e seus §§ da Lei nº 8.080/90, que estabelece o direito constitucional do cidadão ter seu necessário tratamento médico custeado pelo Estado, tal qual necessita o ora Recorrente.
+Por fim, o direito fundamental à saúde que lhe assiste decorre de normas e princípios supraconstitucionais, destacando-se o art. 10 do Protocolo de San Salvador, depositado pelo Brasil nos termos do Decreto 3.321/99, motivos pelos quais o v. Acórdão merece reforma a fim de resguardar o direito à saúde do Recorrente para que lhe seja fornecido o medicamento conforme posologia indicada no receituário médico (fls. 288- 291).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+O laudo pericial médico acostado aos autos é desfavorável ao fornecimento da medicação pleiteada, haja vista que a paciente não esgotou os tratamentos disponíveis no SUS (no caso, ciclosporina). Ademais, refere que não há comprovação de que DUPILUMABE seja mais eficaz que os tratamentos disponibilizados no SUS - ciclosporina (evento 16, LAUDOPERIC1).
+ ..
+Outrossim, não há direito à obtenção judicial de tratamento de escolha. Para que se imponha um ônus ao SUS de um tratamento de alto custo, como o requerido, é necessária a demonstração cabal da imprescindibilidade, o que não ocorre no caso dos autos, onde há outros imunossupressores disponíveis no SUS, mais econômicos e igualmente eficazes, como a ciclosporina.
+O laudo técnico esclarece que não há estudos de alta evidência que demonstrem que haja maiores riscos com a submissão da parte autora ao tratamento oficial, em detrimento daquele postulado judicialmente.
+Diante desse quadro, os documentos que instruem a ação, sobretudo os laudos periciais médicos, não fornecem informações suficientes acerca da necessidade e da adequação do medicamento postulado, pelo contrário, falecendo de fundamentos o receio da ausência do tratamento requerido e a própria verossimilhança do direito alegado.
+Dessa forma, reafirmo que não está demonstrada a ausência de resposta por parte do Poder Público, circunstância essencial à dispensação do medicamento demandado pela via judicial (fls. 268- 269).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
