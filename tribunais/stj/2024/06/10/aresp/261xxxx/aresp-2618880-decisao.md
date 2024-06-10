@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo interposto por LUCIA DIAS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise do recurso de LUCIA DIAS, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista pedido de gratuidade de justiça ou diferimento de custas.
+Quanto ao pedido de diferimento, acrescente-se que as custas devidas ao Superior Tribunal de Justiça têm natureza jurídica de taxa federal, instituída pela Lei n. 11.636/2007. Todavia , entender que a legislação ou ato judicial local pudesse postergar o pagamento de uma taxa instituída por lei federal seria aceitara possibilidade de instituir uma isenção heterônoma temporária, prática vedada pela Constituição da República (art. 151, III). Nesse sentido, o AgInt nos EDcl no AREsp 1456819/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 6/5/2020, e o AgInt no AREsp1487005/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de19/2/2020.
+No caso, o Tribunal de origem intimou a parte recorrente para comprovar a necessidade do benefício ou recolher as custas, nos termos do despacho de fls. 73.
+Não comprovado o preenchimento dos requisitos necessários à concessão da gratuidade, o tribunal a quo indeferiu o pedido, determinando que a parte recolhesse as custas, nos termos da decisão de fls. 95. No entanto, a parte quedou-se inerte.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
