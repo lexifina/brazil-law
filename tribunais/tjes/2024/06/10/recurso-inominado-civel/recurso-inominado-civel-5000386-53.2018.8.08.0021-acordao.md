@@ -1,0 +1,85 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000386-53.2018.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ARMAND GUADAGNINO JUNIOR
+RECORRIDO: CONDOMINIO DO EDIFICIO MARIA PAULA
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5000386-53.2018.8.08.0021
+Recorrente: ARMAND GUADAGNINO JÚNIOR
+
+Recorrido: CONDOMÍNIO DO EDIFÍCIO MARIA PAULA
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte recorrente, ora requerido.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE COBRANÇA DE CONDOMÍNIO. (1). DA LIDE.
+O REQUERENTE, NA EXORDIAL, ALEGA QUE O REQUERIDO É RESPONSÁVEL PELA OBRIGAÇÃO DE PAGAMENTO DAS DESPESAS CONDOMINIAIS RELATIVAS UNIDADE RESIDENCIAL DE Nº. 706 INTEGRANTE DO EDIFÍCIO MARIA PAULA, REFERENTE AO PERÍODO DE OUTUBRO/2016 A FEVEREIRO/2021 NO VALOR DE R$ 18.599,54 INCLUINDO JUROS DE MORA, MULTA E HONORÁRIOS ADVOCATÍCIOS.
+(2). DECRETADA A REVELIA DA PARTE DEMANDADA. (3). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto, julgo
+PARCIALMENTE PROCEDENTE
+o pedido para condenar o requerido ao pagamento em favor do Condomínio requerente da quantia de R$ 15.499,62 (quinze mil quatrocentos e noventa e nove reais e sessenta e dois centavos), devidamente atualizada e acrescida de juros de 1% ao mês desde a data dos últimos cálculos apresentados, qual seja, 10/02/2021 –ID. 6121112 - Pág. 1. Em consequência, declaro extinto o processo, com resolução de mérito, na forma do art. 487, I, do CPC. Deixo de condenar em custas e honorários advocatícios, visto que incabíveis nesta fase do procedimento (art. 55 da Lei 9.099/95).”
+(4). RECURSO DA PARTE REQUERIDA.
+PRELIMINARMENTE, PUGNA PELO PROVIMENTO DO RECURSO INTERPOSTO, NO SENTIDO DE QUE SEJA DECRETADA A NULIDADE DA SENTENÇA COM FULCRO NO ARTIGO 5º, LV DA CONSTITUIÇÃO FEDERAL, COM RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA DESIGNAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO, PELOS MOTIVOS VENTILADOS NAS RAZÕES RECURSAIS.
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, O IMPROVIMENTO DO RECURSO MANEJADO PELO REQUERIDO.
+(6). DA QUESTÃO PROCESSUAL.
+INFERE-SE DOS AUTOS QUE A MAGISTRADA, AO PROFERIR A SENTENÇA ORA IMPUGNADA, APLICANDO OS EFEITOS DA REVELIA AO CASO, JULGOU PARCIALMENTE PROCEDENTE O PEDIDO AUTORAL. O RECORRENTE, POR SUA VEZ, SE LIMITA A REQUERER A NULIDADE DA SENTENÇA SOB A ALEGAÇÃO DE QUE A SUA INTIMAÇÃO PARA A AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO REALIZADA NO DIA 09/03/2021, DEVERIA TER SIDO REALIZADA PESSOALMENTE POR CARTA PRECATÓRIA, UMA VEZ QUE RESIDE NO ESTADO DO RIO DE JANEIRO. POIS BEM, SOBRE O PONTO, É PRECISO DIZER QUE HÁ CERCEAMENTO QUANDO A PARTE TEM SEU DIREITO DE DEFESA LIMITADO, O QUE NÃO OCORREU NO PRESENTE CASO. COM EFEITO, OBSERVA-SE QUE O RÉU FOI DEVIDAMENTE INTIMADO DO ATO JUDICIAL EM COMENTO (AIJ), CONFORME CERTIDÃO COLIGIDA EM ID. 7588257. E MAIS, VERIFICO NOS AUTOS QUE O REQUERIDO VINHA SENDO INTIMADO DE ALGUNS ATOS PROCESSUAIS VIA TELEFONE, CONFORME, POR EXEMPLO, A CERTIDÃO ACOSTADA EM ID. 7588246, FATO ESTE CONFIRMADO PELO PRÓPRIO REQUERIDO, CONSOANTE MANIFESTAÇÃO ENVIADA POR E-MAIL À SERVENTIA JUDICIAL EM 10/10/2020 (ID. 7588254). ADEMAIS,
+NOS TERMOS DO ARTIGO 13, § 2º, E ART. 18, INCISO III, DA LEI N. 9.099/95,
+A PRÁTICA DE ATOS PROCESSUAIS EM OUTRAS COMARCAS PODERÁ SER SOLICITADA POR QUALQUER MEIO IDÔNEO DE COMUNICAÇÃO
+E, SENDO NECESSÁRIO, POR OFICIAL DE JUSTIÇA,
+INDEPENDENTEMENTE
+DE MANDADO OU
+CARTA PRECATÓRIA
+.
+POR TAIS MOTIVOS, REJEITA-SE A DESTACADA PRELIMINAR DE NULIDADE DA SENTENÇA BASEADA EM SUPOSTA NECESSIDADE DE REMESSA DOS AUTOS AO JUÍZO DE ORIGEM PARA DESIGNAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO.
+(7).
+CONHEÇO DO RECURSO
+INTERPOSTO E
+NEGO-LHE PROVIMENTO
+, MANTENDO A SENTENÇA INTOCADA, POR SEUS PRÓPRIOS FUNDAMENTOS. CONDENO A RECORRENTE AO PAGAMENTO DE CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, QUE FIXO EM 20% SOBRE O VALOR DA CONDENAÇÃO, NA FORMA DO ART. 55 DA LEI 9.099/95.
+TODAVIA, SUSPENDO A EXIGIBILIDADE, EIS QUE A PARTE RECORRENTE SE ENCONTRA AMPARADA PELOS BENEFÍCIOS DA JUSTIÇA GRATUITA.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
