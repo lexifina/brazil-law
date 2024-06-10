@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JUSSARA MARQUES ROCHA PEREIRA contra o v. acórdão assim ementado (e-STJ, fl. 432):
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL E TEMPESTIVIDADE DO RECURSO. INCIDÊNCIA DO CPC DE 2015. DEVER DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO DESPROVIDO.
+1. A Corte Especial, ao interpretar os artigos 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Código, por maioria, vencido o voto do relator, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", sendo inviável a apresentação de documento hábil, em momento posterior, para demonstrar a tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017).
+2. Posteriormente, no julgamento de caso em que se examinava a possibilidade de mitigação do entendimento acima apenas para o feriado da segunda-feira de carnaval, por ter este abrangência nacional, a Corte Especial, também por maioria, vencido o voto do relator, deliberou que a orientação de comprovação de feriado local no momento da interposição do recurso especial deveria persistir inclusive para a segunda-feira de carnaval, igualmente ao estabelecido para os feriados e suspensões de expedientes locais em geral. Apenas em relação à segunda-feira de carnaval, erigiu modulação de efeitos do julgado, permitindo a comprovaçãoa posteriori, "quando se tratar de recursos interpostos no período entre a vigência do CPC de 2015 e a data da publicação do acórdão prolatado no mencionado recurso especial" (REsp 1.813.684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe de 18/11/2019). Tal orientação foi confirmada na Questão de Ordem apresentada, subsequentemente, pela Ministra NANCY ANDRIGHI naquele REsp 1.813.684/SP e, na sequência, no julgamento do AgInt no AREsp 1.481.810/SP (Rel. p/ acórdão Ministra NANCY ANDRIGHI), não se estendendo a modulação sequer ao feriado de Corpus Christi.
+3. No caso, aplica-se a regra de inviabilidade de comprovação posterior do feriado local, nos termos do decidido no AgInt no AREsp 957.821/MS.
+4. Agravo interno desprovido."
+Nas razões dos aclaratórios, a parte embargante sustenta que o acórdão proferido pela Quarta Turma foi omisso e contraditório, aduzindo a existência de certidão do Tribunal a quo atestando a tempestividade do recurso especial (e-STJ, fls. 443-449).
+Não foi apresentada impugnação (e-STJ, fl. 454).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a parte embargante aponta obscuridade no acórdão proferido por esta Quarta Turma, por entender que não incide a Súmula 7/STJ e que há evidência da predeterminação fraudulenta.
+Com efeito, no julgamento do agravo interno, ficou assentado que:
+"Conforme delineado na decisão da Presidência, a certidão de publicação do Tribunal de Justiça do Estado do Piauí, de fl. 350, atesta como data da expedição de intimação eletrônica o dia 28/9/2021 e realizada a consulta no dia 8/10/2021, considerando-se efetivamente intimada no dia 11/10/2021, sendo o recurso somente interposto em 04/11/2021, quando decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos artigos 219, caput, 994, VI, e 1.003, § 5º, do CPC/2015, que se encerrou no dia 3/11/2021.
+Tal prazo, contudo, não foi observado pela parte ora recorrente, a qual, inclusive, deixou de comprovar, no momento da interposição do recurso, por meio de documento idôneo, a existência de suspensão do expediente forense, nos termos exigidos pelo art. 1.003, § 6º, do CPC de 2015.
+Compulsando os autos, constata-se que a certidão de publicação do Tribunal de Justiça do Estado do Piauí, de fl. 350, atesta como data da expedição de intimação eletrônica o dia 28/9/2021 e realizada a consulta no dia 8/10/2021, considerando-se efetivamente intimada no dia 11/10/2021, com termo final para a interposição do recurso especial em 3/11/2021, sendo o recurso especial interposto somente no dia 04/11/2021."
+Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir tema devidamente apreciado, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do CPC/2015. Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeito os embargos de declaração .
+É como voto.
