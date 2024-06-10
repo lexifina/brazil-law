@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ANPP. P RECLUSÃO. RECEBIMENTO DA DENÚNCIA E PROLAÇÃO DE SENTENÇA. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias.
+2. In casu, já há, inclusive sentença condenatória prolatada, não se podendo cogitar da aplicação do art. 28-A do CPP, em face também de preclusão. Assim, não há que se falar em nulidade ou necessidade de devolução dos autos ao Ministério Público para oportunizar a propositura das benesses suscitadas.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ABGAIR APARECIDO DA SILVA, contra decisão monocrática que não conheceu do habeas corpus.
+Em razões, a agravante apenas reitera os argumentos trazidos no habeas corpus, destacando que houve pedido expresso da defesa técnica em sede alegações finais pela aplicação do ANPP, primeiro momento juridicamente possível para aplicação do instituto, diante do pedido de absolvição pelo Parquet do delito que extrapolava a quantidade mínima de pena.
+Requer, assim, pelo provimento do recurso a fim de que seja concedida a ordem nos termos do writ impetrado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ANPP. P RECLUSÃO. RECEBIMENTO DA DENÚNCIA E PROLAÇÃO DE SENTENÇA. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias.
+2. In casu, já há, inclusive sentença condenatória prolatada, não se podendo cogitar da aplicação do art. 28-A do CPP, em face também de preclusão. Assim, não há que se falar em nulidade ou necessidade de devolução dos autos ao Ministério Público para oportunizar a propositura das benesses suscitadas.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Como afirmei quando do julgamento monocrático, esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Tribunal a quo assim se pronunciou acerca do tema:
+" A tese já foi suficientemente apreciada pela Sentença (fls.2340/2341),tratando-se de mera repetição, bastando acrescentar que o acordo de não persecução penal não é direito subjetivo do Réu, mas proposta facultativa a ser feita pelo Ministério Público quando preenchidos os requisitos, aqui obstada "considerando a imputação inicial e a evidente habitualidade criminosa que se vislumbrava naquela fase" (fls.2418), com acerto reconhecido pelo Superior Tribunal de Justiça (RHC nº 161.251-PR, rel. Min. Ribeiro Dantas, 5ª T., j. em 10.05.2022):
+ ..
+Além disso, não há que se falar na aplicação do dispositivo após a fase administrativa, com regular instrução criminal e prolatação de Sentença, como já decidiram:1. o Superior Tribunal de Justiça (AgRg no HabeasCorpus nº 628.647-SC, rel. Min. Néfi Cordeiro, red. p/Acórdão Min. Laurita Vaz, 6ª T., j. em 09.03.2021)" (e-STJ, fls. 143-145)
+No que concerne ao ANPP, por sua vez, a teor do art. 28-A do Código de Processo Penal, não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante condições ajustadas cumulativa e alternativamente.
+Pela leitura do recorte acima, verifica-se que o entendimento externado pela Corte estadual está em harmonia com a jurisprudência desta Corte Superior.
+De fato, o Supremo Tribunal Federal no julgamento do HC n. 191.464/SC, de relatoria do Ministro ROBERTO BARROSO (DJe 18/9/2020) - que invocou os precedentes do HC n. 186.289/RS, Relatora Ministra CARMEN LÚCIA (DJe 1º/6/2020), e do ARE n. 1.171.894/RS, Relator Ministro MARCO AURÉLIO (DJe 21/2/2020) -, externou a impossibilidade de se fazer incidir o ANPP quando já existente condenação, conquanto ela ainda esteja suscetível de impugnação.
+Nesse sentido, o Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias. Precedentes: AgRg no REsp n. 2.011.688/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 24/4/2023, DJe de 2/5/2023; AgRg no REsp n. 2.001.522/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023; AgRg no HC n. 797.322/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; AgRg no REsp n. 2.050.499/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 24/4/2023, DJe de 27/4/202; AgRg no RHC n. 167.973/MS, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023; AgRg no REsp n. 2.001.036/GO, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 24/4/2023, DJe de 26/4/2023; e AgRg no REsp n. 2.015.032/SC, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+In casu, já há inclusive sentença condenatória prolatada, não se podendo falar na aplicação do art. 28-A do CPP, em face também de preclusão.
+Assim, não há que se falar em nulidade ou necessidade de devolução dos autos ao Ministério Público para oportunizar a propositura das benesses suscitadas.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
