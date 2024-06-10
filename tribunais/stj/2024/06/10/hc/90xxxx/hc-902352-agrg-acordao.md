@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. TEMA REPETITIVO N. 1.161 DO STJ. FALTA DISCIPLINAR GRAVE RECENTE. REEXAME PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência desta Corte Superior, "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal". Tema repetitivo n. 1.161 do STJ.
+2. Caso concreto em que o Tribunal de origem, ante o cometimento de falta disciplinar grave recente, em que pese reabilitada, decidiu que não há como se concluir, com a certeza que o caso exige, que esteja o agravante engajado com a terapêutica penal, próximo da ressocialização.
+3. Impossível a alteração das premissas fáticas delineadas pelas instâncias de origem, pois que ensejam o reexame do conteúdo probatório dos autos, inadmissível em habeas corpus.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Ministra Presidente do STJ de fls. 60-65, que indeferiu liminarmente o habeas corpus.
+Sustenta a defesa que, "embora o reeducando registre uma UNICA infração disciplinar grave, é certo que tal circunstância não pressupõe, por si só, a falta de mérito para a obtenção do benefício, mormente porque se trata de infração ocorrida há mais de um ano (31 de outubro de 2022), o reeducando dela já está reabilitado há muito tempo e, desde então, não há notícia de novo comportamento faltoso, dando conta o boletim informativo e diversas condutas positivas na unidade prisional, o que levou a diretoria do estabelecimento prisional a atestar como bom o comportamento carcerário, e ainda passou por exame criminológico e foi aprovado" (fl. 71).
+Afirma que, no presente caso, o agravante assimilou a terapêutica penal aplicada, devendo ser sopesado o decurso considerável de tempo a se concluir pela reabilitação do apenado, mencionando jurisprudência a respeito.
+Também defende que o STJ tem repudiado a utilização de infrações disciplinares antigas como óbice à concessão do benefício quando a conduta carcerária do sentenciado, de um modo geral, reflete a presença de senso de disciplina e engajamento no processo de ressocialização.
+Expõe outras considerações quanto à quantidade de pena ainda por cumprir, bem como quanto aos requisitos da concessão do livramento condicional.
+Requer a reconsideração da decisão ou o conhecimento e provimento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. TEMA REPETITIVO N. 1.161 DO STJ. FALTA DISCIPLINAR GRAVE RECENTE. REEXAME PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência desta Corte Superior, "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal". Tema repetitivo n. 1.161 do STJ.
+2. Caso concreto em que o Tribunal de origem, ante o cometimento de falta disciplinar grave recente, em que pese reabilitada, decidiu que não há como se concluir, com a certeza que o caso exige, que esteja o agravante engajado com a terapêutica penal, próximo da ressocialização.
+3. Impossível a alteração das premissas fáticas delineadas pelas instâncias de origem, pois que ensejam o reexame do conteúdo probatório dos autos, inadmissível em habeas corpus.
+4. Agravo regimental improvido.
+VOTO
+Conforme relatado, busca o recorrente a reconsideração da decisão que denegou o habeas corpus.
+A decisão agravada, no que importa ao caso, está assim fundamentada (fls. 62-65):
+Ocorre que, na espécie, o entendimento adotado na origem de que a prática de infrações disciplinares graves ou de novos crimes durante a execução da pena demonstra a ausência do requisito subjetivo para concessão do livramento condicional, embora não interrompa o prazo para obtenção do benefício, encontra-se em harmonia com a orientação desta Corte.
+Nesse sentido, podem ser citados os seguintes julgados: AgRg no HC n. 813.574/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2023; AgRg no HC n. 763.755/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 10/3/2023.); AgRg no HC n. 778.699/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 15/6/2023; AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022; AgRg no HC n. 788.010/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2022.
+Ademais, a modificação as premissas fáticas delineadas pelas instâncias de origem ensejam o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Além disso, segundo entendimento firmado pela Terceira Seção no julgamento do Tema Repetitivo n. 1.161, o requisito objetivo previsto no art. 83, III, b, do Código Penal, na redação dada pela Lei n. 13.964/2019, não limita a análise do requisito subjetivo relativo ao bom comportamento durante a execução da pena ao período de 12 meses de referido dispositivo legal, devendo ser considerado para tal fim todo o histórico prisional, inclusive quanto aos fatos anteriores à vigência do Pacote Anticrime, conforme se extrai do seguinte julgado:
+ ..
+Por outro lado, ainda que haja atestado de boa conduta carcerária é possível que juízo da execução faça a análise do preenchimento do requisito subjetivo para concessão dos benefícios executórios a partir da apreciação de outros elementos do caso concreto e levando em consideração os eventos ocorridos ao longo da execução penal.
+ ..
+Nessa linha, a decisão de origem está em conformidade com a orientação do STJ.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Não obstante a irresignação da defesa, verifica-se que o entendimento adotado reflete a atual jurisprudência do Superior Tribunal de Justiça, inclusive firmada no Tema repetitivo n. 1.161, posto no sentido de que "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal". Veja-se a ementa:
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.
+1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ.
+2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso).
+3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+4. No caso concreto, o recorrido não preenche os requisitos para a obtenção do livramento condicional, diante da prática de falta grave, considerada pelo juízo da execução como demonstrativa de irresponsabilidade e indisciplina no cumprimento de pena.
+5. Recurso especial provido. (REsp n. 1.970.217/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023.)
+O fundamento acima, por si só, já é suficiente para afastar o almejado benefício do livramento condicional.
+Ademais, não há se falar em decurso considerável de tempo ou de infração disciplinar antiga, como aduz a defesa, parecendo ser mais razoável em face da falta disciplinar grave cometida em 1º/11/2022, que prevaleça o entendimento do Tribunal de origem a respeito da existência de falta disciplinar grave recente, nos seguintes termos (fl. 56):
+É certo, ademais, que a gravidade dos crimes praticados e a longa pena a cumprir não se impõem como condicionantes idôneas a obstar o livramento condicional. Entretanto, somadas tais circunstâncias ao cometimento de falta disciplinar grave recente, em que pese reabilitada, não há como se concluir, com a certeza que o caso exige, esteja o agravante engajado com a terapêutica penal, próximo da ressocialização.
+Desse modo, cabível se faz ratificar a decisão ora agravada no sentido da impossibilidade de alteração das premissas fáticas delineadas pelas instâncias de origem, pois que ensejam o reexame do conteúdo probatório dos autos, inadmissível em habeas corpus.
+Por esta razão, deve a decisão ser mantida por seus próprios fundamentos, pois em total consonância com a jurisprudência do STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
