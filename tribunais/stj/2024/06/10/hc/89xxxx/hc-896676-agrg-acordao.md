@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRETENSÃO DE VISITA PERIÓDICA AO LAR. UTILIZAÇÃO SIMULTÂNEA DE HABEAS CORPUS E DE AGRAVO EM EXECUÇÃO. IMPOSSIBILIDADE. SUBVERSÃO DO SISTEMA RECURSAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. JURISPRUDÊNCIA DO STJ.
+1. Conforme mencionado pela Presidência, no decisum monocrático recorrido, inviável a tramitação simultânea de habeas corpus e de agravo em execução, por revelar manifesta subversão do sistema recursal, com violação do princípio da unirrecorribilidade, razão pela qual não deve o writ ser admitido, fic ando reservado, ao recurso previsto para a hipótese, o exame da questão idêntica.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão da Ministra Presidente do STJ de fls. 158-160, que indeferiu liminarmente o habeas corpus.
+Aduz que o recurso de agravo em execução foi protocolado junto ao Juízo da Vara de Execuções Penais do Estado do Rio de Janeiro em 16/10/2023 e só foram encaminhados ao Tribunal de Justiça em 18/3/2024, sendo certo que, até o julgamento pelo órgão colegiado, levarão, no mínimo, mais uns 3 meses.
+Já o habeas corpus foi protocolado em 8/11/2023, tendo sido julgado em janeiro de 2024, razão pela qual sustenta a defesa que não há se falar em interposição simultânea, havendo, pois, manifesta violação do princípio da duração razoável do processo.
+Afirma que teratologia da decisão consiste no fato de o paciente ostentar os requisitos objetivos e subjetivos para a concessão da benesse, que foi negada sem fundamentos escorados na lei, razão pela qual demonstra "que os fundamentos invocados para o não conhecimento do writ não se prestam a afastar do colegiado os fundamentos trazidos pela defesa, que demonstrou à farta razões para o conhecimento do pleito" (fl. 167).
+Requer a reconsideração da decisão ou o conhecimento e provimento pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRETENSÃO DE VISITA PERIÓDICA AO LAR. UTILIZAÇÃO SIMULTÂNEA DE HABEAS CORPUS E DE AGRAVO EM EXECUÇÃO. IMPOSSIBILIDADE. SUBVERSÃO DO SISTEMA RECURSAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. JURISPRUDÊNCIA DO STJ.
+1. Conforme mencionado pela Presidência, no decisum monocrático recorrido, inviável a tramitação simultânea de habeas corpus e de agravo em execução, por revelar manifesta subversão do sistema recursal, com violação do princípio da unirrecorribilidade, razão pela qual não deve o writ ser admitido, fic ando reservado, ao recurso previsto para a hipótese, o exame da questão idêntica.
+2. Agravo regimental improvido.
+VOTO
+Conforme relatado, busca a defesa a reforma da decisão da Ministra Presidente do STJ que indeferiu liminarmente o habeas corpus.
+No presente caso, verifica-se que a parte buscou, perante o Tribunal de origem, que lhe fosse deferido o pedido de visita periódica ao lar, tendo o writ não sido conhecido.
+A decisão ora agravada, no que importa ao caso, está assim fundamentada (fls. 159-160):
+Segundo entendimento firmado pela Terceira Seção do STJ no julgamento do HC n. 482.549/SP, havendo a simultânea interposição de recurso próprio e impetração de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do agravo em execução que está pendente de análise na origem, salvo se o writ impetrado no tribunal a quo fosse destinado à tutela direta e imediata da liberdade de locomoção, o que não é o caso dos autos (Relator ministro Rogerio Schietti Cruz, DJe 3/4/2020).
+Ainda nesse sentido: AgRg nos EDcl nos EDcl no HC n. 580.806/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/8/2020; AgRg no HC n. 801.494/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17/8/2023; AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 809.199/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/4/2023.
+Na espécie, conforme afirmou o tribunal de origem (fls. 97-98) tramitavam simultaneamente recurso de agravo em execução e habeas corpus com o mesmo objeto, em clara ofensa ao princípio da unirrecorribilidade.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Não obstante as razões regimentais apresentadas em que se alega possível excesso de prazo de 3 meses entre os julgamentos do habeas corpus e do agravo em execução, deve-se prevalecer a orientação firmada no STJ.
+Com efeito, assente neste Tribunal que se mostra inviável a tramitação simultânea de habeas corpus e de agravo em execução, por revelar manifesta subversão do sistema recursal, com violação do princípio da unirrecorribilidade, razão pela qual não deve o writ ser admitido, ficando reservado, ao recurso previsto para a hipótese, o exame da questão idêntica.
+A Terceira Seção sedimentou a compreensão de que:
+A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses , o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual (HC n. 482.549/SP, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 3/4/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
