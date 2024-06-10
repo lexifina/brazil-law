@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por HSBC Bank Brasil S/A - Banco Múltiplo contra a decisão da Presidência desta Corte Superior que negou seguimento ao agravo em razão da intempestividade do recurso especial.
+O agravante afirma que o re curso especial foi interposto dentro do prazo legal, pois, "Tendo em vista que o início da contagem do prazo se dá no primeiro dia útil subsequente à intimação (art. 184, §2º do CPC), o prazo começou a fluir em 19.01.15 (segunda-feira), após o término da suspensão dos prazos processuais no período de 20.12.2014 a 16.01.2015, nos termos da Lei 11.419/2006 e resolução n. 007/2007-PR, conforme demostrado pelo ora Agravante, através do documento de fls. 991/992" (e-STJ, fl. 1181).
+Reforça que "os prazos processuais estavam suspensos no Tribunal de Justiça de Rondônia, no período compreendido entre os dias 24.12 a 06.01, em razão do recesso forense de final de ano quando se comemoram o Natal e a entrada do Ano Novo. LOGO, O FERIADO LOCAL RESTOU DEVIDAMENTE COMPROVADO PELO ORA AGRAVANTE, AO CONTRÁRIO DO QUE RESTOU DECIDIDO N R. DECISÃO ORA RECORRIDA" (e-STJ, fl. 1182).
+Brevemente relatado, decido.
+Tem razão o agravante em relação à tempestividade do recurso especial.
+Com efeito, "Nos termos da jurisprudência desta Corte, permanece hígido o entendimento de que, na vigência do Código de Processo Civil de 1973, é possível a comprovação de feriados ou de recesso forense no âmbito dos Tribunais locais em agravo regimental, desde que por documento hábil para tal ato" (AgInt no REsp 1.723.963/SP, Relator o Ministro Francisco Falcão, DJe de 8/9/2023).
+No caso, houve comprovação do feriado local (recesso forense), conforme se verificam dos documentos juntados às fls. 991-992 e 1188 (e-STJ), os quais demonstram a tempestividade do recurso especial interposto pelo HSBC, impondo-se, assim, a reforma da decisão agravada.
+Deixo, contudo, de prosseguir na análise do agravo em recurso especial neste decisum, em virtude da necessidade de se obter informação da parte recorrente acerca de seu interesse no julgamento do feito, considerando não só o tempo transcorrido desde a interposição do recurso especial (2015), como pelo fato de que esta Corte Superior e o próprio Supremo Tribunal Federal já apreciaram diversos recursos envolvendo os expurgos inflacionários.
+Ante o exposto, dou provimento ao agravo regimental para tornar sem efeito a decisão agravada.
+Publique-se.
+Após a publicação desta decisão, intime-se o agravante para que, no prazo de 5 (cinco) dias, informe se ainda persiste o interesse no julgamento de mérito deste recurso, sob pena de não conhecimento.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO POSTERIOR DE FERIADO LOCAL. POSSIBILIDADE NA VIGÊNCIA DO CPC/1973. DECISÃO AGRAVADA TORNADA SEM EFEITO. AGRAVO PROVIDO.
