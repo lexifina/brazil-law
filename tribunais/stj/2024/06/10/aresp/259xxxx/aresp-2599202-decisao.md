@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por GERALDO JOSÉ DO AMARAL GENTILE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA. 1. INDEFERIMENTO DA PRODUÇÃO DE PROVA PERICIAL NA FASE DE CONHECIMENTO. MATÉRIA QUE NÃO SE ENQUADRA NAS HIPÓTESES LEGAIS DO ARTIGO 1.015, DO CPC. MITIGAÇÃO DA TAXATIVIDADE (RECURSOS ESPECIAIS nº 1.696.396/MT e nº 1.704.520/MT). INAPLICABILIDADE. RECURSO NÃO CONHECIDO NESTA PARTE. 2. INVERSÃO DO ÔNUS DA PROVA COM BASE NA MEDIDA PROVISÓRIA 2.172 /2001. NÃO CABIMENTO. INEXISTÊNCIA DE INDÍCIOS SOBRE A PRÁTICA DE AGIOTAGEM.
+1. Não estando a decisão agravada dentro das hipóteses descritas no artigo 1.015 do Código de Processo Civil, nem se amoldando o caso à excepcionalidade de mitigação dessa taxatividade, nos termos da tese firmada pelo STJ no REsp 1696396/MT, não é possível conhecer do agravo de instrumento.
+2. Não havendo indícios suficientes da prática de agiotagem, nos termos da Medida Provisória n. 2.172-32, resta vedada a inversão do ônus da prova.
+Agravo de Instrumento parcialmente conhecido e não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 3º da Medida Provisória nº 2.172-32/2001, no que concerne à necessidade de inversão do ônus da prova, tendo em vista à ocorrência de verossimilhança da alegação de agiotagem, trazendo a seguinte argumentação:
+O Acordão guerreado fundamentou o decisum pela inexistência de verossimilhança das alegações de agiotagem baseando-se exclusivamente em análise dos documentos anexados pelo embargante na inicial.
+Deixou de analisar, contudo, as demais circunstâncias do caso como prevê o citado art. 3º da MP 2172-32, entre as quais citamos:
+ ..
+Não se trata aqui, de reexame de provas, afastado pelo enunciado primevo da Súmula 07 do STJ mas de nova valoração dos fatos processuais acima narrados quanto à verossimilhança da prática de agiotagem.
+Com efeito, sob qualquer ótica, são fortíssimos indícios de agiotagem a confissão do Recorrido de que cobrava juros do Recorrente e que estes juros eram incorporados ao capital inicial com emissão de cheques novos em substituição aos antigos com acréscimos de R$ 5.000,00 a R$ 8.000,00 e que estes juros cobrados fizeram com que uma dívida de R$ 40.000,00 em 2015 crescesse para R$ 147.000,00 em 2018.
+Em 03 (três) anos, ou seja, em 36 meses, a dívida saltou de R$ 40.000,00 (quarenta mil reais) para R$ 147.000,00 (CENTO E QUARENTA E SETE MIL REAIS), um monstruoso acréscimo de 367% (trezentos e sessenta e sete por cento).
+Simples cálculo matemático demonstra que se uma dívida cresce 367% em 36 meses, indica a aplicação de juros de 10,19% mensais (367/36=10,19).
+A cobrança de juros onzenários de 10,19% mensais restou comprovada no feito, valendo ressaltar que o Recorrido não demonstrou como se deu a evolução estupenda de seu crédito à taxa superior a 10% mensais.
+Vale salientar que a legislação pátria exige, para a inversão do ônus da prova, a verossimilhança da alegação de agiotagem e não a certeza absoluta da prática de agiotagem, pois se assim não o fosse, o art. 3º da MP 2172-32 não determinaria que "incumbirá ao credor ou beneficiário do negócio o ônus de provar a regularidade jurídica.." Se o Legislador mencionar que o ônus se deslocará para a figura do Credor evidencia-se que não existe na hipótese legal o elemento de certeza da agiotagem, razão mesma para se exigir tão somente a verossimilhança da alegação de agiotagem, o que, sem qualquer dúvida, existe no feito.
+Da valoração dos fatos narrados, conclui-se que existem muitíssimos e fortes elementos que dão verossimilhança à agiotagem anunciada, ainda mais quando se leva em cotejo que não existiu qualquer outro negócio inter partes que não o empréstimo de dinheiro, conforme confessado pelo Recorrido.
+Isso posto, o pedido é pelo conhecimento e provimento do presente Recurso Especial, ante a violação do dispositivo legal mencionado art. 3º MP 2172-32), reformando-se o v. acórdão recorrido a fim de dar provimento ao recurso de Agravo de Instrumento, determinando-se a inversão do ônus probante, por ser medida de Direito e de Justiça!(fls. 54/57).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Nesta linha, tem-se que a inversão do ônus da prova não é automática. Condiciona-se à verificação da verossimilhança das alegações, mediante produção de prova pelo prejudicado.
+No caso, o embargante alega na petição inicial que o título que embasa a pretensão executiva tem seu nascimento oriundo da prática de agiotagem. Sustenta que, o embargado realizava empréstimos ao embargante de valores variados e de curto prazo e cobrando juros onzenários pelos empréstimos realizados que variaram entre 2,5% e 3,5% ao mês, sendo que o embargante emitia cheques para garantir os empréstimos.
+Pois bem. Não se vislumbra a verossimilhança das alegações do agravante/embargante.
+Isso porque, inexiste elementos nos autos de que houve a aplicação de juros acima do limite legal na formação da nota promissória.
+Cumpre observar que, em análise sumária, os documentos anexados pelo embargante na inicial (Ref. Mov. 1.4 a 1.6 - Autos originários) não são suficientes para comprovar a existência de cobrança abusiva de juros por parte do embargado.
+ ..
+Assim, não se vislumbra a verossimilhança nas alegações do embargante, o que in casu impede a inversão do ônus da prova, nos termos do artigo 3º, da Medida Provisória 2172-32.
+ ..
+Além disso, importante ressaltar que o Juízo indeferiu apenas a produção de prova a quo pericial, sendo determinada a realização de outras provas no feito pelas quais o recorrente poderá ainda provar suas alegações (fls. 30/32).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
