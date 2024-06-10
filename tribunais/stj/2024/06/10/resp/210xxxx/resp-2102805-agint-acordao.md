@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. SÚMULA 284/STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. O recurso especial encontra-se deficientemente fundamentado uma vez que não foi indicado expressamente qual dispositivo de lei federal teria sido contrariado pelo acórdão recorrido. Tal circunstância consubstancia deficiência na fundamentação recursal, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. Não é possível conhecer do recurso especial fundado no art. 105, III, c, da Constituição Federal, uma vez que a parte recorrente também não indicou qual seria o dispositivo de lei federal de interpretação controvertida. Incidência da Súmula 284/STF, por analogia.
+3. É dever da parte recorrente proceder ao cotejo analítico entre os acórdãos comparados, transcrevendo os trechos que configurem o dissídio jurisprudencial; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do art. 105, inciso III, da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARLOS ALBERTO SANTOS DO ESPIRITO SANTO contra a decisão da Presidência do Superior Tribunal de Justiça de fls. 423/424.
+A parte agravante alega que, "em que pese a não indicação de artigos violados, o caso em tela se trata de cerceamento de defesa" (fl. 433) e que, "embora não tenha a indicação do dispositivo legal, o Recurso Especial destes autos impugnou todos os fundamentos da decisão recorrida, demonstrando a violação ao direito supremo à produção de prova imprescindível para o julgamento da ação" (fls. 434/435).
+Defende que é dispensável " a indicação precisa e expressa dos artigos de lei violados quando as razões recursais são suficientes para demonstrar o cabimento do Recurso Especial" (fl. 434).
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 467).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. SÚMULA 284/STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. O recurso especial encontra-se deficientemente fundamentado uma vez que não foi indicado expressamente qual dispositivo de lei federal teria sido contrariado pelo acórdão recorrido. Tal circunstância consubstancia deficiência na fundamentação recursal, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. Não é possível conhecer do recurso especial fundado no art. 105, III, c, da Constituição Federal, uma vez que a parte recorrente também não indicou qual seria o dispositivo de lei federal de interpretação controvertida. Incidência da Súmula 284/STF, por analogia.
+3. É dever da parte recorrente proceder ao cotejo analítico entre os acórdãos comparados, transcrevendo os trechos que configurem o dissídio jurisprudencial; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do art. 105, inciso III, da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Verifico que o recurso especial foi interposto com fulcro nas alíneas a e c do permissivo constitucional, tendo a parte recorrente indicado como paradigma acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Relativamente à discussão acerca da produção de prova pericial, o recurso especial encontra-se deficientemente fundamentado uma vez que não foi indicado expressamente qual dispositivo de lei federal teria sido contrariado pelo acórdão recorrido.
+Quanto ao alegado dissídio jurisprudencial, a parte recorrente, de igual modo, não indicou nas razões de seu recurso especial qual seria o dispositivo de lei federal objeto de interpretação controvertida nos tribunais, providência exigida por esta Corte Superior para o conhecimento dos recursos especiais interpostos com fundamento na alínea c do art. 105, inciso III, da Constituição Federal.
+Tais circunstâncias consubstanciam deficiência na fundamentação recursal, motivo pelo qual não é possível conhecer do recurso especial nem pela alínea a nem pela alínea c do permissivo constitucional. Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF): "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia." A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EXPEDIENTE AVULSO CONTENDO AGRAVO INTERNO EM ARESP. AÇÃO CIVIL PÚBLICA. TELEFONIA. EMISSÃO E COMERCIALIZAÇÃO DE CARTÕES INDUTIVOS PARA USO EM TELEFONE PÚBLICO. REEXAME DE FATOS E PROVAS DOS AUTOS. TEMA 954/STJ QUE NÃO SE ENQUADRA NO CASO. DISSÍDIO JURISPRUDE NCIAL. ANÁLISE PREJUDICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+1. Consta do acórdão recorrido que a verificação quanto à responsabilidade civil da empresa de telefonia pelo desabastecimento de cartões telefônicos e ao dano extrapatrimonial esbarra na Súmula 7/STJ. Ademais, a referida discussão não se enquadra na questão afetada no Tema 954/STJ.
+2. O recorrente, a despeito da alegação da existência de dissídio notório autorizador do cabimento do recurso especial sob o pálio do art. 105, III, "c", da Constituição Federal, deixou de indicar qual o dispositivo de lei federal que teria sido violado pelo acórdão recorrido quando em confronto com o paradigma apontado, circunstância essa que impede o conhecimento do recurso especial pela aplicação analógica do óbice da Súmula 284/STF.
+3. Quanto ao mais suscitado, a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+4. Embargos de declaração acolhidos em parte.
+(EDcl no AgInt no AREsp n. 911.111/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ARTS. 489, § 1º, E 1.022, II, DO CPC. ALEGAÇÃO GENÉRICA DE OFENSA. SÚMULA 284/STF. ASTREINTES. VALOR DA MULTA E EXIGUIDADE DO PRAZO. TESES QUE NÃO SE AMPARARAM NA VIOLAÇÃO A QUALQUER LEI FEDERAL. SÚMULA 284/STJ. INCIDÊNCIA. LOTEAMENTO URBANO. REGULARIZAÇÃO. OBRAS DE INFRAESTRUTURA. RESPONSABILIDADE DO ENTE MUNICIPAL. PRECEDENTES. VERIFICAÇÃO DA AUSÊNCIA DE OMISSÃO DA EDILIDADE. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. No que diz respeito às teses de exorbitância do valor da multa diária e da exiguidade do prazo assinado para o cumprimento das obrigações, cumpre obse rvar que a parte recorrente não amparou o inconformismo na violação a qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.100.390/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Consoante entendimento firmado pelo Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a demonstração da divergência jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do permissivo constitucional. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO PARA IMPUGNAR DECISÃO QUE DEFERIU LIMINAR EM PRODUÇÃO ANTECIPADA DE PROVA. NÃO CABIMENTO. ART. 382, § 4º, DO CPC/2015. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+ ..
+3. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Na espécie, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.893.155/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/4/2021, DJe de 28/4/2021 - sem destaque no original.)
+No caso dos autos, a parte recorrente não procedeu ao devido cotejo analítico dos julgados confrontados, apenas transcreveu suas ementas.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
