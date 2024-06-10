@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 140 E 1.022 DO CPC. NÃO CONFIGURAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada ofensa aos arts. 140 e 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, portanto, de modo integral a controvérsia posta.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno manejado em face de decisão de minha relatoria sintetizada da seguinte maneira (e-STJ fl. 2211):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. LICENÇA. DOUTORADO. OFENSA AOS ARTS. 140 E 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL, E NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões de agravo interno, a parte agravante sustenta, em síntese, que "No tocante às premissas da decisão agravada naquilo em que o recurso do Estado não foi provido, com a devida vênia, não há que se afirmar que a mesma esteja correta. Em síntese, o Estado demonstrou a infringência aos arts. 140 e 1022, do CPC.." (fl. 2219 e-STJ)
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 140 E 1.022 DO CPC. NÃO CONFIGURAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada ofensa aos arts. 140 e 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, portanto, de modo integral a controvérsia posta.
+2. Agravo interno não provido.
+VOTO
+O agravo não deve ser provido.
+O Tribunal de origem consignou que:
+Ocorre que, consoante o entendimento pacificado do STF, embora a Administração Pública, por força do princípio da autotutela, detenha a prerrogativa de anular seus próprios atos, quando eivados de nulidade, ou revogá-los por motivo de conveniência e oportunidade, sempre que a medida interferir na esfera jurídica de interesse dos servidores, deverá oportunizar o exercício de defesa (STF- AG.REG. NO AGRAVO DE INSTRUMENTO AI 504262 DF. Relator: Min. Marco Aurélio. Data de publicação: 30/10/2013).
+A possibilidade de revisão interna dos atos administrativos não pode conduzir a abusos e desrespeito aos direitos e garantias constitucionais, não sendo dado à Administração, indefinidamente, o direito de modificar tais atos.
+ ..
+Embora a Lei Estadual de nº 7.990/2001 (Estatuto dos Policiais Militares do Estado da Bahia) não determine nenhum prazo de revisão para o processo administrativo disciplinar, a Lei Estadual de nº 12.209/2011, que disciplina o processo administrativo no âmbito da Administração direta e das entidades da Administração indireta do Estado da Bahia, estabelece que as suas previsões serão aplicadas, subsidiariamente, aos processos administrativos com disciplina normativa específica.
+ ..
+Sendo assim, aplica-se ao caso concreto o prazo decadencial de cinco anos, conforme art. 39, §1º, da Lei Estadual nº 12.209/2011.
+ ..
+Não bastasse, nota-se que a imposição da pena de demissão aos Apelados não decorreu da instauração de novo procedimento administrativo, mas da remessa da primeira solução do PAD ao Comando-Geral da Polícia Militar do Estado da Bahia, em desacordo com a tese fixada em julgamento do STF no qual se reconheceu a Repercussão Geral..
+Ademais, restou consignado na monocrática os embargos de declaração rejeitados pelo Tribunal de origem:
+O acórdão recorrido foi bastante claro na sua fundamentação, deixando evidentes as razões que levaram à conclusão exposta, notadamente quanto aos aspectos indicados nos presentes embargos de declaração.
+ ..
+Neste cenário, não há que se falar em vícios no acórdão. O que se percebe, em verdade, é que o embargante pretende rediscutir e reverter decisão que lhe foi desfavorável, utilizando, para tanto, a via inadequada dos embargos de declaração. Saliente-se que, segundo o entendimento pacificado pelo Superior Tribunal de Justiça, tendo o órgão julgador encontrado motivação suficiente para fundamentar a decisão, não fica obrigado a responder, um a um, a todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado.
+Sobre a violação dos arts. 140 e 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta. Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Ressalta-se que, de comum sabença, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso (c.f. AgRg no AREsp 107.884/RS, Rel. Ministro Humberto Martins, DJe 16/05/2013), não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (c.f. EDcl no AgRg no AREsp 195.246/BA, Rel. Min. Napoleão Nunes Maia Filho, DJe 04/02/2014).
+A propósito :
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. AÇÃO ORDINÁRIA. PROCESSUAL CIVIL. IMPOSTO DE RENDA DE PESSOA FÍSICA. ISENÇÃO. ALCANCE. PROVENTOS DE APOSENTADORIA COMPLEMENTAR. PORTADOR DE MOLÉSTIA GRAVE. PRECEDENTES. AGRAVO CONHECIDO PARA SE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material. Ademais, conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+2. Com efeito, a previsão de isenção fiscal para o caso de moléstia grave encontra-se sedimentada na norma do artigo 6º, incisos XIV e XXI, da Lei nº 7.713/1988 e bem como na jurisprudência desse Superior Tribunal de Justiça.
+3. Igualmente, segundo os precedentes exarados por essa Corte, a isenção fiscal sobredita deverá englobar o pagamento do imposto de renda relativo aos valores percebidos de fundo de previdência privada a título de complementação da aposentadoria por pessoa acometida de uma das doenças listadas na Lei 7.713/1988, uma vez que o destino tributário dos benefícios recebidos de entidade de previdência privada não pode ser diverso do destino das importâncias correspondentes ao resgate das respectivas contribuições. Logo, se há isenção para os benefícios recebidos por portadores de moléstia grave, que nada mais são que o recebimento dos valores aplicados nos planos de previdência privada de forma parcelada no tempo, a norma também alberga a isenção para os resgates das mesmas importâncias, que nada mais são que o recebimento dos valores aplicados de uma só vez. Precedentes: AgInt no REsp. n. 1.481.695 /SC, Primeira Turma, Rel. Min. Regina Helena Costa, julgado em 23.08.2018; EDcl nos EDcl no AgInt no AREsp. n. 948.403/SP, Segunda Turma, Rel. Min. Francisco Falcão, julgado em 07.06.2018; AgInt no REsp. n. 1.554.683/PR, Primeira Turma, Rel. Min. Gurgel de Faria, julgado em 22.05.2018; AgInt no REsp. n. 1.662.097/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 28.11.2017.
+4. Agravo conhecido para se negar provimento ao recurso especial.
+(AREsp n. 2.373.615/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/10/2023, DJe de 19/10/2023.)
+A nte o exposto, nego provimento ao agravo interno.
+É como voto.
