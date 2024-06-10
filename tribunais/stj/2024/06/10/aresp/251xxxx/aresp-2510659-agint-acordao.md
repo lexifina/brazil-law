@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. EXECUÇÃO FRUSTRADA. REQUISITOS LEGAIS OBJETIVOS. TRÍPLICE OMISSÃO CONFIGURADA.
+1. Ação de falência.
+2. Segundo o entendimento do STJ, "o pressuposto para a instauração de processo de falência é a insolvência jurídica, que é caracterizada a partir de situações objetivamente apontadas pelo ordenamento jurídico. No caso do direito brasileiro, caracteriza a insolvência jurídica, nos termos do art. 94 da Lei n. 11.101/2005, a impontualidade injustificada (inciso I), execução frustrada (inciso II) e a prática de atos de falência (inciso III).  .. . Não cabe ao Judiciário, nesses casos, obstar pedidos de falência que observaram os critérios estabelecidos pela lei, a partir dos quais o legislador separou as situações já de longa data conhecidas, de uso controlado e abusivo da via falimentar (REsp n. 1.433.652/RJ, Quarta Turma, DJe de 29/10/2014).
+3. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por BRASCOLA LTDA - EM RECUPERACAO JUDICIAL contra decisão que conheceu do agravo para dar provimento ao recurso especial interposto pela agravada.
+Ação: Falência ajuizada por Faltin Gestão Empresarial EIRELI - EPP em face da agravante.
+Sentença: julgou extinto o processo falimentar.
+Acórdão: deu parcial provimento à apelação interposta pela agravada, conforme ementa a seguir (fl. 1.069):
+APELAÇÕES CÍVEIS. PROCESSO FALIMENTAR. EXTINÇÃO, NA ORIGEM, AO FUNDAMENTO DE QUE A AUTORA SERIA CARECEDORA DE AÇÃO POR AUSÊNCIA DE INTERESSE PROCESSUAL.
+PRELIMINAR DE INTEMPESTIVIDADE DO RECURSO DA AUTORA SUSCITADA EM CONTRAMINUTA, COM LASTRO NO ART. 189, PAR. 1º, INC. I, DA LEI N. 11.101/2005.
+INAPLICABILIDADE. PRAZO DE NATUREZA PROCESSUAL. CONTAGEM QUE DEVE CONSIDERAR OS DIAS ÚTEIS, NOS TERMOS DO CÓDIGO DE PROCESSO CIVIL.
+PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. REJEIÇÃO.
+MUTATIS MUTANDIS, ""NA MEDIDA EM QUE REGULAMENTADO EM DIPLOMA NORMATIVO DIVERSO DO MICROSSISTEMA QUE COMPÕE O PROCESSO RECUPERACIONAL E FALIMENTAR, OS PRAZOS PROCESSUAIS PARA INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO CONTRA DECISÕES INTERLOCUTÓRIAS NOS PROCESSOS DE RECUPERAÇÃO JUDICIAL E DE FALÊNCIA DEVEM OBSERVAR OS DITAMES DA LEGISLAÇÃO PROCESSUAL CIVIL, SENDO COMPUTADOS, POR CONSEGUINTE, EM DIAS ÚTEIS, NOS TERMOS DO ART. 269, DO CPC/15" (AGINT NO RESP N. 1.937.868/RJ, RELATOR MINISTRO MARCO BUZZI, QUARTA TURMA, JULGADO EM 27/9/2021, DJE DE 1/10/2021) (AGINT NO RESP 1970297/MS, REL.
+MIN. RAUL ARAÚJO, DJE 26-8-2022).
+RECURSO DA AUTORA. FALÊNCIA. PEDIDO FORMULADO COM FUNDAMENTO NO ART. 94, INC. II, DA LEI N. 11.101/2005. INTERESSE DE AGIR CONFIGURADO.
+REFORMA DA SENTENÇA QUE SE IMPÕE. PROCESSO, CONTUDO, EM CONDIÇÕES DE IMEDIATO JULGAMENTO PELO TRIBUNAL. INTELIGÊNCIA DO ART. 1.013, PAR. 3º, INC. I, DO CPC. IMPROCEDÊNCIA. HIPÓTESE EM QUE, AO QUE CONSTA, A RECUPERANDA, QUE FIGURA COMO RÉ EM CUMPRIMENTO DE SENTENÇA PROPOSTO PELA AUTORA, MOSTRA-SE VIÁVEL ECONÔMICA E FINANCEIRAMENTE.
+PROCESSO DE SOERGUIMENTO, ADEMAIS, QUE JÁ SE ENCONTRA EM ESTÁGIO BEM AVANÇADO. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. RECURSO PARCIALMENTE PROVIDO PARA, REFORMADA A SENTENÇA, REJEITAR A PRETENSÃO INAUGURAL.
+" ..  O PROCESSO DE RECUPERAÇÃO JUDICIAL É ORIENTADO POR ALGUNS PRINCÍPIOS, OS QUAIS SE COMPLEMENTAM, DEVENDO SER ANALISADOS EM CONJUNTO E MANTÉM ENTRE SI RELAÇÃO DE EQUILÍBRIO. DENTRE ELES, O PRINCÍPIO DA VIABILIDADE DA EMPRESA, UTILIZADO COMO CRITÉRIO DISTINTIVO BÁSICO ENTRE A RECUPERAÇÃO E A FALÊNCIA E O PRINCÍPIO DA PRESERVAÇÃO DA ATIVIDADE EMPRESARIAL. ACERCA DO TEMA, ENSINA WALDO FAZZIO JÚNIOR NA OBRA LEI DE FALÊNCIA E RECUPERAÇÃO JUDICIAL DE EMPRESAS, 7. ED. , SÃO PAULO: ATLAS, 2015, P. 16: "NITIDAMENTE, A LRE FIXA UMA DICOTOMIA ESSENCIAL ENTRE AS EMPRESAS ECONOMICAMENTE VIÁVEIS E AS INVIÁVEIS, DE TAL ARTE QUE O MECANISMO DA RECUPERAÇÃO É INDICADO PARA AS PRIMEIRAS, ENQUANTO O PROCESSO DE FALÊNCIA APRESENTA-SE COMO O MAIS EFICIENTE PARA A SOLUÇÃO JUDICIAL DA SITUAÇÃO ECONÔMICA DAS EMPRESAS INVIÁVEIS.  .. . É CERTO QUE, SE VERIFICADA, DESDE LOGO, A IMPOSSIBILIDADE DE CUMPRIMENTO DO PLANO PROPOSTO, O INDEFERIMENTO DA PRETENSÃO RECUPERATÓRIA É DE RIGOR.  .. . A ATIVIDADE EMPRESARIAL DESBORDA DOS LIMITES ESTRITAMENTE SINGULARES PARA ALCANÇAR DIMENSÃO SOCIOECONÔMICA BEM MAIS AMPLA. AFETA O MERCADO E A SOCIEDADE, MAIS QUE A SINGELA CONOTAÇÃO PESSOAL.  .. . A CONSERVAÇÃO DA ATIVIDADE NEGOCIAL É O PONTO MAIS DELICADO DO REGIME JURÍDICO DE INSOLVÊNCIA. AO CONTRÁRIO DA CONCEPÇÃO CIRÚRGICA ADOTADA NA EXTINTA LFC, PRETENDE-SE, COM A LRE, NA MEDIDA DO POSSÍVEL,PRIORIZAR A RECUPERAÇÃO SOBRE A LIQUIDAÇÃO. SÓ DEVE SER LIQUIDADA A EMPRESA INVIÁVEL, OU SEJA, AQUELA QUE NÃO COMPORTA UMA REORGANIZAÇÃOEFICIENTE OU NÃO JUSTIFICA O DESEJÁVEL RESGATE"" (TJMG, AGRAVO DE INSTRUMENTON. 1.0000.16.058650-9/003, REL. DES. CAETANO LEVI LOPES).
+RECURSO DA RÉ. DOLO NÃO CARACTERIZADO. EXERCÍCIO REGULAR DO DIREITO DEAÇÃO. INVIABILIDADE DA APLICAÇÃO DAS PENALIDADES PREVISTAS NO ART. 101 DA LEIN. 11.101/2005. DESPROVIMENTO.
+Recurso Especial: alega a parte agravada violação do art. 94, II, da Lei 11.101/2005, bem como dissídio jurisprudencial. Sustenta, em síntese, que o Tribunal de origem, embora tenha reconhecido a chamada tríplice omissão, equivocadamente criou "um "novo requisito" para o decreto de quebra, baseado na ideia de insolvência econômica, ou seja, baseado na ideia de que a Recorrente deveria ter comprovado cabalmente que não lograria reaver seu crédito por meio dos autos da execução" (fl. 1.145).
+Decisão unipessoal: conheceu do recurso especial e deu-lhe provimento, para cassar o acórdão recorrido e determinar que o Tribunal de origem prossiga no julgamento da apelação, à luz da jurisprudência do STJ sobre a matéria.
+Agravo interno: a agravante reitera que "A existência de uma ação execução, em que houve a nomeação de bem à penhora e está sendo realizado o pagamento, demonstra - inequivocamente - que não há o preenchimento dos requisitos exigidos pelo art. 94 da LRF" (fl. 1.337).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. EXECUÇÃO FRUSTRADA. REQUISITOS LEGAIS OBJETIVOS. TRÍPLICE OMISSÃO CONFIGURADA.
+1. Ação de falência.
+2. Segundo o entendimento do STJ, "o pressuposto para a instauração de processo de falência é a insolvência jurídica, que é caracterizada a partir de situações objetivamente apontadas pelo ordenamento jurídico. No caso do direito brasileiro, caracteriza a insolvência jurídica, nos termos do art. 94 da Lei n. 11.101/2005, a impontualidade injustificada (inciso I), execução frustrada (inciso II) e a prática de atos de falência (inciso III).  .. . Não cabe ao Judiciário, nesses casos, obstar pedidos de falência que observaram os critérios estabelecidos pela lei, a partir dos quais o legislador separou as situações já de longa data conhecidas, de uso controlado e abusivo da via falimentar (REsp n. 1.433.652/RJ, Quarta Turma, DJe de 29/10/2014).
+3. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Diante desse contexto, a irresignação do agravante não merece prosperar, conforme se demonstra a seguir.
+- Do pedido de falência fundado no art. 94, II, da Lei 11.101/05
+O TJ/SC, ao rejeitar o pedido de falência da empresa agravada, assim decidiu (fls. 1.065-1.066, grifo nosso):
+A insuficiência dos bens penhorados é fato incontroverso, bem como a ausência de depósito e, por óbvio, do pagamento, o que, a princípio, caracterizaria a chamada "tríplice omissão" necessária para a decretação da quebra.
+Entretanto, não se está diante de uma absoluta ausência de bens penhoráveis, ainda que insuficientes, e a execucional está seguindo seu curso, afora, como destacado, o avançado estado da recuperação judicial.
+São fatores relevantes, e mesmo que não se desconheça o maior rigor que os tribunais têm observado nos pedidos de falência, esta Câmara, pelo menos por ora, e em especial diante do atual contexto econômico, para, tanto quanto possível, preservar a empresa, mormente se ela se mostra viável financeira e economicamente, o que parece ocorrer no caso vertente, à míngua de qualquer informação em sentido diverso.
+Observa-se, nesse contexto, que o acórdão recorrido contrariou o entendimento do STJ no sentido de que o pressuposto para a instauração de processo de falência é a insolvência jurídica, que é caracterizada a partir de situações objetivamente apontadas pelo ordenamento jurídico. No caso do direito brasileiro, caracteriza a insolvência jurídica, nos termos do art. 94 da Lei n. 11.101/2005, a impontualidade injustificada (inciso I), execução frustrada (inciso II) e a prática de atos de falência (inciso III).  .. . Não cabe ao Judiciário, nesses casos, obstar pedidos de falência que observaram os critérios estabelecidos pela lei, a partir dos quais o legislador separou as situações já de longa data conhecidas, de uso controlado e abusivo da via falimentar (REsp n. 1.433.652/RJ, Quarta Turma, DJe de 29/10/2014).
+Por esses fatos, entendo que a decisão agravada merece ser mantida sem qualquer modificação.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
