@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. HOMICÍDIOS QUALIFICADOS TENTADOS. VILIPÊNDIO DE CADÁVERES. TORTURA. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. TESES DA DEFESA NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE SUPERIOR DE JUSTIÇA SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+1. As alegações não foram examinadas no ato impugnado e a defesa não manejou previamente o recurso cabível para obter uma manifestação do colegiado julgador, de modo a atrair a competência desta Corte, nos termos do art. 105, II, da Constituição Federal. "Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GELSON LIMA CARNAÚBA contra decisão monocrática que indeferiu liminarmente o habeas corpus, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça (e-STJ fls. 481/488).
+Consta dos autos que foi decretada a prisão preventiva do agravante, pronunciado como incurso nas sanções do art. 121, §2º, inciso I, III e IV (homicídio qualificado, 56 vezes); art. 121, 2º, inciso I, c/c art. 14, II (homicídio qualificado tentado, 06 vezes); art. 212 (vilipêndio de cadáveres, 46 vezes); c/c art. 29 do Código Penal e art. 1º, II da Lei 9.455/1997 (tortura, 26 vezes) e art. 2º, §2º e 4º inciso IV da Lei 12.850/2013 (e-STJ fl. 220).
+Na presente oportunidade, a defesa reitera, em síntese, não ser obrigatória a prévia submissão das teses jurídicas ao crivo da autoridade coatora, acrescentando que "a ação constitucional do habeas corpus não possui como requisito a análise prévia dos argumentos defensivos pelo juízo monocrático, notadamente sendo ele o coator" (e-STJ fl. 500).
+Diante disso, pede a reconsideração da decisão agravada ou que o recurso seja julgado pelo colegiado para revogar a prisão preventiva da agravante (e-STJ fl. 494/502).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. HOMICÍDIOS QUALIFICADOS TENTADOS. VILIPÊNDIO DE CADÁVERES. TORTURA. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. TESES DA DEFESA NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE SUPERIOR DE JUSTIÇA SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+1. As alegações não foram examinadas no ato impugnado e a defesa não manejou previamente o recurso cabível para obter uma manifestação do colegiado julgador, de modo a atrair a competência desta Corte, nos termos do art. 105, II, da Constituição Federal. "Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+2. Agravo regimental desprovido.
+VOTO
+Em que pese o esforço da zelosa defesa, a decisão deve ser mantida.
+No caso, colhe-se da decisão impugnada (e-SJT fls. 448/450):
+ ..
+A par dessas considerações, vislumbro, à luz do caso concreto, que a precária instrução do presente Habeas Corpus não só subtraiu do Impetrante, por completo, o interesse de agir, na modalidade interesse-adequação, como também, de forma reflexa, ocasionou o risco de indevida supressão de instância, fator que também impede o conhecimento deste remédio constitucional. Explico. Inicialmente, sobrepujo que o Habeas Corpus se destaca por ser uma ação de rito abreviado e de cognição sumária, devendo ser instruído, no momento da sua impetração, com as peças necessárias à compreensão da controvérsia; capazes de comprovar, de plano, a existência de ilegalidade, em tese, praticada pela Autoridade dita Coatora.
+Contudo, analisando os autos, constato que o presente feito carece de instrução adequada, na medida em que, no ato da impetração do Habeas Corpus, o Impetrante deixou de comprovar a prévia submissão das teses jurídicas ao crivo da Autoridade dita Coatora, o que enseja o risco de supressão de instância. A propósito:
+(..)
+Nesse contexto, em que inexiste nos autos documentação apta a possibilitar a integral análise do writ por esta Julgadora, o indeferimento liminar da presente ordem de Habeas Corpus é medida que se impõe. A respeito do tema, é pacífico o entendimento do Superior Tribunal de Justiça e deste Egrégio Tribunal de Justiça, ex vide:
+(..)
+Por todo o exposto, INDEFIRO, in limine, a Petição inicial e EXTINGO o processo, sem resolução do mérito, conforme o disposto no art.485, inciso I, do Código de Processo Civil, aplicado por analogia, de acordo com a norma prevista no art. 3.º do Código de Processo Penal.
+ ..
+Como visto, as alegações não foram examinadas no ato impugnado e a defesa não manejou previamente o recurso cabível para obter uma manifestação do colegiado julgador, de modo a atrair a competência desta Corte, nos termos do art. 105, II, da Constituição Federal.
+"Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
