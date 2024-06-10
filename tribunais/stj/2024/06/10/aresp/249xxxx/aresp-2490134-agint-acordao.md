@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ACIDENTE DE TRABALHO. AÇÃO REGRESSIVA. INSS. OMISSÃO. INEXISTÊNCIA. NEGLIGÊNCIA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Colegiado regional julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara quanto aos fatos que levaram ao reconhecimento da responsabilidade civil da empresa para com o sinistro e quanto à distribuição do valor dos honorários. Não há vícios de omissão ou contradição, pois a Corte a quo apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+2. Outrossim, extrai-se do acórdão impugnado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para reavaliar a conduta, o nexo de causalidade e o dano, devidamente aferidos pelo TRF3.
+3. Ademais, quanto ao ônus de sucumbência, a Corte de origem, ao considerar o contexto fático, entendeu que deveria ser mantida a distribuição conforme estabelecido em sentença. Portanto, incide, in casu, o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante sustenta, em suma:
+(..)
+Todavia, ao contrário do que fundamentou a r. decisão agravada, não há qualquer necessidade de reexame de provas ou fatos e, assim, não há violação da Súmula 7. Ora, o que se requer neste caso é a VALORAÇÃO do fundamento do v. acórdão então recorrido sobre a culpa exclusiva ou não do empregado.
+Assim, a solicitação da agravante diz respeito a fatos incontroversos, presentes no v. Acórdão recorrido. Ora, a recorrente, ora agravante, requereu que se considerasse a Ação Civil Pública na Justiça do Trabalho, onde foi determinada perícia técnica judicial para investigar se houve alguma relação direta entre as irregularidades constatadas e a ocorrência de acidente fatal, teve como resultado a ausência de comprovação de culpa da recorrente em relação as irregularidades.
+Contudo, a C. Turma a quo, contraditoriamente, entendeu que a inexistência de relação direta e exclusiva entre as diversas irregularidades apuradas e os acidentes ocorridos, na recorrente, não afasta a culpa, Id. 267142764, fls. 1093.
+Portanto, a discussão proposta pela agravante é unicamente jurídica, sendo que todas as questões constam da fundamentação (base empírica) dos v. acórdãos recorridos.
+(..)
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ACIDENTE DE TRABALHO. AÇÃO REGRESSIVA. INSS. OMISSÃO. INEXISTÊNCIA. NEGLIGÊNCIA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Colegiado regional julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara quanto aos fatos que levaram ao reconhecimento da responsabilidade civil da empresa para com o sinistro e quanto à distribuição do valor dos honorários. Não há vícios de omissão ou contradição, pois a Corte a quo apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+2. Outrossim, extrai-se do acórdão impugnado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para reavaliar a conduta, o nexo de causalidade e o dano, devidamente aferidos pelo TRF3.
+3. Ademais, quanto ao ônus de sucumbência, a Corte de origem, ao considerar o contexto fático, entendeu que deveria ser mantida a distribuição conforme estabelecido em sentença. Portanto, incide, in casu, o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Os autos foram recebidos neste Gabinete em 22.3.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Ao decidir a vexata quaestio, o Colegiado federal consignou:
+(..)
+Embora alegada omissão e contradição, por não mencionadas outras normas que corroborariam a suspensão da NR 12 (artigos 17 da Convenção OIT 81, 627-A e 628 da CLT e 29, I e II, do Decreto 4.552/2002), é certo que a questão jurídica foi enfrentada integralmente, ao destacar qual o objeto da normatização e sua vinculação e efeitos na apuração da responsabilidade da empregadora por violação às normas de segurança do trabalho e, sobretudo, no caso de acidente fatal com pagamento de benefício previdenciário e pretensão de ação regressiva do INSS.
+As demais alegações sobre o mérito da causalidade ou culpabilidade, objetivando afastar a responsabilidade da embargante, foram amplamente abordadas no julgamento, e não se pretende senão rediscutir fatos, alegações e conclusões adotadas, deixando, porém, a embargante de considerar que já foi explicitada a fundamentação necessária a respaldar o voto e o acórdão proferidos.
+Neste sentido, apontou o acórdão embargado que "consta do relatório de Análise de Acidente de Trabalho produzido por auditor Fiscal do Trabalho da Gerência Regional do Trabalho em Campinas que, especificamente, em relação ao acidente: inexistia, à época, gestão de saúde e segurança do trabalho; ausente sistema de proteção na zona de acesso às bobinadoras; e falta capacitação específica para todas as operações envolvidas com a máquina lixadeira (ID , transcrevendo, inclusive, excerto do relatório de Análise de Acidente 252696295)" de Trabalho trecho específico sobre a inexistência de capacitação específica para realização de todas as operações envolvidas com máquina lixadeira.
+Sobre a alegação de omissão na configuração de , resta claro, bis in idem, o que não cabe na via por primeiro, que se pretendeu imputar error in judicando eleita. Porém, de toda sorte, a linha de fundamentação do acórdão foi precisa ao apontar que o ressarcimento ao INSS de valores pagos a título de benefícios acidentários em caso de atuação negligente do empregador (artigo 120 da Lei 8.213/1991) em nada se confunde com o pagamento da contribuição ao SAT (artigo 10 da Lei 10.666/2003).
+Com efeito, a exigibilidade de contribuição previdenciária do Seguro de Acidente do Trabalho serve exclusivamente para arcar com os benefícios relacionados com os riscos ordinários do trabalho, não sendo os benefícios acidentários, desembolsados pelo INSS em função do descumprimento das normas trabalhistas, abrangidos pela exação, visto que excedem os riscos comuns atribuídos à atividade laboral, impondo-se, nesse caso, o ressarcimento à autarquia previdenciária.
+(..)
+Verbas de sucumbência Tendo em vista que a sentença foi publicada sob a égide do novo CPC, é aplicável quanto à sucumbência este regramento.
+A distribuição do ônus da deve ser mantida na forma estabelecida em sentença. sucumbência Em relação aos honorários advocatícios recursais anoto que recente julgado do STJ estabelece que devem estar presentes, cumulativamente, três requisitos para que sejam aplicados: (i) decisão recorrida publicada a partir de 18.03.2016, data de entrada em vigor do novo Código de Processo Civil; (ii) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e (iii) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Assim, considerando a parcial procedência de ambos os apelos, não preenchidos os requisitos para a condenação em honorários recursais, conforme suprarreferido.
+(..)
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Colegiado regional julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara quanto aos fatos que levaram ao reconhecimento da responsabilidade civil da empresa para com o sinistro e quanto à distribuição do valor dos honorários.
+Não há vícios de omissão ou contradição, pois a Corte a quo apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Outrossim, extrai-se do acórdão impugnado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para reavaliar a conduta, o nexo de causalidade e o dano, devidamente aferidos pelo TRF3.
+Ademais, quanto ao ônus de sucumbência, a Corte de origem, ao considerar o contexto fático, entendeu que deveria ser mantida a distribuição conforme estabelecido em sentença. Portanto, incide, in casu, o óbice da Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
