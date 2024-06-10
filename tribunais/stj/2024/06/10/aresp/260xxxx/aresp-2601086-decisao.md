@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GUILHERME PRESSER GAZZETTA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que negou seguimento ao recurso especial (Apelação n. 5008632-37.2022.4.04.7104/RS).
+Consta dos autos que o agravante foi condenado às penas de 3 anos, 9 meses e 20 dias de reclusão, e 8 meses e 11 dias de detenção, em regime inicial semiaberto, além de 20 dias-multa, pela prática dos delitos previstos nos arts. 334-A, §1º, I, do Código Penal, c/c o art. 3º do Decreto-Lei n. 399/1968; 330 e 180, ambos do CP; e 311 da Lei n. 9.503/1997, na forma do art. 69 do CP.
+A defesa apresentou recurso de apelação perante o Tribunal de origem, o qual lhe proveu parcialmente para, em face do "reconhecimento da atenuante da confissão espontânea, retificada apenas a dosimetria do delito insculpido no artigo 330 do CP, fixada em 26 (vinte e seis) dias de detenção, perfazendo a pena total 5 (cinco) anos, 5 (cinco) meses e 28 (vinte e oito dez) dias, em regime semiaberto, sem substituição da reprimenda física, além de 20 (vinte) dias-multa, mantido o valor unitário em 1/30 (um trigésimo) do salário-mínimo vigente à época do fato" (e-STJ fl. 391).
+A defesa opôs, ainda, embargos de declaração, os quais foram rejeitados.
+No recurso especial, interposto com fulcro no art. 105, III, a, da Constituição Federal, alegou violação/negativa de vigência aos arts. 59, caput, e 180, caput, do CP, e 156 e 315, § 2º, IV e VI, do Código de Processo Penal..
+Afirmou que a condenação do recorrente pelo crime de receptação foi mantida em razão das circunstâncias pessoais e do delito, sem demonstrar o elemento subjetivo do dolo.
+Destacou que "as circunstâncias objetiva do delito não demonstram que o recorrente, efetivamente, alcançou a consciência sobre a origem ilícito do bem" (e-STJ fl. 451).
+Apontou que as reprimendas básicas dos crimes de receptação e desobediência teriam sido exasperadas de maneira desproporcional e sem fundamentação adequada.
+Requereu, assim, a absolvição pelo crime de receptação e a redução das penas-bases.
+O recurso especial não foi admitido pela aplicação das Súmulas n. 7 e 83 do STJ (e-STJ fls. 481/484).
+Daí o presente agravo em recurso especial, no qual a defesa alega que não pretende o reexame de fatos e provas, mas apenas revaloração jurídica.
+Aponta, ainda, que o entendimento da Corte de origem não estaria adequado à jurisprudência deste Tribunal Superior.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+É o relatório.
+Decido.
+Atendidos os requisitos de admissibilidade, passo à análise do recurso especial.
+Com relação ao pedido de absolvição do crime de receptação, tem-se que a Corte de origem manteve a condenação do recorrente destacando que (e-STJ fls. 299/381, grifei):
+2.2. Receptação (art. 180 do CP)
+No que tange ao delito de receptação, também perfeitamente delineada a autoria.
+Quanto ao ponto, é cediço que a figura típica prevista no caput do art. 180 do Código Penal exige a presença do dolo direto, não se satisfazendo com o simples dolo eventual, afinal, o texto legal faz alusão a coisa que sabe ser produto de crime. Portanto, é preciso que o agente saiba, efetivamente, a origem espúria da coisa.
+Cumpre destacar, por outro lado, que o dolo dificilmente transparece de forma cristalina no crime de receptação. Nessa perspectiva, a alegação de inocência, verificada com frequência na apuração desse tipo de delito, impõe uma análise acurada das circunstâncias que envolvem a conduta, de modo a confirmar ou não a ausência do dolo.
+ ..
+A autoria delitiva, por sua vez, é inconteste. Na hipótese, as circunstâncias do delito e pessoais do acusado evidenciam a prática dolosa do crime de receptação.
+É que, no caso, comprovada nos autos a origem ilícita do automóvel, cumpria à defesa, nos termos do art. 156, caput, do Código de Processo Penal, demonstrar que o acusado desconhecia a origem espúria do automóvel que recebera, o que não ocorreu. Em casos semelhantes, a jurisprudência do Superior Tribunal de Justiça aponta no sentido de cumprir à defesa apresentar provas da origem lícita do bem, ou da conduta culposa:
+ ..
+Com efeito, nos crimes de contrabando e descaminho, a utilização de veículos receptados é prática assaz comum, que visa a mitigar o prejuízo decorrente de uma possível apreensão e consequente perdimento do bem.
+Ademais, verifica-se que o réu não é estranho a tais práticas, tendo em vista que já foi condenado anteriormente por crime de contrabando e de receptação, tudo a denotar pleno e integral conhecimento e desenvoltura nas empreitadas delitivas em análise.
+Não bastasse isso, a prática do crime em concurso de agentes, tal como evidenciado no caso autos, revela alguma integração e conjugação de esforços entre o réu e o suposto proprietário dos cigarros contrafeitos.
+E havendo prova robusta sobre o conhecimento do réu quanto à origem espúria do veículo, não tendo a defesa trazido elementos capazes de afastar a contundência de tais provas, resta caracterizado o elemento subjetivo do tipo (dolo), devendo ser mantida a sentença, cuja fundamentação atinente à materialidade e autoria são incorporadas às razões de decidir do presente voto, com o adendo acima expressado sobre o elemento subjetivo do tipo.
+Por conseguinte, sintetizando, a conduta do réu, que, como já referido, carregava o veículo, completamente modificado e sem qualquer documentação, recebido de sujeito cuja identidade não revelou maiores detalhes, permitem concluir que ele tinha ciência da origem ilícita do bem.
+Por isso, ausentes circunstâncias que afastem a ilicitude da conduta ou a culpabilidade do agente e comprovado ter ele agido de forma voluntária e consciente com a finalidade de receber veículo sabendo tratar-se de produto de crime, impõe-se ratificar sua condenação pela prática do crime previsto no artigo 180, caput, do Código Penal.
+Quanto ao tema, o Superior Tribunal de Justiça entende que, "no crime de receptação, se o bem houver sido apreendido em poder do acusado, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova" (AgRg no AREsp 979.486/MG, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/3/2018)" (AgRg no HC n. 881.051/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024, grifei).
+No presente caso, a Corte de origem consignou que, "havendo prova robusta sobre o conhecimento do réu quanto à origem espúria do veículo, não tendo a defesa trazido elementos capazes de afastar a contundência de tais provas, resta caracterizado o elemento subjetivo do tipo (dolo)" bem como que "a conduta do réu, que, como já referido, carregava o veículo, completamente modificado e sem qualquer documentação, recebido de sujeito cuja identidade não revelou maiores detalhes, permitem concluir que ele tinha ciência da origem ilícita do bem".
+Dessa forma, a alteração da conclusão das instâncias, de fato, demandaria incursão em elementos de fatos e provas, o que atrai a incidência da Súmula n. 7/STJ.
+Com relação ao pedido de redução da pena-base, tem-se que o Tribunal de origem entendeu que (e-STJ fls. 384/385,grifei):
+3. Dosimetria
+ ..
+3.2. Receptação
+As penas, corporal e multa, foram assim fixada na sentença:
+"(..) 5.2 Crime de receptação
+5.2.1 Pena privativa de liberdade
+A culpabilidade é normal. O réu possui antecedentes criminais, vez que já foi condenado nos autos 5007095-74.2020.404.7104, pelos crimes de contrabando de cigarros, da lei de telecomunicações, resistência e receptação, tendo a sentença transitado em julgado para a acusação em 12.01.2022 e para a defesa do acusado em 07.03.2022. Além disso possui outras condenações que serão consideradas na segunda fase de aplicação da pena. Nada a referir quanto à personalidade, ressaltando-se entendimento jurisprudencial de que condenações anteriores não podem ser consideradas para negativar esse vetor, assim como a conduta social. Motivos, circunstâncias e consequências são normais à espécie. Nada quanto ao comportamento da vítima. Sopesados tais vetores, fixo a pena-base em 01 ano e 03 meses de reclusão.
+Aplico a agravante da reincidência, pois o réu foi definitivamente condenado a) nos autos 021/2.12.0001541-9, por receptação, tendo a pena sido extinta em 06.07.2021; e b) 021/2.12.0004654- 3, por crimes de tráfico de drogas e associação para o tráfico. Anoto que, em ambos os processos, o trânsito em julgado e posterior extinção dos expedientes são anteriores aos fatos objeto desta demanda, restando igualmente observado o prazo de cinco anos do artigo 64, inciso I, do Código Penal (42.3) Assim, agravo a pena em 02 meses e 15 dias, tornando-a provisória em 01 ano, 05 meses e 15 dias de reclusão porque ausentes atenuantes (a confissão abrangeu somente o crime de contrabando).
+Ausentes na espécie majorantes ou minorantes, a pena provisória passa a ser definitiva em 01 ano, 05 meses e 15 dias de reclusão.
+5.2.2. Pena de multa
+Vistas as circunstâncias judiciais analisadas para a fixação do apenamento básico da privativa de liberdade, o número de dias-multa deve ser fixado em 10 (dez).
+O valor do dia-multa deve ser estabelecido entre um trinta avos e cinco salários mínimos, segundo as condições econômicas do acusado. Assim, cada dia-multa corresponderá a um trinta avos do salário mínimo vigente na data do fato (15.08.2022), atualizado desde então até o efetivo pagamento, dada a condição econômica declarada pelo réu (renda aproximada de R$ 2 mil mensais).(..)"
+Nos termos da sentença, a pena-base do réu sofreu acréscimo de 3 (três) de reclusão pela valoração negativa dos maus antecedentes do agente.
+Corretas a negativação, pois, como já perpassado, o apelante já ostentava contra si, à época, três condenações transitadas em julgado, sendo plausível a utilização de uma destas para negativar a vetorial.
+No que refere à carga a ser atribuída a cada vetorial quando da fixação da pena-base, cumpre destacar que a Quarta Seção desta Corte vem entendendo que inexiste um critério matemático rígido, de modo que tal quantificação é submetida à discricionariedade do julgador, que examinará o valor que cada vetorial apresenta no caso concreto, de forma a melhor concretizar o princípio da individualização das penas.
+ ..
+E, no ponto, o aumento da basilar em 3 (três) não se denota demasiado, guardando suficiência e proporcionalidade para bem reprimir a conduta.
+ ..
+3.3. Crime de desobediência (art. 330 do Código Penal).
+As penas, corporal e multa, foram assim fixada na sentença:
+"(..) 5.3.1 Pena privativa de liberdade
+A culpabilidade é normal. O réu possui antecedentes criminais, vez que já foi condenado nos autos 5007095-74.2020.404.7104, pelos crimes de contrabando de cigarros, da lei de telecomunicações, resistência e receptação, tendo a sentença transitado em julgado para a acusação em 12.01.2022 e para a defesa do acusado em 07.03.2022. Além disso possui outras condenações que serão consideradas na segunda fase de aplicação da pena. Nada a referir quanto à personalidade, ressaltando-se entendimento jurisprudencial de que condenações anteriores não podem ser consideradas para negativar esse vetor, assim como a conduta social. Motivos, circunstâncias e consequências são normais à espécie. Nada quanto ao comportamento da vítima. Sopesados tais vetores, fixo a pena-base em 25 dias de detenção.
+Aplico a agravante da reincidência, pois o réu foi definitivamente condenado a) nos autos 021/2.12.0001541-9, por receptação, tendo a pena sido extinta em 06.07.2021; e b) 021/2.12.0004654- 3, por crimes de tráfico de drogas e associação para o tráfico. Anoto que, em ambos os processos, o trânsito em julgado e posterior extinção dos expedientes são anteriores aos fatos objeto desta demanda, restando igualmente observado o prazo de cinco anos do artigo 64, inciso I, do Código Penal (42.3) Assim, agravo a pena em 04 dias, tornando-a provisória em 29 dias de detenção porque ausentes atenuantes (a confissão abrangeu somente o crime de contrabando).
+Ausentes na espécie majorantes ou minorantes, a pena provisória passa a ser definitiva em 29 dias de detenção.
+5.3.2 Pena de multa
+Vistas as circunstâncias judiciais analisadas para a fixação do apenamento básico da privativa de liberdade, o número de dias-multa deve ser fixado em 10 (dez).
+O valor do dia-multa deve ser estabelecido entre um trinta avos e cinco salários mínimos, segundo as condições econômicas do acusado. Assim, cada dia-multa corresponderá a um trinta avos do salário mínimo vigente na data do fato (15.08.2022), atualizado desde então até o efetivo pagamento, dada a condição econômica declarada pelo réu, conforme já referido. (..)"
+Nos termos da sentença, a pena-base do réu sofreu acréscimo de 10 (dez) dias de detenção pela valoração negativa dos maus antecedentes do agente.
+Corretas a negativação, pois, como já perpassado, o apelante já ostentava contra si, à época, três condenações transitadas em julgado, sendo plausível a utilização de uma destas para negativar a vetorial. No mais, como já explanado, o patamar acrescido não importa qualquer desproporção à gravidade da vetorial, sendo assim mantido como aplicado na origem.
+ ..
+Observa-se do trecho acima que, apesar de o recorrente, de fato, possuir mais de uma condenação definitiva, apenas uma foi utilizada para justificar a consideração negativa dos antecedentes, sendo as outras duas utilizadas na segunda fase da dosimetria (reincidência).
+Desse modo, deve-se aplicar o aumento de 1/6 sobre a pena-base, tal como requerido pela defesa.
+Assim, reduzo a reprimenda básica do crime de receptação para 1 ano e 2 meses de reclusão, que exaspero em 2 meses e 15 dias em razão da reincidência, tal como realizado pelas instâncias de origem (e-STJ fl. 386), ficando a sanção em 1 ano, 4 meses e 15 dias de reclusão, e multa, que, à míngua de outras causas modificativas, torno definitiva.
+No tocante à reprimenda inicial do crime de desobediência, reduzo-a para 17 dias de detenção, a qual aumento em 1 dia pela agravante da reincidência, tal como realizado pelo Tribunal de origem (e-STJ fls. 387/388), resultando na pena final de 18 dias de detenção e multa.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e dar provimento, a fim de reduzir as reprimendas referentes aos crimes de receptação para 1 ano, 4 meses e 25 dias de reclusão, mais multa, e de desobediência para 18 dias de detenção, além de multa, mantendo os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
