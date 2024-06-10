@@ -1,0 +1,27 @@
+DECISÃO
+DANILO LIMA DE MELO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0000669-11.2024.8.26.0520.
+A defesa busca afastar, do histórico prisional do paciente, a anotação de falta disciplinar de natureza grave, por ausência de provas acerca de sua participaçãoo na conduta que lhe foi imputada.
+Decido.
+O writ comporta solução por decisão monocrática do relator, pois existe jurisprudência pacífica sobre o tema.
+Ainda que sejam fortes as suspeitas de que o condenado tenha solicitado a terceiro que se lhe enviasse, via correios, carregador de aparelho celular, tal ilação, por si, desamparada de elemento concreto que indique essa solicitação, não se mostra suficiente para ser imputada a falta disciplinar, em razão, sobretudo, da intranscendência penal, cuja aplicação é perfeitamente aceitável em sede de execução penal.
+Conforme relatado no aresto recorrido (fls. 14-15):
+Apesar da negativa do sentenciado acerca da ciência e destinação do celular apreendido (fls. 37), os agentes de segurançapenitenciária declararam que, durante o procedimento de entrega de SEDEX destinado ao sentenciado, encontraram um cabo carregador de celular de três pontas, o qual se tentava ocultar sob o zíper de uma bolsa plástica (fls. 34/35).
+ ..
+É até natural que o agravante negue a tentativa de ingresso de componente de celular no estabelecimento prisional, a fim de evitar as consequências jurídicas da infração disciplinar, contudo, ficou claro que a correspondência foi enviada por sua irmã, com identificação expressa do agravante, não havendo dúvida sobre o destinatário.
+O acórdão impugnado está em desacordo com a jurisprudência desta Corte. Aplica-se ao caso o entendimento de que o "reconhecimento da prática de falta grave em razão da conduta praticada por terceiro que enviou a encomenda via SEDEX viola o princípio constitucional da intranscendência (art. 5.º, inciso XLV, da Constituição da República), o qual preconiza que ninguém pode ser responsabilizado por ato praticado por terceira pessoa" (AgRg no HC n. 642.504/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 19/3/2021).
+Embora seja grande a probabilidade de anuência do reeducando, sua responsabilização não pode derivar de mera intuição. Não houve registro de provas ou indícios que sinalizassem a prévia solicitação da encomenda pelo detento. A responsabilização por ato de terceiro está lastreada, exclusivamente, em conjectura não respaldada por elemento concreto a indicar a ciência ou a participação do reeducando na conduta de terceiro.
+A propósito:
+ ..
+2. "Em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 25/4/2017).
+3. No caso, depreende-se dos autos que, no momento da entrega de um Sedex ao agravado, após a abertura e início da vistoria, foram encontrados 8 invólucros, em cujo interior estavam acondicionados 114,5g (cento e quatorze gramas e cinco decigramas) de maconha. A droga estava camuflada numa peça de salame.
+4. Na espécie, embora possam existir suspeitas de que o recorrido tenha solicitado a remessa do entorpecente ao presídio, não foram apresentadas provas concretas nesse sentido. A prova oral produzida, consistente no depoimento dos agentes penitenciários responsáveis pela apreensão do material tóxico, apenas evidencia a materialidade do crime, não havendo nenhum indicativo efetivo de sua participação na infração.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 782.812/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023)
+ ..
+1. No caso, consta que "durante a realização dos procedimentos de verificação das correspondências destinadas aos sentenciados, foi constatado que havia 04 (quatro) chips de aparelho de telefonia celular da marca Tim, em meio à muçarela que estava no interior da caixa de Sedex", sendo "que na correspondência constava como remetente Jonathan Amaro de Oliveira, irmão do agravante, cadastrado em seu rol de visitantes" (fls. 51-52). Contudo, na linha de precedentes desta Corte, tais elementos revelam-se insuficientes para a caracterização da falta grave em questão, na medida em que não evidenciam, com a segurança necessária, a concreta participação ou colaboração do reeducando para a consumação da conduta vedada, efetivamente praticada por terceira pessoa.
+2. Esta "Corte Superior de Justiça firmou entendimento no sentido de que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/4/2017, DJe de 25/4/2017).
+3. Agravo regimental improvido.
+(AgRg no HC n. 772.420/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/3/2023, DJe de 24/3/2023)
+À vista do exposto, concedo a ordem de habeas corpus, para cassar a decisão que reconheceu a prática de falta disciplinar de natureza grave pelo paciente e, em consequência, afastar seus consectários legais.
+Publique-se e intimem-se.
+EMENTA
