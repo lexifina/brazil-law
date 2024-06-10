@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  OBRIGAÇÃO  DE  FAZER.  CUMPRIMENTO  DE  SENTENÇA.  IMPUGNAÇÃO.  BLOQUEIO  DE  ATIVOS  FINANCEIROS.  INEXIGIBILIDADE.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  SÚMULA  Nº  284/STF.  ASTREINTES.  REVISÃO.  VALOR.  SÚMULA  Nº  7/STJ.
+1.  Não  pode  ser  conhecido  o  recurso  especial  que  não  traz  impugnação  específica  dos  pressupostos  do  acórdão  recorrido,  atraindo  a  incidência,  por  analogia,  da  Súmula  nº  283/STF.
+2.  É  evidente  a  deficiência  na  fundamentação  recursal  quando  a  linha  argumentativa  invocada  pela  parte  se  mostra  divorciada  das  premissas  assentadas  pelo  acórdão  recorrido.  Incidência  da  Súmula  nº  284/STF.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  no  sentido  de  que  a  revisão  da  multa  cominatória  em  recurso  especial  somente  se  dá  nos  casos  em  que  ela  se  mostre  irrisória  ou  exorbitante,  em  flagrante  ofensa  aos  princípios  da  razoabilidade  e  proporcionalidade  que  justifique  a  não  aplicação  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SÃO  FRANCISCO  SISTEMAS  DE  SAÚDE  SOCIEDADE  EMPRESÁRIA  LTDA.  contra  a  decisão  (e-STJ  fls.  231/234 )  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+Naquela  oportunidade,  concluiu-se  pela  (i)  aplicação  das  Súmulas  nºs  283  e  284/STF,  e  (ii)  incidência  da  Súmula  nº  7/STJ.
+Nas  presentes  razões  ( e-STJ  fls.  238/362 ),  a  agravante  requer  o  afastamento  do  óbice  da  Súmula  nº  7/STJ  e  alega  que  impugnou  de  forma  específica  e  suficiente  em  suas  razões  recursais,  merecendo  o  recurso  em  questão  ser  conhecido  e  provido.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  OBRIGAÇÃO  DE  FAZER.  CUMPRIMENTO  DE  SENTENÇA.  IMPUGNAÇÃO.  BLOQUEIO  DE  ATIVOS  FINANCEIROS.  INEXIGIBILIDADE.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  SÚMULA  Nº  284/STF.  ASTREINTES.  REVISÃO.  VALOR.  SÚMULA  Nº  7/STJ.
+1.  Não  pode  ser  conhecido  o  recurso  especial  que  não  traz  impugnação  específica  dos  pressupostos  do  acórdão  recorrido,  atraindo  a  incidência,  por  analogia,  da  Súmula  nº  283/STF.
+2.  É  evidente  a  deficiência  na  fundamentação  recursal  quando  a  linha  argumentativa  invocada  pela  parte  se  mostra  divorciada  das  premissas  assentadas  pelo  acórdão  recorrido.  Incidência  da  Súmula  nº  284/STF.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  no  sentido  de  que  a  revisão  da  multa  cominatória  em  recurso  especial  somente  se  dá  nos  casos  em  que  ela  se  mostre  irrisória  ou  exorbitante,  em  flagrante  ofensa  aos  princípios  da  razoabilidade  e  proporcionalidade  que  justifique  a  não  aplicação  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Verifica-se  que  não  merece  guarida  a  pretensão  recursal  no  que  diz  respeito  ao  afastamento  das  Súmulas  nºs  283  e  284/STF.
+Com  efeito,  o  tribunal  local,  ao  decidir  a  controvérsia,  assim  se  pronunciou:
+"(..)
+O  recurso  não  comporta  provimento.
+Isto  porque,  o  agravante  não  demonstrou  a  inconsistência  do  cálculo  elaborado  pelo  exequente.
+Com  efeito,  a  fls.  33/35  dos  autos  principais  foi  deferida  a  tutela  de  urgência  para  determinar  que  a  ré  custeie  o  exame  prescrito  ao  autor,  nos  moldes  da  prescrição  médica,  no  prazo  de  até  vinte  dias,  sob  pena  de  multa  diária  de  R$  1.000,00  (mil  reais)  limitada  a  R$  50.000,00  (cinquenta  mil  reais).
+O  agravante  foi  intimado  para  cumprimento  da  obrigação  em  24  de  julho  de  2021,  conforme  fls.  44  dos  autos  principais,  encerrando-se  o  prazo  para  cumprimento  da  obrigação  em  13  de  agosto  de  2021.
+Contudo,  o  agravante  não  comprovou  o  cumprimento  da  tutela  de  urgência,  sendo,  de  rigor,  a  condenação  ao  pagamento  da  multa  arbitrada  em  R$  50.000,00  (cinquenta  mil  reais).
+Registre-se,  outrossim,  que  houve  a  prolação  de  sentença  de  parcial  procedência,  que  confirmou  a  tutela  de  urgência  anteriormente  deferida.
+No  mais,  como  bem  ponderou  em  sua  manifestação  a  Douta  Procuradoria  Geral  de  Justiça  que  utilizo  como  razão  de  decidir:
+"A  recalcitrância  no  comprimento  da  tutela  coercitiva,  especialmente  diante  da  importância  do  bem  da  vida  tratado  na  demanda,  traz  como  solução  eficaz  justamente  a  possibilidade  de  o  cumprimento  ser  realizado,  quando  possível,  por  terceiro  à  custa  do  devedor.  De  fato,  em  se  tratando  de  questão  relacionada  à  cobertura  de  plano  de  saúde,  mostra-se  relevante  a  possibilidade  de  a  parte  lograr  acesso  efetivo  do  tratamento  necessário,  abreviando  discussões  processuais  relacionadas  à  forma  de  imposição  da  tutela  coercitiva  que,  ademais,  muitas  vezes  acaba  desvirtuando  o  propósito  da  lide,  à  vista  de  valores  que  suplantam  em  muito  a  quantia  necessária  para  cumprimento  da  obrigação.
+Se  o  exercício  da  tutela  sub-rogatória  é  admitido  em  obrigação  de  fazer,  natural  que  o  devedor  seja  instado  a  antecipar  a  respectiva  contraprestação,  sem  que  isso  represente  ofensa  ao  art.  520,  IV,  CPC,  vez  que  o  numerário  não  é  vertido  para  o  devedor,  mas  para  satisfação  da  tutela  de  urgência  que  não  se  submete  a  efeito  suspensivo  (art.  1012,  V,  CPC).
+Consequentemente,  mantendo-se  inerte  o  devedor,  só  resta  a  alternativa  de  bloqueio  de  ativos  financeiros  suficientes  para  tal  finalidade.
+Afinal,  antes  de  se  chegar  a  esta  derradeira  forma  de  cumprimento  da  obrigação,  quedou-se  inerte  o  devedor  em  satisfazer  pessoalmente  a  ordem  judicial  estribada  em  sede  de  cognição  exauriente."  (verbis,cfr.  fls.100)"  (e-STJ  fls.  147/148  -  grifou-se).
+Nesse  contexto,  os  fundamentos  do  referido  julgado  não  foram  objeto  de  impugnação  pela  agravante,  atraindo  a  incidência  da  Súmula  nº  283/STF,  aplicada  por  analogia:  "(..)  É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles."
+Confira-se:
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL.  AGRAVO  DE  INSTRUMENTO.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  N.  283/STF.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  COMPROVAÇÃO.  NÃO-REALIZAÇÃO  DO  COTEJO  ANALÍTICO.
+1.  A  ausência  de  impugnação  dos  fundamentos  do  acórdão  recorrido  que  são  suficientes  para  mantê-lo  enseja  o  não-conhecimento  do  recurso.  Incidência  da  Súmula  n.  283  do  STF.
+(..)
+3.  Agravo  regimental  desprovido"  (AgRg  no  Ag  1.109.816/DF,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  4/6/2009,  DJe  15/6/2009).
+Assim,  encontrando-se  as  razões  recursais  dissociadas  dos  fundamentos  do  julgado  atacado,  incide  o  disposto  na  Súmula  nº  284/STF.
+A  propósito:
+"AGRAVO  INTERNO.  AGRAVO.  RAZÕES  RECURSAIS  DISSOCIADAS  DO  QUE  RESTOU  DECIDIDO  NA  DECISÃO  AGRAVADA.  SÚMULAS  283  E  284/STF.  AGRAVO  IMPROVIDO.
+1.-  Estando  as  razões  do  Agravo  Interno  dissociadas  do  que  restou  decidido  na  Decisão  agravada,  é  inadmissível  o  recurso  por  deficiência  na  sua  fundamentação.  Incidência,  por  analogia,  das  Súmulas  283  e  284  do  Supremo  Tribunal  Federal.
+2.-  Agravo  Regimental  improvido"  (AgRg  no  AREsp  279.074/RS,  Rel.  Ministro  SIDNEI  BENETI,  Terceira  Turma,  julgado  em  19/3/2013,  DJe  25/4/2013).
+Ademais,  quanto  ao  art.  537  do  Código  de  Processo  Civil,  o  qual  a  recorrente  aponta  contrariedade  por  entender  exorbitante  o  valor  da  astreintes,  ressalta-se  que  a  jurisprudência  do  Superior  Tribunal  de  Justiça  é  no  sentido  de  que  a  revisão  dessa  multa  em  recurso  especial  somente  se  dá  nos  casos  em  que  ela  se  mostre  irrisória  ou  exorbitante,  em  flagrante  ofensa  aos  princípios  da  razoabilidade  e  proporcionalidade  que  justifique  a  não  aplicação  da  Sumula  nº  7/STJ.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  OBRIGAÇÃO  DE  FAZER.  CUMPRIMENTO  DE  SENTENÇA.  ASTREINTES.  DESPROPORCIONALIDADE  RECONHECIDA.  REDUÇÃO  DO  QUANTUM.  CABIMENTO.  PRECLUSÃO.  COISA  JULGADA.  NÃO  SUBMISSÃO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  jurisprudência  do  STJ  é  pacífica  no  sentido  de  que  o  valor  ou  a  periodicidade  da  multa  cominatória  prevista  no  art.  537  do  NCPC  pode  ser  alterado  pelo  magistrado  a  qualquer  tempo,  até  mesmo  de  ofício,  quando  irrisório  ou  exorbitante,  não  havendo  falar  em  preclusão  ou  ofensa  à  coisa  julgada.
+2.  O  entendimento  do  Tribunal  a  quo  está  em  harmonia  com  a  jurisprudência  desta  eg.  Corte  no  sentido  de  que  o  exame  do  valor  atribuído  às  astreintes  pode  ser  revisto  em  hipóteses  excepcionais,  quando  for  verificada  a  exorbitância  da  importância  arbitrada  em  relação  à  obrigação  principal,  em  flagrante  ofensa  aos  princípios  da  razoabilidade  e  da  proporcionalidade.
+3.  No  caso,  a  agravada  cumpriu  com  atraso,  mas  integralmente,  a  ordem  judicial,  uma  vez  que  excluiu  a  restrição  lançada  em  nome  do  agravante  por  suspeita  de  envolvimento  em  crime  de  roubo.  Dessa  forma,  não  merece  reforma  o  entendimento  da  Corte  de  origem,  que  diminuiu  o  valor  máximo  fixado  a  título  de  astreintes,  do  montante  de  R$60.000,00  (sessenta  mil  reais)  para  R$5.000,00  (cinco  mil  reais),  máxime  porque  as  astreintes  não  devem  constituir  via  geradora  de  enriquecimento  indevido.
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  nos  EDcl  no  REsp  2.104.125/MG,  Relator  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  4/3/2024,  DJe  de  11/3/2024).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  CUMPRIMENTO  DA  OBRIGAÇÃO.  REVISÃO.  IMPOSSIBILIDADE.  INCIDÊNCIA  DA  SÚMNULA  7/STJ.  ASTREINTES.  REDUÇÃO  DE  MULTA  VENCIDA.  PRECLUSÃO  E  COISA  JULGADA.  NÃO  INCIDÊNCIA.  REVISÃO  DO  VALOR.  POSSIBILIDADE.  SÚMULA  83/STJ.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Não  ficou  configurada  a  violação  aos  arts.  489  e  1.022  do  CPC/2015,  uma  vez  que  o  Tribunal  de  origem  se  manifestou  de  forma  fundamentada  sobre  todas  as  questões  necessárias  para  o  deslinde  da  controvérsia.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.
+2.  Modificar  o  entendimento  do  Tribunal  local,  acerca  do  exato  cumprimento  do  acordo,  incorrerá  em  reexame  de  matéria  fático-probatória,  o  que  é  inviável,  devido  ao  óbice  da  Súmula  7/STJ.
+3.  Com  efeito,  a  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que  a  decisão  que  fixa  a  multa  cominatória  não  preclui  nem  faz  coisa  julgada  material,  podendo  ser  revista  a  qualquer  tempo,  quando  verificada  a  insignificância  ou  exorbitância  dos  valores  arbitrados.
+4.  Além  disso,  "o  art.  537,  §  1º,  do  Código  de  Processo  Civil  de  2015  não  se  restringe  somente  à  multa  vincenda,  pois,  enquanto  houver  discussão  acerca  do  montante  a  ser  pago  a  título  da  multa  cominatória,  não  há  falar  em  multa  vencida"  (AgInt  no  REsp  1.846.190/SP,  relator  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  20/4/2020,  DJe  de  27/4/2020).
+5.  Agravo  interno  improvido"  (AgInt  no  AREsp  2.401.413/RJ,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  4/3/2024,  DJe  de  8/3/2024).
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
