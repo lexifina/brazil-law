@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PREVIDÊNCIA  PRIVADA.  HORAS  EXTRAS.  RESERVA  MATEMÁTICA.  RECOMPOSIÇÃO.  PRÉVIA.  NECESSIDADE.  COMPENSAÇÃO.  POSSIBILIDADE.  ART.  85,  §  2º,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  DECISÃO  CONDICIONAL.  NÃO  CABIMENTO.  SUCUMBÊNCIA.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  A  discussão  dos  autos  versa  acerca  da  possibilidade  de  incluir  nos  proventos  da  aposentadoria  complementar  as  horas  extras  reconhecidas  na  Justiça  do  Trabalho.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  admite  a  inclusão  dos  reflexos  de  verbas  remuneratórias  reconhecidas  na  Justiça  laboral  desde  que  haja  a  recomposição  prévia  e  integral  da  reserva  matemática,  a  ser  apurada  em  cálculo  atuarial,  na  fase  de  liquidação  de  sentença,  ocasião  em  que  também  será  verificada  a  possibilidade  de  compensação  de  valores.
+3.  A  análise  do  quantitativo  em  que  autor  e  réu  saíram  vencedores  ou  vencidos  na  demanda,  bem  como  da  existência  de  sucumbência  mínima  ou  recíproca,  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+4.  Não  se  pode  condicionar  o  pagamento  de  honorários  sucumbenciais  a  evento  futuro  e  incerto.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CAIXA  DE  PREVIDÊNCIA  DOS  FUNCIONÁRIOS  DO  BANCO  DO  BRASIL  contra  a  decisão  que  negou  provimento  ao  recurso  especial  (e-STJ  fls.  1.449/1.455).
+Nas  presentes  razões  (e-STJ  fls.  1.466/1.480),  a  agravante  defende  que  o  direito  ao  recebimento  das  diferenças  se  trata  de  mera  expectativa  de  direito.
+Afirma  que
+"(..)  qualquer  mudança  na  remuneração  passada  dos  participantes,  reconhecida  posteriormente  em  ação  trabalhista,  impacta  gravemente  as  reservas  técnicas  constituídas,  com  consequente  reflexo  no  plano  de  custeio  comum  a  todos  os  participantes  e  a  patrocinadora.  Em  decorrência  desse  fato,  revela-se  impossível  a  inclusão  de  horas  extras  no  benefício  concedido  de  forma  retroativa,  tendo  em  vista  que  esses  valores  não  foram  considerados  nos  cálculos  atuariais,  não  foram  considerados  para  fins  de  apuração  da  reserva  matemática  do  plano  e,  portanto,  não  foram  considerados  no  cálculo  do  custeio"  (e-STJ  fl.  1.473).
+Por  fim,  entende  que
+"(..)  a  Previ  não  pode  ser  considerada  como  parte  vencida,  uma  vez  que  a  condenação  da  entidade  só  será  concretizada  após  a  realização  do  aporte  prévio  da  reserva  matemática  que  ainda  não  ocorreu.  Pois  o  critério  da  sucumbência,  calçado  no  fato  da  derrota  processual  não  se  mostra  adequado  para  a  correta  atribuição  da  responsabilidade  pelo  ônus  da  sucumbência,  devendo  ceder  o  princípio  da  causalidade"  (e-STJ  fl.  1.477).
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  ou  a  submissão  do  feito  ao  colegiado.
+Devidamente  intimadas,  as  partes  contrárias  apresentaram  impugnação  às e-STJ  fls.  1.483/1.485.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PREVIDÊNCIA  PRIVADA.  HORAS  EXTRAS.  RESERVA  MATEMÁTICA.  RECOMPOSIÇÃO.  PRÉVIA.  NECESSIDADE.  COMPENSAÇÃO.  POSSIBILIDADE.  ART.  85,  §  2º,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  DECISÃO  CONDICIONAL.  NÃO  CABIMENTO.  SUCUMBÊNCIA.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  A  discussão  dos  autos  versa  acerca  da  possibilidade  de  incluir  nos  proventos  da  aposentadoria  complementar  as  horas  extras  reconhecidas  na  Justiça  do  Trabalho.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  admite  a  inclusão  dos  reflexos  de  verbas  remuneratórias  reconhecidas  na  Justiça  laboral  desde  que  haja  a  recomposição  prévia  e  integral  da  reserva  matemática,  a  ser  apurada  em  cálculo  atuarial,  na  fase  de  liquidação  de  sentença,  ocasião  em  que  também  será  verificada  a  possibilidade  de  compensação  de  valores.
+3.  A  análise  do  quantitativo  em  que  autor  e  réu  saíram  vencedores  ou  vencidos  na  demanda,  bem  como  da  existência  de  sucumbência  mínima  ou  recíproca,  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+4.  Não  se  pode  condicionar  o  pagamento  de  honorários  sucumbenciais  a  evento  futuro  e  incerto.
+5.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Consta  dos  autos  que  o  autor,  ora  agravado,  obteve,  na  Justiça  trabalhista  o  reconhecimento  judicial  de  horas  extras  trabalhadas  e  busca  com  a  presente  demanda  os  reflexos  da  complementação  de  aposentadoria  que  recebe  da  Caixa de Previdência dos Funcionários do Banco do Brasil ,  ora  agravante.
+Acerca  do  tema,  a  jurisprudência  do  Superior  Tribunal  de  Justiça  é  pacífica  no  sentido  de  que  os  valores  reconhecidos  pela  Justiça  do  Trabalho  a  título  de  horas  extras  devem  integrar  o  cálculo  da  complementação  de  aposentadoria,  sendo  necessária,  para  a  manutenção  do  equilíbrio  econômico-atuarial,  a  prévia  recomposição  da  reserva  matemática,  com  o  aporte,  a  ser  vertido  pelo  participante,  de  valor  a  ser  apurado  por  estudo  técnico  atuarial  em  cada  caso.
+A  propósito:
+"PROCESSO  CIVIL.  AGRAVO  INTERNO.  RAZÕES  QUE  NÃO  ENFRENTAM  O  FUNDAMENTO  DA  DECISÃO  AGRAVADA.  PREVIDÊNCIA  PRIVADA.  REFLEXO  DE  VERBAS  TRABALHISTAS.  RECOMPOSIÇÃO  PRÉVIA  DA  RESERVA  MATEMÁTICA.  DETERMINAÇÃO  DA  SENTENÇA.  LIQUIDAÇÃO.  NECESSIDADE.
+1.  As  razões  do  agravo  interno  não  enfrentam  adequadamente  o  fundamento  da  decisão  agravada.
+2.  A  necessidade  de  recomposição  prévia  e  integral  da  reserva  matemática,  conforme  previsão  da  sentença,  a  fim  de  viabilizar  a  preservação  do  salário  de  participação  em  virtude  dos  reflexos  das  horas-extras  reconhecidas  no  processo  trabalhista,  demanda  estudo  técnico  atuarial,  a  ser  realizado  em  liquidação  de  sentença.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AgInt  no  AREsp  924.596/DF,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  6/3/2023,  DJe  de  10/3/2023).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PREVIDENCIÁRIO  E  PROCESSUAL  CIVIL.  PREVIDÊNCIA  COMPLEMENTAR.  HORAS  EXTRAS.  REFLEXOS.  PREVI.  PREVISÃO  REGULAMENTAR.  REEXAME  DE  MATÉRIA  FÁTICA  E  INTERPRETAÇÃO  DE  CLÁUSULA  CONTRATUAL.  IMPOSSIBILIDADE.  SÚMULAS  5  E  7  DO  STJ.  MATÉRIA  DECIDIDA  NO  JULGAMENTO  DO  RESP  1.312.736/RS,  SOB  O  RITO  DOS  REPETITIVOS  (TEMA  955/STJ).  MODULAÇÃO.  POSSIBILIDADE  DE  RECÁLCULO  DO  BENEFÍCIO  EM  AÇÕES  JÁ  AJUIZADAS.  CONDICIONAMENTO  À  EXISTÊNCIA  DE  PREVISÃO  REGULAMENTAR  (EXPRESSA  OU  IMPLÍCITA)  E  À  PREVIA  E  INTEGRAL  RECOMPOSIÇÃO  DA  RESERVA  MATEMÁTICA,  COM  O  APORTE  DE  VALOR  A  SER  APURADO  POR  ESTUDO  TÉCNICO  ATUARIAL,  EM  LIQUIDAÇÃO  DE  SENTENÇA.  ENTENDIMENTO  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE.  AUSÊNCIA  DE  ARGUMENTO  CAPAZ  DE  ALTERAR  O  JULGADO.  MANUTENÇÃO  DA  DECISÃO  AGRAVADA.
+AGRAVO  INTERNO  DESPROVIDO"  (AgInt  no  AREsp  1.719.460/RJ,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  20/6/2022,  DJe  de  22/6/2022).
+Por  fim,  conforme  já  asseverado  na  decisão  recorrida,  a  revisão  da  distribuição  da  sucumbência  e  do  valor  arbitrado  se  trata  de  matéria  eminentemente  fática,  o  que  exige  o  reexame  do  conjunto  fático-probatório  dos  autos,  procedimento  inviável  na  estreita  via  do  recurso  especial  devido  ao  óbice  da  Súmula  nº  7/STJ.
+Além  disso,  a  alegação  de  que  a  parte  autora  pode  ou  não  optar  em  recompor  a  reserva  matemática  resulta  em  decisão  condicional  ,  o  que  não  encontra  respaldo  no  ordenamento  jurídico  vigente.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PREVIDENCIÁRIO  E  PROCESSUAL  CIVIL.  PREVIDÊNCIA  COMPLEMENTAR.  HORAS  EXTRAS.  REFLEXOS.  PREVI.  MATÉRIA  DECIDIDA  NO  JULGAMENTO  DO  RESP  1.312.736/RS,  SOB  O  RITO  DOS  REPETITIVOS  (TEMA  955/STJ).  MODULAÇÃO.  RECOMPOSIÇÃO  DA  RESERVA  MATEMÁTICA.  ENTENDIMENTO  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE.  ARTIGOS  368  E  369  DO  CC.  TESE  NÃO  PREQUESTIONADA.  AUSÊNCIA  DE  EMBARGOS  DE  DECLARAÇÃO  PARA  SANAR  EVENTUAL  OMISSÃO.  APLICAÇÃO  DAS  SÚMULAS  NºS  282  E  356/STF.  HONORÁRIOS.  DECISÃO  CONDICIONAL.  IMPOSSIBILIDADE.  DISTRIBUIÇÃO  DO  ÔNUS  DE  SUCUMBÊNCIA.  HONORÁRIOS.  REVISÃO.  SÚMULA  Nº  7/STJ.  AGRAVO  DESPROVIDO"  (AgInt  no  AREsp  1.933.961/DF,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  3/4/2023,  DJe  de  27/4/2023).
+Assim,  as  razões  do  presente  agravo  são  insuficientes  para  reformar  a  decisão  agravada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
