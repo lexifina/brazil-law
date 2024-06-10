@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/06/2024 a 10/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO. PENHORA DE BEM IMÓVEL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS NAS RAZÕES DO APELO NOBRE. SÚMULA N. 283 DO STF. ALEGAÇÃO DE QUE O IMÓVEL NÃO PODE SER PENHORADO PORQUE SE TRATA DE BEM DE FAMÍLIA. INVERSÃO DO JULGADO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nas razões do apelo nobre não foram impugnados todos os fundamentos do acórdão recorrido que conduziram à conclusão de que o imóvel penhorado não é bem de família. Incidência da Súmula n. 283 do STF.
+2. O Tribunal a quo concluiu não ter sido comprovado que o imóvel sobre o qual recaiu a penhora é bem de família, condição essa que resultaria no afastamento da citada constrição. A inversão do julgado encontra óbice na Súmula nº 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por GUTEMBERG ADRIAN DE OLIVEIRA contra decisão da Min. Assusete Magalhães que conheceu do respectivo agravo em recurso especial para não conhecer do apelo nobre (fls. 727-731).
+Consta dos autos que o Juízo de primeiro grau não acolheu a impugnação à penhora ajuizada pela parte agravante.
+O Tribunal a quo negou provimento ao agravo de instrumento (fls. 633-640).
+Os embargos de declaração opostos foram rejeitados (fls. 654-656).
+Sustentou o Agravante, nas razões do apelo nobre, contrariedade ao art. 1º da Lei n. 8.009/90; ao art. 1.712 do Código Civil; bem como ao art. 832 do Código de Processo Civil.
+Alegou que a renda obtida com o aluguel do imóvel penhorado é revertida para o sustento da família do Agravante e, por conseguinte, o citado bem deve ser considerado impenhorável.
+Aduziu que o imóvel, a despeito de estar alugado a terceiros, é o único bem de família pertencente ao Agravante e, nessas condições, não é possível recair sobre ele o instituto da penhora, nos termos da legislação de regência.
+Foram apresentadas contrarrazões (fls. 679-684). O recurso especial não foi admitido (fls. 692-693). Foi interposto agravo (fls. 696-701).
+A Ministra Assusete Magalhães, por meio da decisão de fls. 727-731, conheceu do agravo em recurso especial para não conhecer do apelo nobre.
+Nas razões do agravo interno (fls. 737-747), o Agravante assevera que, ao contrário do consignado no decisum agravado, o fundamento do acórdão recorrido apontado não é apto a, por si só, manter as conclusões do acórdão proferido pelo Tribunal de origem, razão pela qual, não é aplicável, à espécie, a Súmula n. 283 do STF.
+Pondera que as teses veiculadas no apelo nobre são eminentemente de direito. Portanto, a solução da lide não demanda nova incursão no acervo fático-probatório acostado aos autos, sendo incabível a incidência da Súmula n. 7 do STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO. PENHORA DE BEM IMÓVEL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS NAS RAZÕES DO APELO NOBRE. SÚMULA N. 283 DO STF. ALEGAÇÃO DE QUE O IMÓVEL NÃO PODE SER PENHORADO PORQUE SE TRATA DE BEM DE FAMÍLIA. INVERSÃO DO JULGADO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nas razões do apelo nobre não foram impugnados todos os fundamentos do acórdão recorrido que conduziram à conclusão de que o imóvel penhorado não é bem de família. Incidência da Súmula n. 283 do STF.
+2. O Tribunal a quo concluiu não ter sido comprovado que o imóvel sobre o qual recaiu a penhora é bem de família, condição essa que resultaria no afastamento da citada constrição. A inversão do julgado encontra óbice na Súmula nº 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 636-640; sem grifos no original):
+Busca o agravante o reconhecimento da impenhorabilidade do bem imóvel localizado na Rua João Paulo Braido Silva, nº 51, Vila Rehder, Aguaí/SP, sob o argumento de ser bem de família, já que o imóvel em comento seria o local de sua residência.
+Entretanto, as provas constantes dos autos indicam realidade fática diversa.
+ ..
+O agravante, entretanto, não fez provas de quaisquer desses fatos, limitando-se, a bem da verdade, a alegar genericamente que "o imóvel levado à penhora perante este D. Juízo destina-se exclusivamente para fins de moradia do executado e sua família, tratando-se, destarte, de bem de família" e que haveria descrição do imóvel feita por oficial de justiça na qual teria constado que "nos imóveis acima descritos encontra-se edificada uma casa residencial, com frente para a Rua João Paulo Braido, sob o nº 51, contendo 3 dormitórios com suíte, sala de estar, sala de jantar, copa/cozinha, lavabo, escritório, closet, dispensa  sic , garagem, edícula, área gurmet  sic , piscina, playground e varanda." (ambas as firmações a fls. 459 dos autos principais).
+ ..
+Daí que o fato das contas de energia elétrica e de saneamento básico do imóvel estarem em nome do agravante não são suficientes para demonstrar sua efetiva residência na localidade. Cabia a ele demonstrar os fatos constitutivos de seu direito, sob pena de não se desvencilhar de seu ônus probatório (art. 373, I, CPC).
+As provas trazidas pelo Ministério Público, por outro lado, não deixam dúvidas de que o agravante não reside no imóvel. Afinal, como bem apontado pelo parquet, o ora agravante, no curso destes autos, teve por duas vezes intimações frustradas no endereço do imóvel que se busca penhorar, tendo as cartas sido devolvidas com a rubrica "mudou-se" (fls. 378, em maio/2020, e fls. 447, em março/2021) do que se denota não ser aquele lugar o de sua residência.
+Também causa estranheza o fato de não ter sido declinado endereço residencial na inicial do presente recurso de agravo de instrumento, tendo tal campo sido deixado em branco pelo agravante (fls. 01 destes autos). E, ainda que tenha sido declinado o endereço do imóvel objeto da ação na procuração acostada aos autos na fase de conhecimento, datada de 2015 (fls. 1.489 dos autos da ação na fase de conhecimento), é certo que posteriormente àquela data sobrevieram as intimações acima indicadas, na qual foi relatada a mudança de endereço.
+No mais, é fato que sequer restou demonstrado que o imóvel em questão se encontrava alugado quando do ajuizamento do cumprimento de sentença (30/04/2020, fls. 03 dos autos principais), do pedido de constrição patrimonial feito pelo parquet (08/10/2020, fls. 406 dos autos principais), da data de realização da pesquisa para fins de penhora (15/12/2020, fls. 407 dos autos principais) ou mesmo da data de oferecimento da impugnação a penhora (09/06/2021, fls. 464 dos autos principais).
+O contrato trazido a estes autos (fls. 541/550 do agravo de instrumento) data de 28/07/2021, o que demonstra claros indícios da tentativa de se burlar o regime executório, escudando-se o agravante no anteparo legal do bem de família.
+ ..
+Por fim, é de se notar que o próprio agravante colacionou, junto à inicial deste recurso, jurisprudência referente a outra ação civil pública na qual ele próprio figurou como réu e no bojo da qual se discutiu a possibilidade de penhora do mesmo imóvel objeto deste recurso. E, naquela ocasião, também se entendeu não residir ele no imóvel, tendo o agravante apresentado os mesmos argumentos ora trazidos neste recurso.  ..
+O acórdão recorrido, quanto à tese de pretensa impenhorabilidade do imóvel por ser bem de família, está assentado nos seguintes fundamentos, cada qual suficiente, por si só, para dar suporte à conclusão do Tribunal de origem: a) o Agravante não comprovou que reside no imóvel; e b) não foi provado que o bem estaria alugado para o sustento da família.
+Todavia, a parte agravante deixou de impugnar os seguintes fundamentos (fls. 638-640):
+ ..  é fato que sequer restou demonstrado que o imóvel em questão se encontrava alugado quando do ajuizamento do cumprimento de sentença (30/04/2020, fls. 03 dos autos principais), do pedido de constrição patrimonial feito pelo parquet (08/10/2020, fls. 406 dos autos principais), da data de realização da pesquisa para fins de penhora (15/12/2020, fls. 407 dos autos principais) ou mesmo da data de oferecimento da impugnação a penhora (09/06/2021, fls. 464 dos autos principais).
+O contrato trazido a estes autos (fls. 541/550 do agravo de instrumento) data de 28/07/2021, o que demonstra claros indícios da tentativa de se burlar o regime executório, escudando-se o agravante no anteparo legal do bem de família.
+Portanto, incide o óbice da Súmula n. 283 do STF. Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+No mais, o Tribunal de Justiça do Estado de São Paulo, soberano quanto ao exame do conjunto fático probatório acostado aos autos, concluiu que o Agravante não logrou êxito em comprovar que o imóvel sobre o qual recaiu a penhora é bem de família, condição essa que resultaria no afastamento da citada constrição. Portanto, a inversão do julgado demandaria, necessariamente, em reexame das provas e fatos que instruem o caderno processual, desiderato esse incabível na via estreita do recurso especial, o que encontra óbice na Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. AUSÊNCIA DE PROVAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+2. No caso dos autos, o Tribunal de origem concluiu pela ausência de comprovação de que o imóvel era impenhorável nos termos da Lei 8.009/1990. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência no caso em questão a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.030.272/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 283 DO STF.
+1. É firme a orientação do Superior Tribunal de Justiça no sentido de que a doação de bem imóvel pelos pais a descendente, quando em trâmite demanda capaz de reduzi-los à insolvência, configura fraude à execução (AgInt no REsp n. 1.576.822/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/5/2018, DJe de 1/6/2018.)
+2. Rever o acórdão recorrido e acolher a pretensão recursal quanto à comprovação da impenhorabilidade do imóvel demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+ ..
+Agravo interno improvido. (AgInt no AREsp n. 2.086.873/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
