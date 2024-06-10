@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUCAS TIAGO PROCOPIO E DIEGO LUIZ FERNANDES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.24.224755-9/000).
+Depreende-se dos autos que os pacientes encontram-se presos preventivamente pela suposta prática dos crimes tipificados nos arts. 155, § 4º, II e IV, c/c o art. 14, II, e 288, todos do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 72):
+"HABEAS CORPUS". FURTO QUALIFICADO TENTADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. PRESENÇA DOS REQUISITOS FÁTICOS (ARTIGO 312 DO CPP) E INSTRUMENTAL (ARTIGO 313, I, DO CPP) DA MEDIDA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS FATOS APURADOS. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA APLICAÇÃO DA LEI PENAL. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. DESCABIMENTO. CONDIÇÕES PESSOAIS. IRRELEVÂNCIA.
+1. Tendo sido os agentes presos preventivamente pela suposta prática dos delitos de furto qualificado tentado e associação criminosa, presentes a prova da materialidade delitiva e os indícios suficientes de autoria, inexiste constrangimento ilegal na decisão que, fundamentadamente, decretou as segregações cautelares, visando a garantir a ordem pública.
+2. O princípio do estado de inocência, estatuído no artigo 5º, LVII, da Constituição da República, não impede a manutenção das prisões provisórias quando presentes os requisitos dos artigos 312 e 313 do CPP.
+3. O Código de Processo Penal preconiza, de forma expressa, o princípio da proporcionalidade, composto por dois outros, quais sejam: adequação e necessidade.
+4. A prisão preventiva, espécie de medida cautelar é exceção na sistemática processual, dando, o quanto possível, promoção efetiva ao princípio constitucional da não-culpabilidade. Todavia, embora medida extrema, a segregação cautelar pode ser determinada sempre que presentes os requisitos exigidos pelo Código de Processo Penal.
+5. Sendo a pena máxima cominada ao delito de furto qualificado superior a quatro anos, é admissível a manutenção das segregações provisórias, tendo em vista, sobretudo, a gravidade concreta dos fatos apurados e o risco de reiteração delitiva, bem como para assegurar a aplicação da Lei Penal.
+7. Não se mostrando adequadas e suficientes, no caso concreto, as medidas cautelares diversas da prisão não poderão ser aplicadas, mormente quando presentes os requisitos para a manutenção das prisões preventivas.
+8. As condições pessoais favoráveis dos pacientes, mesmo quando comprovadas nos autos, por si sós, não garantem eventual direito de responder ao processo em liberdade, quando a necessidade das segregações se mostra patente como forma de garantia da ordem pública.
+Neste writ, a defesa alega ser "ilegal a adoção na íntegra da fundamentação do Ministério Público como razão de decidir sem que haja qualquer fundamento adicional formulado pelo Juízo competente" (e-STJ fl. 5) e pontua que o decreto prisional carece de fundamentação idônea.
+Sustenta que, no caso, não se encontram presentes os requisitos autorizadores da custódia, nos termos do art. 312 do Código de Processo Penal.
+Afirma ser suficiente a aplicação de outras medidas cautelares, consoante o disposto no art. 319 do citado diploma processual.
+Dessa forma, requer, liminarmente, a suspensão dos efeitos da decisão que decretou a prisão preventiva dos pacientes, com as revogações das custódias, sem prejuízo da aplicação de medidas alternativas, e as expedições dos competentes alvarás de soltura . No mérito, postula a confirmação da liminar.
+É o relatório.
+Decido.
+Verifica-se que essas questões já foram suscitadas no HC n. 914.612/MG, tendo a impetração sido indeferida liminarmente em decisão de minha lavra e que transitou em julgado em 28/5/2024 .
+Dessa forma, o presente writ constitui mera reiteração de pedido formulado em habeas corpus anteriormente distribuído, providência vedada pela jurisprudência desta Corte Superior. No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDOS JÁ FORMULADOS NO HABEAS CORPUS N. 701.258/RS, PREVIAMENTE IMPETRADO NO STJ. DESCABIMENTO. CONTEMPORANEIDADE. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO.
+1. Não há falar em ofensa ao princípio da colegialidade, em razão de se ter negado provimento ao recurso por meio de decisão unipessoal, pois o art. 210 do RISTJ dispõe que, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+3. No caso, a fundamentação da segregação cautelar já foi analisada no writ previamente impetrado perante esta Corte Superior de Justiça, tendo sido por mim asseverado que o delito  foi  cometido com notas de execução, com envolvimento de facções criminosas e que os agentes apresentam diversidade de antecedentes criminais, o que representa fundamento concreto para a manutenção da prisão cautelar.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 161.267/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MERA REITERAÇÃO DE MANDAMUS JÁ JULGADO POR ESTA CORTE SUPERIOR. INADMISSIBILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANÁLISE DE INSURGÊNCIA CONTRA SEUS PRÓPRIOS JULGADOS. AGRAVO DESPROVIDO.
+1. Os pedidos aqui formulados são idênticos aos formulados no HC 700.113/PR, o qual, não foi conhecido em decisão por mim proferida em 16/10/2021, após o que foram rejeitados os embargos de declaração opostos. Verifica-se que ambas as impetrações se insurgem contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0010907-90.2018.8.16.0031 e trazem as mesmas alegações.
+2. Esta Corte Superior não é competente para julgamento das insurgências contra seus próprios julgados, razão pela qual não há falar em conhecimento da impugnação relativa ao julgamento do HC 700.113/PR.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.916/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022 , grifei.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
