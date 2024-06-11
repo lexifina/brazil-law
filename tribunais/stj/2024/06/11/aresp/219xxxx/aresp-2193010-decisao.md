@@ -1,0 +1,37 @@
+DECISÃO
+T rata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 1.120/1.122).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 1.011):
+APELAÇÃO CÍVEL - PRESTAÇÃO DE CONTAS - CONTA CORRENTE - DEVER DE PRESTAR CONTAS CONFIGURADO - EXTRATOS - SUCUMBÊNCIA - PARTE VENCIDA - A apresentação dos extratos bancários não exime as Instituições Financeiras da prestação de contas pleiteada pelos clientes, de forma a satisfazer dúvidas que por ventura decorram da relação existente. - A parte vencida na segunda da fase da ação de prestação de contas é que arca com as custas e os honorários da sucumbência.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.049/1.052).
+Nas razões do recurso especial (e-STJ fls. 1.058/1.062), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, II e IV, e 1.022, I e II, do CPC/2015, porque (e-STJ fls. 1.064/1.066):
+ ..  o r. acórdão ora combatido simplesmente acolheu o valor do saldo apontado pela Recorrida, quando, neste caso, deveria ser observado o rito do artigo 551, §1º e 2º do Código de Processo Civil, devolvendo os autos à origem para oportunizar ao Banco ora Recorrente responder a Impugnação da ora Recorrida, e o disposto no artigo 550, §6º, também do CPC, se fosse o caso, determinando perícia.
+ ..  omitiu-se o acórdão sobre o Parecer Técnico 2019 - 4511 e seus anexos ("Parecer") apresentado pelo Banco recorrente às fls. 577/810 dos autos de origem, que concluiu pela inexistência de saldo credor,  ..
+omitiram-se, ainda, de enfrentar que não restaram atendidos pela Recorrida os requisitos do artigo 551, §1", do CPC, tampouco do §3" do artigo 550 do mesmo códex, vez que, após a apresentação do referido Parecer pela Recorrente, a Recorrida limitou-se a juntar aos autos Impugnação completamente genérica (fls. 813/815), deixando de impugnar as contas apresentadas pelo Banco, de forma fundamentada e especifica, já que não fez qualquer referência aos lançamentos impugnados;
+(ii) arts. 9º, 10, 437, § 1º, 550, §§ 1º, 5º e 6º, 551, §§ 1º, 2º do CPC e 5º, LIV, e LV, da CF, pois (e-STJ fls. 1.071/1.073):
+ ..  apresentadas as contas pelo réu - o ora Recorrente - (fls. 573/808) e havendo impugnação especifica e fundamentada pelo autor - a ora Recorrida - que deverá ser instruída com os documentos justificativos, especificando-se as receitas, a aplicação das despesas e os investimentos, se houver, bem como o respectivo saldo, deve o juiz estabelecer prazo razoável para que o réu apresente os documentos justificativos dos lançamentos individualmente impugnados pelo autor.  ..
+O r. acórdão recorrido ignorou completamente o Parecer Técnico 2019 - 4511 e seus anexos ("Parecer"), apresentado pelo Recorrente às fls. 577/810 dos autos, o qual contém a justificação dos Lançamentos bancários da conta corrente da Recorrida, demonstrando a sua origem e licitude e concluindo pela inexistência de saldo credor  ..
+No agravo (e-STJ fls. 1.125/1.147), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.155/1.160).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou quanto à alegação de apresentação de parecer técnico e que a impugnação da parte recorrida foi genérica (e-STJ fls. 1.009/1.010):
+A discussão foi delimitada pela apelante desde o início da lide, com identificação específica dos lançamentos, o período e a ausência de suposto contrato que embasasse esses lançamentos.
+Por sua vez, o banco limitou-se a apresentar um parecer técnico (fl. 581/5586) e os extratos bancários (fl. 610/810) reconhecendo que os lançamentos foram realizados, sem esclarecer a origem contratual desses lançamentos.
+ ..  Fica claro, pelas provas produzidas, que os lançamentos efetivamente foram efetuados na conta corrente, mas não foram prestadas contas, limitando-se a entrega dos extratos bancários do período. A simples disponibilização de extratos bancários e apresentação deles nos autos não representa prestação de contas acerca dos lançamentos efetuados em conta corrente  ..
+O Banco não colacionou ao feito nenhum documento justificativo dos lançamentos (débitos) insertos nos extratos bancários, ônus que lhe incumbia, a teor do que dispõe o art. 551, § 1º, do CPC.
+Assim, não podem ser consideradas como boas as contas apresentadas pelo banco, pois a simples apresentação dos extratos bancários, sem satisfazer a dúvida existente sobre a origem dos lançamentos e as suas bases contratuais, não representa prestação de contas acerca dos lançamentos ocorridos na conta corrente da apelante.
+Complementou nos aclaratórios (e-STJ fl. 1.051):
+ ..  o manuseio dos presentes embargos possui nítido caráter de inconformismo com o que restou decidido, posto que é vedado a embargante discutir, por meio de contrarrazões, eventual descumprimento do art. 551, § 1º e art. 550, § 6º, ambos do Código de Processo Civil, já que existe na legislação processual em vigor recurso apropriado para tal finalidade.
+A respeito da alegada omissão, assim decidiu o órgão colegiado "O Banco não colacionou ao feito nenhum documento justificativo dos lançamentos (débitos) insertos nos extratos bancários, ônus que lhe incumbia, a teor do que dispõe o art. 551, § 1º, do C P C. Assim, não podem ser consideradas como boas as contas apresentadas pelo banco, pois a simples apresentação dos extratos bancários, sem satisfazer a dúvida existente sobre a origem dos lançamentos e as suas bases contratuais, não representa prestação de contas acerca dos lançamentos ocorridos na conta corrente da apelante".
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Conforme visto, o Tribunal de origem concluiu ser vedado à parte discutir o descumprimento dos arts. 550, § 6º, e 551, § 1º, do CC/2015 por meio das contrarrazões de apelação.
+Contudo, no recurso especial, apontando contrariedade aos dispositivos citados, a parte sustenta somente que deveria ter sido oferecido prazo razoável para a apresentação de documentos.
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido, especialmente de que deveria ter sido apresentado outro recurso. Incide, portanto, a Súmula n. 283 do STF.
+Consta nos autos que o Tribunal de origem concluiu que o banco não prestou adequadamente as contas, considerando insuficientes o parecer técnico e os extratos bancários.
+Modificar o entendimento do acórdão impugnado quanto à ausência de provas e de cumprimento do seu ônus pelo art. 551, § 1º, do CPC/2015, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois na origem a verba honorária foi estabelecida no percentual legal máximo (e-STJ fl. 1.010).
+Publique-se e intimem-se.
+EMENTA
