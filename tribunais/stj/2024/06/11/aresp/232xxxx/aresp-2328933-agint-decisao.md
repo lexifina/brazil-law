@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão de fls. 165-166.
+Em razões de agravo interno, sustenta a parte agravante a existência de fato novo, uma vez que a matéria tratada no recurso especial está afetada para julgamento sob o rito dos recursos repetitivos.
+Ademais, argumenta que impugnaram especificamente todos os fundamentos da decisão agravada.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Tendo em conta as razões expendidas, reconsidera-se a decisão de 165-166, e-STJ e passa-se a nova análise do recurso.
+In casu, observa-se que a irresignação do recurso especial encontra-se com afetada à sistemática dos recursos repetitivos - Tema 1190 - (Recursos Especiais 1.203.118/SP e 2.029.675/SP, 2.029.636/SP e 2.030.855/SP), cuja tese encontra-se delimitada nos seguintes: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV" (ProAfR no REsp 2.031.118/SP, Relator Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, j.21/03/2023).
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que faculte às instâncias de origem o exercício do juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC/2015. Nesse sentido: AgInt no REsp 1.833.016/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.4.2020; REsp 1.864.760/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17.4.2020; REsp 1825441/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 18.3.2020; e REsp 1.834.832/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.12.2019.
+Ante o exposto, torno sem efeito a decisão de fls. 165-166, e-STJ e, em juízo de retratação, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que após a publicação do acórdão do respectivo Recurso Representativo da Controvérsia: a) negue seguimento ao Recurso, se a decisão recorrida coincidir com a orientação emanada pelo STJ, ou b) proceda ao juízo de retratação na hipótese de o aresto recorrido divergir da tese firmada no julgamento da matéria com repercussão geral reconhecida (arts. 1.039,1.040, incs. I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUIZO DE RETRATAÇÃO EXERCIDO. RESTITUIÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE FIQUE SOBRESTADO ATÉ O JULGAMENTO DEFINITIVO DA MATÉRIA SUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS (TEMA 1.190/STJ).
