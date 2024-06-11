@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIO PAULO CESTAROLLI contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 194-195):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. AGRAVO RECÁLCULO DA RENDA MENSAL INICIAL. DIREITO ADQUIRIDO. INEXISTÊNCIA.
+I - Tendo a parte autora deixado de exercitar seu direito à aposentadoria em outubro de 1982, optando por continuar no seu labor até atingir tempo suficiente a ensejar-lhe a concessão do benefício com um coeficiente maior, inclusive com a percepção do abono de permanência em serviço, não há que se falar em ofensa ao direito adquirido, com o fito de retroagir o período-básico-de-cálculo para beneficiar-se dos reajustes que ocorreram no lapso entre 10/82 e 01/87 (DIB da aposentadoria).
+II - Agravo da parte autora interposto na forma do artigo 557, V", do Código de Processo Civil improvido.
+Os embargos de declaração foram rejeitados.
+No recurso especial (fls. 216-228), fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente relata que se aposentou por tempo de serviço em 01/01/1987, mas que havia adquirido o direito à aposentadoria ainda em 18/10/1982. Entretanto, apenas após formalizar sua aposentadoria, descobriu que teria sido mais vantajoso aposentar na data em que adquiriu o direito ao benefício, ou seja, em 1982.
+Interposta a ação, o magistrado de primeira instância entendeu haver ato jurídico perfeito em relação ao ato de concessão de aposentadoria e negou provimento ao pedido, em decisão que foi mantida pelo tribunal a quo na forma da ementa supratranscrita.
+Assevera que ao assim decidir o Tribunal a quo violou os artigos 128 e 131 do CPC/1973.
+Argumenta que houve violação ao artigo 128 porquanto a pretensão deduzida na inicial foi no sentido de haver direito adquirido ao melhor benefício, enquanto o julgado entendeu haver ato jurídico perfeito, julgando a questão, no seu entender, fora da delimitação da controvérsia.
+Alega, ainda, violação ao §1º do art. 557 do CPC/1973, porquanto a decisão monocrática teria sido proferida irregularmente em confronto com a Súmula 359 do Supremo Tribunal Federal.
+Por fim, aponta dissídio jurisprudencial com julgado deste STJ (REsp 601.226/RJ), segundo o qual, o fato de o segurado continuar trabalhando não é óbice ao reconhecimento do direito adquirido ao melhor benefício.
+Sem contrarrazões, o feito foi sobrestado para posterior adequação ao Tema Repetitivo n. 951 (fls. 233).
+Ante a notícia de cancelamento da afetação do tema, o feito foi admitido às fls. 242-244.
+Nesta e. Corte havia proferido a decisão monocrática de fls. 253-257, a qual posteriormente, anulei ante a constatação de que o autor e o causídico haviam falecido no curso do processo, motivo pelo qual seria necessário nova decisão de admissibilidade.
+Na instância ordinária houve a sucessão do polo ativo e a constituição de novo causídico, bem como a republicação da decisão de admissibilidade.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Do que se observa do relatório, o Tribunal a quo entendeu que não assiste direito ao recorrente em rever seu benefício porquanto optando por continuar no seu labor até atingir tempo suficiente a ensejar-lhe a concessão do benefício com um coeficiente maior, inclusive com a percepção do abono de permanência em serviço, não há que se falar em ofensa ao direito adquirido, com o fito de retroagir o período-básico-de-cálculo para beneficiar-se dos reajustes que ocorreram no lapso entre 10/82 e 01/87 (DIB da aposentadoria).
+Observo que referida decisão foi proferida ainda no ano de 2010.
+Ocorre que a matéria tratada no recurso especial - direito ao melhor benefício - teve a sua repercussão geral reconhecida pelo Supremo Tribunal Federal nos autos do RE 630501 (Tema 334/STF), e não houve juízo de retratação em relação ao referido Tema.
+Assim, cabível a devolução para juízo de retratação.
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI 9.494/97. RE 870.947. REPERCUSSÃO GERAL RECONHECIDA (TEMA 1.170/STF). EXEGESE DOS ARTS. 1.040 E 1.041 DO CPC/2015. DEVOLUÇÃO DOS AUTOS E SOBRESTAMENTO DO RECURSO ESPECIAL NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. O Supremo Tribunal Federal, ao apreciar o RE 1.317.982/ES, Relator Ministro Luiz Fux, DJe de 27/10/2021, reconheceu a repercussão geral da matéria relativa à "validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810), na execução de título judicial que tenha fixado expressamente índice diverso" - Tema 1.170/STF.
+2. Em recursos versando sobre temas submetidos ao rito da repercussão geral, o STF tem determinado o retorno dos processos para os Tribunais de origem, para aguardar o julgamento do recurso extraordinário representativo da controvérsia. A propósito: ARE 1.244.038 AgR-segundo-EDv-AgR-ED, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 10/12/2020; ARE 1.144.360 AgR-ED, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 19/02/2019; e ARE 1.181.843 AgR-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe 23/6/2020.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, a fim de que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC/2015. (EDcl nos EDcl no AgInt no AgInt nos EDcl no AREsp n. 1.818.966/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe
+de 9/6/2022.).
+In casu, tratando-se de causa de pedir idêntica ao assunto afetado sob a sistemática dos recursos repetitivos, é adequado determinar o retorno dos autos para juízo de retratação em observância dos arts. 1.039 e 1.040 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja aplicada a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DIREITO AO MELHOR BENEFÍCIO. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (TEMA 344/STF). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.039 E 1.040 DO CPC/2015).
