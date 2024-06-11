@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLEUSA DILETA SOTTILI VALCARENGHI (CLEUSA) de ERMES VALCARENGHI (ERMES) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, CLEUSA e ERMES alegaram a violação dos arts. 85, § 2º, 292, IV, e 1.013, § 1º, do CPC, ao sustentarem que (1) o Tribunal de origem não poderia apreciar o valor da causa porque não foi objeto de apelação, mas apenas de requerimento formulado nas respectivas contrarrazões; (2) o valor da causa, na ação de demarcação, deve ser o montante da avaliação do imóvel, e não o valor venal para o cálculo do IPTU, e (3) é necessária a majoração da verba honorária.
+(1) Da inviabilidade do pedido formulados nas contrarrazões
+CLEUSA e HERMES apontaram a ofensa ao art. 1.013, § 1º, do CPC, defendendo que o Tribunal de origem não poderia reapreciar a matéria referente ao valor da causa, pois este não foi objeto de apelação, mas apenas de requerimento formulado nas respectivas contrarrazões.
+Sobre o tema, o Tribunal de origem consignou que (i) não houve preclusão com relação ao valor da causa, e (ii) deve ser acolhido o pedido formulado nas contrarrazões, para atribuir à causa o importe de R$ 22.346,25, confira-se:
+Todavia, em sede de contrarrazões apresentou a parte recorrida pedido de "reforma da decisão e pela atribuição do valor da causa em R$ 22.346,00 (vinte e dois mil, trezentos e quarenta e seis reais)".  ..
+Não há falar portanto, com sucesso, em preclusão da questão relativa ao valor da causa, vez que a decisão a propósito proferida na origem não se adequava a quaisquer dos incisos do artigo1.015 do Código de Processo Civil, vale dizer contra ela não se permitindo o manejo de agravo de instrumento. Justamente por conta do afirmado no parágrafo anterior este Tribunal de Justiça não conheceu de agravo de instrumento no ponto onde se pretendeu tratar acerca do valor da causa e, senão o fez, fácil concluir pela inocorrência da alegada preclusão.
+Observe-se que o legislador não apontou para o "valor da área", referindo-se ao "valor da avaliação", que não se deve compreender a judicial pelas razões expostas no parágrafo anterior.
+Há nos autos "declaração" de pessoa que se identifica como corretora imobiliária (evento68, informação 92) afirmando que imóveis nas proximidades do em litígio apresentam "valor de mercado estimado" que varia entre R$ 150,00 e R$ 170,00 o metro quadrado. Presente, também, documento subscrito por auditor de tributos do município de Chapecó(evento 14, informação 38) dando conta de ser a área em questão "não mecanizável" e "inapta ao cultivo"..
+Sopesados o primeiro e o segundo documentos referidos, há que se considerar que este foi subscrito por servidor público no uso de suas atribuições legais, trazendo assim consigo presunção de veracidade quanto ao seu conteúdo, enquanto aquele não detém esta característica, além de apresentar valores considerando "imóveis nas proximidades" e não em específico aquele objeto da demanda, nada dizendo quanto a ser "não mecanizável" e "inapto ao cultivo".
+Assim sendo e tendo em especial conta que a razão do documento oficial apontado converge para a mesma pertinente à valoração da causa (aspecto tributário), é de se acolher a pretensão apresentada em sede de contrarrazões para se restabelecer o valor da causa em R$22.346,25. (e-STJ, fls. 704-705)
+Ademais, concluiu que não há como acolher o pedido feito na apelação nos moldes em que lá formulado, vez que o pretendido era a fixação de verba reparatória em percentual sobre o valor da causa anterior (e-STJ, fl. 705).
+Em sentido contrário, esta Corte Superior possui jurisprudência consolidada de que as contrarrazões são o meio adequado para impugnar os fundamentos do recurso interposto, não sendo apropriadas para postular a reforma da decisão.
+Confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGADA OFENSA AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO VERIFICADA. MATÉRIAS ARGUIDAS PELA DEFESA NAS CONTRARRAZÕES AO RECURSO DE APELAÇÃO INTERPOSTO PELO MINISTÉRIO PÚBLICO. PRETENSÃO DE REFORMA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. REGIME INICIAL SEMIABERTO. INADEQUADO. RÉU REINCIDENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, as contrarrazões são cabíveis apenas para impugnar os fundamentos de eventual recurso interposto pela parte contrária, com o intuito de manter a sentença exarada, mostrando-se como via inadequada para pleitear a reforma da decisão, consoante o princípio do tantum devolutum quantum appellatum (EDcl no REsp 1.584.898/PE, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 10/8/2016).
+ ..
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 2.035.615/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DA APELAÇÃO SUSCITADA EM RECURSO ESPECIAL ADESIVO. RECURSO PRINCIPAL INADMITIDO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO NOS PRÓPRIOS AUTOS. PRECLUSÃO. ART. 997, § 2º, DO CPC. ÓBICE DA INTEMPESTIVIDADE DO APELO REITERADO EM CONTRARRAZÕES AO RECURSO ESPECIAL. SEDE INADEQUADA. GUIA DE RECOLHIMENTO DO PREPARO DA APELAÇÃO. UTILIZAÇÃO DA MESMA GUIA PREENCHIDA PELA PARTE LITISCONSORTE. PAGAMENTO EM DUPLICIDADE. INGRESSO DOS VALORES NOS COFRES PÚBLICOS E POSSIBILIDADE DE SE VINCULAR A GUIA DE RECOLHIMENTO AO PROCESSO. FINALIDADE ATINGIDA. INSTRUMENTALIDADE DAS FORMAS. DESERÇÃO AFASTADA. PRECEDENTES.
+ ..
+2. Esta Corte Superior possui o entendimento de que "as contrarrazões são cabíveis apenas para impugnar os fundamentos de eventual recurso interposto, com o intuito de manutenção da decisão exarada, mostrando-se via inadequada para suscitar pedidos de reforma de decisão, consoante os princípios da non reformatio in pejus e do tantum devolutum quantum appellatum" (EDcl no REsp 1.584.898/PE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 02/08/2016, DJe de 10/08/2016).
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.215.213/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/10/2018, DJe de 29/10/2018)
+AGRAVO INTERNO. RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. PEDIDO DE REFORMA DA DECISÃO EM CONTRARRAZÕES. INVIABILIDADE. APLICAÇÃO DO PRINCÍPIO "tantum devolutum quantum appellatum" . SÚMULA Nº 83/STJ. PRECEDENTES.
+ ..
+2. Nos termos da jurisprudência desta Corte, "as contrarrazões são cabíveis apenas para impugnar os fundamentos de eventual recurso interposto, com o intuito de manutenção da decisão exarada, mostrando-se via inadequada para suscitar pedidos de reforma de decisão, consoante os princípios da non reformatio in pejus e do tantum devolutum quantum appellatum" (EDcl no REsp 1.584.898/PE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 2/8/2016, DJe de 10/8/2016).
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no REsp n. 1.670.027/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/4/2018, DJe de 18/4/2018)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele alterado.
+Todavia, como o Tribunal de origem apenas alterou o valor atribuído à causa sem apreciar as razões da apelação interposta pela recorrente, os autos devem retornar à origem para que o recurso seja devidamente apreciado, ficando prejudicada as demais questões.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial e determinar o retorno dos autos à origem para que analise o recurso de apelação como entender de direito, afastada a possibilidade de alteração do valor da causa.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DEMARCATÓRIA. ALTERAÇÃO DO VALOR DA CAUSA. PEDIDO FORMULADO NAS CONTRARRAZÕES. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. TESE NÃO APRECIADA PELO TRIBUNAL. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
