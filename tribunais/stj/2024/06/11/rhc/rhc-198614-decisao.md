@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por LEA NDRO DE CHICO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que não conheceu do HC n. 2054774-09.2024.8.26.0000, sob a seguine ementa (e-STJ fl. 274):
+HABEAS CORPUS: pleito de reconhecimento da ilegalidade da prisão temporária - declaração de nulidade da ação penal - afastamento - reiteração de pedido - pedido prejudicado - ORDEM NÃO CONHECIDA.
+No presente recurso, a defesa sustenta que o habeas corpus impetrado na origem não configura mera reiteração do pedido apreciado no HC n. 2326074-81.2023.8.26.000. Alega a ocorrência de nulidade na prisão do recorrente, ocorrida "fora do estado de flagrante e sem nenhum tipo de mandado de prisão" (e-STJ fl. 285). Assere que não foi observado o procedimento previsto no art. 226 do Código de Processo Penal. Aponta abuso de autoridade, crime contra a fé pública e fraude processual na atuação dos policiais. Diz que o recorrente permaneceu preso nas viaturas da polícia durante toda a madrugada do dia 11 para 12 de julho de 2023, até que foi juntado, no dia 12 de julho de 2023, às 09h20min, um "mandado de prisão temporária" muito estranho, pois já "pronto", com os dados escritos à mão.
+Ao final, requer seja conhecido e provido o presente recurso, a fim de que seja concedia a ordem para reconhecer as ilegalidades apontadas com o relaxamento da prisão ilegal do recorrente.
+O Ministério Público Federal opinou no sentido de que o recurso em habeas corpus seja tido por prejudicado em razão da perda do objeto, em parecer assim ementado (e-STJ fl. 306):
+PENAL E PROCESSUAL PENAL. ROUBO MAJORADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE JULGAMENTO DE APELAÇÃO. NOVO TÍTULO. PARECER NO SENTIDO DE QUE SEJA TIDO POR PREJUDICADO O RECURSO EM HABEAS CORPUS.
+É o relatório. Decido.
+Não obstante as razões deduzidas pela defesa, não vejo como dar seguimento ao presente recurso ordinário.
+Isso porque a irresignação manifestada no presente recurso ordinário constitui o mesmo objeto do Habeas Corpus n. 912.129/SP, distribuído a esta relatoria, impetrado em favor do ora recorrente pelo mesmo advogado (Dr. Flávio Rodrigues Gato - OAB/SP 488.878) e contra o mesmo acórdão impugnado (HC n. 2054774-09.2024.8.26.0000), havendo, pois, identidade de partes, causa de pedir e pedido.
+O referido mandamus não foi conhecido, cuja decisão transitou em julgado nesta Corte em 21/5/2024.
+Assim, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte Superior, motivo pelo qual o presente recurso ordinário não deve ser conhecido.
+Ao ensejo:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ILEGALIDADE DA BUSCA PESSOAL. ALEGADA AUSÊNCIA DE FUNDADAS SUSPEITAS. PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA E NULIDADE DA BUSCA PESSOAL REALIZADA. MERA REITERAÇÃO DE HABEAS CORPUS PRÉVIO. PROCESSAMENTO DE DOIS MEIOS DE IMPUGNAÇÃO. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. Inviável o processamento do recurso ordinário em habeas corpus que consiste em mera reiteração do HC nº 824.489/MG, já impetrado nesta Corte Superior, com as mesmas partes, pedido e causa de pedir.
+2. Por outro lado, a opção deste Relator para prosseguir com o processamento do habeas corpus deu-se em razão do princípio da economia processual, tendo em vista que, quando o recurso ordinário foi distribuído nesta Corte Superior em 26/5/2023, a liminar no habeas corpus já havia sido indeferida em decisão de 19/5/2023, estando o remédio constitucional em estágio mais avançado.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 181.626/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.) - negritei.
+Por fim, ainda que assim não fosse, destaca-se do parecer do Ministério Público Federal que (e-STJ fl. 307): Segundo consulta processual no sítio eletrônico do TJSP, a apelação interposta pela defesa foi julgada, tendo sido confirmada a condenação (cf. processo n. 1528124-60.2023.8.26.0050). O acórdão foi proferido em 8/5/2024, momento posterior à interposição do presente recurso ordinário (em 7/5/2024).
+Nesse viés, Com a superveniência do julgamento do recurso de apelação, fica prejudicado o recurso ordinário em habeas corpus anteriormente interposto, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual. Precedentes (AgRg no RHC n. 154.362/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022).
+Ante o exposto, não conheço do presente recurso ordinário.
+Intimem-se.
+EMENTA
