@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRANDE QUANTIDADE DE DROGAS. GRAVIDADE CONCRETA EVIDENCIADA. FUNDAMENTO IDÔNEO.
+1. A periculosidade e os riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental contra decisão monocrática que negou provimento ao recurso em habeas corpus.
+Em suas razões, a defesa reitera as alegações da inicial. Sustenta que o decreto preventivo fundamentou-se na gravidade abstrata do delito, com argumentação genérica, "sem demonstrar a necessidade da privação do seu direito ambulatorial" (fl. 166). Entende que, "Apesar de a quantidade de droga apreendida ser expressiva, não se verifica nenhum outro elemento no caso concreto que justifique a prisão". (fl. 168.)
+Busca a reconsideração para conhecimento do agravo e provimento do recurso, de modo a determinar a soltura imediata, ou a remessa do feito ao colegiado.
+Pretende ainda ser informado da data de julgamento, caso tenha interesse em proferir sustentação oral.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRANDE QUANTIDADE DE DROGAS. GRAVIDADE CONCRETA EVIDENCIADA. FUNDAMENTO IDÔNEO.
+1. A periculosidade e os riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga.
+2. Agravo regimental desprovido.
+VOTO
+Em relação ao interesse em proferir sustentação oral, informa-se que a data de eventual julgamento colegiado é comunicada na página do STJ, com até 48h de antecedência. A defesa deverá observar os procedimentos das sessões por videoconferência previstos na Resolução STJ/GP n. 19, de 27/8/2020. Por oportuno, informa-se ainda que, mediante cadastramento livre e gratuito no Sistema Push desta Corte Superior, são avisados todos os andamentos incluídos no feito, inclusive sua eventual inclusão para julgamento em mesa.
+No que interessa, assim dispôs a decisão impugnada:
+Busca a imediata concessão da liberdade provisória.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Na origem, a denúncia foi recebida em 8/4/2024, e designada audiência de instrução e julgamento para o dia 6/5/2024, consoante informações disponíveis no sistema PJe da Corte a quo (procedimento especial n. 8027938-73.2024.8.05.0001 - acesso em 15/4/2024).
+A prisão preventiva institui-se como mecanismo extremado, de aplicação excepcional, que se admite apenas nas hipóteses taxativas da legislação processual e somente quando não visualizado outro meio hábil de assegurar a aplicação da lei penal, a manutenção da ordem pública e econômica e o adequado fluxo dos atos de investigação e instrução.
+A medida cautelar foi assim fundamentada (fls. 56/57):
+ ..  Por sua vez, o periculum libertatis se encontra solidamente escorado na necessidade da segregação cautelar para a garantia da ordem pública, por conveniência da instrução penal e para assegurar a aplicação da lei penal, pelo menos, por ora, nessa fase inicial, em que se necessita ouvir as testemunhas apresentadas no APF. No âmbito da audiência de custódia, foge da competência deste juízo adentrar no mérito das alegações trazidas, quando não estão de plano confirmadas com os autos trazidos. Nesse sentido, entendo pela conversão da prisão em flagrante em prisão preventiva, uma vez que se comprovou a existência dos requisitos acima dispostos, além de o custodiado ter sido apreendido com relevante quantidade de entorpecente. No tocante às medidas cautelares alternativas à prisão, introduzidas pela referida lei (art. 319, do CPP), estas são incompatíveis com o caso dos autos, pelo menos nesse momento, uma vez que, nesse início da instrução processual, haveria certa dificuldade gerada à conveniência da própria instrução criminal. Diante do exposto e, atendendo a tudo mais que dos autos consta, com fundamento nos artigos 311, 312 e 313 do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA de Manoel Ricardo Silva Santos.
+Como se vê, a custódia preventiva foi decretada com esteio em fundamentação idônea, diante da "relevante quantidade de entorpecente" apreendida - 399g de maconha, 140g de cocaína e 154g de crack, totalizando 693g de substâncias ilícitas, consoante requerimento pela custódia formulado pelo MP estadual (fl. 51).
+Esta Corte entende que "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg nos EDcl no HC n. 739.988/MG, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 12/8/2022).
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A este respeito: HC n. 590.232/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020; AgRg no HC n. 576.598/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 30/6/2020; HC n. 362.727/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 26/4/2017.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Não vislumbro motivo para conclusão diversa.
+No caso, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos que evidenciam que a liberdade da agravante acarretaria risco à ordem pública, notadamente em razão da gravidade concreta do delito imputado, diante da apreensão de grande quantidade e variedade de entorpecentes, tratando-se de 399g de maconha, 140g de cocaína e 154g de crack, totalizando 693g de substâncias ilícitas.
+Nesse sentido, cito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+1. A validade da se gregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada pois, segundo a decisão que a impôs, o agravante foi flagrado com grande quantidade de substância entorpecente - a saber, 5g (cinco gramas) de cocaína e 8,367kg (oito quilos e trezentos e sessenta e sete gramas) de maconha. Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública. 3. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Agravo regimental desprovido. (AgRg no HC n. 845132/SP, relator Ministro Antonio Saldanha, Sexta Turma, julgado em 18/12/2023, DJe de 21/12/2023)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
