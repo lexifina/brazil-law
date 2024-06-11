@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º DA LEI 11.343/2006. MULA. QUANTIDADE DA DROGA UTILIZADA NA PRIMEIRA E TERCEIRA FASES DA DOSIMETRIA PARA MODULAR A FRAÇÃO REDUTORA. BIS IN IDEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A condição de mula, isoladamente considerada, sem a colação de fundamentos concretos que indiquem a vinculação dos agravados com a organização criminosa, não é condição obrigatória para a imposição da fração de redução de pena em patamar diverso do máximo permitido, (ut, AgRg nos EDcl no REsp n. 2.004.090/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023)
+2. No caso concreto, a quantidade da droga apreendida foi utilizada na primeira fase, não podendo ser utilizada novamente na terceira fase para modular a fração redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, sob pena de bis in idem.
+3. Agravo não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 650/653, de minha relatoria, em que neguei provimento ao recurso especial tendo em conta a impossibilidade de se considerar a condição de mula, por si só, para aplicar a fração redutora do tráfico privilegiado em seu patamar mínimo. Ficou consignado na decisão que a quantidade da droga fora utilizada na primeira fase da dosimetria, e portanto, não poderia ser novamente empregada na terceira fase para modular a fração redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, sob pena de bis in idem.
+O agravante se insurge contra essa decisão alegando que a atuação da agravada como "mula" autoriza a fração redutora do privilégio em seu patamar mínimo. Salienta que a condição de "mula" atinente ao agente traficante implica na fixação da fração redutora no mínimo legal de 1/6 (um sexto).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º DA LEI 11.343/2006. MULA. QUANTIDADE DA DROGA UTILIZADA NA PRIMEIRA E TERCEIRA FASES DA DOSIMETRIA PARA MODULAR A FRAÇÃO REDUTORA. BIS IN IDEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A condição de mula, isoladamente considerada, sem a colação de fundamentos concretos que indiquem a vinculação dos agravados com a organização criminosa, não é condição obrigatória para a imposição da fração de redução de pena em patamar diverso do máximo permitido, (ut, AgRg nos EDcl no REsp n. 2.004.090/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023)
+2. No caso concreto, a quantidade da droga apreendida foi utilizada na primeira fase, não podendo ser utilizada novamente na terceira fase para modular a fração redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, sob pena de bis in idem.
+3. Agravo não provido.
+VOTO
+O agravo regimental não merece acolhida.
+A condição de mula, isoladamente considerada, sem a colação de fundamentos concretos que indiquem a vinculação dos agravados com a organização criminosa, não é condição obrigatória para a imposição da fração de redução de pena em patamar diverso do máximo permitido, (ut, AgRg nos EDcl no REsp n. 2.004.090/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023). Ainda nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. DECISÃO AGRAVADA QUE FEZ INCIDIR O ART. 33, § 4º, DA LEI N. 11.343/06 EM FRAÇÃO DE 2/3. PLEITO MINISTERIAL PARA QUE SEJA AFASTADA A REFERIDA CAUSA DE DIMINUIÇÃO. IMPOSSIBILIDADE. NATUREZA E QUANTIDADE DE DROGAS, POR SI SÓS, NÃO SÃO HÁBEIS A COMPROVAR A DEDICAÇÃO DO AGRAVADO À ATIVIDADE CRIMINOSA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO NO PATAMAR MÁXIMO. NÃO CABIMENTO. NATUREZA E QUANTIDADE DE ENTORPECENTES APREENDIDOS FORAM VALORADOS NEGATIVAMENTE PARA EXASPERAR A PENA-BASE. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. A natureza e a quantidade da droga, por si sós, não constituem elementos hábeis a afastar o reconhecimento do tráfico privilegiado, notadamente pelo fato de a condição de "mula" do tráfico não induzir automaticamente à conclusão de que o recorrente integre organização criminosa ou que se dedique à atividade criminosa.
+2. A natureza e a quantidade de entorpecentes apreendidos já foram valoradas negativamente na primeira fase do cálculo dosimétrico para exasperar a pena-base, razão pela qual há de se aplicar efetivamente a fração de 2/3 na terceira fase da dosimetria, sob pena de bis in idem.
+3. Agravo regimental conhecido e desprovido. (AgRg no AgRg no AREsp n. 2.221.963/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 5/6/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. AFASTAMENTO. IMPOSSIBILIDADE. FUNDAMENTOS INERENTES AO TIPO PENAL. CONDIÇÃO DE "MULA" DO TRÁFICO. VALORAÇÃO DA NATUREZA E QUANTIDADE DE DROGA NA PRIMEIRA FASE DA DOSIMETRIA DA PENA. BIS IN IDEM CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o §4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, observa-se que as instâncias ordinárias concluíram pela dedicação às atividades criminosas apenas com base em elementos constitutivos da conduta de tráfico, pela qual o agravado já havia sido condenado, sem demonstrar de modo concreto a dedicação às atividades criminosas, mormente porque a ação descrita revela que seria ele "mula" do tráfico de drogas.
+3. Desta forma, não obstante a quantidade de droga apreendida em poder do agravado (25 kg de maconha), ela foi valorada na primeira etapa da dosimetria da pena, o que, aliado a sua primariedade e bons antecedentes, impõe a aplicação da minorante no patamar de 2/3, sob pena de bis in idem.
+4. Agravo regimental desprovido. (AgRg no HC n. 813.469/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+No caso concreto, o TJPR deu provimento ao apelo defensivo no ponto em que se pleiteava a aplicação da fração máxima do redutor do tráfico privilegiado, tendo com conta que a quantidade da droga já fora utilizada na primeira fase para exasperar a pena-base, em observância ao art. 42 da Lei n. 11.343/2006.
+Esta Corte possui entendimento pacífico no sentido de que "A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal" (Tese de Repercussão Geral n. 712).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
