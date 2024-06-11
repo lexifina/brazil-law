@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por NEYDE GUEDES DE OLIVEIRA e MARIA INES MOL, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+EMENTA - APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO - CONTRIBUIÇÃO SOCIAL DESTINADA AO CUSTEIO A SAÚDE - SERVIDORAS OCUPANTES DE DOIS CARGOS - DESCONTO SOBRE O VALOR TOTAL DA REMUNERAÇÃO - OBSERVÂNCIA DO COMANDO LEGAL - MODIFICAÇÃO POSTERIOR - LC 121/2011 - RESSALVA
+1. A redação original do art. 85 da Lei Complementar Estadual n. 64/2002 dispunha expressamente que a base de cálculo da contribuição para custeio dos serviços de saúde seria a remuneração global auferida pelo servidor.
+2. Esta previsão legitimava, portanto, o desconto sobre o somatório dos dois cargos então ocupados.
+3. As modificações impostas pela novel LC 121/2011 vão ao encontro da pretensão inicial, mas somente devem ser consideradas pela autarquia após a vigência da norma, a partir de 1º de janeiro do presente ano.
+4. Recurso a que se nega provimento.
+Os embargos de declaração foram rejeitados, com aplicação de multa.
+As recorrentes, apontando violação dos arts. 535, I e II, do CPC/1973 e 165 e 167 do CTN, sustentam: (i) a nulidade do acórdão recorrido, por negativa de prestação jurisdicional; (ii) o direito à repetição da contribuição à saúde cuja cobrança compulsória foi declarada inconstitucional pelo Supremo Tribunal Federal.
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Feita essa consideração, verifico que o presente recurso especial não supera o juízo de admissibilidade.
+Isso porque as suas razões, que defendem o direito à repetição de indébito da contribuição à saúde em face da inconstitucionalidade de sua cobrança compulsória, estão dissociadas da fundamentação consignada no acórdão recorrido, que decidiu acerca da base de cálculo dessa contribuição e, por conseguinte, da validade do desconto sobre os dois cargos ocupados pelas autoras.
+A esse respeito, vejamos a motivação consignada no acórdão recorrido:
+Quanto ao mérito, atenta leitura da peça inaugural e das razões recursais revela que as apelantes, detentoras de dois cargos públicos estaduais, pretendem ser eximidas do recolhimento da contribuição de assistência à saúde em relação a um dos "Cargos, sendo mantida, contudo, a prestação deste serviço nos mesmos moldes em que vem sendo feito.
+A questão a ser dirimida nesta demanda diz respeito à definição da base de cálculo da aludida contribuição, ressaltando-se que as apelantes pretendem a manutenção do serviço de assistência médica pelo IPSEMG, mediante desconto na remuneração de somente um de seus cargos.
+A redação original do art. 85 da Lei Complementar Estadual n. 64/2002 dispunha expressamente que a base de cálculo da contribuição seria a remuneração global auferida pelo servidor que, na espécie em exame, corresponderia ao somatório dos vencimentos e proventos dos dois cargos da recorrente, in verbis:
+ ..
+Assim, à vista deste regramento, compartilhava entendimento segundo o qual, cessados os descontos de 3,2% em relação a um dos cargos ocupados pelo servidor, não mais se manteria o direito de fruição dos serviços médicos e odontológicos relacionados a ambos os cargos, já que, com a diminuição do valor descontado, o valor pago passaria a estar aquém daquele fixado pela legislação para a devida contraprestação.
+Assim é que, até então, para que houvesse direito aos benefícios do sistema de saúde gerido pelo IPSEMG, em face de seu caráter contraprestacional, imprescindível a contribuição para o devido custeio no índice de 3,2% sobre a remuneração global do servidor, até o limite de vinte vezes o valor do vencimento mínimo estadual.
+ ..
+Sendo legítimos, dessa forma, os descontos em ambos os cargos, inviável a pretensão à devolução dos valores descontados anteriormente em relação a um dos cargos possuídos pelas servidoras.
+Tais quantias, destacadas nos contracheques dos servidores públicos sob a rubrica "IPSEMG", destinavam-se a garantir as despesas da assistência médica-hospitalar prestada pela referida autarquia estadual. E tal, por óbvio, ainda permanece, mesmo com as recentes alterações introduzidas pela novel LC 121/2011.
+O desconto realizado em folha de pagamento pelo Estado de Minas Gerais, e repassado ao IPSEMG, gera, em favor das servidoras, o direito ao usufruto dos serviços de saúde disponibilizado pela Autarquia estadual. Ressalte-se que, mesmo que tais préstimos não tenham sido utilizados pelas apelantes, a restituição dos valores descontados é indevida, uma vez que o serviço esteve, e continua a estar, à sua disposição.
+Assim é que, diante do caráter contraprestacional da assistência médico-hospitalar prestada pelo IPSEMG, a devolução dos valores descontados em montante especificado em lei implicaria o não pagamento dos serviços que estiveram à disposição das apelantes.
+Deve ser destacado que, in casu, as apelantes não pretendem se desvincular dos serviços de saúde do IPSEMG. O que elas pleiteiam é que sua contribuição incida somente sobre um dos cargos.
+Ora, se, até então, a LC 64/02, em sua redação original, previa o recolhimento da contribuição sobre a remuneração total do servidor, e este regramento revelava-se, a meu sentir, compatível com a interpretação dada pela Administração Pública ao proceder ao cálculo sobre ambos os cargos, o pedido das recorrentes, nos moldes acima expostos, não merece acolhida.
+Observa-se, no entanto, que, em 29 de dezembro de2011, foi editada a Lei Complementar 121, impondo significativas mudanças na LC 64/2002, no que tange ao sistema de recolhimento de contribuição e prestação dos serviços de saúde pela autarquia estadual.
+ ..
+Todavia, essa inovação, que vem ao encontro da pretensão inicial, somente deve ser observada após a vigência da lei, que se deu com sua publicação, no mês de janeiro de 2012.
+Assim, não obstante tal circunstância deva ser considerada neste julgamento, não implicará ela na pretendida condenação dos réus, considerando que a cobrança da contribuição sobre ambos os cargos das apelantes, até a edição da nova regra, possuía nítido embasamento legal.
+Ressalte-se, por fim, que o Instituto de Previdência deverá efetuar o desconto do custeio somente sobre o cargo com maior valor de remuneração ou proventos, adequando-se às modificações impostas pela LC 121/2011, somente a partir de 1º de janeiro de 2012.
+Importa destacar que essa fundamentação guarda pertinência com o pedido deduzido na exordial, de que, "ao final, sejam julgados procedentes os pedidos das Autoras, condenando-se o réu a realizar a suspensão definitiva dos descontos relativos à assistência médico/hospitalar e odontológica cobrada compulsoriamente sobre os vencimentos do seu 2º cargo pelos réus, mantida por opcão sobre a remuneracão/proventos do seu 1º ca rgo no percentual de 3%, mantendo-se a prestação da assistência médica/hospitalar/odontológica às Autoras".
+Patente, portanto, a deficiência da irresignação recursal, a ensejar a aplicação do óbice de conhecimento estampado na Súmula 284 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
