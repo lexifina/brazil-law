@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício de LUCAS HENRIQUE DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação n. 1503184-27.2020.8.26.0344.
+Extrai-se dos autos que o paciente foi condenado à pena de 2 anos e 11 meses de reclusão, no regime semiaberto, além do pagamento de 291 dias-multa, pela prática do delito previsto no art. 33, § 4º, c/c o art. 40, VI, ambos da Lei n. 11.343/2006 (tráfico privilegiado com causa de aumento da pena), sendo a pena privativa de liberdade substituída por duas restritivas de direitos, consistentes na prestação de serviço e limitação de fim de semana.
+O Tribunal de origem negou provimento à apelação interposta pelo ora paciente, por acórdão assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - Autoria e materialidade do delito comprovadas - Negativa do réu isolada - Conjunto probatório suficiente para manter a condenação pelo tráfico - Pena fixada com critério e corretamente - Regime prisional inicial semiaberto na hipótese de descumprimento da benesse conservado - Recurso não provido, com observação." (fl. 26)
+No presente writ, a defesa insurge-se contra a fixação do regime semiaberto para o cumprimento da pena, sob o argumento de ser inviável a aplicação de regime mais gravoso ao que teria direito, se considerado o quantum estabelecido na sentença condenatória, sob pena de afronta à orientação das Súmulas ns. 440 do Superior Tribunal de Justiça - STJ; 718 e 719 do Supremo Tribunal Federal - STF.
+Acrescenta que a imposição de regime mais gravoso ao condenado por tráfico privilegiado viola, ainda, a diretriz jurisprudencial da Súmula Vinculante n. 59 do STF e que a quantidade de droga, por si só, não tem o condão de afastar o regime aberto para o cumprimento da pena.
+Requer, assim, a concessão da ordem para que seja estabelecido o regime aberto para o cumprimento da pena.
+A liminar foi indeferida por decisão de fls. 40/41.
+As informações foram prestadas às fls. 47/72 e 77/82.
+O Ministério Público Federal - MPF emitiu parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. CRIME DE TRÁFICO DE DROGAS PRIVILEGIADO. FIXAÇÃO DE REGIME INICIAL ABERTO. POSSIBILIDADE. PENA-BASE FIXADA NO MÍNIMO LEGAL. INEXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. APLICAÇÃO DA SÚMULA VINCULANTE 59 DO STF. PRECEDENTES. PARECER PELO NÃO CONHECIMENTO DO WRIT E PELA CONCESSÃO DA ORDEM, DE OFÍCIO, PARA FIXAR O REGIME INICIAL ABERTO PARA O PACIENTE." (fl. 84)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do STF e do próprio STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Conforme relatado, busca-se, na presente impetração, a fixação do regime inicial aberto, o que deve ser deferido, em razão da primariedade da paciente, do quantum de pena aplicado (art. 33, § 2º, "c", do CP), da inexistência de circunstância judicial desfavorável (art. 59 do CP), conforme preconiza a Súmula Vinculante n. 59 do STF, que possui a seguinte dicção:
+"É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado e ausentes vetores negativos na primeira fase da dosimetria, observados os requisitos do art. 33, § 2º, alínea c e do art. 44, ambos do Código Penal".
+A corroborar esse posicionamento:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA EXIGIDA PELO ART. 244 DO CPP. AGRESSÕES DURANTE O FLAGRANTE. QUESTÃO CONTROVERTIDA. REVOLVIMENTO FÁTICO-PROBATÓRIO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. SÚMULA N. 231/STJ. MODULAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO FUNDAMENTADA. QUANTIDADE RELEVANTE. SÚMULA VINCULANTE N. 59. REGIME ABERTO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. "Com relação à busca veicular, sabe-se que esta Corte Superior a equipara à busca pessoal, e o art. 244 do CPP assevera que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar" (HC n. 691.441/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/4/2022, DJe de 26/4/2022.)
+2. No caso em questão, a abordagem se deu em razão do comportamento evasivo apresentado pelo paciente, haja vista que houve a desobediência a sinais sonoros e luminosos de parada, além da velocidade incompatível com a via, a evidenciar fundada suspeita, sem configurar flagrante ilegalidade.
+3. Não se verifica flagrante ilegalidade pela indicação de agressões sofridas no flagrante com a consequente nulidade da busca pessoal, pois, assim como demonstrado pela Corte de origem, a situação carece de dilação probatória e já foi oficiado o órgão responsável para avaliar a conduta empregada pelos policiais.
+4. Diante da Súmula n. 231/STJ, devidamente justificada a não diminuição da pena .
+5. Conforme o entendimento jurisprudencial, é viável a utilização da quantidade de droga para modular a fração de redução referente à minorante do tráfico privilegiado, de modo que a apreensão de 6,5kg de maconha pode conduzir à diminuição da pena em metade.
+6. A fixação da pena-base no mínimo, com incidência da minorante do tráfico privilegiado, com pena final de 2 anos e 6 meses de reclusão, pode conduzir ao regime aberto, conforme enunciado vinculante 59/STF.
+7. Agravo regimental parcialmente provido apenas para fixar o regime aberto.
+(AgRg no HC n. 867.685/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente do habeas corpus, mas concedo a ordem, de ofício, para fixar o regime aberto para o início de cumprimento da pena.
+Publique-se.
+Intimem-se.
+EMENTA
