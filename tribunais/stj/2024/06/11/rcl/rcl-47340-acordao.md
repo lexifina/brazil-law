@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial, por unanimidade, julgar procedente a reclamação, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. GARANTIA DA AUTORIDADE DE DECISÃO PROFERIDA POR ESTA CORTE SUPERIOR DE JUSTIÇA NOS AUTOS DA SLS 3.430/MA. RECLAMAÇÃO JULGADA PROCEDENTE.
+1. A reclamação é instrumento processual de caráter específico e de aplicação restrita. Nos termos do artigo 105, I, "f", da Constituição Federal, bem como do art. 187 do RISTJ, destina-se à preservação da competência do Tribunal e à garantia da autoridade das suas decisões.
+2. Nos autos da SS n. 3.430/MA, na qual se impugnava decisão do relator do Agravo Interno na Tutela Antecedente n. 825806-82.2022.8.10.0000, foi deferido o pedido "até que decidido, definitivamente, o mandado de segurança que questiona a lisura/legalidade do procedimento eleitoral para a mesa diretora da Câmara de Vereadores de Buriti Bravo, MA".
+3. De acordo com o disposto pelo art. 4º, § 9º, da Lei n. 8.437/92, "a suspensão deferida pelo Presidente do Tribunal vigorará até o trânsito em julgado da decisão de mérito na ação principal".
+4. Havendo o Juízo da Vara Única de Buriti Bravo/MA determinado o imediato cumprimento dos provimentos estipulados na sentença concessiva da segurança, com a realização de nova votação para eleição da nova Mesa Diretora da Câmara Municipal de Buriti Bravo/MA, impõe-se o acolhimento da reclamação para garantia da autoridade da decisão proferida.
+5. Reclamação julgada procedente.
+RELATÓRIO
+Trata-se de reclamação, com pedido de liminar, ajuizada por JONNIDIO AURELIO BEZERRA SANTOS, com base no art. 988, IV, do CPC e 187 do RISTJ, objetivando garantir a autoridade do decidido por esta Corte nos autos da Suspensão de Segurança n. 3.430/MA.
+Alega o reclamante que, conquanto tenha sido deferido pela Presidência do STJ o Pedido de Suspensão de Segurança, "até que decidido, definitivamente, o mandado de segurança que questiona a lisura/legalidade do procedimento eleitoral para a mesa diretora da Câmara de Vereadores de Buriti Bravo, MA", o Juízo da Vara Única de Buriti Bravo/MA proferiu a seguinte decisão nos autos do Mandado de Segurança n. 0801886-39.2022.8.10.0078:
+ ..  considerando a ausência de fundamento para a postergação do cumprimento da obrigação de fazer estabelecida na sentença de id. 110181852, determino a intimação da parte Impetrada para que, no prazo de 05 (cinco) dias, proceda com a realização de nova votação para eleição da nova Mesa Diretora da Câmara Municipal de Buriti Bravo/MA em conformidade com os dispositivos legais inerentes ao caso, em especial, em cumprimento às regras do Regimento Interno e Lei Orgânica Municipal.
+O descumprimento do presente, acarretará multa diária ser suportada pelo Impetrado no valor de R$ 10.000,00 (dez mil reais), a incidir a partir do primeiro dia subsequente após o término do prazo, limitando-se ao valor de R$ 300.000,00 (trezentos mil reais).
+Tal medida se ampara na garantia da efetividade da prestação jurisdicional e na preservação da ordem processual, assegurando-se, assim, a observância dos direitos e deveres das partes envolvidas no processo.
+Afirma que o juízo reclamado, ao limitar os efeitos da decisão desta Corte à prolação da sentença concessiva da segurança, desrespeitou o conteúdo do provimento que deferiu a contracautela até o trânsito em julgado, o que impede o cumprimento imediato da ordem, conforme estabelece o artigo 4º, § 9º, da Lei n. 8.437/1992.
+Sustenta que, "mesmo após a oposição de Embargos de Declaração, indicando a omissão sobre já haver nos autos notícia da Suspensão de Liminar deferida, vigente até o trânsito em julgado, e provocada pela contraparte para dar efeito à segurança, adveio decisão do r. Juízo da Vara Única de Buriti Bravo, que manifestamente desafia a autoridade desta c. Corte Superior" (fl. 9).
+Requer, liminarmente, a suspensão do cumprimento provisório da sentença até o trânsito em julgado do Mandado de Segurança n. 0801886-39.2022.8.10.0078.
+No mérito, pleiteia a confirmação da liminar para preservar a autoridade da decisão desta Corte.
+A decisão de fls. 490-493 deferiu o pedido de liminar a fim de determinar a suspensão dos efeitos da decisão reclamada .
+O Juízo reclamado prestou informações às fls. 497-501.
+Citados, os interessados não apresentaram contestação (fl. 540).
+O Ministério Público Federal se manifestou pela procedência do pedido, nos seguintes termos (fl. 536):
+DIREITO PROCESSUAL CIVIL. DECISÃO PROFERIDA NA SS 3430/MA. EFEITOS ATÉ O TRÂNSITO EM JULGADO DA AÇÃO PRINCIPAL. DESCUMPRIMENTO CONFIGURADO.
+- A decisão proferida em suspensão de segurança, quando não delimita marco temporal, tem efeitos até o trânsito em julgado da decisão de mérito na ação principal. Precedentes.
+- Assim, considerando que no caso dos autos ainda não houve o trânsito em julgado da ação principal, permanece vigente a determinação contida na SLS n. 3430/MA, o que impede o cumprimento provisório da sentença, de modo que a reclamação é procedente.
+- Parecer pela confirmação da liminar e procedência da reclamação.
+É o relatório.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. GARANTIA DA AUTORIDADE DE DECISÃO PROFERIDA POR ESTA CORTE SUPERIOR DE JUSTIÇA NOS AUTOS DA SLS 3.430/MA. RECLAMAÇÃO JULGADA PROCEDENTE.
+1. A reclamação é instrumento processual de caráter específico e de aplicação restrita. Nos termos do artigo 105, I, "f", da Constituição Federal, bem como do art. 187 do RISTJ, destina-se à preservação da competência do Tribunal e à garantia da autoridade das suas decisões.
+2. Nos autos da SS n. 3.430/MA, na qual se impugnava decisão do relator do Agravo Interno na Tutela Antecedente n. 825806-82.2022.8.10.0000, foi deferido o pedido "até que decidido, definitivamente, o mandado de segurança que questiona a lisura/legalidade do procedimento eleitoral para a mesa diretora da Câmara de Vereadores de Buriti Bravo, MA".
+3. De acordo com o disposto pelo art. 4º, § 9º, da Lei n. 8.437/92, "a suspensão deferida pelo Presidente do Tribunal vigorará até o trânsito em julgado da decisão de mérito na ação principal".
+4. Havendo o Juízo da Vara Única de Buriti Bravo/MA determinado o imediato cumprimento dos provimentos estipulados na sentença concessiva da segurança, com a realização de nova votação para eleição da nova Mesa Diretora da Câmara Municipal de Buriti Bravo/MA, impõe-se o acolhimento da reclamação para garantia da autoridade da decisão proferida.
+5. Reclamação julgada procedente.
+VOTO
+Estabelece o art. 105, I, "f", da Constituição Federal, que compete a este Superior Tribunal de Justiça processar e julgar, originariamente, a reclamação para a preservação de sua competência e a garantia da autoridade de suas decisões.
+No mesmo sentido, dispõe o artigo 187 do RISTJ que, "para preservar a competência do Tribunal, garantir a autoridade das suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público".
+Assim, a reclamação constitucional é instrumento processual de caráter específico e de aplicação restrita, voltada, precisamente, para a preservação da competência do Tribunal e a garantia da autoridade das suas decisões. Não se destina, por obvio, ao rejulgamento da causa e ao exame do acerto ou desacerto da decisão recl amada. Tampouco cabe, por ela, perquirir acerca da probabilidade de ser revisto o mérito da ação originária.
+Na espécie, verifica-se que, nos autos da SS n. 3.430/MA, na qual se impugnava decisão do relator do Agravo Interno na Tutela Antecedente n. 825806-82.2022.8.10.0000, foi deferido o pedido "até que decidido, definitivamente, o mandado de segurança que questiona a lisura/legalidade do procedimento eleitoral para a mesa diretora da Câmara de Vereadores de Buriti Bravo, MA" (grifei).
+A título de elucidação, calha colacionar trechos da decisão então proferida por esta Corte (fls. 19-24):
+No presente caso, tem-se que, a pretexto de haver descumprimento de norma da Lei Orgânica Municipal e do Regimento Interno, determinou-se o refazimento das eleições para a mesa diretora da autora, Câmara Municipal de Buriti Bravo, MA.
+A discussão ora trazida a conhecimento passa pela alegação de que tal decisão, nos termos em que posta, importa indevida (injustificada) intervenção do Poder Judiciário no Legislativo Municipal, trazendo, com isso, na perspectiva de sua imediata execução, grave lesão à ordem pública, representada na independência dos poderes.
+É indene de dúvidas que, devidamente provocado e diante da constatação de falhas no procedimento, seja sob o ponto de vista formal, seja por desvio de finalidade, seja por afronta a preceitos normativos regimentais, legais e/ou constitucionais, não só pode, como deve, o Poder Judiciário atuar prontamente para restabelecer a atenção ao ordenamento jurídico vigente, inclusive, invalidando eleições levadas a termo por outro Poder.
+Aqui, contudo, quer parecer que a imediata determinação de refazimento das eleições para a mesa diretora da Câmara Municipal de Buriti Bravo, antes mesmo de decidida definitivamente a discussão acerca da regularidade do procedimento então levado a efeito, potencialmente, pode trazer mais malefícios do que benefícios à população local.
+Com efeito, a incerteza e insegurança que daí resultarão, sobretudo relativamente à legitimidade dos seus representantes, poderão causar desarmonia entre os poderes, gerando questionamentos paralelos, de pouco ou nenhum interesse aos munícipes, sem falar em eventuais impugnações a tudo que vier a ser decidido pelo represente do Poder Legislativo local.
+Sob esse aspecto, ao ponderar o binômio razoabilidade-proporcionalidade, não se divisam justificativas para manter decisão liminar que, de imediato e sem nem mesmo ouvir a parte contrária, anulou o pleito inicial e ordenou seu refazimento no exíguo prazo de cinco dias. Não parece ser razoável, muito menos proporcional, se considerada a alegação apresentada à vista dos fatos narrados e a consequência imposta monocraticamente (refazimento das eleições).
+ ..
+Pelo exposto, defiro o Pedido de Suspensão de Segurança, até que decidido, definitivamente, o mandado de segurança que questiona a lisura/legalidade do procedimento eleitoral para a mesa diretora da Câmara de Vereadores de Buriti Bravo, MA.
+O Juízo reclamado, contudo, determinou o imediato cumprimento dos provimentos estipulados na sentença concessiva da segurança, com a realização de nova votação para eleição da nova Mesa Diretora da Câmara Municipal de Buriti Bravo/M, sob pena de multa diária.
+Dessa forma, é de rigor reconhecer ofensa à autoridade do que nesta Corte restou decidido.
+Com efeito, de acordo com o art. 4º, § 9º, da Lei n. 8.437/19 92, deferida a contracautela, seus efeitos se fazem sentir até o trânsito em julgado da decisão de mérito na ação principal.
+Sendo assim, impõe-se o acolhimento da reclamação como forma de garantir a autoridade da decisão proferida por esta Corte Superior de Justiça.
+Pelo exposto, voto pela procedência da Reclamação, para cassar a decisão do Juízo reclamado exorbitante do julgado do STJ, confirmando-se a liminar antes deferida.
+É o Voto.
+Comunique-se ao reclamado.
