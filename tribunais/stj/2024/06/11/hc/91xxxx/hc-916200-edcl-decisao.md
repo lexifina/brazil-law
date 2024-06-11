@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VINICIUS SIMOES MARQUES contra decisão que indeferiu liminarmente o habeas corpus, porquanto "o processo não foi instruído com cópia integral do acórdão prolatado pelo Tribunal de origem, quando do julgamento das apelações, peça imprescindível para a análise desta impetração" (e-STJ, fl. 74).
+Neste recurso, o embargante sustenta, em síntese, "a existência de contradição entre o decidido e as peças juntadas aos autos", na medida em que a decisão asseverou "a ausência da cópia integral do acórdão prolatado pelo Tribunal de Justiça Militar, contudo, a referida documentação está anexa as fls. 62/70" (e-STJ, fl. 81).
+Pleiteia o acolhimento dos embargos declaratórios com efeitos infringentes para seja declarada a nulidade dos atos de reconhecimento pessoal, bem como a ilicitude das provas dele decorrentes, além da consequente absolvição.
+É o relatório.
+Os embargos não merecem ser acolhidos.
+Isso porque, nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente em julgado. Não se prestam, portanto, para revisão, por mero inconformismo da parte, de decisão já tomada.
+Sobre o tema:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. APONTADA CONTRADIÇÃO ENTRE O ACÓRDÃO EMBARGADO E A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA E DA SUPREMA CORTE. NECESSIDADE DE PRESERVAÇÃO DA IDENTIDADE DA TESTEMUNHA. SUPOSTA ATUAÇÃO DE GRUPO DE EXTERMÍNIO. TEMA DECIDIDO DE FORMA CLARA E OBJETIVA. INEXISTÊNCIA DO VÍCIO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+2. Consoante jurisprudência desta Corte, a contradição que justifica a oposição e o acolhimento de embargos de declaração é aquela interna ao julgado, entre os fundamentos e o dispositivo, o que não se verifica na espécie. (EDcl no AgRg no AREsp n. 1.819.821/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+3. Na espécie, o acórdão embargado posicionou-se de forma clara e objetiva ao decidir, conclusivamente, que o caso exige uma análise de ponderação de valores, especialmente por ser compreensível o temor da testemunha, assim como verossímil o perigo à sua vida e integridade ao fornecer informações referentes ao caso, mesmo porque a denúncia apura a atuação de um suposto grupo de extermínio formado por policiais que atuam no Estado do Ceará. Assim, justificável, diante da gravidade das circunstâncias do fato, a medida de preservação da identidade e dos dados pessoais da testemunha protegida.
+4. Assim, a contradição que autoriza a abertura dos embargos de declaração é a contradição interna, existente entre a fundamentação e a conclusão do decisum ou entre premissas do próprio julgado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido como correto pela insurgente.
+5. Embargos de declaração rejeitados."
+(EDcl no AgRg no HC 765.766/CE, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023).
+In casu, no que diz respeito à decisão colegiada objeto do presente habeas corpus, juntou-se aos autos apenas cópia do voto proferido pelo relator daquela decisão (e-STJ, fls. 62-70). Ao contrário do que aduz o embargante, o acórdão propriamente dito - que expõe, entre outras informações relevantes, se o voto do relator foi, ou não, o vencedor naquele julgamento - não foi juntado a estes autos, tampouco está acessível para consulta pública no sítio eletrônico do Tribunal de origem.
+Além do mais, "a contradição que autoriza o conhecimento dos embargos declaratórios é a interna ao julgado, caracterizada por proposições inconciliáveis entre si" (EDcl no AgRg no AREsp 246.939/SP, Relator Ministro Reynaldo Soares Da Fonseca, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Assim, entendo que o embargante não demonstrou a ocorrência de qualquer vício, pretendendo, a pretexto da existência de contradição, rediscutir o julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
