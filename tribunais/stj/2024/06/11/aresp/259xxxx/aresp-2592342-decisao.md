@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TRANSCONTINENTAL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (TRANSCONTINENTAL) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar, em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, TRANSCONTINENTAL alegou, a par de divergência jurisprudencial, a violação dos arts. 4º, 6º, 489, § 1º, IV, e 1.022, II, do CPC, ao sustentar (1) omissão do acórdão recorrido acerca da possibilidade de prosseguimento da execução, a despeito do acolhimento da tese defensiva d e usucapião; e (2) a possibilidade de converter o rito da execução hipotecária para execução de título extrajudicial, pois, independentemente da perda do imóvel, com o reconhecimento da prescrição aquisitiva em embargos de terceiro, a ação deve prosseguir em face do credor originário objetivando o recebimento dos valores inadimplidos.
+Na origem, trata-se de embargos de terceiro opostos por VALDELINO MOREIRA LIBIO nos autos da execução hipotecária promovida por TRANSCONTINENTAL em desfavor de FERNANDO NICKEL NETO, alegando usucapião como tese de defesa, uma vez que exerce a posse do imóvel hipotecado desde 1992, por ter adquirido os direitos sucessórios diretamente do executado, o qual, por sua vez, o adquiriu em 1988, por meio de contrato de compra e venda celebrado com a empresaConstrutora Peixoto Atayde, com emissão de cédula hipotecária em favor do extinto SUL BRASILEIRO CRÉDITO IMOBILIÁRIO S.A., que foi sucedido pela TRANSCONTINENTAL.
+Em primeira instância, o pedido foi julgado procedente, para o fim de "declarar o cabimento da exceção de usucapião apresentada pelo embargante na peça preambular e, consequentemente, assegurar a sua manutenção na posse do imóvel objeto de discussão nos autos e, ainda, determinar a extinção da ação de execução hipotecária que tramita em apenso. Sucumbente, condeno a parte embargada ao pagamento das custas e despesas processuais e de honorários advocatícios em favor do procurador do embargante, que vão fixados em R$ 1.500,00, com base no art. 85, §§ 2º e 8º, do Código de Processo Civil" (e-STJ, fl. 120).
+Irresignada, TRANSCONTINENTAL apelou, e o Tribunal de Justiça do Rio Grande do Sul negou provimento ao recurso, confirmando os termos da sentença em sua integralidade.
+Os embargos de declaração opostos por TRANSCONTINENTAL foram rejeitados (e-STJ, fls. 285/294).
+(1) Da violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC
+Nas razões do recurso especial, TRANSCONTINENTAL sustentou, preliminarmente, omissão do acórdão recorrido acerca da possibilidade de converter o rito da execução hipotecária para execução de título extrajudicial, pois, independentemente da perda do imóvel, com o reconhecimento da prescrição aquisitiva em embargos de terceiro, a ação deve prosseguir em face do credor originário objetivando o recebimento dos valores inadimplidos.
+Da análise dos autos, constata-se que o ponto suscitado pelo apelo nobre não foi alvo de manifestação por parte do acórdão recorrido, o que impede que o STJ examine a matéria, à mingua do indispensável prequestionamento.
+Assim, tendo sido o recurso especial interposto por ofensa aos arts. 489 e 1.022 do CPC e, em face da relevância da questão suscitada, revela-se necessário o debate acerca do ponto acima destacado, de modo que a prestação jurisdicional seja dada de forma completa ao recorrente.
+Nesse sentido, confiram-se os seguintes precedentes desta egrégia Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANO DE SAÚDE. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.INCIDÊNCIA. RESCISÃO CONTRATUAL. MUDANÇA DE FAIXA ETÁRIA. ART. ART. 1.022 DO CPC/2015. OMISSÃO. OFENSA CONFIGURADA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Há ofensa ao art. 1022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Agravo interno no agravo em recurso especial não provido para manter o não conhecimento do agravo em recurso especial de LUIZ CARLOS STOCKER e o conhecimento e provimento do recurso especial de COMPANHIA DE SEGUROS ALIANÇA DO BRASIL.
+(AgInt no REsp n. 1.711.626/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 2/8/2018, DJe de 10/8/2018 - sem destaque no original.)
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DO CONTRATO.ARBITRAMENTO JUDICIAL. HONORÁRIOS DE SUCUMBÊNCIA.DANOS MORAIS. EXORBITÂNCIA. AUSÊNCIA DE EXAME. ARTIGO 1.022 DO CPC/2015.
+1. Presente um dos vícios elencados no artigo 1.022 do Código de Processo Civil, é devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+2. Agravo interno provido para dar parcial provimento ao recurso especial.
+(AgInt no REsp n. 1.708.003/BA, relator Ministro LÁZARO GUIMARÃES, relator p/ acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 7/8/2018, DJe de 21/8/2018 - sem destaque no original.)
+É condição sine qua non ao conhecimento do especial que as questões de direito e de fato ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJRS para que analise a questão trazida nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarad o manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO HIPOTECÁRIA. EMBARGOS DE TERCEIRO. ACOLHIMENTO DA TESE DE USUCAPIÃO. DISCUSSÃO SOBRE A CONVERSÃO DO RITO EXECUTIVO PARA PROSSEGUIMENTO DA COBRANÇA CONTRA O DEVEDOR ORIGINÁRIO. OFENSA AOS ARTS. 489 E 1.022 DO CPC CONFIGURADA. OMISSÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
