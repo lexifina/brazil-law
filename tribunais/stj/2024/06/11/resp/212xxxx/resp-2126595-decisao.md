@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ªRegião, assim ementado (fl. 94):
+TRIBUTÁRIO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. REINTEGRA. ART. 22, §2º DA LEI Nº 13.043/14. NORMA DE EFICÁCIA LIMITADA. AUSÊNCIA DE REGULAMENTAÇÃO.
+1. O Regime Especial de Reintegração de Valores Tributários (REINTEGRA) foi originariamente instituído pela MP 540/11, convertida na Lei 12.546/11, aplicando-se às exportações realizadas até 31 de dezembro de 2013, tendo por finalidade devolver parcial ou integralmente o resíduo tributário remanescente na cadeia de produção de bens exportados. Posteriormente, o benefício foi reinstituído pela MP 651/14, convertida na Lei nº 13.043/14.
+2. A pessoa jurídica exportadora poderá apurar créditos variáveis entre 0,1% e 3%,excepcionalmente acrescidos em até 2 pontos percentuais, em forma a ser fixada por regulamento, incidente sobre as receitas auferidas com as exportações (art. 22 da Lei nº 13.043/14). Trata-se de norma de eficácia limitada, a qual depende de regulamentação para produzir plenamente os seus efeitos. Precedentes da Turma: AC 5012272-41.2019.4.04.7205; AC 5011765-46.2020.4.04.7205).
+3. Inexistindo decreto regulamentador do crédito excepcional, não compete ao Judiciário, sob pena de violação ao princípio da separação dos poderes, estabelecer quais devam ser os critérios e parâmetros para que seja verificada a ocorrência de resíduo tributário apto a justificar a apuração dos créditos com o acréscimo de até 2%.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, §1º, IV e 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões: (a) arts. 3º do CPC/2015 e 5º, XXXV, da CF/88, diante da impossibilidade de se excluir da apreciação jurisdicional ameaça ou lesão a direito; (b) arts. 1º, III, 3º, II, 5º, caput, 146-A e 170, IV, da CF/88, eis que a fixação do percentual está em descompasso com o objetivo do REINTEGRA e demais valores constitucionalmente assegurados; (c) imunidades em relação à exportação que se encontram previstas nos arts. 149, §2º, I, 153, IV, §3º, III, 155, II, §2º, X, alínea "a" e 156, §3º, II, da CF/88.
+Quanto às questões de fundo, sustenta ofensa aos artigos 3º do CPC/2015, 22, §§1º e 2º, da Lei 13.043/2014, argumentando que "deve ser garantido o direito do contribuinte de, com base no art. 22, §2º, da Lei n.º 13.043/2014, aproveitar o adicional do REINTEGRA de até 2%, mediante a apresentação, perante a Receita Federal do Brasil, de laudo elaborado por empresa ou órgão independente" (fl. 134).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 140.
+O Ministério Público Federal apresentou parecer às fls. 170-174, no sentido do parcial conhecimento do recurso especial e, nessa extensão, pelo não provimento.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Por outro lado, a controvérsia relativa ao aproveitamento dos créditos tributários do REINTEGRA foi dirimida com fundamento constitucional, especificamente com base no princípio da separação dos poderes, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. REINTEGRA. CRÉDITO ADICIONAL DE 2%. ACÓRDÃO RECORRIDO PELA NECESSIDADE DE NORMA REGULAMENTADORA PARA O RECONHECIMENTO DO DIREITO, SOB PENA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À luz do art. 105, inc. III, da Constituição Federal, o recurso especial não pode ser conhecido, pois não é a via recursal adequada à revisão de fundamentação constitucional.
+3. No caso, o órgão julgador decidiu: "não havendo decreto regulamentador acerca do crédito adicional, descabe ao Poder Judiciário interferir, sob pena de violação ao princípio da separação dos poderes".
+4. Agravo interno não provido.
+(AgInt no REsp 2.044.540/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/9/2023).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REINTEGRA. ART. 22, §2º, DA LEI 13.043/2014. NORMA DE EFICÁCIA LIMITADA. AUSÊNCIA DE REGULAMENTAÇÃO. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
