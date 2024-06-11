@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno manejado pela UNIÃO para desafiar decisão de minha lavra, proferida às e-STJ fls. 3.052/3.060, na qual dei provimento ao recurso especial, para o fim de afastar a prescrição reconhecida pela Instância de origem, para que, em consequência, se prosseguisse no julgamento da demanda.
+A parte agravante busca a reforma da decisão agravada.
+Passo a decidir.
+A Primeira Seção do STJ afetou à sistemática dos recursos repetitivos os Recursos Especiais 2.078.485/PE, 2.078.989/PE, 2.078.993/PE e 2.079.113/PE, cuja tese controvertida é a seguinte: "possibilidade de o substituído processual propor execução individual de sentença coletiva quando, anteriormente, a mesma sentença foi objeto de execução coletiva por parte do substituto processual, extinta em razão de prescrição intercorrente".
+Nesse caso, encontrando-se o tema afetado à sistemática dos feitos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag 1.432.709/ES, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 18/12/2018; REsp 1.770.141/RJ, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 18/10/2018.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 3.052/3.060 e DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento recursos especiais repetitivos e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada por esta Corte Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em recurso especial repetitivo.
+Publique-se. Intimem-se.
+EMENTA
