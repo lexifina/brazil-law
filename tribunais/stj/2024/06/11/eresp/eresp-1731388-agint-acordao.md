@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 05/06/2024 a 11/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA.DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e os julgados paradigmas, o que não se verificou na hipótese dos autos.
+2. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por COMERCIAL AMERICA LTDA, em face de decisão unipessoal que indeferiu liminarmente os embargos de divergência.
+Ação: de "levantamento contábil em conta concorrente cumulada com estorno de lançamentos irregulares"(e-STJ Fl.623), ajuizada por COMERCIAL AMERICA LTDA em face de BANCO DO BRASIL S.A..
+Sentença: julgou procedentes os pedidos formulados na exordial.
+Acórdão: negou provimento ao recurso interposto pelo embargado.
+Acórdão da Quarta Turma: negou provimento ao agravo interno de COMERCIAL AMÉRICA LTDA, nos termos assim ementados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 535 DO CPC/1973 E 1.022 DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL MÁXIMO. OMISSÃO NO ACÓRDÃO RECORRIDO.1. Apesar de a instituição financeira ter postulado na apelação, no respectivo agravo regimental e nos subsequentes embargos de declaração, mediante argumentos jurídicos, a redução da verba honorária, fixada no percentual máximo, o TJMA deixou de apreciar tal questão, em seu mérito, na decisão monocrática que negou provimento à apelação, no acórdão que desproveu o agravo regimental e no acórdão que rejeitou os embargos de declaração, estes dois últimos impugnados no recurso especial. Ofensa aos arts. 535 do CPC/1973 e 1.022 do CPC/2015 caracterizada.2. Com o retorno dos autos à origem para sanar a referida omissão, poderão as duas partes, futuramente, interpor novos recursos especiais e discutir todas as questões não apreciadas na decisão ora agravada, observados, logicamente, os requisitos de admissibilidade do especial.3. Agravo interno a que se nega provimento."
+Embargos de declaração: opostos por COMERCIAL AMÉRICA LTDA, foram rejeitados.
+Embargos de divergência: Alega que no acórdão paradigma, o AgInt nos EDcl no AREsp n. 1.290.119/RS, o recurso foi desprovido porque a parte agravante não promoveu a impugnação específica dos fundamentos da decisão unipessoal, desrespeitando o art. 1.021, §1º do CPC, haja vista que a embargada teria "realizado mera repetição, no agravo regimental, dos argumentos da apelação julgada monocraticamente". Assim, sustenta que o recurso especial da embargada não poderia ter sido provido.
+Argumenta que no acórdão paradigma EDcl no AgInt no AREsp n. 1.974.613/SP, de lavra da Terceira Turma, decidiu-se que os honorários advocatícios constituem matéria de ordem pública, razão pela qual devem ser decididos pelo STJ para suprir omissão do Tribunal de origem, ao argumento de que "quando devida a verba honorária recursal, mas, por omissão, o relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus".
+Sustenta que, em sentido divergente, o acórdão paradigma devolveu o processo ao juízo a quo apenas para suprir omissão sobre o percentual dos honorários a ser fixado na instância recursal daquele TJMA em razão do provimento da apelação.
+Decisão unipessoal: indeferiu liminarmente os embargos de divergência, nos termos assim ementados:
+EMBARGOSDEDIVERGÊNCIAEMRECURSOESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e os julgados paradigmas, o que não se verificou na hipótese dos autos.2. Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso.3. Embargos de divergência indeferidos liminarmente.
+Agravo interno: argumenta que foi devidamente demonstrada similitude fática entre os acórdãos embargado e paradigma.
+Em relação à inexistência de omissão no acórdão do TJMA, argumenta que a análise, ainda que implícita, das questões debatidas nos autos é suficiente para afastar a alegação de omissão na decisão e, com isso, inviável sua cassação para novo julgamento com base no art. 1.022 do CPC.(e-STJ Fl.1528)
+Defende a inviabilidade de provimento do Recurso Especial quando o agravo no tribunal não impugnou especificamente a decisão monocrática agravada, como fez o acórdão embargado.
+Sustenta que não pode o recorrente, em seu recurso, escorar-se na mera reprodução das mesmas afirmações tecidas em peças recursais previamente analisadas em juízo monocrático no Tribunal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA.DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e os julgados paradigmas, o que não se verificou na hipótese dos autos.
+2. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Com efeito, da leitura atenta do agravo, depreende-se que recurso se destina mais a tentar reformar a decisão a que se chegou no acórdão embargado, do que efetivamente comprovar uma divergência jurisprudencial entre as Turmas que compõem este STJ.
+Ademais, não foi afirmado na decisão unipessoal que não foi apresentado o cotejo analítico, mas sim que as decisões apresentadas não guardam similitude suficiente a ponto de demonstrarem que houve divergência.
+Acrescenta-se que o recorrente foi silente quanto ao fundamento específico de que, no acórdão embargado não houve de omissão quanto ao arbitramento de honorários, porquanto o Tribunal de origem já havia arbitrado os honorários advocatícios.
+Tampouco foi devidamente refutado o fundamento de que inexiste divergência jurisprudencial com o acórdão paradigma, o AgInt nos EDcl no AREsp n. 1.290.119/RS, de lavra da Segunda Turma, uma vez que na conclusão que ali se chegou os fundamentos não foram devidamente impugnados, enquanto no acórdão embargado foi expressamente decidido que:
+"Sobre a suposta incidência do art. 932, III, do CPC/2015 e da Súmula n. 182 do STJ, destaco que o trecho reproduzido pela agravante, extraído do acórdão do TJMA, não afirma que a instituição financeira não teria impugnado os fundamentos da decisão então recorrida. Apenas declarou que a instituição financeira "levanta as mesmas questões já suficientemente rebatidas por ocasião do julgamento monocrático proferido pelo Relator Originário" (e-STJ fl. 1.325)."
+Assim, não foram apresentados argumentos que justifiquem a alteração do entendimento unipessoal que indeferiu liminarmente os embargos de divergência.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO aos embargos de divergência.
