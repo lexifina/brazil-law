@@ -1,0 +1,67 @@
+EMENTA
+ADMINISTRATIVO. MANDATO CLASSISTA. PAGAMENTO DE ADICIONAL DE DEDICAÇÃO EXCLUSIVA. DESCABIMENTO.
+1. O STJ, em hipóteses similares à presente, tem se manifestado no sentido de que o adicional de dedicação exclusiva é uma vantagem pecuniária de natureza propter laborem ou pro labore faciendo, cuja percepção exige o efetivo exercício do cargo.
+2. Hipótese em que a recorrente não tem direito líquido e certo de continuar a receber o adicional em comento, tendo em vista seu licenciamento para exercício de mandato classista.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Paulo Sérgio Domingues (Presidente), Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo interno interposto por DIVA LUCIANA FLORES DA COSTA contra decisão em que neguei provimento ao recurso ordinário, ante a natureza propter laborem do adicional de dedicação exclusiva, que não pode ser mantido no curso do exercício do mandato classista.
+Alega a recorrente, em síntese, que o referido adicional é verba permanente, atribuído, indistintamente, a todos os servidores da carreira que não exercem outras atividades, independentemente do desempenho individual; que os servidores podem exercer atividades políticas, sem redução remuneratória; e que é perfeitamente possível que a autora se beneficie da coisa julgada referente a outros mandatos, tendo em vista que tratam da mesma verba e do mesmo contexto fático.
+Impugnação às e-STJ fls. 662/668.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. MANDATO CLASSISTA. PAGAMENTO DE ADICIONAL DE DEDICAÇÃO EXCLUSIVA. DESCABIMENTO.
+1. O STJ, em hipóteses similares à presente, tem se manifestado no sentido de que o adicional de dedicação exclusiva é uma vantagem pecuniária de natureza propter laborem ou pro labore faciendo, cuja percepção exige o efetivo exercício do cargo.
+2. Hipótese em que a recorrente não tem direito líquido e certo de continuar a receber o adicional em comento, tendo em vista seu licenciamento para exercício de mandato classista.
+3. Agravo interno desprovido.
+VOTO
+O presente recurso não merece prosperar.
+Consoante anteriormente explicitado, não obstante os argumentos expendidos pela recorrente, suas razões não são suficientes para infirmar o aresto recorrido, no qual ficou consignado (e-STJ fls. 476/480):
+ ..
+A parte-impetrante alega que impetrou o presente mandamus em razão da supressão em sua folha de pagamento do valor recebido à título de gratificação de dedicação exclusiva em face da sua posse em mandato classista.
+Destaca que o pagamento da gratificação de dedicação exclusiva, que vinha ocorrendo sob a rubrica "PARCELA JUDICIAL" por força dos efeitos dos mandados de segurança nº 70070999883, Relator Des. Eduardo Delgado, julgado em 09.12.2016; e nº 70081871824, Relator Des. Francesco Conti, julgado em 13.09.2019, foi novamente suprimido, conforme evidenciam os contracheques em anexo (dos meses de 04/2022, 05/2022 e 06/2022; cópia dos contracheques em questão, para melhor ilustrar a urgência, encontra-se colacionada no tópico relativo ao pedido de concessão liminar da ordem, tendo o reinício da lesão ocorrido na folha do mês 05/2022 com efeitos no mês de junho de 2022, mesmo diante da coisa julgada material, em razão dos dois mandados de segurança acima referidos.
+De outro lado, verifico pela Ata de posse do Sindicato dos Servidores públicos do Estado do Rio Grande do Sul - SIDSEPE/RS para o triênio 2022/2025 que a impetrante foi eleita como Presidente e tomou posse em 13 de maio de 2022 (fls. 35/40).
+Apesar de anteriormente, quando dos antigos mandatos classistas, terem sido concedidas as seguranças pleiteadas nos recursos de nºs 70070999883 e 70081871824 agora a situação fática é outra.
+Com efeito, em face da Emenda à Constituição Estadual nº 78 de 03 de março de 2022, restou o seu art. 27 assim modificado:
+Art. 27. É assegurado:
+I -aos sindicatos e associações dos servidores da administração direta ou indireta:
+a) participar das decisões de interesse da categoria;
+b) descontar em folha de pagamento as mensalidades de seus associados e demais parcelas, a favor da entidade, desde que aprovadas em assembleia geral;
+c) eleger delegado sindical;
+II -aos representantes das entidades mencionadas no inciso anterior, nos casos previstos em lei, o desempenho, com dispensa de suas atividades funcionais, de mandato em confederação, federação, sindicato e associação de servidores públicos, sem qualquer prejuízo para sua situação funcional ou remuneratória, exceto promoção por merecimento;
+III -aos servidores públicos e empregados da administração indireta, estabilidade a partir do registro da candidatura até um ano após o término do mandato sindical, salvo demissão precedida de processo administrativo disciplinar ou judicial.
+§ 1.º Ao Estado e às entidades de sua administração indireta é vedado qualquer ato de discriminação sindical em relação a seus servidores e empregados, bem como influência nas respectivas organizações.
+§ 2.º O órgão estadual encarregado da formulação da política salarial contará com a participação paritária de representantes dos servidores públicos e empregados da administração pública, na forma da lei.
+§ 3.º Aos representantes de que trata o inciso II do "caput" fica assegurada a remuneração do cargo, vedado o pagamento de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão. (Incluído pela Emenda Constitucional nº 78, de 03/02/20).
+Em razão disso, não resta, agora num juízo de cognição mais exauriente, demonstrado o direito líquido e certo da impetrante.
+Nessa linha de raciocínio, transcrevo trecho do parecer da lavra do ilustre Procurador de Justiça, Dr. Ricardo da Silva Valdez, in verbis:
+".. veja-se que resta não evidenciado o direito líquido e certo da impetrante à percepção da gratificação em comento, após a vigência do § 3º do art. 27 da Constituição Estadual - E. C. nº 78/20-, publicada em 04.02.2020, haja vista vantagem de caráter temporário. Levando em conta que a impetrante requer a regularização do pagamento da Gratificação de Dedicação Exclusiva, a partir do ajuizamento da presente demanda -30/06/2022 - e enquanto fruir a licença para desempenho do mandato classista, é de ser denegada a ordem, haja vista que a Emenda Constitucional nº 78 está em vigor desde 04/02/2020.
+Importante destacar, ainda, que registrado a existência de mandados de segurança anteriores (MS de nºs 70070999883 e 70081871824), que, em situação similar, exercendo a impetrante mandado classista, permitiu a percepção concomitante da gratificação em questão; todavia, tais mandatos eram anteriores - 2016/2019 e 2019/2022 - e somente com relação aos demais os respectivos mandados alcançaram o direito pretendido, logo, não servindo para fins da presente pretensão, que diz respeito a um novo mandato classista, já em vigência do dispositivo legal, e constitucional, supracitado. Sobre a supressão das gratificações integrantes da remuneração do servidor, a despeito do exercício do mandato classista, as seguintes ementas:
+ ..
+Por tais razões, denego a segurança pleiteada, ficando revogada a liminar concedida em parte. Deixo de fixar honorários advocatícios, nos termos do art. 25 da Lei nº 12.016/09 e das Súmulas nº 105 do Superior Tribunal de Justiça enº 512 do Supremo Tribunal Federal. Caberá à impetrante o pagamento da totalidade das custas processuais, restando suspensa a sua exigibilidade em face da gratuidade da justiça concedia à fl. 404 dos autos. (Grifos acrescidos).
+No presente caso, o Adicional de Dedicação Exclusiva foi instituído pela Lei estadual n. 13.417/2010, que dispõe sobre a reestruturação do Quadro de Funcionários da Saúde Pública, estabelece normas gerais de enquadramento, institui nova tabela de vencimentos e dá outras providências.
+O benefício, contudo, é limitado e condicionado pela norma legal que o instituiu, conforme se observa de seus artigos (e-STJ fls. 90/91):
+ ..
+Seção II
+Do Adicional de Dedicação Exclusiva
+Art. 28 - Para efeitos desta Lei, entende-se por dedicação exclusiva o exercício profissional exclusivo na Secretaria da Saúde, em carga horária mínima de 40 (quarenta) horas semanais, podendo a qualquer hora ser convocado para atender à necessidade do serviço.
+Art. 29 - Os servidores ocupantes dos cargos de Especialista em Saúde, Técnico em Saúde e Assistente em Saúde poderão optar por vincularem-se ao regime de dedicação exclusiva à Secretaria da Saúde, observadas as normas contidas nesta Lei e em regulamento específico a ser expedido pelo Secretário de Estado da Saúde.
+ ..
+Art. 32 - O ingresso no regime de dedicação exclusiva será concedido por ato do Secretário de Estado da Saúde, nos termos do regulamento.
+Art. 33 - Os servidores que estiverem acumulando cargos, na forma prevista na Constituição Federal, não poderão optar pelo regime de dedicação exclusiva, ressalvado o disposto no art. 34 desta Lei.
+Art. 34 - Os servidores que estiverem em regime de dedicação exclusiva não poderão exercer qualquer outra atividade profissional pública ou privada, exceto ministrar aulas em estabelecimentos oficiais de ensino superior, técnico ou tecnológico, ou realizar projetos de pesquisa, desde que não haja redução da jornada mínima de 40 (quarenta) horas semanais. (Grifos acrescidos).
+Como bem demonstra a fundamentação do aresto recorrido e a legislação em questão, o Adicional de Dedicação Exclusiva pleiteado pelo recorrente é uma vantagem pecuniária de natureza propter laborem ou pro labore faciendo, cuja percepção exige o efetivo exercício do cargo.
+Além disso, a parte não pode se beneficiar das coisas julgadas formadas anteriormente, tendo em vista que tratam de mandatos classistas distintos, como foi destacado inclusive em sua própria impetração, e que a legislação aplicável sofreu alteração, conforme acima demonstrado.
+Daí as acertadas considerações tecidas pelo Parquet Federal, em seu parecer (e-STJ fls. 622/623):
+ ..
+10. Com efeito, da análise dos autos, constata-se que atualmente não há respaldo legal para a manutenção do pagamento da Gratificação de Dedicação Exclusiva durante o afastamento para o desempenho de mandato classista, pois a alteração promovida na Constituição Estadual pela Emenda Constitucional n. 78 de 3/2/2020 vedou expressamente o pagamento de vantagens de caráter temporário aos servidores afastados durante o mandato sindical. Assim, considerando que a gratificação em questão possui caráter temporário e vinculado ao efetivo execício do trabalho em regime de dedicação exclusiva, não resta configurada nenhuma ilegalidade no ato impugnado.
+11. Ademais, de acordo com o disposto na Lei Estadual nº 13.417/2010, a gratificação de dedicação exclusiva pressupõe a opção por regime de trabalho específico com consequente acréscimo remuneratório. Entretanto, como se trata de uma opção do servidor, a gratificação pode deixar de ser recebida caso seja modificada a situação fática que ensejou a sua concessão, o que evidencia a sua natureza temporária. Outrossim, destaca-se que a referida lei, alterada em 2021, passou a vedar expressamente o exercício de qualquer outra atividade profissional, exceto o magistério, aos servidores que optarem pelo regime de dedicação exclusiva, conforme se verifica nos dispositivos abaixo transcritos:
+ ..
+12. Ressalte-se, ainda, que diferente do alegado pela impetrante não há que falar em violação à coisa julgada pois as decisões proferidas nos mandados de segurança anteriores foram tomadas com base na legislação vigente à época. De forma que inexiste direito líquido e certo a ser tutelado, uma vez que após as alterações legislativas acima citadas não persiste o direito da recorrente ao pagamento da gratificação de dedicação exclusiva durante o seu afastamento para desempenho do mandato classista.
+Nesse mesmo sentido, as seguintes decisões monocráticas proferidas em casos semelhantes: RMS 36302/RS, rel. Ministro Sérgio Kukina, Primeira Turma, DJe 17/08/2016, e RMS 38442/RS, rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/06/2016.
+Registre-se que, apesar de a ora agravante afirmar que tais decisões não representam o entendimento majoritário do STJ em relação ao tema, não trouxe nenhum outro caso julgado por esta Corte Superior no sentido de sua pretensão.
+Dessa forma, não há nenhum direito a ser resguardado na presente via.
+Por fim , deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
