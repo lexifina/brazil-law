@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de pedido formulado por FERNANDO AFFONSO COLLOR DE MELLO com o objetivo de ver conferido efeito suspensivo a recurso especial interposto contra acórdão assim ementado (e-STJ fl. 70):
+ADMINISTRATIVO. AÇÃO POPULAR. SENADOR DA REPÚBLICA. RESSARCIMENTO DE DESPESA. USO IRREGULAR DA COTA PARA O EXERCÍCIO DA ATIVIDADE PARLAMENTAR. INTERVENÇÃO DO PODER JUDICIÁRIO. POSSIBILIDADE. ATO QUE NÃO SE CARACTERIZA COMO DE NATUREZA INTERNA CORPORIS. DESPESA PÚBLICA RELACIONADA EXCLUSIVAMENTE COM A ATIVIDADE PARLAMENTAR. VEDAÇÃO DE RESSARCIMENTO DE GASTOS COM SERVIÇOS DE PORTARIA EM IMÓVEL RESIDENCIAL DE SENADOR DA REPÚBLICA PREVISTO EM CONTRATO (CASA DA DINDA). A ATIVIDADE DE PARLAMENTAR EM TEMPO INTEGRAL NÃO AUTORIZA O RESSARCIMENTO DE DESPESAS NÃO PREVISTAS EM REGULAMENTO.
+1. Regularidade da representação processual por meio da Advocacia do Senado Federal para defesa de Senador da República em demanda que versa sobre a legalidade da utilização Cota para o Exercício da Atividade Parlamentar - CEAPS.
+2. O ressarcimento de despesas mediante utilização da Cota para o Exercício da Atividade Parlamentar sujeita-se ao controle judicial. Não se trata de mero ato previsto em regimento interno do Senado Federal, ou relacionado com o processo legislativo, não se caracterizando como ato interna corporis alheio ao controle judicial.
+3. A instituição da CEAPS, nos termos do Ato da Comissão Diretora n.º 3/2003 prevê a utilização da verba para ressarcimento de despesas "exclusivamente relacionadas ao exercício da função parlamentar".
+4. A contratação de empresa para prestação serviços de portaria executados junto a imóvel residencial do réu, expressamente nominada em contrato como "Casa da Dinda", não está relacionada no rol de despesas previstos em regulamento interno do Senado Federal.
+5. A natureza da atividade parlamentar, exercida em tempo integral, não desonera o senador da observância do regramento do Senado Federal, sob pena de tornar demasiadamente elásticas as possibilidades de utilização da CEAPS, negando efetividade aos próprios atos normativos do Senado Federal.
+6. Os artigos 23 e 24 da Lei de Introdução às Normas do Direito Brasileiro não incidem nos casos de interpretação pelo Poder Judiciário de ato administrativo do Poder Legislativo. A revisão de ato administrativo pelo Poder Judiciário não está subordinada a regime de transição ou observância de orientações gerais da época em que praticado o ato revisto.
+7. Honorários de sucumbência. Previsão expressa do art. 85, § 2º do Código de Processo Civil de fixação de percentual com base no valor da condenação.
+Sustenta o requerente, em síntese, que o acórdão recorrido violou atos normativos do Senado Federal que regem a utilização da Cota para o Exercício da Atividade Parlamentar - CEAP, precedentes de observância obrigatória consubstanciados nos Temas 531 e 1.009 do STJ e os arts. 23 e 24 da LINDB.
+No presente pleito, aduz que o fumus boni juris advém da probabilidade de provimento do apelo especial, haja vista a plausibilidade da tese recursal defendida.
+Já o periculum in mora adviria do dano irreparável manifesto na execução provisória da sentença.
+Passo a decidir.
+No Superior Tribunal de Justiça, a tutela provisória de urgência é cabível apenas para atribuir efeito suspensivo ou, eventualmente, para antecipar a tutela em recursos ou ações originárias de competência desta Corte, devendo haver a satisfação simultânea de dois requisitos, quais sejam, a verossimilhança das alegações (fumus boni iuris), consubstanciada na elevada probabilidade de êxito do recurso interposto ou da ação, e o perigo de lesão grave e de difícil reparação ao direito da parte (periculum in mora).
+Em uma análise perfunctória dos autos, própria das tutelas de urgência, não vislumbro a probabilidade do direito alegado.
+É que da verificação do julgado impugnado (e-STJ fls. 72/82) observa-se que as questões levadas a deslinde (a suspensão dos pagamentos de custos de manutenção e de segurança patrimonial de imóvel particular e o ressarcimento dos valores já desembolsados a tal título) foram decididas com base no exame das normas regulamentadoras da Cota para o Exercício da Atividade Parlamentar dos Senadores - CEAPS, atos administrativos insuscetíveis de análise na via do recurso especial, por não estarem compreendidos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO CONSTITUCIONAL. EXAME. INVIABILIDADE. IRRESIGNAÇÃO RECURSAL. DEFICIÊNCIA.
+1. A Corte regional atribuiu natureza eminentemente constitucional ao debate, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. O recurso especial não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal.
+3. Não é possível conhecer do recurso especial quando os artigos de lei apontados como violados não contêm comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.068.626/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/11/2023, DJe de 23/11/2023.)
+Assim, ausente a plausibilidade do direito invocado, requisito indispensável à concessão do provimento de urgência, não merece acolhida o presente reclamo.
+Ante o exposto, com arrimo no art. 34, XVIII, "a", do RISTJ, INDEFIRO o pedido.
+Publique-se. Intimem-se.
+EMENTA
