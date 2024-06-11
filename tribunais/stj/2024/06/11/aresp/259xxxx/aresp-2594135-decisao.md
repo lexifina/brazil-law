@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado por COMPANHIA DE SANEAMENTO DO PARANA SANEPAR contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 95/96):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ETE DE CAMPO LARGO - DECISÃO QUE, DENTRE OUTRAS DELIBERAÇÕES, AFASTOU A PRELIMINAR DE ILEGITIMIDADE ATIVA, INDEFERIU O PEDIDO DE INCLUSÃO DO MUNICÍPIO DE CAMPO LARGO NO POLO PASSIVO, ACOLHEU EM PARTE A PREJUDICIAL DE PRESCRIÇÃO, RECONHECEU A APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR E INVERTEU O ÔNUS DA PROVA - INSURGÊNCIA DA REQUERIDA. QUANTO À ILEGITIMIDADE ATIVA E A INCLUSÃO DO MUNICÍPIO DE CAMPO LARGO NO POLO PASSIVO DA DEMANDA - HIPÓTESES DE CABIMENTO NÃO CONFIGURADAS - INADEQUAÇÃO ÀS FIGURAS CONTIDAS NO ROL DO ARTIGO 1.015 DO CÓDIGO DE PROCESSO CIVIL - POSSIBILIDADE DE ANÁLISE DAS QUESTÕES EM SEDE PRELIMINAR DE RECURSO DE APELAÇÃO OU CONTRARRAZÕES - REQUISITO INTRÍNSECO DE ADMISSIBILIDADE NÃO PREENCHIDO - RECURSO MANIFESTAMENTE INADMISSÍVEL NESTA PARTE. QUANTO À PRESCRIÇÃO - PEDIDO NO SENTIDO DE QUE SEJA RECONHECIDA A PRESCRIÇÃO DA PRETENSÃO DA AUTORA - NÃO ACOLHIMENTO - PRETENSÃO DA AUTORA QUE SE CONSUBSTANCIA NA REPARAÇÃO DE DANOS DE NATUREZA CONTINUADA. QUANTO À APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR - PEDIDO NO SENTIDO DE QUE SEJA AFASTADA A APLICABILIDADE NAS NORMAS DO CÓDIGO DE DEFESA DO CONSUMIDOR - NÃO ACOLHIMENTO - DEMANDA QUE VERSA SOBRE EVENTUAL FALHA NA PRESTAÇÃO DE SERVIÇOS PRESTADOS PELA REQUERIDA, A QUAL SE TRATA DE CONCESSIONÁRIA DE SERVIÇO PÚBLICO - AUTORA QUE, MESMO QUE NÃO FIGURE NA CONDIÇÃO DE DESTINATÁRIA FINAL DO SERVIÇO, TRATA-SE DE CONSUMIDORA POR EQUIPARAÇÃO - OBSERVÂNCIA DO ARTIGO 17 DO CÓDIGO DE DEFESA DO CONSUMIDOR - PRECEDENTES. QUANTO À INVERSÃO DO ÔNUS DA PROVA - PEDIDO NO SENTIDO DE QUE SEJA AFASTADA A INVERSÃO DO ÔNUS DA PROVA - REQUERIDA QUE DETÉM MAIOR CONHECIMENTO TÉCNICO PARA PRODUZIR AS PROVAS NECESSÁRIAS AO DESLINDE DO FEITO - INVERSÃO DO ÔNUS DA PROVA, CONTUDO, QUE NÃO DESINCUMBE A AUTORA DE PROVAR OS FATOS CONSTITUTIVOS DE SEU DIREITO, NOTADAMENTE QUE SOFREU DANO MORAL INDENIZÁVEL - PRODUÇÃO DE PROVA DE FATO NEGATIVO QUE É VEDADA PELO ORDENAMENTO JURÍDICO. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 126/129).
+A parte recorrente aponta violação aos arts. 489, II, §1º, IV e VI, e 1.022 do CPC; 186 e 206, §3º, V, do Código Civil.
+Sustenta, em resumo: (I) negativa de prestação jurisdicional, quanto à alegação de que a contagem do prazo prescricional deveria ter início no momento em que o mau cheiro se espalhou pela região, consoante recente julgado da Câmara Cível do Tribunal a quo (fls. 141/142); (II) a ocorrência da prescrição trienal da pretensão da parte autora, argumentando que "a mera alegação da parte de que se trata de um dano ambiental de caráter continuado, além de não possuir presunção de veracidade, também não pode ser utilizada como pretexto para tornar imprescritível ou fazer perdurar, eternamente a pretensão de indenização que possui caráter exclusivamente individual e patrimonial" (fl. 146).
+As contrarrazões foram ofertadas às fls. 161/168.
+Juízo negativo de admissibilidade às fls. 169/171.
+Daí o agravo ora em exame (fls. 181/190), respondido às fls. 195/199.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, II, §1º, IV e VI, e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, especialmente às fls. 126/129; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outra parte, a instância ordinária afastou a prejudicial de prescrição sob
+perseguido sob a seguinte fundamentação (fl. 102):
+É que no caso, verifica-se que a Autora ingressou com a ação de origem visando a reparação de danos morais decorrentes da emissão de odores causados supostamente pela atividade desenvolvida pela Requerida.
+Inclusive, observa-se que a Autora formulou pedido liminar no sentido de que a Requerida adote medidas com o fito de atenuar o mau cheiro, o que permite inferir que a suposta causados danos alegados pela Autora ainda persistem.
+Deveras, vislumbra-se que os danos suportados pela Autora têm natureza continuada, o que inviabiliza o reconhecimento da prescrição.
+(..)
+Destarte, deve ser negado provimento ao agravo nesta parte.
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PRESCRIÇÃO. TERMO INICIAL. NÃO OCORRÊNCIA. DANO CONTINUADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever as premissas adotadas pelo tribunal de origem, que concluiu que houve dano de natureza contínua, resultando na prorrogação do termo inicial da prescrição, demandaria o revolvimento fático-probatório dos autos, procedimento obstado pelo disposto na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.859.294/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 17/2/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
