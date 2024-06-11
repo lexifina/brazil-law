@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Roberto Airton Rodrigues Braga, condenado pela prática dos delitos descritos no art. 298, c/c o art. 71 e art. 312, c/c o art. 71 do Código Penal, à pena de 9 anos e 2 meses de reclusão, em regime fechado (Processo n. 0005862-33.2012.8.07.0010, da 1ª Vara Criminal da comarca de Santa Maria/DF).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que, mesmo redimensionando a reprimenda para 6 anos, 4 meses e 20 dias de reclusão, manteve o regime mais gravoso para cumprimento.
+Requer-se, em liminar e no mérito, a concessão da ordem para reduzir a pena do paciente, diante da ocorrência de bis in idem na valoração negativa do prejuízo ao erário tanto para exasperar a pena-base do crime de peculato quanto para o crime de falsificação de documento público.
+Busca-se, ainda, a fixação do regime legal para o cumprimento da pena (semiaberto), ante a ausência de fundamentação idônea e concreta para o estabelecimento do fechado.
+Em 16/11/2022, indeferi o pedido liminar (fls. 192/193).
+Prestadas as informações (fls. 196/201), o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 205/208):
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PECULATO. FALSIFICAÇÃO DE DOCUMENTO PARTICULAR PENA-BASE DO CRIME DE PECULATO. CONSEQUÊNCIAS DO DELITO. ALTO PREJUÍZO CAUSADO AOS COFRES PÚBLICOS. FUNDAMENTO IDÔNEO. REGIME FECHADO. MANUTENÇÃO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+1. Não cabe habeas corpus substitutivo de recurso próprio, como no caso dos autos, em que o writ foi impetrado contra acórdão que julgou apelação, em substituição ao recurso especial.
+2. As consequências do crime devem ser entendidas como o resultado da ação do agente, e sua avaliação negativa mostra-se idônea se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+3. No caso, as consequências do crime foram valoradas negativamente em razão do alto prejuízo causado aos cofres públicos, R$ 8.132.282,60 (oito milhões, cento e trinta e dois mil, duzentos e oitenta e dois reais e vinte e sessenta centavos). Tal entendimento adotado pela Corte a quo está em harmonia com a jurisprudência deste Superior Tribunal de Justiça, firmada no sentido de que, "quando da fixação das reprimendas referentes a delitos praticados contra a Administração Pública, a Terceira Seção desta Corte vem entendendo ser possível o recrudescimento da pena-base com fundamento no prejuízo sofrido pelos cofres públicos, quando o valor deste representar montante elevado" (AgRg no HC n. 480.933/AP, relator Ministro REYNALDOSOARES DA FONSECA, QUINTA TURMA, julgado em11/6/2019, DJe 27/6/2019).
+4. O Código Penal elenca os critérios para o juiz fixar o regime inicial de cumprimento da pena no art. 33-§§2º e 3º. Manda observar as circunstâncias judiciais do artigo 59. Caso as circunstâncias sejam desfavoráveis ao réu, o juiz está autorizado a fixar regime prisional mais severo. Todavia, a correspondência não é absoluta.
+5. A pena aplicada ao paciente lhe permitiria cumpri-la no regime semiaberto (art. 33-§2º-b do Código Penal). No caso, contudo, as circunstâncias judiciais não foram favoráveis. A pena-base foi fixada acima do mínimo legal, em razão da elevada culpabilidade e das consequências da conduta. Este fundamento é válido para fixação do regime mais gravoso.
+- Parecer pelo não conhecimento do habeas corpus ou, caso conhecido, pela sua denegação.
+É o relatório.
+O presente pedido não comporta acolhimento.
+Primeiro, porque a valoração negativa das circunstâncias judiciais da culpabilidade e consequências do crime foi devidamente fundamentada no fato de que (fl. 42):
+ ..
+CULPABILIDADE: Ultrapassa o básico do tipo penal. O réu se apropriou de verba pública destinada ao cuidado, proteção e instrução de centenas de crianças de uma região marcada pela carência de serviços públicos e de sistema de proteção social. Registram os autos que, em decorrência do descalabro e da extrema irresponsabilidade, a comunidade se viu, de um momento para outro, desguarnecida do serviço de creche tão necessário para filhos de trabalhadores que precisam se deslocar longas distâncias e passar o dia fora e muitas vezes não têm como servir todas as refeições necessárias a seus filhos no curso do dia. Essa determinação em praticar o crime sob qualquer circunstância, sem qualquer noção de responsabilidade social e das repercussões de seus atos, em detrimento de crianças necessitadas, confere maior reprovabilidade à sua conduta, que deve direcionar a individualização da pena.
+ ..
+CONSEQUÊNCIAS DO CRIME: Ultrapassam as comuns à espécie. A conduta representa ao Erário um desfalque consideravelmente vultoso, que alcançou o montante assustador de R$ 8.132.282,60 (oito milhões, cento e trinta e dois mil, duzentos e oitenta e dois reais e sessenta centavos). Resta evidente a intensa reprovabilidade e lesividade da conduta, que ultrapassa em muito o normal para crimes desse jaez.
+ ..
+Ademais, não há falar em constrangimento ilegal na valoração negativa das referidas circunstâncias em relação a cada um dos crimes atribuídos.
+Apesar de ter reduzido sensivelmente a reprimenda imposta, o Tribunal laborou bem em manter o regime inicial fechado de expiação, tendo em vista a fixação da pena-base acima do mínimo legal e a reprimenda definitiva imposta (superior a 4 anos), conforme expressa previsão legal (art. 33, § 3º, do CP).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS . PECULATO E FALSIFICAÇÃ O DE DOCUMENTO PARTICULAR. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO PARA A VALORAÇÃO NEGATIVA DA CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. EXISTÊNCIA. REGIME INICIAL. REPRIMENDA SUPERIOR A 4 ANOS E PENA-BASE ACIMA DO MÍNIMO. LEGALIDADE DA IMPOSIÇÃO DO INICIAL FECHADO (ART. 33, § 3º, DO CP). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
