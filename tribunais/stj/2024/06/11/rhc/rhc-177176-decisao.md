@@ -1,0 +1,17 @@
+DECISÃO
+DAVI FREITAS DO CARMO alega sofrer constrangimento ilegal em decorrência de decisão proferida por Desembargadora do Tribunal de Justiça do Estado do Rio de Janeiro, que indeferiu pedido de liminar.
+De início, realço que não é possível a interposição de recurso ordinário contra decisão que indefere a liminar na origem. De fato, segundo expressa previsão constitucional (art. 105, II, "a", da CF), o recurso ordinário em habeas corpus, dirigido a este Superior Tribunal, é cabível contra decisão denegatória de habeas corpus, decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios. Logo, sob o aspecto formal, o recurso, não é cabível
+Além disso, mesmo que se receba este recurso como habeas corpus substitutivo, de acordo com o explicitado também na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecê-lo, visto que impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heróico, em que pese sua altivez e grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA O INDEFERIMENTO MONOCRÁTICO DE PEDIDO DE MEDIDA LIMINAR. INCIDÊNCIA DA SÚMULA 691/STF. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. 1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF). 2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal. 3. Agravo regimental a que se nega provimento. (HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, DJe 2/4/2020)
+ ..
+2. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF. Referido entendimento aplica-se na hipótese em que o writ de origem é conhecido como substitutivo de revisão criminal. Precedentes.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020, grifei)
+Ademais, não localizei, entre os documentos que acompanham o recurso, cópia da decisão que decretou a prisão preventiva do réu, o que inviabiliza a análise das razões ali exaradas para verificar se houve, tal como suscitado pela defesa, deficiência de motivação que justifique a superação do óbice sumular já mencionado.
+Ante o exposto, não conheço do recurso.
+Publique-se e intimem-se.
+EMENTA
