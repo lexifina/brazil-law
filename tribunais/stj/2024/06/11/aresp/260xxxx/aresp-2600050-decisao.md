@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por OLIBRAS TELECOMUNICAÇÕES LTDA. e OLITEL BRASIL TELECOMUNICAÇÕES S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/02/2024.
+Concluso ao gabinete em: 20/05/2024.
+Ação: cobrança, ajuizada por KLEBER MORENO e KLEBER MORENO ASSESSORIA ADMINISTRATIVA (NEXXT LEVEL SOLUTIONS), em face de OLIBRAS TELECOMUNICAÇÕES LTDA. e OLITEL BRASIL TELECOMUNICAÇÕES S/A.
+Sentença: julgou procedentes os pedidos, para o fim de condenar as agravantes a pagarem aos agravados, de forma solidária, a quantia de R$ 46.809,69, condenando-as, também solidariamente, ao pagamento das custas e dos honorários, que foram fixados em 10% do valor da condenação.
+Acórdão: negou provimento à Apelação interposta pelas agravantes, nos termos da seguinte ementa:
+"Apelação. Ação de cobrança. Empresas requeridas que deixaram de adimplir valor devido à autora, decorrente de acordo firmado entre a demandante e o preposto das rés. Legitimidade das requeridas acertadamente reconhecida, pois, ainda que uma delas não tenha figurado no contrato, é fato incontroverso que as duas empresas foram beneficiadas pelos serviços prestados, procedendo conjuntamente ao pagamento da contraprestação. Acordo entabulado com o preposto das requeridas que é válido, nos termos do artigo 932, inc. III, do Código Civil. As requeridas-apelantes, de mais a mais, não lograram comprovar o alegado excesso da cobrança, consignando-se que inexiste impugnação específica à planilha de cálculo acostada pela autora. Sentença mantida, com majoração da verba honorária. Recurso não provido." (e-STJ fl. 418)
+Embargos de Declaração: opostos, pelas agravantes, foram rejeitados. (e-STJ fl. 432/437)
+Recurso especial: alegam violação dos arts. 188, 370, 489, II, §, 1º, III, 1.022, I, II, CPC, 104, 932, III, 1.169, 1.170, 1.171, 1.172, 1.173, § único, 1.174, CC. Além de negativa de prestação jurisdicional, sustentam que: i) deve ser reconhecida a existência de cerceamento de defesa das recorrentes, uma vez que era necessária perícia contábil a fim de dirimir-se, com exatidão, o real valor devido aos recorridos; e, ii) deve ser declarada a nulidade do acordo verbal utilizado para cobrança do crédito; e, iii) dever ser declarada a nulidade da cobrança diante da ausência de manifestação de vontade das recorrentes; e, iv) deve ser afastada a teoria da aparência, declarando-se a inexigibilidade do acordo, porque eivado de vícios.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da responsabilidade das agravantes pelo pagamento devido aos agravados, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 188, 370, CPC, 104, 1.169, 1.170, 1.171, 1.172, 1.173, § único, 1.174, CC, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "as agravantes mantinham administrador em comum, o Senhor Leonardo Teixeira, que cuidava das finanças das empresas e nessa condição entabulou acordo financeiro com os agravados, cuja validade foi examinada pelo juízo de primeiro grau", bem como de que "é inegável a existência da dívida ora exigida, cabendo consignar que as agravantes não lograram comprovar o alegado excesso da cobrança, consignando-se que inexiste impugnação específica à planilha de cálculo acostada aos autos", assim também de que "não houve, no caso, antecipação das prestações contratuais posteriores ao distrato, diferentemente do que afirmam as agravantes, cabendo dizer que as parcelas exigidas pelos agravados dizem respeito, na verdade, ao acordo firmado com o preposto das agravantes, Leonardo Teixeira", além de que "se houve pagamento diretamente aos agravados, essa questão será considerada no cumprimento de sentença, como bem salientou o magistrado na decisão dos autos ao dispor que o abatimento do valor pago certamente será objeto de liquidação de sentença e será devidamente considerado pelos agravados, sendo que tal decisão não foi objeto de recurso (e-STJ fl. 434)", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor atualizado da condenação (e-STJ fl. 421) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
