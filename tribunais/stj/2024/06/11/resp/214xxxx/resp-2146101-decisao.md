@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Tocantins com fundamento no art. 105, III, da Constituição Federal.
+Na origem, o ente público interpôs agravo de instrumento contra decisão, em cumprimento de sentença, que indeferiu o pedido para que fossem refeitos os cálculos apresentados pela Contadoria Judicial (COJUN), por entender que a incidência da taxa do Sistema Especial de Liquidação e de Custódia (SELIC) sobre juros anteriores, violaria o princípio do bis in idem.
+O TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO negou provimento ao agravo de instrumento do ente público, ficando consignado que a partir da publicação da Emenda Constitucional n. 113, em 09 de dezembro de 2021, a atualização do crédito deve ser feita pela taxa SELIC, com a incidência sobre o valor do principal atualizado.
+O referido acórdão foi assim ementado, in verbis:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ALEGAÇÃO DE ANATOCISMO NOS CÁLCULOS APRESENTADOS PELA COJUN. INOCORRÊNCIA. CRITÉRIOS DE CORREÇÃO. EMENDA CONSTITUCIONAL Nº 113/2021. APLICAÇÃO DA TAXA SELIC A PARTIR DA SUA ENTRADA EM VIGOR. INCIDÊNCIA SOBRE O VALOR CONSOLIDADO DO DÉBITO (PRINCIPAL CORRIGIDO MAIS JUROS). DECISÃO N. 434/2023 - PRESIDÊNCIA/ASPRE. MANUTENÇÃO. AUSÊNCIA DE JUNTADA DE NOVA PLANILHA CONTÁBIL RECURSO NÃO PROVIDO.
+1. No tocante a atualização de débitos fazendários pela SELIC e acréscimo de juros, é de se salientar que foi promulgada a Emenda Constitucional n. 113/2021, cujo art. 3º assim dispõe: "Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC), acumulado mensalmente."
+2. A partir da publicação da Emenda Constitucional n. 113 em 09 de dezembro de 2021, a atualização do crédito deve ser feita pela taxa SELIC, com incidência sobre o valor consolidado do débito (principal corrigido mais juros, conforme determina a Decisão N. 434/2023 - PRESIDÊNCIA/ASPRE.
+3. Deve o impugnante demonstrar as suas alegações por meio de laudos técnicos que comprovem o excesso executado. Outrossim, não o fazendo, deve-se manter os cálculos elaborados pela COJUN.
+4. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o Estado de Tocantins aponta violação dos arts. 4º do Decreto 22.626/33; 884 do Código Civil; 1.022, II, do CPC/2015.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, em relação à alegada ofensa ao art. 1.022 do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal a quo apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: REsp 1.666.265/MG, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 15/3/2018, DJe de 21/3/2018; REsp 1.667.456/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/12/2017, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2017DJe de 19/12/2017.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+(..)
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/9/2022, DJe de 15/9/2022.)
+No mais, o Tribunal de origem, no que interessa, assim se pronunciou:
+Assevere-se, por oportuno, que o Agravante sequer trouxe memória de cálculo em suas razões para demonstrar o valor que realmente entende ser o devido, tratando-se, portanto, de afirmações genéricas.
+Da análise dos autos conclui-se, portanto, que foram observados os dispositivos legais citados para elaboração/atualização do débito pela Contadoria, com a utilização da SELIC a partir de dezembro/2021 sobre o valor consolidado do débito (principal corrigido  juros), negando-se provimento ao agravo interposto.
+Entretanto, tal fundamento não foi impugnado pelo recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/3/2018, DJe de 20/3/2018).
+Ademais, ainda que possível fosse ultrapassar o óbice supra, verifica-se que toda a argumentação trazida no inconformismo recursal, demandaria, inarredavelmente, a revisão do contexto das premissas fáticas firmadas pelas instâncias ordinárias, o que é vedado no âmbito estreito do recurso especial, ante o óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, conheço em parte do Recurso Especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
