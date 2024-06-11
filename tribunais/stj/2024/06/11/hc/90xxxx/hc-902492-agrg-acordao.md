@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RES FURTIVA AVALIADA EM R$ 490,00. VALOR SUPERIOR A 30% DO SALÁRIO-MÍNIMO VIGENTE À ÉPOCA DOS FATOS. REITERAÇÃO DELITIVA. DESPROVIMENTO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. Tratando-se de furto praticado mediante arrombamento, de objetos avaliados em R$ 429,00 (quatrocentos e vinte e nove reais), valor equivalente a mais de 30% do salário-mínimo vigente à época dos fatos, e constatado pelas instâncias ordinárias a habitualidade delitiva da ré, ora agravante, tais circunstâncias, somadas, evidenciam o não preenchimento dos requisitos necessários ao usufruto do benefício, sobretudo a mínima ofensividade da conduta e o seu reduzido grau de reprovabilidade.
+3. Esta Corte, no julgamento do Tema repetitivo 1.205, assentou a tese segundo a qual " a  restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância" (REsp n. 2.062.375/AL, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 25/10/2023, DJe de 30/10/2023.)
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+A defesa reitera as alegações de que "o fato de o valor da res ser superior a 10% do salário mínimo e de se tratar de paciente reincidente não afasta a aplicação do princípio da insignificância" (fl. 331).
+Acrescenta que, "apesar do valor da res e da reincidência, as circunstâncias peculiares do caso recomendam a incidência do princípio da insignificância" (fl. 332).
+Pugna, ao final, pelo "conhecimento e o provimento do presente recurso para que, não sendo exercido positivamente o juízo de retratação pelo Exmo. Relator, seja o habeas corpus devidamente apreciado pelo Órgão Colegiado, de modo a restabelecer a sentença de absolvição sumária da paciente" (fl. 333).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RES FURTIVA AVALIADA EM R$ 490,00. VALOR SUPERIOR A 30% DO SALÁRIO-MÍNIMO VIGENTE À ÉPOCA DOS FATOS. REITERAÇÃO DELITIVA. DESPROVIMENTO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. Tratando-se de furto praticado mediante arrombamento, de objetos avaliados em R$ 429,00 (quatrocentos e vinte e nove reais), valor equivalente a mais de 30% do salário-mínimo vigente à época dos fatos, e constatado pelas instâncias ordinárias a habitualidade delitiva da ré, ora agravante, tais circunstâncias, somadas, evidenciam o não preenchimento dos requisitos necessários ao usufruto do benefício, sobretudo a mínima ofensividade da conduta e o seu reduzido grau de reprovabilidade.
+3. Esta Corte, no julgamento do Tema repetitivo 1.205, assentou a tese segundo a qual " a  restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância" (REsp n. 2.062.375/AL, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 25/10/2023, DJe de 30/10/2023.)
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (fls. 314-317):
+A respeito da aplicação do princípio da insignificância, consta do acórdão impugnado (fls. 263/264):
+No caso concreto, data vênia ao entendimento estampado pelo juízo singular, a conduta
+da apelada não preenche os requisitos acima citados.
+Primeiramente, porque o valor total das res furtiva não demonstra que a lesão jurídica é
+inexpressiva.
+Diz isso pois, os bens subtraídos  3 (três) facas e 1 (uma) carteira de couro  foram avaliados em R$ 429,00 (quatrocentos e vinte e nove reais) (auto de avaliação - evento 1, "ANEXO11", fl. 21, do auto de prisão em flagrante), valor que supera os 10% (dez por cento) do salário mínimo vigente ao tempo dos fatos (R$ 1.100,00), porcentagem utilizada pela jurisprudência pátria como o máximo para o reconhecimento da insignificância:
+ ..
+Além de tudo, não se pode concordar que houve reduzido grau de reprovabilidade do comportamento da recorrida, porquanto aparentemente praticou a conduta na forma qualificada, mediante arrombamento.
+ ..
+Aliado a isso, a ré possui uma condenação transitada em julgado pela prática do crime
+previsto no artigo 123 do Código Penal (autos n. 0001107-81.2018.8.24.0074 - evento
+2,"CERTANTCRIM1", do auto de prisão em flagrante).
+Nos termos do entendimento jurisprudencial desta Corte, o princípio da insignificância aplica-se aos casos em que há atipicidade material da conduta, evidenciada pela ausência de efetiva lesão ou ameaça de lesão ao bem jurídico protegido.
+Contudo, a incidência de tal princípio pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada. Nesse contexto, decidiu o Supremo Tribunal Federal, no julgamento do HC n. 212.519/SP, de relatoria da Ministra Rosa Weber, DJe de 4/3/2022, que "a jurisprudência estável, no âmbito de ambas as Turmas desta Suprema Corte, têm advertido que a reincidência e/ou a reiteração delitiva não constituem óbices intransponíveis ao reconhecimento da atipicidade material, uma vez identificados, como no caso, os vetores conducentes à insignificância da conduta".
+Na espécie, trata-se de furto de objetos avaliados em R$ 429,00 (3 facas e 1 carteira), o que representa aproximadamente 39% do salário mínimo vigente à época dos fatos. Consta ainda que a paciente é reincidente, circunstância que demonstra o maior grau de reprovabilidade do comportamento do agente, impedindo a aplicação do princípio da insignificância. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO
+TENTADO. WRIT ORIGINÁRIO NÃO IMPETRADO EM FAVOR DE ROBSON. SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. DELITO PRATICADO EM CONCURSO DE PESSOAS E DURANTE O REPOUSO NOTURNO. MAIOR REPROVABILIDADE DA CONDUTA. REITERAÇÃO DELITIVA. RÉU REINCIDENTE. ATIPICIDADE DA CONDUTA NÃO EVIDENCIADA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DE ROBSON NÃO CONHECIDO E DE LUIZ CARLOS NÃO PROVIDO.
+ ..  4. A Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando demonstrado ser tal medida recomendável diante das circunstâncias concretas, o que não se evidencia na hipótese, eis que o paciente "é reincidente, registrando condenações transitadas em julgado pela prática de roubo agravado e tráfico de drogas, cujas penas foram extintas no ano de 2018", o que denota sua habitualidade delitiva e afasta, por consectário, a incidência do princípio da bagatela.
+5. Não há que se falar em atipicidade material da conduta, por não restarem demonstrados os exigidos ausência de periculosidade social da ação, reduzidíssimo grau de reprovabilidade, bem como em razão da contumácia do agravante Luiz Carlos na prática de delitos contra o patrimônio.
+6. Agravo regimental de Robson não conhecido e de Luiz Carlos não provido. (AgRg no HC n. 792.160/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO SIMPLES. PLEITO PELO RECONHECIMENTO DA ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. VALOR DA RES FURTIVAE SUPERIOR A DEZ POR CENTO DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO CRIMINOSO. HABITUALIDADE EM CRIMES PATRIMONIAIS. ELEVADA REPROVABILIDADE DA CONDUTA. AGRAVO DESPROVIDO.
+ .. 3. Não há reduzidíssimo grau de reprovabilidade do comportamento, tampouco a mínima ofensividade da conduta, pois configurada a habitualidade delitiva em crimes patrimoniais, considerando que o Acusado: (i) é reincidente, ostentando condenação definitiva anterior por crime de roubo; (ii) responde por diversos outros crimes de furto, inclusive com uma condenação pendente de trânsito em julgado; e (iii) já havia sido beneficiado com a aplicação do princípio da insignificância por fato ocorrido meses antes do crime em questão.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.217.409/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/3/2023, DJe de 28/3/2023.)
+Não bastasse, ainda que os bens tenham sido recuperados pela vítima, esta Corte, no julgamento do tema repetitivo 1.205, assentou a tese segundo a qual " a  restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância". Eis a ementa:
+ ..
+Ante o exposto, denego o habeas corpus.
+A decisão agravada deve ser mantida por seus próprios fundamentos, uma vez que proferida nos termos do entendimento desta Corte no sentido de que "a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância" (AgRg no REsp n. 1.996.285/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 15/9/2022).
+Ademais, a reincidência da agravante, bem como o relevante valor dos bens subtraídos, demonstram o maior grau de reprovabilidade do comportamento da agente, impedindo a aplicação do princípio da insignificância.
+Por fim, esta Corte, no julgamento do T ema repetitivo 1.205, assentou a tese segundo a qual " a  restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância" (REsp n. 2.062.375/AL, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 25/10/2023, DJe de 30/10/2023).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
