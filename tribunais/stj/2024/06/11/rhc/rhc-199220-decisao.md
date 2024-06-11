@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MARCOS PIERINI contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 40):
+HABEAS CORPUS. ABANDONO DE INCAPAZ. RECEBIMENTO DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. O Habeas Corpus não se mostra como meio adequado para discutir atipicidade da conduta, negativa de materialidade ou autoria, inépcia da inicial ou consunção. O trancamento da ação penal só ocorrerá no caso de evidente falta de justa causa que deve restar demonstrada de plano, o que não ocorre na hipótese sob exame. Medida excepcional. Ordem denegada.
+O Recorrente foi denunciado como incurso no artigo 244, caput, por 26 vezes, na forma do artigo 71, caput, todos do Código Penal.
+O recorrente aduz, em suma, que o acórdão impugnado incorreu em julgamento extra ou ultra petita, uma vez que "Da analise do acórdão vergastado, em detrimento a petição de habeas corpus impetrada, em nenhum momento foi manejado pedido, parágrafo sequer referente ao trancamento da ação por falta de justa causa, pelo contrário, a única irresignação da parte foi quanto ao excesso de linguagem no recebimento da denúncia, e a captação técnico- psicológica do juiz" (fl. 53).
+Aduz também que houve excesso de linguagem na decisão que recebeu a denúncia, bem como que "não basta a anulação da decisão pelo excesso de linguagem, mas necessário se faz a redistribuição do processo, pois, como bem demonstrado já houve a contaminação psicológica e cognitiva da Magistrada, sendo mitigado o princípio da imparcialidade" (fl. 58).
+Requer, liminarmente, a suspensão do processo até o julgamento definitivo deste Habeas Corpus e, no mérito, pede o reconhecimento da nulidade do acordão vergastado por ser extra petita, bem como, pela inobservância do princípio da correlação e, ainda declarar nula e a retirada dos autos da decisão de primeira instancia por excesso de linguagem e, ainda, determinar a redistribuição do processo a outra vara criminal da comarca de Sorocaba
+Em consulta ao sistema de dados desta Corte, verifica-se que foi impetrado em favor do ora recorrente o HC n. 914.164/SP, impugnando o mesmo acórdão ora objurgado e sob os mesmos argumentos aqui levantados.
+Constata-se, portanto, que o presente recurso se constitui em mera reiteração do pedido formulado no referido writ, o qual já teve o pedido liminar apreciado, estando, portanto, em fase mais avançada de apreciação, fato que se consubstancia em óbice ao conhecimento do presente habeas corpus.
+Ante o exposto, com fundamento no art. 210 do RISTJ, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
