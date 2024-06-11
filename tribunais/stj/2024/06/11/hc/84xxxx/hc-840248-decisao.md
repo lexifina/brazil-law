@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar, impetrado em favor de ALEXANDRO BARBOSA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus nº 2114062-19.2023.8.26.0000).
+O Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Araçatuba - DEECRIM 2ª RAJ, ao apreciar os pedidos de progressão ao regime semiaberto e de concessão de livramento condicional, determinou que fosse realizado exame criminológico (e-STJ fl. 36).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da impetração por meio do acórdão assim ementado (e-STJ fl. 10):
+HABEAS CORPUS. Execução Penal. Progressão de regime. Realização de exame criminológico. Não conhecimento. Análise dos requisitos para concessão dos institutos, ou para necessidade de realização de exame criminológico, incompatível com os limites cognitivos deste writ. Competência do Juízo da Execução (artigos 66 e 197 da LEP). Precedentes desta Colenda 15ª Câmara Criminal. Habeas Corpus que não pode ser utilizado como substitutivo de recurso próprio, e tampouco servir como forma de apressar a análise de pedido já realizado ao Juízo de execução, sob pena de indevida supressão de grau de jurisdição. Entendimento pacífico do E. Superior Tribunal de Justiça.
+HABEAS CORPUS NÃO CONHECIDO.
+No presente writ, o impetrante alega, em síntese, que: a) "não obstante o art. 197 da Lei de Execução Penal preceitue que as decisões proferidas pelo juiz da execução desafiam recurso de agravo, não há como negar, de forma peremptória, a possibilidade de estas, eventualmente, além de contemplarem ocasional error in procedendo ou error in judicando, darem azo, assim, à ocorrência de constrangimento ilegal" (e-STJ fl. 4); b) "todos os argumentos utilizados pelo magistrado para concluir a necessidade da realização do exame são dos fatos pelos quais o paciente foi condenado. Não há nada na decisão que diga respeito à conduta do paciente durante a sua execução, conduta que foi tida como boa em todos os boletins informativos elaborados pelo Presídio" (e-STJ fls. 6/7); e c) "não há nenhum elemento nos autos da execução do Paciente que possa fundamentar suficientemente a realização do exame no presente caso" (e-STJ fl. 7).
+Por isso, requer, liminarmente, "seja afastada a necessidade a avaliação criminológica para análise do pedido de progressão ou determinada a imediata remoção do paciente ao regime semiaberto até a realização do exame criminológico" e, no mérito, "seja concedida a ordem para que seja cassada a decisão que determinou a realização do exame criminológico, devendo ser julgado o benefício imediatamente" (e-STJ fl. 8).
+Liminar indeferida (e-STJ fls. 39/40).
+Informações prestadas (e-STJ fls. 45/60).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus, mas pela concessão da ordem, de ofício, "para determinar que o Juízo de Execução analise o pedido de progressão de regime sem considerar o resultado do exame criminológico" (e-STJ fl. 66).
+É o relatório.
+Decido.
+Em consulta realizada na  página  eletrônica  do Tribunal de origem, verifica-se que, no dia 09/08/2023, o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Araçatuba - DEECRIM 2ª RAJ, nos autos do Processo Digital nº 0001352-18.2023.8.26.0509, após a realização do exame criminológico, promoveu o paciente ao regime semiaberto.
+Essa circunstância evidencia a perda do objeto da presente impetração.
+Ante  o  exposto,  julgo  prejudicado  o  habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
