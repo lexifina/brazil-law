@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da ofensa aos arts. 833, IV, e 854, § 3º, I, do CPC/2015, incidência da Súmula n. 7 do STJ e não comprovação do dissídio jurisprudencial nos moldes legais (e-STJ fls. 142/144).
+O acórdão recorrido está assim ementado (e-STJ fl. 67):
+Agravo de instrumento - execução de título extrajudicial - indeferimento de pedido de penhora sobre 30% dos benefícios previdenciários dos executados - rendimentos apontados que não permitem a relativização da impenhorabilidade dos proventos de aposentadoria dos devedores - recurso improvido.
+No recurso especial (e-STJ fls. 72/105), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 833, IV, e 854, § 3º, I, do CPC/2015.
+Insurge-se contra o acórdão recorrido que manteve a impenhorabilidade da aposentadoria dos executados.
+Defende a possibilidade de relativização da penhora de 30% (trinta por cento) sobre os rendimentos dos devedores visando a solução da demanda executiva.
+Ao final, pede o provimento do recurso, para que seja mitigada a regra da impenhorabilidade de parte do benefício previdenciário dos devedores.
+Não foram apresentadas contrarrazões (e-STJ fl. 134).
+No agravo (e-STJ fls. 147/181), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 213/225).
+Juízo negativo de retratação (e-STJ fl. 234).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim entendeu acerca da impenhorabilidade (e-STJ fl. 69):
+Contudo, no presente caso, se por um lado seja inafastável a obrigação de os executados satisfazerem o crédito exequendo, de outro lado, verifica-se que José Carlos Roberto recebe mensalmente a título de aposentadoria por invalidez o importe de R$ 6.316,76 (seis mil, trezentos e dezesseis reais e setenta e seis centavos), enquanto Antônio Sotto Roberto percebe mensalmente como benefício previdenciário, o montante de R$ 6.698,89 (seis mil, seiscentos e noventa e oito reais e oitenta e nove centavos) (fls. 2.177 e 2.179 da execução).
+Nesse trilho, forçoso reconhecer que os proventos mensais dos devedores, não permitem a relativização da regra da impenhorabilidade de tais rendimentos, em qualquer percentual, observando-se que o valor total da dívida, atualmente, é de aproximadamente R$ 1.500.000,00 (um milhão e quinhentos mil reais).
+Esta Corte firmou orientação no sentido de que a regra geral da impenhorabilidade das verbas salariais pode ser excetuada, ainda que para satisfazer crédito não alimentar, desde que ressalvado percentual para manter a dignidade do devedor e de sua família. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.819.394/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE NATUREZA NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o entendimento da Corte Especial do STJ, a regra geral de impenhorabilidade de salários (art. 649, IV, do CPC/1973; art. 833, IV, do CPC/2015) pode ser excepcionada, ainda que para fins de satisfação de crédito não alimentar, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+2. A revisão da conclusão do Tribunal de origem (acerca da razoabilidade do percentual a ser penhorado) demandaria o reexame do conjunto fático-probatório dos autos, o que não é possível no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.906.957/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE DEVOLUÇÃO DE VALORES. VIOLAÇÃO DO ART. 10 DO CPC. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PENHORA. 20% DA REMUNERAÇÃO. CABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem assentou ter sido aberto prazo à recorrente para impugnação à penhora, bem como foi intimada para apresentação de documentos que comprovassem a alegada hipossuficiência econômica.
+2. A revisão das premissas lançadas pelo v. aresto hostilizado, nos moldes em que ora postulada, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. A Corte Especial deste Tribunal, no julgamento dos EREsp 1.582.475/MG, da relatoria do eminente Ministro Benedito Gonçalves, firmou o entendimento de que a regra geral de impenhorabilidade de vencimentos pode ser excepcionada a fim de garantir a efetividade da tutela jurisdicional, desde que observado percentual capaz de assegurar a dignidade do devedor e de sua família.
+4. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.690.961/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. SALÁRIO. PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. DIGNIDADE DO DEVEDOR. PRESERVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A exceção à regra da impenhorabilidade contida no art. 833, § 2º, do Código de Processo Civil de 2015 se aplica somente aos casos de prestação alimentícia, não se estendendo às hipóteses de verba de natureza alimentar, como são os honorários advocatícios. Fica ressalvada, porém, a hipótese em que, com base na regra geral do artigo 833, IV, do CPC/2015, a penhora de salários é deferida, mas com a preservação de percentual capaz de garantir a subsistência digna do devedor e de sua família. Precedente da Corte Especial.
+3. Na hipótese dos autos, o tribunal de origem fixou o percentual da penhora sobre salários considerando que o valor remanescente garantiria a sobrevivência digna da devedora, estando em consonância com a recente jurisprudência desta Corte.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.645.585/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/11/2020, DJe 24/11/2020.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido.
+(EREsp n. 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018.)
+Incide, portanto, a Súmula n. 83 do STJ.
+No caso concreto, o Tribunal de origem analisou as provas contidas nos autos para concluir que a penhora afeta a dignidade dos devedores. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial ante a aplicação da Súmula n. 7 do STJ.
+Por fim, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus do qual a parte recorrente não se desincumbiu, o que atrai a incidência da Súmula n. 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+ EMENTA
