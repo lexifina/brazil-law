@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. RECONHECIMENTO DA CONFISSÃO QUALIFICADA. COMPENSAÇÃO . DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos.
+2. Não se ignora o entendimento deste Tribunal Superior de acordo com o qual, havendo fundamentação concreta, é possível a incidência da atenuante da confissão, nas espécies qualificada e parcial, em patamar inferior a 1/6.
+3. No caso dos autos, o Tribunal de origem sequer aplicou a atenuante em debate. Desse modo, "não havendo a Corte estadual sequer reconhecido a incidência da referida atenuante, ainda que qualificada, e sendo sua incidência reconhecida de ofício, não há justificativa para aplicá-la em menor extensão." Precedentes.
+4. Agravo regimental não provido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto, em parte, o relatório de fl. 63 (e-STJ):
+"Trata-se de habeas corpus com pedido de liminar impetrado em favor de CARLOS ROBERTO JUSTINO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(Apelação Criminal 1.0232.13.001412-8/001).
+O paciente foi condenado à pena de 21 anos e 4 meses de reclusão em regime fechado, pela prática do delito previsto no art. 121, § 2º, II e IV, do Código Penal.
+O Tribunal de origem deu parcial provimento ao recurso de apelação da defesa para reduzir a pena aplicada para 17 anos e 6 meses de reclusão em regime fechado, mantido, no mais, o édito condenatório.
+Os impetrantes sustentam: a) "o paciente confessou espontaneamente a prática do delito em todos os momentos em que teve a oportunidade de se manifestar" (e-STJ fl. 6); b) "havendo a confissão em plenário, mesmo que qualificada deve-se reconhecer a atenuante quando do interrogatório do acusado, mesmo que não mencionada ou discutida nos debates" (e-STJ fl. 11) e c) "o momento em que o acusado confessa, surge o preenchimento dos requisitos para o reconhecimento da aplicação do direito subjetivo à atenuante da confissão espontânea" (e-STJ fl. 12).
+Requerem, liminar e definitivamente, deferimento da ordem para reconhecer a atenuante da confissão espontânea e redimensionar a pena."
+A decisão agravada concedeu o habeas corpus de ofício.
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+Sem contrarrazões (e-STJ fl. 143).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. RECONHECIMENTO DA CONFISSÃO QUALIFICADA. COMPENSAÇÃO . DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos.
+2. Não se ignora o entendimento deste Tribunal Superior de acordo com o qual, havendo fundamentação concreta, é possível a incidência da atenuante da confissão, nas espécies qualificada e parcial, em patamar inferior a 1/6.
+3. No caso dos autos, o Tribunal de origem sequer aplicou a atenuante em debate. Desse modo, "não havendo a Corte estadual sequer reconhecido a incidência da referida atenuante, ainda que qualificada, e sendo sua incidência reconhecida de ofício, não há justificativa para aplicá-la em menor extensão." Precedentes.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ fls. 124-126):
+"Pugna o agravante pela aplicação da circunstância atenuante da confissão espontânea, que teria ocorrido na forma qualificada, uma vez que, embora tenha confessado o fato, o fez ao invocar a excludente de ilicitude da legítima defesa.
+Sobre a matéria, o Tribunal local assim se manifestou, ao negar a aplicação da atenuante em debate (e-STJ fls. 52 e 57):
+Sem razão a defesa quanto ao pleito de reconhecimento da atenuante da confissão espontânea, pois, conforme visto linhas acima, o apelante negou a prática do homicídio, alegando que atingiu a vitima de forma acidental, quando tentava repelir injusta agressão. Em outras palavras, o apelante não apenas negou a intenção de matar a vitima, como também atribuiu a ela a prática de agressões físicas que resultaram lesão corporal (pé supostamente quebrado), isto é, sustentou a ocorrência de agressões recíprocas entre ele e a vítima, afirmando que somente a atingiu no abdômen por uma fatalidade.
+Ainda que se pudesse entender que o apelante confessou a prática do homicídio (o que, repita-se, não se extrai de seu interrogatório, no qual ele nega a intenção de matar, bem como apresenta narrativa diversa daquela constante da denúncia sobre as circunstâncias do evento), tal "confissão" estaria agregada de descriminantes ou exculpantes, e, por conseguinte, não poderia ensejar o reconhecimento da atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal.(..)Na primeira fase, fixo a pena-base um pouco acima do mínimo legal, em 15 anos de reclusão. Na segunda fase, ausentes circunstâncias atenuantes a serem consideradas, mas presente a agravante prevista no artigo 61, inc. II, "c", do Código Penal (recurso que dificultou a defesa da vítima), mantenho a elevação a pena na fração de um sexto (1/6), resultando, provisoriamente, em 17 anos e 06 meses de reclusão. Na terceira fase, ausentes causas de aumento ou de diminuição de pena a serem aplicadas, concretizo a reprimenda em dezessete (17) anos e seis (06) meses de reclusão.
+A defesa, por sua vez, demonstrou que a confissão qualificada foi realizada em vários momentos da persecução penal, constando na fase extrajudicial, na audiência de instrução e julgamento, na decisão de pronúncia e no plenário (e-STJ fls. 7-9).
+Observa-se que os fundamentos adotados pelo Tribunal de origem destoam do entendimento consolidado neste Superior Tribunal de Justiça, de acordo com o qual "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (AgRg no REsp n. 2.094.151/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023; AgRg no HC n. 736.096/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022; e REsp n. 1.972.098/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+À vista disso, reconheço a incidência da circunstância atenuante da confissão espontânea e realizo a compensação integral com a agravante da utilização de recurso que dificultou a defesa da vítima.
+(AgRg no AgRg no AREsp n. 2.421.452/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 27/11/2023.)
+Ante ao exposto, concedo de ofício a ordem de habeas corpus para reconhecer a atenuante da confissão espontânea e compensá-la na forma acima, fixando a pena definitiva em 15 (quinze) anos de reclusão, mantida, no mais, a sentença condenatória."
+Não se ignora o entendimento deste Tribunal Superior de acordo com o qual, havendo fundamentação concreta, é possível a incidência da atenuante da confissão, nas espécies qualificada e parcial, em patamar inferior a 1/6.
+Contudo, no caso dos autos, o Tribunal de origem sequer aplicou a atenuante em debate. Desse modo, "não havendo a Corte estadual sequer reconhecido a incidência da referida atenuante, ainda que qualificada, e sendo sua incidência reconhecida de ofício, não há justificativa para aplicá-la em menor extensão" (AgRg no HC n. 881.988/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
