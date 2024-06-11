@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+PROCESSUAL CIVIL. FORNECIMENTO DE ENERGIA. MULTIPLICAÇÃO DA TARIFA MÍNIMA PELO NÚMERO DE ECONOMIAS. OMISSÃO. INEXISTÊNCIA. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Na hipótese dos autos, não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, visto que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara no sentido de que os efeitos reflexos da coisa julgada em desfavor da Cedae não se aplicam à nova concessionária, pois não houve condenação em obrigação de fazer, e de que, por se tratar de ilícito contratual, os juros de mora devem ser contados desde a citação.
+2. Ademais, com relação aos juros, evidenciou-se no decisum objurgado que o entendimento da Corte local está em consonância com a orientação do STJ e, ainda, que descabe interposição de Recurso Especial por suposta violação a súmulas, visto que estas não se enquadram no conceito de lei federal.
+3. No que se refere à perda superveniente do interesse de agir, atrelada à inexistência de condenação ao cumprimento de obrigação de fazer, extrai-se do acórdão recorrido e das razões do Recurso Especial que o acolhimento da pretensão recursal demanda reexame do conjunto fático-probatório dos autos, especialmente do que consta de título judicial transitado em julgado - admissível ante a Súmula 7/STJ.
+4. Agravo Interno não provido.
+A parte recorrente sustenta a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, afirma ter havido ausência de fundamentação no julgado recorrido, argumentando que não teriam sido analisadas as alegações de ofensa à lei federal e dissídio jurisprudencial invocadas, limitando-se a "reproduzir as questões de desprovimento do Agravo em Recurso Especial, ou seja, manteve-se silente" (fl. 1.632).
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 1.616-1.618) :
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Na hipótese dos autos, não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, visto que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara no sentido de que os efeitos reflexos da coisa julgada em desfavor da CEDAE não se aplicam à nova concessionária, pois não houve condenação em obrigação de fazer, e de que, por se tratar de ilícito contratual, os juros de mora devem ser contados desde a citação.
+Ademais, com relação aos juros, evidenciou-se no decisum objurgado que o entendimento da Corte local está em consonância com a orientação do STJ e, ainda, que não é cabível a interposição de Recurso Especial por suposta violação a súmulas, visto que estas não se enquadram no conceito de lei federal.
+No que se refere à perda superveniente do interesse de agir, atrelada à inexistência de condenação ao cumprimento de obrigação de fazer, extrai-se do acórdão recorrido e das razões do Recurso Especial que o acolhimento da pretensão recursal demanda reexame do conjunto fático-probatório dos autos, especialmente do que consta de título judicial transitado em julgado  o que não se admite ante o óbice da Súmula 7/STJ.
+Por fim, a incidência da Súmula 7 também impede o exame da divergência jurisprudencial, inviabilizando o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+ ..
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
