@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, acolher os embargos de declaração para dar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 59, I E II, E 68, AMBOS DO CP. DOSIMETRIA. ALEGAÇÃO DE OMISSÃO. VERIFICAÇÃO. OCORRÊNCIA. NÃO APRECIAÇÃO DA TESE ACUSATÓRIA, CONSTANTE DO RECURSO ESPECIAL, PELA TURMA JULGADORA. PRESENÇA DE MAIS DE UMA QUALIFICADORA. POSSIBILIDADE DE DESLOCAMENTO COM VIÉS DE EXASPERAÇÃO DA PENA-BASE. DETERMINADO O RETORNO DOS AUTOS À ORIGEM PARA QUE SEJA CONSIDERADA A APLICAÇÃO DA QUALIFICADORA DO CONCURSO DE PESSOAS NA PRIMEIRA FASE DA DOSIMETRIA.
+Embargos de declaração acolhidos para dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de Justiça do Rio Grande do Norte, para que considere a possibilidade de aplicação da qualificadora do concurso de agentes como fator de exasperação da pena na primeira fase da dosimetria.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público do Rio Grande do Norte contra a decisão que deu provimento ao agravo regimental para conhecer do agravo em recurso especial e desprover o recurso especial (fls. 264/266):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 59, I E II, E 68, AMBOS DO CP. DOSIMETRIA. FRAÇÃO DE AUMENTO NA TERCEIRA FASE. SOBREPOSIÇÃO DAS CAUSAS DE AUMENTO. CARÊNCIA DE INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DEMONSTREM A MAIOR GRAVIDADE DO DELITO. APLICAÇÃO DO ACRÉSCIMO DE 2/3. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ. MANUTENÇÃO DA DOSIMETRIA EFETUADA PELA CORTE DE ORIGEM QUE SE IMPÕE.
+Agravo regimental provido para conhecer do agravo em recurso especial e desprover o recurso especial.
+O embargante dispõe que, no caso em liça, essa colenda Corte negou provimento ao Recurso Especial, contudo, observa-se grave omissão da colenda Corte em relação ao fundamento principal do recurso excepcional manejado pelo Ministério Público, qual seja, o pleito de deslocamento da majorante do concurso de pessoas para o fim de sopesar na primeira etapa da dosimetria como circunstância do crime desfavorável ao recorrido (fl. 273).
+É reforçado que o Ministério Público Estadual pugnou pelo deslocamento do dado fático referente ao concurso de pessoas para fins de valoração na primeira fase da dosimetria, no sentido de fundamentar negativamente as circunstâncias do delito.  ..  Contudo, depreende-se do acórdão objurgado que não fora examinado o pleito recursal, tampouco a tese defendida pelo Parquet em seu arrazoado (fls. 278/279).
+Ao final da peça recursal, o Ministério Público do Estado do Rio Grande do Norte requer o acolhimento dos presentes Embargos de Declaração, a fim de que essa Egrégia Corte sane a omissão apontada e, consequentemente, confira efeito modificativo ao recurso para dar provimento ao Recurso Especial manejado pelo Parquet (fl. 289).
+Instada a se manifestar (fl. 293), a parte embargada não colacionou impugnação à insurgência acusatória (fl. 300).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 59, I E II, E 68, AMBOS DO CP. DOSIMETRIA. ALEGAÇÃO DE OMISSÃO. VERIFICAÇÃO. OCORRÊNCIA. NÃO APRECIAÇÃO DA TESE ACUSATÓRIA, CONSTANTE DO RECURSO ESPECIAL, PELA TURMA JULGADORA. PRESENÇA DE MAIS DE UMA QUALIFICADORA. POSSIBILIDADE DE DESLOCAMENTO COM VIÉS DE EXASPERAÇÃO DA PENA-BASE. DETERMINADO O RETORNO DOS AUTOS À ORIGEM PARA QUE SEJA CONSIDERADA A APLICAÇÃO DA QUALIFICADORA DO CONCURSO DE PESSOAS NA PRIMEIRA FASE DA DOSIMETRIA.
+Embargos de declaração acolhidos para dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de Justiça do Rio Grande do Norte, para que considere a possibilidade de aplicação da qualificadora do concurso de agentes como fator de exasperação da pena na primeira fase da dosimetria.
+VOTO
+Razão assiste ao embargante.
+Constato a presença da alegada omissão, haja vista a tese jurídica apresentada às fls. 192/198 do recurso especial não ter sido apreciada.
+A pretensão recursal direciona-se no sentido de que seja possibilitada a exasperação da pena sob a tese da compatibilidade do uso de uma qualificadora sobressalente como fator de aumento da pena-base.
+Com efeito, em conformidade com a jurisprudência do Superior Tribunal de Justiça, é possibilitado ao magistrado, na dosimetria da pena, diante da presença de várias causas de aumento, fazer incidi-las na primeira fase do cálculo, contanto que sejam observados o respeito ao patamar máximo de pena-base permitido na primeira etapa, como também a evitar a ocorrência de bis in idem em momento posterior.
+A corroborar:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO QUALIFICADO. PENA-BASE. ANTECEDENTES. APLICAÇÃO DO SISTEMA DA PERPETUIDADE. QUALIFICADORAS REMANESCENTES. VALORAÇÃO NA PENA-BASE. POSSIBILIDADE. INOCORRÊNCIA DE BIS IN IDEM. REGIME PRISIONAL. CIRCUNSTÂNCIAS DESFAVORÁVEIS. REGIME FECHADO CABÍVEL PARA O RÉU REINCIDENTE E SEMIABERTO PARA O PRIMÁRIO. WRIT NÃO CONHECIDO.
+ ..
+3. No caso, as instâncias ordinárias valoraram como circunstâncias judiciais duas das três qualificadoras do crime de furto. Nos termos da jurisprudência desta Corte, de rigor a utilização de circunstâncias qualificadoras remanescentes àquela que qualificou o tipo como causas de aumento, agravantes ou circunstâncias judiciais desfavoráveis, respeitada a ordem de prevalência, ficando apenas vedado o bis in idem.
+ ..
+7. Habeas corpus não conhecido.
+(HC n. 479.583/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/2/2019 - grifo nosso).
+Dessa forma, impõe-se o retorno dos autos à origem para que, diante do quanto provido, elabore, diante de sua discricionariedade vinculada, uma nova dosimetria da pena-base do embargado.
+Ante o exposto, acolho os embargos de declaração para dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de Justiça do Rio Grande do Norte, para que considere a possibilidade de aplicação da qualificadora do concurso de agentes como fator de exasperação da pena na primeira fase da dosimetria.
