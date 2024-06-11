@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por A UNIÃO (FAZENDA NACIONAL), contra decisão que negou seguimento ao seu apelo nobre.
+Houve apresentação de contraminuta por INDÚSTRIA E COMÉRCIO DE PLÁSTICOS MAJESTIC LTDA (MAJESTIC) (e-STJ, fls. 334/336).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, FAZENDA NACIONAL alegou a violação dos arts. 1.022, II, do NCPC, 1.003 do CPC e art. 9º, § 1º, da Lei nº 11.419/2006, assim como aos art. 183 do CPC; 38 da Lei Complementar nº 73/93; 6º da Lei nº 9.028/95; 20 da Lei nº 11.033/2004, e art. 19 da Lei nº 10.910/04, ao aduzir que (1) foi omisso o julgado quanto a impossibilidade de se presumir ciência inequívoca de todas as decisões com o mero peticionamento eletrônico; (2) a petição não demonstra essa ciência inequívoca dos atos passados, traduzindo-se em mera peça padronizada para informar que se avizinhava o término do prazo para adesão de transação fiscal; (3) há dissídio jurisprudencial a considerar (REsp nº 1739201 / AM) (e-STJ, fls. 252/263).
+Houve apresentação de contrarrazões por MAJESTIC (e-STJ, fls. 292/295).
+(1) Da violação do art. 1.022, II, do NCPC, pela negativa de prestação jurisdicional.
+Alegou FAZENDA NACIONAL que o Tribunal estadual não se pronunciou sobre o fato de a mera apresentação da petição eletrônica, sem as devidas referências aos atos processuais pregressos, não caracterizar a ciência inequívoca da decisão agravada que dispensou a apresentação das certidões de regularidade fiscal para homologação do plano de recuperação judicial, daí não se podendo concluir pela preclusão do insurgimento.
+Todavia, sobre essa ciência da FAZENDA NACIONAL das decisões judiciais pregressas ao seu peticionamento eletrônico, o acórdão recorrido deixou assentado:
+Não se ignora que a Fazenda Pública tem o benefício da intimação pessoal dos atos processuais. Porém, no caso em questão, compareceu espontaneamente aos autos em abril de 2021, inclusive para se manifestar especificamente sobre o débito fiscal em questão (fls. 5.676/5.679 dos autos de origem).
+Desse modo, decorreu quase um ano entre a data do comparecimento espontâneo em juízo em que teve ciência inequívoca do débito fiscal, pois, reitera-se, aduziu informações sobre o término do prazo para adesão aos parcelamentos e com pedido de esclarecimentos sobre a equalização fiscal (e-STJ, fls. 235 - sem destaque no original).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022, II, do NCPC, o que busca FAZENDA NACIONAL é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A DELIBERAÇÃO UNIPESSOAL QUE CONHECERA DO AGRAVO (ART. 544 DO CPC/73) PARA, DE PLANO, NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Não compete ao STJ o exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpar a competência do Supremo Tribunal Federal. Precedentes.
+2. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+3. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte nas razões do agravo regimental, apenas decidindo de forma contrária aos interesses da embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 469.306/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 1º/12/2016, DJe 7/12/2016 - sem destaque no original)
+Afasta-se, portanto, a alegação de omissão do acórdão recorrido.
+(2) Da violação dos arts. 1.003 do CPC; 9º, § 1º, da Lei nº 11.419/2006; 183 do CPC; 38 da Lei Complementar nº 73/93; 6º da Lei nº 9.028/95; 20 da Lei nº 11.033/2004, e 19 da Lei nº 10.910/04
+Ao fundamento de que a petição eletrônica que denota o comparecimento espontâneo não demonstra essa ciência inequívoca dos atos passados, sustentou FAZENDA NACIONAL que a decisão do Tribunal bandeirante ofende aos dispositivos infraconstitucionais indicados.
+Mas a Corte bandeirante, na leitura soberana dos fatos e provas, diversamente da pretensão recursal de FAZENDA NACIONAL, entendeu justamente que sua manifestação espontânea por meio de petição eletrônica nos autos em abril de 2021 abordou justamente "o débito fiscal em questão (fls. 5.676/5.679 dos autos de origem)" (e-STJ, fls. 235).
+Além disso, o acórdão criticado formou convicção de que houve a ciência inequívoca do débito fiscal pela FAZENDA NACIONAL, desde que a petição de abril de 2021, aduziu informações sobre o término do prazo para adesão aos parcelamentos e com pedido de esclarecimentos sobre a equalização fiscal.
+Assim, para infirmar tais premissas que levaram a Corte recorrida a chegar na conclusão de que a FAZENDA NACIONAL, ao peticionar em abril de 2021, já tinha ciência inequívoca da decisão de homologação do plano de recuperação independentemente da exigência da CND da empresa recuperanda MAJESTIC, seria necessário ou mesmo imprescindível novo escrutínio do material de cognição, o que não é possível diante do óbice da Súmula nº 7/STJ segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+A propósito, o parecer do Subprocurador-Geral da República também foi nesse sentido:
+Com efeito, ao que se percebe, o peticionamento espontâneo da Fazenda Nacional, no caso concreto, ensejou a conclusão de ciência inequívoca da parte, pois o conteúdo da petição deixa claro e indene de dúvidas o conhecimento do ato judicial.
+Ademais, vale ressaltar que a questão de definir a tempestividade do recurso e se houve ou não a ciência inequívoca da decisão agravada, remete ao revolvimento de fatos e provas, o que resta inviável neste momento processual, a teor da Súmula 7/STJ (e-STJ, fls. 352 - sem destaque no original).
+Nesse sentido, vale conferir nos precedentes seguintes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. INTEMPESTIVIDADE DA APELAÇÃO. CIÊNCIA INEQUÍVOCA. DISCUSSÃO EM SENTIDO CONTRÁRIO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO PREJUDICADO.
+1. Ação regressiva.
+2. A jurisprudência desta Corte, é firme no sentido de que, nos termos do 9º, § 1º, da Lei 11.419/06 (Lei que dispõe sobre a informatização do processo judicial), "As citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais." Precedentes.
+3. O reexame fático e probatório em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.374.180/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/4/2024, DJe de 24/4/2024 - sem destaque no original.)
+PROCESSUAL CIVIL. APELAÇÃO TEMPESTIVIDADE RECURSAL. ARTIGO DE LEI NÃO PREQUESTIONADO. SÚMULA 211/STJ. CIÊNCIA INEQUÍVOCA. INÍCIO DA CONTAGEM DO PRAZO. NECESSIDADE DE ANALISAR CONTEÚDO FÁTICO. ÓBICE DA SÚMULA 7/STJ.
+1.  ..
+2. Ademais, extrai-se de aresto hostilizado que o recurso de Apelação interposto pelo Município de Atibaia era intempestivo, porquanto interposto em prazo superior ao que determina a legislação, pois o procurador municipal fez carga do processo em 24.7.2013 e teve ciência inequívoca dos termos da decisão contra a qual pretendia recorrer, sendo a Apelação interposta somente em 15.10.2013.
+3.  ..
+4. A análise proposta pelo insurgente acerca da tempestividade do recurso excederia as razões colacionados no acórdão recorrido, o que implica revolvimento do contexto fático-probatório. Assim, incide o óbice da Súmula 7 do STJ.
+5. Recurso Especial do qual não se conhece.
+(REsp n. 1.709.477/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2017, DJe de 19/12/2017 - sem destaque no original.)
+PROCESSUAL CIVIL. APELAÇÃO. INTEMPESTIVIDADE. VISTA DOS AUTOS. CIÊNCIA INEQUÍVOCA. TERMO A QUO. IMPOSSIILIDADE DE DISCUSSÃO DE QUESTÕES FÁTICO-PROBATÓRIAS. SÚMULA 7/STJ. INADMISSIBILIDADE.
+1.  ..
+2.  ..
+3. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, para chegar a conclusão diversa, torna-se imprescindível reexaminar o conjunto fático-probatório constante dos autos, o que é vedado em Recurso Especial. Adentrar na presente aferição encontraria óbice no édito 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Recurso Especial de que não se conhece.
+(REsp n. 1.666.692/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2017, DJe de 19/6/2017 - sem destaque no original.)
+(3) Da existência de dissídio jurisprudencial.
+Segundo defendeu a FAZENDA NACIONAL, há no caso manifesto dissídio jurisprudencial com o REsp nº 1739201 / AM, em cujo paradigma se propõe que o peticionamento espontâneo, sem comprovado acesso aos autos, não precedido de intimação formal, somente poderia ensejar a conclusão de ciência inequívoca da parte se o conteúdo da petição deixasse claro, indene de dúvidas, o conhecimento a propósito do ato judicial não publicado.
+Mas, pelo entendimento do Tribunal paulista, a petição espontânea teria demonstrado esse conhecimento inequívoco do ato judicial não publicado, tendo sido inviabilizado infirmar as premissas em que assentada a conclusão do acórdão recorrido, por esbarrar no óbice da Súmula 7/STJ.
+Ressalta-se que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica" (AgInt noAgRg no AREsp 317.832/RJ, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/3/2018).
+Logo, o recurso também não poderia vingar pelo pressuposto constitucional da alína c.
+Nessas condições, CONHEÇO do agravo para CONHECER em parte do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inexistindo hipótese de prévia fixação de honorários no presente recurso em desfavor da recorrente, deixo de aplicar a regra do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. HOMOLOGAÇÃO DE PLANO DE RECUPERAÇÃO SEM EXIGÊNCIA DE CND. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC POR NEGATIVA DE PRESTAÇÃO. INOCORRÊNCIA. ACÓRDÃO QUE, CONQUANTO CONTRÁRIO AOS INTERESSES DA PARTE, RESPONDE INTEGRALMENTE AS QUESTÕES POR ELA PONTUADAS. (2) PETICIONAMENTO ESPONTÂNEO DA FAZENDA NACIONAL. ACÓRDÃO QUE VISLUMBRA PLENA CIÊNCIA DA PETICIONANTE SOBRE O ATO NÃO INTIMADO, INCLUSIVE POR TER SE MANIFESTADO ESPECIFICAMENTE SOBRE O DÉBITO FISCAL EM QUESTÃO. DECURSO DE QUASE UM ANO ENTRE A DATA DO COMPARECIMENTO ESPONTÂNEO EM JUÍZO EM QUE TEVE CIÊNCIA INEQUÍVOCA DO ATO RECORRIDO. INTEMPESTIVIDADE CUJA INFIRMAÇÃO IMPLICA NOVO ESCRUTÍNIO DE PROVAS. SÚMULA 7/STJ. (3) DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE PELO NÃO CONHECIMENTO DO RECURSO PELO PERMISSIVO DA ALÍNEA "A" EM RAZÃO DE ÓBICE SUMULAR SOBRE MESMO PONTO DA DIVERGÊNCIA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL, E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
