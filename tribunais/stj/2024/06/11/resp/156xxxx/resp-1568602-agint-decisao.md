@@ -1,0 +1,63 @@
+DECISÃO
+Em  análise,  agravo  interno  interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra  a  decisão  que  deu provimento ao recurso especial do segurado, a fim de afastar a decretação de decadência, e determinar o retorno dos autos ao Tribunal de origem para prosseguir com o julgamento.
+Argumenta  a  parte agravante, em síntese, que "a r. decisão agravada está em contrariedade com o julgamento do REsp 1644191/RS, realizado sob rito dos recursos especiais repetitivos, pois aplicou indevidamente a teoria da actio nata para a contagem de prazo decadencial" (fl. 318).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação a fls. 321-322.
+É o relatório.
+Passo a decidir.
+Exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC/2015 e art. 259 do RISTJ e, considerando os relevantes argumentos suscitados pela parte agravante, reconsidero a decisão agravada e passo a novo exame do agravo em recurso especial.
+Trata-se de agravo manejado por Arnoldo Schlueter contra decisão que não admitiu recurso especial, este interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 230):
+PREVIDENCIÁRIO. DECADÊNCIA DO DIREITO DE REVISÃO. RE Nº 626.489/SE. RESP Nº 1.326.114/SC.
+1. A instituição de prazo decadencial no direito previdenciário é inaplicável ao próprio direito a benefícios.
+2. Relativamente à revisão do ato concessório dos benefícios previdenciários, a alteração legislativa é válida e encontra justificativa na necessidade de manutenção do equilíbrio atuarial do sistema.
+3. Os benefícios previdenciários concedidos antes da edição da MP nº 1.523-9, de 28/06/1997, estão sujeitos à decadência, devendo o prazo decenal ser computado a partir de 01/08/1997, à luz do próprio art. 103 da Lei nº 8.213/91.
+Nas razões do recurso especial, o recorrente alega a existência de divergência jurisprudencial na interpretação do art. 103 da Lei 8.213/91, pois "o início da contagem do prazo decadencial decenal, no caso dos autos, se inicia a partir do momento em que o INSS converte o benefício da parte autora de aposentadoria proporcional para integral, em razão de decisão judicial cumprida apenas em 10/2008, pois, somente nesse momento nasce o direito da parte autora à revisão nesses autos pretendida" (fl. 236).
+Requer, ao final, o provimento do recurso.
+Não apresentadas as contrarrazões, o recurso especial foi admitido pelo Tribunal de origem (fls. 277-278).
+A irresignação não merece acolhida.
+No caso, o Tribunal de origem decretou a decadência, nos seguintes termos:
+A questão controvertida trazida no feito diz respeito ao reconhecimento do direito adquirido ao melhor benefício, considerando a data da implementação dos requisitos mínimos para a aposentadoria, ainda que o direito tenha sido exercido em data posterior, procedendo-se à revisão do ato de concessão de benefício previdenciário.
+Observe-se que o benefício reclamado teve concessão antes da vigência do instituto da decadência. Logo, o prazo decenal deve ser computado a partir de 01/08/1997.
+Considerando que a ação foi proposta mais de dez anos após o advento da Lei nº 9.528/1997, acompanho a posição adotada nesta Turma para reconhecer que a pretensão da parte requerente está fulminada pela decadência. (fl. 228)
+O acórdão recorrido adotou o entendimento pacificado nesta Corte, segundo o qual incide o prazo decadencial previsto no art. 103 da Lei 8.213/91 para o reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso, conforme julgamento submetido ao regime dos recursos repetitivos, Tema 966/STJ:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. RECONHECIMENTO DO DIREITO ADQUIRIDO AO BENEFÍCIO MAIS VANTAJOSO. EQUIPARAÇÃO AO ATO DE REVISÃO. INCIDÊNCIA DO PRAZO DECADENCIAL. ARTIGO 103 CAPUT DA LEI 8.213/1991. TEMA 966. RECURSO ESPECIAL NÃO PROVIDO.
+1. Cinge-se a controvérsia em saber se o prazo decadencial do caput do artigo 103 da Lei 8.213/1991 é aplicável aos casos de requerimento a um benefício previdenciário mais vantajoso, cujo direito fora adquirido em data anterior à implementação do benefício previdenciário ora em manutenção.
+2. Em razão da natureza do direito tutelado ser potestativo, o prazo de dez anos para se revisar o ato de concessão é decadencial.
+3. No âmbito da previdência social, é assegurado o direito adquirido sempre que, preenchidos os requisitos para o gozo de determinado benefício, lei posterior o revogue, estabeleça requisitos mais rigorosos para a sua concessão ou, ainda, imponha critérios de cálculo menos favoráveis ao segurado.
+4. O direito ao beneficio mais vantajoso, incorporado ao patrimônio jurídico do trabalhador segurado, deve ser exercido por seu titular nos dez anos previstos no caput do artigo 103 da Lei 8.213/1991.
+Decorrido o decênio legal, acarretará a caducidade do próprio direito. O direito pode ser exercido nas melhores condições em que foi adquirido, no prazo previsto no caput do artigo 103 da Lei 8. 213/1991.
+5. O reconhecimento do direito adquirido ao benefício mais vantajoso equipara-se ao ato revisional e, por isso, está submetido ao regramento legal. Importante resguardar, além da segurança jurídica das relações firmadas com a previdência social, o equilíbrio financeiro e atuarial do sistema previdenciário.
+6. Tese delimitada em sede de representativo da controvérsia: sob a exegese do caput do artigo 103 da Lei 8.213/1991, incide o prazo decadencial para reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso.
+7. Recurso especial do segurado conhecido e não provido. Observância dos artigos 1.036 a 1.041 do CPC/2015.
+(REsp n. 1.612.818/PR, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 13/2/2019, DJe de 13/3/2019.)
+Ademais, ainda sob o rito dos recursos repetitivos, esta Corte consolidou o entendimento de que "aplica-se o prazo decadencial de dez anos estabelecido no art. 103, caput, da Lei 8.213/1991 às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de análise de concessão de benefício previdenciário".
+Confira-se:
+PREVIDENCIÁRIO. CONTROVÉRSIA SUBMETIDA AO REGIME DOS ARTS. 1.036 E SEGUINTES DO CPC/2015. TEMA 975/STJ. REGIME GERAL DE PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. REVISÃO DO ATO DE CONCESSÃO. QUESTÕES NÃO DECIDIDAS. DECADÊNCIA ESTABELECIDA NO ART. 103 DA LEI 8.213/1991. CONSIDERAÇÕES SOBRE OS INSTITUTOS DA DECADÊNCIA E DA PRESCRIÇÃO. AFASTAMENTO DA APLICAÇÃO DO PRINCÍPIO DA ACTIO NATA. IDENTIFICAÇÃO DA CONTROVÉRSIA.
+1. Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) em que se alega que incide a decadência mencionada no art. 103 da Lei 8.213/1991 mesmo quando a matéria específica controvertida não foi objeto de apreciação no ato administrativo de análise de concessão de benefício previdenciário.
+2. A tese representativa da controvérsia, admitida no presente feito e no REsp 1.644.191/RS, foi assim fixada (Tema 975/STJ): "questão atinente à incidência do prazo decadencial sobre o direito de revisão do ato de concessão de benefício previdenciário do regime geral (art. 103 da Lei 8.213/1991) nas hipóteses em que o ato administrativo da autarquia previdenciária não apreciou o mérito do objeto da revisão."
+FUNDAMENTOS DA RESOLUÇÃO DA CONTROVÉRSIA
+3. É primordial, para uma ampla discussão sobre a aplicabilidade do art. 103 da Lei 8.213/1991, partir da básica diferenciação entre prescrição e decadência.
+4. Embora a questão seja por vezes tormentosa na doutrina e na jurisprudência, há características inerentes aos institutos das quais não se pode afastar, entre elas a base de incidência de cada um deles, fundamental para o estudo da decadência do direito de revisão dos benefícios previdenciários.
+5. A prescrição tem como alvo um direito violado, ou seja, para que ela incida deve haver controvérsia sobre o objeto de direito consubstanciada na resistência manifestada pelo sujeito passivo, sendo essa a essência do princípio da actio nata (o direito de ação nasce com a violação ao direito). Essa disciplina é consubstanciada pelo art. 189 do CC: "art. 189. Violado o direito, nasce para o titular a pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206."
+6. Por subtender a violação do direito, o regime prescricional admite causas que impedem, suspendem ou interrompem o prazo prescricional, e, assim como já frisado, a ação só nasce ao titular do direito violado.
+7. Já a decadência incide sobre os direitos exercidos independentemente da manifestação de vontade do sujeito passivo do direito, os quais são conhecidos na doutrina como potestativos.
+Dessarte, para o exercício do direito potestativo e a consequente incidência da decadência, desnecessário haver afronta a esse direito ou expressa manifestação do sujeito passivo para configurar resistência, pois o titular pode exercer o direito independentemente da manifestação de vontade de terceiros.
+8. Não há falar, portanto, em impedimento, suspensão ou interrupção de prazos decadenciais, salvo por expressa determinação legal (art. 207 do CC).
+9. Por tal motivo, merece revisão a corrente que busca aplicar as bases jurídicas da prescrição (como o princípio da actio nata) sobre a decadência, quando se afirma, por exemplo, que é necessário que tenha ocorrido afronta ao direito (explícita negativa da autarquia previdenciária) para ter início o prazo decadencial.
+10. Como direito potestativo que é, o direito de pedir a revisão de benefício previdenciário prescinde de violação específica do fundo de direito (manifestação ostensiva da autarquia sobre determinado ponto), tanto assim que a revisão ampla do ato de concessão pode ser realizada haja ou não expressa análise do INSS. Caso contrário, dever-se-ia impor a extinção do processo sem resolução do mérito por falta de prévio requerimento administrativo do ponto não apreciado pelo INSS.
+11. Isso é reforçado pelo art. 103 da Lei 8.213/1991, que estabelece de forma específica o termo inicial para o exercício do direito potestativo de revisão quando o benefício é concedido ("a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação") ou indeferido ("do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo").
+12. Fosse a intenção do legislador exigir expressa negativa do direito vindicado, teria adotado o regime prescricional para fulminar o direito malferido. Nesse caso, o prazo iniciar-se-ia com a clara violação do direito e aplicar-se-ia o princípio da actio nata.
+13. Não é essa compreensão que deve prevalecer, já que, como frisado, o direito que se sujeita a prazo decadencial independe de violação para ter início.
+14. Tais apontamentos corroboram a tese de que a aplicação do prazo decadencial independe de formal resistência da autarquia e representa o livre exercício do direito de revisão do benefício pelo segurado, já que ele não se subordina à manifestação de vontade do INSS.
+15. Considerando-se, por fim, a elasticidade do lapso temporal para os segurados revisarem os benefícios previdenciários, a natureza decadencial do prazo (não aplicação do princípio da actio nata) e o princípio jurídico básico de que ninguém pode alegar o desconhecimento da lei (art. 3º da LINDB), conclui-se que o prazo decadencial deve ser aplicado mesmo às questões não tratadas no ato administrativo de análise do benefício previdenciário.
+FIXAÇÃO DA TESE SUBMETIDA AO RITO DOS ARTS. 1.036 E SEGUINTES DO CPC/2015
+16. Para fins dos arts. 1.036 e seguintes do CPC/2015, a controvérsia fica assim resolvida (Tema 975/STJ): "Aplica-se o prazo decadencial de dez anos estabelecido no art. 103, caput, da Lei 8.213/1991 às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de análise de concessão de benefício previdenciário."
+RESOLUÇÃO DO CASO CONCRETO
+17. Na hipótese dos autos, o Tribunal de origem entendeu de forma diversa do que aqui assentado, de modo que deve ser provido o Recurso Especial para se declarar a decadência do direito de revisão, com inversão dos ônus sucumbenciais (fl. 377/e-STJ), observando-se a concessão do benefício da justiça gratuita.
+CONCLUSÃO
+18. Recurso Especial provido. Acórdão submetido ao regime dos arts. 1.036 e seguintes do CPC/2015.
+(REsp n. 1.644.191/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 11/12/2019, DJe de 4/8/2020.)
+Assim, por estar em conformidade com a jurisprudência desta Corte Superior, o acórdão recorrido deve ser mantido .
+Isso posto, reconsidero a decisão de fls. 307-310. Por conseguinte, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
