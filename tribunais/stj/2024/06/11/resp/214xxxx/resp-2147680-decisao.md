@@ -1,0 +1,29 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 1502584-92.2022.8.26.0616.
+Nas razões recursais, o Parquet aponta violação aos arts. 33, § 3º e 59, ambos do Código Penal, além de dissídio jurisprudencial, ao argumento de que deve ser fixado o regime fechado para o início do cumprimento da pena do recorrido, diante da existência de duas circunstâncias judiciais negativas e da agravante da reincidência.
+Requer o provimento do recurso, para que seja alterado o regime inicial de cumprimento da pena do sentenciado.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 318-324).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrido foi condenado, em primeiro grau, à pena de 1 ano e 6 meses de reclusão mais 16 dias-multa, em regime fechado, pela prática do delito previsto no art. 180, caput, do Código Penal.
+A Corte estadual deu parcial provimento ao apelo defensivo, a fim de modificar o modo inicial de cumprimento da sanção, sob a seguinte motivação (fl. 261):
+Tributado o devido respeito ao entendimento do douto julgador a quo, quanto ao regime prisional, ainda que reincidente o réu, considerada a quantidade de pena imposta e por se tratar de crime cometido sem violência ou grave ameaça, o regime fechado é severo demais, sendo possível a fixação do regime semiaberto, adequado e suficiente para prevenção e repressão da espécie de crime por ele praticado, nos termos do artigo 33, §2º, do Código Penal.
+Sobre a matéria posta em discussão, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso assiste razão ao Ministério Público. Isso porque o réu, além de reincidente, possui duas circunstâncias judiciais avaliadas como desfavoráveis, o que afasta, a aplicação da Súmula n. 269 deste Superior Tribunal, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+Ilustrativamente:
+ ..
+I - Inicialmente, a respeito da matéria controvertida, é oportuno registrar que a jurisprudência desta Corte se firmou no sentido de que o deferimento do regime aberto se dá desde que preenchidos os requisitos constantes do art. 33, § 2º, c, e § 3º, c.c. o art. 59 do Código Penal, quais sejam, a ausência de reincidência, a condenação por um período igual ou inferior a 4 (quatro) anos de reclusão e a inexistência de circunstâncias judiciais desfavoráveis.
+II - Outrossim, em casos nos quais a reprimenda também não ultrapasse o limiar de 4 (quatro) anos de reclusão, mas haja a incidência da agravante da reincidência, é possível a fixação do regime semiaberto, se não houver a negativação de circunstância judicial na primeira fase da dosimetria, consoante o enunciado n. 269 da Súmula deste STJ, in verbis: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+III - Este não é, contudo, o caso dos autos. Com efeito, verifico que, embora a pena do agravante tenha sido fixada definitivamente em 1 (um) ano, 6 (seis) meses e 16 (dezesseis) dias de reclusão, houve a exasperação da pena-base, em razão da existência de uma circunstância desfavorável (maus antecedentes), bem como a incidência da agravante da reincidência (multirreincidência), os quais são fundamentos idôneos para justificar a fixação do regime inicial fechado, ao teor art. 33, § 2º e § 3º, do Código Penal, não sendo aplicável ao caso, portanto, a Súmula n. 269/STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.548.319/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024, destaquei)
+ ..
+3. A despeito do quantum de pena definitivamente imposta ao réu, a reincidência e a circunstância judicial negativa justificam a fixação do modo fechado para o início do seu cumprimento. Súmula n. 269 do STJ.
+3. Agravo regimental não provido.
+(AgRg no HC n. 874.006/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, a fim de restabelecer o regime inicial fechado fixado na sentença.
+Publique-se e intimem-se.
+EMENTA
