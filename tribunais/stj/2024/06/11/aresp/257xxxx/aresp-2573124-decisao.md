@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto por ESTADO DE MINAS GERAIS contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AÇÃO RESCISÓRIA. ARTIGO 966, INCISO V DO CPC. VIOLAÇÃO MANIFESTA À NORMA JURÍDICA. INEXISTÊNCIA. PEDIDOS IMPROCEDENTES.
+A ação rescisória constitui exceção à garantia fundamental da coisa julgada, e, portanto, submete-se a regramento especial, com cabimento limitado às hipóteses do artigo 966 do Código de Processo Civil.
+Incabível a ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais.
+No exercício da jurisdição à qual foi investido o julgador, lhe é permitido decidir conforme seus critérios de entendimento, e segundo suas convicções.
+Julgada improcedente a ação rescisória, em juízo rescindendo." (e-STJ, fl. 256)
+Opostos embargos de declaração, os mesmos foram desprovidos (e-STJ, fls. 274/276).
+Nas razões do recurso especial, a agravante alega violação aos arts. 85, §§ 2º, 3º e 8º , 966, inciso V, 11, 489, §1º, incisos IV e VI e 1.022 do Código de Processo Civil de 2015, sustentando, em síntese, (a) que o acórdão é nulo em razão de ausência de fundamentação com relação a alegação de violação de dispositivo legal contido na Constituição Federal, (b) que a ação rescisória deveria ter sido julgada procedente em razão da violação ao art. 40, caput e §2º da CF/88 e dos arts. 36, §2º, 68 e 173 da Constituição Estadual, sendo que o reconhecimento de inconstitucionalidade da Lei nº 21.710/15 pelo Tribunal de origem facilitaria a arguição de violação à lei, (c) que é cabível o ajuizamento de ação rescisória quando se sobrevém à declaração de inconstitucionalidade de preceito legal no qual se fundamentou a decisão rescindenda ainda que se alegue coisa julgada, (d) que os dispositivos da lei estadual que possibilitam o recebimento do dobro da remuneração acrescido de parcela de 50% da remuneração do cargo em comissão são flagrantemente inconstitucionais e (e) que os honorários devem ser fixados por equidade e de forma proporcional diante de caso como o presente em que não houve litígio.
+Contrarrazões às fls. 305/324.
+Juízo negativo de admissibilidade às fls. 328/333 em que se negou seguimento com base no Tema nº 1.076 com fulcro no art. 1.030, I do CPC/15 e não se admitiu o recurso em razão da (a) ausência de violação ao art. 1.022 do CPC/15, (b) incidência da Súmula 83/STJ e (c) ausência de divergência jurisprudencial.
+Interposto agravo em recurso especial às fls. 381/388.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial.
+No caso dos autos, a parte agravante não impugnou especificamente os fundamentos de inadmissão correspondentes à incidência da Súmula 83/STJ e ausência de divergência jurisprudencial, o que acarreta o não conhecimento do agravo. Nesse sentido: AgInt no AREsp 2.228.742/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe 15/3/2023; AgInt no AREsp 2.083.809/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 16/3/2023; AgInt no AREsp 2.070.066/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 20/10/2022.
+Ante o exposto, não conheço do agravo em recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
