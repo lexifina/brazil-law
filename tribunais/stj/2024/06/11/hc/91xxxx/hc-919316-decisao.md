@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDMILSON LOPES, contra decisão do relator, que indeferiu a medida liminar na origem.
+Colhe-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito tipificado no art. 311, § 2º, III, do Código Penal.
+Neste writ, o impetrante sustenta, em síntese, que a segregação cautelar não pode ser decretada de ofício pelo Magistrado, mesmo na hipótese de conversão da prisão em flagrante em preventiva. Aduz, ainda, que não estão presentes os requisitos legais autorizadores da prisão preventiva, previstos no art. 312 do CPP.
+Pleiteia a revogação da prisão preventiva imposta ao paciente, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo nos casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+No caso, observa-se a existência de flagrante ilegalidade a permitir a superação do referido ób ice sumular.
+Isso porque a Quinta Turma desta Corte Superior, ao julgar, em 20/10/2020, o HC n. 590.039/GO, firmou, por unanimidade, entendimento no sentido de que, após as alterações legislativas promovidas pela Lei n. 13.864/2019 (Pacote Anticrime), é inadmissível ao Magistrado converter a prisão em flagrante em preventiva, ex officio.
+Eis a ementa do julgado:
+"PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. PRISÃO PREVENTIVA. VIGÊNCIA DA LEI 13.964/2019. CONVERSÃO EX OFFICIO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. ILEGALIDADE. NECESSIDADE DE PRÉVIO REQUERIMENTO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos da Súmula 691 do STF, é incabível habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada. No caso, observam-se circunstâncias excepcionais que autorizam a mitigação do referido enunciado sumular.
+2. A Lei n. 13.964/2019 promoveu diversas alterações processuais, deixando clara a intenção do legislador de retirar do Magistrado qualquer possibilidade de decretação ex officio da prisão preventiva.
+3. O anterior posicionamento desta Corte, no sentido de que "não há nulidade na hipótese em que o magistrado, de ofício, sem prévia provocação da autoridade policial ou do órgão ministerial, converte a prisão em flagrante em preventiva", merece nova ponderação em razão das modificações trazidas pela referida Lei n 13.964/2019, já que parece evidente a intenção legislativa de buscar a efetivação do sistema penal acusatório.
+4. Assim, a partir das inovações trazidas pelo Pacote Anticrime, tornou-se inadmissível a conversão, de ofício, da prisão em flagrante em preventiva. Portanto, a prisão preventiva somente poderá ser decretada mediante requerimento do Ministério Público, do assistente ou querelante, ou da autoridade policial (art. 311 do CPP), o que não ocorreu na hipótese dos presentes autos.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício para declarar a nulidade da conversão da prisão em flagrante em preventiva, sem prévio requerimento." (HC 590.039/GO, Rel. Min. RIBEIRO DANTAS, Quinta Turma, julgado em 20/10/2020)
+Nesse contexto, cumpre ressaltar que, embora a Sexta Turma deste Tribunal Superior tenha se manifestado, por maioria, de modo diverso (HC 583.995/MG, Rel. Ministro NEFI CORDEIRO, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, julgado em 15/9/2020, DJe 7/10/2020), esse não foi o entendimento firmado pela Segunda Turma do Supremo Tribunal Federal, que, por unanimidade, decidiu pela ilegalidade da conversão ex officio da prisão em flagrante (HC 188.888/MG, julgado em 6/10/2020).
+In casu, o Juízo de primeiro grau converteu a prisão em flagrante em preventiva, sem prévio requerimento do Ministério Público, do assistente ou querelante, ou representação da autoridade policial, o que, consoante posição jurisprudencial dominante, deixou de ser admitido pela legislação processual penal em vigor.
+Ante o exposto, indefiro liminarmente o habeas corpus. Contudo, concedo a ordem, de ofício, para declarar a nulidade da conversão da prisão em flagrante em preventiva, nos autos da Ação Penal n. 1502454-49.2024.8.26.0320.
+Ressalvo a possibilidade de nova decretação da prisão, ou aplicação de medidas cautelares previstas no art. 319 do CPP, desde que precedidas de requerimento.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo da 1ª Vara Criminal da Comarca de Limeira.
+Publique-se. Intimem-se.
+EMENTA
