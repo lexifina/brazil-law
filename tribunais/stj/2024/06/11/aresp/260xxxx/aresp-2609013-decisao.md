@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por Construtora Gilson Goncalves Ferreira contra decisão que não admitiu o recurso especial desafiando acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fls. 475-483):
+APELAÇÃO CÍVEL -AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA -REQUISITOS LEGAIS -NÃOPREENCHIMENTO -TEMPO DE POSSE NÃO COMPROVADA -FUNÇÃO SOCIAL DA PROPRIEDADE -INDEMONSTRADA -SENTENÇA MANTIDA. A usucapiãoconstitui-se como um modo de adquirir o domínio da coisa ou de certos direitos reais pela posse continuada durante certo lapso de tempo, com o concurso dos requisitos que a lei estabelece para a modalidade específica, neste caso, aquela descrita no art. 1.238 do CC que dita que "aquele que, por quinze anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé; podendo requerer ao juiz que assim o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis.".
+A posse precária configura pela permissão a umnovo possuidor que frustra a confiança que lhe foi depositada, deixando de lhe entregar a coisa, quando solicitada ou no tempo predeterminado.
+Não preenchidos os requisitos ensejadores do reconhecimento da usucapião, a medida que se impõe é manter a sentença que julga improcedente o pedido inicial.
+Nas razões do recurso especial (e-STJ, fls. 508-518), o recorrente apontou violação aos arts. 370, parágrafo único, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil.
+Alegou, em síntese, negativa de prestação jurisdicional por parte do acórdão estadual ao argumento de ofensa ao contraditório e vício de fundamentação. Aduziu que "o dever de esclarecimento, portanto, impõe que todas as provas produzidas pelas partes sejam analisadas e, principalmente, consideradas pelo juiz no momento da sua decisão, por meio da fundamentação" (e-STJ, fl. 517).
+Contrarrazões apresentadas às fls. 523-526 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial sob os argumentos de não configuração da negativa de prestação jurisdicional e de incidência do óbice da Súmula 7/STJ.
+Agravo em recurso especial apresentado às fls. 540-551 (e-STJ).
+Contraminuta às fls. 557-559 (e-STJ).
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arst. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma acerca em sentido contrário ao postulado pela parte insurgente, sobretudo quanto à ausência dos requisitos para a usucapião.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido. (AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023)
+Em relação à questão de fundo, da leitura do acórdão recorrido, verifica-se que a conclusão adotada pela Corte local - no sentido de não estarem comprovados os requisitos necessários para reconhecimento da pretensão aquisitiva, derivou de ampla cognição sobre premissas fáticas e probatórias dos autos.
+Infirmar o entendimento do Tribunal estadual, demandaria revolvimento de fatos e provas, o que é inviável nessa seara ante o óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da causa, observado o benefício da gratuidade de justiça concedida na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. PRETENSÃO AQUISITIVA. REQUISITOS. AUSÊNCIA. CONCLUSÃO PAUTADA EM PREMISSAS FÁTICAS E PROBATÓRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
