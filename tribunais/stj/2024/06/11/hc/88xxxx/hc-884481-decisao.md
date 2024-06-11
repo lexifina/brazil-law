@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de LUITH SILVA PIRES MARTINS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento da Medida Cautelar Inominada n. 1.0000.23.091395-6/000.
+Extrai-se dos autos que a paciente foi presa em flagrante, em 5/4/2023, por ter supostamente praticado os delitos tipificados no art. 121, § 2º, incisos I e IV, do Código Penal e no art. 12 da Lei n. 10.826/2003 (homicídio qualificado e posse de arma de fogo), tendo o flagrante sido relaxado pelo juízo singular.
+Irresignado, o Ministério Público interpôs Recurso em Sentido Estrito e, na sequência, medida cautelar inominada, a qual o Tribunal de origem deu provimento a fim de aplicar efeito suspensivo ao recurso ministerial, decretando, então, a prisão preventiva da paciente e do corréu, nos termos do acórdão de fls. 46/58, assim ementado:
+"MEDIDA CAUTELAR INOMINADA CRIMINAL HOMICÍDIO QUALIFICADO - INSURGÊNCIA MINISTERIAL CONCESSÃO DEEFEITO SUSPENSIVO AO RECURSO EM SENTIDO ESTRITO EXCEPCIONALIDADE DEMONSTRADA POSSIBILIDADE GARANTIA DA ORDEM PÚBLICA APLICAÇÃO DA LEI PENAL CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL MANUTENÇÃO DA PRISÃO PREVENTIVA DOS ACUSADOS NECESSIDADE DEFERIMENTO DO PEDIDO CAUTELAR RECURSO CONHECIDO EPROVIDO.
+- Em que pese não se tratar de hipótese prevista no artigo 584 do Código de Processo Penal, a jurisprudência do colendo Superior Tribunal de Justiça admite o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público, contra decisão que relaxou a prisão dos recorridos. -Considerando os indícios razoáveis da autoria ou participação em infração penal grave (art. 121, §2º, incisos I, do Código Penal), a necessidade de assegurar a ordem pública e garantir de forma urgente a conveniência da instrução criminal, a concessão da liminar é medida que se impõe, com o estabelecimento da prisão preventiva dos recorridos."
+Os embargos de declaração opostos contra o julgado foram rejeitados (fls. 28/35).
+Na sequência, o Recurso em Sentido Estrito foi provido, a fim de decretar a prisão preventiva da paciente, em acó rdão acostado às fls. 59/74.
+No presente writ, a defesa sustenta haver excesso de prazo na constrição cautelar, porquanto a paciente estaria custodiada desde o dia 27/7/2023, sem que tenha sido entregue a devida prestação jurisdicional.
+Ressalta que se faz necessária, a cada 90 dias, a verificação da permanência dos elementos autorizadores da segregação cautelar, procedimento que não teria sido realizado no caso em testilha, violando o disposto no art. 316 do Código de Processo Penal.
+Aduz que a defesa não teria contribuído para a demora na entrega da prestação jurisdicional.
+Entende que o decreto constritivo careceria de fundamentação idônea, porquanto ausentes os requisitos do art. 312 do Código de Processo Penal - CPP.
+Destaca a excepcionalidade da medida extrema, enfatizando ser cabível a aplicação de medidas cautelares diversas da prisão, mormente por tratar-se de paciente primária, com dois filhos menores e que possui residência fixa.
+Acrescenta que, no período no qual sua prisão foi relaxada, a paciente sempre colaborou com a justiça.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente, ainda que mediante aplicação de medidas cautelares diversas do encarceramento.
+O pedido liminar foi indeferido (fls. 134/135), as informações foram prestadas (fls. 141/408 e 410/465), e o Ministério Público Federal - MPF opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 469/476).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Inicialmente, cumpre ressaltar que o presente mandamus, no ponto em que alega ausência de fundamentação da custódia cautelar e suficiência da aplicação de medidas alternativas à prisão, traz pedido idêntico ao formulado no HC 835.854/MG, que, por decisão proferida em 27/9/2023, não foi conhecido, e ambos tratam da prisão preventiva decretada na ação penal n. 0004040-61.2023.8.13.0687.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste writ, quanto ao ponto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020).
+Em outro vértice, das informações obtidas no site do Tribunal de origem, verifica-se que em 8/3/2024, nos autos n. 0004040-61.2023.8.13.0687, foi proferida sentença em que a paciente foi pronunciada como incursa nas sanções do Art. 121, § 2º, inc. IV (recurso que dificultou a defesa do ofendido), c/c Art. 29, caput, ambos do Código Penal - CP. Na ocasião, a prisão preventiva foi reavaliada e mantida, motivo pelo qual resta prejudicada a alegação de ofensa ao parágrafo único do art. 316 do CPP.
+Ainda, é certo que a superveniência de sentença de pronúncia também torna superada a alegação de excesso de prazo para formação da culpa, ficando, portanto, prejudicada a análise da tese apresentada. Nesse sentido, é o enunciado n. 52 da Súmula do Superior Tribunal de Justiça, in verbis:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Anotem-se, ainda, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E TENTADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NÃO CONFIGURADO. ENUNCIADO 21 DA SÚMULA DESTA CORTE .
+1. O excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional.
+2. "Proferida decisão de pronúncia, esvaziada está a alegação de excesso de prazo para a formação da culpa, nos moldes do que disciplina o enunciado n. 21 da Súmula desta Casa" (AgRg no HC n. 776.255/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023.
+3. Não há que se falar em superação da Súmula n. 21/STJ, uma vez que a decisão de pronúncia foi proferida apenas há 5 meses, não configurando excesso de prazo na prisão preventiva.
+4. Agravo regimental improvido.
+(AgRg no HC n. 823.177/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO SUPERADA. RÉU PRONUNCIADO. SÚMULA 21/STJ. MOROSIDADE NA DESIGNINAÇÃO DE JULGAMENTO PELO TRIBUNAL DO JÚRI. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com informações prestadas pelas instâncias de origem, foi proferida sentença de pronúncia.
+2. Esta Corte orienta que, com o advento da pronúncia, restam superadas as alegações de constrangimento por excesso de prazo, nos termos da Súmula 21/STJ.
+3. A alegação de morosidade para designação de julgamento pelo Tribunal do Júri constitui inovação recursal, não passível de conhecimento em agravo regimental.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 172.808/BA, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+Acrescente-se, por fim, que o entendimento desta Corte Superior é no sentido de que "a alteração promovida pela Lei n. 13.964/2019 ao art. 316 do Código de Processo Penal estabeleceu que o magistrado revisará a cada 90 dias a necessidade da manutenção da prisão, mediante decisão fundamentada, sob pena de tornar a prisão ilegal. Contudo, não se trata de termo peremptório, isto é, eventual atraso na execução desse ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRg no RHC 130.942/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020).
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a concessão da ordem de habeas corpus de ofício.
+Ante o exposto, com fundamento no art. 34, XVIII, alínea a , do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
