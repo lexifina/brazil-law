@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BCLV COMERCIO DE VEICULOS S.A. (BCLV) contra decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (e-STJ, fl. 467).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c , da CF, BCLV alegou a violação dos arts. 186, 884, 187 e 927, todos do CC/02, ao sustentar, em síntese, que os fatos narrados não extrapolaram a esfera do mero aborrecimento cotidiano, de modo a não afetar a esfera subjetiva da honra.
+A Corte estadual, após análise do conjunto fático probatório dos autos, concluiu pela comprovação dos danos morais. Confira-se o aresto recorrido:
+O art. 20, §2º, do Código de Defesa do Consumidor dispõe sobre a responsabilidade dos prestadores de serviços quanto à prestabilidade que deles se espera, tornando-os objetivamente impróprios ao fim a que se propõem. Em se tratando de conserto demasiadamente demorado em veículo automotor, adquirido novo em representante da fabricante, é devido o reconhecimento dos danos extrapatrimoniais, pautados no princípio da proteção da confiança do consumidor e de seu legítimo interesse.
+A situação enfrentada pelo autor e debatida nos autos não configura mero dissabor. A utilização de um veículo novo, impedida pelo transcurso de lapso temporal irrazoável para a realização do conserto  quase um ano, entre maio de 2013 e março de 2014  , na concessionária da marca, evidencia uma inescusável quebra da confiança do consumidor, colocando-o em evidente situação de desamparo. Mesmo que a dimensão dos consertos justificasse o longo período em que o veículo estaria sob cuidados mecânicos, não há indício de que tal foi um fato informado ao demandante quando levou o automóvel para realização dos reparos necessários, ônus que era das rés.
+Com razão o julgador de origem ao afastar a excludente de responsabilidade invocada pela fabricante, na origem, concernente à justificação do atraso pela falta de componentes:
+Na mesma esteira, entendo que nem mesmo a alegada falta de peças disponibilizadas para o conserto do veículo pode servir de argumento para afastar a responsabilidade da parte ré, uma vez que não restou devidamente comprovada. Ademais, a disponibilidade de peças e prestação de serviço de conserto/reparo de veículos da marca é inerente à própria atividade desenvolvida pela parte ré, de sorte que ao deixar de manter estoque de peças suficiente para reparar eventuais anos sofridos pelos veículos que comercializa ou de empreender diligências para a obtenção em tempo razoável. Incorreu, a parte ré, no risco de gerar a situação discutida nos autos. Logo, não há como a parte ré se beneficiar da própria falta de diligência quanto à manutenção de estoque apropriado para conserto dos veículos comercializados (pós-venda) ou quanto à célere obtenção de peças para conserto dos veículos.
+Os danos morais ocorrem na hipótese, decorrentes de situação que ultrapassou a tolerabilidade e foi ocasionada pelas demandadas, realizando muito demoradamente o conserto deum veículo novo (e-STJ, fls. 378/379 - sem destaque no original).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. DESCREDENCIAMENTO DE CLÍNICA MÉDICA. AUSÊNCIA DE COMUNICAÇÃO PRÉVIA AO CONSUMIDOR. ATO ILÍCITO. OCORRÊNCIA. ALTERAÇÃO. SUMÚLA N. 7/STJ. 3. QUANTUM INDENIZATÓRIO. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Reverter a conclusão do Tribunal local para acolher a pretensão recursal, quanto à existência de ato ilícito, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Concernente ao valor da indenização, dispõe a jurisprudência desta Corte Superior que a alteração do valor estabelecido pelas instâncias ordinárias, a título de compensação por danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.171.368/MS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. É inviável a análise de teses alegadas apenas em agravo interno, por se caracterizar inovação recursal, ainda mais quando tais alegações sequer foram analisadas pelas instâncias ordinárias (ausência de prequestionamento).
+2. O acolhimento da tese de inexistência de ato ilícito ou de dano a ser indenizado demandaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula 7 desta Corte Superior. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.146.518/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 26/10/2022, DJe de 4/11/2022)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em desfavor de BCLV, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VEÍCULO NOVO. CONSERTO DEMAISADAMENTE DEMORADO. AUSÊNCIA DE INFORMAÇÃO ACERCA DO TEMPO NECESSÁRIO PARA REALIZAÇÃO DOS REPAROS NECESSÁRIOS. DANOS MORAIS COMPROVADOS. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
