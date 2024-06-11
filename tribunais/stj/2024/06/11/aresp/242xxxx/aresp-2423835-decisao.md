@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por EDVANIA DA CONCEIÇÃO SILVA contra decisão que inadmitiu o seu recurso especial, o qual fora interposto contra acórdão do Tribunal de Justiça do Estado de Alagoas que, em ação de indenização por danos morais, manteve decisão que havia determinado a suspensão do processo até o julgamento de ação civil pública relativa ao afundamento do solo em área de atividade de mineração da Braskem S/A.
+Considerando que, em consulta processual realizada na instância de origem, este Juízo verificou que o processo principal não se encontrava mais suspenso, foi determinada a intimação da agravante a fim de que informasse se ainda possuía interesse no julgamento do recurso, no prazo de 10 (dez) dias, sob pena de reconhecimento da perda do seu objeto.
+Em resposta, a agravante se manifestou às fls. 1459/1460, requerendo a suspensão do julgamento do seu recurso, nos termos do art. 313, V, do Código de Processo Civil.
+Explicou que, diante de "diversas matérias jornalísticas veiculadas na internet" e o estado de calamidade pública da região (fl. 1459), estão sendo revistas diversas cláusulas do termo de acordo celebrado, no âmbito da ação civil pública, entre a Braskem S/A, o Ministério Público Federal, o Ministério Público do Estado de Alagoas, a Defensoria Pública da União e a Defensoria Pública do Estado de Alagoas.
+Informou, ainda, que o Conselho Nacional de Justiça, a Advocacia-Geral da União e a Defensoria Pública do Estado de Alagoas estariam buscando "a revisão do acordo homologado na macrolide" (fl. 1459).
+Em razão disso, requereu a suspensão do julgamento do presente recurso até que sejam revistas as cláusulas do termo de acordo celebrado pela agravada, a fim de assegurar que "seja dada a mesma tratativa a todos os casos, para evitar tumulto processual, assim como decisões desiguais e contraditórias" (fl. 1460).
+Assim posta a questão, passo a decidir.
+De início, observo que não é o caso de se acolher o pedido de suspensão do julgamento deste recurso, visto que não há amparo legal para tanto.
+Note-se que, com o seu recurso especial, a agravante buscava a reforma de acórdão do TJAL que havia mantido decisão de suspensão do seu processo até o julgamento de ação civil pública.
+C onsiderando que o provimento jurisdicional pretendido pela agravante já foi atendido na origem, tendo o seu processo voltado a tramitar normalmente em primeira instância, não há dúvidas quanto à perda superveniente do seu interesse recursal.
+Ressalto que, se a agravante tem interesse, agora, na suspensão do processo, para a revisão das cláusulas do termo de acordo celebrado com a agravada, deve formular pedido expresso junto ao Juízo de origem, sendo certo que a via especial não se revela própria para a apreciação desse tipo de requerimento.
+Em face do exposto, indefiro o p edido de suspensão do julgamento do recurso e não conheço do agravo em recurso especial interposto, visto que prejudicado, nos termos do art. 932, III, do CPC de 2015 e do art. 255, § 4º, I, do Regimento Interno do STJ.
+Intimem-se.
+EMENTA
