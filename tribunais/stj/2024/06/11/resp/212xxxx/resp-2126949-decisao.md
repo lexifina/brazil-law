@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 178):
+ADMINISTRATIVO. REMESSA NECESSÁRIA. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO CIVIL. CONVERSÃO DE LICENÇA ESPECIAL EM PECÚNIA. PRESCRIÇÃO. INOCORRÊNCIA. COMPROVAÇÃO DOS REQUISITOS. ÔNUS DA PARTE AUTORA. INOCORRÊNCIA.
+1. Tratando-se de sentença que fixou condenação em valor ilíquido, o julgado está sujeito à apreciação por esta Eg. Corte também em sede de Remessa Necessária, nos moldes preconizados pela Súmula 61 do TRF - 2ª Região.
+2. Trata-se de aferir a correção de julgado que condenou a UFF a pagar ao Autor valor correspondente a 15 (quinze) meses de licença-prêmio que não teriam sido por ele gozados, referentes aos períodos aquisitivos de 01/04/71 a 31/03/76; 01/04/76 a 31/03/81; 01/04/81 a 31/03/86; 01/04/86 a 31/03/91; 01/04/91 a 31/03/96.
+3. O termo inicial da contagem do prazo prescricional para postular a conversão em pecúnia de licença-prêmio não usufruída é a data da aposentadoria do servidor, conforme entendimento pacificado pelo Colendo Superior Tribunal de Justiça, não se verificando a fluência do lustro prescricional na hipótese uma vez que a aposentadoria se deu em fevereiro de 2019.
+4. A hipótese reclama adequação ao entendimento predominante no Superior Tribunal de Justiça e no Supremo Tribunal Federal, conforme o qual, em prestigio ao princípio da vedação ao enriquecimento ilícito, as licenças-prêmios não gozadas pelos servidores públicos que perderam o direito delas usufruir, seja por conta do rompimento do vínculo com a Administração, seja pela inatividade, deverão ser convertidas em indenização pecuniária.
+5. O pagamento dos valores pretendidos pelo Autor tem como requisito a efetiva comprovação acerca da não fruição e do não aproveitamento do período da licença-prêmio para a concessão de outros benefícios, sendo que, no caso dos autos, a parte autora sequer procurou demonstrar que o período da licença deixou de ser contado em dobro para a aposentadoria e muito menos trouxe aos autos evidências de que a licença-prêmio não foi utilizada para outras finalidades, como para a percepção de adicional por tempo de serviço e abono de permanência.
+6. O Autor limitou-se a instruir sua exordial com uma declaração emitida pelo Departamento de Administração de Pessoal da UFF, que informa não ter havido usufruto dos períodos de licenças-prêmios apontados na exordial (JFRJ, Evento 1). Não consta do citado documento a informação de que os períodos não foram computados para outros fins e, tampouco, restou ali registrado que as citadas licenças não teriam sido usufruídas por conveniência e oportunidade da administração.
+7. Remessa ex officio provida. Apelação da UFF desprovida.
+Embargos de declaração rejeitados.
+O recorrente alega, além do dissídio jurisprudencial, violação dos artigos 87 da Lei n.º 8.112/1990, 7.º da Lei n.º 9.527/97, 489 e 1.022, do CPC.
+Com contrarrazões.
+Em sede de juízo de retratação, a Corte regional manteve hígido o acórdão recorrido, nos termos da seguinte ementa (fl. 354):
+ADMINISTRATIVO. PROCESSUAL CIVIL. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. ART. 1.030, II, DO CPC/2015. TEMA 1086 DO STJ. SERVIDOR PÚBLICO CIVIL. CONVERSÃO EM PECÚNIA DE LICENÇA-PRÊMIO NÃO FRUÍDA EM ATIVIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS NÃO COMPROVADO. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+1. Reapreciação, na forma do art. 1.030, II, do CPC/2015, por força de decisão da Vice-Presidência desta Corte, que, tendo em vista o julgamento definitivo dos recursos especiais nº 1854662/CE, nº 1881324/PE, nº 1881283/RN e nº 1881290/RN, sob o regime dos recursos repetitivos (Tema 1086), determinou o retorno dos autos a este Órgão Julgador para eventual retratação.
+2. Trata-se, na origem, de pedido de conversão em pecúnia de licença-prêmio não fruída durante a atividade funcional, nem contada em dobro para a aposentadoria.
+3. Ainda que se admita a possibilidade de conversão da licença-prêmio não fruída durante sua atividade funcional, nem contada em dobro para a aposentadoria, é certo que o Autor não comprovou que os períodos de licença-prêmio não repercutiram em nenhum dos outros benefícios, para os quais tal período é comumente utilizado, como anuênios, adicional por tempo de serviço, etc. Precedente desta Corte.
+4. Em que pese o entendimento firmado pelo Colendo Superior Tribunal de Justiça, que autorizou, sob certas condições, a conversão em pecúnia de licença-prêmio não fruída em atividade, nem contada em dobro para a aposentadoria, entende-se que a hipótese concreta não contempla o exercício do juízo de retratação, devendo ser mantido o acórdão ora recorrido.
+5. Juízo de retratação não exercido.
+Juízo positivo de admissibilidade às fls. 371.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A irresignação prospera, porque o aresto recorrido destoa da tese fixada no julgamento do Tema 1.086 do STJ, verbis:
+Presente a redação original do art. 87, § 2º, da Lei n. 8.112/1990, bem como a dicção do art. 7º da Lei n. 9.527/1997, o servidor federal inativo, sob pena de enriquecimento ilícito da Administração e independentemente de prévio requerimento administrativo, faz jus à conversão em pecúnia de licença-prêmio por ele não fruída durante sua atividade funcional, nem contada em dobro para a aposentadoria, revelando-se prescindível, a tal desiderato, a comprovação de que a licença-prêmio não foi gozada por necessidade do serviço
+Ante o exposto, dou provimento ao recurso especial, restabelecendo a sentença de fls. 128-130.
+Inverto os ônus sucumbenciais.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. CONVERSÃO DE LICENÇA ESPECIAL EM PECÚNIA. TEMA 1086/STJ. RECURSO ESPECIAL PROVIDO.
