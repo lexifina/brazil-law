@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno contra decisão da Presidência deste Tribunal que indeferiu liminarmente os embargos de divergência do ora agravante ao fundamento de que incide na espécie o óbice da Súmula n. 315 do STJ.
+Aduz a parte recorrente que o recurso especial (fls. 349-379) atende os requisitos necessários à admissão, visto que não foi interposto contra decisão monocrática, mas contra o acórdão que julgou o agravo regimental na origem.
+Informa que tal equívoco de análise por parte desta Corte deu-se em razão do processo de digitalização, cuja incumbência é do Poder Judiciário, e não da parte.
+Assim, o erro na numeração dos autos no processo de digitalização alterou a sequência numérica do processo original, dificultando a compreensão da real ordem cronológica dos atos praticados, vindo a prejudicá-la.
+Sustenta que, na forma dos EAREsp n. 1.342.507, havendo juízo de valor acerca da questão controvertida, o óbice da Súmula n. 315 deve ser superado.
+Entende que, com o advento do novo Código de Processo Civil, as hipóteses de cabimento dos embargos de divergência foram expandidas e que a Súmula n. 315 não foi recepcionada.
+Insiste em que a hipótese dos autos diverge da discutida nos EDcl no AgRg no RMS n. 37.805.
+É o relatório.
+Chamo o feito à ordem, pois houve erro material na análise da admissibilidade do recurso especial pela Primeira Turma.
+A ora embargante vem buscando demonstrar, nos recursos que apresentou nesta Corte, que seu recurso especial foi interposto contra o acórdão que julgara o agravo regimental no Tribunal a quo, e não contra decisão monocrática, como entendeu a Primeira Turma.
+Nesse aspecto, a parte tem razão.
+A Coordenadoria de Recebimentos, Controle e Autuação de Processos Recursais deste Tribunal certificou, à fl. 986, que o recurso especial foi interposto contra o acórdão de fls. 340-345.
+Compulsando os autos, verifica-se que o recurso especial foi protocolizado no dia 20 de junho de 2014 e que a petição de agravo regimental foi protocolizada bem antes, no dia 14 de março do 2014. Portanto, não foram ambos os recursos protocolizados concomitantemente, conforme entendimento da Primeira Turma.
+Nota-se mais o seguinte: não obstante o entendimento da Corte Especial de que a análise dos requisitos de admissibilidade do recurso especial não é passível de revisão por meio de embargos de divergência, neste caso, não se está diante de mera discussão a respeito de eventual (in)aplicabilidade de regras técnicas de admissibilidade do apelo especial, como nas hipóteses das Súmulas n. 7 do STJ e 282 e 356 do STF. Aqui, há uma situação excepcional, que retrata erro de avaliação dos dados físicos constantes do processo, prejudicando a admissibilidade do recurso especial.
+A divergência indicada pela recorrente (EDcl no AgRg no RMS n. 37.805/RS) reconheceu a existência de erro material em razão do equívoco na digitalização do processo e procedeu a novo julgamento do recurso. Observe-se (fl. 662):
+Efetivamente, reconheço a ocorrência do erro material apontado. O recurso ordinário interposto por Iguatur Agência de Viagens e Turismo Ltda (e-STJ fls. 427/438) objetivou atacar o acórdão proferido em sede de agravo regimental contra decisão que indeferiu liminarmente o mandado de segurança, constante às e-STJ fls. 14/19 - Apenso. No entanto, foi considerado para julgamento apenas a decisão monocrática de fls. 419/421-e, em razão de erro material ocorrido quando da digitalização e indexação do processo em julgamento. Não por outra razão que o julgado laborado em equívoco acabou por não conhecer do recurso ordinário pelo não exaurimento da instância de origem.
+Desse modo, acolho os aclaratórios para determinar a anulação da decisão proferida nas e-STJ fl.s 484/485 e do acórdão proferido nas e-STJ fls. 496/502, e dou início a novo julgamento do recurso ordinário conforme se segue. (EDcl no AgInt no RMS n. 37.805 - RS).
+Por fim, não se trata de admitir embargos de divergência em contrariedade à regra do § 1º do art. 1.043 do CPC, comparando paradigma oriundo de ação que tem natureza jurídica de garantia constitucional.
+A embargante não trouxe nenhuma comparação como o mérito do RMS n. 37.805, que tinha por objeto outra questão, a saber, a decisão do TJRS que anulara, de ofício, a fase de liquidação de sentença pela ausência de intimação pessoal da parte.
+A comparação exercida pela ora embargante diz respeito à discussão estabelecida no âmbito interno deste Tribunal a respeito do erro material ocorrido quando da digitalização e indexação do processo em julgamento, que levou ao entendimento equivocado de que aquele recurso ordinário havia sido interposto contra decisão monocrática, tratando-se da mesma situação do presente feito.
+Nesse contexto, merece reforma o acórdão embargado.
+Ante o exposto, afasto o óbice relacionado ao não conhecimento do recurso especial pela falta de esgotamento da instância recursal ordinária e determino o retorno dos autos ao eminente relator do AREsp n. 708.576 para que prossiga no julgamento do agravo em recurso especial como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
