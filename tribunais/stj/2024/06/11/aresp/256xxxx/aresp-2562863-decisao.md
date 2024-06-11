@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por ELIANE DOS SANTOS ESCALANTE ALMEIDA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 365):
+APELAÇÃO CÍVEL. FASE DE CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. EXCLUSÃO DA HABILITAÇÃO, TENDO EM CONTA A IMPROCEDÊNCIA DA ANTERIOR AÇÃO INDIVIDUAL AJUIZADA PELA REQUERENTE, COM TRÂNSITO EM JULGADO. ACÓRDÃO DA CÂMARA QUE ENTENDEU POSSÍVEL A HABILITAÇÃO, COM BASE NO ART. 104 DO CDC. TODAVIA, REFORMA PELO STJ, DEVENDO O COLEGIADO PROSSEGUIR NO JULGAMENTO, "CONFORME ENTENDER DE DIREITO".
+1. CONSIDERANDO QUE A APELANTE RESULTOU AFASTADA DA AÇÃO COLETIVA, POIS, NAS CIRCUNSTÂNCIAS, NÃO SE APLICA O ART. 104 DO CDC, E CONSIDERANDO QUE A AÇÃO INDIVIDUAL FOI JULGADA IMPROCEDENTE, COM TRÂNSITO EM JULGADO, RESTA APENAS, PROSSEGUINDO NO JULGAMENTO, CONFORME DECIDIDO PELO STJ, DESPROVER INTEGRALMENTE A APELAÇÃO.
+2. APELAÇÃO DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial obstaculizado, a parte insurgente apontou violação dos arts. 525, § 12, e 1.022, II, do CPC/2015, sustentando, além da negativa de prestação jurisdicional, a inexigibilidade do título baseado em lei ou ato normativo considerado inconstitucional pelo STF.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Em relação à alegada negativa de prestação jurisdicional, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, registrando que (e-STJ fls. 393/394):
+(..)
+Os embargantes não demonstram, com clareza e objetividade, como exige o art. 1.022, caput, do CPC, qualquer hipótese típica da espécie recursal, e sim, ao feitio de contradição, na verdade rediscutem a matéria julgada, requerendo seja aplicado, aqui, efeito rescisório a o decidido na ação individual, invocando o "disposto nos § 12 do art. 525 do CPC", e o deliberado pelo STF nos TEMAS 396 e 1019.
+A principio, tem-se a impressão de que os embargantes ainda não perceberam que foram alijados da ação coletiva. Qualquer decisão no sentido de admiti-los, inclusive pelo modo proposto, afronta a decisão do STJ.
+No mais, se e nt endem que os mencionados TEMAS rescindiram ipso facto a coisa julgada na ação individual, não é aqui o lugar para fazer a postulação.
+Quanto às demais alegações, o Tribunal de origem consignou o acima destacado, sendo certo que a parte recorrente não impugnou o referido fundamento. Assim, o apelo nobre não pode ser conhecido. Incidem, na hipótese, as Súmulas 283 e 284 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte sucumbente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
