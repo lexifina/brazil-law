@@ -1,0 +1,74 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por ESPÓLIO DE SANTA BRANDÃO RODRIGUES com fulcro nas alínea "a" do permissivo constitucional contra acórdão do TJMS, assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTODE SENTENÇA - PRETENSÃO DE NOVA AVALIAÇÃO DO BEM IMÓVELPENHORADO - NÃO CONFIGURAÇÃO DE NENHUMA DAS HIPÓTESESESTABELECIDAS NO ART. 873, DO CÓDIGO DE PROCESSO CIVIL - PEDIDODE NULIDADE DA AVALIAÇÃO INDIRETA DO BEM PENHORADO - RECONHECIMENTODAOCORRÊNCIADA PRECLUSÃO TEMPORALE CONSUMATIVA - INEXISTÊNCIA DE RECURSO NO MOMENTO OPORTUNO- PRETENSÃO DE AFASTAMENTO DA PENHORA - SUPRESSÃO DEINSTÂNCIA - RECURSO NÃO PROVIDO.
+(fls. 65-71)
+Opostos aclaratórios, foram rejeitados (fls. 83-89).
+Em suas razões recursais, a recorrente alega violação ao art. 873, II e 1.022, I e II do CPC.
+Sustenta, em síntese, que:
+i) o acórdão foi omisso e contraditório.
+ii) " v. acórdão contrariou lei federal, art.873, II, do CPC, porquanto entre a data da avaliação indireta e data da atualização da avaliação já se passaram mais de 08 (oito) anos, sendo que o pedido de novo leilão judicial demonstra a necessidade de nova avaliação para se evitar preço vil e enriquecimento ilícito, isso porque demonstrada a persistência de que o imóvel sofreu valorização, conforme produzido no processo".
+iii) " não se pode falar em rediscussão da matéria, e muito menos em preclusão para nova avaliação, se existe incerteza, quanto a metodologia aplicada, o qual discorrido no decorrer do processo"
+Contrarrazões apresentadas às fls. 106-109.
+O recurso recebeu juízo prévio de admissibilidade positivo (fls. 111-116).
+É o relatório. Passo a decidir.
+2. Quanto ao mérito, o Tribunal de origem decidiu que:
+Consoante relatado, trata-se de agravo de instrumento interposto por Santa Brandão Rodrigues Espólio, contra a decisão proferida às p. 432-433, nos autos da ação de Cumprimento de Sentença nº 0804263-78.2013.8.12.0001, ajuizada por Maria Helena Baez.
+A decisão agravada, em resumo, tem o seguinte teor (p. 432-433, nos autos principais):
+"De início, no que cinge à nova avaliação requerida pela parte executada, tenho que o pedido não merece préstimo.
+Isso porque, preceitua o art. 873 do Código de Processo Civil, que "É admitida nova avaliação quando: I - qualquer das partes arguir, fundamentadamente, a ocorrência de erro na avaliação ou dolo do avaliador; II - se verificar, posteriormente à avaliação, que houve majoração ou diminuição no valor do bem; III - o juiz tiver fundada dúvida sobre o valor atribuído ao bem na primeira avaliação".
+Na espécie, o decurso do tempo entre a avaliação e a hasta pública não é, por si só, apto a ensejar nova avaliação. Aliás, nesse sentido, tem- e o Enunciado nº 156 da II Jornada de Direito Processual Civil: "O decurso de tempo entre a avaliação do bem penhorado e a sua alienação não importa, por si só, nova avaliação, a qual deve ser realizada se não houve, nos autos, indícios de que houve majoração ou diminuição no valor".
+Nessa linha, o Superior Tribunal de Justiça já decidiu:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. NECESSIDADE DE REAVALIAÇÃO DOS VALORES DE BENS PENHORADOS NÃO AFERIDA PELO TRIBUNAL A QUO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. 1. Execução de título extrajudicial. 2. A jurisprudência desta Corte perfilha entendimento de que "decorrido considerável lapso temporal entre a avaliação e a hasta pública, a rigor deve-se proceder à reavaliação do bem penhorado. Para tanto, porém, é imprescindível que a parte traga elementos capazes de demonstrar a efetiva necessidade dessa reavaliação" (REsp 1269474/SP, TERCEIRA TURMA, DJe 13/12/2011). 3. O reexame de fatos e provas em recurso especial é inadmissível. 4. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 1.773.822/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 14/5/2021.).
+Feitas tais considerações, no caso em tela, a parte executada não trouxe qualquer comprovação de majoração que pudesse incidir sobre o imóvel objeto da expropriação; ao revés: denota-se que o referido valor da avaliação do imóvel foi atualizado em 28/07/2022, oportunidade em que alcançou o valor de R$ 184.032,37 (cento e oitenta e quatro mil e trinta e dois reais e trinta e sete centavos) - (f. 382). Ou seja: quer seja pela ausência de elementos que apontem crescimento econômico sobre o bem; quer seja pela sua devida atualização, despicienda nova avaliação a ser realizada por Oficial de Justiça.
+De outro lado, em vista da concordância do exequente, impõe-se a atualização do valores executados.
+Conclusão.
+Isso posto, INDEFIRO o requerimento de nova avaliação, contudo, DEFIRO a remessa dos autos à Contadoria Judicial, para atualização dos cálculos (ref.: f. 381 e f. 382) e, após, encaminhe-se ao leiloeiro oficial para o prosseguimento do certame. Sem prejuízo, comunique-se ao leiloeiro oficial acerca do impedimento de Nilton Campos Paz para participar do novo leilão (CPC, art. 897).(..)"
+Os agravantes insurgem-se contra a referida decisão, postulando, em síntese, pela reavaliação do bem penhorado.
+Da análise do feito e da leitura da decisão acima concisamente transcrita, verifico a inexistência de fundamentos que autorizem a modificação da conclusão a que chegou o magistrado a quo.
+Nego, portanto, provimento ao agravo de instrumento.
+As hipóteses para reavaliação do bem penhorado, com fins de cumprimento forçado da execução, estão estabelecidas no artigo 873, do Código de Processo Civil, assim redigido:
+Art. 873. É admitida nova avaliação quando:
+I - qualquer das partes arguir, fundamentadamente, a ocorrência de erro na avaliação ou dolo do avaliador;
+II - se verificar, posteriormente à avaliação, que houve majoração ou diminuição no valor do bem;
+III - o juiz tiver fundada dúvida sobre o valor atribuído ao bem na primeira avaliação.
+No caso, o agravante alega que a avaliação foi realizada de forma indireta e há mais de 07 anos, o que ofende o devido processo legal, pugnando pela nulidade da avaliação indireta acostada à p. 87 e nova realização.
+Nada obstante a afirmação, observa-se que a objeção não se enquadra nas hipóteses que ensejam uma nova avaliação, as quais limitam-se àquelas previstas no supracitado artigo 873, do Código de Processo Civil.
+No caso, conforme se verifica às p. 87, dos autos de origem, o bem foi avaliado em R$ 90.000,00, cuja avaliação foi atualizada em 28.07.2022, oportunidade em que alcançou o valor de R$ 184.032,37 - p. 382, ou seja, um pouco mais que o dobro da primeira avaliação. Destaca-se que cabe à parte demonstrar, portanto, a existência de erro material ou formal, ou ainda, de inidoneidade do servidor público.
+Em casos análogos, já decidiu este Tribunal de Justiça que:
+EMENTA - AGRAVO DE INSTRUMENTO AÇÃO DE EXECUÇÃO IMPUGNAÇÃO À AVALIAÇÃO REALIZADA POR OFICIAL DE JUSTIÇA E HOMOLOGADA PELO JUÍZO A QUO TRABALHO REALIZADO EM CONSONÂNCIA COM O ARTIGO 872, DO CPC AUSÊNCIA DOS REQUISITOS EXIGIDOS PELO ARTIGO 873, DO CPC, PARA NOVA AVALIAÇÃO DECISÃO MANTIDA RECURSO CONHECIDO E DESPROVIDO. O Juízo poderá, nos termos do art. 873, do CPC, realizar nova avaliação quando: qualquer das partes arguir, fundamentadamente, a ocorrência de erro na avaliação ou dolo do avaliador; se verificar, posteriormente à avaliação, que houve majoração ou diminuição no valor do bem; o juiz tiver fundada dúvida sobre o valor atribuído ao bem na primeira avaliação. Não restando comprovada a ocorrência de erro na avaliação ou dolo por parte do Oficial de Justiça, deve ser mantida a decisão que homologou a avaliação determinada na origem, já que o profissional goza de fé pública e detém a presunção de credibilidade, experiência e conhecimento técnico. (TJMS. Agravo de Instrumento n. 1400696-41.2023.8.12.0000, Camapuã, 1ª Câmara Cível, Relator (a): Des. Marcelo Câmara Rasslan, j: 29/05/2023, p: 31/05/2023)
+EMENTA - AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CUMPRIMENTO DE SENTENÇA - PENHORA E AVALIAÇÃO DE BEM IMÓVEL - OFICIAL DE JUSTIÇA - FÉ PÚBLICA - CRITÉRIOS DE AVALIAÇÃO ADEQUADOS- RECURSO DESPROVIDO Conforme o disposto no art. 873 do CPC, para que seja determinada nova avaliação é imprescindível que a parte demonstre cabalmente ter ocorrido erro na avaliação do imóvel penhorado, não sendo suficiente a mera alegação de falha na avaliação, porquanto outros imóveis da mesma região possuem valor de mercado superior. Ausente nos autos documento que demonstre a ocorrência de erro na avaliação ou dolo do avaliador, merece prevalecer a avaliação realizada pelo Oficial de Justiça, que possui fé pública e se pautou em critérios objetivos do mercado. (TJMS. Agravo de Instrumento n. 1400549-15.2023.8.12.0000, Três Lagoas, 1ª Câmara Cível, Relator (a): Des. Divoncir Schreiner Maran, j: 17/02/2023, p: 23/02/2023)
+Quanto ao pedido de nulidade da avaliação indireta de p. 87, ocorreu a preclusão temporal e consumativa. Vê-se dos autos que o executado, ora agravante, impugnou a referida avaliação, cuja pretensão foi rejeitada pelo juízo a quo, em 09.06.2016, em decisão de p. 131-132 e não foi interposto recurso no momento oportuno.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. ANULAÇÃO DE CARTA DE ARREMATAÇÃO. PRECLUSÃO CONSUMATIVA. MATÉRIA DE ORDEM PÚBLICA. DECISÃO JUDICIAL. INEXISTÊNCIA DE RECURSO NO MOMENTO OPORTUNO. AGRAVO INTERNO PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. 1. As matérias de ordem pública podem ser apreciadas a qualquer tempo nas instâncias ordinárias. No entanto, se houver decisão anterior sobre a matéria, como ocorre na presente hipótese, incide a preclusão consumativa se não houver interposição do recurso cabível no momento oportuno. Precedentes. 2. Agravo interno provido para conhecer do recurso especial e, no mérito, negar-lhe provimento." (STJ - AgInt no REsp: 1373978 MT 2013/0072500-6, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 02/06/2020, T4 - QUARTA TURMA, Data de Publicação: DJe 18/08/2020)
+Não há razão, portanto, para que se façam novas avaliações do imóvel em comento, como pleiteado no presente recurso.
+Por fim, quanto à pretensão de afastamento da constrição do bem, incabível sua análise, sob pena de supressão de instância, vez que a questão não foi submetida ao juízo de primeiro grau e, por conseguinte, não foi objeto de análise na decisão agravada.
+Ante o exposto, nego provimento ao agravo de instrumento.
+É como voto.
+(fls. 65-71)
+Dessarte, verifica-se que o acórdão recorrido está dissonante da jurisprudência do STJ, no sentido de "considerar possível, podendo, inclusive, ser determinada de ofício a realização de nova avaliação do bem objeto de penhora, quando, entre a primeira avaliação e a data marcada para a alienação judicial, houver considerável lapso temporal, a fim de evitar a caracterização de preço vil" (EDcl no Ag 1.365.203/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/06/2012, DJe de 02/08/2012).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. IMÓVEL PENHORADO. NOVA AVALIAÇÃO. NECESSIDADE. TRANSCURSO DE LAPSO DE TEMPO SIGNIFICATIVO. JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 282 do STF.
+2. "A jurisprudência do STJ consolidou-se no sentido de considerar possível, podendo, inclusive, ser determinada de ofício a realização de nova avaliação do bem objeto de penhora, quando, entre a primeira avaliação e a data marcada para a alienação judicial, houver considerável lapso temporal, a fim de evitar a caracterização de preço vil" (EDcl no Ag 1.365.203/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/06/2012, DJe de 02/08/2012, g.n.).
+3. No caso em exame, transcorridos cerca de 6 (seis) anos da avaliação do imóvel penhorado, mostra-se necessária a realização de nova avaliação do bem antes de sua alienação judicial, a fim de evitar a configuração de preço vil e indevido prejuízo ao executado.
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 1.778.395/GO, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 23/5/2022, DJe de 21/6/2022.)
+_____________
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. MERA REPETIÇÃO DOS ARGUMENTOS DAS CONTRARRAZÕES DO RECURSO ESPECIAL NAS RAZÕES DO AGRAVO REGIMENTAL. AUSÊNCIA DE ARGUMENTOS APTOS A MODIFICAR O DECISUM. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. O valor da avaliação do bem não pode estar defasado ao tempo da arrematação a fim de que se impeça a alienação por preço vil. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 900.037/CE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/8/2011, DJe de 24/8/2011.)
+______________
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS À ARREMATAÇÃO. AVALIAÇÃO DE IMÓVEIS PENHORADOS. ARREMATAÇÃO. IMPUGNAÇÃO. PRECLUSÃO. LAPSO TEMPORAL DE 7 ANOS ENTRE A AVALIAÇÃO E A ARREMATAÇÃO. NECESSIDADE DE NOVA AVALIAÇÃO.
+1. Os embargos à arrematação são servis ao desfazimento da arrematação por preço vil. (REsp 45.346/SPREsp 45346/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, PRIMEIRA TURMA).
+2. É dever do juiz determinar de ofício a atualização do laudo de avaliação, quando entre sua realização e a data da alienação judicial decorrer tempo significativo (REsp 156512/SP, Rel. Ministro GARCIA VIEIRA, PRIMEIRA TURMA)
+3. In casu, restou assentado no acórdão recorrido que a avaliação dos bens se deu 7 (sete) anos antes da arrematação, sendo razoável supor que possa ter havido variação significativa no preço dos imóveis.
+4. Deveras, na Prefeitura os imóveis ostentam valor significativamente superior ao da avaliação, o que indicia a vileza do preço do expropriado.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.196.471/RS, relator Ministro LUIZ FUX, Primeira Turma, julgado em 2/12/2010, DJe de 14/12/2010.)
+No caso em exame, transcorridos cerca de 8 (oito) anos da avaliação indireta do imóvel penhorado, mostra-se necessária a realização de nova avaliação do bem antes de sua alienação judicial (não bastando a mera atualização do valor, ainda que realizada em 2022), a fim de evitar a configuração de preço vil e indevido prejuízo ao executado, notadamente quando a parte alega estar demonstrada a existência de construções no terreno que teriam acarretado a majoração do valor bem.
+Incidência da Súm 568 do STJ.
+3. Ante o exposto, dou provimento ao recurso especial para determinar que se realize nova avaliação do bem penhorado antes da efetivação do leilão.
+Prejudicado o pleito liminar de fls. 123-128.
+Publique-se.
+EMENTA
