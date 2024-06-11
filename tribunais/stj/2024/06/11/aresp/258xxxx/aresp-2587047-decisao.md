@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, da Constituição Federal.
+Na origem, o particular interpôs agravo de instrumento contra decisão, em cumprimento de sentença no valor de R$ 17.184,94 (dezessete mil, cento e oitenta e quatro reais e noventa e quatro centavos), que rejeitou o pedido de expedição de precatório relativo à parcela incontroversa, no importe de R$ 8.659,16 (oito mil, seiscentos e cinquenta e nove reais e dezesseis centavos).
+O TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS negou provimento ao agravo de instrumento do particular.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PROCESSO CIVIL. FAZENDA PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PARCELA INCONTROVERSA. TEMA 28 DO SUPREMO TRIBUNAL FEDERAL. EXECUÇÃO PROVISÓRIA. MANUTENÇÃO DA NATUREZA DA ORDEM DE PAGAMENTO. LIMITAÇÃO DO SISTEMA. IMPOSSIBILIDADE DE EXPEDIÇÃO DO PRECATÓRIO. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO MANTIDA.
+1. O Supremo Tribunal Federal, por ocasião do julgamento da tese 28, fixou entendimento segundo o qual surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado, observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor. 1.1. Desse modo, se o valor global executado superar o teto legal fixado para as Requisições de Pequeno Valor, o Cumprimento Provisório também deverá ser feito por meio de precatórios, mesmo se for inferior ao teto do 1.2. A atenção à regra é extremamente relevante, para evitar a subversão da fila de pagamentos, a fim de manter a ordem e o planejamento financeiro do ente público, além de respeitar a isonomia entre os credores da Fazenda Pública.
+2. O sistema utilizado pelo Tribunal para a expedição de ordens de pagamento não autoriza a expedição de precatórios com valor inferior a dez salários-mínimos.
+3. Inviável o prosseguimento do Cumprimento de Sentença quando o montante da parcela incontroversa é inferior ao valor mínimo admitido pelo sistema utilizado pelo Tribunal para expedição de precatórios, sob pena de prejudicar a ordem de pagamentos estabelecida perante terceiros e violar o sistema legal previsto na Constituição Federal. Precedentes.
+4. Apenas em casos excepcionalíssimos, com a demonstração de urgência desproporcional a tornar inviável aguardar o pagamento integral da dívida ao final da lide, por meio de procedimento fora do fluxo do sistema, é possível o cadastramento de débito de pequeno valor na lista de pagamento de Precatório.
+5. Recurso conhecido e não provido.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto recurso especial, apontando violação dos arts. 535, § 4º, e 1.022 do CPC.
+Apresentadas contrarrazões.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Com razão o Recorrente.
+Ao julgar o RE n. 1.205.530-RG/SP, o Supremo Tribunal Federal firmou o entendimento de que "surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor" (Tema n. 28/STF).
+Além disso, o Superior Tribunal de Justiça firmou entendimento no sentido de que, remanescendo apenas impugnação relativa a excesso de cobrança, tem-se que a parte não questionada pode (deve) ser objeto de cumprimento, justificando-se a expedição de precatório, nos moldes do art. 535, § 4º, do CPC.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INSTAURAÇÃO DE PROCEDIMENTO REVISIONAL COM BASE NA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 817.338/DF (TEMA 839). ANISTIADO POLÍTICO FALECIDO. AUSÊNCIA DE NOTIFICAÇÃO DE TODOS OS INTERESSADOS. NÃO OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. PRELIMINAR DE INEXIGIBILIDADE DO TÍTULO JUDICIAL AFASTADA. POSSIBILIDADE DE EXPEDIÇÃO DO PRECATÓRIO DE VALOR INCONTROVERSO. AGRAVO IMPROVIDO.
+1. Falecido o anistiado político e sem que tenham sido notificados todos os interessados no âmbito do procedimento revisional da portaria anistiadora, conforme exige a orientação adotada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839), afasta-se a preliminar de inexigibilidade do título judicial.
+2. Remanescendo apenas impugnação relativa a excesso de cobrança, tem-se que a parte não questionada pode (deve) ser objeto de cumprimento, justificando-se a expedição de precatório, nos moldes do art. 535, § 4º, do CPC.
+3. Agravo interno improvido.
+(AgInt na ExeMS n. 15.241/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 8/3/2023, DJe de 14/3/2023.)
+Desse modo, não se afigura razoável obstar o direito do Recorrente ao recebimento da parcela incontroversa apenas por dificuldades técnicas relativas ao sistema do tribunal, mormente se no próprio acórdão há indicativo da possibilidade de expedição de precatórios com valor inferior a dez salários-mínimos em casos nas hipóteses que se comprova "urgência desproporcional a tornar inviável o pagamento integral da dívida ao final da lide" (fl. 52).
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
