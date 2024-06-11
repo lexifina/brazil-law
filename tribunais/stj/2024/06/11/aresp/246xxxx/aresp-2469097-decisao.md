@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO GRANDE DO SUL e INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL contra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 1.047/1.048):
+PROCESSUAL CIVIL. DECISÃO ADMINISTRATIVA. PROCESSO JUDICIAL E RESSALVA. ART. 1.000, CPC/15. NÃO INCIDÊNCIA.
+O reconhecimento do direito da apelada, em sede administrativa, não atrai a incidência do art. 1.000, CPC/15, uma vez condicionar tal decisão sua eficácia à definição do processo judicial.
+COISA JULGADA. EFICÁCIA PRECLUSIVA. ART. 508, CPC/15. TRÍPLICE IDENTIDADE. ART. 337, §§ 1º E 2º, CPC/15. INOCORRÊNCIA. CAUSA DE PEDIR DISTINTA. COISA JULGADA. INEXISTÊNCIA.
+A objeção de coisa julgada, assim como sua eficácia preclusiva, art. 508, CPC/15, reclama a presença da tríplice identidade, o que não se dá quando distintas as causas de pedir, art. 337, §§ 1º e 2º, CPC/15.
+SERVIDORA CELETISTA. REGIME PREVIDENCIÁRIO. CONTRATAÇÃO. PRAZO INDETERMINADO. ARTS. 104 E 106, CF/69 E EC Nº 01/69. LEI ESTADUAL Nº 7.896/64. EC Nº 20/98. ART. 40, § 13. HIPÓTESES. SITUAÇÃO FUNCIONAL DISTINTA. 34 ANOS DE CONTRIBUIÇÃO PARA O RPPS. SEGURANÇA JURÍDICA.
+Implementada a contratação da apelada, como servidora celetista quanto a contrato que se estabilizou por prazo indeterminado, como permitiam artigos 104, CF/67, e, depois, 106, EC nº 01/69, e artigo 27, Lei Estadual nº 7.896/64, não correspondendo tal situação a emprego público, por ausência de concurso, ou cargo temporário, não foi ela atingida pela EC nº 20/98, consideradas as hipóteses especificadas em o § 13, art. 40, descabida interpretação extensiva ou, pior, integração analógica, o que leva à mantença, quanto a ela, da filiação ao RPPS, não fosse considerar-se a segurança jurídica propiciada por contribuições a tal regime, com autorização do poder público, por mais de 34 anos. APELAÇÃO CONHECIDA E DESPROVIDA.
+Rejeitados os aclaratórios (e-STJ fls. 1.085/1.103).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 337, VII, 485, 502, 503, 505, I, e 508 do CPC/2015, sustentando a existência de coisa julgada, perfectibilizada nos autos do Mandado de Segurança 2006.04.00.000857-8/RS e RMS 23.788/RS, a inviabilizar o exame da pretensão encartada no presente feito.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 1.329/1.355.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+O aresto hostilizado, ao afastar a preliminar de coisa julgada, entendeu pela inexistência de identidade entre as causas de pedir nos feitos cotejados, uma vez que, " ..  no MS n. 2006.04.00.000857-8/RS, a causa de pedir assentou em relação estatutária, cargos comissionados, enquanto na demanda ora em apreciação a relação jurídica que estofa pretensão da apelada diz com regime celetista e seu trato tanto na legislação local como reflexos na órbita constitucional, especialmente o § 13, art. 40, CF/1988, e seu alcance subjetivo" (e-STJ fl. 1.020).
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
