@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por RS CAPITAL GROUP LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+JUSTIÇA GRATUITA  EMBARGOS À EXECUÇÃO - PESSOA JURÍDICA - INDEFERIMENTO DA JUSTIÇA GRATUITA - NECESSIDADE DE A PESSOA JURÍDICA DEMONSTRAR A IMPOSSIBILIDADE DE ARCAR COM AS CUSTAS DO PROCESSO - SÚMULA 481 DO STJ - DOCUMENTO APRESENTADO PELA AGRAVANTE QUE NÃO CONSTITUI PROVA CABAL DE SUA HIPOSSUFICIÊNCIA FINANCEIRA - PRESUNÇÃO LEGAL DE INSUFICIÊNCIA FINANCEIRA QUE DIZ RESPEITO SOMENTE ÀS PESSOAS FÍSICAS - CONCESSÃO DA JUSTIÇA GRATUITA QUE NÃO SE LEGITIMA - AGRAVO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne à concessão do benefício da gratuidade de justiça, uma vez que ficou comprovada a hipossuficiência financeira da recorrente, trazendo a seguinte argumentação:
+A decisão combatida contraria expressamente preceitos de lei federal, especificamente os artigos 98 e 99 § 2º do Código de Processo Civil. Depreende- se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita, de forma que a recorrente, pessoa jurídica também pode usufruir deste benefício, em virtude de sua demonstrada (fls. 18) incapacidade de não ter condições de arcar com as despesas do presente processo sem o prejuízo de sua manutenção e continuidade de atividades da empresa.
+ ..
+Diante de todo o exposto, não havendo prova em contrário da alegada hipossuficiência do recorrente o comando do artigo 99 do Código de Processo Civil determina que deve ser deferido o pedido de justiça gratuita. O recorrente demonstrou claramente sua incapacidade financeira fazendo jus ao benefício pleiteado (fls. 43/44).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+2.2. No caso em tela, não ficou demonstrada a hipossuficiência financeira alegada, necessária a autorizar a gratuidade da justiça.
+O documento apresentado pela agravante, ou seja, a declaração de informações socioeconômicas e fiscais (DEFIS), abrangendo o período de 1.1.2022 a 31.12.2022, com o resultado zerado (fls. 22/25), não constitui prova cabal de sua hipossuficiência, isto é, da impossibilidade fática de arcar com custas e despesas processuais.
+Isso porque tal documento é contraditório, visto que, embora com resultado zerado, dele consta que foram pagos, no referido período, ao sócio da empresa, Rodolfo Santos da Silva, rendimentos no montante de R$ 416.000,00 (fl.
+23).
+Como assinalado na decisão hostilizada, "a Declaração de Informações Socioeconômicas e Fiscais de fls. 20/22  fls. 23/25  demonstra que a parte autora pagou a seu único sócio rendimentos no valor de R$ 416.000,00, o que afasta a alegada hipossuficiência econômica" (fl. 26).
+Por outro lado, a presunção legal de insuficiência financeira, prevista no § 3º do art. 99, do atual CPC (fl. 2), diz respeito somente às pessoas físicas.
+O referido dispositivo é claro no sentido de que se presume "verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural".
+Nessa linha de raciocínio, a declaração subscrita pelo representante da agravante, afirmando que ela "não possui recursos suficientes para custear qualquer demanda" (fl. 31), por si só, não basta para a concessão do benefício.
+Em suma, não tendo sido apresentada documentação capaz de refletir a precariedade da situação financeira da agravante, não se legitima a concessão da justiça gratuita (fl. 36).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
