@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 05/06/2024 a 11/06/2024, por unanimidade, acolher parcialmente os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERG|ÊNCIA NO AGRAVO EM RECURSO ESPECIAL. VERIFICAÇÃO DA EXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC. MATÉRIA NÃO IMPUGNÁVEL EM EMBARGOS DE DIVERGÊNCIA. MAJORAÇÃO DE HONORÁRIOS EM SEDE DE EMBARGOS DE DIVERGÊNCIA.POSSIBILIDADE. PRECEDENTES.
+1. Cabem embargos de declaração para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunc iar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. De acordo com a jurisprudência pacífica desta Corte, "No que tange ao pedido de majoração dos honorários recursais, este Sodalício firmou a compreensão de que, mesmo nas hipóteses de indeferimento liminar dos embargos de divergência, afigura-se cabível a majoração dos honorários recursais, porquanto a interposição do recurso uniformizador inaugura novo grau recursal.." (AgInt nos EAREsp n. 1.462.128/SP, relator Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe de 24/6/2021.)
+Embargos de declaração acolhidos em parte, sem efeitos infringentes.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração, opostos por NISE MARIA FIGUEIRA MEJDALANI contra acórdão da Corte Especial, que negou provimento a agravo interno nos termos desta ementa (fls. 904-905):
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. VERIFICAÇÃO DA EXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC. MATÉRIA NÃO IMPUGNÁVEL EM EMBARGOS DE DIVERGÊNCIA. REGRA TÉCNICA DE CONHECIMENTO. INCIDÊNCIA DA SÚMULA N. 315/STJ. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. O entendimento do Superior Tribunal de Justiça é no sentido de que a análise da existência dos vícios elencados no art. 1.022 do Código de Processo Civil ou no art. 619 do CPP envolve matéria a ser dirimida em embargos de declaração, e não em embargos de divergência, exatamente por envolver, em regra, verificação casuística. Precedentes: AgInt nos EAREsp n. 1.331.871/SC, relator Ministro Raul Araújo, Corte Especial, julgado em 7/6/2022, DJe de 21/6/2022; AgInt nos EDcl nos EAREsp n. 1.464.605/RS, relator Ministro Mauro Campbell Marques,Primeira Seção, julgado em 18/8/2021, DJe de 20/8/2021; AgInt nos EDv nos EREsp n. 1.783.510/RJ, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 15/2/2022, DJe de 17/2/2022; AgRg nos EAREsp n. 2.002.337/DF, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 24/8/2022, DJe de 30/8/2022
+.2. O acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".3. Verifica-se que a divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+Agravo interno improvido.
+A embargante alega as seguintes omissões:
+1) Em sede Agravo interno foi debatido a ausência de previsão legal para a majoração de honorários advocatícios a cada recurso. Foi dito também que a jurisprudência desta Corte é pacífica no quanto a aplicação de majoração de honorários quando houver a instauração de novo grau de recurso, e não em cada recurso interposto. (fl. 927); e
+2) Inobstante o acórdão tenha sido fundamentado no sentido de que os vícios elencados no artigo 1022 do CPC envolve matéria dirimida em embargos de declaração, e não embargos de divergência, há controvérsias sobre tal assunto, a vista que o artigo 1043,§2º do CPC, aduz que é embargável o acórdão de órgão fracionário de direito material e processual. Data vênia máxima, o acórdão embargado não se manifestou sobre esses pontos, merecendo ser suprida tais omissões. (fl. 928)
+Pede o acolhimento integral dos embargos declaratórios, com atribuição de efeitos infringentes.
+Impugnação às fls. 937-943.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERG|ÊNCIA NO AGRAVO EM RECURSO ESPECIAL. VERIFICAÇÃO DA EXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC. MATÉRIA NÃO IMPUGNÁVEL EM EMBARGOS DE DIVERGÊNCIA. MAJORAÇÃO DE HONORÁRIOS EM SEDE DE EMBARGOS DE DIVERGÊNCIA.POSSIBILIDADE. PRECEDENTES.
+1. Cabem embargos de declaração para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunc iar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. De acordo com a jurisprudência pacífica desta Corte, "No que tange ao pedido de majoração dos honorários recursais, este Sodalício firmou a compreensão de que, mesmo nas hipóteses de indeferimento liminar dos embargos de divergência, afigura-se cabível a majoração dos honorários recursais, porquanto a interposição do recurso uniformizador inaugura novo grau recursal.." (AgInt nos EAREsp n. 1.462.128/SP, relator Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe de 24/6/2021.)
+Embargos de declaração acolhidos em parte, sem efeitos infringentes.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a
+corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Quanto ao não cabimento de embargos de divergência para reconhecimento dos vícios descritos no art. 1.022 do Código de Processo Civil, a matéria foi tratada de forma expressa e cristalina, conforme o seguinte excerto retirado do acórdão ora embargado (FL. 911):
+O cerne da controvérsia diz respeito à alegada divergência entre os acórdãos confrontados quanto ao tema do reconhecimento dos vícios descritos no art. 1.022 do Código de Processo Civil, haja vista suposta violação do referido dispositivo na origem.
+O entendimento do Superior Tribunal de Justiça é no sentido de que a análise da existência dos vícios elencados no art. 1.022 do Código de Processo Civil ou no art. 619 do CPP envolve matéria a ser dirimida em embargos de declaração, e não em embargos de divergência, exatamente por envolver, em regra, verificação casuística.
+Nesse sentido, cito:
+(..)
+Quanto ao cabimento de fixação/majoração de honorários em sede de embargos diferentes, verifica-se que realmente o acórdão ora embargado encontra-se omisso.
+Entretanto, não tem razão a parte embargante.
+De acordo com a jurisprudência pacífica desta Corte, "No que tange ao pedido de majoração dos honorários recursais, este Sodalício firmou a compreensão de que, mesmo nas hipóteses de indeferimento liminar dos embargos de divergência, afigura-se cabível a majoração dos honorários recursais, porquanto a interposição do recurso uniformizador inaugura novo grau recursal ." (AgInt nos EAREsp n. 1.462.128/SP, relator Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe de 24/6/2021.)
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. COOPERATIVA DE TRABALHO MÉDICO. NOVO ASSOCIADO. INGRESSO. RECUSA. REQUISITOS. PROCESSO SELETIVO PÚBLICO. ESTATUTO SOCIAL. PREVISÃO. CRITÉRIOS OBJETIVOS E IMPESSOAIS. SÚMULA 168/STJ. MAJORAÇÃO DE HONORÁRIOS EM EMBARGOS DE DIVERGÊNCIA. POSSIBILIDADE.
+1. O acórdão embargado encontra-se no mesmo sentido da jurisprudência consolidada no Superior Tribunal de Justiça, qual seja: "É lícita a previsão em estatuto social de cooperativa de trabalho médico de realização de processo seletivo público e de caráter impessoal, exigindo-se conteúdos a respeito de ética médica, cooperativismo e gestão em saúde como requisitos de admissão de profissionais médicos para compor os quadros da entidade, pois, por força de lei, o interessado deve aderir aos propósitos sociais do ente e preencher as condições estatutárias estabelecidas, devendo o princípio da porta aberta ser compatibilizado com a possibilidade técnica de prestação de serviços e a viabilidade estrutural econômico-financeira da sociedade cooperativa" (AgInt nos EAREsp n. 1.978.737/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 29/8/2023, DJe de 4/9/2023.) Precedentes.
+2) Incide, na espécie, a Súmula n. 168 do STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado". Precedente.
+3. É pacífico nesta Corte que, "Interpostos embargos de divergência, inaugura-se novo grau autorizando a majoração de honorários a título recursal" (AgInt nos EREsp n. 1.930.702/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2023, DJe de 15/3/2023. ) Agravo interno improvido.
+(AgInt nos EREsp n. 1.967.221/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 5/3/2024, DJe de 8/3/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. INTEIRO TEOR DOS PARADIGMAS. AUSÊNCIA DE CERTIDÃO DE JULGAMENTO E ACÓRDÃO. ANÁLISE DE MÉRITO NO JUÍZO MONOCRÁTICO. SÚMULA N. 182/STJ NO AGRAVO INTERNO. INVIABILIDADE DA INSURGÊNCIA UNIFORMIZADORA. MAJORAÇÃO DE HONORÁRIOS. POSSIBILIDADE.
+1. A ausência da certidão de julgamento e do acórdão dos paradigmas descumpre a exigência de juntada do inteiro teor dos julgados, ensejando o indeferimento liminar dos embargos de divergência.
+2. Se o acórdão deixou de analisar o mérito do agravo interno, é indiferente o resultado do juízo monocrático para embargos de divergência. O objeto da via uniformizante interna é o julgamento colegiado, que, na hipótese de incidência da Súmula n. 182/STJ, não avança sobre o mérito da causa.
+3. Interpostos embargos de divergência, inaugura-se novo grau autorizando a majoração de honorários a título recursal.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.930.702/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2023, DJe de 15/3/2023.)
+Ante o exposto, acolho em parte os embargos de declaração apenas para sanar a omissão quanto aos honorários, sem atribuição de efeitos infringentes.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Relator
