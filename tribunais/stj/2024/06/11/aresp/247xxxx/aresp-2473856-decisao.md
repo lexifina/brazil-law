@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por JOSÉ CARLOS DE SOUSA contra decisão que inadmitiu apelo nobre interposto com fundamento no permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 838):
+PREVIDENCIÁRIO. PROCESSO CIVIL. CONCESSÃO. APOSENTADORIA POR TEMPO DE SERVIÇO RURAL. TEMPO DE CONTRIBUIÇÃO. CONJUNTO PROBATÓRIO INSUFICIENTE. REQUISITOS NÃO PREENCHIDOS.
+- A questão relativa à comprovação de atividade rural encontra-se pacificada no Superior Tribunal de Justiça, que exige início de prova material e afasta por completo a prova exclusivamente testemunhal (Súmula n. 149 do STJ).
+- É possível o reconhecimento do tempo rural comprovado desde os 12 (doze) anos de idade.
+Precedentes.
+- Conjunto probatório insuficiente para demonstrar o labor rural desempenhado no interstício pleiteado.
+- Como os documentos apresentados não se prestam como início de prova material, a prova testemunhal colhida torna-se isolada e, portanto, insuficiente à comprovação pretendida, nos termos da mencionada Súmula n. 149 do STJ.
+- A parte autora não tem direito à aposentadoria por tempo de contribuição, pois não se fazem presentes os requisitos dos artigos 52 da Lei n. 8.213/1991 e 201, § 7º, I, da Constituição Federal, com a redação dada pela Emenda Constitucional n. 20/1998.
+- Mantida a condenação da parte autora a pagar custas processuais e honorários de advogado, arbitrados em 12% (doze por cento) sobre o valor atualizado da causa, já majorados em razão da fase recursal, conforme critérios do artigo 85, §§ 1º e 11, do CPC, suspensa, porém, a exigibilidade, na forma do artigo 98, § 3º, do mesmo diploma processual, por tratar-se de beneficiária da justiça gratuita.
+- Ausência de contrariedade à legislação federal ou a dispositivos constitucionais.-
+- Apelação da parte autora desprovida.
+Em suas razões, a parte recorrente alega contrariedade das Súmulas 7 e 149 do STJ e da Súmula 73 do TRF da 4ª Região ao argumento de que o STJ já pacificou o entendimento de que provas materiais em nome do titular do grupo familiar faz extensão aos demais componentes do grupo familiar, devendo, portanto, ser reconhecido o tempo de labor rural.
+Sem contrarrazões.
+Passo a decidir.
+Não obstante os argumentos apresentados, cumpre observar que, nos termos da Súmula 518 do STJ, inviável o conhecimento de eventual contrariedade das Súmulas 7 e 149 do STJ e da Súmula 73 do TRF da 4ª Região, enunciados que, para os fins do art. 105, III, "a", da Constituição Federal, não se enquadram no conceito de lei federal.
+Nesse sentido, a título ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO A ENUNCIADO SUMULAR. ANÁLISE. IMPOSSIBILIDADE. SÚMULA N. 518 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL OBJETO DA DIVERGÊNCIA. SÚMULA N. 284 DO STF. VIOLAÇÃO AOS ARTS. 80 E 81 DO CPC. MATÉRIA RELATIVA Ã POSSIBILIDADE DE APRESENTAÇÃO REITERADA DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE. SÚMULA N. 284 DO STF. LITIGÂNCIA DE MÁ-FÉ. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em relação à alegação de ofensa à Súmula n. 393 do STJ, cabe ressaltar que, na dicção da Súmula n. 518 do STJ: " p ara fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+2. Quanto ao suposto dissídio jurisprudencial, as razões do recurso especial não indicaram o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284/STF.
+3. No mais, verifica-se que os arts. 80 e 81 do CPC não possuem comando normativo capaz de amparar uma das teses neles fundamentada - relativa à possibilidade de apresentação reiterada de exceção de pré-executividade -, que está dissociada de seu conteúdo, o que caracteriza a ausência de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do STF.
+4. A alteração do resultado do julgamento, para se acolher a tese defensiva de que não há litigância de má-fé, exigiria aprofundado reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.386.678/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REEXAME DE DECISÃO CONCEDIDA COM FUNDAMENTO NO ART. 300 DO CPC/15. IMPOSSIBILIDADE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 735/STF.
+VIOLAÇÃO DOS ARTS. 183, § 3º, e 191, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. SÚMULA 518/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Como regra, é incabível o recurso especial contra decisão proferida em sede de liminar ou antecipação de tutela, à vista da sua natureza precária, nos termos do disposto na Súmula 735 do STF, revelando-se cabível a mitigação de tal enunciado sumular especificamente na hipótese em que indicada a ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015).
+III - É entendimento pacífico desta Corte que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+IV - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula n. 518 do Superior Tribunal de Justiça.
+V - O Recurso Especial também não pode ser conhecido com fundamento em divergência jurisprudencial, porquanto prejudicado dada a impossibilidade de análise da mesma tese desenvolvida pela alínea a do permissivo constitucional ante a incidência de óbices de admissibilidade.
+VI - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 2.117.461/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 16/5/2024.).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observad os, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
