@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante CIDADE SERVIÇOS E MÃO DE OBRA ESPECIALIZADA LTDA - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE BRASÍLIA - DF e o JUÍZO DA 18ª VARA DO TRABALHO DE BRASÍLIA - DF.
+Ação em trâmite na Justiça do DF: recuperação judicial da suscitante.
+Ação em trâmite na Justiça do Trabalho: execução n. 0000846-61.2020.5.10.0018 , deflagrada por RAIMUNDO NONATO SOUSA DA CUNHA.
+Conflito de competência: alega, em síntese, que o crédito decorrente de seguro garantia judicial apresentado no ato de interposição do recurso ordinário não pode ser exigido da seguradora, pois se encontra em recuperação judicial. Aduz que o juízo do trabalho, dada a situação dos autos, não é competente para determinar o depósito do valor correspondente ao sinistro. Pleiteia, liminarmente, a concessão de tutela de urgência, para determinar a cassação da intimação dirigida à seguradora.
+Tutela antecipada: indeferida às fls. 102/103, e-STJ.
+Agravo interno: interposto pela suscitante, às fls. 120/124, objetivando a reforma da decisão liminar.
+Parecer do MPF: deixou de opinar.
+RELATADO O PROCESSO, DECIDE-SE.
+A jurisprudência desta Corte assinala que, no curso de execução trabalhista proposta em face de empresa em recuperação judicial e em que foi apresentado seguro garantia judicial, "o pagamento da indenização, pela seguradora, poderá ser determinado (i) se ficar caracterizado o sinistro e (ii) se este tiver ocorrido antes do deferimento do processamento do pedido de recuperação judicial", até mesmo porque essa deliberação de pagamento "não acarreta a diminuição do patrimônio da empresa recuperanda, visto que a incumbência do depósito recairá sobre a companhia seguradora" (CC 161.667/GO, Segunda Seção, DJe 31/8/2020).
+Quanto à configuração do sinistro, consta do precedente ora mencionado que, "uma vez aceito o seguro-garantia, o pagamento da indenização vai depender da ocorrência do fato previsto na apólice como sinistro ou de uma das situações já predeterminadas nas normas da SUSEP: (i) não renovação da apólice ou renovação extemporânea e (ii) inadimplemento das obrigações do tomador cobertas pelo seguro (que não está condicionado ao trânsito em julgado da impugnação, mas à decisão fundamentada do juízo determinando o pagamento)".
+Assim, de acordo com as balizas acima descritas, observa-se que o depósito da indenização pode ser exigido da seguradora na execução trabalhista de que tratam os autos. Isso porque o sinistro (Cláusula 6.1, "a" , da Apólice n. 007507004510; trânsito em julgado do acórdão proferido no recurso garantido) ocorreu em 15/12/2021 (e-STJ, fl. 110), portanto, antes do deferimento do pedido de recuperação judicial das suscitantes, em 2/12/2022 (e-STJ, fl. 98). Assim, não merece ser acolhido o conflito de competência.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência. Julgo prejudicado o agravo interno interposto contra a decisão liminar.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. SEGURO GARANTIA JUDICIAL. SINISTRO. OCORRÊNCIA. POSSIBILIDADE DE EXECUÇÃO, PELO JUÍZO LABORAL. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+1. Nos termos da jurisprudência desta Corte, o depósito da indenização (seguro-garantia judicial), pela seguradora, no curso de execução trabalhista, somente pode ser exigido na hipótese de o sinistro ter ocorrido em momento anterior ao deferimento do pedido de recuperação judicial da empresa executada, como na hipótese.
+2. Conflito de competência não conhecido. Prejudicada a análise do agravo interno interposto contra a liminar.
