@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ITAU UNIBANCO S.A, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/02/2024.
+Concluso ao gabinete em: 29/05/2024.
+Ação: declaratória com pedido de compensação por danos morais movida por GINA CARLA DE DEUS REBOUCAS contra o banco agravante e R.J. CONSTRUÇÃO E INCORPORAÇÃO LTDA.
+Sentença: julgou procedentes os pedidos da inicial, para: "para: a) ratificara decisão proferida no id 28364578; b) declarar a inexigibilidade do débito deR$246.473,44 (-), correspondente ao contrato de financiamento imobiliário nº3.70.002.095.4-4; c) condenar as acionadas, solidariamente, a: c.1) devolverem o valor pago, a título de sinal, parcelas, IPTU e ITIV (desde que comprovadamente adimplidos, a serem apurados em sede de liquidação do julgado), acrescendo-se correção monetária, pelo INPC, e juros de mora, de 1% ao mês, a partir dos respectivos desembolsos; c.2) pagarem indenização, a título de danos morais, no valor de R$ 20.000,00 (-), corrigido monetariamente, pelo INPC, a partir do arbitramento, e com incidência de juros de mora de 1% ao mês, a partir da citação". (e-STJ fl. 465)
+Acórdão: negou provimento à apelação da agravante, nos termos da ementa:
+"APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA C/CPEDIDO DE TUTELA ANTECIPADA.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA. AFASTADA. TEORIA DA ASSERÇÃO. IMÓVELADQUIRIDO NA PLANTA. PROMESSA DECOMPRA E VENDA. CESSÃO DE CRÉDITO EDIREITOS ENTRE A INCORPORADORA E AINSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE. DOCUMENTAÇÃO PARAFINANCIAMENTO NÃO ENTREGUE. IMÓVELVENDIDO A TERCEIRO. INEXECUÇÃOCONTRATUAL. NEGATIVAÇÃO INDEVIDA. DANOS MATERIAIS E MORAISCOMPROVADOS. VALOR ARBITRADO EMOBSERVÂNCIA AOS PRINCÍPIOS DAPROPORCIONALIDADE E RAZOABILIDADE. SENTENÇA MANTIDA. APELO IMPROVIDO.
+A condição da ação, especificamente a legitimidade da parte, neste caso, deve ser aferida à luz da teoria da asserção, de modo que deve ser considerada como verdadeira, em juízo provisório e precário, a alegação da Autora de que o Banco tem pertinência subjetiva com o que se discute com a demanda.
+Caso em que restou comprovado que a instituição financeira, ao celebrar "Instrumento Particular de Transação, Cessão de Recebíveis e Outras Avenças", deixou de ser mero agente financiador.
+Assim, ao integrar a cadeia de fornecimento, passa a instituição financeira ser objetiva e solidariamente responsável pelos danos causados ao pretensos e efetivos adquirentes.
+Restou comprovado nos autos que a Autora celebrou contrato de compra e venda para a aquisição de unidade habitacional com as Corrés, contudo, mesmo tendo adimplido com os valores acordados para entrada, não teve disponibilizada a documentação para celebração do contrato de financiamento, sendo a unidade vendida a terceiros.
+Diante da inexecução contratual, sem comprovação de excludente de responsabilidade, a Demandante faz jus a rescisão contratual, com a restituição dos valores pagos, devidamente corrigidos. Inteligência do art. 35, III, CDC.
+Além da quebra da legítima expectativa na aquisição da casa própria, a Autora também teve o nome negativado, em decorrência de contrato de financiamento que não celebrou.
+Danos morais configurados. Quantum indenizatório mantido, pois fixado de forma razoável, atendendo à equação de não importar o valor arbitrado em enriquecimento ilícito do requerente e, ao mesmo tempo, desestimular, de forma contundente, qualquer atividade nociva similar à denunciada pela vítima.
+Sentença mantida. Apelo improvido". (e-STJ fl. 519/520)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 17, 485, VI, 489, § 1º, IV, 1.022, II, do CPC; 927, do CC; e art. 14 do CDC. Além de negativa de prestação jurisdicional, sustenta que apenas atuou no empreendimento na condição de agente financeiro, portanto, defende sua ilegitimidade passiva, ante a ausência de solidariedade entre o agente financeiro e a construtora. Alega ainda a ausência de nexo causal entre sua conduta e os danos sofridos pela parte contrária.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de que o banco agravante teve atuação além de agente financeiro, de modo que restou configurada uma cadeia de fornecimento do bem (e-STJ fl. 526), além de que o banco responde objetiva e solidariamente com a incorporadora pela inexecução do contrato, conforme o disposto no parágrafo único do art. 7º, c/c art. 14 CDC (e-STJ fls. 526/527)
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à autuação do banco agravante, que assumiu outras responsabilidades além da de agente financeiro, tendo como exemplo as seguintes cláusulas: retenção de certidões e documentos celebrados com os adquirentes (2.1), cessão de direitos e obrigações de recebíveis (2.1.1.), direito de representação da incorporadora (2.1.2.), ajuste de cronograma de execução (8), acesso as obras e documentos e aprovação de orçamentos (9.1., caput e letra c); além de que o Itaú ficou de posse documentação dos adquirentes e pretensos compradores, tendo sido responsável, inclusive, pela venda da unidade objeto do contrato de promessa de compra e venda que a agravada hoje reclama os danos (e-STJ fl. 526) , exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação declaratória com pedido de compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
