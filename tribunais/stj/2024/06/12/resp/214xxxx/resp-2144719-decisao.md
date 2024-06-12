@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+Apelação e remessa necessária. Obrigação de fazer. Fornecimento de medicamentos. Ipilimumabe 177mg(3mg/kg). Melanoma acral lentiginoso no calcâneo direito(CIDC43). Sentença de procedência. Insurgência. Responsabilidade solidária dos entes federados. Inteligência do artigo 196 da CF, Súmula 37 do TJ/SP e da tese fixada no julgamento do Tema 793 do STF. O tratamento médico adequado aos necessitados se insere no rol dos deveres estatais, caracterizado pela responsabilidade solidária dos entes federados. Escolha do ente público que integrará o polo passivo que compete exclusivamente ao demandante. Preenchimento dos requisitos estabelecidos na tese 106 do STJ para fornecimento do medicamento pelo SUS. Honorários que devem ser fixados por apreciação equitativa, pois a causa é de valor inestimável. Apelo não provido e remessa necessária parcialmente provida.
+Aponta a recorrente, além de divergência jurisprudencial, violação dos arts. 85, §§ 2º, 3º, 8º e 11, 141, 492 e 1.013 do Código de Processo Civil. Sustenta:
+O acórdão, aqui recorrido, transgrediu dois pilares jurídicos ao reformar, de ofício, a condenação em honorários advocatícios fixada em sentença, visto que esta reforma é contrária a disposição expressa dos dispositivos do Código de Processo Civil que disciplinam os honorários sucumbenciais, assim como atribui interpretação divergente daquela já firmada pelo Superior Tribunal de Justiça a estes mesmos dispositivos federais. E, além da afronta material destacada acima, o acórdão ofendeu ainda a esfera formal do processo civil, pois nenhuma das partes devolveu a questão dos honorários advocatícios para o Tribunal e, ainda assim, o acórdão reformou expressamente as verbas sucumbenciais fixadas anteriormente. Essa reforma de ofício é uma notória violação ao efeito devolutivo que rege o âmbito recursal, já que o órgão julgador está vinculado a matéria impugnada: tantum devolutum quantum appellatum!
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de maio de 2024.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados pelo Tribunal a quo, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito da oposição de Embargos Declaratórios, por não ter havido prequestionamento. Ante a ausência desse requisito, incide na espécie a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência desse requisito se não for emitido juízo de valor sobre a questão.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fls. 290-291):
+Os honorários foram fixados no montante equivalente a 10%do valor da causa (R$359.200,00 fl 12). No entanto, o valor atribuído à demanda não possui respaldo em dado objetivo. Ao contrário, não há como estimar o lapso temporal que o medicamento será ministrado, a evidenciar o absoluto exagero no valor conferido na petição inicial.
+Diante desse contexto, e sendo inestimável o conteúdo econômico efetivo da demanda, abre-se margem para a fixação dos honorários por equidade. Nessa linha, e sopesada a baixa complexidade da causa, fixo os honorários advocatícios, já considerado o trabalho na esfera recursal, em R$ 3.000,00.
+(..)
+Por fim, a apelada deverá renovar o receituário médico a cada três meses, uma vez que o tratamento se desenvolve por ciclos e por tempo indeterminado, além de se cadastrar no CACON ou UNACON de sua preferência, para que tenha o acompanhamento necessário e especializado.
+Nesse contexto, a remessa necessária comporta parcial provimento para: (i) fixar a verba honorária por equidade; (ii) determinar a renovação do receituário médico a cada três meses (ciclo prescrito fl. 19) e o cadastramento na CACON e UNACON de sua preferência.
+Nota-se que a Corte local decidiu a causa com base no suporte fático-probatório dos autos, cujo revolvimento é inviável no Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ: "a pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova, e o Recurso Especial não merece trânsito.
+Por fim, destaco que a verificação da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada na análise do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1.472.530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/10/2014)
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
