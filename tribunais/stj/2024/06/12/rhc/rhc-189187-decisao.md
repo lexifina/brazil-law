@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FABIO ANDRE DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o recorrente foi preso preventivamente pela suposta prática do crime de estelionato mediante alienação fraudulenta e praticado contra idoso.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão para a garantia da ordem pública em razão da gravidade em concreto da conduta e da possibilidade de reiteração delitiva, e denegando a ordem, em acórdão de fls. 1.096-1.122.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que ostenta condições pessoais favoráveis e ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Pondera que não há contemporaneidade entre os fatos e a prisão cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 1.184-1.185.
+As informações foram prestadas às fls. 1.190-1.212.
+O Ministério Público Federal, às fls.1.216-1.225, manifestou-se em parecer que restou assim ementado:
+"PENAL. RECURSO EM HABEAS CORPUS. CRIME DE ESTELIONATO MEDIANTE ALIENAÇÃO ONEROSA FRAUDULENTA, PRATICADO CONTRA IDOSO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITIVA. MODUS OPERANDI. NECESSIDADE DA PRISÃO PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CIRCUNSTÂNCIAS DO CASO JUSTIFICAM A MEDIDA. CONTEMPORANEIDADE. SUBSISTÊNCIA DOS FATOS ENSEJADORES DA SEGREGAÇÃO CAUTELAR. PARECER PELO DESPROVIMENTO DO RECURSO" - fl. 1.216.
+É o relatório. DECIDO.
+Quanto a alegação de ausência de fundamentação idônea da decisão que decretou a segregação cautelar, deve-se registrar que permanecem incólumes os requisitos para a manutenção da preventiva tendo em vista o modus operandi reiterado do Recorrente "porquanto há indícios da prática de ao menos vinte e quatro delitos de estelionatos praticados com o mesmo modus operandi, apurando-se o prejuízo às vítimas em aproximadamente R$ 10.000.000,00 (dez milhões de reais)" - fl. 1.115, bem como o risco de reiteração criminosa, uma vez que: também é investigado pelo cometimento de outros delitos, quais sejam, diversos estelionatos, associação criminosa, lavagem de dinheiro e falsidade ideológica, conforme se infere dos autos n. 5002299- 66.2023.8.24.0048- fl. 1.118.
+A propósito:
+"Este Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022)."(AgRg no HC n. 828.962/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5/10/2023.)
+Ilustrativamente:
+"Além de indicar a prova de materialidade e indícios razoáveis de autoria de delitos de estelionato, em continuidade delitiva, o Magistrado justificou a necessidade de garantir a ordem pública, ante a periculosidade do agente, revelada pelo modus operandi da conduta (anúncio em internet, número de vítimas, habilidade para enganar, diversos boletins de ocorrência e inquérito em curso por crime análogo)". (AgRg no RHC n. 170.906/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15/2/2023.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Ademais, segundo o decreto preventivo:
+"há risco para aplicação da lei penal, uma vez que os investigados não foram localizados para prestar informações perante a Autoridade Policial, bem como há informações de que pai e filho já teriam conhecimento da presente investigação e se encontram foragidos" - 1.115.
+Acerca do tema:
+"a fuga do distrito da culpa, comprovadamente demonstrada nos autos e que perdura, é fundamentação suficiente a embasar a manutenção da custódia preventiva, que revela-se imprescindível para o fim de se assegurar o cumprimento de eventual condenação, pois nítida a intenção do réu de obstaculizar o andamento da ação criminal e de evitar a ação da Justiça" (AgRg no HC n. 761.012/MG, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 22/12/2022.)
+Quanto a alegação de que não há contemporaneidade entre os fatos e a prisão cautelar, ressalte-se que:
+"A contemporaneidade do decreto de custódia preventiva se verifica "da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado". (AgRg no HC 716.043/PE, Quinta Turma Relator Ministro Joel Ilan Paciornik, DJe de 4/4/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao presente recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
