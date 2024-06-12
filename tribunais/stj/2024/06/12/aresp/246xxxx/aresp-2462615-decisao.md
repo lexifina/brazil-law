@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu Recurso Especial (art. 105, III, "a" da Constituição Federal) interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. RESSARCIMENTO AO ERÁRIO. QUITAÇÃO DA DÍVIDA PERANTE A JUSTIÇA DO TRABALHO. POSTERIOR RECONHECIMENTO DA COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA JULGAMENTO DO FEITO. MANUTENÇÃO DA DECISÃO EXTINTIVA EM DECORRÊNCIA DO PAGAMENTO. DANO AO ERÁRIO RESSARCIDO. AGRAVO INTERNO PROVIDO.
+Os Embargos de Declaração foram rejeitados.
+Na origem, cuida-se de Ação Civil por Improbidade Administrativa consistente na apropriação de valores decorrentes de acordo judicial trabalhista firmado pelo recorrido, na qualidade de mandatário da Companhia Elétrica Estadual, sem o conhecimento e autorização desta. Deu-se a procedência da ação em primeira instância, determinando-se o ressarcimento do dano ao Erário, o que foi alterado, em pequena parte, por decisão monocrática proferida em segundo grau de jurisdição, apenas para a fixação do dies a quo de incidência dos juros de mora na data do evento danoso. Interposto Agravo Interno, este foi provido, ao argumento de que a quitação ocorrera perante a jurisdição trabalhista.
+Consta que este feito tramitou perante a Justiça do Trabalho em razão de entendimento havido à época no sentido da incompetência da Justiça Comum para conhecer de improbidade administrativa constatada na jurisdição laboral. Nada obstante, firmou-se, ao final, a competência do juízo comum para o julgamento desta causa, todavia apenas posteriormente ao pagamento ocorrido perante o juízo trabalhista, o que ensejou a extinção do processo em decorrência da quitação.
+O recorrente, em seu Recurso Especial, alega violação dos arts. 485, VI, 924, III, "a", e 1.022 do CPC/2015.
+O juízo de admissibilidade negativo, por inexistência de vício de fundamentação e de prequestionamento, deu ensejo à interposição do recurso em exame.
+Contraminuta às fls. 1.502-1.508.
+O Ministério Público Federal opinou pelo provimento do Recurso Especial (fls. 1.525-1.527)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.5.2024.
+Conheço do Agravo em Recurso Especial porque preenchidos os requisitos de admissibilidade, notadamente a impugnação dos fundamentos da decisão recorrida. Passo ao exame conjunto do Recurso Especial.
+A irresignação ministerial merece prosperar.
+Sobressai do acórdão vergastado que todas as decisões posteriores à sentença proferida em primeiro grau de jurisdição foram tornadas nulas pela Suprema Corte, por terem sido prolatadas por juízo absolutamente incompetente. Por outro lado, não se extrai do decisum recorrido que se tenham ratificado os atos decisórios proferidos pelo Juízo trabalhista, à luz do parágrafo 4º do art. 64 do CPC/2015.
+Bem por isso foi renovado o julgamento dos apelos das partes que, desafiado pelos instrumentos próprios, finda por dar origem ao recurso em exame, o que afasta qualquer possibilidade de que se invoque ratificação implícita, em vista do iter traçado. Com efeito, a jurisprudência deste Tribunal Superior admite a ratificação implícita dos atos decisórios mediante o normal seguimento ao processo, no estado em que se encontra (AgRg no RHC n. 155.749/GO, rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 14.3.2022; AgRg no HC n. 563.330/SP, rel. Ministro Felix Fischer, Quinta Turma, DJe de 17.4.2020), o que não ocorreu no presente caso.
+A propósito, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CLÁUSULA DE ELEIÇÃO. INCOMPETÊNCIA RECONHECIDA. EFEITO DA DECISÃO DO JUÍZO INCOMPETENTE. EXEGESE DO ART. 64, §4º, DO CPC/15. RATIFICAÇÃO IMPLÍCITA. POSSIBILIDADE.
+1. Conforme a pacífica jurisprudência do STJ, a diferenciação entre despacho e decisão interlocutória "reside na existência ou não de conteúdo decisório e de gravame. Enquanto os despachos são pronunciamentos meramente ordinatórios, que visam impulsionar o andamento do processo, sem solucionar controvérsia, a interlocutória, por sua vez, ao contrário dos despachos, possui conteúdo decisório e causa prejuízo às partes" (REsp 351.659/SP, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, julgado em 02/05/2002, DJ 02/09/2002).
+2. No caso, o pronunciamento judicial que determinou o cumprimento do acórdão do TJRJ - deferindo liminar de busca e apreensão - possui, sem dúvida, conteúdo decisório e com gravame para a parte recorrida. Por conseguinte, ato jurisdicional que desafia agravo de instrumento.
+3. "Não compete a esta Corte proceder a cassação da decisão do juiz singular incompetente que deferiu o pedido de liminar formulado pela parte agravada, uma vez que, conforme preceitua o art. 64, § 4º, do CPC, as decisões proferidas em juízo incompetente em regra conservam o seu efeito, até que outra seja proferida pelo juízo declarado competente" (AgInt no AREsp 1449023/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/04/2020, DJe 23/04/2020).
+4. Na hipótese, o magistrado de São Paulo (competente), ao determinar o cumprimento do pronunciamento do acórdão do TJRJ (incompetente), por óbvio, ratificou, ainda que implicitamente o entendimento da corte fluminense.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.727.956/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 14/6/2021.) g.n.
+Neste contexto, não há como supor que as balizas de eventual liquidação ou a homologação de acordo, ou mesmo o impulso de cumprimento de sentença fundado em título provisoriamente formado perante magistrado incompetente, possam se sobrepor à nulidade afirmada pelo Supremo Tribunal Federal, que diz respeito a pressuposto processual de validade.
+E, sendo assim, a extinção do feito em decorrência do pagamento, nos termos proferidos pelo Tribunal a quo, viola o art. 924, III, do CPC/2015. Isso porque, como se vê, não pode subsistir o argumento de que o executado obteve a extinção total da dívida, que sequer se pode considerar definitivamente quantificada, uma vez que avalizada por órgão sem competência para tanto.
+Não se olvide, contudo, que ao final, após acertamento do valor devido, ao recorrido será dado compensar os valores já pagos a mesmo título da condenação posta.
+Por todo o exposto, conheço do Agravo em Recurso Especial para conhecer do Recurso Especial e dar-lhe provimento, repristinando a decisão monocrática de fls. 1.358-1.351.
+Publique-se.
+Intimem-se.
+EMENTA
