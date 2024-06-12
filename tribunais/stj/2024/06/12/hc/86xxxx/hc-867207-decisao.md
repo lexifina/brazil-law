@@ -1,0 +1,18 @@
+DECISÃO
+FABIO GONÇALVES DE OLIVEIRA, acusado por furto qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+Indeferida a liminar (fls. 1040-105) e prestadas as informações (fls. 112-115), foram os autos ao Ministério Público Federal, que se manifestou pela denegação da ordem, notadamente porque a decisão constritiva se encontra devidamente fundamentada na necessidade de contenção da reiteração delitiva (fls. 120-123).
+Decido.
+Em que pesem os argumentos externados pela defesa, penso que o habeas corpus não tem procedência, na linha dos argumentos externados pelo Ministério Público Federal.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, extrai-se da decisão de primeiro grau que decretou a preventiva, a qual foi referenciada pelo acórdão impugnado, as seguintes passagens (fl. 76, destaquei):
+autoria do cometimento do crime de furto qualificado, cuja pena privativa de liberdade máxima ultrapassa o patamar de 4 (quatro) anos.
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis.
+Ressalto que, embora primário o averiguado possui maus antecedentes, inclusive por crime de roubo. Ademais, a arguição de que as circunstâncias judiciais são favoráveis não é o bastante para impor o restabelecimento imediato da liberdade.
+No particular, destacou ainda o acórdão impugnado: "Deveras, embora formalmente primário, o paciente ostenta antecedentes criminais relevantes, a indicar seumaior envolvimento em atividades delituosas." (fl. 17, grifei).
+Assim, a despeito do crime praticado não envolver violência ou grave ameaça a pessoa, ficou devidamente explicitada na decisão constritiva a existência de registros criminais pela prática de outros crimes, com destaque para a prática de delito grave, como o roubo.
+Tal fundamentação, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva e, também, afasta a possibilidade de concessão de medidas cautelares alternativas. No particular, precisas as ponderações do Ministério Público Federal, quando assinalou (fl. 123):
+As instâncias ordinárias evidenciaram, de forma idônea, a necessidade demanutenção da prisão preventiva do paciente. No caso, verifica-se que há necessidade daprisão preventiva para resguardar a ordem pública, em razão do risco de reiteração delitiva,pois, embora tecnicamente primário, o paciente já foi condenado por roubo e por tráfico dedrogas, indicando propensão para a vida criminosa.
+Nessa direção, é firme a orientação deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
