@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por GENEDLY CONSTANTINO DE OLIVEIRA e OUTROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 2.616):
+EMENTA: AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - RECONSIDERAÇÃO À ATRIBUIÇÃO DE EFEITO SUSPENSIVO -AUSÊNCIA DE PROBABILIDADE DA PRETENSÃO RECURSAL -AGRAVO INTERNO IMPROVIDO. APLICAÇÃO DE MULTA. Para a concessão da tutela de urgência devem estar presentes os requisitos previstos no artigo 300, do CPC/15, quais sejam, a probabilidade do direito, o perigo de dano, o risco ao resultado útil do processo, bem como a ausência do perigo de dano inverso. Inexistindo a probabilidade de acolhimento da pretensão recursal, intentada pela parte agravante, deve ser mantido o indeferimento de atribuição de efeito suspensivo, para manter a ordem cominatória concedida pelo juízo "a quo". Não deve ser provido recurso de agravo interno quando não demonstradas razões para modificar o entendimento manifestado na decisão monocrática. O julgamento unânime de improcedência do agravo interno enseja a condenação ao pagamento de multa em favor da parte recorrida (CPC/15, art. 1021, §4º)(STJ, AgInt nos EAREsp 689.337/SP).
+Rejeitados os embargos de declaração opostos (fls. 2.666-2.670).
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos arts. 919, § 1º, e 805 do Código de Processo Civil.
+Sustenta, em síntese, que estão presentes todos os requisitos necessários à concessão do efeito suspensivo aos Embargos à Execução n. 5072759-30.2021.8.13.0024 e que a execução deve se dar pelo modo menos gravoso ao executado.
+Foram oferecidas contrarrazões ao recurso especial (fls. 2.714-2.724).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 2.733-2.739), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 2.766-2.777).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de embargos à execução movidos pelos agravantes GENEDLY CONSTANTINO DE OLIVEIRA e OUTROS em desfavor da agravada, NEIDE DO SOCORRO PIRES GUERRA PINHEIRO, em que o Tribunal a quo indeferiu o pedido de efeito suspensivo.
+Irresignada, as partes defendem a existência dos requisitos autorizadores da concessão do efeito suspensivo.
+Quanto ao ponto, assim decidiu a origem (fls. 2618-2619):
+Especificamente, quanto à matéria novamente aventada pelos recorrentes, estes não lograram êxito em demonstrar os requisitos necessários à concessão do efeito suspensivo à Execução.
+Isso porque, conforme já mencionado anteriormente, muito embora tenham oferecido em garantia da execução bem imóvel cujo valor de mercado supera o quantum exequendo, este foi recusado, ou seja, não houve, de fato, a efetivação da garantia, conforme determina o art. 919, §1º, do CPC:
+ ..
+Ausente, pois, a demonstração da relevância dos fundamentos delineados pelas agravantes, não há como rever a decisão monocrática que indeferiu o efeito suspensivo à Execução.
+Constata-se que a decisão impugnada examinou as provas carreadas aos autos e concluiu não estarem presentes os requisitos necessários para a concessão do efeito suspensivo pretendido.
+Assim, rever tais premissas esbarra no óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. NECESSIDADE DE GARANTIA DA DÍVIDA. ART. 919, § 1º, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, o efeito suspensivo dos embargos do devedor demanda a garantia do juízo, além da comprovação de risco de dano irreparável ou de difícil reparação a ser experimentado pela parte executada, nos moldes do art. 919, § 1º, do CPC/2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.164.474/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. GARANTIA DO JUÍZO. NECESSIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AUSÊNCIA DE GARANTIA DO JUÍZO, DO FUMUS BONI IURIS E DO PERIGO DE DANO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O art. 919, § 1º, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo.
+2. Nos termos da jurisprudência consolidada desta Corte, é condição sine qua non para a concessão do efeito suspensivo aos embargos do devedor a garantia do juízo por penhora, depósito ou caução suficientes. Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Na hipótese, Tribunal a quo, após o exame acurado dos autos e do acervo fático-probatório, concluiu que não se encontram presentes os requisitos necessários à concessão do excepcional efeito suspensivo aos embargos à execução, tendo em vista a inexistência de qualquer garantia do juízo da execução e, ainda, não se reconhecer a presença do fumus boni iuris e do perigo de dano.
+5. A modificação da conclusão do Tribunal de origem sobre a presença dos requisitos para atribuição de efeito suspensivo esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.020.909/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+Quanto ao mais, da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao negar provimento ao agravo interno, limitou-se a abordar acerca do efeito suspensivo, sem abordar a questão da menor onerosidade ao executado.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ. (AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos. (AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Acrescente-se que se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a tese suscitada.
+IV - Cabe ao Recorrente alegar nas razões de recurso especial afronta ao art. 1.022, do Código de Processo Civil, de forma fundamentada, caso entenda persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso. (AgInt no REsp n. 2.002.305/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 30/11/2022.)
+1. O Tribunal a quo não emitiu juízo de valor sobre a tese referente à inversão dos ônus sucumbenciais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na instância de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. Caberia à parte, em seu Apelo Nobre, alegar violação do art. 1.022 do CPC/2015, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito. (AgInt no AREsp n. 2.104.649/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE EFEITO SUSPENSIVO AOS EMBARGOS À EXECUÇÃO. REQUISITOS NÃO VERIFICADOS. REVISÃO. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIA L.
