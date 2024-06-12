@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial (art. 105, III, "a", da Constituição da República) interposto do acórdão assim ementado (fl. 129, e-STJ):
+AGRAVO DE INSTRUMENTO. Ação civil pública por improbidade administrativa. Decisão que recebeu a inicial e deferiu liminar de indisponibilidade de bens e suspensão temporária do direito de contratar com o Município de Morungaba. Pretensão de reforma. Possibilidade, em parte. Recebimento da inicial. Inexistência de causa evidente para a carência ou a improcedência. Fatos imputados bem descritos. Motivação suficiente, em face do limite cognitivo próprio à natureza da decisão, que não pode antecipar juízo de mérito. Medida de indisponibilidade que, após a alteração promovida pela Lei nº 14.230/21, exige a demonstração inequívoca do periculum in mora. Risco de alienação, oneração ou dilapidação patrimonial não demonstrado. Inadmissibilidade da suspensão temporária do direito de contratar por ausência de perigo de dano ou risco ao resultado útil do processo. Precedentes. Recurso parcialmente provido.
+Os Embargos de Declaração foram rejeitados (fl. 154, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 926, caput, 928, caput, I e II, 927, caput, II e § 4º, e 986 do Código de Processo Civil; 1º, caput, e 16, caput, da Lei 8.429/1992.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28 de fevereiro de 2024.
+Na origem, o Ministério Público do Estado de São Paulo ajuizou, na Comarca de Itatiba, Ação Civil por Ato de Improbidade Administrativa, tendo pedido e obtido a indisponibilidade dos bens da parte ré.
+Inconformada, Macedo Oliveira & Xavier de Camargo Ltda., no que se refere à questão em debate, apresentou Agravo de Instrumento pedindo a reforma da decisão. Sustentou a inexistência dos requisitos para a decretação da medida constritiva, especialmente o perigo na demora, que a Lei 14.230/2021 teria passado a exigir. Buscou a reforma da decisão para liberar o valor constrito.
+O Tribunal de origem, por unanimidade, deu provimento parcial ao Agravo, consoante a ementa acima transcrita.
+Veja-se como a Corte estadual decidiu a questão pertinente ao Recurso Especial (fls. 136-138):
+Por outro lado, melhor analisando os autos, no que tange à insurgência da agravante quanto às medidas de indisponibilidade de bens e suspensão temporária do direito de contratar com a Municipalidade, verifica-se que ela tem razão.
+Não se olvida que o Colendo Superior Tribunal de Justiça fixou através do Tema Repetitivo 701, o entendimento de que "É possível a decretação da indisponibilidade de bens do promovido em Ação Civil Pública por Ato de Improbidade Administrativa, quando ausente (ou não demonstrada) a prática de atos (ou a sua tentativa) que induzam a conclusão de risco de alienação, oneração ou dilapidação patrimonial de bens do acionado, dificultando ou impossibilitando o eventual ressarcimento futuro." Ou seja, era possível a decretação da indisponibilidade de bens dos réus em ações civis de improbidade administrativa, ainda que ausente, ou não devidamente demonstrado, o periculum in mora.
+No entanto, a Lei nº 14.230/21 promoveu a alteração do artigo 16 da Lei de Improbidade Administrativa para fazer constar expressamente em seu parágrafo 3º que "o pedido de indisponibilidade de bens a que se refere o caput deste artigo apenas será deferido mediante a demonstração no caso concreto de perigo de dano irreparável ou de risco ao resultado útil do processo, desde que o juiz se convença da probabilidade da ocorrência dos atos descritos na petição inicial com fundamento nos respectivos elementos de instrução, após a oitiva do réu em cinco dias".
+Por conseguinte, a novel legislação passou a exigir a demonstração inequívoca do periculum in mora, não sendo suficiente a plausibilidade do direito.
+E esta Col. Câmara já se pronunciou pela retroatividade benéfica da Lei nº 14.230/21: TJSP; Apelação Cível 1008903-91.2019.8.26.0664; Relator (a): Evaristo dos Santos; Órgão Julgador: 6ª Câmara de Direito Público; Foro de Votuporanga - 2ª Vara Cível; Data do Julgamento: 10/02/2022;vData de Registro: 10/02/2022.
+No presente caso, não se vislumbra risco de alienação, oneração ou dilapidação patrimonial, de modo que, ao menos neste momento processual, a constrição se mostra descabida.
+Nesse sentido:
+( ) No entanto, não se vislumbram, nesta fase de cognição sumária, os requisitos para a antecipação da tutela provisória.
+Isso porque, conforme mencionado alhures, não restou suficientemente demonstrado perigo de dano ou risco ao resultado útil do processo, salientando-se que a agravante não se sagrou vencedora nas licitações ora objeto da ação de improbidade.
+Destarte, em que pese o entendimento do MM. Juiz a quo, a decisão comporta parcial reforma para afastar a indisponibilidade de bens decretada em desfavor da agravante, bem como a suspensão temporária do seu direito de contratar com o Município de Morungaba.
+Ante o exposto, pelo meu voto e para os fins acima, dou parcial provimento ao agravo de instrumento.
+O MPSP opôs Embargos de Declaração contra o acórdão. Apontou a existência de omissões, haja vista a ausência de análise da inconstitucionalidade do art. 16, § 3º, da Lei 8.429/92 e a existência de decisão vinculante do Superior Tribunal de Justiça, que só por ele poderia ser revista, no sentido da desnecessidade da demonstração do perigo na demora. Os Aclaratórios foram assim rejeitados:
+EMBARGOS DE DECLARAÇÃO - Inocorrência de omissão, obscuridade ou contradição - Exame de todos os pontos controvertidos e exposição dos fundamentos do resultado do julgamento -Finalidade infringente evidente - Rejeição dos embargos de declaração.
+O ora recorrente postula a anulação ou a reforma dos acórdãos, na parte relativa à indisponibilidade de bens, em razão da contrariedade a estas normas infraconstitucionais: arts. 489, caput, II, § 1º, IV, 1.022, II e parágrafo único, II, do Código de Processo Civil, art. 986 do Código de Processo Civil e arts. 1º e 16, caput e § 3º, da Lei 8.429/1992.
+Assiste razão à recorrente.
+De fato, houve omissão no tocante à tese de inconstitucionalidade do art. 16, § 3º, da Lei 8.429/92, com a redação dada pela Lei 14.230/2021. A análise dessa tese é fundamental para viabilizar o acesso às vias extraordinárias e para que se possa analisar eventual possibilidade de manter o que fora decidido no Tema Repetitivo 701 (REsp 1.366.721/BA), bem como o fundamento constitucional desse precedente (art. 37, § 4º, da CF). Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios. Nesse norte:
+PROCESSUAL CIVIL. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE.
+1. O aresto proferido no julgamento da apelação não emitiu pronunciamento acerca da legitimidade de condicionar a liberação de mercadoria importada à prestação de garantia, nos termos do art. 80 da Medida Provisória nº 2.158, de 24.08.01, argüida em contestação e nas razões de apelo. Há violação do artigo 535 do CPC quando a Corte de origem se descuida de apreciar matéria relevante ao deslinde da controvérsia posta em julgamento, cujo conhecimento lhe foi devolvido por ocasião de recurso voluntário e da remessa oficial.
+2. Regresso dos autos à origem para que novo acórdão seja proferido nos embargos de declaração.
+3. Recurso especial provido.
+(REsp 936.858/RN, Rel. Ministro CASTRO MEIRA , DJ 16.08.2007).
+PROCESSUAL CIVIL - EMPRÉSTIMO COMPULSÓRIO - CORREÇÃO MONETÁRIA - VIOLAÇÃO DO ART. 535 DO CPC - OCORRÊNCIA - RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Omissão sobre teses relevantes para a solução do litígio suscitadas oportunamente em embargos de declaração e que não foram examinadas pelo Tribunal de origem.
+2. Necessidade de rejulgamento dos embargos, diante da contrariedade ao art. 535 do CPC.
+3. Recurso especial provido. (REsp 781.965/RJ, Rel. Min. Eliana Calmon, DJ 13.08.2007)
+Diante do exposto, conheço do Agravo para dar provimento ao Recurso Especial, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração com a análise sobre à tese de inconstitucionalidade do art. 16, § 3º, da Lei 8.429/1992, com a redação dada pela Lei 14.230/2021.
+Publique-se.
+Intimem-se.
+EMENTA
