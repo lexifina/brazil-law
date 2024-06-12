@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+IMPOSTO DE RENDA PESSOA JURÍDICA (IRPJ). CONTRIBUIÇÃO SOCIAL SOBRE O LUCROLIQUIDO (CSLL). ALÍQUOTAS DIFERENCIADAS DE 8% E 12%. SOCIEDADE EMPRESÁRIADA ÁREA MÉDICA. SERVIÇOS HOSPITALARES. PLANEJAMENTO TRIBUTÁRIO ABUSIVO.INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO.
+Os Embargos de Declaração foram rejeitados (fl. 286-288, e-STJ).
+Em seu Recurso Especial, a agravante sustenta que ocorreu divergência jurisprudencial e violação dos arts. 15, § 1º, e 20, caput, da Lei 9.249/1995. Aduz:
+O acórdão recorrido viola a alínea "a", do inciso III, do § 1º do artigo 15 e artigo 20, caput, ambos da Lei nº 9.249/95 e é contrário à jurisprudência pacífica firmada neste Tribunal Superior, no sentido de que "serviços hospitalares" são todos aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, ainda que não prestados no interior de estabelecimento hospitalar, independentemente de estrutura física própria, considerando-se a natureza do serviço, essencial a população por estar ligado a garantia do direito fundamental à saúde nos termos da Constituição Federal de 1988.
+Contrarrazões à fl. 365.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.5.2024.
+A irresignação não merece prosperar.
+No julgamento do REsp 1.116.399/BA (Rel. Ministro Benedito Gonçalves) sob o regime dos Recursos Repetitivos (art. 543-C do CPC), a Primeira Seção do Superior Tribunal de Justiça discutiu a aplicação das alíquotas diferenciadas de 8% e 12% para o IRPJ e a CSLL e consolidou o entendimento de que, "para fins do pagamento dos tributos com as alíquotas reduzidas, a expressão "serviços hospitalares", constante do artigo 15, § 1º, inciso III, da Lei 9.249/95, deve ser interpretada de forma objetiva (ou seja, sob a perspectiva da atividade realizada pela contribuinte), porquanto a lei, ao conceder o benefício fiscal, não considerou o contribuinte em si (critério subjetivo), mas a natureza do próprio serviço prestado (assistência à saúde), que é, inclusive, alçado à condição de direito fundamental".
+In casu, o Tribunal de origem, com base nos elementos de convicção, concluiu que os serviços prestados pela empresa não podem ser equiparados a serviços hospitalares, na forma dos arts. 15 e 20 da Lei 9.249/1995, e manteve a sentença que denegou a segurança.
+Merece transcrição este trecho do decisum impugnado (fls. 314-315, e-STJ):
+Aqui, contudo, a parte autora não se desincumbiu de demonstrar que constitui "sociedade empresária" com propósito negocial, voltada à exploração de atividade, com organização de fatores de produção, mediante a existência, por exemplo, de recursos materiais (como equipamentos exigidos para a realização de procedimentos cirúrgicos) e recursos humanos (empregados).
+Por outro lado, pouco importa que as notas fiscais de serviço, trazidas pela autora aos autos, sejam emitidas em nome da sociedade, uma vez que isso se dá somente para efeitos fiscais, sendo a responsabilidade pela prestação dos serviços médicos de cada sócio que presta pessoalmente serviços nos hospitais, por força das normas jurídicas e éticas que regem a profissão do médico.
+É de ser observado, ainda, que consta, no alvará de saúde (evento 1, ALVARA1), a vedação para realização de procedimentos invasivos na clínica impetrante, o que confronta o entendimento do próprio STJ quando tratou de esclarecer, no julgamento dos embargos declaratórios no REsp nº951.251, que "consultas médicas" não se incluem no conceito de "serviços hospitalares". Assim, pela prova dos autos, verifica-se que a parte autora não tem direito líquido e certo à tributação diferenciada prevista no art. 15, § 1º, III, "a", e art. 20, da Lei nº 9.249, de 1995 para as sociedades empresárias legitimamente constituídas que prestam serviços médicos equiparados a hospitalares.
+Nesse contexto, modificar o acórdão recorrido nos moldes pretendidos pela recorrente, no sentido de reconhecer como preenchidos os requisitos previstos na Lei 9.249/1995 para a obtenção do benefício, exigiria o revolvimento do conjunto fático-probatório dos autos, o que é defeso a esta Corte Superior ante o óbice da Súmula 7/STJ.
+Na mesma linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IPRJ E CSLL. SERVIÇOS HOSPITALARES. ALÍQUOTAS REDUZIDAS PARA ATIVIDADES VOLTADAS DIRETAMENTE À PROMOÇÃO DA SAÚDE. SOLUÇÃO DA CONTROVÉRSIA QUE EXIGE ANÁLISE DO CONTEXTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ.
+1. A Primeira Seção deste Tribunal Superior, no julgamento do Recurso Especial representativo de controvérsia n. 1.116.399/BA, decidiu que, para fins de recolhimento do IRPJ e da CSLL com alíquotas reduzidas, devem ser considerados serviços hospitalares "aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde", de sorte que, "em regra, mas não necessariamente, são prestados no interior do estabelecimento hospitalar, excluindo-se as simples consultas médicas, atividade que não se identifica com as prestadas no âmbito hospitalar, mas nos consultórios médicos".
+2. O Tribunal de origem, analisando o contexto fático-probatório, concluiu que a atividade desenvolvida pela recorrente (limpeza, coleta, transporte e destinação final dos resíduos hospitalares) não se encontra voltada diretamente à promoção da saúde a pacientes.
+3. Infirmar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se as atividades da recorrente são voltadas diretamente à promoção da saúde de pacientes, enseja o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em sede de recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes: AgRg no REsp 1.146.024/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 18/5/2012; AGRG no Resp 1.142.617/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 10/5/2012.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp 1.471.877/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 1º/7/2015; grifos acrescidos.)
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nessa senda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1.251.683/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido. (AgInt no AREsp 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/3/2021.)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
