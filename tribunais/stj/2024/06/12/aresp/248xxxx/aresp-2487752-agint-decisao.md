@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por JOSE DA SILVA AMORIM contra decisão que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 284 do STF (fls. 491-492).
+Nas razões do agravo interno, a parte agravante alega que (fls. 496-507):
+ ..
+A simples alegação, de que no Recurso Especial do Autor, não foi indicado o dispositivo constitucional de abertura da via especial, acarretando erro meramente material, não se sustenta, vez que, próprio Tribunal de Origem, reconheceu se tratar da alínea "a", do art. 105, III, da CF. Ainda, diferente do alegado pela Origem, o Autor, fundamentou o Recurso Especial, mesmo que indiretamente, no art. 105, inc. III, letras "a" e "c" da CRFB, face à contrariedade e negativa de vigência de lei federal, e, ainda, considerando a interpretação divergente de lei federal dada pelo v. Acórdão vergastado em dissonância com interpretação dada por outro Tribunal. Haja vista que a causa em tela foi decidida em última instância por Tribunal Estadual.
+Também, o Recurso proposto, não ofende a Sumula nº 284 do STF, pois, não houve deficiência de fundamentação no Recurso Especial ora proposto.
+Devidamente intimada, a parte agravada não apresentou impugnação (fl. 516).
+Às fls. 530-531, o Ministério Público Federal manifestou-se pelo não provimento do agravo interno.
+É o relatório.
+Decido.
+Tem razão a parte agravante, no que toca à não aplicação do enunciado da Súmula n. 284 do STF.
+Com efeito, conforme entendimento firmado no EREsp n. 1.672.966/MG, é possível extrair das razões do recurso especial a hipótese de seu cabimento, no caso, alínea a, do permissivo constitucional.
+Assim, com lastro na faculdade prevista no art. 259, § 6º, do RISTJ, deve ser RECONSIDERADA a decisão agravada, prosseguindo-se na análise do agravo em recurso especial.
+Cuida-se de agravo em recurso especial interposto contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o apelo extremo pelos seguintes fundamentos: (i) inexistência de ofensa dos arts. 489 e 1.022 do CPC/2015 e (ii) incidência da Súmula n. 7 do STJ (fls. 458-459). Contudo, a parte agravante, no agravo em recurso especial, não impugnou, de forma específica, os fundamentos da decisão agravada.
+No que diz respeito à ausência de ofensa aos arts. 489 e 1.022, do CPC/2015, limitou-se a alegar, de forma genérica, que "houve omissão e contradição, falta de prestação jurisdicional, cerceamento de defesa, julgamento citra petita e contrário às provas dos autos" (fl. 471), e não indicou os motivos pelos quais haveria a afronta dos artigos considerados violados.
+Quanto à incidência da Súmula n. 7 do STJ, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável press uposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, inciso I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial. Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 403), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AFASTAMENTO. DECISÃO RECONSIDERADA. SERVIDOR PÚBLICO. PRETENSÃO DE RECEBIMENTO DE ADICIONAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO .
