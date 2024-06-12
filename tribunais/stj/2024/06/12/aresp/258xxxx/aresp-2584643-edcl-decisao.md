@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COOPERATIVA DE CREDITO, POUPANCA E INVESTIMENTO OURO VERDE DO MATO GROSSO - SICREDI OURO VERDE MT à decisão de fls. 1256/1257, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme se depreende dos autos, a decisão agravada foi assinada no dia 11/01/2024 (DOC.01) e DISPONIBILIZADA NO DJE ELETRONICO DIA 15/01/2024 (PRINT ABAIXO):
+ ..
+É de conhecimento público, que, nos termos do artigo 220 do CPC, os prazos processuais ficam suspensos entre 20/12 à 20/01.
+Assim, obviamente, o inicio do prazo recursal se daria em 21/01/2024.
+Entretanto, a referida data caiu em um domingo, sendo, porquanto contabilizado o início do prazo em 22/01/2024 (segunda-feira), com seu fim em 09/02/2024.
+Assim, o recurso interposto em 08/02/2024 é perfeitamente tempestivo ( fl. 1264).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Observe-se que houve a disponibilização da decisão de admissibilidade do recurso especial em 6/12/2023, considerando-se publicada em 7/12/2023 (fl. 1170). Excluindo-se o dia 7/12/2023 (primeiro dia), bem como o dia 8/12/2023 (uma vez que se trata de feriado nacional, da justiça, que não necessita ser comprovado), inicia-se a contagem no dia 11/12/2023, até o dia 19/12/2023. Exclui-se da contagem o período de 20/12/2023 a 20/1/2024 (art. 220 do CPC). Após, a contagem é reiniciada no dia 22/1/2024 finalizando o prazo em 31/1/2024.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil, terminou no dia 31/1/2024, sendo que o agravo em recurso especial foi interposto somente em 8/2/2024, fora do prazo.
+Cumpre esclarecer que o STJ pacificou o entendimento de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal.
+Na espécie, os embargos de declaração (fls. 1165/1169) opostos à decisão que inadmitiu o recurso especial não são o recurso adequado, ou seja, não interrompem o prazo para a interposição do agravo em recurso especial, único recurso cabível no caso.
+Confiram-se os seguintes precedentes aplicados, inclusive, a agravos interpostos já na vigência do novo CPC:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO ORDINÁRIA. BASE DE CÁLCULO DO PIS E DA COFINS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de procedimento comum, objetivando provimento judicial no sentido da declaração judicial de inexistência de relação jurídica tributária tendente a excluir das bases de cálculo do PIS e da COFINS, o ICMS destacado das notas fiscais. Na sentença o pedido foi julgado parcialmente procedente.
+No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise do recurso de REPLASTIL COMERCIO ATACADISTA DE PLASTICOS LTDA, a parte recorrente foi intimada da decisão agravada em 21/07/2022, sendo o agravo somente interposto em 10/11/2022. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+III - Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos em face da decisão que inadmitiu o recurso especial não são o recurso adequado ou cabível à espécie. Os embargos de declaração opostos à decisão de admissibilidade do recurso especial não interrompem o prazo para interposição do agravo previsto no art. 1.042 do CPC/2015, exceto quando o decisum for tão genérico que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, o que não se verifica na espécie (AgInt nos EAREsp n. 1.653.277/RJ, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 26/4/2022, DJe de 3/5/2022). Nesse sentido, o AgInt no AREsp 1526806/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020.
+IV - Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.292.220/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DE ADMISSIBILIDADE. ERRO GROSSEIRO. NÃO INTERRUPÇÃO DO PRAZO.
+1. A intempestividade do agravo foi bem anotada no decisum impugnado, pois, como cediço, o agravo previsto no art. 1.042 do CPC/2015 (art. 544 do CPC/73) é o único recurso possível contra a decisão que não admite recurso especial na origem. Dessa forma, a oposição de embargos de declaração caracteriza erro grosseiro, daí porque não há falar em interrupção do prazo para a interposição do recurso cabível.
+2. A aplicação desse posicionamento tem sido afastada apenas em casos excepcionais, assim caracterizadas as hipóteses de erro material ou as situações em que a fundamentação da decisão atacada é tão genérica que a utilização do agravo fica inviabilizada. Não é o caso dos presentes autos.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.288.692/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO CONTRA PRIMEIRO JUÍZO DE ADMISSIBILIDADE. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE RECURSO CABÍVEL. CPC DE 2015. AUSÊNCIA DE ALTERAÇÃO SUBSTANCIAL EM RELAÇÃO AO SISTEMA ANTERIOR. PRECEDENTES DO STJ E DO STF.
+1. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal firmou-se no sentido de que o agravo é o único recurso cabível contra decisão que nega seguimento a recursos de natureza extraordinária, de modo que os embargos de declaração opostos contra decisão de admissibilidade do Tribunal de origem não interrompem o prazo para a interposição do agravo, uma vez que manifestamente incabíveis. Manutenção desse entendimento após a entrada em vigor do Código de Processo Civil de 2015.
+2. Hipótese dos autos em que, ademais, a decisão denegatória de trânsito do recurso especial está suficientemente fundamentada, não se demonstrando genérica a ponto de inviabilizar a impugnação ao seu conteúdo, de forma que inaplicável a ressalva a que alude o acórdão da Corte Especial nos EAREsp. 275.615/SP.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.737.166/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/3/2022, DJe de 22/3/2022.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
