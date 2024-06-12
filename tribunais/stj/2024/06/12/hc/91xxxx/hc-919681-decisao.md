@@ -1,0 +1,14 @@
+DECISÃO
+GEANDERSON FERREIRA DE LACERDA alega sofrer constrangimento ilegal em decorrência acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0809798-21.2024.8.15.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que "o paciente foi preso em flagrante delito pela prática, em tese, de crime de tráfico de drogas, e teve sua prisão convertida em preventiva pela autoridade apontada coatora" (fl. 12).
+Asseriu a defesa, perante a Corte de origem, que "a prisão foi decretada por meio de fundamentação inidônea, eis que não demonstrada a gravidade concretada da suposta prática delitiva" (fl. 12).
+Ao manter a segregação cautelar, salientou a Corte de origem que o encarceramento " e ncontra-se, ainda, consubstanciado nos autos indícios de autoria, através elementos concretos a indicar a prática do crime de tráfico de drogas por parte do paciente, haja vista os depoimentos testemunhais constantes no auto de prisão em flagrante, mostrando-se suficientes para essa fase preliminar, especialmente considerando que foi encontrado com uma quantidade de drogas incompatível com o consumo próprio - 3.050,00g (três mil e cinquenta gramas) de cocaína" (fl. 14, grifei).
+No que tange à fundamentação do decreto preventivo, destaco que, "consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (RHC n. 115.823/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/9/2019, destaquei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+3. No caso, a manutenção da prisão preventiva está justificada, pois a sentença condenatória que a manteve fez menção à gravidade concreta da conduta, em que foi apreendido 1,650kg (um quilo, seiscentos e cinquenta gramas) de cocaína. Assim, demonstrada a necessidade da prisão provisória como forma de garantir a ordem pública  ..  (HC n. 479.994/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 27/6/2019, destaquei).
+ ..
+3. A manutenção da prisão provisória encontra-se suficientemente fundamentada em face das circunstâncias do caso, que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade da droga - "cerca de 1.040 Kg (um quilo e quarenta gramas) da substância conhecida como "cocaína"" - e a apreensão, na residência do ora Paciente, de "uma balança de precisão e 02 sacos contendo centenas de tubos "eppendorfs" vazios"  ..  (HC n. 493.427/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 14/6/2019).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
