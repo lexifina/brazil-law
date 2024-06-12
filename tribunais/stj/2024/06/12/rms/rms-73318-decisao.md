@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se recurso ordinário em mandado de segurança interposto por INVESTIMENTOS E PARTICIPACOES BLAU S/A contra acórdão do TJ/SP.
+Ação: mandado de segurança impetrado pela recorrente contra decisão judicial que deferiu tutela de urgência para determinar a intervenção judicial nas companhias recorrente e Outra, nomeando como administrador judicial RV3 Consultores Ltda. Aduz que sequer figura como parte na ação em que foi nomeado o interventor para fiscalizar as atividades por ela desenvolvidas. Sustenta, ainda, que "não é possível impor ao empresário que apresente seus livros total ou parcialmente em lide que não participe como autor ou réu" (fl. 3).
+Acórdão: extinguiu o processo, sem resolução do mérito, nos termos da seguinte ementa (fl. 273):
+MANDADO DE SEGURANÇA Decisão que concedeu em parte a tutela de urgência para determinar a intervenção judicial nas companhias Investimentos e Participações Blau S/A e Comercial & Serviços JVB S/A, nomeando como administrador judicial RV3 Consultores Ltda - Alegação de violação a direito líquido e certo - Decisão passível de recurso com efeito suspensivo, nos termos do art. 5º, II, da Lei nº 12.016/2009 e da Súmula 267 do STF - Extinção do processo sem resolução do mérito.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso ordinário: defende o cabimento do mandado de segurança, tendo em vista que, por ser terceiro prejudicado, essa ação constitucional seria o único instrumento processual capaz de infirmar o referido ato judicial.
+Parecer do Ministério Público Federal: opina pelo não provimento do recurso ordinário (fls. 392-395).
+É o relatório. Decido.
+O mandado de segurança é remédio constitucional previsto no art. 5º, LXIX, da CRFB, sendo cabível para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+Por conseguinte, o que justifica o mandamus é a existência de um ato omissivo ou comissivo da autoridade coatora que afronte um direito passível de ser comprovado de plano pelo impetrante.
+De acordo com o art. 5º, II, da Lei nº 12.016/2009, que regulamenta o mandado de segurança, sendo o ato impugnado uma decisão judicial, não se concederá o mandado de segurança se couber recurso com efeito suspensivo da decisão.
+Nessa linha de intelecção, a jurisprudência desta Corte firmou-se no sentido de que tratando-se de ilegalidade derivada de ato judicial, o cabimento do writ restringe-se a situações excepcionais em que não haja recurso hábil a impugnar o decisum (Súmula 267/STF), devendo o impetrante demonstrar, em todo caso, o caráter abusivo, a ilegalidade ou a teratologia na decisão combatida (AgInt no MS n. 28.294/DF, Corte Especial, DJe de 24/3/2023; AgInt no MS n. 28.298/DF, Corte Especial, DJe de 16/12/2022).
+Outrossim, o mandado de segurança não é sucedâneo de recurso, sendo imprópria sua impetração contra decisão judicial passível de impugnação prevista em lei (Súmula 267/STF). Nesse sentido: AgInt nos EDcl no RMS n. 67.790/SP, Terceira Turma, DJe de 19/4/2022; RMS 14.455/AM, 4ª Turma, DJ de 07/10/2002; RMS 17.555/PI, 3ª Turma, DJ de 28.02.2005.
+Na hipótese, tem-se que o mandado de segurança está sendo utilizado como sucedâneo recursal, haja vista que contra a decisão impugnada era cabível a interposição de agravo de instrumento (art. 1.015, p.u., do CPC). Ademais, a recorrente não demonstrou abusividade, ilegalidade ou teratologia da decisão que deferiu a tutela de urgência e, por conseguinte, determinou a intervenção judicial contra si e Outra.
+Acrescente-se que, nos termos da jurisprudência do STJ, o enunciado da Súmula n. 202 socorre tão somente aquele que não teve condições de tomar ciência da decisão que lhe prejudicou, ficando impossibilitado de se utilizar do recurso cabível (RMS 42.593/RJ, 3ª Turma, DJe 11/10/2013). Também nesse mesmo sentido: AgInt nos EDcl no RMS n. 72.378/SP, Terceira Turma, DJe de 20/3/2024; AgInt no RMS n. 50.779/SP, Terceira Turma, DJe de 21/2/2019.
+Na espécie, o Tribunal de origem assentou o afastamento da Súmula 202/STJ "na hipótese em que a impetrante tenha tido ciência do processo, como no caso dos autos, tendo em vista que é administrada pela ré" (fl. 314, grifo nosso).
+Logo, não merece reparo o acórdão recorrido.
+Forte nessas razões, NEGO PROVIMENTO ao recurso ordinário constitucional, com base no art. 932, IV, "a" e na súmula 568/STJ.
+Previno às partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. TERCEIRO PREJUDICADO. ATO JUDICIAL PASSÍVEL DE RECURSO. NÃO CABIMENTO DO WRIT.
+1. O mandado de segurança não é sucedâneo de recurso, sendo imprópria sua impetração contra decisão judicial passível de impugnação prevista em lei (Súmula 267/STF).
+2. Não foi demonstrada abusividade, ilegalidade ou teratologia da decisão que determinou a expedição do mandado de despejo.
+3. É entendimento do STJ que o enunciado da Súmula n. 202 socorre tão somente aquele que não teve condições de tomar ciência da decisão que lhe prejudicou, ficando impossibilitado de se utilizar do recurso cabível. Precedentes.
+4. Recurso ordinário não provido.
