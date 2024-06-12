@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso de agravo contra decisão que não admitiu o recurso especial, interposto com base no art. 105, III, a, da Constituição Federal.
+O acórdão recorrido foi assim ementado:
+APELAÇÃO CÍVEL. HABILITAÇÃO DE CRÉDITO NO PROCESSO DE FALÊNCIA DA MASSA FALIDA DE TRANSPORTES MOSA. SENTENÇA QUE ACOLHEU O PEDIDO AUTORAL PARA DETERMINAR A INCLUSÃO DO CRÉDITO NA CATEGORIA QUIROGRAFÁRIO. JUÍZO DA 1ª VARA EMPRESARIAL DA COMARCA DA CAPITAL DETERMINOU QUE OS EFEITOS DA FALÊNCIA (DE TRANSPORTES MOSA LTDA.) FOSSEM ESTENDIDOS A TRANSPORTES AMIGOS UNIDOS E A VIAÇÃO OESTE OCIDENTAL, POR TER RECONHECIDO A OCORRÊNCIA DE FRAUDE. RECURSO DESPROVIDO.
+Por sua vez, em sede de recurso especial alegam os recorrentes a violação do disposto no art. 82 do Decreto-Lei n. 7.661/1945:
+Art. 82. Dentro do prazo marcado pelo juiz, os credores comerciais e civis do falido e, em se tratando de sociedade, os particulares dos sócios solidariamente responsáveis, são obrigados a apresentar, em cartório, declarações por escrito, em duas vias, com a firma reconhecida na primeira, que mencionem as suas residências ou as dos seus representantes ou procuradores no lugar da falência, a importância exata do crédito, a sua origem, a classificação que, por direito, lhes cabe, as garantias que lhes tiverem sido dadas, e as respectivas datas, e que especifique, minuciosamente, os bens e títulos do falido em seu poder, os pagamentos recebidos por conta e o saldo definitivo na data da declaração da falência, observando-se o disposto no art. 25.
+Dessa forma, verifica-se que a tese jurídica apresentada pelos recorrentes, com relação à habilitação do crédito da recorrida nos autos da falência de Viação Oeste Ocidental Ltda., se encontra dissociada dos fundamentos do acórdão recorrido, o que, nos termos da jurisprudência desta Corte, atrai a aplicação da Súmula n. 2 84 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Isso posto, nego provimento ao recurso de agravo.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO OU DE EVENTUAL DIVERGÊNCIA JURISPRUDENCIAL APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO DESPROVIDO.
+1. Obstam o conhecimento do recurso especial a falta de indicação do dispositivo legal considerado violado e a deficiência em fundamentação que impeça aferir os motivos em que se fundou a irresignação veiculada no especial, inviabilizando a compreensão da controvérsia (Súmula n. 284/STF).
+2. Agravo desprovido.
