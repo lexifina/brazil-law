@@ -1,0 +1,98 @@
+DECISÃO
+Trata-se Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado (fl. 349):
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. ATIVIDADE RURAL. REGIME DE ECONOMIA FAMILIAR. PROVA. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+1. É devido o reconhecimento do tempo de serviço rural, em regime de economia familiar, quando comprovado mediante início de prova material corroborado por prova testemunhal.
+2. Extinção do feito sem julgamento de mérito, com fundamento no Tema 629 do STJ, em razão da ausência de conteúdo probatório eficaz a instruir a inicial.
+Os Embargos de Declaração foram rejeitados.
+Em seu Recurso Especial, a agravante sustenta:
+(..)
+O acórdão recorrido, portanto, indicou que não haveria início de prova material contemporânea, embora reconheça a existência de certidões da vida civil de 1962 e 1964 e reconhece que a prova testemunhal é favorável à segurada. Refere, apenas, que isso não seria capaz de comprovar o labor agrícola de 1974 a 1978.
+É neste ponto que reside a controvérsia jurisprudencial, porque as provas em nome próprio e dos familiares da recorrente, observada a narrativa confirmada pela prova testemunhal, constituem início de prova material.
+(..)
+Segundo o STJ, uma fração da prova material pode ser contemporânea e a prova testemunhal pode expandir a eficácia dessa documentação.
+Vale ressaltar, neste ponto, que o próprio INSS tem Ofício Circular que reconhece que documentos que comprovam a propriedade do imóvel rural, reconhecidos como "documentos de caráter permanente", são válidos até que sejam desconstituídos. Trata-se do Ofício Circular n. 46/DIRBEN/INSS, que em seu item 7, inciso II, letra "c", indica expressamente que tais documentos servem para caracterizar todo o período de carência:
+(..)
+Tendo-se, enfim, em voga a jurisprudência a respeito do tema e dando-se especial atenção às peculiaridades do caso concreto, no que tange às dificuldades de que a recorrente, mulher que trabalhou como agricultora nas terras dos familiares em meio cultural e socialmente precário, consiga angariar vasto lastro probatório, há que se reconhecer que as certidões da vida civil são início de prova material suficiente para a comprovação da condição de segurada especial da autora.
+Há, claramente, divergência entre o entendimento do acórdão recorrido e aquele fixado pelo STJ a respeito do tema em questão. Afinal, nos paradigmas acima ressaltados o Superior Tribunal de Justiça admite certidões eleitoral, de casamento e de nascimento como início de prova material. No caso dos autos, contudo, às certidões e aos documentos em nome da família não foi reconhecido qualquer valor probatório.
+Sem que se adentre ao revolvimento probatório, vale ressaltar a própria descrição feita no acórdão recorrido, em que se elenca certidões da vida civil e documentos vinculando a família às terras rurais. Há suficientes documentos de acordo com a jurisprudência do STJ.
+Enquanto a divergência é evidente, a similaridade fático-jurídica entre o acórdão recorrido e os acórdãos paradigmas não é menos óbvia. Em todos os casos, discute-se a validade de um singelo início de prova material para agricultores e agricultoras que jamais terão provas robustas das atividades exercidas ao início de suas vidas. A divergência na interpretação da Lei Federal, por sua vez, restou clara, e diz respeito à Lei 8.213/91 no que diz respeito aos arts. 11, VII, e § 1º; 48; 55, § 3º; 102, § 1º; 142; 143.
+(..)
+Outro ponto que merece menção é que inexistem nos autos administrativos e judiciais quaisquer indícios que desabonem os fatos narrados. Se for ocaso de se dizer que há poucas provas documentais das atividades rurais, diga-se que não há documento algum que indique o contrário, não há qualquer indício de que a recorrente tenha tido alguma outra forma de sustento que não a agricultura, e de que a recorrente não tenha trabalhado como agricultora.
+Há, portanto, verossimilhança da narrativa, que é, por sua vez, corroborada pela documentação e pela prova testemunhal, assim como pela inexistência de elementos contrários aos fatos narrados.
+(..)
+A respeito dos liames legais e jurisprudenciais sobre o tema, o tempo de serviço cuja comprovação é o objeto da contenda, pode ser comprovado mediante início de prova material, complementada por prova testemunhal idônea, conforme o art. 55, § 3º, da Lei nº8.213/91, sem que, claro, o direito seja fundamentado exclusivamente em prova testemunhal, em respeito à Súmula 149 do STJ.
+Sem contrarrazões.
+A inadmissão do Recurso Especial ensejou a interposição do presente Agravo.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16 de maio de 2024.
+Cinge-se a controvérsia ao preenchimento da qualidade de segurada para fins de aposentadoria rural por idade.
+A Corte regional deu parcial provimento à Apelação da parte autora nestes termos (fl. 303-306):
+Atividade rural
+O tempo de serviço rural pode ser comprovado mediante a produção de início de prova material, complementada por prova testemunhal idônea - quando necessária ao preenchimento de eventuais lacunas - não sendo esta admitida exclusivamente, salvo caso fortuito ou força maior. Tudo conforme o art. 55, § 3º, da Lei n.º 8.213/91 e reafirmado na Súmula n.º 149 do STJ ("A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário).
+Nesse contexto probatório: (a) a lista dos meios de comprovação do exercício da atividade rural (art. 106 da Lei de Benefícios) é exemplificativa, em face do princípio da proteção social adequada, decorrente do art. 194 da Constituição da República de 1988; (b) não se exige prova documental plena da atividade rural em relação a todos os anos integrantes do período correspondente à carência, sendo suficientes documentos que, juntamente com a prova oral, possibilitem juízo conclusivo quanto ao período de labor rural exercido; (c) certidões da vida civil são hábeis a constituir início probatório da atividade rural da parte autora (REsp n.º 980.065/SP, DJU, Seção 1, 17-12-2007; REsp n.º 637.437/PB, DJU, Seção 1, de 13-09-2004; REsp n.º 1.321.493-PR, DJe em 19-12-2012, submetido à sistemática dos recursos repetitivos.); (d) quanto à contemporaneidade da prova material, inexiste justificativa legal, portanto, para que se exija tal prova contemporânea ao período de carência, por implicar exigência administrativa indevida, impondo limites que não foram estabelecidos pelo legislador.
+As certidões da vida civil, documentos admitidos de modo uníssono pela jurisprudência como início probatório de atividade rural, no mais das vezes, registram fatos muito anteriores à implementação da idade de 55 ou 60 anos, e fora dos prazos constantes do art. 142 da Lei 8.213/91.
+O período de carência, em se tratando de aposentadoria por idade rural, correspondente a estágio da vida do trabalhador em que os atos da vida passíveis de registro cartorário, tais como casar, ter filhos, prestar serviço militar, ou inscrever-se como eleitor, foram praticados muito antes do início do marco para a contagem da carência prevista para tal benefício.
+Nesse sentido, a consideração de certidões é fixada expressamente como orientação pelo Superior Tribunal de Justiça (STJ, 3ª Seção, REsp 1.321.493-PR, procedimento dos recurso repetitivos, j.10/10/2012). Concluiu-se imprescindível a prova material para fins previdenciários, ainda que o labor tenha sido exercido à margem da formalidade, cabendo às instâncias ordinárias a verificação da condição de trabalhador:
+"E, nesse aspecto, por mais que o trabalho seja informal, é assente na jurisprudência desta Corte que há incontáveis possibilidades probatórias de natureza material. Por exemplo, ainda que o trabalho tenha sido informal, constatando-se que o segurado tem filhos ou é casado, devem ser juntadas certidões de casamento e de nascimento, o que deve ser averiguado pelas instâncias ordinárias."
+De todo o exposto, consideradas as notórias e por vezes insuperáveis dificuldades probatórias do segurado especial, é dispensável a apresentação de prova documental de todo o período, desde que o início de prova material seja consubstanciado por prova testemunhal, nada impedindo que sejam contemplados os documentos extemporâneos ou emitidos em período próximo ao controverso, desde que levem a supor a continuidade da atividade rural.
+Ademais, já restou firmado pelo Colendo STJ, na Súmula 577 (DJe 27/06/2016), que "É possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório.".
+(..)
+Caso Concreto
+A parte autora, nascida em 21/02/1962, implementou o requisito etário em 21/02/2017 e requereu o benefício na via administrativa em 17/12/2018 (evento 1, PROCADM7). Assim, deve comprovar o efetivo exercício de atividade rural nos 180 meses anteriores à implementação da idade ou nos 180 meses que antecederam o requerimento administrativo; ou, ainda, em períodos intermediários, mesmo que de forma descontínua.
+Alega a autora que restou comprovada a atividade rural no período de 22/02/1974 a31/12/1978, que somada ao tempo já reconhecido pelo INSS lhe garante a concessão do benefício de aposentadoria por idade rural.
+A sentença examinou as provas e decidiu a questão nos seguintes termos (evento 33,SENT1):
+Fixadas tais premissas, passo à análise do caso concreto.
+A parte autora cumpriu o requisito etário, já que na data do requerimento administrativo (17/12/2018)contava com mais de 55 anos de idade (data de nascimento: 21/02/1962).
+A controvérsia cinge-se à comprovação da qualidade de segurado especial no período imediatamente anterior ao requerimento administrativo, assim como quanto ao tempo de carência necessário à concessão do benefício.
+Sustenta a parte autora, na inicial, ter laborado na agricultura como segurado especial, no período de 22/02/1974 a 31/12/1978:
+Como prova material, a parte autora apresentou (por amostragem) os seguintes documentos:
+Em nome do genitor, Sr. Raul Padilha: - certidão de nascimento da autora, qualificando-o como agricultor (1962); - declaração particular de atividade rural de 1974 a 1978.
+Pois bem.
+Deixo de reconhecer o intervalo de 22/01/1974 a 31/12/1978, diante da ausência de qualquer prova material do labor rural no período postulado. De fato, se viviam da agricultura, é estranho que não tenha vindo aos autos nenhuma nota em dos genitores acerca da comercialização de produtos ou qualquer outro documento equivalente que comprovasse o labor rural no período. Registro que a mera Certidão de Nascimento, onde consta o pai como agricultor, de 12 anos antes do início do período vindicado não é suficiente, a meu juízo, para denotar a continuidade do labor rural da família durante o período pretendido, à míngua da inexistência de qualquer outro indício material nesse sentido, mesmo que posterior ao interstício em debate.
+Nesses termos, considero que a prova testemunhal, ainda que favorável, não é suficiente para a procedência da demanda, pois implicaria concessão com prova exclusivamente testemunhal.
+Do pedido de aposentadoria por idade rural:
+Sem períodos a acrescer, improcede o pedido de aposentadoria por idade rural na DER.
+Quanto ao conteúdo probatório, a sentença deve ser confirmada pelos seus próprios fundamentos, pois apreciou de forma aprofundada os períodos controversos e em consonância com o entendimento desta Corte, nos termos da fundamentação supra.
+De fato, os únicos documentos juntados aos autos é a certidão de nascimento da autora e de seu irmão, onde o seu genitor foi qualificado como agricultor, em 1962 e 1964 (evento 1, INIC1,p.9) (evento 1, PROCADM7, p.13), extemporâneo ao período que se pretende comprovar. E a declaração particular de Henrique Vilmar Niderauer de que o genitor da autora desempenhava atividades agrícolas no período de 1974 a 1978, bem como a auto declaração rural juntadas ao autos (evento 1, PROCADM7, p.15 e 17) equivalem a mera prova testemunhal.
+Assim, em que pese o teor da prova testemunhal favorável, não há início de prova material do efetivo trabalho agrícola da demandante no período controvertido.
+Todavia, saliente-se que o Superior Tribunal de Justiça, quando do julgamento do Tema 629, firmou o entendimento no sentido de que a ausência/insuficiência de início de prova material não é causa de improcedência do pedido, mas sim de extinção do processo, sem resolução de mérito.
+Dessa forma, cabível o ajuizamento de nova ação, caso sejam reunidos os elementos necessários para tanto, assegurando-se, assim, o direito fundamental de acesso à Previdência Social.
+Nesse contexto, qualquer conclusão em sentido contrário ao que foi expressamente consignado no aresto recorrido, a fim de acatar as razões da recorrente, demandaria o revolvimento do acervo documental dos autos, o que não cabe na via especial ante o óbice da Súmula 7 do STJ.
+Nessa linha:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. NÃO OCORRÊNCIA. CONDIÇÃO DE SEGURADO ESPECIAL. NÃO CARACTERIZAÇÃO. EXISTÊNCIA DE VÍNCULO URBANO. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Ocorre que, no caso dos autos, não ficou demonstrado que o trabalho rural supostamente desenvolvido pela parte autora fosse fonte de sustento do grupo familiar, não caracterizando, por conseguinte, o regime de economia familiar, necessário ao deferimento do benefício nos termos requeridos. A parte autora completou idade para aposentadoria em 2011, devendo demonstrar 180 (cento e oitenta) meses de atividade rural, no período de 1996 a 2011. Entretanto, o CNIS da autora apresenta vínculos de natureza urbana com empresas como Florestaminas Reflorestamento Minas Gerais SA (07/1981 a 09/1981); Embaúba Florestal SA (12/1983 a 02/1984); e com o Município de Rio Pardo de Minas (03/2001 a 09/2001; 01/2005 a 12/2007; e 01/2008 a 04/2008). Assim, a comprovação da condição de empregado da parte autora, por longo período e durante o período de carência, descaracteriza a atividade rural em regime de economia familiar para subsistência do grupo, pois é exatamente nessa perspectiva que se consideram todos os membros da família como segurados especiais (art. 11, inciso VII, da Lei de Benefícios). Dessa forma, ausente o início de prova material, a prova testemunhal produzida não pode ser exclusivamente admitida para reconhecer o tempo de exercício de atividade urbana e rural (STJ, Súmula 149 e TRF1, Súmula 27)".
+2. Com efeito, não está abarcado no conceito de segurado especial o trabalhador que possui outra fonte de rendimento, além daquele advindo do labor rural em regime de economia familiar que seja decorrente do exercício de atividade remunerada em período superior a cento e vinte dias no ano civil, nos termos do artigo 11, § 9º, III, da Lei 8.213/1991.
+3. Assim sendo, o acórdão recorrido não destoa da jurisprudência do STJ ao afirmar que a existência de vínculos urbanos por longo período descaracteriza a condição de segurado especial como rurícola.
+4. Ademais, é inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1.728.632/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18/12/2020.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. PENSÃO POR MORTE. SEGURADO ESPECIAL. TRABALHADOR RURAL. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. DESCARACTERIZAÇÃO DO REGIME DE ECONOMIA FAMILIAR. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. O Tribunal de origem, soberano na análise dos elementos de prova dos autos, refutou o início de prova material em regime de economia familiar. Entender de modo diverso do consignado pela Corte a quo exige o reexame de matéria fático-probatória, o que é vedado pela Súmula 7 do STJ.
+2. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no AREsp 586.606/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 17/11/2014.)
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADORA RURAL. INÍCIO DE PROVA MATERIAL CORROBORADO POR ROBUSTA PROVA TESTEMUNHAL. ATIVIDADE URBANA. DESCARACTERIZAÇÃO DO REGIME DE ECONOMIA FAMILIAR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte entende que a comprovação do exercício de atividade rural para fins previdenciários pressupõe o que a norma denomina de início de prova material, bem como que não é necessário que a prova material se refira a todo o período de carência se este for demonstrado por outros meios, como, por exemplo, pelos depoimentos testemunhais.
+2. A Primeira Seção, ao julgar o Recurso Representativo de Controvérsia REsp 1.304.479/SP, de Relatoria do Ministro Herman Benjamin, sedimentou o entendimento segundo o qual o trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais.
+3. Diferente do afirmado nas razões do regimental, não afirmou o magistrado a quo estar incontroverso nos autos que a parte autora exerceu exclusivamente atividade urbana durante todo o período de carência que antecedeu o requerimento. Tampouco consignou a Corte de origem a descaracterização do regime de economia familiar em virtude de vínculo urbano mantido. A revisão do quadro fático dos autos esbarra no óbi ce contido na Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 334.689/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 26/8/2013.)
+Ressalto, por fim, ficar prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular ao se examinar o Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EQUIPARAÇÃO SALARIAL. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. DIVERGÊNCIA PREJUDICADA.
+(..)
+3. Ressalte-se, ainda, a inviabilidade de análise da questão pela via da divergência. Isso porque atos normativos não enquadrados no conceito de lei federal (Súmula 280/STF) obstam a apreciação da alegada divergência jurisprudencial.
+Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 746.744/MT, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 1º/12/2015.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA PERICIAL. INDEFERIMENTO FUNDAMENTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. TARIFA DE ESGOTO. LEGALIDADE DO MÉTODO DE COBRANÇA. CONTROVÉRSIA DIRIMIDA COM BASE EM LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF.
+(..)
+4. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 527.605/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 27/8/2015.)
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
