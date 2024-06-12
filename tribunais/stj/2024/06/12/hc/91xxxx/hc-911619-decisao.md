@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JULIANA DE CARVALHO SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que negou provimento ao agravo em execução, assim ementado (e-STJ, fl. 45):
+"AGRAVO EM EXECUÇÃO PENAL - Retificação de cálculo - Decisão homologatória de cálculo de progressão de regime prevendo a necessidade do cumprimento da fração de 20% da pena - Insurgência defensiva - Crime comum praticado sem violência ou grave ameaça - Reincidência não específica - Inovação trazida pela Lei 13.964/2019 - Pleito de aplicação de percentual de cumprimento do interregno de 16% da pena, exigido ao sentenciado por crime comum - Descabimento - Decisão mantida - AGRAVO DEFENSIVO NÃO PROVIDO."
+Consta dos autos que a paciente foi condenada como incursa no artigo 155, parágrafo 4º, inciso IV do Código Penal e já reincidente, foi condenada à pena de 02 (dois) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, sendo condenada anteriormente pela prática do delito de roubo majorado à pena de 05 (cinco) anos e 06 (seis) meses de reclusão, no regime fechado.
+A paciente praticou o crime de furto qualificado, sendo reincidente e fixada a fração de 20% para a progressão de regime, nos termos do artigo 112 da Lei de Execução Penal.
+Neste writ, sustenta a impetrante, em síntese, que a paciente sofre constrangimento ilegal em decorrência da manutenção da decisão do juízo da execução que fixou o percentual de 20% (art. 112, II, da LEP) para a progressão de regime de pena, mesmo se tratando de apenada reincidente genérica.
+Aduz que que deve ser adotada a mesma lógica que se observa quanto ao reincidente não específico em crime hediondo, situação em que incide o percentual de 40% (art. 112, V, da LEP) e não o de 60% (art. 112, VII, da LEP), conforme Temas 1.169/STF e 1.084/STJ.
+Requer a retificação de cálculo para 16%.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Consta do acórdão atacado:
+"no caso vertente, ao contrário do que entende a Defesa, a agravante praticou crime sem violência ou grave ameaça, sendo crime comum e reincidente pela prática de crime anterior praticado com violência ou grave ameaça à pessoa, mantendo-se a aplicação do lapso de 20% para fins de progressão, nos termos do artigo 112, inciso II, da Lei nº 7.210/1984, com redação dada pela Lei nº 13.964/2019" (e-STJ, fl. 50).
+Na espécie, a Corte local, de forma acertada, manteve o percentual fixado pelo juízo da execução em 20%, na medida em que o inciso II do art. 112, de forma hialina, não exige a caracterização de reincidência específica.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o Tribunal de origem exigiu que o paciente cumprisse 20% da pena para obtenção da progressão de regime prisional, em razão dele ostentar a condição de reincidente na prática de crime cometido sem violência à pessoa ou grave ameaça.
+Nesse sentido:
+"PENAL. PROCESSO PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. PROGRESSÃO DE REGIME. ART. 112, II, III E V, DA LEI DE EXECUÇÃO PENAL. NOVA REDAÇÃO. APLICAÇÃO DA LEI MAIS BENÉFICA EM SUA INTEGRALIDADE. POSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO MANTIDA.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - O eg. Tribunal estadual aplicou, em sintonia com a novel jurisprudência desta Corte Superior de Justiça, o lapso de 40% ao crime de tráfico de drogas, delito equiparado ao hediondo, relatando, no entanto, que o sentenciado também cumpre pena pela prática de 03 (três) crimes de natureza comum. Desse modo, entendeu a eg. Corte estadual que, em relação aos crimes comuns, por se tratar de sentenciado reincidente em crime cometido sem violência ou grave ameaça, seria aplicável o prazo de progressão de 20%, previsto no artigo 112, inciso II, da Lei de Execução Penal.
+III - In casu, não há que se falar em reformatio in pejus, haja vista que o eg. Tribunal de origem, ao decidir pela retificação do cálculo de penas do sentenciado, aplicando os lapsos de progressão de regime previstos no art. 112, incisos II, III e V, da Lei de Execução Penal, apenas aplicou a lei penal mais benéfica em sua integralidade ao caso concreto.
+IV - O v. acórdão fustigado encontra-se em total sintonia com a jurisprudência deste Tribunal Superior, o qual, na análise da retroatividade da lei penal material, tem entendido pela impossibilidade daquilo que a doutrina penalista chama de "combinação de leis", isto é, deve ser analisada de forma integral a nova lei mais benéfica, não se permitindo aplicação de uma parte do dispositivo revogado e outra parte do novo dispositivo. Precedentes.
+V - Desta forma, inexistente flagrante ilegalidade a ser reconhecida na via estreita do habeas corpus.
+Agravo regimental desprovido."
+(AgRg no HC 705.470/SC, relator o Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT, Quinta Turma, julgado em 10/05/2022, DJe de 13/05/2022).
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
