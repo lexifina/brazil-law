@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EQUINOR BRASIL ENERGIA LTDA. à decisão de fls. 927/928, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Após a autuação do Agravo em Recurso Especial nesta Corte, a ora Embargante foi intimada para regularização do preparo recursal, mediante o correto preenchimento da guia de custas, com fundamento no artigo 1.007, § 7º, do CPC (e-STJ fl. 916):
+ ..
+A Embargante promoveu, então, a juntada de nova comprovação do recolhimento das custas. Não obstante, foi surpreendida por nova decisão, ora embargada, que deixou de conhecer o processo por deserção, com base no artigo 1.007, § 4º do CPC, em razão de suposto novo equívoco no recolhimento da guia de preparo:
+ ..
+No caso concreto, ao aplicar o referido dispositivo para fundamentar o não conhecimento do recurso, a decisão restou omissa quanto ao fato de que o preparo foi entendido como inexistente, mesmo tendo sido integralmente recolhido por duas vezes.
+Como se verifica da r. decisão embargada, a pena de deserção foi aplicada não em razão da ausência ou insufiência do valor recolhido relativo a guia de preparo recursal, mas devido ao fato de não se ter mencionado na guia, no campo "Número do Processo que Consta no Acórdão Recorrido", apenas um dígito (fl. 934).
+Nota-se quão pequena são as divergências no primeiro recolhimento e no segundo:
+(i) Número considerado incorreto - Guia nº 1 (e-STJ fls. 649/650):
+__032131-80.2022.8.26.0053 Número considerado correto - Guia nº 1:
+1032131-80.2022.8.26.0053
+ ..
+(ii) Número considerado incorreto - Guia nº 2 (e-STJ fls. 922/923):
+1032131-80.2022.8.26.0058 Número considerado correto - Guia nº 2:
+1032131-80.2022.8.26.0053 (fl. 935).
+ ..
+Ou seja, conforme se vê, as diferenças consistem: (i) na ausência, na guia nº 1 de e-STJ fls. 649/650, do algarismo 1 (um) à frente dos demais; e (ii) na substituição, na guia nº 2 de e-STJ fls. 922/923, do algarismo 3 (três) pelo algarismo 8 (oito). Todos os demais 17 (dezessete) números, em ambos os casos, estão na sequência correta.
+A divergência entre o número apontado como correto e aquele considerado incorreto, no entanto, é mínima, não impede a constatação de que a guia de preparo foi devidamente recolhida e se referia a este processo e, acima de tudo, não resultou em prejuízo, notadamente para o Erário.
+ ..
+Da análise dos dispositivos em questão, resta evidente que somente a deficiência no recolhimento do preparo é capaz de acarretar a deserção do recurso. Por outro lado, o mero equívoco no preenchimento da guia não tem essa consequência prevista em lei.
+Assim, é de rigor o saneamento da omissão apontada, na medida em que o erro incorrido pela Embargante não se enquadra no art. 1.007, § 4º do CPC, mas no art. 1.007, § 7º do CPC, o qual não prevê deserção como penalidade de erro em preenchimento de guia de preparo. Assim, é de rigor o regular prosseguimento do feito (fl. 936).
+ ..
+Após verificar a ausência de apenas um número no campo "Número do Processo que Consta no Acórdão Recorrido" e com o intuito de demonstrar a sua boa-fé, a Embargante apresentou nova guia na primeira oportunidade em que se manifestou nos autos. Inclusive, nesta mesma oportunidade, a Embargante apresenta novamente o preparo e seu comprovante de pagamento, desta vez com o valor em dobro (DOC.1).
+Ademais, diferentemente do que foi apontado na r. decisão embargada, é possível observar nos comprovantes de pagamento que estão inseridas todas as informações necessárias para se comprovar a real e efetiva vinculação dos pagamentos realizados diretamente ao processo em questão (fl. 937).
+ ..
+Diante de tal constatação, cumpre destacar que, em situação específica e idêntica à discutida no caso em tela, a C. 4ª Turma do STJ entendeu por bem afastar a deserção já que se a finalidade de se recolher as custas aos cofres públicos foi efetivada, o erro de digitação seria um erro escusável, sendo possível, nesta situação específica, ser superada a formalidade meramente burocrática. Segue a ementa transcrita abaixo: (fl. 939).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+No caso, quando da interposição do recurso especial, a parte indicou erroneamente o "Número do Processo que consta no Acórdão Recorrido" na guia de recolhimento das custas judiciais juntada aos autos. Veja-se que consta no acórdão recorrido o n.º 1032131-80.2022.8.26.0053/50000, (fl. 609) e na guia consta o n.º 032131-80.2022.8.26.0053 (fl. 649).
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício (fl. 916), contudo, não regularizou, uma vez que juntou novamente a guia de recolhimento com a indicação errônea do número do processo (fl. 922).
+Dessa forma, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente, a qual dispõe que no momento do preenchimento da GRU Cobrança deverão ser indicados obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www.stj.jus.br), de acordo com o tipo de ação ou recurso escolhido.
+Veja-se que na guia está claro que o campo deve ser preenchido com o "Número do Processo que Consta no Acórdão Recorrido", providência não cumprida.
+Desse modo, conforme entendimento deste Superior Tribunal de Justiça a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do número do processo - caracteriza a sua deserção.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. GUIA DE RECOLHIMENTO. PREENCHIMENTO COM NÚMERO INCORRETO DO PROCESSO NA ORIGEM. JURISPRUDÊNCIA DA CORTE ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A eg. Corte Especial do Superior Tribunal de Justiça orienta-se no sentido de que, "a partir da edição da Resolução n. 20/2004, além do recolhimento dos valores relativos ao porte de remessa e retorno em rede bancária, mediante preenchimento da Guia de Recolhimento da União (GRU) ou de Documento de Arrecadação de Receitas Federais (DARF), com a anotação do respectivo código de receita e a juntada do comprovante nos autos, passou a ser necessária a indicação do número do processo respectivo" (AgRg no REsp 924.942/SP, de relatoria do eminente Ministro MAURO CAMPBELL MARQUES, julgado na sessão de 3/2/2010 e publicado no DJe de 18/3/2010, grifo nosso).
+2. Na hipótese em exame, a guia de recolhimento do preparo do recurso especial foi preenchida com o número incorreto do processo no Tribunal de origem, o que impossibilita a vinculação do preparo aos presentes autos. Portanto, é forçoso reconhecer a inviabilidade de conhecimento do apelo especial.
+3. Ressalva de entendimento pessoal do Relator.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.933.019/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 29/6/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. PREPARO. COMPROVANTE DE PAGAMENTO. IRREGULARIDADE. INTIMAÇÃO PARA SANAR VÍCIO. NOVA IRREGULARIDADE NO PREENCHIMENTO DA GUIA. DESERÇÃO CONFIGURADA. INCIDÊNCIA DA SÚMULA N. 187/STJ. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE EXPEDIENTE FORENSE. NÃO APRESENTAÇÃO DO CORRESPONDENTE ATO NORMATIVO. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO.
+1. O Tribunal local constatou irregularidade no recolhimento do preparo. Regularmente intimada para sanar o vício, a parte agravante apresentou novo comprovante de pagamento do preparo em desacordo com o disposto na Resolução do STJ, vigente à época da interposição do recurso, porquanto no momento do preenchimento do formulário eletrônico a parte indicou erroneamente o número do processo no Tribunal de origem.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.992.384/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 19/5/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. COMPROVAÇÃO DO PREPARO QUE DEVE SER FEITA NO ATO DA INTERPOSICÃO DO RECURSO. GUIA DE PREPARO. AUSÊNCIA. INTIMACÃO PARA REGULARIZAÇÃO. ART. 1.007, § 4º, DO CPC. NÃO CUMPRIMENTO. INCIDÊNCIA DA SÚMULA 187/STJ. OMISSÃO E ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previsto no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. O cerne da controvérsia reside na alegação da parte embargante de que comprovou tempestivamente seu preparo, uma vez que apresentou comprovante de pagamento quando da interposição de seu recurso especial, afastando, portanto, os efeitos da deserção, inclusive quanto ao recolhimento em dobro determinado pelo art. 1.007, § 4º, do CPC/2015.
+3. No mais, foi constatada a irregularidade na comprovação do preparo recursal. A Presidência do STJ intimou a parte agravante para recolhimento das custas em dobro, entretanto, ao responder à intimação, a parte agravante incorreu em nova deficiência na demonstração do preparo, pois preencheu de forma equivocada a GRU respectiva, informando incorretamente o número do processo na origem (Aglnt nos EDcl no AREsp 1.177.119/SP, Rel. Ministra REGINA HELENA COSTA, DJe 29.6.2018; Aglnt no AREsp 1.178.827/SP, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 18.5.2018).
+4. Constata-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida e fundamentada, o que não é possível por meio dos embargos de declaração.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam ã inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração do particular rejeitados.
+(EDcl no AgInt no AREsp n. 1.413.072/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Registre-se que, de acordo com o entendimento do STJ, "É dever do recorrente o correto recolhimento do preparo no momento da interposição do recurso. O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção (AgInt no AREsp 1.313.440/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 15/05/2019; AgInt no AREsp 1921199/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 18/03/2022.)
+Somente agora, em sede destes aclaratórios a parte trouxe o devido comprovante de pagamento e a guia de recolhimento com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 26/11/2019.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
