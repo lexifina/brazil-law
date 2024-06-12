@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por FERNANDO DE ARAUJO PERRELLI JUNIOR em face de acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+Depreende-se dos autos indeferimento do pedido de restituição de bens apreendidos (veículo e relógios), no âmbito da Operação "Onzenário" - feito criminal que se apuram os crimes contra o Sistema Financeiro Nacional e de lavagem de capitai -, decisum mantido íntegro pelo Tribunal de origem que negou provimento ao recurso de apelação.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação aos arts. 118, 119, ambos do CPP, uma vez que os bens apreendidos não possuem qualquer interesse para as investigações, que perduram após 7 anos, haja vista o transcurso de mais de 1 ano desde a apreensão, sem que a autoridade policial e o Ministério Público tenham apresentado o relatório final ou a denúncia. Alega, ainda, existir prova da titularidade e da legalidade da aquisição dos bens.
+Apresentadas as contrarrazões (fls. 394-405) o recurso foi admitido.
+O Ministério Público Federal apresentou parecer pelo não conhecimento e desprovimento do recurso especial (fls. 420-423).
+É o relatório. DECIDO.
+A questão a ser analisada cinge-se à persistência (ou não) do interesse processual sobre o bem apreendido.
+Acerca da temática recursal, o Tribunal de origem manteve intacta a decisão de indeferimento do pedido de restituição, que foi, no que importa ao caso, assim fundamentado:
+"Isso porque, da análise dos autos apresentados, constata-se a existência de evidências suficientes acerca do envolvimento do apelante nos fatos investigados, conforme já narra a Decisão (Id:21262247):O imputado é investigado nos autos do IPL nº 0000052-42.2015.4.05.8100 por lavagem de capitais, associação criminosa e gestão temerária. Desta forma, bens de considerável valor apreendidos em seu poder, deverão permanecer constritos, pois interessam ao processo, já que podem, em tese, fazer parte da cadeia da lavagem de dinheiro investigada.
+Há fortes indícios de que tais bens foram adquiridos com recursos ilícitos, uma vez que a Autoridade Policial, durante as investigações, descortinou as relações dos investigados com as atividades ilícitas apuradas no IPL nº 1484/2014, tendo informado a este Juízo, na Representação Criminal, sobre a conduta de FERNANDO ARAÚJO.
+Ademais, bens de considerável valor apreendidos em poder do requerente, como é o caso dos autos, podem, em tese, fazerem parte da cadeia da lavagem de dinheiro investigada, considerando que referida pessoa estaria sendo investigadas justamente por crimes contra o Sistema Financeiro Nacional e de Lavagem de Capitais, orquestrados por uma intrincada e complexa rede de pessoas físicas (às vezes fictícias) e jurídicas (empresas de fachada, por vezes), com a participação de gestores de instituições financeiras do setor privado, empresários e agentes públicos.
+Como se sabe, o crime de lavagem de dinheiro consiste em tornar lícito o dinheiro oriundo de atividades criminosas, reinserindo-se no sistema econômico-financeiro como se lícito fosse , o que ocorre através de diversas movimentações financeiras, inclusive com a conversão de valores em bens, dentre estes, veículos de valor considerável.
+Assim, levando em conta o alto padrão dos bens em questão (veículo e relógios), é de se inferir com elevado grau de probabilidade que foram adquiridos com utilização de recursos ilícitos, motivo pelo qual indefiro a restituição dos mesmos.(Grifos Acrescidos).
+Assim, é crucial a manutenção da medida constritiva dos bens em questão, haja vista a própria natureza e complexidade dos delitos apurados, sobretudo, do crime de lavagem de dinheiro, que tem como finalidade dissimular ou esconder a origem, natureza, localização, disposição, movimentação ou mesmo propriedade ilícita de bens, direitos ou valores.
+ ..
+Como se não bastasse, no Ofício nº 105/2021 (Id: 21116222), a autoridade policial, enfatiza a existência de interesse nos referidos bens apreendidos para a investigação:
+Sendo assim, em resposta ao ofício de Identificador: 4058100.20866877, informo que (Grifos permanece o interesse nos bens apreendidos para a investigação criminal. Acrescidos).
+ ..
+Ora, o simples fato de os bens terem sido apreendidos há mais de 06 meses, por si só, mostra-se insuficiente para que se ordene o imediato levantamento da constrição, visto que, como se infere nos trechos dos autos destacados, ainda restam dúvidas quanto a origem lícita dos bens, além de haver pleno interesse na apreensão dos mesmos para a continuidade das investigações. ..
+Ademais, como bem explana o juízo a quo na Decisão (Id: 21262247):
+Destaque-se que, conforme bem pontuado pelo órgão ministerial, a investigação relacionada é complexa, necessitando o Delegado e seus auxiliares de tempo razoável.
+ ..
+Diante disso, faz-se necessário levar em consideração a natureza complexa dos delitos investigados, bem como a grande quantidade de pessoas envolvidas no contexto fático em questão, devendo o lapso temporal ser apurado em conjunto com as circunstâncias que circundam o processo, as quais são fundamentais para as investigações, juntamente com as particularidades de cada caso." (fls. 343-345, grifei).
+Como se denota, o Tribunal de origem, após análise de elementos fático-probatórios, manteve a decisão que entendeu pela inexistência de prova da titularidade dos bens apreendidos e atestou a persistência do interesse processual.
+Entender de modo diverso ao que estabelecido pelo Tribunal de origem para se concluir pela ausência de referido interesse processual demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESTITUIÇÃO DE BENS APREENDIDOS. INTERESSE PARA O PROCESSO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas se interessarem ao processo, situação reconhecida pelo Tribunal de origem. Para examinar a tese de violação do art. 118, do CPP, seria necessário o cotejo de fato não delineado ou reconhecido no aresto recorrido, o que atrai a incidência da Súmula n. 7 do STJ.
+2. Agravo regimental não provido" (AgRg no AREsp n. 1.809.361/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 14/12/2021)
+E mais: AgRg no AREsp n. 1.049.364/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 27/3/2017.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. OPERAÇÃO ONZENÁRIO. RESTITUIÇÃO DE BEM APREENDIDO. INTERESSE PROCESSUAL SOBRE O BEM. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA 7, STJ. RECURSO ESPECIAL NÃO CONHECIDO.
