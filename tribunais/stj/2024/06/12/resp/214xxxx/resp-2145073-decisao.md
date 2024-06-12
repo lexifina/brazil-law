@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Petróleo Brasileiro S/A - Petrobras com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 2.181):
+ADMINISTRATIVO. PETRÓLEO. REGULAMENTO TÉCNICO DE MEDIÇÃO. PONTO DE MEDIÇÃO FISCAL. NÃO CONFORMIDADE. VANTAGEM ECONÔMICA AUFERIDA. VALOR. FIXAÇÃO. CRITÉRIOS. JUROS DE MORA E CORREÇÃO MONETÁRIA.
+- A não conformidade ao Regulamento Técnico de Medição (RTM) de pontos de medição fiscal de petróleo diferentes não se caracteriza infração continuada, mas infrações independentes, sendo irrelevante que correspondam a conduta da mesma natureza.
+- Devem ser aplicados critérios claros, técnicos e objetivos para estimar a Vantagem Econômica Auferida (VEA) pela concessionária, considerando-se como base de cálculo os tributos não recolhidos sobre o volume de de petróleo registrado a menor.
+- Tais critérios são estabelecidos no art. 4º da Lei nº 9.847/99, nomeadamente, a gravidade da infração, a vantagem auferida, a condição econômica do infrator e os seus antecedentes.
+- Em se tratando de pena aplicada com espeque na Lei nº 9.847/99, o termo inicial para cômputo da multa imposta pela ANP e os juros correspondentes fluem a partir do fim do 30º dia para pagamento do débito, contado da decisão administrativa definitiva (Incidente de Assunção de Competência STJ 11).
+- A correção monetária, em razão de sua natureza de recomposição do valor da moeda, tem incidência a partir do momento em que a pena foi aplicada, independentemente de a exigibilidade estar suspensa por recurso administrativo.
+- Remessa e Apelação da AGÊNCIA NACIONAL DE PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP não providas e Apelação de PETRÓLEO BRASILEIRO S.A. - PETROBRAS parcialmente provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 2.240/2.241).
+A parte recorrente aponta violação ao art. 71 do Código Penal. Sustenta que o Tribunal de origem se equivocou ao deixar de reconhecer a continuidade delitiva, aplicável por analogia às infrações administrativas, entre as não conformidades apontadas no auto de infração, notadamente porque são ilícitos que correram em similares ou idênticas condições de tempo, lugar e modo de execução, todas elas constatadas em uma mesma oportunidade pela autoridade fiscalizatória, e enquadradas no mesmo tipo administrativo, consubstanciado no artigo 3º, IX, da Lei nº 9.874/99. Alega a necessidade de reconhecimento da continuidade delitiva, determinando a aplicação de apenas uma penalidade.
+Foram ofertadas contrarrazões (fls. 2.254/2.257).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta acolhimento.
+Quanto à alegada continuidade delitiva entre as infrações administrativas, o Tribunal regional asseverou a impossibilidade do seu reconhecimento, nos seguintes termos (fl. 2.174):
+Acham-se confirmadas as informações enunciadas no Quesito 17
+Assim, falta razão à PETROBRAS no afirma serem as desconformidades indicadas nos itens 5 e 6 do Documento de Fiscalização (auto de infração) nº 808-103-1433-401133 decorrentes da mesma conduta, o que infirma a alegação de continuidade infracional. Ademais, como descrito no Laudo Complementar (evento 165, LAUDO1, fl. 8) "os pontos de medição fiscal de petróleo FQI-6250003A e FQI-6250001 cumprem funções diferentes e estão instalados em circuitos hidráulicos independentes".
+Por conseguinte, é hígida a autuação para cada uma das não conformidades, irrelevante que correspondam a conduta da mesma natureza. Correta a Sentença no que positiva:
+Pelo exposto, considerando as razões técnicas explicitadas pelo ilustre perito, não merecem prosperar as alegações da parte autora em relação à aplicação de uma só multa para as infrações 5 e 6.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, a fim de reconhecer a existência de infração administrativa em continuidade, para fins de aplicação de sanção única, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA CONTINUADA. APLICAÇÃO DE MULTA SINGULAR. POSSIBILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência desta Corte Superior, há continuidade infracional quando diversos ilícitos de idêntica natureza são apurados durante mesma ação fiscal, devendo tal medida ensejar a aplicação de multa singular.
+2. A alteração das conclusões adotadas pela Corte de origem, de modo a averiguar a presença dos requisitos necessários à configuração da infração continuada, bem como da ausência de demonstração do dolo múltiplo, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.129.674/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021)
+ADMINISTRATIVO. INFRAÇÃO ADMINISTRATIVA. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. INFRAÇÃO CONTINUADA. MESMA OPORTUNIDADE FISCALIZATÓRIA. OCORRÊNCIA DE DIVERSAS INFRAÇÕES DA MESMA NATUREZA. APLICAÇÃO DE MULTA SINGULAR. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 deste Superior Tribunal de Justiça.
+II - A alteração das conclusões adotadas no Tribunal a quo, de que em uma única autuação/fiscalização a ANP constatou uma sequência de infrações da mesma natureza, o que caracteriza a infração continuada (fl. 970), demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, procedimento esse vedado em sede de recurso especial, conforme óbice previsto no enunciado n. 7 da Súmula do STJ.
+III - Ainda que assim não fosse, no que concerne à alegada violação do art. 71 do Código Penal e do art. 3º, IX, da Lei n. 9.847/99, sem razão o recorrente, posto que o aresto vergastado está em consonância com a jurisprudência desta Corte, no sentido de que há infração continuada quando a administração pública, em uma mesma oportunidade fiscalizatória, constata a ocorrência de diversas infrações da mesma natureza, o que enseja a aplicação de multa singular. Nesse sentido: AREsp 1129674/RJ, Rel. Min. SÉRGIO KUKINA, Julgamento em 11/09/2017, Dje 14/09/2017; REsp 1041310/SP, Rel. Ministro Francisco Falcão, Primeira Turma, julgado em 27/5/2008, DJe 18/6/2008.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.666.784/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/3/2018, DJe de 21/3/2018)
+ANTE O EXPOSTO, não conheço d o recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
