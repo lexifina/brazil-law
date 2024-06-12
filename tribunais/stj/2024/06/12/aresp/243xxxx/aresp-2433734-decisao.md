@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Juarez Antonio Arantes, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fls. 1.588-1.589):
+DIREITO PROCESSUAL CIVIL. DIREITO DAS SUCESSÕES. AÇÃO DE INVENTÁRIO E PARTILHA. SENTENÇA. RESOLUÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LITISPENDÊNCIA ENTRE DEMANDAS. AÇÕES DE INVENTÁRIO E PARTILHA PROPOSTAS POR DIFERENTES COLEGITIMADOS. APELAÇÃO. ALEGAÇÃO DE OCORRÊNCIA DE CONEXÃO. NÃO CABIMENTO. LITISPENDÊNCIA VERIFICADA. PRETENDIDA MODIFICAÇÃO DO INVENTARIANTE. IMPOSSIBILIDADE. NÃO COMPROVAÇÃO, PELO APELANTE, DE ESTAR NA POSSE E ADMINISTRAÇÃO DO ESPÓLIO. LEGITIMIDADE CONCORRENTE E DISJUNTIVA DOS COERDEIROS. AJUIZAMENTO DE AÇÃO POR COLEGITIMADO HORAS DEPOIS DO PROTOCOLO DA DEMANDA CONSIDERADA COMO PRINCIPAL. DEFINIÇÃO A PARTIR DA DATA DA PROPOSITURA DA PRIMEIRA AÇÃO. DEMANDA DE NATUREZA CONTENCIOSA E PROCESSADA SOB PROCEDIMENTO ESPECIAL. PRECEDENTES DO STJ. ALEGADA MEDIDA CAUTELAR IGNORADA QUANDO DA SENTENÇA. PERDA SUPERVENIENTE DO OBJETO. INFORMAÇÃO, NOS AUTOS, DE AGRAVO DE INSTRUMENTO INTERPOSTO EM FACE DE DECISÃO DO PROCESSO APENSO, DO RECOLHIMENTO DOS PERTENCES DO DE CUJUS PELO INVENTARIANTE. APELAÇÃO CONHECIDA E NÃO PROVIDA.
+1. O inventário se destina à arrecadação de bens e direitos deixados pela pessoa falecida, para posterior pagamento das dívidas e tributos porventura existentes e, finalmente, a partilha entre os herdeiros.
+2. Há litispendência entre duas ações de inventário e partilha, ajuizadas por distintos colegitimados, quando presente a tríplice identidade (isto é, quando as partes, as causas de pedir e os pedidos são iguais). É irrelevante serem as partes ocupantes de polos processuais contrapostos, nas duas ações de inventário e partilha de bens, por se tratar de legitimação ad causam concorrente e disjuntiva. Exegese dos artigos 337, §§ 1º a 3º, e 485, inc. V, do Código de Processo Civil. Precedente do Superior Tribunal de Justiça.
+3. O juiz nomeará inventariante o herdeiro que se encontrar na posse e administração do espólio (Art. 617, inc. II, do Código de Processo Civil). Entretanto, o apelante deixou de comprovar a condição de herdeiro administrador do espólio, colacionando provas somente da existência de bens a serem inventariados.
+4. Sendo os autores das diferentes ações de inventário e partilha colegitimados da mesma classe sucessória, não há preferência ou hierarquia entre si, porquanto qualquer um dos filhos herdeiros pode exercer tal função.
+5. Tendo a ação de inventário sido ajuizada pelo inventariante nomeado e distribuída horas antes de outra demanda, também de inventário proposta pelo apelante, configura-se a litispendência, o que implica no prosseguimento da ação proposta em primeiro lugar. Precedentes do Superior Tribunal de Justiça.
+6. No caso em exame, a medida cautelar, em que o apelante alega ter sido ignorada quando do proferimento da sentença, a fim de permitir ao recorrente o recolhimento dos bens do de cujus no hotel em que este residia, sofreu perda superveniente de seu objeto, ante a informação de que o inventariante nomeado nos autos apensos já procedeu ao recolhimento.
+7. Recurso conhecido e não provido.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente suscitou divergência jurisprudencial e contrariedade aos arts. 55, §§ 1º e 3º, 240, caput, e 617, II, do CPC/2015.
+Afirmou que o reconhecimento da litispendência estaria condicionado à ocorrência de citação, de modo que, não havendo citação, existiria simples conexão entre os processos.
+Relatou que teria sido investido pelo de cujus na condição de gestor provisório de seus bens, motivo pelo qual deveria ser nomeado inventariante.
+Sem contrarrazões.
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+De início, cabe pontuar que a pretensão referente à litispendência não foi objeto de debate no acórdão estadual sob o enfoque ora suscitado, qual seja, de que o seu reconhecimento estaria obstado pela inexistência de citação.
+Diante desse contexto, não havendo pronunciamento do Tribunal a quo sobre esse ponto, tem-se que o prequestionamento, requisito viabilizador do recurso especial, não foi preenchido, o que impede o conhecimento da matéria por esta Corte Superior, nos termos das Súmulas 282 e 356 do STF.
+A título ilustrativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO. SERVIDOR. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 489, III, IV, V E VI, § 1º, 926 E 927 DO CÓDIGO DE PROCESSO CIVIL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAL. ART. 5º, XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no AREsp n. 1.939.673/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+No mais, nota-se que a segunda instância concluiu que o ora insurgente não teria comprovado a sua alegada condição de administrador provisório dos bens do de cujus.
+Para derruir a convicção formada, seria indispensável o reexame de fatos e provas, providência vedada na via eleita, ante a previsão contida na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO E PARTILHA. 1. LITISPENDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. ADMINISTRADOR PROVISÓRIO DOS BENS DO DE CUJUS. CONDIÇÃO NÃO COMPROVADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
