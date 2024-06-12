@@ -1,0 +1,49 @@
+DECISÃO
+JEFFERSON DE OLIVEIRA SILVA e OUTRO opõem embargos de declaração à decisão de fls. 580-583, que negou provimento ao agravo em recurso especial ante a intempestividade do recurso especial.
+Os embargantes visam corrigir erro material na contagem do prazo processual ao argumento de que a suspensão do prazo prevista no art. 220 do CPC não pressupõe comprovação na interposição de recurso e por essa razão o apelo especial é tempestivo.
+Requer, assim, o conhecimento e provimento do presente recurso.
+Impugnação às fls. 599-600.
+É o relatório. Decido.
+Razão assiste à parte quanto à tempestividade do recurso especial, de modo que a decisão de fls. 580-583 deve ser reconsiderada.
+Procedo, pois, a novo exame de admissibilidade do agravo em recurso especial.
+Não obstante a tempestividade, o recurso não reúne condições de êxito.
+Trata-se de agravo em recurso especial interposto por JEFFERSON DE OLIVEIRA SILVA e OUTRO contra decisão que inadmitiu o recurso especial ante sua intempestividade.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos, especialmente a tempestividade do apelo.
+O apelo especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 1003165-11.2021.8.26.0161) assim ementado (fl. 473):
+Acidente automobilístico. Ação de indenização por danos materiais e morais. Elementos informativos que não permitiam concluir pela culpa do motorista réu. Quadro que desautorizava a procedência da ação. Apelação provida.
+Opostos embargos de declaração, estes foram rejeitados (fls. 492-495).
+Nas razões do recurso especial, as partes alegam violação dos arts. 26, 27, 28, 225 e 310 do CTB ao argumento de que não houve qualquer zelo por parte do corréu na condução e sinalização do veículo para que evitasse o sinistro. Alega que este não observou os deveres legais pois, além de não possuir CNH para a categoria do veículo sinistrado que dirigia também deixou de sinalizar a via para que acidentes fossem evitados restando assim presumida sua imperícia na condução do veículo, dando causa ao acidente. Sustentam, também, haver culpa concorrente da corré por ter entregado veículo para a condução de pessoa não habilitada.
+Aduzem ainda que o fato de não haver a condenação criminal dos corréus não pode dar ensejo à isenção de culpa de seus atos, sob pena de se negar vigência ao disposto no art. 187 do CC.
+Requerem, assim, a reforma do acórdão para que os recorridos arquem com a integralidade dos prejuízos sofridos diante da comprovada culpa exclusiva ou, subsidiariamente, o reconhecimento da culpa concorrente, com a condenação dos recorridos em metade do prejuízo experimentado.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+O Tribunal de origem baseou-se nas provas dos autos para modificar a sentença que julgara procedente a ação para dar provimento a apelação por entender que houve culpa exclusiva da coautor pelo acidente de trânsito, julgando, assim, improcedente a ação, nos seguintes termos (fls. 479-480, destaquei):
+Ora, conforme os elementos informativos vindos aos autos, o acidente ocorreu durante o dia e em via urbana, tendo o veículo conduzido pelo co-autor se chocado contra a mureta divisória das pistas após desviar de veículo que em razão de aparente problema mecânico se achava parado na via.
+Pois o fato de o motorista réu não contar com habilitação por si só não impunha dizer que o acidente se deu por culpa dele.
+Realmente, há de ficar demonstrado, nessas situações, que a falta de habilitação concretamente atuou como causa eficiente do acidente, isto é, que em face daquela circunstância o motorista não sabia controlar o veículo, fazer uso dos freios, câmbio, setas ou dispositivos de alerta e segurança, nem se desvencilhar de situações de perigo que o motorista habilitado consegue contornar, mas esse não era o caso.
+É verdade, ainda, que prova não havia de o motorista réu ter acionado as luzes de alerta ou instalado o triângulo refletivo, como exigia a lei do trânsito (artigo 46 do CTB), mas não se podia dizer ter sido essa a causa do acidente, já que se cuidava de dia e a presença do veículo parado na pista foi notada pelo autor conforme ele declarou à autoridade policial.
+De fato, o promovente informou que "(..) estava pela rodovia local dos fatos, na condução de seu automóvel Celta, acima relacionado, quando avistou pela faixa um, o automóvel Corsa parado, imediatamente frenou, contudo, devido agilidade da ação, chocou contra a mureta da rodovia, rodopiando na sequência (..)" (fls. 45).
+Logo, a causa efetiva do acidente não foi a ausência de habilitação do réu ou a parada do veículo na pista, mas a inabilidade do autor para frear de modo seguro associada à falta de atenção ao que acontecia à sua frente, eis que só isso explicava o fato de, contrariamente aos demais motoristas, ele não ter logrado desviar ou frear sem perder o controle da direção e vir a se chocar contra mureta.
+De se anotar que inquérito policial foi instaurado contra os réus Andrey e Ingrid para apurar os delitos de lesão corporal culposa, direção sem habilitação e crime de fraude processual, mas não chegou a ocorrer condenação criminal.
+Ante aquele contexto caso era de se julgar improcedente a ação, o que agora ocorre, constatação que naturalmente aproveita aos demandados não recorrentes, motivo pelo qual os autores passam a arcar com o pagamento das custas e honorários dos advogados dos réus, esses fixados em 15% do valor da causa, a serem divididos em partes iguais, observada a gratuidade processual.
+Assim, para concluir em sentido contrário e reconhecer que houve culpa exclusiva dos recorridos ou ainda culpa concorrente, é necessário o reexame do conjunto probatório dos autos, vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENZIAÇÃO POR ACIDENTE DE TRÂNSITO. MORTE DA VÍTIMA. CONCLUSÃO NO SENTIDO DA CULPA EXCLUSIVA DO MOTORISTA. SÚMULA 7/STJ. ENTENDIMENTO NO SENTIDO DE SE TRATAR DE FAMÍLIA DE BAIXA RENDA. SÚMULA 7/STJ. CABIMENTO E VALOR DA REPARAÇÃO POR DANOS MORAIS. INCIDÊNCIA DO REFERIDO VERBETE SUMULAR. ESTIPULAÇÃO DE PENSÃO MENSAL EM FAVOR DO GRUPO FAMILIAR. FIXAÇÃO ATÉ A DATA EM QUE O MENOR COMPLETARIA 75 (SETENTA E CINCO) ANOS DE IDADE. POSSIBILIDADE. SÚMULA 83/STJ. FIXAÇÃO DE PENSÃO EM FAVOR DE MEMBRO DO GRUPO FAMILIAR . CARÊNCIA DE INDICAÇÃO DO DISPOSITIVO VULNERADO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Conforme o acórdão, a prova constante nos autos atestou a responsabilidade exclusiva do motorista pelo evento fatal, bem como a ausência de elementos que apontassem para a culpa concorrente. Também estampou o aresto que havia sinalização no local e visibilidade adequada para o tráfego. Súmula 7/STJ.
+2. A condição de baixa renda da família foi demonstrada nos autos, com base em fatos e provas. Súmula 7/STJ.
+3. A condenação ao pagamento de danos morais, bem como o valor da reparação, foi feita com base fático-probatória, atraindo a incidência da Súmula 7/STJ.
+4. A respeito da pensão mensal, percebe-se que foi respeitada a jurisprudência do STJ sobre a questão. Aplicação da Súmula 83/STJ.
+5. A falta de indicação de dispositivo vulnerado impede o conhecimento da pretensão exarada na petição, em razão da deficiência recursal. Óbice da Súmula 284/STF.
+6. Agravo interno desprovido. (AgInt no AREsp n. 1.589.048/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO ENTRE ÔNIBUS E MOTOCICLETA. TRAUMATISMO CRANIANO. PERDA DAS FUNÇÕES MOTORAS E NEUROLÓGICAS. INCAPACIDADE LABORATIVA PERMANENTE CONSTATADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DANO MORAL. VALOR RAZOÁVEL. JUROS DE MORA. TERMO INICIAL. HONORÁRIOS ADVOCATÍCIOS. RAZOABILIDADE. AGRAVO DESPROVIDO.
+1. Na hipótese, o Tribunal de origem concluiu que o motociclista vitimado dirigia regularmente na via e o acidente de trânsito foi provocado pela obstrução da passagem em manobra indevida realizada pelo motorista do ônibus demandado na ação de indenização.
+2. A reforma do acórdão recorrido, a fim de aferir o nexo de causalidade e a culpa exclusiva ou concorrente da vítima, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é inviável no recurso especial, a teor do disposto na Súmula 7/STJ.
+3. A alteração do julgado, quanto à indenização pelos danos emergentes relativos às despesas hospitalares e aquisição de medicamentos, também demandaria o reexame do suporte fático-probatório, providência vedada no recurso especial, nos termos da Súmula 7 do STJ.
+4. No âmbito estreito do recurso especial, não cabe rever a incapacidade laborativa permanente da vítima ou a prova de que esta percebia remuneração superior a um salário mínimo mensal.
+5. Somente é possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado na origem for exorbitante ou irrisório, o que não ocorreu no caso em exame.
+6. No caso de responsabilidade extracontratual, o termo inicial dos juros de mora é a data do evento danoso, nos termos da Súmula 54/STJ.
+7. O montante dos honorários advocatícios fixados pela instância ordinária em 14% (quatorze por cento) sobre o valor da condenação está dentro dos parâmetros estabelecidos pelo artigo 20, § 3º, do CPC/73 e não se caracteriza como excessivo ou desproporcional, a justificar a excepcional intervenção do Superior Tribunal de Justiça.
+8. Agravo interno a que se nega provimento. (AgInt no AREsp n. 856.446/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/8/2019, DJe de 27/8/2019.)
+Ante o exposto, acolho os embargos de declaração sem efeitos infringentes .
+Publique-se. Intimem-se.
+EMENTA
