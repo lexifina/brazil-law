@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no Agravo de instrumento n. 5028433-71.2023.4.04.0000/SC.
+A recorrente interpôs agravo de instrumento contra decisão que indeferiu a utilização da ferramenta de reiteração automática de ordem de bloqueio de valores ("teimosinha"). O Tribunal de origem manteve a decisão, em acórdão assim ementado (fl. 31):
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL. PENHORA. VALORES INFERIORES A 40 SALÁRIOS. IMPENHORABILIDADE. SISBAJUD. TEIMOSINHA.
+1. Há presunção, decorrente de disposição legal expressa, no sentido de que os valores relativos a salários e proventos e a reserva de montante de até 40 salários mínimos em conta poupança se destinam ao provimento da subsistência pessoal e familiar, detendo caráter alimentar e sendo, por isso, impenhoráveis.
+2. A impenhorabilidade da quantia de até quarenta salários mínimos poupada alcança não somente as aplicações em caderneta de poupança, mas, também, as mantidas em conta-corrente, guardadas em papel moeda ou em fundo de investimentos, ressalvado eventual abuso, má-fé ou fraude.
+3. Em que pese haja ferramenta que torne possível a utilização do SISBAJUD de forma reiterada e automática, tal deve ser utilizada com parcimônia, de maneira a não prejudicar garantias processuais previstas nas normas que regem o processo civil.
+4. A utilização ou não da ferramenta do SISBAJUD conhecida como "teimosinha" deve depender de análise do caso concreto, considerando-se principalmente o princípio da proporcionalidade, a fim de verificar se a medida é adequada, necessária e proporcional.
+Opostos embargos declaratórios pela parte recorrente, foram rejeitados pelo acórdão prolatado às fls. 45-48.
+No recurso especial, aponta a parte recorrente violação aos artigos 3º, 4º, 6º, 789, 797, 835, 854, 1.022, inc. II, do CPC/2015; 7º, inc. II e 11 da Lei n. 6.830/80, alegando, além de omissões no acórdão recorrido acerca dos dispositivos de lei que buscou prequestionar mediante a oposição de embargos de declaração, o cabimento do bloqueio de valores via SISBAJUD na opção "teimosinha".
+Pede o provimento do recurso especial.
+Sem contrarrazões.
+Na origem, foi admitido o recurso especial (fl. 71).
+É o relatório.
+Decido.
+O voto condutor do acórdão objeto do recurso especial foi assim fundamentado (fls. 29-30):
+Por ocasião da decisão inicial assim me manifestei ( evento 2, DESPADEC1):
+Em que pese haver ferramenta que torne possível a utilização do SISBAJUD de forma reiterada e automática, tal deve ser utilizada com parcimônia, de maneira a não prejudicar garantias processuais previstas nas normas que regem o processo civil.
+A utilização ou não da ferramenta do SISBAJUD conhecida como "teimosinha" deve depender de análise do caso concreto, considerando-se principalmente o princípio da proporcionalidade, a fim de verificar se a medida é adequada, necessária e proporcional (stricto sensu).
+Isso porque a utilização do SISBAJUD, de forma automática e reiterada, pelo prazo de 30 dias, pode inviabilizar o exercício da atividade econômica do devedor, ao privá-lo de todos os recursos financeiros que ingressam em sua conta-corrente.
+ ..
+Por fim, destaca-se a utilização da ferramenta de reiteração automática em face de uma pessoa natural importa em violação ao princípio do mínimo existencial. Impor tal medida pelo período de trinta dias pode levar a pessoa física a graves dificuldades, penhorando a totalidade de seus rendimentos mensais.
+Observa-se que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1.022 do CPC/2015. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+No mérito, o acórdão recorrido não se encontra alinhado com a jurisprudência desta Corte, no sentido de que a modalidade "teimosinha" visa conferir efetividade às decisões judiciais e "não é revestida, por si só, de qualquer ilegalidade, porque busca dar concretude aos arts. 797, caput, e 835, I, do CPC, os quais estabelecem, respectivamente, que a execução se desenvolve em benefício do exequente, e que a penhora em dinheiro é prioritária na busca pela satisfação do crédito" (AgInt no REsp 2091261/PR, relator o Ministro Benedito Gonçalves, DJe de 22/4/2024).
+Além disso, eventual indeferimento da medida deve ser fundamentado de acordo com as peculiaridades do caso concreto, o que não se observa nos autos, em que o pedido restou indeferido mediante a adoção de fundamentação genérica.
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. BLOQUEIO DE ATIVOS FINANCEIROS. PENHORA REITERADA ("TEIMOSINHA"). FUNDAMENTAÇÃO SUFICIENTE NA ORIGEM. DEFICIÊNCIA RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. CABIMENTO DE JULGAMENTO MONOCRÁTICO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo de instrumento em execução fiscal objetivando desconstituir bloqueio de ativos financeiros. No Tribunal a quo, a decisão do juízo da execução foi mantida. Agravo interno interposto contra decisão que conheceu parcialmente do recurso especial e, nessa parte, negou-lhe provimento.
+II -  ..
+VI - Quanto à possibilidade de se utilizar da penhora reiterada ("teimosinha") para salvaguardar o interesse do exequente, verifica-se que a referida modalidade é legal, encontrando assento no constante dos arts. 797, caput e 835, I, do CPC/2015.
+VII - Quanto ao princípio da menor onerosidade, o Superior Tribunal de Justiça, em inúmeros precedentes, vem decidido pelo seu afastamento diante do primado da prevalência da efetividade do processo executivo. Sobre o assunto: AgInt no AREsp n. 1.975.380/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/5/2022, DJe de 19/5/2022. AgInt no AREsp n. 2.020.462/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.
+VIII -  ..
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 2.398.263/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. SISBAJUD. PENHORA ONLINE. REITERAÇÃO AUTOMÁTICA. TEMPO DETERMINADO. MODALIDADE "TEIMOSINHA". LEGALIDADE.
+1. O Conselho Nacional de Justiça, com a arquitetura de sistema mais moderno do SISBAJUD, permitiu "a reiteração automática de ordens de bloqueio (conhecida como "teimosinha"), e a partir da emissão da ordem de penhora on-line de valores, o magistrado poderá registrar a quantidade de vezes que a mesma ordem terá que ser reiterada no SISBAJUD até o bloqueio do valor necessário para o seu total cumprimento."
+2. A modalidade "teimosinha" tenciona aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, notadamente no âmbito das execuções, e não é revestida, por si só, de qualquer ilegalidade, porque busca dar concretude aos arts. 797, caput, e 835, I, do CPC, os quais estabelecem, respectivamente, que a execução se desenvolve em benefício do exequente, e que a penhora em dinheiro é prioritária na busca pela satisfação do crédito.
+3. A medida deve ser avaliada em cada caso concreto, porque pode haver meios menos gravosos ao devedor de satisfação do crédito (art. 805 do CPC), mas não se pode concluir que a ferramenta é, à primeira vista, ilegal.
+4. Hipótese em que, como não houve fundamento em concreto para se entender pela impossibilidade da medida, findou abalada a base em que se sustentava o acórdão recorrido, já que o magistrado de primeiro grau limitou a reiteração automática das ordens de bloqueio por 30 (trinta) dias, pelo que não inviabilizaria a atividade empresarial do devedor no longo prazo.
+5. Recurso especial provido.
+(REsp n. 2.034.208/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para determinar que o Tribunal de origem reexamine o agravo de instrumento conforme exposto na fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SUPOSTA OFENSA AO ART. 1.022, INCISO II, DO CPC/2015. NÃO OCORRÊ NCIA. SISBAJUD. PENHORA ONLINE. REITERAÇÃO AUTOMÁTICA. MODALIDADE "TEIMOSINHA". LEGALIDADE. RECURSO ESPECIAL PROVIDO.
