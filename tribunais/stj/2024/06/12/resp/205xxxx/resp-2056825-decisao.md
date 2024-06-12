@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO na Apelação Cível n. 0066558-27.2011.4.03.6182, em acórdão assim ementado (fl. 541):
+EMBARGOS À EXECUÇÃO FISCAL. ADESÃO A PARCELAMENTO. NÃO INCLUSÃO DOS CRÉDITOS EXECUTADOS. NÃO INTERRUPÇÃO DA PRESCRIÇÃO. MAJORAÇÃO DA VERBA HONORÁRIA. APELAÇÃO DA UNIÃO IMPROVIDA. APELAÇÃO DO CONTRIBUINTE PROVIDA.
+1. A própria União em suas informa nas "CONTRA-RAZÕES AOS EMBARGOS DEDECLARACÃO" que "Em 13.11.09 (fl. 347v), a executada aderiu ao parcelamento da Lei 11.941/09, interrompendo novamente o prazo prescricional, porém deixou de incluir os débitos nesse parcelamento e em 02.07.11 (fls. 350v, 353v, 360v, 362v e 367v), houve o prosseguimento da cobrança." (grifei), ou seja, não se pode interromper o prazo prescricional, por força de adesão a parcelamento, de crédito não incluído neste. Assim, é contado da rescisão do PAES (2005), de modo que atingidos pela prescrição quando do ajuizamento da ação executiva em 2011.
+2 .Verba honorária majorada.
+3. Apelação da União improvida e apelação do contribuinte provida.
+Foram opostos embargos de declaração, os quais foram rejeitados (fls. 589-594).
+No recurso especial, a FAZENDA NACIONAL alega violação dos arts. 489 e 1.022 do CPC/2015 (omissão sobre a aplicação do art. 127 da Lei n. 12.249/2010); 155 e 155-A do CTN; e 127 da Lei n. 12.249/2010 (a adesão a parcelamento interrompe o prazo prescricional, que também fica suspenso até a indicação dos débitos parceláveis).
+Apesar de regularmente intimado, o recorrido não apresentou contrarrazões. O recurso especial foi admitido às fls. 622-624.
+É o relatório.
+Decido.
+De início, verifico que o acórdão recorrido não possui a omissão suscitada pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Quanto a alegada violação dos arts. 155 e 155-A do CTN e 127 da Lei n. 12.249/2010, assiste razão ao recorrente.
+A jurisprudência desta Corte é firme no sentido de que:
+ o  pedido de parcelamento tributário acarreta duas consequências: a) interrompe a prescrição, nos termos do art. 174, parágrafo único, IV, do CTN, por representar ato extrajudicial de confissão de dívida (art. 5º da Lei 11.941/2009), e b) suspende a exigibilidade do crédito tributário (art. 151, VI, do CTN), e, portanto, a prescrição, enquanto vigente o parcelamento (STJ, REsp n. 1.670.543/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/06/2017).
+No mesmo sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONFISSÃO DE DÍVIDA. PEDIDO DE PARCELAMENTO. CAUSA INTERRUPTIVA DA PRESCRIÇÃO.
+No tocante à interrupção da prescrição nos casos de pedido de parcelamento, entende o STJ pela possibilidade, por constituir reconhecimento inequívoco do débito, nos termos do art. 174, parágrafo único, IV, do Código Tributário Nacional, ainda que o parcelamento não tenha sido efetivado.
+Agravo regimental improvido. (STJ, AgRg no AREsp 838.581/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/04/2016, sem grifo no original)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTIGO 127 DA LEI 12.249/2010. DÉBITOS NÃO INCLUÍDOS NA CONSOLIDAÇÃO DO PARCELAMENTO. SUSPENSÃO DA EXIGIBILIDADE. PRESCRIÇÃO NÃO CONFIGURADA.
+1. A jurisprudência do STJ consolidou-se no sentido de que o pedido de parcelamento interrompe o prazo prescricional, por constituir reconhecimento inequívoco do débito, nos termos do art. 174, parágrafo único, IV, do CTN.
+2. Segundo o artigo 127 da Lei 12.249/2010 fica suspensa a exigibilidade dos débitos de devedores que apresentaram pedidos de parcelamentos previstos na Lei 11.941/2009, até que ocorra a indicação de quais débitos pretendem parcelar.
+3. Assim sendo, o pedido de parcelamento tem o condão de interromper o lustro do prazo prescricional, para todos os débitos até a apresentação da declaração indicando quais serão submetidos ao parcelamento - o que ocorre no momento da consolidação. Desta feita, apesar de o débito em discussão não ter sido consolidado pelo Fisco, o mesmo estava com sua exigibilidade suspensa, por expressa previsão legal, afastando-se, assim, a possibilidade de decretação da prescrição.
+4. Nesse sentido: "À luz do art. 127 da Lei 12.249/2010, apesar do débito objeto da presente demanda não ter sido consolidado pela Fazenda, por expressa previsão legal, estava com sua exigibilidade suspensa, afastando-se, assim, a possibilidade de decreto de prescrição" (AgRg no AgRg no REsp 1.451.602/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/10/2014, DJe 13/10/2014).
+5. Agravo regimental não provido. (STJ, AgRg no REs p 1.531.082/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/09/2015, sem grifo no original)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para afastar a prescrição declarada pelas instâncias ordinárias quanto aos débitos do parcelamento sub judice, invertidos os ônus da sucumbência.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. PARCELAMENTO. NÃO INCLUSÃO DOS CRÉDITOS EXECUTADOS. INTERRUPÇÃO DA PRESCRIÇÃO. RECURSO ESPECIAL PROVIDO.
