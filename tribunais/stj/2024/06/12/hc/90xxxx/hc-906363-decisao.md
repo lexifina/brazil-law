@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDRE LUIS DE ANDRADE em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1500496-31.2022.8.26.0568.
+Depreende-se dos autos que o paciente foi condenado à pena de 8 anos de reclusão no regime inicial fechado pela prática dos crimes de tráfico e associação para o tráfico de drogas (art. 33 e 35, da LAD, c/c art. 69, CP). (fls. 130-52).
+O Tribunal de origem negou provimento à apelação defensiva, mantendo integralmente a sentença condenatória (fls. 11-29).
+Dai o presente writ, onde a impetrante alega, em síntese, a ocorrência de constrangimento ilegal na fixação do regime fechado para início de cumprimento da pena.
+Para tanto, sustenta que " ..  os fundamentos esposados revelaram-se inidôneos vez que baseados na quantidade de pena aplicada, a gravidade abstrata do delito, a manutenção da ordem publica e aplicação da lei penal, desprezando totalmente as circunstâncias judiciais favoráveis pelas quais a pena foi fixada no mínimo legal." (fl. 5).
+Requer, assim, a concessão da ordem para " ..  fixar o regime inicial semiaberto, nos moldes do Art. 33, § 2º, alíneas "b", do Código Penal e Súmulas 440 STJ, 718 STF e 719 STF" (fl. 9).
+O pedido liminar foi indeferido às fls. 62-63.
+Informações prestadas às fls. 68-69.
+O Ministério Público Federal, às fls. 117-118, manifestou-se pela concessão da ordem para fixar o regime semiaberto para início de cumprimento da pena.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a fixação do regime semiaberto para início de cumprimento da pena.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo a fim de delimitar a quaestio, o seguinte excerto do acórdão impugnado quanto ao fixação do regime mais gravoso, in verbis:
+"Do Regime Prisional
+Por conseguinte, o regime inicial fechado é o adequado em razão do quantum de pena aplicado, somado à natureza do crime de tráfico de drogas, equiparado a hediondo."
+O Pleno do Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, por ofender a garantia constitucional de individualização da pena (art. 5º, XLVI, da Constituição Federal). Afastou, dessa forma, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e dos demais delitos a eles equiparados.
+Em tal contexto, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o Julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Na hipótese, verifica-se nos excertos acima colacionados que o acórdão impugnado manteve o regime prisional fechado, amparando-se tão somente na hediondez e na gravidade abstrata do crime de tráfico de drogas, sem indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos Enunciados ns. 718 e 719 da Súmula do STF, bem como do Enunciado n. 440 da Súmula do STJ, que assim dispõem:
+"Enunciado 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+"Enunciado 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+"Enunciado 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Sob essa perspectiva, considerada a quantidade de pena aplicada (8 anos de reclusão), bem como a análise favorável de todas as circunstâncias judiciais do art. 59 do Código Penal, constata-se a existência de constrangimento ilegal decorrente da imposição do regime fechado, de sorte que o paciente faz jus ao regime inicial semiaberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 2º, "b", do Código Penal.
+Ante do exposto, concedo a ordem para fixar o regime semiaberto para início de cumprimento da pena, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
+EMENTA
