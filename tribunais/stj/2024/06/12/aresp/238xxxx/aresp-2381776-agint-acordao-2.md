@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AMBIENTAL. PROCESSUAL CIVIL. SUPOSTA CONTRARIEDADE A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE NA VIA DO APELO NOBRE. ALEGAÇÃO DE AFRONTA AOS ARTS. 489, § 1º, INICISO VI, e 1.022 DO CPC/2015. INEXISTENTE. PRETENSAS AUSÊNCIA DE INTERESSE DE AGIR DO MINISTÉRIO PÚBLICO ESTADUAL E ILEGITIMIDADE PASSIVA AD CAUSAM. INVERSÃO DO JULGADO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República.
+2. O acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Inexistência de contrariedade ao art. 1.022 do CPC/2015.
+3. O aresto atacado apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. Ausência de afronta ao art. 489 do CPC/2015.
+4. O Tribunal de origem concluiu que, na espécie, não há falar em ausência de interesse do Parquet estadual para a propositura da ação civil pública, tampouco em ilegitimidade passiva ad causam. A inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela ENOB ENGENHARIA AMBIENTAL LTDA., contra decisão da Ministra Assusete Magalhães que conheceu do respectivo agravo em recurso especial para não conhecer do apelo nobre (fls. 2585-2593).
+Consta dos autos que o Juízo de primeiro grau julgou procedente a ação civil pública de natureza ambiental ajuizada pelo ora Agravado (fls. 1397-1410).
+O Tribunal de Justiça do Estado de São Paulo negou provimento às apelações interpostas (fls. 2152-2166).
+Os embargos de declaração opostos foram rejeitados (fls. 2334-2338).
+Sustentou a parte agravante, nas razões do recurso especial, contrariedade aos arts. 5º, § 3º, e 225, § 3º, da Carta Magna; aos arts. 485, inciso VI, 489, § 1º, inviso IV, e 1.022, parágrafo único e inciso II, do CPC/2015; bem como aos arts. 3º, inciso IV, 4º, inviso VII, e 14, § 1º, da Lei n. 6.938/81.
+Afirmou que houve negativa de prestação jurisdicional, por parte do Tribunal a quo, quando do julgamento dos embargos de declaração.
+Argumentou que os acórdãos proferidos pelo Tribunal de Justiça do Estado de São Paulo carecem de fundamentação adequada.
+Alegou que o Ministério Público do Estado de São Paulo, por inexistência de necessidade, não tem interesse de agir em relação à ora Agravante, no tocante à presente ação civil pública, porquanto o objeto desta demanda é exatamente o mesmo do Termo de Ajustamento de Conduta firmado entre o Parquet estadual, a Construtora Coccaro e a SEMAE, sendo certo que essas duas últimas assumiram exclusiva e solidariamente a responsabilidade pelos danos ambientais decorrentes do mau funcionamento da Estação de Tratamento de Esgoto.
+Ainda a propósito da tese antes exposta, afirmou que:
+ ..  a construção da rede coletora de esgoto configurou verdadeira medida reparatória pelos danos ambientais decorrentes do lançamento in natura do esgoto produzido pelo Conjunto Habitacional no "Cónego ou Ribeirão dos Corvos", cuja responsabilidade foi assumida pela Coccaro e SEMAE. (fl. 2362)
+Aduziu que o mencionado TAC tem como corolário lógico afastar a responsabilidade tanto da parte agravante quanto de quaisquer outros terceiros nele não envolvidos.
+Pontuou que é parte ilegítima para figurar no polo passivo da ação civil pública, pois o dano ambiental objeto desta demanda foi produzido por terceiros, os quais já assumiram a autoria de tal conduta no já citado Termo de Ajustamento de Conduta e, se a construção da rede coletora não logrou repará-lo, a intenção indenizatória deveria ter se voltado em desfavor daqueles.
+Asseverou que "não há que falar em qualquer participação ou responsabilidade da Recorrente na ocorrência do evento danoso. Ou seja, não há nexo de causalidade entre qualquer conduta (omissiva ou comissiva) da Recorrente e a ocorrência do dano ambiental verificado" (fls. 2367-2368).
+Argumentou que não teve qualquer participação, direta ou indireta, na atividade poluidora que acarretou o dano ambiental e, por conseguinte, deve ser afastado o dever de repará-lo que lhe foi atribuído.
+Foram apresentadas contrarrazões (fls. 2399-2416 e 2441-2461). O recurso especial não foi admitido (fls. 2484). Foi interposto agravo (fls. 2488-2509).
+A Ministra Assusete Magalhães, por meio da decisão de fls. 2585-2593, conheceu do agravo em recurso especial para não conhecer do apelo nobre.
+Nas razões do agravo interno (fls. 2620-2635), reitera a existência de omissões e ausência de fundamentação adequada no aresto proferido pela Corte a quo.
+Sustenta que as questões veiculadas no apelo nobre são eminentemente de direito e, por conseguinte, a inversão do julgado não demanda novo exame do acervo fático-probatório acostado aos autos, sendo inaplicável a Súmula n. 7 do STJ à espécie.
+Afirma que não houve deficiência de fundamentação e, assim, não incide na hipótese dos autos a Súmula n. 284 do STF.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AMBIENTAL. PROCESSUAL CIVIL. SUPOSTA CONTRARIEDADE A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE NA VIA DO APELO NOBRE. ALEGAÇÃO DE AFRONTA AOS ARTS. 489, § 1º, INICISO VI, e 1.022 DO CPC/2015. INEXISTENTE. PRETENSAS AUSÊNCIA DE INTERESSE DE AGIR DO MINISTÉRIO PÚBLICO ESTADUAL E ILEGITIMIDADE PASSIVA AD CAUSAM. INVERSÃO DO JULGADO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República.
+2. O acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Inexistência de contrariedade ao art. 1.022 do CPC/2015.
+3. O aresto atacado apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. Ausência de afronta ao art. 489 do CPC/2015.
+4. O Tribunal de origem concluiu que, na espécie, não há falar em ausência de interesse do Parquet estadual para a propositura da ação civil pública, tampouco em ilegitimidade passiva ad causam. A inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+VOTO
+Inicialmente, esclareço que a via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República. A propósito: AgInt no AREsp n. 2.298.562/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023; AgInt no AREsp n. 2.085.690/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+De outra banda, esclareço que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão.
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Além disso, o acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. O que se denota, uma vez mais, é irresignação do Agravante com o desfecho do julgamento que foi contrário às respectivas pretensões.
+Portanto, não há ofensa ao art. 489 do Código de Processo Civil. Nesse sentido: AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023; AgInt no AREsp n. 2.172.041/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.
+No mais, o aresto proferido pelo Tribunal de Justiça do Estado de São Paulo, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 2158-2159):
+Não prospera a alegação de ausência de interesse processual  R do Ministério Público.
+Diversamente do alegado, em que pese o Termo de Ajustamento de Conduta (TAC) firmado pela Construtora Coccaro Ltda. e pelo Serviço Municipal de Águas e Esgoto de Mogi das Cruzes -- Semae, subsiste o interesse do órgão ministerial na presente ação coletiva, porquanto ausente identidade dos objetos colimados.
+Enquanto no referido TAC restou firmado o compromisso de construção de uma rede coletora de esgotos para o Conjunto Habitacional Boa Vista (fl. 8211827), na ação coletiva em debate foi almejada a reparação do dano ambiental decorrente do lançamento de esgoto "in natura" no local controvertido.
+Tampouco prospera a alegação de ilegitimidade de parte da requerida litisconsorte Enob.
+A luz da prova técnica elaborada nos autos da Medida Cautelar (no 1385104), restou evidenciado do depoimento do Sr. Anselmo Luiz da Silva que este "declarou haver trabalhado na Aqualatina, operando a ETE durante 6 meses e quinze dias (3111012003 a 1510512004), na função de vigia e operador,  ..  e depois passou a trabalhar para a Enob Ambiental (1610512004 a 1910712004) sem registro  .. . entre suas atividades estavam a cada uma hora, a retirada de objetos da peneira do processo da ETE, manipulação de válvulas  .. . Que quando da contratação pela Enob Ambiental, o sistema de desinfecção já não estava mais funcionando  .. " (fl. 840).
+Destarte, ainda que a referida construtora não tenha formalmente participado da relação jurídica subsistente, uma vez incontroversa sua participação na operação do ETE e, por conseguinte, na produção do dano ambiental, não há que discutir sua legitimidade de parte.
+No mais, consoante bem asseverado pelo MM. Juízo "a quo", tem-se que as empresas Aqualatina e Enob são pertencentes a mesmo grupo econômico, tendo, à época do evento, ambas sido administradas Gerson de Gruttola.
+Como se vê, o Tribunal de origem, soberano quanto ao exame do acervo fático-probatório acostado aos autos, concluiu que, na espécie, não há falar em ausência de interesse do Parquet estadual para a propositura da ação civil pública, tampouco em ilegitimidade passiva ad causam da ora Agravante. Portanto, a inversão do julgado demandaria, necessariamente, nova incursão nos elementos probantes e fatos amealhados ao presente processo, desiderato esse incabível na via estreita do recurso especial, a teor do comando normativo contido na Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO FUNERAL E PARTICIPAÇÃO NOS LUCROS. FALTA DE INTERESSE DE AGIR RECONHECIDA NA ORIGEM. PRETENSÃO QUE DEMANDA REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+2. O reexame da questão acerca do interesse de agir redundaria, no caso concreto, na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.000.268/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE PASSIVA AD CAUSAM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso esp ecial."
+2. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a legitimidade passiva ad causam do agravante.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.904.842/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/8/2022, DJe de 15/8/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
