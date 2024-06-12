@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALEX APARECIDO BARROS, ALEXANDRE EDUARDO BARROS, HERON TAKAHASI à decisão de fls. 2290/2291, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Isso porque, o prazo de 15 (quinze) dias corridos é contado a partir da intimação do advogado, nos termos do artigo 798, parágrafo 5º, alínea "a" do CPP. Dessa forma, o prazo começou a contar a partir do primeiro dia após a publicação da intimação do acórdão, ou seja, foi disponibilizado no DJE dia 01.11.2023 e publicado no dia 06.11.2023, sendo o primeiro dia de contagem do prazo dia 07.11.2023 e o término 21.11.2023 (data do protocolo do Resp) conforme se comprova no Diário da Justiça eletrônico do dia 01.11.2023 (anexo). "Print" do Diário da Justiça eletrônico do dia 01.11.2023.
+ ..
+Portanto, ao contrário do ventilado na r. decisão (fls. 2.290/2.291), a parte recorrente foi intimada do v. acórdão recorrido em 06/11/2023 e não em 03/11.2023. Assim, considerando o prazo de 15 (quinze) dias corridos para a interposição do Recurso Especial, seu termo final será no dia 21/11/2023 (data do protocolo), tendo em vista que foi disponibilizado no DJE dia 01.11.2023 e publicado no dia 06.11.2023. Isto posto o recurso especial interposto pelos embargantes dia 21.11.2023 é tempestivo (fls. 2298/2299).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 1º/11/2023, considerando-se publicada no primeiro dia útil, ou seja, no dia 3/11/2023 (fl. 2206), uma vez que se exclui o dia 2/11/2023, por se tratar de feriado nacional que não precisa ser comprovado. Assim, excluindo-se o dia 3/11/2023 (primeiro dia), inicia-se a contagem no dia 6/11/2023, finalizado o prazo no dia 20/11/2023.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 20/11/2023, sendo que o recurso especial foi interposto somente em 21/11/2023, fora do prazo.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
