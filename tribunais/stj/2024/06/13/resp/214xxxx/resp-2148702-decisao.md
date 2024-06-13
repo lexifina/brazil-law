@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA SEGURADORA S/A, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+"Processual. Contrato de Seguro Habitacional. Ação ordinária visando a substituição dos imóveis indicados na exordial por outros de mesma espécie ou a restauração, a fim de serem restabelecidas as perfeitas condições de uso, bem como reparação por danos materiais e morais, em razão de vício de construção que provocou problemas estruturais graves nos imóveis.
+1. A sentença julgou procedente o pedido, condenando a Caixa Seguradora a providenciar a integral reparação do imóvel ou a substituição do imóvel vendido por outro similar, determinando a manutenção do depósito mensal do pagamento dos aluguéis da parte autora com a moradia provisória.
+2. É da competência da Justiça Estadual processar e julgar ações propostas contra entidade privada, versando sobre o contrato de seguro habitacional  AG 88119/PE, des. Paulo Roberto de Oliveira Lima, julgado em 25 de março de 2009 .
+3. A relação objeto do litígio está traçada entre os autores e a empresa de seguro, falecendo o interesse jurídico da Caixa Econômica Federal a justificar sua inclusão forçosa no pólo passivo em relação ao pedido de condenação em danos materiais e morais advindos por problemas estruturais graves do imóvel. Precedente da eg. Terceira Turma, de nossa relatoria: AC 474044/CE (2005.81.00.016765-9), julgado em 15 de outubro de 2009.
+4. Extinção do processo, sem exame do mérito, com base no art. 267, inciso I, c/c art. 295, inciso II, ambos do Código de Processo Civil.
+5. Apelações improvidas. Remessa dos autos à Justiça Comum Estadual" (fl. 928 e-STJ).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 983/987).
+Em suas razões (fls. 990/1.012 e-STJ), a recorrente aponta, além de divergência jurisprudencial, violação dos artigos 113, § 3º, e 535 do Código de Processo Civil de 1973.
+Sustenta, em síntese, a negativa de prestação jurisdicional e, no mérito, a necessidade de participação no feito do agente financeiro, como litisconsorte passivo necessário, e, por conseguinte, que deve ser reconhecida a incompetência absoluta da Justiça estadual para apreciar a matéria.
+Contrarrazões às e-STJ fls. 1.088/1.103.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional (artigo 535 do Código de Processo Civil de 1973), verifica-se que o Tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto à legitimidade passiva da Caixa Econômica Federal para figurar no polo passivo da demanda, o recurso também não comporta acolhimento.
+No âmbito da Segunda Seção do Superior Tribunal de Justiça vigora o entendimento de que a legitimidade passiva da CEF nas ações em que se discute a cobertura securitária por vícios de construção depende
+"do tipo de financiamento e das obrigações a seu cargo, podendo ser distinguidos, a grosso modo, dois gêneros de atuação no âmbito do Sistema Financeiro da Habitação, isso a par de sua ação como agente financeiro em mútuos concedidos fora do SFH, (1) meramente como agente financeiro em sentido estrito, assim como as demais instituições financeiras públicas e privadas (2) ou como agente executor de políticas federais para a promoção de moradia para pessoas de baixa ou baixíssima renda" (REsp nº 1.163.228/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2012, DJe de 31/10/2012).
+Nessa linha de consideração:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - ATRASO NA ENTREGA DE IMÓVEL - ILEGITIMIDADE DA CEF - MERO AGENTE FINANCEIRO - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AOS EMBARGOS DE DIVERGÊNCIA - INSURGÊNCIA DA AGRAVANTE.
+1.A jurisprudência da Segunda Seção é firme no sentido de reconhecer a ilegitimidade passiva da Caixa Econômica Federal - CEF - para responder por vício de construção de imóvel quando atuar como mero agente financeiro. (ut. AgInt no CC 180.829/SP, Rel. Min. Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe 3/3/2022).
+2. O v. acórdão embargado encontra-se em sintonia com a jurisprudência desta eg. Corte Superior, de modo que se revela inarredável a incidência da Súmula n.º 168/STJ, segundo a qual " não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Agravo interno desprovido" (AgInt nos EAREsp nº 1.438.117/SC, relator Ministro Marco Buzzi, Segunda Seção, julgado em 2/5/2023, DJe de 5/5/2023).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. SISTEMA FINANCEIRO DE HABITAÇÃO. LEGITIMIDADE PASSIVA DA CEF. ATUAÇÃO COMO MERO AGENTE FINANCEIRO. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS 5/STJ E 7/STJ.
+1. O STJ firmou entendimento de que a legitimidade passiva da CEF nas ações contra vícios de construção ou atraso na entrega de obras somente se verifica nas hipóteses em que atua além dos poderes de mero agente financiador da obra, ou seja, quando promove o empreendimento, elabora o projeto com todas as especificações, escolhe a construtora e negocia diretamente em programa de habitação popular.
+2. Por conseguinte, a natureza da atuação da CEF é definida pela interpretação das cláusulas contratuais e o exame das provas dos autos, cuja revisão é inviável na sede do recurso especial por incidência dos óbices das Súmulas n. 5/STJ e 7/STJ.
+3. Ilegitimidade da CEF que se baseou em inconteste análise fático-contratual, com expressa conclusão de que "a atuação da Caixa Econômica Federal foi a de mero agente financiador do empreendimento".
+Agravo interno improvido" (AgInt no REsp nº 2.047.298/AL, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+Verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+No particular:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS CUMULADA COM OBRIGAÇÃO DE FAZER. MORADIA POPULAR. VÍCIOS DE CONSTRUÇÃO DE IMÓVEL. ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL QUANDO AGIR COMO MERO AGENTE FINANCEIRO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do STJ é firme no sentido de reconhecer a ilegitimidade passiva da empresa pública ora agravante para responder à ação por vício de construção de imóvel quando atuar como mero agente financeiro. Precedentes.
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+3. Agravo interno desprovido" (AgInt no AREsp nº 1.516.085/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. IMÓVEL. ENTREGA. ATRASO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ILEGITIMIDADE DA CEF. AGENTE FINANCEIRO. ATUAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever a conclusão do tribunal de origem, que, com base em detida análise do contrato firmado entre as partes, entendeu que a CEF atuou exclusivamente na qualidade de agente operador do financiamento, atrai os óbices das Súmulas nºs 5 e 7/STJ.
+4. Consoante o entendimento firmado pelo Superior Tribunal de Justiça, a CEF, nas hipóteses em que atua na condição de agente financeiro em sentido estrito, não possui legitimidade para responder por danos na obra
+financiada.
+5. Agravo interno não provido" (AgInt no REsp nº 1.663.524/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/10/2020, DJe de 29/10/2020).
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Sem majoração da verba honorária, pois, consoante o Enunciado administrativo nº 7, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC", e o recurso especial foi interposto em setembro de 2010.
+Publique-se
+Intimem-se.
+EMENTA
