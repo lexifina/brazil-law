@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EXPRESSO SÃO MIGUEL LTDA contra decisão monocrática de minha relatoria assim ementada:
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL. FAP. VIOLAÇÃO DOS ARTS. 108, § 1º, DO CTN, 202-A E 338 DO DECRETO N. 3.048/99, 10 DA LEI N. 10.666/03, 19 E 20, § 1º, "C", DA LEI N. 8.213/91. SÚMULA N. 211/STJ. INTERPRETAÇÃO DE RESOLUÇÃO. ATO NORMATIVO NÃO ENQUADRADO NO CONCEITO DE LEI FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
+A parte embargante aponta a existência de omissão, contradição e obscuridade na decisão embargada. Argumenta a inaplicabilidade da Súmula n. 211/STJ uma vez que os dispositivos legais foram devidamente prequestionados quando da oposição dos embargos de declaração na origem. Ademais, assevera que o acórdão recorrido não se utilizou da interpretação da Resolução CNPS n. 1.316/10 para tratar a respeito da questão em discussão.
+A parte embargada não se manifestou nos autos.
+É o relatório. Passo a decidir.
+Os embargos de declaração possuem a finalidade simples de suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material.
+Na hipótese, não verifico vício sanável pela estreita via dos aclaratórios.
+Em primeiro lugar, não houve prequestionamento com a mera oposição de aclaratórios na origem, consoante expresso na monocrática embargada (e-STJ fl. 825):
+No ponto, vale destacar que o cumprimento do requisito do prequestionamento se observa com o debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto, não restando preenchido se a controvérsia restar solucionada à luz de normas distintas das apontadas pelo recorrente como ofendidas.
+Assim, ainda que opostos os embargos de declaração, ausente o debate acerca da matéria pela Corte local, não se pode falar em prequestionamento.
+Ademais, no que diz respeito à utilização da Resolução CNPS n. 1.316/10 para a resolução da controvérsia, a decisão embargada se manifestou de forma expressa e fundamentada. Cito (e-STJ fl. 825):
+Ademais, o Tribunal a quo apreciou as questões postas a partir da interpretação conferida a ato normativo infralegal (Resolução CNPS n. 1.316/10), cuja análise não coaduna com a competência atribuída a este egrégio Superior Tribunal de Justiça pelo art. 105 da CF/1988, que expressamente se refere a lei federal.
+Dito isso, a análise das razões recursais não revela vício, mas tão somente pretensão da parte em alterar o resultado do decisum, o que é inviável nesta seara recursal.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. NA ORIGEM. ADMINISTRATIVO SERVIDOR PÚBLICO ILEGITIMIDADE DO SINDICATO NÀO CABIMENTO DE AÇÃO CIVIL PÚBLICA PRELIMINARES. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Na origem, trata-se de ação de cumprimento de sentença, proferida nos autos da ação coletiva, que condenou a União a estender aos substituídos o direito à percepção das gratificações de desempenho, nos mesmos moldes em que concedidas aos servidores ativos da carreira de cada um deles, desde sua criação até a data de homologação do resultado das avaliações, após a conclusão do primeiro ciclo avaliativo. A sentença extinguiu o processo sem resolução de mérito. No Tribunal a quo, a sentença foi reformada. O recurso especial foi parcialmente conhecido e, nessa extensão, improvido. A decisão foi mantida em sede de agravo interno.
+II - Os embargos não merecem acolhimento. Em que pese a existência de despacho da Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, reconhecendo os REsp 2.065.693/AL e o REsp 2.070.141/AL como representativo de controvérsia, o fato é que ainda não houve "afetação" do recurso especial, nos termos do art. 1.037, II, do CPC/2015. Portanto, não há que falar em sobrestamento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade;
+eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+V - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V I - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.853.800/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Ausente quaisquer das hipóteses legais, devem ser rejeitados os aclaratórios, sob pena de se reabrir a possibilidade de nova discussão da matéria de mérito já encartada nos autos e decidida.
+Pelas considerações expostas, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
