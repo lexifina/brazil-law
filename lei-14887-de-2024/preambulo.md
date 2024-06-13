@@ -1,0 +1,2 @@
+Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prioridade na assistência à mulher em situação de violência doméstica e familiar, e a Lei nº 13.239, de 30 de dezembro de 2015, para determinar que a mulher vítima de violência tenha atendimento prioritário para a cirurgia plástica reparadora entre os casos de mesma gravidade.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
