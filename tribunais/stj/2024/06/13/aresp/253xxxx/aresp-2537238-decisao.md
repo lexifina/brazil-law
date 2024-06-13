@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - PRESTAÇÃO DE SERVIÇO - FALHA DO EMPREGADO - DESCARGA ELÉTRICA DESCOMUNAL NO CONDOMÍNIO - INÚMEROS DANOS MATERIAIS - DANO MORAL - OCORRÊNCIA - VALOR DA INDENIZAÇÃO - REDUÇÃO - NÃO CABIMENTO - VALOR FIXADO NA SENTENÇA QUE BEM ATENDE AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE CONSIDERADO O CASO CONCRETO - EXISTÊNCIA DE CONDENAÇÃO - FIXAÇAO DOS HONORÁRIOS DE SUCUMBÊNCIA COM BASE NO VALOR DA CAUSA - IMPOSSIBILIDADE - REVISÃO DE OFÍCIO - CABIMENTO.
+- É de se reconhecer o dano moral no caso em que um prestador de serviço de uma empresa causa descomunal descarga elétrica em todo um condomínio, causando inúmeros danos materiais nas áreas comuns e nas unidades autônomas, expondo os moradores a grave perturbação de sua tranquilidade psicológica, além de evidente risco de vida.
+- Não se há de reduzir o valor arbitrado para indenização por danos morais se atende ele aos princípios da proporcionalidade e da razoabilidade considerado o caso concreto.
+- Se há condenação em valor significativo, não podem os honorários de sucumbência ser fixados com base no valor da causa.
+- Os consectários da condenação, o que inclui as custas processuais e a verba honorária, são matéria de ordem pública e a sua fixação ou revisão, pelo Tribunal, de ofício, não configura julgamento "extra petita" ou "reformatio in pejus".
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do especial, a parte agravante alegou negativa de vigência dos arts. 489 e 1.022 do Código de Processo Civil; 944 do Código Civil. Apontou que houve negativa de prestação jurisdicional no caso.
+Defendeu que: "Nesse sentir, na decisão ora vergastada, a colenda Câmara de Direito Civil do Tribunal de Justiça do Estado de Minas Gerais expressamente entendeu que houve o mesmo fato tratado naqueles autos, até por força de coerência, não vejo como não reconhecer, aqui, que houve mesmo o dano moral alegado pelos autos" (fl. 378).
+Afirmou que não ficaram comprovados os danos morais na hipótese dos autos. Argumentou que deveria ser reduzido o valor fixado a título de danos morais.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso, porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+Com efeito, a Corte de origem, ao julgar a causa, deixou registrado o seguinte no acórdão recorrido (fl. 329 e- STJ):
+Do exame dos autos, verifica-se, em suma, que o operador do caminhão que prestava serviços pela parte apelante no Condomínio Residencial Vila Real, em que residem os autores, ignorando todas as normas de proteção e segurança, esbarrou na rede elétrica de alta tensão da via pública, causando uma descarga de aproximadamente 138.000 Volts (cento e trinta e oito mil volts) por toda a rede elétrica e estrutural do condomínio.
+Tal descarga descomunal ocasionou fortes e barulhentas explosões no interior do condomínio, que sofreu inúmeros danos, tanto na parte comum, quando nas unidades residenciais.
+Na hipótese, constato que a Corte estadual entendeu que: "É de se reconhecer o dano moral no caso em que um prestador de serviço de uma empresa causa descomunal descarga elétrica em todo um condomínio, causando inúmeros danos materiais nas áreas comuns e nas unidades autônomas, expondo os moradores a grave perturbação de sua tranquilidade psicológica, além de evidente risco de vida" (fl. 325).
+Observo que a revisão da ocorrência de danos morais no caso demandaria uma investigação dos elementos informativos do processo, a encontrar o óbice de que trata o enunciado n. 7 da Súmula desta Casa.
+Quanto ao pedido de afastamento ou redução do valor indenizatório, fixado em R$ 10.000,00 (dez mil reais), melhor sorte não socorre à parte recorrente, uma vez que o referido valor não se distancia da razoabilidade e proporcionalidade, considerando o conjunto probatório disposto nos autos. Ressalte-se ser inviável também a revisão do julgado nesse ponto, em razão da Súmula 7/STJ.
+Assim, no caso, o valor de R$ 10.000,00 (dez mil reais) fixado pela instância ordinária mostra-se dentro dos padrões da razoabilidade e proporcionalidade, não justificando intervenção desta Corte Superior.
+Em face do exposto, nego provimento ao agravo.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que já fixados no percentual máximo permitido legalmente (fl. 335).
+Intimem-se.
+EMENTA
