@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOSE ARTUR DE BARROS LIMA contra a decisão de e-STJ fls. 220/223, por meio da qual a Presidência desta Corte indeferiu liminarmente o writ, em virtude da incidência da Súmula n. 691/STF.
+Depreende-se dos autos que a prisão em flagrante do paciente (ora agravante) foi convertida em preventiva pela prática, em tese, do crime capitulado no art. 333 do Código Penal.
+Impetrado prévio writ na origem, o Desembargador relator indeferiu o pedido liminar (e-STJ fls. 25/29).
+No Superior Tribunal de Justiça, sustentou a defesa a ocorrência de constrangimento ilegal, em razão da nulidade da prisão em flagrante "tendo em vista que não restou configurada nenhuma das hipóteses previstas no art. 302 do Código de Processo Penal. Argumentam que "é perceptível a inexistência do flagrante impróprio, tendo em vista que não houve perseguição ininterrupta iniciada logo após o suposto cometimento do crime, além de o registro da ocorrência somente ter sido realizado na noite do dia seguinte aos fatos" (fl. 9). Aduzem que "o paciente foi detido somente no dia seguinte, após os fatos, em virtude das diligências investigativas realizadas pela autoridade policial, sendo certo que não foi encontrado nenhum objeto ou instrumento que o relacionasse à prática delitiva", razão pela qual o Ministério Público requereu o relaxamento da prisão (fl. 10). Alegam que, "ainda que a autoridade policial tenha representado pela conversão da prisão em flagrante para a prisão preventiva, deve-se lembrar que a capacidade postulatória em relação à segregação cautelar cabe, na esfera criminal, exclusivamente ao Ministério Público, na condição de titular da ação penal" (fl. 14). Arguem que foi desconsiderado o disposto no art. 282, § 6º, do CPP, tendo em vista que deixaram de ser explicitados os motivos que levaram à não aplicação das medidas cautelares alternativas à prisão" (e-STJ fl. 220, grifei).
+Requereu, assim, inclusive liminarmente, o relaxamento da prisão cautelar, ainda que mediante a aplicação de medidas cautelares diversa do cárcere.
+Nesta oportunidade, a defesa informa que o Juízo de primeiro grau substituiu a prisão preventiva por medidas cautelares diversas da prisão, contudo sustenta que "o Habeas Corpus em apreço não perdeu seu objeto, uma vez que a decisão proferida pelo Juízo de primeira instancia, ainda que tenha deferido parcialmente o pedido de revogação da prisão preventiva, reconheceu como válida a prisão em flagrante, mesmo diante de sua manifesta ilegalidade" (e-STJ fl. 232).
+Reitera a tese de ausência de flagrante impróprio, porquanto "não houve "perseguição, logo após, pela autoridade policial, pelo ofendido ou por qualquer pessoa" (e-STJ fl. 234).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao órgão colegiado.
+É o relatório.
+Decido.
+A defesa protocola pedido de desistência do agravo regimental, por meio da Petição n. 00478062/2024 (e-STJ fls. 266/267).
+Dessarte, homologo o pedido de desistência do presente agravo regimental, nos termos do art. 34, IX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
