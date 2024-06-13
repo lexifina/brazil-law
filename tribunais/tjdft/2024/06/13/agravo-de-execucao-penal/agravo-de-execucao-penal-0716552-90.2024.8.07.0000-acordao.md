@@ -1,0 +1,365 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Criminal
+Processo N.AGRAVO DE EXECUÇÃO PENAL 0716552-90.2024.8.07.0000AGRAVANTE(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSAGRAVADO(S)JOAO BATISTA COSTA ROZENORelatorDesembargador SILVANIO BARBOSA DOS SANTOS
+ Acórdão Nº1878518
+
+EMENTA
+
+RECURSO DE AGRAVO. EXECUÇÃO PENAL. REMIÇÃO. APROVAÇÃO PARCIAL NO ENCCEJA. ENSINO FUNDAMENTAL CONCLUÍDO ANTES DO ENCARCERAMENTO. IRRELEVÂNCIA. REMIÇÃO DEVIDA. CONSOLIDAÇÃO DA JURISPRUDÊNCIA NO STJ. RECURSO DESPROVIDO.
+
+1. A Terceira Seção do Superior Tribunal de Justiça, no  AgRg no AREsp n. 1.741.138/DF, julgado em 20-fevereiro-2024, consolidou a jurisprudência da Corte no sentido de admitir a remição pela aprovação no ENEM ou no ENCCEJA aos apenados que ingressaram no sistema penitenciário após a conclusão do ensino fundamental ou médio.
+
+2. Recurso desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, SILVANIO BARBOSA DOS SANTOS - Relator, JAIR SOARES - 1º Vogal e ARNALDO CORRÊA SILVA - 2º Vogal, sob a Presidência do Senhor Desembargador SILVANIO BARBOSA DOS SANTOS, em proferir a seguinte decisão: NEGAR PROVIMENTO. MAIORIA. VENCIDO O 2º VOGAL., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 21 de Junho de 2024
+
+Desembargador SILVANIO BARBOSA DOS SANTOSPresidente e Relator
+
+RELATÓRIO
+
+Trata-se de recurso de agravo em execução (ID 58370092, pp. 391-412) interposto pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS contra a decisão da eminente autoridade judiciária da Vara de Execuções Penais do Distrito Federal (ID 58370092, pp. 384-385), a qual concedeu remição de pena em favor do sentenciado JOAO BATISTA COSTA ROZENO, em razão da aprovação parcial no ENCCEJA/2022 - Ensino Fundamental (execução penal n. 0407253-93.2019.8.07.0015).
+
+Sustentou o recorrente não ser possível conceder remição referente à aprovação parcial no ENCCEJA/2022 - Ensino Fundamental, haja vista que o sentenciado já havia concluído referido grau de instrução quando iniciou o cumprimento da pena privativa de liberdade.
+
+A Defesa Técnica (Defensoria Pública do Distrito Federal), em contrarrazões (ID 58370092, pp. 424/430), pugnou pela manutenção da decisão recorrida.
+
+Em juízo de retratação, a decisão foi mantida pela eminente Magistrada (ID 58370092, p. 438).
+
+Nesta instância, a douta Procuradoria de Justiça oficiou pelo conhecimento e pelo provimento do agravo (ID 58615631).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador SILVANIO BARBOSA DOS SANTOS - Relator
+Conheço do recurso.
+
+Extrai-se do Relatório de Situação Processual Executória (ID 58370093) que o apenado cumpre pena total de 19 (dezenove) anos, 2 (dois) meses e 20 (vinte) dias de reclusão. Já cumpriu 6 (seis) anos, 5 (cinco) meses e 28 (vinte e oito) dias e atualmente encontra-se em regime semiaberto.
+
+Em 19-dezembro-2023, a eminente autoridade judiciária da Vara de Execuções Penais do Distrito Federal (VEP/DF), ao analisar pedido formulado pela Defesa Técnica, decidiu que a aprovação parcial no ENCCEJA/2022 autoriza a remição da pena, e declarou, em favor do apenado, a remição de 78 (setenta e oito) dias de pena. Confiram-se (ID 58370092, pp. 384/385):
+
+Trata-se de análise quanto à homologação de remição da pena em virtude da aprovação parcial ffno Exame Nacional para Certificação de Competência de Jovens e Adultos – ENCCEJA 2022 (Mov. 369).
+
+O Ministério Público oficiou regularmente no feito.
+
+Após, vieram os autos conclusos para decisão.
+
+Relatei. Decido.
+
+De acordo com o parágrafo único do art. 3º da Resolução n. 391/2021 do Conselho Nacional de Justiça, a pessoa privada de liberdade que, não estando vinculada a atividades regulares de ensino no estabelecimento penal, realizar estudos por conta própria e obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio, por meio do ENCCEJA, faz jus à remição, bem como ao acréscimo de 1/3 em caso de conclusão da etapa de ensino, nos termos do art. 126, § 5º, da Lei de Execução Penal.
+
+No entanto, o fato de estar vinculado a estudo intramuros não é motivo suficiente para o não reconhecimento da remição pela aprovação no ENCCEJA. Conforme se observa da ementa do julgado do TJDFT:
+
+1. Nos termos do art. 126 da Lei de Execuções Penais, a participação nas atividades educativas autoriza a remição da pena na proporção de 1 dia para cada 12 horas de frequência escolar.
+
+2. A Recomendação nº 391/2021 do CNJ estabelece que tratando-se de conclusão de estudos por meio do ENCCEJA, as normas acimas transcritas indica que o apenado fará jus a 1600 horas acrescidas de 1/3 em face da conclusão do ensino fundamental, perfazendo 177 dias de remição
+
+3. A remição da pena por aprovação no ENCCEJA é cabível mesmo se o reeducando estava vinculado a atividades de ensino intramuros(TJDFT, 1 ª Turma Criminal, Rel. Des. Leila Arlanch, julgado em 19.07.2023 - destaquei).
+
+Este Juízo vinha mantendo o entendimento no sentido de que a vinculação a estudo interno impedia
+
+a homologação da remição pela aprovação no ENCCEJA, sendo garantido apenas o acréscimo de 1/3 sobre
+
+o período estudado.
+
+No entanto, se curva diante da jurisprudência dos Tribunais que torna necessária a superação do referido entendimento, sob o fundamento de que a dedicação da pessoa presa deve ser recompensada como forma de buscar o crescimento intelectual e impedir a ociosidade durante o encarceramento.
+
+Para o Superior Tribunal de Justiça, o apenado deverá ser contemplado com a remição pela aprovação parcial no ENCCEJA. Vejamos a ementa transcrita:
+
+Tomando-se como base de cálculo 50% da carga horária definida legalmente para o ensino fundamental, ou seja, 1.600 horas, deve-se dividir esse total por 12 (1 dia de pena a cada 12 horas de estudo), que resultam em 133 dias remidos, em caso de aprovação em todas as áreas de conhecimento do exame. Serão devidos, portanto, 26 dias de remição para cada uma das cinco áreas de conhecimento. Logo, como a paciente obteve aprovação parcial, ou seja, em três áreas de conhecimento, a remição deve corresponder a 78 dias remidos (STJ, 5ª Turma, AgRg no HC n. 773888/SP, Rel. Min. Ribeiro Dantas, julgado em 12.12.2022, destaquei).
+
+De outro lado, verifico que o sentenciado obteve aprovação parcial no ENCCEJA 2022 fundamental (Mov. 369).
+
+Ante o exposto, DECLARO, em favor do apenado, 78(setenta e oito) dias de remição pela aprovação parcial no ENCCEJA 2022, sem acréscimo de 1/3, pois não houve conclusão da etapa de ensino, nos termos da Resolução n. 391 do CNJ.
+
+Atualizem e anotem no RSPE: “ENCCEJA FUNDAMENTAL PARCIAL”.
+
+Cientifiquem o Ministério Público e a defesa.
+
+Deem vista às partes acerca dos incidentes pendentes.
+
+Intimem.
+
+O Ministério Público recorreu.
+
+Sustentou não ser possível conceder remição referente à aprovação parcial no ENCCEJA/2022 - Ensino Fundamental, uma vez que o agravado já havia concluído referido grau de instrução antes da realização do exame e antes de dar início à execução de suas penas privativas de liberdade.
+
+Alegou que o direito à remição da pena pelo estudo é assegurado pela LEP em seu art. 126, previsto para os apenados que realizem trabalho ou estudo em regime fechado ou semiaberto.
+
+Aduziu que para remição pelo estudo é indispensável que haja alguma atividade de aprendizagem efetivamente realizada pelo apenado durante o cumprimento da pena em regime fechado ou semiaberto, por meio da qual ele adquire novos conhecimentos como forma de promover sua reinserção social.
+
+Afirmou que não é possível a remição quando o apenado é aprovado em exame de certificação de grau de ensino que já tinha sido concluído antes do início do cumprimento da pena.
+
+Asseverou que a remição da pena pela aprovação em ENCCEJA ou no ENEM para quem já concluiu o respectivo nível de ensino ou até mesmo outro superior viola o direito fundamental à igualdade em sua vertente material, assegurado pelo art. 5º da Constituição Federal.
+
+Colacionaram-se precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+
+O pleito não merece prosperar. Elucida-se.
+
+O legislador autorizou a remição da pena pelo estudo (artigo 126, “caput”, da Lei de Execução Penal) e o acréscimo de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificado pelo órgão competente do sistema de educação (artigo 126, § 5º, LEP):
+
+Art. 126.  O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+
+§ 1o A contagem de tempo referida no caput será feita à razão de:
+
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+
+(...)
+
+§ 5o O tempo a remir em função das horas de estudo será acrescido de1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação. (grifo nosso).
+
+No mesmo sentido, a antiga Recomendação n. 44 do Conselho Nacional de Justiça, em seu artigo 1º, inciso IV, destacava a possibilidade de remição da pena para o apenado que realizasse estudos por conta própria ou com simples acompanhamento pedagógico, obtendo aprovação nos exames nacionais que certificassem a conclusão do ensino fundamental ou médio, dentre os quais está o ENCCEJA. Confira-se:
+
+RECOMENDAÇÃO N. 44, DE 26 DE NOVEMBRO DE 2013.
+
+Dispõe sobre atividades educacionais complementares para fins de remição da pena pelo estudo e estabelece critérios para a admissão pela leitura.
+
+Art. 1º Recomendar aos Tribunais que:
+
+(...).
+
+IV - na hipótese de o apenado não estar, circunstancialmente, vinculado a atividades regulares de ensino no interior do estabelecimento penal e realizar estudos por conta própria, ou com simples acompanhamento pedagógico, logrando, com isso, obter aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM), a fim de se dar plena aplicação ao disposto no § 5º do art. 126 da LEP (Lei n. 7.210/84), considerar, como base de cálculo para fins de cômputo das horas, visando à remição da pena pelo estudo, 50% (cinquenta por cento) da
+
+carga horária definida legalmente para cada nível de ensino fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE], isto é, 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio (...). (Grifos nossos).
+
+A Resolução n. 391 do Conselho Nacional de Justiça, de 10-maio-2021, ao especificar a disciplina erigida pela revogada Recomendação n. 44/2013 do referido Conselho, manteve previsão semelhante quanto à possibilidade de remição por estudo após aprovação em exames que certificam a conclusão de ensino:
+
+Art. 3º O reconhecimento do direito à remição de pena pela participação em atividades de educação escolar considerará o número de horas correspondente à efetiva participação da pessoa privada de liberdade nas atividades educacionais, independentemente de aproveitamento, exceto, quanto ao último aspecto, quando a pessoa tiver sido autorizada a estudar fora da unidade de privação de liberdade, hipótese em que terá de comprovar, mensalmente, por meio da autoridade educacional competente, a frequência e o aproveitamento escolar.
+
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4odaResolução no03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto noart. 126, § 5o, da LEP. (grifos nossos).
+
+As três Turmas Criminais deste Tribunal de Justiça (inclusive esta Relatoria) possuíam julgados, conforme orientação do Superior Tribunal de Justiça, no sentido de que: “O direito à remição deve ser aplicado no caso dos autos, tendo em vista que a aprovação do Paciente no ENEM (Exame Nacional do Ensino Médio) – ainda que já tenha concluído o ensino médio em momento anterior e mesmo estando, atualmente, vinculado a atividades regulares de ensino no interior do estabelecimento prisional – configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da Lei de Execução Penal e a Recomendação n. 44/2013 do CNJ.” - excluindo-se somente o direito ao acréscimo de 1/3 do artigo 126, §5º, da Lei de Execução Penal (HC 531.355/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/08/2020, DJe 02/09/2020) (grifos nossos).
+
+Ocorre que a Sexta Turma do Superior Tribunal de Justiça passou a ostentar julgados no sentido de que, se o apenado já possuísse certificado de ensino médio ou fundamental antes de ingressar no sistema carcerário, então, a superveniente aprovação nos exames nacionais (ENEM ou ENCCEJA) não autorizaria a remição da pena, pois revelaria somente conhecimento prévio e não o alcançado por conta própria pelo preso autodidata, consoante escopo da norma contida na Recomendação 44/2013, posteriormente substituída pela Resolução 391/2021-CNJ:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO. REALIZAÇÃO DO ENEM. ESTUDO REALIZADO ANTES DO INÍCIO DA EXECUÇÃO PENAL. AGRAVO REGIMENTAL PROVIDO.
+
+1. É cabível a remição por estudo da etapa final da educação básica, o que pode ser revelado por aprovação nos exames que certificam a conclusão do ensino médio (Encceja ou Enem), mas o Juiz da VEC deverá observar a existência de fato impeditivo ao direito pleiteado, pois para a redução da contagem da pena devem ser consideradas atividades realizadas durante a privação da liberdade.
+
+2. Se o apenado possuía a certificação do ensino médio antes de ingressar no sistema carcerário, o êxito no Enem revela conhecimento prévio e não o alcançado por contra própria do preso. A iniciativa ainda será premiada, pois, com o resultado das provas e matrícula em nível superior, a remição será computada com base em carga horária maior, tantas vezes quantas forem frequentadas as aulas de graduações ou cursos de requalificação profissional.
+
+3. Entender de outra forma permitiria espécie de crédito contra a justiça criminal. Antes mesmo de praticar o crime, a pessoa que terminou os estudos obrigatórios em idade regular teria a possibilidade de, ao ingressar nos regimes fechado ou semiaberto, realizar as provas do Encejja ensino fundamental (133 dias) e médio (100 dias) e, ainda, do Enem (100 dias) e diminuir em até 333 dias sua pena, anualmente, quando é manifesto que não houve instrução autodidata do grau de escolaridade por pessoa privada de liberdade.
+
+4. Agravo regimental provido. (AgRg no HC n. 828.572/SP, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 18/10/2023.) (grifos nossos).
+
+De forma paralela, a Quinta Turma do Superior Tribunal de Justiça, por maioria de votos, decidiu pela possibilidade de remição da pena mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena:
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INSURGÊNCIA DO MINISTÉRIO PÚBLICO ESTADUAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO EM 4 DAS 5 ÁREAS DE CONHECIMENTO DO EXAME NACIONAL DO ENSINO MÉDIO - ENEM. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL C/C ART. 3º, PARÁGRAFO ÚNICO, DA RESOLUÇÃO N. 391, DE 10/05/2021, DO CONSELHO NACIONAL DE JUSTIÇA. CONCLUSÃO DO ENSINO MÉDIO ANTES DO INÍCIO OU DURANTE O CUMPRIMENTO DA PENA: IRRELEVÂNCIA. INEXISTÊNCIA DE BIS IN IDEM. GRAUS DE DIFICULDADE DIFERENTES DO EXAME QUE CERTIFICA A CONCLUSÃO DO ENSINO MÉDIO (ENCCEJA) E DO ENEM. DIREITO À REMIÇÃO DE 20 (VINTE) DIAS DE PENA POR MATÉRIA EM QUE O EXECUTADO FOI APROVADO. VEDADO O ACRÉSCIMO DE 1/3 PREVISTO NO ART. 126, § 5º, DA LEP.
+
+1. "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal. (AgRg no HC n. 768.530/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023) Precedentes: AgRg no REsp n. 1.863.149/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/3/2023, DJe de 22/3/2023; AREsp 1.741.138/DF, Rel. Min. MESSOD AZULAY NETO, DJe de 15/06/2023; HC 828.572/SP, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 12/06/2023; REsp 2.069.804/MG, Rel. Min. RIBEIRO DANTAS, DJe de 06/06/2023; HC 799.103/SP, Rel. Min. RIBEIRO DANTAS, DJe de 19/04/2023.
+
+2. O objetivo do conjunto de regras acerca da remição da pena por aproveitamento dos estudos é o de incentivar os apenados aos estudos, bem como sua readaptação ao convívio social.
+
+3. A despeito de as matérias nas quais o estudante é examinado no ENCCEJA - ensino médio e no ENEM possuírem nomes semelhantes, não há como se deduzir que ambos os exames tenham o mesmo grau de complexidade. Pelo contrário, é muito mais plausível depreender-se que a avaliação efetuada no ENEM contém questões mais complexas dos que as formuladas no ENCCEJA - ensino médio, sobretudo tendo em conta que a finalidade do ENEM é possibilitar o ingresso no ensino superior, o que, por certo, demanda mais empenho do executado nos estudos. Reforça essa presunção o fato de que as notas mínimas para aprovação nos referidos exames são diferentes, a prova do ENEM tem mais questões e dura 1h30min a mais que a prova do ENCCEJA.
+
+Nessa linha de entendimento, o pedido de remição de pena por aprovação (total ou parcial) no ENCCEJA - ensino médio não possui o mesmo "fato gerador" do pleito de remição de pena em decorrência de aprovação (total ou parcial) no ENEM realizado a partir de 2017.
+
+4. Não fosse assim, a Resolução n. 391, de 10/05/2021, do Conselho Nacional de Justiça, que revogou a Recomendação n. 44/2013, teria deixado de reiterar a possibilidade de remição de pena por aprovação no ENEM, mantendo apenas a remição de pena por aprovação no ENCCEJA. Mas não foi o que ocorreu. Com isso em mente, deixar de reconhecer o direito do apenado à remição de pena por aprovação total ou parcial no ENEM é negar vigência à Resolução 391 do CNJ.
+
+5. Transposto esse raciocínio para a situação da conclusão do ensino médio antes do ingresso do apenado no sistema prisional, é forçoso concluir, também, que sua superveniente aprovação no ENEM durante o cumprimento da pena não corresponde ao mesmo nível de esforço e ao mesmo "fato gerador" correspondente à obtenção do grau do ensino médio, não havendo que falar em c concessão do benefício (remição de pena) em duplicidade pelo mesmo fato.
+
+6. De se pontuar, ademais, que essa particular forma de interpretar a lei e as normas que tratam da remição de pena por estudo é a que mais se aproxima da Constituição Federal, que faz da cidadania e da dignidade da pessoa humana dois de seus fundamentos, bem como tem por objetivos fundamentais erradicar a marginalização e construir uma sociedade livre, justa e solidária (incisos I, II e III do art. 3º). Tudo na perspectiva da construção do tipo ideal de sociedade que o preâmbulo da respectiva Carta Magna caracteriza como "fraterna" (HC n. 94163, Relator Min. CARLOS BRITTO, Primeira Turma do STF, julgado em 2/12/2008, DJe-200 DIVULG 22/10/2009 PUBLIC 23/10/2009 EMENT VOL-02379-04 PP-00851).
+
+7. A jurisprudência desta Corte e do Supremo Tribunal Federal é assente no sentido de que as 1.200 horas, correspondentes ao ensino médio, divididas por 12 (1 dia de pena a cada 12 horas de estudo) resultam em 100 dias remidos.
+
+Idêntica forma de parametrar a contagem do tempo a ser remido é aplicável ao ENEM, com a exceção de que o apenado aprovado em todas as áreas do ENEM, a partir de 2017, não faz jus ao acréscimo de 1/3 (um terço) previsto no art. 126, § 5º, da LEP.
+
+8. No caso concreto, a defesa comprovou que o apenado obteve aprovação em 4 (quatro) das 5 (cinco) áreas de conhecimento no ENEM 2019, somente não atingiu a nota mínima na área de conhecimento "Matemática e suas tecnologias". Portanto, não merece reparos a decisão agravada que concedeu a ordem de ofício, para deferir ao paciente o total de 80 (oitenta) dias de remição de pena, em virtude de sua aprovação parcial no ENEM/2019.
+
+9. Agravo regimental do Ministério Público estadual desprovido" (AgRg no HC n. 786.844/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, Rel. para acórdão Min. Reynaldo Soares da Fonseca, DJe de 13/9/2023) (Grifos nossos).
+
+A questão foi submetida à Terceira Seção do Superior Tribunal de Justiça que, no  AgRg no AREsp n. 1.741.138/DF, julgado em 20-fevereiro-2024, consolidou a jurisprudência da Corte no sentido de que e possível a remição da pena, mesmo nos casos em que o reeducando tenha formação de nivel escolar anterior ao seu cumprimento, caso venha a obter certificação de aproveitamento por estudos realizados durante a execução da pena. Confira:
+
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REMIÇÃO DE PENA. ART. 126 DA LEI N. 7.210/1984. RECOMENDAÇÃO N. 44 DO CNJ. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. POSSIBILIDADE. ESTABILIZAÇÃO DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA QUANTO AO TEMA. JULGAMENTO PELA TERCEIRA SEÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+
+No julgamento do EREsp n. 1.979.591/SP (DJe de 13/11/2023), a Terceira Seção consolidou entendimento no sentido de admitir a remição por aprovação no ENEM ou no ENCCEJA pelos apenados que ingressaram no sistema penitenciário após a conclusão do ensino médio.
+
+Agravo regimental desprovido.
+
+(AgRg no AREsp n. 1.741.138/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/2/2024, DJe de 29/2/2024.)
+
+Destarte, ressalvadas as oscilações próprias do processo evolutivo da jurisprudência, retomo o entendimento anteriormente adotado em julgados da minha relatoria nesta Segunda Turma Criminal, doravante corroborado pelo entendimento consolidado do Superior Tribunal de Justiça no sentido de admitir a remição pela aprovação no ENEM ou no ENCCEJA aos apenados que já ingressaram no sistema penitenciário após a conclusão do ensino médio ou que, por outro meio, tenham adquirido a certificação do nível de escolaridade no curso da execução penal.
+
+Logo, a circunstância de prévia conclusão da respetiva etapa de ensino tornou-se irrelevante diante do entendimento jurisprudencial consolidado no julgamento da Terceira Seção do Superior Tribunal de Justiça, no HC n. 602.425/SC.
+
+Assim, visto que no curso da execução da pena o agravado realizou novo exame (ENCCEJA–2022) e obteve aprovação parcial no interior do estabelecimento prisional, faz jus à benesse da remição pelo estudo, sem o acréscimo de 1/3 (um terço), conforme constou na decisão recorrida.
+
+DIANTE DO EXPOSTO, nego provimento ao recurso.
+
+É o voto.
+
+O Senhor Desembargador JAIR SOARES - 1º Vogal
+A decisão agravada concedeu ao agravado remição pela aprovação parcial no ENCCEJA 2022 – ensino fundamental (ID 58370092, p. 385).
+
+Ressaltou-se na decisão que “o fato de estar vinculado a estudo intramuros não é motivo suficiente para o não reconhecimento da remição pela aprovação no ENCCEJA” (ID 58370092, p. 385).
+
+O Ministério Público agravou, sustentando que, conforme carta de guia definitiva, o agravado já havia concluído o ensino médio antes do encarceramento, o que impede a remição (ID 58370092, p. 392).
+
+O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. O tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação (LEP, art. 126, caput e § 5º).
+
+A remição da pena pelo estudo, relevante ao processo de ressocialização, pressupõe seja constatado acréscimo intelectual ou profissional àquele que pleiteia o benefício.
+
+Não por outro motivo, foi editada a Recomendação n. 44/2013 do CNJ, que em seu art. 1º, IV, dispôs sobre remição no caso de aprovação do apenado no ENCCEJA e/ou ENEM:
+
+“IV - na hipótese de o apenado não estar, circunstancialmente, vinculado a atividades regulares de ensino no interior do estabelecimento penal e realizar estudos por conta própria, ou com simples acompanhamento pedagógico, logrando, com isso, obter aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM), a fim de se dar plena aplicação ao disposto no § 5º do art. 126 da LEP (Lei n. 7.210/84), considerar, como base de cálculo para fins de cômputo das horas, visando à remição da pena pelo estudo, 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino [fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE], isto é, 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio;”.
+
+A Resolução n. 391/2021 do CNJ, que substituiu a Recomendação n. 44/2013, tratou a matéria de igual forma. Confira-se:
+
+“Art. 3º - O reconhecimento do direito à remição de pena pela participação em atividades de educação escolar considerará o número de horas correspondente à efetiva participação da pessoa privada de liberdade nas atividades educacionais, independentemente de aproveitamento, exceto, quanto ao último aspecto, quando a pessoa tiver sido autorizada a estudar fora da unidade de privação de liberdade, hipótese em que terá de comprovar, mensalmente, por meio da autoridade educacional competente, a frequência e o aproveitamento escolar.
+
+Parágrafo único - Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4º da Resolução CNJ 3/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto na Lei 7.210/1984, art. 126, § 5º. [[Resolução CNJ 3/2010, art. 4º.]]”
+
+O e. STJ, então, havia consolidado o entendimento de que possível a remição pela aprovação no ENCCEJA ou no ENEM, ainda que o apenado já tenha concluído o ensino fundamental ou médio quando do início da execução.
+
+E entendeu que, nos casos em que concluído o ensino fundamental ou médio antes do início da execução, a aprovação no ENCCEJA ou ENEM não confere o acréscimo de 1/3 de pena prevista no § 5º do art. 126 da LEP.
+
+ Ocorre que alguns ministros do e. STJ passaram a entender que se o apenado concluiu o ensino fundamental antes do início da execução da pena, não é devida a remição pela aprovação no ENCCEJA ou ENEM, pena de se desvirtuar o benefício - que é incentivar o estudo para facilitar a reinserção social do preso.
+
+E o tema ainda não é pacífico na Corte Superior, mesmo após o julgamento dos embargos de divergência 1.979.591/SP, que, embora providos, não se discutiu a questão. Alguns ministros do e. STJ têm decidido pela necessidade de se observar se o estudo ocorreu antes do início da execução penal, pena de se desvirtuar o art. 126 da LEP. Confira-se:
+
+“(...) 2. No caso, o pedido de remição foi indeferido, uma vez que o reeducando já possuía o ensino médio à realização da prova, tendo as instâncias ordinárias consignado que não ocorreu a continuidade dos estudos, com o consequente aproveitamento da formação adquirida durante a execução da pena, pois, "conforme informação fornecida pela unidade prisional, o agravante, ao iniciar a execução da pena, informou que já possuía o ensino médio completo desde 1999 (fls. 858/861), sendo, portanto, absolutamente desnecessário o exame para sua aprovação". 3. Com efeito, "[...] não se verifica a violação do art. 126 da LEP, pois, "tendo o apenado concluído o ensino médio [...] antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio (ENEM)" (AgRg no AREsp n. 2.083.985/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe de 10/8/2022) (REsp n. 1.913.757/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/2/2023)" (AgRg no REsp n. 2.048.234/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023). 4. Agravo regimental desprovido.” (AgRg no HC n. 813.713/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.);
+
+“(...) Aplica-se ao caso o entendimento de que é possível o abatimento da pena privativa de liberdade por aprovação (obtenção de nota mínima), devidamente comprovadas, em quatro das cinco áreas de conhecimento do ENCCEJA (em nível médio, na proporção de 20 dias de desconto da pena para cada uma das 5 áreas de conhecimento, e de 26 dias, na hipótese do exame de nível fundamental), atendidas algumas diretrizes:
+
+a) "em caso de remição por aprovação em exame nacional de ensino, é de rigor atentar-se para a situação peculiar em que o reeducando [antes do início da execução] já possuía o acréscimo de conhecimento relacionado ao mesmo nível de escolaridade, sob pena de se desvirtuar o benefício e os seus fins ressocializadores. Precedentes desta Corte" (AgRg no HC n. 804.110/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/4/2023, DJe de 14/4/2023);
+
+b) "não é possível o novo abatimento das penas a reeducando já premiado anteriormente pelo aprendizado de idêntico nível de escolaridade" (AgRg no HC n. 753.813/SC, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+
+À vista do exposto, concedo a ordem, para determinar que o Juiz da VEC, em nova decisão, reexamine o benefício. A autoridade deverá ouvir a defesa e o MP e reconhecer o direito à remição por aprovação parcial no ENCCEJA, podendo indeferir o benefício se houver nos autos prova de fato impeditivo (diploma de conclusão do curso, anterior ao início da execução) ou registro de abatimento prévio da pena por estudo de idêntico grau de ensino, já premiado anteriormente.” (HC n. 873.253, Ministro Rogerio Schietti Cruz, DJe de 11/04/2024. - sem grifo no original).
+
+E esse é o entendimento predominante do c. STF:
+
+“EMENTA AGRAVO INTERNO EM HABEAS CORPUS. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO (ENEM). REMIÇÃO DE PENA POR ESTUDO. EXECUÇÃO PENAL. CONCLUSÃO DO ENSINO MÉDIO EM MOMENTO ANTERIOR. INVIABILIDADE. NEGATIVA DE SEGUIMENTO AO HABEAS CORPUS. 1. A remição ficta ou virtual da pena por estudo, em virtude de aprovação no Exame Nacional do Ensino Médio (Enem), não se aplica em caso de conclusão do ensino médio em momento anterior ao início da execução penal. 2. Agravo interno desprovido.
+
+(HC 235935 AgR, Relator(a): Min. Nunes Marques, Segunda Turma, julgado em 04-04-2024, proc eletrônico DJe-s/n  divulg 11-04-2024  public 12-04-2024);
+
+“(...) RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PRETENSÃO DE OBTENÇÃO DE REMIÇÃO DA PENA POR TEMPO DE ESTUDO. APROVAÇÃO NO EXAME NACIONAL DE ENSINO MÉDIO (ENEM). INVIABILIDADE. CONCLUSÃO ANTERIOR DO ENSINO MÉDIO CERTIFICADO POR APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA). INEXISTÊNCIA DE TERATOLOGIA, ABUSO DE PODER OU FLAGRANTE ILEGALIDADE. (...)” (RHC 230948, Relator(a): Min. Luiz Fux, Julgamento: 15/08/2023, publicação: 16/08/2023).
+
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA FICTA OU VIRTUAL. ART. 126 DA LEI DE EXECUÇÕES PENAIS. RECOMENDAÇÃO N. 44 DO CONSELHO NACIONAL DE JUSTIÇA. PORTARIA NORMATIVA N. 10/2012 DO MINISTÉRIO DA EDUCAÇÃO. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO – ENEM. CONCLUSÃO ANTERIOR DO ENSINO MÉDIO. IMPOSSIBILIDADE. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RHC 181.787-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 28/5/2020).
+
+Não se justifica a remição pelo estudo se, embora realizados os exames ENCCEJA e/ou ENEM durante a execução da pena, o apenado concluiu o ensino médio ou fundamental antes do encarceramento.
+
+A finalidade da remição pelo estudo é fomentar o aprimoramento intelectual durante a execução da pena, com vistas à ressocialização do apenado (art. 126 da LEP), o que não ocorre com aqueles que já concluíram os estudos e apenas se submetem – durante a execução - ao exame.
+
+A decisão agravada concedeu ao apenado 78 dias de remição, sem o acréscimo de 1/3, pela aprovação no ENCCEJA/22 - ensino fundamental parcial. Nada se mencionou em relação ao grau de escolaridade do agravado antes do encarceramento. Por outro lado, a decisão agravada consignou que o estudo intramuros não é óbice à concessão da remição (ID 58370092, p. 385).
+
+O agravado iniciou o cumprimento da pena em 8.5.18 (ID 58370093, p. 4).
+
+Não há informações exatas sobre a escolaridade do agravado antes de iniciada a execução da pena.
+
+Na carta de guia definitiva, de 9.6.21, consta que o apenado tem “ensino médio completo” (mov. 189.1).
+
+Não obstante, na carta de guia provisória, de 18.7.19, e no interrogatório, de 12.11.18, não há informações sobre a escolaridade do apenado (SEEU - execução penal 0407253-93.2019.8.07.0015, movs. 1.1 e 1.6).
+
+Em certidão da SIAPEN, de 19.12.19, não consta informações sobre a escolaridade do apenado. Após, em 22.11.22, provavelmente em decorrência da aprovação parcial no ENCCEJA 2022, consta no campo escolaridade: “ensino fundamental incompleto” (SEEU - mov. 276.1).
+
+Certidão mais atual emitida pelo SIAPEN em 3.5.24, informa que a escolaridade do apenado: “ensino fundamental incompleto” (mov. 466.2).
+
+Em 2022, teve aprovação parcial no ENCCEJA – ensino fundamental (SEEU – mov. 369.1), o que demonstra que dificilmente concluiu o ensino médio antes do encarceramento.
+
+Dessa forma, não é possível afirmar que o apenado concluiu o ensino médio e, por conseguinte, o fundamental, antes do encarceramento.
+
+Considerando que o apenado logrou aprovação parcial no ENCCEJA e sem prova segura de que, antes, já havia concluído o ensino fundamental, mantém-se a decisão que deferiu a remição da pena.
+
+Nega-se provimento.
+
+O Senhor Desembargador ARNALDO CORRÊA SILVA - 2º Vogal p{text-align: justify;}Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Trata-se de agravo em execução penal interposto pelo MINISTÉRIO PÚBLICO contra decisão proferida pelo Juízo Vara de Execuções Penais do Distrito Federal que declarou, em favor do apenado JOÃO BATISTA COSTA ROZENO, 78 (setenta e oito) dias de remição pela aprovação total no ENCCEJA 2022 – Ensino Fundamental, nos termos da Resolução n. 391 do Conselho Nacional de Justiça.
+
+Em suas razões recursais, o Ministério Público requer a reforma da decisão para afastar a remição da pena, porquanto não seria razoável admitir o benefício para reeducando aprovado em exame de certificação de grau de ensino que já tenha concluído anteriormente ao cumprimento da pena.
+
+Pautado para julgamento, o E. Relator, Des. Silvânio Barbosa, apresentou voto pelo não provimento do recurso, acolhendo os fundamentos da decisão recorrida, no sentido de que o fato de o recorrido já ter concluído aquela etapa do ensino antes do encarceramento seria de menor importância, devendo a remissão prevalecer.
+ É o relatório.
+
+Voto.
+
+Preenchidos os requisitos legais, o recurso deve ser conhecido.
+Com a mais respeitosa vênia ao entendimento do eminente relator, entendo que deve ser dado provimento ao recurso.
+
+Com razão o Ministério Público.
+
+Confira-se o que decidiu o juízo de origem (ID. 58370092, p. 384/385):
+“  Trata-se de análise quanto à homologação de remição da pena em virtude da aprovação parcial ffno Exame Nacional para Certificação de Competência de Jovens e Adultos – ENCCEJA 2022 (Mov. 369).
+O Ministério Público oficiou regularmente no feito.
+Após, vieram os autos conclusos para decisão.
+Relatei. Decido.
+De acordo com o parágrafo único do art. 3º da Resolução n. 391/2021 do Conselho Nacional de Justiça, a pessoa privada de liberdade que, não estando vinculada a atividades regulares de ensino no estabelecimento penal, realizar estudos por conta própria e obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio, por meio do ENCCEJA, faz jus à remição, bem como ao acréscimo de 1/3 em caso de conclusão da etapa de ensino, nos termos do art. 126, § 5º, da Lei de Execução Penal.
+No entanto, o fato de estar vinculado a estudo intramuros não é motivo suficiente para o não reconhecimento da remição pela aprovação no ENCCEJA. Conforme se observa da ementa do julgado do TJDFT:
+
+1. Nos termos do art. 126 da Lei de Execuções Penais, a participação nas atividades educativas autoriza a remição da pena na proporção de 1 dia para cada 12 horas de frequência escolar.
+2. A Recomendação nº 391/2021 do CNJ estabelece que tratando-se de conclusão de estudos por meio do ENCCEJA, as normas acimas transcritas indica que o apenado fará jus a 1600 horas acrescidas de 1/3 em face da conclusão do ensino fundamental, perfazendo 177 dias de remição
+3. A remição da pena por aprovação no ENCCEJA é cabível mesmo se o reeducando estava vinculado a atividades de ensino intramuros(TJDFT, 1 ª Turma Criminal, Rel. Des. Leila Arlanch, julgado em 19.07.2023 - destaquei).
+Este Juízo vinha mantendo o entendimento no sentido de que a vinculação a estudo interno impedia
+a homologação da remição pela aprovação no ENCCEJA, sendo garantido apenas o acréscimo de 1/3 sobre
+o período estudado.
+
+No entanto, se curva diante da jurisprudência dos Tribunais que torna necessária a superação do referido entendimento, sob o fundamento de que a dedicação da pessoa presa deve ser recompensada como forma de buscar o crescimento intelectual e impedir a ociosidade durante o encarceramento.
+Para o Superior Tribunal de Justiça, o apenado deverá ser contemplado com a remição pela aprovação parcial no ENCCEJA. Vejamos a ementa transcrita:
+
+Tomando-se como base de cálculo 50% da carga horária definida legalmente para o ensino fundamental, ou seja, 1.600 horas, deve-se dividir esse total por 12 (1 dia de pena a cada 12 horas de estudo), que resultam em 133 dias remidos, em caso de aprovação em todas as áreas de conhecimento do exame. Serão devidos, portanto, 26 dias de remição para cada uma das cinco áreas de conhecimento. Logo, como a paciente obteve aprovação parcial, ou seja, em três áreas de conhecimento, a remição deve corresponder a 78 dias remidos (STJ, 5ª Turma, AgRg no HC n. 773888/SP, Rel. Min. Ribeiro Dantas, julgado em 12.12.2022, destaquei).
+
+De outro lado, verifico que o sentenciado obteve aprovação parcial no ENCCEJA 2022 fundamental (Mov. 369).
+Ante o exposto, DECLARO, em favor do apenado, 78(setenta e oito) dias de remição pela aprovação parcial no ENCCEJA 2022, sem acréscimo de 1/3, pois não houve conclusão da etapa de ensino, nos termos da Resolução n. 391 do CNJ.
+Atualizem e anotem no RSPE: “ENCCEJA FUNDAMENTAL PARCIAL”.
+Cientifiquem o Ministério Público e a defesa.
+Deem vista às partes acerca dos incidentes pendentes.
+Intimem”.
+
+Conforme se nota, diante da verificação de que o recorrido obteve aprovação no ENCCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos) e que ele não estava classificado para atividades regulares de ensino no sistema prisional, foi-lhe concedida a remição de 100 (cem) dias de pena, nos termos da Resolução 391 do CNJ.
+
+A Lei de Execuções Penais dispõe em seu art. 126, caput, que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+
+O § 5º daquele dispositivo legal prevê que o tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação.
+
+No âmbito infralegal, o tema é disciplinado também pela Resolução n. 391 do Conselho Nacional de Justiça, que estabelece procedimentos e diretrizes a serem observados pelo Poder Judiciário para o reconhecimento do direito à remição por meio de práticas sociais educativas em unidades de privação de liberdade (art. 1º).
+
+A mencionada Resolução dispõe que:
+
+“Art. 3o O reconhecimento do direito à remição de pena pela participação em atividades de educação escolar considerará o número de horas correspondente à efetiva participação da pessoa privada de liberdade nas atividades educacionais, independentemente de aproveitamento, exceto, quanto ao último aspecto, quando a pessoa tiver sido autorizada a estudar fora da unidade de privação de liberdade, hipótese em que terá de comprovar, mensalmente, por meio da autoridade educacional competente, a frequência e o aproveitamento escolar.
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4o da Resolução no 03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5o, da LEP.”
+
+Inicialmente, cumpre registrar que o instituto da remição pelo estudo ou pela leitura objetiva estimular a ressocialização do apenado através do fomento ao seu desenvolvimento intelectual e elevação da escolaridade.
+
+Nesse sentido, o desempenho de atividades intelectuais durante o cumprimento da pena privativa de liberdade, antes de se destinar apenas à redução do período de segregação, demonstra a autodisciplina do reeducando e o seu compromisso com o propósito de reinserção social.
+
+Não obstante, a remição de pena pelo estudo não prescinde da verificação de acréscimo intelectual por parte do reeducando, o que não se vislumbra quando ele obtém aprovação em exame de certificação relativo à escolaridade que já possuía anteriormente ao início do cumprimento da pena.
+
+Destarte, o direito a remir pena pressupõe o exercício de atividades ressocializadoras durante o cumprimento do cárcere (art. 126, caput, da LEP).
+
+Nesse sentido, verificado que o estudo e a conclusão do ensino fundamental ocorreram antes do início da execução penal, há fato impeditivo ao reconhecimento da remição, porquanto o conhecimento empregado para atingir o êxito no exame nacional não foi obtido durante o período de privação da liberdade, o que, no limite, subverteria a lógica premial destinada a agraciar aquele preso que, por conta própria e sem estar vinculado a atividades escolares regulares, conquista a certificação.
+
+No julgamento do AgRg no HC 828.572/SP, cujo acórdão foi lavrado pelo e. Min. Rogerio Schietti, o voto condutor mencionou acertadamente que:
+
+“O preso que iniciou o resgate da condenação já com a educação básica concluída deve explorar outras oportunidades de abatimento da pena (estudo superior, leitura de obras literárias, cursos à distância etc.). Não se está, com isso, a inibir o aprimoramento intelectual do reeducando, mas realizando a interpretação do art. 126 da LEP conforme sua finalidade.” (AgRg no HC n. 828.572/SP, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 18/10/2023.)
+
+Nesse sentido, entende-se que é adequada a conclusão de que:
+
+“O propósito da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento, mas, sobretudo, fomentar a aquisição de novos conhecimentos e ferramentais educacionais por parte do apenado, de modo a facilitar a sua reintegração social. 3. No caso, tendo o apenado concluído o ensino médio e superior antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio, visto que tal situação destoa do escopo da norma" (HC n. 705.708/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 25/2/2022).
+
+Esta 2ª Turma Criminal também possui decisões nesse sentido:
+
+“Execução penal. Remição de pena pelo estudo. Aprovação no ENCCEJA. Conclusão do ensino antes do início da execução da pena.   O apenado que concluiu o ensino fundamental ou médio antes de iniciada a execução da pena não tem direito à remição pelo estudo, pela aprovação no ENCCEJA ou ENEM. A finalidade da remição é fomentar a aquisição de novos conhecimentos durante a execução da pena, de modo a facilitar a reintegração social do apenado, o que não ocorre na hipótese. Agravo provido.” (Acórdão 1846797, 07090873020248070000, Relator: SILVANIO BARBOSA DOS SANTOS, Relator Designado: JAIR SOARES 2ª Turma Criminal, data de julgamento: 11/4/2024, publicado no DJE: 24/4/2024. Pág.:  Sem Página Cadastrada.)
+
+Confira-se ainda:
+
+“AGRAVO EM EXECUÇÃO. APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇAO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA) RELATIVO AO ENSINO FUNDAMENTAL. INTERNO COM NÍVEL FUNDAMENTAL COMPLETO. REMIÇÃO DA PENA. IMPOSSIBILIDADE.  1. Agravo em execução interposto contra decisão do Juízo da Vara de Execuções Penais que declarou a remição de pena pela aprovação parcial no ENCCEJA/2022, ensino fundamental, a reeducando que já ostentava tal nível educacional completo no início da execução da pena.  2. O artigo 126 da Lei de Execução Penal assegura ao condenado a remição da pena pelo estudo. A finalidade do benefício é a de incentivar o crescimento e o esforço intelectual do apenado, atividade de essencial importância para a inserção no mercado de trabalho.  3. Admite-se a aprovação no ENCCEJA/ENEM como contagem de tempo de estudo para fins de remição de pena, pois representa dedicação do interno, durante a execução penal, contribuindo com a finalidade ressocializadora.  4. Entretanto, a aprovação em exame nacional referente ao ensino fundamental por interno que já o possui completo não evidencia o comprometimento com a vida ajustada e produtiva em sociedade, tampouco revela afastamento da ociosidade perniciosa do cárcere. Na realidade, revela a tentativa de subverter o instituto da remição com a realização de provas que não exigem, para ele, o mínimo esforço intelectual.  4.1. Ao se admitir tal prática, nada impede ao interno que possui nível superior possa realizar o exame de nível fundamental todos os anos, reduzindo sobremaneira a reprimenda imposta, sem qualquer proveito escolar ou profissional.  5. Recurso conhecido e provido.” (Acórdão 1849696, 07058351920248070000, Relator: WALDIR LEÔNCIO LOPES JÚNIOR, Relator Designado: SANDOVAL OLIVEIRA 3ª Turma Criminal, data de julgamento: 18/4/2024, publicado no PJe: 29/4/2024. Pág.:  Sem Página Cadastrada.)
+
+Considerando que o agravado já possuía o grau de ensino relativo ao exame no qual logrou aprovação antes do início do cumprimento da pena, conclui-se que não tem direito à remição.
+
+Em face do exposto, conheço do recurso e lhe DOU PROVIMENTO para reformar a decisão impugnada e AFASTAR A REMIÇÃO de 78 (setenta e oito) dias de pena do recorrido.
+
+É como voto.
+
+Desembargador Arnaldo Corrêa Silva
+Vogal
+
+DECISÃO
+
+NEGAR PROVIMENTO. MAIORIA. VENCIDO O 2º VOGAL.
