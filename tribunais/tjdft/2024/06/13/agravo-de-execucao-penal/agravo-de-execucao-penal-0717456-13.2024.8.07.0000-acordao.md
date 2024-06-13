@@ -1,0 +1,123 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Criminal
+Processo N.AGRAVO DE EXECUÇÃO PENAL 0717456-13.2024.8.07.0000AGRAVANTE(S)WENDEL GOMES DOS REISAGRAVADO(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatorDesembargador ARNALDO CORRÊA SILVA
+ Acórdão Nº1878535
+
+EMENTA
+
+TURMA CRIMINAL. DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. BOM COMPORTAMENTO DURANTE A EXECUÇÃO DA PENA. INTEGRALIDADE DO HISTÓRICO PRISIONAL. COMETIMENTO DE CRIMES DURANTE A EXECUÇÃO DA PENA. FUGA. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. O Superior Tribunal de Justiça firmou Tese no Tema Repetitivo n. 1.161, nos termos da qual: “A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal”.
+
+2. Os requisitos previstos nas alíneas “a” e “b” do inciso III do art. 83 do Código Penal não se confundem, tratando-se a segunda de um acréscimo ao bom comportamento carcerário já exigido na primeira, demandando-se a consideração de todo o histórico da execução penal do reeducando.
+
+3. Para que possa obter o livramento condicional, o reeducando precisa cumprir, de forma cumulativa, os requisitos dispostos expressa e especificamente no art. 83 do Código Penal, o que não se verifica se cometeu crimes no curso da execução da pena, além de ter efetuado fuga do sistema prisional, a demonstrar que não apresenta o grau de compromisso e de ressocialização exigidos para o deferimento da benesse.
+
+4. Recurso conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNALDO CORRÊA SILVA - Relator, SILVANIO BARBOSA DOS SANTOS - 1º Vogal e JAIR SOARES - 2º Vogal, sob a Presidência do Senhor Desembargador SILVANIO BARBOSA DOS SANTOS, em proferir a seguinte decisão: NEGAR PROVIMENTO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 21 de Junho de 2024
+
+Desembargador ARNALDO CORRÊA SILVARelator
+
+RELATÓRIO
+
+Trata-se de agravo em execução penal interposto por WENDEL GOMES DOS REIS contra decisão proferida pelo Juízo Vara de Execuções Penais do Distrito Federal que indeferiu o pedido de livramento condicional.
+
+Em suas razões recursais (ID. 58594123 – fls. 241/248), a recorrente requer o provimento do agravo para reformar a decisão impugnada, com a consequente concessão do livramento condicional pleiteado.
+
+A decisão agravada foi mantida pelo d. Juízo de origem (ID. 585941223 - fl. 270).
+
+A i. Procuradoria de Justiça oferta parecer pelo conhecimento e não provimento do agravo (ID. 59013245).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARNALDO CORRÊA SILVA - Relator
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Trata-se de agravo em execução penal interposto por WENDEL GOMES DOS REIS contra decisão proferida pelo Juízo Vara de Execuções Penais do Distrito Federal que indeferiu o pedido de livramento condicional.
+
+Em suas razões recursais, o recorrente requer o provimento do agravo para reformar a decisão impugnada, com a consequente concessão do benefício pleiteado.
+
+Argumenta que: “permitir que faltas longínquas possam contaminar toda a execução da pena produz ruptura do direito ao esquecimento, além de admissão, grosso modo, de sanção carcerária perpétua, o que é vedado pelo ordenamento jurídico brasileiro.”
+
+Em seguida, acrescenta: “Nesse sentido, deve ser verificado que a interpretação no sentido proposto pelo Juízo a quo de que a existência de pluralidade de faltas, ainda que datadas de mais de 12 meses, deve constituir-se em óbice à concessão da benesse, porque, conquanto respeite o requisito temporal, revela comportamento carcerário impeditivo do livramento (art. 83, III, ‘a’, do Código Penal), é flagrantemente violadora do princípio da legalidade e da vedação a penas perpétuas.”
+
+O pleito não pode prosperar.
+
+À luz do que dispõe o art. 83 do Código Penal, são requisitos para o livramento condicional:
+
+“Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+
+II - cumprida mais da metade se o condenado for reincidente em crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+
+III - comprovado: (Redação dada pela Lei nº 13.964, de 2019)
+
+a) bom comportamento durante a execução da pena; (Incluído pela Lei nº 13.964, de 2019)
+
+b) não cometimento de falta grave nos últimos 12 (doze) meses; Incluído pela Lei nº 13.964, de 2019)
+
+c) bom desempenho no trabalho que lhe foi atribuído; e (Incluído pela Lei nº 13.964, de 2019)
+
+d) aptidão para prover a própria subsistência mediante trabalho honesto; (Incluído pela Lei nº 13.964, de 2019)
+
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.             (Incluído pela Lei nº 13.344, de 2016)
+
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir.”
+
+Da previsão legal, extrai-se que o aludido benefício exige do reeducando o preenchimento de requisitos de natureza objetiva (tempo mínimo de resgate da pena) e subjetiva (bom comportamento durante a execução da pena, não cometimento de falta grave nos últimos 12 meses, bom desempenho no trabalho e aptidão para prover a própria subsistência).
+
+Trata-se de exigências cumulativas e que possuem características distintas.
+
+Especificamente quanto à necessidade de que o preso possua, para obtenção do livramento, bom comportamento durante a execução da pena, entende-se que diz respeito à condição que considera a integralidade do cumprimento da sanção.
+
+A esse respeito, o Superior Tribunal de Justiça firmou Tese no bojo do Tema Repetitivo n. 1.161, nos termos da qual:
+
+“A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal” (REsp n. 1.970.217/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023).
+
+O Relator do processo paradigma mencionado, o Min. Ribeiro Dantas, deixou claro em seu voto que:
+
+“A inclusão da alínea "b" no inciso III do art. 83 do Código Penal, pela Lei n. 13.964/2019 (Pacote Anticrime), teve como objetivo impedir a concessão do livramento condicional ao apenado que tenha cometido falta grave nos últimos 12 meses, o que não significa, todavia, que "a ausência de falta grave no mencionado período seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional".
+
+A toda evidência, os requisitos previstos nas alíneas “a” e “b” do inciso III do art. 83 do Código Penal não se confundem, tratando-se a segunda de um acréscimo ao bom comportamento carcerário já exigido na primeira, demandando-se a consideração de todo o histórico da execução penal do reeducando.
+
+Conforme afirmou o Min. Ribeiro Dantas: “Tratam-se de requisitos cumulativos, pois, além de ostentar bom comportamento durante todo o período de cumprimento da pena, o apenado não pode ter incorrido em nenhuma falta grave nos últimos 12 meses da data da análise da concessão do benefício”.
+
+Esta Turma Criminal já se manifestou sobre o tema em diversas ocasiões:
+
+“[...] 1. "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea 'a', do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea 'b' do mesmo inciso III do art. 83 do Código Penal". Tema 1161 do Superior Tribunal de Justiça. 2. In casu, o apenado, ao praticar faltas graves consistentes no cometimento de crimes dolosos (posse ilegal de arma de fogo de uso permitido, por duas vezes, e tráfico de drogas) no curso da execução, evidencia ainda não haver sofrido os influxos da prevenção especial negativa da pena, afastando, assim, o requisito subjetivo para o benefício do livramento condicional. 3. Recurso conhecido e não provido para manter a decisão que indeferiu o pedido de livramento condicional formulado pelo agravante”. (Acórdão 1779656, 07379598920238070000, Relator: ROBERVAL CASEMIRO BELINATI, 2ª Turma Criminal, data de julgamento: 31/10/2023, publicado no PJe: 13/11/2023. Pág.:  Sem Página Cadastrada.)
+
+“[...] 1. Diante da entrada em vigor da Lei n. 13.964/2019, para o preenchimento do requisito subjetivo necessário ao livramento condicional é imperioso que o apenado não tenha praticado falta grave nos últimos doze meses (alínea "b" no inciso III do artigo 83) e apresente bom comportamento durante a execução da pena (alínea "a" no inciso III do artigo 83). 2. O Superior Tribunal de Justiça consolidou o entendimento de que o preenchimento do requisito subjetivo consistente no bom comportamento carcerário durante a execução da pena, previsto alínea "a" no inciso III do artigo 83, deve considerar todo o período de resgate da reprimenda, não se admitindo limite temporal não previsto em lei. Tema 1161/STJ. 3. Recurso desprovido.” (Acórdão 1749649, 07273963620238070000, Relator: SILVANIO BARBOSA DOS SANTOS, 2ª Turma Criminal, data de julgamento: 24/8/2023, publicado no PJe: 6/9/2023. Pág.:  Sem Página Cadastrada.)
+
+Fora isso, conforme constou da decisão impugnada, o sentenciado praticou, durante o cumprimento da pena, dois crimes de roubo, além de uma fuga carcerária.
+
+A justificativa apresentada, portanto, encontra amparo na jurisprudência, bem como na legislação que rege a matéria, considerando que o recorrente, ainda que tenha preenchido o requisito objetivo e não ostente faltas graves nos últimos 12 meses, praticou dois crimes durante o cumprimento da pena, além de ter incorrido em falta grave consistente em fuga no ano de 2015, devidamente homologada pelo Juízo.
+
+Trata-se de circunstâncias que indicam que o apenado não possui mérito para a obtenção do benefício, não se podendo considerar adimplida a exigência do bom comportamento carcerário.
+
+Nesse sentido, observando-se o histórico prisional do recorrente, observa-se que não há como considerar que apresentou comportamento carcerário condizente com o benefício que pleiteia, não demonstrando o grau de compromisso e ressocialização exigidos para o deferimento da benesse.
+
+Em face do exposto, conheço do recurso e lhe NEGO PROVIMENTO.
+
+É como voto.
+
+Desembargador Arnaldo Corrêa Silva
+
+Relator
+
+O Senhor Desembargador SILVANIO BARBOSA DOS SANTOS - 1º Vogal Com o relatorO Senhor Desembargador JAIR SOARES - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO. UNÂNIME.
