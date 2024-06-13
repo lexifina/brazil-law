@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por EDEON ALVES DOS SANTOS, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Mato Grosso assim ementado (e-STJ, fl. 667):
+AGRAVO INTERNO - PRETENSÃO AO RECEBIMENTO DEINDENIZAÇÃO POR ACIDENTE CONTRATO DE SEGURO EM GRUPO - EXCLUSÃO EXPRESSA DE COBERTURA PARA AS HIPÓTESES DE INVALIDEZ DECORRENTE DE DOENÇA - AUSÊNCIA EXPRESSA DE COBERTURA - AUSÊNCIA DE NOVOS ELEMENTOS QUE POSSAM JUSTIFICAR A MODIFICAÇÃO DA DECISÃO AGRAVADA - RECURSO DESPROVIDO.
+Havendo clausula contratual expressamente excluindo, de forma clara, a cobertura securitária para casos de invalidez decorrente de doença, cuja situação não se enquadra na hipótese de cobertura decorrente de invalidez por acidente não há como acolher a pretensão recursal.
+À míngua de novos elementos que possam modificar a decisão o agravo interno deve ser desprovido.
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 6º, III, 46, 47 e 51, IV, do CDC; e 757 do CC.
+Esclareceu que se opôs ao acórdão por interpretar o contrato de forma desfavorável ao consumidor, reformando a sentença, desconsiderando totalmente que o problema de saúde do insurgente é decorrente do trabalho, sendo configurado o acidente de trabalho por equiparação.
+Destacou que o julgado deve ser modificado, tendo em vista que a lesão ocupacional é equiparada a acidente de trabalho para todos os fins, dando-se assim interpretação mais favorável ao consumidor, conforme determina CDC.
+Afirmou ser obrigatória a equiparação da lesão ocupacional a acidente de trabalho, concedendo-se ao recorrente a cobertura para o caso de invalidez permanente por acidente, pois todo o alegado na inicial foi devidamente comprovado.
+Enfatizou-se que o contrato de seguro está submetido às normas consumeristas, de sorte que suas cláusulas devem ser interpretadas em benefício do consumidor. Requereu o provimento do recurso especial (e-STJ, fls. 668-687).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 732-730).
+Contraminuta apresentada (e-STJ, fls. 737-748).
+Brevemente relatado, decido.
+O acórdão concluiu pela ausência de cobertura securitária para o problema de saúde enfrentado pelo segurado, ora insurgente. Constatou-se, pela análise fático-probatória e interpretação de termos contratuais, inclusive relatórios médicos acostados aos autos pelo próprio autor da demanda, que a lesão que o acometia não é decorrente de acidente de trabalho, mas sim de doença incapacitante.
+Nesse cenário, firmou-se não poder ser enquadrado problema de saúde para efeito de recebimento de indenização securitária, mesmo porque há cláusula contratual expressa excluindo doenças incapacitantes na apólice de seguros.
+Leia-se (e-STJ, fls. 652-658):
+Quanto a seguradora sustenta que a invalidez do Apelante é decorrente de doença e a apólice é expressa quanto a cobertura de invalidez decorrente de acidente, não havendo cobertura para a pretensão do autor.
+Constata-se da análise dos relatórios médicos acostados aos autos pelo próprio autor da demanda que a lesão que o acomete não é decorrente de acidente de trabalho mas de doença incapacitante, não podendo assim ser enquadrada para efeito de recebimento de indenização securitária, mesmo porquê há cláusula contratual expressa excluindo doenças incapacitantes na apólice de seguros.
+Pelo que ressai do contrato de seguro o fato é que o Apelante não contratou a garantia de invalidez funcional permanente decorrente de doença, restando evidente na cláusula4 GARANTIAS CONTRATADAS a cobertura por morte, invalidez permanente total ou parcial por acidente (IPA), de até 100% da cobertura por morte.
+No caso, como visto, a invalidez do Apelante é decorrente de doença e, ainda que afirme que é originária das atividades que desempenha em seu trabalho, o fato é que a apólice não possui cobertura para a hipótese de invalidez decorrente de doença, mas sim invalidez decorrente de acidente oque não é o caso retratado nos autos.
+Ademais, o contrato deixa bem claro a definição do que estaria enquadrado como acidente pessoal para fins de exclusão de cobertura esclarecendo o seguinte no item 2.1
+ ..
+Diante desse quadro os relatórios médico apresentados pelo autor apontam a existência de lesão ocasionada ao Apelante decorrente de doença, assim, a despeito do infortúnio que acometeu o segurado, todavia, conforme já visto, há cláusula contratual expressa excludente da cobertura securitária no caso em análise, restando evidenciado que a doença da qual é acometido o Apelante que o levou a invalidez permanente parcial não se enquadra como acidente pessoal para fins da cobertura contratual.
+Com efeito, o contexto fático-probatório jungido aos autos, comprava que o seguro ao qual aderiu o Apelante, trata-se de uma apólice relativa a seguro de invalidez permanente por acidente, ou seja, a cobertura somente pode acontecer quando a causa da invalidez for decorrente de acidente e, não doença, que é o caso dos autos, uma vez que a incapacidade do autor decorreu de doença adquirida e não foi originária de acidente, para cujo evento havia cobertura securitária.
+Dessa forma, o Apelante não comprovou os fatos constitutivos do seu direito no pertinente a cobertura securitária relacionada ao seu quadro clínico na forma do artigo 373, inciso do Código de Processo Civil, in verbis:
+ ..
+Neste passo forçoso concluir que em que pesem os argumentos elencados pelo Apelado a sua condição de invalidez decorrente de doença não está albergada pela cobertura securitária de modo que a sentença merece ser reformada.
+Portanto, dou provimento ao recurso interposto pela CHUBB Seguros Brasil S/A, atual denominação da ACE
+Seguradora S/A, para via de consequência julgar improcedente a Ação de Cobrança Securitária ajuizada pelo Apelado.
+Dessa forma, estabeleceu-se que a apólice não possui cobertura para a hipótese de invalidez decorrente de doença, mas sim invalidez decorrente de acidente de trabalho, o que não é o caso retratado nos autos; bem como está evidenciada a clareza das previsões contratuais.
+É caso de aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional. O demandante não busca a simples qualificação jurídica desse quadro, mas sua reapreciação, o que é vedado a esta Corte Superior.
+O teor do arts. 46, 47 e 51, IV, do CDC não foi objeto de apreciação no julgamento estadual, carecendo do devido prequestionamento - Súmulas 282 e 356/STF. O recorrente não opôs embargos de declaração objetivando suprir eventual omissão sobre essa questão nem, consequentemente, alegou ofensa ao art. 1.022 do CPC no recurso especial, logo não cabe falar em aplicação da tese do prequestionamento ficto (art. 1.025 do CPC).
+A título ilustrativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO A RECURSO COM APOIO EM TESE FIRMADA EM PRECEDENTE QUALIFICADO. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. PREQUESTIONAMENTO FICTO. TESE DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não cabe Agravo em Recurso Especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão.
+Precedentes.
+3. Conforme pacífico entendimento jurisprudencial sedimentado nas Súmulas 211 do STJ e 282 do STF, não se conhece de recurso especial, na hipótese em que a matéria recursal não foi prequestionada, ao tempo em que o prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, está condicionado à tese de violação do art. 1.022 do CPC/2015, ausente no caso dos autos. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.382.668/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da causa, observada eventual gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PRETENSÃO INDENIZATÓRIA. CARÊNCIA DE PREVISÃO CONTRATUAL NO CONTRATO DE SEGURO. INVIABILIDADE DE FIXAÇÃO DE INDENIZAÇÃO SECURITÁRIA. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
