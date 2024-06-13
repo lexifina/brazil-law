@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (fl. 142):
+PREVIDENCIÁRIO. REVISÃO DE BENEFICIO. ATRASO NA CONCESSÃO DO BENEFICIO. FIXAÇÃO DA DATA DE INICIO MAIS FAVORÁVEL PARA O SEGURADO. CONSECTÁRIOS.
+1. Uma vez descumprido pelo INSS o prazo do art. 49 da Lei 9.784/99, surge para o segurado o direito de pleitear que a data de inicio do beneficio seja fixada da forma que mais lhe favoreça, sendo, no caso, a data da decisão que determinou a concessão do benefício.
+2. Juros de mora e correção monetária sobre as parcelas vencidas de acordo com os critérios de atualização e de juros estabelecidos no 1º-F da Lei 9.494/97, na redação da Lei 11.960/2009.
+3. Isenção de custas processuais, nos termos da lei.
+4. Honorários advocatícios fixados em 10% (dez por cento) sobre o valor das parcelas em atraso (Súmula 111 do STJ e § 40 do art. 20 do CPC).
+5. Apelação a que se dá provimento.
+Opostos embargos de declaração, foram parcialmente acolhidos (fl. 154)
+Aponta o recorrente violação aos arts. 49, I, "b" e 54 da Lei 8.213/91, sustentando que "da simples leitura dos dispositivos se conclui que a aposentadoria é devida desde a data do requerimento administrativo, quando o segurado não tenha se desligado do emprego, como é o caso dos autos. Tendo o autor requerido o benefício em 12/11/1992, a aposentadoria por tempo de contribuição é devida desde então, tendo sido correta a fixação dessa DIB pelo INSS" (fl.161) .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida
+Isso porque, o entendimento firmado no acórdão recorrido está em harmonia com a jurisprudência deste Superior Tribunal, que reconhece que os efeitos financeiros do direito ao melhor benefício retroagem à data da concessão, em razão de já estarem preenchidos, naquele momento, os requisitos para sua obtenção, observando-se, entretanto, a prescrição quinquenal.
+Nesse sentido, anote-se, o seguinte julgado:
+PROCESSO CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS EM ESPÉCIE. APOSENTADORIA. CONVERSÃO. ENTENDIMENTO FIRMADO POR JURISPRUDÊNCIA DO STJ. TERMO INICIAL. TEMPO ESPECIAL. MELHOR BENEFÍCIO.
+I - Trata-se, na origem, de ação ordinária objetivando transformar aposentadoria por tempo de contribuição em aposentadoria especial, pleiteando, também, a revisão do benefício de aposentadoria por tempo de contribuição sem incidência do fator previdenciário, declarando incidentalmente a inconstitucionalidade dos arts. 2º e 3º da Lei n. 9.876/99 ou sua aplicação proporcional apenas ao período de tempo de serviço comum. Na sentença, julgou-se parcialmente procedente o pedido para condenar a autarquia previdenciária a transformar o benefício de aposentadoria por tempo de contribuição em aposentadoria especial, recalculando a renda mensal inicial nos termos da legislação vigente na época de sua concessão. No Tribunal a quo, a sentença foi mantida. Nesta Corte, foi dado provimento ao recurso especial para fixar o termo inicial dos efeitos financeiros da revisão do benefício à data do primeiro requerimento administrativo, respeitando-se a prescrição quinquenal.
+II - A presente controvérsia refere-se à fixação do termo inicial dos efeitos financeiros de revisão de benefício previdenciário de aposentadoria por tempo de contribuição para aposentadoria especial, dada a inclusão de tempo especial. Quanto ao tema, o Superior Tribunal de Justiça firmou entendimento segundo o qual o termo inicial dos efeitos financeiros decorrentes de situação jurídica consolidada em momento anterior deve retroagir à data da concessão do benefício, porquanto o deferimento de tais verbas representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado. Nesse sentido são os seguintes julgados, in verbis: REsp 1.502.017/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 4/10/2016, DJe 18/10/2016; REsp 1.555.710/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 24/5/2016, DJe 2/9/2016.
+III - No presente caso, o mesmo raciocínio merece ser aplicado, porquanto, na data do requerimento administrativo de concessão do benefício, o segurado já havia incorporado ao seu patrimônio o direito ao reconhecimento e inclusão do tempo especial, fazendo jus ao melhor benefício, ainda que tal tempo de trabalho somente tenha sido reconhecido após demanda judicial.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.751.741/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/11/2019, DJe de 18/11/2019.)
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
