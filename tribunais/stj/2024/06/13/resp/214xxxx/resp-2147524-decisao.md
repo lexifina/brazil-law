@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por CONSTRUTORA LIX DA CUNHA S/A, contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 3ª Região, assim resumida (fl. 496e):
+CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÃO AOINCRA. EMBARGOS À EXECUÇÃO FISCAL. ABONOPECUNIÁRIO DE FÉRIAS, FÉRIAS PROPORCIONAIS, TERÇOCONSTITUCIONAL DE FÉRIAS E AUXÍLIO-DOENÇA NOSPRIMEIROS 15 DIAS DE AFASTAMENTO. MULTA DE MORA. VERBA HONORÁRIA.
+Opostos embargos de declaração, foram rejeitados (fls. 560/566e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, a aplicação retroativa da lei mais benéfica.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Controverte-se acerca do percentual de multa moratória aplicável ao lançamento de ofício após a alteração do art. 35 da Lei n. 8.212/91 pela Lei n. 11.941/09 que, ao incluir o art. 35-A naquele diploma normativo, determinou a observância do parâmetro mais gravoso do art. 44 da Lei n. 9.430/96, qual seja, de 75% (setenta e cinco por cento).
+Esta Corte possui entendimento segundo o qual deve ser observado o percentual original da multa moratória previsto no art. 35 da Lei n. 8.212/91, porquanto as ulteriores disposições do art. 35-A cominam penalidade mais severa, autorizando a aplicação do preceito anterior, mais benéfico, a teor do disposto no art. 106, II, c, do CTN. (REsp 1585929/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016); (AgRg no REsp 1.343.805/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/12/2012, DJe 13/12/2012).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Posto isso, com fundamento no art. 932, V, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, CONHEÇO E DOU PROVIMENTO ao Recurso Especial, para para fixar o percentual da multa moratória em 20% (vinte por cento).
+Publique-se e intimem-se.
+EMENTA
