@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FUGINI ALIMENTOS LTDA. e CRISTALINA ALIMENTOS LTDA. contra decisão monocrática de relatoria da Ministra Presidente do STJ que conheceu do agravo para não conhecer do recurso especial em razão da Súmula n. 284/STF (fls. 372-374).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 284):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO DE DANOS MORAIS. DIREITO DO CONSUMIDOR. FATO DO PRODUTO. ALIMENTO IMPRÓPRIO PARA O CONSUMO. INTOXICAÇÃO ALIMENTAR.
+RESPONSABILIDADE OBJETIVA DAS FABRICANTES. EXCLUDENTES NÃO COMPROVADAS. INVERSÃO O ÔNUS DA PROVA. DANO MORAL CONFIGURADO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+SENTENÇA MANTIDA.
+Sem embargos de declaração.
+Nas razões do agravo interno, alega a agravante que "as alegações apresentadas no recurso, demonstrou exatamente os apontamentos da lei ordinária ofendida, acerca das matérias levadas a conhecimento" (fl. 379).
+Aduz, nesse sentido, que não deve prosperar a Súmula n. 284/STF, pois o recurso possui fundamentação apta para a compreensão a controvérsia.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, silenciou (fls. 393-396).
+É, no essencial, o relatório.
+Assiste razão à agravante quanto à alegação de que o recurso possui fundamentação apta para a compreensão da controvérsia, a despeito da ausência de indicação do dispositivo constitucional autorizador da interposição do presente especial.
+A jurisprudência da Corte Especial do STJ firmou-se no sentido de que:
+ ..  a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento. (EAREsp 1.672.966/MG, rel. Ministra Laurita Vaz, Corte Especial, DJe de 11/5/2022.)
+Assim, reconsiderada a decisão que não conheceu do agravo em recurso especial, passa-se à análise dos demais requisitos de admissibilidade recursal.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Quanto à inversão do ônus probatório, o acórdão recorrido fez constar que (fl. 291):
+ ..  a questão pertinente à inversão do ônus da prova foi objeto de análise prévia pelo magistrado primevo na decisão saneadora proferida no movimento 61, da qual se destaca os seguintes excertos:
+ ..
+Desse modo, o mencionado pronunciamento judicial não foi objeto do recurso adequado pelas insurgentes, o que torna a rediscussão da matéria impossível nesse momento processual em razão da preclusão consumativa (artigo 507 do Código de Processo Civil).
+Diante desse cenário, sendo o ônus probatório das fabricantes diretriz que emana da própria lei, e foi reconhecida em decisão interlocutória não recorrida, dela se esperava um padrão de diligência processual mínimo tendente a instruir os autos com elementos que servissem de contraponto aos fatos anunciados pelos consumidores, como juntada de informações técnicas do produto, ou requerimento de provas aptas a repercutir no convencimento do magistrado.
+Como se vê, o acórdão recorrido não analisou a questão referente ao ônus da prova ante a ocorrência da preclusão.
+Nas razões do recurso especial, os recorrentes limitaram-se a alegar violação dos arts. 371 do CPP, 373 do CPC e 6º, inciso VIII, do CDC, sem, contudo, combater o principal fundamento do acórdão recorrido, qual seja, a preclusão, o que atrai a incidência da Súmula n. 83 do STF.
+Nos termos da jurisprudência pacífica desta Corte, "a ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal" (AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024).
+Com relação à comprovação do dano experimentado pelos agravados e o nexo de causalidade entre a conduta e o dano, a decisão restou assim fundamentada (fl. 292):
+Com efeito, o que se nota é que as apelantes não conseguiram demonstrar que o produto consumido pelos autores/apelados não estava estragado, ou que não teria ocasionado neles intoxicação alimentar.
+Por sua vez, as recorrentes afirmam que dada a forma em que se dá a linha de produção dos seus molhos de tomates, não é possível que elas possam ser vendidas em más condições de ingestão, conforme fluxograma e descrição do processo, bem como o laudo técnico juntados aos autos.
+Ocorre que as referidas evidências não são hábeis a comprovar que os procedimentos técnicos que as insurgentes adotaram para fabricação dos produtos ingeridos pelos autores, não pudessem desaguar em eventuais lotes de molhos impróprios para o consumo.
+Dessa feita, não há de prevalecer a tese de que o defeito no produto adquirido e consumido pelos recorridos é inexistente, especialmente quando não foi produzida prova suficiente para abalar os alicerces que sustentam a responsabilidade objetiva das fornecedoras pelos danos causados aos consumidores.
+ ..
+Logo, a simples presença do referido corpo estranho, conforme documentado por fotos nos presentes autos já evidência a violação à efetiva proteção da dignidade da pessoa humana, constitucionalmente garantida (artigo 1º, inciso III, da Constituição Federal), como já reconheceu a própria Corte de Cidadania,
+Assim, diante dos trechos acima destacados, observa-se que o Tribunal de origem decidiu conforme as provas colacionadas aos autos, de modo que julgar em sentido contrário demanda a necessária incursão na seara fátic0-probatória, o que é vedado pelo óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL . PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. FATO DO PRODUTO. VEÍCULO. DANOS MATERIAIS E MORAIS. PESSOA JURÍDICA. DANO MORAL. HONRA SUBJETIVA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DECADÊNCIA. INAPLICABILIDADE. PRESCRIÇÃO. PRAZO QUINQUENAL. ART. 27 DO CÓDIGO DE DEFESA DO CONSUMIDOR. FATO DO PRODUTO. DANOS. NEXO DE CAUSALIDADE. LUCROS CESSANTES. COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento, até mesmo de modo implícito, das teses e dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+3. Não há falar em decadência pelo transcurso do prazo nonagesimal de que trata o art. 26, inciso II, do Código de Defesa do Consumidor quando a causa de pedir eleita pela parte autora desborda da simples pretensão de reclamar da existência de vício do produto, consubstanciando, em verdade, pleito de reparação por danos materiais e morais decorrentes da prática de ilícito civil. Em se tratando de ação de reparação de danos causados por fato do produto ou serviço, aplica-se o prazo prescricional quinquenal do art. 27 do diploma consumerista.
+4. Na hipótese, rever as conclusões do aresto impugnado acerca da responsabilidade da agravante pelo fato do produto e da comprovação dos danos, do nexo de causalidade e dos lucros cessantes demandaria o reexame fático-probatório dos autos, encontrando óbice na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.014.001/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+RECURSO ESPECIAL. CONSUMIDOR. DECADÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. RESPONSABILIDADE PELO VÍCIO DO PRODUTO. RESPONSABILIDADE PELO FATO DO SERVIÇO. SOLIDARIEDADE. CONFIGURAÇÃO. VÍCIO DO PRODUTO. CARACTERIZAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. SUBSTITUIÇÃO DO PRODUTO POR OUTRO DA MESMA ESPÉCIE. PRODUTO NOVO. ALIENAÇÃO A TERCEIROS. CONVERSÃO EM PERDAS E DANOS. POSSIBILIDADE.
+1- Recurso especial interposto em 24/6/2021 e concluso ao gabinete em 3/2/2022.
+2- O propósito recursal consiste em determinar: a) se está caracterizada a decadência do direito do consumidor de pleitear a substituição do produto, o abatimento proporcional do preço ou a restituição da quantia paga; b) se a responsabilidade da recorrente é subsidiária, por se tratar de comerciante; c) se a mera existência de vício do produto não reparado no prazo de 30 dias, mas que não o torna impróprio ou inadequado ao consumo a que se destina ou que não lhe diminua o valor, confere ao consumidor direito a exercer as prerrogativas previstas no § 1º, do art. 18, do CDC; e d) o valor a ser restituído ao consumidor tendo em vista a utilização do veículo por determinado lapso de tempo e sua alienação a terceiro.
+3- No que diz respeito à tese relativa à decadência, tem-se, no ponto, inviável o debate, porquanto não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+4- Na hipótese dos autos, se está, a um só tempo, diante de responsabilidade pelo vício do produto e de responsabilidade pelo fato do serviço, de modo que não há como afastar a responsabilidade da parte recorrente, porquanto, de acordo com a sistemática adotada pelo CDC, em ambas as hipóteses, há a responsabilidade solidária entre todos os fornecedores, sem qualquer distinção relativa ao comerciante.
+5- O acolhimento da tese sustentada pela parte recorrente, no sentido de que não estaria caracterizado vício do produto, derruindo a conclusão a que chegou o Tribunal a quo, demandaria o revolvimento do arcabouço fático-probatório acostado aos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+6- Na hipótese de responsabilidade pelo vício, a substituição do produto "por outro da mesma espécie" - prevista no inciso I, do §1º, do art. 18, do CDC - implica a substituição por outro produto novo na data da substituição.
+7- Ocorrendo a alienação do produto viciado, a restituição da quantia paga prevista no inciso II, § 1º, do art. 18, do CDC, deverá corresponder à diferença entre o valor de um produto novo na data da alienação a terceiros e o valor recebido nesta transação.
+8- Recurso especial parcialmente conhecido e, nesta extensão, não provido.
+(REsp n. 1.982.739/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+Ante o exposto, reconsidero a decisão de fls. 372-374 e conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO EXPRESSA DO PERMISSIVO CONSTITUCIONAL EM QUE SE FUNDA O RECURSO ESPECIAL. COMPREENSÃO DA CONTROVÉRSIA. NÃO INCIDÊNCIA DA SÚMULA N. 284 DO STF. RECONSIDERAÇÃO. INVERSÃO DO ÔNUS DA PROVA. PRECLUSÃO. FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. RESPONSABILIDADE PELO VÍCIO DO PRODUTO. COMPROVAÇÃO DO DANO. NEXO DE CAUSALIDADE. REVISÃO. SÚMULA N. 7/STJ. RECONSIDERAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
