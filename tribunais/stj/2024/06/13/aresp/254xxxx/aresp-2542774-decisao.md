@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE CUMPRIMENTO DE CLÁUSULA CONTRATUAL E NULIDADE DE CLÁUSULA ABUSIVA, C/C DANOS MORAIS. PEDIDO DE RECONHECIMENTO DE SENTENÇA EXTRA PETITA PREJUDICADO. ATRASO NA ENTREGA DO IMÓVEL COMPROVADO. CLÁUSULA PENAL MORATÓRIA QUE REMUNERA ADEQUADAMENTE PELO VALOR DO LOCALTIVO. IMPOSSIBILIDADE DE CUMULAÇÃO COM LUCROS CESSANTES. TEMA 970/STJ. BASE DE CÁLCULO DA MULTA EXPRESSAMENTE PACTUADA. REFERÊNCIA AO VALOR TOTAL DO NEGÓCIO JURÍDICO. MANUTENÇÃO DA CONDENAÇÃO DE DANOS MORAIS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O descumprimento contratual pela parte apelante pode ser comprovado quando, da análise dos documentos acostados aos autos, percebe-se que o prazo de entrega das chaves do imóvel, já contabilizado o período de tolerância, encerrou-se em setembro de 2010, porém o "habite-se" somente foi outorgado no mês junho de 2012.
+2. Nos termos do Tema 970/STJ, quando estabelecida cláusula penal moratória em valor equivalente ao locativo, como é o caso dos autos, afasta-se a sua cumulação com lucros cessantes.
+3. Não há fundamentos para alteração da base de cálculo da indenização nas hipóteses em que os litigantes estabeleceram contratualmente parâmetro válido, in casu, o valor total do negócio jurídico.
+4. A desproporcionalidade na demora da entrega de unidade imobiliária enseja reparação à título de danos morais em montante condizente com a sua finalidade compensatória, a extensão do dano experimentado e o grau de culpabilidade do agente.
+5. Apelação cível conhecida e parcialmente provida.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do especial, a parte agravante alega negativa de vigência dos arts. 332, 416, parágrafo único, 476, 478, 479, 491, 844 e 944 do Código Civil e 52 da Lei nº 4.591/64.
+Argumenta, em síntese, que foram contrariados os "artigos 332, 476, 491 e 884 do Código Civil e 52 da Lei nº 4.591/64 - ao conceder multa compensatório, correspondente a aluguéis despendidos pelo Recorrido, sem que ele tivesse direito ao recebimento do imóvel, porque não havia quitado seu preço, o v. acórdão violou o direito de retenção da unidade até a quitação do saldo do preço" (fl. 365).
+Defende que os "artigos 478, 479, 884 e 944 do Código Civil - ao arbitrar indenização por multa com base no valor integral do imóvel o acórdão (desproporcional e sem razoabilidade) contribuiu para o odioso instituto do enriquecimento ilícito, já que até o termo final da mora da Recorrente, o Recorrido apenas não havia integralizado o valor do imóvel previsto no contrato (R$ 121.688,00), estando inadimplente" (fl. 365).
+Afirma que: "Contudo, desde a Contestação, a Recorrente demonstra que o Recorrido não faria jus ao recebimento de multa considerando o valor integral do contrato, na medida em que não fazia jus ao recebimento do imóvel prometido à venda, porque não havia quitado integralmente o saldo do preço" (fl. 371).
+Sustenta que: "Desta forma, se o Recorrido não efetuou o pagamento integral das suas obrigações contratuais, não poderia a Recorrente ser obrigada a cumprir sua respectiva parte no negócio (entrega da unidade), nem tampouco resultado prático equivalente (multa compensatória), sob pena de violação ao artigo 476 do Código Civil" (fl. 373).
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, a Corte de origem, ao julgar a causa, deixou registrado o seguinte no acórdão recorrido (fl. 310 e- STJ):
+Ademais, tenho que as partes, por meio do instrumento contratual objeto da presente lide, estabeleceram expressamente cláusula penal moratória (cláusulas 5.4 e 5.5 do contrato) para o caso de "atraso da OUTORGANTE no cumprimento de sua obrigação de entregar a unidade ao(à.s) OUTORGADO(A.S) até a data aprazada (..)", pelo que fixaram a indenização no valor de 1% (um por cento) ao mês, sobre o valor previsto na letra "d" do Quadro Resumo, à saber, o preço total pactuado para a venda e compra, R$ 121.688,00 (cento e vinte e um mil, seiscentos e oitenta e oito reais).
+Assim, por entender que o supracitado patamar de indenização à título de cláusula penal moratória, fixado contratualmente pelos litigantes, corresponde ao justo valor do locativo, deve ser afastada a sua cumulação com condenação em lucros cessantes.
+Na hipótese, constato que a Corte estadual entendeu que: "Desta feita, merece provimento o recurso, neste particular, para que seja afastada a condenação em lucros cessantes imposta na sentença de primeiro grau, diante da impossibilidade de sua cumulação com cláusula penal moratória que corresponda ao valor do locativo" (fl. 311).
+Observo que a revisão desse entendimento, no caso, demandaria uma investigação dos elementos informativos do processo e outra análise das cláusulas contratuais pactuadas entre as partes, a encontrar o óbice de que tratam os enunciados 5 e 7 das Súmulas desta Casa.
+Ademais, observo que o entendimento prolatado pelo Tribunal de origem está em sintonia com a jurisprudência desta Corte.
+A propósito, veja-se o seguinte julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. CLÁUSULA PENAL MORATÓRIA. NATUREZA MERAMENTE INDENIZATÓRIA, PREFIXANDO O VALOR DAS PERDAS E DANOS. PREFIXAÇÃO RAZOÁVEL, TOMANDO-SE EM CONTA O PERÍODO DE INADIMPLÊNCIA. CUMULAÇÃO COM LUCROS CESSANTES. INVIABILIDADE.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.
+2. No caso concreto, recurso especial não provido.
+(REsp n. 1.635.428/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/5/2019, DJe de 25/6/2019.)
+Assim, incide a Súmula 83 desta Corte, no ponto.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
