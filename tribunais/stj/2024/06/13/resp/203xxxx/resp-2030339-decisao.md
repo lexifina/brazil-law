@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto por PALADAR COMERCIAL DE ALIMENTOS LTDA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA assim ementado (fl. 94):
+Processo Civil. Execução Fiscal. Prescrição intercorrente reconhecida. Honorários sucumbenciais em favor do devedor. Descabido. Recurso não provido.
+1. Declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação.
+2. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente.
+3. Recurso que se nega provimento.
+A questão debatida no caso concreto , qual seja, "definir se é cabível a condenação ao pagamento de honorários advocatícios na exceção de pré-executividade acolhida para extinguir a execução fiscal, ante o reconhecimento da prescrição intercorrente, prevista no art. 40 da Lei n. 6.830/1980", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.229/STJ), dos Recursos Especiais 2.046.269/PR, 2.050.597/RO e 2.076.321/SP, de relatoria do Ministro Gurgel de Faria.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
