@@ -1,0 +1,81 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Primeira Turma do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 102, pp. 5-7):
+
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO. PRELIMINAR DE CERCEAMENTO DE DEFESA. AFASTAMENTO. CONCURSO PÚBLICO. CARGO PÚBLICO DE ANALISTA JUDICIÁRIO-ÁREA JUDICIÁRIA. COTAS RACIAIS. PROCEDIMENTO DE AFERIÇÃO DA VERACIDADE DE AUTODECLARAÇÃO (HETEROIDENTIFICAÇÃO), COM BASE NO FENÓTIPO. LEGALIDADE. AUSÊNCIA DE MOTIVAÇÃO QUANTO AO NÃO ENQUADRAMENTO DO CANDIDATO NO FENÓTIPO DE PESSOA NEGRA/PARDA. ILEGALIDADE. REALIZAÇÃO DE NOVO PROCEDIMENTO DE HETEROIDENTIFICAÇÃO. APELAÇÃO PROVIDA. INVERSÃO DO ÔNUS DE SUCUMBÊNCIA.
+
+     1. Trata-se de apelação interposta por FRANCISCO HENRIQUE MENEZES DE SANTANA contra sentença proferida pelo Juízo da 1ª Vara Federal da Seção Judiciária de Pernambuco que julgou improcedente o pedido inicial, extinguindo o processo com resolução de mérito, nos termos do art. 487, I, do CPC. Condenação da parte autora ao pagamento de honorários advocatícios, arbitrados em R$ 2.000,00 (dois mil reais), na forma do art. 85, § 8º, do CPC, ante o reduzido valor da causa.
+
+    2. No tocante à preliminar de nulidade da sentença suscitada pelo apelante em razão da não realização da inspeção judicial para fins de "melhor avaliar o seu caráter fenótipo", esta alegação não merece prosperar. É cediço que prevalece tanto na doutrina como na jurisprudência o entendimento de que incumbe ao julgador examinar a necessidade e a conveniência de realização de provas, eis que é o juiz o destinatário da mesma. Esta discricionariedade decorre dos poderes instrutórios e de direção do magistrado, com previsão nos artigos 370 e 371 do CPC/15. Ademais, a incursão do Judiciário a respeito da fenotipia do candidato implicaria adentrar no mérito administrativo, o que é vedado pelo ordenamento jurídico . Por fim, afasta-se a aludida preliminar uma vez que as provas constantes no processo são suficientes para o deslinde da controvérsia dos autos como se demonstrará adiante.
+
+    3. No caso dos autos, o recorrente participou do Concurso Público para provimento de cargos na Sede do Tribunal Regional Federal da 5ª Região e nas Seções Judiciárias dos Estados de Pernambuco, Ceará, Rio Grande do Norte, Paraíba, Alagoas e Sergipe, concorrendo dentro das vagas destinadas aos candidatos negros/pardos e da ampla concorrência para o cargo público de Analista Judiciário-Área Judiciária, com lotação na sede do TRF5, que disponibilizou apenas cadastro de reserva. O recorrente foi aprovado na segunda colocação nas vagas reservadas aos candidatos cotistas e na posição 39 no rol de ampla concorrência, sendo convocado para realização do procedimento de aferição da veracidade da autodeclaração (heteroidentificação) como pessoa negra/parda. Todavia, nesta etapa do certame, a Banca Examinadora, em decisão unânime, não considerou o candidato como pessoa negra/parda, indeferindo sua autodeclaração, o que ensejou a eliminação do autor da lista dos cotistas. Inconformado, interpôs recurso administrativo, o qual manteve o indeferimento.
+
+    4. O cerne da questão diz respeito à ocorrência de ilegalidade no procedimento de aferição da veracidade de autodeclaração, com base no fenótipo, que não considerou o candidato como pessoa de etnia negra/ parda/, configurando uma violação aos princípios que regem a Administração Pública.
+
+     5. O Edital é o instrumento que estabelece as regras a serem observadas pela Administração Pública e pelos candidatos a fim de que o acesso aos cargos/empregos públicos seja concretizado da maneira mais isonômica possível, observando-se ao longo da realização do certame os princípios que regem a Administração Pública como dispõe o caput do art. 37 da Carta Maior.
+
+    6. O Supremo Tribunal Federal, em decisão plenária unânime, no julgamento da ADC nº. 41/DF, declarou que ‘é constitucional a reserva de 20% das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública direta e indireta’, estabelecida pela lei nº 12.990/2014, fixando ainda que ‘é legítima a utilização, além da autodeclaração, de critérios subsidiários de heteroidentificação, desde que respeitada a dignidade da pessoa humana e garantidos o contraditório e a ampla defesa’, possibilitando que a Administração Pública adote um controle heterônomo, sobretudo quando existirem fundadas razões para acreditar que houve abuso na autodeclaração. Assim, a exigência de autodeclaração presencial perante a comissão do concurso, prevista no edital, não se mostra arbitrária. [ADC 41, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 08/06/2017, PROCESSO ELETRÔNICO DJe-180 DIVULG 16-08-2017 PUBLIC 17-08-2017].
+
+    7. Observa-se que o subitem 2.1 do Edital dispõe expressamente que ‘A autodeclaração terá validade somente para este Concurso’. Adiante, o subitem 12.1 informa que "A avaliação da Comissão de Avaliação quanto à condição de pessoa negra levará em consideração em seu parecer a autodeclaração firmada no ato de inscrição no concurso público e os critérios de fenotipia do candidato ". Por fim, o subitem 12.4 esclarece que ‘Será considerado negro o candidato que assim for reconhecido por pelo menos um dos membros da comissão avaliadora’. Assim, o Edital publicado foi expresso sobre o procedimento de aferição de autodeclaração, estabelecendo que o critério objetivo de avaliação é o fenótipo (aparência), que corresponde a aspectos da textura do cabelo, traços fisionômicos (nariz, espessura de lábios, orelhas), tonalidade da pele, não se observando nenhuma ilegalidade nesta previsão. Ressalte-se também que considerar apenas a autodeclaração acarretaria o desvirtuamento do instituto de cotas raciais, já que é sabido que a população brasileira é miscigenada , sendo pouco provável que um brasileiro não tenha em sua genealogia ancestrais negros, afastando-se, no caso, os critérios de ancestralidade e consanguinidade .
+
+    8. Todavia, na análise do parecer elaborado pela Comissão de Heteroidentificação, constata-se que os membros não apresentaram as razões pelas quais o apelante não se enquadra como pessoa negra/parda, limitando-se apenas em atestar que a declaração não foi ‘confirmada’. Por sua vez, a resposta do recurso administrativo declara que ‘Tendo em vista o disposto na Resolução nº 203/2015 do Conselho Nacional de Justiça, os critérios utilizados pela Comissão levaram em conta o fenótipo do candidato , conforme Edital nº 01/2017 de Abertura de Inscrições. Quanto as informações sobre a raça ou cor do candidato contidas em documentos, vale ressaltar que a Resolução e as normas do Edital não preveem que tais informações sejam consideradas. A autodeclaração, mesmo não corroborada pela Comissão de Verificação, não indica má-fé do candidato e nem qualquer tipo de discriminação negativa por parte da Comissão. Posto isto, consideradas as alegações do candidato e a reanálise das imagens feita pela Comissão, fica mantida a decisão’.
+
+    9. In casu , infere-se que não se exige que a motivação seja minuciosa, pormenorizada, mas deve haver uma fundamentação mínima, que, no caso concreto, não ocorreu, violando a Portaria Normativa do Ministério do Planejamento, Desenvolvimento e Gestão/Secretaria de Gestão de Pessoas nº 04/2018, que regulamenta o procedimento de heteroidentificação complementar à autodeclaração dos candidatos negros, para fins de preenchimento das vagas reservadas nos concursos públicos federais, nos termos da Lei n°12.990, de 9 de junho de 2014, visto que o art. 12 da aludida Portaria exige ‘parecer motivado’. Saliente-se ainda que o parecer colacionado aos autos pela FCC manteve o vício, já que permanece a ausência de motivação, além de ser extemporâneo .
+
+    10. Diante do exposto, a ausência de motivação comprova a nulidade do ato administrativo que eliminou o autor do rol de candidatos cotistas, visto que a Comissão de Heteroidentificação não demonstrou as razões que o afastam do fenótipo de pessoa preta/parda , com base em critérios fenotípicos, prejudicando o direito à ampla defesa e ao contraditório. Reitere-se que não se trata de análise detalhadamente criteriosa, mas é necessária uma exposição mínima de motivos. Entretanto, o vício formal da Administração não garante a nomeação automática do candidato. Dessa forma, o recorrente deve se submeter a novo procedimento de aferição da veracidade da autodeclaração (heteroidentificação) , que fundamente as razões que autorizam, ou não , seu reingresso no concurso dentro das vagas destinadas a pessoas negras/pardas, com base no critério fenotípico, de forma contemporânea .
+
+    11. Neste sentido, ‘cabe à comissão, portanto, detalhar os traços fenotípicos do candidato cuja análise foi levada em conta para a negativa do enquadramento. Não satisfaz o dever de motivar a mera afirmação de que o candidato não tem o fenótipo e que, portanto, não é negro ou pardo . Apenas com o detalhamento da análise fenotípica é possível ao candidato exercer adequadamente o direito ao contraditório (artigo 5º, inciso LV, Constituição Federal). [...] Em suma, se o controle de heteroidentificação não foi devidamente motivado, não houve a desconstrução da eficácia da autodeclaração (artigo 2º, Lei nº 12.990), devendo esta ser respeitada, com base na dignidade da pessoa humana e na necessidade de defesa do contraditório (ADC nº 41, STF). No presente caso, o ato de exclusão não foi devidamente motivado . [...] É dizer: não houve exposição objetiva e clara dos aspectos fenótipos não apresentados pelo autor para ser enquadrado na etnia negra ou parda. Sendo assim, o ato administrativo que decidiu pela não veracidade da autodeclaração da raça emitido pela autora é nulo por ausência de fundamentação " [TRF5 - Processo nº 08077627220184058101 - APELREEX - Primeira Turma - Relator Desembargador Federal Roberto Machado - Data do Julgamento: 23/04/2020]’.
+
+    12 . Apelação provida para determinar que o recorrente seja submetido a novo procedimento de aferição da veracidade da autodeclaração (heteroidentificação), ressaltando-se que a fundamentação deve ser apresentada de forma contemporânea. Inversão do ônus de sucumbência.”
+
+    Os embargos de declaração opostos foram rejeitados (eDOC 129).
+
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º, 5º e 37 da Constituição Federal.
+
+    Nas razões recursais, sustenta-se que (eDOC 141, pp. 16-17):
+
+    “Com efeito, ao desconstituir avaliação fenotípica legalmente realizada por Comissão de Heteroidentificação no bojo de concurso público, o TRF5 infringiu os princípios que norteiam a atuação judicante – elencados no dispositivo suscitado –, bem como o da isonomia (art. 5º da CF).
+
+    Afinal, essa Suprema Corte não permite a indevida ingerência do Poder Judiciário em ato administrativo proferido de maneira legal e sem abuso de poder, sobretudo no tocante a concursos públicos (Tema 485/STF). 17.-
+
+    De mais a mais, como exaustivamente explicado nas instâncias ordinárias, os mesmos critérios de avaliação foram indistintamente aplicados a todos os demais candidatos do mesmo certame, não havendo que se falar em tratamento diferenciado a esse ou aquele candidato, ainda mais na estreita via judicial.
+
+    É dizer que permitir nova entrevista com Comissão de Heteroidentificação gera situação de insegurança jurídica para os demais candidatos – e, em última instância, à própria Administração Pública (art. 37 da CF) em si, enquanto promovente do certame”.
+
+    O Tribunal a quo admitiu o recurso extraordinário (eDOC 155).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 102, pp. 2-4):
+
+    “O cerne da questão diz respeito à ocorrência de ilegalidade no procedimento de aferição da veracidade de autodeclaração, com base no fenótipo, que não considerou o candidato como pessoa de etnia negra/ parda/, configurando uma violação aos princípios que regem a Administração Pública.
+
+    O art. 37, inciso II, da Constituição estabelece que "a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração".
+
+    O Edital é o instrumento que estabelece as regras a serem observadas pela Administração Pública e pelos candidatos a fim de que o acesso aos cargos/empregos públicos seja concretizado da maneira mais isonômica possível, observando-se ao longo da realização do certame os princípios que regem a Administração Pública como dispõe o caput [1] do art. 37 da Carta Maior.
+
+    (...)
+
+    In casu , infere-se que não se exige que a motivação seja minuciosa, pormenorizada , mas deve haver uma fundamentação mínima, que, no caso concreto, não ocorreu, violando a Portaria Normativa do Ministério do Planejamento, Desenvolvimento e Gestão/Secretaria de Gestão de Pessoas nº 04/2018, que regulamenta o procedimento de heteroidentificação complementar à autodeclaração dos candidatos negros, para fins de preenchimento das vagas reservadas nos concursos públicos federais, nos termos da Lei n°12.990, de 9 de junho de 2014, visto que o art. 12 da aludida Portaria exige "parecer motivado". Saliente-se ainda que o parecer colacionado aos autos pela FCC manteve o vício, já que permanece a ausência de motivação, além de ser extemporâneo (Id. 4058300.9976597).
+
+    Diante do exposto, a ausência de motivação comprova a nulidade do ato administrativo que eliminou o autor do rol de candidatos cotistas, visto que a Comissão de Heteroidentificação não demonstrou as razões que o afastam do fenótipo de pessoa preta/parda , com base em critérios fenotípicos, prejudicando o direito à ampla defesa e ao contraditório. Reitere-se que não se trata de análise detalhadamente criteriosa, mas é necessária uma exposição mínima de motivos. Entretanto, o vício formal da Administração não garante a nomeação automática do candidato. Dessa forma, o recorrente deve se submeter a novo procedimento de aferição da veracidade da autodeclaração (heteroidentificação) , que fundamente as razões que autorizam, ou não , seu reingresso no concurso dentro das vagas destinadas a pessoas negras/pardas, com base no critério fenotípico, de forma contemporânea.”
+
+    Depreende-se da leitura dos fundamentos do acórdão recorrido, que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame das circunstâncias fático-probatórias constantes dos autos, bem como das normas editalícias aplicadas ao concurso, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA APROVADA NAS VAGAS DESTINADAS AOS NEGROS E PARDOS. SISTEMA DE COTAS. CRITÉRIOS DA AUTODECLARAÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DO EDITAL: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.200.804-AgR-segundo, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 25.11.2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SISTEMA DE COTAS. REGULARIDADE. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 887.799-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.11.2015).
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+
+    Publique-se.
+
+    Brasília, 13 de junho de 2024.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
