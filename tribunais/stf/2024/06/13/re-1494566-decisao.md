@@ -1,0 +1,37 @@
+Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado:
+
+    DIREITO PROCESSUAL CIVIL. RECURSO DE AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. JULGAMENTO PELO RELATOR. DECISÃO MONOCRÁTICA. DESENVOLVIMENTO, COM FUNDAMENTAÇÃO E DISPOSITIVO (PER RELATIONEM). ADOÇÃO DOS FUNDAMENTOS E DOS DISPOSITIVOS DA DECISÃO E OS ARGUMENTOS LANÇADOS NAS PEÇAS RECURSAIS. NULIDADE INEXISTENTE. JURISPRUDÊNCIAS PACIFICADAS PELO SUPREMO TRIBUNAL FEDERAL, SEDIMENTADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA E SOLIDIFICADAS PELOS TRIBUNAIS ESTADUAIS. REPETIÇÃO DOS ARGUMENTOS. MATÉRIAS JÁ CONHECIDAS E TRATADAS POR FORTES JULGADOS DOS TRIBUNAIS SUPERIORES E DOS TRIBUNAIS ESTADUAIS. DECISÃO MONOCRÁTICA MANTIDA. I – O uso da motivação per relationem, também denominada de motivação aliunde, motivação por referência, motivação referenciada, motivação por remissão ou motivação remissiva, a qual o relator adota, na sua decisão, fundamentos contidos na decisão, parecer do membro do MPE, dos argumentos contidos nas peças recursais, jurisprudências, precedentes, Súmulas, Súmulas Vinculantes dos Tribunais Superiores. Acórdãos dos Tribunais Estaduais ou de decisões pacificadas e calcificadas pelas Câmaras Isoladas Cíveis. O Ministro do STF que jamais deixará de ser um ícone, o Mestre Aires de Britto reafirmou que o Judiciário deve ser proativo, neutro e apartidário. E disse que a justiça brasileira pode adotar o processo de otimização (rendimento ótimo, criando condições favoráveis e gestão eficiente dos processos) e o tempo de duração dos processos judiciais, desde que haja bom senso da sociedade e vontade dos juízes. Ora, otimizar significa julgar sem entraves e obstáculos. O uso da técnica monocrática traduz inúmeros vieses na administração dos processos: a superação de indicadores negativos; quebra dos gargalos das fases processuais; novas texturas dos processos; identificação das falhas; e resultados eficientes. O cidadão brasileiro quer que o seu processo seja decidido. Seja favorável ou não. É uma conquista do Estado Democrático de Direito. E jamais provocará quebras, contorcionismos quiasmas, feridas profundas no artigo 93, inciso IX, da Bíblia Republicana Constitucional. II – A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao julgar monocraticamente o recurso de agravo de instrumento, impõe o desprovimento do recurso. III – Agravo interno desprovido (doc. 6, pp. 1-2).
+
+    O recorrente, fundado no art. 102, III, a, da Constituição Federal, sustenta, em suma, violação do art. 8º, III, da Constituição da República (doc. 10).
+
+    Antes da remessa dos autos ao Supremo Tribunal Federal, a Presidência do Tribunal de Justiça do Estado do Maranhão, com base no julgamento do RE 883.642-RG/AL (Tema 823 da Repercussão Geral), devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos dos arts. 1.030, II, e 1.040, II, do Código de Processo Civil (doc. 18, p. 4).
+
+    Todavia, o referido órgão manteve o seu entendimento (doc. 19).
+
+    Em nova apreciação, o TJMA admitiu o recurso extraordinário (doc. 21).
+
+    É o relatório. Decido.
+
+    A pretensão recursal não merece acolhida.
+
+     É que o acórdão recorrido ao negar provimento ao agravo interno, adotou o seguinte fundamento:
+
+    Portanto, a matéria levantada no agravo interno foi exauriente e bastante debatida pelas partes. E nas razões recursais, o agravante nada acrescentou de novo para desnudar a alma da decisão monocrática alicerçada pelos Tribunais Superiores e os Tribunais Estaduais. Inviável apreciação da questão originária. Foi debatida, discutida, mantida, reapreciada por vários atores na essência do recurso principal. Retornar será voltar ao ponto zero do processo. Finalizando, as partes devem compreender que o próprio Legislador infraconstitucional, creditou na performance do agravo interno como a 1ª figura recursal criada nos Regimentos Internos dos Tribunais Superiores e Estaduais. Ora, se o Legislador permite que “contra decisão proferida pelo relator caberá agravo interno (…)” (art. 1.021, caput, do Código Fux), é clarividente o reconhecimento da decisão monocrática. Só que o Legislador permitiu uma nova revisão da decisão anteriormente dada, e com isso, colmatou o princípio deitado nas Normas Fundamentais do Devido Processo Legal, na Bíblia Republicana Constitucional (doc. 6, p. 12).
+
+    Assim, para reanalisar eventuais desacertos nos parâmetros adotados, seria necessário o reexame do conjunto fático-probatório dos autos — o que é vedado pela Súmula 279/STF — e da norma infraconstitucional aplicável ao caso (Código de Processo Civil), de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, destaco os seguintes julgados do Supremo Tribunal Federal:
+
+    AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. AÇÃO COLETIVA. LEGITIMIDADE ATIVA. CONTROVÉRSIA A RESPEITO DA REGULARIDADE E DA ABRANGÊNCIA DA REPRESENTAÇÃO DE SINDICATOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita (ARE 1.306.926 AgR/MS, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 27/4/2021).
+
+    AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 3. Agravo interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual (AI 818.758 AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 26/2/2018).
+
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PUBLICIDADE DE ATOS PROCESSUAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil (AI 675.603 AgR/SC, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 13/6/2008).
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 13 de junho de 2024.
+
+Ministro Cristiano Zanin
+
+Relator
