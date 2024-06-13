@@ -23,3 +23,6 @@ XVI - da saída, de estabelecimento de contribuinte, de bem ou mercadoria destin
 § 4º Não se considera ocorrido o fato gerador do imposto na saída de mercadoria de estabelecimento para outro de mesma titularidade, mantendo-se o crédito relativo às operações e prestações anteriores em favor do contribuinte, inclusive nas hipóteses de transferências interestaduais em que os créditos serão assegurados:
 I - pela unidade federada de destino, por meio de transferência de crédito, limitados aos percentuais estabelecidos nos termos do inciso IV do § 2º do art. 155 da Constituição Federal, aplicados sobre o valor atribuído à operação de transferência realizada;
 II - pela unidade federada de origem, em caso de diferença positiva entre os créditos pertinentes às operações e prestações anteriores e o transferido na forma do inciso I deste parágrafo.
+§ 5º Alternativamente ao disposto no § 4º deste artigo, por opção do contribuinte, a transferência de mercadoria para estabelecimento pertencente ao mesmo titular poderá ser equiparada a operação sujeita à ocorrência do fato gerador de imposto, hipótese em que serão observadas:
+I - nas operações internas, as alíquotas estabelecidas na legislação;
+II - nas operações interestaduais, as alíquotas fixadas nos termos do inciso IV do § 2º do art. 155 da Constituição Federal.
