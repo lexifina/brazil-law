@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação de ressarcimento cumulada com indenização por danos morais  Plano de Saúde  Paciente portadora de depressão grave (CID F 32.3)  Prescrição de tratamento de estimulação magnética transcraniana  Sentença de procedência mantida em acórdão proferido por esta C. Turma Julgadora  Reapreciação determinada pelo E. STJ, a fim de que a apelação seja julgada conforme os critérios estabelecidos nos nos EREsps 1.886.929/SP e 1.889.704/SP  Excepcionalidade de cobertura para os casos em que inexiste substituto terapêutico eficaz já incorporado ao rol da ANS  Preenchimento dos requisitos previstos no inciso do § 13 do art. 10 da Lei nº 9.656/98, alterada pela Lei nº 14.454/22  Comprovação da eficácia do tratamento prescrito pelo médico assistente, com base na evidência a r. sentença cientifica  Tratamento reconhecido pelo Conselho Federal de Medicina, por meio da Resolução CFM 1.986/2021 Nota Técnica NatJus/SP favorável ao tratamento com quadro de depressão severa  Recurso reapreciado, com manutenção da negativa de provimento ao recurso de apelação. Nega-se provimento ao recurso" (e-STJ fl. 541).
+No recurso especial, a recorrente aponta a violação dos artigos 77, IV, do Código de Processo Civil, 10, § 4º, e 35-F da Lei nº 9.656/1998 e 421 do Código Civil.
+Aduz que o Tribunal de origem, instado a examinar os requisitos delineados pela Segunda Seção no julgamento dos EREsp 1.889.704/SP e 1.886.929/SP, deixou de atender à referida determinação, limitando-se a apontar que a Lei nº 14.454/2022 dispõe que o rol da ANS é exemplificativo.
+Alega, também, não ser obrigada a oferecer cobertura a tratamentos não previstos no Rol de Procedimentos e Eventos da ANS.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Verifica-se que, às fls. 534/535 e-STJ, houve determinação desta Corte para julgamento do processo conforme os critérios estabelecidos nos nos EREsps 1.886.929/SP e 1.889.704/SP.
+Assim, a respeito da cobertura do procedimento requerido (estimulação magnética transcraniana - EMT), o acórdão de fls. 540/550 e-STJ asseverou que:
+"Em cumprimento à determinação do E. Superior Tribunal de Justiça, o recurso de apelação será reapreciado, consignando-se que o reexame está adstrito aos critérios estabelecidos pela Segunda Seção da Corte Superior no tocante à natureza do Rol de Procedimentos da ANS.
+(..)
+(..) a cobertura do respectivo procedimento atende aos requisitos previstos no artigo 10, § 13, inciso I, da Lei 9.656/98, tendo em vista que restou suficientemente comprovada a eficácia do tratamento requerido, com base em evidência cientifica, a exemplo dos estudos citados pelo perito (fls. 210/238).
+Ademais, tem-se que o tratamento psiquiátrico de Estimulação Magnética Transcraniana superficial é reconhecido pelo Conselho Federal de Medicina, por meio da Resolução CFM 1.986/2021, o qual admite, em seu artigo 1º, "a Estimulação Magnética Transcraniana (EMT) superficial como ato médico válido para utilização na prática médica nacional, com indicação para depressões uni e bipolar, alucinações auditivas nas esquizofrenias e planejamento de neurocirurgia".
+Referido tratamento, nos moldes da Nota Técnica n. 4372/2023 do Nat-Jus/SP, apresentou-se eficaz para tratamento de quadro depressivo severo que não respondem ao tratamento inicial com medicação antidepressiva ( blob:https://www.tjsp.jus.br/533f7848-ad54-4869-b967-1d5b79e1460b)
+(..)
+Anota-se, ainda, ainda, que a requerida em momento algum indicou, com fundamento cientifico, tratamento substituto igualmente eficaz e seguro já incorporado ao rol da ANS, capaz de atender às peculiaridades do quadro clinico da paciente.
+Pontua-se, ademais, que a autora já foi submetida a outros tratamentos para o seu quadro de saúde, tendo o perito anotado que sua condição demanda a utilização de "todas as ferramentas de tratamento" pelo médico que a acompanha que achar necessário.
+Tem-se, portanto, o preenchimento dos requisitos para admissão de excepcionalidade da cobertura conforme o entendimento firmado pela Segunda Seção do C. Superior Tribunal de Justiça por ocasião dos julgamentos dos EREsps n. 1.889.704/SP e 1.886.929/SP, bem como dos requisitos dispostos pela Lei nº 14.454/22" (fls. 543/547 e-STJ).
+Desse modo, havendo o reconhecimento pelo acórdão estadual de que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Não cabe a este Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
