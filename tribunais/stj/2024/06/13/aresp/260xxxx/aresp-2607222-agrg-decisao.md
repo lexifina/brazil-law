@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOÃO VITOR THOMAZ FRAZÃO contra decisão proferida pela Ministra Presidente MARIA THEREZA DE ASSIS MOURA, que não conheceu do agravo em recurso especial, por incidência da súmula 182/STJ (e-STJ, fls. 554-555).
+Em suas razões, a Defesa alega a necessidade de análise do mérito recursal permitindo inclusive a concessão da ordem de ofício diante da teratologia presente.
+Aponta violação aos arts. artigos 28, 33 e 33, §4º da Lei n. 11.343/06.
+Inicialmente, postula a desclassificação do crime de tráfico de drogas para o previsto no art. 28 da Lei de Drogas, pois o agravante não foi surpreendido vendendo substância entorpecente.
+Ressalta que o agravante estava na posse de pequena quantidade de droga e assumiu que era usuário.
+Superada a tese, requer a aplicação da minorante do tráfico privilegiado, esclarecendo que a pequena quantidade das substâncias entorpecentes, isoladamente, não indica a sua dedicação ao tráfico de drogas.
+É o relatório.
+Decido.
+O agravo regimental não merece ser conhecido.
+Como se afirmou quando do julgamento monocrático, o recurso especial não foi admitido considerando: Súmula 284/STF, existência de fundamento suficiente para manter o julgado, ausência de similitude fática, impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário e Súmula 7/STJ.
+Por outro lado, o agravante não refutou - em sede de agravo em recurso especial - adequadamente os referidos fundamentos.
+Aqui, caberia a parte agravante o ônus de demonstrar eventual equívoco da decisão agravada quanto à aplicação da Súmula 182/STJ, o que não foi feito.
+Não o fazendo, aplica-se novamente a Súmula 182/STJ, desta vez para impedir o conhecimento do agravo regimental.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. INCIDÊNCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo regimental que não infirma os fundamentos da decisão atacada. Incidência da Súmula n. 182 do STJ.
+2. A se considerar que o réu foi condenado a 3 meses e 15 dias de detenção e que decorreram períodos inferiores a 3 anos entre os marcos interruptivos da prescrição, não há que se falar em ocorrência da causa extintiva da punibilidade sustentada pela defesa.
+3. Agravo regimental não conhecido."
+(AgRg no AREsp n. 1.900.135/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022, grifou-se).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE.
+Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada.
+Agravo regimental não conhecido."
+(AgRg nos EDcl no AREsp n. 1.996.126/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 8/3/2022, DJe de 17/3/2022).
+No entanto, verifico flagrante ilegalidade a autorizar a concessão de habeas corpus de ofício.
+Consta no acórdão impugnado (e-STJ, fls. 461-468):
+" ..
+Aliás, tendo o apelante sintomaticamente dispensado a droga na via pública logo após perceber a aproximação dos guardas municipais, com a óbvia intenção de dissimular a posse que antes detinha sobre elas, tal mais do que legítima a forma de proceder dos agentes públicos, respaldada, inclusive, em fundada suspeita da prática, pelo réu, de crime de natureza permanente, não havendo que se falar, pois, em afronta ao disposto no artigo 244, do CPP.
+Portanto, nulidade alguma há que ser reconhecida na espécie.
+No mérito, há que se desprover o reclamo ajuizado.
+A materialidade está comprovada pela apreensão e perícia de 19 porções de maconha, com peso líquido de 9,75g, conforme auto de exibição e apreensão de fls. 10/11, laudo de constatação de fls. 28/32, e exame químico-toxicológico de fls. 139/141.
+Não vinga a alegação recursal no sentido de que os exames periciais não ostentam valor probante por terem sido produzidos sem a participação da Defesa, já que, por natureza, esses são realizados por perito criminal devidamente habilitado, e foi dada oportunidade de vista dos autos ao defensor após suas respectivas juntadas, inexistindo, pois, a invocada violação ao princípio do contraditório. Demais, a invocada sistemática não encontra amparo no processo penal.
+Verifica-se, a propósito, que ambos os laudos bem deram conta de indicar a substância entorpecente presente nas amostras submetidas às perícias, qual seja, "TETRAHIDROCANNABINOL (THC)", que integra a lista F2 da Portaria SVS/MS nº 344/98 e atualizações posteriores, sendo o quanto basta para a comprovação da materialidade.
+Não comprovou a Defesa, a qualquer tempo, a teor do que preconiza o artigo 156, do Código de Processo Penal, que os referidos exames tenham sido de alguma forma adulterados, ou que não expressem a veracidade de seu conteúdo.
+Já a coautoria do imputado na prática do delito de tráfico de drogas, à sua vez, é induvidosa.
+Ouvido em Juízo, ele alegou que "(..) que recebeu R$ 30,00 de sua tia por tê-la ajudado na venda de materiais recicláveis e gastou R$ 20,00 na compra de quatro parangas de maconha. Que na volta, encontrou o adolescente Matheus e lhe pediu um pneu de bicicleta. Que o adolescente afirmou que tinha o equipamento e pediu para trocar com uma camiseta. Afirmou ainda, que quando se dirigiam à residência de Matheus visualizaram a viatura e dispensou a droga que acabara de adquirir, entretanto, uma paranga ficou em seu bolso. Que a viatura estava no local para apreender o menor. Relatou ainda, que os GCMs localizaram uma paranga em seu bolso e outras três dispensadas no chão, porém da Delegacia teriam apresentado 19 porções que não lhe pertenciam" (fl. 377).
+Ocorre que essa insubsistente versão exculpatória não vinga, já que completamente isolada do restante do conjunto probatório, além de não ter sido comprovada, a teor do que dispõe o artigo 156, do Estatuto Adjetivo.
+Nesse diapasão, o guarda civil Marcelo César Fabris narrou que "(..) a GCM efetuava patrulhamento no local, quando avistaram dois indivíduos em uma bicicleta, os quais, ao perceberem a presença da viatura tentaram andar mais rápido com a bicicleta, o que chamou a atenção da equipe. Que ao fazerem a abordagem, verificaram que havia um mandado de busca e apreensão em relação a Matheus.
+Submetidos à revista pessoal, nada foi encontrado com o menor, entretanto, com o acusado foram encontrados R$ 10,00 e um aparelho celular. Que no momento da abordagem o acusado dispensou um saquinho plástico contendo 19 porções de maconha. Indagado, o réu admitiu a prática da traficância, pois estaria desempregado e precisava de dinheiro, afirmando, também, que o dinheiro encontrado em seu poder era fruto do comércio ilícito, uma vez que negociava cada porção a R$ 10,00.
+Concluiu dizendo, que o tráfico era praticado nas imediações de um estabelecimento de ensino, a SEI Jurema Ramos Cordeiro. Que nas proximidades também estão localizadas uma escola, uma praça e um posto de saúde. A escola ficava há aproximadamente quatro quadras do local em que ocorreu a abordagem. O adolescente nada informou acerca de seu envolvimento com a traficância. Não foi relatado nenhum problema em relação à bicicleta. Que não se recorda se a escola encontrava-se aberta ou fechada" (fl. 377).
+No mesmo sentido o depoimento do também guarda civil Carlos Alexandre Laurino (fls. 377/378).
+O adolescente M.H. de S., sintomaticamente apreendido quando em companhia do apelante, declarou em Pretório, de forma indigna de fé, que não presenciou qualquer operação da Guarda Civil na data dos fatos, e que sequer conhecia a pessoa de João Vitor.
+A informante Angélica A. Gonçalves de Oliveira, e as testemunhas Elias Ferreira da Silva e Marcela Albino de Abreu, nada presenciaram acerca dos fatos sub judice, e se limitaram a afirmar que o recorrente é consumidor de maconha.
+Diante desse cenário, há que se dispensar o devido valor probatório às narrativas dos guardas, que forneceram relatos harmônicos, objetivos e coerentes quanto às circunstâncias que cercaram a prisão do apelante, e a apreensão do tóxico, não existindo nenhum indício de que tivessem interesse em prejudicá-lo, a teor do que dispõe o artigo 156, do Código de Processo Penal.
+Demais, tendo o réu arrolado tais guardas também como suas testemunhas (fl. 158), portanto interessado em suas narrativas, e não os tendo contraditado, motivo não há para que seus depoimentos sejam recebidos com a parcialidade pretendida no recurso defensivo, além do que nenhuma razão concreta foi apontada, que se mostrasse apta a invalidar os seus relatos, não se prestando, por óbvio, por si só, sua profissão para tanto.
+Não parece crível que fossem forjar crime tão grave a inocente, inclusive escolhendo o acusado, que sequer conheciam, de forma aleatória, e ainda se valendo de 19 porções de maconha, já embaladas de maneira fracionada, habitual no submundo da traficância, além de R$ 10,00, todo esse material regularmente apresentado na Delegacia, quando algumas porções e nenhum numerário já seriam suficientes para incriminá-lo, caso quisessem agir de má-fé.
+ ..
+Acrescente-se a isso, ainda, que o imputado em momento algum comprovou o exercício de atividade laborativa lícita, a teor do que dispõe o art. 156, do CPP, tudo a dar conta de que não teria a mínima condição de arcar com a aquisição de 19 porções da droga, e de estar na posse da quantia apreendida, em situação outra que não de comércio espúrio.
+Não há como, pois, acolher-se a pretensão defensiva de desclassificação de sua conduta para a forma de posse de droga para uso próprio, diante desse robusto quadro incriminador, sendo até mesmo indiferente para o deslinde do caso que ele fosse também seu consumidor, uma vez que a mera alegação de ser usuário não é apta, por si só, a afastar a de traficante.
+Nessa esteira, inclusive, decidiu esta Colenda Corte, de há muito: - "A alegação de viciado não obsta o reconhecimento da figura do traficante, mormente na hipótese vertente, em que ambas se mesclam num mesmo agente, preponderando a última, de maior gravidade." (TJSP HC 42.229-3 Rel. Onei Raphael RJTJSP 101/498).
+Ressalte-se, ainda, que para a configuração do narcotráfico não se exige qualquer ato de mercancia, bastando que o agente traga consigo, tenha em depósito ou guarde a substância proibida, tal como se deu na espécie, não se exigindo a traditio para consumação do delito (RJTJSP- vol. 97, pág. 512).
+ ..
+Por fim, tem-se que a Defesa do apelante não comprovou a existência, quando de sua prisão, de testemunhas presenciais outras que não estivessem no local a delinquir, e que ainda estivessem dispostas a narrar, com retidão, sobre o ocorrido, limitando- se a afirmar, em suas razões de apelo, genericamente, que "no local dos fatos havia várias pessoas aptas para testemunhar" (fl. 413), observando- se que, por ela, não foi arrolada nenhuma nessas condições.
+Patente, pois, que o acusado praticou o crime previsto no artigo 33, caput, da Lei 11.343/06."
+Conforme se observa, a instância anterior manteve a condenação pelo crime de tráfico de drogas somente com fundamento na afirmação de que não houve comprovação de atividade lícita, pela não apresentação de testemunhas oculares pela defesa, na demonstração de nervosismo ao avistar os guardas municipais e na apreensão de 9,75g de maconha.
+Entretanto, extrai-se do acórdão que os policiais não destacaram nenhum comportamento indicativo da difusão ilícita.
+Ainda, a quantidade de droga apreendida, embora fracionada, não é relevante e não permite concluir pela configuração do crime de tráfico.
+Ademais, de acordo com os elementos presentes no acórdão, o agravante não foi monitorado mantendo contato com outros possíveis usuários e não estava na posse de apetrechos ou anotações típicas do tráfico.
+Como se sabe, o direito penal não pode se contentar com suposições nem conjecturas, de modo que o decreto condenatório deve estar amparado em um conjunto fático-probatório coeso e harmônico, o que não é o caso dos autos.
+É sempre bom lembrar que no processo penal, havendo dúvida, por mínima que seja, deve ser em benefício do réu, com a necessária aplicação do princípio do in dubio pro reo.
+Destarte, considerando que não há provas seguras do tráfico, bem como que o recorrente assumiu que a droga era destinada ao seu consumo, de rigor a desclassificação da conduta para o delito previsto no art. 28 da Lei n. 11.343/06.
+Ante o exposto, não conheço do agravo regimental. Contudo, concedo habeas corpus de ofício, a fim de desclassificar a conduta do recorrente para a prevista no artigo 28 da Lei 11.343/06, com as devidas sanções legais previstas nos incisos do referido artigo de lei a serem especificadas pelo Juízo da Execução.
+Publique-se. Intimem-se.
+ EMENTA
