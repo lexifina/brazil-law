@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa é a seguinte (e-STJ fl. 146):
+RECURSO EM SENTIDO ESTRITO. DIREITO PENAL E PROCESSUAL PENAL. SUPOSTO CRIME DE FURTO SIMPLES. REJEIÇÃO DA DENÚNCIA. AUSÊNCIADE JUSTA CAUSA. RECURSO DO MINISTÉRIO PÚBLICO. PEDIDO DE REFORMA DA DECISÃO RECORRIDA E RECEBIMENTO DA DENÚNCIA. ACOLHIMENTO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS CARACTERIZADORES. NECESSIDADE DE TUTELA PENAL. RECURSO CONHECIDO E PROVIDO.
+1. A justa causa para a ação penal está principalmente conectada à existência de lastro probatório mínimo para que o juiz receba a denúncia. Na espécie, estão presentes os indícios de autoria e de materialidade que justificam o desenvolvimento da ação penal.
+2. O princípio da insignificância exige, para a sua aplicação, a mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+3. No caso dos autos, embora não se tenha produzido laudo técnico até a decisão de rejeição da denúncia, o denunciado furtou, em tese, um aparelho celular Xaomi, um óculos e R$ 50,00 (cinquenta reais), bens que a princípio superam o percentual de 10% do salário mínimo vigente à época dos fatos, conforme apurado pelo MP, nãopodendo ser considerado inexpressivo.
+4. Recurso conhecido e provido.
+Os embargos de declaração defensivos foram rejeitados.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do art. 395, III, do CPP, buscando a incidência do princípio da insignificância, a fim de que seja restabelecida a decisão que rejeitou a denúncia.
+Apresentadas contrarrazões e contraminuta, o Ministério Público Federal se manifestou pelo não provimento do recurso.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+No que se refere à pretensão recursal ora deduzida, o acórdão recorrido encontra-se assim fundamentado (e-STJ fl. 152):
+No caso, embora não se tenha laudo técnico ainda, o valor dos bens subtraídos supera, em tese, o montante de 10% (dez por cento) do salário mínimo vigente à época dos fatos (R$ 1320,00 - mil trezentos e vinte reais), uma vez que foi furtado um celular, um óculos e R$ 50,00 da vítima, objetos que segundo diligência o MP ultrapassam e muito o percentual de 10% acima referido.
+De fato, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de ser incabível a aplicação do princípio da insignificância quando o valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos. Precedentes: AgRg no AREsp n. 1.242.213/MG, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 4/9/2018, DJe 12/9/2018; AgRg no AREsp n. 1.308.314/MG, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 23/8/2018, DJe 4/9/2018; AgRg no AREsp n. 1.313.997/MG, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 21/8/2018, DJe 30/8/2018; AgRg no REsp n. 1.744.802/MS, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 2/8/2018, DJe 10/8/2018; HC n. 425.168/SC, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 7/6/2018, DJe 15/6/2018; AgRg no REsp n. 1.734.968/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 22/5/2018, DJe 30/5/2018.
+Importa destacar que, no julgamento de recurso repetitivo, a Terceira Seção do Superior Tribunal de Justiça firmou a tese de que "A restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância" (Tema n. 1205, DJe 30/10/2023).
+Estando o acórdão recorrido em consonância com o entendimento desta Corte, incide a Súmula n. 568 do STJ, segundo a qual: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
