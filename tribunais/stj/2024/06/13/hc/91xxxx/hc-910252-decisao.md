@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Franklin Folha Nogueira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2079343-74.2024.8.26.0000).
+Em 20/3/2024, o paciente foi autuado em flagrante delito e, posteriormente, teve a prisão preventiva decretada pela suposta prática do crime de roubo circunstanciado.
+Neste mandamus, a Defensoria Pública alega, em apertada síntese, a ausência de fundamentos concretos para a prisão preventiva, destacando que o paciente recém completou 19 anos de idade, é primário, sem antecedentes criminais e possui residência fixa.
+Aduz que não existe, nos autos, reconhecimento positivo do ora paciente pela vítima.
+Requer, inclusive em liminar, a revogação da prisão ou, subsidiariamente, a substituição por outras medidas cautelares.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Durval Tadeu Guimarães, pelo conhecimento em parte e, no mais, pela denegação da ordem.
+É o relatório.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+No caso, contravindo os argumentos dispostos neste writ, o acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou adequada a determinação de prisão preventiva do paciente em decorrência de seu histórico de atos infracionais, in verbis (fl.121 - grifo nosso):
+ ..
+Ademais, pelo que se verifica, o paciente não ostenta condições pessoais favoráveis, ao contrário do que sustenta o impetrante.
+Com efeito, a despeito de ter atingido a maioridade recentemente, o paciente já registra condenação em primeiro grau de jurisdição (págs. 36/37 dos autos principais), e inúmeros registros de atos infracionais, perante a Vara da Infância e Juventude (págs. 34/35 da ação penal), circunstâncias que denotam habitualidade criminosa, revelando, assim, inaptidão para se manter afastado de atos delituosos, bem como a ineficácia de medidas diversas da prisão, que não se mostram capazes de conter o seu ímpeto criminoso. Desta feita, a insistência do paciente em se envolver em crimes determina a manutenção da prisão preventiva, a fim de se resguardar a ordem pública.
+ ..
+A custódia está corretamente motivada, isto é, conforme a jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 742.806/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 21/10/2022 - grifo nosso). Nesse sentido: AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022.
+Assim, justifica-se a prisão preventiva para a garantia da ordem pública, em face do risco concreto de reiteração delituosa, quando o imputado ostenta condenação pretérita, isto é, responde a outras ações penais, uma delas inclusive já possuindo decisão condenatória transitada em julgado (AgRg no RHC n. 152.073/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022).
+No mais, como bem destacou o nobre parecerista, em seu parecer, o habeas corpus não deve ser conhecido quanto à discussão acerca da autoria delitiva porque não constitui via adequada para o reexame de provas (fl. 140).
+Ante o exposto, à vista do parecer, conheço, em parte, do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. HISTÓRICO CRIMINAL CONTURBADO. APESAR DE O RÉU TER APENAS 19 ANOS DE IDADE, POSSUI HISTÓRICO DE ATOS INFRACIONAIS QUANDO MENOR DE IDADE. FUNDAMENTAÇÃO CONCRETA. DISCUSSÃO ACERCA DO RECONHECIMENTO DO PACIENTE (AUTORIA). IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. PARECER ACOLHIDO.
+Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem.
