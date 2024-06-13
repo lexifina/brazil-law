@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. AUSÊNCIA DE DOLO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão de ver analisada a alegação de ausência de dolo esbarra no óbice da Súmula n. 7 do STJ, por implicar a necessidade de revolvimento fático-probatório dos autos.
+2. Agravo regimental não provido.
+RELATÓRIO
+MARCOS ROBERTO BAPTISTELLO interpõe agravo regimental contra a decisão de fls. 314-318, na qual conheci do agravo para não conhecer do recurso especial.
+Consta nos autos que o réu foi condenado pela prática do crime de falsidade ideológica. A defesa alega que "com a tese suscitada acerca da violação do tipo penal, o que se pretende não enseja reexame de provas, mas sim, o reconhecimento jurídico de que o elemento subjetivo exigido pelo tipo foi evidentemente contrariado no presente caso, dada a ausência de dolo na conduta do agravante" (fl. 331).
+Requer a reconsideração da decisão agravada ou o julgamento do regimental pelo colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. AUSÊNCIA DE DOLO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão de ver analisada a alegação de ausência de dolo esbarra no óbice da Súmula n. 7 do STJ, por implicar a necessidade de revolvimento fático-probatório dos autos.
+2. Agravo regimental não provido.
+VOTO
+Apesar dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho. Confira-se (fls. 314-317, grifos no original):
+Consta nos autos que o réu foi condenado a 1 ano de reclusão, em regime aberto, mais 10 dias-multa, pela prática do crime de falsidade ideológica.
+Em suas razões, a defesa requereu a absolvição do acusado por ausência de comprovação do dolo específico.
+ ..
+O Tribunal de origem, ao manter a condenação do recorrente, assinalou o seguinte (fls. 212-219, grifei):
+Consta da denúncia que Marcos Roberto Baptistello "agindo em concurso e com o mesmo liame subjetivo com José Agnaldo de Lima, pessoa já falecida, no dia 05 de março de 2018, nesta cidade e Comarca, fez inserir declaração diversa da que devia ser escrita em documento público, com o fim de alterar a verdade sobre fato juridicamente relevante.
+Como se apurou no incluso inquérito policial, o denunciado Marcos Roberto trabalha como despachante e presta, dentre outros, serviço de elaboração de recursos administrativos contra infrações de trânsito para seus clientes.
+No dia 21 de janeiro de 20218, José Agnaldo de Lima, na condução de seu veículo placas FKU-6417, sofreu uma autuação por infração de trânsito, através de radar fotográfico da Prefeitura Municipal de São José do Rio Preto, documentos de fls. 72.
+Ao receber a notificação da autuação, José Agnaldo procurou pelo denunciado Marcos Roberto.
+O denunciado Marcos Roberto, na posse da notificação, inseriu seus dados no campo "identificação do condutor", assinou a notificação, sendo que José Agnaldo protocolou, junto ao departamento de atendimento ao público da Prefeitura de São José do Rio Preto, o pedido de indicação de condutor (fls. 65/71) e transferência de pontos da CNH.
+Ocorre que houve uma averiguação pelo Detran/SP, constatando-se que o denunciado Marcos Roberto estava "emprestando" seu nome para diversos motoristas autuados, com o fim de transferir pontos de CNH.
+José Agnaldo de Lima faleceu no dia 28/06/2021, certidão de óbito de fls. 27, sendo declarada a extinção de sua punibilidade (fls. 86).
+Ao fazer inserir na notificação de autuação de infração de multa, no campo identificação do condutor, documento público, seu nome, o denunciado Marcos Roberto Baptistello alterou a verdade sobre fato juridicamente relevante, uma vez que afastou a responsabilidade de José Agnaldo de Lima pela multa imposta no veículo placa FKU-6417, além da pontuação da CNH do verdadeiro condutor do veículo." (fls. 107/108).
+A materialidade delitiva restou demonstrada pela portaria instaurada (fl. 2), documentos (fl. 3/10 e 65/72), bem como pela prova oral.
+A autoria também restou demonstrada de forma inconteste.
+ ..
+O conjunto probatório não deixa dúvidas da prática do crime de falsidade ideológica pelo acusado, conforme constante da denúncia.
+Conforme se depreende dos autos o acusado assumiu infração de trânsito praticada por José Agnaldo de Lima (pessoa já falecida, conforme certidão de óbito de fl. 27), visando a não incidência da pontuação a ela referente no prontuário de José, seu cliente, pois acarretaria a suspensão de sua carteira de habilitação. Em seu interrogatório, o réu aduziu que o fez visando ajudar José, por saber que este dependida da habilitação para seu sustento, e considerando que a sua carteira de habilitação, por sua vez, estava suspensa, eis que menciona que "já precisaria fazer a reciclagem", não tendo cobrado nenhum valor pela transação.
+E assim agindo, não resta dúvida de que inseriu informação falsa em documento público ao preencher com seus dados e assinar a "Identificação de Condutor" (fl. 6) de infração cometida por terceiro, visando alterar a verdade sobre fato relevante, sendo certo que sua conduta se subsome à descrita no artigo 299, do Código Penal.
+Frise-se que: "a falsidade consiste em se inculcar o agente como pessoa diversa, em qualquer relação jurídica, pública ou privada, seja oralmente, seja por escrito" (FARIA, Bento de. Código Penal Brasileiro Comentado, 3. Ed. Rio de Janeiro: Distribuidora Record, 1961, v. VII, p.68).
+Outrossim, não merece prosperar o pleito defensivo pelo reconhecimento da atipicidade da conduta ante a ausência de dolo, notadamente pelo fato de o recorrente ser despachante e, portanto, conhecedor das normas que norteiam o processo de autuação e imposição de penalidades por infrações de trânsito, tanto que a conduta foi praticada com o intuito de desabonar o real condutor da suspensão de sua carteira de habilitação.
+Ressalte-se ainda que, conforme se depreende da certidão de fls. 35/51 dos autos, a conduta foi reiterada diversas vezes pelo réu em benefício de outros condutores.
+De igual forma, não comporta guarida o argumento de que não houve configuração dos elementos subjetivos do tipo penal, já que a finalidade de alterar fato juridicamente relevante não restou devidamente comprovada.
+No ponto, consigne-se que, ainda que não tenha recebido qualquer vantagem para a assunção da infração de trânsito cometida por outrem o que, destaca-se, não se exige, a conduta adotada fere o bem tutelado pelo tipo penal, ou seja a fé pública e, tratando-se de crime formal, justifica a imputação.
+ ..
+Ademais, é cediço que o sistema de pontuação por infrações, regulado pelo Código de Trânsito Brasileiro no artigo 259 e seguintes, visa a imposição de sanções mais severas a infratores costumazes, restando patente, portanto, que tutela a segurança viária da sociedade como um todo, o que não pode, em hipótese alguma, ser considerado irrelevante.
+Portanto, deve ser mantida a condenação bem fundamentada pelo juízo de primeiro grau, afastando-se as teses de absolvição arguidas pela Defesa.
+Conforme se observa, a Corte estadual asseverou a existência de provas suficientes para justificar a condenação do réu pela conduta do art. 299 do Código Penal, em especial o dolo específico.
+O aresto deixou claro que "não merece prosperar o pleito defensivo pelo reconhecimento da atipicidade da conduta ante a ausência de dolo, notadamente pelo fato de o recorrente ser despachante e, portanto, conhecedor das normas que norteiam o processo de autuação e imposição de penalidades por infrações de trânsito, tanto que a conduta foi praticada com o intuito de desabonar o real condutor da suspensão de sua carteira de habilitação" (fl. 217).
+Assim, mostra-se inviável a absolvição do insurgente, sobretudo considerando que, no processo penal, é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Para se entender pela absolvição do acusado seria imprescindível o reexame do acervo fático-probatório, procedimento vedado em recurso especial, consoante a Súmula n. 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ARTS. 299 E 304 DO CÓDIGO PENAL. ALEGAÇÕES DE QUE NÃO FOI DEMONSTRADO O DOLO ESPECÍFICO DO DELITO DE FALSIDADE IDEOLÓGICA E DE QUE NÃO HOUVE PREJUÍZO PARA A MUNICIPALIDADE APTO A JUSTIFICAR A NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO CRIME. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PLEITO PELO RECONHECIMENTO DA CONTINUIDADE DELITIVA. INSUBSISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu que estão configurados todos os elementos necessários à tipificação dos delitos de falsidade ideológica, inclusive o dolo específico; bem como existir fundamento apto para a elevação da pena-base, na medida em que esses crimes causaram prejuízo à Prefeitura. A inversão do julgado encontra óbice na Súmula n. 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que "não se aplica a continuidade delitiva quando os crimes, em número expressivo, forem praticados em intervalo de tempo superior a 30 dias, circunstância objetiva que sinaliza a reiteração delitiva, e não a prática de delitos em continuação, a partir de um mesmo propósito originário." (AgRg no HC n.
+784.960/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.223.085/RN, Rel. Ministra Laurita Vaz, 6ª T., DJe de 30/6/2023, destaquei)
+No caso, a Corte estadual assentou que o réu "inseriu informação falsa em documento público ao preencher com seus dados e assinar a "Identificação de Condutor" (fl. 6) de infração cometida por terceiro, visando alterar a verdade sobre fato relevante, sendo certo que sua conduta se subsome à descrita no artigo 299, do Código Penal" (fl. 217).
+Ainda, apontou que "não merece prosperar o pleito defensivo pelo reconhecimento da atipicidade da conduta ante a ausência de dolo, notadamente pelo fato de o recorrente ser despachante e, portanto, conhecedor das normas que norteiam o processo de autuação e imposição de penalidades por infrações de trânsito, tanto que a conduta foi praticada com o intuito de desabonar o real condutor da suspensão de sua carteira de habilitação" (fl. 217).
+A pretensão de ver analisada a alegação de ausência de dolo esbarra no óbice da Súmula n. 7 do STJ, por implicar a necessidade de revolvimento fático-probatório dos autos.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
