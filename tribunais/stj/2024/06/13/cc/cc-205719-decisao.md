@@ -1,0 +1,10 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante VIA CAPITALIZAÇÃO S/A e suscitados o JUÍZO DE DIREITO DA VARA DE DIREITO EMPRESARIAL, RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE PORTO ALEGRE - RS e o JUÍZO DA 3ª VARA DO TRABALHO DE RIO BRANCO - AC.
+Ação em trâmite no Juízo Cível: falência da ASSOCIAÇÃO DOS PROFISSIONAIS LIBERAIS UNIVERSITÁRIOS DO BRASIL - APLUB PREV.
+Ação em trâmite no Juízo Trabalhista: execução trabalhista movida por FRANCIRLENE MUNIZ DE AGUIAR.
+Conflito de competência: alega, em síntese, que a APLUB CAPITALIZAÇÃO S/A (atual VIA CAPITALIZAÇÃO) compunha os ativos da massa falida APLUB PREV, tendo sido levada a leilão judicial, nos autos da falência e arrematada por HEALTHPAR ADMINISTRAÇÃO E PARTICIPAÇÕES S/A, livre de qualquer ônus, de modo que todo o passivo anterior à alienação judicial do ativo da falida é de responsabilidade da APLUB PREV (e-STJ, fl. 9). Defende, assim, competir ao juízo falimentar dispor sobre os atos executórios no processo trabalhista n. 0000040-24.2020.5.14.0403 e que a determinação de bloqueio de valores nas contas bancárias da suscitante acaba por burlar o concurso de credores, além de usurpar a competência do juízo universal. Pleiteia seja concedida tutela de urgência para proibir a liberação dos valores à reclamante, até efetiva decisão de mérito do presente conflito de competência" (e-STJ fl. 14).
+RELATADO O PROCESSO, DECIDE-SE.
+A questão trazida no presente incidente já foi objeto do CC 199.973/RS, tendo ficado consignado, na ocasião, que o prosseguimento do cumprimento de sentença de que tratam os autos, em face da suscitante, não ensejaria decisões conflitantes, tendo em vista o teor da carta de arrematação da Aplub Capitalização S/A - pela Healthpar Administração e Participações S/A e que culminou na mudança da sua denominação social para Via Capitalização S/A -, no sentido de que caberia ao arrematante assumir a defesa das ações judiciais envolvendo a Aplub-CAP. Assim, trata-se de mera reiteração de incidente processual já apreciado.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intime-se. Oficie-se.
+EMENTA
