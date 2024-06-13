@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por CPN ALIMENTOS LTDA. - EM RECUPERAÇÃO JUDICIAL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. SENTENÇA DE IMPROCEDÊNCIA. NÃO CONHECIMENTO DO PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO AO PRESENTE RECURSO, POR AUSÊNCIA DE INTERESSE RECURSAL, POIS EXISTE PROCEDIMENTO PRÓPRIO PARA O EXERCÍCIO DE TAL PRETENSÃO, CONFORME PREVISÃO DO ART. 1.012, § 3º, I E II, DO CPC/2015, INEXISTINDO QUALQUER EFEITO PRÁTICO NA CONCESSÃO DE TAL PEDIDO POR OCASIÃO DA ANÁLISE DO MÉRITO RECURSAL. ART. 49 DA LEI 11.101/2005 CONFERE TRATAMENTO DIFERENCIADO A ALGUNS CRÉDITOS, COMO NO PRESENTE CASO, AFASTANDO-OS DOS EFEITOS DA RECUPERAÇÃO. NÃO MERECE PROSPERAR A TESE RECURSAL DE QUE O CRÉDITO NÃO SERIA EXTRACONCURSAL, UMA VEZ QUE A GARANTIA FIDUCIÁRIA NÃO ESTARIA REGULARMENTE CONSTITUÍDA, POR NÃO SER POSSÍVEL IDENTIFICAR O BEM DADO EM GARANTIA ANTE A AUSÊNCIA DE DESCRIÇÃO NO TÍTULO, HAJA VISTA SER SUFICIENTE A DESCRIÇÃO CONSTANTE DO INSTRUMENTO. POR FIM, DEIXO DE CONHECER DA TESE RECURSAL SUBSIDIÁRIA, DE QUE NO CASO DE MANUTENÇÃO DA SENTENÇA, FOSSE RECONHECIDA A INCOMPETÊNCIA DO JUÍZO A QUO PARA PROMOVER ATOS DE DISPOSIÇÃO DOS ATIVOS DA APELANTE PARA O PAGAMENTO DOS SEUS CREDORES, DECIDIR ACERCA DA ESSENCIALIDADE DO BEM DADO EM GARANTIA E,ANALISAR O CARÁTER EXTRACONCURSAL DAS DÍVIDAS PARA EXCLUSÃO DO PROCEDIMENTO DE RECUPERAÇÃOJUDICIAL, POIS TRATA-SE DE INOVAÇÃO RECURSAL, NÃO ABORDADA OPORTUNAMENTE. NEGADO PROVIMENTO AO RECURSO"
+(e-STJ fl. 417/418).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente sustenta violação dos arts. 1.362 do Código Civil e 33 da Lei nº 10.931/1994.
+Aduz que "o que se espera desta Colenda Corte Superior não é a análise do título e do preenchimento dos requisitos legais, mas sim a sua manifestação expressa acerca da necessidade de configuração destes requisitos" (e-STJ fl. 460).
+Sem contrarrazões (certidão de e-STJ fl. 465).
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do recurso (e-STJ fls. 566/572).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+As conclusões do tribunal de origem acerca do preenchimento de todos os requisitos necessários para dar força executiva à cédula de crédito bancário decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Conforme se observa do dispositivo acima lançado, a lei estabelece a sujeição de todos os créditos existentes na data do pedido à recuperação judicial.
+Entretanto, elide determinados créditos, por não se sujeitarem à recuperação judicial, tais como, os créditos tributários (art. 191-A do CTN), bem como importâncias referentes a contrato de câmbio (art. 49, § 1º,da Lei 11.101/2005).
+E, mais, pontuam-se, nos §§ 3º e 4º do dispositivo, as exceções que acabam por conferir tratamento diferenciado a alguns créditos, como no presente caso, afastando-os dos efeitos da recuperação.
+Na espécie em análise, como se pode observar do documento juntado às fls. 47/59, a instituição financeira apelada firmou cédula de crédito bancário com a recorrente, cuja operação remonta à data anterior ao pedido de recuperação, cujo o bem dado em garantia se encontra descrito conforme excerto abaixo:
+(..)
+Com efeito, não merece prosperar a tese recursal de que o crédito não seria extraconcursal, uma vez que a garantia fiduciária não estaria regularmente constituída, por não ser possível identificar o bem dado em garantia ante a ausência de descrição no título, haja vista ser suficiente a descrição constante do instrumento suso mencionado.
+Assim, a cédula de crédito bancário em comento não tem qualquer mácula, revelando-se, portanto, impositivo o seu reconhecimento como título apto a embasar a execução extrajudicial, e ainda, não sendo difícil concluir que o caso está tipificado nas exceções listadas no art. 49 da Lei 11.101/05, razão pela qual não se poderia sujeitar tal crédito aos efeitos da recuperação judicial, como já destacado na decisão apelada" (e-STJ fls. 436/437).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+A esse respeito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. QUALIFICAÇÃO DO TÍTULO QUE EMBASA A PRETENSÃO EXECUTIVA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. DEFICIÊNCIA FORMAL NA PETIÇÃO DE APELAÇÃO QUE NÃO COMPROMETE O CONHECIMENTO DO PROCESSO. INSTRUMENTALIDADE DAS FORMAS. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283 DO STF. RATIFICAÇÃO DA APELAÇÃO APÓS ACOLHIMENTO DOS EMBARGOS OPOSTOS CONTRA A SENTENÇA. DESNECESSIDADE. AUSÊNCIA DE MODIFICAÇÃO DOS FUNDAMENTOS DA DECISÃO. AJUSTE NO CRITÉRIO DE FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. TEMA QUE NEM SEQUER ERA TRATADO NO APELO. PRECEDENTES. DISCUSSÃO QUANTO A EXISTÊNCIA DE TÍTULO EXECUTIVO. SÚMULAS N.os 5 E 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. De acordo com o acórdão estadual, o recurso de apelação deveria ser conhecido, apesar de suas razões não terem qualificado as partes do processo, tendo em vista o princípio da instrumentalidade das formas. Referido fundamento não foi devidamente impugnado nas razões do recurso especial, o que atrai a incidência da Súmula nº 283 do STF.
+3. De acordo com a Súmula nº 579 do STJ, não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior.
+4. O acolhimento de embargos de declaração para correção de erro material não configura modificação de julgamento para efeito de exigibilidade da ratificação do recurso em hipóteses como a dos autos. Precedentes.
+5. O Tribunal fluminense concluiu, com base na prova dos autos, que a execução estava fundada em uma cédula de crédito provida de todos os atributos necessários à execução. Impossível, assim, sustentar que ela estava lastreada em um contrato de abertura de crédito, sem esbarrar nas Súmulas n.os 5 e 7 do STJ.
+6. Agravo interno não provido"
+(AgInt no REsp n. 1.840.865/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 13% (treze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
