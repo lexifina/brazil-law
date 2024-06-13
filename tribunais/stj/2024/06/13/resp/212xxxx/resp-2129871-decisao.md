@@ -1,0 +1,30 @@
+DECISÃO
+5Trata-se de recurso especial interposto por M L S A (MENOR), com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe assim ementado:
+"APELAÇÃO CÍVEL - PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER -UNIMED - TRATAMENTO FISIOTERAPIA INTENSIVA PROTOCOLO PEDIASUITE - PROCEDIMENTO INDICADO PELO MÉDICO QUE ACOMPANHA O MENOR - NEGATIVA DE COBERTURA PELO MÉTODO THERASUIT PEDIASUIT - NÃO COMPROVAÇÃO CIENTÍFICA DA EFICÁCIA DO TRATAMENTO CONFORME NOTA TÉCNICA 9666 DO BANCO DE DADOS DO CNJ - RECURSO CONHECIDO E PROVIDO" (e-STJ fl. 805).
+Nas razões do presente recurso, o recorrente sustenta violação dos artigos 186, 421, 422, 423 e 927 do Código Civil.
+Aduz que o plano de saúde não deveria ter negado o procedimento Pediasuit. Pleiteia pela condenação em danos morais.
+Contrarrazões às fls. e-STJ 838/855.
+Parecer do Ministério Público Federal às fls. e-STJ 1.265/1.280.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Quanto ao método Pediasuit, o tribunal de origem concluiu que "é possível inferir que os estudos médicos mais atuais não evidenciaram eficácia protocolo PediaSuit, inexistindo, pois, comprovação da eficácia do tratamento à luz da medicina baseada em evidências" (e-STJ fl. 8 07).
+Dessa forma, tanto a Terceira quanto a Quarta Turma desta Corte Superior entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit, seja por serem consideradas experimentais, seja por demandarem órteses não ligadas a ato cirúrgico  (art.  10,  I e  VII,  da  Lei  nº  9.656/1998).
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE COBERTURA. TRATAMENTO PELO MÉTODO THERASUIT. PROCEDIMENTO NÃO LISTADO NO ROL DA ANS. TRATAMENTO EXPERIMENTAL, SEGUNDO PARECER DO CFM E NAT-JUS. IMPOSIÇÃO PELO JUDICIÁRIO INDEVIDA. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO IMPROVIDO.
+1. Com efeito, no que diz respeito a sessões pelo método TheraSuit, ambas Turmas de Direito Privado desta Corte Superior entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit, seja por serem consideradas experimentais, seja por demandarem órteses não ligadas a ato cirúrgico (art. 10, I e VII, da Lei nº 9.656/1998).
+1.1. Registre-se que a "Nota Técnica n. 9.666, elaborada pelo NAT-JUS NACIONAL, em 7/8/2020, disponível no banco de dados E-natjus do CNJ, contém conclusão desfavorável ao custeio das terapias de alto custo TheraSuit ou Pediasuit, pelos seguintes fundamentos: a) "foi verificada a escassez de estudos robustos acerca do tema, destacando uma revisão sistemática com metanálise que evidenciou que o referido efeito do protocolo com o Método Therasuit foi limitado e heterogêneo"; b) "o Conselho Federal de Medicina, em seu PARECER CFM Nº 14/2018, publicado em maio de 2018 concluiu que as terapias propostas (TheraSuit e PediaSuit) ainda carecem de evidência científica que lhes deem respaldo e devem ser entendidas apenas como intervenções experimentais. Com efeito, o art. 10º, incisos I, V, IX, da Lei n. 9.656/1998, expressamente exclui da relação contratual a cobertura de tratamento clínico ou cirúrgico experimental, fornecimento de medicamentos importados não nacionalizados e tratamentos não reconhecidos pelas autoridades competentes. No mesmo diapasão, propugna o Enunciado de Saúde Suplementar n. 26 das Jornadas de Direito da Saúde do CNJ ser lícita a exclusão de cobertura de produto, tecnologia e medicamento importado não nacionalizado, bem como tratamento clínico ou cirúrgico experimental" (AgInt no AREsp 1497534/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2020, DJe 23/10/2020)" (AgInt no AREsp 1627735/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 02/03/2021). Precedentes.
+2. Não há que se falar em incidência da Súmula 7/STJ, para modificar a conclusão delineada no aresto impugnado, em relação ao custeio do tratamento pleiteado, porquanto prescindível o reexame do conjunto de fatos e provas dos autos, sendo necessária tão somente a revaloração jurídica na hipótese.
+3. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+4. Agravo interno improvido"
+(AgInt no REsp n. 2.119.649/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Incidência, portanto, da Súmula nº 568/STJ.
+No mais, as conclusões do tribunal de origem acerca da inexistência de danos morais decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..) entendo que o alegado dano moral não restou caracterizado na hipótese dos autos, eis que ausente ofensa aos atributos da personalidade dos autores. Sublinhe-se que os incômodos e aborrecimentos sofridos pelo consumidor ao se deparar com dificuldades para resolver problemas de contratualidade não se configuram como danos morais propriamente ditos" (fls. e-STJ 810).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Ante o exposto, conheço em parte do recurso especial para negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 800,00 (oitocentos por cento), ficando cada parte responsável por 50% (cinquenta por cento) desse valor, em razão da sucumbência recíproca.
+Assim, em observância ao art. 85, § 11, do CPC, majoro os honorários em R$ 500,00 (quinhentos reais), em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
