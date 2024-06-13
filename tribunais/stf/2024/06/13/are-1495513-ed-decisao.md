@@ -1,0 +1,63 @@
+DECISÃO:
+
+    Trata-se de embargos de declaração opostos contra decisão monocrática assim fundamentada:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento nas alíneas "a", "c" e "d" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. SENTENÇA DENEGATÓRIA. ICMS. COMPENSAÇÃO DE CRÉDITO ACUMULADO NO SISCRED. LIMITAÇÃO MENSAL E GLOBAL ANUAL. ART. 51, III E §3º, DO DECRETO Nº 7.871/2017. ILEGALIDADE E INCONSTITUCIONALIDADE NÃO DEMONSTRADAS. NORMA GERAL QUE PREVÊ A CESSÃO DE CRÉDITO SEM VERSAR SOBRE A POSSIBILIDADE DE LIMITAÇÃO DA COMPENSAÇÃO. ARTS. 24 E 25, §1º, II, E §2º, II, DA LC Nº 87/96 (LEI KANDIR). OMISSÃO QUE PERMITE O EXERCÍCIO DA COMPETÊNCIA LEGISLATIVA PLENA PELO ESTADO. ART. 24, I, §3º, DA CF. ART. 25, §7º, DA LEI ESTADUAL Nº 11.580/96, QUE AUTORIZA A REGULAMENTAÇÃO DOS SALDOS CREDORES ACUMULADOS EM DECRETO DO PODER EXECUTIVO. DECRETO Nº 7.871/2017, QUE PREVÊ NO ART. 51, III, A LIMITAÇÃO MENSAL E NO §3º AUTORIZA A INSTITUIÇÃO DE LIMITAÇÃO GLOBAL ANUAL POR RESOLUÇÃO DO SECRETÁRIO DE ESTADO DA FAZENDA. ART. 1º DA RESOLUÇÃO SEFA Nº 118/2019 QUE FIXA O LIMITE PARA UTILIZAÇÃO DE CRÉDITO ACUMULADO NO SISCRED. ATOS NORMATIVOS EDITADOS COM RESPALDO NA LEI ESTADUAL E QUE NÃO SE PRESTAM A REVOGAR, ALTERAR OU RESTRINGIR A APLICAÇÃO DA LEI FEDERAL. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE GERAL E DA HIERARQUIA DAS NORMAS. ART. 5ª, II, DA CF. OBSERVÂNCIA DO ART. 99 DO CTN. CONSTITUCIONALIDADE DOS ATOS ADMINISTRATIVOS E INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA NÃO CUMULATIVIDADE. ART. 155, II, §2º, I E X, “A”, DA CF. ENTENDIMENTO FIRMADO PELO ÓRGÃO ESPECIAL DESTE E. TRIBUNAL. IDI Nº 1.748.097-2. PRECEDENTE DE OBSERVÂNCIA OBRIGATÓRIA. ART. 272-A DO REGIMENTO INTERNO DESTE E. TRIBUNAL. ART. 927, V, DO CPC. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, II, XXXV, LIV, LV; 93, IX; 146; 153, II; 155, § 2º da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, LIV, LV da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, verifica-se, de plano, incabível a interposição do apelo extremo pelos permissivos das alíneas “c” e “d” do artigo 102, III, da CF, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal, tampouco de julgar válida lei local contestada em face de lei federal. Cito os seguintes precedentes:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISS PRIVILEGIADO. SOCIEDADE DE ÍNDOLE EMPRESARIAL. RECURSO EXTRAORDINÁRIO FUNDADO NAS ALÍNEAS C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADOS EM FACE DA CARTA MAGNA. NÃO OCORRÊNCIA. PRECEDENTES. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI LOCAL CONSTESTADA EM FACE DE LEI FEDERAL. NÃO OCORRÊNCIA. PRECEDENTES. PREQUESTIONAMENTO. AUSÊNCIA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal 3. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282/STF. 4. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 5. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 6. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”. (RE 1.321.299-AgR, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 28.06.2021)
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário fundado nas alíneas c e d do inciso III do art. 102 da Constituição Federal. Acórdão recorrido que julga válida lei ou ato de governo local contestados em face da Carta Magna. Não ocorrência. Precedentes. Acórdão recorrido que julga válida lei local contestada em face de lei federal. Não ocorrência. Precedentes. Direito Administrativo. Poço artesiano. Outorga pelo poder público. Legislação local. Ofensa reflexa. Precedentes. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal. 3. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. Incidência da Súmula nºs 280/STF. 4. Agravo regimental não provido. 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita”. (ARE 1.270.810-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 16.09.2020)
+
+    Além disso, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    A parte embargante sustenta, em síntese, que: (i) “Quando do julgamento inicial do mérito, a sentença foi proferida sob o fundamento de que, para o Tribunal de Justiça do Paraná, haveria constitucionalidade nas limitações impostas à utilização e transferência de créditos de ICMS em sede de Incidente de Inconstitucionalidade nº 1.748.097-2. Assim, a conclusão de que não houve validação de norma local em face da Constituição se mostra contraditória”; e (ii) “Não se discute nos presentes autos a interpretação de lei infraconstitucional – seja ela federal ou estadual”.
+
+    O recurso não merece acolhida, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão embargada, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+
+    Estes embargos veiculam pretensão meramente infringentes. E os embargos não podem conduzir à renovação de um julgamento que não ressente de nenhum vício e, muito menos, à modificação do julgado.
+
+    O STF já firmou o entendimento de que não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objeto de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Rel. Min. Celso de Mello).
+
+    Restou claro na decisão embargada que: (i) “ incabível a interposição do apelo extremo pelos permissivos das alíneas ‘c’ e ‘d’ do artigo 102, III, da CF, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal, tampouco de julgar válida lei local contestada em face de lei federal”; e (ii) “o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário”.
+
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, rejeito os embargos de declaração.
+
+    Publique-se.
+
+    Brasília, 13 de junho de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
