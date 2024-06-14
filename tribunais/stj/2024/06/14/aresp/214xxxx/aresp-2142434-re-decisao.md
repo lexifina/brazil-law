@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por PROSSEGUR BRASIL S/A TRANSPORTADORA DE VALORES E SEGURANÇA, com fundamento no artigo 102, inciso III, alínea "a", da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que manteve a decisão de não conhecimento do recurso especial, nos termos da seguinte ementa (fl. 4.888):
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, II, DO CPC/2015. INEXISTÊNCIA. ACÓRDÃO RECORRIDO APOIADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Inexiste a alegada violação dos arts. 489, § 1º, e 1.022, II, do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a necessidade de manter o recorrente no polo passivo da execução fiscal por se encontrar evidenciada a responsabilidade tributária por formação de grupo econômico e sucessão empresarial, na forma do art. 133 do Código Tributário Nacional.
+2. O Tribunal de origem, amparado no conjunto fático-probatório dos autos, reconheceu a existência de sucessão empresarial e formação de grupo econômico já que, não obstante formalmente fossem pessoas jurídicas distintas, desenvolviam suas atividades empresariais como empresa única. Rever tal posicionamento, desconstituindo premissas fáticas, como pretende a parte agravante, demandaria necessário reexame da matéria de fato, o que é inviável em sede de recurso especial, ante a incidência do enunciado da Súmula n. 7/STJ.
+Agravo interno improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 4.934-4.937).
+No extraordinário de fls. 4.945-4. 962, a parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade aos arts. 1º, 5º, caput, XXXIV, a, XXXV, XXXVI, LIV e LV, e 93, IX, da Constituição Federal.
+Sustenta que o acórdão impugnado deveria ter acolhido o pedido de sobrestamento do processo até a fixação de tese aplicável ao caso por meio do Tema Repetitivo n. 1209.
+Afirma, ademais, que esta Corte teria incorrido em diversas omissões, deixando de analisar teses recursais relevantes para o deslinde da controvérsia.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+Não houve apresentação de contrarrazões recursais tempestivas (fl. 4.997).
+É o relatório.
+A insurgência não tem como prosperar.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 4.894-4.897):
+De início, inexiste a alegada violação dos arts. 489, § 1º, e 1.022, II, do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a necessidade de manter o ora agravante no polo passivo da execução fiscal por se encontrar evidenciada a responsabilidade tributária por formação de grupo econômico e sucessão empresarial, na forma do art. 133 do Código Tributário Nacional, que dispõe:
+ ..
+Enfatizo que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+ ..
+Constata-se que o Tribunal de origem, amparado no conjunto fático-probatório dos autos, reconheceu a existência de sucessão empresarial e formação de grupo econômico já que, não obstante formalmente fossem pessoas jurídicas distintas, desenvolviam suas atividades empresariais como empresa única.
+Rever tal posicionamento, desconstituindo premissas fáticas, como pretende a parte agravante, demandaria necessário reexame da matéria de fato, o que é inviável em sede de recurso especial, ante a incidência do enunciado da Súmula n. 7/STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Quanto às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Dito de outra forma, quando o Superior Tribunal de Justiça não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que dispõem sobre tais requisitos.
+Isso é o que ficou definido no Tema n. 181 do STF, no qual a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+Vale esclarecer que o entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nos casos em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
