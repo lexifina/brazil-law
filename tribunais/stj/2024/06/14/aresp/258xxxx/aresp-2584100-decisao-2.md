@@ -1,0 +1,11 @@
+DECISÃO
+Marcos Menezes Prochet agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça local, assim ementado:
+EMBARGOS DE NULIDADE. HOMICÍDIO QUALIFICADO(ART. 121, § 2º, IV, DO CÓDIGO PENAL). ACÓRDÃO PROFERIDO PELA 1ª CÂMARA CRIMINAL NÃO UNÂNIME EM RELAÇÃO AO DESPROVIMENTO DO RECURSO DE APELAÇÃO. VOTO VENCIDO QUEENTENDEU PELA NULIDADE DA SESSÃO DEJULGAMENTO POR USO DE ARGUMENTO DE AUTORIDADE PELA ACUSAÇÃO EM PLENÁRIO. PERTINÊNCIA. UTILIZAÇÃO DE CONDENAÇÕESANTERIORES, ANULADAS POR ESTE TRIBUNAL DEJUSTIÇA E DA CONDENAÇÃO DO CORRÉU PELOSMESMOS FATOS EM FEITO DESMEMBRADO COMO REFORÇO ARGUMENTATIVO. ARGUMENTOS APTOS A INFLUENCIAR, INDEVIDAMENTE, OS JURADOS. EVIDENTE REFERÊNCIA A DECISÕES POSTERIORES QUE JULGARAM ADMISSÍVEL A ACUSAÇÃO COMO ARGUMENTO DE AUTORIDADE QUE PREJUDICOU O ACUSADO. MÁCULA AO ART. 478, I, DO CPP. EMBARGOS. PROVIDOS, POR MAIORIA (e-STJ fl. 12.550).
+A defesa aponta a violação dos arts. 463, 478, I e 479 do CPP e 59 do CP, alegando, em síntese: i) que a fala da promotora mencionado a existência das condenações anteriores, mesmo anuladas, configuraram argumento de autoridade, influenciando o ânimo dos jurados; ii) a existência de juntada extemporânea de documentos por parte da acusação; iii) ausência de quórum para o sorteio do Conselho de Sentença e; iv) inidoneidade do fundamento utilizado para a avaliação negativa do vetor judicial da culpabilidade.
+Apresentadas contrarrazões, o Tribunal a quo inadmitiu o recurso especial, manifestando-se o Ministério Público Federal pelo desprovimento do recurso defensivo (e-STJ fls. 12.982/12.987)
+É o relatório. Decido.
+A pretensão aqu i deduzida encontra-se prejudicada pelo não provimento do recurso especial do Ministério Publico, ficando mantido o acórdão estadual que deu provimento aos embargos para, reconhecendo a utilização de argumento de autoridade por parte da promotora, declarar a nulidade da sessão de julgamento pelo Tribunal de Júri, com base no art. 478, I, do CPP, c/c. art. 5º, LIV, da CF.
+Flagrante, portanto, a perda de objeto do presente recurso.
+Ante o exposto, julgo prejudicado o agravo em recurso especial.
+Intimem-se.
+EMENTA
