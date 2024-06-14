@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EVERTON VIANA MORAES contra a decisão monocrática por mim exarada que concedeu a ordem de habeas corpus "para que o paciente seja intimado pelo juízo da execução para iniciar o cumprimento da pena e, consequentemente, que se expeça sua guia definitiva, antes que se expeça o mandado de prisão" (e-STJ 67/70).
+O embargante alega ser omissa a decisão que não teria se manifestado sobre o mandado de prisão já expedido contra o paciente, "deixando de determinar o seu recolhimento de maneira expressa".
+Requer sejam os embargos acolhidos e sanada a omissão apontada, com a determinação expressa de recolhimento do mandado de prisão expedido contra o paciente, para que ele possa ser devidamente intimado (e-STJ 76/79).
+Em contrarrazões, o Ministério Público do Estado de Minas Gerais posta-se pela rejeição dos embargos (e-STJ 88/90).
+É o relatório.
+Nos limites estabelecidos pelo artigo 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, aclarar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado. Não servem como recurso de revisão, isto é, são inadmissíveis quando forem pautados exclusivamente pela pretensão de rediscutir a matéria decidida.
+Os embargos de declaração devem ser acolhidos.
+Na origem, o paciente foi condenado, com trânsito em julgado, pela prática do crime de receptação (artigo 180 do Código Penal), a pena de 1 ano, 4 meses e 15 dias, no regime semiaberto.
+No acórdão condenatório, o Tribunal de Justiça de Minas Gerais determinou, após o trânsito em julgado, a expedição de mandado de prisão para que o paciente iniciasse o cumprimento da pena, tendo em vista que respondeu a todo o processo em liberdade (e-STJ fl. 46).
+Impetrou-se o presente habeas corpus nesta Corte de Justiça alegando-se a ocorrência de constrangimento ilegal decorrente do descumprimento, pelas instâncias ordinárias, da Resolução nº 474/2022, do Conselho Nacional de Justiça, que modificou o artigo 23 da Resolução nº 417/2021, e determinou que o condenado à pena privativa de liberdade, em regime inicial semiaberto ou aberto, seja intimado para início do cumprimento de pena, antes da expedição de mandado de prisão.
+Em decisão datada do último 21 de maio, por vislumbrar o alegado constrangimento ilegal, concedi a ordem determinando a expedição da guia de execução definitiva e a intimação do paciente para iniciar o cumprimento da pena sem, contudo, me manifestar acerca do mandado de prisão já expedido contra o paciente.
+Assim, sem maiores delongas, ACOLHO OS EMBARGOS DE DECLARAÇÃO para sanar a omissão apontada, passando a conclusão da decisão concessiva do habeas corpus a ter a seguinte redação:
+Ante o exposto, concedo a ordem de habeas corpus para que o paciente seja intimado pelo juízo da execução para iniciar o cumprimento da pena e, consequentemente, que se expeça sua guia de execução definitiva, antes que se expeça o mandado de prisão. Recolha-se eventual mandado de prisão expedido contra o paciente referente aos autos em análise.
+EMENTA
