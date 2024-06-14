@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 143):
+Recurso de apelação. Crime de furto. Recurso defensivo. Preliminar de nulidade em razão da leitura da denúncia durante a audiência de instrução. Não cabimento. Leitura da denúncia que não influenciou nos depoimentos das testemunhas, que forneceram seus relatos de forma livre e espontânea. Prejuízo não demonstrado. Mérito. Autoria e materialidade bem comprovadas pelas firmes palavras das testemunhas. Acusada que foi detida em flagrante logo após a prática do crime. Pleito de aplicação do princípio da insignificância. Inviabilidade. Lesão jurídica que não é inexpressiva. Pretensão de reconhecimento da tentativa. Não cabimento. Caracterizada a posse mansa e pacífica dos objetos subtraídos, ainda que por breve tempo. Condenação mantida. Pena e regime bem fixados. Inviabilidade de substituição da pena privativa de liberdade por restritiva de direitos, ante a reincidência da acusada. Negado provimento ao recurso.
+Consta dos autos que a paciente foi condenada a 1 ano e 2 meses de reclusão, em regime inicial aberto, e pagamento de 11 dias-multa, como incursa no art. 155, caput, do Código Penal.
+Neste writ, sustenta a defesa a nulidade do sistema acusatório e aos artigos 204 e 212 do CP tendo em vista que "a nobre Magistrada realizou em Juízo a leitura prévia para as testemunhas Rodrigo e Tauana de grande parte da denúncia, fornecendo detalhes relevantes sobre o caso apurado, tendo alguns deles, apenas, sido confirmados pelas testemunhas, que afirmaram expressamente não se recordarem sobre os fatos." (fl. 10).
+Aduz que deve ser aplicado o princípio da insignificância, considerando "que não houve lesão significativa ao bem jurídico tutelado que justifique a aplicação da Lei penal" (fl. 12).
+Argumenta que deve ser aplicada a causa de diminuição da pena referente à tentativa no importe de 2/3, pois o crime ficou longe da consumação.
+Requer, liminarmente e no mérito, a absolvição ou, subsidiariamente, o redimensionamento da pena, com a substituição da pena privativa de liberdade por restritivas de direito.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+É o breve relatório.
+Decido.
+Consoante informações prestadas pelo Tribunal de origem, a defesa do paciente interpôs recurso especial contra o mesmo acórdão, "estando o feito em fase de intimação da Procuradoria Geral de Justiça do teor do aresto" (fl. 178).
+Sendo assim, inviável a análise do presente writ, em razão do entendimento firmado nesta Corte Superior no sentido de que "não é cabível a impetração de habeas corpus concomitantemente com interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade" (AgRg no HC n. 549.368/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2019).
+A corroborar tal entendimento, os seguintes precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 218-A DO CÓDIGO PENAL. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO ORA IMPUGNADO. AUSÊNCIA DE SOLUÇÃO DEFINITIVA NA VIA RECURSAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. PLEITO ABSOLUTÓRIO. REVOLVIMENTO1= FÁTICO-PROBATÓRIO, INCABÍVEL NA VIA ELEITA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. RECURSO DESPROVIDO.
+1. A jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+2. Embora o art. 654, § 2.º, do Código de Processo Penal preveja a possibilidade de concessão de habeas corpus, de ofício, " t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/03/2022, DJe 22/03/2022).
+3. As instâncias ordinárias, soberanas na análise do conjunto probatório, entenderam devidamente demonstrada a prática do delito tipificado no art. 218-A do Código Penal - e assim o fizeram a partir da valoração do depoimento da vítima e de testemunhas -, razão pela qual, par a acolher o pleito absolutório seria necessário revolvimento fático-probatório, incabível na via eleita.
+4. Agravo regimental desprovido. (AgRg no HC n. 860.872/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
