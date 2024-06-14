@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por WRE SERVICOS DE DESIGNER LTDA, WLISSES RODRIGUES MIRANDA, EVA ELAINE ZACHERT RODRIGUES MIRANDA à decisão de fls. 371/372, que não conheceu do recurso.
+Sustenta a parte embargante que:
+3. No entanto, embora realmente os Embargantes tenham sido "regularmente intimada para sanar referido vício", a publicação não atendeu efetivamente ao princípio da publicidade dos atos processuais, porquanto não publicou o CONTEÚDO DO ATO, mas apenas o fato do processo encontrar-se com vista:
+ ..
+4. De acordo com o §3º, do art. 205, do CPC, "Os despachos, as decisões, as sentenças e os acórdãos serão redigidos, datados e assinados pelos juízes", sendo que "Os despachos, as decisões interlocutórias, o dispositivo das sentenças e a ementa dos acórdãos serão publicados no Diário de Justiça Eletrônico".
+5. A função precípua da publicação dos atos judiciais em diário da justiça está, não em promover a intimação das partes, mas em dar cumprimento ao princípio legal e constitucional da publicidade.
+ ..
+6. Portanto, não se trata da publicar a possibilidade vista dos autos à parte interessada, mas sim "Os despachos, as decisões interlocutórias, o dispositivo das sentenças e a ementa dos acórdãos", in casu, a publicação deveria conter:
+ ..
+7. Conforme art. 223, §1º, do CPC: "Decorrido o prazo, extingue-se o direito de praticar ou de emendar o ato processual, independentemente de declaração judicial, ficando assegurado, porém, à parte provar que não o realizou por justa causa. § 1º CONSIDERA-SE JUSTA CAUSA O EVENTO ALHEIO À VONTADE DA PARTE E QUE A IMPEDIU DE PRATICAR O ATO POR SI OU POR MANDATÁRIO".
+ ..
+9. Portanto, houve falha na publicação que intimou os Embargantes a regularizarem a falta de procuração nos autos.
+10. Ademais, antes mesmo da decisão recorrida, os Embargantes juntaram procuração nos autos, regularizando a representação processual (fl. 354 e-STJ), NÃO TENDO HAVIDO, PORTANTO, QUALQUER PREJUÍZO ao Embargado e tampouco a esta C. Corte .
+11. E, desde que não represente qualquer prejuízo a qualquer das partes, a apresentação de procuração fora do prazo concedido consiste em mera irregularidade, a qual pode ser corrigida a qualquer tempo(fls. 375/378).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Felipe Rodrigues de Abreu.
+Registre-se que, mesmo após a intimação da parte para sanear o vício (fl. 347), não houve a devida regularização, uma vez que juntou petição fora do prazo (fls. 356/360).
+Cumpre esclarecer que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade da representação processual era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Ademais, ao contrário do alegado pela parte embargante, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Na referida edição foram apresentadas todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este recurso. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
