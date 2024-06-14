@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WESLEY FELIPE BRAGA DE OLIVEIRA CARVALHO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, a ser cumprida em regime prisional semiaberto, substituída por prestação de serviços à comunidade e multa. Intimado para iniciar o cumprimento da PRD, o paciente deixou de comparecer à audiência de advertência.
+Diante disso, converteu as penas restritivas de direito em privativa de liberdade.
+Neste mandamus, a impetrante alega violação da ampla defesa, visto que o juízo sem intimar o paciente para justificar o não cumprimento da pena, converteu as penas restritivas de direito em privativa de liberdade.
+Aduz que "qualquer m edida adotada em sede de execução da pena e que possa implicar em alteração no cumprimento da pena, em especial aquelas relativas à regressão de regime ou cassação de benefícios concedidos, deve ser acobertada pelos princípios constitucionais do contraditório e da ampla defesa" (e-STJ, fl. 5).
+Requer a manutenção do cumprimento das penas restritivas de direito.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+O TJSP manteve a decisão de primeiro grau pelos seguintes fundamentos:
+"embora devidamente intimado a dar continuidade ao cumprimento da pena de forma regular e cientificado das consequências do não cumprimento (fls. 95/96 dos autos digitais originários), o sentenciado não atendeu à determinação judicial nem justificou a impossibilidade de cumprir a pena alternativa (fls. 99 - autos originais digitais), e o MM. Juízo a quo converteu a pena restritiva de direitos em privativa de liberdade - regime semiaberto - fixado na r. condenação (fls. 115/117).
+Desde logo, insta salientar não assistir razão à defensoria, quando aduz que o decisum guerreado importou em violação às garantias constitucionais do contraditório e da ampla defesa.
+Primeiro, porque não se trata de regressão, pelo que não há falar na incidência da regra do artigo 118, § 2º, da LEP.
+Outrossim, foi aberta vista à Defesa, inclusive com manifestação da Defensoria (fls. 110/113).
+Depois, tem-se que, diante de seu comportamento, evidenciador de desinteresse no cumprimento da sanção alternativa, correta se afeiçoa a conversão da pena imposta em privativa de liberdade, nos termos do artigo 44, § 4º, do Código Penal.
+Diante do exposto, nega-se provimento ao agravo." (e-STJ, fl. 163-164)
+Com efeito, conforme consta do disposto no artigo 44, § 4º do Código Penal: "A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. (..)" e no artigo 181, § 1º da Lei nº 7.210/84: "A pena de prestação de serviços à comunidade será convertida quando o condenado: b) não comparecer, injustificadamente, à entidade ou programa em que deva prestar serviço".
+No caso "o sentenciado, repita-se, foi intimado a dar continuidade ao cumprimento da pena restrita de direitos, mas quedou-se inerte" (e-STJ, fl. 123).
+Assim, observa-se que o reeducando devidamente intimado e cientificado das consequências do não cumprimento das penas alternativas impostas e advertido das condições a serem cumpridas, não cumpriu de forma satisfatória a reprimenda, tampouco justificou a impossibilidade de fazê-lo.
+Ademais, por não se tratar de caso de regressão de regime, não se exige a prévia oitiva judicial do condenado, nos termos do disposto no art. 118, § 2º, da Lei nº 7210/84.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE NÃO OCORRIDA. DECURSO DO PERÍODO DE CUMPRIMENTO DA PENA. NÃO OCORRÊNCIA. EQUÍVOCO DA SERVENTIA. RETIFICAÇÃO. NOVO DELITO. REGRESSÃO CAUTELAR DE REGIME. OITIVA JUDICIAL DISPENSÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+I. A tese sobre a ocorrência da extinção da punibilidade por decurso do período de cumprimento da pena deve ser rechaçada, uma vez que se constata ter ocorrido equívoco da serventia, o qual foi retificado, tendo havido posterior conhecimento e manifestação de ambas as partes, não assistindo, portanto, razão à defesa.
+II. Quanto à regressão cautelar ao regime semiaberto, não se verifica desacerto, uma vez que essa decorreu do descumprimento das condições impostas no regime aberto, em decorrência da prática de novo delito, sendo desnecessária a prévia oitiva do condenado.
+III - "Tratando-se de regressão cautelar, não é necessária a prévia ouvida do condenado, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que tal exigência, segundo a jurisprudência desta Corte de Justiça, somente é obrigatória na regressão definitiva ao regime mais severo, sob pena de contrariar a finalidade da medida (precedentes.)". (AgRg no HC n. 449.364/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/12/2018, DJe de 1º/2/2019.) IV. Agravo regimental desprovido.
+(AgRg no HC n. 850.413/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+HABEAS CORPUS. EXECUÇÃO CRIMINAL. APENADO NÃO LOCALIZADO PARA INICIAR O CUMPRIMENTO DAS PENAS RESTRITIVAS DE DIREITOS. INÍCIO DA EXECUÇÃO FRUSTRADO EM RAZÃO DE DESÍDIA DO CONDENADO, QUE NÃO INFORMOU OUTRO ENDEREÇO DIVERSO DAQUELE DECLINADO NOS AUTOS - ÔNUS LEGAL QUE LHE COMPETIA. RECONVERSÃO EM SANÇÃO PRIVATIVA DE LIBERDADE QUE SE IMPÕE. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Prevê o art. 367 do Código de Processo Penal que "o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo".
+2. Conforme dispõe o art. 44, § 4.º, primeira parte, do Código Penal, "a pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta".
+3. Nos termos do art. 181, § 1.º, alínea a, da Lei de Execução Penal, ocorrerá a reconversão da pena de prestação de serviços à comunidade em privativa de liberdade se o apenado "não for encontrado por estar em lugar incerto e não sabido, ou desatender a intimação por edital".
+4. Consideradas essas três regras, frustrado o início do cumprimento das penas restritivas de direitos e a realização da audiência de justificação em razão de desídia do Condenado, que não informou outro endereço diverso daquele declinado nos autos - ônus legal que lhe compete - deve ocorrer a reconversão em sanção privativa de liberdade.
+5. Ordem de habeas corpus denegada.
+(HC n. 493.068/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/5/2019, DJe de 30/5/2019.)
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
