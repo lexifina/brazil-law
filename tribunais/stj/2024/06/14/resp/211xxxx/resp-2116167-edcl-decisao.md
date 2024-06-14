@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ASSOCIAÇÃO NACIONAL DOS SERVIDORES DA POLÍCIA FEDERAL à decisão de fls. 514/515, que não conheceu do recurso.
+Sustenta a parte embargante que "o juízo da 1ª Vara Federal da Seção Judiciária de Alagoas proferiu sentença decretando a extinção da execução da qual se originou este recurso especial (processo nº 08077574-52.2022.4.05.8000)" (fl. 519). E que "o recurso manejado da decisão interlocutória torna-se completamente inútil, pelo que perde objeto e fica prejudicado" (fl. 519).
+Além disso, alega ainda que "com a superveniência de pronunciamento judicial final de mérito, faz impositivo o reconhecimento da perda do objeto do agravo de instrumento nº 00803461-62.2023.4.05.0000 e, consequentemente, deste recurso especial" (fl. 519).
+Por fim, "quem figura no polo ativo é a ANSEF, e não as pessoas físicas, que apenas são apenas substituídos processualmente. Assim, devidamente juntada procuração da ANSEF ao advogado subscritor deste recurso especial e cadeia completa de substabelecimento, mostra-se satisfeito o preenchimento deste pressuposto processual "(fl. 520).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termo s do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Assim, uma vez proferida a decisão, conforme feito às fls. 514/515, o referido decisum somente poderá ser alterado por recurso voluntário ou, de ofício, em razão de erro material. Nesse sentido, o presente recurso não merece prosperar, pois não há omissão, tampouco erro material, tendo em vista que não existia, nos autos, até a prolação da referida decisão, pedido de desistência da ação por perda do objeto, sequer notícia da existência da extinção da execução.
+Dessa forma, prolatada a referida decisão, não tem o condão de alterar essa situação jurídica a notícia trazida neste autos, pois já realizada, pelo STJ, a prestação jurisdicional. Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
