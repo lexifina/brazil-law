@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por CARLOS BERNARDES MENDES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE CONHECIMENTO. COMPRA E VENDA DE IMÓVEL RURAL. AD MENSURAM. AD CORPUS. RESSARCIMENTO INDEVIDO. APELAÇÃO DESPROVIDA. HONORÁRIOS MAJORADOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 500 do Código Civil, no que concerne ao direito de indenização pela parte faltante do terreno comprado, pois o negócio firmado entre as partes foi entabulado na modalidade ad mensuram, trazendo a seguinte argumentação:
+O ponto controvertido da demanda é constatar a modalidade utilizada entre as partes para a venda do imóvel rural, ou seja, venda por medida ("ad mensuram") e a venda "ad corpus", porquanto os efeitos do negócio jurídico são diversos.
+A venda de imóvel "ad mensuram" ou por medida, é aquela em que se fixa área determinada e estipula o preço por medida de extensão. Na prática, esse tipo de venda acontece quando o comprador adquire uma determinada metragem de terreno. Por consequência, sob pena de abatimento proporcional do valor, o vendedor tem de entregar a quantidade vendida, observado o limite de tolerância em 5% (cinco por cento) da área total enunciada.
+Por outro lado, considera-se "ad corpus" a compra e venda de uma determinada área, com limites e confrontações conhecidos pelas partes e colocados na descrição do título. Nesse caso, as partes não estão interessadas nas dimensões da porção de terra, mas no todo que compõe a área, o que inviabiliza eventual pretensão de complementação da área ou devolução do excesso.
+Ao apreciar a matéria devolvida, a Corte local apenas reiterou os termos da sentença, ignorando a fundamentação apresentada pelo recorrente, além de se equivocar ao apreciar a prova oral produzida em audiência, a qual não permite qualquer dubiedade interpretativa, senão de que a venda foi entabulada na modalidade ad mensuram. (fls. 173-174).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Tal situação nos conduz à necessidade de interpretar a vontade dos contraentes, consubstanciada nas cláusulas do contrato, o que robustece a conclusão a que chegou a sentença recorrida, quando corretamente qualifica a compra e venda como "ad corpus", e não "ad mesuram", subsumindo a relação jurídico-material objeto da lide ao que prevê o artigo 500, § 3º do CC, para assim declarar improcedente o pedido de indenização sob a forma de abatimento do preço.
+Desta forma, adoto os termos da sentença como razão de decidir do presente voto:
+" .. Pois bem. Analisando o caderno probatório, bem como interpretando o negócio jurídico a partir da boa-fé e da racionalidade econômica das partes, consideradas as informações disponíveis no momento de sua celebração (incisos III e V do art. 113 do CC), a única conclusão factível é a segunda hipótese, de venda por inteiro, independentemente de medida. Explico.
+ ..
+A promessa de compra e venda firmada (Id 145677209), em sua cláusula primeira, dispõe que:
+ ..
+Note-se que, embora mencionada a dimensão total da área no caput, não foi estabelecido o preço por medida.
+Não bastasse, o parágrafo único informa que o negócio envolve não apenas a propriedade rural, mas também os bens e benfeitorias nele erigidas.
+Percebe-se, então, uma impossibilidade material de precificação da unidade de medida de área apenas cotejando o valor total do negócio, pois não houve qualquer avaliação em separado das partes dele integrantes. É bom enfatizar, nesse aspecto, que as benfeitorias e equipamentos incluídos no negócio são significativos e possuem relevância econômica.
+ ..
+Cabe considerar, igualmente, que a cláusula segunda estipula que a contraprestação pela aquisição é o pagamento de preço total certo e ajustado, sem qualquer ressalva.
+Ora, se a área total a ser apurada fosse elemento decisivo para alcançar o preço final pactuado, recomendava a boa técnica e a lógica que o instrumento de promessa entre as partes apresentasse alguma ressalva quanto a eventual abatimento após a elaboração do georreferenciamento pendente naquele momento originário do instrumento de compromisso de compra e venda.
+ ..
+Em outras palavras, tanto o comprador como o vendedor concordaram com o preço total ajustado, mesmo cientes de que o tamanho da área seria apurado precisamente em processo tecnológico mais avançado em relação àquele que a definiu anteriormente, o que poderia resultar em diferença a maior ou menor.
+A diferença, portanto, poderia favorecer qualquer das partes, mas o preço final não ficou condicionado ao evento posterior.
+Quanto à prova oral, apenas corroborou tal conclusão, pois as partes em nenhum momento avaliaram, de fato, com precisão, o valor de cada alqueire, muito menos das benfeitorias, apenas estabeleceram estimativas genéricas de mercado para subsidiar as tratativas, mas sem qualquer pretensão de vinculação de cotação de medida unitária.
+ ..
+Enfim, não há na redação do contrato ou mesmo no comportamento das partes qualquer elemento a justificar o abatimento do preço pactuado, pois não em nenhum momento houve qualquer tratativa de vinculação de preço por área de alqueire e ambas as partes concordaram e estavam satisfeitas com o montante pactuado, mesmo pendente o procedimento de georreferenciamento, que acabou revelando uma área menor que a originalmente constante nos registros do imóvel, circunstância, entretanto, vale mais uma enfatizar, alheia ao montante final ajustado  .. ".
+Ante o exposto, CONHEÇO do recurso e NEGO-LHE provimento. (fls. 153-157, grifo meu).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
