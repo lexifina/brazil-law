@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por RAMON LOPES DE OLIVEIRA contra decisão do Tribunal de Justiça do Estado de Sergipe, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a" e "c", da Constituição da República.
+Nas razões recursais, aponta a defesa violação do artigo 33, § 2º, "c", do CP, além de dissídio jurisprudencial, pleiteando, em suma, a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos, diante do reconhecimento do tráfico privilegiado, e com amparo na Súmula Vinculante n. 59 do STF.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ, fls. 463-468).
+O recurso foi inadmitido (e-STJ, fls. 471-477). Daí este agravo (e-STJ, fls. 481-489).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 512-513).
+É o relatório.
+Decido.
+A irresignação prospera.
+Acerca da controvérsia, assim constou do acórdão recorrido (e-STJ, fls. 434-441):
+"Inicialmente, vejo que a pena base foi fixada em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, considerando a ausência de circunstância judicial desfavorável.
+E neste ponto, cabe registrar que a natureza e quantidade da droga, conquanto fatores preponderantes, não foram utilizados para exasperar a pena na 1.ª fase, exatamente como orienta a jurisprudência do STJ, pois considerados na modulação da causa de diminuição de pena do art. 33, §4º, da Lei 11.343/06.
+ ..
+Por fim, na terceira fase, o juízo a quo reconheceu a causa de diminuição de pena prevista no § 4º, do art. 33 da Lei 11.343/06 e reduziu a reprimenda em 1/4, sendo a fração aplicada objeto de irresignação recursal.
+ ..
+Foi apreendido em poder do recorrente  ..  (Peso Bruto = 7094,0 g; Peso líquido = 6982,0 g), quantidade que se mostra elevada a despeito da menor ofensividade do entorpecente (no caso, maconha).
+Quanto ao regime de cumprimento estabelecido (semiaberto), estetambém não merece reforma.
+É que a quantidade de droga apreendida e utilizada para modular a fração do tráfico privilegiado em  , autoriza a conclusão de que a conduta praticada possui maior grau de reprovabilidade, fato que permite a fixação do regime prisional imediatamente mais gravoso do que a quantidade de pena atrairia (03 (três) anos e 09 (nove) meses de reclusão), conforme arestos que seguem:
+ .. "
+De acordo com a Súmula 440 do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Outrossim, na identificação do modo inicial de cumprimento de pena necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+Do mesmo modo, tem-se decidido que considerações genéricas a respeito da gravidade abstrata, do desassossego e da intranquilidade causada à sociedade pelo delito de tráfico de drogas, não são argumentos idôneos para justificar a imposição de regime prisional mais gravoso que o estabelecido no Código Penal (art. 33, §§ 2º e 3º).
+Noutro giro, "No tocante ao regime de cumprimento de pena, a Súmula Vinculante nº 59/STF dispõe que é impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c, e do art. 44, ambos do Código Penal." (AgRg no AREsp n. 2.472.179/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024, grifou-se.)
+Corrobora:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA EXIGIDA PELO ART. 244 DO CPP. AGRESSÕES DURANTE O FLAGRANTE. QUESTÃO CONTROVERTIDA. REVOLVIMENTO FÁTICO-PROBATÓRIO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. SÚMULA N. 231/STJ. MODULAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO FUNDAMENTADA. QUANTIDADE RELEVANTE. SÚMULA VINCULANTE N. 59. REGIME ABERTO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. "Com relação à busca veicular, sabe-se que esta Corte Superior a equipara à busca pessoal, e o art. 244 do CPP assevera que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar" (HC n. 691.441/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/4/2022, DJe de 26/4/2022.) 2. No caso em questão, a abordagem se deu em razão do comportamento evasivo apresentado pelo paciente, haja vista que houve a desobediência a sinais sonoros e luminosos de parada, além da velocidade incompatível com a via, a evidenciar fundada suspeita, sem configurar flagrante ilegalidade.
+3. Não se verifica flagrante ilegalidade pela indicação de agressões sofridas no flagrante com a consequente nulidade da busca pessoal, pois, assim como demonstrado pela Corte de origem, a situação carece de dilação probatória e já foi oficiado o órgão responsável para avaliar a conduta empregada pelos policiais.
+4. Diante da Súmula n. 231/STJ, devidamente justificada a não diminuição da pena .
+5. Conforme o entendimento jurisprudencial, é viável a utilização da quantidade de droga para modular a fração de redução referente à minorante do tráfico privilegiado, de modo que a apreensão de 6,5kg de maconha pode conduzir à diminuição da pena em metade.
+6. A fixação da pena-base no mínimo, com incidência da minorante do tráfico privilegiado, com pena final de 2 anos e 6 meses de reclusão, pode conduzir ao regime aberto, conforme enunciado vinculante 59/STF.
+7. Agravo regimental parcialmente provido apenas para fixar o regime aberto.
+(AgRg no HC n. 867.685/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024, com destaque).
+In casu, as circunstâncias judiciais previstas no art. 59 do Código Penal foram consideradas favoráveis, tanto que a pena-base foi fixada no mínimo legal. O recorrente é primário, e a pena definitiva é inferior a 4 (quatro) anos de reclusão. Assim, faz jus ao cumprimento inicial da pena no regime aberto.
+Ademais, pelas mesmas razões acima alinhavadas (primariedade do agente e valoração favorável das circunstâncias judiciais), é cabível a substituição da pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial , a fim de fixar o regime inicial aberto para o cumprimento da pena privativa de liberdade, a qual deverá ser substituída por restritiva de direitos, a ser estabelecida pelo Juízo de Execução.
+Publique-s e. Intimem-se.
+EMENTA
