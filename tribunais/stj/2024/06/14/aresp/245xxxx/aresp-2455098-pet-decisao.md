@@ -1,0 +1,9 @@
+DECISÃO
+A agravante VIARONDON CONCESSIONARIA DE RODOVIA S.A. noticia a celebração do Termo Aditivo Modificativo n. 03/2024, mediante o qual o Estado de São Paulo deferiu "a compensação de todas as multas aplicadas à Recorrente, por meio da incorporação dos investimentos de que trata a Cláusula Segunda, nos termos do art. 11, §1º, da Resolução SPI nº 001/2024" (fl. 1.322), razão pela qual solicita a extinção do processo, com resolução do mérito, nos termos do art. 487, III, b, do CPC.
+Juntado, às fls. 1.366/1.372, o Termo Aditivo Modificativo n. 03/2024 por meio do qual as partes efetivaram a transação em comento.
+Foi determinada a inti mação da Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP, ora agravada, a qual juntou a petição de fl. 1.380, em que se manifesta no sentido de que "não se opõe à extinção do feito, com resolução de mérito, nos termos do artigo 487, III, "c", do Código de Processo Civil, devendo a recorrente arcar com os ônus sucumbenciais já fixados na demanda.".
+Pois bem.
+No caso, anoto que as partes transatoras encontram-se devidamente representadas. Ademais, o objeto da transação é lícito e obedeceu à forma da lei, havendo a participação do Estado de São Paulo, poder concedente.
+ANTE O EXPOSTO, com arrimo nos arts. 487, III, b, e 932, I, do CPC, bem como no art. 34, III e IX, do RISTJ, homologo a transação de fls. 1.366/1.372, consubstanciada no Termo Aditivo Modificativo n. 03/2024, determinando a extinção do feito, com resolução de mérito. Por conseguinte, fica prejudicado o exame do agravo interno (fls. 1.304/1.312). Eventuais incidentes referentes ao cumprimento da avença ficam delegados à deliberação do Juízo de primeiro grau, a 3ª Vara de Fazenda Pública da Comarca de São Paulo/SP.
+Publique-se.
+EMENTA
