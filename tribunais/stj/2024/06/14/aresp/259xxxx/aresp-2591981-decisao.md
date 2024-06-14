@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELAINE REGINA MARTINS DA SILVA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO DE REJEIÇÃO DE "EMBARGOS Á ADJUDICAÇÃO" AUTO DE ADJUDICAÇÃO ASSINADO COM EXPEDIÇÃO DE CARTA ENCAMINHADA A REGISTRO OBSERVÂNCIA DO DISPOSTO NO ART. 877, §1º DO CPC"2015 - ADJUDICAÇÃO PERFEITA E ACABADA IMPOSSIBILIDADE DE RETROAGIR PARA APRECIAÇÃO DAS QUESTÕES TRAZIDAS QUE NEM MESMO DIZEM RESPEITO A ALGUM DOS VÍCIOS PREVISTOS NO ART. 903, §1º DO MESMO DIPLOMA LEGAL - PRECLUSÃO OPERADA RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 884 do Código Civil, no que con cerne à ocorrência de enriquecimento indevido do recorrido, trazendo a seguinte argumentação:
+O Acórdão recorrido, contrariou expressamente o disposto no artigo 884 do Código Civil, além de ter dado interpretação diversas, sendo o Recorrido esta tendo o enriquecimento indevido.
+ ..
+O Acórdão, não for reformado, o Recorrente estará perdendo um bem de família, já que o imóvel pertence aos seus genitores, que são os fiadores do contrato.
+O Recorrente, nos autos, requereu a nomeação de um perito, para avaliar a compra e venda de fundo do comércio, o que foi indeferido.
+O Requerente, requereu a devolução, ou seja, a resolução contrato, com a entrega de todos os equipamentos e móveis, mesmo levando prejuízo, para os exequentes liberem-se o bem imóvel penhorado, 0/o que foi indeferido.
+Pelo processo 1016768-96.2023.8.26.0577 o Requerente, ajuizou AÇÃO DE RESOLUÇÃO POR ONEROSIDADE EXCESSIVA, em 25 de maio de 2023, que o Recorrido, ora, Réu no processo, não foi intimado, por estar em lugar incerto e não sabido.
+O imóvel que foi dado em penhora e que o Requerido requereu a expedição de carta de adjudicação e mandado de imissão na posse, nos termos do ACÓRDÃO, vem a beneficiar o credor em enriquecimento ilícito.
+A interpretação do texto de Lei Federal dada no caso concreto esta em desacordo com o seu real sentido ou o texto não foi observado em sua mais básica interpretação, sendo a mais correta a tese favorável ao Recorrente, artigo 105. III, "a", da Constituição Federal. (fls. 51-54).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010).
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
