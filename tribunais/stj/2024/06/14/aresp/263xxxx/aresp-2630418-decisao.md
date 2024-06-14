@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE RODRIGUES DE JESUS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL - CONTRATO BANCÁRIO - PRELIMINAR DE NULIDADE DA SENTENÇA - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - CÓDIGO DE DEFESA DO CONSUMIDOR - JUROS REMUNERATÓRIOS - INSTRUÇÃO NORMATIVA INSS Nº 28 DE 16/05/2008 - AUSÊNCIA DE ABUSIVIDADE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 369 do CPC, no que concerne à configuração de cerceamento de defesa em razão da impossibilidade de produção de prova pericial, trazendo a seguinte argumentação:
+Segundo o artigo supramencionado as partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz.
+Contudo, para a comprovação das alegações trazidas na exordial, referente aos juros cobrados, se faz necessário a concessão da prova pericial contábil, tendo em vista que a ilegalidade só é possível ser demonstrada através de cálculos contábeis, uma vez que a taxa de juros descrita no contrato não espelha a verdade.
+Importante clarificar, que o recorrente cuidou de colacionar aos autos cálculos unilaterais que demonstram a cobrança dos juros remuneratórios superiores daqueles informados no contrato, no qual, com a realização da perícia contábil que fora incorretamente indeferida, comprovaria a correta aplicação dos cálculos unilaterais colacionados pelo recorrente e a consequente ilegalidade dos juros realmente cobrados na prática pelo recorrido, evidenciando que estes estão em desacordo com é determinado pela Instrução Normativa Nº 28/2008 do INSS.
+Portanto, resta clarificado que o referido acórdão violou o artigo 369 do Código de Processo Civil, pois não possibilitou ao recorrente o direito de empregar todos os meios de provas legais permitidos, motivo pelo qual deve ser reformado (fls. 368/369).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+DA PRELIMINAR DE NULIDADE DA SENTENÇA - CERCEAMENTO DE DEFESA
+Não obstante o esforço empreendido pela parte Apelante em sustentar a nulidade da r. sentença por cerceamento de seu direito de defesa, em razão da não realização da produção da prova pericial requerida, entendo que razão não lhe assiste.
+No caso em comento, as cláusulas contratuais impugnadas na inicial encontram-se descritas no instrumento contratual de ordem nº 07, de modo que a partir de uma simples leitura de tal documento é possível apurar-se a taxa de juros estipulada, sendo desnecessária, portanto, a perícia técnica pretendida pela parte Recorrente.
+Embora o Juiz não seja o único é o destinatário das provas, cabe a ele sua valoração e o exame da conveniência em sua produção.
+ ..
+No presente caso, a cópia do contrato firmado entre as partes e discutido na inicial foi juntada nos autos e nele constam todas as taxas, encargos e o custo efetivo total.
+A aferição da alegada abusividade ou excesso dos encargos pontuais, referidos na petição inicial, não exige conhecimento técnico específico que impedisse o julgamento antecipado, sendo desnecessária a prova pericial contábil requerida pela Apelante.
+O Juiz, destinatário da prova, diante do princípio da livre admissibilidade da prova, pode indeferir as provas inúteis ao seu convencimento, conforme art. 370, §único do CPC, sem que isso configure cerceamento de defesa ou violação ao princípio da ampla defesa.
+Como a prova pericial pleiteada pela parte Recorrente não era realmente necessária, não deve ser acolhido o argumento de cerceamento de defesa e nulidade da sentença.
+Assim, rejeito a preliminar de cerceamento de defesa, suscitada pela parte Apelante (fls. 356/357).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
