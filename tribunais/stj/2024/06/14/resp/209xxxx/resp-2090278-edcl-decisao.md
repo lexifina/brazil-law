@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração manejado pelo MUNICÍPIO DE APORÁ contra decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E FINANCEIRO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA N. 284 DO STF. ROYALTIESDO PETRÓLEO. OBRIGAÇÃO DE TRANSFERÊNCIA, PELOS ESTADOS, DE 25% DOS ROYALTIES AOS MUNICÍPIOS. ART. 9º DA LEI N. 7.990/1989. QUESTÃO DECIDIDA NA ORIGEM COM ENFOQUE EMINENTEMENTE CONSTITUCIONAL. ADI 4.846/ES. IMPOSSIBILIDADE DE REEXAME EM SEDE DE RECURSO ESPECIAL. ALEGAÇÃO DE AUSÊNCIA DE EFICÁCIA DO ART. 9º DA LEI N. 7.990/1989 EM RAZÃO DA NOVA REDAÇÃO DADA AO ART. 48 DA LEI N. 9.478/1997 PELA LEI N. 12.734/2012. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO LEGAL TIDO POR VIOLADO APTO AO ACOLHIMENTO DA PRETENSÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AUSÊNCIA DE INTERESSE RECURSAL QUANTO AO AFASTAMENTO DE CONDENAÇÃO RELATIVA AO ART. 49 DA LEI N. 9.478/1997, VISTO QUE NÃO HOUVE TAL CONDENAÇÃO NA ORIGEM. RECURSO ESPECIAL NÃO CONHECIDO.
+A embargante alega omissão em relação à majoração da condenação a título de honorários de sucumbência recursal, na forma do art. 85, § 11, do CPC/2015, tendo em vista o não conhecimento do recurso da parte contrária.
+Requer o acolhimento dos aclaratórios para sanar o vício apontado.
+Impugnação às fls. 633-637 e-STJ.
+É o relatório. Passo a decidir.
+Com efeito, a decisão embargada incorreu em omissão no que tange aos honorários de sucumbência recursal, razão pela qual acolho os aclaratórios para sanar o vício alegado.
+Considerando o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), e levando em consideração o trabalho adicional realizado em grau recursal, impõe-se a majoração dos honorários advocatícios (a título de sucumbência recursal) em 10% sobre o valor que vier a ser fixado em liquidação (condenação imposta pelo acórdão recorrido, fls. 384 e-STJ, o qual apenas postergou a definição do percentual para a fase de liquidação - art. 85, § 4º, II, do CPC), obedecendo o respectivo limite legal.
+Ante o exposto, acolho os embargos de declaração do particular, sem efeitos infringentes, apenas para fixar honorários de sucumbência recursal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ACLARATÓRIOS ACOLHIDOS, SEM EFEITOS INFRINGENTES, APENAS PARA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS.
