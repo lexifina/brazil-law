@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PAULO ROBERTO TELES DE SOUSA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ em julgamento da Apelação Criminal n. 0050304-13.2021.8.06.0070..
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 147 do Código Penal - CP (ameaça), à pena de 3 meses de detenção, em regime inicial aberto (fl. 154).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 223). O acórdão ficou assim ementado:
+"PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. AMEAÇA (ART. 147, CAPUT, DO CÓDIGO PENAL). RECURSO DEFENSIVO. 1. PLEITO DE EXTINÇÃO DA PUNIBILIDADE PELA DETRAÇÃO DO PERÍODO DE CUMPRIMENTO DE MEDIDA CAUTELAR DE RECOLHIMENTO NOTURNO E DIAS DE FOLGA (COM MONITORAÇÃO ELETRÔNICA). NÃO CONHECIMENTO. TEMPO DE VIGÊNCIA DO RECOLHIMENTO DOMICILIAR NOTURNO (ART. 319, V DO CPP) QUE PODE SER DESCONTADO NA PENA PRIVATIVA DE LIBERDADE. CONTUDO, NECESSIDADE DE CONVERSÃO DE HORAS EM DIAS. PRECEDENTES DO STJ. MATÉRIAS AFETAS AO JUÍZO DA EXECUÇÃO PENAL. DETRAÇÃO QUE NÃO PODE SER APLICADA NA SENTENÇA. NECESSIDADE DE CÁLCULOS A SEREM REALIZADOS PELO JUÍZO EXECUTÓRIO. PRECEDENTES. 2. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR UMA RESTRITIVA DE DIREITO REFERENTE À PENA PECUNIÁRIA. PEDIDO DE EXCLUSÃO DA MULTA. ALEGAÇÃO DE HIPOSSUFICIÊNCIA DO RECORRENTE. NÃO CONHECIMENTO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. RECURSO NÃO CONHECIDO." (fl. 215)
+Em sede de recurso especial (fls. 231/239), a defesa apontou violação ao art. 42 do CP e art. 387, § 2º, do CPP, sustentando, em síntese, a aplicação da detração penal com a consequente exclusão da pena.
+Sem contrarra zões.
+Admitido o recurso no TJ (fls. 249/251), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 264/268).
+É o relatório.
+Decido.
+Acerca da pretensão recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ consignou o seguinte (fls. 220/221):
+"Contudo, em que pese a possibilidade de detração do período de cumprimento de medidas cautelares que restringem a liberdade, a exemplo do recolhimento domiciliar noturno, esta deve ser feita através da conversão das horas em dias, considerando o tempo em que o apenado teve que permanecer recolhido, conforme entendimento citado.
+Em razão disso, o pedido de detração da pena cumprida provisoriamente deve ser analisado pelo Juízo da Execução Penal, na forma do art. 66, III, alínea c, da Lei nº 7.210/84, vez que detém mais informações para calcular o tempo de prisão provisória do recorrente.
+Acrescente-se, ainda, que, conforme disposição expressa do art. 66, inciso II, da LEP, compete ao Juízo Executório declarar a extinção da punibilidade pelo cumprimento da pena, como busca o apelante, após o trânsito em julgado da sentença condenatória, realizando o devido abatimento do tempo de prisão provisória."
+A jurisprudência desta Corte Superior é firme no sentido de que, já que não aplicada pelo juiz sentenciante, a detração penal deverá ser pleiteada e analisada pelo juízo das execuções.
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM ECONÔMICA. AUSÊNCIA DE DOLO. PRETENSÃO DE RECONHECIMENTO DO ERRO DE TIPO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+I - Esta Corte Superior de Justiça, possui entendimento no sentido de que se estiverem ausentes, nos autos, os elementos necessários à aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do paciente autoriza a fixação de regime mais brando (Precedentes).
+II - Na hipótese, o Tribunal de origem ao julgar o recurso de apelação, em consonância com o entendimento desta Corte, reconheceu que a detração, já que não aplicada pelo juiz sentenciante, deverá ser pleiteada e analisada pelo juízo das execuções, porquanto este tem, de fato, mais elementos para avaliar a possibilidade do recorrente iniciar o cumprimento da pena em regime mais brando, considerando o tempo de prisão cautelar. Agravo regimental desprovido.
+(AgRg no REsp 1733132/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 09/05/2018).
+Ressalta-se que "As alterações trazidas pela Lei n. 12.736/2012 não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o magistrado sentenciante não houver adotado tal providência" (AgRg no REsp 1716664/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/05/2018).
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
