@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VOLKSWAGEN TRUCK & BUS INDÚSTRIA E COMÉRCIO DE VEÍCULOS LTDA. (VOLKSWAGEN) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 2.034/2.049).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, VOLKSWAGEN alegou a violação dos arts. 489, §1º, IV e VI, 1.022, parágrafo único, I e II, e parágrafo único, do NCPC, 189 e 206, §3º, IV, do CC, aduzindo que (1) o acórdão recorrido incorreu em omissão e obscuridade quanto ao termo inicial da pretensão de restituição, que deveria ser a data do desembolso dos valores, não do trânsito em julgado no mandado de segurança; e (2) o prazo prescricional é contado a partir da data do desembolso da parcela indevida, quando há ciência da lesão (e-STJ, fls. 1.965/1.981).
+(1) Da omissão e da obscuridade
+O Tribunal estadual se pronunciou de forma fundamentada e clara acerca do termo inicial da prescrição, consignando que o direito à restituição apenas nasceu quando concretizada a desoneração fiscal no mandado de segurança ajuizado pela VOLKSWAGEN, confira-se:
+Ocorre que a decisão agravada, mantida no acórdão embargado, versa exatamente sobre a excepcionalidade de que in casu, o direito da Embargada a pleitear o repasse de reflexos de desoneração tributária dependia e estava subordinado à decisão que viria a ser tomada em Mandado de Segurança intentado pela montadora ora Embargante, não se aplicando ao caso a regra de que o pagamento do tributo indevido pela Embargada seria o marco a deflagrar a contagem do prazo prescricional.
+Isso fica claro no texto do acórdão embargado, o que afasta o argumento de omissão ou obscuridade:
+A Agravante reforça tal argumento, aduzindo que tanto é assim que a própria decisão agravada determina que o perito tome por base as notas fiscais relativas às aquisições da Agravada no período entre 2008 e 2013, ano em que encerrada a relação entre a concessionária Agravada e a Volkswagen Truck.
+No entanto, a Agravada de fato só passou a ter interesse processual para o ajuizamento da demanda quando a Agravante por fim teve transitado em seu favor o julgado que lhe garantiu o direito de levantar valores que depositara nos autos do Mandado de Segurança n.º 0022459-29.2008.4.03.2100, relativos ao ICMS que fora subtraído da base de cálculo do PIS e da COFINS.
+Como o levantamento dos depósitos judiciais se deu em 28/06/2019, tem-se por tempestivo ao ajuizamento da demanda ocorrido em 10/01/2019, a teor do art. 206. § 3.º IV do Código Civil, porquanto, não tendo a Agravada fundado seu pleito na exordial no contrato, tanto que não o juntou, implícito que a pretensão funda-se no enriquecimento sem causa da Agravante, e não na hipótese do art. 205 do CPC.
+Portanto, a interlocutória impugnada há de ser neste aspecto mantida por seus próprios fundamentos.(g.n.) (e-STJ, fls. 1.959/1.960).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/02/2022, DJe 03/03/2022)
+Afasta-se, portanto, a alegada violação.
+(2) Do termo inicial da prescrição
+Esta Corte Superior possui jurisprudência consolidada de que a pretensão nasce a partir do conhecimento da violação do direito e de sua extensão, momento em que se inicia o curso do prazo prescricional.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. SUBSTITUIÇÃO TRIBUTÁRIA. RESTITUIÇÃO À CONCESSIONÁRIA AUTORA DE IPI RECOLHIDO A MAIOR. PRESCRIÇÃO. TEORIA DA ACTIO NATA. QUANTUM DEBEATUR. APURAÇÃO NA FASE DE LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa aos arts. 165 e 535 do Código de Processo Civil de 1973 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. "O curso do prazo prescricional do direito de reclamar inicia-se somente quando o titular do direito subjetivo violado passa a conhecer o fato e a extensão de suas conseqüências, conforme o princípio da actio nata" (REsp 1.257.387/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe de 17/09/2013).
+3. Hipótese em que, a teor das instâncias ordinárias, a autora só tomou conhecimento da violação do seu direito em 6/12/2007, não estando prescrita, portanto, a ação ajuizada em 11/12/2009, dentro do triênio (CC/2002, art. 206, § 3º, IV).
+4. A reforma do acórdão recorrido, quanto ao ônus da prova, à alegada quitação plena dada por ocasião do distrato e à validade do acordo firmado entre a montadora e a respectiva associação de concessionários, exigiria o revolvimento de fatos e provas e a interpretação de instrumento contratual, providências vedadas no recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+5. Divergência jurisprudencial quanto à obrigação da parte autora em instruir a inicial com a documentação necessária à demonstração do seu direito, não demonstrada. As razões que levaram o paradigma a entender que, naquele caso, a autora não se desincumbiu do ônus da prova, revestem-se de uma especificidade muito restrita à situação concreta. Além disso, esta Corte admite que, uma vez reconhecido o direito, a apuração do quantum debeatur pode ocorrer na fase de liquidação de sentença.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 411.846/ES, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 12/9/2017, DJe de 2/10/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TERMO INICIAL. PRESCRIÇÃO. ACTIO NATA. AÇÃO DE INDENIZAÇÃO. DANO MORAL. PRETENSÃO INDENIZATÓRIA. CONDIÇÃO IMPEDITIVA. EXISTÊNCIA. PROCESSO. ADMINISTRATIVO DISCIPLINAR. ARQUIVAMENTO. PEDIDO. ABUSO.
+1. O Superior Tribunal de Justiça possui jurisprudência no sentido de que o curso do prazo prescricional do direito de reclamar se inicia somente quando o titular do direito subjetivo violado passa a conhecer o fato e a extensão de suas consequências, conforme o princípio da actio nata. Incidência da Súmula nº 83/STJ.
+2. Na hipótese, a pendência do processo disciplinar, no qual se apurava a suposta conduta ilícita da autora na condução do processo judicial, constitui empecilho ao início da fluência da prescrição da pretensão indenizatória amparada no abuso de petição.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.741.512/DF, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 20/11/2023, DJe de 23/11/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PRETENSÃO DE RESTITUIÇÃO DE VALORES LEVANTADOS INDEVIDAMENTE. PRESCRIÇÃO TRIENAL. ACTIO NATA. FLUÊNCIA DO PRAZO A PARTIR DO CONHECIMENTO DO LEVANTAMENTO DO NUMERÁRIO. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ALEGAÇÃO DE QUE O RECURSO NÃO PODERIA TER SIDO JULGADO MONOCRATICAMENTE. JULGAMENTO COLEGIADO. CONVALIDAÇÃO. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A alegação de que o recuso não poderia ter sido julgado monocraticamente pela ausência dos pressupostos legais específicos fica prejudicada com o julgamento colegiado do agravo interno. Precedentes.
+3. O reconhecimento de que o prazo prescricional deve ser contado com observância ao princípio da actio nata constitui questão de direito e não de fato, sendo, por isso, impertinentes os óbices das Súmulas nºs 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.801.880/SP, de minha relatoria, Terceira Turma, j. em 20/4/2020, DJe de 23/4/2020.)
+Desse modo, a prescrição não poderia se iniciar a partir do desembolso dos valores, porquanto apenas no mandado de segurança foi reconhecido o direito à desoneração fiscal da VOLKSWAGEN, antes do qual inexistia o direito à pleiteada restituição.
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurs o contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO. DESONERAÇÃO DE ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS OBTIDO POR FABRICANTE. CONCESSIONÁRIA. PRESCRIÇÃO. ACTIO NATA. TERMO INICIAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
