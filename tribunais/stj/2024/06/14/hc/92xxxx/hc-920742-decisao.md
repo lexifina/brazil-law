@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUILHERME FELIPE DA SILVA, contra decisão indeferitória da liminar, proferida por Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Extrai-se dos autos que o paciente foi denunciado como incurso no art. 157, §2º, II e V; art. 158, §1º e §3º, primeira parte, e art. 158, §1º e §3º, primeira parte, c.c. o art. 14, todos do Código Penal, sendo os dois últimos na forma do art. 70, caput, do Código Penal, e todos na forma do art. 69, também do Código Penal, sendo decretada sua prisão preventiva quando do recebimento da denúncia.
+A defesa impetrou habeas corpus perante o Tribunal de origem, tendo o Relator indeferido o pedido liminar, nos termos da decisão de fls. 357-359 (e-STJ).
+Nesta sede, a defesa alega, em suma, que a decisão que decretou a prisão está insuficientemente fundamentado. Argumenta que não existem indícios concretos de autoria e que a prisão carece de contemporaneidade. Salienta, ainda, que não estão demonstrados os requisitos do art. 312 do Código de Processo Penal.
+Requer a concessão da ordem, inclusive liminarmente, para que seja revogada a prisão.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. WRIT INDEFERIDO LIMINARMENTE NA ORIGEM. SÚMULA 691 DO STF. NULIDADE DO ACESSO AO CELULAR. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE ILEGALIDADE.
+1. Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+2. A nulidade acerca do acesso ilegal no celular do recorrente não foi apreciada na decisão impugnada, motivo pelo qual também não será examinada por esta Corte Superior, sob pena de indevida supressão de instância.
+3. O decreto apresenta fundamentação que deve ser considerada idônea, baseada na grande quantidade de maconha apreendida (79 kg), além do fato de o recorrente ser reincidente e pertencer à associação criminosa voltada para o tráfico de drogas. Precedentes.
+4. Não de divisa manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+5. Agravo regimental improvido." (AgRg no HC 760.492/MS, Relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO. IMPETRAÇÃO CONTRA INDEFERIMENTO LIMINAR NA ORIGEM. INCIDÊNCIA DA SÚMULA N. 691 DO STF. CONDENAÇÃO. REGIME INICIAL SEMIABERTO. NEGATIVA AO RECURSO EM LIBERDADE. MANUTENÇÃO DA PRISÃO PREVENTIVA. NECESSIDADE DE ADEQUAÇÃO DA CUSTÓDIA AO REGIME IMPOSTO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Nos termos da Súmula n. 691 do STF, não cabe habeas corpus contra decisão que indefere pedido de liminar formulado em writ originário.
+2. A manutenção da custódia cautelar e a negativa ao recurso em liberdade justificam-se diante do risco à ordem pública, evidenciado pela periculosidade do agente, apontado como integrante de organização criminosa voltada à prática de tráfico de drogas em grande escala e à lavagem de dinheiro.
+3. A custódia cautelar deve ser compatibilizada com o regime prisional imposto na sentença, conforme a Súmula n. 716 do STF, sob pena de imposição de regime mais gravoso.
+4. Agravo regimental parcialmente provido. Ordem concedida de ofício, para determinar a transferência do agravante para estabelecimento prisional compatível com o regime semiaberto." (AgRg no HC 754.565/MG, Relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontra assim motivada:
+"Segundo consta na impetração, o paciente foi denunciado juntamente com Edinei Rodrigues Gonçalves Junior e Caique Souza Xavier pela prática do crime previsto no artigo 157, §2º, incisos II e V; artigo 158, §1º e §3º, primeira parte, e artigo 158, §1º e §3º, primeira parte, c.c. o artigo 14, inciso II, todos do Código Penal,sendo os dois últimos na forma do artigo 70, caput, do Código Penal, e todos na forma do artigo 69, também do Código Penal, sendo decretada sua prisão preventiva quando do recebimento da denúncia (fls. 260/261). O paciente foi preso preventivamente em 24 de maio de 2024 (fls. 289/281).
+Sustenta o impetrante, em síntese, que a decisão que decretoua prisão preventiva é nula, pois carece de fundamentação concreta, eis que externou de forma genérica e abstrata a necessidade de garantia da ordem pública, e por ter decorridolongo período de tempo entre o cometimento do crime e o decreto preventivo.
+Argumenta, ainda, não haver indícios suficientes de autoria, pois a prisão do paciente foi decretada com base no reconhecimento fotográfico realizadoem sede inquisitorial, não sendo juntadas os autos as fotografias utilizadas no procedimento. Refere também que, ouvido pela autoridade policial, o paciente afirmou queé seu irmão Luiz Ricardo quem aparece nas filmagens cometendo o crime, e que ambos são muito parecidos.
+Por fim, afirma a ausência dos requisitos da prisão preventivae de periculum libertatis,destacando que o paciente não ostenta antecedentes criminais.
+Em aditamento, informou que Luiz Ricardo, irmão do paciente, foi preso em flagrante em 13 de março de 2023, juntamente com os corréus Edinei e Caique, seis dias após a ocorrência do roubo pelo qual o paciente se vê processado, bem como juntou a fotografia dos três utilizada para fins de reconhecimentoem solo policial.
+Destarte, requer, liminarmente, a revogação da prisão preventiva e a concessão de liberdade provisória (fls. 01/16).
+Indefiro a liminar.
+Em que pesem os argumentos trazidos pela Defesa, a medidaliminar emHabeas Corpus somente é cabível quando o constrangimento ilegal formanifesto, detectado de imediato por meio do exame sumário da inicial e dos documentosque a instruem, de maneira a autorizar a providência ora postulada.
+Em análise perfunctória própria do writ, não se verificaausência de fundamentação na decretação da prisão preventiva em face do paciente (fls.260/261), tampouco a presença de qualquer irregularidade formal a justificar a concessãoda medida liminar pleiteada.
+Portanto, no presente caso não se divisa irregularidademanifesta a ponto de ensejar a medida excepcional do mérito do writ em sede liminar.
+Logo, a matéria deverá ser apreciada detidamente por ocasiãodo julgamento do Habeas Corpus, após seu regular processamento." (e-STJ, fls. 357-359).
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
