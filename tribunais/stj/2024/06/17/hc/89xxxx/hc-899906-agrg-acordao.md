@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, ROUBO QUALIFICADO, DESTRUIÇÃO, SUBTRAÇÃO OU OCULTAÇÃO DE CADÁVER E ASSOCIAÇÃO CRIMINOSA. TRIBUNAL DO JÚRI. CONDENAÇÃO CONTRÁRIA À PROVA DOS AUTOS. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE NA VIA ESTREITA DO WRIT. AGRAVO DESPROVIDO.
+1. O Tribunal de origem afastou a existência de decisão manifestamente contrária à prova dos autos e modificar essa conclusão, no sentido de que a decisão do Conselho de Sentença foi manifestamente contrária ao conjunto probatório, seria necessária a reanálise dos fatos e das provas constantes nos autos, providência vedada no habeas corpus.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por LUIZ PAULO GOMES JARDIM, contra decisão de minha lavra, de fls. 925/930, em que indeferi liminarmente o presente habeas corpus.
+O agravante alega que a condenação foi manifestamente contraria às provas dos autos.
+Requer a reconsideração da decisão, ou o julgamento do recurso na Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, ROUBO QUALIFICADO, DESTRUIÇÃO, SUBTRAÇÃO OU OCULTAÇÃO DE CADÁVER E ASSOCIAÇÃO CRIMINOSA. TRIBUNAL DO JÚRI. CONDENAÇÃO CONTRÁRIA À PROVA DOS AUTOS. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE NA VIA ESTREITA DO WRIT. AGRAVO DESPROVIDO.
+1. O Tribunal de origem afastou a existência de decisão manifestamente contrária à prova dos autos e modificar essa conclusão, no sentido de que a decisão do Conselho de Sentença foi manifestamente contrária ao conjunto probatório, seria necessária a reanálise dos fatos e das provas constantes nos autos, providência vedada no habeas corpus.
+2. Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+Quanto à alegação de decisão manifestamente contrária à prova dos autos, o acordão consignou:
+"No caso concreto, a absolvição posterior de corréus no processo principal não invalida a prova produzida, notadamente as confissões firmadas e todos os depoimentos prestados que incriminam o ora requerente, na forma como já fundamentado no acórdão que confirmou integralmente a sentença condenatória (evento 1, OUT13).
+Em outras palavras, a absolvição de corréu não desnatura a prova ou altera seu conteúdo e também não traduz nenhuma contrariedade aparente capaz de justificar revisão criminal, notadamente considerando que o ora requerente fora denunciado na condição de mandante, sendo possível alteração dos terceiros executores sem alteração na sua posição propriamente.
+Ademais, segundo consta também dos autos e colhe-se do acórdão que confirmou integralmente a decisão do Conselho de Sentença do Júri, outros elementos de prova absolutamente independentes dos depoimentos dos corréus vincularam também os denunciados ao crime, notadamente o depoimento de VALÉRIA ALVES DE SOUZA, irmã de criação do corréu JOSÉ CARLOS, o fato de se haver captado ligação efetuada pelo corréu ANDRÉ LUIZ GOMES para a mãe do ora requerente a partir do celular roubado de um dos policiais assassinados no exato dia dos crimes", declarações prestadas pelos corréus também no momento da reconstituição dos fatos, quando novamente apontaram-no como mandante, corroborando as declarações em sede policial e também o fato da arma de um dos policiais ter sido apreendida em poder do corréu JOSÉ CARLOS ALVES SOUZA (vulgo "CAI-CAI") por ocasião de sua prisão (evento 1, OUT13)" (fl. 915).
+Nesse ponto, importa ressaltar que, nos termos do que dispõe o art. 5º, XXXVIII, c e d, da Constituição Federal - CF, a competência para o julgamento dos crimes dolosos contra a vida é do Tribunal do Júri, cujos veredictos são soberanos. Daí se extrai que a decisão do conselho de sentença não pode ser modificada, no mérito, por juízes togados.
+Por outro lado, é certo que as decisões proferidas pelo Conselho de Sentença não são irrecorríveis ou imutáveis, podendo o Tribunal ad quem, nos termos do art. 593, III, d, do Código de Processo Penal - CPP, quando verificar a existência de decisão manifestamente contrária às provas dos autos, cassar a decisão proferida, determinando a realização de novo julgamento, sendo vedada, todavia, a análise do mérito da demanda.
+Cabe ao Tribunal, no julgamento da apelação interposta com fundamento no art. 593, III, d, do CPP, apenas a verificação da existência ou não de equívoco manifesto na apreciação das provas, não podendo, em hipótese alguma, substituir a decisão dos jurados. Nesse contexto, para cassar a decisão proferida pelo Tribunal do Júri, deve ficar demonstrada sua total dissonância em relação às provas apresentadas em plenário, não sendo possível, por outro lado, a anulação quando os jurados optarem por uma das correntes de interpretação da prova apresentadas em plenário. Assim, fica garantido o duplo grau de jurisdição, não sendo, ainda, desrespeitada a soberania dos veredictos prevista constitucionalmente.
+Conforme se observa, o Tribunal de origem afastou a existência de decisão manifestamente contrária à prova dos autos e modificar essa conclusão, no sentido de que a decisão do Conselho de Sentença foi manifestamente contrária ao conjunto probatório, seria necessária a reanálise dos fatos e das provas constantes nos autos, providência vedada no habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. MATERIALIDADE E AUTORIA. CONDENAÇÃO COM TRÂNSITO EM JULGADO. PROVAS COLHIDAS SOB O CRIVO DO CONTRADITÓRIO. ACOLHIMENTO DE UMA DAS VERSÕES APRESENTADAS EM PLENÁRIO. DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS. INOCORRÊNCIA. TESES DE ABSOLVIÇÃO OU DE SEMI-IMPUTABILIDADE NA ORIGEM AFASTADAS. REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL NA VIA ESTREITA DO WRIT. PRECEDENTES. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Com efeito, apesar da irresignação da Defesa do agravante, fato é que este restou condenado por um Conselho de Sentença com amparo em provas de autoria e materialidade dos delitos previstos no art. 121, § 2º, IV, c/c o art. 14, II, por duas vezes, na forma do art. 71, todos do Código Penal. Tudo o que foi confirmado em grau de apelação pelo Tribunal de origem, mediante exaustiva análise do acervo fático-probatório.
+III - Consta dos autos que o agravante foi condenado com amparo principalmente nos depoimentos e nas declarações das vítimas, confirmados, inclusive, sob o crivo do contraditório em juízo.
+Apesar da versão defensiva de que o agravante seria inocente, ou até mesmo semi-imputável, as provas da materialidade e autoria do delito foram todas analisadas e debatidas em Plenário pelo juízo natural da causa.
+IV - No caso concreto, o que ocorreu foi que o Conselho de Sentença aderiu a uma das versões apresentadas em Plenário.
+V - Assente nesta Corte Superior que "não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados" (AgRg no REsp n. 1.885.871/DF, Sexta Turma, Rel. Min. Néfi Cordeiro, DJe de 5/3/2021).
+VI - Assim, uma eventual reversão do entendimento anterior demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via do habeas corpus e do seu recurso ordinário.
+VII - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental desprovido.
+(AgRg no HC n. 650.153/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
