@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. REEXAME. SÚMULA 7/STJ. DEVOLUÇÃO INTEGRAL DA QUANTIA PAGA PELO CONTRATANTE. SÚMULA 543/STJ. LUCROS CESSANTES. NECESSIDADE DE COMPROVAÇÃO. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na espécie, o Tribunal de origem, à luz das provas dos autos, reconheceu que a culpa pelo desfazimento do compromisso de compra e venda foi da construtora, em razão do atraso excessivo na entrega do imóvel. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. Na forma da Súmula 543/STJ, " n a hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+3. Nos autos do REsp 2.015.374/SP, a Quarta Turma do STJ definiu que, na hipótese de imóvel não edificado, o atraso na entrega do bem por culpa da construtora não gera lucros cessantes automáticos, de modo que compete ao autor a prova da ocorrência desse tipo de dano.
+4. Agravo interno provido para, em novo julgamento, conhecer do agravo e dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por CIPASA VÁRZEA GRANDE VAR 1 DESENVOLVIMENTO IMOBILIÁRIO LTDA E ORLEANS EMPREENDIMENTOS LTDA em face de decisão desta relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+As agravantes alegam, em síntese: (a) a investigação sobre quem deu causa ao desfazimento do compromisso de compra e venda - se o promitente-vendedor ou se o promitente-comprador - não reclama novo exame das provas dos autos; e (b) ante a pretensão de rescisão do compromisso de compra e venda por iniciativa do promitente-comprador, na hipótese de atraso na entrega do bem, não é devida a indenização por lucros cessantes na hipótese de imóvel não edificado.
+Requerem, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 1.366/1.373).
+Impugnação às fls. 1.377/1.381.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. REEXAME. SÚMULA 7/STJ. DEVOLUÇÃO INTEGRAL DA QUANTIA PAGA PELO CONTRATANTE. SÚMULA 543/STJ. LUCROS CESSANTES. NECESSIDADE DE COMPROVAÇÃO. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na espécie, o Tribunal de origem, à luz das provas dos autos, reconheceu que a culpa pelo desfazimento do compromisso de compra e venda foi da construtora, em razão do atraso excessivo na entrega do imóvel. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. Na forma da Súmula 543/STJ, " n a hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+3. Nos autos do REsp 2.015.374/SP, a Quarta Turma do STJ definiu que, na hipótese de imóvel não edificado, o atraso na entrega do bem por culpa da construtora não gera lucros cessantes automáticos, de modo que compete ao autor a prova da ocorrência desse tipo de dano.
+4. Agravo interno provido para, em novo julgamento, conhecer do agravo e dar parcial provimento ao recurso especial.
+VOTO
+A parte agravante possui razão, em parte.
+Em sede de recurso especial, a parte recorrente arguiu que não houve atraso na entrega do imóvel ao contratante, nestes termos: " não há  atraso na entrega do empreendimento, visto que o prazo previsto contratualmente foi rigorosamente observado pelas Recorrentes, uma vez que o alvará de funcionamento foi expedido em 26/10/2017, sendo que o prazo de entrega previsto contratualmente era setembro de 2018" (fl. 1007).
+Para a Corte de origem, contudo, "os autores comprovaram que, na época da propositura da ação, as referidas obras não foram concluídas, a teor das fotografias apresentadas junto à inicial" (fl. 773).
+Desse modo, fica evidente que eventual reforma do acórdão recorrido demandaria novo exame das provas dos autos, circunstância que impõe a manutenção da decisão agravada, relativamente à incidência da Súmula 7/STJ.
+Além disso, uma vez mantido o capítulo do acórdão de 2º grau, na parte em que imputa às construtoras a culpa pelo atraso na entrega do imóvel e pelo desfazimento do negócio jurídico, deve mesmo incidir a Súmula 543/STJ, a respeito do pedido de devolução integral e imediata das parcelas pagas pelo contratante. Veja-se:
+Súmula n. 543/STJ . Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+Por essa razão, fica mantida a aplicação da Súmula 83/STJ, pois a conclusão do eg. TJMT está em conformidade com o entendimento desta Corte.
+Quanto à indenização por lucros cessantes, a parte ora agravante tem razão. Em nova apreciação da controvérsia, esta Quarta Turma entendeu, nos autos do REsp 2.015. 374/SP, que, na hipótese de imóvel não edificado, o atraso na entrega do bem por culpa da construtora não gera lucros cessantes automáticos, de modo que compete ao autor a prova da ocorrência desse tipo de dano.
+A demanda merece, portanto, nova apreciação da Corte de origem, a quem compete investigar questões de fato da causa.
+Ante o exposto, dou provimento ao agravo interno para, reconsiderando em parte a decisão proferida às fls. 1.361/1.363, conhecer do agravo e dar parcial provimento ao recurso especial, a fim de determinar o retorno dos autos ao eg. TJMT para que, segundo sua livre convicção, verifique se o autor comprovou nos autos a ocorrência de lucros cessantes.
+Ante o provimento parcial do recurso, afasto a majoração dos honorários de sucumbência.
+É como voto.
