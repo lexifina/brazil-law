@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DIOGO ALVES DE COUTINHO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (agravo em execução penal n. 8000104-68.2024.8.24.0033).
+Depreende-se dos autos que o réu foi condenado a 5 anos de reclusão, no regime inicialmente semiaberto, pela prática do delito inscrito no art. 33, caput, da Lei n. 11.343/2006.
+"Expedida a guia de condenação definitiva, antes mesmo da intimação do sentenciado para início do cumprimento da pena, a defesa requereu e o Juízo a quo deferiu "o pedido a fim de considerar o período de 38 dias em que o apenado permaneceu em liberdade provisória mediante a imposição de medidas cautelares (de 19/12/2018 a 01/03/2019, período em que foram contabilizados 51 dias úteis, em que o recolhimento domiciliar ocorreu por 8h, e 21 dias de folga - sábados, domingos e feriados) como pena cumprida" (e-STJ fl. 26).
+Interposto o agravo em execução penal requerendo a detração penal além do concedido na decisão agravada, o Tribunal de origem negou provimento ao recurso.
+Daí o presente writ, no qual alega a defesa que "o paciente permaneceu com a medida cautelar de recolhimento noturno, aos finais de semana e feriado de 18/12/2018 quando foi concedido liberdade provisória ao paciente até 27/09/2023 quando foi expedida a guia de recolhimento e determinado o início do cumprimento da pena" (e-STJ fl. 6).
+Requer seja deferida "a detração penal relativa a medida cautelar de recolhimento noturno, aos finais de semana e feriados do período de 19/12/2018 quando foi expedido alvará de soltura e até 27/09/2023 quando foi expedida a guia de recolhimento definitiva e determinado o início do cumprimento da pena" (e-STJ fl. 9).
+Informações prestadas.
+Parecer ministerial pelo não conhecimento do habeas corpus.
+É, em síntese, o relatório.
+Decido.
+No caso dos autos, o Tribunal de Justiça manteve a detração deferida pelo Juízo da execução, com base na seguinte fundamentação (e-STJ fls. 26/27, grifei):
+Sucede que, conforme se observa dos autos, o ora agravante foi preso em flagrante em 2.11.2018, sendo oportunamente o flagrante homologado e convertido para prisão preventiva, e posto em liberdade provisória mediante aplicação de medidas cautelares alternativas em 19.12.2018.
+Em 1º.3.2019, o Juízo da condenação prolatou sentença e concedeu ao ora agravante o direito de recorrer em liberdade.
+Nesse panorama, exsurge nítido na sentença que, ao insurgente, foi conferido o direito de recorrer em liberdade, sem qualquer restrição, razão pela qual não faz jus à detração penal para além do concedido na decisão agravada.
+Ora, além de a sentença condenatória ser considerada novo título judicial, suplantando decisões anteriores, é evidente que a manutenção de medidas cautelares diversas de prisão deveria constar do provimento judicial condenatório. Afinal, a lei processual determina que o juiz, ao proferir a sentença condenatória, "decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta" (art. 387, § 1º,do CPP). Isto é, caso o juiz não fundamente a manutenção de medidas cautelares alternativas e ainda conceda o direito de recorrer em liberdade, parece intuitivo que elas não mais persistem; do contrário o juiz deveria fundamentar sua manutenção e, no caso de omissão, a parte sedizente prejudicada opor embargos de declaração para sanar o vício.
+Ademais, milita em desfavor da pretensão do agravante o fato de não ter dado continuidade ao comparecimento periódico em juízo após a publicação da sentença condenatória, o que faz presumir o entendimento de que o sentenciado já não mais cumpria as medidas cautelates alternativas.
+Como se vê, o Tribunal originário entendeu estar devidamente comprovado que, após a sentença condenatória, foi conferido ao réu o direito de recorrer em liberdade, sem nenhuma restrição, ante o conjunto fático-probatório acostado aos autos, em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa.
+Ademais, o Superior Tribunal de Justiça é firme na compreensão de que não se presta o remédio heroico à revisão do resultado a que chegaram as instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+Sobre o tema, este é o entendimento doutrinário:
+ ..  o writ parece apresentar na sua previsão fundamental (a atinente à justa causa para a coação) uma questão dificilmente transponível: a necessidade de exame do conjunto probatório. A pedra angular da questão é a apreciação de provas no âmbito restrito do habeas corpus, o que merece reflexão: predomina, tanto na doutrina quanto na jurisprudência, a posição no sentido de que, no remédio hero ico, não se pode fazer cotejo de provas, antepor depoimentos ou examinar de forma apurada, aprofundada, qualquer espécie de questão  .. . (PACHECO. José Ernani de Carvalho. Habeas Corpus. 6. ed. Curitiba: Juruá, 1994. p. 29.)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE DETRAÇÃO. ALEGAÇÃO DE PERÍODO DE PRISÃO PREVENTIVA NÃO CONTABILIZADO.. REEXAME DE FATOS E PROVAS. RECURSO NÃO PROVIDO.
+ ..
+3. Para dissentir do entendimento do Tribunal de origem, que soberano na análise das circunstâncias fáticas da causa, deixou de proceder à detração "por falta de elementos suficientes nos autos"(fl. 29), seria necessário o revolvimento do acervo fático e probatório, procedimento sabidamente inviável no veio restrito e mandamental do habeas corpus.  ..  (HC 416.513/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+4. Impossibilidade de se perfazer, nesse momento, a cognoscibilidade da detração penal propriamente dita e, por conseguinte, eventual análise da progressão de regime, porque seria necessário o reexame de fatos e provas  ..  (HC 312.561/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 19/05/2016, DJe 13/06/2016.
+5. Agravo regimental não provido.
+(AgRg no HC n. 683.405/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
