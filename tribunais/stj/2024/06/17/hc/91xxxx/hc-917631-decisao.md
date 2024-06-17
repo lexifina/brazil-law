@@ -1,0 +1,11 @@
+DECISÃO
+WILLIAN PEREIRA DO NASCIMENTO alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios.
+A defesa se insurge contra a decisão que, diante de condenação superveniente, reconverteu a pena restritiva de direitos aplicada ao apenado em pena privativa de liberdade e determinou a redistribuição dos autos à Vara de Execuções Penais (VEP/DF) para a unificação do art. 111 da LEP.
+Decido.
+Segundo a decisão do Juiz da VEC, mantida pelo Tribunal de origem, "Trata-se de execução de pena restritiva de direitos. Ocorre que, posteriormente (mov. 137.1), o(a) sentenciado(a) sofreu outra(s) condenação(s) apena privativa de liberdade, dessa vez não substituída(s) e em regime prisional diverso do aberto" (fl. 423).
+Todavia, o paciente resgatava prestação pecuniária (fl. 3) e, segundo o art. 44 §5º, do CP, em hipótese de execução de pena restritivas de direitos, "sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior".
+Ainda que a nova condenação não seja no regime inicial aberto, há compatibilidade de cumprimento simultâneo da prestação pecuniária e de pena privativa de liberdade. Aplica-se ao caso o mesmo raciocínio do Tema Repetitivo n. 1.106, assim fixado: "Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente".
+É possível, simultaneamente, pagar a prestação pecuniária e resgatar a pena privativa de liberdade nos regimes semiaberto e fechado, sem prejuízo de nova reconversão, com fundamento no art. 44, § 4º, do CP, se houver descumprimento da restrição imposta.
+À vista do exposto, concedo habeas corpus para cassar a conversão da pena restritiva de direito em privativa de liberdade e reconhecer a possibilidade de cumprimento simultâneo das condenações impostas ao paciente, sem prejuízo de nova reconversão em situação de descumprimento da restrição imposta.
+Publique-se e intimem-se.
+EMENTA
