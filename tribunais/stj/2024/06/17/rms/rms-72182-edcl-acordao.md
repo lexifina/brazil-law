@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - PLEITO DE RECONHECIMENTO DA INCOMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL CÍVEL - INADEQUAÇÃO DA VIA ELEITA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO AGRAVO INTERNO ANTE O ÓBICE DA SÚMULA 182/STJ.
+INSURGÊNCIA DA IMPETRANTE.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, hipóteses não alegadas pela parte embargante. no caso dos autos.
+2. A atribuição de efeitos infringentes, em sede de embargos de declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de omissão, contradição, obscuridade, ou erro material, vícios previstos no art. 1.022 do Código de Processo Civil de 2015.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por UNIMED DE CATANDUVA - COOPERATIVA DE TRABALHO MÉDICO em face de acórdão proferido pelo colegiado desta Quarta Turma (fls. 430-436), na qual não conhecido o agravo interno, esse de sua vez manejado contra a decisão monocrática de fls. 319-322, da lavra deste signatário, que negou provimento ao recurso ordinário em mandado de segurança, ficando prejudicado o pedido de concessão de efeito suspensivo formulado.
+Eia a ementa do acórdão embargado:
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - PLEITO DE RECONHECIMENTO DA INCOMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL CÍVEL - INADEQUAÇÃO DA VIA ELEITA - DECISÃO MONOCRÁTICA DESTE SIGNATÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA IMPETRANTE.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do artigo 1.021, §1º, do CPC/15, a atrair a aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+O recurso ordinário em mandado de segurança desafiava acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA. Impetração contra v. acórdão do Colégio Recursal de Jaboticabal/SP, pelo qual foi dado provimento ao Agravo de Instrumento nº 0100083-08.2021.8.26.9049, reconhecendo a competência do Juizado Especial Cível da Comarca de Taquaritinga para processar e julgar a ação. Pleito de reconhecimento da incompetência absoluta do Juizado Especial Cível para o julgamento do feito. Inadequação da via eleita. Aplicação do artigo 5º, II, da Lei12.016/2009 e da Súmula nº 267 do C. STF. Cabimento, em tese, de Recurso Extraordinário, já interposto. Possibilidade de atribuição de efeito suspensivo, consoante o art. 1029, § 5º, do CPC/15. Impossibilidade de utilização do mandado de segurança como substituto recursal. Precedentes. PREJUDICADO O RECURSO.
+Consoante se observa dos autos, a ora agravante impetrou, na origem, mandado de segurança contra acórdão proferido nos autos do Agravo de Instrumento nº 01000083-08.2021.8.26.9049, da Turma Recursal Cível e Criminal do Tribunal de Justiça de São Paulo que, em ação declaratória de inexigibilidade de débito, determinou a manutenção do feito no Juizado Especial Cível.
+Afirmou a insurgente que a matéria controvertida, decorrente da pretensão de anulação de acordo (termo de confissão de dívida) firmado entre a Cooperativa de Consumo Popular da Região de Fernando Prestes com a peticionante, não poderia ser veiculado no juizado especial por demandar a realização de provas incompatíveis com procedimento, dentre as quais a perícia atuarial, motivo pelo qual adequada a deliberação do magistrado de piso que decidiu pela remessa dos autos à Justiça comum.
+O Tribunal de origem não conheceu do mandado de segurança em virtude da aplicação do disposto no artigo 5º, inciso II, da Lei 12.016/2009, o qual estabelece que não se concederá mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo.
+Considerou a Corte local, ausente o interesse de agir do impetrante, dada a possibilidade de o acórdão ser impugnado via recurso extraordinário - tendo sido interposto o correlato recurso - podendo a parte formular o pedido de efeito suspensivo nos termos do que dispõe o artigo 1029, § 5º do CPC.
+Nas razões do recurso ordinário (fls. 221-236), alegou a parte ser imprescindível o reconhecimento da incompetência absoluta do Juizado Especial Cível, dada a necessidade de realização de perícia e de o recurso extraordinário não ser dotado de efeito suspensivo.
+Apontou como violados os artigos 98, I e 5º, LV da Constituição Federal; 3º e 51, II da Lei nº 9099/95.
+Afirmou presente a "probabilidade do Direito, ante toda previsão legal angariada, pois as causas que justificam a competência da justiça comum são jurídicas e dispostas de forma objetiva na legislação dos Juizados".
+Sustentou existir "o perigo de dano ou o risco ao resultado útil do processo, que ensejará a Recorrente a persistência de graves e irreparáveis danos de ordem processual e material, pois em razão da manutenção dos autos no Juizado Especial, não terá a Recorrente a possibilidade de realização de perícia atuarial, e por consequência, deixará de cobrar o reajuste do ano de 2017 aos Cooperados e os demais devidos".
+Contrarrazões (fls. 306-313).
+O recurso ordinário subiu à análise desta Corte Superior.
+Na decisão agravada, negou-se provimento ao reclamo ante os seguintes fundamentos: a) o mandado de segurança - via de regra - não se presta para amparar a revisão de ato de natureza jurisdicional, salvo situação de absoluta excepcionalidade, em que ficar cabalmente evidenciado o caráter teratológico da medida impugnada, circunstância inocorrente no caso; b) incidência do enunciado nº 267 da Súmula do STJ: "não cabe mandado de segurança contra ato judicial passível de recurso ou correição"; c) aplicável a Súmula 640/STF: "É cabível recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de alçada, ou por turma recursal de Juizado Especial Cível ou Criminal"; d) aplicação do óbice da súmula 283/STF ante a ausência de impugnação a fundamento autônomo do acórdão; e) inviabilidade de análise de violação a dispositivos constitucionais por esta Corte Superior.
+Irresignado, interpôs agravo interno (fls. 326-408) reiterando os termos do recurso ordinário desprovido.
+Impugnação às fls. 412-426.
+No acórdão de fls. 430-436, o colegiado da Quarta Turma não conheceu do agravo interno ante a incidência do óbice da Súmula 182/STJ, dada a ausência de dialeticidade recursal.
+Irresignada, a cooperativa médica opõe aclaratórios (fls. 442-451), repisando a tese acerca da possibilidade de manejo do mandado de segurança para controle da competência dos Juizados Especiais.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - PLEITO DE RECONHECIMENTO DA INCOMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL CÍVEL - INADEQUAÇÃO DA VIA ELEITA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO AGRAVO INTERNO ANTE O ÓBICE DA SÚMULA 182/STJ.
+INSURGÊNCIA DA IMPETRANTE.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, hipóteses não alegadas pela parte embargante. no caso dos autos.
+2. A atribuição de efeitos infringentes, em sede de embargos de declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de omissão, contradição, obscuridade, ou erro material, vícios previstos no art. 1.022 do Código de Processo Civil de 2015.
+3. Embargos de declaração não conhecidos.
+VOTO
+Os aclaratórios não merecem sequer conhecimento.
+1. Nos termos do art. 1.022 do CPC, os embargos de declaração se destinam a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material existente no julgado, podendo-lhes ser atribuídos, excepcionalmente, efeitos infringentes, quando algum desses vícios for reconhecido.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão. Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais, o que não se vislumbra no presente caso, especialmente considerando que a parte embargante não alega qualquer vício existente no acórdão que não conheceu do agravo interno ante o ó bice da súmula 182/STJ, limitando-se a repisar as razões do recurso ordinário no tocante ao cabimento de mandado de segurança para discutir questão afeta à competência do Juizado Especial.
+Inegavelmente, a atribuição de efeito infringente ao julgado somente é cabível quando constatado algum dos vícios do artigo 1022 do CPC o seu saneamento ensejar a alteração do julgamento, não endo possível fazer uso de embargos de declaração apenas com mero intuito infringente ao julgado.
+2. Do exposto, não conheço dos embargos de declaração.
+É como voto.
