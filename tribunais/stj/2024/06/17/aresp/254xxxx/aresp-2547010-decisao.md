@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fls. 1.082/1.083):
+AGRAVO INTERNO - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT - PARTE AUTORA BENEFICIÁRIA DA GRATUIDADE DA JUSTIÇA - DIREITO PESSOAL QUE NÃO SE ESTENDE AO PROCURADOR - OBJETIVO DE REEMBOLSO DE PREPARO DE RECURSO ANTERIOR QUE VERSAVA EXCLUSIVAMENTE SOBRE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA - NECESSIDADE DE PREPARO - ART. 99, § 5º, DO CPC - RECURSO DESPROVIDO MONOCRATICAMENTE - AGRAVO INTERNO DESPROVIDO.
+O recurso que versa exclusivamente sobre valor de honorários de sucumbência está sujeito a preparo, ainda que a parte autora seja beneficiária da gratuidade da justiça, cujo direito é pessoal e não se estende ao procurador, nos moldes do artigo 99, §5º do CPC.
+Ainda que a seguradora seja condenada integralmente ao custeio dos ônus sucumbenciais, as custas e despesas processuais a serem arcadas por ela não abarcam eventual pedido de reembolso de preparo recursal do patrono da parte, de recurso interposto com objetivo único de majoração de honorários advocatícios, e que não verse sobre o resultado do julgamento.
+Os embargos de declaração foram rejeitados (fls. 1.138/1.150).
+Nas razões do especial, aponta o recorrente violação dos artigos 11, 82, 337, 487, 502, 506, 507, 523 e 1.022 do Código de Processo Civil.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Questiona a impossibilidade de deduzir o valor antecipado das custas processuais pelo recorrente do valor da condenação devida pela parte recorrida em sede de cumprimento de sentença.
+Ressalta que o título judicial executado seria expresso quanto à condenação integral da recorrida, em razão da sucumbência total dessa última, o que implicaria a necessidade de custear todas as despesas do processo, inclusive as custas adiantadas pelo vencedor.
+Defende que, em todo caso, o reexame da controvérsia na fase executória seria vedado, considerada a preclusão e mesmo a coisa julgada.
+Contra-arrazoado (fls. 1.200/1.202), o recurso especial não foi admitido na origem (fls. 1.200/1.202), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 1.022 do Código de Processo Civil, observo que o Tribunal de origem consignou, expressamente, que a impossibilidade de deduzir as custas adiantadas do valor a ser pago pela executada está relacionada unicamente ao preparo do recurso referente à apelação interposto pelo advogado da recorrente, que visava ao aumento do valor arbitrado, e que foi desprovido.
+A propósito, extraio do acórdão recorrido, no que concerne à solução da controvérsia (fl. 1.086):
+Em que pese toda argumentação apresentada, o preparo recursal de que pretende o reembolso está relacionado a recurso interposto pelo advogado e não pelo autor e, portanto, não está sujeito às regras de distribuição da sucumbência, nem está acobertado pelo benefício da gratuidade da justiça.
+Como se vê, o Tribunal de origem pressupõe a sucumbência em relação ao recurso interposto pelo advogado da recorrente, em que pretendia aumentar os honorários a ele arbitrados, obstando a dedução do respectivo valor do crédito executado.
+Desse modo, pressuposto o lastro para vedar a dedução pretendida, com base no que decidido na fase de conhecimento, não há falar-se em violação da coisa julgada, o que se infere da própria premissa utilizada no acórdão recorrido como razão de decidir.
+Ressalte-se que, na linha da jurisprudência consolidada no âmbito desta Corte: "A possibilidade de extrair logicamente a tese refutada a partir do que decidido, por meio da análise mesma do próprio julgado, afasta qualquer obscuridade na decisão." (AgInt no REsp n. 1.920.219/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/10/2021, DJe de 3/11/2021.)
+No que se refere à controvérsia de fundo, verifica-se que a orientação adotada no acórdão recorrido não destoa da jurisprudência desta Corte, segundo a qual:  ..  o recurso que verse exclusivamente acerca do valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que possui direito à gratuidade." (AgInt nos EDcl no REsp n. 1.931.135/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 5/5/2022.)
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À PENHORA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO RECURSAL DAS PARTES EMBARGANTES.
+1. Nos termos da jurisprudência desta Corte, deve ser reconhecida a deserção do recurso (Súmula 187/STJ), quando a parte recorrente, mesmo devidamente intimada, deixa de regularizar o preparo no prazo concedido.
+1.1. Na hipótese, o recurso especial foi interposto sem o devido recolhimento das custas. Devidamente intimada, a parte não regularizou o preparo.
+1.2. Além disso, "Conforme entendimento firmado no Superior Tribunal de Justiça, o recurso que verse exclusivamente acerca do valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que possui direito à gratuidade." (AgInt nos EDcl no REsp n. 1.931.135/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 5/5/2022.) 2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.506.424/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+No que se refere aos demais pontos suscitados pelo recorrente, relativos à preclusão ou coisa julgada, observo que a análise da controvérsia sob esse enfoque ficou prejudicada, tendo em vista o pressuposto adotado no acórdão recorrido quanto à responsabilidade integral do advogado pelo preparo em recurso que verse exclusivamente sobre honorários de sucumbência, a teor do que previsto no artigo 99, § 5º, do Código de Processo Civil.
+Diante desse contexto, não havendo o prequestionamento, o recurso especial não deve ser conhecido quanto ao ponto, em razão das Súmulas 282 e 356/STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários recursais, pois inexistente condenação a respeito na origem; vedando acréscimo ulterior, conforme previsto nos §§ 2º e 11 do artigo 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
