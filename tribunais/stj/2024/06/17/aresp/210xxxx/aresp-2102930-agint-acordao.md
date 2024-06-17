@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO. NOME DO ADVOGADO. INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL. NULIDADE. NÃO VERIFICADA. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A incorreção ou incompletude de nome atribuído a advogado em publicação oficial, o qual pode ser identificado pelo número do seu registro na Ordem dos Advogados do Brasil, não acarreta a nulidade do ato processual quando houver outros elementos que viabilizem a identificação do processo, em atenção ao princípio da instrumentalidade das formas.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Agravo interno desprovido.
+RELATÓRIO
+FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL PETROS interpõe agravo interno contra a decisão de fls. 133-137, que negou provimento ao agravo em recurso especial em razão da incidência das Súmulas n. 284 do STF e 7 do STJ.
+Nas razões do presente recurso, a agravante, defendendo a desnecessidade de revolvimento fático-probatório dos autos e sustentando a tese de inaplicabilidade da Súmula n. 284 do STF, reitera as razões do recurso especial relativas à necessidade de que conste nas publicações os nomes das partes e de seus advogados, bem como de que a grafia deve ser a mesma registrada na OAB, sob pena de nulidade.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado para provimento do recurso especial.
+A parte agravada apresentou impugnação às fls. 156-162.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO. NOME DO ADVOGADO. INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL. NULIDADE. NÃO VERIFICADA. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A incorreção ou incompletude de nome atribuído a advogado em publicação oficial, o qual pode ser identificado pelo número do seu registro na Ordem dos Advogados do Brasil, não acarreta a nulidade do ato processual quando houver outros elementos que viabilizem a identificação do processo, em atenção ao princípio da instrumentalidade das formas.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Agravo interno desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O agravante alega, em síntese, que, a despeito do pedido de publicação expressa em nome do advogado CARLOS ROBERTO SIQUEIRA CASTRO, OAB/SP n. 169.709-A, a sentença foi publicada em nome de CARLOS ROBERTO DE SIQUEIRA CASTRO, OAB/SP n. 169.709, o que lhe gerou a impossibilidade de identificação da publicação no Diário Oficial e no Diário de Justiça eletrônico.
+Por conseguinte, pretende seja declarada nula a referida decisão, por ter sido publicada em contrariedade ao art. 269 do CPC.
+O Tribunal de Justiça do Estado de São Paulo afastou a alegação de nulidade dos atos processuais, asseverando que as intimações foram válidas e eficazes, conforme se vê dos seguintes trechos do acórdão do agravo de instrumento (fls. 20-21, destaquei):
+Contra esse pronunciamento insurge-se a agravante, argumentando que houve vício na intimação da sentença, considerando que não foi observado o nome do seu advogado e o respectivo número da OAB. Sustenta que solicitou nos autos que todas as publicações fossem dirigidas ao advogado Carlos Roberto Siqueira Castro, inscrito na OAB/SP 169.709-A. Entretanto, da publicação da sentença constou "Carlos Roberto de Siqueira Castro (OAB: 169709/SP)", sem a indicação da OAB suplementar (- A).
+É certo que esse requerimento foi realmente apresentado nos autos na fase de conhecimento, tanto que a partir de fevereiro de 2018, todas as intimações foram dirigidas exclusivamente ao advogado "Carlos Roberto de Siqueira Castro (OAB: 169709/SP)" (fl. 104 dos autos principais).
+Fixada essa premissa, muito embora a recorrente aponte erro na grafia do nome do seu procurador, ao acrescentar "de", e a ausência do dígito "A" no número da OAB, bem se percebe que a parte tomou ciência de todos os atos processuais. De se destacar que não houve alegação de vício no momento oportuno, considerando que desde fevereiro de 2018 todas as intimações foram dirigidas à parte executada exatamente na forma ora impugnada.
+Oportuno ressalvar ainda que o sistema SAJ não admite a inclusão de letra no final do número da OAB para o cadastramento de advogado. E a facilidade de acesso aos autos, por meios eletrônicos, que permitem acompanhar o andamento do processo, afastam qualquer possibilidade de dúvida quanto à efetiva ocorrência da intimação.
+Assim, para concluir em sentido contrário e reconhecer a nulidade da publicação, como pretendido pela agravante, é necessário o reexame do conjunto probatório dos autos, vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Ademais, tal como asseverou o acórdão recorrido, o Superior Tribunal de Justiça já esclareceu que a incorreção ou incompletude de nome atribuído a advogado em publicação, o qual pode ser identificado pelo número do seu registro na Ordem dos Advogados do Brasil, não acarreta a nulidade do ato processual quando houver outros elementos que viabilizem a identificação do processo, em atenção ao princípio da instrumentalidade das formas.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REGULARIDADE NA INTIMAÇÃO DE ADVOGADO. ERRO DE GRAFIA. SUPRESSÃO DO AGNOME "FILHO". POSSIBILIDADE DE IDENTIFICAÇÃO POR OUTRAS CIRCUNSTÂNCIAS. AUSÊNCIA DE PREJUÍZO. NULIDADE AFASTADA. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Na linha dos precedentes desta Corte, as irregularidades de publicação decorrentes de erro na grafia do nome do advogado não causam nulidade se não estiver configurado prejuízo.
+3. No caso dos autos, o Tribunal estadual foi expresso em afirmar que não houve prejuízo, pois indicado corretamente o número do processo, o nome das partes e a OAB do advogado, tendo sido suprimido apenas o agnome "filho".
+4. Impossível, assim, afirmar que o ato intimatório, apesar da irregularidade formal, não cumpriu sua finalidade sem reexaminar fatos e provas, o que veda a Súmula n.º 7 do STJ.
+5. Agravo interno não provido. (AgInt no REsp n. 1.975.485/AC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM REPETIÇÃO DO INDÉBITO. AGRAVO DE INSTRUMENTO. NULIDADE DE INTIMAÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de revisão contratual cumulada com repetição do indébito.
+2. A jurisprudência do STJ é pacífica no sentido de não haver nulidade na publicação de ato processual em que conste, com grafia incorreta, o nome do advogado se o erro é insignificante (troca de apenas uma letra) e é possível identificar o feito pelo exato nome das partes e número do processo. Precedentes. Incide, na espécie, a Súmula 568/STJ.
+3. Alterar o decidido no acórdão impugnado, no sentido de que não há, na hipótese, nulidade na publicação do ato processual em razão da troca de uma letra no sobrenome do causídico, porquanto o seu prenome e os outros sobrenomes, o nome das partes e o número do processo foram veiculados corretamente, dados esses suficientes para a identificação do feito, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.624.352/PB, Terceira Turma, julgado em 14/9/2020, DJe de 17/9/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO DO EMBARGANTE.
+1. Os recursos dirigidos à instância superior desacompanhados de procuração ou nos quais a cadeia de substabelecimentos se mostra incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ.
+1.1. Na hipótese, embora devidamente intimada para a regularização da representação processual, a parte recorrente não procedeu, no prazo assinalado, à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do agravo e do recurso especial.
+2. A jurisprudência desta Corte Superior é no sentido de que, para o reconhecimento da invalidade da intimação por erro de grafia ocorrido na publicação, o equívoco deve ser fundamental e relevante, de modo que efetivamente prejudique a identificação do feito.
+2.1 Afasta-se, no caso, a alegada nulidade de intimação, por erro insignificante na grafia do nome do advogado "Evandro Demétrio", ao invés de "Evandro Demetrio", que não prejudicou a identificação da parte, do patrono, nem do feito.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.061.968/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO DE DECISÃO. PEDIDO DE NOME EXPRESSO DE ADVOGADO. NOME INCOMPLETO. AUSÊNCIA DE NULIDADE. PRESENÇA DE OUTROS ELEMENTOS, TAIS COMO NÚMERO DA OAB, DO PROCESSO E NOME DAS PARTES. ATO PROCESSUAL QUE ATINGIU SUA FINALIDADE. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL CONFIRMADA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta eg. Corte assenta que, ainda que incorreto ou incompleto o nome de determinado advogado em uma publicação, esta será considerada válida se houver outros elementos capazes de identificar o processo e, assim, a publicação atinja a sua finalidade.
+2. No caso em apreço, a ausência do último sobrenome da nobre advogada, na publicação da decisão que inadmitiu o recurso especial na eg. Instância a quo, não tem o condão, por si só, de inviabilizar a finalidade da intimação, mormente, quando, além de outros dois sobrenomes, consta o respectivo número da OAB, do processo e o nome das partes.
+3. Decisão agravada, que não conheceu do agravo em recurso especial por considera-lo intempestivo, que merece ser confirmada.
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.116.119/PE, relator Ministro Lázaro Guimarães, Quarta Turma, julgado em 24/10/2017, DJe de 30/10/2017.)
+No caso, ocorreu a devida individualização do patrono da agravante, mormente porque constou das publicações o número correto de sua inscrição no Órgão de Classe, ainda que ausente o dígito "A" no final do número da OAB, bem como seus prenomes e todos os seus sobrenomes, ainda que acrescido de "de".
+Assim, o entendimento adotado no acórdão recorrido coincide com a jurisprudência consolidada nesta Corte, circunstância que atrai a incidência da Súmula n. 83 do STJ.
+Portanto, a agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
