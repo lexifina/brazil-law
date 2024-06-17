@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"Apelações Cíveis. Processo Civil. Ação de cobrança de título executivo extrajudicial. Sentença de extinção da execução proferida em 14/03/2013 após penhora e arrematação de imóvel do devedor. Determinação de prosseguimento apenas da execução dos honorários de sucumbência. Sentença de extinção da execução dos honorários em razão da inércia do advogado credor condenando-o ao pagamento das custas processuais e honorários de sucumbência no valor de R$ 3.000,00. Recurso apelação interposto pelo patrono do banco exequente do título executivo extrajudicial pela anulação da sentença ao fundamento de vício de intimação do autor para dar andamento ao feito. Recurso do advogado do executado pela majoração dos honorários de sucumbência. Regular intimação do advogado exequente. Comprovada inércia do credor que implica na extinção do processo. Ilegitimidade recursal do patrono do autor da ação originária. Ausência de interesse do credor original em relação aos honorários de sucumbência. Verba sucumbencial fixada em favor do patrono do executado em valor irrisório ante o valor da execução. Processo que tramita por quase 30 anos. Honorários de sucumbência devidos pelo advogado exequente que devem ser fixados em 10% do valor executado em razão da sucumbência ocorrida nos autos principais. Primeiro recurso que não se conhece e provimento do segundo recurso"
+Opostos embargos de declaração, foram rejeitados.
+Em seu recurso especial, o agravante alega violação aos arts. 85, § 5º, 1.022, inciso II, e 489, § 1º, inciso IV, 85, § 2º, do Código de Processo Civil, sustentando negativa de prestação jurisdicional e que a execução extinta não foi por si movida, mas por outro advogado, sob o qual deve recair os ônus do insucesso da execução.
+Sem c  ontrarrazões.
+Juízo de admissibilidade proferido às fls. 1.035/1.041 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Em detida análise dos autos verifica-se que possui razão o agravante.
+Com efeito, em diversas petições acostada s aos autos, principalmente de fls. 412/417 e-STJ, verifica-se que o advogado exequente da verba honorária é o Dr. Arthur Cunha da Costa Lima, em causa própria, de modo que os honorários de sucumbência devem sobre ele recair, ante o insucesso da execução pretendida.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial, com o objetivo de sanar o equívoco no acórdão recorrido, devendo constar como advogado sucumbente o Dr. Arthur Cunha da Costa Lima.
+Intimem-se.
+EMENTA
