@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por FABIO CARRARO e STEFANIA CELIAC DE MELO CARRARO contra v. acórdão do eg. Tribunal de Justiça do Estado de Goiás (TJ-GO).
+Historiam os autos que FABIO CARRARO e STEFANIA CELIAC DE MELO CARRARO apresentaram cumprimento provisório de sentença de ação declaratória de quitação c/c obrigação de fazer, que move em face de AREDIO RESENDE DE SOUZA e TEREZINHA FREITAS CAVALCANTE DE REZENTE E SOUZA.
+O il. Magistrado de piso julgou extinto o cumprimento provisório de sentença, por ausência de interesse de agir, tendo em vista a pendência de julgamento dos segundos embargos de declaração opostos em face do acórdão que julgou a apelação.
+Irresignados, FABIO CARRARO e STEFANIA CELIAC DE MELO CARRARO apresentaram apelação, tendo o eg. Tribunal de Justiça do Estado de Goiás negado provimento ao recurso, conforme v. acórdão assim ementado (fl. 2.672, e-STJ):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. PRELIMINAR APRESENTADA NAS CONTRARRAZÕES AFASTADA. CUMPRIMENTO PROVISÓRIO. AÇÃO ORIGINÁRIA. NOVOS EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO. EFEITO SUSPENSIVO EMANADO DO RECURSO APELATÓRIO. INEXISTÊNCIA DE TÍTULO JUDICIAL. EXTINÇÃO DA EXECUÇÃO PROVISÓRIA. SENTENÇA MANTIDA.
+1. Imerece acolhida a preliminar de intempestividade do apelo suscitada em contrarrazões pelos réus/apelados, uma vez que apenas a oposição intempestiva dos aclaratórios leva ao seu não conhecimento, de sorte que a existência ou não dos vícios elencados na norma de regência é matéria de mérito, implicando a rejeição deles e a interrupção do prazo para interposição de recursos.
+2. Em regra, o apelo possui o efeito suspensivo (CPC, art. 1.012). Isto implica dizer que, interposto o recurso de apelação, e sendo este recebido em ambos os efeitos, fica contida a produção imediata dos efeitos da sentença.
+3. No caso, a sentença exarada nos autos da ação originária não refletia um título com eficácia executiva, uma vez que havia novo recurso de embargos de declaração pendente de julgamento, decorrente de julgamento de apelo dotado de efeito suspensivo, consoante orientação constante do Enunciado nº 218 do Fórum Permanente de Processualistas Cíveis e precedentes a respeito do assunto.
+4. Logo, nenhum a irregularidade constata-se no ato judicial que extinguiu o cumprimento provisório de sentença, que seja capaz de levar à sua cassação ou reforma. Apelação cível desprovida.
+Inconformados, FABIO CARRARO e STEFANIA CELIAC DE MELO CARRARO manejaram recurso especial (fls. 2.678-2.686), com arrimo na alínea "a" do permissivo constitucional, no qual alegam ofensa ao art. 1.026 do CPC/2015.
+Sustentam, em síntese, que não há que se falar em ausência de interesse de agir, pois "os embargos de declaração não possuem efeito suspensivo, ou seja, não impedem o curso do prazo para a prática de atos executórios ou mandamentais, restando evidente que o v. acórdão está em absoluta dissonância com o entendimento desta Corte e com o texto expresso da lei." (fl. 2.684).
+Foram apresentadas contrarrazões (fls. 2.705-2.714, e-STJ), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 2.719-2.721, e-STJ), motivando o agravo em recurso especial (fls. 2.727-2.736, e-STJ) em testilha.
+Também foi oferecida contraminuta (fls. 2.742-2.751, e-STJ), pelo desprovimento do recurso.
+Em petição às fls. 2.798-2.809, FABIO CARRARO e STEFANIA CELIAC DE MELO CARRARO informam que os agravados "transformaram os Credores-Agravantes em supostos devedores dos advogados dos Agravados, os quais estão exigindo o pagamento de verba honorária de 15% (quinze) por cento sobre o valor atualizado do Cumprimento Provisório de Sentença inicialmente ajuizado por FÁBIO e STEFANIA contra ARÉDIO e TEREZINHA, tudo isso porque o TJGO desprezou e ignorou a exegese jurisprudencial do STJ acerca da interpretação do caput do art. 1.026 do CPC, Excelência". Requerem, portanto, a antecipação dos efeitos da tutela recursal, para o fim de impedir atos executivos em face dos agravantes.
+É o relatório.
+A irresignação comporta parcial provimento.
+Cinge-se a controvérsia acerca da possibilidade de apresentação de pedido de cumprimento provisório de sentença na pendência de julgamento dos segundos embargos de declaração.
+No caso dos autos, o Tribunal de origem, analisando as circunstâncias dos autos, extinguiu o cumprimento provisório de sentença, por inexistência de título executivo, tendo em vista a pendência de embargos de declaração, como se infere do trecho abaixo transcrito (fls. 2.665-2.669):
+"Os recorrentes, em suma, alegam que é possível o cumprimento provisório de sentença, ainda quando pendente de julgamento novo recurso de embargos de declaração na ação originária, advindo do julgamento da apelação cível.
+Pois bem. O cumprimento provisório de sentença é fundado em título executivo judicial provisório, que pode ser modificado ou anulado em razão da pendência de um recurso interposto contra ela.
+Entretanto, é certo que o recurso, naturalmente, pode ser recebido no efeito suspensivo, pois tal circunstância retira a executabilidade da decisão e, consequentemente, cria um impedimento ao cumprimento provisório de sentença.
+Por outro lado, com a pendência de recurso que não tem efeito suspensivo, a decisão passa a gerar seus efeitos, inclusive podendo ser executada provisoriamente.
+Em suma, conclui-se que a única alternativa apta a gerar o cumprimento provisório de sentença é a interposição do recurso adequado, não recebido no efeito suspensivo.
+De um simples exame dos autos, observa-se que a sentença exarada nos autos da ação originária não refletia um título executivo quando instaurado o presente cumprimento provisório, uma vez que havia novo recurso de embargos de declaração pendente de julgamento (evento n. 252, autos originários n. 0433846- 46), decorrente de julgamento de apelo dotado de efeito suspensivo.
+Isso porque a simples oposição de embargos de declaração não tem o condão de afastar o efeito suspensivo automático estabelecido por lei ao recurso de apelação cível, o que impede que a sentença produza efeitos e se instaure o seu cumprimento provisório.
+Ora, como regra, o apelo possui o efeito suspensivo (CPC, art. 1.012). Isto implica em dizer que, interposto o recurso de apelação, e sendo este recebido em ambos os efeitos, fica contida a produção imediata dos efeitos da sentença.
+Com efeito, assim dispõe o artigo 1.012 e § 1º, do CPC:
+(..)
+Logo, vê-se que o artigo 1.012, caput, do CPC, prevê, como regra o efeito suspensivo ope legis, de forma que a mera impugnação da sentença já é o suficiente para retirar-lhe os efeitos, sendo a suspensão da eficácia prorrogada até o julgamento da apelação, como na espécie.
+Nesse contexto, no caso, inobstante o recurso de embargos de declaração não possuir efeito suspensivo, como ele ainda estava pendente de julgamento na ação originária, o acórdão que julgou o apelo ainda apresentava-se passível de integração, permanecendo, como dito, o efeito suspensivo emanado do recurso apelatório.
+Neste sentido, o Enunciado nº 218 do Fórum Permanente de Processualistas Cíveis: "A inexistência de efeito suspensivo dos embargos de declaração não autoriza o cumprimento provisório de sentença nos casos em que a apelação tenha efeito suspensivo".
+Confira-se os seguintes precedentes, in verbis:
+(..)
+Assim, de fato, se há possibilidade de interposição de um recurso com efeito suspensivo automático contra determinada decisão, os aclaratórios eventualmente opostos, ainda que não possuam efeito suspensivo, não podem deflagrar a execução do julgado.
+Ora, se antes dos aclaratórios a decisão não era capaz de produzir efeitos imediatos até que eles sejam julgados, a decisão que, já era ineficaz, assim permanecerá.
+Ante tais considerações, nenhuma irregularidade constata-se na decisão recorrida, que julgou extinto o cumprimento provisório de sentença por ausência de interesse de agir, que seja capaz de levar à sua cassação ou reforma." (grifou-se)
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que se admite, excepcionalmente, que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe alteração da conclusão do julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. TEMPESTIVIDADE. PRAZO RECURSAL. SUSPENSÃO.
+1. Os embargos de declaração são cabíveis para suprir omissão, contradição, obscuridade ou erro material do acórdão.
+2. Admite-se, excepcionalmente, que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe alteração da conclusão do julgado.
+3. No caso concreto, impõe-se o reconhecimento da tempestividade do recurso especial e considera-se a suspensão do prazo prevista no art. 220 do Código de Processo Civil.
+4. Embargos de declaração acolhidos com efeitos infringentes para dar provimento ao agravo interno.
+(EDcl no AgInt no AREsp n. 1.939.282/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APONTADA OMISSÃO DO ACÓRDÃO EMBARGADO. HONORÁRIOS RECURSAIS. OMISSÃO. OCORRÊNCIA. DECLARATÓRIOS ACOLHIDOS COM EFEITOS INTEGRATIVOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. No caso, os presentes aclaratórios merecem acolhimento, para sanar omissão quanto aos honorários recursais devidos ao advogado da parte vencedora, porquanto não majorados quando do provimento do agravo interno, para reconsiderar a decisão agravada e conhecer do agravo a fim de negar provimento ao recurso especial, no acórdão embargado.
+3. Embargos de declaração acolhidos, para suprir a omissão apontada, com efeitos integrativos.
+(EDcl no AgInt no AREsp n. 1.588.691/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024. - grifou-se)
+Nesse contexto, tendo em vista a possibilidade de se atribuir efeitos infringentes aos embargos de declaração, conforme anteveem o Douto Juízo singular e a eg. Corte Estadual, tem-se justificada a cautela no livre tramitar do cumprimento provisório de sentença, evitando-se medidas constritivas irreversíveis.
+Por outro lado, o estado de coisas acima não impede o ajuizamento do cumprimento provisório de sentença, a ponto de dar ensejo à precipitada extinção do feito, com condenação aos ônus sucumbenciais, transformando o devedor provisório, no procedimento de cumprimento extinto, em credor definitivo de ônus sucumbenciais a serem suportados pelo credor provisório, assim indevidamente convertido em devedor definitivo de tal verba.
+Esclareça-se que a pendência de julgamento dos embargos de declaração, desprovidos de efeitos suspensivos, não conduz à extinção do cumprimento de sentença provisório, em tese viável, de modo que se faz necessário o retorno dos autos para a origem, a fim de que se restabeleça o procedimento de cumprimento de sentença, embora com as devidas cautelas.
+Com essas considerações, conclui-se que o recurso merece prosperar em parte.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, afastando-se a indevida extinção do feito e determinando-se o retorno dos autos ao D. Juízo de origem, para que restabeleça o procedimento de cumprimento provisório, podendo adotar medidas que entender adequadas, enquanto se aguarda o julgamento dos referidos embargos de declaração ainda na fase de conhecimento.
+Prejudicado o pedido liminar de fls. 2.798-2.809.
+Publique-se.
+EMENTA
