@@ -1,0 +1,26 @@
+DECISÃO
+WAGNER ISMAEL DUARTE alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 5029848-97.2024.8.21.7000.
+Neste writ, a defesa sustenta, em síntese, que a decisão que decretou a prisão preventiva do paciente - acusado da prática dos delitos de tráfico e associação para o tráfico de drogas - seria carente de fundamentação idônea.
+Aduz que o decreto prisional é desarrazoado e não indica elementos concretos capazes de indicar o periculum libertatis.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do acusado, ainda que com a imposição de medidas cautelares menos gravosas.
+Deferida a liminar (fls. 35-38) e prestadas as informações (fls. 44-46), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 51-58).
+Decido.
+O paciente foi preso em flagrante, no dia 31/1/2024, na posse de 46g de maconha e 4,7g de cocaína. O Juiz de primeiro grau homologou o flagrante e decretou a prisão preventiva ao ressaltar o seguinte (fl. 15, grifei):
+Como se vê, não há dúvidas da gravidade concreta dos delitos, em tese, praticados em contexto que apresenta indícios de tráfico de drogas com a apreensão de droga acompanhada de balanças. Não há dúvidas também do abalo que a traficância está causando na comunidade local.
+Constata-se também que o detido WAGNER já possui condenação criminal anterior. Além disso, o detido LUIS informou que não está trabalhando. DOUGLAS informou que trabalha, mas não há comprovação nos autos. Nenhum dos três informaram com precisão o endereço residencial.
+Assim, a prisão preventiva está justificada com base na necessidade e adequação às peculiaridades do caso concreto. A medida é imprescindível para assegurar a ordem pública e a conveniência da instrução criminal.
+O Tribunal de origem ratificou o decisum de primeiro grau.
+A jurisprudência desta Corte Superior é firme em assinalar que "a custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no artigo 312 do Código de Processo Penal" (RHC n. 47.588/PB, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Na espécie, verifico que o Magistrado singular embasou sua decisão em elementos concretos e idôneos, notadamente o risco de reiteração delitiva - deduzida a partir do registro de uma condenação criminal anterior -, mas não demonstrou, satisfatoriamente, a insuficiência de outras medidas menos gravosas que a preventiva.
+Assim, as circunstâncias apresentadas, por si só, não poderiam ensejar a imposição da prisão preventiva, se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+Considerando, ainda, que o delito não envolveu violência ou grave ameaça contra pessoa e avaliando as circunstâncias em que perpetrado o suposto crime em questão, verifico que o pedido formulado reveste-se de plausibilidade jurídica, sendo o caso de conceder-se a ordem de habeas corpus.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao paciente - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamen te possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque a quantidade de droga apreendida não é expressiva (46g de maconha e 4,7g de cocaína ).
+À vista do exposto, ratifico a liminar deferida e concedo a ordem para, à luz das peculiaridades do caso concreto, substituir a prisão preventiva do réu pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades; e
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução.
+Alerte-se ao acusado que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigê ncia da cautelar mais gravosa.
+As medidas cautelares ora impostas poderão ser, a qualquer tempo, modificadas ou adaptadas, justificadamente, pela autoridade judiciária responsável pelo processo em curso no primeiro grau de jurisdição.
+Publique-se e intimem-se.
+EMENTA
