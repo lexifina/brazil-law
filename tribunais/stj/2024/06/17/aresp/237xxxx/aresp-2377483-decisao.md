@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE MINAS GERAIS, em face de decisão que não admitiu o recurso especial manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, e assim ementado (fl. 212):
+APELAÇÃO CÍVEL - DIREITO TRIBUTÁRIO - AÇÃO DECLARATÓRIA COM PEDIDO DE REPETIÇÃO DO INDÉBITO - INCIDÊNCIA DE ICMS SOBRE O SERVIÇO DE COMUNICAÇÃO - ABUSIVIDADE DA ALÍQUOTA APLICÁVEL AO SERVIÇO - VIOLAÇÃO AO PRINCÍPIO DA SELETIVIDADE - IMPOSSIBILIDADE DE ADOÇÃO DE ALÍQUOTA SUPERIOR AOS DEMAIS SERVIÇOS - REDIMENSIONAMENTO - ALÍQUOTA GERAL - PRECEDENTE DO STF
+1. "Adotada pelo legislador estadual a técnica da seletividade em relação ao Imposto sobre Circulação de Mercadorias e Serviços (ICMS), discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços" (STF, Tema 745).
+2. O Supremo Tribunal Federal determinou a aplicação, ao ICMS incidente sobre os serviços de comunicação, da alíquota geral dos demais serviços que, no caso do Estado de Minas Gerais, é de 18%, conforme previsto na Lei estadual n. 6.763/1975.
+3. Diante do reconhecimento da ilegitimidade da alíquota aplicada, deve ser determinada a restituição dos valores pagos a maior, observada a prescrição quinquenal.
+4. Nos indébitos tributários estaduais, a correção e os juros de mora devem observar o regramento especial que prevê a aplicação da taxa Selic, a partir do trânsito em julgado da sentença (Súmula n. 188 do eg. STJ).
+5. Recurso parcialmente provido.
+O acórdão em questão foi objeto de embargos de declaração opostos pela parte ora agravante, os quais foram rejeitados nos termos da seguinte ementa (fl. 237):
+EMBARGOS DE DECLARAÇÃO - MEIO INIDÔNEO PARA CORRIGIR OS FUNDAMENTOS JURÍDICOS OU FÁTICOS DE UMA DECISÃO - MERA REITERAÇÃO DOS ARGUMENTOS JÁ RECHAÇADOS DE FORMA FUNDAMENTADA NO ACÓRDÃO - INEXISTÊNCIA DE OMISSÃO - REJEIÇÃO DOS EMBARGOS
+1. Os embargos de declaração não constituem recurso idôneo para corrigir os fundamentos jurídicos ou fáticos de uma decisão, visto que, ex vi legis, limitam-se ao aclaramento do próprio aresto embargado, não podendo, assim, ser opostos com base em equivocada arguição de omissão visando única e exclusivamente a obter um reexame da matéria impugnada, sendo certo que se pode imprimir-lhes o efeito modificativo apenas em caráter excepcional, sob pena de desvirtuamento de sua real finalidade.
+2. Ausente qualquer defeito no julgado embargado, impõe-se a sua integral manutenção.
+3. Embargos declaratórios rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a parte ora agravante aponta violação dos arts. 1.022, inciso II, do CPC/2015 e 166 e 170, ambos do CTN. Sustenta a existência de omissões não supridas em sede de embargos de declaração. Para tanto, alega que (fl. 249):
+ e xpressamente consignou que em caso de acolhimento da pretensão da autora, o pedido de restituição não merecia provimento, diante da ausência de demonstração dos pressupostos estabelecidos no art. 166 do CTN. Também sustentou a impossibilidade de compensação, pois não é juridicamente possível a compensação com outros débitos, nem da própria autora, nem de terceiros, eis que não há lei que lhe permita, como exige o art. 170 do CTN.
+Alega, ainda, que "a Quinta Câmara, ignorando as razões estatais rejeitou os embargos, não tecendo uma linha sequer acerca da necessidade de observância do artigo 166 do CTN para o pedido de restituição e a impossibilidade de compensação, diante da ausência de lei autorizativa (fl. 250).
+Contrarrazões apresentadas às fls. 268-282.
+Não admitido na origem (fls. 286-291), foi interposto o presente agravo (fls. 294-313).
+Contrarrazões às fls. 317-328.
+É o relatório.
+Decido.
+Assiste razão à parte recorrente, no que diz respeito à alegação de ofensa ao art. 1.022, inciso II, do CPC/2015, o qu al dispõe que cabem embargos de declaração quando for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Com efeito, da minuta das contrarrazões à apelação e dos embargos de declaração opostos no Tribunal de origem, verifico que a parte ora agravante suscitou as seguintes questões: 1) impossibilidade de restituição, nos termos do art. 166 do CTN, diante da "necessidade de comprovação de não se ter a embargada repassado o encargo ao consumidor, para que haja a devolução pretendida" (fl. 229); 2) "não é juridicamente possível a compensação com outros débitos, nem da própria autora, nem de terceiros, eis que não há lei que lhe permita, como exige o art. 170 do CTN" (fl. 230).
+Os embargos declaratórios, todavia, foram rejeitados à base da seguinte motivação (fls. 239-240):
+Com redobrada vênia, não se vislumbra qualquer irregularidade no acórdão vergastado a ser sanada por esta via, observando-se que o decisum recorrido apresenta-se claro e devidamente fundamentado, inclusive no que tange à possibilidade de a autora optar pela restituição dos valores ou compensação do crédito. A propósito, constou do acórdão:
+É certo, ainda, que não há qualquer óbice para que a contribuinte escolha entre a compensação ou o pagamento por meio de precatório/RPV, nos exatos termos do enunciado n. 461 da Súmula do STJ.
+Com efeito, o recebimento do indébito tributário por compensação é faculdade do contribuinte, que pode valer-se dela ou não. Nesse sentido é o entendimento sumular do Superior Tribunal de Justiça, mencionado no acórdão:
+O contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado(Súmula 461, Primeira Seção, julgado em 25.08.2010, DJe 08.09.2010).
+Destaca-se que as próprias razões no embargante apresentam-se contraditórias nesse ponto, haja vista que defende, ao mesmo tempo, o descabimento da restituição em dinheiro e da compensação, o que esvaziaria por completo a repetição do indébito determinada no acórdão.
+Verifico que as razões do recurso especial estão bem fundadas.
+A despeito da oposição dos embargos de declaração, ficou sem a apreciação as questões suscitadas, quais sejam, ausência de demonstração dos pressupostos estabelecidos no art. 166 do CTN e impossibilidade de compensação com outros débitos em razão da ausência de lei autorizativa, como exige o art. 170 do CTN.
+O Tribunal de origem, portanto, incorreu em clara violação do art. 1.022, inciso II, do Código de Processo Civil.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão dos embargos de declaração de fls. 237-243 para que o Tribunal de origem se pronuncie, de maneira motivada e atendendo aos fatos e circunstâncias constantes dos autos, sobre as questões suscitadas na petição de fls. 226-232, relativas aos arts. 166 e 170 do CTN, ainda que para indicar os motivos pelos quais venha considerar tais questões impertinentes ou irrelevantes, na espécie.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. ICMS. OMISSÃO NO JULGADO. EXISTÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
