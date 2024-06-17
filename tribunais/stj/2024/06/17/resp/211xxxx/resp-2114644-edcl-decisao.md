@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BARBARA HENRYKA LIS - SOCIEDADE INDIVIDUAL DE ADVOCACIA contra decisão singular de minha lavra na qual dei parcial provimento ao recurso especial para determinar, sobre a parcela controversa nos autos, a incidência da multa do art. 523 do Código de Processo Civil/2015 e dos juros determinados na sentença até o pagamento integral da dívida, sendo devida a dedução do saldo do depósito judicial e seus acréscimos pagos pelo Banco depositário (e-STJ, fls. 2.147/2.154).
+Sustenta a parte embargante que há omissão na decisão embargada porque não constou a incidência dos honorários advocatícios sobre a parcela controversa, nos termos do art. 523 do CPC/2015.
+Assim delimitada a questão, passo a decidir.
+Inicialmente, ressalto que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material no julgado.
+Na hipótese, verifico que a decisão embargada padece de omissão, pois o art. 523 do CPC/2015 determina a incidência da multa e os honorários advocatícios incidirão sobre o saldo remanescente e, no caso dos autos, constou na decisão o provimento do recurso para determinar, "sobre a parcela controversa nos autos, a incidência da multa do art. 523 do CPC/2015 e dos juros determinados na sentença até o pagamento integral da dívida, sendo devida a dedução do saldo do depósito judicial e seus acréscimos pagos pelo Banco depositário".
+Desse modo, constatada omissão no julgado, impõe-se o acolhimento das alegações da parte embargante para sanar o aludido vício, em conformidade com o disposto no art. 1.022, inciso II, do CPC/2015, devendo constar na decisão que, sobre a parcela controversa nos autos, incide a multa e os honorários advocatícios, nos termos do art. 523 do CPC/2015, e os juros determinados na sentença até o pagamento integral da dívida, sendo devida a dedução do saldo do depósito judicial e seus acréscimos pagos pelo Banco depositário.
+Em face do exposto, acolho os embargos de declaração.
+Intimem-se.
+EMENTA
