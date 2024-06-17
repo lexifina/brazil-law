@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS). PATAMAR MÍNIMO DE 70 PONTOS. PARIDADE ENTRE SERVIDORES ATIVOS E INATIVOS. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO.
+1.  A apreciação da almejada paridade constitucional para servidora inativa, ainda que à luz de legislação infraconstitucional, no caso, da Lei 13.324/2016, enseja fundamentação eminentemente constitucional.
+2. Alteração no acórdão recorrido é de competência do Supremo Tribunal Federal, sob pena de usurpação de competência por este Superior Tribunal de Justiça, a que recai a uniformização da interpretação de regramento infraconstitucional.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela aplicação da Súmula 284/STF.
+Argumenta  a  parte agravante,  em  síntese,  que "foram 2 os fundamentos do acórdão recorrido para condenar a Autarquia na obrigação de pagar a GDASS a servidor inativo no mesmo patamar pago aos servidores em atividade" um deles constitucional e o outro, legal, consistente na "alteração do patamar mínimo do pagamento da GDASS aos servidores ativos pela Lei 13.324/2016, que modificou a redação do art. 11, § 1º, da Lei 10.855/2004, para garantir pontuação mínima de 70 pontos a todos os servidores ativos, independentemente do resultado da avaliação de desempenho" (fl. 504).
+Sustenta, ainda, que "a modificação no percentual devido aos servidores ativos, decorrente da Lei 13.324/2016, não tem o condão de retornar os aposentados e pensionistas ao status de paridade remuneratória existente até outubro/2009, pois, conforme assentado no Tema 983/STF, o direito à paridade só existiu até a regulamentação, pelo Poder Público, dos critérios de avaliação de desempenho/atividade, ocorrido em 2009" (fl. 507).
+Pugna pela reconsideração da decisão agravada ou pelo provimento, pelo Colegiado, do agravo interno.
+Impugnação da parte agravada pelo improvimento do recurso (fls. 517-526).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS). PATAMAR MÍNIMO DE 70 PONTOS. PARIDADE ENTRE SERVIDORES ATIVOS E INATIVOS. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO.
+1.  A apreciação da almejada paridade constitucional para servidora inativa, ainda que à luz de legislação infraconstitucional, no caso, da Lei 13.324/2016, enseja fundamentação eminentemente constitucional.
+2. Alteração no acórdão recorrido é de competência do Supremo Tribunal Federal, sob pena de usurpação de competência por este Superior Tribunal de Justiça, a que recai a uniformização da interpretação de regramento infraconstitucional.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+A autora, ora recorrida, é servidora do INSS, aposentada desde 1º/3/1989 e busca o reconhecimento de seu direito à paridade com os servidores da ativa com relação à percepção da gratificação de desempenho de atividade do seguro social (GDASS).
+Interposto recurso especial, pelo INSS, do acórdão que manteve a procedência de seu pedido, não foi conhecido com fundamento na ausência de competência deste STJ para rever acórdão cujo fundamento é eminentemente constitucional.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. A decisão agravada não conheceu do recurso especial, em suma, pelo seguinte fundamento:
+ ..  observa-se que a Corte regional analisou a controvérsia com suporte em fundamentos eminentemente constitucionais, em especial na regra da paridade, o que afasta o exame da questão pelo STJ, sob pena de invadir a competência do STF.
+Ressalte-se que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com amparo em razões de natureza constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte (fl. 495).
+Com efeito, a Corte de origem dirimiu a controvérsia a respeito da possibilidade de recebimento da gratificação em questão (GDASS) no patamar de 70 pontos, assim como os servidores da ativa, utilizando-se de fundamentos constitucionais, suficientes e autônomos à preservação do acórdão recorrido.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL - GDASS. PATAMAR MÍNIMO DE 70 PONTOS. ACORDÃO QUE EXTENDEU A GRATIFICAÇÃO POR OFENSA AO ARTIGO 40, §§ 4º E 8º, DA CF/88. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. NÃO CONHECIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A controvérsia acerca da extensão da gratificação GDASS aos aposentados e pensionistas foi dimirida pelo acórdão local com fundamento eminentemente constitucional, a partir da ofensa ao artigo 40, §§ 4º e 8º, da CF/88.
+2. Compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido quanto ao ponto, sob pena de usurpação de competência inserta no art. 102 da Constituição. Federal. Precedentes: AgInt no AREsp n. 2.238.546/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/5/2023; AgInt no REsp n. 1.909.039/RN, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/4/2022, DJe de 22/4/2022; AgInt no REsp n. 1.893.820/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe de 16/3/2021; e AgInt no REsp n. 1.447.193/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/6/2018, DJe de 26/6/2018.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.388.628/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2023, DJe de 20/12/2023.
+Ainda que o instituto recorrente argumente que a paridade possa ser analisada por este STJ à luz da Lei 13.324/2016, patente tratar-se de matéria eminentemente constitucional, assim analisada pelo acórdão do Tribunal. Assim, de fato, a análise da extensão do pagamento da GDASS aos servidores inativos, em observância à regra da paridade, como feito a quo, implicaria usurpação de competência se realizada por esta Corte, o que impede o conhecimento do recurso especial.
+Por fim, vale considerar que a decisão agravada também negou conhecimento ao recurso especial com base na Súmula 284/STF, por ausência de especificação do alegado ponto omisso a demandar a aplicação do art. 1.022 do CPC, o que, contudo, não foi objeto do agravo interno.
+Isso posto, nego provimento ao recurso.
