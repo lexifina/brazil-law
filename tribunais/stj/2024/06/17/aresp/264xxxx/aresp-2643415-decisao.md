@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado da Bahia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 435):
+APELAÇÃO CÍVEL. POLICIAL MILITAR. AÇÃO DE REINTEGRAÇÃO DE POSSE EM CARGO PÚBLICO. SENTENÇA PENAL ABSOLUTÓRIA POR ATIPICIDADE DA CONDUTA. ART. 386, INCISO III, DO CPP. INDEPENDÊNCIA DAS ESFERAS ADMINISTRATIVA E CRIMINAL. CONTUDO, DECISÃO ADMINISTRATIVA FUNDADA NA OCORRÊNCIA DE CRIME CONTRA ADMINISTRAÇÃO PÚBLICA. TIPICIDADE DA CONDUTA QUE FORA AFASTADA PELO JUÍZO COMPETENTE. DESRESPEITO AO QUANTO TRANSITADO EM JULGADO NO JUÍZO CRIMINAL. PODER DISCIPLINAR DA ADMINISTRAÇÃO LIMITADO À APURAÇÃO DE FALTA RESIDUAL. AUSENTES PROPORCIONALIDADE E RAZOABILIDADE NA PUNIÇÃO. PROVIMENTO DO APELO. SENTENÇA REFORMADA. AÇÃO JULGADA PROCEDENTE.
+i. Ressalta-se a independência das esferas administrativas e penais, na qual a punição disciplinar não depende da conclusão na esfera criminal, tampouco a esta fica vinculado, ressalvadas as hipóteses de negativa de autoria e inexistência do fato.
+I - Contudo, na esfera criminal, ao decretar a absolvição do apelante, nos termos do art. 386, inc. III, do CPP, o juiz afirmou que a conduta era atípica e, por conseguinte, não há como existir crime, já que crime é fato típico, ilícito e culpável. Ilegal, portanto, o ato da Administração Pública que, ao enquadrar o fato como crime, desrespeitando a decisão do juízo competente, aplicou a pena de demissão ao apelante.
+II - Aliado aos elementos trazidos pela sentença criminal, e sem qualquer outro apontamento que indique o agravamento da circunstância do apelante, a pena de demissão mostra-se demasiada a tudo quanto abordado na fundamentação da decisão administrativa.
+Opostos embargos declaratórios, foram rejeitados (fls. 468/472).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 140 e 1.022, II, do CPC. Sustenta, em síntese, negativa de prestação jurisdicional, sob a alegação de que a Corte de origem manteve-se omissa quanto a pontos essenciais ao deslinde do feito.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Em reforço:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS. ANÁLISE DE DISPOSITIVOS DE LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. INCIDÊNCIA POR ANALOGIA. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO AO ARTIGO 10 DO CPC. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula n. 284 do STF.
+(..)
+IX - Agravo Interno improvido.
+(AgInt no REsp n. 2.070.109/ES, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DO DEMANDADO.
+1. Não se conhece da alegada violação dos artigos 489 e 1022 do CPC/15, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir a Súmula 7 do STJ.
+3. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior. Incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.310.181/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título que vier a ser fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
