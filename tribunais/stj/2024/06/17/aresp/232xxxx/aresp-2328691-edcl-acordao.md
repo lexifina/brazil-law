@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA DE VÍCIO NA PRESTAÇÃO JURISDICIONAL. REJEIÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MAYANE BIANCA COSTA E SILVA em face de acórdão de minha relatoria, no qual a Quarta Turma negou provimento ao agravo interno, consoante a seguinte ementa (e-STJ fls. 787-796):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. SÚMULA 735/STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula 284 do STF por analogia.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial contra acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação à norma que diga respeito ao mérito da causa. Precedentes.
+3. Agravo interno a que se nega provimento.
+Em suas razões (fls. 803-808), a embargante sustenta que o acórdão embargado "incide nos vícios de omissão e contradição a que se refere o artigo 1.022, inciso II, e parágrafo único, inciso I, c/c 489, § 1º, V, do CPC, visto que o Recurso Especial trouxe expressamente divergência jurisprudencial da Decisão do Tribunal de Justiça a quo com a Decisão deste Tribunal Superior,com fundamento amplamente combatido da Lei Federal nº 9.656/1998,razão pela qual utiliza-se do presente recurso para, com supedâneo do art. 1022, inciso I e II e parágrafo único, do CPC, ver saneados os vícios com atribuição de efeito infringente".
+Alega que: "A Decisão vergastada padece de vício que precisa ser sanado, considerando que todos os fundamentos utilizados na decisão proferida pelo Tribunal de Origem foram explicita e objetivamente impugnados pela Recorrente. A Lei Federal que foi desconsiderada na decisão em Agravo de Instrumento pelo TJMT e foi amplamente debatida em sede de Recurso Especial foi a Lei nº 9.656/1998, que dispõe sobre os planos de saúde privados".
+Afirma que: "A Tutela Provisória de Urgência foi deferida em sede de primeira instância, determinando que a Embargada arcasse com todas as despesas e insumos prescritos pelos médicos assistentes da Embargante. Em sede de Agravo de Instrumento, foi parcialmente reformada a decisão, não incluindo no custeio do tratamento destinado à Recorrente, a alimentação dos profissionais de saúde que trabalham em home care".
+Aduz que: "A referida decisão foi de encontro ao entendimento jurisprudencial do STJ, bem como da Lei que trata dos planos de saúde privados, e foi amplamente argumentado no Apelo Recursal. Nesse sentido encontra-se a jurisprudência dominante desse colendo Superior Tribunal de Justiça, no sentido de que a internação domiciliar é desdobramento do tratamento hospitalar e, portanto, não pode sofrer limitações por parte dos planos de saúde privados".
+Impugnação apresentada (fls. 811-814).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA DE VÍCIO NA PRESTAÇÃO JURISDICIONAL. REJEIÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Não se verifica a omissão apontada, mas mera pretensão de rejulgamento da causa.
+Da análise do acórdão embargado, é possível verificar que houve manifestação clara e suficiente, acerca: i) da incidência do óbice da Súmula 284/STF, por ausência de indicação precisa, nas razões do especial, do dispositivo legal objeto de interpretação divergente; ii) da aplicação da Súmula 735/STF, por não caber recurso especial em face de acórdão que decide pedido de antecipação de tutela, não havendo discussão excepcional, no caso, sobre os próprios requisitos que permeiam a tutela de urgência.
+Confira-se a seguinte passagem do acórdão embargado (fls. 789-796):
+No caso em exame, a Presidência desta Corte não conheceu do recurso especial interposto em razão da incidência da Súmula 284 do STF, uma vez que não houve indicação precisa dos dispositivos legais que seriam objeto do dissenso interpretativo.
+ ..  Nas razões do seu recurso especial, a agravante afirmou que o acórdão proferido pelo Tribunal de origem contrariava a jurisprudência do STJ, no que diz respeito à extensão da cobertura de plano de saúde. Defendeu a obrigatoriedade da operadora em custear a alimentação dos profissionais de saúde destacados para a prestação do serviço.
+Verifico, entretanto, a ausência de indicação, nas razões do recurso especial, do artigo de lei que teria sido violado ou a respeito de cuja interpretação divergiu o acórdão recorrido, de modo que deve ser mantido o óbice da Súmula 284 do STF por analogia.
+A esse respeito, a jurisprudência desta Corte é no sentido de que a ausência de indicação precisa dos dispositivos tidos como violados, ou reputados como objeto de interpretação divergente, configura deficiência de fundamentação, o que atrai a incidência da Súmula 284/STF.
+ ..  Ademais, a jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial contra acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação à norma que diga respeito ao mérito da causa.
+De fato, esta corte firmou entendimento no sentido de que é possível afastar a incidência da Súmula 735 do STF nas hipóteses em que a concessão ou não da medida liminar caracterizam ofensa direta à lei federal que regulamenta estes institutos, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa.
+ ..  Essa hipótese excepcional, contudo, seria possível caso fossem discutíveis os próprios requisitos que permeiam a tutela de urgência, como por exemplo, critérios para se reconhecer a "probabilidade do direito" ou ainda o "perigo da demora". Ou seja, apenas é possível afastar a aplicação da Súmula 735 do STF nesses casos específicos em que se interpreta o próprio art. 300 do CPC, o que, entretanto, não é a hipótese dos autos. Inafastáveis, portanto, as conclusões adotadas na decisão agravada, uma vez que, conforme entendimento desta Corte, a ausência de indicação clara e precisa dos dispositivos de lei federal violados pelo acórdão recorrido caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do Supremo Tribunal Federal.
+Não havendo argumentos aptos a alterar a decisão agravada, esta segue mantida por seus próprios fundamentos. Em face do exposto, nego provimento ao agravo interno.
+É como voto.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+No presente recurso, busca-se, expressamente, a alteração do julgado por via inadequada, na medida em que os embargos de declaração são recurso de fundamentação vinculada, adstrito à correção dos vícios acima elencados ou, ainda, de erro material.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. A contradição que autoriza o manejo dos embargos de declaração é a interna, ou seja, aquela verificada sempre que existirem no decisum embargado proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+3. No caso concreto, não se constatam o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1251891/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, Dje 15/12/2021)
+Destaca-se, ademais, que o recurso integrativo não é a sede própria para confronto de decisões divergentes, nem se presta a esse desiderato.
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
