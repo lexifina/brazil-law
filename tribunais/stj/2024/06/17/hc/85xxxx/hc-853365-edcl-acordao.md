@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. NULIDADE. AUSÊNCIA DE VISTA PRÉVIA DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PREJUÍZO. PRECEDENTES.
+1. De fato o RISTJ exige a prévia manifestação ministerial, mas não há prejuízo no caso concreto, principalmente diante da vista posterior e da possibilidade de reação ao órgão, como na oposição do presente embargo.
+2. Assim, entendo sanada a suposta nulidade, dada a ausência do prejuízo.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público Federal ao acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça que concedeu a ordem de Habeas Corpus, determinando o restabelecimento da decisão do Juiz das execuções criminais que havia concedido o indulto do Decreto Presidencial n. 11.302/2022, em relação à PEC n. 0003168-60.2019.8.26.0158 (fls. 86/87):
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INDEFERIMENTO COM BASE EM REQUISITO OBJETIVO RELATIVO À QUANTIDADE DE PENA COMINADA AO CRIME. INEXISTÊNCIA, NO DECRETO PRESIDENCIAL, DE DEFINIÇÃO DE PATAMAR MÁXIMO DE PENA (SEJA EM ABSTRATO OU EM CONCRETO) RESULTANTE DA SOMA OU DA UNIFICAÇÃO DE PENAS, COMO REQUISITO A SER OBSERVADO NA CONCESSÃO DO INDULTO. PACIENTE QUE FAZ JUS AO BENEFÍCIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Cinge-se a lide em saber se, para fins de alcançar o requisito objetivo tutelado pelo Decreto Presidencial nº 11.302/2022, para concessão do indulto (pena máxima em abstrato não superior a 5 anos), deve-se considerar o somatório das penas da execução ou tão somente a pena do delito que se pleiteia o indulto.
+2. Em atenção à hermenêutica jurídica, parágrafos, incisos e alíneas localizados no mesmo artigo devem ser interpretados conjuntamente e, in casu, o parágrafo único do art. 5º é claro ao afirmar que a pena será considerada individualmente para fins de aferição do critério objetivo de 5 anos para concessão do indulto.
+3. Por mais que o Decreto não tenha sido claro, destacando que as penas serão consideradas individualmente também nos casos de unificação das penas, tratando-se de instituto próprio da execução penal, não há como entender de modo diverso.
+4. Por sua vez, o art. 11 adverte que as penas deverão ser somadas para fins do disposto neste Decreto, sem especificar ou citar diretamente o art. 5º e, ainda, me parece que a razão de ser do caput do citado artigo é apenas a de trazer um limite temporal à soma ou unificação das penas.
+5. Nesse sentido, não há como se concluir que o limite máximo de pena em abstrato estipulado no caput do art. 5º do Decreto 11.302/2022 somente autoriza a concessão de indulto se o prazo de 5 (cinco) anos não for excedido após a soma ou unificação de penas prevista no caput do art. 11 do mesmo Decreto presidencial. (AgRg no HC n. 824.625/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/6/2023).
+6. Uma vez que no caso concreto pleiteia-se o deferimento de indulto pelo delito previsto no art. 307, caput, do CP, cuja pena máxima em abstrato é de 1 ano de detenção, deve ser restabelecida a decisão do juiz singular que deferiu o pedido da defesa.
+7. Ordem concedida a fim de cassar o acórdão coator, determinando o restabelecimento da decisão do Juiz das execuções criminais que havia concedido o indulto do Decreto Presidencial n. 11.302/2022, em relação à PEC n. 0003168-60.2019.8.26.0158.
+O embargante alega, em síntese, error in procedendo, já que não houve, quando do julgamento do Habeas Corpus, abertura de vista prévia ao Ministério Público.
+Aduz que a concessão da ordem, em julgamento colegiado, sem prévia manifestação deste Ministério Público Federal, caracteriza error in procedendo que impõe a declaração de nulidade do decisum, por inobservância às regras supramencionadas (fl. 107).
+Por fim, requer o conhecimento e provimento dos embargos de declaração para, extirpando o apontado error in procedendo, reconhecer a nulidade do acórdão embargado, realizando-se novo julgamento, após a prévia concessão de vista dos autos ao Ministério Público Federal (fl. 110).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. NULIDADE. AUSÊNCIA DE VISTA PRÉVIA DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PREJUÍZO. PRECEDENTES.
+1. De fato o RISTJ exige a prévia manifestação ministerial, mas não há prejuízo no caso concreto, principalmente diante da vista posterior e da possibilidade de reação ao órgão, como na oposição do presente embargo.
+2. Assim, entendo sanada a suposta nulidade, dada a ausência do prejuízo.
+3. Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos não merecem acolhimento.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). Não tem caráter substitutivo, modificador ou infringente do julgado, mas, sim, integrativo ou aclaratório.
+Quanto aos argumentos do Ministério Público, de fato o RISTJ exige a prévia manifestação ministerial, mas não há prejuízo no caso concreto, principalmente diante da vista posterior e da possibilidade de reação ao órgão, como na oposição do presente embargo.
+Assim, entendo sanada a suposta nulidade, dada a ausência do prejuízo.
+No mesmo sentido, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. NULIDADE. AUSÊNCIA DE VISTA PRÉVIA DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PREJUÍZO. QUANTIDADE DE DROGAS. CAUSA DE DIMINUIÇÃO DA PENA. FUNDAMENTO EXCLUSIVO. § 4º DO ART. 33 DA LEI DE DROGAS. PRECEDENTES.
+Agravo regimental improvido.
+(AgRg no HC n. 895.486/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. COLABORAÇÃO PARA O TRÁFICO DE DROGAS. VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO. AUSÊNCIA DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO NO WRIT ORIGINÁRIO. DECISÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA CONSOLIDADA DESTA CORTE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RISCO EFETIVO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de manifestação prévia do Ministério Público não implica a nulidade do acórdão proferido pelo Tribunal de origem, tendo em vista que a decisão encontra-se em consonância com a jurisprudência consolidada deste Superior Tribunal de Justiça.
+2. Como cediço, a ciência posterior do Parquet e a dispensa de informações, "longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido" (EDcl no AgRg no HC 324.401/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 2/2/2016, DJe 23/2/2016).
+ ..
+(AgRg no HC n. 855.848/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023 - grifo nosso).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AUSÊNCIA DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. NULIDADE. NÃO OCORRÊNCIA. PRINCÍPIO DA CELERIDADE E GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. MINORANTE DO § 4º DO ART. 33 DA LEI DE DROGAS. CAUSA DE DIMINUIÇÃO AFASTADA APENAS PELA QUANTIDADE DE DROGA, JÁ USADA NA PRIMEIRA FASE, E PELA AFIRMAÇÃO GENÉRICA DE SER O RÉU CONHECIDO NO MEIO POLICIAL. FUNDAMENTOS INIDÔNEOS. AGRAVO DESPROVIDO.
+1. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta." (AgRg no HC 530.261/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019.)
+2. "Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Ademais, o reconhecimento de eventual nulidade processual exige a comprovação de efetivo prejuízo à parte, o que n ão ocorre na hipótese uma vez que o Parquet pode questionar a legalidade da decisão e expor suas razões mediante a interposição de agravo regimental." (AgRg no RHC n. 176.066/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+ ..
+(AgRg no HC n. 889.063/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024 - grifo nosso).
+Ante o exposto, rejeito os presentes embargos de declaração.
