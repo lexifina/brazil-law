@@ -7,3 +7,4 @@ IV - realização de audiência pública, antes da tomada de decisão, se a rele
 V - distribuição aleatória, respeitadas a especialização e a competência técnica requeridas para a análise da matéria;
 VI - publicidade dos atos processuais.
 § 2º (VETADO).
+§ 3º O procedimento referido no caput deste artigo tramitará em regime prioritário quando se tratar de análise de medicamento, de produto ou de procedimento relacionado à assistência da pessoa com câncer.
