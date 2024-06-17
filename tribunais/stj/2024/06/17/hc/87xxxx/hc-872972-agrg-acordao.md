@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE ENTORPECENTE APREENDIDO. AUSÊNCIA DE EXPRESSIVIDADE. ACUSADA PRIMÁRIA. POSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DO ENCARCERAMENTO. AGRAVO REGIMENTAL INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL NÃO PROVIDO.
+1. Hipótese em que, apesar da fundamentação concreta acerca da necessidade da prisão preventiva, a quantidade de entorpecente apreendida não é expressiva, a acusada é primária e não há indícios de envolvimento em organização criminosa, a evidenciar a suficiência, no caso, da fixação de medidas cautelares diversas do cárcere.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão de fls. 198-202, proferida pelo Ministro Teodoro Silva Santos, então Relator, que concedeu a ordem de habeas corpus nos termos da seguinte ementa (fl. 198):
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. POSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DO ENCARCERAMENTO. OBSERVÂNCIA AO BINÔMIO NECESSIDADE E ADEQUAÇÃO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+Em suas razões, o Parquet federal sustenta que
+ ..  não se vislumbra, na espécie, a excepcionalíssima hipótese de flagrante ilegalidade, isso porque a custódia cautelar está ancorada em decisões com motivações idôneas, assentadas na expressiva quantidade do estupefaciente apreendido em poder da paciente, no momento de sua prisão em flagrante e no modus operandi perpetrado (fl. 510).
+Afirma que
+não se entende aqui ser viável e suficiente a imposição de medidas cautelares alternativas, visto que exaustivamente demonstradas a existência de circunstâncias indicativas do envolvimento habitual do paciente com o tráfico de drogas (fl. 512).
+Requer a reconsideração da decisão agravada ou o provimento do recurso pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE ENTORPECENTE APREENDIDO. AUSÊNCIA DE EXPRESSIVIDADE. ACUSADA PRIMÁRIA. POSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DO ENCARCERAMENTO. AGRAVO REGIMENTAL INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL NÃO PROVIDO.
+1. Hipótese em que, apesar da fundamentação concreta acerca da necessidade da prisão preventiva, a quantidade de entorpecente apreendida não é expressiva, a acusada é primária e não há indícios de envolvimento em organização criminosa, a evidenciar a suficiência, no caso, da fixação de medidas cautelares diversas do cárcere.
+2. Agravo regimental não provido.
+VOTO
+A irresignação não prospera.
+Consta dos autos que a ora agravada foi presa em flagrante, no dia 26/10/2023, pela suposta prática dos delitos de tráfico de entorpecentes e associação para o tráfico, ante a apreensão de aproximadamente 330g de maconha em sua residência, quando do cumprimento de mandado de busca e apreensão deferido pelo Juízo da Vara Única da Comarca de Nhandeara/SP. A custódia foi convertida em prisão preventiva (fls. 14-17).
+A Defesa impetrou habeas corpus perante o Tribunal de origem buscando a revogação da prisão preventiva. A ordem foi denegada (fls. 8-13).
+Nestes autos, o pedido de revogação da custódia cautelar foi reiterado ao argumento de que a maconha apreendida destinava-se ao uso pessoal, bem como que o aparelho celular não era de propriedade da acusada.
+Destacou-se, ainda, as condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa.
+Requereu-se, assim, LIMINARMENTE a concessão da ordem com a revogação da prisão preventiva da paciente EDANE DOS SANTOS AROUCHE com a imposição de medidas cautelares à prisão ou a liberdade provisória (fl. 7).
+O pedido liminar foi indeferido (fls. 165-166).
+Prestadas as informações solicitadas (fls. 172-176 e 177-186), o Ministério Público Federal manifestou-se pela extinção do processo sem resolução de mérito ou pela denegação da ordem (fls. 188-193).
+Às fls. 198-202, foi concedida a ordem de habeas corpus para substituir a prisão preventiva da ré por medidas cautelares diversas.
+Consoante destacado na decisão impugnada, no caso, o Juízo de primeiro grau converteu a prisão flagrancial em preventiva nos seguintes termos (fls. 16-17; grifamos):
+Verifica-se que a autuada foi flagrada com relevante quantidade de drogas - 330,86 gramas de maconha (peso líquido) -, além de R$ 53,65 em moedas. No celular da autuada, cujo acesso ao conteúdo foi autorizado por decisão judicial (fls. 25), encontrou-se mensagens que revelam que ela, pelo menos desde 25 de julho, vem comercializando entorpecentes (fls. 37). Cumpre mencionar, ainda, consoante investigações preliminares, o tráfico de drogas era operacionalizado pela autuada e outra pessoa. Mais a mais, consoante relatório policial há escola infantil próximo à residência da autuada (fls. 31/34), de sorte que o delito torna-se eivado de maior gravidade concreta.. Tal modus operandi evidência, a princípio e em sede de cognição sumária, atividade habitual voltada para a prática delitiva em análise e demonstra, de maneira concreta, que caso ela permaneça em liberdade, voltará a delinquir, justificando sua segregação cautelar para a garantia da ordem pública. Consoante salienta José Frederico Marques: "desde que a permanência do réu, livre e solto, possa dar motivo a novos crimes, ou cause repercussão danosa e prejudicial ao meio social, cabe ao juiz decretar a prisão preventiva como garantia da ordem pública" (Elementos de Direito Processual Penal, v. 4, p. 50). Assentada a recalcitrância em condutas delituosas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão ante tempus (STF, HC 95.118/SP, 94.999/SP, 94.828/SP e 93.913/SC), não como antecipação de pena, mas como expediente de socorro à ordem pública, fazendo cessar emergencialmente a prática criminosa. Deixo de converter o flagrante em prisão domiciliar porque ausentes os requisitos previstos no artigo 318 do Código de Processo Penal. Deixo, ainda, de aplicar qualquer das medidas previstas no artigo 319 do Código de Processo Penal, conforme toda a fundamentação acima (CPP, art. 282, § 6º). E não se trata aqui de decretação da prisão preventiva com a finalidade de antecipação de cumprimento de pena (CPP, art. 313, § 2º), mas sim de que as medidas referidas não têm o efeito de afastar o acusado do convívio social, razão pela qual seriam, na hipótese, absolutamente ineficazes para a garantia da ordem pública. 6. Destarte, estando presentes, a um só tempo, os pressupostos fáticos e normativos que autorizam a medida prisional cautelar, impõe-se, ao menos nesta fase indiciária inicial, a segregação, motivo pelo qual CONVERTO a prisão em flagrante EDANE DOS SANTOS AROUCHE em PREVENTIVA, com fulcro nos artigos 310, inciso II, 312 e 313 do Código de Processo Penal. EXPEÇA-SE mandado de prisão.
+O Tribunal local, por sua vez, manteve a custódia cautelar, consignando, in verbis (fls. 10-11):
+Não se vislumbra qualquer ilegalidade na decisão proferida pelo Juízo de Primeiro Grau, estando devidamente fundamentada, observando-se os preceitos legais e as circunstâncias do caso concreto.
+A conversão da prisão em flagrante em preventiva da paciente está corretamente fundamentada, notadamente diante do fato de que foi presa em flagrante, em 26 de outubro de 2023, em Nhandeara, acusada da suposta prática do delito previsto no artigo 33, caput, da Lei Federal 11343/06.
+Segundo consta, na data dos fatos, os policiais localizaram na casa da paciente dois tijolos de maconha e 18 porções da mesma droga, após cumprimento de mandado de busca domiciliar nos autos do Processo Digital 1500461-10.2023.8.26.0383.
+ ..
+Assim, a decisão de primeiro grau se encontra devidamente fundamentada e consubstanciada na documentação acostada, em total consonância com os artigos quinto e 93, inciso IX, da Constituição Federal, e artigos 312 e 313, do Código de Processo Penal, porquanto se baseou nas características e nas consequências do crime cometido, além das particularidades da paciente.
+O crime de tráfico é equiparado a hediondo e possui pena máxima em abstrato elevada. Ademais, a quantidade e a natureza das drogas são fundamentos idôneos para demonstrar a necessidade de garantir a ordem pública, estando a medida restritiva de liberdade autorizada pelo artigo 313, inciso I, do Código de Processo Penal.
+Observa-se que as instâncias ordinárias fundamentaram devidamente a imposição da medida cautelar extrema diante da gravidade concreta da conduta da acusada, circunstância que justifica, em regra, a constrição para garantia da ordem pública.
+Todavia, é necessário salientar que, apesar da fundamentação concreta acerca da necessidade da prisão preventiva, a quantidade de entorpecente apreendida não é expressiva (330g de maconha), a acusada é primária e não há indícios de envolvimento em organização criminosa, a evidenciar a suficiência, no caso, da fixação de medidas cautelares diversas do cárcere.
+Registre-se que, em casos similares, quando se trata de apreensão de
+quantidade não exacerbada de entorpecentes, o Superior Tribunal de Justiça tem entendido pela possibilidade de substituição da prisão preventiva por medidas alternativas, mesmo diante da presença de fundamentação concreta para a custódia cautelar.
+É o que demonstram, entre outros, os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. CAUTELAR EXTREMA DESPROPORCIONAL.
+ ..
+2. No caso, embora não se possa falar que o decreto prisional é desprovido de motivação, pois invoca a quantidade e a forma de acondicionamento das drogas, a primariedade do acusado e a quantidade não exacerbada de entorpecentes apreendidos não se mostra excessiva, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+3 . Agravo regimental desprovido.
+(AgRg no HC n. 879.961/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. POSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. AGRAVO IMPROVIDO.
+1. Tratando-se de réu tecnicamente primário, não sendo relevante a quantidade de entorpecente apreendido, em se considerando que o crime de tráfico de drogas não envolve violência ou grave ameaça à pessoa, tem-se por suficiente a substituição da custódia por medidas cautelares diversas.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC n. 821.552/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Desse modo, na ausência de argumento apto a infirmar as razões consideradas no julgado agravado, deve ser mantida a decisão impugnada por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
