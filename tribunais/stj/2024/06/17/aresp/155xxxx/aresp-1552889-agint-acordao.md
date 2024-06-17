@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. QUANTUM INDENIZATÓRIO. AUSÊNCIA DE EXORBITÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. No caso concreto, os problemas decorrentes do erro médico e da falha na prestação do serviço hospitalar, por parte dos réus, levaram o autor à perda funcional do rim esquerdo. Não se afigura exorbitante, portanto, o montante fixado em R$ 180.000,00 (cento e oitenta mil reis), a título de danos morais, com a consequente condenação solidária dos réus.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ASSOCIAÇÃO EDUCADORA SÃO CARLOS - AESC contra decisão monocrática proferida por esta Relatoria (fls. 2.768/2.771), que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, a agravante pretende a reforma da decisão, sustentando que "a pretensão veiculada no recurso não atrai a aplicação da Súmula 7 desse Colendo Tribunal, pois a jurisprudência dessa Colenda Corte se posiciona favoravelmente quanto à possibilidade de revisão do quantum indenizatório em casos em que os valores são fixados de forma exagerada ou ínfima" (fl. 2.792).
+A parte agravada apresentou impugnação do agravo interno às fls. 2.800/2.818.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. QUANTUM INDENIZATÓRIO. AUSÊNCIA DE EXORBITÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. No caso concreto, os problemas decorrentes do erro médico e da falha na prestação do serviço hospitalar, por parte dos réus, levaram o autor à perda funcional do rim esquerdo. Não se afigura exorbitante, portanto, o montante fixado em R$ 180.000,00 (cento e oitenta mil reis), a título de danos morais, com a consequente condenação solidária dos réus.
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece acolhida.
+Conforme constou na decisão agravada, quanto aos danos morais estéticos, o Tribunal de origem manifestou-se nos seguintes termos:
+"A demanda versa sobre a responsabilidade de reparação dos danos morais, materiais e estéticos sofridos pelo autor em razão de procedimento cirúrgico realizado pelo 1º réu, nas dependências do 2º réu, com custeio do plano de saúde, arrolado como 3º réu. (..) No que diz respeito à perda parcial da função renal, também não se acolhem as teses recursais de que o paciente não comprovou o nexo entre o atendimento médico e a sequela, pois os réus não lograram comprovar em quais condições o autor teve alta do hospital. 17.
+Ao contrário, há vários elementos nos autos que demonstram as sequelas amargadas pelo autor, e que este deixou o hospital réu ainda muito debilitado. 18.
+Novamente se revela presente a negligência e a desordem técnico-administrativa dos réus. Não se acostou nos autos nenhum exame ou documento que atestasse a condição das funções renais do paciente, o que, segundo a própria perícia, seria informação imperativa dada a natureza da cirurgia eletiva. 19.
+Igualmente não se vislumbram nos autos provas consistentes de que a infecção teria sido causada por fator alheio à cirurgia, ou ao atendimento hospitalar. (..)
+Destarte, conclui-se que todos os elementos dos autos reforçam a constatação de que a conduta negligente dos três réus foi fator determinante para o agravamento do estado de saúde do paciente, estando aptos, portanto, a configurar o dever de reparação pelos danos moral, material e estético sofridos. (..)
+Configurada a responsabilidade dos réus, resta apreciar a questão do quantum indenizatório, objeto de inconformismo de todos os recursos.31. Não é demais pontuar que o dano moral somente pode ser reconhecido nos casos de efetiva violação da integridade, da intimidade, da honra subjetiva e da imagem.32. Sabe-se que a compensação oriunda dos prejuízos morais deve dar-se de acordo com o prudente arbítrio do magistrado. De sorte que, para arbitrar o montante indenizatório, o órgão julgador deve ponderar o grau de reprovabilidade da conduta ilícita, a capacidade econômica do causador do dano, as condições sociais do ofendido e a extensão do dano, sendo certo que a indenização deve representar caráter punitivo ao causador do dano, bem como, proporcionar ao ofendido uma compensação pelo dissabor vivenciado. 34. Assim, atendendo a tais ponderações e, considerando as circunstâncias do caso concreto, entendo que, diante de todo o narrado nos autos, os valores de R$ 180.000,00 (cento e oitenta mil reais) e R$ 20.000,00 (vinte mil reais) fixados a título de indenização por danos moral e estético, foram fixados de forma justa e adequada, valores que atendem aos critérios de razoabilidade e proporcionalidade e aos parâmetros adotados por esta Décima Câmara." (fls. 1939/1.940)
+No caso, o valor da indenização por danos morais e estéticos, arbitrado no montante de R$ 180.000,00 (cento e oitenta mil reais), não é exorbitante nem desproporcional aos danos sofridos pelo agravado, o qual, em decorrência de comprovado erro médico ocorrido, ficou com perda funcional do rim esquerdo, conforme relatado pelas instâncias ordinárias. Nessa linha de intelecção, citam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. ERRO MÉDICO. RESPONSABILIDADE CIVIL DO HOSPITAL. INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRODUÇÃO DE PROVAS. NOVA PERÍCIA. INDEFERIMENTO. DECISÃO MOTIVADA. DESNECESSIDADE. CONVENCIMENTO MOTIVADO DO MAGISTRADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. CONFIGURAÇÃO. PRESSUPOSTOS. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. JUROS DE MORA. RELAÇÃO CONTRATUAL. TERMO INICIAL. CITAÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIDO. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+3. Rever a convicção da corte de origem de prescindibilidade da produção de provas requerida demanda reexame de fatos e provas, o que é vedado em recurso especial, em razão da incidência da Súmula n. 7 do STJ.
+4. As instituições hospitalares respondem diretamente e objetivamente pelos defeitos nos serviços prestados, compreendidos como o fornecimento de recursos materiais e humanos auxiliares adequados à prestação dos serviços médicos e à supervisão do paciente.
+5. O hospital é responsabilizado indiretamente e solidariamente por ato culposo de médico vinculado à instituição.
+6. A falta de prequestionamento dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o seu reconhecimento nesta instância extraordinária por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+7. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+8. Não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência da Súmulas n. 211 do STJ e 282 do STF, em relação às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pela Corte a quo, por concluir serem suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+9. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+10. No caso de responsabilidade civil contratual, decorrente de erro médico, os juros moratórios devem fluir a partir da citação.
+Precedente.
+11. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+12. Agravo interno desprovido.
+(AgInt no AREsp n. 1.540.888/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Indenização por dano moral: R$ 374.800,00 (trezentos e setenta e quatro mil e oitocentos reais ).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. APELAÇÕES CIVEIS. ERRO MÉDICO. ERITROBLASTOSE FETAL. RESPONSABILIDADE CIVIL DO MÉDICO OBSTETRA E DA MATERNIDADE. PENSIONAMENTO VITALÍCIO. DANOS MORAIS. VALOR PROPORCIONAL E RAZOÁVEL. REEXAME. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO. JUROS DE MORA A PARTIR DA CITAÇÃO. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica dos fundamentos da decisão agravada. Reconsideração.
+2. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. A reforma do acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.204.303/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023.)
+Indenização por dano moral: R$ 500.000,00 (quinhentos mil reais).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. SAÚDE. ERRO MÉDICO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais e compensação por danos morais, ajuizada em razão de erro médico.
+2. A modificação do valor da indenização por danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes. Salvo nessas hipóteses, a análise do apelo quanto ao ponto encontra óbice na Súmula 7 do STJ.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.227.888/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+Indenização por dano moral: R$ 250.000,00 (duzentos e cinquenta mil reais).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ERRO MÉDICO VERIFICADO. RESPONSABILIDADE SOLIDÁRIA DIANTE DA EXISTÊNCIA DE VÍNCULO ENTRE MÉDICO E HOSPITAL. QUANTUM INDENIZATÓRIO. MODIFICAÇÃO DO ACÓRDÃO QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE A TEOR DA SÚMULA 7 DO STJ.
+1. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. A Corte estadual, com base nas provas dos autos, reconheceu a responsabilidade civil do hospital, sinalizando a existência de vínculo do médico responsável pelo ato cirúrgico com o nosocômio. Logo, a alteração desse entendimento, a fim de excluir a responsabilidade da entidade hospitalar, demandaria o revolvimento de matéria fático-probatória, inviável em recurso especial. Incidência da Súmula 7/STJ.
+3. Montante indenizatório pelos danos morais estabelecido pelo Tribunal de origem que não se mostra excessivo, a justificar sua reavaliação em recurso especial. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.162.928/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+Indenização por dano moral: R$ 281.100,00 (duzentos e oitenta e um mil e cem reais).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. DANOS ESTÉTICOS. ERRO MÉDICO. NEXO CAUSAL. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A revisão pelo STJ da indenização arbitrada a título de danos morais e de danos estéticos exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.826.209/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Indenização por dano estético: R$ 100.000,00 (cem mil reais).
+Indenização por dano moral: R$ 200.000,00 (duzentos mil reais).
+Se não fosse o bastante, a reversão da conclusão de que o valor é razoável demandaria nova incursão nos elementos fático-probatórios da lide, providência que se sabe vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse diapasão, com fulcro nos fundamentos acima aduzidos, deve ser mantida a decisão monocrática proferida alhures.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
