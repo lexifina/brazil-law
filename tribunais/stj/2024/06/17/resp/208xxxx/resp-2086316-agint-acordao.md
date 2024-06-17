@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando há ausência de impugnação específica dos fundamentos do acórdão recorrido.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por GABRIEL RODRIGUES PEREIRA BARBOSA contra decisão de minha relatoria, em que não conheci do recurso especial ante o óbice das Súmulas 283 e 284 do STF (e-STJ fls. 484/489).
+Em suas razões, a parte agravante sustenta que não incidem os referidos óbices sumulares, porquanto explicitou "a controvérsia de forma detalhada em seu Recurso Especial (impossibilidade de aplicação da prescrição em se tratando de direito de incapazes), fazendo cotejo entre os dispositivos legais federais violados, bem como esclarecendo qual a interpretação conferida pelo TRF5 de forma dissonante à dominante no âmbito deste Egrégio" (e-STJ fl. 502).
+Aduz que pretende a declaração de não incidência da prescrição em desfavor do absolutamente incapaz, a fim de possibilitar a concessão do benefício de auxílio-reclusão desde o aprisionamento do segurado, genitor dos menores.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não ofertou impugnação (e-STJ fl. 520).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando há ausência de impugnação específica dos fundamentos do acórdão recorrido.
+2. Agravo interno desprovido.
+VOTO
+Não merece reparos a decisão agravada.
+A pretensão do apelo especial não pode ser conhecida, pois a parte autora não impugnou todos os fundamentos do acórdão recorrido.
+A decisão da origem registrava que (e-STJ fls. 361/362):
+A decisão da Segunda Turma havia dado parcial provimento à apelação do INSS e à remessa oficial, para fixar a condenação do pagamento do auxílio-reclusão a partir da data do requerimento administrativo, ocorrido em 15/05/2009. O relator Ivan Lira de Carvalho, que lavrou o acórdão, ficou vencido quanto ao período de condenação do INSS, posto que considerava que o benefício deveria ser pago desde a data da reclusão do instituidor até a data de sua primeiro fuga, qual seja, de 27/03/1998 a 13/08/2007.
+Ocorre que, como se pode verificar na Minuta de julgamento, enquanto o termo inicial do benefício foi fixado em 2009 (DER), conforme entendimento da posição majoritária, o seu termo final foi mantido em 2007, posição do relator vencido. E mais, o acórdão foi publicado nos termos da posição do relator, quanto às parcelas vencidas.
+Já os embargos declaratórios interpostos, foram providos, mas apenas quanto aos juros de mora e a correção monetária, sem alterar o mérito da decisão embargada, não acolhendo as alegações dos particulares quanto à contradição no que diz respeito ao período de condenação.
+O STJ percebeu essa contradição e determinou o retorno dos autos, até para apurar a condição de segurado do instituidor, visto que temos, no julgamento Turmário, a fixação do termo inicial do benefício em 2009 (posição majoritária) e a manutenção do termo final na primeira fuga do instituidor (posição vencida), ocorrida dois anos antes, em 2007. E mais, afere-se pelas notas taquigráficas que a condição de dependente dos autores, e de segurado do instituidor, foi analisada quando do primeiro recolhimento prisional do detento, no ano de 1998.
+Isso porque a posição majoritária assentou que, apesar de não correr a prescrição contra os autores, absolutamente incapazes à época do recolhimento prisional do instituidor, no ano de 1998, o termo inicial da condenação deveria ser fixado na data do requerimento administrativo, em 15/05/2009. Nas palavras do eminente Des. Federal Paulo Roberto (id: 4058300.19354927, fl. 56): "Penso que não é possível, no requerimento que foi formulado em 2009, se deferir o pagamento desde 1997, ou seja, 12 anos antes (..) Poder-se-ia dizer que se trata de menor, mas a questão não é de prescrição: o menor não se sujeita à prescrição. A questão é a data do início do benefício (..). Não me impressiona a alegação do INSS de que houve a perda da qualidade de segurado, pois, neste caso, estou com V. Exa. A perda da qualidade de segurado não se pode contar por que ela ocorreu depois de quando surgiu o benefício".
+Resta saber, portanto, dentre os elementos de prova constantes nos autos, se o instituidor do benefício foi novamente recolhido ao sistema prisional, a partir da data do requerimento administrativo, estabelecido como termo inicial da condenação pelo acórdão da Segunda Turma, considerando que este fato é requisito para a concessão do auxílio-reclusão.
+Consta no Parecer nº. 172/2011, do MPF, os seguintes dizeres (id: 4058300.19354926, fl. 10): " No caso concreto, de acordo com o assentamento carcerário do segurado em questão (fls. 28/30), nota-se que ele se evadiu em duas oportunidades: a primeira, em 13.08.2007, com recaptura em 23.04.2008; e a segunda, em 11.05.2008, tendo voltado à condição de preso em 25.09.2008.
+Diante destas circunstâncias, há que se analisar se na data de sua recaptura ele ainda mantinha sua qualidade de segurado, consoante previsão do § 2º do art. 17 acima transcrito". Portanto, constando informações nos autos de que, à data do requerimento administrativo, em 15/05/2009, o segurado instituidor estava recolhido à prisão, deve o benefício de auxílio-reclusão ser pago aos autores pelo tempo que perdurar o seu recolhimento ao sistema prisional.
+Diante do exposto, dou provimento aos embargos de declaração dos particulares, para esclarecer que o termo inicial da concessão do benefício postulado será na data do requerimento administrativo, e terá duração enquanto perdurar a condição de recluso do instituidor do benefício. (Grifos acrescidos).
+Em seu apelo especial, contudo, a parte autora limitou-se a defender a não incidência da prescrição em desfavor dos absolutamente incapazes, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.3. Agravo Regimental do Impetrante não conhecido.(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Ademais, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido, e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017)
+Assim, a manutenção do julgado é medida que se impõe.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não conside rar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
