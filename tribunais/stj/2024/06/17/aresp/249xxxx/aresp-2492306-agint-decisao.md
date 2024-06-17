@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA. contra decisão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por entender que não houve impugnação específica a todos os fundamentos da decisão que não admitiu o recurso especial (e-STJ, fls. 438/439).
+Nas razões do agravo interno, a agravante sustenta que impugnou os fundamentos da decisão agravada demonstrando a existência de dissídio jurisprudencial sobre o tema recorrido e, portanto, o afastamento da Súmula 83 do STJ.
+Impugnação não apresentada (e-STJ, fl. 456).
+Diante da análise das razões do recurso, verifico que o óbice aplicado na decisão de inadmissibilidade foi devidamente impugnado, de modo que reconsidero a decisão recorrida, conheço do agravo e passo a análise do recurso especial.
+Trata-se de recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 350):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATO DE COMPROMISSO DE COMPRA E VENDA C/C INDENIZAÇÃOPOR DANOS MORAL E MATERIAL - SENTENÇA DE PARCIAL PROCEDÊNCIA - IRRESIGNAÇÃO DA REQUERIDA - PLEITO DE MANUTENÇÃO DOS VALORES REFERENTES À RESCISÃO CONTRATUAL E, SUBSIDIARIAMENTE, DE RETENÇÃO DE 25% DOS VALORES PAGOS - DESCABIMENTO - EFEITO RESCISÓRIO DECORRENTE DE CULPA DA COMPROMISSÁRIA VENDEDORA - OBSERVÂNCIA DA S. 543, DO STJ - SENTENÇA MANTIDA - HONORÁRIOS RECURSAIS FIXADOS - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta a validade da cláusula contratual que autoriza a retenção de comissão de corretagem, publicidade e tributação das parcelas adimplidas, em razão da tese firmada na oportunidade do REsp 1.599.511/SP, julgado sob o rito dos recursos repetitivo.
+Afirma que, nos termos dos arts. 489, VI, 927, ambos do Código de Processo Civil/2015 e dos arts. 389 e 402, ambos do Código Civil, é necessária a aplicação do entendimento firmado no julgamento do recurso representativo da controvérsia.
+Aduz, a par de dissídio jurisprudencial, a validade da cláusula contratual que repassa ao consumidor o pagamento da comissão de corretagem.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Nos termos da jurisprudência desta Corte, nos casos de resolução do contrato de promessa de compra e venda por culpa atribuída ao promitente vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, incluindo a comissão de corretagem. A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA N. 7 DO STJ. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR . DEVOLUÇÃO DAS PARCELAS PAGAS EM SUA INTEGRALIDADE. COMISSÃO DE CORRETAGEM. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame de matéria fático-probatória dos autos.
+2. Nas hipóteses em que se tratar de rescisão de contrato de compra e venda de imóvel, por culpa exclusiva do promitente vendedor, a devolução das parcelas pagas deve ocorrer em sua integralidade, incluindo-se a comissão de corretagem. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.151.315/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DO CONTRATO. PROMESSA DE COMPRA E VENDA. ATRASO INJUSTIFICADO. CULPA EXCLUSIVA. CONSTRUTORA. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO DEFICIENTE. OMISSÃO. NÃO OCORRÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. REEXAME. SÚMULAS NºS 5 E 7/STJ. INVERSÃO. CONSUMIDOR. CLÁUSULA PENAL. CABIMENTO. SÚMULA Nº 568/STJ. DEVOLUÇÃO INTEGRAL. ADQUIRENTES. VALORES PAGOS. COMISSÃO DE CORRETAGEM. RESTITUIÇÃO. LUCROS CESSANTES. PREJUÍZO PRESUMIDO.
+ ..
+4. Nos casos de resolução do contrato de promessa da compra e venda por culpa atribuída ao promitente vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, incluindo a comissão de corretagem. Incidência da Súmula nº 568/STJ.
+5. O atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador, conforme entendimento firmado nesta Corte Superior.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.128.645/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Da acurada análise do acórdão recorrido, verifico que o Tribunal de origem consignou que, (i) em se tratando de resolução de contrato de promessa de compra e venda de imóvel por culpa do promitente vendedor, deve ser ressarcida ao promitente comprador a integralidade dos valores pagos; (ii) a rescisão contratual decorreu de culpa exclusiva da recorrente, que não entregou os imóveis nas datas previstas no contrato; e (iii) descabida a pretensão de dedução das despesas relacionadas à rescisão contratual. Confira-se:
+Pois bem. Pretende a Requerida que os valores referentes à rescisão contratual (taxas de corretagem, publicidade, multa e tributos incidentes nas parcelas),sejam deduzidos do montante a ser ressarcido.
+Contudo, forte na necessidade de observância de entendimentos fixados pelos Tribunais Superiores em enunciados de suas súmulas e em recursos com repercussão geral e representativos de controvérsia (arts. 489, §1º, VI, 927, III e IV e 932,IV, "a" e "b", todos do CPC), faz-se necessário confirmar que, em se tratando de resolução de contrato de promessa de compra e venda de imóvel por culpa do promitente vendedor, deve ser ressarcida ao promitente comprador a integralidade dos valores pagos.
+É o entendimento firmado através do enunciado da Súmula 543, do STJ, e no recurso representativo de controvérsia REsp nº 1.300.418/SC:
+ ..
+Dito isso, e analisando os documentos acostados aos autos, observa-se que rescisão contratual decorreu de culpa exclusiva da Requerida, que não entregou os imóveis nas datas aprazadas (14/09/2017 e 27/07/2018, vide cláusula X, dos  1  instrumentos contratuais - mov. 1.8 e 1.9), já que, em 15/02/2021, a Secretaria Municipal de Urbanismo de Sarandi, em resposta a consulta dos Autores, informou que o loteamento não estava concluído (mov. 1.14), situação que foi confirmada pelo auto de vistoria (mov. 94.2, em 09/05/2022).
+Portanto, descabida a pretensão de dedução das despesas relacionadas à rescisão contratual.
+De igual modo, descabida a pretensão de retenção de 25% dos valores pagos, pois o direito de retenção, pelo vendedor, pressupõe a resolução pelo imotivada comprador, circunstância distinta do caso dos autos  ..  (e-STJ, fls. 353/355).
+Com isso, os fundamentos adotados pelo Tribunal de origem estão em consonância com o entendimento firmado nesta Corte de que, nos casos de resolução do contrato de promessa da compra e venda por culpa atribuída ao promitente vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, incluindo a comissão de corretagem.
+Quanto ao mais, não há como ser analisada a alegação de validade da cláusula contratual que repassa ao consumidor o pagamento da comissão de corretagem, em virtude da falta de prequestionamento, uma vez que o Tribunal de origem não analisou o caso à luz dos requisitos trazidos nas razões do presente recurso.
+O precedente firmado sob o Tema 938 pelo STJ não se aplica ao caso porque nele se discutiu apenas a validade da cláusula contratual que transfere ao consumidor a obrigação de pagar comissão de corretagem e taxa de assessoria técnico-imobiliária (SATI), mas nas hipóteses em que não houve a rescisão do contrato de compra e venda por culpa da vendedora, como no presente caso.
+Dessa forma, incide sobre o tema, o óbice da Súmula 568 do STJ.
+Em face do exposto, reconsiderando a decisão de fls. 438/439, nego provimento ao recurso.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
