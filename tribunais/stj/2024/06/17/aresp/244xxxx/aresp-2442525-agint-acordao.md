@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. CARTÃO DE CRÉDITO CONSIGNADO. ALEGADA INOVAÇÃO. AUSÊNCIA DE PREQUE STIONAMENTO. REGULARIDADE DA PACTUAÇÃO. RESPONSABILIDADE DAS PARTES. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incidem os óbices dos enunciados n. 282 e 356 da Súmula do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por MOACIR ALVES DE MIRANDA contra decisão de fls. 577-580, e-STJ, que negou provimento ao agravo em recurso especial.
+Em suas razões, afirma que não há falar em reexame do conjunto probatório e de cláusulas contratuais para o deslinde da controvérsia, bem como que houve o devido debate na origem acerca do tema exposto no recurso especial, o que afasta a incidência das Súmulas 282/STF; 5 e 7/STJ.
+Sustenta que ocorreu prequestionamento implícito acerca da tese da conduta desleal de inovar matéria defensiva promovida pela parte adversa, ao alegar que o ora agravante realizou mais de uma operação de telesaque no cartão de crédito consignado.
+Aduz que "as garantias e salvaguardas contratuais deferidas ao consumidor subsistem independentemente da quantidade de contratos firmados" (fl. 588, e-STJ).
+Intimada, a parte agravada apresentou impugnação, se manifestando pela manutenção da decisão atacada (fls. 532-536, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. CARTÃO DE CRÉDITO CONSIGNADO. ALEGADA INOVAÇÃO. AUSÊNCIA DE PREQUE STIONAMENTO. REGULARIDADE DA PACTUAÇÃO. RESPONSABILIDADE DAS PARTES. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incidem os óbices dos enunciados n. 282 e 356 da Súmula do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece provimento. Os argumentos jurídicos trazidos não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida:
+"Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. CARTÃO DE CRÉDITO CONSIGNADO. USO DO CARTÃO MAGNÉTICO PARA REALIZAR SAQUES COMPLEMENTARES. SÚMULA 63 DO TJGO. DISTINGUISHING CONFORME ORIENTAÇÃO DESTE COLEGIADO. APELO CONHECIDO E PROVIDO PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS. SENTENÇA REFORMADA. ÔNUS SUCUMBENCIAIS REDISTRIBUÍDOS.
+1 - Impõe revisar a sentença recursada para adotar o entendimento desta 4ª Câmara, ante a ocorrência de distinguishing ao modo de afastar a incidência da Súmula nº 63 desse Tribunal de Justiça. O enunciado sumular incide nos casos em que os consumidores das instituições financeiras não sabiam que aderiam a contrato de cartão de crédito consignado, não o utilizando de forma alguma, sendo, no entanto, debitada na folha de pagamento de salário a fatura mínima, situação diversa da examinada, posto que o consumidor usou os serviços bancários através da forma ordinária do cartão de crédito.
+2 - As partes contratantes são capazes e as condições contratuais foram livremente pactuadas e aceitas segundo autonomia de vontades, inclusive o consumidor se beneficiou do cartão de crédito para realizar saque complementar, não cabendo a ele atribuir ao banco a prática de conduta ilícita.
+3 - Apelação conhecida e provida para reformar a sentença e julgar improcedentes os pedidos iniciais.
+4 - Ônus sucumbenciais invertidos, suspensa sua exigibilidade por força do artigo 98, § 3o, Código de Processo Civil.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta o agravante violação do artigo 336 e 342 do Código de Processo Civil; e, 51 do Código de Defesa do Consumidor.
+Sustenta que a parte adversa apresentou tese inovadora no recurso de apelação, matéria já preclusa pela não apresentação na fase instrutória.
+Alternativamente, argumenta que faz jus à rescisão do contrato, haja vista a desvantagem exagerada e lesividade ao patrimônio do ora agravante.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, no tocante ao aventado cerceamento de defesa e preclusão da questão, sobre a ótica de inovação recursal, verifico que o agravante interpôs embargos de declaração a fim de sanar possíveis omissões no julgado estadual acerca do tema, no entanto, nas razões do recurso especial, não apontou violação ao art. 1.022 do CPC/15, haja vista a ausência de enfrentamento do mencionado ponto no julgamento dos embargos de declaração pela origem, ressaltando-se que, na instância ordinária, não se aplica o brocardo jura novit curia, de modo que incide o verbete n. 284, do STF. De igual teor:
+AGRAVO INTERNO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. AÇÃO DE INDENIZAÇÃO C/C MANUTENÇÃO NA POSSE. CONTRATO DE ARRENDAMENTO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STJ. INDENIZAÇÃO DE BENFEITORIAS. NÃO CABIMENTO. REVISÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ.
+1. Aplicam-se as Súmulas n. 211 do STJ e 282 do STF quando a questão suscitada no recurso especial não foi apreciada pela Corte de origem.
+2. O acesso à via excepcional, nos casos em que o Tribunal a quo, apesar da oposição de embargos declaratórios, não soluciona a omissão apontada, depende da veiculação, nas razões do recurso especial, de ofensa ao art. 535 do Código de Processo Civil.
+3. Incidem as Súmulas n. 5 e 7 do STJ se a tese defendida no recurso especial reclamar a análise de cláusula contratual e de elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 193.114/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 18/8/2016)
+No tocante à regularidade da contratação e à responsabilidade dos litigantes, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (fls. 477-478, e-STJ):
+Por fim, na petição inicial o autor confessa ter celebrado com o banco contrato de empréstimo consignado, insurgindo-se apenas quanto à modalidade de cartão de crédito. O banco, por sua vez, colacionou cópia do contrato firmado, as faturas mensais do cartão de crédito, com histórico de saque complementar, desconstituindo a veracidade das alegações da petição inicial, segundo a qual o consumidor não conheceria o aludido cartão magnético, nos moldes do art. 373, inciso II, CPC.
+Logo, considerando que o consumidor tinha conhecimento quanto à modalidade contratada, utilizando o cartão de crédito para efetuar saque complementar, não vislumbro qualquer ilegalidade ou abusividade nos descontos consignados pelo banco.
+Ressalte-se que as partes contratantes são capazes e as condições contratuais foram livremente pactuadas e aceitas segundo autonomia de vontades, inclusive o consumidor se beneficiou do cartão de créditos, não cabendo a ele atribuir ao banco a prática de conduta ilícita. Assim, diante das premissas lançadas e das circunstâncias do caso, merece reparos a sentença de parcial procedência dos pedidos iniciais a fim de julgá-los improcedentes.
+A revisão do entendimento acerca da responsabilidade da agravante, da nulidade das cláusulas contratuais e de demais questões factuais ainda com base na interpretação dos termos pactuados, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do arcabouço contratual, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. CREDENCIAMENTO DE CARTÃO DE CRÉDITO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. FRAUDE. RESPONSABILIDADE DA FORNECEDORA. ABUSIVIDADE CONTRATUAL. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento de cláusulas contratuais e do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.914.459/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 15/12/2021)
+Em face do exposto, nego provimento ao agravo"
+Em nova análise do recurso, acerca da aventada tese da inovação trazida parte adversa no recurso de apelação, verifico que não houve debate pela Corte local quanto ao ponto, fato que impede a análise de mencionado tema, mesmo que se trate de questão de ordem pública.
+Registro, ademais, que a ocorrência do prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, exige que a parte recorrente tenha interposto embargos de declaração e depois indicado a violação ao art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, o que não ocorreu no presente caso.
+De todo modo, as razões do agravo interno não são convincentes, merecendo, assim, a aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÕES DE AÇÕES TELESC S/A E TELESC CELULAR S/A (01 - BRASIL TELECOM). CONTRATO DE PARTICIPAÇÃO FINANCEIRA. INEXISTÊNCIA DE DIREITO TÃO SOMENTE EM RELAÇÃO A COMPLEMENTAÇÃO DAS AÇÕES DA TELEFONIA MÓVEL. DOBRA ACIONÁRIA. VALOR PATRIMONIAL DA AÇÃO APURADO COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO. ADOÇÃO DA DECISÃO EMANADA PELO STJ NO JULGAMENTO DO RESP. 1301989/RS COM FORÇA DE REPETITIVO. CÁLCULO APURADO COM BASE NA MULTIPLICAÇÃO DO NÚMERO DE AÇÕES DEVIDAS PELA COTAÇÃO DESTAS NO FECHAMENTO DO PREGÃO DA BOLSA DE VALORES NA DATA DO TRÂNSITO EM JULGADO DESTA AÇÃO, COM JUROS DE MORA DESDE A CITAÇÃO. PCT E PEX. DIFERENÇAS ENTRE CONTRATOS, MAS QUE NÃO RETIRA A RESPONSABILIDADE DA CONCESSIONÁRIA DE SUBSCREVER AS AÇÕES. DIVIDENDOS, BONIFICAÇÕES E JUROS SOBRE O CAPITAL PRÓPRIO DA TELEFONIA FIXA. DECORRENTE DO DIREITO À SUBSCRIÇÃO DE AÇÕES. PRECEDENTES DO STJ. DESDOBRAMENTO DAS AÇÕES DE TELEFONIA FIXA. OPERAÇÃO APROVADA PELA ASSEMBLEIA GERAL EXTRAORDINÁRIA, NA PROPORÇÃO DE 1 (UMA) PARA 39 (TRINTA E NOVE) AÇÕES. INCLUSÃO NA CONDENAÇÃO. ALEGAÇÃO. VIOLAÇÃO AOS ART. 170, §1º DA LSA, ARTS. 884 E 886 DO CCB. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. INCIDÊNCIA. CONFIRMAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. (..)
+2. Ainda que se trate de matéria de ordem pública, quando a questão jurídica alegada em sede de recurso extraordinário não foi debatida no Tribunal de origem, opera-se a preclusão, sendo, portanto, indispensável o cumprimento do requisito do prequestionamento.
+3. A não configuração de "causa decidida" é óbice constitucional para o exame de normas infraconstitucionais alegadas contrariadas em recurso especial, resultando a incidência, na espécie, da Súmula 282/STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1495173/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 5/11/2019)
+Com referência à alegação do autor de desconhecer o contrato bancário, a Corte estadual, com base nos fatos, provas e conteúdo contratual dos autos, concluiu que a instituição financeira por meio de provas demonstrou a ciência do contrato de cartão consignando pelo correntista e utilização da linha de crédito, consignando que "o autor confessa ter celebrado com o banco contrato de empréstimo consignado, insurgindo-se apenas quanto à modalidade de cartão de crédito. O banco, por sua vez, colacionou cópia do contrato firmado, as faturas mensais do cartão de crédito, com histórico de saque complementar, desconstituindo a veracidade das alegações da petição inicial, segundo a qual o consumidor não conheceria o aludido cartão magnético ".
+Encontra-se, ainda, no acórdão estadual a conclusão de que "considerando que o consumidor tinha conhecimento quanto à modalidade contratada, utilizando o cartão de crédito para efetuar saque complementar, não vislumbro qualquer ilegalidade ou abusividade nos descontos consignados pelo banco".
+Destaco que o acolhimento das razões do recurso demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos que encontram óbice nos verbetes das Súmulas 5 e 7 desta Corte.
+Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. DESCONTO EM FOLHA DE PAGAMENTO. CARTÃO DE CRÉDITO CONSIGNADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU TODAS AS QUESTÕES POSTAS DE MANEIRA INTEGRAL E COM FUNDAMENTAÇÃO SUFICIENTE. COMPROVAÇÃO DA CONTRATAÇÃO PELO BANCO RECORRIDO. RECEBIMENTO DO CRÉDITO EM CONTA BANCÁRIA DE TITULARIDADE DA DEMANDANTE. ILÍCITO NÃO CONFIGURADO. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. RAZÕES QUE SE MANTÉM. DECISÃO MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.807.360/PB, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/8/2021, DJe de 2/9/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. PROVA PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PLEITO INDENIZATÓRIO. DANO MORAL. DESCABIMENTO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+2. Para se concluir que a prova cuja produção fora requerida pela parte é ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7/STJ.
+3. No caso dos autos, o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu como não configurados os danos morais, em virtude de ter sido comprovada a validade da relação jurídica entre as partes, pois os documentos apresentados pelo recorrido fazem prova da contratação do cartão de crédito consignado, bem como da autorização para desconto em folha de pagamento da parte autora.
+4. A modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+5. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da agravante, que alterou a verdade dos fatos com o intuito de enriquecimento ilícito.
+6. A alteração da conclusão do Tribunal de origem sobre a litigância de má-fé da agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.614.772/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/10/2020, DJe de 24/11/2020)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
