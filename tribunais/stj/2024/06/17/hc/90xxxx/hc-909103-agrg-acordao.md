@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PROPORCIONAL. DISCRICIONARIEDADE DO JULGADOR. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento no Tribunal da Cidadania que não há direito subjetivo do réu a critério rígido ou puramente matemático para exasperação da pena-base, devendo o magistrado, após análise percuciente dos elementos do delito e em decisão motivada, determinar a sanção necessária e suficiente para a repressão e prevenção do delito. Precedentes.
+2. Na hipótese, não constato flagrante ilegalidade na exasperação da basilar diante dos maus antecedentes, da função de liderança exercida na associação criminosa e da quantidade de droga apreendida - 55 kg de maconha. Os vetores do art. 59 do CP e do art. 42 da Lei n. 11.343/2006 encontram-se devidamente fundamentados e são revestidos de notável reprovabilidade, sendo que este último ainda prepondera sobre os demais.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADAILTON CACEMIRO contra decisão de fls. 1645-1648 (e-STJ), em que não conheci do habeas corpus.
+Em suas razões recursais, o agravante sustenta que, diante da valoração de três circunstâncias judiciais, o mais proporcional seria a exasperação em 1/4 (um quarto) da pena-base, fazendo um paralelo com as frações de aumento utilizadas nesta Corte de Justiça nos casos de concurso formal de crimes e de continuidade delitiva.
+Pugna, ao final, pela reconsideração da decisão ou pela submissão ao crivo do colegiado para conceder a ordem.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PROPORCIONAL. DISCRICIONARIEDADE DO JULGADOR. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento no Tribunal da Cidadania que não há direito subjetivo do réu a critério rígido ou puramente matemático para exasperação da pena-base, devendo o magistrado, após análise percuciente dos elementos do delito e em decisão motivada, determinar a sanção necessária e suficiente para a repressão e prevenção do delito. Precedentes.
+2. Na hipótese, não constato flagrante ilegalidade na exasperação da basilar diante dos maus antecedentes, da função de liderança exercida na associação criminosa e da quantidade de droga apreendida - 55 kg de maconha. Os vetores do art. 59 do CP e do art. 42 da Lei n. 11.343/2006 encontram-se devidamente fundamentados e são revestidos de notável reprovabilidade, sendo que este último ainda prepondera sobre os demais.
+3. Agravo regimental a que se nega provimento.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada, razão pela qual a mantenho por seus próprios fundamentos .
+Consoante anteriormente explicitado, a individualização da pena foi feita nos seguintes termos pelo Tribunal de origem:
+"Fixo a pena-base em  acima do mínimo legal, considerando as circunstancias judiciais desfavoráveis, quais sejam, maus antecedentes, função de liderança e a quantidade de droga apreendida, resultando em 04 (quatro) anos e 06 (seis) meses de reclusão e o pagamento de 1050 (mil e cinquenta) dias-multa. Na segunda fase, presente a agravante da reincidência, fica mantido o aumento de 1/6, perfazendo 05 (cinco) anos e 03 (três) meses de reclusão e ao pagamento de 1225 (mil, duzentos e vinte e cinco) dias-multa, assim concretizada à mingua de demais causas modificadoras." (e-STJ, fls. 383-384; grifou-se.)
+É firme o entendimento no Tribunal da Cidadania que não há direito subjetivo do réu a critério rígido ou puramente matemático para exasperação da pena-base, devendo o magistrado, após análise percuciente dos elementos do delito e em decisão motivada, determinar a sanção necessária e suficiente para a repressão e prevenção do delito.
+Corroboram: AgRg no HC 888675/MT, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/04/2024, DJe 26/04/2024; AgRg no AREsp 2580493/RS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 07/05/2024, DJe 14/05/2024; AgRg no HC 876372/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/04/2024, DJe 25/04/2024; AgRg no REsp 2052094/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/03/2024, DJe 14/03/2024.
+Na hipótese, não constato flagrante ilegalidade na exasperação da basilar diante dos maus antecedentes, da função de liderança exercida na associação criminosa e da quantidade de droga apreendida - 55 kg de maconha (e-STJ, fl. 111). Os vetores do art. 59 do CP e do art. 42 da Lei 11.343/06 encontram-se devidamente fundamentados e são revestidos de notável reprovabilidade, sendo que este último ainda prepondera sobre os demais.
+No tocante aos critérios de aumento utilizados nos casos de concurso formal de crimes e de continuidade delitiva, elucida-se que são majorações específicas a serem adotadas na terceira fase de dosimetria, que consideram o número de delitos perpetrados ou o longo período de duração e a recorrência das condutas delitivas. Assim, estas frações não guardam qualquer relação com a individualização da pena na primeira fase, em que o julgador possui discricionariedade juridicamente vinculada as circunstâncias judiciais para aplicar a sanção no caso concreto.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
