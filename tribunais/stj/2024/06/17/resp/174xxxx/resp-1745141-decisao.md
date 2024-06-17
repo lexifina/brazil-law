@@ -1,0 +1,12 @@
+DECISÃO
+Em face das razões constantes da petição de fls. 448/449 e-STJ, reconsidero a decisão de fls. 352/353 e-STJ.
+Cuida-se de recurso especial interposto de acórdão que recebeu a seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONARIOS DA CADERNETA DE POUPANÇA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO.
+O prazo prescricional para ajuizamento do cumprimento individual de sentença coletiva proferida na ação civil pública promovida pelo IDEC em face do Banco do Brasil S.A. é de cinco anos, contado do trânsito em julgado da decisão, ocorrido em 27.10.2009, o qual não fora interrompido pela Medida Cautelar de Protesto promovida pelo Ministério Público do Distrito Federal e Territórios, ressalvado o entendimento deste Relator quanto à matéria, pelo que resta prescrito o presente cumprimento de sentença, pois promovido em 11.05.2017.
+APELO DESPROVIDO.
+Cuida-se, na origem, de cumprimento individual de sentença coletiva em ação civil pública relativa a expurgos inflacionários decorrentes de planos econômicos sobre saldos em cadernetas de poupança.
+O recurso especial interposto versa, entre outras questões, sobre a ocorrência da prescrição quinquenal da pretensão de execução da sentença coletiva proferida em ação civil pública, questionada a legitimidade do Ministério Público para o ajuizamento de ação de protesto interruptivo. Quanto ao ponto, anoto que a Segunda Seção do STJ afetou os Recursos Especiais 1.801.615/SP e 1.774.204/RS, relatados pelo Ministro Raul Araújo, para julgamento da controvérsia referente à "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas" (questão cadastrada como Tema 1.033).
+Ao promover essa afetação, a Segunda Seção do STJ determinou a suspensão da tramitação de todos os recursos especiais e agravos em recurso especial, na segunda instância e/ou que tramitem no STJ, que versem sobre a questão delimitada (julgamento 15.10.2019, DJe 30.10.2019).
+Em face do exposto, nos termos do artigo 1.037, inciso II, do CPC de 2015 e do artigo 256-L, inciso I, do Regimento Interno do STJ, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para sobrestamento até o julgamento do mérito dos recursos especiais repetitivos mencionados nesta decisão, procedendo-se, após, conforme os artigos 1.040 e 1.041 do mesmo Código.
+Intimem-se.
+EMENTA
