@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de MIGUEL VARGAS DOS SANTOS, impetrado contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 0000175-25.2021.8.01.0011.
+Consta dos autos que o paciente foi condenado, em primeiro grau, como incurso nos arts. 33, § 4.º, da Lei n. 11.343/2006 às penas de 01 (um) ano, 10 (dez) meses e 15 (quinze) dias de reclusão, substituída por duas penas restritivas de direitos, em regime inicial aberto, além do pagamento de 187 (cento e oitenta e sete) dias-multa.
+Em segunda instância, o Tribunal a quo negou provimento ao recurso de apelação interposto pela Defesa.
+Neste writ, a impetrante alega, em síntese, a ausência de fundamentação idônea para exasperação da pena-base.
+Requer, liminarmente e no mérito, a readequação da dosimetria.
+É o relatório.
+DECIDO.
+De início, destaco que
+ a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe 30/10/2023).
+Passo, portanto, a analisar diretamente o mérito do writ.
+O Juízo sentenciante fixou a pena-base acima do mínimo legal nos seguintes termos (fl. 195; grifamos):
+A culpabilidade do réu, considerada como grau de reprovação da conduta, não apresenta elementos que refogem daquela própria ao delito a que foi condenado, já estando sopesada na fixação dos limites da pena em abstrato. Não apre senta maus antecedentes (ev. 47). A conduta social deve ser considerada neutra. Não há elementos nos autos que permitam valorar a personalidade. Os motivos são os inerentes ao delito. As circunstâncias nada revelam de especial, pois normais à prática do ilícito. As consequências do crime também não extrapolam aquelas que tornam típica a conduta. Quanto ao comportamento da vítima, nada a destacar, visto que se trata da coletividade. A natureza e a quantidade da substância apreendida (139 pinos de cocaína, com p eso total aproximado de 150g), por outro lado, merecem ser valoradas em seu desfavor, haja vista o envolvimento de entorpecente com elevado potencial de gerar dependência química e a quantidade expressiva apreendida na ocasião, o que destoa das situações ordinárias que envolvem os delitos dessa espécie.
+Dito isso, ante a presença de uma circunstância judicial negativa (natureza e quantidade da substância), estabeleço a basilar em 05 anos, 07 meses e 15 dias de reclusão e 562 dias-multa.
+Como se vê, as instâncias ordinárias sopesaram negativamente a quantidade e a natureza da droga apreendida para exasperar a pena-base na primeira fase da dosimetria.
+No entanto, a despeito da natureza da droga, a quantidade de entorpecente apreendido - 150g de cocaína - não pode ser considerada suficientemente relevante a ponto de fixar a pena-base acima do mínimo legal, pois não demonstra, por si só, maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006. A pena-base, desse modo, deve ser reduzida ao mínimo legal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS . TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. QUANTIDADE NÃO EXPRESSIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Em se tratando de crime de tráfico de drogas, como ocorre in casu, o juízo, ao fixar a pena, deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006" (AgRg no HC n. 736.623/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022.)
+2. No caso, a decisão agravada afastou o acréscimo da pena-base pois, não obstante a natureza gravosa da droga apreendida, trata-se, no caso, de quantidade que não é expressiva (220,7g de cocaína e 163,690g de maconha), o que vai ao encontro da orientação desta Corte Superior, no sentido de que a apreensão de quantidade não relevante de droga não constitui, de forma isolada, motivo apto à manutenção da segregação cautelar.
+3. Agravo regimental desprovido. (AgRg no HC n. 834.172/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024 - grifamos)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. OMISSÃO. VÍCIO CONSTATADO. TRÁFICO DE DROGAS DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO INIDÔNEA. EMBARGOS ACOLHIDOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+2. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+3. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal.
+Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+4. Nos autos em exame, apesar de a natureza da substância constituir elemento preponderante a ser considerado na dosimetria da reprimenda, foi apreendida quantidade não elevada de drogas, montante inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+5. Embargos acolhidos para suprir a omissão, e tornar a reprimenda imposta ao réu definitiva em 6 anos, 6 meses e 22 dias de reclusão e 657 dias-multa. (EDcl no HC n. 835.645/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023 - Quantidade de droga apreendida: 241 g de cocaína - grifamos)
+Fixadas essas premissas, passo a redimensionar a pena do paciente.
+Na primeira fase de aplicação da pena, fixo a pena-base no mínimo legal: 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor unitário mínimo.
+Na segunda etapa, não há circunstâncias agravantes e atenuantes a serem consideradas.
+Na terceira fase, fica mantida a incidência da causa especial de diminuição de pena no patamar de 2/3 (dois terços). Assim, na ausência de causas de aumento, fica estabelecida a reprimenda definitiva em 01 (um) ano e 8 (oito) meses de reclusão e 166 (cento e sessenta e seis) dias-multa, no valor unitário legal.
+Mantenho o regime inicial aberto e a substituição da pena privativa de liberdade pelas sanções restritivas de direitos impostas na sentença.
+Ante o exposto, concedo a ordem de habeas corpus para redimensionar as penas do paciente, nos termos desta decisão, mantido, no mais, o édito condenatório.
+Publique-se. Intimem-se.
+EMENTA
