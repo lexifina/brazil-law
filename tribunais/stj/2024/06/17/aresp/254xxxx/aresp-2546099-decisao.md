@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE DÉBITO COM PEDIDO DE PRESCRIÇÃO E DANO MORAL. SERASA LIMPA NOME E PLATAFORMAS DIGITAIS CONGÊNERES. LEGALIDADE DA INCLUSÃO. APLICAÇÃO DAS TESES JURÍDICAS FIRMADAS EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. IMPROCEDÊNCIA. REAFIRMAÇÃO.
+Consoante tese jurídica recentemente firmada pela Quinta Turma Cível em incidente de resolução de demandas repetitivas, é legal a inclusão de dívidas prescritas no serviço denominado Serasa Limpa Nome, entendimento que se estende às plataformas digitais congêneres.
+Diante da ausência de ilícito, deixa de se caracterizar o dano moral.
+APELAÇÃO DESPROVIDA.
+Consta dos autos que, na origem, a parte ora recorrente ajuizou, em face da recorrida, ação declaratória de débito mediante o reconhecimento de prescrição, cumulada com indenização por danos morais. A pretensão foi julgada improcedente.
+A sentença foi mantida pela Corte estadual. Os embargos de declaração opostos ao acórdão foram rejeitados.
+No recurso especial, o recorrente aponta violação aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil; bem como divergência jurisprudencial.
+Alega que o acórdão recorrido é omisso quanto a ponto relevante não sanado no julgamento dos embargos de declaração, relativo à origem e comprovação de sua dívida. Aduz que a decisão que julga ação declaratória de inexistência de débito, sem a análise da prova documental, é nula por ausência de fundamentação.
+Argumenta que a ação declaratória foi julgada improcedente, a despeito da inexistência de qualquer prova da origem da dívida.
+Defende que o reconhecimento da prescrição impede a cobrança judicial e a extrajudicial do débito pelo credor.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem, ensejando a interposição do presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, no que se refere à improcedência da ação declaratória e aos efeitos da prescrição sobre a cobrança do débito, verifica-se que a parte agravante não indicou, nas razões do especial, os dispositivos legais supostamente violados ou objeto de interpretação divergente, o que enseja a aplicação da Súmula 284/STF.
+Para fins de admissão do recurso especial, seja pela alínea "a" ou pela alínea "c" do art. 105, inciso III, da Constituição Federal, não é suficiente que a parte recorrente reproduza argumentos expendidos ao longo do processo, acompanhados de transcrição dos julgados proferidos nos autos, e, após isso, deixe ao alvedrio do julgador a conclusão sobre quais dispositivos de lei federal teriam sido supostamente violados ou objeto de interpretação divergente.
+Por certo, tal ônus incumbe à parte recorrente, considerando-se que o especial é recurso de fundamentação vinculada, cujo enfoque é debater matérias exclusivamente autorizadas nas alíneas do inciso III do art. 105 da Constituição Federal.
+Nessa direção:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E FALTA DE FUNDAMENTOS APÓS REJEIÇÃO DOS DECLARATÓRIOS. NÃO OCORRÊNCIA. TAXAS DE MANUTENÇÃO DE CONDOMÍNIO DE FATO. DEVEDOR NÃO ASSOCIADO. CUMPRIMENTO DE SENTENÇA. RECONHECIMENTO PELO SUPREMO TRIBUNAL FEDERAL DE QUE A REFERIDA COBRANÇA NÃO É CONSTITUCIONAL. SENTENÇA EXEQUENDA TRANSITADA EM JULGADO ANTES DA DECISÃO DA CORTE SUPREMA. ALTERAÇÃO DO TÍTULO JUDICIAL NA VIA ELEITA. IMPOSSIBILIDADE. PRECEDENTES. INCIDÊNCIA DA SÚMULA 83/STJ. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. É assente nesta Corte Superior que "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+6. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.311.205/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE C/C RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+ ..
+2. A falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.248.235/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023).
+No que diz respeito à alegação de ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação da matéria veiculada.
+Não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia. Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento.
+O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. No caso, o Tribunal de origem expôs concretamente os motivos pelos quais não caberia a pretendida indenização por danos morais. Confira-se (fls. 398/399):
+A sentença julgou improcedente a pretensão deduzida por SANDRO PAIM na ação declaratória de débito com pedido de prescrição cumulada com indenização por dano moral proposta a TLANTICO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS, condenando a parte demandante ao pagamento das custas processuais e honorários advocatícios no valor de R$ 2.000,00, que deverá ser corrigido pelo IGPM a contar da decisão, mais juros de 1% ao mês, constados do trânsito em julgado, cuja exigibilidade foi suspensa por ser a parte beneficiária da gratuidade judiciária. (Evento 60 do processo originário).
+ ..  A apelação foi interposta pela parte demandante, que alega a ilicitude da inclusão de dívida já prescrita na plataforma digital denominada Serasa Limpa Nome, visto que a demandada não comprovou documentalmente o contrato de origem do débito e que cobrar uma dívida inexistente configura enriquecimento ilícito; que houve cerceamento de defesa postula,assim, o provimento do recurso para que a pretensão seja julgada procedente, com a exclusão do apontamento e a condenação da parte demandada ao pagamento de indenização por dano moral. (Evento 74 do processo originário).
+ ..  O fato de a pretensão de cobrança estar prescrita não torna a dívida inexistente e a divulgação do respectivo dado para a consulta exclusiva do consumidor, com sigilo e sem divulgação a terceiros, oferecendo-lhe opções de parcelar ou quitar o débito com desconto, não configura abuso ou ilegalidade. Reunindo as considerações, aplicando-se o precedente supracitado, é legal a inclusão de dívidas prescritas no serviço denominado Serasa Limpa Nome, entendimento que se estende às plataformas digitais congêneres.
+Diante da ausência de ilícito, deixa de se caracterizar o dano moral.
+Na decisão dos embargos de declaração opostos, consignou-se que: "Não se cogita da ilegalidade ou ilicitude da inclusão de débitos prescritos no Serasa Limpa Nome, tampouco em indenização a título extrapatrimonial em razão da inserção das dívidas no referido portal/plataforma de negociação. Inviável, ainda, a pretensão de que seja declarada a inexigibilidade dos débitos em razão da prescrição, instituto que obsta somente sua cobrança judicial, não o seu pagamento mediante acordo efetuado na seara administrativa/extrajudicial. Portanto, nada a complementar ou retificar na decisão hostilizada pela embargante" (fl. 453).
+Afasta-se, portanto, o alegado vício na prestação jurisdicional.
+Outrossim, a reapreciação de matéria no âmbito do recurso especial, de modo a infirmar os pressupostos adotados na Corte Local - acerca da ausência do dever de indenizar -, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+A proposito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA Nº 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/15, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. Ademais, a conclusão exarada pela instância ordinária, em relação à comprovação do débito e, ainda, ao fato de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor", demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+3. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.952.666/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREQUESTIONAMENTO EXIGIDO. ART. 1025 DO CPC. PREQUESTIONAMENTO FICTO NÃO EVIDENCIADO.
+INCIDÊNCIA DA SÚMULA 211 DO STJ. Agravo interno a que se nega provimento.
+1. É entendimento pacífico desta Corte de que a ausência de enfrentamento expresso acerca da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Na exegese do art. 1.025 do Código de Processo Civil de 2015, considera-se prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não se evidencia na hipótese. Precedentes.
+3. Ademais, a conclusão exarada pelas instâncias ordinárias em relação à comprovação do débito e, ainda, de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor" demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+4. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.034.651/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 4/5/2022)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do artigo 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
