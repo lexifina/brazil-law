@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROGERIO ROCHA DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. MILITAR REFORMADO POR INCAPACIDADE FÍSICA DEFINITIVA PARA O SERVIÇO CASTRENSE. PROVENTOS PROPORCIONAIS AO TEMPO DE SERVIÇO. PROVENTOS DE APOSENTADORIA NA PATENTE DE PRIMEIRO SARGENTO DA PM/PE. APELAÇÃO PROVIDA. INVERSÃO DO ÔNUS SUCUMBENCIAL. SUSPENSA A EXIGIBILIDADE DEVIDO AOS BENEFÍCIOS DA JUSTIÇA GRATUITA. DECISÃO UNÂNIME.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1º da Lei n. 14.126/2021. Sustenta que o acórdão recorrido viola o mencionado dispositivo ao deixar de considerá-lo pessoa com deficiência, impedindo-o, como consequência, de usufruir das repercussões jurídicas por ocasião de sua reforma militar, trazendo a seguinte argumentação:
+Conforme aventado anteriormente, a controvérsia basilar da presente lide reside na consideração da cegueira monocular como cegueira legal, ou seja, se aquela é considerada deficiência.
+Veja-se que, desde a propositura da presente ação, imperava o entendimento jurisprudencial, inclusive desta casa, de que a cegueira monocular deveria ser considerada deficiência para todos os fins legais.
+Não obstante, no trâmite desta ação houve o advento da Lei 14.126/21 que em seu art. 1º estabeleceu que a visão monocular é classificada como deficiência sensorial, do tipo visual, para todos os efeitos legais.
+Ora, veja-se que o acórdão vergastado afronta completamente o mencionado dispositivo legal, uma vez que deixa de considerar o recorrente como pessoa com deficiência, não lhe concedendo o regime jurídico a estes atribuído por ocasião da reforma.
+Veja-se que, antes mesmo da promulgação da mencionada Lei, sobejavam julgados das casas superiores no sentido de considerar a visão monocular como deficiência física, notadamente a decisão do Mandado de Injunção 4153 - MS, julgado pelo STF, que assim dispõe:
+"os aspectos que promoveram a caracterização da visão monocular como deficiência física para concorrência em concurso público servem, igualmente, para a concessão de aposentadoria especial;"
+No caso dos autos, na via administrativa o recorrente não foi considerado pessoa com deficiência física ou sensorial, mas tão somente incapaz para o serviço da PMPE.
+Desta forma, foi reformado com proventos proporcionais e promovido ao grau hierárquico imediatamente superior ao que ocupava na ativa.
+No entanto é inconteste que o recorrente deveria ter sido considerado incapaz, em razão de possuir visão monocular, nos termos da Lei Federal já mencionada.
+Neste sentido, a aplicação da Lei aventada causa repercussões em aspectos ligados à reforma do recorrente.
+Quanto à integralidade dos proventos é imperioso aventar os termos do art. 83 da Lei Estadual 10.426/90, no qual o recorrente deveria ser enquadrado, tendo em vista sua condição de pessoa com deficiência:
+Art. 83. O servidor militar que, na forma da legislação em vigor, for reformado por ter sido julgado incapaz definitivamente, terá os seus proventos calculados de acordo com os parágrafos deste artigo, quando a incapacidade resultar dos seguintes motivos:
+§ 2º O servidor militar terá os seus proventos referidos ao soldo integral do posto ou graduação que possuía na ativa, além das vantagens a que tiver jus, quando:
+II - verificada a incapacidade definitiva, pelos motivos a que se refere o inciso IV do caput deste artigo, for o servidor militar, com qualquer tempo de serviço, considerado inválido.
+Ademais, cumpre ressaltar que na ativa o recorrente exercia o posto de segundo sargento, tendo sido promovido a primeiro sargento, ocorre que, nos termos da Lei Estadual 6783/74, deveria ser reformado no posto de segundo-tenente, veja-se:
+Art. 97. O policial-militar da ativa, julgado incapaz definitivamente por um dos motivos constantes dos itens I, II, III e IV do artigo 96, será reformado com qualquer tempo de serviço.
+Art. 98. O policial-militar da ativa, julgado incapaz definitivamente por um dos motivos constantes do item I do artigo 96, será reformado com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediato ao que possuir na ativa.
+§ 1º Aplica-se o disposto neste artigo aos casos previstos nos itens II, III e IV do artigo 96, quando verificada a incapacidade definitiva, for o policial-militar considerado inválido, isto é, impossibilitado total e permanentemente para qualquer trabalho.
+§ 2º Considera-se, para efeito deste artigo, grau hierárquico imediato:
+b) o de Segundo-Tenente PM, para Subtenente PM, Primeiro-Sargento PM, Segundo-Sargento PM e Terceiro-Sargento PM; e
+Assim, com o reconhecimento da cegueira monocular como deficiência física, o recorrente deve ser reformado com proventos integrais e no posto de Segundo-Tenente da PMPE, recebendo, ainda, de forma retroativa a diferença entre o que foi recebido e o devido, desde a reforma (fls. 197-199).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+A Lei Federal 14.126/2021, estabeleceu que a visão monocular é classificada como deficiência sensorial, do tipo visual, para todos os efeitos legais. Entretanto o Regulamento desta Lei (Decreto n.º 10.654/2021) em seu artigo segundo menciona que será preciso passar por perícia biopsicossocial para classificar o monocular como pessoa com deficiência:
+"Art. 2º A visão monocular, classificada como deficiência sensorial, do tipo visual, pelo art. 1º da Lei nº 14.126, de 22 de março de 2021, será avaliada na forma prevista nos § 1º e § 2º do art. 2º da Lei nº 13.146, de 6 de julho de 2015, para fins de reconhecimento da condição de pessoa com deficiência".
+Na hipótese dos autos, a Junta Superior de Saúde da PMPE não considerou o embargante com invalidez permanente, incapaz de prover os meios de subsistência na vida civil.
+Dessa forma não há qualquer violação à Lei Federal 14.126/2021 pois não há nos autos qualquer perícia que reconheça o embargante como pessoa com deficiência, de acordo com o art. 2º do Decreto n.º 10.654/2021 (fl. 182).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
