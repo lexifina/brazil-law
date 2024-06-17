@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - TENTATIVAS FRUSTRADAS DE CITAÇÃO DO EXECUTADO - ARRESTO - ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO - PRESCINDIBILIDADE - NULIDADE DA CITAÇÃO EDITALÍCIA - AFASTADA - INAPLICABIDADE DE CITAÇÃO POR HORA CERTA - EXIBIÇÃO DE DOCUMENTOS - DESCABIMENTO - TAXA REFERENCIAL -CONTRATO CELEBRADO APÓS A LEI 8.177/91 - APLICABILIDADE.
+1. Nos termos do art. 830, caput, do CPC, frustrada a tentativa de localização do executado para citação, é possível o arresto de seus bens, inclusive na modalidade online, sendo prescindível que haja o exaurimento das tentativas (AgInt no AREsp n. 1.956.886/RJ).
+2. Não há se falar em nulidade da citação editalícia por ausência de prévia realização do ato por hora certa, vez que não constatada tentativa de ocultação do citando nos endereços em que procurado (art. 830, §1º, do CPC). Verificada a impossibilidade de realização da citação pessoal, inclusive nos endereços obtidos através de consulta aos sistemas conveniados do Poder Judiciário, reputa-se válida a citação ficta.
+3. Não se faz necessária a apresentação da via original dos contratos anteriores à formação do instrumento exequendo, por se tratar de título executivo autônomo e abstrato, que se desvincula do negócio jurídico que ensejou a sua emissão.
+4. Deve ser observada a utilização da TR (Taxa Referencial) quando expressamente pactuada e o contrato houver sido celebrado após a vigência da Lei 8.177/91 (Súmula 295, STJ)"
+Opostos embargos de declaração, foram rejeitados.
+Em seu recurso especial, o agravante alega violação ao art. 830, § 2º, do Código de Processo Civil, sustentando que o arresto de bens somente deve ocorrer após esgotadas todas as diligências para citação do executado, bem como que a citação por edital pressupõe a tentativa de citação por hora certa.
+Defende, ainda, a necessidade de juntada dos contratos originários.
+C  ontrarrazões às fls. 176/179 e-STJ.
+Juízo de admissibilidade proferido às fls. 194/196 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, quanto a alegação de necessidade de juntada dos contratos originários, verifica-se que a parte não fundamentou sua irresignação em nenhum dispositivo de lei, o que caracteriza deficiência na motivação do recurso, o que atrai a incidência da Súmula 284/STF.
+Prosseguindo, é assente nesta Corte Superior a orientação de que: "Frustrada a tentativa de localização do devedor para citação, é possível o arresto de seus bens na modalidade on-line, com base na aplicação analógica do art. 854 do CPC/15, sendo prescindível que haja o exaurimento das tentativas" (AgInt no AREsp n. 1.956.886/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/5/2022).
+O caso dos autos se amolda à referida orientação, vez que foram realizadas diversas diligências para notificação do executado:
+"Da análise dos autos da ação de execução (nº 5022617-30.2018.8.13.0702), verifica-se que, antes de deferido o arresto de bens pelo d. Juízo de origem, foram realizadas diversas tentativas de citação pessoal do executado, tanto no endereço constante do instrumento de confissão de dívida (Rua Viena, 1377, Bairro Tibery -ID"s 49992426 e 74000578) quanto nos endereços obtidos quando da realização de pesquisa junto aos sistemas conveniados (Av. Bélgica, 531; Rua Madri, 556; e Av. Europa, 1227 -ID"s 89510048, 89508136, 89508130, 408418563 e 408418554).
+Ademais, verifica-se que o primeiro apelante, quando do ajuizamento dos presentes embargos à execução, declinou como endereço a Rua Orlandina Ondina, nº 570, Bairro Aclimação, em Uberlândia-MG, o qual não consta em nenhum instrumento firmado com o banco apelado, tampouco nas pesquisas realizadas junto aos sistemas conveniados.
+Destarte, não tendo sido localizado o executado, ora primeiro apelante, nas diversas tentativas de citação pessoal, resta autorizado o arresto executivo, vez que a providência tem como objetivo evitar que a não localização do devedor constitua óbice para o regular prosseguimento da execução"
+Desse modo, verifica-se que a rever o entendimento do acórdão recorrido, relativo à presença de demonstração das diligência necessárias para localização do executado, esbarra no óbice da Súmula 7/STJ.
+Aplica-se, ainda, a Súmula 83/STJ, por estar o acórdão recorrido em consonância com a jurisprudência desta Corte Superior.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
