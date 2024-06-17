@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 613):
+APELAÇÃO CÍVEL. AÇÃO DE IMISSÃO NA POSSE. PRESCRIÇÃO. TEORIA DA SUPRESSIO. EXCEÇÃO DE USUCAPIÃO. BENFEITORIAS. INDENIZAÇÃO. RETENÇÃO.
+De acordo com a reconstituição das circunstâncias, principalmente da cronologia dos fatos, verifica-se que inexiste a prescrição da pretensão de imissão na posse, porque após a arrematação houve propositura da ação anulatória, com deferimento de medida liminar para a permanência da ora demandada na posse do imóvel, daí advindo ser impossível de se atribuir inércia ao banco demandante, tendo a atual ação de imissão na posse sido ajuizada dentro do prazo prescricional decenal.
+Também deixa de se aplicar, nas circunstâncias do caso, a teoria da supressio, porque inexistiu inércia do credor que gerasse perda de um direito ou expectativa de direito da devedora, de tal forma que as partes mantiveram o litígio na ação anulatória e na ação de imissão na posse.
+Pelas mesmas razões, é impossível o reconhecimento da exceção de usucapião, reafirmando-se a sentença diante da ausência de demonstração dos requisitos, principalmente porque a demandada adquiriu o imóvel com garantia hipotecária, a qual foi cedida ao banco demandante, que, portanto, arrematou o imóvel, diante do que a demandada deixou de apresentar posse com característica de dona desde a arrematação do banco demandante.
+No que respeita à impossibilidade de retenção ou indenização das benfeitorias, reafirma-se também a sentença nesse aspecto, porque deixaram de ser realizadas de boa-fé, exatamente porque a demandada tinha ciência da arrematação pelo banco demandante e, acerca das benfeitorias anteriores à arrematação, foram consideradas no preço da venda.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados (fls. 637/640).
+Nas razões do especial, aponta a recorrente violação dos artigos 189, 202, 205, 1.220 e 1.238 do Código Civil, bem como do artigo 1.022 do Código de Processo Civil.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Defende, ainda, que teria sido ultrapassado o prazo decenal de prescrição para a recorrida imitir-se na posse.
+Pondera que, em todo caso, deveria ser acolhida a exceção de usucapião, tendo em vista o exercício da posse com boa-fé pelo prazo de dez anos, ou, subsidiariamente, para reconhecer ao menos o direito de retenção pelas benfeitorias necessárias.
+O recurso especial não foi admitido na origem (fls. 678/683); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 1.022 do Código de Processo Civil, observo que o Tribunal de origem afastou, expressamente, a preliminar de prescrição, conforme se verifica da seguinte passagem (fl. 611):
+De acordo com a reconstituição das datas, verifica-se que inexiste a prescrição da pretensão de imissão na posse, porque após a arrematação, em 1997, houve propositura da ação anulatória, em 2001, com deferimento de medida liminar para a permanência da ora demandada na posse do imóvel, daí advindo que não se pode atribuir inércia ao banco demandante, tendo a sentença de improcedência da ação anulatória transitado em julgado em 2008 e a atual ação de imissão na pose foi ajuizada em 2011.
+Como se vê, a tese de prescrição foi refutada com base em fundamento contextual, em que se concluiu pela falta de inércia da parte recorrida, que teria requerido a imissão na posse dentro do prazo para o ajuizamento da ação; não havendo cogitar-se, portanto, de omissão ou falta de justificativa adequada a respeito.
+No que se refere à alegada violação dos artigos 189, 202 e 205 do Código Civil, observo que a recorrente pretende que seja reconhecida a aplicação do prazo decenal de prescrição. Em abono à tese defendida, ressalta que a liminar que garantia a manutenção da posse em favor da recorrente teria sido revogada em 21.3.2.002, ao passo que a ação de imissão na posse teria sido ajuizada apenas em 2.011 (fl. 659).
+Desse modo, ainda que acolhida a tese defendida pela recorrente, reconhecendo a inércia da parte recorrida dentro dos marcos defendidos, não haveria como concluir pela fluência do prazo decenal, afastando, por conseguinte, a aplicação do prazo decenal de prescrição previsto no artigo 205 do Código Civil.
+Por conta disso, como a argumentação desenvolvida pela recorrente está dissociada do que efetivamente decidido no acórdão recorrido, o recurso especial não deve ser conhecido quanto ao ponto, em razão da incidência das Súmulas 283 e 284/STF.
+No que se refere à alegada violação dos artigos 1.220 e 1.238 do Código Civil, observo que o Tribunal de origem pressupõe a inexistência de posse com ânimo definitivo e mesmo a boa-fé da recorrente, para afastar, respectivamente, a exceção de usucapião e o pleito de retenção das benfeitorias necessárias (fl. 612).
+Dessa forma, para acolher a pretensão da recorrente, seria imprescindível o reexame do contexto fático-probatório; providência, porém, vedada em recurso especial (Súmula 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
