@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. ALEGAÇÃO DE OFENSA AO ART. 489 DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO CLARA E OBJETIVA. SÚMULA 284/STF. ALEGAÇÃO DE DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. VÍCIOS CONSTRUTIVOS NO IMÓVEL. RESPONSABILIDADE DA PARTE AGRAVANTE AFERIDO NA ORIGEM. REEXAME. SÚMULA 7/STJ.
+1. "Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial" (AgInt no AREsp n. 2.176.348/CE, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 24/4/2023, DJe de 26/4/2023).
+2. Não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia. Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. No caso, o pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões do acórdão recorrido.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto em face de decisão (e-STJ fls. 997/1.001) em que neguei provimento ao agravo em recurso especial de DAISEN EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA.
+Em suas razões (e-STJ fls. 1.012/1.019), alega a parte agravante que, nas razões do recurso especial, foram discriminados todos os motivos pelos quais entende que ocorreu violação ao ao art. 489 do Código de Processo Civil.
+Afirma que não incide o óbice da Súmula 7/STJ. Defende que "não é necessário examinar os autos - o que seria vedado pela Súmula 7/STJ - para se constatar que as referidas premissas utilizadas no julgamento romperam o pretendido nexo de causalidade entre qualquer conduta ou omissão das Agravantes que poderia justificar a sua condenação".
+Repisa as razões do recurso especial.
+Certificado o decurso do prazo para impugnação (e-STJ fl. 1.093).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. ALEGAÇÃO DE OFENSA AO ART. 489 DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO CLARA E OBJETIVA. SÚMULA 284/STF. ALEGAÇÃO DE DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. VÍCIOS CONSTRUTIVOS NO IMÓVEL. RESPONSABILIDADE DA PARTE AGRAVANTE AFERIDO NA ORIGEM. REEXAME. SÚMULA 7/STJ.
+1. "Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial" (AgInt no AREsp n. 2.176.348/CE, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 24/4/2023, DJe de 26/4/2023).
+2. Não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia. Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. No caso, o pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões do acórdão recorrido.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+O presente agravo interno não comporta provimento. A decisão agravada deve ser mantida por seus próprios fundamentos.
+Consta dos autos que, na origem, a parte agravada ajuizou ação de obrigação de fazer c/c indenização por danos morais em face do descumprimento contratual na entrega de imóvel.
+A pretensão autoral foi julgada parcialmente procedente, para condenar a parte agravabte ao pagamento dos valores indicados em laudo pericial. A decisão foi mantida pelo Tribunal de origem.
+Nas razões do especial, a parte agravante aponta violação ao art. 489 do omissão no acórdão recorrido, por considerar que não houve a devida apreciação da prova pericial. Alega que os danos constatados em laudo pericial não decorreram de qualquer ação ou omissão de sua parte. Considera estarem comprovados a expiração do prazo de garantia e a falta de manutenção do imóvel pela parte agravada, resultando nas anomalias verificadas no laudo.
+Conforme anotado na decisão agravada, a parte agravante não indica de forma clara e objetiva a suposta violação ao conteúdo normativo do art. 489 do CPC, circunstância a atrair a incidência da Súmula 284/STF.
+Confira-se, a propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 141, 322, § 1º, E 491 DO CPC. ART. 394 DO CC. MERA INDICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. ALEGAÇÃO DE OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO. SÚMULA N. 518 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+ ..  4. Agravo interno desprovido.(AgInt no AREsp n. 2.176.348/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Ademais, verifico que não existe deficiência de prestação jurisdicional na apreciação das questões suscitadas. Não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia. Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento.
+O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Conforme anotado na decisão agravada, a Corte local, em incursão aos elementos probatórios dos autos, elencou expressamente os motivos pelos quais concluiu pela responsabilização da agravante, ao constatar a existência de vícios construtivos de origem endógena.
+Consignou-se ainda no julgado que tais vícios não decorreram da falta de manutenção pela parte agravada. Foi destacado, ademais, que na execução da obra o material utilizado era diverso daquele estipulado na planta e no memorial descritivo aprovado pela Prefeitura.
+Confira-se a fundamentação exarada no acórdão impugnado (fl. 867):
+O laudo pericial realizado em juízo e juntado às fls.606/634, com esclarecimentos de fls. 702/705, concluiu pela existência de vícios construtivos de pequena monta, com a necessidade de substituição do revestimento de piso e paredes do banheiro social, bem como que a planta e o memorial descritivo aprovados pela Prefeitura Municipal de São Carlos previam que as casas teriam forro em laje sobre os dormitórios e circulação íntima no pavimento superior, porém foi executado forro de gesso. Em que pese o fato de o forro ser de gesso não ter desvalorizado o imóvel, fato é que a expectativa do adquirente, em relação a alteração do previsto, foi frustrada, bem como, a sensação de que foi cobrado por um acabamento e recebeu outro.
+Como bem esclarecido pelo Perito, há equívoco no entendimento do Assistente Técnico da ré, e que, se do memorial descritivo possa restar dúvida, ela resta dirimida pelo projeto que deixa patente apenas sobre o banheiro a existência de forro falso de gesso, sendo o restante em laje.
+Insta ainda consignar que, às fls. 704, o Perito afastou a possibilidade de que os vícios seriam originários da falta de manutenção, eis que possuem origem endógena, tratando-se de vícios construtivo, portanto, patente a responsabilidade da parte ré na forma como determinou a sentença.
+Nesse contexto, rever a conclusão do acórdão recorrido - para afastar a responsabilidade da agravante - certamente demandaria o reexame dos elementos probatórios dos autos, encontrando, portanto, óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
