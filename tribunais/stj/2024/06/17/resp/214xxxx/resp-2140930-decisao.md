@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por AMANDA JULIA DE ARRUDA MAGALHÃES contra acórdão prolatado, por unanimidade, pela 5ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de Apelação, assim ementado (fl. 598e):
+CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO. AÇÃO CIVIL PÚBLICA. ENSINO SUPERIOR. INGRESSO EM CURSO DE GRADUAÇÃO DE MEDICINA DE UNIVERSIDADE FEDERAL, EM VAGA RESERVADA À COTA RACIAL. AUTODECLARAÇÃO COMO NEGRA (PARDA). CRITÉRIOS SUBSIDIÁRIOS À AUTOIDENTIFICAÇÃO. LEGITIMIDADE. FRAUDE. INEXISTÊNCIA DE CARACTERÍSTICAS FENOTÍPICAS. PESSOA QUE CONFESSADAMENTE NUNCA SOFREU QUALQUER TIPO DE DISCRIMINAÇÃO RACIAL. PRETENSÃO APENAS INDENIZATÓRIA (PRESERVAÇÃO DO VÍNCULO DA ALUNA COM A UNIVERSIDADE). DANO MORAL COLETIVO MATERIALIZADO. FIXAÇÃO DE REPARATÓRIO.
+Opostos embargos de declaração, foram rejeitados (fls. 659/667e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao arts. 460 e 492 do Código de Processo Civil, bem como aos arts. 1º, IV, da Lei n. 7.347/1985, e 927 do Código Civil, alegando-se, em síntese, violação ao princípio da congruência (ultra petita), e o descabimento da condenação ao pagamento de indenização por danos morais coletivos, porquanto " ..  a responsabilidade civil, por regra, exige a presença da culpa (lato senso) para sua configuração, o que não aconteceu in casu" (fl. 697e).
+Com contrarrazões (fls. 708/718e), o recurso foi admitido (fl. 720e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 731/740e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do estatuto processual, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+De pronto, verifico que as insurgências recursais, da forma como trazidas pela parte recorrente, carecem de prequestionamento, porquanto não foram analisadas pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, não foi analisada, ainda que implicitamente, a aplicação dos suscitados arts. 460 e 492 do Código de Processo Civil, 1º, IV, da Lei n. 7.347/1985, e 927 do Código Civil.
+Desse modo, não tendo sido apreciada a questão pelo tribunal a quo, sob a ótica das normas apontadas como violadas pela Recorrente, a despeito da oposição de Embargos de Declaração, aplicável a Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Espelhando tal compreensão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+ ..
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+ ..
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Cabe ressaltar, ainda, que a Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
