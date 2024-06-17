@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de GABRIEL DE OLIVEIRA ANTONIO, impetrado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2135589- 90.2024.8.26.0000).
+Consta que o paciente foi preso em flagrante no dia 28/04/2024, e após preventivamente, pela suposta prática do crime previsto no art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, em virtude da apreensão de 14,88g de maconha, 4g de cocaína, 2,77g de crack e 1,61g de haxixe (conforme a denúncia).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a parte impetrante sustenta, em síntese, a ausência de fundamentação idônea e dos requisitos necessários para a prisão preventiva do acusado.
+Aduz que a custódia viola o princípio da proporcionalidade.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas.
+É o relatório.
+DECIDO.
+De início, destaco que
+ a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Passo, portanto, a analisar diretamente o mérito do writ.
+No caso, o Juízo de primeiro grau, ao indeferir o pedido de revogação da custódia do paciente, ressaltou o seguinte (fl. 107; grifamos):
+A prisão preventiva do réu foi decretada recentemente às fls. 60/62. Na decisão, já houve exame de tudo quanto foi trazido como argumento para eventual liberdade provisória e não houve alteração de fato ou de direito apta a ensejar a modificação da conversão da prisão em flagrante em prisão preventiva. Segundo consta, no dia 28 de abril de 2024, por volta das 00h30min, na Rua Bento Ramalho Machado, 290, bloco 4a, Jardim Residencial Paraíso, nesta cidade e comarca, o réu foi surpreendido por policiais militares que faziam patrulhamento pelo local, na posse de uma pochete, contendo em seu interior considerável quantidade de drogas, consistente em 15 microtubos contendo cocaína; 07 potes contendo pedras de "crack"; 03 micro tubos contendo haxixe e 12 porções de maconha; além de R$ 760,70 em dinheiro em notas variadas e um celular da marca Apple. O crime é punido com pena superior a quatro anos. Além disso, a manutenção da prisão se mostra necessária, tendo em vista a considerável quantidade, diversidade e natureza dos entorpecentes apreendidos (cocaína, crack e haxixe), além da expressiva quantia em dinheiro, produto do tráfico ilícito de entorpecentes. Assim, embora primário, resta demonstrado que não se trata de traficante eventual. Por fim, ressalte-se que, na própria decisão discutida, foi afastada a possibilidade de substituição da prisão por uma das medidas cautelares trazidas pela Lei nº12.403/11. Desta forma, INDEFIRO o pedido formulado por Gabriel de Oliveira Antonio.
+O Tribunal de origem, por sua vez, manteve a custódia cautelar conforme a fundamentação a seguir (fls. 115-118) :
+Ao que consta, detido em flagrante pela prática, em tese, de tráfico de drogas, o paciente teve a prisão convertida em preventiva por decisão datada de 28.04 p.p. (fls.68/70). Na sequência, aos 09.05 p.p., em análise do pleito defensivo de revogação, a autoridade coatora entendeu persistentes os motivos para sua manutenção (fls.99).
+A despeito do alegado, não se vislumbra ilegalidade a ser sanada.
+De um lado, configurado o fumus comissi delicti pelos elementos indiciários colhidos, notadamente as circunstâncias da prisão em flagrante do paciente na posse das drogas e declarações dos policiais militares em sede policial.
+De outro lado, devem ser consideradas as especificidades da conduta, das quais se extrai a abordagem do paciente pelos policiais militares em local conhecido pela comercialização de drogas, com apreensão de drogas naturezas diversas (cocaína e crack, de acentuada nocividade, além de "maconha" e "haxixe"), bem como de expressivo valor em espécie (R$ 760,70). Mencionadas circunstâncias evidenciam maior grau de reprovabilidade da conduta em tese atribuída ao paciente e são indicativos de que não se trata de prática eventual ou isolada, demonstrando a pertinência da medida para o resguardo da ordem pública.
+Sobre o assunto (grifos nossos):
+ ..
+Acresça-se a previsão contida no art. 313, I, do Código de Processo Penal, que autoriza o decreto de prisão preventiva nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos, hipótese dos autos, sendo certo que a segregação provisória, quando evidenciada sua necessidade, como na espécie, não viola o princípio da presunção de inocência.
+Em que pese o sustentado na inicial, não há lugar nesta via para discussão sobre quantidade de pena imposta em eventual condenação, ou mesmo regime de cumprimento de pena, matérias que dependem de análise de mérito da demanda, a ser feita em momento oportuno, finda a instrução processual.
+ ..
+No tocante aos predicados pessoais favoráveis alegados no caso, primariedade -, uma vez presente a necessidade da custódia cautelar, estes não são, por si só, aptos a afastar a imposição da medida (RHC 122197/MG, 5ª Turma, Min. Reynaldo Soares da Fonseca, j. 11/2/2020).
+Nesse contexto, suficientemente justificada a imposição da medida pelas circunstâncias aferidas, não há constrangimento ilegal a ser sanado nesta via.
+Verifico que a medida cautelar extrema foi, em princípio, suficientemente fundamentada pelas instâncias ordinárias em virtude da especial gravidade dos fatos. No entanto, esta Corte Superior de Justiça possui o entendimento de que determinadas quantidades de entorpecentes, ainda que não possam ser consideradas irrelevantes, não permitem concluir, por si sós, pela necessidade da segregação provisória.
+Assim, considerando, na espécie, a apreensão de 14,88g de maconha, 4g de cocaína, 2,77g de crack e 1,61g de haxixe, bem como a primariedade do acusado, mostra-se possível, segundo a orientação da Sexta Turma deste Tribunal, a substituição da custódia por medidas cautelares diversas.
+Exemplificativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. CAUTELAR EXTREMA DESPROPORCIONAL.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, embora não se possa falar que o decreto prisional é desprovido de motivação, pois invoca a quantidade e a forma de acondicionamento das drogas, a primariedade do acusado e a quantidade não exacerbada de entorpecentes apreendidos não se mostra excessiva, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+3 . Agravo regimental desprovido.
+(AgRg no HC n. 879.961/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024 - grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. POSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. AGRAVO IMPROVIDO.
+1. Tratando-se de réu tecnicamente primário, não sendo relevante a quantidade de entorpecente apreendido, em se considerando que o crime de tráfico de drogas não envolve violência ou grave ameaça à pessoa, tem-se por suficiente a substituição da custódia por medidas cautelares diversas.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC n. 821.552/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024 - grifamos).
+Ante o exposto, concedo a ordem de habeas corpus para substituir a prisão preventiva do paciente, se por algum outro motivo não estiver preso, pelas medidas cautelares descritas nos incisos I (comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades) e IV (proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução) do art. 319 do Código de Processo Penal.
+Ficará a cargo do Juízo de primeira instância especificar as condições e fiscalizar o cumprimento das medidas impostas, o qual poderá também acrescer outras cautelares necessárias, desde que devidamente justificadas.
+Alerte-se ao paciente que a prisão preventiva poderá novamente ser decretada em caso de descumprimento das referidas medidas (art. 282, § 4.º, c/c o art. 316 do Código de Processo Penal) ou de superveniência de fatos novos.
+Comunique-se ao Tribunal de origem e ao Juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
