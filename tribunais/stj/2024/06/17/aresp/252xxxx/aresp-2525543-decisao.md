@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 406):
+EXTINÇÃO DE CONDOMÍNIO COM ARBITRAMENTODE ALUGUÉIS Sentença de parcial procedência. Irresignação da parte requerida. APELAÇÃO. Oposição à extinção do condomínio. Existência de bem exclusivo que é considerado bem de família. Bem de família, aliás, que sequer pode ser oposto entre condôminos. Benfeitorias e despesas que não foram comprovadas nos autos. Ausência de pedido reconvencional que prejudica o acolhimento da pretensão. Liquidação de sentença em que se avaliará o real valor do imóvel para fins de adjudicação e alienação. Sentença mantida por seus próprios fundamentos RECURSO DESPROVIDO.
+Nas razões do especial, apontam os recorrentes violação dos artigos 1.228 e 1.412 do Código Civil e artigo 1º da Lei nº 8.009/90; argumentando, em síntese, que deveria ser reconhecida a impenhorabilidade do bem de família, uma vez que serviria para moradia para filha dos recorrentes.
+Defendem, ainda, que caso reconhecida a viabilidade da penhora, a avaliação deveria contemplar o real valor do imóvel, além de serem deduzidos as benfeitorias e impostos incidentes sobre o bem, uma vez que as obrigações respectivas teriam sido adimplidas pelos recorrentes, sob pena de enriquecimento sem causa do favorecido.
+O recurso especial não foi admitido na origem (fls. 441/443); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, no que se refere à alegada violação dos artigos 1.228 e 1.412 do Código Civil e artigo 1º da Lei nº 8.009/90, observo que o Tribunal de origem concluiu que a fração do bem não poderia ser caracterizada como bem de família com base em dois fundamentos autônomos:
+(I) a limitação da proteção aludida contra os credores do proprietário, e não entre coproprietários, como no caso; (II) a existência de outro imóvel pertencente aos recorrentes, em Indaiatuba/SP, conforme declaração de imposto de renda, viabilizando a penhora pretendida no caso, tratando-se de imóvel localizado em Campinas/SP. (fl. 411).
+Os recorrentes, porém, não infirmaram o fundamento (II), em todo suficiente para manter o provimento adotado no acórdão recorrido, atraindo a incidência das Súmulas 283 e 284/STF.
+No que se refere aos pleitos subsidiários, referentes às compensações pelas benfeitorias realizadas e impostos incidentes sobre o bem, ambos, supostamente custeados pelos recorrentes, a Corte Local afastou a pretensão referida, por considerar que inexistiria prova do alegado, razão por que a pretensão correspondente deveria ser objeto de ação autônoma (fl. 413).
+Dessa maneira, para acolher a pretensão da recorrente, reconhecendo a existência de crédito a ser abatido, ainda que em valor a ser arbitrado em liquidação, seria imprescindível o reexame do contexto fático-probatório; providência, porém, vedada em recurso especial (Súmula 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
