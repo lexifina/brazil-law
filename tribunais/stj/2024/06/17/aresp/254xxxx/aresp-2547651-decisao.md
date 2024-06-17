@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo espólio de NÍLSON MARTINS DOMENES contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 1.198):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - PENHORA DE ALUGUÉIS - DESCABIMENTO. Imóvel que não integra a esfera patrimonial do executado. Doação realizada pela genitora do executado a terceiros. Constrição de aluguéis. Impossibilidade. Questão envolvendo a validade da doação que, inclusive, é objeto de ação pauliana ajuizada pelo recorrente, a ser dirimida na via apropriada. RECURSO DESPROVIDO.
+Nas razões do especial, aponta o recorrente violação dos artigos 1º, 7º, 937, VIII e § 4º, do Código de Processo Civil, argumentando, em síntese, que teria havido cerceamento de defesa, ao não se permitir a sustentação oral em agravo de instrumento contra decisão interlocutória que verse sobre tutela provisória de urgência.
+Ressalta, ainda, que deveria ser viabilizada a sustentação oral por meio de videoconferência, uma vez que o representante processual da recorrente teria domicílio profissional em cidade diversa do Tribunal, com requerimento em prazo próprio.
+Contra-arrazoado (fls. 1.219/1.223), o recurso especial não foi admitido na origem (fls. 1.224/1.225); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem pressupõe, com fundamentação lacônica, que o agravo de instrumento comportaria julgamento virtual, por não se enquadrar na hipótese prevista no artigo 937, VIII, do Código de Processo Civil.
+A propósito, extraio do acórdão recorrido (fl. 1.199):
+Ressalte-se, inicialmente, a ausência de impedimento ao julgamento virtual, uma vez que na matéria posta em discussão descabe sustentação oral, conforme o art. 937, VIII do CPC.
+Ao analisar a decisão agravada, verifica-se que o juízo de origem não analisou os pressupostos para concessão da cautelar, limitando-se a considerar que a controvérsia referente à fraude à execução, em que se baseava a requerente para obter a tutela provisória, já teria sido analisada, obstando o reexame, diante da preclusão.
+A propósito, extraio da decisão agravada (fl. 902):
+4)- No tocante à fraude à execução, já houve decisão nestes autos, assim como no que se refere à gratuidade de Justiça concedida ao autor. Dessa forma, a reiteração dos pedidos, sem qualquer fato novo a ensejar a modificação da decisão, poderá ensejar a condenação das partes por litigância de má fé.
+Como se vê, a decisão recorrida no agravo de instrumento não versa propriamente sobre tutela provisória, uma vez que, apesar de ter sido requerido provimento cautelar, não houve análise dos pressupostos para concessão da medida, senão a conclusão de que a análise da controvérsia estaria prejudicada quanto ao ponto, diante da preclusão.
+Dessa forma, a orientação adotada pela Corte local de vedar a sustentação oral não destoa da interpretação estrita que deve ser dada à exceção prevista no artigo 937, VIII, do Código de Processo Civil, limitando a sustentação oral em agravo de instrumento interposto contra decisões que efetivamente analisem o mérito para concessão de tutela provisória.
+Ademais, a adoção de entendimento contrário, admitindo-se a interposição de agravo de instrumento apenas em razão do pedido de tutela provisória, independentemente da análise da controvérsia na decisão agravada, como no caso, implicaria resultado absurdo, com a adoção da norma de julgamento com base apenas na vontade da parte beneficiada, o que não se admite.
+Com efeito, segundo a jurisprudência desta Corte: " ..  tratando-se de agravo de instrumento interposto contra decisão interlocutória que versa sobre tutela provisória de urgência ou de evidência  ..  incumbe ao Presidente da sessão de julgamento, antes da prolação dos votos, conceder a palavra aos advogados que tenham interesse em sustentar oralmente" (REsp n. 1.903.730/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários recursais, pois inexistente condenação a respeito na origem, vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do artigo 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
