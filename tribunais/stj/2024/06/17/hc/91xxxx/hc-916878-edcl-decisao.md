@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WILTON DOUGLAS DA SILVA SOBRINHO contra decisão monocrática de minha lavra que não conheceu do habeas corpus impetrado em seu favor, em que se pleiteou o cumprimento simultâneo entre a pena restritiva de direitos vinculada à ação penal n. 0706930-23.2020.8.07.0001 e a superveniente PPL (e-STJ, fls. 630/635).
+Nestes aclaratórios a Defensoria Pública do Distrito Federal aponta erro evidente na decisão embargada, explicando que após distribuída a execução ao juízo da VEPEMA, em decisão de 17/03/2022, a pena de prestação de serviço à comunidade vinculada a ação penal n. 0706930-23.2020.8.07.0001 foi convertida em prestação pecuniária, como medida necessária à prevenção ao contágio pelo novo Coronavírus-COVID-19
+Sustenta, então, que quando sobreveio condenação em PPL em regime fechado, estabelecida no bojo da ação penal nº 0706426-06.2023.8.07.0003, o executado cumpria duas penas de prestações pecuniárias, compatíveis com a pena privativa de liberdade superveniente, independente do regime prisional.
+Em vista do exposto, requer o recebimento e acolhimento dos presentes embargos, a fim de que, sanando o erro da decisão embargada, seja verificada a possibilidade de cumprimento simultâneo entre as prestações pecuniárias vinculadas à ação penal nº 0706930-23.2020.8.07.0001 e a PPL superveniente vinculada ao processo nº 0706426-06.2023.8.07.0003.
+É o relatório. Decido.
+Os presentes Embargos são tempestivos.
+Dispõe o Código de Processo Penal:
+Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado.
+A contradição que justifica o manejo dos embargos de declaração é apenas aquela existente dentro do próprio acórdão embargado, seja entre o raciocínio lógico desenvolvido ao longo da fundamentação e o resultado do julgamento, seja entre proposições inconciliáveis entre si dentro da própria fundamentação que dificultem a compreensão da conclusão proposta.
+Nesse sentido, confiram-se, dentre outros, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÃO. REEXAME DE PROVAS. INEXISTÊNCIA. REQUALIFICAÇÃO JURÍDICA DOS FATOS. SUCUMBÊNCIA. DISTRIBUIÇÃO. USO DO IMÓVEL ANTES DA RESCISÃO CONTRATUAL. VALOR LOCATÍCIO.
+1. A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado embargado. Precedentes.
+2. A atribuição de efeitos jurídicos distintos aos fatos assentados pelas instâncias ordinárias não é incompatível com o recurso especial.
+3. (..).
+4. Embargos de declaração da Ford Motor rejeitados. Embargos de declaração do Banco Ford acolhidos em parte.
+(EDcl nos EDcl no AgRg nos EDcl no REsp 790.903/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/10/2014, DJe 29/10/2014) - negritei.
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. INVASÃO DO IMÓVEL. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE SE REDISCUTIR A LIDE. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. Os Embargos de Declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir obscuridade e contradição, nos termos do art. 535 do CPC, não se prestando para rediscutir a lide.
+II. O acórdão embargado apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pelo embargante.
+III. No caso, o embargante, ao alegar que o acórdão embargado seria contraditório e obscuro, por existirem precedentes do Supremo Tribunal Federal e deste Superior Tribunal em sentido favorável à sua tese, busca, na verdade, rediscutir a lide, o que excede os limites dos Embargos de Declaração
+IV. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que "a contradição que autoriza o acolhimento dos embargos de declaração é aquela interna ao julgado, não servindo para esse propósito eventual divergência entre o que foi decidido no acórdão embargado e em outros" (STJ, EDcl na AR 4.884/SC, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, DJe de 14/03/2014).
+V. Embargos de Declaração rejeitados, à míngua de vícios.
+(EDcl no AgRg nos EDcl no Ag 1431718/AL, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 04/09/2014, DJe 11/09/2014) - negritei.
+PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. DESCABIMENTO. OMISSÃO. ESCLARECIMENTO.
+1. Apenas autoriza a oposição de embargos de declaração a contradição que é interna ao julgado, e não a alegada contradição entre a fundamentação da decisão impugnada e outro parâmetro externo. Precedentes.
+2. (..).
+3. Embargos de declaração acolhidos em parte, apenas para esclarecimentos.
+(EDcl no AgRg no AREsp 311.131/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/09/2014, DJe 23/09/2014) - negritei.
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE CONTRADIÇÕES.
+I - A contradição remediável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+II - (..).
+III - (..).
+IV - No caso, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo quê ausente pressuposto a ensejar a oposição de embargos de declaração.
+V - Embargos de declaração rejeitados.
+(EDcl no HC 290.120/SC, Rel. Ministra REGINA HELENA COSTA, QUINTA TURMA, julgado em 26/08/2014, DJe 29/08/2014) - negritei.
+EMBARGOS DE DECLARAÇÃO E AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DOIS RECURSOS OPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. CONTRADIÇÃO. NÃO OCORRÊNCIA.
+1. Revela-se defeso a interposição de dois recursos pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal.
+2. "A contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Em outras palavras, o parâmetro da contrariedade não pode ser externo, como outro acórdão, ato normativa ou prova." (AgRg no REsp 1189309/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 05/12/2013).
+3. Agravo regimental de fls. e-STJ 482-485 não conhecidos, com aplicação de multa, e embargos de declaração de fls. e-STJ 463-472 rejeitados.
+(AgRg no AREsp 393.988/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014) - negritei.
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. REJEIÇÃO.
+1. (..).
+2. A contradição que autoriza os embargos de declaração é aquela interna ao julgado, caracterizada por proposições inconciliáveis entre si, que dificultam ou impedem a sua compreensão. Nesse sentido, convém destacar o seguinte trecho da obra doutrinária de Luís Guilherme Aidar Bondioli: "A contradição que dá ensejo aos embargos declaratórios é aquela que se manifesta internamente, no próprio pronunciamento judicial. As asserções contraditórias devem fazer-se presentes no mesmo ato. Não interessa, para fins de embargos de declaração, contradição entre a decisão e outros elementos constantes do processo (p. ex., provas carreadas aos autos), entre a decisão e outro ato decisório constante do mesmo processo, entre a decisão e julgamentos realizados noutros processos, entre a decisão e a lei." ("Embargos de Declaração", Coleção Theotônio Negrão / coordenação José Roberto Ferreira Gouvêa, São Paulo: Saraiva, 2005, p. 108).
+3. (..).
+4. (..).
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 639.348/DF, Rel. Ministra DENISE ARRUDA, Primeira Turma do STJ, julgado em 13.02.2007, DJ de 12.03.2007, p. 199) - negritei.
+No caso concreto, a defesa aponta justamente erro da decisão em relação à prova dos autos.
+Ora, a interpretação equivocada dada pelo julgador à prova dos autos constitui erro de julgamento e como tal não pode ser sanado na via dos embargos de declaração, que somente se prestam a corrigir error in procedendo.
+Desse modo, em princípio, incabível os presentes embargos de declaração, de modo que o recurso correto para corrigir o erro apontado seria o agravo regimental.
+No entanto, verificando que a defesa assiste razão quanto às suas alegações de mérito, por questão de economia processual, passo a receber e julgar os presentes embargos de declaração.
+No caso, extrai-se da decisão embargada os seguintes trechos, no que ora mais importa (e-STJ fls. 634/635):
+No caso concreto, de acordo com o relatório da situação processual executória, o executado foi condenado, primeiramente, no processo n 0706930-23.2020.8.07.0001, à pena de um ano e 11 dias, no regime aberto com trânsito em julgado em 27/09/2021; depois foi condenado, no processo n. 0738455-57.2019.8.07.0001, à pena de 1 ano e 11 dias, no regime aberto, com trânsito em julgado em 11/04/2023; foi condenado, no processo n. 0706426-06.2023.8.07.0003, por roubo circunstanciado, em regime fechado, com informação de trânsito em julgado apenas para o MP, em 19/6/2023 (e-STJ, fls. 623/624).
+Com relação ao primeiro processo, consta no site do Tribunal, primeira instância, n. 0706930-23.2020.8.07.0001, que a pena foi substituída por 2 restritivas de direitos, sendo uma delas consistente na prestação de serviços à comunidade; a outra deveria ser definida pelo Juiz executório:
+ ..
+Não consta no site o referido processo na segunda instância.
+Com relação ao segundo processo, n. 0738455-57.2019.8.07.0001, consta no site do Tribunal que a pena foi substituída, na segunda instância, por 2 restritivas de direitos, a serem definidas pelo Juiz executório:  ..
+Ressalta nítido, então, que a pena a ser cumprida no regime fechado foi superveniente aos processos cujas penas foram substituídas por restritivas de direito.
+Quer a defesa que a pena vinculada à ação penal n. 0706930-23.2020.8.07.0001 seja cumprida simultaneamente com o processo n. 0706426-06.2023.8.07.0003.
+Não é possível o cumprimento simultâneo da pena no regime fechado com a pena relativa ao processo n. 0706930-23.2020.8.07.0001, porquanto, conforme visto, uma de suas penas consiste na prestação de serviços à comunidade, sendo ela incompatível com o regime fechado imposto no processo n. 0706426-06.2023.8.07.0003.
+Assim, não ficou configurada flagrante ilegalidade, hábil a ocasionar o deferimento, de ofício, da ordem postulada.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Tal como afirmado na decisão acima, de acordo com o relatório da situação processual executória, o executado foi condenado, primeiramente, no processo n 0706930-23.2020.8.07.0001, à pena de um ano e 11 dias, no regime aberto com trânsito em julgado em 27/09/2021; depois foi condenado, no processo n. 0738455-57.2019.8.07.0001, à pena de 1 ano e 11 dias, no regime aberto, com trânsito em julgado em 11/04/2023; foi condenado, no processo n. 0706426-06.2023.8.07.0003, por roubo circunstanciado, em regime fechado, com informação de trânsito em julgado apenas para o MP, em 19/6/2023 (e-STJ, fls. 623/624).
+Corretamente relatado também, no decision, que, com relação ao primeiro processo, consta no site do Tribunal, primeira instância, n. 0706930-23.2020.8.07.0001, que a pena foi substituída por 2 restritivas de direitos, sendo uma delas consistente na prestação de serviços à comunidade; a outra deveria ser definida pelo Juiz executório.
+Contudo, conforme ora alega a Defensoria Pública, consta no site SEEU, processo de execução n. 0401748-19.2022.8.07.0015, que no dia 17/3/2022 (evento 5), a pena de prestação de serviços à comunidade foi convertida por prestação pecuniária, devido às medidas de prevenção de contágio pelo novo coronavírus, e a outra a ser definida por aquele Juízo foi também fixada em prestação pecuniária.
+A decisão foi assim fundamentada:
+WILTON DOUGLAS DA SILVA SOBRINHO, foi condenado(a) à pena de 1 ano, 11 meses e 10 dias de reclusão e multa, pela prática do delito tipificado no art. 33, caput, da Lei nº 11.343/06, sendo substituída a privativa de liberdade por duas restritivas de direitos consistente, a primeira, em prestação de serviços à comunidade, e a segunda a ser definida pelo Juízo da Execução. A execução foi distribuída a este Juízo para possibilitar o cumprimento regular da pena pelo (a) sentenciado (a).
+Dessa forma, nos termos do art. 44, §2º, do Código Penal, e considerando, sobretudo, o atual cenário nacional e neste TJDFT relativo às medidas de prevenção ao contágio pelo novo Coronavírus - COVID-19, que torna inviável o cumprimento de pena em entidade social por conta de indevida e inadequada aglomeração, converto, EM CARÁTER EXCEPCIONAL, a pena de prestação de serviços à comunidade em pena pecuniária, fixando, ainda, o cumprimento de mais 1 prestação pecuniária, a fim de totalizar as duas penas restritivas de direitos a que foi condenado (a) o (a) sentenciado (a). Verifico, ainda, que o (a) beneficiário(a) ficou recolhido cautelarmente, motivo pelo qual, com fulcro no artigo 42 do Código Penal, detraio o período em que permaneceu preso, se o caso. Diante do exposto:  ..
+Diante desse quadro, ressalta nítido que a unificação de penas entre a ação penal n. 0706930-23.2020.8.07.0001 (duas rstritivas de direito consistentes em prestações pecuniárias) e a ação penal n. 0706426-06.2023.8.07.0003 (regime fechado) promovida estaria em dissonância com a tese assentada pela Terceira Seção desta Corte, no julgamento do REsp n. 1.918.287/MG, sob o rito dos recursos repetitivo, uma vez que é perfeitamente compatível o cumprimento simultâneo das penas pecuniárias com a pena privativa de liberdade.
+Ante o exposto, acolho os presentes embargos de declaração, a fim de, sanando o erro apontado, cassar as decisões de origem, que promoveram a unificação das penas nas ações penais n s. 0706930-23.2020.8.07.0001 e 0706426-06.2023.8.07.0003, restabelecendo, em consequência, o cumprimento da pena em regime fechado, j untamente com as penas pecuniárias.
+Comunique-se a presente decisão, com urgência, ao juiz das Execuções Criminais e ao Tribunal de Justiça.
+Intimem-se.
+EMENTA
