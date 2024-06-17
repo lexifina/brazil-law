@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo manejado pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que negou admissibilidade ao recurso especial por entender que "os argumentos expendidos referentes à aplicação de multa diante dos embargos tidos por protelatórios não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça"
+A agravante insurge-se contra a decisão agravada alegando ofensa ao art. 1.026, § 2º, do CPC, visto que seria incabível a multa por embargos protelatórios na hipótese. Pugna, outrossim, pelo afastamento do óbice da Súmula n. 7 do STJ e, no mérito, alega que a pretensão recursal encontra guarida no referido dispositivo legal e na Súmula n. 98 desta Corte.
+Requer o conhecimento do agravo para que seja analisado e provido o recurso especial.
+Contraminuta às fls. 67.367-67.375 e-STJ.
+É o relatório. Passo a decidir.
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+Assiste razão à recorrente no que tange à multa imposta no âmbito dos embargos de declaração opostos na origem.
+Com efeito, esta Corte já se manifestou no sentido de que os primeiros embargos de declaração, via de regra, não possuem propósito protelatório, sobretudo quando interpostos com a finalidade de prequestionamento. Além disso, no caso dos autos houve pedido de enfrentamento a respeito do viés constitucional da fixação de honorários advocatícios por equidade, sendo certo que a questão pende de julgamento no STF no âmbito do Tema 1.255 da repercussão geral, de modo que deve reconhecida a ofensa ao § 2º do art. 1.026 do CPC para que seja afastada a multa imposta na origem no acórdão que julgou os embargos de declaração. Incide, na hipótese, a Súmula n. 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Nesse sentido: EDcl no AgInt nos EDcl no REsp 1743741/RJ, Rel. Min. Marco Buzzi, Quarta Turma, DJe 2/9/2021 e o AgInt no AREsp 1802740/SP, Rel. Min. Raul Araújo, Quarta Turma, DJe 1º/10/2021.
+Consoante a Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, CONHEÇO DO AGRAVO para DAR PROVIMENTO ao recurso especial a fim de excluir a multa fixada na origem, no âmbito dos embargos de declaração, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MULTA IMPOSTA NA ORIGEM NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. PROPÓSITO DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 98 DO STJ. AFASTAMENTO DA MULTA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL PARA EXCLUIR A MULTA IMPOSTA NA ORIGEM.
