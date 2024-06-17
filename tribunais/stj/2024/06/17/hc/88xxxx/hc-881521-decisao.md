@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Wilis Correa Junior, em que se aponta como ato coator a decisão monocrática de Desembargador do Tribunal de Justiça de Goiás que indeferiu o pedido de liminar formulado no HC n. 5002476.04.2024.8.09.0051.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Na audiência de custódia, realizada em 3/1/2024, o Juízo entendeu ausentes os requisitos ensejadores da prisão preventiva e concedeu a liberdade provisória ao paciente, sendo-lhe fixadas medidas cautelares não prisionais, dentre as quais, o pagamento de fiança no importe de R$ 4.000,00 (quatro mil reais), condicionando a expedição de alvará de soltura ao adimplemento do valor. Impetrado writ perante a Corte de origem, o pedido liminar foi indeferido.
+Neste writ, o impetrante aponta a ocorrência de constrangimento ilegal, uma vez que a liberdade provisória do paciente não pode ser condicionada ao pagamento de fiança.
+Alega que é abusivo e desproporcional condicionar a liberdade do paciente ao pagamento da fiança, em razão de não possuir condições financeiras para arcar com valor arbitrado. Ressalta que se realmente tivesse condições, teria pago tal valor, uma vez que não é crível que alguém que tenha possibilidade de pagar a aludida fiança, ainda assim, optaria por permanecer encarcerado ao longo de um processo judicial demorado e penoso! (fl. 10).
+Requer, liminarmente e no mérito, a concessão da liberdade provisória independentemente do pagamento da fiança, uma vez que tal medida é inconstitucional, o paciente não possui condições econômico-financeiras para arcar com o pagamento do valor e estão ausentes os requisitos do art. 312 do CPP. Pugna, se for o caso, pela aplicação de outras cautelares alternativas não prisionais.
+Em 9/1/2024, o pedido liminar foi deferido para conceder a liberdade provisória ao paciente, dispensando-o do pagamento da fiança (fls. 25/28).
+Prestadas as informações (fls. 39/42 e 44/46), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 53/55).
+É o relatório.
+A ordem deve ser concedida.
+A teor do Enunciado n. 691 da Súmula do Pretório Excelso, entende-se não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+No caso, a manifesta ilegalidade na manutenção do paciente no cárcere ficou evidenciada, de plano, nos autos.
+De acordo com a jurisprudência desta Corte Superior, afigura-se irrazoável manter o réu preso cautelarmente apenas em razão do não pagamento de fiança, mormente porque já reconhecida a possibilidade de concessão da liberdade provisória.
+A propósito, cito o seguinte precedente:
+HABEAS CORPUS. USURPAÇÃO DE BEM DA UNIÃO. CONCESSÃO DA LIBERDADE PROVISÓRIA MEDIANTE O PAGAMENTO DE FIANÇA. IMPOSSIBILIDADE DE ADIMPLEMENTO. REDUÇÃO DO VALOR FIXADO NA ORIGEM. NECESSIDADE. CONSTRANGIMENTO ILEGAL CARACTERIZADO.
+1. De acordo com a jurisprudência desta Corte Superior, "afigura-se irrazoável manter o réu preso cautelarmente apenas em razão do não pagamento de fiança, especialmente quando se alega impossibilidade de fazê-lo e estão ausentes os requisitos exigidos pelo art. 312 do CPP" (HC n. 362.907/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/10/2016, DJe de 8/11/2016).
+2. Na espécie, o paciente permaneceu custodiado, mesmo após a decisão concessiva da liberdade provisória. Somente após o deferimento da tutela de urgência nesta instância, reduzindo o importe a ser recolhido a título de fiança, foi promovido o respectivo pagamento, ensejando a expedição do alvará de soltura em favor do paciente. Ou seja, ao que tudo indica, a sua segregação provisória somente perdurava por conta da sua incapacidade financeira em arcar com o valor fixado a título de fiança pela Corte de origem.
+3. Ordem parcialmente concedida para, ratificando a liminar anteriormente deferida, determinar a alteração do valor atinente à medida cautelar de fiança imposta. Dessa forma, o importe anteriormente fixado em R$ 80.000,00 (oitenta mil reais) fica reduzido para R$ 5.000,00 (cinco mil reais), mantendo-se hígidas todas as demais condições estabelecidas pelo acórdão impugnado.
+(HC n. 501.927/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2019).
+No mesmo sentido: HC n. 515.951/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2019.
+Ante o exposto, concedo a ordem para garantir a liberdade provisória ao paciente, dispensando-o do pagamento da fiança, salvo se por outro motivo estiver preso, mantidas as demais medidas cautelares substitutivas fixadas pelo Juízo de primeiro grau e sem prejuízo da fixação de outras, caso necessárias, para a substituição da fiança (Autos n. 5001454-08.2024.8.09.0051).
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. SÚMULA 691/STF. LIBERDADE PROVISÓRIA CONDICIONADA AO PAGAMENTO DE FIANÇA. ACUSADO QUE ALEGA NÃO POSSUIR CONDIÇÕES DE ARCAR COM O PAGAMENTO DA FIANÇA. ART. 350 DO CPP. DECISÃO PROFERIDA NO HABEAS CORPUS COLETIVO N. 568.693/ES. DISPENSA DO PAGAMENTO DE FIANÇA COMO CONDIÇÃO PARA A LIBERDADE PROVISÓRIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
