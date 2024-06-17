@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AMBIENTAL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. DESMATAMENTO. VALOR INDENIZATÓRIO. MODIFICAÇÃO DAS PREMISSAS DA CORTE RECORRIDA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em regra, na via especial, não cabe a revisão do montante indenizatório estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas, conforme a referida Súmula 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica, contudo, na espécie.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO desafiando decisão da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, em virtude da incidência do óbice da Súmula 7/STJ (fls. 701/704).
+Inconformado, sustenta o agravante, em resumo, que o quantum inicialmente fixado para fins de reparação a título de dano moral coletivo não poderia ter sido reduzido em mais de 80% do valor atribuído em primeiro grau, sem fundamentação idônea e pormenorizada.
+A parte agravada não apresentou impugnação, conforme certidão à fl. 720.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo provimento do agravo interno para que seja conhecido e provido o recurso especial (fls. 732/739).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AMBIENTAL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. DESMATAMENTO. VALOR INDENIZATÓRIO. MODIFICAÇÃO DAS PREMISSAS DA CORTE RECORRIDA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em regra, na via especial, não cabe a revisão do montante indenizatório estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas, conforme a referida Súmula 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica, contudo, na espécie.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Trata-se, na origem, de ação civil pública em que a parte ora agravada foi condenada, dentre outras obrigações, ao pagamento de R$ 240.000,00 (duzentos e quarenta mil reais), referente ao montante de multas diárias por descumprimento da liminar; R$ 345.440,00 (trezentos e quarenta e cinco mil e quatrocentos e quarenta reais), a título de reparação do dano ambiental; e R$ 60.000,00 (sessenta mil reais), a título de dano moral coletivo (fl. 474).
+Posteriormente, o Tribunal de origem deu parcial provimento ao recurso de apelação interposto pelo autuado apenas para reduzir o valor arbitrado a título de danos morais coletivos, fixando-o em R$ 10.000,00 (dez mil reais), com os seguintes fundamentos (fls. 653/660):
+In casu, a condenação da Apelante por dano ambiental em decorrência do desmatamento a corte raso de 17,272 hectares de floresta nativa, objeto de especial preservação, sem autorização ou licença da autoridade ambiental competente se baseou no Auto de Infração e o Termo de Embargo emitidos pelo IBAMA, Relatórios Fotográficos, incluindo imagens de satélite, os quais confirmam os danos ambientais ocorridos.
+ ..
+Por fim, em relação ao dano moral, destaca-se que, este não se restringe às pessoas individualmente consideradas. A configuração desse dano se dá pela lesão na esfera moral de uma comunidade, ou seja, na violação de valores coletivos, atingidos injustificadamente do ponto de vista jurídico.
+Tal lesão ocorre em razão da degradação do meio ambiente, piorando a qualidade de vida da comunidade do local, prescindindo da prova da dor, sentimento ou abalo psicológico sofridos pelo indivíduo. A reparação da lesão extrapatrimonial coletiva advém da necessidade da reparação integral da lesão causada ao meio ambiente.
+ ..
+In casu, restou devidamente comprovada a ocorrência de dano ambiental em decorrência do desmatamento a corte raso de floresta nativa sem licença outorgada pelo órgão ambiental competente, bem como constatado o nexo de causalidade entre a degradação ambiental e a responsabilidade do Apelante mediante a agressão a bens e valores comuns a toda a coletividade, mostrando-se lídima a sua condenação à indenização extrapatrimonial ante os danos causados ao meio ambiente, por afetar o interesse de toda a comunidade em um meio ambiente adequado.
+Por outro lado, considerando a gravidade da infração cometida; o impacto no seio da sociedade; a capacidade econômica do Apelante (hipossuficiente na forma da lei), o caráter pedagógico da medida a servir de freio à degradação ambiental; entendo que se mostra necessária readequação do valor arbitrado à título de danos morais coletivos para R$ 10.000,00 (dez mil reais).
+Nesse ponto, cumpre destacar que, em regra, não é cabível, na via especial, a revisão do montante indenizatório estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas, conforme o obstáculo da Súmula 7/STJ.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica, contudo, na espécie. A propósito, confiram-se os seguintes precedentes:
+PROCESSO CIVIL E AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. INDENIZAÇÃO POR DANOS MORAIS COLETIVOS. REDUÇÃO DO MONTANTE PELO TRIBUNAL A QUO. CONCLUSÃO LASTREADA EM CIRCUNSTÂNCIAS FÁTICO-PROBATÓRIAS. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, o Tribunal a quo, analisando as circunstâncias fático-probatórias e as peculiaridades do caso, concluiu que "o valor fixado a título de dano moral coletivo deve atender aos critérios de razoabilidade e proporcionalidade, levando em consideração a gravidade da infração cometida; o impacto no seio da sociedade; a capacidade econômica do agente causador do dano e o caráter pedagógico da medida deve servir de freio à degradação ambiental" e que "não tendo sido o valor fixado dentro dos critérios de razoabilidade, a sua readequação é medida que se impõe" (fls. 804) . Nesse cenário, a alteração do acórdão recorrido, demandaria, necessariamente, o reexame de matéria fático-probatória, tarefa insuscetível de ser realizada na via do recurso especial, consoante o disposto no enunciado da Súmula n. 7/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.337.176/MT, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. CONDENAÇÃO A DANO EXTRAPATRIMONIAL OU A DANO MORAL COLETIVO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação civil pública objetivando a condenação dos entes públicos ao pagamento de indenização a título de danos morais coletivos, a ser revertido em investimentos diretos em políticas públicas destinadas aos indígenas pertencentes à Comunidade Indígena do Irapuá. Na sentença, julgaram-se parcialmente procedentes os pedidos. No Tribunal a quo, a sentença foi mantida.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - No que diz respeito à pretensão de majoração do valor arbitrado a título de indenização por danos morais, cumpre salientar que realmente esta Corte de Justiça procede à revisão de verbas indenizatórias, entretanto, somente quando a verba tenha sido fixada em valor irrisório ou exorbitante, o que não é o caso dos autos.
+IV - Incide, assim, o Enunciado Sumular n. 7/STJ, que impossibilita a reapreciação dos elementos fáticos-probatórios em que se baseou o julgador a quo para chegar no montante referenciado.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.154.254/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
