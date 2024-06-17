@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. MERO INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. REQUISITO DE ADMISSIBILIDADE PARA O RECURSO EXTRAORDINÁRIO. NÃO VINCULAÇÃO AO HABEAS CORPUS. EMBARGOS REJEITADOS.
+1. A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. A contradição que autoriza o manejo dos embargos é aquela interna, entre as premissas e conclusões do próprio acórdão embargado, e não a suposta contradição entre este e as provas dos autos, a sentença ou a interpretação legal defendida pelo embargante.
+3. O prequestionamento de dispositivos constitucionais é requisito para a admissibilidade do recurso extraordinário, não sendo pertinente a sua vinculação ao habeas corpus. A propósito, mutatis mutandis: AgRg no RHC 75.299/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por WARLEY BALBINO COSTA HENRIQUES (e-STJ, fls. 87-89) contra acórdão da Quinta Turma que não conheceu do agravo regimental, nos termos da seguinte ementa (e-STJ, fl. 76):
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n. 182 do STJ." (AgRg no AREsp n. 2.102.665/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023).
+2. Na hipótese, a decisão agravada não conheceu do recurso porque as teses defensivas não foram examinadas no acórdão recorrido, de modo que sua análise por esta Corte Superior consistiria em indevida supressão de instância. Todavia, o agravante não impugnou o referido fundamento, o que faz incidir a Súmula 182 do STJ. Precedentes.
+3. Agravo regimental não conhecido."
+O embargante alega a existência de contradição e omissão no julgado, no que tange às teses de mérito do habeas corpus, reiterando as alegações de excesso de prazo da prisão preventiva e violação de domicílio, fazendo menção, ainda, a ofício do STF "cujas determinações não foram acatadas nem pelo Juiz Coator, e nem pelo Tribunal de Justiça do Espírito Santo" (e-STJ, fl. 87).
+Requer o acolhimento dos embargos de declaração para que sejam sanados os apontados vícios, bem como para fins de prequestionamento (artigo 5º, inciso XI, da CRFB - e-STJ, fl. 88).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. MERO INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. REQUISITO DE ADMISSIBILIDADE PARA O RECURSO EXTRAORDINÁRIO. NÃO VINCULAÇÃO AO HABEAS CORPUS. EMBARGOS REJEITADOS.
+1. A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. A contradição que autoriza o manejo dos embargos é aquela interna, entre as premissas e conclusões do próprio acórdão embargado, e não a suposta contradição entre este e as provas dos autos, a sentença ou a interpretação legal defendida pelo embargante.
+3. O prequestionamento de dispositivos constitucionais é requisito para a admissibilidade do recurso extraordinário, não sendo pertinente a sua vinculação ao habeas corpus. A propósito, mutatis mutandis: AgRg no RHC 75.299/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016.
+4. Embargos de declaração rejeitados.
+VOTO
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão, no caso de mero inconformismo da parte.
+A propósito, veja-se o seguinte julgado desta Corte:
+" ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados."
+(EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+Na espécie, o acórdão embargado não conheceu do agravo regimental, uma vez que a defesa deixou de impugnar especificamente os fundamentos da decisão recorrida, incorrendo, portanto, nos efeitos do enunciado n. 182 da Súmula do STJ.
+Por sua vez, o recurso em habeas corpus não foi conhecido por supressão de instância, na medida em que o pedido de revogação da prisão cautelar e as suscitadas nulidades não foram examinadas no acórdão impugnado, pois, segundo a instância ordinária, se trataria de reiteração de pedidos, já formulados em outros 4 (quatro) remédios constitucionais, suscitando o impetrante as mesmas teses defensivas (e-STJ, fls. 32-33).
+No caso dos autos, à toda evidência, não se vislumbra nenhuma omissão no aresto embargado.
+Ademais, a contradição tratada no art. 619 do Código de Processo Penal é somente aquela interna, entre as premissas e conclusões do próprio acórdão embargado, e não a suposta contradição entre este e as provas dos autos, a sentença ou a interpretação legal defendida pelo embargante.
+Nesse sentido:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ART. 619 DO CÓDIGO DE PROCESSO PENAL. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+3. "A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no AREsp n. 1275606/RJ, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/9/2018, DJe 11/10/2018).
+4. Embargos de declaração rejeitados".
+(EDcl no AgRg nos EDcl no HC 594.988/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/03/2021, DJe 15/03/2021)
+"PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. 1. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. 2. TEMA NÃO TRAZIDO NO MANDAMUS. AUSÊNCIA DE OMISSÃO. CONTRADIÇÃO COM O DISPOSTO NA SENTENÇA. NÃO CABIMENTO DE EMBARGOS. CONTRADIÇÃO QUE DEVE SER INTERNA. 3. POSSIBILIDADE DE EXAME DE OFÍCIO. PRINCÍPIO DA ISONOMIA. FIXAÇÃO DO REGIME ABERTO. 4. EMBARGOS DE DECLARAÇÃO REJEITADOS. CONCESSÃO DA ORDEM DE OFÍCIO, PARA FIXAR O REGIME ABERTO, COM EXTENSÃO A CORRÉU.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão, que concedeu a ordem de ofício, não viabiliza a oposição dos aclaratórios.
+2. Não se verifica omissão, uma vez que o impetrante não trouxe nenhuma argumentação referente à necessidade de modificação do regime de cumprimento da pena. Ademais, a contradição que autoriza a utilização dos aclaratórios é aquela interna ao próprio voto e não em relação a fatos externos, normas ou entendimentos proferidos em outras decisões. Dessa forma, eventual contradição do entendimento assentado no voto embargado, em relação ao que ficou assentado na sentença condenatória e mantido no acórdão impugnado, não autoriza a oposição de aclaratórios.
+ ..
+4. Embargos de declaração rejeitados. Ordem concedida de ofício, em observância ao princípio da isonomia, para fixar o regime aberto para cumprimento da pena do paciente, com extensão ao corréu Adail, paciente no Habeas Corpus n. 502.870/SP, com fundamento no art. 580 do Código de Processo Penal".
+(EDcl no HC 518.301/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/09/2019, DJe 04/10/2019)
+Por fim, tem-se que o prequestionamento de dispositivos constitucionais é requisito para a admissibilidade do recurso extraordinário, não sendo pertinente a sua vinculação ao habeas corpus. A propósito, mutatis mutandis:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. REQUISITOS DA PRISÃO PREVENTIVA. FALTA DE MANIFESTAÇÃO DO COLEGIADO ESTADUAL SOBRE A MATÉRIA. SUPRESSÃO DE INSTÂNCIA. CONFIGURAÇÃO DO CHAMADO HABEAS CORPUS PER SALTUM. PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE PARA OS RECURSOS EXTRAORDINÁRIO E ESPECIAL. NÃO VINCULAÇÃO AO RECURSO ORDINÁRIO EM HABEAS CORPUS.
+1. A única manifestação levada a efeito pelo Tribunal local diz respeito ao aventado excesso de prazo para o encerramento da instrução criminal. No recurso ordinário em habeas corpus, a defesa questiona a falta de fundamentação da decisão que decretou a prisão cautelar do recorrente.
+2. Fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte Estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios da ampla defesa, do duplo grau de jurisdição e do devido processo legal substancial.
+3. Ante a falta de manifestação do Colegiado Estadual, percebe-se a incompetência desta Corte Superior para o processamento e julgamento deste writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+4. A Constituição vigente, apesar de não prever expressamente o prequestionamento como requisito de admissibilidade recursal, exige, nos termos dos artigos 102 e 105, que a questão levada ao conhecimento das Cortes extraordinárias, em Recurso Extraordinário e Especial, tenha sido previamente decidida em única ou última instância.
+5. A leitura dos mencionados normativos deixa claro que o prequestionamento é requisito essencial para a admissibilidade dos recursos extraordinário e especial, não sendo pertinente sua vinculação ao recurso ordinário em habeas corpus, tanto que o juízo de admissibilidade do recurso é do Tribunal Superior destinatário.
+6. Agravo regimental desprovido." (AgRg no RHC 75.299/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
