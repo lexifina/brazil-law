@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO. CONDIÇÃO DE "MULA" DO TRÁFICO NÃO OBSTA A APLICAÇÃO DO PRIVILÉGIO. REGIME PRISIONAL SEMIABERTO. RÉU PRIMÁRIO, CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS E QUANTUM DE PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. ADEQUADO. AGRAVO DESPROVIDO.
+1. Menções genéricas à apreensão de radiocomunicador e à inexistência de notícia nos autos de ocupação lícita são inaptas a afastar o redutor do tráfico privilegiado.
+2. A atuação do paciente encaixa-se na figura de "mula" do tráfico, em que o agente realiza o transporte, de forma esporádica ou eventual, de entorpecentes. Conforme jurisprudência pacífica desta Corte e do STF, a condição de "mula" não demonstra prova inequívoca do envolvimento, estável e permanente, do agente com o grupo criminoso, ainda que ele receba contraprestação pecuniária, esteja ciente de sua ação e que transporte grande quantidade de drogas.
+3. Assim, à míngua de outros elementos que comprovem a habitualidade delitiva do paciente, somados a sua primariedade e seus bons antecedentes, de rigor é o reconhecimento do tráfico privilegiado.
+4. Diante do quantum de pena aplicado (4 anos e 2 meses de reclusão), a análise favorável das circunstâncias judiciais e a primariedade do agente, o regime semiaberto mostra-se o mais adequado para repressão e prevenção do delito, nos termos dos §§2º e 3º do art. 33 e do art. 59, todos do Código Penal.
+5. Agravo regimental do Ministério Público Federal desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão de fls. 54-61 (e-STJ), em que concedi a ordem de ofício, a fim de fazer incidir o redutor do tráfico privilegiado em 1/6 e de estabelecer o regime semiaberto para cumprimento de pena de ALIRIO RINCAO.
+Em suas razões recursais, o Parquet Federal busca o afastamento do privilégio, argumentando que a quantidade de drogas (1 tonelada de maconha) somadas às demais circunstâncias demonstram que o paciente não é traficante inicial.
+Ademais, pugna pela aplicação do regime fechado, diante da quantidade de droga e do radicomunicador apreendidos, bem como do modus operandi do delito.
+Ao final, requer a reconsideração da decisão agravada ou a submissão ao crivo do colegiado para que seja reestabelecido o acórdão proferido pela 8ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado de Minas Gerais.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO. CONDIÇÃO DE "MULA" DO TRÁFICO NÃO OBSTA A APLICAÇÃO DO PRIVILÉGIO. REGIME PRISIONAL SEMIABERTO. RÉU PRIMÁRIO, CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS E QUANTUM DE PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. ADEQUADO. AGRAVO DESPROVIDO.
+1. Menções genéricas à apreensão de radiocomunicador e à inexistência de notícia nos autos de ocupação lícita são inaptas a afastar o redutor do tráfico privilegiado.
+2. A atuação do paciente encaixa-se na figura de "mula" do tráfico, em que o agente realiza o transporte, de forma esporádica ou eventual, de entorpecentes. Conforme jurisprudência pacífica desta Corte e do STF, a condição de "mula" não demonstra prova inequívoca do envolvimento, estável e permanente, do agente com o grupo criminoso, ainda que ele receba contraprestação pecuniária, esteja ciente de sua ação e que transporte grande quantidade de drogas.
+3. Assim, à míngua de outros elementos que comprovem a habitualidade delitiva do paciente, somados a sua primariedade e seus bons antecedentes, de rigor é o reconhecimento do tráfico privilegiado.
+4. Diante do quantum de pena aplicado (4 anos e 2 meses de reclusão), a análise favorável das circunstâncias judiciais e a primariedade do agente, o regime semiaberto mostra-se o mais adequado para repressão e prevenção do delito, nos termos dos §§2º e 3º do art. 33 e do art. 59, todos do Código Penal.
+5. Agravo regimental do Ministério Público Federal desprovido.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada, razão pela qual a mantenho por seus próprios fundamentos.
+Reproduz-se a fundamentação utilizada pelo Tribunal de origem para afastar a minorante do §4º, art. 33, da Lei 11.343/06:
+"Assim, tenho que a quantidade de drogas deve ser utilizada tão somente na terceira fase, sendo esta aplicação supletiva admitida dada a caracterização de que o agente se dedica a atividades criminosas, tendo em vistas as circunstâncias do caso em concreto.
+No caso, a quantidade de drogas, qual seja, 01 (uma) tonelada, aliadas às demais circunstâncias, demonstram que o apelante não é um traficante inicial.
+Entendo que não há dúvidas de que o acusado vem se dedicando à pratica de crimes, notadamente do tráfico de drogas.
+E a essa conclusão se chega em virtude do exame conjunto de todas as circunstâncias que permeiam o feito.
+Conforme se infere dos autos, o réu foi preso quando transportava 01 (uma) tonelada de maconha, demonstrando que não era iniciante na senda da traficância, pois, por óbvio, possuía ligação com traficantes que difundem elevada quantidade de entorpecentes, já que as substâncias com eles apreendidas não seriam confiadas a qualquer pessoa, diante de seu elevado valor comercial.
+Além disso, para comprovar a ligação do apelante com os traficantes donos da elevadíssima quantidade de drogas, foi apreendido com o mesmo um radio comunicador, afastando-o da figura de um traficante inicial, merecedor da figura privilegiada do tráfico.
+O réu estava transportando 01 (uma) tonelada de maconha, tendo em seu auxílio um rádio comunicador, o que evidencia que durante o trajeto percorrido estava se comunicando com os eventuais donos da carga, não se podendo considerar tratar-se de um simples motorista, traficante eventual, apto a fazer jus ao benefício do privilégio.
+Em caso semelhante ao dos autos já se manifestou este e. Tribunal de Justiça:
+ ..
+Portanto, não é a natureza ou a quantidade de droga, por si só, que leva à conclusão de que o réu se dedicava à prática de delitos, mas os elementos conjuntamente, que foram apurados nos presentes autos.
+Estabelece o § 4º, do art. 33 da Lei nº 11.343/2006: .. Verifica-se, pois, do artigo transcrito, que para a concessão do privilégio, é necessário que o réu cumpra os requisitos elencados de forma cumulativa e simultânea, quais sejam, deve ser primário, apresentar bons antecedentes, não se dedicar a atividades delitivas e nem integrar organização criminosa.
+No caso concreto, observa-se que, de fato, o apelante é "tecnicamente" primário e possuidor de bons antecedentes, conforme CAC de ordem nº 18.
+Entretanto, as provas colhidas, demonstram que o recorrente encontrava-se em dedicação a atividades criminosas, fato impeditivo da concessão da benesse prevista no art. 33, § 4º da Lei 11343/06.
+Verifica-se dos autos que o réu foi preso transportando 34 (trinta e quatro) barras prensadas de maconha pesando 1.063,84 g (um mil e sessenta e três quilogramas e oitocentos e quarenta gramas). Tal função não poderia ser passada para um principiante pelo alto valor da carga. Também restou com ele apreendido um rádio comunicador (vide auto de apreensão de ordem nº 04).
+Não bastasse isso, a Defesa não cuidou de comprovar sua ocupação lícita, ônus que lhe cabia, sendo relevante constatar que as circunstâncias da apreensão, aliadas às drogas encontradas no veículo, evidenciam um envolvimento mais estreito com a atividade criminosa.
+Assim, observa-se pela prova colhida, que o presente caso nãose apresenta apenas como um fato eventual e isolado na vida do réu, impedindo, assim, a concessão do benefício." (e-STJ, fls. 41-43; grifou-se.)
+Na hipótese, observo que as menções genéricas à apreensão de radiocomunicador e à inexistência de notícia nos autos de ocupação lícita são inaptas a afastar o redutor do tráfico privilegiado (AgRg no HC 756940 / RJ, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/02/2024, DJe 05/03/2024; AgRg no HC 792688 / MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 21/08/2023, DJe 25/08/2023).
+Em verdade, a atuação do paciente in casu encaixa-se na figura de "mula" do tráfico, em que o agente realiza o transporte, de forma esporádica ou eventual, de entorpecentes. Conforme jurisprudência pacífica desta Corte e do STF, essa condição de "mula" não demonstra prova inequívoca do envolvimento, estável e permanente, do agente com o grupo criminoso, ainda que ele receba contraprestação pecuniária, esteja ciente de sua ação e que transporte grande quantidade de drogas.
+Assim, à míngua de outros elementos que comprovem a habitualidade delitiva do paciente , somados a sua primariedade e seus bons antecedentes, de rigor é o reconhecimento do tráfico privilegiado.
+Confira-se o seguinte precedente que respalda este entendimento:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AGENTE QUE ATUOU COMO MULA DO TRÁFICO. AUSÊNCIA DE OUTROS ELEMENTOS INDICATIVOS DA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PACIENTE PRIMÁRIO. APLICAÇÃO DO REDUTOR DE PENA PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006 EM FRAÇÃO INTERMEDIÁRIA. PRECEDENTES DESTA CORTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+2. O fundamento utilizado pelas instâncias de origem para afastar o reconhecimento do tráfico privilegiado foi a presunção de que a expressiva quantidade de entorpecentes seria indicativo de que o paciente não era traficante eventual, sem, contudo, haver a demonstração, por meio de elementos concretos extraídos dos autos, de que ele se dedicava a atividades criminosas ou integrava organização criminosa.
+3. Precedentes deste Corte e do Supremo Tribunal Federal confirmam a possibilidade de concessão do benefício do tráfico privilegiado, a despeito da apreensão de considerável quantidade de droga, quando estiver caracterizada a condição de mula do tráfico. Precedentes.
+4. No caso, inexiste óbice à aplicação da referida causa de diminuição, especialmente se considerado que ficou demonstrado nos autos que o paciente foi contratado para transportar a droga, o que caracteriza da função de mula do tráfico. Ademais, o paciente é primário e possuidor de bons antecedentes, não sendo possível assegurar que possui a vida voltada ao ilícito.
+5. Agravo regimental a que se nega provimento."
+(AgRg no HC 877534 / MS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/02/2024, DJe 26/02/2024.)
+Por fim, tendo em vista o quantum de pena aplicado (4 anos e 2 meses de reclusão), a análise favorável das circunstâncias judiciais e a primariedade do agente, o regime semiaberto mostra-se o mais adequado para repressão e prevenção do delito, nos termos dos §§2º e 3º do art. 33 e do art. 59, todos do Código Penal.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. APLICAÇÃO. AUSÊNCIA DE MOTIVAÇÃO VÁLIDA. REGIME PRISIONAL. RÉU PRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO SEMIABERTO. RECURSO NÃO PROVIDO.
+1. Esta Corte e o Supremo Tribunal Federal tem entendimento de que "a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa" (AgRg no REsp 1.866.691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020).
+2. O regime prisional cabível é o semiaberto, diante do quantum da pena aplicada - 4 anos e 2 meses de reclusão -, da primariedade do réu e da análise favorável das circunstâncias judiciais, a teor do contido no art. 33, § 2º, "b", e § 3º, do Código Penal.
+3. Agravo regimental não provido."
+(AgRg no HC 725034 / SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/04/2022, DJe 26/04/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
