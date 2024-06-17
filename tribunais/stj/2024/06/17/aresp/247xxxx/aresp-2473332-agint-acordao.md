@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. DECURSO DO PRAZO. INEXISTÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83 do STJ).
+3. Hipótese em que interrompido o prazo prescricional com o despacho de citação, a realização das diligências cabíveis à citação e à penhora de bens do executado demorou a acontecer por culpa exclusiva da máquina judiciária, que deixou de expedir os atos necessários correspondentes , de modo que, não existindo a intimação sobre inexistência de bens penhoráveis, não há falar sequer de início da contagem do prazo da prescrição intercorrente, muito menos de sua consumação.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela ROPLANO PARTICIPAÇÕES LTDA. contra decisão de minha lavra em que conheci do agravo para, com fundamento na ausência de vício de integração e na concordância do acórdão com a jurisprudência do STJ, conhecer em parte do recurso especial e negar-lhe provimento.
+A agravante alega, em síntese, que o vício de integração decorre da ausência de manifestação da Corte de origem acerca da alegação de que a citação teria sido feita pela edilidade exequente em razão de acordo de cooperação firmado entre o município e o Tribunal estadual.
+No mérito, defende que a demora na restauração dos autos não impediu a ocorrência da contagem do prazo prescricional, uma vez que só foi determinada após o transcurso do prazo quinquenal.
+Aduz, ainda, que a citação foi expedida diretamente pela edilidade, como consta do registro eletrônico da tramitação da execução, havendo informação de arquivamento do processo posterior.
+Por fim, requer o reconhecimento do abandono da execução pela edilidade, requerendo a extinção da ação executiva.
+Sem contraminuta apresentada pela edilidade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. DECURSO DO PRAZO. INEXISTÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83 do STJ).
+3. Hipótese em que interrompido o prazo prescricional com o despacho de citação, a realização das diligências cabíveis à citação e à penhora de bens do executado demorou a acontecer por culpa exclusiva da máquina judiciária, que deixou de expedir os atos necessários correspondentes , de modo que, não existindo a intimação sobre inexistência de bens penhoráveis, não há falar sequer de início da contagem do prazo da prescrição intercorrente, muito menos de sua consumação.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o apelo nobre se origina de agravo de instrumento interposto pelo executado em razão do desacolhimento de exceção de pré-executividade alegando a existência de prescrição por decurso excessivo de prazo sem promoção da execução fiscal por desídia do exequente.
+O Tribunal fluminense negou provimento ao agravo de instrumento ao argumento de que a demora nos atos processuais de citação decorreram da inabilidade da escrivania judicial em praticar os atos de sua atribuição (reconstituição dos autos da execução extraviados e expedição de mandado de citação do exequente).
+Anotou ainda que o prazo prescricional teria se interrompido com o despacho de citação, mas que se aplicaria à espécie a orientação firmada na Súmula 106 do STJ acerca da impossibilidade do reconhecimento da prescrição quando a demora na efetivação da citação decorrer do próprio mecanismo judiciário.
+Opostos embargos de declaração, foram eles rejeitados.
+No especial, a parte alega violação dos arts. 240 e 1.022 do CPC/2015 e do art. 174 do CTN, bem como a ocorrência de divergência jurisprudencial.
+Sustenta, em síntese, que há vício de integração no acórdão, que teria deixado de apreciar a alegação de que o convênio celebrado entre a Procuradoria geral do Município e o Tribunal Estadual imporia à edilidade a atribuição para promover a citação dos executados e os demais atos de notificação de seus devedores, bem como a alegação de que haveria precedente daquela Corte estadual em sentido contrário à conclusão alcançada no julgamento do agravo de instrumento.
+No mérito, alega impor-se a declaração da prescrição intercorrente do crédito tributário em razão da demora na satisfação do crédito e no trâmite da ação executiva por mais de 11 anos d ecorrer da desídia da edilidade em promover os atos processuais de sua obrigação, sendo inviável o entendimento firmado na Súmula 106 do STJ na espécie.
+Na decisão monocrática, consignei que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Como relatado, a Corte estadual concluiu que a demora nos atos processuais de citação decorreram da inabilidade da escrivania judicial em praticar os atos de sua atribuição, descrevendo que o prazo prescricional teria se interrompido com o despacho de citação, mas que se aplicaria à espécie a orientação firmada na Súmula 106 do STJ acerca da impossibilidade do reconhecimento da prescrição quando a demora na efetivação da citação decorrer do próprio mecanismo judiciário.
+Com efeito, o acórdão encontra-se com a seguinte fundamentação, anotada no que interessa:
+Do exame dos autos originários, verifica-se que a execução fiscal foi ajuizada em 28/05/2010 e que foi proferido despacho citatório na mesma data de distribuição da demanda, interrompendo o prazo prescricional qüinqüenal, na forma do da LC 118/2005, não se tendo noticias a respeito do resultado do AR expedido, uma vez que o cartório se manteve inerte, não procedendo a expedição de mandado de citação por oficial de justiça, conforme determina o art. 7o, I c/c 8º. III da LEF.
+Não bastasse, a desídia da serventia se configura com o extravio do processo dentro das dependências cartorárias, sem o conhecimento do Município Exequente, fazendo-se imprescindível a restauração da execução fiscal, na forma da Ordem de Serviço 01/2018.
+ ..
+Contudo, a medida administrativa só começou a ser cumprida em 2019 com expedição de certidão de extravio dos autos (Indexador 000002 do processo originário), de sorte que o processo permaneceu paralisado nas dependências do cartório no período de 2010 a 2019, sem que a serventia cumprisse suas obrigações de impulsionar a execução fiscal, conforme determinado pelos artigos 7o e 8o da Lei nº 6.830/1980.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+No mérito, r eitero que o entendimento adotado pela Corte de origem neste processo encontra amparo na orientação jurisprudencial desta Corte Superior, sendo o caso de aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+Isso porque, interrompida a prescrição, in casu, pelo despacho ordenatório da citação (art. 174, parágrafo único, I, do CTN, com a redação posterior à vigência da pela LC n. 118/2005), a sua contagem somente volta a correr, agora na modalidade intercorrente, depois de esgotado o prazo de um ano da intimação do exequente acerca da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, referente à automática suspensão do processo, tal como decidido no julgamento do Recurso Especial repetitivo 1.340.553/RS.
+No presente caso, conforme o histórico processual delineado no acórdão recorrido, nem sequer houve o conhecimento do credor sobre a não localização do devedor, uma vez que o ato citatório expedido por AR nem sequer foi devolvido aos autos, tendo a Corte estadual assentado expressamente que nenhum ato posterior de citação foi expedido por quem responsável de acordo com a Lei (o Judiciário), nem houve tentativa de reconstituição dos autos extraviados por mais de 9 anos, o que impede o reconhecimento da prescrição intercorrente.
+Este é o sentido que se extrai da leitura conjugada dos itens 4.1.2 e 4.3 do precedente repetitivo acima referido, tendo o Tribunal carioca decidido de forma compatível com essa orientação.
+Frise-se que a elaboração dos mandados de citação e penhora são de atribuição exclusiva do Poder Judiciário, sendo que eventual falha nesse procedimento não pode ser atribuída ao exequente e, consequentemente, justificar a decretação da prescrição (Súmula 106 do STJ).
+Acresço, ainda, que a apontada desídia do credor poderia ensejar, se atendidos o pressupostos próprios, abandono de causa, mas não prescrição intercorrente.
+Nesse contexto, fica claro que, por ocasião do pleito formulado na objeção de pré-executividade, ainda não havia sequer iniciado o lapso temporal referente à prescrição intercorrente.
+Em atenção à solicitação formulada como pedido alternativo no agravo interno, a questão do abandono é acima referida não como o lançamento de juízo objetivo sobre o tema, dado a impossibilidade de fazê-lo neste momento processual sem que houvesse supressão de instância, decisão surpresa, ou o incompatível revolvimento fático.
+Com efeito, essa questão deve ser apreciada pelas instâncias de origem e, desde que, oportunizado às partes o contraditório.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
