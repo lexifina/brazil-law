@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Leonardo Evangelista Oliveira Pinto, em que se aponta como órgão coator o Tribunal de Justiça do Rio Grande do Norte.
+Depreende-se dos autos que o Juízo de Direito da 9ª Vara Criminal da comarca de Natal, na Ação Penal n. 0109987-09.2018.8.20.0001, condenou o réu por incurso no art. 157, § 2º, II, do Código Penal, à pena de 8 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 49 dias-multa.
+O Tribunal a quo deu parcial provimento ao apelo defensivo para reduzir a reprimenda do acusado a 7 anos e 4 meses de reclusão, e ao pagamento de 20 dias-multa, mantendo inalterados os demais pontos da sentença.
+No presente writ, a defesa alega, em síntese, que o paciente foi condenado exclusivamente com base no reconhecimento de pessoas realizado em desatenção às previsões constantes do art. 226 do Código de Processo Penal (fl. 11).
+Requer, em liminar, a expedição de contramandado de prisão e a suspensão do cumprimento da pena. No mérito, busca a concessão da ordem para reconhecer a nulidade do procedimento de reconhecimento de pessoas, absolvendo-se o acusado.
+A condenação do réu transitou em julgado no dia 8/5/2024. É o que se depreende do AREsp n. 2.608.018/RN, não conhecido pela Presidência desta Casa.
+É o relatório.
+A condenação do paciente já é definitiva, ante o trânsito em julgado da ação penal. Portanto, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Ora, diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+Além disso, o habeas corpus não deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro. Veja-se que a questão já tinha sido objeto do recurso especial do paciente, inadmitido na origem, e, mesmo após a interposição do respectivo agravo, a defesa não conseguiu impugnar, de forma efetiva, concreta e pormenorizada, as razões de tal inadmissão.
+Seja como for, inexiste, na espécie, flagrante ilegalidade a ser reparada por meio de habeas corpus de ofício. Afinal, a linha adotada pelo Tribunal estadual está em consonância com a firme jurisprudência do Superior Tribunal de Justiça.
+De acordo com o entendimento desta Corte, quanto ao rito do art. 226 do CPP, "Se a vítima é capaz de individualizar o agente, não é necessário instaurar a metodologia legal" de reconhecimento (AgRg no AgRg no HC n. 721.963/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 13/6/2022) - (AgRg no HC n. 760.617/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/12/2022).
+No caso, conforme o acórdão combatido, em juízo, o ofendido confirmou ter reconhecido o réu por fotografia, além de ter narrado características físicas e tatuagens, individualizando o apelante enquanto autor do roubo. (fls. 457/458).
+Segundo se extrai da sentença, a vítima indicou o réu como um dos autores do delito antes mesmo do procedimento em sede policial, inclusive, apresentando uma fotografia dele para ser juntada às investigações (fl. 24).
+Com efeito, reafirmo, não há constrangimento ilegal a ser aqui reparado, pois, apesar do questionamento acerca da validade do procedimento de reconhecimento de pessoas, tem-se dos autos que a vítima conseguiu individualizar o autor do delito com a indicação de traços distintivos, confirmando isso em juízo (fl. 25).
+A propósito do que aqui se discute, confira-se o AgRg no HC n. 793.886/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/4/2023.
+De todo modo, a pretensa revisão do julgado, com vistas à absolvição do acusado, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas. (AgRg no HC n. 813.741/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 5/10/2023).
+Pelo exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. DESVIRTUAMENTO DO SISTEMA RECURSAL. INADMISSIBILIDADE. ALEGADA OFENSA DO ART. 226 DO CPP. DESCRIÇÃO INDIVIDUALIZADA DO RÉU PELA VÍTIMA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
