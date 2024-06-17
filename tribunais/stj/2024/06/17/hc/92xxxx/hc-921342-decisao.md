@@ -1,0 +1,24 @@
+DECISÃO
+VINICIUS TOLDO alega sofrer constrangimento ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500688-57.2022.8.26.0537.
+Em suas razões, a defesa alega que o réu faz jus ao reconhecimento do privilégio no furto praticado, diante da sua primariedade e do valor da res furtiva, avaliada em R$ 197,48.
+Decido.
+Quanto à aplicação do privilégio no furto, o acórdão registrou (fls. 43-44):
+De início, imprescindível, a distinção entre valor insignificante e pequeno valor, uma vez que o primeiro poderia excluir o crime, ante a ausência de ofensa ao bem jurídico tutelado: o patrimônio (atipicidade material), e o segundo poderia caracterizar o furto privilegiado previsto no § 2º do artigo 155 do Código Penal, apenado de forma mais branda, compatível com a lesividade da conduta.
+No caso em apreço, em que pesem os argumentos da D. Defesa, não se mostra insignificante, tão pouco de baixo valor a res furtiva, avaliada em R$197,48 (cento e noventa e sete reais e quarenta e oito centavos). Aliás, destemidamente, o apelante aceitou as consequências penais para subtraí-la. Clara, pois, a ofensividade ao bem juridicamente tutelado. O crime, como descrito na denúncia, foi praticado sem timidez ou pejo, com indicada preparação, com instrumento próprio - sacola -, em lugar sempre pleno de fregueses e funcionário, especialmente, de vigilância.
+ ..
+Assim, há de se considerar, também, que o apelante, apesar de primário, além de subtrair produtos de considerável valor, "já tinha sido flagrado pelas câmeras de segurança do estabelecimento comercial praticando outros furtos anteriormente, a denotar que se trata de criminoso habitual, o que também impede o reconhecimento do privilégio" (fls. 137).
+De acordo com o art. 155, § 2º, do Código Penal, o reconhecimento do furto privilegiado depende do preenchimento dos critérios legais então elencados: ser o criminoso primário e de pequeno valor a coisa furtada. Nesta hipótese, o juiz deverá substituir a pena de reclusão pela de detenção, diminuí-la de 1 a 2/3, ou aplicar somente a pena de multa.
+Assim, para o reconhecimento do privilégio legal - direito subjetivo do réu -, a norma penal exige, de forma literal, a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada que, na linha do entendimento pacificado no Superior Tribunal de Justiça, não deve ultrapassar o valor de um salário-mínimo, vigente à época dos fatos.
+Nesse sentido:
+ ..
+1. A jurisprudência desta Corte Superior se encontra firmada no sentido de que o reconhecimento do privilégio legal é um direito subjetivo do réu, cujo deferimento exige a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada, que deve ter como parâmetro o valor do salário mínimo vigente à época dos fatos (AgRg no REsp n. 1.486.001/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/5/2015).
+3. Agravo regimental improvido. (AgRg no HC n. 371.301/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017)
+No caso, o recorrente preencheu os requisitos objetivos - primário e pequeno valor da coisa furtada. Isso porque, o valor da res furtiva (R$ 197,48) não ultrapassa o salário mínimo vigente à época dos fatos (R$ 1.212,00). Assim, consoante o entendimento jurisprudencial deste Tribunal Superior, faz jus ao privilégio previsto no citado dispositivo legal.
+Assim, o acórdão está em desconformidade com a jurisprudência desta Corte Superior, razão pela qual identifico a ilegalidade apontada e passo à dosar a pena.
+Sobre a aplicação da pena, rememoro que, ao aplicar essa minorante, será aberto um leque de possibilidades para o magistrado, que deve fundamentar a escolha que faz entre as alternativas legais: a) substituir a pena de reclusão por detenção; b) diminuir a pena privativa de liberdade de um a dois terços; c) aplicar somente a pena de multa.
+No caso, em que pese a primariedade do paciente, a sentença consignou o relato de testemunhas de que "ele já tinha sido flagrado pelas câmeras de segurança do estabelecimento comercial praticando outros furtos anteriormente, a denotar que se trata de criminoso habitual" (fl. 26).
+Contudo, a folha de antecedentes criminais acostada aos autos não comprova a existência de outras anotações ou ações penais em andamento, o que impede a utilização de tal fundamento em prejuízo do réu, razão pela qual entendo que é possível a aplicação da pena de multa.
+Assim, reconhecido o privilégio, deve a pena privativa de liberdade ser substituída por multa, a ser estabelecida pelo Juízo da execução, conforme os parâmetros do art. 60 do Código Penal.
+À vista do exposto, concedo a ordem, in limine, a fim de aplicar o privilégio no furto e substituir a pena privativa de liberdade por multa, a ser estabelecida pelo Juízo das execuções.
+Publique-se e intimem-se.
+EMENTA
