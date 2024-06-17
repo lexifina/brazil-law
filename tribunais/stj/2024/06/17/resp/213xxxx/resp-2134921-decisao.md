@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 492):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO IMPROCEDENTE. IMPOSSIBILIDADE DE APLICAÇÃO DA TAXA SELIC. ATUALIZAÇÃO DE DÉBITO JUDICIAL. Não há previsão legal para aplicação da taxa Selic para correção de débitos judiciais, logo, sobre eles deve incidir juros de mora de 1% ao mês e correção monetária pelos índices da Corregedoria-Geral de Justiça.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 489, § 1º, IV e VI, e 1.022, ambos do Código de Processo Civil, sustentando a omissão do Tribunal de origem no que se refere à aplicação dos artigos 406 e 407 do Código Civil à atualização do débito judicial no caso.
+Aduz a negativa de vigência dos arts. 406 e 407, ambos do Código Civil, uma vez que, não havendo indicação do índice de correção no título executivo judicial, a atualização da condenação deve observar a taxa SELIC, a qual já pressupõe a inclusão dos juros e da correção monetária.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+De início, no que se refere à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, não há falar em omissão no acórdão, mas apenas julgamento contrário aos interesses dos recorrentes, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Observo que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: Edcl no AgRg no Ag nº 492.969/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJ de 14.2.2007; AgRg no Ag nº 776.179/SP, Relator Ministro José Delgado, Primeira Turma, DJ de 12.2.2007; e REsp 523.659/MG, Relator Ministro João Otávio de Noronha, Segunda Turma , DJ de 7.2.2007.
+No mais, com razão a recorrente.
+Com efeito, ao solucionar a controvérsia, o Tribunal local assim se manifestou (fls. 494-496):
+Trata-se de cumprimento de sentença em que o ora agravante em impugnação àquele cumprimento, afirmou que o valor devido deveria ser atualizado obedecendo-se os índices da taxa Selic.
+O MM. Juiz pela decisão doc. 09, julgou improcedente a impugnação do devedor ao cálculo apresentado, aos seguintes fundamentos a respeito da atualização do valor devido:
+"Conforme se observa da sentença no ID nº 6603838003, a requerida foi condenada ao pagamento da quantia de R$180.801,74, que deveria ser corrigida monetariamente, desde a data da propositura da ação, com juros de mora a contar da citação.
+Em que pese a ausência de estabelecimento do índice a ser utilizado e os juros de mora incidentes na sentença executada, constata-se que o exequente, para atualização da dívida, utilizou o índice oficial fornecido pela Egrégia Corregedoria Geral de Justiça do Estado de Minas Gerais, bem como os juros moratórios de 1% ao mês em seus cálculos, que são os legais, assim como foram observados os termos iniciais respectivos estabelecidos no título executado, observando-se o disposto no art. 524 do CPC.
+Assim sendo, mostram-se corretos os cálculos apresentados pelo exequente no ID nº 9514655919, página Considerando que o valor depositado pela executada não é suficiente para a satisfação de seu débito, a execução deve prosseguir quanto ao saldo remanescente".
+Vejo acertada a r. decisão porque a Taxa SELIC não constitui índice de correção monetária, mas apenas uma de taxa básica de juros, sendo de tal sorte descabida a sua utilização para fins de atualização de condenação judicial, as quais devem ser atualizadas segundo os índices de correção monetária, conforme tabela da Corregedoria Geral de Justiça de Minas Gerais, mais os juros de mora.
+Além disso, neste caso não há campo para incidência da Taxa SELIC (Taxa Referencial do Sistema Especial de Liquidação e Custódia) como fator de atualização monetária, na medida em que estabelecida para corrigir benefício fiscal, e não créditos cobrados judicialmente, como ocorre na espécie. Isso porque, a Taxa SELIC é taxa básica de juros da economia e principal instrumento de política ajustado pelo Banco Central para controlar a inflação.
+Sobre o tema a posição reiterada deste Tribunal:
+"Não há previsão legal para aplicação da taxa Selic sobre débitos judiciais, logo, sobre eles deve incidir juros de mora de 1% ao mês e correção monetária pelos índices da Corregedoria-Geral de Justiça" (Apelação Cível 1.0024.13.271361-1/0012713611- 79.2013.8.13.0024 (1) Relator(a): Des.(a) Mônica Libânio).
+Assim, quando não existir o estabelecimento de um índice a ser utilizado e os juros de mora incidentes na sentença executada a ser cumprida, não se pode adotar a taxa Selic para efeito de atualização do débito.
+Neste contexto, vejo sem razão o agravante quando tenta a aplicação ao caso da taxa Selic, para efeito de atualização do débito, porque não é ela aplicável em caso de correção de débito judicial.
+Pelo exposto, NEGO PROVIMENTO ao agravo para manter a r. decisão.
+Dessa forma, observa-se que o acórdão recorrido diverge da jurisprudência desta Corte, para a qual os juros moratórios devem ser calculados com base na taxa SELIC, ressalvadas as previsões contratuais e a coisa julgada. Confiram- se:
+AGRAVO INTERNO. RECURSO ESPECIAL. RESTITUIÇÃO DE VALORES RETIDOS INDEVIDAMENTE POR INSTITUIÇÃO FINANCEIRA. PEDIDO DE UTILIZAÇÃO DOS MESMOS CRITÉRIOS DE CÁLCULO ESTABELECIDOS NO CONTRATO. IMPOSSIBILIDADE. PRERROGATIVA EXCLUSIVA DAS INSTITUIÇÕES FINANCEIRAS. APLICAÇÃO DA TAXA SELIC. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. "A restituição dos frutos do capital retido indevidamente por instituição financeira não deve ser feita simplesmente com o emprego das mesmas taxas por ela praticadas, visto que estas operam por regras específicas que não têm como ser aplicadas a terceiros como medida de ressarcimento" (AgInt no REsp 1519968/SP, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, DJe 3/9/2018).
+3. "A Corte Especial no julgamento de recurso especial repetitivo entendeu que por força do art. 406 do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação" (AgInt no REsp 1.794.823/RN, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 28/5/2020).
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 1.966.743/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/8/2022, DJe de 17/8/2022)
+AGRAVO INTERNO. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. JUROS DE MORA. TAXA SELIC. INCIDÊNCIA. PRECEDENTES. NÃO PROVIMENTO.
+1. "A Corte Especial no julgamento de recurso especial repetitivo entendeu que por força do art. 406 do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação" (AgInt no REsp 1794823/RN, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 28/5/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.723.791/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/2/2021, DJe de 11/2/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. DANOS MORAIS. NÃO CONFIGURADOS. JUROS DE MORA. TAXA LEGAL. SELIC. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A Corte Especial no julgamento de recurso especial repetitivo entendeu que por força do art. 406 do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.794.823/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/5/2020, DJe de 28/5/2020)
+É o caso de aplicação, portanto, da taxa SELIC, que em sua formação já contempla a correção monetária.
+Em face do exposto, dou parcial provimento ao recurso especial, a fim de que a atualização do valor da condenação por danos morais seja feita pela taxa SELIC, vedada sua cumulação com correção monetária.
+Intimem-se.
+EMENTA
