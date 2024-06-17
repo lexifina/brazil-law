@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE CONFIGURADA. CONCLUSÃO ALINHADA À TESE FIRMADA POR OCASIÃO DO JULGAMENTO DO RECURSO ESPECIAL 1.340.553/RS (TEMA 568). REVISÃO QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A conclusão do Tribunal de origem encontra suporte na tese firmada pelo Superior Tribunal de Justiça (STJ), sob o rito dos recursos repetitivos, por ocasião do julgamento do Recurso Especial 1.340.553/RS, assim assentada: "A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens" (Tema 568).
+2. Proferir entendimento diverso, na espécie, implicaria em reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial no ponto ante a incidência da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA contra a decisão de minha relatoria de fls. 107/110, em que neguei provimento ao recurso especial.
+Em suas razões recursais, a parte agravante se volta contra o reconhecimento da prescrição intercorrente, alegando que a penhora efetivada não dá ensejo à suspensão da execução fiscal nos termos do art. 40 da Lei 6.830/1980.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 124/135).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE CONFIGURADA. CONCLUSÃO ALINHADA À TESE FIRMADA POR OCASIÃO DO JULGAMENTO DO RECURSO ESPECIAL 1.340.553/RS (TEMA 568). REVISÃO QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A conclusão do Tribunal de origem encontra suporte na tese firmada pelo Superior Tribunal de Justiça (STJ), sob o rito dos recursos repetitivos, por ocasião do julgamento do Recurso Especial 1.340.553/RS, assim assentada: "A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens" (Tema 568).
+2. Proferir entendimento diverso, na espécie, implicaria em reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial no ponto ante a incidência da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origem reconheceu a prescrição intercorrente, extinguindo a execução fiscal com os seguintes fundamentos (fls. 31/32):
+a) a execução fiscal foi ajuizada em 06-12-2010 (evento 1);
+b) o executado foi citado em 23-03-2011, informando o encerramento da atividade empresarial e a inexistência de bens passíveis de penhora (evento 5);
+c) em 02-08-2011 tentou-se a penhora de valores pelo Sistema BACENJUD, sem êxito (evento 12);
+d) em 06-02-2012 foi deferida a penhora de direitos que o executado detém do contrato de alienação fiduciária referente ao veículo de placas IKK 7455, então alienado em fidúcia (evento 24). A instituição financeira foi intimada da constrição em 12-07-2012 (evento 28) e o executado em 09-08-2012 (evento 32);
+e) certificou-se o transcurso do prazo para oposição de embargos à execução (evento 34);
+f) em 07-08-2013 veio aos autos notícia de liquidação do débito referente à aquisição do veículo (evento 43);
+g) expedido mandado de penhora e avaliação, o executado, em 15-08-2014, informou não estar em posse do veículo, que estaria com seu pai(evento 48).
+h) a pedido da exequente, deprecou-se o ato, sendo expedida acarta em 17-08-2015 (evento 54). A carta foi distribuída em 17-06-2016(evento 59). Em 11-01-2018 veio aos autos informação de que a carta precatória estavam em carga com a Procuradoria Seccional Federal de Canoas, em cobrança de autos (evento 67);
+i) a ANVISA requereu nova penhora de valores em 11-01-2018(evento 70); deferida a consulta ao Sistema BACENJUD, contudo, sem êxito(evento 80);
+j) a exequente requereu a expedição de novo mandado de penhora, porque não localizada a carta, em 16-07-2018 (evento 86);k) o executado peticionou alegando a prescrição intercorrente(evento 93);
+l) noticiou-se nos autos a não localização do veículo (evento 95);
+m) a decisão agravada foi proferida em 27-11-2018 (evento 99).
+Pois bem.
+No caso, foi realizada a penhora de direitos decorrentes de contrato de alienação fiduciária de veículo em 06-02-2012, sendo esta constrição apta a interromper o prazo prescricional. O prazo de um ano, previsto no artigo 40 da Lei 6.830/1980, transcorreu em 06-02-2013, a partir do qual iniciou-se o prazo prescricional. Considerando que a decisão agravada foi proferida em 27-11-2018, transcorreu o prazo de cinco anos.
+A conclusão adotada encontra suporte na tese firmada pelo Superior Tribunal de Justiça (STJ), sob o rito dos recursos repetitivos, por ocasião do julgamento do Recurso Especial 1.340.553/RS, assim assentada:
+"A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens" (Tema 568).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Em igual sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL DE ISS. PRESCRIÇÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Embargos à Execução Fiscal de ISS. Após o regular processamento do feito, o Juízo de 1º Grau julgou extinta a Execução Fiscal, por prescrição. Interposta Apelação, pelo Município exequente, o Tribunal de origem negou provimento ao recurso. Opostos, sucessivamente, dois Embargos Declaratórios, em 2º Grau, restaram ambos rejeitados. Interposto Recurso Especial, nele o Município exequente apontou violação aos arts. 174, parágrafo único, I, do CTN, 40 da Lei 6.830/80 e 152, II, do CPC/2015, bem como divergência jurisprudencial, sustentando, uma vez mais, a não-ocorrência de prescrição, na espécie. Em juízo negativo de retratação, o Tribunal de origem manteve o acórdão originalmente proferido. Após ratificada a interposição do Recurso Especial, os autos vieram ao STJ. Nesta Corte o Recurso Especial não foi conhecido, ensejando a interposição do presente Agravo interno.
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, manteve o reconhecimento da prescrição, consignando que, no "REsp 1.340.553, a 1ª Seção do STJ definiu em julgamento de recurso repetitivo, como devem ser aplicados o artigo 40 e parágrafos da Lei 6.830/80, no que tange a sistemática para a contagem da prescrição intercorrente, e no caso concreto, o prazo de um ano de suspensão previsto no artigo 40, parágrafos 1º e 2º, da Lei 6.830 teve início automático na data da ciência da Fazenda a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido. No caso concreto, a ação foi ajuizada em novembro de 2002, antes da vigência da Lei Complementar, que dispunha que somente a citação válida poderia interromper a prescrição. Contudo, a citação somente se deu em junho de 2009 por edital, ficando o processo sem qualquer movimentação por mais de 6 anos consecutivos (fls. 02/05 dos autos da execução em apenso). Dessa forma, a sentença está em consonância com o entendimento que fixou as teses acima transcritas, especialmente, aquela em que se relaciona ao lapso prescricional quinquenal acrescido de mais um ano. Não se verificou no caso concreto, portanto, qualquer termo suspensivo ou interruptivo e nem tampouco o atraso pelos mecanismos da Justiça, de sorte que outra solução não havia mesmo que não fosse a procedência dos embargos e a consequente extinção da execução fiscal, diante da prescrição intercorrente. Diante do exposto, meu voto é pela manutenção do julgamento que negou provimento ao recurso de apelação ratificando a sentença de extinção diante da ocorrência da prescrição, porque em consonância aos Temas 566, 567, 568, 569, 570, 571 do STJ". Tal entendimento, firmado pelo Tribunal a quo, no sentido de que ocorreu a prescrição, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+IV. Agravo interno improvido.
+(AgInt no REsp n. 2.089.695/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
