@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de recurso ordinário em habeas corpus impetrado em favor de MARCOS VINICIUS CAMARGO PEREIRA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o Recorrente teve a prisão em flagrante convertida em preventiva, pela prática em tese, do delito capitulado no artigo 33, caput, da Lei n. 11.343/06.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que manteve a decisão do juízo a quo, apontando que a prisão se encontra devidamente justificada, em acórdão assim ementado "(..) HABEAS CORPUS - TRÁFICO DE DROGAS (LEI DE TÓXICOS, ART. 33)- PRISÃO PREVENTIVA - PLEITO DE REVOGAÇÃO. INGRESSO POLICIAL EM RESIDÊNCIA - ARGUIÇÃO DE ILEGALIDADE - NÃO ACOLHIMENTO DA TESE - FUNDADAS RAZÕES DA OCORRÊNCIA DE FLAGRANTE DELITO - ORDEM JUDICIAL OU CONSENTIMENTO DO MORADOR PRESCINDÍVEIS - ATUAÇÃO POLICIAL LÍCITA. (..)" (e-STJ fl. 217), tendo denegado a ordem, conforme e-STJ fls. 213-218.
+Neste writ, postula a Defesa, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do Recorrente, em razão de constrangimento ilegal e ausência de fundamentação para a segregação cautelar; alegando que  "(..) No caso presente, todavia, a decisão impugnada não atende às balizas normativas cominadas pela Constituição Federal e pelo Código de Processo Penal à prisão preventiva, especialmente à medida que invoque fundamentação genérica apoiada em conceito normativo aberto, sem a demonstração concreta de elementos indicativos do risco à ordem pública, a Autoridade Coatora deixou de mencionar qualquer dado concreto que indicasse, em tese, a participação do Paciente em detrimento do fato então devolvido ao seu conhecimento.(..)"  (e-STJ fls. 224-259).
+Requer liminarmente, com a confirmação no mérito, do deferimento do recurso ordinário em habeas corpus, e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão. indicasse, em tese, a participação do Paciente em detrimento do fato então devolvido ao seu conhecimento.(..)"  (e-STJ fls. 224-259).
+Liminar indeferida, às fls. 426-429.
+Informações prestadas às fls. 435-437 e 438-456.
+O Ministério Público Federal, às fls. 458-461, em parecer, manifestou-se pelo desprovimento do recurso, assim ementado:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DEENTORPECENTES. ART. 33 DA LEI Nº 11.343/2006. PRISÃO PREVENTIVACOM FUNDAMENTAÇÃO IDÔNEA. EFETIVA POSSIBILIDADE DEREITERAÇÃO DELITIVA. REQUISITOS DO ARTIGO 312 DO CPP. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.1. A custódia do recorrente tem apoio no juízo de necessidade ditado pela garantia da ordem pública, nos termos do art. 312 do CPP, visto a recalcitrância do réu na prática criminosa e associação ao narcotráfico.2. Parecer pelo desprovimento do recurso.
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SC-, na data de hoje, foi proferida sentença, em 12/01/2024, com a condenação do Recorrente, logo, há um novo título judicial que deva ser desafiado por meio judicial próprio.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, julgo o presente recurso ordinário em habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
