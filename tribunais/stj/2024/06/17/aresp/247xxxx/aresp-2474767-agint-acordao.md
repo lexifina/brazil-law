@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA CAUTELAR. PERDA SUPERVENIENTE DO INTERESSE DE AGIR RECONHECIDO NA ORIGEM. NECESSIDADE E UTILIDADE DA LIDE AFASTADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal de origem, após o exame acurado dos autos, concluiu que a parte ora agravante não possui mais interesse de agir na presente lide, uma vez que deixou de ocupar o cargo cujos interesses pretendia tutelar.
+2. A modificação do entendimento das instâncias ordinárias, para acolher a pretensão recursal, quanto ao interesse de agir no pedido de acesso à documentação que lhe permitisse a apresentação de relatório em assembleia, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante a Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCELO BURLÁ contra decisão desta relatoria que conheceu do agravo para negar provimento a seu recurso especial, ante a incidência da Súmula 7/STJ (fls. 737/739).
+Nas razões do agravo interno, além de repisar os fundamentos do recurso especial, sustenta o agravante que não se aplica a Súmula 7/STJ ao caso dos autos, pois a teoria da asserção "exclui da análise das condições da ação a análise de provas, mas meramente exige, que, em abstrato, haja utilidade e possibilidade do provimento jurisdicional (no caso do interesse de agir)" (fl. 750).
+A parte agravada apresentou impugnação às fls. 757/767.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA CAUTELAR. PERDA SUPERVENIENTE DO INTERESSE DE AGIR RECONHECIDO NA ORIGEM. NECESSIDADE E UTILIDADE DA LIDE AFASTADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal de origem, após o exame acurado dos autos, concluiu que a parte ora agravante não possui mais interesse de agir na presente lide, uma vez que deixou de ocupar o cargo cujos interesses pretendia tutelar.
+2. A modificação do entendimento das instâncias ordinárias, para acolher a pretensão recursal, quanto ao interesse de agir no pedido de acesso à documentação que lhe permitisse a apresentação de relatório em assembleia, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante a Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Conforme delimitado na decisão agravada, a Corte de origem confirmou a sentença, consignando que, em que pese o autor da ação possuísse interesse de agir no momento de sua propositura, deixou de tê-lo posteriormente a sua destituição do cargo de diretor administrativo da empresa, pois não há mais necessidade no resguardo de suas atribuições, como se confere no trecho a seguir (fls. 647/648):
+"O apelante foi o Diretor Administrativo da Federação Brasileira das Associações de Ginecologia e Obstetrícia - FEBRASGO, tendo ajuizado a presente demanda sob o argumento de que a apelada promove atos de gerência em desacordo com o Estatuto.
+Sem sombra de dúvidas que, quando do momento da propositura da ação, o autor possuía legitimidade ativa, eis que o artigo 21 do Estatuto Social da Federação ré previa dentre suas competências, a responsabilidade, junto com o Diretor Financeiro, pelo patrimônio da instituição (fls. 36 mov. 000027). Vejamos, in verbis:
+(..)
+Entretanto, incontroverso que, no curso da demanda, o autor foi destituído do cargo de Diretor Administrativo. Ora, sendo o objeto da presente demanda, o resguardo ao exercício das atribuições do Diretor Administrativo, tendo o autor sido destituído do cargo, caracterizada está a ilegitimidade ativa superveniente.
+Ademais, o objeto da presente ação consiste na suspensão da AGO, que já foi celebrada, e na exibição de documentos administrativos/financeiros da ré com o intuito de resguardar o exercício das competências de Diretor administrativo. Entretanto, conforme já dito, o autor foi destituído do cargo em 2017, pelo que o interesse no resguardo de suas atribuições não mais persiste, de modo que houve a perda do interesse de agir.
+Nesse sentido, merece destaque o seguinte trecho da sentença (grifos nossos):
+"E há outro fato - superveniente - que há de se considerado. O autor fora destituído do cargo de diretor administrativo em 2017.
+Logo, não subsiste mais interesse processual, nem legitimidade, em relação aos pleitos realizados. Note-se: todos eles decorreriam unicamente do fato de ser ele o Diretor Administrativo da ré. Não pode o autor - tendo sido destituído (justa ou injustamente) - prosseguir com a presente a exigir documentos administrativos ou financeiros da ré, se com ela não mantém mais nenhuma relação de direção administrativa.
+O intuito da demanda era questionar a própria assembleia que se realizaria, que já fora realizada.
+Se o autor entende que sua destituição fora irregular, isso é passível de apuração judicial. O problema é que isso EM NADA tem relação com a presente demanda, cujo objeto é totalmente diverso (seja em vista do que cautelarmente se requereu, que tinha teórico sentido unicamente por conta do cargo que exercia e que hoje não mais exerce, seja porque eventual pedido principal só poderia se vincular a questão administrativa que justificava o pleito antecedente). Não se poderia aqui inovar com um pleito de nulidade do ato de destituição, que não tem NENHUMA relação com a causa de pedir e pedido da inicial.
+Não é o caso de se prosseguir com mera decisão e emenda para adequar-se pleito principal, justamente porque não há mais interesse processual e legitimidade".
+Logo, como bem analisado pelo magistrado, a ação deve ser extinta por perda superveniente do interesse processual (art. 485, VI do CPC)."
+Consoante a jurisprudência desta Corte de Justiça, "o interesse de agir é condição da ação caracterizada pelo binômio necessidade-adequação. Necessidade concreta da atividade jurisdicional e adequação de provimento e procedimento desejados. O interesse processual pressupõe a alegação de lesão a interes se" (AgInt no RMS 40.368/RS, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+No caso, reverter a conclusão do Tribunal a quo, para acolher a pretensão recursal, no tocante à existência de necessidade e adequação da ação (interesse de agir), demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante a Súmula 7 do Superior Tribunal de Justiça. Em reforço:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. COMPRA E VENDA DE IMÓVEL. DEFEITO. VAGA DE GARAGEM COM METRAGEM A MENOR. LEGITIMIDADE DO ADQUIRENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. ANÁLISE DO PRIMEIRO AGRAVO INTERNO INTERPOSTO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça entende que, "em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porque electa una via non datur regressus ad alteram" (AgInt no AREsp n. 1.894.894/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/12/2021, DJe de 10/12/2021).
+2. Reverter a conclusão do Tribunal local - para acolher a pretensão recursal, sobretudo no que concerne à legitimidade e ao interesse de agir da parte adversa na responsabilização da ora agravante por eventual não cumprimento do contrato - demandaria a análise de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.016.502/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023)
+Assim, ante a ausência de qualquer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o apelo nobre.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
