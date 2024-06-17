@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER c/c PEDIDO DETUTELA ANTECIPADA E DANOS MORAIS - SENTENÇA DE PROCEDÊNCIA - PRELIMINAR SUSCITADA EM CONTRARRAZÕES -AUSÊNCIA DE DIALETICIDADE RECURSAL - REJEITADA - PLANO DE SAÚDE - NEGATIVA DE REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO BARIÁTRICO - ALEGAÇÃO DA CASSI DE NÃO COBERTURA DO PROCEDIMENTO PORQUE O CONTRATO FOI FIRMADO ANTES DA EDIÇÃO DA LEI Nº 9.656/98 - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - CLÁUSULA EXCESSIVAMENTE DESVANTAJOSA PARA A CONTRATANTE - CONTRATO DE ADESÃO - OBESIDADE COM DIVERSAS COMPLICAÇÕES - LAUDOS MÉDICOS INDICANDO A NECESSIDADE DO PROCEDIMENTO - PRECEDENTES - DANO MORAL - NÃO CONFIGURADO - SENTENÇA PARCIALMENTE REFORMADA - SUCUMBÊNCIA RECÍPROCA - RECURSO CONHECIDO E PARCIALMENTE DESPROVIDO - UNÂNIME"
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte aponta, além de divergência jurisprudencial, violação aos arts. 489, § 1º, inciso IV, 927, 1.022, inciso II, 1.026, do Código de Processo Civil e art. 421 do Código Civil, sustentando negativa de prestação jurisdicional, a insubsistência da multa aplicada no julgamento dos embargos de declaração e que é plenamente válida a cláusula que não previa o procedimento bariátrico.
+Contrarrazões às fls. 635/654 e-STJ.
+Juízo de admissibilidade proferido às fls. 683/700 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que tange à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil, sob o fundamento de que houve omissão do acórdão recorrido, vejo que não prospera o recurso, pois não vejo deficiência de fundamentação alguma no acórdão recorrido quanto às matérias postas pelas partes agravantes.
+O acórdão abordou as questões apresentadas pelas partes de forma suficiente a formar e demonstrar seu convencimento, de modo que não houve violação alguma ao dispositivo do art. 1.022, II, do CPC.
+Ademais, mesmo que, no entendimento das partes agravantes, o acórdão não tenha rebatido cada um dos argumentos de forma individualizada, não há violação ao art. 1022 do CPC/15 e, assim, deficiência de fundamentação, se o que se prolatou foi o suficiente para se decidir de modo integral a controvérsia.
+A Corte estadual concluiu pela caracterização da obesidade mórbida da beneficiária do plano de saúde e pela obrigatoriedade de cobertura do tratamento indicado pelos médicos, assim, coberto o tratamento de saúde, a escolha da técnica a ser utilizada para sua realização cabe ao médico especialista.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE OBESIDADE MÓRBIDA. SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO MÉDICO. INDENIZAÇÃO POR DANO MORAL. REANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME ENTENDIMENTO DODE FATOS E PROVAS. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. TRIBUNAL DE ORIGEM EM HARMONIA COM A ORIENTAÇÃO DESTA CORTE. SÚMULA 83 DOSTJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTOS DOJULGADO. NÃO IMPUGNAÇÃO. SÚMULA 283 DO STF. NÃO PROVIMENTO.
+1. A Corte estadual concluiu pela caracterização da obesidade mórbida da beneficiária do plano de saúde e pela obrigatoriedade de cobertura do tratamento indicado pelos médicos, bem como pela configuração de dano moral indenizável.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. O Tribunal de origem julgou a causa nos moldes da jurisprudência pacífica desta Corte, segundo a qual, coberto o tratamento de saúde, a escolha da técnica a ser utilizada para sua realização cabe ao médico especialista. A cobertura do método selecionado é consectário lógico, não havendo que se restringir o meio adequado à realização do procedimento. Incide, portanto, o enunciado da Súmula 83 do STJ.
+4. A ausência de prequestionamento de dispositivos legais tidos por violados impede o conhecimento do recurso especial. Aplicação das Súmulas nº 282 e 356 do STF.
+5. Os fundamentos do acórdão recorrido não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do STF.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp 1354589/BA, Rel. minha relatoria, QUARTA TURMA, julgado em 23/04/2019, DJe 25/04/2019)"
+Por fim, a respeito da multa aplicada, o Tribunal local entendeu pelo intuito protelatório dos segundos embargos de declaração opostos para declaração de omissão já rejeitada anteriormente, de modo que a alteração dess a conclusão esbarra no óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
