@@ -1,0 +1,39 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fls. 611-612 (e-STJ):
+"O recorrente manejou recurso especial com fundamento no art. 105, III, da Constituição Federal (CF/88)e artigo 1.029 do Código de Processo Civil, contra o Acórdão do EP 25.1, que desproveu o recurso anteriormente interposto, mantendo a sentença de pronúncia.
+No recurso especial do EP 32.1, a defesa requereu, em síntese, a reforma da sentença para desclassificar a conduta da Recorrente para homicídio culposo praticado na direção de veículo automotor, previsto no art. 302 do CTB.
+Nas contrarrazões apresentadas no EP 38.1, o Ministério Público de 2º Grau pugnou pelo não conhecimento do presente Recurso Especial, mantendo-se, pelos seus próprios fundamentos, intacta a r. decisão recorrida.
+O recurso foi inadmitido em decisão monocrática proferida pela Vice-Presidência do E. Tribunal de Justiça do Estado de Roraima(EP 41.1).
+Irresignada, a defesa manejou o agravo do EP 48.1, onde refuta os fundamentos da decisão desfavorável e reitera os argumentos do recurso inadmitido. Ao final, pugnou pela remessa dos autos ao STJ."
+Decido.
+Trata-se de agravo interposto por RANIERY ALMEIDA DE SOUZA contra decisão proferida pelo Vice-Presidente do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, que inadmitiu seu recurso especial com espeque na Súmula 7/STJ (e-STJ fls. 592-593).
+O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, o óbice aplicado na origem foi devidamente rebatido.
+Passo ao exame do recurso especial.
+A recorrente foi pronunciada pela suposta prática dos crimes previstos no art. 121, § 2º, I, c/c o art. 14, II, do Código Penal, e nos arts. 304, 305 e 309 da Lei 9.503/1997 (Código de Trânsito Brasileiro).
+Irresignada, a defesa interpôs recurso em sentido estrito pleiteando desclassificação da conduta em razão da ausência de dolo.
+O Tribunal de origem negou provimento à insurgência (e-STJ fls. 553-559).
+Na análise do caso, saliento, de início, que o princípio da soberania dos veredictos é basilar, de modo que, ausente manifesta ilegalidade, não se pode retirar dos jurados a possibilidade de decidir o caso concreto, de acordo com as provas apresentadas pela acusação e pela defesa.
+À vista disso, não é possível, sob pena de usurpação da competência concedida aos jurados pelo texto constitucional, proceder a uma extensa valoração das provas para aferir se é ou não o caso de desclassificar a conduta ante a suposta ausência de elemento subjetivo.
+Acrescento que n ão cabe ao Superior Tribunal de Justiça reformar ou anular decisão das instâncias ordinárias que foi proferida sob a égide do devido processo legal.
+Sobre o tema, "para af astar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Acrescento, por fim, que "havendo a demonstração de fatos definidores da justa causa, deve ser mantida a pronúncia, não sendo juridicamente viável realizar-se a desclassificação ou despronúncia, que exigiriam certeza jurídica sobre a não ocorrência de animus necandi, nos termos do art. 419 do Código de Processo Penal" (AgRg no HC n. 765.454/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022 e AgRg no HC n. 727.538/AL, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+Nesse sentido a jurisprudência desta Corte de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PRONÚNCIA PELOS HOMICÍDIOS QUALIFICADOS, NA FORMA TENTADA, E PELOS DELITOS CONEXOS DO ART. 330 DO CÓDIGO PENAL E DO ART. 311 DO CÓDIGO DE TRÂNSITO BRASILEIRO. DESPRONÚNCIA PELO TRIBUNAL DE JUSTIÇA POR AUSÊNCIA DE DOLO, AINDA QUE EVENTUAL, DO RÉU. COMPETE AO CONSELHO DE SENTENÇA AFERIR A EXISTÊNCIA OU NÃO DO ELEMENTO SUBJETIVO DO TIPO, SOB PENA DE USURPAÇÃO DE COMPETÊNCIA. RESTABELECIMENTO DA SENTENÇA DE PRONÚNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça está sedimentada no sentido de que " ..  o deslinde da controvérsia sobre o elemento subjetivo do crime, especificamente, se o acusado atuou com dolo eventual ou culpa consciente, fica reservado ao Tribunal do Juri, juiz natural da causa, onde a defesa poderá desenvolver amplamente a tese cont1.240.226/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/10/2015, DJe 26/10/2015).
+2. Comprovada a materialidade do delito e elencados indícios, ainda que mínimos, de autoria, à Corte estadual é vedado analisar o elemento subjetivo do crime, no intuito de despronunciar o Réu, em franca usurpação da competência do Conselho de sentença.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.703.242/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2021, DJe de 24/9/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, a Corte de origem, após a análise acurada dos elementos probatórios, entendeu comprovada a autoria dos agentes e a materialidade do delito.
+2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.
+3. No que diz respeito ao crime continuado, vale salientar que, no caso dos crimes de roubo majorado e latrocínio, sequer é necessário avaliar o requisito subjetivo ou o lapso temporal entre os crimes, porquanto não há atendimento do requisito objetivo da pluralidade de crimes da mesma espécie.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. APLICABILIDADE DA SÚMULA N. 182 DO STJ. REVISÃO CRIMINAL. LATROCÍNIO TENTADO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. SÚMULA N. 7 DO STJ. REDUÇÃO DA PENA. CIRCUNSTÂNCIAS DO CRIME. JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não se conhece de agravo em recurso especial que deixa de atacar, especificamente, todos os fundamentos utilizados pelo Tribunal de origem para negar o processamento do apelo especial (art. 253, parágrafo único, I, do RISTJ).
+(..)
+3. Para afastar a conclusão do acórdão recorrido e decidir pela absolvição do réu ou pela desclassificação da imputação, seria necessário o reexame do material probatório, a fim de averiguar, por exemplo, se o recorrente não agiu com animus necandi, quis participar de crime menos grave ou, mesmo, se assumiu o risco de produzir o resultado morte. Óbice da Súmula n. 7 do STJ.
+4. A exasperação da pena-base do réu está devidamente fundamentada.
+Jurisprudência do Superior Tribunal de Justiça.
+5.Agravo regimental não conhecido. (AgRg no AREsp n. 2.002.317/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 8/3/2022, DJe de 16/3/2022.) (Grifos acrescidos).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+EMENTA
