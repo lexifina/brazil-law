@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Sebastião Reis Júnior.
+Presidiu o julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "ATENAS". ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO PASSIVA. PECULATO. NULIDADE DECORRENTE DE FORO PRIVILEGIADO POR CONEXÃO. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA ORDINÁRIA. PREFEITO QUE NEM SEQUER FIGURA COMO INVESTIGADO NOS FATOS EM APURAÇÃO. FIM DO MANDATO ELETIVO E DO FORO PRIVILEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Extraiu-se dos autos que a Corte de origem não conheceu do writ originário, tendo ressaltado que o ex-prefeito de Naviraí/MS nem sequer figurava na condição de investigado, indiciado e denunciado nos fatos originados da chamada Operação Atenas, que constituíam o objeto da Ação Penal n. 0006140-02.20138.12.0029, na qual constava como denunciado o ora agravante.
+2. A tese defensiva de nulidade absoluta decorrente de foro por prerrogativa de função não foi objeto de análise pelo Tribunal de origem (acórdãos de fls. 342-347 e 385-390), o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Precedentes.
+3. Ainda que fosse comprovado o envolvimento do ex-prefeito de Naviraí/MS nos fatos em apuração, este não foi reeleito, o que coloca fim a qualquer discussão sobre foro privilegiado, tal como destacou a Corte de origem à fl. 347.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCUS DOUGLAS MIRANDA, contra decisão que rejeitou os embargos de declaração no recurso em habeas corpus.
+Consta dos autos que o recorrente foi denunciado, juntamente com mais 17 corréus, por suposto envolvimento na prática dos crimes previstos no art. 1º, §§ 1º e 4º, II, da Lei 12.850/2013; no art. 317, caput, do Código Penal; e no art. 312, caput, do Código Penal, por várias vezes, na forma dos arts. 29 e 69 do Código Penal, cometidos no âmbito do Poder Legislativo Municipal, em Naviraí/MS, na denominada "Operação Atenas".
+Impetrado writ na origem, a 1ª Câmara Criminal do Tribunal de Justiça do Mato Grosso do Sul não conheceu do HC n. 1412987-20.2016.8.12.0000, em acórdão assim ementado (fl. 342):
+"EMENTA - HABEAS CORPUS - OPERAÇÃO ATENAS - AÇÃO PENAL - PRETENSÃO DE FORO PRIVILEGIADO POR CONEXÃO - FALTA DE INTERESSE PROCESSUAL - WRIT NÃO CONHECIDO.
+Não se conhece, por falta de interesse processual, habeas corpus onde se pretende o reconhecimento de foro privilegiado por conexão, uma vez que o atual Prefeito de Naviraí-MS, que não foi reeleito, jamais teve a condição de investigado, indiciado denunciado ou réu dos fatos originados da Operação Atenas".
+Opostos embargos de declaração, estes foram rejeitados, nos termos da seguinte ementa (fl. 385):
+"EMENTA - EMBARGOS DE DECLARAÇÃO - ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE - VÍCIOS INEXISTENTES - MERO INCONFORMISMO - EMBARGOS REJEITADOS".
+Daí a interposição de recurso em habeas corpus, no qual a defesa insistiu na alegação de nulidade absoluta do processo por incompetência do juízo, em razão do suposto foro privilegiado por conexão com o Prefeito Municipal.
+O Ministério Público Federal opinou pelo desprovimento do recurso, nos termos da seguinte ementa (fl. 507):
+"Processo Penal. Habeas corpus. Acórdão de TJ que manteve indeferimento do reconhecimento da competência por prerrogativa de função.
+1. Não há entre os acusados quem detenha prerrogativa de função, pelo que é de se rejeitar a competência originária do TJ local. 2. Pelo improvimento".
+Na sequência, o recurso em habeas corpus não foi conhecido (fls. 511-515).
+Daí a oposição dos embargos de declaração, nos quais a defesa reiterou os termos da inicial e sustentou a existência de contradição no r. decisum porque, "muito embora o Tribunal de origem (TJMS) não tenha conhecido do habeas corpus, o mesmo apreciou o mérito recursal, não havendo o que se falar em supressão de instância" (fl. 522).
+Afirmou que "a fundamentação para o não conhecimento do habeas corpus se deu por apreciação do WRIT e não por falta de pressuposto processual" (fl. 523).
+Alegou, ademais, a ocorrência de omissão na apreciação dos fatos trazidos a respeito "das alegações e comprovações de que o Prefeito foi sim investigado em conjunto com os vereadores, tanto que constaram perguntas investigativas na data da oitiva na deflagração da operação a todos os acusados, bem como até mesmo no conteúdo da delação premiada de Carlos Brito de Oliveira, constam fatos relacionados ao Prefeito" (fl. 525).
+Requereu o provimento dos embargos para que fossem sanados os vícios apontados.
+Na sequência, os embargos de declaração foram rejeitados (fls. 532-537).
+Daí a interposição do presente agravo regimental, no qual a defesa reitera os termos da inicial e alega que o mérito recursal foi apreciado pelo Tribunal de origem, não havendo que se falar em supressão de instância.
+Aduz que "que o então Prefeito Leandro Peres de Matos fora réu de ação penal que tramita na Vara Criminal de Naviraí - MS, sob o nº 0800198-14.2017.8.12.0029, sendo que na respectiva ação fora acostadas provas colhidas na investigação Atenas, ou seja, sendo investigado tanto o Prefeito quanto os vereadores, havendo portanto conexão" (fl. 547).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+O Ministério Público do Estado de Mato Grosso do Sul apresentou impugnação ao agravo regimental (fls. 557-567).
+O Ministério Público Federal se manifestou pelo desprovimento do agravo (fls. 578-582).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "ATENAS". ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO PASSIVA. PECULATO. NULIDADE DECORRENTE DE FORO PRIVILEGIADO POR CONEXÃO. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA ORDINÁRIA. PREFEITO QUE NEM SEQUER FIGURA COMO INVESTIGADO NOS FATOS EM APURAÇÃO. FIM DO MANDATO ELETIVO E DO FORO PRIVILEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Extraiu-se dos autos que a Corte de origem não conheceu do writ originário, tendo ressaltado que o ex-prefeito de Naviraí/MS nem sequer figurava na condição de investigado, indiciado e denunciado nos fatos originados da chamada Operação Atenas, que constituíam o objeto da Ação Penal n. 0006140-02.20138.12.0029, na qual constava como denunciado o ora agravante.
+2. A tese defensiva de nulidade absoluta decorrente de foro por prerrogativa de função não foi objeto de análise pelo Tribunal de origem (acórdãos de fls. 342-347 e 385-390), o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Precedentes.
+3. Ainda que fosse comprovado o envolvimento do ex-prefeito de Naviraí/MS nos fatos em apuração, este não foi reeleito, o que coloca fim a qualquer discussão sobre foro privilegiado, tal como destacou a Corte de origem à fl. 347.
+4. Agravo regimental desprovido.
+VOTO
+Consoante relatado, requer a defesa a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+A decisão que rejeitou os embargos de declaração no recurso em habeas corpus foi assim fundamentada (fls. 536-537):
+"Pois bem. Os embargos declaratórios, como é cediço, consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade ou contradição, além de se prestar à correção de erro material, a teor do que dispõe o art. 619 do Código de Processo Penal.
+Tais condições, contudo, não se revelam presentes. No caso, diante do não conhecimento do writ pelo Tribunal de origem, como dito e agora redito, inviabilizado se afigura, por força do art. 105, II, a, da Constituição Federal de 1988, o cabimento da interposição recursal. Com efeito, a despeito do argumento apontado pelo embargante no tocante à contradição, oportuno registrar que, na verdade, por ocasião do entendimento pelo não conhecimento do presente recurso ante a total falta de interesse processual na propositura, o que fez a Corte de origem foi simplesmente delinear o contorno desse não cabimento, ressaltando, por consequência, que o prefeito de Naviraí/MS não figurava na condição de investigado, indiciado e denunciado nos fatos originados da chamada Operação Atenas que constituíam o objeto da Ação Penal n. 0006140-02.20138.12.0029, na qual constava como denunciado o ora embargante; logo, diversamente do alegado pelo embargante, não houve o exame de mérito da matéria, já que a motivação do pedido lá apresentado investira-se quanto ao reconhecimento da nulidade absoluta, ante o foro privilegiado por conexão.
+Relativamente à suposta omissão, percebe-se, pois, que o embargante se limita a manifestar o seu inconformismo quanto à solução alcançada no acórdão hostilizado, cingindo-se a repetir os argumentos da inicial, revestindo-se a pretensão, portanto, de caráter nitidamente infringente, o que não se coaduna com o escopo da medida integrativa. A propósito: EDcl no AgInt no HC n. 369.018/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/12/2016.
+Ausentes os pressupostos específicos de seu cabimento, rejeito os embargos de declaração".
+A despeito das alegações defensivas, a decisão deve ser mantida por seus próprios fundamentos, ainda que não se desconheça a complexidade e a relevância da questão tratada nestes autos.
+Extraiu-se dos autos que a Corte de origem não conheceu do writ originário, tendo ressaltado que o prefeito de Naviraí/MS não figurava na condição de investigado, indiciado e denunciado nos fatos originados da chamada Operação Atenas que constituíam o objeto da Ação Penal n. 0006140-02.20138.12.0029, na qual constava como denunciado o ora agravante.
+Nesse contexto, verificou-se que o Tribunal a quo não apreciou a possibilidade de haver foro privilegiado por conexão, pois referido Prefeito nem sequer figurou como investigado, indiciado ou denunciado nos fatos pelos quais o agravante foi denunciado.
+Portanto, a tese defensiva de nulidade absoluta decorrente de foro por prerrogativa de função não foi objeto de análise pelo Tribunal de origem (acórdãos de fls. 342-347 e 385-390), o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018.
+Cumpre ressaltar que, ainda que fosse comprovado o envolvimento do referido Prefeito nos fatos em apuração, este não foi reeleito, o que coloca fim a qualquer discussão sobre foro privilegiado, tal como destacou a Corte de origem à fl. 347.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
