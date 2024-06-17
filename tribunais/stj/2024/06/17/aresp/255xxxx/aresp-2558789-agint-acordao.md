@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. INTERNAÇÃO DOMICILIAR. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. INTERNAÇÃO DOMICILIAR SUBSTITUTIVA DA INTERNAÇÃO HOSPITALAR. RECUSA INDEVIDA.
+1. Ação de obrigação de fazer c/c danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. É abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+5. Agravo interno desprovido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por SANTA HELENA ASSISTÊNCIA MÉDICA S/A contra decisão que conheceu do agravo para dar parcial provimento ao recurso especial.
+Ação: de obrigação de fazer c/c danos morais ajuizada por ELBIO MODOLO FILHO em face da agravante visando a cobertura de internação domiciliar no tratamento de AVC hemorrágico e suas sequelas.
+Sentença: julgou procedente a demanda para determinar o custeio dos tratamentos prescritos e o pagamento de compensação por danos morais no valor de R$ 5.000,00 (cinco mil reais).
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+Apelação - Plano de saúde - Beneficiário acometido por acidente vascular cerebral hemorrágico - Precedentes desta c. 7ª Câmara sobre tratamentos pretendidos - Médico assistente dirige tratamento, não operadora (art. 12 da Lei nº 9.656/1998 e jurisprudência) - Atenção ao art. 10, §§ 12º e 13º, da recém-publicada Lei nº 14.454/2022, que alterou a Lei nº 9.656/1998 - Laudo pericial que embasa o presente entendimento- Recusado tratamento que enseja indenização por danos morais - Indenização fixada abaixo do que esta C. Câmara entende como devido em casos similares, mas que não será alterada para que não ocorra "reformatio in pejus" - Honorários advocatícios de sucumbência bem fixados - Sentença mantida - Recurso improvido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 do CPC, 12, VI, da Lei 9656/98 e 186, 421, 421-A e 927 do CC. Além de negativa de prestação jurisdicional, sustenta a impossibilidade de custeio integral de tratamento fora da rede credenciada. Aduz que eventual reembolso, nos casos em que impossível a utilização de rede credenciada, deve se limitar à tabela contratual. Aponta, ainda, a ausência de configuração de danos morais.
+Decisão unipessoal: conheceu do agravo para dar parcial provimento ao recurso especial determinando o retorno dos autos à origem para avaliação da efetiva ocorrência de danos morais. Negou provimento quanto à insurgência contra a obrigatoriedade de cobertura de internação domiciliar e contra o reembolso integral, além de afastar a alegada ofensa ao art. 1022 do CPC
+Agravo interno: a parte agravante reitera a alegada violação do art. 1022 do CPC, pois o acórdão não teria analisado a impossibilidade de custeio do tratamento domiciliar realizado por equipe fora da rede credenciada. Defende a inaplicabilidade da Súmula 568/STJ, pois diante da jurisprudência pacificada deste Superior Tribunal a respeito da natureza taxativa do rol da ANS, não se pode manter a cobertura de tratamento domiciliar não incluído no referido rol.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. INTERNAÇÃO DOMICILIAR. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. INTERNAÇÃO DOMICILIAR SUBSTITUTIVA DA INTERNAÇÃO HOSPITALAR. RECUSA INDEVIDA.
+1. Ação de obrigação de fazer c/c danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. É abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+5. Agravo interno desprovido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para dar parcial provimento ao recurso especial, nos seguintes termos (e-STJ fls. 1047/1054):
+Examina-se agravo em recurso especial interposto por SANTA HELENA ASSISTÊNCIA MÉDICA S/A contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional
+Agravo em recurso especial interposto em: 05/09/2023.
+Concluso ao gabinete em: 11/03/2024.
+Ação: de obrigação de fazer c/c danos morais ajuizada por ELBIO MODOLO FILHO em face da agravante visando a cobertura de internação domiciliar no tratamento de AVC hemorrágico e suas sequelas.
+Sentença: julgou procedente a demanda para determinar o custeio dos tratamentos prescritos e o pagamento de compensação por danos morais no valor de R$ 5.000,00 (cinco mil reais).
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+Apelação - Plano de saúde - Beneficiário acometido por acidente vascular cerebral hemorrágico - Precedentes desta c. 7ª Câmara sobre tratamentos pretendidos - Médico assistente dirige tratamento, não operadora (art. 12 da Lei nº 9.656/1998 e jurisprudência) - Atenção ao art. 10, §§ 12º e 13º, da recém-publicada Lei nº 14.454/2022, que alterou a Lei nº 9.656/1998 - Laudo pericial que embasa o presente entendimento- Recusado tratamento que enseja indenização por danos morais - Indenização fixada abaixo do que esta C. Câmara entende como devido em casos similares, mas que não será alterada para que não ocorra "reformatio in pejus" - Honorários advocatícios de sucumbência bem fixados - Sentença mantida - Recurso improvido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 do CPC, 12, VI, da Lei 9656/98 e 186, 421, 421-A e 927 do CC. Além de negativa de prestação jurisdicional, sustenta a impossibilidade de custeio integral de tratamento fora da rede credenciada. Aduz que eventual reembolso, nos casos em que impossível a utilização de rede credenciada, deve se limitar à tabela contratual. Aponta, ainda, a ausência de configuração de danos morais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da necessidade de obrigatoriedade de cobertura de internação domiciliar, substituta da internação hospitalar, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da obrigação de a operadora custear/ reembolsar o tratamento domiciliar
+Esta Corte Superior de Justiça tem entendido que a internação domiciliar, quando em substituição à hospitalar, deve ser coberta, independentemente da discussão a respeito da natureza do rol da ANS, sob pena de configuração de abusividade.
+É esta a interpretação dada pela jurisprudência desta Corte Superior de Justiça que firmou o entendimento de que "o serviço de home care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde e ainda que, na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor" (REsp 1.378.707/RJ, Terceira Turma, DJe 15/6/2015). Nesse mesmo sentido: AgInt no REsp 2007684/MS, 3ª Turma, DJe 19/04/2023; e AgInt no AREsp 2228551/SP, 4ª Turma, DJe 10/04/2023.
+Tendo a obrigatoriedade de custeio da internação domiciliar como premissa, de modo que é abusiva a recusa de cobertura, tem-se que embora a Segunda Seção tenha decidido que o reembolso de despesas realizadas fora da rede credenciada "pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, julgado em 14/10/2020, DJe de 17/12/2020), hipóteses em que o reembolso deve estar limitado aos preços e às tabelas efetivamente contratados com o plano de saúde, a Terceira Turma realizou importante distinção.
+É que, nas situações em que se caracteriza a inexecução do contrato pela operadora, causadora de danos materiais ao beneficiário, há a configuração de danos materiais ao beneficiário, a ensejar o direito ao reembolso integral das despesas realizadas por este; vejamos:
+(..)
+Tem-se que o caso dos autos não se refere a pedido de reembolso de despesa médica realizada fora da rede credenciada por escolha do beneficiário, no qual não se teria direito ao reembolso. Como restou delineado no acórdão recorrido, o caso é de verdadeiro inadimplemento contratual, no qual o plano de saúde olvidou-se na cobertura de tratamento obrigatório.
+O reembolso perquirido, no caso, tem a natureza de indenização por danos materiais, não se limitando aos preços praticados pelo plano de saúde, portanto. Não é outro o entendimento da Quarta Turma deste Sodalício, como se vê dos seguintes julgados:
+(..)
+Assim, não merece reforma o acórdão recorrido, nos termos da Súmula 568/STJ.
+- Dos danos morais
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp n. 2.058.088/SP, 3ª Turma, DJe de 24/5/2023 e AgInt no REsp n. 1.979.613/SP, 4ª Turma, DJe de 1/9/2023.
+Na hipótese, a sentença condenou a agravante no pagamento de compensação por danos morais, considerando que a recusa indevida de cobertura de tratamento médico configura dano moral in re ipsa.
+O acórdão que confirmou a sentença, manteve o posicionamento quanto à experimentação de agravamento da situação psicológica do paciente, de modo que a manutenção da condenação no pagamento de compensação por danos morais restou prejudicada.
+Desse modo, a presente demanda merece reanálise quanto à efetiva ocorrência de danos morais, a partir do entendimento fixado na jurisprudência desta Corte Superior de Justiça.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, apenas para determinar a devolução dos autos à origem, para que examine as condições específicas do caso concreto a fim de se verificar a presença dos danos morais na hipótese dos autos.
+Da análise das razões deduzidas neste agravo interno, verifica-se que a parte agravante reitera a apontada negativa de prestação jurisdicional e insurge-se contra a aplicação da Súmula 568/STJ no que se refere ao tema da obrigatoriedade de cobertura de tratamento domiciliar. Nada disse a respeito da aplicação da Súmula 568/STJ quanto ao reembolso integral determinado.
+Ressalte-se o entendimento da Corte Especial deste Tribunal (EREsp 1424404/SP, Corte Especial, DJe 17/11/2021), de que "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ", bem como de que seria "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial".
+Assim, passo a análise dos capítulos autônomos impugnados.
+De início, quanto à alegada negativa de prestação jurisdicional, tem-se que a Corte de origem decidiu integralmente a respeito tanto da obrigatoriedade de cobertura da internação domiciliar em substituição da internação hospitalar, quanto da necessidade de atendimento particular procurado pela família ante a indevida negativa de cobertura da operadora. Não se verifica, portanto, omissão alguma a ser sanada.
+No que concerne à necessidade de cobertura do tratamento domiciliar, a Corte de origem afirmou a necessidade da internação domiciliar, como se verifica do seguinte trecho:
+Por fim, o laudo técnico deixou claro que, ao contrário do entendimento da Apelante, a parte Autora Apelada necessitava de cuidados especiais e não apenas de um "cuidador", nos seguintes termos:"..cuidados com visita periódica de equipe multidisciplinar (fisioterapia, fonoaudiologia, avaliação médica e enfermeira visitadora), comprovados nos documentos de prontuário de Atenção Domiciliar."(fl. 969, e-STJ).
+E como bem destacado na decisão ora atacada, é assente na jurisprudência deste Superior Tribunal que, independentemente da natureza do rol da ANS, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, sendo exatamente este o caso dos autos.
+A propósito os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. JULGAMENTO ULTRA PETITA. NÃO CONFIGURAÇÃO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO. HOME CARE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022, II, do Código de Processo Civil de 2015.
+2. É abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+3."Conforme entendimento consolidado neste Tribunal, não configura julgamento ultra ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial" (AgInt no REsp n. 1.829.793/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/10/2019, DJe de 23/10/2019.) 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.322.301/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. HOME CARE. NEGATIVA DE COBERTURA. ANS. ROL. MITIGAÇÃO. HIPÓTESES. DANOS MORAIS. CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A discussão dos autos gira em torno da natureza do Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela Agência Nacional de Saúde Suplementar (ANS), se exemplificativo ou taxativo.
+2. A Segunda Seção do Superior Tribunal de Justiça uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios. Precedente.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, quando o conjunto de atividades prestadas em domicílio é caracterizado pela atenção em tempo integral ao paciente com quadro clínico mais complexo e com necessidade de tecnologia especializada. Precedentes.
+Súmula nº 568/STJ.
+4. Na hipótese, rever a conclusão da Corte de origem quanto à imprescindibilidade do tratamento home care exigiria o reexame de fatos e provas dos autos, o que esbarra na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.390.930/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023.)
+Assim, a decisão agravada deve ser mantida por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
