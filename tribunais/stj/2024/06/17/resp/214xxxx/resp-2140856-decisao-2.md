@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por UNIGAL LTDA., fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 1489, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS - CONTRATO DE PRESTAÇAO DE SERVIÇOS - ABRANGÊNCIA - QUANTIAS - RECURSO PROVIDO A situação deve ser analisada como um todo, isto é, o contrato, a prestação de serviço, a efetiva atuação do procurador e seus desdobramentos. O contrato como firmado não fornece supedâneo para a cobrança dos honorários advocatícios pretendidos, nos termos delineados na peça de ingresso. Isso porque não apresenta qual seria sua abrangência e, ainda, o pretenso aditivo contratual não tem anuência formal da empresa ré. Não foi visualizada a necessária transparência por parte dos autores com a empresa que contratou os serviços advocatícios. Não se mostra plausível o recebimento de quantias referentes a processos extrajudiciais nos quais não houve atuação do advogado que firmou o contrato original de prestação de serviço.
+Os embargos de declaração opostos pela ora recorrente foram rejeitados (fls. 1552-1554, e-STJ).
+Nas razões do recurso especial (fls. 1740-1753, e-STJ), a parte recorrente apontou, além de divergência jurisprudencial, violação aos artigos 1.022, II e 85, §§ 2º e 11º, do CPC. Sustentou, em síntese: i) o juízo a quo não enfrentou os fundamentos apresentados para majoração dos honorários advocatícios em grau recursal; ii) a necessidade de majoração de honorários recursais no caso de recurso provido, uma vez que a recorrente foi bem sucedida em seu recurso.
+Contrarrazões apresentada às fls. 1770-1773, e-STJ.
+Admitido o recurso na origem, ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca do cabimento da majoração de honorários recursais, com amparo no art. 85, § 11, do CPC, na hipótese sub judice.
+No particular, a Corte local assim decidiu:
+Analisando detidamente os autos, verifico que não assiste razão à embargante, pois o acordão embargado foi claro em sua fundamentação, não tendo sido omisso, contraditório ou obscuro quanto a nenhum questionamento ou alegação das partes.
+Na hipótese, não se implementaram as hipóteses de majoração dos honorários, prevista no artigo 85 do CPC, e, por isso, não há falar em alteração do julgado. (fl. 1553, e-STJ)  grifou-se
+De início, não há falar em negativa de prestação jurisdicional e ofensa ao art. 1022 do CPC, uma vez que, embora não tenha acolhido a tese da insurgente, o julgador se pronunciou a respeito, concluindo que, no caso, não estão presentes as hipóteses de majoração dos honorários prevista no art. 85, § 11, do CPC.
+Ademais, por ocasião do julgamento da apelação, verifica-se que o Tribunal a quo deu provimento ao recurso interposto por UNIGAL LTDA, reformando a sentença para julgar improcedentes os pedidos iniciais e, por conseguinte, inverteu os ônus sucumbenciais (fl. 1493, e-STJ).
+A referida conclusão do julgador está amparada no entendimento desta Corte acerca da matéria, segundo a qual haverá majoração da verba honorária somente quando o recurso for não conhecido ou desprovido.
+A Corte Especial, ao interpretar o art. 85 do CPC, firmou o seguinte entendimento:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃO PROVIDO.  ..  5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.  ..  14. Agravo Interno não provido. (AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 07/03/2019)  grifou-se
+Ainda, no mesmo sentido: AgInt no Ag no REsp 1897086/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/04/2021, DJe 22/04/2021; EDcl no AgInt no AREsp 1651016/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.
+No caso ora em exame, revela-se incabível, portanto, a majoração de honorários advocatícios, na forma do artigo 85, § 11, do CPC/15, haja vista que o recurso de apelação fora provido pelo órgão colegiado (fl. 1493, e-STJ).
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao recurso especial interposto por UNIGAL LTDA.
+Publique-se.
+Intimem-se.
+EMENTA
