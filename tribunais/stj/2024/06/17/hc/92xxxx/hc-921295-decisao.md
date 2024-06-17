@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ , impetrado em benefício de MANOEL CARDOSO DA MOTA - condenado, ao lado de outros, pela prática do crime do art. 157, § 2º, II, e § 2º-A, I, do Código Penal, por oito vezes, observado o concurso formal de crimes, ao cumprimento de 33 anos e 4 meses de reclusão, em regime inicial fechado, mais o pagamento de 82 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 1509879-06.2021.8.26.0071), não comporta processamento.
+Com efeito, busca a impetração o reconhecimento da nulidade da prova - em vista da ilicitude das interceptações telefônicas - e da sua fragilidade para comprovação da autoria do paciente; ou a revisão da pena aplicada, com a readequação do aumento feito na primeira fase e o afastamento da agravante do art. 62, I, do Código Penal.
+Ocorre que, em consulta à página eletrônica do Tribunal a quo, verifiquei que o habeas corpus foi impetrado concomitantemente à interposição de recurso especial, a evidenciar ofensa ao princípio da unirrecorribilidade e utilização abusiva da via eleita, o que torna inadmissível o conhecimento dos pedidos.
+Ademais, não se percebe a ocorrên cia de constrangimento ilegal manifesto, considerando-se a inviabilidade de aprofundado reexame de provas - muitas das quais nem sequer constam destes autos - para rever as conclusões da Corte estadual quanto à regularidade e suficiência do material que amparou a condenação; e a inexistência de flagrante desproporcionalidade na fixação da pena-base em 4 anos acima do mínimo legal pela valoração negativa de três circunstâncias judiciais: consequências do crime, circunstâncias do crime e maus antecedentes (múltiplos processos).
+Pelo exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE ROUBO MAJORADO (POR OITO VEZES). NULIDADE DA PROVA OU REVISÃO DA DOSIMETRIA. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO DO TRIBUNAL A QUO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
