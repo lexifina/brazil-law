@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por DEA MARIA DE LIMA CARVALHO contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 2398):
+AÇÃO DE EXIGIR CONTAS - Segunda fase Partes condôminas de bem imóvel rural - Contas prestadas pelo autor julgadas parcialmente boas - Impugnação específica pela ré quanto às despesas apontadas pelo autor Despesas com a conservação e manutenção do imóvel que são de responsabilidade de ambos os proprietários, independentemente de ocupação, devendo o autor ser ressarcido de metade de referidas despesas - Aquisição de bens pela ré e alegada subtração de outros bens por parte do autor que deverão ser objeto em ação própria Despesas com obras, reformas, funcionários e animais que se mostraram excessivas e sem autorização prévia, não comportando integral ressarcimento Sentença confirmada - Aplicação do disposto no artigo 252 do Regimento Interno do Tribunal de Justiça - RECURSOS NÃO PROVIDOS.
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, a recorrente alega violação ao art. 551, § 2º, do Código de Processo Civil, sustentando, em síntese, que a) as contas do agravado devem ser rejeitadas; b) o agravado deverá arcar exclusivamente com os gastos inerentes à criação de gado; c) o percentual de manutenção do imóvel deve ser proporcional à ocupação; d) a sentença deve ser complementada quanto à necessidade de os valores dos bens subtraídos pelo agravado serem abatidos do eventual crédito quando da liquidação da sentença; e) os valores despendidos com a aquisição dos móveis e objetos que guarnecem o sítio seriam de R$ 150.000,00.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, em decisão singular proferida nestes autos, manifestei o entendimento de que a controvérsia deverá ser melhor analisada, dando parcial provimento ao recurso especial para anular os acórdãos que julgaram os embargos de declaração e determinar que a Corte local, em nova manifestação, pronuncie-se sobre as omissões suscitadas pelo ora agravado em seu recurso.
+Fica prejudicado, portanto, o presente recurso.
+Intimem-se.
+EMENTA
