@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS E RAZÕES RECURSAIS DISSOCIADAS DE SEUS FUNDAMENTOS. SÚMULAS N. 283 E 284 DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de combate a fundamentos suficientes para manter o acórdão recorrido - estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem - justifica a aplicação, por analogia, das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo ESTADO DO PIAUÍ contra decisão da Presidência dessa Corte que conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula n. 284/STF.
+A parte agravante alega que (f. 304-305):
+ ..
+Ocorre que o Estado do Piauí não alegou violação do artigo 35 da Lei n. 8.987/95, e sim, dos artigos 14 e 40, da referida Lei.
+No presente caso, o agravado, que é proprietário de veículo tipo van, adquirida com o objetivo de prestar serviço de transporte alternativo de passageiros entre os Municípios de Teresina e Buriti dos Montes, ambos no Piauí, solicitou, administrativamente, permissão para realização do referido serviço público, em caráter provisório, o que foi negado por dois motivos: alinha solicitada encontrava-se fora dos parâmetros regionais; e porque o edital de licitação referente ao serviço estaria em vigor.
+Medida cautelar mantida pelo acórdão recorrido, fundamentou-se, como se vê no trecho citado da decisão agravada, na constatação da importância do serviço público buscado, no fato de que o atual estágio do processo licitatório não mais permitiria o ingresso do agravado no certame, e na alegação de que não existiria nenhum permissionário fazendo a linha de transporte requerida.
+Em seu recurso especial, o Estado do Piauí explicou que os artigos 2º, inciso IV, 14, e 40, todos da Lei n. 8.987/95, preveem que a permissão da prestação do serviço público em debate só pode ocorrer por meio de licitação, de modo que cabe ao agravado respeitar as normas de concorrência características dos contratos administrativos, bem como as normas pertinentes aos contratos com a Administração Pública e à estrita legalidade, de modo que o Tribunal a quo, ao afastar de forma arbitrária tais regulamentos, obrigou o ente público a buscar socorro neste Tribunal Superior.
+Assim sendo, tendo indicado precisamente os dispositivos que contém as normas violadas pelo acórdão recorrido, tendo demonstrado a forma como a violação se deu, de forma que a controvérsia pode ser compreendida em sua exatidão, sem necessidade de qualquer esforço adicional, não há falar em incidência do entendimento da Súmula n. 284 do STF neste caso.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS E RAZÕES RECURSAIS DISSOCIADAS DE SEUS FUNDAMENTOS. SÚMULAS N. 283 E 284 DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de combate a fundamentos suficientes para manter o acórdão recorrido - estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem - justifica a aplicação, por analogia, das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, como bem salientado pela decisão agravada, o voto condutor do acórdão recorrido consignou o seguinte (f. 241-243):
+Quanto ao mérito, verifica-se que o requerente chegou a formalizar o pedido de autorização provisória para realizar o serviço de transporte alternativo de passageiros no trecho rodoviário em comento, porém o requerido indeferiu o seu pleito. Pleito esse, que é de toda comunidade de Buriti dos Montes.
+É importante ressaltar que o procedimento licitatório encontra-se suspenso e não existe nenhum permissionário fazendo a linha de transporte de Teresina para Buriti dos Montes. O autor encontra-se fazendo essa linha e presta dessa forma, um grande serviço para a população. Assim, o Poder Público não realizou o processo licitatório e sua omissão a prejudicando toda a população de Buriti dos Montes.
+Percebe-se na causa em questão, de um lado, o interesse social, referente à necessidade que a população tem dos serviços de transporte, do outro lado, o princípio da legalidade, contido no fato de que só a Administração Pública pode delegar o exercício do referido serviço.
+Compulsando-se os autos, verifica- se que a última licitação aberta, foi prorrogada por mais cinco anos, conforme Decreto Estadual n º 12.464/2006, fls. 52/53, impedindo o ingresso de outros interessados no processo licitatório. Ressalte-se que até hoje, não existe nenhum permissionário prestando o serviço de transporte na referida linha!!.
+Assim, percebe-se que há uma flagrante omissão por parte do Estado do Piauí na permissão dos serviços públicos, o que resulta em prejuízo para toda comunidade e também para aqueles que desejam explorar os serviços de transporte público.
+Colaciono abaixo, jurisprudência que se amolda ao presente caso:
+OMISSÃO DA ADMINISTRAÇÃO PÚBLICA. ABUSO DE PODER.
+1. Se não é oportuno ou conveniente à administração delegar ao particular a execução do serviço de transporte de passageiros, deve ela própria executá-lo (art. 21. xii. e art. 175 ClF)
+2 A inércia da administração, retardando ato ou fato que deva praticar, é abuso de poder, configurando omissão administrativa que enseja correção judicial. - em face do interesse social do transporte coletivo, resguarda-se a prestação factual do serviço público por particular, ainda que sem licitação, ate que a administração promova o procedimento seletivo
+APELAÇÃO E REMESSA OFICIAL I MPROVIDAS (TRF5 - Apelação Civel: AC 83276 CE 95:05.18878-1, Relator(a): Desembargador Federal Francisco Falcão, Julgamento: 10/0411996,)
+Assim, por todo o exposto, em virtude da omissão da Administração em relação ao interesse social do transporte coletivo, entendo como correta a decisão do juiz de 1º grau, que concedeu ao autor, de forma provisória e excepcional, a prestação do serviço de transporte coletivo de passageiros de Teresina para Buriti dos Montes, em caráter precário, sem licitação, até que seja realizado o procedimento licitatório para a referida linha. (grifei)
+Ocorre que a parte recorrente não impugna, especificamente, a referida fundamentação nas razões do recurso especial - estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem - que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso as Súmulas 283 e 284/STF, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DISCURSÃO SOBRE MATÉRIA TRIBUTÁRIA. LEGITIMIDADE ATIVA DO PARQUET. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO E RAZÕES RECURSAIS DISSOCIADAS DE SEUS FUNDAMENTOS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 283 E 284/STF. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o recorrente deixou de impugnar o fundamento autônomo do acórdão recorrido, estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do STF.
+3. Depreende-se do julgado que o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia acerca da natureza da cobrança efetivada pela autarquia se deu à luz do art. 5º, incisos X, XIV e XXXIV, b, da Constituição Federal. Ocorre que o recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.050.268/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.) (grifei)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL COLETIVO. ILEGITIMIDADE ATIVA AFASTADA, PELO TRIBUNAL LOCAL. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+III. Agravo interno improvido
+(AgInt no AREsp n. 2.289.732/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 14/08/2023, DJe de 21/08/2023.) (grifei)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
