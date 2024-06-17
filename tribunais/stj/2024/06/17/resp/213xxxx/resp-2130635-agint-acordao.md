@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por VALE VERDE EMPREENDIMENTOS AGRICOLAS LTDA. - EM RECUPERACAO J UDICIAL para desafiar decisão proferida às e-STJ fls. 637/645, em que não conheci do recurso especial, em face da ausência de oposição de embargos de declaração na Corte de origem e de indicação de violação do art. 1.022 do CPC/2015 para reconhecer vício de integração e incidência das Súmulas 282 e 284 do STF e das Súmulas 7, 83, 518 do STJ.
+Nas razões do agravo interno, a parte insurgente reitera as razões do recurso especial e afirma que demonstrou que o acórdão do Tribunal de origem diverge da jurisprudência desta Corte Superior, quanto à impossibilidade de atos de constrição contra empresa em recuperação judicial e a realização de atos de execução apenas pelo juízo universal, o que afasta o óbice da Súmula 83 do STJ.
+Afirma que a matéria é exclusivamente de direito e a questão trazida na exceção de pré-executividade exige apenas a análise do processo administrativo já acostado aos autos, não pretendendo a produção de provas, mas, em verdade, o reconhecimento de vício pelo cabimento da exceção, no caso, determinando-se a devolução dos autos ao juízo de origem para que se manifeste sobre as matérias veiculadas.
+Requer, ao final, a reconsideração da decisão recorrida ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 666/675.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1 .424.404/SP (Rel. Ministra Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/1 1/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, na decisão ora recorrida, o recurso especial não foi conhecido, havendo os seguintes capítulos autônomos:
+a) é inviável o conhecimento de eventual contrariedade da Súmula 480 do STJ em recurso especial interposto com base na art. 105, III, "a", da Constituição Federal, por não se enquadrar no conceito de lei federal (Súmula 518 do STJ), ou a devolução dos autos para verificação ao referido enunciado sumular por vício de integração, uma vez que não foram opostos embargos de declaração no Tribunal de origem, tampouco indicada violação do art. 1.022 do CPC/2015;
+b) as teses de primazia de decisão de mérito e possibilidade de apreciação de exceção de pré-executividade encontram óbice nas Súmulas 284 do STF e 7 do STJ, pois não se especificou como o art. 926 do CPC/2015 teria sido contrariado e os demais dispositivos apontados como violados no ponto (arts. 4º e 6º, do CPC/2015) não possuem comando normativo suficiente para afastar as conclusões do acórdão combatido, além de exigir a revisão fático-probatória para desconstituir a conclusão do Tribunal;
+c) o art. 46 da Lei n. 11.101/2005, tem comando normativo dissociado da tese a ele associada (inexistência de modalidade de parcelamento específico a devedores em recuperação judicial que atenda ao princípio da preservação da empresa) e referida questão não foi apreciada pela Corte de origem, atraindo as Súmulas 284 e 282 do STF;
+d) a questão quando ao art. 6º, § 7º-B, da Lei n. 11.101/2005 está em consonância com a jurisprudência mais recente do STJ (Súmula 83 do STJ).
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente todos os fundamentos dos capítulos autônomos decisão agravada.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Quanto ao primeiro capítulo, não houve impugnação a alegação de impossibilidade de conhecimento de violação de enunciado sumular em recurso especial interposto com base na alínea "a" do permissivo constitucional.
+Também não ocorreu o combate claro, direito e específico aos fundamentos que levaram a incidência da Súmula 284 do STF no segundo e no terceiro capítulos autônomos, limitando a parte insurgente a alegar, genericamente, que "demonstrou pontualmente a violação dos arts. 4º, 6º e 926 do CPC/2015, do art. 46 da Lei n. 11.101/2005 (violação ao princípio da preservação da empresa), do art.6º, §7º-B, da LRF (menor onerosidade do executado), de modo que a matéria devolvida a este E. STJ trata de ofensa à norma federal" (e-STJ fl. 652).
+Registre-se, ainda, em relação ao terceiro capítulo autônomo, que a parte não trouxe nenhum argumento para afastar a conclusão da decisão agravada de ausência de prequestionamento, limitando-se a repetir os argumentos do recurso especial de que inexiste parcelamento específico para os devedores em recuperação judicial que atenda ao princípio da preservação da empresa.
+Relativamente ao último capítulo autônomo, há de ser consignado não ser suficiente mera citação de precedente no sentido da pretensão do agravante para fins de rebatimento do referido enunciado, que dispõe que "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida". Antes, deve o agravante contrapor frontalmente esse fundamento.
+Inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Com efeito, no ponto, a parte agravante limitou-se a afirmar que "não há que se admitir também o argumento de que o conhecimento do recurso também encontra óbice na Súmula 83 do STJ, pois o acórdão recorrido reflete pacífica orientação jurisprudencial deste STJ" (e-STJ fl. 653) e, mais adiante, reiterar as razões o apelo nobre.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, §1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+E como voto.
