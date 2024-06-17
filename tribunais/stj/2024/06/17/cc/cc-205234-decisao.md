@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Tribunal Regional do Trabalho da 2ª Região (suscitante) e a Quarta Turma do Colégio Recursal Central de São Paulo - SP (suscitado), nos autos de ação declaratória combinado com condenatória ajuizada por Vanessa de Cassia Domingues em face do Instituto de Assistência Médica ao Servidor Público Estadual, objetivando "recálculo do adicional de insalubridade".
+O Juízo suscitado, em sede de agravo inominado, deu provimento ao recurso para anular a sentença, determinando a remessa dos autos à Justiça do Trabalho ao entendimento de que "a Justiça Estadual é incompetente para conhecimento e julgamento de ações que tenham por objeto direitos trabalhistas, ainda que se trate de verbas de natureza estatutária, nos termos do art. 114 da Constituição Federal" (fl. 127-128).
+O Tribunal Regional do Trabalho da 2ª Região, em sede de recurso ordinário, suscita o conflito negativa de competência ao fundamento de que a competência para o julgamento da demanda é da Justiça Comum Estadual, visto que a pretensão da autora tem natureza administrativa, nos termos do que decidido o STF no Tema n. 1.143/STF (fls. 266-268).
+É o relatório. Passo a decidir.
+Cabe estabelecer inicialmente que a parte autora objetiva o cômputo do adicional de insalubridade nos termos da Lei Complementar Estadual nº 1.179, de 26 de junho de 2012, que alterou a LC n. 432, de 18 de dezembro de 1985.
+Assim, cinge-se a controvérsia dos autos em saber a quem compete processar e julgar ação ordinária proposta por servidor celetista, objetivando parcela remuneratória de natureza a dministrativa (adicional de insalubridade).
+O Supremo Tribunal Federal, no julgamento do RE n. 1.288.440 (Tema 1.143), fixou a seguinte tese, publicada em 12/07/2023: "A Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa, modulando-se os efeitos da decisão para manter na Justiça do Trabalho, até o trânsito em julgado e correspondente execução, os processos em que houver sido proferida sentença de mérito até a data de publicação da presente ata de julgamento". (grifei).
+Verifica-se que a sentença de mérito foi proferida em 26/09/2023, ou seja após a data da modulação determinada pelo STF (12/07/2023).
+Dessa forma, aplica-se a tese fixada no Tema 1.143/STF, de caráter vinculante, nos termos do inciso III do art. 927 do CPC de 2015. A propósito:
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. ADI Nº 3.395/DF: INOBSERVÂNCIA. 1. O entendimento consolidado no STF é de que compete à Justiça comum julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa.
+2. Não obstante se tratar de vínculo regido pela CLT, prevalece a sua natureza jurídico-administrativa, entendimento que restou cristalizado no julgamento do Recurso Extraordinário n. 1.288.440/SP, Tema n. 1.143 do ementário da Repercussão Geral.
+3. Agravo regimental a que se nega provimento. (AgRg na Rcl 54.654, Segunda Turma, Relator Min. André Mendonça, julgamento: 25/03/2024, publicação: 28/05/024).
+No mesmo sentido e com idêntica temática dos autos, destaca-se os seguintes julgados: CC n. 205.127/SC, Ministro Mauro Campbell Marques, DJe de 27/05/2024; AgInt no CC n. 196.951/CE, Ministro Paulo Sérgio Domingues, DJe de 02/04/2024; CC n. 202.051/SP, Ministro Mauro Campbell Marques, DJe de 05/02/2024.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Comum Estadual.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR. REGIME CELETISTA. AÇÃO. RECÁLCULO DO ADICIONAL DE INSALUBRIDADE. NATUREZA ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM. TEMA 1.143/STF.
