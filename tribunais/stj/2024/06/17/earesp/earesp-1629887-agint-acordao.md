@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. DESCONTOS E REPETIÇÃO DE VALORES. PRESCRIÇÃO DECENAL. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL E PROVAS. SÚMULAS N. 280 DO STF E 7 DO STJ.
+1. Aplica-se o prazo decenal previsto no art. 205 do Código Civil à pretensão de cessação de descontos de contribuições combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada.
+2. Fundando-se o acórdão recorrido na interpretação de legislação local e na análise de matéria de prova, a revisão do julgado acerca da legitimidade passiva é inviável, no âmbito do recurso especial, em razão da incidência das Súmulas n. 280 do STF e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+FUNDACAO CESP interpõe agravo interno contra as decisões que negou provimento ao seu agravo em recurso especial e a que conheceu do agravo dos agravados para conhecer parcialmente do recurso especial e dar-lhe parcial provimento a fim de determinar a aplicação do prazo prescricional de 10 anos previsto no art. 205 do CC de 2002 .
+Nas razões do presente recurso, a agravante sustenta que não há relação obrigacional entre a agravada e os agravados motivo pelo qual deve ser aplicada a prescrição trienal à hipótese dos autos pois não há plano de previdência complementar administrado pela FUNCESP.
+Afirma que houve cerceamento de defesa quanto ao indeferimento da produção de prova técnica pericial, pois a "prova técnica não se mostra nem inútil, nem procrastinatória e nem desnecessária" (fl. 1.404) e o fundamento se mostra genérico.
+Argumenta também que houve omissão quanto à apreciação de laudo pericial contábil apresentado como prova emprestada, "acostado aos autos pela FUNCESP" (fl. 1.407), bem como que "os argumentos deduzidos pela FUNCESP de forma a demonstrar a sua ilegitimidade sequer foram ventilados no v. acordão recorrido" (fl. 1.413).
+Defende sua ilegitimidade passiva e pleiteia a extinção do processo, uma vez que o benefício de complementação de aposentadoria e pensões tratado na presente ação decorre de previsão legal, que atribuiu à Fazenda do Estado de São Paulo a obrigação de pagar; além disso, a recorrente é mera intermediária da Companhia de Transmissão de Energia Elétrica Paulista (CTEEP), atuando, pois, por conta e ordem da estatal;
+Assevera que não detém os valores das contribuições vertidas pelos agravados e que tais valores ou estão em poder da Fazenda Pública do Estado de São Paulo ou estão em poder da CTEEP.
+Alega que não pode prestar serviços que não estejam no âmbito de seu objeto, tendo em consideração que o patrimônio gerido pela Fundação CESP não lhe pertence e corre o risco de ser eventualmente atingido indevidamente, estando configurado evidente enriquecimento indevido da CTEEP.
+Ponderando que, se os valores das contribuições descontadas dos recorridos são aproveitados tão somente pela CTEEP, sua exclusão do polo passivo foi indevida.
+Requer, assim, sejam reconsideradas as decisões agravadas ou seja o agravo julgado pelo colegiado.
+Contrarrazões apresentadas às fls. 2.010-2.017 e 2.018-2.031, em que se requer o não conhecimento ou o desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. DESCONTOS E REPETIÇÃO DE VALORES. PRESCRIÇÃO DECENAL. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL E PROVAS. SÚMULAS N. 280 DO STF E 7 DO STJ.
+1. Aplica-se o prazo decenal previsto no art. 205 do Código Civil à pretensão de cessação de descontos de contribuições combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada.
+2. Fundando-se o acórdão recorrido na interpretação de legislação local e na análise de matéria de prova, a revisão do julgado acerca da legitimidade passiva é inviável, no âmbito do recurso especial, em razão da incidência das Súmulas n. 280 do STF e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+A Corte de origem concluiu que, por se tratar de ação cujo objeto é o ressarcimento por enriquecimento ilícito, observada a aplicação da regra de transição prevista pelo art. 2.028 do CC de 2002, o prazo prescricional é o trienal.
+Confiram-se trechos do acórdão da apelação (fl. 1.389, destaquei):
+No caso dos autos é preciso distinguir que a ação foi ajuizada em junho de 2014. Assim, pelo Código Civil de 2016 prescritas estariam as parcelas que se venceram antes de junho de 1994. Como desta data até janeiro de 2003, quando entrou em vigor o atual Código Civil, transcorreram menos de dez anos, o prazo prescricional é de três anos, na forma dos arts. 203, § 3º, IV, e 2.028 do Código Civil.
+Entretanto, repise-se, a Segunda Seção do STJ firmou o entendimento de que se aplica o prazo decenal previsto no art. 205 do Código Civil à pretensão de cessação de descontos de contribuições combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. FUNDAÇÃO CESP. PRESCRIÇÃO. PRAZO DECENAL. EXISTÊNCIA DE CAUSA JURÍDICA. ENRIQUECIMENTO SEM CAUSA. PRETENSÃO SUBSIDIÁRIA.
+1. A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos - artigo 205 do Código Civil -, seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica.
+2. Incidência da Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. (AgInt nos EREsp n. 1.710.251/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 17/5/2022, DJe de 20/5/2022.)
+Nesse contexto, a decisão da Corte de origem não está de acordo com a jurisprudência do Superior Tribunal de Justiça de que é decenal o prazo prescricional por enriquecimento sem causa nos casos em que existe relação obrigacional prévia e se debate a legalidade da cobrança realizada.
+No tocante à alegada ausência de fundamentação no julgado e à omissão quanto à legitimidade, pela atuação por conta e ordem na administração de fundo de terceiro, à produção de prova pericial e à utilização de prova emprestada, a Corte estadual reconheceu que, no caso, foi possível o julgamento antecipado da lide e que a produção de provas fora desnecessária diante da documentação amealhada.
+Importa repetir, que também concluiu pela ilegitimidade da CTEEP, porquanto seu vínculo jurídico com os autores é de cunho empregatício, sendo resguardado o direito de regresso da fundação pelas vias próprias, no caso de ter havido enriquecimento indevido de outrem.
+Confiram-se trechos do acórdão dos embargos de declaração (fls. 1.385-1.387, destaquei):
+ ..
+No caso concreto, a produção de provas em audiência ou fora desta se mostra desnecessária, bastando para tanto apenas a prova documental, daí porque cabível o julgamento antecipado da lide.
+ ..
+A propósito, eis como foi julgada a Apelação nº 1001435-27.2016.8.26.0100, relatada pelo eminente Desembargador Carlos Eduardo Pachi, que por sua perfeita adequação ao caso se adota como razão de decidir:
+ ..
+Com efeito, o vínculo jurídico da Companhia de Transmissão de Energia Elétrica Paulista (CTEEP) com os autores é de cunho empregatício, incabível a sua inclusão na lide, em razão da natureza previdenciária do objeto da demanda.
+ ..
+E, na eventual hipótese de repasse dos valores da contribuição previdenciária à CTEEP e/ou à Fazenda do Estado de São Paulo, tal condição permitirá à Fundação CESP de se valer do direito de regresso, pelas vias próprias, e não serve de motivo para a ampliação do polo passivo da lide, nem mesmo para sua exclusão.
+Desse modo, mantém-se o afastamento da alegada ofensa aos arts. 489, § 1º, III e IV, 1.022, II, do Código de Processo Civil (item a), porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido em relação à produção de provas e à legitimidade das partes, havendo, pois, o enfrentamento, de forma fundamentada, de toda a questão posta em discussão.
+Importa frisar que, no que se refere à legitimidade passiva ad causam ou à responsabilidade de terceiros, a Corte estadual reconheceu a legitimidade da recorrente, pois realizara os descontos com base nas leis estaduais que instituíram o benefício previdenciário sem contraprestação.
+A propósito, trechos do voto condutor do acórdão recorrido (fls. 1.385-1.386, destaquei):
+No mais, as questões preliminares, prejudiciais e de mérito aqui suscitadas são conhecidas desta Corte, e desta E. Câmara em particular, que em outras ocasiões se posicionou pela ilegitimidade passiva ad causam da CTEEP, pela prescrição parcelar na forma do Código Civil, pela ilegitimidade dos descontos e pela necessidade de restituição.
+ ..
+De outro lado, cabe ratificar a legitimidade passiva da Fundação CESP, responsável pela arrecadação, administração e gestão de recursos e efetivamente realiza os descontos de contribuições na folha de pagamento dos autores.
+Acerca do tema:
+ ..
+Com isso, independentemente da relação então existente entre ela, a corré CTEEP ou, ainda, com a Fazenda do Estado de São Paulo, os descontos eram efetuados pela referida Fundação.
+Aliás, os demonstrativos trazem o logotipo da Fundação CESP e a contribuição, nos termos da Lei n.º 4819, de 1958  .. .
+Registre-se ainda que a sentença concluiu que a Fundação CESP promovera os descontos indevidos a título de contribuição para o fundo de previdência suplementar e que executara mais que mera ordem de desconto com base no que dispõe o instrumento contratual.
+Nesse ponto, veja-se trecho da sentença (fl. 910, destaquei):
+Ainda, não há ilegitimidade, sendo possível o ajuizamento em face de ambas as rés, porque a Fundação CESP executa mais que mera ordem de desconto, em vista do instrumento contratual de fls. 793 e seguintes.
+Desse modo, repita-se. a pretensão de novo pronunciamento a respeito da alegada ilegitimidade passiva da recorrente esbarra, a um só tempo, no óbice da Súmula n. 280 do STF, por analogia, uma vez que é inviável, no âmbito do recurso especial, a análise de lei local, assim como no óbice da Súmula n. 7 do STJ, porquanto implicaria o reexame de matéria fático-probatória dos autos.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. COMPLEMENTAÇÃO DE APOSENTADORIA. BENEFÍCIO ESTABELECIDO EM LEIS DO ESTADO DE SÃO PAULO. PRESCRIÇÃO DECENAL. SUBSIDIARIEDADE DA PRETENSÃO DE ENRIQUECIMENTO SEM CAUSA. PRECEDENTE DA CORTE ESPECIAL. FUNDAÇÃO CESP. ILEGITIMIDADE. EXAME DE LEI LOCAL. SÚMULA 280/STF. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Hipótese em que o benefício de complementação de aposentadoria tem por origem Leis do Estado de São Paulo, que determinaram o correspondente custeio com recursos provenientes da Fazenda Pública Estadual repassado à entidade de previdência privada, encarregada, no caso, de administrar a folha de pagamento.
+2. "A pretensão de enriquecimento sem causa (ação in rem verso) possui como requisitos: enriquecimento de alguém; empobrecimento correspondente de outrem; relação de causalidade entre ambos; ausência de causa jurídica; inexistência de ação específica. Trata-se, portanto, de ação subsidiária que depende da inexistência de causa jurídica. A discussão acerca da cobrança indevida de valores constantes de relação contratual e eventual repetição de indébito não se enquadra na hipótese do art. 206, § 3º, IV, do Código Civil/2002, seja porque a causa jurídica, em princípio, existe (relação contratual prévia em que se debate a legitimidade da cobrança), seja porque a ação de repetição de indébito é ação específica (EREsp 1523744/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 20/02/2019, DJe 13/03/2019)" (AgInt no REsp 1696558/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021).
+3. O exame da ilegitimidade passiva da Fundação CESP deve ser precedido da análise de lei local, inviável no âmbito do recurso especial. Aplicação, por analogia, da Súmula 280/STF.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmulas 7/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.945.759/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/8/2022, DJe de 12/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. FUNDAÇÃO CESP. SUPOSTA OMISSÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. CESSAÇÃO E RESTITUIÇÃO DAS CONTRIBUIÇÕES VERTIDAS POR ASSISTIDOS DE COMPLEMENTAÇÃO DE APOSENTADORIA. LEI ESTADUAL N.º 4.819/58. ILEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO PASSIVO NECESSÁRIO. APELO NOBRE FUNDAMENTADO NA VIOLAÇÃO DE LEI ESTADUAL. REFORMA DO JULGADO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE. APLICAÇÃO DAS SÚMULAS N. os 7 DO STJ E 280 E 284, AMBAS DO STF. PRESCRIÇÃO TRIENAL. INAPLICABILIDADE. EXISTÊNCIA DE CAUSA JURÍDICA PARA AS CONTRIBUIÇÕES. SUBSIDIARIEDADE DA PRETENSÃO DE ENRIQUECIMENTO SEM CAUSA. PRECEDENTE DA CORTE ESPECIAL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da alegada violação do art. 1.022 do CPC, porquanto as alegações que fundamentaram a suposta ofensa, além de não apontarem a imprescindibilidade para o deslinde do feito, são genéricas, sem indicação, clara e objetiva, dos pontos omissos, contraditórios ou obscuros. Tal deficiência, impede a abertura da instância especial, nos termos da Súmula n.º 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. A análise da questão relativa à legitimidade passiva da agravante foi realizada no acórdão recorrido com base na interpretação da Leis Estaduais n.ºs 4.819/58 e 200/74. Dessa forma, afasta-se a competência do STJ para o deslinde da controvérsia diante da vedação prevista na Súmula n.º 280 do STF, por analogia, segundo a qual por ofensa a direito local não cabe recurso extraordinário.
+3. Para se chegar a conclusão diversa da que chegou o eg. Tribunal bandeirante quanto à legitimidade passiva da FUNCESP e a desnecessidade de inclusão da Fazenda Pública do Estado de São Paulo e da CETEEP, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, por força do óbice da Súmula n.º 7 do STJ.
+4. A Corte Especial do Superior Tribunal de Justiça definiu que, nas pretensões relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 do CC/02), que prevê 10 anos de prazo prescricional e, nas demandas que versarem sobre responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do mesmo diploma, com prazo prescricional de 3 anos.
+5. Inaplicabilidade da prescrição trienal ao caso, tendo em conta que a existência de prévia causa jurídica afasta a hipótese de enriquecimento sem causa.
+6. Agravo interno não provido. (AgInt no AREsp n. 1.783.136/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
