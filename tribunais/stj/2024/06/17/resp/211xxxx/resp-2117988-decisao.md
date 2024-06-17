@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. MÚTUO. CÉDULA RURAL PIGNORATÓCIA E HIPOTECÁRIA. DECISÃO QUE DECLINA DA COMPETÊNCIA.
+CLÁUSULA DE ELEIÇÃO DE FORO. VULNERABILIDADE, HIPOSSUFICIÊNCIA OU DIFICULDADE NÃO DEMONSTRADA. VALIDADE DA CLÁUSULA. RECURSO NÃO PROVIDO.
+1. A Súmula 335 do Superior Tribunal de Justiça expressamente valida a cláusula de eleição do foro para os processos oriundos do contrato, a qual somente pode ser afastada quando reputada ilícita em razão de especial dificuldade de acesso à justiça ou no caso de hipossuficiência da parte. Se a parte não comprova dificuldade prática em acessar o Judiciário e nem eventual violação ao seu direito de defesa, deve prevalecer o foro eleito no contrato.2. A jurisprudência admite o afastamento da cláusula de eleição de foro, livremente pactuada entre as partes contratantes, quando comprovada situação de vulnerabilidade, hipossuficiência ou dificuldade de uma das partes.3. Em obediência ao princípio do pacta sunt servanda, a cláusula contratual existente no pacto deve ser considerada válida, prevalecendo o foro de eleição apontado pelas partes como sendo o competente para apreciar e julgar o processo oriundo do contrato.
+A parte recorrente sustenta a violação do art. 781, I, do Código de Processo Civil, além de dissídio jurisprudencial.
+Incidem, todavia, os enunciados 282 e 356 da Súmula do STF quanto à norma indicada pelo recorrente, pois é estranha ao julgado recorrido, a ela faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Outrossim, o dissídio jurisprudencial suscitado não se revela configurado, eis que os acórdãos indicados como paradigmas possuem entendimento erigido com base na incidência da mesma norma federal que, no caso dos autos, não foi prequestionada, circunstância que afasta a necessária identidade fática entre as teses confrontadas. Não fosse por isso, a parte deixou de atender às prescrições da legislação de regência, olvidando realizar o cotejo analítico entre os julgados paradigmas e o acórdão recorrido.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
