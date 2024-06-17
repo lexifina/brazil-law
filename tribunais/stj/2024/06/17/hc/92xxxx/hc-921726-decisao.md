@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de JEFFERSON SOUSA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que denegou a ordem do HC n. 2108003-78.2024.8.26.0000.
+Consta dos autos a prisão temporária do paciente decorrente de suposta prática do delito capitulado no art. 157, § 3º, II, do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea; e não estão presentes os requisitos autorizadores da prisão temporária, previstos na Lei n. 7.960/1989.
+Por fim, aduz serem adequadas e suficientes, ao caso em comento, as medidas cautelares alternativas, positivadas no art. 319 do CPP.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+O writ não comporta processamento.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Na espécie, contudo, há motivação idônea para a custódia cautelar do paciente, porquanto consta do decreto de prisão preventiva (fls. 48/49 - grifo nosso):
+ ..
+Nos presentes, a d. Autoridade Policial informa que, na continuidade das investigações, apurou que o autor dos disparos estava apoiado por indivíduos que utilizaram o veículo Ford/Fiesta preto, placas FLY8280; a motocicleta clonada de placas BSZ0G76 e o veículo VW/Fox vermelho de placas DVJ2J21.
+Segundo o relatório da equipe policial, o representado Jeferson é o possuidor do VW Fox, que participou de outros dois roubos em Santos, em que também teria sido empregado o Ford Fiesta, de acordo com os registros de radares pelos quais os carros passaram.
+Jeferson foi indiciado em nove inquéritos e processado por dezesseis, com três condenações. Em 2013, ele foi preso em flagrante nesta cidade, após seu comparsa desembarcar de um carro, abordar uma vítima que deixava uma agência bancária, subtrair pertences e fugir na garupa de uma motocicleta. Ele foi reconhecido pela vítima como o homem que estava no interior da agência momentos antes do crime.
+Ele tem apontamentos pelos crimes de roubo, homicídio, associação criminosa e resistência. Já esteve preso e, atualmente, cumpre pena em regime aberto. Ademais, figura como investigado e foi indiciado em outros procedimentos que apuram roubos a transeuntes em frente a estabelecimentos bancários.
+O veículo VW Fox está registrado em nome de Marinete Nazaré Gomes, que em depoimento prestado no 7º Distrito Policial de Santos, afirmou que vendeu o carro a Jeferson em maio do corrente, ou seja, algumas semanas antes do crime em apuração.
+Ademais, Jeferson possui uma empresa de entregas por meio de motocicletas, cadastrada sob CNPJ 42.442.549/0001-86, nome fantasia Sousa Express, com situação cadastral "Ativa". Contudo, apurou a autoridade representante que não há qualquer veículo registrado em nome da empresa ou de Jeferson, tampouco registro de qualquer funcionário. Em campana no local indicado como sede da empresa, os policiais não vislumbraram qualquer indício de que ali funcione uma empresa de entregas. Chamou a atenção dos policiais que todas as vezes em que a motocicleta acima referida é usada nos roubos e flagrada por câmeras de segurança, o condutor traja colete refletivo e mochila, itens tipicamente utilizados por "motoboys". O fato levou a equipe de investigação a crer que, que em uma eventual abordagem policial, a Sousa Express poderia ser usada como subterfúgio para justificar a presença do criminoso travestido de entregador
+ ..
+O Tribunal de Justiça concordou com os fundamentos apresentados pelo Magistrado de piso, destacando que o paciente ostenta maus antecedentes, situação que denota risco de reiteração delitiva se colocado em liberdade (fl. 57).
+Nesse sentido, a propósito, é firme a jurisprudência desta Corte no sentido de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019 - grifo nosso).
+E mais: AgRg no RHC n. 151.129/CE, de minha relatoria, Sexta Turma, DJe 28/3/2022; e AgRg no HC n. 581105/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2020.
+Assim, não há nenhum constrangimento ilegal evidente, pois, além de ter um histórico criminal conturbado, o Juiz destacou que o paciente estava cumprindo pena em regime semiaberto (fl. 49).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LATROCÍNIO. PRISÃO TEMPORÁRIA. HISTÓRICO CRIMINAL CONTURBADO. ESTAVA CUMPRINDO PENA EM REGIME SEMIABERTO. RISCO CONCRETO DE REITERAÇÃO. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Habeas corpus indeferido liminarmente.
