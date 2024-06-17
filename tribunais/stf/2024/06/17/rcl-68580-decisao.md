@@ -1,0 +1,55 @@
+DECISÃO
+
+    1. Trata-se de reclamação, com pedido liminar, formalizada pelo Ministério Público do Estado de Minas Gerais contra decisão proferida pelo Superior Tribunal de Justiça, sob alegado descumprimento do que decidido por esta Suprema Corte no julgamento da ADI nº 7.032.
+
+    2. Narra o reclamante que o Juízo da Vara de Execuções Criminais da Comarca de BH/MG declarou extinta a punibilidade do sentenciado, não obstante o não pagamento da pena de multa; assim, interpôs o recurso de agravo em execução penal, que teve o provimento negado; interpôs, então, recurso especial, ao argumento de que só pode haver extinção de punibilidade se o apenado comprovar inequivocamente a impossibilidade do pagamento da pena de multa, não servindo para tal propósito a presunção de hipossuficiência; o STJ negou provimento ao recurso, sob o fundamento de afronta ao entendimento desta Suprema Corte quanto ao paradigma apontado.
+
+    3. Requer a cassação da decisão reclamada, determinando-se que outra seja proferida, em observância ao entendimento firmado na ADI n.º 7.032.
+
+É o relatório.
+Decido.
+
+    4. Deixo de requisitar informações e de enviar o feito à Procuradoria-Geral da República, por entender que o processo está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+
+    5. A estreita via da reclamação constitucional (art. 102, inc. I, al. ”l” e § 3º, do art. 103-A da CRFB) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a enunciado de sua súmula vinculante ou o descumprimento de decisão desta Corte em controle abstrato de constitucionalidade, ou em controle difuso, contanto que havida, nesta última hipótese, a mesma relação jurídica e entre as mesmas partes.
+
+    6. No caso em tela, alega-se inobservância ao que decidido por esta Suprema Corte no julgamento da ADI nº 7.032, cuja ementa se transcreve:
+
+EMENTA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 51 DO DECRETO-LEI Nº 2.848/1940 (CÓDIGO PENAL). LEI Nº 13.964/2019. PENA DE MULTA. INADIMPLEMENTO. ÓBICE À EXTINÇÃO DA PUNIBILIDADE. ART. 5º, XLVI, “c”, DA CONSTITUIÇÃO FEDERAL. RESSALVA. IMPOSSIBILIDADE DE PAGAMENTO. DEMONSTRAÇÃO. INTEPRETAÇÃO CONFORME. PARCIAL PROVIMENTO. 1. A alteração legislativa implementada no art. 51 do Código Penal, pela Lei nº 13.964/2019, não desnaturou a pena de multa, que permanece dotada do caráter de sanção criminal, a teor do art. 5º, XLVI, “c”, da Constituição da República. 2. Esta Suprema Corte, ao julgamento da ADI 3.150, igualmente veiculada contra o art. 51 do Código Penal, na redação dada pela Lei nº 9.268/1996, pacificou o entendimento de que a pena de multa, embora considerada dívida de valor, não perde a sua natureza de sanção criminal. 3. É constitucional condicionar o reconhecimento da extinção da punibilidade ao efetivo pagamento da pena de multa - conjuntamente cominada com a pena privativa de liberdade -, ressalvada a hipótese em que demonstrada a impossibilidade de pagamento da sanção patrimonial. 4. Pedido provido parcialmente para conferir, ao art. 51 do Código Penal, interpretação conforme à Constituição da República, no sentido de que, cominada conjuntamente com a pena privativa de liberdade, o inadimplemento da pena de multa obsta o reconhecimento da extinção da punibilidade, salvo comprovada impossibilidade de seu pagamento, ainda que de forma parcelada.
+(ADI nº 7.032/DF, Rel. Min. Flávio Dino, Tribunal Pleno, j. 25/03/2024, p. 12/04/2024; grifos acrescidos).
+
+	7. 	Por meio da decisão reclamada, o STJ então assentou (e-doc. 11, p. 1-6; grifos no  original):
+
+Preenchidos os requisitos legais, confirmo a admissibilidade do recurso especial.
+Nos autos em exame, o Tribunal a quo salientou que "o reeducando é assistido pela Defensoria Pública, o que permite a conclusão no sentido da impossibilidade de pagamento da multa penal" (fl. 101).
+Entendeu, assim, pela extinção de punibilidade do apenado, sob o fundamento de sua hipossuficiência econômica. Nos termos da ementa que se segue (fl. 91):
+
+AGRAVO EM EXECUÇÃO PENAL – EXTINÇÃO DA PUNIBILIDADE SEM O ADIMPLEMENTO DA PENA DE MULTA – POSSIBILIDADE – HIPOSSUFICIÊNCIA PRESUMIDA – TEMA REPETITIVO 931 DO STJ. O Supremo Tribunal Federal, no julgamento da ADI 3.150/DF, decidiu que a Lei 9.268/1996, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção criminal. Logo, subsistem todos os efeitos decorrentes da condenação e, portanto, não há possibilidade de decretação da extinção da punibilidade enquanto estiver pendente o pagamento da pena de multa, salvo, na linha do entendimento contemporâneo do Superior Tribunal de Justiça (Tema Repetitivo 931 –Revisado), quando se tratar de reeducando hipossuficiente, comprovando, de maneira inequívoca, a impossibilidade de adimplemento. Na hipótese, a situação do agravado se enquadra no atual entendimento da Corte Superior, por se tratar de condenado hipossuficiente, assistido pela Defensoria Pública
+
+A orientação desta Corte Superior se firmou no mesmo sentido do acórdão recorrido (Súmula n. 83 do STJ).
+
+A individualização da pena (prevista no art. 5°, XLVI, da CF) ocorre tanto na fase do conhecimento, como durante a fase de seu cumprimento. A multa aplicada ao condenado, prevista no tipo incriminador, tem natureza de pena e desempenha papel de prevenção geral e retribuição dos delitos, mas, após o resgate da sanção privativa de liberdade (ou restritiva de direitos), o inadimplemento de seu valor não obsta a extinção da punibilidade se justificado pela declaração de hipossuficiência, documento com presunção legal de veracidade, apto a comprovar pobreza. O ônus de demonstrar a falsidade da afirmação e a ocultação de patrimônio é do Ministério Público, com exclusividade.
+
+	8.  Em revisão ao Tema nº 931, o STJ definiu que a declaração de pobreza é suficiente para extinção da punibilidade, muito embora o Ministério Público, como fiscal da lei, possa produzir prova em sentido contrário. Assim, o juiz competente poderá indeferir o pedido de extinção, em decisão suficientemente motivada e apoiada em prova constante dos autos, a indicar a possibilidade de pagamento da sanção pecuniária.
+
+	9. Dos debates havidos no julgamento paradigmático, posterior ao mencionado critério utilizado pelo Juízo reclamado, ficou assentado que a aferição da possibilidade de o apenado pagar a pena de multa é de competência do Juízo de Execução, que se baseará em elementos do caso concreto, senão vejamos (grifos acrescidos):
+
+Nesse contexto, em atenção ao princípio da proporcionalidade da resposta penal, julgo necessário assentar que a impossibilidade de pagamento da pena de multa deve ser sopesada pelo juízo de execução, e, uma vez demonstrada, afastado o óbice à extinção da pena privativa de liberdade.
+Assim sendo, dou parcial provimento ao pedido, para conferir ao art. 51 do Código Penal interpretação no sentido de que, cominada conjuntamente com a pena privativa de liberdade, a pena de multa obsta o reconhecimento da extinção da punibilidade, salvo na situação de comprovada impossibilidade de seu pagamento pelo apenado, ainda que de forma parcelada. Acrescento ainda a possibilidade de o juiz de execução extinguir a punibilidade do apenado, no momento oportuno, concluindo essa impossibilidade de pagamento através de elementos comprobatórios constantes dos autos.
+
+	10. Registro que critérios objetivos utilizados para aferir a hipossuficiência do apenado quanto à possibilidade de pagamento da pena de multa não foram apreciados no julgamento da ADI nº 7.032 (Rcl nº 68.226, Rel. Min. Cármen Lúcia, j. 15/05/2024, p. 21/05/2024; Rcl nº 68.012, Rel. Min. Alexandre de Moraes, j. 23/05/2024, p. 24/05/2024; Rcl nº 68.225, Rel. Min. Flávio Dino, j. 17/05/2024, p. 21/05/2024).
+
+	11. Sendo assim, não se verifica estrita aderência entre o ato reclamado e o paradigma tido por inobservado, além de não ser cabível o reexame de fatos e provas, tampouco dilação probatória, em sede de reclamação. No mesmo sentido:
+
+Não está presente, portanto, o específico enunciado na ADI 7.032/DF, não havendo estrita aderência entre o ato impugnado e os paradigma invocado. Dessa forma, é incabível a presente Reclamação.
+Além disso, proceder a investigações a respeito da capacidade econômica do apenado demandaria dilação probatória, providência inadmissível na via reclamatória (Rcl 66820 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, DJe de 23/5/2024; Rcl 66485 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, DJe de 24/4/2024).
+(Rcl nº 68.012, Rel. Min. Alexandre de Moraes, j. 23/05/2024, p. 24/05/2024).
+
+	12.  Ante o exposto, nego seguimento à reclamação, nos termos do art. 21, § 1º, do RISTF.
+
+Publique-se.
+
+Brasília, 17 de junho de 2024.
+
+Ministro ANDRÉ MENDONÇA
+Relator
