@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+ESCRITURA PÚBLICA DE COMPRA E VENDA COM PACTO ADJETO DE HIPOTECA FIRMADO COM ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. REVISÃO DE CONTRATO. SENTENÇA DE EXTINÇÃO DO FEITO ANTE O RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO AUTORAL. APELO DOS DEMANDANTES. CONTRATO FIRMADO NA VIGÊNCIA DO CÓDIGO CIVIL DE 1916. IMPERIOSA INCIDÊNCIA DA REGRA DE TRANSIÇÃO DO ART. 2.028 DO ATUAL CÓDIGO CIVIL. PRAZO PRESCRICIONAL VINTENÁRIO REGULADO PELO CC/1916 APLICÁVEL À HIPÓTESE.
+Dispõe o art. 2.028 do atual Código Civil que "serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada".
+CÔMPUTO DO PRAZO PRESCRICIONAL. OBRIGAÇÃO COM PRESTAÇÕES PERIÓDICAS. MARCO INICIAL FIXADO PELO VENCIMENTO DA ÚLTIMA PARCELA. CITAÇÃO VÁLIDA EM AÇÃO DE PRESTAÇÃO DE CONTAS PRETÉRITA QUE, ADEMAIS, TEM O CONDÃO DE INTERROMPER A PRESCRIÇÃO PARA O AJUIZAMENTO DA AÇÃO REVISIONAL. PRECEDENTEDO STJ. PRESCRIÇÃO, PORTANTO, NÃO CONSUMADA.
+O termo inicial da contagem do prazo prescricional de obrigação com prestações periódicas, corresponde ao vencimento da última parcela. O Superior Tribunal de Justiça possui entendimento no sentido de que "A citação válida em ação de prestação de contas anteriormente ajuizada, no prazo e na forma da lei processual é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato". (AgInt no AREsp n. 1.990.413/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, j. em 28.03.2022).
+PRINCÍPIO DA CAUSA MADURA. APLICAÇÃO.
+Se os autos versam questão exclusivamente de direito e a causa está apta a receber julgamento, pode o Tribunal julgar desde logo a lide.
+CAPITALIZAÇÃO MENSAL DE JUROS. PRÁTICA VEDADA NA HIPÓTESE, ANTE A AUSÊNCIA DE PREVISÃO LEGAL. É proibida a capitalização mensal de juros, quando não admitida por lei, como ocorre no caso de financiamentos imobiliários.
+Em se tratando de contrato celebrado anteriormente ao ano de 2000 e não subordinado às regras do SFH, afasta-se a capitalização mensal de juros tendo em vista a ausência de previsão legal.
+SISTEMA DE AMORTIZAÇÃO. TABELA PRICE. INAPLICABILIDADE. Não se admite a utilização da Tabela Price como método de amortização ou de cálculo de juros por importar em evidente capitalização de juros, prática esta que é proibida no caso vertente.
+COEFICIENTE DE EQUALIZAÇÃO DE TAXAS - CET. JUROS MASCARADOS. PREVISÃO DEFUNDO DE LIQUIDEZ. ONEROSIDADE VERIFICADA. ÍNDICE INDEVIDO.
+O Coeficiente de Equalização de Taxas - CET, embora de livre estipulação, acarreta onerosidade excessiva ao contratante-aderente, uma vez que os contratos de financiamento firmado entre o participante e a entidade de previdência privada já prevêem mecanismos distintos para que as prestações e o saldo devedor sejam atualizados.
+REPETIÇÃO DE INDÉBITO. PRESCINDIBILIDADE DE PROVA DO ERRO. DEVOLUÇÃO SIMPLES.
+É pacífico o entendimento de que a repetição do indébito independe de prova do erro, conforme se extrai do teor da Súmula n. 322, editada pelo Superior Tribunal de Justiça: "para repetição de indébito, nos contratos de abertura de crédito em conta corrente, não se exige a prova do erro".
+Em atenção ao entendimento exarado pelo Superior Tribunal de Justiça, a restituição dos valores deve se dar de forma simples.
+VERIFICADA CONEXÃO COM A AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL FUNDADA NO CONTRATO SOB REVISÃO. REUNIÃO DO FEITO, PORÉM, INCABÍVEL. SÚMULA 235 DOSTJ. SUSPENSÃO DA AÇÃO EXECUTIVA, POR OUTRO LADO, QUE SE REVELA PRUDENTE ATÉ QUE SEJA APURADO O REAL SALDO DEVEDOR.
+A se considerar que a conexão visa a junção das ações para julgamento simultâneo com o preciso escopo de evitar posicionamentos conflitantes para cada qual, desaparece esta necessidade quando uma das causas já foi julgada posto que, no estágio em que se encontram cada uma das demandas, o julgamento conjunto e simultâneo não mais se cogita. O entendimento do STJ é no sentido de que o ajuizamento de ação revisional não obsta, por si só, a execução do título.
+Todavia, a critério do Julgador, se considerar medida razoável no caso concreto, a execução pode ser suspensa até o trânsito em julgado da ação revisional, desde que haja garantia do Juízo.
+APELO A QUE SE DÁ PROVIMENTO. PRESCRIÇÃO AFASTADA. CAUSA JULGADA PROCEDENTE.
+Alegou-se, no especial, violação dos artigos 1.022, 489 e 927, § 3º, do Código de Processo Civil e 104, 113, 205, 422 e 591 do Código Civil sob o argumento de que o acórdão local é omisso; que o contrato firmado pela partes é ato jurídico perfeito, que, portanto, não poderia ser revisado pelo Poder Judiciário; e que é permitida a capitalização, ao menos anual, de juros.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Ainda que findo o contrato, outrossim, é possível a revisão de seus termos, como dita o verbete n. 286 da Súmula desta Casa, haja vista que atos ilegais não são juridicamente perfeitos, na medida em que, embora acabados, não obedeceram a lei.
+No que toca à prescrição, nenhum dispositivo legal acerca do termo inicial foi indicado, o que, por si só, atrai o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+A par disso, embora o Tribunal local tenha equivocadamente entendido que o temo inicial da prescrição era o vencimento da última parcela para ação revisional, também concluiu que houve ação de prestação de contas que teria tido o condão de interromper o lapso prescricional.
+Veja-se:
+"Ademais, ainda que assim não fosse, é oportuno mencionar que o Superior Tribunal de Justiça possui entendimento no sentido de que "A citação válida em ação de prestação de contas anteriormente ajuizada, no prazo e na forma da lei processual é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato". (AgInt no AREsp n. 1.990.413/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, j. em28.03.2022)" (e-STJ, fl. 1.099).
+Esse fundamento não foi, todavia, impugnado pelo recorrente, o que atrai as disposições do verbete n. 283 da Súmula do Supremo Tribunal Federal.
+A respeito, por fim, da capitalização de juros, o contrato foi "celebrado entre as partes em 07.01.1992, pelo qual foi estabelecido o pagamento em 240 meses, sendo a primeira parcela em 01.02.1992" (e-STJ, fl. 1.098), quando nem sequer em vigor o atual Código Civil, o que, por si só, atrai mais uma vez o já mencionado verbete n. 284.
+Ainda que se entenda, ademais, que houve violação do artigo 4º do Decreto 22.626/33, dispositivo que, conquanto mencionado, não foi expressamente indicado como violado, esta Corte tem posicionamento de que a capitalização em qualquer periodicidade depende de previsão contratual, o que não consta no acórdão de origem.
+Para exame:
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO ANUAL DE JUROS. NECESSIDADE DE EXPRESSA PREVISÃO CONTRATUAL. COMPREENSÃO FIRMADA PELA SEGUNDA SEÇÃO DESTA CORTE. 2. ALEGAÇÃO NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. 3. RECURSO IMPROVIDO.
+1. A Segunda Seção desta Corte, no julgamento do AgRg no AREsp n. 429.029/PR, decidiu que a cobrança da capitalização anual de juros nos contratos bancários depende de previsão contratual expressa.
+2. A análise de questão formulada no recurso especial somente é possível nesta Casa se constatado o devido prequestionamento, o que não se verifica na hipótese. Incidência do enunciado n. 282 da Súmula do Supremo Tribunal Federal, aplicável por simetria.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.502.771/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/8/2016, DJe de 30/8/2016.)
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
