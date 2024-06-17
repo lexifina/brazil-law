@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MILENA APARECIDA ALVES DIAS contra decisão proferido pelo Juízo de Direito da Vara Única da Comarca de Elói Mendes/MG (Processo n. 5000809-96.2024.8.13.0236).
+Consta dos autos que a paciente foi presa em flagrante no dia 9/4/2024 pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 (e-STJ fls. 54/165), sendo a prisão convertida em preventiva na audiência de custódia (e-STJ fls. 214/222).
+No presente writ, a defesa alega que a paciente foi presa pois estava dormindo na casa do namorado da sua filha quando os policiais cumpriram mandado de busca e apreensão e encontraram drogar no local. Sustenta que a paciente tem casa própria, não tem vínculo com a residência na qual foi cumprido o madando e não tinha conhecimento das drogas encontradas no local. Assevera a ausência de fundamentação idônea para a manutenção da prisão preventiva, tendo em vista que o decreto preventivo se baseou apenas na gravidade abstrata do crime, não restando demonstrado o periculum libertatis. Afirma que a paciente é primária, portadora de bons antecedentes, tem residência fixa, e emprego lícito, sendo suficiente a imposição de medidas cautelares menos gravosas.
+Diante disso, requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente ou, subsidiariamente, a substituição da custódia por medidas cautelares previstas no art. 319 do CPP.
+É o relatório. Decido.
+De plano, constata-se que a petição inicial aponta como autoridade coatora o Juízo de Direito, o que evidencia a incompetência do Superior Tribunal de Justiça para apreciar e julgar originalmente esta causa, nos termos do art. 105, II, da Constituição Federal.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO QUE APONTA COMO AUTORIDADE COATORA JUIZ DE 1º GRAU QUE MANTEVE A PRISÃO CAUTELAR DO PACIENTE. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Tratando-se de insurgência voltada contra ato de Juízo de primeiro grau, é flagrante a incompetência desta Corte Superior de Justiça para processar e julgar originariamente este habeas corpus, ante a não incidência do disposto no art. 105, inciso I, alínea "c", da Constituição Federal.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 621.817/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/11/2020, DJe de 23/11/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE NA DOSIMETRIA DA PENA. WRIT IMPETRADO CONTRA ATO DO JUÍZO DE PRIMEIRO GRAU. TESE NÃO SUBMETIDA À APRECIAÇÃO DO TRIBUNAL DE ORIGEM. NÃO CABIMENTO. ART. 105, I, C, DA CF. NÃO OBSERVÂNCIA. SUPRESSÃO DE INSTÂNCIA.
+1. Consoante o diposto no art. 105, I, c, da CF, compete ao Superior Tribunal de Justiça o julgamento de habeas corpus quando o coator for Tribunal sujeito à sua jurisdição, sendo inviável o conhecimento de writ impetrado diretamente contra ato do Juízo de primeiro grau, sem que a questão tenha sido submetida à apreciação do Tribunal de origem, para não se incorrer em indevida supressão de instância.
+2. Conforme a jurisprudência desta Corte,"nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade." (AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.) 3. Agravo regimental desprovido.
+(AgRg no HC n. 861.545/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+Assim, não se constata constrangimento ilegal causado por Tribunal de Justiça ou Tribunal Regional Federal apto a autorizar o processamento e julgamento deste habeas corpus pelo Superior Tribunal de Justiça.
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou n a legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
