@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, conceder a ordem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. APREENSÃO DE NÃO RELEVANTE QUANTIDADE DE DROGAS. REINCIDÊNCIA ESPECÍFICA E CONDENAÇÃO ANTERIOR POR ROUBO. CONDENAÇÕES ANTIGAS. DESPROPORCIONALIDADE DA MEDIDA. CONCEDIDA A ORDEM, COM MEDIDAS CAUTELARES.
+1. Embora a prisão preventiva possua fundamentação concreta, a quantidade de entorpecente apreendida (29,52 gramas de cocaína), bem como o já distante lapso temporal transcorrido das últimas condenações do paciente (com trânsito em julgado em 2012 e 2015), denotam a desproporcionalidade da medida, sendo mais adequada a substituição da medida extrema por cautelares diversas, a serem impostas pelo Magistrado de primeiro grau. Precedentes.
+2. Agravo regimental provido, para conceder o habeas corpus e substituir a prisão preventiva do agravante por medidas cautelares diversas, a serem estabelecidas pelo Juízo a quo.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+No presente recurso, a defesa reitera os argumentos expendidos na inicial do mandamus, sustentando ser farta a jurisprudência desta Corte, no sentido de "que diante a ínfima quantidade de drogas, condenações anteriores, reincidência ou possuir ações penais em curso, não serve como fundamentação para decretar a prisão preventiva" (fl. 276).
+Requer a reconsideração da decisão agravada ou o envio do feito para apreciação junto à Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. APREENSÃO DE NÃO RELEVANTE QUANTIDADE DE DROGAS. REINCIDÊNCIA ESPECÍFICA E CONDENAÇÃO ANTERIOR POR ROUBO. CONDENAÇÕES ANTIGAS. DESPROPORCIONALIDADE DA MEDIDA. CONCEDIDA A ORDEM, COM MEDIDAS CAUTELARES.
+1. Embora a prisão preventiva possua fundamentação concreta, a quantidade de entorpecente apreendida (29,52 gramas de cocaína), bem como o já distante lapso temporal transcorrido das últimas condenações do paciente (com trânsito em julgado em 2012 e 2015), denotam a desproporcionalidade da medida, sendo mais adequada a substituição da medida extrema por cautelares diversas, a serem impostas pelo Magistrado de primeiro grau. Precedentes.
+2. Agravo regimental provido, para conceder o habeas corpus e substituir a prisão preventiva do agravante por medidas cautelares diversas, a serem estabelecidas pelo Juízo a quo.
+VOTO
+A decisão impugnada possui os seguintes fundamentos (fl. 268):
+In casu, verifica-se a presença de fundamentos concretos para a denegação da ordem e manutenção da prisão cautelar, a bem da ordem pública, diante do risco de reiteração criminosa em relação ao paciente, tendo sido apontando que "os increpados foram presos em flagrante, durante cumprimento de ordem judicial, com a apreensão de significativa quantidade de cocaína, petrechos ligados ao tráfico, além de vultosa quantia em espécie. Portanto, está bem delineada a contemporaneidade exigida pelo preceptivo em comento, bem como há prova do inegável risco gerado pelos autuados, que coloca em perigo a saúde e a tranquilidade da comunidade."
+Em reforço, destacou-se que o paciente ostenta reincidência específica no delito de tráfico de drogas, bem como possui outras passagens pela justiça, com condenação pelo delito de roubo, razão pela qual a prisão preventiva se mostra necessária para evitar a reiteração delitiva.
+A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: AgRg no HC n. 755.804/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022; AgRg no RHC n. 171.839/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022.
+Ressalta-se que não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Ante o exposto, denego o habeas corpus.
+Embora a prisão preventiva possua fundamentação concreta, a quantidade de entorpecente apreendida (29,52 gramas de cocaína), aliado ao fato de as últimas condenações do agravante serem antigas, com trânsito em julgado datados de 2012 e 2015 (fls. 102-108), demonstram a desproporcionalidade da medida extrema, sendo mais adequada a substituição da prisão preventiva por medidas cautelares diversas.
+No mesmo sentido, menciono:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DESPROPORCIONALIDADE. QUANTIDADE DE ENTORPECENTE INSIGNIFICANTE. RENITÊNCIA DELITIVA. AUSENTES ELEMENTOS DE RISCO CONCRETO EMBORA SEJA O RÉU REINCIDENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312 do CPP.
+2. O perigo do estado de liberdade do agente não pode ser mensurado, tão somente, com lastro na reincidência delitiva, em especial quando se afiguram frágeis os elementos trazidos aos autos para fins de justificar o risco de renitência da atividade ilícita e ser ínfima a quantidade de droga apreendida.
+3. A imposição das medidas cautelares diversas da prisão preventiva, consoante as diretrizes do art. 319 do Código de Processo Penal, se adequa ao acautelamento da ordem pública.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 183.705/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. CRIME SEM VIOLÊNCIA OU GRAVE AMEAÇA. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA.
+1. Ainda que o decreto de prisão preventiva esteja calcado em fundamentação concreta e idônea - risco de reiteração delitiva (atos infracionais análogos aos crimes de roubo majorado e lesões corporais, além de condenação ao art. 28 da Lei n. 11.343/2006, em 24/3/2022) e gravidade concreta do crime de tráfico, extraída da apreensão de 93 pedras de crack e 6 papelotes de cocaína -, a cautelar extrema afigura-se desproporcional no caso, pois, desse montante, o recorrente trazia consigo apenas 5 porções de crack, quantidade essa pouco relevante.
+2. Importante salientar que o crime foi perpetrado sem violência e grave ameaça, e, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+3. Agravos regimentais improvidos.
+(AgRg no RHC n. 173.626/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+Ante o exposto, dou provimento ao agravo regimental, para conceder o habeas corpus e substituir a prisão preventiva do agravante por medidas cautelares diversas, a serem estabelecidas pelo J uízo a quo.
+É o voto.
