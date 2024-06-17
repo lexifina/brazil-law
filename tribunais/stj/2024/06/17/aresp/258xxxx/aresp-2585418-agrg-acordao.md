@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM ATACADO. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Jecineide Freitas da Silva interpõe agravo regimental contra a decisão monocrática da Presidência desta Corte que não conheceu do agravo em recurso especial ante a ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial na origem (Súmula 182/STJ - fls. 572/573).
+Nas razões do agravo regimental, a defesa do agravante aduz, em suma, que basta a simples análise das razões de Recurso Especial e seu Agravo para observar que os todos os pontos atacados foram devidamente fundamentados, tendo sido indicados precisamente os dispositivos legais que foram violados, além de que, a Agravante claramente não busca o reexame de provas, mas sim a aplicação da Lei Federal (fl. 581).
+Alega que as questões ventiladas foram devidamente prequestionadas (fl. 582); que, no recurso especial, há ampla liberdade de análise da prova (fl. 583); a não incidência do óbice da Súmula 284/STF (fls. 583/584); quanto à argumentação de que o recurso especial e seu agravo interpostos deixaram de comprovar a divergência bem como não impugnaram especificamente todos os fundamentos da decisão recorrida, que a R. Decisão guerreada deve ser reformada, haja vista que em sede de Recurso Especial, foi sustentada somente a contrariedade à Lei Federal, no sentido de que houve ofensa literal ao disposto no art. 156 do Código de Processo Penal, uma vez que o processo fora julgado contrariamente à prova dos autos (fls. 584/585); e, quanto à Súmula 7/STJ, que em momento algum foi pretendido o simples reexame de prova (fl. 585).
+Reitera, ainda, os argumentos de mérito do especial (fls. 585/594), pugnando, ao final, pela reforma da decisão agravada (fl. 595).
+O Ministério Público Federal opina pelo não conhecimento ou não provimento do agravo (fls. 612/615).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM ATACADO. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não comporta conhecimento.
+Em obediência ao princípio da dialeticidade, cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido.
+No caso, o agravo em recurso especial não foi conhecido pelo fato de não haver impugnado especificamente todos os fundamentos da decisão que inadmitiu o recurso especial na origem, em especial, a não comprovação da divergência jurisprudencial (fl. 572).
+Caberia, então, à agravante, nas razões do regimental, demonstrar que no agravo em recurso especial houve a efetiva impugnação a este fundamento tido como inatacado (divergência não comprovada), o que não se verifica nas razões do agravo regimental. Aliás, da leitura das razões do agravo em recurso especial, se constata que a defesa nem sequer fez menção ao referido óbice, mas tão somente às Súmulas 284/STF e 7/STJ (fls. 546/547).
+Assim, mais uma vez, o agravante não observou o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, atraindo, ainda, o óbice da Súmula 182/STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido: AgRg no AREsp n. 2.384.030/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/9/2023; AgRg no AREsp n. 2.152.990/RS, Ministra Laurita Vaz, Sexta Turma, DJe 22/8/2023; AgRg no AREsp n. 2.209.271/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 17/8/2023; AgRg no AREsp n. 2.187.752/MT, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/2/2023 e AgRg no AREsp n. 2.029.171/AP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/3/2022.
+Importante ressaltar que não prospera a alegação de que em sede de Recurso Especial, foi sustentada somente a contrariedade à Lei Federal (fl. 584), considerando que o referido recurso foi interposto com fundamento nas alíneas a e c do permissivo constitucional (fl. 489).
+Ademais, ressalta-se que a impugnação tardia de fundamento utilizado para não admitir o recurso especial é incabível em agravo regimental, uma vez preclusa a questão (AgRg no AREsp n. 2.391.284/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/12/2023).
+Por fim, não tendo sido este agravo regimental conhecido e, por conseguinte, mantida a decisão que não conheceu do agravo em recurso especial, é incabível o exame das matérias veiculadas no recurso especial não admitido. Ilustrativamente: EDcl no AgRg no AREsp n. 2.343.897/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2023.
+Ante o exposto, não conheço do agravo regimental.
