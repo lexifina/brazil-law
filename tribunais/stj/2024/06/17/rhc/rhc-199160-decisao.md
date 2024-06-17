@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+HABEAS CORPUS Tráfico de entorpecentes e associação para o tráfico (artigos 33,caput; c.c. 40, VI; e 35,caput; c.c. 40,VI, da Lei nº 11.343/06) Sentença condenatória contra a qual foi interposta apelação sequer analisada Pretensão de recurso em liberdade. Descabimento. Paciente que permaneceu preso durante todo o processo. Decisão denegatória suficientemente fundamentada Constrangimento ilegal não caracterizado Ordem denegada.
+O paciente foi condenado em primeira instância à pena de 9 anos, 9 meses e 7 dias de reclusão pela prática do crime de tráfico de drogas e do crime de associação para o tráfico (arts. 33, caput, e art. 35, da Lei nº 11.343/06) e desta decisão interpôs recurso de apelação, que ainda pende de julgamento.
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, confirmado pelo acórdão recorrido, pois foi condenado em primeira instância apesar da ausência de provas da materialidade, mas lhe foi negado o direito de recorrer em liberdade da sentença.
+Ao final, requer o provimento do recurso para que a prisão preventiva seja revogada.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+ .. . Com relação ao recurso em liberdade em razão da ausência dos requisitos da prisão cautelar e inidoneidade da r. sentença, constata-se que o MM. Juízo a quo fundamentou suficientemente a decretação e manutenção da prisão preventiva, agora agravada pela condenação; também não vislumbrou outros elementos de convicção favoráveis ao paciente, litteris:
+ ..  Mantenho a prisão preventiva do réu Wellington, que permaneceu preso ao longo do processo e não se alteraram as condições que conduziram ao seu segregamento cautelar, notadamente a gravidade em concreto dos fatos, consistente em manter o tráfico de drogas utilizando menores de idade, atividade que só cessou com a decretação da prisão preventiva. ..  (fl. 3.747 dos autos originários).
+Como se sabe, o direito de apelar em liberdade de sentença condenatória não se aplica a réu preso desde o início da instrução criminal, em decorrência de flagrante ou de preventiva, tampouco exige fundamentação exaustiva, bastando a convicção de que permanecem inalterados os motivos que ensejaram a prisão, o que ocorre na hipótese em análise  ..  (e-STJ fls. 75-76 - grifos acrescidos).
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a decisão de primeira instância fundamentou suficientemente a necessidade de manutenção da prisão preventiva para a garantia da ordem pública, notadamente em razão da gravidade concreta dos fatos, uma vez que cometia tráfico de drogas utilizando-se de menores de idade.
+De outro lado, o Magistrado, na sentença condenatória, entendeu presentes tais provas, confirmando o fumus comissi delicti que baseou a decretação da prisão preventiva, cabendo agora ao Tribunal de origem reanalisar as provas em sede de apelação . Assim, a discussão sobre a existência ou não de provas de materialidade dos crimes de tráfico de drogas e associação para o tráfico não pode ser feita nesse momento, uma vez que as instâncias ordinárias ainda nem foram esgotadas.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
