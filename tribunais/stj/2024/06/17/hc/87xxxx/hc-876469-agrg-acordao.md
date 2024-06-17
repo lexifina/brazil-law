@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. VIOLAÇÃO DO ART. 226 DO CÓDIGO DE PROCESSO PENAL - CPP. RATIFICAÇÃO DO RECONHECIMENTO EM JUÍZO. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA VÁLIDOS E INDEPENDENTES PARA A MANUTENÇÃO DA CONDENAÇÃO. AGRAVO DESPROVIDO.
+1. Esta Corte entende que a ratificação do reconhecimento pessoal em juízo serve como meio idôneo de prova para fundamentar a condenação do acusado pelo crime de roubo. Ressalta-se, ainda, a existência de outras provas produzidas em juízo aptas para embasar o decreto condenatório.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por ISAC ROCHA DA SILVA, contra decisão de minha lavra, de fls. 659/665, em que não conheci o presente habeas corpus.
+O agravante alega nulidade do reconhecimento fotográfico, que não teria sido corroborado por outras provas.
+Requer a reconsideração do decisum ou o provimento do agravo regimental, para conceder a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. VIOLAÇÃO DO ART. 226 DO CÓDIGO DE PROCESSO PENAL - CPP. RATIFICAÇÃO DO RECONHECIMENTO EM JUÍZO. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA VÁLIDOS E INDEPENDENTES PARA A MANUTENÇÃO DA CONDENAÇÃO. AGRAVO DESPROVIDO.
+1. Esta Corte entende que a ratificação do reconhecimento pessoal em juízo serve como meio idôneo de prova para fundamentar a condenação do acusado pelo crime de roubo. Ressalta-se, ainda, a existência de outras provas produzidas em juízo aptas para embasar o decreto condenatório.
+2. Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+Para melhor compreensão, transcrevo excerto do voto condutor:
+"A despeito das alegações defensivas, ainda que a vítima Matheus não tenha se recordado completamente dos detalhes da fisionomia dos autores do roubo durante a fase judicial, verifica-se que, além de o ofendido já ter reconhecido o réu Isac como um dos autores da ação criminosa durante a fase policial, ratificou o reconhecimento judicialmente ao mencionar que "na época, fez reconhecimento no momento do registro de ocorrência e depois mais um reconhecimento por foto, também da arma de fogo e da pessoa" e que "conseguiu reconhecer na época"" (fl. 630).
+Esta Corte entende que a ratificação do reconhecimento pessoal em juízo serve como meio idôneo de prova para fundamentar a condenação do acusado pelo crime de roubo. Ressalta-se, ainda, a existência de outras provas produzidas em juízo aptas para embasar a condenação, notadamente o depoimento da vítima, que foi ratificado em juízo, o qual manteve, com convicção, o depoimento realizado na polícia de que o paciente é o autor do delito. Rever esse entendimento demandaria exame detido de provas, inviável em sede do writ.
+Nesse sentido, vejam-se os seguintes precedentes:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. ABSOLVIÇÃO. OFENSA AO ART. 226 DO CPP. RECONHECIMENTO FOTOGRÁFICO. PRESENÇA DE OUTROS ELEMENTOS DE PROVA HÍGIDOS PARA A MANTENÇA DA CONDENAÇÃO. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. VALORAÇÃO NEGATIVA. MOTIVAÇÃO CONCRETA DECLINADA. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em razão da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+2. Em julgados recentes, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021).
+3. No caso dos autos, a autoria delitiva não tem como único elemento de prova o reconhecimento fotográfico, o qual, inclusive, restou ratificado pessoalmente em juízo, o que demonstra haver um distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, pois o agente foi reconhecido em juízo também como autor do roubo da motocicleta empregada no crime pelo proprietário do veículo, devendo, portanto, ser mantida a sua condenação, dada a existência de provas hígidas da autoria delitiva.
+4. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+5. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+6. No caso, conquanto o fato do bem não ter sido recuperado, de per si, não justifique o incremento da pena-base, o prejuízo suportado pela vítima deve ser reconhecido como superior ao ínsito aos delitos contra o patrimônio, considerando se tratar de roubo de motocicleta emprestada, o que autoriza a exasperação da reprimenda a título de consequências do crime.
+7. Agravo desprovido.
+(AgRg no HC n. 839.846/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1º/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITO DE ROUBO. PEDIDO DE ABSOLVIÇÃO EM RAZÃO DE ALEGADA NULIDADE DO RECONHECIMENTO PESSOAL. CONDENAÇÃO BASEADA EM OUTROS ELEMENTOS. INDEFERIMENTO DE DILIGÊNCIA. CERCEAMENTO DE DEFESA NÃO VERIFICADO. AGRAVO DESPROVIDO.
+1. A defesa requereu ao juízo a requisição das filmagens da câmera de segurança do posto de combustíveis com o objetivo de comprovar o alegado excesso dos policiais durante a abordagem. O pedido foi indeferido, por se tratar de alegação a ser apurada em outros autos. Assim, ao contrário do que sustenta o agravante, a diligência não foi requerida para fundamentar a tese de negativa de autoria do delito de roubo, de maneira que o prejuízo à defesa não se mostra comprovado, elemento essencial à declaração de nulidades relativas e absolutas.
+2. Quanto à absolvição em razão do reconhecimento pessoal não ter observado as formalidades do art. 226 do CPP, entendo não ser cabível a pretensão, uma vez que a condenação está fundamentada, também, em outras provas, com destaque para o fato de os bens subtraídos terem sido encontrados com o agravante, alguns deles em sua residência, dois dias após roubo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 773.083/SP, de minha relatoria, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. RECONHECIMENTO FOTOGRÁFICO ILEGAL. NÃO OBSERVÂNCIA À DISCIPLINA DO ART. 226 DO CPP. 2. EXISTÊNCIA DE OUTRAS PROVAS. LIVRE CONVENCIMENTO MOTIVADO. 3. PARTICULARIDADES DO CASO CONCRETO. RECONHECIMENTO IMEDIATO. DECLARAÇÕES FIRMES DAS VÍTIMAS. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência mais recente do Superior Tribunal de Justiça se firmou no sentido de que o acusado não pode ser condenado com base, apenas, em eventual reconhecimento falho, ou seja, sem o cumprimento das formalidades legais, as quais constituem, em verdade, garantia mínima para quem se encontra na condição de suspeito da prática de um delito.
+2. Lado outro, é possível que o julgador, destinatário das provas, convença-se da autoria delitiva a partir de outras provas que não guardem relação de causa e efeito com o ato do reconhecimento falho, porquanto, sem prejuízo da nova orientação, não se pode olvidar que vigora no nosso sistema probatório o princípio do livre convencimento motivado.
+3. Não obstante a não observância estrita do art. 226 do Código de Processo Penal, não é possível desconsiderar as particularidades do caso concreto, em especial as firmes declarações da vítima, que asseverou, tanto em sede inquisitorial quanto em sede judicial, não ter dúvidas sobre a autoria delitiva, porquanto não desviou o olhar do acusado, que foi reconhecido de imediato na delegacia, não obstante a apresentação de outras fotos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 751.629/SC, relator Ministro Reynaldo Soaresda Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
