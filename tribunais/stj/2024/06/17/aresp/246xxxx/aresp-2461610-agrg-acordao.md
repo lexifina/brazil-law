@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA PENAL. PENA-BASE. PROPORCIONALIDADE. EXASPERAÇÃO. MAUS ANTECEDENTES. IDONEIDADE. CONSONÂNCIA COM ENTENDIMENTO DESTA CORTE SUPERIOR.
+I - É pacífico o entendimento desta Corte no sentido de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade atribuída ao magistrado sentenciante, impede a revisão da reprimenda pelo Superior Tribunal de Justiça, exceto se ocorrer evidente desproporcionalidade, oportunidade que caberá a reapreciação para a correção de eventuais desacertos quanto ao cálculo das frações de aumento ou de diminuição e apreciação das circunstâncias judiciais.
+II - A exasperação da pena-base, segundo jurisprudência do STJ, deve primar pela observância dos princípios da razoabilidade e proporcionalidade, de modo que, de forma fundamentada, o magistrado pode fixar a pena-base no máximo legal, mesmo que tenha valorado tão somente uma circunstância judicial.
+III - A análise das circunstâncias judiciais não constitui operação aritmética, em que existe fração ou peso absoluto e fixo, mas sim exercício de discricionariedade, de acordo com o princípio da proporcionalidade e, também, pelo elementar senso de justiça, como no presente caso, cujo preceito secundário é de reclusão de 12 a 30 anos e a pena-base foi exasperada em 2 anos e 3 meses, fixada a pena-base em 14 anos e 3 meses, à conta dos maus antecedentes, que conta com dois registros no histórico criminal, à conta dos maus antecedentes, que conta com dois registros no histórico criminal.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VICENTE FERREIRA DA SILVA JUNIOR contra a decisão que conheceu do agravo para negar provimento ao recurso especial.
+Neste regimental, a Defesa entende pela exasperação da pena-base de modo injustificado, de modo que pugna pela reconsideração da decisão agravada ou pela submissão do recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA PENAL. PENA-BASE. PROPORCIONALIDADE. EXASPERAÇÃO. MAUS ANTECEDENTES. IDONEIDADE. CONSONÂNCIA COM ENTENDIMENTO DESTA CORTE SUPERIOR.
+I - É pacífico o entendimento desta Corte no sentido de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade atribuída ao magistrado sentenciante, impede a revisão da reprimenda pelo Superior Tribunal de Justiça, exceto se ocorrer evidente desproporcionalidade, oportunidade que caberá a reapreciação para a correção de eventuais desacertos quanto ao cálculo das frações de aumento ou de diminuição e apreciação das circunstâncias judiciais.
+II - A exasperação da pena-base, segundo jurisprudência do STJ, deve primar pela observância dos princípios da razoabilidade e proporcionalidade, de modo que, de forma fundamentada, o magistrado pode fixar a pena-base no máximo legal, mesmo que tenha valorado tão somente uma circunstância judicial.
+III - A análise das circunstâncias judiciais não constitui operação aritmética, em que existe fração ou peso absoluto e fixo, mas sim exercício de discricionariedade, de acordo com o princípio da proporcionalidade e, também, pelo elementar senso de justiça, como no presente caso, cujo preceito secundário é de reclusão de 12 a 30 anos e a pena-base foi exasperada em 2 anos e 3 meses, fixada a pena-base em 14 anos e 3 meses, à conta dos maus antecedentes, que conta com dois registros no histórico criminal, à conta dos maus antecedentes, que conta com dois registros no histórico criminal.
+Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento.
+Neste agravo regimental, consigno que a Defesa pretende a reforma da decisão ao entendimento da exasperação injustificada da pena-base.
+Acerca da temática recursal, o Tribunal de origem assim dispôs:
+"O Ministério Público também pede que seja utilizada a fração de 1/8 sobre o intervalo entre as penas cominadas, para cada circunstância valorada negativamente.
+De fato, o entendimento majoritário é no sentido de que se deve considerar razoável e proporcional o aumento da pena-base quando empregada a fração de 1/8 (um oitavo) sobre o intervalo entre as penas máxima e mínima cominadas, haja vista que são oito as circunstâncias judiciais enumeradas no artigo 59 do Código Penal. Nesse sentido, os seguintes precedentes desta Corte:
+ ..
+Dessa forma, com a negativação de apenas uma circunstância judicial (antecedentes) e, considerado o entendimento acima referido, fixo a pena base em 14 (quatorze) anos e 03 (três) meses de reclusão" (fls. 956-957).
+Consoante se denota, o Tribunal de origem, ao refazer a dosimetria, entendeu pela proporcionalidade no emprego da fração de 1/8 na primeira fase da dosimetria penal.
+É pacífico o entendimento desta Corte no sentido de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade atribuída ao magistrado sentenciante, impede a revisão da reprimenda pelo Superior Tribunal de Justiça, exceto se ocorrer evidente desproporcionalidade, oportunidade que caberá a reapreciação para a correção de eventuais desacertos quanto ao cálculo das frações de aumento ou de diminuição e apreciação das circunstâncias judiciais.
+Mister registrar que o entendimento desta Corte firmou-se no sentido de que a exasperação da pena-base deve primar pela observância dos princípios da razoabilidade e proporcionalidade.
+Desta maneira, o magistrado, de forma fundamentada, pode fixar a pena-base no máximo legal, mesmo que tenha valorado tão somente uma circunstância judicial.
+Certo é que a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito, desde que devidamente fundamentada. Por tal motivo, não há direito do subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja de 1/6 ou 1/8 da pena mínima ou intervalo entre as penas mínimas e máximas.
+Nesta toada: AgRg no REsp n. 1.966.870/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/3/2022; AgRg no AREsp n. 2.084.097/RS, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/5/2022.
+Assim, a análise das circunstâncias judiciais não constitui operação aritmética, em que existe f ração ou peso absoluto e fixo, mas sim exercício de discricionariedade, de acordo com o princípio da proporcionalidade e, também, pelo elementar senso de justiça, como no presente caso, cujo preceito secundário é de reclusão de 12 a 30 anos e a pena-base foi exasperada em 2 anos e 3 meses, fixada a pena-base em 14 anos e 3 meses, à conta dos maus antecedentes, que conta com dois registros no histórico criminal.
+Nesse sentido: AgRg nos EDcl no HC n. 796.565/SC, da minha relatoria, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024 e AgRg no HC n. 890.106/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/5/2024.
+Ante o exposto, tendo em vista que a parte agravante não conseguiu demonstrar o equívoco da decisão impugnada, nego provimento ao agravo regimental.
+É como voto.
