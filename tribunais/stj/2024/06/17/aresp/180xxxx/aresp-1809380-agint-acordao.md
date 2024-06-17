@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍTIMA DE VIOLÊNCIA POLICIAL. RESPONSABILIDADE DO ESTADO. REVISÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/S TJ.
+1. Ao tratar da fixação do dano moral, o Tribunal de origem apresentou estes fundamentos (fls. 495-496, e-STJ): "O dano moral suportado pelos autores, mãe, filhos, netos, bisnetos e irmã-ascendente, descendentes e colateral --, é absolutamente indiscutível e deflui da perda violenta e inesperada de um ente familiar que contava 58 anos de idade (fls. 12 do índice 114). E quanto ao genro, restou comprovado nos autos sua convivência diária com a vítima, na medida em que residiam na mesma casa, a configurar o dano moral também por ele suportado. Nesse cenário, não cobra reparos a sentença, por isso que a maior ou menor intensidade desse sofrimento, que empiricamente é proporcional ao grau de proximidade no parentesco, presta-se a balizar o quantum indenizatório, sopesado também em atenção ao valor global da reparação, e moderadamente quantificado e apoiado em precedentes jurisprudenciais nos seguintes termos (índice 344)".
+2. O Recurso Especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, conforme dispõe a Súmula 7/STJ. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência do STJ permite afastar o referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra desarrazoado nem desproporcional, a justificar sua reavaliação em Recurso Especial.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto de decisão de fls. 817-821, e-STJ, que conheceu dos Agravos previstos no art. 1.042 do CPC/2015 para não conhecer do Recurso Especial dos agravantes, tendo em vista a aplicação do entendimento da Súmula 7/STJ.
+Os agravantes sustentam, em suma (fl. 827, e-STJ):
+A aplicação da Súmula 07 do STJ foi o único fundamento utilizado para inadmissão do Recurso Especial dos ora Agravantes - que tratava da violação ao artigo 944 do Código Civil e divergência jurisprudencial - sob fundamento de necessidade de revisão de matéria fática e probatória para revisão das verbas indenizatórias.
+Transcorreu o prazo legal sem apresentação de Impugnação ao Agravo.
+Pleiteia a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍTIMA DE VIOLÊNCIA POLICIAL. RESPONSABILIDADE DO ESTADO. REVISÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/S TJ.
+1. Ao tratar da fixação do dano moral, o Tribunal de origem apresentou estes fundamentos (fls. 495-496, e-STJ): "O dano moral suportado pelos autores, mãe, filhos, netos, bisnetos e irmã-ascendente, descendentes e colateral --, é absolutamente indiscutível e deflui da perda violenta e inesperada de um ente familiar que contava 58 anos de idade (fls. 12 do índice 114). E quanto ao genro, restou comprovado nos autos sua convivência diária com a vítima, na medida em que residiam na mesma casa, a configurar o dano moral também por ele suportado. Nesse cenário, não cobra reparos a sentença, por isso que a maior ou menor intensidade desse sofrimento, que empiricamente é proporcional ao grau de proximidade no parentesco, presta-se a balizar o quantum indenizatório, sopesado também em atenção ao valor global da reparação, e moderadamente quantificado e apoiado em precedentes jurisprudenciais nos seguintes termos (índice 344)".
+2. O Recurso Especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, conforme dispõe a Súmula 7/STJ. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência do STJ permite afastar o referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra desarrazoado nem desproporcional, a justificar sua reavaliação em Recurso Especial.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignei no decisum, ao tratar da fixação do dano moral, o Tribunal de origem apresentou os seguintes fundamentos (fls. 495-496, e-STJ):
+O dano moral suportado pelos autores, mãe, filhos, netos, bisnetos e irmã-ascendente, descendentes e colateral --, é absolutamente indiscutível e deflui da perda violenta e inesperada de um ente familiar que contava 58 anos de idade (fls. 12 do índice 114).
+E quanto ao genro, restou comprovado nos autos sua convivência diária com a vítima, na medida em que residiam na mesma casa, a configurar o dano moral também por ele suportado.
+Nesse cenário, não cobra reparos a sentença, por isso que a maior ou menor intensidade desse sofrimento, que empiricamente é proporcional ao grau de proximidade no parentesco, presta-se a balizar o quantum indenizatório, sopesado também em atenção ao valor global da reparação, e moderadamente quantificado e apoiado em precedentes jurisprudenciais nos seguintes termos (índice 344): (..).
+O Recurso Especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, conforme dispõe a Súmula 7 do STJ. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência do STJ permite afastar o referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra desarrazoado nem desproporcional, a justificar sua reavaliação em Recurso Especial.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MORTE DE DETENTO. DANO MORAL. REVISÃO DO VALOR INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, que o quantum arbitrado a título de danos morais seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu na hipótese vertente.
+2 . Agravo interno não provido.
+(AgInt no AREsp 1663522/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 26/02/2021)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. MORTE DO FILHO DA AUTORA - BAIXA RENDA - DANOS MORAIS E MATERIAIS. INDENIZAÇÃO E PENSIONAMENTO.
+1. Esta Corte tem reconhecido, continuamente, o direito dos pais ao pensionamento pela morte de filho, independente de este exercer ou não atividade laborativa, quando se trate de família de baixa renda, como na hipótese dos autos.
+2. A revisão do valor da indenização somente é possível, em casos excepcionais, quando exorbitante ou insignificante a importância arbitrada, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, o que, todavia, in casu, não se configurou.
+3. Recurso parcialmente provido.
+(REsp 1133105/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/12/2009, DJe 18/12/2009)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
