@@ -1,0 +1,107 @@
+Trata-se de reclamação, com pedido liminar, proposta por LDO Digital Ltda. contra acórdão proferido pelo Tribunal Regional do Trabalho da 2ª Região – TRT2 na Ação Trabalhista 1000428-75.2023.5.02.0422, para garantir a observância das teses fixadas pelo Supremo Tribunal Federal no julgamento da ADPF 324/DF, da ADC 48/DF e da ADI 5.625/DF.
+
+    A reclamante aduz que:
+
+    discute-se o reconhecimento de suposto vínculo empregatício decorrente de contrato de prestação de serviços regularmente celebrado entre pessoas jurídicas.
+
+    [...] o Autor do procedimento trabalhista ajuizou ação em face da ora Reclamante (Requerida na origem) alegando que o contrato de prestação de serviços firmado entre as partes como gerente de criação de lojas de dropshipping seria fraudulento. Porém, conforme se extrai da R. Decisão objeto da presente reclamação, sequer é alegada na origem qualquer vulnerabilidade ou vício de consentimento por parte do prestador de serviço, o qual simplesmente contraria o contrato firmado livremente entre as partes para tentar se beneficiar na Justiça Laboral (doc. 1, pp. 1 e 3).
+
+    Afirma que:
+
+    [...] foi reconhecida relação empregatícia in casu, desconsiderando a atuação pretérita e contínua do Autor como pessoa jurídica, assim como o contrato de prestação de serviços de natureza cível firmado entre as partes.
+
+    Ao analisar a matéria em casos semelhantes, esta Suprema Corte tem analisado justamente que a licitude da contratação de pessoa jurídica, bem como a ausência de vulnerabilidade na opção pelo contrato, de modo a não se justificar a proteção estatal (doc. 1, p. 6).
+
+    Sustenta, também, que:
+
+    [...] não se trata de prestador de serviços de forma alguma subordinado à empresa, visto que apresentou-se como pessoa jurídica (com atuação pretérita na área) com grande experiência em prestação de serviços no ramo digital (área de atividade da empresa contratante), inclusive, não possuindo interesse nenhum em laborar sob os ditames da legislação trabalhista (até porque reside a mais de mil quilômetros do endereço da empresa e não é crível que não tenha sido possível achar um emprego celetista nesse caminho). Evidentemente, sendo uma pessoa instruída e consciente, acordou com os termos contratuais e, posteriormente, alegou coisa diversa, por achar que seria mais benéfico (doc. 1, p. 9).
+
+    Ao final, aponta o preenchimento dos requisitos necessários para o provimento do pedido liminar e requer, no mérito:
+
+    [...] a procedência da presente Reclamação, nos termos dos arts. 992 e 993, do CPC, determinando-se a cassação do acórdão reclamado, proferido pelo E. Tribunal Regional do Trabalho da 2ª Região, para julgar improcedente a Ação Trabalhista nº 1000428-75.2023.5.02.0422 em razão da validade da contratação de pessoa jurídica para prestar serviços, haja vista que a v. Decisão Reclamada viola (I) o entendimento desta E. Corte no Tema de Repercussão Geral nº 725, bem como (II) outros inúmeros precedentes consolidados em controle concentrado de constitucionalidade pela Suprema Corte, tais como ADPF nº 324, ADC nº 48 e ADI nº 3.961 (doc. 1, p. 13).
+
+    É o relatório. Decido.
+
+    Preliminarmente, observo que a ação está apta a ser julgada, por isso, deixo de requisitar as informações e de enviar o feito à Procuradoria-Geral da República (arts. 52, parágrafo único, e 161, parágrafo único, ambos do Regimento Interno do Supremo Tribunal Federal – RISTF).
+
+    A reclamação é procedente, pois o acórdão reclamado descumpriu precedentes vinculantes proferidos pelo Supremo Tribunal Federal, conforme será demonstrado.
+
+    A reclamante sustenta que o ato impugnado descumpriu o entendimento firmado pelo Supremo Tribunal Federal no julgamento da ADPF 324/DF, do RE 958.252 RG/MG – Tema 725 RG, da ADC 48/DF e da ADI 3.961/DF, que estabeleceram as seguintes teses, respectivamente:
+
+    1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada.
+
+     2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993 (ADPF 324/DF, Rel. Min. Luís Roberto Barroso, DJe 6/9/2019).
+
+    É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante (RE 958.252 RG/MG – Tema 725/RG, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 13/9/2019).
+
+    1 - A Lei nº 11.442/2007 é constitucional, uma vez que a Constituição não veda a terceirização, de atividade-meio ou fim. 2 - O prazo prescricional estabelecido no art. 18 da Lei nº 11.442/2007 é válido porque não se trata de créditos resultantes de relação de trabalho, mas de relação comercial, não incidindo na hipótese o art. 7º, XXIX, CF. 3 - Uma vez preenchidos os requisitos dispostos na Lei nº 11.442/2007, estará configurada a relação comercial de natureza civil e afastada a configuração de vínculo trabalhista (ADC 48/DF e ADI 3.961/DF, julgadas em conjunto, Rel. Min. Luís Roberto Barroso, Tribunal Pleno, DJe 19/5/2020).
+
+    Sobre o tema, detalho que o Supremo Tribunal Federal, com fundamento nos princípios constitucionais da livre iniciativa e da livre concorrência, assentou ser possível a terceirização de qualquer atividade econômica, ficando superada a distinção estabelecida entre atividade-fim e atividade-meio firmada pela jurisprudência trabalhista. Também reconheceu a licitude de outras formas de contratação e prestação de serviços, alternativas à relação de emprego.
+
+    No caso concreto, porém, observo que o TRT2, ao analisar o recurso ordinário, manteve a sentença que reconheceu o vínculo empregatício entre a reclamante e a beneficiária, assim decidindo:
+
+    RECURSO ORDINÁRIO EM RITO SUMARÍSISMO INTERPOSTO PELA RECLAMADA. Regime de Teletrabalho. Art. 63, inciso III, da CLT. Fiscalização indireta da jornada de trabalho. Possibilidade. Excesso de labor e trabalho noturno. Presunção favorável ao trabalhador não elidida por outros elementos dos autos. Horas extras e adicional noturno devidos. A exceção contida no art. 63, inciso III, da CLT, aplica-se somente às hipóteses em que os empregados em regime de teletrabalho possuam atividade verdadeiramente incompatível com o controle de jornada, o que não se coaduna com a situação versada nos autos, diante do contexto probatório indicativo de que havia reuniões diárias para acerto das tarefas, bem assim da considerável ingerência nas atividades da autoria por meio de aplicativo eletrônico, efetivando-se o controle indireto da jornada de trabalho. Não elidida a presunção favorável ao trabalhador, relativamente à extrapolação da jornada e à realização do trabalho noturno, a condenação imposta quanto ao pagamento de horas extras e ao adicional de que trata o art. 73, Consolidado, deve ser referendada. Apelo conhecido e não provido (doc. 8, p. 1).
+
+    Destaco os seguintes trechos do voto condutor do referido acórdão:
+
+    [...] Milita, ainda, desfavoravelmente à recorrente, a ausência de testemunhas aptas a cumprir o ônus probatório que lhe pertencia com atributo de exclusividade.
+
+    Diversamente do pretendido nas razões recursais, não se extrai do depoimento pessoal do reclamante qualquer traço de confissão, pois a referência dali extraída ao trabalho autônomo refere-se a circunstâncias anteriores à contratação pela parte reclamada (cerca de 1 ano antes), sobrevindo a informação complementar de que lhe foi exigida exclusividade pela ré, com o relato de que o "site do depoente parou e o único trabalho foi como subgerente da reclamada" (Id da611b1).
+
+    Dessa forma, a atuação pretérita do reclamante, por meio de loja virtual de sua titularidade, destinada a venda de produtos diversificados na esfera do denominado ae-commerce, a realização do trabalho de forma exclusivamente remota, assim como o fato de o reclamante possuir cadastro no site "99Freelas", desde 2019 (conforme relatado em depoimento pessoal), não configuram fatores excludentes da relação empregatícia, uma vez reunidos os requisitos legais para tal desiderato na relação jurídica existente entre as partes, devendo ser lembrado o princípio da primazia da realidade, informador do Direito do Trabalho.
+
+    Mesmo que assim não fosse, eventual prestação de serviços a tomadores diversos - se e quando concretizada - não teria o condão de desnaturar os elementos definidores da vinculação empregatícia, considerados os demais dados probatórios reunidos no acervo destes autos, já suso enfocados. Trataria-se de questão alheia à lide, que não impede o reconhecimento do liame de emprego, quanto comprovadamente presentes os pressupostos fático-jurídicos que o delimitam, sem que se perca de vista que a própria preposta admitiu que "não chegou ao conhecimento da reclamada que o autor tenha trabalhado em outra empresa durante o período em que prestou serviços para a reclamada" (Id da611b1).
+
+    É certo que o Pleno do E. STF, na apreciação do RE 958282 (Leading Case), fixou a tese, com repercussão geral e efeitos erga omnes, de que é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, abrangendo inclusive a atividade-fim (e não apenas a atividade-meio) da empresa tomadora. Todavia, também é certo que, nas hipóteses de flagrante fraude aos princípios norteadores do Direito do Trabalho, deverá incidir o princípio da primazia da realidade, à luz da regra insculpida no art. 9º, da CLT, consoante aplicado - e com acerto - pelo Juizo de Origem.
+
+    Destarte, sopesado o conjunto probatório delineado, restou patenteada a prestação de serviços do autor por todo o lapso reconhecido pela Origem, com pessoalidade, onerosidade e habitualidade, sendo certo que a subordinação jurídica, principal traço delineador da relação empregatícia, para além de constituir presunção favorável ao trabalhador, à luz dos princípios norteadores do Direito Obreiro, remanesceu igualmente patenteada nos autos, a teor dos dados acima enfocados.
+
+    Destarte, presentes os requisitos insculpidos nos arts. 2º e 3º, da CLT, correta a MM. Vara de Origem ao reconhecer o vínculo empregatício entre as partes, não desafiando qualquer reparo a r. sentença recorrida, nesse particular.
+
+    Nada a ser reparado, portanto (doc. 8, pp. 3-4).
+
+    Trata-se de uma relação entre uma empresa (reclamante) e uma microempresa, constituída antes da prestação de serviços, para criação de lojas de dropshipping, de propriedade do beneficiário do ato reclamado. O trabalho era exercido exclusivamente pelo meio remoto.
+
+    Ao reconhecer o vínculo de emprego, a Justiça do Trabalho desconsiderou os aspectos jurídicos relacionados à questão, em especial os precedentes do Supremo Tribunal Federal que consagram a liberdade econômica e de organização das atividades produtivas.
+
+    Nesse sentido, destaco os seguintes julgados:
+
+    DIREITO DO TRABALHO. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA ÀS DECISÕES PROFERIDAS NA ADPF 324, NO RE 958.252, NA ADC 48, NA ADI 3.961 E NA ADI 5.625. LICITUDE DE OUTRAS FORMAS DE ORGANIZAÇÃO DA PRODUÇÃO E DE PACTUAÇÃO DA FORÇA DE TRABALHO. 1. Agravo interno interposto contra decisão monocrática pela qual se julgou procedente o pedido formulado na reclamação, para cassar decisão de Tribunal Regional do Trabalho que afastou contrato de sociedade, reconhecendo a existência de relação de emprego entre as partes. 2. Ofensa ao decidido nos paradigmas invocados (ADPF 324, no RE 958.252 (Tema 725 RG), na ADC 48 e na ADIs 3.961 e 5.625), nos quais se reconheceu a licitude de outras formas de organização da produção e de pactuação da força de trabalho. 3. O contrato de emprego não é a única forma de se estabelecerem relações de trabalho, pois um mesmo mercado pode comportar alguns profissionais que sejam contratados pelo regime da Consolidação das Leis do Trabalho e outros profissionais cuja atuação tenha um caráter de eventualidade ou maior autonomia. 4. São lícitos, ainda que para a execução da atividade-fim da empresa, os contratos de terceirização de mão de obra, parceria, sociedade e de prestação de serviços por pessoa jurídica (pejotização), desde que o contrato seja real; isto é, de que não haja relação de emprego com a empresa tomadora do serviço, com subordinação, horário para cumprir e outras obrigações típicas do contrato trabalhista, hipótese em que se estaria fraudando a contratação. 5. Caso em que o reclamante não se trata de trabalhador hipossuficiente, sendo capaz, portanto, de fazer uma escolha esclarecida sobre sua contratação. Inexistente, na decisão reclamada, qualquer elemento concreto de que tenha havido coação na contratação celebrada. 6. Agravo interno a que se nega provimento (Rcl 56.285 AgR/SP, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 30/3/2023).
+
+    Agravo regimental em reclamação. Tema nº 725 da Repercussão Geral (RE nº 958.252) e ADPF nº 324. Prestação de serviços na atividade-fim de empresa tomadora de serviço por sociedade jurídica unipessoal. Fenômeno jurídico da ‘pejotização’. Existência de aderência estrita entre o ato reclamado e os paradigmas do STF. Agravo regimental provido. Reclamação julgada procedente. 1. O tema de fundo, referente à regularidade da contratação de pessoa jurídica constituída como sociedade unipessoal para a prestação de serviço médico, atividade-fim da empresa tomadora de serviços, nos termos de contrato firmado sob a égide de normas do direito privado, por se relacionar com a compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho, revela aderência estrita com a matéria tratada no Tema nº 725 da Sistemática da Repercussão Geral e na ADPF nº 324. 2. A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/88, art. 7º), sendo conferida liberdade aos agentes econômicos para eleger suas estratégias empresariais dentro do marco vigente, com fundamento no postulado da livre iniciativa (CF/88, art. 170), conforme julgado na ADC nº 48. 3. Procedência do pedido para afirmar a licitude do fenômeno da contratação de pessoa jurídica unipessoal para a prestação de serviço a empresa tomadora de serviço, destacando-se não somente a compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho assentada nos precedentes obrigatórios, mas também a ausência de condição de vulnerabilidade na opção pelo contrato firmado na relação jurídica estabelecida que justifique a proteção estatal por meio do Poder Judiciário. Precedentes. 4. Agravo regimental provido e reclamação julgada procedente (Rcl 57.917 AgR, Rel. Min. Edson Fachin, Rel. p/ Acórdão Min. Dias Toffoli, Segunda Turma, DJe 28/6/2023).
+
+    CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. NULIDADE POR NÃO CITAÇÃO DA PARTE BENEFICIÁRIA DA DECISÃO RECLAMADA (ART. 989, III, DO CPC). INOCORRÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. OFENSA AO QUE DECIDIDO POR ESTE TRIBUNAL NO JULGAMENTO DA ADPF 324 E DO TEMA 725 DA REPERCUSSÃO GERAL. CONTRATO DE REPRESENTAÇÃO COMERCIAL. PERMISSÃO CONSTITUCIONAL DE FORMAS ALTERNATIVAS DA RELAÇÃO DE EMPREGO. AGRAVO DESPROVIDO. 1. As razões que poderiam ter sido deduzidas em sede de contestação, a fim de influir no julgamento da presente Reclamação, foram apresentadas neste recurso de Agravo, não havendo qualquer prejuízo ao Agravante. Incide, portanto, a regra segundo a qual não haverá declaração de nulidade quando não demonstrado o efetivo prejuízo causado à parte (pas de nulitté sans grief). 2. A controvérsia que se apresenta nestes autos é comum tanto ao que decidido no julgamento da ADPF 324 (Rel. Min. ROBERTO BARROSO) quanto no do Tema 725-RG (RE 958.252, Rel. Min. LUIZ FUX), oportunidade em que esta CORTE fixou tese no sentido de ser lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante. 3. A conclusão adotada pelo acórdão reclamado acabou por contrariar os resultados produzidos nos RE 958.252 (Rel. Min. LUIZ FUX) e ADPF 324 (Rel. Min. ROBERTO BARROSO), a sugerir, consequentemente, o restabelecimento da autoridade desta CORTE quanto ao ponto. 4. Recurso de Agravo a que se nega provimento (Rcl 61.526 AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 7/11/2023).
+
+    Na base empírica do acórdão impugnado inexiste menção a vício de consentimento ou condição de vulnerabilidade da contratada na opção da relação jurídica estabelecida.
+
+    Em casos como o deste processo, a existência de vulnerabilidade é critério que vem sendo utilizado pelo Supremo Tribunal Federal para a análise da existência de vínculo de emprego entre as partes contratantes e a licitude da contratação, conforme assentado nos seguintes julgados:
+
+    Agravo regimental em reclamação. Tema nº 725 da Repercussão Geral (RE nº 958.252) e ADPF nº 324. Prestação de serviços na atividade-fim de empresa tomadora de serviço por sociedade jurídica unipessoal. Fenômeno jurídico da “pejotização”. Existência de aderência estrita entre o ato reclamado e os paradigmas do STF. Agravo regimental provido. Reclamação julgada procedente. 1. O tema de fundo, referente à regularidade da contratação de pessoa jurídica constituída como sociedade unipessoal para a prestação de serviço médico, atividade-fim da empresa tomadora de serviços, nos termos de contrato firmado sob a égide de normas do direito privado, por se relacionar com a compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho, revela aderência estrita com a matéria tratada no Tema nº 725 da Sistemática da Repercussão Geral e na ADPF nº 324. 2. A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/88, art. 7º), sendo conferida liberdade aos agentes econômicos para eleger suas estratégias empresariais dentro do marco vigente, com fundamento no postulado da livre iniciativa (CF/88, art. 170), conforme julgado na ADC nº 48. 3. Procedência do pedido para afirmar a licitude do fenômeno da contratação de pessoa jurídica unipessoal para a prestação de serviço a empresa tomadora de serviço, destacando-se não somente a compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho assentada nos precedentes obrigatórios, mas também a ausência de condição de vulnerabilidade na opção pelo contrato firmado na relação jurídica estabelecida que justifique a proteção estatal por meio do Poder Judiciário. Precedentes. 4. Agravo regimental provido e reclamação julgada procedente (Rcl 57.917 AgR/SP, Rel. Min. Edson Fachin, Red. p/ Acórdão Min. Dias Toffoli, Segunda Turma, DJe 28/6/2023 – grifei).
+
+    No mesmo sentido: Rcl 63.271/RS, DJe 31/10/2023; Rcl 66.211/PR, DJe 7/3/2024, ambas da minha relatoria.
+
+    Ademais, no julgamento da ADC 66/DF, da relatoria da Ministra Cármen Lúcia, em relação aos benefícios fiscais e previdenciários de empresas prestadoras de serviços intelectuais, inclusive os de natureza científica, artística ou cultural, em caráter personalíssimo ou não (art. 129 da Lei n. 11.196/2005), o Ministro Dias Toffoli asseverou em seu voto:
+
+    Com essa medida, de um lado, a parte contratante desses serviços tem relevante diminuição de ônus não só tributários, mas também trabalhistas. De outro lado, os serviços contratados não mais ficam sujeitos, inclusive para fins previdenciários, às regras de tributação aplicáveis às pessoas físicas, como aquelas atinentes ao imposto de renda devido por pessoa física.
+
+    Para além dos incentivos previdenciários e tributários, a presente ação direta se insere no contexto da conjugação da livre iniciativa com a valorização do trabalho humano, as quais fundamentam a ordem econômica e com as quais se busca atingir os objetivos fundamentais da República Federativa do Brasil, inscritos no art. 3º da Magna Carta (ADC 66/DF, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 8/1/2021 – grifei).
+
+    Portanto, na espécie, ao reconhecer o vínculo de emprego, a Justiça do Trabalho desconsiderou os aspectos jurídicos relacionados à questão, em especial os precedentes do Supremo Tribunal Federal que consagram a liberdade econômica e de organização das atividades produtivas.
+
+    Assim, reconheço a existência de afronta à autoridade das decisões proferidas na ADPF 324/DF e no RE 958.252 RG/MG – Tema 725 RG, na parte em que reconhece o vínculo de emprego entre a reclamante e o beneficiário.
+
+    Posto isso, com fundamento no art. 992 do CPC e no art. 161, parágrafo único, do RISTF, julgo procedente o pedido para cassar a decisão reclamada e afastar o vínculo de emprego reconhecido na Justiça do Trabalho entre a reclamante e o beneficiário do ato reclamado.
+
+    Sem condenação em honorários, pois não houve angularização processual.
+
+    Atribua-se a esta decisão força de mandado/ofício.
+
+    Intime-se. Comunique-se com urgência.
+
+    Publique-se.
+
+    Brasília, 17 de junho de 2024.
+
+Ministro Cristiano Zanin
+
+Relator
