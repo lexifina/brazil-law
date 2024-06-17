@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIAL, FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+Mesmo se tratando de um recurso claramente revestido por todos os requisitos estabelecidos em lei, fora negado seguimento, sob o argumento de que é vedado o reexame de matéria fático-probatória nas Cortes Superiores.
+Na decisão ora combatida, o Douto Desembargador claramente não levou em conta os dispositivos constitucionais apontados no Recurso Especial, pretensamente contrariados pelo acórdão recorrido.
+Invocou a Ilustríssima Ministra a Súmula 284,com o propósito de incutir a ideia de que o Recurso Especial não contém fundamentação suficiente para seu processamento.
+Máxima vênia, não é isso que ocorreu nos autos. Com o advento do Código de Processo Civil de 2015 e a vinculação dos precedentes, a incidência do verbete sumular exige efetiva demonstração do cotejo entre os fundamentos de similitude, e não apenas a menção genérica, conforme o artigo 489, § 1º.
+Obtempere-se que em momento algum a Súmula 284 exige a indicação de dispositivo de lei federal, pois, a contrário sensu, não há necessidade de indicação de dispositivo de lei federal de forma numérica para que haja a compreensão da controvérsia.
+Até porque o contrário poderia ser inverídico. Se a súmula 284 do STF se bastasse pela indicação numérica de dispositivo de lei federal ter-se-ia o problema de que a mera transcrição de artigos bastasse para impor o exame do Recurso Especial e Extraordinário, dispensando a argumentação. E não se trata nada disso.
+Dito de outro modo, a súmula 284 do STF pretende obstar que a parte interponha recurso excepcional (expressão que abrange o recurso especial e o extraordinário) sem coesão, sem adoção de uma linha lógica de argumentação e fundamentação, o que não ocorreu no presente caso. (fl. 132/133).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: divergência não comprovada - Súmula 284/STF.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
