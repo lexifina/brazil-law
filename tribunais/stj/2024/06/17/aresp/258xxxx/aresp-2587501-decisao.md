@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por YAMAHA MOTOR DO BRASIL LTDA contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, dirigido contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Cível n. 1024779-14.2020.8.26.0224.
+Na origem, a parte agravante impetrou mandado de segurança a fim de salvaguardar o direito líquido e certo de não ser compelida a se submeter a nova redação dada pelo Decreto n. 62.398/2016 ao art. 68, inciso III, do RICMS/SP, que vedou a possibilidade de manutenção de créditos de ICMS nas operações antecedentes às saídas para outros Estados, de lubrificantes derivados de petróleo.
+Nas razões do apelo nobre, a recorrente deduz suas alegações de ofensa à lei federal amparada nos seguintes fundamentos (fl. 429):
+a) as operações interestaduais com lubrificantes, na verdade se submetem a um tratamento constitucional tributário (art. 155, II, e § 2º, X, "b") de mudança na sujeição ativa para exigência do tributo, pois o ICMS é recolhido, contudo ao Estado de destino da operação - trata-se de mera distribuição de competência tributária e não de ISENÇÃO ou NÃO INCIDÊNCIA;
+b) tais operações NÃO se sujeitam às regras constitucionais de estorno dos créditos de ICMS nas operações antecedentes às saídas interestaduais (art. 155, II, § 2º, II, "b"), justamente por não estarem sob o manto de isenção ou não incidência; e
+c) bem por isso, o ato coator combatido nos presentes autos é ilegal e inconstitucional, pois veda exatamente o direito líquido e certo da Recorrente de manter os créditos de ICMS (a Autoridade Coatora determina o estorno) nas operações antecedentes às remessa de lubrificantes para outros Estados.
+O Ministério Público Federal manifestou-se pela devolução dos autos à origem (fl. 631).
+É o relatório. Decido.
+No Supremo Tribunal Federal, encontra-se pendente a apreciação do Tema de Repercussão Geral n. 1.258 (RE n. 1.362.742/MG), a respeito da "possibilidade de manutenção dos créditos de ICMS relativos às operações internas anteriores à operação interestadual com combustíveis derivados de petróleo imune ao imposto devido ao estado de origem".
+Nessa conjuntura, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, a Corte de origem proceda nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem -se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. TEMA COM REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO À ORIGEM. RECURSO PREJUDICADO.
