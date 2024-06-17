@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  em  benefício  de  FABRÍCIO HENRIQUE DOS SANTOS MEDINA,  impetrado  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO,  no  julgamento  do  Agravo  de  Execução  Penal  n.  0001177-85.2024.8.26.0154.
+Narra o impetrante que foi requerido ao Juízo de Execução a remição pela aprovação do ENCCEJA, contudo foi indeferido o pleito sob a fundamentação de que o paciente não havia comprovado os estudos dentro do cárcere
+Irresignada,  a  Defesa  interpôs  agravo  perante  o  Tribunal  de  origem,  que  negou  provimento  ao  recurso.
+No  presente  writ,  sustenta aplicação da Recomendação n. 44/2013 e da Resolução n. 391/2021, ambas do Conselho Nacional de Justiça.
+Afirma que é
+irrelevante que o apenado já tenha estudado antes da prisão, o que não afasta a necessidade do seu esforço individual e dedicação aos estudos para aprovação no ENCCEJA, sendo inegável seu caráter ressocializador, fim primordial da execução penal (fl. 4).
+Requer,  em  liminar  e  no  mérito,  que seja concedida a remição pela aprovação do ENCCEJA em favor do paciente.
+É  o  relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020,  e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+E,  consoante  orientação  desta  Corte  Superior,
+o  dispositivo  regimental  que  prevê  abertura  de  vista  ao  Ministério  Público  Federal  antes  do  julgamento  de  mérito  do  habeas  corpus  impetrado  nesta  Corte  (arts.  64,  III,  e  202,  RISTJ)  não  retira  do  relator  do  feito  a  faculdade  de  decidir  liminarmente  a  pretensão  que  se  conforma  com  súmula  ou  jurisprudência  dominante  no  Superior  Tribunal  de  Justiça  ou  a  confronta  (AgRg  no  HC  530.261/SP,  Rel.  Ministro  Sebastião  Reis  Júnior,  Sexta  Turma,  julgado  em  24/09/2019,  grifamos).
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O  Juízo  de  primeiro  grau  indeferiu o pedido de remição  mediante  a  seguinte  fundamentação  (fl.  9):
+Trata-se de pedido de remição formulado pelo(a) sentenciado(a) FABRICIOHENRIQUE DOS SANTOS MEDINA, sob o fundamento de aprovação no ENCCEJA PPL 2023.
+O pedido de remição por estudo é de ser indeferido.
+O fato de o reeducando ter sido aprovado em exames nacionais (ENCCEJA ou ENEM), por si só, não lhe dá direito à pretendida remição por estudo, pois, para tanto, o interessado precisa comprovar a dedicação aos estudos, dentro da unidade prisional (por conta própria ou com acompanhamento), atividade que precisa ser fiscalizada para se aferir como se deu a frequência e, inclusive, se houve respeito aos limites de tempo estabelecidos; o benefício se destina aos reeducandos que se dedicam aos estudo durante o cumprimento da pena (art. 126, "caput", e § 5º, da Lei de Execução Penal).
+No caso dos autos, o reeducando não comprovou que os estudos foram realizados no curso do cumprimento da pena e na unidade prisional, razão pela qual inviável o deferimento do pedido.
+Irresignada,  a  Defesa  interpôs  agravo  perante  o  Tribunal  de  origem,  que  negou  provimento  ao  recurso  em  acórdão  assim  consignado (fls.  7/8):
+O Agravante, reincidente, cumpre pena de dez (10)anos e quatro (4) meses de reclusão pelos crimes de tráfico de drogas e roubo agravado. Realizou o Exame Nacional para Certificação de Competências para Jovens e Adultos (ENCCEJA) para pessoas privadas de liberdade em dezembro de 2023 e, aprovado, requereu a remição, indeferida pelo juízo de origem. O Agravante se insurge, sustentando que a aprovação no exame teria certificado a conclusão do ensino fundamental.
+Acontece que conforme bem salientado pelo promotor de justiça, o Agravante concluiu o ensino fundamental no ano de 2010, a denotar que o estudo prévio, para fins de aprovação em exame de certificação, obviamente não foi empreendido no estabelecimento prisional.
+A lei visa possibilitar a remição pelo estudo para o recluso que tenha realizado atividade estudantil "intramuros", por conta própria e que, nesse contexto e em razão disso, conclui o ensino médio, não beneficiando aquele que tendo finalizado essa etapa da atividade estudantil fora do cárcere, resolve se submeter ao exame de certificação para obter indevidamente um benefício.
+Daí porque inviável a concessão da benesse pleiteada.
+Ante o exposto, o meu voto nega provimento ao agravo.
+O entendimento das instâncias ordinárias é que o paciente não poderia ser beneficiado pela remição pela aprovação no ENCCEJA, já que teria concluído o ensino médio antes de iniciar o cumprimento de pena.
+Por  sua  vez,  ambas as Turmas da Terceira Seção deste Tribunal firmaram posicionamento no sentido de que a conclusão do ensino médio ou superior antes do início da execução da pena possibilita a remição por estudo, pois a aprovação no ENCCEJA ou ENEM demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino (EREsp n. 1.979.591/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023).
+Assim sendo, é devido o aproveitamento dos estudos realizados durante a execução da pena com o objetivo específico de lograr aprovação nessa exigente avaliação nacional, nos termos do art. 126 da Lei de Execução Penal e da Resolução n. 391/2021 do Conselho Nacional de Justiça.
+Nesse  sentido,  os  seguintes  precedentes  (grifamos):
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REMIÇÃO DA PENA PELO ESTUDO POR CONTA PRÓPRIA E CONCLUSÃO DO ENSINO FUNDAMENTAL PELO ENCCEJA -POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP, segundo jurisprudência desta Corte, é possível a hipótese de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal.
+2. A Resolução CNJ n. 391/2021 prevê que faz jus à remição o apenado que, embora não esteja vinculado a atividades regulares de ensino, realiza estudos por conta própria e obtém aprovação nos exames nacionais que certificam a conclusão do ensino fundamental/médio.
+3. A interpretação extensiva do art. 126, § 1º, I, da LEP aliada ao disposto na Resolução CNJ n. 391/2021, orientação deduzida na decisão agravada e que prestigia o estudo como método factível para o alcance da reintegração social, vem sendo adotada em decisões de ambas as Turmas que compõem a Terceira Seção desta Corte Superior de Justiça.
+4. A Terceira Seção do Superior Tribunal de Justiça, ao julgar o EREsp 1.979.591/SP, relatado pelo Ministro Messod Azulay Neto e publicado em 13/11/2023, decidiu por unanimidade acompanhar o entendimento da Quinta Turma em que ficou estabelecido que a remição de pena pode ser concedida pela aprovação no ENEM, mesmo se o reeducando já possuía o diploma de ensino médio antes de iniciar o cumprimento da pena.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.107.364/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. APROVAÇÃO ENEM. CONCLUSÃO DO ENSINO MÉDIO ANTES DO ENCARCERAMENTO. ACRÉSCIMO DE 1/3 AFASTADO.
+1. "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 768.530/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+De  rigor,  portanto  o  reconhecimento  do  constrangimento  ilegal.
+Ante  o  exposto,  com  fundamento  no  art.  34,  XX,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  presente  habeas  corpus.  Contudo,  concedo  liminarmente  a  ordem  de  habeas  corpus,  de  ofício,  para determinar ao Juízo das execuções aplique o benefício da remição pela conclusão do ensino fundamental em razão da aprovação no ENCCEJA.
+Publique-se.
+Intimem-se.
+EMENTA
