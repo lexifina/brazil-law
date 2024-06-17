@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. FALTA DE MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM ACERCA DAS MATÉRIAS AGITADAS PELA DEFESA. SUPRESSÃO DE INSTÂNCIA. CONTRARIEDADE À ARQUITETURA CONSTITUCIONAL. IMPETRAÇÃO CONCOMITANTE COM O RECURSO DE APELAÇÃO. AGRAVO DESPROVIDO.
+1. A Corte estadual não enfrentou nenhum dos temas trazidos pela defesa, limitando-se a discorrer acerca da superveniência de sentença condenatória que gera novo título a embasar a prisão do ora agravante.
+2. Diante do não enfrentamento das teses defensivas, por parte do Tribunal de origem, há impedimento para a atuação desta Corte Superior, sob pena de indevida supressão de instância (já que configura a impetração per saltum) e inversão das regras de competência previstas na arquitetura constitucional.
+3. A matéria objeto da impetração ainda será analisada de forma ampla e exauriente no âmbito da apelação, recurso dotado de efeito devolutivo amplo, não podendo o remédio heroico promover um indevido alargamento de competências, conforme já decidido pela Terceira Seção desta Corte Superior, no HC n. 482.549/SP.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS HENRIQUE DE OLIVEIRA E SILVA GONÇALVES contra decisão de minha lavra (e-STJ fls. 328/330), na qual não conheci da impetração, por supressão de instância.
+No presente recurso, a defesa assere que "forçar o agravante a impetrar novo habeas corpus com os mes mos pedidos que já poderiam ter sido apreciados, vai na contramão do princípio da economia e celeridade processual." (e-STJ fl. 336).
+Assim, pugna pela reconsideração da decisão recorrida ou a apreciação da matéria pelo colegiado da Quinta Turma.
+É, em síntese, o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. FALTA DE MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM ACERCA DAS MATÉRIAS AGITADAS PELA DEFESA. SUPRESSÃO DE INSTÂNCIA. CONTRARIEDADE À ARQUITETURA CONSTITUCIONAL. IMPETRAÇÃO CONCOMITANTE COM O RECURSO DE APELAÇÃO. AGRAVO DESPROVIDO.
+1. A Corte estadual não enfrentou nenhum dos temas trazidos pela defesa, limitando-se a discorrer acerca da superveniência de sentença condenatória que gera novo título a embasar a prisão do ora agravante.
+2. Diante do não enfrentamento das teses defensivas, por parte do Tribunal de origem, há impedimento para a atuação desta Corte Superior, sob pena de indevida supressão de instância (já que configura a impetração per saltum) e inversão das regras de competência previstas na arquitetura constitucional.
+3. A matéria objeto da impetração ainda será analisada de forma ampla e exauriente no âmbito da apelação, recurso dotado de efeito devolutivo amplo, não podendo o remédio heroico promover um indevido alargamento de competências, conforme já decidido pela Terceira Seção desta Corte Superior, no HC n. 482.549/SP.
+4. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe qualquer argumento apto a abalar os fundamentos da decisão recorrida.
+Conforme consta da petição inicial da impetração, o objeto do writ é o seguinte: "trancamento da ação penal alicerçada em provas ilícitas. Atividade investigativa da guarda municipal que extrapolou sua competência. Ausência de fundada suspeita para a abordagem íntima e invasiva. Vedação da utilização de provas ilícitas. Princípio Constitucional." (e-STJ fl. 3).
+Analisando o acórdão recorrido verifiquei que a Corte estadual não enfrentou nenhum dos temas acima transcritos, limitando-se a discorrer acerca da superveniência de sentença condenatória que gera novo título a embasar a prisão do agravante, nos termos do seguinte excerto (e-STJ fls. 45/46):
+Lembro que o exame de teses relativas ao mérito da ação penal, tal como a discussão acerca da autoria delitiva ou ocorrência do crime, não é permitido pela via estreita do Habeas Corpus, pois depende de dilação probatória, incompatível com o rito célere do writ.
+Nada impede que a matéria seja discutida na via adequada. O que se vê no caso em apreço é uma nítida manobra defensiva de optar pela via "teoricamente" mais rápida, indo de encontroa todas as regras processuais existentes.
+Assim, diante do não enfrentamento das teses agitadas nesta impetração pela defesa, por parte do Tribunal de origem, há impedimento para a atuação desta Corte Superior, sob pena de indevida supressão de instância (já que configura a impetração per saltum) e inversão das regras de competência previstas na arquitetura constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS. ANÁLISE DE PROVAS. VIA INADEQUADA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE OFÍCIO DE ORDEM DE HABEAS CORPUS. OPÇÃO EXCLUSIVA DO RELATOR.
+1. O Tribunal de origem, com apoio na prova dos autos, em especial depoimentos testemunhais colhidos sob o crivo do contraditório, concluiu pela legalidade da pronúncia, uma vez que verificou indícios suficientes nesse sentido, inclusive indicando ser inconteste a materialidade, motivo pelo qual é aplicável o princípio do in dubio pro societate.
+2. "Sobre os indícios de autoria da prática do crime imputado ao Agravante, segundo estabelece o art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor". (AgRg no HC n. 819.544/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+3. Tendo as instâncias de origem concluído no sentido de que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia, para se acolher a alegação de insuficiência probatória seria necessário o revolvimento fático-probatório, vedado em habeas corpus. Precedentes.
+4. No tocante ao alegado excesso de prazo da prisão decretada, verifica-se que a questão não foi analisada no acórdão recorrido. Desse modo, não debatida a questão pela Corte a quo, impedido fica o Superior Tribunal de Justiça de apreciar a matéria, sob pena de se incorrer em indevida supressão de instância.
+5. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, §2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus, de ofício, é opção exclusiva do relator.
+6. Agravo regimental improvido. (AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 13/11/2023, DJe de 16/11/2023) (destaquei).
+Ademais, em consulta à página eletrônica do Tribunal de Justiça do Estado de São Paulo constatei que a defesa interpôs recurso de apelação em face da sentença condenatória e que os autos aguardam remessa à segunda instância.
+Diante de tal cenário, a matéria objeto da impetração ainda será analisada de forma ampla e exauriente no âmbito da apelação, recurso dotado de efeito devolutivo amplo, não podendo o remédio heroico promover um indevido alargamento de competências, conforme já decidido pela Terceira Seção desta Corte Superior, no HC n. 482.549/SP.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. IMPETRAÇÃO DE WRIT CONCOMITANTE À APELAÇÃO. RÉU SOLTO. AUSÊNCIA DE TUTELA DIRETA À LIBERDADE DE LOCOMOÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o decidido pela Terceira Seção desta Corte no julgamento do HC n. 482.549/SP (Rel. Ministro Rogerio Schietti), em caso de interposição do recurso cabível contra o ato impugnado e contemporânea impetração de habeas corpus para igual pretensão, somente será permitido o exame do writ se for este destinado à tutela direta da liberdade de locomoção do acusado ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e refletir mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para o caso, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+2. Na hipótese, a impetração de habeas corpus se deu de forma simultânea e concomitante ao manejo de apelação com o mesmo questionamento de nulidade pela defesa. Assim, uma vez que o presente recurso não tutela a liberdade imediata de locomoção do réu - o qual está solto - e que a nulidade ora impugnada está pendente de exame em cognição exauriente pelo Tribunal a quo no julgamento da apelação, o recurso não pode ser conhecido, sem prejuízo de que a matéria seja novamente trazida a este Superior Tribunal depois de julgada a apelação.
+3. Agravo regimental não provido.
+(AgRg no RHC n. 166.080/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA REDUTORA ESPECIAL DA LEI DE DROGAS. HABEAS CORPUS ORIGINÁRIO INDEFERIDO LIMINARMENTE. INTERPOSIÇÃO CONCOMITANTE DE RECURSO DE APELAÇÃO. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Inexiste ilegalidade em aresto que mantém o indeferimento liminar de habeas corpus relacionado a matérias cujo exame é mais apropriado no recurso de apelação interposto concomitantemente ao remédio constitucional" (AgRg nos EDcl no RHC 96.689/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 7/5/2019, DJe 16/5/2019).
+2. Agravo regimental não provido.
+(AgRg no HC n. 718.958/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
