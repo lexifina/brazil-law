@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSO. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes" (AgInt no AREsp n. 2.043.624/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/8/2022, DJe de 26/8/2022).
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pelo abuso do índice aplicado. Alterar esse entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 998/1.003) interposto contra decisão desta relatoria, que negou provimento ao recurso (e-STJ fls. 990/993).
+Em suas razões, a parte alega que (e-STJ fls. 1.000/1.001):
+ ..  não há qualquer tipo de ilegalidade na aplicação de reajuste com base nos índices de sinistralidade, uma vez que o referido reajuste encontra-se previsto contratualmente, em cláusula clara e de fácil compreensão, a qual fora aceita pela contratante.
+ ..  sem a aplicação dos reajustes na forma prevista em contrato, este torna-se oneroso em demasia para esta operadora de saúde, o que não merece prevalecer.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 1.007/1.015).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSO. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes" (AgInt no AREsp n. 2.043.624/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/8/2022, DJe de 26/8/2022).
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pelo abuso do índice aplicado. Alterar esse entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 990/993):
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 720/721):
+APELAÇÕES. PLANO DE SAÚDE. AÇÃO DE DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. Na vigência dos contratos de plano de saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 03 anos. Precedente do E. STJ em sede de Recurso Repetitivo (Rsp nº 1360969/RS). REAJUSTE DAS MENSALIDADES POR CRITÉRIO ETÁRIO. Cabimento. Observância da tese firmada no IRDR de nº 0043940-25.2017.8.26.0000 do TJSP (Tema 11): "É válido, em tese, o reajuste por mudança de faixa etária aos 59 (cinquenta e nove) anos de idade, nos contratos coletivos de plano de saúde (empresarial ou por adesão), celebrados a partir de 01.01.2004 ou adaptados à Resolução nº 63/03, da ANS, desde que (I) previsto em cláusula contratual clara, expressa e inteligível, contendo as faixas etárias e os percentuais aplicáveis a cada uma delas, (II) estes estejam em consonância com a Resolução nº 63/03, da ANS, e (III) não sejam aplicados percentuais desarrazoados que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso". Vedação de reajustamento apenas quando o valor fixado para a última faixa etária (59 anos ou mais) for superior a seis vezes o montante da primeira faixa, ou quando a variação acumulada entre a sétima e a décima faixas for superior àquela acumulada entre a primeira e a sétima faixas. Observância dos critérios estabelecidos por parte da operadora. REAJUSTE PORSINISTRALIDADE. Os reajustes por sinistralidade são, a princípio, válidos, e o contrato a que aderiram os autores é coletivo. Porém, há necessidade de se justificar, por pareceres ou cálculos atuariais, o reajuste aplicado. Ausência de provas. Na falta de comprovação, aplicam-se os índices divulgados pela ANS, para que não se verifique enriquecimento indevido. SUCUMBÊNCIA. Manutenção dos critérios fixados pelo Juízo a quo no que tange ao reconhecimento da sucumbência recíproca, sem compensação da verba honorária. Imposição de honorários recursais em desfavor dos autores, cujo apelo fora rejeitado em sua integralidade. Inteligência do art. 85, § 11 do CPC/15. RECURSO DOS AUTORES NÃO PROVIDO. RECURSO DA CORRÉ NOTRE DAME PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 770/772).
+Em suas razões (e-STJ fls. 734/741), a parte aponta dissídio jurisprudencial e violação dos arts. 478 e 479 do CC/2002, porque (e-STJ fl. 740):
+Os reajustes por variação de sinistralidade nos contratos coletivos de plano de saúde não se submetem/condicionam aos índices anuais de reajustes divulgados pela ANS - Agência Nacional de Saúde Suplementar, os quais são direcionados exclusivamente aos planos individuais e familiares.
+ ..  Como amplamente demonstrado nos autos, não há qualquer tipo de ilegalidade na aplicação de reajuste com base nos índices de sinistralidade, uma vez que o referido reajuste encontra-se previsto contratualmente, em cláusula clara e de fácil compreensão, a qual fora aceita pela contratante.
+Contrarrazões apresentadas (e-STJ fls. 865/867 e 880/884).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 729/730):
+Ressalta-se que não se pode reconhecer a abusividade pela simples existência da cláusula contratual, a qual tem sua validade reconhecida pela jurisprudência desta E. Corte. Neste diapasão, já se manifestou o eminente Desembargador Alexandre Lazzarini no sentido de que "os reajustes por sinistralidade são, a princípio, válidos, e o contrato a que aderiram os autores é coletivo e, não, individual ou familiar".
+Conforme se depreende do contexto fático-probatório, os reajustes por sinistralidade levados a efeito pelas corrés (fls. 38 e seguintes) superaram consideravelmente aqueles autorizados no período pela ANS aos planos individuais e familiares (fls. 244/246). A distinção de percentuais, inclusive, não é negada em qualquer momento pela NOTRE DAME, que pretende justificá-los exclusivamente sob o argumento de tratar-se de plano coletivo por adesão.
+O E. STJ vem se manifestando no sentido de que é válido o reajuste por sinistralidade, desde que amparado por provas atuariais que venham demonstrar a necessidade do aumento.  ..
+Na hipótese, nenhuma das rés instruiu a defesa com pareceres atuariais. Também, em sede de apelo, não postularam por provas ou afirmaram a ocorrência de cerceamento de defesa.
+Nesse contexto, não justificado por meio de provas o aumento por sinistralidade, não pode ser acolhido. O aumento não pode ser aplicado de forma infundada e aleatória, tampouco dissimulada. Diante disso, a r. sentença merece reforma para que o índice aplicado deve ser substituído por aquele divulgado pela ANS para planos individuais, para que não fique sem qualquer reajuste, fato que importaria em enriquecimento indevido.
+O STJ entende não ser, em tese, ilegal a cláusula que prevê o reajuste do plano de saúde coletivo, cabendo ao julgador a análise, no caso concreto, da abusividade do reajuste efetivamente aplicado.
+No caso, o Colegiado local entendeu que o reajuste aplicado pela ré é bastante expressivo, praticamente inviabilizando a continuidade do negócio, não havendo demonstração contábil que o justificasse.
+Decidir de modo contrário demandaria reexame do contrato e dos demais elementos fáticos do processo, o que encontra óbice nas Súmulas n. 5 e 7 do STJ. A propósito:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. INDENIZATÓRIA. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE SINISTRALIDADE. PRAZO PRESCRICIONAL ÂNUO. ACÓRDÃO QUE CONCLUIU PELA DEMONSTRAÇÃO DA ÍNDOLE ABUSIVA. PRETENSÃO DE ALTERAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..  3. A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes.
+4. Na hipótese, o Tribunal de origem, analisando o conjunto fático-probatório contido nos autos, concluiu que foi abusivo o índice aplicado no contrato em análise porque a recorrente não se desincumbiu do ônus de comprovar o aumento da sinistralidade, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.043.624/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/8/2022, DJe de 26/8/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. OMISSÃO NO JULGADO. NÃO CONFIGURAÇÃO. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE RECONHECIDA NA ORIGEM. AFASTAMENTO. IMPOSSIBILIDADE. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE FATOS E PROVAS. INVIABILIDADE.
+1. O Tribunal de origem, ao apreciar as provas dos autos e o contrato celebrado entre as partes, considerou que, a despeito da possibilidade de reajuste das mensalidades por aumento da sinistralidade, a operadora do plano de saúde não demonstrou, no caso concreto, que o reajuste aplicado às mensalidades tenha decorrido do aumento da demanda dos usuários pelos serviços por ela prestados, de forma a afetar as bases atuariais da carteira à qual estão vinculados os autores, razão pela qual concluiu pela abusividade dos reajustes implementados.
+2. Inviável, em recurso especial, a reinterpretação de cláusulas contratuais e o reexame de matéria fático-probatória. Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.877.252/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/6/2022, DJe de 21/6/2022.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois na origem a verba honorária foi estabelecida no percentual legal máximo (e-STJ fl. 731).
+Publique-se e intimem-se.
+O Colegiado estadual reconheceu, em tese, a legalidade da cláusula de reajuste prevista no contrato, mas entendeu que, no caso concreto, o reajuste era bastante expressivo e não houve clareza quanto aos critérios adotados no cálculo a justificá-lo.
+O acórdão recorrido está em conformidade com o entendimento desta Corte de que, apesar de, em tese, não ser ilegal a cláusula que prevê o reajuste do plano coletivo, cabe ao julgador, no caso concreto, o exame do abuso do índice aplicado.
+No caso, tendo a Corte paulista concluído pela inviabilidade do reajuste aplicado, decidir de outra forma implicaria reexame do contrato e dos demais elementos fático-probatórios do processo, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
