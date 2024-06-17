@@ -1,0 +1,18 @@
+DECISÃO
+Diante das razões do agravo interno e verificando que houve a impugnação específica dos fundamentos da decisão primeva de admissibilidade, reconsidero a decisão proferida pela Presidência desta Corte.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CIVIL. PROCESSUAL. ADMINISTRATIVO. CONTRATO DE FINANCIAMENTO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. COBERTURA SECURITÁRIA. TEMA 1.011 DO STF. APÓLICE DE MERCADO. RAMO PRIVADO. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL. REMESSA À JUSTIÇA ESTADUAL.
+1. Prevalece o entendimento consolidado pelo STF no RE 827996/PR de que é da Justiça Federal a competência para julgamento dos feitos que versem sobre cobertura securitária no âmbito do SFH (apólices públicas - ramo 66, com comprometimento do FCVS).
+2. Constatado que a apólice de seguro se encontra fora do SFH, não há comprometimento do FCVS, e falece razão, pois, para a Caixa figurar no polo passivo da lide, haja vista que o contrato de financiamento do imóvel pertence à carteira de recursos próprios, que está fora do Sistema Financeiro de Habitação.
+3. É da competência da Justiça Estadual o julgamento das demandas cujo pedido se embase em apólice de mercado (sem cobertura do FCVS), nas quais não há interesse jurídico da CEF que autorize seu ingresso na lide.
+4. Tratando-se de demanda relativa apenas a contratos em apólices privadas, há incompetência absoluta da Justiça Federal para o seu julgamento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, a parte recorrente alega violação dos artigos 5º da Constituição Federal; 1º da Lei 12.409/2011; 206, § 1º, II, do Código Civil, além de divergência jurisprudencial.
+Não merece reforma a decisão agravada.
+De início, anoto que a análise de suposta violação a artigo da Constituição é inviável em sede de recurso especial, sendo reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição Federal, e da iterativa jurisprudência desta Corte (cf. AgInt no AREsp 1054632/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12.9.2017, DJe 21.9.2017).
+Depois, assinalo que apenas com o reexame do conjunto fático- probatório dos autos seria possível infirmar as conclusões do acórdão recorrido, no sentido de que "o contrato está vinculado à apólice de seguro fora do SFH, não havendo comprometimento do FCVS, e ausente razão, pois, para a Caixa figurar no polo passivo da lide, conforme documento juntado pela COHAPAR no (evento 1, OUT3, p. 148). Impende ressaltar, ainda, que a CEF manifestou a sua ausência de interesse no feito, alegando que "Conforme documento encartado no Evento 1, INIC 1, p. 64, o contrato diz respeito ao Programa Resolução 460 Obra, sem vinculação ao SFH, e, portanto, a apólice securitária não é do ramo público (66)" (evento 38, PET1). Consequentemente, o conhecimento e processamento da petição inicial devem tramitar perante a Justiça Estadual competente" (fl. 1.524/e-STJ), posicionamento, aliás, que não diverge do desta Corte e do estabelecido pelo STF, no julgamento do RE 827.996, com repercussão geral.
+Incidência, pois, das Súmulas 5, 7 e 83/STJ.
+Por fim, registro que não houve, na origem, debate sobre o conteúdo normativo do artigo 206 do Código Civil, tampouco sobre o pedido de substituição de seguradora, na medida em que o acórdão dos embargos de declaração consignou que a questão deve ser objeto de exame pelo juízo estadual competente para o julgamento da lide, o que atrai a incidência da Súmula 282/STF, no ponto.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
