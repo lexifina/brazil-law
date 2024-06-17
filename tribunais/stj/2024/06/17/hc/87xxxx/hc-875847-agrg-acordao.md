@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TESE DE NULIDADE. CONDENAÇÃO TRANSITADA EM JULGADO. POLICIAIS AVISTARAM A PRÁTICA DO TRÁFICO NO MOMENTO EM QUE OCORRIA. TÍPICA SITUAÇÃO DE FLAGRANTE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - O trânsito em julgado da condenação impede a análise aqui posta, pois a existência na origem de sentença condenatória transitada em julgado, que agora é dotada da constitucional coisa julgada, torna ineficaz qualquer manifestação desta Corte Superior, até mesmo pela inadequação da via eleita e pela impossibilidade de se promover a (nova) revisão criminal com amparo na simples mudança de entendimento jurisprudencial posterior. Precedentes.
+III - No caso concreto, a situação foi de visualização prévia pela polícia dos atos de mercancia em via pública, já que a venda estaria ocorrendo em uma parada de ônibus.
+IV - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações com necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JANAINA SCHIOCHET contra a decisão que denegou a ordem no habeas corpus.
+Consta dos autos que a agravante foi condenada às penas de dez anos e dois meses de reclusão, em regime inicial fechado, mais o pagamento de mil quatrocentos e oitenta e dois dias-multa, como incursa na sanção do art. 33, caput, e do art. 35, caput, ambos da Lei n.11.343/2006.
+A condenação transitou em julgado.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ denegado, sustentando a ocorrência de constrangimento ilegal, consubstanciado na alegada ilicitude das provas obtidas no momento da prisão em flagrante.
+Alega que a agravante foi abordada sem situação de flagrante e sem fundadas razões, e que os policiais invadiram sua residência.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao colegiado, para a concessão da ordem.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 157.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TESE DE NULIDADE. CONDENAÇÃO TRANSITADA EM JULGADO. POLICIAIS AVISTARAM A PRÁTICA DO TRÁFICO NO MOMENTO EM QUE OCORRIA. TÍPICA SITUAÇÃO DE FLAGRANTE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - O trânsito em julgado da condenação impede a análise aqui posta, pois a existência na origem de sentença condenatória transitada em julgado, que agora é dotada da constitucional coisa julgada, torna ineficaz qualquer manifestação desta Corte Superior, até mesmo pela inadequação da via eleita e pela impossibilidade de se promover a (nova) revisão criminal com amparo na simples mudança de entendimento jurisprudencial posterior. Precedentes.
+III - No caso concreto, a situação foi de visualização prévia pela polícia dos atos de mercancia em via pública, já que a venda estaria ocorrendo em uma parada de ônibus.
+IV - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações com necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+VOTO
+No presente recurso, como dito, o agravante reitera argumentos lançados anteriormente e pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+Conforme consta na decisão agravada, a defesa busca rediscutir a prisão em flagrante, após o trânsito em julgado da condenação e por meio de um writ.
+Tudo o que impede a análise aqui posta, pois a existência na origem de sentença condenatória transitada em julgado, que agora é dotada da constitucional coisa julgada, torna ineficaz qualquer manifestação desta Corte Superior, até mesmo pela inadequação da via eleita e pela impossibilidade de se promover a (nova) revisão criminal com amparo na simples mudança de entendimento jurisprudencial posterior.
+Vejamos:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL NÃO CABIMENTO. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO PRÓPRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. No ponto que se busca a desconstituição dos efeitos da coisa julgada, com o objetivo de se aplicar o redutor da Lei de Drogas, a pretensão da Defesa está embasada em posterior alteração de entendimento jurisprudencial, que é mais favorável ao sentenciado. Ocorre que a pacífica jurisprudência desta Corte rechaça a pretensão que visa à revisão de decisão já transitada em julgado com fundamento na simples modificação da compreensão jurisprudencial de determinada controvérsia. Precedentes.
+2. A Corte local, soberana quanto à análise das provas e dos fatos que instruem o processo, concluiu estar comprovada a prática do crime (..) Assim, para rever tal conclusão, no sentido de desclassificar a conduta imputada para a do delito do art. 28, da Lei de Drogas, seria necessário o reexame de fatos e provas. Essa pretensão revela-se incabível no rito do habeas corpus.
+3. Agravo regimental desprovido" (AgRg no HC n. 826.502/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 16/10/2023, grifei).
+Corroborando: AgRg no HC n. 787.642/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 25/8/2023.
+No caso concreto, de qualquer forma, tem-se que a situação foi de visualização prévia pela polícia dos atos de mercancia em via pública, já que a venda estaria ocorrendo em uma parada de ônibus pela janela do veículo (fl. 84):
+"Como se vê, após a guarnição policial presenciar a transação ilícita realizada pela requerente e seu companheiro, a bordo de um veículo Gol, de cor branca, com terceira pessoa que se encontrava em um ponto de ônibus, os agentes públicos realizaram a abordagem do automóvel e, em buscas, localizaram 10 (dez) porções de maconha na bolsa da apenada. Depois de confirmada, com o usuário, a negociação, o corréu admitiu a existência de mais entorpecentes na moradia do casal (..)."
+Ora, deve-se recordar que o tipo penal em comento é de natureza mista alternativa, comportando inúmeras condutas (inclusive as de apenas transportar e guardar), que, praticadas de forma conjunta ou isolada, comportam crime único.
+Assim, sequer as provas da mercancia se exigiriam, se constatada a prática de qualquer dos demais verbos abaixo transcritos, vejamos:
+"Art. 33. Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar:
+(..)
+§ 1º Nas mesmas penas incorre quem:
+I - importa, exporta, remete, produz, fabrica, adquire, vende, expõe à venda, oferece, fornece, tem em depósito, transporta, traz consigo ou guarda, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, matéria-prima, insumo ou produto químico destinado à preparação de drogas;
+II - semeia, cultiva ou faz a colheita, sem autorização ou em desacordo com determinação legal ou regulamentar, de plantas que se constituam em matéria-prima para a preparação de drogas;
+III - utiliza local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância, ou consente que outrem dele se utilize, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, para o tráfico ilícito de drogas.
+IV - vende ou entrega drogas ou matéria-prima, insumo ou produto químico destinado à preparação de drogas, sem autorização ou em desacordo com a determinação legal ou regulamentar, a agente policial disfarçado, quando presentes elementos probatórios razoáveis de conduta criminal preexistente."
+Nesse sentido:
+"O tráfico ilícito de entorpecentes, crime plurinuclear ou de condutas múltiplas, formal, consuma-se com a prática de qualquer um de seus verbos (Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal). A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que o art. 33, caput, da Lei n. 11.343/2006 trata de delito de ação múltipla, que se consuma com a prática de qualquer dos verbos nele descritos, inclusive o depósito, sendo prescindível a comprovação da finalidade de comercialização" (AgRg no REsp n. 1.992.544/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/8/2022).
+Não obstante, ainda houve a confissão do tráfico, inclusive, de que haveria mais drogas na residência (fls. 84-85):
+"Como se vê, após a guarnição policial presenciar a transação ilícita realizada pela requerente e seu companheiro, a bordo de um veículo Gol, de cor branca, com terceira pessoa que se encontrava em um ponto de ônibus, os agentes públicos realizaram a abordagem do automóvel e, em buscas, localizaram 10 (dez) porções de maconha na bolsa da apenada. Depois de confirmada, com o usuário, a negociação, o corréu admitiu a existência de mais entorpecentes na moradia do casal, para onde os agentes se dirigiram e apreenderam aproximadamente 1kg (um quilograma) do mesmo material, além de petrechos típicos da mercancia e dinheiro em espécie (Evento 1, P_FLAGRANTE1 - autos do inquérito policial n. 5000516-46.2021.8.24.0036). Ressalta-se que, consoante os relatos supracitados, o corréu confessou a comercialização de drogas, bem como informou que em sua residência havia mais estupefaciente."
+De qualquer forma, conforme se apreende do acórdão, apesar de a defesa alegar a necessidade de absolvição, fato é a parte paciente restou condenada com amparo em claras provas de autoria e materialidade do delito, conforme consignado pela origem.
+Impossível, assim, aqui se revolver o contexto fático-probatório da origem, de maneira a se afastar a condenação imposta, em não se identificando qualquer flagrante ilegalidade prima facie.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC n. 811.106/SP, Sexta Turma , Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+No mais, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da decisão guerreada, caso em que tem aplicabilidade o disposto na Súmula n. 182, STJ:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
