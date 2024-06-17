@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/06/2024 a 17/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES DISSOCIADAS. SÚMULA 284/STF. HONORÁRIOS. BASE DE CÁLCULO. TEOR DO TÍTULO EXECUTIVO. REVISÃO DO JUÍZO. ÓBICE DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A apresentação de razões dissociadas configura deficiência da fundamentação recursal, a não permitir a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. A Corte a quo firmou que a base de cálculo dos honorários advocatícios estabelecida no título executivo é "a diferença entre o valor executado e o valor apontado no Parecer Técnico NECAP/PU nº 0495/2016", e não o total da execução, como sustenta o recorrente.
+4. Isso considerado, indene de dúvidas que a análise da questão não se trata de mera revaloração jurídica, pois a pretensão recursal, nos moldes alegados, busca modificar as próprias premissas fáticas firmadas no acórdão - providência vedada no âmbito do recurso especial. Incidência do óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por MONTEIRO E MONTEIRO ADVOGADOS ASSOCIADOS contra decisão, assim ementada (fl. 236):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. INEXISTÊNCIA DE VÍCIOS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 284/STF E 283/STF. REVISÃO DO JUÍZO. ÓBICE DA SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+O agravante sustenta a não incidência do óbice da Súmula 7/STJ, alegando que é "perfeitamente possível a revaloração fático-probatória", que o "manejo recursal  ..  está embasado no fato de que não se trata de reexame fático-probatório, mas mera leitura da integralidade da peça recursal e decisão recorrida" (fl. 247).
+Afirma a existência de violação dos arts. 1.022 e 489 do CPC/2015, ao argumento de vício não sanado quanto à alegação de afronta à coisa julgada, sendo inaplicáveis os óbices das Súmulas 284 e 283, do STF, e alega que o recurso "não é genérico ou impreciso acerca da omissão que se visa combater" (fl. 249).
+Sustenta que o título judicial considerou o valor total da execução como base de cálculo para a fixação dos honorários de sucumbência e que a modificação da base de cálculo é ignorar a coisa julgada.
+Impugnação a fls. 263-267.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES DISSOCIADAS. SÚMULA 284/STF. HONORÁRIOS. BASE DE CÁLCULO. TEOR DO TÍTULO EXECUTIVO. REVISÃO DO JUÍZO. ÓBICE DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A apresentação de razões dissociadas configura deficiência da fundamentação recursal, a não permitir a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. A Corte a quo firmou que a base de cálculo dos honorários advocatícios estabelecida no título executivo é "a diferença entre o valor executado e o valor apontado no Parecer Técnico NECAP/PU nº 0495/2016", e não o total da execução, como sustenta o recorrente.
+4. Isso considerado, indene de dúvidas que a análise da questão não se trata de mera revaloração jurídica, pois a pretensão recursal, nos moldes alegados, busca modificar as próprias premissas fáticas firmadas no acórdão - providência vedada no âmbito do recurso especial. Incidência do óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR):Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Inicialmente, consigne-se que a decisão ora agravada não aplicou o óbice da Súmula 284/STF, por deficiência da fundamentação recursal quanto à alegada violação dos arts. 489 e 1.022 do CPC/2015. Ao revés, conheceu do recurso, no ponto, e afastou a alegação de vício, ao verificar que a Corte a quo, a fls. 105-107/148, manifestou-se de forma clara e fundamentada sobre as questões relevantes à solução da controvérsia, conforme exposto a fls. 237-239 da decisão ora agravada.
+Assim, a insurgência ora apresentada contra a suposta aplicação do óbice, no ponto, configura razões dissociadas, a não permitir a exata compreensão da controvérsia. Incidência do óbice da Súmula 284/STF.
+Quanto à questão da base de cálculo dos honorários advocatícios sucumbenciais fixado no título executivo, a Corte a quo dispôs no acórdão recorrido (fl. 105, grifos nossos ):
+Conforme destacado, trata-se de cumprimento da sentença para pagamento dos honorários advocatícios de sucumbência decorrente da improcedência dos embargos à execução, tendo o exequente apontado o valor de R$ 51.066,52 (cinquenta e um mil, sessenta e seis reais e cinquenta e dois centavos) (fevereiro/2022).
+Examinando, porém, o título executivo que lastreia o presente cumprimento, verifico que o valor apresentado pelo exequente em relação ao crédito de honorários de sucumbência resultou de cálculo realizado utilizando como base o valor total da execução, e não o montante do excesso apontado nos embargos. Porém, a sentença que julgou improcedentes os embargos à execução (22.06.2016 - Id.4058000.1109806) fixou a condenação da embargante, ora executada, em honorários de sucumbência no percentual de oito por cento sobre a diferença entre o valor executado e o valor apontado no Parecer Técnico NECAP/PU nº 0495/2016 (Id. 957471), conforme passo a transcrever:"
+Em face do exposto, julgo improcedentes os presentes embargos, determinando o prosseguimento da execução (autos nº 0800486-70.2016.4.05.8000) nos moldes fixados na presente sentença. Condeno a União em honorários de 8% (oito por cento) sobre a diferença entre o valor executado e o valor apontado no Parecer Técnico NECAP/PU nº 0495/2016 (Id. 957471)".
+Isso considerado, indene de dúvidas que a análise da questão não se trata de mera revaloração jurídica, pois a pretensão recursal, nos moldes alegados, busca modificar as próprias premissas fáticas firmadas no acórdão. Inviável, pois, a revisão do acórdão no sentido das alegações recursais, sem o reexame de fatos e provas - providência vedada no âmbito do recurso especial, por força do óbice da Súmula 7/STJ.
+Assim, não demonstrado o desacerto da aplicação do óbice da Súmula 7/STJ, pois, segundo o entendimento desta Corte Superior,  o  recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Félix Fischer, Quinta Turma, DJe 7/3/2019, grifo nosso).
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
