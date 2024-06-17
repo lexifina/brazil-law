@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  agravo  interposto contra  decisão  que  negou  seguimento  ao  recurso  especial  interposto  em  face  de  acórdão  assim  ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE QUANTIAS PAGAS JULGADA PARCIALMENTE PROCEDENTE - COMPRA E VENDA DE IMÓVEL COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA - AUSÊNCIA DE REGISTRO CARTORÁRIO - GARANTIA NÃO CONSTITUÍDA - AFASTAMENTO DA LEI 9.514/97 - INCIDÊNCIA DO CDC - IMPOSSIBILIDADE DO ADQUIRENTE ARCAR COM O PAGAMENTO DAS PARCELAS - DETERMINADA RETENÇÃO DE 10% DOS VALORES PAGOS - INTERESSE DA EMPRESA NA APLICAÇÃO DA LEI 13.786/2018 QUE IMPLICARIA NO AUMENTO DESSE PERCENTUAL - INADMISSIBILIDADE - CONTRATO FIRMADO ANTERIORMENTE À VIGÊNCIA DA LEI - RECURSO NÃO PROVIDO.
+A jurisprudência do STJ firmou o entendimento de ser possível a retenção do índice entre 10% e 25% dos valores pagos quando houver resolução do compromisso de compra e venda por interesse exclusivo do promitente comprador.
+As alterações promovidas pela Lei 13.786/2018 (Lei do Distrato) são aplicáveis aos contratos celebrados posteriormente à sua vigência, face ao princípio da irretroatividade da lei, e nas hipóteses de rompimento unilateral imotivado do contrato, que não é o caso em questão, visto que compradora não teve condições de continuar arcando com o pagamento".
+A  agravante  aponta violação  aos  arts. 489 e 926 do Código de Processo Civil, e art. 275 do Código Civil, sustentando, além de negativa de prestação jurisdicional, que deve ser de 25% o percentual da retenção dos valores adimplidos pela promitente compradora .
+Contrarrazões às fls. 258/268 e-STJ .
+Juízo  negativo  de  admissibilidade  proferido  às  fls.  269/274 e-STJ.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+A Segunda Seção do STJ, por ocasião do julgamento do REsp 1.723.519/SP, consolidou o entendimento de que, na rescisão de contrato de compra e venda de imóvel, por desistência do comprador, anterior à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção, tal como definido no julgamento dos EAg 1.138.183/PE, por ser montante adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato (REsp 1723519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 28/8/2019, DJe 2/10/2019).
+O caso dos autos se amolda à hipótese acima exposta, uma vez que a rescisão contratual se deu por conveniência da promitente-compradora, de modo que o entendimento firmado no acórdão recorrido merece ref orma para que seja de 25% a retenção dos valores já pagos.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial e determinar que seja de 25% o percentual da retenção sobre os valores já adimplidos pelo consumidor. Sucumbência nos moldes como previsto na sentença.
+Intimem-se.
+EMENTA
