@@ -1,0 +1,41 @@
+DECISÃO:  Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Ministério Público do Estado do Paraná, em face do acórdão do Tribunal de Justiça Estadual assim ementado:
+
+    “TRÁFICO DE DROGAS. ARTIGO 33, CAPUT, DA LEI Nº 11.343/2006. SENTENÇA CONDENATÓRIA. 1) a)- JUSTIÇA GRATUITA. MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO. PRECEDENTES. b)- PRETENSÃO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA (ART. 65, III, ‘d’, DO CP), BEM COMO DA MINORANTE ALUSIVA AO TRÁFICO PRIVILEGIADO (ART. §4°, DO ART. 33, DA LEI 11.343/06). MEDIDAS JÁ CONCEDIDAS PELA SENTENÇA. AUSÊNCIA DO INTERESSE DE AGIR. NÃO CONHECIMENTO. 2)- DECLARAÇÃO DE NULIDADE EX OFFICIO. ILEGALIDADE DA ATUAÇÃO DA GUARDA MUNICIPAL. BUSCA PESSOAL. AUSÊNCIA DE RELAÇÃO CLARA, DIRETA E IMEDIATA COM A PROTEÇÃO DE BENS, SERVIÇOS E INSTALAÇÕES MUNICIPAIS. VIOLAÇÃO AO ART. 144 DA CF E AO ART. 244 DO CPP. USURPAÇÃO DE ATRIBUIÇÕES CARACTERIZADA. ILICITUDE DAS PROVAS OBTIDAS. NOVO ENTENDIMENTO CONSOLIDADO PELO STJ. ABSOLVIÇÃO QUE SE IMPÕE. 3) HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA ATUAÇÃO DA DEFENSORA DATIVA EM FASE RECURSAL. REMUNERAÇÃO ESTABELECIDA COM FULCRO EM TABELA PREVISTA NA RESOLUÇÃO CONJUNTA Nº 015/2019 – PGE/SEFA. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO, COM MEDIDA DE OFÍCIO E FIXAÇÃO DE VERBA HONORÁRIA.”
+
+    Na minuta, sustenta-se violação dos arts. 5º, XLIII, LVI e LXI, e 144, da Constituição da República. Argumenta-se, em síntese, que seria lícita a abordagem do réu pela Guarda Municipal.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso comporta provimento.
+
+    Da análise dos autos, verifica-se que o acórdão impugnado não está alinhado à orientação desta Suprema Corte.
+
+    Na hipótese, o Tribunal de origem considerou que “não foi conferida à guarda municipal atribuição de realizar atividades ostensivas típicas da polícia militar ou investigativas da polícia civil, mas sim apenas de proteção do patrimônio municipal, englobando seus bens, serviços e instalações”.
+
+    Tal entendimento destoa da orientação firmada no julgamento da ADPF nº 995, no qual este Supremo Tribunal decidiu que “não se justifica, nos dias atuais da realidade brasileira, a atuação separada e estanque de cada uma das Polícias Federal, Civis e Militares e das Guardas Municipais; pois todas fazem parte do Sistema Único de Segurança Pública”, tendo em vista que também executam atividade de segurança pública (art. 144, § 8º, da CF), essencial ao atendimento de necessidades inadiáveis da comunidade (art. 9º, § 1º, da CF), possuindo, portanto, legitimidade inclusive para abordagem de suspeitos de crimes em geral, quando há fundadas razões para a ação.
+
+    No caso, a existência de fundadas razões está justificada, pois “a equipe da Guarda Municipal, em patrulhamento pelas imediações, avistou um indivíduo conversando com um ciclista, momento em que este indivíduo se dirigiu até o pé uma árvore, pegou algo e entregou ao ciclista, que entregou outro objeto para o suspeito, que o guardou na referida árvore. Consta que, diante da suspeita, a equipe optou por realizar a abordagem. Tem-se que, ao ser questionado pela equipe, o suspeito, (...), de pronto afirmou que estava realizando traficância no local. Consta que, durante a abordagem e revista, a equipe de guarda logrou êxito em localizar, no pé da árvore retromencionado, as substâncias entorpecentes adrede descritas (...)”.
+
+    Nessas circunstâncias, esta Suprema Corte tem entendido que estão presentes fundadas razões que indicam situação de flagrante delito, a autorizar a atuação dos agentes públicos. Nesse sentido:
+
+    “Direito processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Prisão em flagrante. Nulidade. Inexistência. Fatos e provas. Jurisprudência do Supremo Tribunal Federal. 1. Para além de observar que esta é a segunda vez que o acusado é preso em flagrante por tráfico de drogas, as instâncias de origem deixaram consignado que o paciente foi abordado e preso em situação de flagrante, motivo pelo qual os guardas civis municipais estavam legitimados, dentro do princípio da autodefesa da sociedade (trecho do acórdão estadual). Essas circunstâncias atraem a pacífica jurisprudência do Supremo Tribunal Federal no sentido de que [a] guarda municipal pode, e deve, prender quem se encontre em situação de flagrante delito, nos termos do art. 301 do CPP. (RE 1.282.774-AgR-ED-AgR, Redator para o acórdão Min. Luís Roberto Barroso). 2. Para dissentir das instâncias de origem no sentido de que não havia situação de flagrância , seria necessário o revolvimento do material fático-probatório dos autos, o que é inviável na via eleita. Precedente: HC 215.420-AgR, Relª. Minª. Rosa Weber. 3. Agravo regimental a que se nega provimento.” (HC 220.447-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 1º.12.2022)
+
+    “Direito processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Inviolabilidade de domicílio. Alegação de nulidade. Condenação transitada em julgado. Supressão de instâncias. Ausência de ilegalidade flagrante ou abuso de poder. 1. A orientação jurisprudencial desta Corte é no sentido de que o habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado (HC 118.292-AgR, Rel. Min. Luiz Fux). 2. As alegações da defesa não foram analisadas pelo Superior Tribunal de Justiça. Circunstância que impede o imediato exame da matéria pelo Supremo Tribunal Federal, sob pena de supressão de instância. 3. As peças que instruem a impetração não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. 4. A jurisprudência deste Tribunal é no sentido de que a “guarda municipal pode, e deve, prender quem se encontre em situação de flagrante delito, nos termos do art. 301 do CPP” (RE 1.282.774-AgR-ED-AgR, Redator para o acórdão o Min. Luís Roberto Barroso). 5. Agravo regimental a que se nega provimento.” (HC 222240 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 06.02.2023)
+
+    “Agravo regimental em habeas corpus. Penal e Processo Penal. Tráfico de drogas. Prisão em flagrante realizada por guardas municipais. Ausência de ilegalidade (art. 301 do CPP). Trancamento de inquérito, ante a alegação de ilicitude dos elementos de prova. Questões não submetidas às instâncias precedentes. Supressão de instância. Medida excepcional. Hipóteses autorizadoras não verificadas. Agravo não provido.” (HC 202776 AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 15.03.2022)
+
+    “PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS. FUNDADA SUSPEITA PARA A ABORDAGEM DEVIDAMENTE COMPROVADA. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE NEGA PROVIMENTO. 1. As Guardas Municipais são previstas constitucionalmente no artigo 144, do Capítulo III, Título V (Da segurança pública), portanto, cumprem papel nas atividades estatais de segurança pública, conforme expressa previsão constitucional e regulamentação legal, desempenhando função pública essencial à manutenção da ordem pública, da paz social e da incolumidade das pessoas e do patrimônio público, em especial de bens, serviços e instalações do Município. 2. A tentativa de fuga do acusado ao avistar os guardas municipais, que se dirigiram ao local dos fatos - um conhecido ponto de tráfico de drogas - para atender uma ocorrência de perturbação do sossego, evidencia a existência de justa causa para revista pessoal, que resultou na apreensão de diversos entorpecentes destinados à mercancia ilícita. 3. Agravo Regimental a que se nega provimento.” (RE 1485776 AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 03.06.2024)
+
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para cassar o acórdão recorrido e restabelecer a sentença proferida pelo juízo da 4ª Vara Criminal da Comarca da Região Metropolitana de Londrina (edoc. 09, ID:7f08bafe).
+
+    Publique-se.
+
+    Brasília, 17 de junho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
