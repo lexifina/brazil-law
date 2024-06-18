@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo de VALDIVINO PEREIRA DE AQUINO contra decisão que inadmitiu seu recurso especial. O apelo extremo, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO POSSESSÓRIA. REINTEGRAÇÃO DE POSSE. REQUISITOS LEGAIS. PRESENÇA. Para o deferimento da liminar nas ações possessórias, necessário se mostra a comprovação dos requisitos do art. 561, do Código d Processo Civil, quais sejam: a posse do autor; a turbação ou o esbulho praticado pelo réu; a data da turbação ou do esbulho; e, por fim, a perda da posse. Havendo condições fáticas e ou jurídicas que permitam a concessão da liminar reintegratória requerida, impõe-se deferi-la. Recurso provido" (e-STJ fl. 376 ).
+Os embargos de declaração opostos foram rejeitados.
+As razões do recurso especial sustentam a violação dos arts. 5º, XXXVI, da Constituição Federal e 1.022 do Código de Processo Civil.
+Afirmam que houve negativa de prestação jurisdicional e que "não há qualquer prova de fraude na situação fática ou colacionada aos autos e a ação em questão discute posse e não propriedade" (e-STJ fl. 509).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De início, como é cediço, nos termos do art. 105, III, da Constituição Federal, compete ao STJ, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual revela-se inviável invocar nesta seara a violação de dispositivos constitucionais, porquanto matéria afeta à competência do STF (art. 102, III, da Carta Magna).
+Neste sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. OFENSA A DISPOSITIVO DA CF. COMPETÊNCIA DO STF. CERCEAMENTO DO DIREITO DE DEFESA. SÚMULA N. 7 DO STJ. RESPONSABILIDADE PELO EVENTO DANOSO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. No que toca à aduzida ofensa ao art. 5º da CF/1988, não compete a esta Corte Superior a sua análise, pois esse mister é do Supremo Tribunal Federal, nos termos do art. 102, III, a, da Carta Magna.
+2. Cabe ao Magistrado, como destinatário final do acervo probatório, a análise da necessidade, ou não, da produção das provas requeridas pelas partes. No caso dos autos, o Tribunal de origem, soberano no exame dos fatos e provas, confirmou a conclusão do Juízo de primeiro grau e considerou dispensável a produção da prova requerida, em acórdão devidamente fundamentado, razão pela qual não há que se falar em cerceamento de defesa.
+3. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt no REsp 1.724.603/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 04/05/2018)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. INDEFERIMENTO DE PROVA PERICIAL. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. VIOLAÇÃO AOS ARTS. 165, 458, II, E 535, II, DO CPC. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 07/STJ. SUCUMBÊNCIA. GRAUS DE DISTRIBUIÇÃO. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+1. Refoge à competência deste Superior Tribunal de Justiça, a quem a Carta Política confia a tarefa de unificação do direito federal, apreciar violação a dispositivo constitucional.
+(..)
+5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO"
+(AgRg no Ag 1.164.854/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 27/6/2011).
+A alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem. Ante a deficiente fundamentação do recurso neste ponto, incide, por analogia, a Súmula nº 284/STF.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. A decisão que rejeitou a impugnação ao cumprimento de sentença amparou-se nos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido"
+(AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/2/2017 - grifou-se).
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. VIOLAÇÃO DO ART. 535 DO CPC DE 1973. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. TESTAMENTO PÚBLICO. OBSERVÂNCIA DAS FORMALIDADES NECESSÁRIAS. INEXISTÊNCIA DE VÍCIOS EXTERNOS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DEMAIS TESES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO IMPROVIDO.
+1. É inviável apreciar a apontada ofensa ao art. 535 do CPC de 1973, pois a deficiente fundamentação do inconformismo enseja a aplicação do óbice descrito no enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+3. Esbarra no enunciado 7 da Súmula do STJ a revisão, na via estreita do recurso especial, das conclusões tomadas pelo Tribunal de origem quanto ao devido cumprimento de todos os requisitos previstos na legislação vigente no momento da confecção do testamento, à inexistência de vício externo que o torne suspeito de nulidade ou falsidade e à ausência de provas acerca de eventual vício de consentimento.
+4. Agravo interno improvido"
+(AgInt no AREsp 883.695/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 9/3/2017 - grifou-se).
+Quanto ao mais, sobre a ausência de prova de fraude e a os limites do alcance da ação possessória, verifica-se que as razões do recurso especial deixaram de indicar qual o artigo de lei federal violado pelo acórdão recorrido, não podendo ser conhecido com base na alínea "a", do permissivo constitucional.
+Ressalta-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenche o requisito formal de admissibilidade recursal.
+Com efeito, se nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF a inviabilizar o conhecimento do recurso pela alínea "a" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido"
+(AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/4/2013, DJe 10/5/2013).
+"PROCESSO CIVIL. PREVIDENCIÁRIO. AUXÍLIO ACIDENTE. TERMO INICIAL. DIB. RECURSO ESPECIAL INADMITIDO. SÚMULA N. 284 DO STF E SÚMULA N. 7 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, trata-se de ação de indenização por acidente do trabalho contra o INSS, alegando, em suma, que em virtude das condições agressivas do trabalho que desempenhava, foi acometido de perda auditiva, moléstia que reduziu sua capacidade laborativa, pleiteando, assim, benefício acidentário. Na sentença, julgou-se improcedente o pedido. No Tribunal a sentença foi mantida, ao argumento de ausência de incapacidade laborativa a ensejar indenização pretendida.
+II - Ainda no Tribunal de origem, considerando o julgamento do repetitivo REsp 1.095.523/SP, em juízo de retratação, alterando o entendimento do acórdão anterior, deram provimento ao apelo do autor, para julgar procedente a ação acidentária.
+III - Incide o óbice da Súmula n. 284 do STF, nos termos da jurisprudência desta Corte, quando a parte não indica, nas razões do recurso especial, de maneira específica, os dispositivos de lei federal que entende violados, bem como as razões pelas quais o acórdão de origem teria violado o conteúdo normativo de tal dispositivo.
+IV - Anote-se, nesse passo, que a mera referência a artigo de lei não supre tal exigência. Nos termos da jurisprudência: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018)"
+V - Por outro lado verifica-se que a afirmação do recorrente da existência de documentos comprobatórios da perda laborativa vai de encontro à convicção do magistrado que, fundado na prova dos autos, entendeu o contrário. Incidência da súmula 7/STJ.
+VI - Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+VII - Quanto ao pedido subsidiário de aplicação da tese firmada no Tema n. 862/STJ, anote-se que a questão não prescinde da cognoscibilidade do recurso que pretende reformar o acórdão. Ademais, os elementos constantes dos autos - ou mesmo as razões no agravo interno - não permitem concluir, de plano, pelo enquadramento da questão aqui controvertida à tese lá firmada.
+VIII - Agravo interno improvido"
+(AgInt nos EDcl no REsp 1.959.171/SP, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 22/8/2022, DJe de 24/8/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015) porque o recurso especial é oriundo de acórdão proferido em julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
