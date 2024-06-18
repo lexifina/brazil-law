@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RICARDO VAGNER GOMES à decisão de fls. 419 (e-STJ), que não conheceu do recurso em razão de sua intempestividade.
+Sustenta a parte embargante que a decisão incorreu em contradição, uma vez que "o próprio cartório do juízo a quo, quando do recebimento do recurso já certificou a interposição do Recurso dentro do prazo legal, inexistindo contravérsia quanto a tal fato." (e-STJ fl. 427).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Sendo assim, tanto no código antigo quanto no atual, o prazo para a interposição do recurso em mandado de segurança é de 15 (quinze) dias, mas, agora, contados em dias úteis, nos termos do art. 219, caput, c/c os arts. 33 da Lei n. 8.038/90 e 1.003, § 5º, do Código de Processo Civil.
+No caso dos autos, a parte recorrente foi intimada do acórdão recorrido em 11/01/2024 (e-STJ fl. 167). O prazo iniciou-se no dia 22/01/2024 e findou- se em 09/02/2024, sendo o recurso em mandado de segurança interposto somente em 15/02/2024.
+Ressalte-se que a certidão expedida por servidor na instância de origem acerca da tempestividade recursal não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024; AgInt no AREsp n. 2.250.245/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/8/2023, DJe de 18/8/2023; AgInt no AREsp n. 2.050.156/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024; e, AgInt no AREsp 1686946/MA, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
