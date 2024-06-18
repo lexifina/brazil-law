@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Sul América Companhia Nacional de Seguros, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 447):
+"APELAÇÃO CÍVEL. PLANO DE SAÚDE. Recurso interposto por ambas as partes, em face de sentença de parcial procedência do pedido de obrigação de fazer consistente na cobertura de 30 horas semanais de psicologia ABA e 10 horas/semanais divididas em terapia ocupacional com integração sensorial. fonoaudiologia, psicomotricidade, nutricionista especializada com seletividade alimentar e psicopedagoga. OBRIGAÇÃO DE FAZER. Abusividade da recusa fundada na alegação de ausência de previsão do procedimento no Rol da ANS. Método ABA. Negativa abusiva. Inclusão da terapêutica como de observância obrigatória pelos planos de saúde (RN ANS 539). Precedente. Pedido da parte autora de custeio de psicologia em ambiente educacional e domiciliar que não possui amparo legal ou contratual. REEMBOLSO. Limitação contratual que em regra deverá ser observada, salvo inexistência ou insuficiência de estabelecimento, tal como decidido pela sentença. DANOS MORAIS. Não caracterização no caso em tela. Existência de dúvida razoável na interpretação de cláusula contratual. Precedentes do Superior Tribunal de Justiça. Ausência de prejuízo ao paciente. Sentença confirmada. Honorários majorados. NEGADO PROVIMENTO AOS RECURSOS." (v.40416).
+Nas razões do apelo especial, a recorrente apontou divergência jurisprudencial e violação aos arts. 10, I, § 13 e seus incisos I e II, da Lei 9.656/1998; e 757 e 760 do CC.
+Insurgiu-se contra a determinação de cobertura do tratamento de psicopedagogia, sob o argumento de que, além de não possuir previsão no rol da ANS, não estariam presentes os requisitos autorizadores para tanto .
+Contrarrazões apresentadas às fls. 638-650 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Nos termos da jurisprudência desta Corte de Uniformização, a psicopedagogia integra as sessões de psicologia, que são de cobertura obrigatória e ilimitada pelas operadoras de plano de saúde, notadamente no tratamento multidisciplinar do beneficiário portador de transtorno do espectro autista.
+No mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 282/STF. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. PLANO DE SAÚDE. BENEFICIÁRIO PORTADOR DE TRANSTORNO DO ESPECTRO AUTISTA. PRESCRIÇÃO DE TERAPIAS MULTIDISCIPLINARES. PSICOPEDAGOGIA EM AMBIENTE ESCOLAR E DOMICILIAR. OBRIGAÇÃO DE COBERTURA AFASTADA. EQUOTRAPIA E MUSICOTERAPIA. COBERTURA DEVIDA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+ ..
+8. A psicopedagogia há de ser considerada como contemplada nas sessões de psicologia, as quais, de acordo com a ANS, são de cobertura obrigatória e ilimitada pelas operadoras de planos de saúde, especialmente no tratamento multidisciplinar do beneficiário portador de transtorno do espectro autista, obrigação essa, todavia, que, salvo previsão contratual expressa, não se estende ao acompanhamento em ambiente escolar e/ou domiciliar ou realizado por profissional do ensino.
+ ..
+11. Recursos especiais conhecidos em parte e, nessa extensão, parcialmente providos.
+(REsp n. 2.064.964/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/2/2024, DJe de 8/3/2024.)
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE TRATAMENTO. CRIANÇA DIAGNOSTICADA COM TRANSTORNO DO ESPECTRO AUTISTA. PSICOPEDAGOGIA. INCIDÊNCIA DA SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte reconhece que a psicopedagogia integra as sessões de psicologia, sendo considerada especialidade da psicologia, conforme dispõe a Resolução nº 14/2000 do Conselho Federal de Psicologia, não se justificando a exclusão da modalidade do tratamento prescrito.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.496.480/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/6/2024, DJe de 7/6/2024.)
+Na espécie, o Tribunal originário foi peremptório em afirmar a obrigatoriedade do plano de saúde à cobertura do tratamento de psicopedagogia pleiteado pelo autor, portador de transtorno do espectro autista.
+Dessa forma, constata-se que o acórdão estadual está em consonância ao entendimento jurisprudencial desta Casa, sendo, portanto, de rigor a incidência da Súmula 83/STJ, aplicável aos recursos interpostos por ambas as alíneas constitucionais.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 300,00 (trezentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA - TEA. SESSÕES DE PSICOPEDAGOGIA. NEGATIVA DE COBERTURA INDEVIDA. SÚMULA 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
