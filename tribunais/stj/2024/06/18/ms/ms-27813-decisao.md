@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, mandado de segurança originário, com pedido liminar, impetrado por HÉRCULES DA SILVA TAVARES contra suposto ato omissivo da Ministra da Mulher, da Família e dos Direitos Humanos, consubstanciado na inércia da autoridade coatora em encerrar o procedimento administrativo que reconheceu seu pai, já falecido, como anistiado político.
+Aduz que a finalização do presente recurso - processo administrativo, já perdura por mais de 2 anos, pendentes no Ministério da Mulher, Família e Direitos Humanos, declarando o direito do impetrante à reparação econômica - valores atrasados, oriunda de sua condição de dependente de anistiado político.
+Assim, em decorrência da falta de ação da autoridade coatora, que mantém paralisado o processo injustificadamente, requer a concessão da ordem para determinar que a autoridade coatora finalize o processo administrativo de que se cuida.
+É o relatório.
+Passo a decidir.
+De plano, verifico a ausência de interesse de agir do impetrante.
+Nos termos das informações prestadas pela autoridade coatora, o Requerimento de Anistia já fora sido analisado e indeferido, por meio da Portaria 2.698, de 29/7/2021, tendo sido expedida a carta de notificação da decisão ao impetrante.
+Confira-se o teor da citada portaria:
+Assim, no dia 29/07/2021, foi publicada a Portaria nº 2698, de 28/07/2021 (2383309):PORTARIA Nº 2.698, DE 28 DE JULHO DE 2021A MINISTRA DE ESTADO DA MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS, no uso de suas atribuições legais, com fulcro no artigo 8º do Ato das Disposições Constitucionais Transitórias da Constituição Federal de 1988, regulamentado pela Lei nº 10.559, de 13 de novembro de 2002, publicada no Diário Oficial da União de 14 de novembro de 2002, e considerando os pedidos e documentos apresentados até a presente data nos autos do Requerimento de Anistia nº 2009.01.63519, utilizando como razões de decidir os fundamentos exarados no Despacho do Ministro nº 181, de 28 de julho de 2021, resolve: Indeferir o Pedido de Anistia post mortem de FELICIANO TAVARES DA SILVA, filho de LUCIA TAVARES DOS SANTOS.
+Conforme jurisprudência desta Corte, o interesse processual é identificado pela análise do binômio necessidade-utilidade, requisito processual que se faz presente quando a tutela jurisdicional se mostrar necessária à obtenção do bem pretendido e o provimento postulado for, efetivamente, útil ao impetrante, o que não ocorre nos autos.
+Nesse diapasão, destaco o seguinte precedente da Corte Especial do STJ, in verbis:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. VÍCIO PROCESSUAL SUPRIDO. FALTA DE INTERESSE DE AGIR (UTILIDADE) EM RELAÇÃO AO PROVIMENTO MANDAMENTAL. PERDA DE OBJETO.
+1. Insurge-se o impetrante, na via regimental, contra monocrática que extinguiu o writ com amparo no art. 10 da Lei 12.016/2009.
+Argumenta que a decisão proferida na MC 21.810/RS transitou em julgado sem que dela tivesse sido intimado, o que traduz flagrante cerceamento de defesa e vulneração dos princípios do devido processo legal, do contraditório e da ampla defesa.
+2. A falha processual apontada pelo recorrente - ausência de sua intimação - fora suprida por decisão do eminente Min. Sérgio Kukina, que determinou a retificação da autuação da MC 12.810/RS, o cancelamento da certidão de trânsito em julgado e a republicação da decisão, com a consequente reabertura do prazo recursal.
+3. Dessa forma, nenhuma utilidade há em conceder a segurança para determinar a anulação (ou a correção) de vícios já sanados no bojo da MC 21.810/RS, tendo o impetrante interposto Agravo Regimental naqueles autos, o que comprova a eficácia das providências saneadoras. Incidência, ademais, da máxima pas de nullité sans grief.
+4. A falta de utilidade prática do provimento jurisdicional buscado revela falta do interesse de agir, o que leva à consequente perda de objeto do writ. Precedentes: EDcl no RMS 36.596/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/12/2013; AgRg no RMS 30.000/PA, Rel. Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 2/10/2012; MS 11.877/DF, Rel. Ministro Haroldo Rodrigues (Desembargador Convocado do TJ/CE), Terceira SEÇÃO, DJe 1º/6/2011; REsp 834.431/PE, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 23/6/2009; RMS 24.305/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 24/3/2009.
+5. Agravo Regimental não provido (Corte Especial, AgRg no MS n. 20.626/RS, Rel. Ministro HERMAN BENJAMIN, j. em 20.8.2014, DJe 11.12.2014).
+Isso posto, com fundamento no art. 485, IV e V, do CPC, julgo extinto o mandado de segurança, sem resolução de mérito, pois o requerimento de anistia já foi analisado, configurada, assim, a ausência de interesse de agir.
+Custas, na forma da lei.
+Sem condenação em honorários advocatícios, nos termos da Súmula 105/STJ e do art. 25 da Lei 12.016/2009.
+Intimem-se.
+EMENTA
