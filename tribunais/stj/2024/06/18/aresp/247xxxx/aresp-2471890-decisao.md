@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em face de inadmissão de recurso especial interposto por HPE AUTOMOTORES DO BRASIL LTDA. O apelo extremo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS VENDA DE VEÍCULO COM GRAVAME PRÉ-EXISTENTE RESPONSABILIDADE PELOS DANOS SUPORTADOS DA INSTITUIÇÃO FINANCEIRA E DA DETENTORA DA MARCA OSTENTADA PELA REVENDEDORA DE VEÍCULOS VERBA HONORÁRIA SUCUMBENCIAL
+- Evidente se mostra que a empresa HPE é fornecedora principal dos bens e serviços que orientou a busca dos serviços da corré VCS para a aquisição de novo veículo, situação essa que implica no cumprimento dos deveres de boa-fé, cuidado, cooperação, informação, transparência e de respeito à confiança depositada pelos consumidores nos fornecedores diretos, indiretos, principais ou auxiliares, o que implica em dizer que todos aqueles existentes na cadeia de fornecimento são solidariamente responsáveis, devendo, assim, ser a detentora da marca de veículos responsabilizada por qualquer prática de sua revendedora.
+- Não se verificando qualquer prática abusiva por parte da Financeira Alfa, que apenas noticiou à autora que iria adotaras medidas para apreensão do bem garantidor do contrato por ela firmado, cujo adimplemento da obrigação era de responsabilidade da empresa VCS, inviável a condenação da financeira por danos morais.- Plausível de reconhecimento da responsabilidade do Banco Itaucard para a composição dos danos, visto que o Banco fomentou com a sua negligência a realização de negócio jurídico potencialmente lesivo ao contratante, da da a existência de gravame preexistente instituído por outro agente financeiro.- Tendo em vista que não houve recurso interposto pela parte interessada e, sendo vedada a reformatio in pejus, ficam mantidos os honorários advocatícios sucumbenciais fixados em favor dos patronos da Financeira Alfa por equidade, cujo valor não se mostra excessivo levando em
+consideração o trabalho realizado e o valor atribuído à causa.
+RECURSO DA CORRÉ VCS DESERTO RECURSO DA INSTITUIÇÃO FINANCEIRA IMPROVIDO RECURSO DA AUTORA PROVIDO EM PARTE.
+RECURSO DA BANCA DE ADVOGADOS PREJUDICADO" (e-STJ fl. 738/739).
+Nas razões do recurso especial, o recorrente sustenta violação do artigo 34 do Código de Defesa do Consumidor.
+Aduz que não é parte legítima para figurar no polo passivo da demanda.
+Contrarrazões às e-STJ fls. 773/778.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Observa-se dos autos que a parte agravante sustenta ser parte ilegítima para figurar no polo passivo da demanda. O Tribunal de origem assim se manifestou:
+"(..) sendo evidente que a empresa HPE permitiu que a corré VCS utilizasse de sua marca para a realização de negócios jurídico, não só é parte legítima para figurar no polo passivo, mas também, responsável solidariamente pelos atos praticados por sua representante, implicando, portanto, na obrigação de quitar o financiamento celebrado com a corré Financeira Alfa, nos termos da decisão liminar, a qual foi tornada definitiva, bem assim ao pagamento da condenação imposta à corré VCS a título de danos morais no valor de R$ 10.000,00 (dez mil reais), corrigido pela Tabela Prática do E. TJSP desde o arbitramento, conforme Súmula 362 do E. STJ e acrescida de juros de mora de 1,0% ao mês desde a citação" (fl. 743 e-STJ).
+Dessa forma, rever os argumentos trazidos no acórdão recorrido demandaria reapreciar todo o conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIOS CONSTRUTIVOS. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. INTEGRANTES DA CADEIA DE CONSUMO. APLICAÇÃO DA SÚMULA N.º 568 DO STJ. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELO NÃO PROVIMENTO DO AGRAVO INTERNO. ART. 85, § 11, DO NCPC. INADMISSIBILIDADE. APLICAÇÃO DA MULTA PREVISTA NOS ARTS. 259, § 4º, DO RISTJ, E 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte reconhece a responsabilidade solidária entre os fornecedores que figuram na cadeia de consumo na compra e venda de imóvel. Incidência da Súmula n.º 568 do STJ.
+2. No caso, a revisão da convicção firmada nas instâncias ordinárias, com o consequente acolhimento da tese recursal, de descaso do condomínio com a conservação das áreas comuns, e, consequentemente, da ausência de nexo de causalidade entre a conduta da ora recorrente e os danos alegados pelo autor, não prescindiria do reexame das provas dos autos, o que é vedado no âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3. A interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015.
+4. A aplicação da multa prevista nos arts. 259, § 4º, do RISTJ, e 1.021, § 4º, do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+5. Agravo interno não provido"
+(AgInt no REsp n. 2.061.455/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Pub lique-se.
+Intimem-se.
+EMENTA
