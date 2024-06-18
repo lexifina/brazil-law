@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISEGMENTOS NPL IPANEMA VI - NAO PADRONIZADO, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 243):
+INDENIZAÇÃO POR DANOS MORAIS. Inscrição indevida. Dano in re ipsa. Súmula 385 do STJ inaplicável à hipótese. Hipótese em que não há inscrição preexistente à questionada. Responsabilidade da ré pela indenização. Reconhecimento. Indenização devida. Juros moratórios. Responsabilidade civil extracontratual. Termo inicial. Data de disponibilização da negativação à consulta de terceiros, a ser verificada no cumprimento de sentença. Sentença reformada. RECURSO PARCIALMENTE PROVIDO.
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 186, 927 e 944 do CC.
+Esclareceu que se opôs ao acórdão por manter a condenação ao pagamento de indenização a título de danos morais, entendendo ser o insurgente responsável pelos prejuízos de ordem moral suportados pelo recorrido - anotação do nome da parte autora em cadastro de inadimplentes.
+Afirmou não vislumbrar a ofensa moral, pois a eventual frustração incomoda, mas não ao ponto de atingir a ordem psicológica de alguém ou de causar sofrimento e profunda tristeza. Destacou que o caso em questão configurou meros aborrecimentos, contrariedades, irritação, que são incapazes de originar o ônus indenizatório.
+Arguiu que constam nos autos as faturas, sendo que estas foram geradas em razão das compras efetuadas pela recorrida através do cartão de crédito contratado por ela, portanto está demonstrada a existência e regularidade da relação jurídica entre a partes, bem como a origem do débito objeto da cobrança.
+Suscitou que a reparação estipulada em R$ 15.000,00 (quinze mil reais) configura montante excessivo, a ensejar sua redução no caso de manutenção da condenação. Requereu o provimento do recurso especial (e-STJ, fls. 248-258).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 336-346).
+Contraminuta apresentada pleiteando a manutenção do aresto e fixação de multa por litigância de má-fé em desfavor do agravado (e-STJ, fls. 349-355).
+Brevemente relatado, decido.
+O julgado atestou que a anotação do nome da agravada em cadastro de inadimplentes foi irregular e que não estaria autorizada a adoção da Súmula 385/STJ. O relatório de consulta de negativações que acompanhou a petição inicial e as informações prestadas pelo SCPC demonstra que, quando cancelada a negativação em questão, não havia inscrições pré-existentes registradas em nome da autora.
+Leia-se (e-STJ, fl. 344):
+Cuida-se de ação em que a apelante pretende a declaração de inexistência de débito (R$. 3.901,48), inscrito em seu nome pela apelada, bem como o cancelamento da negativação e a indenização por danos morais delas decorrentes (R$ 15.000,00).
+A respeitável sentença declarou a inexistência do débito inscrito, mas julgou o pedido indenizatório improcedente, com fundamento na Súmula 385 do STJ.
+Todavia, respeitada a convicção em contrário do douto julgador, a hipótese não autoriza a adoção da Súmula 385 do STJ, pois o relatório de consulta de negativações que acompanhou a petição inicial (fls. 16/17) e as informações prestadas pelo SCPC (fls. 166/168) demonstram que, quando cancelada a negativação sub judice (25.11.2022 fls. 53), não havia inscrições pré-existentes registradas em nome da autora.
+Assim, afastada a incidência da Súmula 385 do STJ, e diante da ilegitimidade da inscrição, impõe-se a responsabilização da apelada pela indenização dos danos sofridos pela apelante em decorrência da indevida negativação.
+Em tais casos, nota-se, o dano moral está in re ipsa, ou seja, independe de qualquer comprovação, já que a publicidade negativa constitui, por si só, ofensa à honra objetiva da pessoa indevidamente apontada como inadimplente.
+No tocante ao valor da indenização por danos morais, entendeu o aresto que o montante de R$ 15.000,00 (quinze mil reais) seria adequado e proporcional.
+Nota-se (e-STJ, fl. 245):
+Assim, destinando-se a reparação por danos morais a desestimular a repetição do ato ilícito cometido pela ré, levando-se em linha de consideração a extensão dos danos e o caráter preventivo da reparação, o valor pretendido pela apelante (R$.15.000,00) é proporcional e razoável ao gravame sofrido e, ademais, vem sendo arbitrada por esta C. 38ª Câmara em hipóteses análogas.
+Portanto, seja acerca da conclusão pela configuração de danos morais em razão do ato ilícito tendo em vista o registro irregular do nome da recorrida em cadastro de proteção ao crédito, seja a respeito do valor da reparação indenizatória, as premissas do julgamento decorreram da apreciação fático-probatória da demanda, a atrair a aplicação da Súmula 7/STJ.
+Percebe-se que a quantia estipulada a título de indenização por danos morais não destoa dos padrões de razoabilidade e proporcionalidade, estando, isso sim, adequada ao contexto dos autos.
+Não se nota a busca por mera qualificação jurídica desse quadro, mas por sua reapreciação, o que é vedado a esta Corte Superior.
+A pretensão recursal não apresenta qual dispositivo de lei legitimaria o pleito por determinar a incidência de juros de mora a partir do trânsito em julgado. Essa deficiência recursal ocasiona o óbice da Súmula 284/STF.
+Não se observa intuito meramente protelatório ou evidente má-fé, portanto não há espaço para fixação de multa por litigância de má-fé em desfavor da agravante.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONCLUSÃO NO SENTIDO DA OCORRÊNCIA DE DANOS MORAIS. SÚMULA 7/STJ. DEFICIÊNCIA RECURSAL. ENUNCIADO SUMULAR N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
