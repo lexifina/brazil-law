@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se agravo em recurso especial interposto por GRAN PETRO DISTRIBUIDORA DE COMBUSTÍVEIS LTDA contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de instrumento. Execução de título extrajudicial. Decisão insurgida que deferiu a adjudicação do etanol hidratado pelas credoras. Alegação de extemporaneidade dos embargos declaratórios opostos pelas agravadas. Inadmissibilidade. Oposição tempestiva dos embargos de declaração a fim de suprir omissão, uma vez que não analisado o pleito de adjudicação anteriormente formulado. Alegação de que as penhoras de combustível foram realizadas a título de garantia do juízo e houve venda indevida do etanol. Bem fungível. Inviabilidade de devolução do produto à executada, considerando as circunstâncias do caso concreto, compossibilidade de gastos e maiores prejuízos às credoras, além de gerar tumulto. Ponderação de interesses em conflito e o princípio da razoável duração do processo. Decisão mantida. Recurso desprovido, prejudicado o agravo interno.
+Não apresentou a agravante elemento capaz de alterar o convencimento externado, pois é certo que a devolução do referido produto (etanol) à executada acarretaria tumulto apontado pelas exequentes, bem como gastos extras para efetuar tal devolução, considerando as despesas que tiveram para transferir o etanol de uma comarca a outra, não sendo razoável terem de arcar com novos custos de retorno do combustível, importando em aumento do prejuízo.
+Assim, ponderando os interesses em conflito e as circunstâncias do caso concreto, bem como a atual fase do presente feito, e atentando-se para o princípio da razoável duração do processo, a solução que se revela mais adequada foi aquela adotada, com o deferimento da adjudicação, não se esquecendo do escopo da execução que é a satisfação do credor" (e-STJ fl. 64).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 106/109).
+No recurso especial (e-STJ fls. 111/133), a recorrente alega violação dos artigos 223, 1.022, I, e 1.023 do Código de Processo Civil.
+Aduz que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de enfrentar a alegação de que a parte recorrida apresentou embargos de declaração de forma intempestiva contra a decisão do magistrado de primeiro grau de jurisdição que determinou o levantamento das penhoras de combustíveis.
+Sustenta que referido recurso foi acolhido para deferir o pedido de adjudicação do Etanol, "(..) em total descompasso com os valores atualizados do produto, convalidando a excessividade da execução e a irrefutável extemporaneidade dos Embargos de Declaração" (e-STJ fl. 119).
+Argumenta que os declaratórios opostos pela parte recorrida não se referem à decisão de fl. 1.250 (e-STJ fl. 37), mas sim à decisão anterior de fl. 1.234/1.235 (e-STJ fls. 42/44), de modo que deve ser reconhecida sua extemporaneidade.
+Ao final, requer o provimento do recurso com pedido de efeito suspensivo.
+Com as contrarrazões (e-STJ fls. 146/155) e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Trata-se, na origem, de agravo de instrumento interposto pela parte ora recorrente contra a decisão do magistrado singular que, nos autos de execução de título extrajudicial, no exame dos embargos declaratórios opostos pela parte ora recorrida, deferiu-lhe a adjudicação do etanol hidratado, alegando que referido recurso seria extemporâneo.
+O Tribunal local negou provimento ao recurso especial nos seguintes termos:
+"(..)
+Não subsiste alegação da agravante de extemporaneidade dos embargos declaratórios opostos. A decisão de fl. 1.250, reportando-se à decisão de fls. 1.234/1.235, em continuidade, deliberou sobre a autorização de substituição das penhoras de etanol, determinando o levantamento das penhoras do etanol, entre outras questões. Referida decisão foi publicada em 01/07/2022. Deixou, no entanto, de apreciar o pleito de adjudicação da credora, e olvidou de que a PSO removeu o etanol há longa data, o que foi alegado nos embargos declaratórios opostos às fls. 1.253/1.255, os quais foram protocolizados em 08/07/2022, logo, dentro do prazo legal.
+Daí porque na decisão de fls. 1.268/1.269, suprindo a omissão apontada, reconsiderou-se o item 3 da decisão de fl. 1.250 que autorizou a substituição da penhora dos 128.637 litros de etanol por seguro-garantia, deferindo a adjudicação pleiteada. Bem se vê que os embargos declaratórios são tempestivos e não há que se falar em preclusão na hipótese, pois a própria decisão de fl. 1.256 reconheceu que não havia sido apreciado o pedido de adjudicação formulado" (e-STJ fls. 66/67).
+Tal entendimento foi reafirmado no julgamento dos embargos de declaração que se seguiu.
+Registra-se, ainda, que o aresto recorrido entendeu que o etanol se trata de bem fungível, não podendo a parte ser penalizada por tê-lo comercializado, ainda que se tratasse de garantia do juízo, pois, caso fosse determinada a sua devolução, as agravadas poderiam providenciá-lo junto a outros fornecedores e entregar à agravante.
+Além disso, ponderou que a questão referente à diferença de valores do etanol no mercado deve ser examinada primeiro pelo magistrado de primeiro grau de jurisdição.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+Logo, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Não se pode confundir, portanto, negativa de prestação jurisdicional ou ausência de fundamentação com decisão contrária aos interesses da parte.
+No mais, afastar o entendimento do acórdão recorrido de que os embargos de declaração apresentados não seriam intempestivos esbarra no óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
