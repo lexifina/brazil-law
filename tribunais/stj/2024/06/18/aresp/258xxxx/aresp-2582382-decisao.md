@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por A3 TERRAPLENAGEM E ENGENHARIA LTDA. e GAL ADMINISTRAÇÃO DE IMÓVEIS LTDA., contra decisão que inadmitiu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Agravo em recurso especial interposto em: 22/11/2023.
+Concluso ao gabinete em: 6/6/2024.
+Ação: obrigação de fazer cumulada com imposição de multa ajuizada por ASSOCIAÇÃO DOS ADQUIRENTES DE LOTES DO GRANVILLE ATIBAIA - AMGA, em face de CRISTO REI EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.
+Decisão interlocutória: afastou a ilegitimidade ativa das agravantes.
+Acórdão: negou provimento ao agravo de instrumento de A3 TERRAPLENAGEM E ENGENHARIA LTDA. e GAL ADMINISTRAÇÃO DE IMÓVEIS LTDA., nos termos da seguinte ementa (e-STJ fl. 620):
+AGRAVO DE INSTRUMENTO. Ação de obrigação de fazer. Contrato de empreitada. Asfalto. Vício construtivo oculto. Decisão saneadora complementar, com afastamento das preliminares e prejudiciais apontadas pela ré denunciada. Insurgência recursal. Não convencimento. Associação de moradores que detém legitimidade para os termos da presente demanda, por se tratar de interesse coletivo. Denunciação da lide possível, conforme art. 125, II, CPC, ausente insurgência por parte da autora agravada. Prazo prescricional quinquenal, com aplicação do art. 27 do CDC, por estarem as rés dentro da mesma cadeia de fornecimento. Decisão mantida. RECURSO IMPROVIDO.
+Recurso especial: alegam, além do dissídio jurisprudencial, violação ao artigo 618, caput, e parágrafo único, do CC.
+Sustentam que " ..  não é viável a aplicação do Código de Defesa do Consumidor num contrato cuja natureza é notoriamente de empreitada, haja vista que a Recorrida/Denunciante não é consumidora - do contrário, desenvolve atividade econômica a partir da obra realizada  .. ", pois foi " ..  ela quem loteou a área e a comercializou aos consumidores interessados  .. " (e-STJ fl. 638).
+Afirmam que é " ..  incontroverso que as obras de pavimentação asfáltica foram concluídas em maio/2014, ocasião em que se iniciou o prazo de garantia previsto no art. 618, caput, do Código Civil  .. ", sendo que o " ..  prazo de garantia se encerrou em maio/2019 sem que houvesse qualquer queixa em relação à qualidade do asfaltamento realizado no local  .. " (e-STJ fl. 639).
+Argumentam que a " ..  jurisprudência entende que o prazo para exigir a reparação de danos decorrentes de vícios construtivos é prescricional, previsto no art. 205 do Código Civil, ou seja, de dez anos, mas com a condição de que os vícios construtivos que dão causa à pretensão indenizatória se constatem durante o período de garantia, o que não aconteceu  .. " (e-STJ fl. 639).
+Aduzem que " ..  ainda se que cogite o refazimento do serviço após o prazo de garantia previsto em lei, o que se admite visando à plenitude argumentativa, verificados os supostos vícios em maio/2020, as Recorrentes deveriam ter sido notificadas em até 180 dias do aparecimento do vício  .. " (e-STJ fl. 639), porém, as " ..  Recorrentes foram notificadas tão somente em maio/2021 e a ação ajuizada em dezembro/2021, operando-se a decadência, já que no caso o prazo de 180 dias findou em novembro/2020  .. " (e-STJ fl. 640).
+Argumentam, ainda, que " ..  se reconheça que, uma vez regulada pelo Código de Civil, a relação jurídica oriunda de contrato de empreitada possui prazo de garantia quinquenal a partir da conclusão dos serviços, sendo inviável a responsabilização das Recorrentes, seja pela prescrição, seja pela decadência  .. " (e-STJ fl. 640).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas.
+O Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 621/622):
+ ..
+Por fim, rechaço o pretendido reconhecimento de decurso de prazo decadencial ou prescricional. Com efeito, as rés integram a cadeia de fornecimento dos serviços de empreitada prestados, o que atrai o disposto no art. 27 do CDC, no sentido do prazo quinquenal, cuja fluência se inicia a partir do conhecimento do dano, já que referente a vício oculto.
+Ratifico, porque elucidativa, a fundamentação monocrática a respeito:
+(..) tendo sido expedido Termo de Verificação de Obras pela municipalidade, atestando a execução de obras de infraestrutura exigida pela legislação vigente, em 02/05/2018 (fl. 65), o vício construtivo passado a ser do conhecimento da parte autora, especificamente por meio do laudo técnico de fls. 68/81, ao final, em 24/03/2023 e, ainda, tendo a autora levado a efeito a notificação da denunciante, repita-se, integrante da mesma cadeia de fornecimento das denunciadas, sobre os problemas relatados, em 11/05/2021 (fls. 82/87), de se concluir que não há falar em transcurso do prazo decadencial, à vista da observância, pela autora, do disposto no art. 26, § 2º, I, do CDC, não se antevendo, destarte, negativa qualquer da denunciante a debelar o decurso do prazo decadencial respectivo.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7/STJ.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.925.105/PR, Terceira Turma, DJe de 5/10/2022; AgRg no AREsp n. 182.361/SP, Terceira Turma, DJe de 10/5/2016; AgInt no AREsp n. 1.698.665/SP, Quarta Turma, DJe de 18/11/2020; e AgInt no AREsp n. 1.621.499/DF, Quarta Turma, DJe de 24/9/2020.
+- Do dissídio jurisprudencial.
+A incidência da Súmula n. 7/STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual o Tribunal de origem deu solução à causa.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.717.057/SP, Terceira Turma, DJe de 23/2/2022; AgInt no AREsp n. 1.214.876/SC, Terceira Turma, DJe de 19/2/2020; AgInt no AREsp n. 2.302.947/RS, Quarta Turma, DJe de 2/6/2023; e AgInt no AREsp n. 2.223.826/RJ, Quarta Turma, DJe de 11/4/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, nos termos do artigo 85, § 11, do CPC, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, parágrafos 4º e 5º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM IMPOSIÇÃO DE MULTA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de obrigação de fazer cumulada com imposição de multa.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes.
+4. Agravo conhecido. Recurso especial não conhecido.
