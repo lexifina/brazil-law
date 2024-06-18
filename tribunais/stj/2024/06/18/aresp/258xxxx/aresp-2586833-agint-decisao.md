@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de a gravo interno interposto por EDMAR CARDEAL DE CARVALHO JUNIOR contra decisão monocrática de relatoria da Ministra Presidente que não conheceu do agravo em recurso especial em razão da Súmula 182/STJ (fls. 372-373).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 316):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. JULGAMENTO ANTECIPADO DA LIDE. CONTRATO DE TELEFONIA MÓVEL. RELAÇÃO FORMALIZADA VIA CALLCENTER. EXERCÍCIO REGULAR DO DIREITO DO CREDOR.
+NEGÓCIO JURÍDICO VÁLIDO. SENTENÇA MANTIDA. 1. O contrato de consumo firmado por telefone é válido quando evidenciado qual o serviço a ser prestado e a expressa manifestação de vontade do consumidor, como ocorreu no caso, em que o recorrente, durante atendimento por call center, confirmou seus dados pessoais e o interesse na habilitação de plano controle. 2. Presume-se autêntica a prova produzida contra a parte que não apresenta impugnação específica. 3. O recorrente, embora tenha negado a autenticidade de documentos instruídos à contestação, não os impugnou especificamente, tampouco requereu a produção de provas que corroborassem com sua alegação. 4. Demonstrada a existência de relação jurídica entre as partes, deve ser mantida a sentença que julgou improcedentes os pedidos iniciais. RECURSO CONHECIDO E DESPROVIDO.
+Sem embargos de declaração.
+Nas razões do agravo interno, alega a parte agravante que (fl. 378):
+ ..  de uma simples leitura da peça recursal, vê-se de maneira bastante clara a indicação do que seria, detalhadamente, o objeto de insurgência que consiste no cerne do Recurso interposto, bem como verifica-se que o único fundamento foi devidamente impugnado.
+Aduz, nesse sentido, que não deve prosperar a Súmula 182/STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 389-397).
+É, no essencial, o relatório.
+Assiste razão à parte agravante quanto à impugnação de todos os fundamentos que inadmitiram o recurso especial.
+Assim, reconsiderada a decisão que não conheceu do agravo em recurso especial, passa-se à análise dos demais requisitos de admissibilidade recursal.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de ação declaratória de inexistência de débito c/c indenização por danos morais movida pelo agravante, EDMAR CARDEAL DE CARVALHO JUNIOR, em desfavor da agravada, TELEFÔNICA BRASIL S.A.
+O Tribunal a quo manteve a sentença que negou provimento aos pedidos quanto ao reconhecimento de fraude na contratação do serviço oferecido pela agravada.
+Em síntese, defende o agravante que impugnou expressamente o áudio (prova) apresentado pela agravada, "incumbindo à requerida a obrigação de comprovar a sua autenticidade, e essa, por sua vez, não pugnou pela prova pericial".
+Aduz que, nos termos do art. 429, II, do CPC, incumbe o ônus da prova à parte que produziu o documento quando se tratar de impugnação da autenticidade.
+Ocorre que, quanto ao ponto, assim fundamentou a origem (fl. 315):
+De mais a mais, vale destacar que impugnação genérica dos documentos juntados pela apelada equivale ao mesmo que ausência de impugnação, pois cabe à parte, ao se insurgir, indicar especificamente o motivo da invalidade, o que não ocorreu no caso.
+Acrescente-se que o recorrente, embora tenha questionado a autenticidade da gravação telefônica, requereu o julgamento antecipado da lide, dispensando a produção de provas que corroborassem com suas alegações.
+Com efeito, comprovada a relação jurídica e a existência da dívida, afigura-se legítima a inscrição do apelante em órgão de proteção ao crédito, de sorte que inexistem motivos para declaração de inexistência do débito/relação jurídica e, por via de consequência, não há que se falar em indenização por danos morais.
+Portanto, conhecer em sentido diverso para acolher a pretensão da agravante, no sentido que impugnou a prova ora apresentada pela parte ré, devendo esta comprovar a sua autenticidade, demanda a necessária incursão na seara fático-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+Nesse sentido, cito os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. COISA JULGADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. ÔNUS DA PROVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARBITRAMENTO DE ALUGUEL. OCUPAÇÃO EXCLUSIVA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmulas n. 83 e 568 do STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. Conforme a jurisprudência desta Corte, "para alterar as conclusões contidas no decisum, em relação à questão discutida estar acobertada pela coisa julgada, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ" (AgInt no REsp n. 1.369.455/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2022, DJe de 29/9/2022).
+5. Ainda consoante posicionamento do STJ, "como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pela civilística processual, proceder à exegese necessária à formação do livre convencimento motivado. A questão probatória do ônus do autor ou do réu é inviável de ser analisada por esta Corte Superior, em virtude do óbice da Súmula n. 7 do STJ" (AgInt no REsp n. 1.803.362/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/8/2019, DJe de 13/8/2019).
+ ..
+(AgInt no AREsp n. 2.083.107/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ÔNUS DA PROVA. VALORAÇÃO PROBATÓRIA. INTERVENÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. COBERTURA. RECUSA INDEVIDA. DANOS MORAIS. CARACTERIZAÇÃO. REVISÃO. SÚMULA Nº 7/STJ. VALOR DA INDENIZAÇÃO. REDUÇÃO. SÚMULA Nº 7/STJ.
+1. No caso em apreço, o tribunal de origem formou sua convicção à luz do acervo probatório dos autos, fundamentando os motivos que levaram à condenação, de forma que a intervenção desta Corte quanto à satisfação do ônus probatório e à valoração das provas encontra óbice na Súmula nº 7/STJ.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que, ante a conclusão de que houve a recusa indevida de cobertura pelo plano de saúde, deve ser reconhecido o direito ao recebimento de indenização por danos morais, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário já abalado e com a saúde debilitada.
+3. Na hipótese, o acolhimento da pretensão recursal, de que o plano de saúde prestou toda a assistência que lhe incumbia e acerca da inexistência de culpa e de nexo causal entre suas ações e o dano sofrido pelo beneficiário, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável diante do disposto na Súmula nº 7/STJ.
+4. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que ficou demonstrada a falha na prestação de serviços médico-hospitalares que gerou grande sofrimento ao autor.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.172.158/PA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/9/2023, DJe de 29/9/2023.)
+Ante o exposto, reconsidero a decisão de fls. 372-373 e conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DE INADMISSÃO DO RECURSO ESPECIAL. RECONSIDERAÇÃO. ÔNUS PROBATÓRIO. IMPUGNAÇÃO. AUTENTICIDADE DA PROVA. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
