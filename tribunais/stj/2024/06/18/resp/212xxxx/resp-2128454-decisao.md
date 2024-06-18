@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+O recorrente foi condenado "como incurso no artigo 16, § 1º, inciso IV, da Lei 10.826/03, à pena de 03 (três) anos reclusão e pagamento de 10 (dez) dias-multa, com substituição da corpórea por duas restritivas de direitos" (fl. 189).
+Nas razões de seu recurso, aponta violação do art. 65, I, do Código Penal, alegando, em suma, a possibilidade de redução da pena, na segunda etapa da dosimetria, aquém do mínimo legal, superando-se, assim, o enunciado da Súmula n. 231/STJ, requerendo, ao final, o redimensionamento da sanção.
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal "pelo não conhecimento do recurso especial. Subsidiariamente, pelo desprovimento do apelo" (fl. 256).
+Sobre a pretensão aqui trazida, asseverou o Tribunal local que as "circunstâncias atenuantes não têm o condão de situar a reprimenda em patamar aquém do mínimo legal abstratamente previsto, consoante, aliás, Súmula 231 do Superior Tribunal de Justiça" (fl. 189), entendimento esse que vai ao encontro da jurisprudência desta Corte. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ AINDA VIGENTE NESTA CORTE. RECURSOS ESPECIAIS SUBMETIDOS À ANÁLISE DA TERCEIRA SEÇÃO. SOBRESTAMENTO DOS FEITOS NÃO DETERMINADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da atual jurisprudência desta Corte, mostra-se inviável a redução da pena aquém do mínimo legal pelo reconhecimento da confissão espontânea, ora prevista no art. 65, inc. III, "d", do Código Penal - CP , conforme dispõe a Súmula n. 231 desta Corte.
+2. Entende-se que "não há falar em aplicação do instituto do overruling, porquanto inexiste argumentação capaz de demonstrar a necessidade de superação da jurisprudência consolidada desta Corte Superior" (AgRg no REsp 1882605/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 31/8/2020).
+3. Embora a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência consolidada na Súmula n. 231/STJ, remetendo, assim, os autos dos Recursos Especiais n. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, não fora determinado o sobrestamento dos feitos pelo então relator, Ministro Rogerio Schietti Cruz. Desse modo, não há óbice ao julgamento do presente feito.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.548.317/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. ART 334, CAPUT, DO CP. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. TEMA REPETITIVO N. 1218/STJ. DOSIMETRIA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231/STJ. PRECEDENTES. APLICABILIDADE MANTIDA.
+1. No caso, o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, no sentido de que a reiteração delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho.
+2. A jurisprudência desta Corte Superior possui entendimento no sentido de não ser possível a redução da reprimenda, na segunda fase da dosimetria, em patamar inferior ao mínimo previsto legalmente (Súmula 231 deste Sodalício), sendo imperioso ressaltar que, muito embora a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência compendiada na referida súmula, a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes. Precedentes.
+3. Agravo regimental improvido. (AgRg no AREsp n. 2.575.333/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/5/2024, DJe de 10/5/2024.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
