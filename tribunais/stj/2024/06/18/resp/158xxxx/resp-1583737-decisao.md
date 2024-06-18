@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS, contra acórdão assim ementado:
+AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADEADMINISTRATIVA. CARACTERIZAÇÃO. DOLO. MÁ-FÉ. ELEMENTO ESSENCIAL. AUSÊNCIA.
+I- Consoante jurisprudência e doutrina majoritárias, é essencial para a configuração do ato ímprobo descrito no art. 11 da Lei8.429/92, a presença do elemento subjetivo, dolo ou má-fé, não demonstrado na presente demanda.
+II - Apelação desprovida.
+Nas suas razões recursais, com fundamento no art. 11, I, da Lei 8.429/1992.
+O Ministério Público Federal opinou pelo conhecimento e provimento do recurso.
+Intimadas, as partes e o Parquet Federal manifestaram sobre o impacto da Lei 14.230/2021 neste caso.
+É o relatório.
+Decido.
+Ao dirimir a controvérsia, o Tribunal de origem concluiu pela ausência de elemento subjetivo para tipificar a conduta atribuída aos recorridos como ímproba.
+Confira:
+O aspecto controvertido da presente demanda consiste na verificação da prática de ato de improbidade administrativa, previsto no art. 11, inc. I, da Lei 8.429/92, pelos membros da Mesa Diretora da Câmara Legislativa do Distrito Federal, referente à aprovação do Ato da Mesa Diretora nº 23, de 29/04/08 (fl. 87).
+ ..
+Na presente demanda, embora reconhecida a inconstitucionalidade do Ato da Mesa Diretora nº 23/08 na ADI 2008.00.2.006519-8, com efeitos ex tunc e eficácia erga omnes, não há comprovação da má-fé ou dolo dos apelados -réus que revele a presença de um comportamento ímprobo na edição da referida resolução, capaz de fazer incidir as penalidades previstas na Lei 8.429/92.
+O apelante-autor, em verdade, não produziu provas suficientes para demonstrar que o Ato da Mesa Diretora da CLDF foi realizado com o fim específico de proceder a nomeações com infringência ao princípio do concurso público.
+ ..
+Em conclusão, ausente a prova do elemento subjetivo consistente do dolo ou má-fé, necessário à configuração do ato ímprobo descrito no art. 11 da Lei 8.429/92, mantém-se a r. sentença que julgou improcedentes os pedidos.
+Inconformada com o decisum, a parte recorrente defende que a presença do dolo genérico é suficiente para caracterizar as condutas descritas no art. 11, I, da Lei de Improbidade Administrativa.
+Ocorre que, após a publicação da Lei 14.230/2021, o Supremo Tribunal Federal, no julgamento do ARE 843.989/PR, Rel. Ministro ALEXANDRE DE MORAES, concluiu o julgamento do Tema 1.199 da Repercussão Geral, tendo fixado as seguintes teses:
+"1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa -, é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente;
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei".
+Mais precisamente, em relação às condenações não transitadas em julgado com fulcro nos dispositivos revogados pela Lei n. 14.230/2021, vem se manifestando o Supremo Tribunal Federal:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA DE RESPONSABILIDADE POR ATO DE IMPROBIDADE ADMINISTRATIVA. ADVENTO DA LEI 14.231/2021. INTELIGÊNCIA DO ARE 843989 (TEMA 1.199). INCIDÊNCIA IMEDIATA DA NOVA REDAÇÃO DO ART. 11 DA LEI 8.429/1992 AOS PROCESSOS EM CURSO. EMBARGOS DE DECLARAÇÃO PROVIDOS PARA DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+1. A Lei 14.231/2021 alterou profundamente o regime jurídico dos atos de improbidade administrativa que atentam contra os princípio da administração pública (Lei 8.249/1992, art. 11), promovendo, dentre outros, a abolição da hipótese de responsabilização por violação genérica aos princípios discriminados no caput do art. 11 da Lei 8.249/1992 e passando a prever a tipificação taxativa dos atos de improbidade administrativa por ofensa aos princípios da administração pública, discriminada exaustivamente nos incisos do referido dispositivo legal.
+2. No julgamento do ARE 843989 (Tema 1.199), o Supremo Tribunal Federal assentou a irretroatividade das alterações da introduzidas pela Lei 14.231/2021 para fins de incidência em face da coisa julgada ou durante o processo de execução das penas e seus incidentes, mas ressalvou exceção de retroatividade para casos como o presente, em que ainda não houve o trânsito em julgado da condenação por ato de improbidade.
+3. As alterações promovidas pela Lei 14.231/2021 ao art. 11 da Lei 8.249/1992 aplicam-se aos atos de improbidade administrativa praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado.
+4. Tendo em vista que (i) o Tribunal de origem condenou o recorrente por conduta subsumida exclusivamente ao disposto no inciso I do do art. 11 da Lei 8.429/1992 e que (ii) a Lei 14.231/2021 revogou o referido dispositivo e a hipótese típica até então nele prevista ao mesmo tempo em que (iii) passou a prever a tipificação taxativa dos atos de improbidade administrativa por ofensa aos princípios da administração pública, imperiosa a reforma do acórdão recorrido para considerar improcedente a pretensão autoral no tocante ao recorrente.
+5. Impossível, no caso concreto, eventual reenquadramento do ato apontado como ilícito nas previsões contidas no art. 9º ou 10º da Lei de Improbidade Administrativa (Lei 8.249/1992), pois o autor da demanda, na peça inicial, não requereu a condenação do recorrente como incurso no art. 9º da Lei de Improbidade Administrativa e o próprio acórdão recorrido, mantido pelo Superior Tribunal de Justiça, afastou a possibilidade de condenação do recorrente pelo art. 10, sem que houvesse qualquer impugnação do titular da ação civil pública quanto ao ponto.
+6. Embargos de declaração conhecidos e acolhidos para, reformando o acórdão embargado, dar provimento aos embargos de divergência, ao agravo regimental e ao recurso extraordinário com agravo, a fim de extinguir a presente ação civil pública por improbidade administrativa no tocante ao recorrente. (STF - ARE: 803568 SP, Relator: LUIZ FUX, Data de Julgamento: 22/08/2023, Tribunal Pleno, Data de Publicação: PROCESSO ELETRÔNICO DJe-s/n DIVULG 05-09-2023 PUBLIC 06-09-2023).
+Portanto, conforme se vê, a conclusão do acórdão recorrido não destoa do preceito legal vigente, quando vislumbrou a necessidade da presença do elemento subjetivo para tipificar os atos de improbidade administrativa previstos na Lei 8.429/1992.
+Ainda que assim não fosse, por força das alterações legislativas advindas da Lei 14.230/2021, haveria de se reconhecer a extinção de punibilidade dos recorridos, em razão de condenação em dispositivo revogado.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
