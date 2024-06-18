@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 12/06/2024 a 18/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PRETENÇÃO DEDUZIDA EXCLUSIVAMENTE CONTRA A ENTIDADE PREVIDENCIÁRIA. AUSÊNCIA DE PEDIDOS CONTRA A EX EMPREGADORA. COMPETÊNCIA DA JUSTIÇA COMUM. AGRAVO INTERNO DESPROVIDO.
+1. Ausência, na hipótese, de pedidos condenatórios em face da ex empregadora.
+2. No que tange a demandas que pretendem exclusivamente a extensão a benefício de complementação de aposentadoria de aumentos salariais concedidos a trabalhadores em atividade, o entendimento do Superior Tribunal de Justiça é uníssono em declarar a competência da Justiça Comum.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARILENA PESSOA DE ANDRADE, ISABEL VIEIRA DE OLIVEIRA SILVA, VERA MARIA DE FREITAS CHAVES, RUBENITA ALVES MOREIRA DOS SANTOS, RITA MARIA BRASILEIRO DE OLIVEIRA, REGINA ZÉLIA AZEVEDO LIMA, NORMA LEITE VIEIRA, MAURO MARTINIANO BARBOSA, VANIA MARIA ALBUQUERQUE PINHEIRO E MARTA MENDES MOURA contra decisão que conheceu do conflito e declarou a competência da Justiça Comum para conhecer e julgar ação em que empregados aposentados pretendem exclusivamente em face da entidade de previdência privada a extensão à complementação de aposentadoria de aumentos salariais concedidos aos trabalhadores em atividade.
+A parte agravante alega, em síntese, que deve ser declarada a competência da Justiça do Trabalho, pois "a hipótese dos autos é de reconhecimento de verbas trabalhistas com reflexo das contribuições feitas à entidade de previdência privada vinculada à empregadora, daí há que se aplicar o TEMA 1.166 do STF, ou seja, a competência para julgamento da Reclamatória dos Agravantes é da Justiça Especializada do Trabalho do Ceará (1ª. VARA), e não da Justiça Estadual Comum" (na fl. 150).
+Requer o conhecimento e provimento do agravo interno.
+A parte agravada apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PRETENÇÃO DEDUZIDA EXCLUSIVAMENTE CONTRA A ENTIDADE PREVIDENCIÁRIA. AUSÊNCIA DE PEDIDOS CONTRA A EX EMPREGADORA. COMPETÊNCIA DA JUSTIÇA COMUM. AGRAVO INTERNO DESPROVIDO.
+1. Ausência, na hipótese, de pedidos condenatórios em face da ex empregadora.
+2. No que tange a demandas que pretendem exclusivamente a extensão a benefício de complementação de aposentadoria de aumentos salariais concedidos a trabalhadores em atividade, o entendimento do Superior Tribunal de Justiça é uníssono em declarar a competência da Justiça Comum.
+3. Agravo interno desprovido.
+VOTO
+Não prospera a irresignação.
+Com efeito, em sua petição inicial, a parte agravante destaca, de início, que, "nos termos do item 21.5 do Regulamento dos Planos de Benefícios - REPLAN, instituído em 1977, na vigência do contrato de trabalho do Autor, "as suplementações de benefícios serão reajustadas de conformidade com as condições e índices aplicáveis aos empregados da Instituidora - Patrocinadora, e nos mesmos meses dessa variação" (grifou-se, na fl. 22).
+Nesse passo, esclarece que, na hipótese em tela, "o realinhamento da remuneração de cargos de confiança implantado em julho de 1997 (gratificação temporária por atividade gerencial - GETAG, também denominada abono temporário de ajuste de remuneração gerencial); (implantado pela Cl GEARU / GECAR 130 197) e o "complemento de mercado" instituído em 15 de setembro de 1998, Cl GEARU 055198), e o reajuste da remuneração de cargos de confiança e adequação do atual Plano de Cargos em Comissão - PCC, implantado em 15-07-2002 pela CI - Caixa 28912002, representam aumento salarial de caráter geral para os detentores de cargos em comissão" (grifou-se, na fl. 23).
+Assim, a inicial conclui que, "em face disso, a(o)(s) Reclamantes entende(m) que faz(em) jus ao pagamento de complementação de suas aposentadoria(s) nos mesmos valores recebidos pelos empregados que exercem as mesmas funções por ele exercidas na data de sua aposentadoria(s), tomando como base o piso salarial, ou o valor da respectiva gratificacão acrescida da remuneração/base e vantagens pessoais, conforme as normas internas da 1a Reclamada" (na fl. 23).
+Por via de consequência, pedem sejam as requeridas condenadas a:
+"- Pagar-lhe as diferenças mensais (a partir de novembro / 1997 / set / 1998 e julho de 2002 e até o efetivo pagamento) com acréscimos de juros e correção monetária.
+II - Pagar-lhe as precitadas diferenças inclusive relativas às parcelas de proventos de gratificação natalina (130).
+Assim, não requereram, eventualmente, que a ex empregadora (CEF) seja condenada a reconhecer o alegado aumento salarial, bem como o consequente recolhimento das contribuições patronais incidentes sobre o mesmo.
+Ou seja, na realidade, não obstante a falta de precisão da inicial, não existem pedidos feitos em face da ex empregadora mas somente em face da entidade de previdência privada (FUNCEF).
+Ora, como de ampla ciência, o col. Supremo Tribunal Federal consolidou, no julgamento dos Recursos Extraordinários nº 586.453/SE e nº 583.050/RS, o entendimento vinculante que preconiza ser da Justiça Comum a competência para processar e julgar ação ajuizada contra entidade de previdência privada.
+Confira-se, a propósito, a ementa desse último:
+EMENTA Recurso extraordinário - Direito Previdenciário e Processual Civil - Repercussão geral reconhecida. - Competência para o processamento de ação ajuizada contra entidade de previdência privada e com o fito de obter complementação de aposentadoria - Afirmação da autonomia do Direito Previdenciário em relação ao Direito do Trabalho - Litígio de natureza eminentemente constitucional, cuja solução deve buscar trazer maior efetividade e racionalidade ao sistema - Competência da Justiça comum para o processamento do feito - Recurso não provido.
+1. A competência para o processamento de ações ajuizadas contra entidades privadas de previdência complementar é da Justiça comum, dada a autonomia do Direito Previdenciário em relação ao Direito do Trabalho. Inteligência do art. 202, § 2º, da Constituição Federal a excepcionar, na análise desse tipo de matéria, a norma do art. 114, inciso IX, da Magna Carta.
+2. O intérprete diante de controvérsia em que há fundamentos constitucionais para se adotar mais de uma solução possível deve optar por aquela que efetivamente trará maior efetividade e racionalidade ao sistema. 3. Recurso extraordinário não provido.
+(RE 583050, Relator(a): Min. CEZAR PELUSO, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno
+Nesse passo, o Superior Tribunal de Justiça conformou sua jurisprudência ao novo entendimento da col. Corte Suprema. Confira-se, como exemplo, o seguinte precedente.
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO-ALIMENTAÇÃO. EXTENSÃO AO INATIVO. CONTROVÉRSIA DE NATUREZA CIVIL E NÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O Supremo Tribunal Federal, no julgamento do RE nº 586.453/SE, reconheceu a repercussão geral da questão constitucional nele suscitada e consolidou entendimento no sentido da competência da Justiça Comum para o processamento de demandas ajuizadas contra entidades privadas de previdência nas quais se busca o complemento de aposentadoria.
+2. O Superior Tribunal de Justiça também solidificou a jurisprudência, inclusive em recurso especial representativo de controvérsia (REsp nº 1.207.071/RJ), no sentido de competir à Justiça Comum (estadual ou federal) o julgamento de ação relacionada à complementação de benefício previdenciário, pois a causa de pedir e o pedido se originam de contrato celebrado com entidade de previdência complementar, o qual possui natureza eminentemente civil, envolvendo tão somente, de maneira indireta, os aspectos da relação de trabalho.
+3. Agravo regimental não provido. (AgRg no CC 135.744/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA , SEGUNDA SEÇÃO, DJe 03/08/2015)
+Destaca-se que nada impede que a parte autora/agravante realize novos pedidos, com as adaptações pertinentes às respectivas iniciais: um perante a Justiça do Trabalho requerendo o reconhecimento pela ex empregadora da ocorrência do pretenso aumento salarial, bem como o consequente recolhimento das contribuições patronais incidentes sobre o mesmo; e outro perante a Justiça Federal pretendendo o recebimento dos eventuais reflexos sobre o benefício de complementação de aposentadoria.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
