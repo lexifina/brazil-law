@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, conflito de competência suscitado por Osvaldo Santos Rodrigues, em que busca a declaração de competência do Juiz da 5ª Vara da Comarca de Presidente Prudente - SP como competente para processar e julgar a fase de cumprimento de sentença e expedição da Requisição de Pequeno Valor (RPV), nos Autos da Ação Previdenciária de n. 1010000-90.2019.8.26.0482.
+Apura-se dos autos que o Juiz da 5ª Vara da Comarca de Presidente Prudente/SP declinou da competência sob o fundamento de que a questão cuida de "expedição de requisição de Precatório/RPV de competência da Justiça Federal, tendo em vista que o beneficio implantado foi de natureza previdenciária" (fls. 923-924).
+O Juiz Federal da 2ª Vara do Juizado Especial de Presidente Prudente - SP, ora suscitado, extinguiu o feito, por falta de interesse de agir. Fundamentou que o cumprimento de sentença deve ser realizado na demanda, na qual não fora cumprida a sentença homologatória, e não em novo feito (fls. 990-991).
+O suscitante recorreu da decisão, mas a 4ª Turma Recursal da Seção Judiciária de São Paulo entendeu que a Justiça Federal não seria competente para expedir o RPV (fls. 1013-1020).
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do presente conflito, em razão da perda superveniente do objeto (fls. 1085-1089):
+Em seguida, o INSS fez a seguinte proposta de acordo (e-STJ fls. 1.053/1.054):
+1. A concessão do benefício de APOSENTADORIA POR INCAPACIDADE PERMANENTE a partir de 09.06.2019, com pagamentos administrativos a partir de 01.10.2021 (DIP - data de início do pagamento administrativo).
+2. No caso de o segurado retornar voluntariamente ao trabalho, o benefício por incapacidade poderá ser suspenso ou cessado, conforme as regras administrativas de manutenção dos benefícios pelo INSS, independentemente de realização de nova perícia médica. O segurado aposentado por invalidez poderá ser convocado a qualquer momento para avaliação das condições que ensejaram o afastamento ou a aposentadoria, concedida judicial ou administrativamente, observado o disposto no art. 101 da Lei nº 8.213/91.
+3. Em relação às parcelas vencidas, será pago à parte autora 95% dos valores devidos, aplicando-se o Manual de Cálculos da Justiça Federal, para fins de correção monetária. Para fins de compensação da mora, será aplicada a Lei nº 11.960, de 2009,a partir da citação.
+4. Será excluído do cálculo eventual período concomitante em que tenha havido recebimento de benefício previdenciário ou assistencial inacumulável, seguro-desemprego ou outra verba não cumulável ou durante o qual o(a) segurado(a)desempenhou atividade laboral.
+5. O pagamento dos valores indicados no item 3 será feito, exclusivamente, por meio de Requisição de Pequeno Valor - RPV ou Precatório, conforme o caso, a ser expedido(a) pelo Juízo.
+6. A título de honorários advocatícios, será oferecido o pagamento de 10% sobre o valor do acordo, salvo em se tratando de ação proposta perante o Juizado Especial Federal ou pela Defensoria Pública da União, ocasião em que não haverá pagamento de honorários advocatícios.
+7. Caberá à parte autora o pagamento de eventuais custas judiciais.
+8. A parte autora renuncia a eventuais direitos decorrentes do mesmo fato ou fundamento jurídico que deu origem à presente demanda, não excluindo, porém, a possibilidade de novo pedido administrativo ou judicial nas hipóteses de nova moléstia ou situação fática superveniente (ex. progressão da doença ou manutenção da doença incapacitante com a recusa de proteção pelo INSS ou, ainda, qualquer outra modificação fática).
+9. O acordo não representa reconhecimento expresso ou tácito do direito cuja existência é alegada nesta demanda, apenas objetiva que o processo termine mais rapidamente, favorecendo a todos os que litigam em Juízo, inclusive por propiciar amais célere concessão do benefício e o pagamento de atrasados em demandas como esta.
+10. Constatada, a qualquer tempo, a existência de litispendência, coisa julgada ou duplo pagamento, no todo ou em parte, referente ao objeto da presente ação, a parte autora concorda, desde já, que seja a presente demanda extinta e, caso tenha sido efetuado duplo pagamento, que haja desconto parcelado em seu benefício, até a completa quitação do valor pago a maior, monetariamente corrigido, nos termos do art. 115, inc. II, da Lei nº 8.213, de 1991.
+11. A parte autora, por sua vez, com a realização do pagamento do benefício, nos moldes acima, dará plena e total quitação do principal (obrigação de fazer e diferenças devidas) e dos acessórios (correção monetária, juros, honorários de sucumbência etc.)da presente ação.
+12. As partes concordam quanto à possibilidade de correção a qualquer tempo de eventuais erros materiais, na forma do inciso I do art. 494 do CPC/2015.
+8. O autor aceitou a proposta e requereu a homologação desta (e-STJ fl. 1.055).
+9. O Juízo de Direito da 5º Vara Cível de Presidente Prudente -SP homologou o acordo(e-STJ fl. 1.056)
+(..)
+12. Conforme se verifica, inicialmente o autor buscava o reconhecimento da competência do Juízo da 5ª Vara Cível da Comarca de Presidente Prudente/SP como competente para processar e julgar a fase de cumprimento de sentença e expedição da requisição de pequeno valor (RPV),inclusive quanto ao bloqueio dos valores devidos pela Autarquia previdenciária que não efetuou o pagamento voluntariamente.
+13. Ocorre que houve proposta de acordo pelo INSS, e o autor aceitou. Em síntese, vê-se que o pagamento dos valores devidos será por meio de Requisição de Pequeno Valor - RPV ou Precatório, conforme o caso, a ser expedido(a) pelo Juízo.
+14. Diante do acordo realizado entre o INSS e o autor, devidamente homologado pelo Juízo suscitado, verifica-se que houve a resolução da discussão não só quanto ao mérito da ação, mas também quanto ao conflito de competência, que perdeu seu objeto.
+15. Deste modo, opina-se pelo não conhecimento do Conflito de Competência, por perda superveniente de objeto.
+É o relatório.
+Consoante se extrai dos autos, o Juiz da 5ª Vara da Comarca de Presidente Prudente - SP homologou acordo celebrado entre as partes (fl. 1056) e restou ajustado que o pagamento dos valores devidos será por meio de Requisição de Pequeno Valor - RPV ou Precatório, conforme o caso, a ser expedido pelo Juízo.
+Diante disso, essa circunstâ ncia revela a perda de objeto na resolução do presente conflito de competência.
+Isso posto, julgo prejudicado o presente conflito de competência, ante a perda superveniente de objeto.
+Intimem-se.
+EMENTA
