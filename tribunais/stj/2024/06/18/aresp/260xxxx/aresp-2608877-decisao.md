@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por LISANA KURZ RUTSATZ, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementando:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃODECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA(DÉBITO) CONTRATUAL C/C INDENIZAÇÃO POR DANOSPATRIMONIAIS E EXTRAPATRIMONIAIS COM PEDIDO DE TUTELAPROVISÓRIA DE URGÊNCIA ANTECIPADA EM CARÁTERLIMINAR. ÔNUS DA PROVA. SERVIÇOS CONTRATADOS EUTILIZADOS. COMPROVAÇÃO. DANOS MORAIS. INOCORRENTES. - Caso em que a parte ré comprova os serviços prestados, juntando aos autos ocontrato de contratação assinado pela parte autora, bem como comprovantes e extratosque comprovam os depósitos. - Ausência de irregularidade na conduta da parte ré, de modo que deve ser reformada asentença, a fim de rechaçar os pedidos de declaração de inexistência/anulação dedébito e fixação de indenização por danos morais. Ônus sucumbenciais redistribuídos.
+APELO PROVIDO. UNÂNIME.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte alega violação aos artigos 6º, VIII, do Código de Defesa do Consumidor; 429, II, do Código de Processo Civil e 186 e 927, § Único, do Código Civil, aduzindo que o ônus probatório recai sobre a instituição bancária quando a autenticidade do documento apresentado é impugnada pelo consumidor/autor e que não houve comprovação da regularidade da contração.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, razão pela qual foi manejado o agravo de fls. 471/495, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, observa-se que o argumento de que a instituição financeira deveria ter comprovado a autenticidade dos documentos apresentados não foi especificamente enfrentada pelo Tribunal de origem. Contudo, a parte não alegou violação ao artigo 1022 do CPC a fim de que pudesse ser sanada eventual omissão do acórdão recorrido.
+No mais, a Corte de origem foi expressa em afirmar que parte ré se desincumbiu do ônus de demonstrar a relação jurídica, consoante a seguinte fundamentação:
+Veja, considerando a narrativa inicial de que a parte autora não contratou os serviçosda ré que originaram o débito oriundo da inscrição em cadastro restritivo de crédito, incumbia a ré,por certo, a prova da regularidade respectiva. Por conseguinte, quanto à prova documental, a parte ré junta aos autos o contrato assinado pela parte autora evento 11, CONTR5, CONTR6 e CONTR7, comprovante com biometria facial OUT8, extratos evento 11, EXTR18, EXTR19, EXTR20,EXTR21, EXTR22 e EXTR23, ligações com referência aos contratos assinados e os débitos descontados evento 11, CONTR9, CONTR10 e CONTR11, tal como uma série de comprovantes evento 11, COMP12, COMP13, COMP14, COMP15, COMP16 e COMP17.
+Assim, o fato da parte autora ter impugnado a documentação não afasta que a parte rése desincumbiu do ônus de demonstrar a relação jurídica.
+Desse modo, para alterar as conclusões do acórdão recorrido, seria necessário incursionar nos elementos fático-probatórios dos autos, o que é vedado em sede de recurso especial, ante o disposto na Súmula 7 desta Corte.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL. CARTÃO DE CRÉDITO. UTILIZAÇÃO E DESBLOQUEIO. VÍCIO DE CONTRATAÇÃO. NÃO RECONHECIMENTO. QUESTÕES EMINENTEMENTE FÁTICAS. SÚMULA 7 DO STJ. JUROS REMUNERATÓRIOS. LIMITAÇÃO EM 12% AO ANO. NÃO CABIMENTO. TAXA MÉDIA DE MERCADO. AUSÊNCIA DE ABUSIVIDADE. MATÉRIA FÁTICA. SÚMULA 7 DO STJ. HONORÁRIOS. REVISÃO. SUMULA 7 DO STJ. COMPENSAÇÃO. VEDAÇÃO. CPC/2015. PRECEDENTES. AGRAVO INTERNO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O acórdão afastou a ocorrência de vício na contratação do cartão de crédito, amparado no contexto fático dos autos. Rever os fundamentos que ensejaram esse entendimento exigiria alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, sendo vedado em sede de recurso especial.
+Incidência da Súmula 7 do STJ.
+2. "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade". Súmula 382/STJ. 3. O tribunal de origem, amparado nos elementos fáticos dos autos, consignou que a taxa de juros aplicada ao contrato não é abusiva em relação à média de mercado. A revisão do julgado é obstada pela Súmula 7 do STJ, 4.
+A discussão acerca do quantum da verba honorária encontra-se no contexto fático-probatório dos autos, o que obsta o revolvimento do valor arbitrado nas instâncias ordinárias por este Superior Tribunal de Justiça, consoante entendimento da súmula 7 desta Corte.
+5. De acordo com a jurisprudência sedimentada neste Sodalício, não ser possível a compensação da verba honorária quando a sua fixação ocorrer na vigência do NCPC. Isso porque a sucumbência é regida pela lei vigente à data da decisão que a impõe ou modifica. Precedentes.
+6. Agravo interno conhecido e parcialmente provido.
+(AgInt no AREsp 1220453/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/05/2018, DJe 14/05/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE DÉBITO. EMPRÉSTIMO BANCÁRIO. CARTÃO DE CRÉDITO. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5 E 7 DO STJ. FUNDAMENTOS NÃO COMBATIDOS. ENUNCIADO 182 DA SÚMULA DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. "É inviável o agravo do art. 543 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Enunciado 182 da Súmula do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1016728/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/10/2017, DJe 06/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. CARTÃO DE CRÉDITO. ART. 535 DO CPC DE 1973. OFENSA AFASTADA. ALEGAÇÃO DE AUSÊNCIA DA CIÊNCIA PRÉVIA DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. COBRANÇA ABUSIVA. LIMITAÇÃO. NÃO COMPROVAÇÃO. SÚMULA 83/STJ. CAPITALIZAÇÃO MENSAL DE JUROS. REQUISITOS PREENCHIDOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 5/STJ. PROIBIÇÃO DE INSCRIÇÃO DO DEVEDOR NOS CADASTROS DE INADIMPLENTES. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. CARACTERIZAÇÃO DA MORA. AGRAVO NÃO PROVIDO.
+1. Não se constata a alegada violação do artigo 535 do Código de Processo Civil de 1973, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, não padecendo o acórdão recorrido de omissão, contradição ou obscuridade.
+2. No que se refere à alegação de que não houve ciência prévia das cláusulas contratuais pela administradora do cartão de crédito, na hipótese dos autos, a revisão da conclusão do acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado na via estreita do recurso especial pela Súmula 7/STJ.
+3. A circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, a conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.Precedentes.
+4. Quanto à capitalização mensal dos juros, a jurisprudência desta eg. Corte pacificou-se no sentido de que sua cobrança é admitida nos contratos bancários celebrados a partir da edição da Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2.170-36/2001, qual seja, 31/3/2000, desde que expressamente pactuada. Infirmar a conclusão de expressa pactuação demandaria interpretação de cláusula contratual, o que se sabe vedado nesta instância especial.
+Incidência da Súmula 5 desta Corte Superior de Justiça. 5. Esta col.
+Corte firmou orientação de que "a abstenção da inscrição/manutenção em cadastro de inadimplentes, requerida em antecipação de tutela e/ou medida cautelar, somente será deferida se, cumulativamente: i) a ação for fundada em questionamento integral ou parcial do débito;
+ii) houver demonstração de que a cobrança indevida se funda na aparência do bom direito e em jurisprudência consolidada do STF ou STJ; iii) houver depósito da parcela incontroversa ou for prestada a caução fixada conforme o prudente arbítrio do juiz" (REsp 1.061.530/RS, Rel. Min. Nancy Andrighi, DJe de 10.3.2009).
+6. In casu, não merece reforma o acórdão recorrido, uma vez que o Tribunal de origem entendeu que não estariam caracterizados os requisitos impedidores da inscrição do nome da autora nos cadastros de restrição ao crédito.
+7. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 447.560/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/04/2017, DJe 19/05/2017)
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para, de plano, negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
