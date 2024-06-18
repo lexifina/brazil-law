@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ELBIA LÚCIA FERNANDES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/01/2024.
+Concluso ao gabinete em: 16/05/2024.
+Ação: monitória, ajuizada por ASSOCIAÇÃO PROPAGADORA ESDEVA, em face de ADALBERTO APARECIDO BATALHA.
+Sentença: julgou improcedentes os embargos monitórios opostos e, por consequência, julgou procedente o pedido contido na ação monitória constituindo, de pleno direito, o título executivo judicial, condenando ADALBERTO APARECIDO BATALHA e ELBIA LÚCIA FERNANDES a pagarem, solidariamente, as mensalidades do ano letivo de 2016, conforme planilha anexada na inicial (ID 37412547, pág. 1), corrigidas monetariamente (CGJ), a partir do vencimento de cada parcela e com juros de mora de 1% a.m., a partir da citação, observando-se, em relação à agravante, a prescrição da cobrança das mensalidades, compreendidas entre o mês 05/2016, vencida em 10/05/2016 e o mês 10/2016, vencida em 10/10/2016. Desta forma, condenou ADALBERTO APARECIDO BATALHA e ELBIA LÚCIA FERNANDES ao pagamento das custas e dos honorários, que foram fixados em 10% sobre o valor do débito.
+Acórdão: rejeitando a preliminar arguida, deu parcial provimento à Apelação interposta por ADALBERTO APARECIDO BATALHA e negou provimento à Apelação adesiva interposta por ELBIA LÚCIA FERNANDES, nos termos da seguinte ementa:
+"Apelação - Ação monitória - Assinatura de contrato de prestação de serviços educacionais pelos pais, ex-cônjuges, como responsáveis financeiros - Solidariedade - Prescrição - Citação válida de um dos devedores solidários - Interrupção em relação a todos.
+- Os genitores que assinaram o contrato de Prestação de Serviços educacionais como responsáveis financeiros respondem solidariamente pelas obrigações contraídas.
+- A interrupção do prazo prescricional contra um dos devedores solidários alcança os demais, nos termos do art. 204, § 1º, do CC/02." (e-STJ fl. 475)
+Embargos de Declaração: opostos, por ELBIA LÚCIA FERNANDES, foram rejeitados. (e-STJ fl. 500/504)
+Recurso especial: alega violação dos arts. 264, 265, CC, sustentando que: i) o contrato realizado entre as partes gera uma obrigação entre elas, mas o entendimento exarado pela Corte local configura a responsabilidade solidária da recorrente e de Adalberto Aparecido Batalha com base em dois contratos distintos, de forma que não há no contrato firmado entre Adalberto Aparecido Batalha e a agravada, em 22/12/2015 a participação da recorrente, bem como no contrato firmado entre a recorrente e a agravada, em 20/11/2015 também não há qualquer participação de Adalberto Aparecido Batalha; e, ii) considerando que o objeto da ação monitória funda-se em contrato firmado, em momento posterior, entre Adalberto Aparecido Batalha e a agravada, originando, portanto, uma única obrigação, e, considerando que não há, no contrato, nenhuma cláusula que verse sobre a solidariedade entre as partes, não há que se falar em solidariedade da recorrente ao pagamento das mensalidades, nos termos do art. 264 c/c 265 do CC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 265, CC, indicado como violado, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "os débitos apresentados na inicial são de responsabilidade de ambos os pais, ADALBERTO APARECIDO BATALHA e ELBIA LÚCIA FERNANDES, que se obrigaram solidariamente mediante estipulação contratual, uma vez que, diante da solidariedade, ambos podem ser compelidos judicialmente ao pagamento das mensalidades escolares do filho comum", bem como de que "considerando a solidariedade contratual com relação aos débitos cobrados, tem incidência a regra do art. 204, § 1º, do CPC, no sentido de que a interrupção da prescrição efetuada contra o credor solidário envolve os demais, por isso, mesmo com a citação da agravante apenas em 27/10/2021 (doc. 90/91), não há se falar em prescrição", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fl. 482) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação monitória.
+2. A ausência de decisão acerca do dispositivo legal indicado como violado, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial não conhecido.
