@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Wudson da Silva Guedes contra o acórdão proferido pela Primeira Câmara Criminal do Tribunal de Justiça de Minas Gerais que denegou o Habeas Corpus n. 1.0000.24.030902-1/000 lá impetrado, mantendo a prisão preventiva do recorrente pela suposta prática do crime de tráfico de drogas.
+Neste recurso, sustenta-se constrangimento ilegal na prisão preventiva, sob a alegação de excesso de prazo na formação da culpa, evidenciada ao fato de o custodiado estar segregado há mais de 356 dias, sem encerramento da formação da culpa (fls. 159/160).
+Destaca-se que, em 31/5/2023, foi realizada a perícia do recorrente no IML, no bojo dos autos n. InsanAc 5001648-53.2022.8.13.0346, e constatou que ele possui retardo mental (CID-10 F79) - fl. 159, e que tais informações foram prestadas em alegações finais, momento em que foi deferido o incidente de insanidade mental do recorrente.
+Aduz-se que encerrada a audiência de instrução foi instaurado o incidente de insanidade mental, que, após mais de 60 dias do envio do ofício de marcação da perícia ao IML, foi agendada a perícia para o dia 10/7/2024 - 4ª FEIRA - às 8:30 horas, ou seja, o réu preso deverá aguardar 5 (cinco) meses para constatar novamente que possui retardamento mental (fl. 159).
+Requer-se, assim, o provimento do recurso para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura e, subsidiariamente, a substituição da prisão por cautelares.
+Depois de indeferido o pedido liminar, em 8/3/2024 (fls. 174/175), e de prestadas as informações (fls. 228/393), o Ministério Público Federal, em seu parecer, opinou pelo não provimento do recurso (fls. 398/401).
+É o relatório.
+O acórdão ora impugnado está em consonância com a firme jurisprudência desta Casa.
+Com efeito, em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. Precedentes. (AgRg no HC n. 786.537/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 8/3/2024).
+Instado a se manifestar, o Juízo de primeiro grau prestou as seguintes informações (fls. 93/94 - grifo nosso):
+Quando da apresentação das alegações finais, foi pleiteada a instauração do Incidente de Insanidade Mental pela Defesa do Paciente (proc. 0000678-07.2023.8.13.0346, ID 9905503400, anexa).
+O feito foi suspenso para realização da perícia (proc. 0000678-07.2023.8.13.0346, ID 9960252600, anexa).
+Instaurado o incidente (proc. 5001967-84.2023.8.13.0346) foi encaminhado oficio solicitando a designação da perícia, COM URGÊNCIA, sendo salientado tratar-se de RÉU PRESO (ID 10091576050, anexa), oficio reiterado (ID 10126622649, anexa).
+Informo, ainda, que nos autos do incidente foi protocolado pela Defesa do paciente pedido de liberdade provisória (ID 10175772106, anexo). Instado a manifestar-se, o ilustre representante do Ministério Público se opôs ao pedido (ID 10178669640, anexo).
+O pedido supramencionado foi indeferido, sendo salientado que a prova pericial foi requerida pela própria defesa, não constituindo excesso de prazo na instrução, conforme dispõe a súmula 64 do STJ (APFD  10126491435, anexa).
+Por fim, destaco que foi informado pelo Serviço de Psiquiatria e Psicologia Forenses do IML de Belo Horizonte, a impossibilidade de antecipação da perícia sem que outros Juízos percam vagas que já lhe foram asseguradas.
+O Tribunal a quo consignou que (fls. 145/147- grifo nosso):
+Em que pese o impetrante tenha arguido a tese de excesso de prazo, entendo que razão não lhe assiste.
+Isso porque, compulsando os autos extrai-se que o paciente foi preso em flagrante no dia 11/03/2023, e tendo sua prisão sido convertida em preventiva a denúncia foi oferecida pelo Ministério Público em 31/03/2023.
+À vista disso, quando da apresentação das alegações finais, foi requisitada a instauração do Incidente de Insanidade Mental pela defesa do paciente, o que foi deferido pelo magistrado de piso.
+Dentro desse enfoque, o feito foi suspenso para a realização da perícia, esta designada para o dia 10/07/2024, sendo tal movimentação correspondente ao atual momento processual.
+Assim, pelo exposto infere-se que a ação penal tramita de forma regular, não se vislumbrando inércia ou desídia da autoridade processante.
+Não obstante, e considerando, sobretudo que o feito teve impulso normal, notório que o tramite processual já se encontrava em sede de encerramento da instrução quando a defesa postulou pela realização de nova diligência, sendo indubitável que a alegada demora na conclusão de tal fase não está afeta à vontade do julgador ou inércia da máquina judiciária, mas sim a circunstâncias intrínsecas ao próprio caso concreto, sendo forçosa a incidência da Súmula 64 do Supremo Tribunal de Justiça que consolidou o entendimento de que:
+" ..  Não há que se alegar excesso de prazo como constrangimento ilegal, quando a demora na formação da culpa deu-se por responsabilidade exclusiva da própria defesa. .. "
+ ..
+Outrossim, ainda que assim não fosse, saliento ser amplamente cediço que eventual excesso de prazo não deve ser considerado isoladamente, para cada fase processual, devendo ser aferido em uma análise global, observando-se todos os prazos no decorrer da instrução criminal, sendo inequívoco que desde que se observem os princípios da proporcionalidade, da razoabilidade e a individualidade do processo, que envolve, dentre outros tópicos sua complexidade, exigirá maior ou menor tempo em cada fase.
+Ora, a instrução processual não possui prazo estanque e absoluto para se encerrar, não havendo regra aritmética e precisa.
+Desse modo, a necessidade de realização do exame de sanidade mental, requerido pela defesa, se configura apta a justificar a prorrogação dos prazos, mediante sua imprescindibilidade para a solução da controvérsia.
+Isso posto, enfatizo que embora a impetrante tenha jungido aos autos documentos probatórios acerca de perícia realizada em 31/05/2023 no processo de nº 5001648-53.2022.8.13.0346, no qual constatou-se que o paciente possui retardo mental, entendo ser inviável o aproveitamento de Laudo Pericial de Insanidade Mental feito em outro processo, vez que este não se relaciona com o crime em comento supostamente praticado e nem ao objeto do julgamento, ainda que em um lapso temporal curto.
+Desse modo, a meu ver, não se admite a utilização a título de prova emprestada, sob pena de ferir os princípios do devido processo legal, do contraditório e da ampla defesa.
+Realmente, o trâmite está regular, sobretudo considerando que o recorrente foi preso em 11/3/2023 e a audiência de instrução e julgamento não foi finalizada em razão do requerimento da defesa de juntada de laudo de sanidade mental, cuja perícia está agendada para data próxima - 10/7/2024.
+Ademais, verifica-se que o juízo requereu urgência na finalização do incidente.
+Desse modo, não restou evidenciada desídia ou mora desnecessária decorrente da atuação da autoridade judiciária ou do órgão acusatório de modo a ensejar o relaxamento da prisão processual.
+No mesmo sentido, trago à colação os seguintes julgados, de ambas as turmas deste Tribunal Superior de Justiça que julgam matéria penal: AgRg no RHC n. 141.174/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 20/8/2021; e AgRg no HC n. 831.635/AL, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 13/9/2023.
+Ademais, da análise dos autos verifica-se que o processo se encontra em fase de alegações finais.
+Dessa forma, ocorre a incidência da Súmula 52 desta Corte Superior: encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo (HC n. 431.607/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/8/2018).
+Não foi outra a opinião do Ministério Público Federal, em seu parecer, da lavra do Subprocurador-Geral da República Maurício da Rocha Ribeiro, ao ressaltar que (fls. 399/400 - grifo nosso):
+Extrai-se dos autos que, nas alegações finais, a defesa requereu a instauração de incidente de insanidade mental, o que foi deferido pelo Juízo processante, suspendendo-se o curso da ação penal. Incide, no caso, a Súmula nº 52/STJ, segundo a qual " e ncerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Nesse sentido: AgRg no HC n. 605.561/PB, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+De todo modo, é cediço que o constrangimento ilegal por excesso de prazo só é reconhecido pela demora injustificável, impondo-se critérios de razoabilidade na análise de sua ocorrência, com a ponderação das peculiaridades da causa e sua complexidade (Precedente: RHC n. 103.730/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/2/2019, DJe de 1/3/2019).
+ ..
+Como se nota, a alegada demora no desfecho processual decorre da necessidade de conclusão do incidente de insanidade mental requerido pela própria defesa quando da apresentação das alegações finais, não havendo nada a indicar desídia do magistrado na condução do feito.
+Em caso similar, assim se pronunciou o STJ, verbis: "constata-se que foi determinada, a pedido das partes, a instauração de incidente de insanidade mental do acusado, com a suspensão do curso do processo, a inviabilizar o reconhecimento de injustificada mora no processamento do feito" (AgRg no HC n. 809.352/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/11/2023, DJe de 6/12/2023).
+Dessa forma, " n ão constatada mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida" (RHC n. 101.402/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2018, DJe de 14/11/2018).
+Ausente, portanto, ilegalidade a ser sanada por essa Corte Superior.
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar o provimento do recurso neste momento.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA O ENCERRAMENTO DA INSTRUÇÃO PROCESSUAL. IMPULSIONAMENTO DO FEITO DE FORMA REGULAR. CONSTRANGIMENTO ILEGAL INEXISTENTE. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido.
