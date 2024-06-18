@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de ROBSON BARRETO AFONSO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em execução n. 0004312-56.2024.8.26.0041).
+Depreende-se dos autos que o Juízo das execuções homologou falta grave praticada pelo paciente, bem como determinou sua regressão ao regime fechado, a perda de 1/3 do tempo remido e considerou como interrompido o cumprimento da pena no período compreendido entre o último comparecimento do sentenciado em juízo para cumprimento das condições do regime aberto e a data da sua revogação.
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, o qual negou provimento ao recurso, nos termos do acórdão assim ementado (e-STJ fl. 571):
+AGRAVO EM EXECUÇÃO PENAL.
+Descumprimento das condições impostas para cumprimento de pena em regime aberto.
+Sentenciado que deixou de comparecer em juízo. Pleito de retificação do cálculo de pena para considerar interrompido o cumprimento da pena somente depois da decisão que sustou o regime aberto. Impossibilidade. Se o sentenciado não compareceu em Juízo para o cumprimento das condições impostas no regime aberto, não há como computar o respectivo período como pena efetivamente cumprida. Entendimento do Egrégio Superior Tribunal de Justiça.
+RECURSO NÃO PROVIDO.
+Daí o presente writ, no qual sustenta a defesa que "o artigo 50, inciso V, da LEP prevê como falta grave o descumprimento de condições fixadas para o regime aberto. Porém, tal fato não tem a capacidade de obstar o cumprimento de pena" (e-STJ fl. 5).
+Alega, ainda, que "não há qualquer dispositivo legal no sentido de se suspender o cumprimento da pena pelo não comparecimento do sentenciado em juízo, fato que acontece somente com a decisão de suspensão ou revogação do benefício" (e-STJ fl. 5). Busca a aplicação, por analogia, do Enunciado n. 617 da Súmula do Superior Tribunal de Justiça.
+Diante dessas considerações, pede a concessão da ordem "para considerar como pena cumprida o tempo decorrido de 27.06.2022 (última assinatura do sentenciado) até 11.05.2023 (sustação do RA)" (e-STJ fl. 6).
+É o relatório.
+Decido.
+Cinge-se a controvérsia a determinar se é possível o cômputo como pena efetivamente cumprida durante o período no qual o apenado deixou de atender às condições impostas ao regime aberto.
+O Juízo das execuções, ao homologar a falta grave, assim fundamentou a decisão (e-STJ fls. 530/532):
+Registre-se que o próprio sentenciado admitiu ter comparecido ao fórum uma vez para "assinar". E, conforme consta de fls. 460, verifica-se que tal comparecimento ocorreu aos27/06/2022, às 15h04, ou seja, após o restabelecimento dos comparecimentos mensais relativos ao regime aberto. Desse modo, não há justificativa plausível para as ausências posteriormente verificadas, tendo em vista que o sentenciado foi expressamente advertido acerca das condições impostas, dentre elas, a de comparecer trimestralmente em Juízo para comprovar seu endereço e o efetivo exercício de atividade lícita (fls. 447/450), e tinha ciência inequívoca dessa obrigação, bem como da retomada dos comparecimentos em Juízo. Tanto isso é verdade que compareceu em Juízo uma vez, após abril/2022.
+Ora, como se sabe, o cumprimento da pena não fica ao bel-prazer do sentenciado, que tem o dever de cumprir de maneira estrita a obrigação que lhe foi imposta.
+Ao descumprir as condições impostas para o regime aberto, notadamente a de comparecimento periódico em Juízo para justificar suas atividades, o sentenciado demonstrou não ter condição de autodisciplina e responsabilidade. Seu desaparecimento denota o intento de não mais se submeter à sanção penal aplicada, e desprezo ao sistema penal estatal, frustrando, deliberadamente, os fins da execução, o que caracteriza falta grave, nos precisos termos do artigo 50, inciso V, da LEP.
+Tendo em vista a gravidade dos fatos, demonstrando que o sentenciado não se submete aos ditames legais necessários à pacífica convivência social, e atendendo aos parâmetros do artigo 57 da LEP (motivo espúrio, cujo único escopo é o descumprimento da reprimenda), a perda dos dias remidos será máxima.
+ .. .
+Por último, considerando que o sentenciado compareceu ao setor de fiscalização uma única vez (apenas em 27/06/2022, como visto), não há como reputar o período a partir de 21/01/2002 como pena efetivamente cumprida, pois, do contrário, estaria sendo consagrado o cumprimento ficto da pena, o que não se admite.
+Por sua vez, o Tribunal estadual assim se manifestou (e-STJ fls. 572/573):
+Realizada oitiva judicial, o recorrente declarou ter conseguido assinar sua caderneta de fiscalização apenas por uma única vez e que, nas demais vezes, se deparou com o fórum fechado (fls. 524/525 dos autos nº 0003930-26.2015.8.26.0996).
+Diante disso, o MM. Juiz de origem reconheceu a prática de falta grave, determinou a regressão do agravante ao regime fechado e a perda de 1/3 (um terço) dos dias eventualmente remidos, considerando que "o período compreendido entre o único (e último)comparecimento do sentenciado em Juízo para cumprimento das condições no regime aberto (27/06/2022 cf. fls. 460) e a data de sua prisão deverá constar como interrupção do cumprimento de pena" (fls. 535/538 dos autos nº 0003930-26.2015.8.26.0996).
+E agiu com acerto.
+Conforme pacífico entendimento do Egrégio Superior Tribunal de Justiça, se o sentenciado não compareceu em Juízo para o cumprimento das condições impostas no regime aberto, não há como computar o respectivo período como pena efetivamente cumprida.  .. .
+Vê-se, portanto, que o entendimento firmado pelas instâncias ordinárias está de acordo com a sedimentada jurisprudência do Superior Tribunal de Justiça , segundo a qual não há como computar como pena efetivamente cumprida o período no qual o apenado descumpriu as condições do regime aberto.
+Nesse sentido, segue a jurisprudência:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. ALEGADA AUSÊNCIA DAS AUDIÊNCIAS ADMONITÓRIA E DE JUSTIFICAÇÃO. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL ESTADUAL. SUPRESSÃO DE INSTÂNCIA. EXIGÊNCIA DE COMPARECIMENTO DO SENTENCIADO EM JUÍZO. DESCUMPRIMENTO. CÔMPUTO DO PERÍODO QUE MEDEIA A DATA DO INÍCIO DO REGIME ABERTO E A DE PROLAÇÃO DA DECISÃO DE UNIFICAÇÃO DE PENA COMO PENA EFETIVAMENTE CUMPRIDA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão relativa à ausência de audiências admonitória e de justificação não foi objeto de discussão no acórdão impugnado, motivo pelo qual incabível o seu exame diretamente por esta Corte Superior, sob pena de supressão de instância.
+2. O entendimento adotado pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte Superior de Justiça, segundo a qual, se o Paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida, caracterizando, ademais, falta disciplinar de natureza grave.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 828.440/ES, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO PENAL. PEDIDO DE RETIFICAÇÃO DE ATESTADO DE PENA. REGIME ABERTO. COMPARECIMENTO MENSAL AO PATRONATO PENITENCIÁRIO. CONDIÇÃO FIXADA PELO JUÍZO. DESCUMPRIMENTO. IMPOSSIBILIDADE DE CONSIDERAÇÃO DO PERÍODO EM QUESTÃO COMO DE PENA CUMPRIDA. PRECEDENTES. AUSÊNCIA DE RECONHECIMENTO DA FALTA GRAVE. PRESCRIÇÃO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 828.478/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, indefiro liminarmente a impetração.
+Publique-se. Intimem-se.
+EMENTA
