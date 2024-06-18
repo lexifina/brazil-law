@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto por ELVIRA PANTOJA VIEIRA contra decisão da Presidência, às e-STJ fls. 300/303, que conheceu do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 211 do STJ e 284 do STF.
+Nas suas razões, a parte agravante sustenta que toda a matéria debatida no recurso especial foi prequestionada, bem como que, no apelo nobre "interposto, foi claramente indicado que referido recurso foi interposto com fulcro no disposto no art. 105, III, "a" da Constituição Federal, por violação da lei federal e não com fundamento em dissídio jurisprudencial" (e-STJ fl. 311).
+Impugnação às e-STJ fls. 316/319.
+Passo a decidir
+Exerço juízo de retratação, tendo em vista os argumentos suscitados pela parte, principalmente porque, realmente, não houve interposição de recurso especial fundado em divergência jurisprudencial.
+Trata-se de agravo interposto por ELVIRA PANTOJA VIEIRA contra decisão do Tribunal de Justiça do Estado do Maranhão, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fls. 152/153):
+APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. TERMO INICIAL DA PRESCRIÇÃO. RECONTAGEM DO PRAZO PRESCRICIONAL. PUBLICAÇÃO DA HOMOLOGAÇÃO DOS PARÂMETROS DOS CÁLCULOS A SEREM UTILIZADOS PELA CONTADORIA JUDICIAL NAS EXECUÇÕES INDIVIDUAIS. INTELIGÊNCIA DO ARTIGO 9º DO DECRETO Nº 20.910/32 E SÚMULAS nº s 150 E 383 DO STF.
+I - O presente recurso trata da ocorrência ou não da prescrição da pretensão executória individual de sentença coletiva oriunda da Ação de Cobrança nº 14.440/2000 ajuizada pelo SINPROESEMMA.
+II - Conforme recente entendimento firmado pela Corte Especial do STJ, nos termos das Súmulas nºs 150 e 383 do STF, "  o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos." (STJ. EREsp 1121138/RS, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/05/2019, DJe 18/06/2019).
+III - In casu, a ação de conhecimento ajuizada pelo Sindicato transitou em julgado em 01.08.2011. A execução coletiva foi promovida em 28.05.2012 e seu último ato ocorreu em 16.12.2013 com a publicação da homologação dos parâmetros dos cálculos a serem utilizados pela Contadoria Judicial, recomeçando a correr o prazo prescricional a partir dessa data, por dois anos e meio, resguardado o prazo mínimo de 5 (cinco) anos, que findou em 01.08.2016. Entretanto, a execução individual somente fora ajuizada em 28/02/2018 restando fulminada sua pretensão pela prescrição, razão pela qual a manutenção da sentença é medida que se impõe, mas pelos fundamentos aqui expostos.
+No especial obstaculizado, a parte recorrente sustenta contrariedade do art. 189 do Código Civil insurgindo-se contra o reconhecimento da prescrição no caso dos autos.
+Contrarrazões às e-STJ fls. 224/242.
+Pois bem.
+No que se refere à apontada contrariedade ao art. 189 do Código Civil, observo que o Tribunal de origem não analisou a tese suscitada - não ocorrência de prescrição - à luz desses dispositivos legais, nem mesmo em sede de aclaratórios, de modo que ausente, na hipótese, o requisito do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "é inadmissível o recurso extraordinário, quando não ventilada, na de cisão recorrida, a questão federal suscitada."
+Nesse ponto, reitere-se que, a despeito da oposição de embargos de declaração para suscitar essa tese, o Tribunal de origem não emitiu juízo de valor sobre o teor normativo contido no dispositivo de lei federal alegadamente tido por contrariado, carecendo o apelo nobre, por isso, do requisito constitucional do prequestionamento, o que faz atrair a incidência da Súmula 211 do STJ. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRATAMENTO DE SAÚDE. PLANO DE SAÚDE. ALEGAÇÃO DE VIOLAÇÃO AO ART 1º DA LEI 9.656/98. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+ ..
+V. Agravo interno improvido. (AgInt no REsp 1.947.116/BA, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 29/09/2021).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. RESPONSABILIDADE CIVIL. REEXAME FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+ ..
+6. Agravo interno desprovido. (AgInt no REsp 1.855.532/DF, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 17/09/2021).
+Ademais, em relação à tese recursal respeitante ao supracitado dispositivo, percebe-se que não diz respeito diretamente à questão jurídica efetivamente decidida pelo acórdão recorrido, o que revela a deficiência de fundamentação nesse particular, a ensejar o óbice de conhecimento encartado na Súmula 284 do STF.
+Pondere-se, nesse aspecto, que o Tribunal de Justiça manteve o reconhecimento da prescrição pela aplicação das normas previstas no Decreto n. 20.910/1932.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 300/303 e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial, por fundamento diverso.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
