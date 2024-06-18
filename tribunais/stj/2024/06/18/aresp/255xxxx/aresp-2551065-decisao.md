@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por PEREIRA BARRETO EMPREENDIMENTOS IMOBILIARIOS SPE LTDA em face da decisão acostada às fls. 151-153 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 109-112 e-STJ, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. INCIDENTE DE CUMPRIMENTO DE SENTENÇA. RECURSO CONTRA DECISÃO QUE DETERMINOU O PROSSEGUIMENTO DA EXECUÇÃO, MALGRADO SEU OBJETO, SEGUNDO A AGRAVANTE, DEVA ESTAR SUBMETIDO À COMPETÊNCIA DO JUÍZO DE RECUPERAÇÃO JUDICIAL. ALÉM DE SUPERADO O PRAZO LEGAL CONTADO DA HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL, HÁ MANIFESTAÇÃO DE VONTADE DO CREDOR PARA QUE SEU CRÉDITO NÃO SEJA ABARCADO PELOS EFEITOS DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. CRÉDITO QUE, ASSIM, NÃO ESTÁ, NEM O PODE MAIS ESTAR HABILITADO NA RECUPERAÇÃO JUDICIAL, A DETERMINAR O PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO. SEM ENCARGOS DE SUCUMBÊNCIA.
+Nas razões de recurso especial (fls. 115-127 e-STJ), alegou o insurgente, além da divergência jurisprudencial, que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) arts. 49 e 59 da Lei nº 11.101/2005.
+Aduziu, em síntese, que o crédito concursal deve se submeter aos efeitos da recuperação judicial independentemente da vontade do credor.
+Contrarrazões às fls. 147-150 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando ausência de demonstração da divergência jurisprudencial e por aplicação da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 156-164 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+É o relatório.
+Decide-se.
+A pretensão recursal merece prosperar em parte.
+1. O Tribunal a quo decidiu que o crédito não deve se submeter aos efeitos da recuperação judicial, conforme se verifica do seguinte trecho (fl. 112 e-STJ):
+Há que se considerar que o juízo de origem explicita as razões pelas quais manteve o processamento da ação de execução individual, não fazendo submetido seu objeto à competência do juízo da recuperação judicial, seja porque já superado o prazo legal contado da homologação do plano de recuperação, seja porque o credor manifestou a vontade de seu crédito não fosse abarcado pelos efeitos do processamento da recuperação judicial, o que deve prevalecer.
+Entretanto, o entendimento deste STJ é firme no sentido de que sendo o crédito concursal, o credor, não incluído no quadro geral de credores, pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito, submetendo-se, de todo modo, aos efeitos da recuperação judicial. A propósito:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido.
+(REsp n. 1.655.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022.)
+Corroborando este entendimento: AgInt no REsp n. 2.071.733/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgInt no REsp n. 2.091.587/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.114.331/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/4/2024, DJe de 10/4/2024.
+Constata-se, deste modo, que o acórdão recorrido adotou posicionamento contrário ao desta Corte Superior ao asseverar que em virtude da manifestação de vontade do credor o crédito não deveria se submeter aos efeitos da recuperação, e, por isso, deve ser cassado.
+Entretanto, a Corte local não delimitou de modo suficiente a situação fática dos autos a fim de possibilitar a solução da controvérsia por este Tribunal - por exemplo, encerramento ou não da recuperação judicial e manifestação a respeito da natureza do crédito -, sendo necessário o retorno dos autos. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ASTREINTES. PREMISSA JURÍDICA INVÁLIDA. CASSAÇÃO. RETORNO DOS AUTOS À ORIGEM. CABIMENTO.
+(..)
+3. Provido o apelo nobre porquanto reconhecida a infringência à legislação federal, possível ao relator a aplicação do direito à espécie, nos termos do art. 1.034 do CPC, quando prescindível a análise de questões fáticas, ou a determinação de seu retorno, como na espécie, para que o Tribunal de origem promova a análise fática que envolve a matéria à luz da interpretação dada pelo STJ ao artigo de lei. Precedentes.
+(..)
+(AgInt no REsp n. 1.939.044/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+E mais: AgInt no AREsp n. 2.286.555/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023; AgInt no REsp n. 2.047.525/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023; AgInt no AgInt no AREsp n. 2.220.118/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.
+Portanto, o entendimento deste STJ é firme no sentido de que sendo o crédito concursal, o credor, não incluído no quadro geral de credores, pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito, submetendo-se, de todo modo, aos efeitos da recuperação judicial.
+No caso em análise, necessário o retorno dos autos ao Tribunal de origem para que a partir da interpretação acima exposta decida a controvérsia.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para dar parcial provimento ao recurso especial a fim de determinar o retorno dos autos para que o Tribunal local decida a controvérsia a luz da interpretação dos dispositivos legais acima exposta.
+Publique-se.
+Intimem-se.
+EMENTA
