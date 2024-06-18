@@ -1,0 +1,63 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. CUMPRIMENTO DE SENTENÇA PROFERIDA NA JUSTIÇA COMUM ESTADUAL CONTRA SOCIEDADE DE ECONOMIA MISTA ESTADUAL. ALTERAÇÃO SOCIETÁRIA. EMPRESA PÚBLICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. PREECEDENTES. JULGADO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. OFENSA AO INC. I DO ART. 109 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO COM AGRAVO PROVIDO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado proferido pelo Tribunal de Justiça do Rio de Janeiro:
+
+    “AGRAVO DE INSTRUMENTO. ACIDENTE EM LINHA FÉRREA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. MODIFICAÇÃO SOCIETÁRIA. CBTU. FASE DE CUMPRIMENTO DE SENTENÇA. A alteração societária não provoca o deslocamento da competência, onde o título executivo já se encontra formado, já que caracterizado o trânsito em julgado. A mudança superveniente de competência absoluta não afasta o princípio da perpetuação da jurisdição quando a modificação ocorre após a sentença. Matéria já foi apreciada por esta Câmara em duas oportunidades anteriores, sendo reconhecida a competência da justiça estadual para o cumprimento da sentença. Decisão que se mantém. Recurso conhecido e improvido, nos termos do voto do Desembargador Relator” (doc. 16).
+
+    Os embargos de declaração opostos foram rejeitados (vol. 29).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o inc. I do art. 109 da Constituição da República. Sustenta que, “dada a alteração societária sofrida pela Companhia Brasileira de Trens Urbanos – CBTU, esta passou a ter natureza de Empresa Pública Federal, a qual, prevê, por dispositivo constitucional, competência absoluta à Justiça Federal para processamento de ações, em razão da pessoa” (sic, fl. 11, vol. 49).
+
+    Argumenta que, “pelo processamento e julgamento pela Justiça Estadual de ação envolvendo Empresa Pública Federal, resta clarividente que houve violação de dispositivo constitucional (art. 109, I), bem como há a fixação de tese pelo Supremo Tribunal Federal equiparando Sociedade de Economia Mista, a qual não possui previsão constitucional para tal, para o mesmo fim, face a evidente analogia quanto à natureza publica das empresas (RE 726035 – Tema 722) e, não só, há vasta jurisprudência no sentido de aplicação do dispositivo constitucional em virtude da modificação societária da Companhia ora recorrente” (fl. 11, vol. 49).
+
+    3. O recurso extraordinário foi inadmitido aos fundamentos de incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal (fls. 7- 8, vol. 86).
+
+    Foi interposto agravo contra a decisão de inadmissão do recurso extraordinário ao argumento de que, “no feito em discussão, não se demonstra necessária a análise profunda do contexto probatório produzido em 1ª instância ou de análise de norma infraconstitucional para tomada de conhecimento de que Empresa Pública Federal é parte, de modo que se faz a necessário o processamento das causas em que empresa pública for parte perante o juízo federal” (fl. 10, vol. 97).
+
+    Pede o “conhec[imento] do presente agravo em recurso extraordinário, eis que preenchidos os requisitos legais, dando-lhe provimento para: a) Declarar a NULIDADE da decisão monocrática que negou seguimento ao recurso extraordinário interposto, conhecendo desde já o recurso extraordinário; b) Seja julgado o mérito do presente agravo em recurso extraordinário, ordenando a imediata do extraordinário, dando-lhe regular processamento, sanando a iminente e insustentável afronta à Constituição da República Federativa do Brasil, para que ao final seja PROVIDO o Recurso Extraordinário a fim de reformar a decisão em primeira instância. c) Obedecendo aos princípios processuais da celeridade e economia processual, caso esse Supremo Tribunal Federal entenda oportuno, julgue imediatamente o presente Agravo conjuntamente com o Recurso Extraordinário, conforme §5º do artigo 1.042 do Código de Processo Civil” (fls. 16-17, vol. 97).
+
+    4. Em 11.6.2024, foi determinado o encaminhamento dos autos à Procuradoria-Geral da República, que emitiu parecer nos seguintes termos:
+
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. ACIDENTE EM LINHA FÉRREA. INDENIZAÇÃO POR DANOS MORAIS. CONDENAÇÃO DA CBTU PELA JUISTIÇA ESTADUAL. MODIFICAÇÃO SUPERVENIENTE DO STATUS DA CBTU, QUE PASSOU DE SOCIEDADE DE ECONOMIA MISTA PARA EMPRESA PÚBLICA. ARGUIÇÃO DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL SUSCITADA NA FASE DE CUMPRIMENTO DE SENTENÇA. PLEITO INDEFERIDO PELO JUÍZO DE PRIMEIRO GRAU. DECISÃO MANTIDA PELO TJ/RJ. RE DA CBTU ALEGANDO A REPERCUSSÃO GERAL DA MATÉRIA E A VIOLAÇÃO AO ART. 109, I, DA CF. PROCEDÊNCIA DAS ALEGAÇÕES. PRECEDENTES DO STF. PARECER PELO PROVIMENTO DO AGRAVO” (vol. 142).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    5. Cumpre afastar os fundamentos da decisão de inadmissibilidade do recurso extraordinário, por ser a matéria de natureza constitucional e não demandar análise de provas. Superado esses óbices, é de se reconhecer assistir razão jurídica à agravante.
+
+    6. O Tribunal de origem assentou:
+
+    “Cinge-se a questão recursal quanto a competência da justiça estadual para processar e julgar a demanda. De fato, a agravante foi submetida a modificação societária a qual resultou na modificação do status de Sociedade de Economia Mista, para Empresa Pública. Sabe-se que sendo empresa pública federal, com capital integralizado pelo Poder Público, o foro judicial para a interposição de ações de interesse das empresas públicas, ou aquelas ajuizadas por terceiros contra si, é o da Justiça Federal. Ocorre que o caso em questão tem uma particularidade, já que se trata de cumprimento de sentença com trânsito em julgado em 2015. Dispõe o artigo 516, II do CPC que o cumprimento de sentença efetuar-se-á perante o juízo que decidiu a causa no primeiro grau de jurisdição. Assim, incide na hipótese o princípio da perpetuatio juridictionis” (fls. 5-6, vol. 16).
+
+    É de se acolher a alegação de afronta ao inc. I do art. 109 da Constituição da República, pois, apesar de tratar-se de cumprimento de sentença com trânsito em julgado de processo que tramitou na Justiça comum estadual, a posterior alteração societária da executada a resultar na participação única da União em seu capital social, impõe o deslocamento do processo para a Justiça comum federal, em virtude da competência absoluta em razão da pessoa. Assim, por exemplo, confiram-se os seguintes julgados:
+
+    “DIREITO CONSTITUCIONAL À SAÚDE. SOLIDARIEDADE DOS ENTES PÚBLICOS. FORNECIMENTO, PELO PODER PÚBLICO, DE MEDICAMENTO. FÁRMACO REGISTRADO NA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (ANVISA), MAS NÃO INCLUÍDO NA REMANE. AUSÊNCIA DE PADRONIZAÇÃO NO SISTEMA ÚNICO DE SAÚDE (SUS). TEMA Nº 793 DA REPERCUSSÃO GERAL. EXEGESE. INCLUSÃO DA UNIÃO NO POLO PASSIVO. NECESSIDADE. COMPETÊNCIA DA JUSTIÇA FEDERAL. RESSALVADO ENTENDIMENTO DA RELATORA. CONSONÂNCIA DA DECISÃO AGRAVADA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO. 1. Ao julgamento dos embargos de declaração no RE 855.178 (Tema nº 793), este Supremo Tribunal fixou a seguinte tese de repercussão geral: ‘os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro’. 2. No voto condutor desses embargos, elucidados alguns aspectos sobre a solidariedade entre os entes federados nas demandas prestacionais na área de saúde, dentre os quais (verbis): ‘se a pretensão veicular pedido de tratamento, procedimento, material ou medicamento não incluído nas políticas públicas (em todas as suas hipóteses), a União necessariamente comporá o polo passivo, considerando que o Ministério da Saúde detém competência para a incorporação, exclusão ou alteração de novos medicamentos, produtos, procedimentos, bem como constituição ou a alteração de protocolo clínico ou de diretriz terapêutica (art. 19-Q, Lei 8.080/90), de modo que recai sobre ela o dever de indicar o motivo da não padronização e eventualmente iniciar o procedimento de análise de inclusão, nos termos da fundamentação’. 3. Na hipótese em exame, pleiteado o fornecimento de medicamento não incluído na RENAME e, portanto, não padronizado no Sistema Único de Saúde, a tornar obrigatória a presença da União no polo passivo da demanda, com o deslocamento da competência para Justiça Federal (Precedentes de ambas as Turmas deste Supremo). 4. Mantido o fornecimento do fármaco até nova deliberação do juízo competente (Rcl nº 49.909AgR-ED, Rel. Min. Alexandre de Moraes, DJe 23.5.2022). 5. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 6. Agravo interno conhecido e não provido” (RE n. 1.365.588-AgR-segundo, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 9.9.2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. FRAUDE EM LICITAÇÃO. REPASSE DE VERBAS FEDERAIS. FISCALIZAÇÃO DO TRIBUNAL DE CONTAS DA UNIÃO. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ART. 109, IV, DA CF/88. JURISPRUDÊNCIA DA CORTE. CONEXÃO PROCESSUAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO DESPROVIDO. 1. A jurisprudência desta Corte é firme no sentido de que ‘O fato de a verba repassada ser proveniente de recursos federais fiscalizáveis pelo TCU basta para afirmar a existência de interesse da União e a consequente competência da Justiça Federal para apreciar os autos’ (RE 669.952-AgRED, Rel. Min. Dias Toffoli, Plenário, DJe 25.11.2016). Precedentes. 2. A questão relativa à existência, ou não, de conexão intersubjetiva e instrumental, nos termos do que ficou assentado pelas instâncias antecedentes, possui natureza eminentemente infraconstitucional, de modo que eventual ofensa à Constituição Federal, se existente, se daria de forma meramente reflexa, o que obsta o processamento pela via extraordinária. Precedente. 3. Eventual divergência em relação ao entendimento adotado pelo Superior Tribunal de Justiça, notadamente no que se refere à origem das verbas, demandaria o reexame dos fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista o óbice contido na Súmula 279 desta Corte. Precedente. 4. Agravo regimental desprovido” (ARE n. 1.482.114-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 11.6.2024).
+
+    Confira-se o seguinte julgado em caso semelhante ao presente:
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Processual Civil. 3. Execução contra sociedade de economia mista estadual adquirida pela União. Transformação em empresa pública federal. Competência da Justiça Federal em razão da pessoa. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. Negado provimento ao agravo regimental” (ARE n. 1.421.566-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 10.4.2024).
+
+    Nesse julgamento, o Ministro Gilmar Mendes assentou que “o trânsito em julgado operado na ação de conhecimento perante a justiça estadual não obsta que a execução seja realizada perante a justiça federal”.
+
+    Também em caso similar à espécie, tem-se a decisão monocrática proferida no Recurso Extraordinário com Agravo n. 1.426.935, Relator o Ministro Alexandre de Moraes, DJe 20.10.2023.
+
+    Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+
+    7.  Nessa linha foi o parecer da Procuradoria-Geral da República, ao opinar pela existência de violação ao dispositivo invocado:
+
+    “A interpretação dos referidos dispositivos induz à inequívoca conclusão de que a condição de empresa pública da CBTU, ainda que ocorrida de forma superveniente, impõe o reconhecimento da competência da Justiça Federal para o processo e julgamento do feito, sob pena de violação ao texto constitucional (CF, art. 109, I)” (fl. 8, vol. 142).
+
+    8. Pelo exposto, dou provimento ao recurso extraordinário com agravo (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e, desde logo, ao recurso extraordinário, para cassar o acórdão recorrido e determinar outro seja proferido, observando a jurisprudência deste Supremo Tribunal sobre a matéria.
+
+    Publique-se.
+
+    Brasília, 18 de junho de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
