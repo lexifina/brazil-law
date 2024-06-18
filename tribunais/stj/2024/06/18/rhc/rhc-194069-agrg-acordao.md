@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. COMÉRCIO ILEGAL DE ARMA DE FOGO. LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES. PRISÃO PREVENTIVA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. DECISÃO CONCRETAMENTE FUNDAMENTADA. ALEGADA AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO E INSUFICIÊNCIA. RECURSO NÃO PROVIDO.
+1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, evidente a imprescindibilidade da mantença da prisão preventiva, para a garantia da ordem pública, uma vez que o agravante, juntamente com outros 29 agentes e com papel de destaque, integraria estruturada organização criminosa voltada para o tráfico de grandes quantidades de maconha, tendo sido apreendidas, em apenas três das diversas operações realizadas no Estado de Santa Catarina, cerca de 71,4 toneladas de maconha, ocasiões em que o recorrente teria prestado todo o apoio logístico, controlando os motoristas, caminhões e batedores em veículos de sua propriedade.
+3. Não há ausência de contemporaneidade, pois está relacionada aos motivos que embasaram a prisão preventiva e não ao momento da prática delitiva, sendo desinfluente o lapso temporal transcorrido se os motivos ensejadores persistem.
+4. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão desta relatoria, que negou provimento ao recurso em habeas corpus (e-STJ fls. 5.073-5.078).
+O agravante foi preso preventivamente pela suposta prática dos crimes tipificados nos arts. 2º da Lei 12.850/2013, 33 e 35 da Lei 11.343/2006, 17 da Lei 10.826/2003 e 1º da Lei 9.613/1998.
+A ordem impetrada na origem foi denegada.
+Nesta via, o agravante alega, em síntese, ausência de fundamentação idônea e contemporaneidade a justificar a ordenação e a manutenção da custódia cautelar, bem como a possibilidade de substituição da segregação por medidas cautelares diversas.
+Requer o provimento do recurso para revogar a prisão preventiva, ainda que mediante a aplicação de medidas cautelares mais brandas.
+O Ministério Público manifestou-se pelo não provimento do reclamo (e-STJ fls. 5.094-5.106).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. COMÉRCIO ILEGAL DE ARMA DE FOGO. LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES. PRISÃO PREVENTIVA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. DECISÃO CONCRETAMENTE FUNDAMENTADA. ALEGADA AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO E INSUFICIÊNCIA. RECURSO NÃO PROVIDO.
+1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, evidente a imprescindibilidade da mantença da prisão preventiva, para a garantia da ordem pública, uma vez que o agravante, juntamente com outros 29 agentes e com papel de destaque, integraria estruturada organização criminosa voltada para o tráfico de grandes quantidades de maconha, tendo sido apreendidas, em apenas três das diversas operações realizadas no Estado de Santa Catarina, cerca de 71,4 toneladas de maconha, ocasiões em que o recorrente teria prestado todo o apoio logístico, controlando os motoristas, caminhões e batedores em veículos de sua propriedade.
+3. Não há ausência de contemporaneidade, pois está relacionada aos motivos que embasaram a prisão preventiva e não ao momento da prática delitiva, sendo desinfluente o lapso temporal transcorrido se os motivos ensejadores persistem.
+4. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido. No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida.
+Relembro, oportunamente, que o art. 312 do Código de Processo Penal dispõe que a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No caso, o agravante foi preso preventivamente pela suposta prática dos crimes tipificados nos arts. 2º da Lei 12.850/2013, 33 e 35 da Lei 11.343/2006, 17 da Lei 10.826/2003 e 1º da Lei 9.613/1998.
+Verifica-se que o magistrado de primeiro grau ordenou a prisão, nos seguintes termos (e-STJ fls. 3.986-3.999, grifo nosso):
+Os relatórios que fundamentaram essa representação constam dos eventos 116, 117 e 142 dos autos da quebra de sigilo, destacando-se:
+a) FELIPE MARTINS SILVEIRA, LEANDRO DA SILVA, GABRIEL VARELA e LEANDRO DARCI PORT passam a ser considerados do núcleo logístico com base em Xanxerê (evento 116.3, itens 3.1.16 a 3.1.19):
+ ..
+GABRIEL VARELA é apontado pela investigação como um dos operacionais da ORCRIM, sendo responsável, juntamente com LUIZ FERNANDO ROSA ESOUZA, pela aquisição, manutenção e controle dos caminhões utilizados para o transporte do entorpecente.
+ ..
+Os supostos membros da organização investigada encontram-se assim identificados:
+ ..
+I.3 - apoio aos dois subgrupos: LUIS FERNANDO ROSA E SOUZA e GABRIEL VARELA, responsáveis pela coordenação dos motoristas e caminhões bitrens utilizados para o transporte do entorpecente; os laranjas THIAGO RAMOS DOS SANTOS, MOISÉS FONSECA DOS SANTOS, ALEXANDRE ALVES DE OLIVEIRA e ANDRÉ RICARDO DE OLIVEIRA; agiota LUIZ HENRIQUE LEAL AZEVEDO (MIRO), um dos responsáveis pela ocultação do patrimônio derivado das atividades ilícitas perpetrada pela ORCRIM;
+ ..
+Feitas essas considerações, é de se notar que os alvos do pedido de prisão são os líderes de cada núcleo ou subnúcleo e membros envolvidos diretamente no operacional, transporte, armazenamento e/ou financeiro.
+ ..
+A investigação aponta para uma verdadeira e bem estruturada organização criminosa e, nessa condição, a prisão apenas dos líderes ou de parte dos membros certamente não resultará na cessação da atividade criminosa.
+ ..
+A organização ora investigada, como se viu, aparenta ter estrutura para aquisição e transporte de grandes quantidades de maconha, em cargas de 30 milhões de reais; conta com diversos caminhões bitrens, sítio para armazenamento, facilidade em substituir motoristas presos nos flagrantes; as esposas dos líderes também parecem estar envolvidas na organização, de modo que, ainda que com eventuais medidas cautelares, podem auxiliar nos comandos para continuidade das atividades, se houver pessoas suficientes no operacional para darem andamento.
+Do mesmo modo, notadamente para quem atua com a parte financeira e lavagem de capitais, deve-se observar a capacidade dos alvos de ocultar patrimônios e continuar movimentando os ativos da organização.
+ ..
+Assim, considerando-se que há apreensões de 2021 e 2022, relativas a delitos praticados por organização criminosa ainda na ativa, o que configura contemporaneidade, e considerando-se a necessidade de desmantelar a atividade praticada por esta ORCRIM, passo a analisar, individualmente a necessidade de prisão de cada um dos alvos indicados pela autoridade policial, de acordo com os núcleos a que pertencem:
+ ..
+Gabriel Varela 4.1.3.2 responsável por auxiliar LUIS FERNANDO ROSA E SOUZA no controle dos motoristas e caminhões bitrens utilizados no transporte do entorpecente; operador financeiro (mais de um milhão em 11 meses depositados em empresas suspeitas de lavagem).
+ ..
+Note-se que, nesse grupo, os principais membros são LUIS FERNANDO ROSA E SOUZA, GABRIEL VARELA e LUIZ HENRIQUE LEAL AZEVEDO, encontrando-se presentes o risco à ordem pública, conveniência da instrução criminal e da aplicação da lei penal.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Consignou o Colegiado estadual que "o paciente não só integra organização criminosa, responsável pelo tráfico de vultuosa quantidade de maconha, como desempenha papel de considerável protagonismo no grupo. Segundo relatado, o investigado é apontado pela investigação como responsável pela aquisição, manutenção e controle dos caminhões utilizados para o transporte do entorpecente" (e-STJ fl. 5.036).
+Asseverou a Corte a quo estar bem fundamentada a decisão proferida pelo Juízo monocrático, que, de forma pormenorizada, sopesou e afastou as teses defensivas, demonstrando a presença da prova de materialidade, dos indícios suficientes de autoria e da gravidade concreta dos delitos em tese perpetrados, o que evidencia o perigo de liberdade do então paciente.
+Destaco que, diferentemente do alegado pela combativa defesa, a constrição cautelar foi ordenada e mantida pelas instâncias ordinárias nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública, diante das graves circunstâncias em que praticados os fatos ilícitos, uma vez que o agravante, juntamente com outros 29 agentes e com papel de destaque, integraria estruturada organização criminosa voltada para o tráfico de grandes quantidades de maconha.
+Consta dos autos que, em apenas três das diversas operações realizadas no Estado de Santa Catarina (Biguaçu e Guaíba), foram apreendidas cerca de 71,4 toneladas de maconha, ocasiões em que o recorrente teria prestado todo o apoio logístico, controlando os motoristas, caminhões e batedores em veículos de sua propriedade.
+Nos termos da jurisprudência desta Corte, "a necessidade de interromper ou reduzir a atividade do grupo criminoso, enfraquecendo a atuação da facção, demonstra a imprescindibilidade da prisão preventiva, para garantia da ordem pública" (AgRg no HC n. 852.532/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. OPERAÇÃO VERITAS. ORGANIZAÇÃO CRIMINOSA, TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. SALA DE ESTADO MAIOR. LOCAL COMPATÍVEL COM O ESTATUTO DA ADVOCACIA. PRISÃO PREVENTIVA. PERICULUM LIBERTATIS. ORDEM PÚBLICA. CONTEMPORANEIDADE. CUMPRIMENTO DO MANDADO DE PRISÃO. NULIDADE DA DILIGÊNCIA. SUPRESSÃO DE INSTÂNCIA. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. No caso, há motivos concretos e idôneos para embasar a ordem de prisão da acusada (advogada), porquanto o decreto de custódia preventiva salientou a sua suposta participação em organização criminosa extremamente complexa, bem estruturada e em pleno funcionamento, voltada especialmente para o tráfico de drogas. Tais circunstâncias demonstram que a constrição cautelar se mostra medida adequada e necessária para fragilizar a própria estrutura organizacional da qual, em tese, a recorrente fazia parte e, dessa forma, cessar a prática de novas infrações penais.
+ ..
+7. Recurso em habeas corpus parcialmente conhecido e, nessa extensão, não provido.
+(RHC n. 181.367/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE GRANDE QUANTIDADE DE ENTORPECENTES. GRAVIDADE CONCRETA. POSSÍVEL RELAÇÃO COM ORCRIM. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. FILHO MENOR DE 12 (DOZE) ANOS. PRISÃO DOMICILIAR PRETENDIDA. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+2. De acordo com os trechos acima transcritos, verifico que a decisão do Magistrado de primeiro grau e o acórdão impetrado encontram-se fundamentados na garantia da ordem pública, considerando as circunstâncias do caso concreto, notadamente a gravidade da conduta evidenciada na elevada quantidade de drogas apreendida - 184 kg de maconha - em um veículo automotor proveniente do Paraguai, em que se encontrava a recorrente e os demais corréus (e-STJ fl. 69). Salientou, ainda, a Corte de origem, que a elevada quantidade de droga denota a possível relação com OrCrim relacionada ao tráfico de drogas (e-STJ fl. 69).
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 192.670/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024.)
+Melhor sorte não agasalha a defesa no que diz respeito à alegada ausência de contemporaneidade do decreto preventivo.
+Com efeito, acerca do tema, bem consignou o Tribunal de origem que "a aferição da contemporaneidade para a manutenção da prisão cautelar não se verifica pelo lapso temporal decorrido desde a data do fato, mas da presença dos requisitos do artigo 312 do CPP a lhe dar suporte. Por evidente, com o depuramento dos procedimentos e a deflagração da operação, a prisão preventiva se faz presente na medida em que presentes, como bem apontado na decisão ora impugnada, os requisitos do risco à ordem pública, da conveniência da instrução criminal e da aplicação da lei penal. Trata-se de circunstância claramente perceptível quando se está diante de tráfico de grande monta, como o tratado no caso" (e-STJ fl. 5.036).
+No mesmo sentido, o entendimento desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO VÁLIDA. GRAVIDADE CONCRETA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. MOTIVAÇÃO IDÔNEA E BASEADA EM FATOS RECENTES.
+ ..
+3. "Não há falar em ausência de contemporaneidade, quando verificado que as circunstâncias que justificam a segregação preventiva do acusado ainda não se exauriram definitivamente, em face da probabilidade real e efetiva de continuidade da prática de delitos graves. Há fatos recentes para evidenciar o risco que a liberdade da recorrente enseja para a ordem pública" (RHC n. 181.367/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.) 4. Agravo regimental improvido.
+(AgRg no HC n. 889.182/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. DECRETO DE OFÍCIO. NÃO OCORRÊNCIA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. CONTEMPORANEIDADE. ORDEM DENEGADA.
+ ..
+6. Não há que se falar em ausência de contemporaneidade da medida, uma vez que ela diz respeito à existência de fatos que indiquem a necessidade da cautela ao tempo de sua decretação, o que ocorreu na hipótese.
+7. Ordem denegada.
+(HC n. 890.683/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+Por fim, condições pessoais favoráveis, ainda que comprovadas, não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
