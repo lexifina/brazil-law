@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interposto por Henrique Domingues Neto contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravada ajuizou ação de cobrança, julgada procedente.
+Interpostas apelações pelas partes, a Primeira Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento ao recurso do agravante e deu parcial provimento ao da agravada, em acórdão assim ementado (e-STJ, fls. 793-794):
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRELIMINARES DE NÃO CONHECIMENTO DOS RECURSOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. REJEITADA. RECURSO DO RÉU CONHECIDO. IMPUGNAÇÃO AO VALOR DA CAUSA. PRECLUSÃO. RECONHECIDA. RECURSO DA AUTORA CONHECIDO EM PARTE. RECURSO DO RÉU. NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. AFASTADA. MÉRITO. INEXISTÊNCIA DE OBRIGAÇÃO CONTRATUAL. CONDENAÇÃO AO PAGAMENTO DE ENCARGOS NÃO QUITADOS RELATIVOS AO IMÓVEL. ÔNUS PROVA. RÉU. NÃO DESINCUMBÊNCIA. RECONVENÇÃO. INDENIZAÇÃO POR BENFEITORIAS E DIREITO DE RENTENÇÃO. AUSÊNCIA DE COMPROVAÇÃO. INCABÍVEL. RECURSO DA AUTORA. HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85 DO CÓDIGO DE PROCESSO CIVIL. VALOR DA CAUSA. HONORÁRIOS IRRISÓRIOS. FIXAÇÃO POR EQUIDADE. NECESSÁRIA. SENTENÇA PARCIALMENTE REFORMADA.
+Preliminares de não conhecimento dos recursos
+1. Não há ausência de fundamentação específica quando as razões de apelação confrontam especificamente os argumentos trazidos na sentença impugnada, em atenção ao princípio da dialeticidade. Preliminar de não conhecimento do recurso do réu rejeitada.
+2. Nos termos dos artigos 293 e 507 do Código de Processo Civil, não realizada a impugnação do valor da causa em contestação e nem posteriormente, no momento em que tomou conhecimento do valor pretendido a título de indenização pelo réu, opera-se a preclusão para apresentar a impugnação, sendo incabível a sua análise em sede recursal, em razão da preclusão. Recurso da autora conhecido em parte.
+Recurso do réu
+3. Rejeita-se a preliminar de nulidade da sentença por ausência de fundamentação, se o magistrado deduziu as razões de fato e de direito que levaram ao seu convencimento, em estrita observância ao disposto no artigo 93, inciso IX da Constituição Federal. Preliminar de nulidade da sentença por ausência de fundamentação rejeitada.
+4. Para que existam no mundo jurídico, os negócios devem ter como pressupostos: agente, objeto, forma e vontade exteriorizada. Uma vez existentes, no plano da validade, deve o agente ser capaz; o objeto lícito, possível, determinado ou determinável; a forma prescrita ou não defesa em lei; e a vontade deve ser exteriorizada de maneira livre e desembaraçada.
+3.1. Na hipótese dos autos, apesar da denominação de contrato de comodato, verifica-se que o negócio jurídico estabelecido entre as partes trata-se de contrato atípico, plenamente válido.
+3.2. Diante da válida cláusula contratual, de pagamento de indenização por uso do imóvel em caso do não cumprimento da promessa de sua compra e ausentes elementos que comprovem o pagamento estipulado, deve ser mantida a condenação do réu.
+4. Na linha tradicional sedimentada na legislação processual, a distribuição do ônus da prova está arrimada no artigo 373 do Código de Processo Civil, cabendo ao réu a prova do fato impeditivo, modificativo e extintivo do direito do autor.
+4.1. In casu, tendo a autora demonstrado o fato constitutivo do seu direito e o réu, contudo, não se desincumbido do seu ônus probatório, inequívoca a sua obrigação contratual de quitar os encargos não pagos relativos ao período que ocupou o imóvel.
+5. Incabível a pretensão deduzida em sede reconvencional, de indenização pelas benfeitorias e retenção do bem pois o réu não se desincumbiu do ônus de demonstrar que foram autorizadas pela autora, conforme estipulado no contrato entabulado entre as partes.
+Recurso da autora
+6. A fixação dos honorários na forma equitativa é excepcional, devendo ser utilizada apenas nos casos em que for irrisório ou inestimável o proveito econômico ou, ainda, quando o valor da causa for muito baixo, conforme determina o §8º do art. 85 do CPC.
+6.1. No caso dos autos, a fixação com base no valor da causa gera honorários irrisórios, sendo necessária a alteração dos honorários para fixá-los nos termos do art. 85, §8º do CPC. Precedentes.
+7. Preliminar de não conhecimento por ausência de impugnação específica rejeitada. Recurso do réu conhecido e não provido.
+8. Preliminar de não conhecimento do recurso em razão de preclusão acolhida. Recurso da autora conhecido em parte e parcialmente provido. Sentença parcialmente reformada.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, o recorrente alegou violação dos arts. 489, § 1º, II, e 1.026, do Código de Processo Civil de 2015.
+Sustentou a ausência de fundamentação do julgado, haja vista que o "juiz singular na primeira instância e a turma colegiada do TJDFT em diversos momentos da decisão e acórdão, respectivamente, empregam conceitos jurídicos variados, sem demonstrar a verdadeira incidência dos institutos ao caso em concreto" (fl. 890,e-STJ).
+Asseverou a necessidade de afastamento da multa aplicada, tendo em conta a inexistência de intuito protelatório pela interposição dos embargos de declaração, e sim de prequestionar a ofensa a dispositivos da legislação federal.
+Contrarrazões às fls. 903-923 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 949-955 (e-STJ), com pedido de aplicação de multa por litigância de má-fé.
+Brevemente relatado, decido.
+De início, observa-se que a jurisprudência desta Corte é pacífica ao proclamar que, se as razões do julgado bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No caso, cumpre reiterar que o acórdão recorrido apreciou de maneira fundamentada a controvérsia dos autos, tendo apenas decidido de forma contrária à pretensão da parte recorrente.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA. PATROCINADOR. ILEGITIMIDADE PASSIVA. SÚMULA 568/STJ.
+1. Não viola o artigo 1.022 do Código de Processo Civil nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelos recorrentes, decidindo de modo integral a controvérsia posta.
+2. O patrocinador não possui legitimidade para figurar no polo passivo em litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, tais como a concessão e a revisão de benefício ou o resgate da reserva de poupança. Precedente.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.027.456/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE INDENIZAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. OFENSA AOS ARTS. 14, § 3º, E 28 DO CDC E AOS ARTS. 50 E 393 DO CÓDIGO CIVIL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ENTREGA DE OBRA. ATRASO EXCESSIVO. DANOS MORAIS CONFIGURADOS. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. A iterativa jurisprudência desta eg. Corte firmou-se no sentido de que " o  simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial" (AgInt nos EDcl no AREsp 676.952/RJ, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+3. Na espécie, o eg. Tribunal Estadual concluiu pela ocorrência de atraso excessivo e, por consequência, reconheceu a ocorrência de danos morais, fixando a respectiva indenização em R$ 4.000,00 (quatro mil reais) para cada um dos dois autores.
+4. Estando o acórdão recorrido em consonância com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.897.935/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+No que tange à multa em razão da oposição dos embargos de declaração, assiste razão ao recorrente. Analisando o caderno processual, não se observa nítido intuito protelatório ou evidente má-fé no ajuizamento do recurso integrativo. Além disso, percebe-se que os embargos objetivavam o prequestionamento de matéria recursal, como forma de viabilizar subsequente recurso especial.
+Diante desse quadro, não se vislumbra hipótese de incidência do art. 1.026, § 2º, do CPC/2015, devendo, dessa forma, ser afastada a multa.
+A propósito:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. LOCAÇÃO COMERCIAL. IMÓVEL. ENTREGA. CONDIÇÕES ORIGINAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. INADIMPLEMENTO. REEXAME DE FATOS. LUCROS CESSANTES. PREVISÃO CONTRATUAL. CABIMENTO. TERMO FINAL. RAZOABILIDADE. EMBARGOS PROTELATÓRIOS. MULTA. AFASTAMENTO.
+(..)
+9. A multa prevista no § 2º do art. 1.026 do Código de Processo Civil deve ser afastada se não identificado o intuito protelatório dos embargos de declaração.
+10. Recurso especial provido.
+(REsp n. 2.054.183/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/4/2024, DJe de 26/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. NÃO OCORRÊNCIA. RECONSIDERAÇÃO. FUNDAMENTOS ALTERADOS. LIQUIDAÇÃO DE SENTENÇA. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. CÁLCULOS DIVERGENTES. CONTRATO BANCÁRIO NÃO JUNTADO. ÔNUS PROCESSUAL. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. NOVA PERÍCIA. INCABÍVEL. DESNECESSIDADE. CONVENCIMENTO MOTIVADO DO MAGISTRADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. MULTA PROCESSUAL IMPOSTA NA ORIGEM. ART. 1.026, § 2º, DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO. AFASTAMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+4. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+5. Não identificado o caráter protelatório dos embargos de declaração ou o abuso da parte recorrente em sua oposição, impõe-se o afastamento da multa processual.
+6. Agravo interno parcialmente provido para se conhecer em parte do recurso especial e, nesta extensão, dar-lhe provimento a fim de afastar a multa do art. 1.026, § 2º, do CPC.
+(AgInt no AREsp n. 2.189.457/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. MULTA DO ART. 1.026, § 2º, DO NCPC. AUSÊNCIA DE CARÁTER PROTELATÓRIO. AFASTAMENTO DA MULTA. AGRAVO INTERNO PROVIDO.
+1. Esta Corte firmou o entendimento de que, na primeira oportunidade, é descabida a multa quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração.
+2. Agravo interno provido.
+(AgInt no AREsp n. 2.483.897/AL, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Quanto à pretensão da parte agravada de aplicação de penalidade por litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte: "a aplicação da multa por litigância de má-fé não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs o recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer." (AgInt no AREsp n. 2.081.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022).
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar a multa aplicada no julgamento dos embargos de declaração opostos na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. MULTA. AUSÊNCIA DE MÁ-FÉ OU INTUITO PROTELATÓRIO PELA INTERPOSIÇÃO DE RECURSO CABÍVEL. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
