@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de RANGEL PEREIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL proferido no julgamento da Apelação Criminal n. 5004436-08.2022.8.21.0026.
+Consta dos autos que o paciente foi condenado por infração ao art. 33 da Lei n. 11.343/06 (tráfico de drogas), à pena de 6 anos de reclusão, no regime fechado, e ao pagamento de 700 dias-multa .
+Inconformada a defesa interpôs apelação, que foi desprovida, em aresto de fls. 358/376.
+Na presente impetração, a defesa alega a nulidade do flagrante, por ausência de justa causa para a busca domiciliar.
+Requer, assim, a absolvição do paciente.
+O pedido de liminar foi indeferido conforme decisão de fls. 3 85/386.
+As informações foram prestadas às fls. 398/455.
+O Ministério Público Federal opinou pela denegação da ordem, conforme parecer de fls. 457/464.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O Tribunal a quo, ao analisar a aventada nulidade da busca domiciliar, asseverou:
+"Conforme se verifica na prova dos autos, os policiais receberam informações de que Rangel estaria traficando no local, motivo pelo qual se deslocaram até a região para realizar o seu monitoramento.
+Durante o período em que permaneceram em campana, visualizaram Rangel saindo da residência de André com uma mochila, realizando sua abordagem em via pública, apreendendo na mochila grande quantidade de entorpecentes.
+Apenas após a realização do flagrante, os policiais teriam ingressado na residência, tendo a testemunha de defesa Paloma, inclusive salientado que teria visto Rangel correr para o interior da residência e os policiais o perseguindo, o que demonstra a situação de flagrância e justifica o ingresso dos agentes na residência." (fls . 361/362)
+O art. 5º, inc. XI, da Constituição Federal assegura a inviolabilidade do domicílio. No entanto, cumpre ressaltar que, consoante disposição expressa do dispositivo constitucional, tal garantia não é absoluta, admitindo relativização em caso de flagrante delito.
+Acerca da interpretação que deve ser conferida à norma que excepciona a inviolabilidade do domicílio, o Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, assentou o entendimento de que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+No caso em apreço, nota-se que os policiais adentraram no imóvel após realizarem campana no local e constatarem a existência de indícios suficientes da prática do delito de tráfico de drogas na residência, afastando, assim, a ilicitude do flagrante.
+Desse modo, ante os elementos fáticos extraídos dos autos, o acórdão combatido está em consonância com a jurisprudência desta Corte. Vejamos:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO FORÇADO DE POLICIAIS. DILIGÊNCIAS PRÉVIAS. FUNDADASRAZÕES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O ingresso forçado em domicílio sem mandado judicial para busca e apreensão é legítimo se amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, especialmente nos crimes de natureza permanente, como são o tráfico de entorpecentes e a posse ilegal de arma de fogo.
+2. Afere-se a justa causa para o ingresso forçado em domicílio mediante a análise objetiva e satisfatória do contexto fático anterior à invasão, considerando-se a existência ou não de indícios mínimos de situação de flagrante no interior da residência.
+3. Investigação policial e diligências prévias que redundam em acesso à residência do acusado não se traduz em constrangimento ilegal, mas sim em exercício regular da atividade investigativa promovida pelas autoridades policiais.
+4. Tendo ocorrido controle judicial posterior do ato policial de ingresso em domicílio de investigado, a análise da tese defensiva em toda a sua extensão fica inviabilizada, visto que há nítida necessidade de dilação probatória, situação não permitida no rito especial do recurso em habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 169.456/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PROVAS ILÍCITAS DECORRENTES DE BUSCA PESSOAL E INVASÃO DOMICILIAR. INOCORRÊNCIA. REALIZAÇÃO DE INVESTIGAÇÃO PRELIMINAR. PRESENÇA DE JUSTA CAUSA PARA A ENTRADA DOS POLICIAIS NO IMÓVEL. CONSTRANGIMENTO ILEGAL INEXISTENTE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS E INTEGRA ORGANIZAÇÃOCRIMINOSA. EXPRESSIVA QUANTIDADE DE DROGA ALIADA A OUTRAS CIRCUNSTÂNCIAS DO DELITO. ALTERAÇÃO DAS PREMISSAS QUE DEMANDARIA O REVOLVIMENTO DO MATERIAL FÁTICO/PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Como é de conhecimento, o Supremo Tribunal Federal definiu, em repercussão geral, que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE 603.616, Rel. Min. Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, Repercussão Geral - Dje 9/5/1016 Public. 10/5/2016).
+2. O Superior Tribunal de Justiça, em acréscimo, possui firme jurisprudência no sentido de que o ingresso regular em domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio.
+3. No caso, consoante o quadro fático narrado pela Corte local, embora a investigação tenha iniciado em razão de denúncia anônima, foram colhidos elementos através de diligências/investigação no sentido de que o paciente estaria envolvido com o tráfico de drogas, o que afasta a alegada ilicitude da prova.
+4. Investigação policial originada por informações obtidas por inteligência policial e por diligências prévias que redunda em acesso à residência do acusado não se traduz em constrangimento ilegal, mas sim em exercício regular da atividade investigativa promovida pelas autoridades policiais. (AgRg no HC n. 729.670/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+5. Por outro lado, a Corte de origem afirmou que "as circunstâncias do caso concreto tornam claro que o acusado se dedicava à atividade ilícita e estava envolvido com organização criminosa". Acolher a tese de que o paciente não se dedicava á atividade criminosa ou integrava organização criminosa, imprescindível o reexame das provas, expediente inviável na sede mandamental.
+6. Agravo regimental improvido.
+(AgRg nos EDcl no HC n. 773.027/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2022, DJe de 1º/12/2022.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inc. XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
