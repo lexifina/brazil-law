@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recursos especiais interpostos por WILLIAN ROCHA e LUCAS BORGES DA SILVA (sendo este último com agravo), com fundamento nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que manteve sua pronúncia (e-STJ, fls. 2.548-2.560).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 2.616-2.618 e 2.761-2.763).
+Em suas razões recursais (e-STJ, fls. 2.632-2.660), LUCAS aponta violação do art. 413 do CPP. Aduz para tanto, em síntese, que a decisão de pronúncia conteria excesso de linguagem, pois proferiu "juízo valorativo acerca dos delitos dolosos contra a vida, de seus possíveis autores, usurpando, assim, a competência do Tribunal do Júri para a análise do mérito" (e-STJ, fl. 2.648).
+Já o recurso especial de WILLIAN (e-STJ, fls. 2.776-2.798) suscita dissídio jurisprudencial e ofensa aos arts. 315, § 2º, II, e 413, § 1º, do CPP, argumentando que a qualificadora do motivo torpe seria manifestamente improcedente, já que fundamentada apenas em depoimentos indiretos dos policiais. Reitera também os argumentos do corréu sobre o excesso de linguagem, tema sobre o qual afirma que o TJ/PR se omitiu.
+Com contrarrazões (e-STJ, fls. 2.670-2.673 e 2.808-2.812), o recurso de LUCAS foi inadmitido na origem (e-STJ, fls. 2.677-2.678), enquanto o de WILLIAN foi admitido (e-STJ, fls. 2.816-2.818).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento dos recursos (e-STJ, fls. 2.835-2.839).
+É o relatório.
+Decido.
+Os recurso são procedentes quanto ao alegado excesso de linguagem.
+Na decisão de pronúncia, o juiz deve adotar linguagem comedida, sem ceder a adjetivações ou pré-julgamentos sobre o mérito da pretensão punitiva - até porque esse julgamento não lhe compete, sendo exclusivo dos jurados. Descumprindo essa postura de autocontenção, a pronúncia torna-se viciada por excesso de linguagem, como já afirmou a jurisprudência deste STJ:
+"RECURSO ESPECIAL. TRIBUNAL DO JÚRI. SENTENÇA DE PRONÚNCIA EXCESSO DE LINGUAGEM. EXPRESSÕES PASSÍVEIS DE INFLUENCIAR O CONSELHO DE SENTENÇA. PRISÃO CAUTELAR. EXCESSO DE PRAZO. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO COM EFEITOS EXTENSIVOS.
+1. Na sentença de pronúncia, o dever de fundamentação do magistrado deve ser cumprido dentro de limites estreitos, com linguagem comedida, sob pena de influenciar os jurados. As teses de defesa e elementos de prova devem ser sopesadas pelo Conselho de Sentença, por expressa previsão constitucional, sendo atribuídas, ao juiz presidente, apenas a direção e a condução de todo o procedimento, bem como a lavratura da sentença final.
+2. A afirmação de que, sem qualquer dúvida, o veículo no qual estavam os réus deliberadamente ingressou a contramão para com a derrubada do motociclista com o fito de, com sua morte, fazer que os policiais parassem para socorrer a vítima e os deixassem fugir, traz forte valoração do mérito da causa, sendo, portanto, passível de influenciar o Conselho de Sentença.
+3. Anulada a sentença de pronúncia para que outra seja proferida, mostra-se flagrante o excesso de prazo sem a submissão da recorrente a julgamento pelo Tribunal do Júri.
+4. Encontrando-se o corréu na mesma situação fático-processual, deve a ele ser estendido os efeitos do provimento do recurso, nos termos do art. 580 do CPP.
+5. Tendo prosseguido a ação penal em relação ao corréu, com condenação definitiva, deve ser desconstituído o trânsito em julgado.
+6. Recurso especial provido para anular a sentença de pronúncia para que outra seja proferida, determinando-se o seu desentranhamento dos autos, e, por consequência, relaxar a prisão cautelar da recorrente, com efeitos extensivos ao corréu DAVID SANTOS FERREIRA TAVARES, desconstituindo-se, em relação a ele, o trânsito em julgado".
+(REsp 1723140/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/06/2020, DJe 01/09/2020)
+"PROCESSO PENAL. HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO ESPECIAL. NÃO CABIMENTO. HOMICÍDIO TRIPLAMENTE QUALIFICADO. SENTENÇA DE PRONÚNCIA. RECURSO EM SENTIDO ESTRITO EXCESSO DE LINGUAGEM NO V. ACÓRDÃO. CONFIGURADO. NULIDADE RECONHECIDA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - A pronúncia é decisão interlocutória mista, que julga admissível a acusação e a remete para apreciação pelo Tribunal do Júri. Trata-se de mero juízo de admissibilidade, não de mérito.
+III - Deve a pronúncia e eventual decisão que a mantém, se limitar a apontar a existência de prova da materialidade e indícios de autoria, nos termos do art. 413, §1º, do CPP.
+IV - A pronúncia exige forma lacônica e acentuadamente comedida, não podendo exceder da adjetivação, sob pena de invadir a competência do Tribunal do Júri para apreciar os crimes dolosos contra a vida, nos termos do previsto no art. 5º, XXXVIII, "d", da Carta Magna.
+V - No caso, o eg. Tribunal de Justiça utilizou expressões que indicam a prática do crime pelos pacientes. Além disso, emitiu juízo de certeza quanto às qualificadoras do motivo fútil e do emprego de meio cruel, configurando-se o excesso de linguagem.
+Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer o excesso de linguagem no v. acórdão, determinando-se o seu desentranhamento dos autos, devendo outro ser proferido, sem os vícios apontados".
+(HC 377.909/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/09/2017, DJe 26/09/2017)
+No presente caso, a decisão de primeira instância não se restringiu a apontar os dados probatórios que recomendam a submissão dos réus a julgamento popular, mas foi além, contendo diversas afirmações peremptórias e adjetivações desnecessárias sobre a matéria em discussão. Veja-se (e-STJ, fls. 2.107-2.116):
+"No tocante à autoria do crime, fortes indícios recaem sobre as pessoas dos acusados Lucas, Tiago e Willian.
+Na data de 17 de abril de 2021, por volta das 22h10min, as vítimas Wagner Henrique Santos de Assis e Cleverson Barbosa foram atingidas por diversos disparos de arma de fogo no interior do veículo VW/Gol - placas AKA-8G08, os quais foram suficientes para levar a vítima Wagner a óbito. A vítima Cleverson somente não veio a óbito por circunstâncias alheias à vontade dos agentes, pois estava no banco do passageiro do veículo em posição oposta à dos atiradores, vindo a fugir pela lateral, tendo sido atingido apenas na perna e na região cervical.
+ ..
+As imagens de câmeras de segurança obtidas através de comércio existente em local próximo confirmam a narrativa acima (mov. 48.2 e 48.3), sendo possível visualizar que se tratava de um veículo "hatch" de cor preta - possivelmente um Fiesta - utilizado pelos agentes para abordar e depois alvejar as vítimas.
+ ..
+Ainda que a confissão do acusado Tiago não tenha sido repetida na fase judicial, a prisão em flagrante dos acusados na posse do veículo e das armas de fogo comprovadamente utilizadas para os homicídios consumado e tentado são fortíssimos indícios de autoria delitiva.
+ ..
+Ainda, a perícia realizada no aparelho celular do acusado Tiago demonstrou diálogos que apontam a premeditação dos crimes, o inegável dolo homicida e a possível motivação denunciada (mov. 362.1).
+ ..
+Cumpre mencionar que subsistem os motivos da prisão preventiva, porquanto houve exaurimento da primeira fase do julgamento, no sentido de que se comprovou devidamente a materialidade e fortes indícios de autoria, sendo certo que a manutenção das prisões está em plena consonância com a lei, resguardando-se, ainda, a ordem pública".
+Veja-se, que nesses trechos, o juízo singular qualificou os indícios de autoria ("fortes" e "fortíssimos"), afirmou em duas ocasiões o dolo dos agentes (adjetivado, inclusive, como "inegável"), e disse estar "comprovado" que o veículo e as armas apreendidos na prisão em flagrante foram usados para praticar as condutas descritas na inicial, quando compete ao júri avaliar a efetiva comprovação da hipótese acusatória. Nenhuma dessa afirmações tem lugar na decisão de pronúncia.
+Na mesma linha, aliás, se manifestou o próprio MP/PR, ao apresentar seu parecer em segunda instância (e-STJ, fls. 2.524-2.527):
+"Conforme verifica-se da leitura da decisão de pronúncia, infere-se que o juiz a quo, com a devida vênia, excedeu-se na avaliação dos indícios de autoria ao proferir juízo valorativo acerca dos delitos dolosos contra a vida, de seus possíveis autores, usurpando, assim, a competência do Tribunal do Júri para a análise do mérito.
+Confira-se os seguintes trechos extraídos da r. decisão, em que verifica-se o excesso argumentativo, verbis:
+ ..
+Tais assertivas consubstanciam-se no vedado excesso de linguagem ou eloquência acusatória, já que ultrapassa o juízo de verossimilhança característico desta fase procedimental, em que avalia-se apenas a admissibilidade e a remessa do processo criminal para o julgamento no Tribunal do Júri.
+Aqui, verifica-se que a decisão excede os limites da pronúncia, não apenas pelas palavras, mas pela efetiva análise da prova dos autos.
+Não se pode olvidar, ainda, que o excesso de linguagem na pronúncia ofende o princípio constitucional da soberania dos veredictos, na medida em que pode influenciar na decisão dos Senhores Jurados, pois, conforme prevê o art. 472, §1º, do CPP, após formado o Conselho de Sentença, os jurados recebem cópia da pronúncia e das decisões posteriores que confirmaram a admissibilidade da denúncia.
+ ..
+Desse modo, verificado o uso de expressos incisivas, capazes de influenciarem na decisão dos juízes leigos, é de ser declarada, a nulidade da decisão de pronúncia".
+Concordo com a argumentação da procuradora parecerista, pois a decisão de primeiro grau, de fato, excedeu o comedimento linguístico necessário à pronúncia, na linha dos precedentes acima transcritos.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento aos recursos especiais, para anular a decisão de pronúncia e ordenar que outra seja proferida, sem os vícios apontados.
+Determino também que o juízo de origem desentranhe dos autos a decisão anulada e assegure que os jurados não tenham contato com seus dizeres (inclusive os que foram transcritos em outras peças processuais, como o parecer ministerial, os recursos especiais e esta própria decisão que profiro).
+Caberá ao juízo de primeira instância, na nova decisão, avaliar a necessidade de manter ou não a prisão preventiva.
+Publique-se. Intimem-se.
+ EMENTA
