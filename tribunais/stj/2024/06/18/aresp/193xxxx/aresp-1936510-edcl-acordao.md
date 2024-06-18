@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ELIMINAÇÃO DE CONTRADIÇÃO.
+1. A contradição que autoriza a oposição de embargos de declaração é intrínseca, é aquela estabelecida entre as premissas, fundamentos e conclusões do julgamento.
+2. O julgamento que pronuncia nulidade ocorrida na fase instrutória implica a nulidade da sentença, e não do acórdão do Tribunal que enfrentara a questão, em grau recursal.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+RELATÓRIO
+Wilson Sierra e Neize Machado Dutra Sierra opõem embargos de declaração contra o acórdão cuja ementa foi redigida assim:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. QUESTIONAMENTOS AO LAUDO PERICIAL. FALTA DE ESCLARECIMENTO. REJEIÇÃO AO CERCEAMENTO DE DEFESA. FALTA DE FUNDAMENTAÇÃO. OCORRÊNCIA.
+1. É nulo o acórdão, por ausência de fundamentação, quando se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida. Inteligência do art. 489, § 1.º, inciso I, do CPC/2015.
+2. Agravo conhecido para dar provimento ao recurso especial.
+As razões dos embargos, que se esteiam em aventada obscuridade, consubstanciam-se no seguinte:
+WILSON SIERRA e NEIZE MACHADO DUTRA SIERRA, já qualificados, vêm respeitosamente perante Vossa Excelência por meio de seus advogados, com fundamento no art. 1.022, I, do CPC, interpor EMBARGOS DE DECLARAÇÃO, em virtude da ocorrência de obscuridade, nos seguintes termos.
+Excelência, vamos direto o ponto: há incongruência entre o que efetivamente se pediu no agravo em recurso especial e o que se decidiu.
+No âmbito do recurso especial e do agravo, estes Recorrentes pleitearam a reforma do r. acórdão prolatado pelo TJMT para o fim de se anular a sentença prolatada na 1ª instância.
+No entanto, apesar do provimento do recurso especial, este E. Tribunal da Cidadania determinou a anulação do acórdão proferido na 2ª instância, bem como novo julgamento do caso naquele Tribunal de Justiça(e não pela 1ª instância), o que não se coaduna com o pedido recursal.
+Os Embargantes se valem do presente recurso, então, para que seja sanada a obscuridade apontada, de forma que, como consequência disso, determine-se a anulação da sentença, na forma pedida no recurso especial e no agravo
+Contrarrazões em e-STJ fls. 1512/1512.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ELIMINAÇÃO DE CONTRADIÇÃO.
+1. A contradição que autoriza a oposição de embargos de declaração é intrínseca, é aquela estabelecida entre as premissas, fundamentos e conclusões do julgamento.
+2. O julgamento que pronuncia nulidade ocorrida na fase instrutória implica a nulidade da sentença, e não do acórdão do Tribunal que enfrentara a questão, em grau recursal.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+VOTO
+Os embargos são procedentes, mas isso não implica efeitos infringentes embora o dispositivo, é fato, venha a ser esclarecido.
+A controvérsia primordialmente trazida ao crivo deste Tribunal reflete o fato de que o bem imóvel em questão, no qual se pleiteia a constituição de servidão administrativa para a implementação de uma linha de transmissão de energia, foi objeto noutra contenda (de n. 1001564-03.2017.8.11.0007) de semelhante pretensão cujo objetivo era igualmente que se fizesse atravessar no imóvel uma outra linha de transmissão porém de outra concessionária de energia (Paranaíta Ribeirãozinha Transmissora de Energia Elétrica S.A.)
+Essa situação ensejou, no entanto, avaliações periciais completamente díspares na medida em que a apuração do metro quadrado indenizável e do respectivo coeficiente de servidão para ambas as áreas da mesma fazenda resultou em indenizações irrazoavelmente distintas.
+Nesse sentido, os embargantes destacaram que o imóvel trata-se de uma mesma fazenda, denominada "Fazenda Nortão", porém com três matrículas diferentes, e que noutra demanda constitutiva de servidão administrativa uma área de 14 ha (catorze hectares), correspondente a quase a metade da área pretendida neste feito, que incidiu sobre 26 ha (vinte e seis hectares), foi indenizada no valor de R$ 191.000,00 (cento e noventa mil reais), ao passo que nesta a indenização foi arbitrada em R$ 61.833,49 (sessenta e um mil, oitocentos e trinta e três reais e quarenta e nove centavos).
+Assim, a falta de sentido nessa disparidade levou-os a pedir esclarecimentos ao perito judicial e ao magistrado, mas esse ponto continuou sem resposta nenhuma.
+Percebam a vagueza da sentença:
+No caso dos autos, em que pese a divergência apontada pela parte requerida, os esclarecimentos prestados pelo "expert" do Juízo, às fl. 402/475, complementado e ratificado às fls. 490/496, são suficientes para esclarecer dúvidas e permitir a homologação valor apresentado no estudo técnico.
+O Tribunal "a quo" não se ateve muito além disso:
+Da nulidade da sentença por cerceamento de defesa:
+O apelante suscita ainda a nulidade por cerceamento de defesa uma vez que apesar de os requeridos terem suscitado dúvidas acerca de uma possível subavaliação se comparada com uma outra avaliação contemporânea elaborada por outra empresa perita sobre o mesmo imóvel, bem como sobre a possível omissão do expert sobre os cálculos utilizados para a aferição dos lucros cessantes e dos danos emergentes em decorrência da imposição da servidão.
+No entanto, igualmente aqui o apelo merece rejeição.
+Primeiramente porque, somada, a área da matrícula nº 7.752 doCRI de Alta Floresta (511,03 hectares) e com a de matrícula n.º 7.980 do mesmo Registro (224,37 hectares) tem-se que a área total do imóvel é de 735,4 hectares. Com isso, é plenamente possível que uma faixa de um imóvel tão grande possa ter um valor diverso de outra distante, dentro do mesmo imóvel, visto que podem ter características distintas uma da outra.
+Além disso, a perícia do juízo foi realizada levando em consideração Método Comparativo de Dados de Mercado, seguindo o que preceitua a Norma Técnica NBR 14.6533, da ABNT, o que faz presumir sua legitimidade. Vejamos:
+Intuir hipoteticamente que o imóvel, sendo de grande proporção, possa ter partes avaliadas distintamente se uma for distante da outra é corroborar involuntariamente com a premissa defendida pelos embargantes, isto é, de que não houve resposta exata e específica sobre o porquê dessa diferença tanto que o Tribunal se limitou a lançar mão de uma conjectura aparentemente infundada para tratar de uma questão que, com a devida vênia, é probatória, e de prova técnica.
+Nesse sentido, aliás, tome-se por premissa que a sentença fez referência a dois documentos, a saber, o laudo pericial (e-STJ fls. 507/580) e as informações complementares do perito judicial (e-STJ fls. 599/605) como sendo suficientemente esclarecedores sobre a controvérsia de avaliações, mas nem o primeiro obviamente respondia a nada, porque a dúvida surgira posteriormente a ele, nem o segundo tampouco o fazia na medida em que prestava informações complementares apenas dos questionamentos apresentados pela concessionária, deduzidas espontaneamente antes da intimação dos proprietários do prédio serviente.
+Apenas em seguida a isso é que os ora embargantes apresentaram os seus questionamentos (e-STJ fls. 643/744), mas o que se verificou na sequência foi a prolação da sentença de e-STJ fls. 748/752, sem, portanto, esclarecimento nenhum, assim como no acórdão embargado.
+Assim, na medida em que essa situação havia sido descrita na petição do recurso especial, e que era corroborada pelo que se relata aqui, a solução implicava obviamente a garantia do direito probatório da parte, com o retorno à fase instrutória, e não a simples anulação do acórdão do Tribunal da origem para novo julgamento.
+Vejamos como se procedeu preliminarmente no acórdão embargado:
+A questão não é complexa: em demanda na qual era versada pretensão constitutiva de servidão administrativa, havia controvérsia sobre a aquilatação do montante indenizatório, e por isso determinou-se a perícia no local.
+O problema surge quando os recorrentes pleiteam determinados esclarecimentos ao perito judicial e este não os faz, embora tais esclarecimentos fossem primordiais para a definição precisa do "quantum" indenizatório, dentre os quais (a) as implicações ambientais ocasionadas na área pela implementação da servidão administrativa, o que ensejaria despesas adicionais as quais os recorrentes teriam de suportar para readequar a fazenda na esfera ambiental, e (b) a forma de mensuração dos lucros cessantes relacionados à agricultura praticada no local, sobretudo de sujo, e à pecuária, tudo desenvolvido na área sujeita à servidão.
+A relevância disso tem nítida implicação no importe da indenização.
+Embora seja fato que a intervenção limitativa da propriedade, como a servidão administrativa, seja modalidade que pode ou não ensejar indenização do proprietário do prédio serviente, é igualmente relevante que se a servidão admite uma série de implicações patrimoniais diretas e indiretas, como aquelas mencionadas pelos recorrentes, a apuração correta do prejuízo reparável presta tributo ao postulado da justa indenização, por isso a relevância da questão.
+Essas premissas estão corretas, e se vê claramente que a controvérsia deduzida no apelo raro tratava do pedido de esclarecimento adicional tempestivamente aforado e não respondido pelo perito judicial, erro incontornável que fora sugrafado em ambos os graus da instância ordinária a vulnerar a regra de direito probatório prescrita no art. 477, § 2.º, inciso I, do CPC/2015:
+Art. 477. O perito protocolará o laudo em juízo, no prazo fixado pelo juiz, pelo menos 20 (vinte) dias antes da audiência de instrução e julgamento.
+ ..
+§ 2.º O perito do juízo tem o dever de, no prazo de 15 (quinze) dias, esclarecer ponto:
+I - sobre o qual exista divergência ou dúvida de qualquer das partes, do juiz ou do órgão do Ministério Público;
+O problema do acórdão embargado surge com a conclusão advinda disso, a meu sentir contraditória e não obscura, como apontam os embargantes, uma vez que o reconhecimento da violação ao direito probatório implica o retorno à fase instrutória e não a anulação do acórdão por déficit de fundamentação:
+Assim, a conclusão até o momento é que embora o Tribunal diga que esses esclarecimentos adicionais eram desimportantes, nada diz especificamente sobre os pontos referidos na petição do recurso de apelação, nem o porquê de cada um deles não demandar apontamentos outros do perito judicial, embora aparentemente eles possam ter influência sobre o montante indenizatório.
+Desse modo, a fundamentação adotada no acórdão, ora transcrita, claramente não esgota a matéria, e por isso é de se ter o julgamento por nulo, a fim de que o Tribunal reexamine os embargos de declaração e efetivamente enfrente os pontos, sobre eles emitindo juízo de valor.
+Forte nisso, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+O equívoco perpetrado é tamanho que o provimento do recurso especial deu-se para o rejulgamento de recurso sequer aviado na origem, quer dizer, não se opuseram os embargos nem os recorrentes tampouco chegaram a aduzir a violação ao art. 1.022 do CPC/2015, de sorte que o reparo a ser feito no acórdão embargado é de ordem parcial, apenas para refazer essa parte final da fundamentação e para que, mantido o provimento, o seu efeito prático seja o devido, qual seja, provendo-se a apelação para anular a sentença e fazer o feito retornar à etapa final da fase instrutória, pré-decisória, a fim de que o perito judicial cumpra o dever de esclarecimento tempestivamente aforado pelos embargantes.
+Assim, acolho os embargos de declaração, sem efeitos infringentes, para esclarecer que a anulação da sentença, com o retorno do feito à fase instrutória, dê-se para o efeito regular do art. 477, § 2 .º, inciso I, do CPC/2015.
+É o voto.
