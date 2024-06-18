@@ -1,0 +1,19 @@
+DECISÃO
+Trata -se de conflito negativo de competência entre o Juízo de Direito da Vara Única de Ipaumirim - CE e o Tribunal Regional do Trabalho da 7ª Região, nos autos de ação trabalhista proposta por Rosana Maria Alves Guedes contra o Município de Ipaumirim - CE, objetivando a condenação do réu ao pagamento dos valores do FGTS ao tempo que laborou sob o regime celetista.
+É o relatório. Passo a decidir.
+Dispensa-se a oitiva do Ministério Público Federal, em prestígio aos princípios da celeridade e da economia processual, além do caso dos autos estar fora das hipóteses previstas no artigo 178 do CPC/2015.
+A questão aqui posta cinge-se em definir a quem compete processar e julgar - se à Justiça Trabalhista ou à Justiça Comum - ação trabalhista, na qual se pleiteia o pagamento de verbas atinentes ao FGTS, que não foram, supostamente, recolhidas pelo município, no período em que esteve submetido ao regime celetista, ou seja, antes da transmudação para o regime jurídico único.
+Consigne-se que apenas em 2017, por meio da Lei Municipal n. 299/2017, é que foi instituído o Regime Jurídico Único dos Servidores do Município de Ipaumirim - CE, os quais eram, até então regidos pela CLT.
+Com efeito, o Supremo Tribunal Federal fixou a tese de que "compete à Justiça do Trabalho processar e julgar ações relativas às verbas trabalhistas referentes ao período em que o servidor mantinha vínculo celetista com a Administração, antes da transposição para o regime estatutário" (Tema 928/STF).
+Anote-se que esta Corte Superior, por meio do verbete sumular n. 97, pacificou o tema no sentido de que "compete à Justiça do Trabalho processar reclamação de servidor público relativo a vantagens trabalhistas anteriores à instituição do regime jurídico único". A propósito:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA ESTADUAL. JUSTIÇA DO TRABALHO. EXECUÇÃO DE SENTENÇA TRABALHISTA MOVIDA POR EMPREGADO CONTRA ENTE MUNICIPAL, POSTERIORMENTE SUSPENSA POR LIMINAR. IMPROCEDÊNCIA DA AÇÃO RESCISÓRIA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A Primeira Seção desta Corte, em harmonia com as decisões recentes do STF, tem adotado o entendimento de que a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo. Precedente: AgRg no CC 119.234/RN, Rel. Ministro Napoleão Nunes Maia Filho, DJe 13/09/2012.
+2. É equivocada a orientação segundo a qual toda e qualquer relação entre ente público e seus agentes está sujeita à competência da Justiça Comum.
+3. "Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único." (Súmula 97/STJ).
+4. Conflito conhecido para declarar competente a Justiça do Trabalho, cassando, em decorrência, o acórdão proferido na ação rescisória, determinando-se o prosseguimento da execução contra o Município de Lagoa de Velhos/RN, perante a 4.ª Vara do Trabalho de Natal/RN.
+(CC n. 129.447/RN, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 9/9/2015, DJe de 30/9/2015.)
+No mesmo sentido, destaca-se também: (CC n. 205.383/CE, Ministro Francisco Falcão, DJe de 03/06/2024; CC n. 197.139/CE, Ministro Paulo Sérgio Domingues, DJe de 04/09/2023.
+Posto isso, nos termos do artigo 955, parágrafo único, do CPC/2015 combinado com o art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Tribunal Regional do Trabalho da 7ª Região.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. AÇÃO TRABALHISTA. FGTS ANTES DA TRANSMUDAÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO. INCIDÊNCIA DA SÚMULA 97/STJ. COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
