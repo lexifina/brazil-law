@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Gato & Guedes Ltda., com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado do Amapá, assim ementado (e-STJ, fl. 1.157):
+APELAÇÃO CÍVEL. REVISÃO DE CONTRATO BANCÁRIO. JUROS. TARIFAS E SEGURO PRESTAMISTA. FAMA SUNT SERLANDA. 1) Somente está autorizada a revisão contratual quando demonstrado cabalmente, no caso concreto, a flagrante abusividade por parte da instituição financeira. 2) Se da análise do caso concreto não restar confirmada a prática abusiva, impõe-se a manutenção do contrato, em homenagem à boa-fé contratual e à aplicação do princípio do pacta sunt servanda. 3) Recurso do embargante não provido e do embargado provido.
+Nas razões do apelo especial, a recorrente apontou, além de divergência jurisprudencial, afronta aos arts. 489, §1º, VI e 927, V, §1º, III, do CPC e às Súmulas 93 e 539 do STJ,
+Sustentou, em síntese, que ficaram comprovadas as cobranças de: juros capitalizados mensalmente durante a normalidade contratual, circunstância está que não está prevista nos contratos firmados entre as partes; tarifas após o início da relação; e seguro prestamista.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+A fundamentação apresentada no recurso, no tocante aos arts. 489, §1º, VI e 927, V, §1º, III, do CPC, se mostra deficiente, dada a alegação genérica de afronta a dispositivo de lei federal, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+Nesse sentido:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE INFRINGÊNCIA À SÚMULA. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.  ..  4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.134.984/MG, Relator o Ministro Sérgio Kukina, Primeira Turma, julgado em 20/2/2018, DJe 6/3/2018)
+Ademais, é inviável o conhecimento do recurso especial com base na alegação de violação à súmula da jurisprudência desta Corte pelo fato desta não se enquadrar no conceito de lei federal (Súmula 518/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. VIOLAÇÃO À SÚMULA. DESCABIMENTO. SÚMULA 518/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
