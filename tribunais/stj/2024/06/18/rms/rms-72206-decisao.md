@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto contra acórdão oriundo do TJTO, assim ementado (fl. 465-466):
+MANDADO DE SEGURANÇA. AGRAVO INTERNO PREJUDICADO. SUSPENSÃO TEMPORÁRIA DE PARTICIPAR EM LICITAÇÃO E IMPEDIMENTO DE CONTRATAR COM A ADMINISTRAÇÃO. PENALIDADE QUE SE ESTENDE A TODOS OS ENTES DA ADMINISTRAÇÃO PÚBLICA. PRETENSÃO DE ANULAÇÃO DO ATO ADMINISTRATIVO QUE DESCLASSIFICOU A EMPRESA DO PREGÃO ELETRÔNICO. DESCABIDA. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. SEGURANÇA DENEGADA.
+1. O processo encontra-se maduro para julgamento, razão pela qual resta prejudicado o julgamento do recurso de agravo interno, em observância aos princípios da celeridade e da economia processual.
+2. A jurisprudência caminha no sentido de que os efeitos da penalidade disposta no art. 87, III, da Lei nº 8.666/1993 e art. 7º da Lei 10.520/02, abarcam toda a Administração Pública, em âmbito nacional. Precedentes do STJ e desta Corte de Justiça.
+3. No caso em apreço, a tese autoral não merece amparo, pois o edital do certame é bastante claro ao dispor em seu item 2.5.1. que não poderão participar deste Pregão: "Empresa suspensa de participar de licitação ou de contratar com a Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, durante o prazo da sanção aplicada".
+4. Em sendo o edital um conjunto de normas que vinculam tanto a Administração Pública quanto as empresas licitantes, estas estão compelidas a cumprirem os deveres, obrigações e também os impedimentos lá previstos, à luz do que dispõe o princípio da vinculação ao edital.
+5. Ordem denegada, nos termos do voto prolatado.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente defende que os efeitos da penalidade administrativa de suspensão temporária de participação em licitação e impedimento de contratar com a Administração restringem-se à esfera do ente que a aplicou (o Distrito Federal) e que estendê-los a um pregão realizado no Estado de Tocantins viola a legislação que rege as contratações públicas.
+Requer, ao final, que seja conhecido e provido o presente recurso "com a consequente declaração de nulidade do ato coator que desclassificou a Recorrente, bem como de todos os atos subsequentes relacionados ao Pregão n. 108/2022".
+Parecer do Ministério Público Federal, às fls. 571-576, opinando pelo não provimento do recurso, nos termos da seguinte ementa:
+ADMINISTRATIVO E CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LICITAÇÃO. PENALIDADE DE SUSPENSÃO TEMPORÁRIA DO DIREITO DE LICITAR E CONTRATAR COM A ADMINISTRAÇÃO PÚBLICA. ART. 87, III, DA LEI 8.666/1993. ABRANGÊNCIA. ADMINISTRAÇÃO PÚBLICA EM GERAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PARECER PELO IMPROVIMENTO DO RECURSO.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Na hipótese dos autos, cuida-se de mandado de segurança impetrado contra ato do Secretário de Saúde do Estado do Tocantins, consubstanciado na desclassificação da Impetrante do Pregão Eletrônico n. 108/2022, conduzido pela SES-TO, em razão de penalidade administrativa de suspensão do direito de licitar sofrida pela impetrante em licitação realizada no Distrito Federal, acarretando sua inclusão no CEIS - Cadastro de Empresas Inidôneas e Suspensas.
+O Tribunal de origem denegou a segurança ao fundamento de que "o edital do certame é bastante claro ao dispor em seu item 2.5.1. que não poderão participar este Pregão: "Empresa suspensa de participar de licitação ou de contratar com a Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, durante o prazo da sanção aplicada"". Apontou, ademais, que "a jurisprudência caminha no sentido de que os efeitos da penalidade disposta no art. 87, III, da Lei nº 8.666/1993 e art. 7ºda Lei 10.520/02, abarcam toda a Administração Pública, em âmbito nacional".
+Não merece reparos o entendimento externado pela instância ordinária.
+Com efeito, verifica-se que o Tribunal de origem adota entendimento assente na jurisprudência do STJ. A propósito, confiram-se os seguintes julgados:
+ADMINISTRATIVO. SUSPENSÃO TEMPORÁRIA. DIREITO DE LICITAR. SANÇÃO. ANTECEDÊNCIA ÀS ALTERAÇÕES LEGAIS. ABRANGÊNCIA.
+1. A orientação desta Corte é de que "a penalidade de suspensão temporária do direito de licitar prevista no art. 87, III, da Lei n. 8.666/1993 abrange toda a administração pública, não estando restrita ao ente que a impôs" (AgInt na SS 2.951/CE, relator Ministro Herman Benjamin, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 04/03/2020, DJe de 1º/07/2021)". Precedentes.
+2. Caso em que, ao inabilitar a empresa, o município impetrante agiu com acerto, sendo ilegal o ato que cassou aquela decisão, devendo-se salientar que a inabilitação ocorreu antes das alterações à lei de licitação, prevalecendo o entendimento até então vigente nesta Corte.
+3. Agravo interno desprovido.
+(AgInt no RMS n. 69.337/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/4/2024, DJe de 18/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PREGÃO ELETRÔNICO. DESCLASSIFICAÇÃO DA IMPETRANTE. SUSPENSÃO TEMPORÁRIA DE PARTICIPAR DE LICITAÇÃO E IMPEDIMENTO DE CONTRATAR. ALCANCE DA PENALIDADE. TODA A ADMINISTRAÇÃO PÚBLICA. PRECEDENTES. AUSÊNCIA DE ILEGALIDADE. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. De acordo com a jurisprudência do STJ, a penalidade prevista no art. 87, III, da Lei n. 8.666/1993 não produz efeitos apenas em relação ao ente federativo sancionador, mas alcança toda a Administração Pública (MS 19.657/DF, rel. Min. Eliana Calmon, Primeira Seção, DJe 23/8/2013).
+3. Agravo interno não provido.
+(AgInt no RMS n. 72.436/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/3/2024, DJe de 2/4/2024.)
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. PREGÃO ELETRÔNICO. DESCLASSIFICAÇÃO DA IMPETRANTE. SUSPENSÃO TEMPORÁRIA DE PARTICIPAR DE LICITAÇÃO E IMPEDIMENTO DE CONTRATAR. ALCANCE DA PENALIDADE. TODA A ADMINISTRAÇÃO PÚBLICA. PRECEDENTES. AUSÊNCIA DE ILEGALIDADE. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO DESPROVIDO.
