@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por ADÃO ANTUNES NUNES contra decisão que negou seguimento ao recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO DE CONTRATO. EMPRÉSTIMO PESSOAL. JUROS, TAXA MÉDIA DE MERCADO. JUROS REMUNERATÓRIOS. RECONHECIMENTO DA MORA. ABUSIVIDADE NÃO CONSTATADA. SENTENÇA REFORMADA.
+O mero cotejo entre a taxa pactuada e a taxa média de mercado fixada pelo BACEN, não ostenta situação de excepcionalidade, que se apresente necessária à revisão dos juros bancários, a despeito da relação consumerista, que no seu artigo 51, § 1º, do CDC, exige submissão do consumidor à desvantagem exagerada. Necessária a demonstração cabal dessa situação desvantajosa ao consumidor a ensejar a revisão contratual. A segurança das relações contratuais exige cumprimento dos pactos nos termos avençados. Primado da livre manifestação de vontade das partes. Prévio conhecimento das obrigações assumidas. Indemonstrados vício de vontade ou desconhecimento das cláusulas contratadas. RECURSO DE APELAÇÃO PROVIDO" (e-STJ fl. 253).
+No recurso especial (e-STJ fl. 261/285), o recorrente alega violação ao art. 1022 do CPC e aduz que a decisão atacada contraria jurisprudência dominante do Superior Tribunal de Justiça, no sentido de reconhecer a possibilidade da revisão dos juros remuneratórios, quando ultrapassada excessivamente a taxa média do BACEN.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, a alegação de violação do art. 1022, II, do CPC, sem a anterior e necessária oposição de embargos declaração sobre o tema, atrai a aplicação da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. DEFERIMENTO. EFEITOS EX NUNC. ARTS. 1.022, II, E 489, § 1º, IV, DO CPC. SÚMULA N. 284/STF. ARTS. 489, § 1º, VI, E 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. JUROS REMUNERATÓRIOS. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE DEMONSTRAÇÃO DE SIMILITUDE FÁTICA. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Deferido o benefício da gratuidade de justiça, que não tem efeito retroativo.
+2. Quanto aos arts. 1.022, II, e 489, § 1º, IV, do CPC, incide o óbice da Súmula n. 284/STF, pois a parte recorrente aponta a violação dos dispositivos sem a anterior e necessária oposição de embargos declaração sobre o tema, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Quanto aos arts. 489, § 1º, VI, e 927, III, do CPC, verifica-se que o Tribunal de origem não analisou a controvérsia à luz dos dispositivos apontados como violados. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência dos enunciados n. 282 e n. 356 do STF.
+4. "A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+5. Elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial nos termos da Súmula n. 7/STJ.
+Agravo interno improvido" (AgInt no AREsp 2.418.257/RS, Rel. Min. Humberto Martins, Terceira Turma, julgado em 11/12/2023, DJe 18/12/2023).
+No tocante à divergência jurisprudencial invocada, registre-se que o recurso especial fundamentado em dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido." (AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013 - grifou-se)
+"RECURSO ESPECIAL. DUPLICATAS PRESCRITAS. AÇÃO DE LOCUPLETAMENTO ILÍCITO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO VÁLIDA. RECURSO IMPROVIDO.
+(..)
+4. Para a demonstração do dissídio pretoriano, na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, são necessários a similitude fática e o cotejo analítico entre os acórdãos confrontados, circunstâncias não aferidas na espécie.
+(..)
+6. Deveras, a indicação do dispositivo tido como objeto da divergência jurisprudencial é imprescindível para a correta configuração do dissídio, nos termos do art. 105, III, "c", da Constituição Federal. Contudo, esta circunstância não se verifica na espécie, motivo pelo qual vislumbra-se a incidência da Súmula n. 284 do STF.
+7. Recurso improvido." (REsp nº 299.827/RJ, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 1/3/2011, DJe 16/3/2011)
+Ademais, verifica-se que também não há como se conhecer do dissídio, pois não houve a realização do devido cotejo analítico entre os arestos confrontados, restando desatendidas as exigências legais estatuídas pelos artigos 1.029, § 1º, do Código de Processo Civil e do 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% sobre o valor da causa, os quais devem ser majorados para o patamar de 20% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
