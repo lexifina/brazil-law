@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por CENIA MARA PORTIHO BARCELOS, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Cataria, assim ementado (fl. 313, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA. ALEGADA AUSÊNCIA DE COMUNICAÇÃO PRÉVIA POR PARTE DE ÓRGÃO MANTENEDOR DE REGISTROS DE INADIMPLÊNCIA. EXEGESE DO ARTIGO 43, §2º, DO CÓDIGO DE DEFESA DO CONSUMIDOR. CONJUNTO PROBATÓRIO QUE EVIDENCIA O ENCAMINHAMENTO DE COMUNICAÇÃO PELA ENTIDADE ARQUIVISTA, CONSTANDO DATA, NÚMERO DE PROTOCOLO E POSTAGEM. DESNECESSIDADE DE AVISO DE RECEBIMENTO. SÚMULA 404 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ENVIO DE COMUNICADO A ENDEREÇO DISTINTO DAQUELE INDICADO NA EXORDIAL. RESPONSABILIDADE PELA CORREÇÃO DOS DADOS DO CONSUMIDOR QUE É IMPUTÁVEL AO CREDOR. POSSIBILIDADE, ADEMAIS, DE ENVIO DE NOTIFICAÇÃO MEDIANTE CORRESPONDÊNCIA ELETRÔNICA. E-MAIL NÃO IMPUGNADO PELA PARTE ATIVA. ILÍCITO NÃO CONFIGURADO. DEVER REPARATÓRIO AUSENTE. RECURSO CONHECIDO E DESPROVIDO.
+A comunicação prévia ao registro em cadastro de inadimplentes cumpre propósitos para além do mero deleite do consumidor, ligados ao direito de impugnação ainda na esfera extrajudicial ou à possibilidade de pagamento ainda antes da inscrição, restando desprovida de sentido a mera oposição só e tão somente quanto à forma em que operado aquele aviso e não à efetiva realidade da dívida.
+Opostos embargos de declaração, foram rejeitados (fls. 338-340, e-STJ).
+Em suas razões de recurso especial (fls. 348-362, e-STJ), a parte insurgente aponta, além de dissídio jurisprudencial, ofensa ao artigo 43, § 2º, do CDC. Sustenta, em síntese, que não deve ser considerada válida a notificação de negativação do seu nome por SMS.
+Acrescenta, ainda, que os danos morais, na hipótese, são presumidos.
+Contrarrazões às fls. 420-430, e-STJ.
+Admitido o recurso especial na origem (fls. 447-449, e-STJ), ascenderam os autos a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. A parte recorrente defende que não deve ser considerada válida a notificação de negativação do seu nome por SMS, para tanto aponta ofensa ao artigo 43, § 2º, do CDC, e divergência jurisprudencial.
+A Corte local, analisando as circunstâncias do caso, concluiu pela validade da notificação enviada por e-mail para fins de inscrição no nome do devedor em cadastro de proteção ao crédito, como se infere do seguinte trecho (fls. 311-312, e-STJ):
+Quanto à notificação pertinente ao débito junto à telefônica (evento 16, documentação 4, páginas 18- e documentação 5), vê-se que também foi enviada anteriormente à negativação.
+Embora tenha sido encaminhada mediante correspondência eletrônica, em momento algum o e-mail de Clairton foi impugnado pela parte ativa, tampouco há negativa de recebimento em réplica.
+ ..
+De mais a mais, interessante sinalar que a recorrente sequer negou a realidade dos débitos e tampouco afirmou o adimplemento deles, de tal sorte que as comunicações reclamadas ao que se vê restariam inócuas.
+Ora, a comunicação prévia ao registro em cadastro de inadimplentes cumpre propósitos para além do mero deleite do consumidor, ligados ao direito de impugnação ainda na esfera extrajudicial ou à possibilidade de pagamento ainda antes da inscrição, restando desprovida de sentido a mera oposição só e tão somente quanto à forma em que operado aquele aviso e não à efetiva realidade da dívida.  grifou-se
+Com efeito, no REsp 2.063.145-RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, por maioria, julgado em 14/3/2024, restou definido que "É válida a comunicação remetida por e-mail para fins de notificação do consumidor acerca da inscrição de seu nome em cadastro de inadimplentes, desde que comprovado o envio e entrega da comunicação ao servidor de destino".
+Eis a ementa do acórdão:
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. ARTIGO 43, § 2º, DO CDC. PRÉVIA NOTIFICAÇÃO. POSSIBILIDADE DE ENVIO DA COMUNICAÇÃO ESCRITA POR E-MAIL. SUFICIÊNCIA DA COMPROVAÇÃO DO ENVIO E ENTREGA DO E-MAIL NO SERVIDOR DE DESTINO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir a validade ou não da comunicação remetida por e-mail ao consumidor acerca da inscrição de seu nome em cadastro de inadimplentes para fins de atendimento ao disposto no art. 43, § 2º, do Código de Defesa do Consumidor.
+2. O dispositivo legal determina que a abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele.
+3. Considerando que é admitida até mesmo a realização de atos processuais, como citação e intimação, por meio eletrônico, inclusive no âmbito do processo penal, é razoável admitir a validade da comunicação remetida por e-mail para fins de notificação prevista no art. 43, § 2º, do CDC, desde que comprovado o envio e entrega da comunicação ao servidor de destino.
+4. Assim como ocorre nos casos de envio de carta física por correio, em que é dispensada a prova do recebimento da correspondência, não há necessidade de comprovar que o e-mail enviado foi lido pelo destinatário.
+5. Comprovado o envio e entrega de notificação remetida ao e-mail do devedor constante da informação enviada ao banco de dados pelo credor, está atendida a obrigação prevista no art. 43, § 2º, do CDC.
+6. Na hipótese, o Tribunal local consignou, de forma expressa, que foi comprovado o envio de notificação ao endereço eletrônico fornecido pelo credor associado cientificando o consumidor e sua efetiva entrega à caixa de e-mail do destinatário.
+7. Modificar a premissa fática estabelecida no acórdão recorrido de que houve o envio e entrega da notificação por e-mail demandaria o reexame de fatos e provas dos autos, providência vedada em recurso especial.
+8. Recurso especial a que se nega provimento.
+(REsp n. 2.063.145/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2024, DJe de 7/5/2024.)
+Nesse mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES (CDC, ART. 43, § 2º). NOTIFICAÇÃO PRÉVIA ENVIADA POR E-MAIL. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. No caso, o Tribunal a quo, após o exame dos autos, das provas, dos documentos e da natureza da lide, concluiu pela validade da notificação efetivada por e-mail, no qual constou "comunicado a origem da dívida a ser apontada no cadastro de inadimplentes, o valor da anotação, o contrato e a data de vencimento da obrigação junto ao credor, possibilitando-se ao consumidor, desta maneira, a ciência prévia quanto ao aponte de seu nome junto aos órgãos de proteção ao crédito pela arquivista". Consignou, ainda, que "há informação da data em que enviada a notificação eletrônica, o status de "entregue", bem como ID da mensagem e o número de serial, a legitimar a comunicação efetivada via mensagem por e-mail remetida".
+2. Nos termos do entendimento da Quarta Turma, firmado no julgamento do REsp 2.063.145/RS (Relatora Ministra MARIA ISABEL GALLOTTI, j.
+em 14/3/2024) considera-se válida a comunicação remetida por e-mail, para fins de inscrição em cadastro de inadimplentes, com atendimento ao disposto no art. 43, § 2º, do Código de Defesa do Consumidor.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no REsp n. 2.110.068/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+Ainda, as seguintes decisões monocráticas proferidas por Ministros integrantes da 4ª Turma, confiram-se: REsp n. 2.129.171/RS, Ministro Raul Araújo, DJe de 22/05/2024; AgInt no REsp n. 2.096.234/RS, Ministro Antônio Carlos Ferreira, DJe de 16/05/2024; AgInt no REsp n. 2.104.142/RS, desta relatoria, DJe de 03/05/2024.
+O acórdão recorrido, portanto, encontra-se em consonância com a mais recente jurisprudência desta Corte, o que atrai a incidência da Súmula 83 do STJ, aplicável por ambas as alíneas do permissivo constitucional .
+2. Por fim, quanto à pretensão relacionada aos danos morais, verifica-se que a parte insurgente não apontou os dispositivos legais supostamente vulnerados, o que inviabiliza a compreensão da controvérsia, porquanto, consoante a jurisprudência deste Sodalício, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por violados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. FINANCIAMENTO IMOBILIÁRIO. "TABELA PRICE". AFASTAMENTO. DECISÃO NÃO FUNDAMENTADA NO CDC. AUSÊNCIA DO INTERESSE DE RECORRER. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A ausência de utilidade do recurso, porquanto o acórdão não se baseou, no caso concreto, nas normas que se pretende afastar, enseja a falta de interesse de recorrer" (AgRg no AREsp n. 471.181/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/11/2015, DJe 10/11/2015).
+2. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. "Nos contratos celebrados no âmbito do Sistema Financeiro da Habitação, é vedada a capitalização de juros em qualquer periodicidade. Não cabe ao STJ, todavia, aferir se há capitalização de juros com a utilização da Tabela Price, por força das Súmulas 5 e 7" (REsp n. 1.070.297/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 9/9/2009, DJe 18/9/2009 - tese fixada sob o rito do art. 543-C do CPC/1973).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 748.828/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/05/2019, DJe 30/05/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ALÍNEA C. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A recorrente não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria, providência obrigatória inclusive para os reclamos interpostos pela alínea c. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1543665/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
