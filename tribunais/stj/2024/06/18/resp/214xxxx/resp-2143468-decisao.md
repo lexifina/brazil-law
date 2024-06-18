@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 128 - com grifos no original):
+TRIBUTÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PARA PIS E COFINS. COMERCIALIZAÇÃO DE CIGARROS. RESTITUIÇÃO QUANDO OCORRE DIFERENÇA DE BASE DE CÁLCULO. TEMA 228/STF. INAPLICABILIDADE. LEGISLAÇÃO ESPECÍFICA.
+1. Apelação interposta pela Fazenda Nacional em face de sentença que concedeu a Segurança para reconhecer o direito das impetrantes à restituição ou a compensação dos valores pagos a maior a título de PIS e COFINS, incidentes na comercialização de cigarros e cigarrilhas, pelo regime de substituição tributária, na condição de contribuintes substituídos, na situação em que o valor da operação de saída (preço de venda) for inferior à base de cálculo presumida utilizada pelo industrial ou importador para o cálculo dos referidos tributos.
+2. Eis o entendimento sedimentado pelo STF, em sede de Repercussão Geral, no julgamento do RE 2596832/RJ (Tema 228), in verbis: "É devida a restituição da diferença das contribuições para o Programa de Integração Social - PIS e para o Financiamento da Seguridade Social - Cofins recolhidas a mais, no regime de substituição tributária, se a base de cálculo efetiva das operações for inferior à presumida".
+3. As impetrantes são pessoas jurídicas de direito privado e, por meio de loja de conveniência, atuam no comércio varejista de cigarros e cigarrilhas.
+4. Existe um sistema legislativo específico que regula a importação, fabricação, comercialização e a tributação de cigarros.
+5. Os importadores, os fabricantes e os comerciantes atacadistas, na condição de contribuintes e substitutos dos comerciantes varejistas, são os responsáveis pela apuração e pagamento do PIS/COFINS, cujos preços são previamente fixados através de tabela, conforme prevê o art. 53 da Lei nº 9.532/97, art. 3º da LC nº 70/91, art. 5º da Lei nº 9.715/98, art. 29 da Lei nº 10.865/04 e art. 62 da Lei nº 11.196/05, arts. 219 e 220, do Decreto nº 7.212/2010.
+6. Constata-se, pois, que os substituídos tributários - comerciantes varejistas - devem vender o produto de acordo com o preço de venda fixado na tabela expedida pelo fabricante, que pode, inclusive, ser consultado através do sítio eletrônico da Receita Federal (Disponível em https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/regimes-e-controles-especiais./cigarros-marcas-e-precos-de-venda-a-varejo-de-cigarros. Acesso em 10/10/2023).
+7. Nesse diapasão, não há como considerar, no caso concreto, a possibilidade da existência de base de cálculo "inferior à presumida", conforme hipótese examinada no Tema 228/STF. Inaplicabilidade do Tema 228/STF.
+8. Apelação provida, para considerar as Impetrantes como partes ilegítimas para pleitear a restituição do indébito em epígrafe, ou seja, elas não são titulares de direito líquido e certo, cassando a Segurança anteriormente concedida.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, §1º, II, IV e 1.022, II, parágrafo único, II, do CPC/2015, ao argumento de que (fls. 186-188):
+Logo, como se vê da conclusão do voto, houve o entendimento de que as Recorrentes seriam partes ilegítimas no presente caso.
+Entretanto, a fundamentação do decisum tratou, tão somente, sobre o sistema legislativo específico que regula a importação, fabricação, comercialização e a tributação de cigarros.
+ ..
+Igualmente, conforme se vê do último parágrafo do voto (imagem destacada acima), a conclusão aduz que "não há como considerar, no caso concreto, a possibilidade da existência de base de cálculo "inferior à presumida", conforme hipótese examinada no Tema 228/STF".
+O distinguishing do caso guarda relação com o entendimento do Supremo Tribunal Federal, o qual entendeu, em regime de repercussão geral, que o contribuinte substituído tem o direito à restituição do valor pago a maior caso o valor efetivo da operação seja inferior à base de cálculo presumida, TESE ESTA QUE NÃO FOI ENFRENTADA PELO ACÓRDÃO RECORRIDO.
+Assim sendo, o dispositivo da decisão não comporta relação com a fundamentação apresentada, sendo certo, portanto, que o Acórdão embargado restou contraditório, fato este que acarreta em sua consequente nulidade, pois não se considera fundamentada decisão judicial que empregue conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso, bem como que não enfrente todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador, violando, portanto os termos do artigo 489, § 1º, incisos II e IV, do Código de Processo Civil, que dispõe:
+ ..
+Da mesma sorte, o Acórdão violou o artigo 1.022, inciso II, § único, inciso II, do Código de Processo Civil, ao não analisar a contradição apontada, bem como ao não se pronunciar sobre ponto requerido:
+ ..
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 210.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, acerca da controvérsia, manifestou-se o Tribunal de origem (fl. 127):
+Inicialmente trago à colação o entendimento sedimentado pelo STF, em sede de Repercussão Geral, no julgamento do RE 596832/RJ (Tema 228), in verbis:
+"É devida a restituição da diferença das contribuições para o Programa de Integração Social - PIS e para o Financiamento da Seguridade Social - Cofins recolhidas a mais, no regime de substituição tributária, se a base de cálculo efetiva das operações for inferior à presumida".
+Cumpre analisar a questão da legitimidade ativa para pleitear a restituição do indébito.
+As impetrantes são pessoas jurídicas de direito privado e, por meio de loja de conveniência, atuam no comércio varejista de cigarros e cigarrilhas.
+Ocorre que existe um sistema legislativo específico que regula a importação, fabricação, comercialização e a tributação de cigarros.
+Os importadores, os fabricantes e os comerciantes atacadistas, na condição de contribuintes e substitutos dos comerciantes varejistas, são os responsáveis pela apuração e pagamento do PIS/COFINS, cujos preços são previamente fixados através de tabela, conforme prevê o art. 53 da Lei nº 9.532/97, art. 3º da LC nº 70/91, art. 5º da Lei nº 9.715/98, art. 29 da Lei nº 10.865/04 e art. 62 da Lei nº 11.196/05, arts. 219 e 220, do Decreto nº 7.212/2010.
+ ..
+Constata-se, pois, que os substituídos tributários - comerciantes varejistas - devem vender o produto de acordo com o preço de venda fixado na tabela expedida pelo fabricante, que pode, inclusive, ser consultado através do sítio eletrônico da Receita Federal  ..
+Nesse diapasão, não há como considerar, no caso concreto, a possibilidade da existência de base de cálculo "inferior à presumida", conforme hipótese examinada no Tema 228/STF.
+Constou, ainda, do acórdão que julgou os Embargos Declaratórios (fl. 165):
+O Acórdão explanou de forma clara e suficiente os motivos norteadores da convicção formulada e adotou o entendimento de que a Embargante, que é comerciante varejista revendedora de cigarros e cigarrilhas, não é responsável pelo recolhimento do PIS e da COFINS incidentes sobre os referidos produtos, sujeitos à sistemática cumulativa, cujos contribuintes são os importadores, os fabricantes e os comerciantes atacadistas, nesse passo, não é parte legítima para pleitear a restituição de indébito das exações.
+Foi explanado no Acórdão, ainda, que de toda sorte, no caso de cigarros e cigarrilhas não ocorre a situação examinada pelo STF, no Tema 228, uma vez que o preço dos cigarros e cigarrilhas são tabelados, assim, não existe a possibilidade de a base de cálculo efetiva das operações ser inferior à presumida, o que revela, também, a inexistência de direito líquido e certo a ensejar o Mandado de Segurança.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No que diz respeito ao artigo 489, §1º, II, IV, do CPC/2015, relativo à tese de ausência de fundamentação, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do aludido dispositivo legal.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ART. 489 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 211/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
