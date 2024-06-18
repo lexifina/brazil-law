@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCELO DE OLIVEIRA E SILVA contra acórdão proferido pela Corte Especial assim ementado (fls. 2.558-2.559):
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. SUPERVENIÊNCIA DA LEI N. 14.230/2021. TEMA N. 1.199/STF. CONDUTA DOLOSA. IRRETROATIVIDADE. LIMITES DO JUÍZO DE ADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181 do STF).
+2. Aplica-se de forma vinculante o Tema n. 181 do STF quando o recurso extraordinário queira discutir: i) os fundamentos que impediram o conhecimento do recurso anteriormente julgado; ii) os fundamentos que impediriam esse conhecimento; ou iii) o mérito da causa, quando a insurgência anterior não ultrapassou a barreira da admissibilidade.
+3. No tocante à aplicação da Lei n. 14.230/2021, o Pretório Excelso, no julgamento do Tema n. 1.199, firmou teses segundo as quais (i) é necessária a comprovação de responsabilidade subjetiva dolosa na tipificação dos atos de improbidade administrativa; (ii) a revogação da modalidade culposa de improbidade administrativa é, em regra, irretroativa; (iii) no caso de atos culposos praticados na vigência do texto anterior, porém sem condenação transitada em julgado, deve ser feita nova análise do elemento subjetivo; e (iv) o novo regime prescricional não retroage, aplicando-se os novos marcos temporais apenas após a publicação da nova lei.
+4. Quanto à tipicidade, as instâncias ordinárias concluíram pela existência de conduta dolosa do agente, não se tratando de condenação por ato ímprobo culposo capaz de ensejar o reexame do elemento subjetivo da conduta.
+5. Afora a revogação da modalidade culposa dos atos de improbidade administrativa, não há nenhuma determinação por parte do Supremo Tribunal Federal, à luz das teses firmadas no julgamento do Tema n. 1.199, de aplicação retroativa da nova redação atribuída pela Lei n. 14.230/2021 aos dispositivos da LIA.
+6. As alterações promovidas na Lei de Improbidade Administrativa e o julgamento do referido paradigma pela Suprema Corte em nada impactam a solução dada à presente causa, tendo em vista as estreitas balizas do juízo de admissibilidade do recurso extraordinário, previstas no art. 1.030 do Código de Processo Civil.
+7. Agravo interno a que se nega provimento.
+A parte embargante apresenta petição incidental informando que interpôs reclamação constitucional perante o Supremo Tribunal Federal, a qual foi julgada procedente para julgar improcedente a Ação de Improbidade Administrativa contra si ajuizada.
+Requer que seja determinada "a extinção do feito quanto ao peticionário Marcelo de Oliveira e Silva, ante a improcedência do pleito quanto a ele, assegurada na Reclamação nº 64.629" (fl. 2.627).
+Às fls. 2.657-2.660 foi juntado aos autos ofício eletrônico do Supremo Tribunal Federal noticiando o julgamento do AgRg na Reclamação 64629, no qual, a Turma, por maioria, deu provimento ao agravo regimental e julgou procedente o pedido formulado na reclamação, para, desde logo, julgar improcedente, em relação ao Reclamante, o pleito realizado na Ação de Improbidade Administrativa originária.
+Desse modo, a pretensão formulada no presente recurso encontra-se prejudicada, dada a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, declaro prejudicado o exame dos presentes aclaratórios.
+Comunique-se as instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
