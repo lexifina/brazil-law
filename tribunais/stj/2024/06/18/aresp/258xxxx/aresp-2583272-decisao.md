@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A. contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+Alega a parte agravante que "não se espera que a Corte Superior reanalise fatos e provas, mas, tão somente, corrija a contrariedade aos arts. 186, 786 e 927 do Código Civil, art. 373, I e II, do Código de Processo Civil e Art. 2ª do CDC, tendo em vista que o E. Tribunal de Justiça responsabilizou a agravante pelo sinistro mesmo sem que restasse configurada qualquer conduta ilícita de sua parte, nem nexo de causalidade entre a sua conduta e os eventuais danos, e exigiu o ônus de comprovar o fato impeditivo, extintivo ou modificativo do direito da autora-recorrida, sem que esta tivesse se desincumbido de comprovar o fato constitutivo do seu direito".
+Contrarrazões apresentadas.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+A pretensão da parte recorrente encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador - no sentido de que "os elementos constantes dos autos se mostram suficientes para a prestação jurisdicional" e que, "evidenciados os requisitos necessários à reparação, e considerando que a seguradora, ora requerente, se sub-rogou aos direitos da segurada indenizada, não há outro caminho senão àquele conferido na sentença hostilizada, devendo-se, assim, ser mantida a condenação da concessionária de serviço público ao ressarcimento dos prejuízos causado e apurados, (..) a título de danos materiais, em face da sub-rogação" - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. REGRESSIVA DE RESSARCIMENTO PROPOSTA PELA SEGURADORA CONTRA CONCESSIONÁRIA DE SERVIÇO PÚBLICO DE ENERGIA. SUB-ROGAÇÃO. INCIDÊNCIA DO CDC. RELAÇÃO DE CONSUMO. REEXAME DO CONTEXTO FÁTICO-OBRIGATÓRIO. SÚMULA 7/STJ.
+1. Na hipótese dos autos, nota-se que o entendimento do Tribunal de origem está em conformidade com a orientação do STJ no sentido de que, sendo de consumo a relação entre a segurada e a concessionária, incide o Código de Defesa do Consumidor na relação entre a seguradora, que se sub-rogou nos direitos da segurada, e a concessionária.
+2. Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se a relação jurídica primígena, entre a concessionária e o usuário dos serviços, é relação de consumo, o que não se admite ante o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido (AgInt no AREsp 1.968.998/MT, relator Ministro Herman Benjamin, Segunda Turma, DJe de 15/3/2022)
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
