@@ -1,0 +1,100 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005584-87.2021.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TATIANNE LOPES BORGES
+RECORRIDO: EDILSON DE SIQUEIRA VAREJAO JUNIOR
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5005584-87.2021.8.08.0014
+RECORRENTE: TATIANNE LOPES BORGES
+RECORRIDO: EDILSON DE SIQUEIRA VAREJÃO JUNIOR
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. AGRESSÃO FÍSICA E VERBAL. AUSÊNCIA DE PROVAS. NEXO DE CAUSALIDADE NÃO CONFIGURADO. (1). TESE AUTORAL.
+A PARTE AUTORA ALEGA QUE O
+
+VÍNCULO ENTRE ELA E O REQUERIDO ADVÉM DO RELACIONAMENTO AMOROSO QUE A REQUERENTE MANTEVE COM O SR. EDILSON SIQUEIRA VAREJÃO, PAI DO REQUERIDO JÁ FALECIDO, POR QUASE UMA DÉCADA. NO ENTANTO, SEGUNDO A REQUERENTE, NUNCA FOI ACEITA PELA FAMÍLIA DO REQUERIDO, SOFRENDO ATAQUES, FÍSICOS E PSICOLÓGICOS, POR PARTE DOS DEMAIS MEMBROS. AFIRMA QUE, AO ENGRAVIDAR, O CONFLITO FOI INTENSIFICADO. OCORRE QUE, COM A MORTE DE EDILSON SIQUEIRA VAREJÃO, O FILHO DA REQUERENTE, AINDA MENOR, CONTINUOU MANTENDO CONTATO COM SEU IRMÃO, ORA REQUERIDO. AO LEVAR A CRIANÇA AO ENCONTRO DO REQUERIDO, A REQUERENTE ALEGA QUE FOI SURPREENDIDA COM XINGAMENTOS E AGRESSÃO. PUGNOU-SE QUE O REQUERIDO FOSSE CONDENADO NO MONTANTE DE R$ 20.000,00 (VINTE MIL REAIS) A TÍTULO DE DANOS MORAIS.
+(2). ANTÍTESE.
+EM SUMA, REQUEREU-SE QUE FOSSE JULGADO IMPROCEDENTES OS PLEITOS AUTORAIS.
+(3). DISPOSITIVO DA SENTENÇA.
+“
+DIANTE DESSAS CONSIDERAÇÕES, PROFIRO RESOLUÇÃO DE MÉRITO, COM BASE NO ARTIGO 487, INCISO I, DO CPC/15, E JULGO
+IMPROCEDENTES
+OS PEDIDOS INICIAIS
+.
+”.
+(4). RECURSO DA PARTE AUTORA.
+EM SÍNTESE, REQUER SEJA O RECURSO MANEJADO ACOLHIDO E PROVIDO PARA MODIFICAR A SENTENÇA DE PRIMEIRA INSTÂNCIA, JULGANDO PROCEDENTE A PRESENTE AÇÃO A FIM DE CONDENAR O REQUERIDO A INDENIZAR A RECORRENTE DANOS MORAIS NO VALOR DE
+R$ 20.000,00 (VINTE MIL REAIS)
+, SOFRIDOS EM DECORRÊNCIA DA AGRESSÃO SOFRIDA, BEM COMO EM RAZÃO DA CONDUTA VEXATÓRIA E HUMILHANTE. DEFENDE-SE QUE AS PROVAS ACOSTADAS AOS AUTOS SÃO SUFICIENTES A COMPROVAR O NEXO DE CAUSALIDADE ENTRE AS LESÕES DA RECORRENTE E A CONDUTA DO REQUERIDO. IGUALMENTE, ARGUIU-SE QUE RESTARAM COMPROVADAS AS AGRESSÕES MORAIS.
+(5). CONTRARRAZÕES DO REQUERIDO.
+REQUER, EM SUMA, SEJA NEGADO PROVIMENTO AO RECURSO INTERPOSTO PELO RECORRENTE.
+(6). DO MÉRITO
+.
+A AUTORA AJUIZOU A PRESENTE DEMANDA ALEGANDO QUE TERIA SIDO AGREDIDA PELA PARTE RÉ, SOBRETUDO EM RAZÃO DE O MESMO TÊ-LA EMPURRADO EM UMA VALA, O QUE TERIA LHE CAUSADO LESÕES. ALÉM DISSO, AFIRMA TER O REQUERIDO TER PROFERIDO DIVERSAS OFENSAS E AMEAÇAS CONTRA A AUTORA. A CONTROVÉRSIA DOS AUTOS CINGE-SE EM AFERIR SE HOUVE CONDUTA DO REQUERIDO A CAUSAR DANO MORAL INDENIZÁVEL À PARTE AUTORA.
+
+POIS BEM. APÓS ANÁLISE DE TODA DOCUMENTAÇÃO ACOSTADA NOS AUTOS, ENTENDO QUE O PRESENTE RECURSO NÃO DEVE SER ACOLHIDO. ISSO, POIS NÃO HÁ PROVAS CONTUNDENTES QUE HOUVE AGRESSÃO VERBAL PRATICADA PELO RECORRIDO, MUITO MENOS AGRESSÃO FÍSICA, ÔNUS PROBATÓRIO QUE INCUMBIA À RECORRENTE. NO VÍDEO JUNTADO NA INICIAL, NÃO É POSSÍVEL VERIFICAR QUE HOUVE EMPURRÃO/AGRESSÃO POR PARTE DO REQUERIDO. TAMBÉM NÃO É POSSÍVEL AFIRMAR QUE AS ESCORIAÇÕES CONSTATADAS PELO BOLETIM DE OCORRÊNCIA APRESENTADO SÃO FRUTO DE CONDUTA DO REQUERIDO, DE FORMA QUE HAVER SIDO RELATADO QUE A RECORRENTE SOFREU “LESÕES CONTUNDENTES” POR OCASIÃO DO EXAME MÉDICO NÃO É SUFICIENTE A CARACTERIZAR O NEXO DE CAUSALIDADE. DEVE-SE MENCIONAR, AINDA, QUE O DEPOIMENTO DO INFORMANTE E DA RECORRENTE NÃO SÃO APTOS A ASSEGURAR A NARRATIVA APRESENTADA NA EXORDIAL, CONSIDERANDO QUE NO VÍDEO NÃO É POSSÍVEL IDENTIFICAR, EM NENHUM MOMENTO, QUE A AUTORA CAI, TAMPOUCO QUALQUER AGRESSÃO PRATICADA PELO RECORRIDO. NESSE PARTICULAR, A RATIFICANDO AS CONSIDERAÇÕES ANTERIORES, CUMPRE ESCLARECER QUE, O ART. 373, I, CPC, DISPÕE SER ÔNUS DO AUTOR O FATO CONSTITUTIVO DE SEU DIREITO, POR ISSO, CABERIA À RECORRENTE APRESENTAR PROVAS CAPAZES DE TRAZER CLAREZA E CERTEZA A ESTE JUÍZO. APESAR DE HAVER A DEMONSTRAÇÃO DE FERIMENTOS POR MEIO DAS IMAGENS DE
+ID 10120841
+, E DO EXAME DE LESÕES CORPORAIS DE
+ID 10120842
+, ENTENDO QUE ESSAS PROVAS NÃO CONSEGUEM ATESTAR O NEXO DE CAUSALIDADE ENTRE A CONDUTA E O DANO, NÃO SENDO POSSÍVEL ASSEGURAR, POR MEIO DESSES DOCUMENTOS, A PRÁTICA DE ATO ILÍCITO POR PARTE DO REQUERIDO –
+QUE ELE TERIA EMPURRADO DOLOSAMENTE A AUTORA
+– OU AINDA QUE TERIA DITO OFENSAS VERBAIS E AMEAÇAS DIRECIONADAS A ELA. É PRECISO DIZER QUE OS FATOS IMPUTADOS NA INICIAL SÃO GRAVES E, JUSTAMENTE POR ISSO, NECESSÁRIO PROVAS ROBUSTAS A FIM DE QUE SE TENHA CERTEZA PARA IMPUTAR A SUA PRÁTICA A ALGUÉM. OUTROSSIM, O CASO EM DISCUSSÃO NÃO VERSA SOBRE HIPÓTESE DE DANO
+IN RE IPSA
+, O QUE TAMBÉM CORROBORA O NÃO ACOLHIMENTO DO RECURSO.
+ASSIM, CONSIDERANDO QUE NÃO
+HÁ NOS AUTOS OS ELEMENTOS PROBATÓRIOS MÍNIMOS A CORROBORAR A TESE AUTORAL, ESTA APENAS DEMONSTROU A EXISTÊNCIA DE CONTRATEMPOS NORMAIS DA VIDA COTIDIANA (DISCUSSÕES DERIVADAS DE UMA RELAÇÃO NÃO AMISTOSA), QUE, AO MEU VER SÃO INTRÍNSECOS ÀS RELAÇÕES HUMANAS, NÃO HÁ SE FALAR EM DANO MORAL NESTE SENTIDO:
+
+RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AGRESSÃO FÍSICA NÃO DEMONSTRADA.
+AUSÊNCIA PROVA MÍNIMA DA AGRESSÃO. AUSÊNCIA DE OFENSA À INTEGRIDADE DA AUTORA. DANO MORAL NÃO COMPROVADO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E DESPROVIDO. (TJPR - 1ª Turma Recursal - 0029420-82.2017.8.16.0018 - Maringá - Rel.: Juíza Melissa de Azevedo Olivas - J. 06.09.2018) (TJ-PR - RI: 00294208220178160018 PR 0029420-82.2017.8.16.0018 (Acórdão), Relator: Juíza Melissa de Azevedo Olivas, Data de Julgamento: 06/09/2018, 1ª Turma Recursal, Data de Publicação: 10/09/2018)
+;
+RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+PRELIMINAR DE CERCEAMENTO DE DEFESA AFASTADA. POSSIBILITADA A APRESENTAÇÃO DE ALEGAÇÕES FINAIS. MÉRITO.
+AGRESSÃO FÍSICA E VERBAL. OCORRÊNCIA NÃO COMPROVADA. CONTEÚDO PROBATÓRIO INSUFICIENTE.
+TESTEMUNHAS QUE NÃO PRESENCIARAM OS FATOS. DANO MORAL NÃO CONFIGURADO. SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO. 1.Trata-se de ação de indenização por dano moral em razão de agressão física e verbal. A sentença condenou o réu ao pagamento de danos morais no valor de R$5.000,00 (cinco mil reais) ao requerido. 2. Em razões recursais, preliminarmente, o requerido defende o cerceamento de defesa, vez que o juízo de origem proferiu sentença antes do término do prazo de 10 (dez) dias para apresentar alegações finais. No mérito, assevera que o autor não se desincumbiu do ônus de provar os fatos alegados, estando ausente o nexo de causalidade entre a conduta e os machucados apresentados pelo requerente. Subsidiariamente a nulidade da sentença, requer a improcedência da demanda. 3. De início, afasta a preliminar aventada. A audiência de instrução foi realizada em 26.06.2019 (mov. 18), sendo as partes intimadas na mesma oportunidade para apresentar impugnação a contestação e alegações finais. Encerrou-se o prazo para o protocolo das peças em 11.07.2019 (mov. 23) e a sentença foi proferida em 15.07.2019 (mov. 25.1). Assim, não há que se falar em cerceamento de defesa. 4. No mérito, merece provimento o pleito recursal.
+5. É necessário que a parte autora traga aos autos comprovação mínima dos fatos alegados, hábil a permitir a responsabilização do requerido, sem o que não é possível o reconhecimento do direito pleiteado. In casu, a prova apresentada pelo requerente restringe-se ao boletim de ocorrência (mov. 1.4) e exame médico (mov. 1.4), que, por si só, não comprovam o dano moral.
+6. Nenhum dos informantes ouvidos em juízo indicaram terem presenciado as alegadas agressões, limitando-se a relatarem o que ouviram das partes e o possível motivo para as agressões terem ocorrido. A esposa do requerido (mov. 18.5), afirma que presenciou o requerente caindo por diversas vezes enquanto descia a rua para sua casa, o que poderia ter gerado os machucados no joelho e cabeça. O filho do requerente, relata que apenas viu o pai dois dias depois dos fatos ocorrerem. Assim, persistindo dúvida acerca da real dinâmica dos fatos, ausente o nexo causal entre os machucados apresentados pelo requerente (mov. 1.4) e os fatos alegados, devendo a sentença ser reformada a fim de ser julgada improcedente a demanda. (TJPR - 5ª Turma Recursal dos Juizados Especiais - 0002899-78.2019.8.16.0035 - São José dos Pinhais - Rel.: Juíza Manuela Tallão Benke - J. 11.05.2020) (TJ-PR - RI: 00028997820198160035 PR 0002899-78.2019.8.16.0035 (Acórdão), Relator: Juíza Manuela Tallão Benke, Data de Julgamento: 11/05/2020, 5ª Turma Recursal dos Juizados Especiais, Data de Publicação: 14/05/2020)
+.
+PORTANTO, ENTENDO QUE NÃO MERECE REFORMA A SENTENÇA, SENDO INDEFERIDO O PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.
+(7).
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA DE PISO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. (8).
+POR FORÇA DA SUCUMBÊNCIA RECURSAL, CUSTAS PROCESSUAIS DEVIDAS, ASSIM COMO OS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 20% SOBRE O VALOR ATUALIZADO DA CAUSA. NO ENTANTO, RESTA SUSPENSA A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS) DIANTE DA CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE RECORRENTE.
+
+ISABELA GONÇALVES ADRIANO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr. FELIPE LEITÃO GOMES – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
