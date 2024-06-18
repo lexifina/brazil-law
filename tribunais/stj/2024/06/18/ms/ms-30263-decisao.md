@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado contra ato atribuído ao Ministro de Estado da Educação e ao Coordenador Geral da Gestão de Pessoas do referido Mistério, consubstanciado na Portaria n. 2, de 04/1/2024 (fl. 51).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como se extrai do breve relatório acima, a vestibular indica como ato impugnado a Portaria n. 2, de 4 de janeiro de 2024. O presente writ, contudo, foi proposto somente em 29/5/2024, quando ultrapassado o prazo de 120 dias previsto no art. 23 da Lei 12.016/09.
+Segundo a jurisprudência desta Corte, o prazo decadencial para a impetração da ação mandamental tem início, na hipótese dos autos, na data de publicação da portaria impugnada. Sobre o tema, confiram-se os seguintes julgados, proferido em casos fronteiriços:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECADÊNCIA PARA A IMPETRAÇÃO DE MANDADO DE SEGURANÇA. TERMO INICIAL. PUBLICAÇÃO DA PORTARIA DEMISSÓRIA. DESNE CESSIDADE DE INTIMAÇÃO PESSOAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte e o Supremo Tribunal Federal têm entendimento consolidado segundo o qual o termo inicial do prazo de decadência para impetração de mandado de segurança contra aplicação de penalidade disciplinar é a data da publicação do respectivo ato no Diário Oficial, e não a posterior intimação pessoal do servidor.
+III - Na espécie, a portaria demissória foi publicada em 15.10.2019, data em que foi dada à parte interessada, para fins de impetração, a ciência dos respectivos atos, nos termos do art. 23, da Lei n. 12.016/2009, não valendo para tanto, conforme reiterada jurisprudência, a aventada notificação ou intimação pessoal posteriormente efetivada.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no MS n. 25.785/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 15/8/2023, DJe de 17/8/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. CASSAÇÃO DA PORTARIA DE ANISTIA. DECADÊNCIA DO DIREITO À IMPETRAÇÃO. TERMO INICIAL. DATA DA RESPECTIVA PUBLICAÇÃO DO ATO NO DIÁRIO OFICIAL. PRECEDENTES DO STF E DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno aviado contra decisão que julgara Mandado de Segurança impetrado na vigência do CPC/2015.
+II. Trata-se de Mandado de Segurança Individual, impetrado pela parte ora agravante, contra ato comissivo praticado pela autoridade impetrada, consubstanciado na Portaria 3.474/2020, que anulou a Portaria 1.764/2005, do Ministro de Estado da Justiça, que havia declarado a parte impetrante anistiado político, nos termos da Lei 10.559/2001.
+III. É firme o entendimento no âmbito do Pretório Excelso e desta Corte, no sentido de que o marco inicial para a contagem do prazo decadencial para impetrar Mandado Segurança contra a cassação da portaria de anistia é a data da publicação do ato no Diário Oficial, momento no qual o ato coator está apto a produzir seus efeitos, gerando lesão à esfera jurídica do interessado.
+IV. No caso, objetivando a parte agravante o reconhecimento da ilegalidade do ato apontado como coator, consubstanciado na Portaria 3.474, de 18/12/2020, publicada no Diário Oficial do dia 22/12/2020, o prazo decadencial para a propositura do presente mandamus iniciou-se em 23/12/2020, quarta-feira, e findou-se em 22/04/2021, quinta-feira. Entretanto, o presente writ somente foi ajuizado em 06/05/2021, quinta-feira, quando já decorrido o prazo decadencial de 120 dias previsto no art. 23 da Lei 12.016/2009.
+V. Agravo interno improvido.
+(AgInt nos EDcl no MS n. 27.695/DF, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 27/6/2023, DJe de 30/6/2023.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. TUTELA DE URGÊNCIA. PROCESSO DISCIPLINAR. SERVIDOR PÚBLICO. DEMISSÃO. TERMO A QUO. DECADÊNCIA. DATA DA PUBLICAÇÃO NO DIÁRIO OFICIAL. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança, com pedido de liminar, contra ato do Ministro da Justiça e Segurança Pública, consubstanciado no indeferimento, no mérito, do pedido de revisão do processo administrativo em que lhe foi aplicada a pena de demissão - Portaria n. 147. Nesta Corte, o pedido de tutela de urgência não foi conhecido.
+II - Cumpria ao impetrante manejar o recurso cabível, o que não foi feito, limitando-se este a protocolar petição de juntada de novo documento, no qual há certificação de que o impetrante fora intimado da decisão administrativa em data posterior à publicação da portaria no Diário Oficial da União, o que a seu ver implicaria no afastamento da decadência a se considerar o termo a quo a respectiva data da intimação.
+III - Dessa forma, suplantado o prazo recursal, sem o manejo do recurso cabível, não há falar em revisão da decisão proferida pela juntada do documento novo.
+IV - Ademais, ainda que assim não fosse, o entendimento pacífico nesta Corte Superior, quanto ao início do prazo de decadência para impetração do mandado de segurança, em caso de demissão de servidor público, é a data da publicação no Diário Oficial, não a data de intimação, neste sentido: AgInt no MS n. 24.706/DF, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 3/5/2022, DJe de 10/5/2022 e AgInt no MS n. 24.338/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 10/2/2021, DJe de 30/3/2021.
+V - Agravo interno improvido.
+(AgInt na TutPrv no MS n. 28.191/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 20/9/2022, DJe de 22/9/2022.)
+No caso ora sub judice, verificada a propositura da ação após o prazo decadencial, deve ser a inicial indeferida, nos termos do art. 10 da Lei 12.016/09.
+ANTE O EXPOSTO, indefiro a vestibular.
+Custas pelo impetrante.
+Sem condenação em honorários advocatícios sucumbenciais (art. 25 da Lei n. 12.016/09 e Súmula 105/STJ).
+Intime-se.
+EMENTA
