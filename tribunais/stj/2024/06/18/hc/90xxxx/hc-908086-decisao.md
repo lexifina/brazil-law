@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RUAN PABLO RESSURREICAO GUILHERME, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO - TJES no julgamento do Habeas Corpus Criminal n. 5000575-84.2024.8.08.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 7 anos, 3 meses e 15 dias de reclusão e 1 ano de detenção, além do pagamento de 730 dias-multa, pela prática, respectivamente, dos crimes de tráfico de drogas e posse irregular de arma de fogo de uso permitido (art. 33, caput, da Lei n. 11.343/2006 e art. 12 da Lei n. 10.826/2003).
+Irresignada, a defesa impetrou habeas corpus perante a Corte de origem, que denegou a ordem, em acórdão que restou assim ementado:
+"DA VIA ELEITA - PRECEDENTES DO STF E DO STJ - ILEGALIDADE NÃO MANIFESTADA - ANÁLISE DO ART. 33, §4º DA LEI DE DROGAS - LEGALIDADE - ORDEM D ENEGADA.
+1. Conforme já definiu o STF: "É pacífica a jurisprudência do STF, apoiada, aliás, no próprio inc. LXVIII do art. 5º da CF e no art. 647 do CPP, no sentido de que não se presta o habeas corpus à defesa do direito estranho à liberdade de locomoção, pois é para preservá-lo - e só a ele - que o remédio heroico foi instituído." (STF, 1ªT., HC 75.624-7, Rel. Sidney Sanches, DJU 5.12.97, p. 63.906)
+2. A rejeição da aplicação da figura do tráfico privilegiado não se deu somente em relação ao quantitativo de drogas, tendo o magistrado transcrevendo, para além das drogas apreendidas, a situação fática desenvolvida pelo acusado na localidade onde mora, suas vinculações com o crime e, as condições de sua prisão.
+3. Ordem denegada." (fls. 57/58)
+No presente writ, a defesa sustenta que o paciente atende aos requisitos legais para a concessão da redutora penal prevista no art. 33, § 4º, da Lei de Drogas. Afirma a inidoneidade da associação feita pelo Tribunal de origem, entre a suposta dedicação do paciente à atividade criminosa e a quantidade de drogas com ele apreendida.
+Afirma a existência de indevido bis in idem na dosimetria da pena, decorrente da utilização da quantidade de droga para a exasperação da pena-base e indeferimento da minorante do tráfico privilegiado.
+Acrescenta que a condenação pela prática do delito previsto no art. 12 da Lei n. 10.826/2003 tampouco legitima o afastamento da referida causa de diminuição da pena.
+Requer, assim, a concessão da ordem para que seja aplicada a redutora penal do tráfico privilegiado, em sua fração máxima, com respectiva fixação do regime aberto para o cumprimento da pena.
+A liminar foi indeferida por decisão de fls. 74/76.
+As informações foram prestadas às fls. 82/88 e 93/108.
+O Ministério Público Federal - MPF pugnou pelo não conhecimento do writ, em parecer de fls. 111/119.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Todavia, considerando as alegações expostas na inicial, mostra-se razoável verificar a existência de eventual constrangimento ilegal.
+De início, registra-se que não ocorreu o alegado bis in idem, pois o redutor da pena não foi afastado pela quantidade das drogas, mas por outros elementos fáticos indicativos da dedicação do paciente às atividades criminosas, como se pode verificar do seguinte excerto do voto condutor do julgado atacado:
+"O magistrado, ao afastar a figura do art. 33, §4º, da Lei de Drogas, o faz diante de uma análise circunstancial transcrevendo, para além das drogas apreendidas, a situação fática desenvolvida pelo acusado na localidade onde mora, suas vinculações com o crime e, as condições de sua prisão." (fl. 67)
+Por fim, mostra-se impossível a aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006, considerando que a apreensão de armas ou munições no contexto do tráfico de drogas é motivo impeditivo dessa benesse, segundo a orientação jurisprudencial desta Corte:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E POSSE IRREGULAR DE ARMA DE FOGO. AUSÊNCIA DE MATERIALIDADE. INOVAÇÃO RECURSAL. INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PLEITO DE APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS DEMONSTRADA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à falta de materialidade delitiva pela ausência do laudo toxicológico definitivo, "É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente" (EDcl no AgRg no REsp 1660712/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 8/6/2018).
+2. A revisão do entendimento firmado pelo Tribunal a quo, no sentido de absolver o agravante por insuficiência de provas, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do Superior Tribunal de Justiça.
+3. A jurisprudência desta Corte é firme no sentido de que a apreensão de armas, munições e petrechos para mercancia indica que o agente não é traficante eventual e permite o afastamento do redutor do tráfico privilegiado por demonstrar à dedicação a atividades criminosas.
+4. No caso dos autos, além da condenação pelo crime de tráfico de drogas, o acusado foi condenado pelo crime do art. 12 da Lei n. 10.826/2003 devido à apreensão de arma de fogo de uso permitido.
+5. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.337.750/ES, de minha relatoria, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS, PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E PORTE ILEGAL DE ARMA DE FOGO E DE MUNIÇÕES DE USO PERMITIDO. DOSIMETRIA. WRIT IMPETRADO CONTRA O ACÓRDÃO QUE JULGOU A REVISÃO CRIMINAL. AUSÊNCIA DE HIPÓTESE DO ART. 621 DO CPP. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DE DROGA APREENDIDA (2.753,7 G DE COCAÍNA). APLICAÇÃO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DA CONDUTA CRIMINOSA QUE, SOB A PERSPECTIVA DO JULGADOR ORDINÁRIO, INDICAVAM DEDICAÇÃO AO CRIME. IDONEIDADE. PRECEDENTES DESTA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A tese veiculada pela defesa não guarda correspondência com nenhuma das hipóteses previstas, criteriosamente, no art. 621 do Código de Processo Penal, consubstanciando mera rediscussão de matéria decidida nos autos.
+2. Não há ilegalidade no incremento da pena-base em 1/6, pela quantidade de entorpecente apreendido (2.753,7 g de cocaína).
+3. O Tribunal de origem afastou a causa de diminuição de pena do art. 33, § 4º, da Lei de Drogas, entendendo que o agravante se dedicava ao tráfico de forma habitual, com base nos elementos fático-probatórios dos autos, pois além da grande quantidade de droga apreendida, armas de fogo e munições, o agravante foi preso após longa investigação criminal, na qual foi apontado como responsável pelo transporte de drogas. Logo, não há falar em ilegalidade na vedação do redutor especial da pena, ao contrário, os fundamentos lançados no acórdão guardam perfeita harmonia com a jurisprudência consolidada nesta Corte. Precedentes.
+4. Uma vez afastado o redutor, ao argumento de que o agravante se dedicava a atividades criminosas, não se mostra possível rever tal entendimento, porquanto demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 683.182/SP, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, DJe 5/10/2021).
+5. Agravo regimental improvido.
+(AgRg no HC n. 880.248/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
