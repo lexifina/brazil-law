@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por LUIZ HENRIQUE FALCÃO TEIXEIRA contra a decisão proferida pela Presidência do Superior Tribunal de Justiça (STJ) que não conheceu de seu agravo por entender ser incabível a interposição de novo recurso especial contra a decisão da Corte de origem que havia apreciado o agravo interno previsto no art. 1.030, I, b, § 2º, do Código de Processo Civil (CPC).
+A parte agravante aduz, em síntese, que o segundo recurso especial questiona unicamente a imposição da multa de 1% aplicada por ocasião do julgamento do agravo interno, o qual tinha por objetivo esgotar a instância.
+Requer, por fim, a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Impugnação às fls. 711/713.
+É o relatório.
+Com razão o agravante, motivo pelo qual reconsidero a decisão agravada.
+A Presidência do Tribunal de origem concluiu que o acórdão impugnado estava em perfeita consonância com o entendimento do Supremo Tribunal Federal, firmado em repercussão geral, quando do julgamento do Tema 1.142, e negou seguimento ao recurso especial com amparo no art. 1.030, I, b, do CPC.
+Dessa decisão a parte agravante interpôs agravo interno dirigido àquela Corte regional, que proferiu o acórdão de fls. 568/587 ratificando a decisão denegatória de seguimento ao recurso especial, aplicando, no entanto, multa de 1% sobre o valor atualizado da causa, com fundamento no art. 1.021, § 4º, do CPC.
+É contra a imposição da multa que se insurge o ora agravante e, neste ponto, destaco o entendimento desta Corte de que deve ser aplicada a multa prevista no art. 1.021, § 4º, do CPC nos casos em que a parte insurge-se contra decisão fundamentada em precedente qualificado (recurso repetitivo latu sensu). Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. CONSTRIÇÃO JUDICIAL DE VALORES. GARANTIA DO JUÍZO. OBSERVÂNCIA DOS CONSECTÁRIOS LEGAIS À LUZ DO TÍTULO JUDICIAL. CABIMENTO. LIBERAÇÃO DO DEVEDOR. INVIABILIDADE. NOVA REDAÇÃO DO TEMA 677/STJ.
+1. Na origem, o Tribunal firmou entendimento de que os valores judicialmente bloqueados não afastam a incidência dos consectários legais fixados nos termos do título judicial enquanto não forem postos à disposição da parte credora, configurando efetivo pagamento do valor devido, hipótese ainda mais inarredável no caso dos a utos em razão dos entraves processuais criados pela parte devedora, ora agravante, para transferência do valor à conta judicial e sua definitiva liberação.
+2. O entendimento de origem se coaduna com a jurisprudência do STJ, inclusive com o entendimento firmado no Tema n. 677/STJ, com a revisão promovida com o julgamento do REsp n. 1.820.963/SP, no qual se assentou a tese de que, "Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial".
+3. O STJ entende que deve ser aplicada a multa prevista no art. 1.021, § 4º, do CPC nos casos em que a parte insurge-se contra decisão fundamentada em precedente qualificado (recurso repetitivo latu sensu).
+Agravo interno improvido com aplicação de multa.
+(AgInt no AREsp 2.182.120/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM FUNDAMENTO EM PRECEDENTE JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. MANIFESTA IMPROCEDÊNCIA. MULTA DO ART. 1021, §4º DO CPC. CABIMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 2.012.709/SC, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. PAGAMENTO DE ATRASADOS. EXCESSO DE EXECUÇÃO. INAPLICABILIDADE DA LEI N. 11.960/09 PARA O CÁLCULO DA CORREÇÃO MONETÁRIA. DECISÃO PROFERIDA EM CONFORMIDADE COM ENTENDIMENTO FIRMADO EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RECURSO EXTRAORDINÁRIO N. 870.947/SE E RECURSO REPETITIVO N. 1.495.146/MG. MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. CABIMENTO.
+(..)
+3. O acórdão recorrido foi proferido em consonância tanto com o entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral, quanto com a compreensão adotada por esta Corte no julgamento do já mencionado recurso especial repetitivo, não havendo nenhuma peculiaridade que justifique solução diversa.
+4. Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o regime da Repercussão Geral ou sob o rito dos Recursos repetitivos (AgInt nos EDcl no REsp 1.373.915/AM, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 16/5/2019).
+5. Agravo interno não provido com aplicação de multa.
+(AgInt no REsp 1.919.006/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Ante o exposto, reconsiderando a decisão de fls. 698/699, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
