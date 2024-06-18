@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, em que são suscitantes a CONTAX S.A. - EM RECUPERAÇÃO JUDICIAL e ATMA PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL, e suscitados, o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP e o JUÍZO DA 43ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ.
+As suscitantes informam que foi deferida sua recuperação judicial em 15/06/2022. Destacam que (e-STJ fls. 5/7):
+(..) a Suscitante peticionou noticiando a recuperação judicial, apresentando todos os documentos comprobatórios da decisão do juízo falimentar, que listavam ainda as diretrizes da recuperação judicial a serem respeitadas. Dentre essas disposições, está a desnecessidade de garantia de juízo para a interposição de recursos, determinação essa definida pelo § 10, do art. 899 da CLT.
+Contudo, ao buscar por meio da oposição de Embargos à Execução, posteriormente, Agravo de Petição, para apontar seus direitos que não foram observados pelos cálculos homologados, a Suscitante foi surpreendida ao não ter seus embargos e seu agravo conhecidos por ausência de garantia de juízo, ainda que devidamente comprovada a sua recuperação judicial.
+(..)
+Especificamente, o MM. Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central da Comarca de São Paulo/SP proferiu a r. decisão que deferiu o pedido de Recuperação Judicial do Suscitante e respectivo grupo de empresas em 15/06/2022, determinando que as recuperandas são isentas de depósito recursal ("Decisão do suscitante - Decisão Processamento da RJ_15/06/2022"). Senão, vejamos:
+(..)
+Mesmo informado clara e tempestivamente da r. decisão referida, o Juízo, ora Segundo Suscitado, (Despacho abaixo), deixou de conhecer o Agravo de Petição interposto por ausência de garantia de juízo:
+Postulam, em caráter liminar, "a suspensão da execução nos autos do processo de nº 0100693-39.2022.5.01.0043, até o trânsito em julgado do presente conflito de competência" (e-STJ fl. 21). No mérito, pedem o reconhecimento da competência exclusiva do Juízo da recuperação.
+É o relatório.
+Decido.
+O JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP, onde tramita a recuperação judicial, decidiu que (e-STJ fls. 99/100):
+Desde 2017 as empresas em recuperação judicial são isentas depósitos recursais para interposição de recursos, não havendo mais a necessidade de garantia do Juízo para futura condenação. Entretanto, ainda remanescem diversos casos nos quais já se efetuou o depósito recursal em determinando recurso em trâmite. Nestes caso, o STJ já consolidou o entendimento de que compete ao Juízo da recuperação judicial deliberar sobre a liberação ou não de tais recursos. Nesse sentido, cito os seguintes precedentes:
+(..)
+Considerando-se que o depósito recursal tem por finalidade garantir a execução da sentença e o pagamento da condenação, se houver, sua reversão se dará para o adimplemento de crédito trabalhista assim reconhecido por decisão judicial.
+Logo, como tais créditos, num juízo de cognição sumária, estarão sujeitos à recuperação judicial e seu pagamento deverá ocorrer nos termos do PRJ a ser votado em AGC, não há qualquer razão para que tais valores permaneçam à disposição do Juízo trabalhista ou que sejam levantados pelos credores concursais trabalhistas, justamente porque os créditos lá reconhecidos estão abarcados pelo regime jurídico da Lei 11.101/2005.
+Diante do exposto, pela competência já reconhecida pelo C. STJ a este Juízo recuperacional, determino, por ora, que eventuais valores dos depósitos recursais trabalhistas listados pelas partes autoras sejam mantidos nos respectivos autos, sem que se defira levantamento aos credores trabalhistas, solicitando a colaboração dos respectivos Juízos trabalhistas no atendimento desta decisão
+Ocorreu o deferimento da recuperação judicial, tendo o Juízo da recuperação decidido que (e-STJ fl. 115):
+16) Em razão do deferimento do processamento da recuperação judicial, nos termos do art. 49 da Lei 11.101/2005 e do quanto decidido no REsp 1.840.531-RS, considerando a natureza jurídica dos depósitos recursais em termos expostos no item 02 da decisão de fls. 9.674/9.682, agora é caso de se reajustar a tutela de urgência anteriormente concedida para, reconhecer a necessidade de liberação de valores oriundos de depósitos recursais existentes nas demandas trabalhistas propostas contra as recuperandas, uma vez que os créditos lá discutidos são de natureza concursal e, em cooperação judicial, solicitar aos respectivos Juízos Trabalhistas a sua imediata liberação para as recuperandas.
+A Justiça laboral entendeu que (e-STJ fls. 75/76):
+Ocorre que, efetivamente, o art. 884 da CLT prevê que a admissibilidade, tanto dos embargos à execução, como do agravo de petição, fica condicionada à garantia da execução.
+Essa exigência alcança o agravo de petição por ser este o recurso cabível das decisões do juízo na execução. Nesse sentido é a Súmula nº 128 do C. TST, in verbis:
+(..)
+A necessidade de garantia da execução ganha relevo na presente situação, em que se trata de execução definitiva de crédito trabalhista.
+Friso que a parte deveria ter observado que a garantia do Juízo deve ser total, dada a exigência definida no artigo 884 da CLT, cuja finalidade é assegurar a liquidação integral do crédito, para que se permita a análise das alegações impugnativas apresentadas de parte a parte.
+Note-se que a recuperação judicial não afasta do executado a obrigação de proceder à garantia do Juízo antes de apresentar embargos à execução, tendo em conta que o artigo 884, § 6º, da CLT, com redação dada pela Lei 13.467/2017, aplicável aos processos em fase de execução, não isentou as empresas em recuperação judicial, estabelecendo a isenção da garantia do juízo ou penhora exclusivamente às entidades filantrópicas e/ou aos respectivos membros da diretoria.
+Da leitura das decisões dos Juízos suscitados constantes nos autos, não se verifica a existência de conflito.
+Consoante entendimento do STJ, "a caracterização do conflito de competência depende da inobservância do dever de recíproca cooperação (CPC, arts. 67 a 69), com a divergência ou oposição entre os Juízos acerca do objeto da constrição ou sobre a forma de satisfação do crédito tributário" (AgInt no CC n. 187.372/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 28/3/2023, DJe de 3/4/2023).
+No caso, não há decisão do Juízo da recuperação determinando a isenção da suscitante de realizar qualquer depósito recursal. O que foi apreciado e decidido pelo JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP foi o pedido de levantamento de depósito recursal efetivado nas reclamações trabalhistas.
+Portanto, inexiste, por ora, conflito de c ompetência.
+Diante do exposto, NÃO CONHEÇO do conflito de competência.
+Publique-se  e  intimem-se.
+EMENTA
