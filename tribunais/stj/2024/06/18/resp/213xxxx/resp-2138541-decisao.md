@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por PORCELANA SCHMIDT S.A.- EM RECUPERAÇÃO -, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO EMBARGOS DE TERCEIRO Penhora Bem Imóvel Alienação fiduciária em garantia Sentença de improcedência Apelo da embargante Intempestividade recursal Preliminar afastada Crédito de natureza extra concursal, que não se submete à recuperação judicial da empresa garantidora Aplicação do art. 49, § 3º, da Lei 11.101/2005 Ajuizamento de execução pelo credor fiduciário que não implica renúncia tácita à garantia Precedente do TJSP Essencialidade do bem para a atividade empresarial da embargante que deve ser apreciado pelo juízo universal da recuperação judicial Precedente do STJ Incidência dos encargos contratuais Cabimento Retenção por benfeitorias Impossibilidade, por expressa disposição contratual Sentença mantida RECURSO DESPROVIDO." (e-STJ fl. 506).
+No recurso especial (e-STJ fls. 519/531), a recorrente alega violação do art. 113 do Código Civil.
+Sustenta, em síntese, que
+"Ao optar pelo ingresso da execução de pagar quantia certa, e não com as medidas necessárias para fins de expropriação dos bens dados em garantia fiduciária pela Recorrente, o Recorrido renunciou à garantia fiduciária a que fazia jus, devendo o valor da dívida se submeter aos efeitos da recuperação judicial do GRUPO SCHMIDT" (e-STJ fl. 525)
+Subsidiariamente, afirma que é evidente a afronta à boa-fé objetiva e à teoria "duty mitigate to the loss" pela impossibilidade do direito de retenção pelo valor das benfeitorias realizadas e que venham a ser no trâmite da presente ação, o que se requer com fundamento no disposto no art. 1.219 do CC.
+No ponto, alega que
+"(..) a opção pela execução de quantia certa pela Recorrida, e a não consolidação da propriedade ao momento do ingresso, implicou na multiplicação da dívida em 5 (cinco) vezes ao valor inicialmente devido, cujo imóvel àquele interregno, por si só, seria suficiente à satisfação da obrigação" (e-STJ fl. 531).
+Com as contrarrazões (e-STJ fls. 534/543), o recurso foi admitido, subindo os autos a esta Corte.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+O aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, consoante a qual a renúncia à garantia fiduciária deve ser expressa, admitindo-se apenas excepcionalmente sua presunção.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INEXISTÊNCIA DE RENÚNCIA ÀS GARANTIAS FIDUCIÁRIAS. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CRÉDITO NÃO SUJEITO AOS EFEITOS DA RECUPERAÇÃO DA DEVEDORA. ART. 49, § 3º, DA LEI N. 11.101/2005. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante pacífica jurisprudência do Superior Tribunal de Justiça, por força do art. 49, § 3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária. Precedentes.
+1.1. Tem-se expressamente assegurado no comando legal (art. 49, § 3º, da Lei n. 11.101/2005) que "prevalecerão os direitos de propriedade sobre a coisa e as condições contratuais" , afastando por completo não apenas o bem, mas o próprio contrato por ele garantido, dos efeitos da recuperação judicial.
+2. Ademais, "a. renúncia à garantia fiduciária deve ser expressa, cabendo, excepcionalmente, a presunção da abdicação de tal direito (art. 66-B, § 5º, da Lei 4.728/1965 c/c art. 1.436 do CC/2002)" - (REsp 1338748/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 28/06/2016).
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp nº 2.076.539/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+"AGRAVO INTERNO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITOS CREDITÓRIOS. CRÉDITO NÃO SUJEITO AOS EFEITOS DA RECUPERAÇÃO DA DEVEDORA. ART. 49, § 3º, DA LEI Nº 11.101/2005. EXECUÇÃO EXTRAJUDICIAL. RENÚNCIA À GARANTIA FIDUCIÁRIA. INOCORRÊNCIA.
+1. A norma de regência da recuperação judicial, apesar de estabelecer que todos os créditos existentes na data do pedido, ainda que não vencidos, estejam sujeitos à recuperação judicial (LRE, art. 49, caput), também preconiza, nos §§ 3º e 4º do dispositivo, as exceções que acabam por conferir tratamento diferenciado a determinados créditos, normalmente titulados pelos bancos, afastando-os dos efeitos da recuperação, justamente visando conferir maior segurança na concessão do crédito e diminuindo o spread bancário.
+2. "A renúncia à garantia fiduciária deve ser expressa, cabendo, excepcionalmente, a presunção da abdicação de tal direito (art. 66-B, § 5º, da Lei 4.728/1965 c/c art. 1.436 do CC/2002)" (REsp 1338748/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 28/06/2016).
+3. Na hipótese, não houve renúncia expressa nem tácita da garantia fiduciária pelo credor, encontrando-se o acórdão recorrido em desconformidade com entendimento firmado nesta Corte.
+4. Agravo interno provido para dar provimento ao recurso especial" (AgInt no AREsp nº 1.569.649/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/9/2021, DJe de 17/9/2021).
+"RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CRÉDITO NÃO SUJEITO AOS EFEITOS DA RECUPERAÇÃO DA DEVEDORA. ART. 49, § 3º, DA LEI Nº 11.101/2005. EXECUÇÃO EXTRAJUDICIAL. PEDIDO DE PENHORA ON LINE. RENÚNCIA À GARANTIA FIDUCIÁRIA. INOCORRÊNCIA.
+1. A norma de regência da recuperação judicial, apesar de estabelecer que todos os créditos existentes na data do pedido, ainda que não vencidos, estejam sujeitos à recuperação judicial (LRE, art. 49, caput), também preconiza, nos §§ 3º e 4º do dispositivo, as exceções que acabam por conferir tratamento diferenciado a determinados créditos, normalmente titulados pelos bancos, afastando-os dos efeitos da recuperação, justamente visando conferir maior segurança na concessão do crédito e diminuindo o spread bancário:
+2. A renúncia à garantia fiduciária deve ser expressa, cabendo, excepcionalmente, a presunção da abdicação de tal direito (art. 66-B, § 5º, da Lei 4.728/1965 c/c art. 1.436 do CC/2002).
+3. Na hipótese, não houve renúncia expressa nem tácita da garantia fiduciária pelo credor, mas sim, em razão das circunstâncias do caso, como medida acautelatória, pedido de penhora do ativo até que as garantias fossem devidamente efetivadas.
+4. Recurso especial não provido" (REsp nº 1.338.748/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2º/6/2016, DJe 28/6/2016 - grifou-se).
+Logo, não merece reparos o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Quanto ao pedido de retenção pelo valor das benfeitorias, o aresto atacado assim se pronunciou:
+Não prospera, igualmente, o pedido delimitação do valor da garantia ao valor original do débito, uma vez que o aumento do valor da dívida se deve à incidência de encargos contratuais decorrentes diretamente da Cédula de Crédito Bancário objeto de execução (fls. 161/170).
+Por fim, também não merece acolhida o pedido de retenção das benfeitorias, por contrariar previsão contratual expressa que consta da Cláusula 3.1 do "Instrumento Particular de Constituição de Alienação Fiduciária em Garantia" (fls.258/288).
+Assim, analisadas as peculiaridades do caso em tela, aliada ao conjunto probatório, é de rigor a mantença da r. sentença, ficando ratificados in totum s seus fundamentos, eis que suficientemente motivada" (e-STJ fls. 513/514).
+Nesse contexto, o acolhimento da pretensão recursal esbarra nos enunciados das Súmulas nº 5 e 7/STJ, tendo em vista que demandaria o reexame das circunstâncias fáticas e interpretação de cláusula contratual, procedimentos incompatíveis com o recurso especial.
+Ante o exposto, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da execução, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
