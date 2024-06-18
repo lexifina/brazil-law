@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se embargos de declaração opostos por EURICO BARBOSA DOS SANTOS FILHO contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial, pelos seguinte fundamentos:
+i) óbice da Súmula 284/STF, visto que a parte apontou violação do art. 1.022 do Código de Processo Civil, mas não indicou de forma expressa a existência de obscuridade, omissão ou contradição nas razões recursais;
+ii) a revisão dos fundamentos do acórdão recorrido, no que diz respeito à necessidade de realização de provas, demandaria o reexame de matéria fático-probatória, o que fez incidir o óbice da Súmula 7/STJ.
+Em suas razões, o embargante reitera os mesmos argumentos veiculados no recurso especial acerca da violação dos arts. 355, 364, § 2º, 371 do Código de CPC, visando a reforma do julgado estadual.
+Refuta o óbice da Súmula 284/STF, aduzindo que embora de forma suscinta " ..  é perfeitamente compreensível o recurso e a matéria impugnada, com a indicação precisa do vício existente no r. acórdão recorrido." (e-STJ, fl. 906).
+Defende que a Súmula 7/STJ
+" ..  é inaplicável ao caso, pois análise do direito ao contraditório, e de manifestação sobre as provas produzidas, bem como o de conhecer as razões que fundamentaram a sentença, suscitado pela parte dispensa o revolvimento de fatos e provas, porquanto se tratam de matérias que demandam exame de questões acerca de como deve ser julgado um determinado processo, qual o rito a ser observado, garantindo à parte participar ativamente do processo decisório, e de ter conhecimento sobre os fundamentos das razões de decidir." (e-STJ, fl. 913).
+Requer, ao final, o acolhimento dos presentes embargos para sanar as omissões apontadas, bem conhecer das razões que fundamentam o livre convencimento motivado.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+Todavia, o  embargante não aponta omissões, contradições ou obscuridades no acórdão que justifiquem esclarecimento. Ao contrário, veiculam inconformismo com a decisão proferida quanto a seu mérito.
+- Da violação do art. 1.022 do CPC
+De fato, nas razões do recurso especial a parte não apontou de forma expressa omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Do reexame de provas.
+Na hipótese, impõe-se destacar que o acórdão decidiu de forma clara e expressa que a jurisprudência firmada nesta Corte Superior é no sentido de que, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Nesse sentido: AgInt no REsp 1.429.272/MA, 4ª Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017.
+Observa-se, ademais, que o TJ/GO afastou a pretensão do agravante amparado nos seguintes fundamentos:
+" ..  o requerido/1º apelado não trouxe aos autos elementos de convicção que comprovassem a alegação de que agiu em legítima defesa, não se desincumbindo do ônus previsto no artigo 373, inciso II, do Código de Processo Civil.
+5.2.3 Ademais, como bem ponderado pelo magistrado sentenciante "apesar de existir testemunhas compromissadas confirmando que presenciaram o início das agressões por parte do autor (mov. 14), inexiste nos autos outras provas que corroborem a versão dada pelo requerido. Ademais, ainda que fosse comprovado as agressões recíprocas, o conjunto probatório dos autos, evidencia a desproporcionalidade da ação perpetrada pelo requerido, o que causou danos na face do autor"; e conclui que "restou incontroverso na presente demanda, pelas provas materiais e testemunhais produzidas nos autos, que o autor sofreu injusta agressão física do requerido, não havendo que se falar em excludente ou minorante da culpabilidade do agressor". (mov. 92)
+5.3 Acrescente-se que o 2º apelante não negou as agressões contra o autor, tendo limitado-se, apenas, a justificá-las.
+5.4 Desse modo, reputo por bem comungar do entendimento manifestado pelo magistrado sentenciante, em relação ao reconhecimento da culpa exclusiva do requerido/2º apelante pelos danos sofridos pela vítima/2º apelado, decorrentes das agressões físicas."
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere ao pedido de produção de prova, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Cumpre assinalar, que o mero descontentamento da parte com a decisão não torna cabível o recurso de embargos de declaração, que servem ao aprimoramento do julgado, mas não à sua modificação, apenas excepcionalmente admitida.
+Observa-se, ainda, o nítido propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração
+Assim, dissociado, o pleito, de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
