@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GUILHERME PASCHOAL LUQUEZE contra decisão monocrática proferida por este signatário, acostada às fls. 864-869, que conheceu do conflito para declarar a competência do JUÍZO DE DIREITO DA 3.ª VARA CÍVEL DO RECIFE-PE, para processar e julgar a Habilitação de Crédito n.º 0022710-79.2020.8.17.2001, manejada por Vanilda de Fátima Melo Santos contra a Xinguara Indústria e Comércio S.A. - Em Recuperação Judicial.
+Inconformado, o ora embargante, em sede de aclaratórios (fls. 864-869), tempestivamente opostos, alega que a r. decisão embargada se encontra omissa, pois "(..) Conforme já amplamente demonstrado a decisão que deu origem ao presente conflito de competência foi proferida nos autos da Reclamação Trabalhista REEF nº 1002152-14.2018.5.02.0221, processo no qual foi aglutinada diversas execuções contra a empresa Xinguara (diversas partes presentes no polo ativo), sendo certo que naqueles autos o MM. juízo do Trabalho da vara do Trabalho de Cajamar-SP se declarou incompetente para realizar execuções em face de empresa em recuperação judicial.". Requer, assim, o provimento dos presentes embargos para sanar as omissões apontadas.
+Sem impugnação (fl. 874).
+É o relatório.
+Decide-se.
+Os presentes embargos de declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo e artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, cito precedente: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+Isso porque, consoante asseverado no r. decisum embargado, nos conflitos de competência envolvendo, de um lado, o Juízo da Falência e, de outro, o Juízo no qual tramita execução trabalhista, cível ou fiscal movida contra sociedade falida, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de quebra.
+Desta forma, conforme ficou consignado , em regra, uma vez iniciada a recuperação judicial ou a falência, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Universal, sob pena de comprometimento da pars conditio creditorum.
+Na oportunidade, foram citados os seguintes precedentes: AgInt nos EDcl no CC 165.415/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 27/11/2019, DJe 02/12/2019; AgInt no AgInt nos EDcl no CC 144.088/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/09/2019, DJe 18/09/2019; AgInt no CC 156.815/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 20/08/2019, DJe 23/08/2019.
+Diante disso, não havendo notícia de alteração na situação fática, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil de 2015.
+2 . Do exposto, com fundamento no art. 1.022, do CPC/15, rejeito os presentes embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
