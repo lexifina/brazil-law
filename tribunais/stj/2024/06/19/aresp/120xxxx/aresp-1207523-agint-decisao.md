@@ -1,0 +1,18 @@
+DECISÃO
+Em  decisão  datada  de  5/3/2015 (e-STJ, fls. 654-658),  o  Juízo  de  Direito  da  2ª  Vara  Cível  de Palhoça/SC,  a  quem  foi originariamente distribuída  a  ação  de  responsabilidade  obrigacional  securitária  movida  por  Andrea Pacheco Albino e outro contra Liberty Seguros S/A (Processo n. 0007410-14.2012.8.24.0045), entre outras questões, afastou as alegações de inépcia da inicial e de prescrição.
+Contra  essa  decisão,  a ré  interpôs  agravo  de  instrumento,  recurso ao qual a Segunda Câmara de Direito Civil do Tribunal de Justiça de Santa Catarina negou provimento (e-STJ, fls. 736-747).
+Inconformada,  Liberty Seguros  S/A  interpôs  o  recurso  especial  de  fls.  752-807  (e-STJ), tendo suscitado, entre outras questões, a existência de interesse/legitimidade da Caixa Econômica Federal e consequente necessidade de deslocamento da competência para a Justiça Federal.
+Ao realizar o juízo de admissibilidade, o Desembargador Terceiro Vice-Presidente do TJSC negou seguimento, em parte, ao especial e, quanto ao restante, concluiu pela sua inadmissibilidade (e-STJ, fls. 932-939).
+Impugnando o capítulo da decisão que concluiu pela inadmissibilidade do recurso, a parte agravante interpôs agravo em recurso especial (e-STJ, fls. 942-948), que me foi distribuído em 12/12/2017 (e-STJ, fl. 989).
+Por decisão de outubro de 2018 (e-STJ, fls. 990-991), determinou-se o retorno dos  autos  ao  tribunal  de  origem  para  que  ali  se  aguardasse  a  conclusão  do  julgamento,  pelo  Supremo  Tribunal  Federal,  do  RE  n.  827.996/PR,  para  subsequente  adoção  das  diretivas  previstas  nos  arts.  1.039  e  1.040  do  CPC/2015.
+Manifestando discordância com esse encaminhamento, os autores/agravados apresentaram o agravo interno de fls. 995-999 (e-STJ).
+Brevemente  relatado,  decido.
+Dado  o  considerável  tempo  transcorrido  desde  o  recebimento  deste  processo  no  STJ ,  esta  relatoria  intimou a seguradora a apresentar atualizadas informações sobre a situação da  ação  originária  (Processo  n.  0007410-14.2012.8.24.0045 ), bem como a dizer sobre a manutenção do interesse recursal.
+Em resposta, referida parte reafirmou o interesse em ver julgado o recurso por esta Corte Superior, tendo, contudo, apresentado esta relevante atualização (e-STJ, fls. 1.013-1.014):
+MM. Julgador, em cumprimento ao despacho proferido esta Seguradora informa que em 03/12/2019 foi proferido acórdão nos autos da Apelação nº 0007410-14.2012.8.24.0045 declinando o feito para a Justiça Federal, tendo a ação alcançado o trânsito em julgado em 21/12/2019.
+Os autos foram recepcionados pela Justiça Federal e autuados com o nº 5005781-96.2020.4.04.7200, estando em trâmite com a inclusão da Caixa Econômica Federal no polo passivo do feito.
+Nesse  panorama,  é  fora  de  qualquer  dúvida  que  o  acórdão  proferido  pelo  TJSC  no  julgamento  do  agravo  de  instrumento  nos  idos  de  setembro de 2015 não mais subsiste, substituído que foi por nova decisão do próprio tribunal estadual, proferida no julgamento de apelação e já transitada em julgado, em que se decidiu por declinar da competência para a Justiça Federal dado o reconhecimento do interesse da Caixa Econômica Federal em ingressar na lide, disso decorrendo a perda do objeto do presente agravo em recurso especial e o integral esvaziamento do interesse recursal, o que não pode ser ignorado por esta relatoria.
+Ante o exposto, torno sem efeito a decisão de fls. 990-991 (e-STJ) a fim de julgar prejudicado o agravo em recurso especial apresentado pela seguradora às fls. 942-948 (e-STJ).
+Também prejudicado, de consequência, o agravo interno de fls. 995-999.
+Publique-se.
+EMENTA
