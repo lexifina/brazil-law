@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICIPIO DE GUARABIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, dirigido contra o acórdão proferido no Agravo de Instrumento n. 0817172-59.2022.8.15.0000. Segue abaixo a ementa do acórdão (fl. 61):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. COBRANÇA. DEFERIMENTO DE PROVA PERICIAL. AUSÊNCIA DA MATÉRIA NO ROL TAXATIVO DO ARTIGO 1.015 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE DO TEMA 988 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CONHECIMENTO DA IRRESIGNAÇÃO INSTRUMENTAL. RATIFICAÇÃO DO JULGADO POR SEUS PRÓPRIOS TERMOS. DESPROVIMENTO DO REGIMENTAL.
+Nas razões do apelo nobre, o agravante alega violação ao art. 1.022 do CPC, em razão da existência de omissão no julgado recorrido.
+Além disso, o agravante suscita violação aos arts. 1º e 8º do CPC/2015, por afronta ao princípio da legalidade; art. 91 do CPC/2015, por ser incabível o adiantamento de despesas processuais pelo agravante; art. 1.015, inciso II, do CPC/2015, tendo em vista que interfere no mérito da matéria de fundo do recurso.
+Por fim, menciona desrespeito à norma do art. 95, § 3º, do CPC, fundamentado na responsabilidade do Estado da Paraíba em arcar com despesas da perícia solicitada por beneficiário da justiça gratuita.
+Requer, assim, o provimento do recurso.
+Sem contrarrazões (fl. 108).
+O recurso especial não foi admitido, tendo como parâmetro a ausência de articulação de argumentos quanto à violação do art. 1.022 do CPC e a incidência do óbice da Súmula n. 282 do STF (fls. 112-116).
+Sem contraminuta (fl. 128).
+O Ministério Público Federal opinou pela ausência de omissão do acórdão e aplicação do óbice das Súmulas n. 283 e 284 do STF (fls. 142-146).
+É o relatório. Decido.
+Constatadas as condições para o conhecimento do agravo, passo a análise do recurso especial .
+De início, verifico que incide o óbice da Súmula n. 284 do STF, uma vez que a parte recorrente, além de ter apontado violação genérica do art. 1.022 do CPC/2015, sem especificar quais os incisos foram contrariados, não demonstrou especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+Com efeito, este Superior Tribunal de Justiça já decidiu que:
+É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF. (REsp n. 1.653.926/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/9/2018.)
+Nesse cenário, é imperioso que se aplique, igualmente, o óbice da Súmula n. 284 do STF às controvérsias que tem como pressuposto a violação dos arts. 1º, 8º e 1.015, II, do CPC/2015, uma vez que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou tais dispositivos, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal. Em relação à afronta aos arts. 13 da Lei n. 10.559/2002 e 943 do Código Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial. (AgInt no REsp n. 1.496.338/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/8/2020.)
+Nessa toada, é importante ressaltar que não é cabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+A propósito: "O art. 105, III, "a", da CF, ao dispor acerca da interposição de recurso especial, menciona a ocorrência de violação à lei federal, expressão que não inclui os princípios". (AgInt no AREsp n. 826.592/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/6/2017.)
+Em relação à controvérsia envolvendo os 91 e 95, § 3º, do CPC, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Incide, portanto, os óbices das Súmulas n. 282 e n. 356 do STF.
+A esse respeito:
+Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Ante o exposto, com fundamento no art. 932 do CPC, CONHEÇO do agravo para não CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ROL TAXATIVO DO AGRAVO DE INSTRUMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. OFENSA A PRINCÍPIO. NÃO CABIMENTO EM RECURSO ESPECIAL. TESE RECURSAL NÃO PREQUESTIONADA. AGRAVO NÃO CONHECIDO.
