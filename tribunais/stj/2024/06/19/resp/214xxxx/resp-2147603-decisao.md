@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIO EDUARDO GOMES DA CUNHA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Cível nº1012318-96.2022.8.26.0011) nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 210):
+Apelação - Ação de Obrigação de Fazer - Autorização e custeio de medicamento, e fixação dos honorários advocatícios sucumbenciais com base no valor da causa atualizado - Honorários advocatícios não devem ser fixados por equidade - Tema 1076 - Aplicável o § 2º do artigo 85 do CPC - Sentença mantida - Recurso improvido.
+Em suas razões, a parte recorrente aponta violação do art. 1.022, II, do CPC, sustentando omissão do Tribunal a quo acerca do julgamento do Tema n. 1.076 do STJ e da violação do art. 85, § 2º, do CPC.
+Também indica ofensa aos arts. 85, § 2º, e 927, III, do CPC, visto que a Corte estadual não observou o julgamento do Tema n. 1.076 do STJ e o disposto na lei, que determinam a incidência dos honorários sobre o valor da condenação, e não sobre o valor da causa.
+Requer seja conhecido e provido o recurso especial para que os honorários advocatícios sejam arbitrados com base no valor da condenação.
+É o relatório. Decido.
+I - Da violação do art. 1.022, II, do CPC
+A alegada violação do art. 1.022 do CPC não enseja o êxito do recurso especial, pois a parte recorrente, limitando-se a indicar, de modo genérico, afronta ao mencionado dispositivo legal, não demonstrou em que ponto o acórdão proferido nos embargos de declaração permanecera omisso.
+Desse modo, ante a impossibilidade de compreender a questão infraconstitucional arguida, aplica-se ao caso o disposto na Súmula n. 284 do STF.
+II - Da violação dos arts. 927, III, e 85, § 2º, do CPC
+A despeito do não conhecimento da alegação anterior, a ponderação acerca da adequação da fixação dos honorários merece acolhimento.
+Verifica-se, do acórdão recorrido, que o Tribunal a quo, valendo-se do entendimento da inaplicabilidade dos honorários por equidade ao caso, consignou ser devida a incidência sobre o valor atualizado da causa. Confira-se (fls. 211-212, destaquei):
+Insurge-se o autor contra a condenação da ré a pagar honorários advocatícios em 10% (dez por cento) do valor atualizado da causa, com base no artigo 85, § 2º, do Código de Processo Civil, pretendendo que sejam arbitrados por equidade.
+Me parece que o valor e forma como fixados os honorários advocatícios (10% sobre o valor atualizado da causa) é adequado. O art. 85, §8º do CPC aponta que "Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+Em razão do julgamento dos Recursos Especiais nºs1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP, pelo C. STJ, sob o rito dos repetitivos (Tema nº 1076, cujo acórdão fora publicado em31/05/2022), foi fixada a seguinte tese:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+Destarte, apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Assim, não é o caso de arbitramento de honorários por equidade, tendo-se em vista que o valor da causa na presente demanda é elevado (R$50.000,00), sendo de rigor a fixação dos honorários advocatícios de sucumbência com fundamento no valor da causa (§ 2º do artigo 85 do CPC).
+Assim, os honorários advocatícios devidos pela ré a favor do patrono do autor devem ser mantidos. Mantenho a sentença tal como lançada.
+Não obstante, a Corte Especial do STJ, por ocasião do julgamento do Tema n. 1.076, consolidou a orientação acerca da possibilidade de fixação de honorários por equidade, estabelecendo os seguintes pontos:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Diante desse entendimento, tendo o Tribunal de origem constatado a impossibilidade de fixação dos honorários por equidade, diante do elevado valor da causa, era cabível a incidência destes sobre o valor da condenação, assistindo razão à parte.
+Ante o exposto, conheço parcialmente do recurso especial e, nesta extensão, dou-lhe provimento, para determinar a incidência dos honorários sobre o valor da condenação .
+Publique-se. Intimem-se.
+EMENTA
