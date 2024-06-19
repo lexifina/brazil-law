@@ -1,0 +1,19 @@
+DECISÃO
+BIANCA SANTOS RIBEIRO agrava de decisão da Presidência desta Corte Superior, que indeferiu liminarmente o habeas corpus.
+No regimental, a defesa reitera a tese de ilegalidade da decretação da prisão temporária da paciente e do indeferimento do pedido de concessão da prisão domiciliar, uma vez que ela tem quatro filhos menores de 12 anos.
+Nova petição protocolada, em que a defesa sustenta não ser válido o motivo que lastreou a imposição da custódia temporária à investigada - que "estaria em constante movimentação, não havendo uma residência única" (fl. 370) -, diante da comprovação de que ela "estava em perigo enquanto ocorria (sic) as tentativas de extorsão por parte do corretor de imóveis identificado por Rafael Pereira Neves e outros ainda não identificados" (fls. 370-371). Apresentou documentos para comprovar o quanto alegado.
+Pretende, dessa forma, seja reconsiderado o decisum combatido ou submetido o feito ao órgão colegiado, para que conheça do habeas corpus e defira a liminar.
+Às fls. 493-529, a defesa apresenta cópia de decisão que converteu a prisão temporária da paciente em preventiva e postula (fls. 501-502):
+a) Que seja reconhecida e declarada a ilegalidade da prisão preventiva, que nasceu da conversão de decreto temporário sem a evidência de fatos novos e contemporâneos, o que enseja o constrangimento ilegal ululante passível de reconhecimento ex- officio.
+b) Caso o entendimento seja pela perda do objeto do HC, que seja a ilegalidade declarada ex-officio, considerando a natureza absoluta da nulidade sub examine para fins de relaxar a prisão da Paciente.
+c) Caso entenda pela manutenção da prisão, considerando a gravidade do caso, que envolve uma mãe de 04 filhos os menores, que seja a preventiva substituída pela domiciliar humanitária, com arrimo no art. 318, V, do CPP, cumulada com medidas cautelares diversas (art. 319, CPP) se necessário.
+A superveniente decretação da prisão preventiva da acusada evidencia a perda do objeto deste feito, em que a defesa se voltava contra o decreto de prisão temporária.
+Ademais, a leitura do decreto preventivo indica, a um primeiro olhar, a menção a elementos concretos dos autos que denotam a necessidade de obstar a reiteração delitiva, diante dos indícios de que a investigada estaria no "topo" da organização criminosa "Bonde do Maluco", originária da Bahia, e haveria se deslocado com outros membros do grupo para o Estado de Minas Gerais para atuar na lavagem do dinheiro oriundo do tráfico de drogas praticado pelo grupo.
+Ao que consta, foi identificada movimentação de mais de R$ 80 milhões de origem ilícita em negócios efetuados por ela e pelos demais integrantes (com a referência expressa à compra de fazenda, pelo valor de R$ 1,2 milhão, orquestrada pela ora requerente).
+Esses dados não permitem concluir pela existência de flagrante ilegalidade no ponto, a justificar a concessão de habeas corpus de ofício.
+Por fim, destaco que não houve manifestação do Desembargador plantonista, ao indeferir a liminar no writ lá impetrado, a respeito da possibilidade de conceder prisão domiciliar à postulante, uma vez que se limitou a afirmar que as teses apresentadas pela defesa seriam devidamente apreciadas no julgamento do mérito do habeas corpus.
+Diante desse cenário, é prudente que se aguarde prévia manifestação da Corte estadual acerca da possibilidade de conceder prisão domiciliar à postulante, para que não se incorra em supressão de instância.
+De toda forma, o Tribunal a quo deve ser comunicado do decisum proferido pelo Juízo de primeiro grau, a fim de que considere tal ato decisório ao julgar o mérito do habeas corpus lá impetrado.
+À vista do exposto, julgo prejudicado o habeas corpus. Determino o envio de cópia da decisão de fls. 503-528 ao Tribunal a quo, para que o decreto preventivo seja analisado no julgamento do mérito do writ originário.
+Publique-se e intimem-se.
+EMENTA
