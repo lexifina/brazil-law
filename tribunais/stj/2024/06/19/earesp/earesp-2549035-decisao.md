@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Roseane Schmitz e Sérgio Antônio Schmitz, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 128):
+PROCESSUAL CIVIL - BEM DE FAMÍLIA - PROPRIEDADE DE MAIS DE UM IMÓVEL RESIDENCIAL - PROTEÇÃO AO DE MENOR VALOR - ART. 5º, PARÁGRAFO ÚNICO, DA LEI N. 8.009/1990 - REFORMA DO DECISUM
+Segundo posição consolidada na Corte Superior, "nos termos da Lei n. 8.009/1990, para que a impenhorabilidade tenha validade, além de ser utilizado como residência pela entidade familiar o imóvel será sempre o de menor valor caso o beneficiário possua outros" (Aglnt no AREsp n. 2.010.681/PE, Min. Luis Felipe Salomão).
+Assim, posto que um dos bens residenciais de propriedade do executado esteja hipotecado, sendo o de menor valor, deverá sobre ele recair a proteção destinada ao bem de família.
+Os embargos de declaração opostos em sequência foram rejeitados.
+Nas razões do apelo especial, os recorrentes apontaram divergência jurisprudencial e violação ao art. 5º, caput, da Lei n. 8.009/1990.
+Sustentaram que, para a aplicação do parágrafo único do supracitado dispositivo legal, deve ser levada em consideração a efetiva utilização do bem como moradia, e não a sua mera destinação.
+Contrarrazões apresentadas às fls. 255-277 (e-STJ).
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando os insurgentes a interpor o presente agravo, por meio do qual contestam a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Conforme entendimento da Terceira Turma desta Corte de Justiça, "em se tratado de impenhorabilidade de bem de família, o critério de "imóvel menor valor", do qual trata o artigo 5º, parágrafo único, da Lei nº 8.009/1990, deve ser considerado na hipótese de haver mais de 1 (um) imóvel sendo utilizado como residência pela família" (AgInt no REsp n. 1.873.254/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/3/2021, DJe de 19/3/2021).
+Nesse mesmo sentido:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. PLURALIDADE DE IMÓVEIS RESIDENCIAIS. ART. 5º, PARÁGRAFO ÚNICO, DA LEI Nº 8.009/90. MENOR VALOR. INEXIGIBILIDADE. NA AUSÊNCIA DE OUTROS IMÓVEIS UTILIZADOS COMO RESIDÊNCIA DA FAMÍLIA A IMPENHORABILIDADE DEVE SER RECONHECIDA INDEPENDENTE DO VALOR DO IMÓVEL. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A Lei nº 8.009/90, ao instituir a impenhorabilidade do bem de família, buscou proteger a família ou da entidade familiar, de modo a tutelar o direito constitucional fundamental da moradia e assegurar um mínimo para uma vida com dignidade dos seus componentes.
+3. O art. 5º, parágrafo único, da Lei nº 8.009/90 dispõe que poderá ser escolhido o de menor valor na hipótese em que a parte possuir vários imóveis utilizados como residência.
+4. Os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida aos bens de família consoante os ditames da Lei nº 8.009/90.
+5. Apenas na hipótese de existir mais de um imóvel utilizado como residência, a impenhorabilidade recairá sobre o de menor valor, garantido ao devedor a proteção do patrimônio mínimo.
+6. A moldura fática presente no acórdão recorrido, como se vê, não fornece elementos concretos para saber se há ou não a pluralidade de imóveis residenciais, para fins da incidência do parágrafo púnico do art. 5º da Lei 8.009/90 ou se apenas o imóvel penhorado tem essa finalidade e a vocação ínsita do recurso especial não permite a incursão na seara probatória. Retorno dos autos para novo julgamento de acordo com a jurisprudência desta Corte.
+7. Recurso especial provido.
+(REsp n. 1.482.724/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/11/2017, DJe de 28/11/2017 - sem grifos no original.)
+Na hipótese em apreço, a instância ordinária considerou apenas o valor dos bens para decidir sobre a penhora, sem observar se efetivamente todos eram utilizados como residência da parte ora recorrente.
+Com efeito, caracteriza-se por residencial o imóvel que serve de local para o estabelecimento da família, centralizando suas atividades com ânimo de permanecer em caráter definitivo.
+Assim, pelo que se deduz do aresto estadual, o imóvel de matrícula n. 111.719 é o único de residência da ora recorrente Roseane Schmitz, motivo pelo qual é sobre ele que deve recair a impenhorabilidade.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de restabelecer a decisão de primeira instância, que havia indeferido o pedido de penhora do imóvel de matrícula n. 111.719 do Primeiro Ofício de Registro de Imóveis da Comarca de Balneário Camboriú.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. BEM DE FAMÍLIA. ACÓRDÃO ESTADUAL QUE INDICA QUE A PARTE RESIDE EM DETERMINADO IMÓVEL, APESAR DE POSSUIR OUTRO BEM DE MENOR VALOR. IMPENHORABILIDADE DO BEM QUE É EFETIVAMENTE UTILIZADO COMO RESIDÊNCIA, INDEPENDENTEMENTE DO VALOR DO IMÓVEL. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
