@@ -1,0 +1,19 @@
+DECISÃO
+BANCO DO BRASIL S.A.  interpõe  agravo  interno  contra  a  decisão  de  fls.  288-291,  que  negou provimento ao agravo em recurso especial.
+Na  origem,  trata-se de agravo de instrumento interposto pelo ora agravante contra decisão interlocutória que tratou dos temas relacionados à legitimidade, competência e prescrição.
+Ao analisar o recurso, a Corte de origem concluiu que os referidos temas não eram impugnáveis por meio de agravo de instrumento, por ausência de previsão do art. 1.015 do CPC.
+Inconformado com a decisão, o ora agravante interpôs recurso especial, que foi provido para determinar o retorno dos autos à origem a fim de que o Tribunal estadual julgasse o agravo de instrumento quanto à matéria da prescrição, dando por superado o entendimento de que o art. 1.015 do CPC veda a interposição de agravo de instrumento para impugnar decisão referente à prescrição.
+No  novo julgamento  do agravo de instrumento,  o  Tribunal  a  quo  manteve o entendimento anterior, relativo ao descabimento de tal recurso quanto às teses de legitimidade e de competência, analisando, pois, a tese acerca da prescrição. Contudo desproveu o recurso.
+Contra  esse  acórdão do agravo de instrumento (fls. 194-218),  o  agravante  interpôs  recurso  especial  (fls.  223-231),  o  qual  foi inadmitido com base na Súmula n. 83 do STJ. Sobrevindo, pois, agravo em recurso especial,  foi desprovido com fundamento nas Súmulas n. 282, 283 e 356 do STF (fls. 288-291).
+A  parte ,  neste  agravo  interno,  contesta  a  aplicação das Súmulas n. 282 e 356 do STF em relação à alegada ofensa aos arts. 189 e 206 do Código Civil, nestes termos (fl. 296):
+ ..  decisão recorrida (e-STJ, fls. 195-218) o tema da prescrição é enfrentada tanto no voto da Desembargadora Relatora (e-STJ, fls. 199-205), bem como do voto do 2º Vogal (e-STJ, fls. 205-208), inclusive com menção expressa ao art. 206 do CC. No mais, o art. 189 do CC trata da prescrição, que, como dito alhures, é o tema principal do recurso especial (e-STJ, fls. 223-231).
+Igualmente, refuta a aplicação das Súmulas n. 282 e 356 do STF em relação à data da aposentadoria, ao argumento de que "o acórdão recorrido se debruçou sobre o assunto, de forma explícita, no voto do Segundo Vogal" (fl. 297), afirmando que isso pode ser verificado à fl. 208.
+Sustenta  ainda que se o objeto recursal consiste, primordialmente, no reconhecimento da prescrição bienal (art. 11 da CLT) ou trienal (art. 206, § 3º, II e IV, do CC) e que "não havia mesmo necessidade do Tribunal "a quo" se pronunciar acerca da incidência ou não do Tema 955 do STJ" (fl. 299).
+Por fim, defende  que  a  decisão  recorrida  incorreu  em  erro quanto à aplicação da Súmula n. 283 do STF, pois a natureza de prestação de trato sucessivo nenhuma influência tem sobre o caso dos autos, diante do pedido de reconhecimento da prescrição sob o enfoque do art. 11 da CLT ou, alternativamente, da prescrição trienal do art. 206, § 3º, V, do CPC.
+Requer  a  reconsideração  da  decisão  impugnada  ou  a  submissão  do  presente  agravo  interno  ao  colegiado.
+É  o  relatório.
+O recurso interposto pela parte agravante na Corte a quo foi agravo de instrumento contra decisão interlocutória vinculada ao Processo originário n. 0717877-10.2018.8.07.0001, que é objeto do Recurso Especial n. 2.110.160/DF - também interposto pelo ora agravante -, que foi provido para reconhecer a incompetência da Justiça comum no tocante aos pedidos relativos à recomposição da reserva matemática, impondo à parte, então recorrida, as custas e despesas processuais.
+Assim, o agravo em recurso especial perdeu seu objeto, o que, por conseguinte, também faz com que o presente agravo interno tenha o mesmo desfecho.
+Desse modo, sem objeto o agravo interno, julgo-o prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
