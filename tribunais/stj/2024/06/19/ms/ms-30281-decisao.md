@@ -1,0 +1,23 @@
+DECISÃO
+Victor Hugo Padilha de Oliveira impetrou mandado de segurança, com pedido de liminar, contra o ato do Ministro Mauro Luiz Campbell Marques na condição de Presidente da Comissão do Exame Nacional da Magistratura - ENAM, organizado e realizado pela Escola Nacional de Formação e Aperfeiçoamento de Magistrados - ENFAM.
+Relata o autor (fls. 3/16) que participou do 1º ENAM (inscrição n. 793022721).
+Aduz que interpôs recurso (Protocolo n. 04171943157219654417) contra a questão 4 da Prova 1 - Tipo 2 (Verde), por entender que uma das assertivas dos enunciados da questão estava errada. Registra que apontou o gabarito correto para a questão e, subsidiariamente, pugnou pela sua anulação.
+Assevera que a Banca Examinadora apresentou resposta totalmente desconexa com o ponto impugnado, sem enfrentar o equívoco apontado. Aponta que possui direito líquido e certo de ter seu recurso devidamente enfrentado, não sendo possível lançar mão de respostas genéricas.
+Afirma possuir interesse na demanda, uma vez que atingiu 55 pontos no exame, sendo que, para sua habilitação, seria necessário somar 56 pontos dos 80 pontos possíveis, ou seja, acertar 70% da prova.
+Com base em tais fundamentos, requer o impetrante suspensão cautelar do trâmite do certame até o devido exame, pela Banca Examinadora, do recurso interposto contra a questão 4 da Prova 1 - Tipo 2 (Verde). Alternativamente, pugna que seja declarada como correta a alternativa D da referida questão e lhe seja atribuída a respectiva pontuação, sendo declarada sua habilitação no Exame Nacional da Magistratura (fl. 11).
+À fl. 85 a União requereu seu ingresso no feito.
+É o relatório.
+Trata-se de mandado de segurança em que o impetrante requer, em sede de liminar, a suspensão do trâmite do Exame Nacional da Magistratura impedindo a publicação de editais para concursos da magistratura até o julgamento deste mandado de segurança ou até a efetiva análise do recurso administrativo manejado.
+Inicialmente, cumpre aferir a competência desta Corte para apreciar a matéria.
+O art. 6º, § 3º, da Lei n. 12.016/2009, dispõe que  c onsidera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática.
+Assim, consoante firme jurisprudência do Superior Tribunal de Justiça, autoridade coatora, para fins de impetração de Mandado de Segurança, é aquela que pratica ou ordena, de forma concreta e específica, o ato ilegal, ou, ainda, aquela que detém competência para corrigir a suposta ilegalidade, nos termos do que dispõe o art. 6º, § 3º, da Lei 12.016/2009 (AgInt no MS n. 24.306/DF, Ministra Assusete Magalhães, Primeira Seção, DJe 21/12/2023) - (grifo nosso)
+Foi apontado como autoridade coatora exclusivamente o Ministro Mauro Luiz Campbell Marques na condição de Presidente da Comissão do Exame Nacional da Magistratura - ENAM. Ocorre que o item 3.4. do edital que regulamentou o ENAM delegou a organização e execução do certame para a Fundação Getúlio Vargas, nos seguintes termos:
+3.4. A Fundação Getulio Vargas será responsável pela organização e execução do certame, supervisionada pelas Comissões Executiva e Acadêmica, com auxílio de subcomissões instituídas pela Escola Nacional de Formação e de Aperfeiçoamento de Magistrados - ENFAM.
+Observa-se que o Ministro indicado não tem a atribuição de executar as provas do certame e também não integra as referidas Comissões Executiva e Acadêmica indicadas no edital do concurso.
+Ademais, como o ato coator foi praticado por um colegiado, aplica-se por analogia o entendimento da Súmula 177 do STJ.
+Registro, ainda, não ser possível aplicar a regra do art. 64, § 3º do CPC, uma vez que se trata de equivocada indicação da autoridade coatora e não mero erro de endereçamento, assim como considerando que se trata de mandado de segurança de competência originária, a ilegitimidade passiva da autoridade com prerrogativa de foro conduz à extinção do processo (AgInt no MS n. 26.574/DF, Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, DJe 22/9/2022).
+Por fim, destaco que esse tem sido o entendimento dos demais componentes da Corte Especial ao examinar mandamus com similar pedido e causa de pedir. A propósito: MS n. 30.239, Ministro Og Fernandes, DJe 14/6/2024; MS n. 30.278, Ministro Antonio Carlos Ferreira, DJe 11/6/2024; e MS n. 30.231, Ministro Ricardo Villas Bôas Cueva, DJe 24/5/2024.
+Ante o exposto, reconhecida a ilegitimidade da autoridade impetrada, com fundamento no art. 10 da Lei n. 12.016 e do art. 212 do RISTJ, indefiro liminarmente o mandado de segurança, julgando extinto o processo sem resolução do mérito.
+Sem condenação em honorários (Súmula 105 do STJ).
+Publique-se. Intimem-se.
+EMENTA
