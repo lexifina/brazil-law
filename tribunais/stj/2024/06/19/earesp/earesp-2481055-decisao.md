@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Administradora Jardim Acapulco Ltda. contra acórdão proferido pela Terceira Turma desta Corte, assim ementado (fl. 372):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna todos os fundamentos da respectiva inadmissibilidade (a alegação de ofensa a dispositivos constitucionais não serve de suporte à interposição de recurso especial e incidência da Súmula n.º 7 do STJ).
+2. Agravo interno não provido.
+A embargante alega que o acórdão embargado diverge do entendimento firmado pela Segunda Turma desta Corte no EDcl no Ag 976.707/SP acerca da impossibilidade de exigência de impugnação específica na hipótese em que a decisão atacada se mostra genérica. Sustenta, ainda, a nulidade do julgamento virtual realizado pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Feito esse registro, afasta-se a aplicação da Súmula 315/STJ pois, embora a jurisprudência seja pacífica acerca do não cabimento dos embargos de divergência para discutir regra técnica de admissibilidade do recurso especial, o presente caso versa acerca de questão processual, qual seja, a exigência de impugnação específica da decisão de inadmissão do recurso especial que, segundo alega o embargante, mostra-se genérica.
+Do exame dos autos, contudo, infere-se que o recurso em apreço não comporta êxito.
+Com efeito, os embargos de divergência têm por escopo uniformizar a jurisprudência do Superior Tribunal de Justiça, em razão da adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano, com a demonstração da identidade fática entre os casos confrontados e a adoção de soluções jurídicas díspares, nos moldes estabelecidos no art. 266 combinado com o art. 255, § 1º, do RISTJ.
+Na hipótese não se verifica a ocorrência da alegada dissidência pretoriana, já que inexiste similitude fática entre os casos postos em comparação. Deveras, segundo o acórdão paradigma, "Não há de exigir-se maior confrontação no agravo de instrumento quando a decisão que nega seguimento ao recurso especial assume caráter genérico". No julgamento que originou o acórdão embargado, contudo, a Terceira Turma registrou que o agravo em recurso especial é que possui razões genéricas, uma vez que não se dirigiu especificamente contra todos os fundamentos da decisão que inadmitiu o recurso especial, notadamente, a aplicação do óbice da Súmula 7 do STJ. Logo, a ausência de singularidade fática impede o conhecimento dos embargos de divergência.
+À guisa de exemplo, colhe-se o seguinte julgado da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. DESPROVIMENTO.
+1. A divergência jurisprudencial para fins de interposição de embargos de divergência deve ser demonstrada nos termos do art. 266, § 4º, do RISTJ, de modo que os acórdãos confrontados devem apresentar similitude fática e abordar a questão jurídica sob o mesmo enfoque legal, mas dar a ela resultados discrepantes.
+2. Não havendo a comprovação do recolhimento do preparo no ato de interposição do recurso, a parte recorrente será intimada para realizar o recolhimento em dobro no prazo de 5 dias, sob pena de deserção (§§ 2º e 4º do art. 1.007 do CPC/2015).
+3. Agravo interno desprovido (AgInt nos EREsp 1.771.205/SE, relator Ministro João Otávio de Noronha, Corte Especial, DJe 25/3/2021).
+Outrossim, descabido o exame da alegada nulidade do julgamento virtual realizado pelo Tribunal de origem, pois se trata de inviável inovação recursal.
+Isso posto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. DISSÍDIO NÃO DEMONSTRADO. RECURSO INDEFERIDO LIMINARMENTE.
