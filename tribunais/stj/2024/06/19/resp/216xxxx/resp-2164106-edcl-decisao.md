@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Alfredo Celso Parisi à decisão de fls. 850-853 (e-STJ), em que rejeitei os primeiros aclaratórios opostos pelo embargante, sob o fundamento de que a questão afeta aos juros remuneratórios não se submete à preclusão, por se tratar de matéria de ordem pública.
+O decisum recebeu a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. TERMO FINAL DE JUROS REMUNERATÓRIOS. MATÉRIA DE ORDEM PÚBLICA. EMBARGOS REJEITADOS.
+O embargante sustenta, em síntese, que a referida decisão padece dos vícios de omissão e contradição, visto que, "embora a questão julgada se relacione com o "termo final de juros REMUNERATÓRIOS", a r. decisão embargada, para justificar a rejeição dos anteriores declaratórios, usou como fundamento entendimento existente sobre juros MORATÓRIOS" (e-STJ, fl. 857).
+Reforça que "esse fundamento merece aclaramento, na medida em que juros remuneratórios não se confundem com juros moratórios. Entre eles há severa distinção, já que os juros remuneratórios envolvem direito patrimonial disponível, que depende de pedido e de imposição expressa no título judicial, não sendo aplicável em relação a eles a regra de ordem pública esculpida no art. 293 do CPC, cuja regra é reservada para a incidência de correção monetária e juros moratórios" (e-STJ, fl. 858).
+A impugnação foi apresentada às fls. 864-869 (e-STJ).
+Brevemente relatado, decido.
+Tem razão o embargante.
+A decisão embargada, conquanto tenha afirmado que a matéria concernente aos juros remuneratórios trata de questão de ordem pública, passível, portanto, de ser sanada de ofício, fundamentou esse entendimento em precedentes relacionados aos juros moratórios, que possuem regras próprias.
+Tal o quadro delineado, evidencia-se a apontada contradição no decisum embargado, razão pela qual acolho os presentes embargos de declaração, com efeitos infringentes, para tornar sem efeito as decisões proferidas anteriormente (e-STJ, fls. 755-761; 794-797 e 850-853), a fim de analisar novamente o agravo em recurso especial.
+No caso, observo que a decisão do Tribunal de origem que inadmitiu o recurso especial foi impugnada pelo banco agravante, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, impõe-se a conversão do agravo em recurso especial, para que a matéria seja melhor examinada, notadamente a possibilidade ou não de devolução dos autos para exame da questão relacionada aos juros remuneratórios, sem prejuízo de nova análise dos requisitos de admissibilidade.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito as decisões proferidas anteriormente, determinando-se, em consequência, a conversão do agravo em recurso especial, com fulcro no art. 34, XVI, do RISTJ.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO VERIFICADA. DECISÕES PROFERIDAS ANTERIORMENTE TORNADAS SEM EFEITO. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL PARA MELHOR EXAME. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
