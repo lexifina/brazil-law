@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. TRABALHADORA RURAL. COMPROVAÇÃO DA ATIVIDADE RURAL. AUSÊNCIA DE INÍCIO DE PROVA DOCUMENTAL. PROVA EXCLUSIVAMENTE TESTEMUNHAL. IMPOSSIBILIDADE. APELAÇÃO DA PARTE AUTORA DESPROVIDA.
+1. O benefício de salário-maternidade é devido à segurada especial que atender aos requisitos estabelecidos na Lei 8.213/91 (art. 25, III) e no § 2º do art. 93 do Decreto 3.048/99. A demonstração do trabalho rural no prazo mínimo de 10 (dez) meses, ainda que descontínuos, deve ser comprovado mediante início razoável de prova material, corroborada com prova testemunhal, ou prova documental plena, inadmissível a prova exclusivamente testemunhal (STJ, Súmula 149; TRF/1ª Região, Súmula 27).
+2. Não servem como início de prova material do labor rural durante o período da carência, pois não revestidos das formalidades legais para comprovar a autenticidade, a segurança jurídica: documentos confeccionados em momento próximo ao ajuizamento da ação ou posteriores à data do nascimento da criança; a certidão eleitoral (retificável a qualquer tempo) com anotação indicativa da profissão de rurícola, a certidão de nascimento da criança e/ou certidão de casamento sem qualificação profissional, prontuários médicos, cartão da gestante, cartão de vacinas, carteira e ficha de filiação a sindicato de trabalhadores rurais desacompanhado dos recolhimentos, CTPS sem anotações de vínculos rurais, documentos de terras em nome de terceiros, bem como declaração de terceiros.
+3. No caso dos autos, o pleito encontra óbice na ausência de início de prova material, pois não ficou comprovado o exercício de atividade rural no período de carência, tendo em vista que os documentos apresentados pela autora não são suficientes para comprovar o efetivo exercício campesino em regime de economia familiar.
+4. Inadmissível a prova exclusivamente testemunhal (STJ, Súmula 149 e TRF/1ª Região, Súmula27), o que impõe o indeferimento do pedido de concessão do benefício de salário-maternidade.
+5. A coisa julgada opera secundum eventum litis ou secundum eventum probationis, permitindo a renovação do pedido ante novas circunstâncias ou novas provas.
+6. Mantidos os honorários sucumbenciais arbitrados pela sentença de primeiro grau.
+7. Apelação da Autora desprovida.
+A recorrente alega divergência jurisprudencial e ofensa ao art. 55, § 3º, da Lei 8.213/1991. Sustenta que o acórdão recorrido destoa da jurisprudência do Superior Tribunal de Justiça ao valorar os documentos juntados, uma vez que não foram consideradas, como início de prova material válido, as duas certidões de nascimento juntadas, nas quais a autora está qualificada como lavradora.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de junho de 2024.
+A irresignação não merece prosperar.
+O Tribunal a quo consignou:
+Não servem como início de prova material do labor rural durante o período da carência, pois não revestidos das formalidades legais para comprovar a autenticidade, a segurança jurídica e quando tiverem sido confeccionados em momento próximo ao ajuizamento da ação ou à data do nascimento da criança. A certidão eleitoral (retificável a qualquer tempo)com anotação indicativa da profissão de rurícola, certidão de nascimento da criança e/ou certidão de casamento sem qualificação profissional, prontuários médicos, cartão da gestante, cartão de vacinas, carteira e ficha de filiação a sindicato de trabalhadores rurais, desacompanhados dos recolhimentos, CTPS sem anotações de vínculos rurais, documentos de terras em nome de terceiros, bem como declaração de terceiros.
+(..)
+No caso dos autos, a autora postula o benefício de salário-maternidade em decorrência do nascimento de sua filha, ocorrido em 26/03/2019 - certidão de inteiro teor de fl.17, na qual consta a qualificação profissional da genitora como lavradora e, com o propósito de comprovar a sua condição de trabalhadora rural, juntou os seguintes documentos: certidão de inteiro teor de outro filho, ocorrido em 21/12/2014, constando a profissão da autora como lavradora. Portanto, o pleito encontra óbice na ausência de início de prova material, pois não ficou comprovado o exercício de atividade rural no período de carência, tendo em vista que os documentos apresentados pela autora não são suficientes para comprovar o efetivo exercício campesino em regime de economia familiar.
+Impossibilidade de concessão do benefício fundado em prova exclusivamente testemunhal.
+Assim, considerando o conjunto probatório dos autos, verifica-se que a autora não logrou comprovar o efetivo exercício de atividade rural pelo prazo de carência, mediante início razoável de prova material, ainda que corroborada com prova testemunhal, sendo inadmissível aprova exclusivamente testemunhal (STJ, Súmula 149 e TRF/1ª Região, Súmula 27), o que impõe o indeferimento do pedido de concessão do benefício de salário-maternidade.
+A coisa julgada opera secundum eventum litis ou secundum eventum probationis, permitindo a renovação do pedido ante novas circunstâncias ou novas provas.
+O Recurso Especial foi interposto com o intuito de que seja reconhecido o tempo de serviço da parte como segurada especial e concedida licença-maternidade, nos termos da Lei 8.213/1991.
+Não obstante afirmar que pretende revalorar a prova produzida nos autos, a recorrente demonstra nítida pretensão de revisar a análise probatória realizada pelo Colegiado regional para configurar o direito ao benefício previdenciário.
+Com efeito, o órgão julgador decidiu a controvérsia com fundamento no acervo de fatos e provas dos autos, cuja apreciação é inviável nesta Corte Superior ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Diante do exposto , conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
