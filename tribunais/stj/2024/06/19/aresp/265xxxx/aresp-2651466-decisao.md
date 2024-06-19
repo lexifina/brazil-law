@@ -1,0 +1,22 @@
+DECISÃO
+FABRICIO DE JESUS BATISTA agrava de decisão que não admitiu seu recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0748838-89.2022.8.07.0001.
+Consta dos autos que o agravante foi condenado a 8 anos e 9 meses de reclusão, em regime inicial fechado, mais multa, pela prática do delito de tráfico de drogas.
+Nas razões do recurso especial, a defesa busca a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas em sua fração máxima.
+O Ministério Público Federal opinou pelo provimento do recurso especial.
+Decido.
+I. Fração da minorante
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+No caso, o Tribunal de origem entendeu pela incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/6, sem tecer nenhuma fundamentação.
+Por essas razões, uma vez que não foi apontado fundamento suficiente o bastante que justificasse o estabelecimento da fração do redutor abaixo do máximo, deve ser provido o recurso, a fim de aplicar a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3.
+II. Nova dosimetria e consectários
+Procedendo-se, pois, à nova dosimetria da pena, verifico que a reprimenda-base do recorrente ficou estabelecida no mínimo legal, ou seja, em 5 anos de reclusão e pagamento de 500 dias-multa, conforme acima examinado. Na segunda fase, ausentes atenuantes ou agravantes. Na terceira etapa, reduzo a reprimenda em 2/3, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena do acusado definitivamente estabelecida em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+Como consectário da redução efetivada na pena, deve ser procedido ao ajuste no regime inicial do seu cumprimento. Uma vez que o paciente era tecnicamente primário ao tempo do delito, teve a pena-base estabelecida no mínimo legal e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, entendo que deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve ser determinada a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+III. Dispositivo
+À vista do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 2/3 e, por conseguinte, reduzir a sua reprimenda para 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, e determinar a substituição da privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
