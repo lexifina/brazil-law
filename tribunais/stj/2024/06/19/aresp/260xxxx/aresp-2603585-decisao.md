@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+CONSTITUCIONAL E ADMINISTRATIVO. PISO SALARIAL DOS PROFESSORES DO MAGISTÉRIO PÚBLICO. REGULAMENTAÇÃO PELA LEI FEDERAL Nº 11.738/2008. AUSÊNCIA DE DISTINÇÃO ENTRE SERVIDORES EFETIVOS E CONTRATADOS TEMPORARIAMENTE. MODULAÇÃO DOS EFEITOS DO JULGAMENTO DA ADI Nº 4167. APLICAÇÃO A PARTIR DE 27/04/2011. APELAÇÃO CÍVEL IMPROVIDA, À UNANIMIDADE. 1. Inexiste na Lei Federal nº 11.738/2008 qualquer distinção entre os servidores EFETIVOS ou CONTRATADOS, tendo disciplinado o piso salarial para o "PROFISSIONAIS DO MAGISTÉRIO PÚBLICO DA EDUCAÇÃO BÁSICA". 2. Os efeitos da declaração de constitucionalidade do piso nacional estabelecido pela Lei nº 11.738/2008 são válidos a partir do julgamento da ADI 4167, em 27/04/2011. 3. Este Sodalício possui visão assentada no sentido de ser o Piso Nacional dos Professores APLICÁVEL AOS CONTRATADOS TEMPORARIAMENTE. 4. O apelado foi contratado no período de 01/04/2017 a 28/02/2021 para a função de Professor CTD com carga horária de 200 horas/aula, conforme fichas financeiras emitidas pela própria Administração Pública, não tendo recebido o piso da categoria e sendo devidas as diferenças remuneratórias pleiteadas. 5. Apelação Cível improvida, mantendo-se incólume a sentença vergastada, a qual condenou o Estado de Pernambuco ao pagamento das diferenças entre o vencimento básico pago à parte autora e os valores do Piso Salarial Nacional dos Profissionais da Educação Básica vigentes à época do contrato, com repercussão nas férias e décimos terceiros salários recebidos, observadas a prescrição quinquenal e a proporcionalidade das horas/aulas, tudo a ser calculado na fase processual oportuna e acrescido de juros de mora e correção monetária aplicados agora, ex officio, de acordo com os Enunciados Administrativos de nsº 8, 11, 15 e 20, da Seção de Direito Público desse Eg. TJPE e a EC nº 113/2021 (período posterior à sua edição), com honorários sucumbenciais delimitados quando da liquidação do julgado (CPC, art. 85, § 4º, II) e custas ex lege. 6. Decisão Unânime.
+Os Embargos de Declaração foram rejeitados.
+O Estado de Pernambuco, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 2º e 5º da Lei 11.738/2008.
+Afirma:
+A norma estadual de contratação temporária NÃO tem qualquer regra que estabeleça que deve ser estendido o piso salarial para professores contratados, como ficou prequestionado.
+Então, ao estender direito exclusivo de Professor ocupante de cargo a Professor contratado temporariamente, exercendo apenas função pública, com base apenas na Lei nº 11.738/2008 e sem qualquer norma estadual a fazê-lo, houve ofensa expressa e direta à legislação federal. (fl. 668)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.6.2024.
+A irresignação não merece prosperar.
+Ao decidir a lide, o Tribunal de origem apresentou os seguintes fundamentos:
+Trata-se de Apelação Cível em face de sentença (ID26986106) proferida em sede de Ação de Obrigação de Fazer c/c Cobrança de Diferenças Salariais Pretéritas, a qual julgou procedente o pedido inicial para condenar o Estado de Pernambuco ao pagamento das diferenças entre o valor contratual/pago e o PISO NACIONAL SALARIAL DO MAGISTÉRIO PÚBLICO DA EDUCAÇÃO BÁSICA vigente à época do contrato (abril/2017 a fevereiro/2021), com repercussão nas Férias, com o terço constitucional, e 13ºs (décimo terceiros) Salários, de todo o período, observadas a prescrição quinquenal e a proporcionalidade das horas/aulas, tudo a ser calculado na fase processual oportuna e acrescido de juros de mora e correção monetária.
+(..)
+Ab initio, ressalto não ter a Lei Federal nº 11.738/2008 feito distinção quanto a servidores EFETIVOS ou CONTRATADOS, disciplinando o piso salarial para os " PROFISSIONAIS DO MAGISTÉRIO PÚBLICO DA EDUCAÇÃO BÁSICA".
+Pois bem.
+Com o objetivo de regulamentar o art. 60, III, "e", do ADCT, que determinava o estabelecimento do Piso Salarial Profissional Nacional para os Profissionais do Magistério Público da Educação Básica, a Presidência da República editou em 16/07/2008 a Lei nº 11.738/2008, que assim dispõe em seu art. 2º:
+(..)
+No julgamento da ADIn nº 4167, em 27/04/2011, restou mantida a equivalência entre as expressões PISO SALARIAL E VENCIMENTO, tendo sido definido na apreciação dos Embargos de Declaração que os efeitos da declaração de constitucionalidade do piso nacional estabelecido pela Lei nº 11.738/2008 se dariam a partir do julgamento referido.
+Ademais, no julgamento da ADIn nº 4848, o STF entendeu ser constitucional os atos normativos do MEC que atualizam anualmente o piso base da categoria, nos termos preconizados pela Lei nº 11.738/2008.
+(..)
+No caso em comento, o apelado foi contratado no período de 01/04/2017 a 28/02/2021 para a função de Professor CTD com carga horária de 200 horas/aula, conforme fichas financeiras emitidas pela própria Administração Pública (ID26986064).
+Infere-se dos contracheques acostados (ID26986064) ter o Estado de Pernambuco pago valores abaixo do Piso Nacional do Magistério definido pelo Ministério da Educação, de acordo com a Lei Federal nº 11.738/2008.
+Oportuno esclarecer, ademais, que a Lei Estadual nº 14.547, de 21 de dezembro de 2011, alterada pela Lei Estadual nº 14.885, de 14 de dezembro de 2012, é clara ao assegurar entre outros direitos, o de férias, seu adicional e décimo terceiro salário. (fls. 603-610)
+O acórdão recorrido tem como fundamento matéria estritamente constitucional. Sendo assim, destaco a inviabilidade de discuti-la em Recurso Especial, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. CONTRIBUIÇÃO PREVISTA NA LEI 110/2001. DISCUSSÃO SOBRE A SUA EXIGIBILIDADE. ENFOQUE CONSTITUCIONAL DA MATÉRIA. NÃO OCORRÊNCIA DE REVOGAÇÃO PELO EXAURIMENTO DA FINALIDADE. PRECEDENTES.
+1. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+2. Conforme entendimento desta Corte, a contribuição social prevista no art. 1º da LC 110/2001 (baseada no percentual sobre o saldo de FGTS em decorrência da despedida sem justa causa), a ser suportada pelo empregador, não se encontra revogada, mesmo diante do cumprimento da finalidade para qual a contribuição foi instituída (Informativo 558/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp 1.639.950/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 27/3/2017).
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Conforme Enunciado Administrativo 7/STJ, condeno a parte recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
