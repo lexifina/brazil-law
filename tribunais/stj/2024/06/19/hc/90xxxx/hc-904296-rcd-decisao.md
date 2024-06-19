@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de pedido de reconsideração apresentado por JORDAN HARRISON DE OLIVEIRA da decisão, por mim proferida, que indeferiu liminarmente o habeas corpus em razão da ausência de documentação necessária à solução da controvérsia (e-STJ fls. 77/78).
+Diante da juntada de cópia do inteiro teor do acórdão que julgou o agravo em execução, reconsidero a decisão de e-STJ fls. 77/78 e determino o prosseguimento do feito.
+Da análise dos autos constata-se que o Juízo da execução declarou extinta a punibilidade pelo integral cumprimento da pena.
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso nos termos do acórdão assim ementado (e-STJ fl. 88):
+EMENTA: AGRAVO EM EXECUÇÃO - REGIME ABERTO - DESCUMPRIMENTO DAS CONDIÇÕES - CÔMPUTO COMO PENA CUMPRIDA - INVIABILIDADE - INTERRUPÇÃO DA EXECUÇÃO - EXTINÇÃO DA PUNIBILIDADE - DESCABIMENTO - 1. O regime aberto, por se tratar do regime mais brando e se caracterizar pela reduzida vigilância estatal, pressupõe um maior senso de responsabilidade do reeducando, nos termos do artigo 114, inciso II, da Lei de Execução Penal. - 2. O período de descumprimento das condições do regime aberto não pode ser computado como pena cumprida, conforme reiterados precedentes do Superior Tribunal de Justiça. - 3. Deve ser lançada no atestado de pena a interrupção da execução a partir do dia que o reeducando passou a descumprir as condições do regime aberto. - 4. Não cabe a extinção da punibilidade pelo integral cumprimento da pena, quando o reeducando não cumpriu a sanção imposta em sua totalidade, devendo ser afastada qualquer espécie de cumprimento ficto.
+Na petição inicial, a Defensoria Pública do Estado de Minas Gerais alega, em síntese, que "o descumprimento de condição acessória ao regime aberto, fixada pelo Juízo da Execução Penal, não se confunde com o descumprimento da pena privativa de liberdade e, assim, não é capaz de desconstituir tempo de pena já cumprido" (e-STJ fl. 8).
+Por isso, requer, liminarmente, "a suspensão dos efeitos da decisão impugnada, até o julgamento do mérito da impetração" e, no mérito, a concessão da ordem a fim de que "seja reconhecida a extinção da punibilidade do paciente, com a concessão do indulto" (e-STJ fl. 10).
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público, consignando, para tanto, que (e-STJ fls. 90/91):
+Em consulta às movimentações do processo de execução no Sistema Eletrônico de Execução Unificado (SEEU), verifica-se que o agravante progrediu para o regime aberto com prisão domiciliar e aceitou as condições estabelecidas, assinando o termo de compromisso.
+Aportou aos autos a informação de que ele estava descumprindo as condições do regime aberto entre o mês de junho de 2018 e o mês de fevereiro de 2019.
+Registro, com devida vênia àqueles que entendem de forma diversa, que o período de descumprimento das condições do regime aberto não pode ser computado como pena cumprida.
+O descumprimento das condições impostas pelo Juízo da execução inviabiliza a contagem daquele período como pena cumprida. A regra é o regular cumprimento da pena, sendo vedado o seu cômputo ficto.
+Prevalece a regra de que deve ser exigido o regular cumprimento da pena, e isso significa que a desconsideração do período em que o reeducando deixou de cumprir as condições impostas independe da existência de previsão legal.
+(..)
+No caso em apreciação, afigura-se inviável se falar em extinção da punibilidade do reeducando. Considere-se que o cumprimento integral da pena estava previsto para 28.12.2022 (evento 6). Ocorre que não foi lançada a interrupção da execução referente ao período em que ele permaneceu em descumprimento das condições, entre junho de 2018 e fevereiro de 2019.
+Conclui-se, portanto, que a decisão agravada deve ser reformada em conformidade com os precedentes dos tribunais superiores e deste egrégio Tribunal de Justiça (grifos acrescidos).
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o acórdão impugnado está em conformidade com a jurisprudência desta Corte, a qual entende que "se o apenado não compareceu em juízo para o cumprimento das condições impostas, relativas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida, a despeito de inexistir decisão anterior de sustação cautelar do referido regime" (AgRg no AREsp 2.110.055/MG, relator o Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/06/2023, DJe de 23/06/2023, grifos acrescidos).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
