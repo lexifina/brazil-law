@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de ação de nulidade de ato judicial (querela nullitatis insanabilis) apresentada por ERALDO TADEU DA SILVA, contra o acórdão que não conheceu do AgInt no RE no AgInt na Reclamação n. 46.055-BA, em razão da incidência da Súmula n. 182 do STJ, cujo trânsito em julgado ocorreu em 22/4/2024.
+Defende que (fls. 14-15):
+ ..  se justifica a nulidade da decisão/ acórdão pois que não houve qualquer manifestação - fundamentação inexistente - sobre os fundamentos postos nas razões recursais, qual seja, que a decisão agravada anteriormente fora proferida sem a observância do disposto no art. 93, inciso IX, da Constituição Federal e em violação ao disposto no art. 489, §1º, inciso II, do Código de Processo Civil, padecendo de fundamentação adequada, ao repetir os fundamentos da decisão anterior, deixando de considerar que os litigantes têm o direito de conhecer precisamente as razões de fato e de direito que determinaram o sucesso ou insucesso de suas posições de tal modo que as questões submetidas devem ficar claramente resolvidas e decididas inclusive para proporcionar o reexame da matéria pela Superior Instância, verbis: "Elevada a cânone constitucional, a fundamentação apresenta-se como uma das características do processo contemporâneo, calcado no "due process of law", representando uma "garantia inerente ao Estado de direito"" (REsp. 131.899 - MG - STJ - 4ª T. - Rel. Min. Sálvio de Figueiredo Teixeira).
+Reitera a alegação de ofensa ao art. 93, IX, da Constituição Federal suscitada no referido recurso extraordinário e pretende seja declarada a nulidade do acórdão impugnado.
+É o relatório.
+A ação de nulidade, que deve ser ajuizada perante o juízo que proferiu a decisão supostamente viciada, é prevista no art. 966, § 4º, do Código de Processo Civil, que assim dispõe:
+Os atos de disposição de direitos, praticados pelas partes ou por outros participantes do processo e homologados pelo juízo, bem como os atos homologatórios praticados no curso da execução, estão sujeitos à anulação, nos termos da lei.
+Entretanto, a competência originária do Superior Tribunal de Justiça é adstrita aos casos previstos no art. 105, I, da Constituição Federal, dentre os quais estão presentes apenas duas vias de impugnação de decisões transitadas em julgado, tal como na espécie, quais sejam, as "revisões criminais e as ações rescisórias de seus julgados", consoante o disposto na alínea e do inciso I do art. 105 da CF.
+Com efeito, "a competência deste Superior Tribunal de Justiça no âmbito dos processos originários não compreende a relativização da coisa julgada fora das hipóteses das revisões criminais e das ações rescisórias de seus julgados, sendo incabível o ajuizamento da ação declaratória diretamente perante este Superior Tribunal de Justiça" (AgRg na Pet n. 10.975/RJ, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/10/2015, DJe de 3/11/2015.)
+No mesmo sentido:
+AGRAVO REGIMENTAL NA PETIÇÃO. QUERELA NULLITATIS INSANABILIS. PLEITO DE RECONHECIMENTO DE NULIDADE POR AUSÊNCIA DE INTIMAÇÃO PARA APRESENTAÇÃO DE CONTRARRAZÕES DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL PARA APRECIAR E JULGAR ORIGINARIAMENTE A CAUSA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. As competências desta Corte tratam de matéria de direito estrito, previstas taxativamente no art. 105 da Constituição da República, no qual não há previsão para o julgamento originário de querela nullitatis. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg na Pet n. 13.311/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/6/2020, DJe de 15/6/2020.)
+Assim, diante da manifesta ausência de previsão legal para o julgamento da querela nullitatis por esta Corte, não é possível o conhecimento do pedido.
+Ante o exposto, com base no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da insurgência.
+Publique-se. Intimem-se.
+EMENTA
