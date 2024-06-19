@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor EDILSON PEREIRA DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei 11.343/06 à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime fechado, somados ao pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Interpostos recursos de apelação pelo Ministério Público e pela Defesa, este foi desprovido e aquele foi parcialmente provido, redimensionando a pena para 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão e ao pagamento de 777 (setecentos e setenta e sete) dias-multa (e-STJ, fls. 19-52).
+Nesta via recursal, o patrono pleiteia o retorno da pena-base ao mínimo legal, tendo em vista que a natureza e a quantidade de drogas, bem como as circunstâncias do crime, não destoam do tipo penal. Subsidiariamente, requer a aplicação da fração de 1/6.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No tocante à basilar, extrai-se do acórdão apelatório:
+"O Ministério Público se insurge contra a r. sentença no tocante a dosimetria aplicada pelo Juízo Monocrático
+Requer o Ministério Público que seja a pena-base seja fixada acima da fração fixada na sentença.
+Razão assiste o Parquet
+A "natureza" e "quantidade" do entorpecente, ambas previstas no art. 42, da Lei 11.343/06, são amplamente desfavoráveis aos apelantes, razão pela qual justifica-se a fixação da pena base acima do mínimo legal, pois o grau de reprovabilidade da conduta do agente se mostra mais alto em razão de traficar grande quantidade de droga extremamente nociva à saúde.
+Mesmo diante da elevada quantidade e da diversidade de drogas, o MM. Juízo de Direito "a quo" fixou a pena básica acima do mínimo legal.
+A majoração da base é necessária, dês que a quantidade das drogas apreendidas, deve ser combatida com maior rigor, já que tais circunstâncias agravam a reprovabilidade já atinente ao tipo penal.
+Ressalte-se que embora este Relator perfilhasse do entendimento que a quantidade da droga apreendida serviria para caracterizar o delito de tráfico de drogas, mas não era suficiente à exacerbação da pena-base, após minuciosa análise sobre o tema, filio-me ao entendimento de que quantidade e natureza da droga, neste caso, recomendam a fixação acima do mínimo, o que é permitido pelo artigo 42, da Lei de Drogas.
+É cediço que o artigo 42 da Lei nº 11343/2006 prevê critérios específicos para a fixação da pena na primeira etapa da dosimetria, ao dispor que "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente". Nesse ponto, é de se ver que a quantidade do material 80Kg encerra aspecto preponderante na fixação da pena base.
+Sobre o tema a seguinte jurisprudência:
+ ..
+Com efeito, a grande quantidade e natureza da substância entorpecente, bem como as circunstâncias do crime, excedem a normalidade do tipo do art. 33, caput, da Lei 11.343/2006, autorizando o incremento da pena-base. Assim, em atenção à preponderância da natureza e da quantidade de droga, o acréscimo de 1/2 (metade) se mostra adequado e proporcional ao caso concreto, de modo que a pena base dos acusados.
+A propósito:
+ ..
+A propósito, nunca é demais lembrar que nenhum acusado tem o direito subjetivo à pena mínima, nem mesmo os primários e possuidores de bons antecedentes.
+Nesse sentido se manifesta o Pretório Supremo Tribunal Federal:
+ ..
+Assim, passo à nova dosimetria da pena.
+Deste modo, na primeira fase, estabeleço a pena-base acima do mínimo legal, como acima mencionado, majoro a mesma em 1/3 (um terço), perfazendo a pena em 06 anos e 08 meses de reclusão e ao pagamento de 666 dias-multa. Na segunda não há atenuantes. Os réus são reincidentes, que justifica o aumento da pena em 1/6, resultando em 07 anos, 09 meses e 10 dias de reclusão e ao pagamento de 777 dias-multa.
+Não há causas de aumento ou de diminuição a serem consideradas, resultando a pena em definitiva em 07 anos, 09 meses e 10 dias de reclusão e ao pagamento de 777 dias-multa." (e-STJ, fls. 39-43)
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Como cediço, "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/9/2020, DJe 21/9/2020).
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, o Tribunal de origem valeu-se da grande quantidade e natureza nociva das drogas - 167,21g de crack, 10,2g de cocaína e 1063,24g de maconha, no total (e-STJ, fl. 22) - para exasperar a pena-base, o que não se mostra desproporcional e se coaduna à pacífica jurisprudência desta Corte.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. QUANTIDADE, NATUREZA, VARIEDADE. FUNDAMENTAÇÃO ADEQUADA. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/06. INDEVIDO BIS IN IDEM. INOCORRÊNCIA. OUTROS ELEMENTOS INDICADOS PARA AFASTAR A CAUSA ESPECIAL DE DIMINUIÇÃO DE PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Além da quantidade da droga apreendida, a origem destacou a sua forma de acondicionamento, o contexto da apreensão e o depoimento de testemunhas, não havendo falar, portanto, em indevido bis in idem pela suposta utilização apenas da quantidade de entorpecente como fundamento para afastar a minorante prevista no § 4º do art. 33 da Lei de Drogas ou na ausência de fundamentação idônea.
+2. Considerando a quantidade, a variedade e a natureza das drogas apreendias, "212 invólucros de cocaína, pesando 95.7 gramas, 255 pedras de crack, pesando 30.4 gramas, e 80 invólucros de maconha, pesando 110.5 gramas" (fl. 13), a exasperação da pena-base em 1/3 mostra-se adequada. Precedente.
+3. Agravo regimental desprovido."
+(AgRg no HC 838769 / SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/04/2024, DJe 18/04/2024; destacou-se.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, DO CPP. IMPOSSIBILIDADE. PENA MÍNIMA EM ABSTRATO DO DELITO SUPERIOR A 4 ANOS. PRECEDENTES. AUMENTO DA FRAÇÃO DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. EXPRESSIVA QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES. PATAMAR MANTIDO NA FRAÇÃO DE 1/3. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- A legislação brasileira não prevê um percentual fixo para o aumento da pena-base em razão do reconhecimento das circunstâncias judiciais desfavoráveis, tampouco em razão de circunstância agravante ou atenuante, cabendo ao julgador, dentro do seu livre convencimento motivado, sopesar as circunstâncias do caso concreto e quantificar a pena, observados os princípios a proporcionalidade e da razoabilidade.
+- Ademais, a quantidade e a natureza dos entorpecentes constituem fatores que, de acordo com o art. 42 da referida Lei, são preponderantes para a fixação das penas relacionadas ao tráfico ilícito de entorpecentes, podendo serem sopesados na primeira ou na terceira fases do cálculo dosimétrico, sendo vedado, apenas, o bis in idem. Precedentes.
+- Na espécie, não verifico a ocorrência do constrangimento ilegal apontado pela impetrante, porquanto a expressiva quantidade e natureza especialmente deletéria do entorpecente apreendido - 990 gramas de cocaína -, justificam a fração de redução na fração de 1/3, nos termos do art. 42, da Lei n. 11.343/2006, haja vista que na ausência de indicação pelo legislador das balizas para o quantum da redução aludida, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice.
+Precedentes.
+- Agravo regimental não provido."
+(AgRg no HC 722434 / GO, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 06/09/2022, DJe 13/09/2022.)
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
+EMENTA
