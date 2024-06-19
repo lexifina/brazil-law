@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por VICTOR EMANUEL DA SILVA MOTA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5391011-39.2023.8.21.7000).
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva pela prática, em tese, de tráfico de drogas e associação para o mesmo fim.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 58/61).
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva, ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Destaca as circunstâncias pessoais favoráveis.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+Liminar indeferida (e-STJ fls. 94/95).
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo desprovimento do recurso ordinário em habeas corpus (e-STJ fls. 138/142).
+É o relatório.
+Decido.
+De início, esclareço que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra.
+Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+No caso, confira-se o que consta do decreto prisional (e-STJ fls. 33/34, grifei):
+No caso concreto, a necessidade da imposição da prisão preventiva do paciente está devidamente fundamentada, cuja decisão segregatória foi proferida através dos seguintes termos (evento 14 - Termo de Audiência 1/Inquérito Policial).
+(..) Ante o exposto, HOMOLOGO o auto de prisão em flagrante de ERIK SANTOS RADUNZ e VICTOR EMANUEL DA SILVA MOTA, nos termos da fundamentação supra.
+ ..
+Nos termos do art. 312 do CPP, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No presente caso, pode-se extrair da simples análise do registro do flagrante e demais elementos de convicção colhidos, a existência do crime e os indícios de autoria a recair sobre o(s) flagrado(s).
+Especificamente em relação aos suficientes indícios de autoria, deve ser ressaltada, ao menos neste momento da persecução penal, a já mencionada reconstituição fática articulada pelos agentes estatais que promoveram a prisão do(s) custodiado(s).
+Observo, quanto ao mais, que está presente a necessidade da segregação para fins de salvaguardar a ordem pública.
+Quanto ao flagrado Victor, veja-se que registra os seguintes antecedentes:
+- Responde a processo: tráfico (5014602-98.2023.8.21.001), tráfico (5018397- 49.2022.8.21.0015);
+- Investigação em andamento: homicídio qualificado (5010473-50.2023.8.21.0015).
+Além disso, observa-se que o flagrado foi, por duas oportunidades (em 11/07/2022 e 20/07/2022) preso em flagrante pelos crimes de tráfico de drogas, sendo concedida liberdade provisória.
+Tais circunstâncias evidenciam a contumácia delitiva do custodiado(s), especialmente na prática de crimes patrimoniais, demonstrando que faz da empreitada criminosa seu estilo de vida e meio de subsistência.
+É notório, ainda, que as medidas cautelares diversas da prisão até então fixadas não se mostraram o suficiente para salvaguardar a ordem pública, assegurar a aplicação da lei penal e frear o ímpeto criminoso do custodiado.
+No mais, sabe-se que o crime de tráfico de drogas acarreta mazela social, prejudicando a saúde dos usuários, gerando gastos extraordinários ao Poder Público para tratamento destes e fomentando diversos outros delitos, muitos dos quais violentos.
+As circunstâncias do fato, com a apreensão de elevada quantidade e diversidade de droga de alto poder lesivo, de averiguação de fatos envolvendo ameaças a policial militar em regime de proteção, são elementos que evidenciam a gravidade concreta da(s) conduta(s) e a elevada probabilidade de o(s) preso(s) continuar(em) suas empreitadas criminosas caso posto(s) em liberdade.
+Tais elementos evidenciam a periculosidade concreta dos custodiados, demonstrando que a restituição de suas liberdades colocaria em risco a ordem pública.
+No presente caso, conforme se extrai do acima referido, não se mostra adequada a aplicação de qualquer medida cautelar diversa da prisão, porquanto se mostrariam insuficientes para salvaguardar a ordem pública.
+Ademais, exige-se a resposta estatal para que a ordem pública seja restabelecida, destacando que a prisão preventiva, embora excepcional, é medida que foi acolhida pela nossa Carta Magna.
+A eventual existência de condições subjetivas favoráveis, consoante iterativa jurisprudência pátria, não impede a prisão preventiva, desde que, como na espécie, presentes os seus requisitos autorizadores.
+Ante o exposto, CONVERTO a prisão em flagrante de ERIK SANTOS RADUNZ e VICTOR EMANUEL DA SILVA MOTA em prisão preventiva.
+Como se vê, a segregação preventiva encontra-se devidamente motivada, pois destacou o Magistrado de piso a gravidade concreta da conduta, asseverando a "averiguação de fatos envolvendo ameaças a policial militar em regime de proteção" (e-STJ fl. 27).
+Além disso, invocou o juiz a reiteração delitiva do acusado, o qual "registra os seguintes antecedentes: - Responde a processo: tráfico (5014602-98.2023.8.21.001), tráfico (5018397- 49.2022.8.21.0015); - Investigação em andamento: homicídio qualificado (5010473-50.2023.8.21.0015). Além disso, observa-se que o flagrado foi, por duas oportunidades (em 11/07/2022 e 20/07/2022) preso em flagrante pelos crimes de tráfico de drogas, sendo concedida liberdade provisória." (e-STJ fl. 26).
+Portanto, a prisão cautelar está amparada na necessidade de garantia da ordem pública.
+Em casos análogos, em relação especificamente à contumácia criminosa, guardadas as devidas particularidades, o Superior Tribunal de Justiça assim se pronunciou:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. PRISÃO PREVENTIVA. PACIENTE CONDENADO. REGIME FECHADO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. DUPLA REINCIDÊNCIA ESPECÍFICA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em razão de o paciente ostentar dupla reincidência específica, circunstância que revela a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva. Precedentes.
+III - A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e está autorizada não apenas pelo RISTJ, mas também pelo CPC e, ainda, pelo enunciado da Súmula n. 568 do STJ, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante.
+Agravo regimental desprovido.
+(AgRg no HC n. 837.564/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023, grifei.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. FURTO SIMPLES. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. ORDEM DENEGADA. AGRAVO DESPROVIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. RECURSO IMPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois, independentemente do valor atribuído à res furtiva, consta dos autos que o recorrente possui duas condenações anteriores definitivas pela prática de crimes de roubo e furto, circunstância que demonstra a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, ficando afastado o requisito do reduzido grau de reprovabilidade da conduta para aplicação do princípio da insignificância ora pretendido. Precedentes.
+3. Com relação à prisão preventiva, sabe-se que a validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+4. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+5. No caso, a decisão que impôs a prisão preventiva destacou que o recorrente é multirreincidente em crimes patrimoniais, evidenciando sua reiterada atividade delitiva. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.6. Recurso em habeas corpus improvido.
+(RHC n. 161.967/MG, de minha relatoria, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022, grifei.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da reiteração delitiva do ora recorrente, que, na dicção do juízo de primeiro grau, "já foi preso em data anterior e recente por delito de igual natureza, tendo recebido liberdade provisória em 25.06.2016" (pouco mais de um mês antes da prisão em flagrante no processo que deu origem ao presente recurso ordinário). Ressaltou-se, ainda, a gravidade in concreto do delito, cifrada na considerável quantidade de substância entorpecente apreendida (148,7 gramas de maconha), tudo a conferir lastro de legitimidade à medida extrema.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. "Não prospera a assertiva de que a custódia cautelar é desproporcional à futura pena do paciente, pois só a conclusão da instrução criminal será capaz de revelar qual será a pena adequada e o regime ideal para o seu cumprimento, sendo inviável essa discussão nesta ação de Habeas Corpus" (HC 187.669/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 24/05/2011, DJe 27/06/2011).
+4. Recurso a que se nega provimento.
+(RHC n. 77.701/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/12/2016, DJe 15/12/2016.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. COLABORAÇÃO COM O TRÁFICO DE DROGAS. INFORMANTE. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE JUSTA CAUSA. PREJUDICIALIDADE. PRISÃO CAUTELAR. FUNDAMENTAÇÃO DO DECRETO CONSTRITIVO. REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO PARCIALMENTE PREJUDICADO E, NO MAIS, DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da reiteração delitiva do ora recorrente, que, na dicção do juízo de primeiro grau, além de possuir pretérita condenação pelo crime de roubo, encontrava-se ".. em gozo de liberdade provisória que lhe foi recentemente concedida em 26/09/2015 e em prisão domiciliar desde 09/04/2015..", quando foi apanhado em flagrante pela prática, em tese, do crime de colaboração com o tráfico de drogas.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso parcialmente prejudicado e, no mais, desprovido.
+(RHC n. 70.788/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/6/2016, DJe 14/6/2016.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada no envolvimento frequente dos sentenciados na delinquência, inclusive com reiteração delitiva após ser o paciente beneficiado com liberdade provisória, não há falar em ilegalidade a justificar a concessão da ordem de habeas corpus.
+2. Habeas corpus denegado.
+(HC n. 318.339/MS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/10/2015, DJe 17/12/2015.)
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PACIENTE PRESA EM FLAGRANTE DURANTE A LIBERDADE PROVISÓRIA CONCEDIDA EM OUTRO PROCESSO. RISCO À ORDEM PÚBLICA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PARECER ACOLHIDO.
+1. Diz a nossa jurisprudência que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais. É esse o entendimento reiterado do Superior Tribunal de Justiça (AgRg no HC n. 122.788/SP, Ministro Nilson Naves, Sexta Turma, DJe 16/8/2010).
+2. O Juízo de origem, ao decretar a prisão da paciente, fê-lo com base na probabilidade concreta de reiteração da conduta criminosa, uma vez que, conforme consta do próprio decreto prisional, quando da prisão em flagrante, a indiciada estava em gozo de liberdade provisória concedida em outro processo, também pelo cometimento de tráfico de drogas.
+ ..
+4. Ordem de habeas corpus denegada.
+(HC n. 327.690/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/10/2015, DJe 26/10/2015.)
+Ademais, é cediço nesta Corte que "a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar" (HC n. 607.654/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 16/12/2020).
+Saliento que as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP são insuficientes para a consecução do efeito almejado. Deve-se considerar que o acusado foi flagrado na suposta prática de novo crime, após ser beneficiado com a liberdade em processo diverso, fato a evidenciar que as medidas cautelares alternativas previstas no referido art. 319 do CPP revelam-se concretamente insuficientes (AgRg no HC n. 580.757/SP, relatora a Ministra L aurita Vaz, Sexta Turma, julgado em 23/6/2020, DJe 4/8/2020).
+Por fim, c ondições subjetivas favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória, tal como ocorre na hipótese.
+À vista do exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
