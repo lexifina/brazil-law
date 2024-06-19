@@ -1,0 +1,22 @@
+DECISÃO
+CARLOS ROBERTO TERNES alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no HC n. 5028980-86.2024.8.24.0000.
+Requer, liminarmente e no mérito, a concessão de salvo conduto para "impedir que o paciente CARLOS ROBERTO TERNES seja levado à um eventual cumprimento provisório e imediato de pena após uma possível sentença condenatória no âmbito do tribunal do Júri" (fl. 22).
+Destaca que: a) o "paciente esteve preso preventivamente no presente feito de 31/08/2012 até 01/08/2013 e encontra-se em liberdade desde então a mais de dez anos, comparecendo a todos os atos do processo" (fl. 7); b) sua liberdade provisória foi mantida na decisão que o pronunciou pela incursão no art. 121, § 2º, I e IV, c/c o art. 14, II, ambos do Código Penal, por duas vezes, e nos arts. 121, § 2º, I e IV, e 288, parágrafo único, do Código Penal; c) "a Solenidade de julgamento do Tribunal do Júri resta designada para 02/07/2024" (fl. 7).
+Decido.
+O writ comporta pronta solução, uma vez que o pedido defensivo não encontra amparo na jurisprudência do STJ.
+A Corte estadual negou a concessão de salvo conduto pelos seguintes motivos (fls. 29-30):
+Esta Primeira Câmara Criminal adota o entendimento de que, com base na alteração promovida pelo Pacote Anticrime na redação do art. 492 do Código de Processo Penal, é viável a execução provisória para as hipóteses de acusado condenado a pena superior a 15 anos de reclusão pela prática de crime doloso contra a vida, justamente como ocorreu no caso em tela.
+Nesse sentido:
+ ..
+Necessário reconhecer que o Supremo Tribunal Federal, sob a relatoria do Min. Luís Roberto Barroso, reconheceu a repercussão geral da matéria, a fim de que o plenário da Corte Suprema decida acerca da constitucionalidade do mencionado dispositivo legal (RE 1.235.340). Ainda não há decisão formada sobre o tema, embora já se tenha maioria em formação para reconhecer viável a execução da pena conforme estabelecido na norma. De todo modo, em nenhum momento determinou-se a suspensão da eficácia do comando que determina a prisão do acusado condenado no Tribunal do Júri a uma pena igual ou superior a 15 anos de reclusão.
+Aliás, as mais recentes decisões do Supremo Tribunal Federal reconhecem a constitucionalidade de tal preceito, servindo como exemplo:
+ ..
+Nesse cenário, não há motivos para a concessão do salvo conduto postulado na impetração.
+Apesar de sensível aos argumentos da defesa, o direito deduzido na impetração não se reveste de plausibilidade jurídica. A determinação do Juiz de primeiro grau está amparada no art. 492, I, "e", do CPP, e assentou-se constituir questão constitucional definir, conforme a Súmula Vinculante n. 10, se a soberania dos vereditos autoriza a imediata execução de pena não definitiva imposta pelo Tribunal do Júri.
+Não existe jurisprudência sobre a matéria, sob a ótica constitucional. O tema pende de discussão em recurso extraordinário e é controvertido. Não se declarou a inconstitucionalidade de dispositivo de lei federal que segue vigente em nosso ordenamento.
+Ademais, é impossível antever o resultado do RE 1.235.340/SC, de relatoria do Ministro Luís Roberto Barroso, que teve repercussão geral reconhecida no Tema 1.068. O julgamento virtual iniciou-se e a tese proposta pelo relator foi a de que: "A prisão do réu condenado por decisão do Tribunal do Júri, ainda que sujeita a recurso, não viola o princípio constitucional da presunção de inocência ou não culpabilidade, tendo em vista que as decisões por ele proferidas são soberanas (art. 5º, XXXVIII, da CF)".
+O referido julgamento foi interrompido, em razão de pedido de destaque formulado pelo Ministro Gilmar Mendes e será reiniciado presencialmente, sem data designada para tanto. Todavia, parece existir certa inclinação para a declaração de constitucionalidade do dispositivo federal, uma vez que, até o referido pedido de destaque, a Corte Suprema já havia formado maioria para acolher a tese proposta pelo relator e, pois, declarar a constitucionalidade do art. 492, I, do CPP.
+Nesse contexto, este Superior Tribunal deve observar o art. 97 da CF para afastar a eficácia do art. 492, I, do CPP, e não existe pronunciamento da Corte Especial sobre a questão. Portanto, com a ressalva de meu entendimento pessoal e à luz da jurisprudência da Corte Constitucional, a ordem deve ser denegada.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
