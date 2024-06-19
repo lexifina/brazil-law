@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAELA TELES PINHEIRO BARBOSA contra decisão do TRIBUNAL DE JUSTIÇA DO MARANHÃO que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal de 1988, dirigido contra o acórdão proferido na Apelação Cível n. 0801522-17.2016.8.10.0001.
+Segue abaixo a ementa do acórdão (fls. 270-271):
+APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. ESCALONAMENTO VENCIMENTOS PROFESSORES. AUTORA NOMEADA PROFESSORA APÓS A EDIÇÃO DA LEI ESTADUAL Nº 8.186/2004, TERMO FINAL DA EFICÁCIA DA LEI ESTADUAL Nº 7.072/98 RECONHECIDO NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA Nº 18.193/2018. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO DO ACÓRDÃO PROFERIDO NO IAC.
+I. Execução individual de sentença proferida em ação coletiva.
+II. A decisão atacada atendeu aos parâmetros elencados no título executivo e aplicou a tese firmada no incidente de assunção de competência.
+III. Depreende-se que o início dos cálculos deve ser considerado o período de fevereiro de 1998, data início dos efeitos financeiros da lei estadual nº 7.072/98, ou a partir da data da posse para aqueles que ingressaram no serviço público em momento posterior ao período em comento.
+IV. No mesmo sentido, como termo final das diferenças remuneratórias deve coincidir com a edição da lei 8.186/2004. Se a apelante ainda não era ocupante de cargo do magistério da rede pública de ensino estadual à época em que os salários dos respectivos profissionais tinham os seus valores definidos pela Lei nº 7.072/1998, não poderia haver para ele o direito às diferenças salariais que são o objeto da condenação da ação coletiva nº 14.440/2000.
+V. Portanto, diante do acervo probatório acostado aos autos, verifica-se que a exequente somente ingressou na carreira pública de magistério do Estado do Maranhão em 29/03/2011 (id2375635), momento posterior a reestruturação da carreira, razão em impõe-se a manutenção do entendimento do juízo de primeiro grau.
+VI. Vale destacar que o REsp 1.235.513/AL não possui aplicabilidade ao caso em comento, na medida em não se discutiu no IAC eventual compensação de reajuste concedido por leis posteriores, mas sim, o lapso temporal em que o direito ao interstício de 5%, cumulativamente, entre as referências das Classes dos Magistrados de 1º e 2, seria devido pelo Estado do Maranhão, ou seja, a matéria trata sobre a limitação temporal, à luz do art. 505 do CPC, e não sobre a compensação de valores.
+VII. Apelação improvida.
+Os embargos de declaração opostos foram rejeitados (fls. 298-315).
+Nas razões do apelo nobre, a parte agravante alega violação dos arts. 489, § 1º, incisos IV, V e VI, e 1.022, parágrafo único, inciso I, do CPC/2015, sustentando a existência de negativa de prestação jurisdicional.
+Suscita também, além de dissídio jurisprudencial, violação do art. 927, inciso III, do CPC/2015, tendo em vista a aplicabilidade dos Temas n. 476 e 804 do STJ ao caso concreto para reconhecer a inexistência de limitação temporal do feito e o afastamento da ilegitimidade ativa da parte recorrente.
+Por fim, defende a exclusão de multa de em embargos declaratórios considerados protelatórios.
+Requer, assim, o provimento do recurso.
+Oferecidas contrarrazões (fls. 380-390).
+O recurso especial não foi admitido, por ausência de omissão do julgado controvertido, quanto à violação dos arts. 489, §1º, incisos IV e VI, e 1.022, inciso I, do CPC, bem como pela incidência dos óbices das Súmulas n. 7 do STJ e n. 280 do STF, em relação à contrariedade ao art. 927, inciso III, do CPC (fls. 392-397).
+Sem contraminuta ao agravo (fl. 422).
+É o relatório.
+Decido.
+Constatadas as condições para o conhecimento do agravo, passo a análise do recurso especial .
+De início, verifico que a alegada afronta aos arts. 489, § 1º, incisos IV e VI, e 1.022, inciso I, do CPC não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia dos autos, fundamentando suficientemente e com clareza sua convicção, não havendo se falar em negativa de prestação jurisdicional porque inocorrentes omissões no acórdão da origem.
+Cita-se abaixo trecho da decisão (fl. 276, sem grifos no original):
+Vale destacar que o REsp 1.235.513/AL não possui aplicabilidade ao caso em comento, na medida em não se discutiu no IAC eventual compensação de reajuste concedido por leis posteriores, mas sim, o lapso temporal em que o direito ao interstício de 5%, cumulativamente, entre as referências das Classes dos Magistrados de 1º e 2, seria devido pelo Estado do Maranhão, ou seja, a matéria trata sobre a limitação temporal, com esteio no art. 505 do CPC, e não sobre a compensação de valores.
+Assim sendo, inexiste, qualquer ofensa ao Resp. 1.235.513/AL, vez que este impossibilita a possível compensação com leis posteriores, o que, por certo, não aconteceu na presente demanda, já que o IAC nº. 18.193/2018 estabeleceu a Lei Estadual nº 7.072/98 como marco inicial para a cobrança de diferenças remuneratórias devidas aos servidores públicos do Grupo Operacional Magistério de 1º e 2º graus em razão da Ação Coletiva nº 14.440/2000, sendo o termo final dessas diferenças remuneratórias a edição da Lei 8.186/2004, que veio dar cumprimento efetivo à Lei 7.885/2003, ou seja, a matéria trata sobre a limitação temporal, e não sobre a compensação de valores.
+Nesse cenário, é importante ressaltar que o Tribunal não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. A propósito: AgInt no AREsp 1.793.376/AL, rel. Ministro Gurgel de Faria, Primeira Turma, DJe 30/03/2022 e AREsp 1621544 / RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 13/05/2020.
+Não se vislumbra, portanto, a alegada negativa de prestação jurisdicional.
+No que se refere à controvérsia referente à aplicabilidade dos Temas n. 476 e 804 do STJ, o órgão julgador amparou seu entendimento nas Leis estaduais n. 7.072/1998, 7.885/2003 e 8.186/2004.
+À luz do disposto na Súmula n. 280 do STF, aplicável por analogia, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação de dispositivos de lei federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. DECISÃO DA PRESIDÊNCIA MANTIDA.
+ ..
+2. Depreende-se ter sido a lide julgada à luz de interpretação de legislação local - as Leis Estaduais 1.386/1.951, 4.819/1.958 e 200/1974. Com efeito, da forma como ficou definido pelo Colegiado originário, imprescindível seria a análise da referida legislação para o deslinde da controvérsia, providência incabível em Recurso Especial ante o óbice, por analogia, da Súmula 280/STF, segundo a qual "por ofensa a direito local não cabe Recurso Extraordinário".
+Desse modo, fica impedido o conhecimento do apelo especial também neste ponto.
+3. Agravo Interno não provido. (AgInt no AREsp 2475609 / SP , relator Ministro Herman Benjamin , Segunda Turma, DJe 4/6/2024).
+Cumpre ressaltar que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do recurso especial pela alínea a do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ENSINO SUPERIOR. PEDIDO DE TRANSFERÊNCIA. CONGENERIDADE ENTRE INSTITUIÇÕES. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Inexiste ofensa aos arts. 489, § 1º, IV e VI e 1.022, I e parágrafo único, II, do CPC/2015, quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão do recorrente.
+2. O Superior Tribunal de Justiça entende que o servidor municipal, estadual ou federal aluno de instituição de ensino superior que é transferido ex officio tem assegurado o direito a matrícula, desde que congêneres as instituições de ensino, excetuando-se a regra em caso de inexistência de estabelecimento de ensino da mesma natureza no local da nova residência ou em suas imediações.
+3. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Hipótese em que o Tribunal de origem assentou o entendimento de que os autores não demonstraram a presença dos requisitos legais para a transferência de instituição de ensino.
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+6. Agravo interno desprovido. (AgInt no REsp 2.114.463/RN, relator Ministro Gurgel de Faria , Primeira Turma, DJe 6/6/2024) (sem grifos no original).
+Ademais, o pedido de exclusão da multa em embargos declaratórios, considerados protelatórios não pode ser acolhido, pois a agravante deixou de indicar precisamente dispositivo legal controvertido. Por oportuno, frisa-se que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o óbice da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Outrossim, o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial. Incide, portanto, o óbice da Súmula n. 7 do STJ.
+Consoante entendimento dessa corte: "rever a conclusão de que os Embargos são protelatórios também demanda revolver o acervo documental dos autos, procedimento vedado em Recurso Especial pela Súmula 7/STJ" (AgInt nos EDcl no AREsp n. 1.787.080/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 7/5/2024).
+Ante o exposto, com fundamento no art. 932 do CPC, CONHEÇO do agravo para não CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. TEMAS N. 476 E 804 DO STJ. ACÓRDÃO COM FUNDAMENTO EM LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO STF. MULTA EM EMBARGOS CONSIDERADOS PROTELATÓRIOS. SÚMUL AS N. 284 DO STF E N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
