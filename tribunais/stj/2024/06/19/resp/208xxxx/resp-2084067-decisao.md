@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional contra acórdão assim ementado (fl. 108):
+1-) Agravo em Execução Penal. Não provimento do recurso ministerial.
+2-) Sistema híbrido não é possível sem ocasionar prejuízos aos sentenciados. Ofensa ao princípio da proporcionalidade.
+3-) O prazo prescricional para pena de multa é estabelecido nos termos do art. 114, inciso II do Código Penal. De outro lado, o art. 51 do Estatuto Repressivo prevê que a multa também é considerada dívida de valor, aplicando-se as normas relativas à dívida ativa da Fazenda Pública no que tange as causas suspensivas e as interruptivas da prescrição. Interpretação literal do dispositivo.
+Precedentes.
+4-) Decisão mantida.
+Nas razões de seu recurso, aponta o recorrente violação dos arts. 51, 52, 115, 116, 117, inciso V, do Código Penal, requerendo que seja reconhecida a possibilidade de cumulação das normas do Código Penal com as relativas à dívida ativa da Fazenda Pública, na solução de questões relativas à contagem, suspensão e interrupção de prazos prescricionais da pretensão executória da pena de multa, quando uma completar a outra em sua respectiva esfera de atuação e não conflitarem entre si e na hipótese de conflito de normas a solução.
+Manifestou-se o Ministério Público Federal pelo parcial provimento recursal.
+Sobre a controvérsia aqui trazida, assim se manifestou o Tribunal local (fls. 109/113):
+O agravo não comporta acolhimento.
+Extrai-se dos autos de Agravo de Execução Penal nº 0004168-88.2022.8.26.0482 (fls. 67/72):
+"O agravado foi condenado à pena de dois (2) anos, em regime inicial fechado, além do pagamento de dez (10) dias-multa, como incurso no art. 155, § 4º, incisos I e IV, do Código Penal (fls. 11).
+O Ministério Público propôs ação executória da pena de multa (fls. 8/10). Em seguida, o juízo de primeiro grau indeferiu a petição inicial nos termos do art. 330, inciso III, do Código de Processo Civil c/c art. 1º, caput, da Lei Estadual nº 14.272/2010 com extinção do processo sem julgamento de mérito (fls. 13).
+Irresignado, o órgão ministerial propôs agravo em execução, oportunidade em que essa C. 11ª Câmara de Direito Criminal deu provimento ao recurso para dar continuidade a execução da pena de multa (Agravo em Execução nº 0004165-70.2021.8.26.0482 - J. 7.5.2021, fls. 21/29, lavra desta relatoria).
+O executado não foi encontrado para citação (fls. 44).
+O digno Magistrado, considerando o princípio da isonomia e as normas concernentes à dívida ativa, em especial o teor do artigo 174 do Código Tributário Nacional, determinou a suspensão do processo pelo prazo de cinco (5) anos a partir do despacho que determinou a citação do requerido (fls. 54/59)."
+Por votação unânime, ao final, a turma julgadora decidiu: "Deram provimento ao recurso, para que a pena de multa prescreva no mesmo prazo estabelecido para prescrição da pena privativa de liberdade, nos termos do art. 114, inciso II do Código Penal. V.U." (fls. 67).
+Novamente irresignado, o Ministério Público busca a reforma da referida decisão (fls. 73), para que seja implementado um sistema híbrido, considerando as causas interruptivas e suspensivas da legislação penal, como também as normas especiais aplicáveis à dívida ativa da Fazenda Pública.
+Em que pese as razões ministeriais, aplicação do sistema híbrido não merece acolhimento.
+Afora as considerações já realizadas a respeito da pena de multa e de sua natureza como sanção penal, cumpre lembrar que a interpretação literal do art. 51 do Código Penal é a de que as causas interruptivas e suspensivas da prescrição deverão ser as normas relativas à dívida ativa da Fazenda Pública, dispostas na Lei nº 6.830/80 e no art. 174 do Código Tributário Nacional, não sendo adequado acrescer as normas do Estatuto Repressivo, como quer o órgão ministerial, sem ocasionar prejuízos ao sentenciado.
+"Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição." (Destacou-se).
+Isto porque a aplicação concomitante de ambas regras ocasionaria ofensa ao princípio da proporcionalidade, pois não se olvide que o art. 114 do Código Penal já estabelece o prazo prescricional previsto para a pena de multa, não cabendo considerar também os demais artigos do Estatuto Repressivo, especificamente os artigos 116 e 117.
+Observe-se o entendimento do Superior Tribunal de Justiça:
+"2. Prevalece o entendimento de que a nova redação do art. 51 do Código Penal não retirou o caráter penal da multa. Assim, embora se apliquem as causas suspensivas da prescrição previstas na Lei n. 6.830/80 e as causas interruptivas disciplinadas no art. 174 do Código Tributário Nacional, o prazo prescricional continua sendo regido pelo art. 114, inciso II, Código Penal (HC 394.591/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 27/09/2017). 3. O prazo prescricional da pena de multa é o mesmo da pena privativa de liberdade cumulativamente aplicada, nos termos do art. 114, inciso II, do CP. 4. Agravo regimental improvido.(AgRg no AREsp 1249343/ES, T6 - Sexta Turma do Superior Tribunal de Justiça - Relator Ministro Nefi Cordeiro - J. em: 18.9.2018 - DJe 4.10.2018- sublinhou-se).
+ ..
+Como visto, entendeu o Tribunal local que as causas interruptivas e suspensivas da prescrição deverão ser as normas relativas à dívida ativa da Fazenda Pública, enquanto o prazo prescricional é regulado pelo Código Penal.
+Nesse contexto, verifica-se que o entendimento está em consonância com a jurisprudência do STJ, pois, " s egundo o entendimento desta Corte, "a nova redação do art. 51 do Código Penal não retirou o caráter penal da multa. Assim, embora se apliquem as causas suspensivas da prescrição previstas na Lei n. 6.830/80 e as causas interruptivas disciplinadas no art. 174 do Código Tributário Nacional, o prazo prescricional continua sendo regido pelo art. 114, inciso II, Código Penal" (HC 394.591/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/9/2017)" (AgRg no REsp n. 1.998.804/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023). No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PENA DE MULTA. DÍVIDA DE VALOR. PRAZO DO ART. 114, II, DO CP. AGRAVO IMPROVIDO.
+ ..
+2. Prevalece o entendimento de que a nova redação do art. 51 do Código Penal não retirou o caráter penal da multa. Assim, embora se apliquem as causas suspensivas da prescrição previstas na Lei n. 6.830/80 e as causas interruptivas disciplinadas no art. 174 do Código Tributário Nacional, o prazo prescricional continua sendo regido pelo art. 114, inciso II, Código Penal (HC 394.591/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 27/09/2017).
+3. O prazo prescricional da pena de multa é o mesmo da pena privativa de liberdade cumulativamente aplicada, nos termos do art. 114, inciso II, do CP.
+4. Agravo regimental improvido. (AgRg no AREsp n. 1.249.343/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/9/2018, DJe de 4/10/2018.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
