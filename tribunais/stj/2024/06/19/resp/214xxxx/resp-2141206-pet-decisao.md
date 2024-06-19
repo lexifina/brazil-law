@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Fls. 950/956e: Trata-se de Pedido de Distinção formulado por VALCIR RODRIGUES DE SOUZA em face de decisão que determinou a devolução dos autos ao tribunal de origem, com a devida baixa, devendo o processo permanecer suspenso até a publicação dos acórdãos dos Recursos Especiais Repetitivos acima identificados, a fim de que a Corte de origem, posteriormente, proceda nos termos do art. 1.040, I e II, do Código de Processo Civil, segundo Tema 1.124 desta Corte (fls. 941/943e).
+Alega que a controvérsia é distinta dos Recursos Especiais representativos da controvérsia representada no tema, porquanto a documentação foi anteriormente submetida a crivo administrativo.
+Requerer o prosseguimento do Recurso Especial.
+É o relatório. Decido.
+Por primeiro, embora o recorrente alegue que a prova já teria sido submetid ao crivo administrativo do INSS, o acórdão recorrido expressamente rechaça a assertiva consignando que "da análise do processo administrativo (fl. 318, id Num. 221421769 - Pág. 3) dessume-se que o PPP que ensejou nesta ação o enquadramento como especial dos períodos indicados pelo autor não foi juntado na DER de 15.08.2017, inviabilizando a concessão do benefício desde esta data".
+Desse modo, inviável a distinção da controvérsia delimitada no Tema 1.124/STJ, no qual se analisará "o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS, se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária."
+Por fim, ressalto a orientação consolidada neste Superior Tribunal segundo a qual é irrecorrível a decisão que determina a devolução dos autos à origem para aguardar julgamento de recurso repetitivo, por não possuir carga decisória, salvo se demonstrado, efetivamente, erro ou equívoco, o que não ocorre no caso.
+Nessa linha:
+ADMINISTRATIVO. MATÉRIA JULGADA COMO REPETITIVO. REsp 1.339.313/RJ (TEMA 565/STJ). DISTINGUISHING INVÁLIDO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA ADEQUADO JUÍZO DE CONFORMAÇÃO. ATO JUDICIAL DESPROVIDO DE CARGA DECISÓRIA. IRRECORRIBILIDADE.
+1. "Encontrando-se o acórdão a quo em contrariedade com o entendimento firmado em acórdão julgado sob a sistemática do recurso repetitivo, necessária a devolução dos autos à Corte de origem para o devido juízo de retratação, nos termos dos artigos 1.040 e 1.041 do CPC " (AgInt na PET no AREsp 644.832/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 4/5/2017).
+2. Caso concreto que tem por objeto o mesmo tema do repetitivo consubstanciado no REsp 1.339.313/RJ (Tema 565/STJ), razão pela qual se ordenou o retorno dos autos à Corte de origem, para que lá, no juízo de retratação a que alude o art. 1.030, II, do CPC/15, decida em conformidade com a diretriz firmada no aludido repetitivo.
+3. Ato de remessa desprovido de carga decisória e, por isso mesmo, irrecorrível. Nesse sentido: AgInt no AREsp 608.190/PE, Rel.
+Ministro Gurgel de Faria, Primeira Turma, DJe 16/08/2018; AgInt no REsp 1.661.811/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 29/06/2018; e AgInt no AREsp 1.184.411/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/6/2018.
+4. Agravo interno não conhecido.
+(AgInt no REsp 1922039/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 27/04/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. ICMS SOBRE TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO (TUSD). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA E DETERMINAÇÃO DE SUSPENSÃO (ART. 1.035, § 5º, DO CPC/2015). ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+1. É firme a orientação desta Corte segundo a qual a decisão que determina a devolução dos autos para que, após publicado do acórdão relativo ao recurso repetitivo, o Recurso Especial seja novamente examinado pelo Tribunal de origem, não gera prejuízo à parte recorrente. Nesse contexto, a determinação de sobrestamento, com o efetivo retorno dos autos à Corte estadual, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não ocorre no caso dos autos. Nesse sentido: AgInt no REsp n. 1.140.843/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe 30/10/2018 e AgInt no AREsp n. 1.151.542/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 25/10/2018, DJe 6/11/2018.)
+2. Agravo Interno não provido.
+(AgInt nos EDcl no REsp 1901625/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/05/2021, DJe 01/07/2021).
+Posto isso, indefiro o pedido de distinção e determino o imediato cumprimento da decisão.
+Publique-se. Intimem-se. Cumpra-se.
+EMENTA
