@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TRANSPORTES PESADOS MINAS LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: declaratória, ajuizada pela agravante, em face da agravada, na qual pleiteia que a agravada se abstenha de inserir o nome da agravante nos cadastros de inadimplentes e, ao final, seja declarada nula a cláusula de pagamento prevista no contrato celebrado entre as partes, sendo declarado devido apenas o valor apresentado pela parte agravante.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA - LEGISLAÇÃO CONSUMERISTA - INCIDÊNCIA - AUTORA - DESTINATÁRIA FINAL - HIPOSSUFICIÊNCIA TÉCNICA - SUBSUNÇÃO À TEORIA FINALISTA MITIGADA - PRECEDENTE DO STJ- INVERSÃO DO ÔNUS DA PROVA - ART. 6º, VIII, DA LEI 8.078/90 - INAPLICABILIDADE - AUTORA - VEROSSIMILHANÇA DA ALEGAÇÃO - AUSÊNCIA - ARGUIÇÃO - CERCEAMENTO NA PRODUÇÃO DA PROVA - INOCORRÊNCIA - PROCESSO EM TERMOS PARA O JULGAMENTO - PROVAS ADICIONAIS - PRESCINDIBILIDADE.
+PRESTAÇÃO DE SERVIÇOS - CONTRATO DE INTERMEDIAÇÃO PARA UTILIZAÇÃO DE ACADEMIAS CREDENCIADAS POR FUNCIONÁRIOS (GYMPASS) - AUTORA - PRETENSÃO - REVISÃO DO INSTRUMENTO - ALEGAÇÃO- ONEROSIDADE EXCESSIVA E VIOLAÇÃO DOS DEVEDORES CONTRATUAIS- NÃO DEMONSTRAÇÃO- DESCUMPRIMENTO DO ART. 373, I, DO CPC - CLÁUSULAS - FÁCIL INTERPRETAÇÃO - RESPEITO AO PRINCÍPIO DA INTERVENÇÃO MÍNIMA - INTELIGÊNCIA DO ART. 421, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL - PEDIDO INICIAL - IMPROCEDÊNCIA - SENTENÇA - MANUTENÇÃO.
+APELO DAS AUTORAS DESPROVIDO. (e-STJ Fl. 382)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 489 do CPC; ii) ausência de violação do art. 1.022 do CPC; iii) não foi demonstrada a violação dos dispositivos arrolados (incidência da Súmula 284/STF), e iv) incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que as razões recursais foram devidamente fundamentadas, de modo que a incidência da Súmula 284/STF à espécie se revela indevida. Assevera que a análise das razões expostas no apelo especial independe do revolvimento do acervo fático-probatório carreado aos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de violação do art. 489 do CPC e ii) ausência de violação do art. 1.022 do CPC.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 20% sobre o valor atualizado da causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
