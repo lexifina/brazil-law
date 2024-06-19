@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado por EQUATORIAL PIAUÍ DISTRIBUIDORA DE ENERGIA S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, assim ementado (fls. 423/424):
+PROCESSO CIVIL E CONSUMIDOR - APELAÇÃO - AÇÃO DE INDENIZAÇÃO - PRESTAÇÃO PRECÁRIA DE SERVIÇOS PÚBLICOS - RESPONSABILIDADE DA EMPRESA CONCESSIONÁRIA OU PERMISSIONÁRIA CONFIGURADA - INC. X DO ART. 6º C/C OS ARTS. 22 E 14, TODOS DO CDC - RECURSO NÃO PROVIDO.
+1. O inc. X do art. 6º do CDC assegura que é direito básico do consumidor "a adequada e eficaz prestação dos serviços públicos em geral".
+2. Conforme o art. 22 do CDC: "Os órgãos públicos, por si ou suas empresas, concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos".
+3. Nos termos do art. 14. do CDC: "O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos".
+4. Sentença mantida à unanimidade
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 186, 188, I, e 927 do Código Civil. Sustenta que não há, nos autos, prova de conduta ilícita da parte agravante ensejadora dos alegados prejuízos aos direitos de personalidade
+do autor, que sequer foram provados nos autos. Aduz, ainda, que a indenização foi fixada em valor exorbitante, razão pela qual, em sendo mantida a condenação, cabe a redução do montante arbitrado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+No que diz respeito à tese relacionada ao valor da indenização, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+De outro turno, o Tribunal local manteve a sentença de procedência com base nos seguintes fundamentos (fl. 426):
+No caso em exame, as provas coligidas nos autos evidenciam a precariedade do serviço prestado pela apelante, conforme se pode inferir dos documentos, entre os quais está um laudo de investigação de incêndio em edificação elaborado pelo Corpo de Bombeiros do Estado do Piauí, todos constantes dos eventos nº 8125959 a 8126215. Assim, devida a responsabilização da apelante.
+Convém mencionar, a propósito, que a responsabilidade decorrente de relação de consumo é de natureza objetiva  art. 14 do CDC , portanto, não depende da comprovação do elemento "culpa" para restar configurada, possuindo como pressupostos, somente, a comprovação do dano, a prestação de serviço precária e o nexo de causalidade entre ambos.
+No caso em apreço, o nexo de causalidade entre os danos e a prestação de serviços precária restou evidenciada pelo já mencionado laudo de investigação de incêndio em edificação elaborado pelo Corpo de Bombeiros do Estado do Piauí  evento nº 8125960 .
+Por derradeiro, de se dizer que, diante da notória responsabilidade da apelante, fora-lhe imposta a condenação por danos morais e materiais e, neste último caso, o pagamento ficou condicionado a comprovação em sede de liquidação de sentença.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, no sentido de que restou comprovada a ilicitude da conduta praticada pela parte agravante, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
