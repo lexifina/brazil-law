@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos por JOHN CLARK GILLAN e DANIEL FREUMAN contra a decisão de fls. 186-187, que indeferiu o pedido de antecipação dos efeitos da tutela e determinou fosse providenciada a juntada dos documentos faltantes.
+Os embargantes alegam que a decisão foi omissa, obscura e contraditória no que se refere à determinação de juntada de documentos. Sustentam que ao invés de ter indeferido o pedido de antecipação dos efeitos da tutela, a decisão embargada deveria apenas ter postergado a apreciação do pedido por suposta falta de documentação.
+Requerem "a reforma da r. decisão embargada, reconhecendo-se que estão presentes os requisitos da probabilidade do direito e perigo da demora, deferindo-se as medidas de arresto já requeridas".
+É o relatório .
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material existentes no julgado.
+Da leitura do decisum de fls. 186-187, observa-se que os vícios apontados pelos insurgentes não se afiguram presentes.
+Apesar dos esclarecimentos prestados em relação a alguns documentos solicitados e da juntada, nesta ocasião, da tradução juramentada dos documentos estrangeiros de fls. 25 e 26, ainda persiste a deficiência na instrução dos autos, o que inviabiliza, ainda que provisoriamente, a própria pretensão homologatória, impedindo a antecipação de seus efeitos jurídicos.
+Ademais, subsiste o fundamento autônomo de que as sentenças homologandas foram proferidas em fevereiro de 2022 e janeiro de 2023 e apenas agora foi ajuizada a presente ação de homologação, objetivando a antecipação da tutela, o que suscita dúvidas com relação ao alegado quadro de urgência.
+Com relação à alegação da imprescindibilidade do "deferimento das medidas de arresto requeridas, como forma de evitar que o Sr. Abreu adote a mesma postura assumida perante a Justiça norte-americana, a saber, de esvaziamento de seu patrimônio e calote junto a seus credores", ressalte-se que a competência do Superior Tribunal de Justiça se restringe à homologação da sentença estrangeira nos exatos termos em que prolatada, consoante o disposto no art. 105, inciso I, alínea "i", da Constituição Federal. Portanto, questões outras ensejam a atuação dos interessados no manejo das devidas ações de conhecimento e/ou executórias perante a justiça brasileira de primeiro grau, que decidirá sobre atos constritivos.
+Portanto, ao fim e ao cabo, as razões recursais evidenciam o claro propósito da parte embargante de  inconformada com o resultado do julgamento da tutela de urgência  valer-se dos declaratórios para a alteração do decisum impugnado, o que se mostra inviável.
+Ante o exposto, em virtude de não ter restado caracterizada nenhuma das hipóteses previstas no artigo 1.022 do Código de Processo Civil, rejeito os presentes embargos de declaração.
+Intimem-se os requerentes para que, no prazo de 60 dias, providenciem a comprovação do vínculo das decisões estrangeiras (fls. 34-38 e 45 -48) com a apostila de fl. 42, visto que não consta nos referidos documentos qualquer assinatura e/ou carimbo de Lorenzo Walker - gerente assistente de operações.
+Caso inexista a comprovação dessa vinculação, deverá ser providenciada a juntada da chancela consular brasileira ou da apostila das sentenças estrangeiras.
+Decorrido o prazo sem resposta, arquivem-se os autos, consoante o disposto no artigo 216-E, parágrafo único, do RISTJ.
+Publique-se.
+EMENTA
