@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GABRIEL LIMA DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1500008-15.2022.8.26.0168.
+Consta dos autos que o paciente foi condenado pela prática do ilícito previsto no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos e 10 meses de reclusão em regime inicial fechado, e 583 dias-multa.
+Nesta via, sustenta a impetrante que a busca domiciliar realizada pelos agentes públicos seria nula, porquanto consumada sem autorização judicial expressa para tanto (fishing expedition), a configurar o constrangimento ilegal alegado.
+Acrescenta que o mandado judicial foi expedido exclusivamente para proceder à prisão do paciente pela violação de medidas protetivas, inexistindo permissão para realizar a varredura residencial levada a efeito pela guarnição policial.
+Enfatiza que a quantidade de entorpecente apreendido seria ínfima - pouco mais de 140 g de maconha - e não há evidências mínimas do envolvimento do agente com o comércio espúrio.
+Aduz que os predicados pessoais de acusado permitiram que respondesse ao processo em liberdade, bem como faria jus à desclassificação da conduta para o delito previsto no art. 28 da Lei n. 11.343/2006.
+Requer a concessão sumária e definitiva da ordem a fim de que seja declarada nula a busca domiciliar realizada sem autorização judicial e, por consequência, as demais evidências dela derivadas.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal promoveu a CONCESSÃO da ordem. (e-STJ Fl. 108-112)
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Nos termos do art. 240, § 1º, do Código de Processo Penal, a busca domiciliar, quando não precedida de mandado, somente pode ocorrer "quando fundadas razões a autorizarem" para a efetivação das diligências ali listadas.
+Por se tratar de disposição processual referente a temática diretamente correlacionada a direito fundamental (art. 5º, XI, da CRFB/88), o Supremo Tribunal Federal se debruçou sob a matéria, estabelecendo a interpretação do dispositivo processual penal, em repercussão geral, nos seguintes termos: "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados" (Tema 280/STF).
+Firmou-se, portanto, standard interpretativo que tem sido traduzido na jurisprudência deste Superior Tribunal de Justiça através da exigência de que as "circunstâncias que antecederem a violação do domicílio devem evidenciar, de modo satisfatório e objetivo, as fundadas razões que justifiquem tal diligência e a eventual prisão em flagrante do suspeito, as quais, portanto, não podem derivar de simples desconfiança policial, apoiada ,v.g., em mera atitude "suspeita", ou na fuga do indivíduo em direção a sua casa diante de uma ronda ostensiva, comportamento que pode ser atribuído a vários motivos" (HC 598.051/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021).
+No presente feito, como salientou o Ministério Público Federal: "Como se vê, após a fuga do paciente, em razão do cumprimento de mandado de prisão expedido em outra ação penal, os policiais civis realizaram busca no interior do domicílio sem que houvesse autorização judicial ou causa provável." (e-STJ Fl.111)
+Efetivamente, não há de se falar em justa causa para a diligência quando determinada judicialmente apenas a captura do paciente para efeito de cumprimento de prisão anteriormente determinada.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, concedo a ordem para declarar a nulidade das provas obtidas a partir da busca domiciliar realizada em desfavor do paciente, bem como de todas as que delas decorreram e, por conseguinte, determinar a anulação da ação penal, ab initio - sem prejuízo do oferecimento de nova denúncia em desfavor do acusado, desde que apoiada em fatos supervenientes, obtidos com atenção aos limites definidos no art. 5º, inc. XI, da CF/1988, e com estrita observância aos ditames previstos no art. 41 do Código de Processo Penal.
+O paciente deverá ser imediatamente colocado em liberdade se não estiver preso por outro motivo.
+Expeça-se, com urgência, o respectivo alvará de soltura, bem como as demais comunicações pertinentes ao Tribunal de origem e ao Juízo a quo.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem e ao respectivo juízo de primeiro grau.
+Ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
