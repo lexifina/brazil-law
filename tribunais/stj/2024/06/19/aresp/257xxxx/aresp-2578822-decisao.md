@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem, à fl. 353, que não admitiu o recurso especial em razão da inexistência da incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 222):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA INDIVIDUAL. AQUISIÇÃO DE BENS ISENTOS DE EMPRESAS LOCALIZADAS FORA DA ZONA FRANCADE MANAUS. REVENDA TRIBUTADA. CREDITAMENTO DO PIS/COFINS:POSSIBILIDADE. PRESCRIÇÃO DECENAL. COMPENSAÇÃO DO INDÉBITO CONFORME A LEI QUE ESTIVER EM VIGOR QUANDO FOR EFETIVADA.
+1. Preliminar. Ajuizado o presente MS em 24.08.2004, a prescrição é decenalpara compensar crédito tributário, consoante a então predominante jurisprudência do STJ acerca da teoria dos "cinco  cinco".
+2. Seria quinquenal se o ajuizamento tivesse ocorrido a partir de 09.06.2005 (RE/RG 566.621-RS, r. Ministra Ellen Gracie, Plenário do STF em 04.08.2011).
+3. Mérito. Os fornecedores da impetrante situados fora da Zona Franca deManaus estão sujeitos à alíquota zero das contribuições sociais para oPis/Cofins, nos termos da Lei 10.996/2004.4. O STJ pacificou o entendimento de que no regime não cumulativo, não é possível o creditamento na aquisição de insumos isentos, sujeitos à alíquota zero ou não tributados (EDv nos EAREsp 1.109.354-SP, r. Ministro Gurgel de Faria, 1ª Seção em 14.04.2021).
+5. Mas a impetrante tem direito ao creditamento do Pis e da Cofins se narevenda desses produtos houver tributação. Nesse sentido: REsp 1.259.343-AM, r. p/ acórdão Ministra Regina Helena Costa, 1ª Turma do STJ.
+6. Compensação. Acolhido parcialmente o pedido para o creditamento, a impetrante tem direito à compensação do indébito de acordo com a lei vigente na época de sua efetivação (limites percentuais, os tributos compensáveis etc), depois do trânsito em julgado (REsp repetitivo 1.164.452-MG, r. Ministro Teori Albino Zavaski, 1ª Seção/STJ em 25.08.2010).
+7. Apelação da impetrante parcialmente provida e concedida parcialmente asegurança.
+Embargos de declaração rejeitados às fls. 304-313.
+No recurso especial o recorrente alega violação do artigo 1.022 do CPC/15 ao argumento de que a Corte local não se manifestou a respeito da violação ao disposto nos arts. 111, II, do CTN; 3º, § 2º, II, das Leis 10.637/2002 e 10.833/2003.
+Quanto ao mérito, sustenta ofensa ao art. 111, II, do CTN, defendendo, em suma, a impossibilidade de creditamento de PIS e COFINS, por empresas localizadas dentro da ZFM, do valor das mercadorias compradas de empresas sediadas fora de tal área como dentro da área.
+Contrarrazões às fls. 333-348.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Quanto à questão de fundo, observo que a matéria já foi examinada por este Superior Tribunal, quando do julgamento do REsp n. 1.259.343/AM, tendo sido firmadas as seguintes compreensões:
+i) A venda para empresas situadas na Zona Franca de Manaus equivale à exportação de produto brasileiro para o estrangeiro, para efeitos fiscais, sendo, portanto, tal operação isenta da contribuição para o PIS e COFINS (cf. 1ª T., AgInt. no AREsp n. 691.708/AM, Rel. Ministro Gurgel de Faria, j. 13.09.2016, DJe 06.10.2016; 2ª T., REsp n. 1.718.890/AM, Rel. Ministro Herman Benjamin, j. 01.03.2018, DJe 02.08.2018);
+ii) os arts. 3º, § 2º, II, das Leis n. 10.637/2002 e 10.833/2003, de idêntica redação, vedam a concessão de créditos de contribuição ao PIS e COFINS sobre valores de "aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição"; e
+iii) Por conseguinte, extrai-se que a isenção de tais tributos sobre a receita decorrente da aquisição de bens e serviços impede o aproveitamento dos créditos quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição, não obstando o creditamento nos demais casos.
+O julgado está assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. PIS E COFINS. CREDITAMENTO. BENS E SERVIÇOS PROVENIENTES DE EMPRESA LOCALIZADA FORA DA ZONA FRANCA DE MANAUS. POSSIBILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 1973.
+II - A venda de mercadorias a empresas situadas na Zona Franca de Manaus equivale à exportação de produto brasileiro para o estrangeiro, para efeitos fiscais, sendo, portanto, tal operação isenta da contribuição ao PIS e à COFINS. Precedentes.
+III - A Lei n. 10.996/2004, ao estabelecer que a receita decorrente de venda de mercadorias/insumos para a Zona Franca de Manaus passaria a ser sujeita à "alíquota zero", não tem o condão de elidir tal entendimento.
+IV - A teor do disposto nos arts. 3º, § 2º, II, das Leis n. 10.637/2002 e 10.833/2003, a isenção da contribuição ao PIS e à COFINS sobre a receita decorrente da aquisição de bens e serviços não impede o aproveitamento dos créditos, salvo quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição, o que não é o caso dos autos.
+V - Recurso especial provido.
+(REsp n. 1.259.343/AM, relator Ministro Sérgio Kukina, relatora para acórdão Ministra Regina Helena Costa, Primeira Turma, julgado em 3/3/2020, DJe de 24/4/2020 - grifo nosso)
+Escorreito, portanto, o acórdão recorrido ao concluir que a autora tem direito ao aproveitamento de créditos da contribuição para o PIS e da COFINS se, na revenda dos seus produtos, quando houver tributação, independentemente de a aquisição ser isenta ou tributada à alíquota zero.
+Ante o exposto, conheço o agravo para conhecer parcialmente o recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. PIS E COFINS. CREDITAMENTO. AQUISIÇÃO DE BENS PROVENIENTES DE EMPRESA LOCALIZADA FORA DA ZONA FRANCA DE MANAUS. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
