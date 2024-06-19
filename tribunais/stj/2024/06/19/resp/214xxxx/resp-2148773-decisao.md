@@ -1,0 +1,46 @@
+DECISÃO
+Em análise, recurso especial interposto pela REALMAR DISTRIBUIDORA LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+TRIBUTÁRIO. APELAÇÃO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA (COTA PATRONAL E RAT) E DESTINADAS A TERCEIROS. IMPORTÂNCIAS PAGAS, CREDITADAS OU DEVIDAS AOS JOVENS APRENDIZES.
+Os embargos de declaração foram rejeitados.
+A parte recorrente sustenta, além de negativa de prestação jurisdicional, que a norma isentiva do art. 4º, § 4º, do Decreto-Lei 2.318/1986 aplica-se ao menor aprendiz.
+Contrarrazões apresentadas às fls. 209-222.
+É o relatório.
+Passo a decidir.
+Na origem, a parte ora recorrente impetrou mandado de segurança com vistas à exclusão dos valores gastos com os menores aprendizes da base de cálculo da contribuição previdenciária recolhida pelas empresas.
+A sentença que denegara a ordem foi mantida pelo Tribunal Regional, com amparo nos seguintes fundamentos (fls. 85-87):
+Vale salientar que ainda que o contrato de aprendizagem seja um contrato de trabalho especial, pois visa garantir o direito à profissionalização de adolescentes e jovens e prepará-los para o ingresso no mercado de trabalho, tal característica não desnatura a característica da relação jurídica estabelecida entre o aprendiz e a empresa, sendo certo que o vínculo é de emprego.
+Isso porque na aprendizagem estão presentes todos os elementos fáticos- jurídicos do vínculo de emprego, quais sejam: i) subordinação; ii) onerosidade; iii) trabalho prestado por pessoa física; iv) pessoalidade; v) não eventualidade.
+A subordinação está presente, pois a empresa apresenta o poder de direção, delimitando o tempo, a forma e o modo de execução da prestação de serviços, devendo, contudo ser observada a organização das tarefas em complexidade progressiva, conforme legislação trabalhista assim prevê. Tanto é que existe subordinação que o empregador pode dispensar o aprendiz em caso de falta disciplinar grave antes do término do contrato (art. 433, II, da CLT), previsão que sequer existe, por exemplo, na Lei de Estágio ( Lei nº 11.788/08).
+Em relação à onerosidade, encontra-se presente, já que o aprendiz recebe remuneração. Nessa senda, dispõe o art. 428, 2º da CLT, que "ao aprendiz, salvo condição mais favorável, será garantido o salário mínimo hora."
+Trata-se também de um trabalho que necessariamente tem que ser prestado por pessoa física e há pessoalidade, pois o aprendiz é contrato em razão de seus atributos pessoais, de sorte que não pode se fazer subsituir por outra pessoa no exercício de sua função.
+Por fim, há a não-eventualidade, pois o trabalho do aprendiz é habitual.
+Henrique Correia preleciona in Curso de Direito do Trabalho, Editora Juspodivm, 2018, p.440 que " é importante ressaltar que o aprendiz é empregado (..) a particularidade do contrato de aprendizagem consiste em permitir o trabalho a partir dos 14 anos".
+O impetrante se utiliza de normas do Decreto-Lei n. 2.318/1986 para defender a não incindência de encargos previdenciários sobre os jovens aprendizes. Todavia, este Decreto trata do programa de Menores Assistidos, programa distinto da aprendizagem.
+A respeito do tema, o Tribunal Regional Federal da 4ª Região já possui precedentes no sentido de reconhecer o aprendiz como segurado obrigatório, e, por consequência, o dever das empresas de recolherem contribuições previdenciárias sobre suas remunerações, conforme in verbis:
+ ..
+Ao analisar um caso em que se questionou a incidência de contribuições sociais sobre a importância recebida a título de bolsa de estágio, a Quarta Turma Especializada deste Tribunal entendeu que a situação era diversa, não devendo considerar os adolescentes em situação de estágio, mas sim como jovens aprendizes, assegurando, então, o vínculo previdenciário e trabalhista, concluindo pela incidência das referidas contribuições, no mesmo sentido aqui defendido.
+ ..
+Por fim, a abrangência dos aprendizes como segurados obrigatório da previdência social concretiza os princípios constitucionais do valor social do trabalho (art. 1º, IV, da CF/88) e da universalidade da cobertura e do atendimento (194, I, da CF/88), pois protege os adolescentes e jovens aprendizes contra eventuais infortúnios resultantes do trabalho, bem como garante segurança social em caso de doenças.
+O acórdão recorrido não merece reparos.
+Preliminarmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional no acórdão que decide, de modo integral e com fundamentação suficiente a controvérsia posta. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+No caso, a contribuinte requer que seja aplicada a norma isentiva prevista no art. 4º, § 4º, do Decreto-lei 2.318/1986 aos menores aprendizes. Todavia, o benefício fiscal em comento apli ca-se somente aos contratados assistido s com (i) idade entre 12 e 18 anos, (ii) frequência escolar, e (iii) carga horária de 4 horas/dia.
+A propósito:
+Art 4º As empresas deverão admitir, como assistidos, com duração de quatro horas diárias de trabalho e sem vinculação com a previdência social, menores entre doze e dezoito anos de idade, que frequentem escola.
+ ..
+§ 4º Em relação aos gastos efetuados com os menores assistidos, as empresas não estão sujeitas a encargos previdenciários de qualquer natureza, inclusive FUNRURAL, nem a recolhimentos em favor do Fundo de Garantia por Tempo de Serviço.
+A situação acima não se confunde com o contrato de aprendizagem, previsto nos arts. 428 e 429 da Consolidação das Leis do Trabalho-CLT, cujo objetivo precípuo é a capacitação de jovens, com idade ente 14 e 24 anos, inscritos em programa de formação técnico-profissional.
+Dessa forma, seja pela impossibilidade interpretação extensiva das normas que outorgam isenção ou exclusão de obrigação tributária (art. 111 do CTN), seja pela ausência de comando normativo apto a sustentar a tese recursal, a pretensão da recorrente não merece prosperar.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. MENOR APRENDIZ. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. AFRONTA AO ART. 1.022 DO CPC NÃO CONFIGURADA. VIOLAÇÃO A PORTARIA. NÃO CABIMENTO. EQUIPARAÇÃO DE MENOR ASSISTIDO E MENOR APRENDIZ É INDEVIDA. ENTENDIMENTO DO STJ. INTERPRETAÇÃO EXTENSIVA. ART. 111 DO CTN. IMPOSSIBILIDADE.
+ ..
+4. Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto, nos termos do que foi assentado pela Segunda Turma do STJ, "a equiparação das classes de menor assistido com a de menor aprendiz, sustentada pelo contribuinte em suas razões recursais, mostra-se completamente indevida, seja porque são regidas por diplomas jurídicos distintos (Decreto-Lei n. 2.318/1986 vs. CLT), seja porque possuem requisitos legais diferentes para a respectiva implementação no quadro da empresa (percentual para cada estabelecimento, idade do contratado, horas de trabalho, grau de formação acadêmica e vínculo empregatício. (..). Conforme previsto expressamente no § 4º do art. 4º do Decreto-Lei n. 2.318/1986, estão excluídos da base de cálculo dos encargos previdenciários os gastos efetuados com os menores assistidos, benesse fiscal que não encontra correspondência nos artigos de lei indicados pelo contribuinte em relação à remuneração paga aos menores aprendizes. (..) Ademais, deve-se salientar que a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a lei tributária deve ser interpretada de forma literal quando versar acerca de eventual outorga de isenção ou exclusão de obrigação tributária, sob pena de violação ao art. 111 do CTN, exigência que corrobora a impossibilidade de interpretação extensiva do § 4º do art. 4º do Decreto-Lei n. 2.318/1986 à remuneração paga aos menores aprendizes" (AgInt no REsp 2.048.157/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 17.5.2023).
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.090.876/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/3/2024, DJe de 19/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. MENOR APRENDIZ. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. A jurisprudência desta Corte Superior está no sentido de que a interpretação da lei tributária deve ser apreciada de modo literal nos casos de isenção ou exclusão de obrigação tributária (art. 111 do CTN). Destarte, na falta de indicação de norma que estabeleça hipótese de isenção, deve-se reconhecer que nenhum dos artigos de lei tidos por violados pela parte recorrente serve à sua pretensão, pois não têm comando normativo apto a sustentar a tese recursal. Assim, ocorrente a deficiência da fundamentação, tal circunstância atrai, por analogia, a aplicação do óbice da Súmula 284/STF.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.094.111/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
