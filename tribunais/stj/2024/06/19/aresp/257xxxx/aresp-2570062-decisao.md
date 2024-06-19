@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por FLOR DE LIS EMPREENDIMENTOS EIRELI contra a decisão do T RIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado no Agravo de Instrumento n. 5025828-89.2022.4.04.0000/SC.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre, pois: a) o acórdão estaria em harmonia com a jurisprudência pacífica deste Superior Tribunal de Justiça, ensejando a aplicação do óbice do enunciado n. 83 da Súmula do STJ; e b) estaria presente a necessidade de analisar fatos e provas para a apreciação das teses expostas nas razões do Recurso Especial, incidindo o óbice do enunciado n. 7 da Súmula do STJ.
+Todavia, em relação ao óbice da Súmula n. 7/STJ, não impugnou de forma específica os fundamentos da decisão recorrida, limitando-se a afirmar o que segue (fls. 280-282, STJ):
+O objetivo do Recurso Especial da Agravante, neste caso, é corrigir uma falha inquestionável do Tribunal a quo, relacionada ao acórdão impugnado, que equivocadamente atribuiu uma qualificação jurídica inadequada ao cerne das questões discutidas.
+Nessa linha de raciocínio, o Acórdão impugnado revela imprecisão ao aplicar a norma aos fatos. Como resultado, surge uma inevitável necessidade de reavaliar o fato comprovado, mas não as provas por sí (sic).
+ ..
+Com isso, verifica-se que não se trata meramente de um "reexame de provas", conforme expresso na destacada Súmula. Neste caso, sem qualquer dúvida, estamos diante de uma situação de "reavaliação da prova" e, principalmente, reanálise do direito.
+Convém registrar que o núcleo da lide reside na ocorrência de prescrição para o redirecionamento da Execução Fiscal, com a consequente violação do art. 174, parágrafo único do CTN, uma vez que a propositura do Incidente de Desconsideração da Personalidade Jurídica foi realizada após o decurso do prazo de 5 anos contados da ciência da União da dissolução irregular da empresa Nossa Senhora da Glória.
+A Agravante trouxe no Recurso Especial, além de todas as demais petições, diversos precedentes deste Colendo Tribunal, inclusive em sede de Recurso Repetitivo, de modo que não se discute, no presente caso, reexame de provas, mas tão somente a aplicação do direito (prescrição) em razão da dissolução irregular ocorrida em 23.01.2016. A aplicação irrestrita da Súmula 7 do STJ pode ferir princípios constitucionais como o devido processo legal, o contraditório, a ampla defesa e o acesso à justiça. Impende a deste Tribunal garantir a correta aplicação do direito em consonância com os preceitos fundamentais estabelecidos na Constituição Federal.
+O cerceamento de defesa ocorre quando há limitações injustificadas ao exercício pleno dos direitos de defesa. No caso em análise, a simples aplicação da Súmula 7 do STJ, sem considerar as particularidades e os aspectos específicos do caso, restringe indevidamente a Agravante que busca a apreciação da controvérsia sobre Lei Federal por esta Corte.
+O cerceamento de defesa compromete diretamente o ordenamento jurídico brasileiro, desrespeitando o princípio do contraditório e da ampla defesa, princípios enaltecidos na Constituição Federal.
+Além disso, o acesso à justiça, também consagrado constitucionalmente, pressupõe a possibilidade de todas as partes envolvidas em uma demanda apresentarem suas teses e terem suas argumentações devidamente analisadas pelo Poder Judiciário. Ao se aplicar a Súmula 7 de forma inflexível, sem considerar as peculiaridades do caso em questão, há o risco de violar esse direito fundamental de acesso à justiça, restringindo a oportunidade das partes de verem suas questões debatidas e solucionadas adequadamente.
+Portanto, pela questão processual tratar estritamente sobre questões de direito, isto é, ocorrência de prescrição do redirecionamento das execuções fiscais através do IDPJ, solicita-se a esta Corte que afaste a aplicação automática da Súmula n. 07 do STJ, permitindo uma análise aprofundada das questões aventadas no Recurso Especial, sob pena de cerceamento de defesa da Agravante, violação ao contraditório e ampla defesa e acesso à justiça. Dessa forma, assegurar-se-á a efetividade dos princípios constitucionais que regem o processo judicial, garantindo-se a devida oportunidade para as partes se manifestarem plenamente e pleitearem seus direitos.
+Assim, a parte agravante não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, independentemente de aprofundado reexame dos elementos probantes, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a
+assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
