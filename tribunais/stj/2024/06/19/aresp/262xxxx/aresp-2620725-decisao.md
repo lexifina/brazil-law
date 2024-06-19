@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDO DE INVESTIMENTO IMOBILIARIO ROOFTOP I, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise do recurso de FUNDO DE INVESTIMENTO IMOBILIARIO ROOFTOP I, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. 206 não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Ainda, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Daniel Mendes Gava.
+Outrossim, percebeu-se, no STJ, haver irregularidade no preparo e na representação processual do recurso. A parte, embora regularmente intimada para sanar referidos vícios, não regularizou, limitando-se a trazer o comprovante de pagamento referente à guia anteriormente apresentada, sem contudo realizar a complementação, uma vez que devido em dobro, nos termos do art. 1.007, § 4º do CPC.
+Quanto à representação, não regularizou, uma vez que os poderes consignados no instrumento de mandato de fl. 299/300, foram outorgados ao subscritor dos recursos em data posterior à sua interposição.
+A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/202 0, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021).
+Dessa forma, o recurso especial não foi devida e oportunamente preparado e a representação processual do recurso não foi regularizada, incidindo, na espécie, o disposto nas Súmulas n.º 187 e n.º 115 do STJ.
+Além disso, a parte recorrente foi intimada do acórdão recorrido em 14/11/2023, sendo o recurso especial interposto somente em 07/12/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
