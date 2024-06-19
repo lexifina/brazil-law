@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Nova Solário Participações Societárias e Aquisições de Direitos Creditórios Ltda. à decisão monocrática de fls. 2.276-2.280 (e-STJ), na qual esta relatoria deu parcial provimento ao recurso especial manejado pela Oi S.A. - Em Recuperação Judicial.
+Em suas razões recursais (e-STJ, fls. 2.284-2.289), argui a embargante a existência de omissão na decisão unipessoal.
+Impugnação às fls. 2.292-2.299 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL POR DANOS MATERIAIS, MORAIS C/C LUCROS CESSANTES. CONTRATO DE CESSÃO DE DIREITOS DE USO DE ÁREA IMÓVEL. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. CORREÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Existência de erro material que deve ser sanado, para restabelecer a decisão agravada, que acrescentou 10% (dez por cento) à verba previamente arbitrada nas instâncias precedentes, perfazendo 11% (onze por cento) sobre o valor da condenação.
+3. Embargos de declaração rejeitados, sanado erro material.
+(EDcl no AgInt no AREsp 1.424.868/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/08/2021, DJe 02/09/2021).
+Na hipótese dos autos, a insurgente alega a existência de omissão no julgamento monocrático com relação ao fato de que a obrigação foi assumida no domicílio da filial da embargada.
+Inicialmente, o julgado monocrático está fundamentado em precedente desta Corte específico para o caso dos autos (competência do foro da sede da pessoa jurídica ré para processar a ação proposta pelo cessionário de contratos de participação financeira)
+Veja-se às fls. 2.278-2.279 (e-STJ):
+No mérito, com razão a recorrente. A jurisprudência desta Corte é no sentido da competência do foro da sede da pessoa jurídica ré para processar a ação proposta pelo cessionário de contratos de participação financeira.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TELEFONIA. CONCESSIONÁRIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. OMISSÃO . NÃO OCORRÊNCIA. FORO COMPETENTE. SEDE DA EMPRESA DEMANDADA.1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional. 2. Sendo o autor cessionário de contratos de participação financeira, a competência é definida pelo foro da sede da pessoa jurídica ré (arts. 94 100, IV, "a", do Código de Processo Civil/1973). Precedentes. 3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 532.610/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/5/2019, DJe de 10/5/2019.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO, A FIM ACOLHER A EXCEÇÃO DE INCOMPETÊNCIA, PARA DECLARAR A COMPETÊNCIA DO FORO DA COMARCA DO RIO DE JANEIRO/RJ PARA O JULGAMENTO DA DEMANDA. IRRESIGNAÇÃO DA PARTE EXCIPIENTE/AGRAVANTE.1. Quanto à regra de competência aplicável ao caso dos autos, em se tratando de cessionário de contrato de participação financeira, esta Corte Superior tem entendido que se amoldam à hipótese, de maneira sistemática, a regra geral contida no art. 94 do Código de Processo Civil de 1973, que dispõe acerca da competência do foro de domicílio do réu, e o comando estabelecido no art. 100, inciso IV, alínea "a", do mesmo diploma legal, que prevê como competente o foro "do lugar onde está a sede, para a ação em que for ré a pessoa jurídica".
+Precedentes: AgInt nos EDcl no REsp 1632585/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/06/2017, DJe 19/06/2017; REsp 1608700/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/03/2017, DJe 31/03/2017; e REsp nº 1.632.693-PR, Rel. Min. Paulo de Tarso Sanseverino, Dje 28/06/2017.1.1. Assim, não havendo nos autos qualquer referência a obrigações contraídas por agência ou sucursal da recorrente situada na comarca de Curitiba/PR, impõe-se a declaração de competência de juízo da comarca do Rio de Janeiro/RJ para julgar a ação, por ser o local onde se encontra a sede da recorrente.2. Agravo interno desprovido.(AgInt no AREsp n. 745.605/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/2/2018, DJe de 2/3/2018.)
+Dessa forma, a decisão recorrida não refletiu o entendimento deste Tribunal Superior, razão pela qual merece reforma.
+Diante do exposto, conheço do recurso especial e dou-lhe provimento parcial para declarar a competência do foro da cidade do Rio de Janeiro para processar o feito.
+Quanto à alegada omissão, sem razão a embargante, tendo em vista que o Tribunal de origem, contrariamente ao que defende a embargante, concluiu não se tratar de obrigação assumida por agência ou sucursal da ré, mas por empresa sucedida pela embargante.
+Note-se à fl. 2.112 (e-STJ):
+Assim, não há que se falar no provimento da exceção de incompetência, ante a aplicação do artigo acima referido, afastando-se as demais alegações do agravado acerca do correto dispositivo legal a ser aplicado quanto à competência, visto que não se trata de obrigação assumida por agência ou sucursal da ré e sim contrato de participação financeira firmado com empresa sucedida pela ora agravante.
+Assim, inexistente a alegada omissão.
+Diante do exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
