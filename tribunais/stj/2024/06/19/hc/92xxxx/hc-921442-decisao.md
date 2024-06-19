@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DAIANA DOS SANTOS BARBOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 3004310-61.2024.8.26.0000).
+Extrai-se dos autos que o Juízo das execuções indeferiu o pedido de remição de pena formulado em benefício da paciente (e-STJ fls. 44/47).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu do pleito, nos termos do acórdão assim ementado (e-STJ fl. 49):
+HABEAS CORPUS. EXECUÇÃO DE PENA. REFORMA DE DECISÃO INDEFERITÓRIA DE REMIÇÃO DE PENA.
+Impetração que busca a reforma da decisão proferida no curso da execução. Descabimento. Via inadequada. Existência de recurso próprio (art. 197 da LEP). Vedada, ademais, a impetração do writ como sucedâneo recursal. Decisão devidamente fundamentada. Não se vislumbra flagrante ilegalidade na decisão proferida no curso da execução, haja vista adequadamente motivada. Do existente, não se observa nenhuma ameaça ao direito de ir e vir do paciente, em regular cumprimento de pena, a exigir intervenção desta Corte, ainda que de ofício.
+Ordem indeferida in limine.
+Daí o presente writ, no qual alega a defesa fazer jus a paciente à remição por tempo de estudo pela aprovação em três áreas do conhecimento do ENCCEJA no ano de 2023, certificado às e-STJ fl. 33.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja "determinada a remição pela realização do ENCCEJA, conforme os parâmetros já fixados por esta C. Corte Superior de Justiça" (e-STJ fl. 12).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça, esposada nas recomendações do Conselho Nacional de Justiça (CNJ), vem reforçando a tese de que a aprovação no ENEM e ENCCEJA, ainda que parcial, importa na remição da pena.
+Confiram-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR ESTUDOS. ART. 126 DA LEI DE EXECUÇÃO PENAL - LEP. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. BASE DE CÁLCULO. ARTS. 24, I, E 35 DA LEI 9.394/1996. APROVAÇÃO PARCIAL NO ENSINO MÉDIO. EMBARGOS ACOLHIDOS.
+1. A Terceira Seção desta Corte Superior, no julgamento do HC 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 6/4/2021, unificou o entendimento no sentido de que a remição pelo estudo decorrente da aprovação no Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA, nos termos da Recomendação n. 44/2013, do Conselho Nacional de Justiça - CNJ, deve se dar, em nível médio, na proporção de 20 dias de desconto da pena para a aprovação em cada uma das 5 áreas, e de 26 dias, na hipótese do exame de nível fundamental, somando-se, ainda, 1/3 (um terço), se houver conclusão certificada do curso, nos termos do § 5º, do art. 126, da Lei de Execuções Penais - LEP.
+2. A hipótese dos autos trata de aprovação parcial em uma área de conhecimento do ensino médio.
+3. Embargos de declaração acolhidos, para conceder a ordem, de ofício, e determinar que sejam considerados apenas 20 dias de remição na pena do embargado.
+(EDcl no AgRg no HC n. 600.513/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. REMIÇÃO DE PENAS. APROVAÇÃO PARCIAL NO ENCCEJA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. CÁLCULO. ADEQUAÇÃO. NECESSIDADE. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - O Conselho Nacional de Justiça editou a Recomendação n. 44 de 26/11/2013, que, em seu art. 1º, inc. IV, regulamentando o § 5º do art. 126 da Lei de Execução Penal, dispõe sobre a possibilidade de remição por aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA.
+III - A Lei n. 9.394/1996, em seus arts. 24, I, e 35, estabelece que a carga horária mínima anual para o ensino fundamental corresponde a 800 (oitocentas) horas, cuja duração para os anos finais é de quatro anos; conclui-se, assim, que o total da carga horária mínima para todo o ensino fundamental será de 3.200 (três mil e duzentas) horas.
+IV - Destarte, considerando como base de cálculo 50% da carga horária definida legalmente para o ensino fundamental, 3.200 (três mil e duzentas) horas, ou seja, 1.600 (um mil e seiscentas) horas, divide-se o total de horas por 12 (doze) horas diárias de estudo, encontrando-se o resultado de 133 (cento e trinta e três) dias para a aprovação no ENCCEJA.
+V - In casu, como o paciente obteve aprovação em apenas 4 (quatro) das 5 (cinco) áreas de conhecimento, deve-se dividir os 133 (cento e trinta e três) dias por 5 (cinco) áreas, o que corresponde a 26 (vinte e seis) dias de remição para cada uma delas, totalizando 104 (cento e quatro) dias a serem remidos.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer o direito do paciente à remição de 104 (cento e quatro) dias, em razão de sua aprovação em 4 (quatro) áreas de conhecimento do ENCCEJA.
+(HC n. 625.383/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/12/2020, DJe de 15/12/2020.)
+Ante o exposto, concedo a ordem para determinar que o Juízo das execuções aplique o benefício da remição, pela aprovação parcial no ENCCEJA, na razão de 20 (vinte) dias para cada área de conhecimento na qual a paciente foi aprovada.
+Publique-se. Intimem-se.
+EMENTA
