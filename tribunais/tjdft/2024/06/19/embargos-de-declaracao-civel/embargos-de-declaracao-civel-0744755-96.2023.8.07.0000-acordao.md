@@ -1,0 +1,109 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0744755-96.2023.8.07.0000EMBARGANTE(S)GUSTAVO TARGINO ANTONYEMBARGADO(S)HJP ASSESSORIA FARMACEUTICA LTDA - EPPRelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1881478
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. SUBSISTÊNCIA DE DEPÓSITO REALIZADO NA FASE COGNITIVA PELO OBRIGADO. FÓRMULA DE APURAÇÃO DO CRÉDITO. ATUALIZAÇÃO MONETÁRIA ATÉ A DATA DE DEFLAGRAÇÃO DO EXECUTIVO PROVISÓRIO. DECOTE DO VALOR RECOLHIDO, DEVIDAMENTE CORRIGIDO, OBSERVADA A DATA DE DEPÓSITO. MONTANTE DEPOSITADO EM JUÍZO. DECOTE DO DÉBITO. FÓRMULA IMPERATIVA. ATUALIZAÇÃO MONETÁRIA. IMPERIOSIDADE. AGRAVO PARCIALMENTE PROVIDO. ACÓRDÃO. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA CAUSA. VIA INADEQUADA. REJEIÇÃO.
+
+1. Os embargos de declaração consubstanciam instrumento de aperfeiçoamento da prestação jurisdicional, destinando-se etiologicamente a purificar o julgado das omissões, contradições ou obscuridades que o enodoam, não traduzindo o instrumento adequado para rediscussão das questões elucidadas nem para o reexame da causa, pois, examinando de modo exauriente as matérias debatidas e entregando a tutela reclamada, o decisum esgota sua destinação e o seu alcance.
+
+2. Aferido que as questões reprisadas foram objeto de expressa e literal resolução, ensejando a apreensão de que o julgado não deixara remanescer nenhuma matéria pendente de elucidação, e que a resolução que empreendera é clara o suficiente para viabilizar a assimilação do decidido sem qualquer trabalho exegético ante a literalidade do que nele está estampado, obstando a qualificação de vício apto a tornar opaco o desenlace ao qual chegara, denotando que a parte almeja simplesmente rediscutir o decidido, a rejeição da pretensão declaratória consubstancia imperativo legal.
+
+3. A circunstância de não se conformar com a exegese defendida pela parte acerca dos dispositivos que conferem tratamento normativo às matérias controvertidas e nortearam a conclusão que estampa não tem o condão de ensejar sua caracterização como omisso, contraditório ou obscuro, pois, tendo apreciado as questões controvertidas, conferindo-lhes o enquadramento e tratamento que se afigurara adequado, o julgado cumprira seu desiderato e exaurira o ofício que lhe estava debitado.
+
+4. Embargos conhecidos e desprovidos. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e CARLOS PIRES SOARES NETO - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 27 de Junho de 2024
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de embargos de declaração opostos por Gustavo Targino Antony objetivando aclarar o acórdão que, à unanimidade, provera parcialmente o agravo de instrumento que interpusera em face da decisão que, nos autos do cumprimento provisório de sentença deflagrado em seu desfavor pela embargada – HJP Assessoria Farmacêutica Ltda. - EPP –, acolhera parcialmente a impugnação que formulara, reconhecendo a subsistência de excesso de execução no montante de R$20.652,68 (vinte mil, seiscentos e cinquenta e dois reais e sessenta e oito centavos). Segundo o provimento arrostado, a sentença exequenda condenara o ora embargante ao pagamento dos encargos locatícios vencidos até 24.07.2020, acrescidos de correção monetária a partir da data em que eram devidos e de juros de mora de 1% (um por cento) ao mês, a contar da citação, devendo ser abatido do montante devido o valor depositado de R$20.652,68 (vinte mil, seiscentos e cinquenta e dois reais e sessenta e oito centavos).
+
+O provimento ora embargado, de sua vez, provendo parcialmente o agravo de instrumento, reformara em parte a decisão arrostada, determinando que o crédito que assiste à embargada deve ser atualizado monetariamente até a data da deflagração do cumprimento de sentença, e, do montante resultante dessa operação, deve ser decotado o valor depositado pelo agravante, devidamente atualizado monetariamente desde a data em que fora recolhido, ressalvado que, acaso atualizado pelo banco depositário, deverá ser considerado o valor apurado, para fins de abatimento, naquela data, e, ademais, que o débito remanescente deve continuar sendo atualizado até sua integral quitação.
+
+Inconformado, objetiva o embargante a declaração do julgado ao argumento de que estaria maculado por vício de omissão. Como sustentação da pretensão aclaratória, argumentara o embargante, em suma, que o acórdão incursionara em omissão sobre argumento deduzido no recurso, que é capaz de, em tese, infirmar a conclusão adotada. Pontuara que, para se evitar o enriquecimento sem causa do embargado, o procedimento correto seria atualizar o débito até a data do depósito (15/07/2020), deduzir o valor de R$ 20.652,68 e, posteriormente, atualizar o saldo restante até a presente data. Aduzira que, dessarte, o saldo remanescente da dívida, considerando inclusos multa e honorários do cumprimento de sentença, seria de R$ 50.085,64, diferença resultante da subtração do montante de R$160.000,00 da quantia de R$ 210.085,64.
+
+Verberara que, ademais, jamais negara a existência do débito, uma vez que a controvérsia nos autos se concentra na redução dos valores devidos a título de aluguel durante o período de vigência do Decreto nº 40.539 do Governo do Distrito Federal, que suspendera o funcionamento de estabelecimentos comerciais devido à pandemia de Covid-19. Sustentara que, portanto, a existência do débito nunca fora o cerne da questão nos autos, mas a adequação dos valores devidos a título de aluguel diante da situação excepcional que enfrentara durante o período de 2020 a 2021. Relatara que, assim, não se pode alegar que na época do depósito não seria possível reconhecer a existência do crédito executado, uma vez que a questão jamais fora a existência do crédito no processo, mas sua adequação à realidade que enfrenta.
+
+Com lastro nesses argumentos, defendera o embargante o conhecimento e provimento dos embargos como forma de obter pronunciamento acerca da matéria que reprisara e saneados os vícios ventilados, emprestando-se-lhes efeitos infringentes.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+Cabíveis, tempestivos e isentos de preparo, suprindo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhes são próprios, conheço dos embargos.
+
+Cuida-se de embargos de declaração opostos por Gustavo Targino Antony objetivando aclarar o acórdão que, à unanimidade, provera parcialmente o agravo de instrumento que interpusera em face da decisão que, nos autos do cumprimento provisório de sentença deflagrado em seu desfavor pela embargada – HJP Assessoria Farmacêutica Ltda. - EPP –, acolhera parcialmente a impugnação que formulara, reconhecendo a subsistência de excesso de execução no montante de R$20.652,68 (vinte mil, seiscentos e cinquenta e dois reais e sessenta e oito centavos). Segundo o provimento arrostado, a sentença exequenda condenara o ora embargante ao pagamento dos encargos locatícios vencidos até 24.07.2020, acrescidos de correção monetária a partir da data em que eram devidos e de juros de mora de 1% (um por cento) ao mês, a contar da citação, devendo ser abatido do montante devido o valor depositado de R$ 20.652,68 (vinte mil, seiscentos e cinquenta e dois reais e sessenta e oito centavos).
+
+O provimento ora embargado, de sua vez, provendo parcialmente o agravo de instrumento, reformara em parte a decisão arrostada, determinando que o crédito que assiste à embargada deve ser atualizado monetariamente até a data da deflagração do cumprimento de sentença, e, do montante resultante dessa operação, deve ser decotado o valor depositado pelo agravante, devidamente atualizado monetariamente desde a data em que fora recolhido, ressalvado que, acaso atualizado pelo banco depositário, deverá ser considerado o valor apurado, para fins de abatimento, naquela data, e, ademais, que o débito remanescente deve continuar sendo atualizado até sua integral quitação.
+
+Inconformado, objetiva o embargante a declaração do julgado ao argumento de que estaria maculado por vício de omissão. Consoante emerge do alinhado, o embargante, inconformado com a resolução conferida à questão pertinente à aferição do excesso de execução denunciado pelo embargante, decorrente de equívoco havido no manejo da fórmula de atualização do crédito executado pela embargada, manejara embargos de declaração com o manifesto objetivo de rediscutir a causa, e não de complementar o julgado mediante a eliminação de vícios que eventualmente o permeariam e são passíveis de serem sanados através da via declaratória.
+
+Sucede que, ao invés do que ventilara e defendera, o acórdão fustigado elucidara explícita e casuisticamente, todas as questões trazidas à colação, salientando, à luz do contexto fático apresentado nos autos, que, conquanto parcialmente correta a fórmula de atualização do crédito apresentada pela embargada, deveria ser decotado do importe apurado o valor depositado judicialmente, observada, no cálculo, a data em que recolhido, o qual, outrossim, deve suportar a incidência de atualização monetária desde a mesma data, como forma de se obstar o locupletamento ilícito da credora.
+
+Assim, de maneira pontual e elucidativa, todas as nuanças fático-jurídicas despontadas destes autos foram apreciadas e sopesadas de acordo com a técnica processual mais moderna e apurada, donde depreende-se que a fundamentação do julgado fora farta e hialinamente explicitada no acórdão atacado, conforme se afere dos excertos dele extraídos que adiante são transcritos, verbis:
+
+ “(...)
+
+Consignados os atos precedentes, afere-se que a decisão guerreada comporta modulação. Registre-se, de início, que carecem de lastro material as alegações formuladas pelo agravante no sentido que, no momento da deflagração do cumprimento de sentença, deveria a agravante “atualizar o débito até a data do depósito (15/07/2020), descontar o valor de R$ 20.652,68 e, por fim, atualizar o saldo residual até a data atual .” É que o depósito não alcançara a integralidade do crédito executado e, demais disso, fora realizado ainda na fase cognitiva, em 15.07.2020, tendo em vista que a sentença exequenda é datada de 16.09.2021. Desse modo, na data do depósito, sequer sobejaria possível reconhecer a existência de crédito executado.
+
+Nesse contexto, fica patente que o crédito executado deve ser atualizado monetariamente até a data da deflagração do cumprimento provisório de sentença, e não até a data do depósito judicial. O que deve haver é o decote do recolhido, observada a data em que fora depositado, do débito devido até aquela data, corrigindo-se, na sequência, o montante sobejante. Deve ser assinalado, quanto ao tópico, que, a despeito de o depósito ter sido realizado na data de 15.07.2020, a agravada não movimentara o importe recolhido, medida que somente agora nessa fase procedimental fora autorizada pelo Juízo, condicionada à prestação de caução .
+
+Sob esse prisma, a fórmula utilizada pela agravada atualizando monetariamente o crédito executado até a data da deflagração do cumprimento de sentença encontra-se correta, devendo, contudo, ser decotado do importe apurado o valor depositado judicialmente, observada, no cálculo, a data em que fora recolhido. Registra-se que o decote da importância depositada em juízo poderia de fato ter ocorrido no momento da deflagração da fase executiva, contudo, olvidando a agravada dessa medida, não há óbice para que seja realizado nesse momento procedimental, porquanto o que sobeja é que o excesso decorrente da ausência de abatimento da importância nomeada fora reconhecido.
+
+Ademais, o montante a ser decotado do crédito apurado na forma delineada, caso não tenha sido atualizado monetariamente, deve suportar a incidência de correção monetária desde a data de realização do depósito. Ou seja, o recolhido, assim como sucedera com o débito, deve ser atualizado a partir da data do depósito. Com efeito, guardando conformidade aos princípios que repugnam o locupletamento ilícito, ao credor deve ser assegurada a satisfação do que lhe é devido na exata dimensão pecuniária que alcança, porquanto não se conforma com o justo sua contemplação com montante superior à expressão do direito material que o assiste.
+
+Sob essa realidade, caso aferido que o montante depositado – e que será decotado do valor apurado consoante a fórmula ora delimitada –, não fora atualizado monetariamente pela instituição bancária, deve ser calculado de forma também corrigida desde quando realizado e até a data do abatimento, sob pena de o obrigado experimentar prejuízo e a credora obter vantagem indevida, pois terá o que a assiste atualizado enquanto o realizado ficaria estabilizado no tempo. É um truísmo que a atualização monetária qualifica-se como simples instrumento destinado a assegurar a intangibilidade da obrigação, resguardando sua identidade no tempo mediante o incremento do seu valor nominal com índice de correção apurado desde que se tornara devida e até sua efetiva liquidação ante sua sujeição à atuação corrosiva da inflação, que redunda em mitigação da sua real e efetiva expressão pecuniária.
+
+Destina-se a atualização monetária, portanto, a assegurar simplesmente o valor real da obrigação de forma a preservar sua identidade com sua efetiva expressão material, não redundando em seu agravamento ou incremento com acessório remuneratório. Em suma, a atualização monetária não incrementa nem mitiga a obrigação, destinando-se única e exclusivamente a assegurar sua efetiva e real expressão, mantendo-a identificada com seu alcance original.
+
+Desse aforisma e do primado que veda o enriquecimento sem causa, deriva a necessidade de cômputo de atualização sobre o valor depositado em juízo pelo agravante, devendo o produto dessa operação parametrizar o valor a ser subtraído do crédito exequendo. Ante essas premissas torna-se impassível de controvérsia que o crédito que assiste à agravada deve ser atualizado monetariamente até a data da deflagração do cumprimento de sentença, e, do montante resultante dessa operação, deve ser decotado o valor depositado judicialmente, observada, no cálculo, a data em que fora recolhido, agregado da correlata atualização monetária, e não computado em seu valor histórico.
+
+Defronte o aduzido afere-se que a argumentação desenvolvida pelo agravante resplandece desguarnecida de lastro legal na parte em que defende que o montante devido deveria ser atualizado somente até o depósito que realizara, devendo a decisão arrostada ser reformada, no entanto, quanto à necessidade de cômputo de atualização sobre o montante depositado em juízo, se não atualizado pela instituição depositária, e, após essa operação, ser a quantia dela resultante decotada do crédito exequendo apurado segundo a fórmula utilizada pela credora. Essa fórmula, inclusive, atenderá ao demandado em caráter principal pelo agravante.
+
+Quanto ao ponto, imperioso consignar que, conquanto deva ser reconhecida a subsistência de montante recolhido, o que fora ressalvado pela própria exequente/agravada ao manejar o cumprimento provisório de sentença subjacente , aludido montante remanesce sendo-lhe devido, devendo ser ressalvado que o seu decote está sendo determinado apenas para efeitos de apuração do remanescente, consoante a fórmula ora fixada. Assinalo que, conquanto provido parcialmente o recurso, descabida a majoração dos honorários advocatícios já imputados à agravada, conforme a tese firmada pelo STJ no ambiente do Tema 1.059.
+
+(...)”[1]
+
+A título ilustrativo, aliás, deve ser assinalado que a evidência de que todas as questões reprisadas foram efetivamente elucidadas e resolvidas deriva da própria suma do julgado que está consignada na ementa que o paramenta, consoante se afere da ementa que guarda, cuja expressão é a seguinte:
+
+“PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. SUBSISTÊNCIA DE DEPÓSITO REALIZADO NA FASE COGNITIVA PELO OBRIGADO. FÓRMULA DE APURAÇÃO DO CRÉDITO. ATUALIZAÇÃO MONETÁRIA ATÉ A DATA DE DEFLAGRAÇÃO DO EXECUTIVO PROVISÓRIO. DECOTE DO VALOR RECOLHIDO, DEVIDAMENTE CORRIGIDO, OBSERVADA A DATA DE DEPÓSITO. MONTANTE DEPOSITADO EM JUÍZO. DECOTE DO DÉBITO. FÓRMULA IMPERATIVA. ATUALIZAÇÃO MONETÁRIA. IMPERIOSIDADE. AGRAVO PARCIALMENTE PROVIDO.
+
+1.    Deflagrado cumprimento provisório de sentença que reconhecera obrigação de pagar, mas subsistindo depósito parcial do débito realizado ainda no curso da fase cognitiva,  a fórmula de apuração do crédito exequendo deve observar a incidência de atualização monetária da obrigação até a data de deflagração do cumprimento provisório de sentença, decotando-se desse apurado o recolhido, observada a data em que fora depositado, mas devidamente atualizado desde então e até o momento do acertamento, corrigindo-se, na sequência, o montante sobejante, não subsistindo lastro para que o crédito seja atualizado somente até a data do depósito judicial nem que o recolhido seja desprovido de correção a partir do momento em que ficara imobilizado.
+
+2.    A atualização monetária se qualifica como simples instrumento destinado a assegurar a intangibilidade da obrigação, resguardando-se sua identidade no tempo mediante o incremento do seu valor nominal com índice de correção apurado desde que fora fixada e até sua efetiva liquidação ante sua sujeição à ação da inflação, que redunda em mitigação da sua real e efetiva expressão pecuniária, resultando que, recolhido pelo executado, ainda na fase cognitiva da ação, parcela do débito que o aflige, deverá o equivalente ao montante ser atualizado desde o recolhimento e até a data do decote do crédito em execução, também devidamente atualizado, parametrizando o produto advindo dessa operação a aferição do crédito remanescente em aberto.
+
+3.    Agravo de instrumento conhecido e parcialmente provido. Unânime.”
+
+Diante da literalidade do retratado na ementa e no excerto trasladado denota-se com a irreversível evidência de que todas as questões efetivamente formuladas pelo embargante foram clara e especificamente enfrentadas e elucidadas. Resolvidas as questões de conformidade com a apreensão extraída pelo órgão colegiado da situação de fato delineada nos autos e do enquadramento que lhe é conferido e não se divisando nenhuma dicotomia entre o fundamento e o estampado no julgado, não remanesce nenhuma questão passível de ser reapreciada, infirmando a pretensão declaratória agitada.
+
+De conformidade com comezinhas regras de direito instrumental, os embargos de declaração destinam-se exclusivamente à aprimoração do julgado mediante sua purificação das lacunas que eventualmente o maculem, não se consubstanciando no instrumento apropriado para a rediscussão das mesmas questões suscitadas ou reexame da causa. Para esse desiderato, o legislador processual indicara os instrumentos recursais adequados de forma, inclusive, a par de velar pelos princípios da efetividade e instrumentalidade processuais, coibir que o mesmo órgão jurisdicional reexamine as questões e matérias que elucidara em nítida ofensa ao princípio do duplo grau de jurisdição.
+
+Elucidadas as questões devolvidas à sua apreciação de conformidade com a apreensão que extraíra do aduzido e lhes conferido o enquadramento e tratamento que se afigurara adequado, o julgado cumprira seu desiderato. Insatisfeito com o desiderato imprimido, sem divergência, no julgamento do recurso aviado, compete ao embargante, em contrapartida, manejarem os recursos extraordinários cabíveis objetivando reformar o decidido de forma a conformá-lo com o entendimento que sustentara ser o correto, e não perseguir sua reforma através de meio inteiramente inadequado e inidôneo para esse propósito.
+
+Dos argumentos alinhados aflora, então, a certeza de que, devidamente apreciado o estofo material invocado e guardando os argumentos alinhados por ocasião da sua apreciação coerência lógica e se conformando perfeitamente com o correto e adequado enquadramento das questões suscitadas, os vícios aventados pelo embargante não coexistem. Ressalte-se, uma vez mais, que toda a argumentação alinhavada guarda conformação e se amolda nitidamente à conclusão que estampa o julgado desafiado, ensejando sua qualificação como um silogismo perfeito, inexistindo qualquer vício que o macule passível de ser sanado através da via escolhida.
+
+Deflui dessas circunstâncias a constatação de que, a par de o julgado hostilizado não estar acoimado pelos vícios ou equívocos que lhe foram imputados, o embargante, exacerbando-se no exercício do direito de defesa que constitucionalmente lhe é assegurado, manejaram a pretensão declaratória que aduziram inteiramente desprovida de lastro material, objetivando aclarar questões que foram efetivamente apreciadas e elucidadas de forma bastante patente, inteligível e casuísta, não tendo apontado, em suma, nenhuma alegação que teria restado desprovida do devido exame, pretendendo simplesmente a obtenção de novo pronunciamento – quiçá com efeitos modificativos que lhes favoreça –  acerca das matérias equacionadas.
+
+Esteado nesses argumentos e inexistindo qualquer omissão afligindo o decisório hostilizado, nego provimento aos embargos.
+
+É como voto.
+
+[1] - ID Num. 56443970.
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorO Senhor Desembargador CARLOS PIRES SOARES NETO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME
