@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MAIKY ENTONNY VENANCIO FRANCA contra acórdão da 7ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais (HC nº 1.0000.24.229000-5/000).
+Extrai-se dos autos que foi decretada a prisão preventiva do recorrente em 5/6/2023, em razão da suposta prática do delito tipificado no art. 121, § 2º, inciso II do Código Penal.
+Contra a decisão, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão assim ementado (e-STJ fls. 190/198):
+EMENTA: HABEAS CORPUS - HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO QUALIFICADO TENTADO - ALEGADA AUSÊNCIA DOS FUNDAMENTOS E PRESSUPOSTOS DA PREVENTIVA -REITERAÇÃO DE PEDIDO - SÚMULA Nº 53 DO TJMG - INCOGNIÇÃO -ANÁLISE DA PROVA DA AUTORIA DELITIVA - VIA IMPRÓPRIA -EXCESSO DE PRAZO - PROCESSO COMPLEXO - RÉU FORAGIDO -QUESTÃO SUPERADA - RELAXAMENTO DA PRISÃO - DESCABIMENTO.
+1. Não se conhece de pedido de habeas corpus que se constitua em mera reiteração de anterior, já julgado, nos termos do enunciado n. 53 do Grupo de Câmaras Criminais deste Tribunal.
+2. A questão acerca da análise da prova da autoria delitiva diz respeito ao cerne da lide penal, inviável de ser aprofundada nos estreitos limites da ação de habeas corpus.
+3. Estando o réu, presentemente, foragido, fica superada, em regra, a alegação de constrangimento ilegal por excesso de prazo. Precedentes.
+No presente recurso, a defesa alega que o fato de que o recorrente não foi localizado para citação não autoriza presumir que ele busca impedir a aplicação da lei penal.
+Defende que a conduta consistiu em legítima defesa, uma vez que testemunhas presenciais "afirmaram que a vítima estava armada e foi juntamente com mais dois amigos agredir o paciente, tendo inclusive a vítima sacado sua arma para atentar conta a vida do paciente" (e-STJ fl. 209). Relata que, após tais depoimentos, a segregação foi mantida tão somente em razão de sua não localização.
+Ressalta que ele possui bons antecedentes, residência fixa, ocupação lícita e filhos pequenos que precisam de sua presença. Defende que seria suficiente a aplicação de medidas cautelares alternativas.
+Requer, em liminar e no mérito, a expedição de alvará de soltura.
+É o relatório. Decido.
+O recurso não comporta conhecimento.
+A tese de que o recorrente teria agido em legítima defesa consiste, em suma, em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+Com efeito, segundo a Suprema Corte, " a  análise minuciosa para o fim de concluir pela inexistência de indícios mínimos de autoria demandaria incursão no acervo fático-probatório, inviável em sede de habeas corpus" (AgRg no HC n. 215.663/SP, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 04/07/2022, DJe 11/07/2022).
+De igual modo, neste Tribunal Superior de Justiça é assente que " o  enfrentamento da tese relativa à negativa de autoria é incompatível com a via estreita do habeas corpus, ante a necessária incursão probatória, devendo tal análise ser realizada pelo Juízo competente para a instrução e julgamento da causa" (AgRg no HC n. 727.242/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe 22/12/2022).
+Segundo se verifica dos autos, a tese de ausência de fundamentos para a custódia, e de suficiência da aplicação de medidas cautelares alternativas, não foi conhecida pela Corte a quo, tendo em vista se tratar de mera reiteração de impetração anterior.
+"Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Destaco que, também nesta Corte, os fundamentos da prisão já foram examinados por ocasião do julgamento do HC 846.953/MG, em 18/8/2023, cuja decisão foi confirmada em sede de agravo regimental, por unanimidade, em 19/9/2023.
+Desse modo, descabe nova análise da mesma matéria.
+Diante do exposto, com esteio no art. 34, inciso XVIII, alínea "a" do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Intimem-se.
+EMENTA
