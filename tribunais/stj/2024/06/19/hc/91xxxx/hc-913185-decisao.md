@@ -1,0 +1,18 @@
+DECISÃO
+RODRIGO ALEXANDRE SALMISTRARO alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2084129-64.2024.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante, em 5/3/2024, e denunciado pela suposta prática do delito tipificado no art. 16, § 1º, IV, da Lei n. 10.826/2003.
+A defesa pretende, por meio deste writ, seja determinada a revogação da custódia preventiva do acusado, ocasião em que invoca, basicamente, os seguintes fundamentos: a) ilicitude dos elementos de informação obtidos por meio do ingresso no domicílio do acusado; b) ausência de quaisquer dos fundamentos previstos no art. 312 do CPP.
+Indeferida a liminar (fls. 104-105) e prestadas as informações (fls. 110-117), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 122-126).
+Decido.
+Em consulta ao sistema informatizado deste Tribunal Superior, verifico que a defesa interpôs recurso ordinário em habeas corpus em 10/5/2024 (RHC n. 199.132/SP - ainda em tramitação nesta Corte Superior), mesma data da impetração do presente writ, o qual ataca o mesmo acórdão e versa sobre as mesmas teses defensivas.
+Assim, para evitar o tumulto processual e decisões conflitantes, o habeas corpus não pode ser conhecido, porque impetrado de forma simultânea ao recurso ordinário interposto contra o mesmo acórdão, ora apontado como ato coator.
+Aplica-se, na presente hipótese, a compreensão já manifestada pela Terceira Seção desta Corte Superior, in verbis:
+ ..
+1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão.
+3. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.  .. .
+(HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020, grifei)
+Ainda: "não se admite a tramitação simultânea de recursos (ou ações autônomas de impugnação) e de habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 826.186/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/8/2023).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
