@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo JUÍZO DE DIREITO DA VARA CRIMINAL,INFRACIONAL DA INFÂNCIA E DA JUVENTUDE E CARTASPRECATÓRIAS DE FORMIGA/MG, tendo por suscitado o JUÍZO FEDERAL DA 2ª VARA COM JUIZADO ESPECIAL ADJUNTO DEDIVINÓPOLIS - SJ/MG.
+Consta dos autos que o juízo suscitado declinou da competência em favor do suscitante em razão do fato de que "No caso dos autos, contudo, não há tipificação do crime de ameaça à mulher pelas Convenções Internacionais firmadas pelo Brasil, ou assunção de dever específico de proteção em tratado, e tampouco decorre a lei de obrigação internacional assumida, fundamento do STF no precedente acima citado." (e-STJ Fl. 119).
+O juízo suscitante, a seu turno, suscitou o conflito forte nas seguintes razões: "encontra-se demonstrada a internacionalidade do delito, posto que as ameaças tiveram início nos EUA e foram externadas por meio da rede social WhatsApp (ID 10211513469)." (e-STJ fl. 130).
+O Ministério Público Federal promove a competência do juízo suscitante (e-STJ Fl. 138-149).
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+Recentemente, a jurisprudência desta corte firmou-se no sentido de que o processamento do delito decorrente do envio da mensagem com o conteúdo ofensivo à vítima que tenha ocorrido por meio de aplicativo de troca de mensagens entre usuários em caráter privado deve se dar perante a Justiça Estadual.
+Confira-se:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. INJÚRIA. INTERNET. UTILIZAÇÃO DO INSTAGRAM DIRECT. CARÁTER PRIVADO DAS MENSAGENS. INDISPONIBILIDADE PARA ACESSO DE TERCEIROS. CONSUMAÇÃO. LOCAL EM QUE A VÍTIMA TOMOU CIÊNCIA DAS OFENSAS. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que no caso de delitos contra a honra praticados por meio da internet, o local da consumação do delito é aquele onde incluído o conteúdo ofensivo na rede mundial de computadores. Contudo, tal entendimento diz respeito aos casos em que a publicação é possível de ser visualizada por terceiros, indistintamente, a partir do momento em que veiculada por seu autor.
+2. No caso dos autos, embora tenha sido utilizada a internet para a suposta prática do crime de injúria, o envio da mensagem de áudio com o conteúdo ofensivo à Vítima ocorreu por meio de aplicativo de troca de mensagens entre usuários em caráter privado, denominado "instagram direct", no qual somente o autor e o destinatário têm acesso ao seu conteúdo, não sendo para visualização por terceiros, após a sua inserção na rede de computadores.
+3. Aplicação do entendimento geral de que o crime de injúria se consuma no local onde a Vítima tomou conhecimento do conteúdo ofensivo, o que, na situação dos autos, ocorreu em Brasília/DF.
+4. Conflito conhecido para declarar competente o Juízo Federal da 12.ª Vara do Juizado Especial Criminal de Brasília - SJ/DF, o Suscitado.
+(CC n. 184.269/PB, relatora Ministra Laurita Vaz, Terceira Seção, DJe de 15/2/2022. Grifo acrescido)
+No presente feito, a análise das telas de conversa dá conta de que as mensagens tidas por delituosas foram enviadas via aplicativo privado de mensagens, a indicar a necessidade de prevalência da regra residual de competência da Justiça Estadual.
+Ante o exposto, CONHEÇO do conflito para DECLARAR a competência do JUÍZO DE DIREITO DA VARA CRIMINAL,INFRACIONAL DA INFÂNCIA E DA JUVENTUDE E CARTASPRECATÓRIAS DE FORMIGA/MG, o Suscitante, para processar e decidir a Ação Penal n. 5003548-64.2024.8.13.0261.
+Publique-se. Intimem-se.
+EMENTA
