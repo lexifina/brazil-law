@@ -1,0 +1,12 @@
+DECISÃO
+ITT SERVIÇOS MÉDICOS LTDA., atravessa petição (fls. 774/777) por meio da qual alega que, "No Tema STJ n. 1.239, como bem indicado por esta Eminente Ministra Relatora, há de se fixar tese envolvendo a incidência do PIS e da COFINS sobre as receitas de vendas de mercadorias a pessoa física na Zona Franca de Manaus. Noutra mão, o objeto desta lide, desde a origem, é a desoneração do PIS e da COFINS sobre a prestação de serviços na Zona Franca de Manaus, como se faz evidência desde a Inicial".
+Pugna, assim, pelo regular seguimento do feito, uma vez que o presente processo não versa sobre a matéria afetada ao Tema STJ n. 1.239.
+Devidamente intimada (fl. 779), a Fazenda Nacional manifestou-se pela manutenção do despacho de devolução dos autos.
+Pois bem.
+Conforme já assinalado na decisão de fls. 767/770, o recurso especial fazendário foi interposto objetivando: (I) a incidência de PIS e COFINS sobre as receitas decorrentes de vendas de mercadorias de origem nacional a pessoas físicas realizadas dentro da Zona Franca de Manaus, bem como (II) a incidência de PIS e COFINS sobre a prestação de serviços também realizadas na ZFM.
+Pertinente, pois, a determinação de retorno dos autos à Corte de origem para que realize o juízo de conformação com o Tema 1.239/STJ ("definir se o PIS e a COFINS incidem sobre as receitas decorrentes de vendas de mercadorias de origem nacional, realizadas a pessoas físicas situadas dentro da área abrangida pela Zona Franca de Manaus"), o qual, como se vê, possui perfeita adequação com uma das questões jurídicas suscitadas pela parte recorrente.
+Ressalte-se que compete ao Tribunal a quo efetuar o juízo de conformidade (art. 543-C, §§ 7º e 8º, do CPC/73; art. 1.030, I, b, CPC) antes de analisar os pressupostos de prelibação do recurso especial. É dizer: só haverá exaurimento das instâncias ordinárias, para fins de cabimento dos apelos extraordinários, após o Tribunal de origem realizar o juízo de conformidade - o qual consiste no rejulgamento da apelação - à luz do posicionamento firmado pelos Tribunais Superiores (STF/STJ).
+Outrossim, só caberá a subida do recurso especial, ou do agravo contra sua inadmissão, ao STJ, após a realização do juízo de conformidade com o recurso representativo da controvérsia, se houver resíduo não alcançado pela afetação.
+ANTE O EXPOSTO, indefiro o pedido formulado por ITT SERVIÇOS MÉDICOS LTDA.
+Publique-se.
+EMENTA
