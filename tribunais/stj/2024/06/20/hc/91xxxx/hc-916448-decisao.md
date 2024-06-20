@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão que denegou a ordem no writ de origem.
+Consta dos autos que o paciente foi preso preventivamente pelo delito de adulteração de sinal identificador de veículo.
+Sustenta a defesa, em síntese, a ausência de fundamentação idônea para decretação da prisão preventiva do acusado, ao argumento de que "o valor do veículo não pode ser considerado como gravidade concreta. A gravidade concreta do delito está ligada diretamente a conduta do agente, o seu modo de agir" (fl. 6).
+Aduz que " Trata-se de infração penal praticada sem violência ou ameaça a pessoa, sendo a prisão cautelar desproporcional à conduta do Paciente, bastando a imposição de medidas cautelares diversas" (fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva do Paciente, com ou sem a imposição de medidas cautelares diversas.
+Deferida a liminar para substituir a preventiva por medidas cautelares alternativas (fls. 76-79).
+Prestadas as informações. O Ministério Público Federal manifestou-se pela concessão parcial da ordem, com a substituição da preventiva por medidas cautelares (fls. 107-109).
+A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do art. 312 do Código de Processo Penal.
+A decisão que decretou a prisão preventiva do paciente teve a seguinte fundamentação (fls. 59-64):
+Na hipótese em apreço, a prova da materialidade e os indícios suficientes de autoria do crime de ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (artigo 311, §2º, inciso III do Código Penal)encontram-se evidenciados pelos elementos de convicção constantes das cópias do Auto de Prisão em Flagrante.
+ ..
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis.
+Primeiramente pontuo que não se trata aqui de fato de pouca importância (gravidade), mas de crime contra a fé pública, a atingir um número indeterminado de pessoas
+Trata-se de delito envolvendo um veículo de valor considerável e que se encontrava bloqueado judicialmente, sobre os quais, ainda, pairavam diversos débitos.
+De se pontuar, ainda, ter o autuado declarado em audiência que possui como profissão a venda de automotores, o que acresce reprovabilidade a sua conduta e demonstra maior periculosidade, sendo menos provável desconhecer sobre a adulteração averiguada.
+O crime de adulteração de sinal identificador de veículo automotor, embora se trate de delito cometido sem violência ou grave ameaça, nem por isso deixa de ter caráter particularmente grave, pois causa, indiretamente, sérios abalos à ordem pública ao financiar e fomentar a atividade criminosa.
+Outrossim, a empreitada criminosa exige engenhosidade (conhecimento técnico), de modo que não é qualquer pessoa que é capaz de cometer tal delito. Ou seja: temos fato grave na hipótese.
+Veja-se que NÃO há indicação precisa de atividade laboral remunerada, de modo que as atividades ilícitas, a toda evidência, são fonte (ao menos alternativa) de renda(modelo de vida, com dedicação) sem contar que a recolocação em liberdade neste momento (de maneira precoce) geraria presumível retorno às vias delitivas, meio de sustento.
+Não bastasse isso, há REINCIDÊNCIA (fls. 55/57), circunstância impeditiva, nos termos da lei e na eventualidade de condenação, da concessão de regime menos gravoso. Outrossim, assentada a recalcitrância em condutas delituosas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão ante tempus (STF, HC 95.118/SP, 94.999/SP, 94.828/SP e 93.913/SC), não como antecipação de pena, mas como expediente de socorro à ordem pública, fazendo cessar emergencialmente a prática criminosa. Por fim, nos termos do artigo 310, § 2º, do CPP (redação dada pela Lei nº 13.964/2019): "se o juiz verificar que o agente é reincidente ou que integra organização criminosa armada ou milícia, ou que porta arma de fogo de uso restrito, deverá denegar a liberdade provisória, com ou sem medidas cautelares".
+Por essas razões, tenho que a segregação cautelar é de rigor.
+Deixo de converter o flagrante em prisão domiciliar porque ausentes os requisitos previstos no artigo 318 do Código de Processo Penal.
+Deixo, ainda, de aplicar qualquer das medidas previstas no artigo 319 do Código de Processo Penal, conforme toda a fundamentação acima (CPP, art. 282, § 6º). E não se trata aqui de decretação da prisão preventiva com a finalidade de antecipação de cumprimento de pena (CPP, art. 313, § 2º), mas sim de que as medidas referidas não têm o efeito de afastar o acusado do convívio social, razão pela qual seriam, na hipótese, absolutamente ineficazes para a garantia da ordem pública.
+Conforme adiantado na decisão que deferiu o pedido liminar, o decreto prisional apresenta fundamentação considerada idônea por esta Corte, evidenciada na reiteração criminosa do paciente, pois foi apontando que o paciente é reincidente. Além disso, trata-se de "delito envolvendo um veículo de valor considerável e que se encontrava bloqueado judicialmente, sobre os quais, ainda, pairavam diversos débitos".
+Contudo, ao analisar as circunstâncias do caso, verifica-se que, embora o juízo de primeira instância haja mencionado o risco de reiteração criminosa, tendo em vista a condenação anterior do paciente, tal elemento não é suficiente, em juízo de proporcionalidade, para justificar a imposição da medida extrema de prisão, sobretudo por tratar-se de delito sem violência ou grave ameaça à pessoa e não haver notícias do envolvimento do réu com organização criminosa. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS COM ORDEM CONCEDIDA. TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. DESPROPORCIONALIDADE DA CONSTRIÇÃO. RÉU PRIMÁRIO. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA.
+1 - Os argumentos trazidos no agravo regimental não são suficientes para infirmar a decisão agravada, a qual mantenho por seus próprios fundamentos.
+2 - Reafirmo que, não obstante a quantidade de droga apreendida (1, 20 kg de maconha e 2 pedras de crack), em observância ao binômio proporcionalidade e adequação, entendo que a aplicação das medidas cautelares diversas da prisão se mostra suficiente para garantir a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal, visto que se trata de paciente primário, sem qualquer notícia de que seja integrante de organização criminosa.
+3 - Agravo regimental improvido.
+(AgRg no HC n. 777.470/AL, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/12/2022, DJe de 15/12/2022).
+Ante o exposto, concedo a ordem para substituir a prisão preventiva do paciente por medidas cautelares do art. 319 do CPP, a serem definidas pelo Juízo de primeiro grau.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
