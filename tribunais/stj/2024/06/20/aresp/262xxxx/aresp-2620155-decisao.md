@@ -1,0 +1,39 @@
+DECISÃO
+Agrava-se de decisão que inadmitiu o recurso especial interposto pela FLAVIA RODRIGUES BARRETO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos presentes autos que o Juízo de primeiro grau condenou a ora agravante às penas de dois anos e oito meses de reclusão, mais o pagamento de seis dias-multa, em regime aberto, pela prática do crime de roubo tentado.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo da defesa e deu provimento ao recurso ministerial para afastar a tentativa dando a ré como incursa no artigo 157, § 2º, inciso II, do Código Penal, majorando a pena para cinco anos e quatro meses de reclusão, mais o pagamento de treze dias-multa, fixando o regime prisional semiaberto, nos termos do acórdão cuja ementa é a seguinte (e-STJ fls. 329):
+Apelação Criminal - ROUBO MAJORADO. Reforma da decisão para reconhecer o delito consumado. Possibilidade. Inversão da posse do bem subtraído. Entendimento sumulado - Reprimenda e regime. Modificação em razão da elevação da pena aplicada - Apelo ministerial provido, desprovendo-se o defensivo.
+Nas razões do recurso especial, alega a defesa violação do artigo 14, II, do Código Penal. Sustenta a desclassificação do crime de roubo consumado para a modalidade tentada, com restabelecimento da sentença. Afirma que a recorrente foi "abordada praticamente no local dos fatos e que, portanto, não é possível considerar que, de fato, houve a inversão da posse da res, tampouco, que se chegou perto de obter a sua posse mansa e pacífica" (e-STJ fl. 354).
+Apresentadas as contrarrazões (e-STJ fls. 358/362), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 365/366), dando ensejo ao presente agravo.
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo não provimento do recurso (e-STJ fl. 393/396).
+É o relatório. Decido.
+O recurso é cabível, tempestivo e a matéria foi devidamente prequestionada.
+Passo, então, à análise do mérito.
+No caso, verifica-se que a Corte local, ao reconhecer a consumação do delito de roubo imputado à recorrente, alinha-se à a jurisprudência deste Superior Tribunal, firmada no sentido de que o delito de roubo, assim como o de furto, se consuma com a simples inversão da posse da coisa alheia móvel subtraída, ainda que por breve instante, sendo desnecessário que o bem saia da esfera de vigilância da vítima. Prescindível, portanto, a posse tranquila e/ou desvigiada do bem, obstada, muitas vezes, pela imediata perseguição policial ou da própria vítima.
+Com efeito, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.524.450/RJ, de relatoria do Ministro NEFI CORDEIRO, sob o rito do art. 543-C do CPC, consolidou entendimento de que o crime de furto se consuma "com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada".
+Abaixo, ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. RITO PREVISTO NO ART. 543-C DO CPC. DIREITO PENAL. FURTO. MOMENTO DA CONSUMAÇÃO. LEADING CASE. RECURSO EXTRAORDINÁRIO N. 102.490/SP. ADOÇÃO DA TEORIA DA APPREHENSIO (OU AMOTIO). PRESCINDIBILIDADE DA POSSE MANSA E PACÍFICA. PRECEDENTES DO STJ E DO STF. RECURSO ESPECIAL PROVIDO.
+1. Recurso especial processado sob o rito do art. 543-C, § 2º, do CPC e da Resolução n. 8/2008 do STJ.
+2. O Plenário do Supremo Tribunal Federal, superando a controvérsia em torno do tema, consolidou a adoção da teoria da apprehensio (ou amotio), segundo a qual se considera consumado o delito de furto quando, cessada a clandestinidade, o agente detenha a posse de fato sobre o bem, ainda que seja possível à vitima retomá-lo, por ato seu ou de terceiro, em virtude de perseguição imediata. Desde então, o tema encontra-se pacificado na jurisprudência dos Tribunais Superiores.
+3. Delimitada a tese jurídica para os fins do art. 543-C do CPC, nos seguintes termos: Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada.
+4. Recurso especial provido para restabelecer a sentença que condenou o recorrido pela prática do delito de furto consumado. (REsp 1.524.450/RJ, Rel. Ministro NEFI CORDEIRO, Terceira Seção, julgado em 14/10/2015, DJe 29/10/2015).
+No mesmo sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INFIRMADOS. SÚMULA 182/STJ AFASTADA. CONHECIMENTO DO RECURSO. ROUBO. MOMENTO CONSUMATIVO. POSSE DESVIGIADA. POSSE MANSA E PACÍFICA.
+DESNECESSIDADE. REsp 1.524.450/RJ. MAJORANTES DO CONCURSO DE AGENTE E DO EMPREGO DE ARMA. CÚMULO DE AUMENTOS. POSSIBILIDADE. NECESSIDADE DE FUNDAMENTAÇÃO. ILEGALIDADE CONSTATADA.
+ ..
+2. A jurisprudência do STJ, ao julgar o REsp n. 1.524.450/RJ, sob o rito dos recursos repetitivos, o qual também é empregado para o roubo, firmou posicionamento no sentido de que "Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada"
+ .. .
+4. Agravo regimental provido. Parcial provimento ao recurso especial, a fim de reduzir as penas dos recorrentes para 6 anos, 2 meses e 20 dias de reclusão, e 15 dias-multa (AgRg no AREsp n. 1.990.868/TO, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 5/4/2022, DJe 7/4/2022).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. CRIME DE FURTO QUALIFICADO. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE AUSÊNCIA DE LIAME SUBJETIVO ENTRE O PACIENTE E O CORRÉU. NECESSIDADE DE REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO DOS AUTOS. MEDIDA INCABÍVEL NA VIA ELEITA. PEDIDO SUBSIDIÁRIO DE DESCLASSIFICAÇÃO PARA A MODALIDADE TENTADA. IMPOSSIBILIDADE. CONFIGURAÇÃO DA INVERSÃO DA POSSE DO BEM. ADOÇÃO DA TEORIA DA AMOTIO. REQUERIMENTO DE DETRAÇÃO PENAL. QUESTÃO NÃO ANALISADA PELA CORTE DE ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+ ..
+4. Acerca do momento consumativo do crime de roubo e de furto, é assente a adoção da teoria da amotio por esta Corte e pelo Supremo Tribunal Federal, segundo a qual os referidos crimes patrimoniais se consumam no momento da inversão da posse, tornando-se o agente efetivo possuidor da coisa, ainda que não seja de forma mansa e pacífica, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima ou que seja devolvido pouco tempo depois.
+5. O crime de furto em questão se consumou, porquanto houve a efetiva inversão da posse do bem, malgrado o celular tenha sido devolvido à vitima logo após o injusto, devido à apreensão dos réus em flagrante.
+ ..
+7. Habeas corpus não conhecido (HC 618.290/RJ, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 17/11/2020, DJe 23/11/2020).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. CONSUMAÇÃO. POSSE MANSA. DESNECESSIDADE. SÚMULA 83/STJ. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça consolidou o entendimento, no julgamento do REsp 1.524.450/RJ, sob o rito dos recursos repetitivos, de que o delito de furto consuma-se com a simples posse da coisa alheia móvel subtraída, ainda que por breves instantes e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. Agravo regimental improvido (AgRg no AREsp 1.546.170/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 26/11/2019, DJe 3/12/2019).
+Nesse contexto, da análise da moldura fática delineada pelas instâncias ordinárias, forçosa a conclusão de que o crime foi cometido na modalidade consumada, porquanto a res furtiva, ainda que por breve espaço de tempo, saiu da posse da vítima.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
