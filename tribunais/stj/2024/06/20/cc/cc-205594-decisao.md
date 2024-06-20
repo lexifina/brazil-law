@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo de Direito da 1ª Vara Criminal de Salvador - BA, tendo por suscitado o Tribunal Regional Federal da 1ª Região.
+O juízo suscitado declinou de sua competência aduzindo que "a titularidade municipal e a origem estadual dos recursos possivelmente malversados indica a inexistência de interesse jurídico da União e, por consequência, de competência da Justiça Federal, razão pela qual o declínio é medida que se impõe". (e-STJ Fl. 7.473).
+O juízo suscitante, a seu turno, afirma que "a competência para o processamento e julgamento de prefeito municipal por suposto desvio de verba pública objeto de prestação de contas perante órgão federal é da Justiça Federal." (e-STJ Fl.10.802)
+O Ministério Público Federal promove a competência do juízo suscitado (e-STJ Fl. 10.812/10.816).
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A competência criminal da Justiça Federal possui natureza absoluta, encontrando previsão constitucional no art. 109, IV a X da CRFB/88, "verbis":
+Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral;
+V - os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente;
+V-A as causas relativas a direitos humanos a que se refere o § 5º deste artigo; (Incluído pela Emenda Constitucional nº 45, de 2004)
+VI - os crimes contra a organização do trabalho e, nos casos determinados por lei, contra o sistema financeiro e a ordem econômico-financeira;
+VII - os habeas corpus , em matéria criminal de sua competência ou quando o constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição;
+VIII - os mandados de segurança e os habeas data contra ato de autoridade federal, excetuados os casos de competência dos tribunais federais;
+IX - os crimes cometidos a bordo de navios ou aeronaves, ressalvada a competência da Justiça Militar;
+X - os crimes de ingresso ou permanência irregular de estrangeiro, a execução de carta rogatória, após o "exequatur", e de sentença estrangeira, após a homologação, as causas referentes à nacionalidade, inclusive a respectiva opção, e à naturalização;
+Nas hipóteses elencadas no inciso IV, ressalvadas as exceções expressas no texto da lei, restringe-se a competência especializada às hipóteses em que haja ofensa direta aos "(..) bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas (..)".
+No presente feito, observa-se que o inquérito policial foi instaurado para apurar a possível ocorrência dos delitos de falsificação de documento particular (art. 298 do CP), falsidade ideológica (art. 299 do CP) e crime de responsabilidade de prefeito e vereadores (art. 1º, I, II e IV, do Decreto-Lei 201/1967) envolvendo recursos oriundos do FUNDEB.
+É pacífica a jurisprudência desta Corte no sentido de "ser da competência da Justiça Federal a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF, independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse da União na correta aplicação dos recursos." (CC n. 123.817/PB, relator Ministro Marco Aurélio Bellizze, Terceira Seção, julgado em 12/9/2012, DJe de 19/9/2012.)
+Nesse sentido: AgRg no CC n. 125.291/RO, relator Ministro Campos Marques (Desembargador Convocado do TJ/PR), Terceira Seção, julgado em 8/5/2013, DJe de 14/5/2013; AgRg no CC n. 145.372/RS, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 25/5/2016, DJe de 31/5/2016; CC n. 164.113/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 8/5/2019, DJe de 17/5/2019, este assim ementado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. MALVERSAÇÃO NO USO DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - FUNDEB. SUPOSTA AUSÊNCIA DE COMPLEMENTAÇÃO DE VERBAS FEDERAIS. IRRELEVÂNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. CARÁTER NACIONAL DA POLÍTICA DE EDUCAÇÃO.
+1. O núcleo da controvérsia consiste em saber se para a fixação da competência da Justiça Federal, no caso de malversação de verbas destinadas à educação, é imprescindível a existência de repasse de verbas federais
+2. "Após o julgamento do CC nº 119.305/SP, a Terceira Seção desta Corte, mudando a jurisprudência até então pacificada, passou a entender ser da competência da Justiça Federal a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF, independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse da União na correta aplicação dos recursos." Precedente: CC 123.817/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, DJe 19/9/2012.
+3. O Supremo Tribunal Federal - STF, após o exame das ações civis originárias ns. 1.109, 1.206, 1.241 e 1.250, em Sessão Plenária do dia 5/10/2011, reconheceu que a propositura da ação penal - no caso de desvios do FUNDEF - é atribuição do Ministério Público Federal, ainda que não haja repasse de verbas da União.
+4. Conflito de competência conhecido para declarar competente o Tribunal Regional Federal da 4ª Região, o suscitado.
+(CC n. 164.113/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 8/5/2019, DJe de 17/5/2019. Grifo Acrescido)
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Tribunal Regional Federal da 1ª Região, o Suscitado, para processar e decidir o Inquérito Policial nº 1034273-51.2022.4.01.0000.
+Publique-se. Intimem-se.
+EMENTA
