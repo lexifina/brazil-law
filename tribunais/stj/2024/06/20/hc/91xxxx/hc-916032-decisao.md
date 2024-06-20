@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado contra acórdão assim ementado (fl. 1115):
+AGRAVO EM EXECUÇÃO PENAL. CONCESSÃO DE INDULTO. DECRETO N. 8380/2014, N. 8615/2015 e N. 9.246/2016. COMUTAÇÃO. APENADO AGRACIADO ANTERIORMENTE. VEDAÇÃO EXPRESSA. PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. O indulto é uma carta constitucional de ampla liberdade decisória, atribuída ao Chefe do Poder Executivo Federal, para extinguir ou diminuir a punibilidade de condenados. 1.1 A escolha dos critérios estabelecidos como necessários para o respectivo enquadramento incumbe exclusivamente ao Presidente da República, que detém a competência para a sua edição, respeitados os limites materiais impostos pela Constituição Federal.
+2. De acordo com as normas dos Decretos n. 8.380/2014, n. 8615/2015 e n. 9.246/2016, é vedado a concessão de comutações às pessoas condenadas à pena privativa de liberdade já tenham sido agraciadas por decretos anteriores, independente de pedido anterior.
+3. Para fins de prequestionamento, o julgador não está obrigado a tecer exaustivas considerações sobre todas as teses, tampouco a indicar todos os dispositivos constitucionais e infraconstitucionais suscitados pelas partes.
+4. Agravo em execução conhecido e não provido.
+Consta nos autos que o paciente teve indeferido o pedido de comutação de pena pois já tinha sido beneficiado por decretos de indulto anteriores. Interposto agravo em execução pela defesa, o Tribunal de origem manteve a decisão.
+Sustenta a defesa que "As execuções objeto do pedido de comutação realmente já tinham sido contempladas com a comutações com base nos Decreto anteriores (2010 e 2011) (fls. 5-6).
+Afirma que os Decretos n. 8.380/2014, n. 8.615/2015 e n. 9.246/2017, não trazem impedimento para sua incidência nos casos em que o sentenciado já havia sido contemplado com a comutação com base em decretos anteriores.
+Requer a concessão da ordem de habeas corpus para que seja declarada com fundamento no Decreto n. 8.380/2014; no Decreto n. 8.615/2015 e no Decreto n. 9.246/2017, a comutação das penas das execuções n. 0099642-56.2005.8.07.0015, 0009252-40.2005.8.07.0015, 0059980-85.2005.8.07.0015 0006338-85.2014.8.07.0015.
+As informações foram prestadas. O Ministério Público Federal manifestou-se pela denegação da ordem.
+Consta do acórdão (fls. 1124-1126):
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+Conforme relatado, trata-se de agravo em execução penal interposto pela Defesa de SERGIO RODRIGUES MAGALHÃES contra a decisão proferida pelo d. Juiz da Vara de Execuções Penais do Distrito Federal que, nos autos da execução penal n. 0167016-25.2017.8.09.0044, indeferiu a concessão de indultos (comutação) estabelecidos nos Decreto n. 8380/2014, Decreto n. 8.615/2015 e Decreto n. 9.246/2017, sob o fundamento de que o apenado já teria sido contemplado com referido benefício em atos normativos anteriores (ID 55727582, págs. 122/123).
+O recurso questiona a decisão do Juízo da execução que indeferiu o pedido de comutação com base no (s) Decreto (s) n. 8.380/2014, n. 8,615/2015 e n. 9. 246/2017.
+A tese recursal ora em análise defende que não há vedação legal que impeça a concessão do benefício da comutação a apenados que já tenham sido anteriormente agraciados por indultos.
+A despeito das razões defensivas, não assiste razão ao recurso.
+O agravante SERGIO RODRIGUES MAGALHAES cumpre pena total de 28 (vinte e oito) anos, 10 (dez) meses e 16 (dezesseis) dias de reclusão, pela prática de crimes de roubo e homicídio, conforme Relatório da Situação Processual Executória consultado no SEEU.
+A discussão do presente recurso, cinge-se em analisar se é possível ou não a comutação da pena, quando o sentenciado já foi agraciado com algum indulto concedido em Decretos anteriores.
+De início, insta asseverar que o indulto é uma carta constitucional de ampla liberdade decisória, atribuída ao Chefe do Poder Executivo Federal para extinguir ou diminuir a punibilidade de condenados.
+A escolha dos critérios estabelecidos como necessários para o respectivo enquadramento incumbe exclusivamente ao Presidente da República, que detém a competência para a sua edição, respeitados os limites materiais impostos pela Constituição Federal.
+Pois bem, na origem, a Defesa buscou a declaração da comutação das penas trazidas nas execuções n. 0099642-56.2005.8.07.0015 (mov. 1.2), 0009252-40.2005.8.07.0015 (mov. 1.4), 0059980-85.2005.8.07.0015 (mov. 1.5) e 0006338-85.2014.8.07.0015 (mov. 1.8), com fundamento nos Decretos n. 8.380/2014, Decreto n. 8.615/2015 e Decreto n. 9.246/2017.
+É incontroverso que o apenado já foi beneficiado pela Comutação da pena com base no Decreto n. 7.420/2010 (mov. 1.5 - pag.99 - SEEU).
+A despeito da Defesa afirmar que não há vedação expressa nos Decretos questionados para a concessão do indulto a quem já foi anteriormente agraciado, verifica-se, que, como trazido no decisum atacado, tal afirmação não procede.
+Para melhor esclarecimento, transcreve-se trechos das normas pertinentes à discussão em cada Decreto.
+O parágrafo único do art. 7º do Decreto nº 9.246, de 21 de dezembro de 2017, que assim dispõe:
+(..) Art. 7º  Parágrafo único. A comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior.
+A mesma vedação encontra-se também prevista expressamente no artigo 3º dos Decretos n. 8380/2014 e n. 8615/2015:
+(..) Art. 3º Concede-se comutação às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2014, obtido as comutações, de decretos anteriores, independente de pedido anterior. (..)
+(..) Art. 3º Concede-se comutação às pessoas condenadas a pena privativa de liberdade que não tenham, até 25 de dezembro de 2015, obtido as comutações por meio de Decretos anteriores, independentemente de pedido anterior (..) .
+Vê-se, assim, que, ao contrário do alegado pela Defesa, nos exatos termos trazido na decisão atacada há, nos três Decretos questionados, vedação expressa à concessão da comutação a apenados que já tenham sido beneficiados por indultos anteriores.
+Neste sentido, confira-se julgados do Superior Tribunal de Justiça:
+ ..  Assim, tendo em vista o texto legal dos Decretos, inviável a concessão dos indultos pleiteados pelo apenado, sendo correta a manutenção da decisão de primeiro grau que indeferiu as comutações pleiteadas.
+Por fim, de se afirmar que o enfrentamento da controvérsia posta em julgamento se mostra suficiente para os fins pretendidos, pois a Turma não está obrigada a se manifestar sobre todas as alegações levantadas no recurso, tampouco sobre os dispositivos legais que se entendem aplicáveis ao caso, mas somente a respeito dos pontos relevantes para fundamentar o decisum.
+Para extirpação de qualquer dúvida, dá-se por prequestionada as matérias aventadas pela parte recorrente.
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso de agravo em execução.
+É como voto.
+Como visto, o paciente cumpre pena total de 28 anos, 10 meses e 16 dias de reclusão, pela prática de crimes de roubo e homicídio, conforme Relatório da Situação Processual Executória consultado no SEEU.
+O Tribunal de Justiça do Distrito Federal e Territórios negou provimento ao recurso de agravo em execução pois o paciente foi beneficiado com a comutação de penas com base no Decreto n. 7.420/2010, o que inviabilizaria a nova comutação em razão da vedação expressa do art. 3º do Decreto n. 8.380/2014; do art. 3º do Decreto n. 8.615/2015 e art. 7º do Decreto n. 9.246/2017.
+Assim, o entendimento das instâncias pretéritas encontra respaldo na jurisprudência desta Corte superior, não se verificando, portanto, ilegalidade à espécie. Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. COMUTAÇÃO DE PENA. DECRETOS PRESIDENCIAIS N. 8.172/2013 E 7.648/2011. IMPOSSIBILIDADE. FUNDAMENTAÇÃO VÁLIDA NA PRÁTICA DE FALTA GRAVE. DECRETOS PRESIDENCIAIS N. 8.380/2014, 8.615/2015 E 9.246/2017. EXPRESSA VEDAÇÃO DE NOVA COMUTAÇÃO. NOVOS FUNDAMENTOS NA ORIGEM EM RECURSO EXCLUSIVO DA DEFESA. INOVAÇÃO RECURSAL.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, em relação aos Decretos Presidenciais n. 8.172/2013 e 7.648/2011, a prática de falta grave nos 12 meses anteriores à publicação do decreto é suficiente para impedir a comutação, sem necessidade da homologação judicial no mesmo período.
+2. Como indicado pelo Tribunal de origem, por previsão expressa dos Decretos Presidenciais n. 8.380/2014, 8.615/2015 e 9.246/2017, é vedada nova concessão de comutação.
+3. Com efeito, "no âmbito do agravo regimental, não se admite que a Parte amplie objetivamente as causas de pedir e os pedidos formulados na petição inicial ou no recurso". (AgRg no HC n. 779.532/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022.) 4. Agravo regimental desprovido. (AgRg no HC n. 796.325/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DECRETO N. 9.246/2017. COMUTAÇÃO DE PENA. FALTA DE REQUISITO OBJETIVO. BENESSE RESTRITA AOS CONDENADOS QUE NÃO RECEBERAM O BENEFÍCIO ANTERIORMENTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que a exegese do art. 7.º, parágrafo único, do Decreto n.º 9.246/2017, expressamente limita o deferimento da comutação a quem não tenha obtido comutação decorrente de decreto anterior.
+2. No caso, as instâncias de origem ressaltaram que o Agravante já foi beneficiado com a comutação de pena referente ao Decreto Presidencial n.º 5.620/2005, de modo que não faz jus à comutação do Decreto n.º 9.246/2017.
+3. Agravo regimental desprovido. (AgRg no HC n. 774.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N. 9.246/2017. INDEFERIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. FUNDAMENTAÇÃO. DEFERIMENTO DE COMUTAÇÕES ANTERIORES. VEDAÇÃO DO ART. 7º DO DECRETO. REQUISITO OBJETIVO. NECESSIDADE DE CUMPRIMENTO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. WRIT INDEFERIDO LIMINARMENTE.
+1. O fato de o paciente ter sido beneficiado por comutações de pena anteriores inviabiliza a pretensão defensiva, por se confrontar com o regramento previsto no Decreto Presidencial 9.246/2017, que, taxativamente, determina que a comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior. Desse modo, não há falar em constrangimento ilegal, na hipótese, uma vez que não cumprido o requisito objetivo, não tem o paciente direito à comutação de pena, nos termos da determinação expressa contida no texto legal (HC n. 466.918/MS, Ministro Nefi Cordeiro, DJe 2/10/2018).
+2. Agravo regimental desprovido. (AgRg no HC n. 471.788/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2020, DJe de 12/8/2020.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
