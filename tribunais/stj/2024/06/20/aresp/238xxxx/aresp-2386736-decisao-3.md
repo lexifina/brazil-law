@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ISMAR ERNANI DE OLIVEIRA contra decisão do Desembargador Presidente da Seção de Direito Criminal do Tribunal de Justiça de São Paulo que julgou prejudicado o recurso quanto à fixação do regime aberto e o inadmitiu, ante a incidência da Súmula n. 07/STJ e Súmula n. 284/STF (e-STJ fls.1091/1092).
+O agravante interpôs recurso especial com fulcro no artigo 105, III, "a", da Constituição Federal, contra acórdão da Décima Terceira Câmara Criminal do Tribunal de São Paulo que concedeu parcial provimento ao recurso de apelação, apontando violação ao artigo 386, III, do Código de Processo Penal, e 33, parágrafo segundo, II, do Código Penal. Por fim, requereu a absolvição e, subsidiariamente, a fixação do regime aberto para o cumprimento da pena (e-STJ fls. 974/988).
+Por intermédio deste agravo, a defesa reconhece a prejudicialidade da pretensão de fixação do regime inicial aberto, tendo em vista a concessão, de ofício, pelo STJ, do HC n. 734181, e sustenta, em síntese, a não incidência dos apontados óbices processuais, reiterando os termos do apelo nobre. Por fim, requer o seu conhecimento e provimento (e-STJ fls. 1107/1116).
+O Ministério Público de São Paulo apresentou as contrarrazões pugnando pelo não conhecimento ou desprovimento do aludido recurso (e-STJ fls. 1250/1253).
+O Ministério Público Federal se manifestou pelo não conhecimento ou desprovimento do aludido recurso (e-STJ fls. 1286/1302).
+É o relatório.
+Decido.
+O agravo é tempestivo e o agravante impugnou os fundamentos da decisão recorrida, então merece ser conhecido. Por outro lado, do exame das razões veiculadas, nota-se que não merecem prosperar.
+Com efeito, verifica-se que a apontada violação ao artigo 386, III, do Código de Processo Penal, para fins de absolver o ora agravante, demandaria reanálise de todo o acervo fático-probatório que instrui os autos, providência inadmissível em sede de recurso especial, a teor da Súmula n. 07/STJ:"a pretensão de simples reexame de prova não enseja recurso especial".
+Vale conferir:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PRINCÍPIO DA COLEGIALIDADE. OFENSA INEXISTENTE. DESCLASSIFICAÇÃO OU ABSOLVIÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRINCÍPIO DA INSIGNIFICÂNCIA E FALTA DE CONDIÇÃO DE PROCEDIBILIDADE. TESES NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não existe ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática do relator nega provimento a recurso manifestamente inadmissível, prejudicado, deficientemente fundamentado, em confronto com Súmula ou jurisprudência dominante desta Corte, como é o caso dos autos. Por outro lado, o julgamento colegiado do agravo regimental supre eventual vício da decisão agravada.
+2. A pretensão recursal que objetiva a desclassificação da conduta do agravante ou a sua absolvição, seja por atipicidade formal, pela ausência de prejuízo à vítima ou pelo reconhecimento da inexistência de dolo, demandaria a ampla reanálise do conjunto fático-probatório do feito, o que é vedado nesta via especial, conforme preconizado pela Súmula n. 7 do Superior Tribunal de Justiça. Precedentes.
+3. Não houve debate no Tribunal de origem a respeito da atipicidade material da conduta pela incidência do princípio da insignificância e sobre a falta de condição de procedibilidade para a ação penal, o que denota a falta do necessário prequestionamento das matérias.
+Também não foram opostos embargos de declaração pela defesa para sanar eventual omissão da Corte a quo . Incidência das Súmulas n. 282 e n. 356 do Supremo Tribunal Federal.
+4. Impossibilidade de conhecimento do recurso especial no tocante à interposição pela alínea "c" do permissivo constitucional, considerando que a defesa não observou o disposto no art. 1029, § 1º, do Código de Processo Civil - CPC, além da incidência da Súmula n. 7 do STJ e das Súmulas n. 282 e n. 356 do STF ao presente caso prejudicar a análise do alegado dissídio jurisprudencial.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.385.603/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024.). Grifos acrescidos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se Intimem-se.
+EMENTA
