@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo de Direito da 19ª Vara Criminal do Rio de Janeiro-RJ, tendo por suscitado o Juízo de Direito da 1ª Vara Criminal de Ipatinga-MG.
+Verifica-se dos autos que o juízo suscitado declinou da competência para processar e julgar ação penal aduzindo, em suma, que "Lado outro, considerando que o delito ora apurado é de ação múltipla e. por conseguinte, consuma-se com a prática de qualquer uma das condutas descritas no tipo penal, comungo do entendimento de que o delito deve ser considerado consumado no local da remessa, por força do disposto no art. 70.
+caput, do CPP." (e-STJ Fl.69)
+O juízo suscitante, a seu turno, suscitou conflito forte nas seguintes razões (e-STJ Fl. 5): "este Juízo se afigura incompetente para o processo e julgamento do feito tendo em vista que o local da consumação do injusto penal é afeto à jurisdição do Juízo Suscitado".
+O Ministério Público Federal promove a competência do juízo suscitado (e-STJ Fl. 317-320)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+É pacífica a jurisprudência desta corte no sentido de que "Compete ao juiz federal do local da apreensão da droga remetida do exterior pela via postal processar e julgar o crime de tráfico internacional." (Súmula 528).
+Não se desconhece, entretanto, que "Em situações excepcionais, a jurisprudência desta Corte tem admitido a fixação da competência para o julgamento do delito no local onde tiveram início os atos executórios, em nome da facilidade para a coleta de provas e para a instrução do processo, tendo em conta os princípios que atendem à finalidade maior do processo que é a busca da verdade real" (CC 151.836/GO, Rel. Min. Reynaldo Soares da Fonseca, TERCEIRA SEÇÃO, DJe 26/6/2017).
+Contudo, no presente feito, conforme ressaltado pelo Ministério Público Federal: "Embora as drogas tenham sido enviadas pelo correio, o pacote alcançou a destinatária e, inclusive, foi aberto pelos policiais em frente à sua casa. No caso em comento, o crime de tráfico, na modalidade adquirir ou mesmo trazer consigo, consumou-se no momento da apreensão da droga na cidade de Ipatinga-MG, destarte sendo este o foro do juízo competente para processar e julgar a presente ação." (e-STJ Fl.317)
+Com efeito, presente apreensão no poder da destinatária e ausente informação acerca da investigação do delito quanto ao remetente, não se mostra viável superar o entendimento firmado pela Súmula 528 do STJ, aqui aplicada "mutatis mutandis".
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direito da 1ª Vara Criminal de Ipatinga-MG, o Suscitado, para processar e decidir a Ação Penal n. 5025233-05.2023.8.13.0313.
+Publique-se. Intimem-se.
+EMENTA
