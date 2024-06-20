@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão de minha relatoria que concedeu a ordem, de ofício, para cassar parte do acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 5014352-83.2018.8.21.0001) no ponto que determinou a remessa dos autos ao juízo competente para processamento e julgamento dos crimes conexos.
+Nos aclaratórios, sustenta a defesa que o Tribunal de Justiça não reconheceu nulidade contra o acusado, pois o acusado possui o direito constitucional de ser julgado por juiz competente e, no caso, o TJ acertou ao determinar o encaminhamento do feito ao juiz singular para julgar os crimes conexos.
+Aponta, ainda, omissão do julgado, pois não diz como será a tramitação do feito referente aos crimes conexos.
+Requer, ao final, sejam acolhidos os embargos de declaração.
+É o relatório. Decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+Como expressamente afirmado na decisão agravada, "verifica-se que a Corte local, ao anular parte da sentença que impronunciou o réu e determinar a remessa dos autos ao juízo competente para exame dos crimes conexos - reconhecendo nulidade não suscitada pelo Ministério Público - extrapolou os estreitos limites de exame do recurso de apelação interposto. Constata-se, assim, a ampliação indevida do efeito devolutivo do apelo. Nesse cenário, deve ser reconhecida a nulidade do acórdão impugnado, nos termos da Súmula n. 160/STF." (e-STJ fl. 1.169)
+Por outro lado, inexiste a apontada omissão, pois os crimes conexos descritos na exordial acusatória (associação para o tráfico e corrupção de menor) foram julgados pelo Juízo da pronúncia (e-STJ fls. 1.067/1.068). Caso o Ministério Público não concordasse com solução dada em primeiro grau, deveria ele, nas razões de apelação, ter impugnado a competência daquele Juízo para prosseguir no julgamento dos crimes conexos, o que não ocorreu. Sendo assim, não poderia o TJ, de ofício, apontar a suposta ilegalidade em relação à competência.
+Assim, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)" (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+Intimem-se.
+EMENTA
