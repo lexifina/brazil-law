@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por WALMIR DA SILVA REIS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 341 - 352):
+"RECURSO EM SENTIDO ESTRITO - PRONÚNCIA - ALEGAÇÃO - DE PRESCRIÇÃO VIRTUAL - REJEITA-SE - HOMICÍDIO QUALIFICADO TENTADO - EXAME PERFUNCTÓRIO DA PROVA - CONFISSÃO - HARMONIA COM A PALAVRA DA VÍTIMA - SUFICIÊNCIA DOS INDÍCIOS COLIGIDOS - COMPETÊNCIA DO TRIBUNAL DO JURI PARA EXAME DAS TESES DEFENSIVAS - RECURSO MINISTERIAL - DESCLASSIFICAÇÃO DE UM DOS CRIMES PARA LESÕES CORPORAIS - AUSÊNCIA DE DESCRIÇÃO NA DENÚNCIA DE ERRO NA EXECUÇÃO - MANUTENÇÃO.
+- Na fase da pronúncia não se faz exame aprofundado da prova, limitando-se à verificação de indícios suficientes para admissão do julgamento pelo Tribunal do Júri, competente para o exame da totalidade das teses defensivas.
+- Estando a palavra da vítima em harmonia com à prova testemunhal, verifica-se presentes indícios aptos a sustentar a pronúncia.
+- Se a denúncia não descreve, de forma expressa, que o segundo crime descrito decorreu de erro na execução, não é possível aferir o dolo do agente, correta a desclassificação operada."
+Os embargos de declaração foram rejeitados (e-STJ, fls. 369 - 374).
+Em suas razões recursais, a parte recorrente aponta violação dos artigos 619 e 155, ambos do Código de Processo Penal, argumentando, para tanto, que (i) o simples disparo de arma de fogo não conduz à constatação do animus necandi do agente e (ii) a Corte de origem omitiu-se a respeito da ausência de prova judicializada a comprovar a suposta intenção homicida do agravante.
+Com contrarrazões (e-STJ, fls. 468 - 470), o recurso especial foi inadmitido na origem (e-STJ, fls. 472 - 474), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para que seja desprovido o recurso especial (e-STJ, fls. 505 - 512).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Inicialmente, não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+No mais, a respeito da existência de indícios suficientes de autoria delitiva, a sentença, confirmada pelo acórdão recorrido, manifestou-se nesses termos (e-STJ, fls. 265):
+"Quanto à autoria do crime, há indícios de que o acusado teria praticado o crime de homicídio tentado descrito na denuncia, em face da vitima E. R B, os quais são suficientes para submissão dele a julgamento popular.
+Ao ser ouvida na DEPOL, conforme ff. 10/11, a vítima E: R. B; assim se manifestou: "Que a a declarante e Walmir conversaram numa boa, dançaram, durante a comemoração, mas por volta dás 00:00 hs, Walmir insistiu para que a declarante fosse com ele para fora do bar para ficarem juntos e esta se recusou; que Walmir - não gostando da reação da declarante, disse apenas que "iria acabar com aquilo de uma vez" e sacou um revólver que acredita ser um calibre 22 e apontou em direção - a cabeça da declarante; que a declarante avançou na mão de Walmir para abaixar a arma e este começou a atirar sendo que o primeiro tiro passou por baixo da axila da declarante rasgando a blusa que esta vestia; que a declarante saiu correndo e Walmir ainda efetuou o segundo disparo, que pegou de raspão no ombro desta e mais uns três tiros (..)"
+A referida vítima, quando ouvida em juízo, conforme f. 141, confirmou o depoimento acima." (grifou-se)
+Portanto, as instâncias ordinárias, calcada nas provas constantes dos autos, entenderam que há elementos indiciários suficientes a amparar a decisão de pronúncia, uma vez que a prova oral apresentou indícios razoáveis de que o agravante teria atirado na vítima com a intenção de matá-la.
+Dessa forma, para alterar a conclusão a que chegaram as instâncias ordinárias e desclassificar a conduta, seria necessário revolver o acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial."
+A corroborar:
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. RÉU PRONUNCIADO PEDIDO DE DESCLASSIFICAÇÃO DA IMPUTAÇÃO PENAL. PLEITO DE EXCLUSÃO DAS QUALIFICADORAS. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Convém assinalar que a decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria. A pronúncia não demanda juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas, nessa fase processual, resolvem-se em favor da sociedade - in dubio pro societate.
+III - In casu, o Tribunal de origem atestou que há elementos indiciários da presença do animus necandi, destacando, ainda, a inexistência de prova que afaste de forma clara e definitiva a intenção de matar. Desse modo, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ. Precedentes.
+ ..
+Agravo regimental desprovido".
+(AgRg no AREsp n. 2.170.933/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÕES AOS ARTS. 156, 414 E 415, TODOS DO CÓDIGO DE PROCESSO PENAL - CPP. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA SUFICIENTES PARA EMBASAR A DECISÃO DE PRONÚNCIA. PRINCÍPIO DO IN DÚBIO PRÓ SOCIETATE. REVISÃO DE ENTENDIMENTO QUE DEMANDA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias demonstraram prova da materialidade e indícios de autoria imprescindíveis à pronúncia do recorrente , destacando a aplicação do princípio do in dubio pro societate. Esse entendimento está alinhado com a jurisprudência desta Corte.
+1.1. Diante da justificada conclusão das instâncias ordinárias, os pleitos de absolvição sumária ou de impronúncia esbarram no óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.010.633/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/3/2022, DJe de 24/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
