@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Anselmo Vargas, apontando-se como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul, que denegou a ordem ali impetrada (Habeas Corpus n. 1408280-28.2024.8.12.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante, em 12/4/2024, convertida a prisão em preventiva, e denunciado pela suposta prática do crime de homicídio qualificado tentado (Ação Penal n. 0900197-84.2024.8.12.0031, da 1ª Vara Criminal da comarca de Caarapó/MS).
+No pres ente mandamus, a defesa sustenta que inexistem quaisquer das hipóteses previstas no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada em elementos concretos. Ressalta a suficiência das medidas cautelares alternativas.
+Requer, em li minar e no mérito, a revogação da custódia ou a concessão do pedido de prisão domiciliar do paciente, com fulcro no art. 318, VI, do CPP (fl. 7).
+É o relatório.
+Para a decretação de custódia cautelar, a lei processual penal exige a reunião dos seguintes requisitos: fumus comissi delicti e o periculum in libertatis (art. 312 do CPP).
+No caso, contravindo os argumentos dispostos neste writ, o voto condutor do acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou adequada a determinação de prisão preventiva do paciente em decorrência da gravidade concreta do delito, in verbis (fls. 12/13 - grifo nosso):
+ ..
+Isso porque, consoante os autos originários, o paciente, no dia 11 de abril de 2024, por volta das 22h01min., na residência localizada na Travessa da Felicidade, nº. 20, na esquina com a Rua da Saudade, bairro Vila Nova, na comarca de Caarapó, ciente da ilicitude e reprovabilidade de sua conduta, com animus necandi, tentou matar a vítima Jackson Varga de Oliveira, mediante golpe de arma branca (faca), não consumando o crime por circunstâncias alheias à sua vontade, uma vez que o réu foi segurado pela pessoa de Lúcio Aparecido Ramos, e, além disso, a vítima foi logo socorrida e encaminhada para o Hospital, onde recebeu pronto e eficaz atendimento médico.
+ ..
+Diante desse cenário, evidentemente restrito aos elementos de convicção até o momento reunidos, inegável se afigura a necessidade da custódia, máxime considerando que as particularidades, as circunstâncias fáticas do delito penal, a própria dinâmica dos acontecimentos, culminam por delinear a gravidade concreta da conduta que teria sido perpetrada, ensejando indicativos sobre a agressividade e periculosidade do paciente, nocivas à segurança e à incolumidade social, notadamente a comunidade local.
+Aliás, convém destacar excerto da decisão exarada pela dita autoridade coatora, segundo a qual o paciente" caso seja solto, poderá praticar fato mais grave, até mesmo porque teria dito aos policiais que tinha a intenção de matar a vítima."
+ ..
+Por conseguinte, a custódia está corretamente motivada no modus operandi e na gravidade concreta do crime (AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022), pois o denunciado desferiu a facada contra a vítima por mera e banal desavença familiar, porquanto, queria que a vítima, seu sobrinho, saísse da casa e a vítima não saiu (fl. 31).
+Inclusive, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, e m face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Igualmente: HC n. 852.065/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/3/2024; e AgRg no RHC n. 174.698/AL, Ministra Daniela Teixeira, Quinta Turma, DJe de 14/3/2024.
+Por fim, não foi comprovada sua imprescindibilidade para o cuidado e sustento do menor, de forma que não consiste argumento hábil a ensejar a concessão da ordem. Sendo ass im, infirmar as conclusões a que chegaram as instâncias ordinárias pressupõe o revolvimento de fatos e provas, providência vedada no âmbito do writ e do recurso ordinário que lhe faz as vezes (AgRg no RHC n. 195.136/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/5/2024).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GOLPES DE FACA CONTRA A VÍTIMA . GRAVIDADE CONCRETA DO DELITO. PRESERVAÇÃO DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. S UST ENTO DA FAMÍLIA. NÃO COMPROVAÇÃO DE IMPRESCINDIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
