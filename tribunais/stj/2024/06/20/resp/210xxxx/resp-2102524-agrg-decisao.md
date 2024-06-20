@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão que não conheceu do recurso especial.
+Nas razões do agravo regimental, o agravante reputa ser indevido o não conhecimento da ilegalidade, isso porque a compensação integral entre duas agravantes de reincidência e a atenuante confissão foi devidamente enfrentada pelo Tribunal de origem, sendo certo que a matéria foi devidamente prequestionada.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do colegiado, pugnando pelo seu provimento.
+É o relatório.
+Decido.
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Em suas razões, o agravante reputa ser indevido o não conhecimento da ilegalidade, isso porque a compensação integral entre duas agravantes de reincidência e a atenuante confissão foi devidamente enfrentada pelo Tribunal de origem, sendo certo que a matéria foi devidamente prequestionada.
+Por modificar a decisão agravada, passo às devidas considerações.
+Sobre o tema, assim se pronunciou o Tribunal de origem:
+Na segunda fase da dosimetria, assiste razão ao Parquet ao perseguir o reconhecimento da agravante da reincidência, pois como já explicitado, as anotações nº 05 e nº 09 da FAC do réu acostada nos e-docs. 218 e 304, com trânsitos em julgado, respectivamente, em 07/11/2011 e 16/09/2011, ambas pela prática de crimes de roubo, caracterizam a agravante da reincidência.
+Por outro lado, ainda na fase intermediária, o Juízo sentenciante acertadamente reconheceu a circunstância atenuante da confissão espontânea.
+Todavia, deve ser operada a compensação entre ambas as circunstâncias. Isso porque tanto a atenuante da confissão espontânea como a agravante da reincidência são circunstâncias de cunho subjetivo - a primeira espelha a personalidade do agente e denota a sua disposição em assumir o erro, ao passo que a segunda revela reiteração na conduta delituosa - estando situadas no mesmo patamar de preponderância.
+O art. 67 do Código Penal elege como circunstâncias preponderantes não só a reincidência, mas também, dentre outras, aquelas que resultam da personalidade do agente - o que abarca a confissão espontânea, conforme a remansosa jurisprudência dos Tribunais Superiores -, sendo perfeitamente possível a compensação:
+ ..
+Assim, compensando-se a reincidência com a confissão espontânea, devem ser as penas reconduzidas aos patamares da primeira fase do cálculo, quais sejam, 04 (quatro) anos e 06 (seis) meses de reclusão, e 11 (onze) dias-multa.
+O Tribunal de origem no julgamento da apelação proposto pelo Ministério Público estadual reconheceu agravante de reincidência de dois crimes de roubos com trânsito em julgado nas datas de 07/11/2011 e 16/09/2011, bem como compensou integralmente a referida agravante com a atenuante de confissão espontânea.
+No caso, a sanção deve ser reformada, uma vez que o acórdão recorrido está em dissonância com a jurisprudência desta Corte, visto que a Terceira Seção do Superior Tribunal de Justiça (STJ), sob o rito dos recursos especiais repetitivos (Tema 585), estabeleceu a seguinte tese: "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade", que se verifica no caso.
+Assim, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea.
+Nesse compasso, agravo proporcionalmente em 1/6 a pena intermediária, em razão do reconhecimento do segundo crime como agravante de reincidência.
+Por oportuno:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. ART. 155, §4º, III, C/C O ART. 14, II, DO CP. COMPENSAÇÃO PROPORCIONAL DA ATENUANTE DA CONFISSÃO COM A AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. RÉU MULTIRREINCIDENTE. INCIDÊNCIA DA FRAÇÃO MÍNIMA DE 1/3 PELA TENTATIVA. FIXAÇÃO DE ACORDO COM O ITER CRIMINIS PERCORRIDO. ALTERAÇÃO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO NÃO PROVIDO.
+1. Consoante o entendimento pacificado desta Corte Superior, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+2. A Terceira Seção, por ocasião do julgamento do REsp n. 1.931.145/SP, sob a relatoria do Ministro Sebastião Reis Júnior, em 22/6/2022, fixou a tese segundo a qual "é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não.
+3. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade".
+4. "A jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição" (AgRg no REsp 1.943.353/SP, de minha Relatoria, Quinta Turma, julgado em 5/10/2021, DJe 13/10/2021).
+5. "Ao estabelecer a redução da pena em função da tentativa em seu patamar mínimo, fundamentada no iter criminis, o Tribunal local agiu em conformidade com a jurisprudência desta Corte. Ainda que assim não fosse, seria necessário incursão na seara fático-probatória para análise do pleito, providência obstada pela Súmula n. 7 do STJ."
+(AgRg no AREsp 391.297/SC, Min. Rel. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 11/3/2016).
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.490.992/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/4/2024, DJe de 25/4/2024.)
+Ante o exposto, dou provimento ao recurso, para fixar a pena do recorrido em 07 anos, de reclusão e 16 dias-multa, mantendo, no mais, a sentença condenatória.
+Publique-se.
+Intimem-se.
+EMENTA
