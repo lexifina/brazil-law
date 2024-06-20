@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA NEGATIVA C/C INDENIZATÓRIA. TOI. PARCIAL PROCEDÊNCIA DO PEDIDO. AUTORA QUE NÃO É A TITULAR DA UNIDADE CONSUMIDORA. ILEGITIMIDADE AD CAUSAM ATIVA QUE SE RECONHECE DE OFÍCIO, NA FORMA DO §3º, DO ARTIGO 485 DO CPC. REFORMA DA R. SENTENÇA. 1. Demanda que versa sobre vício do serviço. 2. Titular da unidade consumidora que é o único legitimado a pleitear em juízo indenização por danos advindos da falha na prestação do serviço. 3. A tutela prevista no CDC somente se estende a terceiros quando vítimas de fato do produto ou do serviço, hipótese que não coincide com a situação narrada nos autos. Artigo 17 da Lei nº. 8.078/90. 4. Reforma da R. Sentença para, de ofício, reconhecer a ilegitimidade ativa ad causam e extinguir o processo sem resolução do mérito, na forma do artigo 485, VI, do CPC. 6. Recursos prejudicados.
+Os Embargos de Declaração foram rejeitados (fl. 599).
+Em seu Recurso Especial, a agravante sustenta que ocorreu violação do art. 2º da CDC e dos arts. 489, § 1º, I e V, e 1.022, I e II, do CPC, além de divergência jurisprudencial. Afirma:
+No ponto, convém asseverar que o simples fato de não constar o nome da Recorrente como titular da unidade consumidora, e sim do seu marido falecido, não lhe retira a legitimidade para figurar no polo ativo da presente ação, considerando que, sendo a consumidora final do serviço de energia elétrica, sofrerá - e está sofrendo - a Autora todos os reveses inerentes à má prestação do serviço. (fl. 609)
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do Agravo para conhecer em parte do Recurso Especial e negar-lhe provimento na parte conhecida (fls. 749-755).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.6.2024.
+De início, não há que se falar em nulidade do acórdão recorrido, pois percebe-se que seus fundamentos são claros e exatos e que nele não há nenhuma omissão. O julgador não está obrigado a se manifestar na forma desejada pelas partes nem a responder, uma a uma, as suas alegações.
+Nesse contexto, a oposição de Embargos Declaratórios demonstra, tão somente, o objetivo de rediscutir a matéria julgada, procedimento inadmissível nesta Corte Superior haja vista o entendimento consolidado de que os aclaratórios não constituem a via adequada para o rejulgamento da causa quando ausentes as hipóteses de cabimento do recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19.12.2016)
+Em relação ao mérito, o Colegiado estadual consignou:
+Na espécie, todas as faturas acostadas aos autos, às fls. 42/48, bem como a notificação do TOI, às fls. 36/38, recibo de faturamento, às fls. 39/41, revelam que Tolentino M. de Almeida é o titular do serviço, o que demonstra a ilegitimidade da autora para a propositura da presente demanda.
+A demandante, sequer ostenta a qualidade de consumidor por equiparação, prevista no artigo 17 do Código de Defesa do Consumidor, porque hipótese dos autos não versa sobre fato de serviço ou de produto, sendo certo que, somente, nesses casos é admissível a referida figura de ficção jurídica, a qual tem como finalidade estender a proteção da lei consumerista a terceiros, não destinatários finais da relação de consumo, mas que foram atingidos por eventual acidente de consumo.
+(..)
+Neste contexto, deve o feito ser extinto, sem resolução do mérito, frente à patente ilegitimidade ad causam ativa. (fls. 517-521)
+O presente recurso não pretende auferir a interpretação da norma legal, mas a reanálise de documentos e fatos já cristalizados em dois graus de jurisdição com o objetivo de alterar a orientação adotada pelo Tribunal a quo. Entretanto, tal providência é vedada em Recurso Especial ante o óbice previsto na Súmula 7/STJ. Logo, se a ofensa ao dispositivo legal invocado perpassa pela necessidade de fixar premissa diversa da que consta do decisum impugnado, inviável o apelo nobre.
+Por fim, a incidência da Súmula 7/STJ torna prejudicada a divergência jurisprudencial com amparo na alínea "c" do permissivo constitucional, porquanto não é possível encontrar similitude fática entre os arestos combatido e paradigmas, visto que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada demanda.
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Consubstanciado o previsto no Enunciado Administrativo 7/STJ, condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
