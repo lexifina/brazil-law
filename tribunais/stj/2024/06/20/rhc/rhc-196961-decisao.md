@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Afranio Goncalves Pereira, atacando-se o acórdão proferido pelo Tribunal de Justiça do Pará no HC n. 0800603-39.2024.8.14.0000 (fls. 192/200) - que manteve a prisão preventiva do recorrente (decretada, em 16/10/2023, pela prática, em tese, dos crimes de comércio ilegal de arma de fogo e associação criminosa) nos Autos n. 0806513-66.2023.8.14.0005 (fls. 40/59), da 1ª Vara Criminal da comarca de Altamira/PA.
+Aduz-se, em suma, ilegalidade manifesta consistente em deficiência de fundamentação concreta e contemporânea do decreto preventivo, e requer-se, então, o conhecimento e o provimento do recurso a fim de que o recorrente seja posto em liberdade.
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (fls. 238/247).
+É o relatório.
+A despeito da alegação recursal, não diviso o alegado constrangimento quanto à fundamentação do decreto prisional, pois a prisão cautelar demonstrou o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, ressaltando:
+a) a periculosidade do agente - A prisão preventiva, apesar de ser entendida como a última opção, é a medida adequada no presente caso, tendo em vista que há forte indício de que os requeridos estavam associados de maneira estável no comércio ilegal de munições, abalando a ordem pública e colocando em risco a paz social, de maneira reiterada. Assim, a medida cautelar extrema cumpre o papel de frear a atividade do grupo e salvaguardar a ordem pública (fl. 49 - grifo nosso );
+b) a necessidade de evitar a continuidade das atividades criminosas - AFRÂNIO GONÇALVES PEREIRA, WANDER ISRAEL BATISTA CARVALHO E WANDERSON ISRAEL BATISTA CARVALHO possuem antecedentes criminais a envolver crimes sobre arma de fogo (fl. 49 - grifo nosso).
+Nesse sentido, confira-se: a custódia cautelar está sobejamente fundada na garantia da ordem pública, considerando a gravidade das condutas. Da mesma forma, foi realizada a individualização da necessidade da constrição, visto que foi ressaltado que a prisão se faz necessária para evitar a continuidade das atividades criminosas desenvolvidas (AgRg no RHC n. 171.320/MT, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022 - grifo nosso).
+No tocante à contemporaneidade, O acórdão destaca a "complexidade das investigaç ões desenvolvidas pela autoridade policial, com a realização de diversas diligências para o des velar da associação criminosa"  .. , o que afasta a apontada ausência de contemporaneidade (AgRg no RHC n. 183.547/RS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 18/4/2024).
+Em razão disso, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. COMÉRCIO ILEGAL DE ARMA DE FOGO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. RECEIO DE PERIGO GERADO PELO ESTADO DE LIBERDADE À ORDEM PÚBLICA. FUNDAMENTAÇÃO. PE RICULOSIDADE DO AGENTE E FUNDADO RISCO DE REITERAÇÃO CRIMINOSA. FUN DAMENTOS IDÔNEOS. AUSÊNCIA DE CONTEMPORANEIDADE. INEXISTÊNCIA. PRISÃO MANTIDA.
+Recurso improvido.
