@@ -1,0 +1,9 @@
+DECISÃO
+MARCIA COSTA NOVAES alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0607.17.005208-0/001.
+Conquanto a defesa aponte ilegalidade no julgamento da apelação, não foi possível localizar - entre as mais de 1.900 páginas de documentos que instruem o writ - cópia do referido ato decisório, o que inviabiliza a análise da fundamentação ali exarada.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+Ademais, verifiquei, em consulta ao sistema informatizado desta Corte Superior, a posterior distribuição do AREsp n. 2.358.234/MG, que se volta contra a inadmissão de recurso especial interposto contra acórdão que julgou improcedente a Revisão Criminal n. 1.0000.22.219329-4/000, manejada em face da condenação sofrida na ação penal objeto deste habeas corpus, com a pretensão de "desconstituição da sentença em razão de suposta invasão de domicílio, uma vez que, quando da realização das diligências que culminaram na lavratura do Auto de Prisão em Flagrante, os policiais arrombaram a porta que dava acesso ao apartamento, sem qualquer autorização prévia". Vê-se, portanto, que houve nova análise da ilegalidade suscitada neste feito pelo Tribunal a quo.
+Assim, é prudente que a análise sobre a nulidade do feito seja realizada no julgamento do agravo em recurso especial já interposto pela defesa.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
