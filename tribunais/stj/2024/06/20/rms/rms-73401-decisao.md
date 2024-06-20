@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, recurso em mandado de segurança interposto por C R R D M e OUTRO, em que requerem a reforma do acórdão proferido pelo TJRJ, assim ementado (fls. 155-156):
+Direito Administrativo. Ato do Secretário de Estado da Casa Civil do Estado do Rio de Janeiro e do Presidente do Fundo Único de Previdência Social do Estado do Rio de Janeiro. Mandado de Segurança objetivando o restabelecimento das pensões especiais pagas aos impetrantes, com a Gratificação de Risco de Atividade Militar (GRAM), como se o instituidor da pensão vivo fosse.
+Gratificação de risco da atividade militar que foi instituída pela Lei Estadual nº 9.537/2021, que inseriu o artigo 19-a à Lei Estadual nº 279/1979. GRAM que possui caráter "pro labore faciendo", ou seja, se destina aos policiais e bombeiros militares que se encontram na ativa, que a recebem em virtude de colocarem em risco a sua própria vida em defesa e segurança da sociedade, portanto sem previsão de extensão aos inativos e pensionistas.
+Lei Estadual nº 279/1979, alterada em parte pela Lei Estadual nº 9.537/2021, que passou a prever em seu art. 10 que o militar do Estado, em efetivo serviço, faria jus à gratificação de risco da atividade militar.
+Impetrantes que, ademais, são pensionistas de militar falecido em 2015, conforme contracheques anexados nos autos, pelo que, se à época do falecimento do servidor não existia a GRAM, a qual foi instituída pela Lei Estadual nº 9.537/21, esta não pode integrar o cálculo do benefício previdenciário, visto que, consoante súmula nº 340 do STJ, "a lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado." Precedentes: 0097958-12.2022.8.19.0001 - APELAÇÃO Des(a). FRANCISCO DE ASSIS PESSANHA FILHO - Julgamento: 27/10/2022 - DÉCIMA QUARTA CÂMARA CÍVEL; 0046917-09.2022.8.19.0000 - AGRAVO DE INSTRUMENTO Des(a). FRANCISCO DE ASSIS PESSANHA FILHO - Julgamento: 08/09/2022 - DÉCIMA QUARTA CÂMARA CÍVEL; TJ-RJ - APL: 01441778320228190001 202200184128, Relator: Des(a). SANDRA SANTARÉM CARDINALI, Data de Julgamento: 07/12/2022, VIGÉSIMA SEXTA CÂMARA CÍVEL, Data de Publicação: 12/12/2022.
+Denegação da ordem.
+Buscam assegurar o recebimento da Gratificação de Risco de Atividade Militar (GRAM), ao fundamento de serem detentores de pensão especial, a qual garante o recebimento de proventos como se o instituidor fosse vivo.
+Destacam que a vantagem pretendida foi restabelecida na via administrativa, o que configura reconhecimento dos pedidos do mandamus.
+Foram apresentadas contrarrazões às fls. 267-301, nas quais o Estado do Rio de Janeiro e a Rioprevidência alegam a ausência de interesse de agir, ante a perda superveniente do objeto, pois o pagamento da GRAM foi reestabelecido pela Secretaria de Estado da Casa Civil.
+Parecer do Ministério Público Federal pela extinção do writ sem julgamento de mérito.
+É o relatório.
+Tendo em vista o informado por ambas as partes, o ato coator narrado na inicial não mais subsiste, pois foi substituído por novo ato administrativo de reestabelecimento do pagamento da referida gratificação aos recorrentes, assim julgo extinto o mandado de segurança, sem análise do mérito, porque prejudicado diante da perda de seu objeto, com fundamento no art. 932, III, do Código de Processo Civil e do art. 34, inciso XI do Regimento Interno deste e. Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+Oficiem-se.
+EMENTA
