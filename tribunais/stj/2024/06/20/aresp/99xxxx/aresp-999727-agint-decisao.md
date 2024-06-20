@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Fls. 1170/1297e - Trata-se de Agravo Interno (art. 1.021 do CPC/2015) interposto contra decisão monocrática mediante a qual não conheci do Agravo em Recurso Especial, porquanto não atacados especificamente os fundamentos da decisão agravada (fls. 1143/1147e).
+Feito breve relato, decido.
+Em juízo de retra tação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração.
+Verifico que a presente controvérsia envolve a discussão de tema afetado à Corte Especial sob o rito dos recursos especiais repetitivos - TEMA n. 1.039: "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação."
+A matéria foi delimitada em acórdão assim ementado:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. AÇÃO DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO. CONTRATO QUITADO.
+1. Delimitação da controvérsia: "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação."
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp n. 1.799.288/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 3/12/2019, DJe de 9/12/2019.)
+Nesse contexto, esta Corte adota a orientação segundo a qual se determina o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia, em observância ao princípio da economia processual e à própria finalidade da sistemática dos repetitivos, consoante o seguinte julgado:
+PROCESSUAL CIVIL. ATUALIZAÇÃO MONETÁRIA DAS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997. LEI 11.960/2009. MATÉRIA AFETADA À PRIMEIRA SEÇÃO DO STJ PELO RITO DO ARTIGO 543-C CPC. SOBRESTAMENTO. NECESSIDADE.
+1. Recurso especial que contém discussão a respeito da forma de atualização monetária das condenações impostas à Fazenda Pública, nos termos do artigo 1º-F da Lei 9.494/1997, com as alterações previstas na Lei 11.960/2009.
+2. Ocorre que a matéria foi afetada à Primeira Seção do STJ pelo rito do artigo 543-C do CPC/73 (REsp 1.495.144/RS, 1.495.146/MG e 1.492.221/PR, Rel. Ministro Mauro Campbell Marques, DJe 11/11/2014), bem assim é objeto do RE 870.947/SE, Rel. Ministro Luiz Fux, no qual foi reconhecida a existência de repercussão geral.
+3. Assim, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade da Lei 11.672/2008, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos modificativos.
+(EDcl nos EDcl no AREsp 575.964/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 24/06/2016).
+Na mesma linha, o Supremo Tribunal Federal, na vigência do Código de Processo Civil de 1973, ao apreciar a Questão de Ordem no RE 540.410/RS, Rel. Ministro Cezar Peluso, concluiu pela possibilidade de devolução aos órgãos julgadores de origem, para os fins previstos no art. 543-B, dos recursos extraordinários e agravos cujo tema apresente repercussão geral reconhecida pelo Plenário daquela Corte, ainda que interpostos contra acórdãos publicados em momento anterior à regulamentação do instituto, que se deu em 03.05.2007, como espelha o precedente a seguir:
+RECURSO. Extraordinário. Previdência social. Benefício previdenciário de prestação continuada. Art. 203, V, da CF/88. Repercussão Geral do tema. Reconhecimento pelo Plenário. Recurso interposto contra acórdão publicado antes de 03.05.2007. Irrelevância. Devolução dos autos ao Tribunal de origem. Aplicação do art. 543-B do CPC. Precedente (AI nº 715.423-RS-QO, Rel. Min. ELLEN GRACIE). Aplica-se o disposto no art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+(RE 540.410 QO, Relator(a): Min. CEZAR PELUSO, Tribunal Pleno, julgado em 20/08/2008, DJe-197 DIVULG 16-10-2008 PUBLIC 17-10-2008 EMENT VOL-02337-06 PP-01140 RTJ VOL-00207-02 PP-00832).
+Posto isso, nos termos do § 2º art. 1.021 do Código de Processo Civil de 2015, RECONSIDERO as decisões de fls. 1143/1147e e 1167/1171e , restando, por conseguinte, PREJUDICADO o agravo interno de fls. 1170/1297e, e, com fundamento no art. 1.037, II, do Código de Processo Civil de 2015, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo.
+Publique-se e intimem-se.
+EMENTA
