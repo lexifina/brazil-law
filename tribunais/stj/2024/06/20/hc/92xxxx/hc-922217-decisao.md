@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de VINICIUS DOS SANTOS MENDES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais pagamento de 680 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Nesta Corte, a defesa alega a insuficiência do conjunto probatório para condenação.
+Afirma que a confissão informal do réu dada em "estresse policial" não é válida.
+Acresce que, sendo parcial o testemunho policial, utilizado para confirmar a certeza da autoria delitiva, é nula a condenação.
+Requer a absolvição do réu e, alternativamente, o reconhecimento do tráfico privilegiado e o abrandamento do regime prisional.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Quanto à pretensão de absolvição por insuficiência de prova, não assiste razão à defesa.
+Verifica-se que há testemunhos seguros, somado ao conjunto probatório trazido como fundamento no acórdão recorrido (auto de prisão em flagrante; autos de apreensão e vídeos), que comprovam a guarda pelo paciente, para fins de tráfico, de 160 porções de maconha.
+Confiram-se o seguinte trecho do acórdão impugnado:
+Quando chegaram, avistaram o réu, que tinha essas características e teve atitude suspeita, pois, assim que notou a chegada dos agentes, demonstrou nervosismo e tentou correr pela viela.
+Entretanto, ele foi abordado e confessou o tráfico, inclusive indicando o local exato (entre o poste e a caixa de luz) onde escondia as drogas. Lá, de fato, apreenderam uma sacola contendo 160 porções de maconha (fls. 5 e 6), de modo que somente por esses elementos já se tinha razoável certeza a propósito da procedência da demanda.
+Em juízo, agora sob as garantias do contraditório, o acusado voltou a negar o tráfico dizendo que foi injustamente detido em razão de seus antecedentes criminais (áudio digital do SAJ), mas a prova oral tornou definitiva sua responsabilidade.
+É que os policiais ouvidos em juízo, em depoimentos seguros e coerentes, reafirmaram a realidade da apreensão do entorpecente que o acusado guardava, esclarecendo que a diligência se deu em razão de denúncia que apontava o tráfico praticado por um sujeito chamado Vinicius, conhecido como "Vavá".
+A informação descrevia também suas características e com isso o abordaram quando ele tentava fugir, mas acabou confessando o tráfico e indicando o lugar onde guardava as drogas (áudio digital do SAJ).
+ ..
+No caso dos autos, nenhum elemento sugere que os policiais tivessem motivos para prejudicar o acusado, a quem sequer conheciam, de maneira que é impossível negar valor à única prova direta da autoria, até porque a abordagem foi integralmente filmada e veiculada no programa "Operação de Risco" do dia 2/5/2020, disponível no Youtube, conforme se verifica no link de fls. 217, e onde é possível constatar a total veracidade dos relatos dos agentes de segurança.
+Assim, ainda que as testemunhas arroladas pela Defesa - Henrique Nunes da Silva, Nycolas Guilherme de Oliveira e Luiz Felipe Carvalho dos Santos - tenham relatado que presenciaram a abordagem e não ouviram o réu indicando o lugar onde guardava as drogas aos policiais (áudio digital do SAJ), o que se vê, pelas filmagens da ação policial, é que o acusado estava sozinho no momento da abordagem e não havia pessoas próximas a ele a ponto de escutar o teor do que disse aos agentes.
+Aliás, como bem ressaltado na sentença, "no vídeo, o réu confessa informalmente a prática, narra todo seu histórico criminal e é claramente informado pelo policial o motivo de sua prisão, o qual não demonstra nenhuma indignação. As drogas foram encontradas na viela lado do salão de cabeleireiro, dentro de um cavelete de água, assim como narrado pelos policiais militares ouvidos", não havendo, portanto, como colocar em dúvida as palavras dos responsáveis pela prisão.
+Bem por isso, as circunstâncias que cercaram a prisão indicam com segurança que as substâncias apreendidas eram mesmo destinadas à entrega para consumo de terceiras pessoas, de modo que a condenação era mesmo a única solução para o caso em questão.
+Como se observa, os depoimentos dos policias coincidem com todo o contexto fático da prisão em flagrante, inclusive filmado em vídeo.
+Desse modo, apoiada a condenação pelo delito de tráfico de entorpecentes em prova suficiente, o acolhimento do pedido de absolvição demanda o exame aprofundado dos fatos, o que é inviável em habeas corpus (HC 392.153/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 1º/6/2017, DJe 7/6/2017; HC 377414/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 2/2/2017).
+Anote-se que o Superior Tribunal de Justiça já se manifestou que, "para a ocorrência do elemento subjetivo do tipo descrito no art. 33, caput, da Lei n. 11.343/2006, é suficiente a existência do dolo, assim compreendido como a vontade consciente de realizar o ilícito penal, o qual apresenta 18 (dezoito) condutas que podem ser praticadas, isoladas ou conjuntamente" (REsp 1.361.484/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/6/2014, DJe 13/6/2014).
+Pontua-se, ademais, que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DEPOIMENTO DE AGENTE POLICIAL COLHIDO NA FASE JUDICIAL. CONSONÂNCIA COM AS DEMAIS PROVAS. VALIDADE. RECURSO NÃO PROVIDO.
+1. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do ora agravante pelo crime de associação para o tráfico, de modo que, para se concluir pela insuficiência de provas para a condenação, seria necessário o revolvimento do suporte fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor do Enunciado Sumular n. 7 do Superior Tribunal de Justiça.
+2. São válidas como elemento probatório, desde que em consonância com as demais provas dos autos, as declarações dos agentes policiais ou de qualquer outra testemunha. Precedentes.
+3. Agravo regimental não provido."
+(AgRg no AREsp 875.769/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/3/2017, DJe 14/3/2017);
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO INTERESTADUAL DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE INIDONEIDADE DAS PROVAS QUE ENSEJARAM A CONDENAÇÃO. TESTEMUNHAS POLICIAIS CORROBORADAS POR OUTROS ELEMENTOS DE PROVA. AUSÊNCIA DE ILEGALIDADE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/06. INCOMPATIBILIDADE. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. DIREITO DE RECORRER EM LIBERDADE. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Não obstante as provas testemunhais advirem de agentes de polícia, a palavra dos investigadores não pode ser afastada de plano por sua simples condição, caso não demonstrados indícios mínimos de interesse em prejudicar o acusado, mormente em hipótese como a dos autos, em que os depoimentos foram corroborados pelo conteúdo das interceptações telefônicas, pela apreensão dos entorpecentes - 175g de maconha e aproximadamente 100g de cocaína -, bem como pelas versões consideradas pelo acórdão como inverossímeis e permeadas por várias contradições e incoerências apresentadas pelo paciente e demais corréus.
+3. É assente nesta Corte o entendimento no sentido de que o depoimento dos policiais prestado em juízo constitui meio de prova idôneo a resultar na condenação do paciente, notadamente quando ausente qualquer dúvida sobre a imparcialidade das testemunhas, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, fato que não ocorreu no presente caso (HC 165.561/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 15/02/2016). Súmula nº 568/STJ.
+ ..
+8. Habeas corpus não conhecido."
+(HC 393.516/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/6/2017, DJe 30/6/2017).
+Por fim, conforme posto no acórdão impugnado, a reincidência do acusado e os maus antecedentes, autorizam o regime mais grave, nos termos do art. 33, §§ 2º e 3º, do Código Penal, bem como impedem o reconhecimento do tráfico privilegiado, consoante requisitos do art. 42, § 3º, da Lei n. 11.343/2006.
+A propósito:
+" ..  5. Mantida a sanção corporal em patamar superior a 4 anos e verificada a reincidência do paciente, o regime inicial fechado é o cabível para o cumprimento da pena reclusiva, nos exatos termos dos arts. 33, § 2º, "a", do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a atenuante de confissão espontânea, resultando a sanção final do paciente em 5 anos e 6 meses de reclusão, em regime fechado, mais pagamento de 550 dias-multa."
+(HC 526.484/SP, de minha relatoria, QUINTA TURMA, julgado em 01/10/2019, DJe 07/10/2019)
+" ..  4. Diante da reincidência da Paciente, estabelecida a reprimenda final em 7 (sete) anos, 11 (onze) meses e 8 (oito) dias de reclusão, inexiste ilegalidade na fixação do regime inicial fechado, conforme jurisprudência desta Corte, sendo inviável também a substituição da pena privativa de liberdade por restritivas de direitos, por ausência de requisito objetivo.
+5. Agravo regimental desprovido."
+(AgRg no HC 495.325/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/08/2019, DJe 02/09/2019)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
