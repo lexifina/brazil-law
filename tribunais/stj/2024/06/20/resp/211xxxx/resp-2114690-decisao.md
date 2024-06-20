@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  BANCO SANTANDER (BRASIL) S.A.  co m  fundamento  no  art.  105,  III,  alínea  "a" ,  da  Constituição  Federal,  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  do Rio de Janeiro  assim  ementado:
+"APELAÇÃO CÍVEL. PEDIDO DE HOMOLOGAÇÃO DE ACORDO EXTRAJUDICIAL. CONTRATOS BANCÁRIOS. AUSÊNCIA DE CITAÇÃO. PARTE RÉ QUE NÃO POSSUI ADVOGADO CONSTITUÍDO. NÃO CABIMENTO. PRECEDENTES DO STJ E DESTE TRIBUNAL. SENTENÇA DE EXTINÇÃO, NOS TERMOS DO ART. 485, VI, DO CPC, QUE DEVE SER MANTIDA.
+1. A matéria devolvida ao Tribunal para conhecimento repousa em verificar o acerto da sentença que julgou extinto o processo, sem resolução do mérito, com fundamento no artigo 485, inciso VI, do CPC, eis que incabível a homologação do pacto firmado em razão da parte ré não se encontrar representada nos autos.
+2. De saída, cumpre salientar que, não obstante a lei civil não exigir a presença de um advogado para realização de um acordo, a lei processual estabelece que, em juízo, a parte deve ser representada por advogado legalmente habilitado.
+3. Nesse liame, apesar da validade da transação extrajudicial realizada entre as partes sem a presença dos respectivos procuradores, é imperativo a intervenção desses para que ocorra a homologação judicial, uma vez que a parte não possui capacidade postulatória para demandar em juízo, conforme dispõe o artigo 103 do Código de Processo Civil. "Art. 103. A parte será representada em juízo por advogado regularmente inscrito na Ordem dos Advogados do Brasil."
+4. Ausência de citação. Impossibilidade de aplicação da suspensão do processo, nos termos do artigo 313, II, do CPC. Precedentes deste Tribunal e do Egrégio STJ.
+RECURSO AO QUAL SE NEGA PROVIMENTO"  (e-STJ fl. 124).
+No  recurso  especial (e-STJ fls. 133-137),  a  recorrente  aponta violação do art. 840 do Código Civil, sustentando que
+"A celebração de acordo extrajudicial dispensa o acompanhamento da parte por patrono, desde que plenamente capaz, uma vez a subscrição da avença por advogado não constitui requisito de validade do acordo, conforme prescreve o art. 840 do Código Civil.
+Preenchidos os requisitos legais na avença, tais como: partes capazes, objeto lícito e forma prescrita ou não defesa em lei, nos termos do art. 104 do Código Civil, o acordo extrajudicial ora encartado se mostra apto à homologação judicial em seus exatos termos. Ainda, cumpre ressaltar que a minuta de acordo foi devidamente assinada pelas partes, bem como providenciado o reconhecimento de firma em cartório, com fins de certificação de sua legitimidade" (e-STJ fl. 136).
+Sem contrarrazões (e-STJ fl. 143).
+É  o  relatório.
+DECIDO.
+A  insurgência  merece  prosperar.
+No caso,  ao  julgar  o  recurso  de  apelação, o  Tribunal  de  Justiça  do  Estado  do Rio de Janeiro  manteve a sentença que excluiu a ação sem resolução do mérito, com base nos seguintes fundamentos:
+"(..)
+A matéria devolvida ao Tribunal para conhecimento repousa em verificar o acerto da sentença que julgou extinto o processo, sem resolução do mérito, com fundamento no artigo 485, inciso VI, do CPC, eis que incabível a homologação do pacto firmado em razão da parte ré não se encontrar representada nos autos.
+De saída, cumpre salientar que, não obstante a lei civil não exigir a presença de um advogado para realização de um acordo, a lei processual estabelece que, em juízo, a parte deve ser representada por advogado legalmente habilitado.
+Nesse liame, apesar da validade da transação extrajudicial realizada entre as partes sem a presença dos respectivos procuradores, é imperativo a intervenção desses para que ocorra a homologação judicial, uma vez que a parte não possui capacidade postulatória para demandar em juízo, nos termos do artigo 103 do Código de Processo Civil.
+(..)
+Ademais, sabe-se que a relação processual exige a presença do interesse de agir, que é composto pelo binômio necessidade-utilidade. Desse modo, a provocação da atividade jurisdicional deve ser provocada quando não for possível alcançar o direito aduzido sem a intervenção estatal, devendo eventual procedência do pedido resultar uma situação mais favorável do que aquela ostentada antes da propositura da demanda.
+No caso, diante da ausência de angularização necessária à formação do processo, não se aplica a suspensão deste, nos termos do artigo 313, II, do CPC. Na verdade, o acordo demonstra a falta de interesse processual do recorrente, eis que não subsiste qualquer utilidade e necessidade do provimento invocado na ação.
+Por derradeiro, vale lembrar que apesar do acordo extrajudicial não poder ser homologado judicialmente, possui força executiva própria para embasamento de futura ação em caso de descumprimento.
+Destarte, obrou com acerto o magistrado sentenciante ao extinguir o processo em razão da perda superveniente do interesse de agir" (e-STJ fls. 120 e 130/131 - grifou-se).
+O aresto combatido encontra-se em confronto com a jurisprudência do Superior Tribunal de Justiça, firmada no sentido de que após a apresentação do acordo celebrado entre as partes, cabe ao juiz tão somente examinar se todos os requisitos para a homologação estão atendidos, independentemente da representação legal do réu, e que quaisquer das partes pactuantes têm interesse de agir quanto à homologação judicial da avença.
+Confiram-se:
+"CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TRANSAÇÃO EXTRAJUDICIAL. AUSÊNCIA DE CITAÇÃO. HOMOLOGAÇÃO. POSSIBILIDADE. INTERESSE DE AGIR. PRESENÇA.
+1. Ação de execução de título extrajudicial ajuizada em 30/11/2021, da qual foi extraído o presente recurso especial interposto em 14/02/2023 e concluso ao gabinete em 19/04/2023.
+2. O propósito recursal consiste em definir se a transação extrajudicial celebrada entre as partes, após a distribuição do processo, mas antes da citação, pode ser homologada judicialmente, mesmo sem a presença de advogado constituído pela parte ré ou executada.
+3. A autocomposição é gênero do qual, dentre outros, a transação é espécie. Além de encontrar previsão no CPC/2015, a transação também é regulamentada no CC/02, no Título V, que versa sobre os contratos. Ou seja, a transação é um negócio jurídico bilateral de direito material. A homologação judicial não é elemento constitutivo da transação, a qual cria direito material e gera efeitos independentemente de sentença.
+4. A transação pode ser celebrada na via judicial ou extrajudicial. Ainda que firmada extrajudicialmente, é possível a homologação judicial, com vistas à obtenção de um título executivo judicial e à formação de coisa julgada material (arts. 487, III, "b"; 515, III e 725, VIII, do CPC/2015). A ausência de advogado constituído nos autos pela parte ré ou executada não constitui óbice à homologação da transação pactuada entre as partes, desde que preenchidos os requisitos legais, porquanto a lei não exige capacidade postulatória. Esta apenas tem relevância para a condução do processo e não para a transação, que é negócio jurídico.
+5. A transação extrajudicial prévia à citação não caracteriza perda superveniente do interesse de agir a ensejar a extinção do processo sem resolução do mérito (art. 485, IV, do CPC/2015). Mesmo com a realização da transação, qualquer das partes que dela participaram tem interesse em postular, em juízo, a homologação do acordo. E, especificamente no âmbito da execução, se houver ajuste entre as partes, o juiz declarará suspensa a execução durante o prazo concedido pelo exequente para que o executado cumpra voluntariamente a obrigação e, findo o prazo sem cumprimento, o processo retomará o seu curso (art. 922 do CPC/2015).
+6. Na espécie, o juízo de primeiro grau extinguiu o processo com fundamento na perda superveniente do interesse processual, ressaltando não ser possível a homologação de acordo firmado antes da citação, já que os executados não foram representados por advogado. Todavia, apresentado o acordo, cabe ao juiz averiguar a presença dos requisitos necessários à sua homologação, mesmo que o executado não esteja representado por advogado.
+7. Recurso especial conhecido e provido"
+(REsp 2.062.295/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/8/2023, DJe de 14/8/2023 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HOMOLOGAÇÃO DE ACORDO. ASSISTÊNCIA POR ADVOGADO. DESNECESSIDADE. APLICAÇÃO DA SÚMULA 83/STJ.
+1. A jurisprudência desta Corte orienta, há muito, que "a transação pode ser celebrada sem a assistência de advogado" (REsp 222.936/SP, Relator Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, DJ 18.10.1999).
+2. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.730.181/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/6/2021, DJe de 17/6/2021)
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HOMOLAÇÃO. ACORDO EXTRAJUDICIAL. ANTES DA CITAÇÃO. PARTE NÃO REPRESENTADA POR ADVOGADO. INTERESSE DE AGIR. PRESENÇA.
+1. Recurso especial interposto em 22/01/2019 e concluso ao gabinete em: 27/02/2019.
+2. O propósito recursal consiste em determinar se a celebração de acordo extrajudicial entre a recorrente e os recorridos - respectivamente, exequente e executados -, após a distribuição do processo, mas antes da citação, constitui transação a ser homologada judicialmente, mesmo sem a presença de advogados constituídos pelos executados.
+3. Ausentes a omissão, a contradição e o erro material, não há ofensa ao art. 1.022 do CPC/2015.
+4. Configura-se perda superveniente de interesse processual quando não se tem mais necessidade de prosseguir com a ação para obter o resultado útil que pretendiam quando a propuseram, o que não se verifica na hipótese.
+5. Esta Corte Superior afirmou em julgamento recente da Terceira Turma que "a presença voluntária do réu ou do devedor só para firmar acordo, sem a presença de advogado constituído, difere do comparecimento para apresentação de defesa, hipótese que não supre a citação".
+6. Necessidade de Tribunal de origem verificar a presença dos requisitos para a homologação do acordo submetido pelas partes.
+7. Recurso conhecido e parcialmente provido"
+(REsp 1.798.423/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/9/2020, DJe de 28/9/2020)
+No caso concreto, é necessário que o juízo de Primeiro Grau verifique a presença dos requisitos para a homologação do acordo apresentado pelas partes, independentemente da falta de representação legal pelo réu, conforme a fundamentação mencionada acima.
+Ante  o  exposto,  dou  provimento ao recurso especial para determinar a remessa dos autos ao juízo de Primeiro Grau para que verifique se estão presentes na espécie os requisitos legais para a homologação do acordo firmado entre as partes.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, tendo em vista que uma nova sentença há de ser pro latada.
+Publique-se.
+Intimem-se.
+EMENTA
