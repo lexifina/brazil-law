@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO ASSISTENCIAL DOS SERVIDORES DO MINISTERIO DA FAZENDA, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇAO CIVEL - AÇAO DE COBRANÇA C1C REPARAÇAO DE DANO - SEGURO - FALHAS NA PRESTAÇAO DE SERVIÇO - RESPONSABILIDADE - DANO MORAL - FIXAÇAO - RAZOABILIDADE E PROPORCIONALIDADE
+Inexistem provas que atestem a hipotética transferência de direitos alegada no apelo e, ainda, não foi visualizado que a primeira e terceira rés teriam feito parte da relação de consumo, contribuindo para a ocorrência do dano. A atitude irregular deve ser imputada à segunda ré, sendo que ela deverá responder pelas consequências de seus atos. Dadas às particularidades do caso, evidenciado o dano moral, sendo que sua fixação é pautada nos princípios da proporcionalidade e da razoabilidade" (fl. 553 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 599 e-STJ).
+No recurso especial, a parte recorrente alega violação dos arts. 1.022, II, do Código de Processo Civil e 186 e 801, § 1º, do CC. Defende, em síntese, que não cometeu ilícito no caso dos autos.
+Com as contrarrazões (fls. 628/631 e-STJ).
+O recurso especial foi admitido na origem, subindo os autos a esta Corte.
+É o relatório.
+DECIDO.
+A insurgência merece prosperar.
+De fato, verifica-se que, não obstante a oposição de declaratórios, a Corte local permaneceu silente quanto
+"(..)
+Nos Embargos de Declaração a Fundação Assefaz requereu o prequestionamento dos dispositivos de Lei Federal que entende como violados no caso em apreço, ocasião em que, também, requereu fossem esclarecidos dois pontos, (I) A omissão quanto ao momento em que foi cedida a condição de subestipulante; e (II) A ausência de ato ilicíto por parte da Assefaz ante a ausência de conhecimento da invalidez do marido da Sra. Lila.
+Frisa-se que não há, data vênia, inovação recursal quanto ao primeiro ponto, haja vista que, conforme exposto nos embargos de declaração, a Fundação Assefaz desde a contestação trouxe documentos comprovando que havia cedido a condição de subestipulante em momento anterior ao evento morte, conforme se pode extrair dos documentos nº 06 e 07 anexos à contestação.
+Além disso, a Autora confessou na inicial que em setembro de 2008 a Fundação Assefaz enviou comunicado a sua residência informando a cessão da condição de subestipulante.
+Tendo em vista que existem provas cabais nos autos de que a Assefaz não figurava como subestipulante conforme documentos juntados em sede de contestação e de acordo com a confissão feita na inicial, se faz necessário o prequestionamento do que dispõe o §1º do art. 801 do Código Civil, haja vista que a 2 Requerida está sendo condenada ao pagamento de prêmio cujo fato gerador ocorreu em momento posterior a cessão da condição de subestipulante, o que viola o referido artigo de Lei Federal retro citado.
+No que diz respeito ao segundo ponto, o Acordão Embargado deu parcial provimento a Apelação interposta pela Autora para condenar a Fundação Assefaz ao pagamento de indenização por danos morais no importe de R$ 10.000,00 (dez mil reais).
+O entendimento constante do v. Acordão é que em que pese a invalidez suportada pelo marido da Autora em momento anterior ao óbito, que "a ASSEFAZ sequer mobilizou a seguradora para fins de recebimento da indenização, sob a outra modalidade (invalidez)" e que por esse motivo "cometeu ilícito à luz do art. 186, CC, respondendo pelos valores que o beneficiário deveria receber.", condenando a Assefaz, também, ao pagamento de danos morais no importe de R$l0.000,00 (dez mil reais).
+Excelências, data máxima vênia, houve a condenação de danos morais somente no acordão, motivo pelo qual a primeira oportunidade que a Assefaz teve para manifestação após a condenação dos danos morais foi na ocasião em que foram opostos os Embargos de Declaração. Dessa forma, não há o que se falar em inovação recural.
+O acordão consignou que o ato ilícito cometido pela Assefaz se deu em razão de ela não ter se movimentado e acionado a seguradora para que o pagamento do prêmio por invalidez fosse feito ao marido da Requerente. Contudo, conforme apontado nos Embagos de Declaração há omissão quanto ao momento em que a Assefaz tomou ciência da condição de invalidez do de cujus. Na inicial a Autora confessa que entrou em contato com as seguradoras somente após o evento morte.
+Tendo em vista a ausência de comunicação acerca da invalidez, confessa na inicial, não houve omissão por parte da Assefaz hábil a ser configurada como ato ilícito, haja vitsta que ela sequer tinha ciência da referida condição, muito menos que dê ensejo ao pagamento de indenização por danos monas.
+Em razão da ausência de provas que apontam pela ciência da condição de invalidez do de cujus e levando em consideração a confissão do momento de comunicação constante da inicial, não se pode cometer ato ilícito sem sequer ter conhecimento do fatos que deram ensejo ao ato, o que atraí a violação do que dispõe o artigo 186 do Código Civil" (fls. 588/590 e-STJ).
+O art. 1.022, parágrafo único, II, do CPC, remetendo-se ao art. 489, § 1º, IV, determina ser omissa a decisão que "(..) não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o Tribunal local enfrentado os mencionados fundamentos, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do CPC, a fim de anular o acórdão recorrido para suprir as omissões existentes.
+A propósito:
+"AGRAV O INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+(..)
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a legalidade da mudança da forma de contribuição para o novo modelo por faixa-etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC.
+5. Agravo interno não provido." (AgInt nos EDcl no AgInt no REsp 1.728.492/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/9/2019, DJe 13/9/2019).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO.
+NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 1.022 do CPC/2015, a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+3. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração. "(REsp 1.642.708/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 17/4/2017).
+Ante o exposto, conheço do recurso para dar-lhe provimento e determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria suscitada nos declaratórios de fls. 588/590 (e-STJ) como entender de direito, prejudicada a análise das demais questões.
+Publique-se.
+Intimem-se.
+EMENTA
