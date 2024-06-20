@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por CANTAO VIGILANCIA & SEGURANCA LTDA. - EM RECUPERAÇÃO JUDICIAL e CANTAO SERVIÇOS DE LIMPEZA E MANUTENÇÃO LTDA. - EM RECUPERAÇÃO JUDICIAL, no qual apontam como suscitados o JUÍZO DE DIREITO DA VARA DE PRECATÓRIAS CIVEÍS E CRIMINAIS, FALÊNCIAS E RECUPERAÇÕES DE PALMAS - TO e o JUÍZO DA 1ª VARA DO TRABALHO DE PALMAS - TO.
+As partes suscitantes defendem a existência de conflito de competência argumentando que (fls. 6-11):
+No caso, houve ciência inequívoca do Juízo da 1ª Vara do Trabalho de Palmas/TO quanto ao advento da Recuperação Judicial, conforme decisão proferida pelo MM Juízo Recuperacional, com força de ofício, devidamente careada aos autos da Ação Trabalhista de n.º 0000857-64.2023.5.10.0801(Doc. 3 - Deferimento RJ / Ofício), cujo determinação de suspensão da execução e consequente remessa dos valores bloqueados à conta judicial vinculada à Recuperação Judicial não foi acatada pelo MM Juízo Laboral (Doc. 4 - Decisão - Não Acolhimento), repercutindo, desta forma, no conflito entre os juízos em testilha.
+ ..
+Nesta altura dos autos, a Suscitante informou o MM Juízo Laboral acerca do ajuizamento do pedido de Recuperação Judicial, que restou devidamente processado e autuado sob nº 0006062-53.2024.8.27.2729, no qual foi proferido despacho em caráter cautelar, no dia 04/04/2024, para suspensão das execuções de créditos trabalhistas pelo prazo de 1 (um) mês, até que se convertesse o procedimento Cautelar no rito de Recuperacional definitivo.
+Alcançado o prazo obtido, a Suscitante noticiou ao MM Juízo Laboral conflitado acerca do deferimento de seu pedido de Recuperação Judicial, que dentre seus efeitos, reproduziu a seguinte determinação:
+ ..
+Logo após, foi proferida sentença, extinguindo a execução, nos termos do artigo 924, II, do CPC, mediante entendimento de que, em razão da garantia do juízo ter se dado em momento anterior ao pedido de Recuperação Judicial, tais verbas não mais estariam no patrimônio da Suscitante, procedendo, assim, a extinção do feito mediante satisfação da obrigação.
+ ..
+Assim sendo, não há maior interessada na questão do que a Recuperanda Suscitante, uma vez que as decisões conflitantes, têm como alvo bem essencial à atividade desenvolvida, qual seja, recurso financeiro bloqueado em sua conta bancária e integrante de seu capital de giro, penhora esta perpetrada no bojo da Reclamação Trabalhista que tramita no MM. Juízo do Segundo Suscitado.
+ ..
+Assim, com o deferimento da Recuperação Judicial pelo MM. Juiz da Vara de Precatórias Cíveis e Criminais, Falências e Recuperações Judiciais de Palmas/TO em maio do ano corrente, toda e qualquer satisfação de crédito sujeito aos efeitos da Recuperação Judicial deverá se dar por meio do Plano de Recuperação Judicial a ser dirimido no âmbito do Juízo Recuperacional, exercendo a vis attractiva consoante disposto no art. 6, incisos I, II e III, da Lei 11.101/2005.
+Por meio da decisão de fls. 29-32, deferi o pedido de liminar para suspender, até o julgamento definitivo do presente incidente, atos executórios contra os patrimônios das empresas suscitantes, bem como o levantamento dos valores penhorados, e designei o JUÍZO DE DIREITO DA VARA DE PRECATÓRIAS CIVEÍS E CRIMINAIS, FALÊNCIAS E RECUPERAÇÕES DE PALMAS - TO para decidir acerca das medidas urgentes.
+É, no essencial, o relatório.
+Inicialmente, dispenso o parecer ministerial, por se tratar de questão pacificada nesta Corte.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, tanto sob a égide do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO POSITIVO DE COMPETÊNCIA. FALÊNCIA. EXECUÇÃO TRABALHISTA. GOL LINHAS AEREAS. VARIG. COMPETÊNCIA DO JUÍZO FALIMENTAR. - PRECEDENTES DO STJ. SÚMULA 59/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo (AgInt no CC 173.626/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 28/09/2021, DJe 01/10/2021).
+3. Agravo interno não provido.
+(AgInt nos EDcl no CC n. 178.118/RJ, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe de 3/3/2022, grifei.)
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, em razão do recebimento da apelação com efeito suspensivo, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA.
+1. Nos termos da jurisprudência deste STJ, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo recuperacional para decidir sobre atos constritivos realizados contra a recuperanda.
+2. Ainda, de acordo com a tese definida no Tema Repetitivo n. 1.151/STJ, "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador".
+4. No caso, o Juízo da execução trabalhista determinou a intimação da recuperanda para o pagamento do débito, sob pena de penhora, violando, assim, a competência do Juízo da recuperação judicial.
+5. Por fim, não há se falar em incidência da Súmula n. 59/STJ, pois, tratando-se de matéria de competência absoluta, como, na espécie, "(..) no âmbito dos processos judiciais que tratam de falência e recuperação judicial, inexiste prazo estipulado em lei para a interposição de conflito de competência, o qual pode ser manejado a qualquer momento, nas hipóteses em que juízo incompetente passa a deliberar sobre o patrimônio da empresa falida/recuperanda" (AgInt nos EDcl no CC 165.415/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 27/11/2019, DJe de 2/12/2019.).
+Manutenção da decisão agravada.
+Agravo interno improvido.
+(AgInt no CC n. 192.559/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 15/8/2023, DJe de 18/8/2023, grifei.)
+Por fim, destaca-se que, "mesmo nas hipóteses em que a penhora de valores tenha sido efetivada antes do deferimento do pedido de recuperação judicial ou da decretação da quebra, tais constrições também se sujeitam à atratividade do juízo universal" (AgInt nos EDcl no CC n. 166.957/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 1º/6/2021, DJe de 4/6/2021).
+Na espécie, verifica-se que o JUÍZO DA 1ª VARA DO TRABALHO DE PALMAS - TO determinou a expedição do alvará em favor do reclamante (fls. 26 e 39), violando, assim, a competência do Juízo Recuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA VARA DE PRECATÓRIAS CIVEÍS E CRIMINAIS, FALÊNCIAS E RECUPERAÇÕES DE PALMAS - TO para quaisquer exames relativos a pagamento de débitos da suscitante e constrição dos seus patrimônios.
+Os valores eventualmente constritos pelo JUÍZO DA 1ª VARA DO TRABALHO DE PALMAS - TO deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
