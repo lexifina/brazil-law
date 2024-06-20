@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MARCOS FELIPE GOMES DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Depreende-se dos autos que o paciente foi sentenciado em 16/11/2022 como incurso nas sanções do delito tipificado no art. 121, §2º, inc. II, III e IV, 288, parágrafo único, 157§ 2o, II, todos do CPB e CPB, à pena de 27 anos e 08 meses de reclusão e 20 dias multa em regime inicialmente fechado. Narra a defesa que manejou o recurso de apelação em 17/01/2023.
+No presente writ, aduz a defesa que o o paciente estaria sofrendo constrangimento ilegal diante do excesso de prazo para o julgamento do recurso de apelação.
+Alega que:
+"em 23/05/2023, consta nos autos que o apelo criminal do réu foi supostamente remetido ao segundo grau para apreciação, todavia, o que não ocorreu, pois até o início de março de 2024, deste ano,o recurso NÃO tinha sido SEQUER DISTRIBUÍDO" (fl. 6).
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de sustentação oral à fl. 13.
+A liminar foi indeferida às fls. 103-104.
+As informações foram prestadas às fls.109-112. O Ministério Público Federal, às fls.116-117, manifestou-se em parecer que restou assim ementado:
+"PENAL PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO, ROUBO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO CRIMINAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PELA DENEGAÇÃO DO WRIT E, DE OFÍCIO, RECOMENDAÇÃO DE CELERIDADE PARA O JULGAMENTO DO RECURSO DE APELAÇÃO CRIMINAL" - fl. 116
+É o relatório. DECIDO.
+Primeiramente, quanto ao pedido de sustentação oral, plenamente possível, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema.
+Nesse sentido:
+"A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019)" (AgRg no HC n. 796.496/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023)." (AgRg no HC n. 827.752/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Quanto à alegação de excesso de prazo no julgamento de recurso de apelação, extrai-se das informações colhidas do sitio do Tribunal de origem (www.tjpa.jus.br), processo nº 0004602-57.2020.8.14.0005, que o recurso de apelação foi recebida pelo Tribunal de origem em 17/04/2024 e já encaminhado para a Procuradoria de Justiça para manifestação. Atualmente encontra-se concluso para o relator, conforme informação do dia 06/06/2024. Ressalte-se que o paciente foi condenado como incurso nas sanções do delito tipificado no art. 121, §2º, inc. II, III e IV, 288, parágrafo único, 157§ 2o, II, todos do CPB e CPB, à pena de 27 anos e 08 meses de reclusão e 20 dias multa em regime inicialmente fechado.
+Os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo. É preciso registrar que a jurisprudência desta Corte de Justiça sufraga o entendimento de que o excesso de prazo para julgamento da apelação deve ser analisado com base na quantidade de pena aplicada no caso concreto.
+Nesse sentido:
+"A jurisprudência desta Corte Superior é firme em assinalar que as elevadas penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no julgamento da apelação" (AgRg no HC n. 800.181/MS, Quinta turma, relator Ministro Reybaldo Soares da Fonseca, DJe de 24/3/2023).
+"De acordo com consolidados precedentes desta Corte, eventual excesso de prazo no julgamento da apelação deve ser medido de acordo com a quantidade de pena imposta na sentença condenatória"(AgRg no HC n. 687.840/MS, sexta turma, relatora Ministra Laurita Vaz, DJe de 19/12/2022.)
+E os seguintes precedentes: (HC n. 448.058/SP, Sexta Turma , Rel. Min. Rogerio Schietti Cruz, DJe de 08/03/2019), (HC n. 465.753/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 08/03/2019), (AgRg no HC n. 561.374/SP, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 24/8/2020.)
+Portanto, não me afigura desproporcional o tempo para julgamento do recurso de apelação, não se vislumbrando, pois, qualquer ilegalidade flagrante no presente caso, apta a ensejar a concessão da ordem.
+Ante o exposto, denego a ordem. Expeça-se, contudo, recomendação ao tribunal de origem para que imprima maior celeridade possivel no julgamento do recurso de apelação.
+Publique-se. Intime-se.
+EMENTA
