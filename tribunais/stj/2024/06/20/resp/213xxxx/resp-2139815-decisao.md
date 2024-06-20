@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA LTDA., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Ceará assim ementado:
+"APELAÇÃO CÍVEL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PACIENTE DIAGNOSTICADO COM CINESIOLÓGICO FUNCIONAL CARACTERÍSTICO DE HEMIPLEGIA À DIREITA, COM IMPORTANTE ALTERAÇÃO POSTURAL E DE MOVIMENTO. NEGATIVA DE FORNECIMENTO DO TRATAMENTO PELO MÉTODO FISIOTERAPÊUTICO THERASUIT. ABUSIVIDADE DA CONDUTA DO PLANO DE SAÚDE. ROL DA AGÊNCIA NACIONAL DE SAÚDE MERAMENTE EXEMPLIFICATIVO. NÃO COMPROVAÇÃO DA EXISTÊNCIA DE PROFISSIONAIS HABILITADOS NA REDE CREDENCIADA DA RÉ PARA A EXECUÇÃO DO TRATAMENTO MÉDICO PRESCRITO. OBRIGAÇÃO DA OPERADORA DO PLANO DE SAÚDE EM CUSTEAR O TRATAMENTO. DANO MORAL CONFIGURADO. APELO CONHECIDO E IMPROVIDO" (e-STJ fl. 619).
+Nas razões do presente recurso, o recorrente sustenta, além de divergência jurisprudencial, a violação dos artigos 4º , III, Lei nº 9.961/2000, 54, § 4º do Código de Defesa do Consumidor, 10, caput, e § 4º, da Lei nº 9.656/1998, e 10, §§ 12 e 13 da Lei nº 14.454/2022.
+Aduz que o plano de saúde não tem obrigação de custear o procedimento Therasuit.
+Contrarrazões às e-STJ fls. 798/807.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+Tanto a Terceira quanto a Quarta Turma desta Corte Superior entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit, seja por serem consideradas experimentais, seja por demandarem órteses não ligadas a ato cirúrgico  (art.  10,  I e  VII,  da  Lei  nº  9.656/1998).
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE COBERTURA. TRATAMENTO PELO MÉTODO THERASUIT. PROCEDIMENTO NÃO LISTADO NO ROL DA ANS. TRATAMENTO EXPERIMENTAL, SEGUNDO PARECER DO CFM E NAT-JUS. IMPOSIÇÃO PELO JUDICIÁRIO INDEVIDA. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO IMPROVIDO.
+1. Com efeito, no que diz respeito a sessões pelo método TheraSuit, ambas Turmas de Direito Privado desta Corte Superior entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit, seja por serem consideradas experimentais, seja por demandarem órteses não ligadas a ato cirúrgico (art. 10, I e VII, da Lei nº 9.656/1998).
+1.1. Registre-se que a "Nota Técnica n. 9.666, elaborada pelo NAT-JUS NACIONAL, em 7/8/2020, disponível no banco de dados E-natjus do CNJ, contém conclusão desfavorável ao custeio das terapias de alto custo TheraSuit ou Pediasuit, pelos seguintes fundamentos: a) "foi verificada a escassez de estudos robustos acerca do tema, destacando uma revisão sistemática com metanálise que evidenciou que o referido efeito do protocolo com o Método Therasuit foi limitado e heterogêneo"; b) "o Conselho Federal de Medicina, em seu PARECER CFM Nº 14/2018, publicado em maio de 2018 concluiu que as terapias propostas (TheraSuit e PediaSuit) ainda carecem de evidência científica que lhes deem respaldo e devem ser entendidas apenas como intervenções experimentais. Com efeito, o art. 10º, incisos I, V, IX, da Lei n. 9.656/1998, expressamente exclui da relação contratual a cobertura de tratamento clínico ou cirúrgico experimental, fornecimento de medicamentos importados não nacionalizados e tratamentos não reconhecidos pelas autoridades competentes. No mesmo diapasão, propugna o Enunciado de Saúde Suplementar n. 26 das Jornadas de Direito da Saúde do CNJ ser lícita a exclusão de cobertura de produto, tecnologia e medicamento importado não nacionalizado, bem como tratamento clínico ou cirúrgico experimental" (AgInt no AREsp 1497534/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2020, DJe 23/10/2020)" (AgInt no AREsp 1627735/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 02/03/2021). Precedentes.
+2. Não há que se falar em incidência da Súmula 7/STJ, para modificar a conclusão delineada no aresto impugnado, em relação ao custeio do tratamento pleiteado, porquanto prescindível o reexame do conjunto de fatos e provas dos autos, sendo necessária tão somente a revaloração jurídica na hipótese.
+3. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+4. Agravo interno improvido"
+(AgInt no REsp n. 2.119.649/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE COBERTURA. TRATAMENTO MÉTÓDO PEDIASUIT. SÚMULA N. 83 DO STJ. INCIDÊNCIA. DECISÃO MANTIDA AGRAVO INTERNO DESPROVIDO.
+1. É lícita a negativa de cobertura de tratamento clínico experimental cuja eficácia ainda não foi reconhecida pelas autoridades competentes
+2. De acordo com a jurisprudência desta Corte, o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 2.341.968/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024.)
+Incidência, portanto, da Súmula nº 568/STJ.
+Ante o exposto, dou provimento ao recurso especial para afastar a obrigação de custeio da terapia pelo método Therasuit, que é classificada como método experimental, invertidos os ônus da sucumbência.
+Publique-se.
+Intimem-se.
+EMENTA
