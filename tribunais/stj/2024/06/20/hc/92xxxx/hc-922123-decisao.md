@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Lucas Silva Veronez e Jhonatan dos Santos Martins, em que se aponta como autoridade coatora o Tribunal de Justiça do Espírito Santo (Apelação n. 0000775-51.2022.8.08.0032).
+Consta dos autos que Lucas e Jhonatan foram condenados pela prática do delito de tipificado no art. 155, § 4º, IV, por três vezes, em continuidade delitiva, respectivamente, às penas de 3 anos, 4 meses e 9 dias de reclusão, e pagamento de 92 dias-multa; e de 3 anos e 6 meses de reclusão, e pagamento de 97 dias-multa. Para ambos foi fixado o regime aberto e substituídas as penas privativas de liberdade por duas penas restritivas de direito.
+Interposta apelação pela defesa, o Tribunal a quo negou-lhe provimento.
+Daí a presente impetração, na qual alega-se a desproporcionalidade nas penas aplicadas, vez que o aumento das penas-base se deu em patamar exagerado, bem acima do mínimo legal, quantum manifestamente desarrazoado (fl. 8).
+Reafirmando sua tese, argumenta-se que serve o presente remédio para que se reconheça a desproporcionalidade na dosimetria das penas ora aplicadas, e para que se respeite o disposto no art. 59 e 68 do Código Penal, deve haver redução das penas-base, a ser calculada com base no termo médio entre o mínimo e o máximo da pena cominada em abstrato ao crime, dividido pelo número de circunstâncias judiciais do art. 59 do CP (fl. 12).
+É o relatório.
+A respeito da alegada desproporcionalidade na fixação da pena-base, asseverou o acórdão ora impugnado (f. 20):
+Assim, devidamente fundamentada, a negativação dos vetores da culpabilidade e circunstâncias do crime, não prospera o pleito de aplicação de pena mínima, dado que, consoante entendimento jurisprudencial sedimentado nas Cortes Superiores, a aplicação da pena-base, no mínimo legal, só é possível, quando todas as circunstâncias judiciais são favoráveis ao réu.
+A respeito dos critérios de incremento, em consonância com a jurisprudência do c. STJ, a Magistrada, acertadamente, adotou a fração de 1/8 (um oitavo), a incidir sobre o intervalo entre as reprimendas mínima e máxima, que, no crime de furto qualificado, importa em aumento de 09 (nove) meses de reclusão, para cada circunstância judicial negativada, não havendo reparos, a serem realizados, nas penas aplicadas.
+Do exposto, verifica-se que não há constrangimento ilegal a ser sanado.
+Ora, considerando os limites mínimo e máximo previstos no preceito secundário do tipo do art. 155, § 4º, do Código Penal (mínimo de 2 e máximo de 8 anos), o aumento da pena-base de cada delito de furto qualificado em 1 ano e 6 meses, ante o reconhecimento de duas circunstâncias judiciais desfavoráveis, não se revela desproporcional ou excessivo.
+Com efeito, a jurisprudência desta Corte vem advertindo que o julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, pois isso está no âmbito da sua discricionariedade, embora, ao fazê-lo, deva fundamentar com elementos concretos da conduta do acusado, inexistindo direito subjetivo do réu à utilização das frações de 1/6 sobre a pena-base, 1/8 sobre o intervalo entre as penas mínima e máxima ou mesmo outro valor, porquanto o que se exige das instâncias ordinárias é a fundamentação concreta e adequada, além da proporcionalidade na exasperação da pena, o que foi observado no caso em tela.
+A propósito: AgRg no HC n. 707.862/AC, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 25/2/2022; AgRg no REsp n. 1.965.389/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/2/2022; AgRg no HC n. 699.488/SC, de minha relatoria, Sexta Turma, DJe 17/12/2021; e AgRg no AREsp n. 920.835/TO, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/5/2019.
+Inexiste, portanto, ilegalidade no procedimento dosimétrico.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTOS QUALIFICADOS. PENA-BASE. AUMENTO CALCULADO SOBRE O INTERVALO ENTRE AS PENAS MÍNIMA E MÁXIMA COMINADAS AO DELITO. PROPORCIONALIDADE. DISCRICIONARIEDADE VINCULADA A ELEMENTOS CONCRETOS. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
