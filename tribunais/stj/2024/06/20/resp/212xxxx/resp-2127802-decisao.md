@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  por BANCO SAFRA S.A.  fundamentado  no  artigo  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  contra  o  acórdão  do  Tribunal  de Justiça do Estado de Mato Grosso do Sul  assim  ementado:
+"APELAÇÃO CÍVEL CUMPRIMENTO DE SENTENÇA - MÉRITO - BUSCA E APREENSÃO - ART. 4º DO DECRETO-LEI N. 911/1969 - PRETENSÃO DE RECEBIMENTO POR PERDAS E DANOS - AUSÊNCIA DE PEDIDO E/OU DETERMINAÇÃO DE CONVERSÃO EM EXECUÇÃO - INEXISTÊNCIA DE EXEQUIBILIDADE DO TÍTULO EXECUTIVO - SENTENÇA MANTIDA RECURSO CONHECIDO E NÃO PROVIDO.
+Embora indiscutível a possibilidade de se converter a ação de busca e apreensão em execução, por expressa disposição do art. 4º do Decreto-Lei n. 911/1969, no caso dos autos, não há pedido nem determinação judicial nesse sentido, de modo que a extinção do presente cumprimento de sentença é medida que se impõe"  (e-STJ fl. 228).
+Em  suas  razões,  a  recorrente  aponta  violação  dos  arts.  499 e 816 do Código de Processo Civil,  sustentando que "ao vedar a busca pelas perdas e danos sofrida sob o fundamento de que não constou tal possibilidade na r. sentença, ou ainda, que não houve pedido anterior para que a própria Ação de Busca e Apreensão fosse convertida em Perdas e Danos, o v. acórdão destoa do que preconizam os referidos dispositivos" (e-STJ fls. 252/253).
+Sem  contrarrazões (e-STJ fl.269).
+É  o  relatório.
+DECIDO.
+A  irresignação  merece  prosperar.
+Ao solucionar a controvérsia, o Tribunal de origem entendeu que a conversão da ação em perdas e danos não era possível, porquanto ausente pedido expresso nesse sentido. A propósito, confiram-se os seguintes trechos do acórdão recorrido:
+"Compulsando minuciosamente os autos, verifica-se que se trata de cumprimento de sentença movido pelo banco ora apelante em face da ora apelada, visando ao recebimento do saldo devedor atualizado oriundo dos autos de ação de busca e apreensão.
+Ocorre que não há título executivo judicial em favor do banco apelante a embasar o cumprimento de sentença para recebimento de quantia certa, haja vista que a ação originária teve por finalidade a obtenção de liminar para busca e apreensão de veículo alienado fiduciariamente e, ao final, a consolidação da posse e propriedade do bem na mão do credor fiduciário (f. 45-48).
+Contudo, referida ação foi suspensa até o julgamento da Ação Revisional de Contrato n. 0118869-07.2003.8.12.0001, ajuizada pela ora apelada em face do banco recorrente e, após o julgamento, prosseguiu-se com o andamento da ação de busca e apreensão, culminando esta no julgamento procedente para consolidar o domínio e a pose do bem descrito na inicial em poder do credor fiduciário, nos termos da sentença transitada em julgada. Na oportunidade, foi determinado à depositária a entrega do bem ao autor em quarenta e oito horas, sob pena de prisão, bem como a expedição de ofício ao Detran, autorizando a transferência do veículo ao credor fiduciário ou a quem ele indicasse.
+(..)
+Embora seja notório que, se o bem alienado fiduciariamente não for encontrado ou não se achar na posse do devedor, faculta-se ao credor requerer, nos mesmos autos, a conversão do pedido de busca e apreensão em ação executiva, a teor do disposto no art. 4º do Decreto-Lei nº 911/69 (redação dada pela Lei n. 13.043 de 2014), ressalta-se que não houve qualquer pedido nesse sentido.
+Logo, conclui-se que inexiste título executivo judicial a embasar o presente cumprimento de sentença, que visa a receber da executada e, principalmente, em desfavor da depositária do bem, que sequer integrou o polo passivo da ação que deu origem a este feito, eventual saldo credor em seu favor, de modo que a extinção do presente feito é medida que se impõe, não comportando reforma a sentença recorrida" (e-STJ fls. 230/231 - grifou-se).
+Com  efeito,  "A jurisprudência desta Corte é firme no sentido de que é possível a conversão da obrigação de fazer em perdas e danos, independentemente de pedido explícito e mesmo em fase de cumprimento de sentença, se verificada a impossibilidade de cumprimento da obrigação específica" (REsp 1.760.195/DF, relator Ministro Paulo de Tarso Sanseverino, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/11/2018, DJe de 10/12/2018).
+No  mesmo  sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC) conhecido em juízo de retratação.
+2. "A jurisprudência desta Corte é firme no sentido de que é possível a conversão da obrigação de fazer em perdas e danos, independentemente de pedido explícito e mesmo em fase de cumprimento de sentença, se verificada a impossibilidade de cumprimento da obrigação específica." (REsp 1760195/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/11/2018, DJe 10/12/2018).
+Incidência da Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão de fls. 114-115, e-STJ. Agravo conhecido para de plano negar provimento ao recurso especial"
+(AgInt no AREsp 2.455.221/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONVERSÃO DE OBRIGAÇÃO DE FAZER EM PERDAS E DANOS. MULTA DÁRIA. SÚMULA N. 83 DO STJ. INCIDÊNCIA. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Definida a obrigação pela prestação de tutela específica - seja ela obrigação de fazer, não fazer ou dar coisa certa -, é plenamente cabível, de forma automática, a conversão em perdas e danos, ainda que sem pedido explícito, quando impossível o seu cumprimento ou a obtenção de resultado prático equivalente (art. 461, § 1º, do CPC). Incidência da Súmula n. 83 do STJ.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Agravo interno desprovido"
+(AgInt no AREsp 2.081.278/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/6/2023, DJe de 3/7/2023 - grifou-se)
+"RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO CONDENATÓRIA. PEDIDO PARA CONVERSÃO DE OBRIGAÇÃO DE FAZER EM INDENIZAÇÃO POR PERDAS E DANOS. INOVAÇÃO RECURSAL. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PREQUESTIONAMENTO. AUSÊNCIA.
+(..)
+5. "Definida a obrigação pela prestação de tutela específica - seja ela obrigação de fazer, não fazer ou dar coisa certa -, é plenamente cabível, de forma automática, a conversão em perdas e danos, ainda que sem pedido explícito, quando impossível o seu cumprimento ou a obtenção de resultado prático equivalente (art. 461, § 1º, do CPC)" (AgRg no REsp 1293365/RJ, TERCEIRA TURMA, julgado em 06/10/2015, DJe 13/10/2015).
+6. Diante da impossibilidade de cumprimento da obrigação de dar, fazer ou não fazer e sendo consolidado o entendimento do STJ quanto à possibilidade de sua conversão em perdas e danos a qualquer momento do processo, inclusive em sede de cumprimento de sentença, independentemente até mesmo de requerimento, tem-se que tal pedido feito em sede de apelação não está adstrito aos parâmetros impostos pelo efeito devolutivo em sua dimensão horizontal, razão pela qual não configura inovação recursal, podendo ser conhecido.
+7. Recurso especial conhecido em parte e, nessa extensão, provido"
+(REsp 1.993.029/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/6/2022, DJe de 23/6/2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO. RECONSIDERAÇÃO. AÇÃO REDIBITÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE VEÍCULO ZERO QUILÔMETRO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ARGUIÇÃO GENÉRICA. SÚMULA 284/STF. OBRIGAÇÃO DE FAZER CONVERTIDA EM PERDAS E DANOS. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. A iterativa jurisprudência desta Corte firmou-se no sentido de que nos termos do art. 499 do CPC/2015 é possível ao magistrado converter a obrigação de fazer em perdas em danos, independentemente de pedido do titular do direito subjetivo, não havendo falar em julgamento extra petita.
+(..)
+5. Agravo interno provido para conhecer do agravo para negar provimento ao recurso especial"
+(AgInt no AREsp 1.322.139/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022 - grifou-se)
+An te  o  exposto,  dou  provimento  ao  recurso  especial  para determinar o retorno dos autos ao juízo de Primei ra Instância para que promova o regular processamento da execução nos termos da fundamentação acima.
+Publique-se.
+Int imem-se.
+EMENTA
