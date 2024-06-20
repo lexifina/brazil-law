@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por GLEDER CAVENAGHI contra acórdão prolatado pelo Tribunal de Justiça do Estado de Sã o Paulo, no julgamento de Agravo de Instrumento, assim ementado (fl. 218e):
+AGRAVO DE INSTRUMENTO. Recurso interposto contra sentença. Erro grosseiro. Inviabilidade de conhecimento do recurso. Recurso não conhecido.
+Opostos Embargos de Declaração, foram rejeitados (fls. 236/238e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 1.015, parágrafo único, do Código de Processo Civil de 2015, alegando-se, em síntese, que a decisão agravada "resolveu a fase de liquidação de sentença e, por não extinguir a execução, tem natureza interlocutória" (fl. 255e).
+Com contrarrazões (fls. 275/281e), o recurso foi inadmitido (fls. 282/284e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 394e).
+O Ministério Público Federal, no parecer de fls. 388/392e, opina pelo provimento do Recurso Especial.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+O tribunal de origem decidiu a questão sob o fundamento segundo o qual a interposição de agravo de instrumento contra decisão que encerrou a fase de liquidação de sentença qualifica-se como erro grosseiro, em razão da natureza terminativa do ato impugnado, conforme se verifica do seguinte excerto do acórdão recorrido (fl. 219/220e):
+II- O recurso não comporta conhecimento, pois cabível na espécie a apelação.
+O presente recurso foi interposto contra sentença (decisão de natureza terminativa) que julgou procedente o incidente de liquidação pelo procedimento comum e declarou líquida a condenação no valor de R$ 27.185,73.
+Tendo aquela decisão posto fim ao incidente de liquidação, após regular instrução probatória e contraditório das partes, caberia contra ela o recurso de apelação, e não o agravo de instrumento.
+Nesse sentido:
+(..)
+Assim, inviável o conhecimento do recurso, por configurar erro grosseiro.
+Ao prolatar o acórdão mediante o qual os embargos de declaração foram analisados, a Corte regional ratificou tal posicionamento (fls. 237/238e):
+II - A pretensão da embargant e não comporta acolhimento, posto que o Acórdão em referência não padece de nenhum dos vícios elencados no art. 1.022 do CPC.
+O V. Acórdão enfrentou a questão suscitada nos presentes embargos, a evidenciar o mero inconformismo com o resultado do julgamento.
+Ocorre que a r. decisão da qual se tirou o agravo de instrumento foi decisão claramente terminativa, pondo fim à fase de liquidação de sentença e expressamente extinguindo-a. Assim, havendo extinção da liquidação, pelo julgamento de procedência da mesma, o recurso cabível era a apelação, e não o agravo de instrumento.
+Decorre o erro grosseiro do fato de ter sido tirado agravo de instrumento de decisão terminativa que extinguiu o incidente liquidatório, julgando-o procedente. Não há dúvidas, neste caso, que o único recurso cabível é a apelação, e não o agravo de instrumento.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual a decisão que não acarreta a extinção da execução tem natureza jurídica de decisão interlocutória, sendo impugnável por meio do agravo de instrumento.
+Contudo, se o ato judicial extingue o próprio processo executivo, determinando inclusive o arquivamento dos autos, sua natureza não é de decisão interlocutória, mas de sentença, contra a qual é cabível a interposição do recurso de apelação, como o demonstram os julgados assim ementados:
+PROCESSO CIVIL. RECURSO ESPECIAL. PROVIMENTO JUDICIAL QUE, EM INCIDENTE DE LIQUIDAÇÃO DE SENTENÇA, EXTINGUE O PROCESSO. RECURSO CABÍVEL. RECURSO ESPECIAL IMPROVIDO.
+1. Ao dispor que "Da decisão de liquidação caberá agravo de instrumento", o art. 475-H do CPC está disciplinando o que comumente ocorre, ou seja, que a decisão se limite a resolver o incidente de liquidação, fixando o quantum debeatur a ser objeto da execução forçada subsequente. Todavia, se o ato judicial proferido no âmbito do incidente de liquidação extingue o próprio processo, determinando inclusive o arquivamento dos autos, sua natureza já não será de simples decisão interlocutória que "decide a liquidação", mas de verdadeira sentença (CPC, art. 162, § 1º), contra a qual o recurso cabível será o de apelação (CPC, art. 513).
+2. Recurso Especial improvido.
+(REsp n. 1.090.429/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 20/5/2010, DJe de 26/5/2010).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC/73. NÃO OCORRÊNCIA. EXECUÇÃO. BAIXA E ARQUIVAMENTO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. ERRO GROSSEIRO.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, segundo a qual o provimento que determina a baixa e arquivamento da execução, como a hipótese dos autos, tem natureza de sentença, pois põe termo ao processo e, portanto, deve ser atacada por apelação.
+3. Impossibilidade de aplicação do princípio da fungibilidade ao caso, já que, à vista da jurisprudência consolidada do Superior Tribunal de Justiça acerca da questão processual ora examinada, a interposição de agravo de instrumento implica erro grosseiro, porquanto não há dúvida objetiva acerca do recurso cabível à hipótese dos autos, qual seja, a apelação.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.572.856/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 5/6/2018, DJe de 11/6/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. PROVIMENTO JUDICIAL QUE, EM LIQUIDAÇÃO DE SENTENÇA, EXTINGUE O PROCESSO. RECURSO CABÍVEL. APELAÇÃO.
+1. Consoante orientação deste Superior Tribunal de Justiça, "ao dispor que "Da decisão de liquidação caberá agravo de instrumento", o art. 475-H do CPC está disciplinando o que comumente ocorre, ou seja, que a decisão se limite a resolver o incidente de liquidação, fixando o quantum debeatur a ser objeto da execução forçada subsequente. Todavia, se o ato judicial proferido no âmbito do incidente de liquidação extingue o próprio processo, determinando inclusive o arquivamento dos autos, sua natureza já não será de simples decisão interlocutória que "decide a liquidação", mas de verdadeira sentença (CPC, art. 162, § 1º), contra a qual o recurso cabível será o de apelação (CPC, art. 513)" (REsp 1090429/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 20/05/2010, DJe 26/05/2010)
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.054.164/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/8/2017, DJe de 21/8/2017.)
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para reconhecer o cabimento do Agravo de Instrumento interposto e determino o retorno dos autos ao tribunal de origem , a fim de que prossiga no julgamento do feito.
+Publique-se e intimem-se.
+EMENTA
