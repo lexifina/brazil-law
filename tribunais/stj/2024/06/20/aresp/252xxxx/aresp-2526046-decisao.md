@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, proposto contra o acórdão proferido na Apelação Cível n. 5000657-87.2021.4.04.7139/RS, assim ementado (fl. 484):
+PREVIDENCIÁRIO. PENSÃO POR MORTE DE GENITORA. CONCESSÃO. FILHO MAIOR INVÁLIDO. INVALIDEZ PRÉ-EXISTÊNCIA AO ÓBITO. DEPENDÊNCIA PRESUMIDA. TUTELA ESPECÍFICA.
+1. A jurisprudência do Superior Tribunal de Justiça, turmas 1 ª e 2ª, vem entendendo que a lei não exige a comprovação de dependência econômica para o deferimento da pensão por morte ao filho maior inválido. Ao contrário, reconhece a presunção de dependência nesses casos.
+2. É irrelevante que a invalidez seja posterior ao implemento dos 21anos de idade, conquanto seja anterior ao óbito do instituidor do benefício.
+3. O fato de receber aposentadoria por invalidez não infirma, por si só, a dependência econômica presumida ao beneficiário, portando não exclui o direito à pensão. É possível a percepção simultânea de pensão por morte e aposentadoria por invalidez.
+4. Comprovada a incapacidade/deficiência a dependência é presumida e inconteste a qualidade de segurada, merece reforma a sentença de improcedência da ação para condenar o INSS a conceder o benefício de pensão por morte de genitora a contar da data do óbito.
+5. Determina-se o cumprimento imediato do acórdão naquilo que se refere à obrigação de implementar o benefício em favor da parte autora, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 497 do CPC/15, sem a necessidade de um processo executivo autônomo (sine intervallo).
+Irresignado, o ora agravante opôs embargos de declaração, que foram parcialmente acolhidos, apenas para fins de prequestionamento (fls. 572-577). Na sequência, interpôs recurso especial, não admitido por aquele Tribunal (fls. 622-630).
+Neste agravo, sustenta, em síntese, violação dos arts. 16, inciso I e § 4º, 74 e 77, § 2º, inciso II, da Lei n. 8.231/1991, além de ofensa ao art. 1.022, inciso II, do CPC/2015, dada a alegada omissão quanto à tese "acerca da impossibilidade de concessão de pensão por morte a filho maior inválido que possui renda própria decorrente da concessão de benefício previdenciário anterior, em razão da demonstração de ausência de dependência econômica" (fl. 644). Assevera não incidir ao caso o óbice da Súmula n. 7/STJ.
+Requer (fl. 648):
+a) seja determinada a conversão deste agravo em recurso especial, uma vez que contém os elementos necessários para o julgamento do mérito, com base no CPC art.1.042; e provido o recurso especial, ou, alternativamente,
+b) seja reformado o despacho do juízo a quo, de modo que reste admitido o recurso excepcional interposto.
+O Ministério Público Federal, às fls. 678-684, opina pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+Decido.
+De início, nos termos do Enunciado Administrativo n. 3/STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código".
+Com efeito, extrai-se dos autos que a questão ora controvertida diz respeito à possibilidade, ou não, de concessão de pensão por morte a filho maior inválido, que possui rendimentos próprios, à luz das disposições da Lei n. 8.231/1991.
+No ponto, o Tribunal de origem assim fundamentou o voto-condutor do acórdão recorrido (fls. 487- 494; grifos no original):
+Da pensão por morte de genitora na condição de filho maior inválido
+Controverte-se nos autos acerca do direito da parte autora à percepção de pensão por morte, em razão do óbito de genitora na condição de filho maior inválido.
+Como é sabido, a pensão por morte independe de carência e rege-se pela legislação vigente quando da sua causa legal. No caso, tendo o óbito ocorrido em 05/01/2012 (ev. 1 - certobt12), são aplicáveis as disposições da Lei 8.213/91, com a redação dada pela Lei 9.528/97  ..
+De tais dispositivos, extrai-se que dois são os requisitos para a concessão do benefício pleiteado, quais sejam: a qualidade de segurado do instituidor da pensão e a dependência dos beneficiários.
+DO CASO CONCRETO
+Trata-se de pedido de pensão por morte de genitora na condição de filho inválido.
+Conforme já reconhecido na esfera administrativa e judicial, resta comprovado o óbito e a qualidade de segurado da falecida Maria Mengue Pereira, sendo estes incontroversos, preenchendo assim o primeiro e o segundo requisito legal necessário ao deferimento do benefício em voga.
+A questão cinge-se a qualidade de dependente do filho maior inválido.
+Importante, inicialmente, tecer alguns esclarecimentos a respeito da matéria em discussão.
+A Lei nº 13.146/2015, ao modificar o art. 16, inciso I da LBPS, ampliou o rol dos dependentes, incluindo o filho "inválido ou que tenha deficiência intelectual ou mental ou deficiência grave". Tal dispositivo, portanto, passou a deixar claro que, conquanto capaz de exercer atividade laborativa, o deficiente continua presumidamente dependente para fins previdenciários.
+Assim é o entendimento que vem sendo adotado pelas 1ª e da 2ª Turmas do Superior Tribunal de Justiça, conforme se vê dos recentes julgados  ..
+Frise-se, ainda, que é irrelevante que a invalidez seja posterior ao implemento dos 21 anos de idade, conquanto seja anterior ao óbito do instituidor do benefício.  ..
+Assim, considerando o acima exposto, em que presumida a dependência econômica do filho (a) maior inválido, não há que se perquirir acerca da comprovação da dependência.
+Anota-se, por oportuno, que a dependência econômica do filho maior inválido é presumida (art. 16, §4º, da LBPS), ainda que ele possua rendimentos próprios, como originados de aposentadoria por invalidez.
+ ..
+Do exame da prova documental acostada no presente feito, verifica-se que o recorrente é totalmente incapaz, inclusive já tendo sido nomeado curador, conforme se vê da decisão exarada nos autos nº 5007503-71.2021.8.21.0072, que tramita na Comarca de Torres/RS, conforme Termo de Curatela acostado nestes autos (evento 22 - termcompr2). Outrossim, o autor goza de aposentadoria por incapacidade permanente desde 01/06/2008, o que demonstra e comprova a a incapacidade anterior ao óbito da mãe.
+Portanto, comprovada a incapacidade/deficiência a dependência é presumida e inconteste a qualidade de segurada, merece reforma a sentença de improcedência da ação para condenar o INSS a conceder o benefício de PENSÃO POR MORTE DE GENITORA.
+Os embargos de declaração, opostos pela parte ora agravante, foram parcialmente acolhidos, apenas para efeito de prequestionamento, pois "a decisão  embargada  está devidamente fundamentada, com a apreciação dos pontos relevantes e controvertidos da demanda" (fl. 573).
+Como se vê, ao contrário do alegado, o Tribunal de origem enfrentou expressamente o tema referente à possibilidade de de concessão de pensão por morte ao filho maior inválido no julgamento da apelação (fls. 484-497).
+Portanto, inexiste omissão, razão pela qual não há falar em ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Ressalta-se, por certo, que o Tribunal de origem claramente concluiu ser possível a concessão de pensão por morte ao filho maior inválido, ainda que este possua rendimentos próprios, visto se tratar de hipótese de dependência legalmente presumida para fins previdenciários.
+Com efeito, " c onforme jurisprudência do STJ, a cumulação de pensão por morte com aposentadoria por invalidez é possível, pois possuem naturezas distintas, com fatos geradores diversos" (REsp n. 1.766.807/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/10/2018, DJe de 17/12/2018).
+Assim, como o acórdão recorrido está de acordo com o entendimento dominante desta Corte Superior, impõe-se sua manutenção, nos termos da Súmula n. 568 do STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ademais, rever a conclusão do acórdão proferido pelo Tribunal de origem, amparada no acervo documental colacionado aos autos, demandaria o revolvimento do material fático-probatório dos autos, providência vedada no âmbito do recurso especial, a teor da Súmula n. 7/STJ.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHO MAIOR DE 21 ANOS INVÁLIDO. CUMULAÇÃO COM APOSENTADORIA POR INVALIDEZ. ALEGAÇÃO DE DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO RELATIVA. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE. SÚMULA N. 7/STJ.
+1. A incapacidade superveniente à maioridade não impede a percepção da pensão por morte, desde que seja anterior ao óbito.
+2. O acórdão recorrido está de acordo com o entendimento desta Corte no sentido de que a percepção de aposentadoria por invalidez, por si só, não impede que se configure a dependência econômica, permitindo-se a demonstração desta pela parte, ainda que elidida a presunção relativa.
+3. Para alterar essa conclusão, afastando-se a dependência econômica, seria necessária a análise do contexto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.891.845/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo n. 7/STJ, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% (dez po r cento) sobre o valor já arbitrado, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. ALEGADA VIOLAÇÃO DO ART. 1.022, INCISO II, DO CPC/2015. NÃO OCORRÊNCIA. PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. CUMULAÇÃO COM APOSENTADORIA POR INVALIDEZ. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 568/STJ. DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO RELATIVA. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE NA VIA ESPECIAL. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
