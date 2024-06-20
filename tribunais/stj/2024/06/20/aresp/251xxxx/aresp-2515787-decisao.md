@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA ENERGÉTICA DE PERNAMBUCO (NEOENERGIA PERNAMBUCO), contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação n. 0004919-95.2015.8.17.1250.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+A Corte de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) ausência de prequestionamento quanto às teses acerca dos arts. 9º e 13 da Lei n. 8.987/1995 (óbices das Súmulas n. 282 e 356/STF); b) o caráter eminentemente constitucional da demanda; e c) a consonância da decisão com a jurisprudência do STJ e do STF, acarretando a aplicação do óbice dos enunciados n. 83 da Súmula do STJ e n. 280 da Súmula do STF. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente ao caráter eminentemente constitucional da fundamentação do acórdão recorrido.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Com efeito, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a rebater o argumento referente à natureza constitucional do art. 6º, § 1º, da LINDB, sem apresentar qualquer refutação acerca da incidência do óbice de admissibilidade quanto à fundamentação eminentemente constitucional do acórdão recorrido.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/15. ALEGAÇÃO GENÉRICA. APLICAÇÃO DA SÚMULA N. 284 DO STF. OFENSA À COISA JULGADA. INCIDÊNCIA DAS SUMULAS N. 211/STJ, 7/STJ E 284/STF. VIOLAÇÃO A PRINCÍPIO. IMPOSSIBILIDADE. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Em relação à alegada violação dos princípios da segurança jurídica, confiança e boa-fé, consigna-se que não é cabível a interposição de recurso especial por violação a princípios, pois não se enquadram no conceito de lei federal constante do art. 105, inciso III, da Constituição da República.
+ ..
+(AgInt no AREsp n. 2.354.445/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 16/4/2024, DJe de 24/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. JUROS. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284 DO STF. VIOLAÇÃO AOS PRINCÍPIOS DA DURAÇÃO RAZOÁVEL DO PROCESSO E DA LEGALIDADE. MATÉRIA DE ORDEM CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE CONTRATO. ÓBICE DA SÚMULA 7/STJ.
+ ..
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+ ..
+5. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+6. Agravo interno não provido. (AgInt no AREsp n. 1.890.971/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 480 ), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. COSIP. CONTRIBUINTES. CONSUMIDORES DE ENERGIA ELÉTRICA. TESE RECURSAL COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
