@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que deu provimento ao agravo em execução do Ministério Público Estadual para cassar a decisão de primeira instância, que havia concedido o indulto ao paciente (sem ementa).
+O paciente cumpre pena pela prática de diversos crimes de furto. Individualmente consideradas, tais condenações admitiriam o indulto natalino do Decreto nº 11.302/22, o que foi reconhecido pelo Magistrado de primeira instância (e-STJ fls. 22-24). Porém, posteriormente, o Tribunal de origem, considerando as penas somadas, entendeu que o paciente não tinha direito ao indulto.
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, uma vez que a concessão do indulto não deve levar em conta a somatória de todas as penas, mas sim devem ser individualmente consideradas.
+Ao final, requer a concessão da ordem para reestabelecer a decisão de primeira instância.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, vislumbro flagrante ilegalidade capaz de conceder a ordem de ofício.
+A controvérsia posta em julgamento é o aparente conflito existente entre o art. 5º do Decreto, que diz que "será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima não seja superior a cinco anos" e o art. 11, caput, que diz: "Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022". A aparente dúvida é se, nas situações em que o indivíduo tiver mais de uma condenação, o limite de 5 anos deve ser analisado por crime ou a partir da pena unificada.
+Esta col. Corte já se manifestou sobre a questão da seguinte forma:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO MINISTERIAL. INDULTO. DECRETO N. 11.302/2022. INTERPRETAÇÃO SISTÊMICA DO ART. 5º E DO ART. 11. INEXISTÊNCIA, NO DECRETO PR ESIDENCIAL, DE DEFINIÇÃO DE PATAMAR MÁXIMO DE PENA (SEJA EM ABSTRATO OU EM CONCRETO) RESULTANTE DA SOMA OU DA UNIFICAÇÃO DE PENAS, COMO REQUISITO A SER OBSERVADO NA CONCESSÃO DO INDULTO. AGRAVO DESPROVIDO.
+1. "Não há como se concluir que o limite máximo de pena em abstrato estipulado no caput do art. 5º do Decreto 11.302/2022 somente autoriza a concessão de indulto se o prazo de 5 (cinco) anos não for excedido após a soma ou unificação de penas prevista no caput do art. 11 do mesmo Decreto presidencial" (AgRg no HC n. 824.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023 ).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 851.752/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024 - grifos acrescidos).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. INCONSTITUCIONALIDADE DO ART. 5º. IMPROPRIEDADE DA VIA ELEITA. EXECUTADO QUE PREENCHE OS REQUISITOS PREVISTOS NO DECRETO. INEXISTÊNCIA DE DEFINIÇÃO DE PATAMAR MÁXIMO DE PENA (SEJA EM ABSTRATO OU EM CONCRETO) RESULTANTE DA SOMA OU DA UNIFICAÇÃO DE REPRIMENDAS.
+1. A alegação de inconstitucionalidade não é suscetível de análise na via do habeas corpus, que não pode ser utilizado como mecanismo de controle da validade das leis e dos atos normativos em geral.
+Ademais, o exame de constitucionalidade do teor do decreto já foi submetido à discussão no Supremo Tribunal Federal, em Ação Direta de Inconstitucionalidade, sem a determinação, por ora, de suspensão dos efeitos do dispositivo legal questionado.
+2. A compreensão desta Corte Superior é de não ser possível a utilização da soma das penas unificadas para fins de obstar a concessão do indulto, nos termos do art. 11 do Decreto Presidencial n. 11.302/2022, devendo, para os fins estipulados no art. 5º do referido ato normativo, ser consideradas individualmente as penas máximas em abstrato.
+3. Agravo regimental improvido.
+(AgRg no HC n. 840.517/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023 - grifos acrescidos).
+No caso, o Tribunal de origem cassou a decisão de primeira instância e negou o pedido de indulto ao paciente com a seguinte tese: "com base no que dispõe o decreto em alusão, para fins de concessão de indulto, na hipótese de concurso de crimes, as penas deverão ser consideradas separadamente e, por outro lado, quando se tratar de unificação, deve-se considerar o resultado da somatória das penas" (e-STJ fls. 49-51).
+Extrai-se do trecho que o Tribunal aplicou entendimento diverso do já pacificado por esta Corte e, portanto, inidôneo para negar o indulto ao paciente. A unificação das penas disposta no art. 11 do Decreto tem por fim tão somente a análise da quantidade de pena cumprida, mas não a verificação do máximo da pena disposto no art. 5º.
+Ante o exposto, não conheço do habeas corpus substitutivo, mas, na análise de ofício, concedo a ordem para reestabelecer a decisão do magistrado de primeira instância (e-STJ fls. 22-23).
+Comunique, com urgência, o teor dessa decisão ao Tribunal e ao Juízo de origem.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
