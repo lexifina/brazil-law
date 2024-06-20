@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Francisco Erandir de Aguiar Marques (ou Francisco Erandir Aguiar Marques), condenado pelo Juízo de Direito da Vara Única da comarca de Santana do Acaraú/CE à pena de 11 anos e 2 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 191 dias-multa, em razão da prática do delito previsto no art. 157, § 2º, II, e § 2º-B, na forma do art. 71, ambos do Código Penal, ocasião em que lhe fora negado o direito de recorrer em liberdade (Ação Penal n. 0200014-91.2022.8.06.0161 - fls. 442/454).
+O Tribunal de Justiça do Ceará, ora apontado como órgão coator, deu parcial provimento à apelação interposta pela defesa, subsumindo as condutas dos recorrentes ao disposto no art. 157, § 2º, inciso II, e § 2º-A, inciso I, c/c o art. 71, ambos do Código Penal, e redimensionando as penas impostas para  ..  7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão e 93 (noventa e três) dias-multa (fls. 638/639).
+Nesta Casa, a defesa alega que (fl. 7):
+A problemática é que pelo tempo de prisão já cumprido possivelmente o paciente apelante já possua o requisito objetivo para progressão da pena. Ocorre que a Vara de origem não expediu carta de guia provisória dos réus, de forma que impossibilita-se a computação da redução decorrente do provimento da apelação e possibilidade de pugnar qualquer pedido de progressão em favor do mesmo.
+A defesa, de modo diligente, no dia 07 de março, renunciou ao prazo recursal e pugnou alternativamente pela expedição da carta de guia pelo próprio Tribunal, até então não expedida, ou devolução dos autos à origem para a devida expedição.
+Certificou-se o trânsito em julgado em 22 de março de 2024, ao invés de ser promovida a devolução dos autos à origem, para que seja expedida as respectivas cartas de guia provisória, fez-se uma conclusão ao Relator sem necessidade, onde até o momento permanecem os autos conclusos e prejudicados o paciente.
+É preocupante a demora de dois anos e cinco meses de prisão, com já o trânsito em julgado e sequer expedição de carta de guia existe, o que impossibilita ao paciente os pedidos de remição por trabalho e estudo ou o próprio pedido de progressão de regime, de forma que o paciente está em prisão provisória indefinidamente, em nítido excesso de prazo, sem sequer previsão para julgamento.
+Frisa-se que a garantia constitucional de tramitação em prazo razoável dos feitos judiciais abrange também a fase recursal, não podendo no processo penal o paciente ser submetido ao constrangimento do cumprimento antecipado da sentença sem respeito ao duplo grau de jurisdição. No caso em análise o paciente permanece em prisão preventiva mantida na sentença, não havendo sequer previsão da expedição da carta de guia.
+Requer a concessão da ordem impetrada para, em caráter liminar, conceder a liberdade ao paciente, mediante alvará de soltura, colhendo-se em seguida as informações da autoridade coatora e oitiva da Subprocuradoria-Geral da República oficiante, com a definitiva concessão da ordem, confirmando ao final a liminar em cassar o decreto prisional, cumulando, se for o caso, com outras medidas cautelares (art. 319, do CPP), ou subsidiariamente a cominação para que o Tribunal de origem, alternativamente, expeça a carta de guia definitiva do paciente ou remeta os autos à Vara de origem para tal providência (fl. 9 - grifo nosso).
+Estes autos foram a mim distribuídos em razão de conexão com o HC n. 881.798/CE.
+Solicitadas informações ao Tribunal de origem antes da análise do pedido liminar (fl. 665), foram prestadas às fls. 673/681.
+É o relatório.
+O presente writ perdeu seu objeto.
+Com efeito, o Tribunal a quo informou que (fls. 678/679 - grifo nosso):
+ ..  a defesa dos apelantes peticionou aos autos às fls. 634/635, manifestando ciência do acórdão e renunciando ao prazo Recursal. Nesta oportunidade, pugnou pela imediata determinação da expedição da carta da guia e remessa à Vara com competência de execução penal do local de prisão dos réus.
+Esta relatoria, em análise ao que foi requerido, deferiu os pedidos e remeteu os autos ao setor competente para que providencie a expedição e remessa da Carta de Guia de Execução Provisória para que não reste prejuízo aos réus tudo consoante ao despacho de fls. 647.
+Ato seguinte, Ministério Público em fl. 649, manifestou ciência ao acórdão e renunciou ao prazo recursal.
+Certidão de trânsito em julgado de fl. 651, considerando que os apelantes, bem como o Ministério Público renunciaram ao prazo recursal, visto que contra o acórdão de fls. 593/632 nenhum recurso foi interposto no prazo legal.
+Empós, sobreveio informação à fl. 652 do Núcleo de Execução de Expedientes deste Tribunal acerca da não expedição da carta de guia provisória, haja vista que sobreveio trânsito em julgado da condenação, sendo competente a Secretaria Judiciária de primeiro grau para a expedição das guias de recolhimento definitivas.
+Dito isto, despacho por parte desta relatoria, determinou que se baixem os autos, a fim de que o juízo de origem providencie a expedição e remessa da Carta de Guia Definitiva a uma das varas de execução penal, conforme fl. 654.
+Desse modo, consideramos que a demanda encontra-se saneada  ..
+Dessa forma, verifico que foi atendido o pedido subsidiário da defesa, que era para que fosse determinado ao Tribunal de origem a expedição da guia definitiva do paciente ou a remessa dos autos à Vara de origem para tal providência (fl. 9 - grifo nosso).
+Por tal razão , julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. CONDENAÇÃO. TRÂNSITO EM JULGADO. EXPEDIÇÃO DE GUIA DEFINITIVA.
+Writ prejudicado.
