@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ivan Costa de Oliveira, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais nos autos da Apelação Criminal n. 1.0000.22.196323-4/001.
+Consta do processo que o paciente foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 18 anos, 2 meses e 22 dias de reclusão, em regime inicial fechado, e ao pagamento de 692 dias-multa, pela prática dos delitos previstos no art. 157, § 2º, II e V, e § 2º-A, I, por duas vezes, c/c o art. 61, I e II, j, todos do Código Penal (fls. 164/188).
+A defesa interpôs recurso de apelação, tendo o Tribunal de origem dado parcial provimento ao apelo para reduzir a sua reprimenda, pela prática do delito previsto no art. 157, § 2º, incs. II e V, e § 2º-A, inc. I, do Código Penal, por duas vezes, fixando-a no patamar de quinze (15) anos, dois (2) meses e sete (7) dias de reclusão, além do pagamento de quinhentos e setenta e seis (576) dias-multa, no valor unitário de um trinta avos (1/30) do salário mínimo vigente ao tempo do fato, nos termos da fundamentação exposta alhures (fl. 43).
+Neste writ, alega a defesa, em síntese, afronta ao disposto no art. 226 do Código de Processo Penal e a consequente fragilidade probatória para a condenação.
+Requer a concessão da ordem para que seja declarada a nulidade e, em consequência, seja absolvido o paciente (fls. 3/8).
+O pedido liminar foi indeferido (fls. 552/553).
+As informações foram prestadas às fls. 556/596.
+O Ministério Público Federal opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 600/605).
+É o relatório.
+O presente writ é substitutivo de recurso próprio, e é certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito.
+Não obstante, verifico que, no caso em tela, eventual concessão da ordem influenciará diretamente no status libertatis da paciente, de maneira que passo à análise do mérito.
+Conforme acima relatado, alega a defesa não haver provas suficientes para a condenação do paciente, aduzindo que o reconhecimento feito em solo policial não observou os ditames do art. 226 do Código de Processo Penal.
+Todavia, verifica-se que, ao contrário do que sustenta a defesa, a prova da autoria decorreu de provas robustas e autônomas da condenação, conforme fundamentação exarada pelo acórdão atacado que confirmou a sentença condenatória, vejamos (fls. 24/25 - grifo nosso):
+Em acréscimo aos relatos das vítimas, o Policial Militar CHRISTIANO APARECIDO FERREIRA DE SOUZA, sob o crivo do contraditório, afirmou ter encontrado as vítimas com a liberdade restringida na data dos fatos. Narrou que o coautor DALLITON DIEGO DEOCLÉSIO SILVA apontou o acusado IVAN COSTA DE OLIVEIRA como sendo um dos autores dos crimes (f. 328 -mídia eletrônica).
+A corroborar, o coautor DALLITON DIEGO DEOCLÉSIO SILVA, na fase administrativa, confirmou participação no crime narrado na denúncia, indicando que o recorrente IVAN COSTA DE OLIVEIRA seria o mentor do delito. Asseverou que o apelante "na posse de uma arma de fogo abordou duas vítimas que estavam saindo do estabelecimento". Relatou que o réu IVAN OLIVEIRA subtraiu os celulares das vítimas e determinada quantia em dinheiro, atente-se:
+ ..
+Na fase judicial, o corréu DALLITON DIEGO DEOCLÉSIO SILVA confirmou ter praticado o crime narrado na denúncia na companhia do recorrente IVAN COSTA DE OLIVEIRA. Relatou que o apelante ofereceu determinada quantia em dinheiro para que o declarante participasse da ação delituosa(f. 328 -mídia eletrônica).
+Nesse contexto, conjugando as declarações prestadas pelas vítimas L.A.A. e L.E.C.S., que reconheceram o acusado IVAN COSTA DE OLIVEIRA como sendo o autor dos crimes, bem como a confissão do coautor DALLITON DIEGO DEOCLÉSIO SILVA e, ainda, as demais provas constantes dos autos, entende-se que restou suficientemente comprovada a autoria dos delitos de roubo majorado em relação ao apelante IVAN COSTA DE OLIVEIRA, devendo ser afastada a tese defensiva de absolvição.
+Verifica-se, pois, que, além do reconhecimento feito por ambas as vítimas em solo policial, o corréu, preso em flagrante, confirmou, tanto na fase investigativa, quanto judicial, a sua participação e a do paciente nos crimes, tendo, ainda, sido encontrado na posse dos objetos subtraídos.
+Dessa forma, diante de tal conjuntura fático-processual, não há como acolher o pleito absolutório, pois o reconhecimento do paciente em solo policial, ainda que, eventualmente, não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que lastreou a condenação, não havendo, assim, falar em nulidade das provas.
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça: AgRg no HC n. 763.779/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/12/2022; AgRg no HC n. 797.738/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023; e AgRg nos EDcl no HC n. 711.647/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/3/2022.
+Dessa forma, demonstrada fundamentadamente pelas instâncias a quo a autoria delitiva, rever tal conclusão reclamaria ampla incursão no acervo fático-probatório, inviável nesta via.
+Assim, incabível a absolvição pretendida pela defesa.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ORDEM QUE, SE EVENTUALMENTE CONCEDIDA, INTERFERIRÁ DIRETAMENTE NO STATUS LIBERTATIS DO PACIENTE. CABIMENTO. ROUBO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. CONDENAÇÃO FIRMADA EM PROVAS ROBUSTAS E INDEPENDENTES DA AUTORIA.
+Ordem denegada.
