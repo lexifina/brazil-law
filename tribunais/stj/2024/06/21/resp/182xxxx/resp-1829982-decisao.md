@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ EDUARDO FERREIRA CHERFEN, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (fls. 262-267):
+ADMINISTRATIVO. MILITAR. LICENÇA ESPECIAL NÃO GOZADA. CONVERSÃO EMPECÚNIA. DESCABIMENTO. REFORMA DA SENTENÇA.
+1. Caso em que o autor, militar da reserva remunerada, pleiteia o direito à conversão de licença especial não gozada, em pecúnia, quando da prestação do serviço militar, tendo o magistrado singular julgado procedente o pedido;
+2. O servidor que adquiriu licença-prêmio tem direito de não trabalhar durante o período respectivo e não direito à indenização em dinheiro. A conversão da licença-prêmio em pecúnia só é prevista para a hipótese em que o pedido de concessão do gozo da mesma tenha sido indeferido administrativamente, em razão da necessidade do serviço, o que não ocorreu na hipótese vertente;
+3. Apelação da União provida e do particular prejudicada.
+Opostos embargos de declaração, restaram estes rejeitados (fls. 333-341).
+Sustenta a parte recorrente, em preliminar, violação ao art. 1.022, II, do CPC/2015, uma vez que, a despeito da oposição de aclaratórios, o Tribunal de origem deixou de examinar a questão sobre a responsabilidade objetiva da União (arts. 43, 186 e 927 do Código Civil) e acerca dos precedentes judiciais favoráveis (arts. 926 e 927 do Código de Processo Civil).
+No mérito, aponta contrariedade aos arts. 33 da MP 2.188-7, bem como 68, 97 e 98 da Lei n. 6.880/1980, pois "a Recorrida fez incidir a regra de conversão em tempo de serviço ficto, mesmo ciente de que esta LE não influenciaria no cômputo do tempo total para fins de reserva, tendo em vista que já contava com mais de 31 anos de efetivo serviço militar" (fl. 369) e, ainda, houve o reconhecimento administrativo do direito pleiteado.
+Contrarrazões às fls. 430-438.
+Recurso inicialmente não conhecido por intempestividade (fls. 493-494), mas reformado em embargos de divergência julgados pela Corte Especial (fls. 693-699).
+É o relatório. Decido.
+In casu, o Tribunal a quo assim se manifestou (fls. 262-264):
+Compulsando-se os autos, constata-se que o demandante fez opção pela contagem em dobro de tempo de serviço, a título de licença especial não gozada (Identificador: 4058200.1124750 - fl. 36), quando da passagem para reserva remunerada (esta decorrente de pedido voluntário).
+Nesse caso, inexiste amparo legal à pretensão de se converter tal tempo em pecúnia, uma vez que o período de licença especial já foi computado para fins de transferência do requerente para a reserva remunerada, por opção sua, em caráter definitivo e irrevogável. Se tal opção não chegou a beneficiar o autor, como afirma na inicial, é irrelevante na hipótese, ante a impossibilidade de desconstituição do ato de reforma, que se encontra perfeito e válido.
+Ademais, ainda que o ato que transferiu o requerente para reforma pudesse ser alterado, não restou comprovado nos autos que a razão que impediu a fruição da respectiva licença foi a necessidade de serviço. Só ela, no caso, ensejaria o direito à conversão da mesma em pecúnia, caso não configurada a primeira hipótese anteriormente dita.
+Na hipótese vertente, não há nada nos autos que faça referência a tal condição, razão por que não há direito para a conversão em questão, devendo ser mantida a sentença.
+Com efeito, em seus embargos de declaração, a parte autora, ora recorrente, deduziu a seguinte tese (fls. 294-296):
+Excelência, entende o Embargante que o entendimento proferido por essa Turma incorreu em omissões que amparam o direito do Embargante.
+Isso porque, o Embargante, conforme dito linhas acima, não usufruiu da licença especial, tampouco foi beneficiado com a contagem em dobro do tempo de serviço, tendo em vista previsão expressa do art. 33 da MP 2215-10.
+Quando da passagem para a inatividade do Autor, a Embargada fez incidir a regra de conversão em tempo de serviço ficto, mesmo ciente de que esta LE não influenciaria no cômputo do tempo total para fins de reserva, tendo em vista que já contava com mais de 31 anos de efetivo serviço militar, uma vez que o Autor só foi transferido para a reserva remunerada em 07 de janeiro de 2013, conforme a Portaria nº 17 -DCIPAS. 11.
+Portanto, o Autor ao ser transferido à inatividade, já atendia aos requisitos do art. 97 da Lei nº 6.880/80, que assim prescreve:
+ ..
+Perceba, Nobre Julgador, que o Autor não usufruiu da licença especial a que tinha direito, bem como não utilizou no cômputo do tempo para fins de inatividade, haja vista que sua passagem para a reserva foi superior ao prescrito no caput do art. 97 supracitado. Desse modo, faz jus o Autor à conversão em pecúnia da licença especial não gozada e não contada em dobro para fins de inatividade, sob pena de enriquecimento ilícito da administração.
+Sucede que, a despeito da relevância dessa questão para o deslinde da controvérsia, sobre ela quedou-se silente a Corte de origem, malgrado a oposição dos embargos de declaração, o que efetivamente caracteriza negativa de prestação jurisdicional.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. TRANSFERÊNCIA PARA A RESERVA REMUNERADA. LICENÇA ESPECIAL NÃO GOZADA. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO ACOLHIDA PELAS INSTÂNCIAS ORDINÁRIAS. ALEGADA AFRONTA AO ART. 1.022 DO CPC. OCORRÊNCIA.
+1. Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 19/8/2021). Nesse mesmo sentido: EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2021.
+2. Caso concreto em que, a despeito da oposição de embargos de declaração, o Tribunal de origem não se manifestou quanto à tese de que, à luz dos arts. 94, § 1º, e 95 da Lei 6.880/1980, a transferência do militar para a reserva remunerada (termo inicial do prazo prescricional) é um ato de natureza complexa e deve ser considerada perfectibilizada não com a publicação da respectiva portaria, mas com o seu efetivo desligamento da organização militar.
+3. Agravo interno não provido. (AgInt no REsp n. 1.907.514/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/11/2021, DJe de 2/12/2021.)
+Logo, ficam prejudicadas as demais teses suscitadas no apelo nobre.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda novo julgamento dos embargos de declaração, sanando a omissão existente no acórdão recorrido, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. MILITAR. TRANSFERÊNCIA PARA A RESERVA REMUNERADA. LICENÇA ESPECIAL NÃO GOZADA. CONVERSÃO EM PECÚNIA. CONTAGEM EM DOBRO. ALEGADA AFRONTA AO ART. 1.022, II, DO CPC/2015. OMISSÃO. OCORRÊNCIA. RECURSO PROVIDO.
