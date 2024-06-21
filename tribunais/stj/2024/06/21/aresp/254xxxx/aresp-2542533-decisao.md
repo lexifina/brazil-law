@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VALÉRIA CARVALHO DO NASCIMENTO, contra decisão que inadmitiu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em recurso especial interposto em: 7/11/2023.
+Concluso ao gabinete em: 17/6/2024.
+Ação: busca e apreensão de veículo ajuizada por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A, em face da agravante.
+Sentença: julgou improcedente o pedido formulado pela agravada.
+Acórdão: deu provimento à apelação de AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A, nos termos da seguinte ementa (e-STJ fls. 204/205):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. COBRANÇA DAS PRESTAÇÕES MEDIANTE DÉBITO AUTOMÁTICO EM CONTA-CORRENTE. SALDO INSUFICIENTE. INADIMPLÊNCIA COMPROVADA. INÉRCIA DA DEVEDORA QUE, MESMO NOTIFICADA EXTRAJUDICIALMENTE, NÃO QUITOU A PARCELA EM ABERTO. LIMINAR CONCEDIDA. MORA NÃO PURGADA NO QUINQUÍDIO DO § 2º DO ART. 3º DO DECRETO-LEI 911/69. CONSOLIDAÇÃO DA PROPRIEDADE E DA POSSE DO BEM NO PATRIMÔNIO DO CREDOR FIDUCIÁRIO. POSSIBILIDADE. ENTENDIMENTO SEDIMENTADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO RESP 1.418.593/MS (TEMA Nº 722). RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+I - Trata-se de Ação de Busca e Apreensão, fundada em contrato com cláusula de alienação fiduciária, no qual as partes convencionaram o pagamento das parcelas contratuais mediante débito automático na conta- corrente da devedora fiduciante;
+II - A documentação encartada aos fólios demonstra que o valor da parcela n.º 21, com vencimento em 09/09/2021, não foi debitado em razão da insuficiência de saldo na conta da acionada;
+III - Não há nos autos qualquer recibo ou comprovante de pagamento da parcela, ainda que em atraso ou por via distinta da do débito automático, tampouco qualquer indicação de que a recorrida procurou extrajudicialmente a instituição financeira para solucionar a pendência;
+IV - Assim sendo, pelos documentos que instruem o feito, há de se concluir que a Apelada foi devidamente constituída em mora, nos termos da legislação de regência, e permaneceu inerte, não adimplindo a dívida;
+V - Ademais, uma vez efetivada a liminar de busca e apreensão, o devedor, caso queira ser restituído na posse do bem, precisa proceder com a purgação da mora por meio de depósito integral da dívida remanescente, incluindo-se no cálculo as parcelas vencidas e as vincendas constantes do contrato entabulado, dado o vencimento antecipado decorrente do não cumprimento da obrigação. Caso não haja o adimplemento contratual no referido prazo, haverá a consolidação da propriedade e da posse plena em nome do credor. É o que determina o art. 3º, §§ 1º e 2º, do Decreto-Lei n.º 911/69;
+VI - Comprovado o inadimplemento da devedora fiduciante, e não tendo sido purgada a mora no prazo de 05 (cinco) dias contados da data em que houve a efetivação da medida liminar, impõe-se a procedência da ação;
+VII - Recurso da parte autora conhecido e provido. Sentença reformada.
+Recurso especial: alega, em síntese, que o " ..  ACORDÃO a quo se encontra totalmente em desconformidade com o entendimento firmado no STJ, inclusive, com a edição da Súmula 284  .. " (e-STJ fl. 237).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da preclusão consumativa do segundo recurso.
+O recurso especial (e-STJ fls. 292/299) revela-se manifestamente inadmissível, ante o princípio da unirrecorribilidade recursal, porquanto, no momento de seu protocolo, por provável erro, já ocorrera o fenômeno da preclusão consumativa, diante da anterior interposição do recurso de fls. 230/237 (e-STJ).
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AI n. 629.337 AgR, STF, Primeira Turma, DJe de 30/4/2009; AgRg nos EAREsp n. 1.596.357/RS, Corte Especial, DJe de 22/4/2022; AgInt no CC n. 195.226/RS, Segunda Seção, DJe de 1º/6/2023; AgInt no REsp n. 2.033.425/PA, Terceira Turma, DJe de 15/2/2023; e AgInt no REsp n. 1.983.899/MG, Quarta Turma, DJe de 11/4/2023.
+- Da fundamentação deficiente.
+Quanto à alegação de que o " ..  ACORDÃO a quo se encontra totalmente em desconformidade com o entendimento firmado no STJ, inclusive, com a edição da Súmula 284  .. " (e-STJ fl. 237), verifica-se, da leitura das razões do recurso especial, que a parte recorrente não apontou o dispositivo de lei federal que teria sido violado pelo acórdão recorrido, o que caracteriza deficiência na fundamentação do recurso e atrai, por analogia, a incidência da orientação contida na Súmula n. 284 do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgRg nos EREsp n. 382.756/SC, Corte Especial, DJe de 17/12/2009; AgInt no REsp n. 1.582.988/SP, Terceira Turma, DJe de 28/2/2019; e AgInt no REsp n. 2.025.385/SP, Quarta Turma, DJe de 25/5/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do artigo 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento) sobre o valor da causa (e-STJ fls. 152/155 e 204/227) para 20% (vinte por cento), observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, parágrafos 4º e 5º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA O MESMO ACÓRDÃO. INADMISSIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.
+1. Ação de busca e apreensão de veículo.
+2. A interposição de dois recursos pela mesma parte e contra o mesmo acórdão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade recursal. Precedentes.
+3. A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284/STF. Precedentes.
+4. Agravo conhecido. Recurso especial não conhecido.
