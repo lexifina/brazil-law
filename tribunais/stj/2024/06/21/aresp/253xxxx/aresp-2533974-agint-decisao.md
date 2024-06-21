@@ -1,0 +1,26 @@
+DECISÃO
+Em decorrência do agravo interno interposto pela parte agravante (fls. 310/312 e-STJ), reconsidero a decisão da Presidência de fls. 305/306 e-STJ. Passo ao exame do recurso.
+Trata-se de agravo interposto por MAYCON JONNY DA SILVA contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 265):
+Apelação. Embargos à execução. Cotas Condominiais. Sentença que julgou improcedente os embargos à execução. Recurso do Embargante, ora executado, que não comporta acolhimento. Execução lastreada em título executivo extrajudicial, com amparo no art. 784, X, do CPC. Condomínio exequente que ingressou com execução, amparada em documentação contundente, consistente de ATA de assembleia, memória de cálculo e boletos deixados em aberto, demonstrando a responsabilidade da unidade autônoma em contribuir com as despesas, cumprindo os requisitos constantes do art. 798 do CPC. Dever do condômino de contribuir com as despesas do condomínio, conforme inteligência do art. 1.336, I, do Código Civil. Condomínio que não pode subsidiar as demais despesas da cota condominial, através dos esforços dos demais condôminos adimplentes. Dever do Embargante, ora executado, de apresentar comprovante de quitação do débito, nos termos do art. 373, II, do CPC, o que não ocorreu. Sentença mantida. Honorários majorados. RECURSO DESPROVIDO.
+Nas razões do especial, aponta o recorrente violação do artigo 783 do Código de Processo Civil, argumentando, em síntese, que não teria sido juntada à inicial da ação de execução o respectivo título, inviabilizando o processamento da ação.
+O recurso especial não foi admitido na origem (fls. 285/287), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem não analisou a controvérsia referente ao suposto caráter extemporâneo da juntada do título executivo, em relação ao ajuizamento da ação, obstando a análise da controvérsia de modo originário em recurso especial, por falta de prequestionamento (Súmulas 282 e 356/STF).
+De toda forma, extraio do acórdão recorrido que o exequente procedeu à juntada da ata da assembleia que aprovou o novo valor da contribuição ordinária de condomínio, a notificação encaminhada ao executado, com a planilha dos cálculos e o valor em aberto, suficiente para a caracterização do título executivo (art. 784, X, do Código de Processo Civil) (fl. 267).
+Extraio, ainda, do acórdão recorrido que a parte executada não teria comprovado, em todo caso, o adimplemento do crédito executado, justificando a procedência da pretensão (fl. 269).
+Portanto, pressuposta a adequação do título executivo apresentado e a possibilidade de defesa da parte executada, não há como alterar o provimento adotado no acórdão recorrido, ainda que admitida a juntada extemporânea daquele.
+Com efeito, segundo a jurisprudência desta Corte, é admissível a juntada extemporânea de documentos de formação do título executivo, se observado o contraditório, não havendo motivo para declarar-se a nulidade se inexistir prejuízo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALEGADA INEXISTÊNCIA DO TÍTULO EXECUTIVO. QUESTÃO JÁ DECIDIDA EM AGRAVO DE INSTRUMENTO. PRECLUSÃO. JUNTADA EXTEMPORÂNEA DE DOCUMENTOS. CONTRADITÓRIO OBSERVADO. AUSÊNCIA DE PREJUÍZO. COMPENSAÇÃO DE VALORES NÃO AUTORIZADA. AUSÊNCIA DE CERTEZA DO CRÉDITO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa ao art. 535 do CPC/73 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Segundo o entendimento desta Corte, ainda que a questão seja de ordem pública, não pode ser revisitada pelo órgão julgador quando houver decisão anterior sobre o tema, em razão de preclusão pro judicato. Precedentes.
+3. É admissível a juntada extemporânea de documentos, se observado o contraditório, não havendo motivo para declarar-se a nulidade se inexistir prejuízo.
+Precedentes.
+4. O Tribunal de origem, examinando a prova produzida, concluiu que os valores pagos pelas agravantes a título de dívidas trabalhistas, que não foram objeto de concordância por parte da agravada, não poderiam ser objeto de compensação, porque ausente o requisito de certeza da obrigação. A pretensão de modificar tal entendimento demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 854.453/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/6/2024, DJe de 7/6/2024.) (grifo acrescido)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deveria ser conhecido, em todo caso, por conta da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
