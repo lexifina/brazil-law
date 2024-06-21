@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (e-STJ Fl.223):
+EMENTA - APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - RECURSO DO MINISTÉRIO PÚBLICO - EXASPERAÇÃO DA PENA-BASE - NATUREZA DA DROGA - NATUREZA DESFAVORÁVEL - PENA-BASE INALTERADA - QUANTUM FIXADO PELO SENTENCIANTE NA PRIMEIRA ETAPA DOSIMÉTRICA ADEQUADO- EXCLUSÃO DO TRÁFICOPRIVILEGIADO - ACOLHIMENTO - DEDICAÇÃO DO RÉU A ATIVIDADES CRIMINOSAS - RECRUDESCIMENTO DO REGIME PRISIONAL - CABÍVEL - SEMIABERTO FIXADO - AFASTAMENTO DA SUBSTITUIÇÃO DA PENA - POSSIBILIDADE - PARCIAL PROVIMENTO, EM PARTE COM O PARECER.
+Imputa-se ao paciente a prática do crime de tráfico de drogas.
+A defesa alega, em síntese, equívoco na dosimetria.
+Ao final, requer a concessão da ordem para obter a redução da pena.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que se verifica de plano na hipótese dos autos, na medida em que o acórdão que confirmou a sentença condenatória assim se manifestou acerca da aplicação da causa de aumento (e-STJ Fl.230):
+A quantidade e variedade da droga encontrada em posse do apelado, bem como a presença de diversos utensílios para fracionamento dos entorpecentes denotam que há elementos concretos que autorizam concluir que o réu estava se dedicando a atividade criminosa consistente no comércio de drogas, a despeito dos bons antecedentes e primariedade, razão pela qual deve ser atendido o afastamento do benefício em comento.
+(..)
+Primeira fase: em atenção aos elementos previstos no art. 42 da Lei n.º 11.343/2006 e no art. 59 do Código Penal, observada a fundamentação da sentença e nos termos deste pronunciamento, a natureza e quantidade da droga são desfavoráveis, pelo que fixo a pena-base em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa.
+Observa-se, portanto, a valoração dupla, na primeira e terceira fase dosimétrica, da quantidade de entorpecente.
+Contudo, deve-se "observância ao decidido no ARE 666.334/AM, julgado pelo STF sob o regime da repercussão geral, em que se firmou o entendimento de que a natureza e a quantidade de droga apreendida devem ser levadas em consideração apenas em uma das fases da dosimetria, sob pena de indevido bis in idem, ou seja, tal valoração só pode ser considerada na primeira ou na terceira fase do cálculo da pena." (STJ - AgRg no HC: 834812 MG 2023/0224135-1, Relator: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 05/09/2023, T5 - QUINTA TURMA, Data de Publicação: DJe 08/09/2023)
+Assim, considerando-se que, embora se tenha apontado "presença de diversos utensílios para fracionamento dos entorpecentes", estes não foram narrados na denúncia ou na sentença, há de se aplicar a minorante ao paciente.
+No presente feito, em se tratando da apreensão de 07 (sete) porções pesando 0,2g (dois decigramas) de substância conhecida como "LSD", 16 (dezesseis) porções pesando 68,8g (sessenta e oito virgula oito gramas) de substância conhecida por "cocaína", 58 (cinquenta e oito) trouxinhas pesando aproximadamente 1,053kg (um quilo e cinquenta e três gramas) do entorpecente conhecido como "maconha", 01 (um) pino plástico pesando 0,8g (oito decigramas) de substância "cocaína", a redutora deve ser aplicada em 1/5 (um quinto).
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício a PAULO VINICIUS RODRIGUES, para recalcular a pena relativa ao delito do art. 33 da Lei Antidrogas aplicada, estabelecendo-a em 04 (quatro) anos e 02 (dois) meses de reclusão e 417 dias-multa, a ser cumprida no regime semiaberto.
+Expeça-se, com urgência, as comunicações pertinentes ao Tribunal de origem e ao Juízo singular.
+Publique-se. Intimem-se.
+EMENTA
