@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por HEDGE DESENVOLVIMENTO URBANO LTDA. contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 780/782).
+O acórdão recorrido está assim ementado (e-STJ fls. 595/596):
+APELAÇÃO CÍVEL - AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO C/C RESCISÃO DE CONTRATO DE IMÓVEL - PRELIMINAR DE NULIDADE - AFASTADA - ADIMPLEMENTO SUBSTANCIAL - NÃO CONFIGURADO - TAXA DE FRUIÇÃO - COMISSÃO DE CORRETAGEM - AUSÊNCIA DE PREVISÃO CONTRATUAL - IMPOSSIBILIDADE DE COBRANÇA DO CLIENTE - RETENÇÃO DO VALOR PAGO A TITULO DE MULTA - 10% - RAZOABILIDADE - NOTIFICAÇÃO EXTRAJUDICIAL - CONSTITUIÇÃO EM MORA - REGULARIDADE - JUROS - MATÉRIA DE ORDEM PÚBLICA - 1% DESDE A CITAÇÃO - RECURSO DA INCORPORADORA IMPROVIDO - RECURSO DA ADQUIRENTE PARCIALMENTE PROVIDO.
+A teoria do adimplemento substancial só pode ser aplicada em caso de quitação de mais de noventa por cento das parcelas de um contrato e desde que presentes outros requisitos qualitativos para sua incidência.
+A taxa de fruição é devida a empresa/vendedora a título de indenização pelo tempo que o comprador inadimplente permaneceu no imóvel de modo gratuito, como forma de aluguel. No caso, não é devido o pagamento pela parte autora de taxa de fruição, pois em momento algum restou demonstrado que esta tomou posse e usufruiu do terreno, visto que nada edificou e nem explorou.
+O Superior Tribunal de Justiça decidiu que é válida a transferência da obrigação de pagamento da comissão de corretagem por parte do promitente comprador, desde que esteja expressamente consignado no contrato o valor cobrado pela unidade autônoma, havendo, ainda, necessidade de se destacar o montante destinado aos serviços de corretagem (tese firmada no julgamento do REsp 1.599.511/SP), caso que não ocorreu nos autos diante da ausência de previsão contratual.
+A jurisprudência vem firmando entendimento no sentido de que o percentual de retenção em caso de arrependimento do promissário-comprador, tendo em vista o eventual prejuízo causado ao promitente vendedor, pode ser fixado no percentual de 10% a 25% do valor pago, de modo a restaurar o equilíbrio contratual e evitar o enriquecimento sem causa. É razoável e proporcional a retenção do percentual de 10% do valor efetivamente pago pelo comprador inadimplente a título de multa contratual para ressarcir à promitente vendedora pelos prejuízos decorrentes do descumprimento do contrato.
+Comprovado o envio da notificação extrajudicial no endereço fornecido co contrato está demonstrada a constituição em mora.
+Por seu um componente básico da perda do valor da moeda, o juros não são um plus na condenação, mas sim uma atualização e deve incidir a partir da citação no percentual de 1% ao mês.
+Os embargos de declaração opostos por ambas as partes foram rejeitados (e-STJ fls. 654/659).
+Nas razões do recurso especial (e-STJ fls. 661/680), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou ofensa aos seguintes dispositivos de lei:
+(a) art. 1.022, II, do CPC/2015, pois, apesar da oposição de embargos de declaração, o Tribunal de origem teria deixado de se manifestar acerca da aplicação do entendimento desta Corte firmado nos Recursos Especiais Repetitivos n. 1.551.951/SP e 1.740.911/DF,
+(b) arts. 724 e 725 do CC/2002, porque a comissão de corretagem seria devida, haja vista que "o dever de informação  ..  foi cumprido no contrato, onde foi consignado o valor da comissão de corretagem e o preço total da aquisição do imóvel" (e-STJ fl. 674). Afirmou que o acórdão recorrido dissentiu da jurisprudência firmada em sede de recurso repetitivo no REsp n. 1.551.951/SP, precedente que apontou como paradigma, a fim de demonstrar também o dissídio jurisprudencial, e
+(c) art. 397, parágrafo único, do CC/2002, uma vez que "a aplicação de juros anteriores ao trânsito em julgado, nos moldes estabelecidos pela decisão recorrida, contraria a jurisprudência do STJ a respeito da forma como as parcelas devem ser restituídas, na medida em que até referido momento processual (trânsito em julgado), inexiste mora da promitente-vendedora, por conta do debate acerca das eventuais multas contratuais a serem abatidas do montante a ser devolvido" (e-STJ fl. 679). Sustentou também haver divergência jurisprudencial acerca do tema, indicando como paradigma o RESp n. 1.740.911/DF.
+Contrarrazões às fls. 757/778 (e-STJ).
+No agravo (e-STJ fls. 784/793), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 801/809).
+É o relatório.
+Decido.
+No que diz respeito ao precedente firmado no RESp n. 1.551.951/SP, não há falar em omissão da Corte local acerca de sua aplicação. O TJMS expressamente o afastou por considerar que os casos são distintos. Logo, não há falar em violação do art. 1.022 do CPC/2015 quanto ao ponto.
+Em relação ao outro precedente citado, deixo de apreciar a omissão alegada para logo resolver o mérito.
+Quanto à comissão de corretagem, o Tribunal de origem entendeu que (e-STJ fls. 600/601):
+O Superior Tribunal de Justiça decidiu que é válida a transferência da obrigação de pagamento da comissão de corretagem por parte do promitente comprador, desde que esteja expressamente consignado no contrato o valor cobrado pela unidade autônoma, havendo, ainda, necessidade de se destacar o montante destinado aos serviços de corretagem.
+No caso dos autos é possível verificar que não há prova nos autos de que o contrato trazia tal previsão o que impede a utilização do precedente, por se tratar de caso distinto do analisado concretamente.
+É de ver, portanto, que o Colegiado estadual decidiu na linha da jurisprudência desta Corte, concluindo que, todavia, no caso dos autos, não ficou demonstrado que o contrato previa o pagamento da comissão de corretagem.
+Entender de outro modo implicaria reexame do contrato, o que é incabível no especial, por força do que dispõe a Súmula n. 5/STJ.
+Referida súmula impede o conhecimento do recurso interposto com base tanto na alínea "a" quanto na "c" do permissivo constitucional.
+Nada obstante, assiste razão à agravante no que diz respeito aos juros de mora.
+É firme a jurisprudência desta Corte, firmada no Tema Repetitivo n. 1.002/STJ, de que, nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador, os juros de mora devem incidir a partir do trânsito em julgado da decisão.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. RETENÇÃO INTEGRAL DE SALDO REMANESCENTE APÓS LEILÃO EXTRAJUDICIAL. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE PRETENDIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DO JULGADO. OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO DO APELO ESPECIAL. SÚMULA 518/STJ. RESTITUIÇÃO DOS VALORES PAGOS. SÚMULA 543/STJ. IMPOSSIBILIDADE DE REVISÃO. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. DATA DO TRÂNSITO EM JULGADO. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. "Nas hipóteses de rescisão do compromisso de compra e venda por inadimplência dos promitentes compradores, os juros de mora relativos às parcelas pagas incidem a partir do trânsito em julgado da decisão. Precedentes" (AgInt no REsp n. 1.355.223/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/6/2020, DJe de 26/6/2020.).
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+5. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 1.658.108/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2023, DJe de 18/10/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C RESTITUIÇÃO DE QUANTIAS PAGAS. ABUSIVIDADE NA RETENÇÃO Á TÍTULO DE RESSARCIMENTO DAS DESPESAS ADMINISTRATIVAS. RESCISÃO DO CONTRATO POR CULPA DO PROMITENTE COMPRADOR. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. TERMO INICIAL DOS JUROS A PARTIR DO TRÂNSITO EM JULGADO. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Nos termos da jurisprudência desta Corte, no julgamento do Tema Repetitivo n. 1.002/STJ, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei nº 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão".
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.033.324/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/9/2023, DJe de 14/9/2023.)
+Dessa forma, em tal aspecto, o especial deve ser provido.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e DAR-LHE PARCIAL PROVIMENTO, a fim de determinar que os juros de mora incidam desde o trânsito em julgado da decisão.
+Publique-se e intimem-se.
+EMENTA
