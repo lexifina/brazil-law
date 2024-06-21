@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto por TVSBT CANAL 4 DE SÃO PAULO S/A contra decisão mediante a qual a Presidência desta Corte negou provimento a seu agravo em recurso especial, ao fundamento de que a aplicação da Súmula 7/STJ não teria sido impugnada na minuta do agravo.
+Em face das razões de fls. 1352/1373, reconsidero a decisão agravada.
+Com efeito, a aplicação do referido enunciado da Súmula foi impugnada pelo agravo em recurso especial, mormente a partir da fl. 1273, em que o agravante expõe as razões pelas quais, em seu entender, o óbice não incide sobre o caso. Não se aplica, portanto, a regra dos artigos 932, III, do Código de Processo Civil de 2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, nem a Súmula 182/STJ.
+Procedo, portanto, a nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Agravo de instrumento. Liquidação de sentença. Danos materiais. Violação de direito autoral. Exibição de programa televisivo sem o pagamento correspondente ao titular da obra. Prova técnica pelo método comparativo analogia, indicou os valores correspondentes para cada episódio exibido. Decisão que analisou pormenorizadamente a perícia e multiplicou o valor respectivo pelo número de afiliadas da rede de TV devedora. Valor total indicado compatível com o que fora efetivamente apresentado. Juízo "a quo" se limitou a observar questão meramente aritmética, e nada mais. Pretensão da agravante para que o valor indicado pelo assistente técnico prevaleça não pode sobressair. Devido processo legal levado em consideração. Agravo desprovido.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 489 e 1022 do Código de Processo Civil; 6º e 31 da Lei 8.906/94, além de divergência jurisprudencial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1.022 do CPC.
+O recurso não poderia ser acolhido sem reexame de prova. A agravante procura discutir valores que foi condenada a pagar a título de indenização por violação de direitos autorais, além d e litigância de má-fé, alegando ter agido em estrita conformidade com suas prerrogativas processuais. A respeito do tema, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 1069):
+(..) o laudo técnico realizado expôs, de forma clara e precisa, a análise pormenorizada abrangendo a matéria, tanto que fora oportunizada às executadas a complementação de documentação, contudo, ressaltaram que não tinham interesse, e que não seria de responsabilidade das devedoras o fornecimento de tais documentos, incluindo contábeis, haja vista que o lapso cronológico que obrigaria a permanência já teria se esgotado.
+O v. acórdão que determinou a liquidação por sentença fora integralmente observado, não se identificando nenhuma irregularidade, tanto que o devedor SBT não apresentou ou indicou estimativas, nem possibilitou acesso ao contrato entabulado com a VISA, portanto, alegações genéricas e superficiais são insuficientes para descaracterizar os valores encontrados na decisão em exame.
+(..)
+As executadas vêm em busca de formalismo exacerbado, com o escopo de não pagar, mesmo porque, a demanda já dura aproximadamente 25 anos, e, apesar do lapso cronológico longevo, reiteradamente apresentam óbice, e sequer depositam os valores que entendem incontroversos.
+Assim, nada existe para ser modificado nas decisões combatidas.
+.
+Não há como afastar essas conclusões sem reexame de prova, aplicando-se ao caso a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
