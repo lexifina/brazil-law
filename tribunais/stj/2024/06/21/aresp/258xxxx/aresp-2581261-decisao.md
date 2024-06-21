@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por VILHENA SILVA SOCIEDADE DE ADVOGADOS, patronos de SIMPLÍCIO RODRIGUES DE OLIVEIRA E MARIA MARLY CRISTÓVÃO DE OLIVEIRA contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO Plano de Saúde - Ação Declaratória de Nulidade de Cláusula Contratual c/c Repetição de Indébito - Ajuizamento por beneficiários contra plano de saúde e respectiva administradora com a pretensão de afastar os reajustes por sinistralidade e por alteração de faixa etária aos 59 anos, com restituição do montante cobrado indevidamente - Sentença de parcial procedência - Inconformismo das partes: da ré SUL AMÉRICA, alegando a validade da cláusula que prevê o reajuste por sinistralidade, assim como a sua aplicação, conforme comprovado nos autos, a impossibilidade de se aplicar o reajuste previsto para o contrato individual, por se tratar de contrato coletivo; dos autores, alegando a abusividade do reajuste por faixa etária, ao completarem 59 anos, no percentual de 13173% - Rés que não se desincumbiram do ônus de comprovar que a variação do índice de sinistralidade tenha se avolumado, ou existência de outro fato novo que desse ensejo ao reajuste no patamar aplicado - Aplicabilidade das teses firmadas no Tema 952/STJ aos planos coletivos - Incidência do entendimento sedimentado no Resp nº 1.716.113 DF Tema nº 1.016 - Reajuste por faixa etária aplicado quando do ingresso na faixa etária dos 59 anos que, embora esteja previsto em contrato e em consonância com as disposições normativas da ANS, se revela abusivo por exigir vantagem manifestamente excessiva, valendo-se da vulnerabilidade do consumidor que alcança as últimas faixas etárias de reajustes, comportando redução, devendo ser adotado, no entanto, percentual de reajuste médio praticado pelo mercado - Necessidade, contudo, de apuração dos índices de reajuste em sede de liquidação de sentença- Recurso parcialmente provido dos autores e desprovido da ré" (e-STJ fl. 686).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 713/715).
+Nas razões do especial (e-STJ fls. 717/731), o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 85, §2º, e 1.022, I, do Código de Processo Civil.
+Alega que não foram apreciadas pelo Tribunal de origem todas as questões concernentes à fixação dos honorários advocatícios.
+Sustenta que
+"o v. acórdão deu parcial provimento ao recurso dos autores e, assim, pelo decaimento em maior parte das recorridas, as condenou a arcar com as custas e honorários advocatícios fixados em 20% sobre o valor da causa.
+Contudo, data máxima vênia, restou contraditório o fundamento e em patente afronta ao dispositivo processual mencionado, eis que o artigo estabelece uma ordem de prioridade para fixação da verba honorária, sendo que o valor da causa é utilizado somente quando não for possível mensurar o valor da condenação ou do proveito econômico".
+Postula a fixação dos honorários sobre o valor da condenação, em observância ao tema 1076 e à jurisprudência desta Corte Superior.
+Apresentadas as contrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, o qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A pretensão recursal não merece ser acolhida.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Com efeito, o Tribunal de origem no tocante à fixação dos honorários, assim se manifestou:
+"Embora não se detecte nenhuma anomalia na decisão embargada, para que não paire qualquer dúvida a respeito da questão ventilada nos embargos, basta que se observe que de nenhuma valia a irresignação dos embargantes, por intermédio de Embargos de Declaração, com relação aos honorários advocatícios aplicados.
+Com efeito, à míngua de recurso de apelação dos autores, ora embargantes, especificamente com relação ao método utilizado pelo MM. Juiz "a quo" para fixação dos honorários advocatícios sucumbenciais, óbice algum existia para observância do parâmetro então utilizado para que arbitramento dos honorários advocatícios em grau de recurso.
+Destaque-se, por relevante, que os embargantes em seu recurso pleitearam, apenas, a inversão dos ônus da sucumbência (cfr. fls. 618)" (e-STJ fl. 714).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Por fim, verifica-se que o art. 85, § 2º, do CPC apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, apesar da oposição de embargos declaratórios.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação da parte em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
+EMENTA
