@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e ausência de similitude fática (e-STJ fls. 634/635).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 589):
+AÇÃO DE REPARAÇÃO DE DANOS - Metragem de imóvel - Pretensão indenizatória relativa à vaga de garagem que foi entregue com área menor do que a prometida - Sentença que julgou extinto o feito, com resolução do mérito, reconhecendo a decadência do direito - Insurgência da autora - Decadência afastada - Hipótese em que se cuida de pedido de indenização, com prazo prescricional de 10 anos, nos termos do art. 205 do CC - Afastamento do decreto de decadência - Causa madura para julgamento - Art. 1.013, par. 4º, do CPC - Pleito improcedente - Memorial do imóvel que previa que a garagem teria piso cimentado e/ou permeável com grama - Trecho coberto de grama que deve ser considerado e que não traz prejuízo à utilização da garagem - Pretensão improcedente - Manutenção da sentença de improcedência, com alteração do fundamento - Recurso desprovido, com observação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 623/625).
+Nas razões do recurso especial (e-STJ fls. 596/607), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação do art. 369 do CPC/2015, sustentando cerceamento de defesa pelo julgamento antecipado da lide. Segundo afirma, "a prova pericial era a única forma que a Recorrente tinha de demonstrar a real metragem de sua vaga, ou seja, a única forma de provar a verdade dos fatos" (e-STJ fl. 601).
+No agravo (e-STJ fls. 638/644), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 647/650).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 593):
+A despeito dos argumentos da autora/apelante, encontra-se previsto no memorial descritivo da obra que o revestimento do piso da vaga de garagem: será em piso cimentado e/ou piso intertravado permeável e/ou grama e/ou asfalto. Na hipótese dos autos, o revestimento deu-se com cimento e com grama, de sorte que a área gramada deve ser incluída na metragem total, tendo a ré buscado preservar a permeabilidade do solo em parte da área que é externa, para permitir a absorção de águas pluviais. Com efeito, verifica-se que além da parte cimentada, há uma parte de grama, prevista no memorial, com a qual se alcança a área prometida.
+Portanto, a tese de violação do art. 369 do CPC/2015, segundo a qual teria havido cerceamento de defesa pelo julgamento antecipado da lide, não foi analisada pela Corte local. Incidente, portanto, as Súmulas n. 282 e 356 do STF por falta de prequestionamento.
+Ainda que assim não fosse, para acolher as razões recursais e reconhecer a existência de cerceamento de defesa e a imprescindibilidade da prova pericial, seria necessário o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
