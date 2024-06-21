@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS EDUARDO ZAMPOLLA, em face de decisão, às fls. 253-254.
+Em suas razões, o Embargante afirma a existência de equívoco na decisão embargada.
+Requer o acolhimento dos embargos.
+É o relatório. DECIDO.
+Os presentes embargos não reúnem condições de prosperar.
+De plano, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também podem ser admitidos para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, III, do atual Código de Processo Civil. Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045):
+"Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+Na hipótese, consta no sítio do Tribunal local, (www.tjsp.jus.br), sentenças condenatórias proferidas em desfavor do Embargante nas ações penais, (1500255-04.2021.8.26.0306 e 1500142-88.2021.8.26.0067), as quais alteraram o quadro do ora Embargante para a situação de condenado, sendo que nesta última, prolatada, em 18/8/2023, foi-lhe aplicada substancial reprimenda a ser cumprida no regime fechado; mantida a prisão cautelar:
+"Ante o exposto, resolvo o mérito da ação penal e JULGO PROCEDENTE a pretensão punitiva contida na denúncia, para CONDENAR:  ..  o réu CARLOS EDUARDO ZAMPOLLA por ter praticado o fato tipificado no artigo 157, §2º, incisos II e V, § 2º-A, inciso I, por 04 (quatro) vezes, c.c. artigo 29, ambos do Código Penal, na forma do artigo 70 do CP, a pena de 28 (vinte e oito) anos, 01 (um) mês e 15 (quinze) dias de reclusão, em regime inicial fechado, e 220 (duzentos e vinte) dias-multa, calculados no mínimo legal. Os réus não poderão recorrer em liberdade, pois permanecem presentes as circunstâncias fáticas que autorizaram a segregação cautelar, conforme os fundamentos expostos na decisão que a decretou e nas decisões que a manteve (fls. 87/92, 239/242, 513/514, 1375/1376, 1991/1995, 2102/2105, 2157/2158, 2399/2401 e 2823), sendo imprescindível para a garantia da ordem pública, em razão da gravidade em concreto da conduta e da reiteração dos crimes praticados pela organização crimonsa. Recomendem-se os réus na prisão em que se encontram" (www.tjsp.jus.br, ação penal n. 1500142-88.2021.8.26.0067)
+Ou seja, houve alteração na situação prisional do Embargante, que não foi submetida ao Tribunal local.
+Na hipótese, verif ica-se que os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita. Nesse prisma, a pretensão não está em harmonia com a natureza e a função do recurso integrativo.
+Ante o exposto, não vislumbro qualquer vício e rejeito os embargos declaratórios.
+Publique-se. Intime-se.
+EMENTA
