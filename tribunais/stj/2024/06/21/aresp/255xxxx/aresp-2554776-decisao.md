@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto RAFAEL WILLIAN DE TOLEDO ALVES em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que deu parcial provimento ao recurso de apelação apenas para afastar a pena restritiva de direitos de limitação de fim de semana (e-STJ fls. 284/286):
+Nas razões do recurso especial (e-STJ, fls. 307/320), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 155, §2º, do Código Penal, por não reconhecer a incidência da figura do furto privilegiado.
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (e-STJ, fls. 387/392).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O agravante foi condenado à pena 1 ano de reclusão e 10 dias-multa, em regime aberto, sendo a pena privativa de liberdade substituída por duas restritivas de direitos, consistentes na prestação de serviços à comunidade e na limitação do fim de semana, na forma do artigo 44, §2º, CP.
+Interposto recurso de apelação, foi parcialmente provido apenas para afastar a pena restritiva de direitos de limitação de fim de semana.
+O acórdão deixou de reconhecer a figura privilegiada do crime de furto, ao fundamento de que, "embora primário, o réu voltou a delinquir e, por outro lado, o valor dotal da res, como já referido, não parece pequeno, sendo irrelevante tenham sido os bens recuperados" (e-STJ 291).
+Para a aplicação da figura do furto privilegiado, é necessário que o agente seja primário e de pequeno valor a coisa subtraída. Na esteira desse entendimento, posicionou-se este Tribunal no sentido de que pequeno valor é aquele que não excede um salário mínimo ao tempo da prática delitiva.
+De fato, "o art. 155, § 2º, do CP estabelece a incidência de minorante se o criminoso for primário e se a conduta atingir bem de pequeno valor, que "não deve ultrapassar o valor do salário-mínimo vigente à época dos fatos" (AgRg no REsp n. 1.883.331/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024.).
+Na hipótese, como constou do acórdão, o réu é tecnicamente primário e o valor total dos bens subtraídos não excede um salário mínimo, pois "foram subtraídos 444g de Carré Suíno e 18 produtos de uso pessoal, da marca Granado, sendo 08 condicionadores, 09 sabonetes líquidos e 01 shampoo (index 06 -fl. 16), os quais, segundo nota fiscal, totalizam R$ 403,31" (e-STJ fl. 290).
+Assim, não havendo motivação suficiente a justificar a não aplicação do benefício do § 2º do art. 155 do CP em seu grau máximo, sendo o réu tecnicamente primário e ausentes outras circunstâncias mais gravosas do caso concreto, uma vez que se tratam de itens de higiene e de gêneros alimentícios, mostra-se suficiente a pena de multa para a reprovação do delito.
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para, reconhecida a figura do furto privilegiado, aplicar a RAFAEL WILLIAN DE TOLEDO ALVES somente a pena de 10 dias-multa, nos termos do art. 155, §2º, do Código Penal.
+Intimem-se.
+EMENTA
