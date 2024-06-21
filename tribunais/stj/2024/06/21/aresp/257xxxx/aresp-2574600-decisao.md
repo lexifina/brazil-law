@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por LITORANEA COMERCIO DE GAS LTDA em face da decisão acostada às fls. 403-405 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 364-370 e-STJ, proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DUPLICATA. SENTENÇA QUE EXTINGUIU O PROCESSO, DIANTE DO RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. INSURGÊNCIA DA PARTE EXEQUENTE. NÃO ACOLHIMENTO. PRESCRIÇÃO INTERCORRENTE CONFIGURADA. APLICABILIDADE, NO CASO, DAS TESES FIRMADAS NO JULGAMENTO DO IAC Nº 01 PELO STJ. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DO TÍTULO EXECUTIVO, ISTO É, TRÊS ANOS. INÉRCIA RECONHECIDA. DESNECESSIDADE DE INTIMAÇÃO DO CREDOR PARA SE MANIFESTAR SOBRE O PROSSEGUIMENTO DO FEITO. ENTENDIMENTO CONSOLIDADO DO SUPERIOR TRIBUNAL DEJUSTIÇA. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões de recurso especial (fls. 373-393 e-STJ), alegou o insurgente que o acórdão recorrido violou os arts. 921 e 1.056 do CPC.
+Aduziu, em síntese, a não ocorrência de prescrição intercorrente na hipótese.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre por aplicação da Súmula 83/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 408-417 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Cinge-se a controvérsia em estabelecer a ocorrência, ou não, de prescrição intercorrente na hipótese.
+O Tribunal local ao analisar o caso reconheceu a existência de prescrição em virtude de, após o prazo de suspensão de um ano, a parte ter permanecido inerte por período superior ao prazo prescricional do direito material vindicado, conforme se verifica do seguinte trecho (fl. 367-369 e-STJ):
+Da análise do caderno processual, observa-se que, após a propositura da execução, em 16.04.2007 (mov. 1.1, fls. 1 a 4), o processo foi suspenso, a requerimento da parte credora (mov. 1.1, fl. 75), em 07.10.2008 (mov. 1.1, fl. 76), até a sua ulterior manifestação, que ocorreu, tão somente, em 15.06.2018 (mov. 1.1, fl. 80).
+À vista disso, evidencia-se que, após o decurso do prazo de um ano da suspensão do processo, em outubro de 2009, a parte exequente deixou de promover todas as medidas necessárias para o prosseguimento da execução, com vistas à satisfação do crédito, permanecendo silente até junho de 2018, isto é, por quase nove anos.
+Logo, impõe-se a manutenção da decisão recorrida, que reconheceu a ocorrência da prescrição intercorrente no caso concreto, notadamente diante da inércia e da desídia por período superior ao prazo trienal previsto no art. 18, I, da Lei nº 6.458/77.
+Por fim, vale esclarecer que, diferentemente do que tenta fazer crer a parte apelante, não é necessária a intimação pessoal da parte exequente para que dê andamento à execução, após o final do prazo de suspensão do processo, para o reconhecimento da prescrição intercorrente.
+(..)
+Dessa maneira, impõe-se o desprovimento do recurso de apelação interposto pela instituição financeira exequente, mantendo-se incólume a decisão recorrida, que extinguiu a execução, sem atribuir às partes os ônus sucumbenciais, de acordo com o art. 921, § 5º, do CPC.
+Constata-se que a Corte local aplicou o entendimento firmado no bojo do julgamento do IAC - Tema nº 01, Relator Ministro Marco Aurélio Bellizze. A propósito:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp n. 1.604.412/SC, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 27/6/2018, DJe de 22/8/2018.)
+Corroborando este entendimento: AgInt no AgInt no AREsp n. 2.403.013/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024; AgInt nos EDcl no AgInt nos EDcl no REsp n. 1.311.821/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/11/2022, DJe de 24/11/2022.
+Ademais, restou consignado pela Corte local, conforme excerto acima colacionado, que o processo foi suspenso pelo prazo de um ano a partir de 07/10/2008, findo em outubro de 2009, deixando o recorrente de promover as medidas necessárias para o prosseguimento da execução por quase nove anos, até 15/06/2018, restando esgotado, em muito, o prazo prescricional.
+Para derruir estas conclusões da Corte local seria imprescindível o revolvimento do acervo fático-probatório, principalmente para acolher a alegação de que a suspensão teria perdurado até junho de 2018, providência que encontra óbice na Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CITAÇÃO DO DEVEDOR PRINCIPAL. INTERRUPÇÃO DA PRESCRIÇÃO EM RELAÇÃO AO AVALISTA. IMPOSSIBILIDAE. PRINCÍPIO DA ESPECIALIDADE. SÚMULA N. 83 DO STJ. MARCOS PRESCRICIONAIS. INÉRCIA DO CREDOR. IMPOSSIBILIDADE DE REEXAME. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Para adotar conclusões diversas das do tribunal de origem no que diz respeito aos marcos prescricionais da inércia do credor, é necessária a incursão no acervo fático-probatório dos autos, medida que encontra óbice na Súmula n. 7 do STJ.
+ ..
+(AgInt no AREsp n. 2.471.475/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 10/6/2024, DJe de 12/6/2024.)
+E mais: AgInt no AREsp n. 2.131.954/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024; AgInt no AREsp n. 2.456.009/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024; AgInt no AREsp n. 2.503.535/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024; AgInt no AREsp n. 2.018.581/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022.
+Portanto, não prospera a insurgência.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
