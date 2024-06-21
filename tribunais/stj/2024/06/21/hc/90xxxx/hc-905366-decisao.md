@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de KAMILA MARQUES FONSECA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que a Paciente teve a prisão preventiva decretada, encontrando-se denunciada pela suposta prática dos delitos de tráfico de drogas e associação para o tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 178-186).
+No presente writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor da Paciente.
+Aponta ausência de requisitos para a prisão preventiva.
+Argumenta que:
+"soa bastante estranho o fato de que a paciente sabendo que os policiais estavam "lhe procurando" foi até ao encontro deles sem nenhum constrangimento. Ora, é claro que se a paciente tivesse algo a esconder (como a participação em um evento criminoso) jamais iria prestar esclarecimentos informais, sem qualquer determinação legal" (fl. 7).
+Requer a revogação da segregação cautelar da Paciente e, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão.
+A liminar foi indeferida às fls. 196-198.
+Informações prestadas, às fls. 204-206 e 213-251. O Ministério Público Federal, às fls. 254-259, opinou pelo não conhecimento do writ. Confira-se a ementa do parecer:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. QUANTIDADE DE ENTORPECENTES. ASSOCIAÇÃO BEM ESTRUTURADA. NECESSIDADE DE INTERROMPER SUA ATIVIDADE. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Parecer pelo não conhecimento do habeas corpus" (fl. 254).
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta, haja vista que, em tese, a Paciente teria se associação a outros agentes para perpetrar a mercancia ilícita de entorpecentes, tendo sido apreendida, no contexto da traficância, substancial quantidade e variedade de drogas.
+No ponto, consta no acórdão hostilizado:
+"No caso, foram apreendidos o total de 193g de crack, 1,036 kg de cocaína, 6,697 kg de maconha, 2 pistolas calibre.9 mm, 50 munições de calibre.38, 141 muniçõescalibre.9 mm, 42 cartuchos calibre.12, 1 carregador de arma de fogo 9 mm, 49 cartuchoscalibre.9 mm, 3 balanças de precisão (uma com capacidade de 40 kg, uma pocket scale e umaSF-400), 1 touca de lã preta (com furos na altura dos olhos), 1 mira telescópica, 1 faca Generatti, 2 listas com descrições financeiras, 1 camiseta com o logo da polícia Civil, 1camiseta com o logo da polícia Federal, 1 máscara facial com o logo da polícia Civil, 1corrente de ferro, 2 pares de luvas pretos, 1 colete balístico, 1 colete balístico com o logo da Brigada Militar, R$ 845,00, 5 celulares, 3 notebook, 1 bolsa, 2 malas, 1 veículo HB20 branco e 1 veículo Astra (evento 1, OUT3, fls. 17/23), em situação que indica clara traficância. Conforme a denúncia, a paciente Kamila, ao sair do prédio, entregou uma bolsa preta contendo parte dos ilícitos.
+A apreensão de quantidade vultosa de drogas, armamentos e munições, além de diversos apetrechos, indica a possibilidade da prática de tráfico de drogas e associação para o tráfico pela paciente, bem como revela a necessidade da segregação cautelar para garantia da ordem pública" (fl. 183).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade da agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do Agravante acarretaria risco à ordem pública, pela gravidade concreta da conduta consistente no envolvimento com tráfico de drogas, tendo em vista a "quantidade e a variedade dos entorpecentes apreendidos (117,19g de cocaína, 139,29g de maconha, e 1,08g de MDA", circunstâncias que indicam a probabilidade de repetição de condutas tidas por delituosas e revela a indispensabilidade da imposição da segregação cautelar" (AgRg no HC n. 760.036/SP, Quinta Turma, de minha relatoria, DJe de 22/2/2023).
+"Caso em que a prisão preventiva foi decretada para garantia da ordem pública, em razão da expressiva quantidade de droga apreendida e de sua natureza nociva - 115,43 gramas de crack" (AgRg no HC n. 698.042/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 25/10/2021).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
