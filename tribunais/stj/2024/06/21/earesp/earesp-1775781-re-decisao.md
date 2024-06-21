@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 2.105):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGÁVEL O ACÓRDÃO QUE NÃO TENHA CONHECIDO DO RECURSO, EMBORA TENHA APRECIADO A CONTROVÉRSIA (ART. 1.043, III, DO CPC/2015). ICMS. LEI COMPLEMENTAR N. 87/1996. CREDITAMENTO. AQUISIÇÃO DE MATERIAIS (PRODUTOS INTERMEDIÁRIOS). ITENS ESSENCIAIS AO PROCESSO PRODUTIVO E DESGASTADOS OU CONSUMIDOS GRADATIVAMENTE. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 2015.
+II - Conquanto se trate de Recurso Especial não conhecido pela 2ª Turma, a apreciação da controvérsia tributária (premissa jurídica) atrai a disciplina radicada no art. 1.043, III, do CPC/2015, a qual autoriza a interposição de embargos de divergência contra o acórdão de órgão fracionário que "divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+III - À luz das normas plasmadas nos arts. 20, 21 e 33 da Lei Complementar n. 87/1996, revela-se cabível o creditamento referente à aquisição de materiais (produtos intermediários) empregados no processo produtivo, inclusive os consumidos ou desgastados gradativamente, desde que comprovada a necessidade de sua utilização para a realização do objeto social da empresa - essencialidade em relação à atividade-fim.
+IV -Tais materiais não se sujeitam à limitação temporal prevista no art. 33, I, do apontado diploma normativo, porquanto a postergação em tela restringe-se aos itens de uso e consumo.
+V - Embargos de Divergência providos.
+A parte recorrente sustenta a ocorrência de violação dos arts. 97 e 155, § 2º, I, da CF e aduz que há repercussão geral da matéria tratada.
+Defende, como tese principal, a inconstitucionalidade do creditamento de produtos intermediários adquiridos para a produção de mercadorias sobre as quais incide o ICMS.
+Alternativamente, alega violação da cláusula de reserva de plenário.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 2.188-2.208.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da possibilidade, ou não, do creditamento, por parte do contribuinte, dos valores referentes à aquisição de materiais intermediários utilizados no processo produtivo, estando o acórdão recorrido assim fundamentado (fls. 2.134-2.135):
+Adequado, portanto, o deslinde radicado nos paradigmas, mormente por ter sido prestigiado, naqueles precedentes, o critério da essencialidade dos materiais utilizados na consecução da atividade-fim da indústria, consoante disciplina normativa do ICMS (arts. 20, 21 e 33, todos da Lei Complementar n. 87/1996).
+Tal diretiva orientou outros julgados deste Superior Tribunal, nos quais a noção de essencialidade para a realização do objeto social da empresa é, igualmente, abraçada (e.g. 1ª S., Tema n. 779, REsp n. 1.221.170/PR, Rel. Min. Napoleão Nunes Maia Filho, j. 22.2.2018; bem como 1ª T., REsp n. 1.366.437/PR e AgInt nos EDcl no AREsp n. 1.554.169/SP, ambos de relatoria do Min. Benedito Gonçalves, j. 3.10.2013 e 6.12.2021).
+Logo, à luz das normas plasmadas nos arts. 20, 21 e 33 da Lei Complementar n. 87/1996, revela-se cabível o creditamento referente à aquisição de materiais empregados no processo produtivo (produtos intermediários), inclusive os consumidos ou desgastados gradativamente, desde que comprovada a necessidade de sua utilização para a realização do objeto social da empresa, é dizer, a essencialidade em relação à atividade-fim.
+Assim, os aludidos materiais não se sujeitam à limitação temporal do art. 33, I, do apontado diploma normativo, porquanto a postergação em tela restringe-se aos itens de uso e consumo.
+Posto isso, DOU PROVIMENTO AOS EMBARGOS DE DIVERGÊNCIA, para: (i) assentar a prevalência do entendimento jurisprudencial que reconhece, sem a limitação temporal do art. 33, I, da LC n. 87/1996, o direito ao creditamento referente à aquisição de materiais empregados no processo produtivo, inclusive os consumidos ou desgastados gradativamente, na hipótese de comprovada a necessidade de sua utilização para a realização do objeto social da empresa; e (ii) determinar o retorno dos autos ao tribunal de origem, da mesma forma como se procedeu nos recursos dos acórdãos paradigmas, a fim de que se reexamine o pleito das contribuintes.
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 20, 21 e 33 da Lei Complementar n. 87/1996, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em caso semelhante assim já decidiu a Suprema Corte:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. BENS INTERMEDIÁRIOS INCORPORADOS AO PROCESSO INDUSTRIAL. REGIME DE CRÉDITO FINANCEIRO. FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL.
+1. A discussão referente ao creditamento de ICMS por incorporação de bens ao processo industrial na condição de produto intermediário revela-se adstrita ao âmbito infraconstitucional, não arrostando o princípio constitucional da não-cumulatividade.
+2. Agravo regimental a que se nega provimento, com previsão de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.
+(ARE n. 1.140.831-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 6/9/2019, DJe-219 de 9/10/2019.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. CREDITAMENTO. AQUISIÇÃO DE PRODUTOS INTERMEDIÁRIOS INCORPORADOS AO PRODUTO FINAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO INADMITIDO.
