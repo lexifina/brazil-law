@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SANDRA LORENA FONTANARI LOCH, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: arbitramento de honorários ajuizada por PAULO WALDIR LUDWIG, em face da agravante, devido ao inadimplemento do contrato de prestação de serviços advocatícios celebrado entre as partes.
+Sentença: julgou parcialmente procedente o pedido para arbitrar os honorários contratuais no montante equivalente a 5% da vantagem econômica auferida na demanda patrocinada.
+Acórdão: negou provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. MANDATOS. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS C/C COBRANÇA. ADVOGADO IMPEDIDO DE EXERCER A ATIVIDADE PROFISSIONAL. MANDATO EXTINTO POR FORÇA DO ART. 682, INCISO III, DO CPC. REMUNERAÇÃO DEVIDA. ARBITRAMENTO REALIZADO EM CONFORMIDADE COM O TRABALHO REALIZADO, TEMPO DE TRAMITAÇÃO DO FEITO E COMPLEXIDADE DO SERVIÇO. SENTENÇA PARCIALMENTE MODIFICADA. A EFETIVA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS EM VÁRIAS AÇÕES, NA DEFESA DOS DIREITOS DA RÉ, COM A OBTENÇÃO DE PROVEITO ECONÔMICO DE RELEVADA MONTA AUTORIZA O RECONHECIMENTO DO DIREITO À REMUNERAÇÃO PELA ATUAÇÃO DO ADVOGADO ATÉ A OCORRÊNCIA DA SUSPENSÃO DO EXERCÍCIO PROFISSIONAL. NECESSIDADE DE SER SOPESADO O TRABALHO REALIZADO, O TEMPO DE TRAMITAÇÃO DAS AÇÕES E A COMPLEXIDADE DO SERVIÇO, BEM COMO O FATO DE QUE SUA ATUAÇÃO NÃO CHEGOU ATÉ O FIM DOS PROCESSOS, CIRCUNSTÂNCIA IMPEDITIVA AO RECONHECIMENTO DO PERCENTUAL CONTRATADO.
+APELAÇÕES DESPROVIDAS. (fls. 832/833, e-STJ)
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) incidência da Súmula 284/STF; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante sustenta que o agravado "não poderia exercer a advocacia e, evidentemente, no caso, não pode auferir honorários decorrentes dessa profissão, nem mesmo valer-se da atuação de outros procuradores, sob pena de mercantilização da advocacia, ato incompatível com o código de ética da profissão."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) incidência da Súmula 284/STF; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, uma vez que a verba honorária foi arbitrada no limite máximo previsto no art. 85, §2º, do CPC. (fls. 866/869, e-STJ)
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
