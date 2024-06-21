@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por CONSTRUTORA JALK LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA E REPETIÇÃO DE INDÉBITO - CÉDULAS DE CRÉDITO BANCÁRIO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - DESCABIMENTO - PERÍCIA CONTÁBIL - DOCUMENTAÇÃO INCOMPLETA PELA PARTE RÉ QUE IMPOSSIBILITOU A APURAÇÃO DOS VALORES DEMONSTRATIVOS DO FATO EXTINTIVO DO DIREITO AUTORAL - MANUTENÇÃO DOS CÁLCULOS PERICIAIS - COMPENSAÇÃO DE VALORES A SEREM RESTITUÍDOS COM EVENTUAL SALDO DEVEDOR - POSSIBILIDADE - REPETIÇÃO DE INDÉBITO - MÁ-FÉ NÃO COMPROVADA - RESTITUIÇÃO SIMPLES - SUCUMBÊNCIA MÍNIMA - AUSÊNCIA. - O CDC não se aplica nos casos de contrato celebrado por pessoa jurídica para utilização de crédito como insumo da atividade empresarial, por não se amoldar ao conceito de destinatário final. - Deve ser mantido o laudo pericial elaborado pelo perito do Juízo, quando os estornos de crédito suscitados não forem passíveis de apuração por ausência de documentação pela parte ré, que deixou de demonstrar o fato extintivo do direito autoral, nos termos do art. 373, II, do CPC. - O direito à repetição de indébito decorre da constatação de pagamento indevido, sendo possível tanto a compensação de créditos quanto a devolução da quantia paga, em obediência ao princípio que veda o enriquecimento ilícito. - A devolução em dobro dos valores pagos a maior só é cabível em caso de demonstrada má-fé. - Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas (art. 86 do CPC)" (e-STJ fl. 623).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega violação dos arts. 4º, I, 29 e 42 do Código de Defesa do Consumidor e 940 do Código Civil.
+Defende a mitigação da teoria finalista e a consequente aplicação do diploma consumerista à hipótese dos autos, pois evidenciada a vulnerabilidade da recorrente.
+Sustenta a legalidade da repetição em dobro do indébito.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+As conclusões do Tribunal de origem acerca da não incidência do Código de Defesa do Consumidor e da ausência de prova da má-fé decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+A apelante defende a inaplicabilidade das disposições do Código de Defesa do Consumidor ao caso dos autos, sob o argumento de que a relação estabelecida entre as partes destinou-se à captação de vultosos recursos para fomentar a atividade empresarial da empresa autora, que não apresenta qualquer vulnerabilidade em relação à instituição financeira.
+Pela análise dos autos, entendo ter razão a parte apelante, porquanto a relação jurídica discutida nos autos se refere a contratos de mútuo firmados por pessoa jurídica - empresa atuante no ramo da construção civil - para utilização do crédito como insumo da atividade empresarial, o que descaracteriza a relação de consumo, por não se amoldar ao conceito de destinatário final.
+(..)
+Em primeiro lugar, como já exposto, não se aplica ao caso dos autos as disposições da norma consumeristas, em razão da parte autora ser pessoa jurídica atuante no ramo da construção civil e ter celebrado contrato de mútuo para utilização de crédito como insumo da atividade empresarial, não se amoldando ao conceito de destinatário final.
+Em segundo lugar, a dobra requerida não é devida, afinal não há demonstração nos autos da má-fé da parte ré na cobrança do excesso dos encargos apurados, motivo pelo qual entendo que a restituição dos valores indevidamente cobrados deve ocorrer de forma simples, nos termos da sentença" (e-STJ fls. 629/636).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ademais, a questão da mitigação da teoria finalista em razão da hipossuficiência da pessoa jurídica não foi objeto de debate pela instância ordinária, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação e, em virtude da sucumbência recíproca, foram distribuídos na proporção de 20% (vinte por cento) para a autora e 80% (oitenta por cento) para o réu.
+Assim, em observância ao art. 85, § 11, do Código de Processo Civil, majoro em 5% (cinco por cento) a verba honorária atribuída à autora, ora recorrente, a ser acrescida ao valor arbitrado pela Corte local, observando-se o benefício da gratuidade de justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
