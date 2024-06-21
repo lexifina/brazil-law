@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fls. 1016/1.017):
+CONSIGNAÇÃO EM PAGAMENTO Contratos de compra e venda de publicações, em regime de consignação, e de prestação de serviços de manuseio e distribuição de objetos Pedidos iniciais julgados improcedentes Apelo das rés - NULIDADE PROCESSUAL Ausência de realização de nova perícia que não implicará cerceamento de defesa Laudo pericial apresentado que atende aos requisitos relacionados no art. 473 do Código de Processo Civil, não padecendo de nenhum dos vícios aludidos no mesmo dispositivo de lei Não configuração de hipóteses autorizadoras da realização de nova perícia, relacionadas no art. 480 do Código de Processo Civil Preliminar rejeitada MÉRITO Críticas tecidas pelas autoras contra as conclusões do laudo pericial que não estão lastreadas em nenhum elemento de ordem técnica Prova técnica que atingiu, satisfatoriamente, seu objetivo Notificação da rescisão contratual invocada pelas autoras, que ainda que não tenha observado a forma contratual serviu para dar ensejo à contranotificação Desacolhimento dos pedidos iniciais de ambas as ações consignatórias, por não se estar diante de hipótese de recusa, sem justa causa, de recebimento de pagamento, nos termos do art. 544, II, do Código de Processo Civil Sentença confirmada Recurso improvido.
+Os embargos de declaração foram rejeitados (fls. 1.032/1.041).
+Nas razões do especial, aponta a parte recorrente violação dos artigos 473, II e III, § 2º, 489, IV, 544, IV, e1.022, II e III, do Código de Processo Civil.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Questiona a consistência do laudo pericial, realçando que, além da incorreção, o perito teria extravasado os limites de sua designação, emitindo opções excedente ao exame técnico objeto da perícia.
+Defende, ainda, que a pretensão de consignar o pagamento deveria ser julgada procedente, uma vez que a contestação apresentada pela parte recorrida teria sido genérica.
+Contra-arrazoado (fls. 1.075/1.089), o recurso especial não foi admitido na origem (fls. 1.090/1.092), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação dos artigos 489 e 1.022 do Código de Processo Civil, observo que o Tribunal de origem consignou, expressamente, que o laudo pericial apresentado em juízo não apresentaria vício formal, inclusive transcrevendo trecho da opinião técnica em abono (fls. 1.017/1.019).
+Além disso, a Corte Local realçou que a prova técnica teria alcançado o fim colimado (fl. 1.021):
+Some-se a isso o fato de que o pagamento que as autoras intentam realizar, por meio da ação de consignação, no valor de R$ 31.280,00, por inobservância do aviso prévio, foi estipulado, segundo se infere da petição inicial, em cálculo embasado, precipuamente, no faturamento das rés (fls. 6), diante do que não há como negar que, pelas conclusões que apresentou (fls. 835), a prova técnica atingiu, satisfatoriamente, seu objetivo.
+Desse modo, como o ponto supostamente omisso foi objeto de análise no acórdão recorrido, não há falar-se em omissão ou falta de justificativa adequada a respeito, razão pela qual afasto a alegação de contrariedade aos artigos 489 e 1.022 do Código de Processo Civil.
+Em relação à alegada violação do artigo 473 do Código de Processo Civil, pressuposta a correção do laudo pericial apresentado em juízo, que teria se atido aos limites de sua designação, conforme pressuposto pela Corte Local (fl. 1.017), não há como acolher a pretensão da recorrente sem o reexame do contexto fático-probatório.
+O procedimento, porém, é vedado em recurso especial, atraindo a incidência da Súmula 7/STJ.
+No que se refere à alegada violação do artigo 544, I, do Código de Processo Civil, observo que o Tribunal de origem concluiu que estaria comprovada a insuficiência do depósito apresentado pela parte recorrente, justificando assim a justa causa na recusa e a improcedência da pretensão consignatória em pagamento (fl. 1021).
+A controvérsia em torno da generalidade da contestação, para o fim de gerar a revelia, com o juízo de procedência, não foi analisada, no acórdão recorrido, omissão que remanesceu ao julgamento dos embargos de declaração, obstando a análise da controvérsia em recurso especial, por falta de prequestionamento (Súmula 211/STJ).
+De toda forma, ainda que reconhecida a generalidade da contestação, como defendido pela parte recorrente, deveria ser mantido o provimento adotado pela Corte Local, uma vez que a improcedência da pretensão consignatória decorre da análise das demais provas produzidas nos autos, notadamente a pericial: conclusiva acerca da justa recusa, tendo em vista a insuficiência do depósito realizado pelo credor (fl. 1021).
+Com efeito, segundo a jurisprudência desta Corte Superior: " ..  os efeitos da revelia são relativos e não implicam a imediata procedência do pedido, devendo o magistrado analisar as alegações do autor e a prova dos autos. (AgInt no AREsp n. 1.330.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/3/2023, DJe de 22/3/2023.)
+Nesse mesmo sentido:
+ ..
+6. A caraterização da revelia não induz a uma presunção absoluta de veracidade dos fatos narrados pelo autor, permitindo ao juiz que, para formar o seu convencimento, analise as alegações formuladas pelas partes em confronto com as provas constantes dos autos (AgRg no REsp 1342255/5P, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 11/3/2016).
+ ..
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.074.010/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Portanto, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido de toda forma, em razão da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
