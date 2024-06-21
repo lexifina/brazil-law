@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLAUS BORK contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, no julgamento da apelação criminal n. 59522-66.2012.4.02.5101/RJ.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 5ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro, que julgou procedente a pretensão punitiva estatal e o condenou às penas de 11 anos e 07 meses de reclusão e 826 dias-multa, no valor de 1/30 do salário mínimo vigente à época dos fatos, pela prática dos crimes do art. 35, c/c art. 40, I, ambos da Lei 11.343/2006, e art. 1º, I, da Lei 9.613/1998, em concurso material, nos termos da sentença de fls. 277-316.
+A defesa interpôs apelação criminal ao Tribunal Regional Federal da 2ª, que negou provimento ao recurso conforme o acórdão de fls. 326-346.
+Interposto recurso especial, foi inadmitido na origem (fls. 126-133). Aviado agravo em recurso especial, tombado no Superior Tribunal de Justiça como AREsp n. 2.152.982 - RJ, não foi conhecido, assim como ao respectivo agravo regimental foi negado provimento (fls. 293-296, AREsp n. 2.152.982 - RJ), com trânsito em julgado em 27/10/2022.
+No presente habeas corpus, a defesa objetiva a concessão da ordem para afastar a exasperação da pena na primeira e na terceira etapa da dosimetria.
+Informações prestadas (fls. 323-325 e 326-360).
+O Ministério Público Federal opinou pelo não conhecimento (fls. 364-367).
+É o relatório. DECIDO.
+A controvérsia dos autos gira em torno de possível ilegalidade flagrante, consistente na exasperação da pena do artigo 35, da Lei 11.343/2006, na primeira e na terceira fase da dosimetria, a partir de fundamentação inidônea.
+Para uma melhor compreensão, transcrevo as ra zões de decidir da decisão colegiada impugnada (fls. 326-346):
+ ..
+Com relação à dosimetria das penas também nada há o que reformar na sentença, muito embora eu lamente que o MPF não tenha recorrido para aumentar a pena do crime de associação para o tráfico de drogas, o que não pode ser realizado neste feito em razão do princípio ne reformatio in pejus (evento 390, fls. 32/36 dos autos originários):
+"Do crime do artigo 35 da Lei n.º 11.343/2006
+Na primeira fase de individualização da pena, observo que o réu é primário e não registra maus antecedentes. Não há informações relevantes sobre a sua personalidade. Sobre a sua conduta social, as provas coligidas ao longo de cerca de um ano de operação policial evidenciam que o réu não tem ocupação ou fonte de renda lícitas e sobrevive à custa do crime; assim, elevo a pena-base em mais 10 (dez) meses. O propósito final do delito era auferir lucro com o comércio ilegal da droga por meio de uma organização eficiente dos agentes criminosos, o que reputo já contemplado na escala penal e, por isso, insuscetível de ser novamente valorado na fixação da pena-base. As circunstâncias do crime são particularmente graves, considerando-se o elevado número de pessoas implicadas na associação e a natureza da droga que era frequentemente considerada nos planos dos agentes criminosos, ou seja, a cocaína, cujo potencial de adição e de prejuízo à saúde é especialmente elevado; por esse motivo, elevo a pena base em mais 10 (dez) meses. Embora os diálogos façam menção a operações de traficância bem sucedidas e a já condenada MARIA DASGRAÇAS DAMASCENO tenha confessado o transporte de drogas para a Europa, não existem provas suficientemente claras para aferiras consequências do crime de associação para o tráfico. Por fim, o comportamento da vítima, no caso, não oferece relevância para a individualização da pena-base, que, portanto, consolida-se em 04 (quatro) anos e 08 (oito) meses de reclusão.
+Na segunda fase de individualização da pena, não existem atenuantes a serem consideradas. Todavia, uma vez que ficou comprovado que o réu era a figura central do organismo criminoso, coordenando toda a atividade de traficância, reconheço a agravante prevista no art. 62, I, do Código Penal, de modo que a pena deve ser majorada em 06 (seis) meses. Por essa razão, a pena intermédia resulta em 05 (cinco) anos e 02 (dois) meses de reclusão.
+Na terceira e última fase de individualização da pena, incide a causa de aumento prevista no artigo 40, inciso I, da Lei nº 11.343/2006, uma vez que está sobejamente provado que os réu formou uma associação criminosa dedicada ao tráfico transnacional de drogas. Considerando que a proporção de aumento a ser aplicada deve ser ponderada em razão da intensidade da circunstância considerada - e não da cumulação de circunstâncias arroladas no citado artigo 40 - e considerando, ainda, o destino transoceânico e pluricontinental (e.g., Brasil, Paraguai, Dinamarca, França e Tanzânia) dos crimes planejados pela associação criminosa, elevo a pena intermédia na razão da metade; com isso, a pena privativa de liberdade de CLAUSBORK consolida-se em 07 (sete) anos e 09 (nove) meses de reclusão.
+ ..
+Ante o exposto, voto no sentido de NEGAR PROVIMENTO ao recurso do réu.
+ ..
+O presente habeas corpus investe contra acórdão do Tribunal Regional Federal da 2ª Região com trânsito em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019)
+De todo modo, não verifico no acórdão impugnado nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
