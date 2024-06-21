@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GEAP AUTOGESTAO EM SAUDE, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer ajuizada por M B L C em face da agravante, visando a cobertura de órtese craniana para correção de plagiocefalia grave, evitando futura neurocirurgia.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PROCEDÊNCIA. IRRESIGNAÇÃO. PRELIMINARES. REJEIÇÃO. MÉRITO. PLANO DE SAÚDE. AUTOGESTÃO. PACIENTE PORTADORA DE PLAGIOCEFALIA GRAVE. NECESSIDADEDE ÓRTESE CRANIANA PARA EVITAR NEUROCIRURGIA DE REMODELAMENTO CRANIANO. PREVISÃO CONTRATUAL DE COBERTURA PARA A ENFERMIDADE. IMPOSSIBILIDADEDE EXCLUSÃO DO TRATAMENTO MÉDICO PRESCRITO. ABUSIVIDADE CONFIGURADA. MANUTENÇÃO DA SENTENÇA. PRECEDENTES DO TJPB. DESPROVIMENTO.
+Preliminarmente, registre-se que não houve irregularidade no julgamento antecipado da lide, qualquer ofensa ao contraditório e à ampla defesa e/ou cerceamento de defesa, considerando que, com base no princípio do livre convencimento motivado, o juízo sentenciante é o destinatário da prova e, como tal, considerou que a ação estava devidamente instruída e apta para julgamento. Rejeição.
+Noutro ponto, observa-se que o magistrado fundamentou suficientemente sua decisão, a qual não se afastou do ponto central em discussão, que consiste na previsão contratual de cobertura da enfermidade e respectivo tratamento, prescrito pelo médico atendente.
+No mérito, verifica-se que a paciente é portadora de plagiocefalia grave, necessitando urgentemente de órtese craniana, por ser o tratamento menos invasivo e comprovadamente eficaz, evitando, comisso, que a criança se submeta a uma neurocirurgia de remodelação craniana de alto risco, considerando o índice de mortalidade.
+Nesse contexto, o STJ entende que o plano de saúde pode estabeleceras doenças que terão cobertura, mas não o tipo de tratamento a ser utilizado. Além disso, considera-se abusiva a cláusula que exclui o tratamento essencial para garantir a saúde do paciente.
+Portanto, evidenciada a necessidade e a indicação médica da órtese craniana objeto da demanda, e, ainda, não sendo afastada pela apelante a obrigação contratual em cobrir o procedimento cirúrgico por ela substituído, impõe-se a manutenção da sentença. Desprovimento do recurso.
+Decisão de admissibilidade do TJ/PB: inadmitiu o recurso especial em razão da incidência da Súmula 83/STJ quanto à obrigatoriedade de cobertura de órtese no tratamento de plagiocefalia.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que o rol da ANS é de natureza taxativa, tendo sido superada qualquer divergência jurisprudência a partir da edição da Lei 14.454/22.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do referido óbice, tendo em vista que não demonstrou que outra era a jurisprudência do STJ a respeito da cobertura da órtese craniana no tratamento da plagiocefalia.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
