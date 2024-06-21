@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FLAVIO DIAS DE ALMEIDA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de homicídio qualificado, no qual foi pronunciado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que conheceu parcialmente do writ e na parte conhecida, denegou a ordem, em acórdão de fls. 680-699.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado: a) fundamentação inidônea do decreto prisional, baseado na gravidade abstrata do crime; b) ausência dos requisitos autorizadores do art. 312 do CPP, em especial diante da apresentação espontânea do recorrente e do encerramento da instrução processual na primeira fase do rito especial do Tribunal do Júri; c) que possui condições pessoais favoráveis; d) a possibilidade e a suficiência das medidas cautelares diversas da prisão; e e) ausência de contemporaneidade do decreto preventivo.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de liminar ideferido às fls. 748-749.
+Informações prestadas às fls. 754-763.O Ministério Público Federal, às fls. 766-768, manifestou-se pelo "não conhecimento do presente recurso ordinário em habeas corpus" em parecer não ementado.
+É o relatório. DECIDO.
+No que tange as alegações de ausência de contemporaneidade da prisão cautelar, verifica-se que o Tribunal de origem não se manifestou sobre a matéria, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema, os seguintes precedentes:(AgRg no HC n. 851.663/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 27/10/2023); (AgRg no HC n. 842.500/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 27/10/2023); (AgRg no HC n. 836.856/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/10/2023.)(AgRg no RHC n. 167.227/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022), (AgRg no RHC n. 167.215/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+No que se refere às impugnações quanto aos fundamentos e requisitos do decreto preventivo, condições pessoais favoráveis do recorrente e relativa à possibilidade e à suficiência das medidas cautelares diversas da prisão, verifica-se que constituem mera reiteração de pedidos explicitados no RHC nº 175476 / BA , julgado em 10/10/2023.Ademais, o próprio acórdão impugnado deixou de apreciar tal matéria em razão de tratar-se de mera reiteração de pedidos.
+Sob tal contexto, torna-se inviável o conhecimento do Recurso em habeas corpus no qual se reitera o pleito já analisado em outro processo. Ilustrativamente: (AgRg no HC n. 782.252/MT, minha relatoria, Quinta Turma DJe de 3/3/2023); (AgRg no HC n. 772.550/SP, relator Ministro João batista Moreira (Desembargador Convocado do TRF1), Quinta turma, DJe de 13/2/2023).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
