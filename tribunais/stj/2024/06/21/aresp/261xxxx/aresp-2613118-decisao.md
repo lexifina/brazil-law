@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por CLARO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 640):
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - Acidente de trânsito - Insurgência contra a decisão que indeferiu o pedido da requerida agravante de denunciação da lide à empresa Globallvox e seu preposto - Não cabimento - Situação que não se amolda àquela prevista no art. 125 do CPC - Negado provimento.
+Sem embargos de declaração.
+No recurso especial, a recorrente alega violação do art. 125, II, do CPC.
+Sustenta, em síntese, que "o v. acórdão merece reforma, afinal o artigo 125, II, do Código de Processo Civil é claro ao permitir a denunciação à lide daquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda" (fl. 653).
+Aduz, ainda, que, "no caso dos autos, nos termos do contrato acostado às fls. 508/522, é incontroversa a existência de vínculo jurídico entre a Recorrente e a empresa GLOBALLVOX, sendo inequívoca, ainda, a responsabilidade contratual de ressarcimento, conforme cláusulas transcritas no agravo de instrumento. De igual forma, a narrativa inicial indica que o Sr. José Antônio (na qualidade de funcionário da empresa GLOBALLVOX) teria sido o causador do acidente e, via de consequência, o mesmo tem a responsabilidade legal de ressarcir qualquer dano que possa recair sobre a Recorrente. Logo, forçoso concluir que se mostra cabível a denunciação da lide" (fl. 654).
+Foram oferecidas contrarrazões ao recurso especial (fls. 663-668).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 669-670), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 693-696).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A recorrente alega que, ao indeferir o pedido de denunciação da lide da empresa GLOBALLVOX, o Tribunal de origem violou o art. 125, II, do CPC, que dispõe "é admissível a denunciação da lide, promovida por qualquer das partes àquele que estiver obrigado, por lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo de quem for vencido no processo".
+A irresignação não merece prosperar.
+Nos termos da jurisprudência do STJ, o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida (CPC/2015, art. 125, caput e § 1º)" - (AgInt no AREsp n. 1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+No mesmo sentido, cito os seguintes precedentes:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ACIDENTE AÉREO. RESPONSABILIDADE CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. CÓDIGO BRASILEIRO DE AERONÁUTICA. EXPLORADORES DA AERONAVE. POSSIBILIDADE DE EXTENSÃO. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO. IMPOSSIBILIDADE. DENUNCIAÇÃO DA LIDE. FACULTATIVIDADE.
+1. Ação ajuizada em 26/05/2015, recursos especiais interpostos em 20/10/2017 e 24/10/2017, e atribuído a este gabinete em 20/11/2018.
+2. O propósito recursal consiste em determinar a responsabilidade civil dos recorrentes em razão da responsabilização dos recorrentes pelos prejuízos causados pelo acidente aéreo ocorrido em Santos/SP em 13/08/2014. Além disso, discute-se a necessidade de denunciação da lide das empresas que - na alegação dos recorrentes - seriam os verdadeiros responsáveis pelos danos causados pelo acidente aéreo.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Na hipótese, é impossível reavaliar a conclusão do Tribunal de origem, segundo a qual os recorrentes seriam exploradores da aeronave envolvida no acidente, por implicar a necessidade de reexame do acervo fático-probatório dos autos, o que é vedado nos termos da Súmula 7/STJ.
+5. A "exploração" é um termo técnico próprio de direito aeronáutico, o qual indica a utilização legítima, por conta própria, de aeronave, com ou sem fins lucrativos, e o rol do art. 123 do CBA não contém todas as possibilidades de exploração de uma aeronave.
+6. Afastada a obrigatoriedade da ocorrência da denunciação da lide, não há qualquer violação ao art. 125, II, do CPC/2015 no julgamento do Tribunal de origem.
+7. Recursos especiais de JOÃO CARLOS LYRA PESSOA DE MELLO FILHO e de APOLO SANTANA VIEIRA parcialmente conhecidos e, nessa parte, não providos.
+(REsp n. 1.804.233/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/3/2020, DJe de 12/3/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. OCORRÊNCIA DE MORTE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. DENUNCIAÇÃO DA LIDE. NÃO CABIMENTO. CERCEAMENTO DE DEFESA. TESE NÃO ACOLHIDA. RESPONSABILIDADE CIVIL. DANO MORAL CARACTERIZADO. CORREÇÃO MONETÁRIA. SÚMULA 362/STJ. SÚMULA 83/STJ. TERMO INICIAL. MATÉRIA DE ORDEM PÚBLICA. INEXISTÊNCIA DE REFORMATIO IN PEJUS. VALOR DE INDENIZAÇÃO. REVISÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A jurisprudência do Superior Tribunal de Justiça tem entendimento que "o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida (CPC/2015, art. 125, caput, e § 1º)" - (AgInt no AREsp n. 1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021).
+3. Esta Corte Superior tem entendimento pacífico, inclusive objeto da Súmula n. 362/STJ, no sentido de que deve ser observada a data do arbitramento do quantum indenizatório.
+4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência deste Superior Tribunal, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+5. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível devido à natureza excepcional da via eleita, segundo enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+6. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso 7. Agravo interno desprovido.
+(AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.)
+Dessa forma, afastada a obrigatoriedade da ocorrência da denunciação da lide, não há violação do art. 125, II, do CPC/2015 no julgamento do Tribunal de origem.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO DA LIDE. NÃO CABIMENTO. INCIDENTE PROCESSUAL FACULTATIVO. ART. 125, II, DO CPC NÃO VIOLADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
