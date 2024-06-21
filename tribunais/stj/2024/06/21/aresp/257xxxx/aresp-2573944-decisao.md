@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por GILBERTO ALELUIA DOS SANTOS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO - Ação de Obrigação de Fazer - Plano de Saúde Fase de Cumprimento de Sentença - Sentença que julgou extinta a execução - Inconformismo do exequente, alegando que restou comprovado o descumprimento da obrigação de sua manutenção na mesma cobertura de plano de saúde ofertada pela sua ex-empregadora à época em que integrava seu quadro de funcionários, conforme reconhecido na fase de conhecimento, que sua inclusão no produto 582 ao invés do produto 425 é indevida por violar o título judicial objeto da execução, termina por requerer que no cálculo da verba honorária advocatícia, não seja considerado o valor das astreintes objeto da execução -Cabimento parcial - Ainda que se reconheça que o autor foi incluído em modalidade diversa de plano de saúde (produto 582), é certo que o título judicial objeto do presente cumprimento de sentença determina a manutenção do autor e seus dependentes das mesmas condições de cobertura que eram disponibilizadas pela ex-empregadora do exequente à época em que ele integrava o quadro de funcionários ativos, o que torna descabida sua pretensão - Hipótese em que não há se falar em descumprimento do título judicial em razão da inexistência de prejuízo na cobertura que é disponibilizada aos beneficiários - Ausência de abusividade no custeio, uma vez que o próprio exequente admite  nas razões recursais que o valor do prêmio foi reduzido --Sentença que, todavia, deve ser reformada para adequar a verba honorária advocatícia para patamar mais razoável e proporcional ao objeto do cumprimento de sentença, não havendo se considerar o valor da multa cominatória para o cálculo dos honorários, uma vez que as astreintes, por sua natureza processual, de cunho inibitório, intimidatório e coercitivo, não integram o valor da condenação, razão pela qual não se inserem na base de cálculo da verba honorária - Recurso parcialmente provido. " (e-STJ fl. 3.229).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 3.288/3.293).
+No recurso especial, o recorrente alega violação do art. 502 do Código de Processo Civil, pois ele "(..) e seus dependentes foram incluídos em modalidade diversa de plano de saúde, o que infringe diretamente a decisão proferida anteriormente, transitada em julgado, de que deveriam ser mantidos no mesmo plano, mesmo contrato inclusive" (e-STJ fl. 3.306).
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+A despeito de o alegado pelo agravante, o Tribunal estadual assim fundamentou seu julgado:
+"(..)
+Ao contrário do que se alega nas razões recursais, ainda que se reconheça que o autor foi incluído em modalidade diversa de plano de saúde (produto 582), é certo que o título judicial objeto do presente cumprimento de sentença determina a manutenção do autor e seus dependentes das mesmas condições de cobertura que eram disponibilizadas pela ex-empregadora do exequente à época em que o exequente integrava o quadro de funcionários ativos, o que toma descabida a pretensão do exequente.
+Com efeito, não há se falar em descumprimento do título judicial em razão da inexistência de prejuízo na cobertura que é disponibilizada aos beneficiários." (e-STJ fl. 3.231-grifou-se).
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelo ora recorrente, devem ser majorados para R$ 2.750,00 (dois mil setecentos e cinquenta reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
