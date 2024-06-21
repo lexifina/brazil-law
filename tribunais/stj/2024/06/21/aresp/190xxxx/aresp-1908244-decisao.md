@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interp osto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 489 do CPC/2015 e falta de demonstração de ofensa aos demais artigos arrolados (e-STJ fls. 1.990/1.991).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.928):
+Recuperação judicial - Impugnação de crédito julgada extinta sem resolução do mérito - Interesse de agir presente, dada a necessidade de pronunciamento judicial - Decreto de extinção afastado - Pretendida discussão acerca de encargos contratuais tidos por abusivos - O procedimento de verificação de créditos, no entanto, ostenta clara natureza declaratória, remetendo às matérias especificadas nos arts. 8º da Lei 11.101/2005 e 956 do CC/2002, e não se destina a uma recomposição de relações contratuais, sendo incompatível com uma pretensão de revisão de cláusulas e reconhecimento de abusividades - Necessidade de ajuizamento de demanda autônoma - Improcedência decretada - Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 1.945/1.961), interposto com fundamento no art. 105, III, "a", da CF, as recorrentes apontaram ofensa aos arts.8º, 13, 14, 15 e 189 da Lei n. 11.101/2005 e 1º, 3º, caput, 4º, 6º, 7º, 8º e 489, § 1º, IV, do CPC/2015. Alegaram que o acórdão recorrido negou a possibilidade de discussão ampla em incidente de impugnação de crédito habilitado na recuperação judicial. Sustentaram que, na impugnação de crédito, os sujeitos ativos podem discutir "a ausência, legitimidade, importância ou classificação de crédito que lhe foram atribuídos, em sentido amplo, sendo instruída a petição com todos os documentos e provas necessárias para seu pleito, objetivando a busca da verdade real" (e-STJ fl. 1.954). A seu ver, não se trata de mero incidente, mas de um processo incidental com ampla admissibilidade probatória.
+Contrarrazões às fls. 1.967/1.973 e 1.977/1.985 (e-STJ).
+No agravo (e-STJ fls. 1.994/2.014), declaram a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 2.017/2.026).
+É o relatório.
+Decido.
+Os arts. 13, 14, 15 e 189 da Lei n. 11.101/2005 e 1º, 3º, 4º, 6º, 7º, 8º e 489 do CPC/2015 não foram examinados pela Corte de origem. Tampouco foram opostos embargos de declaração com o fim de provocar uma manifestação do Colegiado local. Assim, ausente o necessário prequestionamento, incide a Súmula n. 282/STF.
+Nada obstante, em relação à apontada ofensa ao art. 8º da Lei n. 11.101/2005, assiste razão às recorrentes.
+Esta Corte tem entendido que o incidente de impugnação ao cumprimento de sentença tem cognição exauriente, possibilitando o pleno exercício do contraditório e da ampla defesa, podendo inclusive ser discutida a abusividade de cláusulas contratuais. Confira-se:
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. INCIDENTE DE IMPUGNAÇÃO DE CRÉDITO APRESENTADO PELO CREDOR. DISCUSSÃO ACERCA DA IMPORTÂNCIA DO CRÉDITO RELACIONADO. ACRÉSCIMO DE ENCARGOS MORATÓRIOS PREVISTOS EM CONTRATOS DE FINANCIAMENTO. ALEGAÇÃO DE ABUSIVIDADES EM CLÁUSULAS DESSES CONTRATOS. MATÉRIA DE DEFESA. POSSIBILIDADE. COGNIÇÃO EXAURIENTE. PROCEDIMENTO ORDINÁRIO. IMPOSSIBILIDADE DE SE RESTRINGIR O EXERCÍCIO DA AMPLA DEFESA.
+1. Controvérsia em torno da possibilidade de exame, em sede de impugnação de crédito incidente à recuperação judicial, acerca da existência de abusividade em cláusulas dos contratos de que se originou o crédito impugnado, alegada pela recuperanda como matéria de defesa.
+2, O incidente de impugnação de crédito configura procedimento de cognição exauriente, possibilitando o pleno contraditório e a ampla instrução probatória, em rito semelhante ao ordinário. Inteligência dos arts. 13 e 15 da Lei n. 11.101/05.
+3. Apesar de, no incidente de impugnação de crédito, apenas poderem ser arguidas as matérias elencadas no art. 8º da Lei n. 11.101/05, não há restrição ao exercício do amplo direito de defesa, que apenas se verifica em exceções expressamente previstas no ordenamento jurídico.
+4. Tendo sido apresentada impugnação de crédito acerca de matéria passível de discussão no incidente, a defesa não encontra restrições, estando autorizada inclusive a defesa material indireta, sendo despiciendo o ajuizamento de ação autônoma.
+5. Possibilidade de se alegar, como defesa à pretensão do credor de serem acrescidos encargos moratórios ao crédito relacionado, a abusividade das cláusulas dos contratos de financiamento.
+6. Doutrina e jurisprudência do STJ acerca do tema.
+7. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.799.932/PR, relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 1/9/2020, DJe de 9/9/2020.)
+No mesmo sentido, decisão do eminente Ministro RAUL ARAÚJO, proferida no Ag n. 1.241.560/GO, j. 26/5/2017, DJe de 05/06/2017, no qual também se afirma a possibilidade de exame da abusividade de cláusulas contratuais como matéria de defesa em impugnação de crédito. Confira-se:
+Na hipótese, o BANCO DO BRASIL S/A requereu a habilitação do crédito de R$13.244.630,86 (treze milhões, duzentos e quarenta e quatro mil, seiscentos e trinta reais e oitenta e seis centavos) na falência da ENCOL S/A. Por sua vez, a Massa Falida ofertou impugnação, alegando a ilegalidade da cobrança de juros remuneratórios e moratórios acima da taxa legal, comissão de permanência e anatocismo.
+Uma vez expressamente atacado o crédito quanto à validade das cláusulas pactuadas, era lícito enfrentar os argumentos da defesa, não havendo que se falar em julgamento extra petita.
+Portanto, o acórdão recorrido destoa da jurisprudência desta Corte, devendo ser reformado.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos à origem para exame integral das razões expostas na impugnação de crédito apresentada pelas agravantes.
+Publique-se e intimem-se.
+EMENTA
