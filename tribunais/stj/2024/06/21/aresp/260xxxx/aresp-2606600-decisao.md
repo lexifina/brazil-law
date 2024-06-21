@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DO RIO GRANDE DO SUL, contra decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"MANDADO DE SEGURANÇACOLETIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO DE RISCO DE VIDA. MUDANÇA DA BASE DE CÁLCULO. PRÉVIO CONTRADITÓRIO. DECADÊNCIA. SEGURANÇA JURÍDICA. IRREDUTIBILIDADE.
+1. O mandado de segurança não admite o pagamento de parcelas anteriores a impetração, por não ser substitutivo de ação de cobrança. Súmulas nº 269 e 271 do STF, e art. 14, § 4º, da Lei nº 12.016/09.
+2. A modificação da base de cálculo da gratificação de risco de vida, a fim de incidir somente sobre o vencimento básico, exige a instauração de prévio contraditório. A despeito do poder de autotutela da Administração, a anulação de atos que repercutam na esfera de interesse do administrado deve ser precedida de procedimento administrativo com respeito ao contraditório e à ampla defesa.
+3. A percepção de vantagens calculadas de forma contrária à Constituição Federal, como no caso, em que há efeito cascata, impede o reconhecimento da decadência administrativa, ou a proteção à boa-fé e à segurança jurídica. Inaplicabilidade do art. 54 da Lei nº 9.784/99 ao Estado.
+4. A adequação da base de cálculo da gratificação de risco de vida, em atenção ao art. 37, XIV, da CF, deve obediência à irredutibilidade nominal da remuneração àqueles que percebiam a vantagem de forma ininterrupta anteriormente à vigência da EC nº 19/98.
+MANDADO DE SEGURANÇA PARCIALMENTE EXTINTO SEM RESOLUÇÃO DE MÉRITO. SEGURANÇA PARCIALMENTE CONCEDIDA." (e-STJ, fl. 249)
+Opostos embargos de declaração, os mesmos não foram acolhidos (e-STJ, fls. 578/582 e 500/504).
+Nas razões do recurso especial, a agravante alega violação ao art. 1.022, inciso I do Código de Processo Civil de 2015, sustentando, em síntese, que a decisão de origem foi contraditória ao determinar a necessidade de processo administrativo prévio à revisão da base de cálculo de vantagem por inconstitucionalidade da forma de cálculo e determinar a manutenção do pagamento da referida parcela considerada inconstitucional, sendo impossível compatibilizar a referida conclusão com a autoaplicabilidade de um dispositivo constitucional.
+Contrarrazões apresentadas às fls. 705/731.
+Juízo negativo de admissibilidade às fls. 738/757.
+Interposto agravo em recurso especial às fls. 897/906.
+É o relatório. Passo a decidir.
+No tocante a violação ao art. 1.022 do CPC/15, tem-se que a contradição que autoriza embargos de declaração é aquela interna ao julgado. Em outros termos: o que autoriza embargos de declaração para solver contradição é a contradição entre os fundamentos da decisão e a conclusão a que se chegou. A este respeito, é pacífica a orientação deste Superior Tribunal de Justiça.
+A propósito, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. INEXISTÊNCIA. PRETENSÃO DE REEXAME. EMBARGOS REJEITADOS.  ..  2. A contradição que enseja o acolhimento dos declaratórios é aquela interna no julgado que contém proposições inconciliáveis entre si, e não entre a decisão embargada e fato externo ou entre a tese defendida pela parte e a adotada em outros julgados.  ..  4. Embargos de Declaração rejeitados. (EDcl no AgInt na SLS n. 3.294/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 7/2/2024, DJe de 14/2/2024.)
+No caso em exame, o acórdão de origem que fora embargado encontra-se corretamente fundamentado ao afirmar que devem ser assegurados aos litigantes os princípios do contraditório e da ampla defesa em processo judicial ou administrativo, de modo que o ato que modificou a base de cálculo sem instaurar prévio procedimento administrativo é ilegal, in verbis:
+"Assim, a Constituição Federal, no art. 5º, inciso LV, assegura aos litigantes, em processo judicial ou administrativo, os princípios do contraditório e da ampla defesa, o que não foi respeitado pela Administração, deve ser estabelecido procedimento prévio que garanta a ampla defesa e o contraditório.
+(..)
+Neste contexto, inarredável a conclusão de que há ilegalidade no ato coator, ao determinar a modificação da base de cálculo da gratificação sem a instauração de prévio procedimento administrativo, assegurando-se as garantias constitucionais de defesa e oportunidade de contraditório." (e-STJ, fls. 259/261).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. REVISÃO DE BASE DE CÁLCULO. CONTRADITÓRIO E AMPLA DEFESA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CONTRADIÇÃO INTERNA. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
