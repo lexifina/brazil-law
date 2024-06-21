@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto por JOAO PEDROZA NETO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO - AÇÃO INDENIZATÓRIA - TELEFONIA - FALHA NA PRESTAÇÃO DE SERVIÇOS - DANOS MORAIS CARACTERIZADOS - "QUANTUM" INDENIZATÓRIO - Única matéria devolvida ao conhecimento deste Tribunal Indenização arbitrada em R$ 2.000,00 em Primeiro Grau - Majoração para R$ 5.000,00, valor que, diante das circunstâncias do caso, se mostra adequado para sanar de forma justa a lide, atendendo aos princípios da razoabilidade e proporcionalidade - Recurso provido.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, violação aos arts. 85, § 8º-A e 1.022 do CPC, alegando negativa de prestação jurisdicional, bem como que o Juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+De início, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+No mérito, o Tribunal de origem asseverou que, "levando-se em consideração o trabalho adicional realizado em grau recursal pelo patrono da parte vencedora, bem como os parâmetros estabelecidos pelo art. 85, § 2º, do Código de Processo Civil, notadamente o grau de zelo profissional, majoro os honorários advocatícios para 20% do valor da condenação".
+No julgamento dos embargos de declaração ficou consignado o seguinte:
+Não há razão para que os honorários de sucumbência sejam fixados por equidade, uma vez que o valor da condenação não é ínfimo, devendo-se seguir a regra geral do art. 85, § 2º, do Código de Processo Civil.
+A verba honorária foi fixada, portanto, em patamar condizente com os padrões de mercado, e não em valor irrisório.
+Assim, o entendimento do acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte, no sentido de que "o arbitramento dos honorários sucumbenciais, de acordo com a ordem de preferência estabelecida no § 2º do art. 85 do Código de Processo Civil, deve seguir os seguintes critérios objetivos: 1º) nas causas em que houver condenação, esse é o critério a ser utilizado pelo magistrado, observando o parâmetro legal entre 10% e 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, a verba sucumbencial deve ser arbitrada de acordo com o valor da causa" (AgInt no AREsp 2.237.789/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 29/5/2024).
+Registre-se, ainda, que "a Tabela organizada pelo Conselho Seccional da OAB possui natureza orientadora e não vinculativa, uma vez que o magistrado deverá fixar a verba honorária consoante os critérios de apuração da complexidade do trabalho desenvolvido pelo profissional e do valor econômico da questão" (AgRg no AREsp 677.388/PB, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/11/2015).
+Assim, aplica-se o entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+ EMENTA
