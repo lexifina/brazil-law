@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por GILSON TOZZI BELMONT e CLEIA CANDIDA RODRIGUES BELMON T, contra acórdão da Primeira Câmara de Direito Privado do TJMT, assim ementado (e-STJ fls. 405/406):
+APELAÇÃO CÍVEL E RECURSO ADESIVO - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - APROVAÇÃO DE CRÉDITO PARA CONSTRUÇÃO DEVIDAMENTE COMPROVADA NOS AUTOS - POSTERIOR NEGATIVA DA INSTITUIÇÃO FINANCEIRA - FALHA NA PRESTAÇÃO DO SERVIÇO  DANO MORAL E MATERIAL CONFIGURADO  LUCROS CESSANTES - INDEVIDO - REDUÇÃO DO DANO MORAL - RAZOABILIDADE E PROPORCIONALIDADE  RECURSO DO BANCO SANTANDER BRASIL S.A. PROVIDO EM PARTE E DESPROVIDO O RECURSO INTERPOSTO POR GILSON TOZZI BELMONT E OUTROS.
+"A conduta da Instituição financeira em recusar-se a liberar financiamento, que fora previamente autorizado por ela, caracteriza falha na prestação do serviço, e causa ao consumidor dano moral puro, em razão da quebra da relação de confiança entre as partes e a frustração da expectativa gerada quanto à concretização do financiamento.
+Responsabilidade Objetiva Caracterizada. Inteligência do artigo 14 do CDC" (TJPB - ACÓRDÃO/DECISÃO do Processo Nº 00019053620138150731, - Não possui -, Relator DES LEANDRO DOS SANTOS, j. em 31-08-2015).
+Comprovada nos autos a recusa por parte do banco, necessária a condenação do mesmo ao pagamento pelos danos materiais e morais suportados pela parte.
+A ausência de demonstração efetiva dos lucros cessantes, ou seja, meramente hipotéticos, acarreta no indeferimento do pedido.
+Constatada que a indenização por dano moral não é condizente com os elementos dos autos, deve ser reduzida em atenção aos princípios da razoabilidade e proporcionalidade.
+Os embargos de declaração foram rejeitados (e-STJ fls. 468/474).
+Nas razões do recurso especial (e-STJ fls. 479/498), fundamentado no art. 105, III, "a", da CF, os recorrentes apontaram violação dos seguintes dispositivos de lei:
+(a) arts. 489, II, § 1º, IV, e 1.022, I e II, § 1º, II, do CPC/2015, caso se entenda que os demais artigos não estejam prequestionados. Explica que, apesar da oposição de embargos de declaração, o Tribunal de origem não esclareceu as questões arguidas, devendo "haver a expressa manifestação sobre a existência de duas proposições que são entre si inconciliáveis, qual sejam (i) ou havia a presunção de veracidade dos fatos narrados na petição inicial decorrente dos efeitos da revelia; (ii) ou não havia essa presunção, hipótese em que deve ser perquirido se os Recorrentes se desvencilharam ou não do ônus da prova que a eles incumbia, e, também, sanada a omissão no sentido de que antes de reformar a r. sentença exarada pelo i. Juizo de piso sob o fundamento de que os Recorrentes, com relação ao pedido de indenização por danos materiais, na modalidade de lucros cessantes, não se desvencilharam do ônus da prova que lhes incumbia, o Eg. TJ/MT deveria, por força do princípio devolutivo inerente ao recurso de apelação, no aspecto profundidade, ter levando em consideração o fato de que o i. Juizo de piso indeferiu o pedido de produção de prova pericial ao fundamento se que se fazia desnecessária em razão da decretação da revelia e seus efeitos, fato que caracteriza cerceamento de defesa" (e-STJ fl. 497),
+(b) arts. 344 e 374, III e IV, do CPC/2015, pois, uma vez reconhecida a revelia e seus efeitos, não haveria falar que os recorrentes não se desvencilharam do ônus da prova, devendo o pedido de lucros cessantes ser julgado procedente, e
+(c) arts. 369 e 1.013, §§ 1º e 2º, do CPC/2015, porque teria havido cerceamento de defesa com o indeferimento da prova requerida e o julgamento de improcedência do pedido.
+Foram apresentadas contrarrazões (e-STJ fls. 542/549).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 553/555).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, qual seja, a ocorrência de cerceamento de defesa ante o indeferimento da prova r equerida especialmente em face do anterior reconhecimento dos efeitos da revelia e a posterior reversão do julgado com a conclusão de que o dano não foi comprovado.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
