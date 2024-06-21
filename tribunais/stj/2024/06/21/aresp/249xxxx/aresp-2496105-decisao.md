@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. (BRADESCO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 233/242).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BRADESCO alegou a violação dos arts. 537, 1.022, 1.036, 1.037 do CPC, ao sustentar que (1) o acórdão foi omisso; (2) o processo deveria ser suspenso em razão da afetação da matéria pelo STJ, sob o Tema nº 1.000; (3) a consequência da recusa de exibição de documentos não é a multa diária, mas sim a presunção de veracidade; (4) esse entendimento foi mantido pelo STJ, mesmo depois da vigência do CPC/15; (5) ficou caracterizada a existência de dissídio jurisprudencial.
+(1) Da omissão
+Nas razões do seu recurso, BRADESCO alegou a violação do art. 1.022, do CPC em virtude da omissão no tocante ao cabimento das astreintes em caso de exibição de contrato.
+Contudo, verifica-se que o Tribunal de Justiça do Rio Grande do Norte se pronunciou sobre os temas consignando que era cabível a multa diária na hipótese em tela, confira-se:
+No caso em exame, o valor de R$ 100,00 fixado a título de multa, limitada a R$ 5.000,00 como forma de compelir o banco a cumprir a decisão agravada mostra-se proporcional e razoável, sobretudo se consideramos o porte da instituição bancária. (e-STJ, fls. 88).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL. CULPA EXCLUSIVA DA VÍTIMA. REVISÃO. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. SÚMULA 7/STJ, TERMO INICIAL. JUROS DE MORA. SÚMULA 54/STJ. CORREÇÃO MONETÁRIA. SÚMULA 362/STJ. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da alegada culpa exclusiva da vítima e do direito à indenização por danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Na hipótese de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso (óbito), nos termos da Súmula 54 deste Tribunal.
+4. A correção monetária das importâncias fixadas a título de danos morais incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+5. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 1.983.815/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023, sem destaque no original.)
+Afasta-se, portanto, a alegada violação.
+(2) Do cabimento da multa diária
+Como emana dos autos, HENRIQUE LEITE DANTAS (HENRIQUE) propôs ação de caráter antecedente buscando a exibição de documentos relativos ao financiamento imobiliário celebrado entre as partes, por não se recordar de qualquer débito pendente.
+O juízo monocrático deferiu a tutela, determinando que o BRADESCO apresentasse o contrato de financiamento nº 000559165-1, bem como o extrato de pagamentos realizados e a informação acerca dos juros aplicados, no prazo de trinta dias, sob pena de multa diária de R$ 100,00, limitada a R$ 5.000,00.
+O Tribunal estadual manteve as astreintes, conforme trechos que ora se transcrevem:
+Acerca do valor da multa, nos ensina MARINONE que para cumprir sua finalidade intimidatória, a multa não pode ser imposta em valor que não seja suficiente para convencer o réu a adimplir, porque dependendo do valor estabelecido, pode ser "conveniente ao réu suportá-la para, livremente, praticar o a toque se deseja ver inibido".
+Contudo, também não pode ser tão excessiva a ponto de implicar enriquecimento injusto do devedor (REsp 793.491/RN, 4ª Turma, Rel. Min. César Asfor Rocha, DJe de 06/11/2006; REsp 1.060.293, 3ªTurma, Rel. Min. Nancy Andrighi, DJe 18/03/2010), ou seja, seu valor não pode tornar-se mais interessante que o próprio cumprimento da obrigação principal.
+No caso em exame, o valor de R$ 100,00 fixado a título de multa, limitada a R$ 5.000,00 como forma de compelir o banco a cumprir a decisão agravada mostra-se proporcional e razoável, sobretudo se consideramos o porte da instituição bancária. (e-STJ, fls. 88).
+No entanto, tal entendimento não deve prevalecer, pois a Segunda Seção, em julgamento de recurso repetitivo (Tema nº 1.00), fixou o entendimento de que a incidência de multa diária somente é possível após a tentativa de busca e apreensão ou outra medida coercitiva (ref. aos REsps nºs 1.763.462/MG, 1.777.553/SP, j. aos 26.01.2021, conforme tese firmada no seguinte sentido:
+Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015.
+No caso dos autos, observa-se que as instâncias ordinárias determinaram a exibição do contrato de financiamento imobiliário, bem como o extrato de pagamentos realizados e a informação acerca dos juros aplicados, com aplicação direta da multa diária, sem qualquer tentativa anterior de busca e apreensão ou outra medida coercitiva, o que não é possível, conforme precedente acima relacionado. Confira-se a ementa:
+RECURSO ESPECIAL REPETITIVO. TEMA 1000/STJ. PROCESSUAL CIVIL. CPC/2015. COMINAÇÃO DE ASTREINTES NA EXIBIÇÃO DE DOCUMENTOS REQUERIDA CONTRA A PARTE "EX ADVERSA". CABIMENTO NA VIGÊNCIA DO CPC/2015. NECESSIDADE DE PRÉVIO JUÍZO DE PROBABILIDADE E DE PRÉVIA TENTATIVA DE BUSCA E APREENSÃO OU OUTRA MEDIDA COERCITIVA. CASO CONCRETO. INSCRIÇÃO NEGATIVA EM CADASTRO DE INADIMPLENTES. PEDIDO AUTÔNOMO DE EXIBIÇÃO DO CONTRATO PERTINENTE À INSCRIÇÃO NEGATIVA. INDEFERIMENTO DA INICIAL PELO JUÍZO DE ORIGEM. APLICAÇÃO DA TEORIA DA CAUSA MADURA PELO TRIBUNAL DE ORIGEM. PROCEDÊNCIA DO PEDIDO DE EXIBIÇÃO COM COMINAÇÃO DE ASTREINTES. DESCABIMENTO. NECESSIDADE DE PRÉVIO JUÍZO DE PROBABILIDADE E DE PRÉVIA TENTATIVA DE BUSCA E APREENSÃO OU OUTRA MEDIDA COERCITIVA. ANULAÇÃO DA SENTENÇA E DO ACÓRDÃO RECORRIDO. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM.
+1. Delimitação da controvérsia: exibição incidental ou autônoma de documentos requerida contra a parte "ex adversa" em demanda de direito privado.
+2. Tese para os fins do art. 1.040 do CPC/2015: "Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015" (Tema 1000/STJ).
+3. Caso concreto:
+3.1. Controvérsia acerca da cominação de astreintes em ação autônoma de exibição ajuizada com o escopo de ter acesso ao contrato que teria dado origem a uma inscrição negativa em cadastro de inadimplentes.
+3.2. Indeferimento da petição inicial pelo juízo de origem, tendo o Tribunal de origem reformado a sentença e, aplicando a teoria da causa madura, julgado procedente o pedido de exibição, com cominação de astreintes.
+3.3. Descabimento da cominação de astreintes sem prévio juízo de probabilidade acerca da existência da relação jurídica e do documento, nos termos da tese firmada neste voto.
+3.4. Necessidade de prévia tentativa de busca e apreensão ou outra medida coercitiva, antes da cominação de astreintes.
+3.5. Desconstituição da sentença e do acórdão recorrido para que seja retomado o curso da ação de exibição de documentos para possibilitar a aplicação da tese consolidada neste voto, como se entender de direito.
+4. RECURSO ESPECIAL PROVIDO, EM PARTE.
+(REsp n. 1.777.553/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, julgado em 26/5/2021, DJe de 1/7/2021.)
+Nem se diga que o trânsito em julgado da ação principal teria o condão de tornar prejudicada a matéria em análise, pois a eficácia da referida decisão no tocante à execução da multa diária estava condicionada ao julgamento do presente recurso.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. FINANCIAMENTO IMOBILIÁRIO 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO NÃO CARACTERIZADA. 2. EXIBIÇÃO DE DOCUMENTO. COMINAÇÃO DIRETA DE MULTA DIÁRIA. DESCABIMENTO. NECESSIDADE DE PRÉVIO JUÍZO DE PROBABILIDADE E DE PRÉVIA TENTATIVA DE BUSCA E APREENSÃO OU OUTRA MEDIDA COERCITIVA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
