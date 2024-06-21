@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto por José Lindomar Coelho contra a decisão de fls. 807/809, por meio da qual não conheci do recurso especial.
+O agravante sustenta, em síntese, que, na espécie, há evidente desproporção entre os fatos tidos como ímprobos e as sanções aplicadas pelas instâncias de origem, o que enseja o afastamento da Súmula 7/STJ e, consequentemente, a readequação da dosimetria.
+Devidamente intimado, o Ministério Público do Estado de Minas Gerais pugnou pelo desprovimento do agravo interno (fls. 899/910).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Como consta da decisão agravada, a jurisprudência desta Corte é firme no sentido de que a revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa implica o reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula 7/STJ, salvo em hipóteses excepcionais, nas quais, da leitura do acórdão recorrido, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas. Nesse sentido, destacam-se os seguintes precedentes: AgInt no AREsp n. 2.305.017/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/4/2024; e AgInt no AREsp n. 1.194.387/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 29/2/2024.
+No caso em testilha, além da determinação de ressarcimento do dano causado ao erário (no montante de R$ 900,00 - novecentos reais), foram impostas ao agravante as seguintes sanções: (I) multa civil equivalente a uma vez o valor da remuneração do réu enquanto exercia a função de Assessor Jurídico municipal; (II) suspensão dos direitos políticos pelo prazo de 08 (oito) anos, a contar do trânsito em julgado.
+De se ver que foram desatendidos os vetores da proporcionalidade e da razoabilidade. Nessa compreensão, e tendo em mira, também, a diretriz dosimétrica estampada no art. 12 da LIA, é de rigor o decotamento da sanção de suspensão dos direitos políticos.
+ANTE O EXPOSTO, exerço o juízo de retratação facultado pelos arts. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ; reconsidero a decisão de fls. 807/809 , tornando-a sem efeito; e dou provimento ao recurso especial, em ordem a excluir, das sanções impostas ao recorrente, a suspensão de direitos políticos.
+Publique-se.
+EMENTA
