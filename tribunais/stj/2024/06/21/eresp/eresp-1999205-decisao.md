@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado da Paraíba cuja ementa é a seguinte:
+AÇÃO ANULATÓRIA DE DÉBITO FISCAL. LIMINAR DEFERIDA EM PARTE. IRRESIGNAÇÃO. ALEGAÇÃO DE PREENCHIMENTO DOS REQUISITOS LEGAIS. AUSÊNCIA DA SUSPENSÃO DO CRÉDITO TRIBUTÁRIO PREVISTA NO ART. 151 DO CTN. NECESSIDADE DO DEPÓSITO INTEGRAL EM DINHEIRO. INTELIGÊNCIA DA SÚMULA 112 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, IV, A DO CPC DE 2015. DESPROVIMENTO DO RECURSO.
+Os  embargos  de  declaração  opostos  foram  rejeitados.
+No  recurso  especial,  interposto  com  base  nas  alíneas  a  e  c  do  permissivo  constitucional,  a ora agravante sustenta violação ao artigo 7º, inciso I, da Lei n. 10.522/2002. Defende que deve ser determinado que o ente municipal se abstenha de incluir o nome da recorrente nos cadastros de inadimplentes.
+O  recurso  foi  admitido parcialmente  pelo  Tribunal  de  origem.
+É  o  relatório.  Passo  a  decidir.
+Verifica-se  que  a  recorrente  interpôs  agravo  em  recurso  especial,  pois  a  parte  dispositiva  da  decisão  proferida  pelo  Presidente  do  Tribunal  de  origem  concluiu  pela  admissibilidade  do  recurso  especial  "tão somente pelo permissivo do art. 105, III, "a" da CF".  Entretanto,  é  certo  que  o  Tribunal  de  origem,  ao  dar  seguimento  a  uma  das  insurgências  recursais,  admitiu  o  recurso  especial.  Incidência,  por  analogia,  das  Súmulas  292  e  528/STF.  No  mesmo  sentido:
+AGRAVO  INTERNO.  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ADMISSÃO  PARCIAL  DO  RECURSO  ESPECIAL  NA  ORIGEM.  INTERPOSIÇÃO  DE  AGRAVO  EM  RECURSO  ESPECIAL.  DESCABIMENTO.  INCIDÊNCIA  ANALÓGICA  DAS  SÚMULAS  292  E  528/STF.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  APLICAÇÃO  DO  ART.  1.021,  §  1º,  DO  CPC  E  DA  SÚMULA  182/STJ.  1.  Não  cabe  agravo  em  recurso  especial  contra  decisão  que  admite  apenas  parcialmente  o  recurso  especial  na  origem.  Incidência,  por  analogia,  das  Súmulas  292  e  528/STF.  2.  Nos  termos  do  art.  1.021,  §  1º,  do  Código  de  Processo  Civil/2015  e  da  Súmula  182/STJ,  é  inviável  o  agravo  interno  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada.  3.  Agravo  interno  a  que  se  nega  provimento.  (AgInt  no  REsp  n.  1.899.584/PB,  relatora  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  julgado  em  3/5/2021,  DJe  de  11/5/2021.).  Grifou-se.
+
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.  Intimem-se.
+EMENTA
+PROCESSUAL  CIVIL.  EXECUÇÃO FISCAL.  AGRAVO  EM  RECURSO  ESPECIAL.  FALTA  DE  INTERESSE  RECURSAL.  SÚMULAS  292  E  528/STF.  AGRAVO  EM  RECURSO  ESPECIAL  NÃO  CONHECIDO.
