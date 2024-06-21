@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 202300311665.
+Consta dos autos que o agravado foi absolvido, com base no que dispõe o artigo 386, VII, do Código de Processo Penal - CPP, da conduta insculpida no art. 157, § 2º, I e II, do Código Penal - CP (fl. 786).
+Recursos de apelação interpostos pela defesa e acusação, sendo o primeiro provido apenas para majorar a verba honorária em favor do defensor dativo e o segundo desprovido (fl. 790).
+Em sede de recurso especial (fls. 798/816), o parquet estadual apontou violação ao art. 157, § 2º, I, do CP, porque o TJ desconsiderou a existência de provas cabais, suficientes e capazes de ensejar a condenação do recorrido. Salientou que a vítima afirmou em seu depoimento judicial que a empreitada criminosa foi praticada com o emprego de arma de fogo, sendo desnecessária a apreensão da arma para realização de perícia e configuração da majorante. Reforçou o Enunciado Sumular n. 582 desta Corte que diz: "consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada".
+Em seguida, disse que a palavra da vítima tem especial valor nos delitos praticados na clandestinidade.
+Requer a condenação do recorrido.
+Contrarrazões de MARIO SANTOS SOARES (fls. 819/825).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 829/832).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 838/846).
+Contraminuta (fls. 848/855).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 880/884).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre o pleito condenatório, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE manteve a absolvição do recorrido nos seguintes termos do voto do relator:
+"Para melhor compreensão dos fatos, importante transcrever os depoimentos colhidos durante à instrução processual, os quais não dão a certeza acerca da materialidade e autoria da infração penal imputada pelo Ministério Público:
+A testemunha Eliene Correia (fls. 80) afirmou que (..) não estava em casa no, que um momento do fato, que o marido era alcoólatra e tinha bebido um pouco vizinho disse que reconheceria os agressores, mas depois disse que não, que o menor Charles foi a delegacia mas não os reconheceu (..).
+A testemunha Antônio Augusto (fls. 84) "(..) o que chamou atenção naquele dia foi o comportamento da vítima em estado de embriaguez, que não sabe porque foi (..)" Após chamado pra ser testemunha e disseram que o depoente viu tudo questionamentos do promotor, o mesmo aduz que não é inimigo da vítima, que só soube do assalto através de comentários na parte da tarde e que nem sequer sabia o que teria sido o objeto do roubo e que é comum ver a vítima embriagada"(..)
+A vítima Francisco de Freitas (fls. 100) afirmou que não focalizou a feição dos assaltantes e que no momento do roubo tinha bebido mas não estava que após o assalto o interrogado bebeu muito; que tem problema de embriagado, alcoolismo e depressão e faz o tratamento adequado (..)
+É sabido que a palavra da vítima em infrações penais deste possui elevado valor jaez probatório, e, no caso em análise, as declarações da vítima não trazem em si sequer indício da prática delituosa pelo acusado.
+Ressalte-se ainda que os outros réus descritos na denúncia foram absolvidos do delito em questão, conforme processos de nºs 200571020352 e 200871000885, ou seja, nada fora provado com relação a autoria acerca do referido roubo.
+Assim, a ausência de provas suficientes para imputar ao acusado o cometimento do crime, não permite aferir a sua participação no fato delituoso e, por conseguinte, não se deve atribuir ao mesmo a prática da infração penal.
+Importa ressaltar que, no processo penal, a condenação exige a certeza, o que não se verifica nos presentes autos.
+Por conseguinte, havendo mínima dúvida, a absolvição é o único caminho a perseguir.
+O princípio do in dubio pro reo, retirado a partir de interpretação conferida ao disposto no artigo 386, inciso VII, do Código de Processo Penal, impõe que, na existência de dúvida a respeito da autoria delitiva, a liberdade do acusado deve preponderar sobre a pretensão punitiva estatal.
+Tal princípio, previsto em nossa Constituição Federal, transfere à Acusação o ônus probatório em relação aos fatos imputados na representação. Portanto, faz-se mister que o Estado-acusação evidencie, com provas suficientes, ao Estado-Juiz, a culpa do acusado, o que, certamente, não restou consubstanciado nos presentes autos.
+Repise-se, para prolação de um decreto penal condenatório é indispensável prova robusta que dê certeza da existência do delito e seu autor. A íntima convicção da autoria deve sempre se apoiar em dados objetivos indiscutíveis. Caso contrário, transforma o princípio do livre convencimento em arbítrio. É princípio fundamental do Processo Penal, que o acusado somente deve ser condenado, quando o juízo, na forma legal, tenha estabelecido os fatos que fundamentam a sua autoria e culpabilidade, com completa certeza.
+Dessa forma, nenhuma pena pode ser aplicada sem a mais completa certeza da falta. Apena, disciplinar ou criminal, atinge a dignidade, a honra e a estima da pessoa, ferindo-a gravemente no plano moral, além de representar a perda de bens ou interesses materiais.
+Diante disso, claro está que não houve prova suficiente para a condenação e até em face do princípio do estado da inocência, predicado no artigo 5º, inciso LVII, da Constituição Federal, se a Acusação se propõe a provar o fato e finda a instrução paira "dúvida razoável" no espírito do julgador sobreo mesmo, não pode efetivamente haver condenação penal" (fls. 786/788).
+Extrai-se dos trechos acima que o Tribunal a quo concluiu inexistir provas suficientes para a condenação do ora recorrido, nem mesmo a vítima consignou indício da prática delituosa. Assim, de fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatóri o, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ. No mesmo sentido, citam-se precedentes (grifos nossos):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE FURTO. DESCLASSIFICAÇÃO DA CONDUTA. AUSÊNCIA DE VIOLÊNCIA E/OU GRAVE AMEAÇA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O crime tipificado no art. 157 do Código Penal diverge do descrito no art. 155 do Código Penal em razão do emprego de violência, física ou moral, dirigida contra o detentor da coisa, ou seja, contra pessoa.
+2. Na ação delitiva, as instâncias de origem, ao reconhecerem o crime de furto, concluíram que a violência foi direcionada exclusivamente contra a res.
+3. Rever o entendimento externado pela instância ordinária para reconhecer as elementares do crime de roubo implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula 7 desta Corte. Precedentes (AgRg no AREsp n. 332.612/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/12/2016).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.515.441/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS. VIOLAÇÃO DO ART. 59 DO CP. AUSÊNCIA. OFENSA A ARTIGOS DA CONSTITUIÇÃO. INVIABILIDADE EM RECURSO ESPECIAL. ARTS. 381, II E 564, IV, DO CPP. FALTA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO STF. AUTORIA E TENTATIVA. SÚMULA N. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. O aumento da pena-base em virtude das circunstâncias judiciais desfavoráveis do art. 59 do Código Penal depende de fundamentação concreta e específica que extrapole os elementos inerentes ao tipo penal. No caso concreto, o fato da vítima ter sido levada subjugada em seu próprio táxi, tendo, inclusive, de ter saltado do veículo em movimento para se salvar, confere maior gravidade à conduta e autoriza o aumento da pena basilar.
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no artigo 102 da Constituição Federal.
+3. O conteúdo dos arts. 381, II e 564, IV, do CPP não foi debatido pelo acórdão estadual, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento. Incidência dos enunciados ns. 282 e 356 do STF.
+4. As questões relacionadas à autoria e à tentativa não prescindem do revolvimento do conteúdo fático-probatório dos autos, providência inadmissível em recurso especial em razão do óbice da Súmula 7 do STJ.
+5. Agravo não provido.
+(AgRg no AREsp n. 2.248.148/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
