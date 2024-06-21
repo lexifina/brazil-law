@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Rodrigo dos Santos Borges, com condenação transitada em julgado no dia 8/11/2023 por  incurso no art. 129, § 13, do Código Penal, às penas de 1 ano e 2 meses de reclusão, em regime semiaberto (Processo n. 1504491-70.2022.8.26.0562, da 3ª Vara Criminal da comarca de Santos/SP).
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu a Revisão Criminal n. 2117769-58.2024.8.26.0000 (fls. 36/46).
+Alega-se, em síntese, nulidade decorrente da falta de intimação pessoal do paciente quanto aos termos do acórdão que julgou a apelação defensiva.
+Pede-se o deferimento de medida liminar a fim de determinar a expedição de contramandado de prisão em favor do réu. No mérito, requer-se a concessão da ordem para que seja desconstituída a coisa julgada para reabrir o prazo recursal à Instância Superior, com fulcro no art. 392, II, c/c o art. 564, III, "o", ambos do Código de Processo Penal (fl. 10).
+O acórdão ora hostilizado foi publicado no dia 12/6/2024.
+É o relatório.
+Segundo o entendimento do Superior Tribunal de Justiça, é incognoscível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem, como na espécie.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+De toda maneira, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Extrai-se do acórdão combatido que o paciente não respondeu ao processo preso, e foi assistido pela Defensoria Pública. Assim, o seu Defensor foi regularmente intimado da publicação do acórdão, conforme certidão de fls. 192 (fl. 39).
+Ora, consoante o art. 392 do CPP, a intimação pessoal somente é exigida para o réu preso e para ciência da sentença condenatória e não se estende a decisões de segunda instância. Por conseguinte, nos termos da jurisprudência desta Corte, se considera desnecessária a intimação pessoal do acusado a respeito do acórdão proferido em apelação, mesmo quando ocorre a reforma de sentença absolutória e quando o réu for assistido pela Defensoria Pública ou defensor dativo (AgRg no HC n. 663.502/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/6/2021, DJe 23/6/2021) - (AgRg no HC n. 883.882/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2024).
+Dito de outra forma, a jurisprudência desta Corte entende que não é obrigatório que o acusado seja intimado pessoalmente do acórdão que julgou a apelação, sendo suficiente a intimação da defesa, conforme ocorreu na hipótese dos autos (AgRg no HC n. 778.302/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/10/2023).
+Na mesma linha, ainda, o AgRg no HC n. 776.811/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/8/2023; AgRg no HC n. 779.819/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 9/6/2023; e o AgRg no AREsp n. 2.016.678/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/2/2023.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. DESVIRTUAMENTO DO USO DO WRIT. LESÃO CORPORAL NO ÂMBITO DOMÉSTICO E FAMILIAR. CONDENAÇÃO TRANSITADA EM JULGADO. ALEGAÇÃO DE NULIDADE. FALTA DE INTIMAÇÃO PESSOAL DO RÉU DO ACÓRDÃO DA APELAÇÃO. DESNECESSIDADE . INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
