@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - CESSÃO DE DIREITO DE USO DE PONTOS COMERCIAIS - RESILIÇÃO CONTRATUAL DECLARADA EM SENTENÇA ONDE O APELANTE RESTOU CONDENADO A DEVOLVER OS VALORES DESPENDIDOS PELOS AUTORES APELADOS - HIGIDEZ - AUSÊNCIA DE QUALQUER COMPROVAÇÃO DE QUE A APELANTE SE DESCINCUMBIU DE SUA OBRIGAÇÃO CONTRATUAL - TESE DE QUE HOUVE LOCAÇÃO DOS ESPAÇOS OU MESMO A DESISTÊNCIA DOS APELADOS INCOMPROVADA - DANOS MATERIAIS MANTIDOS - NECESSIDADE DE SE AFASTAR O ENRIQUECIMENTO SEM CAUSA DA APELANTE - RECURSO DESPROVIDO - SENTENÇA MANTIDA"
+Opostos embargos de declaração, foram rejeitados.
+Em seu recurso especial, o agravante alega violação aos arts.141, 320, 434, 492, 1.022 e 1.025 do Código de Processo Civil e arts. 457 e 844 do Código Civil, sustentando a ocorrência de decisão extra petita, uma vez que, apesar de ter sido decretada a resilição contratual, não houve pedido nesse sentido.
+Aponta, ainda, que a parte agravada não logrou demonstrar seu direito, pois não apresentou prova robusta para comprovação do que pleiteado, não havendo que se falar em descumprimento contratual.
+Por fim, requer seja redefinido os ônus sucumbenciais, tendo em vista que na sentença houve reconhecimento de sucumbência recíproca e no acórdão houve majoração dos honorários recursais, de modo que deveria ser readequado o percentual previsto.
+C  ontrarrazões às fls. 244/255 e-STJ.
+Juízo de admissibilidade proferido às fls. 260/264 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao apreciar a controvérsia, com base no acervo probatório dos autos, concluiu pela existência de dano material indenizável pelo descumprimento contratual, nos seguintes termos:
+"Pois bem. Reputo que a Sentença deve permanecer incólume. Os autores/apelados lograram êxito em comprovar que despenderam a quantia objeto de reembolso acertadamente fixada em Sentença consoante os recibos acostados desde a atrial (ID nº 17803293 a ID nº 17803296).
+Outrossim, malgrado a inexistência de contrato escrito entre as partes, os recibos dados em quitação deixam absolutamente claro que o negócio jurídico subjacente correspondia à cessão de direito de uso de determinados pontos comerciais do empreendimento Agamenon Mega Polo.
+Impende destacar também que a documentação em referência sequer restou impugnada especificamente pela apelante, insuflando claro, portanto, que a apelante recebeu as quantias em questão.
+Neste cenário, como bem ventilado em Sentença, caberia à apelante demonstrar o fato, impeditivo, modificativo ou extintivo do direito dos autores apelados tangenciando a inexistência do dever de indenizar, pois o contrato de cessão de uso oneroso celebrado entre as partes, ainda que celebrado verbalmente, é indisfarçadamente sinalgamático, desafiando prova de que o apelante cumpriu positivamente sua prestação correspondente. Sucede que o recorrente não comprovou o cumprimento do pacto firmado.
+Aliás, pelo contrário, vê-se que o próprio apelo tergiversa sobre a questão, ora deduzindo que o contrato celebrado seria de locação, ora sustentando que os apelados desistiram do negócio jurídico sem produzir qualquer prova neste sentido.
+E aqui, cabe destacar que seria fácil ao apelado comprovar suas teses defensivas. Estamos diante de uma pessoa jurídica estruturada legalmente no ramo empresarial de incorporação de imóveis, administração e gerenciamento de lojas individuais, com atividades preponderantes em centro comerciais e empresariais.
+Desse modo, o que minimamente se espera é que a sociedade empresária apelante firmasse os contratos escritos para se assegurar juridicamente, ou ainda para não sofrer eventual inversão do ônus da prova em seu desfavor, pois ostenta lógica superioridade técnica e informacional no espectro da sua atividade empresarial sobre as pessoas físicas apeladas.
+No entanto, a apelante não se desincumbiu de seu ônus probatório, não demonstrando que entregou os pontos comerciais a tempo e a modo, sequer comprovando a tese alternativa de que o caso versasse sobre singela locação de espaços.
+Por sua vez, consigne-se que a entrega dos pontos comerciais é fato positivo e prestação de responsabilidade do apelante, não devendo o ônus de provar fato negativo (não entrega dos espaços) ser atribuído aos autores recorridos.
+Tampouco houve a comprovação de desistência por parte dos apelantes, mas sim verdadeiro exercício da faculdade relativa à resilição contratual estampada no art. 457 do CC, posto que em nenhuma momento se constata o cumprimento de qualquer prestação positiva pelo apelante, notadamente a entrega das lojas, devendo os apelados reaverem o que despenderam e perderam.
+Portanto, tem-se indiscutivelmente que o valor adimplido pelos apelados deve ser reembolsado sob pena de enriquecimento sem causa.
+Por fim, ainda que não se aplique o CDC ao caso, não se afastam as regras civilistas quanto ao dever de indenizar acima mencionadas"
+Verifica-se, assim, que a pretensão de alteração da conclusão adotada no acórdão recorrido esbarra no óbice da Súmula 7/STJ.
+Prosseguindo, quanto a alegação de decisão extra petita, pela resolução do contrato, esta não merece prosperar, tendo em vista que há pedido expresso na ini cial nesse sentido.
+Por fim, a majoração a os honorários advocatícios recursais é cabível, ainda que tenha ocorrido a sucumbência recíproca na origem, devendo incidir exclusivamente sobre a parcela em favor da parte vencedora.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
