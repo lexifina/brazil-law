@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por AVON COSMÉTICOS LTDA. em face de acórdão assim ementado:
+APELAÇÃO. PROPRIEDADE INDUSTRIAL. PATENTE. PEDIDO DE NULIDADE DE PATENTE DEMODELO DE UTILIDADE. DECADÊNCIA. APELAÇÕES PROVIDAS.
+I - O objeto da demanda é a suposta nulidade da patente de modelo de utilidade MU 8202191-0, que tem por escopo um "molde aperfeiçoado para modelar glúteos", diante da alegação da parte autora de que referida patente teria sido concedida sem observância das formalidades legais.
+II - Analisando os documentos juntados aos autos, observa-se que a Carta Patente de Modelo de Utilidade nº MU 8202191-0 foi expedida em 19/07/2005, sob o título "MOLDE APERFEIÇOADO PARA MODELAR GLÚTEOS", com prazo de validade de "15 (quinze) anos contados a partir de 17/09/2002" (data do depósito do respectivo pedido). A aludida patente de modelo de utilidade restou extinta em 17/09/2017, em função da falta de pagamento da retribuição anual, com a respectiva publicação na RPI 2449 de 12/12/2017.
+III - Considerando que a presente demanda foi ajuizada em 02/04/2018, após o prazo de vigência da patente de modelo de utilidade cuja declaração de nulidade se pretende, merece acolhida a alegação de decadência suscitada nas apelações do INPI e da empresa ré, conforme prevê o art. 56, caput, da lei nº 9.279/96.
+IV - Reformada a sentença que declarava a nulidade do ato de concessão da MU 8202191-0, ante o reconhecimento da decadência no caso concreto.
+V - Apelações providas.
+Nas razões de recurso especial, a recorrente alega violação dos arts. 4º, 8º, 489, 978, 981, 982, III, e 985, I e II, do Código de Processo Civil; 56 da Lei 9.279/96. Sustenta que a declaração da decadência de seu direito de pedir a nulidade do registro da patente concedida à recorrida fere sua garantia à ampla defesa.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento, nem de se alongar em discussão que prejudique o andamento do processo em prazo razoável e com eficiência. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do arts. 4º, 8º e 489 do CPC.
+Quanto à decadência, tem-se que o Tribunal de origem, para concluir acerca de sua ocorrência, expôs o seguinte (e-STJ, fl. 2080):
+Quanto à patente cuja anulação é pretendida pela Avon Cosméticos Ltda., analisando os documentos juntados aos autos observa-se que a Carta Patente de Modelo de Utilidade nº MU 8202191-0 foi expedida em 19/07/2005, sob o título "MOLDE APERFEIÇOADO PARA MODELAR GLÚTEOS", com prazo de validade de "15 (quinze) anos contados a partir de 17/09/2002" (data do depósito do respectivo pedido).
+(..)
+A presente ação anulatória, por sua vez, foi ajuizada perante a Justiça Federal do Rio de Janeiro apenas em 02/04/2018 pela Avon Cosméticos.
+(..)
+Assim, considerando que a presente demanda foi ajuizada em 02/04/2018, após o prazo de vigência da patente de modelo de utilidade cuja declaração de nulidade se pretende, merece acolhida a alegação de decadência suscitada nas apelações do INPI e da empresa ré, na forma dos elucidativos precedentes judiciais deste E. Tribunal Regional Federal da 2ª Região e do C. Superior Tribunal de Justiça a seguir transcritos.
+Está, portanto, caracterizado o decurso do prazo decadencial para obter a nulidade do registro, pois o pedido para tanto foi formulado mais de 12 (doze) anos da concessão da patente, e mesmo após os 15 (quinze) anos da validade dessa.
+Ressalte-se também que chegar a conclusão diversa quanto a essas datas consideradas pelo acórdão recorrido - e destacadas no trecho acima transcrito - não dispensa o reexame de prova, atividade inviável em recurso especial, conforme dispõe a Súmula 7/STJ.
+Com relação aos arts. 978, 981, 982, III, e 985, I e II, do CPC, o Tribunal de origem expôs o seguinte (e-STJ, fl. 2079):
+De início, cumpre esclarecer que a Avon Cosmeticos Ltda. suscitou Incidente de Resolução de Demandas Repetitivas (IRDR nº 5002603-60.2023.4.02.0000) perante a Presidência desta E. Corte para uniformizar decisões supostamente conflitantes envolvendo o art. 56, caput, e §1º, da Lei nº 9.279/96, o qual restou distribuído por sorteio para este Gabinete 03 no dia 06/03/2023.
+Contudo, considerando que aquele incidente encontra-se em fase inicial e sequer foi realizado seu juízo de admissibilidade, pressuposto inafastável para eventual determinação de suspensão dos processos que versem sobre a questão de direito no âmbito deste E. Tribunal Regional Federal da 2ª Região, não há óbice ao julgamento dos presentes recursos, razão pela qual passa-se à análise destes.
+Esses fundamentos não foram impugnados nas razões do recurso especial, o que faz aplicável também a Súmula 283/STF.
+A suspensão do feito sem sólida razão para tanto, ademais, só prejudicaria o atendimento ao princípio da razoável duração do processo, positivado no art. 4º do CPC, dispositivo que, longe de ter sido contrariado pelo acórdão recorrido, foi observado.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
