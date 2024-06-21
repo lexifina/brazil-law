@@ -1,0 +1,16 @@
+DECISÃO
+Perdeu o objeto o agravo interposto pelo Ministério Público de Minas Gerais contra a decisão que inadmitiu o recurso especial protocolizado nos autos do Agravo em Execução Penal n. 1.0701.08.242920-3/001.
+Ora, do que se colhe da leitura dos autos, a insurgência que se objetiva destrancar, sob alegação de violação do art. 112, caput e § 1º, do Código Penal, almeja cassar a decisão de primeiro grau que concedeu ao apenado (agravado) a progressão ao regime semiaberto, além dos benefícios da saída externa e trabalho externo, dispensando a realização de prévio exame criminológico (fl. 942):
+ ..
+O Tribunal a quo, por meio do acórdão impugnado, não observou o estipulado no art. 112, caput e § 1º da Lei n. 7.210/1984, visto que desconsiderou as particularidades do caso concreto, informadas nas razões do agravo ministerial, que demonstram a necessidade de realização do exame criminológico no recorrido no presente caso.
+In casu, o recorrido foi condenado, em três oportunidades, pelo crime de roubo majorado (CP, art. 157, § 2º, do Código Penal), possuindo, ainda, outras seis condenações, sendo quatro delas por crimes contra o patrimônio.
+O levantamento de penas do reeducando demonstra, portanto, que ele sofreu condenação em nove oportunidades, sendo contumaz na prática delitiva (Doc. de ordem n. 193).
+Os elementos elencados acima fazem exsurgir a necessidade de uma avaliação mais cuidadosa dos requisitos de ordem subjetiva, já que demonstram o alto grau de periculosidade do reeducando.
+ ..
+Sucede que, em consulta aos autos da execução penal na origem (Processo n. 2429203-24.2008.8.13.0701), verifiquei que, desde a concessão da benesse (em 2021), não há notícia de regressão de regime ou mesmo de qualquer outro incidente na execução; ao contrário, o que se verifica é que o agravado vem cumprindo regularmente a pena, in clusive obtendo remição mediante trabalho, circunstâncias essas que indicam uma alteração substancial da situação fática na execução desde a interposição do reclamo, apta a não recomendar o julgamento do recurso sob uma perspectiva fática mais antiga, sobretudo considerando que a discussão pretendida se cinge a infirmar a conclusão no sentido da existência de mérito subjetivo para a concessão da benesse.
+Com efeito, afigura-se temerário rediscutir a existência de mérito subjetivo e, por conseguinte, da necessidade de exame criminológico para concessão da benesse, tomando por base a moldura fática estabelecida quando da prolação do acórdão atacado, de modo a ignorar o lapso temporal verificado desde então e a condição atual da execução. Também seria inviável considerar tais circunstâncias novas, sem prévia manifestação da instância ordinária quanto a essa questão e suas implicações na concessão do benefício, de modo que a providência mais cautelosa e adequada é julgar prejudicado o recurso.
+Ante o exposto, considerando o decurso do tempo e a atual situação da execução, julgo prejudicado o agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPOSTA ILEGALIDADE NA CONCESSÃO DA PROGRESSÃO AO REGIME SEMIABERTO SEM PRÉVIO EXAME CRIMINOLÓGICO (MÉRITO SUBJETIVO). PREJUDICIALIDADE. DECURSO DO TEMPO. AUSÊNCIA DE NOTÍCIA DE REVOGAÇÃO DA BENESSE OU DE INCIDENTE NA EXECUÇÃO. PREJUDICIALIDADE.
+Agravo em recurso especial prejudicado.
