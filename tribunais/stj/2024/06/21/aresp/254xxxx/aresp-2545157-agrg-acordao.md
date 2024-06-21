@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. AUSÊNCIA DE ESPECIFICAÇÃO DO DISPOSITIVO LEGAL OBJETO DO DISSÍDIO INTERPRETATIVO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA NOS TERMOS DO CPC E DO RISTJ. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MICHEL FERNANDO MARQUES contra decisão monocrática da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial ante a deficiência na fundamentação (Súmula 284/STF) - (fls. 442/443).
+Alega o agravante que a presunção de não culpabilidade, com fulcro no art. 5º, inciso LVII, da Constituição Federal, dispõe que a culpabilidade deve ser comprovada com máximo grau de certeza.  .. , as consequências da presunção de inocência estão previstas no próprio Código de Processo Penal, nos artigos 156 e 386, inciso VII (fls. 450/451).
+A Subprocuradoria-Geral da República opinou pela intimação do Ministério Público Estadual para ofertar contrarrazões ao recurso. Protesta, após o oferecimento das referidas contrarrazões, por nova vista dos autos (fl. 476).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. AUSÊNCIA DE ESPECIFICAÇÃO DO DISPOSITIVO LEGAL OBJETO DO DISSÍDIO INTERPRETATIVO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA NOS TERMOS DO CPC E DO RISTJ. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+VOTO
+Inicialmente, destaco que já foi oportunizado ao agravado se manifestar, na origem, quanto ao conteúdo da pretensão deduzida no agravo em recurso especial. Ademais, é assente o entendimento nesta Corte no sentido de inexistência de previsão regimental acerca de intimação da parte contrária para manifestar-se quanto ao conteúdo do agravo regimental (AgRg no HC n. 584.211/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 9/10/2020).
+Assim, a despeito da intimação pessoal do Ministério Público Federal para se manifestar como fiscal da lei, este optou por requerer a intimação do Parquet estadual, ocorrendo a preclusão consumativa com a sua manifestação de fl. 476, ante a necessidade de salvaguardar a celeridade processual, além da falta de utilidade no pronunciamento do órgão acusador no presente caso, em que decisão favorável será mantida.
+No mais, a decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmado.
+Com efeito, de acordo com o afirmado anteriormente, mediante análise do recurso de MICHEL FERNANDO MARQUES, verifica-se que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas dispositivos constitucionais.
+O Superior Tribunal de Justiça já decidiu ser incabível o recurso especial que visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal (AgInt nos EREsp 1.544.786/RS, Ministro Gurgel de Faria, Primeira Seção, DJe 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Em reforço, anoto que o Superior Tribunal de Justiça já se manifestou no sentido de que, uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF (AgRg no REsp 1.346.588/DF, Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014.)
+Confiram-se, ainda, os seguintes julgados: AgInt no AREsp n. 1.616.851/SP, Ministro Herman Benjamin, Segunda Turma, DJe 21/8/2020; AgInt no AREsp 1.518.371/RJ, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 15/5/2020; AgInt no AREsp 1.552.950/SP, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 8/5/2020; AgInt no AREsp 1.023.256/SP, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 24/4/2020; e AgInt nos EDcl no AREsp 1.510.607/SP, Ministro Benedito Gonçalves, Primeira Turma, DJe 1º/4/2020.
+Ante o exposto, nego provimento ao agravo regimental.
