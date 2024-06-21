@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO que julgou improcedente a ação penal (e-STJ, fls. 104-118).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 15-26).
+Em suas razões recursais, a parte recorrente aponta violação do art. 90 da Lei 8.666/1993. Aduz para tanto, em síntese, que o referido tipo penal não exigiria a demonstração de dano ao erário, dolo específico ou auferimento de vantagem por parte dos agentes, bastando a ocorrência da fraude, que reputa comprovada.
+O recurso especial foi admitido na origem (e-STJ, fl. 1.011).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 1.174-1.182).
+É o relatório.
+Decido.
+O recurso não ultrapassa o juízo de admissibilidade.
+Ao contrário do que diz o recorrente, a absolvição dos réus não se pautou na falta de prejuízo ao erário ou na ausência de dolo específico, mas sobretudo na constatação de que não houve sequer algum dolo em suas condutas, não ficando demonstrado o "intuito de obter, para si ou para outrem, vantagem decorrente da adjudicação do objeto da licitação" exigido pelo art. 90 da Lei 8.666/1993. É o que se colhe do aresto recorrido:
+"O convênio, na sua totalidade, atingiu a soma de R$ 116.00,00, sendo R$ 108.000,00, repassado pelo Ministério da Integração Nacional, e R$ 8.000,00, pelo Município de Livramento. Por outro lado, as doze unidades habitacionais foram reconstruídas, ou seja, o objeto foi plenamente atendido, tendo a Funasa aprovado a prestação de contas. Aliás, sobre tais fatos, a peça acusatória silencia.
+Da análise da quantia utilizada, no seu total, levando em conta a realização de todas as obras atinentes ao dito convênio, surge a oportuna dúvida, no sentido de verificar, afinal, qual a vantagem decorrente da adjudicação do objeto da licitação, que a empresa vencedora, Arco íris Construtora Ltda., teria obtido  Ademais, se o então prefeito, José Arimatéia Anastácio Rodrigues de Lima, o presidente da Comissão Permanente de Licitação, José de Anchieta Anastácio Rodrigues de Lima, e, ademais, o outro acusado, José Roberto Marcelino Pereira, participaram de toda a apontada arquitetação do delito do art. 90, da Lei 8.666, quanto cada um teria recebido, sem se falar no possível lucro da empresa vencedora  O valor "total, aliado ao fato do convênio ter sido executado devidamente, só pode acionar para quantias ínfimas é irrisórias, porque o número de prováveis envolvidos reunia duas pessoas do lado do Município de Livramento, isto é, o prefeito e o presidente da Comissão Permanente de Licitação; uma outra pessoa, ou seja, o acusado José Roberto Marcelino Pereira, somando-se, ainda e por fim, o pessoal da construtora vencedora, Arco íris Construtora Ltda.
+Não há como admitir que todo o ajuste, combinação ou qualquer outro expediente, pudesse ter, como centro, um convênio, que foi devidamente executado, alcançando todo o valor deste em R$ 116.000,00. Qualquer quantia que tivesse de ser entregue, numa divisão, a três acusados, além do pessoal da construtora vencedora, só poderia trazer o ranço de migalhas, não justificando, em circunstância alguma, a infração.
+O delito do art. 90, da Lei 8.666, não se perfaz, à míngua do segundo e último elementos, dispensando, por outro lado, o exame das apontadas irregularidades na confecção da licitação, que, por si só, sem o manto doloso, não caracteriza a infração".
+O acórdão nem indica, aliás, nenhuma prova ou fato incontroverso que permitisse a este STJ, por simples revaloração, concluir que realmente estariam comprovadas a fraude e o dolo dos réus. Se havia tais provas, era ônus do MPF apontá-las nos embargos de declaração e, persistindo eventual omissão do TRF, recorrer também por ofensa ao art. 619 do CPP, o que não fez. No estado atual da causa, nada há no quadro fático delimitado pela Corte local que leve este Tribunal Superior a concluir, sem o reexame aprofundado das provas, pela ocorrência da fraude alegada pelo Parquet.
+Neste cenário, a inversão do julgado encontra óbice na Súmula 7/STJ, por demandar um novo julgamento probatório incompatível com os limites cognitivos da via especial. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SONEGAÇÃO FISCAL. INÉPCIA DA DENÚNCIA. FALTA DE PREQUESTIONAMENTO. ALTO VALOR SONEGADO. AUMENTO DA PENA-BASE. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. DOLO E ERRO DE PROIBIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A discussão relativa à existência de dolo ou de erro de proibição enseja, na linha da orientação jurisprudencial, o reexame fático-probatório (Súmula n. 7 do STJ).
+4. Agravo regimental não provido".
+(AgRg no AgRg no AREsp n. 1.596.822/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/6/2020, DJe de 10/6/2020.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE MUNIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE, NA ESPÉCIE. ERRO DE PROIBIÇÃO, RECONHECIMENTO DA CONFISSÃO E DESCLASSIFICAÇÃO DA CONDUTA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+2. As questões referentes ao erro de proibição, reconhecimento da confissão e desclassificação da conduta não podem ser analisadas na via do recurso especial por não prescindirem do exame do material fático-probatório. Incidência do Enunciado n. 7 da Súmula do STJ.
+3. Agravo regimental desprovido".
+(AgRg no AgRg no AREsp n. 1.477.815/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2019, DJe de 27/6/2019.)
+Além disso, a pretensão punitiva se encontra prescrita quanto ao réu JOSÉ ROBERTO MARCELINO PEREIRA. Isso porque a sentença o condenou, em 22/11/2016, à pena de 2 anos de detenção (e-STJ, fl. 338), que prescreve em 4 anos (art. 109, V, do CP). Como a sentença foi o último marco interruptivo da prescrição, o prazo se consumou em novembro de 2020, quando o processo ainda se encontrava no TRF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Declaro extinta a punibilidade de JOSÉ ROBERTO MARCELINO PEREIRA, pela prescrição da pretensão punitiva, na modalidade retroativa.
+Publique-se. Intimem-se.
+ EMENTA
