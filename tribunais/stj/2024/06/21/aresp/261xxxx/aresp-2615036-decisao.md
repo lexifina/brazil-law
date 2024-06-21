@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Ângela Maria Barbosa Vilela e Enivanis de Abreu Vilela contra decisão que não admitiu o recurso especial, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 389):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. NÃO CONHECIMENTO. CERCEAMENTO DE DEFESA. PRELIMINARES AFASTADAS. TAXA CONDOMINIAL. DESPESAS ORDINÁRIAS. INEXEQUIBILIDADE. EXCESSO DE EXECUÇÃO. DECISÃO PARCIALMENTE REFORMADA.
+1. Não obstante a interposição de embargos de declaração, como regra, interrompa apenas o prazo recursal, nos termos do art.1.026 do CPC, verificado no caso concreto, que o julgamento dos embargos influía na forma de intimação do executado, deve se reconhecer que o prazo para apresentação da impugnação ao cumprimento de sentença foi interrompido, voltando a correr apenas com a intimação da decisão que julgou o recurso. 2. Não há de se falar em inovação recursal quando a matéria discutida nas razões recursais foi devidamente abordada na origem e apreciada pelo magistrado a quo.
+3. O indeferimento de produção de prova não caracteriza, por si só, cerceamento de defesa se a diligência requerida se revela inútil ou meramente protelatória, bastando à solução da lide os demais elementos constantes dos autos.
+4. Não há de se falar em iliquidez da sentença, quando o quantum debeatur pode ser obtido mediante meros cálculos aritméticos.
+5. Retira-se da leitura do art.784, inciso X do CPC, que é inexequível título fundado em taxas condominiais ordinárias quando ausente a demonstração de que os valores cobrados foram efetivamente aprovados pela assembleia do condomínio, sendo insuficiente a apresentação de ata genérica.
+6. Recurso conhecido e parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 564-574).
+Nas razões do recurso especial (e-STJ, fls. 578-588), os recorrentes alegaram violação aos arts. 502, 503 do Código de Processo Civil de 2015; e 1.336, I, do Código Civil.
+Sustentaram, em síntese, a necessidade de reconhecimento da violação à coisa julgada.
+Asseveraram que houve o trânsito em julgado da decisão "que determinou o rateio pelas despesas do condomínio, para ao final afastar a cobrança e os cálculos apresentados pelo condomínio recorrido" (e-STJ, fl. 584).
+Ponderaram que o acórdão proferido no processo de conhecimento remete à participação no rateio das despesas de condomínio.
+Defenderam a retificação dos cálculos apresentados, devendo ser observado o rateio das despesas com base na fração ideal das unidades do condomínio.
+As contrarrazões foram apresentadas às fls. 598-602 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial, tendo sido interposto agravo em recurso especial às fls. 613-621 (e-STJ).
+Brevemente relatado, decido.
+O TJMG, ao apreciar o cumprimento de sentença, declinou a seguinte fundamentação (e-STJ, fls. 404-409):
+Cinge-se a controvérsia recursal em discutir a inexequibilidade do título, a necessidade de liquidação prévia e a existência de excesso de execução.
+ ..
+Pois bem. Na hipótese dos autos, verifica-se que, conquanto o acórdão condenatório não tenha indicado o quantum debeatur, julgou totalmente procedente a demanda, reconhecendo como devidos os encargos condominiais ordinários, com base no critério de rateio previsto na Convenção do Condomínio agravado.
+Vê-se, contudo, que a autora, ora agravada, além de ter pugnado pela condenação dos requeridos ao pagamento da monta de R$77.367,40 (setenta e sete mil trezentos e sessenta e sete reais e quarenta centavos), relativa aos débitos condominiais vencidos entre 10/04/2011 e 10/04/2016, também requereu a condenação ao pagamento dos débitos vencidos no curso do processo, motivo pelo qual os interregnos de cobrança devem ser avaliados separadamente. A monta acima descrita, relativa ao período de 10/04/2011 a 10/04/2016, fora devidamente comprovada no curso da fase de conhecimento, não sendo possível, como pretende a parte agravante, a discussão acerca da forma de rateio e demais elementos que a integram, por implicar rediscussão do mérito, impassível de ser realizada em sede de cumprimento de sentença.
+Do mesmo modo, levando-se em conta que o acórdão condenatório determinou que a cobrança se desse nos termos da convenção de condomínio, tendo a parte comprovado os valores devidos, resta claro que não há de se falar em iliquidez da monta, sendo suficiente para sua cobrança a elaboração de cálculos aritméticos. Não obstante, no que diz respeito às parcelas vencidas no curso do processo, relativas aos meses de maio de 2016 a outubro de 2019, a parte exequente, ora agravada, para fins de execução do valor devido, apresentou planilha com descriminação das taxas condominiais, de fundo de reserva e dos demais encargos moratórios supostamente aprovados em assembleia condominial realizada em 12/09/2019.
+Ocorre que, não há qualquer indicação na ata de mencionada assembleia dos valores aprovados a título de taxa condominial e fundo de reserva, veja-se:
+ ..
+Logo, constata-se que em decorrência do texto expresso de Lei, o crédito referente às contribuições de condomínio edilício constitui título executivo extrajudicial e pode ser objeto de execução, desde que documentalmente comprovado.
+Nesse tocante, defende Elpídio Donizetti que "o documento comprobatório do crédito, ao qual a lei atribui os requisitos que o caracterizam como título executivo (certeza, liquidez e taxatividade), de regra, é a ata da assembleia" (Curso de Direito Processual Civil. São Paulo: Atlas, 2021). Tal entendimento apesar de direcionado ao processo de execução de título extrajudicial é perfeitamente aplicável ao cumprimento de sentença relativo à cobrança de taxas condominiais, por expressa previsão legal (art. 513 e 771 do CPC).
+Assim, apesar dos débitos condominiais, vencidos no curso da demanda, estarem abarcados pelo título judicial, não há nos autos documentos que o atribuam liquidez, certeza e exigibilidade, impossibilitando assim, sua cobrança.
+ ..
+Ante o exposto, REJEITO AS PRELIMINARES SUSCITADAS E DOU PARCIAL PROVIMENTO.
+Nesse contexto, o acolhimento da pretensão recursal, a fim de perquirir sobre a suposta violação à coisa julgada, demandaria revolvimento de fatos e provas, o que é inviável nessa seara ante o óbice da Súmula 7/STJ.
+Ademais, no tocante à alegada falta de observação à fração ideal atinente ao art. 1.336, I, do Código Civil, a revisão do julgado também exigiria o revolvimento do mencionado suporte probatório, procedimento vedado na instância especial, nos termos da Súmula n. 7 do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. OFENSA À COISA JULGADA. RATEIO. FRAÇÃO IDEAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA QUE DEMANDA O REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
