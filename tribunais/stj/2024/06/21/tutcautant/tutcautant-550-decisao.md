@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de tutela cautelar antecedente requerida por Monsanto do Brasil Ltda. e Monsanto Technology LLC, na qual postula a concessão de efeito suspensivo a agravo em recurso especial.
+Relatam, em síntese, que o Juízo de primeiro grau determinou que os ora requeridos apresentassem do rol de testemunhas e, ao assim procederem, alteraram o escopo da prova testemunhal.
+Foi interposto agravo de instrumento, o qual não foi conhecido pelo Tribunal de Justiça do Rio Grande do Sul, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. PROPRIEDADE INDUSTRIAL E INTELECTUAL. AÇÃO CIVIL PÚBLICA. PROVA TESTEMUNHAL. CÓDIGO DE PROCESSO CIVIL. ROL TAXATIVO. TEMA 988. INAPLICABILIDADE.
+1. TRATANDO-SE DE DECISÃO QUE DEFERIU O PEDIDO DE PRODUÇÃO DE PROVA TESTEMUNHAL, HIPÓTESE NÃO PREVISTA NO ROL DO ART. 1.015 DO CPC, DESCABE A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO.
+2. INAPLICABILIDADE DA TESE FIXADA NO RESP REPETITIVO 1.704.520/MT (TEMA 988). DECISÃO SOBRE MATÉRIA DIVERSA E RELATIVAMENTE À QUAL NÃO SE VERIFICA A INDISPENSÁVEL URGÊNCIA DECORRENTE DA INUTILIDADE DO JULGAMENTO DA QUESTÃO NO RECURSO DE APELAÇÃO.
+3. CASO EM QUE A AUSÊNCIA DE AFINIDADE ENTRE A AÇÃO CIVIL PUBLICA E A AÇÃO POPULAR REMETE À INAPLICABILIDADE DO DISPOSTO NO ART. 19, §1º, DA LEI N. 4.717/65. PECULIARIDADES DO CASO CONCRETO.
+RECURSO NÃO CONHECIDO.
+Diante disso, apresentaram recurso especial, o qual teve seu seguimento negado pela Terceira Vice-Presidência do TJRS com base no art. 1.030, I, do CPC/2015, em razão do Tema 988/STJ, bem como não o admitiu em relação às demais alegações, ante a incidência da Súmula 7/STJ.
+Por conseguinte, interpuseram agravo em recurso especial, ao qual se busca a atribuição de efeito suspensivo, sob o argumento de que seria cabível o agravo de instrumento para impugnar decisão interlocutória proferida em ação coletiva, seja em razão da aplicação subsidiária do art. 19, § 1º, da Lei n. 4.717/195, seja pela taxatividade mitigada do rol do art. 1.015 do CPC/2015.
+Quanto ao perigo na demora da prestação jurisdicional, as requerentes afirmam "que a produção de prova oral antes da escorreita análise de questões processuais pendentes, sobretudo sem se pronunciar sobre a aplicação da tese vinculante do IAC nº 04, culminará em verdadeiro desperdício da atividade jurisdicional" (e-STJ, fl. 8), causando prejuízo ao resultado útil do processo.
+Brevemente relatado, decido.
+Com efeito, a concessão de efeito suspensivo a recurso especial e a agravo em recurso especial demanda a demonstração inequívoca do periculum in mora, evidenciado pela urgência da prestação jurisdicional a fim de evitar dano de difícil ou incerta reparação, e do fumus boni iuris, consistente na probabilidade do direito alegado, capaz de denotar a possibilidade de êxito do recurso especial.
+A propósito:
+TRIBUTÁRIO. PROCESSO CIVIL. TUTELA PROVISÓRIA AJUIZADA COM O OBJETIVO DE ATRIBUIR EFEITO SUSPENSIVO A RECURSO. VIABILIDADE DO APELO ESPECIAL NÃO CONSTATADA. FUMUS BONI IURIS. PERICULUM IN MORA. REQUISITOS NÃO EVIDENCIADOS.
+1. Caso em que não se vislumbra ambiente para a concessão da medida suspensiva, porquanto o agravo em recurso especial foi interposto em face de decisão que negou seguimento ao apelo raro por estar o acórdão em conformidade com recurso especial repetitivo já julgado por esta Corte (art. 1.030, § 2º, CPC), ressaindo nítida a ausência da probabilidade do direito invocado.
+2. Agravo interno não provido. (AgInt nos EDcl na TutPrv no AREsp n. 2.232.396/SP, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 10/6/2024, DJe 13/6/2024)
+PROCESSUAL CIVIL. TUTELA CAUTELAR ANTECIPADA. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO AGRAVO EM RECURSO ESPECIAL. EXCEPCIONALIDADE. PLAUSABILIDADE DO DIREITO. AUSENTE. MANUTENÇÃO DA DECISÃO UNIPESSOAL.
+1. Pedido de atribuição de efeito suspensivo ao agravo em recurso especial.
+2. A atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a demonstração do periculum in mora, que se traduz na urgência da prestação jurisdicional, e a caracterização do fumus boni juris, consistente na plausibilidade do direito alegado (possibilidade de provimento do especial) - o que não restou demonstrado nos autos.
+3. Agravo interno desprovido. (AgInt na TutCautAnt n. 454/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/5/2024, DJe 29/5/2024)
+Em um juízo perfunctório da matéria, vê-se que nenhum dos pressupostos acima destacados foram demonstrados pelas insurgentes.
+Vê-se que o recurso especial da requerente, no que tange ao cabimento do agravo de instrumento, teve seu seguimento negado com base no art. 1.030, I, b, do CPC/2015, ao argumento de que o acórdão recorrido estaria em harmonia com o entendimento vinculante firmado por esta Corte no Tema n. 988/STJ.
+Diante disso, não merece conhecimento o agravo quanto à essa matéria, pois se trata de recurso incabível, tendo em vista que, conforme dispõe o art. 1.030, § 2º, do CPC/2015, uma vez negado seguimento ao recurso especial na instância a quo, considerando a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO. TESE REPETITIVA. DECISÃO DE ADMISSIBILIDADE. DISTINGUISHING. RECURSO CABÍVEL. AGRAVO INTERNO. INTERPOSIÇÃO. AUSÊNCIA. ERRO GROSSEIRO. CONFIGURAÇÃO.
+1. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no artigo 1.030, inciso I, alínea "b" ou no artigo 1.040, inciso I, do Código de Processo Civil, o único recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento.
+2. A interposição do agravo previsto no artigo 1.042 do Código de Processo Civil nesses casos caracteriza-se como erro grosseiro.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.811.061/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024)
+Salienta-se, ainda, que mesmo que a Corte estadual tenha utilizado como fundamento subsidiário sobre a mesma matéria, que o recurso não seria viável em razão da Súmula 7/STJ, o argumento principal, ao menos nesse juízo preliminar e superficial do recurso, foi o fato de estar em conformidade com recurso repetitivo, sendo o referido óbice utilizado apenas como obiter dictum.
+Assim, a questão nem sequer poderia ser conhecida por este Tribunal Superior, de maneira que a probabilidade do direito, neste ponto, não estaria presente.
+Ademais, também não se vislumbra a ocorrência de negativa de prestação jurisdicional, que foi a outra matéria apreciada pela Terceira Vice-Presidência do TJRS e não foi admitido com fundamento no art. 1.030, V, do CPC/2015.
+Em um exame superficial do argumento aduzido no recurso especial, vê-se que o Tribunal de origem apreciou, de forma clara e fundamentada, todas as matérias suscitadas pelas partes, não havendo que se falar em negativa de prestação jurisdicional.
+Como se não bastasse, não ficou comprovado o periculum in mora, pois a parte se limita a afirmar que a oitiva das testemunhas poderia implicar um verdadeiro desperdício da atividade jurisdicional, causando prejuízo ao resultado útil do processo.
+Depreende-se dos próprios argumentos da parte que a produção da prova testemunhal em nada implica dano grave e irreversível a qualquer das partes ou ao processo, sobretudo porque eventual inutilidade da prova deverá ser apreciada pelo Juízo competente, não sendo plausível postular o in deferimento da produção de uma prova que poderá, eventualmente, ser considerado como um cerceamento de defesa, o que, nesse caso sim, poderia configurar um desperdício da atividade jurisdicional.
+Portanto, não se vislumbra a presença concomitante dos requisitos no caso vertente, consoante acima delineado.
+Desse modo, ausentes os requisitos necessários à concessão da tutela provisória, indefiro o presente pleito, nos termos do art. 288, § 2º, do RISTJ.
+Publique-se.
+EMENTA
+TUTELA PROVISÓRIA DE URGÊNCIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. FUMUS BONI IURIS E PERICULUM IN MORA NÃO DEMONSTRADOS. TUTELA PROVISÓRIA INDEFERIDA.
