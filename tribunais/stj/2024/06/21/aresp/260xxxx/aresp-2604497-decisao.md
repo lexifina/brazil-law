@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Distrito Federal cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. FIXAÇÃO. Em demanda envolvendo a Fazenda Pública, por se tratar de aplicação cogente, afixação dos honorários advocatícios deve observância aos regramentos do CPC 85, Ia IV do § 2º, c/c § 3º, I a V, e §§ 4º a 6º.
+Embargos de declaração opostos foram improvidos.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente aponta ofensa aos arts. 85, caput e §3º e 86, caput, do CPC/15, sob fundamento da aplicação da sucumbência recíproca, haja vista que ambas as partes foram, em parte, vencedoras e vencidas.
+Ademais, argui que os honorários advocatícios devem ser reduzidos, tendo em vista o ínfimo trabalho realizado pelo recorrido e sob pena de contrariedade aos princípios da razoabilidade, da proporcionalidade e da vedação ao enriquecimento sem causa. Afirma que o valor atualizado da causa, utilizado como parâmetro para fixação dos honorários, não condiz com o proveito econômico obtido pelo recorrido no caso concreto, posto que o pagamento do débito tomou por base as reduções impostas pelo Programa de Parcelamento Recupera - DF.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso.
+O recurso foi inadmitido pela decisão de fls. 264-265, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O Tribunal de origem entendeu que o embargante sucumbiu integralmente ao adimplir o débito tributário, reconhecendo o pedido do exequente, portanto, não se tratou de sucumbência recíproca.
+Segue trecho do acórdão de origem:
+Por conseguinte, a vontade do legislador e a segurança jurídica não devem ser afastadas, sobretudo, porque, no caso, o proveito econômico é um dos parâmetros legais a serem adotados para fixar os honorários advocatícios à Fazenda Pública. Ressalte-se ainda ser imperativo realizar liquidação do julgado, CPC 85, § 4º, II, mediante arbitramento, em razão da natureza do débito adimplido pela apelada, a fim de enquadrar adequadamente o valor apurado aos termos dos parâmetros legais supracitados.
+ ..
+Destaque-se ainda que, ao aderir ao Programa de Parcelamento Recupera DF, houve reconhecimento do pedido (id37685468, p. 33) com o cumprimento integral da obrigação a gerar o cancelamento das certidões da dívida ativa (id 37685477), assim, a executada/apelada faz jus à redução de metade do valor da condenação aos honorários advocatícios.
+ ..
+Posto isso, provejo parcialmente o apelo para condenar à executada ao pagamento dos honorários advocatícios a ser liquidado por arbitramento, CPC 85, § 4º, II, em face do proveito econômico obtido pelo Distrito Federal. Liquidando-se o julgado, aplicar-se-á os termos do CPC 85, §2º, I, II, III e IV e § 3º, I a V, c/c com 90, § 4º, reduzindo o valor fixado da condenação pela metade.
+Conforme análise das razões do recurso especial, o apelo especial não apresenta a violação ao art. 1022 do CPC/2015 e a fundamentação pertinente acerca ausência de prestação jurisdicional por parte do Tribunal a quo, de forma que é inviável a na análise acerca da omissão arguida.
+Cumpre ressaltar que segundo a jurisprudência desta Corte as aferições acerca sucumbência da recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA. NÃO OCORRÊNCIA DE OFENSA AO ART. 535 DO CPC/1973. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE JUSTIFICATIVA PARA A REDISTRIBUIÇÃO DO GRAU DE DECAIMENTO DE CADA UMA DAS PARTES. REEXAME DE FATOS E DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO DA PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem analisou toda a controvérsia de maneira fundamentada, não havendo como acolher a tese recursal de deficiência na prestação jurisdicional quanto à desproporcionalidade da fixação da sucumbência recíproca. Observe-se, ademais, que o julgamento diverso do pretendido, não implica ofensa à norma ora invocada.
+2. É inviável em sede de Recurso Especial, aferir o decaimento de cada litigante, com o fim de se estabelecer a proporção dos ônus sucumbenciais com a fixação do percentual dos honorários advocatícios, por demandar imprescindível revolvimento de matéria fática. Precedentes: AgRg no REsp. 1.464.576/SP, Rel. Min. HUMBERTO MARTINS, DJe 9.11.2015; AgRg no AREsp. 423.717/PI, Rel. Min. ASSUSETE MAGALHÃES, DJe 28.9.2015 e AgRg no AREsp. 715.021/ES, Rel. Min. SÉRGIO KUKINA, DJe 4.8.2015. (grifos acrescidos)
+3. Agravo Interno do particular a que se nega provimento. (AgInt no REsp 1580876/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 8/5/2018).
+PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. LIMITES E CRITÉRIOS DOS §§ 2º E 3º DO ART. 85 do CPC/2015. APLICABILIDADE. ÔNUS DA SUCUMBÊNCIA. MODIFICAÇÃO. SÚMULA N. 7/STJ.
+I - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros estampados no art. 85, § 2º, caput e incisos I a IV, do CPC/2015 e com os percentuais delimitados no § 3º do referido artigo.
+II - No caso dos autos, os honorários advocatícios foram fixados em conformidade com os percentuais estabelecidos no § 3º do art. 85 do CPC/2015, tendo sido distribuídos de acordo com a sucumbência de cada uma das partes.
+III - Ademais, é inviável a apreciação das questões referentes à quantificação da sucumbência, pois, para aferir se o Tribunal de origem respeitou o critério de equidade e a proporção em que cada parte ficou vencida, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado, em recurso especial, ante o óbice do Enunciado n. 7 da Súmula do STJ. (grifos acrescidos)
+IV - Recurso especial improvido. (REsp 1751095/PR, Rel. Min. Francisco Falcão, Segunda Turma, DJe 12/12/2018).
+Diante do exposto, com fundamento no art. 932, III, do CPC/2015 c/c o art. 253, para"grafo u"nico, II, a, do RISTJ, conhec o do agravo para na o conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
