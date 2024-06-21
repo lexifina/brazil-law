@@ -1,0 +1,30 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 300 (e-STJ):
+"Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, que deu negou provimento ao apelo ministerial. Sustenta o recorrente que a questão submetida ao recurso é eminentemente de direito, há havendo incidência do verbete da Súmula 07/STJ.
+Aduz que o acórdão recorrido violou o artigo 309, do Código de Trânsito Brasileiro e artigo 69 do Código Penal. Requer, ao final, o provimento do recurso para afastar o princípio daconsunção e condenar o réu como incurso nas penas dos artigos 306, parágrafo 1º,inciso I, e art. 309, ambos da Lei nº 9.503/97.
+As contrarrazões foram apresentadas.
+O recurso foi admitido na origem.
+É o relatório."
+Decido.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que deu provimento ao recurso de apelação interposto na origem (art. 105, III, "a", da Constituição Federal).
+Saliente-se também que houve indicação expressa das alíneas com base na qual foi interposto, uma vez que sua ausência importaria o seu não conhecimento e a petição está devidamente assinada.
+Foram também preenchidas as condições da ação, consistentes na legitimidade recursal, possibilidade jurídica do pedido e interesse em recorrer. O recurso interposto rebateu o fundamento apresentado na decisão recorrida, motivo pelo qual deve ser conhecido.
+No mérito, entretanto, o recurso merece ser provido.
+O v. acórdão recorrido restou assim ementado (fl. 158):
+"Em princípio cabe destacar que restou incontroverso que o réu dirigiu veículo automotor sem a devida habilitação para tanto.
+Entretantoo Juiz sentenciante condenou o réu tão somente pela prática do crime de embriaguez ao volante (artigo 306 do Código de Trânsito Brasileiro)(..)
+De fato,as infrações dos artigos 306 e 309 do Código de Trânsito Brasileiro atingem o mesmo bem jurídico, a ponto de a mais leve - direção sem adevida habilitação - ser considerada absorvida pela infração mais grave.
+Isso porque as duas condutas vislumbram a punição do agente que, na condução de veículo automotor em situação irregular, causam perigo à incolumidade de terceiro.
+Nesse contexto,a direção sob efeito de álcool por ser conduta mais grave que a simples falta de habilitação prevalece, ficando o crime de menor gravidade absorvido.
+Ressalta-se, contudo, que não há impunidade emrelação à circunstância de conduzir veículo sem habilitação, uma vez queservirá de circunstância agravante do crime consuntivo, nos termos doartigo298,incisoIII,damesmaLei.(g.n.)".
+Sobre o tema, esse Superior Tribunal de Justiça entende que "os crimes previstos nos artigos 306 e 309 do CTB são autônomos, com objetividades jurídicas distintas, motivo pelo qual não incide o postulado da consunção. Dessarte, o delito de condução de veículo automotor sem habilitação não se afigura como meio necessário nem como fase de preparação ou de execução do crime de embriaguez ao volante" (AgRg noR Esp n. 1.745.604/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgadoem 14/8/2018, D Je 24/8/2018).
+Outrossim, o tema encontra-se pacificado nesta Corte Superior, por meio do enunciado sumular 664/STJ: "É inaplicável a consunção entre o delito de embriaguez ao volante e o de condução de veículo automotor sem habilitação" (Súmula n. 664, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023). Nesse senido, o tema 1216 do STJ foi cancelado no dia 30 de abril de 2024:
+QUESTÃO DE ORDEM. RECURSO ESPECIAL AFETADO AO RITO DOS RECURSOS REPETITIVOS. CONTROVÉRSIA SOLUCIONADA POR MEIO DE ENUNCIADO DE SÚMULA. SÚMULA N. 664 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DESAFETAÇÃO. CANCELAMENTO DO TEMA N. 1216/STJ. QUESTÃO DE ORDEM ACOLHIDA.
+1. Em sessão do dia 12/9/2023, o presente feito foi afetado como representativo da seguinte controvérsia: "possibilidade de aplicação do instituto da consunção aos crimes de embriaguez ao volante (art. 306 do CTB) e o de condução der veículo automotor sem a devida permissão para dirigir ou habilitação (art. 309 do CTB)".
+2. Em sessão do dia 8/11/2023, a referida controvérsia foi solucionada com a edição do seguinte enunciado de Súmula: "É inaplicável a consunção entre o delito de embriaguez ao volante e o de condução de veículo automotor sem habilitação" (Súmula n. 664, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023).
+3. Assim, mostra-se oportuna a desafetação do processo ao rito dos recursos repetitivos e o cancelamento do tema, notadamente pelo tratamento igualitário conferido ao enunciado de Súmula e ao acórdão proferido em julgamento de recursos repetitivos em relação à aplicação deles pelos juízes, pelos Tribunais de origem e pelo relator nesta Corte, a evidenciar o cumprimento da missão de uniformizar a interpretação da legislação federal e de oferecer uma justiça ágil para a controvérsia.
+4. Questão de ordem acolhida para desafetação deste feito e cancelamento do respectivo Tema n. 1216, com a consequente retomada da tramitação dos processos nacionalmente paralisados, bem como retorno dos autos para a Quinta Turma.
+(REsp n. 2.050.957/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 18/4/2024, DJe de 30/4/2024.)
+Em face do exposto, conheço e dou provimento do recurso especial para que seja reformada a decisão do Tribunal a quo, com a consequente condenação do recorrido pelos delitos autônomos previstos nos arts. 306 e 309, ambos do Código de Trânsito Brasileiro.
+No tocante a dosimetria da pena, verifico que é possível a aplicação de concurso material ou formal, pois deve ser analisado se os delitos, autônomos, resultaram de ações distintas, a depender do caso , devendo os autos retornarem a origem para aplicação da pena, de acordo com as determinações da presente decisão (HC 749.440-SC, Rel. Min. Jesuíno Rissato (Desembargador convocado do TJDFT), julgado em 23/8/2022).
+EMENTA
