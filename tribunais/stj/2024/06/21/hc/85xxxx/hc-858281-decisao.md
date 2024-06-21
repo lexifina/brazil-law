@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão que indeferiu liminarmente o presente habeas corpus em razão da ausência de cópia da sentença condenatória, imprescindível à análise do pedido da defesa de compensação integral da reincidência com a confiss ão.
+A impetrante junta aos autos à referida peça processual (fls. 85/98).
+É o relatório. Decido.
+Reconsidero a decisão de fls. 49/50 e prossigo na análise do feito.
+Consta dos autos que ADELQUE PERICLES FERREIRA foi condenado, em primeiro grau, a 7 anos de reclusão, no regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06). O Tribunal a quo negou provimento à apelação da defesa.
+De início, verifico que, nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Também não se mostra cabível a concessão da ordem, de ofício, para realizar a compensação integral da reincidência com a confissão espontânea, visto que foram consideradas duas condenações na segunda fase da dosimetria, mostrando-se correta a compensação parcial.
+Confiram-se, a propósito, os seguintes trechos do acórdão:
+" ..  O que o Apelante pretende é a compensação da circunstância agravante da reincidência com a atenuante da confissão espontânea.
+Passo à análise da dosimetria das penas, que, na primeira fase, foram aplicadas em 1/6 acima do mínimo legal, ou seja, em 05 anos e10 meses de reclusão e, 583 dias-multa, em razão dos maus antecedentes do Apelante (Processo Crime nº 8153/10 - fls. 37/38 - tráfico de drogas),mostrando-se correta e fundamentada a elevação.
+Na segunda fase, foi reconhecida a circunstância agravante da reincidência específica e múltipla (Processos Crime nº 18/16 e nº 8507/07 -fls. 38/41 - porte ilegal de arma de fogo com numeração raspada e tráfico de drogas), que preponderou sobre a atenuante da confissão espontânea, nos termos do art. 67, do Código Penal, com a elevação das penas em 1/5, ao invés de 1/4, resultando, definitivamente, em 07 anos de reclusão e, 699 dias-multa, no valor diário mínimo.
+Não há que se falar em compensação integral da reincidência com a confissão, conforme já decidido pelo Colendo SUPREMO TRIBUNAL FEDERAL:
+ ..
+Sendo a reincidência específica e múltipla isoladamente considerada, apta a elevação de 1/4 das penas, a circunstância atenuante da confissão espontânea, embora sem força suficiente para a compensação, nos termos requeridos, se presta à mitigação daquele incremento, corretamente aplicado em 1/5.  .. " (fls. 11/13).
+Por outro lado, esta Corte possui o entendimento de que "a reincidência específica como único fundamento só justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso" (Tema Repetitivo n. 1172), o que não é a hipótese dos dos autos.
+Assim, é necessária a alteração da fração de aumento de 1/5 para 1/6. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO, FURTO QUALIFICADO MEDIANTE FRAUDE E USO DE DOCUMENTO FALSO, EM CONCURSO MATERIAL. PLEITO DE ABSOLVIÇÃO RELATIVAMENTE AO DELITO DE ESTELIONATO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO DELITIVA CARACTERIZADA. DUPLA REINCIDÊNCIA DO APENADO. DOSIMETRIA. SEGUNDA FASE. COMPENSAÇÃO PARCIAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A MULTIRREINCIDÊNCIA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+- A admissão da ocorrência de um crime de bagatela reflete o entendimento de que o Direito Penal deveria intervir somente nos casos em que a conduta ocasione lesão jurídica de certa gravidade, devendo ser reconhecida a atipicidade material de perturbações jurídicas mínimas ou leves, estas consideradas não só no seu sentido econômico, mas também em função do grau de afetação da ordem social que ocasionem.
+- O princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de certos vetores, como:
+(a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada (HC n. 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+- O Plenário do Supremo Tribunal Federal, ao examinar conjuntamente os HC n. 123.108/MG, 123.533/SP e 123.734/MG, todos de relatoria do Ministro Luís Roberto Barroso, definiu que a incidência do princípio da bagatela deveria ser feita caso a caso (Informativo n. 793/STF).
+Nessa linha, a Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS, de minha relatoria, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação da medida ser socialmente recomendável.
+- No caso, estando a reiteração delitiva bem caracterizada nos títulos judiciais das instâncias ordinárias, que reconheceram a dupla reincidência do agravante, inaplicável o princípio da insignificância.
+- O agravante é duplamente reincidente, de maneira que não há ilegalidade na preponderância dessa circunstância sobre a atenuante genérica da confissão espontânea, no caso, o que enseja o aumento da sua reprimenda no patamar prudencialmente recomendado de 1/6 sobre a pena-base.
+- Agravo regimental desprovido.
+(AgRg no HC n. 656.705/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/5/2021, DJe de 7/5/2021.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reduzir a fração da reincidência, fixando a pena definitiva em 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, mais 680 dias-multa, pela prática do delito de tráfico de drogas (art. 33 da Lei n. 11.343/06).
+Publique-se. Intimem-se.
+EMENTA
