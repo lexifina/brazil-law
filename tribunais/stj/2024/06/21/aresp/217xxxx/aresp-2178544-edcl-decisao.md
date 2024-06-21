@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de fls. 1565/1571, na qual dei parcial provimento ao recurso especial para "determinar o retorno dos autos ao Tribunal de origem para que profira novo acordão, analisando a possibilidade de adoção da medida executiva atípica pleiteada a partir das circunstâncias de fato do caso concreto e das premissas estabelecidas pelo STF na ADI n. 5.941 e na jurisprudência do STJ acima sumariada, em especial o requisito de existência de indícios de ocultação de patrimônio".
+Sustenta a parte embargante que houve apreciação das circunstâncias fáticas do caso concreto no acórdão recorrido, " t anto foi que o v. acórdão de ID 32586546 ressaltou que levando em consideração a análise fática, seria possível a adoção da medida executiva atípica pleiteada".
+Argumenta que " o s requisitos objetivos e subjetivos necessários para aplicação da aludida medida de caráter subsidiário foram apreciados, razão pela qual não há que falar em retorno dos autos à origem para novo acordão".
+Aduz que "como bem ressaltado pelo Tribunal a quo, restou comprovado o esgotamento dos meios ordinários de adimplemento do débito exequendo, sendo, portanto, a medida atípica proporcional à luz da proporcionalidade e razoabilidade".
+Requer "seja expressamente reformada a decisão para não conhecer do agravo ou em caso de conhecimento, para negar provimento ao recurso especial interposto pelos EMBARGADOS".
+Não foi apresentada impugnação (fls. 1581/1582).
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos (fls. 1566/1570):
+(..)
+Na hipótese em julgamento, o Tribunal de origem concluiu que, "em razão da proporcionalidade e razoabilidade, necessário deferir as medidas coercitivas de suspensão da carteira de habilitação nacional e apreensão do passaporte dos devedores" (fl. 1604).
+O acórdão recorrido está assim fundamentado (fls. 1604/1610):
+(..)
+Destaca-se que o fato de a execução por quantia certa se realizar pela expropriação de bens do executado, nos termos do artigo 824 do CPC/15, não impede a adoção de medidas indutivas, também denominadas de coercitivas/executivas indiretas, a fim de estimular o devedor a responder com todos os seus bens, a teor do previsto no artigo 789 do Código de Processo Civil.
+A propósito, este Superior Tribunal de Justiça vem construindo critérios para a análise da razoabilidade das medidas indutivas necessárias para assegurar o cumprimento de prestação pecuniária.
+Como requisito objetivo, encontra-se sedimentada a necessidade de esgotamento dos meios ordinários e típicos antes da adoção das medidas executivas indiretas, dada a subsidiariedade do instituto, sempre sob o crivo do contraditório e desde que o devedor possua indícios de ocultação de patrimônio, visto que o intuito é impedir a frustação voluntária do processo executivo, e não a punição do devedor em decorrência da ausência de bens.
+Como requisito subjetivo, devem ser analisadas as circunstâncias e peculiaridades fáticas envolvendo as medidas específicas pleiteadas, os sujeitos envolvidos e o débito objeto de cobrança, à luz dos princípios da razoabilidade e proporcionalidade.
+(..)
+Verifica-se, portanto, que a adoção de meios executivos atípicos pressupõe a observância de certos requisitos, em especial a existência de indícios de ocultação de patrimônio ou de que o executado possui patrimônio expropriável, bem como a efetiva fundamentação nas circunstâncias e peculiaridades fáticas do caso concreto.
+Ressalto, ainda, que a aplicação das medidas coercitivas deve ser razoável e proporcional não somente quanto à sua adequação, mas também em relação ao aspecto temporal, não podendo persistir indefinidamente.
+No caso em debate, depreende-se da leitura do acórdão recorrido que, não obstante a alegação da parte executada de que não possui condições financeiras para o adimplemento da dívida, a Corte local entendeu ser possível a suspensão da CNH da parte executada sem analisar todos os requisitos, objetivos e subjetivos, necessários para a adoção da medida de caráter subsidiário, pois não houve indicação de que existem, na hipótese, indícios de ocultação de patrimônio ou demonstração de sinais de riqueza pelo devedor.
+Desse modo, em razão da impossibilidade de reexame de fatos e provas em sede de recurso especial, e da necessidade de análise do substrato fático para o efetivo deslinde da questão, deve ser anulado o acórdão recorrido para que o Tribunal profira nova decisão à luz do entendimento das Cortes Superiores acerca do tema.
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que profira novo acordão, analisando a possibilidade de adoção da medida executiva atípica pleiteada a partir das circunstâncias de fato do caso concreto e das premissas estabelecidas pelo STF na ADI n. 5.941 e na jurisprudência do STJ acima sumariada, em especial o requisito de existência de indícios de ocultação de patrimônio.
+Assim, não há que falar em omissão ou qualquer dos vícios previstos no art. 1.022 do CPC/2015, concluindo-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
