@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de JOSÉ FRANCISCO DE ARAÚJO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG (Apelação Criminal n. 1.0116.14.002243-9/001).
+Extrai-se dos autos que o Juízo de primeiro grau condenou o paciente como incurso no art. 157, § 2º, I, do Código Penal - CP (roubo majorado).
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, mas avaliou favoráveis as consequências do delito, "reduzindo a pena do Acusado para 07 (sete) anos de reclusão, em regime fechado, e 16 (dezesseis) dias-multa" (fl. 11). O julgamento ficou assim ementado:
+"APELAÇÃO CRIMINAL - ROUBO MAJORADO - AUTORIA E MATERIALIDADE COMPROVADAS - DEPOIMENTO DA VÍTIMA - COERÊNCIA - ACUSADO ENCONTRADO NA POSSE DA RES - EMPREGO DE ARMA DE FOGO - COMPROVAÇÃO - CONSEQÜÊNCIAS DO DELITO - NÃO RESTITUIÇÃO DA RES - CONDIÇÃO ÍNSITA AO DELITO - FRAÇÃO DE EXASPERAÇÃO DA PENA-BASE - REVISÃO - POSSIBILIDADE. Demonstradas a autoria e a materialidade delitiva, a manutenção da condenação do agente é medida que se impõe. A palavra da vítima assume especial relevância, notadamente quando narrado com riqueza de detalhes todo o fato, de maneira coerente, coesa e sem contradições. Deve ser mantida a majorante da arma de fogo quando a vítima afirma firmemente que esta foi empregada no curso da subtração. A análise equivocada das circunstâncias judiciais deve redundar na correção por esta instância revisora. A não restituição integral da res furtiva não constitui circunstância judicial desfavorável ao réu, vez que é fato inerente aos delitos patrimoniais. Deve ser afastada a fração de exasperação da pena-base que a eleva em violação ao princípio da proporcionalidade." (fl. 8)
+No presente writ, a defesa afirma a ausência dos pressupostos estabelecidos no art. 312 do Código de Processo Penal - CPP para a decretação da prisão preventiva, ressaltando que "o Paciente é réu primário; não possui processos criminais em curso"  ..  "encontra-se preso a mais de 90 (noventa) dias sem reavaliação da prisão desde acordão proferido pelo tribunal de justiça de Minas Gerais" (fl. 3).
+Requer, pois, a concessão da ordem, expedindo-se alvará de soltura, com ou sem imposição de medidas cautelares diversas.
+Indeferido o pedido liminar (fls. 14/15) e prestadas as informações pela autoridade coatora (fls. 21/49), o Ministério Público Federal - MPF opinou pelo não conhecimento do mandamus e, subsidiariamente, pela denegação da ordem (fls. 53/55).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Na hipótese dos autos, falece interesse processual à impetrante, pois as informações juntadas às fls. 21/49 noticiam que o decreto condenatório já transitou em julgado e a prisão decorre de sentença definitiva.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
