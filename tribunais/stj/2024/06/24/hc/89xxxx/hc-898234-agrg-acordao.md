@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Não tendo o agravante, nas razões deste agravo regimental, infirmado o fundamento da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental do qual não se conhece.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por PAULO SERGIO SANTOS DA CUNHA contra decisão da minha lavra e que foi proferida nos seguintes termos (e-STJ fls. 296/301):
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na espécie, assim consignou o Tribunal de origem (e-STJ fls. 44/46, grifei):
+Saliento, ainda, que o art.33 da Lei 11.343/06 possui diversos verbos nucleares, razão pela qual o fato de os apelantes "trazerem consigo" ou "transportarem" a droga, já caracteriza o delito de tráfico, sendo desnecessário o flagrante do ato de mercancia para configuração do ilícito.
+ ..
+Quanto ao interesse das defesas no redimensionamento das reprimendas fixadas, adianto que merece prosperar, em parte.
+Em análise ao apenamento estabelecido pelo magistrado de origem, necessário readequar a reprimenda basilar dos acusados, a fim de evitar o bis in idem na terceira fase da dosimetria.
+Assim, observado que o mesmo argumento utilizado para exasperar a pena basilar em dez meses, através do vetor circunstâncias, em conjunto com o art.42 da Lei 11.343/06, foi adotado para estabelecer a fração de incidência da minorante do art.33, §4º da Lei de Drogas, vai reformada a pena-base dos réus para o mínimo legal de 05 (cinco) anos de reclusão, para evitar a ocorrência de bis in idem.
+Deixo de aplicar a atenuante da menoridade, a fim de não afrontar os termos da Súmula 231 do STJ.
+Com relação à incidência da minorante do art.33, §4º da Lei de Drogas, compreendo que obrou em acerto o juízo singular ao conceder o benefício, uma vez que ambos eram primários ao tempo do fato, sendo o acusado Felipe, inclusive, menor de 21 anos, não sendo possível, através dos elementos existentes no feito, assegurar que possuem a vida voltada ao ilícito, uma vez que a abordagem não decorreu de prévia investigação.
+Importa referir, também, que as circunstâncias do caso em concreto auxiliam no estabelecimento dos parâmetros de fixação da incidência da minorante, uma vez que a adoção de critérios engessados exclusivamente na quantidade ou natureza de entorpecente para o estabelecimento da fração mínima e máxima, invariavelmente ocasionariam injustiças na reprimenda final, situação que autoriza, neste caso, a diminuição da pena, pois adequado e proporcional ao fato em análise.
+No entanto, não se pode olvidar que os acusados foram presos em flagrante na posse de mais de 1kg de maconha, droga de menor lesividade, situação que autoriza uma repreensão estatal menos severa, uma vez que ambos são incautos na seara delitiva. Assim, compreendo que a pena final dos acusados vai redimensionada, em razão da incidência da minorante em 1/3, para 03 (três) anos e 04 (quatro) meses de reclusão, em regime aberto, frente aos termos do art.33, §2º, "c" do CP, além da multa pecuniária que vai estabelecida em 340 (trezentos e quarenta) dias-multa.
+Adequada, também, a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art.44, §2º do CP, porquanto diante das circunstâncias acima referidas não se mostra razoável agravar a situação dos acusados além do que foi imposto. Deverá, portanto, a pena ser substituída pelas restritivas de direito de prestação de serviços à comunidade e limitação de final de semana, pelo tempo da pena carcerária imposta.
+E, na revisão criminal, consignou-se (e-STJ fl. 54):
+Os requerentes alegam que "por determinação legal do art. 42 da Lei de drogas, a natureza e a quantidade das substâncias devem necessariamente ser analisadas na primeira-fase da dosimetria da pena, onde é apurado o grau de reprovabilidade da conduta, a gravidade concreta do crime". Citam julgado da Terceira Sessão deste Superior Tribunal de Justiça por ocasião do julgamento do REsp 1.887.511/SP, da relatoria do Ministro João Otávio de Noronha .
+Não obstante o julgado mencionado (julgado em 9/6/2021, DJe de 1º/7/2021), destaco que o referido colegiado, posteriormente, em revisão às orientações estabelecidas no REsp 1.887.511/SP, decidiu, por maioria, pela "possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena (HC 725.534/SP, Terceira Seção, Rel. Min.Ribeiro Dantas, j. em 27/04/2022).
+Adequado, portanto, o cálculo dosimétrico operado no caso concreto.
+Pois bem.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Conforme destacado pelas instâncias ordinárias, as circunstâncias do caso concreto permitem a conclusão de que o paciente exerceu o papel de "mula" do tráfico, o que, consoante a jurisprudência desta Corte, justifica a concessão da minorante.
+No entanto, ainda que não haja indicação de integração à organização criminosa, o transportador tem perfeita consciência de estar a serviço de um grupo dessa natureza, o que não pode ser desprezado, razão pela qual, segundo a jurisprudência consolidada desta Corte Superior, o paciente faria jus à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração mínima de 1/6 (um sexto), reforçado tal patamar, no caso, pela quantidade de droga transportada - cerca de 1,2kg (um quilo e duzentos gramas) de maconha.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DE ENTORPECENTES. CIRCUNSTÂNCIAS DO DELITO. MOTIVAÇÃO VÁLIDA. ACRÉSCIMO PROPORCIONAL. CONDIÇÃO DE MULA. REDUTOR PREVISTO NO ART. 33, § 4.º, DA LEI N. 11.343/2006. APLICAÇÃO NA FRAÇÃO DE 1/6 (UM SEXTO). AUSÊNCIA DE ILEGALIDADE. MAJORANTE DO ART. 40, INCISO V, DA LEI N. 11.343/2006. FRAÇÃO JUSTIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o aumento de 2 (dois) anos e 6 (seis) meses efetivado na primeira fase da dosimetria revela-se proporcional e fundamentado, considerando-se a motivação apresentada (valoração de duas circunstâncias judiciais negativas - art. 42 da Lei n. 11.343/2006 e as circunstâncias do delito, as quais envolveram o transporte do entorpecente previamente oculto em uma carga de madeira) e a pena abstratamente cominada para o crime: cinco a quinze anos de reclusão.
+2. Nos termos da orientação firmada nesta Corte Superior de Justiça, o fato de o Acusado ostentar a condição de "mula" do tráfico justifica a aplicação da fração mínima (1/6 - um sexto) do redutor previsto no art. 33, § 4.º, da Lei de Drogas, dada a maior gravidade da conduta decorrente do exercício dessa função de transporte.
+3. A aplicação da causa de aumento do art. 40, inciso V, em sua fração de 2/3 (dois terços), no caso, encontra amparo na orientação deste Tribunal, fixada no sentido de que, " u ma vez caracterizado o tráfico entre estados da Federação ou entre estes e o Distrito Federal - circunstância que atrai a incidência da majorante prevista no inciso V do art. 40 -, a distância percorrida e/ou o número de fronteiras ultrapassadas pelo agente podem lastrear a escolha da fração de aumento de pena decorrente da interestadualidade do delito" (AgRg no HC 588.019/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 06/04/2021, DJe de 14/04/2021).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 782.526/RS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO MINISTERIAL. TRÁFICO DE DROGAS. QUANTIDADE DE DROGA. PRESSUPOSIÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONDIÇÃO DE MULA DO TRÁFICO. MINORANTE FIXADA NO PATAMAR DE 1/6. CABIMENTO. AGRAVO DESPROVIDO.
+1. Nos termos do entendimento desta Corte, a condição de "mula" justifica a incidência do redutor em seu mínimo legal. Com efeito, embora tal condição, por si só, não afaste a incidência do art. 33, § 4º, da Lei n. 11.343/2006, pode autorizar a aplicação da causa de diminuição em 1/6, pois, mesmo como transportador, o réu se deixou cooptar pelo tráfico.
+2. A quantidade de drogas apreendidas (1,625kg de maconha, na forma de 2 tijolos, e 1.040kg de maconha, na forma de 312 tijolos e mais 39 fardos) justifica a incidência da redutora em 1/6, dado o reconhecimento da condição de mula.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 815.626/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTO QUE, ISOLADO, NÃO É IDÔNEO PARA O AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÍNIMA. CONDIÇÃO DE MULA. FUNDAMENTO CONCRETO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A quantidade de droga apreendida, embora seja bem relevante, não pode ser considerada, isoladamente, para a conclusão de que o acusado se dedica ao tráfico de drogas.
+2. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do RESP n. 1.887.511/SP, no qual se consolidou o entendimento de que a quantidade e a variedade dos entorpecentes somente podem ser consideradas na primeira fase da dosimetria da pena, bem como que a utilização supletiva desses elementos só pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+3. De acordo com o acórdão recorrido, especialmente a circunstância em que foi contratado para transportar a droga mediante promessa de pagamento, demonstra que o Agravante, na verdade, atuou na condição de "mula", devendo ser atribuída a adequada qualificação jurídica ao quadro fático delineado no julgado combatido.
+4. O Superior Tribunal de Justiça firmou o entendimento de que "a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o agravante faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez se reveste de maior gravidade" (AgRg no AREsp 1.534.326/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/9/2019, DJe 24/9/2019).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.898.671/MS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022, grifei.)
+E, no ponto, tendo sido eleita a fração de redução mais benéfica de 1/3 pelas instâncias ordinárias, não há o que ser reparado por esta Corte Superior.
+Não verifico, portanto, flagrante ilegalidade.
+À vista do exposto, denego a ordem.
+Nas razões deste agravo regimental, a defesa limita-se a repisar os argumentos deduzidos na inicial do writ.
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É, em síntese, o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Não tendo o agravante, nas razões deste agravo regimental, infirmado o fundamento da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental do qual não se conhece.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+No caso, o agravante deixou de impugnar o fundamento consignado na decisão ora agravada, segundo o qual, em se tratando de "mula" do tráfico de drogas, e tendo sido aplicada a fração mais benéfica de 1/3, quando a jurisprudência desta Corte Superior preconiza a fração de 1/6, não há flagrante ilegalidade a ser reparada.
+Dessa forma, ante a ausência de impugnação específica, não se pode conhecer do recurso, nos termos da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, citam-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. 6,40 G DE COCAÍNA E 10,25 G DE CRACK. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA A UTILIZAÇÃO DE PATAMAR MÉDIO DE REDUÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. DESPROPORCIONALIDADE NA DOSIMETRIA FEITA PELO TRIBUNAL DE ORIGEM, QUE CONFIGURA FLAGRANTE ILEGALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido (Súmula 182/STJ).
+2. Agravo regimental não conhecido.
+(AgRg no HC 543.574/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/5/2020, DJe 4/6/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRINCÍPIO DA DIALETICIDADE. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N.º 182 DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, nas razões do regimental, o Recorrente não rebateu, especificamente, o fundamento da decisão agravada referente à não ocorrência de bis in idem, tendo em vista que a pena-base foi exasperada em razão da quantidade de droga apreendida e a minorante foi afastada com base em fundamentação diversa. Aplicação da Súmula n.º 182/STJ.
+2. Agravo regimental não conhecido.
+(AgRg no HC 561.148/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/5/2020, DJe 28/ 5/2020.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
