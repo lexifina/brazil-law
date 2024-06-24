@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Ministério Público do Estado do Rio Grande do Sul contra decisão de minha relatoria que concedeu a ordem de ofício para que os documentos relacionados à vida pregressa do recorrente, e que não guardam relação direta com o fato, não sejam utilizados como argumento de autoridade pela acusação na sessão plenária do Tribunal do Júri. (e-STJ fls. 967/971)
+No presente writ, sustenta o Parquet Estadual contradição do julgado, pois se de um lado inexiste vedação à leitura em plenário, de outro não podem ser utilizados como argumento de autoridade.
+Aponta, ainda, omissão do julgado, pois o rol do art. 478 é taxativo.
+Requer, ao final, sejam acolhidos os embargos de declaração, com atribuição de efeitos infringentes.
+É o relatório. Decido.
+Não existem vícios a serem sanados na decisão embargada. Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+No caso em tela, o que realmente o embargante pretende é o novo julgamento da causa, isso porque o acórdão embargado não se ressente de qualquer dos vícios autorizativos do presente recurso.
+Importante anotar que "o conceito de obscuridade, para embargos de declaração, somente se materializa se a decisão é ininteligível, seja por ilegível, seja por má redação. Não se confunde com interpretação do direito tida por inadequada pela parte Se ela pode tecer argumentos contra a conclusão da Corte, é porque compreende a decisão, embora dela discorde; a decisão obscura é, a rigor, irrecorrível quanto a seus fundamentos, que nem sequer são passíveis de identificação racional articulada" (AgInt no REsp 1859763/AM, Rel. Ministro OG FERNANDES, DJe 19/5/2021).
+Na espécie, a decisão embargada mostra-se clara e compreensível ao anotar que "o constrangimento ilegal reside, não no fato da juntada dos documentos (cópia de ações que o paciente figurou como réu) pelo Ministério Público, mas no uso indevido dessas informações na Sessão Plenária do Tribunal do Júri, como argumento de autoridade." (e-STJ fl. 971).
+Por outro lado, inexiste omissão, pois, em se tratando do exame dos elementos de um crime, em especial daqueles dolosos contra a vida, o fato não se torna típico, antijurídico e culpável por uma circunstância referente ao autor ou aos seus antecedentes, mesmo porque, se assim o fosse, estaríamos perpetuando a aplicação do Direito Penal do Autor, e não o Direito Penal do Fato. Desse modo, os documentos referentes à vida pregressa do acusado que não guardam relação direita com os fatos narrados na denúncia, não poderão ser utilizados como argumento de autoridade.
+Percebe-se, em conclusão, que o presente recurso revela apenas o inconformismo da embargante com o resultado do julgamento que lhe foi desfavorável o que, contudo, não viabiliza a oposição de embargos de declaração.
+Com essas considerações, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
