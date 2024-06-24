@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO NÃO CONCEDIDO. VIOLAÇÃO AO ART. 8º, I, DO DECRETO N. 11.302/2022. INOCORRÊNCIA. RECONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 8º do Decreto n. 11.302/2022 traz em seu bojo limitações à concessão do indulto em razão de institutos incidentes na ação penal, quais sejam, suspensão condicional do processo, aplicação de penas restritivas de direitos e cominação de multa.
+1.1. No caso, na ação penal, o agravante foi condenado à pena privativa de liberdade com substituição por penas restritivas de direitos, razão pela qual nã o preencheu os requisitos para concessão do indulto.
+1.2. Conclusão que não se altera pela constatação de que no curso da execução penal e antes da edição do referido decreto, tenha ocorrido de forma definitiva a reconversão em pena privativa de liberdade pelo descumprimento das penas restritivas de direitos.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental de fls. 121/129 interposto por ROBSON VIER em face de decisão de minha lavra de fls. 111/116 na qual conheci do seu recurso especial para negar-lhe provimento, ficando mantido o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO - TRF4 em julgamento de Agravo de Execução Penal n. 5001690-22.2023.4.04.7017/PR.
+Em síntese, a decisão agravada manteve a não concessão do induto em razão da condenação com substituição da pena privativa de liberdade por restritivas de direitos, em atenção ao disposto no art. 8º, I, do Decreto n. 11.302/2022.
+No presente agravo regimental, a defesa insiste na concessão do indulto, pois o agravante, ao tempo do referido decreto, já cumpria pena privativa de liberdade, pois o juízo da execução reconverteu a pena restritiva de direitos em regime semiaberto. Destaca que a reconversão ocorreu em 23/6/2022 de forma definitiva (não provisória). Entende, assim, inaplicável o art. 8º, I, do Decreto n. 11.302/2022 para obstar a extinção da punibilidade. Acresce inexistir no citado decreto qualquer exceção à regra para a pena reconvertida, sendo vedada interpretação contra o réu. Lembra que a concessão do indulto é competência privativa do Presidente da República, nos termos do art. 84, XII, da Constituição Federal - CF.
+Requer a reconsideração ou a concessão do indulto.
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO NÃO CONCEDIDO. VIOLAÇÃO AO ART. 8º, I, DO DECRETO N. 11.302/2022. INOCORRÊNCIA. RECONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 8º do Decreto n. 11.302/2022 traz em seu bojo limitações à concessão do indulto em razão de institutos incidentes na ação penal, quais sejam, suspensão condicional do processo, aplicação de penas restritivas de direitos e cominação de multa.
+1.1. No caso, na ação penal, o agravante foi condenado à pena privativa de liberdade com substituição por penas restritivas de direitos, razão pela qual nã o preencheu os requisitos para concessão do indulto.
+1.2. Conclusão que não se altera pela constatação de que no curso da execução penal e antes da edição do referido decreto, tenha ocorrido de forma definitiva a reconversão em pena privativa de liberdade pelo descumprimento das penas restritivas de direitos.
+2. Agravo regimental desprovido.
+VOTO
+De plano, o agravo regimental deve ser conhecido, pois tempestivo, com impugnação da decisão agravada, nos limites da matéria apresentada no recurso subjacente.
+Quanto ao mérito, a decisão agravada deve ser mantida.
+Sobre o indeferimento do indulto, o TRF4 registrou o seguinte nos seguintes termos do voto do relator:
+"Indulto
+O Decreto nº 11.302, publicado em 23/12/2022, concedeu indulto natalino às pessoas condenadas, explicitando os requisitos necessários para a concessão do benefício. Para a solução do caso em análise, importa destacar o disposto no seu art. 5º, in verbis:
+Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+Parágrafo único. Para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal.
+Para além de tais requisitos, o Decreto nº 11.302/2022 previu situações impeditivas do benefício, a exemplo dos crimes elencados no art. 7º, dispondo também em seu art. 8º:
+Art. 8º O indulto natalino de que trata este Decreto não é extensível às:
+I - penas restritivas de direitos;
+II - penas de multa; e
+III - pessoas beneficiadas pela suspensão condicional do processo.
+No caso, o agravante foi condenado, nos autos da Ação Penal nº 5001067-97.2019.4.04.7016/PR pela prática do crime de uso de contrabando (art. artigo 334-A, § 1º, inciso I, do Código Penal, c/c art. 3º do Decreto-Lei nº 399/1968). A pena máxima cominada abstratamente a tal delito (5 anos) autorizaria, em tese, a concessão do indulto natalino.
+No entanto, como disposto pelo juízo a quo, o apenado foi beneficiado com a substituição da pena privativa de liberdade por restritivas de direitos, o que impede o deferimento do indulto previsto no Decreto nº 11.302/2022.
+Destaco que o apenado passou a cumprir pena privativa de liberdade unicamente em decorrência de seu desígnio, por descumprimento das penas restritivas de direitos (processo5000057-44.2021.4.04.7017/PR, evento 58, DESPADEC1).
+Em outras palavras, o apenado teve a oportunidade de cumprir sua reprimenda por meio de penas menos severas, quais sejam, as penas de prestação pecuniária e de prestação de serviços comunitários. No entanto, por descumpri-las e por frustrar os fins da execução penal, as penas restritivas de direitos foram convertidas em privativa de liberdade.
+Por certo, a hipótese em tela se encontra abarcada na vedação contida no inciso I do art.8º do Decreto nº 11.302/2022.
+Interpretação em sentido diverso importaria em evidente discrepância e inversão de valores, uma vez que, se não é dado ao apenado que cumpre rigorosamente suas penas restritivas de direitos gozar do benefício do indulto, com muito mais razão a negativa do indulto àquele que, apesar de oportunizado o cumprimento da pena na forma de medidas substitutivas, encontra-se atualmente cumprindo pena privativa de liberdade em virtude da prática de falta grave.
+Repiso. A pena privativa de liberdade aplicada ao agravante foi substituída por penas restritivas de direitos, de sorte que a situação dos autos claramente se amolda à vedação do art. 8º, inciso I, do Decreto nº 11.302/2022. O fato de, atualmente, o executado não estar cumprindo sua pena na forma de medidas substitutivas, mas sim sujeito à pena privativa de liberdade, não afasta a vedação legal.
+Não seria coerente conceder o benefício do indulto ao apenado que foi penalizado por descumprir as penas restritivas de direitos aplicadas em substituição à pena privativa de liberdade, sendo que o Decreto Presidencial nº 11.302/2022 impede que tal benesse seja oferecida à aquele executado que cumpre regularmente suas penas restritivas de direitos. A concessão de indulto, nesse caso, seria como premiar o comportamento insatisfatório do executado, incentivando a descumprimento das penas" (fl. 52).
+Extrai-se do trecho acima que o TRF4 manteve a não concessão do indulto porque o recorrente foi condenado à pena privativa de liberdade que foi pelo sentenciante substituída por restritivas de direitos, situação que, independentemente da reconversão ao longo da execução penal, é impeditiva ao indulto, na forma do art. 8º, I, do Decreto n. 11.302/2022.
+Esse entendimento encontra amparo na jurisprudência desta Corte, pois o art. 8º do Decreto n. 11.302/2022 traz em seu bojo institutos incidentes na ação penal, quais sejam, suspensão condicional do processo, aplicação de penas restritivas de direitos e cominação de multa.
+A corroborar, precedentes que tratam do referido artigo com esteio na ação penal condenatória em execução de pena:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECURSO DE AGRAVO EM EXECUÇÃO. EFEITO DEVOLUTIVO. INDULTO. PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. ART. 8º, I, DO DEC. N. 11.302/22. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recurso de agravo em execução goza de efeito devolutivo, assim, delimitada a matéria pelo recorrente, é possível à Corte estadual apontar a fundamentação necessária à análise do tema. Precedentes.
+2. Por expressa determinação legal (art. 8º, I, do Dec. n. 11.302/22), o benefício de indulto não é extensível aos condenados à pena restritiva de direitos. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 847.786/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 5º E 8º, I, AMBOS DO DECRETO PRESIDENCIAL N. 11.302/2022. INDULTO. CRITÉRIO DE DISCRICIONARIEDADE DO CHEFE DO PODER EXECUTIVO FEDERAL. CONDENAÇÃO À PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITOS. INVIABILIDADE. JURISPRUDÊNCIA DO STJ.
+1. O Tribunal Regional Federal da 4ª Região asseverou que substituída a pena privativa de liberdade por restritivas de direitos, incide a vedação contida no art. 8º do Decreto Presidencial n. 11.302/2022, devendo ser mantida a decisão recorrida. (fl. 64).
+2. Conforme disposto na decisão agravada, tendo sido o paciente condenado à pena privativa de liberdade substituída por restritiva de direitos, inviável o reconhecimento da extinção de punibilidade, haja vista a norma contida no art. 8º do Decreto n. 11.302/2022, que veda a extensão do indulto natalino às penas restritivas de direitos e de multa.
+3. Nos termos da compreensão do Superior Tribunal de Justiça, "o Presidente da República optou por não contemplar os condenados à pena privativa de liberdade substituída por restritivas de direitos com a concessão do indulto, de forma que não há que se atribuir interpretação ampliativa.  ..  (AgRg no HC n. 858.958/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 7/12/2023).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.080.932/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Há, ainda, recentíssimas decisões monocráticas no Superior Tribunal de Justiça - STJ, que verificam as vedações do art. 8º do Decreto n. 11.302/2022 em relação às disposições da ação penal subjacente.
+Nesse sentido, colaciono trecho da decisão do eminente Ministro Messod Azulay Neto no bojo do Recurso Especial n. 2.100.788/PR, publicado em 9/5/2024, que pode ser conferida no sítio eletrônico do STJ:
+"Da análise do Decreto n. 11.302/2022, verifica-se a ausência de determinação para se conferir o benefício do indulto aos apenados cuja pena restritiva de direitos tenha sido reconvertida, em caráter provisório ou permanente, para a sanção corporal originalmente imposta.
+Convém ressaltar que a concessão do indulto pelo Presidente da República decorre diretamente da competência a ele conferida pelo artigo 84, inciso XII, da Constituição Federal, de modo que a sua atuação não encontra limites em qualquer ato legislativo infraconstitucional.
+Friso que o Decreto natalino constitui ato de clemência estatal e representa estratégia de política criminal, razão pela qual não cabe interpretação extensiva, pois nele está descrito claramente a intenção do Poder Executivo.
+Esta Corte Superior já sedimentou o entendimento de que, ao analisar o pedido de indulto, o julgador deve restringir-se ao exame de preenchimento dos requisitos previstos no decreto, pois sua concessão é de competência privativa do Presidente da República (HC n. 456.119/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/10/2018, DJe de 15/10/2018).
+Nessa linha, o Decreto n. 11.302/2022 consignou, em seu artigo 8º, I, que o benefício não se aplica às penas restritivas de direitos.
+Assim, independentemente de a pena atender aos limites do artigo 5º, isto é, a pena privativa de liberdade máxima em abstrato não superior a cinco anos, caso esta seja substituída por restritiva de direitos, o réu não terá direito ao indulto natalino.
+No caso em apreço, o recorrente foi condenado definitivamente pela prática do crime previsto no artigo 70 da Lei n. 4.117/62, à pena restritiva de direitos. Diante disso, não se enquadra nos requisitos objetivos estabelecidos pelo decreto supra narrado.
+A reconversão da pena restritiva de direito em privativa de liberdade não mitiga a vedação do art. 8º, inciso I, do decreto.
+Isso porque "não é dado ao Poder Judiciário estabelecer condições não previstas no decreto para conceder benefícios nele definidos, sob pena de usurpação da competência atribuída ao Presidente da República no art. 84, XII, da Constituição Federal". (AgRg no HC n. 389.601/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2018, DJe de 25/9/2018).
+Assim, conforme jurisprudência consolidada dessa Corte, o cabimento do indulto é aferido com base na pena originalmente imposta e, não, naquela porventura modificada em sede de execução por desídia do réu."
+Para corroborar, faço referência ao REsp n. 2092734, também de Relatoria do eminente Ministro Messod Azulay Neto, publicado em 9/5/2024; e ao REsp n. 2104788/PR, de Relatoria do eminente Ministro Ribeiro Dantas, publicado em 18/4/2024.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
