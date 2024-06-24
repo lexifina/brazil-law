@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA PROGRESSÃO DE REGIME. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL NÃO PROVIDO. DECISÃO MANTIDA.
+1. Conforme a orientação jurisprudencial desta Corte, "nos casos em que há condenação a uma única pena privativa de liberdade e o Acusado foi solto durante o curso do processo, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena, sob o risco de considerar pena cumprida o período em que o Réu esteve em liberdade provisória" (AgRg no REsp 1.928.917/GO, relatora a Ministra Laurita Vaz, Sexta Turma, julgado em 17/04/2023, DJe de 20/04/2023).
+2. Agravo regimental não provido. Decisão mantida.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por ERSON JOSE DE OLIVEIRA contra decisão por mim exarada, que denegou a ordem de habeas corpus (e-STJ fls. 98/101).
+Nas razões do presente recurso, o agravante alega, em síntese, que: a) "a data da prisão definitiva (28/11/2018) não pode ser considerada como data-base, uma vez que o agravante não cometeu nenhuma falta grave que ensejasse em interrupção da contagem de lapso para concessão de benefícios e, também, não houve trânsito em julgado em nova condenação, o agravante apenas foi anteriormente beneficiado com a liberdade provisória" (e-STJ fl. 112); b) "a concessão da liberdade provisória não é causa interruptiva de prisão, mas, apenas uma causa suspensiva, devendo ser mantida a data-base anterior" (e-STJ fl. 113); e c) "a data-base deve ser o dia 20/03/2011 (prisão em flagrante), com a suspensão do cumprimento da pena em 08/12/2011 (concessão da liberdade provisória), com reinício do cumprimento da pena em 28/11/2018 (prisão definitiva)" (e-STJ fl. 113).
+Por isso, requer a reconsideração da decisão ou submissão do recurso ao Colegiado para que seja dado provimento ao presente agravo a fim de que seja concedida a ordem.
+O Ministério Público do Estado de Mato Grosso do Sul apresentou contrarrazões, manifestando-se pelo não provimento do recurso (e-STJ fls. 122/128).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA PROGRESSÃO DE REGIME. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL NÃO PROVIDO. DECISÃO MANTIDA.
+1. Conforme a orientação jurisprudencial desta Corte, "nos casos em que há condenação a uma única pena privativa de liberdade e o Acusado foi solto durante o curso do processo, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena, sob o risco de considerar pena cumprida o período em que o Réu esteve em liberdade provisória" (AgRg no REsp 1.928.917/GO, relatora a Ministra Laurita Vaz, Sexta Turma, julgado em 17/04/2023, DJe de 20/04/2023).
+2. Agravo regimental não provido. Decisão mantida.
+VOTO
+Inicialmente, cumpre atestar a tempestividade da insurgência, porquanto a Defensoria Pública do Estado de Mato Grosso do Sul foi intimada eletronicamente da decisão impugnada em 08/04/2023 (e-STJ fl. 107) e o agravo interposto em 18 /04/2023 (e-STJ fl. 115), ou seja, dentro do prazo legal previsto no art. 258, caput, c/c o § 2º do art. 109 do RISTJ.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ fls. 99/101):
+No caso dos autos, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, que (e-STJ fls. 46/49):
+Conforme registrado no relatório, o agravante pugna, em ligeiro resumo, pela modificação da data-base para obtenção de benefício devendo, para tanto, ser considerada a data da sua autuação em flagrante (20/3/2011), o que foi indeferido pelos fundamentos:
+"Vistos. Trata-se de guia de recolhimento em que a Defesa apresenta impugnação ao cálculo, requerendo a retificação para que passe a constar a data da primeira prisão como data-base da progressão de regime (evento 88.1). O MP manifesta pelo indeferimento do pedido (evento 91.1). Pois bem. O pedido apresentado pela Defesa não pode ser acolhido pois, inexistindo outro marco interruptivo, a data-base da progressão de regime deve ser a data da última prisão, no caso dos autos, 28.11.2018, data em que foi preso para que iniciasse o cumprimento de sua pena, conforme se verifica do mandado de prisão juntado no evento 1.34. Ante o exposto, indefiro o pedido. No mais, aguarde-se o cumprimento da pena, adotando a serventia, de ofício, as providências de impulso processual necessárias ao célere andamento processual. Intimem-se. Cumpra-se".
+O recurso não comporta provimento.
+Com efeito, compulsando-se os autos, denoto que o agravante foi autuado em flagrante no dia 20 de março de 2011, havendo a posterior concessão de liberdade provisória no dia 8 de dezembro de 2011.
+Após o transcurso da ação penal, o agravante iniciou o cumprimento da pena definitiva em 28 de novembro de 2018, sendo essa a data considerada para fins de obtenção da progressão de regime prisional.
+In casu, como sabido, a data-base para obtenção de benefícios, pode ocorrer com a autuação em flagrante (desde que não haja interrupções); com a prisão após o fato (no caso de decretação de prisão preventiva) e por meio da prisão definitiva (após o trânsito em julgado da sentença condenatória). No curso do cumprimento de pena, esse marco pode sofrer alterações em decorrência do cometimento de falta grave e, ainda, em razão da superveniência de condenação transitada em julgado.
+No caso em tela, a despeito das razões recursais, o período de permanência da prisão preventiva foi devidamente considerado como pena cumprida (detração - ex vi do art. 42 do CP c.c art. 111 da LEP), o que, no entanto, não representa fundamento hábil à modificação da data-base para a obtenção de benefício prisional, porquanto, se assim o fosse, haveria a indevida inclusão do período em que ele permaneceu em liberdade como pena cumprida.
+(..)
+Frente a isso, estando a decisão combatida em consonância com o entendimento deste eg. Tribunal e do c. Superior Tribunal de Justiça, o seu desprovimento é medida de rigor.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o acórdão impugnado está em harmonia com o entendimento desta Corte Superior de Justiça.
+Ante o exposto, denego a ordem.
+Reforço que, conforme a orientação jurisprudencial desta Corte, "nos casos em que há condenação a uma única pena privativa de liberdade e o Acusado foi solto durante o curso do processo, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena, sob o risco de considerar pena cumprida o período em que o Réu esteve em liberdade provisória" (AgRg no REsp 1.928.917/GO, relatora a Ministra Laurita Vaz, Sexta Turma, julgado em 17/04/2023, DJe de 20/04/2023, grifos acrescidos).
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRIMEIRA PRISÃO. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, o paciente foi preso provisoriamente em 26/8/2016 e solto em 24/4/2017, sendo preso novamente apenas em 30/4/2021 para iniciar o cumprimento da pena privativa de liberdade.
+2. O tempo de prisão preventiva não foi desconsiderado, tendo sido assegurada a detração ao paciente, que permaneceu em liberdade provisória posteriormente ao período de prisão cautelar, razão pela qual não há como considerar a data da primeira prisão (26/8/2016) como data-base para a obtenção de benefícios prisionais, sob pena de se considerar como pena efetivamente cumprida os mais de 4 anos em que o paciente permaneceu em liberdade.
+3 . Agravo regimental desprovido.
+(AgRg no HC 813.546/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/12/2023, DJe de 12/12/2023, grifos acrescidos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o apenado foi preso em flagrante no dia 9/12/2010, sendo concedida a liberdade provisória em 29/8/2012. Iniciado o cumprimento do decreto condenatório no dia 28/8/2020, a data-base que deve ser considerada para a progressão de regime é a data da última prisão efetuada, sendo que o período anterior à condenação em que o agente esteve preso será computado para fins de detração penal.
+2. Agravo regimental desprovido.
+(AgRg no HC 717.953/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/08/2022, DJe de 30/08/2022, grifos acrescidos).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
