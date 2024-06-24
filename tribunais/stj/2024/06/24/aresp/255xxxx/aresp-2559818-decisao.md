@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 192):
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA - AÇÃO DE CONHECIMENTO AJUIZADA PELO CENTRO ACADÊMICO VISANDO À DECLARAÇÃO DE NULIDADE DO REAJUSTE DAS MENSALIDADES E REPETIÇÃO DO INDÉBITO - DECISÃO OBJURGADA QUE JULGOU EXTINTO O CUMPRIMENTO DE SENTENÇA EM RELAÇÃO AOS EXEQUENTES QUE NÃO COMPROVARAM OS PAGAMENTOS DAS MENSALIDADES - FATO CONSTITUTIVO DO DIREITO PLEITEADO - IMPOSSIBILIDADE DE DISCUSSÃO SOBRE A QUEM INCUMBE A COMPROVAÇÃO DO PAGAMENTO DAS MENSALIDADES - MATÉRIA PRECLUSA - EXEGESE DOS ARTIGOS 505 E 507, AMBOS DO CPC - RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 489, §1º, IV, 505, 507 e 1.022, II, e parágrafo único, II, do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustenta que o acórdão recorrido foi omisso no que tange aos requerimentos de inversão do ônus da prova e de exibição de documentos, pois não estariam preclusos.
+Pondera que "deve-se afastar eventual preclusão da matéria, pois a decisão de seq. 50.1 sequer enfrentou os pedidos de inversão do ônus da prova e de exibição de documentos, que restaram indeferidos unicamente na decisão agravada (seq. 66.1 - íntegra em anexo), que posteriormente foi objeto de embargos de declaração e do presente agravo de instrumento" (fl. 246).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos.
+Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+O acórdão recorrido, ao julgar o recurso, concluiu que (fls. 195/197):
+Como bem decidiu o MM. Juiz na decisão agravada (mov. 66.1), a questão relativa a quem incumbia a comprovação do preenchimento dos requisitos necessário para cumprimento da sentença proferida nos autos 311/03, restou decidida na decisão proferida no mov. 50.1.
+Depreende-se dos autos, que aos requerentes/agravantes foi oportunizada a apresentação da documentação exigida na r. sentença proferida nos autos 311/03, no entanto, somente três deles apresentaram de forma satisfatória a documentação necessária para o prosseguimento do cumprimento de sentença.
+A r. decisão de mov. 50.1 consignou expressamente:
+"(..) Por fim, insurge o executado quanto a necessidade de liquidação prévia do título executivo judicial, a fim de que sejam comprovados os requisitos impostos por ocasião da sentença prolatada nos autos n. 311/03.
+E, analisando o contido na referida decisão, tem-se que esta constou expressamente a determinação de que "aos acadêmicos substituídos ou ao próprio CADUM (CDC, 97) - desde que exiba autorização expressa de cada um dos filiados - caberá propor ação de liquidação por artigos, na qual deverão demonstrar individualmente: a) a filiação ao Centro Acadêmico, formalizada até 27.6.2003; b) a frequência ao curso de Direito oferecido pela Unipar entre os anos de 1996 a 2003; e c) o pagamento das mensalidades cujas diferenças (total dos reajustes, descontada a correção monetária) deverão ser restituídas pelas rés".
+(..) Desse modo, tem-se que necessária previamente a comprovação pelos requerentes, de forma individual, dos requisitos impostos por ocasião da sentença nos autos n. 311/03. (..)"(mov. 50.1).
+Donde se pode concluir que já neste momento foi oportunizado aos autores/requerentes da execução individual a apresentação da documentação necessária para prosseguimento regular, no entanto, os agravantes não apresentaram a documentação. Sobreveio, então, a decisão agravada, que houve por bem, extinguir o feito em relação aos requerentes que não comprovaram os requisitos necessários para a execução individual (mov. 66.1)
+(..)
+Conforme restou consignado na decisão de mov. 22.1/AI, que deixou de conceder o pedido de efeito suspensivo, a questão referente à determinação da comprovação do pagamento das mensalidades, a serem restituídas já havia sido decidida no mov. 50.1, a qual não foi objeto de recurso pelos interessados, restando preclusa.
+Assim sendo, denota-se que não cabe qualquer discussão sobre a quem compete a obrigação de comprovação dos requisitos necessários para o cumprimento da sentença proferida nos autos n.º 311 /2003, nos termos dos artigos 505, caput e 507 do Código de Processo Civil.
+Dessa forma, alterar a conclusão do acórdão recorrido, que asseverou expressamente que a questão sobre a quem competia a obrigação de comprovação dos requisitos necessários para o cumprimento da sentença estaria preclusa, demandaria reexame de fatos e provas dos autos, providência vedada em recurso especial, ante o teor da Súmula 7/STJ.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
