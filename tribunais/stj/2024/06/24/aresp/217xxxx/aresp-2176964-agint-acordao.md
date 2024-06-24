@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TÍTULO JUDICIAL. INTERPRETAÇÃO. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF.
+1. Não viola o art. 1.022, II, do Código de Processo Civil, nem importa em negativa de prestação jurisdicional, o acórdão que adota fundamentação suficiente para a resolução da causa, decidindo de modo integral a controvérsia posta, porém de forma diversa da pretendida pelo recorrente.
+2. Rever a conclusão do aresto impugnado acerca dos limites do título executivo judicial, para concluir pela ocorrência de violação da coisa julgada, esbarra na Súmula nº 7 do Superior Tribunal de Justiça.
+3. A falta de impugnação específica de fundamentos suficientes do julgado atacado atrai a aplicação, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão desta relatoria que conheceu do seu agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento (fls. 786-790).
+Em suas razões (fls. 794-808), o agravante apresenta as seguintes argumentações:
+(i) reitera a apontada violação dos arts. 489 e 1.022 do Código de Processo Civil, argumentando que o acórdão que julgou os embargos de declaração não respondeu aos questionamentos formulados pelo embargante acerca da impossibilidade de julgamento implícito ou por mera presunção do que teria sido postulado, já que, segundo alega, o titulo judicial exequendo não analisou a conta corrente existente no Banco Noroeste e, por isso, a sua inclusão na liquidação de sentença ofende a coisa julgada.
+(ii) aduz que é desnecessário o reexame de matéria fática para o julgamento da tese de violação à coisa julgada, pois "o próprio acórdão recorrido admite, nos trechos grafados, que a terceira conta não foi julgada de maneira expressa pela sentença" (fl. 805).
+Afirma, também, que a existência de recebimento do aditamento da inicial não tem o condão de ensejar a inclusão do seu conteúdo no título executivo judicial, pois a matéria tratada no referido aditamento não foi expressamente decidida.
+Alega ser "equivocada a afirmação de que o mero recebimento da emenda permitiria concluir que três pedidos teriam sido julgados, quando o próprio título executivo judicial foi expresso ao afirmar que apenas dois o foram" (fl. 806).
+(iii) insurge-se contra a aplicação da Súmula nº 283/STF ao seu recurso especial, asseverando que a controvérsia apresentada no apelo nobre "envolve justamente a afirmação do acórdão no sentido de que o mero aceite da emenda bastaria para estender a conclusão da sentença ao negócio jurídico que a própria não relatou e/ou fez qualquer menção" (fl. 807).
+Impugnação apresentada às fls. 816-837.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TÍTULO JUDICIAL. INTERPRETAÇÃO. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF.
+1. Não viola o art. 1.022, II, do Código de Processo Civil, nem importa em negativa de prestação jurisdicional, o acórdão que adota fundamentação suficiente para a resolução da causa, decidindo de modo integral a controvérsia posta, porém de forma diversa da pretendida pelo recorrente.
+2. Rever a conclusão do aresto impugnado acerca dos limites do título executivo judicial, para concluir pela ocorrência de violação da coisa julgada, esbarra na Súmula nº 7 do Superior Tribunal de Justiça.
+3. A falta de impugnação específica de fundamentos suficientes do julgado atacado atrai a aplicação, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+No que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, o tribunal estadual efetivamente solucionou a controvérsia apresentada, fundamentando as razões do seu convencimento com base no direito que entendeu cabível à espécie.
+Como cediço, o julgador não é obrigado a responder a todos os argumentos apresentados pelas partes, bastando que aponte as razões do seu convencimento acerca dos pontos imprescindíveis à resolução da demanda.
+Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato do acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PEDIDO DE REMOÇÃO DE CONTEÚDOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA. ARTS. 54 E 55 DO CPC. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. DESNECESSIDADE DE PEDIDO. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+(..)
+5. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 1.806.722/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023)
+Quanto ao pretendido reconhecimento de ofensa à coisa julgada, verifica-se que o agravante busca, em verdade, nova interpretação do título executivo judicial pela estreita via do recurso especial, o que é inviável nos termos da Súmula nº 7/STJ.
+Com efeito, o aresto atacado, após análise da sentença e do acórdão transitados em julgados, entendeu que houve determinação de recálculo de "todas as contas" da empresa devedora e, por isso, decidiu pela manutenção da conta corrente junto ao Banco Noroeste no cumprimento de sentença, já que a referida instituição financeira foi integrada à lide após recebimento da emenda a inicial.
+Eis o teor do julgamento dos embargos de declaração, esclarecendo a questão:
+"O acórdão foi claro no sentido de que a sentença consignou expressamente que o recálculo com exclusão dos lançamentos deveria abranger todas as contas correntes, desde a abertura. Ainda, restou esclarecido que o Banco Noroeste - assim como os demais, Banco Sudameris e Banco Real - foi devidamente citado nos autos, de forma válida, sem que houvesse, à época, qualquer impugnação a esse respeito, somente vindo a ser levantada a questão agora em cumprimento de sentença.
+Veja-se, conforme consignado no acórdão, houve a emenda a inicial, de forma válida e acatada pelo juízo, em que a parte autora solicitou a inclusão do Banco Noroeste no polo passivo. Trata-se de situação induvidosa e, inclusive, o Banco Santander (que incorporou as três instituições financeiras), apresentou a contestação, sem se insurgir quanto à inclusão do Banco Noroeste.
+Ainda, o julgado foi expresso quanto ao fato de que a ausência de menção da conta com o Banco Noroeste no relato dos fatos, por si só, tanto da sentença quanto do acórdão que julgou a apelação cível nº 1.087.754-6, de relatoria do ilustre Juiz de Direito Substituto em 2º Grau Rafael Vieira de Vasconcellos Pedroso, não podem servir de impedimento para validar a possibilidade de revisão da conta com o Banco Noroeste, já que, a efetiva e clara determinação foi para que todas as contas correntes, devem ser objeto da ação.
+Confira-se o entendimento adotado no julgado que, de forma clara e precisa, fundamentou a manutenção da determinação do recálculo da conta corrente da embargada com Banco Noroeste:
+"Veja-se que a sentença consignou expressamente que o recálculo com exclusão de lançamentos deveria se dar em todas as contas correntes, desde suas aberturas e, considerando que o Banco Noroeste foi incluído na lide, inclusive com sua citação válida, inexistindo qualquer impugnação quanto a isso, por certo que a relação jurídica com ele havida foi abrangida pelo comando judicial. Aliás, decorrida toda a fase de conhecimento sem qualquer questionamento quanto a isso, sendo que somente nesse momento o Banco Santander teceu argumentações de que a conta com o Banco Noroeste não deve integrar os cálculos.
+Ainda, a alegação de que no acórdão de julgamento da apelação cível nº 1.087.754-6, de relatoria do ilustre Juiz de Direito Substituto em 2º Grau Rafael Vieira de Vasconcellos Pedroso, não houve apreciação dessa relação jurídica, uma vez que constou no tópico "Dos contratos a revisar" a especificação das contas com os Bancos Real e Sudameris, mas não constou da conta tida com o Banco Noroeste, não é suficiente para afastar esta última da revisão determinada pela sentença.
+Isso porque, o acórdão não alterou em nada a sentença, pois conheceu em parte e negou provimento ao apelo do Banco. Ou seja, consolidou-se a coisa julgada da sentença, mais precisamente de seu dispositivo. Ainda, a ausência de menção expressa no acórdão no tópico "Dos contratos a revisar" se mostra como mero erro material, que não retira a eficácia da sentença e não prejudica a análise do feito, tendo em vista que o Banco Noroeste integra a lide desde que de admitida a emenda a inicial. Por fim, a questão sobre a inclusão da conta com o Banco Noroeste não havia sido objeto do recurso e, portanto, sequer poderia ser analisada pelo acórdão.
+Assim, diante da conjugação de todos os elementos constantes nos autos, quais sejam, regular inclusão do Banco Noroeste no polo passivo, emenda à inicial válida e recebida pelo juízo, citação válida, intimação para todos os atos processuais e determinação na sentença para recálculo de todas as contas correntes, desde o início da relação jurídica, conclui-se que a Conta corrente garantida de nº 078.515417.50 integra a determinação da sentença para recálculo de lançamentos."
+Não há qualquer vício no julgado. O entendimento adotado é expresso e direto, considerando como devida a permanência do Banco Noroeste no polo passivo, diante de inúmeros fundamentos que não podem ser suprimidos pelo simples equívoco de não ter sido mencionado nos relatórios." (fls. 666-668)
+Ao que se vê, com efeito, o acolhimento do apelo nobre encontra óbice na Súmula nº 7/STJ, já que demandaria novo exame e interpretação do texto do título judicial executivo.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NULIDADE DE OPERAÇÕES BANCÁRIAS IRREGULARES. CUMPRIMENTO DE SENENÇA. COMPENSAÇÃO DE VALORES. INTERPRETAÇÃO DO TÍTULO EXECUTIVO. OFENSA À COISA JULGADA NÃO VERIFICADA.
+1. A decisão judicial deve ser interpretada a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé (art. 489, § 3º, do CPC).
+2. Não há ofensa à coisa julgada quando, no cumprimento de sentença o título executivo judicial é interpretado de acordo com o princípio da razoabilidade de modo a afastar resultados visivelmente indesejados, sobretudo o enriquecimento ilícito. Precedentes.
+3. Tendo o acórdão recorrido afirmado que a interpretação proposta pelo exequente promoveria seu enriquecimento indevido não é possível afirmar o contrário sem esbarrar na Súmula nº 7 do STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.258.220/CE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. COISA JULGADA. INTERPRETAÇÃO RAZOÁVEL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. "É entendimento desta Corte Superior que a melhor interpretação do título executivo judicial se extrai da fundamentação que imprime sentido e alcance ao dispositivo do julgado e que não viola a coisa julgada a interpretação razoável e possível de ser extraída do título judicial" (AgInt no AREsp n. 1.572.718/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/8/2022, DJe de 26/8/2022).
+4. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 2.148.589/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. 1. DUPLICIDADE DE RECURSOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. NÃO CONHECIMENTO DO SEGUNDO RECURSO. PRINCÍPIO DA UNIRRECORRIBILIDADE. 2. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 3. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/ STF E 211/STJ. 4. ERRO MATERIAL NÃO EVIDENCIADO. REVISÃO. SÚMULA 7/STJ. 5. ATUALIZAÇÃO DE VALORES. VERIFICAÇÃO DE EVENTUAL EXISTÊNCIA DE ANATOCISMO E CAPITALIZAÇÃO INDEVIDA DE JUROS. IMPOSSIBILIDADE. COISA JULGADA. PRECEDENTES. 6. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. Ademais, reverter a conclusão do Tribunal local, acerca da inexistência de erro material e da violação à coisa julgada, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante o enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.086.115/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TÍTULO JUDICIAL. INTERPRETAÇÃO. COISA JULGADA. LIMITES. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese.
+3. Na hipótese, rever o entendimento das instâncias ordinárias acerca dos limites do título executivo demandaria a análise de fatos e provas dos autos por esta Corte, providência vedada em recurso especial pela incidência da Súmula nº 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há ofensa à coisa julgada quando o magistrado interpreta o título executivo judicial para melhor definir seu alcance e sua extensão.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 1.973.956/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022)
+"CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA COM PEDIDO DE DANOS MATERIAIS E MORAIS. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. VIOLAÇÃO DO ART. 1022, II, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DETERMINAÇÃO DO TÍTULO JUDICIAL DE QUE A VERBA HONORÁRIA INCIDA SOBRE O VALOR DA CONDENAÇÃO. ALEGADA OFENSA À COISA JULGADA E AO ART. 85, § 2º, DO NCPC. PRETENSÃO DE INCLUSÃO DO VALOR DO IMÓVEL (CORRESPONDENTE À OBRIGAÇÃO DE FAZER - ADJUDICAÇÃO COMPULSÓRIA E BAIXA DE HIPOTECA) NA BASE DO CÁLCULO DOS HONORÁRIOS DE ADVOGADO. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. PRECEDENTES. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. A inclusão da expressão econômica da obrigação de fazer no "valor da condenação" (base de cálculo de honorários da sentença exequenda), contrariando o entendimento da Corte regional no sentido de que a ré não sofreu decréscimo patrimonial em decorrência da adjudicação e baixa de hipoteca em si consideradas, depende de reexame de interpretação com efeito extensivo do título executivo e atrai o óbice da Súmula n.º 7 do STJ.
+2. Para ações de adjudicação compulsória tem se admitido o valor atualizado da causa como base de cálculo dos ônus sucumbenciais, sendo que caberia à parte o insurgimento oportuno contra a sentença que restringiu tal base ao valor da condenação.
+3. Não demonstrado o equívoco nos fundamentos da decisão agravada, deve ser mantido o conhecimento do recurso especial e o seu não provimento.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.888.537/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023)
+Por fim, não foram impugnados todos os fundamentos do acórdão recorrido para manter a conta corrente do Banco Noroeste nos cálculos da execução, considerando-a como um dos negócios jurídicos incluídos no título executivo.
+Com efeito, nas razões do apelo nobre não há ataque específico às seguintes fundamentações suficientes à manutenção do julgado :
+a) de que o tribunal de origem manteve a decisão de primeiro grau sem qualquer alteração, consolidando a coisa julgada sobre o dispositivo da sentença, a despeito da ausência de menção expressa do contrato do Banco Noroeste no tópico "Dos contratos a revisar", e
+b) "a questão sobre a inclusão da conta com o Banco Noroeste não havia sido objeto do recurso e, portanto, sequer poderia ser analisada pelo acórdão" (fl. 635).
+Inafastável, assim, a incidência da Súmula nº 283/STF.
+Assim, as alegações postas no presente recurso não prosperam e são incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
