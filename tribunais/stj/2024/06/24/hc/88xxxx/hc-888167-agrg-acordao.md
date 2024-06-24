@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. FUGA. MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. No caso, a decisão que decretou a prisão preventiva do agravante está concretamente fundamentada na garantia da ordem pública, tendo em vista a gravidade concreta da conduta imputada ao agravante, pois foi apontada a apreensão de "5.716g de Cannabis sativa L, em variadas formas, inclusive skunk, e 498 micropontos de K4" (fl. 46). Ademais, a prisão cautelar também justifica-se para a conveniência da instrução criminal, uma vez que o agravante encontra-se foragido.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4 . Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por OPATERNO GONCALVES FERREIRA JUNIOR contra decisão que denegou o habeas corpus, porquanto constatada a presença de fundamentação idônea para a decretação da prisão preventiva, tendo em vista a gravidade concreta da conduta imputada ao agravante.
+Daí o presente agravo regimental, no qual a defesa reitera os argumentos da inicial e ressalta que "a decisão é carecedora de concreta fundamentação, SOBRETUDO PORQUE A RESPEITÁVEL DECISÃO QUE VEDOU AM LIBERDADE PROVISORIA TEM CARÁTER EMINENTEMENTE CAUTELAR AO AGRAVANTE, DEVENDO PREVALECER A PRESUNÇÃO DE INOCÊNCIA (CF, ARTIGO 5.º, INCISO LVII)" (fl. 235).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado, para que a custódia preventiva do agravante seja revogada, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. FUGA. MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. No caso, a decisão que decretou a prisão preventiva do agravante está concretamente fundamentada na garantia da ordem pública, tendo em vista a gravidade concreta da conduta imputada ao agravante, pois foi apontada a apreensão de "5.716g de Cannabis sativa L, em variadas formas, inclusive skunk, e 498 micropontos de K4" (fl. 46). Ademais, a prisão cautelar também justifica-se para a conveniência da instrução criminal, uma vez que o agravante encontra-se foragido.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4 . Agravo regimental desprovido.
+VOTO
+Consoante relatado, busca a defesa a reconsideração da decisão agravada, com a revogação da prisão preventiva do agravante ou a sua substituição por medidas cautelares diversas da prisão.
+A decisão que denegou o habeas corpus foi assim fundamentada (fls. 225-227):
+ ..
+A prisão cautelar foi assim fundamentada (fl. 167):
+Por fim, representou a autoridade policial pela conversão da prisão temporária em preventiva, com o que concordou o Ministério Público.
+De fato, é o caso de tal conversão. O crime aqui denunciado é gravíssimo, equiparado aos hediondos, daqueles que afrontam concretamente a ordem pública. Estão presentes provas da materialidade delitiva e fortíssimos indícios da autoria, conforme mencionado pelo parquet. Foi apreendida elevada quantidade de entorpecentes, de várias qualidades, entre outros petrechos típicos da traficância, inclusive a nova droga K4, cujos efeitos aos seus usuários são devastadores. Além disso, o réu conseguiu se esquivar da ação policial e encontra-se foragido, a demonstrar que não pretende colaborar com a justiça, nem mesmo comprovar sua eventual inocência, prejudicando a instrução processual e eventual aplicação de pena. Desta forma, presentes, efetivamente, os pressupostos legais, converto a prisão temporária em prisão preventiva, com a expedição do necessário mandado de prisão preventiva, regularizando-se, caso necessário, o BNMP.
+In casu, verifica-se a presença de fundamentos concretos para a denegação da ordem e manutenção da prisão cautelar, a bem da ordem pública, diante da gravidade concreta da conduta imputada a OPATERNO GONCALVES FERREIRA JUNIOR, pois apontado que, além da elevada e variada quantidade de droga apreendida (5.716g de Cannabis sativa L, em variadas formas, inclusive skunk, e 498 micropontos de K4 - fl. 46), "o réu conseguiu se esquivar da ação policial e encontra-se foragido".
+Tais argumentos são suficientes para rechaçar o alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+É entendimento pacífico nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade das drogas apreendidas. Nesse sentido: AgRg no HC n. 786.689/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023; AgRg no HC n. 776.330/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgRg no RHC n. 173.924/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023.
+Outrossim, a fuga do réu é fundamento válido a justificar a prisão cautelar, a fim de assegurar a aplicação da lei penal. Confiram-se: RCD no HC n. 862.221/MA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2023, DJe de 18/12/2023; AgRg no RHC n. 180.032/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023 e AgRg no RHC n. 187.858/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2023, DJe de 1/12/2023.
+Vale destacar que, "Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC 573.598/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+A despeito das alegações defensivas, a decisão deve ser mantida por seus próprios e jurídicos fundamentos, ainda que não se desconheça a complexidade e a relevância da questão tratada nestes autos.
+No caso, a decisão que decretou a prisão preventiva do agravante está concretamente fundamentada na garantia da ordem pública, tendo em vista a gravidade concreta da conduta imputada ao agravante, pois foi apontada a apreensão de "5.716g de Cannabis sativa L, em variadas formas, inclusive skunk, e 498 micropontos de K4" (fl. 46). Ademais, a prisão cautelar também justifica-se para a conveniência da instrução criminal, uma vez que o agravante encontra-se foragido.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
