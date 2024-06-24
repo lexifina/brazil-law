@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de Mato Grosso do Sul, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 548):
+EMENTA - APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - PRELIMINAR CONTRARRECURSAL - VIOLAÇÃO À DIALETICIDADE - REJEITADA - MÉRITO - AÇÃO ANULATÓRIA DE AUTO DE LANÇAMENTO DE MULTA - SUPOSTO CREDITAMENTO INDEVIDO DE ICMS - NÃO OCORRÊNCIA - PEÇAS AUTOMOTIVAS UTILIZADAS PARA CONSERTO DE VEÍCULOS - OPERAÇÃO INTERNA - OBRIGAÇÃO TRIBUTÁRIA NÃO CONFIGURADA - SENTENÇA DE PROCEDÊNCIA MANTIDA - RECURSOS CONHECIDOS E DESPROVIDOS.
+I - Não há que se falar em ausência de dialeticidade recursal se o recurso devolve de maneira suficiente a matéria impugnada para apreciação. Preliminar contrarrecursal rejeitada.
+II - Considera-se operação interna a utilização de peças para conserto de veículos automotores, ainda que o proprietário de tal veículo seja residente cm outra unidade da federação. Ausência de creditamento indevido pelo autor, com
+conseqüente reconhecimento da nulidade da autuação. Sentença de procedência
+mantida.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 23 da Lei Kandir e 106, II, e 144 do CTN. Sustenta que: (I) "o descumprimento à obrigação acessória, instituída com a finalidade de garantir a melhor atuação das autoridades fiscalizatórias, impossibilitou o crédito da forma pretendida." (fl. 564) e (II) "o ALIM 38349 refere-se a fatos geradores ocorridos entre 01/2015 e 12/2016, enquanto a mudança legislativa ocorreu em julho de 2017" e conclui que "É, evidente, portanto a inaplicabilidade das novas disposições ao caso em apreço" (fl. 565).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, a matéria pertinente aos arts. 106, II, e 144 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Adiante, o Tribunal de origem declarou a nulidade do au to de lançamento de imposição de multa com base na seguinte fundamentação (fls. 551/552):
+Não obstante, verifica-se que a autuação se deu com base em operações de conserto de veículos, com utilização das respectivas peças veiculares, para contribuintes domiciliados em outras unidades da Federação. Tal hipótese, ao contrário do defendido pelo Fisco, corresponde a uma operação interna, não havendo que se falar em irregularidade no creditamento.
+Tal fato decorre de previsão expressa do Regulamento do ICMS no estado de Mato Grosso do Sul (Decreto 9.203/98) que, em seu art. 262, §1º, I, dispõe:
+"Ari. 262. Para os efeitos deste Regulamento, considera-se: §1" Consideram-se, também, operações internas aquelas em que, não obstante os documentos emitidos pelo fornecedor sejam endereçados a destinatários localizados em outra unidade da Federação, as mercadorias fornecidas sejam:
+I - consumidas no estabelecimento fornecedor ou empregadas em consertos, reparos, substituição, reposição ou qualquer outro procedimento, realizado no referido estabelecimento, em veículos, máquinas, equipamentos ou quaisquer outros objetos, tal como o fornecimento de peças, partes, pneus e câmaras, empregado no conserto e na manutenção de veículos."
+Não há que se falar, pois, em operações interestaduais de ICMS em relação às peças utilizadas pelo requerente na realização de reparos de veículos, ainda que os proprietários dos veículos se encontrem em outra unidade federativa.
+Tal como consignado pelo juízo a quo, ainda que, ao tempo da tributação não estivesse vigente o referido dispositivo, a configuração de operação interestadual realizada anteriormente configurava-se como incompatível à Constituição Federal, verbis:
+ ..
+Ressalte-se, por fim, que não houve a atuação pelo descumprimento de obrigação acessória, senão pela suposta utilização indevida do crédito tributário, consoante disposto no art. 117, I e II, do Código Tributário Estadual, não havendo, no auto de infração, discriminação do descumprimento de quaisquer obrigações relacionadas com a documentação fiscal da empresa.
+Por conseguinte, verificada a higidez da atuação da requerente no creditamento do imposto referido, deve ser mantida a sentença que declarou a nulidade do auto de lançamento de imposição de multa n. 38.349-E.
+Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Regulamento do ICMS no estado de Mato Grosso do Sul (Decreto 9.203/98) e Código Tributário Estadual), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
