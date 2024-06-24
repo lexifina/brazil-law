@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANOS DE SÁUDE. VIOLAÇÃO DO ART. 1.022, I e II, DO CPC. NÃO OCORRÊNCIA. REEMBOLSO DE DESPESAS FORA DA REDE CREDENCIADA. ART. 12, VI, DA LEI N. 9.656/1998. CIRCUNSTÂNCIAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. O reembolso das despesas efetuadas pelo beneficiário com assistência à saúde é admitido, nos limites das obrigações contratuais, nos casos de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras (art. 12, VI, da Lei n. 9.656/1998).
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido.
+RELATÓRIO
+ALEXIS ZACHARIAS FILHO interpõe agravo interno contra a decisão de fls. 475-481, que negou provimento ao agravo interno.
+Alega que não é caso de aplicação da Súmula n. 7 do STJ, pois o caso dos autos diz respeito à falha na prestação de serviços da operadora do plano de saúde, que teve postura reprovável em relação à assistência prestada aos beneficiários durante período da pandemia de covid-19.
+Defende ser dispensável a produção de provas quanto a fatos notórios.
+Aduz que o acórdão recorrido violou o art. 1.022, I e II, do CPC, pois rejeitou os embargos de declaração sem apreciar os pontos levantados, deixando de entregar prestação jurisdicional adequada.
+Sustenta que o Tribunal a quo ignorou a regra prevista no CDC para a reparação civil decorrente de falha na prestação de serviços, isto é, a de que o consumidor tem direito à prestação de serviço por terceiro às custas do prestador inicialmente contratado.
+Afirma que só procurou atendimento fora da rede credenciada para salvaguardar sua vida.
+Argumenta que, com base no art. 39, V, do CDC, conclui-se que a operadora do plano adotou conduta abusiva, de acordo com o previsto no art. 51, IV e § 1º, do CDC, pois exigiu do consumidor vantagem manifestamente excessiva, não cumprindo sua obrigação de prestar o serviço contratado de forma integral e satisfatória.
+Pontua que o acórdão recorrido violou o art. 884 do Código Civil, destacando que se viu obrigado a arcar com atendimento particular em decorrência da falta de assistência médica eficaz da operadora de plano de saúde, bem como que não obteve o reembolso dos gastos que teve com tal prestação.
+Requer a reconsideração da decisão ou a submissão do agravo ao colegiado.
+A parte agravada não apresentou impugnação (fl. 507).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANOS DE SÁUDE. VIOLAÇÃO DO ART. 1.022, I e II, DO CPC. NÃO OCORRÊNCIA. REEMBOLSO DE DESPESAS FORA DA REDE CREDENCIADA. ART. 12, VI, DA LEI N. 9.656/1998. CIRCUNSTÂNCIAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. O reembolso das despesas efetuadas pelo beneficiário com assistência à saúde é admitido, nos limites das obrigações contratuais, nos casos de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras (art. 12, VI, da Lei n. 9.656/1998).
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+A controvérsia diz respeito à alegação de que seria devido o reembolso integral das despesas de atendimento realizado fora da rede credenciada.
+A Corte estadual, analisando o contexto fático dos autos, concluiu que não seria devido o reembolso integral de tais despesas nem cabível a condenação por danos morais. Veja-se, mais uma vez, excerto do julgado para melhor elucidar a questão (fls. 342-347):
+Com efeito, a respeito do reembolso, disciplina o artigo 12, inciso VI, da Lei 9.656/98:
+ .. Depreende-se, pois, que o dispositivo legal em referência é expresso ao admitir o reembolso nos limites das obrigações contratuais. Vale dizer, o valor do reembolso a ser praticado corresponde ao custo que seria despendido pela operadora caso o procedimento tivesse sido realizado em hospital integrante da rede credenciada.
+Não obstante, ao contrário do pretendido pelo autor, não há provas de que houve recusa de atendimento em nosocômio integrante da rede credenciada, dessumindo-se que o beneficiário optou por realizar o tratamento em caráter particular.
+Aliás, a ré comprovou que o autor sequer permaneceu no Pronto Atendimento do Hospital integrante de sua rede para saber a conduta que iria ser adotada para o seu tratamento, tendo inclusive o autor assumido que preferiu se dirigir a outro nosocômio.
+Restou demonstrado nos autos pela ré que foram adotados os protocolos de segurança em relação a doença, não havendo motivos suficiente para a evasão realizada pelo autor.
+O fato de ter sido sugerido a indicação de um kit, a realização de consulta tele presencial ou mesmo o encaminhamento ao pronto atendimento não sugere que toda a rede credenciada não serviria para o tratamento do autor. É cediço que as empresas de assistência médica oferecem diversos padrões de planos, ficando a critério do beneficiário a escolha daquele que seja mais adequado às suas necessidades.
+Obviamente que, para tanto, há um cálculo de custo-benefício. Por isso, determinadas categorias de plano de saúde são mais onerosas do que as outras, em razão dos hospitais, médicos e laboratórios credenciados.
+Os limites do contrato devem ser respeitados, a fim de se manter o equilíbrio financeiro, uma vez que para cada tipo de plano de assistência médico-hospitalar há um cálculo atuarial diverso.
+Por outro lado, para que não se configure enriquecimento sem causa da ré, que evidentemente teria um custo caso os procedimentos tivessem ocorrido em hospital da rede credenciada, deverá ela suportar as despesas oriundas do tratamento do segurado, mas apenas até o limite do valor que seria pago caso o atendimento tivesse ocorrido nos hospitais da rede credenciada, correspondente ao plano do qual o segurado é beneficiário.
+ ..
+Importante ressaltar que o autor procurou atendimento em um dos Hospitais de grande porte do município de São Paulo e sequer procurou o atendimento em outros hospitais credenciados dentro da mesma rede, desconhecendo inclusive se o tratamento prescrito seria o mesmo que o da instituição de saúde que posteriormente veio a procurar.
+De início, afastou-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinara e decidira, de modo claro e objetivo, as questões que delimitaram a controvérsia, não ocorrendo nenhum vício que pudesse nulificar o acórdão recorrido.
+Conforme acima relatado, o Tribunal de origem, analisando o contexto fático-probatório e considerando o previsto no art. 12, VI, da Lei n. 9.656/1998, julgou improcedente a pretensão do autor ao reembolso integral das despesas realizadas fora da rede credenciada, limitando-as ao previsto contratualmente, e afastou a condenação por danos morais.
+Desse modo, não há falar em omissão ou em ausência de fundamentação no acórdão recorrido.
+A respeito do reembolso das despesas, conforme disposto na decisão agravada, e que nem sequer foi refutado pelo agravante, a orientação desta Corte é no sentido de que, "nos termos do artigo 12, inciso VI, da Lei 9.656/98, o reembolso das despesas efetuadas pelo beneficiário com assistência à saúde somente é admitido em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, entre outros), e nos limites da relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto" (AgInt no AREsp n. 1.934.900/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022).
+No caso, a Corte de origem concluiu, com base nos elementos probatórios dos autos, que não havia provas de recusa do atendimento em hospital da rede credenciada; que houve a demonstração de que foram adotados os protocolos de segurança em relação à doença, não havendo motivos para a evasão do autor; que foi opção da parte realizar o tratamento de forma particular, em hospital de alto porte, sem procurar atendimento em outros hospitais integrantes da rede, desconhecendo se o tratamento prescrito seria o mesmo; e que a sugestão de uso do kit e de consulta telepresencial não significava que toda a rede não serviria para o tratamento . Portanto, para infirmar as referidas conclusões e reconhecer ser devido o reembolso integral dos valores despendidos para o tratamento fora da rede credenciada, seria necessário o reexame de provas, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
