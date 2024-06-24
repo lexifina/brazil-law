@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do STJ: "A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por MOCAM SUPERMERCADOS LTDA, contra o acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. DECISÃOMANTIDA.1. Deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial,diante da ausência de ataque específico aos fundamentos da decisão agravada, com fundamento no art. 932, III, do CPC/2015 e na Súmula 182/STJ.
+2. Agravo interno não provido (fl. 644).
+A parte embargante sustenta, em síntese, que o agravo interno não foi conhecido sob o fundamento de que a recorrente não teria impugnado especificamente os fundamentos da decisão agravada, limitando-se a sustentar que a posição da Receita Federal fere o princípio da isonomia tributária, pois é vedada a discriminação entre os contribuintes que estão submetidos ao ICMS pelo sistema normal, ou ICMS pelo sistema de substituição tributária.
+Defende que :
+ ..  refutou o argumento esposado, de forma clara e coesa, mormente para demonstrar que a 1ª Turma deste Superior Tribunal de Justiça possui entendimento divergente desta 2ª turma, no sentido do contribuinte tem, sim, direito de apurar créditos da Contribuição ao PIS e da COFINS, no regime não cumulativo, incidentes sobre os valores relativos ao ICMS-ST suportados nas operações de aquisição de mercadorias, pugnando, via de consequência, pela unificação dos entendimentos por estes Tribunais (fl. 653).
+Aponta ainda que:
+ ..  ao afirmar que o Agravo interno não se prestaria para veicular eventual divergência entre as Turmas desta Corte, Vossas Excelências omitiram-se ao fato de que os Embargos de Divergências somente serão cabíveis contra acórdão de Turma e não contra decisão monocrática, razão pela qual se fazia necessário provocar o entendimento desta Turma, a fim de possibilitar a interposição de recurso cabível para unificação dos entendimentos das Turmas deste Colendo Superior Tribunal de Justiça (fl. 653).
+Ao final, requer seja conhecido o agravo interno.
+A parte embargada apresentou impugnação aos embargos de declaração às fls. 658-660.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do STJ: "A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Os embargos de declaração não merecem conhecimento.
+Nos termos do art. 1.023 do CPC/2015: "Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Interpretando o referido dispositivo legal, o STJ firmou entendimento no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+Isso posto, não conheço dos embargos de declaração.
