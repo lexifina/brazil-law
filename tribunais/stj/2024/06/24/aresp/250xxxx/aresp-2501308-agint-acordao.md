@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA E SÚMULA N. 284 DO STF. FUNDAMENTOS INTERDEPENDENTES. IMPUGNAÇÃO PARCIAL. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A Súmula n. 182 do STJ e o art. 1.021, § 1º, do CPC de 2015 terão incidência quando não forem impugnados todos os fundamentos de capítulo autônomo de decisão monocrática.
+2. Agravo interno não conhecido.
+RELATÓRIO
+HAPVIDA ASSISTÊNCIA MÉDICA S.A. interpõe agravo interno contra a decisão de fls. 154-158, que conheceu do agravo para não conhecer do recurso especial.
+Alega que não é caso de aplicação da Súmula n. 735 do STF, porquanto não há, nas razões do recurso especial, fundamento referente à antecipação de tutela, mas apenas quanto aos artigos de lei federal que impediriam a concessão de liminar. Apresenta print do trecho do recurso especial em que alegou ofensa ao art. 12 da Lei n. 9.656/1998.
+Afirma que, diferentemente do que consta da decisão, pretende a análise dos requisitos do art. 300 do CPC para que se verifique se estão preenchidos na espécie.
+Pontua que houve violação da Lei n. 9.656/1998, devendo ser admitido o agravo em recurso especial.
+Requer seja provido o agravo interno.
+A parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA E SÚMULA N. 284 DO STF. FUNDAMENTOS INTERDEPENDENTES. IMPUGNAÇÃO PARCIAL. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A Súmula n. 182 do STJ e o art. 1.021, § 1º, do CPC de 2015 terão incidência quando não forem impugnados todos os fundamentos de capítulo autônomo de decisão monocrática.
+2. Agravo interno não conhecido.
+VOTO
+O agravo não merece conhecimento.
+Conforme a jurisprudência pacífica desta Corte, os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgInt nos EREsp n. 1.841.540/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2022, DJe de 16/9/2022).
+Consta da decisão de fls. 154-158 que do recurso não se conheceu em razão da incidência da Súmula n. 735 do STF. Quanto à controvérsia relativa à violação do art. 12 da Lei n. 9.656/1998, aplicou-se a Súmula n. 284 do STF por não ter sido indicado, de forma clara, o artigo de lei federal que teria sido violado, pois não houve a particularização do inciso, parágrafo ou alínea em que recaíra a ofensa.
+Como visto, aplicou-se a Súmula n. 735 do STF por se tratar de recurso especial interposto contra a decisão de agravo de instrumento que mantivera a concessão de liminar. Além disso, incidiu a Súmula n. 284 do STF em relação à primeira controvérsia deduzida no recurso especial, acerca do art. 12 da Lei n. 9.656/1998.
+Contudo, neste agravo interno, a parte limitou-se a defender não ser caso de incidência da Súmula n. 735 do STF. Para afastar o referido óbice, afirma que pretende ver analisada a ofensa ao art. 12 da Lei n. 9.656/1998, apresentando, inclusive, print das alegações do recurso especial em que mencionara a afronta ao referido dispositivo. Ressaltou também a pretensão de ver analisados os requisitos do art. 300 do CPC, o que nem sequer foi objeto de insurgência no apelo especial.
+Desse modo, em momento algum refutou a incidência da Súmula n. 284 do STF quanto ao art. 12 da Lei n. 9.656/1998, por não ter sido particularizado o inciso ou o parágrafo que teria sido violado.
+No que diz respeito à falta de impugnação de todos os fundamentos da decisão, ressalte-se que a Corte Especial, recentemente, pacificou o seguinte entendimento:
+ ..  no sentido do cabimento de impugnação parcial de capítulos autônomos em sede de agravo interno, admitindo a desnecessidade de impugnação específica de todos os fundamentos da decisão recorrida e reconhecendo a preclusão dos capítulos não impugnados: "Diante desse contexto normativo e doutrinário, deve prevalecer a jurisprudência desta Corte no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ." (EREsp n. 1424404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021). (excerto da ementa do EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021)" (STJ, EREsp 1.738.541/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 08/02/2022).
+Conforme decidiu a Corte Especial, essa orientação restringe-se ao Agravo interno no Recurso Especial e ao Agravo interno no Agravo em Recurso Especial, tendo em vista a possibilidade de, em tese, a decisão singular do relator ser decomposta em capítulos, vale dizer, unidades elementares e autônomas do dispositivo contido no provimento jurisdicional objeto do recurso. Assim, "a parte recorrente pode impugnar a decisão no todo ou em parte, mas deve, para cada um dos capítulos decisórios impugnados, refutá-los em tantos quantos forem os motivos autonomamente considerados para mantê-los", de modo que a Súmula 182/STJ e a previsão do art. 1.021, § 1º, do CPC/2015 terão incidência "nas hipóteses em que o agravante não apresenta impugnação aos fundamentos da decisão monocrática do Ministro do STJ ou se houver, na decisão agravada, capítulo autônomo impugnado parcialmente, ou seja, não impugnação de um dos fundamentos sobrepostos no mesmo capítulo" (STJ, AgInt no AREsp 895.746/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/08/2016, invocado como fundamento, no julgamento dos EREsp 1.424.404/SP). (AgInt no REsp n. 1.941.390/RN, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/8/2022, DJe de 23/8/2022.)
+In casu, reitere-se, negou-se provimento ao recurso especial com fundamento em dois óbices interdependentes. Entretanto, em momento algum a parte contestou a decisão ora agravada enfrentando todos os motivos autonomamente considerados.
+Assim, tendo deixado de impugnar a aplicação da Súmula n. 284 do STF,
+fundamento suficiente para manter o desprovimento do recurso especial, incide na espécie a Súmula n. 182 do STJ.
+Nesse sentido, os seguintes precedentes: AgInt no REsp n. 1.578.580/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022; e AgInt no REsp n. 1.970.129/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
