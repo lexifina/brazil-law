@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO CONHECIDO EM PARTE E DESPROVIDO. PRELIMINAR. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. REJEIÇÃO. NECESSIDADE DE REANÁLISE DE PROVAS E DE DISPOSIÇÃO CONTRATUAL. ÓBICE DAS SÚMULAS 5 E 7/STJ. RECURSO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos e das cláusulas do contrato firmado entre as partes, atraindo a incidência das Súmulas 5 e 7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por VIBRA ENERGIA S.A, contra a decisão às fls. 401-408, por meio da qual foi conhecido o agravo para conhecer parcialmente do recurso especial fundamentado no art. 105, III, a e c, da CF/1988, e, nessa extensão, negar-lhe provimento.
+O agravante sustenta, em síntese, que o TJRJ foi especificamente instado a se manifestar sobre a inexistência de "comprovação de pagamento por parte do Município, para além do fato de que a ausência de nota de empenho não afasta a responsabilidade da Municipalidade" (fl. 416), tese por meio da qual pretendia fosse considerada a necessidade de a Administração Pública realizar o empenho, sob pena de enriquecer ilicitamente. Porém, o Tribunal rejeitou os aclaratórios sem se debruçar sobre a análise requerida, existindo, portanto, ofensa ao art. 1.022 do CPC/2015.
+Prossegue aduzindo violação aos arts. 300, I, 700, 701, do CPC/2015; e art. 884 do CC; ao argumento de que a falta do empenho é justamente o que evidencia o inadimplemento do Município, não podendo deixar de receber a sua contraprestação em razão do descumprimento dos trâmites legais pela Municipalidade, e que não pretende rever os fatos discutidos ou menos empreender nova análise das provas e dos contratos apresentados, não incidindo ao caso os enunciados das Súmulas 5 e 7/STJ.
+Pugna pela reconsideração da decisão agravada e pelo provimento do recurso.
+Intimado, o agravado deixou de apresentar contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO CONHECIDO EM PARTE E DESPROVIDO. PRELIMINAR. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. REJEIÇÃO. NECESSIDADE DE REANÁLISE DE PROVAS E DE DISPOSIÇÃO CONTRATUAL. ÓBICE DAS SÚMULAS 5 E 7/STJ. RECURSO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos e das cláusulas do contrato firmado entre as partes, atraindo a incidência das Súmulas 5 e 7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, presentes os seus pressupostos de admissibilidade.
+O agravante se insurge contra a decisão por meio da qual foi conhecido o agravo para conhecer parcialmente do recurso especial fundamentado no art. 105, III, a e c, da CF/1988, e, nessa extensão, negar-lhe provimento.
+A despeito do esforço argumentativo, deixa de demonstrar desacerto no decisum, prevalecendo, assim, a conclusão alcançada.
+Quanto à alegada violação dos arts. 489 e 1.022 do CPC/2015, o recorrente insiste na existência de omissão sobre a falta de comprovação de pagamento por parte do Município e sobre a tese de que a ausência de nota de empenho não afasta a responsabilidade da Municipalidade. Sustenta a relevância da tese para a realização do empenho pela Administração Pública, sob pena de enriquecimento ilícito.
+Ao que se colhe, o enfrentamento das teses foram afastadas pelo Tribunal de origem, que alcançou conclusão diversa da pretendida pelo recorrente quanto à necessidade de realização do empenho a partir da valoração de elemento probatório diverso.
+Constou no acórdão proferido no recurso de apelação:
+Em suas razões recursais, alegou a apelante, em resumo, a desnecessidade da apresentação da nota de empenho.
+Com efeito, a cláusula 3.3 do pacto para a contração de empresa especializada para aquisição de material (indexador 24), estabelece que "o pagamento da nota fiscal/fatura devidamente atestada, será efetuado no trigésimo dia, após o recebimento e aprovação do bem pela fiscalização da Prefeitura Municipal de São Gonçalo e o recebimento provisório do bem pelo controle pela Secretaria Municipal de Infraestrutura, Urbanismo e Conservação de Parques e Jardins (..)".
+Outrossim, nos termos da Lei nº 4.320/64, o empenho de despesa é ato emanado de autoridade competente que cria para o Estado a obrigação de pagamento e configura, por si só, ordem de pagamento a um serviço, obra ou fornecimento ao Poder Púbico, e gera, portanto, justa expectativa de recebimento do montante devido.
+É mister não olvidar que a observância aos procedimentos inerentes às despesas públicas deve ocorrer como forma de se assegurar a lisura, moralidade, isonomia e legalidade na gestão pública, não como um instrumento abusivo da Administração para se eximir do pagamento de obrigação regularmente constituída.
+Desta forma, uma vez não realizado o procedimento previsto no contrato para a liberação do pagamento, imperiosa a manutenção da sentença. Trago, aqui, parte da fundamentação da sentença:
+"Ocorre que o Embargante, em que pese apresentar cópia de duplicatas com aceite, não comprova a realização do procedimento contratual para liberação de pagamento, em que pese especificamente intimado para apresentação de documentos nesse sentido.
+Assim, ante a inexistência de comprovação de cumprimento de requisito contratual para liberação de pagamento pelo Embargante, impossível admitir-se que o réu deixou de quitar dívida regularmente constituída e expressa nas duplicatas mercantis." (fls. 250-254).
+Novamente, no julgamento dos embargos de declaração a turma julgadora destacou a apreciação da tese, apontando a ausência de provas quanto ao cumprimento pela contratada dos requisitos estabelecidos no item 3.3. do contrato celebrado entre as partes.
+Destarte, inexiste vício de fundamentação ou omissão que justifique o acolhimento da preliminar e anulação do julgado, conforme já assentado na decisão agravada.
+Igualmente, deixa o agravante de lograr afastar a incidência, ao caso, dos enunciados das Súmulas 5 e 7/STJ, haja vista a necessidade de perquirir todo o lastro probatório dos autos e, sobretudo, as disposições contratuais, para analisar potencial direito do recorrente, o que é inviável diante do óbice da Súmula 7/STJ.
+Ora, a questão na origem foi decidida a partir da análise da efetiva desoneração da parte do ônus que lhe competia (art. 373, do CPC/2015) e da valoração da disposição contratual, os quais não abrem margem para a reintepretação postulada pelo recorrente.
+Logo, inafastável a incidência dos óbices das Súmulas 5 e 7/STJ dos autos, que contempla o argumento de dissídio jurisprudencial, conforme assentado por este STJ: AgInt no AREsp 1.866.303/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2023, DJe de 27/10/2023.
+Não bastasse, deixou o recorrente de afastar a fundamentação sobre a dissociação dos argumentos da parte recorrente dos fundamentos utilizados no aresto impugnado, que atrai, por analogia, o óbice da Súmula 284/STF, a partir do qual: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da cont rovérsia."
+Isso posto, nego provimento ao recurso.
