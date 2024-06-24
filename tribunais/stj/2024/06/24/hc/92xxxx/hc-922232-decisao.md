@@ -1,0 +1,15 @@
+DECISÃO
+FERNANDA APRIGIO DOS SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte (Apelação Criminal n. 1500206-86.2021.8.26.0556).
+Consta dos autos que a paciente foi condenada a 5 anos, 7 meses e 15 dias de reclusão, em regime semiaberto, mais multa, como incurso no art. 33, caput, da Lei de Drogas.
+Pleiteia a defesa, neste writ, a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e consectários decorrentes da redução da pena.
+Decido.
+O Juiz sentenciante - em decisão chancelada pelo Tribunal de origem - afastou a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas pelos seguintes fundamentos (fl. 45):
+Na espécie, verifico que a acusada é tecnicamente primária, contudo, a própria confirma que já traficou antes, logo após a prisão do seu ex-companheiro. Ainda, a própria acusada afirmou, em Juízo, que o carro estava alugado para uma pessoa que não podia ser identificada, confirmando, contudo, tratar-se de pessoa perigosa, o que, por óbvio, afasta eventual aplicação da figura do tráfico privilegiado, dados os indícios de que se dedica às atividades criminosas.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, salientou a instância de origem a confissão da ré de haver praticado o delito em outras ocasiões, bem como seu envolvimento com pessoas dedicadas ao crime.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+Em razão do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida inalterada a fixação do regime inicial semiaberto, nos temos do art. 33, § 2º, "b", do CP, bem como a negativa de substituição da pena privativa de liberdade por restritivas de direitos (sanção superior a 4 anos).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
