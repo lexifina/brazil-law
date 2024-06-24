@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À luz das Súmulas 211 do STJ e 282 do STF e nos termos da jurisprudência deste Tribunal Superior, é inadmissível o recurso especial, quando o órgão colegiado a quo n ão houver apreciado a questão federal suscitada nas razões recursais. Precedentes.
+3. No caso dos autos, o recurso não pode ser conhecido porque o acórdão recorrido não tratou do tema recursal, o qual só foi abordado em decisão monocrática.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por FONTANELLA TRANSPORTES LTDA contra decisão que, com apoio na Súmula 282 do STF, não conheceu de recurso especial em que discute a ocorrência de prescrição intercorrente, no processo executivo fiscal.
+A parte agravante alega, em síntese (fls. 234/240):
+Segundo a decisão agravada, a tese recursal só foi tratada na decisão monocrática, não havendo debate acerca da prescrição no acórdão recorrido e não sendo interposto Embargos de Declaração pela agravante para sanar eventual omissão. Ocorre, Excelências, que o acórdão recorrido expressamente consignou que não restou verificado, pelo órgão colegiado, qualquer equívoco no entendimento externado pela decisão monocrática. Para concluir que não há equívoco na decisão monocrática, logicamente, houve o debate dos argumentos trazidos no agravo interno. Não seria lógico que o órgão colegiado do Tribunal a quo não debatesse sobre os argumentos trazidos no agravo interno sem analisar os pontos e teses levantadas pela ora agravante  ..  Se o Tribunal de origem afirma que a decisão recorrida está em sintonia com o entendimento jurisprudencial e o recurso especial interposto para ataca-la tem como fundamento justamente a dissonância entre ela e um recurso repetitivo deste C. Tribunal, não se pode dizer que não foi ventilada na decisão recorrida a violação alegada  ..  Da análise dos fundamentos do recurso especial pode-se concluir que seus argumentos estão umbilicalmente ligados à decisão impugnada, notadamente em relação à aplicação do REsp nº 1.340.553/RS (Temas 566, 567, 568, 569, 570, 571 e 614 do STJ).
+Impugnação apresentada pela parte agravada (fls. 247/250).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À luz das Súmulas 211 do STJ e 282 do STF e nos termos da jurisprudência deste Tribunal Superior, é inadmissível o recurso especial, quando o órgão colegiado a quo n ão houver apreciado a questão federal suscitada nas razões recursais. Precedentes.
+3. No caso dos autos, o recurso não pode ser conhecido porque o acórdão recorrido não tratou do tema recursal, o qual só foi abordado em decisão monocrática.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois a matéria veiculada nas razões do especial não foi prequestionada.
+De fato, tal como consignado na decisão monocrática, ora embargada, basta a leitura do teor do acórdão recorrido para se constatar a ausência de debate a respeito da matéria recursal, na medida em que o órgão julgador a quo se limitou a decidiu: "o agravante faz uso do recurso apenas para provocar o órgão colegiado ao reexame de matéria amplamente debatida e rejeitada na decisão monocrática. Não se apresenta aqui nenhum elemento fatual novo nem, tampouco, fundamento jurídico apto a desconstituir a opção hermenêutica do julgado".
+De fato, os autos revelam que o tema recursal só foi tratado em decisão monocrática, ao tempo em que a parte não interpôs embargos de declaração contra o acórdão recorrido para, eventualmente, oportunizar o prequestionamento ou o cabimento do especial por violação do art. 1.022 do CPC/2015. A respeito, vide:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CABIMENTO DE AGRAVO DE INSTRUMENTO. ROL DO ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. RESP 1.704.520/MT. AUSÊNCIA DE URGÊNCIA. EXCLUSÃO DE LITISCONSORTE. SITUAÇÃO DIVERSA DA MANUTENÇÃO DO LITISCONSORTE NA DEMANDA. MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. SÚMULA N. 7/STJ. INAPLICABILIDADE DA SÚMULA N. 98/STJ NA HIPÓTESE.
+1. O Tribunal de origem, em julgamento colegiado, manteve decisão monocrática do relator que reconhecera o descabimento do agravo de instrumento manejado na origem, visto que, diante da previsão contida no art. 1.015 do CPC, a pretensão da agravante de se ver excluída do polo passivo da demanda não autorizaria a interposição do instrumento, sendo incabível eventual mitigação do rol taxativo ante a ausência de urgência do pleito.
+2. Entendimento de origem que se coaduna com a jurisprudência do STJ, no julgamento do REsp n. 1.704.520/MT, de Relatoria da Ministra Nancy Andrighi, no qual ficou consignado que "o rol do art. 1.015, do CPC/15 é de taxatividade mitigada, admitindo, por isso, a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema n. 988/STJ), urgência inexistente na hipótese , em especial porque a literalidade do inciso VII do citado normativo prevê a interposição do instrumental contra decisão que promove a "exclusão de litisconsorte" e não sua manutenção no feito.
+Precedente: REsp n. 1.724.453/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 22/3/2019.
+4. A revisão do julgado quanto ao caráter protelatório dos declaratórios esbarra no óbice da Súmula n. 7/STJ.
+5. Incongruente que a agravante aduza a inaplicabilidade da multa à luz do previsto Súmula n. 98/STJ, porque se assim o fosse, teria manejado os embargos de declaração contra o acordão para fins de prequestionamento (o que não o fez), e não contra a decisão monocrática do relator, porquanto consabido que o prequestionamento se efetiva na manifestação colegiada e não por meio da manifestação unipessoal do relator.
+6. O STJ entende que deve ser aplicada a multa prevista no art. 1.021, § 4º, do CPC nos casos em que a parte insurge-se contra decisão fundamentada em precedente qualificado (recurso repetitivo latu sensu).
+Agravo interno improvido com aplicação de multa.
+(AgInt no AREsp n. 2.018.459/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO DIRETAMENTE CONTRA ACÓRDÃO QUE JULGOU OS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE. DECISÃO MONOCRÁTICA NÃO ATACADA POR AGRAVO REGIMENTAL. AUSÊNCIA DE PREQUESTIONAMENTO. CARACTERIZAÇÃO. PRECEDENTES DO STJ. AGRAVO NÃO PROVIDO.
+1. "De acordo com a jurisprudência desta Corte, mesmo que tenham sido opostos embargos declaratórios à decisão monocrática, e que estes, por sua vez, tenham sido julgados pelo órgão colegiado do Tribunal de origem, ainda assim, cabe o agravo interno para o esgotamento da instância a quo, quando os aclaratórios nada falam a respeito do mérito da questão. Precedentes" (AgRg no AREsp 212.816/RJ, Quarta Turma, Rel. Min. Luís Felipe Salomão, DJe 30/10/12).
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 366.206/PR, relator Ministro Arnaldo Esteves Lima, Primeira Turma, julgado em 7/11/2013, DJe de 21/11/2013)
+No contexto, portanto, deve ser mantida a decisão agravada, uma vez que a Súmula 282 do STF é mesmo óbice ao conhecimento do especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
