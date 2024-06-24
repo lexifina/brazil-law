@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+SERVIDOR E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA AUSÊNCIA DE PROVAS A FAVOR DO RECORRIDO. ÔNUS DO RÉU ACERCA DE SUAS ALEGAÇÕES. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. ÔNUS DA PROVA. ALTERAÇÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE DA DEMONSTRAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. As razões delineadas no recurso especial estão dissociadas dos fundamentos utilizados pelo aresto impugnado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+2. A alteração da conclusão do Tribunal de origem sobre o ônus da prova ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+3. A inviabilidade do recurso especial pela alínea a do art. 105, III, da CF/1988 implica o seu não conhecimento também pela alínea c da mesma norma, quando discutidos os mesmos pontos em ambos os capítulos recursais. demonstração da similitude fática e jurídica entre as decisões paradigmas e a recorrida.
+4. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  pelo MUNÍCIPIO DE CUSTÓDIA, contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela incidência das Súmulas 284/STF; e 7/STJ; e, quanto ao dissídio, os mesmos óbices aplicados na alínea a.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  não há falar em incidência por analogia do enunciado nº 284 da Súmula do STF, visto que, a matéria discutida no Recurso Especial não foi diversa da contida na decisão recorrida. Pelo contrário, o Recurso impugnou especificamente a decisão proferida pela TJPE.
+ ..
+A decisão recorrida, por sua vez, foi devidamente impugnada pelo Recorrente, ora Agravante, uma vez que este rebateu especificamente os fundamentos da decisão impugnada, quando da interposição do recurso especial, demonstrando a violação a legislação federal em debate, pelo fato do TJPE não ter considerado que o ônus de provar o direito requerido, recaia sobre o Autor, e não sobre o Réu (fl. 322).
+Sustenta, ainda, que:
+ ..  para a análise do direito do Município de Custódia, posto no Recurso Especial, não é necessário o revolvimento fático-probatório. Em outras palavras, levando-se em consideração fatos incontroversos postos nos autos, busca-se a devida aplicação do direito ao caso, observando-se corretamente a lei federal aplicável à matéria, e não a discussão quanto aos fatos narrados e provas acostadas aos autos.
+ ..
+Portanto, por serem incontroversos os fatos invocados no Recurso Especial, não há falar em incidência da súmula 7 do STJ, devendo ser conhecido e provido o referido Recurso por este STJ (fls. 323-326).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+SERVIDOR E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA AUSÊNCIA DE PROVAS A FAVOR DO RECORRIDO. ÔNUS DO RÉU ACERCA DE SUAS ALEGAÇÕES. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. ÔNUS DA PROVA. ALTERAÇÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE DA DEMONSTRAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. As razões delineadas no recurso especial estão dissociadas dos fundamentos utilizados pelo aresto impugnado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+2. A alteração da conclusão do Tribunal de origem sobre o ônus da prova ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+3. A inviabilidade do recurso especial pela alínea a do art. 105, III, da CF/1988 implica o seu não conhecimento também pela alínea c da mesma norma, quando discutidos os mesmos pontos em ambos os capítulos recursais. demonstração da similitude fática e jurídica entre as decisões paradigmas e a recorrida.
+4. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada, torna incólume o entendimento nela firmado.
+Na  origem,  a parte agravada ajuizou reclamação trabalhista contra o município agravante, objetivando a condenação do município:
+ ..  a proceder à assinatura e respectiva baixa da CTPS, com os respectivos recolhimentos previdenciários, aos depósitos na conta vinculada do FGTS, ao pagamento de férias, acrescidas terço constitucional, de forma dobrada, integral e proporcional, e ao pagamento dos 13º salários, além do pagamento de indenização compensatória pelo não cadastramento e não recolhimento ao programa PIS, pagamento dos adicionais de insalubridade no patamar apurado em perícia, e seus reflexos demais verbas trabalhistas e, finalmente, a liberação, através de alvará judicial, dos valores referentes ao FGTS, caso haja mudança de regime jurídico com a respectiva extinção do vinculo trabalhista (fl. 141).
+O Juiz sentenciante julgou parcialmente procedente a demanda. Irresignadas, apelaram ambas as partes. Por sua vez, a  Corte  de  origem  negou  provimento  aos  recursos, nos seguintes termos:
+Quanto às verbas salariais pleiteadas, se extrai da inicial e dos documentos colacionados que a autora foi contratada pelo Município de Custódia para exercer a função de Agente Comunitário de Saúde.
+Logo, dúvidas não restam sobre a condição de servidora contratada da autora, sendo que a relação jurídica analisada na espécie caracteriza, em verdade, um vínculo contratual administrativo, nos termos do art. 37, IX, da Constituição da República, para atender à necessidade temporária de excepcional interesse público.
+A demandante assemelha-se, portanto, a servidor público para contratação em regime temporário, sendo que o contratado para atender necessidade temporária de excepcional interesse público é servidor público, com relação funcional de natureza contratual e com regime especial estabelecido na forma da lei, que deverá elencar os direitos e deveres do servidor temporário, inclusive no que tange às verbas a que fará jus.
+Ocorre que a Constituição da República, em seu art. 39, §3º, outorga aos servidores públicos os direitos previstos no art. 7º, incisos IV, VI, VII, VIII, IX, XII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX. Da leitura conjunta dos artigos 7º e 39, §3º, da CR/88, vê-se que são direitos sociais comuns a todos os trabalhadores, seja de que regime for, de modo que deve ser aplicada a regra pelo ente competente, indistintamente, àquele que, embora não pertença ao corpo permanente da Administração, tenha com ela vinculo administrativo, tal como o servidor contratado temporariamente.
+Ora, comprovado o vínculo jurídico-administrativo, nos termos do art. 373, inciso II do CPC/2015, em se tratando de pagamento de verbas remuneratórias previstas no artigo 39, §3º da Constituição Federal, incumbiria ao réu a prova da existência de fato impeditivo, modificativo ou extintivo do direito autoral - ônus do qual não se desincumbiu o Município de Custódia nos presentes autos.
+ ..
+Nesse contexto, não há, no caso dos autos, comprovação de que houve o efetivo pagamento das verbas salariais postuladas e, especialmente no âmbito da Administração Pública, que é vinculada ao princípio da legalidade, a entidade pagadora dispõe de meios de comprovar os pagamentos por ela efetivados, pois o cumprimento das despesas públicas é solene e segue especificações legalmente previstas, de modo que a Administração dispõe de documentos idôneos para tal comprovação (fls. 197-199).
+Com feito, nas razões recursais, a parte agravante asseverou que:
+ ..  esta decisão não levou em consideração que, no caso dos autos, o Recorrido não comprovou a constituição do crédito em seu favor, ou seja, não demonstrou, através de provas contundentes, os fatos constitutivos de seu direito (fl. 256).
+Por outro lado, o Tribunal de origem consignou, no acórdão recorrido, que:
+ ..  não há, no caso dos autos, comprovação de que houve o efetivo pagamento das verbas salariais postuladas e, especialmente no âmbito da Administração Pública, que é vinculada ao princípio da legalidade, a entidade pagadora dispõe de meios de comprovar os pagamentos por ela efetivados, pois o cumprimento das despesas públicas é solene e segue especificações legalmente previstas, de modo que a Administração dispõe de documentos idôneos para tal comprovação (fl. 199).
+Assim, ao apresentar razões recursais dissociadas dos fundamentos trazidos no acórdão recorrido, o recurso passou a incidir, por analogia, na Súmula 284/STF, conforme ilustra precedente desta egrégia Corte:
+TRIBUTÁRIO. PROCESSO CIVIL. SUBSTITUIÇÃO TRIBUTÁRIA. DEPÓSITO JUDICIAL POR FORÇA DE DECISÃO PRECÁRIA EM AÇÃO MOVIDA PELO SUBSTITUÍDO EM DESFAVOR DA FAZENDA NACIONAL. LEVANTAMENTO ANTECIPADO DOS VALORES DEPOSITADOS. DECISÃO JUDICIAL REFORMADA. IMPOSSIBILIDADE DE NOVA COBRANÇA EM FACE DO SUBSTITUTO. PREJUÍZO DECORRENTE DE ATO DO PODER JUDICIÁRIO. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. PRETENSÃO QUE DEMANDA REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. RECURSO INADMITIDO.
+ ..
+VI - Ainda, aplicável o óbice da Súmula n. 284/STF quando as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+ ..
+XI - Recurso especial não conhecido (REsp 1.721.366/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023 - grifo próprio).
+Ademais, a alteração da conclusão do Tribunal de origem sobre o ônus da prova ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ (AgInt no AREsp 2.232.620/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+Por fim, no que tange à divergência, a decisão agravada não debateu propriamente a falta de sua demonstração, mas, sim, a impossibilidade de sua análise, na medida em que o capítulo recursal debate as mesmas matérias sobre as quais se verificou a incidência das Súmulas 7/STJ; e 284/STF.
+Isso posto, nego provimento ao recurso.
