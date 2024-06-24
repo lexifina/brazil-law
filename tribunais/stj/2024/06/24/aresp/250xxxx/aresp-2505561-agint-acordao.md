@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Aplicação correta da Súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno i nterposto por AGROPECUÁRIA SEMENTES TALISMÃ LTDA. - EM RECUPERAÇÃO JUDICIAL e OUTROS, contra decisão monocrática de fls. 979/980 (e-STJ), da lavra da Presidência deste Superior Tribunal de Justiça, a qual não conheceu do agravo (art. 1.042, do CPC/15) manejado pela parte ora insurgente, por ofensa ao princípio da dialeticidade - Súmula 182/STJ.
+Conforme ficou decidido, "mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 735/STF. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento".
+Irresignada (fls. 985/994, e-STJ), a parte insurgente interpõe o presente agravo interno, no qual contesta os fundamentos que embasaram a decisão recorrida.
+Impugnação oferecida às fls. 998/1.006 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Aplicação correta da Súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão impugnada, motivo pelo qual ela merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Em uma análise detida das razões do agravo (fls. 925/935, e-STJ), verifica-se que a parte insurgente não combateu, adequadamente, os fundamentos utilizados pela Corte de origem para inadmitir o processamento do apelo extremo.
+Em juízo prévio de admissibilidade (fls. 920/923, e-STJ), negou-se seguimento ao recurso especial, com fulcro no enunciado contido na Súmula 735/STF.
+Destacou-se, naquela oportunidade, o entendimento jurisprudencial adotado por esta Colenda Corte, no sentido de não se revelar cabível a interposição de recurso especial em face de decisão que defere ou indefere liminar ou antecipação de tutela, dada a sua natureza precária, sujeita à modificação a qualquer tempo.
+Em suas razões de agravo (art. 1.042, do CPC/15), por sua vez, ateve-se a parte recorrente a defender a impossibilidade de aplicação, por analogia, do referido óbice sumular, ante a existência de regra expressa, que prevê as hipóteses de cabimento de recurso especial.
+Depreende-se, portanto, que a parte agravante deixou de refutar o citado óbice mediante a exposição articulada da tese jurídica desenvolvida no recurso especial e a demonstração de que o apelo nobre não estaria voltado para discutir o preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional, mas para discutir os próprios dispositivos legais que disciplinam o tema (art. 300, do CPC/15).
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIA. SÚMULA N. 735 DO STF. ART. 300 DO CPC. REQUISITOS. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. ART. 1.022 do CPC. SÚMULA N. 284 do STF. NÃO IMPUGANAÇÃO. SÚMULA N. 182 do STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO. 1. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação de tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF. 2. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC. 3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda. 4. Em observância ao princípio da dialeticidade aplica-se a Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada dos fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ. 5. Agravo interno desprovido. (AgInt no AREsp n. 2.168.030/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Assim, a falta de ataque específico aos fundamentos da decisão agravada atrai, por analogia, o óbice contido no enunciado da Súmula 182 do STJ, verbis:
+"É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, nos moldes do entendimento firmado por este Tribunal Superior, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos da decisão de admissibilidade recursal, de maneira a demonstrar que o apelo extremo merece ser apreciado por esta Corte, o que não se vislumbra no recurso em questão.
+Este, a propósito, foi o entendimento adotado pela Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n.º 746.775/ PR, no qual restou afirmado que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182 do STJ.
+Pois, conforme já decidiu o STJ, " à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008 - grifos nossos).
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
