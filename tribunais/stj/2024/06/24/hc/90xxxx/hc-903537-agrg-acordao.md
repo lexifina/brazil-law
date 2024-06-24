@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OPOSIÇÃO AO JULGAMENTO VIRTUAL. CADEIA DE CUSTÓDIA. INCURSÃO EM CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O requerimento para a não inclusão de recurso para julgamento pelo plenário virtual deve ser fundamentado, não bastando a mera oposição sem indicação das razões que justifiquem o julgamento tele presencial." (AgInt no REsp n. 2.034.073/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+2. O instituto da cadeia de custódia, como se sabe, diz respeito à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade.
+3. No caso , não houve a indicação de nenhuma circunstância apta a configurar a quebra da cadeia de custódia ou de indícios de adulteração dos elementos obtidos a partir do aparelho celular. E a revisão dessa conclusão implica incursão em conteúdo fático-probatório, providência inviável no âmbito desta Corte.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por IGOR PEREIRA DOS REIS CASSIMIRO contra decisão que não conheceu do habeas corpus.
+Em seu arrazoado, a parte agravante alega que foram juntados aos autos dois laudos periciais atestando que as extrações dos aparelhos celulares são inidôneas.
+Sustenta que o processo já se encontra em fase de plenário do Júri, não sendo o caso de reanálise do conjunto probatório produzido.
+Argumenta que não há outro elemento de informação, sendo exclusivamente utilizada a extração de dados para configurar a autoria do paciente.
+Requer a reconsideração da decisão de forma monocrática ou mediante deliberação colegiada.
+Pugna pelo julgamento presencial na modalidade de videoconferência, com inscrição deste advogado para sustentação oral.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OPOSIÇÃO AO JULGAMENTO VIRTUAL. CADEIA DE CUSTÓDIA. INCURSÃO EM CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O requerimento para a não inclusão de recurso para julgamento pelo plenário virtual deve ser fundamentado, não bastando a mera oposição sem indicação das razões que justifiquem o julgamento tele presencial." (AgInt no REsp n. 2.034.073/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+2. O instituto da cadeia de custódia, como se sabe, diz respeito à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade.
+3. No caso , não houve a indicação de nenhuma circunstância apta a configurar a quebra da cadeia de custódia ou de indícios de adulteração dos elementos obtidos a partir do aparelho celular. E a revisão dessa conclusão implica incursão em conteúdo fático-probatório, providência inviável no âmbito desta Corte.
+4. Agravo regimental desprovido.
+VOTO
+De início, cumpre registrar que " o  requerimento para a não inclusão de recurso para julgamento pelo plenário virtual deve ser fundamentado, não bastando a mera oposição sem indicação das razões que justifiquem o julgamento tele presencial." (AgInt no REsp n. 2.034.073/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Acrescente-se que, nos termos do art. 184-B, §1º, do RISTJ, as sustentações orais e os memoriais podem ser encaminhados por meio eletrônico, até 48 horas antes de iniciado o julgamento, garantindo, desta forma, o respeito ao contraditório e à ampla defesa.
+No mais, o presente agravo não comporta provimento.
+O instituto da cadeia de custódia, como se sabe, diz respeito à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade.
+No caso dos autos, a Corte estadual afastou a nulidade ora apontada, sob os seguintes fundamentos:
+In casu, em que pese a ausência de atuação de perito técnico na extração dos dados interceptados, não se vislumbra nos autos elementos capazes de demonstrar qualquer mácula à prova colhida nos autos nº 0188.20.000756-8, sobretudo porque outros elementos probatórios carreados no presente feito, como os depoimentos dos policiais investigadores, permitem afirmar a veracidade das informações extraídas.
+Na esteira do decidido pelo Superior Tribunal de Justiça, no julgamento do Habeas Corpus nº 653.515/RJ, - as irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável  (HC 653.515/RJ, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, D
+Je 01/02/2022).
+Ou seja, a inobservância aos arts. 158-A a 158-F do Código de Processo Penal não implica, necessariamente, na inadmissibilidade ou nulidade da prova colhida, pois, eventuais irregularidades devem ser analisadas pelo douto Magistrado em conjunto com todos os elementos produzidos na instrução processual, a fim de se apurar, a partir das particularidades do caso, a confiabilidade e idoneidade da prova.
+Logo, no caso em exame, tendo em vista que a extração dos dados telemáticos foi autorizada judicialmente (f. 09 - doc. de ordem 34) e considerando, ainda, que foi realizada mediante regular procedimento administrativo investigatório, é certo que referidas provas gozam de presunção de veracidade e legalidade, motivo pelo qual não basta a mera impugnação genérica para que se tenha por exigível a realização de perícia técnica, somente admissíveis se apontados elementos concretos que evidenciem, ainda que indiciariamente, a ocorrência de fraude ou a inobservância dos ditames legais e constitucionais.
+Ora, a mens legis, com a criação da cadeia de custódia, tem o fito de evitar que a prova seja contaminada, logo, irregularidades ao longo do procedimento, por si só, não possuem o condão de macular a prova, eis que a materialidade do delito será comprometida apenas quando aquela estiver, cabalmente, maculada, tornando-se, nesta hipótese, imprestável.
+No caso em testilha, a Defesa não comprovou que houve a contaminação da prova, logo, não há que se falar em absolvição por ausência de prova válida de materialidade. (e-STJ, fls. 85-86)
+Conforme destacado pelo acórdão impugnado, não houve a indicação de nenhuma circunstância apta a configurar a quebra da cadeia de custódia ou de indícios de adulteração dos elementos obtidos a partir do aparelho celular. E a revisão dessa conclusão implica incursão em conteúdo fático-probatório, providência inviável no âmbito desta Corte.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRONÚNCIA. ACESSO A MENSAGENS DE WHATSAPP. SUPOSTA PERMISSÃO DO ACUSADO. ELEMENTOS QUE CORROBORAM A VERSÃO DOS POLICIAIS. REVERSÃO DAS PREMISSAS FÁTICAS. SÚMULA 7 DO STJ. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A devassa do aparelho celular durante o flagrante constitui situação não albergada pelo comando do art. 5º, inciso XII, da Constituição Federal, o qual assegura a inviolabilidade das comunicações. Por outro lado, os dados armazenados nos aparelhos celulares decorrentes de envio ou recebimento de dados via mensagens SMS, programas ou aplicativos de troca de mensagens (dentre eles o "WhatsApp"), estão relacionados com a intimidade e a vida privada do indivíduo, o que os torna invioláveis, nos termos do art. 5º, X, da Carta de 1988.
+2. Hipótese em que o contexto narrado não traz indicações de que a permissão teria ocorrido mediante constrangimento ou coação nem dúvidas quanto à voluntariedade do consentimento do acusado, razão pela qual a reversão das premissas fáticas encontra óbice na Súmula 7 do STJ.
+3. Quanto à alegada quebra da cadeia de custódia da prova, as instâncias ordinárias não constataram o comprometimento às determinações do art. 158-A do CPP, pois o aparelho celular e os outros bens apreendidos durante o cumprimento de mandados de busca e apreensão foram devidamente lacrados e identificados, inexistindo nos autos indício de adulteração da prova, de modo que a reversão das premissas fáticas demandaria amplo revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.330.373/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024; grifou-se.)
+Consoante o parecer ministerial, "há outros elementos de provas nos autos demonstrando a veracidade das informações extraídas, notadamente o depoimento dos policiais investigadores. Ademais, a prova produzida foi autorizada judicialmente e a defesa não demonstrou que as supostas irregularidades tenham contaminado as outras provas contra o acusado. Logo, não há o que se falar em declaração de nulidade dos dados extraídos do aparelho celular do acusado, devendo manter o prosseguimento da ação penal." (e-STJ, fl. 558).
+Diante do exposto, nego provimento ao agravo.
+É como voto.
