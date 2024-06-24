@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. MERA TENTATIVA DE REDISCUTIR O MÉRITO DO JULGADO.
+1. A tese de renúncia à prescrição pela Administração Pública foi expressamente rejeitada no acórdão embargado, não havendo falar em omissão.
+2. A Primeira Seção pacificou a controvérsia ao julgar os Recursos Especiais 1.925.192/RS, 1.925.193/RS e 1.928.910/RS (Tema 1109), firmando a tese de que "não ocorre renúncia tácita à prescrição (art. 191 do Código Civil), a ensejar o pagamento retroativo de parcelas anteriores à mudança de orientação jurídica, quando a Administração Pública, inexistindo lei que, no caso concreto, autorize a mencionada retroação, reconhece administrativamente o direito pleiteado pelo interessado". O acórdão recorrido está em harmonia com o referido precedente.
+3. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos a acórdão assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EXISTÊNCIA DE ERRO MATERIAL. PREMISSA EQUIVOCADA. EMBARGOS ACOLHIDOS COM EFEITO MODIFICATIVO. SERVIDOR PÚBLICO FEDERAL. REVISÃO DE APOSENTADORIA. TEMPO DE SERVIÇO ESPECIAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRESCRIÇÃO. EDIÇÃO DAS ON/MPOG 3 E 7/2007. NÃO OCORRÊNCIA DE RENÚNCIA À PRESCRIÇÃO.
+1. Havendo contradição, omissão, obscuridade ou erro material, merecem acolhida os Embargos de Declaração. Presença de erro material no aresto embargado que deve ser corrigido.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+3. Inexiste julgamento extra petita quando o Tribunal de origem decide dentro dos contornos do pedido formulado na peça inicial.
+4. Faz-se necessário o exame de todos os elementos fáticos-probatórios da demanda para que se aprecie a controvérsia acerca da extrapolação dos limites da lide; inviabilidade do cômputo de tempo de serviço relativo às atividades insalubres para fins de aposentadoria; impossibilidade de desaverbar licença-prêmio convertida em tempo de serviço dobrado; descabimento de indenização de mais de três meses; e inviabilidade do pagamento do abono de permanência com efeitos retroativos. É inviável, portanto, analisar tais teses defendidas no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido, o que esbarra no óbice da Súmula 7/STJ.
+5. A jurisprudência do STJ vem se consolidando no sentido de que não ocorre renúncia da Administração Pública à prescrição referente a ação de revisão de aposentadoria na hipótese em que reconhece, por meio das Orientações Normativas 3 e 7, de 2007, do MPOG, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público. Isso porque não foram expressamente incluídos por aqueles atos administrativos os servidores que, à época, já se encontravam aposentados e tiveram suas pretensões submetidas aos efeitos da prescrição.
+6. Embargos de Declaração acolhidos com efeito modificativo, para conhecer em parte do Recurso Especial da União e, nessa extensão, dar-lhe provimento.
+Nas razões dos Aclaratórios, alega-se:
+Como já se disse, este MM. Juízo deu parcial provimento ao recurso especial interposto pela União para o efeito de reconhecer que não teria ocorrido a renúncia à prescrição, por acreditar que a mera edição de um ato normativo genérico não acarreta essa circunstância. Ocorre que este MM. Juízo omitiu-se acerca do fato de que, no caso dos autos, a Administração Pública, revisou a portaria de aposentadoria do servidor com base na ON-SRH/MPOG Nº 03, DE18-05-2007 -convertendo, assim, em especial o período trabalhado em condições insalubres ao tempo em que o seu vínculo era celetista-, e a partir desse ato renunciou à prescrição, pelo que deve ser condenada ao pagamento das diferenças decorrentes da alteração da proporção da aposentadoria desde a jubilação. Oque se defende é que a renúncia em questão decorreu da revisão do ato de jubilação havida na via administrativa, com a edição de nova portaria de aposentadoria da parte autora, que obteve a alteração da proporção dos proventos em decorrência da contagem do tempo trabalhado em condições insalubres, na forma do disposto na ON-SRH/MPOG Nº 03, DE18-05-2007.
+(..)
+A toda a evidência, diante da edição do ato revisor da aposentadoria do autor, a Administração Federal reconheceu a necessidade de alteração do tempo de serviço dos autores, apurando e reconhecendo o direito aos atrasados devidos na esfera administrativa. Incide no caso, portanto, o disposto no art. 191 do Código Civil.
+Impugnação às fls. 1501-1504.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. MERA TENTATIVA DE REDISCUTIR O MÉRITO DO JULGADO.
+1. A tese de renúncia à prescrição pela Administração Pública foi expressamente rejeitada no acórdão embargado, não havendo falar em omissão.
+2. A Primeira Seção pacificou a controvérsia ao julgar os Recursos Especiais 1.925.192/RS, 1.925.193/RS e 1.928.910/RS (Tema 1109), firmando a tese de que "não ocorre renúncia tácita à prescrição (art. 191 do Código Civil), a ensejar o pagamento retroativo de parcelas anteriores à mudança de orientação jurídica, quando a Administração Pública, inexistindo lei que, no caso concreto, autorize a mencionada retroação, reconhece administrativamente o direito pleiteado pelo interessado". O acórdão recorrido está em harmonia com o referido precedente.
+3. Embargos de Declaração rejeitados.
+VOTO
+A irresignação não merece prosperar.
+A tese de renúncia à prescrição pela Administração Pública foi expressamente rejeitada no acórdão embargado:
+Em relação à prescrição, o Tribunal a quo consignou que, com a edição das Orientações Normativas 03 e 07 de 2007, expedidas pelo Ministério do Planejamento, Orçamento e Gestão, a Administração reconheceu expressamente o direito à pretendida revisão, mediante a edição de regra geral, praticando ato de renúncia tácita ao prazo prescricional relativo ao fundo de direito quanto aos valores atrasados. In verbis:
+(..)
+Ocorre que a a jurisprudência do STJ consolidou no sentido de que não ocorre renúncia da Administração Pública à prescrição referente a ação de revisão de aposentadoria na hipótese em que reconhece, por meio das Orientações Normativas 3 e 7, de 2007, do MPOG, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público. Isso porque não foram expressamente incluídos por aqueles atos administrativos os servidores que, à época, já se encontravam aposentados e tiveram suas pretensões submetidas aos efeitos da prescrição.
+Recentemente, a Primeira Seção pacificou a controvérsia ao julgar os Recursos Especiais 1.925.192/RS, 1.925.193/RS e 1.928.910/RS (Tema 1109), firmando a tese de que "não ocorre renúncia tácita à prescrição (art. 191 do Código Civil), a ensejar o pagamento retroativo de parcelas anteriores à mudança de orientação jurídica, quando a Administração Pública, inexistindo lei que, no caso concreto, autorize a mencionada retroação, reconhece administrativamente o direito pleiteado pelo interessado".
+O acórdão recorrido está em harmonia com o referido precedente. Ao contrário do que afirma a parte embargante, não há vício no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Pelo exposto, rejeito os Embargos de Declaração.
+É como voto.
