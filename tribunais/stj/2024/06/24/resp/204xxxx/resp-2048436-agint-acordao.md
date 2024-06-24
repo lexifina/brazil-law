@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. REPASSE DE VERBAS DA SAÚDE. HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF e 356/STF. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação de obrigação de fazer proposta em face do Estado do Tocantins, em que se pleiteia os repasses constitucionais obrigatórios do SUS, para fins de custeio dos serviços de saúde.
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Súmulas 282 e 356/STF.
+3. No caso em análise, o Tribunal de origem afastou a tese de que os honorários sucumbenciais não devem ser pagos em sua integralidade, à consideração de que a fixação se deu a partir dos parâmetros definidos na sistemática processual. No recurso especial, a parte recorrente apenas reitera de maneira genérica sua tese de insurgência, sem impugnar de maneira específica os fundamentos determinantes expendidos no acórdão recorrido. Assim sendo, incide na espécie o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO TOCANTINS, contra decisão proferida por esta Relatoria, ementada no seguinte sentido (fl. 402 e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. DECISÃO AGRAVADA RECONSIDERADA. AÇÃO DE OBRIGAÇÃO DE FAZER. REPASSE DE VERBAS DA SAÚDE. HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF e 356/STF. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+No agravo interno, o agravante afirma que não há que se falar em incidência das Súmulas 282/STF e 356/STF, uma vez que as teses foram devidamente prequestionadas, ainda que implicitamente. Por fim, sustenta que atacou todos os fundamentos do acórdão recorrido, o que afasta o óbice da Súmula 283/STF.
+Contraminuta às fls. 415/423 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. REPASSE DE VERBAS DA SAÚDE. HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF e 356/STF. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação de obrigação de fazer proposta em face do Estado do Tocantins, em que se pleiteia os repasses constitucionais obrigatórios do SUS, para fins de custeio dos serviços de saúde.
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Súmulas 282 e 356/STF.
+3. No caso em análise, o Tribunal de origem afastou a tese de que os honorários sucumbenciais não devem ser pagos em sua integralidade, à consideração de que a fixação se deu a partir dos parâmetros definidos na sistemática processual. No recurso especial, a parte recorrente apenas reitera de maneira genérica sua tese de insurgência, sem impugnar de maneira específica os fundamentos determinantes expendidos no acórdão recorrido. Assim sendo, incide na espécie o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno não provido.
+VOTO
+A pretensão não merece acolhida.
+Na hipótese dos autos, cuida-se de ação de obrigação de fazer proposta em face do Estado do Tocantins, em que se pleiteia os repasses constitucionais obrigatórios do SUS, para fins de custeio dos serviços de saúde.
+Verifica-se que não houve apreciação pelo Tribunal de origem quanto aos aspectos fáticos direcionados à valoração da atuação do advogado no caso dos autos. Assim sendo, fica impossibilitado o julgamento do recurso nesses aspectos, por ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF, respectivamente: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada; e O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+No ponto, observa-se que o presente agravo interno não se desincumbiu em demonstrar como o Tribunal de origem teria se manifestado sobre o comando normativo inserto no dispositivo em questão.
+Nesse sentido, o seguinte julgado deste Tribunal Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. VIOLAÇÃO AO ART. 42, PARÁGRAFO ÚNICO, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. QUANTUM INDENIZATÓRIO. REVISÃO. DESCABIMENTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial. Reconsideração.
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+ ..
+7. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.958.702/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022.)
+O Tribunal local reformou a sentença de extinção do processo sem resolução do mérito, nos seguintes termos (fls. 314/315 e-STJ):
+Sem delongas, o acórdão exarado pelo Colegiado deve ser reformado.
+Como relatado, a questão submetida a julgamento na apelação manejada pelo Município de Palmas/TO versa sobre a fixação de honorários de sucumbência, sendo que, in casu, foi mantida a sentença que estabeleceu a verba sucumbencial em valor fixo.
+Pois bem.
+Como se sabe, recentemente o Superior Tribunal de Justiça consolidou o entendimento sobre o assunto no julgamento do REsp 1.644.077/PR, afetado pela sistemática dos recursos repetitivos.
+O resultado do julgamento foi convertido no tema 1.046 do STJ com a seguinte tese firmada:
+Os honorários advocatícios só podem ser fixados com base na equidadede forma subsidiária, ou seja:
+  quando não for possível o arbitramento pela regra geral; ou
+  quando for inestimável ou irrisório o valor da causa.
+Assim, o juízo de equidade na fixação dos honorários advocatícios somente pode ser utilizado de forma subsidiária, quando não presente qualquer hipótese prevista no § 2º do art. 85 do CPC.
+Como se observa, a Corte Superior fixou o entendimento de que a regra geral para fixação dos honorários sucumbenciais deve seguir o disposto nos § 2º do artigo 85 do Código de Processo Civil e, sendo a parte contrária a Fazenda Pública, o previsto no § 3º do mesmo dispositivo.
+Uma coisa, porém, é certa: o arbitramento por equidade só é possível em caso de valor da causa inestimável ou irrisório.
+No caso dos autos o valor da causa não se enquadra em nenhuma das situações excepcionais previstas pelo TEMA 1.046. Ou seja, não é irrisória e muito menos inestimável.
+Logo, a fixação dos honorários sucumbenciais deve seguir a regra geral e, in casu, tratando-se da Fazenda Pública, a regra é aquela contida no §3º, do artigo 85 do CPC, verbis:
+§ 3º Nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2ºe os seguintes percentuais:
+I - mínimo de dez e máximo de vinte por cento sobre o valor da condenação ou do proveito econômico obtido até 200 (duzentos)salários-mínimos;
+II - mínimo de oito e máximo de dez por cento sobre o valor da condenação ou do proveito econômico obtido acima de 200 (duzentos)salários-mínimos até 2.000 (dois mil) salários-mínimos;
+III - mínimo de cinco e máximo de oito por cento sobre o valor da condenação ou do proveito econômico obtido acima de 2.000 (dois mil) salários-mínimos até 20.000 (vinte mil) salários-mínimos;
+IV - mínimo de três e máximo de cinco por cento sobre o valor da condenação ou do proveito econômico obtido acima de 20.000 (vinte mil) salários-mínimos até 100.000 (cem mil) salários-mínimos;
+V - mínimo de um e máximo de três por cento sobre o valor da condenação ou do proveito econômico obtido acima de 100.000 (cem mil) salários-mínimos.
+Como se observa nos autos, o Município de Palmas deu à causa o valor de R$ 1.379.373,48, quantia que representava as verbas em atraso da saúde que o Estado do Tocantins deveria repassar ao Município.
+Essa quantia representa, em valores atuais, aproximadamente 1.133 salários mínimos e, portanto, a fixação dos honorários de sucumbência deve observar o disposto no inciso II do § 3º do artigo 85 do CPC, acima transcrito, que estabelece o mínimo de 8 e o máximo de 10% dobre o valor do proveito econômico ou da condenação.
+Assim, considerando que a ação judicial foi extinta pela perda superveinente do objeto, eis que houve o repasse no decorrer do processo, entendo que a fixação dos honorários de sucumbência deve ser estabelecida no mínimo, ou seja, em 8% do valor da causa.
+Ante o exposto, na forma do artigo 1.030, inciso II, do Código de Processo Civil, em juízo de retratação, VOTO no sentido de DAR PROVIMENTO ao apelo manejado pelo Município de Palmas/TO, para reformar a sentença e condenar a Fazenda Pública Estadual ao pagamento de honorários no importe de 8% sobre o valor da causa.
+Verifica-se, portanto, que o Tribunal de origem tão somente tratou objetivamente da regra de fixação dos honorários advocatícios a partir dos parâmetros definidos na sistemática processual.
+No recurso especial, por sua vez, a parte recorrente não impugnou tais fundamentos, limitando-se a sustentar argumentos relacionados à complexidade do trabalho desenvolvido pelo causídico.
+No agravo interno, por sua vez, o agravante afirma que "ao se insurgir contra a forma eleita pelo Tribunal de piso para arbitrar os honorários de sucumbência em favor do ente municipal, o Estado recorrente impugnou suficientemente os fundamentos utilizados pelo órgão julgador, não havendo que se falar em subsistência de fundamento capaz de, por si só, manter a conclusão contida no acórdão recorrido" (fl. 418 e-STJ). Com efeito, tal argumento não é suficiente para impugnar o fundamento de que a Corte local se utilizou dos parâmetros definidos no CPC/15 para a fixação dos honorários, como demonstrado alhures.
+Dessa forma, verifica-se que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO DE SERVIÇOS DE TELEFONIA FIXA. PREJUÍZO À COMUNIDADE. PLEITO DE INDENIZAÇÃO DE DANOS MORAIS COLETIVOS. ART. 489, § 1º, DO CPC. OFENSA NÃO CONFIGURADA. ALEGADA AUSÊNCIA DE INTERESSE PROCESSUAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO BASILAR QUE AMPARA O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. INCIDÊNCIA. ACÓRDÃO ANCORADO NO SUBSTRTO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se de ação civil pública proposta pelo Ministério Público do Estado do Pará em desfavor da Telemar Norte Leste S/A, sucedida pela Oi S/A, com o fim de compelir a parte ré ao pagamento de indenização pelos danos morais e materiais sofridos pela coletividade em decorrência da interrupção dos serviços de telefonia fixa na localidade de Gurupá-PA.
+2. Verifica-se não ter ocorrido ofensa ao arts. 489, § 1º, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. Quanto à alegada ausência de interesse processual, nota-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a matéria "deve ser objeto de arguição em eventual cumprimento de sentença." (fl. 1561), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Ademais, a verificação de a ausência de interesse processual estar configurada ou não no caso concreto demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.980.219/PA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/8/2022, DJe de 25/8/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. TEMPO DE SERVIÇO ESPECIAL. AGENTE NOCIVO RUÍDO. LAUDO TÉCNICO. EXIGÊNCIA.
+1. A assertiva do acórdão recorrido de que o item 1.1.6 do anexo ao Decreto n. 53.831/1964 diz respeito ao reconhecimento da especialidade por exposição a ruído, o que demanda prova da exposição ao agente nocivo, não foi devidamente refutada pelo insurgente nas razões do especial, o que, por si só, mantém incólume o aresto combatido.
+2. A não contestação específica de fundamento suficiente para manter o acórdão impugnado atrai a aplicação do óbice da Súmula n. 283/STF, inviabilizando o conhecimento do recurso especial.
+3. Ademais, tratando-se de agente ruído, o julgado recorrido não divergiu do entendimento desta Corte Superior de que tal agente sempre dependeu de produção de laudo técnico para o reconhecimento da especialidade nele fundada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.032.677/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
