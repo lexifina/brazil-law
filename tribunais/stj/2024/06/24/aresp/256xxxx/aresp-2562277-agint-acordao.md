@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. Agravo interno provido para reconsiderar a decisão de fls. 658-660, e-STJ. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por E.Z.L.I. EMPREENDIMENTO IMOBILIÁRIO LTDA em face de decisão monocrática da lavra da Presidência desta Corte Superior que não conheceu do agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ, fls. 491):
+RECURSOS DE APELAÇÃO. Ação revisional de contrato de financiamento imobiliário. Sentença de parcial procedência. Inconformismo de ambas as partes. 1. Justiça gratuita. Deferimento em sede recursal. Efeito ex nunc. 2. Capitalização de juros. Possibilidade. Vigência da Lei 11.977/2009, que alterou a disciplina do art. 15-A da Lei 4380/64, para permitir a capitalização de juros nas operações realizadas pelas entidades integrantes do Sistema Financeiro da Habitação SFH. 3. Inexistência de abusividade na cláusula contratual que prevê os juros remuneratórios e a atualização dos valores da parcela pelo IGP-DI. Precedentes jurisprudenciais. 4. Sistema de Amortização Constante (SAC) pactuado entre as partes não implica em capitação de juros. 5. Taxa de administração do contrato. Abusividade bem reconhecida pelo Juízo "a quo". Não demonstrada a efetiva prestação do serviço. 5. Seguro contra risco de morte e invalidez permanente (MIP) e Seguro contra risco de danos físicos ao imóvel (DFI). Cobrança abusiva, em razão de caracterização de venda casada. Devolução de forma simples. Sentença parcialmente reformada. Recurso da parte autora provido em parte e desprovido o recurso do réu.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 504-506).
+Nas razões do especial (e-STJ, fls. 508-514), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 5º, inciso IV, da Lei n. 9.514/97, alegando que o seguro habitacional é condição essencial nas operações do SFI, devendo ser observado pelo tomador do empréstimo;
+b) art. 373, I, do CPC/15, defendendo que como não ocorreu a inversão do ônus da prova, caberia ao recorrido demonstrar a má conduta da fornecedora relativa à contratação do seguro.
+Oferecidas as contrarrazões às fls. 519-523 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 615-616, e-STJ), o que ensejou o manejo do agravo (fls. 634-638, e-STJ), que não foi conhecido ante a aplicação da Súmula 182/STJ pela Presidência desta Corte Superior (e-STJ, fls. 658-660).
+No presente agravo interno, a agravante sustenta ter impugnado especificamente os fundamentos da decisão de inadmissibilidade do reclamo, razão pela qual defende o conhecimento ao agravo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. Agravo interno provido para reconsiderar a decisão de fls. 658-660, e-STJ. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Embora o agravo interno mereça acolhida, para conhecer do agravo em recurso especial, este não comporta provimento.
+1. Após atenta análise dos autos, verificou-se que a insurgente, nas razões do agravo de fls. 634-638, e-STJ, impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pela Corte de origem, de forma que o aludido agravo (art. 1.042 do CPC/15), deve ser conhecido.
+Passa-se à análise da insurgência.
+2. Constata-se da leitura do acórdão recorrido que o Tribunal de origem - apesar de opostos os embargos declaratórios pela parte agravante - não decidiu acerca dos arts. 5º, inciso IV, da Lei n. 9.514/97 e 373 do CPC/15, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Com efeito, os conteúdos normativos dos referidos dispositivos não foram objeto de apreciação pelo Tribunal de origem, visto que não acórdão não houve debate sobre distribuição do ônus da prova, e a abusividade da contratação do seguro foi reconhecida com base na legislação consumerista.
+Cabe ressaltar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, não sendo suficiente para a sua configuração a mera indicação pela parte do dispositivo legal que entende afrontado, constitui exigência inafastável contida na própria previsão constitucional ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não examinada pela instância ordinária a matéria objeto do especial, ausente o prequestionamento. Incide, portanto, o enunciado 211 de Súmula do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO AGRAVO INTERNO DA PARTE ADVERSA, RECONSIDEROU DELIBERAÇÃO ANTERIOR E, DE PLANO, NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AGRAVADA. 1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. 1.1. Ademais, esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal local, o que não ocorreu na hipótese. Precedentes. (..) 3. Agravo interno desprovido. (AgInt no AgInt no REsp 1294929/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/11/2018, DJe 14/11/2018)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. DESERÇÃO. ART. 511 DO CPC/73. 1. Ação de cobrança devido ao pagamento de sobreestadia, na qual pleiteia o pagamento da quantia de R$ 9.782,82 (nove mil, setecentos e oitenta e dois reais e oitenta e dois centavos). 2. Ausentes os vícios do art. 535 do CPC/73, rejeitam-se os embargos de declaração. 3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. (..) 5. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1161758/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/03/2019, DJe 27/03/2019)
+3. Do exposto, dá-se provimento ao agravo interno para conhecer do agravo e não conhecer do recurso especial.
+É como voto.
