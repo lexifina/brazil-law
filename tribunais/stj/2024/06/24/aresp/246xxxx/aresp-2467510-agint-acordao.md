@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, julgar prejudicado o recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. RECURSO PREJUDICADO.
+1. Cuida-se, na origem, de Agravo de Instrumento contra decisão que indeferiu parcialmente a petição inicial, tendo em vista a ausência de interesse de agir, no que toca ao pedido de reconhecimento da especialidade da atividade desempenhada no período 1.3.2005 a 31.3.2020, nos termos do art. 485, I e VI, do CPC.
+2. No Ofício n. 400014485383, acostado à fl. 214, o Tribunal Regional Federal da 4ª Região informa que "foi proferida sentença e/ou dada baixa no processo nº 50103838020224047000 PARANÁ que deu origem ao REsp/AREsp antes indicado e em trâmite nesta Corte. A ação que deu origem ao Agravo de Instrumento e todas suas decisões estão disponíveis no site www.trf4.jus.br."
+3. Dada a superveniência de sentença, não mais persiste a discussão acerca da decisão interlocutória.
+4. Com efeito, o Superior Tribunal de Justiça possui a orientação de que "a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento." (AgInt no AREsp 2.028.056/PE, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.9.2022).
+5. Agravo Interno prejudicado.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão (fls. 241-244) que conheceu do Agravo para negar provimento ao Recurso Especial.
+A parte agravante sustenta, em suma (fl. 252-256, grifos no original):
+(..), importante observar que não se mostra acertada a invocação dos Temas nº 660/STJ e 350/STF para que seja denegado o Recurso Especial ora interposto.
+Explica-se.
+É de conhecimento notório os temas vinculantes fixados em ambos os julgamentos. Contudo, é de se esclarecer: o objeto da presente demanda extrapola a fixação das referidas teses, pois entra no mérito de questão não mencionada em ambos os precedentes, qual seja, a necessidade da juntada ou não de documentos no processo administrativo, para configuração do interesse de agir.
+E com relação a esse recorte temático, o Agravante demonstrou cabalmente em seu recurso especial interposto (fls. 99) que com exceção ao TRF da 4ª Região, todos os demais tribunais regionais federais entendem pela necessidade de prestação positiva do INSS, orientando o segurado a colacionar eventuais documentos ausentes e na omissão da autarquia, como no presente caso, o simples requerimento administrativo basta para configuração do interesse de agir.
+(..)
+De análise do conteúdo decisório ora vergastado, infere-se que o Ministro Relator fundamentou no Tema nº 660 do C. Superior Tribunal de Justiça, o qual, em consonância e aderência ao Tema nº 350 do C. Supremo Tribunal Federal, considera que a concessão de benefícios previdenciários depende de prévio requerimento administrativo, não tendo tal requerimento (em tese) sido feito nos presentes autos.
+É dizer: tem-se que Ministro Relator entendeu que houve ausência de requerimento administrativo em relação às atividades desenvolvidas entre 01/03/2005 e 31/03/2020, baseando seu convencimento a partir de tal premissa, ou seja, entendendo pela indispensabilidade de prévio requerimento administrativo.
+Contudo, ao assim fazê-lo, foi contra o que dispôs o v. Acórdão de 2º Grau, de evento 27, o qual esclareceu que houve, sim, requerimento administrativo de reconhecimento de tempo especial, o que, contudo, por não ter sido adequadamente instruído, equivaleria à ausência de pedido.
+(..)
+Portanto, há de se considerar como incontroverso (o que restou também delimitado na decisão que admitiu o RExt) que, uma vez que a discussão que cinge na presente demanda não se trata de haver ou não o prévio requerimento administrativo, mas da necessidade de que o referido pedido seja ou não instruído com a documentação comprobatória do tempo especial para ser conhecido, que não se aplicam os temas invocados, senão vejamos o que dispõe o Tema nº 660:
+(..)
+E, por tudo isso, não se pode considerar como aplicável o Tema invocado, que considera a total ausência de prévio requerimento administrativo, como ausência de interesse de agir, o que não retrata o caso dos presentes autos.
+Defende ser inaplicável ao caso a Súmula 7/STJ, tendo em vista que "não se trata a medida interposta, de pedido de reconhecimento de período especial, mas sim de discussão acerca reconhecimento do interesse de agir pelo Agravante, questão esta estritamente de direito, que depende exclusivamente da constatação de abstenção da conduta positiva pela Agravada, não necessitando de reexame de fatos e provas. A matéria de direito encontra-se integralmente delimitada nos acórdãos." (fl. 258).
+Aduz também que "não merece guarida o argumento de que supostamente estaria prejudicada a análise do Recurso por divergência jurisprudencial em razão da alínea a do inciso III do art. 105 da Constituição Federal, dado que, conforme o exposto, o presente Recurso Especial merece ser admitido, tanto pela violação à lei federal(violação literal aos artigos. 57 e 105 da Lei 8.213/91 e artigo 489, §1º, inc. VI, do Código de Processo Civil), quanto pela divergência jurisprudencial, tratando o caso estritamente de questão de direito." (fl. 258).
+Argumenta ainda a ocorrência de "violação ao art. 489, 1º do Código de Processo Civil, eis que o que se vê do deslinde processual, é flagrante a ausência de prestação jurisdicional quando está presente, por todo o já exaustivamente exposto, o interesse de agir por parte da Agravante e mesmo assim se recusa o Poder Judiciário a dirimir as questões meritórias atinentes à demanda." (fl. 259).
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do feito ao Órgão Colegiado.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. RECURSO PREJUDICADO.
+1. Cuida-se, na origem, de Agravo de Instrumento contra decisão que indeferiu parcialmente a petição inicial, tendo em vista a ausência de interesse de agir, no que toca ao pedido de reconhecimento da especialidade da atividade desempenhada no período 1.3.2005 a 31.3.2020, nos termos do art. 485, I e VI, do CPC.
+2. No Ofício n. 400014485383, acostado à fl. 214, o Tribunal Regional Federal da 4ª Região informa que "foi proferida sentença e/ou dada baixa no processo nº 50103838020224047000 PARANÁ que deu origem ao REsp/AREsp antes indicado e em trâmite nesta Corte. A ação que deu origem ao Agravo de Instrumento e todas suas decisões estão disponíveis no site www.trf4.jus.br."
+3. Dada a superveniência de sentença, não mais persiste a discussão acerca da decisão interlocutória.
+4. Com efeito, o Superior Tribunal de Justiça possui a orientação de que "a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento." (AgInt no AREsp 2.028.056/PE, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.9.2022).
+5. Agravo Interno prejudicado.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17 de abril de 2024.
+Não obstante os argumentos expendidos, o inconformismo da parte agravante não merece guarida.
+Cuida-se, na origem, de Agravo de Instrumento contra decisão que indeferiu parcialmente a petição inicial, tendo em vista a ausência de interesse de agir, no que toca ao pedido de reconhecimento da especialidade da atividade desempenhada no período 1.3.2005 a 31.3.2020, nos termos do art. 485, I e VI, do CPC.
+No Ofício n. 400014485383, acostado à fl. 214, o Tribunal Regional Federal da 4ª Região informa que "foi proferida sentença e/ou dada baixa no processo nº 50103838020224047000 PARANÁ que deu origem ao REsp/AREsp antes indicado e em trâmite nesta Corte. A ação que deu origem ao Agravo de Instrumento e todas suas decisões estão disponíveis no site www.trf4.jus.br."
+Dada a superveniência de sentença, não mais persiste a discussão acerca da decisão interlocutória.
+Com efeito, o Superior Tribunal de Justiça possui a orientação de que "a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento." (AgInt no AREsp 2.028.056/PE, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.9.2022).
+Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE DECLINOU DA COMPETÊNCIA PARA O JUIZADO ESPECIAL. SENTENÇA JULGANDO EXTINTO O FEITO, TRANSITADA EM JULGADO. PERDA DO OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. No acórdão objeto do Recurso Especial, o Tribunal de origem negou provimento a Agravo de Instrumento, interposto, pela ora agravante, de decisão que, nos autos de ação em que busca o pagamento de indenização por danos decorrentes de vícios de construção de seu imóvel, declinou da competência para o Juizado Especial Federal.
+III. Em ofício juntado aos autos, o Tribunal de origem informa que "foi proferida sentença, JÁ TRANSITADA EM JULGADO, no processo nº 50140122920174047003 PARANÁ que deu origem ao REsp/AREsp antes indicado e em trâmite nesta Corte". Nesse contexto, com o trânsito em julgado da sentença, que decidiu a causa em que proferida a decisão impugnada no Agravo de Instrumento em exame, forçoso reconhecer a perda do objeto do presente Recurso Especial. Nesse sentido: STJ, AgInt no REsp 1.632.216/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 19/08/2021; AgInt no AgInt no AREsp 1.638.596/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 14/06/2021; AgInt no REsp 1.604.323/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 16/06/2020; REsp 1.731.814/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/08/2018; AgInt no REsp 1.668.821/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 02/10/2017.
+IV. Agravo interno improvido.
+(AgInt no AgInt no REsp n. 1.759.518/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 7/10/2021.)
+PROCESSUAL CIVIL . AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LIMINAR DE INDISPONIBILIDADE DE BENS DOS RÉUS. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. RECURSO PREJUDICADO.
+1. Agravo interno interposto contra a decisão que havia julgado o agravo em recurso especial que pretendia que se conhecesse do recurso especial interposto contra acórdão proferido em agravo de instrumento do Parquet Federal, majorando-se o valor da indisponibilidade de bens da parte ré em ação de improbidade administrativa.
+2. Nos termos da jurisprudência sedimentada no âmbito do Superior Tribunal de Justiça, a prolação da sentença de mérito na ação de improbidade administrativa implica perda do objeto do recurso especial interposto contra acórdão de julgamento de agravo de instrumento interposto para impugnar decisão que, deferindo tutela de urgência, decreta a indisponibilidade de bens do réu. É o caso dos autos.
+3. Agravo interno prejudicado.
+(AgInt no AREsp n. 1.702.300/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 29/2/2024.)
+Ante o exposto, julgo prejudicado o Agravo Interno.
+É como voto.
