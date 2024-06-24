@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não se conhece de Recurso Especial em relação aos arts. 489, § 1º, IV, e 927, III, do Código de Processo Civil/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incidência, por analogia, da Súmula 284/STF.
+2. Hipótese em que o Tribunal a quo, com base nas provas dos autos, consignou: "A presente ação foi ajuizada em 07/11/2013, após o indeferimento dos pedidos de auxílio doença apresentados em 11/03/2011 e 19/06/2012. O laudo, referente ao exame realizado em 09/09/2015, atesta que a autora é portadora de sequelas graves envolvendo a musculatura e articulação coxo femoral direita, com deformidades músculo cutâneas, retrações, prejuízo severo dos arcos de movimentos do quadril e da marcha, requerente de uso permanente de par de muletas para o seu apoio e mobilidade dentro de casa, além de outras doenças como artrose das mãos desde 14/10/1995 e fratura recente de tíbia e calcâneo direitos após queda em 14/11/2014, apresentando incapacidade total e permanente. De acordo com os documentos médicos juntados na inicial, por ocasião dos indeferimentos dos pleitos administrativos, a autora estava em tratamento e sem condições para o trabalho. Analisando o conjunto probatório e considerando o parecer do sr. Perito judicial, é de se reconhecer o direito da autora à percepção do benefício de auxílio doença e à sua conversão em aposentadoria por invalidez, vez que indiscutível a falta de capacitação e de oportunidades de reabilitação para a assunção de outras atividades, sendo possível afirmar que se encontra sem condições de reingressar no mercado de trabalho. (..) Malgrado, após os pleitos administrativos apresentados em 11/03/2011 e 19/06/2012, a autora tenha retornado às suas atividades, vertendo contribuições ao RGPS como contribuinte individual até 30/06/2015, o benefício deve ser concedido, à vista do decidido pelo e. Superior Tribunal de Justiça quando do julgamento do Tema 1.013. (..) O termo inicial do benefício de auxílio doença deve ser fixado na data da citação (13/02/2014), tendo em vista o lapso temporal decorrido entre a data dos requerimentos administrativos e a do ajuizamento da presente ação (07/11/2013) e a conversão em aposentadoria por invalidez deverá ser feita a partir da data da realização do exame pericial (09/09/2015), quando restou constatada a natureza permanente da incapacidade. Destarte, é de se reformar r. sentença, devendo o réu conceder o benefício de auxílio doença desde 13/02/2014, convertendo-o em aposentadoria por invalidez a partir de 09/09/2015, e pagar as prestações vencidas, corrigidas monetariamente e acrescidas de juros de mora" (fls. 319-322, e-STJ).
+3. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido .
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão (fls. 462-466, e-STJ) que não conheceu do Recurso.
+A parte agravante alega (fls. 472-483, e-STJ):
+Da análise dos autos, temos que a Agravante na interposição do seu recurso, rebateu e impugnou especificamente e de forma integral a decisão proferida pelo E. TRF da 3ª Região, que infelizmente restou equivocada, já que o acordão recorrido, na ocasião, feriu de morte e negou vigência aos artigos 489, §1º, IV e art. 927, III, ambos do CPC, demonstrando que ao agir da forma impugnada, o E. TRF-3 não se ateve atentamente a todos os elementos constantes nos autos, não havendo razões para se falar em reapreciação de provas, tampouco que a decisão recorrida estava em conformidade com as proferidas pelos nossos Tribunais Superiores.
+(..)
+Temos, portanto que, toda a argumentação foi apresentada de forma clara, apontado os vícios contidos no acordão impugnado, assim como indicando os dispositivos tidos como violados também por divergência jurisprudencial, circunstância a qual não encontra aplicabilidade da Súmula nº 284/SFT.
+Ainda, também não merece prosperar a alegação de que o acolhimento da pretensão recursal em sentido contrário ao que foi decidido seria inviável em virtude do disposto na Súmula 07/SJT, haja vista que referida súmula não veda todo e qualquer tipo de tipo de análise fática, mas tão somente as análises fáticas que têm por escopo modificar o teor da narrativa descrita no acórdão.
+(..)
+Ante o exposto, entende a Agravante que, por todos os ângulos que se analise a questão posta à julgamento, a r. decisão que conheceu do Agravo para não conhecer do Recurso Especial foi completamente equivocada, merece ser modificada e o recurso deve ser admitido e apreciados pelo órgão colegiado competente, uma vez que preencheu todos os requisitos legais.
+Sem impugnação, conforme certidão de fl. 492, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não se conhece de Recurso Especial em relação aos arts. 489, § 1º, IV, e 927, III, do Código de Processo Civil/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incidência, por analogia, da Súmula 284/STF.
+2. Hipótese em que o Tribunal a quo, com base nas provas dos autos, consignou: "A presente ação foi ajuizada em 07/11/2013, após o indeferimento dos pedidos de auxílio doença apresentados em 11/03/2011 e 19/06/2012. O laudo, referente ao exame realizado em 09/09/2015, atesta que a autora é portadora de sequelas graves envolvendo a musculatura e articulação coxo femoral direita, com deformidades músculo cutâneas, retrações, prejuízo severo dos arcos de movimentos do quadril e da marcha, requerente de uso permanente de par de muletas para o seu a poio e mobilidade dentro de casa, além de outras doenças como artrose das mãos desde 14/10/1995 e fratura recente de tíbia e calcâneo direitos após queda em 14/11/2014, apresentando incapacidade total e permanente. De acordo com os documentos médicos juntados na inicial, por ocasião dos indeferimentos dos pleitos administrativos, a autora estava em tratamento e sem condições para o trabalho. Analisando o conjunto probatório e considerando o parecer do sr. Perito judicial, é de se reconhecer o direito da autora à percepção do benefício de auxílio doença e à sua conversão em aposentadoria por invalidez, vez que indiscutível a falta de capacitação e de oportunidades de reabilitação para a assunção de outras atividades, sendo possível afirmar que se encontra sem condições de reingressar no mercado de trabalho. (..) Malgrado, após os pleitos administrativos apresentados em 11/03/2011 e 19/06/2012, a autora tenha retornado às suas atividades, vertendo contribuições ao RGPS como contribuinte individual até 30/06/2015, o benefício deve ser concedido, à vista do decidido pelo e. Superior Tribunal de Justiça quando do julgamento do Tema 1.013. (..) O termo inicial do benefício de auxílio doença deve ser fixado na data da citação (13/02/2014), tendo em vista o lapso temporal decorrido entre a data dos requerimentos administrativos e a do ajuizamento da presente ação (07/11/2013) e a conversão em aposentadoria por invalidez deverá ser feita a partir da data da realização do exame pericial (09/09/2015), quando restou constatada a natureza permanente da incapacidade. Destarte, é de se reformar r. sentença, devendo o réu conceder o benefício de auxílio doença desde 13/02/2014, convertendo-o em aposentadoria por invalidez a partir de 09/09/2015, e pagar as prestações vencidas, corrigidas monetariamente e acrescidas de juros de mora" (fls. 319-322, e-STJ).
+3. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 21.5.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão, pelo que reitero o seu teor.
+Conforme consignei no decisum, a parte insurgente sustenta que os arts. 489, § 1º, IV, e 927, III, do Código de Processo Civil/2015 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..) II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1.630.011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017).
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1.652.761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Por outro lado, na hipótese dos autos, o Tribunal de origem assim decidiu a controvérsia (fls. 319-322, e-STJ):
+A presente ação foi ajuizada em 07/11/2013, após o indeferimento dos pedidos de auxílio doença apresentados em 11/03/2011 e 19/06/2012.
+O laudo, referente ao exame realizado em 09/09/2015, atesta que a autora é portadora de sequelas graves envolvendo a musculatura e articulação coxo femoral direita, com deformidades músculo cutâneas, retrações, prejuízo severo dos arcos de movimentos do quadril e da marcha, requerente de uso permanente de par de muletas para o seu apoio e mobilidade dentro de casa, além de outras doenças como artrose das mãos desde 14/10/1995 e fratura recente de tíbia e calcâneo direitos após queda em 14/11/2014, apresentando incapacidade total e permanente.
+De acordo com os documentos médicos juntados na inicial, por ocasião dos indeferimentos dos pleitos administrativos, a autora estava em tratamento e sem condições para o trabalho.
+Analisando o conjunto probatório e considerando o parecer do sr. Perito judicial, é de se reconhecer o direito da autora à percepção do benefício de auxílio doença e à sua conversão em aposentadoria por invalidez, vez que indiscutível a falta de capacitação e de oportunidades de reabilitação para a assunção de outras atividades, sendo possível afirmar que se encontra sem condições de reingressar no mercado de trabalho.
+(..)
+Malgrado, após os pleitos administrativos apresentados em 11/03/2011 e 19/06/2012, a autora tenha retornado às suas atividades, vertendo contribuições ao RGPS como contribuinte individual até 30/06/2015, o benefício deve ser concedido, à vista do decidido pelo e. Superior Tribunal de Justiça quando do julgamento do Tema 1.013.
+(..)
+O termo inicial do benefício de auxílio doença deve ser fixado na data da citação (13/02/2014), tendo em vista o lapso temporal decorrido entre a data dos requerimentos administrativos e a do ajuizamento da presente ação (07/11/2013) e a conversão em aposentadoria por invalidez deverá ser feita a partir da data da realização do exame pericial (09/09/2015), quando restou constatada a natureza permanente da incapacidade.
+Destarte, é de se reformar r. sentença, devendo o réu conceder o benefício de auxílio doença desde 13/02/2014, convertendo-o em aposentadoria por invalidez a partir de 09/09/2015, e pagar as prestações vencidas, corrigidas monetariamente e acrescidas de juros de mora.
+A correção monetária, que incide sobre as prestações em atraso desde as respectivas competências, e os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+Os juros de mora incidirão até a data da expedição do precatório/RPV, conforme decidido em 19.04.2017 pelo Pleno do e. Supremo Tribunal Federal quando do julgamento do RE 579431, com repercussão geral reconhecida. A partir de então deve ser observada a Súmula Vinculante nº 17.
+Convém ressaltar que do montante devido devem ser descontadas as parcelas pagas administrativamente ou por força de liminar, e insuscetíveis de cumulação com o benefício concedido, na forma do Art. 124, da Lei 8.213/91.
+Os honorários advocatícios devem observar as disposições contidas no inciso II, do § 4º, do Art. 85, do CPC, e a Súmula 111, do e. STJ.
+A autarquia previdenciária está isenta das custas e emolumentos, nos termos do Art. 4º, I, da Lei 9.289/96, do Art. 24-A da Lei 9.028/95, com a redação dada pelo Art. 3º da MP 2.180-35/01, e do Art. 8º, § 1º, da Lei 8.620/93.
+Independentemente do trânsito, determino seja comunicado ao INSS a fim de que se adotem as providências cabíveis ao imediato cumprimento deste julgado, conforme os dados do tópico síntese do julgado abaixo transcrito.
+Tópico síntese do julgado:
+a) nome do segurado: Marlene Ribeiro;
+b) benefícios: auxílio doença e aposentadoria por invalidez;
+c) números dos benefícios: indicação do INSS;
+d) renda mensal: RMI e RMA a ser calculada pelo INSS;
+e) DIB: auxílio doença - 13/02/2014;
+aposentadoria por invalidez - 09/09/2015.
+Por fim, quanto ao prequestionamento da matéria para fins recursais, não há afronta a dispositivos legais e constitucionais, porquanto o recurso foi analisado em todos os seus aspectos.
+Ante o exposto, em juízo de retratação, dou parcial provimento à apelação.
+Desse modo, é inviável o acolhimento da pretensão da parte insurgente, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ACIDENTE DE TRABALHO. INÍCIO DO BENEFÍCIO. REDUÇÃO DA CAPACIDADE LABORATIVA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Colegiado local fixou o "termo inicial do benefício na data da elaboração do laudo médico realizado na presente demanda, 17.02.2020, pois somente nesta data restou reconhecida a existência de moléstias incapacitantes" (fls. 204-205 , e- STJ).
+(..)
+4. Nesse contexto, é certo que a alteração da data de início do auxílio- acidente demanda reapreciação do contexto fático-probatório dos autos, o que atrai a incidência da Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.037.248/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2023, DJe de 28/6/2023.)
+Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nesse sentido:
+(..)
+IV. Na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+V. Agravo interno improvido.
+(AgInt no AREsp 894.166/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 30/06/2017).
+PROCESSUAL CIVIL (..) REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. (..)
+(..) 2. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 1069867/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 09/08/2017).
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
