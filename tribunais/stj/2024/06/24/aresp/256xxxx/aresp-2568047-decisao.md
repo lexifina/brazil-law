@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NADIME JORGE, contra decisão que inadmitiu o recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 29/08/2023.
+Concluso ao gabinete em: 04/06/2024.
+Ação: cumprimento de sentença movido por ELIAS MARRACH NETO em face do espólio de ELIAS PEDRO DAVID.
+Decisão: rejeitou a tese de nulidade da arrematação suscitada pelo agravante, terceiro interessado.
+Acórdão: negou provimento ao agravo de instrumento do agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. Insurgência contra decisão que rejeitou a tese de nulidade da arrematação, sob o fundamento de que esta dependeria de ação autônoma e que o terceiro, ora agravante, fora intimado do leilão ainda que em autos diversos. Alegações de que a ausência de intimação do terceiro - credor com penhora anteriormente averbada - implica em nulidade, invalidando o leilão e, consequentemente, a arrematação. Impertinência. Ausência dos requisitos autorizadores da concessão da tutela. Perigo de dano não demostrado. Exegese do art. 300 do CPC. Panorama de urgência prejudicado, vez que alegou a nulidade do leilão quase um ano depois da arrematação. Nulidade não comprovada. Parte requereu a realização de hasta pública e não a adjudicação, incidindo no concurso de credores. Decisão mantida. Adoção do art. 252 do RITJ. RECURSO DESPROVIDO.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 373, I, e 889, V, do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+No caso, o TJ/SP rejeitou a tese de nulidade da arrematação sob o fundamento de que é necessária ação autônoma de impugnação pelo terceiro, bem como pelo fundamento de que houve intimação do agravante, ainda que em autos diversos. Veja-se (e-STJ, fl. 171/172):
+Por oportuno, deve ser ressaltado o seguinte trecho da r. Decisão interlocutória, em que se demonstra suficientemente motivada:
+"(..) Verifica-se que arrematado o imóvel por JOSÉ CALASANS DESEIXAS SALLES NETTO (fls.1120 e 1132). Reservada a meação da esposa do executado (Espólio de Eleonora Curi David), que levantará metade do valor da avaliação (fls.1169/1170, 1260). No mais, extinta a presente execução, mas prosseguindo pelo feito então apensado(fls.1169), reportando-se os atos de alienação aqueles. O locatário do imóvel arrematado depositou nos autos valores pertinentes aos alugueis, que serão levantados pelo arrematante (fls.1218), abatendo-se ainda débito pretérito de IPTU (fls.1181). Expedida carta de arrematação (fls.1263). O terceiro credor Nadime Jorge compareceu nos autos informando que precedente a sua penhora, no entanto, não foi intimado da praça (fls.1272/1273), requereu a declaração de nulidade do leilão, com prévia intimação do leiloeiro (fls.1277/1281). Determinada a intimação do leiloeiro (fls.1282), que se manifestou nos autos, informando que por equívoco, a intimação deu-se apenas no processo 0006162-71.2001.8.26.0100, o que não acarretou prejuízo posto que o terceiro credor estava cadastrado naquele feito(fls.1340). Conforme ponderou o arrematante, nos termos do art. 903,§ 4º, do Código de Processo Civil "após a expedição da carta de arrematação ou da ordem de entrega, a invalidação da arrematação poderá ser pleiteada por ação autônoma, em cujo processo o arrematante figurará como litisconsorte necessário. Desta forma, não há que se falar em nulidade da arrematação, que dependeria de ação autônoma e uma vez intimado o terceiro, ainda que em autos diversos. Ademais, não há que se falar em nulidade sem prejuízo, observando que aqui será realizado o concurso de credores, enquanto que em autos próprios o terceiro requereu a realização de hasta pública e não a adjudicação (fls.1354, 1371). Diante do exposto, afasto a alegação de nulidade da arrematação, que produz seus jurídicos e legais efeitos. Manifestem-se o exequente e o terceiro sobre o concurso de credores, observando certidão de matrícula a fls.1190/1204."
+No caso, o agravante deixou de impugnar o fundamento da necessidade de ajuizamento de ação autônoma para a alegação de nulidade da arrematação.
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+Brasília(DF), 24 de junho de 2024.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. TERCEIRO INTERESSADO. NULIDADE DA ARREMATAÇÃO. NECESSIDADE DE AÇÃO AUTÔNOMA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Cumprimento de sentença.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido.
