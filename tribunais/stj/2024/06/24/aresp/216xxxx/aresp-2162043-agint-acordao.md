@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. MANDADO DE SEGURANÇA. RECONHECIMENTO DE INTERESSE PROCESSUAL. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELO CABIMENTO DO MANDADO DE SEGURANÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2 .  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pelo ESTADO DO CEARÁ contra  a  decisão  que  não conheceu  do  recurso  especial,  em razão da aplicação da Súmula 7/STJ.
+Argumenta  a  parte agravante,  em  síntese:
+ ..  não há como subsistir o fundamento de incidência da súmula 7/STJ, porquanto a discussão é eminentemente de direito, e o quadro fático processual já se encontra, de modo incontroverso, assentado nas razões do acórdão recorrido, sendo possível que esta Corte Superior aprecie a lide posta.
+A intenção do agravante não é discutir as premissas fáticas dos autos, mas sim a adequação desses fatos que deram base ao acórdão recorrido pelo especial. Ou seja, diante da moldura fática do acórdão e a possibilidade de fixação excepcional por esta Corte Superior é que resta demonstrado que não há como incidir a Súmula 7/STJ no presente caso (fl. 736).
+Por fim, a part e pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Houve impugnação da parte agravada.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. MANDADO DE SEGURANÇA. RECONHECIMENTO DE INTERESSE PROCESSUAL. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELO CABIMENTO DO MANDADO DE SEGURANÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2 .  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+No particular, o Tribunal de origem, após análise dos elementos fáticos que compõem os autos, entendeu pelo cabimento do mandado de segurança no caso concreto, bem como determinou o retorno dos autos ao juízo de primeiro grau para o regular processamento da ação mandamental. Com efeito, assim decidiu a Corte de origem sobre a controvérsia dos autos:
+Assim, não decorrendo expressamente do art. 438, § 3º, inciso II, do Decreto nº 24.569/1997 a possibilidade da emissão da Nota Fiscal de Ressarcimento, caso o Fisco não delibere sobre a pretensão do contribuinte no prazo de noventa dias, e constando do art. 10 da Lei Complementar nº 87/1996 apenas a possibilidade do respectivo crédito na escrita fiscal, não prospera o entendimento do Juízo a quo no sentido de que a impetrante teria como fazer valer seu direito ao crédito do ICMS-ST, inclusive pela sistemática da emissão da Nota Fiscal de Ressarcimento, em face da autorização constante do Decreto nº 24.596/1997. Sendo assim, ante a omissão administrativa, reconhece-se o interesse processual da impetrante de fazer valer o seu alegado direito pela via judicial (fl. 552).
+Dessa forma, não há reparo a ser feito. Isso porque, conforme assentado previamente na decisão combatida, a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INFIRMAÇÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. 1. Segundo a orientação do STJ, "examinar a presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame da eventual desnecessidade de realização de dilação probatória, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte" (AgInt no REsp 1.810.370/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 21/10/2019, DJe 23/10/2019). 2. Na espécie, alterar a conclusão do acórdão recorrido, no sentido de que "a impetrante não fez qualquer prova de que as mercadorias cujo valor pretende deduzir da base de cálculo do ISS foram produzidas por ela própria, fora do local da prestação dos serviços e submetidas ao recolhimento do ICMS", demandaria, necessariamente, reexame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, diante do obstáculo da Súmula 7/STJ. 3. Agravo interno não provido (AgInt nos EDcl no REsp n. 1.800.752/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023).
+Cumpre registrar, ainda, que:
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial" (AgInt no AREsp 1.981.914/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Isso posto, nego provimento ao recurso.
