@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, II, DO CPC. OMISSÃO E OBSCURIDADE. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO.
+1. Os fundamentos da decisão de admissibilidade exercida pelo Presidente do Tribunal de origem, que não admitiu o Recurso Especial, não foram enfrentados adequadamente pelo recurso de Agravo, permanecendo incólumes em face da impugnação apresentada pelo recorrente. De fato, as razões do Recurso devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar a decisão de admissibilidade proferida pelo Presidente do Tribunal de origem, o que não foi feito. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunala quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+2. Cumpre salientar que, ao contrário do que afirma a parte embargante, não há obscuridade no decisum embargado, porquanto esse defeito somente pode ser suscitado quando a redação da decisão não é suficientemente clara, dificultando sua compreensão ou interpretação. Não é o caso dos autos. Portanto, as alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+3. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+4. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+5. Embargos de Declaração rejeitados.
+RELATÓRIO
+Cuida-se de Embargos de Declaração interpostos de acórdão proferido pela Segunda Turma do STJ, que negou provimento ao Agravo Interno.
+Em apertada síntese, a parte embargante alegou que o acórdão recorrido é obscuro e omisso, porque não teria analisado a infringência ao art. 4º do Decreto 20.910/1932 (fl. 832).
+A parte embargada, apesar de intimada, não ofereceu impugnação.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, II, DO CPC. OMISSÃO E OBSCURIDADE. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO.
+1. Os fundamentos da decisão de admissibilidade exercida pelo Presidente do Tribunal de origem, que inadmitiu o Recurso Especial, não foram enfrentados adequadamente pelo recurso de Agravo, permanecendo incólumes em face da impugnação apresentada pelo recorrente. De fato, as razões do Recurso devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar a decisão de admissibilidade proferida pelo Presidente do Tribunal de origem, o que não foi feito. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+2. Cumpre salientar que, ao contrário do que afirma a parte embargante, não há obscuridade no decisum embargado, porquanto esse defeito somente pode ser suscitado, quando a redação da decisão não é suficientemente clara, dificultando sua compreensão ou interpretação. Não é o caso dos autos. Portanto, as alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+3. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+4. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+5. Embargos de Declaração rejeitados.
+VOTO
+Os autos foram recebidos neste Gabinete em 23.5.2024.
+Os fundamentos da decisão de admissibilidade exercida pelo Presidente do Tribunal de origem, que não admitiu o Recurso Especial, não foram enfrentados adequadamente pelo recurso de Agravo, permanecendo incólumes em face da impugnação apresentada pelo recorrente.
+De fato, as razões do Recurso devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar a decisão de admissibilidade proferida pelo Presidente do Tribunal de origem, o que não foi feito no Agravo em Recurso Especial. A jurisprudência desta Corte aplica a Súmula 182/STJ ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunala quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há obscuridade embargado, porquanto esse defeito somente pode ser suscitado, quando a redação da decisão não é suficientemente clara, dificultando sua compreensão ou interpretação. Não é o caso dos autos.
+Além disso, não existiu omissão, porquanto o mérito do Recurso Especial não foi apreciado  ofensa ao art. 4º do Decreto 20.910/1932 em decorrência de o Recurso não ter ultrapassado a fase de admissibilidade. Portanto, as alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestioname nto de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
