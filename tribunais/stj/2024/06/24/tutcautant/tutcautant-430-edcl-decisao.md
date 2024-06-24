@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Aryane Ruiz Raposo de Melo e outras contra decisão de fls. 622-624 que não conheceu tutela antecipada recursal, com fundamento no art. 34, XVIII, a, do RISTJ.
+As embargantes em suas razões delimitam que:
+ ..  a demanda originária se trata de writ visando à concessão de segurança para determinar a anulação e reaplicação da prova de sentença cível e criminal do Concurso de Magistratura do Estado de Minas Gerais, em virtude de vícios no Espelho de Correção, a fim de garantir o direito líquido e certo da Parte Embargante a recursar administrativamente, exercendo plenamente a ampla defesa e o contraditório.
+ ..
+Em virtude da realização iminente das demais etapas do concurso, interpôs-se Recurso Ordinário na origem e, incidentalmente, socorreu-se a esta Corte Superior para que concedesse tutela antecipada recursal, determinando a suspensão do certame até o julgamento de mérito daquele recurso, TUDO conforme os exatos moldes autorizativos do artigo 299 do CPC .
+Argumentam que: i) "o fundamento jurídico invocado na decisão não se aplica ao Recurso Ordinário haja vista desnecessidade de juízo de admissibilidade na origem; os pressupostos autorizadores da tutela antecipada recursal restam atendidos". Assim, requerem "a aplicação dos efeitos infringentes aos Embargos de Declaração, com a consequente reforma da decisão monocrática para que seja determinada, liminarmente, a suspensão do Concurso de Magistratura do Estado de Minas Gerais até o julgamento do mérito recursal".
+Impugnação às fls. 670-674.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de obscuridade, contradição ou omissão, nos ditames do artigo 535, I e II, do CPC/1973, bem como para sanar a ocorrência de erro material.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada, ao assentar que:
+ ..  esta Corte Superior tem admitido excepcionalmente a apreciação de medida cautelar que vise à concessão de efeito suspensivo a recurso, desde que o acórdão a ser impugnado apresente-se teratológico ou manifestamente contrário à jurisprudência deste Tribunal, esteja evidenciado, de plano, a probabilidade de êxito do recurso e visível o perigo da demora na análise da irresignação. No mesmo sentido: AgRg no TP n.
+4.310/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/3/2023, DJe de 9/5/2023.
+No caso, o acórdão recorrido denegou a segurança ao fundamento de que "os espelhos de correção da prova escrita referente ao Edital n. 1/2021 observaram as disposições editalícias no tocante aos critérios considerados para a avaliação das sentenças redigidas pelos candidatos, permitindo a eventual interposição de recurso pela parte interessada".
+No mesmo sentido do acórdão recorrido, diga-se que esta Corte Superior tem reiteradamente decidido no sentido de que o edital do concurso público constitui lei entre as partes, gerando direitos e obrigações tanto para a Administração Pública quanto para o candidato, compelidos ambos à sua fiel observância. Precedente: AgInt nos EDcl no RMS n. 64.368/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024.
+Assim, não há falar em peculiaridade a mitigar a aplicação do enunciado das referidas súmulas, eis que ausente eventual teratologia ou ilegalidade a ser corrigida.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Por fim, consigne-se que o pedido de tutela recursal, "para suspender o Concurso Público da Magistratura de Minas Gerais até o trânsito em julgado do mérito do Recurso Ordinário que ainda será remetido para este Superior Tribunal", possui nítido caráter satisfativo e confunde-se com o próprio mérito, o que inviabiliza seu deferimento, uma vez que o pleito deve ser analisado em momento oportuno, por ocasião do julgamento definitivo. (RMS 61025/MG, Rel. Ministro Herman Benjamin, DJe 13.9.2019).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇAO NA TUTCAUTANT. VIOLAÇÃO DO ART. 1.022 DO CPC DE 2015. AUSÊNCIA.
