@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto por EDITE TEIXEIRA RIBEIRO contra v. acórdão do Eg. Tribunal Regional Federal da 4ª Região, assim ementado:
+"PREVIDENCIÁRIO. ATIVIDADE RURAL. PERÍODO EQUIVALENTE À CARÊNCIA. DOCUMENTOS EXTEMPORÂNEOS. AUSÊNCIA DE PROVA MATERIAL APTA A COMPROVAR O EXERCÍCIO DA ATIVIDADE RURAL. HIPÓTESE DE CARÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+1. O início de prova material não precisa abranger todo o período de carência, de forma a ser comprovado ano a ano, entretanto, deve ser produzido, ao menos parcialmente, dentro do período equivalente à carência.
+2. Considera-se demonstrado o exercício de atividade rural havendo início de prova material complementada por prova testemunhal idônea.
+3. Os documentos apresentados são extemporâneos ao período equivalente à carência.
+4. Verificada a ausência de conteúdo probatório material eficaz a instruir a inicial, conforme estabelece o artigo 320 do Código de Processo Civil, resta con gurada a hipótese de carência de pressuposto de constituição e desenvolvimento válido do processo, o que implica decidir a causa sem resolução do mérito, consoante os termos do artigo 485, IV, do Código de Processo Civil.
+5. Apelação provida." (e-STJ, fl. 359)
+Nas razões do recurso especial, a agravante alega violação ao art. 5º, incisos LV e LVI da Constituição Federal de 1988, 52, 55, §3º, 57, 106 e 142 da Lei nº 8213/91 e 369 e 489, II do Código de Processo Civil de 2015, sustentando, em síntese, (a) que não foram consideradas as provas produzidas nos autos em conjunto que comprovam o início razoável da prova acerca do trabalho especial em tempo superior à carência exigida, de modo que o benefício de aposentadoria por idade rural deveria ter sido deferido, (b) que é desnecessário estar cada ano documentado, servindo-se a prova testemunhal para ampliar a prova material afim de concluir que o requisito etário foi cumprido em 2016 e (c) que foi violado o devido processo legal.
+Juízo negativo de admissibilidade às fls. 447/455. em que se negou seguimento com base na (a) impossibilidade de análise de violação ao art. 5º, inciso LV da Constituição Federal em sede de recurso especial e (b) incidência da Súmula 7/STJ com relação às alíneas "a" e "c" do permissivo constitucional.
+Interposto agravo em recurso especial às fls. 447/455.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial.
+No caso dos autos, a parte agravante não impugnou especificamente o fundamento de inadmissão correspondente à impossibilidade de análise de violação ao art. 5º, inciso LV da Constituição Federal em sede de recurso especial, o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 2.228.742/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe 15/3/2023; AgInt no AREsp 2.083.809/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 16/3/2023; AgInt no AREsp 2.070.066/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 20/10/2022.
+Ante o exposto, não conheço do agravo em recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
