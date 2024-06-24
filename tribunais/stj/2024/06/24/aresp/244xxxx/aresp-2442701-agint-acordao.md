@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. EXTINÇÃO. DÚVIDA. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PREENCHIMENTO DOS REQUISITOS. AUSÊNCIA DE PREJUÍZO À DEFESA. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N.º 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+2.Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FABRICIO ESTEVAO DE ALMEIDA, DANILO ESTEVAO DE ALMEIDA, RODRIGO ESTEVAO DE ALMEIDA e ROSA ZAMBO DE ALMEIDA (FABRÍCIO e outros) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. EXTINÇÃO. DÚVIDA. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PREENCHIMENTO DOS REQUISITOS. AUSÊNCIA DE PREJUÍZO À DEFESA. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 173).
+Nas razões do presente inconformismo, FABRÍCIO e outros defenderam que houve impugnação concreta e específica ao único fundamento jurídico autônomo e suficiente do acórdão recorrido, qual seja, a "suposta" aplicabilidade do princípio da fungibilidade recursal (e-STJ, fls. 181/189).
+Não foi apresentada contraminuta (e-STJ, fl. 193).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. EXTINÇÃO. DÚVIDA. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PREENCHIMENTO DOS REQUISITOS. AUSÊNCIA DE PREJUÍZO À DEFESA. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N.º 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+2.Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+FABRÍCIO e outros defenderam que houve impugnação concreta e específica ao único fundamento jurídico autônomo e suficiente do acórdão recorrido, qual seja, a "suposta" aplicabilidade do princípio da fungibilidade recursal.
+O Tribunal de Justiça do Estado do Paraná, soberano na análise do conteúdo fático-probatório, concluiu que se aplica, ao caso, o princípio da fungibilidade recursal, sem prejuízo à defesa, na medida em que preenchidos, para tanto, os três requisitos elencados pelo STJ, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Portanto, denota-se que a decisão ora agravada, também se equivocou, ao deixar de atentar de pronto que para o fato de que se tratava, na origem, de sentença, a qual sabe-se, é cabível o recurso de apelação (arts. 203, § 1º; 925 e 1.009 do CPC), reforçando a dúvida que cerca o tema. Observe-se ainda, que nas contrarrazões de agravo (mov.29.1) o agravado não fez qualquer referência a erro grosseiro, só vindo a levantar referida tese no presente Agravo Interno, o que reforça a conclusão sobre a existência de dúvida quanto ao recurso cabível no caso em comento. Abordando-se agora o pleito de aplicação do princípio recursal da fungibilidade, sabe- se que este consiste na possibilidade de admissão de um recurso interposto por outro, que seria o cabível, na hipótese de existir dúvida objetiva sobre a modalidade de recurso adequada. Segundo o Superior Tribunal de Justiça, para a aplicação do referido princípio, necessária a ocorrência de três circunstâncias:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO APONTADA EM AGRAVO INTERNO. FUNGIBILIDADE. IMPOSSIBILIDADE. DESCUMPRIMENTO DO PRAZO RECURSAL DOS EMBARGOS DE DECLARAÇÃO. INADEQUAÇÃO. 1. "Nos termos do art. 1.022 do CPC/2015, os Embargos de Declaração são o recurso apropriado para suprir eventual omissão, ocorrida em pronunciamento judicial, revelando-se inadequada a utilização do Agravo interno para tal finalidade" (AgInt no AREsp 545.991/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 9/8/2016, DJe 22/8/2016). 2. A formada jurisprudência desta Casa é no sentido de que a fungibilidade recursal se subordina a "três requisitos: a) dúvida objetiva sobre qual o recurso a ser interposto; b) inexistência de erro grosseiro (v.g., interposição de recurso impróprio, quando o correto se encontra expressamente indicado na lei, sobre o qual não se opõe nenhuma dúvida; c) que o recurso erroneamente interposto tenha sido interposto no prazo do que se pretende transformá-lo. Ausente qualquer destes pressupostos, não incide o princípio da fungibilidade (AgRg na MC 747/PR, Rel. Min. Humberto Gomes de Barros, Primeira Turma, DJ 3/4/00)" (AgRg na MC 16.397/RJ, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe 24/5/2010). 3. No caso concreto, o agravo interno somente foi interposto quando já ultrapassado o prazo de 5 (cinco) dias úteis, previsto no art. 1.023 do CPC/2015, para a oposição de embargos de declaração, o que, por si só, já inviabiliza a apl icação do princípio da fungibilidade recursal e o seu acolhimento como embargos d eclaratórios. 4. Agravo interno não conhecido. (AgInt no AREsp 884.041/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/03/2017, DJe 15 /03/2017). Veja-se, portanto, que ao caso é possível perceber a ocorrência dos três requisitos elencados pelo Tribunal Superior. Isso porque, o cabimento do agravo de instrumento tem menção doutrinária, de modo que não há que se falar em erro grosseiro. Além disso, o prazo para a interposição da apelação e do agravo de instrumento, no diploma processual ora vigente é o mesmo. Assim, aplicável o princípio da fungibilidade recursal, até mesmo porque não se observa qualquer prejuízo à defesa, de modo que, presentes os demais pressupostos de admissibilidade, de ofício, deve ser dada sequência ao agravo, o qual, necessariamente deve ser recepcionado como apelo, eis que, tal qual aponta o Recorrente, não há falar-se que a decisão agravada se enquadra no conceito de decisão interlocutória (e-STJ, fls. 93/94 - sem destaques no original).
+Como constou da decisão recorrida, os fundamentos de que para a aplicação do princípio da fungibilidade recursal esta Corte entende ser necessária a ocorrência de três requisitos que foram devidamente cumpridos, e de que não se observa qualquer prejuízo à defesa, não foram impugnados, o que atrai a incidência da Súmula n.º 283 do STF, por analogia.
+Neste sentido, confiram-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaques no original)
+Dess e modo, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
