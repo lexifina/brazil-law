@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDREA APARECIDA DE LIMA ALVIM contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, cuja ementa teve o seguinte teor (fl. 92):
+AGRAVO EM EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. Decisão que declarou a pena prescrita considerando como termo inicial o trânsito em julgado da sentença condenatória para a acusação. Julgamento do Tema 788 pelo STF, em que se estabeleceu que o termo inicial da prescrição da pretensão executória é a data do trânsito em julgado da condenação para ambas as partes. Modulação dos efeitos. Tese que se aplica, apenas, para os casos em que a pena não tenha sido extinta pela prescrição e cujo trânsito em julgado para a acusação ocorreu depois de 12/11/2020. No caso dos autos, o trânsito em julgado da sentença para a acusação ocorreu em 12/09/2019 e o trânsito em julgado do acórdão confirmatório de condenação em 19/05/2020. Persistência da dúvida em relação a qual data considerar. Entendimento pacificado no STF, no STJ e nesta Câmara Criminal de que o acórdão confirmatório de condenação sempre interrompe a prescrição, de forma que o marco inicial para a prescrição da pretensão executória é o trânsito em julgado do acórdão para a acusação. Prazo prescricional não atingido. Agravo provido.
+Consta dos autos que a paciente foi condenada à pena total de 1 ano e 8 meses de reclusão em regime aberto, sendo substituída a pena privativa de liberdade por penas restritivas de direitos, quais sejam, prestação pecuniária e prestação de serviços à comunidade.
+O Juiz de primeiro grau declarou extinta a punibilidade, pois reconheceu a prescrição da pretensão executória, porém o Tribunal de origem deu provimento ao agravo em execução do Ministério Público, para reformar essa decisão.
+A impetrante sustenta, em síntese, que o trânsito em julgado para o Ministério Público da sentença condenatória ocorreu em 12/09/2019, de acordo com as fls. 134 do processo da condenação, e que o termo inicial da prescrição da pretensão executória deve ser o trânsito em julgado da sentença condenatória para a acusação e não da publicação do acórdão, que diz respeito à prescrição da pretensão punitiva.
+Portanto, requer, liminarmente e no mérito, que seja reconhecido como termo inicial da prescrição da pretensão executória a data do trânsito em julgado para a acusação e, consequentemente, seja declarada a extinção da punibilidade, nos termos do Artigo 107, IV, do CP.
+A liminar foi indeferida, foram prestadas informações pela autoridade coatora, e o parecer do Ministério Público foi declaração da perda do objeto deste habeas corpus.
+É o relatório.
+Decido.
+Como consta no parecer do Ministério Público, após a impetração deste writ, foi decretada a prescrição executória da pretensão punitiva, e declarada extinta a punibilidade da paciente, na primeira instância, após manifestação favorável do Ministério Público estadual.
+Ante o exposto, julgo prejudicado o habeas corpus, haja vista perda superveniente do objeto.
+Publique-se.
+Intimem-se.
+EMENTA
