@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. TERCEIROS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NOVOS ACLARATÓRIOS COM NÍTIDO INTUITO PROTELATÓRIO. EMBARGOS REJEITADOS. AUMENTO DA MULTA PROTELATÓRIA JÁ APLICADA.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. A insistência em reexaminar argumentos já afastados em julgamento de anteriores declaratórios denota o nítido caráter protelatório da insurgência, constatação apta a autorizar o aumento da multa anteriormente fixada.
+3. Embargos de declaração rejeitados, com majoração da multa.
+RELATÓRIO
+Cuida-se dos terceiros embargos declaratórios opostos por LINKTEL TELECOMUNICAÇÕES DO BRASIL LTDA. ao acórdão proferido por esta Terceira Turma, assim ementado (e-STJ, fl. 612):
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. VÍCIO DE OBSCURIDADE NÃO CONFIGURADOS. EMBARGOS REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, os embargos de declaração se destinam a eliminar no julgado eventual omissão, obscuridade ou contradição, ou ainda corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Conforme entendimento firmado no Superior Tribunal de Justiça, "o conceito de obscuridade, para embargos de declaração, somente se materializa se a decisão é ininteligível, seja por ilegível, seja por má redação. Não se confunde com interpretação do direito tida por inadequada pela parte. Se ela pode tecer argumentos contra a conclusão da Corte, é porque compreende a decisão, embora dela discorde; a decisão obscura é, a rigor, irrecorrível quanto a seus fundamentos, que nem sequer são passíveis de identificação racional articulada" (AgInt no REsp 1.859.763/AM, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/5/2021).
+3. Embargos de declaração rejeitados, com aplicação de multa.
+Em suas razões (e-STJ, fls. 966-970), a embargante argumenta sobre o cabimento da interposição dos aclaratórios, apontando omissão no acórdão prolatado, porquanto não foi abordado, nas decisões anteriores, o dissídio jurisprudencial suscitado.
+Pondera que "todos os requisitos para o conhecimento do recurso especial interposto foram devidamente preenchidos e demonstrados nas razões do recurso, o que significa que, além dos dispositivos arrolados terem sido claramente ofendidos, foram também prequestionada, trazidos em apelo especial e também tratados na consequência argumentativa do próprio AREsp, de modo que o acordão retro que não conheceu do Agravo Interno merece ser claramente revisto" (e-STJ, fl. 968).
+Pleiteia, ao final, o acolhimento dos declaratórios.
+Sem impugnação (e-STJ, fl. 974-975).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TERCEIROS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NOVOS ACLARATÓRIOS COM NÍTIDO INTUITO PROTELATÓRIO. EMBARGOS REJEITADOS. AUMENTO DA MULTA PROTELATÓRIA JÁ APLICADA.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. A insistência em reexaminar argumentos já afastados em julgamento de anteriores declaratórios denota o nítido caráter protelatório da insurgência, constatação apta a autorizar o aumento da multa anteriormente fixada.
+3. Embargos de declaração rejeitados, com majoração da multa.
+VOTO
+De início, cumpre registrar que os embargos de declaração são cabíveis apenas para extirpar obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), situações que não se observam na espécie.
+Esta Terceira Turma, ao decidir sobre alegações deduzidas nos recursos anteriores, destacou inexistirem os vícios autorizadores dos embargos de declaração, esclarecendo ter ficado devidamente fundamentada a impossibilidade do exame do recurso especial, tendo em vista que, nas razões do agravo em recurso especial, não ocorrera a impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial notadamente a incidência da Súmula n. 7/STJ.
+Na ocasião, consignou-se, ainda, que a revisão da conclusão do Tribunal local quanto à insuficiência do preparo, para assim acolher a pretensão recursal nos moldes em que pretendido, demandaria o revolvimento do acervo fático-probatório dos autos, permanecendo incólume a aplicação do óbice da Súmula n. 7/STJ, a impedir o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+Nas razões dos presentes aclaratórios, a parte defende, pela terceira vez, a existência vício no acórdão embargado, no caso, omissão decorrente da ausência de apreciação do cotejo analítico.
+Ora, se o agravo em recurso especial nem sequer mereceu conhecimento, o exame do recurso especial por todas as alíneas do permissivo constitucional, decerto, até pela lógica processual, ficara prejudicado. Nesse contexto, não há falar em omissão por ausência de apreciação de dissídio jurisprudencial suscitado em recurso especial, cujo exame ficara prejudicado em razão do não conhecimento de seu agravo posteriormente interposto.
+Registre-se, assim, a ausência de quaisquer dos vícios ensejadores dos aclaratórios, tendo sido as questões controvertidas decididas de forma satisfatória e adequada por este colegiado, tanto no julgamento do agravo interno, quanto no julgamento dos embargos de declaração anteriores, pretendendo a parte, na verdade, o rejulgamento da causa por via inadequada.
+Considerando todo o exposto, é nítido o intuito protelatório também da presente insurgência, já que, pela terceira vez, a parte traz, em suas razões recursais, pretensão de reforma da decisão, sem demonstrar a existência dos vícios autorizadores dos aclaratórios, o que impõe a majoração da multa para 10% (dez por cento) sobre o valor atualizado da causa, nos termos do que dispõe o art. 1.026, § 3º, do CPC/2015, ficando condicionada a interposição de qualquer outro recurso ao depósito prévio do valor da multa.
+Com esses fundamentos, rejeito os embargos de declaração, com majoração da multa para 10% (dez por cento) sobre o valor atualizado da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito prévio do valor integral da multa, nos termos do que dispõe o art. 1.026, § 3º, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a inadmissibilidade do recurso, conforme preconiza o art. 1.026, § 4º, do CPC/2015.
+É como voto.
