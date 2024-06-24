@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 2º, PARÁGRAFO 2º, DA LEI Nº 12.850/13, N/F DO ARTIGO 1º, PARÁGRAFO ÚNICO, INCISO V, DA LEI Nº 8072/90.  VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. MATÉRIAS  NÃO  ANALISADAS  PELO  TRIBUNAL  A  QUO.  SUPRESSÃO  DE  INSTÂNCIA.  HABEAS  CORPUS  NÃO CONHECIDO.  AGRAVO  DESPROVIDO.
+I - Esta  Corte  Superior  de  Justiça  possui  entendimento  sedimentado  de  que  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  pelos  próprios  fundamentos.
+I I  - Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade, a decisão monocrática do Relator baseada em jurisprudência dominante do Superior Tribunal de Justiça. Outrossim, os temas decididos monocraticamente sempre poderão ser levados ao Órgão Colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos. Precedentes.
+II I  -  No  presente  caso,  verifica-se  no  acórdão  impugnado,  (HC  n. 5725392-18.2022.8.09.0000),  que  as  questões  aqui  tratada s  não  foram  analisadas  pelo  Tribunal  de  origem.  Desta  forma,  se  o  Tribunal  a quo  não  se  manifestou  acerca  das matérias  ventilada s  na  presente  impetração,  fica  impedida  esta  Corte  de  proceder  à  sua  análise,  sob  pena  de  indevida  supressão  de  instância.
+Agravo  regimental  desprovido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  VITOR HUGO ALBUQUERQUE VIEIRA,  em  face  de  decisão  monocrática  na qual não conheci do habeas corpus ,  em razão da supressão de instância.
+Depreende-se dos autos que o agravante está preso preventivamente pela suposta prática do crime previsto no art.2º, parágrafo 2º, da Lei nº 12.850/13, n/f do artigo 1º, parágrafo único, inciso V, da Lei nº 8.072/90. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem em acórdão de fls. 11-15.
+No  presente  agravo,  alega  o  agravante  a  ocorrência  de  constrangimento  ilegal  porque a decisão fere o Princípio da Colegialidade, visto que, em regra, a competência atribuída a órgão colegiado não pode ser exercida individualmente pelos seus membros.
+Requer  a  reconsideração  da  decisão  ou,  alternativamente,  a  apresentação  do  feito  em  mesa  para  julgamento  pelo  colegiado.
+Por  manter  a  decisão  agravada,  submeto  o  feito  à  Quinta  Turma.
+É  o  relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 2º, PARÁGRAFO 2º, DA LEI Nº 12.850/13, N/F DO ARTIGO 1º, PARÁGRAFO ÚNICO, INCISO V, DA LEI Nº 8072/90.  VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. MATÉRIAS  NÃO  ANALISADAS  PELO  TRIBUNAL  A  QUO.  SUPRESSÃO  DE  INSTÂNCIA.  HABEAS  CORPUS  NÃO CONHECIDO.  AGRAVO  DESPROVIDO.
+I - Esta  Corte  Superior  de  Justiça  possui  entendimento  sedimentado  de  que  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  pelos  próprios  fundamentos.
+I I  - Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade, a decisão monocrática do Relator baseada em jurisprudência dominante do Superior Tribunal de Justiça. Outrossim, os temas decididos monocraticamente sempre poderão ser levados ao Órgão Colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos. Precedentes.
+II I  -  No  presente  caso,  verifica-se  no  acórdão  impugnado,  (HC  n. 5725392-18.2022.8.09.0000),  que  as  questões  aqui  tratada s  não  foram  analisadas  pelo  Tribunal  de  origem.  Desta  forma,  se  o  Tribunal  a quo  não  se  manifestou  acerca  das matérias  ventilada s  na  presente  impetração,  fica  impedida  esta  Corte  de  proceder  à  sua  análise,  sob  pena  de  indevida  supressão  de  instância.
+Agravo  regimental  desprovido.
+VOTO
+O  presente  Agravo  Regimental  não  merece  provimento.
+Sustenta  o  Agravante  a  necessidade  de  reforma  da decisão.
+ O  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  por  seus  próprios  fundamentos.
+Nesse  compasso,  não  obstante  o  teor  das  razões  suscitadas  no  presente  recurso,  não  vislumbro  elementos  hábeis  a  alterar  a  decisão.  Ao  contrário,  os  argumentos  ali  externados  merecem  ser  ratificados  pelo  Colegiado.
+Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade, a decisão monocrática do Relator baseada em jurisprudência dominante do Superior Tribunal de Justiça. Outrossim, os temas decididos monocraticamente sempre poderão ser levados ao Órgão Colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos.
+Nesse sentido: AgRg no HC n. 901.900/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/5/2024; AgRg no AREsp n. 2.385.603/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 20/5/2024 e AgRg no HC n. 900.326/PR, Quinta Turma, Relª. Minª. Daniela Teixeira, DJe de 10/5/2024.
+Ademais, verifica-se no acórdão impugnado que as questões aqui tratadas não foram analisadas pelo Tribunal de origem sob o fundamento de que:
+"os pedidos de reconhecimento de litispendência e de revogação da prisão preventiva,por ausência dos seus pressupostos, já foram submetidos à apreciação deste Colegiado nos autos do Habeas Corpus n.º 010279-40.2023.8.19.0000, de relatoriado Exmo. Desembargador José Acir Lessa Giordani, julgado em 18/04/2023,em que, por unanimidade, foi denegada a ordem" - fl. 13.
+Desta forma, se o Tribunal de origem não se manifestou acerca das questões ventiladas na presente impetração em razão de serem mera reiteração de pedidos já apreciados anteriormente em outro writ, fica impedida esta Corte de proceder à sua análise, sob pena de indevida supressão de instância.
+Sobre o tema, os seguintes precedentes: AgRg no HC n. 851.663/SP, Quinta Turma, Rel. Min. João Batista Moreira (Desembargador Convocado do TRF1), DJe de 27/10/2023; AgRg no HC n. 842.500/RO, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 27/10/2023; AgRg no HC n. 836.856/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/10/2023; AgRg no RHC n. 167.227/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 14/12/2022 e AgRg no RHC n. 167.215/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/12/2022 .
+Destarte,  neste  agravo  regimental,  não  se  aduziu  qualquer  argumento  novo  e  apto  a  ensejar  a  alteração  da  decisão  ora  agravada,  devendo  ser  mantida  por  seus  próprios  e  jurídicos  fundamentos.
+A  propósito:
+"É  assente  nesta  Corte  Superior  de  Justiça  que  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  decisão  vergastada  pelos  próprios  fundamentos" (AgRg  no  AREsp  n.  2.173.224/RN,  Rel.  Min.  Jesuíno  Rissato  - (Desembargador  Convocado  do  TJDFT,  Sexta  Turma,  DJe  de  30/6/2023).
+Ante  o  exposto,  por  não  vislumbrar  a  existência  de  argumentos  capazes  de  alterar  o  entendimento  anteriormente  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
