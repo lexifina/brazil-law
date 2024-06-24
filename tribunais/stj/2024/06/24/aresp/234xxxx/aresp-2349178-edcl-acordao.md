@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota do seguinte excerto do acórdão embargado (fls. 1.217, e-STJ): "Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese".
+2. Com efeito, extrai-se da leitura do acórdão proferido pelo Tribunal de origem que o Ministério Público foi oficiado para apurar possível prática de conduta de abuso de incapaz, conforme trecho abaixo, in verbis: "Outrossim, as pretensões do requerente já foram objeto de outras demandas judiciais, em particular as mencionadas na própria exordial, o que não foi negado pela parte autora. Resta mantido, assim, o fundamento da sentença recorrida, segundo o qual a autora renova pedido que já foi objeto de apreciação judicial, em ofensa ao dever processual de proceder com lealdade e boa-fé (art. 5º do CPC), consoante Pasta 000757. (..) Oficie-se ao Ministério Público para que, querendo, apure a possível prática de conduta de abuso de incapaz, tendo em vista que o genitor da parte autora se valeu do mal que acomete sua filha, menor de idade nascida em 08.02.2003 (PDF 000041), para buscar auferir proveito próprio (art. 173 do Código Penal)".
+3.O argumento da parte embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+4. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do Código de Processo Civil (CPC/2015). Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+5. Embargos de Declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma (fl. 1.213, e-STJ) assim ementado:
+PROCESSUAL CIVIL E CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ILEGITIMIDADE ATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+2. O Tribunal de origem não debateu o conteúdo dos arts. 9º, 10, 17, 77, 103, 141, 329, 337, 344, 352, 369, 480, 492, 933, 938, 939 e 1.013 do CPC/2015; 84 da Lei 13.106/2015; 2º, parágrafo único, da Lei 4.717/1965; 3º e 10 do CC; e 1º da Lei 8.906/1994, a despeito da oposição de Embargos Declaratórios, o que atrai a incidência da Súmula 211 do STJ.
+3. Não há contradição em afastar a suposta ofensa ao art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+4. No tocante ao art. 5º, LV, da CF, não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta infringência a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Rever o entendimento a que chegou a Corte de origem - segundo o qual, "o feito não foi extinto por ilegitimidade ativa da parte autora, mas, sim, por ter sido constatado que o genitor, representante legal e advogado da demandante busca perseguir interesse próprio, o que, evidentemente, não seria corrigido, se não ainda mais evidenciado, caso o mesmo passasse a integrar o polo ativo da lide. Outrossim, as pretensões do requerente já foram objeto de outras demandas judiciais, em particular as mencionadas na própria exordial, o que não foi negado pela parte autora" - demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação à Súmula 7/STJ.
+6. Agravo Interno não provido.
+A parte embargante aponta omissão. Alega (fls. 1.229-1.230, e-STJ):
+(..), A Embargante impugnou especificamente todos os fundamentos da decisão agravada, em sede de Agravo Interno, conforme se depreende do caderno processual, REQUEREU AINDA às (e-STJ Fl. 1194) EM SEU PEDIDO O ENVIO DE OFICIO AO MINISTÉRIO PÚBLICO PARA APURAÇÃO DO CRIME DE ABUSO DE INCAPAZ SUPOSTAMENTE PRATICADO PELO GENITOR E ADVOGADO DA DEMANDANTE.
+Impugnação à fl. 1.238, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada pelo STJ, conforme se nota do seguinte excerto do acórdão embargado (fls. 1.217, e-STJ): "Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese".
+2. Com efeito, da leitura do acórdão, proferido pelo Tribunal de origem, se extrai que o Ministério Público foi oficiado para apurar possível prática de conduta de abuso de incapaz, conforme trecho abaixo, in verbis: "Outrossim, as pretensões do requerente já foram objeto de outras demandas judiciais, em particular as mencionadas na própria exordial, o que não foi negado pela parte autora. Resta mantido, assim, o fundamento da sentença recorrida, segundo o qual a autora renova pedido que já foi objeto de apreciação judicial, em ofensa ao dever processual de proceder com lealdade e boa-fé (art. 5º do CPC), consoante Pasta 000757. (..) Oficie-se ao Ministério Público para que, querendo, apure a possível prática de conduta de abuso de incapaz, tendo em vista que o genitor da parte autora se valeu do mal que acomete sua filha, menor de idade nascida em 08.02.2003 (PDF 000041), para buscar auferir proveito próprio (art. 173 do Código Penal)".
+3.O argumento da parte embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+4. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do Código de Processo Civil (CPC/2015). Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+5. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.1.2024.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+Os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota do seguinte excerto do acórdão embargado (fls. 1.217, e-STJ):
+Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte.
+Assim, não há afronta aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+Com efeito, da leitura do acórdão, proferido pelo Tribunal de origem, se extrai que o Ministério Público foi oficiado para apurar possível prática de conduta de abuso de incapaz, conforme trecho abaixo, in verbis:
+Outrossim, as pretensões do requerente já foram objeto de outras demandas judiciais, em particular as mencionadas na própria exordial, o que não foi negado pela parte autora.
+Resta mantido, assim, o fundamento da sentença recorrida, segundo o qual a autora renova pedido que já foi objeto de apreciação judicial, em ofensa ao dever processual de proceder com lealdade e boa-fé (art. 5º do CPC), consoante Pasta 000757.
+(..)
+Oficie-se ao Ministério Público para que, querendo, apure a possível prática de conduta de abuso de incapaz, tendo em vista que o genitor da parte autora se valeu do mal que acomete sua filha, menor de idade nascida em 08.02.2003 (PDF 000041), para buscar auferir proveito próprio (art. 173 do Código Penal).
+Não identifico na espécie sub judice omissão, obscuridade, contradição ou erro material, senão o intuito de rediscutir matéria já decidida, emprestando-lhe efeito infringente.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+(..) EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA.
+(..) VI - O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento, mas não à sua modificação, que, só muito excepcionalmente, é admitida.
+Embargos declaratórios rejeitados.
+(EDcl no AgRg na CR 9.832/EX, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL,DJe 30/08/2016, grifei).
+EMBARGOS DE DECLARAÇÃO (..) AUSÊNCIA DE OMISSÃO (..) VÍCIOS NÃO CONFIGURADOS. EMBARGOS PROCRASTINATÓRIOS. CABIMENTO DA MULTA DO ART. 1.026, § 2º, DO NOVO CPC. EMBARGOS REJEITADOS.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/2015 e que os embargos declaratórios não se prestam à rediscussão de matéria devidamente analisada.
+(..) 5. A embargante reitera argumentos já apreciados, postergando a solução definitiva da controvérsia. Essa conduta é motivo para a aplicação da multa do art. 1.026, § 2º, do CPC/2015, por terem estes embargos nítido intuito procrastinatório.
+6. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp 1031107/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 01/06/2018, grifei).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 12/11/2018).
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
