@@ -1,0 +1,116 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. INTERESSE DE AGIR. AUSÊNCIA. TÍTULO EXECUTIVO. FALTA DE CERTEZA E LIQUIDEZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. MULTA. APLICAÇÃO. SÚMULA Nº 7/STJ. HONORÁRIOS RECURSAIS. CABIMENTO.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. A revisão do entendimento firmado pela corte local, acerca da ausência de interesse de agir para a propositura do cumprimento de sentença e da falta de certeza e de liquidez do título executivo, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+4. A jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda.
+5. Correta a fixação dos honorários recursais pela decisão agravada, nos termos do art. 85, § 11, do CPC/2015, estando atendidos os requisitos para tanto.
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LMG SOARES PARTICIPAÇÕES LTDA. contra a decisão que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento (fls. 481/485 e-STJ).
+Naquela oportunidade, concluiu-se pela ausência de negativa de prestação jurisdicional e pela incidência das Súmulas nº 284/STF e nº 7/STJ.
+Nas presentes razões, a agravante aduz que o tribunal de origem violou o artigo 1.022, I, do Código de Processo Civil porque: a) deixou de se manifestar sobre matéria decidida em recurso repetitivo; b) incorreu em obscuridade ao reconhecer a falta de interesse de agir da recorrente que, desde 2013, busca receber os seus haveres e dispõe de título executivo judicial; c) é contraditória ao assentar a ausência de título executivo em sua ementa; d) não enfrentou a violação do 927. II, do CPC e e) confundiu a complementação da perícia contábil, já encerrada, com balanço de determinação.
+Além disso, afirma que demonstrou a violação dos artigos 485, VI, 606, 515, I, e 927, III, do CPC no rec urso especial, motivo pelo qual deve ser afastada a aplicação da Súmula nº 284/STF.
+Sustenta que a Súmula nº 7/STJ não pode obstar o julgamento de recursos onde ocorrem inquestionáveis contrariedades a leis federais, como no presente caso. Assevera que em nenhum momento postulou pelo reexame de provas.
+Defende que deve ser afastada a sua condenação por litigância de má-fé.
+Por fim, alega que devem ser mantidos os honorários advocatícios fixados pelas instâncias ordinárias em 12, 5% (doze e meio por cento) sobre o valor da causa.
+Impugnação às fls. 638/641 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. INTERESSE DE AGIR. AUSÊNCIA. TÍTULO EXECUTIVO. FALTA DE CERTEZA E LIQUIDEZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. MULTA. APLICAÇÃO. SÚMULA Nº 7/STJ. HONORÁRIOS RECURSAIS. CABIMENTO.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. A revisão do entendimento firmado pela corte local, acerca da ausência de interesse de agir para a propositura do cumprimento de sentença e da falta de certeza e de liquidez do título executivo, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+4. A jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda.
+5. Correta a fixação dos honorários recursais pela decisão agravada, nos termos do art. 85, § 11, do CPC/2015, estando atendidos os requisitos para tanto.
+6. Agravo interno não provido.
+VOTO
+O agravo interno não merece prosperar.
+No tocante aos vícios apontados no acórdão estadual, o tribunal de origem ao decidir os embargos de declaração, reforçou a ausência de título executivo líquido e de interesse de agir da recorrente. Consignou, ainda, expressamente que o entendimento do RESp 1.324.152/SP não se aplica à presente hipótese.
+É o que se extrai da seguinte passagem:
+"(..)
+Ao contrário do alegado e conforme os fundamentos já explicitados, entretanto, cabe registrar que foi mantida a extinção decretada na origem ante os fundamentos já explicitados, sendo, apenas e tão somente, reconhecido o açodamento no ajuizamento do cumprimento de sentença originário em razão da falta de conclusão dos trabalhos periciais, ausente a liquidez efetiva do título executivo judicial.
+O interesse de agir então, não está presente, como visto, acionado o aparato judiciário sem que possa ser extraído um resultado útil, pois não foi empregado com a utilização de um procedimento adequado, ausente pressuposto imprescindível à instauração de um cumprimento de sentença.
+Assinala-se, inclusive, que a tese fixada quando do julgamento do Recurso Especial 1.324.152/SP(STJ, Corte Especial, rel. Min. Luis Felipe Salomão,j. 04.05.2016), refere-se à executividade de sentenças não condenatórias, não se vinculando à matéria tratada no recurso antecendente e que gerou o acórdão embargado, sendo descabida sua invocação diante do caso concreto.
+(..)" (fls. 308/309 e-STJ).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022. - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+No caso, o Tribunal de origem entendeu o seguinte:
+"(..)
+Conforme explicitado na origem, entretanto, a decisão que serviu de supedâneo à propositura do presente cumprimento de sentença, ao contrário do alegado pela parte recorrente, não deu fim à liquidação, que ainda está em curso, e, também, não chegou, nem mesmo, a homologar o laudo pericial já elaborado, determinando, inclusive, a realização de uma perícia de engenharia, para a avaliação dos bens do ativo imobilizado da sociedade, feita a ressalva de que, posteriormente, há de ser complementado o exame contábil.
+(..)
+A decisão invocada e que determinou a produção da perícia de engenharia foi mantida em grau recursal(fls. 46/72), não se inferindo, todavia, dos acórdãos proferidos, seja por esta Câmara Reservada, seja pelo Egrégio Superior Tribunal de Justiça, a afirmação da liquidez necessária ao surgimento de um título executivo.
+O trabalho desenvolvido pelo Perito Judicial na seara contábil, portanto, como visto, não se encerrou, pendente complementação relegada ao término da avaliação de engenharia, de forma que não há nem liquidez efetiva a amparar o ajuizamento do presente cumprimento de sentença, sendo, na forma reconhecida no "decisum" combatido, totalmente prematuro o ajuizamento promovido.
+Registre-se, inclusive, que a pretensão deduzida se trata de repetição de uma anterior (fls.1.531/1.534 dos autos principais), que foi antes rechaçada pelos mesmos motivos, reconhecido, da mesma forma, o açodamento ante a falta de conclusão dos trabalhos periciais (fls. 1602 dos autos da ação originária).
+A propositura do cumprimento de sentença em apreço, portanto, mostra-se imprópria diante da falta de preenchimento dos requisitos legais previstos no artigo 783 do CPC de 2015, na medida em que o título executivo deve ostentar liquidez e certeza. A certeza deriva da segurança documental da existência da obrigação, o que deriva, simplesmente, da coisa julgada material, enquanto a liquidez implica a determinabilidade do valor exequendo (Araken de Assis, Manual do Processo de Execução, 8ª ed., RT, São Paulo,2002, pp. 150 e 152). E, apesar da presença da coisa julgada, a liquidez ainda não foi alcançada, estando, repita-se mais uma vez, em curso a liquidação por arbitramento.
+A falta de preenchimento dos requisitos necessários, então, resulta na reconhecida ausência de interesse de agir, pois, como condição da ação, assenta-se a imprescindibilidade de que do acionamento do aparato judiciário, possa ser extraído um resultado útil, com a utilização de um procedimento adequado (A. C. Araújo Cintra, A. P. Grinover e C. R. Dinamarco, Teoria Geral do Processo, 8ª ed., RT, 1991, p.230). E, concretamente, a tutela jurisdicional foi acionada sem a indispensável adequação do rito escolhido, ausente pressuposto imprescindível à instauração de um cumprimento de sentença, e a manutenção do decreto de extinção é a única alternativa viável, devendo ser integralmente mantida a sentença recorrida.
+(..)" (fls. 248/250, e-STJ).
+De fato, a revisão do entendimento firmado pela Corte local, acerca da ausência de interesse de agir para a propositura do cumprimento de sentença e da falta de certeza e de liquidez do título executivo, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ademais, a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, apesar de indicar os arts. 485, VI, 606, 515, I, e 927, III, do CPC como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+(..)
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+(..)
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+No que tange ao art. 80 do CPC, a ora recorrente foi condenada ao pagamento de multa por litigância de má-fé, nos seguintes termos:
+"(..)
+No mais, observado o teor das razões recursais e a manifestação apresentada pelos embargados, não há, enfim, como deixar de reconhecer que a composição dos presentes embargos de declaração extrapolou os parâmetros da normalidade, ainda mais quando se considera advertência já feita quando do julgamento de recurso anterior(AI 2087481-35.2021.8.26.0000)..
+É preciso destacar, outrossim, que foram adotadas nas razões recursais expressões desprestigiosas e, até mesmo, ofensivas, sendo nítida a intenção de desautorizar e depreciar o acórdão embargado, empregada utilizando de conduta que não pode ser tida como lícita.
+(..)
+A parte embargante, descontente com o resultado obtido, procurou colocar em dúvida jogar dúvidas sobre a lisura do julgamento, usando os embargos declaratórios para atacar membros do Poder Judiciário, utilizando de adjetivos incompatíveis com a realidade, totalmente infundados, mesmo porque nenhum dos magistrados tem qualquer mínima vinculação individual com a causa ou com as partes, tendo, pura e simplesmente, exposto um livre convencimento motivado.
+(..)
+Há um abuso toda vez que a parte, de maneira ilegítima, atua no sentido de utilizar uma das formas processuais num sentido desvirtuado, sem a devida idoneidade e para conturbar o processo, potencializando o surgimento de questiúnculas e a arguição de factoides. Este desvio de finalidade merece repúdio vigoroso, para que seja evitada a disseminação sistêmica da anormalidade, fazendo seja perdida qualquer noção de instrumentalidade e seriedade na solução dos litígios perante os órgãos da jurisdição.
+A parte, como sujeito da relação processual, ostenta um dever de cooperação, contribuindo para a solução do litígio trazido ao conhecimento do Poder Judiciário e, portanto, não pode se eximir da responsabilidade pela prática de atos abusivos, devendo ser sancionada quando verificado o desvio de finalidade.
+No caso concreto, os embargos de declaração foram opostos sem a menor preocupação de respeito ao disposto no artigo 1.022 do CPC de 2015.
+(..)
+Foram, portanto isso sim, de maneira conjugada, violados os deveres processuais estatuídos nos incisos II e III do artigo 77 do novo diploma processual vigente, o que ocasiona, por sua vez, a concretização das hipóteses previstas nos incisos IV, V e VI do artigo 80 da mesma lei, qualificadas como de litigância de má fé.
+Age com temeridade "o litigante que vai a Juízo sabendo que não tem razão", o que se traduz na consciência própria da falta de razão (José Olímpio de Castro Filho, Abuso do Direito no Processo Civil, 2ª ed, Forense, Rio de Janeiro, 1960, p.91), o que, claramente, ocorre aqui.
+Soma-se, como patologia de conduta, pretendera parte atacar diretamente, ofender os atores do processo, além de suscitar matérias sem pertinência com a demanda, rediscutir questões já apreciadas e decididas em sentido oposto ao que é proposto, afirmando omissões ou contradições inexistentes de maneira deliberada, provocadas novas discussões despidas de utilidade tornando o recurso protelatório(STJ, EDcl no REsp 56.554/RS, Rel. Ministro ALDIRPASSARINHO JUNIOR, QUARTA TURMA, julgado em 20/11/2001, DJ 04/03/2002, p. 257; ).
+Consuma-se, então, a resistência injustificada ao trâmite normal do processo, provocado incidente despido de utilidade (André Luís Santoro Carrradita, Abuso de Situações Jurídicas Processuais no Código de Processo Civil, Dissertação de Mestrado, Universidade de São Paulo, 2013, São Paulo, pp.222-3).
+Assim, diante do exposto e conforme o tipificado, caracterizada a litigância de má fé, impõe-se seja condenada a parte embargante ao pagamento de multa correspondente a 4% (quatro por cento) do valor da causa (..(a ser paga em favor da parte embargada), realizado o arbitramento esta arbitrada em paridade com o valor das custas do preparo, tendo em conta a gravidade do ocorrido e, principalmente, a necessidade de prevenir a repetição de novos eventos processuais similares, observados os limites estabelecidos pelo artigo 81, "caput" do CPC vigente.
+(..)" (fls. 309/317, e-STJ).
+De fato, conforme consignado na decisão agravada, a jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda, consoante se extrai dos seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. Descabe a esta Corte apreciar as razões que levaram as instâncias ordinárias a aplicar a multa por litigância de má-fé prevista nos artigos 17 e 18 do CPC de 1973, quando for necessário rever o suporte fático-probatório dos autos. Incide o teor da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".5. Agravo interno não provido."
+(AgInt no AREsp 1.078.631/GO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/10/2017, DJe 23/10/2017)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE FATOS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.2. Agravo regimental não provido."
+(AgRg no REsp 1.474.091/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2015, DJe 4/8/2015).
+Por fim, cumpre atentar que o não conhecimento parcial do recurso especial e o seu não provimento ensejou a majoração dos honorários fixados nas instâncias ordinárias de 12,5% (doze e meio) para 15% (quinze por cento) sobre o valor da causa.
+Com efeito, a Terceira Turma, quando do julgamento dos EDcl no AgInt no REsp nº 1.573.573/RJ, Relator Ministro Marco Aurélio Belizze, para fins de arbitramento de honorários recursais, previstos no art. 85, § 11, do CPC/2015, assim se manifestou:
+"(..) é necessário o preenchimento cumulativo dos seguintes requisitos:
+1.Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC";
+2. o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente;
+3. a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso;
+4. não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido;
+5. não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo;
+6. não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba".
+Assim, considerando-se presentes os requisitos supramencionados, correta a fixação dos honorários recursais pela decisão agravada, nos termos do art. 85, § 11, do CPC/2015.
+Nesse contexto, os argumentos expostos no agravo interno são incapazes de alterar os fundamentos da decisão agravada, a qual permanece incólume em todos os seus termos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
