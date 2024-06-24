@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO EM  RECURSO  ESPECIAL.  OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. SUBSCRIÇÃO  DE  AÇÕES.  ADIMPLEMENTO  CONTRATUAL.  AUSÊNCIA  DE  INTERESSE  DE  AGIR.  PRÉVIO  REQUERIMENTO  ADMINISTRATIVO.  PAGAMENTO  DE  TAXA.  COMPROVAÇÃO.  AUSÊNCIA.  EMPRESA  DE  TELEFONIA.  RECUSA.  MATÉRIA  FÁTICO-PROBATÓRIA.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2.  No caso,  o  reconhecimento  da  afirmação  de  que  houve  recusa  da  agravada  ao  atendimento  do  pedido  administrativo  ou  à  emissão  da  taxa  administrativa  para  pagamento  demandaria  o  reexame  de  matéria  fático-probatória,  procedimento  inviável  no  recurso  especial  (Súmula  nº  7/STJ) .
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  NOVA SOLÁRIO PARTICIPAÇÕES SOCIETÁRIAS E AQUISIÇÕES DE DIREITOS CREDITÓRIOS LTDA.  contra a  decisão  de e-STJ fls. 1.781/1.783 que  conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento pela ausência de omissão no julgado e incidência da Súmula nº 7/STJ.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.806/1.807).
+Em  suas  razões  (e-STJ fls.  1.811/1.818),  a  agravante  aduz omissão no julgado.
+Sustenta que,
+"(..) como não houve a prova de resposta ou de cobrança pela agravada (matéria provocada via embargos de declaração), por certo e lógico, não se poderia exigir da agravante que realizasse a prova de pagamento de algo que nem sequer se sabia se de fato era cobrado e qual era o valor cobrado, frise-se, sendo que a recorrente solicitou tais informações" (e-STJ fl. 1.816).
+Argumenta que não há nenhum óbice sumular no caso.
+Impugnação às e-STJ fls. 1.822/1.833.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO EM  RECURSO  ESPECIAL.  OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. SUBSCRIÇÃO  DE  AÇÕES.  ADIMPLEMENTO  CONTRATUAL.  AUSÊNCIA  DE  INTERESSE  DE  AGIR.  PRÉVIO  REQUERIMENTO  ADMINISTRATIVO.  PAGAMENTO  DE  TAXA.  COMPROVAÇÃO.  AUSÊNCIA.  EMPRESA  DE  TELEFONIA.  RECUSA.  MATÉRIA  FÁTICO-PROBATÓRIA.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2.  No caso,  o  reconhecimento  da  afirmação  de  que  houve  recusa  da  agravada  ao  atendimento  do  pedido  administrativo  ou  à  emissão  da  taxa  administrativa  para  pagamento  demandaria  o  reexame  de  matéria  fático-probatória,  procedimento  inviável  no  recurso  especial  (Súmula  nº  7/STJ) .
+3.  Agravo  interno  não  provido.
+VOTO
+A irresignação não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à ausência de cumprimento dos requisitos na ação de exibição de documentos, conforme se verifica do seguinte trecho do acórdão:
+"(..) a embargante sustenta que houve omissão no Acórdão, quanto à existência de prova do recebimento da notificação extrajudicial, pela embargada, fato este que seria suficiente para modificar a conclusão a que chegou o Acórdão, no tocante à ausência de interesse de agir.
+Analisando o Acórdão, verifica-se que, de fato, partiu de premissa equivocada quanto à inexistência de comprovante de envio e recebimento da notificação extrajudicial.
+Quanto ao tema, contou no Acórdão o seguinte:
+Compulsando os autos, verifica-se que em que pese a parte tenha juntado cópias da notificação extrajudicial (fls. 249/255) endereçada a OI S/A, deixou de comprovar seu envio e recebimento, não havendo nos autos juntada de AR.
+Ocorre que a notificação extrajudicial foi enviada pelo cartório de títulos e documentos, tendo o escrevente certificado o recebimento da notificação:
+Com base no artigo 160 da Lei número 6.015 de dezembro de 1973.
+Certifico que, a pedido da parte interessada no dia 04/07/12, foi entregue 01 via desta carta no endereço retro mencionado a BRASIL TELECOM S/A na pessoa de IGOR VEGELE (advogado), tendo em vista que mesmo exarou seu ciente. (mov. 1.18 - autos originários)
+Assim, conclui-se que, de fato, o Acórdão está embasado em premissa equivocada quanto ao recebimento da notificação extrajudicial. Tal fato, contudo, não altera o resultado final do julgamento, eis que a ausência de interesse de agir foi reconhecida, também, em virtude de outros fundamentos.
+Com efeito, constou no Acórdão que a: "NOVA SOLÁRIO PARTICIPAÇÕES E AQUISIÇÕES LTDA deixou de comprovar o pagamento da taxa de "custo de serviço", requisito fundamental para configuração do interesse de agir".
+Destacou-se, também, que a notificação não se prestava ao fim destinado, eis que não tinha as informações suficientes para o fornecimento dos documentos requeridos e que não houve o necessário esgotamento dos meios administrativos para obtenção da documentação.
+Confira-se:
+Salienta-se que, em sede de contestação, a parte ré afirma (fls. 455) que a notificação juntada aos autos, supostamente enviada pela autora, consiste em "mero simulacro de comunicação".
+Ressalta que a autora deixou de cumprir com o disposto no art. 100, §1º da Lei das Sociedades por Ações, bem como, deveria ter utilizado todos os meios administrativos para solução da pendência, inclusive com interposição de recurso administrativo à Comissão de Valores Mobiliários (CVM).
+Já em sede de recurso de Apelação, reitera os argumentos contidos em contestação e ainda, aduz que
+"(..) não há nos autos nenhuma prova de que a autora, aqui apelada, tenha requerido, legitimamente, pela via administrativa, com o recolhimento das custas devidas, ou mediante a interposição de recurso à CVM, as informações societárias desejadas, é evidente que falece a apelada de interesse de agir" (fls. 802).
+Some-se a tais argumentos o fato de que não houve tempo hábil para a resposta da solicitação administrativa, eis que foram requeridos documentos relativos a mais de 200 contratos, sem informações suficientes, com o estabelecimento unilateral do exíguo prazo de 21 (vinte e um) dias, ao fim do qual a ação foi imediatamente ajuizada.
+Com efeito, a notificação foi recebida em 04/07/2012 e a ação foi ajuizada em 25/07/2012, o que autoriza concluir que não houve prazo suficiente para que a empresa pudesse oferecer resposta, seja fornecendo os documentos ou negando o pedido, o que resultaria no interesse de agir da autora" (e-STJ fls. 1.631/1.632).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Ademais, a  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou-se  no  sentido  de  que  "(..) o  entendimento  da  Súmula  389  do  STJ  aplica-se  aos  pedidos  de  exibição  incidental  dos  chamados  contratos  de  prestação  de  serviços  de  telefonia  com  cláusula  de  participação  financeira"  (AgInt  no  AREsp  812.092/PR,  Rel.  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  DJe  27/5/2016).
+Com efeito,  não  consta  nos  julgados  de  origem  que  houve  recusa  da  embargada  de  atender  ao  pedido  administrativo  ou  de  emitir  a  taxa  administrativa  para  pagamento.  Assim,  a  revisão  do  acórdão  para  admitir  que  a  falta  de  pagamento  da  taxa  administrativa  se  deu  por  desídia  da  operadora  demandaria  o  reexame  de  matéria  fático-probatória,  procedimento  inviável  no  recurso  especial  (Súmula  nº  7/STJ).
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  ADIMPLEMENTO  CONTRATUAL.  INTERESSE  DE  AGIR.  EXIBIÇÃO  INCIDENTAL  DE  DOCUMENTO.  SÚMULA  389/STJ.  APLICABILIDADE.  PRECEDENTES.  INEXISTÊNCIA  DE  REQUERIMENTO  ADMINISTRATIVO  E  DE  COMPROVAÇÃO  DO  PAGAMENTO  DA  TAXA  DO  SERVIÇO.  EXTINÇÃO  DA  DEMANDA,  SEM  RESOLUÇÃO  DO  MÉRITO.  AFERIÇÃO  DO  PREENCHIMENTO  DOS  REQUISITOS  DO  PEDIDO  INCIDENTAL  DE  EXIBIÇÃO  DE  DOCUMENTOS,  NOTADAMENTE  O  REQUERIMENTO  ADMINISTRATIVO  PRÉVIO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Dispõe  a  jurisprudência  desta  Casa  que,  "embora  tenha  editado  a  Súmula  389  ("a  comprovação  do  pagamento  do  "custo  do  serviço"  referente  ao  fornecimento  de  certidão  de  assentamentos  constantes  dos  livros  da  companhia  é  requisito  de  procedibilidade  da  ação  de  exibição  de  documentos  ajuizada  em  face  da  sociedade  anônima"),  o  Superior  Tribunal  de  Justiça,  em  reiterados  julgados,  assentou  que  a  orientação  supra  não  se  restringe  à  ação  cautelar  de  exibição  de  documentos,  aplicando-se  também  aos  pedidos  de  apresentação  de  dados  formulados  incidentalmente  em  demandas  que  objetivam  o  adimplemento  contratual"  (AgRg  na  MC  20.827/PR,  Rel.  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  21/8/2014,  DJe  8/9/2014).
+2.  É  descabido  transpor,  nesta  instância  extraordinária,  a  modificação  da  conclusão  delineada  no  acórdão  recorrido  e  acolher  a  tese  dos  recorrentes  -  a  respeito  da  formulação  do  requerimento  administrativo  prévio,  devidamente  acostado  ao  feito,  a  evidenciar,  por  conseguinte,  o  conhecimento  do  pedido  incidental  de  exibição  de  documentos  -,  pois  tal  providência  exige  inexoravelmente  o  reexame  dos  fatos  e  das  provas  dos  autos,  o  que  é  vedado  pelo  disposto  na  Súmula  7/STJ.
+3.  Agravo  interno  desprovido."
+ (AgInt  nos  EDcl  no  REsp  1.792.533/PR,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  10/6/2019,  DJe  de  13/6/2019).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  CAUTELAR  AUTÔNOMA  DE  EXIBIÇÃO  DE  DOCUMENTOS  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  AUTOR.
+1.  "A  propositura  de  ação  cautelar  de  exibição  de  documentos  bancários  (cópias  e  segunda  via  de  documentos)  é  cabível  como  medida  preparatória  a  fim  de  instruir  a  ação  principal,  bastando  a  demonstração  da  existência  de  relação  jurídica  entre  as  partes,  a  comprovação  de  prévio  pedido  à  instituição  financeira  não  atendido  em  prazo  razoável,  e  o  pagamento  do  custo  do  serviço  conforme  previsão  contratual  e  normatização  da  autoridade  monetária."  (REsp  1.349.453/MS,  Rel.  Ministro  Luis  Felipe  Salomão,  Segunda  Seção,  julgado  em  10/12/2014,  DJe  2/2/2015).
+2.  Para  alterar  a  conclusão  do  Tribunal  de  origem,  segundo  o  qual  o  requerimento  apresentado  não  estava  acompanhado  de  procuração  do  titular  do  interesse,  de  modo  que  não  houve  pedido  administrativo  válido,  seria  necessário  o  revolvimento  de  fatos  e  provas,  pretensão  obstada  pela  Súmula  7  desta  Corte.  Precedentes.
+3.  Agravo  interno  desprovido."
+ (AgInt  no  AREsp  1.078.491/MG,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  5/2/2019,  DJe  18/2/2019).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
