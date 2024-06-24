@@ -1,0 +1,17 @@
+DECISÃO
+FÁBIO HARFUCH interpõe agravo contra a decisão do Tribunal de Justiça do Estado de São Paulo, que, por ausência de impugnação de todos os argumentos do acórdão recorrido e por incidência da Súmula n. 7 do STJ, inadmitiu o recurso especial interposto pela defesa contra o julgamento do Agravo em Execução n. 0012794-09.2022.8.26.0996.
+A parte afirma que o recurso especial contestou a perda de 1/3 dos dias remidos e não é necessário reexame de provas para concluir-se pela falta de fundamentação do percentual máximo da penalidade.
+O MPF opinou pelo conhecimento do agravo para desprover o recurso especial.
+Decido.
+O agravo é tempestivo e preenche os demais requisitos para ser processado. Deveras, está equivocada a negativa de admissibilidade do recurso especial, pois a controvérsia não requer reexame de provas para ser resolvida e a defesa impugnou o acórdão recorrido e seus fundamentos.
+O condenado cometeu uma falta grave em 23/03/2022 (posse de drogas no interior do estabelecimento prisional). O juiz determinou a regressão ao regime fechado, a alteração da data-base para nova progressão e a perda de 1/6 dos dias remidos. O Tribunal de origem alterou a fração para o máximo de 1/3. A defesa alega a violação dos artigos 57 e 127 da LEP.
+Segundo o art. 127 da LEP, "em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar".
+Assim, na aplicação da sanção, deve ser levado em conta a pessoa do faltoso, a natureza e as circunstâncias do fato, bem como as suas consequências.
+O reeducando praticou fato definido como crime doloso, uma vez que, durante o procedimento de revista, foi flagrado dispensando 4 invólucros de maconha e 1 invólucro de cocaína no local de cumprimento de pena. Ele assumiu a propriedade da droga.
+Na aplicação da sanção, o Tribunal de Justiça de origem considerou que "a conduta praticada pelo reeducando se reveste de gravidade" e revela "descaso com o cumprimento da reprimenda" (fl. 152); "Desconsiderar a gravidade da infração disciplinar imputada ao agravante levaria ao absurdo de atribuir aspecto de legalidade à evidente violação das regras de conduta estabelecidas pela direção do estabelecimento prisional" (fl. 152).
+A natureza especialmente grave da falta disciplinar justifica a adoção da fração indicada. Nos termos da jurisprudência desta Corte Superior, "a falta grave consistente em novo crime justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEE)" (HC n. 466.243/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe de 10/12/2018).
+A "fração de 1/3 (um terço) aplicada para a perda dos dias remidos está devidamente fundamentada na natureza da falta cometida e na reprovabilidade da conduta (prática de novo crime  .. )" (AgRg no HC n. 791.297/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+Deveras, "a natureza especialmente grave da falta disciplinar justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEP)" (HC n. 429.617/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2018, DJe de 27/2/2018).
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
