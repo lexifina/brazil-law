@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada conheceu do agravo, para não conhecer do recurso especial, em razão dos óbices contidos nas Súmulas n. 284/STF e 211/STJ. Contudo, nas razões do agravo interno, a parte agravante não impugnou, de forma específica, os fundamentos da decisão agravada.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, §1º, do CPC/2015. Incidência da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão de f. 211-212 proferida pela Presidência desta Corte, a qual conheceu do agravo, para não conhecer do recurso especial, em razão dos óbices contidos nas Súmulas n. 284/STF e 211/STJ.
+A parte agravante alega que, "a despeito da nobilíssima lavra de que se origina, é certo que, a despeito da ausência de indicação do inciso, é certo que a afronta havida se ampara no teor do artigo 1.022, do CPC, como um todo. E, ainda que assim não fosse, não se pode ignorar que a violação ao artigo 1.022, do CPC, é preliminar, de forma que sua não apreciação não afeta a discussão de mérito" (f. 220).
+Prossegue defendendo que, "no tocante ao mérito, considerou a Exma. Ministra que a discussão esbarraria no óbice da Súmula n. 211/STJ. Entretanto, da leitura dos julgados proferidos, observa-se que a Corte de origem apreciou a controvérsia quando da fixação da verba honorária" (f. 220).
+Afirma que "não se pode adotar o referido verbete quando a parte, valendo-se do instrumento processual adequado, buscou a manifestação do Poder Judiciário quanto ao tema. Assim, quando da oposição dos declaratórios perante a Corte de origem, apontaram os Autores a necessidade de análise da afronta ao artigo 85, §§2º e 3º, do CPC; eventual inércia do Tribunal a quo não pode ser imputada à parte" (f. 220).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada conheceu do agravo, para não conhecer do recurso especial, em razão dos óbices contidos nas Súmulas n. 284/STF e 211/STJ. Contudo, nas razões do agravo interno, a parte agravante não impugnou, de forma específica, os fundamentos da decisão agravada.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, §1º, do CPC/2015. Incidência da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A Presidência desta Corte Superior conheceu do agravo, para não conhecer do recurso especial, em razão dos óbices contidos nas Súmulas n. 284/STF e 211/STJ, tendo por base a seguinte fundamentação (f. 212):
+Quanto à primeira controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial Quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Entretanto, a parte agravante não impugnou, especificamente, os fundamentos da decisão agravada, vi sto que se limitou a arguir, genericamente, o seguinte (f. 220):
+ ..
+No entanto, a despeito da nobilíssima lavra de que se origina, é certo que, a despeito da ausência de indicação do inciso, é certo que a afronta havida se ampara no teor do artigo 1.022, do CPC, como um todo.
+E, ainda que assim não fosse, não se pode ignorar que a violação ao artigo 1.022, do CPC, é preliminar, de forma que sua não apreciação não afeta a discussão de mérito.
+No tocante ao mérito, considerou a Exma. Ministra que a discussão esbarraria no óbice da Súmula n. 211/STJ.
+Entretanto, da leitura dos julgados proferidos, observa-se que a Corte de origem apreciou a controvérsia quando da fixação da verba honorária.
+Ademais, não se pode adotar o referido verbete quando a parte, valendo-se do instrumento processual adequado, buscou a manifestação do Poder Judiciário quanto ao tema. Assim, quando da oposição dos declaratórios perante a Corte de origem, apontaram os Autores a necessidade de análise da afronta ao artigo 85, §§2º e 3º, do CPC; eventual inércia do Tribunal a quo não pode ser imputada à parte
+ ..
+No que diz respeito ao combate à Súmula n. 284/STF, é necessário que se desenvolva uma argumentação que comprove, transcrevendo os trechos do seu recurso, a indicação do dispositivo legal objeto de violação e/ou interpretação divergente, com a devida especificação de quais incisos foram contrariados. No caso, a parte agravante nem ao menos desenvolveu sólida argumentação demonstrando que as questões trazidas no recurso especial não foram apreciadas pelo venerando acórdão atacado, esclarecendo os pontos não fundamentados/omitidos/contraditórios/obscuros e a importância do seu esclarecimento na solução da controvérsia.
+Demais, no concernente à Súmula n. 211/STJ, para que seja considerada infirmada, na hipótese dos autos, é necessário que a parte transcreva os trechos do julgado, em que o colegiado de origem tratou do tema controvertido, decidindo sobre ele, de modo a demonstrar a efetiva ocorrência do prequestionamento da matéria.
+Com efeito, além da manifestação do inconformismo, inerente ao ato de irresignação, à parte agravante se impõe o ônus de se contrapor especificamente, de forma clara e específica, aos fundamentos da decisão agravada, o que não ocorreu no caso do autos.
+Assim, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade, de forma que incide à hipótese a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. GRATUIDADE JUDICIÁRIA. INDEFERIMENTO. RECOLHIMENTO DO PREPARO. PEDIDO. INCOMPATIBILIDADE.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. O regular recolhimento do preparo do recurso especial é ato incompatível com o pedido de gratuidade de justiça. Precedentes.
+4. Agravo interno não conhecido. (AgInt no AREsp n. 2.318.133/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida deu provimento ao recurso especial da parte contrária aplicando entendimento consolidado nesta Corte Superior acerca da possibilidade de alegação, a qualquer momento, de matéria de ordem pública, neste caso, a impenhorabilidade de bem de família.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, limitando-se a afirmar a impossibilidade de conhecimento do recurso especial, não se referindo ao tema de mérito.
+3. Aplicável ao caso em questão a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo interno não conhecido. (AgInt no AREsp n. 1.560.781/SE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.) (Grifei).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
