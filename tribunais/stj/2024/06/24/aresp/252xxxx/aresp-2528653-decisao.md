@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial interposto contra acórdão, assim ementado (fl. 361):
+REMESSA OFICIAL E APELAÇÃO CÍVEL VOLUNTÁRIA. AÇÃO DE MANDADO DE SEGURANÇA. LEI ESTADUAL Nº 14.938, DE 2003. TAXA DE PREVENÇÃO DE INCÊNDIO. ENTENDIMENTO DO EGRÉGIO SUPREMO TRIBUNAL FEDERAL COM REPERCUSSÃO GERAL. PREVALÊNCIA. RECOLHIMENTO DA TAXA. EXIGÊNCIA INDEVIDA. COMPENSAÇÃO TRIBUTÁRIA. POSSIBILIDADE. SEGURANÇA CONCEDIDA. SENTENÇA CONFIRMADA.1. A taxa constitui contraprestação do contribuinte por um serviço público divisível, efetivo ou potencial, ainda que não tenha sido efetivamente utilizado.2. O
+Pleno do egrégio Supremo Tribunal Federal, no julgamento do mencionado RE nº 643.247 -SP, com repercussão geral, fixou entendimento segundo o qual a prevenção e o combate a incêndio do gênero segurança pública e seu custeio não pode ser feito com instituição de taxa.
+3. Ademais, o egrégio Supremo Tribunal Federal, no julgamento da ADIn nº 4.411, declarou a inconstitucionalidade do dispositivo da Lei estadual nº 14.938, de 2003, que previa a taxa de segurança pública pela utilização potencial do serviço de extinção de incêndios. Portanto, é inexigível a cobrança de tal valor.
+4. Nos termos da Súmula nº 213 do egrégio Superior Tribunal de Justiça, o mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária.
+5. Remessa oficial e apelação cível voluntária conhecidas.
+6. Sentença que concedeu a segurança confirmada no reexame necessário, prejudicada a apelação voluntária.
+É o relatório. Decido.
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, a todos os fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+A respeito da impugnação à decisão de inadmissibilidade, a jurisprudência do STJ é pacífica no sentido de que " a  decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+No caso dos autos, a decisão de inadmissibilidade expõe que o inconformismo recursal diz respeito à matéria constitucional: "No tocante à questão da modulação, o recurso também se mostra inviável, porquanto o entendimento externado no acórdão recorrido está de acordo com a decisão proferida pelo STF nos embargos declaratórios opostos na ADI nº 4.411/MG -que versou especificamente sobre a taxa de incêndio mineira" (fl. 475).
+Nas razões do AREsp, o agravante sustenta o prosseguimento do recurso para viabilizar o exame de ofensa a preceitos constitucionais: "No entanto, concessa venia, a decisão não merece prosperar. Este decisum há de ser reformado no bojo do presente recurso de agravo, a fim de que o apelo excepcional tenha regular prosseguimento, viabilizando o exame, por este Superior Tribunal de Justiça, da ofensa aos preceitos constitucionais sustentados no Recurso Especial aviado pelo Estado, pelas razões a seguir aduzida" (fl. 573) e, apontando violação do art. 927, III, do CPC/2015, para tratar "questões relativas à modulação realizada na ADI 4.411 se esbarram na inviabilidade de se obter efeitos patrimoniais na via estreita do mandado de segurança", alegando ausência de modulação dos efeitos pelo acórdão.
+Com efeito, as razões do AREsp não impugnam a decisão de inadmissibilidade; ao revés, confirmam que a controvérsia é pertinente à matéria eminentemente constitucional, incabível de apreciação no âmbito do recurso especial, sob pena de vulneração da competência do STF, nos termos do disposto no art. 102, III, da CF.
+A jurisprudência do STJ é no sentido de que não é possível, no âmbito de recurso especial, aferir se houve a correta aplicação, pelo tribunal de origem, de entendimento firmado pelo STF, nem a pretexto de ofensa ao art. 927 do CPC emitir juízo a respeito dos limites do que foi julgado em precedente qualificado do STF. A propósito: AgInt no AREsp n. 2.443.233/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/5/2024, DJe de 17/5/2024; AgInt no AREsp 1.528.999/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 5.9.2019, DJe 16.9.2019; AgInt no AREsp 1.643.657/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020; AgInt nos EDcl no AREsp 1.972.416/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 06/06/2022.
+A propósito :
+PROCESSUAL CIVIL.  .. MATÉRIA CONSTITUCIONAL. INADEQUAÇÃO DA VIA.  ..
+ ..
+IV - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado ao exame de tema eminentemente constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+ ..
+(AgInt no REsp n. 1.974.939/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024)
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando, de forma clara, objetiva e concreta, o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+A propósito, na parte que interessa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DO DEMANDANTE.
+1. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.199.998/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO INATACADO.  ..
+ ..
+5. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+ ..
+(AgInt no AREsp n. 1.715.725/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+ ..
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
