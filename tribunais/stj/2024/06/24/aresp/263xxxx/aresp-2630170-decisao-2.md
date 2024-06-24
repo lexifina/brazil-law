@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ODILA UBALDINA DOS SANTOS BRUM, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: revisional de contrato bancário, ajuizada pela agravante em face do BANCO ITAU CONSIGNADO S.A., fundada na abusividade contratual.
+Acórdão: conheceu da apelação interposta pelo agravante e deu-lhe parcial provimento, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃOREVISIONAL. INÉPCIA DA INICIAL. PRELIMINAR AFASTADA. JUROSREMUNERATÓRIOS. ABUSIVIDADE. DESCARACTERIZAÇÃO DAMORAL. REPETIÇÃO/COMPENSAÇÃO DE VALORES.
+Rejeitada a preliminar de inépcia da inicial, uma vez que a autora, na exordial, indicou o contrato que pretendia revisar, bem como as cláusulas controvertidas e o valor incontroverso, além do cálculo, possibilitando o exame do pedido revisional, não se tratando de pedido genérico. Não há limitação da taxa de juros remuneratórios, desde que não ultrapassem demasiadamente a taxa média mensal divulgada pelo BACEN para a operação, conforme orientação pacífica das Cortes Superior e Extraordinária. Caso concreto em que configurada a abusividade dos juros, sendo estes limitados à taxa do BACEN.
+Em relação à descaracterização da mora, havendo reconhecimento de abusividade nos encargos exigidos no período da normalidade no caso concreto, resta elidida a mora até que seja refeito o cálculo e a parte autora seja intimada para efetuar o pagamento, nos termos do julgamento do REsp 1.061.530/RS, julgado sob o rito dos recursos repetitivos. Permitida a compensação/repetição do indébito em havendo cobrança de parcelas indevidas, como ocorre no caso concreto. APELO PROVIDO EM PARTE.
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial em razão da ausência de interesse recursal, uma vez que o acórdão recorrido está no sentido do pleito da agravante quanto à limitação dos juros remuneratórios.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera a abusividade dos juros remuneratórios pactuados com o banco agravado e requer sua limitação.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do óbice referente à ausência de interesse recursal, uma vez que o acórdão recorrido está no sentido do pleito da agravante quanto à limitação dos juros remuneratórios.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
