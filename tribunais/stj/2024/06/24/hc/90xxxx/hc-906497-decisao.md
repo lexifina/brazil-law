@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Nikolas Henry Silva Souza, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2062179-96.2024.8.26.0000).
+Em 1º/3/2024, o paciente foi autuado em flagrante delito pela suposta prática dos crimes de roubo circunstanciado, adulteração de sinal identificador de veículo automotor e desobediência. Posteriormente, a decisão de prisão preventiva foi decretada.
+Neste mandamus, o impetrante alega, em apertada síntese, ausência de fundamentos concretos para a prisão cautelar, destacando que o paciente é primário e tem residência no distrito da culpa.
+Requer, inclusive liminarmente, a revogação da prisão preventiva.
+Indeferida a liminar, foram solicitadas informações, mas até o momento não foram juntadas aos autos.
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mario Ferreira Leite, pelo não conhecimento do writ.
+Em consulta à página do Tribunal de Justiça, na internet, observa-se que ainda não foi proferida sentença na ação penal objeto destes autos.
+É o relatório.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Contudo, afigura-se inviável acolher-se a pretensão, porquanto consta do decreto de prisão preventiva (fl. 22 - grifo nosso): conduta cometida mediante grave ameaça com emprego de simulacro de arma de fogo e concurso de pessoas, com uso de motocicleta com os sinais identificadores adulterados, seguida de desobediência e tentativa persistente de fuga, com transgressão às regras de trânsito, expondo inúmeras pessoas a risco (demonstrando ousadia, periculosidade, desinteresse em colaborar com a aplicação da lei penal e instrução criminal). Muito para além de suposta gravidade abstrata, trata-se de empreitada criminosa que faz alastrar a sensação geral de insegurança, fustigando severamente a tranquilidade e a paz social, que só poderão ser reestabelecidas pela segregação cautelar (há claro risco na liberdade prematura ) - quem se dispõe a ameaçar outro ser humano para obter lucro patrimonial (sem causa jurídica - de forma ilícita) sinaliza oferecer risco social elevado, impondo a necessidade imperiosa de custódia cautelar para tutelar a ordem pública.
+O Tribunal de Justiça concordou com os fundamentos apresentados pelo Juízo singular e manteve a prisão preventiva do paciente.
+Pois bem. Com razão o nobre parecerista quando destacou, em seu parecer, que a prisão preventiva foi decretada com base no modus operandi empregado na conduta delitiva, circunstâncias que revelaram a periculosidade do ora paciente, consistente na suposta prática do crime de roubo majorado pelo concurso de agentes, emprego de arma de fogo, utilizando-se de motocicleta com sinais identificadores adulterados, e que ainda tentou empreender fuga transgredindo as normas de trânsito e colocando diversas pessoas em risco (fl. 167).
+Assim, não diviso ilegalidade flagrante na decisão do Juiz de piso, pois as circunstâncias em que ocorreu o crime justificam e fundamentam a custódia preventiva.
+A propósito, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão do modus operandi com que o crime fora praticado, como ocorreu no presente caso (AgRg no HC n. 900375/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/6/2024 - grifo nosso).
+E, mais: RHC n. 197.134/BA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/6/2024; e AgRg no HC n. 893.846/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 29/5/2024.
+Ante o exposto, à vista do parecer e dos precedentes, denego a ordem do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E DESOBEDIÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI. AUSÊNCIA DE CONSTRANGIME NTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
