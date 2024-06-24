@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESTAÇÃO DE SERVIÇOS FORNECIMENTO DE ENERGIA ELÉTRICA. CÁLCULOS DA PERÍCIA JÁ HOMOLOGADOS. SÚMULA 7STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Não há ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A indicada afronta aos arts. 477, § 2º, 494, I, do CPC, e ao art. 884 do CC não pode ser analisada, pois o TJSP não emitiu juízo de valor sobre esses dispositivos legais. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de Embargos de Declaração, ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Consoante entendimento firmado nesta Corte Superior, não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1022 do CPC/2015, uma vez que, no caso em tela, a alegada negativa de prestação jurisdicional refere-se a tese distinta daquela reputada não prequestionada.
+4. Inviável o acolhimento da pretensão da parte recorrente, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso pela alínea "a" do permissivo constitucional.
+6 . Agravo Interno não provido .
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão que não conheceu do Agravo.
+A parte agravante sustenta, em suma:
+10. Contrariamente ao que consta da r. decisão monocrática agravada, não se sustenta a inadmissão do Recurso Especial de fundo, mediante arguição do óbice da Súmula n. 211/STJ, sob o fundamento de que "a indicada afronta aos arts. 477, § 2º, 494, I, do CPC e 884 do CC não pode ser analisada, pois o TJSP não emitiu juízo de valor sobre esses dispositivos legais".
+11.
+A razão é simples: em seu apelo nobre, em capítulo específico a esse desiderato, a Agravante igualmente suscitou a violação aos artigos 489 e 1.022, do Código de Processo Civil, justamente porqueo Eg. Tribunal a quo não enfrentou o cerne de sua irresignação recursal, consubstanciado na negativa de vigência aos dispositivos da lei federal mencionados(arts. 477, § 2º, 494, I, do CPC e 884 do CC), culminando na negativa quanto à possibilidade de revisão a qualquer tempo de erro de cálculo contido na liquidação, ainda que tal cálculo já tenha sido homologado, porquanto equívoco dessa ordem é impassível de preclusão, pois gera enriquecimento sem causa, o que é repudiado pelo direito.
+(..)
+18.Ato contínuo, também se revela desacertada a r. decisão monocrática agravada na parte em que inadmite o Recurso Especial de fundo sob a alegação de que esbarraria no óbice da Súmula n. 7/STJ.
+19.
+Isto porque, o que se quer ao obter acesso a este Tribunal Superior é trazer ao seu conhecimento discussão exclusivamente de direito ,convidando estes Em. Ministros à reflexão e análise da potencial violação, pelo Eg. Tribunal a quo, aos artigos 477, §2º,494, I, 489 e 1.022, II, todos do Código de Processo Civil; e ao artigo 884, do Código Civil.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação às fls. 599-608.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESTAÇÃO DE SERVIÇOS FORNECIMENTO DE ENERGIA ELÉTRICA. CÁLCULOS DA PERÍCIA JÁ HOMOLOGADOS. SÚMULA 7STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Não há ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A indicada afronta aos arts. 477, § 2º, 494, I, do CPC, e ao art. 884 do CC não pode ser analisada, pois o TJSP não emitiu juízo de valor sobre esses dispositivos legais. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de Embargos de Declaração, ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Consoante entendimento firmado nesta Corte Superior, não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1022 do CPC/2015, uma vez que, no caso em tela, a alegada negativa de prestação jurisdicional refere-se a tese distinta daquela reputada não prequestionada.
+4. Inviável o acolhimento da pretensão da parte recorrente, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso pela alínea "a" do permissivo constitucional.
+6 . Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.5.2027.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, afasta-se a alegada ofensa ao art. 1.022 do CPC, porque não foi demonstrado vício capaz de comprometer o embasamento do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do Recurso Especial.
+A ausência de manifestação sobre determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há contrariedade ao art. 489 do CPC quando o Tribunal a quo decide de modo claro e fundamentado, como ocorreu na hipótese. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 14/9/2021)
+A indicada afronta aos arts. 477, § 2º, e 494, I, do CPC, e ao art. 884 do CC não pode ser analisada, pois o TJSP não emitiu juízo de valor sobre esses dispositivos legais. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ. Nessa linha:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PLANO APROVADO. ADQUIRENTE DE UNIDADE IMOBILIÁRIA. ATÉ O MOMENTO, FORMALMENTE, NÃO CONSTA COMO CREDOR DAS RECUPERANDAS. INCLUSÃO QUE DEVE SER OBJETO DE IMPUGNAÇÃO DE CRÉDITO. NECESSIDADE DE ASSINATURA DO INSTRUMENTO DE DISTRATO. DISCUSSÃO EM SEDE PRÓPRIA. EMPREENDIMENTO SUJEITO A PATRIMÔNIO DE AFETAÇÃO. PLANO CONTÉM PREVISÃO DE CREDORES FUTURAMENTE OPTAREM SOBRE O MODO DE PAGAMENTO DE SEUS CRÉDITOS. INEXISTÊNCIA DE IRREGULARIDADE. LEGALIDADE DOS ÍNDICES DE JUROS PREVISTOS (TR E IPCA). PRAZO DE SUPERVISÃO JUDICIAL PRORROGADO ATÉ QUE FINDA A CARÊNCIA. DECISÃO MANTIDA. PRETENSÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS COMO VIOLADOS. SÚMULA 211 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.641.123/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 30/4/2021).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. CONDOMÍNIO. ILEGALIDADE DA COBRANÇA DA TARIFA MÍNIMA, MULTIPLICADA PELO NÚMERO DE ECONOMIAS.
+APONTADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. INCONFORMISMO.
+ALEGADA INFRINGÊNCIA AOS ARTS. 6º, IV E VI, 39, I, V E X E 51, IV E X, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ÚNICO HIDRÔMETRO. TARIFA PROGRESSIVA. CONSUMO TOTAL MEDIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..) IV. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 6º, IV e VI, 39, I, V e X e 51, IV e X, do CDC, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 211/STJ.
+V. Segundo o entendimento do STJ, "em casos de condomínios, em que existe apenas um hidrômetro a auferir o consumo global de água, deve ser aplicada a tabela progressiva, proporcionalmente ao consumo total medido, a fim de que, quanto maior o consumo, maior a tarifa a ser suportada pelo condomínio, de acordo com o escalonamento preestabelecido" (STJ, AgRg no REsp 997.405/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/11/2009). No mesmo sentido: STJ, AgInt no REsp 1.745.659/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/09/2019; AgInt no AgInt no REsp 1.841.266/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 11/03/2021; EDcl no REsp 625.221/RJ, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJ 25/05/2006. No caso, o acórdão recorrido encontra-se em conformidade com o aludido entendimento.
+VI. Agravo interno improvido.
+(AgInt no AREsp 859.442/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/4/2021).
+Consoante entendimento firmado nesta Corte Superior, não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1022 do CPC/15, uma vez que, no caso em tela, a alegada negativa de prestação jurisdicional refere-se a tese distinta daquela reputada não prequestionada.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Não há que falar em violação ao art. 1022 do CPC, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+1.1. O Tribunal local, analisando as peculiaridades do caso concreto e à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, tendo como base o acervo fático probatório dos autos, constatou que, no caso sub judice , não é possível falar em culpa exclusiva da vítima. Na hipótese, alterar as conclusões a que chegou o Tribunal local, demandaria, inevitavelmente, o revolvimento de matéria fático-probatória, providência inadmissível na estreita via do recurso especial, consoante o enunciado da Súmula 7 do STJ .
+1.2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+1.3. Não há contradição em se afastar a alegada ofensa ao art. 1.022 do CPC/15 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+1.4. Somente é admissível o exame do valor fixado a título de danos morais quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. Interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.115.844/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+No enfrentamento da matéria, o Colegiado originário consignou:
+A controvérsia repousa no "quantum" devido pela concessionária, que inclusive se reconhece devedora da agravada (folha 04, penúltimo parágrafo, item 07º).
+Sustenta a executada, ora agravante, contudo, que o feito deve ser submetido novamente a uma nova perícia técnica contábil, para esclarecimentos suplementares.
+Impugna, ainda, o laudo homologado, informando que o perito judicial inicialmente designado faleceu, portanto os cálculos devem ser revistos. Questiona, então, mais uma vez a forma de aplicação de juros de mora e a atualização dos valores devidos.
+Apesar dos esforços do patrono da agravante, o agravo não merece acolhida.
+Em uma simples leitura dos autos, constata-se que em agravo de instrumento anterior tirado deste mesmo cumprimento (autos nº 2137918-85.2018.8.26.0000), julgado em 25 de outubro de 2018, esta Câmara Julgadora ratificou a decisão que havia homologado os cálculos da perícia técnica, os quais foram integralmente mantidos. Não há, portanto, motivo para a refatura da prova técnica, que já se encontra validada, sendo os valores devidamente debatidos e estabelecidos.
+O fato de ter ocorrido a substituição do perito judicial inicialmente designado (em virtude de seu falecimento), não implica, por si só, em irregularidades nos cálculos apresentados ou justifica o refazimento da prova técnica.
+Além disso, o objeto da perícia complementar impugnada tinha um escopo delimitado, ou seja, apenas a adequação dos cálculos do perito anterior para o período de 267 dias, conforme apontado nas folhas 2.558/2.559 (autos principais). Foi inclusive expressamente destacada a correção dos demais pontos do laudo inicialmente apresentado, de forma que não há espaço para nova discussão, tratando-se de pontos já ratificados em segunda instância, revelando-se, portanto, o laudo técnico adequado aos parâmetros estabelecidos.
+Por consequência lógica, é de rigor a integral manutenção da respeitável decisão agravada.
+Desse modo, inviável o acolhimento da pretensão da parte recorrente, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso pela alínea "a" do permissivo constitucional. Nessa senda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
