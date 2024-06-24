@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. CONSTRUÇÃO. EDIFICAÇÃO. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ que restabeleceu a sentença, de modo a reconhecer a possibilidade de anulação do ato administrativo pela Municipalidade, nos termos da Súmula 473 do STF ("A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos") e em precedentes do STJ (REsp 1.011.581/RS, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJe de 20/8/2008; Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 20/5/2011, entre outros).
+2. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Não houve omissão quanto ao princípio da segurança jurídica, nem quanto à tese de boa-fé. Igualmente descabido o argumento de que há omissão relativa ao princípio da igualdade, uma vez que na solução do feito foram considerados os elementos concernentes ao empreendimento discutido e à ilegalidades nele verificadas.
+3. Tampouco há omissão sobre a ausência de exame da localização do empreendimento. O aresto vergastado é claro no que se refere à ilegalidade da licença para construir e à necessidade do licenciamento.
+4. Ao contrário do que afirma a parte embargante, não há omissão no decisum embargado, e suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de suprir omissão, contradição ou obscuridade.
+5. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ que restabeleceu a sentença, de modo a reconhecer, com fulcro na Súmula 473 do Supremo Tribunal Federal, a possibilidade de anulação de licença urbanística pela Municipalidade.
+Em síntese, a embargante alega que o acórdão é omisso e obscuro.
+Aduz:
+Omitiu-se, portanto, o v. acórdão ora embargado acerca de peculiaridades que envolvem o caso em apreço, e que são capazes de infirmar todas as premissas constantes do decisum, quais sejam:
+i) o acórdão objeto do apelo especial invocou o princípio da segurança jurídica para considerar a inviabilidade de revisão dos atos de expedição das licenças de construção do empreendimento, o que não configura entendimento contrário à Sumula n. 473/STF, mas prestígio a preceitos fundamentais encartados na Constituição Federal;
+ii) a Corte de origem invocou o princípio da igualdade para considerar ilegal a cassação das licenças quando construções com as mesmas características não foram tratadas com o mesmo rigor;
+iii) restou sedimentado pelo Tribunal a quo que a construção foi erigida com base na boa-fé do administrado, que se pautou em documento legitimamente a ele outorgado, embora posteriormente anulado;
+iv) o empreendimento não foi erigido em local inserto em área de proteção ambiental.
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONSTRUÇÃO. EDIFICAÇÃO. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ que restabeleceu a sentença, de modo a reconhecer a possibilidade de anulação do ato administrativo pela Municipalidade, nos termos da Súmula 473 do STF ("A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos") e em precedentes do STJ (REsp 1.011.581/RS, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJe de 20/8/2008; Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 20/5/2011, entre outros).
+2. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Não houve omissão quanto ao princípio da segurança jurídica, nem quanto à tese de boa-fé. Igualmente descabido o argumento de que há omissão relativa ao princípio da igualdade, uma vez que na solução do feito foram considerados os elementos concernentes ao empreendimento discutido e à ilegalidades nele verificadas.
+3. Tampouco há omissão sobre a ausência de exame da localização do empreendimento. O aresto vergastado é claro no que se refere à ilegalidade da licença para construir e à necessidade do licenciamento.
+4. Ao contrário do que afirma a parte embargante, não há omissão no decisum embargado, e suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de suprir omissão, contradição ou obscuridade.
+5. Embargos de Declaração rejeitados.
+VOTO
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais cujo acolhimento exige a presença dos pressupostos legais de cabimento.
+Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ que restabeleceu a sentença, de modo a reconhecer a possibilidade de anulação do ato administrativo pela Municipalidade, nos termos da Súmula 473 do STF ("A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos") e em precedentes do STJ (REsp 1.011.581/RS, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe de 20/8/2008; Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 20/5/2011, entre outros).
+Por outro lado, não houve omissão quanto ao princípio da segurança jurídica, nem quanto à tese de boa-fé, pois o aresto vergastado expressamente afirmou que deve ser anulada a licença quando existente ilegalidade manifesta na sua edição.
+Igualmente descabido o argumento de que há omissão relativa ao princípio da igualdade, uma vez que na solução do feito foram considerados os elementos concernentes ao empreendimento discutido e a ilegalidades nele verificadas.
+Tampouco há omissão sobre a ausência de exame da localização do empreendimento. A ilegalidade do empreendimento não se restringe ao fato de ele ser ou não localizado em área de proteção, mas também ao fato de afrontar o patrimônio paisagístico, que, indubitavelmente, é tutelado pelo ordenamento jurídico.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. OMISSÃO E OBSCURIDADE. OCORRÊNCIA. TERMO INICIAL PARA A IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. DATA DA CITAÇÃO VÁLIDA DA AUTARQUIA PREVIDENCIÁRIA. PRECEDENTES. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Hipótese em que o acórdão embargado manteve decisão que, ao reconhecer a impossibilidade de cumulação de auxílio-acidente e aposentadoria no presente feito, deixou de se manifestar acerca do termo inicial do benefício concedido, julgando prejudicado o recurso especial do Autor, ora embargante.
+3. No caso em exame, a ação foi ajuizada em 22/10/2002, a citação feita em 10/12/2002, e julgada procedente em 31/10/2005. Ocorre que, conforme consignado no acórdão recorrido, o "autor percebe aposentadoria desde 2006". Assim, ao contrário do afirmado na decisão que julgou prejudicado o recurso especial, mantida pelo acórdão ora embargado, persiste o interesse recursal do Autor, porquanto faz jus às parcelas concedidas na sentença até o implemento do benefício de aposentadoria por tempo de contribuição ocorrido em 10/8/2006.
+4. Conforme jurisprudência consolidada nesta Corte, inexistente prévio requerimento administrativo, o termo inicial do benefício previdenciário deve ser a data da citação da autarquia, momento em que o INSS foi constituído em mora. Precedentes.
+5. Embargos de declaração parcialmente acolhidos, com efeitos infringentes.
+(EDcl no AgInt no REsp n. 2.068.286/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
