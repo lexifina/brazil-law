@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado (e-STJ Fl.89):
+EMENTA: PENAL E PROCESSO PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. TESE DE ILEGALIDADE DA PRISÃO EM FLAGRANTE. ALEGAÇÃO DE PRÁTICA DE TORTURA PELOS POLICIAIS. NÃO CONHECIMENTO. INADEQUAÇÃO DA VIA ELEITA. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÓNEA DO DECRETO PRISIONAL. NÃO VERIFICADA. DECISÃO DEVIDAMENTE FUNDAMENTADA. PERICULUM LIBERTATIS E FUMUS COMMISSI DELICTI EVIDENCIADOS. NECESSIDADE DA CUSTÓDIA CAUTELAR PARA A GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA PELO MODUS OPERANDI. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM PARCIALMENTE CONHECIDA E, NA EXTENSÃO COGNOSCÍVEL, DENEGADA.
+Imputa-se ao recorrente a prática do crime de tentativa de homicídio.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ Fl.90):
+3. Com relação à tese de ausência de fundamentação do decreto prisional, compulsando os autos principais, no dia 29/04/2024, o paciente, a vitima e um terceiro estavam ingerindo bebida alcoólica na residência onde os dois primeiros residem. Após, a vítima, alcoolizada, sentou em uma cadeira de balanço, na qual adormeceu, tendo o paciente se deslocado até a cozinha para pegar uma faca e a usou para esfaquear a vítima enquanto esta estava dormindo, de modo que desferiu três golpes de faca, um no pescoço e os outros dois no abdômen. Ocorre que o fato não se consumou, em virtude do terceiro, que estava na companhia dos dois, ter impedido que o paciente continuasse as agressões e, consequentemente, que matasse a vítima. Posteriormente, o paciente fugiu, porém veio a ser preso por policiais militares que foram acionados devido aos fatos ocorridos.
+(..)
+6. Já o periculum libertatis, percebe-se como fundamento da permanência da segregação cautelar a gravidade concreta da conduta, notadamente pelo modus operandi empregado, visto que o paciente surpreendeu o seu irmão com golpes de facas, um no pescoço e outros dois no abdômen, enquanto a vítima estava dormindo, de modo que o homicídio poderia ter sido consumado, caso uma testemunha que os acompanhava não tivesse impedido do paciente ter desferido mais golpes de faca. Inclusive, o laudo pericial, acostado às págs. 72/75, atestam as mencionadas lesões na vítima e que elas resultaram perigo de vida.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu pela legalidade da segregação.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
