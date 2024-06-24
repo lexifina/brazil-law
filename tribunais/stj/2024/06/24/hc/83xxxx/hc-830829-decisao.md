@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Bruna Cristina Oliveira da Silva - condenada como incursa nos crimes de homicídio qualificado, vilipêndio de cadáver, ocultação de cadáver, furto qualificado, falsa identidade e estelionato -, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco (Apelação Criminal n. 0001561-17.2012.8.17.0640), não comporta conhecimento.
+Busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 1ª Vara do Tribunal do Júri da comarca de Recife/PE, ao argumento de ausência de fundamentação para a ponderação da pena-base, pois estamos diante de sentença que na primeira fase da aplicação da pena na análise das circunstâncias judiciais valorou alguma delas de forma negativa usando de fundamentação genérica, abstrata, vaga e que não se coaduna com a realidade dos autos, além de não individualizar a análise de algumas circunstâncias judiciais de forma pormenorizada, fundamentando algumas das circunstâncias utilizando dos mesmos argumentos outrora já utilizados para os outros acusados, o que não é tolerado. O acórdão ao não prover o recurso de apelação convolou as ilegalidades e merece ser modificado para o fim de as penas serem reduzidas (fl. 7).
+Ocorre que, conforme consta da própria impetração, o presente writ foi impetrado concomitante à interposição de recurso especial contra o acórdão que apreciou o recurso de apelação, o que é inadmissível devido à ofensa à unirrecorribilidade.
+Ademais, da análise da sentença condenatória, observa-se que o Magistrado singular procedeu à devida fundamentação a respeito da dosimetria da pena, não havendo falar em constrangimento ilegal manifesto.
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO, VILIPÊNDIO DE CADÁVER, OCULTAÇÃO DE CADÁVER, FURTO QUALIFICADO, FALSA IDENTIDADE E ESTELIONATO. IMPETRAÇÃO SIMULTÂNEA À INTERPOSIÇÃO DE RECURSO ESPECIAL. INADMISSIBILIDADE. PRETENSÃO DE REVISÃO DA DOSIMETRIA DA PENA. VIA ELEITA INADEQUADA E AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO. CONHECIMENT O. IMPOSSIBILIDADE.
+Writ não conhecido.
