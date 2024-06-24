@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO JURÍDICA SUBMETIDA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.178/STJ. EMBARGOS DECLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA ANULAR OS ATOS DECISÓRIOS PROFERIDOS NESTE FEITO, PELO STJ, E PARA DETERMINAR A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos - Tema 1.178/STJ -, nos seguintes termos: "Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil."
+2. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito os atos decisórios proferidos neste feito, pelo STJ, e determinar a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, embargos de declaração opostos por IVAN DEMBOGURSKI contra acórdão, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONCESSÃO DE JUSTIÇA GRATUITA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+2. Para se rever as conclusões firmadas pelo Tribunal a quo a respeito da concessão de justiça gratuita, seria necessário o revolvimento de matéria fático-probatória, o que esbarra no óbice do Enunciado 7/STJ.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO (fl. 285).
+A parte embargante sustenta que, "a necessidade de suspensão deste feito, a fim de aguardar o julgamento do Tema 1178/STJ no âmbito da sistemática dos recursos repetitivos, nos termos do artigo 1.037, II, do CPC" (fl. 296).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO JURÍDICA SUBMETIDA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.178/STJ. EMBARGOS DECLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA ANULAR OS ATOS DECISÓRIOS PROFERIDOS NESTE FEITO, PELO STJ, E PARA DETERMINAR A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos - Tema 1.178/STJ -, nos seguintes termos: "Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil."
+2. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito os atos decisórios proferidos neste feito, pelo STJ, e determinar a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Com razão a parte embargante.
+Nos termos do art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Em análise dos autos, verifica-se que a controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos - Tema 1.178/STJ -, nos seguintes termos:
+Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil.
+Confira-se a ementa:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA REPETITIVA. PROPOSTA DE AFETAÇÃO. GRATUIDADE DE JUSTIÇA. PESSOA NATURAL. HIPOSSUFICIÊNCIA. (I)LEGITIMIDADE DA AFERIÇÃO MEDIANTE CRITÉRIOS E PARÂMETROS OBJETIVOS.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos: Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil.
+2. Afetam-se em conjunto os seguintes processos: REsp n. 1.988.687/RJ, REsp n. 1.988.697/RJ e REsp n. 1.988.686/RJ, todos aptos, em princípio, para a análise da controvérsia.
+3. Proposta de afetação submetida e acolhida (ProAfR no REsp n. 1.988.686/RJ, relator Ministro Og Fernandes, Corte Especial, julgado em 6/12/2022, DJe de 20/12/2022).
+Nesse contexto, os autos devem ser devolvidos ao Tribunal de origem para aguardar a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas, que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito os atos decisórios proferidos neste feito, pelo STJ, e determinar a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
