@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS. COFINS. VALORES DECORRENTES DA SELIC NA REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. TEMA 962/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento consolidado acerca da incidência do PIS e da Cofins sobre os valores decorrentes da Selic na repetição do indébito tributário.
+2. Não obstante o julgamento do Tema 962/STF, por meio do qual foi definido que não há incidência de IRPJ e CSLL sobre os valores auferidos a título de Selic na repetição de indébito, o entendimento adotado pelo STF não altera o posicionamento do Superior Tribunal de Justiça no sentido de que, para fins de definição da base de cálculo do PIS e da Cofins, deve ser considerado o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil. Precedentes do STJ.
+3. Agravo Interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno contra decisão monocrática (fls. 298-300) que deu parcial provimento ao Recurso Especial da Fazenda Nacional.
+A agravante sustenta (fl. 312):
+Percebe-se que para autorizar a incidência do PIS e da COFINS, necessário é que exista faturamento ou receita, na forma do art. 195, I, "b", CF, o que não ocorre quando estamos diante de juros moratórios e de correção monetária, pois estas verbas possuem natureza diversa; não decorrem de atividade econômica desempenhada pela empresa, isto é, não se amoldam aos conceitos de faturamento ou de receita, de todo já delineados pelo próprio STF, por oportunidade do julgamento do Tema 692, no sentido de serem, justamente, oriundos de atividade econômica.
+Nesta senda, flagrante a inconstitucionalidadee a ilegalidade da incidência de PIS e COFINS sobre as verbas percebidas e indexadas pela Taxa SELIC na repetição do indébito tributário.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS. COFINS. VALORES DECORRENTES DA SELIC NA REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. TEMA 962/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento consolidado acerca da incidência do PIS e da Cofins sobre os valores decorrentes da Selic na repetição do indébito tributário.
+2. Não obstante o julgamento do Tema 962/STF, por meio do qual foi definido que não há incidência de IRPJ e CSLL sobre os valores auferidos a título de Selic na repetição de indébito, o entendimento adotado pelo STF não altera o posicionamento do Superior Tribunal de Justiça no sentido de que, para fins de definição da base de cálculo do PIS e da Cofins, deve ser considerado o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil. Precedentes do STJ.
+3. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 22 de abril de 2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme assentado na decisão monocrática, a irresignação esbarra no entendimento do Superior Tribunal de Justiça acerca da incidência do PIS e da COFINS sobre os valores decorrentes da SELIC na repetição do indébito tributário.
+Confiram-se precedentes:
+TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. TAXA SELIC. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido
+de que incide o PIS e a COFINS sobre os valores decorrentes da incidência da taxa SELIC na restituição do indébito tributário.
+2. A conformidade do acórdão recorrido com a orientação jurisprudencial desta Corte Superior atrai a aplicação do óbice estampado na Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.956.214/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 21/11/2022.)
+TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. JUROS MORATÓRIOS SOBRE REPETIÇÃO DE INDÉBITO. INCLUSÃO. PRECEDENTES. 1. A recorrente afirma que não incide PIS e Cofins sobre os juros moratórios na recuperação de tributos pela via da repetição de indébito. Sustenta que os juros moratórios possuem natureza indenizatória e, por esse motivo, não devem compor a base de cálculo do PIS e da Cofins.
+2. O STJ entende que se incluem na base de cálculo da contribuição ao PIS e da Cofins os valores recebidos a título de juros moratórios e correção monetária (taxa Selic) na repetição de indébito. Precedentes: AgInt no REsp 1.938.511/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14.10.2021; e AgInt nos EDcl no REsp 1.848.930/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11.2.2021.
+3. Ademais, esta Corte Superior já decidiu que é irrelevante para o desfecho da causa o julgamento dos Temas 808 e 962 da Repercussão Geral do STF, os quais conferiram a natureza de indenização por danos emergentes aos juros moratórios, já que essa condição afeta o conceito de renda (base de cálculo do Imposto de Renda), mas não o de receita (base de cálculo das contribuições ao PIS/PASEP e Cofins). Nesse sentido: "A argumentação da CONTRIBUINTE ao aludir à riqueza nova confunde os conceitos de renda e receita. Renda precisa ser riqueza nova, receita não: o conceito de receita comporta quaisquer ressarcimentos e indenizações. O relevo está em que renda é a base de cálculo do Imposto de Renda e receita é a base de cálculo das contribuições ao PIS/PASEP e COFINS, ora em debate. Ressarcimento é receita, muito embora possa não ser renda. Nessa toada, não é possível invocar o precedente que trata do IRPJ e da CSLL que afasta determinada verba do conceito de renda para afastar a incidência das contribuições ao PIS/PASEP e COFINS que se dá sobre a receita - conceito mais largo que o de renda. A leitura do precedente REsp. nº 1.089.720/RS está condicionada a esses parâmetros, posto que construído para o IRPJ e CSLL." (EDcl no AgInt no REsp 1.920.034/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 17.2.2022.)
+4. Agravo Interno não provido.
+(AgInt no REsp 1.960.914/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/6/2022.)
+Não obstante o julgamento do Tema 962/STF, por meio do qual foi definido que não há incidência de IRPJ e CSLL sobre os valores auferidos a título de SELIC na repetição de indébito, o entendimento adotado pela Corte Suprema não altera o posicionamento do Superior Tribunal de Justiça no sentido de que, para fins de definição da base de cálculo do PIS e da COFINS, deve ser considerado o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADODE SEGURANÇA. BASES DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E COFINS. REPETIÇÃODE INDÉBITO E LEVANTAMENTO DE DEPÓSITO JUDICIAL. TAXA SELIC. INCLUSÃO.PRECEDENTES. SÚMULA 83/STJ. TESE RECURSAL SUBSIDIÁRIA. INDICAÇÃO DO DISPOSITIVO LEGAL OFENDIDO APENAS EM SEDE DE AGRAVO INTERNO. INOVAÇÃO RECURSAL. PRECLUSÃO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. O Supremo Tribunal Federal, no Recurso Extraordinário 1.063.187/SC, após o reconhecimento da repercussão geral, fixou tese segundo a qual "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário" (tema 962). Na ocasião, o STF, por votação unânime, concluiu que a remuneração pela taxa Selic é espécie de dano emergente, afastando a tese de que seria lucro cessante, e, por isso, não representaria acréscimo patrimonial.
+3. Compreensão que não afeta o entendimento consolidado desta Corte de que a base de cálculo do PIS e da Cofins é composta pelo total das receitas auferidas no mês pela pessoa jurídica, independentemente de denominação ou classificação contábil, o que inclui os valores corrigidos pela taxa Selic (correção e juros).
+4. " ..  A base de cálculo das contribuições ao PIS/PASEP e COFINS é a Receita Bruta e a base de cálculo do IRPJ é o Lucro Real (conceito bem mais restrito que o de Receita Bruta). Sendo assim, retirar os juros da base de cálculo do IRPJ não significa retirálos da base de cálculo das contribuições ao PIS/PASEP e COFINS, contudo, reconhecer os juros como integrantes da base de cálculo do IRPJ significa sim os incluir na base de cálculo das contribuições ao PIS/PASEP e COFINS" (AgInt no REsp n. 1.944.055/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 28/3/2022).
+5. A tentativa de suprir falha do recurso especial, apontando o fundamento legal de sua pretensão apenas no agravo interno, constitui verdadeira inovação recursal, inviável em razão da ocorrência da preclusão consumativa. Precedentes.
+6. Agravo interno não provido.
+(AgInt no REsp 1.921.174/PR, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2022.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. PIS. COFINS. VALORES DECORRENTES DA SELIC NA REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. TEMA 962/STF.
+I - O Superior Tribunal de Justiça possui entendimento consolidado acerca da incidência do PIS e da COFINS sobre os valores decorrentes da SELIC na
+repetição do indébito tributário. Nesse sentido: AgInt no REsp n. 1.956.214/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022; AgInt no REsp n. 1.983.647/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022; AgInt no REsp n. 1.960.914/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022.
+II - Não obstante o julgamento do Tema 962/STF, por meio do qual restou definido que não há incidência de IRPJ e CSLL sobre os valores auferidos a título de SELIC na repetição de indébito, o entendimento adotado pela Corte Suprema não altera o posicionamento deste Superior Tribunal de Justiça no sentido de que, para fins de definição da base de cálculo do PIS e da COFINS, devem ser considerado o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil. Nesse sentido: (AgInt no REsp n. 1.921.174/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+III - Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp n. 2.052.393/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 23/8/2023.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por isso, nego provimento ao Agravo Interno.
+É como voto.
