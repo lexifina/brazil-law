@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUPOSTA OMISSÃO NA DECISÃO MONOCRÁTICA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. FIXAÇÃO DE HONORÁRIOS RECURSAIS EM AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE. DECISÃO QUE ORDENOU O SEGUIMENTO DO CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Trata-se de Agravo Interno interposto de decisão pela qual dei provimento ao Recurso Especial dos agravantes para, repristinando a decisão de primeira instância, afastar a prescrição intercorrente e permitir a habilitação de sucessores.
+2. A pretensão é a de integração do julgado por omissão relativa à fixação de honorários recursais. Neste contexto, cabe manejo de Embargos de Declaração, cujas hipóteses normativas são especificamente destinadas ao quanto pretendem os agravantes.
+3. Há explícito erro grosseiro a impedir a aplicação do princípio da fungibilidade recursal e, neste passo, o conhecimento do Agravo Interno, inclusive interposto em prazo superior àquele destinado aos Aclaratórios (AgInt no AREsp n. 2.421.357/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/4/2024, DJe de 19/4/2024; AgInt no REsp n. 1.820.915/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+4. Ainda que se pudesse eventualmente conhecer da pretensão, incontornável o firme entendimento do STJ no sentido de que não cabe verba honorária recursal em casos como o presente, em que a decisão vergastada não põe fim ao processo na origem, mas, ao contrário, ordena o seguimento do cumprimento de sentença, ainda passível de contemplar a condenação perseguida (AgInt no REsp n. 2.016.840/DF, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 12/12/2022, DJe de 15/12/2022; AgInt no AREsp n. 2.040.211/SP, Rel. Min. Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.
+5. Agravo Interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto de decisão pela qual dei provimento ao Recurso Especial dos agravantes para, repristinando a decisão de primeira instância, afastar a prescrição intercorrente e permitir a habilitação de sucessores.
+Os recorrentes alegam omissão relativa à fixação de honorários advocatícios recursais.
+Sem contraminuta.
+É o Relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUPOSTA OMISSÃO NA DECISÃO MONOCRÁTICA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. FIXAÇÃO DE HONORÁRIOS RECURSAIS EM AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE. DECISÃO QUE ORDENOU O SEGUIMENTO DO CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Trata-se de Agravo Interno interposto de decisão pela qual dei provimento ao Recurso Especial dos agravantes para, repristinando a decisão de primeira instância, afastar a prescrição intercorrente e permitir a habilitação de sucessores.
+2. A pretensão é a de integração do julgado por omissão relativa à fixação de honorários recursais. Neste contexto, cabe manejo de Embargos de Declaração, cujas hipóteses normativas são especificamente destinadas ao quanto pretendem os agravantes.
+3. Há explícito erro grosseiro a impedir a aplicação do princípio da fungibilidade recursal e, neste passo, o conhecimento do Agravo Interno, inclusive interposto em prazo superior àquele destinado aos Aclaratórios (AgInt no AREsp n. 2.421.357/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/4/2024, DJe de 19/4/2024; AgInt no REsp n. 1.820.915/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+4. Ainda que se pudesse eventualmente conhecer da pretensão, incontornável o firme entendimento do STJ no sentido de que não cabe verba honorária recursal em casos como o presente, em que a decisão vergastada não põe fim ao processo na origem, mas, ao contrário, ordena o seguimento do cumprimento de sentença, ainda passível de contemplar a condenação perseguida (AgInt no REsp n. 2.016.840/DF, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 12/12/2022, DJe de 15/12/2022; AgInt no AREsp n. 2.040.211/SP, Rel. Min. Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): O Recurso não comporta acolhimento.
+Primeiro porque a pretensão dos recorrentes é a de integração do julgado por omissão relativa à fixação de honorários recursais. Neste contexto, cabe manejo de Embargos de Declaração, cujas hipóteses normativas são especificamente destinadas ao quanto pretendem os agravantes.
+Anoto que não há falar em pedido de reconsideração sobre o tema dos honorários, uma vez que, inexistindo manifestação judicial referente ao consectário, não se trataria de alteração, mas de composição de entendimento.
+Há, portanto, explícito erro grosseiro a impedir a aplicação do princípio da fungibilidade recursal e, neste passo, o conhecimento do Agravo Interno, inclusive interposto em prazo superior ao destinado aos Aclaratórios.
+Nessa senda:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. LEI MUNICIPAL. ANÁLISE. IMPOSSIBILIDADE. CONTESTAÇÃO EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL. OMISSÃO. AGRAVO INTERNO. ERRO GROSSEIRO.
+1. Consoante enuncia a Súmula 282 do STF, não se conhece de recurso especial quando não prequestionados os dispositivos de lei federal tidos por violados.
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. Caso em que a Corte local decidiu a questão relativa à validade da notificação pessoal da recorrente em processo administrativo de infração ambiental, sob a ótica de lei complementar municipal.
+4. Encerra natureza constitucional, de competência do Supremo Tribunal Federal, a pretensão recursal que questiona a validade de lei local contestada em face de lei federal (art. 102, III, "d", da Constituição Federal).
+5. O agravo interno não se presta para sanar eventual omissão da decisão monocrática, no caso, analisar o dissídio pretoriano invocado, já que a via adequada são os embargos de declaração, constituindo essa interposição erro grosseiro, que não admite aplicação do princípio da fungibilidade. Precedentes.
+6. Agravo interno parcialmente conhecido e desprovido.
+(AgInt no AREsp n. 2.421.357/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/4/2024, DJe de 19/4/2024.) g.n.
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SUSPENSÃO DE AÇÕES E EXECUÇÕES PROPOSTAS EM FACE DE GARANTIDORES. IMPOSSIBILIDADE. PRECEDENTES DO STJ. VIOLAÇÃO AO ART. 884 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Com efeito, assenta-se que o entendimento da Segunda Seção do STJ firmou-se no sentido de que não é possível à Assembleia Geral suprimir garantias reais e fidejussórias previstas no plano de recuperação judicial, sem a anuência do credor (REsp 1.794.209/SP, relator Min. Ricardo Villas Bôas Cueva, julgado aos 12/5/2021, DJe de 29/6/2021).
+2. Incide a Súmula 211 do STJ, na espécie, porquanto ausente o prequestionamento.
+2.1. Importante assinalar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte insurgente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+3. O agravo interno não é a via adequada para sanar vício de omissão contida em decisão monocrática, sendo os embargos de declaração o recurso cabível para tal fim, nos termos do art. 1.022 do Código de Processo Civil (CPC).
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt no REsp n. 1.820.915/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.) g.n.
+De todo modo, ainda que se pudesse eventualmente conhecer da pretensão, inafastável o firme entendimento desta Corte Superior no sentido de que não cabe verba honorária recursal em casos como o presente, em que a decisão vergastada não põe fim ao processo na origem, mas, ao contrário, ordena o seguimento do cumprimento de sentença, ainda passível de contemplar a condenação perseguida.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DE HONORÁRIOS INICIAIS. AGRAVO DE INSTRUMENTO DESPROVIDO PELO TRIBUNAL DE ORIGEM. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO CABIMENTO.
+1. "A jurisprudência do STJ é firme no sentido de que não é cabível a fixação de verba honorária em decisão interlocutória na qual aviado agravo de instrumento" (AgInt nos EDcl no REsp n. 1.979.540/PE, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 29/9/2022).
+2. "A imposição de honorários recursais está condicionada à prévia fixação de honorários de sucumbência na instância de origem, o que não ocorre em se tratando de recurso oriundo de agravo de instrumento contra decisão que não pôs fim à demanda" (AgInt nos EAREsp n. 1.671.431/MT, relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 12/9/2022).
+3. Caso concreto em que a decisão do Juízo de primeiro grau, de natureza interlocutória, limitou-se a fixar honorários advocatícios iniciais em sede de cumprimento de sentença, sem colocar fim ao processo. Logo, o indeferimento do agravo de instrumento interposto contra tal decisum não autoriza a fixação de honorários advocatícios recursais previstos no art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.016.840/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/12/2022, DJe de 15/12/2022.) g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. JULGAMENTO DE AGRAVO DE INSTRUMENTO. FIXAÇÃO DE HONORÁRIOS RECURSAIS. INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste violação do art. 1.022 do CPC/2015, quando a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+2. A jurisprudência desta Corte firmou-se na compreensão que não é cabível a fixação de honorários recursais no julgamento de agravo de instrumento que não ponha termo à demanda, entendimento acompanhado pelo acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.040.211/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.) g.n.
+Por todo o exposto, não conheço do Agravo Interno.
+É o Voto.
