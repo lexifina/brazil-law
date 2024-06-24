@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ROBSON ALCÂNTARA DE OLIVEIRA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O julgado deu provimento em parte ao recurso de apelação da recorrida e julgou prejudicado o recurso do recorrente nos termos da seguinte ementa (fl. 166):
+Apelação Ação declaratória de inexistência de débito, cumulada com pedido de indenização por danos morais Procedência parcial Interposição de recurso por ambas as partes Cessão de crédito Anotação indevida do nome do autor no cadastro dos órgãos de proteção ao crédito Aplicabilidade, no caso, do Código de Defesa do Consumidor Súmula nº 297 do E. Superior Tribunal de Justiça Ônus probatório que impunha à ré demonstrar a regularidade e legitimidade desta anotação Ré, porém, que não apresentou prova alguma neste sentido Declaração de inexistência do débito que merece ser mantida Danos morais Autor que é devedor contumaz Abalo de crédito não configurado no caso Descabimento da reparação por danos morais postulada, nesta hipótese Recurso da ré parcialmente provido, prejudicado o recurso do autor.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega que "o v. acórdão não merece prosperar, posto que ao dar provimento ao recurso da recorrida deu interpretação contrária aos ditames da Súmula 385 desse C. Superior Tribunal de Justiça e interpretação divergente de atribuído em outro Tribunal" (fl. 179).
+Aduz, ainda, que, "no momento da anotação realizada pela empresa recorrida, datado de 25 de março de 2016 (f. 17), não havia qualquer apontamento anterior preexistente considerado justo e legítimo e, nesse caso NÃO é aplicável à súmula 385 desse C. STJ" (fl. 179).
+Requer a condenação em danos morais fixados em 15 salários mínimos, com aplicação de juros moratórios desde data da inserção indevida nos órgãos de proteção ao crédito, nos termos da Súmula n. 54 do STJ.
+Apresentadas as contrarrazões (fls. 220-226), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 227-229).
+É, no essencial, o relatório.
+A irresignação não merece prosperar.
+Nos termos da Súmula n. 385 do STJ, não cabe indenização por dano moral quando preexistente legítima inscrição, ressalvado o direito ao cancelamento.
+No caso dos autos, o Tribunal de Justiça do Estado de São Paulo entendeu não ser cabível a compensação por danos morais considerando o documento de fls. 83-84, que comprova "a existência de outras anotações de pendências financeiras registradas em nome do autor, pouco importa, em verdade, a data desses demais registros desabonadores, se são posteriores ou anteriores ao aqui discutido, pois evidenciam que o autor é devedor contumaz, não sendo crível afirmar que o registro desabonador em discussão tenha maculado sua honra, reputação ou nome" (fl. 169).
+Como se vê, o acórdão recorrido não esclarece se as inscrições constantes do documento de fls. 83-84 são anteriores ou posteriores, tampouco se são legítimas. Desse modo, modificar o entendimento do Tribunal de origem requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Nesse sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. INOCORRÊNCIA DE DANO. PREEXISTÊNCIA E COEXISTÊNCIA DE INSCRIÇÃO NEGATIVA LEGÍTIMA. SÚM. 285/STJ. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem assentou que a inscrição do nome da recorrente no cadastro restritivo, de que cuida os presentes autos, somente passou a ser ilegítima após a quitação do débito, que ocorreu em 15/8/2012. Todavia, nesta data, já haviam inscrições preexistentes no cadastro desabonador (maio e junho de 2012), o que afasta a possibilidade de indenização por dano moral. Não há falar-se em omissão do acórdão.
+2. A ilegitimidade de determinada manutenção do nome em cadastro de inadimplente não enseja a condenação em indenização por dano moral, se remanescem outras.
+3. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súm 385/STJ).
+4. Para se acolher os argumentos apresentados pelo recorrente no sentido de que as inscrições seriam posteriores e também ilegítimas, ter-se-ia que alterar as premissas fáticas assentada no acórdão recorrido, o que somente seria possível mediante o reexame de provas dos autos, o que se revela defeso no âmbito do recurso especial ante o óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.588.049/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 1.700,00, observada a eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. PREEXISTÊNCIA DE INSCRIÇÕES NEGATIVAS LEGÍTIMAS. SÚMULA N. 385 DO STJ. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
