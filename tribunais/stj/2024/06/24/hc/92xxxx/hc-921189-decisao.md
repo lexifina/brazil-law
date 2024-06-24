@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor próprio por Thawan Mayco Gregorio de Souza, no qual se aponta como autoridade coatora o Tribunal de Justiça de Goiás.
+Busca-se a concessão da ordem para sanar qualquer restrição que cerceie a liberdade do paciente, no caso em tela o bloqueio ilegal de seu passaporte, que o impede de sair do País, sem ter qualquer pendencia com a justiça brasileira (fl. 7).
+Aduz-se que o Tribunal a quo, apesar de ter revogado as medidas cautelares que foram aplicadas ao acusado no Processo n. 5775576-42.2022.8.09.0011, nega-se a expedir ofício à Polícia Federal para desbloquear o seu passaporte, com o argumento de que não há a dita restrição relacionada a esse feito.
+Menciona-se que as ponderações da Corte estadual não condizem com a informação prestada pela Polícia Federal, que afirma que o passaporte ainda está bloqueado e o motivo é o presente processo (fl. 6).
+Defende-se que há restrição desproporcional do direito de ir e vir do paciente, ante o excessivo prazo de apreensão de seu passaporte pode configurar constrangimento ilegal. A celeuma quanto à liberação do documento deve ser superada em prol da garantia máxima de tutela do direito fundamental de ir e vir, fazendo cessar, de imediato, a constrição imposta, em razão da absolvição em parte do paciente pela Câmara Criminal do e. Tribunal de Justiça do Estado de Goiás (fl. 7).
+Antes de qualquer providência no caso, solicitei informações ao Tribunal de origem (fl. 71), as quais foram juntadas às fls. 84/98.
+Por meio da Petição n. 511.830/2024, o impetrante/paciente comunica que seu passaporte ainda permanece bloqueado (fl. 79).
+O AREsp n. 2.670.253/GO, que adveio em decorrência da condenação na ação penal em questão, está em processamento nesta Casa.
+É o relatório.
+Neste caso, como visto, a alegação de constrangimento ilegal se sustenta na suposta prática de ato omissivo do Tribunal goiano, que não teria expedido à Polícia Federal comunicação acerca da revogação das medidas cautelares impostas ao paciente quando do julgamento do Pedido Incidental na Apelação Criminal n. 5775576-42.2022.8.09.0011.
+Conforme consta das informações prestadas pelo Desembargador Relator, a retenção do passaporte não foi imposta expressamente como medida cautelar nos presentes autos.  ..  só foi determinada de forma específica em outra ação penal, conforme decisão constante na movimentação n. 113 do Processo n. 0125995-35.2019.8.09.0162 (fl. 95). E, apenas em virtude do pedido protocolado na movimentação n. 121, houve manifestação do juízo de origem sobre o passaporte, tendo o magistrado "indeferido" o pedido de liberação do documento. Todavia, conforme elucidado de forma minuciosa, a retenção do mesmo sequer foi determinada de forma expressa nos presentes autos (fl. 96).
+Também esclareceu que, após o julgamento, foram enviadas as comunicações de praxe em relação à decisão que deferiu o Pedido Incidental de Revogação das medidas cautelares diversas da prisão na Apelação Criminal n. 5775576- 42.2022.8.09.0011 (fl. 97).
+Assim sendo, não enxergo o dito constrangimento ilegal, já que não evidenciada omissão ou desídia por parte da autoridade apontada como coatora.
+Ante o exposto, indefiro liminarmente este habeas corpus. Expeça-se recomendação ao Juízo de Direito da 2ª Vara Criminal da comarca de Valparaíso de Goiás/GO para que verifique, com a Polícia Federal, se remanesce algum tipo de dúvida acerca do desbloqueio do passaporte do paciente e se há erro cartorário quanto ao ponto.
+Publique-se.
+EMENTA
+HABEAS CORPUS. RESISTÊNCIA. MEDIDAS CAUTELARES REVOGADAS PELO TRIBUNAL DE ORIGEM. RESTRIÇÃO DO PASSAPORTE PENDENTE NA POLÍCIA FEDERAL. CAUTELA NÃO APLICADA NO CASO EM QUESTÃO. INEVIDÊNCIA DE OMISSÃO OU DESÍDIA POR PARTE DA AUTORIDADE APONTADA COMO COATORA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente, com recomendação.
