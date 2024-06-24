@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se recurso especial interposto por NYLSON PRONESTINO RAMOS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 24/5/2023.
+Concluso ao gabinete em: 24/5/2024.
+Ação: de obrigação de fazer, ajuizada pelo recorrente e EVERTON TADEUCHURAI ME em face de BRADESCO ADMINISTRADORA DE CONSÓRCIOS LTDA, fundada em cessão de cota de consórcio.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, condenando a ré a indenizar os autores, por perdas e danos, na devolução dos saldos credores inseridos nos contratos de cessão acostados aos autos, contrato nº 170298008 no percentual de 10,38% sobre o valor do crédito de R$ 32.490,00, contrato 170244572 no percentual de 9,14% sobre o valor de R$ 32.490,00 e contrato nº 600102404 no percentual 34% sobre o valor de R$ 24.367,50, devidamente corrigidos a partir de 15 de janeiro de 2019, incidindo juros de mora desde a citação, sendo que o valor será devidamente apurado em liquidação por simples cálculo aritmético.
+Acórdão: deu provimento ao recurso de apelação interposto pelo recorrido, nos termos da seguinte ementa:
+Apelação Ação de obrigação de fazer Cessão decota de consórcio Artigo 13, da Lei nº 11.795/2008Em que pese a inequívoca natureza consumerista, não se apresenta dispensada a parte autora do ônus de comprovar os fatos constitutivos de seu direito(artigo 373, inciso I, da lei de ritos) - Diversamente do alegado, não se vislumbram elementos de prova idôneos que evidenciem a efetiva anuência da administradora de consórcios - Além do fato de os instrumentos de cessão apresentados se apresentarem apócrifos, há que salientar que a suposta comunicação de "efetivação da transferência" se mostra genérica, inexistindo sequer identificação do cessionário - Impende ressaltar, ainda, que as mensagens eletrônicas apresentadas, além de terem sido encaminhadas pela empresa Newspace (terceira estranha ao feito que não ostenta qualquer relação jurídica com a administradora de consórcios requerida), não trazem em seu corpo qualquer referência às cotas de consórcio objeto da lide - Ademais, tampouco se vislumbra o efetivo pagamento de suposta "taxa de transferência", haja vista que, em adição ao fato de o boleto apresentado constar como sacado o autor litisconsorte Everton Tadeu Churai Me., não foi apresentado o respectivo comprovante de pagamento Descabimento da condenação imposta por perdas e danos Recurso a que se dá provimento.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 286 e 290 do CC; e 6º, VIII, do CDC, bem como dissídio jurisprudencial.
+Sustenta, em síntese, que demonstrou que houve a cessão de direitos das cotas de participação em grupo de consórcio e que parte recorrida tinha ciência da cessão, bem como afirma que cabia à parte recorrida provar que ela não tinha ciência quanto à cessão das cotas, o que não foi realizado.
+Defende, ainda, desnecessidade de anuência da administradora para cessão de cotas de contrato cancelado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos arts. 286 e 290 do CC; e 6º, VIII, do CDC, indicados como violados, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+Ressalta-se, por oportuno, que referidos artigos foram mencionados pela primeira vez nas razões do recurso especial, caracterizando verdadeira inovação da tese de defesa, de modo que não era dado ao TJ/SP analisar a controvérsia tendo em vista tais normas.
+- Da existência de fundamento não impugnado
+Outrossim, constata-se, da leitura das razões recursais, que o recorrente não impugnou, de maneira específica e consistente, os seguintes fundamentos utilizados pelo TJ/SP:
+"Consoante se vislumbra dos autos, a presente insurgência tem origem em instrumento particular de cessão de cotas de consórcio.
+Com efeito, à luz do disposto pelo artigo 13, da Lei nº 11.795/2008, tem-se que as cotas de participação em grupo de consórcio poderão ser transferidas a terceiros, desde que previamente anuído pela administradora de consórcios.
+Conquanto não se olvide a inequívoca natureza consumerista, não se apresenta dispensada a parte autora do ônus de comprovar os fatos constitutivos de seu direito (artigo 373, inciso I, da lei de ritos). No caso em tela, respeitada a convicção do MM. Juízo "a quo", diversamente do alegado, não se vislumbram elementos de prova idôneos que evidenciem a efetiva anuência da administradora de consórcios.
+Além do fato de os instrumentos de cessão apresentados à fl. 13/18 se apresentarem apócrifos, há que salientar que a suposta comunicação de "efetivação da transferência" (fl. 26/27) se mostra genérica, inexistindo sequer identificação do cessionário.
+No mais, impende ressaltar que as mensagens eletrônicas apresentadas à fl. 19 e 21/25, além de terem sido encaminhadas pela empresa Newspace - terceira estranha ao feito que não ostenta qualquer relação jurídica com a administradora de consórcios requerida1 -, não trazem em seu corpo qualquer referência às cotas de consórcio objeto da lide.
+Ademais, cumpre esclarecer que o documento de fl. 20 tampouco se mostra hábil para comprovar o pagamento de suposta "taxa de transferência", haja vista que, em adição ao fato de o boleto apresentado constar como sacado o autor litisconsorte Everton Tadeu Churai Me., não foi apresentado o respectivo comprovante de pagamento.
+Destarte, uma vez não demonstrada a efetiva anuência da administradora de consórcios quanto à pretensa cessão de cotas, se afigura descabida a condenação, a título de perdas e danos, imposta pela r. sentença proferida." (e-STJ fls. 295/296)
+Desse modo, deve-se manter o acórdão recorrido, ante a incidência, quanto ao ponto, da Súmula 283/STF.
+- Da divergência jurisprudencial
+Constata-se, da leitura das razões do recurso especial, que o recorrente não alegou violação clara e específica de qualquer dispositivo infraconstitucional que seria objeto de dissídio jurisprudencial, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt nos EDcl no REsp 1.711.630/SC, 4ª Turma, DJe 18/8/2021; AgInt nos EDcl no REsp 1.881.812/SP, 3ª Turma, DJe 28/5/2021; e AgInt no REsp 1.905.503/AM, 3ª Turma, DJe 25/3/2021.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de obrigação de fazer.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violação, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Não é possível a análise de tese alegada pela primeira vez nas razões do recurso especial, por se tratar de evidente inovação recursal.
+4. A existência de fundamentos do acórdão recorrido não impugnados - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Recurso especial não conhecido.
