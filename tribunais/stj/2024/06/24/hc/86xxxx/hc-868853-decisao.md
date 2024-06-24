@@ -1,0 +1,34 @@
+DECISÃO
+Por meio deste writ, requer-se o imediato relaxamento ou revogação da prisão preventiva de Joao Ferreira do Valle nos Autos n. 0063393-98.2018.8.19.0021, da 4ª Vara Criminal da comarca de Duque de Caxias/RJ, por excesso de prazo, arguindo-se que o acusado foi preso em 22/5/2019 e pronunciado em 15/9/2022 e, embora mais de 1 ano após a pronúncia, o feito continua em fase de intimação das partes para ciência da pronúncia, sendo certo que a defesa do paciente, até o momento, não foi intimada da decisão que admitiu a acusação (fl. 5).
+Alega-se a desnecessidade da imersão no contexto fático-probatório dos autos para a conclusão pela inexistência dos requisitos previstos no art. 312 do CPP.
+Sustenta-se, ademais, que está ausente o fenômeno da contemporaneidade, já que decretada a prisão há 5 anos atrás, sendo certo que a cláusula rebus sic stantibus incidente nas prisões cautelares impõe a análise atual de acordo com as variáveis existentes no momento presente (fl. 13).
+Indeferi o pedido liminar (fls. 72/73).
+As informações foram prestadas (fls. 84/88 e 113/117).
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus (fls. 90/93).
+É o relatório.
+Inicialmente, quanto à ausência de contemporaneidade, observo que o acórdão impugnado não se manifestou a respeito. Assim, a análise da alegação importaria indevida supressão de instância, de modo que o mandamus não pode ser conhecido quanto ao ponto.
+No mais, estou de acordo com a manifestação do Subprocurador-Geral da República Roberto dos Santos Ferreira, deste teor (fls. 92/93 - grifo nosso):
+ ..
+Em relação ao excesso de prazo da prisão preventiva, o Tribunal de origem afirmou que se trata de feito complexo, com mais de um réu, diversas testemunhas e vítimas. Também ponderou que boa parte da instrução processual ocorreu durante o período da pandemia do vírus da covid-19, o que ocasionou dificuldade para a tramitação processual.
+Sabe-se que o prazo legal para conclusão do processo não é absoluto e deve ser mitigado à luz do princípio da razoabilidade. Assim, o constrangimento ilegal somente pode ser reconhecido se a desídia for injustificada e decorrer do aparato estatal. Não é outro o entendimento da Corte: "Os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais (precedentes)" (HC 371.378/RS, Rel. Ministro Felix Fischer, Quinta Turma, Julgado Em 20/10/2016, Dje 04/11/2016).
+Na espécie, não se vislumbra qualquer desídia ou mora desnecessária decorrente da atuação da autoridade policial, judiciária ou do órgão acusatório de modo a ensejar o relaxamento da prisão processual. A delonga decorre, portanto, da própria natureza da ação, evidentemente complexa e da excepcional situação causada pela pandemia.
+O paciente foi pronunciado em 15/9/22, e, pelo que se vê do andamento processual, o feito segue trâmite regular. Nesse contexto, não há que se falar de desídia por parte do Poder Judiciário na condução do processo.
+Ainda, o caso é de crime de sequestro, tortura e homicídio qualificado. Portanto, presente a gravidade concreta do delito, a Corte local consignou que o paciente foi condenado definitivamente, em outro processo, à pena de 10 anos de reclusão em regime fechado, o que denota a necessidade de proteção da ordem pública diante da provável reiteração delitiva.
+Imperioso registrar, também, que a alegação de excesso de prazo se encontra esvaziada diante do teor da Súmula 21/STJ, segundo a qual: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Com efeito: "Não constatada mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida" (RHC101.402/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/10/2018, DJe 14/11/2018).
+Por todo o exposto, não constatada ilegalidade a ensejar a concessão da ordem de ofício, opina o Ministério Público Federal pelo não conhecimento do habeas corpus substitutivo de recurso ordinário.
+ ..
+Realmen te, a gravidade concreta do delito, revelada pelo modus operandi adotado - homicídio, mediante sequestro e tortura contra a vítima fatal e as outras duas, a fim de se obter informações sobre o companheiro da primeira, miliciano, que teria matado traficante conhecido como "pai" (fl. 30) -, assim como o risco de reiteração delitiva por condenação definitiva em outro processo, autorizam a prisão do paciente para a garantia da ordem pública.
+Quanto ao excesso de prazo, não há falar em desarrazoada demora na conclusão da ação penal, não havendo evidência de desídia estatal ou de indevida paralisação do processo, como bem destacam as informações prestadas pelo juízo, que imputa a demora à defesa no cumprimento do disposto no art. 422 do CPP, bem como designou a sessão pelo Tribunal do Júri para o dia 16/10/2024 (fl. 115 - grifo nosso):
+ ..
+Cumpre esclarecer a vossa excelência que não há inercia na condução do feito pelo juízo e nem pela acusação. Noutro giro, observa-se que, eventual delonga no processamento, deveu-se a dificuldade de intimação e manifestação dos pronunciados quanto a decisão de pronuncia, dificuldade esta que se estendeu a manifestação das defesas técnicas na forma do artigo 422 do CPP.
+O ora paciente protocolou em 14/05/2024 manifestação na forma do artigo 422 do CPP.
+Embora devidamente intimadas, as defesas técnicas do demais pronunciados, não se manifestaram na forma do artigo 422 do CPP.
+Foi designada sessão plenária a se realizar no dia 16/10/2024.
+ ..
+Dessa forma, diz a jurisprudência desta Corte Superior que não se pode imputar mora ao Judiciário no caso em que a delonga processual é atribuível à defesa, incidindo, na espécie, o enunciado da Súmula n. 64 desta Corte Superior, segundo a qual não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa (Precedentes) - (AgRg no HC n. 812.788/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023 - grifo nosso).
+Ante o exposto , com base no parecer ministerial e na jurisprudência , conheço parcialmente do habeas corpus e, nessa parte, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PENAL. SEQUESTRO. TORTURA. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI EMPREGADO. E LEMENTO IDÔNEO. EXCESSO DE PRAZO. AUSÊNCIA DE DESÍDIA NA CONDUÇÃO DA AÇÃO PENAL. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. SÚMULA 64/STJ. SESSÃO DO JÚRI COM DATA MARCADA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Writ parcialmente conhecido e, nessa parte, ordem denegada.
