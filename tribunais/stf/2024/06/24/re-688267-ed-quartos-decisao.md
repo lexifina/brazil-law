@@ -1,0 +1,16 @@
+DECISÃO:
+
+    1. Petição nº 74.436/2024: João Erivan Nogueira de Aquino e outros requerem o destaque do feito para julgamento em sessão presencial, a fim de possibilitar o debate amplo e público da matéria.
+
+    2. De fato, o tema tratado nos autos é de extrema relevância. No entanto, a Emenda Regimental nº 53, de 18 de março de 2020, alterou o Regimento Interno desta Corte, para estabelecer que todos os processos de competência do Tribunal poderão, a critério do relator ou do ministro vistor com a concordância do relator, ser submetidos a julgamento em ambiente eletrônico, (v. art. 21-B do RISTF). Há, portanto, expressa autorização regimental para o julgamento virtual ora questionado.
+
+    3. Outras mudanças recentes nas sessões virtuais buscaram aproximá-las, tanto quanto possível, das sessões presenciais, possibilitando, nos casos permitidos, a apresentação de sustentação oral, além de memoriais e esclarecimentos de fato (art. 21-B, § 2º, do RISTF). Os votos dos Ministros passaram a ficar disponíveis, na medida em que proferidos, na página do Tribunal na internet (Resolução STF nº 675/2020).
+
+    4. Ante o exposto, indefiro o pedido.
+
+	Publique-se.
+
+	Brasília, 24 de junho de 2024.
+
+Ministro Luís Roberto Barroso
+Relator
