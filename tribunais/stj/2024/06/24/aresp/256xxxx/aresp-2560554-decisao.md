@@ -1,0 +1,38 @@
+DECISÃO
+RYAN COSME SOUZA FREITAS agrava  de  decisão  que  inadmitiu  o  recurso  especial,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de Minas Gerais  na  Apelação  Criminal  n.  1.0000.23.022253-1/001.
+O  agravante  foi  condenado  a  5  anos  e 10 meses de  reclusão  mais  multa,  no  regime  inicial  semiaberto,  pelo  crime  previsto  no  art.  33,  caput,  da  Lei  n.  11.343/2006.
+Nas  razões  do  recurso  especial,  a  defesa  alega  violação  dos  arts.  33, § 4º, da Lei de Drogas; 33, § 2º, e 44, do Código Penal.
+Nas  razões  recursais,  requer  a  readequação  da  dosimetria  da  pena,  com  o  reconhecimento  do  privilégio  no  tráfico,  abrandamento  do  regime  e  substituição  da  pena  privativa  de  liberdade  por  restritivas  de  direitos.
+O  recurso  foi  inadmitido  em  juízo  prévio  de  admissibilidade  realizado  pelo  Tribunal  local,  o  que  motivou  a  interposição  deste  agravo.
+O  Ministério  Público  Federal  manifestou-se  pelo  não  provimento  do  recurso.
+Decido.
+O  agravo  é  tempestivo  e  infirmou  os  fundamentos  da  decisão  agravada,  motivo  pelo  qual  passo  à  análise  do  recurso  especial.
+I.  Minorante  prevista  no  art.  33,  §  4º,  da  Lei  n.  11.343/2006
+Para  a  aplicação  da  minorante  em  comento,  são  exigidos,  além  da  primariedade  e  dos  bons  antecedentes  do  acusado,  que  este  não  integre  organização  criminosa  e  que  não  se  dedique  a  atividades  delituosas.
+  Isso  porque  a  razão  de  ser  da  causa  especial  de  diminuição  de  pena  prevista  no  art.  33,  §  4º,  da  Lei  n.  11.343/2006  é  justamente  punir  com  menor  rigor  o  pequeno  traficante,  ou  seja,  aquele  indivíduo  que  não  faz  do  tráfico  de  drogas  o  seu  meio  de  vida;  antes,  ao  cometer  um  fato  isolado,  acaba  incidindo  na  conduta  típica  prevista  no  art.  33  da  mencionada  lei  federal.
+A  propósito,  confira-se  o  seguinte  trecho  de  voto  deste  Superior  Tribunal:
+"  A  mens  legis  da  causa  de  diminuição  de  pena  seria  alcançar  os  condenados  neófitos  na  infausta  prática  delituosa,  configurada  pela  pequena  quantidade  de  droga  apreendida,  e  serem  eles  possuidores  dos  requisitos  necessários  estabelecidos  no  art.  33,  ss  40,  da  Lei  no  11.343/06."  (AgRg  no  RESP  n.  1.389.632/RS,  Rel.  Ministro  Moura  Ribeiro,  5ª  T,  DJe  14/4/2014).
+No  caso,  o  Tribunal  de  origem  negou  a  incidência  do  privilégio  previsto  no  art.  33,  §  4.º,  da  Lei  n.  11.343/2006  (fl.  549,  grifei):
+Na terceira fase, como a traficância era exercida com emprego de arma de fogo, elevo a reprimenda em 1/6, do que resulta 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (dias-multa) dias-multa.
+Não faz jus à minorante do artigo 33, § 4º, da Lei nº 11.343/06, não apenas porque os militares revelaram seu envolvimento em atos infracionais, mas também porque, junto às diversas drogas, foi apreendida uma arma de fogo, o que revela a dedicação à atividade criminosa.
+Verifica-se do documento de fl. 91, a ausência de registros policiais relativo ao recorrente, motivo pelo qual inexiste prova da dedicação do réu à atividade criminosa.
+Ressalto que a arma apreendida já foi considerada como causa de aumento prevista no art. 40, IV, da Lei n. 11.343/2006, de modo que não pode ser novamente valorado para fins de negar o privilégio estabelecido no art. 33, §4º, da Lei de Drogas, sob pena de bis in idem.
+Consequentemente,  ante  a  ausência  de  fundamento  suficiente  o  bastante  para  justificar  o  afastamento  da  causa  especial  de  diminuição  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006,  deve  ser  provido  o  recurso,  a  fim  de  ser  aplicado  o  referido  benefício.
+No  que  tange  ao  total  de  redução  de  pena,  faço  lembrar  que  tanto  a  Quinta  quanto  a  Sexta  Turmas  deste  Superior  Tribunal  firmaram  o  entendimento  de  que,  considerando  que  o  legislador  não  estabeleceu  especificamente  os  parâmetros  para  a  escolha  da  fração  de  redução  de  pena  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006,  devem  ser  consideradas,  para  orientar  o  cálculo  da  minorante,  as  circunstâncias  judiciais  previstas  no  art.  59  do  Código  Penal,  sobretudo  o  disposto  no  art.  42  da  Lei  de  Drogas.
+Na  espécie,  uma  vez  que  a quantidade  já foi  valorada  na  primeira  fase  da  dosimetria  e  atendendo  à  orientação  da  Terceira  Seção  desta  Corte  (HC  n.  725.534/SP,  Rel.  Ministro  Ribeiro  Dantas,  DJe  de  1º/6/2022),  reduzo  a  pena  no  patamar  máximo  (2/3).
+Friso  que,  especificamente  no  caso  dos  autos,  a  conclusão  pela  possibilidade  de  aplicação  da  referida  minorante  não  demanda  o  revolvimento  de  matéria  fático-probatória,  procedimento,  de  fato,  vedado  em  recurso  especial.
+Este  recurso,  diversamente,  requer  apenas  a  revaloração  de  questões  incontroversas  que  já  estão  delineadas  nos  autos  e  nas  provas  que  foram  devidamente  colhidas  ao  longo  de  toda  a  instrução  probatória  -,  bem  como  a  discussão,  meramente  jurídica,  acerca  da  interpretação  a  ser  dada  sobre  os  fundamentos  apontados  pela  instância  de  origem  para  negar  ao  réu  a  incidência  da  causa  especial  de  diminuição  de  pena  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006.
+II. Nova dosimetria
+Em razão da modificação efetivada anteriormente, deve ser realizado o redimensionamento da pena.
+Na primeira fase, a reprimenda-base ficou estabelecida em 5 anos e 7 meses de reclusão mais 560 dias-multa. Na segunda etapa, presente a atenuante da menoridade relativa, a reprimenda fica estabelecida no mínimo legal.
+Na terceira fase, assim como procedeu a Corte de origem, aumenta-se a pena em 1/6 pela incidência da majorante prevista no art. 40, IV, da Lei n. 11.343/2006 e aplico o redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 2/3, de modo que torno a sanção definitiva em 1 ano, 11 meses e 10 dias de reclusão mais 194 dias-multa.
+III.  Regime  e  substituição
+Como  consectário  da  redução  efetivada  na  pena,  deve  ser  procedido  ao  ajuste  no  regime  inicial  do  seu  cumprimento.
+Se,  por  um  lado,  o  réu  foi  condenado  a  reprimenda  inferior  a  4  anos  de  reclusão,  era  tecnicamente  primário  ao  tempo  do  delito  e  foi  beneficiado  com  a  minorante  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006,  por  outro,  teve  a  pena-base  estabelecida  acima  do  mínimo  legal.
+ Assim,  entendo  que  deve  ser  fixado  o  regime  inicial  semiaberto,  nos  termos  do  art.  33,  §  2º,  "b",  e  §  3º,  do  Código  Penal,  com  observância  também  ao  preconizado  pelo  art.  42  da  Lei  n.  11.343/2006.
+Por  fim,  a  desfavorabilidade  das  circunstâncias  mencionadas  acima  evidencia  que  a  substituição  da  pena  não  se  mostra  medida  socialmente  recomendável,  nos  termos  do  art.  44,  III,  do  Código  Penal.
+IV. Dispositivo
+À  vista  do  exposto,  conheço  do  agravo  para  dar  parcial  provimento  ao  recurso  especial,  a  fim  de:  a)  reconhecer  a  minorante  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006  em  favor  do  réu  e  aplicá-la  no  patamar  de  2/3;  b)  readequar  a  reprimenda  imposta  ao  réu  para  1 ano, 11 meses e 10 dias de reclusão mais 194 dias-multa;  e  c)  fixar  o  regime  semiaberto.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se  e  intimem-se.
+EMENTA
