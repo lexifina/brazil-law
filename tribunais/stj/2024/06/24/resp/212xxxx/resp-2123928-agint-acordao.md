@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA AO ART. 1.022 DO CPC/15. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. ART. 90, §4º, DO CPC/2015. RECONHECIMENTO DA PRETENSÃO. DESISTÊNCIA DA EXECUÇÃO FISCAL. LEGITIMIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É cabível a redução dos honorários advocatícios sucumbenciais pela metade, prevista no art. 90, § 4º, do CPC/2015, quando a parte exequente concorda com os embargos à execução ou reconhece a pretensão deduzida em exceção de pré-executividade, e desiste da execução fiscal, requerendo a extinção do feito executivo. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pela FUNDACAO VISCONDE DE PORTO SEGURO contra a decisão monocrática de minha lavra que conheceu do Recurso Especial e lhe negou provimento, fundamentada na: i. jurisprudência desta Corte Superior; e ii. ausência de violação ao art. 1.022 do CPC/15.
+Sustenta a Agravante, em síntese, o seguinte (fls. 951/952e):
+Todavia, a decisão agravada, a exemplo dos v. acórdãos recorridos, ignorou a QUESTÃO ESSENCIAL AO DESLINDE, no que concerne à aplicação da redução prevista no art. 90, §4º, do CPC, sob a ótica da intenção do legislador em estimular o comportamento espontâneo e imediato do réu, em favor do cumprimento do direito reconhecido, uma vez que não considerou que a concordância da exequente somente ocorreu após 02 anos de intentada a Execução Fiscal, e após inúmeras provocações da ora Agravante, na árdua luta contra a cobrança inexistente, baseada, inclusive em Súmula do STJ e Parecer da AGU.
+( )
+Com efeito, desde a esfera administrativa, a Agravante apresentou não apenas Recurso Especial (em 2016), como também ao menos duas manifestações junto à RFB (em 2018) e à PGFN (já em 2019) - conforme, respectivamente, ID"s 24964908, 24964911, 98288258, 98288269 e 98288282 -, todas alertando que os valores ali exigidos não caracterizam hipótese de incidência da contribuição previdenciária, conforme entendimento da própria Procuradoria e da AGU (parecer PGFN 2177/2011 e súmula 60 da AGU).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 967e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA AO ART. 1.022 DO CPC/15. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. ART. 90, §4º, DO CPC/2015. RECONHECIMENTO DA PRETENSÃO. DESISTÊNCIA DA EXECUÇÃO FISCAL. LEGITIMIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É cabível a redução dos honorários advocatícios sucumbenciais pela metade, prevista no art. 90, § 4º, do CPC/2015, quando a parte exequente concorda com os embargos à execução ou reconhece a pretensão deduzida em exceção de pré-executividade, e desiste da execução fiscal, requerendo a extinção do feito executivo. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+- DA OMISSÃO, SUPOSTA OFENSA AO ART. 1.022 DO CPC/15
+Reforça a Agravante que o acórdão recorrido ignorou questão essencial ao deslinde, no que concerne à aplicação da redução prevista no art. 90 do CPC/15, sob a ótica do legislador em estimular o comportamento espontâneo e imediato do réu.
+A Corte a quo, ao analisar o recurso de apelação, assim dirimiu a controvérsia (fls. 746/747e):
+Embora se trate de hipótese que se insere nos incisos do caput do art.19 da Lei nº 10.522/02, não é possível afastar a condenação em honorários, pois não houve manifestação expressa no sentido de reconhecimento da procedência do pedido quando da apresentação da resposta (impugnação) pela embargada. Tal manifestação somente foi formulada posteriormente, na petição de Id. 221552528, após o embargante ter informado o acolhimento do pedido na esfera administrativa(Id. 221552519).
+(..)
+Quanto à redução prevista no art. 90, §4º, do CPC, verifica-se que não se exige que o reconhecimento ocorra em momento específico, tampouco que ocorra na primeira oportunidade de se manifestar nos autos:
+§ 4º Se o réu reconhecer a procedência do pedido e, simultaneamente, cumprir integralmente a prestação reconhecida, os honorários serão reduzidos pela metade.
+Assim, considerando que apesar de não havido manifestação expressa no sentido de reconhecimento da procedência do pedido quando da apresentação da resposta pela embargada, também não houve impugnação do mérito dos embargos e, posteriormente, a embargante reconheceu a procedência do pedido e informou o cancelamento administrativo do débito, é possível a redução dos honorários pela metade.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+E depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Ausentes, portanto, os vícios do art. 1.022 do Código de Processo Civil de 2015 (v. g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+- DA REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS
+Aponta a Agravante que a redução, prevista pelo art. 90, §4º, do CPC/2015, não tem cabimento nos autos, haja vista não ter ocorrido o comportamento espontâneo e imediato da parte contrária, que demorou dois anos para reconhecer o direito da Agravante.
+Contudo, este Superior Tribunal de Justiça firmou compreensão segundo a qual é cabível a redução dos honorários advocatícios sucumbenciais pela metade, prevista no art. 90, § 4º, do CPC/2015, quando a parte exequente concorda com os embargos à execução ou reconhece a pretensão deduzida em exceção de pré-executividade e desiste da execução fiscal, pedindo a extinção do feito executivo.
+Nessa esteira: 1ª T., AgInt no REsp n. 2.078.177/PE, relator Ministro Gurgel de Faria, DJe de 5/12/2023; 1ª T., AgInt no AgInt no REsp n. 1.696.816/MG, relator Ministro Paulo Sérgio Domingues, DJe de 8/9/2023.
+- DA MULTA
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
