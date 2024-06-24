@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO INTERNO NO RECURSO  ESPECIAL.  PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. ATOS EXPROPRIETÁRIOS. COMPETÊNCIA. MATÉRIA  APRECIADA.  REDISCUSSÃO.  INADMISSIBILIDADE.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  VIPLAN - VIAÇÃO PLANALTO LTDA. ao  acórdão  assim  ementado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. CUMPRIMENTO DE SENTENÇA. ATOS EXPROPRIETÁRIOS. COMPETÊNCIA. JUÍZO DA EXECUÇÃO. PERÍODO DO STAY PERIOD. EXAURIMENTO. PENHORA. BEM ESSENCIAL DE CAPITAL. NÃO DEMONSTRAÇÃO. CONSTRIÇÃO. REAPRECIAÇÃO. JUÍZO RECUPERACIONAL. AFASTAMENTO.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  nos  embargos  de  declaração,  a  qual  somente  se  configura  quando,  na  apreciação  do  recurso,  o  tribunal  de  origem  insiste  em  omitir  pronunciamento  a  respeito  de  questão  que  deveria  ser  decidida,  e  não  foi.
+2. Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador (Tema Repetitivo/STJ nº 1.051).
+3. Na hipótese, o crédito buscado no cumprimento de sentença é de natureza extraconcursal, visto que o fato gerador da obrigação foi originado após o pedido e a decretação da recuperação judicial da empresa, estando, portanto, excluído do plano e de seus efeitos.
+4. Após a vigência da Lei nº 14.112/2020, a competência do Juízo recuperacional para sobrestar o ato constritivo realizado no bojo de execução de crédito extraconcursal se restringe àquele que recai unicamente sobre bem de capital essencial à manutenção da atividade empresarial e a ser exercida apenas durante o período de blindagem (stay period). Precedente.
+5. Agravo interno não provido." (fl. 518)
+Em  suas  razões,  a  embargante  aponta  a  existência  de  omissão  no  acórdão  atacado,  reiterando  alegações  anteriormente  aventadas  no  recurso  especial e no agravo interno.
+Aduz que:
+"(..) o crédito é extraconcursal, mas, ainda assim permanece a competência universal para os ATOS EXPROPRIATÓRIOS.
+Veja: a parte não pretende a satisfação do crédito no âmbito da recuperação judicial, tampouco que a execução cível singular tramite no âmbito da RJ. Absolutamente.
+O que pretendera, desde o início, é apenas o reconhecimento da jurisprudência pacífica desta C. Corte que, mesmo no caso de créditos extraconcursal, como é o crédito dos presentes autos, SOMENTE O JUÍZO UNIVERSAL PODERIA PRATICAR ATOS EXPROPRIATÓRIOS OU TENDENTES A EXPROPRIAR OS BENS DA AGRAVANTE, EM SOERGUIMENTO." (fl. 532)
+Acrescenta que "(..) mesmo sendo extraconcursal e alterada a legislação, permanece a competência universal." (fl. 532).
+Sustenta que:
+"(..)
+Outro ponto que merece ser esclarecido é o de que se a constrição dos bens da Recuperanda, ainda que para satisfazer o crédito do Embargado, é de competência do juízo universal, ainda que já transcorrido o prazo de 180 dias ou se tratar de crédito posterior (..)
+(..)
+Vê-se, pois, que, autorizar que o juízo executivo disponha sobre o patrimônio, é autorizar a própria infrigência da lei e da dominante jurisprudência acerca do tema, motivo pelo qual também não poderia condicionar o acórdão recorrido a competência do juízo recuperacional ao término do stay period." (fls. 535/537)
+Busca, ao final, que sejam sanados os vícios apontados, atribuindo-se efeitos infringentes aos embargos declaratórios, a fim de reconhecer a "(..) competência exclusiva do MM. Juízo da Recuperação Judicial não sobre o feito executivo ou o crédito exequente, mas sobre os atos expropriatórios de bens da Embargante, MESMO SENDO POSTERIOR O CRÉDITO DA EMBARGADA." (fl. 539).
+A parte contrária apresentou impugnação ( fls.  544/546).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO INTERNO NO RECURSO  ESPECIAL.  PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. ATOS EXPROPRIETÁRIOS. COMPETÊNCIA. MATÉRIA  APRECIADA.  REDISCUSSÃO.  INADMISSIBILIDADE.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Com  efeito,  o  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  art.  1.022  do  Código  de  Processo  Civil :  obscuridade,  contradição,  omissão  ou  erro  material.
+No  caso  dos  autos,  os  temas  controvertidos  foram  apreciados  devidamente  quando  do  julgamento  do agravo interno  no recurso  especial.
+Foi  pontuado  expressamente  que , a pós a vigência da Lei nº 14.112/2020, a competência do Juízo recuperacional para sobrestar o ato constritivo realizado no bojo de execução de crédito extraconcursal se restringe àquele que recai unicamente sobre bem de capital essencial à manutenção da atividade empresarial e a ser exercida apenas durante o período de blindagem (stay period). Foi mencionado inclusive o precedente que iniciou a nova orientação jurisprudencial (REsp nº 2.057.372/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/4/2023, DJe de 13/4/2023).
+A propósito:
+" (..)
+Por outro lado, após a vigência da Lei nº 14.112/2020, a competência do Juízo recuperacional para sobrestar o ato constritivo realizado no bojo de execução de crédito extraconcursal se restringe àquele que recai unicamente sobre bem de capital essencial à manutenção da atividade empresarial e a ser exercida apenas durante o período de blindagem, o que não é o caso.
+Confira-se:
+(..)
+De fato, na espécie, além de o crédito exequendo ser extraconcursal, o período do stay period já se exauriu, sendo relevante "(..) enfatizar que já se passaram quase 10 anos da homologação do plano de recuperação judicial da Agravante" (fl. 348). Além disso, não se demonstrou que a penhora recaiu em bem de capital essencial à manutenção da atividade empresarial. " (fls. 522/525)
+Nesse sentido, cabe ainda colacionar o seguinte julgado da Segunda Seção deste Tribunal Superior:
+"CONFLITO DE COMPETÊNCIA NEGATIVO. CUMPRIMENTO DE SENTENÇA TRABALHISTA REFERENTE A CRÉDITO EXTRACONCURSAL. JUÍZO TRABALHISTA QUE DETERMINA O ARQUIVAMENTO, EM ATENÇÃO À COMPETÊNCIA DO JUÍZO RECUPERACIONAL. PEDIDO DE HABILITAÇÃO DO REFERIDO CRÉDITO NA RECUPERAÇÃO JUDICIAL INDEFERIDO PELO JUÍZO RECUPERACIONAL, JUSTAMENTE EM RAZÃO DE SUA EXTRACONCURSALIDADE. CONFLITO NEGATIVO DE COMPETÊNCIA. CARACTERIZAÇÃO. DE ACORDO COM § 7-A DO ART. 6º DA LRF (COM REDAÇÃO DADA PELA LEI N. 14.112/2020), O JUÍZO DA RECUPERAÇÃO JUDICIAL NÃO DETÉM COMPETÊNCIA PARA INTERFERIR, APÓS O DECURSO DO STAY PERIOD, NAS CONSTRIÇÕES EFETIVADAS NO BOJO DE EXECUÇÃO INDIVIDUAL DE CRÉDITO EXTRACONCURSAL. CONFLITO DE COMPETÊNCIA NEGATIVO CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
+1. A controvérsia posta no presente incidente centra-se em definir o Juízo competente para conhecer e julgar o cumprimento de sentença trabalhista, cujo crédito ali reconhecido tem seu fato gerador em data posterior ao pedido de recuperação judicial (extraconcursal, portanto), afigurando-se relevante, a esse propósito - sobretudo em atenção ao teor da decisão proferida pelo Juízo trabalhista, bem como ao parecer manifestado pelo Ministério Público Federal -sopesar a subsistência (ou não) da competência do Juízo da recuperação judicial para, nos termos propugnados, exercer juízo de controle sobre atos constritivos, considerado, no caso dos autos, o exaurimento do prazo de blindagem, estabelecido no § 4º do art. 6º da Lei n. 11.101/2005 (com redação dada pela Lei n. 14.112/2020).
+2. Com o advento da Lei n. 14.112/2020, tem-se não mais haver espaço - diante de seus termos resolutivos - para a interpretação que confere ao Juízo da recuperação judicial o status de competente universal para deliberar sobre toda e qualquer constrição judicial efetivada no âmbito das execuções de crédito extraconcursal, a pretexto de sua essencialidade ao desenvolvimento de sua atividade, principalmente em momento posterior ao decurso do stay period.
+3. A partir da entrada em vigência da Lei n. 14.112/2020, com aplicação imediata aos processos em trâmite (afinal se trata de regra processual que cuida de questão afeta à própria competência), o Juízo da recuperação judicial tem a competência específica para determinar o sobrestamento dos atos de constrição exarados no bojo de execução de crédito extraconcursal que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial durante o período de blindagem. Em se tratando de execuções fiscais, a competência do Juízo recuperacional restringe-se a substituir os atos de constrição que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial.
+4. Uma vez exaurido o período de blindagem - mormente nos casos em que sobrevém sentença de concessão da recuperação judicial, a ensejar a novação de todas as obrigações sujeitas ao plano de recuperação judicial -, é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto.
+4.1 Naturalmente, remanesce incólume o dever do Juízo em que se processa a execução individual de crédito extraconcursal de bem observar o princípio da menor onerosidade, a fim de que a satisfação do débito exequendo se dê na forma menos gravosa ao devedor, podendo obter, em cooperação do Juízo da recuperação judicial, as informações que reputar relevantes e necessárias.
+5. Diante do exaurimento do stay period, deve-se observar que a execução do crédito trabalhista extraconcursal em exame deve prosseguir normalmente perante o Juízo trabalhista suscitado, sendo vedado ao Juízo da recuperação judicial - porque exaurida sua competência (restrita ao sobrestamento de ato constritivo incidente sobre bem de capital) - proceder ao controle dos atos constritivos a serem ali exarados.
+6. Conflito de competência negativo conhecido, para declarar a competência do Juízo trabalhista."
+(CC nº 191.533/MT, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 18/4/2024, DJe de 26/4/2024)
+Cumpre  ressaltar  que  o  órgão  julgador  não  está  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  apenas  a  respeito  daqueles  considerados  suficientes  para  fundamentar  sua  decisão,  o  que  foi  feito.
+Assim,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+A  propósito:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  OBSCURIDADE,  OMISSÃO,  CONTRADIÇÃO  OU  ERRO  MATERIAL.  NÃO  OCORRÊNCIA.  REFORMA  DO  JULGADO.  IMPOSSIBILIDADE.
+1.  Ação  de  reparação  de  danos  materiais  e  compensação  de  danos  morais,  em  virtude  da  aquisição  de  veículo  usado  e  que,  logo  após  a  compra,  apresentou  diversos  vícios  que  impediam  seu  pleno  uso.
+2.  Os  embargos  de  declaração,  a  teor  do  art.  1.022  do  CPC,  constituem-se  em  recurso  de  natureza  integrativa  destinado  a  sanar  vício  -  obscuridade,  contradição,  omissão  ou  erro  material  -,  não  podendo,  portanto,  serem  acolhidos  quando  a  parte  embargante  pretende,  essencialmente,  reformar  o  decidido.
+3.  Embargos  de  declaração  rejeitados."
+ (EDcl  no  REsp  1.837.436/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  DJe  4/6/2020  -  grifou-se).
+"EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  BEM  DE  FAMÍLIA.  IMPENHORABILIDADE.  ALEGAÇÃO.  ARREMATAÇÃO.  IMPOSSIBILIDADE.  VÍCIOS  DO  ART.  1.022  DO  CPC/2015.  INEXISTÊNCIA.
+1.  Os  embargos  de  declaração  só  se  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servindo  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados."
+ (EDcl  no  AgInt  nos  EDcl  no  REsp  1.536.888/GO,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  DJe  28/5/2020  -  grifou-se).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
