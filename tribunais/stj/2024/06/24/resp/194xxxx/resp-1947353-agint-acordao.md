@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ÔNUS DA PROVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela WOW NUTRITION INDÚSTRIA E COMÉRCIO S/A - EM RECUPERAÇÃO JUDICIAL e OUTROS contra a decisão que conheceu em parte do recurso especial para dar provimento para restabelecer a TR como indexador da correção monetária (fls. 776/781).
+Nas razões recursais, os agravantes defendem a existência de fato novo relevante para o deslinde da causa, qual seja, o cumprimento do plano de recuperação judicial, com o pagamento de seus credores e, assim, defendendo não haver óbice para o encerramento do processo recuperacional.
+Sustentam que inexiste razão para que eventual início do biênio de fiscalização ocorra somente após o prazo de carência.
+Quanto à negativa de prestação jurisdicional, alegam que os embargos demonstraram a necessidade de que fosse apontada a redação final da cláusula 10.6 com a modulação de efeitos.
+Impugnação às fls. 826/842.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ÔNUS DA PROVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Inicialmente,  o  argumento  de  que  o  acórdão  atacado  teria  incorrido  em  negativa  de  prestação  jurisdicional  não procede .
+De  fato,  o  Tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese,  como  se  vê  dos  seguintes  trechos:
+"(..)  para  que  se  dê  maior  efetividade  ao  cumprimento  do  plano  de  soerguimento,  sobretudo  atendendo  aos  interesses  dos  credores,  e  não  perdendo  de  vista  a  sobrevivência  das  empresas,  não  há  óbice  em  que  se  module  os  efeitos  da  cláusula,  visando,  como  postula  o  agravante,  ao  impedimento  de  "qualquer  distribuição  de  lucros,  dividendos,  juros  sobre  o  capital,  amortização  de  quotas,  recompra  de  ações  ou  operações  não  comutativas  entre  as  partes  relacionadas".
+Neste  sentido  é  o  douto  parecer  ministerial:
+"(..)
+No  que  se  refere  à  cláusula  10.6,  não  se  vislumbra  a  possibilidade  de  perpetração  de  fraudes,  contudo,  a  opção  sugerida  pelo  agravante  confere  maior  efetividade  ao  sucesso  da  recuperação  judicial  e  aos  interesses  dos  credores,  de  modo  que  a  PGJ  não  se  opõe  ao  requerimento  recursal  referente  a  esta  cláusula."
+(..)
+Tal  como  está,  a  cláusula  induz  interpretação  permissiva  da  prática  de  atos,  que  podem  ser  graves  e  decisivos,  por  vontade  exclusiva  das  recuperandas.  Isto  pode  prejudicar,  em  dadas  situações,  sobremodo,  aos  credores.
+Novamente,  valho-me  do  bem  lançado  parecer  ministerial,  transcrevendo  excerto  neste  ponto:
+"(..)
+Por  outro  lado,  em  relação  à  cláusula  10.3  -  ratificação  de  atos,  mostra-se  inadmissível  sua  manutenção,  na  medida  em  que  revestida  de  puro  caráter  potestativo  das  recuperandas,  não  se  mostrando  razoável  ou  legal  a  ratificação  ampla  e  genérica  pelos  credores  de  quaisquer  atos  praticados  no  curso  da  recuperação  judicial""  (fls.  435/438).
+Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  dos  recorrentes.
+A propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  DANOS  MATERIAIS.  BENFEITORIAS  EM  IMÓVEL.  EFEITO  SUSPENSIVO.  REQUISITOS.  AUSÊNCIA.  ART.  1.022  DO  CPC/2015.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  EMBARGOS  DE  DECLARAÇÃO.  EFEITOS  MODIFICATIVOS.  POSSIBILIDADE.
+1.  A  atribuição  de  efeito  suspensivo  a  recurso  especial  está  circunscrita  à  presença  cumulativa  dos  requisitos  da  plausibilidade  do  direito  invocado  e  no  perigo  de  dano  irreparável  ou  de  difícil  reparação,  que  não  se  fazem  presentes  na  hipótese.
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  É  possível  a  atribuição  de  efeitos  infringentes  aos  embargos  de  declaração  quando  a  alteração  da  decisão  surgir  como  consequência  lógica  da  correção  da  omissão,  contradição  ou  obscuridade.
+4.  Agravo  interno  não  provido."
+  (AgInt  no  AREsp  1.070.607/RN,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  DJe  25/8/2017  -  grifou-se).
+Quanto  ao  prazo  de  carência,  o  Tribunal  de  origem  decidiu  que:
+"(..)
+Prazo  para  pagamento  (11  anos)  e  carência  (60  meses).  Direitos  patrimoniais  disponíveis  aos  credores,  não  ensejando  intervenção  sancionadora  do  Judiciário.  Aplicabilidade  do  Enunciado  II  do  Grupo  de  Câmaras  Reservadas  de  Direito  Empresarial  deste  Tribunal  ("O  prazo  de  2  dois  --  anos  de  supervisão  judicial,  previsto  no  art.  61,  "caput",  da  Lei  nº  11.101/05,  tem  início  após  o  transcurso  do  prazo  de  carência  fixado")"  (fl.  417).
+Assim,  como  a  Assembleia  é  soberana  para  a  aprovação  do  plano  que  se  mantenha  dentro  da  legalidade  e  dos  princípios  gerais  de  direito,  não  há  falar  em  violação  do  art.  61  da  Lei  nº 11.101/2005  diante  da  ausência  de  previsão  legal  do  prazo  de  carência  para  a  fiscalização  judicial  do  juízo  da  recuperação.
+Nesse  sentido:
+"  RECURSO  ESPECIAL.  DIREITO  EMPRESARIAL.  RECUPERAÇÃO  JUDICIAL.  CRAM  DOWN.  PRETENSAS  ILEGALIDADES  NO  PLANO  DE  RECUPERAÇÃO.  INOCORRÊNCIA.
+1.  Controvérsia:  Polêmica  em  torno  da  possibilidade  de  homologação  do  plano  de  recuperação  judicial  rejeitado  pelos  credores  presentes  na  assembleia  diretamente  pelo  juízo  (cram  down),  discutindo-se  o  cumprimento  dos  requisitos  legais,  bem  como  a  validade  de  determinadas  cláusulas  aprovadas.
+2.  Prazo  de  carência  e  biênio  de  fiscalização:  A  Lei  11.101/05,  quando  da  prolação  do  acórdão  recorrido,  nada  dispunha  acerca  da  obrigatoriedade  de  os  prazos  de  carência  previstos  no  plano  de  recuperação  serem  inferiores  ao  período  de  fiscalização  do  juízo. Complexas  são  as  crises  enfrentadas  pelas  empresas,  o  momento  por  que  passa  a  economia  de  um  país,  os  efeitos  generalizados  de  crises  externas,  globais  ou  não,  a  depender  do  setor  em  que  atua  a  sociedade  empresária,  razão  por  que  multifárias  são  as  formas  de  recuperação  que  podem  ser  sustentadas  para  o  soerguimento  da  empresa,  assim  como  o  é  o  cabedal  de  carências,  abatimentos,  reorganização  social  e  da  atividade,  e  os  equacionamentos  de  receitas  e  despesas.  A  Assembleia  é  soberana  para  a  aprovação  do  plano  que  se  mantenha  dentro  da  legalidade  e  dos  princípios  gerais  de  direito  e,  no  que  concerne,  não  há  empecilho  legal  à  previsão  de  carência  assíncrona  à  fiscalização  judicial  do  juízo  da  recuperação.
+3.  Alegação  de  crime,  fraude  a  credores  e  favorecimento  de  um  dos  quirografários  (fornecedora  de  energia  elétrica):  Alegação  constante  no  recurso  especial  que  se  limita  à  prática  de  crime  contra  credores.  O  legislador  procurou  coibir  atos  fraudulentos  e  insidiosos  pelos  quais  o  devedor,  mediante  a  prática  de  atos  de  disposição  ou  oneração,  favorece  determinado  credor  antes  ou  após  a  homologação  do  plano  de  recuperação.  A  recuperanda,  ao  contrário,  submeteu  a  proposta  à  assembleia  de  credores,  justificando-a  na  essencialidade  do  serviço  prestado  pela  concessionária  de  energia,  não  tendo  levado  a  efeito  qualquer  ato  ao  arrepio  da  assembleia.
+Ausente,  assim,  a  tipificação  do  referido  crime.  Não  se  indicou,  ademais,  dispositivo  de  lei  federal  outro  que  tivesse  sido  afrontado  a  acerca  do  pedido  de  declaração  da  nulidade  da  Cláusula  3.3.3  do  Plano  de  Recuperação  Judicial.
+4.  Alienação  ou  oneração  dos  bens  do  ativo  ou  UPI"s  e  destino  dos  valores  realizados:  O  acórdão  recorrido  reconheceu  atendidos  os  critérios  legais  no  tocante  à  alienação  dos  bens  do  ativo,  destacando  que  a  cláusula  constante  no  plano  de  recuperação  aprovado  pelo  juízo  "trata  de  alienação  de  bens  prevista  no  artigo  66  da  Lei  nº  11.101/05  e  descreve  expressamente  a  destinação  dos  valores  a  serem  obtidos  a  partir  da  alienação."  A  revisão  dessas  conclusões  não  pode  ser  levada  a  efeito  por  esta  Corte  Superior  sem  a  reanálise  do  contexto  fático  probatório,  revelando-se  atraídos  os  enunciados  5  e  7/STJ.  Previsão  de  que  a  venda  de  ativo  da  sociedade  empresária  poderá  ser  utilizado  para  o  fomento  de  sua  atividade  e  no  sentido  de  superação  da  crise  na  verdade  entra  em  comunhão  com  os  objetivos  da  recuperação.  Inexistência  de  ilegalidade,  senão  consonância  com  os  fins  últimos  da  recuperação.
+5.  Requisito  quantitativo  de  aprovação:  Tendo  sido  quase  alcançada  a  aprovação  por  parte  dos  credores  presentes  na  assembleia  na  forma  do  art.  45  da  Lei  11.101/05,  o  juízo,  com  base  no  §1º  do  art.  58  da  referida  lei,  procedeu  ao  que  se  entendeu  por  bem  denominar  de  cram-down.  Não  há,  assim,  interesse  em  se  ver  reconhecida  a  afronta  ao  art.  45  da  Lei  11.101/05,  já  que  a  aprovação  do  plano  fora  levada  a  efeito  ante  o  cumprimento  dos  requisitos  previstos  no  art.  58.
+6.  Defeito  de  representação  do  Fundo  Invista:  Esta  Corte  Superior  não  tem  como  acatar  a  alegação  de  defeito  de  representação  do  Fundo  Invista  e,  assim,  reconhecer  a  afronta  ao  art.  37,  §4º,  sem  que  revise  os  documentos  segundo  os  quais  o  recorrente  embasa  a  sua  arguição,  providência  esta  vedada,  sabidamente,  pelo  óbice  do  enunciado  7/STJ.
+7  .  RECURSO  ESPECIAL  EM  PARTE  CONHECIDO  E  DESPROVIDO.  "
+  (REsp  1788216/PR,  Rel.  Min.  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  22/3/2022,  DJe  29/3/2022).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
