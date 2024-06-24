@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. INVIABILIDADE . AGRAVO INTERNO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 5 e 7 do STJ quando o acolhimento das teses defendidas no recurso especial, implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+2. A incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+3. Agravo interno desprovido.
+RELATÓRIO
+REINALDO BIGAL KOMATSU ME interpõe agravo interno contra a d ecisão de fls. 2.272-2.274, que não conheceu do agravo em recurso especial diante da aplicação analógica da Súmula n. 182 do STJ.
+Sustenta que impugnou os fundamentos da decisão que inadmitira o recurso especial.
+Afirma que, "Dos fundamentos da decisão agravada, não é objeto do enunciado da Súmula nº 7 do STJ. O debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, unicamente matéria de direito, não incorrendo, por conseguinte, com a regra ajustada no enunciado da Súmula nº 7 desta Corte Superior" (fl. 2.283).
+Aduz ainda (fl. 2.287):
+O caso em fomento traz à tona a norma cogente do artigo 32, § 4º da Lei nº 4.886/1965 a qual não deixa qualquer margem de interpretação ao consignar que "o representante comercial adquire o direito às comissões quando do pagamento dos pedidos ou propostas". E acima de tudo, "as comissões deverão ser calculadas pelo valor total das mercadorias", havendo inclusive os precedentes desta própria Corte que indicam claramente que em casos semelhantes a legislação deve prevalecer, sobretudo porque em contratos de representação não existe margem de negociação, ou seja, os contratos são impostos a trabalhadores que precisam do negócio jurídico para sustento familiar.
+Destarte, resta patente que orientação jurisprudencial predominante do Col. STJ é no sentido de que: a comissão paga aos representantes comerciais autônomos deve incidir sobre o valor bruto da nota fiscal, ou seja, o valor de venda da mercadoria ou serviço sem descontos de qualquer espécie.
+E nem se alegue que a norma poderia ser afastada por convenção das partes. Assim é em razão da natureza protetiva da norma em relação ao representante comercial, de modo que a lei de regência não comporta interpretação de modo a restringir ou reduzir os direitos do representante.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado para que dele conheça a fim de ser provido.
+Impugnação pela parte agravada às fls. 2.296-2.303.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. INVIABILIDADE . AGRAVO INTERNO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 5 e 7 do STJ quando o acolhimento das teses defendidas no recurso especial, implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+2. A incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+3. Agravo interno desprovido.
+VOTO
+Considerando a devida impugnação, na petição de agravo em recurso especial, da decisão que inadmitiu o recurso especial, reconsidero a decisão de fls. 2.272-2.274.
+Procedo, pois, a novo exame de admissibilidade do recurso especial.
+Ainda assim, a irresignação não reúne condições de prosperar.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão assim ementado (fls. 2.095-2.098):
+1) DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. CONTRATODE REPRESENTAÇÃO COMERCIAL. REDUÇÃO DA PORCENTAGEM DACOMISSÃO (6% PARA 4%). ANUÊNCIA DA REPRESENTANTE, COM A ASSINATURA DO QUARTO E QUINTO TERMOS ADITIVOS.
+CONTINUIDADE NA PRESTAÇÃO DOS SERVIÇOS, SEM INSURGÊNCIAS.
+a) No caso, o Autor (Representante Comercial) aceitou a redução da porcentagem de 6% (seis por cento) para 4% (quatro por cento), porque assinou os Termos Aditivos, bem como porque continuou a prestar os serviços com a observância dos novos porcentuais por subsequentes e continuados mais de 03 (três) anos.
+b) Portanto, mesmo após a alteração da porcentagem da comissão, o Autor-Representante Comercial continuou a representar a Ré por mais de03 (três) anos, interregno em que, recebeu de acordo com as novas porcentagens, sem ter se insurgindo contra elas. Assim agindo, tornou improcedente o pedido de indenização correspondente à diferença da porcentagem das comissões pagas
+c) É bem de ver, ainda, que os vícios de vontade devem ser demonstrados pela parte que o alega, ou seja, deve comprovar que, embora tenha agido de determinada forma, fê-lo sob coação, dolo, erro ou ignorância, estado de perigo, lesão ou fraude contra credores, nos termos dos artigos 138 e seguintes do Código Civil
+2) DIREITO CIVIL E DIREITO PROCESSUAL CIVIL.
+REPRESENTAÇÃO COMERCIAL. BASE DE CÁLCULO DAS COMISSÕESPREVISTA NO CONTRATO, QUE NÃO OBSERVA O DISPOSTO NA LEIFEDERAL Nº 4.888/1965 (ARTIGO 32, PARÁGRAFO 4º). COMISSÕESPAGAS A MENOR. ACEITAÇÃO, SEM RESSALVAS. INCIDÊNCIA DOPRINCÍPIO DA BOA-FÉ E DO INSTITUTO DA SUPRESSIO
+a) No caso, as partes firmaram, em 1º/03/2006, Contrato de Representação, e que no referido Contrato constava expressamente que a remuneração dar-se-ia por comissão sobre o valor da nota fiscal, descontados os respectivos impostos (Cláusula 4ª - itens 4.1 e 4.1.4),bem como que firmaram 05 (cinco) Termos Aditivos ao Contrato, em que mantiveram a Cláusula referente à base de cálculo da comissão, sem ressalvas.
+b) Portanto, que o Autor-Representante aceitou os termos do Contrato celebrado, bem como suas alterações, sem ressalvas, e permaneceu no exercício da Representação Comercial - por intermédio da empresa REINALDO BIGAL KOMATSU - por cerca de 06 (seis) anos, sem se insurgir contra o disposto na Cláusula 4ª (itens 4.1 e 4.1.4) do Contrato.
+c) E, pois, gerou a justa expectativa de que aceitava as condições firmadas e renovadas com a celebração dos Termos Aditivos, bem como que não se insurgiria em face da base de cálculo das comissões, até porque os negócios jurídicos devem ser interpretados, considerando a boa-fé (artigos 113 e 422 do Código Civil).
+d) Desse modo, considerando a livre pactuação, bem como o princípio da boa-fé, o contratante renuncia - ainda que tacitamente - a um direito quando não o exerce durante extenso decurso de prazo(instituto da supressio). E, pois, não tem direito, no caso, de exigir indenização a título de diferença da comissão paga em razão de a base de cálculo pactuada ter sido diferente daquela prevista no artigo o artigo 32, parágrafo 4º, da Lei Federal nº 4.886/1965.
+e) Sendo assim, o Autor-Representante Comercial aceitou a alteração da porcentagem da comissão, bem como aceitou a base de cálculo usada para calcular a comissão, o que afasta o direito alegado de receber indenização em virtude da diferença dos valores pagos. E, por consequência, ausente pagamento de valores menores daqueles devidos, inexiste justa causa para rescisão do Contrato.
+f) Destarte, considerando que o Autor-Representante Comercial pediu a rescisão de Contrato sem motivo justo, não terá direito a indenização de 1/12 prevista no artigo 27, "j", da Lei Federal nº 4.886/1965.
+g) Outrossim, nos termos do artigo 34, da Lei Federal nº 4.886/1965,somente nos casos de rescisão imotivada, o denunciante, caso não cumpra o Aviso Prévio, pagará a respectiva indenização. Todavia, no caso, considerando que denúncia do Contrato deu-se pelo Autor-Representante, inexistente direito de receber indenização concernente ao Aviso Prévio.
+3) APELO DA TESA BRASIL LTDA A QUE SE DÁ PROVIMENTO.
+APELO DE REINALDO BIGAL KOMATSU - ME A QUE SE NEGA PROVIMENTO.
+No recurso especial, a parte recorrente, além divergência jurisprudencial, aponta violação dos arts. 32, § 4º, 37, § 7º da Lei n. 4.886/1965; 113, 421, 422 e 424, do Código Civil; 489, § 1º, VI, e 927 do Código de Processo Civil.
+Aduz que "A violação ao artigo 32, §§ 4º e 7º da Lei nº 4.886/65, artigos 113, 421, 422 e 424 do Código Civil, artigos 489 e 927 do CPC, e jurisprudência dominante do STJ, traz insegurança jurídica e pode refletir em milhares de jurisdicionados, cujos processos estão sob a guarda dos tribunais locais" (fl. 2.128).
+Com relação à base de cálculo do valor das comissões, argumenta o seguinte (fls. 2.130-2.131):
+Se por um lado a sentença declarou que a cláusula 4.1.4 do contrato de representação comercial deveria ser declarada nula, pois violava a Lei nº 4.886/1965, de outro lado a 5ª Câmara Cível (TJPR), através de seus magistrados, observou que "o autor aceitou os termos do contrato celebrado, bem como suas alterações, sem ressalva, e permaneceu no exercício da representação comercial por cerca de 06 (seis) anos, sem se insurgir contra o disposto na cláusula 4ª do contrato. E, pois, gerou a justa expectativa de que aceitava as condições firmadas e renovadas com a celebração dos termos aditivos, bem como que não se insurgiria em face da base de cálculo das comissões".
+Em síntese, concluiu-se no tribunal local a ideia de que a autonomia da vontade e a previsão contratual(adesão) devem prevalecer diante de norma específica.
+O problema é que referido entendimento foi equivocado, sob dois prismas: i)o artigo 32, § 4º da Lei nº 4.886/1965 não deixa qualquer margem de interpretação ao consignar que "o representante comercial adquire o direito às comissões quando do pagamento dos pedidos ou propostas". E acima de tudo, "as comissões deverão ser calculadas pelo valor total das mercadorias"; ii) os precedentes do STJ indicam claramente que em casos semelhantes a legislação deve prevalecer, sobretudo porque em contratos de representação não existe margem de negociação, ou seja, os contratos são impostos a trabalhadores que precisam do negócio jurídico para sustento familiar.
+Defende a inexistência do óbice da Súmula n. 7 do STJ e a realização do cotejo analítico.
+Requer o acolhimento das razões expostas para que seja admitido o recurso especial.
+É o relatório.
+O recurso não reúne condições de prosperar.
+No caso, o acórdão recorrido, ao fundamentar a solução da controvérsia, explicitou inicialmente o seguinte (fl. 2.104):
+Da análise do caso, observa-se que a relação existente entre as partes é regida por Contrato de Representação Comercial (mov. 30.55/30.56 dos autos originários), regulado por legislação específica, Lei Federal nº 4.886/1965.
+Ao tratar das circunstâncias fáticas, inclusive temporais, das provas dos autos e das cláusulas contratuais, adotou estas razões (fls. 2.113-2.116):
+Vale dizer, portanto, que o Autor-Representante aceitou os termos do Contrato celebrado, bem como suas alterações, sem ressalva, e permaneceu no exercício da Representação Comercial - por intermédio da empresa REINALDO BIGAL KOMATSU - por cerca de 06 (seis) anos, sem se insurgir contra o disposto na Cláusula 4ª (itens 4.1 e 4.1.4), do Contrato.
+E, pois, gerou a justa expectativa de que aceitava as condições firmadas e renovadas com a celebração dos Termos Aditivos, bem como que não se insurgiria em face da base de cálculo das comissões, até porque os nos negócios jurídicos devem ser interpretados, considerando o princípio da boa-fé (artigos 113 e 422 do Código Civil).
+Desse modo, considerando a livre pactuação, bem como o princípio da boa-fé, entende-se que a parte renuncia - ainda que tacitamente - a um direito quando não o exerce durante o decurso de prazo extenso (instituto da ). E, pois, não tem direito de exigir supressio indenização a título da diferença da comissão paga em razão da base de cálculo pactuada ser diferente da base de cálculo prevista no artigo o artigo 32, parágrafo 4º, da Lei Federal nº 4.886/1965.
+ ..
+Conforme exposto, nos itens anteriores, o Autor aceitou a alteração do índice de comissão, bem como aceitou a base de cálculo usada para calcular a comissão, o que afasta o direito alegado de receber indenização em virtude da diferença dos valores pagos. E, por consequência, ausente pagamento de valores menores daqueles devidos, inexistente justa causa para rescisão do Contrato.
+Desse modo, considerando que o Representante Comercial pediu a rescisão de Contratos em motivo justo, não terá direito a indenização de 1/12 prevista no artigo 27, "j", da Lei Federal nº 4.886/1965.
+Nesse contexto, a aplicação das Súmulas n. 5 e 7 do STJ é medida que se impõe, uma vez que, para rever a conclusão adotada na origem e, por conseguinte, acolher as teses defendidas pela parte ora recorrente, seria imprescindível a análise de cláusulas contratuais com como o reexame de matéria fático-probatória dos autos, o que é vedado em recurso especial.
+Por fim, quanto à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre a parte, visto que a tese arguida com base na alínea a do permissivo constitucional foi afastada pela aplicação da Súmula n. 7 do STJ, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
