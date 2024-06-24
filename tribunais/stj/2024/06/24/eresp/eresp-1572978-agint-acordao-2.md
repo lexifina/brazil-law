@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. DIFERENÇA DE 3,17% DEVIDA AOS SERVIDORES. REESTRUTURAÇÃO DA CARREIRA. COMPENSAÇÃO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL. POSTERIOR REFORMA DO JULGADO. BOA-FÉ. CARÁTER ALIMENTAR. DEVOLUÇÃO. IMPOSSIBILIDADE. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+1. Na origem, trata-se de exceção de pré-executividade objetivando a extinção da execução e autorização para cancelamento das incorporações em folha, com desconto no contracheque para fins de reposição ao erário, em razão da absorção do reajuste de 3,17% pelas sucessivas reestruturações da carreira dos servidores, parcialmente acolhida.
+2. Em segunda instância, o Tribunal Regional negou provimento aos recursos das partes e acolheu parcialmente os embargos de declaração opostos pelo Sindicato, sem efeitos infringentes.
+3. Nesta Corte, decisão que negou provimento ao recurso especial, em razão de o entendimento firmado no acórdão recorrido estar em conformidade com a jurisprudência desta Corte.
+4. Em relação à restituição do quantum recebido indevidamente, a Primeira Seção desta Corte, no julgamento do REsp 1.244.182/PB, em seção do dia 10/10/2012, submetido ao rito dos recursos repetitivos (art. 543-C do CPC), confirmou o entendimento de que não é cabível a devolução de valores percebidos por servidor público de boa-fé devido à interpretação errônea, à má aplicação da lei ou, ainda, a erro da Administração, em virtude da presunção de boa-fé do servidor público.
+5. Consoante relatado pela Corte a quo, as peculiaridades do caso evidenciam que o pagamento dos valores ocorreram por força de decisão judicial definitiva. Assim, ainda que "o título judicial transitado em julgado for, posteriormente, rescindido, as parcelas pagas não são passíveis de devolução, ante o caráter alimentar dessa verba" (AgInt no REsp n. 1.891.181/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023).
+6. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL - UFRGS contra decisão que conheceu do agravo para negar provimento ao recurso especial, em razão de o entendimento firmado no acórdão recorrido estar em conformidade com a jurisprudência desta Corte (fls. 1581-1589).
+Inconformada, sustenta a Parte agravante, em síntese, a "inaplicabilidade das decisões relativas a erro administrativo", visto que os valores recebidos pelos servidores foram em razão de decisão judicial posteriormente reformada (fl. 1593).
+Pugna, assim, pela reconsideração da decisão agravada ou pela apresentação do recurso para a análise do Órgão Colegiado, a fim de que seja provido o recurso interposto pela Parte recorrente.
+Devidamente intimada, a parte agravada apresentou contrarrazões (fls. 1624-1631).
+Petição n. 01029801/2023, às fls. 1647-1648, apresentando memoriais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. DIFERENÇA DE 3,17% DEVIDA AOS SERVIDORES. REESTRUTURAÇÃO DA CARREIRA. COMPENSAÇÃO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL. POSTERIOR REFORMA DO JULGADO. BOA-FÉ. CARÁTER ALIMENTAR. DEVOLUÇÃO. IMPOSSIBILIDADE. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+1. Na origem, trata-se de exceção de pré-executividade objetivando a extinção da execução e autorização para cancelamento das incorporações em folha, com desconto no contracheque para fins de reposição ao erário, em razão da absorção do reajuste de 3,17% pelas sucessivas reestruturações da carreira dos servidores, parcialmente acolhida.
+2. Em segunda instância, o Tribunal Regional negou provimento aos recursos das partes e acolheu parcialmente os embargos de declaração opostos pelo Sindicato, sem efeitos infringentes.
+3. Nesta Corte, decisão que negou provimento ao recurso especial, em razão de o entendimento firmado no acórdão recorrido estar em conformidade com a jurisprudência desta Corte.
+4. Em relação à restituição do quantum recebido indevidamente, a Primeira Seção desta Corte, no julgamento do REsp 1.244.182/PB, em seção do dia 10/10/2012, submetido ao rito dos recursos repetitivos (art. 543-C do CPC), confirmou o entendimento de que não é cabível a devolução de valores percebidos por servidor público de boa-fé devido à interpretação errônea, à má aplicação da lei ou, ainda, a erro da Administração, em virtude da presunção de boa-fé do servidor público.
+5. Consoante relatado pela Corte a quo, as peculiaridades do caso evidenciam que o pagamento dos valores ocorreram por força de decisão judicial definitiva. Assim, ainda que "o título judicial transitado em julgado for, posteriormente, rescindido, as parcelas pagas não são passíveis de devolução, ante o caráter alimentar dessa verba" (AgInt no REsp n. 1.891.181/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023).
+6. Agravo desprovido.
+VOTO
+Não obstante os combativos argumentos da Parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de exceção de pré-executividade objetivando a extinção da execução e autorização para cancelamento das incorporações em folha, com desconto no contracheque para fins de reposição ao erário, em razão da absorção do reajuste de 3,17% pelas sucessivas reestruturações da carreira dos servidores, parcialmente acolhida (fls. 1016-1025).
+Interpostas apelações, o Tribunal Regional negou provimento aos recursos (fls. 1335-1345). Os embargos de declaração opostos foram parcialmente acolhidos, sem efeitos infringentes (fls. 1382-1389).
+Nas razões do recurso especial interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a Parte autora apontou violação dos arts. 46 e 114 da Lei n. 8.112/1990, 884 e 876 do Código Civil (fls. 1463-1469).
+A então relatora, Ministra Assusete Magalhães, proferiu decisão conhecendo do agravo para negar provimento ao recurso especial, em razão de o entendimento firmado no acórdão recorrido estar em conformidade com a jurisprudência desta Corte (fls. 1581-1589), julgado que ora mantenho.
+Conforme consignado no decisum agravado, em relação à restituição do quantum recebido indevidamente, a Primeira Seção desta Corte, no julgamento do REsp 1.244.182/PB, em seção do dia 10/10/2012, submetido ao rito dos recursos repetitivos (art. 543-C do CPC), confirmou o entendimento de que não é cabível a devolução de valores percebidos por servidor público de boa-fé devido à interpretação errônea, à má aplicação da lei ou, ainda, a erro da Administração, em virtude da presunção de boa-fé do servidor público.
+Confira-se a ementa do referido julgado:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ART. 46, CAPUT, DA LEI N. 8.112/90 VALORES RECEBIDOS INDEVIDAMENTE POR INTERPRETAÇÃO ERRÔNEA DE LEI. IMPOSSIBILIDADE DE RESTITUIÇÃO. BOA-FÉ DO ADMINISTRADO. RECURSO SUBMETIDO AO REGIME PREVISTO NO ARTIGO 543-C DO CPC.
+1. A discussão dos autos visa definir a possibilidade de devolução ao erário dos valores recebidos de boa-fé pelo servidor público, quando pagos indevidamente pela Administração Pública, em função de interpretação equivocada de lei.
+2. O art. 46, caput, da Lei n. 8.112/90 deve ser interpretado com alguns temperamentos, mormente em decorrência de princípios gerais do direito, como a boa-fé.
+3. Com base nisso, quando a Administração Pública interpreta erroneamente uma lei, resultando em pagamento indevido ao servidor, cria-se uma falsa expectativa de que os valores recebidos são legais e definitivos, impedindo, assim, que ocorra desconto dos mesmos, ante a boa-fé do servidor público.
+4. Recurso afetado à Seção, por ser representativo de controvérsia, submetido a regime do artigo 543-C do CPC e da Resolução 8/STJ.5. Recurso especial não provido" (REsp 1.244.182/PB, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe de 19/10/2012).
+Cumpre asseverar que, consoante relatado pela Corte a quo, as peculiaridades do caso evidenciam que o pagamento dos valores ocorreram por força de decisão judicial definitiva. Assim, ainda que "o título judicial transitado em julgado for, posteriormente, rescindido, as parcelas pagas não são passíveis de devolução, ante o caráter alimentar dessa verba" (AgInt no REsp n. 1.891.181/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023).
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. SUSPENSÃO. DESCABIMENTO. DECISÃO TRANSITADA EM JULGADO. MODIFICAÇÃO POR RESCISÓRIA. DEVOLUÇÃO DE VALORES PAGOS. IMPOSSIBILIDADE.
+1. Descabe falar em sobrestamento do feito se não coincide com o caso concreto o tema objeto da PET 12.482/DF - devolução de valores recebidos em razão de tutela antecipada, posteriormente revogada.
+2. Hipótese em que o segurado recebeu, em pagamento, valores referentes a benefício previdenciário por força de decisão judicial definitiva, situação que se ajusta à orientação firmada por esta Corte, no sentido de que, se o título judicial transitado em julgado for, posteriormente, rescindido, as parcelas pagas não são passíveis de devolução, ante o caráter alimentar dessa verba.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.935.200/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Incide, portanto, o Verbete Sumular n. 83 desta Corte.
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
