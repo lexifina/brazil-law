@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO DOS SANTOS LOPES contra decisão que não admitiu recurso especial fundamentado na alínea "c" do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (e-STJ fl. 392):
+APELAÇÃO CRIMINAL. DIREITO PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO PELO ABUSO DE CONFIANÇA. VÍNCULO EMPREGATÍCIO. SUBTRAÇÃO DE CARTÕES BANCÁRIOS NA RESIDÊNCIA ONDE O AGENTE EXERCE O OFÍCIO DE CUIDADOR DE IDOSOS. EXISTÊNCIA PRÉVIA DE CREDIBILIDADE. CONFIGURAÇÃO. AFASTAMENTO DA QUALIFICADORA. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+1. Deve ser mantida a qualificadora prevista no artigo 155, §4º, inciso II, do Código Penal, quando o réu, valendo-se do ofício de cuidador de idosos e da confiança que lhe foi conferida, subtrai cartões bancários na residência em que trabalha.
+2. Apelação criminal conhecida e não provida.
+O agravante foi condenado às penas de 02 (dois) anos de reclusão, em regime aberto, além do pagamento de 10 (dez) dias-multa, pela prática do crime previsto no art. 155, § 4º, II, do Código Penal, substituída a pena privativa de liberdade por duas restritivas de direitos.
+O Tribunal de origem negou provimento ao apelo da Defesa.
+Nas razões do recurso especial, fundamentado apenas na alínea "c" do dispositivo constitucional, o agravante alega dissídio jurisprudencial, uma vez que o acórdão recorrido divergiu da interpretação dada pelo Tribunal de Justiça de Minas Gerais sobre a incidência da qualificadora do abuso de confiança no crime de furto. Alega, para tanto, que a mera existência de vínculo empregatício entre o réu e a vítima não é suficiente para configurar a qualificadora do abuso de confiança no crime de furto .
+Contrarrazões apresentadas às e-STJ fls. 442-444.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula n. 7/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 447-448).
+Parecer do Ministério Público Federal exarado às e-STJ fls. 480-482.
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No que diz respeito ao dissídio jurisprudencial relativo à qualificadora do abuso de confiança no crime de furto, o conhecimento do recurso especial encontra óbice evidente. Com efeito, para a delimitação da controvérsia, impõe-se que a Parte Recorrente indique nas razões do recurso especial, expressa e literalmente, qual o dispositivo da lei federal reputa contrariado ou cuja vigência teria sido negada pelo acórdão recorrido. O descumprimento de tal ônus, como ocorre nos autos, evidencia deficiência de fundamentação e atrai a incidência da Súmula n. 284/STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. ACÓRDÃO DE HABEAS CORPUS APONTADO COMO PARADIGMA, IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Não basta, para tanto, a menção en passant a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação. Desse modo, a incidência da Súmula 284 do STF é medida que se impõe.
+2. Não se revela cognoscível a interposição do recurso com base na alínea "c" do art. 105, inciso III, da Constituição da República, quando a demonstração do dissídio interpretativo se restringe à mera transcrição dos acórdãos tidos por paradigmas.
+3. A jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência 4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.509.469/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/3/2024, DJe de 5/4/2024; grifamos).
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. DESVIO DE RENDAS PÚBLICAS. DECRETO-LEI 201/1967. REVISÃO CRIMINAL. PRETENSÃO DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA 284 DO STJ. PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA PREJUDICADO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL, NÃO PROVIDO.
+1. Os embargos de declaração não se prestam ao propósito de reapreciação da causa. Em respeito ao princípio da fungibilidade, o recurso integrativo deve ser recebido como agravo regimental.
+2. O conhecimento do recurso especial interposto com fundamento na alínea "c" do inciso III do art. 105 da Constituição Federal exige a indicação do dispositivo legal que supostamente foi objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284 do STF.
+3. Mantida a decisão que não conheceu do recurso especial, fica prejudicado o pedido incidental de tutela provisória.4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp n. 1.679.473/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/9/2020, DJe de 9/9/2020; grifamos).
+Nas razões do recurso especial, a parte recorrente não indicou qual seria o dispositivo de lei federal objeto de interpretação controvertida nos tribunais, providência exigida por esta Corte Superior para o conhecimento dos recursos especiais interpostos com fundamento na alínea " c" do art. 105, III, da Constituição Federal.
+Ante o exposto, conheço do agravo para não con hecer do recurso especial.
+Publique-se e intimem-se.
+ EMENTA
