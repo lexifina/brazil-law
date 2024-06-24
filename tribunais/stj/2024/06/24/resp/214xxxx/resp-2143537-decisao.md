@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/PR, assim ementado (fl. 768):
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PEDIDO DE ATRIBUIÇÃO DE DUPLO EFEITO AO APELO. EMBARGOS JULGADOS IMPROCEDENTES. PEDIDO PARA QUE O RECURSO SEJA RECEBIDO APENAS NO EFEITO DEVOLUTIVO. IMPOSSIBILIDADE. APLICAÇÃO DO 1012, INC. III, DO CPC/15. MÉRITO. PEDIDO DE APLICAÇÃO DA REGRA DO ART. 32, §2º, DA LEI Nº 6.830/80 - LEF. POSSIBILIDADE. LEVANTAMENTO DOS VALORES DEPOSITADOS EM GARANTIA DO JUÍZO QUE ESTÁ CONDICIONADO AO TRÂNSITO EM JULGADO DOS EMBARGOS. NULIDADE DA CDA. NÃO CARACTERIZADA. INFORMAÇÕES SUFICIENTES AO EXERCÍCIO DO DIREITO DE DEFESA.. ISS SOBRE OPERAÇÕES BANCÁRIAS. LISTA DE SERVIÇOS ANEXA À LEI COMPLEMENTAR Nº 116/2003. POSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA E ANALÓGICA. SÚMULA 424 DO STJ. TARIFA DE ADIANTAMENTO A DEPOSITANTES. SERVIÇO DESCRITO NA RESOLUÇÃO Nº 3.371/2007, ITEM 4.1, DO BACEN. SERVIÇO CONGÊNERE AOS CONSTANTES NO ITEM 15.8 DA LISTA ANEXA À LEI COMPLEMENTAR Nº 116 /2003. POSSIBILIDADE DE INCIDÊNCIA DE ISS. CITA RECENTES PRECEDENTES DESTE e. TRIBUNAL DE JUSTIÇA. MULTA DE 40%. CARÁTER CONFISCATÓRIO NÃO EVIDENCIADO. PRECEDENTES. SENTENÇA MANTIDA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. MAJORAÇÃO. INCIDÊNCIA DO ART. 85, § 11, CPC/2015. RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa ao artigo 85, §§ 2º e 13, sob o argumento de que a Corte de Origem procedeu a majoração dos honorários recursais de forma equitativa, sendo que não se tratando de valor inestimável ou irrisório, nem mesmo causa de valor muito baixo, devem ser fixados honorários em fase recursal em observância ao art. 85 parágrafos 2º, e 13º do CPC/15.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 835/837.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito ao artigo 85, §§ 2º e 13, e sua respectiva tese de que não caberia, in casu, a majoração dos honorários recursais de forma equitativa, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Por fim, evidencia-se que o artigo 85, §§ 2º e 13, não contém comando normativo capaz de infirmar o juízo formulado no acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXAME DE VIOLAÇÃO DE SÚMULA EM RECURSO ESPECIAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
