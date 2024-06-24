@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo, interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+No apelo nobre, interposto com fulcro nas alíneas a e c do permissivo constitucional, é apontada violação do art. 28 da Lei 11.343/2006, alegando-se ausência de provas do tráfico de drogas, razão pela qual se pretende a desclassificação da conduta, para a posse de entorpecentes (mormente porque foram apreendidos 15,40g de crack).
+No presente reclamo, a defesa compreende não ser o caso de incidência do supracitado óbice sumular, ao entendimento de que não há necessidade de revolvimento fático-probatório. Repisa que "foram apreendidas ínfimas 15,40g do entorpecente crack, que o recorrente havia comprado para usar. " (fl. 429).
+Requer o conhecimento e provimento do agravo, para o conhecimento e provimento do recurso especial, de modo que se desclassifique a conduta delitiva para aquela prevista no art. 28 da Lei de Drogas.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Ao julgar a apelação, o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ entendeu estarem presentes elementos suficientes a sustentar uma condenação por infração ao art. 33, da Lei 11.343/2006, e não pelo como incurso no art. 28 da mesma Lei, tendo acórdão restado assim fundamentado (fl. 357):
+Diante do acervo probatório, em especial dos depoimentos dos policiais ouvidos, tanto perante a autoridade policial, quanto em Juízo, não restam dúvidas acerca da autoria do crime.
+Entendo que resta devidamente demonstrada a materialidade delitiva com o auto de apreensão de fl. 7, bem como com os laudos periciais de fls. 36 e 232-234.
+Por mais que a defesa afirme que não há provas suficientes de que o acusado praticava o crime pelo qual foi denunciado, não há como acolher a tese defensiva no sentido de desclassificar o crime para o previsto no art. 28 da Lei 11.343/2006, pois, como visto, o conjunto probatório mostra-se uníssono e demasiadamente forte, apto a ensejar o decreto condenatório, inexistindo dúvidas razoáveis acerca da traficância.
+O material encontrado em poder do acusado, 79 (setenta e nove) pedras de crack, bem como de certa quantidade de dinheiro trocado, o qual estava escondido em um compartimento do veículo conduzido pelo réu, indica que os entorpecentes seriam destinados para a comercialização. Mesmo que o apelante só transportasse a droga, ficaria devidamente configurada a prática do crime previsto no art. 33, caput, da Lei 11.343/2006, assim descrita:
+ .. .
+A versão dos fatos apresentada pelo apelante em Juízo é pouco crível e encontra-se isolada nos autos, não restando dúvidas de que ele praticava crime de tráfico de drogas.
+A grande quantidade de pedras de crack encontradas em poder do apelante é incompatível com o mero uso de drogas.
+Com efeito, da leitura do excerto acima transcrito, verifica-se que o Tribunal de origem, soberano na reanálise dos fatos e das provas, concluiu pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório.
+Ainda se observa do acórdão impugnado o depoimento do policial militar Francisco Antônio o qual destacou que ele e os demais agentes da lei "foram atender uma denúncia de disparos de arma de fogo em um bairro da cidade, quando encontraram um veiculo estacionado próximo a um salão de beleza, ocupado por três adultos e uma criança, no qual encontraram, em vistoria, drogas escondidas num compartimento atrás do porta-luvas, mencionando que havia crack, mas refutando a localização de armas de fogo ou outros objetos relacionados ao tráfico de drogas, de modo que os ocupantes do veiculo foram conduzidos à delegacia, destacando ainda que Bruno Pereira dos Santos já fora preso por fatos semelhantes." (fl. 356).
+Nesse aspecto, desconstituir o julgado, buscando uma desclassificação da conduta criminosa analisada na origem, não encontra amparo na via eleita, dada a necessidade de revolvimento do conjunto fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7/STJ.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. INGRESSO NA RESIDÊNCIA DE UM DOS ACUSADOS. FUNDADAS RAZÕES. POSSIBILIDADE. ARGUIÇÃO DE NULIDADE. OFENSA AO PRINCÍPIO DA NÃO AUTOINCRIMINAÇÃO. NÃO OCORRÊNCIA. ADEMAIS, CONDENAÇÃO AMPARADA EM OUTRAS PROVAS. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DO DELITO PARA USO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. EXACERBAÇÃO DA PENA-BASE. QUANTIDADE DOS ENTORPECENTES. AUMENTO PROPORCIONAL. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+6. No que tange ao pleito de absolvição ou desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas (uma porção de maconha e mais uma barra da mesma substância, pesando mais de 2 kg, além de pontos de LSD), mas também diante da prova testemunhal e circunstâncias da apreensão.
+7. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição ou desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+ ..
+17. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.917.106/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
