@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REFIS-DF. ADESÃO. LEIS DISTRITAIS. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DE SEGURANÇA. CONCLUSÃO DA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 07/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Não cabe a esta Corte, em Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+IV - Rever o entendimento da Corte a qua acerca da ausência dos requisitos autorizadores da concessão da segurança demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+V - Em regra, descabe a i mposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por GRUPO OK CONSTRUCOES E INCORPORACOES LTDA contra a decisão monocrática de minha lavra que conheceu em parte do Recurso Especial e lhe negou provimento, fundamentada na: i. ausência de violação aos arts. 489 e 1.022 do CPC/15; ii. incidência, por analogia, da Súmula n. 280, do Supremo Tribunal Federal; e iii. aplicação da Súmula n. 7, do Superior Tribunal de Justiça.
+Sustenta a Agravante, em síntese, o seguinte (fls. 982/997e):
+Com efeito, o Agravante demonstrou de forma clara e inequívoca que o acórdão então embargado violou os dispostos nos arts. 489 e 1.022 do Código de Processo Civil, eis que, ocorrendo omissão, obscuridade e contradição sobre pontos fundamentais para o deslinde da questão, principalmente no que se refere a Lei Complementar n. 976/2020 que foi minimamente alterada pela Lei n. 983/2021, violando, sobremaneira, o Código Tributário Nacional - CTN, quedando-se inerte quanto à entrega da prestação jurisdicional que lhe cabia.
+( )
+Isso porque, verificou-se que o acórdão foi contraditório e obscuro quanto ao pleito do Agravante do pedido para a concessão do benefício de redução referente a redução do artigo 42 da Lei Complementar n. 004, de 1994, conforme expressamente disposto no artigo 3º da Lei Complementar 976/2020, promovendo-se inclusive, a readequação dos valores cobrados, inclusive os referentes à entrada prevista pelo § 7º do artigo 7º da Lei Complementar nº 976/2020.
+( )
+Não obstante, revelou-se contraditório o acórdão, uma vez que ao contrário do que afirmado, a LC nº 976/2020 expressamente prevê, em seu artigo 3º, que o débito incentivado, é o montante obtido pela (i) soma dos valores referentes ao principal atualizado, reduzido, quando for ocaso; (ii) aos juros de mora reduzidos; (iii) à multa reduzida, inclusive a de caráter moratório e por descumprimento de obrigação acessória e principal; (iv)e aos demais acréscimos previstos na legislação específica.
+( )
+É de se ressaltar que, ao contrário do que assevera a r. decisão vergastada, no caso sub judice não se aplica o enunciado 280 da Súmula do STF.
+Data vênia, a decisão agravada está equivocada, visto que o Agravante não alegou violação a direito local, mas, sim, violação a direito federal, qual seja, artigos 1º da Lei 12.016/2009, 145 e 149, ambos do CTN, 3º, §2º, da Lei Complementar 976/2020, e 42, §1º, da Lei Complementar 004/1994.
+Ressalte-se que o acórdão recorrido decidiu a controvérsia com base em dispositivos federais, ao contrário do consignado na decisão agravada, o argumento da lei local foi mencionado no recurso à título de reforço de argumentação e, não, como cerne e sustentáculo principal, porquanto o regramento federal é superior hierárquico ao direito local mencionado.
+( )
+Efetivamente, a matéria que ora se coloca a apreciação desta Colenda Corte é eminentemente de direito, não ensejando qualquer reexame de provas, porque todo o conteúdo fático foi devidamente delimitado no acórdão, sendo a sua leitura suficiente para que esta e. Corte visualize as violações acima demonstradas, não sendo necessário qualquer revolvimento de matéria fática. Tudo o que se quer é que seja examinado o equivocado entendimento da Corte de Origem.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 1.006/1.013e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REFIS-DF. ADESÃO. LEIS DISTRITAIS. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DE SEGURANÇA. CONCLUSÃO DA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 07/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Não cabe a esta Corte, em Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+IV - Rever o entendimento da Corte a qua acerca da ausência dos requisitos autorizadores da concessão da segurança demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+V - Em regra, descabe a i mposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+- DA OMISSÃO, DA CONTRADIÇÃO E DA DEFICIÊNCIA DE FUNDAMENTAÇÃO, SUPOSTA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL
+A Agravante sustenta omisso, contraditório e deficiente o julgado recorrido, vícios não sanados no julgamento dos embargos de declaração, porquanto a Corte de origem não se debruçou sobre o art. 42, §1º, da Lei Complementar Distrital n. 004/1994 e fora obscura/contraditória ao dificultar a discussão acerca da aplicação das normas do parcelamento e dos benefícios estabelecidos pela Lei Complementar n. 976/2020.
+Ao prolatar o acórdão mediante o qual os embargos de declaração foram analisados, o tribunal de origem enfrentou a controvérsia no seguinte sentido (fls. 678/684e):
+O Apelante não tem direito líquido e certo à redução do débito tributário. Como bem ponderado na r. sentença recorrida:
+"O impetrante questiona ato administrativo que indeferiu o pedido de aplicação ao seu débito de redução prevista no artigo 3º da Lei Complementar n.º 976/2021, sobre o acréscimo previsto no artigo 42, § 1º da Lei Complementar n.º 004/94.
+Vejamos:
+Lei Complementar nº 976/2020 - DF:
+"Art. 3º Considera-se débito incentivado, para efeito do disposto nesta Lei Complementar, o montante obtido pela soma dos valores referentes ao principal atualizado, reduzido, quando for ocaso; aos juros de mora reduzidos; à multa reduzida, inclusive a de caráter moratório e por descumprimento de obrigação acessória e principal; e aos demais acréscimos previstos na legislação específica.
+nas seguintes proporções:
+a) 95% do seu valor, para pagamento à vista ou em até 5 parcelas;
+b) 90% do seu valor, para pagamento em 6 a 12 parcelas,
+c) 80% do seu valor, para pagamento em 13 a 24 parcelas;
+d) 70% do seu valor, para pagamento em 25 a 36 parcelas;
+e) 60% do seu valor, para pagamento em 37 a 48 parcelas;
+f) 55% do seu valor, para pagamento em 49 a 60 parcelas;
+g) 50% do seu valor, para pagamento em 61 a 120 parcelas;
+Lei Complementar 004/94:
+Art. 42. O crédito inscrito em dívida ativa é cobrado:
+ ..
+§ 1º Acrescenta-se, quando da inscrição de crédito em dívida ativa, quantia correspondente a 10% de seu valor para atender às despesas com sua cobrança e honorários advocatícios" Na hipótese, o embargante alega que o acréscimo de 10% do valor da dívida ativa para atender as despesas com sua cobrança e honorários advocatícios (previsto no §1º do art. 42 da Lei Complementar 004/94) deve sofrer redução quando o contribuinte adere ao REFIS, tal como preconizado pelo artigo 3º da Lei Complementar 976/2020.
+As alegações, contudo, não merecerem prosperar.
+Conforme as informações prestadas pela autoridade coatora (ID 97694634 - pág. 1), o pedido do impetrante de redução do acréscimo legal estabelecido pelo art. 42, § 1º, da Lei Complementar 004/94, foi indeferido por ausência de autorização legal, tendo em vista que o acréscimo questionado tem natureza diferenciada dos demais, pois incide sobre o total do débito.
+Com efeito, assiste razão ao impetrado quando afirma que, enquanto as demais reduções previstas na Lei do REFIS alteram o valor do débito constituído, o acréscimo de 10%, previsto no artigo 42 da LC nº 04/1994 incide por fora, de forma que este será automaticamente reduzido conforme a sua base de cálculo ou incidência seja reduzida.
+Observe (ID 97694634 - Pág. 2):
+" ..  Note-se, a redação do art. 3º da LC nº 976/2020, diz que o débito incentivado é composto da SOMA de: principal reduzido (quando for o caso)  juros de mora reduzidos  multa reduzida  demais encargos previstos da legislação específica.
+Logo, quando somamos (principal reduzido (quando for o caso)  juros de mora reduzidos  multa reduzida), a aplicação dos 10% incidentes sobre esse total fica automaticamente reduzido, porque a sua base de incidência está com os descontos.
+Dessa forma, em obediência à legislação supracitada, foram concedidos apenas as reduções previstas em lei sobre juros e multa e proporcionalmente aos 10% aplicados nos termos do art. 42 da LC nº 04/1994".
+A norma do art. 42, §1º diz que os encargos de 10% são acrescidos, isto é, incidem sobre os valores inscritos em dívidas ativa, ou seja, principal, juros e multas.
+aos encargos também será reduzido.
+Em outras palavras, a redução nos encargos previstos no art. 42, §1º da LC 004/94, vindicada pela impetrante, já lhe foi concedida automaticamente, no mesmo momento em que homologado o seu pedido de adesão ao REFIS/2020, com redução dos valores principais, juros e multas.
+Logo, diante da legalidade do ato administrativo questionado, bem como pela ausência do alegado direito líquido e certo da parte impetrante, a REJEIÇÃO DA SEGURANÇA é medida que se impõe."
+O Apelante renunciou a qualquer direito relativo ao débito tributário ao aderir ao Programa de Incentivo à Regularização Fiscal do Distrito Federal - REFIS DF 2020, instituído pela Lei Complementar Distrital 976/2020, cujos artigos 2º, caput, e 5º, incisos II e III, dispõem:
+"Art. 2º Fica instituído o Programa de Incentivo à Regularização Fiscal do Distrito Federal - Refis-DF 2020, destinado a incentivar a regularização de débitos tributários ou não, constituídos ou não, inscritos ou não em dívida ativa, ajuizados ou não, na forma e nas condições estabelecidas nesta Lei Complementar.
+(..)
+Art. 5º A adesão ao Refis-DF 2020, em qualquer das modalidades de extinção do crédito tributário previstas nesta Lei Complementar, fica condicionada:
+(..)
+II - à desistência e à renúncia expressas, nas esferas administrativa e judicial, a qualquer direito de ação, impugnação ou recurso relativo ao débito a ser quitado, inclusive debate sobre os critérios prévios de atualização de débitos distritais, cabendo ao devedor arcar com o pagamento das custas judiciais e honorários advocatícios;
+III - à aceitação plena e irrestrita de todas as condições estabelecidas nesta Lei Complementar e em regulamento específico;"
+Trata-se de renúncia plenamente válida que obsta a pretensão de redução do débito tributário reconhecido. A propósito, decidiu esta Corte de Justiça:
+ ..
+Ademais, o acréscimo de que cuida o artigo 42, § 1º, da Lei Complementar Distrital 4/1994, tem natureza instrumental porque objetiva "atender às despesas com sua cobrança e honorários advocatícios", da maneira que não é abrangido pela redução prevista no artigo 3º da Lei Complementar Distrital 976/2020. Como bem pontuado nas informações prestadas pela autoridade coatora:
+"Após o ingresso, o impetrante postulou administrativamente, através do Atendimento Virtual nº 20210305-47582, o direito ao gozo da redução do acréscimo legal estabelecido pelo art. 42, § 1º, da Lei Complementar 004/94, tendo o pleito sido indeferido por ausência de autorização legal, tendo em vista que o acréscimo questionado tem natureza diferenciada dos demais, pois incide sobre o total do débito. que este será automaticamente reduzido conforme a sua base de cálculo ou incidência, de forma que a impetrante, embora não tenha percebido, já foi atendida.
+Note-se, a redação do art. 3º da LC nº 976/2020, diz que o débito incentivado é composto da SOMA de: principal reduzido (quando for o caso)  juros de mora reduzidos  multa reduzida  demais encargos previstos da legislação específica.
+Logo, quando somamos (principal reduzido (quando for o caso)  juros de mora reduzidos  multa reduzida), a aplicação dos 10% incidentes sobre esse total fica automaticamente reduzido, porque a sua base de incidência está com os descontos. (..)Dessa forma, em obediência à legislação supracitada, foram concedidos apenas as reduções previstas em lei sobre juros e multa e proporcionalmente aos 10% aplicados nos termos do art. 42 da LC nº 04/1994."
+Tanto que o artigo 4º da Lei Complementar Distrital 976/2020, ao definir os critérios para a redução do débito tributário, faz menção apenas ao "principal", "juros" e "multas", não fazendo qualquer alusão a qualquer outro acréscimo. Reza esse dispositivo legal:  ..  O que se tem é que a redução do débito tributário, por força da adesão ao REFIS, importa na redução do valor efetivamente cobrado para cobrir despesas e honorários advocatícios, não havendo que se cogitar da redução do percentual de 10% estipulado e lei.
+Com efeito, o DISTRITO FEDERAL abdicou de parte do crédito tributário (principal, juros e multa), não do acréscimo de 10% instituído legalmente para ressarcir despesas e honorários advocatícios.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+E depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Com efeito, "a obscuridade é fenômeno representativo de acórdão ininteligível, confuso, embaraçoso em suas razões e enigmático em sua parte dispositiva (STJ, EDcl no AgRg no Ag 178.699/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, DJ de 19/04/1999)" (EDcl no REsp 919.427/RJ, Rel. Min. Assusete Magalhães, 2ª T., DJe 17.04.2017).
+Isso considerado, observo que, a pretexto de obscuridade, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada na decisão monocrática e no acórdão embargado, embora em adversidade aos interesses da parte.
+Ressalto que, de acordo com a jurisprudência desta Corte, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, acórdão proferido pelo tribunal de origem em outro processo, o entendimento da parte, outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+Nessa linha: 1ª T., EDcl no AgRg no AREsp 308.455/PB, Rel. Ministro Sérgio Kukina, DJe 10/09/2013; 2ª T., EDcl no AgRg no AREsp 438.306/RS, Rel. Ministro Og Fernandes, DJe 20/05/2014.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v. g. Corte Especial, EDcl no AgRg nos EREsp 1.431.157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 1.104.181/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1.334.203/PR, Rel. Min. Assusete Magalhães, DJe 24.06.2016).
+- DO DIREITO LÍQUIDO E CERTO
+A Agravante assevera não ser possível a incidência, por analogia, da Súmula n. 280, do Supremo Tribunal Federal, posto não ter alegado violação a direito local, mas sim a direito federal, qual seja os arts. 1º da Lei 12.016/2009, 145 e 149, ambos do CTN, 3º, §2º, da Lei Complementar 976/2020, e 42, §1º, da Lei Complementar 004/1994.
+No entanto, da forma como definido pelo tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Nessa esteira: 1ª T., AgInt no AREsp n. 1.474.450/GO, relator Ministro Gurgel de Faria, DJe de 11/11/2019; e 2ª T., AgInt no AREsp n. 153.806/SP, relator Ministro Gurgel de Faria, DJe de 18/4/2018.
+Outrossim, o Tribunal de origem consignou não ter a Recorrente direito líquido e certo à redução do débito tributário.
+Nesse contexto, o entendimento da corte a quo acerca da ausência dos requisitos autorizadores da concessão da segurança demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse diapasão: 1ª T., AgInt no AREsp n. 2.029.051/RJ, relator Ministro Benedito Gonçalves, DJe de 20/10/2022; e 2ª T., AgInt no AREsp n. 1.171.670/SP, relatora Ministra Assusete Magalhães, DJe de 9/5/2018.
+- DA MULTA
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
