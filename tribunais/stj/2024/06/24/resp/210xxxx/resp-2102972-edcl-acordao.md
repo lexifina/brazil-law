@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC.
+1. Hipótese em que o acórdão embargado concluiu, dentre outros fundamentos, que "apesar de terem sido invocados dispositivos da legislação federal, o Tribunal a quo dirimiu a controvérsia com base em artigos e princípios constitucionais, o que afasta o conhecimento da matéria em Recurso Especial, sob pena de usurpação da competência do Supremo Tribunal Federal. ".
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos a acórdão nestes termos:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. SERVIDOR PÚBLICO. APOSENTADORIA. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.1. Verifica-se que, apesar de terem sido invocados dispositivos da legislação federal, o Tribunala quo dirimiu a controvérsia com base em artigos e princípios constitucionais, o que afasta o conhecimento da matéria em Recurso Especial, sob pena de usurpação da competência do Supremo Tribunal Federal.2. Embargos de Declaração recebidos como Agravo Interno e Agravo Interno não provido.
+A parte embargante alega que o decisum incorreu em omissão e aduz (fls. 778-784):
+Ocorre que, conforme demonstrado anteriormente, aspecto sobre o qual não houve manifestação na decisão, no caso, há discussão quanto à aplicação de legislação infraconstitucional local, hipótese em que não há cabimento do Recurso Extraordinário, sendo aplicável a interposição do Recurso Especial:
+(..)
+Portanto, observa-se nitidamente que o julgado em questão (Tema nº 1.150do STF) diverge do caso da Embargante em uma questão primordial, não podendo ser ignorado, de modo que à época do requerimento de aposentadoria, a lei que estava em vigor (Lei nº 1.540) elencava taxativamente que APENAS A APOSENTADORIA COMPULSÓRIA SERIA UMA DAS CAUSAS PARA O SERVIDOR SAIR DO SERVIÇO PÚBLICO, ou seja,não existia previsão legal nas leis do município de Sobral/CE acerca da vacância de cargo público municipal em razão da APOSENTADORIA VOLUNTÁRIA.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC.
+1. Hipótese em que o acórdão embargado concluiu, dentre outros fundamentos, que "apesar de terem sido invocados dispositivos da legislação federal, o Tribunal a quo dirimiu a controvérsia com base em artigos e princípios constitucionais, o que afasta o conhecimento da matéria em Recurso Especial, sob pena de usurpação da competência do Supremo Tribunal Federal. ".
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Embargos de Declaração rejeitados.
+VOTO
+Os autos foram recebidos neste Gabinete em 14.5.2024.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é inadmissível nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota dos seguintes excertos do acórdão embargado:
+Inicialmente, tendo em vista os efeitos infringentes pretendidos pela parte, recebo os Embargos de Declaração como Agravo Interno, aplicando o princípio da fungibilidade recursal.
+Conforme consta na decisão agravada, assim decidiu a Corte estadual (fls. 539-556, e-STJ):(..)Portanto, ainda que a legislação municipal, no momento da concessão do benefício em julho de 2019, previsse a vacância do cargo somente pela aposentadoria compulsória, inexiste direito adquirido a regime jurídico dos servidores públicos, cujas normas de estabilidade somente se aplicam aos servidores que cumulam cargos permitidos constitucionalmente.
+Nesta senda, a pretensão autoral viola do art. 37, II, da Constituição Federal, que impõe:(..)No que tange a cumulação de proventos de aposentadoria advindos do RGPS com a remuneração do cargo público, a Constituição dispõe: (..)Sobre o tema, a jurisprudência do Supremo Tribunal Federal, estabeleceu que o servidor público aposentado voluntariamente pelo Regime Geral de Previdência Social, com previsão de vacância do cargo em lei local, não tem direito a ser reintegrado ao mesmo cargo no qual se aposentou a fim de acumular os proventos e a remuneração dele decorrentes.(..)Portanto, a servidora inativa não poderá ser reintegrada ao mesmo cargo, tendo em vista que o ato de vacância é um ato administrativo vinculado e não discricionário, não permitindo nenhuma análise de conveniência ou oportunidade pelo órgão público. De forma que, a continuidade no serviço público só seria possível após aprovação em novo concurso e nas demais hipóteses de percepção simultânea de proventos de aposentadoria com remuneração de outro cargo público, consoante o art. 37, § 10 da CF/88(..)Assim, cristalino que inexiste a possibilidade legal da autora, ora apelada, de continuar ocupando o cargo público após sua passagem à inatividade, por violar normas municipais e constitucionais relativas à matéria.
+No mérito, verifica-se que, apesar de terem sido invocados dispositivos da legislação federal, o Tribunal a quo dirimiu a controvérsia com base em artigos e princípios constitucionais, o que afasta o conhecimento da matéria em Recurso Especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Não percebo, na espécie sub judice, nenhuma omissão, obscuridade ou contradição no acórdão embargado, senão o intuito de rediscutir matéria já decidida.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/08/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/06/2007.
+Dessa forma, reitera-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
