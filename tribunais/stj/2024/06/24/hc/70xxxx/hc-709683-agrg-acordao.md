@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONFISSÃO ESPONTÂNEA. CONFISSÃO EXTRAJUDICIAL QUE INFLUENCIOU NA CONVICÇÃO DO JUÍZO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A confissão espontânea do réu deve ser reconhecida caso haja influenciado o convencimento judicial. É irrelevante o fato de haver sido espontânea ou não, total ou parcial, ou até que haja ocorrido posterior retratação. Precedente.
+2. O juízo de primeira instância, embora não haja se referido diretamente à confissão extrajudicial do investigado, valeu-se dos depoimentos dos policiais que se apoiaram de forma relevante na admissão da culpa do paciente bem como na sua colaboração para a identificação dos demais partícipes.
+3. Portanto, não há dúvidas de que as declarações do investigado influenciaram na convicção do juízo, ainda que posteriormente tenha havido a retratação, circunstância que não impede o reconhecimento do benefício legal.
+4. Agravo regimental não provido.
+RELATÓRIO
+O MINISTÉRIO PÚBLICO FEDERAL agrava de decisão de minha relatoria em que concedi, em parte, a ordem de habeas corpus em favor do ora agravado para afastar a avaliação desfavorável das vetoriais motivos e consequências do crime, para reconhecer a incidência da atenuante da confissão espontânea, esta em relação apenas ao crime de extorsão mediante sequestro, com resultado morte.
+O agravante insurge-se contra o reconhecimento da referida atenuante. Aduz que a confissão extrajudicial foi retratada em juízo e que, além disso , "a condenação teve por fundamento outros elemento de prova produzidos sob o crivo do contraditório" (fl. 119).
+Pleiteia a reconsideração da decisão ou o julgamento do agravo regimental pelo colegiado, a fim de que seja afastada a atenuante da confissão espontânea, com a readequação da pena imposta.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONFISSÃO ESPONTÂNEA. CONFISSÃO EXTRAJUDICIAL QUE INFLUENCIOU NA CONVICÇÃO DO JUÍZO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A confissão espontânea do réu deve ser reconhecida caso haja influenciado o convencimento judicial. É irrelevante o fato de haver sido espontânea ou não, total ou parcial, ou até que haja ocorrido posterior retratação. Precedente.
+2. O juízo de primeira instância, embora não haja se referido diretamente à confissão extrajudicial do investigado, valeu-se dos depoimentos dos policiais que se apoiaram de forma relevante na admissão da culpa do paciente bem como na sua colaboração para a identificação dos demais partícipes.
+3. Portanto, não há dúvidas de que as declarações do investigado influenciaram na convicção do juízo, ainda que posteriormente tenha havido a retratação, circunstância que não impede o reconhecimento do benefício legal.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+O julgado impugnado consignou (fls. 102-104, grifos no original):
+ ..
+Relativamente à confissão espontânea, observo da sentença condenatória, a passagem a seguir (fl. 28-29, destaquei):
+O policial, ouvido às fls. 1481/1494, narrou que participou da prisão de Newton, Gilberto e Melvina.
+Com relação a Gilberto, que tem o vulgo de "Alemão", narrou que ele foi preso no centro desta cidade, após denúncia de que teria participado de sequestro e seria "procurado da justiça". Ele estava com um carro furtado, e em delegacia, ele falou do envolvimento no sequestro e informou o nome das demais pessoas, inclusive do réu Newton Marques, conhecido como "Véio". Assim sendo, uma equipe de policiais foi até a loja de Maurício, onde "Véio" trabalhava como gerente, mas ele não estaria mais nessa loja, e Gilberto os levou até a casa de Newton.
+Uma equipe de policiais ficou aguardando a chegada dele, mas ele não chegava, então foi efetuado contato com vizinho que disse que Newton tinha chegado rapidamente, pegou a mulher, a família, com malas e tinha saído para algum lugar, viajar. Indagado Gilberto onde Newton podia ter ido, Gilberto disse que poderia ser um sítio em Juquitiba.
+Relatou que foram, com Gilberto, ao referido sítio, mas Newton não estava lá. Voltaram para a delegacia, onde ele foi ouvido.
+Após analisando contas de telefone da loja de Maurício, viram que havia várias ligações para Indaiabira, norte de Minas Gerais.
+Assim, foram para a referida cidade, onde localizaram a residência de Melvina, conversaram com a genitora dela, a qual disse que eles chegariam no dia seguintes. Fizeram campana, mas eles não apareceram. Tornaram a conversar com a genitora de Melvina e ela disse que era para eles terem chegado. Identificaram-se como policiais e contaram o que estava acontecendo, e retornaram para esta comarca.
+Relatou, ainda, que verificaram mais ligações telefônicas para Minas Gerais e localizaram irmão de Melvina, que já estava ciente do que estava acontecendo e ele disse que estava indo para Indaiabira/MG e que os levaria até lá, local de difícil acesso.
+Referida pessoa os levou até o local onde Newton, Melvina e crianças, um bebê e um de 7 anos, estavam escondidos, um buraco que dá acesso a uma caverna.
+Acrescentou que após o retorno de Indaiabira, foram novamente a Juquitiba, com Newton, mesmo sítio que Alemão tinha indicado anteriormente, mas o corpo da vítima não foi localizado. E na casa de Newton foram localizadas armas, uma de calibre 6.35, uma de calibre 38/, uma foto de Melvina com arma em punho.
+Narrou, ainda, que Gilberto foi detido, admitiu participação no sequestro, mas disse que não concordou com o fato de "ventania" (co-réu José) e "Veio" (co-réu Newton) terem matado a vítima e o pressionaram para ligar para a família para pedir resgate, e disse que não ia buscar dinheiro porque ele sabia que já tinham matado a vítima e que mais cedo ou mais tarde seria preso e não queria "segurar o homicídio".
+Acrescentou que Newton mostrou ao "Alemão" quem era a vítima, a qual foi arrebatada por "Alemão" e por "Ventania", e foi levada para o cativeiro. Newton "entregou" o acusado Georges como sendo mandante do sequestro. Quanto a Melvina, além da foto em que ela aparece com arma, quando da chegada dos policiais à caverna em que estavam escondidos, ela disse "alguém nos delatou, porque aqui nem Deus iria nos achar"; "eu sei quem delatou e depois a gente resolve isso".
+Referida testemunha reconheceu fotografia acostada às fls. 541, afirmando ser o local de cativeiro, ao qual foram levados pelo "Alemão".
+Com relação ao reconhecimento de voz a que foi submetido Gilberto, afirmou que os contatos efetuados para fins de negociação de resgate foram gravados e tanto os policiais como a família da vítima reconheceram a voz dele em delegacia, quando ele estava contando o que tinha acontecido. O advogado de Newton, Dr. Roberto Barbosa, estava ciente de que ele estava na delegacia e a família ia avisá-lo.
+A autoridade policial, ouvida às fls. 1548/1478, narrou detalhadamente o ocorrido.
+ ..  Narrou que "Alemão" disse que estava sozinho, e estava com um carro produto de crime, sendo levado para a delegacia, onde se confirmou que era "procurado" e tinha antecedentes. O tom de voz dele era característico, grave, e os contatos telefônicos realizados para a família foram feito por ele. Ele foi questionado, inclusive para ver se a família reconhecia a voz, e "Alemão" admitiu participação no arrebatamento da vítima, a negociação feita com a família e apontou a participação de NEWTON, vulgo "Véio", o qual o procurou para essa participação no crime.
+Alemão disse ainda que a vítima foi levada para Juquitiba, imóvel de propriedade de Newton.
+A confissão espontânea do réu deve ser reconhecida caso haja influenciado o convencimento judicial. É irrelevante o fato de haver sido espontânea ou não, total ou parcial, ou até que haja ocorrido posterior retratação.
+De acordo com o entendimento desta Corte Superior: "A confissão espontânea do réu, ainda que tenha sido parcial ou qualificada, deve ser reconhecida, de modo a ensejar a atenuação da pena, se influenciou o convencimento judicial" (HC n. 236.624/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2016).
+Na hipótese, embora negado pela Corte de origem, é possível constatar, em relação ao crime de extorsão mediante sequestro, que o condenado Gilberto admitiu, na fase extrajudicial, a participação na referida conduta. Assim, deve ser considerada sua confissão, pois auxiliou no convencimento do juízo de autoria delitiva, conforme jurisprudência consolidada.
+Com efeito, o juízo de primeira instância, embora não se refira diretamente à confissão extrajudicial, valeu-se dos depoimentos dos policiais que se apoiaram de forma relevante na admissão da culpa pelo paciente bem como na sua colaboração para identificação dos demais partícipes.
+Portanto, não há dúvidas de que as declarações do investigado influenciaram na formação da convicção do juízo, ainda que posteriormente tenha havido a retratação, circunstância que não impede o reconhecimento do benefício legal.
+À vista do exposto, nego provimento ao agravo regimental.
