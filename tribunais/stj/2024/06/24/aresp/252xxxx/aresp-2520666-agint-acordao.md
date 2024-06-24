@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. ABUSIVIDADE REAJUSTE POR FAIXA ETÁRIA. NÃO VERIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PREJUDICIALIDADE DO DISSÍDIO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama o reexame dos elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+CARMELITA SANTANA SALES MAIA interpõe agravo interno contra a decisão de fls. 605-610, que negou provimento ao agravo em recurso especial.
+Nas razões do presente recurso, a agravante defende a inaplicabilidade da Súmula n. 7 do STJ, pois a constatação do erro material indicado pode ser feita há qualquer tempo, sendo desnecessária a revisão dos elementos fático-probatórios acostados aos autos.
+Reitera, ademais, as matérias apresentadas no recurso especial, alegando manifesta omissão, existência de dissídio jurisprudencial e erro nos cálculos dos reajustes aplicados.
+Requer, assim, seja reconsiderada a decisão agravada.
+Contrarrazões apresentadas às fls. 642-653, em que se requer o desprovimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. ABUSIVIDADE REAJUSTE POR FAIXA ETÁRIA. NÃO VERIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PREJUDICIALIDADE DO DISSÍDIO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama o reexame dos elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+VOTO
+A controvérsia tem origem em ação declaratória de cláusula contratual, que discutia a validade dos reajustes por faixa etária aplicados em mensalidade de planos de saúde.
+A sentença julgou parcialmente procedentes os pedidos da autora, reconhecendo a abusividade e nulidade da cláusula que previa o aumento na mensalidade em percentual de 107,86% em razão da alteração de faixa etária.
+Reformando o entendimento anteriormente proferido, o Tribunal de origem deu provimento à apelação, para julgar improcedentes os pedidos formulados na inicial, diante da aplicação válida dos reajustes por faixa etária, que foi feita em conformidade com o julgamento do Tema n. 952 do STJ.
+Ainda, opostos embargos, o Tribunal de origem manteve a conclusão adotada no acórdão da apelação, concluindo que o reajuste aplicado observou corretamente o Tema n. 1.016 do STJ .
+A irresignação não reúne condições de prosperar, devendo a decisão agravada ser mantida por seus próprios fundamentos, assim expressos (fls. 606-609):
+A irresignação não deve prosperar.
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A despeito das reiteradas alegações de omissão acerca da ausência de abusividade da adoção do percentual de 107,85% à luz do CDC e de erro material nos cálculos adotados, no julgamento dos embargos de declaração opostos, o Tribunal a quo tratou do correto cálculo a ser adotado para a fixação do reajuste, ponderando o seguinte (fls. 494-495):
+No mérito, contudo, não assiste razão à embargante.
+Consoante cediço, os embargos de declaração constituem meio de impugnação de decisões com objeto bem delimitado pelo art. 1.022 do Código de Processo Civil. Assim é que o aludido recurso somente é cabível quando houver, na decisão, obscuridade ou contradição, ou quando for omitido ponto sobre o qual devia pronunciar-se o órgão jurisdicional.
+No caso em exame, não é difícil constatar que os declaratórios se destinam a reapreciar questões já decididas, com nítido caráter infringente, distanciando-se, pois, de sua real finalidade, buscando a embargante a rediscussão da respectiva matéria com o propósito de ajustar o decisum ao entendimento por ela sustentado.
+Com efeito, a embargante não traz qualquer argumento capaz de elidir o Acórdão embargado, cabendo ressaltar que o decisum embargado observou corretamente o Tema nº 1.016 do e. STJ, considerando que a variação acumulada não pode ser obtida pela mera soma dos percentuais de reajuste de cada faixa etária, como realizado pela embargante a fl. 465.
+Vejamos as duas teses firmadas:(a) Aplicabilidade das teses firmadas no Tema 952/STJ aos planos coletivos, ressalvando-se, quanto às entidades de autogestão, a inaplicabilidade do CDC;(b) A melhor interpretação do enunciado normativo do art. 3º, II, da Resolução n. 63/2003, da ANS, é aquela que observa o sentido matemático da expressão "variação acumulada", referente ao aumento real de preço verificado em cada intervalo, devendo-se aplicar, para sua apuração, a respectiva fórmula matemática, estando incorreta a simples soma aritmética de percentuais de reajuste ou o cálculo de média dos percentuais aplicados em todas as faixas etárias.
+Dessa forma, não há que se falar em ilicitude da conduta adotada pela parte ré, ora embargada, uma vez que foi observado o contrato firmado entre as partes e a Resolução Normativa nº 63/2003 da ANS.
+Na hipótese, adotou o Acórdão linha diversa da pretendida pela parte embargante, cabendo somente à recorrente a busca de possível recurso modificativo da decisão colegiada.
+Portanto, inexistente qualquer omissão.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Quanto à violação dos arts. 422 do CC, 4º, I e II, 6º, III, 7º, caput, e 51, IV, X, XIII, e §1º, do CDC e 3º, II, da Resolução Normativa n. 63/2003 da ANS e teses de erro material nos cálculos e abusividade da cláusula contratual de reajuste, verifica-se, da análise do acórdão recorrido, que a Corte Estadual, com base na análise dos elementos dos autos, reconheceu a validade da cláusula contratual que previa aumento nas mensalidades ante a alteração da faixa etária e do reajuste aplicado ao caso. Confira-se (fls. 439-441):
+Trata-se de ação em que a autora menciona ser beneficiária do plano de saúde desde 2005, questionando, na presente demanda, reajuste na mensalidade, em novembro de 2012, no percentual de 107,86%, com base em mudança de faixa etária, passando de R$ 354,62 para R$ 737,12.
+Por sua vez, a ré afirma que o aumento é válido, destinando-se à correção da inflação anual, bem como decorre de ajuste em razão de faixa etária da consumidora.
+Sobre a matéria, o Superior Tribunal de Justiça, no julgamento do REsp nº 1.568.244/RJ, submetido ao rito dos recursos repetitivos, fixou a orientação (Tema 952) de que o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido, desde que: (i) exista previsão contratual; (ii) sejam observadas as normas regulamentares; (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que onerem excessivamente o consumidor ou discriminem o idoso. .. Destarte, resta claro o entendimento do STJ no sentido de que não há ilegalidade nos reajustes por mudança de faixa etária, nos planos de saúde individual ou familiar, desde que previamente previstos na contratação, e que não sejam excessivos.
+No caso em comento, o contrato foi celebrado em dezembro/2005 e o instrumento está acostado aos autos (fls. 23), podendo ser observada a existência de cláusula prevendo reajuste por faixa etária (fls. 25, fl. 89 e fl. 177): .. Tratando-se de contrato novo, firmado após o ano de 2004, incidem as regras da RN n. 63/2003,e existindo previsão contratual expressa acerca do percentual de aumento a ser aplicado em razão da mudança de faixa etária, resta analisar tão somente: (i) se foram estabelecidas 10 (dez) faixas etárias, a última aos 59 anos; (ii)se o valor fixado para a última faixa etária não é superior a 6 (seis) vezes o previsto para a primeira; e (iii) se a variação acumulada entre a sétima e décima faixas não é superior à variação cumulada entre a primeira e sétima faixas.
+A parte autora alega que houve um reajuste desproporcional e abusivo.
+No entanto, diante dos documentos juntados aos autos, não se verifica qualquer abusividade em relação aos reajustes praticados pela ré, inclusive todas as cláusulas e reajustes estavam expressamente previstos no contrato.
+No caso em tela, a operadora do plano de saúde informou de maneira clara e objetiva as condições contratuais, tendo a parte autora expressado sua anuência mediante assinatura, inclusive do termo aditivo com todo o detalhamento necessário à consumidora, sendo certo que a apelada, desde 2005, tinha plena ciência do percentual de aumento estipulado para o ingresso na última faixa etária (aos 59 anos).
+Ademais, a variação acumulada entrea7ª e 10ª faixa é idêntica àquela apurada entre a 1ªe 7ª,em 142,06%.
+Conforme se verifica, trata-se de acordo firmado entre as partes e que restou cumprido pela recorrente.
+Nesse cenário, acolher a pretensão da parte para reconhecer a abusividade do reajuste e alterar o percentual aplicado demandaria necessário reexame fático probatório, providência vedada em instância especial, em razão da incidência da Súmula n. 7 do STJ.
+Quanto ao dissídio jurisprudencial, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Não foi constatada omissão no acórdão da Corte Estadual, pois, como assinalado na decisão combatida, fora discutido o correto cálculo a ser adotado para a fixação do reajuste por faixa etária, tendo restado declarada a validade do aumento aplicado.
+Para além, a despeito da alegação da parte de erro material nos cálculos utilizados e abusividade do reajuste, restou esclarecido pela Corte a quo, da análise dos elementos dos autos, a validade dos percentuais de aumento aplicados, pois estes foram empregados em conformidade com o estabelecido nos Temas n. 952 e 1.016 do STJ, sendo legítimos.
+Nesse cenário, rever as ponderações feitas pelo Tribunal de origem, para declarar a abusividade dos reajustes por faixa etária, de fato demandaria reexame dos elementos dos autos, incidindo ao caso a Súmula n. 7 do STJ.
+Assim, prejudicada a análise do dissídio invocado, ante a supramencionada incidência da Súmula n. 7 do STJ.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
