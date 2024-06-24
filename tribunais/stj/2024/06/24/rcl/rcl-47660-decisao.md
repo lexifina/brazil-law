@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de reclamação formulada pela CÂMARA MUNICIPAL DO MUNICÍPIO DE MORROS contra decisão monocrática proferida pelo em. Desembargador JAMIL DE MIRANDA GEDEON NETO, integrante da Segunda Câmara de Direito Público do Tribunal de Justiça do Estado do Maranhão, que indeferiu o pedido de concessão de efeito suspensivo ao agravo de instrumento manejado, por sua vez, em face de decisão do Juízo de Direito da Comarca de Morros/MA que havia deferido parcialmente a liminar pleiteada em sede de mandado de segurança, de modo a suspender os efeitos do Decreto Legislativo n. 7, de 7/9/2023, que cassara o mandado de vereadora da impetrante.
+Em apertadíssima síntese, sustenta a reclamante que a interpretação emprestada no decisum impugnado do Decreto-Lei n. 201/1967 é contrária ao entendimento "proferido por este Superior Tribunal de Justiça  quando  na ocasião o Ilustre Ministro Mauro Campbell Marques no julgamento do Recurso Ordinário em Mandado de Segurança nº 61.855, entendeu que não se pode aplicar ao processo político de cassação de mandato o mesmo rigorismo do processo judicial" (fls. 7/8).
+No mais, tece considerações a respeito da questão de mérito deduzida no aludido mandado de segurança.
+Por fim, requer a concessão de liminar para suspender os efeitos da decisão reclamada e, no mérito, que seja julgada procedente a reclamação.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a Reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, bem como para assegurar a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, conforme disposto nos artigos 105, I, f, da Constituição Federal e 988 do Código de Processo Civil, sendo, pois, instrumento processual de caráter específico e de aplicação restrita.
+Nessa senda, verifica-se que no caso concreto a presente reclamação é utilizada como sucedâneo recursal, eis que não se presta para reformar a decisão judicial que lhe foi desfavorável. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. HIPÓTESE DE CABIMENTO. AUSÊNCIA. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a agravante objetiva a procedência da reclamação para que o "juízo de origem aplique o entendimento firmado na Súmula 576/STJ, fixando-se a data inicial do benefício a partir da DE R e não em outra data".
+3. De fato, a reclamação não se enquadra em nenhuma das hipóteses previstas no ordenamento jurídico (art. 105, I, f, da CF c/c o art. 187 do RISTJ e o art. 988 do CPC/2015), visto que inexistente decisão desta Corte proferida no caso concreto, sendo certo que a reclamante está utilizando a via eleita como sucedâneo recursal para reformar decisão que lhe foi desfavorável, o que não se deve admitir, consoante jurisprudência desta Corte Superior. Decisão da Presidência do STJ mantida.
+4. Agravo interno não provido.
+(AgInt na Rcl n. 46.902/SP, relator Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 29/4/2024.)
+ANTE O EXPOSTO, não conheço do reclamação.
+Publique-se.
+EMENTA
