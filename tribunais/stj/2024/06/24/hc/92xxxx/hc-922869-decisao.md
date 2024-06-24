@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de JHONATAN MESSIAS LEOPOLDO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1502423-12.2023.8.26.0628).
+Consta dos autos que o paciente foi condenado à pena de 06 (seis) anos e 06 (seis) meses de reclusão, em regime inicial fechado, além do pagamento de 650 (seiscentos e cinquenta) dias-multa, no valor unitário mínimo, como incurso no artigo 33, caput, da Lei de Drogas.
+O Tribunal de origem negou provimento à apelação defensiva, conforme fls. 177-182.
+O impetrante sustenta a ocorrência de constrangimento ilegal, porquanto ausente fundamentação i dônea para justificar a exasperação da pena-base acima do mínimo legal.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja afastado o aumento da pena-base ou, subsidiariamente, para seja aplicada a fração de 1/6 (um sexto) sobre a pena mínima em abstrato.
+É o relatório.
+DECIDO.
+De início, destaco que
+ a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Passo, portanto, a analisar diretamente o mérito do pedido.
+No que diz respeito à dosimetria da pena, colhe-se do acórdão combatido (fls. 182-183):
+O elastério da pena-base, com olhos voltados para a dicção do art. 42 da Lei Especial, deu-se em patamar aquém do justo concreto. Ora, cocaína e crack têm altíssimo poder de vulneração no usuário e, na espécie, o importe de droga é exorbitante, resultando em 1.318 doses unitárias de droga sortida. A calibragem deveria ter sido no mínimo patamar de 1/3 (um terço) e até a fração de 2 / 1 (metade) estaria dentro de um parâmetro na dosimetria da pena razoável e congruente, à luz da gravidade do caso concreto.
+Registra-se que a pena-base do delito de tráfico de drogas foi exasperada em 01 (um) ano e 06 (seis) meses em virtude da quantidade e da natureza das drogas apreendidas (23,1g de crack, 497,46g de cocaína e 161,38 de maconha).
+Na espécie, conquanto a pena-base tenha sido estabelecida acima do mínimo legal mediante motivação idônea, verifico que a exasperação realizada mostrou-se desproporcional, tendo em vista que a quantidade de droga apreendida - 23,1g de crack, 497,46g de cocaína e 161,38 de maconha -, apesar de expressiva, não pode ser tida como tão relevante a ponto de justificar o aumento acima de 1/6 (um sexto) da pena mínima em abstrato.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. NATUREZA E QUANTIDADE DE ENTORPECENTES APREENDIDOS. OFENSA AO PRINCÍPIO DA PROPORCIONALIDADE.
+READEQUAÇÃO. NECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora não haja vinculação a critérios puramente matemáticos, exige-se que o Julgador, a fim de balizar os limites de sua discricionariedade, realize um juízo de coerência entre: (a) o número de circunstâncias judiciais concretamente avaliadas como negativas; (b) o intervalo de pena abstratamente previsto para o crime; e (c) o quantum de pena que costuma ser aplicado pela jurisprudência em casos parecidos.
+2. As instâncias ordinárias fixaram a pena-base 2 (dois) anos acima do mínimo legal unicamente em razão da quantidade de entorpecentes apreendidos. Todavia, o aumento implementado na primeira fase mostra-se excessivo e desproporcional, não devendo prevalecer, revelando-se mais adequado o aumento de 1/6 (um sexto) da pena mínima abstratamente cominada. Precedentes.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.895.521/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE ARMA DE FOGO DE USO RESTRITO. VIOLAÇÃO DE DOMICÍLIO E READEQUAÇÃO DA TIPIFICAÇÃO. TESES NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO RETROATIVA DE NOVO ENTENDIMENTO JURISPRUDENCIAL. INVIABILIDADE. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. DESPROVIMENTO.
+1. As teses relativas à invasão ilegal de domicílio e à readequação da tipificação não foram debatidas pelo Tribunal local, inviabilizando os seus exames nesta via, sob pena de indevida supressão de instância.
+2. Quanto à incidência do princípio da insignificância, " e sta Corte Superior, seguindo a linha jurisprudencial traçada pelo Supremo Tribunal Federal no julgamento do RHC n. 143.449/MS, vem reconhecendo, excepcionalmente, a atipicidade material da posse/porte de pequenas quantidades de munições, desacompanhadas de arma de fogo, quando inexistente potencialidade lesiva ao bem jurídico tutelado." (AgRg no REsp n. 1.987.775/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023.) 3. Todavia, consoante as informações prestadas pelo Tribunal local, o presente feito transitou em julgado na data de 19/2/2016, sendo que, nesta Corte, passou a vigorar o novo entendimento jurisprudencial a partir do julgamento no STF do RHC n. 143.449/MS, publicado em 9/10/2017, inviabilizando-se, assim, a sua retroação.
+Precedentes.
+4. "Segundo a jurisprudência deste Tribunal Superior, a exasperação da pena basilar, pela existência de circunstâncias judiciais desfavoráveis, deve seguir o parâmetro de 1/6 (um sexto) para cada vetorial valorada negativamente, fração esta que se firmou em observância aos princípios da razoabilidade e proporcionalidade, salvo a apresentação de elementos concretos, suficientes e idôneos que justifiquem a necessidade de elevação em patamar superior."
+(AgRg no AREsp n. 1.895.576/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/9/2022, DJe de 3/10/2022.) 5. Agravo regimental desprovido.
+(AgRg no HC n. 834.612/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024, grifamos)
+Sendo assim, necessário realizar nova dosimetria da pena, uma vez que a instância a quo fixou a pena-base em fração desproporcional à quantidade e qualidade da droga apreendida.
+De rigor, portanto, o redimensionamento da pena, a fim de que o acréscimo relativo às circunstâncias do crime seja estabelecido em 1/6 (um sexto).
+Fixadas essas premissas, passo a redimensionar as penas do paciente.
+Na primeira fase, a pena-base deve ser reduzida, mostrando-se razoável sua fixação em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, no valor unitário mínimo (exasperação de 1/6 - um sexto - em razão da quantidade e natureza da droga apreendida).
+Na segunda etapa, a atenuante da confissão espontânea deve ser compensada com agravante da reincidência, mantendo-se a pena inalterada.
+Na terceira fase, não incidem causas de aumento ou de diminuição, de forma que ficam definitivamente fixadas as reprimendas do réu em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, no valor unitário mínimo.
+Considerando o quantum da reprimenda, o reconhecimento das circunstâncias negativas e da agravante da reincidência, não há alteração do regime inicial fixado pelas instâncias ordinárias, que pe rmanece o fechado.
+Ante o exposto, concedo a ordem de habeas corpus para redimensionar as penas impostas ao paciente, nos termos desta decisão.
+Publique-se. Intimem-se.
+EMENTA
