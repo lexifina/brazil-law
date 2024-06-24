@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Instituto Nacional dos Investidores em Caderneta de Poupança e Previdência - INCPP, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “APELAÇÃO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO - LEGITIMIDADE EXTRAORDINÁRIA E INTERESSE DE AGIR - Ausência de previsão legal para que o substituto atue na fase de execução - Possibilidade reservada ao legitimado extraordinário de apenas promover, subsidiariamente, cumprimento de sentença na forma do art. 100, do CDC e art. 13, da Lei 7347/85 - Falta de interesse de agir configurada na existência de execução da ação civil pública por milhares de consumidores - Pretensão de pagamento de indenizações individuais conflita com o argumento de estar em juízo como substituto processual - Distribuição da demanda em Comarca distante, onde não residem ou têm domicílio quaisquer das pessoas listadas na inicial sem justificativa plausível. Competência para a liquidação e execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário - Precedentes desta Corte e do STJ - Responsabilidade do recorrente pelos ônus da sucumbência e litigância de má-fé, uma vez que a iniciativa da demanda executiva foi de sua exclusiva responsabilidade e comprometeu os direitos dos consumidores - Gratuidade de justiça - Impossibilidade de concessão - Necessidade de recolhimento do preparo e das custas processuais - Art. 18, da Lei 7347/85. Recurso desprovido.”
+
+    Na minuta, sustenta-se violação do art. 5º, XXI, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Não prospera a insurgência pelo prisma do inciso XXI do art. 5º da Carta Política, uma vez que o Plenário Virtual desta Suprema Corte, no julgamento do ARE 901.963 RG, Rel. Min. Teori Zavascki, DJe 16.9.2015, negou a existência de repercussão geral da questão acerca dos legitimados para executar sentença proferida em ação coletiva, na hipótese em que o título transitado em julgado define explicitamente os beneficiários do direito. O acórdão paradigma está assim ementado:
+
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO DE SENTENÇA CONDENATÓRIA GENÉRICA PROFERIDA EM AÇÃO CIVIL PÚBLICA AJUIZADA POR ASSOCIAÇÃO. LEGITIMIDADE ATIVA. LIMITES DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A presente demanda consiste em execução individual de sentença proferida em ação civil pública. O recurso extraordinário suscita a ilegitimidade ativa dos exequentes, ao argumento de que não deram autorização individual e específica à associação autora da demanda coletiva para os representarem no processo de conhecimento, tampouco demonstraram sua condição de associados. Alega-se ofensa ao art. 5º, XXI e XXXVI, da Constituição, bem como ao precedente do Plenário do Supremo Tribunal Federal formado no julgamento do RE 573.232/SC. 2. Ocorre que, conforme atestaram as instâncias ordinárias, no dispositivo da sentença condenatória genérica proferida no processo de conhecimento desta ação civil pública, constou expressamente sua aplicabilidade a todos os poupadores do Estado de Santa Catarina. Assim, o fundamento da legitimidade ativa para a execução, no caso, dispensa exame sobre a necessidade de autorização das associações para a representação de seus associados. Em verdade, o que está em jogo é questão sobre limites da coisa julgada, matéria de natureza infraconstitucional cuja repercussão geral, inclusive, já foi rejeitada por esta Corte em outra oportunidade (ARE 748.371-RG, Rel. Min. GILMAR MENDES, DJe de 1º/8/2013). 3. Outrossim, ao tratar dos limites subjetivos de sentença condenatória genérica proferida nos autos de ação civil pública ajuizada por associação, o Tribunal de origem valeu-se de disposições da Lei 7.347/85 e do Código de Defesa do Consumidor, cujo exame é inviável em recurso extraordinário. 4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 5. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (ARE 901963 RG, Rel. Min. Teori Zavascki, DJe 16.9.2015).
+
+    Noutro giro, não há falar em aplicação do precedente do Plenário do Supremo Tribunal Federal formado no julgamento do RE 573.232/SC, uma vez consignado pela Corte de origem que, “tratando-se de ação coletiva relativa a interesses individuais homogêneos ajuizada por associação voltada à defesa dos direitos dos consumidores, os efeitos da sentença abrangem todos os poupadores atingidos pelas perdas decorrentes dos expurgos inflacionários, sendo dispensável a prova de sua filiação à associação” (e-doc. 43, fl.30).
+
+    Assim, consoante firmado no julgamento do ARE 901.963-RG, Rel. Min. Teori Zavascki, DJe 16.9.2015, o fundamento da legitimidade ativa para a execução, no presente caso, dispensa exame sobre a necessidade de autorização das associações para a representação de seus associados, uma vez em jogo a questão dos limites da coisa julgada, matéria de natureza infraconstitucional cuja repercussão geral já foi rejeitada por esta Corte em outras oportunidades.
+
+    Ademais, as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos apontados dispositivos da Constituição da República. Nesse sentido:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Processual Civil. 3. Ação civil pública movida pelo Instituto Brasileiro de Defesa do Consumidor (IDEC). 4. Discussão acerca da legitimidade ativa de exequente individual e da necessidade ou não de comprovação de respectiva filiação. Controvérsia acerca dos limites da coisa julgada que guardam semelhança com os Temas 660, 715, 587 e 848 da sistemática de repercussão geral. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Negado provimento ao agravo regimental. Sem majoração de honorários, tendo em vista a não fixação anterior pela origem” (ARE 1238800 AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 07.4.2020).
+
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA PROPOSTA PELO INSTITUTO DE DEFESA DO CONSUMIDOR. IDEC. SENTENÇA CONDENATÓRIA GENÉRICA. CUMPRIMENTO. PRESCINDIBILIDADE DE AUTORIZAÇÃO EXPRESSA DO EXEQUENTE INDIVIDUAL PARA SUA REPRESENTAÇÃO EM JUÍZO. LIMITES SUBJETIVOS DA COISA JULGADA. MATÉRIA CUJA REPERCUSSÃO GERAL FOI REJEITADA NO ARE 901.963 (DE MINHA RELATORIA, TEMA 848, DJE DE 16/9/2015). INAPLICABILIDADE DO ENTENDIMENTO FIRMADO NO RE 573.232 (REL. P/ ACÓRDÃO MIN. MARCO AURÉLIO, TEMA 82, DJE DE 19/9/2014). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 961699 AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe PUBLIC 15.12.2016).
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 24 de junho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
