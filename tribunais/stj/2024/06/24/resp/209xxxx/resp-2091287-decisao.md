@@ -1,0 +1,19 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, com fundamento no art. 105, III, "a", da CF, contra acórdão proferido pelo Tribunal de Justiça local.
+O recorrente aponta a violação dos arts. 39, II e V, e 50, VI, da LEP porquanto restou apurado em procedimento disciplinar que o apenado, em desobediência aos seus deveres, realizou dez tatuagens em seu corpo dentro do ambiente prisional.
+Requer o reconhecimento da falta grave, com a aplicação das penalidades previstas em lei.
+Sem contrarrazões, apesar da intimação da defesa, houve juízo positivo de admissibilidade.
+O MPF opinou pelo provimento do recurso.
+Decido.
+O recurso é tempestivo e preenche os demais requisitos para confirmação de sua admissibilidade. No mérito, deve ser provido.
+Deveras, "A jurisprudência desta Corte entende configurar falta grave a realização de tatuagem no interior de estabelecimento prisional. Precedentes" (AgRg no HC n. 786.129/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Com efeito, "Em situação em tudo semelhante à posta nestes autos, esta Corte entendeu que a realização de tatuagem em ambiente prisional configura falta grave. Precedentes: Habeas Corpus n. 681.794/SP, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 14/12/2021; Habeas Corpus n. 689.601/SP, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 05/10/2021; Habeas Corpus n. 684.521/SP, Rel. Min. OLINDO MENEZES (Desembargador convocado do TRF 1ª Região), DJe de 23/09/2021; REsp n. 1.954.909/SP, Rela. Mina. LAURITA VAZ, DJe de 16/09/2021; Habeas Corpus n. 688.523/SP, Rel. Min. RIBEIRO DANTAS, DJe de 23/08/2021;Habeas Corpus n. 643.644/SP, DJe de 30/06/2021" (AgRg no HC n. 725.349/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/3/2022, DJe de 14/3/2022).
+O apenados são cientificados, ao ingressarem no ambiente prisional, da proibição da confecção de novas tatuagens em seu corpo, bem como de possuir máquina artesanal para tanto. A conduta não é irrelevante, pois imagens gravadas na pele podem diferenciar os presos e conter comunicação cifrada entre eles. Tatuagens identificam os detentos, revelam os crimes por eles praticados e registram o pertencimento a facção criminosa. Além disso, a sua confecção fomenta a posse clandestina de máquinas capazes de ofender a integridade física de outrem, o que é proibido expressamente no cárcere.
+Não era possível a absolvição nem a desclassificação da conduta, pois o postulante descumpriu o dever de executar as ordens recebidas (art. 39, V, da LEP) o que caracteriza a falta grave prevista no art. 50, inciso VI, da LEP.
+Segundo ao art. 27 da Resolução SAP n. 144/2010, constituem deveres dos presos: "II - informar-se sobre as normas a serem observadas na unidade prisional, respeitando-as",
+Deveras, "condutas como desobediência ao servidor ou às ordens recebidas constitui falta de natureza grave, nos termos do art. 50, inciso VI, da Lei de Execução Penal" (AgRg no HC 497.509/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/10/2019, DJe 28/10/2019).
+Segundo expressa previsão legal, a prática de falta grave possibilita a regressão de regime e a interrupção da data-base para nova progressão (art. 118, I, da LEP), bem como a perda parcial dos dias remidos (art. 127).
+Como o apenado estava no regime fechado, impõe-se apenas a alteração da data-base para nova transferência de regime (data da falta grave) e a perda de 1/6 dos dias remidos, considerando que a conduta não é de acentuada gravidade, mas há notícia de reiteração (10 tatuagens).
+À vista do exposto, conheço e dou provimento ao recurso para o fim de reconhecer a falta disciplinar grave e determinar a perda de 1/6 dos dias remidos ou a remir até a data de sua prática, a qual interrompe o termo de contagem do lapso necessário para nova progressão de regime.
+Publique-se e intimem-se.
+EMENTA
