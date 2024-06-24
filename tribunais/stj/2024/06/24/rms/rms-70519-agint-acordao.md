@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATA APROVADA DENTRO DO NÚMERO DE VAGAS PREVISTO NO EDITAL. DIREITO SUBJETIVO À NOMEAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1.  A jurisprudência do STJ é pacífica no sentido de que a aprovação em concurso público, dentro do número de vagas previstas no Edital, convalida a mera expectativa em direito subjetivo do candidato a ser nomeado para o cargo a que concorreu e foi devidamente habilitado.
+2.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, agravo interno da decisão que deu provimento ao recurso ordinário para reconhecer o direito líquido e certo da impetrante à nomeação.
+O acórdão proferido pela Corte de origem foi assim ementado:
+MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. PROCESSO SELETIVO SIMPLIFICADO SOBRE REGIME ESPECIAL DE DIREITO ADMINISTRATIVO - REDA. EDITAL 04/2014. PRELIMINAR DE ILEGITIMIDADE DO PREFEITO MUNICIPAL AFASTADA. MÉRITO. CANDIDATA APROVADA DENTRO DO NÚMERO DE VAGAS. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO À NOMEAÇÃO AO CARGO DE AGENTE ADMINISTRATIVO. PRAZO DE VALIDADE O CERTAME EXPIRADO NO ANO DE 2018. CONTRATAÇÃO COM BASE EM NECESSIDADE TEMPORÁRIA E PROVISÓRIA , COM PRAZO DETERMINADO. PERDA DO INTERESSE PÚBLICO. SEGURANÇA DENEGADA.
+1. 1. Preliminarmente, não devem prosperar os argumentos externados acerca da ilegitimidade passiva do Impetrado, na medida em que o ônus decorrente da concessão da ordem recairá sobre a esfera de interesses do ente público, representado pelo Prefeito Municipal, que, por sua vez, tem o poder de convalidar os atos dos seus respectivos Secretários. Preliminar rejeitada.
+2. No mérito, verifica-se que o objeto da presente Ação Mandamental gira em torno do direito da Impetrante em ser nomeada para o cargo de Agente Administrativo do Município de Salvador, objeto de Processo Seletivo Simplificado - REDA, para o qual foi aprovada e classificada na 70ª colocação, portanto, dentro do número de vagas destinadas às cotas raciais.
+3. Com efeito, o prazo de validade do concurso expirou há quase 03 (três) anos, e, considerando que o mesmo foi realizado visando atender uma necessidade provisória do Poder Público, não há como impor à Municipalidade a convocação do Impetrante, mesmo tendo sido aprovada dentro do número de vagas, tendo em vista que a situação excepcional que justificou sua realização, já não existe mais.
+4. Assim, eventual concessão da segurança no presente writ, não mais operaria o efeito pretendido, qual seja, determinar à autoridade coatora que realize sua convocação, tendo em vista que o prazo de validade do certame, e consequentemente, a situação excepcional que o fundamentou, já expiraram, perdendo-se o objeto da demanda.
+5. SEGURANÇA CONCEDIDA (fls.141-143).
+Argumenta a parte agravante, em síntese, que
+ ..  malgrado o Relator tenha adotado o entendimento de que o candidato aprovado dentro do número de vagas estabelecidas no edital tem direito à nomeação, a decisão não se atentou ao fato de que, no presente caso, não se trata de "concurso público", mas, sim, de um "processo seletivo simplificado", que difere de um certame para provimento de cargos públicos efetivos em diversos aspectos (fl. 227).
+Destaca que o prazo do Edital 04/2014 expirou há quase 03 anos, não mais existindo a situação excepcional que o originou.
+Impugnação apresentada às fls. 240-248.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATA APROVADA DENTRO DO NÚMERO DE VAGAS PREVISTO NO EDITAL. DIREITO SUBJETIVO À NOMEAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1.  A jurisprudência do STJ é pacífica no sentido de que a aprovação em concurso público, dentro do número de vagas previstas no Edital, convalida a mera expectativa em direito subjetivo do candidato a ser nomeado para o cargo a que concorreu e foi devidamente habilitado.
+2.  Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Na origem, JOZEANE DE FRANCA CRUZ impetrou mandado de segurança contra ato atribuído ao Prefeito de Salvador e outro, consistente na ausência de convocação no processo seletivo simplificado promovido pela Secretaria Municipal de Gestão - SEMGE, nos termos do Edital 04/2014, o qual disponibilizava 85 vagas do sistema de cotas raciais destinadas ao cargo de Agente Administrativo do Município de Salvador, mesmo tendo sido aprovada na 70ª colocação, ou seja, dentro das vagas oferecidas no certame.
+O Tribunal de origem denegou a ordem com base nos seguintes fundamentos:
+Na presente hipótese, o Impetrante submeteu-se a processo seletivo simplificado, no ano de 2014, tendo o certame sido homologado em 18.12.2014, prorrogado por mais 02 (dois) anos, com prazo de validade expirado em 29.12.2018.
+Com efeito, o prazo de validade do concurso expirou há quase 03 (três) anos, e, considerando que o mesmo foi realizado visando atender uma necessidade provisória do Poder Público, não há como impor à Municipalidade a convocação do Impetrante, mesmo tendo sido aprovada dentro do número de vagas, tendo em vista que a situação excepcional que justificou sua realização, já não existe mais.
+Assim, eventual concessão da segurança no presente writ, não mais operaria o efeito pretendido, qual seja, determinar à autoridade coatora que realize sua convocação, tendo em vista que o prazo de validade do certame, e consequentemente, a situação excepcional que o fundamentou, já expiraram, perdendo-se o objeto da demanda (fls. 150-151).
+No caso, o Tribunal de Justiça entendeu que, mesmo tendo sido aprovada dentro do número de vagas, a recorrente não possuiria direito à nomeação, uma vez que o prazo de validade do concurso expirou há quase 3 anos, não havendo como impor à Municipalidade a convocação da candidata.
+Ocorre que, nos termos da jurisprudência do STJ, o candidato aprovado em concurso público dentro do número de vagas previstas no edital possui direito subjetivo à nomeação.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. CANDIDATO EXCEDENTE. PRETERIÇÃO. EXISTÊNCIA. DIREITO À NOMEAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. AGRAVO INTERNO DO ESTADO DESPROVIDO.
+1. Verifica-se que a parte impetrada participou do concurso público regido pelo Edital SEPLAG/SEE 04/2014, para provimento de cargos das carreiras de Assistente Técnico de Educação Básica, Especialista em Educação Básica e Professor de Educação Básica do Quadro de Pessoal da Secretaria de Estado de Educação, concorrendo ao cargo de Professor de Educação Básica - PEB - Nível I - Grau A/Educação Física, SRE: Sete Lagoas, para lotação no Município de Maravilhas. O referido Edital ofereceu duas vagas para ampla concorrência e a parte foi aprovada em 5º lugar, portanto, como excedente.
+2. A aprovação em concurso público dentro do número de vagas previstas no Edital convalida a mera expectativa em direito subjetivo do candidato a ser nomeado para o cargo a que concorreu e foi devidamente habilitado.
+ ..
+5. Agravo Interno do Estado desprovido (AgInt no AREsp n. 1.865.316/MG, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 22/11/2021, DJe de 24/11/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS. DESISTÊNCIA DE CANDIDATOS MELHOR CLASSIFICADOS, PASSANDO O IMPETRANTE A FIGURAR DENTRO DAS VAGAS PREVISTAS NO EDITAL. DIREITO À NOMEAÇÃO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL.
+ ..
+III - Em relação àqueles candidatos aprovados dentro do número de vagas, o Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 598099/MS, também submetido à sistemática da Repercussão Geral, fixou orientação no sentido haver direito à nomeação, salvo exceções pontuais. A partir dessa tese, evoluiu para compre ender que, havendo desistência de candidatos melhor classificados, fazendo com que os seguintes passem a constar dentro do número de vagas, a expectativa de direito se convola em direito líquido e certo, garantindo o direito a vaga disputada. Precedentes do Supremo Tribunal Federal.
+IV. Agravo Interno Improvido (AgInt no RMS n. 62.022/AM, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/2/2021, DJe de 1/3/2021).
+Isso posto, nego provimento ao a gravo interno.
