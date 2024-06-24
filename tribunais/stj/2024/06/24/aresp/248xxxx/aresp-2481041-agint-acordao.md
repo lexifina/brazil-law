@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/20165 NÃO CARACTERIZADA. PRESCRIÇÃO. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. PRECLUSÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. O Tribunal de origem entendeu (fl. 41): "Com efeito, a Corte Superior, no âmbito do AgRg no REsp 1460896, reformou o acórdão desta 4ª Turma que afastara a prescrição anterior a 01-2006". Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. É inviável analisar a tese defendida no Recurso Especial de que a matéria estaria preclusa, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Incide a Súmula 7/STJ.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática (fls. 784-786) que conheceu do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à contrariedade aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negou-lhe provimento.
+A parte agravante alega:
+Outrossim, descabida a incidência do óbice do Verbete nº 7/STJ, visto que o recurso especial não enseja o reexame de provas por se tratar de discussão unicamente de direito.
+Com efeito, busca-se desse Colendo Superior Tribunal Justiça o juízo sobre a manifesta afronta aos artigos 223, 502, 502, 505, 507, 508 e 1.000 do CPC/2015, diante da rediscussão de matéria já acobertada pela preclusão em face da concordância inicial do INSS com os cálculos apresentados pela Autora. Ora, é incontroverso no feito que a Autarquia, inicialmente, havia se manifestado pela integridade dos cálculos exequendos. É esse o único fato que importa à análise da ocorrência de preclusão no caso em tela, à luz dos dispositivos afrontados.
+Ao contrário do que registrou o Exmo. Relator, para verificar a ocorrência de preclusão não é necessário revolver peças processuais além daquelas obrigatórias ao julgamento do recurso especial e, por conseguinte, não alcançadas pelo óbice da Sumula nº 7/STJ, quais sejam: recurso especial, agravo, contrarrazões do INSS e acórdãos recorridos.
+(..)
+Do excerto transcrito, observa-se que a Autora rebateu de forma direta e fundamentada o único argumento em que se assentou o julgado de origem, de modo a explicitar que a decisão do Ministro Herman Benjamin no feito a respeito da prescrição foi anterior à manifestação do INSS pela integral concordância com os cálculos da execução, inclusive quanto ao termo inicial do pagamento.
+Portanto, ao contrário do que destacou o i. Relator, com o devido acato, não só houve o combate direto aos fundamentos do acórdão regional, como a argumentação desenvolvida no recurso está plenamente associada às razões da decisão objurgada. Flagrantemente inaplicáveis, portanto, os óbices das Súmulas nº 283 e nº 284/STF.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/20165 NÃO CARACTERIZADA. PRESCRIÇÃO. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. PRECLUSÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. O Tribunal de origem entendeu (fl. 41): "Com efeito, a Corte Superior, no âmbito do AgRg no REsp 1460896, reformou o acórdão desta 4ª Turma que afastara a prescrição anterior a 01-2006". Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. É inviável analisar a tese defendida no Recurso Especial de que a matéria estaria preclusa, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Incide a Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.4.2024.
+Inicialmente, constato que não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte ora recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO OS ARTS. 489, § 1º, IV, 1.022, II, E 1.013 E INCISOS, TODOS DO CPC/15. INOCORRÊNCIA DE DANOS MORAIS.
+I - Na origem, trata-se de ação de rito ordinário ajuizada pelos autores, em face da UNIFESP (PRO-REITORIA DE ASSUNTOS ESTUDANTIS - CAMPUS DE SÃO JOSÉ DOS CAMPOS), com pedido de antecipação dos efeitos da tutela para determinar o restabelecimento de beneficio de auxílio -permanência em favor dos autores, estudantes do curso de Ciência e Tecnologia, bem como para anular as faltas escolares dos autores, permitindo a matrícula dos mesmos para o primeiro semestre de 2014. Na sentença, julgou-se improcedentes os pedidos. No Tribunal a quo, a sentença foi mantida.
+II - Sobre a alegação de malferimento aos arts. 489, § 1º, IV, 1.022, II, e 1.013 e incisos, todos do CPC/15, o Tribunal a quo, na fundamentação do decisum, entendeu que não se verifica a ocorrência de danos morais, razão pela qual é descabida a condenação da apelante ao pagamento de indenização.
+III - Conforme demonstrado dos excertos colacionados do aresto vergastado, o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia travada nos autos, em que pese em sentido diverso da pretensão dos recorrentes, o que não significa, necessariamente, ausência de prestação jurisdicional.
+IV - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+V - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1406990/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2019)
+O Tribunal de origem entendeu (fl. 41):
+Com efeito, a Corte Superior, no âmbito do AgRg no REsp 1460896,reformou o acórdão desta 4ª Turma que afastara a prescrição anterior a 01-2006. A decisão, da lavra do Ministro HERMAN BENJAMIN, foi publicada em 10-11-2014, restando assim redigida:
+(..)
+Contudo, esse argumento não foi atacado pela parte recorrente. Como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Além disso, é inviável analisar a tese defendida no Recurso Especial de que a matéria estaria preclusa, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Incide, portanto, a Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
