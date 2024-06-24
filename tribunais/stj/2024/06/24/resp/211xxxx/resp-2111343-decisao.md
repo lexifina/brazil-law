@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Paraná, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 0007130-54.2021.8.16.0173, assim ementado (fl. 548):
+RECURSO DE APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTE - RESTITUIÇÃO DO VEÍCULO APREENDIDO - AUSÊNCIA DE INTERESSE RECURSAL - ILEGITIMIDADE DE PARTE- NÃO CONHECIMENTO - DOSIMETRIA DA PENA - REPRIMENDA INICIAL - QUANTIDADE DE DROGA CONFISCADA - VALORAÇÃO ESCORREITA - MAJORANTE DA INTERESTADUALIDADE - INAFASTABILIDADE - RECONHECIMENTO DA MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/06 - REQUISITOS PREENCHIDOS (POR MAIORIA) - REGIME SEMIABERTO - HARMONIZAÇÃO AFASTADA - SUBSTITUIÇÃO DA MEDIDA CORPORAL POR RESTRITIVAS DE DIREITOS - INVIABILIDADE - SENTENÇA ALTERADA - RECURSO PARCIALMENTE PROVIDO.
+Não sendo o apelante proprietário do bem, conforme anotação no documento de identificação do veículo, a pretensão de restituição em juízo não deve ser conhecida, por ilegitimidade da parte.
+Com fulcro no art. 42 da Lei nº 11.343/06, a quantidade de entorpecente apreendido constitui fundamento idôneo para justificara exasperação da sanção inicial.
+A causa de aumento prevista no art. 40, inciso V, da Legislação Especial de Tóxicos prescinde da efetiva transposição de divisas, sendo suficiente a demonstração de que a droga tinha como destino outro Estado da Federação.
+Os embargos de declaração opostos pelo recorrente foram rejeitados, nos termos da seguinte ementa (fl. 606):
+EMBARGOS DE DECLARAÇÃO - CONTRADIÇÃO - NÃO OCORRÊNCIA - PEDIDO REJEITADO.
+Os embargos devem ser rejeitados quando não demonstram o vício capaz de macular o dispositivo do acórdão e buscam tão somente rediscutir matéria que já foi objeto de apreciação pela Corte.
+Aclaratórios rejeitados.
+No recurso especial, o recorrente aponta violação do art. 33, § 4º, da Lei n. 11.343/2006, sob a tese de que a atuação como "mula" do tráfico demanda maior rigor na aplicação da minorante, devendo incidir em sua fração mínima.
+Argumenta que a aplicação da fração redutora deve dar-se pelo mínimo legal de 1/6, em situações nas quais o agente, enquanto "mula", presta apoio ocasional à organização criminosa, realizando a fundamental etapa criminosa do transporte da droga, sem a qual se frustra todo o bom sucesso da narcotraficância. Deriva, daí, carga de censura à conduta incompatível com a minoração penal 1/2. A atuação do sujeito ativo como transportador deixou de ser óbice para a minorante; contudo, indica sua aplicação no mínimo de 1/6, segundo o STJ, enquanto Corte de uniformização da jurisprudência das regras infraconstitucionais (fl. 640).
+Ao final da peça recursal, requer o provimento da insurgência, a fim de se aplicar a causa especial de diminuição de pena em 1/6.
+Oferecidas contrarrazões (fls. 689/695), o recurso especial foi admitido na origem (fls. 698/700).
+O Ministério Público Federal opina pelo não conhecimento da insurgência, nos termos da seguinte ementa (fl. 174):
+RECURSO ESPECIAL. CRIMINAL. TRÁFICO DE DROGAS. APLICABILIDADE DA REDUTORA EM GRAUMÍNIMO. INADEQUAÇÃO. REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. PARECER PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Quanto à minorante do tráfico, extrai-se do combatido aresto a seguinte fundamentação (fls. 554/555 - grifo nosso):
+ ..  Na sequência, acolho parcialmente o pleito defensivo, pois entendo ser cabível a incidência da minorante prevista no § 4º, do art. 33, da Lei nº 11.343/06.
+A meu ver, não há indicativos suficientes a atestar o envolvimento do recorrente em outros ilícitos ou sua participação em grupo direcionado à prática reiterada de injustos.
+Ao que tudo indica, trata-se de um episódio isolado na vida do condenado, cuja ação se amolda ao conceito de "mula".
+Franc Washington Vilela não ostenta registros delitivos pretéritos (movs. 53.1, 78.1 e85.1 - AP) nem era conhecido no meio policial, tendo a interpelação sido motivada por uma única denúncia anônima.
+O fato de ter aceitado transportar grande quantidade de maconha, a ser entregue em outro Estado, embora assinale alto grau de reprovabilidade, não permite concluir pela participação efetiva do sentenciado em grupo destinado ao cometimento de atos ilegais.
+Ademais, a sofisticação do modo de execução e a estrutura de logística também não destoam de outras infrações da mesma natureza.
+Vale dizer, não é raro o indivíduo receber a substância proscrita em determinado município e deslocar-se até o destino combinado, mediante pagamento de quantia em dinheiro.
+Inclusive, a jurisprudência do Superior Tribunal de Justiça é no sentido de ser viável reconhecer a benesse nestes casos, a despeito da apreensão de alto volume de entorpecente.
+Sobre o assunto, destaco o seguinte julgado:
+ ..
+Logo, como as informações coligidas apontam para a prática irregular e excepcional da infração denunciada, reconheço o privilégio descrito no art. 33, § 4º, da Lei nº 11.343/06, sancionando o apelante na fração de 1/2 (metade), diante da natureza da droga apreendida.
+Aponto que a escolha da aludida porção se deu em conta de o apenado estar carregando Cannabis sativa, substância que, embora avaliada de menor nocividade dentre os psicoativos, é a grande propulsora do narcotráfico e responsável por considerável parte das mazelas da sociedade (sobretudo a parcela de menor poder econômico), conhecida pela fácil disseminação e grande alcance de usuários.
+Ressalto, ademais, não ter sido tal elemento reputado em qualquer fase da dosimetria, razão pela qual não há óbice na sua ponderação.
+ ..
+Observa-se, do trecho acima, que a Corte de origem apontou a natureza da droga (maconha) como fundamento para aplicação da fração de 1/2 pela incidência da minorante do tráfico.
+No entanto, como apontado pelo recorrente, também deve ser considerada a atuação do acusado como "mula" para modular o benefício legal. Como reiteradamente reconhecido nesta Corte, embora a atuação como "mula" do tráfico não seja suficiente para afastar o referido benefício legal por não denotar, por si só, participação em organização criminosa, pode ser considerada na definição da fração de redução da pena, dada a relevância desse papel para a manutenção do sistema de distribuição de entorpecentes.
+Na mesma direção:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ILEGALIDADE DA BUSCA PESSOAL. INOCORRÊNCIA. PRESENÇA DE FUNDADAS RAZÕES. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. FUNÇÃO DE "MULA" DO TRÁFICO. COLABORAÇÃO COM O CRIME ORGANIZAÇÃO. FRAÇÃO MÍNIMA DEVIDAMENTE JUSTIFICADA. AGRAVO DESPROVIDO.
+1. Não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso.
+2. Na hipótese, o policial federal responsável pela abordagem consignou que o réu chamou sua atenção por estar usando agasalho, em dia que a temperatura estava muito elevada, destoando das demais pessoas no local que usavam roupas eleves. A propósito, o próprio réu " à indagação do magistrado que presidia à audiência sobre se era verdade que sua aparência chamava a atenção por causa da vestimenta, destoante das dos demais passageiros, respondeu afirmativamente, pois de fato usava um casaco no dia".
+3. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+4. A jurisprudência desta Corte, acompanhando o atual posicionamento do STF, no sentido de que a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o réu faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez que se reveste de maior gravidade.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.546.520/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/5/2024 - grifo nosso).
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. PROCESSUAL PENAL. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006 EM FRAÇÃO MÍNIMA. CONDIÇÃO DE MULA DO TRÁFICO. FUNDAMENTAÇÃO IDÔNEA. REGIME. QUANTIDADE EXPRESSIVA DE DROGAS. MANUTENÇÃO DA MODALIDADE MAIS GRAVOSA. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Havendo sido concretamente fundamentada a aplicação da minorante em comento no patamar de 1/6, sobretudo em razão de "estar-se diante de quem se prestou a atuar na condição popularmente conhecida como "mula" do tráfico" (fl. 252), não há contrariedade ao disposto no art. 33, § 4º, da Lei de Drogas" (AgRg no AREsp 684.780/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 19/5/2016).
+2. E, quanto ao regime, conforme consignado na decisão agravada, considerando-se a apreensão de aproximadamente 84kg (oitenta e quatro quilogramas) de cocaína, a modalidade mais gravosa foi corretamente fixada, nos termos do art. 33, § 2º, do Código Penal e do art. 42 da Lei de Drogas.
+3. Agravo regimental improvido.
+(AgRg nos EDcl no HC n. 860.253/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/4/2024 - grifo nosso).
+A relevância do papel de "mula" indica que a fração do redutor deve ser a mínima. Dessa forma, razoável o pleito acusatório de aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, no patamar mínimo de 1/6.
+Por conseguinte, redimensiono a pena do recorrido para 4 anos, 10 meses e 10 dias de reclusão, e 486 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, a fim de reduzir a fração da minorante do tráfico para 1/6, e redimensionar a pena final para 4 anos, 10 meses e 10 dias de reclusão, e 486 dias-multa.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (178 KG DE MACONHA). VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. DOSIMETRIA. PEDIDO DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA NO PATAMAR MÍNIMO. POSSIBILIDADE. ATUAÇÃO COMO MULA. PRECEDENTES.
+Recurso especial provido nos termos do dispositivo.
