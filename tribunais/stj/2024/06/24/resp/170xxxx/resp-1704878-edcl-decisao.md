@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAISATIVO INTERMIDIAÇÃO DE ATIVOS LTDA em face de decisão que negou provimento ao recurso especial, por incidência da Súmula 83/STJ.
+Nas razões dos embargos, a parte embargante defende que existe omissão no julgado, uma vez que, "considerando que o objeto da ação compreende especificamente as únicas 02 (duas) faturas protestadas, bem como que os supostos "valores remanescentes" não foram materialmente constituídos, optando a Recorrida, aqui Embargada, por simplesmente mencionar sua existência, sem apresentar, ao menos, prova das faturas emitidas (as quais não têm sequer numeração associada e não foram objeto de protesto), resta induvidoso que a R. Sentença poderia chegar a resultado diverso em relação à exigibilidade da cobrança supostamente em aberto." (fl. 552).
+Complementa, ainda, que "Nestes termos, é forçoso reconhecer a ocorrência de omissão e obscuridade a serem objeto de apreciação, rogando a ora Embargante para que, nos termos dos incisos I e III, do artigo 1.022, do Código de Processo Civil, sejam os presentes embargos de declaração conhecidos, e, no mérito, acolhidos a fim de que seja sanada a omissão e esclarecida a obscuridade aqui expostas e relacionadas à inexistência de direito materialmente constituído por meio de reconvenção e/ou ação autônoma, tratando-se da inclusão de "valores remanescentes" meramente apontados em contestação e que realmente não compõem o objeto da ação declaratória, malferindo-se a coisa julgada e os limites da lide e das questões decididas, além do pronunciamento acerca do dissídio cuja confrontação analítica foi minuciosamente apresentada pela Embargante." (fl. 552).
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Sem razão à embargante.
+A decisão embargada assim decidiu a controvérsia:
+"Cinge-se a controvérsia acerca da possibilidade de, em sede de cumprimento de sentença, incluir valores que não foram objeto de ação de inexigibilidade de débito julgada improcedente, ainda que decorrentes do mesmo negócio jurídico.
+De início, observa-se que, apesar da oposição dos embargos de declaração na origem, o Tribunal a quo não se manifestou a respeito do art. 15, "a", "b", e "c", da Lei n. 5.474/68.
+Nesse contexto , cabe ao recorrente, caso o Tribunal de origem permaneça silente sobre a matéria ventilada, indicar violação do art. 1.022 do CPC/2015 (art. 535 do CPC/73), o que não ocorreu, incidindo, no caso, o óbice da Súmula n. 211 do STJ.
+A propósito, vide:
+(..)
+Avançando, o Tribunal de origem, analisando as circunstâncias do caso, deu provimento ao agravo de instrumento interposto por SONDAPROCWORK OUTSOURCING INFORMÁTICA LTDA, consignando pela possibilidade de inclusão dos valores remanescentes do contrato, haja vista a constatação da regularidade do contrato e a necessidade de pagamento pelos serviços prestados, como se infere do trecho abaixo transcrito (fls. 218-220):
+(..)
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que, " em razão das alterações procedidas no Código de Processo Civil de 1973 pela Lei 11.232/2005, notadamente a revogação do art. 584 e a inclusão do 475-N, tornou-se possível a execução de sentença declaratória, de modo a privilegiar o princípio da efetividade e superar a necessidade de busca de nova tutela jurisdicional para deduzir pretensão já acobertada pela coisa julgada." (AgInt no REsp n. 1.491.200/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/5/2019, DJe de 14/6/2019.) Além disso, o "Referido artigo processual aplica-se também às sentenças declaratórias que, julgando improcedente, parcial ou totalmente, o pedido do demandante, reconhecem a existência de obrigação do autor em relação ao réu da demanda, independentemente de constar na contestação pedido de satisfação de crédito, legitimando o réu a propor o cumprimento de sentença. " (REsp n. 1.359.200/SC, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 3/5/2016, DJe de 10/5/2016.)
+(..)
+Na hipótese, portanto, a improcedência dos pedidos formulados em sede de ação de inexigibilidade de débito, por concluir que os serviços foram prestados, devendo haver a devida remuneração, permite a inclusão dos valores remanescentes em sede de cumprimento de sentença, conforme o disposto no art. 475-N, I, do CPC/73.
+Sendo assim, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar." (grifou-se)
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
