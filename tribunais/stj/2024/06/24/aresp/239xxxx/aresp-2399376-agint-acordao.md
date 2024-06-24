@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FATURAS. COBRANÇA. SERVIÇOS PRESTADOS. VIGÊNCIA CONTRATUAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A matéria em discussão não está prequestionada, não tendo sido sequer suscitada em declaratórios, atraindo a incidência da Súmula nº 282/STF.
+2. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC, o que não é o caso dos autos.
+3. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+4. Agravo interno não provido .
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BRASIMET PROCESSAMENTO TERMICO LTDA,  contra  a  decisão  de fls. 505/509 e-STJ que conheceu do agravo para não conhecer do recurso especial devido  à  incidência das Súmulas nº 282/STF e nº 7/STJ.
+Nas  presentes  razões,  a  parte  agravante  afirma,  em  síntese,  que  os óbices processuais invocados não se encontram presentes no caso concreto.
+Aduz que a mera oposição de embargos declaratórios supre o requisito relativo ao prequestionamento, ainda que ficto, sendo desnecessária a menção expressa ao dispositivo legal violado.
+Sustenta, ainda, a desnecessidade de reanalisar provas porque a discussão reside na inexistência de comprovação acerca do cumprimento do contrato.
+Não houve impugnação (fl. 528 e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FATURAS. COBRANÇA. SERVIÇOS PRESTADOS. VIGÊNCIA CONTRATUAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A matéria em discussão não está prequestionada, não tendo sido sequer suscitada em declaratórios, atraindo a incidência da Súmula nº 282/STF.
+2. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC, o que não é o caso dos autos.
+3. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+4. Agravo interno não provido .
+VOTO
+A insurgência não merece prosperar.
+O agravante não trouxe argumentos capazes de infirmar a decisão atacada.
+Conforme consignado na decisão ora agravada, a alegada ofensa ao art. 597 do Código Civil  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  tampouco foi suscitada nos aclaratórios, atraindo a incidência da Súmula nº 282/STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBERTURA SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CIÊNCIA DA RESPOSTA DA SEGURADORA ACERCA DA COBERTURA. COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DEMAIS QUESTÕES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PETIÇÕES COMPLEMENTARES. APRESENTAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO DESPROVIDO.
+(..) 3. A Corte de origem não se manifestou sobre as demais questões suscitadas, as quais nem foram aventadas nos embargos de declaração, o que revela a ausência de prequestionamento, a atrair a incidência dos enunciados n. 282 e 356 da Súmula do STF.
+4. De acordo com o entendimento jurisprudencial do Superior Tribunal de Justiça, nem mesmo as questões de ordem pública dispensam o prévio debate pela instância de origem. (..)" (AgInt no AgInt no AREsp n. 1.612.931/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/4/2024, DJe de 25/4/2024)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO NÃO SUSCITADA NOS EMBARGOS DE DECLARAÇÃO. SÚMULAS N. 282 E 356 DO STF. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..) 4. Ausente o enfrentamento da matéria pelo acórdão recorrido e não suscitada a questão nos embargos de declaração opostos, inviável o conhecimento da matéria, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF. (..)" (AgInt no AREsp n. 2.443.850/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024)
+Importa destacar que,  de  acordo  com  a  jurisprudência  deste  Superior  Tribunal,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art.  1.025  do  CPC,  exige  que,  no  mesmo  recurso,  seja  reconhecida  a  existência  de  violação  do  art.  1.022  do  CPC,  o  que  não  é  o  caso  dos  autos.
+Nesse sentido:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CIVIL  E  CONSUMIDOR.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA.  ART.  1.021,  §  1º,  DO  CPC.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  211/STJ.  PREQUESTIONAMENTO  FICTO  NÃO  CONFIGURADO.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC  QUE  SEQUER  FOI  ARGUIDA.  APLICAÇÃO  DE  MULTA  COM  FUNDAMENTO  NO  ART.  1.026,  §  2º,  DO  CPC.  IMPOSSIBILIDADE  DE  REEXAME.  SÚMULA  7/STJ.
+1.  Não  pode  ser  conhecido  o  agravo  interno  na  parte  relativa  ao  dissídio  jurisprudencial,  tendo  em  vista  a  ausência  de  impugnação  específica  ao  fundamento  adotado  na  decisão  agravada.  Inteligência  do  art.  1.021,  §  1º,  do  CPC.
+2.  Ausente  o  prequestionamento  quando  o  Tribunal  de  origem  não  emitiu  juízo  de  valor  acerca  do  dispositivo  legal  apontado  como  violado.  Aplicação  da  Súmula  211/STJ.
+3.  Prequestionamento  ficto  que  pressupõe  não  apenas  a  oposição  de  embargos  de  declaração  na  origem,  mas  também  a  alegação,  perante  este  Superior  Tribunal,  da  ocorrência  de  violação  do  art.  1.022  do  CPC,  o  que  não  ocorreu  no  presente  caso.
+4.  O  exame  do  recurso  especial,  para  afastar  a  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC,  demandaria  a  incursão  no  acervo  fático  dos  autos,  o  que  não  se  mostra  possível  nesta  instância  especial.  Aplicação  da  Súmula  7/STJ.
+5.  AGRAVO  INTERNO  CONHECIDO  EM  PARTE  E  DESPROVIDO."  (AgInt  no  REsp  1.839.004/SP,  Relator  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  28/11/2022,  DJe  de  13/12/2022  -  grifou-se)
+De resto, observa-se que o Tribunal de origem, à luz da prova dos autos, concluiu que as faturas cobradas referem-se a serviços prestados na vigência do contrato firmado entre as parte, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"Primeiramente, cumpre destacar que o contrato de prestação de serviços postais foi firmado entre as partes em 31/03/2011, com prazo de vigência de 12 (doze) meses, prorrogáveis por iguais períodos até o limite de 60 (sessenta) meses (ID 127186770 - pág. 01/04).
+Em e-mail enviado a representante da ré em 04/08/2017, uma pessoa, provavelmente funcionária da ECT, confirma que o contrato de nº 99122744226 foi cancelado em 31/03/2016 (ID127186770 - pág. 122).
+A ECT não esclareceu a causa do "cancelamento" do contrato, mas, ao que parece, ele chegou ao término de sua vigência, por decurso do prazo máximo de 60 (sessenta) meses.
+E as faturas trazidas pela ECT, de fato, têm vencimento em datas posteriores, a saber: 11/04/2016, 13/05/2016 e 13/06/2016 (ID 127186756 - pág. 06).
+Não há dúvidas, portanto, da existência do contrato firmado entre as partes. O que se discute é se tais faturas seriam referentes a serviços prestados ainda na vigência do contrato ou se, de modo diverso, seriam relativas a período posterior.
+E, quanto a isso, entendo que a análise conjunta dos elementos dos autos evidencia que as faturas são referentes a serviços prestados durante a vigência contratual.
+Com efeito, vê-se que a data de vencimento da primeira das faturas é no mês imediatamente posterior ao término do contrato (abril de 2016). As outras duas têm vencimento nos meses imediatamente posteriores também.
+Referida prática tem expressa previsão contratual, in verbis (ID 127186772 - pág.03/04): (..)Além disso, em e-mail enviado à ECT em 04/08/2017, uma representante da requerida pede para que lhe sejam enviados "todos os valores pendentes para pagamento", o que é mais um indicativo de que os prepostos da ré sabiam da existência de débitos pretéritos junto à autora (ID 127186756 - pág. 124/125).
+Desta forma, considerando que o contrato de prestação de serviços firmado entre as partes era válido até 31/03/2016, que as faturas comerciais que embasam a presente monitória foram emitidas imediatamente após essa data, tenho por demonstrado que tais faturas se referem a serviços prestados durante a vigência do contrato" (fls. 360/361 e-STJ - grifou-se).
+Assim, inarredável o óbice da Súmula nº 7/STJ, a inviabilizar o exame da pretensão recursal nesta instância especial.
+Confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE EMPREITADA. OFENSA A PRINCÍPIO. IMPOSSIBILIDADE. PETIÇÃO INICIAL E DOCUMENTOS INDISPENSÁVEIS. TEMA NÃO DEBATIDO. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N.º 211 DO STJ. PREQUESTIONAMENTO IMPLÍCITO. NÃO OCORRÊNCIA. COMPROVAÇÃO DA RESPONSABILIDADE. NÃO CUMPRIMENTO DO CONTRATO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N.º 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui entendimento de ser incabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+2. As matérias pertinentes ao art. 320 do NCPC não foram objeto de debate prévio nas instâncias de origem, a despeito da oposição de embargos de declaração. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 211 do STJ.
+3. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local, o que não ocorreu na hipótese dos autos.
+4. No caso, a partir da interpretação das cláusulas do contrato, bem como da análise dos elementos fáticos da causa, o Tribunal estadual reconheceu a responsabilidade da agravante e o não cumprimento do contrato. A pretensão de rever esse entendimento encontra óbice nas Súmulas n.os 5 e 7 do STJ.
+5. Agravo interno não provido." (AgInt no AREsp n. 2.403.043/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PAGAMENTO DE SERVIÇOS ADVOCATÍCIOS. EMISSÃO DE NOTA PROMISSÓRIA. DECURSO DO PRAZO. OBRIGAÇÃO DE PAGAR QUANTIA CERTA. ADEQUAÇÃO DA VIA ELEITA. FORÇA OBRIGACIONAL DA AVENÇA. EXIGIBILIDADE DA OBRIGAÇÃO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, o Tribunal estadual concluiu que a ação monitória tem como objeto verdadeira obrigação de pagar - e não de fazer - pleiteada pelos recorridos a título de perdas e danos em razão do decurso do prazo contratualmente estabelecido para a emissão de nota promissória no valor de R$ 400.000,00 (quatrocentos mil reais), nos exatos termos da avença pactuada entre as partes.
+2. Não se verificou a invocada ausência de interesse de agir em virtude da natureza da obrigação, uma vez que não identificada a apontada alternatividade em relação às demais obrigações constantes da avença. Também não se observou incongruência entre a prova escrita apresentada pelos recorridos e a obrigação pleiteada, pois, pelos documentos que instruíram a exordial, ressaiu inegável o direito afirmado pelos recorridos em relação à obrigação de pagar vindicada.
+3. Ficou demonstrado que a avença assinada pelas partes é peremptória ao assentar que as obrigações de fazer assumidas pela sociedade empresária demandada configuravam forma de pagamento pelos serviços advocatícios já prestados pelos causídicos recorridos, afastando-se, assim, qualquer dúvida razoável quanto ao cumprimento de sua parte na obrigação e à conseguinte necessidade de remuneração.
+4. Para alterar as conclusões do acórdão recorrido, que concluiu pela adequação da via eleita e pela exigibilidade da obrigação, seria necessário interpretar as cláusulas contratuais e revolver o conjunto fático-probatório dos autos, providências vedadas no âmbito estreito do recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno desprovido." (AgInt no AREsp n. 2.254.773/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/4/2024, DJe de 2/5/2024 - grifou-se)
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
