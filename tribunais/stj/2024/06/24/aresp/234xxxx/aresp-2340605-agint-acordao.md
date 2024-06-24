@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/06/2024 a 24/06/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE. INVALIDEZ ANTERIOR AO REINGRESSO DA SEGURADA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A alteração das conclusões firmadas no voto condutor, no que se refere à anterioridade da incapacidade da segurada ao reingresso no RGPS, demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte que conheceu do agravo, para não conhecer do recurso especial, por incidir na hipótese o teor da Súmula n. 7/STJ.
+A parte agravante alega o equívoco do decisum, na medida em que (fl. 295-298):
+ ..
+Conforme bem esclarecido em seu Recurso Especial, em perícia médica judicial realizada, o D. Perito consignou que a data aproximada da incapacidade é de março de 2019, sendo que a decorre de progressão ou agravamento da doença.
+Convém mencionar que, tais fatos não caracterizam o reexame de prova, vedado pela súmula 7 do STJ, mas sim, a valoração das provas produzidas nos autos.
+Busca-se, assim, apenas a devida aplicação do direito ao referido caso, com o reconhecimento de que a lei é clara ao permitir a concessão do benefício, ainda que a doença tenha surgido antes do ingresso ou reingresso ao RGPS, quando a incapacidade sobrevier por motivo de progressão ou agravamento da doença ou da lesão, fato que ocorreu na presente demanda, motivando a interposição do Recurso Especial.
+ ..
+Veja que, o reexame de provas se caracterizaria, caso o intuito da Agravante fosse discutir ou contestar a conclusão médico pericial. Entretanto, o objetivo do Recurso é a revaloração da prova produzida, a fim de adequar as conclusões médico periciais ao disposto na legislação em voga.
+Ademais, em relação a divergência jurisprudencial apontada em sede de Recurso Especial, nos moldes da alínea "c", do art. 105, da CF, restou devidamente demonstrada nos termos legais, a similitude fática e jurídica entre os casos colacionados, onde houveram interpretações diversas de lei federal.
+A Nobre Ministra, entendeu que a Agravante simplesmente transcreveu as ementas divergentes, em sua fundamentação.
+Contudo, conforme se observa através do Recurso Especial interposto pela Agravante, houve devidamente a transcrição dos acórdãos divergentes, a indicação dos dispositivos legais violados, a realização do cotejo analítico do dissídio jurisprudencial invocado, demonstrando a similitude fática entre o aresto impugnado e o acórdão paradigma, bem como, as soluções jurídicas diversas para cada caso.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE. INVALIDEZ ANTERIOR AO REINGRESSO DA SEGURADA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A alteração das conclusões firmadas no voto condutor, no que se refere à anterioridade da incapacidade da segurada ao reingresso no RGPS, demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que a insurgência recursal não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na origem, a Corte de origem, ao firmar sua convicção, adotou a seguinte fundamentação (f. 213-214):
+Verifica-se, por meio de consulta ao extrato do CNIS presente nos autos, que a parte autora possui registro de contribuições entre 01/01/2009 e 19/02/2009 e entre 01/01/2018 e 31/05/2019.
+Quanto à alegada invalidez, o laudo médico judicial, elaborado após exame realizado em 27/11/2019 e que foi complementado duas vezes, atesta que a demandante sofre de transtornos da coluna lombar, estando parcial e temporariamente inapta ao trabalho. O perito fixou a data de início da incapacidade em março de 2019, mas observou que o fez em virtude da ausência de exames e consignou que a doença é progressiva e a incapacidade surgiu certamente ao menos entre um a três anos antes.
+Registro, ainda, que a autora requereu o benefício, administrativamente, em fevereiro de 2019, sendo que na perícia administrativa declarou que os sintomas da moléstia se exacerbaram cerca de cinco anos antes, portanto por volta de 2014.
+Diante do exposto, conclusão indeclinável é a de que a postulante somente se refiliou e reiniciou o recolhimento de contribuições previdenciárias quando já se encontrava inapta para o trabalho.
+É vedada a concessão de benefício por incapacidade quando a doença é anterior à filiação do segurado nos quadros da Previdência, ressalvados os casos em que a incapacidade sobrevier por motivo de progressão ou de agravamento desta doença, o que não é o caso da presente demanda (art. 59, parágrafo único e o art. 42,§ 2º, ambos da Lei 8.213/91.
+Desta forma, não se há falar em concessão de aposentadoria por invalidez ou auxílio-doença à parte autora.
+Observa-se, dessa feita, que a desconstituição das premissas lançadas pelo Tribunal a quo no que se refere à anterioridade da incapacidade da segurada ao reingresso no RGPS, demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. NÃO OCORRÊNCIA. INCAPACIDADE PREEXISTENTE AO RETORNO DO SEGURADO DO RGPS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA PREJUDICADA.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS objetivando o restabelecimento do auxílio-doença e sua posterior conversão em aposentadoria por invalidez.
+II - Não viola o art. 489, § 1º, IV, do CPC/2015 o acórdão que contém relatório e fundamentação e que enfrenta todos os argumentos deduzidos capazes de, em tese, infirmar a conclusão adotada anteriormente, dando-lhes, no entanto, deslinde que não atende aos interesses da parte.
+III - Havendo o Tribunal de origem, com lastro no conjunto probatório dos autos, concluído que a incapacidade do recorrente é preexistente ao seu reingresso no sistema de previdência social, a inversão do julgado demandaria o reexame desses mesmos fatos e provas, o que é vedado no âmbito do recurso especial ante a incidência do enunciado n. 7 da Súmula do STJ. Precedentes: REsp n. 1.473.719/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 19/4/2018, DJe 8/5/2018; e AgInt no AREsp n. 1.053.204/MT, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 13/6/2017, DJe 27/6/2017.
+IV - A incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+V - Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento. (AREsp n. 1.354.584/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/2/2019, DJe de 15/2/2019.) (grifei)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. AUSÊNCIA DOS REQUISITOS, CONFORME CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. RECURSO DO QUAL NÃO SE CONHECE.
+1. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que a incapacidade laborativa atingiu a parte autora anteriormente ao seu reingresso ao RGPS.
+2. Rever o entendimento consignado pela Corte local quanto ao momento em que surgiu a capacidade laborativa da parte autora requer revolvimento do conjunto fático-probatório, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal entendimento. Assim, a análise dessa questão demanda o reexame de provas, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+3. Recurso Especial não conhecido. (REsp n. 1.656.463/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/4/2017, DJe de 2/5/2017.) (grifei)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. ACÓRDÃO RECORRIDO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DE SEUS REQUISITOS. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I.
+Agravo interno aviado contra decisão publicada em 07/10/2016, que, por sua vez, julgara recurso interposto contra a decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. O acórdão recorrido, à luz das provas dos autos, concluiu que, "conforme laudo pericial e documentos particulares acostados, a incapacidade laborativa atingiu a apelante anteriormente ao seu reingresso ao RGPS - Regime Geral da Previdência Social, quase vinte anos após seu último recolhimento, em 11.1989, quando ainda não havia readquirido a qualidade de segurada", pelo que julgou improcedente o pedido de concessão de aposentadoria por invalidez ou auxílio-doença.
+III. Conforme entendimento reiterado deste Superior Tribunal de Justiça, "examinar a preexistência ou não da moléstia à época da refiliação, bem como analisar a progressão ou agravamento da incapacidade, como pretende a recorrente, demandaria a incursão no acervo fático-probatório, prática vedada pela Súmula 7/STJ" (STJ, AgRg no AREsp 819.192/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 01/03/2016).
+IV. Agravo interno improvido. (AgInt no AREsp n. 899.371/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 14/3/2017, DJe de 27/3/2017.) (grifei)
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
