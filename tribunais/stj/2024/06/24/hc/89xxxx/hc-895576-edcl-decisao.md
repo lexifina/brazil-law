@@ -1,0 +1,10 @@
+DECISÃO
+O embargante alega a ocorrência de omissão na decisão de fls. 112-115, em que indeferi liminarmente o habeas corpus, diante da patente supressão de instância.
+Para tanto, assere a defesa que, "se a tese de erro material impede o conhecimento do HC, ao menos a tese de error in judicando, causado pela NÃO valoração da confissão da Ré Larissa em prol do Paciente no acórdão proferido nos autos nº 0000858-82.2013.403.6005, merece ser matéria de apreço pelo Nobre e Douto Ministro" (fl. 1.167).
+A esse respeito, urge consignar que, " s em a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior" (EDcl no AgRg nos EDcl no AREsp n. 1.205.005/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/6/2021, destaquei).
+Na hipótese, apontou a Corte de origem que, " f inda a fase probatória, o cenário estabelecido nos autos estampa a existência de dúvida razoável sobre a autoria dos fatos por parte de FABRÍCIO, o que determina sua absolvição, por ausência de provas suficientes para condená-lo" (fl. 28).
+Todavia, assere o embargante que "a irrefutável prova da não concorrência para prática da infração penal (art. 386, inciso IV, do CPP), encontra-se concretizada no depoimento judicial da Ré Larissa que confessou o cometimento do delito, ao passo que confirmou a versão do paciente Fabrício, no sentido de que o mesmo não concorreu para a infração penal" (fl. 8).
+Entretanto, " n o tocante ao pleito de absolvição  .. , cabe ressaltar que o habeas corpus não é a via adequada para apreciar tal pedido, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do habeas corpus, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no HC n. 809.144/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 17/5/2023.)
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
