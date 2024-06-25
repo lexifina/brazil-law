@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO INEXISTENTE. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do sempre lembrado art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando no julgado houver ambiguidade, obscuridade, contradição ou omissão.
+2. Na espécie, não há falar em omissão na decisão embargada, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que o aumento da pena-base, com fundamento no art. 42 da Lei n. 11.343/2006, deu-se em razão da apreensão de expressiva quantidade de entorpecentes, qual seja, "1,642kg da substância entorpecente popularmente conhecida como maconha e 806g da substância entorpecente popularmente conhecida como crack".
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 83):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. QUANTIDADE DE DROGA. ILEGALIDADE. AUSÊNCIA. AGRAVO DESPROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+2. Na dosagem penal, evidencia-se a discricionariedade regrada ao julgador, o qual se encontra vinculado aos fatos postos e às suas especificidades, tanto objetivas quanto subjetivas, de onde tais circunstâncias somente em casos de patente ilegalidade podem ser revistos por esta Corte Superior, que é vocacionada à apreciação do Direito.
+3. A exasperação da pena-base se deu com suporte na quantidade de entorpecente apreendida, não havendo o que ser reparado na decisão agravada, pois é da jurisprudência desta Corte que, em se tratando de crime de tráfico de drogas, como no caso, o juiz deve considerar, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no art. 42 da Lei n. 11.343/2006.
+4. Nesse contexto, não tendo o agravante trazido nenhum argumento apto a ensejar a alteração da decisão ora agravada, esta deve ser mantida por seus próprios fundamentos.
+5. Agravo regimental desprovido.
+Sustenta a defesa que a "respeitável decisão colegiada sobreveio sem que, entretanto, fosse discutida a matéria de proposição da controvérsia jurídica do Agravo Regimental, o que pensamos ser representativo da OMISSÃO apontada em primeiro plano" (fl. 97).
+Aduz, outrossim, "CONTRADIÇÃO, esta inefável e decorrente de só leitura do precedente avocado pela decisão sob aclaratórios" (fl. 97).
+Requer o acolhimento dos presentes embargos, para a reversão do resultado do julgamento.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO INEXISTENTE. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do sempre lembrado art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando no julgado houver ambiguidade, obscuridade, contradição ou omissão.
+2. Na espécie, não há falar em omissão na decisão embargada, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que o aumento da pena-base, com fundamento no art. 42 da Lei n. 11.343/2006, deu-se em razão da apreensão de expressiva quantidade de entorpecentes, qual seja, "1,642kg da substância entorpecente popularmente conhecida como maconha e 806g da substância entorpecente popularmente conhecida como crack".
+3. Embargos de declaração rejeitados.
+VOTO
+O acórdão embargado possui a seguinte fundamentação (fls. 88-90):
+O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+Frise-se que o ato de confeccionar a dosimetria da reprimenda no âmbito de uma lide penal comporta discricionariedade regrada ao julgador, o qual encontra-se vinculado aos fatos postos e às suas especificidades, tanto objetivas quanto subjetivas, de onde tais circunstâncias somente em casos de patente ilegalidade podem ser revistos por esta Corte Superior, que é vocacionada à apreciação do Direito.
+Os julgadores pretéritos agiram em conformidade com a jurisprudência do Superior Tribunal de Justiça, uma vez que o aumento da pena-base, com fundamento no art. 42 da Lei n. 11.343/2006, se deu em razão da apreensão de expressiva quantidade de entorpecentes, qual seja, "1,642kg da substância entorpecente popularmente conhecida como maconha e 806g da substância entorpecente popularmente conhecida como crack" (fl. 40).
+Conforme dito na decisão agravada, mesmo que nas instâncias ordinárias não tenha havido menção expressa a respeito da natureza mais gravosa do entorpecente - no caso, o crack - a quantidade do estupefaciente é elevada, situação que justifica o incremento da pena basilar.
+"Uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, com fundamento nas circunstâncias do crime, nos maus antecedentes do acusado e na expressiva quantidade de drogas, - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado" (AgRg no HC n. 850.911/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Veja-se também:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DE INTIMAÇÃO DO DEFENSOR DATIVO. TESE NÃO ENFRENTADA PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE EXCESSO NA DOSIMETRIA DA PENA. AUSÊNCIA DE ILEGALIDADE. DEVIDA FUNDAMENTAÇÃO QUANTO ÀS VETORIAIS CONSIDERADAS REPROVÁVEIS. QUANTIDADE DE DROGA APREENDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A irresignação sobre a nulidade da intimação do defensor dativo não foi debatida na instância ordinária, circunstância que impede o pronunciamento desta Corte Superior a respeito, sob pena de se incorrer em indevida supressão de instância.
+2. Quanto à culpabilidade, às circunstâncias e à quantidade de drogas, a fundamentação apresentada mostra-se idônea, baseada em elementos concretos, cuja avaliação está situada no campo da discricionariedade do julgador.
+3. A quantidade e a natureza da droga apreendida é fundamento idôneo para exasperar a pena-base e deve preponderar sobre as demais circunstâncias judiciais, não se constatando ilegalidade na dosimetria da reprimenda fixada, tendo em vista a apreensão de 740g de cocaína.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 810.482/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. MANIFESTA ILEGALIDADE. CONHECIMENTO. POSSIBILIDADE. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO COM FUNDAMENTO NA QUANTIDADE DE DROGA APREENDIDA (2 KG DE MACONHA). IMPOSSIBILIDADE. REDIMENSIONAMENTO DA PENA. NECESSIDADE. APLICAÇÃO DA CAUSA DE AUMENTO NA FRAÇÃO DE 1/2, COM A FIXAÇÃO DO REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA NÃO RECOMENDÁVEL. AGRAVO PROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, "em razão da competência do Pretório Excelso e deste Superior Tribunal tratar-se de matéria de direito estrito, prevista taxativamente na Constituição da República, este Superior Tribunal de Justiça, nos casos de utilização do habeas corpus em substituição ao recurso próprio, entende por deferir a ordem, ainda que de ofício, em caso de flagrante ilegalidade" (AgRg no HC n. 670.736/MT, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).
+2. A quantidade de substância entorpecente e sua natureza devem ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, e apenas de forma supletiva podem justificar o afastamento do benefício do art. 33, § 4º, da mesma lei, se o contexto da apreensão evidenciar dedicação à atividade criminosa.
+3. Apesar de a quantidade de droga (2 kg de maconha) não ser fundamento suficiente para o afastamento da minorante do tráfico privilegiado, justifica a sua aplicação na fração de 1/2, desde que a pena-base não tenha sido exasperada, como no caso, razão pela qual o agravo deve ser provido para a fixação da pena do agravado em 2 anos e 6 meses de reclusão e 250 dias-multa.
+4. A quantidade de droga apreendida enseja a fixação do regime inicial imediatamente mais gravoso, o semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do CP, o que também demonstra não ser recomendável a substituição da pena privativa de libedade por penas restritivas de direitos, nos termos do art. 44, I, do CP.
+5. Agravo regimental provido.
+(AgRg no HC n. 797.233/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/9/2023, DJe de 21/9/2023.)
+Nesse contexto, não tendo o agravante trazido nenhum argumento apto a ensejar a alteração da decisão ora agravada, esta deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando no julgado houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há falar em omissão na decisão embargada, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que o aumento da pena-base, com fundamento no art. 42 da Lei n. 11.343/2006, deu-se em razão da apreensão de expressiva quantidade de entorpecentes, qual seja, "1,642kg da substância entorpecente popularmente conhecida como maconha e 806g da substância entorpecente popularmente conhecida como crack" (fl. 40), situação albergada pela massiva e pacífica jurisprudência desta Corte S uperior.
+Assim, não havendo omissão ou contradição no julgado, rejeito os embargos de declaração.
+É o voto.
