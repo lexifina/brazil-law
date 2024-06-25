@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, embargos de declaração opostos por FABRÍCIO DO VALE BARRETTO, contra decisão que negou provimento ao recurso ordinário.
+O embargante alega a existência de omissão acerca das seguintes questões (fl. 1.207):
+a) previsão editalícia de provimento de cargos públicos surgidos durante a validade do concurso público, independentemente de eventual preterição por servidor temporário;
+b) o surgimento de incontroversas 35 vagas do cargo efetivo de "Técnico Legislativo - Administrativa" (antigo "Técnico de Nível Médio - Administrativa") durante a validade do concurso público;
+c) as partes impetradas sustentarem ilicitamente inexistir cadastro de reserva e, por isso, impossibilidade de prover cargos além dos 38 previstos no Edital;
+d) a inexistência de alegações como matéria de defesa de qualquer óbice orçamentário para nomeação, bem como de impugnação do quanto exposto acerca da disponibilidade financeira (com preclusão configurada);
+e) a necessidade de serviços administrativos comprovada por ofício da autoridade coatora, ofício do Superintendente de Recursos Humanos, pareceres do Ministério Público Estadual e do Ministério Público Junto ao Tribunal de Contas estadual, criação de cargos por lei, publicação de novo edital para provimento dos cargos de "Técnico Legislativo - Administrativa" (antigo "Técnico de Nível Médio - Administrativa") e previsão normativa de brevíssimas nomeações; e
+f) inexistência de preterição de candidato aprovado em concurso público na hipótese em que a Administração Pública procede à nomeação de outros candidatos em classificação inferior por força de decisão judicial e que o direito do recorrente não está condicionado ao exercício do direito de ação por candidatos aprovados em melhores posições do que a sua.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou manifestação expressa acerca dos motivos pelos quais foi desprovido o recurso, consignando-se que:
+No caso, o recorrente foi aprovado na 393ª colocação para o cargo de técnico de nível médio - administrativa - o Edital 01/2014 previa apenas 38 vagas para o cargo -, fora do número de vagas de preenchimento obrigatório, portanto, o que demonstra a inexistência de direito líquido e certo.
+Nos termos da jurisprudência do STJ, o candidato aprovado em colocação que ultrapassa o número de vagas previstas no edital do certame tem mera expectativa de direito à nomeação, ainda que haja o surgimento de novas vagas para o mesmo cargo durante o prazo de validade concurso, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da Administração.
+(..).
+Ressalte-se que a simples existência de contratações temporárias não configura preterição arbitrária e imotivada por parte da Administração Pública, devendo ser comprovada a existência de vagas efetivas para o mesmo cargo ao qual restou classificado o candidato e que as contratações se deram fora das hipóteses permitidas, o que não ocorreu no caso dos autos.
+Saliente-se, ainda, que o acórdão recorrido afastou a existência de qualquer ilegalidade decorrente da ausência de nomeação do impetrante. Confira-se (fl. 957):
+Registre-se, ademais, que o Impetrante não foi aprovado dentro do número de vagas previsto no edital do concurso, não houve afronta à ordem de classificação, não surgiram novas vagas e não houve ato arbitrário e imotivado da Administração que ensejasse a preterição de candidato inserido no cadastro reserva.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
