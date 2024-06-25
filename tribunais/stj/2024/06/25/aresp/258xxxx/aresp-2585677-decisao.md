@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ANA PAULA DE CARVALHO SANTORO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. FORNECIMENTO DE ENERGIA ELÉTRICA. REVISÃO DE FATURA E REPARAÇÃO DE DANOS. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DAS PARTES. DECISÃO QUE DEFERE TUTELA DE URGÊNCIA APENAS PARA QUE A RÉ SE ABSTENHA DE INTERROMPER O FORNECIMENTO DE ENERGIA ELÉTRICA, OPORTUNIDADE EM QUE O JUÍZO DETERMINA O DEPÓSITO JUDICIAL DA QUANTIA RELATIVA À MEDIA DOS DOZE MESES ANTERIORES. INCLUSÃO DO NOME DO TITULAR DAS FATURAS, FALECIDO GENITOR DA AUTORA, NOS CADASTROS RESTRITIVOS ANTES DE EFETUADO O DEPÓSITO JUDICIAL. EXERCÍCIO REGULAR DE DIREITO. DANO MORAL NÃO CONFIGURADO. REFORMA DA SENTENÇA PARA EXCLUSÃO DA VERBA REPARATÓRIA.
+Embargos de declaração rejeitados (e-STJ fls. 359/360).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação do art. 14 da Lei n. 8.078/1990 e dos arts. 186 e 927 do Código Civil, argumentando que faz jus à indenização por danos morais presumidos em razão da indevida inclusão do nome do titular da conta de energia nos cadastros restritivos de crédito (e-STJ fls. 367/376).
+Contrarrazões às e-STJ fls. 381/387.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Os autos tratam de ação de inexigibilidade de cobrança de fatura de energia elétrica
+O Tribunal a quo decidiu dar provimento ao apelo da parte adversa para excluir da condenação a verba fixada na sentença a título de danos morais, pelas seguintes razões (e-STJ fls. 323/324):
+Quanto à reparação de danos, a sentença deve ser reformada. Conforme narrado, a autora não efetuou o pagamento da fatura na data do vencimento, qual seja 10/11/2018, ajuizou a demanda em 04/12/2018, e, apesar de requerer a tutela de urgência para que a ré se abstenha de incluir o nome de seu pai nos cadastros restritivos, não houve decisão neste sentido, visto que a decisão de fls. 34/35 se limitou a determinar que o fornecimento de energia não fosse interrompido e não houve a interposição de agravo de instrumento, restando preclusa a questão.
+Além disso, o depósito judicial da média das faturas, conforme determinado na decisão que deferiu, em parte, a tutela de urgência, só foi efetuado em 14/12/2018, ou seja, após a inclusão do nome do titular das faturas nos cadastros restritivos, o que configura exercício regular de direito da concessionária e não violação aos direitos da personalidade do falecido.
+Dessa forma, a sentença deve ser reformada em parte para exclusão da verba reparatória.
+Em seu apelo raro, a parte defende que, ao contrário do anotado no julgado impugnado, "a recorrida realizou a negativação do nome do titular da unidade consumidora em 21/12/2018, após o pagamento da fatura impugnada." (e-STJ fl. 373).
+A modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+A esse respeito:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. DEMORA NO CANCELAMENTO DAS LINHAS TELEFÔNICAS E INCLUSÃO INDEVIDA DO NOME DA AUTORA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. DANOS MORAIS. OCORRÊNCIA. CONCLUSÃO DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO DA CELLULAR HOUSE DESPROVIDO.
+1. Na espécie, o Tribunal de origem concluiu pela responsabilidade da ora agravante ao pagamento de danos morais, tendo em vista a demora no cancelamento das linhas telefônicas requerido pela autora bem como pela indevida inclusão do seu nome nos cadastros de proteção ao crédito.
+2. Para alterar referida conclusão, a fim de analisar a ausência ou não de responsabilidade da agravante pelos danos causados à Autora, necessário o revolvimento de matéria fático-probatória, o que é vedado em Recurso Especial.
+3. Agravo Interno da CELLULAR HOUSE desprovido.
+(AgInt no AREsp 912.698/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/6/2017, DJe de 23/6/2017.).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NOME NO CADASTRO DE RESTRIÇÃO AO CRÉDITO. NÃO INCLUSÃO. FORNECIMENTO DE ENERGIA ELÉTRICA. MANUTENÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N 07/STJ. INCIDÊNCIA. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE OU INDEFERE MEDIDA LIMINAR OU ANTECIPAÇÃO DOS EFEITOS DA TUTELA. NÃO CABIMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 735/STF.
+I - In casu, rever o entendimento do Tribunal de origem, que consignou pela manutenção da decisão que concedeu tutela antecipada para determinar que a Recorrente abstivesse de incluir o nome da Recorrida junto aos cadastros de restrição ao crédito e suspendesse o fornecimento de energia elétrica, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+II - Não cabe recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. Incidência, por analogia, da Súmula n. 735/STF.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido.
+(AgRg no AREsp 447.086/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/11/2015, DJe de 25/11/2015.).
+Por fim, "este Tribunal tem entendimento no sentido de que a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
