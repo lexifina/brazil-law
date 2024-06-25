@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Simone Ribeiro e outros contra deci são que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 924):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - INDENIZAÇÃO SECURITÁRIA - SEGURO HABITACIONAL - AGRAVO RETIDO INEXISTENTE - PRESCRIÇÃO INOCORRENTE - LEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL E DA UNIÃO, ILEGITIMIDADE PASSIVA DA SEGURADORA E ILEGITIMIDADE ATIVA DOS AUTORES REPELIDAS -APÓLICE PRIVADA (RAMO 68) - APLICABILIDADE DA LEGISLAÇÃO CONSUMERISTA - DANOS NO IMÓVEL - PROPAGAÇÃO - INDENIZAÇÃO SECURITÁRIA DEVIDA - MULTA DECENDIAL EXCLUÍDA - AUSÊNCIA DE PREVISÃO - EMBARGOS DE DECLARAÇÃO - VÍCIOS DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL INEXISTENTES - CARÁTER PROCRASTINATÓRIO EVIDENCIADO - APLICAÇÃO DE MULTA DEVIDA - RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.041/1.049).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, cumpre dizer que, ao analisar o recurso especial interposto pela Companhia Excelsior de Seguros, proferi decisão determinando a devolução dos autos à Corte de origem, com a respectiva baixa, para que seja realizado naquela instância o juízo de conformação ou manutenção do acórdão local, frente ao que foi decidido pela Excelsa Corte em repercussão geral (Tema 1.011/STF), bem como ao que vier a ser decidido por este Superior Tribunal de Justiça na sistemática dos recursos repetitivos (Tema 1.039/STJ).
+Assim, tendo em vista a impossibilidade de cisão do julgamento, acrescida pela própria devolução do feito à origem, é conveniente que a apreciação do presente recurso especial fique sobrestada até o exaurimento completo da jurisdição do Tribunal a quo, com a realização do juízo de retratação ou de conformação a ser efetivado pela instância ordinária, nos moldes dos arts. 1.040 e 1.041 do CPC.
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso especial de Simone Ribeiro e outros.
+Publique-se.
+ EMENTA
