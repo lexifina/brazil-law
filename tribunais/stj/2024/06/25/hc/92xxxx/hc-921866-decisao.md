@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MILTON DOS SANTOS SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos do HC nº 1.0000.24.243590-7/000.
+Depreende-se dos autos que o paciente está em cumprimento de pena totalizada em 02 (dois) anos e 08 (oito) meses, por ter praticado, por diversas vezes, o delito disposto no art. 180 do Código Penal. No curso da execução, o juiz de 1º grau determinou a regressão de regime ao paciente, ante uma suposta mudança de endereço sem autorização.
+No julgamento do prévio writ, o Tribunal de origem não conheceu do habeas corpus, em julgado assim ementado (fl. 8):
+HABEAS CORPUS - EXECUÇÃO PENAL - RECEPTAÇÃO - REGRESSÃO DE REGIME - CONCESSÃO DE INDULTO -CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+Tendo em vista a necessidade de se preservar a utilidade do writ como instrumento de tutela da liberdade de locomoção, prevalece na jurisprudência o entendimento de que não se admite a impetração de habeas corpus em substituição ao recurso adequado. A concessão da ordem em HC substitutivo de recurso próprio ou de revisão criminal fica adstrita, portanto, às hipóteses de flagrante ilegalidade constatável sem a necessidade de revolvimento fático-probatório, o que não se verifica nos autos.
+Daí o presente writ, no qual a Defesa sustenta a impossibilidade de exigir cumprimento do lapso temporal para progressão de regime, tendo em vista que o reeducando se encontra preso há 06 (seis) meses por causa de regressão cautelar.
+Argumenta que o paciente preenche os requisitos objetivo e subjetivo para a progressão de regime.
+Aponta, ainda, que as condenações que hoje impedem o reeducando de conquistar a liberdade são passíveis da concessão do indulto previsto no Decreto Presidencial nº 11.302/2022.
+Requer, liminarmente e no mérito, a concessão da progressão do apenado ao regime aberto e a concessão de indulto de todas as condenações.
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, possibilidade de progressão de regime e concessão de indulto.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que, "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma , julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
