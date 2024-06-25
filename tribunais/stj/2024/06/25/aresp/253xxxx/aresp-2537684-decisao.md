@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela UNIVERSIDADE DE SÃO PAULO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 205):
+RECURSO DE APELAÇÃO - AÇÃO DE PROCEDIMENTO COMUM - DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL - CONCURSO PARA O CARGO DE PROFESSOR TITULAR DE DIREITO DO COMÉRCIO INTERNACIONAL DA FACULDADE DE DIREITO DA UNIVERSIDADE DE SÃO PAULO - USP - FASE DE EXECUÇÃO DE TÍTULO JUDICIAL (PROVISÓRIA E INVERTIDA) - EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO EM PRIMEIRO GRAU DE JURISDIÇÃO - ARTIGO 485, VI, DO CPC/15 - LITIGÂNCIA DE MÁ-FÉ RECONHECIDA - PRETENSÃO RECURSAL AO PROSSEGUIMENTO DA ETAPA EXECUTIVA - IMPOSSIBILIDADE - PRETENSÃO RECURSAL À EXCLUSÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ - IMPOSSIBILIDADE. 1. O presente inconformismo voluntário foi apresentado com os mesmos argumentos jurídicos adotados pela Autarquia Estadual, na oportunidade da interposição do recurso de agravo de instrumento, processo nº 2121171-21.2022, desta mesma Relatoria, julgado, por votação unânime, em 12.9.22. 2. A extinção da fase de execução de título judicial (provisória e invertida) é mera decorrência lógica do descumprimento da r. decisão interlocutória de fls. 87/90, ratificada no referido recurso de agravo de instrumento, relativamente à comprovação de desistência dos recursos, Especial e Extraordinário, interpostos na etapa de conhecimento. 3. Incidência do disposto nos artigos 505 e 507 do CPC/15. 4. Litigância de má-fé da Universidade de São Paulo - USP, plenamente caracterizada, consoante a regra do artigo 80, V, VI e VII, do CPC/15. 5. Arbitramento de honorários advocatícios recursais, em favor da parte vencedora, a título de observação, com fundamento no artigo 85, § 11, do CPC/15. 6. Processo (cumprimento provisório e invertido da r. sentença proferida na fase de conhecimento), julgado extinto, sem resolução de mérito, com fundamento no artigo 485, VI, do CPC/15, em Primeiro Grau de Jurisdição. 7. Sentença, recorrida, ratificada. 8. Recurso de apelação, interposto pela parte ré, Universidade de São Paulo - USP, desprovido, com observação.
+Nas razões do recurso especial (fls. 215-235), interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante aponta violação do art. 80, incisos V, VI e VII, do CPC/2015, sustentando que:
+ ..
+A interpretação dada ao supracitado dispositivo está no cerne da questão, devendo o Superior Tribunal de Justiça definir se a corte a quo compreendeu corretamente a extensão dos requisitos para caracterização da litigância de má-fé, instituto que não comporta análise subjetiva, mas exige que o julgado defina detidamente a conduta processual praticada pela parte.
+ ..
+ ..  a conduta da Recorrente, espontânea e pautada pela boa-fé, não evidenciou malícia ou dolo, sendo incapaz de causar qualquer prejuízo aos interessados no concurso.
+ ..
+A Recorrente não procedeu de modo temerário (CPC, art. 80, V), tampouco provocou incidente manifestamente infundado (CPC, art. 80, VI), e menos ainda interpôs recursos de apelação com intuito protelatório ou manifestamente improcedente (CPC, art. 80, inciso VII).
+ ..
+Não se encontram nos autos elementos para subsidiar o fundamento segundo o qual a Recorrente teria procedido de "modo temerário" (CPC, art. 80, V), afinal, é inquestionável que havia firme substrato processual para sugerir ao Juízo o cumprimento provisório da sentença. Não se tratou de um disparate, de uma medida teratológica  .. .
+Ao final, requer o provimento do recurso especial para que seja afastada a penalidade por litigância de má-fé.
+Apresentadas contrarrazões (fls. 238-248), o recurso foi inadmitido na origem (fl. 254).
+Às fls. 289-294, o Ministério Público Federal opina pelo não provimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Preenchidos os pressupostos para o conhecimento do agravo, prossegue-se na análise do recurso especial.
+A irresignação, entretanto, não merece prosperar.
+Com efeito, o Tribunal de origem, soberano na análise dos fatos, concluiu como correta a penalidade aplicada por litigância de má-fé (fls. 211-212):
+ ..  a imposição de multa por litigância de má-fé é a medida adequada à postura processual da Autarquia Estadual, comportando ratificação, nesta oportunidade, inclusive, no patamar original. Afinal, a parte recorrente suscitou incidente processual temerário, na pendência de recursos, perante as Instâncias Superiores, omitindo informações de extrema relevância, inclusive, do D. Juízo de Direito a quo.  ..
+ ..
+Mas não é só. O v. aresto, proferido nos autos do referido recurso de agravo de instrumento, consignou, expressamente, já naquela ocasião, a conduta processual da Universidade de São Paulo USP, passível de caracterização como litigância de má-fé (fls. 137).
+Outrossim, a interposição do presente recurso de apelação, por si só, autoriza, mais uma vez, o reconhecimento da litigância de má-fé da parte ré, mantida a mesma sanção processual, ante o indiscutível caráter protelatório e infundado do inconformismo voluntário (artigo 80, VI e VII, do CPC/15).
+Desse modo, o entendimento firmado pelo Tribunal a quo, quanto ao cabimento da multa por litigância de má-fé, não pode ser revisto por exigir o necessário reexame de provas, providência descabida no âmbito do recurso especial, nos termos da Súmula n. 7 desta Corte Superior.
+Em igual sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. LITISPENDÊNCIA. REQUISITOS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO. INEXISTÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. O Tribunal, contudo, entendeu que houve má-fé da parte, aplicável a hipótese do art. 80, II, do Código de Processo Civil, já que houve alteração da verdade dos fatos por parte da ora agravante ("Considera-se litigante de má-fé aquele que: (..) II - alterar a verdade dos fatos").
+5. Imiscuir-se na análise se houve ou não dolo processual - sob intento de modificar a conclusão do Tribunal de origem quanto à temática e à análise da eventual alteração dos fatos por parte da agravante - ensejaria reexame de matéria fático-probatória, vedado em sede de recurso especial, em decorrência da Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp 2.271.147/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe 26/10/2023.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea a , do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 213), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. LITIGÂNCIA DE MÁ-FÉ RECONHECIDA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
