@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Conselho Regional de Enfermagem do Rio de Janeiro, em face do acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. CONSELHO REGIONAL DE ENFERMAGEM. QUANTITATIVO MÍNIMO DE PROFISSIONAIS. RESOLUÇÃO. IMPOSSIBILIDADE. ENFERMEIRO. TEMPO INTEGRAL. NÃO DEMONSTRADA A AUSÊNCIA. SISTEMATIZAÇÃO DE ASSISTÊNCIA DE ENFERMAGEM (SAE). LEI Nº 7.498/86. OBRIGATORIEDADE. COMPROVAÇÃO DA IMPLANTAÇÃO PELA RÉ. ANOTAÇÕES DE ENFERMAGEM NOS PRONTUÁRIOS. NÃO COMPROVAÇÃO DAS IRREGULARIDADES. APELAÇÃO DESPROVIDA. 1. Trata-se de Apelação Cível interposta em face da Sentença que julgou improcedentes os pedidos formulados, que objetivavam o saneamento de irregularidades apontadas em inspeção realizada pelo Autor Conselho Regional de Enfermagem – COREN/RJ na instituição Ré. 2. Não cabe ao Conselho Federal de Enfermagem, através da Resolução nº 543/17, inovar a ordem jurídica e impor obrigação de quantitativo mínimo de profissionais, sob pena de ofensa ao princípio da legalidade, ante a ausência de lei nesse sentido. 3. O profissional Enfermeiro possui competências privativas e deve supervisionar as atividades exercidas pelos Técnicos ou Auxiliares de Enfermagem, sendo necessária sua presença em tempo integral nos setores de funcionamento, de acordo com os arts. 11, I, m, e 15 da Lei nº 7.498/86. No caso dos autos, contudo, não existem elementos aptos a demonstrar a ausência de Enfermeiro no período de funcionamento da instituição. 4. A Sistematização de Assistência de Enfermagem (SAE) encontra-se prevista nos arts. 4º e 11, I, j, da Lei nº 7.498/86, além de ser regulamentada pela Resolução nº 358/09 do COFEN, estando comprovada sua implementação pela Requerida. 5. A Lei nº 7.498/86 estabelece como atividades do profissional de Enfermagem os registros nos prontuários dos diagnósticos de enfermagem, dos dados coletados, das intervenções de enfermagem, entre outras atividades. In casu, inexistem elementos suficientes que demonstrem a ausência ou a irregularidade dos registros de enfermagem. 6. Apelação desprovida.”
+
+    Na minuta, sustenta-se violação dos arts. 1º, IV, 5º, II, XIII e LV, 7º, XXII, 21, XXIV, 170, 196, 197 e 199 da Constituição da República. Argumenta-se, em síntese, insuficiência de enfermeiros na instituição de saúde recorrida e cerceamento de defesa, havendo a necessidade de prova técnica para demonstrar o descumprimento do art. 15 da Lei nº 7.498/86 e do art. 13 do Decreto nº 94.406/87.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, bem como da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 636/STF: “para simples reexame de prova não cabe recurso extraordinário” e “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. INSTITUIÇÃO DE SAÚDE MUNICIPAL. MANUTENÇÃO DE PROFISSIONAL ENFERMEIRO EM TODO O PERÍODO DE FUNCIONAMENTO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. 1. O recurso extraordinário não se presta à análise de matéria infraconstitucional. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1322069 AgR, Rel. Min. Luiz Fux (Presidente), Pleno, DJe 13.09.2021)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CONSELHO REGIONAL DE ENFERMAGEM. OBRIGAÇÃO DE CONTRATAÇÃO DE PROFISSIONAL ENFERMEIRO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1287638 AgR, Rel. Min. Luiz Fux (Presidente), Pleno, DJe 23.02.2021)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. CONSELHO REGIONAL DE FISCALIZAÇÃO PROFISSIONAL. LIMITES DOS PODERES FISCALIZATÓRIO E REGULAMENTAR. LEGISLAÇÃO REGULAMENTADORA. ANÁLISE. IMPOSSIBILIDADE. OFENSA REFLEXA. PRECEDENTES. 1. É inviável, em recurso extraordinário, a análise de legislação infraconstitucional e o reexame dos fatos e das provas dos autos (Súmula nº 279/STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1332229 AgR, Rel. Luiz Fux (Presidente), Pleno, DJe 27.09.2021)
+
+    Nos termos da jurisprudência deste Supremo Tribunal Federal, a verificação da alegada ofensa ao devido processo legal, ao contraditório e à ampla defesa pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que suposta violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, “a”, da Lei Fundamental.
+
+    Acrescente-se que esta Suprema Corte, no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013, decidiu que a matéria relacionada à alegação de violação dos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal não apresenta repercussão geral. O acórdão está assim ementado:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+
+    No que diz com o alegado cerceamento de defesa decorrente de indeferimento de prova no âmbito judicial, esta Suprema Corte já consolidou o entendimento de que o tema não apresenta repercussão geral. Nesse sentido:
+
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.” (ARE 639.228-RG/RJ, Rel. Min. Ministro Presidente Cezar Peluso, DJe 31.8.2011).
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 25 de junho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
