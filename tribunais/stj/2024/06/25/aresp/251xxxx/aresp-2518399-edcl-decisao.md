@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA DO ESTADO DE SÃO PAULO (fls. 785-786) contra a decisão monocrática de fls. 778-779, por meio da qual foi homologada a desistência do recurso, julgando prejudicado o agravo em recurso especial interposto pela empresa embargada, WAL MART BRASIL LTDA ou WMB SUPERMERCADOS DO BRASIL LTDA.
+A embargante alega que a decisão incorreu em omissão ao deixar de fixar honorários sucumbenciais recursais em favor da Fazenda Pública paulista.
+Contraminuta apres entada às fls. 789-795.
+É o relatório.
+Decido.
+Com efeito, observo que a decisão embargada, de fato, foi omissa, mas não no ponto trazido pela ora embargante.
+Isso porque, ao contrário do que aduz a insurgente, não há se falar em honorários recursais a serem fixados por esta Corte Superior, na hipótese. Nos termos da jurisprudência do Superior Tribunal de Justiça, " n ão prospera a pretensão dos agravantes de fixação ou majoração dos honorários sucumbenciais, uma vez que somente foi homologado o pedido de desistência recursal formulado pela parte agravada" (AgInt nos EDcl no REsp n. 1.750.451/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. CABIMENTO SOMENTE EM CASO DE NÃO CONHECIMENTO INTEGRAL OU DE DESPROVIMENTO DO RECURSO PELO RELATOR OU PELO ÓRGÃO COLEGIADO COMPETENTE. DECISÃO AGRAVADA QUE APENAS HOMOLOGOU PEDIDO DE DESISTÊNCIA RECURSAL DA PARTE AGRAVADA. DESCABIMENTO NA HIPÓTESE. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça dispõe que a majoração da verba honorária, nos termos do art. 85, § 11, do CPC/2015, só se mostra cabível na hipótese de não conhecimento integral ou de desprovimento do recurso. Precedentes. Na hipótese, não prospera a pretensão da agravante, uma vez que somente foi homologado o pedido de desistência recursal da parte agravada.
+2. Agravo interno improvido. (AgInt nos EDcl no AREsp n. 2.058.715/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022; sem grifos no original.)
+Por outro lado, verifico ser necessária a integração do provimento judicial embargado para fazer constar as seguintes disposições acerca da renúncia ao direito em que se funda a ação e dos ônus sucumbenciais.
+A parte agravante, ora embargada, apresentou petição formulando pedido de desistência do recurso interposto, com renúncia ao direito em que se funda a ação, tendo em vista a inclusão do débito em discussão em programa de transação instituído pela Lei Estadual n. 17.843/2023 (fls. 770-771).
+Como sabido, a renúncia ao direito em que se funda a ação consubstancia ato unilateral daquele que a pratica, independente da anuência da parte contrária. Relacionada ao direito material, tal manifestação poderá ser exercida a qualquer tempo e grau de jurisdição, acarretando a extinção do feito com resolução de mérito (art. 487, inciso III, alínea c, do Código de Processo Civil).
+Do mesmo modo, o ato de desistência do recurso, nos termos do art. 998 do CPC/2015, poderá ocorrer a qualquer tempo, prescindindo da anuência da recorrida.
+No presente caso, a transação tributária foi celebrada entre o ESTADO DE SÃO PAULO e a devedora WAL MART BRASIL LTDA (fls. 772-776).
+A procuração outorgada ao advogado da peticionária lhe confere poderes especiais para desistir (fls. 42-46).
+Atendidos os requisitos legais, não há óbice à homologação pretendida.
+Ante o exposto, REJEITO os embargos de declaração. Porém, de ofício, reconheço a existência de outras omissões no provimento judicial embargado, oportunidade em que o integro, HOMOLOGANDO os pedidos de desistência do agravo em recurso especial e de renúncia ao direito em que se fundam os embargos à execução fiscal relativos à CDA n. 1.095.899.836 e, por conseguinte, JULGANDO EXTINTO O PROCESSO COM RESOLUÇÃO DE MÉRITO, em consonância com o art. 487, III, alínea c, c.c. o art. 998, ambos do Código de Processo Civil.
+As despesas processuais e os honorários advocatícios já fixados deverão ser pagos pela parte que desistiu, renunciou ou reconheceu o direito, conforme o art. 90 do Código de Processo Civil, nos termos determinados pelo Juízo de origem (AgInt na DESIST no AResp 707267/MG, Relator Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 20/02/2018, DJe 06/03 /2018).
+Escoado o prazo recursal, certifique-se o trânsito em julgado e remetam-se os autos à origem, para decisão a respeito das verbas de sucumbência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA PETIÇÃO DE DESISTÊNCIA DO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. DECISÃO EMBARGADA QUE APENAS HOMOLOGOU PEDIDO DE DESISTÊNCIA RECURSAL DA PARTE EMBARGADA. DESCABIMENTO, NA HIPÓTESE. RECONHECIMENTO DE OMISSÕES, DE OFÍCIO. TRANSAÇÃO TRIBUTÁRIA. DESISTÊNCIA DO RECURSO. RENÚNCIA AO DIREITO EM QUE SE FUNDA A AÇÃO. HOMOLOGAÇÃO. PROCESSO EXTINTO COM RESOLUÇÃO DE MÉRITO. BAIXA DOS AUTOS PARA DECISÃO ACERCA DAS VERBAS DE SUCUMBÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÕES RECONHECIDAS, EX OFFICIO. DECISÃO INTEGRADA.
