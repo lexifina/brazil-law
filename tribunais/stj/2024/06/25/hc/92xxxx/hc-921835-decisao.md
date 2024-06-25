@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fls. 25-26):
+HABEAS CORPUS. CRIMES CONTRA A SAÚDE E A INCOLUMIDADE PÚBLICAS. TRÁFICO ILÍCITO DE SUBSTÂNCIAS ENTORPECENTES, ASSOCIAÇÃO PARA TAL FINALIDADE E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO (LEI 11.343/2006, ARTS. 33, CAPUT E 35, CAPUT E LEI 10.826/2006, ART. 12). CONVERSÃO DA PRISÃO FLAGRANCIAL EM PREVENTIVA.
+PRETENDIDA CONCESSÃO DE PRISÃO DOMICILIAR EM RAZÃO DE SURTO DE DENGUE E COVID NO ESTABELECIMENTO PRISIONAL NO QUAL O PACIENTES E ENCONTRA RECOLHIDO. PEDIDO NÃO SUBMETIDO À ANÁLISE DO JUÍZO A QUO. NÃO CONHECIMENTO.
+SUSCITADA NULIDADE DA BUSCA DOMICILIAR REALIZADA QUE CULMINOU COM A PRISÃO PORQUE TERIA SIDO TORTURADO PELOS POLICIAIS. IMPERTINÊNCIA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. EVENTUAL ABUSO QUE DEVE SER APRECIADO EM AUTOS APARTADOS NO CURSO DO PROCESSO. ADOÇÃO DE PROVIDÊNCIAS PARA APURAÇÃO DO FATO PELA AUTORIDADE IMPETRADA. EXISTÊNCIA ADEMAIS DE FUNDADAS RAZÕES PARA O INGRESSO NA MORADIA DO ACUSADO. PRÉVIA INFORMAÇÃO DE QUE ESTARIA OCORRENDO COMERCIALIZAÇÃO DE DROGAS NO LOCAL. POLICIAIS MILITARES QUE O VIRAM MANUSEANDO DROGAS COM O CORRÉU E ESCONDENDO-AS EM UMA LAJE. JUSTA CAUSA PARA A AÇÃO POLICIAL DEMONSTRADA. OUTROSSIM, SUPOSTO VÍCIO SUPERADO COMA CONVERSÃO DA PRISÃO FLAGRANCIAL EM PREVENTIVA. MODIFICAÇÃO DO TÍTULO CONSTRITIVO.
+INVOCADO CONSTRANGIMENTO ILEGAL CONSUBSTANCIADO NA AUSÊNCIA DE INDICAÇÃO DE FATO CONCRETO APTO E DOS REQUISITOS AUTORIZADORES DA PROVIDÊNCIA EXTREMA. INOCORRÊNCIA. PRONUNCIAMENTO EMBASADO EM ELEMENTOS SÓLIDOS E INDÍCIOS CONSISTENTES DA NECESSIDADE DA CUSTÓDIA PARA GARANTIA DA ORDEM PÚBLICA, DIANTE DA GRAVIDADE CONCRETA E REPROVABILIDADE DAS CONDUTAS. GUARNIÇÃO ACIONADA PARA VERIFICAR A COMERCIALIZAÇÃO DE ENTORPECENTES NA FRENTE DO IMÓVEL ONDE O PACIENTE E O CORRÉU RESIDEM E OBSERVAM AMBOS MANUSEANDO DROGAS E ESCONDENDO-AS EM UMA LAJE. REALIZAÇÃO DE BUSCAS PESSOAL E DOMICILIAR NAS QUITINETES DE AMBOS, ONDE FORAM APREENDIDOS MAIS ENTORPECENTES, ALÉM DE DINHEIRO EM ESPÉCIE, BALANÇA, COLETE BALÍSTICO, CARREGADOR DE ARMA DE FOGO, INVÓLUCROS PARA EMBALAR PEQUENAS PORÇÕES DE DROGAS, BINÓCULO E RADIO COMUNICADOR. APREENSÃO TOTAL DE 780 GRAMAS DE COCAÍNA E 589 GRAMAS DE MACONHA. QUANTIDADE DE ENTORPECENTES CAPAZ DE ABARCAR CONSIDERÁVEL MONTANTE DE USUÁRIOS E GERAR GRANDE PROVEITO ECONÔMICO. ADEMAIS, ALTA POTENCIALIDADE LESIVADA COCAÍNA PARA A SAÚDE PÚBLICA. IMPRESCINDIBILIDADE DA SEGREGAÇÃO. PRESENÇA DOS REQUISITOS E PRESSUPOSTOS DOS ARTS. 312, CAPUT, E 313, I, AMBOS DO CPP.
+PROJEÇÃO DE PROVÁVEL REGIME PRISIONAL IRRELEVÂNCIA. CONJECTURA QUE NÃO INTERFERE NO DECRETO PREVENTIVO. EXISTÊNCIA DE ETAPA PRÓPRIA.
+PREDICADOS SUBJETIVOS QUE POR SI SÓS NÃO IMPEDEM A CONSTRIÇÃO DA LIBERDADE. CONCOMITANTE INCIDÊNCIA DO PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA.
+ALMEJADA SUBSTITUIÇÃO DA CLAUSURA POR MEDIDAS CAUTELARES ALTERNATIVAS, PREVISTAS NO ART. 319 DA LEI ADJETIVA PENAL. INVIABILIDADE. ADEQUAÇÃO E SUFICIÊNCIA DA BENESSE NÃO DEMONSTRADAS. CABIMENTO DA ULTIMA RATIO. INTELIGÊNCIA DO RESPECTIVO ART. 282, § 6º.
+ORDEM EM PARTE CONHECIDA E DENEGADA.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+No presente writ, sustenta a defesa a nulidade das provas obtidas mediante invasão domiciliar realizada sem fundadas razões e sem autorização legal.
+Alega que não configurado o delito de tráfico de drogas, uma vez que não foi presenciado qualquer situação de mercancia e que a quantidade de entorpecente apreendida poderia ser para uso pessoal.
+Afirma que não estão presentes os requisitos do art. 312 do Código de Processo Penal e que o decreto prisional carece de fundamentação idônea.
+Aduz que, caso condenado, poderá ser aplicado a benesse prevista no art. 33, § 4º, da Lei de Drogas, pois "nem com eventual sentença o paciente, primário, terá sua segregação social decretada - revela, portanto, verdadeiro contrassenso a sua prisão processual, já que, nem ao fim será encarcerado".
+Pugna pela nulidade em virtude do uso indevido das algemas, conforme disciplina a Súmula Vinculante n. 11 do STF.
+Requer, liminarmente e no mérito, o relaxamento da prisão ou a revogação da prisão preventiva, expedindo-se o competente alvará de soltura, ainda que com a imposição de medidas cautelares alternativas.
+Às fls. 43-54, a defesa requer a " juntada da Decisão proferida pela Excelentissima Ministra DANIELA TEIXEIRA no Habeas Corpus nº 903514 MG (2024/0115405-2), proferida em 10 de junho de 2024, cujo teor da decisão abrangem os fundamentos do presente Habeas Corpus".
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, o impetrante não colacionou aos autos documentos necessários para a análise do pleito - a íntegra do acórdão impugnado e a decisão que decretou a prisão preventiva.
+Dessa forma, a ausência de peças essenciais ao deslinde da controvérsia, impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO RECORRENTE. PRECEDENTES.
+ ..
+3. Como se sabe, o rito do habeas corpus - e do recurso ordinário em habeas corpus - pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente (precedentes), o que não ocorreu no caso vertente (HC n. 541.104/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 27/2/2020).
+4. Embargos de declaração recebidos como agravo regimental. Agravo regimental improvido. (EDcl no RHC n. 169.907/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. RECURSO NÃO CONHECIDO. INSTRUÇÃO DEFICITÁRIA. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE DE ANÁLISE. DECRETO PRISIONAL NÃO CARREADO AOS AUTOS . AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O rito do habeas corpus e do recurso ordinário a ele inerente, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+3. No caso, o recurso não foi conhecido por não ter sido carreado aos autos o decreto prisional.
+4. Agravo regimental desprovido. (AgRg no RHC n. 168.769/PE, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
