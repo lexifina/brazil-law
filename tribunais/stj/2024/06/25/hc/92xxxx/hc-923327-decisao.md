@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de ALEX HENRIQUE FERREIRA DE OLIVEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Habeas Corpus. Pedido de prisão domiciliar indeferido. Descabimento. Regime prisional semiaberto que não admite a prisão domiciliar. Inteligência do artigo 117 da LEP. Inaplicabilidade do artigo 318, incs. III e VI, do CPP. Inexistência de documentos que comprovem que a filha e enteadas do paciente estejam em estado de abandono material, moral e psicológico. Paternidade que não pode servir, pura e simplesmente, como supedâneo para a prisão domiciliar. Recurso desprovido. Existência de recurso apropriado para a insurgência ora em debate. O habeas corpus não pode servir como substituto legal inominado. Constrangimento ilegal não evidenciado. Ordem denegada.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, uma vez que o paciente possui uma filha recém-nascida e duas enteadas menores de 13 anos que necessitam de seus cuidados, pois a genitora das crianças também encontra-se presa.
+Requer, em suma, a prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Isto porque, ausentes documentos que demonstrem que a filha e enteadas do paciente estejam em estado de abandono material, moral e psicológico, não podendo a paternidade de criança menor de 12 anos servir, pura e simplesmente, como supedâneo para a prisão domiciliar (fls. 98-99).
+Segundo entendimento firmado pela Terceira Seção do STJ, embora exista prevista normativa na LEP estabelecendo que a prisão domiciliar somente seria cabível para os reeducandos em cumprimento de pena em regime aberto, "excepcionalmente, se admite a concessão do benefício às presas dos regimes fechado e semiaberto quando verificado pelo juízo da execução penal, no caso concreto - em juízo de ponderação entre o direito à segurança pública e a aplicação dos princípios da proteção integral da criança e da pessoa com deficiência -, que tal medida seja proporcional, adequada e necessária e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência, salvo se a periculosidade e as condições pessoais da reeducanda indiquem que o benefício não atenda os melhores interesses da criança ou pessoa com deficiência (RHC n. 145.931/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16/3/2022.)
+Por outro lado, o pai também pode se beneficiar da prisão domiciliar, desde que seus cuidados sejam comprovadamente imprescindíveis ao infante.
+Na espécie, o benefício foi afastado em razão de não ter havido a comprovação da imprescindibilidade do genitor no cuidado de sua prole, entendimento cuja reforma exigiria o reexame da prova, inviável na via estreita do habeas corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
