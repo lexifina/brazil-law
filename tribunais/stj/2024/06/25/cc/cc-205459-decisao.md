@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 20ª Vara Federal da Seção Judiciária do Distrito Federal, como suscitante, e a 3ª Vara Federal da Seção de Porto Alegre/RS, a suscitada, nos autos de execução por título extrajudicial movida pela União.
+O processo foi originariamente proposto perante a Justiça do Rio Grande do Sul, que declinou da competência em favor do foro do Distrito Federal, em razão de nele tramitar ação anulatória na qual se discute o débito exequendo. O Juízo suscitante, contudo, entendeu não ser caso de reunião de ações, em razão de não deter competência para processar "execuções fiscais".
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, a jurisprudência deste Tribunal Superior se orienta pelo reconhecimento da conexão entre a ação anulatória de débito tributário e a respectiva execução fiscal, com a consequente reunião dos feitos para processamento conjunto, salvo se envolver hipótese de competência absoluta. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO ANULATÓRIA DE DÉBITO TRIBUTÁRIO E EXECUÇÃO FISCAL. REUNIÃO POR CONEXÃO. NÃO CABIMENTO NO CASO CONCRETO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 2015.
+II - Segundo entendimento firmado pela 1ª Seção desta Corte, a ação anulatória de débito tributário e a execução fiscal poderão tramitar separadamente quando um dos juízos for incompetente para apreciar uma das demandas, cabendo ao juízo no qual tramita o executivo fiscal decidir acerca da sua eventual suspensão.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do CPC/2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no CC n. 159.553/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 1º/9/2020, DJe de 8/9/2020.)
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL E AÇÃO ORDINÁRIA. CONEXÃO.
+1. Debate-se acerca da competência para processar e julgar ação ordinária - na qual se busca a revisão e parcelamento de débito tributário objeto de execução fiscal precedentemente ajuizada - tendo em vista a possível ocorrência de conexão.
+2. A Primeira Seção desta Corte pacificou o entendimento de que existe conexão entre a ação anulatória ou desconstitutiva do título executivo e a ação de execução, por representar aquela meio de oposição aos atos executórios de natureza idêntica a dos embargos do devedor.
+3. "A ação anulatória ou desconstitutiva do título executivo representa forma de oposição do devedor aos atos de execução, razão pela qual quebraria a lógica do sistema dar-lhes curso perante juízos diferentes, comprometendo a unidade natural que existe entre pedido e defesa" (CC 38.045/MA, Rel. p/ Acórdão Min. Teori Albino Zavascki, DJ 09.12.03).
+4. É incontroverso que o débito tributário em questionamento na ação ordinária está em cobrança nos autos da Execução Fiscal nº 2002.61.82.038702-0; logo, os feitos devem ser reunidos para julgamento perante o Juízo Federal da 11ª Vara das Execuções Fiscais da Seção Judiciária de São Paulo (juízo prevento).
+5. Conflito de competência conhecido para declarar competente Juízo Federal da 11ª Vara das Execuções Fiscais da Seção Judiciária de São Paulo, o suscitante.
+(CC n. 103.229/SP, relator Ministro Castro Meira, Primeira Seção, julgado em 28/4/2010, DJe de 10/5/2010.)
+No caso dos autos, o Juízo suscitante noticia não deter competência para processar execuções fiscais (a rigor, a execução é de título extrajudicial), caso, portanto, de incompetência absoluta. Assim, "seja porque a conexão não possibilita a modificação da competência absoluta, seja porque é vedada a cumulação em juízo incompetente para apreciar uma das demandas, não é possível a reunião dos feitos  .. , devendo ambas as ações tramitarem separadamente" (CC n. 105.358/SP, Rel. Min. Mauro Campbell Marques, julgado em 13/10/2010, DJe de 22/10/2010).
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 3ª Vara Federal da Seção de Porto Alegre/RS, ora suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
