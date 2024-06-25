@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE PERNAMBUCO contra decisão da Presidência, proferida às e-STJ fls. 583/585, que conheceu do agravo para não conhecer do recurso especial, considerando a incidência das Súmulas 283 e 284 do STF.
+Nas suas razões, a parte agravante sustenta que "as razões do recurso especial reproduzem na integra os dispositivos da legislação federal violados" (e-STJ fl. 593), havendo clara identificação dos dispositivos federais tidos por violados, de modo que não se aplica, no caso, a Súmula 284 do STF.
+Acrescenta que se faz "necessária a suspensão, em nível nacional, de todos os processos que versem sobre o tema, nos termos do art. 1.037, II, do CPC, o que, por óbvio, inclui o presente" (e-STJ fl. 598), tendo em vista que o TJPE afetou a matéria discutida nos nos presentes autos, determinando a suspensão dos feitos em seu âmbito, encaminhando os autos a esta Corte Superior.
+Impugnação às e-STJ fls. 600/617.
+Passo a decidir
+De início, observo com relação à pretensão de que o feito seja suspenso, tendo em vista o encaminhamento da matéria pelo TJPE para verificação da possibilidade de afetação do tema - aplicação indistinta do piso nacional do magistério a professores efetivos e temporários - que, por decisão proferida, nos autos do REsp 2.119.804/PE, pelo Presidente da Comissão Gestora de Precedentes, foi rejeitada a qualificação do recurso como representativo da controvérsia, ao entendimento de que a demanda não cumpre os requisitos regimentais exigidos para sua indicação à metodologia em questão (DJe de 18/04/2024).
+Quanto ao mais, exerço parcial juízo de retratação, passando a nova análise da insurgência, tendo em vista não ser hipótese de incidência do óbice da Súmula 284 do STF, com a fundamentação dada pelo decisum agravado.
+Trata-se de agravo interposto pelo ESTADO DE PERNAMBUCO contra decisão do Tribunal de Justiça estadual, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 390/391):
+DIREITO CONSTITUCIONAL. DIREITO ADMINISTRATIVO. RECURSO DE APELAÇÃO NÃO PROVIDO. CONTRATAÇÃO TEMPORÁRIA. PROFESSOR. NECESSIDADE DE RESPEITO AO PISO SALARIAL. JUROS E CORREÇÃO FIXADOS DE OFÍCIO. APELAÇÃO CÍVEL. NÃO PROVIMENTO.
+1. A Lei Federal nº 11.738/08 impõe que seja observado o piso salarial nacional para os profissionais do magistério público da educação básica, de forma proporcional à jornada de trabalho exercida, sem fazer qualquer distinção quanto a servidores efetivos ou temporários.
+2. Não há de se falar em violação à Súmula Vinculante nº 37, do Supremo Tribunal Federal, uma vez que nem de longe determinou-se o aumento dos vencimentos da apelada, limitando-se o Judiciário a obrigar o ente estatal ao cumprimento das disposições constantes da legislação de regência (Lei Federal nº 11.738/2008).
+3. Não se discute, no caso em análise, de nulidade de contrato, mas sim de reconhecimento de diferenças remuneratórias por não observância ao piso salarial do magistério. De toda sorte, ainda que reconhecida fosse a nulidade da avença (o que não é o caso), a parte faria jus a diferença salarial, posto que enquadrada no termo "saldo de salarial" (Tema de Repercussão Geral nº. 916).
+4. De igual forma não se aplica ao caso concreto o entendimento fixado pelo Supremo Tribunal Federal no tema 551, uma vez que a tese ali formada se restringiu a férias e décimo terceiro salário, o que difere do objeto da presente demanda (não observância do piso remuneratório da categoria).
+5. Os juros de mora e a correção monetária devem ser fixados nos termos dos seguintes enunciados da Seção de Direito Público: 8, 11, 15 e 20.
+6. Apelo conhecido e desprovido.
+7. Decisão Unânime.
+Os dois embargos de declaração opostos pelo ente estatal foram desprovidos (e-STJ fls. 429/434) e não conhecidos (e-STJ fls. 455/462).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 1º, 2º, §§ 1º e 5º, 3º e 6º da Lei n. 11.738/2008, sustentando a inaplicabilidade do piso nacional do magistério aos professores contratados temporariamente e negativa de prestação jurisdicional.
+Contrarrazões às e-STJ fls. 485/500.
+Pois bem.
+Primeiramente, registre-se que a mera indicação de dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu na hipótese. Incidência da Súmula 284 do STF.
+Quanto ao mais, entendeu o Tribunal de origem que (e-STJ fls. 380/386):
+ ..
+conforme se extrai das fichas financeiras constantes dos autos, a parte autora comprova seu vínculo com o Estado de Pernambuco na condição de professor contratado.
+Ainda, é oportuno destacar que Lei Federal não fez distinção entre servidores efetivos ou temporários ou se ativo ou inativo, sendo direito de todo servidor que desempenha atividade de professor da educação básica.
+A respeito do assunto, esta E. Corte de Justiça, através de suas Câmaras de Direito Público, bem como da Câmara Regional de Caruaru, têm decidido pela inexistência de distinção entre os professores contratados de forma temporária e os demais, visto que o piso visa a valorização do direito à educação, veja-se:
+ ..
+Nesse contexto, muito embora a relação entre as partes tenha sido entabulada sem a observância da exigência de concurso público para o ingresso no serviço público, tal fato não autoriza o serviço sem a devida contraprestação remuneratória, sob pena de se agasalhar o enriquecimento ilícito e beneficiar a torpeza do Administrador Público.
+Veja-se que não se trata de nulidade de contrato, mas sim de reconhecimento de diferenças remuneratórias por não observância ao piso salarial do magistério. De toda sorte, ainda que reconhecida fosse a nulidade da avença (o que, repita-se, não é o caso), a parte faria jus a diferença salarial, posto que enquadrada no termo "saldo de salarial" (Tema de Repercussão Geral nº. 916).
+Nas razões do recurso especial, a parte recorrente, contudo, deixou de impugnar a aludida fundamentação adotada pela Corte regional, tornando inviável o conhecimento do apelo nobre, nos termos das Súmulas 283 e 284 do STF.
+Nesse sentido, em hipóteses similares à presente: AREsp 2.556.850/PE, Rel. Ministro TE ODORO SILVA SANTOS, DJe 28/05/2024; AREsp 2.559.944/PE, REl. Ministro SÉRGIO KUKINA, DJe 27/05/2024; AREsp 2.556.905/PE, Rel. Ministro HERMAN BENJAMIN, DJe 27/05/2024; REsp 2.143.845/PE, REl. Ministra REGINA HELENA COSTA, DJe 20/05/2024.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 583/585 e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial, por outros fundamentos.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
