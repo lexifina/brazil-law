@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por EVANY DO NASCIMENTO GOMES DIAS e GUILHERME DE LEMOS AGUIAR, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 305):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA NOS AUTOS 0006396-63.1996.4.02.5101. PERCENTUAL DE 28,86%. COMPENSAÇÃO.
+PREJUDICIALIDADE. ARTIGO 313 DO CÓDIGO DE PROCESSO CIVIL. SUSPENSÃO.
+I - A execução coletiva, nos autos do processo n.º 0006396-63.1996.4.02.5101, ainda não se encontra encerrada, uma vez que pendente o julgamento do recurso de apelação cuja matéria tem potencial efeito de prejudicialidade com a execução individual ora em apreciação, donde decorre a necessidade de suspensão do respectivo processo, com fundamento no art. 313, V, a, do Código de Processo Civil.
+II - Suspensão do processo, até a definição da controvérsia nos autos da ação coletiva 0006396-63.1996.4.02.5101.
+Rejeitados os aclaratórios (e-STJ fls. 353/357).
+Nas suas razões, a parte recorrente aponta violação dos arts. 6º, 7º, 9º, 10, 313, V, "a", 489, § 1º, IV, 921, I, e 1.022, II, do CPC/2015, sustentando negativa de prestação jurisdicional, uma vez que " ..  não houve enfrentamento dos fundamentos suscitados nos aclaratórios quanto a necessidade de observância dos requisitos autorizativos da suspensão do processo  .. " (e-STJ fl. 374). Aduz, na sequência, ausência de prejudicialidade apta a ensejar a suspensão da execução individual.
+Contrarrazões às e-STJ fls. 391/396.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 403.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+No caso, entendeu a Corte de origem pela existência de prejudicialidade externa apta a ensejar a suspensão da tramitação da execução individual (e-STJ fl. 309):
+Entretanto, a execução coletiva ainda não se encontra encerrada, tendo em vista que a Universidade interpôs recurso de apelação em 29-05-2020 (evento 467, nos autos da ação coletiva n.º 0006396- 63.1996.4.02.5101) e, nada obstante já se produzam efeitos do julgado, dado o indeferimento do requerimento formulado em sede de tutela cautelar de efeito suspensivo (autos nº 5012010-61.2021.4.02.0000, Relator Desembargador Guilherme Diefenthaeler), cumpre observar que ainda se controverte judicialmente acerca da exigibilidade da própria obrigação, que se consubstancia em condição indispensável para início da execução individual.
+Conclui-se, assim, que a questão pendente de apreciação pela 8ª Turma deste Tribunal tem potencial efeito de prejudicialidade, na medida em que aborda pontos controversos sensíveis relacionados à interpretação do título executivo, inclusive quanto à compensação dos valores, o que justifica a necessidade de suspensão da marcha processual. Veja-se o que dispõe o art. 313 do Código de Processo Civil:
+ ..
+Quanto à necessidade de suspensão do feito, verifica-se no acórdão recorrido, mormente no excerto acima transcrito, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
