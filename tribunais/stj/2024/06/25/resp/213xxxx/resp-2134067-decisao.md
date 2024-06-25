@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO MINEIRO DE GESTÃO DAS ÁGUAS - IGAM, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (e-STJ fl. 93):
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - CDA - OBJETO - MULTA AMBIENTAL - PROVA DO PAGAMENTO - EXTINÇÃO DO FEITO - CPC, ART. 924. II - SENTENÇA CONFIRMADA.
+1. Comprovado o pagamento integral do débito exequendo, a extinção da execução fiscal é medida que se impõe, nos termos da regra prevista no art. 924, II, do Código de Processo Civil.
+2. Recurso não provido.
+Embargos de declaração rejeitados (e-STJ fls. 110/113).
+Em suas razões, a parte recorrente aponta violação do art. 1.022, I e II, do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts. 831 e 907 do CPC/2015 , argumentando, em suma, que a execução fiscal deve prosseguir e não ser extinta, pois não ocorreu o pagamento integral do débito, notadamente os consectários legais, honorários e custas processuais (e-STJ fls. 121/127).
+Contrarrazões às e-STJ fls. 131/134.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 139/140.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+O provimento do recurso especial por contrariedade dos art. 1.022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a esses recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; b) a oposição de aclaratórios para indicar à corte local a necessidade de sanar a omissão em relação ao ponto; c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir à sua anulação ou reforma; e d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão (REsp 1.845.701/AL, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 12/05/2020, DJe 27/05/2020, e AgInt no AREsp 1310670/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 30/05/2019, DJe 03/06/2019).
+No caso, a arguição da questão reputada omissa somente nos embargos de declaração e não na apelação, como anotado pela Corte local no acórdão integrativo (e-STJ fl. 111), manifesta inovação recursal, situação em que o Superior Tribunal de Justiça entende não haver violação do citado preceito do CPC/2015 (AgInt no REsp 1.426.096/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/10/2016, DJe 22/11/2016, e AgRg no Ag 1.421.653/AL, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 20/09/2011, DJe 26/09/2011).
+Quanto ao mérito, a pretensão recursal não pode ser conhecida, pois não foram impugnados todos os fundamentos do acórdão recorrido, os quais destaco (e-STJ fl. 111):
+Firmou-se no acórdão, por razões coerentes, o entendimento de que é correta a extinção da execução fiscal promovida pelo recorrente, a teor do art. 924, II, do Código de Processo Civil, como decidido pelo Juiz de primeiro grau, considerando que o Município-recorrido efetuou o depósito judicial dos valores exequendos.
+Quanto às regras previstas nos arts. 831 e 907 do Código de Processo Civil, observo que não foram trazidas a este e. Tribunal de Justiça pelo embargante, em sede de apelação.
+Logo, não há que se falar em omissão quando verificado que as questões apresentadas nos embargos configuram inovação recursal.
+Por sua vez, o recurso especial limitou-se a defender que não é devida a extinção da execução fiscal, já que não houve o pagamento do débito atualizado, das custas e dos honorários advocatícios, nos termos dos arts. 831 e 907 do Código de Processo Civil, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido, e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283 do STF: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
