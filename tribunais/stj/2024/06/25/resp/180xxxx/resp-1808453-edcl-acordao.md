@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME MILITAR. ABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. PREQUESTIONAMENTO MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em nenhum vício que desse ensejo aos aclaratórios.
+2. Quanto ao sistema de valoração das provas, certo é que, no processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente.
+3. Ao concluir pela condenação dos recorrentes, o Tribunal estadual salientou que o conjunto probatório, notadamente os relatos da vítima e das testemunhas, infirma a autodefesa apresentada pelos réus, de modo a não deixar nenhuma dúvida de que eles realmente foram os autores dos delitos sob apuração (concussão). Ainda, salientou que "as provas produzidas no procedimento inquisitorial, coadunam-se perfeitamente com o acervo probatório produzido sob o crivo do o judiciário, pois os próprios apelantes afirmam no interrogatório, que estavam extraordinariamente responsáveis pelo policiamento da região onde se deram os fatos".
+4. Incursões na dosagem das provas constantes dos autos para concluir sobre a viabilidade ou não da condenação dos recorrentes é questão que esbarra na própria apreciação de possível inocência, matéria que não pode ser dirimida em recurso especial, a teor do enunciado na Súmula n. 7 do STJ, porquanto exige o reexame aprofundado das provas colhidas no curso da instrução probatória, conforme também assinalado nos precedentes retro citados.
+5. Não compete ao STJ analisar suposta ofensa a dispositivos constitucionais, mesmo com a finalidade de prequestionamento, a teor do art. 102, III, da Constituição Federal.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANTONIO FERNANDO SOARES GOMES e SANDRO CESAR DO NASCIMENTO opõem embargos declaratórios ao acórdão de fls. 622-629, em que a Sexta Turma negou provimento ao agravo regimental.
+Nas razões destes embargos de declaração, a defesa aponta omissão no julgado, pois " e mbora devidamente instruída por robustas provas de que os embargantes estão sendo expostos por quase dez anos sobre fatos oriundos de denúncia que não retratam a verdade real dos fatos, não foram objeto de análise individualizada" (fl. 637).
+Ainda, " p ede-se ainda que com base nesse recurso sejam prequestionados os direitos alegados no agravo de instrumento e nesse recurso de embargos de declaração quais sejam o princípio da presunção de inocência, e principalmente que sejam prequestionados os artigos constitucionais e legais seguintes: A) artigos constitucionais: art. 5º, LVII; B) artigos infraconstitucionais de natureza legal: do Código de Processo Penal: art. 155, caput" (fl. 638).
+Requer sejam acolhidos e providos os presentes embargos.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME MILITAR. ABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. PREQUESTIONAMENTO MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em nenhum vício que desse ensejo aos aclaratórios.
+2. Quanto ao sistema de valoração das provas, certo é que, no processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente.
+3. Ao concluir pela condenação dos recorrentes, o Tribunal estadual salientou que o conjunto probatório, notadamente os relatos da vítima e das testemunhas, infirma a autodefesa apresentada pelos réus, de modo a não deixar nenhuma dúvida de que eles realmente foram os autores dos delitos sob apuração (concussão). Ainda, salientou que "as provas produzidas no procedimento inquisitorial, coadunam-se perfeitamente com o acervo probatório produzido sob o crivo do o judiciário, pois os próprios apelantes afirmam no interrogatório, que estavam extraordinariamente responsáveis pelo policiamento da região onde se deram os fatos".
+4. Incursões na dosagem das provas constantes dos autos para concluir sobre a viabilidade ou não da condenação dos recorrentes é questão que esbarra na própria apreciação de possível inocência, matéria que não pode ser dirimida em recurso especial, a teor do enunciado na Súmula n. 7 do STJ, porquanto exige o reexame aprofundado das provas colhidas no curso da instrução probatória, conforme também assinalado nos precedentes retro citados.
+5. Não compete ao STJ analisar suposta ofensa a dispositivos constitucionais, mesmo com a finalidade de prequestionamento, a teor do art. 102, III, da Constituição Federal.
+6. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A jurisprudência consolidada do Superior Tribunal de Justiça consigna que, "de acordo com o disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte" (AgRg no REsp n. 1.850.458/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2021, grifei).
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Conforme explicitado no acórdão embargado, verbis:
+ ..
+Quanto ao sistema de valoração das provas, certo é que, no processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente.
+Ao concluir pela condenação dos recorrentes, o Tribunal estadual salientou que o conjunto probatório, notadamente os relatos da vítima e das testemunhas, infirma a autodefesa apresentada pelos réus, de modo a não deixar nenhuma dúvida de que eles realmente foram os autores dos delitos sob apuração (concussão), havendo salientado que "as provas produzidas no procedimento inquisitorial, coadunam-se perfeitamente com o acervo probatório produzido sob o crivo do o judiciário, pois os próprios apelantes afirmam no interrogatório, que estavam extraordinariamente responsáveis pelo policiamento da região onde se deram os fatos".
+Dessa forma, conforme dito, justamente porque verificado que a instância de origem, ao concluir pela autoria dos recorrentes no cometimento do delito em questão, sopesou as provas colhidas e os depoimentos obtidos em juízo, não há como se proclamar a absolvição dos acusados, como pretendido.
+Ilustrativamente:
+ ..
+Ainda que assim não fosse, há de salientar que mais incursões na dosagem das provas constantes dos autos para concluir sobre a viabilidade ou não da condenação do recorrente é questão que esbarra na própria apreciação de possível inocência, matéria que não pode ser dirimida em recurso especial, a teor do enunciado na Súmula n. 7 do STJ, porquanto exige o reexame aprofundado das provas colhidas no curso da instrução probatória, conforme também assinalado nos precedentes retro citados.
+Por fim, destaco que não compete ao STJ analisar suposta ofensa a dispositivos constitucionais, mesmo com a finalidade de prequestionamento, a teor do art. 102, III, da Constituição Federal.
+Nesse sentido:
+ ..  II - A pretensão de rejulgamento da causa, na via estreita dos declaratórios, mostra-se inadequada.
+III - Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+IV - Embargos de Declaração rejeitados. (EDcl no AgRg no AgRg no AREsp n. 28.368/RJ, Rel. Ministra. Regina Helena Costa, 5ª T., DJe 18/6/2014)
+A irresignação dos embargantes se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração neste momento processual, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+Portanto, não há fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do acórdão embargado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
