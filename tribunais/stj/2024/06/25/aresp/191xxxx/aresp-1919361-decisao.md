@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAYCON RIBEIRO DA CUNHA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que não admitiu seu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal.
+Na hipótese, tem-se que o agravante foi condenado, como incurso nas sanções do art. 303, § 2º, do Código Penal Militar (CPM), à pena de 3 anos de reclusão em regime aberto.
+A apelação foi desprovida pelo Tribunal de origem em acórdão cuja ementa foi assim definida (e-STJ fl. 414):
+APELAÇÃO. CRIME MILITAR. Peculato-furto. Sentença condenatória. Recurso defensivo que busca a absolvição, argumentando que não teria sido praticado o núcleo do tipo penal imputado. Animus furandi e elementos que configuram o delito plenamente demonstrados. Versão do réu em sede de autodefesa que se afigura inverossímil. Indivíduo que afirmou não ter encontrado a arma na viatura, onde foi esquecida pelo outro militar, pretendendo, à toda evidência, mantê-la em seu poder. Devolução da arma subtraída, supostamente encontrada em outro local que não aquele onde teria sido perdida, que não foi espontânea, sendo o sujeito surpreendido com a identificação por terceiro do número serial da pistola extraviada. Ação que não se amolda à conduta insculpida no artigo 249, parágrafo único do Código Penal Militar, que estabelece o crime de "apropriação de coisa achada", de forma que não se cogitará da pretendida absolvição. Presença inequívoca dos elementos constitutivos do peculato-furto. Juízo de reprovação da conduta mantido. Dosimetria que não desafia reparos, tendo a pena se concretizado no patamar mínimo legal, fixado o regime aberto. Recurso desprovido.
+Opostos, foram rejeitados os embargos de declaração. Eis a ementa (e-STJ fl. 472):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO. CRIME MILITAR. Crime de peculato-furto. Acórdão unânime do Colegiado que negou provimento ao recurso. Embargante sustenta a existência de omissões quanto à tese de desclassificação da conduta e outras não ventiladas no apelo. Pretendidos efeitos infringentes e prequestionamento para viabilização do acesso às instâncias recursais superiores. Quanto à pretendida desclassificação, não há omissão e nem se justifica a insurgência, uma vez que devidamente enfrentados os argumentos. Inovação quanto aos pleitos de substituição da pena corporal por pena restritiva de direitos e de possibilidade de acordo de não persecução penal, o que significa dizer que não há omissão nesse tangente. Enfrentamento que se fará em prestigio ao aventado prequestionamento. Entendimento assentado no Supremo Tribunal Federal e Superior Tribunal de Justiça (STJ) no sentido de que não se aplica aos crimes militares a regra do artigo 44 do Código Penal, por força do principio da especialidade. Inaplicabilidade da regra insculpida no artigo 28-A do Código de Processo Penal após o recebimento da denúncia. Precedentes do STJ. Desprovimento aos embargos de declaração.
+Foi interposto recurso especial, no qual sustentou a defesa a violação ao disposto nos arts. 44, c/c o art. 12, do Código Penal, e 28-A do Código de Processo Penal. O apelo nobre, no entanto, foi inadmitido com fundamento na Súmula n. 83/STJ (e-STJ fls. 522/529).
+Seguiu-se o presente agravo (e-STJ fls. 539/546); as contrarrazões (e-STJ fls. 550/555); e o parecer do Ministério Público Federal, no qual opinou pelo não conhecimento ou, caso conhecido, pelo desprovimento do recurso (e-STJ fls. 762/765).
+É o relatório.
+Decido.
+O agravo não deve ser conhecido, uma vez que o agravante deixou de impugnar suficientemente o fundamento da decisão agravada.
+Na espécie, vimos, a decisão que não admitiu o recurso especial fê-lo pelo óbice contido na Súmula n. 83/STJ. Todavia, o agravante não infirmou especificamente esse fundamento.
+Ressalte-se que, inadmitido o apelo extremo com base no referido verbete sumular n. 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, providência da qual não se desincumbiu a defesa.
+Em outras palavras, não é suficientemente para atacar o fundamento de inadmissão do apelo nobre a simples afirmação de que a decisão agravada "utilizou como parâmetro para a impossibilidade do seguimento do Recurso Especial, uma decisão desse Tribunal, que não tratava de crime militar" (e-STJ fl. 543).
+Desse modo, não havendo impugnação específica e pormenorizada do fundamento da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+É digno de nota que não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido, confiram-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp n. 614.968/SP, relator Ministro NEFI CORDEIRO, DJe 29/2/2016)
+PENAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACOU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE, POR ANALOGIA, DA SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inadmissível o agravo que não infirma todos os fundamentos da decisão que negou seguimento ao recurso especial. Súmula 182/STJ.
+2. Na hipótese, inadmitido o recurso em razão das Súmulas 7/STJ e 83/STJ, incumbia à parte demonstrar a não incidência dos enunciados sumulares.
+3. A incidência da Súmula 7/STJ impede o exame do recurso especial pelo dissídio jurisprudencial, tendo em vista a ausência de identidade fática entre o acórdão paradigma apresentado e os fundamentos do acórdão recorrido.
+4. Agravo regimental improvido. (AgRg no AREsp 275.940/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/06/2015, DJe 09/06/2015)
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1.  ..
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido. (AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/6/2013, DJe 26/6/2013.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
