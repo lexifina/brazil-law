@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO BRADESCO FINANCIAMENTOS S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba (Apelação Cível n. 0836333-71.2019.8.15.2001, nos autos de ação declaratória.
+O julgado foi assim ementado (fl. 154):
+PROCESSUAL CIVIL, DIREITO CIVIL E DO CONSUMIDOR. Apelação cível. Coisa julgada. Pedido distinto do formulado no âmbito do Juizado Especial Cível. Acessório que segue o principal. Restituição dos juros incidentes sobre as tarifas declaradas abusivas por sentença transitada em julgado. Desprovimento do recurso. - Se não houve o pedido relativo aos juros sobre a tarifa no âmbito do Juizado, não há que se falar em coisa julgada.- Apelação a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (fl. 182).
+Nas razões do recurso especial, além de dissídio jurisprudencial com julgados de tribunais de outros estados, alega o recorrente violação dos seguintes artigos:
+a) 1.022, II, do CPC, na medida em que o Tribunal de Justiça do Estado da Paraíba foi omisso em apreciar matéria essencial para o deslinde do feito, qual seja, a observância de que já foram incorporados os acréscimos derivados em outra ação (coisa julgada) e a natureza dos juros.
+b) 337, §§ 1º, 2º e 4º, do CPC, na medida em que foi afastada a coisa julgada, mesmo a parte recorrida tendo recebido, por conta do êxito em ação anterior, os valores pagos a título de tarifas consideradas ilegais, bem como os acessórios e consectários legais.
+b) 323 do CC, porquanto inexistente a prova de quitação de reserva e, nos termos do artigo citado, sendo a quitação do capital sem reserva dos juros, estes presumem-se pagos.
+Afirma que há dissenso jurisprudencial em relação ao entendimento do do TJSP (Apelação Cível n. 1002876-03.2016.8.26.0081) e do TJMG (Apelação Cível n. 1.0016.16.007192-0/001), uma vez que decidiram que se opera a coisa julgada nos pedidos de restituição de juros sobre tarifas já reconhecidas ilegais.
+Argumenta que a causa de pedir e o pedido formulados na ação originária abrangiam a pretensão desta ação ordinária - receber os juros incidentes sobre a tarifa diluída nas parcelas do financiamento -, de maneira que está caracterizada a coisa julgada, a impossibilitar o julgamento desta ação, haja vista o trânsito em julgado da ação originária, que tramitou no Juizado Especial.
+Sustenta que a restituição dos juros remuneratórios sobre as tarifas consideradas ilegais é consectário lógico do pedido de afastamento da cobrança, já que o acessório segue a sorte do principal.
+Aduz que é entendimento pacífico dos tribunais que a coisa julgada abrange não somente as matérias que foram expressamente deduzidas como também aquelas que deveriam ter sido.
+Requer o provimento do recurso para que se anule o julgamento dos embargos declaratórios na origem, determinando-se o retorno dos autos a fim de que outro julgamento seja realizado para análise das omissões apontadas. Subsidiariamente, pleiteia a extinção do processo em razão do reconhecimento da coisa julgada, condenando-se a parte recorrida ao pagamento dos ônus sucumbenciais.
+As contrarrazões foram apresentadas às fls. 281-285.
+Admitido o apelo extremo (fls. 289-292), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+I - Da violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da coisa julgada
+Consta dos autos que a ora recorrida ajuizou, no Juizado Especial Cível, ação em que buscou a declaração da ilegalidade da cobrança de Serviços Concessionária/Lojista, com restituição em dobro dos valores indevidamente cobrados a tal título. O pedido foi julgado procedente.
+Agora, a parte ora recorrida ajuiza ação declaratória questionando os juros mensais advindos da inserção dessa taxa indevida, pretendendo-se também a sua restituição em dobro.
+A sentença afastou a incidência da coisa julgada e julgou a ação parcialmente procedente para declarar abusiva e ilegal a cobrança de juros sobre o montante da tarifa de serviços e para determinar a restituição, na forma simples, do valor correspondente à cobrança dos juros incidentes sobre tal tarifa.
+A apelação interposta pela parte ora recorrente foi julgada improcedente, mantendo-se integralmente a sentença.
+Sobreveio recurso especial em que a recorrente pleiteia o reconhecimento da coisa julgada.
+A esse respeito, o Superior Tribunal de Justiça pacificou entendimento no sentido de que "a eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir" (REsp n. 1.989.143/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/12/2022, DJe de 13/12/2022).
+Assim, a coisa julgada impede que a parte pleiteie, após o trânsito em julgado da ação de repetição de indébito, a devolução de juros e demais encargos incidentes sobre as tarifas declaradas ilegais na ação já transitada em julgado, na medida em que o acessório - juros remuneratórios aplicados sobre a tarifa - segue a sorte do principal - valor correspondente à tarifa.
+Nesse sentido: AgInt no REsp n. 2.017.311/PB, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022; REsp n. 1.899.115/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/4/2022, DJe de 8/4/2022; AgInt no REsp n. 2.045.088/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023; e AgInt no REsp n. 2.048.812/PB, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.
+No caso, o Tribunal de origem rejeitou a prejudicial de mérito e manteve a sentença - que afastara a coisa julgada - ao entendimento de que se não houve o pedido relativo aos juros sobre a tarifa no âmbito de ação anterior, não há que se falar em coisa julgada. Confira-se excerto do acórdão recorrido (fls. 155-156, destaquei):
+Da alegada violação à coisa julgada
+Consultando-se os autos, verifica-se que tanto a pretensão declinada quanto a extensão da sentença proferida no processo citado pelo Apelante limitaram-se a declarar a nulidade da obrigação principal, consistente na cobrança das citadas tarifas, de modo que a coisa julgada, que demanda identidade de partes, de causa de pedir e de pedido, não se operou no que diz respeito à obrigação acessória, relativa aos juros incidentes sobre estes numerários, tendo em vista o disposto no art. 337, §§1, 2, 3 e 4, do CPC.
+A respeito, segue precedente desta Segunda Câmara Cível:
+APELAÇÃO. AÇÃO DECLARATÓRIA. PLEITO DE REPETIÇÃO DE ACRÉSCIMOS REFERENTES AOS JUROS INCIDENTE SOBRE TAXAS JÁ DECLARADAS ILEGAIS EM PROCESSO DIVERSO. SENTENÇA QUE ACOLHE PRELIMINAR DE CAUSA MADURA. ART. 1.013, §4º, COISA JULGADA. REFORMA DO DECISUM. DO NCPC. JULGAMENTO DO MÉRITO. COBRANÇA DOS JUROS INCIDENTE SOBRE TAXAS JÁ DECLARADAS ILEGAIS OBRIGAÇÃO ACESSÓRIA A SER RESTITUÍDA. VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. MÁ-FÉ NÃO COMPROVADA. REPETIÇÃO DE INDÉBITO DE FORMA SIMPLES. PROVIMENTO DO APELO PARA AFASTAR PRELIMINAR DE COISA JULGADA E JULGAR PARCIALMENTE PROCEDENTE A DEMANDA.
+- Não há que se falar em coisa julgada, porquanto o objeto da presente ação é diverso do discutido na revisional que tramitou no juizado especial. Em outras palavras, o que se postula na presente ação é a devolução dos juros contratuais (obrigação acessória) que incidiram sobre as tarifas declaradas ilegais.  ..  (TJPB -(obrigação principal) em processo transitado em julgado ACÓRDÃO/DECISÃO do Processo Nº 00670446820148152001, 2ª Câmara Especializada Cível, Relator DES. OSWALDO TRIGUEIRO DO VALLE FILHO , j. em26-09-2017) (grifo nosso).
+Assim, se a parte não requereu a devolução relativa aos juros incidentes sobre as tarifas no processo que tramitou perante o Juizado, e se o Juiz não condenou o Apelado a restituí-los na sentença, não há que se falar em coisa julgada. Limitando-se a peça recursal unicamente a ocorrência de coisa julgada, deve o recurso ser, portanto, desprovido.
+III - DISPOSITIVO
+Ante o exposto, nego provimento ao recurso, mantendo-se a sentença por seus próprios fundamentos.
+Deixo de majorar os honorários advocatícios uma vez que foram fixados em seu patamar máximo pelo juízo sentenciante.
+É o voto.
+Esse entendimento diverge da jurisprudência do STJ, devendo o recurso especial ser provido no ponto.
+Com isso, em razão do reconhecimento da coisa julgada, a questão referente à violação do art. 323 do CC fica prejudicada.
+III - Conclusão
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento para, reconhecendo a coisa julgada, extinguir o feito sem resolução de mérito, nos termos do art. 485, V, do CPC.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+ EMENTA
