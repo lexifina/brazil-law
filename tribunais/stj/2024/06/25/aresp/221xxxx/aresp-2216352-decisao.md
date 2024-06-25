@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por RICIERI RINALDI contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 429):
+AGRAVO INTERNO - PERÍODO ESPECIAL RECONHECIDO - AGRAVO INTERNO DA PARTE AUTORA PARCIALMENTE PROVIDO
+1 - Preliminarmente, verifico que o autor juntou o PPP do período controvertido nos autos (ID 88835301,p. 68/70), razão pela qual desnecessária a produção de perícia judicial, como aduz em seu agravo. Consequentemente, não há que se falar em cerceamento de defesa no presente feito.
+2 - No mérito, verifico que o PPP atestou que o autor esteve sujeito a óleos lubrificantes no período entre 06/03/1997 a 01/08/1997. No período entre 02/08/1997 a 02/09/2003 não há exposição a ruído superior a 90 dB ou qualquer exposição a agentes químicos.
+3 - Portanto, reconheço a especialidade do período entre 06/03/1997 a 01/08/1997. O período entre 02/08/1997 a 02/09/2003 é comum.
+4 - Agravo interno parcialmente provido.
+Embargos de declaração rejeitados (e-STJ fls. 501/508).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 1.022 do CPC/2015, aduzindo, preliminarmente, a nulidade do julgado diante de: (i) omissão acerca do direito à produção de prova da existência de outro agente nocivo, distinto do ruído, porquanto o PPP estaria incompleto, e (ii) contradição do acórdão, que extinguiu o feito com resolução de mérito por falta de provas, em desacordo com o julgado repetitivo.
+No mérito, alegou dissídio pretoriano em relação à interpretação do art. 370 do CPC, postulando o reconhecimento do cerceamento de defesa pelo julgamento antecipado da lide, sem direito à produção de prova pericial, visto que o PPP não continha a descrição de todos os agentes nocivos a que esteve exposto, "especialmente, havia menção a óleos e graxas, mas se pretendia ir mais a fundo" a fim de demonstrar que se tratava de hidrocarbonetos (e-STJ fl. 525).
+Aduziu, ainda, na esteira do REsp n. 1.352.721, julgado sob o rito dos recursos representativos de controvérsia, que foi indevida a extinção do processo com resolução de mérito na hipótese em que a conclusão do julgador foi de que as provas não seriam suficientes para fundamentar o pedido do autor.
+Sem contrarrazões. O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, como se lê:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação. Vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da controvérsia.
+No presente caso, a insurgência do recorrente se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre as teses do direito à produção de prova da existência de outro agente nocivos, distinto do ruído, porquanto o PPP estaria incompleto, e a respeito da alegada contradição do acórdão, que extinguiu o feito com resolução de mérito por falta de provas, em desacordo com o julgado repetitivo.
+Com efeito, é de suma importância a verificação das referidas teses, especialmente a que impugna o PPP, uma vez que todos os aspectos fáticos devem estar contidos no acórdão a fim de viabilizar o conhecimento da insurgência na via do especial.
+Ademais , verifica-se que os temas foram submetidos à apreciação do Tribunal de origem, conforme se extrai do seguinte trecho dos embargos de declaração opostos pela parte insurgente (e-STJ fl. 519):
+Em face de tal decisão, foram opostos Embargos de Declaração, uma vez que o acórdão restou lacunoso - e, portanto, omisso-por deixar (1) de observar os elementos fáticos que ensejam a produção de prova distinto daquele do ruído; (2) indeferir sem qualquer motivação provas às quais destinariam a tratar sobre outros fatos; e (3) o prequestionamento das normas 489, §1º, IV e do art. 370 do CPC. Além disso, demonstrou-se a contradição interna do julgado que juntou decisão, pois decidira o feito com resolução de mérito por falta de provas.
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que os vícios sejam sanados pela Corte de origem, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. ACOLHIDA EM PARTE NA DECISÃO RECORRIDA. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA MATÉRIA OMITIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada violação ao art. 1.022, II, do CPC apresentada pela recorrente, ora agravada, nas razões do recurso especial, verifica-se que a decisão hostilizada foi clara e precisa ao concluir, após análise dos autos, que o Tribunal de origem incorreu em negativa de prestação jurisdicional, tendo em vista que deixou de se manifestar acerca de pontos relevantes para a solução da controvérsia e apresentados pela parte agravada em sede de embargos de declaração.
+2. Os trechos do acórdão do Tribunal de origem apresentados nas razões desse agravo interno não são suficientes para suprir as omissões arguidas pela recorrente, ora agravada, em sede de recurso especial.
+3. Nessas circunstâncias, a outra conclusão não se chega senão a de que os autos devem retornar ao Juízo a quo para novo julgamento dos aclaratórios, a fim de que sejam sanadas as omissões apontadas.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.801.878/RJ, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/10/2021, DJe de 7/10/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. EMBARGOS DE TERCEIRO JULGADOS PROCEDENTES. DETERMINAÇÃO DE PENHORA PARCIAL SOBRE IMÓVEL. PRESERVAÇÃO DA MEAÇÃO DO CÔNJUGE. INDIVISIBILIDADE DO BEM ARGUIDA PELO EXEQUENTE. OMISSÃO CARACTERIZADA. VIOLAÇÃO AO ART. 1.022 DO CPC DE 2015. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Hipótese em que o Tribunal de origem, não obstante provocado, deixou de se manifestar sobre a indivisibilidade do imóvel penhorado, de modo a não comportar a alienação judicial da fração ideal de 50%, correspondente à meação do cônjuge que não participou do negócio jurídico que gerou o título executivo, mas apenas da integralidade do bem, com a reserva do valor correspondente à meação. Configuração de omissão relevante.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 1.683.696/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 24/5/2021, DJe de 30/6/2021).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos pelo ora agravante e sane o vício de integração ora identificado.
+Publique-se. Intimem-se.
+ EMENTA
