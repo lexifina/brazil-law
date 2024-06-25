@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por LETICIA MAGALHAES DA SILVA E SILVA e LETICIA SILVA DE OLIVEIRA FREITAS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+DIREITO ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. AGRAVO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA NOS AUTOS 0006396-63.1996.4.02.5101. PERCENTUAL DE 28,86%. COMPENSAÇÃO. PREJUDICIALIDADE. ARTIGO 313 DO CÓDIGO DE PROCESSO CIVIL. SUSPENSÃO.
+I - A execução coletiva, nos autos do processo n.º 0006396-63.1996.4.02.5101, ainda não se encontra encerrada, uma vez que pendente o julgamento do recurso de apelação cuja matéria tem potencial efeito de prejudicialidade com a execução individual ora em apreciação, donde decorre a necessidade de suspensão do respectivo processo, com fundamento no art. 313, V, a, do Código de Processo Civil.
+II - Suspensão do processo, até a definição da controvérsia nos autos da ação coletiva 0006396-63.1996.4.02.5101.
+Os embargos de declaração opostos pela parte exequente foram desprovidos.
+No presente recurso especial, os recorrentes apontam como violados os arts. 6º, 7º, 9º, 10, 313, V, a, 489, § 1º, IV, 921, I, e 1.022, II, todos do CPC/2015.
+Apresentado contrarrazões pela manutenção do acórdão recorrido.
+É o relatório.
+Decido.
+O acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais.
+O que se denota é mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável. Portanto, não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil.
+Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023; AgInt no AREsp n. 2.172.041/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Por outro lado, o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de violação dos arts. 6º, 7º, 9º, 10, 313, V, a, e 921, I, todos do CPC/201, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+Consigna-se que, nos termos do entendimento desta Corte Superior, inexiste contradição quando se afasta a ofensa ao art. 1.022 do Código de Processo Civil e, ao mesmo tempo, se reconhece a falta de prequestionamento da matéria.
+Assim, é plenamente possível que o acórdão combatido esteja fundamentado e não tenha incorrido em omissão e, ao mesmo tempo, não tenha decidido a questão sob o enfoque dos preceitos jurídicos suscitados pela parte recorrente.
+Nesse sentido: AgInt nos EDcl no REsp n. 2.052.450/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/9/2023, DJe de 21/9/2023; AgInt no REsp n. 1.520.767/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2021, DJe de 14/9/2021.
+Assim tem se manifestado esta Seção em casos idênticos: AgInt no REsp n. 2.104.977/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/6/2024, DJe de 18/6/2024; AgInt no REsp n. 2.099.419/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/4/2024, DJe de 9/8/2024.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, conheço parcialmente do recurso especial para, nesta extensão, negar-lhe provimento.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E OMISSÃO. INOCORRÊNCIA. SUSPENSÃO DE EXECUÇÃO INDIVIDUAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS VIOLADOS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
