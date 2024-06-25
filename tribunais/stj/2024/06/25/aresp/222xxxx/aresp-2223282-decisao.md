@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por FERNANDO ASSIS DE SOUZA, JHON BRITO DE LIMA e MAURO JULIO PEREIRA contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consoante se extrai dos autos, a denúncia que imputou aos Agravantes a prática delitiva do art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal foi rejeitadas às fls. 139-140.
+O Tribunal de justiça de origem deu provimento ao recurso em sentido estrito do Ministério Público para receber a denúncia e d eterminar o prosseguimento do feito (fls. 205-209).
+No recurso especial, a Defesa alega violação aos arts. 157, § 2º, incisos II e IV e §2º-A, inciso I; e 288, ambos do Código Penal, bem como aos arts. 226, 227 e 395, todos do Código de Processo Penal (fls. 227-228).
+Pugna pela manutenção da decisão que rejeitou a denúncia, alegando, em suma, ausência de justa causa em razão da precariedade dos elementos de informação colhidos no inquérito policial quanto à autoria delitiva, pois o único elemento de prova da autoria diz respeito ao reconhecimento fotográfico feito de forma ilegal e isolada pela Vítima (fls. 231-240).
+Apresentadas as contrarrazões (fls. 246-262), sobreveio juízo negativo de admissibilidade fundado nos óbices das Súmulas n. 7 e 83, ambas desta Corte (fls. 609-622).
+Nas razões do agravo, a Defesa refutou os óbices declinados para justificar a inadmissibilidade do recurso especial (fls. 644-658).
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso especial (fls. 686-689).
+É o relatório. DECIDO.
+A Corte de justiça de origem inadmitiu o recurso especial com apoio no óbice da Súmula n. 83/STJ, citando dois precedentes que mantiveram a autoria delitiva quando amparada em outras provas distintas do reconhecimento extrajudicial, o AgRg no HC 612.588/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/08/2021, DJe 30/08/2021 e a AP 1032, Relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 22/04/2022, PROCESSO ELETRÔNICO DJe-099 DIVULG 23-05-2022 PUBLIC 24-05-2022 (fls. 266-267).
+Nas razões do agravo, além de a Defesa ter indicado precedentes mais antigos e que não guardam similitude fática com os julgados citados pela decisão de inadmissibilidade do recurso especial; pelo menos um deles, o AgRg no HC 663.844/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/05/2021, DJe 01/06/2021, corrobora justamente a tese contida nos julgados declinados na decisão ora agravada (fls. 280-283).
+Dessa forma, à míngua de impugnação concreta, específica e individualizada, de todos os fundamentos declinados pela Corte de justiça local para inadmitir o recurso especial, mostra-se insuperável a manifesta inobservância ao princípio da dialeticidade, nos termos do art. 932, inciso III, do Código de Processo Civil.
+A propósito:
+" ..
+4. Na espécie, a respeito da pretendida substituição da pena privativa de liberdade, a decisão agravada consignou que a medida não era cabível por dois motivos: a) as circunstâncias do crime foram valoradas negativamente ao acusado, inclusive ensejando incremento na pena-base e b) o réu é reincidente em crime doloso, cometido com violência, e as instâncias de origem entenderam não ser adequada a aplicação de pena restritiva de direitos. A defesa, contudo, não impugnou todos os fundamentos da decisão agravada, de modo que se limitou a infirmar a necessidade de reexame fático-probatório para analisar o pleito e a questionar a possibilidade de substituição da reprimenda para sentenciados reincidentes. Desse modo, em razão da ausência de dialeticidade recursal, incide a Súmula n. 182 do STJ, a inviabilizar o conhecimento do pedido.
+5. Agravo regimental parcialmente conhecido e não provido." (AgRg no AREsp n. 2.295.338/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/6/2023, DJe de 27/6/2023.).
+Ainda nesse sentido, dentre vários outros, o AgRg no REsp n. 2.009.728/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/9/2023, DJe de 12/9/2023.
+Ante o exposto, NÃO CONHEÇO do agravo, nos termos do art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. DELITO DO ART. 157, § 2º, INCISO II, e § 2º-A, INCISO I, DO CÓDIGO PENAL. INADMISSÃO DO APELO NOBRE PELO ÓBICE DA SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO EFETIVA E CONCRETA. ART. 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO NÃO CONHECIDO, NOS TERMOS DO ART. 253, PARÁGRAFO ÚNICO, INCISO I, DO RISTJ.
