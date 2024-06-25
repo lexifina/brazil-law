@@ -1,0 +1,15 @@
+DECISÃO
+O JUÍZO FEDERAL DA 2ª VARA DO JUIZADO ESPECIAL ADJUNTO CÍVEL E CRIMINAL DE JI-PARANÁ - SJ/RO suscita conflito de competência, em execução penal, diante do reconhecimento de incompetência efetivado pelo JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE BRASÍLIA - DF.
+Depreende-se dos autos que Alef Costa Gonçalves foi condenado perante o Juízo suscitante, por tráfico de drogas, ao cumprimento de pena privativa de liberdade substituída por restritiva de direitos. Posteriormente, o referido réu foi condenado, em Brasília, ao cumprimento de 10 anos e 5 meses de reclusão, em regime fechado, sendo expedida guia de execução provisória.
+A controvérsia estabelecida neste incidente porcessual, portanto, se cinge a saber qual o Juízo competente para a execução da pena decorrente de condenação em Brasília, visto que o réu já havia sido condenado perante a Subseção Judiciária de Ji-Paraná - RO.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitante (fls. 62-64).
+Decido.
+Embora o Ministério Público Federal haja se manifestado pela competência do Juízo suscitante, penso em solução diversa. Com efeito, depreende-se dos autos que, a despeito da condenação anterior do réu ao cumprimento de pena privativa de liberdade, substituída por restritiva de direitos, perante o Juízo suscitante, dois aspectos importam para solução da controvérsia em favor do Juízo suscitado.
+O primeiro, é que sua constrição somente se deu em Brasília, cuja condenação com início da execução provisória foi fixada em 10 anos e 5 meses de reclusão (delito mais grave, portanto), diversamente do que ocorreu junto ao Juízo suscitante, cuja pena foi substituída por restritivas de direito.
+Ou seja, ainda que haja condenação anterior em Rondônia, não há como perder de vista que o réu somente iniciou o cumprimento de pena (ainda que provisória) por delito mais grave em Brasília, local de onde se encontra recolhido.
+De fato, "havendo condenação em duas unidades federativas, o juízo competente para a execução da pena será o do local em que fixada a pena mais grave." (CC n. 180.424/GO, relator Ministro Antonio Saldanha Palheiro, DJe 13/9/2021, destaquei).
+Ou ainda, no caso de condenação em duas unidades federativas, o juízo competente será o do local em que ela houver iniciado a primeira execução, o que não se altera com a determinação de cumprimento de pena por outro delito, cometido em unidade federativa diversa (v.g. CC n. 169.679/MG, relator Ministro Reynaldo Soares da Fonseca, DJe 17/12/2019).
+O segundo aspecto, não menos relevante, é o fato de que a condenação efetivada em Brasília, cujo regime de cumprimento de pena é o fechado, deverá ser cumprida em estabelecimento prisional estadual, conforme Súmula n. 192 do STJ, de modo que a execução penal referente a esse delito deverá tramitar perante Juízo estadual. Além disso,
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais de Brasília - DF, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
