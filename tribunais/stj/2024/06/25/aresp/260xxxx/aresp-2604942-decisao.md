@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por Salvador Logística e Transportes Ltda. contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 233):
+APELAÇÃO CÍVEL -MONITÓRIA -NOTAS FISCAIS ACOMPANHADAS DOS RESPECTIVOS INSTRUMENTOS DE PROTESTOS, ORDENS DE SERVIÇO E E-MAIL -LIQUIDEZ E CERTEZA DO CRÉDITO DEMONSTRADO -FATO EXTINTIVO, MODIFICATIVO OU IMPEDITIVO DO DIREITO DO AUTOR -INEXISTÊNCIA. -O art. 700 do Código de Processo Civil exige, como requisito para a ação monitória, que a pretensão do autor se fundamente em prova escrita, sem eficácia de título executivo. -As notas fiscais acompanhadas dos respectivos instrumentos de protestos, ordens de serviços e e-mails de solicitação e aprovação de serviço, mostram-se hábeis a demonstrar a liquidez e certeza do crédito. -Comprovada a origem e validade da dívida, compete à parte ré comprovar a quitação do débito ou a existência de qualquer fato modificativo, impeditivo ou extintivo do direito autoral, ônus do qual não se desincumbiu.
+Nas razões do recurso especial (e-STJ, fls. 243-257), a recorrente apontou, além da existência de dissídio jurisprudencial, violação aos arts. 320, 321, 330, 373, I e II, 700, § 2º, I, e § 4º, e 702 do CPC.
+Sustentou, em síntese, que o autor não comprovou o fato constitutivo do seu direito, pois "não houve comprovação nos autos quanto ao efetivo cumprimento da obrigação, isto é, a entrega das mercadorias e prestação dos serviços constantes nas notas colacionadas" (e-STJ, fl. 254).
+Contrarrazões apresentadas às fls. 271-278 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Na hipótese, a Corte estadual, com base no suporte fático-probatório dos autos, concluiu que os documentos apresentados pelo autor, sobretudo as notas fiscais acompanhadas de seus correspondentes protestos, são hábeis à instrução do procedimento monitório.
+A propósito, confiram-se os seguintes fundamentos do acórdão recorrido (e-STJ, fls. 237-240):
+Com efeito, verifica-se que o artigo 700 do Cód. de Processo Civil não define prova escrita, deixando, assim, que a jurisprudência e doutrina precisem o seu conceito.
+Invoca-se, a respeito, o que traz Carreira Alvim, em sua obra Procedimento Monitório:
+"A prova escrita que serve de base à ação monitória não significa aquela revestida de todas as formalidades legais exigidas pelo Código Civil, mas, também, não se equipara àquela que constitui simples "começo" de prova escrita". Continua definindo o que seja começo de prova: "O começo (ou princípio) de prova pode encontrar-se no escrito a que falte algum requisito de ordem formal, ou deixe alguma coisa a desejar sobre o mérito da pretensão que sobre ela se funda".
+Também sobre o tema, Luiz Guilherme Marinoni delibera como sendo prova escrita aquela que é apropriada a fornecer plausível índice de probabilidade de existência do direito.
+"Com efeito, a prova escrita que abre oportunidade para a ação monitória é aquela capaz de permitir ao juiz formar um juízo de probabilidade acerca da existência do direito e do valor afirmado pelo credor".
+Na hipótese, ao contrário do que faz crer o apelante, o conjunto probatório produzido nos autos é suficiente para suprir a exigência em relação à prova escrita para o ajuizamento da presente ação monitória, não havendo que se falar em ausência de documento essencial.
+A petição de ingresso foi acompanhada de notas fiscais, boletos, ordens de serviço, instrumentos de protesto, e-mails trocados entre as partes e a planilha de cálculo, que demonstra de modo claro e objetivo a evolução do saldo devedor.
+E, do que se infere da memória de cálculo apresentada (ordem nº 06), o percentual de juros aplicado foi de 1% a.
+m. e a correção monetária teve como base o INPC, indicação essa suficiente para o exercício da ampla defesa da parte devedora, eis que a permite averiguar a regularidade dos cálculos.
+Sendo assim, o simples fato de não constar indicação expressa do índice de correção monetária aplicado não caracteriza falta de documentos essenciais, uma vez que é possível aferir dos cálculos o índice utilizado, de forma que, exigir a indicação expressa do índice utilizado se configuraria excesso de formalidade.
+No mais, a relação negocial estabelecida entre as parte sé incontestável, vez que devidamente demonstrada pelos e-mails de solicitação e aprovação de orçamento. A prestação de serviços também restou comprovada, sobretudo pelas assinaturas constantes nos comprovantes de solicitação, aprovação e prestação de serviço.
+Ademais, todas as notas fiscais estão acompanhadas dos correspondentes instrumentos de protesto e, a este respeito, a jurisprudência do Superior Tribunal de Justiça entende que "o protesto sem impugnação faz presumir a concordância do devedor quanto à existência da dívida"(REsp 247.342/MG).
+Sendo assim, inexistindo notícias de que a parte ré tenha contestado os protestos, as notas fiscais acompanhadas de seus correspondentes protestos constituem documentos hábeis à instrução do procedimento monitório.
+ ..
+Neste passo, ao contrário dos argumentos postos pelo apelante, a parte autora comprovou fato constitutivo de seu direito, eis que o débito perseguido restou amplamente demonstrado pelos documentos acostados com a inicial.
+A parte ré, por sua vez, não logrou êxito em comprovar fato impeditivo, modificativo ou extintivo do direito alegado pelo autor, ônus que lhe competia, conforme determina o art. 373 do Código de Processo Civil.
+Em que pese aos argumentos apresentados pela parte recorrente, reverter a conclusão do Tribunal local demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra indevido ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% sobre a base de cálculo fixada na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. LIQUIDEZ E CERTEZA DO CRÉDITO DEMONSTRADO. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
