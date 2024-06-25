@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por NICOLA VINCENZO DI SALVO em face da decisão que, em juízo prévio de admissibilidade, inadmitiu seu recurso especial.
+O apelo extremo, fundado nas alínea "a" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 286/292 e-STJ):
+AGRAVO INTERNO - NÃO CONHECIMENTO DO AGRAVO DE INSTRUMENTO - DECISÃO DO JUÍZO DE ORIGEM QUE RECONHECEU A HIGIDEZ DAS PROVAS TÉCNICAS PRODUZIDAS - MATÉRIA NÃO PREVISTA NO ROL DO ARTIGO 1.015 DO CPC - MITIGAÇÃO DA TAXATIVIDADE DO REFERIDO ROL SEQUER REQUERIDA POR OCASIÃO DA INTERPOSIÇÃO DO AGRAVO DEINSTRUMENTO - INAPLICABILIDADE - AGRAVO DEINSTRUMENTO QUE NÃO PREENCHE OS REQUISITOS DEADMISSIBILIDADE - ARGUMENTOS DO RECORRENTE INCAPAZES DE INFIRMAR AS CONCLUSÕES EXPOSTAS NA DECISÃO MONOCRÁTICA - RECURSO NÃO PROVIDO.
+O insurgente interpôs, na mesma petição (fls. 297/320 e-STJ), recurso especial e recurso extraordinário. Nas razões de recurso especial, alegou violação ao artigo 1.015 do CPC, sustentando a mitigação do rol das hipóteses de cabimento do agravo de instrumento quando voltado a combater a realização de perícia sem prévia intimação da parte.
+Contrarrazões às fls. 567/575 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, por ter sido interposto na mesma petição do recurso extraordinário (fl. 593 e-STJ).
+Inconformada, a parte interpôs o presente agravo em recurso especial, aduzindo ser cabível a interposição conjunta dos recursos extremos (fls. 596/605 e-STJ).
+Contraminuta às fls. 635/637 e-STJ.
+Ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Em que pese a argumentação trazida no recurso, a jurisprudência desta Corte Superior é firme no sentido de que o recurso especial interposto conjuntamente com o recurso extraordinário, na mesma petição, não atende ao pressuposto da regularidade formal, pois contraria o art. 1.029 do Código de Processo Civil, segundo o qual "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas  .. ."
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO TENTADO. DOSIMETRIA. INTERPOSIÇÃO DOS RECURSOS ESPECIAL E EXTRAORDINÁRIO NUMA ÚNICA PETIÇÃO. INOBSERVÂNCIA DO ART. 1.029, CAPUT, DO CPC/2015. IRREGULARIDADE FORMAL. INADMISSÃO QUE SE IMPÕE. PRECEDENTES. INCIDÊNCIA DA SÚMULA 568/STJ. REGIMENTAL. MERO INCONFORMISMO. MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS. 1. A interposição, em única petição, das razões do recurso especial e do extraordinário, viola o disposto no art. 1.029, caput, do CPC/2015, segundo o qual, "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas". Precedentes (AgInt no AREsp n. 1.815.893/RJ, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2021). 2. O agravante não logrou êxito em demonstrar argumento capaz de modificar as razões expostas na decisão ora combatida, em uma nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente. 3. Agravo regimental improvido" (AgRg no AREsp n.2.251.392/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/4/2023, DJe de 2/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO NÃO ADMITIDOS, NA ORIGEM, EM JUÍZO PRÉVIO DE ADMISSIBILIDADE. RAZÕES DO AGRAVO EM RECURSO ESPECIAL E DO AGRAVO EM RECURSO EXTRAORDINÁRIO CUMULADAS EM UMA ÚNICA PETIÇÃO DE AGRAVO. ART. 1.042, § 6º, DO CPC/2015. DESCUMPRIMENTO. AGRAVO NÃO CONHECIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o ora agravante - contra a decisão que, em juízo prévio de admissibilidade, negou seguimento ao Recurso Especial e ao Recurso Extraordinário - cumulou, em uma única peça, as razões do Agravo em Recurso Especial e do Agravo em Recurso Extraordinário, em desconformidade com o disposto no art. 1.042, § 6º, do CPC/2015.
+III. Ausente a regularidade formal, exigida pelo art. 1.042, § 6º, do CPC/2015, não merece censura a decisão que não conheceu do Agravo. Nesse sentido: STJ, AgInt no AREsp 1.351.708/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/05/2019; AgInt no AREsp 1.443.452/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 11/03/2020; AgInt no AREsp 1.815.893/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 06/05/2021.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 2.141.199/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/12/2022, DJe de 14/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO EM RECURSO ESPECIAL E DO AGRAVO EM RECURSO EXTRAORDINÁRIO CUMULADAS EM UMA ÚNICA PEÇA. DESCABIMENTO. RECURSO ESPECIAL E EXTRAORDINÁRIO. INTERPOSIÇÃO EM PETIÇÃO ÚNICA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Nos termos do art. 1.042, § 6º, do CPC/2015, "o agravante deverá interpor um agravo para cada recurso não admitido". No caso em exame, o agravante cumulou, em uma única peça, as razões do agravo em recurso especial e do agravo em recurso extraordinário, o que impede o conhecimento da irresignação. Precedentes.
+2. A interposição, em única petição, das razões do recurso especial e do extraordinário viola o disposto no art. 1.029, caput, do CPC/2015, segundo o qual, "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas". Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.815.893/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/5/2021, DJe de 6/5/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INTERPOSIÇÃO, EM ÚNICA PETIÇÃO, DE RECURSO ESPECIAL E EXTRAORDINÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A interposição, em única petição, das razões do recurso especial e extraordinário viola o disposto no art. 1.029, § 6º, do CPC/2015, segundo o qual "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas".
+2. Trata-se, portanto, de irregularidade formal, haja vista o não preenchimento dos requisitos de admissibilidade do recurso.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.521.587/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/2/2020, DJe de 14/2/2020.)
+Destaca-se que "A disposição contida no art. 1031 do CPC, segundo a qual, Na hipótese de interposição conjunta de recurso extraordinário e recurso especial, os autos serão remetidos ao Superior Tribunal de Justiça, não significa a possibilidade de interposição dos referidos recursos em petição única, porque tal proceder significaria a interpretação desarmônica das normas previstas no Código de Processo Civil." (AgRg no AREsp n. 2.286.080/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023.)
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários advocatícios nos termos do art. 85, § 11, do CPC, porquanto não foram fixados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
