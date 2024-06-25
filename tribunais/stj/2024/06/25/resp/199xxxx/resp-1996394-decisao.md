@@ -1,0 +1,46 @@
+DECISÃO
+Em análise, recurso especial, interposto por MEDINA E GUIMARÃES ADVOGADOS ASSOCIADOS, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. PLURALIDADE DE CREDORES. CRÉDITOS TRABALHISTAS. ANTERIORIDADE DA PENHORA. ARTS. 84, §14, 908 E 909 DO CPC.
+Ainda que os créditos de honorários advocatícios tenham natureza alimentar e gozem dos privilégios próprios dos trabalhistas, o exercício do direito de preferência, frente à pluralidade de credores, depende da penhora sobre o mesmo bem. (fl. 1211)
+O acórdão em questão foi objeto de embargos de declaração (fls. 1224/1229), os quais foram rejeitados. (fls. 1261/1263)
+Nas razões do recurso especial, interposto com base no art. 105, III, a e c da Constituição Federal, a parte ora recorrente aponta, além da divergência jurisprudencial, violação aos arts. 908 e 909 do CPC/2015, sustentando, em síntese, que: devem ser reconhecida "(..) a preferência dos créditos de honorários advocatícios do recorrente sobre o crédito tributário." (fl. 1280)
+Contrarrazões apresentadas (fls. 1321/1329), o recurso especial foi admitido pelo Tribunal de origem (fl. 1332).
+É o relatório.
+Passo a decidir.
+A irresignação merece prosperar.
+A esse respeito, o Tribunal de origem assim se manifestou:
+A lei que atribui aos honorários advocatícios a natureza alimentar, com os mesmos privilégios dos créditos trabalhistas, é de natureza processual, incidindo de imediato, nos termos do art. 1.046, do CPC. Irrelevante, portanto, que os créditos tenham origem em atos anteriores ao novo CPC.
+No entanto, deve ser sublinhado que o agravante pretende exercer o seu direito de preferência em relação aos honorários advocatícios mediante petição nos autos da execução fiscal promovida pela União contra a empresa devedora, onde foi arrematado o imóvel penhorado.
+Como há pluralidade de credores, o dinheiro deve ser distribuído conforme a ordem de preferências dos créditos e a anterioridade da penhora, nos termos do art. 908, "caput", e 909, do CPC.
+No caso, não existe a penhora dos créditos dos honorários advocatícios, de modo que o direito de preferência não pode ser acatado, sobretudo porque também existem créditos trabalhistas em disputa pelo valor depositado na arrematação. (fls. 1215/1216)
+Do trecho acima depreende-se que o entendimento do Tribunal Regional diverge da atual jurisprudência desta Corte Superior, no sentido de que a norma do art. 908 do CPC/2015, segundo a qual deve ser observada a anterioridade da penhora, incide apenas e tão somente quando se tratar de credores quirografários, não se aplicando, portanto, aos detentores de privilégio.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. "O credor com título de preferência legal pode participar do concurso previsto no art. 711 do CPC/73 - correspondente ao art. 908 do NCPC - para resguardar o seu direito de preferência, mesmo que não tenha promovido a execução do seu crédito. Nessa hipótese, reconhecida a preferência do crédito, o levantamento do valor fica condicionado a posterior ajuizamento de execução." (AgInt no REsp 1862300/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/08/2020, DJe 29/09/2020).
+2. Agravo interno desprovido. (AgInt no REsp 1.764.630/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe 02/09/2021) - grifo nosso.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PREFERÊNCIA DO CRÉDITO TRIBUTÁRIO. LEVANTAMENTO DA PENHORA. NECESSIDADE DE PRÉVIO AJUIZAMENTO DA EXECUÇÃO FISCAL. ENTENDIMENTO CONSOLIDADO DO SUPERIOR TRIBUNAL DE JUSTIÇA (SÚMULA 83/STJ). AGRAVO INTERNO PROVIDO PARA, EM NOVO EXAME, CONHECER DO AGRAVO E DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que houve impugnação específica dos óbices contidos na decisão de admissibilidade do recurso especial. Novo exame do feito.
+2. Não há violação do art. 1.022 do CPC/2015, quando o eg. Tribunal de Justiça analisa a controvérsia em sua inteireza, com suficiente fundamentação.
+3. "O credor com título de preferência legal pode participar do concurso previsto no art. 711 do CPC" de 1973 - correspondente ao art. 908 do NCPC - "para resguardar o seu direito de preferência, mesmo que não tenha promovido a execução do seu crédito. Nessa hipótese, reconhecida a preferência do crédito, o levantamento do valor fica condicionado a posterior ajuizamento de execução" (REsp 1219219/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/11/2011, DJe 25/11/2011)".
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1.747.385/SP, relator Ministro Raul Araújo, Quarta Turma, DJe 07/04/2021) - grifo nosso.
+Ademais, urge assinalar que a jurisprudência deste Tribunal converge para entender que os créditos resultantes de honorários advocatícios, tanto os contratuais quanto os sucumbenciais, apresentam natureza alimentar e equiparam-se aos trabalhistas, mesmo no caso de execução fiscal.
+Sendo assim, o acórdão recorrido não está em conformidade com o entendimento de tese firmada nesta Corte, em precedente qualificado, apreciado sob o rito dos recursos repetitivos - Tema Repetitivo 637/STJ, REsp 1.152.218/RS, Relator Ministro Luis Felipe Salomão.
+Vejamos a ementa do aludido julgado:
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. HONORÁRIOS ADVOCATÍCIOS. FALÊNCIA. HABILITAÇÃO. CRÉDITO DE NATUREZA ALIMENTAR. ART. 24 DA LEI N. 8.906/1994. EQUIPARAÇÃO A CRÉDITO TRABALHISTA.
+1. Para efeito do art. 543-C do Código de Processo Civil:
+1.1) Os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência, seja pela regência do Decreto-Lei n. 7.661/1945, seja pela forma prevista na Lei n. 11.101/2005, observado, neste último caso, o limite de valor previsto no artigo 83, inciso I, do referido Diploma legal.
+1.2) São créditos extraconcursais os honorários de advogado resultantes de trabalhos prestados à massa falida, depois do decreto de falência, nos termos dos arts. 84 e 149 da Lei n. 11.101/2005.
+2. Recurso especial provido. (REsp 1.152.218/RS, Relator Ministro Luis Felipe Salomão, Corte Especial, DJe 07/05/2014) - grifo nosso.
+Outros recentes precedentes reforçam esse entendimento de que "os honorários advocatícios, tanto os contratuais quanto os sucumbenciais, tem natureza alimentar e destinam-se ao sustento do advogado e de sua família" (REsp 1.557.137/SC, Rel. Ministro Mauro Campbell Marques), equiparando-se ao crédito trabalhista. Portanto, preferem ao crédito tributário:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONCURSO DE CREDORES. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR DA VERBA. PREFERÊNCIA AO CRÉDITO TRIBUTÁRIO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, o crédito referente a honorários advocatícios, contratuais ou sucumbenciais, dada sua natureza alimentar, é equiparado ao crédito de natureza trabalhista, com preferência em relação ao crédito tributário em concurso de credores. Precedentes.
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Corte Superior, incide, na hipótese, a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+3. Agravo interno desprovido. (AgInt na REsp 1.960.435/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 23/06/2022) - grifo nosso.
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. CRÉDITOS. NATUREZA ALIMENTAR. ART. 186 DO CTN. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Os créditos resultantes de honorários advocatícios, sejam contratuais sejam sucumbenciais, têm natureza alimentar e equiparam-se aos trabalhistas, de modo que incluem-se na ressalva do art. 186 do CTN. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido. (AgInt na REsp 1.900.336/SC, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 06/04/2021) - grifo nosso.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, conheço do recurso e dou-lhe provimento.
+Intime-se.
+EMENTA
