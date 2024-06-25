@@ -1,0 +1,12 @@
+DECISÃO
+De acordo com os autos, o INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA interpôs, em 31/08/2010, recurso especial contra acórdão do Tribunal Regional Federal da 5ª Região (fls. 484-499).
+Remetidos os autos a este Superior Tribunal, a parte recorrida apresentou petição, alegando a nulidade dos atos processuais praticados após a interposição de sua apelação, por ausência de intimação (fls. 605-634).
+Após a oitiva do recorrente, foi proferido o despacho de fl. 653, determinando a baixa dos "autos em diligência, para que o Tribunal de origem se manifeste quanto às alegações ali deduzidas".
+Baixados os autos, o Tribunal de origem acolheu questão de ordem "para anular o Acórdão proferido na Sessão de 08/07/2010 (Id. 4058309.4854492), bem como de todos os atos processuais que se seguiram, determinando-se que seja retificada a autuação processual, com a inclusão dos Patronos Lasaro de Carvalho Mendes Filho, Luiz Antonio Costa de Santana, Cláudia Maeli Jorge Diniz Andrade e Mayra Dutra de Almeida, e novo julgamento dos recursos das partes" (fl. 687).
+E, em novo julgamento, foi proferido acórdão com o seguinte dispositivo: "não conheço da Apelação da CAGEL e dou provimento, em parte, à apenas para afastar os juros compensatórios; fixar os honorários Apelação do INCRA, advocatícios em 5% (cinco por cento), nos termos do artigo 27, § 1º, do Decreto-lei 3.365/41; e determinar que a correção monetária deve incidir somente sobre a diferença entre o valor da indenização fixada na sentença e o preço ofertado na inicial, de acordo com o Manual de Cálculos da Justiça Federal" (fl. 729).
+Opostos embargos de declaração pelo recorrente, foram parcialmente acolhidos, "para fixar os juros moratórios a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, permanecendo a Apelação do INCRA provida, em parte, só que em maior extensão" (fl. 771).
+Após, foi certificado que "o Acórdão retro, proferido pela Terceira Turma, nos autos do processo em epígrafe, transitou em julgado em 19/04/2024. Certifico, ainda, que, em função do trânsito em julgado do Acórdão e em cumprimento ao artigo 68 do Regimento Interno deste Tribunal, faço remessa eletrônica deste processo ao juízo de origem" (fl. 790).
+Nesse contexto, é manifesta a perda do objeto do recurso especial de fls. 484-499. E, inexistindo manifestação recursal contra o acórdão de fls. 770-773, devem os autos baixar à origem, conforme determinado na certidão de fl. 790.
+Isso posto, julgo prejudicado o recurso especial.
+Intimem-se.
+EMENTA
