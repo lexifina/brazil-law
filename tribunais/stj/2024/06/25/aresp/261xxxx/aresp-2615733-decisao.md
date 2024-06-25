@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por Itau Unibanco S.A. contra decisão que não admitiu o recurso especial manejado em face de acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ, fls. 210-211):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO CONTRATUALC/C CONSIGNAÇÃO EM PAGAMENTO E ANTECIPAÇÃO DE TUTELA.
+JUROS REMUNERATÓRIOS. Possibilidade da limitação dos juros remuneratórios, quando comprovada a abusividade (Recurso Especial nº 1.061.530/RS). No caso, diante das peculiaridades que envolvem a contratação, em especial, o tipo de operação, o valor disponibilizado, o prazo ajustado para pagamento, bem como o perfil do contratante, resta configurada a abusividade alegada. Logo, cabe limitação dos juros remuneratórios à taxa média do mercado prevista para as operações da espécie. No ponto, apelo desprovido.
+REPETIÇÃO DO INDÉBITO/COMPENSAÇÃO DE VALORES. Estabelece o art. 876, caput, do CC: Todo aquele que recebeu o que lhe não era devido fica obrigado a restituir (..). Portanto, havendo pagamento a maior, considerando a solução tomada no processo judicial, são devidas a compensação e a repetição do indébito, nos termos dos artigos 368 e 876 do CCB. Em respeito aos princípios que vedam o enriquecimento sem causa e a restituição integral, cabível a compensação de valores e a repetição do indébito a ser efetivada entre as parcelas prestadas ineficazmente pelo consumidor e o eventual débito pendente em razão dos negócios jurídicos celebrados com o fornecedor. Assinale-se, ainda, que estão preenchidos os requisitos do instituto, pois os objetos das prestações recíprocas têm igual natureza, decorrendo a compensação de causa legal, evitando-se o enriquecimento sem causa do fornecedor que recebeu indevidamente quantias decorrentes de cláusulas inválidas. A repetição do indébito, no entanto, é cabível na forma simples, uma vez que não restou comprovada a alegada má-fé do credor. No caso, diante da modificação contratual, cabível a determinação de compensação de valores e a repetição do indébito. Apelo desprovido no ponto.
+APELAÇÃO DESPROVIDA À UNANIMIDADE.
+Opostos embargos de declaração ao acórdão, foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 260-268), a recorrente alegou violação do art. 1.022, II, do Código de Processo Civil.
+Sustentou, em síntese, omissão no acórdão, "uma vez que sequer considerou a metodologia adotada pelo próprio Bacen para identificação da modalidade de crédito aplicável aos contratos de renegociação (e-STJ, fl. 266)".
+Sem contrarrazões.
+O processamento do recurso especial não foi admitido na origem sob os fundamentos de não configuração da negativa de prestação jurisdicional e de incidência das Súmulas 5 e 7 do STJ (e-STJ, fls. 280-283).
+Agravo em recurso especial apresentado às fls. 290-298 (e-STJ).
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022, II, do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente, sobretudo no tocante à constatação da abusividade na taxa de juros remuneratórios pactuada em junho/2020, de 6,24% ao mês, diante das taxas médias praticadas no mercado, a mesma época, de 2,78% ao mês, na operação de mesma espécie.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido. (AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em R$ 300,00 (trezentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
