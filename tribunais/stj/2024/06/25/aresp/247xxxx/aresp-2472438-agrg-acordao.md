@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 19/06/2024 a 25/06/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182 DO STJ.
+1. Nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal, consoante o art. 3º do Código de Processo Penal, deve a parte agravante, na petição do agravo regimental, impugnar especificamente os fundamentos da decisão recorrida, o que, na hipótese dos autos, não foi atendido.
+2. No caso, a parte insurgente não combateu a aplicação do Tema n. 181 do STF.
+3. Incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+4. Não compete ao próprio Superior Tribunal de Justiça analisar, no âmbito do juízo de viabilidade do recurso extraordinário, a possível concessão de habeas corpus de ofício em feito já submetido à apreciação deste Tribunal Superior.
+5. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por HEMISON EDUARDO DE FREITAS LIMA contra decisão que negou seguimento a recurso extraordinário assim ementada:
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que a decisão merece ser reconsiderada, com base nos seguintes argumentos (fl. 367):
+Conforme preceitua o artigo 1.021 do CPC, o que se busca é o encaminhamento do Recurso Extraordinário para o STF, diante das violações apresentadas, sendo impugnada a decisão que não conheceu o Recurso Extraordinário, não se trata de recurso com objetivo de discussão o qual o STF não tenha se manifestado em outros recurso, se tratando de recurso o qual já foi reconhecido repercussão geral, diante da violação do não recebimento do recurso, pugna seja determinado seu encaminhamento ao STF para a devida análise e prosseguimento do recurso em tela.
+ ..
+A decisão agravada negou seguimento ao Recurso Extraordinário com base na ausência de Repercussão Geral, existência de reexame do conjunto fático-probatório, o que a defesa demonstrou em sede recursal, se trata da violação dos preceitos legais, não adentrando nos fatos, pugnando pela revisão da pena, demonstrado a violação do artigo 5º, LVII e XLVI, da Constituição da República, requer-se seja o presente recurso conhecido e provido, com fulcro nos artigos 155 e 386, E INCISOS, do CPP, artigo 28-A, DO CPP, e artigo 12 da lei 10.826/03, reconhecimento do princípio da insignificância, acrescidos de contrariedade aos Princípios Constitucional da Razoabilidade, Proporcionalidade, Dignidade da Pessoa Humana, Indubio Pro Reo e Presunção de Inocência.
+Postula, por outro lado, a concessão de habeas corpus de ofício.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e os autos sejam remetidos ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182 DO STJ.
+1. Nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal, consoante o art. 3º do Código de Processo Penal, deve a parte agravante, na petição do agravo regimental, impugnar especificamente os fundamentos da decisão recorrida, o que, na hipótese dos autos, não foi atendido.
+2. No caso, a parte insurgente não combateu a aplicação do Tema n. 181 do STF.
+3. Incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+4. Não compete ao próprio Superior Tribunal de Justiça analisar, no âmbito do juízo de viabilidade do recurso extraordinário, a possível concessão de habeas corpus de ofício em feito já submetido à apreciação deste Tribunal Superior.
+5. Agravo regimental não conhecido.
+VOTO
+O agravo regimental não ultrapassa a barreira do conhecimento, como passo a esclarecer.
+O recurso extraordinário teve seguimento negado por se enquadrar na hipótese do Tema n. 181 do Supremo Tribunal Federal.
+A parte agravante, contudo, não impugnou especificamente os fundamentos da decisão recorrida.
+Nas razões do recurso, limitou-se a reiterar as alegações aduzidas no recurso extraordinário.
+No entanto, nos termos dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal, consoante disposições do art. 3º do Código de Processo Penal, deve a parte agravante, na petição do agravo regimental, refutar especificamente os fundamentos do pronunciamento agravado, o que não foi atendido no recurso em análise.
+Assim, incide na espécie o óbice consolidado nos termos da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Registre-se, a propósito, que o art. 545 do CPC/1973, mencionado na referida súmula, corresponde ao § 1º do art. 1.021 do atual CPC.
+No que tange à pretendida concessão de habeas corpus de ofício, verifica-se que a Lei n. 14.836/2024, que acrescentou o art. 647-A do Código de Processo Penal, estabelece o seguinte:
+Art. 647-A. No âmbito de sua competência jurisdicional, qualquer autoridade judicial poderá expedir de ofício ordem de habeas corpus, individual ou coletivo, quando, no curso de qualquer processo judicial, verificar que, por violação ao ordenamento jurídico, alguém sofre ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção.
+Como se observa, a previsão em comento não suprimiu a necessidade de se respeitar a competência jurisdicional para a concessão da ordem.
+A propósito, o Supremo Tribunal Federal, em julgados recentes, tem reafirmado a imprescindibilidade da correta identificação da autoridade coatora e, consequentemente, da competência originária do órgão ao qual caiba apreciar o pedido. No ponto:
+O constituinte fez clara opção pelo princípio da colegialidade ao franquear a competência desta Corte para apreciação de habeas corpus - consoante disposto na alínea a do inciso II do artigo 102 da CRFB - quando decididos em única instância pelos Tribunais Superiores. E não há de se estabelecer a possibilidade de flexibilização dessa regra constitucional de competência, pois, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades - no caso, membros de Tribunais Superiores - cujos atos não estão submetidos à apreciação do Supremo Tribunal Federal.
+(HC n. 240.886, relator Ministro Luiz Fux, julgado em 6/5/2024, DJe de 7/5/2024).
+No mesmo sentido: HC n. 240.683, relator Ministro Flávio Dino, julgado em 7/5/2024, DJe de 9/5/2024; e HC n. 236.778, relator Ministro Edson Fachin, julgado em 2/5/2024, DJe de 6/5/2024.
+Portanto, no caso em apreço, sob pena de subversão das competências delineadas pela Constituição para apreciação de habeas corpus conforme a autoridade coatora, é incabível a análise pretendida nesta instância, pois seria necessário apreciar, no âmbito de exame da viabilidade do recurso extraordinário, a conclusão alcançada por membros do próprio Superior Tribunal de Justiça.
+Denotando a inviabilidade da apreciação pretendida, confira -se como já se manifestou esta Corte Superior:
+ ..  não há possibilidade de concessão de habeas corpus de ofício contra atos dos seus próprios membros. Competente para analisar os atos desta Corte via mandamus é o Supremo Tribunal Federal, conforme expressa previsão constitucional. (AgRg nos EREsp n. 1.222.031/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 24/6/2015, DJe 1º/7/2015).
+No mesmo sentido: AgRg nos EAREsp n. 2.387.023/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 18/4/2024, DJe de 24/4/2024; AgRg na RvCr n. 6.021/DF, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 13/3/2024, DJe de 15/3/2024; e EDcl no AgRg nos EAREsp n. 1.356.514/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 26/4/2023, DJe de 3/5/2023.
+Vale registrar que a verificação da competência para a concessão da ordem não se altera pelas disposições da nova lei, que estabelece de modo expresso a concessão da ordem de ofício, sem, no entanto, modificar a lógica constitucional de distribuição de competências, cometendo a diferentes órgãos judiciais a apreciação do pedido, conforme a autoridade coatora.
+Ante o exposto, não conheço do agravo regimental.
+É co mo voto.
