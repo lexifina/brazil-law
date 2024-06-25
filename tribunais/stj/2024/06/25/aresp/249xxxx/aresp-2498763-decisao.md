@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto Augustinho Piaseski , desafiando decisão da 2ª vice-Presidência do Tribunal de Justiça do Estado de Santa Catarina, que negou seguimento ao recurso especial por entender que: (I) as questões referentes aos arts. 276 a 281, 373, 405, 408, 525 e 783, todos do CPC; 320 a 326 do CC; e 14 da Lei n. 4.717/65 não se encontram prequestionadas (incidência das Súmulas 282 e 356/STF); (II) "o insurgente não contestou a tese da coisa julgada utilizada pelo Órgão Fracionário para fundamentar a decisão combatida juntamente com o art. 792, § 4º, do Código de Processo Civil" (fl. 164), o que atrai a aplicação do anteparo sumular 283/STF; (III) "in casu, apesar de tecer as assertivas acima expostas e citar dispositivos infraconstitucionais ao longo das razões recursais correspondentes, o recorrente absteve-se de indicar, de forma precisa, qual(is) seria(m) objeto de interpretação divergente" (fl. 164), motivo pelo qual incide o obstáculo sumular 284/STF.
+Recebidos os autos nesta Corte Superior, o Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Marlon Alberto Weichert, opinou pelo não conhecimento do agravo (fls. 243/247).
+É o relatório.
+O inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, os fundamentos atinentes ás Súmulas 283 e 284/STF, limitando-se a afirmar que, na espécie, foi satisfeito o requisito do prequestionamento.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, na linha do bem lançado parecer do Parquet Federal e nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
