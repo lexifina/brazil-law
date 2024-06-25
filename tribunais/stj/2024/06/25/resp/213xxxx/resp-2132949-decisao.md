@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pela QUIMAGRAF IND E COM DE MATERIAL GRÁFICO LTDA., com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4.ª Região assim ementado (fl. 825):
+TRIBUTÁRIO. AÇÃO RESCISÓRIA. PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO DO ICMS. ED RE 574.706, TEMA 69. MODULAÇÃO DE EFEITOS.
+1. É cabível o manejo de ação rescisória, desde que observados os prazos legais, para adequar acórdão ao entendimento fixado pelo Supremo Tribunal Federal em sede de Repercussão Geral.
+2. Em sede de embargos de declaração, o STF modulou os efeitos do julgado exarado no RE 574.706 estabelecendo que a exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS e da COFINS tem efeitos a partir de 15/03/2017, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento.
+3. Ação rescisória julgada procedente para adequar o acórdão deste Tribunal à modulação de efeitos em questão.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 862-865).
+Determinada pela Vice-Presidência da Corte regional a devolução do feito, em atenção aos arts. 1.030, inciso II, e 1.040, inciso II, do CPC/2015, para eventual juízo de retratação diante do julgamento do Tema 1279/STF sob o rito da repercussão geral, o Órgão julgador reconheceu:
+ ..  que o direito da empresa contribuinte ao aproveitamento em compensação tributária ou restituição administrativa, a título da inclusão do ICMS na base de cálculo do PIS e da COFINS, limita-se às obrigações tributárias decorrentes de fatos geradores ocorridos a partir de 15.03.2017. (fl. 989)
+Em seguida, em razão da ausência da perda do objeto, o recurso especial foi admitido na origem (fls. 1006-1007).
+É o relatório. Decido.
+Do exame dos autos, verifico que parte da matéria aqui tratada - "admissibilidade de ação rescisória para adequar julgado à modulação de efeitos estabelecida no Tema n. 69 da repercussão geral do Supremo Tribunal Federal" - foi afetada neste Tribunal para julgamento segundo o rito dos recursos representativos de controvérsia nos REsp n. 2.054.759/RS e 2.066.696/RS (Tema n. 1245), relator Ministro Mauro Campbell Marques, sendo determinada "a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015)".
+Ante o exposto, DETERMINO a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, apó s a publicação do acórdão a ser proferido no representativo da controvérsia (Tema n. 1245/STJ), e em observância aos arts. 1.030 e 1.040 do CPC/2015: a) negue seguimento ao recurso, caso o acórdão recorrido se harmonize com a orientação proferida pelo STJ; ou b) proceda ao juízo de retratação, se o acórdão recorrido divergir do entendimento firmado sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL E TRIBUTÁRIO. CABIMENTO DE AÇÃO RESCISÓRIA. MODUÇÃO ESTABELECIDA NO TEMA N. 69/STF. PIS E COFINS. ICMS NA BASE DE CÁLCULO. TEMA N. 1245/STJ DO REGIME DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
