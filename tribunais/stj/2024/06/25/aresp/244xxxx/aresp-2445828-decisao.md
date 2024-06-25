@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por MARIA DA GLORIA DOS SANTOS CHAVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (fls. 106-123), assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ALEGAÇÃO DE PRESCRIÇÃO INTERCORRENTE. NÃO VERIFICAÇÃO. AUSÊNCIA DE INÉRCIA DO ENTE MUNICIPAL. DEMORA ATRIBUÍDA EXCLUSIVAMENTE AO PODER JUDICIÁRIO. AFASTAMENTO DA PRESCRIÇÃO. SÚMULA 106 DO STJ. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+1. Conforme pontuado na decisão monocrática agravada, a alegada prescrição intercorrente se esbarra, justamente, na demora do Poder Judiciário no ato citatório.
+2. O Executado/Agravado cumpriu o seu mister e requereu diligência ao Juízo a quo, a qual foi deferida, e o lapso temporal que se constata nos autos originários não foi de inércia da parte Exequente/Agravada, mas de demora do Poder Judiciário na expedição do mandado que foi deferido.
+3. Não evidenciada a desídia do Município Exequente/Agravado, mas tão somente demora da máquina Judiciária na expedição do mandado que foi deferido pelo Juízo de origem.
+4. Agravo Interno conhecido e desprovido.
+A parte recorrente opôs embargos de declaração contra a decisão recorrida, tendo sido estes negados (fls. 157-177).
+A parte recorrente interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado o art. 1022, II, e parágrafo único, II, do CPC.
+O recurso especial foi inadmitido na origem porque o acórdão recorrido teria apreciado todas as questões colocadas de forma fundamentada (fls. 200-203), tendo a parte interposto o presente agravo.
+É o relatório.
+Passo a decidir.
+O presente recurso especial alega que teria ocorrido violação ao art. 1022, II, e parágrafo único, II, do CPC, porquanto o acórdão que julgou os embargos de declaração não teria apreciado "os fundamentos do recurso a cerca do julgamento do REsp 1.222.444/RS" e que levariam o órgão julgador a considerar que a prescrição intercorrente depende da verificação da desídia do exequente.
+Não verifico o vício alegado, pois a omissão consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito relevante e ventilado nas razões recursais que poderiam alterar o deslinde da causa.
+O acórdão recorrido enfrentou todas as questões relevantes apresentadas com fundamentos suficientes, tendo assinalado seu entendimento sobre a culpa na demora da marcha processual, atribuindo-a aos mecanismos judiciais, não ao exequente, como se lê do seguinte trecho (fl. 113):
+Como destacado acima, o Executado/Agravado cumpriu o seu mister e requereu diligência ao Juízo a quo, a qual foi deferida, e o lapso temporal que se constata nos autos originários não foi de inércia da parte Exequente/Agravada, mas de demora do Poder Judiciário na expedição do mandado que foi deferido.
+Assim, não se verifica ofensa ao art. 1022 do CPC/15, porquanto o acórdão do Tribunal a quo efetivamente enfrentou a tese levada a julgamento, de que a prescrição depende da verificação da inércia do exequente, porém, decidiu-a em sentido diverso do pretendido pela recorrente.
+No caso em tela, a inércia foi atribuída ao Poder Judiciário, de modo que revisar essa conclusão esbarraria no óbice da Súmula n. 7/STJ.
+Cumpre frisar que não se caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, como na hipótese dos autos, como se verifica das seguintes ementas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto a controvérsia referente à interrupção do prazo prescricional foi apreciada pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos  ..  (AgInt no AREsp n. 2.374.187/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023, grifo nosso).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGOS 489 E 1022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. SUPOSTA OMISSÃO A RESPEITO DA POSSIBILIDADE DE MANTER A EFICÁCIA DA PENHORA PARA SALVAGUARDA DE CRÉDITO SUB-ROGADO. CRÉDITO ORIGINÁRIO AINDA NÃO SATISFEITO. JUSTIFICATIVA SUFICIENTE. OMISSÃO DESCARACTERIZADA  ..
+1. A análise da controvérsia nos limites objetivos da controvérsia deduzida no recurso especial, de modo suficiente à conclusão alcançada, evidencia a suficiência da justificativa apresentada, afastando a alegação de contrariedade aos artigos 489 e 1022 do CPC/15  ..  (AgInt no AREsp n. 2.265.640/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023, grifo nosso).
+Isso posto, com fundamento no art. 932, IV, do CPC, bem como na Súmula n. 568/STJ e art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Sem honorários advocatícios recursais, pois "a jurisprudência do STJ consolidou o entendimento de que descabe fixar honorários recursais em decisão interlocutória em julgamento de Agravo de Instrumento (AgInt no AREsp 2.277.234/RJ, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
