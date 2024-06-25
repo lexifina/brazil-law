@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Jose Roberto Soares, em que se aponta como autoridade coatora o Juiz convocado, Relator do HC n. 0806619-79.2024.8.15.0000, writ ajuizado no Tribunal de Justiça da Paraíba e não conhecido (fls. 46/52).
+Narram os autos que o paciente foi condenado à pena de 19 anos de reclusão, em regime fechado, como incurso no art. 121, § 2º, II e IV, do Código Penal (fls. 40/43), por fato praticado em 1991, antes da vigência da Lei n. 9.271/1996 (Processo n. 001.1991.001362-0, da 1ª Vara do Júri da comarca de Campina Grande/PB).
+Aqui, sustenta-se, em síntese, que os arts. 420, parágrafo único, e 457, ambos do Código de Processo Penal, alterados pela Lei n. 11.689/2008, não podem ser aplicados aos processos submetidos ao rito escalonado do Júri, em que houve a citação por edital e o réu não compareceu em juízo nem constituiu advogado, na hipótese em que os fatos apurados ocorreram antes da Lei n. 9.271/1996 (fl. 13).
+Alega-se que, nesses casos, o réu tem direito a ser intimado pessoalmente da sentença de pronúncia, não sendo possível a aplicação retroativa dos novos dispositivos inseridos pela Lei n. 11.689/2008, já que a nova disciplina trazida por essa norma tem como pressuposto a citação real ou o comparecimento do réu em cartório, quando citado por edital (fl. 17).
+Afirma-se que, ao determinar o prosseguimento da ação penal contra o paciente, por fatos ocorridos antes da vigência das Leis n. 9.271/96 e n. 11.689/08, o E. Juiz de 1º grau do 1º Tribunal do Júri da comarca de Campina Grande/PB causou ao paciente inegável constrangimento ilegal (fl. 17).
+Defende-se o reconhecimento da nulidade processual desde a intimação editalícia da decisão de pronúncia, com a consequente anulação de todos os atos posteriores, inclusive a r. sentença condenatória proferida Conselho de Sentença em desfavor do paciente. E, reconhecida a referida nulidade, é possível, inclusive de ofício, o reconhecimento da prescrição da pretensão punitiva estatal (fl. 21).
+Por fim, deduz-se que, com a anulação da sentença condenatória e sua consequente publicação, a última causa interruptiva válida da prescrição existente nos autos seria a decisão de pronúncia, conforme art. 117, II, do CP, que ocorreu em 28 de agosto de 1992 (fls. 73/76 pdf). Entre tal dia e a presente data se verificou lapso superior a 32 (trinta e dois) anos, muito acima do maior prazo prescricional previsto no Código Penal, nos termos do art. 109, I, do referido diploma legal (fl. 21).
+Requer-se, inclusive liminarmente, seja declarada a nulidade de todos os atos a partir da entrada em vigor da Lei n. 9.271/1996 nos Autos n. 0001362-31.1991.8.15.0011, reconhecendo, assim, a ocorrência da prescrição ante o atingimento do lapso temporal de mais de 32 anos, com a expedição de alvará de soltura do acusado (fls. 22/23).
+O pedido liminar foi indeferido (fls. 55/57) .
+Informações foram prestadas (fls. 63/68, 69/79 e 80/90).
+Instado a se manifestar, o Ministério Público Federal opinou não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 94/98).
+É o relatório.
+Este habeas corpus foi impetrado contra decisão terminativa, monocrática, proferida no Tribunal local, para a qual há previsão legal de interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância.
+Com efeito, não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão monocrática proferida por Desembargadora de Tribunal estadual. Conforme o art. 105, I, "c", da CF, compete ao STJ julgar o habeas corpus quando o coator for Tribunal sujeito à sua jurisdição (AgRg no HC n. 878.088/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/4/2024). No mesmo sentido: AgRg no HC n. 874.725/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 13/3/2024; e AgRg no HC n. 833.615/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/9/2023.
+Portanto, como não houve o prévio exame do habeas corpus originário pelo órgão colegiado local, a competência desta Corte ainda não havia sido inaugurada no momento da impetração.
+Não foi outra a opinião do Subprocurador-Geral da República Miécio Oscar Uchôa Cavalcanti Filho em seu parecer (fls. 94/98).
+Afora isso, observa-se que foi distribuído o RHC n. 199.870/PB, interposto pelo paciente deste writ contra o acórdão proferido no julgamento do Agravo Regimental no HC n. 0806619-79.2024.8.15.0000, de forma que convém apreciar a insurgência naquele recurso.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA. DESCABIMENTO. INCOMPETÊNCIA DO STJ PARA APRECIAR O WRIT. PRECEDENTES.
+Habeas corpus não conhecido.
