@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARIO AUGUSTO NUNES contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o paciente foi condenado às penas de 06 anos e 09 meses de reclusão, em regime fechado, e 600 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento, nos termos do acórdão juntado às fls. 19-29, com a seguinte ementa:
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. CIRCUNSTÂNCIAS FÁTICAS QUE CHANCELARAM A ABORDAGEM POLICIAL. CONCRETA E REAL CONSTATAÇÃO DA OCORRÊNCIA DO DELITO DE TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O DELITO DE USO PESSOAL. INVIABILIDADE. CONTEXTO PROBATÓRIO A INDICAR QUE A DROGA ERA DESTINADA À MERCANCIA. ANTECEDENTES E REINCIDÊNCIA. DUPLO APENAMENTO NÃO VERIFICADO, UMA VEZ QUE A INCIDÊNCIA DECORRE DA APLICAÇÃO DO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA, CONSIDERANDO O FATO DE QUE A PRIMEIRA REPRIMENDA NÃO SE MOSTROU SUFICIENTE A FREAR O ÍMPETO DELITIVO POR PARTE DO AGENTE. CIRCUNSTÂNCIAS. PENA DE MULTA. DIMENSIONALIDADE ESTIPULADA QUE DEVE OBSERVAR A ANÁLISE OPERADA POR FORÇA DAS CIRCUNSTÂNCIAS JUDICIAIS DO ARTIGO 59 DO CÓDIGO PENAL, ENQUANTO QUE O VALOR DA UNIDADE DIZ RESPEITO À SITUAÇÃO FINANCEIRA DO RÉU, EM CONSONÂNCIA COM O ARTIGO 43, DA LEI Nº 11.343/06. IMPOSSIBILIDADE DE ISENÇÃO, UMA VEZ QUE DECORRE DE PRECEITO LEGAL.
+APELAÇÃO DEFENSIVA DESPROVIDA.
+No presente writ, sustenta a impetrante a nulidade do feito, ante a alegada busca pessoal sem fundadas razões.
+Subsidiariamente, alega a desclassificação da conduta do paciente para a prevista no art. 28 da Lei 11.343/2006, diante da ausência de qualquer situação a denotar a prática da traficância.
+Requer, ao final, a concessão da ordem, a fim de declarar a nulidade das provas com a absolvição do paciente ou desclassificar a conduta para a prevista no art. 28 da Lei n. 11.343/2006.
+As informações foram prestadas às fls. 935-950.
+O Ministério Público Federal, às fls. 953-958, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. ARGUIÇÃO DE NULIDADE. PLEITO DE DESCLASSIFICAÇÃO PARA CONSUMO PESSOAL. DEPOIMENTOS DOS POLICIAIS COERENTES E HARMÔNICOS. MATERIALIDADE E AUTORIA COMPROVADAS. REEXAME PROBATÓRIO INVIÁVEL.
+- A matéria, envolvendo eventual nulidade na abordagem pessoal, não foi debatida nas instâncias originárias, o que impede a análise pela Corte Superior, sob pena de se incorrerem indevida supressão de instância.
+- Conclusão das instâncias ordinárias ante as provas produzidas, bem como as circunstâncias que envolveram a droga apreendida, não deixa dúvida de que a conduta se amolda ao crime previsto no art. 33 da Lei n. 11.343/06. Para se concluir de maneira diversa a fim de acolher a pretensão desclassificatória, é necessário proceder reexame das provas dos autos, que não é cabível na via do writ.
+- O depoimento em juízo da autoridade policial é meio hábil e idôneo para subsidiar decreto condenatório, em especial, quando não demonstrada parcialidade dos agentes públicos.
+Pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Sustenta a impetrante a nulidade do feito, ante a alegada busca pessoal sem fundadas razões.
+Subsidiariamente, alega a desclassificação da conduta do paciente para a prevista no art. 28 da Lei 11.343/2006, diante da ausência de qualquer situação a denotar a prática da traficância.
+Inicialmente, as alegações relativas à nulidade do feito, ante a alegada busca pessoal sem fundadas razões não foi debatida pelo Tribunal de origem, não podendo ser conhecida por esta Corte Superior, sob pena de indevida supressão de instância.
+Acerca da desclassificação, a Lei n. 11.343/2006 não elenca critérios de distinção entre as figuras do usuário e a do pequeno, médio ou grande traficante. Nesse compasso, para a adequada subsunção dos fatos à apropriada hipótese prevista em lei, devem ser levadas em consideração as especificidades fáticas do delito, vale dizer, o contexto em que praticado o crime.
+No caso, diversamente do que foi alegado pelo impetrante, o que avulta do contexto fático delineado pela col. Corte a quo, nos limites cognitivos de um habeas corpus, é a autoria delitiva em desfavor do paciente, mormente considerando os depoimentos dos policiais, os quais, afirmaram a existência de denúncias anônimas dando conta de três indivíduos que se encontravam no Parque Redenção comercializando entorpecentes e, ao chegar no local, avistaram o usuá rio Leandro escondendo uma porção de entorpecentes na boca, enquanto as demais porções foram encontradas em poder do paciente, além da apreensão de dinheiro em espécie - fl. 21.
+Assim, o que ressai das circunstâncias da prisão em flagrante do paciente e também descritas pelo Juízo, não é uma conduta de usuário de substância entorpecente, mas a de alguém que fazia da mercancia de drogas seu meio de vida, na medida em que "Malgrado o acusado Leandro não tenha confirmado a venda direta pelo corréu, a dinâmica em que se deu a apreensão aponta para este sentido, sobretudo porque as denúncias descreviam as características da pessoa que estava comercializando os entorpecentes, as quais coincidiam com as de Mário. " - fl. 21.
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE DESCLASSIFICAÇÃO. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO NA DESCRIÇÃO DA CONDUTA APRESENTADA NA DENÚNCIA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. PENA-BASE MAJORADA COM FUNDAMENTO NOS MAUS ANTECEDENTES. CONSONÂNCIA COM A JURISPRUDÊNCIA DES CORTE. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBIIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DES CONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Quanto ao pleito de desclassificação do delito para o art. 28 da Lei n. 11.343/2016, o v. acórdão do Tribunal de origem ressaltou os elementos contidos na denúncia que davam conta de que o agravante teria comercializado a droga, de maneira que a conduta de fornecimento de entorpecente a terceiros se amolda ao disposto no art. 33 da referida Lei, não havendo que se falar em desclassificação para o delito de posse de drogas para consumo pessoal previsto no art. 28 da mesma norma.
+ ..
+Agravo regimental desprovido. (AgRg no HC 746.121/MG, Relator Ministro JESUÍNO RISSATO - Desembargador convocado do TJDFT -, QUINTA TURMA, DJe 9/8/2022).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
