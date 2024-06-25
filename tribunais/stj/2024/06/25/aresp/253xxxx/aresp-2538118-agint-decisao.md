@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por LUXUS MODA JOVEM LTDA. contra certidão expedida pela Secretaria Judiciária para saneamento de óbice alusivo à falta de comprovante de pagamento do preparo recursal, facultando-se à parte o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC (e-STJ fl. 571).
+Decurso do prazo para sanar o vício (e-STJ fl. 576).
+No presente agravo, a parte defende o afastamento da deserção, com base nos seguintes argumentos: a) foi juntado aos autos comprovante da realização de pagamento do preparo recursal e b) não foi intimada para efetuar o pagamento em dobro no prazo de cinco dias
+Requer, com apoio no princípio da cooperação, seja devidamente intimada para o recolhimento em dobro do preparo, sanando o vício apontado (e-STJ fls. 578/586).
+Impugnação às e-STJ fls. 591/595.
+Passo a decidir.
+Inicialmente, cumpre observar que, nos termos do art. 1.021, caput, do Código de Processo Civil de 2015, "contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal".
+Na mesma linha, dispõe o art. 259 do RISTJ que caberá agravo interno contra decisão proferida por Ministro, para que o respectivo órgão colegiado sobre ela se pronuncie, confirmando-a ou reformando-a.
+Nota-se, portanto, que o referido recurso é cabível contra decisão monocrática, a fim de permitir a apreciação pelo colegiado do Tribunal.
+No caso, verifica-se que a parte se insurge contra certidão de saneamento de óbices expedida pela Secretaria Judiciária do STJ, o que não se enquadra no conceito de decisão. Em verdade, não foi proferida nenhuma decisão por esta Casa de Justiça que justifique a interposição do referido recurso, sendo, portanto, incabível o agravo interno.
+Todavia, considerando o direito de petição, constitucionalmente garantido, e o princípio da instrumentalidade das formas, previsto nos arts. 188 e 277 do CPC/2015, recebo o agravo interno como petição.
+Nesse contorno, anoto que a jurisprudência desta Corte é pacífica no sentido de que "a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/03/2021).
+Cumpre notar que a falta de comprovação do recolhimento das custas processuais, no ato da interposição do recurso, não gera a imediata deserção deste, que só ocorrerá depois de conferida a oportunidade ao interessado para providenciar o preparo em dobro do recurso, consoante o art. 1.007, § 4º, do estatuto processual.
+No caso dos presentes autos, a Secretaria Judiciária do STJ, após constatar que o recurso especial foi instruído apenas com o agendamento do pagamento, determinou a intimação da parte recorrente para realizar o seu recolhimento em dobro, no prazo de cinco dias (e-STJ fls. 502 e 571).
+Ocorre que, mesmo intimada para regularizar o preparo, a parte agravante deixou escoar o prazo assinalado, conforme certidão de e-STJ fl. 576, pelo que tenho por inafastável a imposição da penalidade de deserção, na forma da Súmula 187 do STJ.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREPARO. AUSÊNCIA. AGENDAMENTO BANCÁRIO. DOCUMENTO INAPTO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO CUMPRIMENTO. DESERÇÃO.
+1. Segundo a jurisprudência desta Corte, "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/3/2021).
+2. A falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Hipótese em que, constatada a irregularidade, houve a intimação da parte recorrente para sanar o vício, não sendo comprovado o referido recolhimento em dobro, de modo que não há como afastar a incidência da Súmula 187 desta Corte.
+4. Agravo interno não provido. (AgInt no REsp 1.905.224/MG, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/08/2021, DJe 20/08/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 3/STJ. COMPROVANTE DE AGENDAMENTO DO PREPARO. AUSÊNCIA DE COMPROVANTE DE PAGAMENTO. INTIMAÇÃO PARA REGULARIZAÇÃO, COM RECOLHIMENTO EM DOBRO DO PREPARO. NÃO ATENDIMENTO INTEGRAL NO PRAZO. AUSÊNCIA DA GUIA DE RECOLHIMENTO DO PREPARO. DESERÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, quando da interposição do recurso especial, foi juntado apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante de efetivo pagamento. Por isso, a parte recorrente foi intimidada, por decisão da Presidência do Superior Tribunal de Justiça, para apresentar o comprovante de efetivo pagamento e realizar a complementação do recolhimento do preparo, uma vez que devido em dobro, nos termos do art. 1.007, §4º, do CPC.
+2. Ocorre que a parte recorrente não atendeu no prazo estipulado a integralidade da determinação da Presidência, uma vez que, em que pese tenha juntado o comprovante de pagamento, tanto do recolhimento do preparo original quanto da complementação deste, deixou de trazer aos autos tempestivamente a guia de recolhimento do novo preparo efetuado.
+3. Registra-se que o Superior Tribunal de Justiça firmou entendimento no sentido de que é imprescindível que os recursos interpostos para esta Corte Superior estejam acompanhados não só dos comprovantes de pagamento, mas também das guias de recolhimento devidamente preenchidas, sob pena de deserção.
+4. Agravo interno não provido. (AgInt no AREsp 1.534.909/PE, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 17/03/2020)
+Ante o exposto, RECEBO o agravo interno como petição para, INDEFERINDO o pedido, NÃO CONHECER do recurso especial, ante a deserção, com base no art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
