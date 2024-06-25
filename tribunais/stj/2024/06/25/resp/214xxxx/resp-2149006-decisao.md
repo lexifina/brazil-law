@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 362):
+APELAÇÕES CRIMINAL. DIREITO PENAL. CONDENAÇÃO DO ACUSADOPELO DELITO DE CONDUZIR VEÍCULO MEDIANTE EFEITO DEÁLCOOL. ABSOLVIÇÃO DOS CRIMES DE AMEAÇA E DANO. RECURSODO MP: PRETENSÃO CONDENATÓRIA DOS DELITOS ABSOLVIDOS. DELITOS NÃO CONFIGURADOS. AUSÊNCIA DE POTENCIAL CONCRETIZAÇÃO DA AMEAÇA. JURISPRUDÊNCIA DO STJ. COM RELAÇÃO AO CRIME DE DANO, ESSE NÃO RESTOU CARACTERIZADO, UMA VEZ QUE NÃO SOBREVEIO AVARIA DA COLISÃO. RECURSO DO ACUSADO PLEITEANDO A REDUÇÃO DA PENA DEFINITIVA. CONFISSÃO ESPONTÂNEA. FIXAÇÃO DA PENA NO PATAMAR MÍNIMO PREVISTO POR LEI. IMPOSSIBILIDADE DE FIXAÇÃO AQUÉM. SÚMULA 231 DO STJ. RECURSOS CONHECIDOS E NÃO PROVIDOS.
+Depreende-se dos autos que o recorrente foi condenado às penas de 6 meses de detenção e 10 dias-multa, pela prática do crime do art. 306 do Código Brasileiro de Trânsito.
+Irresignados, defesa e Ministério Público apelaram da referida decisão. O Tribunal a quo negou provimento aos recursos.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, aponta a defesa violação do art. 65, caput, do Código Penal, almejando a superação da Súmula 231/STJ, ao fundamento de que a atenuante da confissão espontânea foi reconhecida, mas não aplicada no cálculo da pena. Discorre que "a Sexta Turma desse Superior Tribunal de Justiça afetou três recursos especiais que tratam acerca da possibilidade de fixação de penas abaixo do mínimo legal. Inclusive, o eminente ministro Rogério Shietti propôs a realização de uma audiência pública para discutir com mais vagar o cancelamento da Súmula 231/STJ" (fl. 383).
+Requer o provimento do recurso para que a pena intermediária seja reduzida aquém do mínimo legal.
+Apresentadas as contrarrazões e admitido o recurso especial na origem, foram os autos remetidos a essa Corte, manifestando-se o Ministério Público Federal pelo não conhecimento do recurso especial.
+Ao julgar a apelação, o Tribunal de origem assim se manifestou (fls. 368-372):
+21. De plano, registro que a tese recursal defendida pelos apelantes não comporta acolhimento e explico o porquê.
+22. Em situação análoga ao caso em estudo, este Tribunal de Justiça do Estado de Alagoas já se posicionou de forma contrária à tese recursal aqui apreciada, ao deliberar que a redação do art. 65 "não pode ser interpretada de forma literal, sob pena de se admitir a hipótese de as agravantes, igualmente, sempre agravarem a pena, ainda que acima do limite máximo" (Número do Processo: 0700167-36.2017.8.02.0070; Relator (a): Des. Sebastião Costa Filho; Comarca: Foro de Coruripe; Órgão julgador: Câmara Criminal; Data do julgamento: 11/05/2022; Data de registro: 12/05/2022).
+23. Por ocasião do referido julgamento, o Relator teceu algumas considerações com as quais corrobora, e cuja reprodução ora considero relevante. Confira-se:
+"A dosimetria é atividade jurisdicional adstrita à reserva legal, tanto em garantia ao réu quanto à sociedade. Logo, a sistemática trifásica de fixação da pena definitiva deve ser cumprida à risca na sequência evidenciada pelo Código Penal nos arts. 59, 61, 67 e 68.
+Atenuantes e agravantes são circunstâncias acidentais estranhas ao tipo penal específico do crime e por isso devem estar limitadas aos patamares quantitativos determinados em cada figura típica.
+Caso contrário, como estas circunstâncias não possuem limites quantitativos legais, seria conferida ao magistrado ampla margem de cálculo, em detrimento da valoração já exercida pelo legislador ao elaborara redação do dispositivo legal, violando-se a individualização da pena.
+Somente as minorantes e as majorantes podem trazer a pena definitiva para posição inferior ou superior em relação aos patamares legais, uma vez que estas circunstâncias têm limites previamente determinados em lei.
+A expressão "sempre atenuam" contida no art. 65 do CP não pode ser interpretada de forma literal, sob pena de se admitir a hipótese de as agravantes, igualmente, sempre agravarem a pena, ainda que acima do limite máximo.
+Por isso, mantenho a aplicação da Súmula 231 do STJ."
+24. Frise-se que as ponderações feitas pela Relator no excerto supratranscritos encontram-se em plena harmonia com a jurisprudência do Superior Tribunal de Justiça.
+25. Isso porque, ao deliberar sobre a Súmula 231 à luz da redação do art. 65 do Código Penal, a Corte Superior proferiu julgamento, em sede de sistemática de recurso especial repetitivo, no sentido de que a incidência de circunstância atenuante não autoriza a redução da pena abaixo do mínimo legal. Comprove-se:
+ ..
+26. Como cediço, o art. 1.039 do Código de Processo Civil preconiza que a decisão proferida em sede de recurso repetitivo, como é o caso do julgamento acima referenciado, tem caráter vinculativo. Assim, não tendo os apelantes logrado êxito em distinguir o seu caso da hipótese apreciada em sede de recurso repetitivo, nem em demonstrar a superação do entendimento firmado, logo, tem-se que é imperativo o não provimento do apelo.
+27. Por fim, deixo registrado que reiteradamente esse Sodalício Estadual posiciona-se pela aplicação da Súmula 231 do Superior Tribunal de Justiça. Note-se:
+ ..
+28. Assim, com supedâneo nos argumentos e julgamentos apresentados até aqui, rejeito o pedido de reforma recursal destinado a reduzir a pena imposta pelo juízo a quo, em virtude da atenuante da confissão, o que faço por considerar que foi escorreita a observação feita pelo sentenciante de que, na segunda fase, a pena não pode ser fixada abaixo do mínimo legal, conforme Súmula 231 do Superior Tribunal de Justiça.
+Como se vê, no tocante à dosimetria, inexiste violação de dispositivo legal, pois, consoante a jurisprudência do STJ e considerando que a pena intermediária do recorrente foi fixada no mínimo legal, "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022.).
+Ressalta-se que, embora a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência compendiada na referida súmula, a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes.
+Incide, pois, a Súmula 83/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
