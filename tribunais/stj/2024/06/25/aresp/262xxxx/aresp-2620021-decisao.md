@@ -1,0 +1,25 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO-CRIME. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA OTRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO DE USORESTRITO. SENTENÇA CONDENATÓRIA. RECURSOS DEFENSIVOS. 1. PRELIMINAR DE NULIDADE POR ILICITUDE NA COLHEITA DAPROVA, POR INVASÃO DE DOMICILIO OU POR NÃO HAVERFUNDADA SUSPEITA OU JUSTA CAUSA A JUSTIFICAR A BUSCAPESSOAL, NOS TERMOS DO ART. 240, §2º DO CÓDIGO DE PROCESSO PENAL. AFASTAMENTO. LEGALIDADE DA APREENSÃO DOSENTORPECENTES. CIRCUNSTÂNCIAS FÁTICAS DAAPREENSÃO, SOMADAS À EXPERIÊNCIA DOS POLICIAIS EMCOMBATER AÇÕES DESSA ORDEM, FORMARAM QUADRO QUEAUTORIZOU A PRONTA ATUAÇÃO. ELEMENTOS DE CONVICÇÃO DEQUE UM CRIME ESTAVA EM CURSO. PREFACIAL REPELIDA.
+2 . MÉRITO. DEPOIMENTOS UNÍSSONOS DOS POLICIAIS, EMINQUÉRITO E EM JUÍZO, DANDO CONTA DA PRÁTICA DE TRÁFICODE DROGAS E DE ASSOCIAÇÃO PARA O TRÁFICO, PELOS RÉUS.
+3. DESCLASSIFICAÇÃO DO CRIME DE PORTE ILEGAL DE ARMA DEFOGO DE USO RESTRITO PARA A MAJORANTE PREVISTA NO ARTIGO 40, INCISO IV, DA LEI DE DROGAS, PARA UM DOS RÉUS.
+4. INAPLICABILIDADE DA PRIVILEGIADORA CONTIDA NO § 4º DOART. 33 DA LEI DE DROGAS.
+5. REDIMENSIONAMENTO DAS PENAS PARA AMBOS OS ACUSADOS.
+6. PLEITO DE ISENÇÃO DA PENA DE MULTA. DESCABIMENTO.
+7. MANUTENÇÃO DAS PRISÕES PREVENTIVAS.
+8. PERDIMENTO DOS BENS, CONFORME ESTIPULADO NO ARTIGO 62E SEGUINTES DA LEI Nº 11.343/2006. RECURSOS PACIALMENTE PROVIDOS. (e-STJ fls. 615/616)
+O recorrente a violação do art. 14 da Lei n. 10.826/2003, alegando, em síntese, que "o simples fato de a arma de fogo e as drogas serem apreendidas no mesmo contexto da prisão em flagrante não é suficiente para que se conclua pela tipificação do delito de tráfico com a majorante do artigo 40, inciso IV, da Lei n. 11.343/2006, excluindo-se a condenação pelo delito da Lei n. 10.826/2003." (e-STJ fl. 661). Ressalta a necessidade de que exista evidência de que as armas estavam sendo utilizadas como parte do processo de intimidação difusa ou coletiva para viabilizar a prática do narcotráfico, prova inexistente no caso dos autos.
+Não houve contrarrazões.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 723/725.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que Ivan foi condenado à pena de 8 anos e 10 meses de reclusão e Gabriel à pena de 9 anos e 8 meses de reclusão, ambos pelo cometimento dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006.
+O recorrente busca a condenação do recorrido pelo crime do art. 14 da Lei n. 10.826/2003, alegando, em síntese, que "o simples fato de a arma de fogo e as drogas serem apreendidas no mesmo contexto da prisão em flagrante não é suficiente para que se conclua pela tipificação do delito de tráfico com a majorante do artigo 40, inciso IV, da Lei n. 11.343/2006, excluindo-se a condenação pelo delito da Lei n. 10.826/2003. Sobre o tema, o TJRS assim se pronunciou:
+Entretanto, já no que diz ao delito de porte ilegal de arma de fogo de uso restrito, imputado a IVAN, entendo que prospera a pretensão defensiva quanto à aplicação da majorante prevista na Lei de Drogas.
+Embora devidamente comprovada a existência do crime e autoria, o porte de arma, no caso concreto, não se apresenta como crime autônomo, mas como causa especial de aumento depena do tráfico de drogas, na forma prevista pelo artigo 40, inciso IV, da Lei n.º11.343/06. Efetivamente, não restam dúvidas de que a arma estava sendo utilizada com o intuito de assegurar a traficância e de garantir a segurança dos acusados. Tanto é assim que a própria denúncia refere que as condutas foram praticadas nas mesmas circunstâncias de tempo e local. (e-STJ fl. 611)
+É firme o entendimento desta Corte Superior no sentido de que a absorção do crime de porte ou posse ilegal de arma pelo delito de tráfico de drogas, em detrimento do concurso material, deve ocorrer quando o uso da arma está ligado diretamente ao comércio ilícito de entorpecentes, ou seja, para assegurar o sucesso da mercancia ilícita. Nesse caso, trata-se de crime meio para se atingir o crime fim que é o tráfico de drogas, exige-se o nexo finalístico entre as condutas de portar ou possuir arma de fogo e aquelas relativas ao tráfico (HC n. 181.400/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 17/4/2012, DJe 29/6/2012).
+Na hipótese, como visto no trecho acima transcrito, o Tribunal de origem, diante do conjunto fático-probatório dos autos, concluiu que a arma estava sendo utilizada com o intuito de assegurar a traficância, aplicando a consunção.
+Entender de forma diversa das instâncias ordinárias demandaria o reexame do conjunto probatório, o que não se viabiliza em recurso especial, a teor do verbete n. 7 da Súmula do STJ.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
