@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DETRAÇÃO. JUÍZO DAS EXECUÇÕES. SUPRESSÃO DE INSTÂNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLA RAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. A matéria relativa à detração deveria haver sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, portanto, vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+3. Não há necessidade de rescindir a condenação, pois as alterações trazidas pelo art. 387, § 2º, do CPP, "não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência" (AgRg no HC n. 778.674/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe de 2/12/2022).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSE SOTERO REIS DA SILVA opõe embargos declaratórios ao acórdão de fls. 1.198-1.200, em que a Sexta Turma negou provimento ao agravo regimental.
+Nas razões destes embargos de declaração, a defesa aponta omissão quanto ao tema de fundo, pois "a matéria relativa à detração foi devidamente ventilada tanto em primeira instância, como em segunda instância, como se vê nas razões de apelação do processo de conhecimento de n. 0220611-89.1997.8.26.0003, fls. 1087/1095" (fl. 1.211).
+Requer sejam acolhidos e providos os presentes embargos.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DETRAÇÃO. JUÍZO DAS EXECUÇÕES. SUPRESSÃO DE INSTÂNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLA RAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. A matéria relativa à detração deveria haver sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, portanto, vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+3. Não há necessidade de rescindir a condenação, pois as alterações trazidas pelo art. 387, § 2º, do CPP, "não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência" (AgRg no HC n. 778.674/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe de 2/12/2022).
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A jurisprudência consolidada do Superior Tribunal de Justiça consigna que, "de acordo com o disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte" (AgRg no REsp n. 1.850.458/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2021, grifei).
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Conforme explicitado no acórdão embargado, verbis:
+ ..
+da leitura dos acórdãos de apelação e dos embargos de declaração que as alegações contidas neste writ, que versam sobre a aplicação do art. 387, § 2º, do CPP, assim consignou o Tribunal de origem:
+Nesse sentido, no tocante a aplicação do contido no artigo 387, § 2º, do Código de Processo Penal, observa-se que detração de pena se trata de matéria cuja apreciação é de competência exclusiva do Juízo das Execuções Criminais, respaldada em legislação especial, específica (artigo 66, da Lei nº 7.210/84), não obstante a reforma parcial do Estatuto Adjetivo tenha estabelecido a matéria no artigo em comento.
+E nem poderia ser diferente, uma vez que apenas o MM. Juiz das Execuções Criminais tem em mãos todo o histórico de condenações do apelante, aí incluídas todas as suas eventuais execuções, como também o seu histórico comportamental, na condição de detento, inclusive provisório, como destacado por sua Defensoria, decorrendo dessa análise a possibilidade, ou não, de ser a ele deferida eventual progressão de regime prisional, daí porque, observado o teor dos ditames dos arts. 110 a 112, da LEP, o aludido pleito há que ser direcionado ao juízo próprio, capacitado para exarar decisão sobre a matéria (fl. 1.163, grifei).
+Reafirmo, por oportuno, que tal matéria deveria haver sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal, soberana na análise de provas como referido alhures, um pronunciamento seguro sobre a questão, sendo, portanto, vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Deveras, não há necessidade de rescindir a condenação, pois as alterações trazidas pelo art. 387, § 2º, do CPP, "não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência" (AgRg no HC n. 778.674/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe de 2/12/2022).
+Ilustrativamente:
+ ..  3. Também em conformidade com a jurisprudência desta Corte Superior, "As alterações trazidas pelo diploma legal supramencionado não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência. Tratando-se de decreto condenatório já transitado em julgado, deve o Juízo das Execuções verificar a possibilidade de fixação de regime de cumprimento da pena em regime mais brando" (HC n. 381.997/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 5/4/2017).
+ ..
+(AgRg no HC n. 661.750/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe de 28/6/2021)
+Portanto, não há fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do acórdão embargado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
