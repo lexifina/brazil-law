@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE HENRIQUES DE OLIVEIRA E SILVA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução, mantendo o indeferimento do pedido de remição de penas por estudo à distância (e-STJ fls. 289/293)
+Nas razões do recurso especial (e-STJ fls. 298/309), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 126 da LEP. Sustenta que o certificado de conclusão de curso apresentado se presta para o fim de remição.
+Apresentadas contrarrazões (e-STJ fls. 314/318), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 321/322), tendo sido interposto o presente agravo (e-STJ fls. 323/332).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do agravo (e-STJ fls. 362/364).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Esta Corte tem entendido que a remição de pena em virtude de estudo à distância demanda, entre outros requisitos previstos na Lei de Execução Penal, na Recomendação n. 44/2013, do Conselho Nacional de Justiça, bem como na Resolução n. 391, de 2021: (a) comprovação de horas de estudo, que, dada a sistemática da Lei de Execução Penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais; e (b) demonstração da integração do curso à distância realizado ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional.
+Dessa forma, ainda que concluído o curso na modalidade à distância  ..  a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais (AgRg no HC n. 478.271/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2019).
+No presente caso, a Corte de origem concluiu (e-STJ fls. 292/293):
+No caso dos autos, o sentenciado juntou documentos que não preenchem os requisitos necessários à concessão do benefício, em especial ao citado no §2º do artigo 126 da LEP, já que as atividades por ele realizadas não foram certificadas pelas autoridades educacionais competentes do curso frequentado, tampouco autorizada ou conveniada com o Poder Público.
+De modo que o certificado de conclusão do curso apresentado não satisfaz as exigências legais. Além disso, os documentos apresentados sequer foram assinados pelo Diretor do Presídio, sem controle ou supervisão, portanto das autoridades competentes.
+De maneira que, os documentos juntados aos autos não são suficientes para comprovar que de fato, o sentenciado tenha cumprido as exigências do curso em questão para que ao final, a certificação possa ser utilizada para diminuir sua pena. Os requisitos legais não estão presentes, não podendo ser beneficiado o sentenciado.
+Não é viável, no caso presente, presumir que o sentenciado realmente estudou ou se simplesmente, se inscreveu em um curso cuja emissão de certificado não comprova seu esforço e dedicação
+Ora, a documentação apresentada pelo reeducando se mostrou insuficiente para atender aos referidos requisitos. Não se mostra plausível, portanto, nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal. A referida vedação encontra respaldo no enunciado n. 7 da Súmula do STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
