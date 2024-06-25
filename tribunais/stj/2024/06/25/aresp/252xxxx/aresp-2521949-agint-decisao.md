@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão de fls. 285-286 da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182/STJ.
+Inconformada, sustenta a parte agravante que o decisum merece reforma, pois o fundamento que ensejou a inadmissão do apelo nobre foi devidamente impugnado nas razões do anterior agravo. Suscita, ainda, questão de ordem relativa à necessidade de sobrestamento do feito, tendo em vista a afetação da matéria ao rito dos recursos repetitivos.
+Apesar de intimada, a parte agravada não apresentou contraminuta (fl. 303).
+O Ministério Público Federal opina pela devolução dos autos ao Tribunal de origem, em parecer assim ementado (fl. 315):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. PIS E COFINS. INCIDÊNCIA. RECEITAS DECORRENTES DA VENDA DE MERCADORIAS A PESSOAS FÍSICAS SITUADAS NA ZONA FRANCA DE MANAUS. TEMA AFETADO AO RITO DOS RECURSOS REPETITIVOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA (TEMA N. 1.239/STJ). Parecer pela devolução dos autos ao Tribunal de origem.
+É o relatório. Decido.
+Nos termos dos arts. 1.021, § 2º, 2.ª parte, do CPC e 259 do RISTJ, RECONSIDERO a decisão agravada (fls. 285-286), tornando-a sem efeito.
+A matéria ora deduzida diz respeito ao seguinte tema: incidência da contribuição ao Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS) sobre as receitas advindas de vendas de mercadorias de origem nacional, realizadas a pessoas físicas situadas na Zona Franca de Manaus, submetido ao regime dos recursos especiais repetitivos (ProAfR no REsp n. 2.093.050/AM e ProAfR no REsp n. 2.093.052/AM, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 27/2/2024, DJe de 12/3/2024), com determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito.
+Dessa forma, o presente feito deve aguardar na origem o julgamento dos representativos da controvérsia, para que, no Tribunal de origem, seja realizado o juízo de conformação (art. 1040 do CPC/2015).
+A esse respeito, destaco os seguintes julgados: EDcl no AgInt nos EDcl no AREsp n. 2.192.234/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/6/2024, DJe de 17/6/2024; EDcl no AgInt no AREsp n. 2.402.050/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024.
+Ante o exposto, RECONSIDERO a decisão de fls. 285-286, tornando-a sem efeito, e DETERMINO a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou a manutenção do acórdão vergastado frente ao que vier a ser decidido pelo Superior Tribunal de Justiça pelo rito dos recursos repetitivos.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. TEMA N. 1.239/STJ DO REGIME DOS RECURSOS REPETITIVOS. RECONSIDERAÇÃO DA DECISÃO AGRAVADA, TORNADA SEM EFEITO. DETERMINADA A DEVOLUÇÃO DOS AUTOS, COM A RESPECTIVA BAIXA, AO TRIBUNAL DE ORIGEM.
