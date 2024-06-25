@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado por Consórcio Transcarioca de Transportes desafiando decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial com base nos seguintes motivos: (I) não houve negativa de prestação jurisdicional; (II) "Estando o acórdão recorrido alinhado à jurisprudência do Superior Tribunal de Justiça, não se admite o recurso especial, tal como orienta a  sua  Súmula nº 83" (fl. 463); (III) incidência dos Verbetes 5 e 7/STJ (fls. 455/465 ).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo nem sequer ultrapassa a barreira do conhecimento. Isso porque a parte agravante não impugnou todos os motivos adotados pela Corte de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a apontada incidência da Súmula 5/STJ ao caso dos autos.
+Com efeito, observa-se que, nas razões do agravo em recurso especial, a parte agravante não logrou desenvolver argumentação apta a demonstrar o desacerto da decisão recorrida, limitando-se a argumentar que "em nenhum dos pontos do recurso especial há necessidade de exame do conjunto fático probatório, sobretudo no que diz respeito a questão relativa à legitimidade passiva do consórcio para responder pelos atos praticados pelas sociedades empresárias que a compõem" (fl. 492).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Nesse sentido, anote-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. PRECLUSÃO CONSUMATIVA. SEGUNDO AGRAVO INTERNO NÃO CONHECIDO. ANÁLISE APENAS DO PRIMEIRO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à ausência de afronta a dispositivo legal, Súmula 7/STJ (item 10.07 da lista de serviços da LC 116/03 e ao art. 166 do CTN), Súmula 5/STJ e Súmula 7/STJ (tipo se de serviços prestado). Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+3. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+4. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois não se admite fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+5. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+6. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.932.390/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+ANTE O EXPOSTO, não conheço do agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
