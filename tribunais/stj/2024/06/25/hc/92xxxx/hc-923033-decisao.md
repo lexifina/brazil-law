@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor KEVYN MORAES PINHEIRO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 0010792-91.2022.8.26.0050.
+Depreende-se dos autos que o paciente foi condenado absolvido em primeira instância pela prática do crime descrito no artigo 288, parágrafo único, do Código Penal, nos termos do artigo 386, inciso VII, do Código Penal (fls. 24-30).
+Inconformado, o Ministério Público interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, proveu o apelo ministerial para condenar o paciente às pensa de 1 ano e 6 meses de reclusão, em regime fechado, pela prática do crime descrito no artigo 288, parágrafo único, do Código Penal, consoante voto condutor do acórdão de fls. 7-23.
+Dai o presente writ, onde o impetrante aponta constrangimento ilegal na fixação do regime fechado parra início de cumprimento da pena.
+Para tanto, sustenta que " ..  a solução para a causa está plasmada na Súmula 440/STJ1,destacando-se, ainda, o conteúdo também aplicável das Súmulas 7182e 7193, ambas do STF, vez que o fundamento judicial usado para a fixação do regime fechado é manifestamente genérico" (fl. 5).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem readequar o regime prisional estabelecido, sem prejuízo da substituição da pena corporal por restritiva de direitos.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a fixação do regime diverso do fechado, sem prejuízo da substituição da pena corporal por restritiva de direitos.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Para melhor delimitar a controvérsia, destaco os seguintes excertos do acórdão impugnado, quanto ao tema (fls. 17-22, grifei):
+"Assim, demonstrada a materialidade e apurada a autoria do crime à exaustão, a condenação é a providência que se impõe, cabendo estipular as penas-base dos réus no patamar mínimo de um (1) ano de reclusão para cada um deles, impossibilitada solução mais severa ante o limite devolutivo do apelo da Justiça Pública.
+ ..
+Quanto a KEVYN e CARLOS HENRIQUE, compensa-se a agravante com a atenuante da menoridade relativa (nascidos em2.003 e 2.002, respectivamente fls. 314/315), permanecendo suas penas inalteradas nesta etapa.
+ ..
+Por fim, na terceira etapa da individualização, exasperam-se as reprimendas de metade (1/2) em razão da causa de aumento prevista no artigo 288, parágrafo único, do Código Penal(associação armada), tendo em vista o número de armas de fogo que SUEDNA guardava e entregava aos comparsas para a prática de inúmeros roubos, chegando-se ao patamar definitivo de um (1) ano e seis (6) meses de reclusão diante de KEVYN e CARLOS HENRIQUE, um (1) ano e nove (9) meses de reclusão para WALLACE e LUCAS e um (1) ano, nove (9) meses e dezoito (18) dias de reclusão no que tange a SUEDNA, à míngua de outras causas modificadoras.
+De resto, estipula-se o retiro pleno para início de cumprimento das corporais, única solução compatível com o quadro adverso antes reportado, especialmente as agravantes e a majorante reconhecidas a desnudar dolo exacerbado a obstaculizar tratamento carcerário menos severo (artigo 33, §§ 2º e 3º, do Código Penal)."
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal.
+Registre-se que, a teor da Súmula 440 do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+No mesmo sentido, as Súmulas 718 e 719 do STF estabelecem que o regime mais gravoso exige fundamento idôneo, não constituindo motivo idôneo a opinião do julgador acerca da gravidade abstrata do delito, in verbis:
+Súmula 718 do STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula 719 do STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Na hipótese, entendo que, no caso do ora paciente, é manifesta a ilegalidade na fixação do regime inicial fechado, razão pela qual o modo mais brando de resgate da pena deve ser estabelecido (aberto), tendo em vista a primariedade técnica e as circunstâncias judiciais favoráveis, nos termos do art. 33, § § 2º e 3º, do Código Penal.
+Por fim, a substituição da reprimenda privativa de liberdade por restritivas de direitos não se mostra, na hipótese dos autos, medida socialmente recomendável, nos termos do art. 44 do Código Penal.
+Ante o exposto, concedo parcialmente a ordem apenas para fixar o regime aberto para início de cumprimento da pena, mantidos os demais termos da condenação.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
