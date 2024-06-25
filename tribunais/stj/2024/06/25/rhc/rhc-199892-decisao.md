@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MATHAUS GABRYEL FERNANDES CAMARA DA SILVA contra decisão monocrática proferida pelo Desembargador relator do HC n. 0807163-29.2024.8.20.0000, impetrado originariamente perante o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+Consta dos autos que o recorrente foi inicialmente condenado pelo Juízo da 7ª Vara Criminal da Comarca de Natal, nos autos da ação penal n. 0802606-41.2023.8.20.5300, pela prática do crime de roubo majorado (art. 157, § 2º, inciso II e § 2º-A, inciso I, do Código Penal), à pena de 11 (onze) anos e 08 (oito) meses de reclusão, a ser iniciada em regime fechado, e ao pagamento de 38 (trinta e oito) dias-multa, conforme relatado à fl. 19.
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, para redimensionar a pena do recorrente para 07 (sete) anos e 09 (nove) meses e 10 (dez) dias de reclusão, a ser iniciada em regime fechado, e ao pagamento de 18 (dezoito) dias-multa, nos termos do acórdão de fls. 18-54, complementado pelo acórdão de fls. 55-69, com trânsito em julgado em 11/03/2024 (fl. 70).
+O paciente impetrou o HC n. 0807163-29.2024.8.20.0000 perante o Tribunal de Justiça, que não foi conhecido por força de decisão monocrática do Desembargador relator (fls. 75-77).
+A defesa interpôs o presente recurso ordinário (fls. 79-87), pugnando pelo seu conhecimento e provimento de modo a reformar a decisão monocrática (fls. 75-77) e estabelecer o regime inicial semiaberto.
+Defende que foi estabelecido regime inicial prisional mais gravoso, despido de fundamentação idônea, em contrariedade ao entendimento consubstanciado pelas súmulas 718 e 719 do Supremo Tribunal Federal e súmula 440 do Superior Tribunal de Justiça.
+É o relatório. DECIDO.
+No caso, inviável o conhecimento do presente recurso ordinário em habeas corpus, uma vez que se insurge contra decisão monocrática, proferida por Desembargador do Tribunal de Justiça do Estado do Rio Grande do Norte.
+Verifico que não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Com efeito, segundo disposição do artigo 105, inciso II, "a", da Constituição Federal, o Superior Tribunal de Justiça é competente para julgar os recursos ordinários nos habeas corpus denegados em única ou última instância pelos Tribunais sujeitos à sua jurisdição.
+Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, inciso II, "a", da Constituição Federal, para julgar recurso ordinário em habeas corpus, ou habeas corpus substitutivo de recurso ordinário, interposto, ou impetrado, contra decisão monocrática .
+Nesse sentido: AgRg no RHC n. 167.429/RJ, relator Ministro JORGE MUSSI, Quinta Turma, DJ-e de 16/9/2022; RHC n. 95.852/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado DJ-e de 19/4/2018 e RHC n. 175.807/GO, Ministro OG FERNANDES, DJ-e de 30/01/2023.
+Ante o exposto, não conheço do recurso ordinário, nos termos dos artigos 210 e 246, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
