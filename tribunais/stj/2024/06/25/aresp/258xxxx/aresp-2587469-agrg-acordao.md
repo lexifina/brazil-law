@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENT AL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar causa específica de não conhecimento do agravo em recurso especial - ausência de dialeticidade recursal -, motivo pelo qual este regimental também não pode ser conhecido, segundo o entendimento enunciado na Súmula n. 182 do STJ.
+2. Na hipótese, como mencionado, o agravo em recurso especial não foi conhecido em virtude da ausência de dialeticidade. Neste regimental, a defesa deveria demonstrar o porquê de as razões oferecidas na decisão ora agravada não terem o condão de afastar as teses de violação dos dispositivos de lei federal aludidos. Todavia, a parte nada mencionou sobre os referidos motivos e limitou-se a repisar os argumentos anteriormente esposados. Ao proceder dessa forma, é inegável que a defesa, novamente, não se desincumbiu do ônus de expor, integral, específica e detalhadamente, as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+EDERSON FERNANDO VALENTE, FABIO JUNIUOR DA SILVA e CLOVIS JOSE CZERNIASKI interpõeM agravo regimental contra a decisão de fls. 692-693, que conheceu do agravo em recurso especial, para negar provimento ao recurso especial.
+A defesa reitera as teses formuladas no recurso especial.
+Pleiteia a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENT AL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar causa específica de não conhecimento do agravo em recurso especial - ausência de dialeticidade recursal -, motivo pelo qual este regimental também não pode ser conhecido, segundo o entendimento enunciado na Súmula n. 182 do STJ.
+2. Na hipótese, como mencionado, o agravo em recurso especial não foi conhecido em virtude da ausência de dialeticidade. Neste regimental, a defesa deveria demonstrar o porquê de as razões oferecidas na decisão ora agravada não terem o condão de afastar as teses de violação dos dispositivos de lei federal aludidos. Todavia, a parte nada mencionou sobre os referidos motivos e limitou-se a repisar os argumentos anteriormente esposados. Ao proceder dessa forma, é inegável que a defesa, novamente, não se desincumbiu do ônus de expor, integral, específica e detalhadamente, as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo regimental não comporta conhecimento, uma vez que não infirmou as motivações lançadas na decisão agravada.
+A decisão agravada conheceu do agravo em recurso especial para negar provimento ao especial nos seguintes termos:
+ ..
+No que tange às teses de violação dos arts. 155 e 386, VII, do CPP, observo que a condenação está lastreada em imagens das câmeras de segurança do posto de gasolina em que foi feita a apreensão, visto que a sentença consignou que "consta do Boletim de Ocorrência nº 2020/1222034 da Polícia Militar do Estado do Paraná, no qual FÁBIO JÚNIOR DA SILVA apôs sua assinatura, que, "Em contato com o gerente do posto de combustível e solicitado acesso às câmeras de vídeo monitoramento, foi verificado nas filmagens que FABIO JUNIOR DA SILVA chega ao local conduzindo o veículo VW/GOL e então se junta com os demais abordados" (fl. 387).
+Tal elemento revela a adequação do acórdão de origem com o art. 155 do CPP - ante a irrepetibilidade da prova - a atrair a Súmula n. 83 do STJ, bem como como evidencia a necessidade de reexame de provas para infirmar as conclusões da Corte Federal, de modo a incidir a Súmula n. 7 do STJ.
+Quanto à tese de violação do art. 92, III, do CP, observo que as instâncias ordinárias "justifica ram  a necessidade de aplicação, pelo fato de os acusados fazerem uso de veículo para o transporte de mercadorias descaminhadas,  bem como  não ha ver  prova nos autos de que eles exerçam atividade laboral de motorista ou que a imposição desse efeito da condenação possa inviabilizar o exercício de suas atividades profissionais, prejudicando seus sustentos próprios ou de seus familiares" (fl. 391), evidenciando, assim, a incidência da Súmula n. 83 do STJ. (fl. )
+Saliento que o AREsp tem como objetivo atacar os óbices apontados pela Corte de origem ao negar seguimento ao REsp. No agravo regimental no AREsp, por sua vez, a parte deve refutar as razões de decidir do agravo em recurso especial.
+Na hipótese, como mencionado, o agravo em recurso especial não foi conhecido em virtude da ausência de dialeticidade. Neste regimental, a defesa deveria demonstrar o porquê de as razões oferecidas na decisão ora agravada não terem o condão de afastar as teses de violação dos dispositivos de lei federal aludidos.
+Todavia, a parte nada mencionou sobre os referidos motivos e limitou-se a repisar os argumentos anteriormente esposados.
+Ao proceder dessa forma, é inegável que a defesa, novamente, não se desincumbiu do ônus de expor, integral, específica e detalhadamente, as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo regimental.
