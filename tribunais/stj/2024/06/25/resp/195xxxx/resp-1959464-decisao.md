@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra a decisão proferida pelo Tribunal de Justiça dessa mesma unidade federativa.
+Os recorridos foram condenados às penas de 9 (nove) anos e 2 (dois) meses de reclusão em regime fechado, além do pagamento de 21 (vinte e um) dias-multa, pela prática do crime previsto no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal (fls. 195-206).
+O Tribunal deu parcial provimento à apelação interposta pela defesa para, entre outras providências, afastar as causas de aumento de pena pelo emprego de arma de fogo e restrição à liberdade da vítima, redimensionando as penas dos recorridos para 5 (cinco) anos e 4 (quatro) meses de reclusão em regime semiaberto e 13 (treze) dias-multa (fls. 260-274).
+Inconformado, o Ministério Público interpõe recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 157, § 2º-A, inciso I, do Código Penal e aos arts. 155, 158, 167 e 564, inciso III, alínea "b", do Código de Processo Penal, e requerer, em síntese, o restabelecimento da majorante relacionada ao emprego de arma de fogo (fls. 292-316).
+Apresentadas as contrarrazões (fls. 322-1.869), o recurso especial foi admitido e encaminhado à esta Corte Superior para julgamento (fls. 1.871-1.875).
+O Ministério Público Federal opina pelo provimento do apelo nobre (fls. 1.892-1.900).
+É o relatório. DECIDO.
+A controvérsia consiste em revalorar as situações fáticas retratadas nas decisões proferidas pelas instâncias ordinárias, no que tange à incidência da causa de aumento de pena pelo emprego de arma de fogo prevista no artigo 157, § 2º-A, inciso I, do Código Penal.
+De início, destaco que "não há violação à Súmula 7 desta Corte quando a decisão se limita a revalorar juridicamente as situações fáticas constantes da sentença e do acórdão recorridos" (REsp n. 1.970.216/SP, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/8/2023).
+Segundo o recurso ministerial, o acórdão de apelação teria violado o art. 157, § 2º-A, inciso I, do Código Penal e os arts. 155, 158, 167 e 564, inciso III, alínea "b", do Código de Processo Penal, ao afastar a majorante pelo uso de arma de fogo, a despeito do teor dos depoimentos das vítimas e testemunhas colhidos em juízo.
+Com efeito, o Tribunal a quo concluiu que a não apreensão da arma e a ausência do exame pericial para constatar sua capacidade lesiva inviabilizaria a incidência da referida majorante, consoante fl. 272:
+"E, a despeito da narrativa da vítima acerca da abordagem dos apelantes com o emprego de arma de fogo, esta não foi apreendida, não sendo possível constatar a sua capacidade lesiva, o que leva a arredar a majorante.
+Portanto, presente o fato penal do roubo majorado pelo concurso de agentes, sendo mantida a condenação neste ponto, afastando-se o emprego da arma, e a privação de liberdade da vítima."
+Nada obstante, entendo que os depoimentos utilizados na sentença foram suficientes para demonstrar o uso de arma de fogo na prática criminosa.
+Veja-se (fls. 200-201, grifei ):
+"Os acusados, na posse de arma de fogo de forma ostensiva, renderam Gabriel, exigindo a entrega de bens.
+Gabriel buscou atender as exigências dos acusados e inibir que fossem para a casa de sua avó, que possui problemas no coração.
+Gabriel buscando proteger sua avó, conduziu os acusados para a sua casa, local em que informou possuir um celular, que seria entregue aos criminosos.
+No caminho passaram por local em que ficava o cachorro da família, tendo os acusados afirmado a Gabriel, que seria o mesmo morto, caso avançasse neles.
+Gabriel conduziu os acusados para sua casa e chegando no local, renderam sua mãe e a obrigaram a abrir a porta, mediante ameaça com arma de fogo.
+Liana vendo que seu filho estava sendo ameaçado com arma de fogo, bem como, suportava o mesmo tipo de ameaça, abriu a porta da casa e permitiu a entrada dos acusados em seu lar.
+No interior do imóvel os acusados reviraram a casa, buscando encontrar bens das vítimas.
+Durante todo o tempo da ação criminosa no interior do imóvel, que segundo declarado por Gabriel, teria durado cerca de 30 minutos, os acusados, grave ameaçaram as vítimas de forma reiterada.
+Durante a ação criminosa, Gabriel ainda suportou agressão física, que consistiu em chute em sua perna.
+Quem portou todo o tempo a arma de fogo de forma ostensiva foi Francisco.
+As vítimas do fato foram grave ameaçadas durante todo o tempo da ação criminosa e Gabriel suportou violência física.
+Houve grave ameaça e violência, estando assim presentes as duas elementares do crime de roubo.
+Houve união de esforços e divisão de tarefas entre os acusados, para o sucesso da ação criminosa.
+Os acusados tinham plena coincidência que seria utilizada arma de fogo."
+Saliento que a jurisprudência desta Corte admite a incidência da aludida causa de aumento de pena com base nos depoimentos colhidos durante a instrução criminal, tal qual ocorreu no caso sob exame, ainda que a arma utilizada no roubo não tenha sido apreendida ou periciada.
+A propósito:
+"(..) 4. Esta Corte Superior firmou o entendimento de que a incidência da majorante relativa ao emprego de arma de fogo prescinde de apreensão e perícia da arma, notadamente quando comprovada sua utilização por outros meios de prova, tais como a palavra da vítima ou mesmo de testemunhas. Nesse contexto, uma vez comprovado, por meio do depoimento das vítimas, a utilização de arma de fogo, a ausência de apreensão e posterior perícia do objeto não é capaz de afastar a incidência da causa de aumento de pena, prevista no inciso I do § 2º do art. 157 do Código Penal. Ademais, se o acusado sustentar a ausência de potencial lesivo da arma empregada para intimidar a vítima, será dele o ônus de produzir tal prova, nos termos do art. 156 do Código de Processo Penal (HC n. 96.099/RS, Pleno, Rel. Min. Ricardo Lewandowski, Dje de 05/06/2009)." (AgRg no HC n. 789.660/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/11/2023)
+"(..) 1. Segundo entendimento desta Corte, no crime de roubo, a apreensão e perícia da arma é desnecessária para o reconhecimento da majorante, se há outros elementos de prova que demonstrem o emprego do artefato, notadamente as declarações da vítima e da autoridade policial, aliadas à confissão do réu.
+2. Nos termos da jurisprudência desta Corte, a incidência da majorante do art. 157, §2-A, I, do CP prescinde da apreensão e perícia da arma, notadamente quando comprovada pela palavra da vítima, cabendo ao imputado demonstrar que o artefato é desprovido de potencialidade lesiva, nos termos do art. 156 do Código de Processo Penal (AgRg no AREsp n. 2.076.555/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/8/2022)." (AgRg no AREsp n. 2.055.425/DF, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 21/8/2023)
+Logo, o fundamento que justificou o decote da majorante está dissociado daquilo que consta expressamente da sentença, motivo pelo qual restabeleço a causa de aumento pelo emprego de arma de fogo para majorar as penas dos recorridos em 2/3 (dois terços), devendo cada um cumprir 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e 21 (vinte e um) dias-multa.
+O regime inicial para cumprimento das penas deverá retornar para o fechado, em razão do quantum fixado, da existência de circunstâncias judiciais desfavoráveis e, ainda, pelo delito ter sido praticado sob violência e grave ameaça, consoante artigo 33, § 2º, alínea "a", e § 3º, do Código Penal.
+Diante do exposto, e nos termos do art. 255, § 4º, inciso III, do RISTJ, dou provimento ao recurso especial para restabelecer a causa de aumento de pena prevista no art. 157, § 2º-A, inciso I, do Código Penal e redimensionar as penas dos recorridos nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. REVALORAÇÃO DAS CIRCUNSTÂNCIAS FÁTICAS CONSTANTES DA SENTENÇA E DO ACÓRDÃO. POSSIBILIDADE. CAUSA DE AUMENTO DE PENA PELO EMPREGO DE ARMA DE FOGO. PRESCINDIBILIDADE DE APREENSÃO E PERÍCIA DO ARMAMENTO. SUFICIÊNCIA DAS PROVAS PRODUZIDAS NOS AUTOS. PENAS REDIMENSIONADAS. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
