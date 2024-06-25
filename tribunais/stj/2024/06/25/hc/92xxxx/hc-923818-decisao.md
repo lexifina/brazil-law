@@ -1,0 +1,12 @@
+DECISÃO
+ANDRÉ ALVES DOS SANTOS, acusado por homicídio qualificado tentado e organização criminosa, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, que deengou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado liminarmente nesta oportunidade.
+O caso permite o julgamento antecipado do hebas corpus, visto que se adequa a pacífica jurisprudência desta Corte em casos similares.
+De fato, em que pesem os argumentos expostos pela defesa, observo que a decisão constritiva logrou demonstrar a gravidade concreta dos fatos que são imputados ao paciente, revelada pelo modus operandi, pela reiteração delitiva e pelo fato de supostamente integrar organização criminosa GDE.
+Com efeito, consta do acórdão impugnado que "a medida extrema encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão do modus operandi empregado peloacusado, uma vez o mesmo é suspeito de integrar facção criminosa responsável pela tentativade homicídio contra a vítima, circunstâncias que demonstram a gravidade do delito e periculosidade do paciente" (fls. 30-31).
+Some-se o fato destacado pelo Magistrado de primeiro grau que " h á informes nos autos de que os denunciados já possuem outras passagens policiais e procedimentos criminais, bem como de que seriam supostamente integrantes de facção criminosa", situação que denota a real probabilidade de reiteração delitiva.
+Na esteira do entendimento desta Corte, "justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes" (AgRg no RHC n. 124627/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 8/6/2020).
+E ainda: "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/6/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público.
+Publique-se e intimem-se.
+EMENTA
