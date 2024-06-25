@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Ipojuca contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça de Pernambuco, assim ementado (fls. 180/181):
+EMENTA: DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PRELIMINARES DE PRESCRIÇÃO E INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. REJEITADAS. MÉRITO. CONCURSO PÚBLICO. GUARDA MUNICIPAL. MUNICÍPIO DE IPOJUCA. CANDIDATO APROVADO EM TODAS AS FASES DO CERTAME. CUMPRIMENTO DOS REQUISITOS DE INVESTIDURA NO CARGO PÚBLICO. DIREITO SUBJETIVO À NOMEAÇÃO. APELO NÃO PROVIDO.
+1. Rejeitadas as preliminares de prescrição do direito e incompetência da Justiça Estadual.
+2. No mérito, o cerne da questão cinge-se a examinar se o candidato que foi aprovado em concurso público dentro das vagas previstas no edital, tem ou não direito subjetivo à nomeação.
+3. Depreende-se dos autos que o demandante se submeteu ao concurso público para o cargo de Guarda Municipal de 3ª Classe da Prefeitura Municipal de Ipojuca/PE, no ano de 2008, que tinha o objetivo de preenchimento de 439 (quatrocentos e trinta e nove vagas), tendo logrado êxito na "avaliação objetiva". Em seguida, submeteu-se à "avaliação de capacidade física", sendo classificado dentro das vagas dispostas no edital.
+4. O autor atingiu 72,00 pontos na prova objetiva, alcançando a 203ª posição na classificação da prova objetiva; foi convocado para o exame de aptidão física e considerado apto. Entendendo a instituição organizadora do certame que o demandante "não compareceu aos exames médicos no horário estabelecido para tal fim", foi eliminado. Não obstante, o autor obteve decisão judicial favorável, transitada em julgado, para prosseguir no certame. Ao ser reconvocado para o exame médico e convocado para o exame psicológico, foi considerado apto em todas as etapas, tendo a instituição organizadora do certame simulado que a posição do autor ao final seria a 124ª posição, o que lhe garantiria aprovação dentro do número de vagas.
+5. Além do mais, afirma o demandante que outras pessoas que tiveram colocação depois do mesmo já foram chamadas para o curso de formação, foram nomeadas e já tomaram posse conforme documento anexo, qual seja: resultado final do concurso de Guarda Municipal do Município de Ipojuca.
+6. No presente caso, no que diz respeito à necessidade da administração municipal no preenchimento da vaga, restou devidamente comprovada, pelos documentos acostados e pelas as argumentações trazidas. A propósito, consta o cumprimento da decisão judicial, com a juntada do Termo de Posse e Compromisso (ID 11586502).
+7. Apelação não provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 201/206).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1º do Decreto nº 20.910/32. Sustenta, em síntese, a ocorrência de prescrição, sob a alegação de que "no caso em comento, os fatos que dariam ensejo ao pleito referente à matrícula no Curso de Formação de Guardas Municipais do Ipojuca remontam aos idos do ano de 2010, sendo patente, portanto, o decurso do prazo prescricional previsto naquela norma legal. Sendo assim, restou-se provada a violação do Acórdão vergastado ao art. 1º, do Decreto-Lei nº 20.910/1932, motivo pelo qual o provimento deste Recurso Especial se faz necessário." (fls. 219/220).
+Contrarrazões às fls. 227/231.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Com efeito, colhe-se do acórdão o seguinte trecho, verbis (fls. 175/176 g.n ):
+Logo de início, examino as prejudiciais de mérito, referentes às apontadas: prescrição do direito e incompetência da Justiça Estadual para o julgamento da lide.
+Filio-me ao perfeito entendimento douta Procuradoria de Justiça (ID 13837405) para, assim, enfrentar as preliminares referidas:
+Cumpre inicialmente apreciar a matéria preliminar arguida pela parte apelante.
+Entende o Município recorrente que a pretensão autoral foi fulminada pela prescrição, tendo em vista que os fatos que teriam dado ensejo ao pedido de matrícula no Curso de Formação da Guardas Municipais de Ipojuca remontam ao ano de 2010.
+Ocorre, todavia, que, ao contrário do que sugere a municipalidade, o candidato autor não se manteve inerte ao longo de todos esses anos. Inconformado com sua desclassificação, o postulante ao cargo ingressou com uma ação perante a Justiça Federal e obteve pronunciamento judicial favorável, reconhecendo o seu direito a seguir nas etapas subsequentes do certame.
+Após aprovação em todas as fases seguintes, o autor foi surpreendido com a notícia de que não poderia ingressar no Curso de Formação, tendo em vista que o pedido expresso não teria sido feito na ação de origem.
+É evidente, contudo, que a decisão que concedeu o direito ao autor de continuar participando do concurso, conferiu ao candidato efetiva possibilidade de lograr a nomeação e posse cargo, caso aprovado em todas as etapas, sob pena de se relegar à franca inutilidade e inefetividade o provimento jurisdicional obtido.
+Ora, se a participação no curso de formação é decorrência lógica da aprovação do candidato nas etapas anteriores, cuja admissão foi legitimamente garantida por meio de decisão judicial transitada em julgado, não há dúvidas de que o fato que ensejou a propositura da presente ação não remonta ao ano de 2010 e sim ao ano de 2017, quando foi proferida a decisão administrativa que indeferiu o pedido do autor de participar do Curso de Formação da Guarda Municipal de Ipojuca (11586483, p. 13).
+Assim, é evidente que a pretensão autoral não foi fulminada pela prescrição, devendo ser rechaçada a preliminar arguida.
+Com efeito, alinhado ao ditoso entendimento Ministerial, rejeito as preliminares arguidas.
+Por ocasião do julgamento dos embargos de declaração, foi acrescido à fundamentação (fl. 204):
+In casu, não há o que se falar em prazo prescricional do certame. A decisão judicial foi cumprida e o Demandante já foi empossado, desde 14/01/2019, conforme documento de ID 11586502. Fato constante no acórdão embargado.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, no sentido de que não houve a prescrição tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
+EMENTA
