@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial interposto por Belmmen Group Participações Ltda., com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fls. 188-189):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. DEMANDA PROPOSTA CONTRA A CONSTRUTORA, NA CONDIÇÃO DE PROMITENTE VENDEDORA (PERMUTANTE) E PROPRIETÁRIA REGISTRAL DO BEM, E AS PROMITENTES ADQUIRENTES E POSSUIDORAS. SENTENÇA QUE CONDENOU AMBOS OS RÉUS AO PAGAMENTO DA DÍVIDA EXIGIDA. RECURSO DA CONSTRUTORA. INSISTÊNCIA NA TESE DE ILEGITIMIDADE PASSIVA AD CAUSAM. ALEGADA INOBSERVÂNCIA A ENTENDIMENTO FIXADO PELO SUPERIOR TRIBUNAL DEJUSTIÇA EM JULGAMENTO DE RECURSO REPETITIVO. TEMA Nº 886. ARGUMENTAÇÃO RECHAÇADA. INTERPRETAÇÃO CONFERIDA PELO STJ À TESE FIRMADA, NO SENTIDO DA LEGITIMIDADE PASSIVA CONCORRENTE DO PROMITENTE VENDEDOR E DO PROMITENTE COMPRADOR PARA A AÇÃO DE COBRANÇA DE DÉBITOS CONDOMINIAIS, MESMO QUE SEJAM POSTERIORES À IMISSÃO DO COMPRADOR NA POSSE DO BEM. MANUTENÇÃO DA CONDENAÇÃO DA APELANTE AO PAGAMENTO DAS COTAS CONDOMINIAIS EM ATRASO. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do apelo especial, a recorrente apontou divergência jurisprudencial e afronta aos arts. 489, §1º, IV e VI, 927, III, e 1.022, II, CPC.
+Sustentou, além da negativa de prestação jurisdicional, que a cobrança do débito condominial deve ser dirigida exclusivamente à ré Carmem de Souza Damiani, uma vez que o imóvel foi a ela alienado mediante contrato de permuta.
+Aduziu, ainda, que a decisão deixou de aplicar o entendimento firmado pelo Superior Tribunal de Justiça em julgamento de recurso repetitivo (tema 886), sem, todavia, demonstrar a existência de distinção entre o precedente e o caso em exame.
+Contrarrazões às fls. 921-928 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente, sobretudo quanto à legitimidade passiva da ora insurgente para responder pelo pagamento das obrigações condominiais.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido. (AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023)
+Quanto à questão de fundo, a Corte local, diante das peculiaridades do caso concreto e consignando o entendimento firmado nesta Corte Superior, reconheceu a legitimidade passiva concorrente da ora recorrente (promitente vendedora e proprietária do imóvel) para o pagamento das obrigações condominiais em atraso (período de setembro de 2004 até outubro de 2009), referentes à unidade n. 1407 do Edifício Merit Plaza Residence.
+No ponto, a respeito da alegada ofensa ao art. 927, III, do CPC/2015, cumpre ressaltar que "o referido dispositivo legal não possui o alcance normativo pretendido, porque não prevê a procedência automática da pretensão autoral devido ao suposto afastamento da tese repetitiva no caso concreto; em verdade, trata-se de um comando para o julgador, que, por si só, não assegura o direito material vindicado pela parte; aplicável, desse modo, a Súmula n. 284/STF" (AgInt no AREsp n. 1.997.393/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 19.5.2022).
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. ATRASO NA ENTREGA DA OBRA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. ART. 927, III, DO CPC/2015. FALTA DE ALCANCE NORMATIVO.
+SÚMULA N. 284/STF..
+(..)
+2. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que aduz contrariedade a dispositivos legais cujo conteúdo jurídico não possui alcance normativo para amparar a tese defendida no recurso especial.
+(..)
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.997.393/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 19.5.2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DÉBITOS CONDOMINIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC/2015. FALTA DE ALCANCE NORMATIVO. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
