@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ARGELON PEREIRA LIMA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do HC n. 17676-51.2024.8.09.0051.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 11/1/2024, pela suposta prática dos crimes de ameaça, resistência e desacato (arts. 147, 329 e 331 do Código Penal - CP).
+Na audiência de custódia realizada em mesma data, o juízo de origem homologou o flagrante e concedeu liberdade provisória ao ora recorrente, com imposição de medidas cautelares diversas, inclusive monitoramento eletrônico.
+Irresignada, a Defensoria Pública impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 183):
+"HABEAS CORPUS. AMEAÇA, RESISTÊNCIA E DESACATO. PRISÃO PREVENTIVA CONVERTIDA. MONITORAÇÃO ELETRÔNICA. PROIBIÇÃO DE MANTER CONTATO E APROXIMAÇÃO. MANUTENÇÃO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. 1. É da própria redação do artigo 282 do Código de Processo Penal que se extrai que as medidas cautelares dependem, para serem aplicadas, da presença do fumus comissi delicti e do periculum libertatis, visto que a adoção de qualquer medida cautelar de natureza pessoal acarreta inegável restrição à liberdade, direito sabidamente protegido constitucionalmente. 2. A fim de superar o que a doutrina denominava de bipolaridde cautelar do sistema brasileiro, é que a Lei 12.403/2011 ampliou de maneira significativa o rol de medidas cautelares pessoais diversas da prisão cautelar, proporcionando ao juiz a escolha da providência mais ajustada ao caso concreto, dentro dos critérios de legalidade e proporcionalidade. 3. In casu, se é certo que o afastamento das medidas cautelares determinado na origem enseja  ainda que indiretamente  na obrigação do paciente de mudar de residência e buscar outro local para residir com seu filho de sete anos de idade, pondera-se aqui, a proteção do bem jurídico mais valioso: a vida da suposta vítima. 4. Logo, diante das circunstâncias do caso, e por não se vislumbrar o alcance dos resultados acautelatórios almejados  no caso, assegurar a incolumidade física da vítima  por vias menos gravosas ao paciente, é que entendo que as medidas cautelares impostas pelo magistrado merecem ser mantidas. ORDEM CONHECIDA E DENEGADA. "
+Nas razões do presente recurso, sustenta a ilegalidade da imposição do monitoramento eletrônico, tendo em vista que a sua aplicação se restringe à prática de crimes dolosos, com pena privativa de liberdade máxima superior a 4 anos - pressuposto que não se coaduna com o caso em exame.
+Acrescenta que o paciente é primário e não cumpre medidas protetivas relacionadas a delitos praticado em contexto familiar, o que também legitimaria a incidência da cautelar alternativa.
+Insurge-se, ainda, contra a determinação de afastamento do paciente de sua própria residência, sob o argumento de que inexiste previsão legal para tanto, bem como por ser genitor de uma criança de 7 anos de idade, que depende exclusivamente de seus cuidados.
+Requer, em liminar e no mérito, o provimento do recurso para que sejam revogadas as medidas cautelares relativas ao monitoramento eletrônico e afastamento do lar.
+A liminar foi indeferida às fls. 221/223. Informações prestadas às fls. 230/233 e 234/241. O Ministério Público Federal opinou pelo desprovimento do recurso às fls. 255/263.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, das informações obtidas na página eletrônica do Tribunal de origem, constata-se que, em 19/6/2024, foi homologado acordo de não persecução penal e revogadas as medidas cautelares diversas da prisão fixadas na audiência de custódia.
+Assim, não há como negar a perda superveniente do objeto deste recurso, tendo em vista ter cessado as circunstâncias determinantes da irresignação.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se .
+EMENTA
