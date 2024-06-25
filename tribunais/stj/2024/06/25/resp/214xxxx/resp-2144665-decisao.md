@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO TOCANTINS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça daquela Unidade Federa tiva na Apelação n. 0001319-34.2023.8.27.2729.
+Consta dos autos que o Juízo de primeiro grau julgou procedente a pretensão inicial, para condenar o ora recorrente ao pagamento de indenização por danos morais no montante de R$ 40.000,00 (quarenta mil reais) em favor da requerente (fls. 149-158).
+O Tribunal a quo negou provimento à apelação interposta (fls. 214-215).
+Sustenta a parte recorrente, nas razões do apelo nobre, contrariedade ao art. 944, do Código Civil, argumentando que:
+ a  condenação por dano moral no valor R$ 40.000,00 (quarenta mil reais) não observa o princípio da razoabilidade e da proporcionalidade, ensejando em uma indenização muito vultosa, que penaliza o erário. A indenização não pode servir para causar enriquecimento ilícito de quem a requer e o empobrecimento sem causa do Estado, pois em última análise a sociedade como um todo é prejudicada (fl. 235).
+Foram apresentadas contrarrazões (fls. 243-251). O recurso especial foi admitido (fls. 271-273).
+Opina o M inistério Público Federal pelo não conhecimento do recurso especial (fls. 208-287).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+No que concerne ao quantum fixado a título de danos morais, o Tribunal de origem assim se pronunciou (fls. 207-208):
+A fixação da verba indenizatória por danos morais deve considerar o caráter reparador, punitivo e pedagógico da responsabilidade civil, a gravidade e extensão do dano, a culpabilidade do agente, a condição financeira das partes envolvidas, o valor do negócio e as peculiaridades do caso concreto, sempre tomando cuidado para que o valor final não caracterize enriquecimento ilícito.
+Considerando, pois, as circunstâncias do caso, a gravidade do dano e os demais elementos próprios do caso concreto, entendo que o montante da indenização deve ser mantido em R$ 40.000,00 (cem mil reais), valor, a meu ver, justo para reparar os danos morais, bem como para punir o ofensor, sem que incorra em enriquecimento ilícito.
+Cumpre destacar que o Superior Tribunal de Justiça tem fixado a título de indenização por danos morais decorrentes de falecimento de filho o valor aproximado de 500 salários mínimos, o que reforça a razoabilidade no valor dos danos morais fixados. Veja-se:
+ ..
+Com efeito, não há que se falar em redução, como requer o apelante, sobretudo por estar abaixo dos parâmetros desta Corte e do Superior Tribunal de Justiça em casos análogos, não havendo que se falar em majoração para não configurar reformatio in pejus, haja vista que apenas o estado requerido recorreu.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a revisão do valor arbitrado a título de danos morais só pode ocorrer em hipóteses excepcionais, quando demonstrada a manifesta desproporcionalidade, o que não se verifica na hipótese em exame, porquanto o Tribunal a quo, ante o quadro fático que deflui dos autos, manteve o quantum indenizatório fixado pela sentença, definido no valor de R$ 40.000,00 (quarenta mil reais), observando os princípios da proporcionalidade e da razoabilidade, não se mostrando ele irrisório ou exacerbado.
+Nesse contexto, a revisão desse entendimento e a análise do pleito recursal demandaria novo exame do espectro fático-probatório dos autos, o que não se admite a teor da Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DA INDENIZAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação indenizatória proposta em face do Município de Sumaré, decorrente de falha no atendimento médico em unidade de pronto atendimento municipal.
+2. O Tribunal local concluiu que o valor indenizatório fixado atendeu os princípios da razoabilidade, proporcionalidade e vedação ao enriquecimento ilícito, com base no conjunto fático probatório dos autos nas particularidades do caso concreto. Com efeito, a revisão de tais fundamentos demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial em razão da Súmula 7/STJ.
+3. O Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+4. Agravo interno não provido. (AgInt no REsp n. 2.099.575/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, DJe de 7/3/2024; sem grifos no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DANO MORAL. REVISÃO DO VALOR ARBITRADO. IMPOSSIBILIDADE. SÚMULA 07/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte admite a revisão do quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisório ou exorbitante o valor arbitrado.
+III - Caso em que o tribunal de origem considerou razoável e proporcional o valor fixado. O reexame de tal entendimento demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+IV - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido. (AgInt no AREsp n. 2.373.863/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023; sem grifos no original.)
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICO. ACIDENTE DE TRÂNSITO. ACIDENTE DE TRÂNSITO - COLISÃO OCORRIDA EM RODOVIA ADMINISTRADA PELA CONCESSIONÁRIA RÉ, ENTRE MOTOCICLETA CONDUZIDA PELO AUTOR E VEÍCULO DE EMPRESA CONTRATADA PELA PRESTADORA DE SERVIÇO PÚBLICO PARA REALIZAR LIMPEZA/MANUTENÇÃO NA PIS TA DE ROLAMENTO. VALOR DOS DANOS MORAIS, MATERIAIS E ESTÉTICOS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de Ação Ordinária de Indenização por Danos Morais, Materiais e Estético. A sentença julgou parcialmente procedente o pedido O tribunal a quo manteve a sentença.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido. (AgInt no AREsp n. 2.358.837/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REVISÃO DO MONTANTE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
