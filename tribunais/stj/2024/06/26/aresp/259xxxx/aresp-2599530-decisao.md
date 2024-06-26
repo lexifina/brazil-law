@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por CESAR CRISTIANO ROUTH SCARASSATTI contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos condenação do agravante à pena de 5 anos, 5 meses e 10 dias de reclusão, em regime fechado, pela prática do crime de roubo simples, édito mantido íntegro pelo Tribunal de origem que negou provimento ao apelo defensivo.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação ao art. 65 do CP, diante da não compensação da confissão com a reincidência específica, embora o recorrente tenha confessado o delito, de modo que pugna pelo provimento para que seja feita a compensação da referida atenuante com a reincidência.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se ao reconhecimento da confissão e a sua compensação com a reincidência.
+Acerca da temática recursal, o Tribunal de origem assim dispôs:
+"Em segunda fase de individualização, não era mesmo caso de se reconhecer a versão ofertada pelo apelante em que descreve dinâmica delitiva desconectada com a realidade fática , como atenuante, evidenciado o intuito de minimizar significativamente sua conduta, não demonstrando, minimamente, sincero arrependimento.
+Nesse sentido, bem se ponderou no parecer da d.
+Procuradoria Geral de Justiça:
+"Incogitável o reconhecimento da atenuante confissão espontânea; não confessou a imputação como descrita na denúncia, já que alegou não ter se apossado de dinheiro do comércio; caso fosse reputada fidedigna essa falaciosa versão, sua pena seria reduzida; verificou-se, pois, a denominada "confissão qualificada", que não se referia exatamente ao que constava na denúncia, e, em última análise, não contemplava o reconhecimento dessa benesse" (fl. 286).
+De outra parte, a reincidência específica foi bem reconhecida (Processo nº 0005587-62.2010 fls. 146/152), a justificar o acréscimo adotado, na fração de 1/6.
+Não se há falar em bis in idem com esteio nas operações que consideraram os maus antecedentes e a reincidência do réu, pois situações diversas as que as respaldam, nos termos insculpidos nos artigos 59 e 61, ambos do Código Penal" f(fls. 297-298).
+A sentença, quanto ao tópico, assim dispôs:
+"Com efeito, a confissão só pode ser reconhecida como atenuante obrigatória quando se dá de forma completa, pois, em hipótese contrária, inexiste verdade total da dinâmica da ocorrência penal (cf. RJDTRACRIM 31/84).
+O réu pretendeu atenuar sua responsabilidade penal, alegando que o roubo foi apenas tentado.
+Logo, considero que o réu não faz jus à pretendida redução de pena, prevista no artigo 65, inciso III, "d", do Código Penal, que deve ser resguardada àqueles que efetivamente contribuem para a elucidação dos fatos" (fl. 220).
+Consoante se denota, o Tribunal de origem manteve a sentença que não aplicou a confissão, muito embora tenha reconhecido a atenuante.
+Inicialmente, quanto ao tema, cumpre observar que,  recentemente,  no  julgamento  do  REsp  n.  1.972.098/SC,  a  interpretação  de  vários  precedentes  relacionados  à  Súmula  545/STJ  foi  revista  pela  Quinta  Turma  desta  Corte  Superior  de  Justiça,  no  sentido  de  adequar  as  possibilidades  de  incidência  da  atenuante  prevista  no  art.  65,  III,  d,  do  CP.
+Com  efeito,  diante  do  voto  do  Exmo.  Ministro  Ribeiro  Dantas  no  referido  julgado,  esta  Quinta  Turma  passou  a  acatar  que  a  confissão  do  acusado,  seja  ela  parcial,  qualificada,  extrajudicial  ou  retratada  -  ainda  que  não  tenha  sido  expressamente  adotada  na  formação  do  convencimento  do  Juízo  como  um  dos  fundamentos  da  condenação  -,  não  lhe  retira  o  direito  ao  reconhecimento  da  atenuante,  tendo  em  vista  que  esse  requisito  não  está  previsto  no  art.  65,  III,  d,  do  CP.
+A propósito:
+"PENAL  E  PROCESSUAL  PENAL.  RECURSO  ESPECIAL.  ROUBO.  INTERPRETAÇÃO  DA  SÚMULA  545/STJ.  PRETENDIDO  AFASTAMENTO  DA  ATENUANTE  DA  CONFISSÃO,  QUANDO  NÃO  UTILIZADA  PARA  FUNDAMENTAR  A  SENTENÇA  CONDENATÓRIA.  DESCABIMENTO.  AUSÊNCIA  DE  PREVISÃO  LEGAL.  PRINCÍPIOS  DA  LEGALIDADE,  ISONOMIA  E  INDIVIDUALIZAÇÃO  DA  PENA.  INTERPRETAÇÃO  DO  ART.  65,  III,  "D",  DO  CP.  PROTEÇÃO  DA  CONFIANÇA  (VERTRAUENSSCHUTZ)  QUE  O  RÉU,  DE  BOA-FÉ,  DEPOSITA  NO  SISTEMA  JURÍDICO  AO  OPTAR  PELA  CONFISSÃO.  PROPOSTA  DE  ALTERAÇÃO  DA  JURISPRUDÊNCIA.  RECURSO  ESPECIAL  DESPROVIDO.
+ ..
+10.  Por  tudo  isso,  o  réu  fará  jus  à  atenuante  do  art.  65,  III,  "d",  do  CP  quando  houver  confessado  a  autoria  do  crime  perante  a  autoridade,  independentemente  de  a  confissão  ser  utilizada  pelo  juiz  como  um  dos  fundamentos  da  sentença  condenatória.
+11.  Recurso  especial  desprovido,  com  a  adoção  da  seguinte  tese:  "o  réu  fará  jus  à  atenuante  do  art.  65,  III,  "d",  do  CP  quando  houver  admitido  a  autoria  do  crime  perante  a  autoridade,  independentemente  de  a  confissão  ser  utilizada  pelo  juiz  como  um  dos  fundamentos  da  sentença  condenatória,  e  mesmo  que  seja  ela  parcial,  qualificada,  extrajudicial  ou  retratada"  (REsp  n.  1.972.098/SC,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de  20/6/2022  )
+Ademais, a jurisprudência dessa Corte pacificou o entendimento no sentido de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência, porquanto igualmente preponderantes, nos termos do artigo 67 do Código Penal. Insta apontar, a propósito, acórdão oriundo da Terceira Seção que, em sede de recurso especial representativo da controvérsia, sedimentou a tese ora referida:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido" (REsp n. 1.341.370/MT, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013).
+Outrossim, no julgamento do REsp n. 1.931.145/SP, de relatoria do em. Ministro Sebastião Reis Júnior, a Terceira Seção deste Superior Tribunal de Justiça uniformizou o entendimento das Turmas para readequação da Tese n. 585/STJ, nos seguintes termos: "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não".
+Tal realidade, portanto, faz incidir, à hipótese, a Súmula n.º 568 desta Corte de Justiça, no sentido de que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante a respeito do tema."
+  Assim,  deve  a  respectiva  circunstância  legal  ser  apreciada  como  atenuante  na  segunda  fase  da  dosimetria  da  pena,  de  modo  que  o  acórdão  se  encontra  em  desacordo  com  a  jurisprudência  desta  Corte  Superior.
+Passo, portanto, à nova dosimetria da pena, consoante a fundamentação supra e as referências da sentença condenatória, às fls. 219-220:
+Na primeira fase, a pena foi fixada em 4 anos e 8 meses de reclusão;
+Na segunda fase, reconheço a atenuante no patamar de 1/12. Nesse ponto, destaco que é lícita a aplicação de fração inferior a 1/6 (um sexto) em virtude da natureza qualificada da confissão.
+Veja-se: "(..) Tendo a confissão apresentada sido qualificada, justificada a redução da pena em fração inferior a 1/6. Precedentes." (AgRg nos EDcl no REsp n. 2.096.029/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/11/2023).
+Assim, considerada a reincidência aplicada em 1/6, procedo à parcial compensação fixando a pena provisoriamente em 4 anos, 11 meses e 27 dias.
+Na terceira etapa, resta definitiva em 4 anos, 11 meses e 27 dias, ante a ausência de causas de aumento ou de diminuição de pena.
+Ante o exposto, com fulcro no art. 253, parágrafo único, incisos I e II, c, do Regimento Interno do STJ, conheço do agravo para dar provimento ao recurso especial a fim de aplicar a confissão e compensá-la com a reincidência, fixando a pena em 4 anos, 11 meses e 27 dias de reclusão, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO SIMPLES.  DOSIMETRIA  DA  PENA.  CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. COMPENSAÇÃO PARCIAL DA AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA COM A ATENUANTE DE CONFISSÃO. POSSIBILIDADE. SÚMULA N.º 568/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL PROVIDO.
