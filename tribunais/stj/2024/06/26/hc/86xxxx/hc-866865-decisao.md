@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JONAS MAGALHAES DE ALMEIDA JUNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação n. 0003798-62.2021.8.26.0606.
+Consta dos autos que o Juízo da 1ª Vara de Suzano-SP condenou o paciente à pena de 8 anos e 4 meses de reclusão, no regime inicial fechado, mais 20 dias-multa, pela prática de três delitos de roubo majorado em concurso formal (art. 157, § 2º, II, e § 2º-A, I, c/c art. 70, ambos do Código Penal).
+Em apelação da defesa, o Tribunal a quo reduziu a fração do concurso de 1/4 para 1/5, fixando a pena em 8 anos de reclusão, no regime inicial fechado, mais 19 dias-multa, nos termos do acórdão de fls. 30/40.
+A impetrante sustenta que o paciente foi apresentado para as vítimas quando estava no interior da viatura policial, em "situação extremamente criminalizante" (fl. 11), com inobservância do disposto no art. 226 do Código de Processo Penal, o qual prevê regras obrigatórias e não mera recomendação.
+Alega que o auto de reconhecimento não foi assinado e contém a informação errada de que todas as vítimas reconheceram o paciente, mas Maria do Carmo não o reconheceu.
+Por fim, afirma que a ilegalidade desse reconhecimento contamina aquele realizado em juízo, restando apenas os depoimentos dos policiais que procederam a prisão em flagrante do paciente, os quais, segundo a jurisprudência desta Corte, são insuficientes para um juízo condenatório.
+Requer, em liminar e no mérito, o reconhecimento da nulidade da condenação do paciente, "posto que baseada em prova ilícita" (fl. 28).
+Indeferida a liminar (fls. 53/54), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 62/63).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, o paciente e um comparsa abordaram as vítimas mediante o uso de arma de fogo, subtraindo-lhes dois celulares e um veículo VW/FOX. Acionada logo em seguida, a Polícia localizou-os e, após perseguição, alcançou e prendeu o paciente em flagrante na posse dos bens, depois de um dos pneus do veículo roubado estourar. O comparsa conseguiu fugir.
+Segundo o Auto de Reconhecimento de fl. 42, assinado apenas pelo Delegado de Polícia, as quatro pessoas que estavam no veículo reconheceram o paciente como um dos autores.
+O paciente confessou o delito (fl. 45).
+Em juízo, duas vítimas reconheceram o paciente, afirmando que foram para a Delegacia de Polícia registrar o boletim de ocorrência e, quando aguardavam, viram o paciente chegar dentro da viatura policial, momento em que o reconheceram de pronto, sem sombra de dúvidas, destacando, inclusive, suas roupas e tatuagem.
+Os Policiais Militares prestaram depoimentos no mesmo sentido, ressaltando que, "entre a irradiação do COPOM e a prisão, durou cerca de quatro minutos no máximo" (fls. 47/48).
+Na fase judicial, o paciente permaneceu em silêncio (fl. 45).
+A nulidade do reconhecimento pessoal foi afastada pelas instâncias ordinárias sob os seguintes fundamentos:
+Sentença:
+" ..
+Preliminarmente consigno que eventual irregularidade no curso do Inquérito Policial não tem o condão de anular a presente ação, sendo que não há que se falar no reconhecimento das nulidades apontadas pela defesa por ocasião da realização do reconhecimento realizado em solo policial.
+Portanto, afasto a tese de nulidade do reconhecimento levado a efeito na delegacia uma vez que a legislação determina, em seu art. 226 do CPP que, "Quando houver necessidade de fazer-se o reconhecimento de pessoa, proceder-se-á pela seguinte forma: (..) Il - a pessoa, cujo reconhecimento se pretender, será colocada, se possível, ao lado de outras que com ela tiverem qualquer semelhança, convidando-se quem tiver de fazer o reconhecimento a apontá-la".
+Portanto, o reconhecimento ao lado de pessoas semelhantes não é uma imposição legal, mas um direcionamento para que o reconhecimento, no caso de possibilidade de outras pessoas semelhantes, seja realizado com mais de uma pessoa. Diante deste argumento afasto a tese de nulidade do reconhecimento em solo policial." (fl. 46)
+Acórdão:
+" ..
+E, da mesma forma, diante de toda prova acusatória amealhada aos autos, não se constata, nem de longe, nenhuma irregularidade no reconhecimento pessoal do acusado efetuado pelas três vítimas, logo, não há cogitar violação ao disposto no art. 226 do Código de Processo Penal, até porque referido dispositivo configura mera recomendação legal.
+As formalidades exigidas pelo art. 226 do Código de Processo Penal não são obrigatórias, só devendo ser observadas quando assim for possível. A propósito, o próprio Colendo Supremo Tribunal Federal já assinalou: "Reconhecimento pessoal, que mesmo sem atender rigorosamente ao disposto no art. 226 do CPP, não é de molde a ensejar a anulação da prova assim obtida." (STF238/258).
+ ..
+De qualquer forma, o reconhecimento pessoal, efetuado na delegacia de polícia pelas três vítimas, além de não ter sido o único meio de prova que embasou o decreto condenatório, referido reconhecimento foi ratificado em juízo, por duas vítimas Luciane e Uelton - pessoalmente e com absoluta certeza, confirmando que ele foi um dos autores do crime patrimonial, de forma a tornar prejudicada eventual irregularidade observada no âmbito no inquérito policial.
+Portanto, não há qualquer nulidade a ser sanada.
+Ademais, é cediço que eventual irregularidade no curso do inquérito policial não tem o condão de contaminar a ação penal.
+Sobre o tema, o nobre Magistrado fundamentou a questão com brilhantismo, merecendo transcrição:
+"Preliminarmente consigno que eventual irregularidade no curso do Inquérito Policial não tem o condão de anular a presente ação, sendo que não há que se falar no reconhecimento das nulidades apontadas pela defesa por ocasião da realização do reconhecimento realizado em solo policial.
+Portanto, afasto a tese de nulidade do reconhecimento levado a efeito na delegacia uma vez que a legislação determina, em seu art. 226 do CPP que, "Quando houver necessidade de fazer-se o reconhecimento de pessoa, proceder-se-á pela seguinte forma: (..) Il - a pessoa, cujo reconhecimento se pretender, será colocada, se possível, ao lado de outras que com ela tiverem qualquer semelhança, convidando-se quem tiver de fazer o reconhecimento a apontá-la".
+Portanto, o reconhecimento ao lado de pessoas semelhantes não é uma imposição legal, mas um direcionamento para que o reconhecimento, no caso de possibilidade de outras pessoas semelhantes, seja realizado com mais de uma pessoa. Diante deste argumento afasto a tese de nulidade do reconhecimento em solo policial" (sic, fl. 353).
+Assim, a Defesa não conseguiu comprovar qualquer prejuízo sofrido pelo réu, a fim de ensejar a suposta nulidade.
+A propósito, o Código de Processo Penal, ao tratar do tema "nulidades", em seu art. 563, determina que "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa". (fls. 36/38)
+A situação fática delineada nos autos não permite o acolhimento do pedido de absolvição por insuficiência de provas lícitas acerca do envolvimento do paciente no delito em apuração. Conforme demonstrado acima, o paciente foi preso em flagrante, logo após os fatos, na posse dos bens subtraídos, tendo sido reconhecido em juízo por duas das três vítimas, as quais mencionaram suas vestes e tatuagem como forma de reforçar a certeza do reconhecimento. O fato delas terem visto o paciente dentro da viatura policial no momento em que aguardavam para registrar o B.O. não possui o condão de tornar nulas as demais provas e levar à absolvição do paciente, sobretudo na via estreita do habeas corpus.
+A propósito:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. RECONHECIMENTO FOTOGRÁFICO. DISTINGUISHING. PRESENÇA DE PROVAS PARA A MANTENÇA DA CONDENAÇÃO DO RÉU. REVISÃO DA DOSIMETRIA. RECONHECIMENTO DA PRESCRIÇÃO E SOLTURA, PLEITOS A SEREM DEDUZIDAS NAS INSTÂNCIAS ORDINÁRIAS. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+2. Ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021).
+3. No caso dos autos, além de não ter sido demonstrada a nulidade do reconhecimento pessoal, este não é o único elemento de prova para a condenação, o que demonstra haver um distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, pois a autoria, no caso, resta fartamente demonstrada a autoria delitiva por diversas provas, tendo o réu sido preso em posse de parte da res furtiva, sendo que os testemunhos apontam para a sua participação, inclusive em posição de liderança. Outrossim, devem ser sopesadas as interceptações telefônicas autorizadas judicialmente, que também corroboram com as decisões das instâncias ordinárias.
+4. Tratando-se de sentença condenatória proferida em 2009, é descabido rever os parâmetros dosimétrico nesta via, devendo a parte, se entender cabível, deduzir o pleito na origem, considerando que tal tema sequer foi ventilado no bojo da revisão criminal.
+Ainda, o pedido de reconhecimento da prescrição e de consequente soltura do ora agravante deverá ser inicialmente deduzido perante o Juízo de 1º grau.
+5. Agravo desprovido.
+(AgRg no HC n. 891.344/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Ante o exposto, não conheço do habeas corpus, com fundamento no art. 34, XX, do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
