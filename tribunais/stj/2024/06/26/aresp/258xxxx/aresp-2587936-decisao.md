@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados, (b) aplicação da Súmula n. 7 do STJ e (c) falta de comprovação do dissídio jurisprudencial (e-STJ fls. 355/357).
+O acórdão recorrido está assim ementado (e-STJ fl. 266):
+Apelação Cível. Ação de obrigação de fazer c/c indenização por danos materiais (lucros cessantes) e morais. Improcedência do pedido. Inconformismo por parte do autor.
+Preliminar. Cerceamento do direito de defesa. Inocorrência. Nulidade do julgado que requer a identificação em concretude de prejuízo processual. Prejuízo não demonstrado. Não se constata real utilidade da prova. Possibilidade de o Magistrado indeferir diligências inúteis. Inteligência do art. 370, § único, do CPC. Preliminar afastada.
+Compra e venda de peça pelo website da ré. Cancelamento. Fornecimento de vale-compra. Afirmação apresentada na contestação que não foi impugnada em réplica. Alegação do autor, formulada nas razões de apelação, de que não recebeu o vale-compra, configura comportamento contraditório, não admitido pelo ordenamento jurídico brasileiro. Incontroverso o fornecimento do vale-compra e não tendo o autor sequer alegado que o recusou, não há conduta ilícita a justificar tanto a responsabilização da ré pelos danos alegados, como a procedência do pedido cominatório de entrega do bem. Improcedência dos pedidos cominatório e indenizatório mantida. Restituição do valor que, todavia, se mostra devida. Conjunto probatório convence que o autor não utilizou o vale-compra. Vedação do enriquecimento sem causa.
+Sentença parcialmente reformada. Recurso de apelação parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 292/297).
+Nas razões do recurso especial (e-STJ fls. 300/315), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos arts. 369 e 370 do CPC/2015 e dissídio jurisprudencial, alegando que "o v. Acórdão ora recorrido reconheceu a inocorrência do cerceamento de defesa fundamentando que o prejuízo processual não teria sido demonstrado  ..  Contudo, o prejuízo processual ocorrido pelo julgamento antecipado da lide é visível, uma vez que, requerida a produção de provas testemunhais tempestivamente e bem fundamentadas" (e-STJ fls. 304/305).
+Foram oferecidas contrarrazões (e-STJ fls. 347/354).
+No agravo (e-STJ fls. 360/372), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 377/384).
+É o relatório.
+Decido.
+O TJSP concluiu que "o MM. Juiz singular não dispensou arbitrariamente a prova requerida pela autor. Ao contrário, vez que, conforme bem asseverado na sentença, o julgamento da demanda independe da produção da prova testemunhal, não se constatando a real utilidade da prova requerida para comprovar a existência de danos diante de ausência de conduta ilícita a justificar qualquer indenização" (e-STJ fl. 268).
+O acórdão recorrido encontra-se em consonância com a jurisprudência do STJ de que "o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado" (AgInt no AREsp n. 2.263.243/SP, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA E CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DE PLANO NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. (..).
+3. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Precedentes. 3.1. A jurisprudência firme desta Corte é no entendimento de que a análise quanto à necessidade de produção de determinada prova esbarra no óbice da Súmula 7/STJ, porquanto seria necessário reexaminar as circunstâncias fáticas e o conjunto probatório constante dos autos para concluir se a produção da prova almejada pelo recorrente seria, ou não, imprescindível para o julgamento da demanda.
+4. (..).
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.202.801/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Havendo posicionamento dominante sobre o tema, aplica-se a Súmula n. 83/STJ.
+De todo modo, para modificar o acórdão impugnado quanto à suficiência das provas apresentadas e à ausência de cerceamento de defesa, seria necessário o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Com efeito, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
