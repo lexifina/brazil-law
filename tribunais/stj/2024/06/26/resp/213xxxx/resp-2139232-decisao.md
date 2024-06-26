@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GLEICILENE GISELLE DA SILVA com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG em julgamento da Apelação Criminal n. 1.0000.23.204460-2/001.
+Consta dos autos que a recorrente foi condenada pela prática do delito tipificado no art. 33, § 4º, da Lei n. 11.343/2006 - Lei de Drogas (tráfico de drogas), à pena de 3 anos de reclusão, em regime inicial aberto, e 300 dias-multa, tendo sido absolvida da prática do delito tipificado no art. 329 do Código Penal - CP (resistência) (fl. 269).
+Recurso de apelação interposto pela defesa foi desprovido (fls. 394/414). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - PRELIMINAR DE ILICITUDE DA PROVA ORIUNDA DA PRISÃO EM FLAGRANTE - NÃO OCORRÊNCIA -ABORDAGEM PESSOAL E BUSCA DOMICILIAR PLENAMENTE JUSTIFICADAS -MÉRITO -ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS -NÃO CABIMENTO -AUTORIA E MATERIALIDADE COMPROVADAS -DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 28, DA LEI Nº 11.343/06 -NÃO CABIMENTO -DESTINAÇÃO MERCANTIL COMPROVADA -INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DE PENA DO ARTIGO 33, §4º, DA LEI Nº 11.343/06 EM SUA FRAÇÃOMÁXIMA -NÃO CABIMENTO.
+-Incabível a alegação de nulidade da abordagem quando, em mera conversa, o acusado entrega voluntariamente as substâncias ilícitas aos agentes públicos.
+-A entrada na residência do acusado sem expedição de mandado de busca e apreensão não representa ofensa à garantia constitucional da inviolabilidade ao domicílio, sendo, portanto, lícitas as provas obtidas, quando já apreendidas substâncias ilícitas em sua posse, configurando a prévia situação de flagrante delito.
+-Comprovadas a autoria e a materialidade do crime de tráfico de drogas a partir das provas documentais e testemunhais constantes dos autos, improcede a pretensão absolutória.
+-Se os elementos de convicção colhidos nos autos comprovam que o acusado realizava a traficância, impossível se torna a desclassificação da conduta para aquela prevista no artigo 28, da Lei nº. 11.343/06.-A quantidade expressiva de droga apreendida justifica a redução da pena com a aplicação do redutor de 2/5 (dois quintos), conforme feito em sentença e autorizado pelo §4º do artigo 33, da Lei nº 11.343/06." (fl. 394)
+Em sede de recurso especial (fls. 421/429), a defesa apontou violação ao art. 33, § 4º, da Lei n. 11.343/2006, porque o TJ entendeu pela impossibilidade de aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 em sua fração máxima, a despeito da pequena quantidade de drogas apreendidas com a recorrente.
+Requer a revisão da dosimetria da pena para que seja aplicada a referida redutora na fração de 2/3.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 433/439).
+Admitido o recurso no TJ (fls. 442/445), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 462/469).
+É o relatório.
+Decido.
+Sobre a violação ao art. 33, § 4º, Lei n. 11.343/2006, o TJMG manteve a pena nos seguintes termos do voto do relator:
+"Da tese de aumento da fração de redução do artigo 33, § 4º, da Le i 11.343/2006
+Pretende a defesa da apelante a aplicação da fração máxima do redutor de pena artigo 33, §4º, da Lei nº. 11.343/06.
+O pleito não deve ser acolhido.
+Da análise dos autos, verifico que a acusada é primária e não possui antecedentes criminais, consoante CAC de ordem 38. Além disso, não há a menor evidência de que ela integre organização criminosa.
+Do mesmo modo, não há prova segura de sua dedicação a atividades criminosas.
+Assim, o magistrado aplicou o benefício em análise, recaindo a irresignação defensiva quanto à fração utilizada em sentença de 2/5 (dois quintos).
+O dispositivo legal em foco estabelece que os delitos definidos no caput e no §1º do artigo 33 da Lei nº. 11.343/06 poderão ter as penas reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes e que não se dedique a atividades criminosas nem integre organizações criminosas.
+In casu, foram apreendidas 13 (treze) pedras de crack, pesando aproximadamente 3,60 g (três gramas e sessenta centigramas), 19 (dezenove) buchas de maconha, pesando aproximadamente 47 g (quarenta e sete gramas) e 04 (quatro) pinos do tipo eppendorf de cocaína.
+E a quantidade e a variedade arrecadada não pode ser considerada de pouca monta; ao contrário, se trata de quantidade relevante, merecendo reprovação extrema por parte do Poder Judiciário.
+Ademais, foi apreendido alto valor pecuniário sem origem lícita -R$2.419,00(dois mil quatrocentos e dezenove reais).
+Dessa forma, entendo que o redutor intermediário de 2/5 (dois quintos) é suficiente para a reprovação e prevenção do delito, eis que a quantidade e variedade do entorpecente influencia negativamente na dosimetria." (fls. 412/413)
+Extrai-se do trecho acima que o Tribunal de origem concluiu que a quantidade e a variedade de drogas arrecadadas não podem ser consideradas de pouca monta, motivo pelo qual entendeu pela aplicação da minorante do tráfico privilegiado na fração de 2/5.
+Entretanto, esta Corte entende que, a despeito da diversidade, a quantidade não exorbitante de entorpecentes apreendidos, consistentes em 3,60 g de crack, 47 g de maconha e 4 pinos de cocaína, permite a aplicação da redutora em seu grau máximo. No mesmo sentido, citam-se precedentes (grifos nossos):
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. INCIDÊNCIA NO PATAMAR MÁXIMO. POSSIBILIDADE. REDUZIDA QUANTIDADE DE DROGAS. PRIMARIEDADE E BONS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+2. Avaliando concomitantemente a natureza e a quantidade de droga apreendida (32g de crack e 52g de maconha), não constato risco suficiente à saúde pública, a ponto de não aplicar no patamar máximo a minorante do §4º do art. 33 da Lei n. 11.343/2006.
+3. Nesse contexto, torno definitiva a pena do agravado em 1 ano, 11 meses e 10 dias de reclusão, em regime inicial semiaberto, mais o pagamento de 194 dias-multa.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 864.608/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, §4º, DA LEI N. 11.343/2006. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial com relação à incidência da Súmula n. 7/STJ. É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016).
+2. Contudo, para afastar a causa de diminuição da pena do crime de tráfico de drogas, o Tribunal de origem formou sua convicção com base nos elementos que compõem a estrutura do tipo penal, e não indicou nada que demonstre a vivência delitiva do agravante, pois apenas ressaltou que "as circunstâncias que envolveram a prisão do réu, em especial a quantidade e o poder devastador de parte dos tóxicos apreendidos (22,2 gramas de maconha, 4,3 gramas de cocaína e 1,6 gramas de cocaína na forma de crack, conforme os laudos periciais de fls. 13/18 e 115/117), mais o dinheiro proveniente do tráfico (R$ 55,00), não há dúvida que RIAN possui sério envolvimento com a máquina criminosa que movimenta o comércio ilícito de entorpecentes".
+3. Na sentença foi determinada a fração média da redução da pena, pois foram considerados dois atos infracionais. Entretanto, para ser considerado o histórico de atos infracionais na dosimetria da pena do crime de tráfico de drogas, segundo a jurisprudência desta Corte Superior, é necessário apontar a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração.
+4. Agravo regimental improvido, porém habeas corpus concedido, de ofício, para, considerando a fração máxima da redução da pena prevista no art. 33, §4º, da Lei n. 11.343/2006, fixá-la em 1 ano, 11 meses e 10 dias de reclusão, no regime inicial aberto, e pagamento de 194 dias-multa, devendo a pena privativa de liberdade ser substituída por duas penas restritivas de direitos a serem determinadas pelo Juiz da Execução Penal.
+(AgRg no AREsp n. 2.206.749/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 25/4/2023, DJe de 2/5/2023.)
+Assim, deve ser reconhecida a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo (2/3).
+Passo à dosimetria das penas.
+Na primeira fase, mantém-se a pena-base no mínimo legal de 5 anos de reclusão e pagamento de 500 dias-multa.
+Na segunda fase, não se verificam circunstâncias agravantes ou atenuantes, motivo pela qual a pena não se altera.
+Na terceira fase, aplica-se em 2/3 a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, totalizando a reprimenda de 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para reduzir a pena da recorrente para 1 ano e 8 meses de reclusão, em regime inicial aberto, e pagamento de 166 dias-multa.
+Publique-se.
+Intimem-se.
+ EMENTA
