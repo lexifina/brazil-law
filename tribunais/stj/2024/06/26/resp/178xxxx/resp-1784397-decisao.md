@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO FINANCIAMENTO E INVESTIMENTO S.A., em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. EMBARGOS À EXECUÇÃO.
+1. Preliminar. Apelo apresenta e delimita as razões do inconformismo. Ausência de irregularidade.
+2. Mérito. "A ausência de impugnação do credor aos embargos à execução não é suficiente para elidir a presunção de certeza consubstanciada no título judicial, não podendo ser aplicados os efeitos da revelia." (REsp 1677161/SP, DJe 07/11/2017) 3. A juntada do original do título executivo somente é necessária quando a ação funda-se em títulos cambiais circuláveis, como medida de segurança jurídica decorrente do princípio da cartularidade inerente aos títulos de crédito.
+Tratando-se de execução de título extrajudicial baseada em contrato dotado de eficácia executiva, a sua cópia é instrumento hábil para a instrução da demanda.
+4. Alegação da existência de defeitos no bem desacompanhada de qualquer elemento probatório, não sendo crível que a efetiva ocorrência de problemas não tenha sido formalmente comunicada à fornecedora previamente, sendo suscitada tão somente em sede de defesa na execução.
+5. Memória de cálculo que acompanhou a execução demonstra débito inferior ao indicado na inicial executiva.
+Reconhecimento do excesso de execução.
+PRELIMINAR AFASTADA. RECURSO PROVIDO EMPARTE.
+Argumenta a parte recorrente, em síntese, que, estando evidente o proveito econômico obtido com os embargos à execução, inviável a fixação dos honorários advocatícios com base no valor da causa.
+Com razão a recorrente. Conforme a dicção do art. 85 do Código de Processo Civil, se não houver condenação, a base de cálculo dos honorários advocatícios corresponderá ao proveito econômico obtido pelo devedor, o qual prevalece sobre o valor atualizado da causa - esse último apenas será adotado quando não for possível aferir o proveito obtido com a demanda, hipótese que não se coaduna com a realidade dos autos. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. REGRAS PREVISTAS NO ART. 85 DO CPC/2015.
+1. Ação de reparação por danos morais.
+2. Alterar o decidido no acórdão impugnado, no que se refere à tese atinente à configuração dos danos morais, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula e 7/STJ.
+3. Com a ressalva do meu entendimento, a 2ª Seção definiu que, quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente da 2ª Seção.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1953132/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. CONFIRMAÇÃO PELO COLEGIADO. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIOS DE ARBITRAMENTO. DECISÃO MANTIDA.
+1. A decisão monocrática que dá provimento a recurso especial, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts. 932, V, do CPC/2015 e 255, § 4º, III, do RISTJ, não havendo falar, pois, em nulidade por ofensa à nova sistemática do Código de Processo Civil. Ademais, a interposição do agravo interno, e seu consequente julgamento pelo órgão colegiado, sana eventual nulidade.
+2. A Segunda Seção do STJ, no julgamento do REsp n. 1.746.072/PR, entendeu que "o § 2º do art. 85 do CPC de 2015 veicula a regra geral e obrigatória de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% a 20%: (I) do valor da condenação; ou (II) do proveito econômico obtido: ou (III) não sendo possível mensurá-lo, do valor atualizado da causa", relegando "ao § 8º do art. 85 a instituição de regra excepcional, de aplicação subsidiária, para as hipóteses em que, havendo ou não condenação: (I) for inestimável ou irrisório o proveito econômico obtido; ou (II) for muito baixo o valor da causa", afastando-se ainda o entendimento de que o referido § 8º - que possibilita a fixação dos honorários por equidade poderia ser utilizado nas causas de grande valor (Relator para acórdão o Ministro RAUL ARAÚJO, DJe de 29/3/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1883970/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/02/2022, DJe 25/02/2022)
+Com efeito, evidente que o proveito econômico obtido pela parte recorrida corresponde ao valor decotado da execução, o qual servirá de base para o pagamento dos honorários advocatícios.
+Em face do exposto, dou provimento ao recurso especial, para fixar a verba honorária em 10% (dez por cento) sobre o valor excluído da execução.
+Intimem-se.
+EMENTA
