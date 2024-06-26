@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Maicon Rodrigo Quechin Pacifico, apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 0000683-84.2019.8.24.0080/SC).
+Narram os autos que o paciente foi condenado a 1 ano e 4 meses de reclusão, em regime inicial semiaberto, e 13 dias-multa, pela prática do crime previsto no art. 171, caput e § 4º, c/c o art. 61, I, e art. 65, III, d, todos do Código Penal.
+Neste mandamus, a Defensoria Pública alega a existência de ilegalidade na dosimetria, destacando que a manutenção da causa de aumento do § 4º do art. 171 (vítima idosa) sob o argumento de que ela "dispensaria ciência do agente sobre a idade da vítima" incorre, pelos menos, em dois graves equívocos (fl. 7), a saber, ofensa ao princípio da culpabilidade, pois é vedada a responsabilização objetiva e violação da lógica formal, já que o fato de a vulnerabilidade do idoso ser presumida (que significa apenas que a vulnerabilidade não está sujeita às contingências do caso concreto) não permite concluir que a causa de aumento possa incidir independentemente do conhecimento da circunstância pelo autor (fl. 9).
+Sustenta, ainda, que a reincidência genérica não impede a substituição da pena (fl. 10).
+Não houve pedido liminar.
+Prestadas as informações (fls. 442/453 e 454/470), o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 478/483):
+HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. ESTELIONATO. DOSIMETRIA. CAUSA DEAUMENTO. DELITO PRATICADO CONTRA PESSOA IDOSA. MAJORANTE POSSUI NATUREZA OBJETIVA. SUA INCIDÊNCIA PRESCINDE DO CONHECIMENTO DO AGENTE SOBRE A IDADE DA VÍTIMA. SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃOEVIDENCIADO. PELO NÃO CONHECIMENTO DO WRIT OU PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+O presente writ não comporta conhecimento .
+Busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da Vara Criminal da comarca de Xanxerê/SC, ao argumento de ilegalidade na incidência da majorante de o crime ter sido praticado contra idoso, bem como na não substituição da privativa de liberdade por restritiva de direitos, já que se trata de sentenciado reincidente genérico.
+Ocorre que, além de ser inviável a utilização da via eleita para revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, não se evidencia coação ilegal na aplicação da majorante, já que é entendimento deste Superior Tribunal que a referida circunstância tem natureza objetiva, a qual independe do conhecimento do agente para sua incidência, uma vez que a vulnerabilidade do idoso é presumida (AgRg no REsp n. 2.083.854/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 22/5/2024). Ademais, ao referir-se ao fato de que o paciente é reincidente em crime patrimonial e já possui outra condenação definitiva por fatos posteriores (janeiro e fevereiro/2019), com trânsito em julgado em 18/8/2020, por sete crimes de furto (art. 155, caput, do Código Penal) - fl. 422, demonstrou-se que a substituição da privativa de liberdade por restritiva de direitos não se mostra socialmente recomendável.
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ESTELIONATO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÃO DE REVISÃO DA DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ não conhecido.
