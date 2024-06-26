@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por PATRIC UELINTON SALOMAO, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Consta dos autos que o recorrente foi denunciado pela suposta prática dos crimes de extorsão mediante sequestro, na modalidade tentada e de organização criminosa armada, no bojo da Operação "Sequaz".
+Impetrado  writ  perante  o  Tribunal  de  origem,  que  denegou  a  ordem  de  habeas  corpus n. 5000874-08.2024.4.04.0000/PR,  assim  ementado  (fl.  49):
+"HABEAS CORPUS. OPERAÇÃO SEQUAZ. PACIENTE CITADO POR EDITAL E QUE SE ENCONTRA EM LUGAR INCERTO E NÃO SABIDO. PRODUÇÃO ANTECIPADA DA PROVA TESTEMUNHAL. POSSIBILIDADE. VIOLAÇÃO AO SISTEMA ACUSATÓRIO E À SUMULA Nº 455 DO STJ. NÃO OCORRÊNCIA.
+1. Segundo entendimento consolidado do STJ, possível a colheita antecipada da prova testemunhal em relação ao réu citado por edital e que não constituiu defensor, a qual seria produzida de qualquer forma no curso da ação penal em trâmite contra os demais corréus, para fins de evitar os efeitos deletérios do decurso do tempo na memória das testemunhas, atendendo, ainda, aos princípios da celeridade e da economia processual.
+2. Caso em que o juízo impetrado, a despeito da necessidade de suspensão do feito pela não localização do réu, determinou a produção antecipada da prova testemunhal, ressaltando que esta poderá influenciar na delimitação da responsabilidade deste, assegurando-lhe a possibilidade de requerer a sua renovação acaso compareça futuramente em juízo.
+3. Ordem de habeas corpus denegada."
+O recorrente sustenta que sofre constrangimento ilegal, porquanto ausente de fundamentação idônea da decisão que determinou a produção antecipada de provas. Aponta o desrespeito ao art. 93, IX, da Constituição Federal e à Súmula 455 do STJ.
+No ponto, alega que "(..) a instância originária se baseou em meros indícios de que o acusado esteja se ocultando no exterior, sem qualquer comprovação idônea, e a partir de meras informações e indícios coletados pela Polícia Judiciária Federal." (fl. 101).
+Requer, liminarmente e no mérito, a suspensão da ação penal e a concessão da ordem, ainda que de ofício, para que seja anulada a decisão que determinou a produção antecipada de provas testemunhais, excluindo o recorrente da relação processual, além do imediato desmembramento do feito, até que seja encontrado para ser citado.
+A liminar não pôde ser conhecida. O feito foi convertido em diligência (fl. 87), com determinação de intimação da Defensoria Pública para que realize o aditamento da petição de recurso ordinário (fls. 56/65).
+Às fls. 92/106 (PET 00368358/2024), a Defesa promoveu o aditamento da peça recursal, requerendo a juntada da cópia integral do recurso ordinário em habeas corpus.
+Prestadas as informações (fls. 107/110), o Ministério Público Federal manifestou-se pelo não conhecimento do recurso, nos termos da seguinte ementa (fl. 112):
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. PELO NÃO CONHECIMENTODO RECURSO ORDINÁRIO EM HABEAS CORPUS."
+É o relatório. Decido.
+Consoante relatado, busca a Defesa a reforma do acórdão recorrido que manteve a determinação da produção antecipada de provas testemunhais. Pleiteia, também, a exclusão do recorrente da relação processual e o imediato desmembramento do feito até que o acusado seja encontrado e citado.
+Rec ebida nesta Corte Superior a PET n. 00167843/2024, na qual consta a seguinte decisão: "Constituída a defesa e apresentada resposta à acusação pelo réu, não se mostram mais necessários o desmembramento do feito e a antecipação da produção de provas em relação a PATRIC UELINTON SALOMAO, de modo que revogo as determinações do item 5 da decisão do evento 305.1." (fl. 83, destaquei).
+Transcrevo, por oportuno, os seguintes trechos lançados no acórdão recorrido a respeito da referida determinação ora revogada (fls. 43/46, grifei):
+" No caso, verifica-se que, ao determinar a produção da prova testemunhal antes do desmembramento e da suspensão da ação penal, nos termos do disposto no art. 366 do CPP, assim se manifestou o juízo impetrado (evento 305 da AP):
+ ..
+5. Do desmembramento do feito em relação ao réu PATRIC UELINTON SALOMAO
+Devidamente citado e intimado por edital no evento 247, EDITAL1, o réu PATRIC UELINTON SALOMAO não apresentou resposta à acusação e também não constituiu defensor.
+ ..
+No caso dos autos, a despeito de eventual suspensão do feito pela não localização do réu, verifico a necessidade de realização de produção antecipada da prova testemunhal, uma vez que a prova a ser aqui produzida poderá influenciar na delimitação da responsabilidade do réu PATRIC UELINTON SALOMAO.
+Assim, entendo ser o caso de determinar a produção antecipada de provas em relação ao réu PATRIC UELINTON SALOMAO, sem prejuízo que posteriormente sejam renovadas as provas, considerando não apenas a data em que os fatos foram em tese praticados, mas, notadamente, pela dificuldade de ser concretizada a citação pessoal do réu, que é apontado como um dos líderes do Primeiro Comando da Capital - PCC, integrante da "Sintonia Final", a alta cúpula da facção criminosa.
+Sobre o paradeiro do réu, o MPF, nestes autos, ponderou que há indícios de que esteja escondido no exterior, mais precisamente na Bolívia, como forma tanto de se furtar do cumprimento da lei penal, como também a fim de administrar os negócios espúrios da facção naquele país (evento 194, PROMO_MPF1). Confira-se trecho da manifestação:
+ ..
+Desse modo, eventual repetição da prova em novos autos, em data futura e incerta, inequivocamente restará prejudicada.
+Tal entendimento encontra respaldo na Súmula 455 do Superior Tribunal de Justiça, que estabelece que "A decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo". Nesse sentido, inclusive, destacam-se as seguintes ementas:
+ ..
+5.1. Assim sendo, nomeio a Defensoria Pública da União para atuar em defesa de PATRIC UELINTON SALOMAO na audiência de instrução e julgamento a ser realizada. Intime-se.
+5.2. Oportunamente, realizada a audiência e finda a instrução probatória, desmembrem-se os autos em relação ao supracitado réu. Trasladem-se as peças necessárias e, após, faça-se conclusão naqueles autos.
+ ..
+Não vislumbro motivos para discordar de tal entendimento, o qual ratifico, adotando-o como razão de decidir.
+De fato, como bem apontado pelo órgão ministerial, a antecipação, na hipótese, consiste em validar a utilização da prova m relação ao corréu que ainda não foi encontrado para ser citado.
+Não se trata, portanto, de determinação de produção de prova específica em relação ao ora paciente, mas de prova que será colhida de qualquer forma, no curso regular da instrução criminal em relação aos corréus, e que poderá, acaso este seja encontrado para citação, ser eventualmente renovada a pedido da defesa, consoante expressamente assegurado pelo juízo impetrado."
+Verifico, ainda, das informações prestadas pelo eg. Tribunal de origem, que: " Em 19-02-2024 foi noticiada decisão proferida pelo juízo a quo, por meio da qual, diante da constituição de defesa pelo réu e da apresentação de resposta à acusação, foram revogadas as determinações do item 5 da decisão do evento 305.1 (evento 30)." (fl. 109).
+Dessa forma, em razão da superveniente decisão do juízo de primeiro grau, revogando as determinações de desmembramento do feito e a antecipação da produção de provas em relação ao recorrente, constata-se, no ponto, a perda do objeto do presente recurso.
+Além disso, observo que a pretendida exclusão do recorrente da relação processual, bem como o pleito de desmembramento imediato do feito até que o recorrente seja encontrado para ser citado, embora a decisão monocrática tenha determinado a produção da prova testemunhal antes do desmembramento dos autos em relação ao recorrente, os referidos pedidos não foram objetos de análise pelo Colegiado do Tribunal de origem, razão pela qual não poderão ser conhecidos, nesta parte, por indevida supressão de instância.
+Com efeito: "Sob pena de se incorrer em indevida supressão de instância o Superior Tribunal de Justiça não pode conhecer de tese não apreciada pelo Colegiado da Corte de origem." (AgRg no HC n. 886.082/CE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024).
+Ademais, embora o art. 654 § 2º, do Código de Processo Penal preveja a possibilidade da concessão de habeas corpus de ofício, não cabe pleitear a ordem de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão ou o não conhecimento do recurso, em se considerando que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção.
+Nessa linha: "O deferimento do habeas corpus, de ofício, é de iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca de recurso cujo mérito sequer foi examinado. Precedentes." (AgRg no HC n. 789.797/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 21/11/2023, DJe de 5/12/2023).
+Ante o exposto, julgo prejudicado o recurso em habeas corpus e não conheço dos pedidos.
+Publique-se.
+Intimem-se.
+EMENTA
