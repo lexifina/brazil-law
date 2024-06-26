@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 279 do STF.
+O acórdão recorrido está assim ementado (e-STJ fl. 143):
+REVISÃO DE CLÁUSULAS CONTRATUAIS. JUNTADA DO CONTRATO EM GRAU RECURSAL. POSSIBILIDADE. LEGAL IDADE DA COBRANÇA DE JUROS E CAPITALIZAÇÃO MENSAL. ABUSIVIDADE DA COBRANÇA DE SEGURO. 1. Nos termos da jurisprudência do STJ, é possível a juntada de documento em grau recursal para contrapor as alegações deduzidas no processo, desde que seja assegurado o contraditório e não esteja caracterizada a má-fé. 2. Somente quando exceder manifestamente a média do mercado é possível falar em abusividade da taxa mensal de juros. 3. Possível a cobrança de capitalização mensal desde que haja previsão no contrato. 4. Nos termos do precedente do STJ, nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada. 5. Apelos conhecidos e parcialmente providos. Unanimidade.
+Os embargos de declaração opostos pelo banco foram rejeitados e os do agravante foram parcialmente acolhidos, conforme ementa que segue (e-STJ fl. 164):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA. 1. Existindo omissão no acórdão, incumbe ao Tribunal acolher os embargos para oferecer manifestação sobre o ponto omisso. 2. Para fins de prequestionamento, basta ao julgador manifestar-se acerca da matéria federal deduzida no recurso. 3. Primeiros Embargos conhecidos e rejeitados. Segundos Embargos conhecidos e acolhidos parcialmente, sem efeitos moditicativos. Unanimidade.
+Nas razões do recurso especial (e-STJ fls. 185/193), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 342, I, II e III, e 435 do CPC/2015. Sustentou ser indevida a juntada do contrato no momento da apelação, uma vez que o referido documento não diria respeito a fato superveniente que o juiz pudesse conhecer de ofício ou à alegação que possua autorização legal para ser formulada a qualquer tempo e grau de jurisdição. Alegou que o instrumento contratual deveria ter sido juntado com a contestação, mas o recorrido, por culpa ou dolo, manteve-se inerte, sendo considerado revel, o que afastaria sua boa-fé. Afirmou que também houve ofensa ao contraditório, uma vez que teria passado a fase de produção probatória. Aduziu que "não sendo apresentado o contrato pela recorrida, quando lhe oportunizado o direito de resposta a inicial, não deve se falar em falha na sentença que reconhece a abusividade da parcela que cobra valor superior a taxa média de mercado ou em disparidade ao que foi informado para o cliente". Indicou julgado do TJSC a fim de demonstrar a existência de dissídio jurisprudencial sobre o tema.
+Contrarrazões às fls. 214/223 (e-STJ).
+No agravo (e-STJ fls. 299/303), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 309/317).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Os artigos apontados como violados não são suficientes para desconstituir o acórdão recorrido que entendeu que, havendo revelia, o réu pode, em apelação, juntar o contrato para contrapor as alegações deduzidas na inicial.
+Isso porque nenhum dos dispositivos indicados dizem respeito à situação de revelia.
+O art. 342 do CPC/2015 dispõe acerca de novas alegações - e por isso nem mesmo traz pertinência com o decidido - e o art. 435 do CPC/2015, o qual possibilita, em algumas hipóteses, a juntad a posterior de documentos, não faz referência ao caso de revelia.
+Assim, por carência de fundamentação, incide a Súmula n. 284/STF.
+Ademais, a jurisprudência desta Corte, na linha do que decidiu o TJMA, "admite a juntada de documentos, que não apenas os produzidos após a inicial e a contestação, inclusive na via recursal, desde que observado o contraditório e ausente a má-fé" (REsp n. 1.634.851/RJ, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/9/2017, DJe de 15/2/2018).
+Por fim, quanto ao dissídio jurisprudencial, é firme o entendimento desta Corte de que o conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+No caso, tais requisitos não foram atendidos.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
