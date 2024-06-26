@@ -1,5 +1,5 @@
 Art. 16. O suporte financeiro ao setor turístico será viabilizado por meio dos seguintes mecanismos operacionais de canalização de recursos:
-I - da lei orçamentária anual, alocado ao Ministério do Turismo;
+I - da lei orçamentária anual, alocados ao Ministério do Turismo;
 II - do Fundo Geral de Turismo (Novo Fungetur);
 III - de linhas de crédito de bancos e instituições federais;
 IV - de agências de fomento ao desenvolvimento regional;
