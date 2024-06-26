@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por EBRAPE EMP BRAS DE AVALIAÇÃO DE PATRIMONIO E ENG LTDA. e RENOR VALERIO DA SILVA contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 385):
+APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER. SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE RÉ:ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. APLICAÇÃO DA TEORIADA BOA-FÉ. RÉU QUE ASSUMIU EXTRAJUDICIALMENTE A SUA RESPONSABILIDADE DE SANAR AS EXIGÊNCIAS CARTORÁRIAS.
+AUSÊNCIA DE CONSTATAÇÃO DA ILEGITIMIDADE. RECURSO DA INSURGÊNCIA QUANTO À BASE DE CÁLCULO PARTE AUTORA:DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONDENAÇÃOPECUNIÁRIA. INEXISTÊNCIA DE PROVEITO ECONÔMICO. VALORDA CAUSA É O PARÂMETRO A SER UTILIZADO PARA CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. AMBOS OS RECURSOS CONHECIDOS E, NO MÉRITO, DESPROVIDOS.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 438-447).
+Nas razões recursais a parte recorrente alegou violação aos arts. 489, § 1º, IV, do CPC, sustentando negativa de prestação jurisdicional; falta de legitimidade para figurarem no polo passivo da ação no que diz respeito ao pedido de retificação do nome de sua mãe nas matrículas dos imóveis.
+Defenderam que a retificação deve ser realizada pelo cartório, com base em um simples pedido, enquanto a possibilidade de levar a questão ao tribunal é apenas uma opção para o requerente.
+Asseveraram não serem parte legitimas para tomarem as medidas necessárias para viabilizar a transferência definitiva dos imóveis em questão aos recorridos.
+Aduziram (e-STJ, fl. 467):
+50. No entanto, a questão da falta de legitimidade dos Recorrentes para serem incluídos como requeridos nas reivindicações iniciais é que todos os procedimentos essenciais para a efetivação da transferência definitiva dos imóveis em questão aos Recorridos foram devidamente realizados. Portanto, não há justificativa para condená-los a qualquer obrigação adicional.
+51. A responsabilidade de figurar no polo passivo desta disputa recai exclusivamente sobre o 6º Cartório de Registro de Imóveis da Capital Paranaense, que está criando obstáculos para a concretização do ato desejado pelo Recorrido, mesmo tendo em sua posse a documentação necessária para tal finalidade, incluindo aquelas que estão listadas como requisitos.
+Contrarrazões às fls. 482-490 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+No tocante à alegada afronta ao art. 489 do Código de Processo de 2015, sem razão o recorrente, uma vez que as questões deduzidas no processo foram resolvidas satisfatoriamente, não se identificando vícios de obscuridade, contradição ou omissão com relação a ponto controvertido, conforme se verifica dos acórdãos às fls. 385-393 e 438-447 (e-STJ).
+Aplica-se à espécie o entendimento pacífico do Superior Tribunal de Justiça segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Assim, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de maneira a esgotar a prestação jurisdicional, não há falar em violação aos referidos dispositivos da legislação processual.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. SEGURO DE VIDA EM GRUPO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Cuida-se, na origem, de ação de cobrança c/c pedido de compensação por danos morais, ajuizada em razão da negativa de pagamento de indenização relativa a seguro de vida em grupo.
+2. Não ocorre ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020). Por essa razão é que não basta ao cumprimento do requisito do prequestionamento a mera oposição de embargos de declaração na origem.
+5. O conhecimento da insurgência recursal é inadmissível quando o recorrente deixa de demonstrar, de forma pontual e argumentativa, como o acórdão recorrido violou os dispositivos legais mencionados nas razões do recurso.
+6. Alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva da recorrente, por ter atuado como representante da seguradora, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno não provido. (AgInt no REsp 1815548/AM, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020).
+Quanto à alegada ilegitimidade passiva, verifica que não há na fundamentação do recurso a indicação adequada da questão federal controvertida, tendo deixado a parte de apontar o dispositivo de lei federal tido por violado. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos ou interpretados distintamente de outro tribunal pela decisão recorrida, sob pena de inadmissão.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A falta de indicação do dispositivo de lei federal supostamente violado, pertinente à temática abordada no recurso especial, impede a abertura da instância especial, nos termos da Súmula 284 do STF.
+3. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp 1910868/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2021, DJe 26/11/2021).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do a rt. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte recorrida em 2% sobre o valor fixado na origem, ressalvado o benefício da assistência judiciária gratuita.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
