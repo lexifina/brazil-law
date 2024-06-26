@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 744/760) opostos à decisão desta relatoria que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento (e-STJ fls. 719/725).
+A parte embargante sustenta, em síntese:
+(i) omissão quanto à inovação recursal, preclusão e falta de prequestionamento da tese de aplicação do art. 921, § 5º, do CPC/2015. Aduz que referidas preliminares foram suscitadas nas contrarrazões do agravo interno no Recurso Especial conexo n. 2.072.952/RS (2023/0163308-3), devendo ser enfrentadas neste feito;
+(ii) omissão acerca da alegada violação dos arts. 505 e 1.022, I a III, do CPC/2015; e
+(iii) omissão quanto à "alegação de que, no caso concreto, não se trata de prescrição intercorrente em decorrência de ausência de bens, mas sim de inércia com resistência ao pedido da parte" (e-STJ fl. 757).
+Impugnação apresentada às fls. 770/779 (e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando na decisão judicial houver obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Em regra, o recurso integrativo não permite o rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+A propósito, ""a omissão que autoriza o acolhimento dos embargos de declaração somente se revela quando o julgador, no contexto dos autos, deixa de se manifestar, de ofício ou a requerimento da parte, acerca do ponto ou questão essencial ao deslinde da controvérsia, conforme a dicção do art. 1.022, II, do Código de Processo Civil de 2015" (EDcl no AgInt no REsp 1.955.725/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/11/2022, DJe de 16/11/2022)" (EDcl no AgInt no AREsp n. 2.396.382/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+No caso concreto, todavia, a decisão embargada tratou fundamentadamente da matéria controvertida, conforme se demonstra a seguir:
+1. Acerca da alegada violação dos arts. 505 e 1.022, I a III, do CPC/2015:
+(e-STJ fls. 721/722)
+Reconhecida pela Corte local a "ocorrência de omissão  no acórdão de fls. 359/379 (e-STJ)  relativamente ao entendimento atual do STJ a respeito do (des)cabimento da fixação de honorários advocatícios, em proveito da parte devedora, no caso de reconhecimento da prescrição intercorrente" (e-STJ fl. 434), não há falar em ofensa ao art. 1.022 do CPC/2015 por parte do acórdão de fls. 421/440 (e-STJ), em razão do acolhimento dos aclaratórios opostos pela parte ora recorrida.
+No que se refere às teses de preclusão pro judicato quanto ao cabimento de honorários e de violação do art. 505 do CPC/2015, esses pontos não foram objeto de enfrentamento por parte do acórdão recorrido, apesar de terem constado dos embargos de declaração opostos às fls. 461/483 (e-STJ).
+Entendendo remanescer o vício apontado nos aclaratórios, caberia à parte alegar, em recurso especial, violação do art. 1.022 do CPC/2015 em relação ao acórdão de fls. 497/520 (e-STJ), o que não ocorreu.
+A ausência de debate, pela Corte local, acerca do tema impede o acesso à instância especial. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do STJ.
+2. Quanto à "alegação de que, no caso concreto, não se trata de prescrição intercorrente em decorrência de ausência de bens, mas sim de inércia com resistência ao pedido da parte" (e-STJ fl. 757):
+(e-STJ fls. 7221/724)
+Quanto à distribuição do ônus sucumbencial na hipótese de extinção do feito executivo pelo reconhecimento da prescrição intercorrente, a jurisprudência desta Corte pacificou-se no sentido de que "tal situação não atrai para o exequente a responsabilidade por honorários advocatícios" (AgInt no AgInt no AREsp 2.159.674/SP, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+No mesmo sentido: AgInt no AREsp n. 1.914.368/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.
+Com efeito, "em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa" (AgInt nos EDcl no AREsp n. 2.180.877/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+Ademais, considerando o referido princípio, o entendimento desta Corte é de que, mesmo nas hipóteses (i) de resistência do exequente ao reconhecimento da prescrição intercorrente ou (ii) de inércia/desídia da parte credora durante o prazo prescricional, é indevido atribuir ao credor os ônus sucumbenciais. A propósito:
+ ..
+Assim, ao entender (i) que "em qualquer hipótese de reconhecimento da prescrição intercorrente - seja pela ausência de bens penhoráveis, seja pela desídia do credor -, descabe o arbitramento de honorários sucumbenciais em prol da parte devedora" (e-STJ fl. 439) e (ii) que "o fato de a instituição financeira ter resistido ao pedido de reconhecimento da prescrição intercorrente, por si só, não tem o condão de alterar o resultado do julgamento embargado", porquanto "a questão passa pelo exame da regra da causalidade, que, nos termos do entendimento do STJ, diz respeito a quem deu causa ao ajuizamento da execução, e não a quem deu causa ao reconhecimento da prescrição intercorrente" (e-STJ fl. 505), verifica-se que a conclusão do Tribunal de origem está em consonância com o entendimento jurisprudencial deste Tribunal Superior acerca da questão.
+Não há falar, por conseguinte, em violação do art. 85, caput e §§ 2º, 8º e 8º-A, do CPC/2015.
+Por fim, as alegações de inovação recursal, preclusão e falta de prequestionamento da tese de aplicação do art. 921, § 5º, do CPC/2015 não constaram deste feito, não havendo falar em omissão da decisão de fls. 719/725 (e-STJ) acerca de questão suscitada em outro processo  Recurso Especial n. 2.072.952/RS (2023/0163308-3)  , ainda que conexo a este.
+Ademais, registra-se que o apontamento feito à previsão contida no art. 921, § 5º, do CPC/2015, tanto neste feito quanto naquele, se deu a título de reforço argumentativo, não se tratando de ponto ou questão essencial ao deslinde da controvérsia, de sorte que o eventual acolhimento das referidas preliminares não implicaria o afastamento da conclusão da decisão embargada.
+A pretensão recursal se volta, em última análise, à rediscussão de matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+É sabido ainda que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, bastando que os fundamentos utilizados sejam suficientes para embasar a decisão.
+Havendo motivação satisfatória para dirimir o litígio nos moldes do juízo embargado, não se constata nenhuma das hipóteses de cabimento dos declaratórios, não configurando nenhum dos vícios previstos no art. 1.022 do CPC/2015 o fato de a decisão recorrida ser contrária aos interesses da parte embargante.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
