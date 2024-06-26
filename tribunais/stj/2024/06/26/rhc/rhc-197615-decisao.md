@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por SANATIEL DE MORAIS SOARES contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás (HC n. 5202850-74.2024.8.09.0006).
+Depreende-se dos autos que o recorrente foi preso preventivamente, em razão da suposta prática do crime previsto no art. 155, § 1º, do Código Penal (e-STJ fls. 173/174).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, em acórdão assim ementado (e-STJ fl. 317):
+HABEAS CORPUS. FURTO. NULIDADE. CITAÇÃO EDITALÍCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. 1) Demonstrado que o paciente não foi localizado para a citação pessoal no endereço que forneceu, sendo noticiado na ação penal que se mudara para outro Estado da Federação, encontrando-se em local incerto e não sabido, não existe nulidade na citação editalícia. 2) Não há se falar em prescrição se não ultrapassado o prazo previsto para sua consumação (art. 109, III, do CP). 3) Ordem conhecida e denegada.
+Daí o presente recurso, no qual a defesa alega, em síntese, a nulidade da citação por edital, uma vez que não esgotados os meios disponíveis para a localização do recorrente.
+Também, pugna pelo reconhecimento da prescrição da pretensão punitiva, tendo em vista que o juízo suspendeu o processo e o prazo prescricional em 25/8/2010, só retornando o trâmite em 31/10/2023.
+Dessa forma, requer, liminarmente e no mérito, o reconhecimento da nulidade da citação e, consequentemente, a declaração da prescrição da pretensão punitiva (e-STJ fls. 337/338).
+Liminar indeferida às e-STJ fls. 354/355.
+Ao se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 386/392).
+É o relatório.
+Decido.
+Cumpre consignar, inicialmente, que, nos moldes do art. 563 do Código de Processo Penal, nenhum ato será declarado nulo se da nulidade não resultar danos às partes. Nessa toada, é evidente que a tipicidade dos atos processuais funciona somente como instrumento para a correta aplicação do direito.
+Sendo assim, eventual desrespeito às formalidades prescritas em lei apenas deverá acarretar a invalidação do ato processual quando a finalidade para a qual foi instituída a forma for comprometida pelo vício. Conclusivamente, somente a atipicidade relevante, bastante a evidenciar dano concreto às partes, autoriza o reconhecimento do vício.
+Na mesma linha intelectiva, elucida o art. 566 do CPP que não será declarada a nulidade do ato processual quando não houver influído na verdade substancial ou na decisão da causa. Com efeito, demonstrada a inocuidade do ato processual viciado, inabilitado de influir no convencimento judicial, é inviável o reconhecimento da nulidade.
+Na hipótese vertente, o aresto invectivado assim consignou quanto ao tema ora versado (e-STJ fls. 315/316):
+Ao minudenciar os fatos, na linha exarada no parecer de Cúpula, a citação editalícia do paciente se realizou de modo válido.
+Extrai-se dos autos que o paciente não foi localizado para a citação pessoal no endereço que forneceu e até então conhecido do juízo. Para além, sua prima relatou que não possuía nenhum contato com Sanatiel e que não saberia indicar o local onde poderia ser encontrado, informando, na ocasião, que o paciente se mudara para outro Estado da Federação (mov. 1, arq. 1, fl. 71). Bem por isso, considerado em local incerto e não sabido, foi determinada a sua citação por edital, não se podendo impor ao magistrado a utilização de mecanismos não previstos em Lei para achar seu paradeiro.
+ ..
+Por último, igualmente não compareceu ao processo para informar novo endereço, mesmo tendo conhecimento do processo que tramitava em seu desfavor conforme preleciona o artigo 367 do CPP. Válida, desse modo, a citação editalícia realizada após diligência infrutífera.
+Depreende-se do excerto acima consignado que o acórdão consoa com o entendimento pacificado do Superior Tribunal de Justiça, nos moldes do precedente abaixo colacionado, não estando, portanto, caracterizada a indigitada eiva.
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NULIDADE. CITAÇÃO EDITALÍCIA. INOCORRÊNCIA. RÉU EM LUGAR INCERTO E NÃO SABIDO. MUDANÇA DE ENDEREÇO SEM COMUNICAÇÃO PRÉVIA AO JUÍZO. AGRAVO DESPROVIDO.
+1. Restando frustrada a tentativa de citação pessoal do réu no endereço informado nos autos e estando o imputado em local incerto e não sabido, não há nulidade na determinação de citação por edital. É dever do acusado informar a mudança de endereço, conforme disciplina o art. 367 do Código de Processo Penal. Não cabe ao Poder Judiciário realizar diligências para localizar o paradeiro do condenado quando frustradas as tentativas de intimação no endereço por ele fornecido.
+Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no RHC n. 135.185/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)
+Ademais, "alterar o entendimento da Corte de origem acerca do não exaurimento das diligências de forma a autorizar a citação por edital, demandaria necessariamente o revolvimento do conjunto fático-probatório do processo, o que é vedado em instância especial ante a incidência do enunciado n. 7 da Súmula do STJ". (AgInt no AREsp 886.701/RS, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 27/04/2017)" - AgRg no AREsp n. 1.195.474/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 27/2/2018, DJe de 8/3/2018).
+Ilustrativamente:
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. FALTA DE CABIMENTO. PRETENSÃO DE ANULAÇÃO DA AÇÃO PENAL, DESDE O DESPACHO QUE DETERMINOU A CITAÇÃO POR EDITAL. ALEGAÇÃO DE NÃO ESGOTAMENTO DOS MEIOS DE LOCALIZAÇÃO DO IMPUTADO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, em recentes decisões, não admitem mais a utilização do habeas corpus como sucedâneo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+2. No caso, não está presente a existência de constrangimento ilegal capaz de justificar a concessão de ordem de habeas corpus de ofício, pois o argumento do impetrante para justificar a nulidade da citação editalícia esbarra no entendimento deste Superior Tribunal, no sentido de que não cabe ao Poder Judiciário diligenciar nos órgãos públicos com o fim de obter o real endereço do imputado.
+3. Alcançar conclusão no sentido de que não foram esgotados os meios de localização do imputado demandaria reexame de provas, inviável na via estreita do writ.
+4. Agravo regimental improvido.
+(AgRg no HC n. 389.528/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 30/3/2017, DJe de 7/4/2017.)
+Por fim, "nos termos do enunciado 415 da Súmula desta Corte Superior de Justiça, "o período de suspensão do prazo prescricional é regulado pelo máximo da pena cominada", de modo que, uma vez decorrido o prazo prescricional com base na pena máxima em abstrato para o crime durante a suspensão, esta cessa e o processo e a prescrição voltam a fluir" (AgRg no RHC n. 130.964/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/8/2020, DJe de 25/8/2020).
+No caso vertente, " considerando que ainda não foi prolatado decreto condenatório, a contagem do prazo prescricional regula-se pelo tempo da pena máxima em abstrato que, no caso de furto qualificado (art. 155, §1º, CP) terá como pena máxima 5 (cinco) anos e 4 (quatro) meses de reclusão, se aplicada a fração de aumento de 1/3 (um terço) pelo repouso noturno. Assim, nos termos do artigo 109, inciso III, do CP, a pretensão punitiva estaria fulminada em 12 (doze) anos. Ora, suspenso o processo e o prazo prescricional em 25.08.2010 (mov. 1, fls. 84/85, do apenso), a retomada da marcha processual acontecera somente em 06.11.2023 com a localização do paciente (mov. 16, do apenso). Assim, de clareza solar que após o último marco interruptivo não transcorrera lapso temporal suficiente para a declaração de eventual extinção da punibilidade do paciente" (e-STJ fl. 316).
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
