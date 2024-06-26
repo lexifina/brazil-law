@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal e incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 1.044/1.046).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 985):
+AÇÃO CIVIL PÚBLICA - Entrega de imóvel em desconformidade com material publicitário - Ilegitimidade passiva afastada - Sentença ultra petita na parte em que condenou os réus à indenização por danos materiais em valor superior ao pedido -- Sentença anulada neste particular - Supressão dos equipamentos de ginástica divulgados em folder publicitário - Propaganda ou publicidade que vincula o fornecedor, nos termos do artigo 30 do CDC- Expressa vedação à publicidade enganosa (CDC, art. 37, § 1º)  Reparação pelos danos materiais devida - Sentença reformada - Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.020/1.023).
+Nas razões do recurso especial (e-STJ fls. 994/1.010), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) arts. 489 e 1.022 do CPC/2015, por omissão do Tribunal de origem quanto à comprovação "nos autos que o contrato assinado com os adquirentes tinha expressa e clara previsão de que os itens que constaram do material publicitário eram mera sugestão de decoração e não integravam o contrato (cláusulas 10.1 e 16.6)" (e-STJ fl. 1.003), e
+(ii) arts. 30 e 37, § 1º, do CDC, sob alegação de que "não houve propaganda enganosa, pois, em nenhum momento as recorrentes apresentaram publicidade falsa ou que pudesse induzir os consumidores em erro.  .. . Muito pelo contrário, como exposto no tópico supra, o contrato celebrado entre a construtora e os adquirentes previa, de forma expressa e clara, que os itens que constavam do material publicitário, tidos como propaganda enganosa no acórdão recorrido, eram mera sugestão de decoração e que não integravam o contrato (cláusulas 10.1 e 16.6 dos contratos celebrados).  .. . Essas duas cláusulas contratuais deixam claro a inocorrência da propaganda enganosa, na medida em que nos revelam que os adquirentes tiveram ciência clara e expressa de que os materiais que constaram no material publicitário não integravam o contrato.  .. . No mais, como também mencionado acima, o contrato celebrado entre as partes e o memorial descritivo do empreendimento não previram a instalação dos equipamentos de academia.  .. . Portanto, temos que os referidos equipamentos de academia não foram prometidos pela construtora de forma que não integravam o contrato, sendo mera sugestão de decoração" (e-STJ fls. 1.007/1.008).
+No agravo (e-STJ fls. 1.049/1.057), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 1.065).
+Parecer do Ministério Público Federal pelo desprovimento do recurso especial (e-STJ fls. 1.074/1.076).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja, a existência das cláusulas 10.1 e 16.6 do contrato, em que consta expressamente que "os itens que constavam do material publicitário, tidos como propaganda enganosa no acórdão recorrido, eram mera sugestão de decoração e que não integravam o contrato" (e-STJ fl. 1.007/1.008).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+ EMENTA
