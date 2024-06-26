@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto por NADIA MIRIAM DE SOUZA, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+"AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. QUEDA EM ÔNIBUS. SENTENÇA DE PROCEDÊNCIA. APELO DA REQUERIDA (APELO 01). PRETENSÃO DE ATRIBUIÇÃO DE CULPA EXCLUSIVA DA VÍTIMA AFASTADA. POSSIBILIDADE DE DESCONSIDERAÇÃO FUNDAMENTADA DA PROVA PERICIAL, NA FORMA DO ART. 479 DO NCPC. APLICAÇÃO, ADEMAIS, DO PRINCÍPIO DA LIVRE CONVICÇÃO MOTIVADA DO JUIZ. PEDIDO DE PENSIONAMENTO MENSAL MANIFESTAMENTE IMPROCEDENTE. INDENIZAÇÃO DEVIDA A TÍTULO DE DANO MORAL. QUANTUM ESTABELECIDO NA SENTENÇA MANTIDO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO (DANOS MORAIS) E DO DESEMBOLSO (DANO MATERIAL). APELO PARCIALMENTE PROVIDO. QUANTUM APELAÇÃO DA AUTORA (APELO 02). ARBITRADO NA SENTENÇA A TÍTULO DE DANO MORAL MANTIDO. PEDIDO DE PENSÃO MENSAL AFASTADO POR OCASIÃO DO APELO 01. APELO DESPROVIDO" (fl. 826).
+Os embargos de declaração opostos foram rejeitados (fls. 871-877).
+No recurso especial (fls. 886-906), a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais e respectivas teses:
+(i) art. 1.022 do Código de Processo Civil - porque teria havido negativa de prestação jurisdicional;
+(ii) art. 933 do Código de Processo Civil - porque teria havido violação do devido processo legal e do contraditório;
+(iii) arts. 141 e 492 do Código de Processo Civil - porque o acórdão recorrido padeceria de vício por julgamento extra petita;
+(iv) arts. 186, 398 e 405 do Código Civil - ao argumento de que o termo inicial dos juros de mora deve coincidir com a data do evento danoso;
+(v) art. 85, § 2º, incisos I a IV, do Código de Processo Civil - pugnando pela majoração do montante fixado a título de honorários advocatícios.
+Além disso, a recorrente sustenta que o julgamento foi contrário à prova dos autos e requer a majoração do valor arbitrado a título de indenização por danos morais.
+Contrarrazões às fls. 915-959.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional (artigo 1.022, inciso II, do Código de Processo Civil), agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido".
+(AgInt no AREsp 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019 - grifou-se)
+No que se refere ao conteúdo normativo dos arts. 141 e 492 do Código de Processo Civil, não foi debatido no acórdão recorrido, apesar da oposição de embargos de declaração.
+Desatendido, portanto, o requisito do prequestionamento, nos termos da Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 211 DO STJ E 282 DO STF. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA. ART. 300 DO CPC. REQUISITOS. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado. Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+3. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+4. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+5. Não se admite a revisão do entendimento firmado pela corte de origem - reconhecimento da presença dos requisitos fumus boni iuris e do periculum in mora - quando a controvérsia demandar a análise fático-probatória dos autos, ante a incidência do óbice da Súmula n. 7 do STJ.
+6. Agravo interno desprovido".
+(AgInt no AREsp n. 2.425.718/PA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024)
+Quanto à alegada violação do art. 933 do Código de Processo Civil, o acórdão recorrido está em harmonia com a orientação desta Corte no sentido de que não há falar em decisão surpresa quando a solução adotada pelo órgão julgador está inserta no âmbito do desdobramento causal, possível e natural da controvérsia, obtida à luz do ordenamento jurídico vigente, até porque a lei deve ser de conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGENTE PENITENCIÁRIO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL - GAP. PRINCÍPIO DA NÃO SURPRESA. OBSERVÂNCIA NA HIPÓTESE. ALTERAÇÃO DO JULGADO QUE DEMANDA A ANÁLISE DO DIREITO LOCAL. SÚMULA 280/STF. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. É importante destacar que julgamento diverso do pretendido, como no presente caso, não implica ofensa aos dispositivos de lei invocados.
+2. O Superior Tribunal de Justiça entende que "não há falar em decisão-surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de ouvi-las, até porque a lei deve ser de conhecimento de todos, não podendo ninguém se dizer surpreendido com sua aplicação" (AgInt no AREsp n. 2.038.601/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 09/11/2022, DJe de 24/11/2022)" (AgInt no AREsp 2.188.575/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 19/4/2023).
+3. O Tribunal de origem concluiu que a gratificação de atividade policial - GAP havia sido revogada pela Lei 6.682/2006 do Estado de Alagoas, bem como que o subsídio do cargo de agente penitenciário já abrangia o fato de a servidora laborar em estabelecimento prisional, o que lhe garantia o pagamento do adicional de periculosidade, de modo que o pagamento da GAP, se fosse possível, iria remunerar a agente em duplicidade pelo mesmo fato gerador, que é inerente à atividade de agente prisional.
+4. Dessa forma, o acolhimento da tese recursal demandaria, necessariamente, a análise do direito local, medida vedada na via estreita do recurso especial à luz da Súmula 280/STF, aplicável ao caso por analogia.
+5. Agravo interno a que se nega provimento".
+(AgInt no AREsp n. 2.135.933/AL, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO- DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A vedação à decisão surpresa não significa que o julgador deve consultar as partes antes de cada solução dada às controvérsias apresentadas, especialmente quando já lhes foi conferida oportunidade para apresentar manifestação, tendo se estabelecido o contraditório. Precedentes.
+3. Para averiguar a procedência das alegações de que houve abusividade na relação contratual seria necessário o reexame do acervo fático-probatório constante dos autos, bem como da avença celebrada pelas partes, medidas vedadas pelas Súmulas 5 e 7 deste Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.081.183/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024 - grifou-se)
+A correspondência entre a solução adotada pela Corte local e o entendimento desta Corte também se observa em relação à alegada ofensa aos arts. 186, 398 e 405 do Código Civil.
+Isso porque é assente a jurisprudência desta Corte no sentido de que, tratando-se de responsabilidade contratual, os juros moratórios incidirão a partir da citação.
+A respeito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO REGIMENTAL. AÇÃO INDENIZATÓRIA. RELAÇÃO CONTRATUAL. JUROS MORATÓRIOS TERMO INICIAL. CITAÇÃO.
+1. Há responsabilidade contratual nos casos em que o dever jurídico violado tenha origem em contrato ou negócio jurídico firmado pelo indivíduo.
+2. Tratando-se de responsabilidade contratual, os juros moratórios incidirão a partir da citação (artigo 219 do CPC e artigo 405 do Código Civil), e a correção monetária pertinente ao valor dos danos morais, a partir de sua fixação.
+3. Agravo regimental provido para, reconsiderando decisão anterior, conhecer do recurso especial e dar-lhe provimento".
+(AgRg no REsp n. 1.229.864/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/5/2011, DJe de 1/6/2011.)
+Também não prospera a alegação de ofensa ao art. 85, § 2º, incisos I a IV, do Código de Processo Civil em virtude da fixação da verba honorária no percentual de 20% (vinte por cento) sobre o valor da condenação, o que corresponde a 10% (dez por cento) a cargo de cada parte, percentual inserto dentro dos parâmetros previstos na legislação de regência e fixado com observância dos ditames dos incisos I a IV do § 2º do mesmo dispositivo legal.
+Incide, nesses pontos, a Súmula nº 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Quanto às demais alegações, além de não terem sido indicados os dispositivos legais pertinentes, o que já atrairia ao caso a incidência da Súmula nº 284/STF, somente poderiam ter a sua procedência verificada mediante a análise de todas as circunstâncias fáticas que envolvem a demanda, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+Registre-se, por fim, que o dissídio pretoriano não restou caracterizado na forma exigida pelos artigos 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, o que inviabiliza o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
