@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por Thiago Augusto de Menezes Mendes contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional da 2ª Região, assim ementado (fl. 842):
+ADMINISTRATIVO. MILITAR DE CARREIRA. REFORMA COM PROVENTOS DO GRAU SUPERIOR INDEVIDA. INVALIDEZ NÃO DEMONSTRADA . SENTENÇA MANTIDA.
+-Trata-se de recurso de apelação interposto em face da sentença que julgou improcedente o pedido formulado contra a UNIÃO FEDERAL, que objetivava "anular ato administrativo que reformou o Autor na mesma graduação para reconhecer a revisão de sua reforma com proventos do grau hierárquico superior a teor do que disciplina o artigo 109, § 1º, alínea b da Lei 6.880/80 (Estatuto Militar)".
+-Nos termos do Estatuto dos Militares, sendo o militar de carreira considerado definitivamente inválido, em decorrência de acidente em serviço, deve ser reformado com proventos correspondentes ao grau hierárquico superior ao ocupado na ativa.
+-No caso dos autos, o autor, militar de carreira da Marinha do Brasil, foi reformado por incapacidade definitiva decorrente de acidente em serviço. Ocorre que, os elementos juntados aos autos apontam que o acidente sofrido pelo autor, conquanto tenha causado sua incapacidade definitiva para as atividades militares, não resultou em sua invalidez.
+-Considerando que não restou comprovada a invalidez do autor, incabível a concessão de reforma com proventos correspondentes ao grau hierárquico superior ao ocupado na ativa.
+-Recurso de apelação do autor desprovido, com a majoração dos honorários advocatícios em 1% sobreo valor anteriormente fixado pelo juízo a quo, suspensa sua exigibilidade em razão da gratuidade dejustiça deferida.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 106. 108, V, 109 e 110, § 1º, "b", da Lei n. 6.880/1980. Sustenta que "o relato dos fatos é comprobatório no sentido de que o Autor sofreu ACIDENTE EM SERVIÇO. Demais disso, nos documentos juntados os autos resta provado que foi submetido a diversas inspeções de saúde, sendo considerado INCAPAZ DEFINITIVAMENTE para o serviço ativo da Marinha e, conforme comprovao Laudo Pericial teve reduzida da capacidade laborativa para atividades civis" (fl. 853) e que "o militar reformado ex officio POR INCAPACIDADE DEFINITIVA, tem direito a remuneração calculada com base no posto hierarquicamente superior imediato" (fl. 855).
+Contrarrazões apresentadas (fls. 864/864).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+O Tribunal de origem decidiu a questão com base nos seguintes fundamentos (fls. 839/841):
+O art. 106, inciso II, da Lei 6.880/80 (Estatuto dos Militares), com as alterações promovidas pela Lei13.954/2019, estabelece que o militar de carreira terá direito à reforma ex officio, desde que "julgado incapaz,definitivamente, para o serviço ativo das Forças Armadas".
+Por sua vez, o art. 108, da Lei 6.880/80, prevê os fatos que podem causar a incapacidade definitiva:
+(..)
+Com relação ao valor dos proventos, o artigo 110, § 1º, da Lei 6.880/80 autoriza seu cálculo com baseno soldo do grau hierárquico imediatamente superior em caso de reforma fundada no artigo 108, inciso III (acidenteem serviço), desde que o militar seja considerado inválido, por estar impossibilitado total e permanentemente paraqualquer atividade laboral.
+Dessa forma, o que se extraí dos dispositivos supracitados é que, sendo o militar de carreiraconsiderado definitivamente inválido, em decorrência de acidente em serviço, deve ser reformado com proventoscorrespondentes ao grau hierárquico superior ao ocupado na ativa.
+Na espécie, o autor, militar de carreira da Marinha do Brasil, foi reformado por incapacidade definitivadecorrente de acidente em serviço (JFRJ, Evento 1, ANEXO11).
+Ocorre que, os elementos juntados aos autos apontam que o acidente sofrido pelo autor, conquantotenha causado sua incapacidade definitiva para as atividades militares, não resultou em sua invalidez.
+De fato, o Il. Perito judicial, corroborando os pareceres da Junta de Saúde da Marinha, assentou que oautor, ainda que apresente redução da capacidade laborativa, não se encontra inválido para o trabalho na vida civil(JFRJ, Evento 48, LAUDO1).
+Portanto, considerando que não restou comprovada a invalidez do autor, incabível a concessão dereforma com proventos correspondentes ao grau hierárquico superior ao ocupado na ativa, de sorte que merece sermantida a sentença que julgou improcedente o pedido autoral.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
