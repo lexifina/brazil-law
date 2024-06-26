@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de conflito de negativo de competência suscitado pelo Juízo Federal da 2ª Vara de Uruguaiana -SJ/RS em desfavor do Juízo de Direito do Juizado Especial Cível e Criminal de Uruguaiana - RS , extraído dos autos da ação ajuizada, originariamente, contra o Estado do Rio Grande do Sul e o Município de Uruguaiana/RS, objetivando o fornecimento de tratamento/procedimento médico de fechamento percutâneo de fístulas arteriovenosas com liberação de coils, com especialidade em cirurgia vascular, pois portador de Insuficiência Renal (CID 10 N18), aprovado pela Anvisa, mas não incluído no SUS.
+A inicial foi distribuída no Juízo estadual em face do Estado do Rio Grande do Sul e do Município de Uruguaiana, que determinou a inclusão da União no polo passivo, como litisconsorte passiva necessária, sob pena de extinção do feito, ao fundamento de que "se tratar de pretensão envolvendo tratamento incorporado às políticas públicas do SUS e integrante do Grupo cujo financiamento recai sobre o Ministério da Saúde, assente a necessidade de inclusão da União na lide, como litisconsorte passiva necessária" (e-STJ, fls. 204-207).
+Remetidos os autos para o Juízo Federal, este, por sua vez, suscitou o presente conflito por entender que o caso não atrai a inclusão da União, por não se tratar de nenhuma das três hipóteses que determinam o deslocamento da competência para a Justiça Federal ((1) tecnologia não registrada na Anvisa - Tema n. 793 do STF; (2) medicamento contra câncer - Tema n. 793 do STF); (3) medicamento padronizado, no SUS, para a doença específica da parte autora, cuja responsabilidade seja da União - Tema n. 1.234 do STF) (e-STJ, fls. 226-230).
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo o Juízo E stadual a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Publique-se. Intimem-se.
+EMENTA
