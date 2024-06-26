@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO. EXTINÇÃO DA AÇÃO POR FALTA COMPROVAÇÃO DA ALEGAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A matéria pertinente aos arts. 10 e 938, §§ 3º e 4º, do CPC não foi apreciada pela instância judicante de origem, apesar de instada a fazê-lo por meio dos competentes embargos de declaração, nem houve indicação de ofensa ao art. 1.022 do CPC no apelo raro. Incidência da Súmula 211/STJ.
+2. O Tribunal a quo extinguiu a ação ordinária subjacente, tendo em vista que a autoria não comprovou o alegado direito à não incidência da CIDE sobre a mercadoria importada (Nafta) e, considerando o decurso do tempo, não mais seria possível realizar prova pericial. A alteração dessa premissa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, sustenta ter havido ofensa ao princípio da fundamentação das decisões judiciais, uma vez que (fl. 903):
+ ..  mesmo após a oposição de Embargos de Declaração, o Egrégio SUPERIOR TRIBUNAL DE JUSTIÇA, mesmo advertido do dever que lhe impunha o artigo 93, IX, da CRFB/1988, manteve-se sem enfrentar os argumentos a partir dos quais a Recorrente demonstrou a inaplicabilidade dos óbices das Súmulas nº 7/STJ e 211/STJ.
+Esses fundamentos se mostravam aptos a alterar a conclusão do Acórdão recorrido, pois infirmariam os fundamentos aplicados pelo Egrégio SUPERIOR TRIBUNAL DE JUSTIÇA ao conhecimento e provimento do Recurso Especial, respectivamente.
+Em reforço aos seus argumentos, acrescenta que não seria o caso de incidência do Tema n. 339 do STF, ressaltando (fl. 908):
+ ..  uma vez demonstrado que o argumento em relação ao qual àquela Corte Especial foi omissa tinha aptidão para alterar a conclusão quanto aos óbices que impediram o conhecimento do recurso, vê-se que havia a obrigatoriedade de enfrentamento desses argumentos, não se podendo falar, nesse caso, na aplicação da tese fixada no Tema nº 339/STF como óbice ao seguimento do Recurso Extraordinário, uma vez que essa tese dispensa o julgador do enfrentamento apenas de argumentos que não sejam essenciais ao deslinde da controvérsia.
+Por fim, reitera os argumentos trazidos no recurso especial no tocante à comprovação da destinação da mercadoria importada e à consequente não incidência da CIDE, como também quanto ao prequestionamento da matéria e à desnecessidade do exame probatório para o deslinde da causa.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no acórdão recorrido, como se observa do seguinte trecho do referido julgado:
+A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fls. 772/775):
+ ..
+Na espécie, quanto à alegada violação aos arts. 10 e 938, §§3º e 4º do CPC, mostra-se correta a aplicação da Súmula 211/STJ, tendo em vista que a matéria não foi apreciada pela instância a quo (cf fls. 566/568). Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu.
+Ademais, esta Corte Superior aceita o prequestionamento explícito e implícito, contudo, não admite o chamado "prequestionamento ficto", que se daria com a mera oposição de aclaratórios, sem que o Tribunal de origem tenha efetivamente emitido juízo de valor sobre as teses debatidas.
+ ..
+Passo seguinte, como visto no decisum objurgado, a Corte de origem, amparada na análise do conjunto fático-probatório dos autos, terminou por extinguir a ação ordinária subjacente, tendo em vista que a autoria não comprovou o alegado direito à não incidência da CIDE sobre a mercadoria importada (Nafta) e, considerando o decurso do tempo, não mais seria possível realizar prova pericial.
+ ..
+Ao que se tem, o Sodalício Regional verificou que a parte autora não logrou comprovar nem a "natureza da nafta importada" (fl. 432), nem que "a mesma não foi empregada na produção de combustíveis, ou que este emprego, de modo residual (para as petroquímicas), não tenha sido superior a 12% do seu volume total" (fl. 432). Averiguou, ainda, não ser possível, "pelo decurso do tempo,  ..  realizar a competente prova pericial para responder as questões essenciais a comprovação do direito afirmado" (fl. 433). Daí por que concluiu ser o caso de extinção da ação por falta de comprovação do direito alegado.
+De fato, a alteração dessa premissa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Importante ainda consignar que a hipótese em tela não cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova, buscando sufragar reforma na convicção do julgado sobre o fato.
+ ..
+Assim, escorreita a decisão agravada, não estando a merecer qualquer reparo.
+Registre-se, por fim, que, tendo o voto condutor do aresto superado o voto vencido exatamente no ponto relativo à falta de comprovação pela autoria quanto à natureza da nafta importada, como mencionado alhures, em nada aproveita à parte agravante alegar que "o próprio Acórdão recorrido, a despeito de fazê-lo em voto vencido, expressamente reconheceu que a NAFTA importada pela ora Agravante não era de natureza petr oquímica" (fl. 793 - g.n.), pelo que "se podem analisar as duas teses defendidas pela ora Agravante (não incidência da CIDE-Combustíveis e/ou incidência da alíquota na forma do artigo 8º, § 8º, da Lei nº 10.865/2004)" (fls. 793/794).
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
