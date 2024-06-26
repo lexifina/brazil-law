@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 42-43):
+AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME. IMPOSSIBILIDADE. REQUISITO SUBJETIVO NÃO SATISFEITO. DECISÃO DEVIDAMENTE FUNDAMENTADA. RECURSO CONHECIDO E IMPROVIDO.
+1. Para que o condenado obtenha progressão de regime é preciso que satisfaça requisitos objetivo e subjetivo. In casu, embora o agravante tenha alcançado o requisito objetivo, entendeu o MM. Juiz como necessária a realização de exame criminológico para aferição do requisito subjetivo.
+2. A nova redação do art. 112 da Lei de Execução Penal, conferida pela Lei 10.792/03, deixou de exigir a submissão do condenado a exame criminológico, anteriormente imprescindível para fins de progressão do regime prisional, sem, no entanto, retirar a possibilidade de sua realização, excepcionalmente e de forma fundamentada, quando necessária sua confecção para a formação do convencimento.
+3. De acordo com a Súmula 439 do STJ, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada. O Supremo Tribunal Federal, por sua vez, na Súmula Vinculante nº 26, igualmente admite a possibilidade de realização de exame criminológico para avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício da progressão de regime.
+4. A realização do exame criminológico, que não é apenas uma avaliação psiquiátrica, resguarda a defesa da sociedade por buscar aferir o estado de temeridade do apenado, verificando a real possibilidade de reingresso social do reeducando.
+5. Recurso conhecido e improvido.
+Consta nos autos que o Juízo das Execuções indeferiu o pedido de progressão de regime e determinou a realização de exame criminológico, por entender não preenchido o requisito subjetivo. Interposto agravo em execução pela defesa, o Tribunal de origem negou provimento ao recurso.
+Relata a defesa que, durante o trâmite do recurso de agravo foi realizado o exame criminológico no paciente e o laudo anexado pela Unidade Prisional, opinando pela inaptidão do apenado.
+Defende que não são identificados nos pareceres os motivos plausíveis que justifiquem a conclusão.
+Afirma que o paciente possui bom comportamento para progredir de regime, reconhecido pelos documentos juntados, possuindo bom comportamento para usufruir do seu direito à progressão de regime e saída temporária.
+Assevera que Juízo das Execuções Penais determinou que novo pedido de progressão somente poderá ser feito após 6 meses da juntada do último laudo, entendendo que há violação aos direitos do paciente, pois não há previsão legal.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que seja concedida ordem e deferida a progressão de regime com base o atestado de permanência e conduta carcerária - ótima, competindo ao Juízo das Execuções implementar o benefício, nos termos do art. 112 da LEP ou, subsidiariamente, seja afastado o prazo de 6 meses, limitação temporal exigida pelo Juízo das Execuções, para que seja feito novo pedido de progressão de regime pelo paciente.
+O pedido liminar foi indeferido. As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem de habeas corpus.
+No tocante ao pleito para que seja afastada a limitação temporal de 6 meses para novo laudo, exigida pelo Juízo das Execuções e quanto aos motivos do resultado de inaptidão do exame criminológico, constata-se que os temas não foram objeto de análise pelo colegiado do Tribunal de origem, razão pela qual não se pode deles conhecer, por indevida supressão de instância. Nesse sentido: HC n. 360.484/BA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 19/6/2018, DJe de 28/6/2018; AgRg no REsp n. 1.716.705/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/4/2018, DJe de 9/4/2018.
+Pelo mesmo motivo, a questão de fundo da impetração também não pode ser conhecida, a progressão de regime do paciente, uma vez que o Tribunal de Justiça não se posicionou sobre a matéria na perspectiva lançada pelo magistrado de primeiro grau (laudo do exame criminológico desfavorável), o que impede o conhecimento do pedido pelo Superior Tribunal de Justiça.
+Ainda que assim não fosse, " a  jurisprudência do Superior Tribunal de Justiça admite que o Juiz das Execuções Criminais lastreie sua conclusão sobre a falta do requisito subjetivo para a progressão de regime em resultado desfavorável de exame criminológico" (AgRg no HC n. 821.113/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
