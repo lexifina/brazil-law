@@ -1,0 +1,14 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 435-436 (e-STJ):
+Cuidam os autos de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS MATEUS LISBOA DE ALVARENGA, denunciado pela prática do delito de tráfico de drogas, contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que denegou a ordem no writ perante ele impetrado, mantendo a prisão preventiva do ora paciente, acórdão esse cuja ementa vai abaixo transcrita:
+"EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS -POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO - CARÊNCIA DE FUNDAMENTAÇÃO CONCRETA DA DECISÃO QUE CONVERTEU A PRISÃO EM FLAGRANTE DELITO DO PACIENTE EM PREVENTIVA - INOCORRÊNCIA -REVOGAÇÃO DA CUSTÓDIA CAUTELAR - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS PREVISTOS NO ART. 312, DO CÓDIGO DE PROCESSO PENAL - GRAVIDADE CONCRETA DE UM DOS DELITOS EM TESE PRATICADOS - DIVERSIDADE E QUANTIDADE DE DROGAS APREENDIDAS - REITERAÇÃO DELITIVA -IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS -INVIABILIDADE - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO - ORDEM DENEGADA. - Ao contrário do alegado, não se verifica carência de fundamentação concreta da decisão que converteu a prisão em flagrante delito do paciente em preventiva e, por conseguinte, violação ao disposto no art. 312, do Código de Processo Penal, uma vez que decisão concisa não se confunde com decisão não fundamentada.-Presentes os requisitos que autorizam a decretação da custódia cautelar, a sua manutenção se afigura necessária ao resguardo da ordem pública, mormente diante da diversidade e da quantidade de drogas apreendidas, bem como da reiteração delitiva do paciente, restando impossibilitada, assim, a imposição de medidas cautelares diversas" (fls. 421 e-STJ).
+O impetrante sustenta, em síntese, a ausência de fundamentação idônea a justificar a custódia cautelar na espécie, que estaria amparada tão somente na gravidade abstrata do delito, não estando preenchidos os requisitos do artigo 312 do Código de Processo Penal.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva do paciente, sem prejuízo da aplicação de medidas cautelares diversas da prisão.
+Informações prestadas (e-STJ fls. 244-429).
+Parecer do Ministério Público Federal pelo não conhecimento do writ (e-STJ fls. 435-443).
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, verifica-se que, no dia 12/06/2024, a prisão preventiva do paciente foi revogada, com expedição de alvará de soltura.
+Essa circunstância evidencia a perda de objeto da impetração.
+Ante  o  exposto,  julgo  pr ejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+ EMENTA
