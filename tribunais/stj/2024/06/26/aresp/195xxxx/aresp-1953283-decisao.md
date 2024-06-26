@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 453/455).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 380):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. EMPRÉSTIMO REALIZADO POR ENTIDADE DE PREVIDÊNCIA PRIVADA. TERMO DE CONFISSÃO DE DÍVIDA FIRMADO EM JANEIRO DE 2015, COM BASE EM CONTRATO DE MÚTUO QUE TERIA SIDO FIRMADO EM 2010, MAS QUE NÃO RESTOU DEMONSTRADO. OCORRÊNCIA DE PRESCRIÇÃO. ARTIGO 206, § 5º, I, DO CÓDIGO CIVIL. O ÚNICO DÉBITO DA RÉ RECONHECIDAMENTE PENDENTE SE REFERE AO ANO DE 2005, TENDO O INSTRUMENTO DE CONFISSÃO DE DÍVIDA INCLUÍDO, POIS, DÍVIDA INEQUIVOCAMENTE PRESCRITA.
+RECURSO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 399/402).
+Nas razões do recurso especial (e-STJ fls. 404/416), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos arts. 206, § 5º, I, 360, I, 421 e 422 do CC e 784, III, do CPC, sustentando, em síntese, "que a confissão de dívida, quando assinada pelo devedor e por duas testemunhas, é exequível e válida por si só, dispensando remissão a qualquer outro dispositivo contratual" (e-STJ fl. 408).
+No seu entender, "Ainda que o débito anterior estivesse prescrito, o que não era o caso, não há impedimento para celebração de confissão de dívida. Afinal, o débito existia e a Apelada o reconheceu, manifestando espontaneamente interesse de pagá-lo em novas e diferentes condições. Trata-se da hipótese prevista no artigo 360, I do Código Civil" (e-STJ fl. 411).
+Ressaltou que "o termo inicial do prazo prescricional deve necessariamente ser a data da assinatura (29/01/2015) da Confissão de Dívida, mesmo que esta tivesse sido assinada com a dívida anterior já prescrita. O entendimento diverso adotado enseja evidente afronta à regra do artigo 206, § 5º do Código Civil. De modo que inexiste qualquer prescrição a ser declarada no caso em tela, uma vez que a ação foi distribuída em 09/09/2015" (e-STJ fl. 411).
+No agravo (e-STJ fls. 462/477), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 483/485).
+É o relatório.
+Decido.
+O acórdão recorrido manteve a sentença que declarou a prescrição da pretensão autoral com base no art. 332, § 1º, do CPC e extinguiu o processo, com exame de mérito, nos termos do artigo 487, inciso II, do CPC, pelos seguintes fundamentos (e-STJ fl. 381):
+Da análise dos autos, se vê que a presente cobrança tem como base o termo de confissão de dívida firmado entre as partes, conforme fls. 89/90 ejud, no qual se refere à contrato de mútuo firmado em 30/11/2010.
+A princípio, não se falaria em prescrição, já que o instrumento particular de confissão de dívida foi reconhecidamente firmado em 29/01/2015, antes, portanto do transcurso do prazo prescricional quinquenal do mútuo firmado em 2010, tendo a presente ação sido ajuizada em 2015.
+Contudo, a ré/apelada defende a tese de que o contrato de mútuo de fls. 86/87 ejud nunca existiu, alegando que sequer foi assinado pelas partes.
+Ora, com razão a demandada. Ainda que no termo de confissão de dívida se faça referência ao contrato supostamente firmado em 2010, o que se constata é que está apócrifo, não tendo a autora/apelada produzido prova em sentido diverso, sendo seu tal encargo.
+Assim, se o termo de confissão de dívida que dá apoio à pretensão autoral foi firmado com fundamento em contrato inexistente, o único crédito pendente se refere ao contrato firmado em 2005 (fls. 85/86 ejud), atingido, inequivocamente, pela prescrição.
+Como se vê, apesar da oposição de embargos declaratórios,  não  houve  pronunciamento  do  Tribunal  a  quo  a  respeito  dos  temas  insertos  nos  arts. 360, I, 421 e 422 do CC e 784, III, do CPC - que tratam, respectivamente, (i) da novação, (ii) da liberdade de contratar, nos limites da função social do contrato, (iii) da obrigação de os contratantes observarem os princípios de probidade e boa-fé e (iv) da caracterização do documento particular assinado pelo devedor e por 2 (duas) testemunhas como título executivo extrajudicial -, circunstância  que  impede  o  conhecimento  da  insurgência .
+Caberia à parte alegar violação do art. 1.022 do CPC, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Quanto ao art. 206, § 5º, I, do CC - que prevê o prazo prescricional de cinco anos para a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular - e dissídio jurisprudencial sobre a matéria, com razão a parte recorrente.
+Com efeito, a prescrição da pretensão de cobrança fundada em contrato de confissão de dívida é contada a partir do vencimento da última parcela. Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ESCRITURA PÚBLICA DE RENEGOCIAÇÃO E CONFISSÃO DE DÍVIDAS DECORRENTES DE CÉDULAS RURAIS. VENCIMENTO ANTECIPADO. TERMO INICIAL DA PRESCRIÇÃO. VENCIMENTO DA ÚLTIMA PARCELA. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. MULTA MORATÓRIA.
+1. "O vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela" (AgInt no REsp 1.408.664/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19.4.2018, DJe de 30.4.2018).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.764.476/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/10/2021, DJe de 8/11/2021.)
+Cabe anotar que a jurisprudência do STJ reconhece a autonomia do contrato de confissão de dívida, ainda que oriundo de outros instrumentos contratuais, constituindo título executivo extrajudicial dotado dos requisitos de certeza, liquidez e exigibilidade, não havendo necessidade de comprovação da causa debendi.
+Tal entendimento encontra-se consolid ado na Súmula n. 300/STJ, in verbis: "O instrumento de confissão de dívida, ainda que originário de contrato de abertura de crédito, constitui título executivo extrajudicial" (Segunda Seção, julgado em 18/10/2004, DJ de 22/11/2004).
+É certo que a jurisprudência desta Corte reconhece que "A renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores" (Súmula n. 286/STJ).
+Mas isso não retira a certeza, a exigibilidade e a liquidez do instrumento de confissão de dívida.
+Confiram-se, a propósito, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. CONTRATO DE CONFISSÃO DE DÍVIDA. EXIBIÇÃO DOS CONTRATOS ORIGINÁRIOS. DESCUMPRIMENTO. EXECUÇÃO. EXTINÇÃO. INAPLICABILIDADE.
+1. Ação de embargos à execução.
+2. O instrumento de confissão de dívida constitui título executivo extrajudicial, sendo que a possibilidade de discussão dos contratos que lhe antecedem não retira a sua força executiva.
+3. Ainda que exigível a apresentação dos contratos anteriores mediante provocação dos embargantes devedores e, não sendo estes apresentados pelo exequente, a questão não se resolve na extinção da execução, haja vista que a revisão dos contratos que deram origem ao título executivo não tem o condão de retirar-lhe a liquidez, certeza e exigibilidade, senão de abater da execução os valores resultantes de eventual procedência dos embargos na revisão dos contratos anteriores. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.461.761/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO DE CÉDULA DE CRÉDITO BANCÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. SÚMULA 284/STF. CDC. NÃO INCIDÊNCIA. AUSÊNCIA DE TODOS OS CONTRATOS QUE DÃO ORIGEM À CÉDULA. EXTINÇÃO DA EXECUÇÃO. DESCABIMENTO. RECÁLCULO DA DÍVIDA. ADOÇÃO DE TAXAS MÉDIAS DE MERCADO. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+5. A ausência de apresentação dos contratos anteriores que deram origem à renegociação não retira a executoriedade do instrumento executado, apenas impõe o recálculo da dívida de acordo com as taxas médias de mercado, divulgadas pelo BACEN, praticadas nas operações da mesma espécie dos contratos não juntados, salvo se a taxa cobrada for mais vantajosa para o devedor. Precedentes.
+6. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.082.760/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Além disso, no caso concreto, a suposta prescrição da pretensão de cobrança do primeiro contrato, diante da declaração de invalidade do segundo ajuste, não impede a cobrança do novo instrumento, por meio do qual o próprio devedor admite a existência da dívida supostamente prescrita, configurando, na verdade, um fato do interessado incompatível com a prescrição, ou seja, uma renúncia tácita à prescrição, nos termos previstos no artigo 191 do CC.
+C onsta do acórdão recorrido que "o instrumento particular de confissão de dívida foi reconhecidamente firmado em 29/01/2015" (e-STJ fl. 381). A demanda, por sua vez, foi ajuizada em 9/9/2015, antes, portanto, do transcurso do prazo quinquenal de prescrição.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial a fim de afastar a declaração de prescrição, determinando o retorno dos autos à origem, para que, superada essa questão, prossiga no julgamento do feito.
+Publique-se e intimem-se.
+ EMENTA
