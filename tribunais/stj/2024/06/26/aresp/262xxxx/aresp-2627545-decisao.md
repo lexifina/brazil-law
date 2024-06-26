@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por EZAQUEU MOREIRA DOS SANTOS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do Estado do Paraná.
+Consoante se extrai dos autos, o agravante foi pronunciado como incurso nas sanções do art. 121, caput, c/c o art. 14, inciso II, do Código Penal (fls. 325-362), o que foi mantido pelo Tribunal local no julgamento do recurso em sentido estrito (fls. 448-451).
+No recurso especial, interposto com base no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação dos arts. 5º, inciso LVII, da Constituição Federal; e 155, 315, § 2º, inciso IV e 419, do Código de Processo Penal, "frente a valoração da prova, já que os argumentos trazidos pela defesa e relevantes na decisão do presente processo não foram integralmente analisados", pretendendo a desclassificação da conduta por ausência da intenção de matar.
+Apresentadas contrarrazões (fls. 488-492), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n. 282, STF, por ausência de prequestionamento (fls. 496-498).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso especial (fls. 556-557).
+É o relatório. DECIDO .
+Tendo em vista os argumentos expendidos pelo agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O agravante pleiteia a desclassificação do crime para o delito de lesão corporal.
+Entretanto, a tal respeito o acórdão de origem está fundamentado nos seguintes termos (fl. 153):
+"4.Incontroversas, na espécie, autoria e materialidade delitivas, não emerge, do material cognitivo amealhado, prova irrefutável da alegada ausência de intenção homicida.
+Em Juízo, Ezaqueu permaneceu em silêncio (mov. 91.5-AP).
+Valdenir contou que, no dia do fato, o Irmão (Ezaqueu) "estava muito triste em razão do falecimento da Esposa e até falava em tirar a própria vida"; tentou acalmá-lo, mas ele, "transtornado", sacou um revólver e efetuou dois disparos em sua direção; ferido, correu para casa "buscar ajuda"; Ezaqueu, no entanto, perseguiu-o e tentou alvejá-lo novamente, porém a "arma falhou" (mov. 91.2- AP).
+No Prontuário Médico (mov. 3.16-AP) registrou-se que a Vítima apresentava"ferimento por arma de fogo no ombro direito, com orifícios de entrada e de saída".
+5. Como se vê, os elementos de convicção até aqui reunidos conferem plausibilidade à narrativa contida na denúncia: há indícios de que o Recorrente teria atirado contra Valdenir, não consumando o homicídio por circunstâncias alheias a sua vontade.
+O instrumento utilizado na prática delitiva (arma de fogo) e o local em que foi a Vítima atingida ( próximo a região vital - pescoço) impedem o descarte, desde logo, da possibilidade de ter o Acusado agido com intenção homicida. Não é o iudicium accusationis, por certo, a sede adequada para perquirir-se, com profundidade, a disposição anímica do agente na execução do crime."
+Da análise do trecho acima transcrito, verifico que o Tribunal de origem declinou, de forma explícita e, ainda, baseando-se nas provas dos autos, as razões pelas quais concluiu pela manutenção da sentença de pronúncia.
+Na hipótese, torna-se inviável o conhecimento do pleito referente à desclassificação, porque a pretensão da Defesa exigiria revolvimento fático probatório incompatível com a via eleita, ao teor da Súmula n. 7, STJ.
+Sendo assim, entender de modo contrário ao estabelecido pelo Tribunal local e concluir pela ocorrência de crime não doloso contra a vida, como pretende o ora recorrente, demandaria o revolvimento, no presente recurso, do material fático probatório dos autos, inviável nesta instância.
+A propósito, dentre vários julgados deste Tribunal:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. CONTROVÉRSIA SOBRE O ELEMENTO SUBJETIVO. JULGAMENTO PERANTE O TRIBUNAL DO JÚRI. PLEITO DE IMPRONÚNCIA. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte, que é firme no sentido de que a incerteza acerca da ocorrência do animus necandi impõe que o deslinde da controvérsia seja dirimido perante o Tribunal do Júri, juiz natural da causa.
+1.1. As instâncias ordinárias concluíram que foram desferidos vários golpes de faca na vítima, além de constar a afirmativa do próprio recorrente de que só não consumou o ato porque o artefato entortou.
+Assim, o enfrentamento da tese segundo a qual o recorrente não estaria imbuído de animus necandi, ensejando assim a desclassificação do crime, compete ao Tribunal do Júri, sob pena de indevida usurpação de sua competência constitucional.
+2. Caso em que o acolhimento do pleito de impronúncia demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+3. Agravo regimental desprovido." (AgRg no AgRg no AREsp n. 2.285.149/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/5/2023).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. DESCLASSIFICAÇÃO PARA LESÃO CORPORAL. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência desta Corte, "a desclassificação da infração penal de homicídio tentado qualificado para lesão corporal leve só seria admissível se nenhuma dúvida houvesse quanto à inexistência de dolo" (AgRg no AgRg no REsp n. 1.313.940/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 23/4/2013, DJe de 30/4/2013), sob pena de afronta à soberania do Júri.
+2. No caso, a pretendida revisão do julgado, com vistas à desclassificação do delito, por alegada ausência de "animus necandi", demandaria revolvimento do acervo fático-probatório dos autos, vedado na via eleita, a teor da Súmula n. 7/STJ.
+3. Agravo regimental improvido.  (AgRg  no  AREsp  2.233.211/MG,  Sexta  Turma,  Rel.  Ministro  Jesuíno Rissato (Desembargador Convocado do TJDFT,  DJe  19/5/2023).
+Também não é caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Logo, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula n. 7, STJ.
+Tenha-se em conta, a propósito, o entendimento já adotado no Superior Tribunal de Justiça de que:
+"a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Terceira Turma, Rel. Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+"a valoração da prova, no âmbito do recurso especial, pressupõe contrariedade a um princípio ou a uma regra jurídica no campo probatório, ou mesmo à negativa de norma legal nessa área. Tal situação não se confunde com o livre convencimento do Juiz realizado no exame das provas carreadas nos autos para firmar o juízo de valor sobre a existência ou não de determinado fato; cujo reexame é vedado pela Súmula n.º 07/STJ" (AgRg no AREsp 160.862/PE, Quinta Turma , Rel. Ministra Laurita Vaz, DJe 28/02/2013).
+Ante o exposto, com fulcro no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. AUSÊNCIA DE DOLO. PLEITO DE DESCLASSIFICAÇÃO. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7, STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
