@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Ramom de Oliveira - condenado por roubo simples a 4 anos de reclusão, em regime inicial aberto, e a 10 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina (fls. 234/239), comporta pronto acolhimento.
+Com efeito, busca a impetração o redimensionamento da pena imposta - na condenação proferida na Ação Penal n. 5006450-67.2020.8.24.0020 (fls. 135/140 - da 1ª Vara Criminal da comarca de Criciúma/ SC) -, com o reconhecimento da atenuante da confissão espontânea, ao argumento de que a confissão é evidente, na medida em que o Paciente admitiu, explicitamente, que subtraiu a carteira da vítima, conforme apontou o próprio acórdão (fl. 9).
+Do atento exame dos autos, tem-se que há ilegalidade na segunda fase, pois não foi aplicada a atenuante da confissão, a despeito de ficar consignado que o réu confessou o crime, ainda de forma parcial - que ao ver que havia um certo valor na carteira, a subtraiu; que simplesmente retirou a carteira da mão da vítima, não tendo nenhum contato físico; que a vítima estava embriagada e, quando o interrogado pegou a carteira de sua mão, se desequilibrou um pouco; que teve uma certa facilidade em retirar a carteira da mão de Pedro, pelo fato de estar bêbado (fl. 136) -, em desacordo com o entendimento jurisprudencial sumulado desta Corte Superior, para a qual quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal (Súmula 545/STJ).
+Entretanto, não há alteração no quantum de pena, uma vez que, na primeira fase a reprimenda foi fixada no mínimo legal (fl. 139), então, não se aplica redução na segunda fase abaixo do mínimo (Súmula 231/STJ).
+Em razão disso, concedo liminarmente a ordem apenas para reconhecer a incidência da atenuante da confissão, sem, contudo, alterar o quantum de pena imposta ao paciente na condenação proferida na Ação Penal n. 5006450-67.2020.8.24.0020, da 1ª Vara Criminal da comarca de Criciúma/SC.
+Intime-se o Ministério Público estadual.
+Publiq ue-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO SIMPLES. DOSIMETRIA. SEGUNDA FASE. CONFISSÃO PARCIAL. ATENUANTE. SÚMULA 545/STJ. APLICABILIDADE. PENA INALTERADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
