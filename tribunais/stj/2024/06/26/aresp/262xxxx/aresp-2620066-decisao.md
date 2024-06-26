@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - CASSI.
+O apelo extremo foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo assim ementado:
+"PLANO DE SAÚDE OBRIGAÇÃO DE FAZER NEGATIVA DE CUSTEIO DANO MORAL Autor que se encontrava em tratamento de linfoma difuso de grandes células B, com indicação de terapia celular denominada CAR-T, com o medicamento Kymriah (Tisagenlecleucel) - Falecimento do autor no curso do processo - R. sentença que julgou procedente o pedido inicial, para condenar a ré a custear a medicação indicada, bem como em danos morais - Recurso da ré, que insiste na recusa de cobertura e pelo indeferimento dos danos morais Alegação de que o medicamento não preenche os requisitos das Diretrizes de Utilização (DUT) do rol da ANS - Recente entendimento do C. Superior Tribunal de Justiça a respeito da taxatividade do rol da ANS Excepcionalidade de cobertura para os casos em que inexistiu substituto terapêutico eficaz no atual estágio da doença em que ela se encontrava, já incorporado ao rol da ANS Preenchimento ademais, do requisito previsto no inciso I, do § 13 do art. 10 da Lei nº 9.656/98, alterada pela Lei nº 14.454/22 - Medicação registrada na Anvisa, o que lhe confere a qualidade, eficácia e segurança, e integrava o tratamento indicado ao autor Danos morais incontestes, pois decorrentes da negativa indevida de cobertura para tratamento de uma grave doença, em situação na qual o autor já se encontrava especialmente fragilizado Efetivo e justificado transtorno psíquico Manutenção do quantum indenizatório fixado na r. sentença (R$ 10.000,00) - Valor que atende aos princípios da razoabilidade e da proporcionalidade - Sentença mantida na integralidade Honorários recursais devidos - RECURSO DESPROVIDO." (e-STJ fl. 533).
+Os embargos declaratórios foram rejeitados (e-STJ fls. 655/658).
+No seu arrazoado, a parte recorrente alega a violação do artigo 10 da Lei nº 9.656/1998, sob o argumento de que o rol da Agência Nacional de Saúde Suplementar (ANS) é taxativo, além de não ser abusiva sua negativa de cobertura do tratamento pleiteado pelo recorrido.
+Com contrarrazões (e-STJ fls. 662/676).
+O recurso especial não foi admitido na origem, vindo a esta Corte o presente recurso.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se a analisar o recurso especial.
+A insurgência não merece provimento.
+De início, conforme o aresto recorrido, o recorrido
+"(..) foi diagnosticado com câncer, "linfoma não Hodgkin difuso de grandes células B" (medula óssea, peritônio e estômago), um tipo de câncer "agressivo e de rápida progressão", conforme relatório médico que junta aos autos.
+Afirmou que fora submetido como primeira linha de tratamento com a quimioterapia padrão com aplicações de seis ciclos de R-CHOP, mas os exames apontaram progressão da doença (refratariedade primária); fez resgate com esquema R-DHAOx, mas já apresentando nova distensão abdominal e desconforto; fez exames que demonstraram aumento das lesões pelo linfoma, configurando refratariedade quanto ao tratamento de segunda linha.
+Assim, fora-lhe prescrito, com urgência, terapia com células denominada de CAR- T, com o medicamento Kymriah (Tisagenlecleucel), salientando que o fármaco está devidamente registrado na ANVISA (nº registro:1.0068.1180.0011-0) para utilização intravenosa e indicada em bula para o tratamento da doença que o acomete." (e-STJ fls. 535/536-grifou-se).
+Nesse contexto, a jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que "As operadoras de plano de saúde têm o dever de cobrir fármacos para tratamento contra o câncer, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS" (AgInt no REsp 2023129/SC, Relator Ministro Humberto Marins, DJe 5/6/2024).
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO ANTINEOPLÁSICO. TRATAMENTO DE CÂNCER. RECUSA ABUSIVA. ROL DA ANS. NATUREZA. IRRELEVÂNCIA. CUSTEIO. OPERADORA. HIPÓTESES. USO DOMICILIAR OU AMBULATORIAL. RESTRIÇÕES. RECUSA INDEVIDA. SAÚDE DA PACIENTE. PRECARIEDADE. AGRAVAMENTO. DANOS MORAIS. CARACTERIZAÇÃO.
+1. Discute-se nos autos acerca da obrigatoriedade de cobertura pelo plano de saúde de medicamento indicado ao beneficiário para tratamento de câncer.
+2. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+3. É obrigatório o custeio pelo plano de saúde de medicamento antineoplásico para tratamento de câncer, sendo irrelevante o questionamento acerca da natureza taxativa ou exemplificativa do rol da ANS.
+4. De acordo com a jurisprudência do Superior Tribunal de Justiça, a operadora de plano de saúde deve ofertar fármaco antineoplásico oral registrado na Anvisa, ainda que se trate de medicamento off-label.
+5. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às situações correntes de inadimplemento contratual.
+6. Existem casos em que há dúvida jurídica razoável na interpretação de cláusula contratual, não podendo ser reputada ilegítima ou injusta, violadora de direitos imateriais, a conduta de operadora que optar pela restrição de cobertura sem ofender, em contrapartida, os deveres anexos do contrato, tal qual a boa-fé, o que afasta a pretensão de compensação por danos morais.
+7. Na hipótese, o acórdão recorrido ressaltou haver previsão contratual para a cobertura do procedimento e a precariedade e possibilidade de agravamento do quadro clínico da paciente. Assim, constata-se a inexistência de dúvida jurídica razoável e resta caracterizado o abalo moral decorrente da recusa indevida que enseja indenização.
+8. Agravo interno não provido."
+(AgInt no REsp n. 2.098.737/PB, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024-grifou-se)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos. Precedentes.
+2. No âmbito do REsp 1.733.013/PR, esta Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo.
+2.1. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+2.2. A conclusão a que chegou o Tribunal de origem, relativa à ocorrência de danos morais indenizáveis, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. O valor da reparação por danos morais estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 1.530.481/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024-grifou-se)
+Incide portanto, na espécie, o óbice da Súmula 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 18% (dezoito por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
