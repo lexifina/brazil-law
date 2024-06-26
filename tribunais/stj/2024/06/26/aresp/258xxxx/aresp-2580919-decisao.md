@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LUIZELLA GIARDINO BARBOSA BRANCO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: revisional de contrato bancário ajuizada pela agravante em face de BANCO BRADESCO S/A.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+REVISIONAL DE CONTRATO. REQUERIMENTO PARA PRODUÇÃO DE PROVA PERICIAL.
+INDEFERIMENTO. MAGISTRADO QUE É O DESTINATÁRIO DA PROVA, CABENDO-LHE AFERIR SOBRE A NECESSIDADE DE SUA PRODUÇÃO. INTELIGÊNCIA DO ART. 370 DO CPC/2015. ENFRENTAMENTO DA QUESTÃO MERITÓRIA QUE DISPENSA A REALIZAÇÃO DA PROVA PLEITEADA. POSSIBILIDADE DE JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA NÃO EVIDENCIADO. FINANCIAMENTO DE VEÍCULO. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. POSSIBILIDADE. CAPITALIZAÇÃO DE JUROS. PREVISÃO NO CONTRATO. ABUSIVIDADE NÃO DEMONSTRADA. COMISSÃO DE PERMANÊNCIA. NÃO PREVISTA EM CONTRATO E NÃO COBRADA. APELO CONHECIDO E NÃO PROVIDO.1. O Código de Processo Civil prevê a possibilidade de julgamento antecipado da lide, quando as questões de mérito submetidas à apreciação do juiz forem unicamente de direito ou, sendo de direito e de fato, não houver necessidade de dilação probatória (Art. 355).2. O enfrentamento da legalidade de cláusulas contratuais não depende do prévio concurso técnico de Contabilista, por consubstanciar atividade cognitiva reservada ao Julgador e limitada ao cotejo das condições impugnadas comas normas aplicáveis. O Julgador, diante do princípio da livre admissibilidade da prova, pode indeferir as provas inúteis ao seu convencimento, conforme preconiza o art. 370, § único, do CPC/15,sem que isso configure cerceamento de defesa ou violação ao princípio da ampla defesa.3. Não incide a limitação de juros de 12% ao ano, salvo hipóteses legais previstas e quando forem flagrantemente exorbitantes, máxime porque as instituições financeiras são reguladas pela Lei nº.4.595/64.4. A capitalização mensal de juros, desde que expressamente prevista, é permitida nos contratos celebrados após a edição da MP 1.963-17/2000,de 30/03/2000.5. Não houve cobrança da comissão de permanência cumulada com outros encargos moratórios. APELO CONHECIDO E NÃO PROVIDO.
+Decisão de admissibilidade do TJ/BA: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional;
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera as razões lançadas no recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional;
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
