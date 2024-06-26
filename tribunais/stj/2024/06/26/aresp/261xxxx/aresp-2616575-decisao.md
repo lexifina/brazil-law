@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado por CELG DISTRIBUICAO S.A. - CELG D contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 182):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SÚMULA 410 DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. CITAÇÃO PESSOAL E INTIMAÇÃO. MEIO ELETRÔNICO. POSSIBILIDADE DE COBRAR A MULTA INICIAL FIXADA PARA O CASO DE DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER. MAJORAÇÃO DA MULTA. NECESSIDADE DE NOVA INTIMAÇÃO PESSOAL.
+I. Nos termos da Súmula 410 do colendo Superior Tribunal de Justiça, "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+II. No caso em tela, através do ato de citação pessoal e intimação, promovido por meio eletrônico, em 19/08/2022, a ré/agravada foi pessoalmente convocada para integrar a relação processual de origem, assim como cientificada acerca da decisão que estabelece obrigação de fazer, prazo para cumprimento e multa em caso de descumprimento, podendo a multa em tela ser cobrada sem a necessidade de intimação pessoal por Oficial de Justiça.
+III. O egrégio Tribunal de Justiça do Estado de Goiás possui precedente no sentido de que o mero comparecimento espontâneo da parte ré supre a necessidade de prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação.
+IV. Pode ser cobrada a multa inicialmente fixada, não o valor referente a sua majoração, pois não foi a ré/agravada intimada pessoalmente acerca da majoração, o que afronta o enunciado da Súmula 410 do colendo Superior Tribunal de Justiça.
+V. A decisão recorrida deve ser reformada para, diante do reconhecimento do descumprimento pela ré/agravada da obrigação de fazer determinada em sede de liminar, ser aplicada a multa cominada na decisão inicial, sem a necessidade de nova intimação pessoal.
+AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO A QUO REFORMADA.
+Opostos embargos declaratórios, foram rejeitados (fls. 212/220).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 927 do CPC, aduzindo que o Tribunal de origem desconsiderou a necessidade de prévia intimação pessoal do seu representante para fins de aplicação de multa por descumprimento de obrigação de fazer, deixando de aplicar a Súmula 410/STJ.
+Foram ofertadas contrarrazões (fls. 662/670).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta acolhimento.
+Ao apreciar a controvérsia recursal, a Corte local asseverou que (fls. 184/186):
+Sabe-se que, nos termos da Súmula 410 do colendo Superior Tribunal de Justiça, "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+In casu, estabelecida, em sede de liminar, obrigação de fazer, prazo para cumprimento e multa em caso de descumprimento (movimentação 11 dos autos originários), a ré/agravada foi citada pessoalmente e, no mesmo ato, intimada da decisão, por meio eletrônico (movimentações 18, 19 e 20 dos autos originários).
+A citação pessoal, à luz do artigo 246 do Código de Processo Civil/2015, com redação dada pela Lei Federal nº 14.195, de 26 de agosto de 2021, deve ser feita preferencialmente por meio eletrônico. Somente se frustrada a citação por meio eletrônico é que deve ser essa realizada pelo correio, por oficial de justiça, pelo escrivão ou chefe de secretaria, se o citando comparecer em cartório, ou por edital.
+Do mesmo modo, a intimação, com suporte no artigo 270, caput, do Código de Processo Civil/2015, deve ser realizada, sempre que possível, por meio eletrônico, apenas sendo realizada pelo escrivão ou chefe de secretaria, pelo correio ou por oficial de justiça se frustrada aquela (artigos 273 e 275 do Código de Processo Civil/20153 ).
+Nesse toar, através do ato de citação pessoal e intimação, promovido por meio eletrônico, em 19/08/2022, a ré/agravada foi pessoalmente convocada para integrar a relação processual de origem, assim como cientificada sobre a decisão que estabelece obrigação de fazer, prazo para cumprimento e multa em caso de descumprimento.
+Após a citação e intimação eletrônicas, inclusive, a ré/agravada opôs agravo de instrumento questionando a decisão liminar de origem, sendo inequívoco que ela tomou ciência da obrigação, do prazo para cumprimento e da multa estabelecida para eventual descumprimento.
+A toda evidência, não há se falar em desconhecimento por parte da ré/agravada acerca da astreinte, sendo perfeitamente possível, diante do descumprimento da obrigação de fazer determinada, a cobrança da multa fixada.
+O egrégio Tribunal de Justiça do Estado de Goiás possui precedente no sentido de que o mero comparecimento espontâneo da parte ré supre a necessidade de prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação.
+ ..
+Logo, equivoca-se o magistrado singelo ao desconsiderar a citação pessoal e intimação realizadas por meio eletrônico, em 19/08/2022, como marco inicial do prazo estipulado para cumprimento da obrigação de fazer, sob pena de multa, determinando nova intimação pessoal da ré/agravada, por oficial de justiça, para cobrança da astreinte.
+Da leitura do acórdão recorrido, verifica-se que o Tribunal a quo concluiu pela possibilidade de aplicação da multa cominatória sem a necessidade de nova intimação da devedora, por entender que a primeira notificação se mostrou regular, tendo em vista que os arts. 246 e 270 do CPC estabelecem que a citação/intimação pessoal deve ser feita preferencialmente por meio eletrônico, o que ocorreu no caso em apreço.
+Ocorre que o recurso especial não impugnou tal fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DEMONSTRAÇÃO QUE O PROSSEGUIMENTO DA EXECUÇÃO ACARRETARÁ PREJUÍZO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284/STF.
+1. A ausência de impugnação, nas razões do Recurso Especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. A tese ora sustentada pela insurgente - de que não houve o trânsito em julgado da decisão que encerrou a competência do juízo de recuperação judicial - não foi acompanhada da necessária argumentação, tampouco houve a indicação de dispositivos legais aptos a sustentá-la, o que atrai a incidência da Súmula 284/STF.
+3. No mais, consoante o entendimento do STJ, os novos contornos dados pela Lei 14.112/2020, por expressa determinação legal, têm "incidência imediata aos processos pendentes, respeitados, naturalmente, os atos processuais já praticados" (REsp 2.057.372/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 13.4.2023).
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.436.714/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/4/2024, DJe de 2/5/2024.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE CANCELAMENTO DE PROTESTO C/C INDENIZAÇÃO POR DANOS MORAIS. ISS. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+1. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, assim, na Súmula 283/STF.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.764.341/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
