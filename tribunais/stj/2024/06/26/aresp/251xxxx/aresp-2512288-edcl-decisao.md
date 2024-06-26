@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por São Martinho S/A, contra decisão de fls. 7.104/7.106, que determinou a remessa dos autos ao Supremo Tribunal Federal em razão da afetação à sistemática da repercussão geral do tema pertinente à hipótese em tela, RE 1.412.069/PR-RG - Tema 1.255/STF.
+Sustenta a embargante, em resumo, que "o STJ já tem um posicionamento consolidado sobre isso, que está plenamente vigente, o que está materializado no julgamento do Tema nº 1.076 do STJ, que tem efeitos vinculantes. Em outras palavras, esse tema ainda não foi revisto pelo Supremo Tribunal Federal, e qualquer Recurso Especial sobre isso, SEQUER poderia ser conhecido, pois a questão passou a ser vista na ÓTICA CONSTITUCIONAL" (fl. 7.118).
+Sem impugnação (fl. 7.129).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Vigora no Superior Tribunal de Justiça o posicionamento de que "é irrecorrível a decisão que determina a devolução dos autos à Corte de origem a fim de aplicação do juízo de conformidade e, eventualmente, de retratação, de matéria submetida ao rito da repercussão geral" (AgInt no AREsp n. 2.368.262/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU O PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (TEMA 1.255/STF, RE 1.412.069/PR). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.039 E 1.040 DO CPC/2015). ATO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE.
+1. O ato de sobrestamento e remessa dos autos à origem, para a devida observação do rito de demandas repetitivas ou entendimento a ser definido pelo STF com repercussão geral reconhecida, não possui conteúdo decisório, razão por que é irrecorrível. Precedentes: AgInt nos EDcl no REsp n. 1.917.433/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023; AgInt no REsp n. 2.038.249/AL, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/8/2023, DJe de 17/8/2023; AgInt nos EDcl no REsp n. 2.015.460/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/5/2023, DJe de 17/5/2023.
+2. Ademais, o Tema 1.255/STF abrange a hipótese de se admitir a fixação de honorários de advogado por meio da apreciação equitativa, para fins de restringir a aplicação dos §§ 2º e 3º do art. 85 do CPC, o que abarca a matéria discutida nos autos.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no AgInt no REsp n. 2.096.114/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+PROCESSUAL CIVIL. RECURSO REPETITIVO. DEVOLUÇÃO DOS AUTOS. JUÍZO DE CONFORMAÇÃO. IRRECORRIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível agravo interno contra decisão que determina a devolução dos autos ao Tribunal de origem para a realização do juízo de conformação, nos moldes do art. 1.040 do CPC/2015.
+2. Agravo interno não conhecido.
+(AgInt no AgInt no REsp n. 1.670.905/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/9/2023, DJe de 2/10/2023.)
+Confiram-se, ainda, dentre inúmeros outros, os seguintes decisórios unipessoais: EDcl no REsp n. 2.093.157, Ministra Regina Helena Costa, DJe de 22/03/2024; EDcl no AREsp n. 2.074.772, Ministro Gurgel de Faria, DJe de 21/03/2024; EDcl no AREsp n. 2.350.907, Ministro Herman Benjamin, DJe de 11/03/2024.
+Assim, na linha da jurisprudência desta Corte Especial não se mostra possível a interposição de qualquer recurso contra o decisum ora alvejado, inclusive o de embargos de declaração.
+Logo, imperioso o retorno dos autos ao Tribunal de origem a fim de que promova o competente juízo de conformação com o que assentado pela Corte Suprema no mencionado recurso de observância obrigatória pelos tribunais pátrios, nos termos dos arts. 1.030 e 1.040 do CPC, sem o que não se tem por exaurida a instância ordinária para fins de processamento dos recursos excepcionais (arts. 102, III, e 105, III, da CF).
+Realmente, só haverá esgotamento das instâncias ordinárias, para fins de cabimento dos apelos extraordinários, após o Tribunal de origem realizar o juízo de conformidade - o qual consiste no rejulgamento da causa - à luz do posicionamento firmado pelos Tribunais Superiores (STF/STJ).
+Outrossim, apenas caberá a subida do recurso especial ao STJ, posteriormente à realização do juízo de conformidade com repercussão geral, se houver resíduo não alcançado pela afetação, pois se a matéria discutida no apelo coincidir integralmente com aquela tratada na repercussão geral, o Recurso Especial (REsp) deverá ser declarado prejudicado.
+ANTE O EXPOSTO, não conheço dos embargos de declaração.
+Cumpra-se a determinação contida na decisão de fls. 7.104/7.106, com a remessa do caderno processual eletrônico ao Sodalício de origem, para conformação com o Tema 1.255/STF.
+Publique-se.
+EMENTA
