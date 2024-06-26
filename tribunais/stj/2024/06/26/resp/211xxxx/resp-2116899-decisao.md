@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LUIS PAULO ROQUE LAGE com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG em julgamento da Apelação Criminal n. 1.0000.23.127519-9/001.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 121, § 2º, I, c/c o art. 14, II, e art. 61, I, todos do Código Penal - CP (homicídio qualificado tentado), à pena de 10 anos e 8 meses de reclusão, em regime inicial fechado (fls. 647/653).
+Recurso de apelação interposto pela defesa foi parcialmente provido para "mantida a condenação de Luís Paulo Roque Lage nas iras do artigo 121,§ 2º,I c/c art. 14, II, c/c art.61, I, todos do Código Penal, concretizar sua reprimenda no patamar de 10 (dez) anos e 06 (seis) meses de reclusão, a ser cumprida em regime inicial fechado" (fl. 751).
+Em sede de recurso especial (fls. 760/769), a defesa apontou violação ao art. 65, III, "d", do CP, porque o TJ manteve o afastamento da atenuante da confissão espontânea.
+Afirmou que, ainda que parcial, a confissão espontânea deve ser considerada para atenuar a reprimenda na segunda fase da dosimetria, nos termos da Súmula n. 545 do do Superior Tribunal de Justiça - STJ.
+Requer o provimento do recurso, com a incidência da confissão espontânea e redução da pena imposta.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 774/776).
+Admitido o recurso no TJ (fls. 779/781), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls. 795/798).
+É o relatório.
+Decido.
+Sobre a violação ao art. 65, III, "d", do CP, o TJMG manteve a o afastamento da atenuante, nos seguintes termos do voto do relator:
+"Desse modo, desfavorável apenas os antecedentes do agente, majoro a pena-base do acusado em 1/8 (um oitavo) passando para 13(treze) anos e 06(seis)meses de reclusão.
+Na segunda fase, pugna a Defesa pelo reconhecimento da atenuante da confissão espontânea (art. 65, III, "d", do Código Penal), salientando que segundo o entendimento do STJ "a confissão, ainda, que qualificada, deve ser considerada pelo juízo sentenciante, na medida em que a confissão sempre atenua a pena".
+Com a devida vênia, razão não assiste à Defesa.
+É que, a meu ver, in casu, o acusado não confessou a prática do delito de homicídio, já que, embora tenha afirmado que golpeou a vítima com uma faca, alegou que sua intenção não era matá-la e sim desarmá-la.
+Como se vê, houve, em verdade, a chamada "confissão qualificada", em que o agente, apesar de admitir a prática do delito, o faz com ressalvas, alegando em seu favor a existência de excludente de ilicitude ou de culpabilidade, ou, ainda, buscando descaracterizar o tipo legal, algo que, segundo a doutrina majoritária, impede o reconhecimento da atenuante da confissão espontânea.
+Quanto à definição do que vem a ser confissão espontânea, trazemos à baila o escólio de Guilherme de Souza Nucci, in verbis:
+"Confessar, no âmbito do processo penal, é admitir contra si por quem seja suspeito ou acusado de um crime, tendo pleno discernimento, voluntária, expressa e pessoalmente, diante da autoridade competente, em ato solene e público, reduzido a termo,a prática de algum fato criminoso" (Código Penal Comentado -10ª Edição. Revista, atualizada e ampliada. Ed. RT:2010, p.442/443)
+Sobre o tema, confira-se também a lição de Mirabete:
+"A pena é atenuada quando o agente confessa espontaneamente, perante a autoridade, a autoria do crime. Beneficia-se o autor do ilícito como estímulo à verdade processual, não se exigindo, como na lei anterior, que o ilícito seja de autoria ignorada ou imputada a outrem. Não basta, porém, a simples confissão para que se configure a atenuante; exige a lei que seja ela espontânea, de iniciativa do autor do crime, e que seja completa e movida por um motivo moral, altruístico, demonstrando arrependimento. Na jurisprudência, porém, tem-se aceitado a atenuante quando o acusado confessao crime em seu interrogatório. De outro lado, não se configura a atenuante quando o agente, confessando a autoria, alega causa justificante ou dirimente" (MIRABETE, Julio Fabbrini, Código Penal Interpretado, 2. ed. -São Paulo : Atlas, 2001, p. 420 -grifei).
+Dessa forma, o d. Juízo primevo agiu corretamente em não reconhecer em favor do acusado a circunstância atenuante da confissão espontânea.
+ .. .
+Por outro lado, necessária a manutenção da agravante da reincidência (art. 61, I, do Código Penal), tendo em vista a existência de váriascondenações com trânsito em julgado anterior aos fatos ora em análise.
+Assim, na segunda fase, exaspero a pena à fração de 1/6 (um sexto), tornando provisória a pena do acusado em 15 (quinze) anos e 09 (nove) meses de reclusão." (fls. 748/750)
+Tal entendimento encontra-se em desarmonia com a jurisprudência desta Corte Superior que, nos termos da Súmula n. 545/STJ, orienta no sentido de que: " o  réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada. Assim, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada, deve incidir a atenuante prevista no art. 65, inciso III, alínea d, do Código Penal" (AgRg no AREsp n. 2.279.202/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe de 29/5/2023).
+No mesmo sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. CONFISSÃO. REQUISITOS. PESSOALIDADE E ENDEREÇAMENTO À AUTORIDADE COMPETENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior confere ampla eficácia de atenuante à admissão do fato delitivo pelo réu, seja ela parcial, qualificada, extrajudicial, retratada ou mesmo não espontânea, ainda que não haja sido utilizada como fundamento para a condenação.
+2. É da essência da confissão a pessoalidade e o seu endereçamento à autoridade competente, razão por que não configura a atenuante o relato de testemunha que reporta suposta admissão do fato pelo agente, negada por ele em inquérito policial e em Juízo.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.094.380/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO E FIXAÇÃO DE REGIME PRISIONAL MENOS GRAVOSO. TEMAS JÁ EXAMINADOS EM SEDE DE HABEAS CORPUS. REITERAÇÃO DE PEDIDOS. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO SEM IMPACTO NA PENA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. Quanto à controvérsia recursal atinente à incidência da causa especial de diminuição de pena prevista no artigo 33, §4º, da Lei 11.343/2006, assim como em relação ao regime prisional, cumpre registrar que houve pedido idêntico formulado em favor do ora recorrente no HC 744530/SP, de minha relatoria, o qual também foi impetrado contra o mesmo acórdão impugnado neste recurso. Nesse contexto, verifica-se a existência de inadmissível reiteração de pedido o que obsta o conhecimento do recurso especial quanto ao ponto.
+2. A confissão do agente, ainda que retratada em juízo, deve ela ser considerada como circunstância atenuante na segunda fase da dosimetria da pena, nos termos da Súmula n. 545/STJ. Na hipótese, considerando que a pena-base foi fixada no mínimo legal, fica mantida a reprimenda na segunda fase da dosimetria, ante a inadmissibilidade da sua redução abaixo do mínimo legal, nos termos do enunciado n. 231 da Súmula do STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.297.928/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Desse modo, ainda que tenha sido qualificada, ou não tenha sido utilizada para respaldar a sentença condenatória, deve a confissão do agente ser apreciada como circunstância atenuante na segunda fase da dosimetria da pena, nos termos da Súmula n. 545/STJ.
+Passo, portanto, à nova dosimetria da pena:
+Na primeira fase mantenho a pena-base em 13 anos e 6 meses de reclusão.
+Na segunda fase, reconheço a incidência da confissão espontânea qualificada, razão pela qual realizo a compensação parcial com a reincidência. Isso porque a jurisprudência desta Corte Superior tem se posicionado no sentido de que a confissão espontânea parcial ou qualificada justifica a aplicação da redução da pena em fração inferior a 1/6. Assim, faço o acréscimo da reprimenda na fração de 1/12, levando a pena intermediária para 14 anos, 7 meses e 15 dias de reclusão.
+Na terceira fase, mantenho a redução da pena, pela tentativa, na fração de 1/3, concretizando a pena em 9 anos e 9 meses de reclusão.
+Mantenho a fixação do regime inicial fechado, nos termos do art. 33, § 2º, "a", do CP, mantenho, ainda, os demais termos do acórdão.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento, e redimensiono a pena imposta para 9 anos e 9 meses de reclusão, em regime inicial fechado.
+Publique-se.
+Intimem-se.
+EMENTA
