@@ -1,0 +1,14 @@
+DECISÃO
+Em análise, pedido de distinção apresentado por TANGO MUSICA E INSTRUMENTOS LTDA em face de decisão que determinou o retorno dos autos até o julgamento do Tema 1.255/STF.
+Em suas razões, a parte requerente aduz, essencialmente, que "não estamos diante da hipótese de valor da causa exorbitante - valor da causa R$533.310,95, visto ser ela base de cálculo dos honorários sucumbenciais postualdos diante da extinção da execução fiscal por violação de princípios constituicionais pela Fazenda Pública que, se fixados nos parâmetors mínimos do artigo 85, §§ 3º e 5º, do Código de Processo Civil, nos parâmetros mínimos, corresponderiam a R$48.312,87" (fl. 163).
+É o relatório.
+Passo a decidir.
+Nos termos do art. 1.037, § 9º, do CPC/15, "demonstrando distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial ou extraordinário afetado, a parte poderá requerer o prosseguimento do seu processo".
+Todavia, verifica-se que a irresignação da parte requerente não merece acolhimento, tendo em vista que a questão veiculada no recurso especial, de fato, guarda relação com tese reconhecida em sede de repercussão geral pelo Supremo Tribunal Federal, mais precisamente com o Tema 1.255/STF, cuja questão submetida a julgamento é: "Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes".
+É o que se verifica da leitura do seguinte excerto do recurso especial:
+O v. acórdão recorrido negou vigência ao artigo 85, § 3º, do CPC, pois, pela literalidade da lei e pela jurisprudência pacífica do STJ, a fixação dos honorários advocatícios por equidade somente ocorre nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o que não é o caso dos autos de origem, cujo valor da causa é de R$533.310,96, tendo o acórdão recorrido contrariamente decidido sob o fundamento de que: "No caso, o valor da causa apontado na petição inicial e o proveito econômico a ser experimentado fatores que deveriam ser adotados como base de cálculo dos honorários sucumbenciais seriam bastante significativos, como visto. Assim, a fixação de honorários de acordo com os percentuais legais se revela, no caso concreto, desproporcional, de modo que comporta determinação por equidade, inclusive para que não haja enriquecimento sem causa da parte requerente (cf. REsp nº 1.864.385)"
+Os honorários fixados pelo E.TJSP (R$5.000,00) correspondem a 0 ,93% do valor dado à causa. Portanto, os honorários em questão foram quantificados em patamar ínfimo (fl. 86).
+Desse modo, não constatada a presença de distinguishing, deve ser mantida a decisão que determinou a devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento do referido Tema 1.255/STF.
+Isso posto, indefiro o pedido de distinção.
+Intimem-se.
+EMENTA
