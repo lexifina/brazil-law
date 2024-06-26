@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 1.066):
+APELAÇÃO. Plano de saúde. Autor portador de Transtorno Psicogeriátrico Demência com Corpus de Lewy, tendo indicação médica para o tratamento em atendimento domiciliar ("home care"). Negativa por plano de saúde administrado pela ré CASSI, sob fundamento de não constar do rol da ANS. Sentença de parcial procedência. Inconformismo da requerida.
+Preliminar de ausência de legitimidade e Impugnações ao valor da causa e à justiça gratuita rejeitadas. Mérito. Contrato de autogestão. Análise do contrato à luz do Código Civil e da Lei n. 9.656/98.
+Aplicação das Súmulas 90 e 102 desta Corte. Negativa à cobertura que se afigura abusiva. Apelante que não demonstrou que em substituição ao procedimento prescrito pelo médico do apelado, exista outro eficaz, efetivo e seguro já incorporado à lista. Negar o procedimento seria negar o próprio tratamento da doença, bem como vigência ao contrato estabelecido entre as partes.
+Necessidade da presença de profissional de enfermagem 24h conforme expressa indicação médica. Hipótese que não se trata de simples cuidador. Dano moral configurado e valor mantido em R$ 8.000,00. Recurso a que se nega provimento.
+Em suas razões de recurso especial (e-STJ, fls. 1.078-1.090), a agravante alegou violação ao art. 485, VI, do CPC/2015.
+Sustentou, em síntese, não ser parte legítima para figurar no polo passivo da ação, pois somente firmou com a empregadora do ora recorrido "convênio para utilização apenas da rede credenciada da operadora convenente pelos usuários/beneficiários de planos de saúde firmados com a outra convenente, obedecidos os contratos de planos de saúde firmados pelas operadoras e seus respectivos participantes" (e-STJ, fl. 1.086).
+O Tribunal de origem não admitiu o recurso especial, o que levou a insurgente à interposição de agravo.
+Brevemente relatado, decido.
+De início, observa-se que, ao julgar a apelação, a Corte estadual destacou as seguintes particularidades do caso concreto (e-STJ, fls. 1.069):
+Com relação às preliminares arguidas pela ré, adoto os bem deduzidos fundamentos da D. Procuradoria, que adoto como razão de assim decidir:
+"Inicialmente, não pode ser acolhida a preliminar de ilegitimidade passiva arguida pela apelante, visto que, diante do convênio de reciprocidade firmado com o Serpro, cumpre a ela autorizar junto a sua rede credenciada, atendimentos e procedimentos disponíveis.
+Do que se depreende da análise desses fundamentos, estão eles lastreados nos elementos fático-probatórios registrados no processo. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, sobretudo em razão de a Corte paulista ter atestado a legitimidade passiva da operadora, consignando que o "convênio de reciprocidade firmado com o Serpro cumpre a ela autorizar, junto à sua rede credenciada, atendimentos e procedimentos disponíveis" (e-STJ, fl. 1.069), demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos vedados em recurso especial, consoante enunciado das Súmulas 5 e 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. PLANO DE SAÚDE. ILEGITIMIDADE PASSIVA. REVISÃO. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
