@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADÃO GONZAGA PINTO E OUTROS, à decisão de fls. 865/871, que conheceu do agravo de COOPUS PLANOS DE SAÚDE LTDA. para dar parcial provimento ao recurso especial, a fim de afastar da condenação a compensação por danos morais.
+Nas razões dos declaratórios, sustentam os embargantes a ocorrência de omissões na decisão impugnada, porquanto deixou de se pronunciar sobre as preliminares suscitadas em contrarrazões.
+Acrescenta que:
+"(..)
+Com efeito, os Embargantes arguiram as prejudiciais de falta de prequestionamento; de mera menção de ofensa genérica aos artigos citados; de não questionamento quanto à violação ao artigo 1.022 do NCPC; e de a reanálise do caso exigir o necessário revolvimento do conjunto fático-probatório contido nos autos, o que é inviável na via excepcional.
+(..)
+Registre-se, ainda, que, a operadora deixou de infirmar, especificamente, os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, o que prejudica o conhecimento do Recurso de Agravo em Recurso Especial, visto atrair a incidência do enunciado sumular n.º 182/STJ." (fls. 882/885)
+Quanto à configuração de danos morais, busca que se
+"(..) reconheça que o grave quadro de saúde do paciente exigiu sua internação imediata por 02 (duas) vezes - mediante solicitação médica, cuja situação tinha caráter de emergência e/ou urgência - que dispensa a observância de carência, salvo o prazo de 24hs; que a recusa descabida, abusiva e ilícita de cobertura pelo plano de saúde é passível de indenização por dano moral, por ter colocado em sério risco a vida do segurado, bem como causado grande sofrimento e aflição psicológica em seus genitores, que tiveram que assumir dívida que deveria ser suportada exclusivamente pela operadora, cuja reanálise dessas questões exige a necessária incursão no contexto fático-probatório produzido nos autos, cujo proceder é vedado na via extraordinária, o que acaba por ensejar o restabelecimento do r. entendimento adotado pelo e. Tribunal de origem quanto aos danos imateriais, com a consequente majoração da verba honorária de sucumbência devida aos defensores dos Embargantes, ante os consistentes argumentos tecidos acima, emprestando-lhes efeitos infringentes" (fl. 894).
+A parte contrária apresentou impugnação (fls. 900/901 e 903/904).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+Com efeito, a decisão embargada não padece de nenhum dos vícios ensejadores dos declaratórios enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+Quanto às preliminares arguidas em contrarrazões ao recurso especial e ao respectivo agravo, impende asseverar que o agravo em recurso especial satisfez todos os pressupostos de admissibilidade, por isso foi conhecido. Efetivamente, houve impugnação de todos os fundamentos da decisão de inadmissão, não sendo caso de incidência da Súmula nº 182/STJ. Por outro lado, quanto à parte relacionada aos danos morais na petição do recurso especial, houve também o devido conhecimento, dado o cumprimento dos requisitos de admissibilidade no ponto. Na ocasião, os dispositivos de lei tidos por violados foram individualizados, bem como foram feitas argumentações coerentes com a matéria devolvida e prequestionada. Ademais, a questão controvertida não dependia do reexame de fatos e provas, havendo delimitação suficiente do quadro fático-probatório no acórdão recorrido, de forma que não teriam incidência as Súmulas nºs 5 e 7/STJ. Isso porque se trata de matéria de direito, sendo caso de provimento recursal.
+No que toca ao mérito recursal, mais precisamente, com relação à configuração do dano moral, da simples leitura das razões dos embargos de declaração, verifica-se o nítido propósito da parte embargante de obter o reexame de questão já decidida, mas à luz da tese invocada na petição dos declaratórios, na busca, portanto, de efeitos infringentes, o que é manifestamente inadmissível nos embargos declaratórios.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC/2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão nos termos requeridos no âmbito do recurso especial.
+3. Embargos de declaração rejeitados." (EDcl no REsp nº 1.392.245/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe 18/2/2020)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
