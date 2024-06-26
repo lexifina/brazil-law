@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7 do STJ (e-STJ fls. 425/426).
+O acórdão recorrido está assim ementado (e-STJ fl. 383):
+APELAÇÕES CÍVEIS. Ação indenizatória por danos morais. Transporte de passageiros. Agressão física no interior da estação de metrô. Sentença de parcial procedência que condenou a empresa ré ao pagamento de R$ 50.000,00 a título de indenização por danos morais, R$ 20.000,00 a título de indenização por danos estéticos, pensão mensal vitalícia de 1 salário mínimo, incluído 13º salário. Apelo de ambas as partes. Fato estranho à atividade de transporte. Equiparação ao fortuito externo, excludente de responsabilidade do transportador. Ausência do nexo de causalidade. Responsabilidade objetivada requerida afastada. Sentença reformada para julgar improcedente a ação. Recurso do autor para que o valor da pensão fosse pago em parcela única que restou prejudicado. RECURSO DA RÉ PROVIDO. RECURSO DO AUTOR PREJUDICADO.
+Nas razões do recurso especial (e-STJ fls. 398/409), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 212, IV, 334, IV, 734, 735, 932 e 949 do CC/2002, 302 e 378 do CPC/2015, 1º, IV, 40, 41 e 54, III, IV, V e VI, do Decreto n. 1.832/1996, requerendo que "seja conhecido que o dano estético, moral e material imposto ao autor é indenizável, tendo então havido ofensa à norma pertinentes, supramencionadas, anulando-se então o v. Acórdão e determinando ao Tribunal que arbitre um valor a ser pago a título de indenização, considerando-se a pretensão da autora na inaugural  ..  e que sobre o valor da indenização sejam aplicadas as devidas correções e juros legais desde a data do fato" (e-STJ fls. 408/409),
+Foram oferecidas contrarrazões (e-STJ fls. 412/424).
+No agravo (e-STJ fls. 429/440), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 443/451).
+É o relatório.
+Decido.
+A recorrente apontou, de forma genérica, a ofensa aos arts. 212, 334, 932 e 949 do CC/2002, 302 e 378 do CPC/2015, 1º, 40, 41 e 54 do Decreto n. 1.832/1996, sem indicar, todavia, de que modo o dispositivo teria sido ofendido ou como a Corte local lhe teria negado vigência. Desse modo, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+O Tribunal de origem, ao analisar o recurso, não fez menção aos arts. 212, 334, 932 e 949 do CC/2002, 302 e 378 do CPC/2015, 1º, 40, 41 e 54 do Decreto n. 1832/1996, indicado nas razões recursais, conforme se infere do voto condutor do acórdão recorrido.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+Assim, incidentes as Súmulas n. 282 e 356 do STF.
+Com base no conjunto probatório, o TJSP afirmou que a relação configura fortuito externo, sob a seguinte motivação (e-STJ fl. 388):
+Note-se que a prova dos autos demonstrou que a agressão decorreu de uma motivação concreta e muito específica relacionada a fato totalmente estranho à prestação do serviço público, qual seja: o autor teria se negado a dar esmolas ao terceiro que o empurrou.
+Nesse contexto, o que se verifica é que não houve relação fática alguma com o serviço prestado pela ré CPTM, tampouco pertinência temática com a exploração do serviço de transporte, o que, inegavelmente, se caracteriza como fortuito externo.
+Assim, por não guardar relação (direta ou indireta) com o serviço de transporte realizado pela empresa concessionária, tampouco se referir aos riscos próprios da atividade por esta desenvolvida, na qual não se inclui a segurança dos usuários contra ataques perpetrados por indivíduo estranho a esse serviço, configura fortuito externo e exclui o nexo de causalidade, sem o qual torna-se incabível a responsabilidade civil.
+A Corte local afastou o nexo de causalidade, não estando configurado a responsabilidade civil da transportadora. Para modificar o acórdão nesse ponto, seria preciso reexaminar fatos e provas, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
