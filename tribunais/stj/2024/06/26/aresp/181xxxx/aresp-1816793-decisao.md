@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de afronta ao art. 1.022 do CPC/2015 e da incidência das Súmulas n. 83 e 211 do STJ (e-STJ fls. 416/418).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 79):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO AGRAVADA QUE HOMOLOGOU OS CÁLCULOS DE ATUALIZAÇÃO DO DÉBITO E COMPENSAÇÕES REALIZADOS PELO CONTADOR JUDICIAL. OFENSA À COISA JULGADA E PRECLUSÃO PRO JUDICATO. INOCORRÊNCIA. CÁLCULOS E DECISÃO QUE OBEDECEM AOS COMANDOS ESTABELECIDOS PELO STJ, POR OCASIÃO DO JULGAMENTO DO RECURSO REPETITIVO RESP Nº 1.111.117/PR. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA NOS CASOS EM QUE O TÍTULO JUDICIAL EXEQUENDO É EXARADO EM MOMENTO ANTERIOR AO CC/2002 E, NA EXECUÇÃO, DETERMINA A INCIDÊNCIA DE JUROS PREVISTOS NOS TERMOS DA LEI NOVA. MATÉRIA QUE DEVE SER ANALISADA PELO JUIZ. COMPENSAÇÃO DE VALORES REALIZADAS SEGUNDO O QUE CONSTA DOCUMENTADO NOS AUTOS. DECISÃO MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 283/287).
+Nas razões do recurso especial (e-STJ fls. 299/331), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 1.022, I e II, do CPC/2015, sustentando que "o v. acórdão deixou de se manifestar sobre questões relevantes, quais sejam: a) inexistência de similitude com o Recurso Repetitivo 1.111.117/PR; b) existência de acordo celebrado entre as partes e da cláusula 1.4 do acordo; c) preclusão da inserção do INPC como indexador; d) inexistência de iniciativa da parte; e) impossibilidade de decisão surpresa" (e-STJ fl. 314),
+(ii) arts. 10, 421 e 502 do CPC/2015, defendendo que o debate acerca da incidência da taxa Selic no caso concreto está precluso e que sua aplicação resulta em ofensa à coisa julgada e decisão surpresa.
+Registra que, "em 19.12.2007, as partes celebraram acordo, no qual restou expressamente estipulado, dentre as diversas obrigações, que a Sperafico CONFESSA SER DEVEDORA DE R$11.146.364,36 (clausula 1.5) e que na hipótese de rescisão do acordo, A EXECUÇÃO TERIA PROSSEGUIMENTO, NO VALOR ATUALIZADO DA DÍVIDA E CALCULADO DE ACORDO COM OS EMBARGOS À EXECUÇÃO" (e-STJ fl. 316).
+Aduz que "o acordo celebrado, frise-se após o advento do CC 2002, fez lei entre as partes, sendo que com o seu inadimplemento, a dívida retornou a seu status quo e nos termos previamente definidos", destacando que "consta expressamente na cláusula 1.4 do acordo que: "O presente acordo não se constitui em novação de dívida e nem implica em alteração das condições previstas no título objeto da presente ação, sendo que, o seu não cumprimento acarretará a plena e total reconstituição da dívida."" (e-STJ fl. 318), e
+(iii) arts. 406 do CC e 161 do CTN, argumentando que "a aplicação da Taxa Selic para correção do débito exequendo (..) está preclusa, pois a determinação de aplicação do INPC  juros foi ratificada no acordo celebrado entre as partes, o qual não contemplou a Selic, sendo certo que desde a sua celebração em 2007 não houve impugnação quanto ao índice de correção, não mais podendo, agora, ser alterado o que ficou deliberado" (e-STJ fl. 323).
+Defende, por conseguinte, que "as partes convencionaram a forma de apuração da dívida exequenda, sendo certo que o acordo celebrado entre as partes não pode ser ignorado" (e-STJ fls. 324/325).
+No agravo (e-STJ fls. 430/463), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 474/475 (e-STJ).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão acerca de alegações pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, quais sejam:
+(i) da existência de acordo celebrado entre as partes em dezembro/2017, posteriormente, portanto, ao advento do CC/2002, no qual foi ratificada a aplicação do "INPC  juros" e cujos termos não foram impugnados e devem ser observados, estando precluso o debate acerca da incidência da taxa Selic no caso concreto, e
+(ii) da disposição contida na cláusula 1.4 do acordo celebrado entre as partes, que, segundo o agravante, estabelece que ""O presente acordo não se constitui em novação de dívida e nem implica em alteração das condições previstas no título objeto da presente ação, sendo que, o seu não cumprimento acarretará a plena e total reconstituição da dívida."" (e-STJ fl. 318).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão respectivo para que o recurso seja novamente apreciado.
+Assim, constatado o vício apontado pela parte recorrente e considerando tanto a necessidade de prequestionamento da questão quanto a impossibilidade de incursão fático-probatória em sede especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
