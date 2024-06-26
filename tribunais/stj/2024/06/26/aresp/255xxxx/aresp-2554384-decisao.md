@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por considerá-lo extemporâneo (e-STJ fls. 399/401).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 313):
+EMENTA: APELAÇÃO CÍVEL -AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C PEDIDO INDENIZATÓRIO -COMPRA E VENDA DE IMÓVEL -TRANSFERÊNCIA DE COTAS DE EMPRESA -IMPOSSIBILIDADE -EVICÇÃO. -Nos termos do art.171, do Código Civil, são anuláveis os negócios jurídicos efetuados com vício resultante de erro, dolo, coação, estado de perigo, lesão ou fraude contra credores. -Resta configurado o descumprimento contratual pela impossibilidade de se efetuar a transferência das cotas negociadas, em razão de defeito oculto incidente sobre o bem. -É devida a restituição ao autor do preço negociado pelas cotas da empresa, as quais deveriam ter sido entregues livres e desembaraçadas de quaisquer ônus.
+Os embargos de declaração foram rejeitados, com aplicação de multa (e-STJ fls. 335/339).
+Nas razões do recurso especial (e-STJ fls. 359/373), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos arts. 166, 171, parágrafo único, 421 e 421-A, III, da Lei n. 10.406/2002.
+No agravo (e-STJ fls. 404/408), afirma a tempestividade do especial.
+Contraminuta apresentada (e-STJ fls. 458/463).
+Às fls. 447/448 (e-STJ), a Dra. Bruna Luísa Fonseca, advogada do recorrido, requereu a suspensão do processo, com base no art. 313, IX, do CPC/2015, em virtude do nascimento de seu filho em 22/11/2023.
+É o relatório.
+Decido.
+O prazo do recurso especial é de 15 (quinze) dias úteis, a teor do disposto nos arts. 219, caput, e 1.003, § 5º, do CPC/2015.
+De acordo com a certidão de fl. 340 (e-STJ), no dia 02/06/2023 (sexta-feira), o advogado da parte recorrente efetuou a leitura do acórdão recorrido.
+Por conseguinte, o período para interposição do recurso especial iniciou em 05/06/2023 (segunda-feira), exaurindo-se em 23/06/2023 (sexta-feira).
+Não obstante a alegada existência de suspensão do expediente nos dias 08/06/2023 e 09/06/2023, em virtude do feriado local de Corpus Christi, caberia à parte comprovar a causa legal de suspensão ou interrupção do referido prazo, para fins de demonstração da tempestividade do recurso, que apenas foi interposto no dia 26/06/2023 (e-STJ fl. 376).
+Além disso, "no julgamento da Questão de Ordem no REsp n. 1.813.684/SP (DJe de 03/2/2020) a Corte Especial firmou compreensão de que a comprovação de feriado é restrita ao feriado de segunda-feira de carnaval e se aplica aos recursos interpostos até a data da publicação do referido acórdão - DJe de 18/11/2019" (AgInt nos EAREsp n. 1.535.862/PB, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 24/8/2021, DJe 26/8/2021).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL (CORPUS CHRISTI). COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 2015. REGRA MITIGADA APENAS PARA O FERIADO DE SEGUNDA-FEIRA DE CARNAVAL. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL. QO NO RESP 1.813.684/SP, REL. MINISTRA NANCY ANDRIGHI, CORTE ESPECIAL, JULGADA EM 03/02/2020, DJE 28/02/2020. MODULAÇÃO IGUALMENTE RESTRITA. TESE REAFIRMADA. EDCL NA QO NO RESP 1.813.684/SP, JULGADOS EM 19/05/2021. INCIDÊNCIA DA SÚMULA N.º 168 SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. "Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada." (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017; sem grifo no original).
+2. A Corte Especial, no julgamento da QO no REsp 1.813.684/SP, Rel. Ministra NANCY ANDRIGHI, julgada em 03/02/2020, DJe 28/02/2020, entendeu que "a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais", restrição aplicável ao alcance da modulação dos efeitos do decisum, o que foi reafirmado por ocasião do julgamento dos EDcl na QO no RESP 1.813.684/SP, em sessão realizada em 19/05/2021.
+3. O entendimento firmado pela Corte Especial, portanto, é de que a única exceção à regra da obrigatoriedade de comprovação de feriado local no ato de interposição do recurso é o da segunda-feira de carnaval, excluídos os demais feriados, sendo que a modulação dos efeitos dessa decisão também ficou adstrita à essa única hipótese - aplicável aos recursos interpostos até a publicação do referido acórdão (DJe de 18/11/2019).
+(..)
+6. Agravo interno desprovido.
+(AgInt no AgInt nos EAREsp n. 1.191.613/RJ, relatora Ministra Laurita Vaz, Corte Especial, julgado em 24/8/2021, DJe de 1/9/2021.)
+No caso, o especial foi protocolizado em 26/06/2023, o que impede a comprovação posterior de eventuais causas suspensivas ou interruptivas do prazo recursal.
+E ainda, "a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública" (AgInt nos EDcl no AREsp n. 1.765.698/SP, Relator Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/4/2021, DJe 15/4/2021).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL ANTE A SUA INTEMPESTIVIDADE. INSURGÊNCIA DA PARTE RÉ.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC.
+1.1. De acordo com a jurisprudência desta E. Corte, a teor do disposto no art. 5º, §§ 1º a 3º, da Lei 11.419/2006, c/c art. 231, V, do CPC, "a intimação realizada por meio eletrônico considera-se efetivada: a) no dia em que o intimado realizar a consulta eletrônica ao teor da intimação; b) no primeiro dia útil seguinte à consulta realizada em dia não útil; c) na data do término do prazo de 10 dias corridos da data do envio da intimação, quando não ocorrer consulta" (AgInt nos EDcl no REsp n. 1.909.524/AM, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022), sendo certo que o início do prazo para a interposição de recurso se dá no primeiro dia útil seguinte à data em que a intimação eletrônica foi efetivada. Precedentes.
+2. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+3. No caso dos autos, a parte recorrente não demonstrou, no momento da interposição do recurso especial, a suspensão dos prazos de modo a justificar a data em que foi manejado o recurso, ocorrendo, assim, a preclusão consumativa.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.308.574/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+A parte não se desincumbiu de tal ônus, pois não comprovou, no ato de interposição do especial, as causas suspensivas ou interruptivas do prazo recursal, incluindo eventuais feriados locais.
+Logo, é de rigor manter a intempestividade do especial pelos fundamentos aqui enumerados.
+Prejudicado o pedido de fls. 447/448 (e-STJ).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
