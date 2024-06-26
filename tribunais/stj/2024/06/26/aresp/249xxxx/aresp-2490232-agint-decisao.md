@@ -1,0 +1,27 @@
+DECISÃO
+Em decorrência do agravo interno interposto pela parte agravante (fls. 742/746 e-STJ), reconsidero a decisão da Presidência de fls. 735/738 e-STJ. Passo ao exame do recurso.
+Trata-se de agravo interposto por ALESSANDRA MEIRELES PINTO CAVALCANTE contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (fl. 699):
+AÇÃO DE DESPEJO COM COBRANÇA LOCAÇÃO RESIDENCIAL Autor que pretende a decretação do despejo e o pagamento de aluguéis em aberto e de benfeitorias eventualmente necessárias no imóvel Sentença de parcial procedência, com afastamento do pleito relativo às benfeitorias Recurso da ré Preliminar de cerceamento de defesa Afastamento Prova documental constante dos autos suficiente para elucidar o ponto controvertido, a afastar a admissibilidade da prova oral (art. 443, I, do CPC) Controvérsia relativa à natureza da posse da ré no imóvel (locação ou prévia cessão gratuita de direitos possessórios) Acordo de reconhecimento de posse firmado em outubro de 2017 entre o autor e a proprietária tabular que não menciona a ré como ocupante, em contrariedade com a tese defensiva Assinatura de contrato de locação pela ré em 2020 Implausível justificativa de que houve contrato simulado apenas para propiciar a alteração de titularidade da unidade de consumo de energia elétrica Não só a alteração de titularidade poderia ser comprovada por outros meios, mas também a própria ré juntou faturas de 2018 em que já aparece como titular Alegação de erro quanto ao negócio que tampouco possui mínima credibilidade Relação locatícia reconhecida Inadimplemento configurado, com decretação do despejo Sentença mantida Honorários recursais devidos Rejeição do requerimento de condenação da ré por litigância de má-fé, pois ausente dolo de induzir o Juízo a erro em relação ao recebimento de notificação extrajudicial RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 711/713).
+Nas razões do especial, aponta a recorrente violação dos artigos 5º, 6º, 9º, 10 e 378 do Código de Processo Civil; argumentando, em síntese, que o Tribunal de origem deveria reconhecer a nulidade do processo, em razão do julgamento da apelação em meio à incapacidade superveniente da parte recorrida.
+O recurso especial não foi admitido na origem (fls. 721/723), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem concluiu que a nulidade não deveria ser reconhecida, uma vez que o recurso foi julgado em favor de quem afetado supostamente pela incapacidade, não havendo cogitar-se, portanto, de prejuízo.
+A propósito, extraio do acórdão que julgou os embargos de declaração (fls. 712/713):
+Verifica-se que, após a regular interposição do recurso de apelação e apresentação de contrarrazões, a embargante noticiou a incapacidade processual do embargado, por alegada internação compulsória em clínica para tratamento de alcoolismo (fls. 689-690). Apesar disso, inexiste qualquer irregularidade processual, porquanto a embargante não apresentou qualquer comprovação da suposta incapacidade da contraparte e, por cautela, a decisão de fls. 691, intimou o embargado por seu advogado, que se quedou inerte.
+Cumpre salientar que, independentemente da veracidade da internação em clínica médica, não houve prejuízo ao embargado, pois o recurso de apelação interposto pela embargante foi integralmente desprovido por esta Câmara.
+A orientação adotada no acórdão recorrido não destoa da jurisprudência desta Corte, segundo a qual a suspensão do processo acarretada pela incapacidade superveniente de uma das partes, para efeito de regularização, só gera nulidade relativa, devendo ser comprovado o prejuízo para que seja reconhecida.
+A propósito:
+ ..
+3. Consoante jurisprudência desta Corte, a nulidade processual decorrente do descumprimento da regra prevista no art. 313,I, do NCPC, que impõe a suspensão do feito para regularização processual em caso de falecimento de qualquer das partes, tem caráter relativo, sendo válidos os atos praticados, desde que não haja prejuízo (a ser devidamente demonstrado).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.387.683/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. FALECIMENTO DA PARTE. SUSPENSÃO DO PROCESSO. NULIDADE RELATIVA.
+1. A eventual inobservância do artigo 313, inciso I, § 1º, do Código de Processo Civil, que determina a suspensão do processo pelo falecimento de uma das partes, enseja nulidade relativa, sendo válidos os atos processuais subsequentes desde que não haja prejuízo que deve ser alegado e provado pela parte interessada no momento processual oportuno.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no REsp n. 1.816.749/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
