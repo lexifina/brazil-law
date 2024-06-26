@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MUNICÍPIO DE SÃO CAETANO, com fundamento na Súmula  284/STF  e na inexistência de violação aos arts. 489, § 1º, VI e 1.022, II, do CPC, nos seguintes termos:
+Inicialmente, constata-se que a alegada violação aos artigos 85, § 4º, II, 926 e 927, III, do CPC deu-se de forma genérica, não tendo a parte recorrente desenvolvido, de forma clara e objetiva, os argumentos aptos a demonstrar especificamente a suposta contrariedade.
+Dessa forma, observa-se claramente a deficiência na fundamentação recursal em relação ao referido ponto, atraindo-se a incidência da Súmula nº 284 do e. STF 1 , também aplicável em sede de recurso especial (fl. 270).
+ ..
+De outra sorte, percebe-se que, com clareza e harmonia entre suas proposições, o acórdão recorrido contém motivação suficiente para justificar o decidido, evidenciando enfrentamento exaustivo das questões relevantes para o deslinde - com segurança jurídica - da controvérsia agitada na causa (fl. 271).
+A parte agravante alega que, embora arguida omissão em embargos de declaração, estes restaram improvidos, o que ensejou a interposição de recurso especial, inadmitido com fundamento na Súmula 284/STF. Defende a inaplicabilidade do referido óbice, argumentando que "as questões levantadas no recurso foram amplamente debatidas, possibilitando chegar nos dispositivos legais e toda a controvérsia legal necessária para uma possível apreciação no Superior Tribunal de Justiça". Sustenta que "em todas as peças processuais protocoladas, tratou sob o tema, esclarecendo as controversas contíguas, não havendo, deste modo, razões para a incidência da súmula deste Eg. Tribunal já descrita" (fl. 290).
+Certificado o decurso de prazo para resposta ao agravo (fl. 304) .
+É o relatório.
+Passo a decidir.
+As alegações deduzidas pela parte agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à não incidência  da Súmula 284/STF. Foi apresentada argumentação genérica quanto à inaplicabilidade do referido óbice. Desse modo, a parte não observou o princípio da dialeticidade e a necessária impugnação efetiva e fundamentada, o que atrai a aplicação analógica da Súmula 182/STJ.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NÃO CONHECIMENTO DO RECURSO ESPECIAL. APLICAÇÃO DAS SÚMULAS 7 E 182 DO STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, INCISO I, DO RISTJ - AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo Interno interposto de decisão monocrática que não conheceu do Recurso Especial, fundamentando-se na aplicação da Súmula 7 do STJ, pela natureza eminentemente fática da controvérsia, e na ausência de impugnação específica dos fundamentos da decisão agravada, conforme exigência do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do RISTJ.
+2. O recorrente, ao pleitear a reforma da decisão que aplicou as mencionadas súmulas, não logrou demonstrar, de forma específica e concreta, a desconstituição dos fundamentos que sustentaram a decisão que inadmitiu o Recurso Especial, mantendo-se assim os óbices sumulares.
+3. É imprescindível, segundo a jurisprudência consolidada do STJ, que o agravante enfrente todos os fundamentos da decisão recorrida, refutando-os de maneira específica e detalhada, sob pena de não conhecimento do Agravo.
+4. Não apresentação, pelo agravante, de argumentos suficientes para desconstituir os fundamentos da decisão agravada, mantendo-se a aplicação da Súmula 182/STJ.
+5. Agravo Interno a que se nega provimento, ressaltando-se a advertência quanto à possibilidade de reconhecimento de litigância de má-fé e aplicação das penalidades previstas nos arts. 81 e 1.026, §§ 2º e 3º, do CPC/2015, em caso de interposição de Recurso Protelatório ou manifestamente inadmissível.
+(AgInt no AREsp n. 1.941.413/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 29/5/2024.)
+Isso posto, não conheço do agravo em recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
