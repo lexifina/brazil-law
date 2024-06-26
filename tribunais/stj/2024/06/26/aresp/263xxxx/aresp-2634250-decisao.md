@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo interposto por GAFISA S/A., contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise do recurso de GAFISA S/A., a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritordo agravo, Dr. Rodrigo José Hora Costa da Silva e do recurso especial, Dr. Daniel Battipaglia Sgai.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, regularizou apenas a representação do agravo, permanecendo, porém, o vício quanto à representação do recurso especial, uma vez que a procuração e o substabelecimento juntados às fls. 239/283 não outorgam poderes para o subscritor do referido recurso.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
