@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fls. 478 - 480):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO INDENIZATÓRIA FUNDADA EM ACIDENTE DE TRÂNSITO OCORRIDO EM ÔNIBUS DA VIAÇÃO SANTA MARIA. DEMANDA INICIALMENTE DIRIGIDA EM FACE DA EMPRESA DE TRANSPORTE COLETIVO E, APÓS NOTÍCIA DE SUA EXTINÇÃO, DIRIGIDA EM FACE DO CONSÓRCIO DO QUAL ERA INTEGRANTE (CONSÓRCIO TRANSCARIOCA).
+1) Legitimidade do consórcio verificada à luz da Teoria da Asserção. Ausência de personalidade jurídica do consórcio (art. 278, §1º, da Lei n. 6.404/1976) que não afasta a legitimidade para estar em juízo, uma vez que possui personalidade judiciária, nos termos do artigo 75, IX, CPC.
+2) Jurisprudência prevalente no âmbito deste Tribunal no sentido da existência de solidariedade das sociedades consorciadas pelas obrigações decorrentes do Consórcio, por força do art. 28, § 3º, c/c 7º, parágrafo único, do Código de Defesa do Consumidor.
+3) Valor arbitrado pelo julgador de piso a título de dano moral - R$ 3.000,00 (três mil reais) - que atende aos princípios da razoabilidade e proporcionalidade e não representa enriquecimento sem causa.
+4) Juros de mora que devem incidir à razão de 1% ao mês, na forma do art. 161, § 1º, do CTN. Artigo 406 do Código Civil não faz alusão à taxa SELIC. Incidência da Súmula nº 95 deste TJ/RJ. Precedentes.
+5) Entendimento pretoriano assente de que a fixação da indenização por dano moral em valor inferior ao postulado não caracteriza sucumbência da parte postulante, devendo, neste caso, os encargos sucumbenciais serem suportados exclusivamente pela parte ré, nos termos da Súmula 326 do STJ.
+6) Recurso ao qual se nega provimento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 278, § 1º, da Lei 6.404 c/c 265, 884 e 944 do Código Civil; 70, 75 do Código de Processo Civil c/c artigo 33, V, da Lei 8.666/93; 85, 489, §1, VI, e 1022, também do Código de Processo Civil, sustentando que o acórdão recorrido permaneceu omisso mesmo diante da oposição dos embargos de declaração, no que concerne à questão da solidariedade, uma vez que há solidariedade passiva entre as sociedades empresárias consorciadas, e não entre o Consórcio e as consorciadas, e também quanto à questão referente aos honorários fixados.
+Assevera que há responsabilidade solidária entre as consorciadas, não entre elas e o consórcio, como já reconhecido pelo Superior Tribunal de Justiça.
+Pontua que o consórcio não tem personalidade jurídica própria, além disso, a responsabilidade é um atributo exclusivo de pessoas e, nos termos do artigo 278, §1º, da Lei 6404/76, o consórcio não tem personalidade jurídica.
+Ressalta que o art. 28, § 3º, do Código de Defesa do Consumidor não prevê responsabilidade solidária entre as sociedades empresária e o próprio consórcio.
+Esclarece que, tendo em vista que a causa em análise se trata de mera ação indenizatória, na qual, não houve sequer produção de provas que não aquelas juntadas à peça exordial, tem-se que o Juiz da origem equivocadamente arbitrou os honorários em 15% (quinze por cento) sobre o valor da condenação, devendo a mesma ser reformada para que seja arbitrado o percentual mínimo de 10%.
+Assim delimitada a controvérsia, passo a decidir.
+O TJSP, ao apreciar a tese da parte recorrente, entendeu às fls. 480 - 481 - grifei:
+Inicialmente, repele-se a arguição de ilegitimidade passiva ad causam suscitada pelo apelante.
+Primeiro, porque a aferição da legitimidade que deve ser feita a partir teoria da asserção, segundo a qual as condições da ação, dentre elas a legitimidade, devem ser examinadas in statu assertionis, isto é, no estado das afirmações feitas pela parte em sua petição.
+No caso em exame, da análise da petição de emenda à inicial, acostada às fls. 114/120 (index 114), verifica-se que o consórcio réu tem pertinência subjetiva com a lide, à luz da Teoria da Asserção, de modo que deve ser rejeitada a sua arguição de ilegitimidade passiva.
+E, em segundo lugar, porque, ainda que o consórcio constituído sob o regime da Lei nº 6.404/1976 não goze de personalidade jurídica (art. 278, §1º), possui personalidade judiciária, nos termos do artigo 75, IX, CPC.
+Superada a questão preliminar, verifica-se, quanto a sua responsabilidade por reparar os danos, que, nada obstante as alegações em sentido contrário, a jurisprudência prevalente no âmbito deste Tribunal é no sentido da existência de solidariedade das sociedades consorciadas pelas obrigações decorrentes do Consórcio, por força da norma prevista no art. 28, § 3º, do Código de Defesa do Consumidor, que possui o seguinte teor:
+Artigo 28, § 3º, CDC - "As sociedades consorciadas são solidariamente responsáveis pelas obrigações decorrentes deste código."
+Ademais, o Código de Defesa do Consumidor estabeleceu a regra da solidariedade na responsabilidade pela reparação dos danos sofridos pelo consumidor - artigo 7º, parágrafo único. Assim, são solidariamente responsáveis todos os que tenham intervindo de alguma forma, direta ou indiretamente, na relação de consumo, sendo este o caso em exame.
+Da leitura do acima exposto, nota-se que o Tribunal de origem deixou de examinar as alegações do recorrente, no que concerne à solidariedade e à fixação dos honorários advocatícios no patamar de 15%, mesmo após a oposição dos embargos de declaração com o intuito de prequestionar a matéria.
+Nota-se que podem tais questões podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 1.022 do Código de Processo Civil.
+Em face do exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas, ficando prejudicada a apreciação das demais questões no âmbito deste recurso especial.
+Intimem-se.
+EMENTA
