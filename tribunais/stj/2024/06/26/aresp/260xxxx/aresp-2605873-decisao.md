@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu recurso especial interposto por ESTADO DO AMAZONAS, por ausência de violação aos arts. 489, § 1º, II, IV, VI e 1.022, II, do CPC, nos seguintes termos (fl. 693):
+Todavia, o recurso especial não merece ser admitido quanto à mencionada contrariedade aos artigos 489, inciso II, IV, e VI e 1.022, inciso II, ambos do CPC, porque, conforme consignado pela Corte Superior em iterativos julgados, "Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação aos artigos 489 e 1.022 do Código de Processo Civil/2015" (AgInt no AREsp 1091431/RS, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 29/11/2017).
+A parte agravante alega que a decisão agravada não merece prosperar, argumentando que o acórdão é omisso, por não enfrentar questões relevantes para a resolução da controvérsia. Sustenta que a decisão atacada "não analisa os argumentos no sentido de que a recorrida foi aprovada fora das vagas; que o quantitativo de desistências não é suficiente para alcançar a colocação da recorrida; que todos os candidatos foram nomeados; que contratos administrativos temporários não se transformam em cargos públicos; e que é ônus da recorrida a comprovação de que as fantasiosas contratações seriam irregulares" (fl. 720).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal, por meio do qual sustenta violação aos arts. 489, § 1º, II, IV, VI e 1.022, II, do CPC. Aduz, em síntese, ter sido omisso o acórdão recorrido quanto à matéria trazida em sede de embargos de declaração. Requer a anulação do acórdão recorrido e a devolução dos autos à Corte Estadual para que outro seja proferido, em razão da ofensa apontada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, a irresignação recursal não merece prosperar.
+Quanto à suposta violação dos arts. 489, § 1º, II, IV, VI e 1.022, II, do CPC, por omissão do Tribunal a quo, consta do acórdão recorrido o seguinte (fl. 646):
+Conclui-se, assim, que não há nenhum defeito no decisum, mas sim, adoção de raciocínio dissonante do defendido pelo embargante.
+Acresça-se, que o acórdão embargado declinou as razões (597/599) pelas quais julgou pelo provimento do recurso tendo em vista o conjunto probatório robustecido pela jurisprudência que atestam que o número de nomeações tornadas sem efeito, bem como o número de contratos temporários destinados à função de médico convolam em direito subjetivo a nomeação da candidata para o cargo pretendido em razão do alcance de sua posição classificatória.
+Logo, pretende o embargante, em verdade, é valer-se desta via processual com evidente intenção de rediscussão de matéria, o que é vedado, por ser tal pretensão incompatível com a própria natureza jurídica dos embargos de declaração.
+O Tribunal de origem dirimiu a matéria submetida à sua apreciação acerca dos temas necessários ao integral deslinde da controvérsia, não havendo vícios que configurem a afronta alegada, conforme se extrai do excerto do acórdão recorrido, o qual manteve a decisão originária, assim ementada (fl. 595):
+EMENTA: APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS. DESISTÊNCIA DE CANDIDATOS MELHORES CLASSIFICADOS. CONTRATAÇÃO DE TEMPORÁRIOS PARA O CARGO. ALCANCE DA CLASSIFICAÇÃO. PRETERIÇÃO DEMONSTRADA. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+1. A autora submeteu-se a certame com 299 vagas, sendo aprovada na 536ª colocação, ou seja, fora do número de vagas;
+2. Todavia, a autora demonstrou a desistência de candidatos melhores classificados e a contratação de temporários para o cargo ao qual concorreu, alcançando a posição ocupada por ela, o que configura preterição da candidata aprovada no certame;
+3. Recurso conhecido e provido.
+A matéria foi enfrentada de forma objetiva e fundamentada, naquilo que o Tribunal Estadual entendeu pertinente à solução da controvérsia, ainda que de forma diversa daquela pretendida pelo recorrente (fls. 596-599):
+Da análise aos autos, nota-se que a apelante submeteu-se a certame com 299 vagas, sendo aprovada na 536ª colocação, ou seja, fora do número de vagas.
+Todavia, a autora demonstrou a desistência de candidatos melhores classificados e a contratação de temporários para o cargo ao qual concorreu, alcançando a posição ocupada por ela, pois, à época da propositura da demanda, existiam 1.000 (mil) agentes públicos submetidos a Contratos Administrativos Temporários.
+Em relação à preterição, a apelante logrou êxito em demonstrar a veracidade de suas alegações ao acostar a tabela de quantidade de vagas ofertadas para o cargo concorrido (fl. 128), a classificação em 536º lugar (fl. 233) e as contratações temporárias (fls. 09/50).
+Por sua vez, o apelado não demonstrou a necessidade temporária de excepcional interesse público, nos termos do art. 37, IX da CRFB/88, que justificasse tal preterição.
+ ..
+Assim, impende reconhecer que a manutenção de vínculos precários após a homologação do concurso público ofende os princípios da moralidade, legalidade e impessoalidade, pois acaba perpetuando contratações temporárias quando já há profissionais aptos e selecionados mediante concurso público para exercer as mesmas funções. Admitindo esta postura estatal, legitimar-se-ia a prorrogação eterna dos contratos temporários, em clara subversão de seu caráter excepcional.
+Logo, nítida a existência do direito da apelante de ser nomeada para o cargo que fora aprovada.
+Na jurisprudência desta Corte, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para conhecer do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
