@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por SCHALOM HOTEL LTDA., contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 211/STJ (e-STJ fls. 809/812).
+O acórdão recorrido está assim ementado (e-STJ fl. 723):
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO CÍVEL. AGRAVOS INTERNOS. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de Apelação Cível, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMANB ENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020).
+III - Agravos internos desprovidos.
+Nas razões do recurso especial (e-STJ fls. 744/753), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 11, 489, § 1º, VI, 926 e 1.022, II, parágrafo único, II, do CPC/2015, alegando que "a parte Autora invocou diversos precedentes judiciais nos quais se estabelecia a nulidade do julgamento per relationem quando inviabilizado o direito da parte Autora de se defender acerca dos fundamentos do caso concreto, bem como acerca da necessidade de produção de prova pericial em casos nos quais se discute a existência de erro médico, sob o risco de cerceamento ao direito de defesa" (e-STJ fl. 750). Menciona ainda (e-STJ fl. 750):
+No caso dos Autos, Excelência, o Juízo de base, violando expressamente a jurisprudência deste e. Tribunal superior, e, portanto, dispositivo legal constante do art. 489, §1º, VI do CPC, revoga multa coercitiva diária fixada, mesmo reconhecendo que o cumprimento da obrigação se deu fora do prazo entabulado para tanto.
+(ii) arts. 5º, LV e 93, IX, da CF, 186 e 927 do CC/2002, afirmando que "conforme consta do Agravo Interno interposto no Id. 27670278,a Recorrente suscitou, expressamente, violação aos artigos 11, 489, §1º, VI, art. 926 e art. 1.022, parágrafo primeiro, II do CPC, bem como art. 186 e 927 do Código Civil, bem como 5º, LV e 93, IX da CF/88, tendo direito à reforma da r. decisão agravada, para que seja restabelecida a r. Sentença de primeiro grau" (e-STJ fl. 746).
+Por fim, sustentou que "no caso dos autos, excelência, o juízo de base, violando expressamente a jurisprudência deste e. Tribunal superior, e, portanto, dispositivo legal constante do art. 489, §1º, VI do CPC, revoga multa coercitiva diária fixada, mesmo reconhecendo que o cumprimento da obrigação se deu fora do prazo entabulado para tanto" (e-STJ fl. 752).
+Foram oferecidas contrarrazões (e-STJ fls. 786/807).
+No agravo (e-STJ fls. 823/830), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 841).
+É o relatório.
+Decido.
+Inicialmente, ressalte-se que a análise da pretensa violação dos arts. 5º, LV e 93, IX, da CF não é compatível com as peculiaridades do recurso especial, uma vez que a apreciação de matérias constitucionais, na atual fase recursal, não é de competência desta Corte, mas sim do Supremo Tribunal Federal.
+Na origem, Schalom Hotel Ltda. ajuizou ação de indenização em desfavor de Elevadores OTIS Ltda., objetivando a condenação da parte ré em obrigação de fazer, reparação por danos materiais e compensação por danos morais.
+Em razão da falha na prestação dos serviços contratados, os pedidos formulados na inicial foram julgados parcialmente procedentes para condenar a demandada ao pagamento de R$ 15.000,00 (quinze mil) reais a título de danos morais, acrescido de juros moratórios a partir do evento danoso (Súmula 54/STJ) e correção monetária a partir da sentença (arbitramento - Súmula 362/STJ), corrigidos pelo INPC.
+Em sede de apelação, de forma monocrática, o Desembargador manteve a sentença, negando provimento ao recurso.
+Ao apreciar os Agravos Internos, o Tribunal negou provimento aos recursos, ao fundamento de que "Toda a matéria foi devidamente debatida na decisão agravada e o meu entendimento foi no sentido de que a decisão proferida pelo juízo de raiz deve ser mantida integralmente" (e-STJ fl. 740). E ainda (e-STJ fl. 740):
+(..) o agravo interno deve "dialogar" com a manifestação unipessoal recorrida: é preciso combater os pontos da decisão, e não simplesmente reiterar manifestações anteriores. Cito os seguintes julgados da Corte Suprema:
+(..) Desse modo, não existindo argumentos suficientes para alterar os fundamentos da decisão agravada, esta deve ser mantida em todos os seus termos.
+A parte recorrente não opôs os declaratórios pertinentes, a fim de provocar o debate pelo Colegiado. Assim, as questões referentes à violação dos artigos de lei federal apontados, segundo os quais haveria negativa de prestação jurisdicional e nulidade em decorrência do cerceamento de defesa, não foram analisadas pelo TJAM, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios. Dessa forma, à falta do indispensável prequestionamento, incidem as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo de SCHALOM HOTEL LTDA. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
