@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FLORIPIO RODRIGUES LOPES, contra decisão de fls. 1.125/1.129, a qual negou provimento ao recurso especial interposto pelo INSS, aos seguintes fundamentos: (I) ausência de violação ao art. 1.022, II, do CPC; (II) aplicação da Súmula 7/STJ no tocante ao reconhecimento pelo Tribunal de origem do tempo de serviço especial.
+A parte embargante, em suas razões, sustenta que "o decisum restou omisso quanto a majoração de honorários, diante do não provimento do Recurso Especial interposto pelo INSS" (fl. 133).
+Alga que, "à luz do disposto no art. 85, § 11, do Código de Processo Civil, é admissível a majoração dos honorários advocatícios fixados anteriormente na origem. Tal dispositivo legal confere ao órgão julgador a prerrogativa de ajustar a quantia destinada aos honorários advocatícios em caso de interposição de recurso, levando em consideração a complexidade do processo, o trabalho adicional do advogado e outros elementos pertinentes ao deslinde da causa" (fl. 1.133).
+Devidamente intimada, a parte embargada não impugnou, conforme certidão de fl. 1.143.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Assiste razão à parte embargante
+A Corte Especial sedimentou posicionamento de que "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Rel. Ministro Felix Fischer, Rel. p/ Acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe 7/3/2019).
+No caso, a decisão recorrida, ao negar provimento ao recurso especial da parte ora embargada, interposto contra acórdão publicado já na vigência do CPC, nada dispôs acerca da condenação na verba honorária recursal, devendo ser suprida a omissão a pontada pela embargante.
+ANTE O EXPOSTO, acolho os presentes embargos, para sanar a omissão apontada, nos seguintes termos: levando em conta o traba lho adicional realizado em grau recursal, impõe-se à parte embargada o pagamento de honorários advocatícios equivalentes a 1 0% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
+EMENTA
