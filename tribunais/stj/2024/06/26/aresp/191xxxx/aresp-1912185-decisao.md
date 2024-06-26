@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por ANTÔNIO BENEDICTO NASCIMENTO e PIER ALBERTO SORDI contra decisão que não admitiu recurso especial manejado contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região e assim ementado (fl. 315):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. REDIRECIONAMENTO.
+1. Para a caracterização da prescrição intercorrente é necessário o decurso de prazo superior a cinco anos desde os marcos interruptivos, aliado à ausência de impulso ou desídia do exequente em relação aos atos de cobrança.
+2. É possível a responsabilização do administrador no caso de dissolução irregular da sociedade, consoante precedentes do STJ e desta Corte. Isso ocorre porque é seu dever, diante da paralisação definitiva das atividades da pessoa jurídica, promover-lhe a regular liquidação. Não cumprido tal mister, nasce a presunção de apropriação indevida dos bens da sociedade.
+3. Inativada a empresa sem pagamento dos credores, sem baixa do registro na junta comercial e sem pedido de autofalência, sem tampouco garantir bens suficiente para saldar seus débitos, caracterizada está a dissolução irregular.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 356-360).
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte recorrente aduz violação dos arts. 1.022, inciso II, do CPC/2015; 135 e 174 do CTN, além de apontar divergência jurisprudencial.
+Contrarrazões às fls. 628-630.
+O Vice-Presidente do Tribunal regional negou seguimento ao recurso especial quanto à matéria tratada no Tema n. 444/STJ, e não admitiu em relação às demais alegações (fls. 636-643).
+Seguiu-se a interposição de agravo interno (fls. 698-706), o qual foi desprovido (fls. 720-725); bem como de agravo em recurso especial (fl. 654-683).
+Às fls. 946-950, a parte agravante requer a concessão de efeito suspensivo ao agravo em recurso especial, determinando-se a suspensão da execução fiscal.
+É o relatório.
+Decido.
+Verifico que a matéria relativa à possibilidade de redirecionamento da execução fiscal em razão da dissolução irregular da sociedade empresária executada ou da presunção de sua ocorrência (Súmula 435/STJ), à luz do art. 135, inciso III, do CTN, foi julgada pelo Superior Tribunal de Justiça sob o rito dos recursos repetitivos (Tema n. 981/STJ), sendo fixada a seguinte tese:
+O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, pode ser autorizado contra o sócio ou o terceiro não sócio, com poderes de administração na data em que configurada ou presumida a dissolução irregular, ainda que não tenha exercido poderes de gerência quando ocorrido o fato gerador do tributo não adimplido, conforme art. 135, III, do CTN.
+Sabe-se que compete ao Tribunal de origem proferir juízo de conformidade entre o precedente repetitivo e o caso concreto. Com efeito:
+A edição da Lei n. 11.672, de 8.5.2008, decorreu, sabidamente, da explosão de processos repetidos junto ao Superior Tribunal de Justiça, ensejando centenas e, conforme a matéria, milhares de julgados idênticos, mesmo após a questão jurídica já estar pacificada.
+O mecanismo criado no referido diploma, assim, foi a solução encontrada para afastar julgamentos meramente "burocráticos" nesta Corte, já que previsível o resultado desses diante da orientação firmada em leading case pelo órgão judicante competente. Não se perca de vista que a redução de processos idênticos permite que o Superior Tribunal de Justiça se ocupe cada vez mais de questões novas, ainda não resolvidas, e relevantes para as partes e para o País.
+Assim, criado o mecanismo legal para acabar com inúmeros julgamentos desnecessários e inviabilizadores de atividade jurisdicional ágil e com qualidade, os objetivos da lei devem, então, ser seguidos também no momento de interpretação dos dispositivos por ela inseridos no Código de Processo Civil e a ela vinculados, sob pena de tornar o esforço legislativo totalmente inócuo e de eternizar a insatisfação das pessoas que buscam o Poder Judiciário com esperança de uma justiça rápida. (Questão de Ordem no Ag 1.154.599/SP, relator Ministro Cesar Asfor Rocha, Corte Especial, DJe 12/5/2011.)
+Ante o exposto, DETERMINO a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, o qual, nos termos dos arts. 1.040 e 1.041 do CPC, deverá realizar o juízo de conformação diante do que foi decidido pelo Superior Tribunal de Justiça sobre o Tema n. 981/STJ do regime dos recursos repetitivos.
+Em razão do disposto no art. 1.029, § 5º, inciso III, do CPC/2015, o pedido de efeito suspensivo formulado às fls. 946-950 deverá ser apreciado pela Corte de origem.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR DA SOCIEDADE EMPRESÁRIA. TEMA N. 981/STJ DO REGIME DOS RECURSOS REPETITIVOS. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, COM A RESPECTIVA BAIXA, PARA REALIZAÇÃO DO JUÍZO DE CONFORMAÇÃO.
