@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e (b) aplicação das Súmulas n. 7, 83 e 211 do STJ e 282 e 356 do STF (e-STJ fls. 244/256).
+O acórdão do TJRJ traz a seguinte ementa (e-STJ fl. 155):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. RELAÇÃO DE CONSUMO. AUTORA PORTADORA DE CÂNCER. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO PARA A CONTINUIDADE DO TRATAMENTO ONCOLÓGICO. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA PARTE RÉ. RECUSA EMBASADA NA AUSÊNCIA DE OBRIGATORIEDADE NO FORNECIMENTO DA MEDICAÇÃO E NA NÃO INCLUSÃO NO ROL DA ANS. LAUDO MÉDICO INDICANDO A NECESSIDADE DA PRESCRIÇÃO. MEDICAÇÃO IMPRESCINDÍVEL PARA A MANUTENÇÃO DO TRATAMENTO, SOB RISCO DE AGRAVAMENTO DO QUADRO CLÍNICO. A AUSÊNCIA NO ROL DE COBERTURA OBRIGATÓRIA DA ANS NÃO PODE SERVIR DE JUSTIFICATIVA PARA A RECUSA EM FORNECÊ-LO, EM RAZÃO DO IMINENTE RISCO DE AGRAVAMENTO DA DOENÇA. JURISPRUDÊNCIA CONSOLIDADA NO SENTIDO DE QUE NÃO É DADO AO PLANO DE SAÚDE QUESTIONAR SUBJETIVAMENTE A PRESCRIÇÃO DE MÉDICO QUE ASSISTE A PACIENTE. INCIDÊNCIA DA SÚMULA 211 DESTE E. TRIBUNAL DE JUSTIÇA. LIMITAÇÃO ABUSIVA, DEVER DE CUSTEIO DO MEDICAMENTO PRESCRITO PELO MÉDICO. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 200/205).
+No recurso especial (e-STJ fls. 216/232), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação:
+(i) do art. 1.022 do CPC/2015, defendendo haver negativa de prestação jurisdicional,
+(ii) dos arts. 10, § 4º, da Lei n. 9.656/1998, 51, IV, do CDC e 421, parágrafo único, e 421-A do CC/2002, afirmando ser legítima a limitação do custeio do medicamento para o tratamento do câncer da parte recorrida, pois não previsto no rol de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa, e
+(iii) do art. 85, § 8º, do CPC/2015, sustentando que a base de cálculo dos honorários advocatícios dos advogados da parte contrária não poderia abarcar a condenação referente à obrigação de fazer (custeio do tratamento).
+Sem contrarrazões (e-STJ fl. 241).
+No agravo (e-STJ fls. 270/287), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, requerendo a condenação da agravante ao pagamento de multa por litigância de má-fé, assim como o arbitramento de honorários recursais (e-STJ fls. 291/293).
+É o relatório.
+Decido.
+Não assiste razão à recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+O Tribunal de origem não debateu o conteúdo dos arts. 421, parágrafo único, e 421-A do CC/2002 sob o enfoque pretendido pela recorrente, a despeito dos aclaratórios opostos, porque a solução jurídica encontrada independia da aplicação desses normativos.
+Inafastáveis, portanto, as Súmulas n. 282 do STF e 211 do STJ.
+Conforme a jurisprudência desta Corte Superior, "a natureza taxativa ou exemplificativa do rol da ANS é irrelevante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa" (AgInt no REsp n. 2.004.990/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/3/2023, DJe de 16/3/2023).
+Do mesmo modo:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA DA PARTE RÉ.
+1. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+1.1. Considera-se abusiva a negativa de cobertura do tratamento consistente no uso off label de medicamento que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.016.867/CE, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2023, DJe de 10/3/2023.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO PRESCRITO POR MÉDICO ASSISTENTE. CÂNCER. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES. DANOS EXTRAPATRIMONIAIS CARACTERIZADOS. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO> (..)
+2. Segundo a jurisprudência desta Corte, o plano de saúde deve custear o tratamento de doença coberta pelo contrato, porquanto as operadoras não podem limitar a terapêutica a ser prescrita, por profissional habilitado, ao beneficiário para garantir sua saúde ou sua vida, esclarecendo, ainda, que tal não é obstado pela ausência de previsão no rol de procedimentos da ANS.
+3. No âmbito do REsp 1.733.013/PR, a eg. Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS (AgInt no REsp n. 1.949.270/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+(..)
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.987.435/DF, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 6/3/2023, DJe de 9/3/2023.)
+E ainda, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp n. 1.692.938/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES. EQUIPAMENTO DE MONITORAMENTO DE GLICOSE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. EXCEÇÃO. TRATAMENTO DOMICILIAR. EQUIPAMENTO NÃO LIGADO A ATO CIRÚRGICO. RECUSA DE COBERTURA DEVIDA.
+1. Segundo a jurisprudência desta Corte, é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+2. Hipótese em que são pleiteados equipamentos para monitoramento de glicose, os quais são caracterizados como tratamento domiciliar, porquanto podem ser adquiridos diretamente pelo paciente em farmácias de acesso público, para ser autoadministrado por ele em seu ambiente domiciliar, sem a necessidade de intervenção médica, razão pela qual é devida a recusa de cobertura.
+3. Agravo interno desprovido.
+(AgInt no AgInt nos EDcl no REsp n. 1.964.771/RS, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 5/9/2022, DJe de 8/9/2022.)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO DE USO DOMICILIAR. COBERTURA EXCEPCIONAL. ROL DA ANS. TAXATIVIDADE. MITIGAÇÃO. POSSIBILIDADE. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.987.867/RS, de minha relatoria, QUARTA TURMA, julgado em 15/8/2022, DJe de 18/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Nos termos da jurisprudência desta Corte, é lícita a exclusão da cobertura, nos contratos de plano de saúde, de medicamento de uso domiciliar que não se enquadre como antineoplástico oral, nem como medicação assistida (home care). Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.058.484/MG, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022.)
+O Tribunal de origem determinou o custeio, pelo plano de saúde, do remédio necessário ao tratamento do câncer da contraparte, conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior (e-STJ fls. 159/164).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+A Corte local não se manifestou quanto ao art. 85, § 8º, do CPC/2015 sob o enfoque pretendido pela recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O entendimento da Segunda Seção do STJ é de que "a obrigação de fazer que determina o custeio de tratamento médico por parte das operadoras de planos de saúde pode ser economicamente aferida, utilizando-se como parâmetro o valor da cobertura indevidamente negada. Precedentes. 2. Nas sentenças que reconheçam o direito à cobertura de tratamento médico e ao recebimento de indenização por danos morais, os honorários advocatícios sucumbenciais incidem sobre as condenações ao pagamento de quantia certa e à obrigação de fazer" (EAREsp n. 198.124/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 27/4/2022, DJe de 11/5/2022.)
+Do mesmo modo:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. VALOR DA CAUSA. OBRIGAÇÃO DE FAZER COM VALOR ECONOMICAMENTE AFERÍVEL, ACRESCIDA DO VALOR DOS DANOS MORAIS. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. PLANO DE SAÚDE. PEDIDO DE CUSTEIO DE MEDICAMENTO ANTINEOPLÁSICO. DEVER DE COBERTURA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM ENTENDIMENTO DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do STJ manifesta-se no sentido de que o valor da causa deve equivaler, na medida do possível, ao conteúdo econômico a ser obtido na demanda. Nos conflitos de direito material entre operadora de plano de saúde e seus beneficiários, acerca do alcance da cobertura de procedimentos médico-hospitalares, é inegável que a obrigação de fazer determinada em sentença não só ostenta natureza condenatória como também possui um montante econômico aferível.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.100.420/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/1 0/2022, DJe de 5/10/2022.)
+No caso, não há falar na exclusão do valor do tratamento de saúde pago pela empresa da base de cálculo da verba honorária dos advogados da parte recorrida.
+Por fim, rejeito o pedido de condenação da agravante à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
