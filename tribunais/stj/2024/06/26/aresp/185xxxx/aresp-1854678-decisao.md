@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração de afronta aos arts. 375 e 873, II, do CPC/2015, da incidência da Súmula n. 7 do STJ e da falta de comprovação do dissídio jurisprudencial (e-STJ fls. 570/572).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 497):
+Agravo de instrumento. Título de crédito. Execução. Inconformismo contra decisão que rejeitou pedido de reavaliação apresentado pela executada. Avaliações anteriores realizadas no imóvel por profissional habilitado. Ausência de prova da alegada necessidade de reavaliação e do lapso temporal considerável entre a avaliação e a hasta pública. Mera divergência entre o valor obtido na reavaliação e no laudo de avaliador particular não é suficiente a justificar outra avaliação do imóvel. Decisão mantida. Recurso desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (e-STJ fls. 505/523), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos arts. 375 e 873, II, do CPC/2015, defendendo a necessidade de "nova avaliação judicial do bem imóvel penhorado nos autos de execução que deram origem ao Agravo de Instrumento n. 2142843-90.2019.8.26.0000" (e-STJ fl. 514).
+Aduz que "o valor adotado para fins de eventual Hasta Pública e arrematação ESTÁ DEFASADO PELO TEMPO, não refletindo o real e atual valor de mercado do bem em questão que, passou por reformas nos últimos anos, tendo recebido benfeitorias" (e-STJ fl. 515).
+Sustenta ainda que "o juiz singular e a C. 37ª Câmara indeferiram o pedido dos Recorrentes valendo-se da (..) regra de experiência comum, com base na aceitação pessoal de que a hipótese de valorização do imóvel, in verbis, "contraria o desaquecimento do mercado imobiliário", o que fizeram CONTRARIANDO O LAUDO TÉCNICO COLACIONADO NOS AUTOS que demonstrou uma situação totalmente diferente" (e-STJ fls. 521/522).
+No agravo (e-STJ fls. 575/594), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 601/610 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem, ao apreciar a questão controvertida, consignou que "a alegação dos agravantes sobre a necessidade de nova avaliação pelo decurso do prazo de pouco mais de dois anos entre a ultima realizada não merece prosperar" (e-STJ fl. 499).
+Destacou que "o imóvel foi penhorado em fevereiro de 2013 e avaliado à época, em R$790.000,00; em setembro de 2015, designado leilão, o pedido de sustação feito pelos executados foi acolhido e nova avaliação foi realizada, em abril de 2016, por R$900.000,00; marcado leilão para novembro de 2016, os executados compareceram aos autos, sob o mesmo argumento, e seu pleito foi atendido, ajustando-se o valor do imóvel para R$1.030.000,00" (e-STJ fl. 499).
+Acrescentou que "a avaliação realizada no imóvel foi feita por profissional habilitado, mostrando-se que, além da fonte utilizada para conclusão do valor, também o método comparativo, ressaltando que não houve discordância das partes até a realização da hasta pública. Outrossim, não restou demonstrado lapso temporal considerável entre a avaliação e a hasta pública a justificar a reavaliação do bem penhorado" (e-STJ fl. 499, destaquei).
+Nesse contexto, concluiu que "cumpria aos agravantes a demonstração efetiva da alegada necessidade de reavaliação, fato não demonstrado, ressaltando que a variação no percentual apontado pelos agravantes não é suficiente para justificar a reavaliação do imóvel" (e-STJ fl. 500, grifei).
+A modificação do referido entendimento, quanto à falta de demonstração de evidências suficientes para ensejar uma nova avaliação do imóvel penhorado, demandaria o revolvimento do suporte fático-probatório dos autos, providência vedada em sede especial, a teor da Súmula n. 7 do STJ.
+A propósito, em casos assemelhados: AgInt no AREsp n. 2.130.249/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023; AgInt no AREsp n. 1.744.363/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/3/2021, DJe de 7/4/2021.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
