@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por ausência de ofensa aos artigos de lei apontados (e-STJ fls. 295/296).
+O acórdão recorrido está assim ementado (e-STJ fl. 116):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Decisão agravada que entendeu pelo recolhimento das custas de preparo em recurso de apelação tirado contra sentença de extinção, proferida em sede de cumprimento de sentença. Determinação de recolhimento em dobro. Insurgência do exequente. Preparo devido. Previsão legal art. 1007 do CPC. Ausência de dispensa legal do recolhimento do preparo. Recolhimento em dobro devido, nos termos do art. 1007, § 4º, do CPC, por não ter sido recolhido no ato da interposição do recurso de apelação. Base de cálculo utilizada para preparo recursal deve levar em consideração o proveito econômico almejado. Recurso parcialmente provido, a fim de adequar a base de cálculo e assegurar a devolução do valor recolhido a maior. AGRAVO PARCIALMENTEPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 123/143), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 1.007 do CPC/2015, 9º e 97 do CTN, 1º e 4º da Lei n. 11.608/2023, alegando o seguinte (e-STJ fl. 141):
+(..) para que houvesse a previsão legal exigida pelo caput do artigo 1.007 do C.P.C. deveria haver menção expressa sobre o cumprimento de sentença, que passou a ser uma continuação da fase de conhecimento e a legislação regional paulista não previu no capítulo destinado à forma de cálculo, qualquer base para a sua cobrança, não podendo tratar de forma diferenciada simplesmente porque em um caso o feito é remetido para outra Instância, a privilegiando.
+Nesse contexto, busca a isenção do recolhimento do preparo e "da multa de seu recolhimento em dobro" (e-STJ fl. 143).
+Foram oferecidas contrarrazões (e-STJ fls. 270/282 e 284/294).
+No agravo (e-STJ fls. 299/347), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 350/358).
+É o relatório.
+Decido.
+A parte recorrente apontou, de forma genérica, a ofensa aos arts. 1.007 do CPC/2015, 9º e 97 do CTN, 1º e 4º da Lei n. 11.608/2023, sem indicar, todavia, de que modo o dispositivo teria sido ofendido ou como a Corte local lhe teria negado vigência. Desse modo, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+Além disso, a parte deixou de cumprir as exigências dos artigos 1.029, CPC/15 e 255 do RISTJ, acerca da comprovação da divergência interpretativa. Isso porque, a lém de não haver indicado, de maneira clara e expressa, os dispositivos de lei objeto de interpretação divergente pelo Tribunal de origem, o que atrai incidência do óbice contido na Súmula 284/STF, a recorrente também não realizou o necessário cotejo analítico dos arestos apontados como dissonantes, sendo certo que a mera transcrição de ementas não se revela suficiente para a consecução de tal finalidade
+Ainda que assim não o fosse, a Corte de origem concluiu que "o fato de não se exigir custas iniciais ao dar início ao cumprimento de sentença, não isenta de recolhimento do preparo no caso de recurso de apelação interposto contra a sentença proferida, pois a apelação precisa ser processada e, se não estiver nos casos legais de dispensa previstos, este deverá ser recolhido no prazo assinalado no "caput", do art. 1007, do CC, ou seja, no ato da interposição" (e-STJ fl. 119).
+O TJSP entendeu que a determinação para o recolhimento em dobro encontra-se escorreita, eis que o preparo não foi recolhido no ato da interposição do recurso e não se vislumbrava caso para dispensa. Para modificar o acórdão nesse ponto, seria preciso reexaminar fatos e provas, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
