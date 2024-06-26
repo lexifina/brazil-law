@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra decisão do Tribunal de Justiça daquele Estado que inadmitiu o recurso especial interposto, ante a incidência das Súmulas n. 83 e n. 07, ambas do Superior Tribunal de Justiça (e-STJ fls. 120/125).
+Verifica-se dos autos que o Parquet interpôs recurso especial com fundamento no artigo 105, III, "a", da Carta Magna, contra acórdão da Câmara Criminal do Tribunal de Justiça do Estado de Sergipe, apontando violação ao artigo 28-A, §2º, II e III, do Código de Processo Penal (e-STJ fls. 74/86).
+Por intermédio deste agravo, o Ministério Público sustenta, em síntese, a não incidência dos aludidos óbices processuais e requer o conhecimento e provimento do apelo nobre (e-STJ fls. 132/144).
+O Ministério Público Federal se manifestou pelo conhecimento e provimento do agravo (e-STJ fls. 168/171).
+É o relatório.
+Decido.
+O agravo é tempestivo e o agravante impugnou os fundamentos da decisão recorrida, então merece ser conhecido. Do exame das razões veiculadas, nota-se que merecem prosperar.
+Em primeiro lugar, ressalte-se que não incidem na hipótese dos autos as aludidas Súmulas n. 83 e n.07, ambas do STJ, pois: 1- consoante demonstrado pelo ora agravante, a tese Ministerial não colide com o entendimento desta Corte, mas pelo contrário; 2- a pretensão restringe-se apenas à questão jurídica, isto é, à análise de violação ao referido artigo do CPP, ante o requerimento Ministerial ao Juízo respectivo de adoção de diligências para fins de oferecimento do acordo de não persecução penal (ANPP).
+Os demais requisitos de admissibilidade também estão devidamente preenchidos. Assim, o recurso especial deve ser conhecido. Passa-se a análise do mérito recursal:
+Pois bem. Do exame das razões recursais, verifica-se que o Ministério Público, para fins de propositura de acordo de não persecução penal (ANPP), requereu ao Juízo singular o "detalhamento das condições previstas nos incisos II e III, §2º, do art. 28-A do CPP", ou seja, se o investigado é reincidente; se responde ou já respondeu a outros processos criminais perante as Justiças Estadual, Federal e Eleitoral; e, principalmente, se foi beneficiado nos últimos 5 anos com transação penal, sursis processual ou ANPP" (e-STJ fl.82).
+Ocorre que, o Juízo a quo indeferiu tais diligências, ao argumento de que o Parquet não teria informado "dificuldade de acesso ao Sistema de Controle Processual do Tribunal que dificultasse ou impossibilitasse a coleta das informações solicitadas" (e-STJ fl. 83).
+Ocorre que, consoante bem sublinhado pelo órgão de acusação, há proibição legal de constar em certidão de antecedentes criminais a celebração e o cumprimento do acordo de não persecução penal, informação, como é sabido, indispensável para o oferecimento do ANPP.
+É dizer, uma vez que o Parquet não pode obter tal fundamental informação, tem-se que é dever do Judiciário oferecê-la. Dito mais claramente, se a coleta dessas informações não está acessível ao Ministério Público, visto que, como demonstrado, não podem constar em certidão de antecedentes criminais, só podem ser disponibilizadas pelo Poder Judiciário.
+Sobre o tema, esta Corte possui consolidado entendimento no sentido de que o requerimento de diligência pelo Parquet ao Judiciário se justifica quando demonstrada a impossibilidade de obtenção por meios próprios, o que, como visto, é o caso dos autos. Senão, veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. FOLHAS DE ANTECEDENTES CRIMINAIS. DILIGÊNCIA REQUERIDA PELO MINISTÉRIO PÚBLICO AO JUÍZO. INDEFERIMENTO. INCAPACIDADE DE REALIZAR A DILIGÊNCIA NÃO DEMONSTRADA PELO ÓRGÃO ACUSATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O requerimento de folhas de antecedentes criminais dos réus pelo Parquet ao Poder Judiciário só se justifica quando comprovada a real necessidade da intervenção judicial decorrente da inviabilidade de acesso do órgão ministerial por meios próprios" (AgRg no RMS 57.474/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 02/10/2018, DJe 11/10/2018).
+2. Hipótese em que a diligência consistia na requisição de certidão de antecedentes criminais, entretanto o Parquet não demonstrou a incapacidade de praticar o ato.
+3. Agravo regimental desprovido.
+(AgRg no RMS n. 62.300/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/4/2020, DJe de 16/4/2020.). Grifos acrescidos.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, a fim de que o Juízo singular defira a diligência Ministerial no sentido de informá-lo se o investigado já foi beneficiado nos últimos 05 (cinco) anos com transação penal, sursis processual ou ANPP.
+Publique-se. Intimem-se.
+EMENTA
