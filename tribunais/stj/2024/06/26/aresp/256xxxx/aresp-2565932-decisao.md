@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por impossibilidade de apreciar alegação de ofensa a dispositivo constitucional no âmbito do recurso especial e incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 405/407).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 338):
+DIREITO CIVIL E PROCESSUAL CIVIL - OBRIGAÇÕES - RESPONSABILIDADE CIVIL - EMPRÉSTIMO CONSIGNADO - DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO - AUSÊNCIA DECONTRATAÇÃO - DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - PARCIAL PROCEDÊNCIA EM 1º GRAU - RECURSO DO AUTOR - DEVER DE INDENIZAR ABALO MORAL - COMPROMETIMENTO DE RENDA - INCOMPROVAÇÃO - MERO DISSABOR - INDENIZAÇÃO INACOLHIDA - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Desconto não autorizado por pensionista, a título de parcela de empréstimo consignado, sem nenhum reflexo moral ou econômico grave, não enseja indenização porque a tolerância é um dos esteios do ordenamento jurídico.
+Nas razões do recurso especial (e-STJ fls. 358/380), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos arts. 5º, V e X, da CF, 6º, caput, III, VI e VII, e 39, III, IV e V, do CDC, 186 e 927 do CC/2002, sustentando, em síntese, que "diante da ausência de contratação dos serviços que ensejaram confiscos na verba alimentar do consumidor, não há o que se falar em comprovação dos danos morais, em razão de serem presumidos" (e-STJ fl. 375).
+Segundo argumenta, "como entender que a conduta abusiva do recorrido não é capaz de ensejar os abalos anímicos ao recorrente, ao passo que efetivou cobranças indevidas na aposentadoria, verba alimentar e única fonte de renda do mesmo, e privaram pessoa extremamente humilde de sua parca renda mensal por anos" (e-STJ fl. 369).
+No agravo (e-STJ fls. 415/425), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 429/433).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+O Tribunal de origem decidiu a controvérsia nos seguintes moldes (e-STJ fls. 340/341):
+O autor não experimentou nenhuma consequência grave/ extraordinária em razão da conduta da requerida. Os descontos - que perduraram desde 07/2020 até a concessão tutela antecipada em março/2023 (evento 10) - não comprometeram de forma concreta a sua remuneração mensal, fato este que, evidentemente, afasta a presunção de abalo moral por comprometimento de sua verba alimentar, inocorrendo abalo moral in re ipsa.
+Não se nega que a instituição financeira requerida foi imprudente ao solicitar o desconto de mensalidade no benefício do autor sem sua idônea anuência. Contudo, houve apenas dissabor momentâneo, pois, além de referida atitude não ter acarretado qualquer prejuízo de ordem moral ao autor, os descontos não prejudicaram o seu sustento. Ao menos tal comprovação não restou demonstrada.
+O débito em benefício previdenciário, não autorizado pelo pensionista, sem outras consequências capazes de abalar o psíquico do lesado, configura mero dissabor cotidiano, o que também pode ser dito em relação aos aborrecimentos relacionados a eventuais comparecimentos em agência bancária, INSS, delegacia e Procon.
+A decisão recorrida está em conformidade com a jurisprudência desta Corte, no sentido de que "a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/12/2022, DJe de 14/12/2022).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL NÃO CONFIGURADO. PARTICULARIDADES DA CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO PREJUDICADO. ALEGADA VIOLAÇÃO AOS ARTS. 976 E 978 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a fraude bancária, ensejadora da contratação de empréstimo, não pode ser considerada, por si só, suficiente para a caracterização do dano moral, sendo necessária a existência de circunstâncias agravantes que possam configurar a lesão extrapatrimonial.
+2. No caso, infirmar as convicções alcançadas pelo Tribunal de origem (acerca da ausência de elementos para a configuração da violação aos direitos da personalidade da recorrente, a ensejar a indenização por danos morais) exige o reexame de matéria fático-probatória dos autos, o que é vedado, no âmbito do recurso especial, conforme a Súmula 7 do Superior Tribunal de Justiça.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.544.150/MA, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMa, julgado em 13/5/2024, DJe de 15/5/2024.)
+Além disso, a conclusão do TJSC , relativamente à ausência de configuração de dano moral indenizável no caso dos autos, está estabelecida sobre o acervo fático-probatório dos autos, cujo revolvimento é vedado em sede especial.
+Assim, a desconstituição das premissas fixadas no acórdão recorrido, para fins de acolher a pretensão recursal relacionada à alegada violação dos arts. 6º, caput, VI e VII, e 39, III, IV e V, do CDC, 186 e 927 do CC/2002, encontra óbice na Súmula n. 7 do STJ.
+Ademais, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor dos patronos da parte agravada, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
