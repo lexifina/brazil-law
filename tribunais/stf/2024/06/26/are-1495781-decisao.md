@@ -1,0 +1,89 @@
+DECISÃO
+
+RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. AUSÊNCIA DE DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. REEXAME DE LEGISLAÇÃO LOCAL E DE CLÁUSULAS EDITALÍCIAS: IMPOSSIBILIDADE NO CAMPO EXTRAORDINÁRIO. ÓBICE DOS ENUNCIADOS Nº 280 E Nº 454 DA SÚMULA DO STF. NEGATIVA DE PROVIMENTO.
+
+    1. Trata-se de agravos interpostos pelo Instituto Brasileiro de Administração Municipal (Ibam) e pela Câmara Municipal de São Bernardo do Campo contra decisões negativas de admissibilidade de seus respectivos recursos extraordinários apresentado em desfavor de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    “CONCURSO PÚBLICO. Candidata portadora de deficiência inscrita em concurso público para provimento de cargo de Agente Legislativo Nível I da Câmara Municipal de São Bernardo do Campo. Pretensão à nomeação e posse no cargo, por ter obtido a maior nota dentre os candidatos portadores de deficiência inscritos no certame. Possibilidade. Ilegalidade da conduta da Administração consistente em não elaborar lista específica de candidatos com deficiência habilitados no certame. Lei Municipal n. 3.691/91 que garante uma vaga para portadores de deficiência nos concursos públicos em que o número de vagas previsto no edital seja superior a uma e inferior a vinte. Art. 37, inciso VIII, da Constituição Federal que garante a reserva de vagas a candidatos com deficiência, sendo que os percentuais mínimos e máximos de vagas reservadas devem ser definidos por lei. Inaplicabilidade do percentual máximo de 20% de vagas reservadas a PCDs previsto na Lei Federal n. 8.112/90 (Estatuto dos Servidores Públicos Civis da União). Autonomia dos Municípios para legislar sobre os critérios de admissão de seus servidores. Lei local que não prevê percentual máximo de vagas a serem reservadas a pessoas com deficiência, mas apenas o percentual mínimo. Autora que atingiu a nota mínima para classificação (50% da prova) prevista no edital. Inaplicabilidade da nota de corte geral, correspondente à nota obtida pelo último candidato classificado na lista geral, o que, na prática, equivaleria a classificá-la na lista geral juntamente com os demais candidatos, esvaziando a garantia constitucional e legal de reserva de vagas a portadores de deficiência. Autora que faz jus às imediatas nomeação e posse. Pretensão à indenização por danos materiais e morais. Inadmissibilidade. Sentença de improcedência. Recurso provido para julgar a ação procedente em parte para determinar a nomeação e posse da autora no cargo, alterada a distribuição dos ônus de sucumbência." (e-doc. 177, p. 2).
+
+    2. Opostos embargos de declaração pela Câmara Municipal, foram acolhidos em parte, sem efeitos infringentes (e-doc. 182). Os embargos de declaração opostos pelo Ibam e pela ora recorrida foram rejeitados (e-docs. 186 e 200).
+
+    3. No recurso extraordinário interposto pelo Ibam, o recorrente aponta violação ao art. 37 da Constituição da República. Afirma que a recorrida não foi nomeada para o pretendido cargo em razão da quantidade de vagas do concurso e que as mencionadas vagas foram distribuídas respeitando o percentual previsto no edital do concurso e na lei municipal em relação a pessoas com deficiência. Discorre sobre o edital e a lei local (e-doc. 191).
+
+    4. No recurso extraordinário interposto pela Câmara Municipal, a recorrente aponta violação aos arts. 5º, incs. II, XXXVI e LIV; 37, inc. VIII; e 93, inc. IX da Constituição da República. Afirma que a decisão da Corte de origem foi omissa em relação a diversos fundamentos apontados em sede de embargos de declaração. Sustenta que uma interpretação sistemática da lei municipal e do edital do concurso não pode inovar completamente no ordenamento jurídico. Alega que a nomeação da recorrida ofende os princípios da igualdade, proporcionalidade, razoabilidade e segurança jurídica (e-doc. 209).
+
+    5. O recurso extraordinário do Ibam foi inadmitido, sob o fundamento de que "a análise de maltrato a dispositivo constitucional demandaria o exame de matéria infraconstitucional" (e-doc. 244).
+
+    6. Foi negado seguimento à parte do recurso extraordinário da Câmara Municipal em que discutida violação ao art. 93, inc. IX, da Constituição da República. Quanto ao restante, foi inadmitido o recurso, sob o fundamento de que "rever o entendimento firmado pela Turma Julgadora implicaria no revolvimento do acervo fático-probatório, bem como na análise de direito local" (e-doc. 245).
+
+    É o relatório.
+
+    Decido.
+
+    7. O recurso extraordinário interposto pelo Ibam não merece ser conhecido, por ausência de demonstração da existência de repercussão geral do tema objeto do recurso, na forma determinada pelos arts. 102, § 3º, da Constituição da República e 1.035, § 2º, do Código de Processo Civil.
+
+    8. Sobre o ponto, o recorrente limitou-se a alegar:
+
+    "A questão constitucional discutida nestes autos enseja repercussão geral, nos termos do art. 102, § 3°, da Constituição Federal, que foi acrescentado pela Emenda Constitucional n° 45/04, e também conforme a Lei federal n° 11.418, de 19 de dezembro de 2.006.
+
+    Sim, porque o presente recurso extraordinário versa sobre a negativa de vigência ao 37, da Constituição Federal, que cuida dos princípios que devem ser observados pela Administração, como garantia fundamental que é pilar do Estado Democrático do Direito.
+
+    A repercussão geral da matéria constitucional ora discutida resta, portanto, inquestionável, observando-se, para tanto, a existência de questões relevantes do ponto de vista jurídico, nos termos da Lei federal n° 11.418, de 19 de dezembro de 2.006.
+
+    A relevância jurídica da matéria ora enfrentada em juízo está acima demonstrada, em razão da patente negativa de vigência ao dispositivo constitucional citado, que transcende os limites subjetivos da presente causa.
+
+    Por tais muito relevantes motivos, e que ensejam repercussão geral, o presente recurso extraordinário precisa ser conhecido, e, no mérito, provido." (e-doc. 191, p. 5).
+
+    9. Nas palavras do eminente Ministro Alexandre de Moraes, apontar a repercussão geral da questão “não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo” (RE nº 1.134.249-AgR/SP, j. 26/10/2018, p. 08/11/2018).
+
+    10. Com efeito, a jurisprudência consolidou-se no sentido da inviabilidade do recurso extraordinário quando não demonstrada a repercussão geral do tema controvertido. Nesse sentido, cito os seguintes precedentes:
+
+    “RECURSO EXTRAORDINÁRIO. AGRAVO INTERNO. REPERCUSSÃO GERAL. AUSÊNCIA DE DEMONSTRAÇÃO FUNDAMENTADA. 1. É inadmissível recurso extraordinário que não apresenta fundamentação suficientemente apta a demonstrar a repercussão geral das questões constitucionais examinadas na espécie. 2. Agravo interno desprovido.”
+
+    (ARE nº 1.326.970-AgR/RJ, Rel. Min. Nunes Marques, Segunda Turma, j. 14/12/2021, p. 14/03/2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE DEMONSTRAÇÃO DA TRANSCENDÊNCIA DA QUESTÃO CONSTITUCIONAL. INTERESSES SUBJETIVOS DA CAUSA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2°, do Código de Processo Civil/1973, introduzido pela Lei 11.418/2006, e no art. 327, § 1°, do Regimento Interno do Supremo Tribunal Federal. II – A demonstração fundamentada da existência de repercussão geral das questões constitucionais discutidas também é indispensável nas hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal em outro recurso. III – Agravo regimental a que se nega provimento.”
+
+    (RE nº 799.158-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 22/08/2021, p. 26/08/2021).
+
+    11. Ainda que superado o referido óbice, da leitura atenta do recurso extraordinário do Ibam, conclui-se que o recorrente não demonstrou as razões pelas quais entende violado o art. 37 da Constituição da República, o que caracteriza a deficiência na sua fundamentação. Por conseguinte, inadmissível o apelo, também pelo óbice do enunciado nº 284 da Súmula do STF.
+
+    12. Passo à análise do recurso interposto pela Câmara Municipal, ressaltando que foi negado seguimento à parte do recurso extraordinário referente ao art. 93, inc. IX, da Constituição da República, razão pela qual essa não será analisada.
+
+    13. Para melhor exame da controvérsia, transcrevo os fundamentos constantes da decisão impugnada:
+
+    "A autora demonstrou que obteve a maior nota dentre os três candidatos com deficiência inscritos no concurso para provimento de cargo de Agente Legislativo Nível I Área de Assuntos Técnicos Legislativos da Câmara Municipal de São Bernardo do Campo (fls. 55/108), fato que, frise-se, nem sequer foi impugnado pelos réus. No entanto, ela foi classificada na lista geral, com os demais candidatos, uma vez que não foi divulgada lista específica de classificação dos candidatos PCD habilitados no certame, em contrariedade a disposição expressa do item 7.3 do edital (“Serão emitidas duas listas: uma geral, contendo todos os candidatos habilitados e uma especial para os candidatos com deficiência” cf. fl. 35).
+
+    Mostra-se ilegal a conduta da Administração consistente em deixar de elaborar lista específica de classificação dos candidatos com deficiência, uma vez que viola não apenas o disposto no mencionado item 7.3 do edital, mas também o artigo 9º, caput da Lei Municipal n. 3.691/91, que estabelece que “o resultado de cada concurso será publicado em duas listas, contendo a primeira a pontuação geral de todos os candidatos aprovados, inclusive dos portadores de deficiência, e a segunda somente a pontuação destes últimos” (fl. 170).
+
+    Os réus argumentam que o referido diploma determinou, em seu art. 1º, caput, a reserva de 5% das vagas oferecidas nos concursos públicos realizados pelo Município de São Bernardo do Campo para os portadores de deficiência. O § 1º, por sua vez, dispôs que “O cálculo da apuração do número de cargos e empregos reservados, para a finalidade de que trata o "caput", desprezará a fração inferior a meio e arredondará, para a unidade imediatamente seguinte, a que for igual ou superior” (fl. 168). Uma vez que o edital do certame em questão previu apenas duas vagas de Agente Legislativo Nível 1 Área de Assuntos Técnicos Legislativos, não seria possível reservar nenhuma vaga a pessoas com deficiência, já que a aplicação do percentual de 5% sobre o total das vagas resultaria em fração inferior a meio. Por essa razão, sustentam, não era o caso de elaborar lista especial de candidatos PCD habilitados, nos termos do item 7.3.1 do edital (segundo o qual “Não ocorrendo inscrição no Concurso Público ou aprovação de candidatos com deficiência, será elaborada somente a Lista de Classificação Final Geral”) e que, em consequência, a autora não faz jus à nomeação.
+
+    Ocorre que os mencionados dispositivos da Lei Municipal n. 3.691/91 não devem ser interpretados de maneira isolada, e sim sistemática, de modo a se considerar também o teor do § 2º do mesmo art. 1º, que dispõe que “Nos concursos públicos em que o número de vagas previsto em edital for superior a 1 (uma) e inferior a 20 (vinte), ficará assegurada 1 (uma) vaga às pessoas portadoras de deficiência”. Assim entendeu esta 10ª Câmara no agravo de instrumento interposto pelo corréu Instituto Brasileiro de Administração Municipal IBAM contra a decisão que deferiu a tutela antecipada (AI 2084512-47.2021.8.26.0000, do qual fui Relator):
+
+    (...)
+
+    No caso dos autos, como já consignado, a Administração nem sequer elaborou lista específica de classificação de candidatos PCD para o cargo de Agente Legislativo Nível 1, mas apenas os classificou na lista geral, juntamente com os demais candidatos. A nota obtida pela autora implicaria sua classificação em primeiro lugar na lista especial, se esta tivesse sido elaborada, razão pela qual, nos termos do art. 1º, § 2º da Lei Municipal n. 3.691/91, ela deveria ter sido convocada antes da convocação do 2º candidato da lista geral. Houve, vale frisar, clara preterição da autora. Por essa razão, a expectativa de direito da autora convolou-se em direito à nomeação." (e-doc. 177, p. 5-9).
+
+    14. O Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei municipal 3.691, de 1991) e das cláusulas do edital do concurso público. Dessa forma, o exame da alegada ofensa ao Texto Constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo, o que inviabiliza o extraordinário, nos termos dos enunciados nº 280 e nº 454 da Súmula do STF. Nesse sentido, menciono as seguintes decisões, entre outras:
+
+    "Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Concurso Público. Vagas reservadas a pessoas portadoras de deficiência. Preenchimento dos requisitos. Legislação local. Reexame de fatos e provas. Análise do edital do concurso. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve a sentença de improcedência da ação. 2. Hipótese em que, para dissentir do entendimento firmado pela Turma de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, reexaminar fatos e provas constantes dos autos, bem como rever as cláusulas do edital, procedimentos vedados neste momento processual (Súmulas 279, 280 e 454/STF). 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 4. Agravo interno a que se nega provimento."
+
+    (ARE nº 1.474.504-AgR/RJ, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, j. 18/03/2024, p. 03/04/2024).
+
+    "DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. DIREITO À NOMEAÇÃO DE CANDIDATA COM DEFICIÊNCIA. REGRA DE ARREDONDAMENTO DO COEFICIENTE AO PRIMEIRO NÚMERO INTEIRO SUBSEQUENTE. INTERPRETAÇÃO DE CLÁUSULAS DE EDITAL E REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTOS VEDADOS NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, bem como o reexame da interpretação conferida a cláusulas do edital, procedimentos vedados pelas Súmulas nº 279 e 454/STF. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido."
+
+    (ARE nº 1.446.066-AgR/MS, Rel. Min. Rosa Weber (Presidente), Tribunal Pleno, j. 02/10/2023, p. 16/10/2023).
+
+    15. Para a espécie, inclusive, se faz válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021; Rcl nº 24.841-ED-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+    16. Para além, consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+    17. Ante o exposto, nego provimento ao agravo no recurso extraordinário interposto pelo Instituto Brasileiro de Administração Municipal (Ibam) e ao agravo no recurso extraordinário interposto pela Câmara Municipal de São Bernardo do Campo, nos termos do art. 21, § 1º, do RISTF. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor das partes recorrentes, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo.
+
+    Publique-se.
+
+    Brasília, 26 de junho de 2024.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
