@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 32):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, IV DO CÓDIGO PENAL). DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. EXISTÊNCIA DE PROVAS DE MATERIALIDADE E AUTORIA. CONSELHO DE SENTENÇA OPTOU POR VERSÃO TRAZIDA A JÚRI PELA ACUSAÇÃO QUE ENCONTRA AMPARO EM PROVA DOS AUTOS. MANUTENÇÃO DA SENTENÇA. APELO DESPROVIDO. DECISÃO UNÂNIME.
+1. A materialidade delitiva é inconteste, conforme demonstra o Boletim de Identificação de Cadáver, o Laudo Pericial do Crime e a Perícia Tanatoscópica nº 9612/2019, bem como a autoria delitiva, posto que as testemunhas de acusação ouvidas em Juízo trouxeram informações que apontam o acusado como autor do crime.
+2. O princípio constitucional da soberania dos veredictos do Júri Popular assegura que a renovação do julgamento é possível apenas quando a decisão do Tribunal do Júri apresenta clara e absoluta discrepância com a prova contida no processo, hipótese essa não ocorrente no caso sub examine, no qual o veredicto do Conselho de Sentença se mostra coerente com o acervo probatório. A tese de negativa de autoria baseada na palavra isolada do réu e sem qualquer respaldo no corpo probatório não basta para afastar a tese acolhida pelo Conselho de Sentença e invalidar o veredicto impugnado.
+3. Apelo desprovido. Sentença mantida. Decisão unânime.
+Consta dos autos que o paciente foi condenado, como incurso no art. 121, § 2º, inciso IV, do Código Penal, à pena de 12 anos de reclusão, a ser cumprida em regime inicial fechado.
+No presente writ, sustenta a defesa a ausência de indícios de autoria para a pronúncia do paciente, uma vez que "as testemunhas não presenciaram o crime, e que TODAS AS TESTEMUNHAS afirmaram categoricamente que somente ouviram dizer, por comentários, que um dos nomes ventilados fora o do Paciente, mas que esse não fora o único, e que não tinha certeza se foi ele o autor" (fl. 7).
+Aduz que "ausentes elementos aptos para a submissão do Paciente ao julgamento pelo Júri Popular, a decisão mais acertada não seria sumetê-lo a um novo julgamento, mas sim anular a decisão de pronúncia, despronunciando o Paciente" (fl. 10).
+Requer, liminarmente, o sobrestamento da ação penal até o julgamento do mérito do presente mandamus. No mérito, requer seja determinada a despronuncia do acusado ou, subsidiariamente, a realização de novo Júri.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento da impetração ou pela denegação da ordem.
+No caso, a tese defensiva de que a condenação foi lastreada apenas em testemunhos de "ouvir dizer" não foi objeto de análise pelo Tribunal de origem, de modo que não pode ser conhecida, de modo inaugural, por esta Corte Superior, sob pena de indevida supressão de instância.
+Outrossim, "O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no HC n. 782.347/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
