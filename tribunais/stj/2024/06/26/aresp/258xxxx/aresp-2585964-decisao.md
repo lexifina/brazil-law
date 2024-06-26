@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por WEST ATLANTIC COMPANY ZFE contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 293):
+CONTRATO DE PARCERIA - AÇÃO DECLARATÓRIA DE SENTENÇA/QUERELA NULITATIS Competência desta Turma Julgadora - Prevenção gerada pelo julgamento de anterior recurso, envolvendo os autos principais - Apelante que busca desconstituir sentença de procedência de ação indenizatória em face dela ajuizada - Inicial indeferida - Presente, no entanto, o interesse processual - Embora já iniciada a fase de cumprimento de sentença, a arguição de vício insanável (citação) tem lugar através da via eleita - Precedentes do C. STJ e também desta Corte - Decreto de extinção afastada - Autos que devem retornar à origem, para regular prosseguimento -Sentença anulada - Recurso provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 366-368).
+Nas razões do recurso especial (e-STJ, fls. 302-328), a insurgente apontou, além de dissídio jurisprudencial, violação aos arts. 248, § 4º, 489 e 1.013 do CPC.
+Sustentou, em síntese: a) negativa de prestação jurisdicional por parte do acórdão recorrido, ao argumento de que o julgado não analisou suas alegações a respeito da validade da citação realizada nos autos da ação indenizatória, não havendo nenhuma nulidade do referido ato; e b) é válida a citação da pessoa jurídica realizada em condomínio edilício e entregue ao funcionário da portaria responsável pelo recebimento de correspondência.
+Contrarrazões às fls. 372-397 (e-STJ).
+O Tribunal de origem não admitiu o recurso especial, o que levou a insurgente à interposição de agravo (e-STJ, fls. 413-430).
+Contraminuta às fls. 445-463(e-STJ).
+Brevemente relatado, decido.
+De início, no tocante à suposta negativa de prestação jurisdicional, observa-se que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, tendo apresentado os motivos pelos quais entendeu pela adequação da via da querela nullitatis insanabilis para questionar a nulidade de citação na ação de indenização anteriormente ajuizada pela ora recorrida, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Essa é a conclusão que se depreende do que ficou registrado no acórdão recorrido (e-STJ, fls. 293-298 - sem grifo no original):
+Cuida-se de Apelação interposta contra a r. sentença proferida em autos de Ação Declaratória (Querella Nulitatis) que indeferiu a petição inicial, julgando o feito extinto, sem exame do mérito, com fulcro nos artigos 485, I e 330, III, ambos do CPC.
+Embargos de declaração às fls. 230/236, rejeitados pela r. decisão de fls. 237.
+Apela a requerente (fls. 240/256), sustentando a necessidade de anulação da r. sentença recorrida, sob o argumento de que a via eleita se mostrou adequada, devendo ser novamente citada na ação de conhecimento movida pela ora apelada, a fim de que possa oferecer defesa.
+Prossegue a recorrente reiterando que a querela nulitatis é a via correta para buscar a nulidade do ato citatório, eivado de vícios no caso concreto. Citou doutrina e jurisprudência. Aguarda o provimento recursal, anulando-se a r. sentença, com determinação de retorno dos autos à origem, para regular processamento.
+Contrarrazões às fls. 278 e seguintes.
+É o relatório.
+(..)
+O recurso comporta provimento.
+Buscou a autora (ora apelante), por meio da tutela jurisdicional invocada, a anulação da r. sentença de procedência, proferida em autos de ação indenizatória em face dela ajuizada, pela ora apelada, sob a alegação de nulidade da citação.
+A r. sentença em face da qual ora recorre indeferiu liminarmente a petição inicial.
+E, de fato, respeitado o posicionamento na origem, tenho que assiste razão à recorrente.
+Como é sabido, a querella nullitatis insanabilis somente tem viabilidade diante da existência de vício processual insanável e absoluto - exatamente a hipótese versada (arguição de nulidade do ato citatório na ação de conhecimento).
+Acerca do tema, oportuna transcrição do seguinte trecho do V. Acórdão proferido no Recurso Especial nº 12586/SP, Relator Ministro Waldemar Zveiter, ao dizer que:
+"A tese da Querela Nullitatis persiste no Direito Positivo Brasileiro, o que implica em dizer que a nulidade da Sentença pode ser declarada em Ação Declaratória de Nulidade, eis que, sem a citação, o Processo, vale falar, a Relação Jurídica Processual, não se constitui, nem validamente se desenvolve. Nem, por outro, lado, a Sentença transita em julgado, podendo, a qualquer tempo, ser declarada nula, em Ação com esse objetivo, ou em Embargos à Execução, se for o caso".
+No caso em exame, já se disse, presentes tais requisitos, sendo que o início da fase de cumprimento de sentença não torna inadequada a via eleita.
+Este, aliás, o pacífico e há muito sedimentado posicionamento do C. STJ (que válido o manejo da querella nulitatis para questionar, tanto a inexistência quanto a nulidade da citação e, portanto):
+(..)
+Exatamente por conta disso, o apelo é provido para afastar o indeferimento da petição inicial, determinando o retorno dos autos da ação declaratória à origem, para regular prosseguimento.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022 do CPC/2015.
+Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1523744/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meio dos embargos de declaração apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+(..)
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+(..)
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+No que diz respeito à alegada violação ao art. 284, § 4º, CPC, concernente à tese recursal de inexistência de vício de citação nos autos da ação indenizatória, nota-se, da leitura dos trechos acima, que o conteúdo normativo do referido dispositivo não foi objeto de análise pelo acórdão impugnado, assim como não se prestou a justificar a conclusão adotada pelo Tribunal estadual, visto que o colegiado estadual limitou-se a analisar o cabimento e a adequação da ação declaratória de nulidade (querela nullitatis) na hipótese e, anulando a sentença de extinguiu o processo sem resolução de mérito, determinou o retorno dos autos ao juízo de origem para regular prosseguimento do feito.
+Desse modo, ausente o debate no acórdão impugnado acerca da questão ventilada, é inviável a apreciação da matéria devido à falta do indispensável prequestionamento, incidindo as Súmulas 282 e 356 do Supremo Tribunal Federal no ponto.
+Efetivamente, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por vulnerado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu na hipótese.
+Ademais, a falta de prequestionamento inviabiliza o recurso especial também pela alínea c do permissivo constitucional, razão pela qual fica prejudicado o exame da divergência jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO (QUERELA NULLITATIS). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 248, § 4º, DO CPC. AUSÊN CIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
