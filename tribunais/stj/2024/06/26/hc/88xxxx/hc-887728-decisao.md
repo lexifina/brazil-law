@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de JAIME GOMAR DE CASTRO contra acórdão proferido pelo Tribunal de Justiça Militar do Estado de São Paulo na Apelação Criminal n. 0800072-45.2021.9.26.0030.
+Depreende-se dos autos que o paciente foi sentenciado como incurso nos artigos 222, caput (constrangimento ilegal simples) e § 1º (constrangimento ilegal majorado), 242, § 2º, II (roubo qualificado), e 243, § 1º (extorsão qualificada), todos do Código Penal Militar - CPM, bem como no artigo 288 (associação criminosa) do Código Penal, às penas que totalizam 22 (vinte e dois) anos e 4 (quatro) meses de reclusão, na forma do artigo 79 do CPM, a serem cumpridas em regime inicial fechado (fls. 33-74).
+Irresignada, a Defesa interpôs apelação perante o Tribunal de origem, que negou provimento ao recurso, conforme aresto de fls. 222-244.
+Opostos embargos infringentes e de nulidade, foram desprovidos (fls. 323-337).
+No presente writ, o impetrante sustenta, em síntese, ausência de provas suficientes, no que tange à materialidade do delito de roubo qualificado, para a condenação do paciente.
+Requer, assim, a concessão da ordem para que seja declarada a nulidade parcial do édito condenatório, absolvendo-se o paciente pelo crime de roubo qualificado.
+As informações solicitadas foram recebidas e acostadas às fls. 368-482 e 485-493.
+Por sua vez, o Ministério Público Federal manifestou-se pela denegação da ordem, conforme parecer de fls. 495-498.
+Pedido de sustentação oral às fl. 501.
+É o relatório. DECIDO.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+O voto-condutor do acórdão da apelação criminal concluiu haver provas suficientes acerca da materialidade e autoria delitivas, a teor dos excertos destacados abaixo, in verbis (fls. 236-238 - grifei):
+"No mérito
+ ..
+Do crime de ROUBO DO DIA 06/07/2021
+Restou provado nos autos que no dia 06/07/2021, os acusados Sd PM Jaime Gomar de Castro, Sd PM Paulo Dionel de Souza Pereira e o Cb PM Miguel Will Katona subtraíram a quantia de R$ 2.500,00 pertencente à vítima Kmillo Christopher Melfa Martins de Jesus durante a abordagem policial, feita pela equipe. Comprovando os fatos, o relatório de serviço da Força Tática de acostado ao ID 378994 (fls. 150/152), demonstra que esses três acusados guarneciam a viatura I-45019. Do campo "abordagens" - "pessoas" daquele formulário se extrai que Kmillo e Michel foram abordados.
+Ouvido em juízo, a vítima Kmillo disse que "..ele e Michel sacaram uma quantia no caixa eletrônico. Disse, ainda, que entraram no veículo e iniciaram o deslocamento quando a viatura passou por cima do canteiro, fez o retorno e iniciou a abordagem. Prosseguiu relatando que os policiais verificaram que ele tinha "passagem", sic (antecedentes criminais por estelionato). Acrescentou que pegaram o seu celular e passaram a acessar as conversas. Que também acessaram o celular do seu amigo Michel. Que pediram o seu "WhatsApp". Que eram três os policiais. Aduziu que tinha o dinheiro dentro do carro ao que um deles falou "esse valor pode esquecer" e pegaram aquela quantia. Prosseguiu relatando que os policiais lhe pediram que fizesse amizade na periferia e passasse os locais para que efetuassem abordagens.
+Coerente com o que disse Kmillo, foi o que esclareceu a testemunha Michel. Disse que foi abordado pelos policiais quando estava na companhia de Kmillo. Disse, ainda, que os policiais verificaram que ambos possuíam "passagens". Acrescentou que passaram a questionar a origem do dinheiro que Kmillo trazia, eram 2 mil ou 2,5 mil, o dinheiro estava no console. Prosseguiu narrando que acessaram os celulares. Que não pediram autorização para acessar, obrigaram a destravar o aparelho. Aduziu que do modo como perguntavam "não se sentiam abordados por policiais". Que pegaram o número de telefone de todos. Prosseguiu narrando que Kmillo foi coagido a "dedurar" (sic) pessoas..". Quando interrogados em juízo, os três denunciados a essa imputação admitiram a abordagem, mas negaram a subtração. De um lado a palavra da vítima e seu amigo Michel. De outro a negativa dos acusados. Ocorre que o que relataram os civis encontra ressonância com as provas que sustentam as demais condenações."
+Assim, eventual desconstituição de tais premissas demandaria aprofundada dilação probatória, totalmente incompatível com a via eleita.
+Não se descure que, para a eventual concessão da ordem, far-se-ia necessário que o direito alegado pela Defesa fosse líquido - dispensando apuração probatória - e certo - indene de dúvidas.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial da parte paciente.
+Até mesmo porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+De mais a mais, como dito, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório.
+A esse respeito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE LATROCÍNIO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. DESCLASSIFICAÇÃO DO DELITO DE LATROCÍNIO PARA ROUBO SIMPLES. INCIDÊNCIA DA SÚMULA Nº 182/STJ E DA SÚMULA Nº 7/STJ. RECURSO NÃO PROVIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+2. Tendo a Corte de origem, soberana na apreciação da matéria fático-probatória, amparada na palavra da vítima e demais provas carreada aos autos, mantido a condenação do agravante pela prática dos delitos imputados ao agravante, a pretensão da Defesa de alterar tal entendimento exigiria revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+3. No caso, a análise do contexto fático assentado no acórdão não evidencia manifesta ilegalidade.
+4. Agravo regimental não provido."
+(AgRg no HC n. 773.499/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 14/5/2024, DJe de 23/5/2024.)
+Ainda sobre o tema, mutatis mutandis : AgRg no HC n. 814.843/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023; AgRg no HC n. 806.652/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/4/2023, DJe de 26/4/2023; AgRg no HC n. 771.324/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; e AgRg no HC n. 772.855/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Diante disso, não se constata, de plano, a flagrante ilegalidade apontada pela Defesa nestes autos.
+Ante todo o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
