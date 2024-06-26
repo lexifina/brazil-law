@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED DE SANTOS - COOPERATIVA DE TRABALHO MÉDICO, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/2/2024.
+Conclusos ao gabinete em: 12/6/2024.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por HILDA HIGASHIOMA em face da agravante, na qual requer o custeio de tratamento cirúrgico e materiais necessários.
+Sentença: julgou procedentes os pedidos iniciais para, confirmando a tutela provisória na forma concedida, condenar a ré na obrigação de fazer consistente em autorizar o procedimento cirúrgico descrito na inicial, com os materiais escolhidos dentre as três marcas fornecidas pelo médico assistente da autora, sob pena da multa coercitiva, bem como ao pagamento de compensação por danos morais, arbitrada em R$ 10.000,00 (dez mil reais).
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - Plano de Saúde - Cobertura assistencial - Beneficiária necessitando de cirurgia com materiais - Médico assistente que indicou três marcas homologadas pela operadora, a qual, entretanto, autorizou o fornecimento de marca diversa e não homologada - Recusa da operadora em fornecer uma das marcas solicitadas que é indevida - Precedentes - Resolução Normativa nº 424/17 da ANS que prevê a formação de junta médica, não constituída no caso presente - Danos morais caracterizados - Situação de agravamento do quadro de dor intensa não tratável com meios convencionais e aflição psicológica vivida pela autora, aguardando o procedimento não autorizado com risco de lesão neurológica - Quantum reduzido para R$ 5.000,00 (cinco mil reais) que é razoável e proporcional à hipótese - Precedentes deste Egrégio Sodalício - RECURSO PARCIALMENTE PROVIDO.
+Recurso especial: aponta violação aos arts. 186, 188, I, 927 e 944 do CC.
+Sustenta, em síntese, que não negou cobertura ao procedimento e aos materiais solicitados, que negativa ofertada se referiu exclusivamente à marca dos materiais, argumentando que não há obrigação legal e/ou contratual da operadora de fornecer o material de marca específica solicitada, de modo que não há que falar em ilicitude da negativa, assim como não há que falar em dano moral.
+Defende, ainda, a necessidade de minoração do valor arbitrado a título de dano moral, pois seria excessivo e desarrazoado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+Constata-se, da leitura das razões do recurso especial, que a agravante não impugnou, de maneira específica e consistente, os seguintes fundamentos utilizados pelo TJ/SP (e-STJ fls. 375/377):
+"(..) cumpre examinar a questão da obrigação de fornecimento dos materiais solicitados pelo médico assistente, que apontou três marcas homologadas na Unimed e disponíveis no mercado.
+Os motivos pelos quais entendia que a marca oferecida pela ora apelante não era indicada para o procedimento, a par da justificativa de ordem ético-profissional que inaugura o relatório de p. 32 a 35, revelador do senso de responsabilidade com que o médico assistente buscou aquilo que entende adequado para o paciente sob seus cuidados, e conforme justificativa técnica, foram expressos nos seguintes termos:
+(..)
+A operadora, por seu turno, deveria formar junta médica, o que não fez, conforme bem observou o magistrado prolator da sentença recorrida, acrescentando, ainda, que a justificação da operadora "por ser uma marca já utilizada pelos seus médicos por considerável tempo, inclusive, pelo médico assistente da autora" - não é o suficiente para afastar as opções de marcas indicadas pelo médico assistente:
+(..)
+No caso presente, ao nosso ver, cremos que há nos autos elementos que justificam a indicação das três marcas homologadas pelo médico assistente e a recusa da marca não homologada, oferecida pela operadora. Por outro lado, a operadora não trouxe justificativa idônea para a recusa das indicações do médico assistente.
+Por tais razões, ao nosso ver, a r. sentença deve ser mantida no ponto em que condenou a ora apelante na obrigação de fazer consistente em autorizar o procedimento cirúrgico descrito na inicial, com os materiais escolhidos dentre as três marcas fornecidas pelo médico assistente da autora."
+Logo, deve ser mantido o acórdão recorrido, ante a aplicação, na hipótese, da Súmula 283/STF.
+- Dos danos morais
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Na hipótese, verifica-se que o Tribunal de origem manteve a condenação da agravante no pagamento de compensação por danos morais examinando as circunstâncias específicas da hipótese quanto à experimentação de agravamento da situação psicológica da paciente (e-STJ fls. 377/378), em consonância com a jurisprudência pacificada desta Corte Superior de Justiça, não merecendo reforma o acórdão, portanto, neste ponto.
+Frise-se, além disso, que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa ao óbice da Súmula 7 desta Corte.
+Ademais, quanto ao pleito de redução dos danos morais, esta Corte Superior de Justiça possui firme entendimento que a alteração do valor fixado a título de compensação por danos morais na estreita via do recurso especial somente pode ocorrer nas hipóteses em que se tratar de valor exorbitante ou irrisório, o que não se verifica nos autos, em que foi fixado o valor de R$ 5.000,00 (cinco mil reais). Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 6/9/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/9/2016.
+Salvo essas hipóteses, incide a Súmula 7 do STJ, impedindo o conhecimento do recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. DANOS MORAIS. CONFIGURAÇÃO. SÚMULA 568/STJ. MINORAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+4. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
