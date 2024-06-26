@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED VITÓRIA COOPERATIVA DE TRABALHO MÉDICO (UNIMED), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Paraná, da relatoria da Desembargadora Gil Francisco de Paula Xavier Fernandes Guerra, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - AUTOR DIAGNOSTICADO COM LESÃO ENCEFÁLICA ANÓXICA -SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS INICIAIS- DETERMINAÇÃO DE CUSTEIO FORA DA REDE CREDENCIADA CONFORME TABELA DO PLANO DE SAÚDE E REEMBOLSO DE VALORES DESPENDIDOS COM O TRATAMENTO -INSURGÊNCIA DA PARTE RÉ.
+PRELIMINAR ARGUIDA EM CONTRARRAZÕES - PEDIDO NO SENTIDO DE QUE O RECURSO NÃO SEJA CONHECIDO POR VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - NÃO ACOLHIMENTO - RECURSO VOLTADO CONTRA OS FUNDAMENTOS COLIGIDOS NA SENTENÇA - PRELIMINAR REJEITADA.
+CODIGO DE DEFESA DO CONSUMIDOR - APLICABILIDADE -SERVIÇO SECURITÁRIO - ART. 3º, § 2º DO CDC - SÚMULA Nº 608-STJ - INTERPRETAÇÃO DO CONTRATO QUE DEVE SERFAVORÁVEL À CONSUMIDORA - ART. 47 DO CDC.
+PEDIDO NO SENTIDO DE AFASTAR O DEVER DE COBERTURA -OPERADORA QUE AFIRMA SER LEGÍTIMA A RECUSA EMRAZÃO DO PROCEDIMENTO NÃO CONSTAR DO ROL DA ANS- NÃO ACOLHIMENTO - PRONUNCIAMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA SOBRE A TAXATIVIDADE DO ROL (ERESP nº 1.886.929/SP), QUE NÃO TEM EFEITO VINCULANTE- CASUÍSTICA, ADEMAIS, QUE SE AMOLDA ÀS EXCEÇÕES PRECONIZADAS PELO NOVEL ENTENDIMENTO - CRIANÇA QUE PASSOU POR DIVERSAS INTERVENÇÕES CIRÚRGICAS INTRACRANIANAS SEM OBTER ÊXITO - EFICÁCIA DO TRATAMENTO PROPOSTO RELATADA PELO MÉDICO ASSISTENTE - PARECERES QUE INDICAM A EFICÁCIA DA TERAPÊUTICA - CLÁUSULAS CONTRATUAIS QUE DEVEM SERINTERPRETADAS À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR - ABUSIVIDADE DA RECUSA DE FORNECIMENTO DA TERAPÊUTICA NOS CASOS EM QUE HÁPREVISÃO DE COBERTURA DA DOENÇA - PRECEDENTESDESTE TRIBUNAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+ALEGAÇÃO DE LIMITAÇÃO DO REEMBOLSO AO NÚMERO DE SESSÕES PREVISTO NO ROL DA ANS - NÃO ACOLHIMENTO -QUANTIDADE MÍNIMA OBRIGATÓRIA - PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA - SUPERVENIÊNCIA DA RESOLUÇÃO NORMATIVA ANS Nº 541/2022 - REVOGAÇÃO DA DIRETRIZ DE UTILIZAÇÃO PARA O TRATAMENTO PRESCRITO- NÚMERO DE SESSÕES QUE DEVE RESPEITAR A INDICAÇÃO MÉDICA.
+PEDIDO NO SENTIDO DE AFASTAR O DEVER DE REEMBOLSO -TRATAMENTO INICIADO NA REDE NÃO CREDENCIADA SEM PEDIDO ADMINISTRATIVO PRÉVIO - NÃO ACOLHIMENTO -RECORRENTE QUE DEVE CUSTEAR O TRATAMENTO, MESMO FORA DA REDE CREDENCIADA, QUANDO PREVISTA ACOBERTURA PARA DOENÇA - HIPÓTESE EM QUE O REEMBOLSO DEVE SE LIMITAR AO VALOR PRATICADO PELA OPERADORA NA REDE CONVENIADA - RESP Nº 1.575.764/SP -AUSÊNCIA DE PEDIDO PRÉVIO - IRRELEVÂNCIA -NECESSIDADE PREEMENTE DE INICIAR O TRATAMENTO PARA MELHORES RESULTADOS - POUCA IDADE DO PACIENTE -SOLICITAÇÃO ADMINISTRATIVA NEGADA QUANDO FORMULADA.
+PEDIDO SUBSIDIÁRIO NO SENTIDO DE QUE SEJA APLICADA EXCLUSIVAMENTE A TAXA SELIC - NÃO ACOLHIMENTO -PREDOMINÂNCIA, NESTA CORTE, DA UTILIZAÇÃO DA CORREÇÃO MONETÁRIA PELA MÉDIA INPC/IGP-DI E JUROS DEMORA DE 1% AO MÊS - ÍNDICE QUE MELHOR REFLETE O FENÔMENO INFLACIONÁRIO - SENTENÇA INTEGRADA NOTOCANTE AOS CONSECTÁRIOS LEGAIS - RESPONSABILIDADE CONTRATUAL - TERMO INICIAL DOS JUROS DE MORA -CITAÇÃO - ART. 405 DO CÓDIGO CIVIL - TERMO INICIAL DACORREÇÃO MONETÁRIA - DATA DO EFETIVO PREJUÍZO -SÚMULA Nº 43 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+DETERMINAÇÃO, EX OFFICIO, PARA QUE SEJAMAPRESENTADOS RELATÓRIOS MÉDICOS SEMESTRAIS, OS QUAIS DEMONSTREM A NECESSIDADE DE CONTINUIDADE DO TRATAMENTO - ENUNCIADO Nº 2 DA JORNADA DE DIREITO DA SAÚDE DO CONSELHO NACIONAL DE JUSTIÇA - OBRIGAÇÃODE FAZER MANTIDA.
+HONORÁRIOS ADVOCATÍCIOS - MAJORAÇÃO EM SEDE RECURSAL - OBSERVÂNCIA DO ARTIGO 85,§ 11, DO CÓDIGO DE PROCESSO CIVIL.
+RECURSO NÃO PROVIDO (e-STJ, fls. 935/937).
+Nas razões do presente recurso, UNIMED alegou a violação aos arts. 10, § 4º, da Lei nº 9.656/98 e 4º, inciso III, da Lei nº 9.961/0 e 406 do CC, ao sustentar que (1) é o rol da ANS que determina a amplitude da cobertura de tratamentos pelo plano de saúde, não podendo o laudo médico se sobrepor ao rol taxativo. Afirma que o CDC não pode ser usado para impedir a vinculação de um contrato de plano de saúde à regulação da ANS. (2) Assevera que a substituição de correção e juros se dá pela taxa Selic também em relações de consumo.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar em parte .
+(1) Do plano de saúde
+A respeito da necessidade de cobertura do tratamento médico, os julgadores assim se posicionaram:
+Incontroverso que a parte agrava é beneficiária de contrato de plano de saúde.
+Extrai-se dos autos, que o paciente desenvolveu cisto cerebral congênito (CID 10 G93) (mov.) e, em decorrência de sequelas visuais graves e recorrentes necessidades de intervenções1.8cirúrgicas neurológicas, o médico assistente prescreveu tratamento contínuo de terapia ocupacional com integração sensorial Ayres.
+Consignando o profissional médico a necessidade de início imediato da terapêutica indicada, buscando aproveitar a terna idade do paciente para melhores resultados, o genitor do paciente iniciou o tratamento de forma particular e posteriormente solicitou cobertura e reembolso ao plano de saúde.
+Contudo, a solicitação não foi autorizada sob a justificativa do método indicado não constar no Rol da ANS.
+Ainda que o procedimento discutido não esteja previsto no rol da ANS, esta Câmara se filiou há muito tempo à jurisprudência até então firmada pela Terceira Turma do Superior Tribunal de Justiça, no sentido de não se tratar de rol taxativo, mas sim exemplificativo, sendo devida a cobertura de terapias não previstas desde que expressamente recomendadas por médico especialista.
+ ..
+De mais a mais, como já citado, não cabe à operadora de saúde limitar tratamentos de um modo geral, como no caso o tratamento às terapias ou produtos previstos no rol da ANS.
+Antes, ao médico responsável, incumbe prescrever o melhor tratamento para cada paciente de acordo com as necessidades e evolução da doença, não podendo ficar restrito apenas àqueles dispostos no rol mínimo descrito pela Agência Reguladora.
+ ..
+Assim, uma vez prevista cobertura para a doença, não cabe à parte recorrente restringir a cobertura às terapias ou produtos previstos no rol da ANS, uma vez que se trata de cobertura mínima obrigatória, o que não se confunde com taxatividade dos procedimentos lá esculpidos. (e-STJ, fls. 943/946).
+Com efeito, o plano de saúde deve custear o tratamento de doença coberta pelo contrato, porquanto as operadoras não podem limitar a terapêutica a ser prescrita, por profissional habilitado, ao beneficiário para garantir sua saúde ou sua vida (AgInt no REsp n. 2.060.991/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Desse modo, verificar de forma diversa do que decidiu o acórdão, no sentido de que a doença estaria coberta, demandaria o reexame do contrato, o que não é possível nesta sede, nos termos da Súmula nº 5 do STJ.
+(2) Da correção
+Sobre a questão, os julgadores assim entenderam:
+Não obstante a parte apelante pleiteie a aplicação exclusiva da taxa SELIC, deveras, o índice de correção monetária que melhor reflete a realidade inflacionária é a média entre o INPC e o IGP-DI, conforme aliás expressamente preceitua o Decreto 1.544/95.
+Outrossim, nesta Corte, há muito prevalece o entendimento pela aplicação, em separado, de correção monetária e juros de mora (e-STJ, fl. 953).
+No entanto, na linha da jurisprudência do STJ, é devida a atualização da verba indenizatória pela taxa Selic, que também contempla os juros de mora (AgInt no AREsp n. 1.632.322/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/5/2020, DJe de 1/6/2020).
+Assim, deve ser o recurso provido no tópico.
+Nessas condições, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, determinando a incidência apenas da taxa SELIC como índice de correção monetária.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO. NECESSIDADE. INCIDÊNCIA DA SÚMULA Nº 5 DO STJ. CORREÇÃO MONETÁRIA. TAXA SELIC. APLICABILIDADE. RECURSO ESPECIAL CONHECIDO E PROVIDO EM PARTE.
