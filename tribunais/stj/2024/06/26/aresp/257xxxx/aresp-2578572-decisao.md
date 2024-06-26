@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra decisão que negou seguimento ao recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquele Estado, que recebeu a seguinte ementa (e-STJ fl. 608):
+APELAÇÃO CRIMINAL - RECEPTAÇÃO - ART. 180, DO CP - SENTENÇA ABSOLUTÓRIA - APELO INTERPOSTO PELO MINISTÉRIO PÚBLICO -PLEITO CONDENATÓRIO SOB O FUNDAMENTO DA EXISTÊNCIA DE PROVAS SUFICIENTES DA MATERIALIDADE E AUTORIA DELITIVAS APTAS A ENSEJAR A CONDENAÇÃO DO RÉU - NÃO ACOLHIMENTO -CONJUNTO PROBATÓRIO ADUNADO AOS AUTOS QUE NÃO CONDUZEM À CERTEZA NECESSÁRIA PARA A PROLAÇÃO DO ÉDITO CONDENATÓRIO - DÚVIDA QUE AUTORIZA A ABSOLVIÇÃO - APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO REO - SENTENÇA MANTIDA NA ÍNTEGRA - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a defesa aponta contrariedade ao artigo 180 do Código Penal. Afirma que "no delito de receptação, a prova da licitude do bem cabe a quem o detenha. Assim, na forma do art. 156 do CPP, incumbiria ao réu comprovar que não tinha ciência da origem criminosa, em razão das circunstâncias do caso, segundo entendimento consolidado dos tribunais pátrios" (e-STJ fls. 634). Sustenta que há provas suficientes para estear a condenação.
+Contrarrazões às e-STJ fls. 641/648.
+Negou-se seguimento ao recurso especial às e-STJ fls. 651/655.
+No agravo, o recorrente insiste na presença dos pressupostos de admissibilidade do recurso especial.
+O Ministério Público Federal, às e-STJ fls. 699/703, ofereceu parecer opinando pelo não provimento do recurso.
+É o relatório. Decido.
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+De pronto, vale registrar que é assente a orientação jurisprudencial no sentido de que no crime de receptação, se o bem houver sido apreendido em poder do acusado, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova.
+Contudo, no caso dos autos o Tribunal a quo, a partir do acurado exame do acervo fático-probatório dos autos, concluiu que as provas obtidas no curso da instrução não são suficientes para justificar a condenação do acusado pelo crime de receptação, destacando que peculiaridades do caso concreto impedem o reconhecimento, com certeza, da autoria e materialidade do crime imputado.
+Com efeito, a Corte de origem, ao analisar os elementos de convecção apresentados, destacou que "quando do seu depoimento judicial, o réu não fora sequer questionado sobre saber da ilicitude na obtenção das latas de leite", bem como que "os policiais, quando ouvido em juízo, não deram a certeza de que o Réu era sabedor de que os objetos trocados pela droga eram objetos de furto por parte do menor" (e-STJ fls. 614).
+Assim sendo, a desconstituição do julgado, tal como pretende a acusação, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Cumpre, ainda, registrar que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado n. 7 da Súmula desta Corte (AgRg no AREsp 1.150.564/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 15/2/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
