@@ -1,0 +1,47 @@
+Decisão: Trata-se de recurso ordinário em face de acórdão proferido pelo Superior Tribunal de Justiça que, em sede de agravo interno, confirmou a decisão monocrática que denegou a segurança, o qual está assim ementado (eDOC 45):
+
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. PAGAMENTO DE PARCELAS RETROATIVAS. ASPECTOS FÁTICOS CONTROVERTIDOS. LIQUIDEZ E CERTEZA. NECESSIDADE DA DEMONSTRAÇÃO.
+
+    1. Mandado de segurança cuja tese exige a análise de fatos subjacentes controvertidos, a impedir o seu enfrentamento por meio da ação mandamental.
+
+    2. Nos termos da jurisprudência desta Corte, "o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus". (RMS n. 45.989/PB, relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/4/2015). 3. Agravo interno não provido.”.
+
+    Em suas razões, o Recorrente defende a liquidez e certeza do direito ao pagamento dos valores oriundos da declaração de anistia política (eDOC 53).
+
+    Aduz que “caberia a autoridade coatora provar o alegado, mas esta não o fez, se bastou em trazer aos autos suposta controvérsia, inexistente, que acabou por transferir ao recorrente o ônus da prova, como se fosse este do próprio recorrente, não é” (eDOC 53, p. 4).
+
+    Requer o provimento do presente recurso para que seja reformado o acórdão proferido pelo Superior Tribunal de Justiça, com a consequente concessão da segurança pleiteada.
+
+    A União apresentou as contrarrazões (eDOC 67).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    De fato, conforme entendeu o Superior Tribunal de Justiça, para a configuração do direito líquido e certo pretendido pelo Impetrante, ora Recorrente, exige-se dilação probatória, o que é incompatível com o rito mandamental.
+
+    Com efeito, a certeza e a liquidez do direito pressupõem fatos incontroversos, lastreados em prova pré-constituída. Nesse sentido, confiram-se os seguintes precedentes:
+
+    “MANDADO DE SEGURANÇA – PETIÇÃO INICIAL DESACOMPANHADA DOS DOCUMENTOS NECESSÁRIOS À COMPROVAÇÃO LIMINAR DOS FATOS ALEGADOS – INDISPENSABILIDADE DE PROVA PRÉ-CONSTITUÍDA – CONCEITO DE DIREITO LÍQUIDO E CERTO – FATOS INCONTROVERSOS E INCONTESTÁVEIS – RECURSO DE AGRAVO IMPROVIDO. – Refoge, aos estreitos limites da ação mandamental, o exame de fatos despojados da necessária liquidez, não se revelando possível a instauração, no âmbito do processo de mandado de segurança, de fase incidental de dilação probatória. Precedentes. – A noção de direito líquido e certo ajusta-se, em seu específico sentido jurídico-processual, ao conceito de situação decorrente de fato incontestável e inequívoco, suscetível de imediata demonstração mediante prova literal pré-constituída. Precedentes” (MS 23.190-AgR, Rel. Min. Celso de Mello, Plenário, DJe 09.02.2015).
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADE. COMISSÃO PROCESSANTE. MEMBROS. ESTABILIDADE. AUSÊNCIA. ALEGAÇÃO. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. INVIABILIDADE DE DILAÇÃO PROBATÓRIA. PODER JUDICIÁRIO. EXAME DO MÉRITO DO ATO ADMINISTRATIVO. IMPOSSIBLIDADE. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A certeza e liquidez do direito pressupõem fatos incontroversos, lastreados em prova pré-constituída, como já reconheceu este Tribunal. 2. A estabilidade dos membros da comissão de processo administrativo disciplinar foi declarada por portaria, que, como ato administrativo, possui presunção de legitimidade e veracidade. 3. É inviável o reexame do conjunto probatório a fim de infirmar a conclusão a que chegou o Tribunal a quo acerca da estabilidade dos integrantes da comissão processante. De fato, ante a inviabilidade de dilação probatória, em sede de mandado de segurança, o Poder Judiciário somente examina a legalidade do ato coator, dos possíveis vícios de caráter formal ou dos atos que atentem contra o princípio constitucional do devido processo legal. 4. Agravo regimental a que se nega provimento” (RMS 37.073-AgR, de minha relatoria, Segunda Turma, DJe 20.04.2023).
+
+    “AGRAVO INTERNO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO. AMAZÔNIA LEGAL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 435 E 933 DO CÓDIGO DE PROCESSO CIVIL. DOCUMENTOS NOVOS PRODUZIDOS EM SEDE DE PEDIDO REVISIONAL. MP N. 759/2016, CONVERTIDA NA LEI N. 13.465/2017. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA. PRECEDENTES. NULIDADES NÃO COMPROVADAS. PAS DE NULLITÉ SANS GRIEF. 1. O controle judicial dos atos administrativos restringe-se à regularidade e à legalidade do ato, à exceção de manifesta ilegalidade. 2. No caso, o simples fato de ter sido elaborado novo parecer favorável à recorrente no bojo de pedido de revisão, autorizado com o advento da MP n. 759/2016, convertida na Lei n. 13.465/2017, não legitima indevida interferência do Poder Judiciário em decisão reservada unicamente à Administração Pública. 3. A alegação concernente à existência de nulidade, absoluta ou relativa, exige a demonstração concreta do prejuízo, em observância ao princípio do pas de nullité sans grief. Precedentes. 4. Esta Corte possui entendimento consolidado no sentido de que o direito líquido e certo, capaz de autorizar o ajuizamento do mandado de segurança, é, tão somente, aquele que concerne a fatos incontroversos, constatáveis de plano, mediante prova literal inequívoca. Assim, a necessidade de amplo reexame do conjunto fático-probatório não condiz com os próprios pressupostos da ação mandamental. Precedentes. 5. Agravo interno desprovido” (RMS 37.825-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 26.08.2022).
+
+    Ademais, ressalto que não é possível a juntada de documentos posterior à impetração do mandado de segurança para a comprovação de eventual direito líquido e certo. Nesse sentido:
+
+    “PROCESSO CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. EXTINÇÃO SEM ANÁLISE DE MÉRITO. CARÊNCIA SUPERVENIENTE DA AÇÃO. VISTA DE PROVA DE CONCURSO PÚBLICO. DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL. JUNTADA POSTERIOR DE DOCUMENTOS. IMPOSSIBILIDADE. DIREITO LÍQUIDO E CERTO. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INCOMPATIBILIDADE. VIA MANDAMENTAL. RECURSO DESPROVIDO. I - A via mandamental encontra-se à disposição do jurisdicionado quando haja ato evidentemente ilegal ou abuso de poder por parte de autoridade, ou quem lhe faça as vezes, que ofenda direito líquido e certo. II - Direito líquido e certo, por sua vez, é aquele que se pode aferir de plano, tão somente com os documentos que acompanham a petição inicial. III - Significa dizer que o rito procedimental especial do mandado de segurança não admite complexidade processual, dadas as suas peculiaridades. IV - A discussão sobre a ilegalidade do concurso público exige, para o seu deslinde, a produção de outras provas que não aquelas até então carreadas aos autos. V - Documentos juntados a posteriori – após a extinção do feito - não tem aptidão de alterar esta situação. VI - Agravo regimental desprovido” (AO 1377-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 11.04.2012).
+
+    “Agravo regimental em mandado de segurança. Ausência de cópia da decisão apontada como coatora. Impossibilidade de dilação probatória em mandado de segurança. 1. A cópia do inteiro teor da decisão apontada como coatora é imprescindível à instrução da petição inicial do mandado de segurança e sua falta não pode ser suprida em momento posterior à impetração. 2. O mandado de segurança exige a comprovação de plano do quanto alegado, mediante provas pré-constituídas. Não se admite dilação probatória incidental nessa via processual. 3. Agravo regimental ao qual se nega provimento” (MS 30.204-AgR, Rel. Min. Dias Toffoli, Plenário, DJe 11.09.2013).
+
+    Ante o exposto, com fundamento no art. 21, § 1º,do RISTF, nego seguimento ao presente recurso ordinário em mandado de segurança.
+
+    Publique-se. Intime-se.
+
+    Brasília, 26 de junho de 2024.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
