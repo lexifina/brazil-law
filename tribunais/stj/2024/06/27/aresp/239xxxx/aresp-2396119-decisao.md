@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Recurso Em Sentido Estrito n. 8001243-06.2022.8.05.0243.
+Consta dos autos que o Ministério Público Estadual ofereceu denúncia criminal contra os agravados, imputando-lhes a prática dos delitos tipificados nos arts. 312 (peculato) e 316 (concussão), ambos do Código Penal - CP e arts. 33, caput (tráfico ilícito de entorpecentes) e 35, caput (associação para o tráfico), ambos da Lei n. 11.343/06. Após o recebimento da peça acusatória e apresentação de resposta à acusação , a magistrada singular concluiu pela nulidade do reconhecimento fotográfico realizado por testemunha, determinando o desentranhamento da referida prova dos autos (fl. 51).
+Recurso em sentido estrito interposto pela acusação foi desprovido (fl. 522). O acórdão ficou assim ementado:
+"RECURSO EM SENTIDO ESTRITO. MINISTÉRIO PÚBLICO. RECONHECIMENTO FOTOGRÁFICO. REQUISITOS DO ART. 226, DO CPP. NÃO PREENCHIDOS. RECURSO CONHECIDO E NÃO PROVIDO.
+O reconhecimento, na etapa preliminar, foirealizado de forma fotográfica, sem deixar claro o preenchimento de todos os requisitos previstos no art. 226 do CPP, como resta patente que a testemunha que procedeu o reconhecimento não foi ouvida em Juízo para confirmar os termos dispostos, após dispensa do Ministério Público.
+O reconhecimento de pessoa realizado na fase do inquérito policial, presencial ou fotográfico, demanda o cumprimento das formalidades previstas no art. 226 do CPP e a sua confirmação por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa." (fls. 501/502)
+Em sede de recurso especial (fls. 529/545), o MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA apontou violação ao art. 226 do Código de Processo Penal - CPP, sustentando, em síntese, que foi observado o procedimento legal previsto para reconhecimento de pessoas, sendo necessária declaração de licitude da aludida prova.
+Contrarrazões de EDIVAN FERREIRA DO ROSARIO e ROBERVAL FERREIRA LEITE (fls. 550/573).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ; e b) óbice da Súmula n. 83 do Superior Tribunal de Justiça - STJ (fls. 574/579).
+Em agravo em recurso especial, o parquet impugnou os referidos óbices (fls. 582/592).
+Contraminuta (fls. 595/619).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 634/639).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA manteve a decisão de primeiro grau, que determinou o desentranhamento do reconhecimento fotográfico, mediante seguinte fundamentação (fls. 508/509):
+"No caso concreto, o reconhecimento procedido na etapa preliminar foi realizado de forma fotográfica, após o Sr. Joacy Jorge de Silva ter dito no seu interrogatório: "(..). Reconhece as pessoas de Cristiano Maciel Rocha, conhecido com o Creu, Roberval Ferreira Leite, que esse tinha o cabelo tem grisalho; que tinha um moreno que reconhece com o sendo Edivan Ferreira do Rosário; que o quarto integrante. aparentava ter traços indígenas e um bigode fino, mas que não sabe quem é (..)" (id. 30510991).
+Em seguida ao narrado, a Autoridade policial procedeu o que denominou "Auto de Reconhecimento", no qual apresentou 09 (nove) fotos dos arquivos da Delegacia e coletadas na internet ao Sr. Joacy, tendo este indicado os acusados Cristiano Maciel Rocha, Roberval Ferreira Leita e Edivan Ferreira do Rosário como as pessoas citadas.
+Como visto, embora o reconhecimento fotográfico não seja legalmente previsto, tal prática é aceita pela atual jurisprudência pátria, desde que cumpridas as formalidades previstas no art. 226 do CPP e corroborado este por outras provas produzidas na instrução processual.
+ ..
+Assim, evidente a pertinência e correção do julgado combatido, proferido em linha com a atual jurisprudência das Cortes Superiores."
+Nos termos da jurisprudência desta Corte, o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa.
+Nesse sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. RECONHECIMENTO FOTOGRÁFICO. DISTINGUISHING. PRESENÇA DE PROVAS PARA A MANTENÇA DA CONDENAÇÃO DO RÉU. REVISÃO DA DOSIMETRIA. RECONHECIMENTO DA PRESCRIÇÃO E SOLTURA, PLEITOS A SEREM DEDUZIDAS NAS INSTÂNCIAS ORDINÁRIAS. AGRAVO DESPROVIDO.
+ ..
+2. Ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021).
+ ..
+5. Agravo desprovido.
+(AgRg no HC n. 891.344/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+No caso, conforme consignado pelas instâncias ordinárias, além de não ter sido observada a formalidade do art. 226 do CPP, não foi colhida prova independente, na fase judicial, que corroborasse o procedimento.
+A propósito:
+HABEAS CORPUS. ROUBO QUALIFICADO. CORRUPÇÃO DE MENORES. NEGATIVA DE AUTORIA. RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. SUPORTE PROBATÓRIO INSUFICIENTE. CERTEZA NÃO DEMONSTRADA. NULIDADE RECONHECIDA. ABSOLVIÇÃO DO PACIENTE.
+1. No julgamento do HC 598.886/SC, da relatoria do Min. Rogério Schietti Cruz, decidiu a Sexta Turma, revendo anterior interpretação, no sentido de que se "determine, doravante, a invalidade de qualquer reconhecimento formal - pessoal ou fotográfico - que não siga estritamente o que determina o art. 226 do CPP, sob pena de continuar-se a gerar uma instabilidade e insegurança de sentenças judiciais que, sob o pretexto de que outras provas produzidas em apoio a tal ato - todas, porém, derivadas de um reconhecimento desconforme ao modelo normativo - autorizariam a condenação, potencializando, assim, o concreto risco de graves erros judiciários".
+2. Na hipótese, percebe-se que o reconhecimento pessoal do imputado, ora paciente, não obedeceu aos ditames do precedente mencionado (HC 598.886/SC) e, mais grave ainda, da própria norma processual em causa (art. 226 - CPP), porquanto a vítima o reconheceu por meio de fotografia veiculada na impressa e, em nível policial, o reconheceu sem a apresentação de pessoas semelhantes e sem a indicação de justificativa plausível acerca de impossibilidade de realização do ato nos termos estabelecidos na norma legal.
+3. Como observado no HC n. 598.886/SC, " à  vista dos efeitos e dos riscos de um reconhecimento falho, a inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo".
+4. Habeas corpus concedido. Reconhecimento da nulidade ocorrida em relação ao reconhecimento fotográfico. Absolvição do paciente (art. 386, VII - CPP). Revogação da prisão preventiva, se por outro motivo não estiver preso.
+(HC n. 687.103/RN, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
