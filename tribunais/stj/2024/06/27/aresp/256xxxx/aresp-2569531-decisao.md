@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PLANO DE SAÚDE Necessidade de fisioterapia domiciliar, após cirurgia para colocação de prótese de quadril- Autora que atualmente reside em casa de repouso Negativa de cobertura de tratamento home care - Restrição contratual alegada Incidência do Código de Defesa do Consumidor e da Lei 9.656/98 - Cláusula limitativa que viola os arts. 47 e 51, IV e § 1º, II, do CDC Indicação médica demonstrada Incidência das Súmulas 90 e 102, deste Tribunal de Justiça Inexistência de previsão expressa no rol da ANS que não deve ser interpretada em desfavor do beneficiário dos serviços - Rol da ANS que prevê apenas referência básica, conforme Lei 14.454/22- Sentença de procedência mantida- Recurso desprovido." (fl. 252)
+Sob a alegação de ofensa aos arts. 47, 51, IV, 54, § 4º, do CDC, 10, § 4º, 35-F da Lei n. 9.656/98, a recorrente sustenta, em síntese, que "não há que se falar em cobertura para o atendimento domiciliar que não se dá em substituição à internação hospitalar, tendo a Recorrente se comprometido apenas à prestação de serviços de assistência à saúde dentro dos limites legais e contratuais" (fl. 269).
+Contrarrazões às fls. 275/279.
+É o relatório.
+O acórdão deve ser mantido. "O Superior Tribunal de Justiça firmou entendimento no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no REsp n. 2.083.366/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.).
+Na hipótese, portanto, em que pessoa idosa se submete a cirurgia para colocação de prótese de quadril, havendo a possibilidade de se prosseguir com os tratamentos para a recuperação na residência dela (sessões de fisioterapia), deve a operadora do plano de saúde garantir o custeio respectivo.
+Assim, ante a conformidade do acórdão recorrido com a jurisprudência desta Corte, incide o óbice da Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida para 16% sobre o valor da causa.
+Publique-se.
+EMENTA
