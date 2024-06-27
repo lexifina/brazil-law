@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por KIELING & PENZ TRANSPORTES E LOGISTICA LTDA - ME contra decisão que conheceu do agravo para conhecer do recurso especial para cassar acórdão de fls. 648-656 e 669-677 (e-STJ), em razão do afastamento da ilegitimidade ativa reconhecida pelo v. acórdão recorrido e, assim, determinando o retorno dos autos ao eg. Tribunal de Justiça do Estado do Rio Grande do Sul, para que prossiga no julgamento da apelação.
+Em suas razões, a parte embargante afirma que a decisão partiu de premissa fática equivocada, uma vez que a apólice dos autos é do ramo 21 - transporte nacional, e não do ramo 55 - Responsabilidade Civil do Transportador Desvio de Carga - RCF-DC. Daí conclui a inaplicabilidade do entendimento jurisprudencial citado em fundamentação para reconhecer a condição de beneficiário do seguro e, portanto, parte legítima para a demanda.
+Impugnação apresentada às fls. 784-789 (e-STJ).
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada.
+Nesse passo, é pertinente salientar que, a despeito do esforço argumentativo, as razões dos aclaratórios evidenciam o intuito exclusivamente infiringente, e não a efetiva indicação de vícios do art. 1.022 do CPC. Convém ainda esclarecer que não está em causa que a circular Susep 395/2009, atualmente revogada e referida nos aclaratórios, tinha por finalidade tão somente estabelecer a codificação dos ramos de seguro e dispõe sobre a classificação das coberturas contidas em planos de seguro, para fins de contabilização. Além disso, os dois ramos indicados referem-se ao mesmo ramo principal, distinguindo-se pelas coberturas relacionadas ao objeto do contrato de seguro. No caso, não se discute a existência de cobertura de perda da mercadoria por desaparecimento de cargo.
+Desse modo, não há erro de fato a ser sanado, tampouco vícios de omissão.
+Com esses fundamentos, rejeito os embargos de declaração .
+Publique-se.
+EMENTA
