@@ -1,0 +1,8 @@
+DECISÃO
+Inicialmente, verifica-se que foi sanado o vício de representação processual pela recorrente.
+A controvérsia dos autos cinge-se a saber se é ou não possível a alteração do plano de recuperação judicial no tocante à correção dos créditos pela TR, com a sua substituição pelos índices de atualização divulgados pelo TJSP, bem como a alteração da data inicial do período de supervisão e a supressão das garantias prestadas por coobrigados.
+Em consulta ao sítio de informações do TJSP, extrai-se que o plano de recuperação judicial em discussão foi homologado em 16.5.2019. Posteriormente, a recuperanda informou que o PRJ aprovado não estava sendo cumprido em razão da pandemia da covid 19. Foi então convocada nova assembleia em 31.8.2021 para deliberar sobre aditivo ao PRJ. Em 27 de outubro de 2021, foi proferida decisão que convolou a recuperação judicial em falência. Contra a decisão foi interposto agravo de instrumento ao qual foi dado provimento em 4 de setembro de 2023 para determinar a votação de aditivo em assembleia geral de credores. Ainda não foi realizada a assembleia geral de credores para votação do aditivo ao PRJ. Esse é o atual estágio do processo.
+Com isso, tem-se duas situações que poderão ocorrer na assembleia geral de credores: a) a não aprovação do aditivo, hipótese em que haverá a convolação da recuperação judicial em falência nos termos do art. 73, IV, da Lei 11.101/2005 pois a recuperanda terá descumprido as suas obrigações; ou b) aprovação do aditivo, ocasião em que certamente terá alterações nas condições estabelecidas no plano original, objeto do presente reclamo.
+Dessarte, forçoso reconhecer a falta superveniente de interesse recursal pela perda do objeto.
+Isso posto, deixo de conhecer o recurso.
+EMENTA
