@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por VICTOR NASCIMENTO DOS SANTOS contra decisão que inadmitiu o recurso especial interposto, com fulcro na alínea a do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.23.105645-8/001).
+A controvérsia encontra-se bem relatada no parecer do Ministério Público Federal (e-STJ fls. 1.422/1.423):
+Tal como se vê dos autos, VICTOR NASCIMENTO DOS SANTOS, ora recorrente, foi condenado como incurso nas sanções do artigo 157, § 2º, II e V, e §2º-A, I (por três vezes), na forma do artigo 70, ambos do Código Penal (roubo majorado, pelo concurso de agentes, restrição à liberdade da vítima e emprego de arma de fogo) à pena de 10 anos de reclusão, em regime inicial fechado, e ao pagamento de 60 dias-multa, por ter, em 09/11/2018, junto com corréus, após invadir a casa das vítimas, subtrair vários pertences/bens delas, mediante emprego de arma de fogo e privando-as da liberdade, vítimas essas que permaneceram amarradas e trancadas em um cômodo durante certo período de tempo.
+O TJMG negou provimento, por maioria, ao recurso de apelação interposto pelo réu VICTOR que, em seu apelo, pleiteava tão somente a redução da pena-base e o afastamento das majorantes relativas ao emprego de arma de fogo e à privação da liberdade das vítimas, mantendo, entretanto, incólume a sentença.
+Irresignado, VICTOR NASCIMENTO DOS SANTOS interpôs o recurso especial ora examinado, com arrimo no artigo 105, III, "a", da Constituição Federal, no qual, em total inovação recursal sustenta a presença de contrariedade ao artigo 226 do Código de Processo Penal, sob o argumento de que a vítima, no caso, teria sido induzida por um policial a reconhecer o autor do crime tanto pessoalmente quanto por meio de fotografia, pelo que seria nulo o procedimento de reconhecimento feito no inquérito. Requer, assim, ao final, a sua absolvição por insuficiência de provas válidas de autoria.
+O MPMG apresentou contrarrazões recursais às fls. 1399/1405 e-STJ, manifestando-se pela não admissão ou, caso admitido, pelo não provimento do recurso.
+Admitido o especial, foram os autos remetidos a esse Superior Tribunal de Justiça de onde, após regular distribuição, vieram com vista ao Parquet Federal, para análise e emissão de opinativo, o que se passa a fazer.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pelo desprovimento do recurso especial.
+É o relatório.
+Decido.
+O apelo nobre não merece conhecimento.
+Isso, porque o Tribunal de origem não tratou de forma específica sobre a tese de nulidade do reconhecimento pessoal do réu, inclusive porque o tema não foi objeto da apelação defensiva, carecendo, assim, do necessário prequestionamento, motivo pelo qual não pode ser aqui examinada, ante o que preceitua a Súmula n. 211/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO CONTRA PREVIDÊNCIA SOCIAL. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. ATENUANTE DA CONFISSÃO, VETORES JUDICIAIS DA CULPABILIDADE E DA CONSEQÜÊNCIAS DO CRIME E FRAÇÃO PELO RECONHECIMENTO DA CONTINUIDADE DELITIVA. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO DESPROVIDO.
+2. As matérias, objeto do recurso especial, não foram debatidas na instância de origem, ressentindo-se o recurso especial do necessário prequestionamento. Incidência da Súmula 211/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1618153/PB, Rei. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/11/2016, DJe 5/12/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 253 DO RISTJ. DECISÃO MONOCRÁTICA DO RELATOR. CONHECIMENTO DO AGRAVO PARA NEGAR-LHE PROVIMENTO, POIS CORRETA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. NÃO OCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. RECURSO ESPECIAL QUE NÃO ULTRAPASSOU OS ÓBICES DE ADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7, 83 E 211 DO STJ. RECURSO NÃO PROVIDO.
+4. Não houve prévia análise do art. 65, § 3º, do Decreto Lei n. 5.123/2004 e a parte, a despeito da oposição de embargos, não provocou a manifestação do Tribunal de origem, o que atrai a incidência da Súmula n. 211 do STJ, em razão da falta de prequestionamento.
+5. Agravo regimental não provido. (Aglnt no AREsp 373.458/RS, Rei. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2016, DJe 17/05/2016.)
+No ponto, ressalto que "a jurisprudência desta Corte é firme no sentido de que, na instância especial, é vedado o exame ex officio de questão não debatida na origem, ainda que se trate de matéria de ordem pública" (AgRg no AREsp n. 397.336/MG, relator Ministro Raul Araújo , Quarta Turma, julgado em 20/3/2014, DJe 6/5/2014).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
