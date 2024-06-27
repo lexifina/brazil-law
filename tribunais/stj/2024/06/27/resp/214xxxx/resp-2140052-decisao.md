@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO ITAU CONSIGNADO S.A., com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. DANOS MORAIS. JUROS REMUNERATÓRIOS. ABUSIVIDADE. SENTENÇA REFORMADA EM PARTE.
+1. A alteração da taxa de juros remuneratórios, em se tratando de pacto firmado por instituição cadastrada no sistema financeiro nacional, depende da demonstração cabal de sua abusividade em relação à taxa média do mercado estabelecida pelo Banco Central para o período, o que se verifica no caso em apreço.
+2. Ademais, em se tratando de ação de cunho revisional, cabível a compensação com as parcelas vencidas e/ou devolução simples do indébito, sob pena de enriquecimento indevido da instituição financeira requerida. Incidência de correção monetária a contar do desembolso e juros moratórios, de 1% ao mês, a partir da citação, por se tratar de relação contratual, o que atrai a incidência do disposto no art. 240, "caput", do CPC.
+3. A descaracterização da mora está relacionada à revisão dos encargos previstos para o período da normalidade contratual (juros remuneratórios e capitalização). No caso em apreço, como houve revisão dos juros remuneratórios, deve ser afastada a mora contratual
+4.No que tange o dano moral, a revisão de cláusulas contratuais por si só não demonstra o reconhecimento do abalo moral, inexistindo elemento probatório mínimo nos autos, nos termos do Art. 373, Inciso I do CPC.
+APELAÇÃO PARCIALMENTE PROVIDA." (186)
+Os embargos de declaração opostos foram rejeitados (fls. 209-213).
+Em suas razões recursais, aponta, além de divergência jurisprudencial, violação dos arts. 1.022, II, do Código de Processo Civil; 1º e 4º, IX, da Lei nº 4.595/64; 39, 51 e 52, II, § 1º, do Código de Defesa do Consumidor; e 397 e 406 do Código Civil.
+Sustenta haver negativa de prestação jurisdicional por parte do Tribunal a quo quanto ao exame da tese acerca da "delimitação de abrangência realizada no julgamento do Recurso Especial Repetitivo n. 1.061.530/RS, que excluiu os contratos consignados das orientações por ele firmadas e, consequentemente, a existência e aplicabilidade do regramento específico atinente à espécie contratual sub judice, qual seja, a Instrução Normativa n. 28/2008 do INSS" (fls. 244-245).
+Além disso, o banco recorrente se insurge contra a limitação dos juros remuneratórios com base na taxa média de mercado.
+Não foram apresentadas contrarrazões (vide certidão à fl. 380).
+É o relatório. Passo a decidir.
+Com efeito, contra o v. acórdão da apelação, a parte ora recorrente opôs embargos de declaração, apontando a existência de omissão, como se infere da leitura do seguinte trecho das razões postas nos aclaratórios:
+"De acordo com o entendimento desta C. Câmara, cabível a limitação das taxas de juros remuneratórios estipuladas no contrato de empréstimo consignado sub judice, porquanto pactuadas em índices significativamente superiores às respectivas médias de mercado.
+Ao assim decidir, contudo, o acórdão omitiu pronunciamento a respeito da delimitação de abrangência do julgamento do Recurso Especial Repetitivo nº 1.061.530/RS, que expressamente excluiu os empréstimos consignados das orientações ali firmadas. Por consequência, nada foi referido sobre a existência de regramento próprio pertinente à matéria, consubstanciado em Instrução Normativa editada pelo INSS, em que consta a taxa de juros máxima a ser cobrada em contratos da natureza tratada." (Fl. 195).
+Por seu turno, o eg. TJ-RS rejeitou os aclaratórios sem se manifestar acerca da tese delimitada, como se vislumbra da leitura do acórdão de fls. 209-213. Nesse cenário, conclui-se que o eg. Tribunal Estadual não sanou de forma clara e precisa o tema ora destacado, o qual se mostra relevante ao deslinde do litígio, porque pode influenciar no resultado do julgamento. Com efeito, a iterativa jurisprudência desta eg. Corte é no sentido de que fica caracterizada a violação ao art. 1.022 do CPC/15, quando o eg. Tribunal a quo deixa de examinar temas essenciais ao desate da controvérsia, apesar de devidamente provocado em sede de embargos de declaração. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO PROFERIDO EM APELAÇÃO. OMISSÃO VERIFICADA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Recurso especial provido."
+(REsp n. 2.005.719/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 14/2/2023, DJe de 2/3/2023 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido."
+(AgInt no REsp 1754832/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1113795/RS, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2018, DJe 15/03/2018 - g. n.)
+Nesse contexto, deve ser reconhecida a violação ao art. 1.022 do CPC/15, o que acarreta a anulação do v. acórdão (fls. 209-213) que julgou os declaratórios; e, por consequência, devem os autos retornar ao eg. TJ-RS para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão ora reconhecida.
+Por sua vez, acolhida a alegada ofensa ao art. 1.022 do CPC/15, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+Diante do exposto, dou parcial provimento ao recurso especial.
+Publique-se.
+EMENTA
