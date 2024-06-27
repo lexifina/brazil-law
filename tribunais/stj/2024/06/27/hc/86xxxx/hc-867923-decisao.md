@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de Rodrigo de Oliveira Franca, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 5015123-05.2023.8.24.0033).
+O paciente foi condenado à pena de 1 ano, 7 meses e 18 dias de reclusão, em regime inicial fechado, e 7 dias-multa, pela prática do crime de furto qualificado tentado, pelo Juízo da 2ª Vara Criminal da comarca de Itajaí/SC (fls. 173/180).
+O Tribunal a quo, em 19/9/2023, negou provimento ao apelo defensivo, nos termos da seguinte ementa (fl. 281):
+APELAÇÃO CRIMINAL. RÉU PRESO. CONDENADO PELA PRÁTICA DO CRIME DE FURTO (ART. 155, § 4º, I, C/C O ART. 14, II, AMBOS, DO CP). RECURSO DA DEFESA. PLEITO DE ABSOLVIÇÃO PELA ALEGADA INSUFICIÊNCIA DE PROVAS E, SUBSIDIARIAMENTE, DE DECOTE DA VALORAÇÃO NEGATIVA CONFERIDA AO VETOR CULPABILIDADE. RECURSO CONHECIDO E DESPROVIDO. 1. SUFICIÊNCIA DE PROVAS DA AUTORIA DELITIVA. NÃO HÁ FALAR EM INSUFICIÊNCIA PROBATÓRIA QUANDO OS ELEMENTOS INFORMATIVOS E AS PROVAS COLHIDAS NOS AUTOS, ANALISADOS EM CONJUNTO, FORMAM UM ARCABOUÇO PROBATÓRIO SUFICIENTE PARA EMBASAR A CONDENAÇÃO. NA HIPÓTESE, A PROVA ORAL COLETADA, ESPECIALMENTE OS DEPOIMENTOS DO OFENDIDO E GUARDAS MUNICIPAIS, SOMADAS ÀS IMAGENS DA CÂMERA DE SEGURANÇA DO PRÉDIO VIZINHO E DEMAIS DOCUMENTOS CARREADOS AOS AUTOS, CORROBORAM A VERSÃO APRESENTADA EM TODOS OS PONTOS, NÃO DEIXANDO DÚVIDAS ACERCA DA AUTORIA DELITIVA POR PARTE DO APELANTE. 2. VETOR CULPABILIDADE. O COMETIMENTO DE NOVO DELITO ENQUANTO RESPONDIA PELA PRÁTICA DE OUTRO DELITO DENOTA MAIOR GRAVIDADE NA SUA CONDUTA, SENDO PORTANTO FUNDAMENTO IDÔNEO A JUSTIFICAR A EXASPERAÇÃO DA PENA-BASE.
+Daí a presente impetração, em que se alega, em suma, constrangimento ilegal na dosimetria da pena diante da exasperação da pena-base em razão da valoração negativa da culpabilidade do paciente, sem fundamentação idônea.
+Sustenta-se que, considerando que se trata de execução de pena cuja condenação definitiva já foi considerada como reincidência na segunda fase da dosimetria para o fim de agravar a pena, é um verdadeiro bis in idem aumentar a pena base na primeira fase com a mesma justificativa (fl. 7).
+Requer-se, liminarmente, a suspensão da condenação até o julgamento do presente writ. No mérito, pugna-se pelo afastamento da valoração negativa, na pena-base, do vetor culpabilidade.
+Em 9/11/2023, indeferi o pedido liminar (fls. 292/293).
+Prestadas as informações (fls. 299/301 e 303/326), o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 330/334):
+HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. FURTO QUALIFICADO. CONDENAÇÃO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CULPABILIDADE E REINCIDÊNCIA. COMETIMENTO DO DELITO ENQUANTO RESPONDIA PELA PRÁTICA DE OUTRO CRIME. FUNDAMENTAÇÃO IDÔNEA. MOTIVAÇÃO DIVERSA. AUSÊNCIA DE BIS IN IDEM. MODIFICAR O QUE FOI FIXADO EXIGE REEXAME DE FATOS E PROVAS. EXERCÍCIO INVIÁVEL EM SEDE DE WRIT. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PELO NÃO CONHECIMENTO DO HABEAS CORPUS OU PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+O presente pedido não comporta conhecimento.
+Primeiro, porque a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado, o que é inadmissível.
+Depois, porque é entendimento deste Superior Tribunal que a prática de novo crime durante o período de cumprimento de pena imposta em outro processo justifica a elevação da pena-base, diante do menosprezo do réu à ordem jurídica e às decisões judiciais, não configurando bis in idem com as sanções que lhe serão impostas no processo de execução da pena relativa ao delito anterior (AgRg no HC n. 891.023/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/4/2024).
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. VIA ELEITA INADEQUADA. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DA CULPABILIDADE. COMETIMENTO DO DELITO QUANDO EM CUMPRIMENTO DE PENA PELA PRÁTICA DE OUTRO CRIME. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ não conhecido.
