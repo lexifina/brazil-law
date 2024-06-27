@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de KAIQUE DE JESUS SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1501342-18.2023.8.26.0599.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial aberto, mais o pagamento de 166 (cento e sessenta e seis) dias-multa, por violar o art. 33, caput, da Lei nº 11.343/06, que foi substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e pecuniária (fls. 180-210).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do acórdão de fls. 248-258.
+Dai o presente writ, onde a impetrante alega, em síntese, a ocorrência de constrangimento ilegal condenação do paciente, haja vista a precariedade e ausência de provas para a condenação.
+Para tanto, sustenta que "As versões apresentadas pelas testemunhas de acusação são inconsistentes, não trazendo a segurança jurídica necessária quanto a autoria e prática do crime de tráfico de drogas pelo paciente." (fl. 7).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para que seja o paciente absolvido, nos termos do art. 386, VII do Código de Processo Penal.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a absolvição do paciente do paciente.
+Inicialmente cumpre ressaltar que o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+A propósito do tema, trago à colação os seguintes julgados desta Quinta Turma:
+" ..
+3. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam pela presença de liame subjetivo no roubo praticado pelos agentes. Concluir de forma diversa implica exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 1364727/DF, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 22/11/2018);
+" ..
+1. O Tribunal a quo soberana na análise dos elementos fáticos e probatórios dos autos, concluiu que a autoria e a materialidade do crime consumado ficaram devidamente demonstradas nos autos pelas "palavras da vítima em consonância com os dizeres dos milicianos, e a contradição e inverossimilhança das alegações dos acusados." Ademais, não reconheceu a forma tentada tendo em vista que "os réus somente foram encontrados em virtude de diligências encetadas pelos policiais militares" em cooperação recíproca e carregando o portão furtado. No que toca a questão do concurso o aresto combatido frisou que o "ofendido narrou que foram dois indivíduos que, agindo em conjunto, desprenderam o portão de sua residência e, em seguida, evadiram-se com o bem. Não se esqueça, ademais, que ambos foram encontrados pela polícia enquanto, em cooperação recíproca, carregavam o objeto." Nesse contexto, a alteração do julgado, para o fim de absolver, diminuir a reprimenda pela tentativa ou excluir o concurso de agentes, implicaria necessariamente o reexame do material fático-probatório. Todavia, tal providência é inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+ ..
+5. Agravo regimental não provido." (AgRg no AREsp 420.467/SP, Rel. Ministro Ribeiro Dantas, QUINTA TURMA, julgado em 2/10/2018, DJe 10/10/2018).
+No caso, a Corte Estadual entendeu estar configurada o crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06), sob os seguintes fundamentos:
+"A autoria é incontroversa.
+Senão vejamos.
+O policial militar Érick de Pádua e Silva, nas duas oportunidades em que ouvido, informou que, durante patrulhamento em local conhecido como ponto de venda de drogas, avistou dois indivíduos, um passando algo para outro. Ao perceberem a presença da viatura, um deles empreendeu fuga, passando a persegui-lo, visualizando o momento em que dispensou uma sacola, sendo abordado após cair em um terreno acidentado. A sacola foi recuperada, constatando-se a existência de porções de maconha, cocaína e crack em seu interior, além de dinheiro.
+Indagado a respeito, o réu assumiu a prática do narcotráfico. O outro indivíduo que efetuava a transação com o acusado conseguiu fugir (fls. 4/5 e vídeo). No mesmo sentido foi o depoimento do policial militar Fabio Monteiro Bohac, ouvido somente na fase administrativa (fl. 6).
+Em juízo, Kaique negou a imputação, alegando, em síntese, que estava no local para adquirir maconha, uma vez que é usuário. Quando os policiais surgiram, saiu em disparada para um lado, enquanto "outro moleque" fugiu na direção contrária. Ao ser abordado, portava apenas um telefone celular e a importância de R$ 43,00 (vídeo).
+Gustavo Fidelis de Oliveira, testemunha de defesa, disse conhecer o acusado e que viu quando ele foi perseguido.
+Informou que também foi abordado e os policiais lhe falaram que os entorpecentes encontrados lhe pertenciam. No entanto, outro policial chegou com o réu, afirmando que a droga era dele (vídeo).
+Assim, fartas são as provas acusatórias.
+Malgrado o reclamo defensivo, oportuno anotar que a atuação dos agentes públicos se revestiu de legalidade, ao menos pelo que se extrai dos autos, pois não há nenhuma demonstração concreta de irregularidade ou arguição que tenha fundamento a ponto de mudar o quadro formado.
+Ressalte-se, outrossim, que não existe dispositivo legal que vede ao agente da lei servir como testemunha. Além disso, não se acredita que servidores públicos, inclusive os policiais militares, empossados que são após compromisso de fielmente cumprirem seus deveres iriam apresentar testemunhos ou provas ideologicamente falsas, com o simples intuito de inculpar inocentes. Ao contrário, os funcionários públicos têm a presunção de que no desempenho de suas atuações agem corretamente.
+Esse é o posicionamento do Superior Tribunal de Justiça:
+ ..
+O depoimento da testemunha de defesa em nada infirma os testemunhos dos policiais militares. Ao revés, apenas corrobora o desdobramento fático por eles narrado. Note-se que o policial Érick foi taxativo em asseverar que visualizou o acusado dispensando uma sacola plástica durante a fuga, no interior da qual foram encontradas as drogas.
+Sem embargo, não se vislumbra qualquer motivo pelo qual os agentes da lei teriam interesse em incriminar falsamente o acusado. Ao contrário, observe-se que seus depoimentos são firmes, coerentes e substanciosos, razão pela qual são merecedores de credibilidade.
+Dessa forma, a responsabilidade de Kaique está comprovada pela robustez das provas carreadas aos autos e nenhum elemento trazido foi capaz de amparar genuína e objetivamente a defesa, de modo a macular a certeza da demonstração de sua conduta ilícita pelo crime previsto no art. 33, caput, da Lei nº 11.343/06.
+Não apenas a natureza, a diversidade e a quantidade das drogas, a forma como estavam acondicionadas, além das circunstâncias da apreensão e os depoimentos firmes e coesos das testemunhas policiais justificam o reconhecimento da prática delitiva, com a imposição de uma pena que seja a medida necessária e suficiente para a prevenção e reprovação do narcotráfico.
+Para configuração do crime imputado ao réu, não se exige qualquer ato de tráfico, bastando que o agente traga consigo, tenha em depósito ou guarde a substância entorpecente, não se exigindo a traditio para consumação do delito. Assim, a forma de acondicionamento das drogas (140 porções, entre crack, maconha e cocaína, embaladas e prontas para venda) revela que sua destinação seria a entrega ao consumo de terceiros, afastando-se a tese de insuficiência probatória.
+Destarte, a condenação pelo delito de tráfico de drogas era a medida que se impunha." |(fls. 253-257).
+Nesse contexto, se o Tribunal de origem entendeu, de forma fundamentada, mediante valoração do acervo probatório produzido nos autos, especialmente ante os depoimentos das testemunhas policiais e das circunstâncias em que ocorreu a prisão do paciente, a análise das alegações concernentes ao pleito de absolvição, demandaria exame detido de provas, inviável em sede de writ.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
