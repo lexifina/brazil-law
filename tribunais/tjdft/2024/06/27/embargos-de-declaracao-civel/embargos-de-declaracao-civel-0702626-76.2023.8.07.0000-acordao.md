@@ -1,0 +1,126 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0702626-76.2023.8.07.0000AGRAVANTE(S)MARIA HELENA ALENCAR SCUTTIAGRAVADO(S)PAULO HENRIQUE SCUTTIRelatorDesembargador ARNOLDO CAMANHO
+ Acórdão Nº1886117
+
+EMENTA
+
+ EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. PROCESSUAL CIVIL. ART. 1.022, DO CPC. INEXISTÊNCIA CONTRADIÇÃO. PREQUESTIONAMENTO.  MULTA, ART. 1.026, §2º, DO CPC.
+
+1. De acordo com o art. 1.022, do CPC, cabem embargos de declaração quando houver, em qualquer decisão judicial, obscuridade, contradição, omissão, ou, ainda, para corrigir erro material. Não têm, portanto, a finalidade de substituir o acórdão embargado nem tampouco sanar os fundamentos de uma decisão.
+
+2 A contradição que legitima a interposição dos embargos de declaração ocorre quando se verifica incongruência entre os fundamentos do voto, entre estes e a conclusão, entre o acórdão e a ementa, ou entre a parte dispositiva do voto e o resultado do julgamento do recurso, ou seja, sempre que, havendo proposições inconciliáveis entre si, a afirmação de uma importará, logicamente, na negação de outra. A divergência entre a conclusão adotada no acórdão e o entendimento da parte acerca de determinado tema não enseja a oposição de embargos de declaratórios.
+
+3. Mesmo que para fins de prequestionamento, os embargos de declaração devem vir embasados em uma das hipóteses do art. 1.022, do CPC. Se a parte embargante não concorda com a fundamentação expendida no acórdão embargado – afinal, as decisões judiciais nem sempre satisfazem os interesses daqueles que procuram o Judiciário –, e já que a questão não comporta solução pela via estreita e bem definida dos embargos de declaração, deve a irresignação, se o caso, ser deduzida por outra via.
+
+4. Embargos declaratórios não providos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNOLDO CAMANHO - Relator, JAMES EDUARDO OLIVEIRA - 1º Vogal e SÉRGIO ROCHA - 2º Vogal, sob a Presidência do Senhor Desembargador ARNOLDO CAMANHO, em proferir a seguinte decisão: NEGAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 05 de Julho de 2024
+
+Desembargador ARNOLDO CAMANHOPresidente e Relator
+
+RELATÓRIO
+
+O Senhor Desembargador ARNOLDO CAMANHO DE ASSIS – Relator
+
+            Por meio de embargos de declaração Maria Helena Alencar Scutti pretende sanar a contradição que alega existir no acórdão de ID nº 52142784, que restou assim ementado:
+
+“DIREITO PROCESSUAL CIVIL. ACORDO. HOMOLOGAÇÃO. IMPOSSIBILIDADE. CLÁUSULA DE TRANSFERÊNCIA DO IMÓVEL EM NOME DE TERCEIRO. INVENTÁRIO. DISCORDÂNCIA ENTRE AS PARTES. RECURSO NÃO PROVIDO.
+
+ 1. Verificado que o acordo contém cláusula de transmissão de imóvel pertencente a terceiro, no caso, ao autor da herança, referida transmissão só pode ser realizada em inventário.
+
+ 2. Diante da discordância das partes, o acordo não pode ser homologado pelo Juízo de origem, porquanto carece de elemento fundamental para sua validade, qual seja, a concordância de todas as partes.
+
+3. Agravo de instrumento não provido”(Acórdão 1762490, 07026267620238070000, Relator(a): ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 21/9/2023, publicado no DJE: 13/10/2023. Pág.: Sem Página Cadastrada.)
+
+ A embargante alega a existência de contradição entre a afirmação do julgado no sentido de existência de litígio entre as partes no que se refere à cláusula de transferência do imóvel, e a declaração contida na inicial de que a mudança quanto ao pedido de homologação do acordo se deu exclusivamente por determinação judicial.  Pugna, ao final, pelo provimento dos embargos, a fim de que o vício apontado seja sanado.
+
+Contrarrazões pugnando pelo não provimento do recurso, em razão do falecimento da parte embargante, bem como pela multa de litigância de má-fé, e, no mérito pelo não provimento do recurso.
+
+Este Relator, por meio do despacho de ID nº 55323572, determinou a intimação dos advogados da parte embargante para se manifestar sobre as contrarrazões, ocasião em que apresentou a petição de ID nº  55891014, informando a abertura de inventário e postulando o prosseguimento do feito.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARNOLDO CAMANHO - RelatorInsta consignar, inicialmente, que os Embargos de Declaração, possuem caráter integrativo e são utilizados tão somente com o propósito de sanar possíveis vícios de omissão, contradição, obscuridade ou erro material.
+
+Em sendo assim, como o óbito da parte embargante ocorreu após o julgamento do agravo de instrumento, não é caso de perda do objeto, porquanto a notícia foi trazida aos autos somente após o julgamento do recurso.
+
+Nesse sentido:
+
+“EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA. PLANO DE SAÚDE E OPERADORA. FALECIMENTO DA AGRAVADA NOTICIADO APÓS O JULGAMENTO DO RECURSO. CONTRADIÇÃO. NÃO VERIFICAÇÃO. PERDA DO OBJETO. NÃO OCORRÊNCIA. HONORÁRIOS RECURSAIS INDEVIDOS. OMISSÃO NÃO CONFIGURADA. REJEIÇÃO DOS RECURSOS.
+
+  1. Os Embargos de Declaração, a teor do artigo 1.022 do Código de Processo Civil, têm caráter integrativo e são utilizados tão somente com o propósito de esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento ou, ainda, corrigir erro material.
+
+2. Rejeitam-se os embargos se os recorrentes não demonstraram qualquer omissão, contradição, obscuridade ou erro material no julgado impugnado.
+
+ 3. Não se verifica a perda de objeto do agravo de instrumento, porquanto a notícia do óbito da agravada foi trazida aos autos somente após o julgamento.
+
+4. Somente cabe honorários recursais nas hipóteses em que houver a fixação da verba na instância originária, não sendo essa a situação dos autos.
+
+5. Embargos de declaração de ambas as partes rejeitados” (Acórdão 1191034, 07026131920198070000, Relator(a): JOSAPHA FRANCISCO DOS SANTOS, 5ª Turma Cível, data de julgamento: 31/7/2019, publicado no DJE: 16/8/2019. Pág.: Sem Página Cadastrada.).
+
+Feitas tais considerações, o art. 1.022, do CPC, é claro ao dispor que cabem embargos de declaração quando houver, em qualquer decisão judicial, obscuridade, contradição, omissão, ou, ainda, para corrigir erro material. Tal recurso não tem, portanto, a finalidade de substituir o acórdão embargado nem tampouco sanar os fundamentos da decisão.
+
+Além do mais, a interpretação de determinado dispositivo pelo julgador, contrariamente à tese defendida pelas partes, não dá ensejo aos embargos declaratórios.
+
+Analisando as razões recursais da embargante, verifica-se a pretensão de ver reapreciada a matéria analisada no acórdão ou prequestioná-la para aparelhar futura interposição de recurso especial ou extraordinário. Entretanto, o presente recurso não se presta a rediscutir a matéria versada nem a substituir qualquer decisão prolatada no aresto embargado, pois este não contém defeitos capazes de ser sanados por meio de embargos de declaração.
+
+Registre-se que a contradição que legitima a interposição dos embargos de declaração ocorre quando se verifica incongruência entre os fundamentos do voto, entre estes e a conclusão, entre o acórdão e a ementa, ou entre a parte dispositiva do voto e o resultado do julgamento do recurso, ou seja, sempre que, havendo proposições inconciliáveis entre si, a afirmação de uma importará, logicamente, na negação de outra – e nenhuma dessas situações se verifica na hipótese em exame.
+
+Veja-se, por não ser desnecessário, o teor do julgado, in verbis:
+
+“A controvérsia dos autos cinge-se em averiguar a possibilidade de homologação do acordo apresentado pelas partes, o qual estipulou o pagamento da quantia de R$ 28.000,00 (vinte e oito mil reais) ao agravado e a autorização para transferência, em favor da agravante, do imóvel ali discriminado (ID nº 43060709).
+
+Da análise da referida avença, verifica-se a previsão de transmissão do imóvel, contudo, conforme se observa da matrícula do bem, este não pertence ao agravado, mas sim ao autor da herança. Assim, a transmissão do imóvel deve ser realizada em inventário. Registre-se que, apesar de intimadas as partes para informar se trariam novo acordo, retirando a cláusula de transferência do imóvel, estas discordaram quanto à retirada da referida cláusula (ID nº 47565544).
+
+Assim, diante da impossibilidade de transferência de imóvel em nome de terceiro, bem como da existência de claro litígio entre as partes no que se refere à cláusula de transferência do imóvel, referido acordo não pode ser homologado pelo Juízo de origem, porquanto carece de elemento fundamental para sua validade, qual seja, a concordância de todas as partes”
+
+ O que se vê é que a matéria foi amplamente debatida no julgado vergastado, tendo sido adotado entendimento – devidamente fundamentado, e em observância aos ditames do art. 489, e seus incisos e §§, do CPC – contrário ao interesse dos embargantes, o que, com a devida venia, não enseja a interposição de embargos de declaração.
+
+Por outro lado, destaque-se que a jurisprudência é pacífica no sentido de que o julgador não está obrigado a responder a todas as questões e teses jurídicas levantadas pela parte, se, da análise que fez dos autos, encontrou razões suficientes para formar a sua convicção, até porque constitui dever do juiz enfrentar, tão somente, as questões capazes de infirmar a conclusão adotada na decisão vergastada (art. 489, § 1º, inciso IV, do CPC).
+
+A esse propósito, confiram-se os julgados desta egrégia Corte de Justiça, a seguir transcritos:
+
+“DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS INEXISTENTES. INCONFORMISMO. VIA RECURSAL INADEQUADA. PREQUESTIONAMENTO. REQUISITOS NÃO ATENDIDOS.
+
+I. O fato de o acórdão não ter solucionado a controvérsia à luz dos dispositivos legais e da jurisprudência invocada pela parte não pode ser interpretado como omissão, na medida em que, segundo o artigo 489, § 1º, inciso IV, do Código de Processo Civil, o juiz não é obrigado a enfrentar todos os argumentos deduzidos no processo, senão aqueles capazes de infirmar a sua conclusão.
+
+II. Os embargos de declaração têm caráter integrativo e seu cabimento pressupõe a existência de
+
+algum dos vícios contemplados no artigo 1.022 do Código de Processo Civil, não se coadunando com projeto recursal de cunho modificativo.
+
+III. O intuito de prequestionamento não autoriza, em si mesmo, a interposição de embargos declaratórios, senão quando se constata omissão a respeito de algum aspecto fático ou jurídico que deveria ter sido abordado no acórdão para o julgamento do feito.
+
+IV. Recurso desprovido” (Acórdão 1675700, 07029005420218070018, Relator: JAMES EDUARDO OLIVEIRA, 4ª Turma Cível, data de julgamento: 9/3/2023, publicado no DJE: 4/4/2023. Pág.: Sem Página Cadastrada).
+
+“PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS INEXISTENTES. INSATISFAÇÃO COM O RESULTADO. EFEITOS INFRINGENTES. REDISCUSSÃO DA MATÉRIA.
+
+1. O mero descontentamento com a conclusão adotada pelo Colegiado não viabiliza a oposição de embargos declaratórios, os quais, na dicção do art. 1.022 do Código de Processo Civil, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou para corrigir erro material existentes no acórdão.
+
+2. O magistrado não está obrigado a responder todas as alegações das partes, tampouco a rebater todos os argumentos, ou analisar, um a um, os dispositivos legais porventura indicados, exigindo-se apenas a apresentação dos fundamentos suficientes à conclusão externada, requisito essencial para a validade do julgamento, consoante regra inserta no art. 489, § 1º, IV, do CPC.
+
+3. Recurso não provido” (Acórdão 1675897, 07051214720208070017, Relator: MARIO-ZAM BELMIRO, 4ª Turma Cível, data de julgamento: 9/3/2023, publicado no DJE: 24/3/2023. Pág.: Sem Página Cadastrada)
+
+Como se vê, o que a embargante pretende, por via transversa, é a obtenção de novo pronunciamento sobre tema que já foi objeto de análise jurisdicional. Todavia, se não concorda com a fundamentação expendida no acórdão embargado – afinal, as decisões judiciais nem sempre satisfazem os interesses daqueles que procuram o Judiciário –, e já que a questão não comporta solução pela via estreita e bem definida dos embargos de declaração, a irresignação deve, se o caso, ser deduzida por outra via.
+
+Ademais, mesmo que para fins de prequestionamento, os embargos de declaração devem vir embasados em uma das hipóteses do art. 1.022, do CPC, o que, como se viu, não ocorreu no presente caso.
+
+Por fim, não se vislumbra a configuração de litigância de má-fé pela parte embargante. Ora, a interposição de recurso, por ser inerente ao exercício da ação, constitui direito da parte, pertencendo, por outro lado, ao seu julgamento, a aferição se os argumentos por ela lançados são ou não procedentes.
+
+Ante o exposto, nego provimento aos presentes embargos de declaração.
+
+É como voto.
+
+O Senhor Desembargador JAMES EDUARDO OLIVEIRA - 1º Vogal Com o relatorO Senhor Desembargador SÉRGIO ROCHA - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO AO RECURSO. UNÂNIME
