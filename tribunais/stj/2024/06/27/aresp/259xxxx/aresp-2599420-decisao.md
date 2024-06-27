@@ -1,0 +1,52 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ALDERICO ANGELO BALDISSERA, pela incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame.
+Assevera, ainda, que ao negar a concessão de aposentadoria rural ,o Tribunal a quo "impôs pressupost os para descaracterização do regime de economia familiar que não se encontra na lei e desconsidera totalmente o disposto" no art. 11, VII, a, § 1º da Lei 8.213/91 (fl. 274).
+Sem contraminuta.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+A controvérsia cinge sobre o preenchimento dos requisitos para a concessão de aposentadoria especial, pelo exercício de atividade rural em regime de economia familiar.
+O Tribunal a quo fez constar que não estava comprovada a atividade rural em regime de economia familiar sob o fundamento de que o trabalho rurícola do recorrente não era indispensável ao próprio sustento e da família, uma vez que sua cônjuge é aposentada e aufere remuneração superior ao salário mínimo.
+Confira-se (fl. 229-230):
+O autor nasceu em 23/10/1957. Assim, no que concerne ao requisito etário, completou 60 anos de idade em 23/10/2017, de modo que deve comprovar o efetivo exercício de atividade rural nos 160 meses anteriores ao implemento da idade mínima em 2017 (art. 25, II, c/c art. 142, ambos da Lei 8.213/1991) ou à entrada do requerimento administrativo (DER em 24/10/2017).
+A sentença examinou o pedido nos seguintes termos:
+(..)
+No caso dos autos, os seguintes documentos constituem início de prova material do tempo de serviço rural do demandante: a) notas fiscais de comercialização de produtos agrícolas; b) extrato do CNIS; c) Matrícula de imóvel rural.
+Todavia, a presente ação deve ser julgada improcedente, pois em que pese a documentação juntada aos autos, entendo que a atividade rural do autor, em regime de economia familiar, não restou efetivamente comprovada durante todo o período de carência.
+Vejamos.
+Apesar de ter juntado notas fiscais de comercialização de produtos agrícolas pelo período de carência exigidos (180 meses) a esposa do autor é aposentada com renda bem superior ao salário -mínimo, sendo forçoso concluir que a agricultura não é a principal fonte de renda do grupo familiar.
+Conforme documentos juntados pelo INSS (fl. 95v), a esposa do autor percebe remuneração mensal de R$ 3.228,94, sendo assim, a atividade agrícola não é a fonte de renda primária do núcleo familiar, restando descaracterizado o regime agrícola em economia familiar.
+(..)
+Por estar em consonância com o entendimento desta Relatoria, a sentença recorrida merece ser mantida pelos seus próprios fundamentos, os quais passam a integrar as razões de decidir do presente voto.
+Ainda que configurado o exercício de atividades rurais pelo autor, tal não pode ser considerado como prestado na condição de segurado especial. Isso porque a remuneração mensal percebida pela esposa do autor é muito superior ao que se obtém com a agricultura de subsistência (em regra um salário mínimo).
+Destaco que não basta o trabalho campesino para a configurar a condição de segurado especial da Previdência Social. Para tanto, tal labor tem que ser imprescindível e preponderante para o sustento familiar, mesmo existente outra fonte de renda. O labor rurícola não pode ser apenas um complemento na renda familiar, ou seja, deve ser a fonte de renda principal do núcleo familiar, o que evidentemente não é a hipótese.
+Deixo expressamente anotado que, no caso, não se nega o exercício de atividade rural.
+Contudo, ante a não comprovação do regime de economia familiar, a concessão do benefício está condicionada ao recolhimento de contribuição previdenciária no período de carência.
+Diante de tais considerações, as razões recursais não merecem ser providas.
+Assim, a pretensão da parte recorrente relativa à violação dos arts. 11, VII, 55, § 3º, 106 e 143, da Lei 8.213/91, encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões, do órgão julgador - a fim de aferir a atividade rural em regime de economia familiar, - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REGIME DE ECONOMIA FAMILIAR. PROPRIEDADE RURAL. TAMANHO ACIMA DO LEGALMENTE PERMITIDO. REEXAME DE PROVAS. IMPOSSIBILIDADE. REPETIÇÃO DE DEMANDA ANTERIOR. COISA JULGADA. FLEXIBILIZAÇÃO. DESCABIMENTO.
+1. De acordo com o art. 11, VII, "a", item I, da Lei n. 8.213/1991, o proprietário de área agropecuária de até 4 (quatro) módulos fiscais também é considerado segurado especial, sendo certo que, ao interpretar a aludida norma, esta Corte firmou a compreensão de que a extensão da propriedade rural, por si só, não tem o condão de descaracterizar o regime de economia familiar do segurado se preenchidos os demais requisitos legalmente exigidos. Tema 1.115 do STJ.
+2. Caso em que a instância ordinária não reconheceu a condição de segurado especial do recorrente com base no conjunto fático-probatório, cuja revisão esbarra no óbice da Súmula 7 do STJ.
+3.A Corte Especial, no julgamento do REsp 1.352.721/SP, e a Primeira Seção (REsp 1.352.875/SP) decidiram que, no âmbito de demandas previdenciárias, a ausência de conteúdo probatório eficaz a instruir a inicial implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV do CPC). Ressalva de entendimento do relator.
+4. A excepcionalidade da flexibiliz ação da norma processual reconhecida em ambos os julgados repetitivos aplica-se ao processo em curso, ainda sem o trânsito em julgado, e não a demandas diversas, já alcançadas pelo efeito da imutabilidade, sendo certo que eventual pretensão de desconstituir a coisa julgada deve ser formulada na via adequada, na forma disciplinada pelo art. 966, VII, do CPC.
+5. Hipótese em que o acórdão da instância ordinária consignou que a parte autora já havia ajuizado uma ação anterior, com o mesmo pedido e causa de pedir, tendo sido julgada improcedente por ausência de prova do labor agrícola.
+6. Agravo interno desprovido.(AgInt no AREsp n. 2.285.370/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Quanto à caracterização da condição de trabalhador rural individual, em que pese a irresignação da parte recorrente, o exame dos autos revela que a questão não foi objeto de exame pelas instâncias ordinárias.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO ANULATÓRIA DE ATOS JURÍDICOS. ERRO MATERIAL. REVER A CONCLUSÃO A QUE CHEGOU A COTE DE ORIGEM PARA ENTENDER QUE HOUVE ERRO QUANTO A CONCLUSÃO DO ARESTO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. VIOLAÇÃO AOS ARTS. 14, 18, 109 E 933 DO CPC. MATÉRIA SEM PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO NÃO REFUTADO PELAS RAZÕES DO ESPECIAL. SÚMULA 283/STF. VIOLAÇÃO DA LINDB. MATÉRIA CONSTITUCIONAL.
+1. Rever a conclusão a que chegou o Tribunal de origem para entender que houve erro material quanto a origem do imóvel em questão, ou seja, que a venda foi feita diretamente pelo ora recorrente, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. Quanto ao mérito, no que concerne a suposta violação ao art. 1211 do CPC/73 e aos arts. 14, 18, 109 e 933 do CPC/2015 verifica-se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente - não se manifestou acerca dos mencionados argumentos trazidos nas razões do recurso especial, motivo que inviabiliza o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Não possível a análise de suposta violação ao art. 6º, §1º, da LINDB, pois "o Superior Tribunal de Justiça pacificou o entendimento de que a matéria contida no art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC) tem caráter nitidamente constitucional, razão pela qual é inviável sua apreciação em recurso especial" (AgInt no REsp n. 1.970.807/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.).
+5. AGRAVO A QUE SE NEGA PROVIMENTO.(AgInt no AREsp n. 2.177.415/SC, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
