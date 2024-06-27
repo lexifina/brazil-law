@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Lucas Peixoto Mariano (condenado a cumprir 5 anos e 4 meses de reclusão, inicialmente, em regime fechado, e a pagar 13 dias-multa, por roubo majorado), em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul (Apelação n. 0028006-14.2017.8.12.0001).
+Postula-se (fl. 6):
+A reforma do acórdão combatido, requerendo a ABSOLVIÇÃO pelo reconhecimento da causa supralegal de exclusão da tipicidade (insignificância).
+II- Caso Vossa Excelência assim não entendam, que seja reformada novamente a condenação do paciente para o do delito previsto no artigo o artigo 155, §4º, IV, do Código Penal, ocorrendo a substituição da pena privativa de liberdade;
+Alega-se que não houve um assalto ou roubo, mas sim, um momento de agressão  motivada por um desentendimento envolvendo uma bicicleta , o qual a suposta vítima deixou o aparelho de celular cair, tendo o paciente juntamente com o corréu pego o celular quando a vítima voltou para buscar a arma em sua casa (fl. 4).
+Defende-se, assim, que o delito praticado não foi roubo majorado, como aduz a Segunda Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul, mas sim furto qualificado (fl. 4).
+Argumenta-se, ainda, que a Corte estadual, extrapolando os limites de seu poder de julgar, condenou o paciente pelo crime de roubo majorado, com base em fundamento não trazido à lume no recurso ministerial, nas contrarrazões defensivas, tampouco utilizado na sentença proferida pelo Juiz a quo ou arguido no parecer da Procuradora-Geral, violando o princípio do devido processo legal e os consectários lógicos da ampla defesa e do contraditório (fl. 5).
+Aduz-se que, com o acolhimento do pedido acima, reformando a sentença para furto qualificado, impõe-se a absolvição do paciente pelo reconhecimento do princípio da insignificância (fl. 5).
+Estes autos foram a mim distribuídos por prevenção (HC n. 765.691/MS).
+É o relatório.
+O writ não merece ir adiante.
+A condenação do paciente transitou julgado, com a baixa dos autos ao Juízo de primeiro grau em 1º/9/2022.
+Esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe 15/8/2022) - (AgRg no HC n. 886.116/AL, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/6/2024).
+Afora isso, parte da matéria aqui suscitada foi decidida no HC n. 765.691/MS.
+Naqueles autos, a defesa questionou a condenação do paciente e do corréu, alegando violação do princípio do contraditório e julgamento extra petita da Corte estadual. A ordem foi denegada em decisão unipessoal, e a Sexta Turma confirmou o decisum ao negar provimento ao agravo regimental interposto pela defesa. O acórdão transitou em julgado no dia 4/5/2023.
+Ora, configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ (AgRg no HC n. 444.220/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018).
+Quanto ao mais, assentou a Corte a quo que não restam dúvidas, desta feita, que os apelados Lucas e Islan, em conluio de vontades e unidade de desígnios, subtraíram para si, mediante violência, os objetos de propriedade da vítima Joaquim, os quais foram apreendidos em suas posses logos após os fatos, devendo, portanto, serem condenados por roubo majorado pelo concurso de pessoas (fl. 24).
+A instância ordinária, mediante valoração do acervo probatório produzido nos autos da ação penal, entendeu, de forma fundamentada, que as provas colhidas demonstraram todos os elementos típicos caracterizadores do crime de roubo. Assim sendo, não há como alterar essas conclusões fáticas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita (AgRg no HC n. 704.767/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/3/2022).
+Por fim, o crime de roubo, porque investe contra bens jurídicos distintos, é dizer, o patrimônio e, principalmente, a integridade física, não pode ser considerado de mínima ofensividade, desprovido de periculosidade social, de reduzido grau de reprovabilidade e de inexpressividade, não rendendo ensejo à aplicação da princípio da insignificância. Precedentes desta Corte e do Supremo Tribunal Federal (HC n. 149.928/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/3/2012).
+Dessa forma, não vislumbro a existência de manifesta ilegalidade apta a justificar a superação dos apontados óbices.
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus (art. 210/RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO. REITERAÇÃO DE WRIT ANTERIOR. INADMISSIBILIDADE. DESCLASSIFICAÇÃO DO DELITO E ATIPICIDADE DA CONDUTA (PRINCÍPIO DA INSIGNIFICÂNCIA). REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Habeas corpus indeferido liminarmente.
