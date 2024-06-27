@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo de MARISA APARECIDA FORTES contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - TJSC que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 0004501-41.2016.8.24.0018/SC.
+Consta dos autos que a agravante foi condenada às penas de 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial aberto, e ao pagamento de 18 (dezoito) dias-multa, à razão unitária de 1/30 do salário mínimo vigente à época do fato, por infração ao art. 297, caput (por oito vezes) e ao art. 298, caput (por duas vezes), ambos do Código Penal - CP. A pena corporal restou substituída por duas penas restritivas de direito, a saber, prestação de serviços à comunidade e prestação pecuniária. Foi-lhe concedido o direito de recorrer em liberdade (fl. 795).
+Recurso de apelação interposto pela defesa foi parcialmente provido para arbitrar verba honorária (fl. 798).
+Em sede de recurso especial (fls. 805/813), a defesa apontou violação ao art. 65, III, "d", do CP, porque o TJ manteve a não aplicação da atenuante da confissão, quando a recorrente confessou a prática delitiva referente ao uso de diploma falso e, apesar negar a falsificação dos documentos, admitiu ter comprado na internet e recebido em mãos na cidade de Chapecó/SC.
+Requer o reconhecimento da atenuante e a alteração da dosimetria da pena.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA (fls. 820/826).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 830/833).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 841/847).
+Contraminuta do Ministério Público (fls. 851/855).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso (fls. 876/879).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a atenuante da confissão espontânea, o TJSC manteve o não reconhecimento em razão de a confissão extrajudicial da recorrente ter se referido apenas à utilização do documento e não à prática dos crimes de falsificação de documento público e particular pelo quais foi condenada.
+De fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do STJ. No mesmo sentido, citam-se precedentes :
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. RÉU QUE NÃO ADMITIU A PRÁTICA DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do REsp 1.972.098/SC, de minha Relatoria, esta Quinta Turma do Superior Tribunal de Justiça, ao examinar a correta interpretação do art. 65, III, "d", do Código Penal, em conjunto com a Súmula 545/STJ, adotou a seguinte tese: "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada".
+2. Na hipótese, contudo, consta dos autos que o recorrente permaneceu silente em sede policial e, em juízo, negou a prática do delito, o que afasta a possibilidade de reconhecimento da atenuante do art. 65, III, "d", do CP. Noutro giro, entender em sentido diverso demandaria revolvimento fático-probatório dos autos, incabível na presente via (Súmula 7 do Superior Tribunal de Justiça).
+3. Ademais, " ..  na fundamentação da sentença não se identifica alusão às declarações prestadas pelo Acusado no momento da abordagem policial para respaldar a condenação, tendo o Juízo singular apontado à suposta confissão informal apenas por ocasião da transcrição do depoimento da testemunha" (AgRg no HC n. 786.036/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.566.373/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 23/5/2024.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA E SONEGAÇÃO TRIBUTÁRIA. PRETENSÃO DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL. FALTA DE PREQUESTIONAMENTO DA QUESTÃO. SÚMULA N. 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CONSUNÇÃO ENTRE OS CRIMES DOS ARTS. 337-A, III DO CÓDIGO PENAL - CP E 1º, I, DA LEI N. 8.137/90. NÃO CABIMENTO. CRIMES AUTÔNOMOS. APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE CONFISSÃO. ALTERAÇÃO DEMANDA ANÁLISE DE PROVA. ÓBICE DA SÚMULA N. 7 DO STJ. PRETENSÃO DE REDUÇÃO DA PENA-BASE NO MÍNIMO LEGAL. EXASPERAÇÃO DA PENA AMPARADA EM ELEMENTO CONCRETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegada violação ao art. 28-A do Código de Processo Penal - CPP não foi debatida no acórdão recorrido, não merecendo ser conhecida no apelo raro. Incidência da Súmula n. 211 do Superior Tribunal de Justiça.
+2. Inaplicável, no caso, a consunção do delito do art. 1º da Lei n. 8.137/93 ao tipo descrito no art. 337-A, III, do CP, pois tratam de crimes autônomos. O tipo do art. 1º da Lei n. 8.137/90 objetiva tutelar a ordem tributária, ao passo que o tipo do art. 337-A, III, do CP objetiva a manutenção da subsistência financeira da Previdência Social, coibindo a conduta de quem omite, total ou parcialmente, fatos geradores de contribuições sociais previdenciárias. Precedentes .
+3. A Corte de origem afastou a atenuante da confissão espontânea ressaltando não ter havido confissão do réu quanto ao delito em questão. Nesse contexto, para alterar a referida conclusão, e fazer incidir a confissão espontânea no caso concreto seria necessário o reexame fático-probatório dos autos, com óbice na Súmula n. 7 do STJ 4. Prejuízo ao erário que desborda da normalidade do tipo penal, autorizando a exasperação da pena-base, ante a consideração desfavorável das consequências do crime. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.047.314/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no art. 255, § 4º, I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
