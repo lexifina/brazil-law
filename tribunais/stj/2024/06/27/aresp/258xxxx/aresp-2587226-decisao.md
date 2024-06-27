@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial interposto por RICARDO DANTAS DE SOUZA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo Tribunal de Justiça do Estado da Bahia.
+A defesa aponta, inicialmente, ofensa ao art. 14, II, do Código Penal, pugnando pelo reconhecimento da modalidade tentada do delito.
+Alega, ainda, negativa de vigência ao art. 59 do referido Código, sob o argumento de que não foram apresentados fundamentos idôneos para valorar negativamente a culpabilidade e as circunstâncias do crime na primeira etapa da dosimetria.
+Por fim, sustenta que foi violado o art. 65, I (menoridade) e III, alínea "d" (confissão), do Estatuto Penal, haja vista que essas circunstâncias sempre atenuam a pena, devendo ser superado o óbice da Súmula 231/STJ.
+Requer, assim, o reconhecimento do delito na forma tentada, reduzindo-se a pena em até 2/3, fixando-se, por conseguinte, o regime de cumprimento da pena no modo aberto.
+No tocante à dosimetria da pena, pleiteia a fixação da basilar no seu patamar mínimo legal de 04 anos, bem como a aplicação da fração de redução de pena em 1/6 para a atenuante da confissão e também da menoridade relativa, na segunda etapa dos cálculos, com o consequente redimensionamento da reprimenda e fixação do regime inicial aberto (e-STJ, fls. 354-374).
+Foram apresentadas as contrarrazões (e-STJ, fls. 380-393).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 395-400). Daí este agravo (e- STJ, fls. 406-414).
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 502-503).
+É o relatório.
+Decido.
+No que tange ao reconhecimento da modalidade tentada do delito, o Tribunal a quo, ao apreciar a controvérsia, assim se manifestou:
+"(..)
+Assim, vê-se que, diferentemente do que sustentou o apelante, o veículo entrou em movimento, sendo a vítima obrigada a dirigi-lo sob grave ameaça exercida pelo réu mediante o emprego de uma faca, tanto que, conforme descrição feita pela vítima acima transcrita, a réu entrou no veículo "antes de dar ré", e em face das ameaças, foi obrigada a dirigir o automóvel, vindo, então a dar ré, o que demonstra que o veículo entrou inicialmente em movimento para trás, deslocando-se da vaga em que estava estacionado, e, mais uma vez, entrou em movimento, sendo que desta vez para frente, quando, após acelerar, veio a bater em outros carros, o que chamou a atenção das pessoas ao redor, fato que levou o acusado a sair do carro e tentar fugir.
+Além disso, ao contrário do entendimento jurisprudencial colacionado nas razões recursais, o fato de a vítima permanecer na direção do veículo, não exclui a consumação do delito, pois, conforme bem ressaltado pelo juiz sentenciante, ela serviu como mero instrumento do autor do crime, a qual estava agindo estritamente sob as ordens do ofensor, que, inclusive, como visto, confessou em seu interrogatório que sequer sabia dirigir, mas, ao forçar a vítima a conduzir o automóvel sob suas ordens, estava, sem dúvida, sob domínio de todas as decisões inerentes a utilização do veículo, notadamente itinerário, velocidade, forma de dirigir, etc, e, portanto, já estava exercendo a posse sobre o bem roubado ante o uso do veículo ao seu inteiro dispor.
+Nesse sentido, o juiz sentenciante bem ressaltou que:
+(..)
+Por outro lado, é importante registrar que o tempo de disponibilidade do bem em poder do autor do delito é totalmente irrelevante para efetiva consumação do crime, devendo destacar que nossos Tribunais adotam a teoria da amotio, segundo a qual, para consumação do mencionado delito, basta a posse do bem, mesmo que não seja de forma mansa e pacífica, ainda que por curto espaço de tempo, e independentemente de estar sob a esfera de vigilância da vítima. Assim, não restam dúvidas de que no caso dos autos o delito de consumou, pois, como visto, o ora apelante já estava exercendo a posse sobre o bem roubado, sendo perfeitamente aplicável a Súmula nº 582 do STJ, a seguir transcrita:
+SUMULA 582: Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+(..)
+Destarte, não restam dúvidas de que o crime imputado ao ora apelante efetivamente se consumou, e, consequentemente, não há que se falar em modalidade tentada.
+Quanto à dosimetria da pena, destaca-se da sentença (ID 34350401). (e-STJ, fls. 336-338, grifou-se)
+Sobre o momento consumativo do delito de roubo, é assente a adoção da teoria da amotio por esta Corte e pelo Supremo Tribunal Federal, segundo a qual o crime se consuma no momento da inversão da posse da coisa subtraída, tornando-se o agente o seu efetivo possuidor, ainda que não seja de forma mansa e pacífica, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima.
+Ressalte-se que a Terceira Seção, por ocasião do julgamento do RESP 1.499.050/RJ, representativo de controvérsia repetitiva (art. 543-C do CPC), sob a relatoria do eminente Ministro Rogerio Schietti, firmou a seguinte tese:
+"Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada." (julgado em 14/10/2015, DJe de 9/11/2015.)
+Cumpre destacar, inclusive, que o referido entendimento deu origem à Súmula 582/STJ, com idêntico teor. No mesmo sentido, confiram-se os seguintes julgados:
+" ..
+1. Com relação à consumação dos delitos patrimoniais, esta Corte adotou a Teoria da Amotio ou Aprehensio, que se satisfaz com a "inversão da posse", não se preocupando se ela se fez mansa, pacífica e desvigiada, conforme enuncia o verbete 582/STJ.
+2. No caso, o agravante teve a posse dos bens objeto da subtração, tanto que trancou as vítimas em um cômodo da casa, tendo sido posteriormente rendido por uma delas somente no momento em que tentava imprimir fuga. Portanto, o delito se consumou.
+3. Agravo regimental desprovido." (AgRg no REsp n. 1.326.478/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/4/2021, DJe de 27/4/2021.)
+" ..
+11. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.499.050/RJ (Tema 916), Relator Ministro ROGERIO SCHIETTI CRUZ, ocorrido em 14/10/2015, DJe 9/11/2015, sob o rito do art. 543-C do CPC, consolidou entendimento de que consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada. Incidência da Súmula n. 582/STJ.
+12. Da análise dos autos, forçosa a conclusão de que o crime foi cometido na modalidade consumada, porquanto, conforme consignado no aresto objurgado, a res furtivae saiu da posse das vítimas, sendo o veículo localizado horas depois dos fatos e o celular sequer recuperado.
+13. Agravo regimental não provido".
+(AgRg no AREsp n. 2.127.610/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+No caso em análise, consoante se verifica do excerto do acórdão alhures reproduzido, o veículo objeto da subtração, efetivamente, saiu da esfera de disponibilidade da vítima. Ao permanecer com o recorrido dentro do automóvel e ter sido obrigada a dirigi-lo, sob ameaça de uma faca, a vítima não tinha mais disponibilidade sobre o destino do veículo.
+Desse modo, de rigor a condenação do recorrido pelo crime de roubo consumado.
+Noutro giro, quanto à alegação de que não foram apresentados fundamentos idôneos para a valoração negativa da culpabilidade e das circunstâncias do delito, melhor sorte não assiste ao recorrente.
+A propósito, colhe-se do aresto impugnado:
+"Circunstâncias do crime. Como dito, para fins de incidência do art. 157, § 2º, V, do CP, a vítima foi privada da sua liberdade por tempo juridicamente reduzido, razão pela qual essa majorante foi afastada. Porém, ainda que o período de privação da liberdade tenha sido curto, não se pode ignorar que a ofendida foi subjugada à condição de refém. Ademais, a vítima foi abordada no momento em que adentrava no seu carro, invadido abruptamente pelo réu, que se aproveitou da situação de maior vulnerabilidade da ofendida para surpreendê-la. Por tudo isso, cumpre o apenamento mais severo.
+(..)
+Culpabilidade. A execução do crime foi pautada por intensa premeditação e planejamento (o réu saiu de casa munido de faca já com prévio intuito de tomar um veículo de assalto, dirigindo-se a uma academia de ginástica, onde pretendia roubar especificamente uma mulher, vítima mais vulnerável), dado que justifica o apenamento além do mínimo cominado, como, a propósito, preconizado pela Corte Superior." (e-STJ, fls. 338-339).
+Em relação às circunstâncias do delito, cumpre destacar que, se o modus operandi empregado pelo ofensor revela que esse se aproveitou do momento de maior vulnerabilidade da vítima, notadamente do sexo feminino - quando essa entrava em seu veículo -, a exasperação da pena-base pelas circunstâncias do crime é medida que se impõe
+Corrobora:
+" ..
+1. As circunstâncias do delito foram valoradas negativamente, ao argumento de que o Agravante se aproveitou da vulnerabilidade da vítima, do sexo feminino, que estava sozinha, em plena luz do dia, tendo dado uma fechada na vítima, em via pública, para roubar o veículo. Este aspecto concreto do modus operandi delitivo não é inerente ao tipo penal e demonstra uma maior reprovabilidade da conduta. Precedentes.
+2. O acórdão objurgado encontra-se em sintonia com a jurisprudência deste Tribunal Superior, segundo a qual a existência de circunstância judicial negativa autoriza a fixação de regime prisional mais gravoso.
+3. Fixada a pena privativa de liberdade em patamar superior a 4 (quatro) e inferior a 8 (oito) anos de reclusão, a existência de circunstâncias judiciais idoneamente negativadas (antecedentes e circunstâncias do crime), autoriza o estabelecimento de modo prisional mais gravoso, ou seja, o fechado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.663.786/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/8/2020, DJe de 1/9/2020.)
+Do mesmo modo, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que é idônea a consideração desfavorável da culpabilidade ante a premeditação do delito pelo réu. A corroborar esse entendimento:
+" ..
+II - Em estrito controle de legalidade, não há falar em violação do art. 59 do CP quando a exasperação da pena-base foi razoável, proporcional e concretamente motivada na análise negativa da culpabilidade, diante do maior grau de censurabilidade da ação, visto que os delitos foram cometidos com premeditação e organização. Omissis. Agravo regimental desprovido." (AgRg no REsp 1709395/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/12/2018, DJe 10/12/2018)
+" ..
+1. A premeditação demonstra que o agente teve uma maior reflexão, um tempo para ponderar, trabalhando psiquicamente a conduta criminosa, o que demonstra um maior grau de censura ao comportamento do indivíduo, apto a majorar a pena-base. 2. Agravo regimental improvido." (AgRg no REsp 1721816/PA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/06/2018, DJe 29/06/2018)
+Por fim, a instância ordinária, na segunda etapa dos cálculos da reprimenda, reconheceu a presença da atenuante de confissão espontânea e da menoridade relativa. Todavia, reduziu a pena somente até o limite de 04 anos de reclusão, patamar mínimo previsto para o crime tipificado no art. 157 do CP, tendo em vista a incidência do óbice da Súmula nº 231 do Superior Tribunal de Justiça.
+Não se observa, portanto, a alegada violação do art. 65, I e III, "d", do Código Penal.
+Sobre o tema, a Terceira Seção do Superior Tribunal de Justiça, por ocasião do julgamento do Resp 1.117.068/PR (Rel. Ministra LAURITA VAZ, julgado em 26/10/2011, DJe 8/6/2012), sob o rito do art. 543-C, c/c o 3º do CPP, reafirmou o entendimento, segundo o qual, o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal."
+A propósito, podem ser mencionados os seguintes julgados:
+" ..
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.117.068/PR, sob o rito dos recursos repetitivos, firmou a tese de que o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal".
+2. Assim, "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022.)
+3. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+4. Agravo regimental improvido."
+(AgRg no AREsp n. 2.270.174/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023.)
+" ..
+2. Nos termos da Súmula n. 231 do STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal" e "incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+3. Agravo regimental desprovido."
+(AgRg no HC n. 856.264/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+Ressalte-se, ademais, que o Supremo Tribunal Federal, ao apreciar o Recurso Extraordinário nº 597.270, sob o regime da repercussão geral, reconheceu a constitucionalidade do referido enunciado sumular.
+Confira-se, por oportuno, a ementa do julgado:
+"AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima.
+Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal. (RE 597270 QO-RG, Relator(a): Min. CEZAR PELUSO, julgado em 26/03/2009, REPERCUSSÃO GERAL - MÉRITO DJe-104 DIVULG 04-06-2009 PUBLIC 05-06-2009 EMENT VOL02363-11 PP-02257 LEXSTF v. 31, n. 366, 2009, p. 445-458)."
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
