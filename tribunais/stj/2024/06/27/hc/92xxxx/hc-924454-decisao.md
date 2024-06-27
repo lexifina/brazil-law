@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS APARECIDO GARCIA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (apelação criminal n. 1501185-86.2019.8.26.0081).
+Consta dos autos que o paciente foi condenado às penas de 4 (quatro) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 1088 (um mil e oitenta e oito) dias-multa, no mínimo legal, como incurso no artigo 35, caput, da Lei n. 11.343/06 (processo n. 1501185-86.2019.8.26.0081).
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na alegada necessidade de conexão das ações penais n. 1501185-86.2019.8.26.0081 e n. 1500114-68.2019.8.26.0592 (o nome do paciente não constou nesta como parte).
+Assere que "A conexão é a NECESSIDADE de unidade de processo e julgamento, nos precisos termos do art. 79, CPP. É dizer, o ponto ou os pontos de contato entre os processos e entre os fatos há de ser de tal monta que a reunião deles em uma mesma jurisdição, não só facilite a instrução criminal, mas, sobretudo, permita a ampliação da visão acerca da materialidade e da autoria dos fatos conexos, e, de modo especial, no âmbito da participação. Somente a reunião de processos, por exemplo, poderá possibilitar a identificação de partícipe de delito praticado por outros (autores), quando a sua atuação não emergir deste último processo" (fl. 5).
+Invoca, assim, prejuízo expresso, até mesmo pela discrepância de penas impostas aos agentes.
+Requer, inclusive liminarmente, o sobrestamento da ação, com a ulterior concessão da ordem para que seja declarada a nulidade processual, com a consequente redistribuição do feito.
+É o relatório. DECIDO.
+Conforme relatado, a defesa requer que seja declarada a nulidade processual, com a consequente redistribuição do feito principal, tendo em vista que as condenações nos processos n. 1501185-86.2019.8.26.0081 e n. 1500114-68.2019.8.26.0592 (o nome do paciente não constou neste como parte) teriam acontecido sem a conexão.
+Primeiramente, deve-se ressaltar que o paciente sequer foi parte no processo n. 1500114-68.2019.8.26.0592.
+Ademais, sobre a conexão, a defesa a invoca aqui como uma verdadeira nulidade de algibeira, sem a respectiva manifestação do TJ em acórdão e no momento processual apropriado (preclusão).
+Acerca do prejuízo, vale destacar que, além de o feito conexo ser público, de amplo acesso, houve a autorização à defesa, no processo n. 1500114-68.2019.8.26.0592, para o acesso ao seu conteúdo ainda em 16/4/2021 (fl. 20) - do que não se extrai qualquer nulidade ou mesmo dificuldade em se exercer os direitos à ampla defesa e ao contraditório.
+Veja-se (fl. 20):
+"Comparece nos autos LUCAS APARECIDO GARCIA alegando em síntese que foi denunciado nos autos 1501185-86.2019.8.26.0081 porque teria se associado ao réu Gabriel Lemos da Silveira para a prática de tráfico.
+Assim, em razão de os fatos tratados no processo referido terem conexão com os apurados neste feito, necessário ter acesso às provas coletadas durante a investigação criminal para instrução da defesa.
+Considerando-se a publicidade dos autos, cadastre-se o patrono junto ao sistema SAJPG-5, franqueando-lhe acesso às provas já produzidas."
+Como adiantado, ao fim, não existe um acórdão sobre a matéria posta.
+Nesse contexto, ausente manifestação do Tribunal a quo, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e I I, da CF; e art. 13, I e II, do RISTJ).
+Vejamos:
+"As teses relativas a policiais civis terem interrogado o paciente sem advogado e a suposta ofensa ao direito ao silêncio não foram examinadas pela Corte de o rigem, conforme se verifica do inteiro teor do acórdão impetrado, razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância. Registre-se que "os termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade." (AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022)" (AgRg no HC n. 821.390/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 17/8/2023).
+Corroborando: AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/12/2022; AgRg no HC n. 834.361/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; e AgRg no HC n. 805.062/MG, Quinta Turma, de minha relatoria, DJe de 2/6/2023; e AgRg no HC n. 822.227/MG, Quinta Turma, de minha relatoria, DJe de 26/6/2023.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intime-se.
+ EMENTA
