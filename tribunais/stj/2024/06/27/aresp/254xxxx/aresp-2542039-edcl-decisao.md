@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ LINHARES FROTA MACHADO NETO (JOSÉ), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL. AUSÊNCIA DE LICITANTES PARA O LEILÃO EXTRAJUDICIAL. COBRANÇA DE SALDO REMANESCENTE. APLICAÇÃO DA SÚMULA 384 DO STJ PELO TRIBUNAL ESTADUAL. ENTENDIMENTO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ SOBRE O TEMA. FRUSTRADO O SEGUNDO LEILÃO, A DÍVIDA DEVE SER EXTINTA. INTELIGÊNCIA DO ART. 27, § 5º, DA LEI Nº 9.514/97 VIGENTE À ÉPOCA. REFORMA DO ACÓRDÃO. AÇÃO MONITÓRIA JULGADA IMPROCEDENTE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO (e-STJ, fls. 605/610).
+Nas razões do presente inconformismo, JOSÉ defendeu que houve erro material na decisão embargada, pois, ao julgar improcedente a ação monitória, apenas inverteu o ônus sucumbencial, sem adequar a base de cálculo dos honorários advocatícios. Pleiteou que a verba honorária fosse fixada com base no proveito econômico pretendido pela embargada , em observância à norma do art. 85, §2º, do CPC.
+Não foi apresentada contraminuta.
+É o relatório.
+Os embargos merecem acolhida.
+De fato, a questão atinente à sucumbência merece ser revisada, pois a r. sentença havia julgado a presente ação monitória procedente, condenando a COOPERATIVA ao pagamento dos honorários advocatícios, fixados em 10% do valor da condenação.
+Ao dar provimento ao recurso especial de LINHARES e outros, para julgar a ação improcedente, a decisão embargada determinou a inversão do ônus da sucumbência, sem considerar que não mais existe "valor da condenação", devendo, portanto, haver uma adequação na base de cálculo dos honorários advocatícios.
+No caso, diante da ausência de condenação, bem como da inexistência de proveito econômico obtido pelo vencedor da demanda, aplica-se o valor da causa, em observância à gradação estipulada pelo art. 85, § 2º, do CPC e nos termos da decisão proferida no referido REsp nº 1.746.072/PR (Tema Repetitivo 1.076).
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Nos termos da orientação jurisprudencial firmada pela Segunda Seção deste Superior Tribunal de Justiça, no julgamento do REsp 1.746.072/PR, DJe 29.03.2019, os honorários advocatícios de sucumbência, na vigência do CPC/15, devem ser fixados de acordo com os seguintes critérios: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+1.1. Não havendo condenação, a verba advocatícia é fixada em 10% do valor atualizado da causa, nos termos do art. 85, § 2º do CPC/15.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1569728 / MS, Rel Ministro MARCO BUZZI, Quarta Turma, j. 04/05/2020 - sem destaques no original).
+Importante registrar que, conforme consta na petição inicial do feito, o valor atribuído à causa é de R$ 288.299,03 (duzentos e oitenta e oito mil, duzentos e noventa e nove reais e três centavos).
+Nessas condições, ACOLHO os embargos de declaração, para determinar que a base de cálculo dos honorários advocatícios sucumbenciais seja fixada em 10% do valor da causa.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ERRO MATERIAL QUANTO À BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. OCORRÊNCIA. IMPOSSIBILIDADE DE INVERSÃO DO ÔNUS DE SUCUMBÊNCIA DIANTE DA AUSÊNCIA DE "VALOR DA CONDENAÇÃO". ERRO RECONHECIDO E SANADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
