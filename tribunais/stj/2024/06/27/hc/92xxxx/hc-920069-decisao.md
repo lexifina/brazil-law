@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DENES CHARLES AMORIM contra acórdão do Tribunal de Justiça do Estado do Piauí proferido no HC n. 0754507-52.2024.8.18.0000.
+Consta nos autos que o paciente foi preso em flagrante, em 22/03/2024, pela suposta prática dos crimes de tráfico ilícito de drogas, associação para o tráfico e posse irregular de arma de fogo de uso permitido, e a custódia foi convertida em preventiva no dia seguinte.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal estadual, o qual conheceu em parte do pedido e, nessa extensão, denegou a ordem (fls. 381-387).
+Neste writ, a impetrante sustenta, em suma, a inexistência de fundamentação idônea e dos requisitos legais para a decretação da prisão pr eventiva, especialmente em razão de ser possível aplicar, no caso, o princípio da homogeneidade.
+Requer, em liminar e no mérito, a concessão de liberdade provisória, ainda que condicionada ao cumprimento de medida cautelar alternativa.
+É o relatório.
+DECIDO.
+De início, destaco que
+ a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Tur ma, julgado em 24/10/2023, DJe de 30/10/2023).
+Portanto, passo a analisar diretamente o mérito do writ.
+O Juízo de origem decretou a custódia com base na seguinte fundamentação (fls. 16-18; grifamos):
+Na hipótese em exame, o auto de prisão em flagrante consigna a prova da materialidade e indícios suficientes de autoria do crime de imputado aos autuados.
+Em relação às modificações introduzidas pela Lei nº 12.403/2011, registro que as medidas cautelares elencadas no art. 319 do Código de Processo Penal não são suficientes para resguardar os bens jurídicos tutelados. Ressalto a presença de um dos fundamentos autorizadores da constrição cautelar - a ameaça à ordem pública - tendo em vista a reiteração criminosa, haja vista os flagranteados possuírem em seu desfavor uma série de processos criminais (IDs 54749060, 54749062 e 54749064).
+ ..
+Ora, diante da reiteração delitiva, justifica-se a manutenção da custódia dos autuados, bem assim a necessidade e adequação da sua conversão em prisão preventiva para aplicação da lei penal, investigação e instrução criminal. Portanto, caracterizado o fumus comissi delicti e o periculum libertatis.
+De igual, deve-se aferir a presença ou não dos requisitos específicos da prisão preventiva, atualmente previstos no parágrafo único e nos incisos I a III do art. 313do CPP. Existem nos autos prova da materialidade e indícios suficientes de autoria. Presentes os pressupostos insculpidos no art. 312, "caput", parte final, do CPP.
+No caso em tela a constrição cautelar acha-se devidamente justificada, fundamentada na garantia da ordem pública, de forma que a soltura dos autuados não se mostra prudente, haja vista que poderão semear a insegurança na comunidade, além de contribuir para a ideia de impunidade, dificultando ou até mesmo inviabilizando o esforço do Estado no combate ao crime, sem deixar de mencionar aqui a possibilidade de reiteração delitiva.
+E ao indeferir o pedido de revogação da custódia processual, o Magistrado consignou, in verbis (informação extraída dos autos eletrônicos):
+De acordo com a versão contida nos autos e que tem por base as narrativas do condutor e testemunhas, verifica-se que havia uma investigação preliminar realizada pela polícia civil para desarticular possível organização criminosa, considerando informações preliminares de que DENES CHARLES AMORIM estaria distribuindo entorpecentes na Zona Sudeste de Teresina-PI,
+Realizada busca e apreensão na residência do requerente, foi encontrado um caderno contendo anotações de valores, uma máquina do mercado pago, invólucros contendo substâncias análogas à cocaína e à maconha, um automóvel Toyota Hilux, CD4X4, além da quantia de R$ 872, 00, em notas de baixo valor.
+Diante dessa situação, as particularidades do caso demonstram que a decretação da custódia cautelar, ao contrário do alegado no presente pedido, encontra-se suficientemente fundamentada, tendo em vista as circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a necessidade da medida para a garantia da ordem pública.
+ ..
+Para mais, analisando a Certidão Unificada de Distribuição Estadual de DENES CHARLES AMORIM, (ID.54749062), constato que o requerente já responde por diversos procedimentos criminais, sobretudo pelo crime de tráfico de drogas, a saber, autos nº 0001926-79.2018.8.18.0140 e autos nº 0812966-15.2024.8.18.0140. Nesse contexto, infere-se que, ao contrário do que alega a defesa, a prisão preventiva foi decretada não só para aprofundar as investigações, mas também em razão da periculosidade social do agente, evidenciada pelo risco efetivo de reiteração delitiva específica.
+O Colegiado estadual, por sua vez, manteve a custódia nos seguintes termos (fls. 384-386; grifamos):
+Não há que se falar em ausência de fundamentação no decisum acima, isto porque, ainda que concisa e sucinta, o MM Juiz a quo fundamenta o preenchimento do requisito de garantia da ordem pública, no modus operandi delitivo, bem como na reiteração delitiva dos réus, características que revelam a possibilidade concreta, de caso solto, continuar delinquindo e consequentemente perturbando a ordem pública, justificando assim a necessidade da custódia cautelar.
+Em abono ao entendimento do decisum impugnado, o Enunciado 3º do I Workshop de Ciências Criminais do TJPI: A existência de inquéritos policiais, ações penais ou procedimentos de atos infracionais, que evidenciem a reiteração criminosa ou infracional, consiste em fundamentação idônea para justificar o decreto de prisão preventiva para a garantia da ordem pública.
+Somado a isto, acrescente-se que a gravidade do delito não pode ser olvidada, embora, isoladamente, não possa ser fundamento exclusivo do decreto prisional, porém, somada as outras circunstâncias dos fatos em comento, conforme demonstrado acima, justificam a segregação cautelar.
+ ..
+Nesta trilha, a possibilidade concreta do paciente continuar delinquindo, ante ao modus operandi delitivo e a reiteração delitiva são motivos suficientes para a manutenção da prisão preventiva sob o argumento de assegurar a ordem pública.
+ ..
+Por fim, é cediço que estando presentes os requisitos para a decretação da prisão preventiva, afasta-se a aplicação de outras medidas cautelares diversas da prisão, previstas no art. 319 do CPP, por insuficientes ao caso concreto, sendo despicienda fundamentação acurada a despeito do tema pelo magistrado coator.
+Ressalte-se, ainda que eventuais condições pessoais favoráveis do paciente, como primariedade, residência fixa e ocupação lícita, por si só, não têm o condão de evitar a segregação cautelar, quando persistirem os motivos ensejadores da prisão preventiva, como é o caso dos autos.
+Destarte, malgrado a irresignação do impetrante com a custódia cautelar do paciente, não tendo comprovado a desnecessidade da mesma, ainda que a prisão cautelar seja uma medida extrema, certo é que em casos excepcionais, como o dos presentes autos, prevalece sobre a liberdade individual, não havendo que falar em sua substituição por quaisquer das demais medidas cautelares previstas no art. 319 do CPP, as quais seriam insuficientes ao presente caso.
+Não deve ser acolhido o pleito defensivo.
+Com efeito, dos excertos transcritos, concluo que, ao contrário do que alega a defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em razão do risco concreto de reiteração delitiva, pois o réu possui uma série de processos criminais (fl. 16) em seu desfavor, sobretudo pelo crime de tráfico de drogas, a saber, autos nº 0001926-79.2018.8.18.0140 e autos nº 0812966-15.2024.8.18.0140. Tal circunstância demonstra a periculosidade do agente e justifica a segregação cautelar para garantia da ordem pública.
+De fato,
+ c onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva do agente.
+ ..
+4. Agravo regimental improvido.
+(AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+Confiram-se, ainda, as seguintes ementas de julgados proferidos pelo Supremo Tribunal Federal, mutatis mutandis:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. SITUAÇÃO NÃO CONFIGURADORA DE INOVAÇÃO DE FUNDAMENTAÇÃO PELOS TRIBUNAIS DE INSTÂNCIAS SUPERIORES. AGRAVO A QUE SE NEGA PROVIMENTO.
+ ..
+II - A decisão do Superior Tribunal de Justiça alinha-se perfeitamente à jurisprudência deste Supremo Tribunal, firmada no sentido de que a prisão preventiva pode ter fundamento na reiteração criminosa, como violadora da ordem pública, quando demonstrada a presença de registro de prática de crimes na folha de antecedentes criminais do réu. Precedentes.
+ ..
+IV - Agravo regimental a que se nega provimento.
+(RHC 177.649/AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 29/11/2019, DJe de 06/12/2019).
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. IDONEIDADE DA PRISÃO PREVENTIVA FUNDADA NO RISCO DE REITERAÇÃO. FUGA DO DISTRITO DA CULPA. ALEGAÇÃO DE EXCESSO DE PRAZO NÃO APRECIADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INADMISSÍVEL SUPRESSÃO DE INSTÂNCIA. COMPLEXIDADE DA CAUSA PENAL. PLURALIDADE DE RÉUS. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E NÃO PROVIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - É idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrado o risco de reiteração delitiva.
+ ..
+V - Agravo regimental a que se nega provimento.
+(RHC 198.621-AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 12/05/2021, DJe de 19/05/2021).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a supost a existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Des embargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, não acolho a tese referente ao princípio da homogeneidade, pois,
+em relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade). A confirmação (ou não) da tipicidade da conduta do agente e da sua culpabilidade depende de ampla dilação p robatória, com observância aos princípios do contra ditório e da ampla defesa, o que não se coaduna com a finalidade do presente instrumento constitucional. (AgRg no HC n. 880.538/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/04/2024, DJe de 02/05/2024).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
