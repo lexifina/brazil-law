@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por GUSA NORDESTE S/A com fundamento no art. 105, inciso III, alínea "a" da Constituição da República contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AÇÃO RESCISÓRIA NÃO CONHECIDA. REVERSÃO DO DEPÓSITO EM FAVOR DO RÉU. ARTIGOS 974, PARÁGRAFO ÚNICO DO CPC. VALOR DA CAUSA. CORREÇÃO DEVIDA.
+1. No presente caso, o agravante não apresenta nenhum argumento ou documento novo capaz de modificar a decisão agravada, de modo que deve ser mantida a reversão do valor do depósito, bem como a correção do valor da causa.
+2. Agravo Interno desprovido." (Fl. 1234).
+Nas razões do recurso especial, a recorrente indica violação ao art. 968, II, do Código de Processo Civil, sustentando, em síntese, que "a reversão do depósito em multa em favor da outra parte ocorre apenas caso a ação seja julgada por decisão colegiada, através de acórdão" (fl. 1253).
+Contrarrazões apresentadas às fls. 1266-1274.
+É o relatório. Decido.
+A irresignação prospera.
+Na hipótese, o Tribunal de origem, no bojo de ação rescisória, negou provimento ao agravo interno para manter a decisão monocrática que, diante do não conhecimento do pedido, determinou a reversão do depósito prévio em favor da parte demandada, in verbis:
+"No que se refere à alegada impossibilidade de reversão do depósito, consignou-se que a disposição legal do parágrafo único do artigo 974 do CPC disciplina que essa reversão somente se dará em caso de julgamento unânime, o que faz presumir que há de ser julgado por órgão colegiado, não sendo possível reverter o depósito em favor do réu se for julgado monocraticamente, cumpre trazer a baila o dispositivo legal, vejamos: Art. 974. Julgando procedente o pedido, o tribunal rescindirá a decisão, proferirá, se for o caso, novo julgamento e determinará a restituição do depósito a que se refere o inciso II do art. 968.
+Parágrafo único. Considerando, por unanimidade, inadmissível ou improcedente o pedido, o tribunal determinará a reversão, em favor do réu, da importância do depósito, sem prejuízo do disposto no § 2º do art. 82 .
+Com efeito, o CPC fala em reversão em favor do réu, do valor do depósito, se for improcedente o pedido ou inadmissível a ação, por julgamento unânime.
+Isso se dá, pois toda a sistemática processual para a Ação Rescisória leva à conclusão de que após o curso regular do feito, com apresentação de defesa e instrução, a ação será levada a julgamento pelo órgão colegiado competente.
+Aliás, essa é a regra do trâmite dos recursos e ações originárias que se processam no Tribunal.
+Entretanto, essa regra comporta as exceções, que são os casos em que poderá haver o julgamento monocrático do feito, previsto no artigo 932 do CPC, para os casos de recursos, ou artigo 485, CPC, par as ações originárias, sendo possível o julgamento monocrático da Ação Rescisória, conforme precedentes do STJ.
+Assim, destacou-se na decisão agravada que há que se fazer uma interpretação sistemática da lei para a correta aplicação do direito ao caso concreto.
+Nesse contexto, indagou-se: se é possível o julgamento monocrático, e se a lei não disciplinou qual a destinação do depósito prévio em caso de julgamento monocrático, em que o resultado será de inadmissão ou improcedência dos pedidos, qual será o destino do citado depósito  Certamente, deve ser atendida a finalidade da norma que é recompensar o réu por ter sido indevidamente demandado, independente de o julgamento ter sido realizado por órgão colegiado ou monocraticamente.
+Assim, não prospera a tese de impossibilidade de reversão do valor do depósito em favor do réu, conforme apontado na decisão agravada." (Fl. 1237).
+A decisão recorrida está em confronto com a jurisprudência desta Corte, no sentido de que, inexistindo julgamento colegiado da questão e extinta a ação rescisória com o indeferimento da petição inicial, por decisão monocrática, o relator poderá facultar, ao autor, o levantamento do depósito judicial previsto no art. 968, II, do CPC. Nesse sentido:
+"AGRAVO INTERNO NA AÇÃO RESCISÓRIA - INDEFERIMENTO DA PETIÇÃO INICIAL POR AUSÊNCIA DE SEUS CORRELATOS REQUISITOS - DEPÓSITO PREVISTO NO ARTIGO 968, INCISO II, DO CPC/15 - DEVOLUÇÃO AO AUTOR DA DEMANDA - AUSÊNCIA DE JULGAMENTO COLEGIADO - POSSIBILIDADE - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - INSURGÊNCIA DO AGRAVANTE/RÉ.
+1. O ajuizamento de ação rescisória pressupõe a demonstração efetiva, concreta e objetiva de seus requisitos legais, também o cumprimento da condição de procedibilidade prevista no art. 968, inciso II, do CPC/15, consubstanciada na necessidade do autor realizar o depósito judicial da importância de 5% (cinco) por cento sobre o valor da causa, o qual se converterá em multa caso a ação seja, por unanimidade de votos, declarada inadmissível ou improcedente.
+2. A exegese do referido normativo impõe a observância dos critérios legais e objetivos definidos pelo legislador ordinário, consistentes no exame colegiado da questão, com a deliberação proferida por unanimidade de votos, julgando improcedente ou inadmissível o pleito rescisório.
+2.1. Extinta a ação rescisória, por indeferimento da petição inicial, sem apreciação do mérito, por meio de deliberação monocrática, o relator poderá facultar, ao autor, o levantamento do depósito judicial previsto no art. 968, II, do CPC/15. Precedentes da Segunda Seção.
+3. Agravo interno desprovido. "
+(AgInt na AR n. 7.237/DF, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 10/8/2022, DJe de 18/8/2022)
+Vale ressaltar que, embora a parte ora recorrente tenha ingressado com agravo interno diante da decisão monocrática de extinção do feito, apenas pretendeu o exame colegiado acerca do tema ora abordado, referente à impossibilidade de reversão do depósito prévio quando não há decisão colegiada, não sendo questionada a extinção da ação propriamente dita.
+Desse modo, inexistindo julgamento colegiado sobre o não conhecimento do pedido rescisório, o relator deverá facultar ao autor o levantamento do depósito judicial previsto no art. 968, II, do CPC/15.
+Diante do exposto, dou provimento ao recurso especial, a fim de afastar a perda do depósito inicial em favor do réu.
+Publique-se.
+EMENTA
