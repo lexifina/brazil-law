@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALINE ANTUNES DA SILVA contra decisão que indeferiu a liminar no writ de origem.
+Consta dos autos que a paciente foi presa em flagrante, convertido em prisão preventiva, pela suposta prática dos crimes tipificados nos artigos 33 e 35, da Lei nº 11.343/2006.
+Sustenta o impetrante, em síntese, que a paciente é genitora de uma criança de 4 anos de idade, sendo a única responsável pela infante.
+Alega que a prisão deve ser relaxada, pois a conduta imputada é atípica, visto que não foi apreendida droga, mas sim eppendorfs vazios.
+Aduz que não houve fundamentação idônea na apreciação da aplicação de medidas cautelares e ausência de fundamentação na substituição da prisão preventiva pela prisão domiciliar.
+Requer, liminarmente e no mérito, a concessão da ordem para relaxar ou revogar a sua prisão preventiva, permitindo-se à paciente que responda ao processo criminal em liberdade, aplicando as medidas cautelares diversas da prisão nos moldes do art. 319 do CPP, ou a prisão domiciliar conforme artigo 318 do CPP.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão impugnada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (fls. 72/74):
+2) Ao que consta da impetração, a paciente se encontra presa em flagrante delito pela prática, em tese, dos crimes previstos nos artigos 34 e 35, da Lei nº 11.343/06 (fl. 110 dos autos principais).
+3) Indefiro a liminar pleiteada, uma vez que as circunstâncias de fato e de direito trazidas à colação não evidenciam o atendimento aos pressupostos cumulados típicos das cautelares, aqui cabendo observar que o impetrante formulou pedido de prisão domiciliar no Juízo de origem (fls. 134/136 dos autos principais), que se encontra pendente de apreciação.
+4) Na medida em que o juízo de cognição na presente fase se revela extremamente restrito, a antecipação do mérito do habeas corpus exige que a ilegalidade do ato impugnado seja flagrante, de molde a justificar a imediata suspensão de seus efeitos, o que não sucede na hipótese dos autos, razão pela qual o exame aprofundado das teses defensivas se dará quando do julgamento de mérito pela Turma Julgadora.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+No caso, a pretensão de concessão de prisão domiciliar é questão passível de indeferimento do pedido de liminar, por demandar análise do próprio mérito da impetração, sobretudo no caso em tela, em que afirmado pelo Relator "que o impetrante formulou pedido de prisão domiciliar no Juízo de origem (fls. 134/136 dos autos principais), que se encontra pendente de apreciação."
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, não conheço do habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
