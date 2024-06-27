@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 752):
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+Em suas razões, a parte agravante insurge-se contra a incidência do Tema n. 181 do STF como óbice ao seguimento do recurso extraordinário, porquanto afirma não se opõe "contra a mera inadmissão do recurso especial, mas sim contra a falta de aplicação do princípio da fungibilidade recursal, positivada pelo art. 1.032 do CPC" (fl. 761).
+Ademais, pontua que a tese firmada em tal paradigma não poderia obstar o seguimento da insurgência no que tange à alegação de afronta a o art. 5º, XXXV, da Constituição Federal, decorrente da aplicação de multa no julgamento dos aclaratórios, que teriam sido opostos com o intuito de prequestionamento.
+Dentre outros requerimentos, pugna para que seja exercido o juízo de retratação, a fim de que o recurso extraordinário seja admitido, com a consequente remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Consideradas as razões declinadas pela parte agravante, reconsidero a decisão de fls. 752-754, a fim de torná-la sem efeito, e passo a exercer novo juízo de viabilidade do recurso extraordinário de fls. 715-725.
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 672):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Embargos à execução.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno no agravo em recurso especial não provido.
+Os embargos de declaração subsequentes foram rejeitados, com imposição de multa à parte ora recorrente, por terem sido reputados protelatórios.
+A parte insurgente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 5º, XXXV, da Constituição Federal.
+Em suas razões, aduz que do recurso especial outrora interposto, dentre outros motivos, deixou-se de conhecer com fundamento em não ser cabível em tal insurgência a assertiva de violação de dispositivo constitucional. Afirma, ainda, ter sido negada a aplicação da fungibilidade recursal prevista no art. 1.032 do Código de Processo Civil, ao argumento de que tal recurso também estaria fundado em controvérsias de natureza infraconstitucional.
+Nesse contexto, argumenta que a redação do mencionado dispositivo do CPC não impõe a necessidade de que o recurso esteja fundado unicamente em questões constitucionais para que seja aplicada a fungibilidade, de modo que a recusa do acórdão recorrido em remeter os autos à Suprema Corte violaria o direito de acesso à jurisdição.
+Ademais, pontua ter sido desrespeitado novamente o art. 5º, XXXV, da Constituição Federal ao ter-lhe sido imposta multa no julgamento dos aclaratórios, uma vez que almejava, apenas, o prequestionamento de contrariedade ao texto constitucional, que supostamente surgiu no julgamento do agravo interno.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Pois bem.
+O Supremo Tribunal Federal já definiu que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional nas hipóteses em que houver óbice processual ao exame de mérito, ofensa indireta à Constituição Federal ou necessidade de análise de matéria fática.
+Essa é a conclusão consolidada no Tema n. 895 do STF, no qual a Suprema Corte assim concluiu:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+O entendimento em tela foi adotado sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso dos autos, a alegada ofensa ao princípio da inafastabilidade de jurisdição dependeria, para ser examinada, da análise de normas infraconstitucionais, notadamente dos art. 1.022, 1.026, § 2º, e 1.032 do Código de Processo Civil, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 895.
+É o que se observa do seguinte trecho do acórdão recorrido (fl. 675, grifo no original):
+1. Da violação de dispositivo constitucional ou de súmula
+Consoante consignado na decisão impugnada, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Consigne-se não ser o caso da aplicação do art. 1.032 do CPC/2015, uma vez que a regra pertinente ao princípio da fungibilidade é cabível quando erroneamente interposto o recurso especial contra questão de natureza exclusivamente constitucional, e, em relação ao caso sob análise, o acórdão tem dupla fundamentação, constitucional e infraconstitucional, sendo necessária a interposição de dois recursos de natureza extraordinária distintos (recursos especial e extraordinário).
+Do mesmo modo, destacam-se os seguintes excertos do voto condutor do acórdão proferido no julgamento dos aclaratórios (fls. 708-709):
+É notória a busca de efeitos infringenciais, não havendo a alegada omissão, porquanto a decisão embargada trata expressamente da matéria novamente vertida nestes embargos de declaração.  ..
+Outrossim, impende consignar que a jurisprudência do Superior Tribunal de Justiça é pacífica quanto à impossibilidade de manifestação, na via do recurso especial, ainda que para fins de prequestionamento, a respeito de alegada violação a dispositivos da Constituição Federal. Nesse sentido: AgInt no REsp n. 1.995.645/MA, Primeira Turma, DJe de 27/11/2023 e EDcl no AgInt nos EDcl no AREsp n. 2.387.379/SP, Terceira Turma, DJe de 16/11/2023.
+Desse modo, importa salientar que os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, erro material, contradição ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador, não se prestando à simples reexame da causa, nem a modificar o entendimento do órgão julgador.
+Verifica-se que o embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema. Os fundamentos de seus aclaratórios revelam tal inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Dissociado, o pleito, de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+DISPOSITIVO
+Forte em tais razões, REJEITO os embargos de declaração e, tendo em vista o seu manifesto caráter protelatório, condeno o embargante ao pagamento de multa em favor da parte embargada, no montante correspondente a 0,5% do valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC/2015, sem prejuízo da elevação da penalidade na hipótese de reiteração.
+Ademais, o Supremo Tribunal Federal, sob a sistemática da repercussão geral (Tema n. 197), decidiu que "não alcança estatura constitucional a questão relativa à aplicação de multa em julgamento de embargos de declaração tidos por protelatórios, que se restringe ao plano processual" (AI n. 752.633/SP, relator Ministro Cézar Peluso, Plenário Virtual, DJe de 18/12/2009).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. VIOLAÇÃO DOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339). INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE MULTA EM EMBARGOS DE DECLARAÇÃO TIDOS POR PROTELATÓRIOS (TEMA 197). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+IV - A aplicação de multa pela oposição de embargos de declaração julgados protelatórios, por se tratar de matéria infraconstitucional, é matéria destituída de repercussão geral.
+V - Agravo regimental, a que se nega provimento.
+(ARE n. 1.387.215-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 29/8/2022, DJe de 1º/9/2022.)
+Dess a forma, tendo a alegada violação constitucional se dado em decorrência da aplicação de multa pr ocessual pela interposição de recurso inadmissível ou protelatório, como no caso dos autos, não há repercussão geral.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme o disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. EXISTÊNCIA DE ÓBICE AO EXAME DE MÉRITO, DEBATE FÁTICO OU OFENSA CONSTITUCIONAL INDIRETA. NATUREZA INFRACONSTITUCIONAL. TEMA N. 895 DO STF. MULTA EM RAZÃO DE RECURSO PROTELATÓRIO. MATÉRIA DE NATUREZA PROCESSUAL. TEMA N. 197 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
