@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GILDEMAR HENRIQUE DOS SANTOS LOPES, IVANICE PEREIRA FARIA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: consignatória de parcelas incontroversas e pedido de tutela antecipada ajuizada pelos agravantes contra CASTRO MORAIS INCORPORADORA E CONSTRUTORA LTDA.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. REINTEGRAÇÃO DE POSSE. COMPROMISSO DE COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. INADIMPLÊNCIA. VENCIMENTO ANTECIPADO. SENTENÇA UNA. EFEITO SUSPENSIVO. PEDIDO PREJUDICADO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ABUSIVIDADE. CORREÇÃO E JUROS. NÃO COMPROVADA. RESTITUIÇÃO DE QUANTIA PAGA. IMPOSSIBILIDADE. HONORÁRIOS RECURSAIS. MAJORAÇÃO. DEVOLUÇÃO DAS QUANTIAS PAGAS. HONORÁRIOS RECURSAIS.
+1. O pedido de atribuição de efeito suspensivo à apelação não pode ser conhecido quando não é deduzido, adequada e oportunamente, por meio de petição em apartado, com requerimento específico dirigido ao tribunal ou relator da apelação. Além do mais, encontra-se prejudicado em razão do julgamento do recurso.
+2. Não há que falar em cerceamento de defesa decorrente da omissão de análise do pleito de produção de pericial contábil, pois os apelantes/autores não postularam referida prova.
+3. Inexiste cerceamento de defesa porquanto, quando as partes foram intimadas para se manifestarem sobre interesse na produção de provas, os apelantes permaneceram inertes e não postularam a produção de prova pericial; operando-se a preclusão temporal sobre a questão.
+4. Os autores/apelantes não se desincumbiram do ônus que lhes competia de comprovar a abusividade do contrato ou mesmo que as parcelas adimplidas foram cobradas em desconformidade com a avença.
+5. Além domais, na sentença o juiz da instância singela, no dispositivo, fixou prazo para os recorrentes purgarem a mora "nos termos do contrato pactuado e com a incidência de todos os encargos lá previstos".
+6. Por se tratar, no caso, de contrato de compromisso de compra e venda de imóvel com alienação fiduciária, em caso de não purgação da mora, ocorrerá a consolidação da propriedade do imóvel em nome do fiduciário(art. 26 da Lei nº 9.514/97) com posterior leilão público para alienação do imóvel. Assim, apenas após eventual leilão público será possível apurar se haverá quantia a ser restituída aos apelantes.
+7. Em razão do não acolhimento das teses recursais, devem os honorários serem majorados. APELAÇÃO CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) incidência da Súmula 284/STF e ii) aplicação da Súmula 284/STF quanto à divergência jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não há se falar ausência de indicação e motivação clara dos dispositivos violados na decisão recorrida, na medida em que a matéria ventilada no REsp foi omissa no acórdão vergastado, tanto foi alicerçada em argumentos claros, tendo o decisum inclusive destacado excertos do Recurso Especial, evento 217,e do acórdão fustigado para amparar suas razões" (e-STJ fl. 615).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) incidência da Súmula 284/STF e ii) aplicação da Súmula 284/STF quanto à divergência jurisprudencial.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários em R$ 200,00 (duzentos reais).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
