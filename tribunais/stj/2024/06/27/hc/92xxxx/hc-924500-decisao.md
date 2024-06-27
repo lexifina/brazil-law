@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de WEMERSON PEREIRA PINTO, que, em primeira instância, foi condenado como incurso no art. 288, caput, do Código Penal e no art. 17, § 1º, da Lei n. 10.823/2006, em concurso material, à pena de 7 anos, 1 mês e 14 dias, em regime semiaberto, pois, teria em associação, exposto à venda, no exercício de comércio irregular ou clandestino, arma de fogo, acessório e munição, sem autorização ou em desacordo com determinação legal ou regulamentar (Processo n. 0016486-68.2020.8.27.2706, da 2ª Vara Criminal da comarca de Araguaína/TO).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, que deu parcial provimento ao apelo defensivo apenas para absolver o paciente da imputação relacionada ao crime associação criminosa, mantida a condenação pelo crime de comércio ilegal de arma de fogo. Com isso a reprimenda dele foi reduzida a 6 anos de reclusão e 10 dias-multa (fls. 77/95).
+Requer-se, em liminar e no mérito, a concessão da ordem para a absolvição do paciente, pela imputação do art. 17 da Lei nº 10.826/2006, ante a ausência de prova judicializada, por ferir o art. 155 do Código de Processo Penal (fl. 6).
+Para tanto, alega-se, em suma, que a condenação mantida pelo Tribunal de Justiça do Tocantins, está lastreada somente em elementos extrajudiciais não repetidos em juízo, bem como em prints de WhatsApp (fl. 4).
+Estes autos foram a mim distribuídos por prevenção. Pelo Superior Tribunal de Justiça ainda tramita o AREsp n. 2.459.330/TO, cujo agravo regimental do ora paciente contra a decisão de negativa de seguimento do recurso extraordinário ainda pende de julgamento.
+É o relatório.
+O writ é manifestamente inadmissível.
+Como visto, houve a interposição de recurso especial na origem contra o acórdão da apelação e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+O habeas corpus também não deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro.
+Sem contar que a via estreita do habeas corpus não admite o revolvimento fático-probatório dos elementos da ação penal, além de esta Corte Superior de Justiça ter reiteradamente decidido ser necessário o prévio debate explícito e decisão da instância a quo acerca da questão suscitada no writ, a fim de se evitar a inaceitável supressão de instância.
+No caso, a Tribunal estadual não se manifestou sobre o mencionado art. 155, até porque, pelo que se tem dos autos, não foi sequer instado a tanto. De toda maneira, com base no acervo probatório, firmou compreensão acerca da efetiva prática do crime do art. 17, § 1º, da Lei n. 10.823/2006 pelo paciente. E, como cediço, o habeas corpus, ação constitucional de rito célere e de cognição sumária, não é meio processual adequado para analisar a tese de insuficiência probatória para a condenação (AgRg no HC n. 850.119/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 11/12/2023).
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. COMÉRCIO ILEGAL DE ARMA DE FOGO. INOBSERVÂNCIA DO ART. 155 DO CPP. SUPRESSÃO DE INSTÂNCIA E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INEVIDÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
