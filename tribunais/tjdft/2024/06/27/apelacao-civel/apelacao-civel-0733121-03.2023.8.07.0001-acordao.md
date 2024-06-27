@@ -1,0 +1,96 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0733121-03.2023.8.07.0001APELANTE(S)JOSE WILKER FAUSTINO GOMESAPELADO(S)BANCO DO BRASIL S/A e FUNDAÇÃO CESGRANRIORelatorDesembargador JAMES EDUARDO OLIVEIRA
+ Acórdão Nº1886140
+
+EMENTA
+
+DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO QUE NÃO SE INSCREVEU COMO PESSOA COM DEFICIÊNCIA. DIAGNÓSTICO POSTERIOR À INSCRIÇÃO. PEDIDO DE CLASSIFICAÇÃO FINAL NAS VAGAS RESERVADAS A PESSOAS COM DEFICIÊNCIA. DIREITO SUBJETIVO INEXISTENTE.
+
+I. O candidato que não se inscreveu como deficiente, como exige expressamente o edital, não tem o direito subjetivo de ser classificado ao final do concurso público nas vagas reservadas a pessoas portadoras de deficiência por ter sido diagnosticado com TDAH e TEA depois da inscrição.
+
+II. Como norma básica do certame, o edital submete aos seus termos a pessoa jurídica que realiza o concurso público para o provimento de seus cargos, a entidade contratada para a realização do concurso público e os candidatos inscritos, não podendo ter a sua aplicação ressalvada ou excepcionada, sob pena de ofensa aos princípios da isonomia e da impessoalidade.
+
+III. Apelação desprovida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JAMES EDUARDO OLIVEIRA - Relator, SÉRGIO ROCHA - 1º Vogal e AISTON HENRIQUE DE SOUSA - 2º Vogal, sob a Presidência do Senhor Desembargador ARNOLDO CAMANHO, em proferir a seguinte decisão: NEGAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 05 de Julho de 2024
+
+Desembargador JAMES EDUARDO OLIVEIRARelator
+
+RELATÓRIO
+
+Trata-se de APELAÇÃO interposta por JOSE WILKER FAUSTINO GOMES contra a sentença que, na “AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO” ajuizada em face do BANCO DO BRASIL S/A e da FUNDAÇÃO CESGRANRIO, julgou improcedente o pedido.
+
+O Apelante sustenta (i) que se inscreveu no concurso público para provimento do cargo de Agente de Tecnologia do Banco do Brasil, executado pela Fundação Cesgranrio; (ii) que foi aprovado na prova objetiva para a Macrorregião 57 – Microrregião 158, cadastro reserva, na 6.956ª posição da ampla concorrência; (iii) que durante o certame foi diagnosticado com Transtorno do Déficit de Atenção com Hiperatividade – TDAH e Transtorno do Espectro Autista – TEA; (iv) que está cadastrado como pessoa portadora de Autismo na Prefeitura de Igarassu/PE e foi aprovado como PCD nos concursos públicos do SERPRO e da EMPREL; (v) que manteve seus dados atualizados no concurso do Banco do Brasil e encaminhou a documentação que atesta sua deficiência por e-mail; (vi) que não comprovou a sua deficiência no ato da inscrição do concurso porque não tinha o diagnóstico naquele momento; e (vi) que a não aceitação dos laudos que atestam ser portador da deficiência configura excesso de formalismo.
+
+Requer o provimento do recurso para que seu nome seja incluído no resultado final do concurso para o cargo de Agente de Tecnologia nas vagas destinadas aos candidatos deficientes, com a consequente reclassificação.
+
+Em contrarrazões, o primeiro Apelado (BANCO DO BRASIL S/A) argumenta (i) que o item 4.1.5 do edital prevê que o candidato que pretenda concorrer a uma vaga como PCD deve se autodeclarar no momento da inscrição; (ii) que o laudo foi emitido em 19/12/2022 com pré-diagnóstico de TEA – Transtorno do Espectro Autista e encaminhamento do Apelante para exame neurológico para fechar o diagnóstico; e (iii) que o Apelante não se declarou portador de deficiência a tempo e modo, não podendo fazê-lo após homologado o resultado final do concurso, sob pena de violação ao princípio da isonomia.
+
+O segundo Apelado (FUNDAÇÃO CESGRANRIO) também apresentou resposta alegando (i) que o Apelante confessou não ter se declarado pessoa com deficiência no ato da inscrição no concurso; (ii) que, de acordo com os itens 4.1.5, 4.1.6, 4.1.15 e 5.1.2 do edital, para a concorrência nas vagas reservadas a pessoas com deficiência é necessário declaração prévia no ato da inscrição e o envio do respectivo laudo médico comprovando a deficiência; (iii) que o edital do concurso vincula os candidatos e o ente público; e (iv) que a deficiência do Apelante só foi confirmada em junho de 2023, próximo à homologação do concurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador JAMES EDUARDO OLIVEIRA - Relator
+
+Presentes os pressupostos objetivos e subjetivos de admissibilidade, conheço do recurso.
+
+O Apelante não tem o direito subjetivo de ser incluído na relação de aprovados nas vagas destinadas a pessoas com deficiência.
+
+De acordo com o item 4.1.5 do “EDITAL Nº 01 - 2022/001 BB”, para concorrer nas vagas reservadas a pessoas com deficiência o candidato devia, “no ato da inscrição, declarar-se pessoa com deficiência” e “enviar, via upload, a imagem legível do laudo médico” atestando a deficiência. Confira-se:
+
+“4.1.5 - Para se inscrever nesta Seleção Externa, na condição de pessoa com deficiência, o(a) candidato(a) deverá:
+
+a) no ato da inscrição, declarar-se pessoa com deficiência.
+
+b) enviar, via upload, a imagem legível do laudo médico, emitido nos últimos 24 (vinte e quatro) meses, contado da data de publicação deste Edital, atestando a espécie e o grau ou nível da deficiência, com expressa referência ao código correspondente da Classificação Internacional de Doenças (CID-10), bem como à provável causa da deficiência, contendo a assinatura e o carimbo do(a) médico(a) com o número de sua inscrição no Conselho Regional de Medicina (CRM), conforme definido no subitem 4.1.5.1.
+
+4.1.5.1 - O(A) candidato(a) que desejar concorrer às vagas reservadas às pessoas com deficiência, ou que necessite de atendimento especializado, deverá enviar até às 23:59h do dia 24/02/2023 (horário de Brasília), via upload, por meio de link específico no endereço eletrônico da FUNDAÇÃO CESGRANRIO (www.cesgranrio.org.br), imagens legíveis do laudo médico a que se refere o subitem 4.1.5 deste Edital.”
+
+O Apelante não atendeu a essa exigência editalícia e por isso não tem o direito subjetivo de participar do concurso público nas vagas destinadas a pessoas com deficiência. Rezam, com igual clareza, os itens 4.1.6 e 4.1.15 do edital:
+
+“4.1.6 - O(A) candidato(a) com deficiência que não a declarar no ato de inscrição, deixará de concorrer aos quantitativos reservados aos deficientes e não poderá interpor recurso em favor de sua situação.
+
+[...]
+
+4.1.15 - As pessoas com deficiência que não optarem, no momento da inscrição, por disputar as vagas reservadas aos deficientes ou não cumprirem o disposto no subitem 4.1.5 não terão direito ao pleito das vagas a elas reservadas.”
+
+O fato de o Apelante ter sido diagnosticado com “Transtorno do Déficit de Atenção com Hiperatividade – TDAH e Transtorno do Espectro Autista – TEA” após a inscrição não altera essa compreensão. Pelo contrário, deixa patente que ele não se inscreveu como pessoa com deficiência, pressuposto sem o qual não pode participar do concurso público nessa qualidade.
+
+Frise-se que, segundo o edital, para concorrer nas vagas reservadas a pessoas com deficiência é indiferente que o candidato seja portador de deficiência ou tenha sido diagnosticado portador de deficiência. Só participa do concurso público nas vagas destinadas a pessoas com deficiência o candidato que se inscreveu como pessoa portadora de deficiência, ou seja, que se autodeclarou deficiente e apresentou o atestado médico respectivo “no ato da inscrição”.
+
+Se o Apelante não se autodeclarou portador de deficiência nem apresentou atestado médico comprobatório no ato da inscrição, salta à vista que não possui o direito de subjetivo de concorrer às vagas destinadas a pessoas com deficiência – PCDs, dada a exigência que ressai patente do edital. Nesse sentido, decidiu este Tribunal de Justiça:
+
+“MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CARREIRAS DE MAGISTÉRIO PÚBLICO (PROFESSOR) E ASSISTÊNCIA À EDUCAÇÃO. EDITAL Nº 31/2022. SECRETARIA DE ESTADO DE EDUCAÇÃO DO DISTRITO FEDERAL. CANDIDATA PORTADORA DE DEFICIÊNCIA. INSCRIÇÃO. VAGA DE AMPLA CONCORRÊNCIA. ESCOLHA. ÔNUS. INSCRIÇÃO. VAGA PESSOAS COM DEFICIÊNCIA. AUSÊNCIA. DESCRIÇÃO INADEQUADA DO EDITAL. DIFICULDADES DE ENTREGA DE DOCUMENTAÇÃO MÉDICA. PROVAS. AUSÊNCIA. ATO COATOR. INEXISTÊNCIA. DESCUMPRIMENTO DO EDITAL PELA PRÓPRIA CANDIDATA. 1. A Secretaria de Estado de Educação do Distrito Federal é a subscritora do edital do concurso público para o qual se inscreveu a impetrante e tem capacidade para eventualmente corrigir a ilegalidade arguida, razões pelas quais possui legitimidade para figurar no polo passivo da demanda. Precedentes do STJ e deste TJDFT. 2. Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade (Lei nº 12.016/2009, art. 1º). 3. "O edital é a lei do concurso, razão pela qual suas regras obrigam tanto a Administração quanto os candidatos, em atenção ao princípio da vinculação ao instrumento convocatório" (AgInt no RMS n. 63.700/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 31/5/2021, DJe de 4/6/2021). 4. O art. 3º da Lei de Introdução das Normas de Direito Brasileiro (LINDB) dispõe que o desconhecimento da norma não pode utilizado para se eximir de seu cumprimento, motivo pelo qual é legítimo que o edital apenas cite as normas que indicam as enfermidades ou as condições que são consideradas como deficiência. 5. Para concorrer às vagas destinadas às pessoas com deficiência, o edital previu, de forma clara e objetiva, que o candidato deveria optar por esse grupo no ato da inscrição do concurso, com consequente comprovação da condição de saúde e do respectivo enquadramento legal, sob pena de indeferimento da solicitação. Dispôs, ainda, que todas as informações prestadas no momento da inscrição são de inteira responsabilidade do candidato. 6. O conjunto probatório demonstra que o alegado impedimento para concorrer às vagas destinadas às pessoas com deficiência decorre de ato praticado pela própria candidata/impetrante, que, de livre vontade, permitiu que terceira pessoa fizesse sua inscrição para as vagas de ampla concorrência e não para as vagas destinadas às pessoas com deficiência. É descabido que, após a realização e divulgação do resultado das provas, a candidata ingresse em juízo para que a nota obtida na ampla concorrência seja transferida para o grupo para o qual não se inscreveu. 7. Independentemente de possuir ou não deficiência, a impetrante não provou que se inscreveu para concorrer às vagas destinadas às pessoas com deficiência, não demonstrou qualquer dificuldade e/ou impedimento para fazê-lo nem o descumprimento das regras editalícias pelos impetrados, razões pelas quais não há ato coator a ser sanado. 8. Preliminar rejeitada. Segurança denegada. (MSG 07413144420228070000, 2ª CC., rel. Des. Diaulas Costa Ribeiro, DJe 24/4/2023)”
+
+Cumpre ressaltar que o edital não está em dissonância com nenhuma norma legal e assim é a lei interna do concurso público a que estão adstritos candidatos e organizadores.
+
+Como norma básica do certame, o edital submete aos seus termos a pessoa jurídica que realiza o concurso público para o provimento de seus cargos, a entidade contratada para a realização do concurso público e os candidatos inscritos, não podendo ter a sua aplicação ressalvada ou excepcionada, sob pena de ofensa aos princípios da isonomia e da impessoalidade. Nesse sentido é firme o magistério jurisprudencial do Superior Tribunal de Justiça, como ilustram os seguintes julgados:
+
+“PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. DELEGADO DE POLÍCIA CIVIL DO ESTADO DE MATO GROSSO DO SUL. ELIMINAÇÃO DE CANDIDATOS. PROVA ORAL. NULIDADES APONTADAS QUE NÃO SE SUSTENTAM. IMPOSSIBILIDADE DE REAPRECIAÇÃO PELO PODER JUDICIÁRIO. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO. PROVIMENTO NEGADO. (...) Segundo entendimento pacífico desta Corte Superior, "o edital é a lei interna do concurso público, que vincula não apenas os candidatos, mas também a própria Administração, e que estabelece regras dirigidas à observância do princípio da igualdade, devendo ambas as partes observar suas disposições" (RMS 23.514/MT, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 27/3/2008, DJe de 2/6/2008). (...) (AgInt no RMS 71.016/MS, 1ª T., rel. Min. Paulo Sérgio Domingues, DJe 20/5/2024)”
+
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA PROVIMENTO DE VAGAS E FORMAÇÃO DE CADASTRO DE RESERVA DO QUADRO DE PESSOAL DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO, PENITENCIÁRIA E JUSTIÇA, DO ESTADO DE GOIÁS. AGENTE DE SEGURANÇA PRISIONAL. AVALIAÇÃO DE VIDA PREGRESSA. AUSÊNCIA DE APRESENTAÇÃO TEMPESTIVA DE DOCUMENTOS EXIGIDOS NO EDITAL DO CERTAME. DESCUMPRIMENTO DE REGRA EDITALÍCIA. PRINCÍPIO DA VINCULAÇÃO AO EDITAL. EXCLUSÃO DO CERTAME. AUSÊNCIA DE JUSTIFICATIVA PLAUSÍVEL. EXTRAVIO DE DOCUMENTO OCORRIDO HÁ MAIS DE OITO MESES. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRECEDENTES DO STJ. SEGURANÇA DENEGADA. AGRAVO INTERNO IMPROVIDO. (...) A jurisprudência dominante nesta Corte Superior é pacífica no sentido de que as regras editalícias, consideradas em conjunto como verdadeira lei interna do certame, vinculam tanto a Administração como os candidatos participantes. De modo que, o concurso público deverá respeitar o princípio da vinculação ao edital e as obrigações dos editais devem ter cumprimento compulsório, em homenagem ao art. 37, caput, da Constituição Federal. (...) (AgInt no RMS 65.837/GO, 2ª T., rela. Mina. Assusete Magalhães, DJe 20/12/2023)”
+
+“PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. AUDITOR FISCAL DA RECEITA ESTADUAL. INCLUSÃO DE CANDIDATOS PORTADORES DE DEFICIÊNCIA NA LISTA GERAL. PREVISÃO NA LEI ESTADUAL N. 17.292/2017 E NO EDITAL DO CERTAME. VINCULAÇÃO ÀS REGRAS EDITALÍCIAS. PRECEDENTES. (...) A jurisprudência dominante nesta Corte Superior é pacífica no sentido de que as regras editalícias, consideradas em conjunto como verdadeira lei interna do certame, vinculam tanto a Administração como os candidatos participantes. Impositivo, portanto, o respeito ao princípio da vinculação ao edital. (...) (AgInt no RMS 70.491/SC, 1ª T., rel. Min. Benedito Gonçalves, DJe 14/12/2023)”
+
+No mesmo sentido, deliberou este Tribunal de Justiça:
+
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. CONCURSO PÚBLICO PARA O CARGO DE POLICIAL PENAL DO DF. CANDIDATO ELIMINADO. AUSÊNCIA DO PREENCHIMENTO DA FOLHA DE RESPOSTAS COM O TIPO DE PROVA. REQUISITO OBRIGATÓRIO. FASE CLASSIFICATÓRIA. ELIMINAÇÃO DO CERTAME. PRINCÍPIO DA ISONOMIA E DA VINCULAÇÃO AO EDITAL. RECURSO IMPROVIDO. 1. Agravo de instrumento interposto contra decisão, proferida nos autos da ação de obrigação de fazer, que indeferiu a tutela de urgência requerida para anular o ato de eliminação do autor do concurso público para o cargo de policial penal do DF. 1.1. Em sua peça recursal o agravante requereu a reforma da decisão combatida a fim de lhe fosse concedida a tutela provisória de urgência viabilizando a obrigação de fazer pretendida, ou seja, de forma que fosse revertida sua exclusão sumária, culminando na correção de sua prova objetiva, com base no gabarito definitivo da prova de tipo 01. 2. No caso, o recorrente preencheu a folha de respostas da prova objetiva apenas com o gabarito das questões. No entanto, deixou de marcar qual tipo de prova realizou. 2.1. Existiam quatro tipos de prova objetiva distintos, identificados com os números "01", "02", "03" e "04". O caderno de questões trazia as instruções de forma expressa para o preenchimento da folha definitiva, perfeitamente visível e se referia à obrigatoriedade do preenchimento das determinações constantes em edital, sob pena de anulação desta e, consequentemente, não serem computados os pontos. 2.2. O objetivo da marcação é permitir a aferição do acerto das respostas diante do gabarito próprio àquele tipo de prova, haja vista cada caderno de prova objetiva possuir um gabarito específico. 2.3. Autorizar a correção da folha de resposta do autor incorreria em medida violadora das normas da prova e do edital, de modo a privilegiar o candidato em detrimento dos demais concorrentes, que tiveram que se sujeitar ao mesmo procedimento. A aplicação do princípio da razoabilidade e proporcionalidade promoveria flagrante violação à isonomia do certame. 2.4. Ainda assim, sabe-se que o edital do certame vincula não apenas a Administração Pública como todos os candidatos, de modo que não deve o Poder Judiciário intervir nos critérios utilizados para a seleção pública, devendo se limitar ao exame da legalidade e razoabilidade, não se podendo cogitar de tratamento diferenciado aos concorrentes, sob pena de violar o princípio da isonomia e impessoalidade. 2.5. O Superior Tribunal de Justiça assim já decidiu: " (.....) 1. Os princípios basilares para a realização de concurso público são o da legalidade e o da vinculação ao edital, segundo os quais o edital é a lei que rege a aplicação dos certames públicos, sendo o instrumento norteador da relação jurídica entre a Administração e os candidatos, vinculando ambos e se pautando, também, em regras de isonomia e de imparcialidade. 2. A inscrição no concurso público indica a aceitação das normas dispostas em edital pelo candidato, que se submete, a partir de então, no que lhe couber, ao instrumento regulador. 3. Aplicação do princípio da isonomia nos concursos públicos, segundo o qual se inadmite tratamento diferenciado entre os candidatos de um mesmo certame. 4. Conforme já decidiu o STJ, "Não tem direito à correção de cartão-resposta de prova aplicada em certame público o candidato que, descumprindo regra contida no edital e expressa no próprio cartão-resposta, abstenha-se de realizar a identificação do seu tipo de caderno de questões. Isso porque viabilizar a correção da folha de resposta de candidato que não tenha observado as instruções contidas no regulamento do certame e ressalvadas no próprio cartão-resposta implicaria privilegiar um candidato em detrimento dos demais - que concorreram em circunstâncias iguais de maturidade, preparação, estresse e procedimento -, configurando flagrante violação do princípio da isonomia". (REsp 1.376.731-PE, Rel. Min. Humberto Martins, julgado em 14/5/2013). 2.6. Dessa forma, com base nos princípios da razoabilidade e da proporcionalidade, conclui-se que o ato em questão não é abusivo à luz do princípio da isonomia. Não se pode criar exceção para favorecer o autor, a pretexto de observância ao princípio da razoabilidade. 3. Agravo de instrumento improvido. (AGI 07336168420228070000, 2ª T., rel. Des. João Egmont, DJe 15/2/2023)”
+
+ISTO POSTO, conheço e nego provimento ao recurso.
+
+Majoro em 20% os honorários advocatícios, observada a gratuidade de justiça.
+
+O Senhor Desembargador SÉRGIO ROCHA - 1º Vogal Com o relatorO Senhor Desembargador AISTON HENRIQUE DE SOUSA - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO AO RECURSO. UNÂNIME
