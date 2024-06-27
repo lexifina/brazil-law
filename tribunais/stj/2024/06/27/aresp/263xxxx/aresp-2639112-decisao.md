@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por JANIR GOMES com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ Fl.317):
+"-AGRAVO INTERNO - APELAÇÃO CÍVEL-INDEFERIMENTO DA JUSTIÇA GRATUITA-EFETIVA AUSÊNCIA DE PROVA DA HIPOSSUFICIÊNCIA - INEXISTÊNCIA DE PROVA DIABÓLICA-DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Em vista do acerto da decisão atacada que indeferiu o pedido de justiça gratuita ao requerente, eis que efetivamente ausente prova nos autos da hipossuficiência do mesmo, impõe-se o desprovimento do agravo interno.
+Não há o que se fala em prova diabólica,vez que toda pessoa detém elementos para comprovar sua movimentação financeira, em toda extensão de sua completude, até porque, por óbvio, contra ela inexistem quaisquer sigilos."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, que o Tribunal a quo negou vigência aos art. 489 e 1.022 do CPC/2015, na medida em que deixou de emitir juízo de valor a respeito da questão jurídica tratada nos embargos de declaração, qual seja, a gratuidade de justiça, conforme art. 98 do CPC/2015.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+A irresignação recursal, voltada à omissão do Tribunal a quo quanto à apreciação dos requisitos da gratuidade de justiça não prospera, pois houve clara menção ao tema no sentido de que não há de ser admitida como absoluta a mera afirmação trazida pela parte de que não está em condições financeiras de arcar com as custas processuais e honorários advocatícios, sendo imprescindível para a concessão deste benefício a demonstração de sua hipossuficiência financeira, não caracterizada no presente caso, na medida em que os documentos juntados ao feito não demonstram efetivamente a sua impossibilidade de pagar as despesas do processo. (e-STJ Fls. 320/321)
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade, de contradição ou erro material no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe de 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe de 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe de 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe de 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe de 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe de 25/05/2020.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial. Sem majoração da verba honorária advocatícia sucumbencial, posto que não fixada no âmbito do agravo interno.
+Publique-se.
+EMENTA
