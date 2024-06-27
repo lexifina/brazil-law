@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por SENDAS DISTRIBUIDORA S/A, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. SAT. TERCEIROS. MENOR APRENDIZ. SEGURADO OBRIGATÓRIO DO RGPS. APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados.
+A parte recorrente sustenta, além de negativa da prestação jurisdicional, que o valor pago ao menor aprendiz não integra a base de cálculo das contribuições patronais e do Fundo de Garantia do Tempo de Serviço - FGTS, conforme determina o art. 4º do Decreto-Lei 2.318-1986.
+Contrarrazões apresentadas às fls. 599-611.
+O recurso foi inadmitido pelo Tribunal de origem, o que ensejou a interposição deste agravo em recurso especial.
+É o relatório.
+Passo a decidir.
+Inicialmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional no acórdão que decide, de modo integral e com fundamentação suficiente a controvérsia posta. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Na origem, a parte ora recorrente impetrou mandado de segurança com vistas à exclusão dos valores gastos com os menores aprendizes da base de cálculo das contribuições previdenciárias patronais e do FGTS, com fundamento na norma isentiva prevista no art. 4º, § 4º, do Decreto-lei 2.318/1986, a saber:
+Art 4º As empresas deverão admitir, como assistidos, com duração de quatro horas diárias de trabalho e sem vinculação com a previdência social, menores entre doze e dezoito anos de idade, que frequentem escola.
+ ..
+§ 4º Em relação aos gastos efetuados com os menores assistidos, as empresas não estão sujeitas a encargos previdenciários de qualquer natureza, inclusive FUNRURAL, nem a recolhimentos em favor do Fundo de Garantia por Tempo de Serviço.
+Como se vê, o referido dispositivo legal aplica-se aos contratados assistidos com idade entre 12 e 18 anos, frequência escolar e carga horária de 4 horas/dia.
+Essa situação não se confunde com o contrato de aprendizagem, previsto nos arts. 428 e 429 da Consolidação das Leis do Trabalho - CLT, cujo objetivo precípuo é a capacitação de jovens, com idade ente 14 e 24 anos, inscritos em programa de formação técnico-profissional.
+Dessa forma, seja pela impossibilidade interpretação extensiva das normas que outorgam isenção ou exclusão de obrigação tributária (art. 111 do CTN), seja pela ausência de comando normativo apto a sustentar a tese recursal, a pretensão da recorrente não merece prosperar.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. MENOR APRENDIZ. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. AFRONTA AO ART. 1.022 DO CPC NÃO CONFIGURADA. VIOLAÇÃO A PORTARIA. NÃO CABIMENTO. EQUIPARAÇÃO DE MENOR ASSISTIDO E MENOR APRENDIZ É INDEVIDA. ENTENDIMENTO DO STJ. INTERPRETAÇÃO EXTENSIVA. ART. 111 DO CTN. IMPOSSIBILIDADE.
+ ..
+4. Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto, nos termos do que foi assentado pela Segunda Turma do STJ, "a equiparação das classes de menor assistido com a de menor aprendiz, sustentada pelo contribuinte em suas razões recursais, mostra-se completamente indevida, seja porque são regidas por diplomas jurídicos distintos (Decreto-Lei n. 2.318/1986 vs. CLT), seja porque possuem requisitos legais diferentes para a respectiva implementação no quadro da empresa (percentual para cada estabelecimento, idade do contratado, horas de trabalho, grau de formação acadêmica e vínculo empregatício. (..). Conforme previsto expressamente no § 4º do art. 4º do Decreto-Lei n. 2.318/1986, estão excluídos da base de cálculo dos encargos previdenciários os gastos efetuados com os menores assistidos, benesse fiscal que não encontra correspondência nos artigos de lei indicados pelo contribuinte em relação à remuneração paga aos menores aprendizes. (..) Ademais, deve-se salientar que a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a lei tributária deve ser interpretada de forma literal quando versar acerca de eventual outorga de isenção ou exclusão de obrigação tributária, sob pena de violação ao art. 111 do CTN, exigência que corrobora a impossibilidade de interpretação extensiva do § 4º do art. 4º do Decreto-Lei n. 2.318/1986 à remuneração paga aos menores aprendizes" (AgInt no REsp 2.048.157/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 17.5.2023).
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.090.876/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/3/2024, DJe de 19/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. MENOR APRENDIZ. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. A jurisprudência desta Corte Superior está no sentido de que a interpretação da lei tributária deve ser apreciada de modo literal nos casos de isenção ou exclusão de obrigação tributária (art. 111 do CTN). Destarte, na falta de indicação de norma que estabeleça hipótese de isenção, deve-se reconhecer que nenhum dos artigos de lei tidos por violados pela parte recorrente serve à sua pretensão, pois não têm comando normativo apto a sustentar a tese recursal. Assim, ocorrente a deficiência da fundamentação, tal circunstância atrai, por analogia, a aplicação do óbice da Súmula 284/STF.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.094.111/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+No que diz respeito ao FGTS, é pacífico o entendimento desta Corte de que, "por não ter natureza de imposto ou de contribuição previdenciária, não tem a sua base de cálculo atrelada à natureza jurídica da verba paga ao trabalhador, sendo devida a sua incidência sobre todas as parcelas que não se enquadrem no art. 15, § 6º, da Lei 8.036/90" (AgInt no AREsp n. 2.171.761/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
