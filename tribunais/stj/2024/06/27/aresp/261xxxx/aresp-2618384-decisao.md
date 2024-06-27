@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu recurso especial interposto contra acórdão assim ementado:
+PROCESSO CIVIL. PREVIDENCIÁRIO. REMESSA OFICIAL TIDAPOR INTERPOSTA. APOSENTADORIA POR TEMPO DECONTRIBUIÇÃO. ATIVIDADE RURAL COMPROVADA SEMEFEITO DE CONTAGEM PARA CARÊNCIA. CESSAÇÃO DOBENEFÍCIO. SUCUMBÊNCIA.
+I - Aplica-se ao caso o Enunciado da Súmula 490 do E. STJ.
+II - A orientação colegiada é pacífica no sentido de que razoável início de prova material não se confunde com prova plena, ou seja, constitui indício que deve ser complementado pela prova testemunhal quanto à totalidade do interregno que se pretende ver reconhecido. Portanto, os documentos apresentados, complementados por prova testemunhal idônea, comprovam o labor rural antes das datas neles assinaladas.
+III - Ante o conjunto probatório, deve ser reconhecido o labor do autor nacondição de rurícola, sem registro em carteira, devendo ser procedida àcontagem de tempo de serviço cumprido no citado interregno,independentemente do recolhimento das respectivas contribuiçõesprevidenciárias, os quais devem ser contados para todos os fins exceto paraefeito de carência, nos termos do art. 55, parágrafo 2º, da Lei 8.213/91.
+IV - Excluído parte do período pleiteado, e somados o período de atividade rural, ora reconhecido, e atividade comum (dados do CNIS), o autor totaliza não apresenta tempo insuficiente para a concessão do benefício de aposentadoria por tempo de contribuição, ainda que considerada a reafirmação da DER.
+V - Não há que se falar em devolução das parcelas recebidas pela parte-autora, a título de benefício, em razão da improcedência do pedido, tendo em vista sua natureza alimentar e a boa-fé do demandante, além de terem sido recebidas por força de determinação judicial.
+VI - Honorários advocatícios fixados em R$1.000,00 (um mil reais),conforme previsto no artigo 85, §§ 4º, III, e 8º, do CPC. A exigibilidade da verba honorária ficará suspensa por 05 (cinco) anos, desde que inalterada a situação de insuficiência de recursos que fundamentou a concessão dos benefícios da assistência judiciária gratuita, nos termos do artigo 98, §3º, do mesmo estatuto processual.
+VII - Remessa oficial tida por interposta e apelação do INSS parcialmente providas.
+Os embargos de declaração opostos pelo recorrente foram rejeitados.
+No recurso especial fundamentado na alínea "a" do permissivo constitucional, a autarquia aponta violação aos artigos 296, 297, parágrafo único, 300, § 3º, 302, I e II e 520, I e II, e 927 do Código de Processo Civil.
+Aduz que no caso das tutelas antecipadas a lei impõe a reversibilidade do provimento antecipado como pré-requisito à sua concessão. Alega, ainda, que o recebimento de boa-fé não é motivo para a não devolução ante o conteúdo expresso do art. 115 da Lei 8.213/91, que prevê a restituição do benefício indevidamente recebido.
+Pugna pela aplicação do Tema Repetitivo 692/STJ.
+Após contrarrazões, o recurso recebeu juízo negativo de admissibilidade fundado na Súmula 126/STF.
+É o relatório. Decido.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+O tema relativo ao cabimento de devolução de valores recebidos a título de tutela antecipada, posteriormente revogada, foi decidido pela Primeira Seção, ao julgar a Pet 12482/DF, da Relatoria do Ministro Og Fernandes, em proposta de revisão do entendimento firmado no Tema Repetitivo 692/STJ. Naquela ocasião se reafirmou o cabimento da restituição de parcelas previdenciárias recebidas em razão de tutela antecipada posteriormente revogada, in verbis:
+A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+A leitura atenta do precedente revela que foi observada a decisão do STF sobre a questão, tendo aquela Corte decidido que a matéria não é constitucional, devendo, portanto, ser deslindada nos limites da legislação infraconstitucional (Tema 799 do Supremo).
+Assim, forçoso concluir que o caso em tela se amolda ao precedente firmado, devendo ser reformada a decisão recorrida para que o Tema 692/STJ seja aplicado. Destarte, os valores pagos ao segurado, a título de tutela antecipada, posteriormente revogada, devem ser repetidos na forma do Tema 692/STJ, no caso da conclusao final pelo recebimento indevido.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. PROCESSO CIVIL. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO POR MEIO DE TUTELA PROVISÓRIA, POSTERIORMENTE REVOGADA. NECESSIDADE DE RESTITUIÇÃO. TEMA 692/STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL .
