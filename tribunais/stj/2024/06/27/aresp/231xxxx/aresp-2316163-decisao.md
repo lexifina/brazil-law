@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  incidência  da  s  Súmulas n. 7 do STJ e 283 do STF  (e-STJ  fls.  181/183).
+O  acórdão  recorrido  encontra-se  assim  ementado  (e-STJ  fl.  85):
+Agravo de instrumento. Ação declaratória de inexistência de dívida cumulada com cancelamento do protesto e indenização por danos morais. Decisão agravada que homologou o pedido de desistência da ação em face da corré emitente das duplicatas. Descabimento. Controvérsia posta em juízo que envolve a existência de causa lícita para a emissão das duplicatas protestadas. Necessidade de a emitente dos títulos integrar a lide. Existência de litisconsórcio passivo necessário unitário. Inteligência dos arts. 114 e 116, ambos do CPC. Reforma.
+Recurso conhecido e provido.
+Nas  razões  do  recurso  especial  (e  STJ  fls.  95/105),  interposto  com  fundamento  no  art.  105,  III,  "a"  e "c",  da  CF,  a  parte  alegou  violação  dos  artigos  114 e 116  do  CPC/2015, além de divergência jurisprudencial.
+  Asseverou,  para  tanto,  que  "a situação da lide descrita e enfrentada pelo acórdão recorrido não se encaixa em caso de litisconsórcio unitário e necessário, mas sim em eventual situação de ação de regresso"  (e-STJ  fl.  99).
+  No  agravo  (e-STJ  fls.  181/183),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Foi  oferecida  contraminuta  (e-STJ  fls.  200/207).
+  É  o  relatório.
+Decido.
+Relativamente à tese de que a situação da lide não se encaixa em caso de litisconsórcio unitário e necessário, o acórdão recorrido asseverou que (e-STJ fl. 88, grifei):
+No caso, como se expôs, a ação movida por Lojas Alvorada Ltda. tem por objeto a declaração de nulidade das duplicatas mercantis emitidas supostamente sem justa causa pela corré Fiori e que foram transmitidas por endosso à segunda requerida, ora agravante. Ou seja, discute-se na demanda a existência de relação jurídica para conferir a validade dos títulos emitidos pela primeira requerida e, caso não haja causa para a emissão das duplicatas, a legalidade dos protestos efetivados.
+Ora, se a autora alega e pretende ver declarada a inexistência de causa lícita (compra e venda mercantil) que pudesse ter dado origem à emissão das duplicatas, somente poderá fazê-lo com a permanência da emitente dos títulos no polo passivo da presente ação.
+Isto é, a controvérsia posta em juízo não pode ser analisada sem que a emitente dos títulos componha o polo passivo da demanda, pois o pedido declaratório de inexistência do débito depende da discussão acerca da existência de relação jurídica entre a autora e a emitente dos títulos, de modo que o caso dos autos se trata de litisconsórcio passivo necessário.
+Assim, como o ponto primordial da ação recai sobre a controvérsia acerca da validade das duplicatas protestadas, a exclusão da emitente prejudica a análise de eventual fraude praticada na emissão dos títulos, não sendo possível admitir que o processo prossiga somente em face da endossatária, que por ter apenas recebido os títulos por endosso não detém meios para provar ou mesmo discutir se os títulos foram emitidos regularmente.
+Além de ser necessário, o litisconsórcio também se mostra unitário no caso dos autos, pois a solução judicial deve julgada de maneira uniforme para a emitente e endossatária.
+Logo, a presença da emitente no polo passivo do processo se faz necessária, justamente porque a premissa fática repousa sobre a existência de causa à emissão das duplicadas, atingindo claramente a esfera de seu direito subjetivo.
+Contudo, no recurso especial, apontando contrariedade aos arts. 114 e 116  do  CPC/2015, a parte sustenta somente que "a situação da lide descrita e enfrentada pelo acórdão recorrido não se encaixa em caso de litisconsórcio unitário e necessário, mas sim em eventual situação de ação de regresso" (e-STJ fl. 99).
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido notadamente de que "a exclusão da emitente prejudica a análise de eventual fraude praticada na emissão dos títulos, não sendo possível admitir que o processo prossiga somente em face da endossatária, que por ter apenas recebido os títulos por endosso não detém meios para provar ou mesmo discutir se os títulos foram emitidos regularmente". Incide, portanto, a Súmula n. 283 do STF.
+Por fim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Deixo de majorar os honorários advocatícios em razão da ausência de fixação na origem.
+Publique-se  e  intimem-se.
+ EMENTA
