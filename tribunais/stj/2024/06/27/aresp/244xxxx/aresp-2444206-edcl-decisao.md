@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DÁRIO XAVIER INSAURRIAGA contra decisão monocrática de minha relatoria que conheceu em parte do agravo para negar provimento ao recurso especial nos termos da seguinte ementa (fl. 969):
+PROCESSUAL CIVIL. DECISÃO HÍBRIDA. REITERAÇÃO DE TEMA A QUE FOI NEGADO SEGUIMENTO. INVIABILIDADE DE ANÁLISE. COMPETÊNCIA DO TRIBUNAL DE ORIGEM. MATÉRIA RESIDUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. AGRAVO CONHECIDO EM PARTE. RECURSO ESPECIAL IMPROVIDO.
+Nas razões dos aclaratórios, a embargante aduz a existência de erro material quanto ao conhecimento parcial de seu agravo, visto que a questão de mérito foi obstada em razão de aplicação das Súmulas n. 5/STJ, 7/STJ e 126/STJ, o que torna seu manejo adequado.
+Pugna, por fim, pelo provimento dos aclaratórios.
+A parte embargada apresentou contraminutas (fls. 985-989).
+É, no essencial, o relatório.
+Nada a acolher.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso dos autos, a decisão embargada foi clara ao consignar que a decisão de inadmissibilidade da origem era híbrida, porquanto expressamente consignou quanto à inviabilidade de seguimento do especial em razão de paradigma qualificado, de modo que apenas a questão residual relativa à alegada afronta aos arts. 489 e 1.022 do CPC poderia ser analisada no STJ. Vejamos (fls. 318-324):
+Nas razões do recurso especial, o recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que "a questão em debate é DISTINTA daquela julgada em recurso repetitivo pelo C. STJ sob o Tema nº 941", visto que a pretensão se volta no reconhecimento de reajuste a menor do benefício, porquanto não incluído o patamar de 39,69% referente ao IRSM de fevereiro de 1994. Acena com dissídio jurisprudencial.
+Oferecidas contrarrazões (fls. 827-839), sobreveio decisão que inadmitiu o apelo nobre, quanto à alegação de ofensa aos arts. 489 e 1.022 do CPC, e que negou seguimento às demais questões, em razão da aplicação dos Tema n. 941/STJ.
+Apresentada contraminuta do agravo (fls. 870).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, cabe destacar que, em razão da decisão híbrida que tanto inadmitiu como negou seguimento ao recurso especial, cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem eventual análise de (in)conformidade do acórdão recorrido com eventual entendimento firmado no paradigma em recurso repetitivo, por meio de agravo interno dirigido àquele tribunal.
+Nesse sentido, cito:
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.(AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+Assim, não comporta conhecimento a parte do agravo que insiste na incorreta aplicação do Tema n. 941/STJ.
+A título exemplificativo, transcrevo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. ACÓRDÃO FUNDAMENTADO. MERO INCONFORMISMO. MATÉRIA DE FUNDO DO APELO NOBRE. SEGUIMENTO NEGADO COM BASE EM TEMA REPETITIVO DESTA CORTE SUPERIOR. DISCUSSÃO CABÍVEL SOMENTE EM SEDE DE AGRAVO INTERNO, DIRIGIDO AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO DESPROVIDO.
+1. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo dos recorrentes com o resultado do julgado proferido no acórdão recorrido, que lhes foi desfavorável.
+2. Descabe falar em apreciação da matéria de fundo do apelo nobre quanto à suposta impossibilidade de prosseguimento da ação executiva quando já habilitado o crédito no processo falimentar. Isso porque, nesse ponto, o recurso especial teve seguimento negado com base no Tema Repetitivo n. 1.092 e, como se sabe, no tocante à parte da decisão que negou seguimento ao recurso especial com fundamento no art. 1.030, inciso I, alínea b, do Código de Processo Civil, o único recurso cabível é o agravo interno, dirigido ao próprio Tribunal de origem, conforme previsão expressa do art. 1.030, § 2º, daquele mesmo diploma normativo - que, aliás, foi interposto e desprovido. Inviável, portanto, a discussão desse capítulo recursal na presente via.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.393.843/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 21/5/2024.)
+ .. .
+O fato de a decisão de admissibilidade ter adicionado à questão de mérito comentários relativos às Súmulas n. 5/STJ, 7/STJ e 126/STJ não afasta a realidade de que o recurso especial suscitou apenas duas questões, qual seja, a negativa de prestação jurisdicional (fls. 772-797) e a tese de inaplicabilidade do Tema n. 941/STJ (fls. 797-826), no que adveio decisão híbrida que expressamente consignou que a questão de mérito relativa à inclusão do IRSM de 39,67% para revisão do valor do benefício de previdência complementar se incluía no referido entendimento qualificado, de modo que sua impugnação, inclusive quanto aos referidos óbices, deveria ter sido suscitada perante a Corte a quo por meio de agravo interno, ônus do qual o embargante não se incumbiu.
+Ness e sentido, reitera-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+2. O agravo interno de que trata o art. 1.030, § 2º, do CPC/2015 é a sede própria para a demonstração de eventual falha na aplicação da tese firmada no paradigma repetitivo em face de realidade do processo.
+3. Situação em que o fundamento condutor adotado na decisão a quo para obstar o recurso especial da agravante é o de que o acórdão recorrido está em sintonia com o precedente obrigatório em que julgado o Tema 271 do STJ.
+4. A menção na decisão a quo da existência de outro óbice de admissibilidade do recurso especial relacionado com o mesmo tema tratado no aresto vinculante aplicado não guarda autonomia que justifique o cabimento do agravo dirigido a esta Corte Superior.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.521.578/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/6/2024.)
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito :
+2. Não podem ser acolhidos os embargos de declaração que, a pretexto de alegados vícios na decisão embargada, expressam o mero inconformismo da parte com o desfecho do julgado, buscando tão somente provocar a rediscussão da controvérsia. (EDcl no AgInt no AREsp n. 2.042.639/GO, relator Ministro Humberto Martins, Segunda Turma, DJe de 12/12/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ERRO MATERIAL INEXISTENTE. JUÍZO DE INADMISSIBILIDADE HÍBRIDO. AGRAVO NOS PRÓPRIOS AUTOS CONTRA TEMA QUALIFICADO. DESCABIMENTO. MENÇÃO A OUTROS ÓBICES. IRRELEVÂNCIA. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
