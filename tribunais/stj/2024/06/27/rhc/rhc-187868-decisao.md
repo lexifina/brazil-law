@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+"HABEAS CORPUS - ESTELIONATO - TRANCAMENTO DA AÇÃO PENAL - IMPOSSIBILIDADE - AUSÊNCIA DAS HIPÓTESES AUTORIZADORAS - EXTINÇÃO DA PUNIBILIDADE - SUPRESSÃO DE INSTÂNCIA - ORDEM DENEGADA. -O trancamento da ação penal ou do inquérito policial somente é admissível em casos excepcionalíssimos, se constatada, de plano, a absoluta ausência de justa causa para o seu prosseguimento, seja por atipicidade da conduta, seja por ausência de indícios de autoria e de prova da materialidade, seja, ainda, face à incidência de causa extintiva da punibilidade o que, pelo visto, não é o caso dos autos. -Inexistindo notícias de que o pedido de extinção da punibilidade da paciente tenha sido feito junto ao Juízo de origem, avançar em tal questão constituiria indevida supressão de instância."
+A recorrente foi denunciada por suposta infração ao art. 171, caput, do Código Penal.
+A Corte de origem indeferiu a ordem de habeas corpus (e-STJ fls. 146-149).
+A defesa alega: a) extinção da punibilidade em razão da decadência quanto às vítimas não idosas; b) não houve representação no prazo legal de 6 meses; e c) "há supostamente 7 vítimas de estelionato, logo é necessária a descrição de - ao menos - 7 condutas ilícitas da recorrente contendo todas as circunstâncias. Assim, a denúncia dos fatos ilícitos deverá ser pormenorizada" (e-STJ fl. 161).
+Requer, liminar e definitivamente, provimento do recurso para extinguir a punibilidade quanto às supostas vítimas Michael Pecha, Magda dos Reis Pecha, José Henrique de Oliveira e Maria de Fátima Ferreira Caetano, reconhecer a inépcia da denúncia, arquivar o processo 0002161-37.2021.8.13.0348 ou suspendê-lo.
+Liminar indeferida. (e-STJ fl. 185-187)
+Parecer do MPF. (e-STJ fl. 195-196)
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+"Inicialmente, importante destacar que o trancamento da ação penal ou do inquérito policial somente é admissível em casos excepcionalíssimos, se constatada, de plano, a absoluta ausência de justa causa para o seu prosseguimento, seja por atipicidade da conduta, seja por ausência de indícios de autoria e de prova da materialidade, seja, ainda, em razão incidência de causa extintiva da punibilidade o que, pelo visto, não é o caso dos autos. (..)
+Pois bem, in casu verifica-se que a exordial acusatória obedeceu ao disposto no art. 41, do Código de Processo Penal, pois contém a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação da acusada e a classificação do crime, não havendo falar, com isso, em trancamento da ação penal.
+Por fim, não merece prosperar a alegação de extinção da punibilidade da paciente pelo suposto decurso do prazo decadencial, em relação as vítimas que não se enquadram na hipótese do art. 171, §5º, IV, do Código Penal, visto inexistirem notícias de que tal pedido tenha sido feito junto ao Juízo de origem, ao passo que avançar em tal questão constituiria indevida supressão de instância.
+Considerando que o processo já se encontra em fase de alegações finais, entendo que a discussão acerca do decurso do prazo decadencial em relação às vítimas que não se enquadram na hipótese do art. 171, §5º, IV, do Código Penal deve ser reservada à e eventual apelação criminal, as quais dispõem de maior abrangência e permitem uma análise pormenorizada dos fatos."
+Como se pode observar, o Tribunal de origem concluiu que a denúncia atende ao determinado no artigo 41 do CPP, tendo descrito os fatos do delito imputado a recorrente, inclusive com todas as circunstâncias, classificação e qualificação do delito.
+Ainda no que tange a extinção da punibilidade pela decadência, em razão da falta de representação das vítimas não idosas, a defesa não enfrentou o alegado no acórdão guerreado quanto a ausência de notícias de que tal pedido tenha sido feito junto ao juízo de origem, de forma que, avançar nesta questão constituiria indevida supressão de instância, o que inviabiliza a análise por esta Corte.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
