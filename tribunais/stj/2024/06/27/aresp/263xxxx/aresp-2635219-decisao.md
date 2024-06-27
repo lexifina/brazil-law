@@ -1,0 +1,109 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GEAP AUTOGESTÃO EM SAÚDE contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"APELAÇÕES CÍVEIS. INOVAÇÃO RECURSAL. INOCORRÊNCIA. CERCEAMENTO DE DEFESA.
+NÃO CONFIGURADO. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. INAPLICABILIDADE DALEI 8.078/90. SÚMULA 608 DO STJ. AUTORIZAÇÃO DE PROCEDIMENTO OPERATÓRIO.
+IMPLANTE TRANSCATETER DE PRÓTESE VALVAR AÓRTICA (TAVI). NEGATIVA DE COBERTURA.
+RECUSA INDEVIDA. DANO MORAL NÃO CONFIGURADO. APELAÇÕES CONHECIDAS. DADOPARCIAL PROVIMENTO A APELAÇÃO DO REQUERIDO. JULGADO PREJUDICADO A APELAÇÃODA AUTORA.
+1. No recurso, o Tribunal ou órgão ad quem exerce um papel de revisão e não de criação, ou seja, os limites da demanda são fixados pelo pedido e a causa de pedir e segundo a controvérsia estabelecida em primeiro grau.
+Não há que se falar em inovação recursal se o interesse recursal surge somente com a sentença.
+2. Cabe ao juiz indeferir a provas inúteis e protelatórias. O laudo médico fundamentado e circunstanciado elaborado pelo assistente médico do paciente constitui prova suficiente acerca do seu estado de saúde e do tratamento indicado.
+3. Não se aplica o CDC ao contrato de plano de saúde administrado por entidade de autogestão, por inexistir relação de consumo. Súmula 608 do STJ.
+4. Constata-se que a negativa do plano é abusiva, porquanto a cobertura do IMPLANTE TRANSCATETERDE PRÓTESE VALVAR AÓRTICA (TAVI) está prevista no rol da ANS (RN 465/2021, alterada pela RN nº469/2021, de 09/07/2021), e a beneficiária demonstrou o cumprimento dos requisitos para a cobertura do procedimento.
+5. A recusa do plano de saúde em autorizar o procedimento, sob alegação de que a beneficiária não atende às diretrizes de utilização da ANS, não pode caracterizar ato ilícito capaz de ensejar repercussão na esfera do direito extrapatrimonial. A mera discussão sobre a validade e amplitude da cláusula contratual afasta qualquer intenção ou a culpa do fornecedor no sentido de buscar violar direitos da personalidade do contratante.
+6. APELAÇÕES CONHECIDAS. DADO PARCIAL PROVIMENTO A APELAÇÃO DO REQUERIDO.
+JULGADO PREJUDICADO A APELAÇÃO DA AUTORA." (Fl. 528)
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 355 e 1.022 do Código de Processo Civil; 10 e 12 da Lei n. 9.656/98; 4º da Lei 9.961/00; 186, 187, 421, 422 e 927 do Código Civil. Sustenta, em síntese:
+a) a existência de negativa de prestação jurisdicional;
+b) a existência de cerceamento de defesa, considerando o indeferimento das provas requeridas pela parte insurgente;
+c) ser indevida cobertura pelo plano de saúde de procedimento cirúrgico e seus materiais, sem previsão no Rol de Procedimentos e Eventos em Saúde e suas Diretrizes de Utilização editado pela ANS;
+d) não há que se falar em ato ilícito e tampouco em dever de indenizar (danos morais).
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Cinge-se a pretensão recursal à verificação do dever de cobertura, pelo plano de saúde recorrente, de procedimento de "implante transcateter de prótese valvar aórtica (TAVI)", prescrito para o adequado tratamento do beneficiário de plano de saúde, com 86 anos de idade, diagnosticado com insuficiência aórtica acentuada.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2015. Isso, porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Nos termos da jurisprudência pacífica desta Corte, não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese defendida pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE INDIVIDUAL. REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA. TEMA REPETITIVO N. 952 DO STJ (RESP 1.568.244/RJ). LEGALIDADE. VALORES DESPROPORCIONAIS. DISCRIMINAÇÃO CONTRA IDOSO. IMPOSSIBILIDADE. PERÍCIA EM CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE. DISTINGUINSHING. PROVA TÉCNICA OBSTADA PELA OPERADORA DO PLANO DE SAÚDE. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.991.755/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022)
+No que tange ao cerceamento de defesa, o Tribunal de origem manifestou-se nos seguintes termos:
+"A apelante alegou cerceamento de defesa por não ter sido oportunizada a produção de provas requerida em especificação de provas. E que o relatório do médico assistente não é prova absoluta e seria omisso em trazer informações a respeito das consequências do tratamento. Assim requereu a dilação probatória para que seja expedido ofício à ANS e NatJus e realização de perícia médica.
+Da análise dos autos, observa-se que as provas documentais juntadas pelas partes eram suficientes para o convencimento do juiz que, de forma fundamentada, entendeu não haver necessidade da produção de outras provas." (fl. 532)
+Desta feita, o acórdão recorrido encontra-se em consonância com o entendimento desta Corte, a qual se manifesta no sentido de que a necessidade de produção de determinadas provas encontra-se submetida aos princípios da livre apreciação da prova e do livre convencimento motivado, em face das circunstâncias de cada caso concreto, competindo ao magistrado zelar pela necessidade e utilidade da produção das provas requeridas. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO. INDEFERIMENTO DE PRODUÇÃO DE PROVA ORAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR
+PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo
+em recurso especial, em razão da falta de impugnação específica de
+fundamento decisório. Reconsideração.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos
+a existência de provas suficientes para o seu convencimento, indefere
+pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os
+elementos necessários à formação de seu entendimento, pois, como
+destinatário da prova, é livre para determinar as provas necessárias ou
+indeferir as inúteis ou protelatórias.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao
+recurso especial."
+(AgInt no AREsp 1885002/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/09/2021, DJe 15/10/2021, g.n.)
+No presente caso, conforme consta dos autos, houve prescrição médica do referido tratamento diante do alto risco de morte súbita, como mencionado no acórdão:
+"No caso dos autos, a autora é beneficiária do plano de saúde e, em decorrência de patologia grave, foi solicitado pelo médico assistente a realização do procedimento IMPLANTETRANSCATETER DE PROTESE VALVAR AÓRTICA - TAVI.
+Transcrevo, por oportuno, o relatório médico, in litteris (ID 45747188): "Paciente de 86 anos, hipertensa, evoluindo há dois anos com dispnéia aos esforços.
+Há seis meses apresentando dispnéia aos pequenos esforços, episódios eventuais dedispnéia em repouso e ortopneia (ICC CF IV da NYHA), apesar do uso de dois diuréticos e medicação otimizada.
+Em uso de furosemida, aldactone, carvedilol, losartana e omeprazol.
+Exames laboratoriais demonstram Hb 9.8, Ht 27.9, leucócitos 4900, plaquetas205000, ureia 68, creatinina 1.38.
+ECG com ritmo de fibrilação atrial e HBASE.
+Possui ecocardiograma que demonstra valva aórtica espessada, com refluxo de grau importante, com vena contracta de 7 mm, PHT 129 ms (importante se < 200 ms), com largura do jato ocupando >65% da vida de saída do ventrículo esquerdo, importante dilação do VE com função sistólica ainda preservada, hipertrofia excêntrica de grau importante, insuficiência mitral discreta, VE 56/36, S/PP 9/9 e FE 63%.
+Submetida a Angiotomografia da aorta torácica, abdominal, ilíacas e femorais que demonstrou a factibilidade técnica do procedimento percutâneo por via femoral.
+Concluindo, trata-se de paciente com insuficiência aórtica acentuada, com indiciação classe I para intervenção valvar pelas diretrizes da SBC/SBCCV. Paciente avaliada pela nossa equipe de cirurgia cardíaca, lúcida, comunicativa, independência para as atividades diárias prejudicada pela valvopatia. Ao exame físico apresenta FRAGILIDADE IMPORTANTE, evidente risco aumentado para cirurgia cardíaca convencional. Entendemos se tratar de paciente com indicação de tratamento davalvopatia por via percutânea.
+O procedimento será realizado com presença de equipe de cirurgia cardíaca  equipe da Hemodinâmica certificada em TAVI para segurança do paciente. CID: 135.1"
+No caso em análise, verifica-se que as partes não controvertem acerca da previsão norol da ANS do procedimento de "Implante Transcateter de Prótese Valvar Aórtica (TAVI)", mas quanto ao preenchimento dos requisitos pela paciente. (..) A ré recusou a autorização ao implante sob a justificativa de que a paciente foi avaliada somente por dois profissionais "os médicos Murilo Teixeira Macedo - CRM/DF 22064, sem especialidade cadastrada e Luciano de Moura Santos - CRM/DF 10738, com registros na área de Cardiologia" (ID 45747208 - Pág. 9). Alegou que seria necessária avaliação por grupo de profissionais com habilitação e experiência na realização do TAVI.
+É pacífico o entendimento de que não cabe a operadora do plano de saúde intervir ou escolher o melhor tratamento do paciente (AgInt no AgInt no AREsp 2030294 / MS, AgInt no AREsp987.203/RJ, AgRg no AREsp 453.461/MS e REsp 668.216/SP) (..)
+Por conseguinte, não pode a operadora do plano de saúde negar a cobertura do tratamento recomendado por médico especialista responsável pela condução da terapêutica adequada ao caso clínico da paciente, quando os métodos científicos são reconhecidamente validados no meio científico e permitidos pela legislação vigente.
+Conforme consta no certificado juntado em réplica, o médico Murilo Teixeira Macedo- CRM/DF 22064 possui especialização em Cirurgia Cardiovascular (ID 45747883). A autora fazia acompanhamento médico rotineiro com médicos especialistas em sua patologia, os quais recomendaram a realização do procedimento cirúrgico, não sendo razoável indeferir o pedido sob o argumento de que haveria a necessidade de avaliação por grupo de profissionais com habilitação e experiência na realização do TAVI.
+Dessa forma, constata-se que a negativa do plano foi abusiva, porquanto a realização da TAVI estava prevista no rol da ANS e a beneficiária preenchia os requisitos necessários para obter a cobertura, tendo em vista que possui 87 anos, está acometida de doença grave com alto risco cirúrgico e o tratamento foi recomendado por médicos especialistas em cardiologia." (fls. 535/537)
+Irresignada, a operadora do plano de saúde interpôs recurso especial, sob o fundamento de que não está obrigada a custear o procedimento TAVI, porque não consta no rol da ANS e no contrato.
+Conforme apontado na decisão agravada, não se desconhece o entendimento firmado pela eg. Quarta Turma, por ocasião do julgamento do REsp 1.733.013/PR (Relator Ministro Luis Felipe Salomão, DJe de 20/02/2020), acerca da limitação da responsabilidade das operadoras do plano de saúde em face do rol de procedimentos mínimos e obrigatórios da ANS. Todavia, o voto condutor do mencionado julgamento ressalva a possibilidade de, em situações excepcionais, reconhecidas em decisão fundamentada, ser possível que o Juízo determine o fornecimento de cobertura considerada imprescindível.
+Nesse mesmo sentido, posteriormente, a Segunda Seção do STJ, por ocasião do julgamento dos EREsps 1.886.929/SP e 1.889.704/SP (Relator Ministro Luis Felipe Salomão, DJe de 3/8/2022), reafirmou o entendimento acima delineado, fixando as seguintes premissas que devem orientar a análise da controvérsia acerca da cobertura de tratamentos médicos pelos planos de saúde:
+1) o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2) a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3) é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4) não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que:
+(i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Logo em seguida foi editada a Lei n. 14.454, de 21 de setembro de 2022, que dispôs sobre a alteração da Lei 9.656/98, para prever a possibilidade de cobertura de tratamentos não contemplados pelo rol de procedimentos e eventos em saúde da ANS, disciplinando que o referido rol constitui apenas referência básica para os planos de saúde, e que a cobertura de tratamentos que não estejam previstos no rol deverá ser autorizada pela operadora de planos de assistência à saúde quando cumprir pelo menos uma das condicionantes previstas na lei. Confira-se, a propósito, a nova redação da Lei 9.656/98, in verbis:
+"Art. 10. É instituído o plano-referência de assistência à saúde, com cobertura assistencial médico-ambulatorial e hospitalar, compreendendo partos e tratamentos, realizados exclusivamente no Brasil, com padrão de enfermaria, centro de terapia intensiva, ou similar, quando necessária a internação hospitalar, das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde, respeitadas as exigências mínimas estabelecidas no art. 12 desta Lei, exceto: (..)
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde.
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais."
+Nesse cenário, conclui-se que tanto a jurisprudência do STJ quanto a nova redação da Lei dos Planos de Saúde admitem a cobertura, de forma excepcional, de procedimentos ou medicamentos não previstos no rol da ANS, desde que amparada em critérios técnicos, devendo a necessidade ser analisada caso a caso.
+Verifica-se, portanto, que, conforme o contexto fático delineado pelo acórdão recorrido, era mesmo de rigor a cobertura do procedimento, seja porque demonstrada a urgência do tratamento e sua necessidade para a manutenção da vida da beneficiária, seja porque preenchidos os requisitos exigidos pela jurisprudência do STJ e pela legislação em vigor para a cobertura do tratamento.
+Ademais, em consulta ao anexo I da RN-ANS 465/2021 (disponível em: https://www.ans.gov.br/images/stories/Legislacao/rn/rn465/Anexo_I_Rol_de_Procedimentos_RN_465.2021.pdf ), que institui o Rol de Procedimentos e Eventos em Saúde, verifica-se que o implante de válvula aórtica transcateter via percutânea (TAVI) - foi incorporado ao rol da ANS.
+Dessa forma, incide, in casu, o óbice processual sedimentado na Súmula 83 do Superior Tribunal de Justiça.
+Também não assiste razão à agravante no que tange aos danos morais. A Corte Estadual consignou expressamente que a negativa de cobertura do procedimento de urgência ocasionou constrangimento e situação vexatória, nos seguintes termos:
+"A recusa do plano de saúde em autorizar o procedimento, sob alegação de que a beneficiária não atende às diretrizes de utilização da ANS, não pode caracterizar ato ilícito capaz de ensejar repercussão na esfera do direito extrapatrimonial.
+A mera discussão sobre a validade e amplitude da cláusula contratual afasta qualquer intenção ou a culpa do fornecedor no sentido de buscar violar direitos da personalidade do contratante.
+A divergência interpretativa dos parâmetros contratuais, se travada dentro do parâmetro da razoabilidade, não pode ensejar na punição de quaisquer das partes, até porque é próprio da álea que cerca a execução das relações jurídicas. Entender de modo diverso, resultaria na impossibilidade do plano de saúde jamais poder negar ou recusar qualquer pedido do segurado. (..) Desse modo, não se poderia penalizar o plano de saúde com a reparação de danos imateriais apenas porque perseguiu a execução do contrato pelo modo que entendia correto." (fl. 539).
+Sobre a questão, esta Corte entende que, em que pese o mero descumprimento contratual não enseje indenização por dano moral, a recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, como ocorreu no presente caso, configura danos morais indenizáveis.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL . CONTRATO. PLANO DE SAÚDE. LIMITAÇÃO DO TEMPO DE TRATAMENTO PELA SEGURADORA. INVIABILIDADE. AGRAVAMENTO DO ESTADO DE SAÚDE DO SEGURADO. DANO MORAL CARACTERIZADO. SÚMULA 83/STJ. NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, "O contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura" (AgInt no AREsp n. 622.630/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 18/12/2017). Incidência da Súmula 83/STJ.
+2. A recusa indevida de cobertura, pela operadora de plano de saúde, nos casos de urgência ou emergência, enseja reparação a título de dano moral, em razão do agravamento ou aflição psicológica ao beneficiário, ante a situação vulnerável em que se encontra. Incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.025.038/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/9/2023, DJe de 8/9/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Consoante a jurisprudência desta Corte há caracterização do dano moral, quando a operadora do plano de saúde recusa indevidamente a cobertura do tratamento médico emergencial ou de urgência, não havendo que se falar, na hipótese, em mero inadimplemento contratual. Incidência, no ponto, da Súmula nº 83 do STJ.
+2. Rever a conclusão a que chegou o Tribunal de origem, acerca da configuração de dano moral indenizável, bem como os parâmetros utilizados para arbitrar o quantum indenizatório - que não se mostra irrisório ou excessivo - encontra óbice na Súmula 7/STJ
+3. Agravo interno des provido."
+(AgInt no AREsp n. 2.328.213/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/6/2023, DJe de 30/6/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA TRATAMENTO DE URGÊNCIA OU EMERGÊNCIA DE DOENÇA GRAVE. PERÍODO DE CARÊNCIA. CLÁUSULA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis.
+2. Agravo interno a que se nega provimento. "
+(AgInt no REsp n. 1.838.679/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/3/2020, DJe de 25/3/2020).
+Nesse contexto, estando o acórdão recorrido em consonância com a jurisprudência desta Corte no que tange à cobertura do procedimento e do cabimento de danos morais, não há como afastar o óbice da Súmula 83/STJ.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
