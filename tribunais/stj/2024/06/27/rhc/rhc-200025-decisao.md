@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por DOUGLAS NUNES DE ABREU em face de acórdão assim ementado:
+HABEAS CORPUS. CRIMES DE "LAVAGEM" OU OCULTAÇÃO DE BENS, DIREITOS OU VALORES. SUPERVENIENTE CONCESSÃO DE SOLTURA MEDIANTE CONDIÇÕES NA ORIGEM. PEDIDO DE AFASTAMENTO DAS MEDIDAS ALTERNATIVAS. INDEFERIDO. ORDEM DENEGADA.
+Não há constrangimento ilegal em superveniente decisão que concedeu a liberdade provisória do agente mediante condições, tendo em vista que a provocação do Ministério Público se deu a partir do requerimento da prisão preventiva. A concessão parcial do pedido poderia ter sido dada, inclusive, por esta Corte, no exame do presente writ, caso acolhido o pedido subsidiário feito na petição inicial. Decisão da origem que concedeu a liberdade provisória mediante monitoramento mantida. ORDEM DENEGADA.
+Consta dos autos que a prisão em flagrante do recorrente restou convertida em preventiva em razão do suposto cometimento do crime capitulado no art. 1º da Lei n. 9.613/1998 - lavagem de dinheiro. Posteriormente, o Juízo de primeira instância concedeu a substituição da prisão preventiva por prisão domiciliar, com monitoramento eletrônico.
+A defesa alega, em síntese, que a prisão preventiva do recorrente, convertida de flagrante, é ilegal, porquanto decretada de ofício pelo juiz, contrariando os artigos 311 e 282, § 4º, do Código de Processo Penal, que exigem solicitação das partes para tal medida.
+Ao final, requer o provimento do recurso para que seja relaxada a prisão preventiva do recorrente, revogando, em consequência, a prisão domiciliar posteriormente concedida.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fls. 240/241):
+Não se verifica o constrangimento ilegal referido aos memoriais.
+O paciente teve a prisão preventiva decretada, com o devido fundamento, pelos indícios de materialidade e autoria na prática do crime de lavagem de dinheiro, após requerimentodo Ministério Público.
+No curso da presente ação, o acusado teve a liberdade concedida mediante condições, fixadas pelo juízo singular, que não importaram em prejuízo para o réu. A provocação do órgão ministerial se deu a partir do requerimento de prisão preventiva, e a concessão parcial do pedido poderia ter sido dada, inclusive, por esta Corte no exame do presente writ, coma substituição da prisão cautelar por medidas alternativas, como, inclusive, havia postulado a defesana petição inicial.
+Assim, por ausência de irregularidade, deve ser mantida a decisão do juízo de origem,que concedeu a liberdade provisória mediante monitoramento. (grifos acrescentados).
+Como se pode observar, o Tribunal de origem  instância adequada para examinar o acervo fático-probatório dos autos  constatou que a prisão preventiva do recorrente foi decretada com fundamento nos indícios de materialidade e autoria na prática do crime de lavagem de dinheiro, após requerimento do Ministério Público, não havendo, portanto, irregularidades na custódia preventiva. Posteriormente, o acusado teve a liberdade provisória concedida com condições fixadas pelo juízo singular, decisão que entendeu ser correta, considerando a inexistência de qualquer mácula.
+Assim, para superar as conclusões alcançadas na origem - no sentido da existência de requerimento do Ministério Público pela prisão preventiva - e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Ademais, impende consignar que, da própria leitura do parecer ministerial, ofertado na instância de origem (e-STJ fls. 211/216), obeserva-se que o Parquet entendeu não ter havido qualquer ilegalidade na prisão preventiva do recorrente, de modo que não há ilegalidade a ser sanada na via eleita.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
