@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de VOLNEI MARTINS DA ROCHA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 121, § 2º, I e IV, e art.121, 2º, I e IV, c/c o art. 14, II, todos do Código Penal, à pena de 23 anos e 4 meses de reclusão, em regime inicial fechado.
+Foi negado provimento ao recurso de apelação interposto pela defesa.
+Na sequência, foram rejeitados os embargos de declaração opostos.
+Daí a presente impetração, na qual a defesa alega que a condenação do paciente pela prática do crime de tentativa de homicídio apoia-se exclusivamente em elemento colhido no inquérito policial. Por conseguinte, destaca a defesa que estaria "demonstrada a violação de dispositivo de lei, mais precisamente ao preconizado no destaque do art. 155 do CPP, abaixo copiado, não  ..  estando  cumprido, assim, o requisito objetivo fundamentado no próprio acórdão" (e-STJ fl. 155).
+Requer, ao final, seja anulado o julgamento realizado pelo Tribunal do Júri.
+É, em síntese, o relatório. Decido.
+A Corte de origem, ao negar provimento ao recurso de apelação da defesa, considerou que a decisão dos jurados não seria manifestamente contrária à prova dos autos, valendo-se dos seguintes fundamentos (e-STJ fl. 17):
+Como se vê, emerge mais de uma versão nos autos: uma arguida pela acusação, de que o acusado, inconformado com o relacionamento que sua ex-companheira Laudineia vinha mantendo com José Eduardo, avistou-os em via pública e passou a acelerar seu veículo em direção ao casal, vindo a atropelá-los, em seguida, passou a desferir diversos golpes de faca contra José Eduardo, já caído em razão do atropelamento, versão que, como visto, encontra pleno respaldo na prova testemunhal; e outra, a tese da defesa, articulada pelo acusado, que repousa especialmente em sua fala, no sentido de que agiu em legítima defesa.
+Nesse contexto, no raso juízo permitido a esta Corte de Justiça, não se vislumbra dissonância entre a prova colacionada ao processo e o veredicto emanado pelo Conselho de Sentença, que, ao contrário do sustentado pela defesa, apenas elegeu a versão para o fato que entendeu mais plausível, afastando a tese de ausência do animus necandi.
+Por outro lado, o que pretende a defesa é a desconstituição do veredicto do Tribunal do Júri, aduzindo, para tanto, a ausência de prova judicial válida que seja apta a amparar a decisão dos jurados.
+Não obstante, não custa enfatizar que "as decisões proferidas no âmbito do Tribunal do Júri gozam de soberania, garantia de status constitucional, conforme o art. 5º, inciso XXXVIII, alínea "c", da Carta de 1988. Dessa maneira, somente ao Conselho de Sentença compete decidir sobre os fatos relativos a ações penais que envolvem a prática de crimes dolosos contra a vida" (AgRg no HC n. 853.622/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024).
+No caso, como visto, a Corte de origem concluiu ser inviável a cassação do veredicto do Tribunal do Júri, haja vista existirem duas versões para o crime, não havendo que se falar em decisão manifestamente contrária à prova dos autos, única hipótese em que se admite, excepcionalmente, afastar-se a soberania do Tribunal do Júri.
+Ademais, o acolhimento da pretensão defensiva reclamaria ampla incursão no material fático-probatório, inclusive de elementos que nem foram produzidos nos autos, o que, a toda evidência, escapa dos limites da presente medida.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
