@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIANO DA SILVA BERMANN contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 83/STJ.
+Consta dos autos que LUCIANO DA SILVA BERMANN foi condenado à pena de 6 meses de detenção, em regime aberto, além de 10 dias-multa e mais suspensão da habilitação para dirigir o veículo automotor pelo prazo de 2 meses, por infração ao artigo 306, § 1º, inciso II, do Código de Trânsito Brasileiro.
+Inconformado, foi interposto recurso especial, com fulcro na alínea a do permissivo constitucional, o qual não foi admitido na origem.
+Nas razões do especial, aponta o recorrente violação do art. 44, § 2º, do Código Penal, sustentando que, "sendo a pena de multa mais favorável ao Recorrente (já que não pode ser convertida em prisão) do que a pena restritiva de direitos, o juiz somente poderá optar pela pena menos favorável  substituição por restritiva de direitos, e não por somente multa  mediante fundamentação válida", o que não ocorreu na hipótese dos autos.
+Requer o provimento do agravo para que seja admitido o recurso especial para, ao final, ser a pena privativa de liberdade substituída tão somente por multa, na forma do art. 44, § 2º, do Código Penal.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do agravo e, se conhecido, pelo desprovimento do recurso especial.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passo, portanto, à análise do mérito.
+Ao julgar a apelação, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA entendeu ser incabível a substituição da pena corporal tão somente pela pena de multa, tendo o acórdão sido assim fundamentado (fls. 174-175):
+De forma alternativa, a defesa pede a substituição da reprimenda pela pena de multa, argumentando que a sanção seria mais favorável ao réu.
+O pedido não merece prosperar.
+O Código Penal assim dispõem: "§ 2º Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos;  .. ".
+Assim, considerando que o recorrente foi condenado ao cumprimento da pena privativa de liberdade de 6 (seis) meses de detenção, o magistrado a quo substituiu a pena privativa de liberdade por uma pena restritiva de direito, consistente no pagamento de prestação pecuniária.
+Além disso, a pena de multa é cumulativa a pena privativa de liberdade e a suspensão do direito de dirigir, trata-se de preceito secundário da infração disposta no artigo 306 do Código de Trânsito, que prevê a pena de "seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor".
+Diante disso, tendo em vista que a pena privativa de liberdade inferior a um ano poderá ser substituída por uma restritiva de direito, correta e bem proferida a sentença que substituiu a reprimenda pela prestação pecuniária, remanescendo a pena de multa e a suspensão do direito de dirigir.
+Nesse cenário, a manutenção incólume do decreto condenatório é medida imperativa.
+Como se vê, o agravante foi condenado pelo delito previsto no art. 306, § 1º, II, da Lei n. 9.503/97, o qual já prevê, no preceito secundário, a aplicação da pena privativa de liberdade cumulada com multa.
+Tratando-se, portanto, de hipótese em que o preceito secundário da norma também traz discriminada a cominação de pena de multa, não se afigura adequada uma dupla fixação da sanção de multa, entendimento que foi, inclusive, traduzido no enunciado 171 desta Corte Superior: "Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa". Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 306 DA LEI N. 9.503/1997. EMBRIAGUEZ NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ALEGAÇÃO DE AUSÊNCIA DE ELEMENTOS DE AUTORIA E MATERIALIDADE. NECESSÁRIA INCURSÃO PROBATÓRIA. REAVALIAÇÃO DE ELEMENTOS DE AUTORIA E MATERIALIDADE. VIA ELEITA INADEQUADA. REMÉDIO DE RITO CÉLERE E DE COGNIÇÃO SUMÁRIA. IMPOSSIBILIDADE DE O SUPERIOR TRIBUNAL DE JUSTIÇA IMISCUIR-SE NO EXAME FÁTICO-PROBATÓRIO, SOB PENA DE VIOLAÇÃO DA PARTIÇÃO CONSTITUCIONAL DE COMPETÊNCIAS JUDICIAIS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE APENAS POR PENA DE MULTA. IMPOSSIBILIDADE. SÚMULA N. 171/STJ. AGRAVO DESPROVIDO.
+ ..
+3. O art. 306 do Código de Trânsito Brasileiro comina, cumulativamente, penas de multa e detenção. Aplica-se ao caso, portanto, a orientação sedimentada na Súmula n. 171 desta Corte Superior, segundo a qual, " c ominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa".
+4. Ademais, " s e ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva" (STJ, AgRg no HC 415.618/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/05/2018, DJe 04/06/2018).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 610.636/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/2/2022, DJe de 25/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TESE DE VIOLAÇÃO DO ART. 7.º, INCISO IV, DA CONSTITUIÇÃO FEDERAL. INOVAÇÃO RECURSAL. FURTO PRIVILEGIADO. FRAÇÃO. VALOR DA RES FURTIVA QUE PODE JUSTIFICAR REDUÇÃO INFERIOR AO QUANTUM MÁXIMO. PRECEDENTES. PENA SUPERIOR A UM ANO. ART. 44, § 2.º, DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA RECLUSIVA POR DUAS RESTRITIVAS DE DIREITOS OU POR UMA PENA DESSA NATUREZA MAIS UMA DE MULTA. AUSÊNCIA DE DIREITO SUBJETIVO DO RÉU QUANTO À ESCOLHA. PRECEDENTES. CRIME APENADO COM RECLUSÃO E MULTA. INVIABILIDADE DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MULTA. SÚMULA N. 171 DESTA CORTE. MANTIDA A DENEGAÇÃO DA ORDEM DE HABEAS CORPUS. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. A tese relativa à suposta violação do art. 7.º, inciso IV, da Constituição Federal é incognoscível, uma vez que, não tendo sido ventilada na inicial do writ, sua arguição, no presente agravo, implica indevida inovação recursal.
+2. Consoante jurisprudência desta Corte, o valor da res furtiva é um dos fatores que podem ser avaliados pelo julgador no momento de fixação da fração redutora do furto privilegiado.
+3. A conclusão adotada pelo Tribunal estadual, quanto à aplicação do art. 44 do Código Penal, encontra-se em harmonia com a jurisprudência desta Corte Superior de Justiça, segundo a qual "não se constitui direito subjetivo do réu escolher, no momento da substituição da pena corporal por restritiva de direitos, se prefere a duas penas restritivas de direito ou uma restritiva de direitos e uma multa" (AgRg no HC n. 725.262/SC, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 03/05/2022, DJe 06/05/2022).
+4. No mais, o acórdão impugnado está em consonância com o entendimento consolidado no Verbete Sumular n. 171 do Superior Tribunal de Justiça, no sentido de que " c ominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa".
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no HC n. 713.726/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022.)
+Revelando-se o acórdão recorrido em consonância com a jurisprudência dessa Corte Superior, aplicável ao caso a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer d o recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
