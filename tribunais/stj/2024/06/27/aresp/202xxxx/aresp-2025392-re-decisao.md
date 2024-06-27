@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão de não conhecimento do recurso especial.
+O acórdão recorrido recebeu a seguinte ementa (fl. 553):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE ATESTOU A PRESENÇA DE DOLO E PREJUÍZO AO ERÁRIO. REVISÃO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA7/STJ.
+1. O Tribunal de origem, com fundamento no acervo fático-probatório carreado aos autos, concluiu pela presença de dolo ou prejuízo ao erário. Desconstituir tal premissa implicaria, necessariamente, incursão nos fatos e nas provas dos autos, providência inviável na via especial diante do óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+O recorrente sustenta a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXVI e XL, e 37, §§ 4º e 5º, da Constituição Federal.
+Em suas razões, aduz que o Tema n. 1.199 do STF teria estabelecido que as inovações produzidas pela Lei n. 14.230/2021 seriam aplicáveis às condutas culposas e genericamente dolosas praticadas na vigência do texto anterior e sem condenação transitada em julgado.
+Afirma que, conforme a determinação da referida tese de repercussão geral, haveria a necessidade de aplicação da norma mais benéfica que exigiria a comprovação do dolo específico na prática da conduta ímproba, o que não teria ocorrido no caso dos autos, porquanto ele teria sido condenado por ato de improbidade cometido com dolo genérico.
+Sustenta ainda que a controvérsia recursal não demandaria o reexame provas.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos à Suprema Corte.
+É o relatório.
+De início, quanto ao pedido relacionado à possível aplicação do Tema n. 1.199 do STF, esclareço que, observadas as teses ali fixadas pela Corte Suprema, apenas os casos com condenação por ato de improbidade administrativa culposo estão sujeitos à sua incidência.
+Confiram-se, a propósito, as referidas teses (destaques acrescidos):
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa - é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente;
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei.
+No caso dos autos, afirmada a existência de conduta dolosa pelas instâncias originárias (fls. 402-405), não se configura hipótese de aplicação do Tema em questão, como já confirmado pela Corte Especial no julgamento do AgInt no RE no REsp n. 1.705. 651/SP, realizado em 10/6/2024, DJe de 26/6/2024.
+Vale registrar que referida conclusão permaneceu inalterada nesta instância ante o não conhecimento do recurso especial, restando apreciar o recurso extraordinário à luz da matéria debatida no acórdão e devolvida na petição de recurso.
+Quanto às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Dito de outra forma, quando o Superior Tribunal de Justiça não conheceu de recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que dispõem sobre tais requisitos.
+Isso é o que ficou definido no Tema n. 181 do STF, no qual a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC .
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PEDIDO PRELIMINAR RELACIONADO AO TEMA N. 1.199 DO STF. INAPLICABILIDADE. NÃO CONHECIMENTO DO RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE REQUISITO DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
