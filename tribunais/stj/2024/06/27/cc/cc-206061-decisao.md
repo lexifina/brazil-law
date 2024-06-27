@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo da 3ª Vara do Trabalho de São Paulo - SP (suscitante) e o Juízo de Direito da 1ª Vara do Juizado Especial da Fazenda Pública de São Paulo - SP (suscitado), nos autos de ação trabalhista proposta por Gabriel Marcelino Neto em face da Superintendência de Controle de Endemias - SUCEN e do Estado de São Paulo, objetivando a implantação nos seus vencimentos "de todas as diferenças salariais consistentes na utilização do prêmio incentivo como base de cálculo das parcelas de Férias e 13º salário, e sexta-parte dos vencimentos, observada a prescrição quinquenal" (fl. 9).
+É o relatório. Passo a decidir.
+No caso, o autor, como "servidor da autarquia estadual na função de oficial operacional", objetiva a condenação da ré à implantação nos seus vencimentos "de todas as diferenças salariais consistentes na utilização do prêmio - incentivo como base de cálculo das parcelas de Férias e 13º salário, e sexta-parte dos vencimentos, observada a prescrição quinquenal".
+Assim, cinge-se a controvérsia dos autos em saber a quem compete processar e julgar ação ordinária proposta por servidor temporário, objetivando parcela remuneratória de natureza administrativa (licença-prêmio).
+O Supremo Tribunal Federal, no julgamento do RE n. 1.288.440 (Tema 1.143), fixou a seguinte tese, publicada em 12/07/2023: "A Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa, modulando-se os efeitos da decisão para manter na Justiça do Trabalho, até o trânsito em julgado e correspondente execução, os processos em que houver sido proferida sentença de mérito até a data de publicação da presente ata de julgamento". No caso, não se tem sentença de mérito.
+Dessa forma, aplica-se a tese fixada no Tema 1.143/STF, de caráter vinculante, nos termos do inciso III do art. 927 do CPC de 2015. A propósito:
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. ADI Nº 3.395/DF: INOBSERVÂNCIA.
+1. O entendimento consolidado no STF é de que compete à Justiça comum julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa.
+2. Não obstante se tratar de vínculo regido pela CLT, prevalece a sua natureza jurídico-administrativa, entendimento que restou cristalizado no julgamento do Recurso Extraordinário n. 1.288.440/SP, Tema n. 1.143 do ementário da Repercussão Geral.
+3. Agravo regimental a que se nega provimento. (AgRg na Rcl 54.654, Segunda Turma, Relator Min. André Mendonça, julgamento: 25/03/2024, publicação: 28/05/024).
+No mesmo sentido e com idêntica temática dos autos, destaca-se os seguintes julgados: CC n. 202.996/SP, Ministro Afrânio Vilela, DJe de 07/06/2024; CC n. 166.112/SP, Ministro Benedito Gonçalves, DJe de 06/02/2024.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara do Juizado Especial da Fazenda Pública de São Paulo - SP (suscitado).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO COMUM ESTADUAL E JUÍZO TRABALHISTA. AÇÃO TRABALHISTA. SERVIDOR PÚBLICO TEMPORÁRIO. NATUREZA JURÍDICO-ADMINISTRATIVA DO VÍNCULO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
