@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por CONCREMAZ CONCRETO ENGENHARIA E SANEAMENTO LTDA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+"AGRAVO INTERNO NA APELAÇÃO CÍVEL - AÇÃO DE - OBRIGAÇÃO DE FAZER C/C DANOS MORAIS E MATERIAIS CARÊNCIA DA AÇÃO POR ILEGITIMIDADE PASSIVA E INEXISTÊNCIA DE RESPONSABILIDADE SOLIDÁRIA - REJEITADA - INOCORRÊNCIA DE ILÍCITO - CASO FORTUITO E FORÇA MAIOR - INEXISTÊNCIA DE DANOS MORAIS E MATERIAIS - DATA DE MORA DEVE SER COMPUTADA DA PROPOSTA DEVIDAMENTE ASSINADA - PRORROGAÇÃO DO PRAZO DE ENTREGA - ATRASO - RECURSO CONHECIDO E DESPROVIDO.
+O c. Superior Tribunal de Justiça, em recurso repetitivo (Tema 971), reconheceu que é possível a inversão em desfavor da construtora, da cláusula penal estipulada exclusivamente para o consumidor, nos casos de impontualidade na entrega do imóvel objeto de contrato de promessa de compra e venda. Consoante jurisprudência do STJ.
+Os atrasos em decorrência da obra decorrente de fatos de terceiros, integram o risco do empreendimento.
+O atraso na entrega do imóvel que extrapola até mesmo o prazo de prorrogação e retarda a conquista da casa própria, modificando os planos financeiros e pessoais, gerando angústia e frustração, é prova suficiente do dano moral causado ao contratante - Precedente.
+Valor do dano moral aplicável condiz aos enlaces do caso em concreto.
+O contrato preliminar é aquele que tem por objetivo concretizar um contrato futuro e definitivo. Deve ser considerado válido o pré-contrato de compra e venda ajustado entre as partes, em especial porque foram observados os requisitos previstos na legislação aplicável." (fl. 674)
+Sob a alegação de ofensa ao art. 373, I, do CPC/15, 186, 927, 944 do Código Civil, a recorrente sustenta, em síntese, (a) o atraso na entrega do imóvel não decorreu de culpa da construtora, mas sim do "não cumprimento das obrigações assumidas pela CAB Cuiabá na instalação das obras de saneamento básico" (fl. 691), (b) "o mero descumprimento contratual não enseja a reparação por danos moral" (fl. 695) e (c) a indenização por dano moral foi fixada em valor exorbitante.
+Contrarrazões às fls. 734/775.
+É o relatório.
+Sem o reexame das provas dos autos, é inviável reformar a conclusão do eg. TJMT de que todos os fatos narrados pela parte ré - entre os quais a demora da CAB em promover obras de saneamento básico - eram previsíveis, na espécie.
+Incide, portanto, o óbice da Súmula n. 7/STJ.
+Quanto ao dano moral, na hipótese em que o atraso é excessivo - no caso, foi de aproximadamente dois anos, conforme consignado no acórdão (v. fl. 657) -, deve-se manter a condenação ao pagamento da respectiva indenização. Nesse sentido: "o mero inadimplemento contratual não causa, por si só, abalo moral indenizável, mas o excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial" (AgInt no AgInt no AREsp n. 2.205.837/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.).
+Assim, ante a conformidade do acórdão recorrido com a jurisprudência desta Corte, incide o óbice da Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+Por fim, sobretudo em razão do longo tempo de atraso na entrega do bem, consoante já destacado, não há manifesta desproporção do valor indenizatório fixado em R$ 10.000,00.
+Incide, portanto, o óbice da Súmula n. 7/STJ. Nesse sentido: "a revisão da matéria, tanto em relação a caracterização do dano moral no caso, como em relação ao valor arbitrado para a indenização, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ" (AgInt no AgInt no AREsp n. 2.205.837/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida em 1% sobre o valor da condenação.
+Publique-se.
+EMENTA
