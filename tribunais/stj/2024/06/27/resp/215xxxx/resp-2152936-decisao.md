@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDSON LUIZ DA ROCHA (EDSON), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Paraná, da relatoria do Desembargador MARCO ANTONIO ANTONIASSI, assim ementado:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE EMBARGOS DE TERCEIRO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DO EMBARGANTE. DECISÃO MONOCRÁTICA DO RELATOR QUE NÃO CONHECEU DO RECURSO DE APELAÇÃO POR OFENSA AO PRINCÍPIO DA DIALETICIDADE. RAZÕES RECURSAIS DESCONEXAS E QUE NÃO ATACAM O FUNDAMENTOS DA SENTENÇA. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS TERMOS DA SENTENÇA. INTELIGÊNCIA DOS ARTIGO 932, III, E 1010, II E III, do CPC/15. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 552).
+Nas razões do presente recurso, EDSON alegou a violação ao art. 932, III, do NCPC, ao sustentar que somente não se conhece do recurso caso a parte recorrente não tenha impugnado especificamente os fundamentos da decisão recorrida. Entretanto, o recorrente impugnou de forma específica os fundamentos da decisão então recorrida, tendo atacado de forma clara e direita aos fundamentos da sentença, não havendo que se falar em violação ao princípio da dialeticidade.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Da dialeticidade
+A Turma julgadora do Tribunal estadual, no caso, decidiu que houve ofensa ao princípio da dialeticidade quando o recorrente deixou de se manifestar sobre os fundamentos da sentença.
+Entretanto, da leitura da petição de apelação, é possível verificar que a parte impugna os pontos da decisão que considera necessários de alteração transcrevendo, inclusive, trechos da sentença e fundamentando seu recurso.
+Destaque-se que segundo jurisprudência desta Corte Superior, "a repetição, pelo recorrente, nas razões da apelação, do teor da petição inicial, ou no caso das razões finais, não ofende o princípio da dialeticidade, quando puderem ser extraídos do recurso fundamentos suficientes, notória intenção de reforma da sentença" (AgInt no AREsp n. 2.422.939/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Ainda nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. APELAÇÃO. PRINCÍPIO DA DIALETICIDADE ATENDIDO. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. IMPUGNAÇÃO. NÃO OCORRÊNCIA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A existência de fundamentos do acórdão recorrido não impugnados - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. A mera circunstância de terem sido reiteradas, na petição da apelação, as razões anteriormente apresentadas na inicial da ação ou na contestação, não é suficiente para o não conhecimento do recurso, eis que a repetição dos argumentos não implica, por si só, ofensa ao princípio da dialeticidade. Precedentes.
+5. A aplicação da Súmula 568/STJ é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada, o que não ocorreu na hipótese.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.104.830/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. QUESTÕES DEVIDAMENTE EXAMINADAS PELO TRIBUNAL ESTADUAL. AUSÊNCIA DE OBSERVÂNCIA AO PRINCÍPIO DA DIALETICIDADE RECURSAL PELA RECORRIDA NAS RAZÕES DE APELAÇÃO. INOCORRÊNCIA. RECURSO QUE IMPUGNOU ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA SENTENÇA. QUERELA NULLITATIS INSANABILIS. NULIDADE DE CITAÇÃO. VÍCIO INSANÁVEL. IMPOSSIBILIDADE DE PRECLUSÃO. LEGITIMIDADE ATIVA DO TERCEIRO JURIDICAMENTE INTERESSADO. APLICAÇÃO, POR ANALOGIA, DA REGRA DO ART. 967, INCISO II, DO CPC/2015. RECURSO ESPECIAL DESPROVIDO.
+1. A controvérsia posta nos autos consiste em saber (i) se houve negativa de prestação jurisdicional; (ii) se a ora recorrida não observou o princípio da dialeticidade recursal nas razões de apelação interposta na origem; (iii) se há legitimidade da ora recorrida para ajuizar a ação declaratória de nulidade de sentença, mesmo não tendo participado do respectivo processo; e (iv) se a questão da nulidade da citação já está preclusa.
+2. Todas as questões suscitadas pela recorrente na origem foram expressamente analisadas e refutadas pelo Tribunal Estadual, inexistindo quaisquer dos vícios do art. 1.022 do CPC/2015.
+3. Do cotejo entre os fundamentos da sentença de extinção do feito, sem julgamento de mérito, com as razões de apelação interposta pela ora recorrida, verifica-se a observância do princípio da dialeticidade recursal, pois a fundamentação exarada no respectivo decisum foi expressamente refutada no apelo. Por essas razões, afasta-se a apontada violação aos arts. 1.002, 1.008 e 1.013 do CPC/2015.
+ ..
+11. Recurso especial desprovido.
+(REsp n. 1.902.133/RO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/4/2024, DJe de 18/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE RECURSAL. MERA REPRODUÇÃO DA IMPUGNAÇÃO À CONTESTAÇÃO NA APELAÇÃO. POSSIBILIDADE. RAZÕES RECURSAIS QUE REBATERAM ESPECIFICAMENTE OS FUNDAMENTOS DA SENTENÇA. VÍCIOS NA CONSTRUÇÃO. PRESCRIÇÃO. PRAZO QUINQUENAL. EQUÍVOCO NA CONTAGEM. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. VIOLAÇÃO AOS ARTS. 5º, 77, I E II, E 373, I, DO CC/2002. DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. PREQUESTIONAMENTO IMPLÍCITO. IMPOSSIBILIDADE. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça entende que a mera reprodução da exordial ou da peça contestatória nas razões da apelação não enseja, por si só, afr onta o princípio da dialeticidade recursal, sendo necessário, para o não conhecimento da insurgência, que inexista combate aos fundamentos da sentença.
+2. Quanto à apreciação da questão envolvendo a prescrição da ação, correta a aplicação da Súmula 283/STF, visto que "a falta de impugnação objetiva e direta ao fundamento do acórdão recorrido denota a deficiência de fundamentação recursal, a fazer incidir o óbice das Súmulas nºs 283 e 284/STF" (AgInt no AREsp n. 1.825.446/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/2/2023, DJe de 17/2/2023).
+3. A análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+4. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.477.628/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Nessas condições, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, determinando o retorno dos autos ao Tribunal estadual para que prossiga na análise da apelação, na forma que entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. APELAÇÃO. DIALETICIDADE. OFENSA. INEXISTÊNCIA. RECURSO ESPECIAL CONHECIDO E PROVIDO.
