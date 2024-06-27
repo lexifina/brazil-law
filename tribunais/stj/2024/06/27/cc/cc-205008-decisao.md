@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por LATICÍNIOS DELBOM LTDA - EM RECUPERAÇÃO JUDICIAL, em face do d. Juízo da 2ª Vara Cível, Criminal e da Infância e Juventude de Ipanema/MG e do d. Juízo da Vara do Trabalho de Manhuaçu/MG.
+Diz a inicial que a suscitante está submetida a processo de recuperação judicial em trâmite perante o d. Juízo da 2ª Vara Cível, Criminal e da Infância e Juventude de Ipanema/MG e que, todavia, o d. Juízo da Vara do Trabalho de Manhuaçu/MG, mesmo sabedor desse fato, determinou a penhora de bens essenciais à manutenção das atividades da recuperanda (caldeira, envasadora e caixa d"água), ato que foi mantido pela decisão de fls. 46/47 (nas fls. 7/8 da inicial).
+Todavia, em pesquisa ao sítio eletrônico do eg. TRT13, depreende-se que, após a decisão acima citada, proferida em 29/11/2023, o d. Juízo do Trabalho, em 30/4/2024, esclareceu que, "embora tenha sido mantida a penhora realizada no presente feito não obstante o deferimento da recuperação judicial, nos termos do despacho de id 80e9ee8, foi instaurado o incidente de desconsideração da personalidade jurídica das executadas, haja vista a realização de leilão do bem penhorado sem que fossem identificados interessados" (grifou-se).
+Após, em 6/5/2024, o d. Juízo do Trabalho, ora suscitado, considerando que "os procedimentos executórios seguirão nos autos do processo 0010096-27.2024.5.03.0066", determinou o arquivamento dos autos que dão origem ao presente, continuando a praticar os atos decisórios e executórios naqueles outros autos,
+Ademais, conforme pesquisa na mesma fonte de informações, colhe-se que a suscitante também manejou recurso de Agravo de Petição e Recurso de Revista, cujas soluções e informações atualizadas não foram juntadas aos autos.
+Dessa forma, constatando-se que a suscitante não promoveu a juntada de tais documentos ou de explicitação acerca dos assinalados fatos, imprescindíveis à compreensão do presente incidente processual, foi intimada para a juntada de tais documentos.
+Todavia, decorrido o prazo, a suscitante quedou-se inerte, não cumprindo a determinação acima assinalada.
+Ante o exposto não conheço do conflito de competência.
+Publique-se.
+EMENTA
