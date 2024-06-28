@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por Condomínio Jardim das Mansões contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que o agravante ajuizou ação de cobrança, julgada procedente.
+Interposta apelação pelo agravado, a Quinta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 390):
+COBRANÇA - Condomínio de fato - Lote de propriedade do réu que passou a situar-se na área externa do "Condomínio Jardim das Mansões", após desapropriação pela Municipalidade - Questão que extrapola o entendimento materializado em sede de Recursos Repetitivos (tema 882) e de Repercussão Geral (tema 492) - Ausência de comprovação de que o lote é beneficiado pela totalidade dos serviços prestados, à exceção do fornecimento de água - Réu que deverá arcar apenas com referido serviço, cujo custo deve ser individualizado em sede de liquidação - Sentença reformada - Recurso parcialmente provido.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, o recorrente alegou violação dos arts. 1.336, I, do Código Civil; e 12 da Lei n. 4.591/1964.
+Sustentou, em síntese, que o condômino deve contribuir com sua quota parte, a despeito de não utilizar dos serviços postos à disposição pelo condomínio, tendo em conta que não se trata de condomínio de fato, e que ainda não ocorreu a divisão do Condomínio Jardim das Mansões em duas modalidades distintas de assentos urbanos: a primeira, um "condomínio de lotes", situado na área interna e a outra, um "loteamento convencional", a ser concretizada após a regularização fundiária do local.
+Contrarrazões às fls. 415-424 (e-STJ), com pedido de majoração da verba sucumbencial, prevista no art. 85, § 11, do CPC/2015.
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 440-447 (e-STJ).
+Brevemente relatado, decido.
+Na espécie, a Corte de origem, soberana na análise dos elementos fáticos e probatórios dos autos, assim se manifestou (e-STJ, fls. 391-392):
+Da detida análise dos autos, infere-se que, em virtude de desapropriação realizada pela Municipalidade, houve a divisão do condomínio "Jardim das Mansões" em duas modalidades de assentos urbanos: a primeira, um"condomínio de lotes", situado na área interna e a outra, um "loteamento convencional", na área externa aos muros que cerceiam o condomínio, local no qual se situa o lote do réu.
+Certo que a prova testemunhal confirmou a separação dos lotes, reafirmando, inclusive, que o lote de propriedade do réu situa-se na área externa, separado do condomínio.
+Ademais, em processo semelhante envolvendo o mesmo loteamento, produzida prova pericial - aqui admitida como prova emprestada-, apurou-se que os lotes 01 a 12, dentre os quais está o do réu, estão apartados do condomínio, sequer fazendo uso dos serviços de portaria, visto que o acesso ao lote se dá através de vias públicas (fls. 92/102).
+(..)
+Na hipótese em apreço, entretanto, o réu admite a utilização do serviço de fornecimento de água, pelo poço artesiano instalado no condomínio, de modo que se reputa ponderada a apuração dos custos do aludido serviço, a fim de que o réu proceda ao respectivo pagamento, sob pena de enriquecimento ilícito.
+Assim, à míngua de comprovação, pela parte autora, de que o réu usufrui de todos os serviços disponibilizados pelo condomínio, à exceção do fornecimento de água, impõe-se a individualização das despesas realizadas a tal título, condenando-se o réu ao pagamento, o que deve ser apurado em sede de liquid ação.
+Desse modo, a pretensa questão federal submetida a esta Corte não tem como ser aqui aferida, porquanto chegar a uma conclusão contrária demanda o reexame das mesmas provas produzidas, fazendo um verdadeiro rejulgamento da causa, como se o STJ fosse uma terceira instância revisora e o especial pudesse ser transmudado em uma apelação da apelação.
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. LOTE EM ÁREA EXTERNA. SEPARADO DO CONDOMÍNIO. APÓS DESAPROPRIAÇÃO PELA MUNICIPALIDADE. AUSÊNCIA DE COMPROVAÇÃO DE QUE O LOTE É BENEFICIADO PELA TOTALIDADE DOS SERVIÇOS PRESTADOS. ANÁLISE DOS ELEMENTOS PROBATÓRIOS SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
