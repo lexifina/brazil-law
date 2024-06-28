@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARCELO JURAS e outros, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/11/2023.
+Concluso ao gabinete em: 15/04/2024.
+Ação: cumprimento de sentença em que a parte agravante visa a execução do título executivo em face do Banco do Brasil.
+Sentença: homologou os cálculos do exequente e fixou o débito exequendo.
+Acórdão: manteve decisão unipessoal do Relator que determinou a suspensão do processo, nos termos da ementa:
+AGRAVO INTERNO - AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - SUSPENSÃO - Decisão que aborda a questão relativa à necessidade de prévia liquidação do julgado - Existência de REsp afeto ao procedimento dos recursos repetitivos Ministro Relator que determinou a suspensão de processos e recursos de algum modo vinculados ao à questão da necessidade de prévia liquidação - Possibilidade da determinação da suspensão de todo e qualquer processo ou recurso vinculado à matéria debatida no REsp em virtude de se tratar naquele de matéria prejudicial. Ordem de suspensão que ajusta-se ao caso sob análise" (e-STJ, fl. 494)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: sustenta violação dos arts. 489, 932, III, 1.010, III e 1.022, do CPC. Alega em síntese: i) houve negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem deixou de se manifestar e fundamentar sobre matérias essenciais ao deslinde da controvérsia, em que pese ter oposto o devido recurso integrativo; ii) ofensa à dialeticidade recursal, porquanto as razões da apelação não impugnaram especificamente os fundamentos da sentença no que que se refere ao tema da "necessidade de liquidação prévia da sentença/julgado."
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente sobre o conhecimento da apelação, que não teria cumprido o princípio da dialeticidade recursal, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1022 do CPC.
+- Da Súmula 568/STJ
+Adotando a linha de prevalência da instrumentalidade das formas, a orientação desta Corte é a de que a mera circunstância de terem sido reiteradas, na petição da apelação, as razões anteriormente apresentadas na inicial da ação ou na contestação não é suficiente para o não conhecimento do recurso, eis que a repetição dos argumentos não implica, por si só, ofensa ao princípio da dialeticidade (REsp 1.665.741/RS, 3ª Turma, DJe 5/12/2019; e AgInt no AREsp 1.618.482/SP, 4ª Turma, DJe 09/06/2021).
+Na hipótese dos autos, as razões exaradas pela apelação têm o condão de rebater os argumentos lançados pela sentença, não havendo que se falar em violação do Princípio da dialeticidade.
+A propósito, segue trechos do acórdão recorrido que elucida a questão:
+"Antes de mais nada, é caso de afastar-se o alegado não cumprimento por parte do embargado aos termos do art. 1.010, inc. III, do Código de Processo Civil, uma vez que dos termos do recurso de apelação apresentado se extrai tantos fundamentos como pedido expresso de reforma da sentença atacada, sendo que a fundamentação está vinculada ao quanto foi decidido e contrasta o resultado apontado no ato impugnado, o que permite afirmar que atendido foi o princípio da dialeticidade recursal."
+Posto isto, tendo em conta que foi arguida preliminar de necessidade de prévia pelo aqui embargado em seu apelo, era mesmo caso de suspender-se o andamento deste último, especialmente em razão de ter-se conhecimento de decisão proferida pelo Ministro Benedito Gonçalves, do Superior Tribunal de Justiça, agora nos REsp 1.978.629/RJ; 1.985.037/RJ 1.985.491/RJ, no sentido de estar afeto tal recurso à Corte Especial daquela Corte, para julgamento como recurso repetitivo, isto em conformidade com o art. 1.037, inc. II, do Código de Processo Civil, decisão esta em que foi determinada a suspensão de recursos que versem sobre a mesma controvérsia apresentada no agora repetitivo, bem como apontou que referida suspensão abrange todos os recursos que versem sobre a mesma controvérsia."
+Desse modo, não há falta de dialeticidade recursal quando o apelo ataca os fundamentos da sentença, permitindo a dedução das contrarrazões e o normal exercício do contraditório.
+O acórdão deve restar intocado, em fulcro na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC. NÃO OCORRÊNCIA. PRINCÍPIO DA DIALETICIDADE. PRINCÍPIO DISPOSITIVO. INSTRUMENTALIDADE DAS FORMAS. HARMONIZAÇÃO. ARTS. 1.010 E 1.013 DO CPC/2015. DEMONSTRAÇÃO DE QUE AS RAZÕES IMPUGNAM OS FUNDAMENTOS DA SENTENÇA E DO PROPÓSITO DE OBTER NOVO JULGAMENTO. NECESSIDADE. HIPÓTESE DOS AUTOS. OCORRÊNCIA
+1. Cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A jurisprudência do STJ privilegia a instrumentalidade das formas, adotando a orientação de que a mera circunstância de terem sido reiteradas, na apelação, as razões anteriormente apresentadas na inicial ou na contestação, não é suficiente para o não conhecimento do recurso, porquanto a repetição dos argumentos não implica, por si só, ofensa ao princípio da dialeticidade. Todavia, é essencial que as razões recursais sejam capazes de infirmar os fundamentos da sentença. Precedentes.
+5. Agravo conhecido. Recurso especial conhecido e não provido.
