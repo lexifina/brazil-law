@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 do STJ e 284 do STF.
+Consta dos autos que a agravante foi condenada em primeira instância como incursa no artigo 33, caput, c/c art. 40, I, ambos da Lei 11.343/2006, à pena privativa de liberdade de 07 (sete) anos, 03 (três) meses e 15 (quinze) dias de reclusão, em regime semiaberto, e pagamento de 729 (setecentos e vinte e nove) dias-multa, no valor mínimo legal.
+Em sede de apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo a fim de reduzir a pena-base e reconhecer a incidência da confissão espontânea, ficando a pena definitivamente estabelecida em 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, e pena pecuniária de 485 (quatrocentos e oitenta e cinco) dias-multa.
+Inconformada, foi interposto recurso especial, com fulcro no artigo 105, III, "a", da Constituição Federal, o qual não foi admitido na origem.
+Nas razões do especial, aponta a recorrente a violação dos artigos 59 e 65, III, "d", do Código Penal, e 33, §4º, e 42 da Lei nº 11.343/06. Alega que a pena-base deve ser fixada no mínimo legal diante da natureza/quantidade de entorpecente apreendido; que a atenuante da confissão pode ensejar a redução da pena aquém do mínimo legal; que deve ser reconhecida a minorante do tráfico privilegiado em seu patamar máximo.
+Requer o provimento do agravo para que seja admitido o recurso especial para, ao final, ser diminuída a pena.
+O agravado apresentou contraminuta. O Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passo, portanto, à análise do recurso especial.
+Ao julgar a apelação, o Tribunal de origem assim fundamentou a dosimetria da pena (e-STJ fls. 430/436):
+Passo à análise das penas aplicadas.
+O Juízo de primeiro grau assim procedeu à dosimetria da pena (ID 273737298):
+"Tratando-se de crime de tráfico internacional de drogas, devem ser consideradas, com preponderância sobre as circunstâncias previstas no art. 59 do Código Penal, a natureza e a quantidade do entorpecente e a personalidade e a conduta social do agente (art. 42, da Lei nº 11.343/06).
+Em seguida serão consideradas as circunstâncias atenuantes e agravantes; por último, as causas de diminuição e de aumento (art. 68, CP).
+A acusada não apresenta conduta social desabonadora conhecida ou antecedentes técnicos.
+A cocaína é objeto do delito de maior reprovabilidade que outras drogas consideradas mais leves ou socialmente mais aceitas, como a maconha, por exemplo.
+São desfavoráveis as circunstâncias preponderantes como a natureza da droga (cocaína) e a quantidade (5.484g).
+Em casos como o presente, a pessoa assume o risco de transportar qualquer quantidade e em qualquer grau de pureza, motivo pelo qual tais circunstâncias devem inclusive ser consideradas para majoração da pena-base (TRF3, ApCrim 0014467-76.2016.4.03.6119, 11ª.T, DJE 29/11/2021).
+Diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critério ideal para individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador.
+Fixa-se a pena base em 7 anos e 6 meses de reclusão, e pagamento de 750 dias-multa.
+Na segunda fase não existem circunstâncias agravantes ou atenuantes.
+A forma de execução do delito, de transportar a droga junto ao corpo, mais os depoimentos das testemunhas que participaram do flagrante, são suficientes para motivar a condenação, de nada valendo a confissão da acusada para o convencimento do julgador.
+Mantida a pena-base na segunda fase.
+Incide na espécie a causa de diminuição de pena prevista no art. 33, § 4º da Lei 11.343/06, isso porque não há prova de que o réu integre organização criminosa nem se dedica a atividades criminosas.
+Apesar do alerta de tráfico internacional na ocasião em que foi presa, a certidão de movimentos migratórios da ré não apresenta informação relevante que iniba o benefício legal.
+Na linha da jurisprudência do TRF3, a pena deve ser diminuída no mínimo, ou seja, 1/6, pois apesar de não integrar a organização criminosa, participou dela de forma relevante (Ap. - APELAÇÃO CRIMINAL - 76118 0006594-88.2017.4.03.6119, DESEMBARGADOR FEDERAL FAUSTO DE SANCTIS, TRF3 - DÉCIMA PRIMEIRA TURMA, e-DJF3 Judicial 1 DATA:15/02/2019).
+Passa a pena aqui para 6 anos e 3 meses de reclusão, e 625 dias-multa Por fim, incide no caso a causa de aumento de pena prevista no art. 40, inciso I da Lei 11.343/06, decorrente da transnacionalidade do tráfico de drogas.
+Considerando que o art. 40 da Lei 11.343/06 prevê sete causas de aumento, admitindo majoração da pena em patamares que vão de 1/6 a 2/3, verificada no caso concreto a presença de apenas uma das majorantes, o aumento deve ser de apenas 1/6.
+Na terceira e última fase consolida-se definitivamente a pena em 7 anos, 3 meses e 15 dias de reclusão, e 729 dias-multa.
+Considerando não haver melhores elementos acerca da situação econômica da ré, atualmente presa e sem comprovação de renda, fixa-se o valor unitário do dia multa em 1/30 do salário mínimo.
+Por força legal o regime inicial de cumprimento de pena é o semiaberto, mesmo operada a detração, considerando a quantidade de pena aplicada (art. 33, CP). O tráfico privilegiado não é crime equiparado a hediondo, razão pela qual não merece regime fechado ."
+Na primeira fase da dosimetria da pena, a natureza e a quantidade das drogas são circunstâncias que devem ser consideradas com preponderância sobre o artigo 59 do Código Penal, nos termos do artigo 42 da Lei de Drogas.
+E, no caso vertente, está-se tratando de quantidade não expressiva, , transportada massa líquida de 5.484 gramas pela acusada, que não tem máculas em sua conduta social.
+A DPU pede a redução da pena ao mínimo legal, o que lhe assiste parcial razão.
+Assim, na da dosimetria, à luz dos primeira fase parâmetros utilizados por esta Turma Julgadora, fixo a pena-base em e 5 (cinco) anos e 10 (dez) meses de reclusão pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase da dosimetria, a sentença não reconheceu circunstância agravantes, bem como não reconheceu a atenuante da confissão espontânea.
+Nesse ponto, procede o pleito defensivo, haja vista que a acusada declarou ter ciência do transporte de drogas, e sua confissão foi utilizada como fundamento da condenação.
+Dessa forma, nesta fase intermediária, aplicado o patamar redutor de 1/6 (um sexto), fixo a pena em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, observando-se o disposto na Súmula 231 do STJ, segundo a qual a pena, na segunda fase de dosimetria, não pode ficar aquém do mínimo legal.
+Na terceira fase, confirma-se o aumento da pena pela transnacionalidade do delito (artigo 40, inciso I, da Lei nº 11.343/2006) na fração mínima de 1/6 (um sexto), pois está demonstrado que a droga apreendida se destinava ao exterior, elevando-a para 5 (cinco) anos e 10 (dez) meses de reclusão, além de 583 (quinhentos e oitenta e três) dias-multa.
+No tocante à concessão do privilégio no delito de tráfico, a DPU pretende a redução no patamar máximo de 2/3 (dois terços) em razão do reconhecimento do chamado tráfico privilegiado.
+Assinale-se, contudo, que o magistrado não está obrigado a aplicar o máximo da redução prevista quando presentes os requisitos para a concessão desse benefício, possuindo discricionariedade para fixar, de forma fundamentada, a redução no patamar que entender necessário e suficiente para a reprovação e prevenção do crime.
+A aplicação da causa de diminuição em comento às denominadas "mulas do tráfico" depende de elementos circunstanciais assim apontados pelo Professor RENATO BRASILEIRO (in " Manual de Legislação Criminal Especial - , Volume único" 10.ª edição, págs. 1281/1282):
+ ..
+Neste contexto, deve ser sopesado o grau de auxílio prestado pelo réu ao tráfico internacional de drogas e a consciência de que estava a serviço de um grupo de tal natureza.
+No caso dos autos, deve remanescer a fração minorante de 1/6 (um sexto) aplicada na sentença, uma vez que, na esteira da jurisprudência do Superior Tribunal de Justiça e deste Tribunal Regional Federal da 3.ª Região, a ciência do agente quanto ao envolvimento em atividade empreendida por grupo criminoso voltado ao tráfico internacional de drogas é circunstância idônea a justificar a redução da pena no patamar mínimo de 1/6 (um sexto).
+Ademais, a jurisprudência do Superior Tribunal de Justiça é no sentido de que o conhecimento pelo agente de estar a serviço do crime organizado para o tráfico transnacional de entorpecentes, o que se constata dos elementos contidos nos autos, constitui fundamento concreto e idôneo a ser valorado para fins de estabelecimento da incidência da causa de diminuição de pena do art. 33, § 4.º, da Lei de Drogas no seu mínimo legal, ante a gravidade da conduta perpetrada (STJ, HC n. 387.077, Rel. Min. Ribeiro Dantas, j. 06.04.17).
+E, não se constata elevado grau de vulnerabilidade da acusada que possa justificar a incidência da minorante além de sua fração mínima.
+ ..
+Desse modo, quanto à minorante do tráfico privilegiado, considerado o preenchimento dos pressupostos legais estabelecidos no art. 33, § 4.º, da Lei nº 11.343/2006, bem como as circunstâncias do caso concreto que evidenciam caso típico de "mula" para o transporte da droga para país estrangeiro, mantenho a redução aplicada na sentença, de 1/6 (um sexto), isto é, em 4 (quatro) anos, 10 (dez) meses e 10 , e pena pecuniária de (dez) dias de reclusão 485 (quatrocentos e oitenta e cinco) dias-multa.
+Mantenho, também, o valor mínimo legal de cada dia dia-multa conforme fixado na sentença.
+O regime inicial da pena corporal será mantido o pois, mesmo levando-se em conta a semiaberto, detração prevista no § 2.º do artigo 387 do CPP, com o desconto do período em que a ré esteve presa desde o flagrante (21.08.2022 ) até a data da prolação da sentença condenatória (18.11.2022 ), a pena remanescente supera quatro anos de reclusão.
+No entanto, considerando que o crime não foi cometido com violência ou grave ameaça, substituo a prisão preventiva , conforme segue: por medidas cautelares a) comparecimento a todos os atos do processo devendo indicar o endereço onde pode ser intimado;
+b) recolhimento domiciliar no período noturno e nos dias de folga;
+c) proibição de mudar de endereço sem informar a Justiça Federal, assim como de ausentar-se do respectivo domicílio, por mais de quinze dias, sem prévia e expressa autorização do juízo; e d) proibição de se ausentar do País sem prévia e expressa autorização judicial, devendo entregar seu passaporte em Juízo.
+Ressalto que o descumprimento de qualquer das medidas poderá acarretar nova decretação da prisão preventiva, a teor do art. 282, § 4.º, do Código de Processo Penal.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso interposto pela Defensoria Pública da União para reduzir a pena-base e reconhecer a incidência da confissão espontânea, ficando a pena definitivamente estabelecida em 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, e pena pecuniária de 485 (quatrocentos e oitenta e cinco) dias-multa. No mais, a prisão preventiva fica substituída pelas medidas cautelares acima indicadas, devendo-se expedir em favor de alvará de soltura clausulado , bem como comunicar a presente Thandeka Florence Radebe decisão às autoridades encarregadas de fiscalizar as saídas do território nacional, em especial sobre o item "d" acima mencionado.
+É o voto.
+No que tange à dosimetria da pena, a lei não fixa parâmetros aritméticos para a exasperação da pena-base ou para a aplicação de atenuantes e de agravantes, cabendo ao magistrado, utilizando-se da discricionariedade motivada e dos critérios de razoabilidade e proporcionalidade, fixar o patamar que melhor se amolde à espécie.
+Como visto, a majoração da pena-base foi fundamentada pelas instâncias ordinárias na natureza e na quantidade dos entorpecentes apreendidos, nos termos do art. 42 da Lei n. 11.343/06, cuja norma prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do Código Penal.
+A exasperação de 10 meses da pena-base, ou seja, 1/6, mostra-se razoável, pois fundamentada em razão da nocividade e da quantidade de droga apreendida (5.484 gramas) considerando, sobretudo, os limites, mínimo e máximo, da pena do delito de tráfico ilícito de drogas, de 5 a 15 anos de reclusão.
+No tocante à segunda fase, inexiste violação de dispositivo legal, pois, consoante a jurisprudência do STJ e considerando que a pena intermediária da recorrente foi fixada no mínimo legal, "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022.).
+Ressalta-se que, embora a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência compendiada na referida súmula, a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes.
+Por fim, esta Corte Superior tem jurisprudência segundo a qual é possível modular a fração da redução da pena, nos termos do art. 33, §4º, da Lei n. 11.343/2006, desde que seja apresentada fundamentação idônea com base em elementos concretos.
+No caso, houve fundamentação concreta para a modulação da fração aplicada, diante do "grau de auxílio prestado pelo réu ao tráfico internacional de drogas e a consciência de que estava a serviço de um grupo de tal natureza".
+Destarte, estando o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
