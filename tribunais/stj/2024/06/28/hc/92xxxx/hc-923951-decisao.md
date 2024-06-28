@@ -1,0 +1,14 @@
+DECISÃO
+CARINE DOS SANTOS SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de origem, denegatório do HC n. 1.0000.24.231752-7/000.
+A paciente, condenada a 5 anos de reclusão no regime semiaberto e multa, por tráfico de drogas, afirma que, em razão do período de prisão cautelar (detração penal) e por ser mãe de filho menor de 12 anos, alcançou o lapso para progredir ao regime semiaberto. Aponta a desproporcionalidade da manutenção de sua prisão preventiva.
+Decido.
+Existe obstáculo processual ao conhecimento dos pedidos de detração penal e de progressão de regime no caso de mulher que seja mãe ou responsável por crianças. Não é possível compreender a estratégia da defesa, de requerer a uma Corte Superior, em indevida supressão de duas instâncias, a análise de incidente que compete ao Juiz de Execução (art. 66, III, "b" e "c" da LEP).
+Não está inaugurada a atribuição desta Corte para processar e julgar o habeas corpus, prevista nas hipóteses do art. 105 da CF. O Tribunal de Justiça não examinou a controvérsia, justificadamente, pois essa análise "é pertinente à execução penal" (fl. 12) e o pedido não foi "apresentado perante o juízo de origem" (fl. 13). Incabível o conhecimento do tema, ainda que de ofício, sob pena de se incorrer em indevida supressão de duas instâncias.
+No mais, não se verifica ilegalidade ou abuso de poder que justifiquem a concessão da ordem, pois os argumentos do advogado divergem da orientação deste Superior Tribunal, de que "a fixação do regime inicial semiaberto não é suficiente, por si só, para ensejar a revogação da prisão preventiva, a qual pode ser compatibilizada com o modo intermediário de cumprimento de pena" (AgRg no RHC n. 190.346/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023, grifei).
+A impetração está deficientemente instruído. Em nenhuma das decisões do Juiz da VEC consta que a condenada tenha indicado a existência de filho menor de 12 anos. O advogado nem sequer comprova que existe apelação em curso e que a sua prisão ainda é de natureza cautelar.
+Além disso, verifica-se a autorização para trabalho externo e saídas temporárias, demonstrando que, mesmo que ainda não tenha ocorrido o trânsito em julgado da condenação, a prisão preventiva estaria devidamente compatibilizada com o regime semiaberto.
+A supressão de duas instâncias, a falta de comprovação das alegações da defesa e a indicação de pedido contrário à jurisprudência desta Corte impedem o conhecimento do habeas corpus e eventual concessão da ordem, de ofício.
+Reitero ao advogado que os pedidos de detração penal e de progressão de regime devem ser encaminhados ao Juiz da VEC. Caso a decisão seja desfavorável à reeducanda, é possível recorrer ao Tribunal de Justiça. Somente após essas duas etapas será possível acessar a instância superior.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
