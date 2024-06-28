@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIAN XAVIER ALVES, contra decisão que inadmitiu recurso especial manejado contra acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consoante se extrai dos autos, o agravante foi condenado à pena de 1 ano e 2 meses de reclusão, em regime semiaberto, e 12 dias-multa, pela prática do delito do art. 171 c/c 61, I, do CP.
+Em segunda instância, o Tribunal de origem negou provimento ao apelo.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação dos arts. 226 do CPP e 44 do CP, consignando a realização de reconhecimento sem observar os parâmetros legais, além da viabilidade de substituição por pena restritiva de direitos.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 83/STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior, bem como na súmula 7/STJ.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo e, se admitido, pela inadmissão do recurso especial e, subsidiariamente, pelo seu desprovimento.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, que evidencia a Jurisprudência contrária à substituição por penas restritivas de direitos no caso do multirreincidente em crimes patrimoniais por não ser medida socialmente recomendável.
+A defesa, nas razões de fls. 373/374, em uma breve explanação, cita precedente inaplicável por não corresponder à situação fática sob análise.
+O STJ firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Com efeito, "Também é pacífico o entendimento neste Pretório no sentido de que o Enunciado n. 83 da Súmula do STJ se aplica aos recursos especiais interpostos tanto pela alínea "c" quanto pela alínea "a" do permissivo constitucional" (AgRg no AREsp 1.241.318/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/04/2018).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO PRATICADO CONTRA A SUPERINTENDÊNCIA DA POLÍCIA FEDERAL. APLICAÇÃO DA CAUSA DE AUMENTO PREVISTA NO § 3º DO ART. 171 DO CP. POSSIBILIDADE. DEVOLUÇÃO DOS VALORES AUFERIDOS INDEVIDAMENTE. TIPICIDADE DA CONDUTA. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ. INSURGÊNCIA IMPROVIDA.
+1. A jurisprudência deste Sodalício entende que a pessoa jurídica de direito público pode ser sujeito do crime de estelionato, sendo cabível, no caso dos autos, a incidência da causa de aumento prevista no § 3º do art. 171 do Código Penal.
+2. A restituição dos valores auferidos indevidamente a título de diárias não afasta a tipicidade da conduta perpetrada pelo recorrente, podendo a iniciativa, contudo, caracterizar a causa de diminuição prevista no art. 65, inciso III, letra "b", do CP, o que foi reconhecido, no caso dos autos.
+3. Incidência do óbice do Enunciado n.º 83 da Súmula do STJ, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+4. Agravo a que se nega provimento." (AgRg no AgRg no AREsp 1080008/PE, Quinta Turma, Rel. Min. Jorge Mussi, DJe 18/12/2017)
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE HOMICÍDIOS E LESÃO CORPORAL. PRONÚNCIA CONFIRMADA PELO TRIBUNAL ESTADUAL. PLEITO DE DESCLASSIFICAÇÃO PARA A FORMA CULPOSA. RESP INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. ARESP NÃO CONHECIDO. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+2 No caso, a decisão que inadmitiu o recurso especial apresentou os seguintes óbices: i) Súmula 283/STF, ii) Súmula 83/STJ (arts. 413 e 414 do CPP), iii) Súmula 7/STJ (arts. 413 e 414 do CPP) e iv) deficiência de cotejo analítico. Nas razões do AREsp, verifica-se que a defesa se limitou a enfrentar a Súmula 7/STJ, reclamando o não conhecimento do recurso.
+ ..
+11. Agravo regimental improvido." (AgRg no AREsp n. 2.026.720/PR, Quinta Turma, Relator Ministro Reynaldo Soares da Fonseca, DJe de 6/5/2022)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos." (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1667698/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 29/05/2020)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos." (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017, grifei)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido." (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016)
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
