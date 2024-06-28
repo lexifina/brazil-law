@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de ADILSON FERREIRA DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE (Apelação Criminal n. 0805122-49.2023.8.20.5101).
+Consta dos autos que o paciente foi condenado como incurso no art. 157, § 2º, II e V, e § 2º-A, I, do Código Penal, às penas de 8 anos de reclusão em regime fechado (reincidência), e 20 dias-multa, pelo Juízo da 2ª Vara da comarca de Caicó/RN (fls. 174/178).
+O Tribunal de origem negou provimento ao recurso defensivo e rejeitou os embargos de declaração (fls. 233/241 e 258/265).
+Daí a presente impetração, em que se sustenta a existência de constrangimento ilegal decorrente da aplicação da majorante pelo emprego da arma de fogo, não obstante a ausência de aludo pericial balístico; e do regime prisional imposto, uma vez que negativa da aplicabilidade do regime semiaberto decorreu única e exclusivamente da existência de reincidência, não havendo qualquer outra fundamentação idônea (fl. 8). No caso dos autos todas as circunstâncias judiciais, à exceção de uma, são favoráveis ao recorrente, que, inclusive, é confesso (fl. 9).
+Requer-se a concessão da ordem para reformar o acórdão e decotar a causa de aumento inscrita no inciso I do § 2º-A do art. 157 do Código Penal e fixar regime menos gravoso.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+O entendimento do Tribunal estadual acerca das questões ora suscitadas está de acordo com a firme jurisprudência do Superior Tribunal de Justiça.
+Ora, é prescindível a apreensão e a perícia da arma para a incidência da referida majorante prevista, quando existirem nos autos outros elementos de prova capazes de comprovar a sua utilização no delito. Nesse sentido, entre outros, AgRg no HC n. 787.685/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 30/8/2023; AgRg no HC n. 762.120/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 28/4/2023; AgRg no HC n. 804.128/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/4/2023; e AgRg no HC n. 892.737/SP, Ministro Otávio de Almeida Toledo (Desembargador convocado do TJSP), Sexta Turma, DJe 21/6/2024.
+A alteração das conclusões das instâncias ordinárias está a demandar reexame do conjunto fático-probatório da ação penal, providência inadmissível na via eleita.
+Quanto ao regime, nossos precedentes dizem que a condição de reincidente é circunstância apta a justificar a imposição do regime inicial fechado em se tratando de pena de 8 anos de reclusão. Nesse sentido, por exemplo: AgRg no HC n. 695.991/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 17/11/2021; AgRg no HC n. 636.583/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/11/2021; e AgRg no HC n. 793.849/SP, Ministro Messod Azulay, Quinta Turma, DJe 22/6/2023.
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. MAJORANTE DO EMPREGO DE ARMA DE FOGO. APREENSÃO E PERÍCIA. DESNECESSIDADE. ABRANDAMENTO DO REGIME PRISIONAL. PENA DE 8 ANOS DE RECLUSÃO. PACIENTE REINCIDENTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
