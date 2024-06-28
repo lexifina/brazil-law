@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 5ª VARA DE ENTORPECENTES DO DISTRITO FEDERAL suscita conflito de competência, em inquérito policial, diante o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE INDAIATUBA - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de medidas judicias que se façam necessárias em procedimento investigativo instaurado para apurar suposta prática de tráfico interestadual de drogas.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Comarca de Cabreúva - SP (fls. 254-260).
+Decido.
+Com razão o Ministério Público Federal. Como cediço, o tráfico de drogas, por se tratar de crime formal plurinuclear ou de condutas múltiplas, consuma-se com a prática de qualquer um de seus verbos, de modo que remetida a droga de um Estado para o outro, dentro do território nacional, o delito já está consumado ainda que interceptada na droga sem que tenha chegado ao seu destino final.
+No caso, como assinalou o Juízo suscitado, "uma pessoa identificada como Alexandre Peixoto postou, na Agência dos Correios do Município de Cabreúva/SP, uma encomenda contendo substâncias entorpecentes" (fl. 258, destaquei). Logo, a competência em relação às drogas enviadas com destinatário residente em Brasília, hipótese dos autos, deve ser fixada perante o Juízo do local em que houve a remessa.
+De fato, "no tráfico interestadual de drogas,  .. , é de se considerar como local da remessa do entorpecente o lugar da consumação do delito, nos termos do art. 70 do Código de Processo Penal, relevando-se a competência, inclusive, em favor da produção de provas e do desenvolvimento dos atos processuais" (CC n. 147.802/MS, relator Ministro Ribeiro Dantas, DJe de 13/10/2016).
+Realço, por fim, que não há óbice na fixação de competência em relação a um terceiro juízo que não o suscitante ou suscitado, conforme pacífica orientação desta Corte. De fato, " a  jurisprudência tem reconhecido a possibilidade de declaração da competência de um terceiro juízo que não figure no conflito de competência em julgamento, quer na qualidade de suscitante, quer na qualidade de suscitado" (CC 168.575/MS, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, D Je 14/10/2019).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da Comarca de Cabreúva - SP.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
