@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Embargos de Divergência apresentados por ZELINDA TONI CAMARGO contra acórdão proferido pela Primeira Turma, de relatoria do Ministro Sérgio Kukina, com a seguinte ementa (fl. 369):
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO EM AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente.2. Agravo interno não provido."
+A embargante sustenta que o entendimento adotado no aresto embargado diverge da fundamentação firmada pela Quarta Turma, nos autos do AgInt nos EDcl no AgRg no Agravo de Instrumento n. 1.316.024/SP, de relatoria da Min. Maria Isabel Gallotti. No referido julgado, assentou-se que "a prolação de sentença de mérito pelo Juízo considerado incompetente não acarreta a perda de objeto do recurso especial em que se discute a questão da competência."
+A parte também aponta divergência em relação ao entendimento adotado pela Segunda Turma, nos autos do REsp n. 1.481.667/RS, de relatoria do Min. Mauro Campbell Marques, no qual se consignou que "a sentença de mérito prolatada no âmbito do juizado especial, seguida do trânsito em julgado, não acarreta a perda de objeto do recurso especial que visa declarar a nulidade de atos processuais, ante a vedação contida no artigo 59 da Lei n. 9.099/1995, que inviabiliza a utilização da ação rescisória."
+Em relação ao decisum da Quarta Turma, os presentes Embargos de Divergência foram liminarmente indeferidos pelo Min. Félix Fischer, posteriormente confirmada a decisão pela Corte Especial. Veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. INCIDÊNCIA DA SÚMULA 168/STJ. AUSÊNCIA DE COTEJO ANALÍTICO A FIM DE DEMONSTRAR A SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO.
+I - Consoante o art. 1.043 do CPC/2015, os Embargos de Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado acontrovérsia.
+II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória em virtude da prolação de sentença de mérito no processo originário.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+IV - Aplicabilidade da Súmula 168/STJ, pois a jurisprudência desta Corte Superior é pacífica no sentido de que fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação de sentença de mérito nos autos da ação principal.
+V - Os embargos de divergência devem indicar, com clareza e precisão, as circunstâncias que identificam ou assemelham os casos confrontados, nos termos do art. 1.043, § 4º, do novo Código de Processo Civil e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu no presente caso.
+Agravo interno desprovido.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10.6.2024.
+Conforme decidido pela Corte Especial (fl. 614):
+(..)
+"o recurso não comportaria processamento, diante da falta do necessário cotejo analítico entre o acórdão embargado e o paradigma citado, conforme dispõe o artigo 266 § 4º do Regimento Interno desta Corte e o artigo 1.043, § 4º do Código de Processo Civil.
+Os artigos acima preceituam que o Embargante "mencionará as circunstâncias que identificam ou assemelham os casos confrontados". Tal requisito dos Embargos de Divergência denomina-se cotejo analítico, exigindo que o Recorrente demonstre a semelhança fática ou processual, com conclusões diversas, com a finalidade de demonstrar a efetiva divergência entre os arestos, não bastando a mera transcrição de ementas.
+No caso, tal cotejo não restou minimamente realizado, por ter o embargante se limitado a transcrever ementas dos julgados que entende por paradigmas, e dizer que os julgados teriam conclusões antagônicas, o que, por certo, não supre o requisito delineado."
+(..)
+De fato, a divergência jurisprudencial pressupõe a existência de soluções jurídicas distintas extraídas de premissas fático-jurídicas idênticas, conforme entendimento consolidado no AgRg nos EREsp 1.202.436/RS. No presente caso, conforme já decidido pela Corte Especial, os EAREsp não merecem prosperar pelos seguintes motivos: a) incidência da Súmula 315/STJ: o REsp sequer foi conhecido, o que impede a análise da divergência jurisprudencial; b) ausência de cotejo analítico: falta a devida comparação entre os acórdãos confrontados, demonstrando a similitude fática e a divergência na interpretação jurídica; e c) dissídio não atual: a divergência apontada não é atual, incidindo a Súmula 168/STJ.
+Diante do exposto, não admito os Embargos de Divergência.
+Cumpre advertir à parte que a eventual interposição de recurso contra o presente decisum, qualificado como manifestamente inadmissível, protelatório ou desprovido de fundamento, ensejará a incidência das sanções previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil, podendo resultar, inclusive, em imposição de multa.
+Publique-se.
+Intimem-se.
+EMENTA
