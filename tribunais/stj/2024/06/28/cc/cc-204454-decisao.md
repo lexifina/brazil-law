@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  conflito  negativo de  competência  instaurado entre o JUÍZO DE DIREITO DA VARA DE ACIDENTES DE TRABALHO DE CURITIBA E REGIÃO METROPOLITANA - PR (suscitante) e o JUÍZO FEDERAL DA 10A VARA DE CURITIBA - SJ/PR (suscitado).
+O conflito decorre de ação de cumprimento individual de sentença proferida em ação civil pública que reconheceu o direito à revisão de benefício recebido com a aplicação do índice de reajuste de salário mínimo (IRSM) de fevereiro de 1994 na correção dos salários de contribuição.
+O Juízo suscitado declinou da sua competência e determinou a remessa dos autos à Justiça estadual por entender (fl. 99):
+ ..  d iante das recentes decisões do STF de que a competência para julgar as ações revisionais de IRSM de 02/94 está abarcada pelo Tema 414 STF, inclusive reformando julgado desta 10ª Turma, deve ser reconsiderada a decisão proferida para adotar a tese do STF e reconhecer a competência da Justiça Estadual.
+O Juízo suscitante, por sua vez, suscitou o presente conflito com os seguintes fundamentos (fls. 167/170):
+Dos autos se depreende que o suposto título executivo teve sua origem na ação civil pública que tramitou perante a Justiça Federal, assim, referido título, embora não tenha excluído expressamente benefícios acidentários, aplica-se somente aos benefícios previdenciários puros
+Para tanto, considera-se que a Constituição Federal, em seu art. 109, inc. I, dispõe expressamente que a Justiça Federal é incompetente para julgar as ações que envolvem acidente de trabalho, veja-se:
+"Art. 109. Aos juízes federais compete processar e julgar: I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, e as sujeitas à Justiça as de acidentes de trabalho Eleitoral e à Justiça do Trabalho".
+Logo, se o título exequendo se originou na Justiça Federal, e, não tendo sido delimitada a natureza do título (puros ou acidentários), de conformidade com a norma supracitada, considerando que a ação civil tramitou perante a Justiça Federal, é de se reconhecer que a sentença não compreende os benefícios acidentários, em face da competência em razão. Nesse sentido, a sentença do juízo federal não poderia abarcar competência que da matéria não possui, ou seja, de matérias acidentárias.
+ ..
+Ainda, no que concerne a execução de título oriundo de Ação Civil Pública que tramitou na Vara Federal, não há o que se falar em competência deste juízo para execução de títulos de natureza previdenciária, uma vez que a Vara Federal sequer possui competência para firmar entendimentos atinentes a matéria acidentária, conforme súmula 501 do STF.
+O Ministério Público Federal opinou a favor de que fosse declarada a competência do Juízo suscitado (fls. 189/192).
+É o relatório.
+Conheço  do  conflito  porque  se  trata  de  controvérsia  instaurada  entre  juízos vinculados  a  tribunais  distintos,  conforme  preceitua  o  art.  105,  I,  d,  da  Constituição Federal  .
+A controvérsia visa determinar o juízo competente para processar e julgar ação de cumprimento de sentença individual decorrente de título judicial proferido em ação civil pública na qual a autarquia previdenciária foi condenada a promover a revisão de benefícios previdenciários em razão da necessidade de correção dos salários de contribuição pelo IRSM de fevereiro de 1994.
+No presente caso, a sentença em fase de cumprimento foi proferida pela Justiça Federal, a qual detém competência absoluta para a fase subsequente à luz do que dispõe o art. 516, inciso II, do Código de Processo Civil.
+Nesse sentido, cito julgados desta Corte Superior:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. JUÍZO QUE DECIDIU A CAUSA. COMPETÊNCIA ABSOLUTA. MUNICÍPIO. RESPONSABILIDADE SUBSIDIÁRIA. ACÓRDÃO COMBATIDO. FUNDAMENTOS AUTÔNOMOS. IMPUGNAÇÃO. AUSÊNCIA.
+1. A orientação jurisprudencial prevalecente no âmbito desta Corte, ainda sob a égide do CPC/1973, é de que o cumprimento da sentença efetuar-se-á no juízo que decidiu a causa no primeiro grau de jurisdição, cuja competência funcional não pode ser questionada após o trânsito em julgado da fase de conhecimento, sob pena de ofensa aos princípios da segurança jurídica e da coisa julgada.
+ ..  (AgInt no AREsp n. 2.089.125/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL QUE RECONHECEU A ILEGITIMIDADE PASSIVA DE AUTARQUIA FEDERAL E REMETEU OS AUTOS À JUSTIÇA ESTADUAL. EXECUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DA AUTARQUIA. COMPETÊNCIA DO JUÍZO EM QUE SE FORMOU O TÍTULO EXECUTIVO.
+1. O conflito negativo de competência estará configurado, segundo o art. 66, II, do CPC/2015, quando dois ou mais juízes se considerarem incompetentes para processamento da causa, atribuindo um ao outro a competência.
+2. Da exegese do art. 516, II, do CPC/2015 se depreende que a competência para dar cumprimento do título executivo judicial é do Juízo que decidiu a causa em primeiro grau de jurisdição. Por sua vez, conforme o art. 24, § 1º, da Lei n. 8.906/1994, a execução da verba honorária pode ser promovida nos mesmos autos da ação, se assim convier ao advogado, sobretudo porque se trata de título autônomo à demanda originária.
+3. No caso, o Juiz federal reconheceu a ilegitimidade passiva da autarquia federal e condenou a autora ao pagamento de honorários, determinando a remessa dos autos à Justiça estadual. Assim, apesar de não ser possível que se dê nos próprios autos, a execução da verba honorária requerida pela entidade federal deve ser processada perante o Juízo federal que constituiu o título executivo.
+4. Conflito conhecido para declarar a competência do Juízo Federal da 24ª Vara do Rio de Janeiro - SJ/RJ.
+(CC n. 175.883/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/8/2022, DJe de 26/8/2022.)
+Assim, considerando o entendimento jurisprudencial acima, e sendo a pretensão executória atinente ao pagamento de valores atrasados, e não, propriamente, à concessão de benefício acidentário, cabe à Justiça Federal processar e julgar a ação.
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo Federal da 10ª Vara de Curitiba, ora suscitado.
+Publique-se. Comunique-se.
+EMENTA
