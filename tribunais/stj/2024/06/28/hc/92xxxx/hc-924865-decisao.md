@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS DE AGUIAR SARTORIO MARTINS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO. O acórdão recebeu a seguinte ementa (fl. 16):
+HABEAS CORPUS SUBSTITUTO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. PEDIDO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. CONDENAÇÃO JÁ TRANSITADA EM JULGADO. HABEAS CORPUS NÃO CONHECIDO. 1. É inadmissível a utilização do habeas corpus como sucedâneo de revisão criminal. 2. Habeas Corpus não conhecido.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 630 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/06 e 330, do Código Penal.
+Interposta apelação criminal, o recurso defensivo foi desprovido, em 18/11/2020. No julgamento do habeas corpus, em 12/12/2022, a ordem não foi conhecida.
+No presente writ, a defesa alega, em síntese, que ações penais em curso foram indevidamente utilizadas para negar a redução prevista no art. 33, §4º, da Lei n. 11.343/06, razão pela qual o paciente faria jus à diminuição da reprimenda.
+Aduz que, "com a mudança de entendimento e visto que esta mudança tem efeitos erga omnis, uma vez que, foi estabelecida em sede de RECURSOS REPETITIVOS, deve este juízo aplicar a modificação penal é colocar o reeducando imediatamente em liberdade" (fl. 10).
+Dessa forma, requer, liminarmente e no mérito, a imediata diminuição da pena nos termos do art. 33, §4º, da Lei n. 11.343/06, com os devidos consectários legais.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+O writ impetrado na origem não foi conhecido por ter sido utilizado como substituto de revisão criminal, haja vista "que já foi interposta pelo paciente a Apelação Criminal cabível perante esta Corte, em que foi negado provimento ao recurso, operando-se na data de 25/01/2021 o trânsito em julgado para defesa e acusação " (fl. 15).
+Portanto, tal fato também enseja, de igual modo, o não conhecimento deste mandamus perante este Tribunal Superior. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECONHECIMENTO DE CRIME ÚNICO. DOSIMETRIA. PRECLUSÃO. APELAÇÃO JULGADA HÁ MAIS DE 6 ANOS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. De antemão, observa-se o acórdão impugnado transitou em julgado em fevereiro de 2018, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea "e", e 108, inciso I, alínea "b", ambos da Constituição da República.
+2. O writ não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de 6 anos do trânsito em julgado do acórdão dos embargos de declaração na revisão criminal, devendo ser observada a coisa julgada e o princípio da segurança jurídica.
+3. Agravo regimental desprovido. (AgRg no HC n. 887.735/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. WRIT IMPETRADO APÓS MAIS DE SEIS ANOS DO JULGAMENTO DA APELAÇÃO. PRECLUSÃO TEMPORAL. TRÁFICO DE DROGAS. ROUBO. CORRUPÇÃO DE MENORES. CONDENAÇÃO TRANSITADA EM JULGADO. A TERCEIRA SEÇÃO DESTE TRIBUNAL DE JUSTIÇA RESTRINGE A ADMISSIBILIDADE DO HABEAS CORPUS QUANDO O ATO ILEGAL FOR PASSÍVEL DE IMPUGNAÇÃO PELA VIA PRÓPRIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal local julgou a apelação objurgada no writ em 15 de agosto de 2017, e somente no dia 10 de outubro de 2023 foi impetrado o habeas corpus, o que impede o seu conhecimento em decorrência da preclusão da matéria.
+2. Assente nesta Corte Superior que "o exame das alegações dos impetrantes se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal" (HC n. 483.065/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/11/2019). Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 860.423/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Portanto, deve ser observada a regra do art. 105, inciso I, alínea e, da Constituição Federal, segundo a qual, a competência desta Corte Superior para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados.
+No caso, como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
