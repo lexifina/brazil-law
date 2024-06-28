@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GINA CECILIA FABIANO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: embargos à execução, opostos por ELINTON DE PINHO PREVIATO, em desfavor da agravante, em virtude de anterior ação de execução de título executivo extrajudicial - notas promissórias - ajuizada por esta em desfavor daquele.
+Acórdão: deu provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+Apelação - Embargos de devedor Notas promissórias Alegação de inexistência de relação jurídica Reconhecimento da autenticidade das assinaturas lançadas nos títulos de crédito Partes que se valeram de talonários de notas promissórias, usualmente utilizados, no passado, nas transações negociais - Ordinário aproveitamento de um modelo pré-impresso, adquirido em período que a moeda corrente era diversa e, inclusive, o século diverso, o que, por si só, não invalida o documento Perícia que constatou a alteração do padrão de assinatura do embargante com o passar dos anos Firma aposta nos títulos em discussão que se assemelha à utilizada pelo devedor em período anterior a 2003 Ação executiva ajuizada no ano de 2018 Lapso prescricional de 3 anos Art. 77 c.c. art. 70 da Lei Uniforme de Genebra - Prescrição há muito verificada Procedência dos embargos que se impõe Decisão reformada Extinção da execução decretada Recurso provido (e-STJ fl. 1.208).
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão do seguinte fundamento:
+i) incidência da Súmula 284/STF.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que o juízo de admissibilidade realizado pelo Tribunal de origem deve limitar-se à análise dos requisitos formais do recurso, quais sejam, "a comprovação de violação de lei federal, da divergência jurisprudencial, o cotejo analítico do dissídio jurisprudencial, a tempestividade do Recurso, o prequestionamento, dentre outros" (e-STJ fl. 1.452).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade da Súmula 284/STF.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da causa (e-STJ fl. 1.215) para 12% (doze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
