@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RAFAEL APARECIDO JÚLIO SOARES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação n. 1501061-72.2018.8.26.0038, cujo acórdão ficou assim ementado (e-STJ fl. 26):
+TRÁFICO DE DROGAS. Materialidade e autoria comprovadas. Relatos dos policiais corroborados pela confissão qualificada do réu e não infirmados pela frágil negativa da ré. Condenação mantida.
+Pena de VITÓRIA inalterada. Quanto a RAFAEL, pena-base exasperada em razão da quantidade de droga e reconhecida a atenuante da confissão espontânea, compensando-se a agravante da reincidência, sem alteração da pena ao final imposta.
+Apelos defensivo e ministerial parcialmente providos.
+Daí o presente writ, no qual a defesa requer, em síntese (e-STJ fls. 9/10):
+que a MEDIDA LIMINAR EM HABEAS CORPUS seja conhecida e provida, visto que o paciente faz jus aoartigo33,§ 4º, da Lei11.343/06(o tráfico privilegiado), com a imposição de regime inicial ABERTO, considerando o disposto no art. 387, § 2º, C, com ou sem a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+Devido a apresentação (documento anexo), de absolvição em processo anterior, com transito em julgado, do qual foi empecilho para aplicação do privilegio na época.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de acórdão transitado em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, notadamente quando não se verifica flagrante ilegalidade a atrair a concessão de habeas corpus de ofício, como no caso.
+De fato, o Processo n. 0006804-45.2015.8.26.0038, em que o paciente foi absolvido não foi o único usado na sentença para afastar o privilégio; foi considerada também a condenação definitiva no Processo n. 0003172-11.2015.8.26.0038, e que, à época da prolação da sentença no feito objeto deste writ, em 2021, havia transitado em julgado em 2018. Ademais, não consta data do cumprimento da pena desse feito, marco necessário para cômputo do período depurado. Assim, mesmo que se considerasse o ano de 2018 como de extinção da pena, em 2021, data da prolação da sentença do presente feito, tal período não teria vencido, estando configurada a reincidência.
+Outrossim, mesmo que afastada a reincidência, estariam configurados os antecedentes, uma vez que, nos termos da jurisprudência desta Corte, "assim como o período depurador dos efeitos da reincidência é computado da data do cumprimento ou extinção da pena aplicada na ação penal anterior, também o lapso computado para a desconsideração de uma dada anotação criminal como mau antecedente deve levar em conta o mesmo termo a quo" (AgRg no HC n. 684.683/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe 20/8/2021, grifei).
+Ademais, ao réu possuidor de maus antecedentes não há possibilidade de concessão da minorante do tráfico privilegiado.
+Por estas considerações, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
