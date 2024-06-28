@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por PÉROLA DISTRIBUIDORA DE BEBIDAS LTDA. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 680):
+AÇÃO RESCISÓRIA - AÇÃO MONITÓRIA - CUMPRIMENTO DE SENTENÇA - VIIOLAÇÃO À COISA JULGADA - ACRÉSCIMO DE ENCARGOS FINANCEIROS NÃO DETERMINADOS NA SENTENÇA - INOCORRÊNCIA - AÇÃO IMPROCEDENTE.
+In casu, ao julgar improcedentes os embargos monitórios, em que se questionava a ilegalidade dos encargos financeiros incluídos nas notas fiscais que lastrearam a ação monitória, quais sejam, 3,40% e 2,98, restou reconhecida a legalidade dos encargos contratados, mantendo-os na formação do titulo executivo judicial.
+Assim, não há que se falar em violação à coisa julgada, se o acórdão rescindendo apenas determinou a inclusão no quantum debeatur do valor correspondente a tais encargos, já reconhecidos na sentença que constituiu o título judicial.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente afirma que não há nenhuma decisão a respeito da incidência de quaisquer encargos financeiros na sentença que apenas rejeitou os embargos monitórios promovidos pela recorrente e que a imposição do encargo financeiro de 3,4% ao mês ultrapassa todos os limites expressos e tal prática é expressamente vedada pela Lei de Usura (Decreto 22.626/1993).
+Aduz que no ordenamento jurídico não é permitida a cobrança de acréscimos financeiros da mesma espécie, como no caso concreto em que se está exigindo, além da correção monetária pelo INPC, a cobrança dos juros de mora de 1% ao mês e dos ditos encargos financeiros à taxa de 3,4% ao mês.
+Alega que, pertencendo a recorrida ao Sistema Financeiro Nacional, a taxa de juros de mora deve ser limitada àquela prevista no Decreto nº 22.626/33, sob pena de se negar vigência ao dispositivo legal federal em vigência.
+Defende que o Tribunal de origem, de forma equivocada, manteve a concessão de encargos financeiros de 3,4% ao mês que não foram pedidos pela Recorrida na petição inicial da ação originária, fazendo constar que sobre a dívida deveriam incidir encargos financeiros à taxa de 3,4% ao mês, sendo que o pedido inicial era de aplicação de correção monetária e de juros de mora de 0,5% ao mês.
+Conclui que é manifesta a ocorrência de negativa de vigência ao disposto nos arts. 395, 397 e 406, do Código Civil, pelo acórdão recorrido, tendo em vista que a decisão atacada manteve a validade e a eficácia da decisão judicial proferida no julgamento do recurso de agravo no sentido de incluir no crédito da Recorrida, além da correção monetária (INPC) e dos juros de mora legais (1,0% ao mês), a cobrança ilegal e abusiva de encargos financeiros à razão mensal de 3,40%, que não estão previstos no título executivo judicial que serve de fundamento ao cumprimento de sentença,
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 284 do STF e da Súmula 7 do STJ.
+Neste agravo, a parte agravante impugna os fundamentos da decisão agravada.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+O Tribunal de origem consignou no acórdão recorrido que: (i) ao julgar improcedentes os embargos monitórios, em que se questionava a ilegalidade dos encargos financeiros constantes das notas fiscais, quais sejam, 3,40% e 2,98, estes restaram mantidos; (ii) estes devem fazer parte do cálculo do (quantum debeatur" vez que foram reconhecidos em sentença transitada em julgado; e (iii) não houve a inclusão pelo acórdão rescindendo de outros encargos financeiros além da correção monetária e dos juros. Confira-se:
+Da leitura do voto a partir dos elementos trazidos, entendo que a rescisória deve ser julgada improcedente, isto porque ao julgar improcedentes os embargos monitórios, em que se questionava a ilegalidade dos encargos financeiros constantes das notas fiscais, quais sejam, 3,40% e 2,98, estes restaram mantidos.
+Assim é que, como restou consignado no Agravo, estes devem fazer parte do cálculo do (quantum debeatur" vez que foram reconhecidos em sentença transitada em julgado.
+Assim, com a devida vênia, ao contrario do que entendeu o douto relator, não houve a inclusão pelo acórdão rescindendo de outros encargos financeiros além da correção monetária e dos juros  ..  (e-STJ, fl. 695).
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela ausência de violação à coisa julgada e não houve a inclusão pelo acórdão rescindendo de outros encargos financeiros além da correção monetária e dos juros, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
