@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo de SAMUEL SANTANA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 0715972-10.2022.8.07.0007.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, caput, c/c o art. 14, II, do Código Penal - CP (roubo tentado), às penas de 3 anos, 1 mês e 10 dias de reclusão, em regime inicial semiaberto, e pagamento de 7 dias-multa.
+O recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. TENTATIVA DE ROUBO. SENTENÇACONDENATÓRIA. RECURSO DA DEFESA. PEDIDO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE DEMONSTRADAS. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE EXERCÍCIOARBITRÁRIO DAS PRÓPRIAS RAZÕES. ARTIGO 345 DO CÓDIGOPENAL. IMPOSSIBILIDADE. CONDUTA NÃO DIRIGIDA À SATISFAÇÃODE LEGÍTIMA PRETENSÃO. PEDIDO DE APLICAÇÃO DA MINORANTERELATIVA À TENTATIVA NA FRAÇÃO MÁXIMA DE 2/3 (DOIS TERÇOS). INVIABILIDADE. ITER CRIMINIS PERCORRIDO. RECURSOCONHECIDO E NÃO PROVIDO.
+1. Em crimes contra o patrimônio, geralmente cometidos à ausência de testemunhas,a palavra da vítima possui especial relevo probatório. No caso dos autos, asdeclarações da vítima, nas fases inquisitiva e judicial, descreveram as circunstânciasdo delito de forma coerente, firme e harmônica, apresentando a dinâmica em queocorreu a tentativa de subtração do seu aparelho celular pelo apelante, mediante o emprego de grave ameaça, e foram corroboradas pelos depoimentos dastestemunhas policiais ouvidas durante a instrução criminal.
+2. Se a conduta do réu de tentar se apossar de coisa alheia não foi dirigida àsatisfação de uma legítima pretensão, mas motivada pela intenção deassenhoreamento do bem da vítima, não é possível enquadrar o crime comoexercício arbitrário das próprias razões.
+3. Na espécie, o delito se aproximou de sua consumação, somente não ocorrendo emrazão da reação da vítima, que entrou em luta corporal com o réu, e do auxílio dospoliciais militares que se aproximaram para averiguar a situação, de modo que a redução da pena em 1/3 (um terço), tal como estabelecido na sentença, mostra-seproporcional.
+4. Recurso conhecido e não provido para manter a sentença que condenou oapelante nas sanções do artigo 157, caput, c/c o artigo 14, inciso II, ambos doCódigo Penal, à pena de 03 (três) anos, 01 (um) mês e 10 (dez) dias de reclusão, emregime inicial semiaberto, e 07 (sete) dias-multa, no valor legal mínimo" (fls. 318/319).
+Em sede de recurso especial (fls. 342/350), a defesa apontou violação ao art. 14, II, do CP, buscando a aplicação de 2/3 pela tentativa.
+Alega que "não houve a consumação do roubo, e sim a tentativa de roubo prevista no artigo 14, II." (fl. 347).
+Aduz que " o  réu saiu do local sem levar nenhum objeto. Não houve maiores ameaças à vítima, o réu não estava armado, apenas simulou estar armado para intimidar a vítima na tentativa do furto que não foi consumado, o que justifica a redução da pena em 2/3 prevista no artigo 14." (fl. 348).
+Requer a aplicação da redução da pena pela tentativa na fração de 2/3.
+Contrarrazões do MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS (fls. 356/358).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 361/362).
+Em agravo e m recurso especial, a defesa impugnou o referido óbice (fls. 367/375).
+Contraminuta do Ministério Público (fl. 379).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls.428/430).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS negou provimento ao apelo da defesa, mantendo a condenação nos seguintes termos do voto do relator:
+"A Defesa postula a readequação o quantum de redução pela tentativa para a fração de 2/3 (dois terços), uma vez que "não houve prejuízo a vítima, nem o acusado conseguiu evadir-se do local".
+O pleito, porém, não merece prosperar.
+Com efeito, a tentativa é causa de diminuição obrigatória da pena, na terceira fase de dosimetria. Sobre o quantum de diminuição da pena, assim dispõe o Código Penal em seu artigo 14, parágrafo único:
+"Parágrafo único. Salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de 1 (um) a 2/3 (dois terços)."
+Nesse trilhar, a doutrina e a jurisprudência, de forma unânime, se posicionam no sentido de que o Juiz, para eleger a fração entre 1/3 (um terço) e 2/3 (dois terços) no caso concreto, deve ter como critério o iter criminis percorrido, ou seja, a diminuição será maior quanto mais distante o agente ficar da consumação do crime, bem como a diminuição será menor quanto mais o agente se aproximar da consumação do delito.
+ ..
+No caso dos autos, o conjunto probatório demonstra que o recorrente percorreu grande parte do iter criminis do roubo perpetrado contra a vítima, visto que somente não logrou subtrair o bem porque o ofendido reagiu e entrou em luta corporal com o acusado, embate este que findou apenas após a chegada dos policiais militares.
+Observa-se, assim, que o delito se aproximou de sua consumação, somente não ocorrendo em razão da reação da vítima, de modo que a redução da pena em 1/3 (um terço), tal como estabelecido na sentença, mostra-se proporcional, conforme se confere, mutatis mutandis:  .. " (fls. 335/336).
+O critério adotado mostra-se idôneo, pois, na escolha do quantum de redução da pena, o magistrado deve levar em consideração somente o iter criminis percorrido, ou seja, quanto mais próxima a consumação do delito, menor será a diminuição. Ademais, a desconstituição do entendimento demanda o reexame de provas, o que não se viabiliza em recurso especial. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DA PENA. TENTATIVA. QUANTUM DE REDUÇÃO. FUNDAMENTAÇÃO IDÔNEA, CRITÉRIO OBJETIVO. PROXIMIDADE COM O MOMENTO CONSUMATIVO. REANÁLISE DO ITER CRIMINIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. A pretensão de alteração da fração da minorante da tentativa encontra óbice na Súmula 7/STJ, porque seria necessário o reexame dos fatos e provas da causa para avaliar a maior ou menor proximidade da conduta ao resultado almejado. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 1.954.266/TO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/3/2022, DJe de 15/3/2022.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. VALORAÇÃO DA QUALIFICADORA REMANESCENTE COMO CIRCUNSTÂNCIA JUDICIAL. POSSIBILIDADE. CONSEQUÊNCIAS E MODUS OPERANDI DO CRIME. MOTIVAÇÃO CONCRETA DECLINADA. CONFISSÃO ESPONTÂNEA RECONHECIDA. PENA REVISTA. QUANTUM DE REDUÇÃO PELO CONATUS JUSTIFICADO. REGIME PRISIONAL FECHADO MOTIVADO. AGRAVO DESPROVIDO.
+ ..
+7. Quanto à aplicação de maior redutor de pena, em face do crime tentado, assinale-se que o Código Penal, em seu art. 14, II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+8. No caso, o Colegiado de origem aplicou a redução pela tentativa em 1/2, tendo em vista o iter criminis percorrido pelo agente, pois que "o réu efetuou quatro disparos enquanto a vítima estava ao alcance dele, tendo um deles atravessado o veículo e saído próximo ao assento ocupado pela ofendida, o que impossibilita a redução da pena no patamar mínimo, mas não tendo ela sido atingida, razão pela qual não se pode cogitar da redução no patamar máximo, entendo mais adequada a redução da pena em 1/2". Não há, portanto, nenhuma ilegalidade a ser reparada quanto ao tema.
+9. O acolhimento do inconformismo, segundo as alegações vertidas nas razões do remédio heróico, demanda o revolvimento da matéria probatória, situação vedada no âmbito da via eleita.
+10. Nesse contexto, partindo-se da pena base de 18 anos de reclusão, deve a pena ser reduzida em 1/6, considerando a incidência da atenuante da confissão espontânea, o que implica pena de 15 anos de reclusão. Em seguida, mantido o redutor pelo conatus de 1/2, chega-se à pena definitiva de 7 anos e 6 meses de redução, ficando mantido o regime fechado, considerando a presença de vetoriais desabonadoras.
+11. Agravo desprovido.
+(AgRg no HC n. 807.239/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/5/2023, DJe de 12/5/2023.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
