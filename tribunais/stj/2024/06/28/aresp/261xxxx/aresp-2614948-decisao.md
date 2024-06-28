@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282, 283 e 284 do STF (e-STJ fls. 324/326).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 252):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE CONSOLIDAÇÃO DA PROPRIEDADE FIDUCIÁRIA. LEI 9.514/97. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO DEVEDOR FIDUCIÁRIO. AVENTADA IMPENHORABILIDADE DO IMÓVEL OFERTADO EM GARANTIA FIDUCIÁRIA. INAPLICABILIDADE DA LEI 8.009/1990. NÃO SE EVIDENCIA LEAL, HONROSA E DE BOA-FÉ A OFERTA DE IMÓVEL COMO GARANTIA FIDUCIÁRIA PARA OBTENÇÃO DE EMPRÉSTIMO COM TAXAS ATRATIVAS E, APÓS, ALEGAR A IMPENHORABILIDADE. COMPORTAMENTO CONTRADITÓRIO. VENIRE CONTRA FACTUM PROPRIUM. PRECEDENTES. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS DEVIDOS. "Consoante jurisprudência desta Corte, encontram-se fora do âmbito de incidência da Lei n. 8.009/1990, que trata do bem de família, as hipóteses em que há alienação fiduciária do imóvel, restando inaplicável, portanto, a tese de impenhorabilidade do aludido bem, tendo em vista se tratar de consolidação da propriedade em nome da instituição financeira".  .. (TJSC, Apelação n. 0308714-26.2017.8.24.0036, do Tribunal de Justiça de Santa Catarina, rel. Dinart Francisco Machado, Terceira Câmara de Direito Comercial, j. 27-10-2022). RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 276/278).
+Nas razões do recurso especial (e-STJ fls. 288/306), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 5º, XXVI, da CF, 833, VIII, do CPC/2015 e 6º, VI, VII, VIII, XI e XII, do CDC, sustentando, em síntese, a impenhorabilidade da pequena propriedade rural.
+Segundo afirmou, "o bem imóvel de propriedade da Recorrente é inexpropriável/impenhorável posto que (i) sua área de 247,75 hectares é inferior a 4 módulos fiscais (72 hectares), (ii) bem como o mesmo é economicamente explorado pela Recorrente, em regime de economia familiar, de onde retira seu sustento e subsistência" (e-STJ fl. 300).
+No agravo (e-STJ fls. 334/345), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 349/357).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+O conteúdo do art. 6º, VI, VII, VIII, XI e XII, do CDC não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 250):
+Em que pese a restrição desse dispositivo legal, a impenhorabilidade não se aplica em sede de garantia fiduciária, uma vez que se encontra " ..  fora do âmbito de incidência da Lei n.8.009/1990, que trata do bem de família, as hipóteses em que há alienação fiduciária do imóvel, restando inaplicável, portanto, a tese de impenhorabilidade do aludido bem, tendo em vista se tratar de consolidação da propriedade em nome da instituição financeira". (TJSC, Agravo de Instrumento n.4017703-71.2016.8.24.0000, de Balneário Camboriú, rel. Gilberto Gomes de Oliveira, Terceira Câmara de Direito Comercial, j. 14-02-2019).
+Afinal, segundo o princípio da boa-fé objetiva, em seu postulado do venire contra factum proprium (vedação de comportamentos contraditórios), não se evidencia leal, honrosa e de boa-fé a oferta de imóvel como garantia fiduciária a fim de obtenção de empréstimo com taxas reduzidas e, após isso, alegar a sua impenhorabilidade.
+Por tais razões, é incabível a alegação de impenhorabilidade do imóvel ofertado em garantia fiduciária, na medida em que a consequência do inadimplemento do devedor está expressa em lei e também no instrumento contratual.
+A decisão recorrida está em conformidade com a jurisprudência desta Corte, no sentido de que, uma vez consolidada a transmissão da propriedade pela alienação fiduciária por ato de disposição de vontade livremente praticado pelo proprietário do bem, é abusivo o uso da proteção legal, invocando-se a impenhorabilidade do bem de família, pois contraria a boa-fé objetiva. Esse entendimento está consolidado no STJ. Confiram-se ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEI Nº 9.514/97. INDICAÇÃO DE RESIDÊNCIA FAMILIAR COMO GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. POSSIBILIDADE. INTIMAÇÃO DO DEVEDOR DA DATA DO LEILÃO. DESNECESSIDADE.
+1. Segundo a jurisprudência do STJ, "(a) a proteção conferida ao bem de família pela Lei n. 8.009/90 não importa em sua inalienabilidade, revelando-se possível a disposição do imóvel pelo proprietário, inclusive no âmbito de alienação fiduciária; e (b) a utilização abusiva de tal direito, com evidente violação do princípio da boa-fé objetiva, não deve ser tolerada, afastando-se o benefício conferido ao titular que exerce o direito em desconformidade com o ordenamento jurídico" (AgInt nos EDv nos EREsp n. 1.560.562/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 2/6/2020, REPDJe de 30/06/2020, DJe de 9/6/2020.)"
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.664.466/MS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/11/2023, DJe de 24/11/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. CONTRATO DE EMPRÉSTIMO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA DE BENS IMÓVEIS. ACÓRDÃO EMBARGADO QUE APRECIOU QUESTÃO DIVERSA DAQUELA EFETIVAMENTE POSTA NOS AUTOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. A discussão posta em causa diz respeito à validade do contrato de empréstimo garantido por alienação fiduciária de bens alegadamente protegidos pela Lei n.º 8.009/90.
+2. O acórdão embargado, decidindo sobre a impenhorabilidade dos bens de família, examinou questão diversa daquela efetivamente trazida a julgamento, qual seja, a validade ou invalidade do negócio jurídico.
+3. Impõe-se, assim, o acolhimento dos embargos de declaração para novo julgamento do recurso.
+4. A proteção conferida ao bem de família pela Lei n. 8.009/90 não importa em sua inalienabilidade, revelando-se possível a disposição do imóvel pelo proprietário, inclusive no âmbito de alienação fiduciária. (AgInt nos EDv no EREsp n. 1.560.562/SC, relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 2/6/2020, DJe de 9/6/2020).
+5. Embargos de declaração acolhidos com efeitos infringentes para negar provimento ao recurso especial
+(EDcl no AgInt no REsp n. 2.029.028/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 9/10/2023, DJe de 11/10/2023.)
+Incidente, portanto, a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
