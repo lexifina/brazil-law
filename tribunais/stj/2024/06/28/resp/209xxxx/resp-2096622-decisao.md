@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EDNA REGINA OLIVEIRA DA SILVEIRA BALBO, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa à reserva de honorários contratuais.
+O julgado negou provimento ao recurso de agravo de instrumento do recorrente nos termos da seguinte ementa (fl. 96):
+Agravo de instrumento. Habilitação individual formulada pelo transporte in utilibus de coisa julgada coletiva.
+Cadernetas de poupança afetadas na primeira quinzena de janeiro de 1989. Expurgos inflacionários referentes ao Plano Verão. Ação civil pública movida pelo IDEC em face do Banco do Brasil S/A que tramitou perante a Egrégia 12ªVara Cível de Brasília/DF (Processo 1998.01.1.016798-9).
+Competência desta Câmara. Pretensão do advogado da exequente em reservar honorários contratuais.
+Impossibilidade. Penhora no rosto dos autos que obsta referida medida coercitiva. Prevalência da constrição judicial em detrimento da relação privada. Irrevelância do caráter alimentar da verba. Precedentes. Decisão ratificadain totum. Recurso desprovido.
+Sem embargos de declaração.
+No presente recurso especial, a recorrente alega que o acórdão estadual contrariou as disposições contidas nos arts. 357, § 3º, 139, V, e 463, I, do Código de Processo Civil, ao passo que aponta divergência jurisprudencial com arestos de outros tribunais, sob o fundamento de que é cabível a reserva de honorários contratuais em favor do advogado do agravante antes de ser satisfeita a penhora nos rosto dos autos feita a pedido do agravado.
+Apresentadas as contrarrazões (fls. 155-160), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 161-162).
+É, no essencial, o relatório.
+Cuida-se na origem de cumprimento de sentença movido por EDNA REGINA OLIVEIRA DA SILVEIRA BALBO em desfavor do agravado, BANCO DO BRASIL S.A., em que a recorrente se insurge acerca da pretensão de seu advogado em reservar honorários contratuais.
+Com efeito, da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao negar provimento ao agravo de instrumento, limitou-se a consignar que não há possibilidade em reservar honorários contratuais, pois a penhora no rosto dos autos obsta referida medida coercitiva.
+Com efeito, verifica-se que a Corte de origem não analisou, sequer implicitamente, os arts. 357, § 3º, 139, V, e 463, I , todos do Código de Processo Civil.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais e, caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC , quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, confiram-se julgados:
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. (AgInt no AREsp n. 1.700.683/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1/10/2020.)
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (arts. 319 e 332 do CPC; 39, V, do CDC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, os recorrentes não aduziram nas razões do recurso especial ofensa ao art. 535 do CPC. (AgInt no REsp n. 1.482.892/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/10/2016.)
+2. Não obstante tenham sido opostos embargos de declaração, concluiu o Tribunal por rejeitá-los, sem se manifestar sobre as questões alegadas pelos apelantes, notadamente sobre aquelas explicitadas nos embargos.
+3. Está claro, assim, que nenhuma das questões ventiladas no recurso especial foi objeto de debate e decisão pelo Tribunal de origem, circunstância que torna inadmissível o recurso, ante a falta do indispensável prequestionamento.
+4. Com efeito, a falta de debate pela instância ordinária inviabiliza o conhecimento do especial por ausência de prequestionamento.
+5. De fato, na hipótese, houve apresentação de embargos de declaração no Tribunal a quo para sanar possível omissão. Deveria a parte, se essa persistisse, ter fundamentado seu recurso no art. 535 do CPC, o que não foi feito na presente demanda, estando patente a ausência de prequestionamento acerca da matéria em questão. (AgRg no REsp n. 1.107.521/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2015.)
+Quanto ao dissídio, vê-se que a tese da recorrente não merece prosperar, pois a Corte Paulista decidiu nos mesmos termos da jurisprudência deste Superior Tribunal de Justiça, no sentido de que: "O contrato de honorários juntado após a expedição da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte". (AgInt no AREsp n. 2.241.138/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Cito a ementa do julgado:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. PEDIDO POSTERIOR DE RESERVA DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. DECISÃO MANTIDA.
+1. O contrato de honorários juntado após a expedição da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte. Incidência da Súmula n. 83/STJ.
+2. A desconstituição da premissa fática de que o requerimento de destaque da verba honorária contratual somente foi formulado após a realização da penhora no rosto dos autos esbarra na impossibilidade de este Tribunal Superior analisar questão fático-probatória em sede de recurso especial. Súmula n. 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.241.138/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Nesse mesmo sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. POSTERIOR PEDIDO DE RESERVA DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA N. 83/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. O contrato de honorários juntado depois da expedição do precatório ou da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte. Incidência da Súmula n. 83/STJ.
+2. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 1.871.603/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+Ante o exposto, conheço em parte do recurso especial para negar-lhe provimento.
+Deixo de majorar os honorários, nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. PEDIDO POSTERIOR DE RESERVA DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
