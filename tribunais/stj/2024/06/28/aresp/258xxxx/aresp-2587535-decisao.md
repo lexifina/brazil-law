@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 210-220 e-STJ):
+APELAÇÃO. PLANO DE SAÚDE. CUSTEIO DE MEDICAMENTO. URTICÁRIA CRÔNICA. OMALIZUMABE. Sentença de procedência. Insurgência da requerida, sob os argumentos de que o medicamento é de uso domiciliar, bem como de que rol da ANS é taxativo e que a limitação contratual conforme este rol é legal. JULGAMENTO. Conceito de medicamento que não pode ser confundido com o de tratamento. Lei nº 9.656/98 que prevê excepcionalmente a hipótese de custeio de medicamentos antineoplásicos pelas operadoras de planos de saúde. Além destes, há também obrigatoriedade de custeio daqueles administrados por profissional da saúde, em ambiente ambulatorial ou hospitalar ou quaisquer medicamentos ministrados em regime de home care, que é considerado extensão da internação hospitalar. Hipótese dos autos de medicamento em forma de injeção subcutânea cujas três primeiras aplicações devem ser realizadas por profissional de saúde. Demais aplicações que podem ser realizadas pelo paciente, caso o médico assim entenda, nos termos da bula. Desta forma, não se trata de simples medicamento de uso doméstico, estando caracterizada a hipótese excepcional de custeio. Inclusão no rol da ANS para tratamento da patologia que acomete a autora. Sentença mantida. Recurso desprovido.
+Em suas razões de recurso especial (fls. 221-232 e-STJ), a parte recorrente aponta violação aos artigos 10, inc. VI, 12, inc. II, alínea "d", da Lei nº 9.656/98; 4º da Lei nº 9.961/00, sustentando, em suma, a legalidade da negativa de cobertura, eis que o procedimento médico perseguido pelo segurado - medicamento de uso domiciliar - não está inserido no rol taxativo de procedimentos e eventos em saúde editado pela ANS, limitação expressamente prevista no contrato de plano de saúde.
+Contrarrazões às fls. 243-248 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 249-250 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) não ter ficado demonstrada a vulneração aos dispositivos legais apontados como violados; e b) aplicação do óbice da Súmula 7/STJ.
+Daí o agravo (fls. 253-261 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 265-271 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal à verificação acerca da legalidade da negativa pela operadora do plano de saúde de procedimento médico requerido pelo segurado, sob a alegação de não estar previsto no rol de procedimentos da ANS.
+Sobre o tema, a Segunda Seção deste STJ, no julgamento dos EREsps n. 1886929/SP e n. 1889704/SP, firmou entendimento no sentido de que o rol da ANS não pode ser considerado meramente exemplificativo, sob pena de se inviabilizar a saúde suplementar.
+Na oportunidade, foram fixadas as seguintes premissas que devem orientar a análise da controvérsia:
+(a) o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+(b) a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+(c) é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+(d) não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que: (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Na presente hipótese, o Tribunal de origem manteve a sentença de procedência do pedido inicial, que entendeu ser devida a cobertura do procedimento médico requerido pelo segurado, sob a seguinte fundamentação (fls. 216-220 e-STJ):
+Aqui, a hipótese abrange os medicamentos cujas respectivas bulas indiquem a necessidade de aplicação por profissional da saúde habilitado. (..).
+Na hipótese dos autos, trata-se de medicamento em forma de injeção subcutânea cujas três primeiras aplicações devem ser realizadas por profissional de saúde, conforme trecho da bula colacionado pela própria apelante (fls. 163).
+As instruções quanto ao uso do medicamento também indicam que as demais aplicações podem ser realizadas pelo paciente, caso o médico assim entenda.
+Ou seja, além das três primeiras aplicações em ambiente ambulatorial, seja pelo profissional ou sob sua orientação direta, o médico pode constatar a necessidade de que as demais doses não sejam aplicadas em ambiente domiciliar.
+Desta forma, não se trata de simples medicamento de uso doméstico, estando caracterizada a hipótese excepcional de custeio.
+É de se frisar, ainda, que houve a inclusão do medicamento no rol da ANS para o tratamento da patologia que acomete a autora.  grifou-se
+Nas razões do recurso especial, contudo, a parte insurgente limita-se a sustentar a legalidade da negativa de cobertura, eis que o procedimento médico perseguido pelo segurado - medicamento de uso domiciliar - não está inserido no rol taxativo de procedimentos e eventos em saúde editado pela ANS, limitação expressamente prevista no contrato de plano de saúde.
+Nada tratou dos fundamentos, suficientes, por si só, para manutenção do acórdão recorrido, no sentido de que: i) "não se trata de simples medicamento de uso doméstico, estando caracterizada a hipótese excepcional de custeio"; e ii) "que houve a inclusão do medicamento no rol da ANS para o tratamento da patologia que acomete a autora".
+Observa-se, assim, que as razões recursais se encontram dissociadas dos fundamentos do acórdão recorrido.
+Infere-se, assim, a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO EMBARGANTE.
+1. Admissível o agravo interno, apesar de não infirmar a totalidade da decisão monocrática recorrida, pois a jurisprudência do STJ é assente no sentido de que a impugnação a capítulos autônomos da decisão apenas induz à preclusão das matérias não discutidas.
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando a Corte de origem decide de modo fundamentado, como ocorre na hipótese, Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a aplicação das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. A revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a insuficiência de provas quanto ao bem ser o único da família ou servi-lhe de residência ou, ainda, de subsídio para essa. Incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1215038/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 590.018/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017)  grifou-se
+2. Ademais, observa-se que as instâncias ordinárias ao entenderem que a operadora de plano de saúde não podia ter negado a cobertura do procedimento cirúrgico solicitado na espécie, não divergiu dos entendimentos firmados no julgamento dos EREsps n. 1886929/SP e n. 1889704/SP, por esta Corte Superior. Incidência do óbice da Súmula 83/STJ.
+Logo, deve ser mantida a decisão que determinou a cobertura, em razão da demonstração de efetiva e excepcional necessidade de cobertura do procedimento não previsto.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por fim, tendo em vista a fixação dos honorários sucumbenciais no percentual máximo estabelecido no § 2º do art. 85 do CPC/15, deixa-se de majorá-los nesta oportunidade.
+Publique-se.
+Intimem-se.
+EMENTA
