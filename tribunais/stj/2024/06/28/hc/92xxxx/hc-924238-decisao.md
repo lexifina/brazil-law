@@ -1,0 +1,22 @@
+DECISÃO
+GUSTAVO ELIAS BRITO DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1509452-05.2020.8.26.0019).
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 1 ano e 8 meses de reclusão, em regime aberto, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+O Tribunal de origem deu provimento ao recurso do Ministério Público, afastou a incidência da minorante do tráfico e tornou a reprimenda definitiva em 5 anos de reclusão, em regime fechado, mais multa.
+A defesa pleiteia, por meio deste writ, a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas no patamar máximo de 2/3 e a fixação do regime aberto, tal como estabelecido pelo Juiz sentenciante.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Tribunal de origem considerou indevida a incidência da referida minorante, com base nos seguintes fundamentos (fl. 27):
+ ..  o apelante foi surpreendido com grande quantidade de crack mais de 340 porções - que nada mais é que cocaína solidificada em cristais e é considerado um dos entorpecentes mais nefastos e viciantes, pois, além de sua absorção acontecer diretamente no pulmão, sendo extremamente mais intenso que a própria cocaína, o efeito dura em cerca de 10 a 15 minutos, estimulando, assim, seus usuários a sempre quererem mais.
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, a quantidade e a natureza da droga apreendida foi sopesada para, isoladamente, levar à conclusão de que o réu se dedicaria a atividades criminosas e/ou integraria organização criminosa, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve a ordem ser concedida, inclusive liminarmente, a fim de aplicar, em favor do acusado, o referido benefício.
+Por conseguinte, restabeleço a sentença condenatória, no ponto em que aplicou o redutor em 2/3, fixou pena do paciente em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa e estabeleceu o regime inicial aberto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado e, por conseguinte, restabelecer a pena aplicada na sentença condenatória, nos termos em que anteriormente explicitados.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
