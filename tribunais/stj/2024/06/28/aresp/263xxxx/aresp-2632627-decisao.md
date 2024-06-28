@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por JOÃO MARTINS DE ARAÚJO com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça do Estado do Tocantins (e-STJ, fls. 64-65):
+AGRAVO DE INSTRUMENTO. PEDIDO DE INCLUSÃO DE LITISCONSORTE PASSIVO APÓS A CITAÇÃO. ALTERAÇÃO DO PEDIDO E CAUSA DE PEDIR. NECESSIDADE DE CONSENTIMENTO DO RÉU. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+1. O agravante alega que a inclusão das referidas empresas no polo passivo não importaria em alteração do pedido ou da causa de pedir, o que afastaria a aplicação do art. 329 do CPC. Entretanto, o fundamento para o pedido de inclusão das referidas empresas alteraria a causa de pedir.
+2. A causa de pedir indicada na inicial é a falha na prestação de serviços por parte da UNIMED FEDERACAO INTERFEDERATIVA DASCOOPERATIVAS MEDICAS DO CENTRO OESTE E TOCANTINS (EMLIQUIDACAO EXTRA JUDICIAL).
+3. Já o pedido para inclusão das empresas UNIMED VALE DO JAURUCOOPERATIVA DE TRABALHO MÉDICO, UNIMED RIO VERDECOOPERATIVA DE TRABALHO MÉDICO e UNIMED CÁCERESCOOPERATIVA DE TRABALHO MÉDICO é baseado no fato de que tais sociedades compunham o quadro societário da primeira e, segundo o recorrente, deveriam responder solidariamente por fazer parte do mesmo grupo econômico. Desse modo, haveria alteração na causa de pedir, o que atrairia a aplicação do art. 329 do CPC.
+4. A alteração da composição da relação jurídica processual é limitada aos momentos e hipóteses previstas na legislação processual civil.
+5. Agravo de Instrumento Não Provido.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou (e-STJ, fls. 115-116).
+Nas razões do recurso especial (e-STJ, fls. 125-148), o insurgente apontou violação aos arts. 19 e 34 do CDC; aos arts. 329, II, e 346 do CPC/2015; e aos arts. 3º, 4º, 5º, 6º, 63 a 78 e 79 da Lei n. 5.764/1971.
+Além do dissídio jurisprudencial, alegou que, por força dos arts. 19 e 34 do Código de Defesa do Consumidor e da teoria da aparência, respondem solidariamente por serem partes do mesmo grupo econômico, porquanto, utilizam a mesma marca na captação de clientes.
+Sustentou que "por integrarem a mesma rede de cooperativa, ainda que possuam personalidade jurídica e base geográfica distintas, respondem solidariamente pelos danos causados pela Recorrida, consequentemente, pelos débitos junto a seus credores" (e-STJ, fl. 133).
+Não foram apresentadas as contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 7 e 211 deste Superior Tribunal (e-STJ, fls. 239-243), o que ensejou a interposição do presente agravo (e-STJ, fls. 251-262).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De saída, no que tange às supostas violações aos dispositivos invocados do Código de Defesa do Consumidor e da Lei n. 5.764/1971, nota-se que, não obstante a oposição dos embargos declaratórios, a Corte de origem não enfrentou a questão, deixando de cumprir o requisito indispensável do prequestionamento.
+Em verdade, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, e o seu descumprimento obsta o conhecimento do recurso especial pela incidência da Súmula n. 211/STJ.
+Ilustrativamente (sem grifos no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. INDENIZAÇÃO DE HORAS TRABALHADAS. SUPLEMENTAÇÃO DE APOSENTADORIA. MATÉRIA REPETITIVA. JUÍZO DE CONFORMIDADE. DISTINGUISHING REALIZADO. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 211/STJ. LINDB. ÍNDOLE CONSTITUCIONAL.
+1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+2. Na espécie a recorrente não impugnou o fundamento do acórdão recorrido que fez a distinção entre o presente caso concreto e aquele decidido no recurso especial repetitivo 1.312.736/RS, destacando que a verba em questão, denominada Indenização de Horas Trabalhadas (IHT), sempre integrou a remuneração do beneficiário, não se tratando, portanto, de uma parcela salarial reconhecida pela Justiça do Trabalho.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+Quanto à questão central da controvérsia, a Corte de origem, quando do julgamento do agravo de instrumento, rejeitou o pedido de inclusão das demais empresas no polo passivo sob o fundamento de que o pedido de inclusão alteraria a causa de pedir.
+Veja-se (e-STJ, fls. 57-58):
+Inconformado com a referida decisão, o autor interpôs o presente Agravo de Instrumento. Em suas razões, alega que não há o que se falar em aplicação do artigo 329 do CPC, considerando que, na interpretação literal, não se pode alterar o pedido e causa de pedir, sendo a lei omissa em relação ao polo passivo.
+Afirma que foi decretada a revelia da Agravada, ou seja, não há oque se falar em direito ao contraditório previsto no referido artigo, devendo ser desconsiderada a manifestação de não concordância.
+Assevera que a inclusão de novos réus, além de em nada agravar aposição da ré primitiva, favorece-a processualmente, pois não irá assumir sozinha o risco de ser responsabilizada objetivamente pelos danos morais e materiais pleiteados na inicial, sendo nesses casos admissível no ordenamento jurídico a alteração do polo passivo da lide para nele incluir-se outro réu, independentemente de consentimento do citado.
+Pois bem, entendo que o recurso não merece provimento.
+O agravante alega que a inclusão das referidas empresas no polo passivo não importaria em alteração do pedido ou da causa de pedir, o que afastaria a aplicação do art. 329 do CPC.
+Entretanto, entendo que o fundamento para o pedido de inclusão das referidas empresas alteraria a causa de pedir
+A causa de pedir indicada na inicial é a falha na prestação de serviços por parte da UNIMED FEDERACAO INTERFEDERATIVA DAS COOPERATIVAS MEDICAS DO CENTRO OESTE E TOCANTINS ( EM LIQUIDACAO EXTRA JUDICIAL).
+Já o pedido para inclusão das empresas UNIMED VALE DO JAURU COOPERATIVA DE TRABALHO MÉDICO, UNIMED RIO VERDE COOPERATIVA DE TRABALHO MÉDICO, e UNIMED CÁCERES COOPERATIVA DE TRABALHO MÉDICO é baseado no fato de que tais sociedades compunham o quadro societário da primeira, devendo portanto, responder solidariamente por fazer parte do mesmo grupo econômico.
+Desse modo, entendo que haveria alteração na causa de pedir, oque atrairia a aplicação do art. 329 do CPC.
+A esse respeito, n os termos da jurisprudência desta Corte, em homenagem aos princípios da efetividade do processo, da economia processual e da instrumentalidade das formas, é admissível a emenda à petição inicial para a modificação das partes, sem alteração do pedido ou da causa de pedir.
+Dessa forma, a revisão do julgado quanto à conclusão alcançada pela Corte de origem no sentido de que a inclusão das empreses na demanda acarretaria alteração da causa de pedir importa necessariamente o reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado da Súmula n. 7 deste Superior Tribunal.
+No ponto (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RETIFICAÇÃO DO POLO ATIVO. POSSIBILIDADE. INEXISTÊNCIA DE MODIFICAÇÃO DA CAUSA DE PEDIR OU PEDIDO. RELATIVIZAÇÃO. CABIMENTO. REEXAME. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de enfrentamento pelo Tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+2. Em homenagem aos princípios da efetividade do processo, da economia processual e da instrumentalidade das formas, pode eventualmente ser admitida a emenda à petição inicial para a correção do polo processual, com relativização da regra do art. 329 do CPC (art. 264 do CPC/1973), desde que isso não acarrete prejuízo processual ou alteração da causa de pedir ou do pedido.
+3. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.160.165/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Por fim, o recurso especial não pode ser conhecido com fundamento no artigo 105, III, c, da Constituição Federal, pois a parte recorrente não comprovou a divergência jurisprudencial, visto que não foi cumprido nenhum dos requisitos previstos nos artigos 1.029, § 1º, do Código de Processo Civil de 2015, e 255, § 1º, do Regimento Interno desta Corte.
+Ilustrativamente (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NÃO CABIMENTO. RESPONSABILIDADE CIVIL NÃO DEMONSTRADA. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 do Superior Tribunal de Justiça).
+2. Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos artigos 1.029, § 1º, do Código de Processo Civil de 2015, e 255, § 1º, do Regimento Interno desta Corte. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.892.888/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PEDIDO DE INCLUSÃO DE LITISCONSORTE ATIVO. AGRAVO DE INSTRUMENTO. 1. CDC E LEI N. 5.764/1971. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. 2. DIREITO PROCESSUAL CIVIL. INCLUSÃO DE LITISCONSORTE. AUTERAÇÃO DA CAUSA DE PEDIR. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. EXAME DE DISSENSO JURISPRUDENCIAL INVIÁVEL. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
