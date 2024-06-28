@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o apelo nobre com fundamento na Súmula 7/STJ.
+Consta dos autos que o recorrente foi condenado como incurso nas penas do art. 155, § 4º, I, II, IV c/c o art. 14, II, ambos do Código Penal, à pena definitiva de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, além do pagamento de 32 dias-multa.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, sustenta o agravante, em apertada síntese, violação do art. 33, § 2º, c, do Código Penal, porquanto "a fixação do regime inicial semiaberto para o cumprimento da pena, apenas com fundamento na reincidência, está eivada de desproporcionalidade, posto que faltavam apenas seis meses para que o Réu atingisse o período de depuração, previsto no Art. 64, I, do Código Penal, em que a reincidência em si seria considerada caducada" (fl. 239).
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise do mérito.
+Apresentada a contraminuta na origem, foram os autos remetidos a essa Corte Superior, manifestando-se o Ministério Público Federal pelo improvimento do agravo.
+Em relação ao regime prisional fixado, o voto condutor foi assim entabulado (fl. 209):
+A Defesa pugna pela alteração do regime inicial de cumprimento de pena, para o aberto, ao argumento de que a pena privativa de liberdade é inferior a 4 (quatro) anos de reclusão e a reincidência, por si só, não justifica a adoção de regime mais gravoso.
+Na situação dos autos, a Magistrada Sentenciante fixou o regime semiaberto como inicial para cumprimento de pena, em razão da reincidência, fundamento que reputo adequado para a aplicação de regime mais gravoso e que ratifico nesta oportunidade. Além disso, não se pode olvidar que, embora condenado a uma pena corporal de 1 (um) ano e 2 (dois) meses, o Apelante também ostenta circunstâncias judiciais desfavoráveis. Em igual direção: STJ, AgRg no AREsp 2348217/SP, da Quinta Turma. Rel. Ministro Reynaldo Soares da Fonseca, j. 26/09/2023; Dje 29/09/2023; AgRg no AgRg no AREsp 2406825/DF, da Sexta Turma. Rel. Ministro Rogério Schietti Cruz, j. 10/10/2023; DJe 18/10/2023.
+O fato de o acusado ser reincidente é motivo suficiente e idôneo para acarretar o recrudescimento do regime prisional, a teor do art. 33, § 2º, b e c, do Código Penal. A reincidência trata-se de critério objetivo previsto em lei, impondo-se, acaso reconhecida, o recrudescimento do regime prisional, pouco importando se o período depurador, previsto no art. 64, I, do Código Penal, está próximo de ser alcançado ou não.
+No presente caso, aliás, além da reincidência, a sanção inicial do réu foi fixada acima do mínimo legal, de modo que há, na espécie, fundamento apto até mesmo para a aplicação do regime prisional fechado e não apenas do semiaberto; não havendo, portanto, no ponto, violação de lei federal a se reconhecer.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
