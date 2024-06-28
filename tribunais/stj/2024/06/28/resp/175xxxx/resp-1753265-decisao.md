@@ -1,0 +1,32 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado (ED na Apelação Criminal n. 1.0024.15.224343-2/002).
+Consta dos autos que o recorrido foi condenado, em primeiro grau, à pena de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática dos crimes previstos nos arts. 33, caput e § 4º, da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003.
+Ambas as partes interpuseram apelação. O recurso do Ministério Público não foi conhecido, sob o argumento de que fora ajuizado intempestivamente. Já o da defesa foi provido, a fim de absolver o réu, por ausência de provas acerca da materialidade dos delitos.
+Nas razões deste recurso, o Ministério Público aponta violação dos arts. 33, caput e § 4º; 50, caput e §§ 1º e 2º, todos da Lei n. 11.343/2006; 12 e 16 da Lei n. 10.826/2003; 155, 158, 167 e 386, II, do CPP; 1.022 e 1.025 do CPC.
+Aduz, de início, que o recurso de apelação fora interposto tempestivamente. Para tanto, argumenta: "se é certo que, na movimentação processual produzida pelo TJMG, há a informação de que os autos foram direcionados ao Ministério Público em 28 de julho de 2016 - em consonância com o carimbo de vista de fl. 128v, também é certo que naquele mesmo verso de fl. 128, há o carimbo de recebimento pelo Ministério Público certificando que os autos somente foram recebidos na data de 1 de agosto de 2016 - o que torna tempestivo o recurso ministerial" (fl. 413). Isso porque o recurso fora protocolado em 8/8/2016.
+Na sequência, sustenta que o fato de o laudo toxicológico definitivo não haver sido assinado pelo expert responsável por sua confecção não afasta a existência de provas acerca da materialidade dos delitos, notadamente quando verificado que há outras provas colhidas durante a instrução criminal que corroboram a materialidade de ambos os crimes.
+Requer, assim, o provimento do recurso, "para que seja conhecido o recurso de apelação interposto pelo Ministério Público, decotando-se a minorante do § 4º, do artigo 33, da Lei de Tóxicos e o abrandamento do regime prisional indevidamente concedidos ao recorrido, impondo-se o regime inicial fechado, majorando-se, a pena-base aplicada e que seja o recorrido condenado ao pagamento das custas processuais, para todos os fins de direito" (fl. 449).
+Decisão de admissibilidade às fls. 462-463.
+O Ministério Público Federal manifestou-se pelo provimento do recurso, "para que seja cassado o v. aresto recorrido, determinando-se à Corte de origem que outro seja proferido, após o conhecimento do recurso de Apelação formulado pelo Ministério Público como entender de direito aquele Colegiado" (fl. 479).
+Decido.
+Primeiramente, por questão lógica, cumpre-se analisar a questão relativa à tempestividade ou não do recurso de apelação interposto pelo Ministério Público.
+O Tribunal de origem, ao concluir pela intempestividade da apelação ajuizada pelo órgão ministerial, assim fundamentou (fls. 329-330):
+Inicialmente, registro que o recurso interposto pelo Ministério Público do Estado de Minas Gerais não merece ser conhecido, por ser intempestivo.
+Com efeito, verifica-se após a prolação da sentença condenatória a acusação foi intimada em 22/07/2016, conforme ciente aposto à f. 123v, tendo interposto embargos de declaração, f. 124/127, que foram rejeitados em 28/07/2017, f. 128.
+Em 28/07/2016, conforme f. 128v, os autos foram com vista ao Ministério Público, sendo que segundo informação da movimentação processual de 1º Instância, extraída do sítio deste eg. TJMG, os autos foram "entregues em carga ao Ministério Público - Promotor (a) 20001604" em 29/07/2016.
+No entanto, os autos foram devolvidos à Secretaria do Juízo no dia 01/10/2016, segundo f. 128v e informação do sítio do TJMG, e o termo de interposição da apelação fora protocolado apenas em 08/08/2016, conforme se verifica à f. 139, ou seja, com transcurso superior ao prazo de 5 (cinco) dias para apresentação do recurso.
+Dessa forma, não computando a data do início (29/07/2016) e incluindo-se a do vencimento (05/08/2016), consoante disposto no artigo 798, § 1º do Código de Processo Penal, temos que o prazo fatal ocorreria em 05/08/2016, uma sexta-feira, e não 08/08/2016, segunda-feira.
+Portanto, resulta evidente a intempestividade do recurso do Ministério Público.
+No entanto, consoante o órgão ministerial, houve equívoco na referida certidão, porque, segundo alega, os autos foram entregues na repartição administrativa do órgão em 1º/8/2016, e não em 28/7/2016.
+Em atenção ao despacho de fls. 481-482, o Tribunal de Justiça do Estado de Minas Gerais esclareceu o seguinte, no que interessa (fl. 488, destaquei):
+A sentença condenatória foi publicada em 20.07.2016 (fl . 123 dos autos físicos) Os autos então foram encaminhados ao Ministério Público e recebido no órgão no dia 21.07.2016 (fl . 123v dos autos físicos).
+Na ocasião, foram opostos embargos de declaração pelo órgão ministerial, que foram protocolados no dia 25.07.2016 (fl s. 124/127 dos autos físicos).
+Os embargos foram rejeitados (fl . 128 dos autos físicos) e os autos foram novamente encaminhados ao MP para intimação, aportando naquele órgão no dia 01.08.2016 (fl . 128v dos autos físicos).
+O Ministério Público, então, interpôs recurso de apelação que foi protocolado no dia 08.08.2016 (fl . 139 dos autos físicos). A defesa também interpôs recurso de apelação.
+Assiste razão, portanto, ao Ministério Público, ao afirmar que os autos foram recebidos no órgão somente em 1º/8/2016, segunda-feira, consoante certificado à fl. 128v dos autos principais.
+Assim, o prazo para a interposição do recurso de apelação (cinco dias) esgotou-se na segunda-feira subsequente, dia 8/8/2016, data em que houve a efetiva protocolização do recurso, a deixar evidente que o apelo do Ministério Público é, sim, tempestivo.
+À vista do exposto, dou provimento ao recurso especial, para reconhecer a tempestividade do recurso de apelação interposto pelo Ministério Público (Apelação Criminal n. 1.0024.15.224343-2/001) e, por conseguinte, determinar o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais, para que, dada a tempestividade do apelo, prossiga em seu julgamento, como entender de direito.
+Fica, por conseguinte, esvaída a análise das demais matérias aventadas neste recurso.
+Comunique-se, com urgência, o inteiro teor desta decisão à instância de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
