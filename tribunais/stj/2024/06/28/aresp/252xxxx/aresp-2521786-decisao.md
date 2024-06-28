@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fls. 281):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA DE VERBA SALARIAL. IMPOSSIBILIDADE. EXEGESE ART. 833, IV, CPC/15. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO MANTIDA.
+A decisão agravada aplicou o melhor direito ao caso concreto, posto que, conforme entendimento do Superior Tribunal de Justiça, a regra da impenhorabilidade de salários só pode ser excepcionada, desde que preservada a dignidade do devedor e de sua família, em dois casos: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvadas eventuais particularidades do caso concreto.
+Imperioso destacar o quanto disposto art. 833, IV, do Código de Processo Civil: "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal" são, ao menos a princípio, impenhoráveis.
+RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 335/336).
+Aponta a recorrente divergência jurisprudencial acerca da interpretação do artigo 833, IV, do Código de Processo Civil, argumentando, em síntese, que o acórdão recorrido teria adotado orientação diversa da que consolidada no âmbito desta Corte quanto ao caráter relativo da impenhorabilidade prevista no dispositivo referido.
+Defende seja reconhecida, de modo imediato, a penhora no percentual de 30% do valor constrito.
+Contra-arrazoado (fls. 372/380), o recurso especial não foi admitido na origem (fls. 402/403), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem, apesar de admitir a possibilidade de penhora do salário, caso o valor constrito não inviabilize a subsistência do executado, não exerceu juízo de ponderação com base nas peculiaridades específicas do caso concreto (fls. 295/297).
+Ao analisar a decisão agravada, observo que o juízo de origem determinou o desbloqueio do valor penhorado, única e exclusivamente, diante do vínculo laboral do executado, expressivo da origem salarial da verba. A propósito, extraio da referida decisão (fls. 227/228):
+De acordo com o contracheque de fl. 197, constata-se que o Executado percebe remuneração da empresa Associação Salgado de Oliveira Educação Cultura, cujo valores são depositados no Banco Bradesco n. 237, agência 35734, conta 401676, mesma conta na qual foi efetuado o bloqueio no valor de R$ 4.492,13, conforme documento de fls. 204/205 e 206, configurando, assim, o vínculo da conta com a sua fonte de rendimento enquanto assalariado.
+O documento de fl. 198, por sua vez, revela que o Executado também percebe remuneração da Universidade Federal de Feira de Santana, através da conta n. 000038932-3, agência 0006, Banco do Brasil n. 001, porém não foi realizado nenhum bloqueio junto ao respectivo banco.
+No que diz respeito ao bloqueio efetivado junto ao SICOOB, no valor de R$ 3.311,35, o documento de fls. 207/212, mostra-se insuficiente para comprovar que o valor bloqueado é oriundo de eventual honorário.
+Diante do exposto, defiro em parte o quanto requerido às fls. 187/191, para determinar o imediato desbloqueio da quantia de R$ 4.492,13 do Banco Bradesco (fl. 184), em face do quanto disposto no art. 833, IV, do CPC.
+Na hipótese de o valor já se encontrar disponível em conta judicial, deverá ser expedido o respectivo alvará em favor da parte executada, devidamente corrigido.
+O bloqueio efetivado junto ao SICOOB, no valor de R$ 3.311,35, deve ser transferido para uma conta judicial à disposição deste Juízo, na hipótese de ainda não ter sido feito.
+Intimem-se. (grifo acrescido)
+Como se vê, o juízo de origem pressupõe a natureza meramente salarial do valor constrito para concluir por sua impenhorabilidade, revelando a circularidade da assertiva constante no acórdão recorrido de que teria sido feito exame contextual da situação do executado, para o mesmo fim; o que efetivamente não ocorreu.
+A orientação adotada está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que é possível a mitigação da regra de impenhorabilidade de verba salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, desde que preservado o direito de sobrevivência digna do devedor e de sua família.
+A propósito, confira-se:
+ ..
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19.4.2023, DJe de 24.5.2023.)
+Portanto, tratando-se de dívida de caráter não alimentar, como no caso, e de devedor com remuneração inferior a cinquenta salários mínimos, diante do que decidido por esta Corte, resta verificar se poderia ser penhorado 30% do seu salário, ou se, com isso, seria afetada a sua subsistência digna e a de sua família.
+De todo modo, ainda que reconhecido o equívoco no acórdão recorrido, fica inviabilizada a aplicação do direito na espécie, conforme previsto no art. 1.034 do Código de Processo Civil (Súmula n. 456 do STF), sob pena de reexame do contexto fático-probatório, vedado em sede de recurso especial (Súmula n. 7 do STJ).
+Na hipótese dos autos, considerando que o TJBA não chegou a analisar o impacto da continuidade da penhora de 30% da verba salarial do recorrido na sua subsistência, devem os autos retornar à origem para que o pleito seja analisado com base no novo entendimento fixado pelo STJ.
+Em face do exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de Justiça do Estado da Bahia, a fim de que avalie se a continuidade da penhora de 30% sobre o salário do devedor afetaria a sua subsistência digna e a de sua família.
+Intimem-se.
+EMENTA
