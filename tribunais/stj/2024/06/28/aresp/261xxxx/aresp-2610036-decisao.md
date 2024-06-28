@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. DECISÃO QUE REJEITA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NOTIFICAÇÃO DE AUTUAÇÃO DA EXECUTADA POR EDITAL, SEM PRÉVIO ESGOTAMENTO DE OUTRAS MODALIDADES. NULIDADE CARACTERIZADA. CIENTIFICAÇÃO PESSOAL SOMENTE APÓS A INAUGURAÇÃO DO PROCESSO EXECUTIVO. VULNERAÇÃO DO CONTRADITÓRIO E DA AMPLA DEFESA NA SEARA ADMINISTRATIVA. AGRAVO PROVIDO PARA ACOLHER A "EXCEPTIO" E EXTINGUIR O PROCESSO, COM IMPOSIÇÃO DE VERBA HONORÁRIA AO EXEQUENTE.
+Os Embargos de Declaração foram rejeitados (fl. 197, e-STJ).
+No Recurso Especial, a agravante sustenta:
+(..)
+Em análise integrativa, porém, o Tribunal a quo rejeitou os Aclaratórios, sob o fundamento de que, no caso concreto, "o valor da causa (fl. 1 na origem R$ 866.238,43*) corresponde ao proveito econômico obtido pela contribuinte, pois a CDA indica exatos R$ 866.238,43* (fls. 2 dos autos principais campo "Valor Atualizado")".
+Ou seja, segundo o entendimento do Tribunal a quo o termo "valor da causa" previsto no art. 85, §§ 2º, 3º e 4º, III do CPC se equipararia ao "proveito econômico" em se tratando de Execução Fiscal. Ao assim entender, com a devida vênia, o v. acórdão recorrido violou o dispositivo em questão.
+Esta é a razão pela qual, as Recorrentes T4F e Lacaz Martins - esta última interessada na condição de patrono do feito e titular dos honorários sucumbenciais arbitrados - interpõem o presente Recurso Especial; pois, em que pese a irretocabilidade do v. acórdão recorrido quanto ao mérito da discussão e quanto à aplicação do art. 85, § 3º do CPC para a fixação dos honorários advocatícios em face ao Município de São Paulo, o referido aresto incorreu em violação à legislação federal quando determinou que os percentuais mínimos do art. 85, § 3º do CPC deveriam incidir sobre "valor da causa" e não sobre o "proveito econômico".
+(..)
+O v. acórdão recorrido aplicou o art. 85, § 3º do CPC e determinou que o cálculo dos honorários advocatícios fosse feito sobre o valor da causa, entendendo que o valor da causa - por coincidir com o valor do débito no momento em que a Execução Fiscal foi ajuizada - corresponderia ao proveito econômico.
+Os contornos da discussão para que este E. STJ analise se houve ou não violação ao real intento do legislador quando diferenciou, no art. 85, §§ 2º, 3º e 4º, III do CPC, os conceitos de "valor da causa" e "proveito econômico", estão postos no próprio acórdão recorrido, sem que se exija desta Corte a análise de qualquer questão além do que ali foi registrado.
+Por essas razões, o presente Recurso Especial deve ser admitido e devidamente processado, por não se aplicar a vedação da Súmula 7/STJ, tendo em vista que, para se analisarem as violações à legislação federal que aqui são suscitadas, basta se averiguar se o v. acórdão recorrido aplicou corretamente a legislação federal para a solução do caso concreto, delimitado nos estritos termos desenhados pelo E. Tribunal a quo.
+(..)
+V.1. VIOLAÇÃO AO ART.85, §§ 2º, 3º E 4º, III DO CPC
+O § 2º do art. 85 do CPC prevê que: "(..) Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa (..)", complementado pelo próprio § 3º, que também prevê a fixação sobre o "proveito econômico obtido". No mesmo sentido, o art. 85, § 4º, III do CPC, assim prevê:
+(..)
+Nota-se, assim, que o legislador ordinário - não propositalmente -trouxe dois conceitos distintos: valor de causa e proveito econômico. Aliás, da mais singela leitura dos dispositivos transcritos linhas acima, é possível depreender que, na verdade, há uma ordem a ser observada para a apuração dos honorários advocatícios imputados à parte vencida: primeiro, deve-se calcular sobre o proveito econômico, e somente no caso de não ser possível fazê-lo, calcula-se sobre o valor da causa. A distinção que se traz à lume não é inédita e também não passou despercebida por este E. STJ no julgamento do Tema 1076 dos Recursos Repetitivos, quando esta Colenda Corte segregou, em hipóteses distintas e subsequentes, o proveito econômico e o valor da causa.
+Contraminuta às fls. 275-290, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.6.2024.
+Ao decidir a vexata quaestio, a Corte local consignou:
+(..)
+A execução foi inaugurada no dia 23/05/2019* (fls. 48 lateral direita) e a cientificação da T4F se deu apenas em 07/06/2019* (fls. 85, derradeiro parágrafo; fls. 87).
+Diante desse quadro, são nulos o auto de infração n. 137117-4 e a CDA copiada a fls. 49, por falta de prévia notificação válida.
+Julgando recurso interposto em processo que envolvia o mesmo ente federativo, esta Corte decidiu:
+(..)
+Por todo o exposto, meu voto dá provimento ao agravo para: i) acolher a exceção e extinguir a execução fiscal com autos n. 1529950-40.2019.8.26.0090 (art. 485, inc. IV, do CPC c/c o art. 1º da LEF); ii) condenar o Município ao reembolso de custas/despesas processuais atualizadas e ao pagamento de honorários advocatícios nos percentuais mínimos (faixas/incisos do art. 85, § 3º, do CPC), tendo por base o valor da causa (fl. 1 na origem) corrigido desde a propositura.
+Nota-se que o Colegiado originário amparou-se no acervo documental dos autos para fixar os honorários advocatícios nos percentuais mínimos, utilizando o valor da causa como base de cálculo para o arbitramento.
+Desse modo, fica evidente que rever as conclusões adotadas pelo órgão julgador demandaria reexame fático-probatório, inadmissível na via especial ante o óbice da Súmula 7/STJ. Afasta-se, assim, a ideia de simples valoração da prova.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIÇOS PÚBLICOS. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VALOR DA CAUSA. ART. 292 DO CÓDIGO DE PROCESSO CIVIL. MENSURAÇÃO DO PROVEITO ECONÔMICO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O art. 292 do Código de Processo Civil estabelece que, na ação que tiver por objeto a existência, a validade, o cumprimento, a modificação, a resolução, a resilição ou a rescisão de ato jurídico, o valor da causa será correspondente ao ato ou o de sua parte controvertida. Ainda, o juiz corrigirá, de ofício e por arbitramento, o valor da causa quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor, caso em que se procederá ao recolhimento das custas correspondentes.
+III - O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, dimensionou o proveito econômico para definição do valor da causa. Rever o entendimento do Tribunal de origem demandaria necessário revolvimento de matéria fática, o que é inviável em sede de
+recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido. (AgInt no REsp 2.007.077/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15/12/2022)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. MENSURAÇÃO DO PROVEITO ECONÔMICO. REEXAME. SÚMULA 7/STJ.
+1. O Tribunal de origem, ao fixar a verba honorária, consignou (fl. 816,
+e-STJ): "Além do mais, inexistindo na petição inicial pedido expresso de condenação do réu/embargado em quantia líquida e não sendo possível à embargante mensurar o valor real do prejuízo econômico a que estava sujeita na data do ajuizamento da ação, restou ao juiz singular fixar a verba honorária com base no valor atualizado da causa, conforme indicado na peça vestibular, o que se encontra de acordo com o art. 85, § 2º, do CPC".
+2. De acordo com a jurisprudência do STJ, a cominação de honorários calculados sobre o valor da causa pressupõe a impossibilidade de que seja mensurado o proveito econômico, o que ocorre nos presentes autos. Tem-se, então, a seguinte ordem de preferência: "(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art.
+85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp 1.746.072/PR, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro Raul Araújo, Segunda Seção, DJe 29.3.2019).
+3. O STJ atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significa usurpação da competência das instâncias ordinárias. Aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determina a Súmula 7/STJ.
+4. Agravo Interno não provido. (AgInt no REsp 1.787.416/AP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4/11/2022)
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO VALOR DA CAUSA - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. O valor da causa em ação rescisória deve corresponder ao da ação originária, corrigido monetariamente, e na hipótese de discrepância entre o valor da causa originária e o benefício econômico buscado na rescisória, este último deve prevalecer. Incidência da Súmula 83/STJ.
+1.1. Rever o valor estimado pela Corte local a título de proveito econômico a ser obtido com a demanda demandaria revolvimento do acervo probatório. Incidência da Súmula 7/STJ.
+2. Agravo interno desprovido. (AgInt no Ag 1.403.972/ES, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 17/12/2021)
+Os fatos são aqui recebidos tal como estabelecidos pela instância ordinária, senhora da análise probatória. Se a violação dos dispositivos legais invocados perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão recorrido, inviável o apelo nobre.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
