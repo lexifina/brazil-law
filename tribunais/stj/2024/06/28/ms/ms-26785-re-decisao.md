@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 1.063-1.064):
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO INTERNO. ANISTIA. REVISÃO DE OFÍCIO. AUTOTUTELA. VIOLAÇÃO DE CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. NÃO OBSERVAÇÃO. JURISPRUDÊNCIA DA 1ª SEÇÃO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Administração Pública pode (e deve) rever de ofício seus atos maculados de ilegalidade, conforme a Súm. n. 473/STF. Porém, quando esse ato administrativo favorece particulares, eventual revisão deve observar processo administrativo com respeito ao devido processo legal, por força expressa do art. 5º, LV, da CF/1988 ("aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes").
+2. Quanto aos procedimentos de revisão de anistia de militares instaurados pela Ministra de Estado da Mulher, da Família e dos Direitos Humanos, a Primeira Seção, quando do julgamento do MS n. 26.496/DF, formou maioria acompanhando o voto-vista do E. Min. Gurgel de Faria. Decidiu-se que as notificações encaminhadas aos administrados sob o início do procedimento são nulas por serem genéricas, uma vez que não apresentam razões que levaram a administração pública entender pelo início da revisão. A nulidade dos processos administrativos é devida, porque não é possível obrigar que os administrados realizem defesa "às cegas", sendo necessário que a intimação do interessado contenha a indicação dos fatos e fundamentos legais (art. 26, § 1º, VI, da Lei n. 9.784/1999).
+3. Além disso, declarou-se que o processo de revisão de anistia não pode cercear a defesa dos particulares. Porém, não basta eventual alegação genérica de nulidade na inicial do mandado de segurança. Necessária a demonstração de abuso ilegal na condução do processo administrativo de modo que cabe ao impetrante indicar que houve pedido específico da defesa de produção de provas indeferido pela administração pública.
+4. Ademais, também houve declaração da impossibilidade de simples Nota Técnica elaborada por um único assessor especial da Ministra de Estado da Mulher, da Família e dos Direitos Humanos - não integrante de Comissão de Anistia ou de Força-Tarefa do junto a esse ministério -justificar a revisão de anistia concedida após exame um órgão colegiado (Conselho da Comissão de Anistia).
+5. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados com a seguinte ementa (fl. 1.107):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. A análise das razões recursais revela a pretensão da parte em alterar o resultado do julgado, o que é inviável nesta seara recursal.
+3. Embargos de declaração rejeitados.
+A parte recorrente aduz que há repercussão geral da matéria tratada e sustenta a ocorrência de violação dos arts. 5º, LXIX, da Constituição Federal e 8º do Ato das Disposições Constitucionais Transitórias.
+Nesse sentido, afirma que não seria possível a sucessão processual em mandado de segurança, porquanto se trata de ação de caráter personalíssimo.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 1.140).
+É o relatório.
+Verifica-se que o presente recurso foi interposto contra acórdão do STJ que concluiu que o óbito do impetrante no curso do mandado de segurança em que se discute a condição de anistiado desse não deve resultar na extinção do processo.
+Registrou-se, ademais, que a recorrida está habilitada no Ministério da Mulher, da Família e dos Direitos Humanos na condição de viúva e dependente do anistiado, tanto que ela foi notificada, em nome próprio, para se defender no procedimento administrativo de anulação da anistia.
+Ao assim decidir, constata-se que esta Corte Superior de Justiça acompanhou a jurisprudência do Supremo Tribunal Federal, que é firme no sentido de reconhecer a legitimidade da sucessão processual em mandado de segurança, no caso de falecimento do titular, tendo em vista a natureza indenizatória dos efeitos financeiros decorrentes do eventual reconhecimento da condição de anistiado político.
+A propósito:
+Agravo regimental em recurso ordinário em mandado de segurança. 2. Direito Administrativo e Processual Civil. Anistia política. 3. Falecimento do impetrante no curso do writ. 4. Natureza indenizatória dos efeitos financeiros referentes ao reconhecimento de anistiado político. Integração ao patrimônio do espólio. Precedentes de ambas as Turmas. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental não provido.
+(RMS n. 39.638-AgR, relator Ministro Gilmar Mendes, Segunda Turma, julgado em 11/6/2024, DJe de 14/6/2024.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 04.08.2023. EXECUÇÃO. MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. FALECIMENTO DO IMPETRANTE NO CURSO DO WRIT. HABILITAÇÃO DE HERDEIROS. LEGITIMIDADE. REPARAÇÃO ECONÔMICA. VALORES RETROATIVOS. NATUREZA INDENIZATÓRIA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos dos precedentes do Supremo Tribunal Federal, verifica-se que o acórdão recorrido, ao concluir pela legitimidade dos herdeiros/sucessores, devidamente habilitados, para requerer a execução do julgado, não divergiu da orientação desta Corte sobre o tema.
+2. Agravo regimental a que se nega provimento. Sem honorários, por se tratar de mandado de segurança na origem (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+(RE n. 1.444.799-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 18/3/2024, DJe de 9/5/2024.)
+Desse modo, estando o acórdão recorrido na mesma direção da jurisprudência firmada pela Suprema Corte, é impossível a admissão desta insurgência.
+Ante o exposto, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. ANISTIA. REVISÃO. MANDADO DE SEGURANÇA FALECIMENTO DO ANISTIADO. HABILITAÇÃO DE HERDEIRO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO INADMITIDO.
