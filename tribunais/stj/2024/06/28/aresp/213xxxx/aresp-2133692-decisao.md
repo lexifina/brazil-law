@@ -1,0 +1,44 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por RICARDO THADEU KASMANAS, com fundamento na ausência de violação do art. 1022 do CPC, incidência  da Súmula  7 do STJ e não comprovação do dissenso pretoriano, por não atender o requisito previsto no art. 1.029, § 1º, do CPC/2015.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "o tribunal recorrido não se manifestou sobre os pontos e matérias apontados pelo recorrente nos embargos de declaração" (fl. 524); "acostou a tal recurso especial, cópias dos acórdãos paradigmas da divergência jurisprudencial" (fl. 524); e que "não pode prosperar o entendimento da decisão ora agravada de que, o recurso especial envolveria reexame de fatos, quando se trata de violação ou ofensa à Lei Federal e divergência de jurisprudência" (fl. 528).
+Assevera, ainda, que "a constituição do crédito tributário da cobrança da diferença do imposto pago "a menor", ocorreu quando já consumada a decadência quinquenal ou prescrição quinquenal, pois, a autoridade coatora lavrou o AIIM-ITCMD (Auto de Infração e Imposição de Multa-ITCMD) nº 4.087.523-4, em 05/12/2016, e intimou e/ou notificou o impetrante de tal Auto de Infração, através do Diário Oficial do Estado do dia 15/12/2016 (fls. 58), quando a prescrição já tinha se consumado no dia 21/10/2016, data do óbito do pai do agravante, que é a data do fato gerador" (fl. 528).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+Nas razões recursais, a parte recorrente alega, além da divergência jurisprudencial, violação aos arts. 1.022, II, do CPC/2015 e 150,§ 4º, do CTN.
+De início, quanto à apontada violação ao 1.022, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes a não aplicação do art. 150, § 4º, do CTN, no caso em tela, de forma suficientemente ampla e fundamentada, consignando que (fls. 330-331e):
+ ..
+O prazo para por fim à exigência tributária nasce com o lançamento, ou no momento em que este deveria acontecer.
+No caso dos autos, o lançamento se opera com a homologação do imposto pago, ou pela constituição do crédito pela diferença reputada devida.
+Mas para que o lançamento possa ocorrer é preciso que o fisco tome conhecimento da ocorrência que faz nascer o tributo.
+ ..
+Era preciso, por isso, que tivesse havido o prévio pagamento, para que começasse a fluir o prazo para o fisco, ou homologar a operação e dar por cumprida a obrigação tributária ou discordar do pagamento e lançar o crédito que supostamente tem.
+Sem prévio pagamento inexiste ciência do fisco. Sem ciência não acontece a paralisia do credor, desídia que é requisito necessário para operar a decadência ou a prescrição.
+Outra coisa não falam os artigos 150§ 4º e 173, ambos do CTN, citados. Falam no início do prazo de cinco anos. Mas não afastam o ensinamento de que esse prazo se inicia do momento em que o tributo tem seu pagamento efetuado, pois é aí que o fisco toma conhecimento do quanto foi recolhido e precisa investigar se o recolhimento foi ou não correto.
+O recorrido e o juízo entenderam que o termo inicial do prazo decadencial coincidiria com a da morte do de cujus. Mas o prazo somente se iniciou com o pagamento do tributo, em 12 de janeiro de 2012.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Ademais, o Tribunal de origem assim fundamentou o acórdão recorrido:
+Outra coisa não falam os artigos 150§ 4º e 173, ambos do CTN, citados. Falam no início do prazo de cinco anos. Mas não afastam o ensinamento de que esse prazo se inicia do momento em que o tributo tem seu pagamento efetuado, pois é aí que o fisco toma conhecimento do quanto foi recolhido e precisa investigar se o recolhimento foi ou não correto (fl. 331).
+Assim, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Por fim, de acordo com a jurisprudência do STJ, "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no REsp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 14/4/2015, DJe de 23/4/2015).
+No caso, os acórdãos confrontados não possuem similitude fático-jurídica a comprovar a suposta divergência jurisprudencial apontada, que, como visto, pressupõe, além da mesma controvérsia jurídica, a identidade entre as situações fáticas.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DESCUMPRIMENTO CONTRATUAL. PAGAMENTO DO DÉBITO REFERENTE A NOTAS FISCAIS. FAZENDA PÚBLICA. QUANTIA VULTOSA. FORTES INDÍCIOS DE PAGAMENTO PARCIAL. CONVERSÃO DO JULGAMENTO DO RECURSO EM DILIGÊNCIA PARA EVITAR ENRIQUECIMENTO ILÍCITO. PAGAMENTO PARCIAL DEVIDAMENTE COMPROVADO. REANÁLISE. INCIDÊNCIA DA SÚMULA N. 7/STJ. MÉRITO. INCIDÊNCIA DA SÚMULA N. 83/STJ. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+ ..
+V - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VI - O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, no sentido de que é possível a juntada de documentos a posteriori para contrapor a fatos já alegados que foram produzidos nos autos (AgInt no AREsp n. 1.471.855/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/3/2020, DJe de 17/3/2020; AgInt no REsp n. 1.904.023/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2021, DJe de 7/5/2021.)
+VII - Incide o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Acrescente-se o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+VIII - Agravo interno improvido (AgInt no REsp n. 2.094.670/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e da Súmula 105/STJ.
+Intimem-se.
+ EMENTA
