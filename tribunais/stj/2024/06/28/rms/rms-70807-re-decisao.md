@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por JALSER RENIER PADILHA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 4.906):
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. IMPOSIÇÃO DE SANÇÃO DISCIPLINAR. DEPUTADO ESTADUAL. NORMA REGIMENTAL. INTERPRETAÇÃO. IMPOSSIBILIDADE.
+1. Esta Corte vem entendendo que não cabe ao Poder Judiciário discutir a validade de processo legislativo em face de eventual equívoco de interpretação de norma regimental da Casa legislativa correspondente, pois, do contrário, operar-se-ia direta afronta ao princípio constitucional da separação dos poderes, porquanto esse juízo é de natureza política e de atribuição privativa dos próprios parlamentares (interna corporis).
+2. No caso, a presente ação mandamental, em razão de imposição de sanção disciplinar a Deputado Estadual, destina-se a discutir supostas violações a dispositivos do Regimento Interno da Assembleia Legislativa de Roraima e do Código de Ética Parlamentar, pretensão essa inviabilizada pelo entendimento pacífico desta Corte.
+3. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 4.965-4.969).
+A parte recorrente alega a existência de repercussão geral. Além disso, afirma que o acórdão recorrido violou o art. 2º da Constituição Federal, bem como os princípios constitucionais do contraditório, da ampla defesa e do devido processo legal.
+Afirma que teriam ocorrido diversas irregularidades na condução do processo disciplinar que resultou na cassação de seu mandato.
+Defende a possibilidade de o Poder Judiciário apreciar a validade de processo legislativo, destacando que esta Corte teria ignorado o entendimento firmado pelo STF no Tema de Repercussão Geral n. 1.120, no qual estabelece ser cabível a intervenção judicial quando caracterizado o desrespeito às normas constitucionais.
+Assevera que (fl. 4.991):
+O princípio da separação dos poderes não pode ser utilizado como "cheque em branco" para justificar a prática de atos abusivos Poder Legislativo, sobretudo quando visa a cassação de mandato outorgado pelo voto popular, devendo o Poder Judiciário intervir visando corrigir ilegalidades cometidas em processos de cassação de parlamentar.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Foram apresentadas contrarrazões às fls. 5.014-5.063.
+É o relatório.
+O Supremo Tribunal Federal, no julgamento do Tema n. 1.120, sob o regime da repercussão geral, firmou a seguinte tese:
+Em respeito ao princípio da separação dos poderes, previsto no art. 2º da Constituição Federal, quando não caracterizado o desrespeito às normas constitucionais, é defeso ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna corporis.
+Confira-se a ementa do precedente paradigma:
+Repercussão geral. Tema nº 1.120 da sistemática de repercussão geral. Constitucional. Penal. Utilização de arma branca no roubo majorado (art. 157, § 2º, inciso I, do CP). Exclusão da causa de aumento decorrente da revogação promovida pelo art. 4º da Lei nº 13.654/2018. Declaração incidental de inconstitucionalidade formal do artigo em tela pelo Órgão Especial do TJDFT, com fundamento na interpretação do art. 91 do Regimento Interno do Senado Federal. Suposta ofensa à interpretação e ao alcance das normas meramente regimentais das Casas Legislativas. Ausente demonstração de afronta às normas pertinentes ao processo legislativo previstas nos arts. 59 a 69 da Constituição Federal. Impossibilidade de controle jurisdicional, por se tratar de matéria interna corporis.
+(RE n. 1.297.884, Relator: Dias Toffoli, Tribunal Pleno, julgado em 14/6/2021, Repercussão Geral - Mérito, DJe de 4/8/2021.)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fls. 4.907-4.908):
+ ..  esta Corte vem entendendo que não cabe ao Poder Judiciário discutir a validade de processo legislativo em face de eventual equívoco de interpretação de norma regimental da Casa legislativa correspondente. Do contrário, operar-se-ia direta afronta ao princípio constitucional da separação dos poderes, porquanto esse juízo é de natureza política e de atribuição privativa dos próprios parlamentares (interna corporis).
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO OMISSIVO DO PROCURADOR-GERAL DO MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS. ESCOLHA DE SUBSTITUTO PARA OCUPAR O CARGO DE PROCURADOR-GERAL DE CONTAS, PELO SISTEMA DE RODÍZIO. ATO INTERNA CORPORIS. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA DO STF E DO STJ.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. O Supremo Tribunal Federal firmou entendimento jurisprudencial segundo o qual não é adequado ao Poder Judiciário proceder ao controle jurisdicional dos critérios adotados por órgãos do Poder Executivo, Judiciário ou Legislativo para definição de temas relacionados a competências privativas, sob pena de violação ao princípio da Separação de Poderes. Precedentes.
+3. Sob pena de violação do princípio da Separação de Poderes, na falta de critérios legais, não pode o Poder Judiciário, em substituição à competência do Ministério Público de Contas, ou do Tribunal de Contas (art. 28, § 6º, da Constituição do Estado de Goiás), ou da Assembleia Legislativa (art. 10, inc. VIII, da Constituição do Estado de Goiás), rever os atos de nomeação editados pelo Procurador-Geral para definir por qual critério, dentro do sistema de rodízio, um procurador deve ser indicado à substituição.
+4. No caso dos autos, mantém-se o acórdão denegatório da segurança, pois não há como se reconhecer eventual direito líquido e certo do impetrante à nomeação para o cargo de Procurador-Geral substituto.
+5. Agravo interno não provido.
+(AgInt no RMS 65.463/GO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2023, DJe de 4/5/2023.).
+ ..
+No caso, a presente ação mandamental destina-se a impugnar fundamentalmente a "violação aos artigos 51 e 280-C, § 1.º do Regimento Interno da Assembleia Legislativa de Roraima e art. 31 do Código de Ética Parlamentar, na medida em que o relatório do Processo Disciplinar n. 001/2021, objeto do mandamus, foi aprovado por parlamentar sem filiação partidária e por Comissão de Ética que não respeitou a proporcionalidade exigida pelas normas internas" (e-STJ fl. 2476), pretensão essa inviabilizada pelo entendimento pacífico desta Corte.
+Verifica-se, portanto, que o acórdão recorrido está em consonância com a jurisprudência firmada pelo Supremo Tribunal Federal, motivo pelo qual incide o Tema n. 1.120.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. PROCESSO ADMINSTRATIVO. NORMA REGIMENTAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. ATOS INTERNA CORPORIS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL FIRMADO SOB O REGIME DA REPERCUSSÃO GERAL. TEMA N. 1.120 DO STF. NEGATIVA DE SEGUIMENTO.
