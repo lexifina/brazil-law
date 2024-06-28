@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA COLETIVA. LEGITIMIDADE DE SINDICATO. FALECIMENTO DE SERVIDOR. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+A parte embargante alega, em síntese, que há vício de omissão, vez que a decisão monocrática não se pronunciou quanto a "existência de prescrição do direito dos sucessores pleitearem as diferenças devidas pelo servidor falecido" (fl. e-STJ 225), tema afetado ao rito dos recursos especiais repetitivos (Tema 1254/STJ) no qual houve a determinação da suspensão do processamento dos recursos que discutem o referido tema.
+Requer o acolhimento dos embargos.
+Sem impugnação.
+É o relatório. Decido.
+O Superior Tribunal de Justiça, nos autos do REsp n. 2034210/CE, REsp n. 2034211/CE e REsp n. 2034214/CE, de Relatoria do Ministro Humberto Martins, por intermédio da Corte Especial, submeteu ao rito do recurso especial repetitivo a seguinte questão: "Definir se ocorre ou não a prescrição para a habilitação de herdeiros ou sucessores da parte falecida no curso da ação.", sob o Tema nº 1.254/STJ.
+A admissão de recurso especial como representativo da controvérsia impõe que os processos que tratem da mesma questão central fiquem suspensos até o pronunciamento definitivo do STJ e os recursos já interpostos fiquem sobrestados perante o Tribunal de origem, consoante artigo 1. 037 do CPC/2015. Posteriormente, tais recursos devem ser apreciados na forma prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Nesse contexto, considerando que os demais temas tratados no recurso especial apresentam relação de prejudicialidade ao tema central, acolho os embargos, tornando sem efeito a decisão de fls. e-STJ 214/218 e determino a devolução dos autos ao Tribunal de origem, com baixa da distribuição, para que, após publicados os acórdãos relativos aos recursos representativos da controvérsia, o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça, ou, 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, observados os artigos 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA COLETIVA. LEGITIMIDADE DE SINDICATO. FALECIMENTO DE SERVIDOR. POSSIBILIDADE. PRECEDENTES. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TEMA 1254/STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
