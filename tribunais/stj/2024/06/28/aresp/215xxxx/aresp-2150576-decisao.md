@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo interposto por ANA HELENA VIEIRA D ALMEIDA MENDONÇA e WILSON MENDONÇA JÚNIOR contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 55):
+AGRAVO DE INSTRUMENTO. AÇÃO DE ENRIQUECIMENTO ILÍCITO. PERDA DO OBJETO. INOCORRÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO. PRELIMINARES AFASTADAS. TUTELA ANTECIPADA INDEFERIDA NA ORIGEM. SUSPENSÃO DA EXECUÇÃO EM CURSO. AUSÊNCIA DE PROBABILIDADE DO DIREITO. REQUISITOS DO ARTIGO 300 DO CPC NÃO DEMONSTRADOS. DECISÃO AGRAVADA MANTIDA.
+1. Não há que se falar em nulidade por ausência de fundamentação quando proferida decisão judicial de forma objetiva, sucinta e em poucas linhas.
+2. O agravo de instrumento é um recurso secundum eventum litis, cabendo ao órgão revisor analisar o acerto ou o desacerto da decisão objurgada, vedado o pronunciamento acerca de matéria que não foi objeto do decisum, sob pena de supressão de instância.
+3. Da exegese do artigo 300 do Código de Processo Civil extrai-se os pressupostos para a antecipação da tutela de urgência, consubstanciados na existência de elementos que evidenciem a probabilidade do direito, bem como o perigo de dano ou risco ao resultado útil do processo.
+4. A concessão ou não da tutela de urgência é faculdade atribuída ao juízo a quo, prendendo-se ao seu prudente arbítrio e livre convencimento motivado, devendo a decisão ser reformada, apenas quando se mostrar ilegal, irregular, teratológica, ou eivada de nulidade insanável.
+5. A discussão sobre eventual excesso de execução, com pagamento a maior, deve ser estringir aos próprios embargos à execução, instrumento próprio para comprovação de fato extintivo, modificativo ou impeditivo do direito do credor que exija dilação probatória, dentro do processo de execução.
+6. Não demonstrada abusividade ou teratologia na decisão agravada, o desprovimento do recurso de agravo de instrumento é medida que se impõe.
+RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Embargos de declaração rejeitados (fls. 123-124):
+EMBARGOS DE DECLARAÇÃO. AGRAVO DEINSTRUMENTO. AÇÃO DE ENRIQUECIMENTO ILÍCITO. TUTELA ANTECIPADA INDEFERIDA NA ORIGEM. AUSÊNCIA DE FUNDAMENTAÇÃO AFASTADA. SUSPENSÃO DA EXECUÇÃO E ALEGAÇÃO DE QUITAÇÃO DA DÍVIDA DISCUTIDA. PROBABILIDADE DO DIREITO NÃO VERIFICADA. INEXISTÊNCIA DE OMISSÃO. PREQUESTIONAMENTO. ACÓRDÃO MANTIDO.
+1. Os embargos de declaração são admitidos quando na decisão judicial houver obscuridade a ser esclarecida, contradição a ser eliminada, omissão (de ponto ou questão sobre o qual deveria pronunciar-se o juiz) a ser suprida, ou, ainda, erro material a ser corrigido, nos termos dos incisos I a III do artigo 1.022 do Código de Processo Civil.
+2. Ausentes as hipóteses delineadas, impõe-se a rejeição dos embargos de declaração, porquanto a embargante objetiva tão somente a rediscussão da matéria, porém os aclaratórios não constituem meio processual adequado para reforma da decisão.
+3. Consoante entendimento firmado pelo Supremo Tribunal Federal (Tema 339), o artigo 93, IX,da Constituição Federal, exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+5. Na hipótese vertente, o embargante objetiva tão somente a rediscussão da matéria, haja vista que as omissões suscitadas no que pertine à ausência de fundamentação da decisão agravada bem como sobre o pedido de suspensão da execução e a alegação de quitação da dívida em debate, restaram devidamente consignado na decisão objurgada, utilizando-se a aplicação da legislação pertinente ao caso.
+6. Todavia, os embargos de declaração não prestam ao reexame do julgado, porquanto sua função não é questionar o acerto ou desacerto do provimento jurisdicional, mas corrigir omissão, contradição ou obscuridade por ventura existente, sendo impossível a atribuição do efeito modificativo pretendido.
+7. O artigo 1.025 do Código de Processo Civil acolheu a tese do prequestionamento ficto, indicando que a simples oposição dos embargos de declaração é suficiente para prequestionar a matéria, ainda que sejam inadmitidos ou rejeitados.
+8. A ausência de vícios a serem sanados, conforme elencado no artigo 1.022 do Código de Processo Civil, impõe-se a higidez do acórdão fustigado e, por consequência, a rejeição dos aclaratórios manejados.
+RECURSO DE EMBARGOS DE DECLARAÇÃO CONHECIDO E REJEITADO. ACÓRDÃO MANTIDO.
+No recurso especial, alega a parte recorrente, preliminarmente, violação dos arts. 489, § 1º, e 1.022 do CPC.
+No mérito, alega violação dos arts. 313 e 497 do CPC.
+Requer a concessão de efeito suspensivo ao recurso especial.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 521-523), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância de origem.
+Nesse sentido, cita-se:
+É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF). O juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF". (AgInt no AREsp 1.598.838/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.571.882/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/7/2020; AgInt no REsp n. 1.830.644/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/6/2020; AREsp n. 1.610.726/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/6/2020; AgInt no AREsp n. 1.621.446/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; AgInt no AREsp n. 1.571.937/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020.
+Ao manter a decisão que deferiu a tutela de urgência, o Tribunal de origem consignou (fls . 62-63 ):
+Em conformidade com a fundamentação da decisão agravada, tenho que não restam presentes os requisitos do artigo 300, caput, do Código de Processo Civil.
+Embora o agravante esteja na iminência de sofrer constrição de 6 (seis) alqueires de terra do imóvel rural denominado "Fazenda Rio Preto", situada no loteamento do "Rio do Ouro", a presente ação de enriquecimento ilícito não pode ser de substitutivo para embargos à execução.
+A discussão sobre eventual excesso de execução, com pagamento a maior, deve se restringir aos próprios embargos à execução, instrumento próprio para comprovação de fato extintivo, modificativo ou impeditivo do direito do credor que exija dilação probatória, dentro do processo de execução.
+ ..
+Dessarte, não demonstrada a alegada probabilidade do direito, não há sequer que perquirir sobre o requisito da urgência, porquanto são cumulativos.
+Dessa forma, a alteração da conclusão do Tribunal estadual acerca do preenchimento dos requisitos da tutela de urgência ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula n. 7 do STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO.
+NÃO VERIFICAÇÃO. SÚMULAS N. 211 DO STJ E 282 DO STF. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA. ART. 300 DO CPC. REQUISITOS. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado. Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+3. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+4. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+5. Não se admite a revisão do entendimento firmado pela corte de origem - reconhecimento da presença dos requisitos fumus boni iuris e do periculum in mora - quando a controvérsia demandar a análise fático-probatória dos autos, ante a incidência do óbice da Súmula n. 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.425.718/PA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+TUTELA PROVISÓRIA. SENTENÇA SUPERVENIENTE. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. PRECEDENTES. REQUISITOS DA ANTECIPAÇÃO DE TUTELA. SÚMULA N. 735/STF. PRETENSÃO DE REEXAME DA MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência da Terceira Turma desta Corte, "A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem acerca de questões resolvidas por decisão interlocutória combatida na via do agravo de instrumento. Precedentes." (AgInt no REsp n. 1.704.206/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+2. Ademais, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula n. 735 do STF. Precedentes.
+3. Rever a conclusão a respeito do preenchimento dos requisitos da tutela de urgência demandaria revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.(AgInt no AREsp n. 2.232.728/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. Julgo prejudicado o pedido de concessão de efeito suspensivo ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. ART. 300 DO CPC. REQUISITOS. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO
