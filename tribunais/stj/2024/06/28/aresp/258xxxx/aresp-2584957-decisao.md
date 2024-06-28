@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição) interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 285):
+APELAÇÃO. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. SERVIÇO DE TELEFONIA. RETORNO DOS AUTOS PARA JULGAMENTO EM JUÍZO DE RETRATAÇÃO. DISTINGUISHING RELACIONADO AO TEMA 1061/STJ. TESE DE ASSINATURA INAUTÊNTICA DOS DOCUMENTOS. ÔNUS DA PROVA QUE RECAI SOBRE O CONSUMIDOR QUE ALEGA NÃO SER SUA A ASSINATURA APOSTA NO CONTRATO. CASO CONCRETO EM QUE PREVALECE A DISTRIBUIÇÃO DINÂMICA DO ÔNUS DA PROVA.
+Em seu Recurso Especial, o agravante sustenta que ocorreu violação do art. 6º, VIII, do CDC e dos arts. 9º, 10 e 333, parágrafo único, I, do CPC.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade negativo (fls. 348-351), o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 404-408.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 11.6.2024.
+O Superior Tribunal de Justiça perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento por aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775 (DJe 30.11.2018).
+Nessa linha de raciocínio:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. EXECUÇÃO. ERRO DE CÁLCULO E ERRO DE DIREITO. COISA JULGADA. CRITÉRIOS UTILIZADOS NA LIQUIDAÇÃO DA SENTENÇA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. SÚMULA Nº 83/STJ. SÚMULA Nº 283/STF. AGRAVO IMPROVIDO.
+(..)
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC).
+3. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que reconheceu a preclusão decorrente da coisa julgada, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ.
+(..)
+6. A ausência de impugnação dos fundamentos do acórdão recorrido, mormente quanto à juntada de substabelecimento pela advogada, conferindo-lhe poderes, e à procrastinação do feito, suficiente para a aplicação da multa, enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+7. Agravo regimental não conhecido.
+(AgRg no AREsp 16.627/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 11/9/2012)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL. HORAS EXTRAS. DIFERENÇAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. A análise da controvérsia esbarra no óbice da Súmula 7/STJ, pois o Tribunal de origem, com base na análise de fatos e provas dos autos, concluiu pela inexistência de comprovação de horas extras trabalhadas.
+2. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 925.488/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/6/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+(..)
+3. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à agravante, na petição do seu Agravo Interno, impugnar especificamente os fundamentos da decisão agravada. Era indispensável que a agravante, analiticamente, contrastasse todas as conclusões da decisão combatida, especificamente.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ.
+5. No mesmo sentido: AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgRg no AREsp 807.252/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/10/2017, DJe 23/10/2017; AgInt no AREsp 1.003.118/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2017, DJe 24/10/2017; AgInt no PUIL 318/MS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2017, DJe 18/10/2017; AgInt no AREsp 973.101/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017; AgInt no REsp 1.685.023/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2017, DJe 16/10/2017; AgInt no AREsp 1.077.966/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+6. Agravo Interno não conhecido.
+(AgInt na Pet 10.274/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 19/12/2017)
+Ao inadmitir o Recurso Especial, o Tribunal a quo consignou (fl. 349):
+II. O recurso não deve ser admitido.
+Em juízo de retratação, a Câmara Julgadora analisou as particularidades do caso em tela e assim consignou:
+Passo ao imediato julgamento da lide atenta ao teor do Tema 1061, do STJ, em julgamento do Recurso Especial n. 1.846.649/MA, a saber:
+(..)
+Com efeito, a petição inicial questiona a autenticidade da assinatura do contrato. O autor diz, textualmente, que "DESCONHECE OS DÉBITOS apontados pelas Requeridas, pois não adquiriu nenhum aparelho, tampouco assinou o contrato que gerou a dívida do qual foi negativado. Ademais, o Requerente já encerrou a linha quepossuía com as Requeridas com a quitação de todos os valores". (ev. 4.1, pág. 4).
+Em outro trecho da mesma peça o autor assim diz:
+(..)
+Diante de tais alegações, a ré, em contestação, alega que após o pedido de cancelamento do serviço, restaram pendentes o pagamento de algumas faturas relativas ao período em que a linha esteve ativa. Além disso, refere que ao contratar o serviço o autor adquiriu um aparelho de telefone móvel com cláusula de fidelização. E para sustentar o que alega, a ré, no bojo da peça de defesa, colaciona imagem das suas telas sistêmicas e junta um contrato assinado (ev. 4.2, pág. 18).
+Pois bem.
+Cotejando as assinaturas da procuração (ev. 4.1, pág. 11) e do termo de carência (ev. 4.1, pág. 15) com a assinatura do contrato (ev. 4.1, pág. 21 e ev. 4.2, pág. 19), percebe-se entre elas forte semelhança, razão pela qual compete ao autor o ônus de provar que a assinatura aposta no contrato não é sua.
+Não se olvida sobre o teor do art. 429, inciso II, do CPC, que impõe a quem produziu o documento (no presente caso, a ré) o ônus de provar a autenticidade impugnada.
+Entendo, todavia, que não sendo verossímil a afirmação de inautenticidade, nada obsta a inversão do ônus probatório por aplicação das regras gerais de dinamização do ônus da prova. A propósito, recorro aos ensinamentos de SÉRGIO CRUZ ARENHART, para quem, "Apesar do caráter estático da regra, parece evidente que nada impede a aplicação dos critérios gerais de dinamização do ônus probatório, estabelecidos no art. 373,§§ 1.º e 2.º, CPC/2015. Ao contrário, considerando que esse critério de dinamização harmoniza-se com os ideais de colaboração e de boa-fé processual, é até intuitiva a sua aplicação também no campo da impugnação da prova documental. Por isso, inquestionavelmente, pode-se aplicar os critérios gerais, alterando-se o regime do art. 429, CPC/2015, sempre que uma das partes estiver em situação mais favorável na produção da prova ou sempre que essa produção mostrar-se impossível ou excessivamente onerosa.
+"Vale ressaltar, ainda, que a tese firmada no Tema 1061, do STJ, não se subsume ao presente caso. Pela dicção do Tema 1061, "Na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a sua autenticidade (CPC, arts. 6º, 368 e 429, II)."
+Note-se que a tese firmada no julgamento de demanda repetitiva trata de contratos bancários que, sabidamente, adota interpretação principiológica, jurisprudencial e doutrinária peculiar, pois distinta, também, é sua forma de contratação. Basta lembrar, por exemplo, o teor das Súmulas 381 e 379 , ambas do STJ, que tratam de aplicação de norma jurídica em contratos bancários.
+Nessa toada, pelas razões acima expostas, compreendo que competia ao autor produzir prova de que a assinatura, de fato, não era sua. No entanto, tal como referido pelo juízo singular, o autor não produziu prova alguma de que as assinaturas não são autênticas, prova que "poderia ter sido realizada, inclusive através de perícia". E instado a manifestar-se sobre o interesse na produção de provas o autor não pediu a realização de perícia (ev. 4.3, pág. 23).
+Assim, porque ausente qualquer prova que infirme a alegada ilicitude na cobrança por serviço supostamente não contratado, tem-se como legítima a cobrança da multa por quebra de fidelidade, sobretudo porque a contratação ocorreu em novembro/2016 (ev. 4.1, pág. 21) e em dezembro do mesmo, conforme narrativa inicial, foi solicitado o cancelamento, ou seja, dentro do prazo de fidelização.
+Por fim, devidamente fundamentada a decisão nas razões de direito e de fato vinculadas ao caso concreto, não há necessidade de análise específica de todos os dispositivos mencionados pelo recorrente. Contudo, para fins de evitar a oposição de embargos de declaração com intenção única de prequestionamento, consideram-se prequestionados todos os dispositivos suscitados pela parte.
+Pelo exposto, voto no sentido de NEGAR PROVIMENTO ao apelo. Ante o resultado do presente julgamento, majoro para 15% os honorários advocatícios arbitrados na origem, o que faço em atenção ao disposto no art.85, §11, do CPC, ficando suspensa a exigibilidade da verba porque ao autor deferida a gratuidade. (grifei)
+Em tal contexto, cumpre primeiramente o registro de que a supracitada fundamentação - principalmente quanto aos trechos destacados - não foi objeto de suficiente enfrentamento nas razões recursais, o que atrai, por analogia, a incidência do óbice contido no enunciado sumular n. 283 do STF. A roborar: "(..) A subsistência de fundamentos inatacados impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283 do STF(..)". (AgInt no AREsp 1.110.934/SP, Rel. Min. Moura Ribeiro, Terceira Turma, DJe 06-09-2019)
+Ademais, inegável a constatação de que a alteração das conclusões firmadas na decisão impugnada, tal como pretendida nas razões recursais, demandaria necessariamente a incursão no conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Observa-se das razões do Agravo que a parte utilizou-se apenas de alegações genéricas em sentido contrário à decisão agravada e não impugnou especificamente o argumento acima destacado. Logo, a pretensão recursal não merece conhecimento ante a incidência, por analogia, da Súmula 182/STJ.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
