@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado em benefício de EMERSON BEZERRA MACIEL DE SOUSA contra a decisão monocrática, de minha lavra, que, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indeferiu liminarmente o habeas corpus (e-STJ fls. 252/257).
+Ciente dessa decisão, nada requereu o Ministério Público Federal (e-STJ fl. 261).
+Em suas razões (e-STJ fls. 262/266), a defesa, embora reconheça que a condenação do réu transitou em julgado em 3/10/2012, insiste no reconhecimento do flagrante constrangimento ilegal a que está submetido o paciente, pronunciado, sem qualquer prova, apenas com base em depoimentos de "ouvi dizer", e na iminência de ser submetido a julgamento pelo Tribunal do Júri, cuja situação recomenda, até mesmo, a concessão da ordem de ofício.
+Ao final, requer "seja reconsiderada a r. decisão monocrática de fls. 252/257, e que seja concedida a ordem concedida, de ofício, para, de forma alternada e sucessiva: despronunciar o paciente, ante a ausência de indícios de autoria; anular a decisão de pronúncia, por apresentar excesso de linguagem, em flagrante ofensa ao § 1º do 413, do Código de Processo Penal; excluir as qualificadoras, com o enquadramento da conduta no art. 121, caput, do Código Penal" (e-STJ fl. 266).
+É o relatório. Decido.
+De início, destaca-se que: Os pedidos de reconsideração carecem de qualquer respaldo no regramento processual vigente. Eles não constituem recursos, em sentido estrito, nem mesmo meios de impugnação atípicos. Por isso, não suspendem prazos e tampouco impedem a preclusão (STF. Segunda Turma. Rcl 43007 AgR/DF, Relator Ministro RICARDO LEWANDOWSKI, julgado em 9/2/2021 - Informativo de Jurisprudência n. 1005).
+In casu, não obstante o notável esforço da zelosa defesa e a relevância dos argumentos trazidos à lume neste pedido, não é possível acolher o pleito aqui formulado.
+Isso porque não houve qualquer alteração no contexto fático que justifique a superação do entendimento esposado na decisão anterior, de modo que não há razão para reformar o decisum aqui impugnado.
+Conforme foi dito anteriormente, em deferência à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que as nulidades, ainda quando denominadas absolutas, devem ser arguidas em momento oportuno, bem como qualquer outra falha ocorrida no julgamento, sob pena de preclusão temporal.
+No caso, uma vez que o Tribunal de origem julgou o recurso objurgado neste writ no dia 1º/3/2011, cujo acórdão já transitou em julgado, e somente no dia 12/6/2024 (e-STJ fl. 1) foi impetrado o presente habeas corpus, o seu conhecimento encontra-se obstado em decorrência da preclusão.
+Ademais, uma vez que o acórdão confirmatório da pronúncia foi proferido há mais de 13 (treze) anos, tendo a defesa se insurgido contra esse acórdão apenas na presente oportunidade (12/6/2024), após a designação da sessão plenária para o dia 23/7/2024, demonstra a utilização da chamada nulidade de algibeira, que é rechaçada pelo Superior Tribunal de Justiça.
+Ante o exposto, indefiro o pedido de reconsideração.
+Aguarde-se o decurso dos prazos legais e, após, certifique-se o trânsito em julgado e arquivem-se os autos.
+Intimem-se.
+EMENTA
