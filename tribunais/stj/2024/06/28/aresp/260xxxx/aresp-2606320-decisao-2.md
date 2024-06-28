@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, CPC/15), interposto por BRUNO DOS SANTOS STANGE, em face de decisão que não admitiu o recurso especial.
+Em juízo de admissibilidade (fl. 188-190, e-STJ), negou-se seguimento ao recurso, dando ensejo na interposição do agravo previsto no artigo 1.042, CPC/15 (fls. 299-339, e-STJ), no qual o insurgente pretende a reforma da decisão impugnada.
+Contraminuta às fls. 350-358, e-STJ.
+É o relatório.
+Decido.
+1. Na presente hipótese, o apelo extremo de fls. 105-154 não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Verifica dos autos que a parte recorrente, mesmo após intimada, deixou transcorrer in albis o prazo de 5 dias para comprovar o deferimento da justiça gratuita ou realizar o recolhimento em dobro das custas, conforme certidão de fls. 373, e-STJ.
+A jurisprudência desta Corte possui entendimento segundo o qual deve ser reconhecida a deserção do recurso especial e, consequentemente, ser aplicada a Súmula 187/STJ, quando a parte recorrente, mesmo devidamente intimada, deixa de para regularizar o preparo.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PREPARO. INSUFICIÊNCIA DO VALOR. NÃO RECOLHIMENTO INTEGRAL NO PRAZO DE 5 (CINCO) DIAS APÓS INTIMAÇÃO. DESERÇÃO. AGRAVO INTERNO IMPROVIDO. 1. É deserto o recurso cuja comprovação do preparo não foi realizada no prazo concedido para o saneamento de vício anteriormente detectado, em cumprimento ao disposto no art. 1.007, § 2º, do CPC/2015 . Precedentes. 2. O princípio da primazia do julgamento de mérito deve ser prestigiado e almejado durante todo o processo, o que, contudo, não isenta as partes do atendimento às regras previstas no Código de Processo Civil de 2015. Assim, tratando-se de vício que se tornou insanável, diante de falha imputada à própria parte - que mesmo após sua intimação para saneamento do feito não regularizou o preparo adequadamente -, não é possível invocar o referido princípio. 3. Agravo interno improvido. (AgInt no AREsp n. 2.484.708/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA N. 187 DO STJ. AGRAVO DESPROVIDO. 1. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o art. 1.007, caput e § 4º, do CPC. 2. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ). 3. Descabe nova intimação da parte para regularizar o preparo quando, já intimada, não sanou o vício no prazo concedido. 4. Agravo interno desprovido. (AgInt no AREsp n. 2.450.513/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Portanto, inafastável, na hipótese, a incidência do teor da Súmula 187/STJ, ante a deserção do recurso especial.
+2. Do exposto, nego conhecimento ao agravo. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/15.
+Publique-se.
+Intimem-se.
+EMENTA
