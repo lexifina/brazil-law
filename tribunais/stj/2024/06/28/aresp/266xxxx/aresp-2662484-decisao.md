@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por HIPERCARD BANCO MULTIPLO S.A., com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 451):
+APELAÇÃO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Procedência parcial. Apelo do réu. Cerceamento de defesa. Inocorrência. Desnecessidade de dilação probatória.
+Transação comercial realizada mediante fraude. Alegação de ausência de responsabilidade por ter ocorrido de forma presencial e mediante cartão com chip e uso de senha. Ilícito perpetrado por terceiros que se utilizaram dos dados pessoais da autora. Compra realizada há mais de 136km de sua residência, sem que o banco verificasse sua legitimidade. Falha na prestação dos serviços. Operação destoou do perfil de consumo da autora. Responsabilidade do banco confirmada. Danos materiais e morais devidos.
+RECURSO DESPROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 468-470).
+Nas razões do recurso especial (e-STJ, fls. 473-478), o ora agravante apontou violação do art. 1.022, II, do CPC/2015, sustentando, em síntese, negativa de prestação jurisdicional.
+Contrarrazões às fls. 493-499 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O insurgente afirmou a existência de negativa de prestação jurisdicional por entender que o Tribunal estadual não apreciou todas as questões imprescindíveis para o julgamento da lide.
+Para tanto, destacou que, "dentre outro vícios, suscitou-se omissão quanto ao fato incontroverso de que (1) as operações foram realizadas com o cartão original e senha, bem como (2) à prova de segurança da tecnologia adotada pelo recorrente, consubstanciada em perícia técnica, hábil a infirmar a conclusão de falha no sistema da instituição financeira e a viabilidade de imputar a esta os danos narrados no exórdio. Igualmente, o Tribunal não se manifestou sobre o fato de que: (3) o plástico jamais saiu de posse da consumidora, do que se concluiu que a compra foi realizada por ela ou por pessoa por ela autorizada, a quem concedeu a posse do cartão e revelou sua senha; (4) tanto o é que a titular jamais pediu o bloqueio do cartão; (5) foi realizada uma única compra, que não extrapolou o limite de crédito contratado. Finalmente, o acórdão foi omisso (6) quanto aos precedentes invocados pela parte recorrente (REsp nº 1.633.785/SP e do REsp nº 1.898.812/SP)" (e-STJ, fl. 477).
+Apesar dos argumentos expendidos pela recorrente, é preciso deixar claro que o acórdão a quo resolveu satisfatoriamente a temática deduzida no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Confira-se, a propósito, a seguinte fundamentação do Tribunal local (e-STJ, fls. 452-454, sem grifos no original):
+Trata-se de ação proposta contra instituição financeira, na qual a autora pretende a declaração de inexistência de transações bancárias e o recebimento de indenização por danos materiais e morais.
+Cumpre assinalar, conforme a Súmula 297 do STJ,"O Código de Defesa do Consumidor é aplicável às instituições financeiras".
+A requerente, por sua vez, qualifica-se como consumidora (art. 17, do CDC) e, sendo ela hipossuficiente em relação à instituição bancária, caberia a esta demonstrar a inexistência do direito pleiteado.
+Na hipótese, a autora alega que notou transação em seu cartão de crédito datada de 11/2021, cuja origem desconhece, no valor de R$ 2.227,16, mesmo estando seu cartão bloqueado desde abril de 2019.
+É certo que o banco argumenta que a compra ocorreu mediante fornecimento de senha pessoal. Todavia, é notório que os fraudadores estão cada vez mais especializados, não constituindo um grande obstáculo a clonagem do cartão para a realização de transações comerciais que poderiam ser inibidas mediante um controle mais efetivo da operadora, a qual deveria ter tido a cautela de confirmar a operação, sobretudo quando a compra ocorreu em Osasco, há mais de 136km de distância da cidade da autora (Santa Bárbara D"Oeste), estando clara a falha na prestação do serviço.
+É evidente, portanto, a ocorrência do fortuito interno do banco, que não exerceu o dever de segurança e cuidado de monitoramento do perfil da autora, autorizando a realização de transação em valor expressivo, muito além daquele comumente por ela utilizado.
+Bem por isso, não se pode imputar culpa exclusiva à consumidora, pois se o Banco tivesse adotado as cautelas mínimas, com certeza, teria evitado a ação dos golpistas.
+Portanto, a instituição responde pelos danos materiais causados; tal responsabilidade decorre do risco do empreendimento (Súmula 479 do E. STJ).
+Assim, o apelante deverá restituir as importâncias descontadas da conta bancária da requerente, de forma simples, com correção monetária e juros de mora.
+Como se pode notar, a Corte local se expressou motivada e adequadamente, solucionando as questões controvertidas com a aplicação do direito que entendeu cabível.
+O que se depreende dos autos é que o recorrente não se conformou com a decisão do Tribunal de origem que decidiu pela sua responsabilidade, devido a falha na prestação do serviço, e buscou a reforma do resultado do julgamento pela via imprópria dos embargos de declaração.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
