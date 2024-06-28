@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SOCIEDADE DE ENSINO SUPERIOR ESTÁCIO DE SÁ LTDA. com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ, fl. 1137):
+DIREITO DO CONSUMIDOR. ENSINO SUPERIOR. PRETENSÃO DE REDUÇÃO DAS PARCELAS MENSAIS, CONSIDERANDO A SUSPENSÃO DAS AULAS PRESENCIAIS POR CONTA DA PANDEMIA DE CORONAVÍRUS. INCONSTITUCIONALIDADE DA LEI ESTADUAL Nº 8.864/20. OBSERVÂNCIA DO TERMO DE AJUSTAMENTO DE CONDUTA LEVADO A EFEITO EM AÇÕES CIVIS PÚBLICAS. MANUTENÇÃO DA MULTA PELO DESCUMPRIMENTO DE OBRIGAÇÃO. FIXAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA QUANDO DA LIQUIDAÇÃO DO JULGADO. Recurso contra sentença em demanda com a qual pretendem os autores haver a redução das parcelas mensais do curso de Medicina, no qual se encontram inscritos, considerando a suspensão das aulas presenciais por conta da pandemia de coronavírus, abstendo-se a sociedade ré a negativá-los e a não impedir a renovação de suas matrículas, sem prejuízo da condenação ao ressarcimento dos valores correspondentes às parcelas que vierem a ser pagas no curso do processo. Declaração inconstitucionalidade pelo Supremo Tribunal Federal, no julgamento da ADI nº 6.448/RJ, da Lei estadual nº 8.864/20, que previa a redução em 30% do valor das parcelas durante a vigência do estado de calamidade pública. Necessidade da observância do termo de ajustamento de conduta levado a efeito nas ações civis públicas nos 0094469-35.2020.8.19.0001 e 0094469-35.2020.8.19.0001, com vistas ao princípio da segurança jurídica. Manutenção da multa imposta pelo descumprimento da abstenção de negativação do nome dos alunos e de impedimento de renovação de matrícula, já que necessária para o fim de dissuadir a sociedade ré a não infringir a obrigação imposta pela sentença. Autores que sucumbiram em parte mínima do que postularam, o que impede o reconhecimento da sucumbência recíproca. Prazo final para incidência da redução do valor das parcelas que deve observar o termo de ajustamento de conduta levado a efeito nas ações civis públicas. Honorários de sucumbência que devem ser fixados quando da liquidação do julgado, visto tratar-se de sentença ilíquida. Desprovido o primeiro recurso, parcialmente provido o segundo.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1190-1191).
+Em suas razões recursais (e-STJ, fls. 1200-1221), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) art. 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem restou omissa quanto à exclusão das condenações à abstenção de negativação do nome dos alunos e ao impedimento de renovação de matrícula deles, ambos no caso de inadimplência, o que teria configurado negativa de prestação jurisdicional;
+b) art. 5º da Lei Federal nº 9.780/1999, aduzindo que o Tribunal autoriza que os Recorridos tenham sua matrícula renovada ainda que estejam em mora com suas parcelas mensais.
+Aponta, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Admitido o processamento do recurso na origem, consoante decisão de fls. 1280-1282 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O inconformismo merece prosperar no que diz respeito à aventada negativa de prestação jurisdicional.
+1. Quanto à ofensa ao artigo 1022 do Novo Código de Processo Civil, calcada no fato de o Tribunal de origem, não obstante a existência de omissão no acórdão, ter rejeitado os embargos de declaração, razão assiste à recorrente, conforme será exposto.
+Com efeito, a recorrente requereu, em sede de embargos de declaração, que a Corte de origem se pronunciasse sobre o pedido de afastamento das obrigações de abstenção de negativação e de impedimento de rematrícula dos Recorridos, a despeito de suas inadimplências.
+Contudo, da leitura do acórdão que julgou os embargos de declaração opostos pela ora recorrente, verifica-se que, de fato, tal questão suscitada nos aclaratórios não foi devidamente analisada pelo Tribunal de piso, que limitou-se a tratar sobre a multa imposta em razão do eventual descumprimento das referidas obrigações.
+Esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1.022 do Novo Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Configurada a ocorrência de negativa de prestação jurisdicional, impõe-se o reconhecimento da ofensa ao artigo 489, §1º, IV, do CPC/2015, com anulação do acórdão proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem, para que sejam sanados os vícios apontados. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1877486/TO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2021, DJe 24/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECLAMO INTERPOSTO PELA PARTE ADVERSA QUANTO À NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Embora o julgador não esteja obrigado a responder um a um dos argumentos sustentados pela parte postulante, ao fundamentar sua decisão, não deve se omitir acerca de pontos essenciais ao bom andamento do processo, sob pena de violar o art. 1022 do CPC/15.
+1.1. Na hipótese, tendo o Tribunal a quo deixado de analisar questão imprescindível ao deslinde da controvérsia, adequada a determinação de retorno dos autos para o saneamento da omissão.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1111044/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2018, DJe 03/09/2018)
+Desta forma, considerando que a referida tese foi posta à apreciação do Tribunal a quo, sem que houvesse, contudo, quando do julgamento dos embargos declaratórios, pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, dou parcial provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração (fls. 1190-1 191, e-STJ) e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento do ponto tido por omisso.
+Julgo prejudicadas as demais questões ventiladas no recurso especial.
+Publique-se. Intimem-se.
+EMENTA
