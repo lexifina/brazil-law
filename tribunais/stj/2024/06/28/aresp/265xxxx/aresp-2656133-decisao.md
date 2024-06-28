@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JAQUES BUSHATSKY (JAQUES) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 262/275).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, JAQUES alegou a violação dos arts. 85, §§ 1º e 14, 139, III, 300, 489, § 1º, IV, 502, 1.022, II e III, e 1.048, I, do CPC; 7º, XVII, e 22, § 4º, 23 e 24, § 3º-A, da Lei n.º 8.906/94; e 71 da Lei n.º 10.741/03. Sustentou, em síntese, (1) omissão do acórdão recorrido acerca dos requisitos autorizadores da tutela de urgência, bem como sobre o risco ao resultado útil do processo com a postergação da execução da v erba honorária; e (2) que faz jus à reserva do valor de seus honorários advocatícios sucumbenciais, em caráter provisório, nos autos do cumprimento de sentença ora em discussão, os quais foram fixados em 11% sobre o valor da condenação, conforme a sentença transitada em julgado proferida na ação revisional ajuizada contra o ora recorrido.
+Na origem, trata-se de agravo de instrumento interposto pelo ora insurgente contra a decisão do Juízo singular que, em autos de ação revisional de aluguel, em fase de cumprimento de sentença, indeferiu pedido de reserva de honorários advocatícios, sob o fundamento de que "a apuração de eventual valor devido a título de honorários sucumbenciais depende da apuração da diferença a ser restituída. Por conseguinte, no momento, essa verba carece de certeza, liquidez e exigibilidade, afastando-se a possibilidade de determinar a manutenção do depósito judicial dessa quantia nos autos, ainda que a título de arresto cautelar" e, na sequência, rejeitou embargos declaratórios opostos contra sentença que extinguiu o cumprimento de sentença (e-STJ, fl. 67).
+(1) Da violação dos arts. 489, § 1º, IV, e 1.022, II e III, do CPC
+Verifica-se que, ao julgar o agravo de instrumento interposto pelo ora insurgente, por não ver a presença dos requisitos necessários ao deferimento da tutela de urgência requerida, o TJSP assim se pronunciou:
+Lembre-se que a locatária, na ação revisional que propôs, pediu a anulação da "previsão de aluguel percentual sobre o faturamento", mas não apresentou recurso algum (nem embargos declaratórios, nem apelação) contra sentença que não apreciou este tema, de sorte que mantida a alternativa quanto ao aluguel mensal devido.
+O título judicial exequendo arbitrou honorários advocatícios ao ora agravante em "11% sobre o valor da condenação (diferença a ser restituída)".
+Considerando que foi mantida a alternativa acerca do cálculo do aluguel mensal, enquanto a locatária não fornecer a documentação que possibilite apuração daquele correspondente a percentual de seu faturamento bruto e a comparação deste com o mínimo fixado - o suposto crédito perseguido pelo ora agravante carece de certeza, liquidez e exigibilidade que justifique a manutenção de depósito milionário (R$ 4.100.000,00) nos autos (e-STJ, fls. 69/70).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do CPC, o que busca JAQUES é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados nos referidos dispositivos da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp nº 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada ofensa à lei processual.
+(2) Da reserva provisória da verba honorária
+Por sua vez, da leitura dos fundamentos transcritos no tópico anterior, constata-se que a convicção firmada pela Corte local decorreu da análise das circunstâncias fáticas da causa, notadamente pela compreensão de que o crédito perseguido pelo ora recorrente carece de certeza, liquidez e exigibilidade, não podendo a questão ser revista nesta sede excepcional, ante o óbice da Súmula n.º 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. (2) RESERVA PROVISÓRIA DE VERBA HONORÁRIA. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
