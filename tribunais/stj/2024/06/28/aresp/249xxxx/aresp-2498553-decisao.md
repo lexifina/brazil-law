@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/2015) interposto por KIRTON BANK S.A. - BANCO MÚLTIPLO contra decisão que, na origem, negou seguimento ao recurso especial do ora agravante, ante a incidência do óbice constante dos enunciados das Súmulas nº 283 e 284 do STF, aplicáveis por analogia, tendo em vista as razões recursais não atacarem o fundamento central do acórdão hostilizado, qual seja, a inovação recursal.
+Em suas razões de agravo (fls. 448-455, e-STJ), buscando destrancar o processamento do apelo nobre, a parte recorrente sustenta: (1) a ocorrência de usurpação da competência do STJ, haja vista a decisão agravada ter analisado o mérito da matéria veiculada no recurso; e (2) a inaplicabilidade do óbice imposto pelas Súmulas 283 e 284/STF, pois deixou de impugnar especificamente o "argumento de falta de interesse recursal quanto ao impedimento do levantamento de valores por não ter ocorrido o trânsito em julgado" (fl. 453, e-STJ), por não haver interesse em recorrer de questão decidida em favor do Recorrente.
+Sem impugnação.
+É o relatório. Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Com efeito, o recorrente limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, repisando os argumentos deduzidos no apelo nobre, sem, contudo, efetivamente demonstrar a inadequação do óbice invocado.
+De fato, o Tribunal de origem, em juízo prévio de admissibilidade, obstou a subida do especial às instâncias superiores, ante a aplicação das Súmulas 283 e 284/STF, tendo em vista a ausência de impugnação específica do fundamento central do acórdão hostilizado, a saber, a inovação recursal quanto à natureza do depósito e à ausência de trânsito em julgado da decisão que rejeitou a impugnação ao cumprimento de sentença, dado que tais matérias não foram ventiladas na apelação, vindo apenas nas razões do agravo interno).
+Da atenta análise das razões do agravo (art. 1.042 do CPC/2015), verifica-se que o agravante, de forma equivocada, limitou-se a sustentar o desinteresse em impugnar parte da decisão na qual foi vencedor, segundo ele, o "argumento de falta de interesse recursal quanto ao impedimento do levantamento de valores por não ter ocorrido o trânsito em julgado" (fl. 453, e-STJ).
+Como é cediço, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do CPC/2015:
+Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+E, ainda, "Inexistindo impugnação específica ao decisum impugnado, restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 14/12/2015).
+2. Do exposto, com fulcro no art. 932, inciso III, do CPC/2015, e na aplicação, por analogia, do Enunciado nº. 182 da Súmula deste STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
