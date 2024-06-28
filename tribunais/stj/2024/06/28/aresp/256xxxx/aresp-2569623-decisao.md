@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO - ALIENAÇÃO FIDUCIÁRIA VEÍCULO - AÇÃO DE BUSCA E APREENSÃO, JULGADA IMPROCEDENTE. MORA NÃO CARACTERIZADA. IRREGULARIDADE DA NOTIFICAÇÃO EXTRAJUDICIAL - AVISO DE RECEBIMENTO NÃO ASSINADO QUE RETORNOU COM ANOTAÇÃO "AUSENTE" - ALEGAÇÃO DE QUE HOUVE NOTIFICAÇÃO POR MEIO DE PROTESTO, ATO DO TABELIONATO QUE GOZA DE PRESUNÇÃO DE LEGALIDADE - O ARTIGO 2º, § 2º, DO DECRETO-LEI Nº 911/69, FAZ REFERÊNCIA À NECESSIDADE DE PRÉVIA NOTIFICAÇÃO POR MEIO DE CARTA COM AVISO DE RECEBIMENTO, NÃO MAIS SE REPORTA AO PROTESTO - REVOGAÇÃO DA LIMINAR ANTERIORMENTE CONCEDIDA ALIENAÇÃO DO VEÍCULO PELO CREDOR FIDUCIÁRIO - VENDA DO BEM QUE ACARRETA A CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA AO PAGAMENTO DE MULTA DE 50% DO VALOR FINANCIADO, A TEOR DO ART. 3º, § 6º, DO DECRETO LEI 911/69 - A RESTITUIÇÃO DO VALOR EQUIVALENTE AO VEÍCULO DEVERÁ SER BASEADA NA TABELA FIPE. SENTENÇA MANTIDA - RECURSO NÃO PROVIDO
+Alegou-se, no especial, violação dos artigos 2º, § 2º, e 3º do Decreto-Lei 911/69 sob o argumento de que a interpretação a ser dada aos referidos dispositivos é a de que "se expedida a notificação no endereço constante do contrato, esta é válida para fins de constituição do devedor em mora, ainda que na ocasião da entrega o devedor não tenha sido localizado, tendo a inicial de busca e apreensão atendido todos os requisitos para o seu prosseguimento" (e-STJ, fl. 240).
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte Superior tem, de fato, entendimento de que, para a notificação do devedor fiduciária de sua mora contratual, basta o envio da correspondência ao seu endereço contratual, ainda que não recebida.
+É, todavia, diversa a hipótese dos autos, porquanto em acórdão anterior, no qual se examinou agravo de instrumento, o Tribunal local havia concluído pela irregularidade da notificação.
+Leia-se sua ementa:
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. AVISO DE RECEBIMENTO COM ANOTAÇÃO DE "AUSENTE". NECESSIDADE DE ENTREGA, MESMO QUE NÃO PESSOALMENTE AO DEVEDOR. APLICAÇÃO DA SÚMULA Nº 72 DO C. STJ. MORA NÃO COMPROVADA. DECISÃO REFORMADA. RECURSO PROVIDO.
+Serôdias ou inoportunas as violações apontadas, invencível a atração do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
