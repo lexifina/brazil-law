@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual o INSTITUTO NACIONAL DO SEGURO SOCIAL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 31):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TEMA 1.033/STJ. SIMILITUDE FÁTICA. SUSPENSÃO DO PROCESSO. AFASTAMENTO.
+1. Caso em que é afastada a alegação relacionada com a ausência de similitude fática do Tema 1.033/STJ, pois em demandas idênticas, cujo título executivo é oriundo de ação ajuizada por sindicato, o Superior Tribunal de Justiça vem determinando a suspensão até o pronunciamento definitivo quanto à questão debatida nesse Tema.
+2. Não há, quanto ao Tema 1033/STJ, qualquer determinação de suspensão dos processos na origem, exceto os recursos especiais e agravos em recurso especial na segunda instância ou em tramitação no STJ.
+3. Agravo de instrumento parcialmente provido, para fim de que o cumprimento de sentença tenha regular curso na origem.
+Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento de dispositivos legais (fl. 69).
+Nas razões de seu recurso especial, a parte ora agravante sustenta a violação dos arts. 1.022 do Código de Processo Civil (CPC) e 201, 204 e 265 do Código Civil (CC). Alega, para tanto: (a) existência de negativa de prestação jurisdicional; (b) "a interrupção da prescrição é ato pessoal, beneficiando apenas aquele que a promoveu, salvo as exceções constantes dos parágrafos do referido artigo, entre as quais não se encontra o ajuizamento de protesto por legitimado para propor demandas coletivas. Ainda que se tenha como válido o ato jurídico consistente na propositura de processo de execução para efeito de interrupção do prazo prescricional, tal interrupção não aproveitaria aos substituídos" (fls. 92/93)
+A parte ora agravada apresentou as contrarrazões (fls. 104/121).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos, qual seja, "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas", encontra-se afetada à Corte Especial desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.033), dos Recursos Especiais 1.801.615/SP e 1.114.204/RS, de relatoria do Ministro Raul Araújo.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
