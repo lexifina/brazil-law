@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo manejado por Sueli de Fátima Seabra e Outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 383):
+SERVIDORES ESTADUAIS - URV - Ação proposta por pensionistas de servidores estaduais visando ao recálculo de seus vencimentos com a conversão em URV, julgada improcedente pelo Juízo monocrático - Esta E. Corte de Justiça negou provimento ao recurso, reconhecendo a prescrição - Interposição de Recurso Especial, provido pelo C. STJ para afastar a prescrição -Conversão pela URV, a partir de março de 1994, com o recálculo da pensão - Aplicação da Lei Federal 8.880/94 às remunerações dos servidores de todas as esferas da Federação - Entendimento pacificado nos Tribunais Superiores - Reforma do julgado.
+JUROS E CORREÇÃO MONETÁRIA - Aplicação das regras da Lei 9.494/97 na redação da MP 2180-35 - Inconstitucionalidade das regras da Lei 11.960/09.
+Recurso provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 405/413 e 425/428).
+Em juízo de retratação, foi proferido novo julgamento, nos seguintes termos (fl. 571):
+JUÍZO DE RETRATAÇÃO. REPERCUSSÃO GERAL. RE 561.836/RN, TEMA 5. SERVIDORES PÚBLICOS ESTADUAIS. CONVERSÃO DE VENCIMENTOS DE CRUZEIRO REAL PARA URV. LEI 8.880/94. Diferenças de vencimentos em face da conversão da moeda, nos termos da Lei 8.880/94. Distinção entre conversão da moeda e reajuste salarial. Reajustes aplicados após a vigência da lei que não têm o condão de dirimir eventual distorção em sua aplicação. Precedentes do STJ e STF. Falta de comprovação de perdas salariais. Ônus da parte autora de, pelo menos, apresentar começo de prova da perda financeira. Liquidação de sentença que não substitui a fase de conhecimento. Cessação do direito a eventuais diferenças quando fixado novo padrão de vencimentos decorrente de reenquadramento ou reestruturação de carreiras.
+ACÓRDÃO MODIFICADO. RECURSO DESPROVIDO.
+Opostos novos embargos, foram rejeitados (fls. 586/591).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 141, 330, 1.036 e seguintes do CPC. Sustenta, em síntese, que "matérias como reestruturação e qualquer outra de mérito debatida nos autos limitam-se às manifestações da parte. Noutros dizeres, não pode o magistrado de ofício reconhecer matéria de direito, visto que não possui natureza de ser matéria de ordem pública. (..) O v. acórdão ao concluir que haveriam reestruturado a carreira dos autores, sem sequer abrir oportunidade de defesa, manifestação da parte Autora, cerceou o direito de defesa da parte. (..) Conforme é possível verificar do texto supratranscrito, a reestruturação de cargos e carreiras é amplo, institui e remove cargos, amplia interpretações, reestabelece formato de pagamento, dispõe sobre implementações, carga horária, fixa adicionais, dentre todas nuances que englobam os cargos e as carreiras do serviço público, situação esta que não ocorreu com a carreira dos Recorrentes. Inclusive pelo fato de que ainda que comprovadamente tenha havido reestruturação de cargos e carreiras para determinado Setor ou Carreira Pública, será imprescindível a fase de liquidação de sentença para que seja compensado o aumento e auferida eventual existência de perda (..)." (fls. 597/601)
+Aduz que "ao acessar o inteiro teor da LC n. 823/96, ao especificar a que se refere tal legislação, a norma é de clareza solar que apenas trata de reajustamento em valores do padrão de vencimentos dos Servidores. (..) Inclusive pelo fato de que ainda que comprovadamente tenha havido reestruturação de cargos e carreiras para determinado Setor ou Carreira Pública, será imprescindível a fase de liquidação de sentença para que seja compensado o aumento e auferida eventual existência de perda (..) Importante ressaltar a moralidade da aplicação da Lei Federal 8.880/94 no âmbito estadual e municipal, pois esta lei foi cuidadosamente elaborada segundo critérios tendentes à manutenção do poder aquisitivo dos respectivos vencimentos. Veja Excelência que a aplicação de um critério justo não trará reajuste salarial algum, mas simplesmente evitará perda salarial decorrente de uma conversão equivocadamente formulada." (fls. 602/608)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, colhe-se dos acórdãos os seguintes trechos, verbis (fls. 385/386 e 572/577):
+A Lei Federal 8.880/94 dispôs sobre o programa de Estabilização Econômica e o Sistema Monetário Nacional, instituindo a Unidade Real de Valor.
+Com efeito, tal norma, tem caráter de ordem pública, vez que versa sobre o sistema monetário, matéria de competência privativa da União, nos termos do art. 22, VI, da Carta Magna.
+Observe-se que a mencionada Lei refere-se à conversão da moeda nacional em unidades de valor, não se trata de concessão de vantagens ou reajustes salariais.
+(..)
+Dessa forma, uma vez estabelecidas as regras de conversão dos salários para o padrão real, visando à estabilidade econômica, estas devem ser a aplicadas às pessoas jurídicas de direito público, tanto na esfera federal quanto na esfera estadual e municipal.
+Os autores alegam, genericamente, terem sofrido perdas salariais, decorrentes de suposta falha na conversão da moeda, ocorrida há mais de 20 anos, valendo-se, para tanto, apenas de precedentes jurisprudenciais.
+(..)
+Trata-se de norma de direito monetário, e não de remuneração de servidores. Por se tratar de regra de conversão de moeda, a competência legislativa é da União, e a abrangência da lei é nacional, aplicável a todas as esferas federativas, impedida a incidência de lei local diversa
+(..)
+Dirimida a questão da aplicabilidade da Lei 8.880194 para a conversão dos vencimentos dos servidores públicos, resta saber se houve prejuízo salarial decorrente de incorreta ou inexistente conversão de cruzeiros reais em URVs.
+Primeiramente, cabe distinguir conversão de salário de reajuste salarial.
+Observe-se o quanto decidido pelo e. Superior Tribunal de Justiça, em recurso repetitivo (REsp 1.101.726/SP, Tema 15), no sentido de que os reajustes determinados por lei superveniente à Lei 8.880194 não têm o condão de corrigir equívocos havidos na conversão de vencimentos em URV, por se tratarem de parcelas de natureza jurídica diversa e que, por isso, não podem ser compensadas
+(..)
+Era da parte autora o ônus de produzir, pelo menos, começo de prova de incorreção na fixação do valor de seus vencimentos, providência que se encontrava, plenamente, dentro de seu alcance; o que não ocorreu.
+Por simples cálculo aritmético, poder-se-ia fazer a confrontação do resultado da aplicação das tabelas de URV aos meses de novembro de 1993 a fevereiro de 1994 com o resultado apurado para março de 1994.
+E nem se alegue que a prova poderia ser produzida em fase de liquidação de sentença, pois esta não se presta a substituir a produção de prova na fase de conhecimento. Do contrário, seria possível deparar com a paradoxal situação de encontrar valor "zero" a executar.
+(..)
+Ainda que se houvesse demonstrado, com a petição inicial, erro ou omissão do ente pagador, qualquer diferença teria sido absorvida por reestruturação da pirâmide de vencimentos havida nesses mais de vinte anos contados da aprovação da Lei 8.880/94.
+As carreiras do quadro da Polícia Militar do Estado de São Paulo, nas quais se enquadram os instituidores das pensões, foram objeto de reestruturação, instituída pela Lei Estadual 8.989/94 e Leis Complementares 823/96, 830/97, 901/01, 1.065/08 e 1.216/13, entre outras.
+Ressalta-se que eventuais diferenças salariais estariam limitadas ao período que antecede a data de início da eficácia da primeira reestruturação.
+No caso dos apelantes, após o advento da Lei 8.880/94, a carreira foi reestruturada em dezembro de 1994.
+Ajuizada a ação somente em junho de 2008 (fls. 13), encontram-se prescritas quaisquer parcelas eventualmente passíveis de restituição.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
