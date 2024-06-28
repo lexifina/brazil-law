@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ JOCONDO DE CONTI (JOSÉ) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.310/1.314).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, C JOSÉ alegou dissídio e violação dos arts. (1.1) (1.3) 489, § 1º, e 1.022, I, ambos do CPC; 6º da LC n.º 108/2001; e 21 da LC n.º 109/2001, aduzindo omissão e contradição do julgado sobre a responsabilidade do patrocinador quanto à recomposição da reserva matemática, pois o patrocinador tem responsabilidades contratuais com o fundo de pensão recorrido e pode ser acionado administrativamente; (1.2) (1.4) 489, § 1º, e 1.022, I, ambos do CPC, alegando a omissão do julgado sobre a distribuição dos ônus sucumbenciais, uma vez que obteve êxito integral na demanda, não havendo que se falar em sucumbência recíproca, máxime em face do princípio da sucumbência e da causalidade, além de ter decaído em parte mínima do pedido (e-STJ, fls. 1.195/1.202).
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.227/1.234).
+É o relatório.
+DECIDO.
+A insurgência não merece ser acolhida.
+(1.1) (1.2) Da omissão
+Não há que se falar em omissão ou negativa de prestação jurisdicional, na medida em que o Tribunal paranaense, clara e fundamentadamente, dirimiu as questões que lhe foram submetidas, especialmente no que concerne à responsabilidade do patrocinador e sobre a distribuição da sucumbência.
+Na espécie, verifica-se que o TJPR se pronunciou sobre os temas consignando o seguinte:
+ ..  Dos embargos de declaração do autor.
+O peticionante abre sua peça pugnando pela atribuição de sucumbência integral à PREVI, visto que foi reconhecido seu direito ao recálculo de seu benefício administrado pela entidade fechada de previdência complementar. Não é o caso.
+O autor, em sua exordial, pugnou por este direito, além da inclusão do empregador no polo passivo e na responsabilização única dos réus pelo implemento da alteração de seu benefício, enquanto que o acórdão reconheceu que o implemento da benesse ficou sujeito à prévia atualização da fonte de custeio, a ser pago, no que lhe compete, pelo próprio autor (uma vez que parte da fonte de custeio deve ser paga pelo empregado, cabendo o restante ao empregador).
+Teratológica a afirmação, portanto, de que o autor obteve êxito integral na demanda e que não deveria ser responsabilizado por qualquer sucumbência. Não há motivo para alteração da decisão atacada neste aspecto.
+Melhor sorte não assiste ao embargante no que diz respeito à inclusão do Banco do Brasil no polo passivo. Trata-se de aspecto apreciado ao longo da relação jurídica processual, e não é exaustivamente tema que será reaberto para discussão porque o autor assim deseja. Inclusive, importante ressaltar que, conforme caso colacionado acima, a pretensão de cobrança da fonte de custeio em desfavor do empregador deve ser apresentada perante o Juízo Laboral, não perante a Justiça Comum, conforme estabelecido pelo próprio Supremo Tribunal Federal.
+Repisa-se: o fato de tese encampada pela parte interessada não ter sido acolhida pelo juízo não corresponde à ocorrência de omissão, obscuridade ou contradição, mas sim a mero inconformismo, o que não é sanável pela via dos embargos de declaração, posto que estes últimos não se prestam ao re-julgamento de mérito das decisões judiciais já proferidas (e-STJ, fls. 1.075/1.082 - sem destaques no original).
+Assim, inexistem os vícios elencados nos arts. 489, § 1º, I, II e IV, e 1.022, II, ambos do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Afasta-se, portanto, a alegada violação.
+(1.3) Da legitimidade passiva do patrocinador
+No particular, o acórdão recorrido está em consonância com a jurisprudência atual do STJ quanto à ausência de legitimidade passiva da patrocinadora em demandas, como a presente, voltadas, essencialmente, à revisão de benefício previdenciário complementar.
+Com efeito, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+A propósito, confiram-se precedentes de ambas as Turmas que compõem a Segunda Seção do STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO PARA REVISÃO DE BENEFÍCIOS DE PREVIDÊNCIA COMPLEMENTAR EM RAZÃO DO RECONHECIMENTO, PELA JUSTIÇA TRABALHISTA, DE VERBAS INCREMENTADAS AO SALÁRIO DE PARTICIPAÇÃO DO ASSISTIDO. PREVIDÊNCIA COMPLEMENTAR. HORAS EXTRAS. JUSTIÇA LABORAL. ILEGITIMIDADE DA PATROCINADORA.
+1. Ação para revisão de benefícios de previdência complementar em razão do reconhecimento, pela Justiça Trabalhista, de verbas incrementadas ao salário de participação do assistido.
+2. A jurisprudência do STJ é no sentido de que o patrocinador não possui legitimidade passiva para litígios que envolvam participante/ assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma. Precedentes do STJ.
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Agravo interno não provido.
+(REsp 1.967.153/DF, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 12/5/2022 sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. OBRIGAÇÃO DE RECÁLCULO DO BENEFÍCIO CONDICIONADA À PRÉVIA E INTEGRAL RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PELO PARTICIPANTE. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma."(REsp 1370191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/6/2018, DJe 1/8/2018).
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.942.900/DF, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022 - sem destaque no original)
+Inafastável, no caso em tela, a incidência da Súmula n.º 568 do STJ, ao preceituar que o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+(1.4) Da distribuição dos ônus da sucumbência
+Conforme transcrição do acórdão recorrido acima,
+ ..  O peticionante abre sua peça pugnando pela atribuição de sucumbência integral à PREVI, visto que foi reconhecido seu direito ao recálculo de seu benefício administrado pela entidade fechada de previdência complementar. Não é o caso.
+O autor, em sua exordial, pugnou por este direito, além da inclusão do empregador no polo passivo e na responsabilização única dos réus pelo implemento da alteração de seu benefício, enquanto que o acórdão reconheceu que o implemento da benesse ficou sujeito à prévia atualização da fonte de custeio, a ser pago, no que lhe compete, pelo próprio autor (uma vez que parte da fonte de custeio deve ser paga pelo empregado, cabendo o restante ao empregador).
+Teratológica a afirmação, portanto, de que o autor obteve êxito integral na demanda e que não deveria ser responsabilizado por qualquer sucumbência. Não há motivo para alteração da decisão atacada neste aspecto (e-STJ, fls. 1.075/1.082 - sem destaques no original).
+Nesse contexto, no âmbito do recurso especial, não há como aferir o percentual em que cada litigante foi vencedor ou vencido, nem como desconstituir a conclusão acerca da existência de sucumbência mínima ou recíproca, por envolver aspectos fáticos e probatórios, a incidir o disposto no Enunciado sumular n.º 7 deste Tribunal.
+Assim, quanto ao ponto, está claro que o recurso especial não deve sequer ultrapassar a barreira do conhecimento.
+Nessas condições, CONHEÇO do agravo para CONHECER, em parte, do especial e, nessa extensão, a ele NEGO PROVIMENTO.
+MAJORO em 15% o valor dos honorários advocatícios anteriormente fixados em favor da PREVI, nos termos do art. 85, § 11, do CPC. Deverá ser observado, se for o caso, o benefício da gratuidade da justiça, nos termos do art. 98, § 3º, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. JOSÉ. PREVIDÊNCIA PRIVADA FECHADA. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA LABORAL. REFLEXO NO CÁLCULO DO BENEFÍCIO. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ILEGITIMIDADE DA PATROCINADORA. PRECEDENTES. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
