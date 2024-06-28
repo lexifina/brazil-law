@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 83 do STJ (e-STJ fls. 89/94).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 32):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CINGE-SE A CONTROVÉRSIA QUANTO AO DIREITO DE RECEBIMENTO DE HONORÁRIOS ADVOCATÍCIOS EM VIRTUDE DE DECISÃO QUE, NA FASE DE CUMPRIMENTO DE SENTENÇA, RECONHECEU A NULIDADE DO PROCESSO POR FALTA DE CITAÇÃO, RETOMANDO A MARCHA PROCESSUAL DO INÍCIO. CPC/2015. ART. 85, § 1º E 10. OS HONORÁRIOS ADVOCATÍCIOS ESTÃO LIGADOS AO PRINCÍPIO DA SUCUMBÊNCIA OU CAUSALIDADE. PORTANTO, SÃO DEVIDOS OU PELA PARTE VENCIDA OU POR QUEM DEU CAUSA AO AJUIZAMENTO DA DEMANDA. QUANDO, EM FASE DE CUMPRIMENTO DE SENTENÇA, O JUÍZO RECONHECE A NULIDADE DO JULGADO POR FALTA DE CITAÇÃO, ARGUIDA POR MEIO DE IMPUGNAÇÃO, RETOMANDO A MARCHA PROCESSUAL DESDE O INÍCIO, NÃO SÃO DEVIDOS HONORÁRIOS ADVOCATÍCIOS. SEM PROCESSO VÁLIDO, NÃO HÁ CUMPRIMENTO DE SENTENÇA, NÃO HÁ EXECUÇÃO, NÃO HÁ PRESSUPOSTO ALGUM PARA ARBITRAR HONORÁRIOS. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 51/56).
+Nas razões do recurso especial (e-STJ fls. 58/77), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) Artigos 489, §1º, inciso VI e 927, III, ambos do CPC, eis que o órgão julgador recorrido deixou de aplicar precedente obrigatório (recurso repetitivo) sem realizar a distinção com o caso concreto;
+(ii) Artigo 85, §1º, do CPC, tendo em vista que não houve a fixação de honorários advocatícios sucumbenciais em virtude do acolhimento do cumprimento de sentença em primeira instância.
+No agravo (e-STJ fls. 108/121), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fls. 127).
+É o relatório.
+Decido.
+Conforme consta no acórdão recorrido, "cinge-se a controvérsia quanto ao direito de recebimento de honorários advocatícios em virtude de decisão que, na fase de cumprimento de sentença, reconheceu a nulidade do processo por falta de citação, retomando a marcha processual do início" (e-STJ fl. 35). Por sua vez, o TJRJ negou provimento ao Agravo de Instrumento, por entender que, "quando, em fase de cumprimento de sentença, o juízo reconhece a nulidade do julgado por falta de citação, arguida por meio de impugnação, retomando a marcha processual desde o início, não são devidos honorários advocatícios" (e-STJ fl. 36).
+Contudo, ao assim decidir o acórdão recorrido contrariou a jurisprudência dessa Corte Superior, segundo a qual são devidos honorários advocatícios ao impugnante quando o acolhimento da impugnação do cumprimento de sentença resulte em extinção do procedimento executivo. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+ ..
+2. Nos termos da jurisprudência desta Corte, a citação por edital somente é admitida quando previamente esgotadas as tentativas de localização da parte demandada.
+2.1. "O comparecimento espontâneo do executado na fase de cumprimento de sentença não supre a inexistência ou a nulidade da citação. Ao comparecer espontaneamente nessa etapa processual, o executado apenas dar-se-á por intimado do requerimento de cumprimento e, a partir de então, terá início o prazo para o oferecimento de impugnação, na qual a parte poderá suscitar o vício de citação, nos termos do art. 525, § 1º, I, do CPC/2015." (REsp n. 1.930.225/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/6/2021.).
+3. O Tribunal de origem decidiu em consonância com a Jurisprudência desta Corte Superior, que possui firme o entendimento no sentido de que são devidos honorários advocatícios ao executado/ impugnante quando o acolhimento da impugnação do cumprimento de sentença resulte em extinção do procedimento executivo ou redução do montante executado, o que, segundo o acórdão recorrido, ocorreu no presente caso. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.002.572/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+No mais, a Segunda Seção do STJ concluiu que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo (REsp 1746072/PR, Rel. p/ Acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/02/2019, DJe 29/03/2019).
+No caso dos autos, tendo sido reconhecida a nulidade de citação e retornando o processo à fase de conhecimento, considero como inestimável o proveito econômico obtido, devendo, por conseguinte, ser fixados os honorários por equidade.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos à primeira instância, a fim de que fixe os honorários advocatícios por equidade, em decorrência do acolhimento da impugnação ao cumprimento de sentença.
+Publique-se e intimem-se.
+ EMENTA
