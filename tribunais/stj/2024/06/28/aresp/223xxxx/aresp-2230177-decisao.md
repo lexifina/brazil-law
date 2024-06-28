@@ -1,0 +1,6 @@
+DECISÃO
+Nada obstante o conteúdo da decisão proferida pelo Tribunal de origem às fls. 822/824, o exame que se faça do acórdão recorrido, integrado por aquele proferido quando do julgamento dos embargos declaratórios, e do quanto suscitado pelo recorrente no recurso especial, bem evidencia que há total adstrição do caso concreto à controvérsia que será resolvida por este Tribunal Superior quando do julgamento do Tema 1.124/STJ.
+A vinculação do caso concreto ao tema repetitivo em comento fica ainda mais evidente se considerada a alteração da delimitação da questão de direito promovida pela Primeira Seção do STJ em 22/5/2014, estando essa questão, na atualidade, sintetizada na seguinte proposição: "Caso superada a ausência do interesse de agir, definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS, se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária."
+Ante o exposto, determino a devolução dos autos ao Tribunal Regional Federal da 3ª Região, a fim de que, na forma do art. 1. 037, II, do CPC, permaneçam sobrestados até o julgamento do Tema 1.124/STJ, adotando-se, a partir de então, os procedimentos previstos no art. 1.040 do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
