@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARIA JOSE RODRIGUES DOS SANTOS contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial em virtude da falta de prequestionamento da tese recursal.
+Nas presentes razões, a agravante afirma que "foi de maneira explícita que o acórdão recorrido aplicou a regra do §11, do art. 85, do CPC, majorando os honorários advocatícios sucumbenciais já arbitrados na origem em desfavor da Recorrente (Ré), mesmo dando parcial provimento ao recurso" (e-STJ fl. 431).
+Ao final, requer a reforma da decisão atacada.
+A parte contrária não apresentou impugn ação (e-STJ fls. 444/445).
+É o relatório.
+DECIDO.
+Com razão a agravante.
+Com efeito, verifica-se que o acórdão local majorou a verba honorária advocatícia, estando a questão devidamente prequestionada.
+Isso posto, reconsidera-se a decisão proferida e passa-se ao exame do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"APELAÇÃO. CIVIL E PROCESSUAL CIVIL. CONTRATO DE LOCAÇAO DE IMÓVEL COMERCIAL. TARIFAS DE ÁGUA E DE LUZ. OBRIGAÇÃO DO LOCATÁRIO QUE SE SERVIU DOS SERVIÇOS. OBRIGAÇÃO PROPTER PERSONAM. IPTU E TLP. SURRECTIO. INOCORRÊNCIA. COMPROVANTE DO PAGAMENTO DE ALUGUEL NÃO CONTESTADO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. A presente hipótese trata de relação jurídica negociai firmada com fundamento na Lei nº 8.245/1991. 2. A reponsabilidade pelas tarifas de água e energia, assim como pelo IPTU e TLP foi livremente estabelecida no contrato de locação. 3. Os débitos decorrentes do fornecimento de energia elétrica e água constituem obrigação pessoal (propter personam), não se vinculando à titularidade do bem, mas exclusivamente a quem se beneficiou dos serviços contratados. 4. O locador pode exigir o pagamento das despesas de água e luz, do locatário que detinha a posse direta do imóvel, usufruindo dos serviços, sendo desinfluente para a responsabilização pretendida se as faturas estão em nome do antigo locatário. 5. Decorre da cláusula geral de boa-fé objetiva o instituto da supressio (Vervrirkung), que pode ser definido como a supressão de uma posição jurídica ativa em virtude do seu não exercício por um lapso temporal prolongado, o que importaria em renúncia tácita. Assim, ao mesmo tempo em que o credor perde sua posição jurídica ativa em virtude dessa supressão, surge a pretensão, em favor do devedor, constituída pelo instituto da surrectio (Erwirkung), à vista de interesses jurídicos até então inexistentes, mas que decorrem das práticas, dos usos e dos costumes. 6. No caso em exame verifica-se que o instrumento negociai não prevê a inclusão do IPTU ou da TLP no valor do aluguel avençado. Ademais, a apelante não conseguiu comprovar, por meio do acervo documental produzido, nem pela oitiva das testemunhas em audiência, a ocorrência da subsequente renúncia à cobrança do aludido imposto por lapso de tempo prolongado. Por essa razão o argumento de que não é devedora de IPTU/TLP com fundamento no instituto da supressio não pode ser acolhido. 7. Em relação ao aluguel do mês de outubro de 2019, a apelante acostou aos autos comprovante do pagamento e, apesar de ter tido a possibilidade de se manifestar a respeito do aludido documento, o recorrido não contestou a veracidade da alegação. 8. Recurso conhecido e parcialmente provido" (e-STJ fl. 371).
+No recurso especial, alega-se violação do art. 85, § 11, do Código de Processo Civil, ao argumento de que a majoração dos honorários de sucumbência somente pode ocorrer em caso de não conhecimento ou de não provimento do recurso, não sendo cabível esse aumento diante do provimento parcial do inconformismo.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Cuida-se de ação de despejo promovida pelo locador, ora recorrido, julgada procedente.
+A apelação interposta pela recorrente foi provida em parte, com majoração dos honorários advocatícios, como se vê do seguinte trecho do voto condutor:
+"(..)
+A pretensão recursal deve ser, portanto, parcialmente acolhida.
+Feitas essas considerações, conheço e dou parcial provimento ao recurso apenas para determinar a exclusão do aluguel referente ao mês de outubro de 2019 do valor total da condenação.
+Majoro os honorários de advogado para 11% (onze por cento) sobre o valor da condenação, a serem custeados exclusivamente pela ré, nos termos dos artigos 85, § 11 do Código de Processo Civil, cuja exigibilidade fica suspensa, nos termos do art. 98, § 3o, do CPC.
+É como voto" (e-STJ fl. 378).
+Verifica-se que o aresto combatido está em confronto com a jurisprudência do Superior Tribunal de Justiça que, ao analisar o Tema Repetitivo nº 1.059, fixou a seguinte tese:
+"A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação" - grifou-se.
+Logo, merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante o exposto, reconsidero a decisão agravada (e-STJ fls. 421/423) e conheço do agravo para dar provimento ao recurso especial, a fim de manter os honorários advocatícios nos exatos termos da sentença (e-STJ fls. 335/342).
+Publique-se.
+Intimem-se.
+EMENTA
