@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RODRIGO PIVA VERONESI contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 1.180):
+RECURSOEXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte embargante sustenta a extinção da pretensão punitiva frente ao delito cuja prática lhe foi imputada nesta ação penal, por incidência da prescrição penal, aduzindo a possibilidade de seu reconhecimento pela Vice-Presidência, de ofício, com a concessão de ordem de habeas corpus.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+É o relatório.
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, em primeiro lugar, é necessário observar a ausência de vícios na decisão embargada, a qual negou seguimento ao recurso extraordinário mediante a aplicação do Tema n. 181 do STF.
+Com efeito, conforme registrado no provimento singular, a inviabilidade do recurso extraordinário decorre do entendimento fixado pela Suprema Corte no julgamento do RE n. 598.365-RG/MG, segundo o qual "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional".
+No tocante à aventada extinção de punibilidade, cumpre observar que a matéria já havia sido apresentada, por meio da petição de fls. 1.130-1.131, a esta Corte Superior, que, em decisão monocrática do eminente relator dos embargos de divergência manejados nos autos, rechaçou a pretensão deduzida pela defesa nos seguintes termos (fl. 1.134):
+No caso, observo que a alegação de extinção da punibilidade devido à suposta verificação da prescrição não foi analisada pelas instâncias de origem. E, a partir das informações constantes dos autos, não constato a existência de qualquer ilegalidade que justifique a declaração, de ofício, da prescrição.
+A apreciação do pedido no âmbito desta Corte Superior tornou exaurida a jurisdição para a matéria, não havendo, portanto, falar em omissão da decisão embargada.
+Cabe à parte interessada, se assim entender, buscar o meio processual adequado para revisitar a controvérsia perante o órgão jurisdicional competente para apreciar a validade das decisões emanadas deste Tribunal.
+Nada obstante, em acréscimo, vale ressaltar apenas que, nos termos da jurisprudência do Superior Tribunal de Justiça:
+A decisão do Tribunal de origem que inadmite o recurso especial possui natureza meramente declaratória e, uma vez mantida a inadmissibilidade do recurso especial por esta Corte Superior, a data do trânsito em julgado da ação penal retroagirá à data do escoamento do prazo para a interposição do último recurso admissível na origem, de modo a evitar que recursos manifestamente incabíveis sejam computados no prazo da prescrição da pretensão punitiva. (AgRg no AREsp n. 1.726.392/PR, Ministro Messod Azulay Neto, Quinta Turma, DJe 15/12/2023.)
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, com fundamento no art. 22, § 2º, I, a, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. PRESCRIÇÃO. MATÉRIA APRECIADA NO ÂMBITO DO ÓRGÃO FRACIONÁRIO. EXAURIMENTO DA JURISDIÇÃO. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
