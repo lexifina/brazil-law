@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCO DANIEL DE SOUSA MARTINS contra a decisão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ que inadmitiu recurso especial manejado em face de acórdão proferido na Apelação Criminal n. 000641-93.2019.8.18.0050, assim ementado (fls. 679-680):
+APELAÇÃO CRIMINAL. PROCESSUAL PENAL. LATROCÍNIO. DOSIMETRIA DA PENA. PLEITO DE FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. FUNDAMENTAÇÃO INIDÔNEA DA PERSONALIDADE. OS DADOS COLIGIDOS AOS AUTOS NÃO APRESENTAM EMBASAMENTO SUFICIENTE PARA O AUMENTO DA PENA EM RAZÃO DESTA CIRCUNSTÂNCIA JUDICIAL. VETOR AFASTADO. MANTIDA A VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS. PENA REDIMENSIONADA. PENA DE MULTA REDUZIDA PARA 12 DIAS-MULTA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Dosimetria da pena
+1. Personalidade. A personalidade deve ser aferida com base no perfil subjetivo do acusado, tendo em vista seus aspectos morais e psicológicos, com o fito de se identificar a existência de caráter voltado à prática de infração penal, com base nos elementos probatórios dos autos, aptos a inferir o desvio de personalidade de acordo com o livre convencimento motivado.
+2. In casu, os dados coligidos aos autos não apresentam embasamento suficiente para o aumento da pena em razão desta circunstância judicial.
+3. Circunstâncias do crime. As circunstâncias da infração penal compreendem as particularidades do fato criminoso, sendo suficiente para a sua valoração negativa a constatação de que o acusado praticou o latrocínio em concurso de pessoas, o que eleva a probabilidade de êxito na empreitada criminosa. Manutenção da valoração negativa.
+4. Pena de multa. A fixação do número de dias-multa deve ser estabelecida com proporcionalidade à pena privativa de liberdade imposta. No caso em apreço, com a modificação da reprimenda, a pena de multa foi reduzida para 12 (doze) dias-multa.
+5. Recurso conhecido e parcialmente provido.
+O agravante foi condenado às penas de 23 (vinte e três) anos e 9 meses de reclusão, em regime inicial fechado, e ao pagamento de 14 (quatorze) dias-multa, pela prática do delito previsto no artigo 157, §3º, inciso II, do Código Penal (CP).
+A Corte Estadual deu parcial provimento ao apelo defensivo, afastando a valoração negativa da personalidade do acusado, reduzindo a pena definitiva para 22 (vinte e dois) anos e 6 (seis) meses de reclusão e 12 (doze) dias-multa (fls. 679-702).
+Nas razões do recurso especial, o agravante alega violação aos artigos 59 e 60 do CP, ao argumento de que a pena-base teria sido exasperada indevidamente quanto às circunstâncias do crime, porquanto ausente fundamentação idônea.
+Aduz que a quantidade de dias-multa da condenação não condiz com a capacidade econômica do recorrente, vez que foi assistido pela Defensoria Pública durante toda a instrução processual, fato que já denota a hipossuficiência do recorrente e autoriza a redução da pena de multa aplicada (fls. 713-714).
+Requereu o provimento do recurso para afastar a valoração negativa da vetorial circunstância do crime, bem como reduzir o pagamento de multa (fl. 714).
+Contrarrazões apresentadas às fls. 718-732.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (fls. 742-748).
+Parecer do Ministério Público Federal pelo não provimento do agravo (fls. 777-781).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Em relação ao cálculo da reprimenda, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, "a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (AgRg no HC 710.060/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe 17/12/2021).
+Para melhor elucidação da controvérsia, necessário transcrever excerto do aresto proferido pelo Tribunal estadual relativo à primeira fase da dosimetria (fls. 685-686-grifamos):
+No que tange às circunstâncias do crime, fundamenta o magistrado:
+"Circunstâncias do crime - as circunstâncias em que o crime ocorreu devem ser valoradas de forma negativa, porquanto fora praticado em concurso de agentes, o que eleva sobremaneira a probabilidade de êxito na empreitada criminosa".
+(..)
+Assim, as circunstâncias da infração penal compreendem as particularidades do fato criminoso, devendo ser analisado, neste passo, o lugar do crime, o tempo de sua duração, o relacionamento existente entre o autor e vítima, a atitude assumida pelo delinquente no decorrer da realização do fato criminoso.
+No caso concreto, a justificativa apontada pelo julgador é suficiente para agravar a pena, pois o acusado praticou o latrocínio com a ajuda de um comparsa o que, de fato, eleva a probabilidade de êxito na empreitada criminosa. Além disso, o concurso de agentes não foi utilizado em nenhuma outra fase da dosimetria da pena.
+Conforme se observa do excerto acima transcrito, no que diz respeito à valoração negativa das circunstâncias do delito utilizado pelas instâncias de origem, para fixação da pena-base acima do mínimo legal foi suficientemente fundamentada, tendo sido apontado o fato de o crime ter sido cometido em concurso de agentes, o que empresta à conduta do agravante especial reprovabilidade e que não se afigura inerente ao próprio tipo penal, afastando-se do normal à espécie, nos termos da jurisprudência desta Corte Superior.
+Nesse sentido, tê m-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. ART. 59 DO CÓDIGO PENAL. CULPABILIDADE E CONDUTA SOCIAL NEGATIVAMENTE VALORADAS. FUNDAMENTAÇÃO IDÔNEA. RECURSO IMPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. O fato de o delito ter sido praticado em concurso de agentes demonstra uma maior reprovabilidade da conduta, justificando a exasperação da reprimenda basilar.
+3. Por outro lado, a vetorial conduta social "corresponde ao comportamento do réu no seu ambiente familiar e em sociedade, de modo que a sua valoração negativa exige concreta demonstração de desvio de natureza comportamental" (HC 544.080/PE, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 14/2/2020).
+4. Na hipótese, as instâncias ordinárias ressaltaram que o recorrente é conhecido no bairro em que reside como uma pessoa perigosa e temida, fundamentação válida para a exasperação da basilar.
+5. Agravo regimental a que se nega provimento (AgRg no REsp n. 1.960.385/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/11/2021, DJe 12/11/2021).
+Assim, tendo o acórdão recorrido utilizado de fundamentação idônea apta a justificar a exasperação da pena-base, não há como proceder qualquer reparo nesta estreita via especial.
+Quanto à insurgência relativa à suposta desproporcionalidade da pena de multa estabelecida, ao contrário do que sustenta o agravante, o entendimento do STJ é no sentido de que "a simples circunstância do patrocínio da causa pela Defensoria Pública não faz presumir a hipossuficiência econômica do representado" (AgRg no AREsp n. 2.289.674/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe 16/8/2023).
+Ademais, assim consignou o acórdão recorrido quanto ao tema (fl. 690):
+(..)
+In casu, o pleito defensivo já fora atendido, posto que após o redimensionamento da pena, o Apelante foi condenado ao pagamento de 12 (doze) dias-multa, reduzindo a pena de multa para próximo do seu mínimo legal e guardando proporcionalidade coma pena privativa de liberdade aplicada.
+Assim, além de a parte agravante não ter atacado referido fundamento, limitando-se a defender a presunção de hipossuficiência da parte por ter sido assistido pela Defensoria Pública durante toda instrução processual, verifica-se que a quantidade de dias-multa estabelecida pelo Tribunal de origem não se mostra desarrazoada, de modo a justificar a intervenção desta instância especial, pois a pena pecuniária foi imposta próxima ao mínimo legal, de forma fundamentada e em proporcionalidade com a pena privativa de liberdade, como exige a jurisprudência deste Superior Tribunal de Justiça .
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+EMENTA
