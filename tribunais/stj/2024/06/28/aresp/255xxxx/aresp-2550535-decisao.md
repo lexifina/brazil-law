@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO ANULATÓRIA. ICMS. Pedido de reconhecimento da possibilidade de creditamento relativo à operação de entrada de mercadorias. Violação do regramento do programa RIOINDUSTRIA, ao qual a autora aderira expressamente.
+Impossibilidade de aproveitamento de crédito de ICMS relativo as operações de entrada. Sentença de improcedência. O Art.111, do CTN impõe interpretação restritiva, que desautoriza a tese da autora de possibilidade de utilização seletiva daquele regime tributário.
+Manutenção da sentença que se impõe. DESPROVIMENTO DO RECURSO.
+Os Embargos de Declaração foram rejeitados (fls. 1.134-1.140).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 489, II e IV, e 1.022 do CPC e 19 e 20 da LC 87/1996. Afirma que o creditamento foi feito em conformidade com o princípio da não-cumulatividade do ICMS, apesar de estar sob o regime de diferimento do imposto pelo programa RIOINDÚSTRIA. Defende que não houve prejuízo ao erário e que a multa aplicada é desproporcional.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 30 de abril de 2024.
+Cuida-se, na origem, da verificação da legalidade de um auto de infração emitido pelo Estado do Rio de Janeiro, fundamentado na alegação de recolhimento insuficiente de ICMS e FECP, resultante da apropriação, em agosto de 2010, de créditos fiscais relativos à compra de mercadorias pela autora de Votorantim Cimentos Brasil S.A.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que a Corte a quo julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+No enfrentamento da matéria, o Colegiado local consignou:
+Em sua defesa, o Estado alegou sobre a impossibilidade da empresa autora utilizara sistemática usual de creditamento em razão de ser agraciado pelo benefício fiscal previsto no Decreto Estadual nº 34.171/03 -Rioindústria, sendo de observância obrigatória.
+O Imposto sobre Circulação de Mercadorias e Serviços-ICMS de competência dos Estados e do Distrito Federal é previsto no art. 155, II, da C.R.F.B.:
+(..)
+E para regulamentar tal tributo, o legislador ordinário editou a Lei Complementar nº 88/96 (Lei Kandir), que dispõe em seus arts.19 e 20 acerca da possibilidade de sua compensação, tendo em vista a não-cumulatividade do referido tributo, a saber:
+(..)
+O diferimento fiscal configura o nascimento de uma obrigação tributária, coma posposição do lançamentoe pagamento do crédito tributário para etapa posterior. Assim, não cuida de benefício fiscal, mas sim de técnica de controle da arrecadação e fiscalização do pagamento do imposto. Sendo técnica de tributação impositiva, não viabiliza a opção pelo pagamento na primeira operação(entrada), ressalvada a hipótese de expressa permissão legal, que não é o caso dos autos.
+O Superior Tribunal de Justiça já se pronunciou no sentido de que o diferimento não constitui benefício fiscal, mas técnica de arrecadação que visa aperfeiçoar tarefas típicas do fisco.
+Como se observa, a vexata quaestio foi solucionada com fundamento em lei local (Decreto Estadual 34.171/2003). Logo, é inviável, na presente via, o exame dessa matéria ante a incidência, por analogia, da Súmula 280 do STF: "Por ofensa a direito local não cabe Recurso Extraordinário". Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDORA PÚBLICA ESTADUAL. DESCONTOS EM FOLHA DE PAGAMENTO. LIMITAÇÃO. DIREITO LOCAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.
+1. O acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem - de que "o Decreto Estadual nº 12.796/09 define limites específicos de despesas do servidor público estadual com empréstimos consignados e cartão de crédito, nos percentuais de 40% e 10% da renda bruta, respectivamente" -, é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+2. Agravo interno não provido. (AgInt no AREsp 1.203.368/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/5/2018)
+Ademais, é inviável analisar a tese defendida no REsp, pois é indispensável a revisão do conjunto probatório para desconstituir as premissas fáticas fixadas pelo acórdão recorrido. Incidência da Súmula 7 do STJ. Nessa linha:
+TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. REVISÃO DO ACERVO PROBATÓRIO. VEDAÇÃO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A questão atinente ao creditamento de ICMS em razão do abatimento de valores decorrentes de incorreções verificadas em notas fiscais/faturas de energia elétrica emitidas e posteriormente canceladas foi solucionada pelo Tribunal de origem à luz da interpretação dos arts. 35 e 38 da Lei 688/1986 e do Decreto 8.321/1968, ambos do Estado de Rondônia. A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal (STF) - "Por ofensa ao direito local não cabe recurso extraordinário".
+(..)
+4. O Tribunal de origem reconheceu que a parte recorrente não havia comprovado o crédito alegado. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca de fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.737.312/RO, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 29/2/2024.)
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489 E 1.022, AMBOS DO CPC. NÃO CARACTERIZAÇÃO. CONTRIBUIÇÃO PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). CREDITAMENTO. INSUMOS. TEMA 779 DO STJ. VALORES DISPENDIDOS COM REPRESENTAÇÃO COMERCIAL. CLASSIFICAÇÃO COMO INSUMO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
+(..) 2. Quanto ao mérito, trata-se na origem de mandado de segurança impetrado pelo recorrente objetivando o provimento jurisdicional que autorize o aproveitamento dos créditos de PIS e COFINS oriundos das despesas incorridas com pagamento aos representantes comerciais pessoas jurídicas.
+3. A partir da exegese do precedente firmado no tema nº 779/STJ e considerando os fatos apurados pelo trecho destacado acima, restou consignado pelo aresto rechaçado, a inviabilidade da pretensão do contribuinte, porquanto o Tribunal de origem não considerou insumo essencial para o desenvolvimento da atividade empresaria, as despesas incorridas com representantes comerciais.
+4. Assim, dissentir das conclusões então adotadas, com vistas a atestar a essencialidade e a relevância da despesa discutida, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo conhecido para se conhecer parcialmente do recurso especial e nessa extensão, nego-lhe provimento.
+(AREsp 2.382.246/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/10/2023.)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas em relação à indicada infringência ao art. 1.022 do CPC, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
