@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GABRIEL BORELLI DE ARAUJO com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP em julgamento da Apelação Criminal n. 1501569-68.2021.8.26.0537.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 33, § 4º, da Lei n. 11.343/06 (tráfico de drogas), à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, e 166 dias-multa (fl. 217).
+Recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - PRELIMINAR AFASTADA - AUTORIA E MATERIALIDADE DELITIVA COMPROVADAS - PENA BEM APLICADA - REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS - RECURSO DA DEFESA IMPROVIDO." (fl. 318)
+Embargos de declaração opostos pela defesa foram rejeitados, conforme acórdão de fls. 385/387.
+Em sede de recurso especial (fls. 333/373), a defesa apontou violação aos arts. 157, caput e § 1º, 240, caput e § 2º, e 244, todos do Código de Processo Penal - CPP, porque o TJSP não reconheceu nulidade da busca pessoal. Entende que o fato do recorrente estar em local conhecido com ponto de tráfico de drogas e apresentar nervosismo não justifica, por si só, a abordagem.
+Em seguida, a defesa apontou violação aos arts. 564, III, "m", 381, III, e 619, todos do CPP, porque o TJSP, mesmo diante de embargos de declaração, não sanou omissão a respeito do pedido defensivo de afastamento das condições cumuladas ao regime aberto.
+Requer a absolvição decorrente da busca ilegal ou a determinação de novo julgamento dos embargos de declaração para correção da omissão.
+Contrarrazões (fls. 398/405).
+Admitido parcialmente o recurso no TJSP (fl. 408), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 417/420).
+É o relatório.
+Decido.
+Sobre a busca pessoal, o TJSP registrou:
+"Alega a defesa, em preliminar, ilicitude da provaem razão da busca pessoal ter sido realizada sem justa causa, de acordocom o art. 240, § 2º, do CPP.
+Os policiais narraram que ao chegar ao local, conhecido por se tratar de ponto de venda de drogas, perceberam que o Réu demonstrou nervosismo ao avistar os policiais, o que, por si só, já é razão suficiente para justificar a abordagem realizada.
+Assim, restou devidamente comprovada a fundada suspeita a justificar a busca pessoal.
+Afasta-se, pois, a nulidade arguida." (fl. 319).
+Por seu turno, na sentença constou o seguinte:
+"Inicialmente, não verifico situação de nulidade das provas por suposta ilegalidade na atuação dos policiais. Como se sabe, nos termos do art. 244 do CPP, a busca pessoal independe de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar. No caso dos autos, entendo que tais requisitos legais foram cumpridos.
+Com efeito, no caso dos autos o acusado foi abordado em um ponto de drogas, na posse de uma mochila, gerando fundada suspeita de que pudesse estar praticando o tráfico no local. Não se trata, portanto, de hipótese de busca pessoal realizada de forma aleatória e indiscriminada em pessoas escolhidas a esmo em via pública, mas abordagem de pessoa em atitude suspeita em ponto de tráfico. Este contexto afasta a aplicação dos precedentes indicados pela Defensoria Pública em alegações finais." (fls. 209/210).
+Extrai-se dos trechos acima que os policiais abordaram o recorrente porque ele estava em ponto de venda de drogas, na posse de uma mochila, tendo demonstrado nervosismo ao avistar os policiais, razão pela qual as instâncias ordinárias entenderam pela legalidade da busca pessoal.
+Tal entendimento não encontra amparo na jurisprudência desta Corte, pois o nervosismo do agravante, ainda que em conhecido ponto de tráfico de drogas, não configura justa causa para a busca pessoal. No mesmo sentido, citam-se precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL. NULIDADE. BUSCA PESSOAL. AUSÊNCIA DE FUNDADAS SUSPEITAS PARA A ABORDAGEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não satisfazem a exigência legal  para se realizar a busca pessoal e/ou veicular , por si sós, meras informações de fonte não identificada (e.g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP" (RHC n. 158.580/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+2. No caso em tela, a abordagem foi realizada em razão do suposto comportamento suspeito do paciente, que, em estabelecimento comercial conhecido como ponto de tráfico de drogas, teria apresentado nervosismo ao visualizar os policiais, o que, conforme decidido no Recurso em Habeas Corpus n. 158.580/BA, não é suficiente para justificar a busca pessoal, que resultou na apreensão de 30g (trinta gramas) de maconha; 2g (dois gramas) de cocaína; e 32 comprimidos de ecstasy, porquanto ausentes fundamentos concretos que indicassem que ele estaria em posse de drogas, de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 822.332/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONCOMITANTE DE RECURSOS PELO MINISTÉRIOS PÚBLICOS ESTADUAL E FEDERAL. POSSIBILIDADE. TRÁFICO DE DROGAS. BUSCA PESSOAL. AUSÊNCIA DE FUNDADAS RAZÕES. FLAGRANTE FUNDAMENTADO EM ELEMENTOS SUBJETIVOS APONTADOS PELOS POLICIAIS. NULIDADE DAS PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A interposição concomitante de recurso pelo Ministério Público Federal e pelo Ministério Público estadual não inviabiliza a análise do protocolizado por último, pois, de acordo com entendimento jurisprudencial do STJ, o órgão federal tem legitimidade para interpor agravo regimental ainda que o estadual tenha exercido essa faculdade com precedência, sem que se configure preclusão consumativa ou violação do princípio da unirrecorribilidade" (EDcl no AgRg no HC n. 642.130/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.).
+2. De acordo com o entendimento pacificado nesta Corte Superior, o nervosismo demonstrado pelo acusado, por si só, não constitui fundamento suficiente para autorizar a conclusão de que esteja cometendo algum tipo de delito, permanente ou não. Precedentes do STJ.
+3. No caso, o Tribunal de origem reconheceu a nulidade da busca pessoal, sob o fundamento de que a ação policial se deu em razão do "nervosismo" do acusado, quando avistou a viatura e também por estar em local conhecido como ponto de tráfico de drogas.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.459.414/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024.)
+Considerando a ilegalidade da busca pessoal, o recorrente deve ser absolvido, na forma do art. 386, II, do CPP.
+Fica prejudicada a alegação subsidiária.
+Ante o exposto, conheço em parte do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para reconhecer a ilegalidade da busca pessoal e absolver o recorrente.
+Publique-se. Intimem-se.
+EMENTA
