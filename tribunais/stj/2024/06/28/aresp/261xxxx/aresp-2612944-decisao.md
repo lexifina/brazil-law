@@ -1,0 +1,47 @@
+DECISÃO
+JOSE DA SILVA LEAL agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal Regional Federal a 2ª Região no Recurso em Sentido Estrito n. 0500054-62.2018.4.02.5115/RJ.
+O agravante teve o incidente de falsidade acolhido parcialmente pelo juízo de primeira instância, conforme o Laudo n. 515/2022. A Corte antecedente manteve a decisão.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 145, 159 e 235 do Código de Processo Penal. Alegou, em síntese, que "não foi viabilizada a produção de prova pericial grafoscópica, necessária à apuração de falsidade de assinatura, no incidente apresentado" (fls. 574-575).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, à fl. 649, pelo não provimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+O Tribunal de origem, quanto ao incidente de falsidade, apresentou os fundamentos a seguir (fls. 557-558, grifos no original):
+ ..
+Não assiste razão ao recorrente.
+Com efeito, embora conste no título do Laudo Pericial nº 515/2022 apenas "Laudo de Perícia Criminal Federal (documentoscopia)", basta uma leitura do mencionado laudo para constatar que os peritos realizaram a postulada perícia grafoscópica na Procuração Pública.
+Nesse sentido, transcrevo, por oportuno, trecho do laudo em questão (evento 130, PRECATORIA1, fls. 60/74), demonstrando que ambos os peritos se dirigiram ao Cartório para examinar a assinatura em comento, em atenção às boas práticas da grafoscopia, que preconizaram que seja examinada a via original do documento:
+"(..)Com base na Informação nº 069/2022-UCRIM/SETEC/SR/PF/MG, o documento questionado é um Instrumento Público de Procuração datado de 20/10/2003 e lavrado no Cartório do 1º Ofício de Notas da Comarca de Muriaé/MG.
+O questionamento recai sobre a assinatura do Outorgante, JOSÉ DA SILVA LEAL, aposta no reverso do referido documento.
+Considerando que o documento supracitado não pode ser retirado do cartório para exame neste Núcleo Técnico- Científico e, ainda, que as boas práticas da grafoscopia preconizam que seja examinada sua via original, em 08/12/2022 os Peritos Criminais Federais JOÃO LUIZ FREIXO e ROBERTO WAGNER DE AZEVEDO SANT"ANA se deslocaram até o mencionado Cartório, sito à Rua Dr. Afonso Canêdo, nº 90, Centro, Muriaé/MG, para examinar a assinatura objeto da controvérsia. Na ocasião, também foram estudadas algumas assinaturas a título de padrão de JOSÉ DA SILVA LEAL disponíveis naquele Cartório." (destaquei)
+Registre-se, ainda, a descrição pormenorizada de como os exames periciais foram realizados. Confira-se:
+"(..) O Perito Criminal iniciou o exame específico dos grafismos, padrões e questionado, à luz do método grafoscópico. Esta técnica requer que se realize um minucioso estudo dos lançamentos gráficos a serem cotejados, visando determinar suas particularidades gráficas quanto aos aspectos objetivos, quais sejam grafocinéticos3 (genéticos) e morfológicos4 (formais), e subjetivos, isto é, qualidade geral do traçado (pressão, velocidade, dinamismo e ritmo). Com isso se busca encontrar peculiaridades discriminadoras das escritas examinadas.
+Estabelecidas as características dos lançamentos em estudo, o passo seguinte consiste no cotejo entre eles, atentando-se para a observação e interpretação das convergências e/ou divergências verificadas.
+(..) Tendo em vista a complexidade do exame grafoscópico e as diversas variáveis envolvidas no processo de produção da escrita, nem sempre será possível verificar qual a hipótese mais acertada para o caso, ou nem mesmo formar uma opinião técnica a respeito da autoria dos lançamentos questionados.
+(..)
+Neste contexto, na formulação da conclusão do exame grafoscópico, considera-se a probabilidade de encontrar as evidências, bem como avaliar em que extensão essas evidências suportam uma ou outra proposição, diante de duas hipóteses: os grafismos questionados foram produzidos pela mesma pessoa que forneceu os padrões ou os grafismos questionados não foram produzidos pela mesma pessoa que forneceu os padrões. Para isso, adota-se a escala de possibilidades recomendada pelo Manual de Procedimentos Periciais: documentoscopia - elaboração de laudos de exames grafoscópicos, 3 ed., 2019, DITEC/PF:
+I - as evidências suportam fortemente a hipótese de que os manuscritos questionados foram produzidos pela mesma pessoa que forneceu os padrões;
+II - as evidências suportam moderadamente a hipótese de que os manuscritos questionados foram produzidos pela mesma pessoa que forneceu os padrões;
+III - as evidências não suportam nem se contrapõem a nenhuma das duas hipóteses ou não é possível formar uma convicção sobre potencial autoria;
+IV - as evidências suportam moderadamente a hipótese de que os manuscritos questionados não foram produzidos pela mesma pessoa que forneceu os padrões;
+V - as evidências suportam fortemente a hipótese de que os manuscritos questionados não foram produzidos pela mesma pessoa que forneceu os padrões
+(..)
+É necessário esclarecer também que o estudo dos lançamentos gráficos de assinaturas e rubricas inicia-se, como um procedimento ideal grafoscópico, pela avaliação da autenticidade dos grafismos, ou seja, procura-se identificar se os lançamentos questionados foram apostos pela pessoa habilitada a fazê-los. Num segundo momento, caso comprovada a falsidade, o estudo dirige-se para a avaliação da possibilidade de fixação da autoria dos grafismos, considerados os demais padrões gráficos apresentados à perícia.
+(..)
+Outro aspecto de fundamental importância nos exames grafoscópicos consiste em considerar a complexidade dos grafismos que serão comparados. Assinaturas ou rubricas muito simples, com poucos elementos gráficos para serem analisados, em geral não oferecem elementos técnicos suficientes para um exame significativo e apresentam maiores chances de uma falsificação convincente. 9
+(..)
+Após estas considerações técnicas, o Perito Criminal passa a relatar os exames efetuados e seus resultados. Para isso, serão incluídas imagens digitalizadas para facilitar a verificação de suas características e possibilitar a melhor visualização e ilustração dos vestígios constatados." (destaquei)
+Sobre as assinaturas padrão do requerente, os peritos assim se manifestaram:
+"(..) Assim, as assinaturas padrão foram examinadas minuciosamente a fim de avaliar os hábitos gráficos do punho subscritor, de modo a identificar possíveis elementos discriminadores do grafismo para posterior cotejo com o lançamento questionado.
+A partir dos exames, constatou-se que as assinaturas consideradas apresentavam estilo cursivo por extenso e possuíam complexidade gráfica variando de baixa a média, principalmente em função das poucas ligações interliterais e pouco dinamismo.
+Além da questão da dinâmica, de modo geral as assinaturas apresentavam pressão considerável em virtude da força empreendida pela ponta do instrumento escritor sobre o suporte de papel, caracterizando-se pela homogeneidade na largura dos traços dos alógrafos e maior intensidade de entintamento.
+Ainda foi constada certa variabilidade gráfica do punho escritor, tanto entre os lançamentos de épocas distintas quanto aqueles apostos na mesma data, caracterizada, principalmente, pela variação nos ataques e remates de alguns alógrafos e no andamento gráfico. Por outro lado, de modo geral, a gênese gráfica e a morfologia dos caracteres não sofreram variação significativa com o passar do tempo.
+Desta forma, as assinaturas de JOSÉ DA SILVA LEAL empregadas a título de padrão foram consideradas satisfatórias para o cotejo pretendido." (destaquei).
+Por fim, concluiu a perícia:
+"(..) Quando do cotejo entre a assinatura questionada e aquelas contidas nos documentos padrão de JOSÉ DA SILVA LEAL, verificou-se o predomínio de similaridades gráficas entre os aspectos morfológicos, genéticos e de qualidade geral do traçado. Assim, o Perito Criminal concluiu que os vestígios suportavam moderadamente a hipótese de que o lançamento questionado foi produzido por JOSÉ DA SILVA LEAL (Figuras 19 e 20), visto se tratar de assinaturas de baixa a média complexidade gráfica. Este resultado corresponde ao nível II da escala de conclusões previamente descrita na página 9 do presente documento técnico. Para informações adicionais, vide subseções IV.1 e IV.2." (destaquei)
+Não restam dúvidas, portanto, que o reconhecimento da autenticidade da assinatura aposta por JOSÉ LEAL DA SILVA na Procuração Pública lavrada no 1º Ofício de Notas da Comarca de Muriaé/MG foi devidamente embasada no método grafoscópico, o que afasta a pretensa anulação da sentença e inviabiliza a realização de nova perícia.
+Conforme se observa, o acórdão recorrido asseverou que o laudo produzido está embasado no método grafotécnico, conforme pleiteado e deferido pelo juízo. Observo, no entanto, que a defesa, nas razões do recurso especial, não enfrentou os fundamentos apresentados pela instância antecedente, ateve-se apenas a invocar, de forma genérica, o descumprimento do preceito legal, o que fere o princípio da dialeticidade recursal. Nesses casos, aplica-se o disposto na Súmula n. 283 do STF.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
