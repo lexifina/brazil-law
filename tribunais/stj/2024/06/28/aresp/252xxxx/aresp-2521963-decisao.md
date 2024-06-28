@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AGROMAVE INSUMOS AGRÍCOLA LTDA. (AGROMAVE) contra decisão que negou seguimento ao seu apelo nobre (e-STJ, fls. 1169/1185).
+Houve apresentação de contraminuta por MILTON GAETANO JÚNIOR e ELIANE EDVIRGENS BELÚCIO GAETANO (MILTON e outra) (e-STJ, fls. 1205/1216).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, AGROMAVE alegou a violação dos arts. 290 do NCPC, ao sustentar que o não recolhimento das custas iniciais após a intimação da autora, na pessoa de seu advogado, enseja o indeferimento da petição inicial, com o consequente cancelamento da distribuição (e-STJ, fls. 1113/1127).
+Não houve apresentação de contrarrazões por (e-STJ, fls. 1052/1060).
+(1) Da violação do art. 290 do NCPC.
+Argumentou AGROMAVE que correto seria o cancelamento da distribuição diante da inércia da parte que, intimada na pessoa de seu advogado, não efetuou o pagamento das custas e despesas de ingresso em 15 dias, nos termos do art. 290 do NCPC.
+Mas a análise fática dada pelo Tribunal recorrido descreve uma situação diversa daquela do modelo legal da mencionada norma apontada por AGROMAVE como violada.
+Aqui, segundo o Tribunal mato-grossense, houve pedido de gratuidade de justiça, o qual, conquanto indeferido, resultou em decisão concedendo o recolhimento das custas de ingresso de forma parcelada, tendo o juízo monocrático indicado o departamento competente para a emissão das respectivas guias de recolhimento, cujo requerimento deveria ser instruído com o acórdão de concessão da benesse de parcelamento.
+Reconheceu mais o Tribunal estadual que, embora pudesse ter havido alguma dúvida inicial quanto ao processo de cadastramento e sistemática para a emissão das guias, fato é que o juízo da causa forneceu todos os meios para que a parte diligenciasse no sentido de regularizar o pagamento parcelado.
+Bem por isso que:
+(..) considerando que o acórdão do agravo de instrumento nº 1010667-16.2021 interposto pelos apelantes, que deferiu o parcelamento, transitou em julgado em data de 11/11/2021, ou seja, esgotado há muito o prazo para o recolhimento da 6ª e última parcela, contudo, em prestígio à efetividade do processo, do exercício da ampla defesa e do contraditório e da primazia da prolação de decisões de mérito, oportunizo aos apelantes/embargantes, como medida derradeira, o recolhimento das custas de distribuição dos Embargos à Execução em parcela única, no prazo de 5 (cinco) dias da publicação do presente acórdão (e-STJ, fls. 1089 - sem destaque no original).
+Assim, levando-se em conta que o acórdão deu enfoque maior à perda do direito de "pagamento parcelado" e aplicou o princípio da primazia da prolação de decisões de mérito, efetividade do processo, ampla defesa, impôs aos recorridos MILTON e outra, como contraponto, o dever de pagar de "uma só vez" o que antes foi permitido de modo parcelado.
+Nesse sentido, além de não se ver a subsunção do caso em concreto ao modelo legal previsto no art. 290 do NCPC, o que, por si atrai a incidência da Súmula 284/STF à hipótese, também é certo que AGROMAVE não chegou a impugnar tais fundamentos autônomos para a manutenção do julgado colegiado, donde também a atração do óbice da Súmula 283/STF, é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Vale pontuar que, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões desta irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge. (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Finalmente, não é demais salientar que não consta tivesse sido o advogado dos recorridos intimado para regularizar o pagamento das custas em 15 (quinze) dias, sob pena de cancelamento da distribuição, a teor do próprio art. 290 do NCPC, o que também deveria ter sido prequestionado na decisão colegiada.
+Não houve, portanto, o indispensável debate prévio sobre tal matéria, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, assim, a incidência da Súmula nº 282 do STF, por analogia, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 884, 885 E 886 DO CC/2002; E 917, § 2º, DO CPC/2015. DISPOSITIVOS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356/STF. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. INEXISTÊNCIA. PENHORA DE VERBA REMUNERATÓRIA. COMPROMETIMENTO DA SUBSISTÊNCIA DA EXECUTADA. IMPOSSIBILIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ.
+2. Ademais, a matéria só pode ser implicitamente incluída no acórdão recorrido quando, ao menos, a tese for objeto de embargos de declaração na origem e, no Superior Tribunal de Justiça, for verificada violação ao art. 1.022 do CPC/2015.
+3.  ..
+4.  ..
+5.  ..
+6. Agravo interno desprovido.
+(AgInt no REsp 1938768/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 20/09/2021, DJe 23/09/2021 - sem destaque no original)
+PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO NCPC. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO NCPC. PRECEDENTE. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+ ..  2. O art. 1.025 do NCPC consagrou o prequestionamento ficto, ao determinar que se consideram incluídos no acórdão embargado os elementos suscitados nas razões do recurso integrativo, se o Tribunal entender que houve vício no julgamento. Entretanto, para que se considere prequestionada a matéria, é necessário que o recorrente suscite, nas razões do recurso especial, a existência de violação do art. 1.022 do NCPC, a possibilitar a aferição de eventual negativa de prestação jurisdicional. Precedente: REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 10/4/2017.
+ ..
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.244.082/RJ, de minha relatoria, Terceira Turma, j. 22/5/2018, DJe 1º/6/2018 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Inexistindo hipótese de prévia fixação de honorários no presente recurso no Tribunal estadual, deixo de aplicar a regra do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. TÍTULO EXTRAJUDICIAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DEFERIMENTO DE PAGAMENTO PARCELADO DAS CUSTAS INICIAIS. NÃO RECOLHIMENTO NO TERMO APRAZADO. CANCELAMENTO DA DISTRIBUIÇÃO. AFASTAMENTO PELO TRIBUNAL ESTADUAL. ENTENDIMENTO SOBRE A POSSIBILIDADE DE RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROCESSAMENTO CONDICIONADO AO RECOLHIMENTO IMEDIATO DAS CUSTAS DE DISTRIBUIÇÃO EM PARCELA ÚNICA. PRINCÍPIOS DA PRIMAZIA DAS DECISÕES DE MÉRITO, EFETIVIDADE DO PROCESSO E AMPLA DEFESA. SÚMULA 283/STF. PREQUESTIONAMENTO DEFICIENTE QUANTO A INTIMAÇÃO DO ADVOGADO PARA REGULARIZAÇÃO DO PAGAMENTO DAS CUSTAS DE INGRESSO NO PRAZO DE 15 DIAS, SOB PENA DE CANCELAMENTO DA DISTRIBUIÇÃO, NOS TERMOS DO ART. 290 DO NCPC. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
