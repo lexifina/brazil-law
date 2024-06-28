@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo NÚCLEO SANTISTA DE REPRODUÇÃO HUMANA LTDA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, no julgamento de Agravo de Instrumento, assim ementado (fl. 29e):
+CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERE APLICAÇÃO DE "ASTREINTES". MUNICÍPIO QUE MOVIMENTOU EXECUÇÃO FISCAL QUANDO PROSCRITA "QUALQUER COBRANÇA". CLARO DESCUMPRIMENTO DO COMANDO JUDICIAL. MULTA DEVIDA. DEMASIADO O "QUANTUM" PERSEGUIDO. REDUÇÃO PARA VITAR ENRIQUECIMENTO DO CONTRIBUINTE E DANO AOS COFRES PÚBLICOS MUNICIPAIS. AGRAVO PROVIDO EM PARTE.
+Opostos Embargos de Declaração, foram rejeitados (fls. 37/39e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 536, caput e § 1º, e 537, § 1º, do Código de Processo Civil de 2015, alegando-se, em síntese, que a redução da multa diária fixada divergiu da "razão de existir da multa, ou seja, de fazer papel coercitivo para que o descumpridor efetive a obrigação judicial que lhe fora imposta" (fl. 46e).
+Sem contrarrazões (fl. 52e), o recurso foi inadmitido (fl. 53e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 81e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+O Recurso Especial não comporta conhecimento.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, c onsignou a proporcionalidade da redução da multa diária cominatória, nos seguintes termos (fls. 31/32e):
+Quanto ao valor da multa, quadram considerações.
+Tenha-se presente: "a jurisprudência do STJ é firme no sentido de se admitir a redução da multa diária cominatória, tanto para se atender ao princípio da proporcionalidade quanto para se evitar o enriquecimento ilícito, ainda que se verifique o descaso do devedor" (AgInt no AREsp. n. 2.042.005/RJ, 2ª Turma, j. 15/08/2022, rel. Ministra ASSUSETE MAGALHÃES).
+As astreintes foram fixadas em R$ 500,00 diários, limitados a 30 dias (autos n. 1009691-57.2018.8.26.0562 fls. 252).
+Verdade que se trata de um segundo descumprimento. No entanto: i) a entidade impositora recolheu taxa postal citatória em virtude de determinação judicial (fls. 46 autos n. 151708036.2018.8.26.0562); ii) não foram praticados atos constritivos; iii) o processo executivo foi extinto após o manejo de exceção pelo Núcleo; iv) já foi aplicada multa cominatória em prol do ora agravante; v) julgando agravo prístino, esta Câmara chancelou R$ 5.000,00 (fls. 80/83 na origem).
+Diante desse quadro, é razoável aplicar aqui idêntico montante, a fim de evitar enriquecimento do Núcleo e não onerar demasiadamente o Fisco (rectius: o povo) santista.
+Antes de rematar, observo que ficam prequestionados todos os dispositivos/temas que os litigantes pretendam submeter futuramente aos Tribunais sediados em Brasília.
+Em face do exposto, meu voto dá parcial provimento ao agravo para impor ao Município astreintes de R$ 5.000,00.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, a fim de majorar o valor fixado, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. DESNECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR PARA IMPLEMENTAÇÃO DA MULTA COMINATÓRIA. PRECEDENTES. ASTREINTES. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "Segundo entendimento do STJ, após a vigência da Lei n. 11.232/2005, é desnecessária a intimação pessoal do executado para cumprimento da obrigação de fazer imposta em sentença, para fins de aplicação das astreintes" (AgRg no REsp 1441939/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/5/2014).
+2. Em regra, na via especial, não é cabível a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+3. Agravo interno desprovido.
+(AgInt no AREsp 636.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2016, DJe 21/11/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRISÃO DE ESTRANGEIRO. DIREITO À ASSISTÊNCIA CONSULAR. OBRIGAÇÃO DE FAZER. FALTA DE COMUNICAÇÃO DA PRISÃO AO CONSULADO. ÔNUS DA PROVA E VIOLAÇÃO DO ART. 461 DO CPC. OBRIGAÇÃO DE FAZER. COMINAÇÃO DE MULTA DIÁRIA. ASTREINTES. RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A jurisprudência desta Corte firmou entendimento no sentido de que aferir se as provas são suficientes ou se o recorrido desincumbiu-se de seu ônus probatório, para análise de eventual violação do art. 333 do CPC, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula 7 do STJ.
+2. Relativamente ao art. 461 do CPC, a jurisprudência desta Corte pacificou o entendimento de que a apreciação dos critérios previstos na fixação de astreintes implica o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não se configura neste caso. Precedentes.
+3. Quanto à interposição pela alínea "c", este tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+Agravo regimental improvido.
+(AgRg no AREsp 845.931/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 08/03/2016, DJe 15/03/2016).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
