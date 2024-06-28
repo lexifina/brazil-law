@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ADAO DOS SANTOS FERREIRA e OUTROS em face de decisão monocrática da lavra da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial ante a aplicação da Súmula 284/STF (e-STJ, fls. 1021-1025).
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 680, e-STJ):
+Apelação cível - Usucapião extraordinária - preliminares - inépcia da petição inicial - vedação de emenda após citação - irregularidade na indicação do polo passivo - vícios sanados em decisões interlocutórias - recurso cabível - agravo - preclusão - não conhecimento - mérito - perícia oficial - áreas delimitadas e cercadas - ausência de prova da posse mansa, pacífica e ininterrupta - ausência de ânimo de dono - prova pericial e testemunhal - apelação à qual se dá provimento. 1 - A preclusão temporal representa a perda da faculdade processual de agir, em razão da inércia da parte, que deixa transcorrer o prazo legal sem praticar o ato cabível. 2 - Desconhece-se das preliminares em apelação, quando as matérias devolvidas foram sanadas em decisões interlocutórias, contra as quais o recurso cabível era agravo retido ou de instrumento. 3 - Verificado pelas provas testemunhais e pericial que não se consolidou a posse mansa, pacífica e ininterrupta, além do ânimo de dono por prazo superior a vinte anos, é de ser afastado o direito a usucapir o imóvel.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fl. 759-762).
+Nas razões do especial (e-STJ, fls. 787-795), a parte recorrente sustentou violação ao artigo 1.238, caput, do Código Civil, defendendo o restabelecimento da sentença que julgou parcialmente procedente a ação de usucapião ao reconhecer a posse mansa, pacífica e ininterrupta de mais de cinquenta anos.
+Oferecidas as contrarrazões às fls. 809-830 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 924-926, e-STJ), o que ensejou o manejo do agravo (fls. 949-957, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (fls. 1021-1025, e-STJ), a Presidência desta Corte conheceu do agravo para não conhecer do reclamo sob o fundamento de incidência da Súmula 284/STF.
+Inconformada, no presente agravo interno (e-STJ, fls. 1029-1037), a ora agravante combate o fundamento da decisão monocrática supracitado e reitera os argumentos lançados nas razões do apelo extremo no tocante à ofensa ao art. 1238 do Código Civil.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+Decido.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida e passo, de plano, ao reexame do reclamo.
+A irresignação não merece prosperar.
+1. No que diz respeito à alegada ofensa ao art. 1.238 do Código Civil, a pretensão recursal não merece prosperar.
+No caso, a Corte de origem, soberana na análise do acervo fático-probatório, constatou que não estão preenchidos os requisitos necessários para se reconhecer a prescrição aquisitiva na hipótese em comento.
+Assim constou do acórdão (e-STJ, fl. 683):
+Mérito
+No mérito, em minucioso exame das provas produzidas nos autos, tenho que assiste razão aos apelantes.
+Conforme relatado, a apelação visa rebater a parte da sentença que reconheceu a prescrição aquisitiva sobre a:
+Gleba A, somente da Área 03 da perícia, medindo 6.661,19m2, situada no local denominado Distrito de Serra do Cipó - antigo Cardeal Mota, Município de Santana do Riacho/MG Notadamente, após perícia oficial e oitiva de testemunhas, não se tem certeza de que os apelados tomaram posse ininterrupta, mansa, pacífica e com ânimo de dono da referida área. Certo é que o perito oficial destacou em sua perícia que no local existem três áreas distintas e delimitadas, a saber (f. 463-TJ):
+Com base na documentação, plantas e do levantamento realizado concluímos que:  A área 01 de 14.150,00 m 2 está individualizada por cerca e é ocupada pelo autor como sua residência possuindo edificação com idade aparente de 60 anos;  A área 02 de 752,41 m 2 está toda cercada e em parte murada e é ocupada pela Sra. Ana dos Santos Ribeiro, possuindo edificação com Idade aparente de 35 anos;  A área 03 de 6.661,19 m 2 esta toda cercada e em parte murada, não possuindo edificações e nem plantações. Portanto somente a área de 752,41 m 2 (área 02) ocupada pela Sra. Ana dos Santos Ribeiro, filha do Autor e a área remanescente (área 03) de 6.661,19m 2 encontram-se dentro do perímetro descrito no registro do imóvel de François Samuel Collet.
+Em resposta aos quesitos, o perito foi enfático em destacar que na área 03, não havia benfeitorias, plantações ou ocupações, sendo tal área totalmente isolada por cerca da área 02, e separada da área 01 pela via pública:
+3) Pode o Sr. Perito informar se as duas áreas usucapiendas apontadas nos memoriais descritivos de fis. 2321234 estão devidamente corretas  Resposta: Não. Ficou constatado que as áreas estão separadas por cercas, resultando, portanto em 03 áreas individualizadas, sendo duas com casas de moradias e 01 por terreno desocupado. No levantamento realizado à II. 235, não foi detalhada a cerca divisória que separa a casa ocupada pela Sra. Ana dos Santos Oliveira da área remanescente constante do registro de imóveis.
+As testemunhas ouvidas em audiência afirmaram que o apelado Mário dos Santos Ribeiro sempre plantava no terreno do imóvel por ele ocupado.
+(..)
+Verifica-se que os depoimentos testemunhais revelam a incompatibilidade das informações dos apelados, porquanto todos afirmam que o apelado Mário plantava em sua área para consumo próprio e familiar, motivo pelo qual a área da Gleba A, de 6.661,19 m2, sempre permaneceu cercada e separada das demais áreas.
+As informações são compatíveis com a situação local apurada pelo perito, porquanto a área 01, de 14.150,00 m2 (ou 1,415ha) já é suficiente para plantação familiar e criação de poucas cabeças de gado e animais. É o que se extrai, inclusive, de todos os conjuntos fotográficos colacionados aos autos, bem como aqueles produzidos pela perícia (f. 453 a 462-TJ). E uma vez que a área 03, permanece isolada das demais por cerca e muro, não se tem prova de que houve o exercício de sua posse pelos autores, mansa, pacífica e ininterrupta pelo prazo legal, a ensejar a prescrição aquisitiva.
+A posse ad usucapionem é fática, e decorre da submissão do bem ao possuidor, repousando em duas situações bem definidas: a atividade singular do possuidor e a passividade geral de terceiros diante daquela atuação individual. Se ambas essas atitudes perduraram, contínua e pacificamente, consuma-se a usucapião.
+E no caso dos autos não ficaram demonstrados a posse mansa, pacífica e ininterrupta, e o ânimo de dono, com relação à área da gleba A, descrita pelo perito, com área de 6.661,19 m2, da matricula 2.329, do Serviço de Registro de Imóveis de Jaboticatubas, de propriedade de François Samuel Collet.
+Diante de todo o exposto, dou provimento ao recurso para reformar parcialmente a sentença e julgar improcedente o pedido com relação à Gleba A, área 3, medindo 6.661,19m2, de propriedade de François Samuel Collet, consoante a matricula 2.329, do Serviço de Registro de Imóveis de Jaboticatubas.
+Verifica-se, portanto, que o Colegiado de origem formou suas conclusões pela ausência de preenchimento dos requisitos necessários à configuração da usucapião da Gleba A com base no substrato fático-probatório dos autos.
+Modificar esse entendimento exigiria, necessariamente, a reanálise das circunstâncias fático-probatórias, o que é vedado em âmbito de recurso especial, ante o óbice da Súmula 7/ STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DE EFEITO SUSPENSIVO PLEITEADO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS NÃO EFETUADO. SÚMULA 211. PREQUESTIONAMENTO FICTO. CONDIÇÕES NÃO SATISFEITAS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. NÃO PREENCHIMENTO DAS EXIGÊNCIAS PARA RECONHECIMENTO DA USUCAPIÃO EXTRAORDINÁRIA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+6. A alteração do entendimento adotado pela Corte de origem - acerca da ausência dos requisitos para configuração da usucapião pretendida pelo recorrente - demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice previsto na Súmula 7/STJ. 7. Razões recursais insuficientes para a revisão do julgado.
+8. Agravo interno desprovido.
+(AgInt no AREsp 1308251/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/08/2019, DJe 20/08/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. USUCAPIÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. As conclusões da Corte Estadual sobre a não caracterização da usucapião, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1542609/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/03/2021, DJe 06/04/2021)
+2. Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 1021-1025, e-STJ, tornando-a sem efeitos. Em seguida, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
