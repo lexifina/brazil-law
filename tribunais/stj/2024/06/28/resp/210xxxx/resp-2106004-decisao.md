@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Embargos de terceiro. Oposição por associação de adquirentes de unidades residenciais de empreendimento imobiliário. Legitimidade ativa caracterizada. Pretensão procedente.
+Aplicação do entendimento cristalizado na súmula 308 do Superior Tribunal de Justiça.
+Sucumbência a ser suportada pela recorrente, que deu causa ao ajuizamento da ação.
+Gratuidade deferida à apelante.
+Valor atribuído aos embargos de terceiro, correspondente a R$10.940.344,75, e que é o mesmo valor da execução. Inviabilidade.
+Fixação da verba honorária por equidade, na forma do artigo 85, parágrafo 8º do CPC.
+Valor da verba honorária minorado.
+Recurso provido em parte, com observação.
+Argumenta a parte recorrente, em síntese, a violação dos arts. 85, § 2º, § 8º, 98, § 3º e 292, IV, do Código de Processo Civil, além de dissídio jurisprudencial.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto à alegada violação do art. 98, § 3º, do Código de Processo Civil, pois é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Quanto ao art. 292, IV, do Código de Processo, a insurgência encontra obstáculo no verbete sumular n. 284/STF, porque a norma citada pela recorrente diz respeito à fixação do valor da causa em ações de divisão, demarcação e reivindicação, casos distintos dos autos. Assim, a conclusão buscada pela embargante não decorre logicamente da legislação invocada como ofendida, o que dificulta a compreensão da controvérsia oferecida a debate no recurso especial.
+Relativamente ao tema dos honorários advocatícios, firmou-se na jurisprudência deste Tribunal o entendimento de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (Tema Repetitivo 1076). Ficou estabelecido, nesses termos, dever ser observada a ordem de preferência prescrita no art. 85, § 2º, do CPC, nos termos dos precedentes a seguir citados a título de exemplo:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. CÉDULA DE CRÉDITO BANCÁRIO. CESSÃO FIDUCIÁRIA. DUPLICATAS MERCANTIS. DIREITOS CREDITÓRIOS. DISCRIMINAÇÃO E ESPECIFICAÇÃO DOS TÍTULOS. DESNECESSIDADE. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. EQUIDADE. CABIMENTO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido da desnecessidade de discriminação individualizada de todos os títulos representativos do crédito para perfectibilizar o negócio fiduciário, haja vista a inexistência de previsão legal e a impossibilidade de determinação de títulos que não tenham sido emitidos no momento da cessão fiduciária. Precedentes.
+3. Nos casos em que o objeto do incidente de impugnação de crédito limita-se a verificar se o crédito estaria ou não submetido aos efeitos da recuperação judicial, o proveito econômico direto não se confunde com o valor do crédito impugnado.
+4. Na impossibilidade de se mensurar o proveito econômico direto, deve-se observar a ordem obrigatória de preferência, a fim de adotar como critério de fixação dos honorários advocatícios (a) o valor atualizado da causa e, (b) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º, do Código de Processo Civil).
+5. No caso, ausente a atribuição de valor da causa ao incidente, a hipótese é de apreciação equitativa, nos termos do art. 85, § 8º, do Código de Processo Civil.
+6. Na hipótese em apreço, o crédito da recorrente não está sujeito à recuperação judicial, nos termos do art. 49, § 3º, da Lei nº 11.101/2005.
+7. Recurso especial provido.
+(REsp n. 1.815.823/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/11/2023, DJe de 17/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TEMA N. 1.076. EXECUÇÃO. EMBARGOS À EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS. CUMULATIVOS. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O arbitramento dos honorários advocatícios deve seguir a regra geral estabelecida no art. 85, § 2º, do CPC, de acordo com a ordem de preferência nele estabelecida, a saber: 1º) nas causas em que houver condenação, este é o critério a ser utilizado pelo magistrado, observando o parâmetro legal entre 10% a 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, sendo ele inestimável ou irrisório, a verba sucumbencial deve ser arbitrada de acordo com o valor da causa.
+2. O critério da equidade (art. 85, § 8º, do CPC) é de aplicação subsidiária, devendo ser utilizado apenas quando não for possível a incidência da regra geral estabelecida no § 2º do art. 85 do CPC, isto é, quando for inestimável ou irrisório o proveito econômico ou o valor da causa.
+3. O critério da equidade não se estende às hipóteses em que o valor da condenação, do proveito econômico ou da causa for elevado.
+4. É possível a condenação em honorários de sucumbência em execução e em sede de embargos à execução, de forma cumulativa. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.260.221/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024.
+Ficou definido, outrossim, que a "fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados" (REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022).
+No caso concreto, o Tribunal de origem desconsiderou os limites de 10% a 20%, e, por equidade, fixou honorários advocatícios em R$165.000,00 (cento e sessenta e cinco, ou seja, montante menor do que 10% do valor atribuído à causa, qual seja, R$10.940.344,75 (dez milhões novecentos e quarenta mil trezentos e quarenta e quatro reais e setenta e cinco centavos), em 7 de junho de 2016 (fl. 13). Cabe ressaltar que foi a própria agravante que, ao ajuizar os embargos de terceiro, atribuiu à causa esse valor.
+Dessa forma, logra êxito a pretensão de elevar os honorários advocatícios, que não podem ser fixados com base na equidade, devendo, no caso em comento, ser arbitrados em 10% (dez por cento) do valor atualizado da causa.
+Em face do exposto, conheço em parte do recurso especial e, nessa extensão, a ele dou provimento, nos termos acima.
+Intimem-se.
+EMENTA
