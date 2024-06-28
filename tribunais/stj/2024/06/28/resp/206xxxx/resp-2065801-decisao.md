@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto MUNICÍPIO DE CAMPO GRANDE contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado (fl. 21):
+AGRAVO DE INSTRUMENTO - EXECUÇÃOFISCAL - MUNICÍPIO DE CAMPO GRANDE - DECISÃO QUE INDEFERIU O PEDIDO DE PENHORA VIA SISBAJUD - INDEFERIMENTO QUE NÃO SEEXIGE O PRÉVIO ESGOTAMENTO DE DILIGÊNCIAS EXTRAJUDICIAIS - CIRCUNSTÂNCIAS DO CASO CONCRETO QUE AUTORIZAM A ALTERAÇÃODA ORDEM PREFERENCIAL - DILIGÊNCIAS MÍNIMAS QUE DEVEM SER REALIZADAS PELO CREDOR - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+I. Não se desconhece acerca da desnecessidade de exaurimento de vias extrajudiciais na busca de bens a serem penhorados, todavia, a medida pleiteada deveser analisada de acordo com as circunstâncias e peculiaridades do caso concreto, principalmente quando se trata de milhares de processos de execução fiscal.
+II. Com o indeferimento não se está exigindo da parte o prévio esgotamento das diligências administrativas, mas o cumprimento daquelas que podem ser realizadas de modo simples e com a mesma eficácia que seria alcançada se fossem implementadas peloPoder Judiciário, até mesmo porque o exequente não se exime do seu dever de cooperação.
+III. Não se trata de medida excessiva, mas ponderada e racional, porquanto deveras empreender diligências que em sua maioria restarão inúteis é sinônimo de ineficiência. Assim, considerando que pode o juiz, de acordo com as circunstâncias do caso concreto, alterar a ordem de preferência da penhora em dinheiro (art. 835, § 1º, do CPC), que, na hipótese, encontra-se plenamente justificável, tenho como consentâneo manter a responsabilidade ao exequente pela busca de outros bens para satisfação de seu crédito.
+IV. Recurso não provido.
+O recurso foi admitido na origem.
+É o relatório.
+A questão tratada neste processo, qual seja, "a quebra do sigilo bancário em execução fiscal, por meio do sistema BACEN-JUD, viabilizadora do bloqueio de ativos financeiros do executado (Lei Complementar 105/2001)", foi afetada à Primeira Seção desta Corte Superior, sob o rito dos recursos repetitivos (Tema 425/STJ), dos Recursos Especiais n. 1.184.765/PA, n. 1.176.633/BA e n. 1.022.330/SC, d e relatoria do Ministro Napoleão Nunes Maia Filho.
+Na ocasião do julgamento, firmou-se a seguinte tese:
+A utilização do Sistema BACEN-JUD, no período posterior à vacatio legis da Lei 11.382/2006 (21.01.2007), prescinde do exaurimento de diligências extrajudiciais, por parte do exequente, a fim de se autorizar o bloqueio eletrônico de depósitos ou aplicações financeiras.
+Conforme os arts. 1.040 e 1.041 do Código de Processo Civil, publicado o acórdão paradigma submetido ao regime de repercussão geral ou dos recursos especiais repetitivos, deve o Tribunal de origem negar seguimento aos recursos e encaminhá-los para retratação do órgão colegiado, a fim de que haja o alinhamento das teses ou a manutenção da decisão divergente.
+Ante o exposto, determino a devolução dos autos, com a respectiva baixa, à instância de origem, onde, nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil, deverá ser realizado o juízo de conformação ou confirmada a manutenção do acórdão recorrido, à luz do que decidiu o Superior Tribunal de Justiça no julgamento do Tema 425/STJ.
+Publique-se. Intimem-se.
+ EMENTA
