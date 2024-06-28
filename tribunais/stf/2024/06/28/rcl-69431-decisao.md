@@ -1,0 +1,85 @@
+DECISÃO
+
+RECLAMAÇÃO. CÓDIGO DE TRÂNSITO BRASILEIRO. COBRANÇA DE MULTAS. ALEGADO DESRESPEITO À SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL: INOCORRÊNCIA. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL: PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Reclamação, com requerimento de liminar, ajuizada em 26.6.2024 por Empresa Municipal de Desenvolvimento de Campinas S/A contra o seguinte acórdão proferido pela Décima Terceira Câmara de Direito Público do Tribunal de Justiça de São Paulo na Apelação Cível n. 1036212-49.2023.8.26.0114, pela qual teria sido afastado o art. 134 do Código de Trânsito e contrariada a Súmula n. 10 deste Supremo Tribunal:
+
+    “APELAÇÃO CÍVEL. AÇÃO DE PROCEDIMENTO COMUM. COBRANÇA DE MULTAS DE TRÂNSITO. Pretensão da autora à cobrança de 65 (sessenta e cinco) multas de trânsito impostas à ré no período compreendido entre 28/07/2019 e 21/03/2023. Ação julgada improcedente na origem. Insurgência da autora. Descabimento. Infrações de trânsito posteriores à transferência de propriedade do veículo automotor a outrem, realizada em 09/04/2015, na vigência do Decreto Estadual nº 60.489/2014, cujos arts. 2º e 4º dispensam o alienante de efetivar a comunicação de venda de veículo ao órgão de trânsito competente a partir do reconhecimento das assinaturas deste e do adquirente, por autenticidade, perante o notário, que se encarrega, a partir de então, de informar ao Fisco e ao DETRAN a atualização cadastral do bem. Ademais, a regra do artigo 134 do Código de Trânsito Brasileiro, inclusive com as alterações da Lei Federal nº 14.071/2020, não impede a comprovação, por meio idôneo, da alienação do bem anteriormente à infração de trânsito. Impossibilidade de responsabilização do proprietário anterior pelas multas. Firmes precedentes desta Corte de Justiça e do STJ. Sentença mantida. Majoração da verba honorária (art. 85, § 11, do CPC). Recurso desprovido” (fl. 119, doc. 5).
+
+    2. A reclamante alega que “o órgão fracionário do E.TJSP afastou a aplicação do referido dispositivo legal sob o argumento de que a regra supra sofre mitigação quando restarem comprovadas nos autos que as infrações foram cometidas após a aquisição do veículo por terceiro, mesmo que não ocorra transferência, como no caso presente, afastada a responsabilidade do antigo proprietário. Evidencia-se que o E.TJSP, embora não tenha declarado expressamente a inconstitucionalidade do mencionado artigo, deixou de aplicá-lo ao caso concreto, prescindindo da reserva de plenário inscrita no art. 97 da CF/88, em afronta direta ao enunciado da Súmula Vinculante 10” (fl. 3, doc. 1).
+
+    Sustenta que o Tribunal de origem, “ao determinar afastamento da responsabilidade solidária do antigo proprietário que não comprovou a Comunicação de Venda ao órgão de trânsito competente, ainda que implicitamente, negou vigência ao artigo 134 do CTB, sem que o órgão Especial respectivo houvesse declarado a inconstitucionalidade do dispositivo de lei, descumprindo, desta forma, a Súmula Vinculante n. 10 deste Supremo Tribunal Federal” (fl. 5, doc. 1).
+
+    Requer “medida liminar inaudita altera parte, com fulcro no art. 989, II, do Código de Processo Civil, para suspender imediatamente os efeitos da decisão proferida nos autos do 1036212-49.2023.8.26.0114 em trâmite no E. TJSP” (fl. 7, doc. 1).
+
+    Pede “a procedência do pedido formulado nesta reclamação, confirmando a liminar eventualmente concedida, de modo que seja anulada a decisão proferida pelo Tribunal Referência: Processo nº 1036212-49.2023.8.26.0114 em trâmite no Tribunal de Justiça de São Paulo” (fl. 8, doc. 1).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+    4. Na presente reclamação, põe-se em foco se, ao desprover a apelação, ao fundamento de ser “incontroverso do cotejo do suporte probatório que as multas de trânsito objeto de cobrança judicial compreendidas entre 28/07/2019 e 21/03/2023 (fls. 333/334) são posteriores à alienação do veículo automotor a terceiro” (fl. 130), a Décima Terceira Câmara de Direito Público do Tribunal de Justiça de São Paulo teria afastado o art. 134 do Código de Trânsito e contrariado a Súmula n. 10 deste Supremo Tribunal.
+
+    5. A reclamação é instrumento constitucional processual posto no sistema como dupla garantia formal da jurisdição: primeiro, para o jurisdicionado que tenha recebido resposta a pleito formulado judicialmente e veja a decisão proferida afrontada, fragilizada e despojada de plena eficácia; segundo, para o Supremo Tribunal Federal (al. l do inc. I do art. 102 da Constituição da República) ou para o Superior Tribunal de Justiça (al. f do inc. I do art. 105 da Constituição), que podem ter as respectivas competências enfrentadas e menosprezadas por outros órgãos do Poder Judiciário e a autoridade de suas decisões mitigada em face de atos reclamados.
+
+    Busca-se pela reclamação fazer que a prestação jurisdicional se mantenha dotada de vigor jurídico próprio ou o órgão judicial de instância superior tenha sua competência resguardada.
+
+    A reclamação não se presta a antecipar julgados, a atalhar julgamentos, a fazer sucumbirem decisões sem que se atenham à legislação processual específica discussão ou litígio a serem solucionados judicialmente.
+
+    6. O instituto da súmula vinculante inaugurou hipótese de cabimento de reclamação para o Supremo Tribunal Federal, conforme disposto no § 3º do art. 103-A da Constituição da República.
+
+    A contrariedade a determinada súmula ou a sua aplicação indevida por ato administrativo ou decisão judicial possibilitam a atuação do Supremo Tribunal Federal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida, com ou sem a aplicação da súmula, conforme o caso.
+
+    Tem-se na Súmula Vinculante n. 10 do Supremo Tribunal Federal:
+
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+
+    7. Na espécie vertente, a Décima Terceira Câmara de Direito Público do Tribunal de Justiça de São Paulo assentou:
+
+    “Trata-se de ação de procedimento comum proposta pela Empresa Municipal de Desenvolvimento de Campinas S/A EMDEC contra Liberty Seguros S/A objetivando a cobrança de 65 (sessenta e cinco) multas de trânsito impostas ao veículo Fiat/Siena 1.4 Tetrafuel, placas (...), no período compreendido entre 28/07/2019 e 21/03/2023, no importe de R$ 11.728,99. (...)
+
+    Postas tais premissas, tenho para mim que o recurso não comporta provimento.
+
+    Considerando-se que os autos de infração de trânsito discutidos na contenda estão compreendidos entre 28/07/2019 e 21/03/2023 (fls. 333/334), de rigor aquilatar-se que o art. 134 da Lei Federal nº 9.503/1997 estabelecia, na redação anterior à edição da Lei Federal nº 14.071/2020, o quanto segue:
+
+    ‘Art. 134. No caso de transferência de propriedade, o proprietário antigo deverá encaminhar ao órgão executivo de trânsito do Estado dentro de um prazo de trinta dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação.’
+
+    Todavia, promulgada a Lei Federal nº 14.071/2020 diploma que entrou em vigor após o decurso de 180 dias de sua publicação , passou-se a exigir do alienante, somente após expirado o prazo previsto no art. 123, §1º CTB e desde que o novo proprietário não tome as providências necessárias à obtenção do novo CRV, a obrigação de enviar ao órgão de trânsito competente cópia do documento de transferência de propriedade legalmente formalizado (passível de substituição por documento eletrônico com assinatura eletrônica válida na forma regulamentada pelo CONTRAN), no prazo de 60 dias, sob pena de responsabilizar-se solidariamente pelas penalidades impostas e suas reincidências até a data de sua comunicação (...)
+
+    Por conseguinte, como a publicidade da alienação se dá com reconhecimento de firma pelo Tabelionato de Notas, na vigência do Decreto Estadual nº 60.489/2014, não pode a ré Liberty Seguros S/A ser responsabilizada pelas infrações cometidas pelo adquirente em data posterior.
+
+    Ora, ressuma incontroverso do cotejo do suporte probatório que as multas de trânsito objeto de cobrança judicial compreendidas entre 28/07/2019 e 21/03/2023 (fls. 333/334) são posteriores à alienação do veículo automotor a terceiro e identicamente à vigência do Decreto Estadual nº 60.489/2014. Neste sentido, a cópia reprográfica do CRV de fls. 474/476 permite entrever que a transferência da propriedade do veículo automotor a outrem sucedeu-se aos 09/04/2015, após a venda do bem móvel em leilão (fl. 472).
+
+    Logo, a ação é mesmo improcedente” (fls. 120-131, doc. 5).
+
+    Ao decidir, a Décima Terceira Câmara de Direito Público do Tribunal de Justiça de São Paulo limitou-se a examinar o conjunto-fático probatório dos autos e a legislação infraconstitucional aplicável à espécie, para reconhecer o responsável pelo pagamento das multas de trânsito, não havendo nessa decisão afastamento do art. 134 do Código de Trânsito, nem contrariedade à Súmula n. 10 deste Supremo Tribunal. Confiram-se, por exemplo, os seguintes julgados:
+
+    “Agravo regimental na reclamação. 2. Direito Constitucional e Processual Civil. 3. Autoridade reclamada não discutiu a constitucionalidade do art. 988, inciso IV, do CPC nem afastou sua aplicabilidade com apoio em fundamentos extraídos da Constituição. Interpretação da legislação aplicável ao caso. Violação à Súmula Vinculante 10 não caracterizada. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (Rcl n. 43.238-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 4.11.2020).
+
+    “Agravo regimental em reclamação. Súmula Vinculante nº 10. Violação. Inexistência. Interpretação e aplicação de normas infraconstitucionais ao caso concreto. Ato reclamado que não apresenta aderência com o paradigma da Corte. Agravo regimental ao qual se nega provimento. 1. O reconhecimento da responsabilidade solidária da parte reclamante, por fazer parte de grupo econômico, se deu com fundamento no 2º, § 2º, da CLT e na legislação infraconstitucional pertinente. 2. Não houve afastamento da aplicação do art. 513, § 5º, do CPC, no todo ou em parte, ainda que implicitamente, pela autoridade reclamada, mas apenas um juízo interpretativo das normas celetistas. 3. Não há violação do art. 97 da Constituição Federal ou da Súmula Vinculante nº 10 do STF quando o Tribunal de origem nem sequer adentra na análise da norma objeto da reclamação constitucional, interpretando e aplicando ao caso concreto outras normas mais específicas. Precedentes. 4. A aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 5. Agravo regimental não provido” (Rcl n. 52.864-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 5.8.2022).
+
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. VIOLAÇÃO AO ENUNCIADO DA SÚMULA VINCULANTE 10. INOCORRÊNCIA. AUSÊNCIA DE ESVAZIAMENTO DA NORMA OU DECLARAÇÃO DE INCONSTITUCIONALIDADE. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. 1. No caso concreto, o reconhecimento da responsabilidade solidária da parte ora recorrente, por fazer parte de grupo econômico, ocorreu com fundamento no art. 2º, § 2º, da CLT, bem como nos entendimentos doutrinários e jurisprudenciais que permeiam a temática. 2. Não houve esvaziamento ou manifestação - explícita ou implícita - sobre a inconstitucionalidade da norma prevista no art. 513, § 5º, do CPC, a qual defende-se ter sido afastada pelo juízo da origem. 3. ‘Para a caracterização de ofensa ao art. 97 da Constituição Federal, que estabelece a reserva de plenário (full bench), é necessário que a norma aplicável à espécie seja efetivamente afastada por alegada incompatibilidade com a Lei Maior. Não incidindo a norma no caso e não tendo sido ela discutida, a simples aplicação da legislação pertinente ao caso concreto não é suficiente para caracterizar a violação à Súmula Vinculante 10, do Supremo Tribunal Federal’ (AI 814.519-AgR-AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 30/5/2011). 4. A Autoridade Reclamada limitou-se a realizar um juízo interpretativo da norma celetista, motivo pelo qual não há necessidade de observância à Cláusula de Reserva de Plenário. Precedentes. 5. Nessas circunstâncias, em que não se tem presente o contexto específico do Enunciado Vinculante 10, não há estrita aderência entre o ato impugnado e o paradigma invocado. 6. Agravo Regimental a que se nega provimento” (Rcl n. 51.753-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 25.3.2022).
+
+    8. São objetivos da reclamação a preservação da competência e a garantia da autoridade das decisões proferidas pelo Supremo Tribunal Federal. A reclamação não se qualifica como sucedâneo recursal, nem configura instrumento processual viabilizador do reexame do conteúdo do ato reclamado. Assim, por exemplo:
+
+    “O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. – A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes” (Rcl n. 4.381-AgR, Relator o Ministro Celso de Mello, Plenário, DJe 5.8.2011).
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO ADMINISTRATIVO. AUSÊNCIA DE INDICAÇÃO DO PARADIGMA VINCULANTE OU DA USURPAÇÃO DE COMPETÊNCIA DO STF. PRETENSÃO DE REVISÃO DO MÉRITO DO ATO RECLAMADO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A Reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal. 2. In casu, o Tribunal reclamado, no exercício de suas competências, deixou de conhecer agravo interno, ao argumento de que deveria ter sido manejado o agravo em recurso extraordinário. Não há que se falar, diante da circunstância narrada, em usurpação da competência desta Corte. Precedente: Rcl 28070 AgR, Relator Min. Alexandre de Moraes, Primeira Turma, DJe de 14/12/2017.3. A reclamação “não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual”(Rcl 4.381-AgR, Rel. Min. Celso de Mello, Tribunal Pleno, Dje de 05/08/2011). 4. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedente: Rcl 22.048-ED, Tribunal Pleno, DJe de 23/08/2016.5. Agravo regimental desprovido” (Rcl n. 31.239-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 8.11.2018).
+
+    “Agravo regimental em reclamação. 2. Direito Civil e Processual Civil. 3. Alegado descumprimento de decisão proferida por esta Corte. 4. Não ocorrência de nenhuma das hipóteses de cabimento previstas no art. 102, I, ‘l’, da Constituição Federal. 5. Reclamação como sucedâneo recursal. 6. Agravo regimental a que se nega provimento” (Rcl n. 28.917-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 9.4.2018).
+
+    Ausentes, na espécie, os requisitos processuais viabilizadores do regular trâmite desta reclamação.
+
+    9. Pelo exposto, nego seguimento à presente reclamação (§ 1º do art. 21 e parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 28 de junho de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
