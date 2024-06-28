@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE. REJEIÇÃO. BOA FÉ DO TERCEIRO ADQUIRENTE NÃO INFIRMADA. IMPOSSIBILIDADE DE CARACTERIZAÇÃO DA FRAUDE À EXECUÇÃO. RECURSO DESPROVIDO. Não há que se falar em ausência de dialeticidade, quando a parte recorrente expõe os motivos pelos quais entende ser necessária a reforma da sentença. Os embargos de terceiros tratam-se de Ação que assiste a quem é terceiro em relação a um processo, todavia tem seu patrimônio jurídico alcançado por atos dele originários. Assim, a discussão em tal espécie de processo cinge-se a condição de terceiro de sua parte autora e a possibilidade ou não de alcance de bem de sua titularidade por ato judicial originário de processo do qual não participa. Não há que se falar na configuração da fraude à execução, se a parte exequente não infirmar a boa fé do terceiro adquirente.
+Alegou-se, no especial, violação dos artigos 373, 374, II, 489, § 1º, II a IV, 1.022 do Código de Processo Civil sob os argumentos de que o acórdão local é omisso e que há prova da fraude entabulada entre agravado e interessada.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Quanto à alegação de fraude, o Tribunal local concluiu que, em que pese:
+"(..) a relação familiar entre vendedor e comprador, para que houvesse o reconhecimento da fraude à execução seria necessária a demonstração de que o terceiro adquirente tinha conhecimento da demanda executiva.
+Sabe-se que no âmbito do Direito Privado a simples alienação do bem do executado alcançado pela responsabilidade patrimonial no curso da execução, se afigura insuficiente para o reconhecimento da fraude à execução, porquanto se afigura imprescindível se infirmar a boa fé do terceiro adquirente.
+Do contrário, caberia à parte exequente infirmar a presunção de boa fé do terceiro adquirente, ônus que não cumpriu de forma exitosa, considerando que o único documento anterior à aquisição do bem, referido pela parte apelante, é a notificação extrajudicial de ordem nº 36, datada de 28/06/2016, não direcionada ao embargante" (e-STJ, fl. 658).
+Afastada, portanto, a fraude, o reexame da causa esbarra nas disposições dos verbetes n. 5 e 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
