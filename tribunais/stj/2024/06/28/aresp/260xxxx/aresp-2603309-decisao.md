@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por ISRAEL RIBEIRO DE ALMEIDA COSTA contra a decisão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que inadmitiu recurso especial apresentado contra acórdão proferido no Recurso em Sentido Estrito n. 0009905-50.2023.8.27.2700, assim ementado (fl. 37):
+PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. DECOTE DA QUALIFICADORA. MOTIVO TORPE. IMPOSSIBILIDADE. INCONFORMISMO COM O TÉRMINO DE RELACIONAMENTO. MANUTENÇÃO. RECURSO NÃO PROVIDO.
+1. As qualificadoras somente devem ser excluídas da pronúncia quando flagrantemente improcedentes, o que não é o caso dos autos, em que há elementos a indicar possível pertinência do motivo torpe, em razão do inconformismo com o término de relacionamento, narrado na denúncia.
+O agravante foi pronunciado pela prática do crime previsto no artigo 121, § 2º, incisos I, IV e VI, do Código Penal (CP).
+Em segunda instância, o Tribunal de origem negou provimento ao recurso defensivo (fls. 29-32).
+Nas razões do recurso especial, a parte alega violação ao artigo 413, § 1º, do Código de Processo Penal (CPP) e ao artigo 121, §2º, incisos I e IV, do CP, sustentando que a fundamentação do acórdão, ao ratificar integralmente a decisão de pronúncia com base exclusiva no princípio do in dubio pro societate, mostra-se genérica.
+Afirma que as qualificadoras do motivo torpe e do emprego de recurso que impossibilitou a defesa da vítima podem e devem ser afastadas por não encontrar suporte nos autos.
+Pugna pelo provimento do recurso a fim de reformar o acórdão recorrido para que seja determinado o decote das qualificadoras do motivo torpe e da utilização de recurso que impossibilitou a defesa da vítima ou anular a sentença de pronúncia e determinar que o juízo processante proceda à necessária fundamentação, em nova pronúncia, relativamente às referidas qualificadoras.
+Contrarrazões apresentadas às fls. 67-77.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula n. 7/STJ, fundamento contra o qual se insurge a parte agravante (fls. 94-104).
+Parecer do Ministério Público Federal pelo não provimento do agravo (fls. 127-135).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+O Tribunal de origem não apreciou a tese da defesa referente à exclusão da qualificadora do recurso que impossibilitou a defesa da vítima, não tendo a parte recorrente opostos os embargos de declaração, o que evidencia a ausência do indispensável prequestionamento e, por conseguinte, atrai os óbices das Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido: AgRg no REsp 2114650/PR, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 e AgRg nos EDcl no AREsp 1619760/PE, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.
+No mais, o Tribunal de origem manteve a sentença de pronúncia e a qualificadora do motivo torpe, nos seguintes termos (fls. 29-32, grifamos):
+Conforme relatado, em suas razões, o Recorrente pugna pelo decote da qualificadora do motivo torpe.
+II - MÉRITO
+De início, é preciso registrar, como já anotado noutras oportunidades, que na fase de pronúncia vigora o princípio do in dúbio pro societate, de modo que, não havendo prova robusta, inconteste a atestar a tese de negativa de autoria, autorizando o juiz do caso a decidir sozinho a questão, a decisão sobre a autoria do crime deve ser reservada ao Conselho de Sentença, sob pena de violação à cláusula garantista inserta no art. 5º, XXXVIII, da CRFB/88.
+A seguir, jurisprudência que atesta o afirmado acima: (..).
+Não obstante o cuidado que se deve ter na avaliação das provas na fase de pronúncia, não vejo como subtrair do Conselho de Sentença a atribuição de julgamento que lhe é imposta pela Constituição Federal, porque não se vislumbra robustez suficiente na tese recursal de exclusão da qualificadora.
+Como mencionado acima, para que se opere a impronuncia ou o decote das qualificadoras, retirando-se do Conselho de Sentença a sua atribuição constitucional, é preciso que haja prova inconteste, robusta acerca da ausência de comprovação da autoria ou das qualificadoras, o que, a meu sentir, inexiste na espécie.
+Conforme dispõe o art. 413 do Código de Processo Penal:
+Art. 413. O juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação.
+Assim, por ser a decisão de pronúncia um mero juízo de admissibilidade, não se exige prova incontroversa da existência das qualificadoras e, como nesta fase processual não vige o princípio do in dubio pro reo, as eventuais incertezas se resolvem em favor da sociedade, ou seja, in dubio pro societate.
+Com efeito, o conjunto probatório permite aferir a viabilidade da pretensão punitiva titularizada pelo Parquet em relação a qualificadora, posto que, pelas provas produzidas até a presente data, o crime foi cometido por motivo torpe.
+Eis a fundamentação utilizada na decisão de pronúncia:
+O motivo torpe resta configurado no caso, uma vez que o acusado agiu impelido pela insatisfação do término do relacionamento amoroso, consistente no sentimento de posse, pois não admitia o fim do relacionamento.
+Nestes termos, correta a manutenção da qualificadora, ante os Seguintes precedentes do Superior Tribunal de Justiça e desta Corte: (..).
+Assim, a qualificadora do motivo torpe somente deve ser excluída da pronúncia quando flagrantemente improcedente, o que não é o caso dos autos, em que há elementos a indicar possível a sua pertinência.
+III - DISPOSITIVO
+Ante o exposto, voto no sentido de, em consonância com o parecer ministerial, NEGAR PROVIMENTO ao recurso, mantendo a sentença de pronúncia inalterada.
+Na espécie, para alterar a conclusão a que chegaram as instâncias antecedentes, e decidir pela impronúncia do agravante, demandaria necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula n. 7/STJ.
+De igual modo, a jurisprudência desta Corte Superior é firme no sentido de que
+o afastamento de qualificadoras na primeira fase dos crimes afetos à competência do Tribunal do Júri limita-se às hipóteses em que elas se revelam manifestamente dissociadas dos elementos probatórios colhidos na instrução, posto que compete ao Conselho de Sentença deliberar sobre o seu acolhimento ou não. (AgRg no AREsp n. 2540663, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe 23/4/2024).
+Nesse sentido, têm-se os seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. PLEITO DE ABSOLVIÇÃO SUMÁRIA. ARTS. 415, IV, DO CPP, E 25 DO CP. INVIABILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA 7/STJ. EXCLUSÃO DA QUALIFICADORA. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA. AUSÊNCIA DE MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Adverte a jurisprudência desta Corte que a pronúncia encerra simples juízo de admissibilidade da acusação, exigindo, apenas, a certeza da materialidade e indícios suficientes da autoria (art. 413 do CPP). Ou seja, havendo indícios suficientes de autoria ou de participação, deve-se submeter o acusado a julgamento pelo Tribunal popular, sob pena de afronta à soberania do Júri. Precedentes.
+2. Na hipótese, para rever a conclusão da instância de origem e decidir pela impronúncia ou absolvição sumária do ora agravante, seria necessário o reexame do conjunto probatório dos autos, providência descabida nessa via recursal, em face do óbice contido na Súmula 7/STJ.
+3. Somente as qualificadoras manifestamente incabíveis podem ser retiradas da análise perante o Júri Popular. Precedentes.
+4. Em recurso especial, a exclusão das qualificadoras reconhecidas pelas instâncias ordinárias com base na análise das provas dos autos é incabível em razão do óbice da Súmula 7/STJ.
+5. Agravo regimental improvido. (AgRg no AREsp n. 2.063.501/GO, rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2022, DJe 19/9/2022, grifamos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. LESÃO CORPORAL. PRONÚNCIA. LEGÍTIMA DEFESA. REEXAME FÁTICO-PROBATÓRIO. INVIÁVEL. ENUNCIADO DA SÚMULA N. 7 DO STJ. DECOTE DAS QUALIFICADORAS. INVIÁVEL. REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DO COTEJO ANALÍTICO DO DISSÍDIO JURISPRUDENCIAL. ENUNCIADO DA SÚMULA N. 182 DO STJ.
+1. Para analisar a tese de legítima defesa é necessário o aprofundamento no conjunto probatório, o que encontra óbice no verbete 7 da Súmula do STJ, e a decisão da Corte de origem está em conformidade com a jurisprudência desta Corte Superior, na medida em que "não há, ao menos por ora, comprovação inconteste de que o ofendido teria gritado com o recorrente, levando-o a temer pela própria vida, o que teria motivado sua atitude de ir ao encalço da vítima, portando o instrumento pérfuro-cortante e desferindo os golpes de faca após persegui-la".
+2. O STJ entende que a exclusão das circunstâncias qualificadoras somente é possível, na fase da pronúncia, se manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+3. Considerando que o acórdão do Tribunal de origem está em conformidade com a jurisprudência desta Corte Superior, e, ainda, nem na petição de recurso especial (fls. 152-163) e nem no agravo em recurso especial (fls. 204-216) consta o cotejo analítico do dissídio jurisprudencial apontado pelo recorrente, então deve ser mantida a decisão da presidência desta Corte Superior que não conheceu do agravo em recurso especial, haja vista o óbice do enunciado nº 182 do STJ.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.326.905/SC, rel. Min. Jesuíno Rissato, (Desembargador convocado do TJDFT), Sexta Turma, julgado em 27/2/2024, DJe 4/3/2024, grifamos).
+Ante o exposto, com base no art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
