@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e incidência das Súmulas n. 7 e 1 3 do STJ (e-STJ fls. 247/249).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 140):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RELAÇÃO DE CONSUMO. TEORIA MENOR. INSOLVÊNCIA DO FORNECEDOR.
+1. Se tratando de relação de consumo, os requisitos para a desconsideração da personalidade jurídica são os constantes do § 5º do art. 28 do Código de Defesa do Consumidor, que adotou a Teoria Menor, segundo a qual basta a verificação da insolvência, e que a sua personalidade é obstáculo ao ressarcimento de prejuízos causados ao consumidor.
+2. Negou-se provimento ao Agravo de Instrumento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 185/195).
+Nas razões do recurso especial (e-STJ fls. 201/221), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 1.022 do CPC/2015, por negativa de prestação jurisdicional e
+(b) arts. 1.003 e 1.032 do CC/2002, sustentando, em síntese, que "a obrigação contraída pela pessoa jurídica foi posterior ao desligamento da Recorrente, a qual deve ser considerada pessoa ilegítima para figurar no polo passivo, sendo improcedente qualquer execução que advenha de obrigação firmada posteriormente à sua retirada do quadro societário" (e-STJ fl. 212).
+No agravo (e-STJ fls. 254/276), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 284/291), com requerimento de aplicação de multa.
+É o relatório.
+Decido.
+Não há falar em afronta ao art. 1.022 do CPC/2015, pois a agravante limitou-se a apontar violação do referido artigo, não especificando, de forma clara e precisa, como e em que medida o acórdão recorrido o teria afrontado. Portanto, incide no caso, por analogia, a Súmula n. 284 do STF.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 147/148):
+Após reexaminar os autos, observo que não ocorreu qualquer alteração nas circunstâncias fáticas e jurídicas já examinadas, de modo que não vislumbro motivos para modificar o entendimento por mim externado por ocasião do indeferimento da liminar, razão pela qual peço vênia para reportar-me àquelas razões de decidir (ID 48290219):
+"Há de ser analisada a existência de risco de dano grave, de difícil ou impossível reparação, bem como a demonstração da probabilidade de provimento do recurso. De logo, ressalto que a desconsideração da personalidade jurídica se deu por aplicação da Teoria Menor (art. 28, do CDC), uma vez que verificado que esta estaria servindo de obstáculo ao ressarcimento de prejuízos causados aos consumidores.
+E, fazendo um juízo de prelibação sumária, próprio do exame das liminares, constata-se que, em princípio, Sua Excelência a quo observou que, consoante registrado nos autos do processo nº 0710310-59.2017.8.07.000, o afastamento da agravante da sociedade ocorreu exclusivamente para prejudicar consumidores, uma vez que o teria feito apenas para proteger seu patrimônio pessoal, transformando a Sociedade Limitada para Empresa Individual, inclusive, por transferir todas as suas cotas sociais para pessoa de sua confiança, Neli Zarske, empregada doméstica da família, pessoa sem qualquer experiência na administração de empresas.
+Portanto, em tese, a questão devolvida ao Tribunal não se restringe apenas a data da retirada da agravante da sociedade, como faz crer a recorrente, mas também a outras cujo exame demanda maior percuciência, por isso será realizada oportunamente pelo eg. Colegiado, a par do necessário contraditório. Assim, tenho que, nesta cognição sumária, não se verifica elementos aptos a autorizar o deferimento da liminar.
+Isso posto, INDEFIRO A LIMINAR."(grifei)
+Com efeito, é cediço que a personalidade jurídica da sociedade empresária não se confunde com a de seus sócios ou administradores, sendo a desconsideração medida excepcional que deve ser aplicada apenas quando atendidos os requisitos previstos no art. 50 do Código Civil(teoria maior) ou, quando houver relação de consumo, no art. 28 do Código de Defesa do Consumidor (teoria menor).
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a questão devolvida ao Tribunal não se restringe apenas à data da retirada da agravante da sociedade. Ficou estabelecido que o afastamento da parte recorrente da sociedade ocorreu exclusivamente para prejudicar consumidores e para proteger o seu próprio patrimônio pessoal. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Ainda que assim não fosse, modificar o entendimento do acórdão impugnado quanto à ilegitimidade da parte recorrente, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, esta Corte tem entendimento no sentido de que a incidência da Súmula n. 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Indefiro o pedido da parte agravada de aplicação da multa, porque não foi evidenciada, até o momento, conduta maliciosa ou temerária que justifique tal sanção.
+Publique-se e intimem-se.
+EMENTA
