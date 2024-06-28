@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, Conflito Negativo de Competência instaurado entre o JUIZ DA VARA DO TRABALHO DE PARÁ DE MINAS - MG, suscitante, e o JUIZ FEDERAL DA 1A VARA CÍVEL E CRIMINAL DE DIVINÓPOLIS - SJ/MG, suscitado, nos autos da reclamação trabalhista ajuizada por ANTÔNIO CARLOS CORREA SAMPAIO contra EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT na qual pleiteia sua convocação e admissão para o exercício da função de agente dos correios - carteiro.
+Inicialmente, a ação foi proposta perante o Juiz da Vara do Trabalho de Pará de Minas - MG que julgou a demanda proferindo sentença em 4/5/2017, em que foi reconhecido o direito do autor, com condenação da ré a cumprir a obrigação de convocar e admitir o reclamante. No julgamento de recurso interposto, acolhida a preliminar de incompetência absoluta em razão da matéria, foi determinada a remessa dos autos à Justiça Comum com base no entendimento firmado pelo STF no julgamento do RE 960.429/RN (Tema 922).
+Os autos foram recebidos pelo Juiz Federal da 1ª Vara Cível e Criminal de Divinópolis - SJ/MG que reconheceu a incompetência da Justiça Federal para processar e julgar a demanda, sob o fundamento de adequar-se à modulação dos efeitos determinada na decisão nos embargos de declaração no RE 960.429/RN (Tema 922).
+Manifestação do Ministério Público Federal no sentido de ser declarada a competência da Justiça Comum.
+É o breve relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 1ª Seção.
+A questão central diz respeito à definição do juiz competente para processar e julgar ação em que se discute possível preterição de vaga ocorrida em seleção promovida pela Empresa Brasileira de Correios e Telégrafos.
+O tema em análise no presente Conflito de Competência já foi objeto de apreciação pelo Supremo Tribunal Federal no julgamento Recurso Extraordinário 960.429/RN (Tema 992 de Repercussão Geral), no qual se firmou a seguinte tese jurídica:
+Compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta ou indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal.
+A hipótese tratada nesses autos amolda-se à tese jurídica fixada pelo STF. No caso concreto, a controvérsia é relativa à fase pré-contratual de seleção e admissão de pessoal, cuja competência para o julgamento é da Justiça comum, conforme entendimento jurisprudencial do STF prolatado em Repercussão Geral.
+Contudo, o STF modulou os efeitos de sua decisão para determinar que permaneça na Justiça do Trabalho as demandas com sentença de mérito proferida antes de 6/6/2018.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO REPRESENTATIVO DA CONTROVÉRSIA. TEMA 992. MODULAÇÃO DE EFEITOS.
+1. Decisão embargada que definiu competência da Justiça Comum.
+2. Pedido de modulação de efeitos nos termos do art. 927, § 3º, do Código de Processo Civil. Manutenção dos atos já praticados. Jurisprudência do Supremo Tribunal Federal.
+3. Embargos de declaração parcialmente acolhidos, para modular os efeitos da decisão embargada, complementando a tese fixada, que passa a ter a seguinte redação: "Compete à Justiça Comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoas, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho." (RE 960.429/RN ED-segundos, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 15/12/2020, PROCESSO ELETRÔNICO DJe-022 DIVULG 04-02-2021 PUBLIC 05-02-2021)
+No caso, a sentença de mérito foi proferida pela Justiça do Trabalho em 4/5/2017, motivo pelo qual a competência é da Justiça Especializada.
+No mesmo sentido, veja-se as seguintes decisões monocráticas: CC 202.296/RJ, Ministro Mauro Campbell Marques, DJe de 13/05/2024; e CC 191.013/DF, Ministro Herman Benjamin, DJe de 02/09/2022.
+Isso posto, conheço do Conflito de Competência para declarar competente para processar e julgar a presente demanda o JUIZ DA VARA DO TRABALHO DE PARÁ DE MINAS - MG.
+Comunique-se os juízes suscitante e suscitado acerca da presente decisão.
+Intimem-se.
+EMENTA
