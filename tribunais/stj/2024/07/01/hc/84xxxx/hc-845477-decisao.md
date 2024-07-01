@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO BATISTA DA SILVA, JOÃO VITOR LUZ DA SILVA e GABRIEL RIBEIRO E SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que os pacientes foram presos em flagrante e, posteriormente, tiveram as prisões convertidas em preventivas pela prática, em tese, do delito de tráfico de drogas.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve as prisões preventivas dos pacientes em razão da quantidade de droga apreendida, e denegou a ordem em acórdão de fls. 41-43.
+No presente writ alega ilegalidade na prisão em flagrante dos pacientes, ao argumento de ilegalidade das provas obtidas mediante busca pessoal ilícita e haver ocorrido invasão de domicílio, ressaltando a ausência de indícios mínimos que indicassem situação de flagrância aptos a legitimar o ingresso dos policiais militares nas residências.
+Aduz, ainda, a defesa ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que os pacientes ostentam condições pessoais favoráveis.
+Requer a revogação da prisão preventiva e o reconhecimento da nulidade das provas obtidas.
+A liminar foi indeferida às fls. 47-48.
+As informações foram prestadas às fls. 51-55 e 61-86.
+O  Ministério  Público  Federal,  às  fls.  88-97,  manifestou-se  pela "denegação da ordem", em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA DOMICILIAR SEM MANDADO JUDICIAL. AUSÊNCIA DE FUNDADAS RAZÕES. CONSENTIMENTO DO MORADOR NÃO COMPROVADO PELA AUTORIDADE ESTATAL. JUSTA CAUSA PARA AÇÃO POLICIAL NÃO EVIDENCIADA. PROVA ILÍCITA. NECESSIDADE DE DESENTRANHAMENTO. PROVA ILÍCITA. NECESSIDADE DE DESENTRANHAMENTO. PRISÃO PREVENTIVA DESPROPORCIONAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. NÃO CONHECIMENTO DO WRIT, CONCESSÃO DA ORDEM DE OFÍCIO" -fl. 88 .
+É  o  relatório. DECIDO.
+O pedido está prejudicado.
+Conforme informações obtidas no sitio do Tribunal de origem, (www.tjsp.jus.br),JULGOU PARCIALMENTE PROCEDENTE a ação para CONDENAR: (i) JOÃO VÍTOR LUZ DA SILVA, qualificado nos autos, como incurso no artigo 33, caput, e artigo 35, caput, ambos da Lei 11.343/06, na forma do artigo 69 do Código Penal, a cumprir, em regime inicial fechado, a pena de 9 anos e 4 meses de reclusão, bem como ao pagamento de 1399 dias-multa, no patamar mínimo; (ii) JOÃO BATISTA DA SILVA, qualificado nos autos, como incurso no artigo 33, caput, e artigo 35, caput, ambos da Lei 11.343/06, na forma do artigo 69 do Código Penal, a cumprir, em regime inicial fechado, a pena de 10 anos, 10 meses e 20 dias de reclusão, bem como ao pagamento de 1632 dias-multa, no patamar mínimo; (iii) GABRIEL RIBEIRO E SILVA, qualificado nos autos, como incurso no artigo 33, caput, da Lei 11.343/06, e art. 311, §2º, III, do Código Penal, na forma do artigo 69 do CP, a cumprir, em regime inicial fechado, a pena de 7 anos e 2 meses de reclusão. Na ocasião, o Magistrado acrescentou novos fundamentos para manter as prisões preventivas.
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito :
+"A Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente torna prejudicado o habeas corpus em que se busca sua revogação, quando novos e diversos fundamentos são agregados ao decreto prisional primitivo"(AgRg no HC n. 731.126/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/10/2022, grifei. )
+Quanto as nulidades arguidas, sobreveio novo titulo com a sentença condenatória, devendo as matérias serem suscitadas perante o tribunal de origem, sob pena de supressão de instância.
+Ilustrativamente:
+"Quanto à alegada nulidade da busca pessoal, considerando que o Juízo singular analisou as provas produzidas na instrução criminal, fica prejudicada a análise da matéria, uma vez que a superveniência de sentença condenatória acarreta a modificação do debate processual, ensejando o advento de nova realidade processual, de maior amplitude, em relação à considerada no momento da formalização da impetração em julgamento".(AgRg no RHC n. 192.827/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
