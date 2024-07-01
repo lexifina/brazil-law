@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JOSEMAR CARVALHO PAULIN apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5161926-26.2022.8.21.7000).
+Foi o paciente preso em flagrante pela suposta prática do crime de tráfico de drogas.
+Segundo o apurado, após informações de que, no Condomínio Residencial Mathias Velho, estaria ocorrendo tráfico de drogas e depósito de armas de fogo, policiais se deslocaram até o local para realizar a diligência em dois apartamentos. Primeiramente, foram até a residência de Marcelo, tendo sido localizado ali uma pistola calibre .380 ACP, marca Taurus, 33 munições de mesmo calibre e um carregador "Jet Loader". Após consulta, foi verificado que a arma havia sido roubada no ano de 2018 de um militar do Exército. Posteriormente, deslocaram-se até a residência do paciente e da corré Jéssica. Diante da autorização de ingresso, a guarnição localizou no local 1 revólver calibre.38, 12 munições de calibre .38, 1 revólver calibre.375Mag, além de R$ 4.350,00 (quatro mil e trezentos e cinquenta reais) em notas. Durante vistoria no prédio em que o paciente reside, foram apreendidos, no interior da caixa de distribuição de energia, 72 (setenta e duas) porções de maconha, pesando no total, aproximadamente, 717g (setecentos e dezessete gramas); uma bucha grande de cocaína, pesando cerca de 83g (oitenta e três gramas); e 52 (cinquenta e duas) buchas de cocaína, pesando no total, aproximadamente, 59g (cinquenta e nove gramas).
+A prisão em flagrante foi convertida em preventiva.
+Contra essa decisão insurgiu-se a defesa.
+Entretanto, os desembargadores integrantes da Primeira Câmara de Direito Criminal denegaram a ordem de habeas corpus.
+No Superior Tribunal de Justiça, destaca a defesa que "o paciente possui residência fixa, família, uma filha de 7 anos, bem como é trabalhador, tendo iniciado a sua vida laboral desde os primórdios da adolescência, uma vez que consciente dos benefícios que o trabalho traz, não só para si, mas para toda a sua família e sociedade" (e-STJ fl. 5).
+Ressalta que, "revolvido o Inquérito Policial, percebe-se que inexistia um juízo de probabilidade hábil a sustentar o ingresso policial no domicílio do ora paciente sem a prévia autorização judicial. Isso porque, não existiam fundadas razões ex ante à sua abordagem, que não estava em situação de flagrante delito, motivo pelo qual o ingresso em sua casa, desprovido de mandado de busca, foi manifestamente ilegal" (e-STJ fl. 11).
+Acrescenta "que não foram satisfeitos os requisitos autorizadores da constrição da liberdade do paciente, tendo o decreto preventivo afrontado o disposto no artigo 312 do Código de Processo Penal. Isso porque, o delito imputado não é concretamente grave. Isso pois, houve a apreensão de apenas DOIS REVÓLVERES municiados na residência de Josemar, o que demonstra a baixa lesividade da conduta" (e-STJ fl. 18).
+Além disso, assere "inexistirem indicativos de que o paciente apresente elevados índices de periculosidade ou de que possa, de alguma forma, representar perigo concreto à comunidade em que está inserido. Não bastasse, o paciente não tentou afrontar o adequado decorrer do Inquérito Policial nem eventual dilação probatória, pois, não ameaçou informantes e demais testemunhas" (e-STJ fl. 20).
+Diante dessas considerações, pede (e-STJ fls. 27/28):
+a) O conhecimento do presente habeas corpus, com fundamento no artigo 648, II, do Código de Processo Penal;
+b) O reconhecimento do constrangimento ilegal que o paciente vem sofrendo, ao efeito de conceder a presente ordem de habeas corpus LIMINARMENTE e de colocar o paciente imediatamente em liberdade, nos termos acima fundamentados;
+c) Ainda, quanto ao mérito, a expedição de alvará de soltura em favor do paciente JOSEMAR CARVALHO PAULIN é medida que se impõe, determinando-se a imediata revogação da prisão preventiva, com a consequente declaração de ilicitude das provas obtidas mediante violação domiciliar, bem como da consequente determinação de seu desentranhamento dos autos por NULIDADE ABSOLUTA, incluídas todas provas constantes no auto de prisão em flagrante, uma vez que os agentes que efetuaram a prisão não tinham mandado de busca e apreensão para invadirem o apartamento;
+d) Subsidiariamente, a substituição da prisão preventiva por medidas cautelares alternativas ao cárcere.
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso, porque, em 28 de julho de 2023, o magistrado singular julgou improcedente o pedido formulado na denúncia e absolveu o paciente, nos termos do art. 386, incisos II e VII, do Código de Processo Penal.
+Assim, patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
