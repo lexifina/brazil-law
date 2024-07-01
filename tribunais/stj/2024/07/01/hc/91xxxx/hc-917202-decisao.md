@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO HENRIQUE SOARES DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 1500788-33.2022.8.26.0530.
+Consta dos autos que o paciente foi condenado pelo Juízo da 1ª Vara da Comarca de Jardinópolis às penas de 02 (dois) anos, 01 (um) mês e 12 (doze) dias de reclusão, em regime inicial semiaberto, mais o pagamento de 09 (nove) dias-multa, no mínimo legal, como incurso no artigo 155, §4º, incisos I e II c/c artigo 14, II, do Código Penal, nos termos da sentença de fls. 64-72.
+A defesa interpôs recurso de apelação criminal ao Tribunal de Justiça, que negou provimento ao apelo, conforme o acórdão de fls. 81-95.
+Operado o trânsito em julgado, sobreveio a impetração do presente writ substitutivo de revisão criminal, em que o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na ausência de suporte do laudo pericial à subsistência das qualificadoras, à ausência de fundamentação idônea a ensejar a negativa ao reconhecimento da confissão espontânea, bem como a inexistência de qualquer fundamentação a ensejar a fixação do patamar de 1/3 a título da tentativa, patamar que seria, ainda, desproporcional.
+Requer a concessão da ordem de modo que sejam afastadas as qualificadoras de escalada e de rompimento de obstáculo, seja aplicada a atenuante da confissão espontânea e seja reduzida a pena em seu grau máximo à título da tentativa.
+Não foi formulado pedido liminar.
+Informações prestadas às fls. 127-130 e 131-164.
+O Ministério Público Federal, às fls. 167-174, opinou pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível ilegalidade flagrante no acórdão impugnado, consistente na ausência de suporte do laudo pericial à subsistência das qualificadoras, à ausência de fundamentação idônea a ensejar a negativa ao reconhecimento da confissão espontânea, bem como a inexistência de qualquer fundamentação a ensejar a fixação do patamar de 1/3 a título da tentativa, patamar que seria, ainda, desproporcional.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO já transitado em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido." (AgRg no HC 561.185/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 16/03/2020)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido." (AgRg no HC 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada (fls. 87-94):
+ ..
+A materialidade delitiva está comprovada pelo Prisão em Flagrante Delito (fls. 05), Boletim de Ocorrência nº AT9971-1/2022 (fls. 11/12), auto de Exibição e Apreensão (fls. 16), laudo pericial (fls. 160/163), bem como pela prova testemunhal produzida sob o crivo do contraditório.
+O laudo pericial, com fotografias, foi juntado às fls. 160/163.
+ ..
+O réu, para entrar na chácara, transpôs a tela de proteção e arrombou a porta, e que teve um prejuízo de mais de R$ 6.000,00, em razão de todo sistema de CFTV, câmeras de segurança danificadas, central e alarmes e danos de serralheria.
+ ..
+Bem demonstradas, ainda, as qualificadoras da escalada e rompimento de obstáculo, pela prova testemunhal e pericial produzidas.
+A farta prova material, somada à prova oral, formam um todo uníssono contra o réu, que efetivamente praticou a tentativa de crime de furto qualificado, de modo que a condenação não comporta reparos. Os elementos probatórios trazidos aos autos são mais que suficientes para incutir no julgador o juízo de certeza necessário à condenação.
+Há de se ressaltar que a r. sentença está bem fundamentada. Caberia até mesmo citar o art. 252, do Regimento Interno deste Tribunal de Justiça, que diz: "Nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la".
+Passo a análise da dosimetria das penas.
+Na primeira fase, a r. sentença fixou a pena-se em 1/6 acima do mínimo legal, 02 (dois) anos, 04 (quatro) meses de reclusão, e ao pagamento de 11 (onze) dias-multa, fixados no mínimo legal, diante do registro de maus antecedentes (fls. 25/30), bem como da existência de duas qualificadoras, consignando entendimentos jurisprudenciais de E. Cortes Superiores.
+Com efeito, havendo mais de uma qualificadora, a pena- base deve ser exasperada. Nesse sentido:
+ ..
+Bem justificada a exasperação adotada, fica mantida.
+Na segunda fase, presente a circunstância agravante da reincidência, conforme fls. 21/24, e, assim, a pena foi aumentada à razão de 1/6, perfazendo-se em 03 (três) anos, 02 (dois) meses e 03 (três) dias de reclusão, e ao pagamento de 14 (quatorze) dias-multa no mínimo legal.
+Na terceira fase, não há causas de aumento a serem computadas, todavia, observo foi considerada a causa de diminuição prevista no artigo 14, inciso II, do Código Penal, e a pena foi reduzida em 1/3, perfazendo 02 (dois) anos, 01 (um) mês e 12 (doze) dias de reclusão, e ao pagamento de 09 (nove) dias-multa, fixados no mínimo legal.
+Não há amparo legal para a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Quanto ao regime prisional inicial foi fixado o semiaberto, o que fica mantido, eis que justificado. Cuida-se de réu reincidente, com circunstâncias judiciais desfavoráveis, não fazendo jus a regime prisional mais brando."
+ ..
+A via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que toca às tese de afastamento de incidência da qualificadora do rompimento de obstáculo e de escalada, constato que o acórdão impugnado apreciou as provas produzidas sob o crivo do contraditório e da ampla defesa, não apenas de forma aprofundada, mas devidamente fundamentada.
+A Corte local atestou que as qualificadores restaram devidamente demonstradas tanto pela prova pericial produzida quanto pela prova testemunhal, tendo o paciente, transposto a tela de proteção e arrombado a porta de entrada para ingressar na chácara, não havendo que se falar em ilegalidade na sua aplicação.
+Assim, para desconstituir a premissa firmada pela instância antecedente, soberana na apreciação das provas dos autos, a fim de concluir que o laudo pericial não foi apto a comprovar a ocorrência da escalada e do rompimento de obstáculo, seria necessário revolvimento fático-probatório, providência vedada na estreita via do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. FURTO QUALIFICADO. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. CONTEXTO DA SUBTRAÇÃO. QUALIFICADORAS DA ESCALADA E DO ROMPIMENTO DE OBSTÁCULO MANTIDAS. EXAME PERICIAL DIRETO, CONFISSÃO E PROVA TESTEMUNHAL. DOSIMETRIA. MAUS ANTECEDENTES. UTILIZAÇÃO DE CONDENAÇÃO ANTERIOR ALCANÇADA PELO PERÍODO DEPURADOR. POSSIBILIDADE. PENA-BASE DEVIDAMENTE FUNDAMENTADA. FRAÇÃO DE AUMENTO PROPORCIONAL. CRIME TENTADO. IMPROCEDÊNCIA. REGIME FECHADO. ADEQUAÇÃO E PROPORCIONALIDADE.
+ ..
+4. As qualificadoras do furto foram reconhecidas com base nas provas pericial e oral, não havendo que se falar em ilegalidade na sua aplicação. A instância de origem decidiu que a perícia foi conclusiva no sentido do rompimento do obstáculo, bem como demandou do acusado esforço incomum para transpor o muro e adentrar no imóvel. Para infirmar essas conclusões, seria imprescindível o revolvimento do material fático-probatório dos autos, procedimento sabidamente incompatível com os estreitos limites de cognição do habeas corpus.
+ ..
+10 . Agravo regimental desprovido." (AgRg no HC n. 752.992/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 19/4/2023.)
+No tocante ao pleito de reconhecimento da confissão, ao argumento de que o paciente teria admitido o delito informalmente aos policiais, quando do flagrante, verifico que não foi objeto de debate pela Corte de origem, o que obsta o conhecimento do pedido por este Tribunal.
+Assim, considerando que o Tribunal de origem não se pronunciou sobre a tese aventada na presente impetração, sob a ótica desejada pela defesa, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte local não analisou nenhuma das teses defensivas - natureza diversa do delito que gerou a reincidência, lapso temporal entre a condenação geradora da reincidência e a imputação, bem como a desproporcionalidade na imposição do regime semiaberto (dada a forma como foi praticada e o resultado da conduta) -, evidenciando-se, assim, a impossibilidade de conhecer-se da impetração, sob pena de vedada supressão de instância.
+2. A decisão agravada deve ser mantida, pois está em conformidade com a jurisprudência desta Corte, firme em assinalar que a supressão de instância impede o conhecimento de habeas corpus impetrado per saltum (não inaugurada a competência prevista no art. 105 da CF).
+3. Agravo regimental não provido." (AgRg no HC n. 846.353/DF, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 18/10/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANSCURSO DO PERÍODO DEPURADOR. MATÉRIA NÃO SUBMETIDA AO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MINORANTE DO TRÁFICO PRIVILEGIADO NEGADA E IMPOSIÇÃO DE REGIME MAIS GRAVOSO ANTE A REINCIDÊNCIA DO RÉU. FUNDAMENTO VÁLIDO.
+1. Verifica-se dos autos que a alegação de que teria transcorrido o período depurador de 5 anos - o qual é contado do cumprimento ou extinção da punibilidade e não do trânsito em julgado da condenação, ex vi do art. 64, I, do CP - não foi submetida à análise do Tribunal de origem, o que impede o exame diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+2. Tratando-se de réu reincidente, fica afastada a incidência da minorante do art. 33, §4º, da Lei n. 11.343/2006, ante a ausência de um dos requisitos exigidos para sua concessão que é a primariedade, justificando-se, ainda, o recrudescimento do regime prisional, a despeito de a pena final aplicada ser inferior a 8 anos e superior a 4 anos de reclusão.
+3. Agravo regimental improvido." (AgRg no HC n. 837.627/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador convocado do TJDFT), DJe de 15/12/2023.)
+De todo modo, não vislumbro, de plano, quanto ao ponto, qualquer flagrante ilegalidade a ser sanada nos moldes do parágrafo 2º do artigo 654 do Código de Processo Penal.
+No tocante à fração incidente a título da tentativa, melhor sorte assiste ao impetrante.
+Quanto ao tema, assinalo que o Código Penal, em seu artigo 14, II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado.
+Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+Ressalto que a escolha da fração aplicada a título da tentativa deve ser devidamente fundamentada pelo magistrado, o qual deve demonstrar, à luz do iter criminis percorrido, com fulcro nas circunstâncias concretas do delito, a proximidade ou não da consumação do delito.
+No caso em apreço, tanto a Corte local quando o magistrado de primeira instância aplicaram a fração de 1/3 (um terço) a título da redução pela tentativa.
+Contudo, não foi tecida qualquer consideração acerca do iter criminis efetivamente percorrido, à luz das circunstâncias do caso concreto, de modo que a opção pela fração diversa da mais benéfica não restou devidamente fundamentada.
+Dessa forma, à míngua de motivação concreta, é imperiosa a fixação do patamar de 2/3 (dois terços), mais benéfico ao paciente.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. ITER CRIMINIS PERCORRIDO. FRAÇÃO DE 1/3. AUSÊNCIA DE FUNDAMENTAÇÃO IDÕNEA. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO IMPROVIDO.
+1. "Como regra, o Código Penal, em seu art. 14, II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição" (AgRg no HC 609131 / SP, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/08/2021, DJe 30/08/2021).
+2. No caso, verifica-se que os fundamentos lançados pelas instâncias ordinárias para adotar diferenciação em relação à fração da tentativa entre os acusados não são válidos, pois utilizados elementos subjetivos da conduta criminosa para definir o iter criminis percorrido."
+3. Agravo regimental improvido." (AgRg no HC n. 714.775/PR, Sexta Tur ma, Rel. Min. Jesuíno Rissato (Desembargador convocado do TJDFT), DJe de 16/3/2023.)
+Assim, a fica a pena do paciente fixada em 01 (um) ano e 21 (vinte e um) dias de reclusão, mais pagamento de 04 (quatro) dias-multa, mantido o regime prisional inicial semiaberto, em razão da reincidência e das circunstâncias judiciais desfavoráveis, bem como os demais termos da condenação.
+Assinalo que "a contrário sensu, em vista da existência de uma única orientação jurisprudencial que proíbe a redução da pena abaixo do mínimo, porém, na segunda fase dosimétrica (Súmula n. 231/STJ), ou seja, não há impeditivo na jurisprudência do STJ de que essa redução seja efetuada na terceira fase da dosimetria" (REsp n. 1.756.117/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 10/5/2019), sendo possível, ainda, a redução da pena de multa no mesmo patamar.
+Ante o exposto, não conheço do habeas corpus, mas concedo parcialmente a ordem, de ofício, para fixar as penas de PAULO HENRIQUE SOARES DE SOUZA em 01 (um) ano e 21 (vinte e um) dias de reclusão, mais pagamento de 04 (quatro) dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
+EMENTA
