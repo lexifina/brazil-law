@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado por JOAO PAULO LOPES, de próprio punho, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento das apelações criminais n. 1501859-65.2020.8.26.0037 e n. 1501858-80.2020.8.26.0037.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 3ª Vara Criminal da Comarca de Araraquara, no âmbito da ação penal n. 1501859-65.2020.8.26.0037, à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão em regime inicial semiaberto, bem como ao pagamento de multa equivalente a 13 (treze) dias-multa, como incurso no artigo 157, § 2º, inciso VII, do Código Penal, nos termos da sentença de fls. 33-37.
+Ambas as partes interpuseram apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso da defesa e proveu o recurso da acusação, com o aumento da pena-base e a revisão do tratamento carcerário, concretizando a reprimenda em 05 (cinco) anos, 11 (onze) meses e 03 (três) dias de reclusão, em regime inicial fechado, cumulada com 13 (treze) dias-multa, mantidos os demais termos da condenação, conforme o acórdão de fls. 06-18, complementado pelo acórdão de fls 38-43 (ação penal n. 1501859-65.2020.8.26.0037), com trânsito em julgado em 07/06/2023.
+O paciente também foi condenado pelo Juízo da 2ª Vara Criminal da Comarca de Araraquara, no âmbito da ação penal n. 1501858-80.2020.8.26.0037, à pena de 04 (quatro) anos de reclusão, em regime prisional inicial semiaberto, e ao pagamento de 10 (dez) dias-multa, como incurso no art. 157, caput, do Código Penal, nos termos da sentença de fls. 44-52.
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 53-58, com trânsito em julgado em 15/12/2022 (ação penal n. 1501858-80.2020.8.26.0037).
+Operado o trânsito em julgado de ambas as ações penais, sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem de modo a reconhecer a continuidade delitiva entre as condenações das ações penais n. 1501859-65.2020.8.26.0037 e n. 1501858-80.2020.8.26.0037, com aplicação da fração da causa de aumento de 1/6.
+Petição da Defensoria Pública da União às fls. 3-5.
+O pedido liminar foi indeferido às fls. 63-64.
+Informações prestadas às fls. 71-74 e 75-118.
+O Ministério Público Federal, às fls. 121-125, opinou pela não admissão do writ e pelo descabimento da concessão da ordem, de ofício.
+É o relatório. DECIDO.
+A controvérsia consiste na possível existência de constrangimento ilegal ao paciente em razão do não reconhecimento da continuidade delitiva entre as condenações das ações penais n. 1501859-65.2020.8.26.0037 e n. 1501858-80.2020.8.26.0037, com aplicação da fração da causa de aumento de 1/6.
+O presente writ foi impetrado contra acórdãos do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ambos já transitados em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido." (AgRg no HC 561.185/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 16/03/2020)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido." (AgRg no HC 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019)
+Ademais, verifico que a tese de que o paciente sofre coação ilegal, em razão do não reconhecimento da continuidade delitiva entre as condenações das ações penais n. 1501859-65.2020. 8.26.0037 e n. 1501858-80.2020.8.26.0037, com aplicação da fração da causa de aumento de 1/6, não foi apreciada pelo Juízo de primeiro grau, nem perante a Corte de origem, restando configurada a dupla supressão de instância.
+Assim, considerando que as instâncias ordinárias não se pronunciaram sobre a tese aventada na presente impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO DEFINITIVA. SUBSTITUIÇÃO DA PRISÃO POR PRISÃO DOMICILIAR. SÚMULA N. 691/STF. INVIABILIDADE DE SUPERAÇÃO DO ÓBICE SUMULAR. DUPLA E INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ao que se tem dos autos, o pedido de substituição da prisão definitiva por prisão domiciliar não teria sido sequer submetido à apreciação do Juízo de primeira instância, situação que caracteriza dupla e indevida supressão de instância, impedindo o afastamento do óbice contido na Súmula n. 691/STF.
+2. Agravo regimental desprovido." (AgRg no HC n. 903.169/MG, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte local não analisou nenhuma das teses defensivas - natureza diversa do delito que gerou a reincidência, lapso temporal entre a condenação geradora da reincidência e a imputação, bem como a desproporcionalidade na imposição do regime semiaberto (dada a forma como foi praticada e o resultado da conduta) -, evidenciando-se, assim, a impossibilidade de conhecer-se da impetração, sob pena de vedada supressão de instância.
+2. A decisão agravada deve ser mantida, pois está em conformidade com a jurisprudência desta Corte, firme em assinalar que a supressão de instância impede o conhecimento de habeas corpus impetrado per saltum (não inaugurada a competência prevista no art. 105 da CF).
+3. Agravo regimental não provido." (AgRg no HC n. 846.353/DF, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 18/10/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANSCURSO DO PERÍODO DEPURADOR. MATÉRIA NÃO SUBMETIDA AO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MINORANTE DO TRÁFICO PRIVILEGIADO NEGADA E IMPOSIÇÃO DE REGIME MAIS GRAVOSO ANTE A REINCIDÊNCIA DO RÉU. FUNDAMENTO VÁLIDO.
+1. Verifica-se dos autos que a alegação de que teria transcorrido o período depurador de 5 anos - o qual é contado do cumprimento ou extinção da punibilidade e não do trânsito em julgado da condenação, ex vi do art. 64, I, do CP - não foi submetida à análise do Tribunal de origem, o que impede o exame diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+2. Tratando-se de réu reincidente, fica afastada a incidência da minorante do art. 33, §4º, da Lei n. 11.343/2006, ante a ausência de um dos requisitos exigidos para sua concessão que é a primariedade, justificando-se, ainda, o recrudescimento do regime prisional, a despeito de a pena final aplicada ser inferior a 8 anos e superior a 4 anos de reclusão.
+3. Agravo regimental improvido." (AgRg no HC n. 837.627/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador convocado do TJDFT), DJe de 15/12/2023.)
+De todo modo, não vislumbro, de plano, qualquer flagrante ilegalidade a ser sanada nos moldes do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
