@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS (38,9KG DE MACONHA) - PRISÃO PREVENTIVA - PRETENDIDA REVOGAÇÃO OUSUBSTITUIÇÃO PARA AS MEDIDAS CAUTELARES DO ART. 319 DO CPP - CUSTÓDIA ADMITIDA - PRESENÇA DOS PRESSUPOSTOS E FUNDAMENTOSDO ART. 312 DO CPP - SEGREGAÇÃO JUSTIFICADA NA GARANTIA DAORDEM PÚBLICA EM FACE DA GRAVIDADE CONCRETA DO CRIME - NÃORECOMENDAÇÃO DAS MEDIDAS CAUTELARES - CONSTRANGIMENTOILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+Sendo a prisão preventiva admitida nos termos do art. 313, I, do CPP, e estando presentes os pressupostos e fundamentos descritos no art. 312 do CPP, resta justificada a custódia na garantia da ordem pública, não sendo recomendável a conversão da custódia nas medidas cautelares do art. 319 do CPP, ainda que o paciente possua as condições pessoais favoráveis, devendo a prisão preventiva ser mantida.
+O fundamento da garantia da ordem pública, restou demonstrado na gravidade concreta da conduta visualizada no modus operandi e na apreensão de elevada quantidade de entorpecente (38,9 kg de maconha).
+Imputa-se ao recorrente a prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06) por ter, em conjunto com outro indivíduo, transportado, em um veículo HB20, 50 tabletes de maconha, com peso de 38,9Kg (e-STJ fl. 31).
+O paciente foi preso em flagrante e teve decretada sua prisão preventiva (e-STJ fls. 78 e 79-80).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois a decisão que decretou a prisão preventiva está desfundamentada, bem como porque não estão presentes os elementos que indicam o periculum libertatis.
+Ao final, requer o provimento do recurso para revogar a prisão preventiva ou substituí-la por medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+ .. . Outrossim, os pressupostos e fundamentos do art. 312 do CPP ficaram evidenciados.
+Os pressupostos afloram da materialidade do delito e dos fortes indícios de autoria, que foram demonstrados nos autos do inquérito policial, tanto é assim que a denúncia já foi oferecida.
+O fundamento da garantia da ordem pública, foi justificado na gravidade concreta da conduta visualizada no modus operandi e na grande quantidade de droga apreendida (38,9 kg de maconha), que o paciente juntamente com o coautor Gabriel Santos Garcia iriam levá-la para outro estado da federação  ..
+Assim, sendo admitida a prisão preventiva e estando presentes seus pressupostos e fundamentos, não há falar em revogação da custódia ou na concessão da liberdade provisória condicionada às medidas cautelares, ainda que as condições pessoais sejam favoráveis à paciente  ..  (e-STJ fl. 110).
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a decisão que decretou a prisão preventiva está devidamente fundamentada e estão presentes os requisitos cautelares ensejadores da possibilidade de sua decretação.
+E assiste razão ao Tribunal de origem, uma vez que a grande quantidade de drogas apreendida com o paciente é indicativo claro da gravidade concreta da conduta, denotando a necessidade de garantia da ordem pública. De outro lado, medidas cautelares diversas, que pressupõem parcela de liberdade ao indivíduo, são inadequadas, pois a prática de tráfico de drogas pode ser facilmente reiterada ainda que o indivíduo esteja em casa, com tornozeleira eletrônica, seja proibido de sair de casa no período noturno, justifique suas atividades mensalmente perante o Juiz. Ou seja, mesmo com todas essas cautelares, a reiteração da prática do tráfico é extremamente fácil, principalmente para alguém que tem acesso a 38 Kg de drogas.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
