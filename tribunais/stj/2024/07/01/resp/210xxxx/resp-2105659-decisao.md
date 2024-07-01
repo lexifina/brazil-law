@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por EXPEDITO LUIZ DE CARVALHO NETO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+O recorrente apresentou agravo em execução contra decisão que nos autos da Execução Penal nº 5009202-88.2015.4.04.7000 indeferiu o pedido de alteração da data-base para a progressão de regime, mantendo como data-base o trânsito em julgado da nova condenação, isto é, 26/09/2016 (fl.76).
+A Corte de Justiça de origem negou provimento ao agravo da execução penal(fls. 59-65).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a defesa aponta violação ao art. 112, §6º,da Lei n. 7.210/84 (fl. 74-86).
+Requer, assim, seja reconhecido o dia 25.02.2014 como data-base para a progressão de regime (fl. 85).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso especial (fls. 117-122).
+É o relatório. DECIDO.
+A controvérsia cinge-se em fixar a data-base para a progressão de regime prisional. O recorrente pugna pela fixação da data do dia 25/02/2014, data em que foi praticada a última falta grave.
+O Tribunal Regional Federal entendeu que a questão sobre a data-base fixada para progressão de regime, prevista pela última condenação do condenado, em 26/09/2016, já foi objeto de debate, estando a matéria preclusa (fl. 64). Ademais, alega não ocorrência de alteração do entendimento do STF, que prevê, em se tratando de unificação de penas, o trânsito em julgado da última condenação como termo inicial da data-base.
+O recorrente aduz que o entendimento predominante nesta Corte é que, sobrevindo nova condenação no curso da execução, deverá o juízo realizar a unificação das penas impostas, no entanto, diante ausência de previsão legal, não deve considerar o trânsito em julgado desta nova condenação como marco inicial para novos benefícios, devendo observar a data da última prisão ou da última falta grave.
+Destarte, afirma que a decisão proferida pelo Tribunal está contrária ao artigo 112, §6º da LEP, bem como ao próprio entendimento do STJ, assim impositiva a fixação da pena-base da data de 25/02/2014.
+No caso presente, conquanto tenha sido admitido pelo Tribunal, observo que o recurso especial encontra óbice na Súmula n. 283, do STF, a qual prevê: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+O Tribunal assentou a preclusão da matéria objeto desta ação, por ter ocorrido o trânsito em julgado do acórdão no Agravo em Execução Penal nº 5049873-85.2017.4.04.7000/PR, no qual aquela Corte deferiu o pedido da defesa para fixar a data do trânsito em julgado da última condenação a ser unificada como marco inicial para a contagem do requisito objetivo para a progressão de regime.
+Assim, noto que o recorrente não se desincumbiu de impugnar o fundamento quanto à preclusão da questão federal suscitada pelo tribunal, tendo como obstáculo ao conhecimento da insurgência a deficiente fundamentação das razões especiais.
+É o entendimento:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI Nº 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS E OUTRAS PROVAS. IMPOSSIBILIDADE. SÚMULA 568/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. ALTERAÇÃO DE REGIME SUBSTITUIÇÃO DA PENA. ANÁLISE PREJUDICADA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Na espécie, o vetor quantidade do entorpecente não foi o único motivo utilizado pelas instâncias ordinárias para afastar a minorante, uma vez que, conforme mencionou o acórdão recorrido "as provas produzidas nos autos" demonstram que o recorrente se dedica à prática criminosa. Verifica-se que foram considerados outros elementos para se chegar à conclusão acerca da dedicação do recorrente a atividades criminosas.
+II - Ademais, o recorrente não cuidou de refutar, de forma específica e fundamentada, todos os pontos esteares do acórdão recorrido, particularmente no que se refere às demais provas que indicaram a dedicação do agravante às atividades criminosas. Desta forma, o recurso não pode ser conhecido, pela aplicação, por analogia, do Enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+III - Os pedidos em relação ao regime e substituição da pena corporal por restritivas de direitos restam prejudicados ante a ausência de alteração do quantum da pena.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.231.373/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/9/2023, DJe de 19/9/2023.)
+Deste modo, não se faz possível analisar a controvérsia do recurso especial, pois a decisão judicial está baseada em dois fundamentos independentes e suficientes para sustentá-la, a preclusão e o entendimento jurisprudencial, porém o recurso não trata da preclusão, sendo, portanto, inadmissível. Isso ocorre porque, mesmo que um dos fundamentos seja considera do inválido, os demais ainda sustentariam a decisão recorrida.
+Ante o exposto, nego conhecimento ao recurso especial, conforme artigo 255, §4º, I do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. DATA-BASE PARA PROGRESSÃO DE REGIME. ÚLTIMA CONDENAÇÃO. PRECLUSÃO. PRECEDENTES. PEDIDO PARA DATA BASE DA ÚLTIMA FALTA GRAVE. INCIDÊNCIA DA SÚMULA N. 283, DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
