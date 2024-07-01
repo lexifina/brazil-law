@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por JUNOT SILVA DE BRITO, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA.
+Consoante se extrai dos autos, o agravante foi condenado pela prática do delito previsto no artigo 157, § 2º, incisos I e II, do Código Penal, à pena privativa de liberdade de 05 (cinco) anos e 04 (quatro) meses de reclusão a ser cumprida em regime semiaberto e 87 (oitenta e sete) dias-multa (fls. 251-259).
+Em segunda instância, o eg. Tribunal a quo negou provimento ao apelo defensivo (fls. 362-373). Embargos de declaração rejeitados (fls. 424-429).
+Interposto recurso especial, com fulcro no art. 105, III, alínea "a" da Constituição da República, em que se alegava a violação dos arts. art. 14, II, do Código Penal, e 146 e 386, VII, do Código de Processo Penal (fls. 440-453), restou o nobre apelo inadmitido, com fundamento no óbice da Súmula 07 do STJ (502-504). Ocorre que, contra a decisão em comento, a parte se insurgiu por meio de agravo de instrumento, o qual restou não conhecido pelo Tribunal a quo (fls. 582-583).
+Contra essa segunda decisão, a parte interpôs novo recurso especial, em que, com fulcro no permissivo constitucional disposto no art. 105, III, "a", da Constituição da República, alegou afronta aos arts. 14, II, 16, 59, 66, todos do Código Penal (fls. 684-697).
+Apresentadas contrarrazões às fls. 701-706, sobreveio juízo negativo de admissibilidade com base na deficiência de fundamentação nos moldes do artigo 1.029 do Código de Processo Civil (fls. 710-711).
+Nas razões do agravo, o recorrente discorre sobre a viabilidade do exame do recurso especial, dissertando sobre a não aplicação da Súmula 07 do STJ ao caso (fls. 716-724 ).
+O Ministério Público Federal apresentou parecer pelo não conhecimento agravo em recurso especial (fls. 751-755).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da ausência de fundamentação, nos termos do artigo 1.029 do Código de Processo Civil.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, se reportando à Súmula 07 do STJ, muito embora a Vice-Presidência do Tribunal local tenha embasado a decisão de inadmissão do recurso especial na ausência de impugnação específica e adequada das razões de decidir do acórdão objurgado, sem fazer menção ao óbice da Súmula mencionada anteriorment e.
+Ressalta-se que, nas razões do agravo, deve o recorrente infirmar os pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. ROUBO MAJORADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (ART. 157, § 2.º, INCISOS I E II, DO CP). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
