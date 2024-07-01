@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 340/347) interposto contra decisão desta relatoria que negou provimento ao agravo, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 334/337).
+A agravante sustenta não ser aplicável a Súmula n. 7/STJ.
+Reafirma a tese de violação do art. 966, VII, do CPC/2015.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões apresentadas (e-STJ fls. 352/357) .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 334/337):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação dos dispositivos legais violados, incidência da Súmula n. 7/STJ e impossibilidade de, em recurso especial, discutir o mérito da decisão rescindenda (e-STJ fls. 300/302).
+O acórdão recorrido está assim ementado (e-STJ fl. 117):
+AÇÃO RESCISÓRIA - FUNDAMENTO ARTIGO 966, INCISO VII, DO CPC - DOCUMENTO NOVO - DISTRATO DE REPRESENTAÇÃO COMERCIAL MEDIANTE QUITAÇÃO E ALEGAÇÃO DA AUTORA DE RESSALVA, COM CIÊNCIA DA REQUERIDA - ÔNUS CONSTITUTIVO NÃO EVIDENCIADO - CARÊNCIA DA RESCISÓRIA - INDEFERIMENTO DA INICIAL - DOCUMENTO NOVO QUE DATA DE 2009 (SIC), SEM INTERFERÊNCIA OU INFLUÊNCIA NO EXAME PROBATÓRIO DA DEMANDA - AÇÃO JULGADA EXTINTA.
+Nas razões do recurso especial (e-STJ fls. 126/137), interposto com fundamento no art. 105, III, "a", da CF, a recorrente sustentou ofensa ao art. 966, VII, do CPC, pois, "após o trânsito em julgado do v. acórdão rescindendo, (..) obteve prova nova que não pode fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável" (e-STJ fl. 130).
+Alegou que (e-STJ fl. 131):
+(..) inconteste que restou superado o argumento suscitado no v. acórdão rescindendo, no sentido de que "não havia qualquer indício de que a empresa ré tivesse sido cientificada da ressalva." Ora, doutos Julgadores, "cum permissa" o documento novo obtido pela recorrente após o trânsito em julgado do v. acórdão rescindendo, comprovou de forma clara e inconteste que a recorrida não só teve ciência  como não se insurgiu  no sentido que a quitação havia sido dada apenas parcialmente. Vale dizer: a empresa recorrida recebeu o termo de distrato e não colocou qualquer objeção com a ressalva manuscrita posta no mesmo; tanto assim, que efetuou o depósito em conta dois dias após a chegada do documento.
+Defendeu a aplicação do prazo prescricional quinquenal, pois seria (e-STJ fl. 132):
+(..) absolutamente irrelevante e sem qualquer propósito o entendimento adotado no v. acórdão atacado, no sentido de que a ruptura contratual data de abril/2009; e, a ação somente foi proposta em junho/2010. Ora, doutos Julgadores, "data maxima venia", a empresa recorrente teria prazo até abril/2014 para ajuizar a competente ação de cobrança dos valores que entendesse devidos, mercê o permissivo previsto nas disposições do artigo 44, parágrafo único, da Lei nº 8.420/92, se não vejamos:
+Sustentou cerceamento de defesa, pois não ocorreu citação nos termos do art. 970 do CC/2002, bem como não foi oportunizada a produção de "prova oral complementar, no sentido de que o termo de distrato não foi assinado aos 03/04/2009, mas sim, aos 06/04/2009 quando ocorreu o reconhecimento das firmas das duas assinaturas e o envio por Sedex 10 à empresa recorrida" (e-STJ fl. 133).
+Aduziu que, nos termos do art. 843 do CC/2002, "a quitação decorrente da transação extrajudicial é restritiva e alcança exclusivamente os valores constantes do recibo" (e-STJ fl. 135).
+No agravo (e-STJ fls. 305/311), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto ao documento novo, o Tribunal de origem consignou que (e-STJ fls. 118/123):
+A ação rescisória merece, de plano, ser julgada extinta, ausentes os seus pressupostos e condições da demanda.
+As partes mantiveram relação negocial de representação comercial por longos 13 anos e, de comum acordo, celebraram o termo de distrato aos 03/04/2009. A requerida depositou o valor concernente à indenização de 1/3 e 1/12, totalizando R$312.459,62, à luz da cláusula segunda, de fls. 26. Nada obstante, tendo sido bem analisada a matéria em ambas as instâncias, suscita a autora que a ressalva, documento de fls. 27, datada de 06/04/2009, e com firma reconhecida também no mesmo dia, seria de conhecimento da requerida, tanto assim que lhe encaminhou por Sedex carta, a qual chegou a suas mãos (fls. 28/29).
+Contudo, irrelevante, desinfluente e desimportante esse posicionamento, já que qualquer divergência em relação ao distrato deveria partir da premissa da anulação do ato jurídico. Mas não é só. A ruptura contratual data de 03/04/2009, e a ação somente fora proposta em junho de 2010. Não se trata, à evidência, pelos motivos declinados, de documento novo ou que possa minimamente alterar o exame do conjunto probatório, já que é de conteúdo unilateral, apôs a efetiva resilição do contrato e, se a empresa tinha ciência ou não, ficou registrado no v. aresto que a autora não se desincumbiu do ônus da prova, por força do artigo 333, inciso I, do CPC/73, capaz de evidenciar a existência de direito a valores não incluídos no distrato.
+Ainda que o propalado documento tivesse o condão de trazer discernimento e ciência da requerida, galgados 10 anos portanto, uma década, os valores ditados à demanda rescisória, de R$ 5.000,00, depois majorados para R$ 8.000,00, estão a revelar a total desrazão da autora, a qual recebeu integralmente o valor e quer fazer crer em quitação parcial, mas em momento algum traduz o que lhe fora de direito, afirmando apenas que ao longo dos anos existiu redução das comissões recebidas.
+Não se vislumbra, assim, a hipótese rescindenda do julgado, porquanto o documento mencionado não restou como fato isolado para a formação do livre convencimento.
+Eventual arrependimento da autora em relação às verbas rescisórias recebidas não se incorpora à matemática de reexame do quadro probatório, a pretexto da comprovação da ressalva, ato unilateral cuja interpretação contraria a boa-fé objetiva da autora; a uma, pois lançada após a assinatura do distrato; a duas, por ter recebido integralmente o valor constante da resilição, cláusula segunda; e por último, o reconhecimento de firma ou a tentativa de infirmar a cláusula quarta não apresenta repercussão a título de ação rescisória ou de modificação do resultado, tratando-se de mera insatisfação ou descontentamento, incapaz de reabrir a instância.
+É típica hipótese de indeferimento da exordial, julgando-a extinta, com as advertências de praxe sobre eventuais recursos meramente protelatórios ou manifestamente infundados.
+A propósito, já decidiu a Corte na ação rescisória nº 2109210-88.2019.8.26.0000, Relator Desembargador Heraldo de Oliveira, julgada em 25/09/2019; a pretensão fundada no artigo 966,inciso VII, do CPC,"não se presta a reanálise de prova por eventual equívoco na apreciação da prova já produzida no processo originário", resultando o procedimento extinto sem julgamento de mérito.
+Na mesma dicção o Desembargador Edson Luiz de Queiroz aos 02/07/2019, nos autos dos Embargos de Declaração nº 2083544-90.2016.8.26.0000/50000, no propósito de que o documento novo não altera aquilo resolvido conforme as premissas fáticas e legais aplicáveis à espécie, sendo a prova nova sem possibilidade de, por si só, assegurar pronunciamento favorável.
+O STJ, no Recurso Especial nº 1608993/MG, Ministro Napoleão Nunes Maia Filho: "o documento novo, além de exigir existência ignorada, ou de que não se pôde fazer uso, deve também ser capaz de, por si só, assegurar pronunciamento favorável, ou seja, de inserir convicção ao magistrado de que a conclusão da decisão rescindenda deveria ser modificada se tivesse conhecimento do referido documento".
+É inviável a ação rescisória quando busca o autor reexaminar fato ou circunstância efetivamente debatida em primeiro grau, não servindo de revisional do conjunto probatório ou de sua complementação.
+Isto posto, pelo meu voto, JULGO EXTINTA a ação rescisória, artigo 485, incisos I, IV e VI, do CPC. Custas na forma da lei, soerguido o depósito.
+Para desconstituir o entendimento do acórdão recorrido de que o documento novo não é capaz de alterar "o exame do conjunto probatório, já que é de conteúdo unilateral, após a efetiva resilição do contrato e, se a empresa tinha ciência ou não, ficou registrado no v. aresto que a autora não se desincumbiu do ônus da prova, por força do artigo 333, inciso I, do CPC/73, capaz de evidenciar a existência de direito a valores não incluídos no distrato" (e-STJ fl. 120), seria preciso reapreciar o conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Em relação à suscitada violação dos arts. 843 do CC/2002 e 970 do CPC/2015, essa tese não foi analisada pela Corte local, estando ausente o prequestionamento da matéria. Incide a Súmula n. 282/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se
+O Tribunal de origem entendeu que não "se trata, à evidência, pelos motivos declinados, de documento novo ou que possa minimamente alterar o exame do conjunto probatório, já que é de conteúdo unilateral, apôs a efetiva resilição do contrato e, se a empresa tinhaciência ou não, ficou registrado no v. aresto que a autora não se desincumbiu do ônus da prova, por força do artigo 333, inciso I, do CPC/73, capaz de evidenciar a existência de direito a valores não incluídos no distrato" (e-STJ fls. 120/121).
+Para reformar o acórdão recorrido, a fim de reconhecer que a parte agravante apresentou documento novo, seria preciso reapreciar o conjunto fático-probatório dos autos, incidindo a Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
