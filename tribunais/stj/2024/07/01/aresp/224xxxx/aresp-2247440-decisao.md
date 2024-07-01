@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por SANDRO DO AMPARO contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consoante se extrai dos autos, o Agravante foi condenado a 6 (seis) anos de reclusão, em regime fechado, e 20 (vinte) dias-multa, pelo delito do art. 157, § 2º, incisos I e II, do Código Penal (fls. 72-73).
+A Corte de justiça de origem negou provimento à apelação defensiva (fls. 119-126).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a Defesa aponta violação aos arts. 59 e 67, ambos do Código Penal (fls. 137).
+Aduz, em suma, ser medida impositiva a compensação integral da reincidência com a confissão espontânea (fls. 137-139).
+Apresentadas as contrarrazões (fls. 145-151), sobreveio juízo negativo de admissibilidade fundado no óbice da Súmula n. 83/STJ (fls. 154-155).
+A Defesa interpôs agravo, alegando o não cabimento da Súmula n. 83/STJ (fls. 160-167).
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 200-204).
+É o relatório. DECIDO.
+Observados os requisitos de conhecimento do agravo, passo à análise do recurso especial.
+O Agravante busca o pronunciamento deste Tribunal acerca da possibilidade de compensação integral da reincidência com a confissão espontânea.
+O Tribunal de justiça de origem deixou de compensá-las nestes termos (fls. 122-124):
+"Já na segunda etapa da dosimetria, foi reconhecida a circunstância atenuante prevista no art.65, III, d, (confissão espontânea), do Código Penal, bem como a circunstância agravante da reincidência.
+O juízo de primeiro grau considerou de forma preponderante a reincidência, o que está de acordo com a legislação penal pátria e com o entendimento jurisprudencial. Vejamos.
+O art. 67 do CP prevê que no concurso entre circunstâncias atenuantes e agravantes, devem preponderar as que resultam dos motivos determinantes do crime, da personalidade do agente e a reincidência.
+ ..
+Assim, tem-se que a reincidência que deve preponderar sobre as circunstâncias atenuantes, inclusive a atenuante da confissão espontânea. Este é o entendimento do STF:
+ ..
+No presente caso, correu bem o juízo a quo ao agravar a pena em 06 (seis) meses, restando a pena intermediária em 4 (quatro) anos e 06 (seis) meses de reclusão."
+Ao decidir nesses termos, a Corte de justiça de origem o fez em absoluta desarmonia com a jurisprudência deste Tribunal, sedimentada no sentido de ser possível a compensação integral da confissão espontânea com a reincidência, ainda que específica, nos termos do assentado por ocasião da apreciação do Tema n. 585, no recurso especial repetitivo n. 1.931.145/SP.
+Eis a ementa do mencionado julgado:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS E DIREÇÃO DE VEÍCULO SEM HABILITAÇÃO. ART. 33, CAPUT, DA LEI N. 11.343/2006, C/C O ART. 309 DA LEI N. 9.503/1997, NA FORMA DO ART. 69 DO CP. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE AUSÊNCIA DE LAUDOS PERICIAIS VÁLIDOS. QUEBRA DA CADEIA DE CUSTÓDIA. INEXISTÊNCIA DE IRREGULARIDADE. ALEGAÇÃO DESPROVIDA DE SUSTENTAÇÃO PROBATÓRIA. VALIDADE DOS ATOS PRATICADOS. CONDENAÇÃO COM BASE EM OUTRAS PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. PRETENSÃO DE COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DA CONFISSÃO E A AGRAVANTE DA REINCIDÊNCIA. DESCABIMENTO. RÉU MULTIRREINCIDENTE.
+1. Na hipótese dos autos, o Tribunal de origem expressamente afirmou não ter vislumbrado nenhuma evidência concreta de mácula às provas dos autos, inexistindo qualquer sustentação probatória na alegação da defesa; ressaltou a validade dos atos praticados, tendo-se evidenciado apenas um mero erro material, o qual não se revelou apto a tornar nula a prova produzida, tendo ainda destacado que a defesa, no momento oportuno, sequer impugnou a perícia realizada, sendo certo haver nos autos outras provas da prática delitiva. Dessa maneira, não há como acolher o pleito defensivo, nos moldes postulados, sem o necessário revolvimento fático-probatório, vedado nos termos da Súmula n. 7/STJ.
+2. A reincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito. Apenas nos casos de multirreincidência deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. Precedentes.
+3. No caso em exame, não se mostra possível proceder à compensação integral entre a reincidência e a confissão espontânea, tendo em vista que o recorrente possui múltiplas condenações definitivas, o que, nos termos da jurisprudência desta Corte Superior de Justiça, permite a preponderância da circunstância agravante.
+4. Recurso especial desprovido. Acolhida a readequação da Tese n. 585/STJ, nos seguintes termos: É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade." (REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022.).
+Ainda a propósito:
+" ..
+3. "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade". (REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022)
+4. Agravo regimental parcialmente provido, a fim de reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, tornando definitiva a pena do recorrente em 6 anos e 8 meses de reclusão, em regime inicial fechado, mais o pagamento de 666 dias-multa." (AgRg no HC n. 911.932/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.).
+Assim, a compensação da reincidência com a confissão espontânea é medida impositiva.
+Passo, portanto, ao redimensionamento das penas.
+Na primeira fase, mantenho a pena-base fixada em 4 (quatro) anos de reclusão e 10 (dez) dias-multa (fl. 73).
+Na segunda fase, compensadas a reincidência (fl. 73) e a confissão espontânea por esta decisão, as punições ficam mantidas em 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+Na terceira fase, mantido o acréscimo de 1/3 (um terço) pelas causas de aumento do art. 157, § 2º, incisos I e II, do Código Penal (fl. 73), as sanções ficam sedimentadas em 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime fechado, e 13 (treze) dias-multa.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea c, do RISTJ, conheço do agravo para conhecer e DAR PROVIMENTO ao recurso especial para reconhecer a possibilidade de compensação integral da reincidência com a confissão espontânea, redimensionando as penas nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. DELITO DO ART. 157, § 2º, INCISOS I e II, DO CÓDIGO PENAL. PLEITO DE COMPENSAÇÃO INTEGRAL DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. PROCEDENTE. REDIMENSIONAMENTO DAS PENAS. AGRAVO CONHECIDO PARA CONHECER E DAR PROVIMENTO AO RECURSO ESPECIAL, NOS TERMOS DO ART. 253, PARÁGRAFO ÚNICO, INCISO II, ALÍNEA C, DO RISTJ.
