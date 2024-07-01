@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por Ecom Energia Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 976):
+Agravo de instrumento Execução Pedido de aplicação de multa por ato atentatório à dignidade da Justiça Indeferimento - Ausentes indícios da ocultação dolosa de bens penhoráveis - Mera interposição de recursos ou incidentes intermediários que não configura, por si só, artifício ardil, pois não extrapolam o direito de ação - Decisão mantida Recurso improvido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 988/994).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos legais:
+(I) 1.022, II, do CPC, na medida em que o acórdão supracitado apresentou omissões não supridas;
+(II) 77, V, e 774, V, parágrafo único, do CPC, sustentando que "a aplicação multa prevista no art. 774 do CPC é amplamente reconhecida pela jurisprudência como sendo decorrência direta da simples postura do devedor que não faz a indicação determinada na ordem judicial" (fl. 1.010).
+Foram ofertadas contrarrazões às fls. 1.026/1.035 e 1.066/1.074.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que tange à questão de fundo, a Corte local asseverou (fls. 977/979):
+De fato, consoante previsto no inciso V do artigo 774 da lei processual civil, a falta de indicação de bens à penhora, por parte do executado intimado para tanto, deve gerar a aplicação de multa por ato atentatório à dignidade da justiça.
+No caso dos autos, porém, não restou apartada a premissa invocada pelo d. Juízo "a quo", no sentido em que não há indícios da ocultação de bens, embora silente a parte executada, sendo certo que a própria exequente relata o insucesso na localização de patrimônio penhorável.
+Em nosso ver, não se presta a tal comprovação o porte da empresa executada, ou a possibilidade da existência de grupo econômico, circunstância que pode eventualmente ensejar pedido de extensão do alcance de penhoras no patrimônio das outras empresas.
+Lembra Fredie Didier Jr.: "O que a lei rechaça é oposição maliciosa, ardilosa, artificiosa, pois extrapola os limites do exercício regular de tal direito. A conduta deixa de ser regular para ser abusiva" (Curso de Direito Processual Civil, Vol. V, 4ª Ed., Ed. Jus Podivm, p. 326/328).
+De tal modo igualmente dispôs esta C. Corte, aventando que "a falta de indicação de bens à penhora, por si só, não constitui ato atentatório à dignidade da justiça que pressupõe conduta dolosa, maliciosa, ardilosa" (Agravo de Instrumento 2147178-21.2020.8.26.0000; Relator: Vito Guglielmi; Órgão Julgador: 6ª Câmara de Direito Privado; Foro de Jacareí - 3ª. Vara Cível; Data do Julgamento: 28/07/2020; Data de Registro: 28/07/2020).
+ ..
+O caso dos autos não evidencia, inequivocamente, a intenção maliciosa disposta na lei, razão pela qual, em nosso ver, há de ser mantido o r. decisório impugnado, sem embargo de futura reapreciação, caso localizados bens em nome da executada.
+Por tais razões, fora desprovido aquele recurso. Agora, diante do manejo de agravo em face de nova decisão, parece-nos que não se alteraram os motivos anteriormente elencados, inexistindo, ainda, os necessários indícios de ocultação dolosa de patrimônio.
+Certo, ademais, que a mera interposição de recursos ou incidentes intermediários não configura, por si só, artifício ardil, pois não extrapolam o direito de ação.
+Há de ser mantido, em tal passo, o r. decisório impugnado.
+Diante desse contexto, tem-se que a alteração das premissas adotadas pela Corte de origem, quanto à existência ou não de intenção maliciosa da parte agravada ao não indicar bens sujeitos à penhora, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse passo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CERCEAMENTO DE DEFESA E ANÁLISE DE PROVAS. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ANÁLISE DE LEGISLAÇÃO MUNICIPAL. SÚMULA 280/STF. REVOLVIMENTO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. MULTA. REEXAME DE MATÉRIA DE FATO E DE PROVAS. SÚMULA 7/STJ.
+1. O art. 370 do CPC/2015 (art. 130 do CPC/1973) consagra o princípio da persuasão racional, habilitando o magistrado a valer-se do seu convencimento à luz das provas, constantes dos autos, que entender aplicáveis ao caso concreto. Não obstante, a aferição da necessidade de produção de prova pericial impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, ante o óbice erigido pela Súmula 7/STJ.
+2. O fundamento central da controvérsia é estritamente amparado em legislação local, a saber, a Lei Municipal 5.159/2011 e o Decreto Municipal 10.405/2013. Destaca-se a inviabilidade da discussão, em Recurso Especial, acerca de suposta afronta a matéria local, sendo defesa a sua apreciação pelo STJ. Aplica-se, nesse ponto, por analogia, a Súmula 280/STF, in verbis: "Por ofensa a direito local não cabe Recurso Extraordinário."
+3. Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto a análise da pretensão veiculada no Recurso Especial demanda exame de cláusulas contratuais e do contexto fático-probatório dos autos, inalcançáveis pelo STJ, ante o óbice erigido pelas Súmulas 5 e 7 do STJ.
+4. A jurisprudência do Superior Tribunal de Justiça tem asseverado que o reconhecimento da existência de ato atentatório à dignidade da justiça exige a apreciação de seus requisitos autorizadores, o que exige o revolvimento do conjunto fático-probatório dos autos, vedado em Recurso Especial, em razão do óbice contido na Súmula 7 do STJ.
+5. Agravo conhecido para não se conhecer do Recurso Especial.
+(AREsp n. 1.551.485/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/2/2020, DJe de 27/2/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE BENS PELO DEVEDOR. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NÃO OCORRÊNCIA.
+1. O col. Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, tendo como base o acervo fático-probatório dos autos, afastou a imposição da multa em face da ausência de provas de que o agravado tenha ocultado ou tentado ocultar bens passíveis de penhora.
+2. Nesse contexto, para se chegar à conclusão de que o agravado está ocultando bens com o escopo de frustrar o processo de execução, seria necessário se proceder ao reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 636.696/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2016, DJe de 27/6/2016.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
