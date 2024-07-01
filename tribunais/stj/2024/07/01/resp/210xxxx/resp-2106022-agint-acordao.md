@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 8º DA LEI 10.209/01. NORMA ESPECIAL. PREVALÊNCIA SOBRE NORMA GERAL PREVISTA NO ARTIGO 412 DO CÓDIGO CIVIL. TRANSPORTE RODOVIÁRIO DE CARGA. SÚMULA 83/STJ. VALE-PEDÁGIO. NÃO ADIANTAMENTO. PRESSUPOSTA A EXISTÊNCIA DE PEDÁGIO NO TRECHO CONTRATADO. MULTA DEVIDA. FUNDAMENTO NÃO INFIRMADO. SÚMULA 283/STF. CONFISSÃO DO EMBARCADOR ACERCA DO PEDÁGIO. REEXAME VEDADO. SÚMULAS 5 E 7/STJ. NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+3. Conforme jurisprudência desta Corte: "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 5/12/2018).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CHARQUEADAS TRANSPORTES LTDA contra decisão que não conheceu do recurso especial, em razão da incidência das Súmulas 5, 7 e 83/STJ, 282, 283 e 356/STF.
+Nas razões do presente agravo, questiona a parte agravante a pertinência dos referidos óbices sumulares.
+Reitera quanto ao mais a argumentação desenvolvida no recurso especial, de que a multa devida pelo embarcador pelo não pagamento do vale-transporte demandaria a comprovação da existência das praças de pedágio na rota de viagem contratada, sendo insuficiente, para sua aplicação, a mera existência do contrato de transporte.
+Pondera que, em todo caso, a aplicação da multa decorrente do não adiantamento do vale-pedágio deveria ser aplicada com razoabilidade, devendo ser reduzida caso se revele excessiva, em analogia ao que previsto na regra geral estabelecida para cláusula penal (artigos 412 e 413 do Código Civil), a fim de evitar o enriquecimento sem causa do favorecido.
+Aberto prazo para contrarrazões, não foram apresentadas, conforme certificado (fl. 423).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 8º DA LEI 10.209/01. NORMA ESPECIAL. PREVALÊNCIA SOBRE NORMA GERAL PREVISTA NO ARTIGO 412 DO CÓDIGO CIVIL. TRANSPORTE RODOVIÁRIO DE CARGA. SÚMULA 83/STJ. VALE-PEDÁGIO. NÃO ADIANTAMENTO. PRESSUPOSTA A EXISTÊNCIA DE PEDÁGIO NO TRECHO CONTRATADO. MULTA DEVIDA. FUNDAMENTO NÃO INFIRMADO. SÚMULA 283/STF. CONFISSÃO DO EMBARCADOR ACERCA DO PEDÁGIO. REEXAME VEDADO. SÚMULAS 5 E 7/STJ. NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+3. Conforme jurisprudência desta Corte: "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 5/12/2018).
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início, em relação à controvérsia relativa ao ônus da prova, observo que o Tribunal de origem consignou, expressamente, que teria sido comprovada a existência de pedágio na rota referente ao transporte contratado (fl. 243):
+Com efeito, depreende-se dos autos, ser incontroversa a relação contratual entabulada entre os litigantes. Nesse sentido, veja-se o Evento 1 -CONTR8 que traz o contrato de transporte discriminando o serviço realizado pela demandante e contratado pela ré/apelante, tendo o demandante suportado as despesas decorrentes do pagamento dos pedágios enfrentados no percurso. Isso porque a alegação da ré é de que providenciou sim o adimplemento do vale-pedágio, não se coaduna com o universo no qual gravita a questão, notadamente na seara da Lei nº10.209/01 que disciplina a temática.
+Com efeito, consta dos contratos de prestação de serviço de transporte/frete que respaldam a pretensão autoral, de forma expressa, que "o pedágio JÁ INCLUSO NO FRETE"
+Portanto, estreme de dúvida que a recorrente ao incluir no frete o vale-pedágio, não pautou seu agir consoante a legislação específica que regula a temática, porquanto, inegavelmente, configura que a rubrica foi embutida no frete, não se amoldando à previsão legal de fornecimento antecipado, em modelo próprio.
+O fato da recorrida referir que o vale-pedágio estaria incluído no frete é a confissão de que há pedágios nos trajetos, sendo, nestas circunstâncias, desnecessário exigir que o autor faça prova a respeito da existência das praças de pedágio e de que tenha efetuado o pagamento (pois do contrário não teria conseguido passar pelo local).
+Ademais, não houve contraprova de que o valor do vale pedágio tenha sido adiantado ao autor, de modo que a parte ré não se desincumbiu de seu ônus probatório, proveniente do artigo 373, II, do Código de Processo Civil. (grifo acrescido)
+Como se vê, o Tribunal de origem pressupõe que teria sido comprovada a existência de pedágio em relação ao trecho do contrato de transporte celebrado, para justificar a aplicação da multa, tendo em vista o não adiantamento do vale-pedágio.
+A recorrente, porém, não infirmou o fundamento aludido, limitando-se a argumentar que a multa teria sido aplicada com base apenas na existência do contrato de transporte celebrado.
+Portanto, subsistindo fundamento autônomo e suficiente no acórdão recorrido, para justificar a aplicação da multa prevista no artigo 8º da Lei nº 10.209/01, o recurso especial não deve ser conhecido quanto ao ponto (Súmula 283/STF).
+De toda forma, para rever o provimento adotado no acórdão recorrido, baseado na confissão do embarcador quanto à existência de pedágio no trecho contratado, seria imprescindível o reexame do contexto fático-probatório, bem como das disposições contratuais; ambos, vedados (Súmulas 5 e 7/STJ).
+No que se refere à questão de fundo, observo que o Tribunal de origem afastou a aplicação da regra prevista para a cláusula penal em geral (artigos 412 e 413 do Código Civil), uma vez que derrogada, em razão da incidência da norma especial prevista no artigo 8º da Lei nº 10.209/01.
+A propósito, extraio do acórdão recorrido (fl. 242):
+Reforça o entendimento supra, a orientação pacificada pelo colendo Superior Tribunal de Justiça no sentido de que a multa prevista no artigo 8º da Lei nº 10.209/2001 configura uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga. Assim sendo, incabível o cotejo da previsão da lei especial com as disposições dos artigos 412 e 413 do Código Civil, em face do que impossível a convenção das partes para lhe alterar o conteúdo.
+A orientação adotada não destoa da jurisprudência desta Corte Superior, consolidada no sentido de que: "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 5/12/2018).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA C/C PEDIDO DECLARATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA PARTE RÉ.
+1. "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018)
+2. Agravo interno desprovido. (AgInt no REsp n. 1.988.568/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.) (grifo acrescido)
+ ..
+2. "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.532.681/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/2/2020, DJe de 13/2/2020.) (grifo acrescido)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Quanto ao demais dispositivos supostamente contrariados, observo que o Tribunal de origem não se manifestou a respeito, inviabilizando a análise da controvérsia normativa subjacente por esta Corte, de modo originário, em razão da falta de prequestionamento (Súmulas 282 e 356/STF).
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
