@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de JOÃO PAULO DOS REIS CORREIA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Na hipótese, depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do crime previsto no artigo 155, § 4º, inciso II, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado: (fl. 40)
+"HABEAS CORPUS-FURTO QUALIFICADO -CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA -REVOGAÇÃO -IMPOSSIBILIDADE -PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR -GARANTIA DA ORDEM PÚBLICA -DECISÃO FUNDAMENTADA -INVESTIGAÇÕES DE FATOS GRAVES EM CURSO -RISCO DE REITERAÇÃO DELITIVA -PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS -CUSTÓDIA CAUTELAR LEGALMENTE AUTORIZADA -CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO -APLICAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO -NÃO CABIMENTO. Presentes os pressupostos e requisitos constantes nos artigos 312 e 313 do Código de Processo Penal, não há que se falar em revogação da prisão preventiva, uma vez que esta se revela indispensável para a garantia da ordem pública. Inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública, conforme jurisprudência já pacificada do STJ. Também a pena máxima cominada ao crime em questão autoriza a sua custódia cautelar. As medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, não se mostram suficientes e adequadas à prevenção e repressão dos delitos imputados ao paciente, mormente quando presentes outras circunstâncias autorizadoras da cautela."
+Neste writ, postula a Defesa, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do Paciente, em razão da ausência de fundamentação para a segregação cautelar; alegando que: (fl. 6)
+"Ao contrário do entendimento adotado pela decisão ora impugnada, ainda que presentes os pressupostos e concretos para a decretação da prisão preventiva do paciente, não há motivo para a imposição da medida cautelar pessoal extrema. Não há fundamento concreto válido para demonstrar que a prisão preventiva é, no presente caso concreto, necessária para a garantia da ordem pública."
+Requer a revogação do decreto de prisão preventiva, com a concessão da liberdade provisória.
+Informações prestadas às fls. 155-158 e 159-173.
+O Ministério Público Federal, às fls. 181-185, em parecer, manifestou-se pelo não conhecimento do recurso e, caso conhecido, pela denegação da ordem, assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSOPRÓPRIO. FURTO QUALIFICADO. PRISÃOPREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REVOGAÇÃO DA SEGREGAÇÃO PROVISÓRIA. IMPOSSIBILIADE. ART. 310, II, C/C OS ARTS. 312 E 313,TODOS DO CPP. DECISÃO FUNDAMENTADA. PRECEDENTES. PRESENÇA DO FUMMUS COMMISSIDELICTI E DO PERICULUM LIBERTATIS. PARECERPELO NÃO CONHECIMENTO DO HABEAS CORPUS E,CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM."
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/MG-, na data de hoje, foi proferida sentença condenatória, em 06/11/2023, com a concessão do apelo em liberdade ao Paciente:
+"Concedo ao réu o direito de recorrer em liberdade, haja vista a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direito. Expeça-se alvará de soltura em favor do acusado, o qual deverá ser colocado em liberdade, se por outro motivo não estiver preso."
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+EMENTA
