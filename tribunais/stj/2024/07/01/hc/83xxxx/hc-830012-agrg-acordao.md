@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS PARA O REGIME ABERTO. PRÁTICA DE NOVO DELITO. RAZÕES DO RECURSO QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM AGRAVADO. APLICÁVEL O ENTENDIMENTO DA SÚMULA 182/STJ. PARECER ACOLHIDO.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Gleydson Barros Menasse contra a decisão de minha lavra, às fls. 87/88, assim ementada:
+PENAL. HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. PRÁTICA DE NOVO DELITO. ANÁLISE, ADEMAIS, QUE CABE AO JUÍZO DA EXECUÇÃO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+Nesta via, o agravante reitera as alegações da impetração, defendendo que o Juízo que analisou o caso e proferiu a decisão tem competência para atuar em feitos relativos ao regime fechado ou semiaberto, porém esta proferiu decisão sobre fatos ocorridos na execução penal do paciente quando este se encontrava no regime aberto (fl. 97), o que afronta o art. 65 da LEP.
+Afirma, que, no que se refere ao tempo em que o agravante ficou em regime aberto, temos que tal período deve ser considerado como tempo de cumprimento de pena (fl. 98), não sendo caso de abandono.
+Alega que não há no processo de execução qualquer prova de que o reeducando tenha sido intimado da audiência admonitória ou informado acerca de seus deveres quando da progressão da pena, de modo que não há que se falar em descumprimento das regras do regime ou de evasão (fl. 98).
+Requer a retratação da decisão hostilizada e, caso não seja possível, o provimento do agravo regimental para que possa ser concedida a ordem nos termos da inicial do writ.
+Instado (fl. 102), o agravado apresentou contrarrazões ao recurso (fls. 113/116).
+Em sua manifestação, opinou o Ministério Público Federal pelo desprovimento do agravo (fls. 122/125).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS PARA O REGIME ABERTO. PRÁTICA DE NOVO DELITO. RAZÕES DO RECURSO QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM AGRAVADO. APLICÁVEL O ENTENDIMENTO DA SÚMULA 182/STJ. PARECER ACOLHIDO.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica de todos os fundamentos do decisum combatido, limitando-se a repetir a tese já refutada no habeas corpus aqui impetrado em seu favor, o que atrai a aplicação da Súmula 182, do STJ, segundo a qual é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada (AgRg no HC n. 865.188/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 7/3/2024).
+Veja-se que as alegações da impetração foram rechaçadas com base na atual jurisprudência do STJ, no sentido de que o entendimento adotado pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte Superior de Justiça, segundo a qual, se o paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida, caracterizando, ademais, falta disciplinar de natureza grave (AgRg no HC n. 828.440/ES, Ministro Teodoro Silva Santos, Sexta Turma, DJe 7/3/2024 - grifo nosso), como se pode observar dos seguintes trechos da decisão ora agravada (fls. 87/88 - grifo nosso):
+ ..
+Com efeito, busca a impetração a progressão ao regime aberto ao paciente, ao argumento de que o Juízo da 8ª Vara Criminal de Vila Velha/ES, que possui competência para os feitos de execução penal em regime fechado e semiaberto, não é o competente para analisar o caso em comento (fl. 4). Alega, ainda, que, em momento algum, pode-se extrair da documentação acostada que houve, por parte do impetrante, abandono no cumprimento da pena. Imprescindível, aqui, diga-se, diferenciar as situações de "não cumprimento" e de "estar à disposição da justiça" (fl. 8).
+Ocorre que o acórdão a quo se encontra em conformidade com a jurisprudência do STJ ao indeferir a progressão de regime, afastando as demais alegações da defesa, consignando, também, que, além do descumprimento das condições do regime aberto, verifica-se que o agravante reiterou na prática criminosa, cujo resultado ocasionou na sua nova prisão, em 14/1/2017, por tráfico de drogas (fl. 20).
+Assim, inexiste sequer coação ilegal a justificar a concessão de ordem de ofício, devendo qualquer questionamento acerca da execução da pena ser direcionado ao Juízo da execução.
+ ..
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTINÇÃO DA PUNIBILIDADE. DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR. IMPOSSIBILIDADE.
+1. Se o apenado não compareceu em juízo para o cumprimento das condições impostas, relativas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida, a despeito de inexistir decisão anterior de sustação cautelar do referido regime.
+2."A situação posta nos autos refere-se ao descumprimento de condições impostas ao apenado em regime aberto, situação distinta daquelas que justificam a aplicação do verbete sumular n. 617/STJ, específico para as hipóteses de concessão de livramento condicional, o que impede a sua incidência" (AgRg no HC n. 606.027/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/2/2021, DJe de 10/2/2021).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.110.055/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/6/2023 - grifo nosso).
+Ademais, vale destacar o parecer da lavra do Subprocurador-Geral da República, Paulo Queiroz, o qual também adoto como razões de decidir (fl. 124 - grifo nosso):
+ ..
+O agravante sustenta a incompetência do juízo de piso para a análise do pedido de retificação do atestado de pena a cumprir, notadamente porque possuía competência para atuar em feitos relativos aos regimes fechado ou semiaberto e, no caso dos autos, foi emitido juízo de valor sobre fatos ocorridos na execução penal do recorrente quando se encontrava no regime aberto.
+Entretanto, como destacado pelo Ministério Público Estadual em suas contrarrazões ao agravo, "consoante se extrai do acórdão proferido na origem, não obstante tenha progredido para o regime aberto no dia 27 de julho de 2016, se encontrava preso pela prática de novo delito desde o dia 14 de janeiro de 2017, razão pela qual inexiste irregularidade na análise do pleito pelo juízo da execução, a quem compete "fiscalizar a efetivação da pena do executado como um todo, e determinar eventuais ajustes nos cálculos para que reflitam com exatidão a real situação executória." Ademais, não se pode falar em preclusão da matéria quando, concretamente, inexistiu decisão pretérita expressa acerca do tema, até que veio a ser proferida a decisão recorrida." (e-STJ fl. 15).
+No mérito, igualmente não merece prosperar a argumentação do recorrente no sentido da consideração do tempo em que esteve no regime aberto como tempo de cumprimento de pena, porquanto, após a saída para o regime aberto no dia 27 de julho de 2016 ele "abandonou o cumprimento da pena, inexistindo audiência admonitória ou atestado de comparecimento. Importante salientar, nesse viés, que o apenado possuía o dever de comparecer em juízo, conforme determinado na decisão que concedeu a progressão de regime, contudo, optou por se ausentar do cumprimento da pena em regime aberto, sequer se apresentando para dar continuidade ao cumprimento da pena, tendo, inclusive, praticado novo delito." (e-STJ fl. 115).
+Deve ser mantido, portanto, o entendimento exarado na origem, que está em consonância com a orientação desse Superior Tribunal de Justiça  .. .
+Por fim, importante consignar que em consulta ao SEEU (Processo de Execução n. 0006392-26.2016.8.08.0024), constata-se que o ora agravante fugiu em 30/8/2023; e, em 10/9/2023, o Juízo da execução determinou a regressão cautelar do regime prisional para o fechado. Em 11/12/2023, o sentenciado foi recapturado. Aguarda-se a homologação do PAD.
+Portanto, não se vislumbra constrangimento ilegal a ser sanado por esta Corte Superior.
+À vista do exposto , não conheço deste agravo regimental.
