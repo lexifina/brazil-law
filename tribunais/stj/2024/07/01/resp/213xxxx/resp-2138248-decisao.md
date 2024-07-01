@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. CONTRATO BANCÁRIO. EMPRÉSTIMO PESSOAL.
+JUROS REMUNERATÓRIOS. SE VERIFICADA A ABUSIVIDADE DAS TAXAS DE JUROS REMUNERATÓRIOS CONTRATADAS, CABÍVEL A LIMITAÇÃO DO ENCARGO ÀS TAXAS MÉDIAS DE MERCADO APURADAS PELO BACEN PARA OPERAÇÕES ANÁLOGAS NO MESMO PERÍODO. NO CASO CONCRETO, TAXA DE JUROS CONTRATADA É SUPERIOR À TAXA MÉDIA AFERIDA PELO BACEN, APRESENTANDO-SE CABÍVEL A LIMITAÇÃO PRETENDIDA.
+COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO. SÚMULA Nº 322 DO STJ. DEPOIS DE APURADOS OS DÉBITOS E CRÉDITOS DE CADA PARTE, POSSÍVEL EFETUAR-SE A COMPENSAÇÃO ENTRE OS VALORES ENCONTRADOS. SE CONSTATADA A EXISTÊNCIA DE SALDO CREDOR EM FAVOR DA PARTE AUTORA, VIÁVEL A REPETIÇÃO DO INDÉBITO, NA FORMA SIMPLES, EIS QUE AUSENTE MÁ-FÉ DA PARTE RÉ NA COBRANÇA EFETIVADA, A QUAL SE DEU COM BASE NO CONTRATADO, E ANTES DO CRIVO JUDICIAL. SÚMULA N.º 322 DO STJ. NO CASO CONCRETO, EM QUE ALTERADAS AS CLÁUSULAS CONTRATUAIS, POSSÍVEL A COMPENSAÇÃOE REPETIÇÃO DOS VALORES PAGOS A MAIOR.
+RECURSO PROVIDO. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte aponta, além de divergência jurisprudencial, violação aos arts. 39, 51 e 52 do Código de Defesa do Consumidor, arts. 1º e 4º, inciso IX, da Lei 4.595/64, e art. 1.022, inciso II, do Código de Processo Civil, sustentando negativa de prestação jurisdicional e que "compete ao Conselho Monetário Nacional (CMN) e BACEN a função de regulamentar as taxas de juros e outras formas de remuneração das operações bancárias e financeiras".
+Alega, ainda, que "os juros remuneratórios incididos em um contrato de mútuo bancário só podem sofrer interferência do poder judiciário quando cabalmente demonstrada a abusividade no caso concreto".
+Contrarrazões às fls. 432/437 e-STJ.
+Juízo de admissibilidade proferido às fls. 456/462 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que tange à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil, sob o fundamento de que houve omissão do acórdão recorrido, vejo que não prospera o recurso, pois não vejo deficiência de fundamentação alguma no acórdão recorrido quanto às matérias postas pelo recorrente.
+O acórdão abordou as questões apresentadas de forma suficiente a formar e demonstrar seu convencimento, de modo que não houve violação alguma ao dispositivo do art. 1.022, II, do CPC.
+Ademais, mesmo que, no entendimento da parte recorrente, o acórdão não tenha rebatido cada um dos argumentos de forma individualizada, não há violação ao art. 1022 do CPC/15 e, assim, deficiência de fundamentação, se o que se prolatou foi o suficiente para se decidir de modo integral a controvérsia.
+Prosseguindo, verifica-se a ausência de prequestionamento dos art. 1º e 4º da Lei 4.595/64, de forma que incidem à espécie as Súmulas 282 e 356, ambas do Supremo Tribunal Federal.
+Quanto ao mérito, a Segunda Seção deste Superior Tribunal de Justiça, no julgamento do REsp 1.061.530/SP, julgado sob o rito dos recursos repetitivos, de Relatoria da Ministra Nancy Andrighi, assentou que apenas "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto".
+À luz deste julgado, para considerar-se a taxa de juros exorbitante, deve haver análise das circunstâncias específicas do negócio jurídico firmado entre as partes, tais como o custo de captação dos recursos financeiros envolvidos na operação de crédito; o perfil (risco de crédito) do tomador do empréstimo - adimplente frequente/"bom pagador", inadimplente contumaz/"mau pagador"; tempo de relacionamento com a instituição financeira; montante do crédito contratado; existência ou não de garantia e sua qualidade; prazo do empréstimo; prazo de carência -, o spread da operação de crédito, ou seja, um exame pormenorizado e individualizado.
+Na espécie, entretanto, o Tribunal de origem, ao declarar a abusividade dos juros pactuados em contrato de empréstimo pessoal consignado, utilizou-se de critério genérico, limitando-se a cotejar a taxa de juros remuneratórios pactuada com a taxa média de mercado divulgada pelo Banco Central, em dissonância com a jurisprudência desta Corte.
+Dessa forma, de rigor a reforma do acórdão recorrido.
+Em face do exposto, dou provimento ao recurso especial para manter as taxas de juros como pactuadas. Fixo os honorários advocatícios em 10% do valor da causa, em favor do recorrente.
+Intimem-se.
+EMENTA
