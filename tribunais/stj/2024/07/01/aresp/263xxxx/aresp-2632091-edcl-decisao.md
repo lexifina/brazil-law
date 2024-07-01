@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática (fls. 1.296-1.303) com a seguinte parte dispositiva:
+Ante o exposto, conheço do Agravo para conhecer do Recurso Especial e dar-lhe parcial provimento a fim de reconhecer a existência de litisconsórcio passivo necessário e, por conseguinte, anular os atos decisórios até agora proferidos, bem como determinar o retorno dos autos à instância ordinária, onde a parte autora deverá providenciar o disposto no art. 115, parágrafo único, do CPC. Prejudicadas as demais questões.
+A embargante alega:
+Ocorre que, primeiramente e em observância ao princípio da eventualidade, cumpre destacar que se questiona no presente caso o financiamento do SUS pela União e não pelo Estado, Distrito Federal ou Município, e assim, diferentemente do que afirma a decisão embargada - com todas as vênias e escusas de praxe -, tais entes federativos não se enquadram como litisconsortes passivos necessários na presente ação. A Constituição Federal realmente atribuiu o financiamento do SUS à União, Estados, Distrito Federal e Territórios (art. 198, §1.º da Constituição Federal), devendo-se ressaltar que a responsabilidade dos entes públicos supracitados é solidária, e portanto, nos termos do art. 275 do Código Civil, nada impede que a responsabilidade seja exigida por inteiro de apenas um dos entes, no presente caso: a União. Assim, a decisão embargada foi omissa em analisar sob essa ótica.
+(..)
+Além disso, o que se questiona na presente ação é um provimento jurisdicional que assegure ao Autor o direito à revisão dos valores constantes da "Tabela de Procedimentos ambulatoriais e hospitalares do Sistema Único de Saúde - SUS", "Tabela" esta que, atualmente, é utilizada para o cálculo da remuneração dos serviços prestados pelos Hospitais e demais parceiros privados que, na conformidade do que preceituam os arts. 199, § 1º, da Constituição Federal de 1988 - CF/88, e 24 da Lei nº. 8.080, de 19 de setembro de 1990, realizando-se assim o reequilíbrio econômico-financeiro do convênio/contrato, e por via de consequência da tabela do SUS, que tem seus valores fixados pela União.
+Em virtude dos fatos supracitados, conclui-se que na presente ação ordinária não há a necessidade da presença dos demais entes federados em litisconsórcio passivo necessário pelos seguintes motivos: 1) no presente caso, questiona-se o financiamento do SUS pela União, e não pelos demais entes federados; 2) o SUS é financiado sobretudo com recursos federais; 3) a responsabilidade da União, Estados, Distrito Federal e Municípios é solidária, podendo ser exigida por inteiro de apenas um dos entes, no caso, a União; e 4) o que se questiona é a tabela do SUS, que é fixada pela União.
+Impugnação as fls. 1.361-1.365.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.6.2024.
+Os EDcl constituem recurso de rígidos contornos processuais e de fundamentação vinculada, exigindo-se para seu acolhimento os respectivos pressupostos legais. Seu conhecimento pressupõe que a parte alegue a existência de, pelo menos, um dos vícios previstos no art. 1.022 do CPC, in verbis:
+Art. 1022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+A embargante, embora tenha feito referência à omissão, deixa manifesto o propósito de rediscutir o julgado e a jurisprudência desta Corte, o que é inviável nesta via. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ARTIGO 535 DO CPC. DIVERGÊNCIA ENTRE TURMAS DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. INADMISSIBILIDADE. CONTRADIÇÃO NO CORPO DO JULGADO. NÃO VERIFICADA.
+1. Os aclaratórios são cabíveis somente para sanar omissão, obscuridade ou contradição contida no julgado. Sem se configurar ao menos uma dessas hipóteses, devem ser rejeitados, sob pena de rediscutir-se matéria de mérito já decidida, exatamente o que se afigura no caso.
+2. Ressalte-se que a contradição que enseja o acolhimento dos aclaratórios é interna, ou seja, aquela existente entre as proposições e a conclusão do próprio julgado, e não quando há divergência entre Turmas, nem entre Turma e Seção deste Superior Tribunal de Justiça, caso em que caberia a oposição dos embargos de divergência, a teor do que dispõe o art. 266 do RISTJ. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.206.136/MG, Rel. Ministro Castro Meira, Segunda Turma, DJe 16.8.2011).
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. LEGITIMIDADE DO SECRETÁRIO DE ESTADO DA SAÚDE DE RONDÔNIA PARA FIGURAR NO POLO PASSIVO DE MANDADO DE SEGURANÇA EM QUE SE DISCUTE O DIREITO AO FORNECIMENTO DE MEDICAMENTOS OU TRATAMENTO MÉDICO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE.
+1. Acórdão embargado que, lastreado em precedente da Primeira Seção desta Corte (RMS 38.746/RO, Rel. para o acórdão o Ministro Hernan Benjamin), assentou a legitimidade do Secretário de Estado da Saúde de Rondônia para figurar no polo passivo de mandado de segurança em que se discute o direito ao fornecimento de medicamentos ou tratamento médico.
+2. De acordo com a norma prevista no art. 535 do Código de Processo Civil, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no RMS 38.775/RO, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26.6.2013).
+Conforme consignado na decisão embargada, a matéria discutida nos autos foi objeto de apreciação pela Primeira Turma do Superior Tribunal de Justiça no julgamento do AREsp 2.067.898/DF. Nos termos do Voto do Ministro Relator, o Colegiado decidiu por maioria que, nas demandas em que se alega desequilíbrio econômico-financeiro de contrato ou de convênio firmado com hospitais particulares para prestação de serviços de saúde em caráter complementar, o polo passivo deve ser composto necessariamente pela União e pelo contratante subnacional (estado, município ou Distrito Federal).
+Desse modo, deve ser acolhida a alegação de infringência ao art. 114 do CPC e reconhecida a necessidade de que o ente federado, responsável pela celebração do negócio jurídico com a parte autora, seja citado mediante requerimento, na forma do art. 115, parágrafo único, do CPC, para integrar a lide na condição de litisconsorte passivo necessário ao lado da União. Na mesma linha, recentes decisões de minha lavra em casos idênticos: AREsp 2.533.013/DF, AREsp 2.532.992/DF e AREsp 2.532.983/DF (D Je 11.3.2024).
+A controvérsia foi integralmente solucionada, com fundamento suficiente, razão por que não se configura omissão, contradição ou obscuridade.
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+EMENTA
