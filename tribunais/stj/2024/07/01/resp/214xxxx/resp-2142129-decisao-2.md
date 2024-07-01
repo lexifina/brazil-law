@@ -1,0 +1,25 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls. 1.024/1.026):
+Trata-se de Recurso Especial interposto por MATHEUS JUNIO DASILVA PRATES (e-STJ fls. 960/968) e de Agravo em Recurso Especial (e-STJ fls. 999/1006)interposto em favor de RAFAEL FERREIRA DOS SANTOS.
+MATHEUS JUNIO DA SILVA PRATES interpôs Recurso Especial (e-STJ fls. 960/968) com fundamento no art. 105, III, "a" da Constituição Federal, alega contrariedade ao art. 59, caput, e art. 68 todos do Código Penal.
+Aduz que o fundamento apresentado para valorar como desfavorável as consequências do crime não é idônea e que "Diante de condenação por crime contra o patrimônio na forma consumada, o prejuízo patrimonial suportado pela vítima é elementar do tipo, consistindo na lesão ao bem jurídico tutelado materializado. Portanto, não há que se falar em exasperação da pena-base" (e-STJ fls. 967).
+Ao final requer o provimento do recurso para reduzir a quantidade de pena-base aplicada. RAFAEL FERREIRA DOS SANTOS no Agravo em Recurso Especial objetiva a reforma da Decisão da Desembargadora 3ª Vice-Presidente do Tribunal de Justiça do Estado de Minas Gerais (e-STJ fls. 989/996), que não admitiu o Recurso Especial interposto em face do Acórdão proferido pela 6ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais que, por unanimidade, rejeitou as preliminares e deu parcial provimento ao Apelo defensivo (e-STJ fls. 872/925).
+No Recurso Especial RAFAEL FERREIRA DOS SANTOS com fundamento no art. 105, III, "a" da Constituição Federal alega violação ao art. 226 e art. 41 e art. 158-A todos do Código de Processo Penal. Pondera que "o acórdão restou eivado de inconstitucionalidade na medida em que se distanciou da norma de regência processual constitucional, segundo sua premissa principiológica, que adotou o princípio da in dubio pro reo, como base constitucional" (e-STJ fls. 612). Aduz que "a impossibilidade de reconhecimento irrefutável do acusado, no sentido deste, de ter participado da empreitada criminosa em apreço" (e-STJ fls.939).
+Ao final, requer o provimento do Agravo em Recurso Especial para queseja anulada a Sentença e cassado o Acórdão recorrido para absolver o Recorrente RAFAEL.
+Recursos Especiais foram devidamente contrarrazoados às fls. 973/976e 977/987. A Desembargadora 3ª Vice-Presidente do Tribunal de Justiça do Estado de Minas Gerais (e-STJ fls. 989/996), admitiu o Recurso Especial de MATHEUS e não admitiu o Recurso Especial de RAFAEL ao fundamento da incidência da Súmula 07/STJ.
+Desta Decisão, RAFAEL FERREIRA DOS SANTOS interpôs Agravo em Recurso Especial (e-STJ fls. 999/1006). Aduziu a não incidência da Súmula 07 do STJ.
+Requer provimento do Agravo em Recurso Especial para dar seguimento ao Recurso Especial.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 1.024/1.030).
+É o relatório.
+Decido.
+No caso, assim ficou consignada a dosimetria da pena no acórdão hostilizado no que aqui importa (e-STJ fls. 911):
+Noutro giro, as consequências do crime também foram negativas. Ressalvo que faço coro com aqueles que entendem que o prejuízo sofrido pela vitima deve ser levado em consideração na análise das circunstâncias judiciais, diante da maior reprovabilidade do ato. Ora, os crimes contra o patrimônio nos quais não há a restituição integral da res ou que a vítima sofre determinado prejuízo financeiro possuem maior grau de reprovabilidade, não se tratando de situação que integra o tipo penal.
+Registre-se que, quanto à pena-base, embora a ocorrência de prejuízo patrimonial não tenha o condão de justificar, por si só, o aumento da pena, por constituir, em regra, fator comum ao crime de latrocínio - visto que o delito patrimonial cuja subtração de patrimônio alheio é elementar do tipo -, quando o prejuízo extrapola o razoável, como na espécie, em que a vítima teve subtraídos um veículo, dois aparelhos celulares e várias vestimentas (e-STJ fl. 877), de rigor a elevação da sanção inicial, porquanto as circunstâncias de cometimento do crime desbordam do comum à espécie. Confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 59 DO CP. PREJUÍZO ECONÔMICO DE R$ 10.000,00 QUE EMBASOU A VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. CRIME CONTINUADO ESPECÍFICO (ART. 71, PARÁGRAFO ÚNICO, DO CP). FRAÇÃO DE AUMENTO DECORRENTE NÃO APENAS DA QUANTIDADE DE INFRAÇÕES, MAS TAMBÉM DO CRITÉRIO SUBJETIVO. MAJORAÇÃO DA PENA EM 1/2 QUE NÃO SE REVELA ABUSIVA, CONSIDERADAS AS CIRCUNSTÂNCIAS DOS CRIMES. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O montante do prejuízo econômico decorrente do roubo (R$ 10.000, 00) é fundamentação idônea para a valoração negativa das consequências dos crimes. Ademais, o aumento de 8 meses na penabase, em decorrência desta vetorial, não pode ser considerado excessivo.
+ ..
+5. Agravo regimental desprovido. (AgRg no REsp n. 1.916.206/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/2/2021, DJe 26/2/2021, grifei.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
