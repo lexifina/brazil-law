@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo de STRATEGIC INVESTMENTS LTDA que objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJRJ assim  ementado:
+APELAÇÃO CÍVEL. DETERMINAÇÃO DE NOVO JULGAMENTO EM SEDE DE RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. MUNICÍPIO DO RIO DE JANEIRO. IMPOSTO SOBRE SERVIÇOS (ISS). EMPRESA SEDIADA NO MUNICÍPIO DE TRÊS RIOS. COMPETÊNCIA TRIBUTÁRIA. QUESTÃO JURÍDICA QUE FOI DECIDIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA, QUANDO DO JULGAMENTO DO RESP Nº 1060210/SC, RECURSO PARADIGMA DO TEMA Nº 355 DO STJ, COM TRÂNSITO EM JULGADO EM 03/03/2017, EM QUE FOI FIXADA A SEGUINTE TESE: "O SUJEITO ATIVO DA RELAÇÃO TRIBUTÁRIA, NA VIGÊNCIA DO DL 406/68, É O MUNICÍPIO DA SEDE DO ESTABELECIMENTO PRESTADOR (ART. 12); A PARTIR DA LC 116/03, É AQUELE ONDE O SERVIÇO É EFETIVAMENTE PRESTADO, ONDE A RELAÇÃO É PERFECTIBILIZADA, ASSIM ENTENDIDO O LOCAL ONDE SE COMPROVE HAVER UNIDADE ECONÔMICA OU PROFISSIONAL DA INSTITUIÇÃO FINANCEIRA COM PODERES DECISÓRIOS SUFICIENTES À CONCESSÃO E APROVAÇÃO DO FINANCIAMENTO -NÚCLEO DA OPERAÇÃODE LEASING FINANCEIRO E FATO GERADOR DO TRIBUTO." NULIDADE DA CDA OBJETO DA EXECUÇÃO FISCAL EM APENSO (0147167-67.2010.8.19.0001) ANTE INEXISTÊNCIA DE RELAÇÃO TRIBUTÁRIA ENTRE MUNICÍPIO DO RIO DE JANEIRO E A APELANTE NO PERÍODO EXECUTADO. EMBARGOS ÀEXECUÇÃO QUE MERECEM SER ACOLHIDOS IMPLICANDO NA EXTINÇÃO DA EXECUÇÃO FISCAL, NA FORMA DO ARTIGO 485, VI, DO CPC/2015. DADO PROVIMENTO AO RECURSO.
+No  especial,  a  parte  alega  violação  dos  arts. 85, §2º, e 1.022 do CPC/2015,  bem  como  a  ocorrência  de  divergência  jurisprudencial.
+Sustenta, em síntese, a existência de vício de integração acerca da omissão quanto à existência de proveito econômico em valor muito superior ao valor da causa, devendo ser aquele o montante a ser utilizado como base de cálculo dos honorários.
+No mérito, defende equivoco na utilização do valor atualizado da causa como base de cálculo dos honorários de sucumbência imputados ao município, devendo ser utilizado o valor do proveito econômico na forma da jurisprudência.
+O recurso especial foi inadmitido por ausência de vício de integração e por aplicação do óbice da Súmula 7 do STJ, fundamentos atacados no agravo.
+Interposto recurso especial adesivo pela edilidade, negou-se seguimento pela compatibilidade do acórdão recorrido com a orientação firmada no STJ em recurso repetitivo (Tema 355 do STJ).
+Passo a decidir.
+O apelo nobre se origina de embargos à execução fiscal em que se questiona a cobrança de ISSQN por município não competente, bem como a extinção do crédito executado por prescrição/decadência.
+Por sentença, os embargos foram julgados improcedentes.
+Julgados os recursos de apelação, foi determinado por mim, quando do julgamento do AREsp n. 1752712/RJ, que fosse promovido novo julgamento que observasse a orientação jurisprudencial acerca da sujeição ativa tributária do ISSQN, em especial aquela firmada em recurso repetitivo (Tema 355 do STJ).
+Promovido novo julgamento, o recurso de apelação do contribuinte foi provido para reconhecer que a sujeição ativa tributária para o ISSQN relativos aos fatos geradores em questão seria de município diverso, extinguindo-se a execução e condenando-se o MUNICÍPIO DO RIO DE JANEIRO/ RJ ao pagamento de honorários fixados em 10% do valor da execução.
+Opostos embargos de declaração pela edilidade, foram eles rejeitados.
+Pois bem.
+Inicialmente, sequer foram opostos embargos de declaração pela recorrente na origem, não sendo possível o conhecimento da alegada violação do art. 1.022 do CPC por vício de integração, atraindo a incidência dos óbices das Súmulas 282 e 284 do STF.
+No mérito, o recurso especial também não comporta conhecimento em razão da ausência de prequestionamento.
+A suposta violação do art. 85, §2º do CPC/2015 por equivoco na fixação da base de cálculo dos honorários não foi objeto de emissão de juízo pelas instâncias ordinárias, não tendo sido opostos embargos de declaração para suscitar a manifestação da Corte estadual, atraindo a incidência do óbice da Súmula 282 do STF.
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial.
+Publique-se. Intimem-se.
+EMENTA
