@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS HAMILTON GENRO BINS em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante (fl. 419):
+Ou seja, o recorrente impugnou especificamente tal fundamento de que "não haveria ofensa ao artigo 1.022" e, mais, o fez de forma efetiva, concreta e pormenorizada. Repita-se e sintetiza-se: disse que houve sim afronta (1) por que "embora o julgamento formalmente integral, não foi esclarecida a contradição entre reconhecer que a responsabilidade dos garantidores estaria limitada ao valor estipulado na hipoteca, mas ao mesmo tempo que a execução deve prosseguir por verba de origem totalmente distinta, decorrente da sucumbência e fixada em juízo (e não no contrato)";por que(2) não houve "análise específica quanto a aplicabilidade dos artigos 85, 826 e 827 do Código de Processo Civil, conforme suscitado expressamente nas razões de apelação"; e por que (3) não houve análise da "aplicabilidade dos artigos 505 e 507 do Código de Processo Civil em relação ao despacho de fls. 95". Ou seja, foram três fundamentos concretos e específicos contra o fundamento de que não haveria afronta ao artigo 1.022 do CPC(sendo, portanto, visto que tal ocorreu, remetendo-se àquelas razões para evitar mais tautologia)!Mas, importa nestes embargos, notar que houve a impugnação.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Tendo em vista as razões lançadas pelo ora embargante em sua petição, acolho os embargos de declaração, conferindo-lhes efeitos infringentes, para tornar sem efeito a decisão embargada, e determino a distribuição dos autos.
+Publique-se. Intimem-se.
+ EMENTA
