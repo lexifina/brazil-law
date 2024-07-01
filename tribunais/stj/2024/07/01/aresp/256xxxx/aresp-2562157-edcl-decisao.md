@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela COMPANHIA DE ELETRICIDADE DO AMAPÁ (CEA) em face de decisão que negou provimento ao agravo em recurso especial pelos seguintes fundamentos: (I) não houve ofensa aos arts. 489 e 1.022 do CPC; (II) não se trata de sentença, mas sim de decisão interlocutória, passível de discussão apenas por agravo de instrumento.
+O embargante, em suas razões, sustenta omissão: (I) quanto à necessidade de submissão do feito à sistemática do art. 1.040 e ss. do CPC por força da controvérsia a ser decidida no tema 1.169/STJ; (II) quanto à efetiva tese de violação aos arts. 489, §1ºe 1.022, II do CPC; (III) quanto à demonstração no recurso da impossibilidade lógica de subsistência no caso concreto de fundamento autônomo e suficiente do acórdão para manter o julgado no termos da Súmula 283/STF; (IV) quanto à demonstração de prequestionamento conforme o art. 1.025 do CPC; (V) quanto às teses centrais veiculadas no Agravo que teriam de ser enfrentadas.
+A parte embargada apresentou impugnação (fls. 1302/1357 ).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Dito isso, verifica-se que a decisão ora embargada, concluiu que não houve ofensa aos arts. 489 e 1.022 do CPC, pois o Tribunal local dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+Além disso, na decisão embargada constou que o acórdão recorrido merece subsistir pois, ao contrário do que alega a parte ora embargante, não se trata de sentença, mas sim de decisão interlocutória, passível de discussão apenas por agravo de instrumento, previsto no art. 1.015, parágrafo único, do CPC, não por apelação, como ocorreu no caso dos autos. Assim, configurou-se erro grosseiro, o que impede a aplicação do princípio da fungibilidade recursal.
+Ademais, pela decorrência lógica, restaram prejudicados os exames da demais alegações tecidas no recurso especial.
+Verifica-se, portanto, que a parte embargante, a pretexto de apontar a existência de vício de fundamentação, busca afastar a aplicação do citado entendimento uma vez que não lhe é favorável.
+Tal intuito, contudo, à míngua da comprovação de quaisquer dos vícios previstos no artigo 1.022, não se amolda à via declaratória eleita.
+A jurisprudência desta Corte alerta que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em24/05/2016, DJe 31/05/2016).
+Nessa mesma linha, destaca-se o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NADECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. MinistraLAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
+EMENTA
