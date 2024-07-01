@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de CLEITON FERNANDO SIQUEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução n. 0002195-10.2024.8.26.0521).
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que o paciente não é reincidente específico em crime hediondo ou equiparado, pois condenação anterior pelo crime de latrocínio sequer consta no cálculo da execução penal, considerando que a pena nela imposta já foi cumprida integralmente.
+Portanto, deve incidir o percentual de 40% para fins de progressão de regime, uma vez que, considerando os crimes que constam no cálculo da execução penal, o paciente seria apenas reincidente genérico.
+Requer, em suma, a incidência do percentual de 40% para a progressão de regime
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Razão não assiste ao agravante quando acena com a cassação de sobredito decisum.
+Inicialmente, cumpre salientar que, em caso de apenado reincidente na prática de crime hediondo ou equiparado, a passagem de regime, pode ser efetuada, nos termos do artigo 112 da Lei nº 7.210/84, com a alteração legislativa dada pela Lei nº 13.964/2019, quando o preso tiver cumprido, ao menos, 3/5 (três quintos) da pena e ostentar bom comportamento, assim comprovado pelo diretor do estabelecimento e respeitadas as demais normas que vedam o benefício.
+Compulsados os presentes autos, observa-se que razão assiste ao Juízo a quo, poiso pressuposto objetivo para alcançar a progressão de regime encontra-se correta.
+ ..
+Isto posto, constata-se que, quando da prática do crime de tráfico de entorpecentes, o sentenciado já havia sido definitivamente condenado pelo cometimento de crime de latrocínio (fls. 15-18, grifo meu ).
+Segundo entendimento firmado nesta Corte, deve ser cumprida 60% (3/5) da pena para que haja a progressão de regime no caso de reincidente específico na prática de crime hediondo nos termos do que dispõe o art. 112, VII, da LEP, não sendo necessário que seja em razão da prática do mesmo delito.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. LEI N. 13.964/2019. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. APLICAÇÃO DO INCISO VII DO ART. 112 DA LEP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A alteração promovida pela Lei n. 13.964/2019 no art. 112 da Lei de Execuções Penais estabeleceu novos lapsos para a progressão de regime.
+2. Hipótese de aplicação do percentual de 60% previsto no inciso VII do art. 112 da Lei de Execução Penal, conforme reconhecido pelas instâncias ordinárias, dado que o agravante, registrando uma condenação pelo art. 12 da Lei 6.368/76, com cumprimento de pena em 20/6/2012, veio a praticar o tráfico de drogas em 17/3/2015, com posterior condenação.
+3. Agravo regimental improvido. (AgRg no HC n. 723.863/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 13/5/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL DEFINITIVA. CÁLCULO DE PENA PARA PROGRESSÃO DE REGIME PRISIONAL. LEI 13.964/2019 (PACOTE ANTICRIME). PACIENTE CONDENADO PELO CRIME DO ART. 217 DO CÓDIGO PENAL (CRIME HEDIONDO) CONSIDERADO REINCIDENTE EM VIRTUDE DE CONDENAÇÃO DEFINITIVA ANTERIOR POR HOMICÍDIO QUALIFICADO (CRIME HEDIONDO). NECESSIDADE DE CUMPRIMENTO DE 60% DA PENA. DESNECESSIDADE DE REINCIDÊNCIA ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018).
+2. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, § 2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+3. A nova redação dada ao art. 112 da Lei de Execuções Penais, pela Lei 13.964/19, ao modificar os percentuais necessários para progressão de regime, estabelecendo critérios distintos e específicos para cada um dos patamares de acordo com a natureza ou características do crime, estabeleceu, expressamente, em seu inciso VII, que o condenado por crime hediondo sem resultado morte somente fará jus à progressão de regime após o cumprimento de 60% (sessenta por cento) da pena no caso de ser "reincidente na prática de crime hediondo ou equiparado".
+4. No caso concreto, consta que, quando foi condenado pelo crime do art. 217 do Código Penal (crime hediondo), cometido em 30/08/2010, o paciente já possuía condenação definitiva anterior à pena de 12 (doze) anos de reclusão pelo crime de homicídio qualificado (art.
+121, § 2º, IV, do Código Penal), delito também hediondo, por sentença transitada em julgado em 22/10/2002 e cuja pena ainda não foi extinta.
+Assim sendo, reconhecida a reincidência em crime hediondo, para fins de progressão de regime, o executado deverá cumprir 3/5 da pena, como prevê a literalidade do art. 112, inciso VII, da LEP.
+5. A Lei 13.914/2019 não exigiu que a reincidência para fins de progressão de regime fosse específica (pela prática do mesmo delito), mas apenas que o condenado fosse reincidente em crime hediondo ou equiparado a hediondo.
+6. Agravo regimental desprovido. (AgRg no HC n. 720.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,, DJe de 25/3/2022.)
+Nessa linha, sendo o paciente reincidente em crime hediondo ou equiparado a hediondo sem resultado morte, o entendimento do Tribunal de origem está em conformidade com a jurisprudência do STJ.
+Quanto à alegação de que não seria possível considerar o paciente como reincidente específico em crime hediondo ou equiparado, em razão de a condenação anterior pelo crime de latrocínio sequer constar no cálculo da execução pen al, e a pena nela imposta já ter sido cumprida integralmente, do que consta nos autos a matéria não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental provido. (AgRg no HC n. 796.267/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25/4/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS ANTECIPADAS E MONITORAMENTO ELETRÔNICO. SUPRESSÃO DE INSTÂNCIA. TUTELA COLETIVA NA VIA DO HABEAS CORPUS. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESPROVIMENTO DO AGRAVO.
+1. Inviável o exame por este Sodalício do pleito de saídas temporárias e monitoramento eletrônico, sob pena de indevida supressão de instância, uma vez que a tese não foi examinada pelo Colegiado a quo no acórdão atacado.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 766.081/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 28/3/2023.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/6/2023; RCD no HC n. 787.115/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9/3/2023; AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 6/3/2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
