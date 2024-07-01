@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado (e-STJ Fl.64):
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIOQUALIFICADO TENTADO (art. 121, §2º, inciso IV,c.c. art. 14, inciso II e art. 29, caput, todos do Código Penal). REVOGAÇÃO DA PRISÃO CAUTELAR,E OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARESDIVERSAS DO CÁRCERE.
+Imputa-se ao recorrente a prática do crime de homicídio tentado.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+2. Impossibilidade da pretendida revogação da prisão preventiva, eis que decretada em decisão suficientemente fundamentada, sopesada a prova da materialidade e indícios suficientes de autoria, aliado ao perigo gerado pelo estado de liberdade do ora paciente.
+3. Ademais, o art. 313 do Código de Processo Penal, com a redação dada pela Lei nº. 12.403/2011, preceitua ser admissível a prisão preventiva para crime doloso ao qual se comine pena privativa de liberdade máxima superior a 04 anos, tal como se verifica no presente caso.
+4. Efetuado pleito de revogação da prisão preventiva, sendo sopesado que se mantinham íntegros os pressupostos que autorizaram a prisão cautelar. Insuficiente, portanto, no presente caso, a imposição de medidas cautelares diversas do cárcere.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a segregação encontra-se adequadamente fundamentada.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Com efeito, inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos concretos que indicam gravidade concreta que desborda o tipo. (AgRg no HC 801.642/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023; AgRg no HC 782.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Ademais, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem públi ca, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Por fim, certo é que "esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023). 3. Agravo regimental a que se nega provimento. (AgRg no HC nº 868.208/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 30/11/2023, DJe de 5/12/2023 - destaquei)
+Com efeito, "É do devido processo legal que a causa não seja processada, simultaneamente, na origem e na instância recursal. Questões relativas à fragilidade das provas da autoria delitiva não podem ser dirimidas na via sumária do habeas corpus ou do seu recurso por demandarem reexame aprofundado das provas coletadas no curso da instrução criminal, inviável na via eleita. A temática deve ser solucionada, em princípio, na ação penal a que responde o ora agravante e pelo Togado singular." (AgRg no RECURSO EM HABEAS CORPUS Nº 170264 - MT, Relator Ministro JOÃO BATISTA MOREIRA (DESEMBARGADOR CONVOCADO DO TRF1) Julgado em 08/08/2023, DJe/STJ nº 3698 de 16/08/2023)
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
