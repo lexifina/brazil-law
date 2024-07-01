@@ -1,0 +1,20 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 197-199 (e-STJ):
+Trata-se de Recurso ordinário em Habeas Corpus interposto por EMILIO JOSE DOS SANTOS GOMES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, que denegou a ordem ali impetrada e manteve a custódia cautelar do acusado.
+Consta dos autos que a prisão preventiva do recorrente foi decretada no dia 09/09/2022 (fls. 45/61), pela suposta prática de 17 crimes de estelionato tipificados no art. 171, § 3º, do CP e de crime de organização criminosa tipificado no art. 2º, § 3º e § 4º, I, da Lei nº 12.850/2013. No dia 00/03/2023, foi indeferido o pedido de revogação (fls. 63/65).
+Irresignada, a defesa impetrou habeas corpus na origem, tendo a Câmara Criminal do Tribunal de Justiça do Estado de Sergipe, por unanimidade, denegado a ordem, nos termos do acórdão assim ementado (fls. 108/109):
+HABEAS CORPUS - PRESO PREVENTIVAMENTE E DENUNCIADO PELO SUPOSTO COMETIMENTO DO CRIME PREVISTO NO § 3º, ARTIGO 171, (PRATICADO DEZESSETE POR VEZES), NA FORMA DO ART. 69 (CONCURSO MATERIAL), AMBOS DO CÓDIGO PENAL § 3ºE C/C §4 0, LEI ART. 2º, INCISO I, DA 12.850/2013, TODOS EM CONCURSO MATERIAL (ART. 69 DO CÓDIGO PENAL) - ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL - PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA E ASSEGURAR A APLICAÇÃO DA LEI PENAL - DECRETO PREVENTIVO DEVIDAMENTE FUNDAMENTADO NA DECISÃO HOSTILIZADA - PRESENÇA DOS ELEMENTOS NECESSÁRIOS PARA A MANUTENÇÃO DO ACAUTELAMENTO  CONDIÇÕES PESSOAIS QUE NÃO TEM O CONDÃO DE AUTORIZAR A REVOGAÇÃO DA PREVENTIVA  TRAMA CRIMINOSA INTRINCADA ENVOLVENDO MUITAS PESSOAS, SENDO 10 DENUNCIADAS  FRAUDE AO SEGURO DPVAT E ORGANIZAÇÃO CRIMINOSA - AUSÊNCIA DE CONTEMPORANEIDADE E PEDIDO DE EXTENSÃO DE BENEFÍCIOS CONCEDIDOS A ALGUNS CORRÉUS NÃO CONHECIDOS  SUPRESSÃO DE INSTÂNCIA - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO QUE SE MOSTRAM INSUFICIENTES PARA A CASUÍSTICA EM APREÇO  PRISÃO DOMICILIAR  INDEFERIMENTO POR AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS - DECISÃO LIMINAR RATIFICADA - ORDEM CONHECIDA EM PARTE E, NA PARTE CONHECIDA, DENEGADA.
+No presente recurso, a defesa alega constrangimento ilegal oriundo da prisão preventiva do recorrente, uma vez que envolve fatos ocorridos no ano de 2011 a 2014, restando ausente o requisito da contemporaneidade. Alega, ainda, a falta de motivação idônea para a sua decretação. Sustenta também que faz jus à domiciliar substitutiva, por ser pai imprescindível aos cuidados de criança menor de 6 (seis) anos. Por fim, alega o excesso de prazo na formação da culpa. Requer a concessão da ordem para (fls. 140/141):
+A) seja conhecido e provido o presente recurso, reformando-se a venerável decisão e concedendo-se ao recorrente a revogação da prisão preventiva com expedição de alvará de soltura;
+B) Alternativamente, prisão domiciliar em razão de sua condição como pai de criança autista, conforme art 318, III, CPP;
+C) Alternativamente, requer a concessão de outras medidas cautelares diversas da prisão, baseado no art 319. CPP;
+D) Seja conhecida e provida a tese de ausência de contemporaneidade, eis que já debatida em instância ordinária, não havendo supressão de instância;
+E) Seja conhecida e provida a tese do pedido de extensão de decisão favorável a um dos réus, com base no art 580, CPP.
+Parecer do Ministério Público Federal pelo parcial provimento do recurso para revogar a prisão preventiva do recorrente, com aplicação das medidas cautelares alternativas, previstas no art. 319 do CPP (e-STJ fls. 197-202).
+Intimada a manifestar-se, a defesa quedou-se inerte (e-STJ fl. 211).
+Decido.
+Das informações obtidas na página eletrônica do Tribunal de origem, verificou-se que, na Ação Penal 202355001175, a prisão preventiva do recorrente foi revogada, mediante aplicação de medidas cautelares diversas, com expedição de alvará de soltura.
+Essa circunstância evidencia a perda de objeto do recurso.
+Ante  o  exposto,  julgo  prejudicado  o presente recurso em habeas corpus.
+Publique-se . Intimem-se.
+ EMENTA
