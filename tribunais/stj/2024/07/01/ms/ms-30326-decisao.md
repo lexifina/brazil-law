@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por PALOMA BERNARDO DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Mandado de Segurança Criminal n. 2130134-47.2024.8.26.0000.
+Consta dos autos que o veículo que pertenceria à impetrante, de placa FOP3D34, Chassi 99ABJ68U4000402, tipo utilitário, ano de fabricação 2017, ano de modelo 2018, marca AUDI/Q3 1.4 TFSI, combustível Álcool/Gasolina/GNV, registrado no Município de São Paulo, foi apreendido por ter sido empregado em prática criminosa.
+A impetrante ajuizou pedido de restituição da coisa apreendida, o Juízo da Vara Criminal da Comarca de Caçapava/SP suspendeu a tramitação do incidente, com fulcro no art. 120, § 4º, do Código de Processo Penal - CPP, até que resolvida dúvida acerca da propriedade do veículo vindicado (fls. 30/31).
+Posteriormente, foi impetrado mandado de segurança perante a Corte de origem, a Oitava Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo denegou a segurança, nos termos do acórdão de fls. 536/544.
+Daí o presente feito, no qual a impetrante alega direito líquido e certo à restituição do bem apreendido, sem o pagamento de custas de pátio, asseverando a plena demonstração da propriedade do veículo.
+Requer, assim, em liminar, e no mérito, a restituição do bem apreendido. Pugna, ainda, pela concessão dos benefícios da justiça gratuita.
+É o relatório.
+Decido.
+O presente writ foi impetrado em desfavor de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo ao denegar mandado de segurança.
+A competência desta Corte Superior, nos termos do disposto no art. 105, inciso I, b, da Constituição Federal, limita-se a julgar originariamente mandado de segurança contra ato de Ministro de Estado ou do próprio Tribunal.
+Nesse sentido, foi editada a Súmula n. 41 do STJ in verbis: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Assim: "tratando-se de mandado de segurança impetrado contra ato de desembargador do Tribunal de Justiça do Estado de São Paulo, imperiosa a incidência do Enunciado n. 41 da Súmula do Superior Tribunal de Justiça" (AgRg no MS n. 23.632/SP, de minha relatoria, TERCEIRA SEÇÃO, DJe de 23/3/2018).
+Em corroboração, na esteira de firme jurisprudência do Superior Tribunal de Justiça, o writ não pode ser utilizado como sucedâneo de recurso ou como meio autônomo de impugnação tendente à desconstituição da autoridade da coisa julgada, não cabendo mandado de segurança contra ato judicial passível de recurso ou correição. A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSO PENAL. SUSTENTAÇÃO ORAL. PRELIMINAR DE NULIDADE. INEXISTÊNCIA. AÇÃO DE RESTITUIÇÃO DE COISAS APREENDIDAS. MANDADO DE SEGURANÇA. INCABÍVEL. ENUNCIADO SUMULAR N. 267/STF. EXCESSO DE PRAZO. SUPERAÇÃO. DENÚNCIA RECEBIDA. RECURSO EM MANDADO DE SEGURANÇA DESPROVIDO. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Na esteira da jurisprudência firmada por esta Corte Superior de Justiça, havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento, por ofensa à ampla defesa. Contudo, a nulidade suscitada deve ser arguida na primeira oportunidade em que a Defesa tomar ciência do julgamento, levando-se ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão. Precedentes.
+II - Diante da existência de medida judicial específica a albergar a pretensão do recorrente, que aliás já se encontra em andamento perante o eg. Tribunal de origem, o entendimento consignado pela instância ordinária guarda harmonia com a orientação firmada no Enunciado Sumular n. 267 do Supremo Tribunal Federal, no sentido de que "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+III - A jurisprudência deste Superior Tribunal de Justiça já sedimentou o entendimento no sentido de que a alegação de excesso de prazo na medida constritiva resta superado após o início da ação penal. No caso dos autos, conforme consignou a própria Defesa, em 15/1/2020 foi recebida a denúncia nos autos do Processo Criminal n. 0023593-08.2015.4.01.3900, assim como consta do sítio eletrônico da eg. Corte regional que já foi dado início à instrução criminal.
+IV - Por fim, neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios e jurídicos fundamentos. Agravo regimental desprovido.
+(AgRg no RMS 64.869/PA, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DJe 20/08/2021).
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO JUDICIAL. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. NÃO CABIMENTO. AUSÊNCIA DE TERATOLOGIA OU DE MANIFESTA ILEGALIDADE NA DECISÃO RECORRIDA. INDEFERIMENTO LIMINAR DO MANDAMUS. INCOMPETÊNCIA ABSOLUTA DESTA CORTE. SÚMULA 41/STJ. AGRAVO NÃO CONHECIDO.
+I - É incabível a impe tração de mandado de segurança contra ato judicial passível de recurso, o que se admite excepcionalmente quando presente teratologia ou manifesta ilegalidade.
+II - Em sendo assim, incide na hipótese a súmula 182 deste Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+III - A título de reforço dos fundamentos postos, está-se diante de óbice constitucional relativo à incompetência absoluta desta Corte para o julgamento do mandado de segurança originário contra ato de outro tribunal, conforme disposto no art. 105, I, b, da CF/88, bem como do art. 12, I, do RISTJ e, ainda, do enunciado da Súmula 41/STJ.
+Agravo regimental não conhecido.
+(AgRg no MS n. 28.908/RS, relator Ministro MESSOD AZULAY NETO, TERCEIRA SEÇÃO, DJe de 3/5/2023).
+Ante o exposto, nos termos do art. 10 da Lei n. 12.016/2009, c/c o art. 212 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente mandamus .
+Sem condenação em honorários advocatícios, observada a Súmula n. 105/STJ e o art. 25 da Lei n. 12.016/2009.
+Publique-se.
+Intimem-se.
+EMENTA
