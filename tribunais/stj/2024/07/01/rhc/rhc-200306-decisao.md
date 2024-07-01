@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no Agravo Regimental no Habeas Corpus n. 0035260-25.2020.8.16.0000, nos seguintes termos:
+"Sustenta o agravante o cabimento do habeas corpus para modificação do acórdão, uma vez que nele não se discutiu o afastamento da reincidência do agravante, fato esse que o fará ser agraciado com o tráfico privilegiado. Ademais, antes da impetração do presente habeas corpus, a insurgência foi levada ao C. Superior Tribunal de Justiça, que não conheceu do mandamus lá impetrado, entendendo tratar-se de supressão de instância, justamente em razão de o tema não ter sido discutido nesta Câmara julgadora. Assim, deverá a matéria ao menos ser analisada e julgada para interposição de recurso em Superior Instância. Alega a possibilidade de afastamento da reincidência, uma vez que se passaram mais de 5 anos do cumprimento total da pena anterior do agravante, voltando ele a ser tecnicamente primário, nos termos do artigo 64, inciso I, do Código Penal. Por fim, aduz que, "RECONHECIDO A NÃO REINCIDÊNCIA, deve ser aplicado o benefício da redução da pena na fração máxima de 2/3 (dois terços), com a devida conversão da pena privativa de liberdade por restritivas de direito." Requer, diante disso, o provimento do presente recurso, para que seja reconhecida a não reincidência, com a consequente diminuição da pena prevista no art. 33, § 4º, da Lei nº 11.343/06, bem como possa o agravante cumprir pena no regime aberto, substituindo-se a pena privativa de liberdade por restritivas de direitos.
+ ..
+De qualquer modo, não passa despercebido que a certidão de fls. 284/285 dos autos da ação penal atesta que o paciente teve expedido alvará de soltura, pelo "integral cumprimento da pena corporal", em 11.11.2015, sendo a pena julgada extinta, pelo cumprimento integral, apenas em 25.01.2019.
+Ainda que se considerasse 11.11.2015 a data da extinção da pena, verifica-se que o novo crime, objeto da decisão contra a qual se insurge a presente impetração, foi praticado em 05.06.2020, antes, portanto, de decorridos cinco anos. Inalterável, portanto, o decidido.
+3. Posto isso, pelo meu voto, nega-se provimento ao agravo regimental." (fls. 92/94)
+Na presente impetração, a defesa busca o afastamento da agravante da reincidência, ao argumento de que teria transcorrido mais de cinco anos da extinção da pena para o cometimento do delito em discussão, pois a extinção da pena ocorreu em 16.12.2014, e a aplicação do redutor da pena previsto no art. 33, §4º, da Lei n. 11.346/2003.
+É o relatório.
+Decido.
+A irresignação não alcança melhor sorte.
+Como visto, o julgado atacado manteve a agravante da reincidência ao fundamento de que a pena do crime anterior teria sido extinta em 11.11.2015, ou seja antes do transcurso do prazo depurador de cinco anos. P ara modificar essa conclusão mostra-se necessário o exame aprofundado de provas, providência incabível no habeas corpus e no recurso ordinário.
+A propósito, veja-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. PLEITOS ABSOLUTÓRIOS DOS CRIMES DE ABORTO E ESTELIONATO CONSUMADO E ESTELIONATO TENTADO. REVOLVIMENTO DO QUADRO FÁTICO. INVIÁVEL NA VIA ESTREITA DO MANDAMUS. RETROTIVIDADE DO ART. 171, § 5.º, DO CÓDIGO PENAL. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias concluíram pela presença de provas suficientes quanto à autoria, à materialidade e ao elemento subjetivo do tipo penal, a inversão do julgado, de maneira a fazer prevalecer o pedido de absolvição dos Agravantes, demandaria o revolvimento do quadro fático-probatório, o que é inviável no âmbito do habeas corpus.
+2. A jurisprudência da Terceira Seção do Superior Tribunal de Justiça está sedimentada no sentido de que, em crime de estelionato, a necessidade de representação das Vítimas, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança o processo cuja denúncia tenha sido oferecida antes da vigência da citada norma, tal como ocorre na hipótese dos autos.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 711.224/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/5/2023, DJe de 19/5/2023.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso em habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
