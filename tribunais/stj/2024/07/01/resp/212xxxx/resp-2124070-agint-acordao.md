@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+EMENTA
+PROCESSSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. PRETENSÃO DE INVALIDAÇÃO DE RETIFICAÇÃO ADMINISTRATIVA DE NOTAS E DE CLASSIFICAÇÃO, PROMOVIDA APÓS A DIVULGAÇÃO DO RESULTADO FINAL/HOMOLOGAÇÃO DO CERTAME. INEXISTÊNCIA DE ALTERAÇÃO DE CRITÉRIO DE AVALIAÇÃO. CORREÇÃO DE ERRO, PARA ATENDIMENTO À REGRA DO EDITAL. OFENSA AO ATO JURÍDICO PERFEITO. REVISÃO DE PROVA. SÚMULA 7/STJ. REINTERPRETAÇÃO DE CLÁUSULA EDITALÍCIA. SÚMULA 5/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF, POR ANALOGIA.
+1. A demanda trata de reclassificação da ora recorrente no resultado do Concurso Público realizado em fevereiro de 2020 para vaga de Clínica Médica para o Complexo Hospitalar da Universidade Federal do Ceará.
+2. A Corte de origem entendeu que não assiste razão à recorrente  porquanto a Administração Pública tem poder-dever de corrigir seus atos, "sob pena de agressão à norma editalícia, que lhe vincula os candidatos"  e que a publicidade da retificação foi feita "nos termos do edital".
+3. Para averiguar se o referido julgado violou ou não dispositivos de Lei Federal e do edital, não haveria como escapar ao reexame da matéria probatória e fática, providência essa que encontra óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Ademais, não obstante as razões explicitadas pela instância originária, ao interpor o Recurso, a parte recorrente não impugnou os fundamentos. Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo Apelo para justificar o pedido de reforma ou de nulidade do julgado.
+5. Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+6. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto de decisão monocrática (fls. 1.559-1.563) que não conheceu do Recurso Especial.
+A parte refuta os fundamentos da decisão agravada.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. PRETENSÃO DE INVALIDAÇÃO DE RETIFICAÇÃO ADMINISTRATIVA DE NOTAS E DE CLASSIFICAÇÃO, PROMOVIDA APÓS A DIVULGAÇÃO DO RESULTADO FINAL/HOMOLOGAÇÃO DO CERTAME. INEXISTÊNCIA DE ALTERAÇÃO DE CRITÉRIO DE AVALIAÇÃO. CORREÇÃO DE ERRO, PARA ATENDIMENTO À REGRA DO EDITAL. OFENSA AO ATO JURÍDICO PERFEITO. REVISÃO DE PROVA. SÚMULA 7/STJ. REINTERPRETAÇÃO DE CLÁUSULA EDITALÍCIA. SÚMULA 5/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF, POR ANALOGIA.
+1. A demanda trata de reclassificação da ora recorrente no resultado do Concurso Público realizado em fevereiro de 2020 para vaga de Clínica Médica para o Complexo Hospitalar da Universidade Federal do Ceará.
+2. A Corte de origem entendeu que não assiste razão à recorrente  porquanto a Administração Pública tem poder-dever de corrigir seus atos, "sob pena de agressão à norma editalícia, que lhe vincula os candidatos"  e que a publicidade da retificação foi feita "nos termos do edital".
+3. Para averiguar se o referido julgado violou ou não dispositivos de Lei Federal e do edital, não haveria como escapar ao reexame da matéria probatória e fática, providência essa que encontra óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Ademais, não obstante as razões explicitadas pela instância originária, ao interpor o Recurso, a parte recorrente não impugnou os fundamentos. Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo Apelo para justificar o pedido de reforma ou de nulidade do julgado.
+5. Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 29.5.2024.
+A demanda trata de reclassificação da ora recorrente no resultado do Concurso Público realizado em fevereiro de 2020 para vaga de Clínica Médica para o Complexo Hospitalar da Universidade Federal do Ceará.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, o Tribunal de origem assim decidiu a lide:
+No Edital nº 49, de 28/04/2020, que veiculou o Resultado Final/Homologação do certame, publicado em 29/04/2020 (pág. 64), constou a aprovação da candidata para "Médico - Clínica Médica", para o Complexo Hospitalar da UFC, com nota 82,50 e na 28ª colocação (pág. 215).
+Posteriormente, através do Edital nº 1.058, de 16/07/2021, foi divulgada a retificação administrativa de pontos referente à prova de avaliação de títulos e de experiência profissional de alguns candidatos, do que decorreu que a apelante passou a ter nota 79,50 e ostentar a posição 38ª, na classificação final (pág. 65).
+Segundo consta dos autos, essa retificação se deu porque, na prova de títulos, a apelada pontuou, por equívoco, a residência médica de alguns candidatos como título e como experiência profissional, ou seja, em duplicidade, quando, nos termos do edital (item 9.2.5.), a residência médica deveria ser pontuada apenas na avaliação de títulos.
+Note-se, portanto, que a retificação não ocorreu por mudança superveniente de critério de avaliação, mas, sim, para ajustar a pontuação conferida aos candidatos ao critério definido no edital. Tratou-se, pois, de corrigir um erro, que prejudicava os demais candidatos, que tiveram as notas atribuídas corretamente.
+Ademais, é importante destacar que a apelante não discute a retificação em si, ou seja, não nega que houve o cômputo duplo nem advoga pela eventual possibilidade dessa contagem simultânea, como título e como experiência profissional.
+Acerca desse ponto, o edital do certame dispôs:
+(..) A teor dessas regras, a Administração Pública poderia - como fez - corrigir a atribuição de pontos que se realizara, inicialmente, em desconformidade com o edital, ainda que essa correção apenas viesse a ocorrer após a homologação do certame.
+Aliás, a retificação é poder-dever da Administração Pública, sob pena de agressão à norma editalícia, que lhe vincula e a todos os candidatos.
+De mais a mais, deu-se ampla publicidade à retificação, apenas a autora pretendendo que a veiculação tivesse ocorrido na página institucional da EBSERH na internet, quando, nos termos do edital, essa divulgação apenas ocorreria no site do IBCF, sendo certo que a publicação deve se fazer, mais uma vez, de acordo com as normas vinculantes do ato convocatório do concurso e não, segundo a via que mais convenha à candidata. (fls. 1.425-1.426, e-STJ)
+Deste modo, reafirmo o exposto na decisão objurgada de que a Corte de origem entendeu que não assiste razão à recorrente  porquanto a Administração Pública tem poder-dever de corrigir seus atos, "sob pena de agressão à norma editalícia, que lhe vincula os candidatos"  e que a publicidade da retificação foi feita "nos termos do edital".
+Assim, para averiguar se o referido julgado violou ou não dispositivos de Lei Federal e do edital, não haveria como escapar ao reexame da matéria probatória e fática, providência essa que esbarra nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Ademais, não obstante as razões explicitadas pela instância originária, ao interpor o Recurso, a parte recorrente não impugnou os fundamentos acima mencionados.
+Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a pertinência temática entre as razões de deci dir e os fundamentos fornecidos pelo Apelo para justificar o pedido de reforma ou de nulidade do julgado.
+Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
