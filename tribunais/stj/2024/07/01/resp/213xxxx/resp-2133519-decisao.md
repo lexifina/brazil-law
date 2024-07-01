@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRINOX METALURGICA SA EM RECUPERACAO JUDICIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 169):
+TRIBUTÁRIO. BASE DE CÁLCULO DO PIS E DA COFINS. EXCLUSÃO DO ICMS-DIFAL. IMPOSSIBILIDADE.
+Não há direito à exclusão do ICMS-DIFAL da base de cálculo das contribuições do PIS e da COFINS. Precedentes.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 155, § 2º, VIII, a e b, e 195, I, b, da Constituição Federal, além dos arts. 1º, § 2º, das Leis 10.637/2002 e 10.833/2003 e do art. 110 do Código Tributário Nacional (CTN).
+Argumenta que não se inclui na base de cálculo da contribuição ao PIS (Programa de Integração Social) e da COFINS (Contribuição para o Financiamento da Seguridade Social) os ingressos destinados ao recolhimento do diferencial de alíquotas de ICMS (Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação) em operações interestaduais - DIFAL.
+Destaca (fl. 190):
+ ..  a parcela do ICMS-DIFAL não configura faturamento, pois ninguém fatura o imposto, muito menos o comercializa. O registro do valor do imposto tem por fim atender obrigações de ordem contábil e fiscal. Por óbvio então que o valor do ICMS-DIFAL destacado na nota fiscal não pode ser incluído na base de cálculo das aludidas contribuições sociais.
+A parte adversa apresentou contrarrazões (fls.221/230).
+O recurso foi admitido na origem (fl.239).
+É o relatório.
+Quanto à alegada afronta aos arts. 155, § 2º, VIII, a e b, e 195, I, b da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020 - sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaques no original.)
+O Tribunal de origem afastou a pretensão autoral com amparo no julgamento dos Recursos Extraordinários 970.821 e 574.706, pelo Supremo Tribunal Federal, nestes termos (fls.170/171):
+ICMS- DIFAL A impetrante busca a exclusão do ICMS-Difal da base de cálculo do PIS e da COFINS.
+A tributação adicional em questão corresponde a diferença de alíquotas do ICMS entre o estado destinatário e o estado remetente do produto ou serviço, tendo por objetivo equilibrar a arrecadação estadual.
+Sobre o tema vinha decidindo no sentido de não se verifica razão para não se aplicar a tese do RE 574.706 (O ICMS não compõe a base de cálculo para fins de incidência interestaduais do PIS e da COFINS).
+Contudo, em julgamentos com quorum estendido, realizados pela sistemática do art. 942 do CPC, as Turmas integrantes da 1ª Seção desta Corte vêm reiterando o entendimento sobre a matéria, no sentido de que "o ICMS-DIFAL não pode ser excluído da base de cálculo do PIS/COFINS porque o seu montante, por não constituir receita bruta, nunca foi computado na base de cálculo das contribuições" (TRF4 5013203-39.2022.4.04.7108, PRIMEIRA TURMA, Relator para Acórdão ALEXANDRE ROSSATO DA SILVA ÁVILA, juntado aos autos em 08/03/2023).
+Portanto, alinho-me ao referido entendimento, adotando os seus fundamentos como razão de decidir, no caso em comento:
+O fato de a operação interestadual contemplar o ICMS-DIFAL não altera a base de cálculo do ICMS, e nem a do PIS/COFINS. O próprio Convênio dispõe no § 1º da Cláusula Segunda que "a base de cálculo do imposto de que tratam os incisos I e II do caput é única e corresponde ao valor da operação ou o preço do serviço, observado o disposto no § 1º do art. 13 da Lei Complementar nº 87, de 13 de setembro de 1996".
+O Supremo Tribunal Federal, no julgamento do RE 970.821, em que reputou constitucional a cobrança antecipada de diferencial de alíquota de ICMS de sociedade empresária optante pelo Simples Nacional, independentemente de o contribuinte estar na condição de consumidor final no momento da aquisição, disse que "o diferencial de alíquota consiste em recolhimento pelo estado de destino da diferença entre as alíquotas interestadual (menor) e interna (maior), de maneira a equilibrar a partilhado ICMS em operações entre entes federados. Complementa-se o valor do ICMS devido na operação.
+Ocorre, portanto, a cobrança de um único imposto (ICMS) calculado de duas formas distintas, de modo a alcançar o valor total devido na operação interestadual".
+Ora, se a base de cálculo e o imposto estadual são únicos, nenhum efeito se projeta à receita bruta auferida com a venda, base de cálculo das contribuições ao PIS/COFINS.
+Observo que das notas fiscais juntadas (evento 1 - Anexos pet 4). ao contrário do que ocorre como ICMS e o ICMS-ST, não existe o destaque do ICMS-DIFAL. Apenas no campo dos dados adicionais da nota fiscal eletrônica consta a partilha da receita do ICMS para o Estado de destino e do remetente.
+Como se vê, não existe prova de que o contribuinte tenha computado como receita a despesa com o pagamento do ICMS resultante do diferencial de alíquota. Como dito, a base de cálculo do PIS/COFINS é a receita bruta auferida com as vendas das mercadorias, excluindo-se apenas, se fosse o caso, o ICMS que estivesse destacado na nota fiscal. Mas na hipótese dos autos, considerado o exemplo dado, a pretensão é para que os R$600,00 do ICMS-DIFAL sejam excluídos. Ou seja, a parte pretende, sem qualquer amparo constitucional ou legal, amputar a receita bruta auferida com a venda, mediante a exclusão de uma despesa tributária de ICMS partilhado entre as unidades federadas.
+O resultado do diferencial da alíquota do ICMS nas operações interestaduais pode incrementar as receitas do Estado, mas é neutro em relação à apuração do PIS/COFINS, cuja base de cálculo não é afetada nas operações interestaduais sujeitas ao diferencial de alíquotas de ICMS. Como o ICMS-DIFAL nunca foi incluído na base de cálculo do PIS/COFINS, jamais poderá ser excluído.
+Assim, passo a adotar a orientação predominante, considerando a diretriz do art. 926 do CPC, no sentido de que o ICMS-DIFAL não pode ser excluído da base de cálculo do PIS/COFINS, ressalvado entendimento pessoal.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, se revela descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da Constituição Federal.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS-DIFAL. INCLUSÃO NA BASE DE CÁLCULO DO PIS E DA COFINS. MATÉRIA CONSTITUCIONAL. EXAME. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. JULGADOS DO MESMO TRIBUNAL DE ORIGEM. SÚMULA 13/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na hipótese dos autos o Tribunal local resolveu a questão de fundo com base em fundamentação eminentemente constitucional, sendo inviável o conhecimento do recurso especial, sob pena de usurpação da competência da Suprema Corte. Nesse sentido: AgInt no REsp n. 2.066.618/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, D Je de 18/10/2023; AgInt no REsp n. 2.019.681/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.
+3. O dissídio jurisprudencial entre julgados do mesmo Tribunal não enseja recurso especial (Súmula 13/STJ).
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.014.931/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/3/2024, DJe de 2/4/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS. COFINS. BASE DE CÁLCULO. ICMS-DIFAL. TESE FIRMADA PELO STF. EXTENSÃO DA RATIO DECIDENDI. FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE.
+1. À luz do art. 105, III, da Constituição Federal, o recurso especial não serve à revisão da fundamentação constitucional.
+2. Hipótese em que o recurso não pode ser conhecido, pois o Tribunal de origem, interpretando a tese definida pelo Supremo Tribunal Federal no Tema 69, decidiu por sua aplicação também no caso em que o contribuinte pretende a exclusão do ICMS-Difal da base de cálculo da Contribuição ao PIS e da COFINS.
+3. Inexistência de precedentes colegiados do STF a afirmar ausência de repercussão geral e a natureza infraconstitucional da matéria ora controvertida.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.047.176/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
