@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. FRAÇÃO MÁXIMA. PRIMARIEDADE E QUANTIDADE NÃO EXPRESSIVA DE DROGAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+2. Tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+3. No caso, o Tribunal de origem entendeu pela aplicação do benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 1/6, sem, no entanto, tecer qualquer justificativa idônea para a escolha da fração mínima. Assim, a primariedade do acusado a época dos fatos e a apreensão de quantidade não expressiva de droga (225 g de crack) autorizam fixar a fração da minorante no patamar máximo de 2/3.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL interpõe agravo regimental contra decisão de minha relatoria, em que conheci do agravo para dar parcial provimento ao recurso especial, a fim de aplicar no patamar máximo o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Consta dos autos que o paciente foi condenado à pena de 5 anos, 2 meses e 15 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+O agravante aduz, em síntese, que, "o Tribunal a quo entendeu adequada a adoção da fração mínima de redução da pena (1/6) em razão de circunstâncias concretas do flagrante, evidenciando "que não se trata de mero aventureiro na traficância" (fl. 51). Para infirmar a conclusão do Tribunal estadual, seria necessário o reexame aprofundado do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ" (fls. 123-124).
+Aduz ainda que, em virtude da quantidade de drogas (225 g de crack), a minorante não deve ser aplicada na fração máxima de 2/3.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, "no sentido de restabelecer a fração do tráfico privilegiado estabelecida pelo Tribunal a quo" (fl. 125).
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. FRAÇÃO MÁXIMA. PRIMARIEDADE E QUANTIDADE NÃO EXPRESSIVA DE DROGAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+2. Tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+3. No caso, o Tribunal de origem entendeu pela aplicação do benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 1/6, sem, no entanto, tecer qualquer justificativa idônea para a escolha da fração mínima. Assim, a primariedade do acusado a época dos fatos e a apreensão de quantidade não expressiva de droga (225 g de crack) autorizam fixar a fração da minorante no patamar máximo de 2/3.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos despendidos pelo Ministério Público Federal, entendo que não lhe assiste razão.
+A Corte estadual assim argumentou para modular a fração da minorante (fl. 51, grifei):
+Passando para a terceira e última fase da dosimetria, constata-se que realmente o apelante faz jus à benesse do tráfico privilegiado (art. 33, §4º, Lei nº 11.3434/2006), porquanto ele é tecnicamente primário, bem como inexistem indicativos de que integre organização criminosa ou mesmo se dedique às atividades delituosas.
+Por outro lado, considerando as circunstâncias flagranciais em que detido o réu, as quais evidenciam que não se trata de mero aventureiro na traficância, entendo como adequada a adoção do patamar mínimo de diminuição, ou seja, 1/6 (um sexto).
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal traz apenas os requisitos necessários para a aplicação da minorante nele prevista; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+No caso, conforme pontuei no julgamento monocrático, o Tribunal de origem entendeu pela aplicação do benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 1/6, sem, no entanto, tecer qualquer justificativa idônea para a escolha da fração mínima.
+Assim, deve ser mantida a decisão agravada, a fim de aplicar a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar de 2/3, notadamente porque o agravado era primário a época dos fatos e não foi apreendida expressiva quantidade de droga (225 g de crack).
+À vista do exposto, nego provimento ao agravo regimental.
