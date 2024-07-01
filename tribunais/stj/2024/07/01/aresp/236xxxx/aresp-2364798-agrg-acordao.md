@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO ANTE A FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inviável o agravo em recurso especial que deixa de impugnar, especificadamente, todos os fundamentos da decisão do Tribunal de origem que inadmitiu o apelo nobre.
+2. É firme o entendimento desta Corte no sentido de que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+3. A incidência da Súmula n. 83 do Superior Tribunal de Justiça só é combatida com pedido explícito de afastamento do referido óbice e a apresentação de jurisprudência desta Corte Superior contrária, contemporânea ou superveniente, à apresentada na decisão de inadmissibilidade do recurso especial, o que não foi feito pela defesa. Aplicação da Súmula n. 182 do STJ mantida.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXSANDER ANDREI DOS SANTOS contra decisão de minha lavra às fls. 498/503, em que não conheci do agravo em recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil -CPC e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça -RISTJ.
+No presente regimental (fls. 508/517), o agravante sustenta que foi completamente rechaçada a aplicação da Súmula n. 182 do STJ.
+Requer a retratação da decisão agravada ou a submissão do recurso ao colegiado, com o consequente conhecimento e provimento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO ANTE A FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inviável o agravo em recurso especial que deixa de impugnar, especificadamente, todos os fundamentos da decisão do Tribunal de origem que inadmitiu o apelo nobre.
+2. É firme o entendimento desta Corte no sentido de que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+3. A incidência da Súmula n. 83 do Superior Tribunal de Justiça só é combatida com pedido explícito de afastamento do referido óbice e a apresentação de jurisprudência desta Corte Superior contrária, contemporânea ou superveniente, à apresentada na decisão de inadmissibilidade do recurso especial, o que não foi feito pela defesa. Aplicação da Súmula n. 182 do STJ mantida.
+4. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento, porquanto o agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, razão pela qual mantém-se a decisão agravada por seus próprios fundamentos.
+Consoante destacado, a defesa deixou de impugnar de forma concreta e específica os fundamentos da decisão de inadmissibilidade da origem, consistentes nos seguintes óbices: a) art. 1030, I, b, do CPC (Tema n. 1060/STJ); b) 1030, I, b, do CPC (Tema 221/STJ); c) óbice da Súmula n. 284 do STF; d) óbice da Súmula n. 7/STJ; e) óbice da Súmula n. 83/STJ; f) óbice da Súmula n. 7/STJ; g) óbice da Súmula n. 83/STJ e h) não cumprimento do disposto no art. 1029, § 1º, do CPC.
+Conforme é cediço, faz-se necessária a impugnação específica, concreta e pormenorizada de todos os fundamentos da decisão agravada, não sendo suficiente a mera afirmação de não ser caso de incidência de determinado óbice, sem explicitar-se as razões que sustentariam tal alegação.
+Quanto à Súmula n. 7 do STJ, verifica-se que a parte cingiu-se a alegar que "basta uma leitura atenta das decisões proferidas nos autos de origem para que se veja, às claras, que as contradições apontadas por esta defesa pairam justamente no tom genérico e na consequente carência de fundamentação das decisões anteriormente proferidas, inexistindo necessidade de revolvimento da matéria fático-probatória, tão somente, busca-se sua revaloração" (fl. 392).
+E no que se refere ao verbete Sumular n. 83/STJ, só aduziu o seguinte: "Houve, portanto, discussão veemente e profunda sobre os pontos levantados pela defesa técnica, não havendo sustentáculo a tese instalada de óbice à Súmula 83 deste Tribunal Superior-restando superada" (fl. 395).
+É firme o entendimento desta Corte no sentido de que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+Sem falar que, para impugnar a incidência da Súmula n. 83 desta Corte, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ, o que não foi feito.
+Assim, não houve a efetiva impugnação dos óbices sumulares aplicados.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
