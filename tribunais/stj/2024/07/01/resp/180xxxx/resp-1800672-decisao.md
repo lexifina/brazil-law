@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, proferido com a seguinte ementa:
+ADMINISTRATIVO. INFRAÇÃO AMBIENTAL. TRANSPORTE IRREGULAR DE MADEIRA SERRADA. IMPOSIÇÃO DE MULTA E APREENSÃO DE VEÍCULO. LIBERAÇÃO DO BEM. ADMISSIBILIDADE.
+1. A Lei nº 9.605/98 prevê a possibilidade de apreensão de instrumentos, petrechos e veículos utilizados para o cometimento de infrações ambientais, a teor dos arts. 25 e 72, IV.
+2. Por sua vez, o Decreto nº 6.514/08 permite que o bem retido seja liberado e que, de forma excepcional, seja o seu proprietário nomeado depositário fiel, mormente se não existirem elementos de que o infrator seja reincidente no cometimento de faltas desse jaez, bem como não haja indícios de que a posse do veículo constitui qualquer ilícito.
+3. É injustificável condicionar a liberação do veículo ao pagamento da multa administrativa imposta em decorrência do transporte irregular de madeira serrada, uma vez que a Administração dispõe de meios hábeis para exigir a adimplência dos seus créditos.
+4. Remessa oficial e apelação improvidas (fls. 164).
+Opostos embargos de declaração, foram eles rejeitados.
+O recorrente alega, de início, ofensa ao art. 535 do Código de Processo Civil de 1973, reputando omisso o acórdão recorrido, não obstante a oposição dos aclaratórios. Indica, para tanto, a necessidade de elucidação de que modo o acórdão embargado seria compatível com a redação dos dispositivos tidos por contrariados no mérito do presente recurso.
+Quanto ao mérito, sustenta violação dos arts. 25, 46 e 72, IV da Lei 9.605/1998; 3º, IV, 47, § 1º, 105, 106, II e 134, V, do Decreto 6.514/2008, defendendo ser incabível e inadequado o uso do mandado de segurança com o propósito de se obter a devolução do veículo apreendido, utilizado para o transporte de madeira de origem ilícita.
+Decorrido o prazo, não foram apresentadas contrarrazões.
+Determinada a devolução dos autos à origem para adequação ao Tema 1.036/STJ, foi mantido o acórdão recorrido, sem reforma, com base na interpretação conferida pelo Tribunal a quo ao Tema 1.043/STJ (fls. 278/293).
+É o relatório.
+Verifico que inexiste a alegada violação do art. 535 do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A Corte de origem, apreciando o tema tido por omitido, reconhece a possibilidade de apreensão de instrumentos, petrechos e veículos utilizados para o cometimento de infrações ambientais, prevista na Lei 9.605/1998, admitindo, com base no Decreto 6.514/2008, ser viável que o bem retido seja liberado e que, de forma excepcional, seja o seu proprietário nomeado depositário fiel até o julgamento do processo administrativo (fl. 160).
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+A questão de mérito, por sua vez, atinente ao cabimento, ou não, do mandado de segurança para a pretensão de devolução de veículo apreendido, sujeito à pena de perdimento, não foi suscitada anteriormente nos autos, caracterizando indevida inovação em sede de recurso especial. Não alegada a questão no momento oportuno, resta caracterizada a preclusão consumativa. A propósito, cito os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO REGRESSIVA. ART. 120 DA LEI 8.213/1991. PRAZO PRESCRICIONAL. ART. 1º DO DECRETO 20.910/1932. DISCUSSÃO SOBRE O TERMO INICIAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA.
+ ..
+3. A jurisprudência do STJ firmou-se no sentido de que ocorre a preclusão consumativa quando a matéria ventilada em Agravo Regimental constitui inovação recursal em relação ao Recurso Especial. Nesse sentido: AgRg no AREsp 11.095/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 29.11.2012; AgRg no AREsp 231.214/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26.11.2012; AgRg no AREsp 180.724/SE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 25.10.2012; AgRg no Resp 1.156.078/PR, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 14.11.2012.
+4. Agravo Regimental não provido. (AgRg no REsp n. 1.436.790/SC, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/10/2019, DJe de 25/10/2019.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. EMPREGADOR RURAL PESSOA FÍSICA. LEI 10.259/2001. CONSTITUCIONALIDADE. JULGAMENTO DO TEMA PELO SUPREMO TRIBUNAL FEDERAL SOB O SIGNO DA REPERCUSSÃO GERAL. TEMA 669/STF. RECURSO ESPECIAL. MATÉRIA IDÊNTICA À VEICULADA NO EXTRAORDINÁRIO. PERDA DE OBJETO. AGRAVO INTERNO. INOVAÇÃO DE ARGUMENTOS E DE PLEITOS. IMPOSSIBILIDADE.
+ ..
+3. Não é possível se conhecer de inéditos pleitos formulados pelo contribuinte recorrente em momento posterior ao da interposição de seu especial apelo, seja por configurar indevida inovação recursal, seja pela ausência de prequestionamento das questões assim suscitadas.
+4. Agravo interno não provido. (AgInt no AgInt no AREsp n. 1.334.550/MS, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/6/2019, DJe de 1º/7/2019.)
+Colho, ainda, do voto condutor do acórdão o seguinte trecho da fundamentação:
+Destaco que a condição da guarda do veículo com o depositário fiel até o julgamento do processo administrativo é desnecessária, uma vez que, pelo que consta dos autos, o referido bem não apresenta destinação única e exclusiva para a prática de infrações ambientais, não havendo indícios, como já dito anteriormente , de que o impetrante seja contumaz na realização de faltas desse jaez, ao contrário do que afirmou o apelante (fl. 161).
+Este fundamento, suficiente para a manutenção do acórdão recorrido, não foi devidamente impugnado nas razões do recurso especial, atraindo o óbice da Súmula 283/STF, por analogia.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
