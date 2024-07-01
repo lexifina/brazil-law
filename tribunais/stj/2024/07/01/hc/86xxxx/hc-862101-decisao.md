@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JEFFERSON BEZERRA BERLCE contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da revisão criminal n. 2194548-88.2023.8.26.0000.
+Consta dos autos que o paciente foi condenado pelo Tribunal do Júri da Comarca de São José do Rio Preto à pena de 16 (dezesseis) anos e 04 (quatro) meses de reclusão, como incurso no artigo 121, § 2º, incisos III e IV, do Código Penal, em regime inicial fechado, nos termos da sentença de fls. 32-35.
+A defesa interpôs recurso de apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso para reduzir a pena para 14 (quatorze) anos de reclusão, conforme o acórdão de fls. 12-16.
+Operado o trânsito em julgado em 25/04/2022, a defesa propôs perante a Corte local a revisão criminal n. 2194548-88.2023.8.26.0000, que foi conhecida e indeferida, nos temos termos do acórdão de fls. 36-42.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na negativa ao reconhecimento da atenuante capitulada na alínea "c" do inciso III do artigo 65 do Código Penal, despida de fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja reconhecida a atenuante capitulada na alínea "c" do inciso III do artigo 65 do Código Penal, com o consequente redimensionamento da pena.
+O pedido liminar foi indeferido às fls. 45-46.
+Informações prestadas às fls. 52-55 e 59-77.
+O Ministério Público Federal, às fls. 82-85, opinou pelo não conhecimento do writ.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível ilegalidade flagrante no acórdão impugnado, consistente na negativa ao reconhecimento da reconhecida a atenuante capitulada na alínea "c" do inciso III do artigo 65 do Código Penal, com o consequente redimensionamento da pena.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido." (AgRg no HC n. 738.224/SP Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 12/12/2023.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido." (AgRg no HC n. 857.913/SP, Quinta Turma, Min. Rel. Ribeiro Dantas, DJe de 1/12/2023.)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada (fls. 40-42):
+ ..
+"Quanto às penas, não há que se falar em reparo.
+ ..
+Consigne-se também que, ainda que a vítima tivesse praticado os atos mencionadas pela Defesa, tal circunstância não justifica, de forma alguma, a prática do delito praticado pelo acusado, porquanto, ao que consta, após o ofendido ter mexido com a ex-companheira do réu, ela contou para ele e, em outra ocasião, ele foi tirar satisfação com a vítima, a qual, apesar de ter retrucado, não foi para cima e nem tentou agredir o réu, que repentinamente começou a bater no ofendido, fazendo com que ele caísse no chão, pegou uma faca e passou no pescoço dele, a evidenciar, portanto, o sentimento de vingança, de forma que não há que se falar em ter agido o réu sob influência de violenta emoção, provocada por ato injusto da vítima.
+Frise-se, ademais que, muito embora não se trate exatamente da mesma circunstância, é certo que os jurados responderam negativamente ao quesito de ter o réu agido sob domínio de violenta emoção, logo em seguida a injusta provocação da vítima (fls.475/476 dos autos originais)."
+ ..
+No que toca ao pleito de incidência da circunstância atenuante prevista no artigo 35, III, "c", do Código Penal, ao argumento de que a vítima vinha importunando a companheiro do paciente, a ensejar a caracterização da violenta emoção, restou devidamente rechaçado pelo acórdão recorrido.
+Dos excertos colacionados, verifico que a Corte local atestou que o contexto fático probatório dos autos demonstrou não ter o paciente agido sob domínio de violenta emoção, logo em seguida à injusta provocação da vítima, tal qual reconhecido pelo Conselho de Sentença.
+Isso porque, após a sua companheira contar que estava sendo importunada pela vítima (consoante consta dos autos, a mulher havia dito que vira a vítima se masturbando na casa dele, na janela voltada para a casa dela), o paciente, já em outra ocasião, foi com ele tirar satisfação, momento em que, apesar de ter a vítima retrucado, não partiu para cima e nem o tentou agredir, não restando nem menos configurado ato injusto.
+Assim, a Corte de origem concluiu, fundamentadamente, diante das provas coligadas, que o paciente praticou o delito de homicídio qualificado movido por sentimento de vingança, e não sob influência de violenta emoção, provocada por ato injusto da vítima.
+Ademais, para que a pretensão deduzida no presente writ pudesse ser acolhida, seria imprescindível o revolvimento de todo o conjunto fático-probatório, cujo rito do habeas corpus e a jurisprudência do Superior Tribunal de Justiça não admitem.
+Corroborando tal posicionamento, cito os seguintes julgados:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. DOSIMETRIA. CULPABILIDADE CONSIDERADA COMO VETOR NEGATIVO. ELEMENTOS CONCRETOS. POSSIBILIDADE. CAUSA DE REDUÇÃO DO HOMICÍDIO PRIVILEGIADO NÃO RECONHECIDA. VIOLENTA EMOÇÃO AFASTADA PELO ACÓRDÃO IMPUGNADO, POR TER SIDO RECHAÇADA PELOS JURADOS. IMPOSSIBILIDADE DE REVISÃO EM HABEAS CORPUS E RISCO DE OFENSA À SOBERANIA DOS VEREDICTOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. No caso, o Tribunal local afastou a causa especial de redução de pena do homicídio privilegiado, visto que o Conselho de Jurados rechaçou a tese de que o recorrente agiu sob violenta emoção. No entender desta Corte, não é possível revisar tal entendimento, pois, " n o tocante ao reconhecimento do homicídio privilegiado, na espécie, o Tribunal local constatou a existência de provas em consonância com a conclusão dos jurados, no sentido que o paciente NÃO agiu sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima. Diante dessa situação, não há como se infirmar esse entendimento sem o reexame fático-probatório - inviável em habeas corpus -, e sem afronta à soberania dos veredictos" (AgRg no HC n. 671.316/SC, relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 28/9/2021, DJe de 5/10/2021).
+4. Agravo regimental desprovido." (AgRg no HC n. 737.744/PE, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 18/11/2022.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. LESÃO CORPORAL PRIVILEGIADA. RECONHECIMENTO. NECESSIDADE DE ANÁLISE APROFUNDADA DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VIA ELEITA. COAÇÃO ILEGAL NÃO CARACTERIZADA. AGRAVO DESPROVIDO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. Para a aplicação do art. 129, § 4º, do Código Penal (lesão corporal privilegiada), é necessário que o agente cometa o delito sob o domínio de violenta emoção logo em seguida à injusta provocação da vítima.
+3. No presente caso, o Tribunal de origem consignou que não houve injusta provocação por parte da vítima a ponto de fazer o acusado agir sob domínio de violenta emoção. Assim, concluir em sentido contrário ao entendimento manifestado pela Corte a quo demandaria revolvimento do acervo fático-probatório, procedimento inviável na via estreita do habeas corpus.
+4. Agravo regimental desprovido." (AgRg no HC n. 559.005/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/4/2020.)
+Ademais, não verifico nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
