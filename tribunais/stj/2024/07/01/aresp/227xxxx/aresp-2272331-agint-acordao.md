@@ -1,0 +1,131 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 283 DO STF. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. RAZÕES RECURSAIS DEFICIENTES. SÚMULA N. 284 DO STF. INCIDÊNCIA. HONORÁRIOS RECURSAIS. FINALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Afasta-se a alegação de vício de fundamentação quando a decisão recorrida assenta-se em fundamentos hábeis e suficientes para amparar as conclusões adotadas, sendo desnecessária a menção específica a todos os argumentos suscitados pela parte.
+2. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o julgado impugnado configura deficiência na fundamentação (Súmula n. 283 do STF).
+3. Refoge da esfera de competência do Superior Tribunal de Justiça o exame, em sede de recurso especial, da alegação de ofensa a dispositivo da Constituição Federal.
+4. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+5. Consoante entendimento firmado pela Segunda Seção, o intuito da norma inserta no § 11 do art. 85 do CPC é o de desencorajar a interposição de recursos impertinentes e procrastinatórios e não propriamente remunerar o trabalho do advogado (AgInt nos EREsp n. 1.539.725/DF), de modo que a majoração da verba honorária em meros 3% não carece de maiores esclarecimentos.
+6. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por EMPREENDIMENTOS IMOBILIÁRIOS QUATRO IRMÃOS DE ITAPETININGA LTDA. contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento, majorando os honorários advocatícios de 12% para 15% sobre o valor atualizado da causa.
+Alega a parte agravante que a decisão impugnada não está suficientemente fundamentada, incorrendo em ofensa ao art. 93, IX, da Constituição Federal e aos arts. 11, 489 e 1.022 do CPC, por não ter se manifestado acerca das teses suscitadas em seus embargos de declaração.
+Passa a discorrer sobre o mérito da controvérsia, sustentando que "a ação foi proposta em razão da inadimplência dos agravados, aplicando-se, pois, o princípio da causalidade" e, "Nessa ordem de pensar, é completamente contraditória a condenação da agravante ao pagamento de sucumbência". Aduz que "foi majoritariamente vencedora", "não havendo justificativa à sua condenação ao pagamento do ônus sucumbencial", que deve recair integralmente sobre os agravados.
+Argumenta ainda que "há nova contradição no tocante à base de cálculo dos honorários, haja vista que a hipótese dos autos reclama a incidência sobre a condenação e não fixação pelo valor da causa".
+Afirma inaplicáveis os óbices das Súmulas n. 5 e 7 do STJ.
+Alega que a decisão agravada não fundamentou a mensuração dos honorários recursais, deixando de indicar o parâmetro utilizado para justificar o valor fixado , se o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o serviço.
+Afirma que não pretende a discussão de norma constitucional, sendo que a referência à Constituição Federal foi meramente ilustrativa.
+Sustenta inaplicável a Súmula n. 280 do STF, pois não postula reexame do contexto fático-probatório dos autos, "mas sim o dever de análise e julgamento da questão, ou seja, aplicação da nova Lei 13.786/2018".
+Por fim, alega presente o prequestionamento da questão federal suscitada e afirma que houve expressa e precisa indicação da legislação violada, devendo ser afastada a aplicação da Súmula n. 284 do STF.
+Não houve apresentação de impugnação ao agravo interno (fls. 842-843).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 283 DO STF. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. RAZÕES RECURSAIS DEFICIENTES. SÚMULA N. 284 DO STF. INCIDÊNCIA. HONORÁRIOS RECURSAIS. FINALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Afasta-se a alegação de vício de fundamentação quando a decisão recorrida assenta-se em fundamentos hábeis e suficientes para amparar as conclusões adotadas, sendo desnecessária a menção específica a todos os argumentos suscitados pela parte.
+2. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o julgado impugnado configura deficiência na fundamentação (Súmula n. 283 do STF).
+3. Refoge da esfera de competência do Superior Tribunal de Justiça o exame, em sede de recurso especial, da alegação de ofensa a dispositivo da Constituição Federal.
+4. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+5. Consoante entendimento firmado pela Segunda Seção, o intuito da norma inserta no § 11 do art. 85 do CPC é o de desencorajar a interposição de recursos impertinentes e procrastinatórios e não propriamente remunerar o trabalho do advogado (AgInt nos EREsp n. 1.539.725/DF), de modo que a majoração da verba honorária em meros 3% não carece de maiores esclarecimentos.
+6. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno desafia decisão exarada nos seguintes termos:
+EMPREENDIMENTOS IMOBILIARIOS QUATRO IRMAOS DE ITAPETININGA LTDA. interpõe agravo interno contra decisão de fls. 672-674, que não conheceu do agravo em recurso especial diante da aplicação analógica da Súmula n. 182 do STJ.
+Nas razões do presente recurso, a parte agravante alega que impugnou os fundamentos da decisão que inadmitira o recurso especial.
+Reitera as razões recursais apresentadas no agravo em recurso especial, apontando que não se aplicaria ao caso as Súmulas n. 7 e 83 do STJ e 284 do STF.
+Requer, assim, seja reconsiderada a decisão agravada ou seja submetido o recurso ao colegiado.
+As contrarrazões não foram apresentadas, conforme certidões de fls. 727 e 728.
+É o relatório. Decido.
+Razão assiste à agravante.
+Assim, na forma do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 672-674 e passo à nova análise das razões do agravo em recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1034618-30.2019.8.26.0602) assim ementado (fl. 383):
+Apelação. Compromisso de compra e venda de bem imóvel, consistente em lote de terreno. Ação de rescisão contratual c./c. reintegração de posse e indenização por perdas e danos e ação de resolução contratual c./c. restituição de quantias pagas, julgada conjuntamente. Sentença de parcial procedência da primeira ação e procedência da segunda. Determinada a complementação do preparo recursal, recolhido em valor manifestamente insuficiente. Embargos de declaração rejeitados. Agravo interno, recebido com efeito suspensivo, desprovido com imposição de multa. Novos embargos de declaração rejeitados, com multa, determinando-se a complementação do preparo, nos termos do art. 1.007, § 2º do CPC. Complementação recolhida em valor insuficiente, conforme constatado pela Contadoria judicial. Impossibilidade de se abrir uma segunda oportunidade para complementação. Deserção decretada. Carência de pressuposto extrínseco de admissibilidade recursal. Honorários majorados. RECURSONÃOCONHECIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 416-422).
+No recurso especial (fls. 424-454), a recorrente aponta violação dos arts. 3º, 8º, 11, 239, 269, 270, 271, 272, §§ 2º e 5º, 489, 1.007 e 1.022 do Código de Processo Civil, 4º da Lei estadual n. 11.608/2003 e 5º, LIV e LIV, e 93, IX, da Constituição Federal.
+Defende, em síntese, o seguinte:
+a) deficiência de fundamentação, sob o argumento de que a Corte de origem não se pronunciou sobre questão que reputa ser relevante para o deslinde do processo;
+b) nulidade absoluta por falta de intimação do advogado;
+c) mínima e irrisória diferença apontada pela contadoria e não há que se falar em reconhecimento de deserção; e
+d) não configuração de litigância de má-fé na interposição do agravo interno no presente caso.
+Requer o conhecimento e o provimento do recurso.
+Às fls. 702-722, a parte recorrente requereu a atribuição de efeito suspensivo ao agravo interno e o seu provimento, contudo o referido pedido foi indeferido conforme observa-se da decisão contida às fls. 733-734.
+Em face da referida decisão, foi interposto embargos de declaração (fls. 737-753).
+É o relatório. Decido.
+O recurso não merece prosperar.
+No que se refere às suscitadas violações dos arts. 5º, LIV e LIV, e 93, IX, da Constituição Federal, refoge da competência do Superior Tribunal de Justiça a análise de suposta ofensa a artigo da Constituição Federal.
+Nesse sentido, os seguintes julgados: AgInt no AgInt no AREsp n. 1.996.080/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022; AgInt no AREsp n. 1.934.602/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1º/7/2022.
+Em relação à alegação de afronta ao art. 4º da Lei Estadual n. 11.608/2003, o Superior Tribunal de Justiça entende que é inviável a interposição de recurso especial para exame de lei local, o que atrai a aplicação por analogia do óbice contido na Súmula n. 280 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. 1.AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL, A DESPEITO DE PRÉVIA INTIMAÇÃO PELO TRIBUNAL DE ORIGEM. DESERÇÃO. 2. DIFERIMENTO DE CUSTAS. NORMA DE DIREITO LOCAL. INVIABILIDADE DE EXAME. SÚMULA 280 DO STF. 3. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. 4.AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Com efeito, em relação ao pedido de diferimento do recolhimento de custas ao final do processo, não merece acolhimento, tendo em vista amparar-se na interpretação da Lei estadual n. 1.608/2003, o que atrai o óbice da Súmula n. 280 do STF, aplicada por analogia. .. 4. Agravo interno desprovido. (AgInt no AREsp n. 2.141.094/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXERCUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA EXEQUENTE.
+ ..
+2. É inviável a interposição de recurso especial para exame de lei local, nos termos da Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno desprovido. (AgInt no REsp n. 2.001.045/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+No mérito, o Tribunal de origem analisou as questões e, assim, decidiu (fls. 1.139-1.215):
+O preparo recolhido às fls. 247/248, no valor de R$ 514,87, era manifestamente insuficiente, razão pela qual foi determinada a complementação do preparo recursal, em cinco dias, sob pena de deserção, nos termos do art. 1.007, §2º,do CPC (fls. 262/264).
+O Apelante opôs embargos de declaração, incidente /50000, que foram rejeitados por este Relator (fls. 369/374).
+Houve interposição de Agravo Interno, para o qual foi concedido efeito suspensivo às fls. 268.
+O referido agravo interno, incidente /50001, foi julgado em 29/01/2021, para o qual foi negado provimento, por votação unânime esta Câmara, com imposição de multa, conforme disposto no art. 1.021, §4º, do CPC, de modo que eventual interposição de novo recurso ficará submetido à regra do §5º do referido artigo (fls. 339/347).
+ ..
+O Apelante foi devidamente intimado a realizar a necessária complementação do valor do preparo de fls. 262/264. Os embargos de declaração, incidente /50000, foram rejeitados (fls. 369/374). O agravo interno, incidente /50001,foi desprovido com imposição de multa (fls. 339/347). Os novos embargos de declaração, incidente /50003, foram rejeitados com multa (fls. 304/311), restando consignado que:
+ ..
+No caso em tela, em atenção ao comando contido no artigo 1.007, §2º, do Código de Processo Civil, foi dada ao Apelante a oportunidade de complementar o valor do preparo, o que de fato não ocorreu corretamente, visto que efetuou o recolhimento em montante inferior, conforme apontado pela Contadoria.
+ ..
+Diante do exposto, impõe-se a aplicação da pena de deserção prevista no art. 1.007, §2º, do CPC, carecendo o recurso de pressuposto de admissibilidade, motivo pelo qual o recurso não pode ser conhecido.
+No tocante à alegada violação dos arts. 1.022 e 489 do Código de Processo Civil (item a), não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Ademais, no presente caso, a parte recorrente suscitou no item d que não se configura litigância de má-fé a interposição do Agravo Interno, todavia não se desincumbiu de demonstrar, de forma clara e específica, a alegada violação de legislação federal, especialmente porque deixou de indicar de que forma o Acórdão recorrido teria contrariado os dispositivos indicado na peça recursal, a saber: arts. 24 da Lei n. 8.906, 85, § 14, 525 e 803 do Código de Processo Civil.
+A arguição de afronta a normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, mediante a citação de artigos sem a efetiva demonstração da contrariedade de lei federal, impede o conhecimento do recurso especial por deficiência de fundamentação.
+Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão" (AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022).
+Impõe-se, portanto, a aplicação, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia."
+A esse respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO MINISTRO PRESIDENTE DESTA CORTE PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DO DISPOSITIVO SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. Os arts. 36 e 37 do CTN, tidos por contrariados, são normas cuja interpretação também depende dos preceitos estabelecidos nos seus incisos e parágrafos - nenhum apontado como violado.
+2. Com efeito, não basta a indicação genérica do dispositivo supostamente violado sem que se especifique qual o comando normativo está sendo afrontado, se seu caput, incisos ou parágrafos. Efetivamente, há deficiência na fundamentação recursal por negativa genérica de lei federal se os dispositivos tidos por violados encerram vários incisos ou parágrafos e a parte recorrente não especifica qual teria sido vulnerado pelo acórdão recorrido. Incidência da Súmula 284 do STF.
+3. Agravo Interno da Empresa desprovido. (AgInt no AREsp n. 1.504.650/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 25/11/2019, DJe de 29/11/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284 DO STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+2. "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/6/2018).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.559.881/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 18/2/2020, DJe de 27/2/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.3. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Confiram-se ainda estes julgados: AgInt no REsp n. 1.409.884/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/8/2022, DJe de 12/8/2022; AgInt no AREsp n. 2.013.867/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022; EDcl no AgInt no REsp n. 1.581.336/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/3/2022, DJe de 31/3/2022.
+Quanto à alegação de afronta aos arts. 3º, 8º, 11, 239, 269, 270, 271, 272, §§ 2º e 5º, e 1.007 do Código de Processo Civil, (itens b e c), sob a alegação de nulidade absoluta por falta de intimação do advogado e de que não há que se falar em reconhecimento de deserção, pois a diferença apontada pela contadoria seria mínima e irrisória, a Corte de origem consignou que a recorrente "foi devidamente intimado a realizar a necessária complementação do valor do preparo"(fl. 386) e que "foi dada ao Apelante a oportunidade de complementar o valor do preparo, o que de fato não ocorreu corretamente, visto que efetuou o recolhimento em montante inferior, conforme apontado pela Contadoria" (fl. 387).
+Dessa forma, a adoção de conclusões diversas das assentadas pelo acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, medidas inviáveis em recurso especial, em razão do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTENO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C CANCELAMENTO DE PROTESTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação revisional de contrato c/c cancelamento de protesto.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Alterar o decidido no acórdão impugnado, no que se refere à redução do valor da multa contratual, em razão da aplicação da teoria da imprevisão, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+4. Agravo interno não provido. (AgInt no REsp n. 1.986.936/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. COBRANÇA DE MULTA POR RESCISÃO DE CONTRATO DE LOCAÇÃO DE PRÉDIO COMERCIAL. NÃO INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. REAL INTENÇÃO DOS CONTRATANTES. CÂNONE HERMENÊUTICO DA TOTALIDADE E DA COERÊNCIA. FINS ALMEJADOS PELAS PARTES. TEORIA DA IMPREVISÃO. FATO SUPERVENIENTE IMPREVISÍVEL. ENRIQUECIMENTO ILÍCITO. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. A própria Corte de origem transcreveu o artigo do instrumento contratual que referencia a questão da exigibilidade da cobrança de multa por rescisão contratual de locação em prédio comercial, de modo que tal fato permite melhor análise do tema, sem que haja incursão nos óbices previstos nas Súmulas 5 e 7 do STJ.
+ ..
+12. A simples interposição de agravo contra decisão do relator não implica a imposição da multa prevista no art. 1.021, § 4º, do CPC
+13. Agravo interno não provido. (AgInt no AgInt nos EDcl no AREsp n. 1.475.627/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/2/2020, DJe de 5/3/2020.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento, ficando, por conseguinte, prejudicados os embargos de declaração de fls. 737-753.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 12%, percentual arbitrado na instância de origem, para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+O agravo interno não merece prosperar.
+Inexiste, como já assentado, qualquer deficiência de fundamentação ou negativa de prestação jurisdicional, seja do acórdão recorrido, seja da decisão agravada, eis que ambos julgaram os recursos que lhe foram submetidos valendo-se de fundamentos hábeis e suficientes às conclusões exaradas, sendo certo que o julgador não está obrigado a se manifestar sobre todo e qualquer argumento suscitado pelas partes, quando já encontrou fundamento suficiente para embasar sua conclusão.
+A agravante discorre longamente sobre o mérito do recurso especial e limita-se a alegar de forma genérica a inaplicabilidade dos óbices das Súmulas n. 5 e 7 do STJ, argumentando, apenas, ser suficiente a revaloração do contexto fático-probatório. Dessa forma, forçoso reconhecer que não se desincumbiu da necessária impugnação específica aos fundamentos da decisão agravada, pois as alegações genéricas deduzidas a tanto não se prestam. Incidência, por analogia, da Súmula n. 283 do STF.
+Alega que a referência à Constituição Federal foi meramente ilustrativa, porém, colhe-se de suas razões recursais a expressa assertiva de que:
+Houve patente violação ao artigo 93, inciso IX da Magna Carta e aos artigos 11 e 489 do Código de Processo Civil.
+Contrariando o comando constitucional, percebe-se claramente que a decisão não está suficientemente fundamentada, tornando-a nula de pleno direito.
+Assim, correto o fundamento da decisão agravada de que refoge da competência do Superior Tribunal de Justiça a análise de suposta ofensa a artigo da Constituição Federal.
+A agravante sustenta inaplicável a Súmula n. 280 do STF, por não postular o reexame do contexto fático-probatório dos autos, "mas sim o dever de análise e julgamento da questão, ou seja, aplicação da nova Lei 13.786/2018".
+As razões recursais encontram-se dissociadas do fundamento adotado na decisão agravada, atraindo a incidência da Súmula n. 284 do STF. Percebe-se que a agravante confunde o teor da Súmula n. 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário") com a Súmula n. 7 do STJ.
+No tocante à alegação de que presente o prequestionamento da questão federal, anote-se que, em momento algum, a decisão agravada adotou como fundamento a falta de prequestionamento.
+Por sua vez, no que tange à apontada ausência de efetiva demonstração da contrariedade à lei federal, novamente as razões recursais não logram suprir tal vício, cingindo-se a alegações genéricas de que os dispositivos invocados restaram malferidos, mas sem a demonstração compreensível de tal ofensa.
+Por fim, quanto à fixação dos honorários recursais, a decisão agravada majorou em meros 3% os honorários anteriormente arbitrados na origem (de 12% para 15%), nem sequer atingindo o limite máximo permitido pela lei.
+Cumpre salientar que a Segunda Seção, no julgamento do AgInt nos EREsp n. 1.539.725/DF, concluiu que o intuito da norma inserta no § 11 do art. 85 do CPC é o de desencorajar a interposição de recursos impertinentes e procrastinatórios e não propriamente remunerar o trabalho do advogado.
+Assim, vai mantida a fixação dos honorários recursais tal como fixada na decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
