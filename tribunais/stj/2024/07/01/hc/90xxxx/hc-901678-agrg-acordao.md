@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS FERNANDO BUENO TEIXEIRA PILASTRE contra decisão da minha relatoria que não conheceu do habeas corpus substitutivo de recurso próprio (e-STJ fls. 223/227).
+O agravante sustenta, em síntese, que: a) "no caso em tela, o restante do acervo probatório produzido em juízo não era suficiente para a condenação do agravante. Assim, nos parece possível, no caso em análise, como argumentado, sem revolvimento probatório, mas de valoração dos vetores da adequação, fragmentariedade e proporcionalidade da conduta, proceder a correta adequação jurídica da causa" (e-STJ fl. 240); e b) "com relação ao regime de cumprimento de pena, deve-se esclarecer que a imposição do regime inicial fechado ao paciente é ilegal, porquanto viola o princípio da proporcionalidade e da legalidade." (e-STJ fl. 241).
+Por fim, requereu que "seja reconsiderada a r. decisão monocrática de fls. 223/227 ou provido o presente Agravo Regimental e, consequentemente, concedida a ordem em sua integralidade, nos termos acima postulados" (e-STJ fl. 243).
+O Ministério Público, embora intimado, não se manifestou (e-STJ fls. 252/253).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo, mas o agravante não impugnou todos os fundamentos da decisão ora agravada, quais sejam: a) "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso adequado, situação que implica o não conhecimento da impetração" (e-STJ fl. 224); b) "não vejo flagrante ilegalidade a ser observada, haja vista que o tribunal a quo não teria fundamentado tão somente com bases nos elementos de provas produzidos na fase inquisitorial (extrajudicial) à condenação do paciente" (e-STJ fl. 224); e c) "No que tange ao pedido de alteração do regime inicial da pena privativa de liberdade, firmou-se no Superior Tribunal de Justiça o entendimento segundo o qual a existência de justa causa, devidamente fundamentada, autoriza o recrudescimento do regime prisional inicial pelo julgador" (e-STJ fl. 226).
+Com efeito, verifica-se que o ora agravante limitou-se a reiterar os argumentos lançados em sede de habeas corpus. Nos termos da Súmula 182, do C. STJ, é inviável o conhecimento do agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada.
+É nesse sentido o entendimento desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA DE MULTA. CARÁTER SANCIONADOR PENAL. EXTINÇÃO DA PUNIBILIDADE. NECESSIDADE DE PRÉVIA AUDIÊNCIA. RESP INADMITIDO NA ORIGEM. ARESP NÃO CONHECIDO. SÚMULA 182/STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. HIPOSSUFICIÊNCIA FINANCEIRA DO EXECUTADO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. NECESSIDADE DE EXAME PROBATÓRIO. IMPOSSIBILOIDADE. SUMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (decisão de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+2. Com efeito, como tem reiteradamente decidido esta Corte Superior, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+3. Ainda que assim não fosse, constatado o inadimplemento da pena de multa aplicada cumulativamente à privativa de liberdade, o Juízo da Execução Criminal deverá, antes de deliberar acerca da extinção da punibilidade, intimar o reeducando para efetuar o pagamento, ressaltando a possibilidade de parcelamento, a pedido e conforme as circunstâncias do caso concreto (art. 50, caput, do CP), bem como oportunizando ao condenado comprovar, se for o caso, a absoluta impossibilidade econômica de arcar com seu valor sem prejuízo do mínimo vital para a sua subsistência e de seus familiares.
+4. In casu, o Tribunal de origem indeferiu a extinção da punibilidade ao reeducando, afastando a tese de que o valor da execução é inferior ao limite mínimo exequível pela Legislação Estadual.
+5. Ademais, a "alegação de pobreza" somente restou apresentada pela defesa em embargos de declaração que foram rejeitados pelo Tribunal a quo que consignou: com a prolação da decisão que indeferiu a petição inicial, sequer foi possível analisar a impossibilidade econômica absoluta do sentenciado para efetuar o pagamento da multa, ainda que parceladamente, o qual não comprovou tal impossibilidade de plano, podendo demonstrar eventual incapacidade no decorrer do processo de execução.
+6.Daí, além de ausência do devido prequestionamento do tema, para decidir que há hipossuficiência do reeducando, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.340.649/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.) Grifos acrescidos.
+Ademais, é obrigação do agravante apresentar, de maneira clara e precisa, a razão ou motivos de fato e de direito do seu descontentamento, rebatendo os fundamentos da decisão contra a qual recorreu. Essa explicação deve sustentar a solicitação de revisão e é um requisito essencial para definir o escopo da matéria contestada e, consequentemente, a extensão e a profundidade do efeito devolutivo do recurso interposto, bem como a possibilidade do exercício efetivo contraditório.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
