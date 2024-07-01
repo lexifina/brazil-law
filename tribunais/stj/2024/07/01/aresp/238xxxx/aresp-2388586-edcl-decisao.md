@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo SINDICATO DOS SERVIDORES PÚBLICOS FEDERAIS EM SAÚDE, TRABALHO, PREVIDÊNCIA E AÇÃO SOCIAL DO ESTADO DO PARA NÁ contra decisão, de minha lavra, em que conheci do agravo para não conhecer do recurso especial.
+Passo a decidir.
+Em sessão de julgamento realizada em 07/03/2024, a Segunda Seção do STJ acolheu questão de ordem proposta pelo Min. Rel. no REsp 1.774.204/RS afetando o Tema 1.033 - Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas. - à Corte Especial.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento dos paradigmas, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 492/497, tornando-a sem efeito, e DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo. Prejudicados os embargos de declaração de e-STJ fls. 707/712 .
+Publique-se. Intimem-se.
+EMENTA
