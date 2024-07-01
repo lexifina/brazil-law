@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PENHORA DO BEM DE FAMÍLIA. FIADOR. CABIMENTO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. É válida a penhora do bem de família de fiador apontado em contrato de locação de imóvel, seja residencial, seja comercial, nos termos do inciso VII do art. 3º da Lei n. 8.009/1990. Incidência da Súmula 83 do STJ.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Ricardo João Chamie e outra (fls. 1028-1034 e-STJ), em face de acórdão proferido em sede de agravo interno, assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. PRECEDENTES DO STJ E STF. PENHORABILIDADE DE BEM DE FAMÍLIA. FIADOR. LOCAÇÃO DE IMÓVEL COMERCIAL. SÚMULA 83 DO STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. É válida a penhora do bem de família de fiador apontado em contrato de locação de imóvel, seja residencial, seja comercial, nos termos do inciso VII do art. 3º da Lei n. 8.009/1990. Precedentes.
+3. A parte agravante interpôs o segundo embargos de declaração com o nítido propósito de rediscutir a decisão, o que não se presta a via eleita, circunstância a evidenciar o caráter manifestamente protelatório dos embargos de declaração, o que enseja a validade da aplicação da multa prevista no artigo 1.026, § 2º, do CPC;
+4. Agravo interno a que se nega provimento.
+Em razões de embargos de declaração (fls. 1028-1034 e-STJ), a parte embargante alega que houve duas omissões do acórdão embargado. Afirma que a primeira "diz respeito ao que vem sendo alegado, desde a interposição do agravo em recurso especial, no sentido de que não se ignora que foi consolidado no Tema n. 1.091 a possibilidade de penhora de bem de família de fiador de imóvel comercial".
+Argumenta que "não foi abarcado no julgamento do recurso repetitivo a questão atinente a fiador idoso e/ou portador de doença grave (in casu, os embargantes não só são idosos, como Iara veio a falecer de leucemia) abarcada pelo artigo 37 da Lei n. 10.741/2003, aduzindo que houve violação da dignidade da pessoa humana, da proteção à família e do direito à moradia inerente à pessoa idosa" (fl. 1029 e-STJ). Por isso, aduz que o caso específico dos autos não se adequada especificamente ao Tema n. 1091 do STJ, tendo em vista que se trata de fiador idoso e/ou portador de doença grave.
+Alega que a segunda omissão apontada diz respeito à multa prevista no art. 1.026, §2º, do Código de Processo Civil, pois o Tribunal de origem teria aplicado indevidamente a multa de 2% (dois por cento) sobre o valor da causa, "por entender que aquele recurso era protelatório".
+Afirma, contudo, que os embargos de declaração não eram protelatórios, pois "o próprio conteúdo da decisão que rejeitou os referidos embargos termina por reconhecer que referida questão não fora decidida anteriormente, ou seja, os embargos eram cabíveis. Se assim não fosse, a decisão que julgou os segundos embargos teria mantido a decisão que julgou os primeiros embargos sem qualquer alteração" (fl.1031 e-STJ).
+A parte embargada foi devidamente intimada e apresentou contrarrazões às fls. 1037-1043 e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PENHORA DO BEM DE FAMÍLIA. FIADOR. CABIMENTO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. É válida a penhora do bem de família de fiador apontado em contrato de locação de imóvel, seja residencial, seja comercial, nos termos do inciso VII do art. 3º da Lei n. 8.009/1990. Incidência da Súmula 83 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022, do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existente no julgado, o que não é a hipótese dos autos.
+Quanto à primeira questão, percebe-se que o acórdão embargado se manifestou expressamente, inclusive mencionando que a penhora de imóvel de fiador no contrato de locação residencial ou comercial é aplicável independentemente das condições pessoais que o garantidor reúna, ao contrário do alegado pela parte embargante.
+Confira trechos do acórdão:
+"(..) Seguindo-se nessa linha, a Segunda Seção desta Corte também definiu em julgamento recente de Relatoria do Ministro Luis Felipe Salomão no RESp n. 1.822.033/PR, julgado em 8.6.2022, Dje de 1.8.2022, e sob o rito dos recursos especiais repetitivos, acerca da possibilidade de penhora do bem de família de fiador em contrato de locação de imóvel residencial ou comercial, nos moldes do art. 3º, VII, da Lei n. 8.009/90.
+A propósito, transcrevo a ementa do referido acórdão:
+PROCESSO CIVIL. DIREITO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 1.036 DO CPC. EXECUÇÃO. LEI N. 8.009/1990. ALEGAÇÃO DE BEM DE FAMÍLIA. FIADOR EM CONTRATO DE LOCAÇÃO COMERCIAL E RESIDENCIAL. PENHORABILIDADE DO IMÓVEL. POSSIBILIDADE. PRECEDENTES DO STF E DO STJ.1. Para fins do art. 1.036 do CPC: "É válida a penhora do bem de família de fiador apontado em contrato de locação de imóvel, seja residencial, seja comercial, nos termos do inciso VII do art. 3º da Lei n. 8.009/1990."2. No caso concreto, recurso especial provido.(R
+Esp n. 1.822.033/PR, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 8/6/2022, DJe de 1/8/2022).
+Por isso, seguindo-se o entendimento desta Corte, o imóvel do fiador é penhorável, seja residencial ou comercial.
+Na hipótese dos autos, o Tribunal de origem entendeu que o bem imóvel do fiador referido seria penhorável, e que este se tratava de locação comercial, nos seguintes termos:
+(..)
+Nesse sentido, apesar do Tribunal de origem não ter realizado essa diferenciação, mas tão somente ter aplicado o precedente anterior que invocava a penhorabilidade do bem imóvel do fiador, independentemente das circunstâncias, ainda assim percebe que está em consonância com a jurisprudência desta Corte a respeito da validade da penhora de bem de família de fiador apontado em contrato de locação de imóvel, seja residencial ou comercial.
+Assim, mesmo que o imóvel da parte agravante seja comercial, seria possível a sua penhora, nos termos da jurisprudência desta Corte.
+Por isso, incide o óbice da Súmula 83 do STJ, a qual dispõe que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", aplicável tanto para a hipótese da alínea "c", do art. 105, III, da Constituição Federal, como para a alínea "a" do mesmo dispositivo, prejudicando-se, por conseguinte, o dissídio jurisprudencial apontado" (fls. 1016-1020 e-STJ).
+Quanto à segunda questão, o acórdão embargado igualmente fundamentou no sentido de que a multa aplicada pelo Tribunal de origem também seria devida, em razão da oposição de dois embargos de declaração pelo embargante que discutiam as mesmas matérias anteriormente já alegadas.
+Conforme trechos do acórdão embargado:
+"Quanto ao art. 1.026, § 2º, do CPC, é pacífica a jurisprudência desta Corte Superior no sentido de que é correta a aplicação da multa pela oposição de segundos embargos de declaração com o fim exclusivo de modificar decisão isenta de vícios por serem protelatórios:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 568/STJ. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. MULTA DO ART. 1.026, § 2º, DO CPC/2015. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. O Superior Tribunal de Justiça entende não violar o art. 1.022 do CPC/2015 nem importar negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia. 3. Não hipótese, impõe-se a aplicação da multa de que trata o § 2º do art. 1.026 do Código de Processo Civil de 2015 ante a oposição de declaratórios de caráter manifestamente protelatório. 4. Agravo interno não provido" (AgInt no AREsp 1.433.405/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/8/2019, DJe de 30/8/2019).
+(..)
+Da leitura dos embargos de declaração de fls. 290-298 e-STJ e de fls. 368-374 e-STJ, verifica-se que ambos buscam a reanálise de matéria já examinada no acórdão de fls. 253-264 e-STJ, qual seja: impenhorabilidade do bem de família do fiador em sede de locação comercial.
+Por isso, correta a aplicação de multa de 2% (dois por cento) sobre o valor da causa diante do nítido caráter protelatório de segundos embargos de declaração" (fls. 1020-1021 e-STJ).
+Percebe-se, assim, que não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Assim, não merece prosperar sua oposição, tendo em vista que todas as teses apontadas já foram, inclusive, afastadas por esta Corte.
+Reitero ainda que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Relator Ministro Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, Dje 28.8.2014.
+Por fim, por ora , não prospera o pedido da parte embargada pela aplicação de multa prevista no art. 1.026, §2º, do CPC, posto que não é automática e depende do intuito manifestamente protelatório dos embargos de declaração, o que não é a hipótese presente.
+Advirto às partes, contudo, que a posterior oposição de incidentes manifestamente improcedentes e protelatórios, dará azo à aplicação das penalidades previstas, nos termos do art. 80, VII, CPC; art. 918, parágrafo único, CPC; art. 1.026, §2º, CPC.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
