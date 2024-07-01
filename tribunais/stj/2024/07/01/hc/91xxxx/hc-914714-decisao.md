@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CLAUDSON DOS SANTOS AVELINO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (fls. 30-32):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, §2º, E IV, DO CP) LESÃO CORPORAL GRAVE (ART. 129, §1º, I, DO CP). PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. NÃO ACOLHIMENTO. REPETIÇÃO DE PEDIDOS JÁ EXAMINADOS NA OPORTUNIDADE DO JULGAMENTO DE OUTROS MANDAMUS (HC Nº 202300323234 E HC Nº 202300343063). PLEITO DE EXTENSÃO DO BENEFÍCIO PREVISTO NO ARTIGO 580 DO CPP. IMPOSSIBILIDADE. CORRÉUS QUE RESPONDEM EM LIBERDADE. CONDIÇÕES PESSOAIS DISTINTAS. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA NA HIPÓTESE. CONSTRANGIMENTO ILEGAL NÃO CONSTATADO. HABEAS CORPUS CONHECIDO EM PARTE E NA PARTE CONHECIDA ORDEM DENEGADA. UNANIMIDADE.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes descritos no artigo 121, § 2º, c/c o artigo 129, todos do Código Penal.
+Neste writ, alega o impetrante, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a decretação da prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Aduz que há excesso de prazo para a formação da culpa, uma vez que o paciente encontra-se preso desde 2/9/2021.
+Alega, ainda, a possibilidade de extensão dos efeitos da decisão que concedeu liberdade provisória aos codenunciados, nos termos do disposto no artigo 580 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que com a sua substituição por medidas cautelares diversas.
+Indeferida a liminar e prestadas as informações, o Ministério Público federal manifestou-se pelo não conhecimento do habeas corpus.
+De início, cumpre ressaltar que o rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante. No caso, a defesa não colacionou aos autos a íntegra do decreto prisional, o que impede a apreciação da pretensão. Dessa forma, a ausência de peça essencial ao deslinde da controvérsia, impede o exame sobre as alegações, razão pela qual não deve ser conhecido nessa parte o presente writ, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido. (AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020.)
+De outro giro, está sedimentado nesta Corte o entendimento de que o pedido de extensão deve ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não ocorre no presente caso, de modo que, também nesse ponto, a impetração não comporta conhecimento.
+Por fim, no que se refere ao alegado excesso de prazo, em que pese as alegações defensivas, verifica-se que foi proferida sentença de pronúncia em 10/4/2024 (fls. 56-59), o que atrai a incidência da Súmula 21/STJ, in verbis: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução". Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO. FEITO COMPLEXO. PLURALIDADE DE RÉUS. DEMORA INJUSTIFICADA NÃO EVIDENCIADA. DECISÃO DE PRONÚNCIA. SÚMULA 21 DO STJ. AGRAVO IMPROVIDO.
+1. O constrangimento ilegal por excesso de prazo somente pode ser reconhecido quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal, o que não se verifica na hipótese, em que se trata de feito complexo, com pluralidade de réus, devendo ser consideradas, ainda, as restrições causadas pela COVID-19.
+2. A alegação de excesso de prazo encontra-se superada, uma vez que houve a prolação da decisão de pronúncia, nos termos da Súmula 21 do STJ.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 140.977/BA, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/8/2021, DJe de 20/8/2021.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
