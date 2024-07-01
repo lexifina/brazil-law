@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADES DE TELECOMUNICAÇÃO. CRIME DO ART. 183 DA LEI N. 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. SÚMULA N. 606 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO ESPECIAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento dominante desta Corte Superior é no sentido de que o delito do art. 183 da Lei n. 9.472/1997 é crime formal e de perigo abstrato, razão pela qual não cabe a aplicação do princípio da insignificância. Este entendimento foi materializado na Súmula n. 606 do STJ: "não se aplica o princípio da insignificância a casos de transmissão clandestina de sinal de internet via radiofrequência, que caracteriza o fato típico previsto no artigo 183 da Lei 9.472/97".
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLODOALDO PACHECO DE SOUZA contra decisão de fls. 316/320, em que dei provimento ao recurso especial do parquet para restabelecer a condenação de primeiro grau do ora agravante, diante da inviabilidade da aplicação do princípio da insignificância ao delito do art. 183 da lei n. 9.472/97.
+A defesa repisa os argumentos expendidos no apelo especial, alegando que " ..  se trata de crime de natureza material, cujo tipo penal exige a produção material do resultado, qual seja comprometer a regularidade e a operabilidade do sistema de telecomunicações, o que inocorreu no caso em espécie" (fl. 333).
+Requer a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADES DE TELECOMUNICAÇÃO. CRIME DO ART. 183 DA LEI N. 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. SÚMULA N. 606 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO ESPECIAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento dominante desta Corte Superior é no sentido de que o delito do art. 183 da Lei n. 9.472/1997 é crime formal e de perigo abstrato, razão pela qual não cabe a aplicação do princípio da insignificância. Este entendimento foi materializado na Súmula n. 606 do STJ: "não se aplica o princípio da insignificância a casos de transmissão clandestina de sinal de internet via radiofrequência, que caracteriza o fato típico previsto no artigo 183 da Lei 9.472/97".
+2. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+O agravante não trouxe argumento apto a ensejar a reforma do juízo monocrático, assim, não há razões para alterar a decisão agravada, que fica mantida, in verbis (fls. 317/320):
+"O TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO concluiu pela atipicidade da conduta, aplicando o princípio da insignificância, nos seguintes termos do voto da relatora (fls. 245/246):
+"Não obstante a posição até então adotada, no sentido de inaplicabilidade do princípio da insignificância no caso de rádio clandestina, passo a acompanhar o entendimento majoritário firmado nesta Terceira Turma, em sentido contrário.
+O reconhecimento da atipicidade da conduta com suporte na aplicação do princípio da insignificância deve observar os seguintes requisitos: (i) conduta minimamente ofensiva do agente; (ii) ausência de risco social da ação; (iii) reduzido grau de reprovabilidade do comportamento; e (iv) inexpressividade da lesão jurídica.
+O conjunto probatório reforça a tese de irrelevância penal, pois, apesar da conduta do acusado constituir delito formal, não se tem qualquer elemento que possa atentar contra a segurança dos serviços de comunicação regular.
+Para a incidência da norma penal incriminadora é indispensável que se atinja o bem jurídico protegido.
+Assim, a ofensividade e a lesividade da conduta praticada constituem a razão do distinguishing.
+Destaco que a Lei 9.612/1998, ao dispor sobre o serviço de Radiodifusão Comunitária, define em seu art. 1º, § 1º, que: entende-se por baixa potência o serviço de radiodifusão prestado a comunidade, com potência limitada a um máximo de 25watts ERP e altura do sistema irradiante não superior a trinta metros.
+De acordo com a Nota Técnica 149/2015-GR10F12 emitida pela ANATEL, a rádio denominada ASSOCIAÇÃO DE RADIOFUSÃO EDUCADORA COMUNITÁRIATIM JOVEM FM -ARDIECO funcionava sem autorização do órgão competente e utilizava aparelho transmissor com potência de 93 Watts (Doc. 122287527, fl. 12).
+Apesar da considerável potência do equipamento apreendido, inexiste nos autos prova de lesão concreta, consubstanciada em interferência radioelétrica prejudicial aos demais meios de telecomunicação, especialmente o aeronáutico.
+Conforme também se extrai da referida perícia técnica: i) Dadas as características de potência e frequência apresentadas, aliadas às condições de instalação do sistema irradiante, estima-se que o sinal emitido pela rádio possa excitar um receptor localizado a uma distância de cerca de 6.38 Km do ponto de origem das emissões, suficiente para cobrir toda a sede do município; ii) A estação ao utilizar um canal de frequência destinada ao Serviço de Radiodifusão Sonora em Frequência Modulada (SRSFM) transforma-se em potencial fonte de radio interferência (Doc. 122287527, fls. 14-15).
+Meras ilações não se prestam a fundamentar o decreto condenatório, que deve se alicerçar em provas contundentes da efetiva lesão.
+Afiguram-se, assim, preenchidos os vetores para a incidência do princípio da insignificância.
+ ..
+Quanto à inaplicabilidade do princípio da insignificância em razão do enunciado 606 da Súmula do STJ, considero inviável a sua observância. Isso porque o crime teria ocorrido em 2014 e a referida súmula foi editada pelo Superior Tribunal de Justiça em 2018. Assim, estamos diante do fenômeno da retroatividade jurisprudencial mais benéfica e, nesse sentido, entendo que a jurisprudência, quando dispõe sobre direito penal, está sujeita às regras do princípio da legalidade, não podendo retroagir para prejudicar o réu.
+Embora haja decisões contrárias, se a lei penal pode retroagir para beneficiar o réu, a jurisprudência também poderá assim fazê-la, com o afastamento do entendimento jurisprudencial mais gravoso."
+O entendimento dominante desta Corte Superior é no sentido de que o delito do art. 183 da Lei n. 9.472/1997 é crime formal e de perigo abstrato, razão pela qual não cabe a aplicação do princípio da insignificância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO CLANDESTINA DE ATIVIDADE DE TELECOMUNICAÇÃO. TIPICIDADE DA CONDUTA. DELITO FORMAL. INTELIGÊNCIA DA SÚMULA N. 606/STJ. EXISTÊNCIA DE FUNDAMENTO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA N. 126/STJ. DESPROVIMENTO.
+1. In casu, ressaltou o Tribunal regional que "o desenvolvimento clandestino de atividades de telecomunicação, tipificado pelo artigo 183 da Lei 9.472/97, constitui delito formal, bastando, para sua configuração, que seja o aparelho instalado e colocado em funcionamento sem a devida autorização. Não há necessidade de comprovação de potencialidade lesiva do aparelho e por isso não há que se falar em aplicação do princípio da insignificância", posicionamento esse que se coaduna com a jurisprudência desta Corte. Precedentes.
+2. "Não se aplica o princípio da insignificância a casos de transmissão clandestina de sinal de internet via radiofrequência, que caracteriza o fato típico previsto no art. 183 da Lei n. 9.472/1997" (Súmula n. 606/STJ).
+3. "É inadmissível recurso especial, quando o acordão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula n. 126, Corte Especial, julgado em 9/3/1995, DJ de 21/3/1995).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.192.528/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 23/4/2024, DJe de 26/4/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADES DE TELECOMUNICAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. SÚMULA N. 606/STJ. VÍCIOS INEXISTENTES. MERA REDISCUSSÃO.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP, situações que não se fazem presentes.
+2. Não se verifica vício no acórdão embargado. A matéria foi decidida com a devida e clara fundamentação, ao concluir "no sentido da inaplicabilidade do princípio da insignificância ao delito previsto no art. 183 da Lei 9.472/97, por tratar-se de crime formal, de perigo abstrato, o que torna irrelevante a ocorrência de dano concreto causado pela conduta do agente." (AgRg nos EREsp n. 1.177.484/RS, Terceira Seção, rel. Min. Reynaldo Soares da Fonseca, DJe de 15/12/2015.)
+3. Com efeito, não se trata de hipótese de superação do óbice da Súmula n. 606/STJ, sendo irrelevante a ocorrência ou não de dano concreto pela conduta do agente, uma vez que é típica a conduta, ainda que decorrente de retransmissão de sinal de TV a cabo, como destacado no acórdão prolatado pela Quinta Turma (AgRg no Recurso Especial n. 1.786.868/RJ), não se tratando, tampouco, de hipótese de distinguishing com relação ao precedente supramencionado.
+4. O mero inconformismo da parte embargante com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração, que, inclusive, não se prestam para provocar o reexame da causa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg na RvCr n. 5.838/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 13/3/2024, DJe de 18/3/2024.)
+Este entendimento foi materializado na Súmula n. 606 do STJ: "não se aplica o princípio da insignificância a casos de transmissão clandestina de sinal de internet via radiofrequência, que caracteriza o fato típico previsto no artigo 183 da Lei 9.472/97. "
+Ante o exposto, voto pelo desprovimento do agravo regimental.
