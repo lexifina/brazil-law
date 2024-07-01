@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Amil Assistência Médica Internacional S/A, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pela 8ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fls. 609-617):
+EMENTA DECLARATÓRIA DE OBRIGAÇÃO DE FAZER Autora, menor de idade, foi diagnosticada com Transtorno do Espectro Autista - Negativa de tratamento de terapia intensiva Protocolo Pediasuit - Procedência decretada - Alegação de exclusão contratual que é abusiva - Rol da ANS é meramente exemplificativo e não restritivo - Negativa que não pode prevalecer, pois restringe direitos fundamentais inerentes à natureza do contrato - Cabe ao médico, e não ao plano de saúde, escolher o melhor tratamento ao paciente Verba honorária fixada em 15% sobre o valor da causa - Recurso visando à redução deste valor - Descabimento, sob pena de se dar ao advogado uma remuneração insuficiente - Verba honorária advocatícia mantida - Autora que reitera a pertinência do alegado dano moral, afastado em primeiro grau Descabimento - Inadmissibilidade Negativa da ré fundada em interpretação de cláusula contratual Ausência de dolo ou culpa da requerida (que cumpriu a tutela antecipada deferida) afasta a pretensão indenizatória a esse título Sentença mantida Recursos improvidos.
+Nas razões do especial, a parte recorrente aponta violação ao artigo 1.022, II, do Código de Processo Civil, além dos artigos 10, § 4º, e 12 da Lei nº 9.656/98 e do artigo 51, IV, do Código de Defesa do Consumidor.
+Sustenta que, não obstante a oposição de embargos de declaração, o Tribunal de origem não se manifestou sobre a ausência de previsão contratual para o método Pediasuit, nem sobre a inexistência de cobertura ilimitada para o tratamento requerido, violando, com isso, o artigo 1.022 do CPC.
+Aduz que não há norma que obrigue os planos de saúde a oferecer o serviço pleiteado.
+Argumenta que a negativa de cobertura do tratamento se encontra em total conformidade com a Lei nº 9.656/98.
+Defende que o contrato é expresso ao estabelecer que o que não consta do rol da ANS não será custeado.
+Assevera que o segurado só tem direito àquilo que contratou e que, para fazer jus a procedimentos ali não incluídos, deve pagar por plano mais abrangente e, portanto, de maior valor.
+Contrarrazões apresentadas (e-STJ, fls. 667-679).
+Assim posta a questão, passo a decidir.
+Trata-se, neste caso, de ação ajuizada por A. S. Q., representada por sua genitora, Thamara Siqueira dos Santos, contra o Plano de Saúde Ana Costa Ltda. (Amil Assistência Médica Internacional S/A), objetivando seja a parte ré compelida a fornecer tratamento fisioterápico pelo método PediaSuit, para o seu devido tratamento, por ser portadora do transtorno do espectro autista.
+A sentença julgou parcialmente procedente o pedido formulado, tornando definitiva a tutela concedida e negando a pretensão indenizatória por danos morais ( e-STJ, fls. 508-513).
+Interpostas apelações, o TJSP negou provimento aos recursos.
+Na sequência, rejeitou os embargos de declaração opostos.
+Irresignada, a Amil interpôs, então, o presente recurso especial que analiso agora.
+Da análise dos autos, verifico que merece prosperar o recurso interposto, uma vez que, ao acatar a pretensão da parte autora, ora recorrida, afastou-se o Tribunal de origem da jurisprudência mais recente do STJ no sentido de que os planos de saúde não estão obrigados a custear as terapias conhecidas como TheraSuit e PediaSuit, haja vista que se trata de procedimentos experimentais ainda não reconhecidos pelo Conselho Federal de Medicina. A propósito, confiram-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO PELO MÉTODO THERASUIT. DEVER DE COBERTURA AFASTADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Terceira e a Quarta Turma do Superior Tribunal de Justiça entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.079.609/PA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO. METÓDO PEDIASUIT. CUSTEIO. OBRIGATORIEDADE. INEXISTÊNCIA. OUTRAS TERAPIAS. ROL DA ANS. TAXATIVIDADE. MITIGAÇÃO. HIPÓTESES. MATÉRIA DE PROVA. RETORNO DOS AUTOS.
+1. A Terceira e a Quarta Turma do Superior Tribunal de Justiça entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit, seja por serem considerados experimentais, seja por demandarem órteses não ligadas a ato cirúrgico (artigo 10, I e VII, da Lei nº 9.656/1998).
+Precedentes.
+2. No julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP, a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios. Precedentes.
+3. Constatada a ausência de elementos incontroversos nos autos que demonstrem, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, impõe-se o retorno do feito ao tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.128.830/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANOS E SEGUROS DE SAÚDE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE ELABORADO PELA ANS. FISIOTERAPIA PELO MÉTODO PEDIASUIT. AUSÊNCIA DE PREVISÃO NA RELAÇÃO EDITADA PELA AUTARQUIA. MÉTODO DE CARÁTER MERAMENTE EXPERIMENTAL. EXPRESSA EXCLUSÃO LEGAL.
+1. "O Conselho Federal de Medicina, em seu PARECER CFM Nº 14/2018, publicado em maio de 2018 concluiu que as terapias propostas (TheraSuit e PediaSuit) ainda carecem de evidência científica que lhes deem respaldo e devem ser entendidas apenas como intervenções experimentais. Com efeito, o art. 10º, incisos I, V, IX, da Lei n. 9.656/1998, expressamente exclui da relação contratual a cobertura de tratamento clínico ou cirúrgico experimental, fornecimento de medicamentos importados não nacionalizados e tratamentos não reconhecidos pelas autoridades competentes" (AgInt no AREsp n. 1.960.488/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.887.055/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Em face do exposto, dou provimento ao recurso especial para julgar improcedentes os pedidos contidos na inicial, invertendo os ônus da sucumbência, os quais ficam suspensos em caso de deferimento da justiça gratuita. Julgo prejudicados os demais pontos do recurso.
+Intimem-se.
+EMENTA
