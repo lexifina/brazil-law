@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado por R S Pneus E Equipamentos Ltda., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 296):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA AFASTADA - SENTENÇA QUE CONCEDEU A SEGURANÇA PARA SOBRESJAR A COBRANÇA DA D1FAL PELO ESTADO DE SERGIPE DURANTE O ANO DE 2022 - ADI 7066 INTERPOSTA JUNTO AO STF, QUE TEVE LIMINAR INDEFERIDA PELO
+MINISTRO ALEXANDRE DE MORAES, COM EFEITO V1NCULANTE - DECISÃO QUE AFIRMA NÃO HAVER CRIAÇÃO DE NOVO TRIBUTO, AFASTANDO A OBRIGATORIEDADE DE OBSERVÂNCIA DO PRINCÍPIO DA ANTERIOR1DADE EM RELAÇÃO À LEI FEDERAL- LEI ESTADUAL QUE REGULA A COBRANÇA DA DIFAL, ESTABELECENDO ANTERI0R1DADE N0NAGES1MAL QUE DEVE SER RESPEITADA POSSIBILIDADE DE EXIGÊNCIA DA DIFAL A PARTIR DE 30/03/2022 - PRECEDENTES DESTA CORTE - RECURSO CONHECIDO E PARCIALMENTE PROVIDO UNANIMIDADE.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 323/325.
+A parte recorrente aponta, além da divergência jurisprudencial, violação aos arts. 489, §1º, e 1.022, II, do CPC/15 e 1.009 e 1.015, XIII, do CPC e 7º, §1º, da Lei 12.016/09. Sustenta, em resumo, que: (I) "incorreu em omissão quanto à inadequação da via eleita, haja vist a que a Recorrida interpôs Recurso de Apelação objetivando atacar a decisão interlocutória que concedeu a liminar" (fl. 351) e (II) "mesmo tendo assumido, no relatório, a natureza jurídica interlocutória da decisão, o E. Tribunal a quo deu parcial provimento ao recurso de apelação interposto pela Recorrida contra a decisão interlocutória que deferiu a liminar pleiteada pelas ora Recorrentes" (fl. 355).
+Parecer do Ministério Público Federal (fls. 972/976).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega a inadequação da via eleita.
+Destaca-se o seguinte trecho dos embargos (fls. 307/308):
+Tendo em vista que o art. 1.009 do CPC dispõe que a apelação é cabível contra a sentença, ao passo em que o art. 1.015, inciso XIII do mesmo Codex cumulado com o art. 7º, § 1º da Lei n 12.016/09 indica que o agravo de instrumento é o remédio processual apropriado contra as liminares, é evidente a inadequação da via recursal eleita no caso em tela, fator obstativo da análise meritória.
+ ..
+À vista disso, com a devida vênia, como o v. acórdão embargado sequer menciona a questão da inadequação da via eleita, entende as Embargantes ter havido omissão e obscuridade no decisum, na forma do art. 93, IX da CRFB/88 e artigos 489, §1º e art. 1.022, II do CPC, de modo que a decisão merece os devidos aclaramentos, com o consequente não conhecimento do recurso, em razão da não adequação da via recursal, afastando-se a aplicação do princípio da fungibilidade ante a expressa previsão em lei.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Ora, reconhecida a violação aos art. 1.022 do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, restando prejudicada a análise dos demais tópicos do apelo especial.
+ANTE O EXPOSTO, dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos o Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
+EMENTA
