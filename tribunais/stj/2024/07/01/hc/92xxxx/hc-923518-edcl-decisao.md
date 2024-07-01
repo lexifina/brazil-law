@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIO SEVERIANO DA COSTA contra decisão em que deneguei a ordem, liminarmente.
+Depreendeu-se dos autos que o embargante foi condenado a 2 anos e 4 meses de reclusão, no regime inicialmente semiaberto, pela prática de estelionato (e-STJ fls. 15/27).
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso pra redimensionar a reprimenda (e-STJ fls. 136/143).
+No writ, sustentou a defesa que "o julgamento do recurso de apelação não foi precedido de qualquer tipo de INTIMAÇÃO da pauta de julgamento, o que impossibilitou à defesa de exercer plenamente o exercício de seus direitos, bem como ao patrono constituído de apresentar suas razões orais de recurso, em sustentação oral a qual tinha a intenção de o fazer" (e-STJ fl. 4).
+Destacou, ainda, que, "quando da intimação do V. Acórdão em segundo grau, deixou de ser determinado à intimação pessoal do réu, a fim de que o mesmo possa exercer o direito de recurso, mas tão somente ocorreu à intimação do ora defensor" (e- STJ fl. 5).
+Nas razões dos presentes aclaratórios, alega a defesa que "a r. decisão monocrática combateu brilhantemente somente um dos pontos questionados, deixando de analisar o fato da falta de intimação para a data de julgamento do recurso de apelação, o qual impossibilitou a defesa de se fazer presente, bem como sustentar oralmente suas razões de recurso, ferindo assim o princípio da ampla defesa e do contraditório" (e-STJ fl. 181).
+Postula, ao final, "o acolhimentos dos presentes embargos de declaração, para o fim de sanar referida omissão, dando aos presente embargos efeitos modificativos do julgado, com a consequente deferimento da ordem de habeas corpus, já em sede de liminar, nos termos da inicial apresentada" (e-STJ fl. 183).
+É o relatório.
+Decido.
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado, na realidade, manifesta o inconformismo do embargante com o julgamento meritório, desiderato esse inadmissível em aclaratórios.
+A respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. (I) OPOSIÇÃO DE DOIS EMBARGOS IDÊNTICOS. (II) REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE FLS. 1.969/1.970 NÃO CONHECIDOS. EMBARGOS DE DECLARAÇÃO DE FLS. 1.967/1.968 REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos declaratórios.
+3. Embargos de declaração de fls. 1.969/1.970 não conhecidos. Embargos de declaração de fls. 1.967/1.968 rejeitados. (EDcl no AgRg nos EDcl no RE nos EDcl no AgRg no AREsp 639.142/SP, relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 3/8/2016, DJe 30/8/2016.)
+Com efeito, ambas as insurgências foram efetivamente enfrentadas e afastadas por este relator. Conforme se dessume da decisão embargada, "posteriormente à indicação de defensor dativo (fls. 619) o réu constituiu Advogado nos autos (fls. 630/631), tendo sido determinada a fls. 632 a adequação da autuação. Logo, quando da prolação do v. Acórdão (fls. 649/656) o réu já estava assistido por Advogado constituído, sendo suficiente a intimação deste pela imprensa oficial" (e-STJ fl. 156, grifei).
+Ou seja, "o art. 392 do CPP impõe a obrigatoriedade da intimação pessoal do réu apenas na hipótese de sentença condenatória e não do acórdão proferido em sede de apelação, sendo que, em segunda instância, apenas é devida a intimação pessoal do defensor público ou dativo, conforme a dicção do § 4º do art. 370 do mesmo diploma legal" (STJ, HC 177.475/DF, Rel. Ministro GILSON DIPP, Quinta Turma, DJe de 28/05/2012) e, em sendo o réu assistido por advogado constituído, suficiente a intimação por publicação no Diário Oficial, como na espécie" (HC n. 339.227/RJ, relator o Ministro Reynaldo Soares da Fonseca, Sexta Turma, DJe 1º/2/2017, grifei).
+É dizer, não houve nulidade, por ser despicienda a intimação pessoal do paciente tanto para o julgamento do recurso de apelação quanto do seu efetivo julgamento, bastando a publicação pela imprensa oficial do advogado constituído, como de fato ocorreu na hipótese vertente. Conforme consta do despacho de e-STJ fl. 156, "o defensor constituído foi intimado conjuntamente (DJE 19/04/2024, Caderno 2, p. 2.481)", razão pela qual não há que se falar em ausência de "qualquer tipo de INTIMAÇÃO da pauta de julgamento" (e-STJ fl. 181).
+Dessarte, inexiste o vício da omissão na decisão objurgada. Percebe-se, isso sim, uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Desse modo, não há que se falar em omissão no julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Registre-se.
+EMENTA
