@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo fundado no art. 1.042 do CPC interposto por KIRTON BANK S.A. - BANCO MULTIPLO contra decisão que: (i) negou seguimento ao recurso especial, nos termos do art. 1.030, I, "b", do CPC, por entender que o acórdão recorrido decidiu a questão referente à incidência de ISSQN em serviços bancários em conformidade com o precedente obrigatório formado no julgamento do Recurso Especial repetitivo n. 1.111.234/PR (Tema 132 do STJ); e (ii) inadmitiu o recurso especial com fundamento na inocorrência da alegada infringência ao art. 1.022 do CPC/2015 e na incidência da Súmula 7 do STJ (tanto com relação à alegação de não incidência do tributo, quanto com relação à alegação de violação dos arts. 86 e 87 do CPC/2015).
+Passo a decidir.
+Do que se observa, o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual, "é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL n. 406/1968 e à LC n. 56/1987" (REsp 1.111.234/PR).
+Constata-se, ainda, que, na espécie, a alegação de ausência de vício de integração e a aplicação da Súmula 7 do STJ (relativa à alegação de não incidência do tributo) pela decisão a quo também guardam relação com o capítulo relativo à incidência do ISSQN sobre serviços bancários congêneres àqueles descritos nos itens da lista anexa.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo sobre existência de outros óbices à admissibilidade do recurso especial, porquanto relacionada com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo (incidência de ISSQN), não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+No tocante às demais questões (divisão desigual dos ônus da sucumbência), vale destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada.
+É o que dispõem o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RISTJ:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016) (Grifos acrescidos)
+Cumpre salientar que a Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, reafirmou a necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+In casu , da análise dos autos, verifico que a decisão agravada inadmitiu o recurso especial, nesta parte, com base no óbice da Súmula 7 do STJ.
+Da leitura das razões do agravo, verifico que a parte agravante não impugnou direta e especificamente esse fundamento.
+Ressalto que, em relação ao óbice da Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
