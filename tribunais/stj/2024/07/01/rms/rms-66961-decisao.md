@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por ADUNEMAT - ASSOCIACAO DOS DOCENTES DA UNIVERSIDADE DO ESTADO DE MATO GROSSO - SECAO SINDICAL DO ANDES-SN, com fundamento no art. 105, inciso II, alínea b, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fls. 225/226):
+CONSTITUCIONAL E PROCESSUAL CIVIL - MANDADO DE SEGURANÇA PREVENTIVO - SERVIDORES INATIVOS E PENSIONISTAS - CONTRIBUIÇÃO PREVIDENCIÁRIA - INCIDÊNCIA SOBRE O VALOR QUE EXCEDER A R$ 3.000,00 (TRÊS MIL REAIS) - RESERVA DE PLENÁRIO - DESNECESSIDADE - ATO FUTURO LASTREADO EM LEI VIGENTE - OBEDIÊNCIA AO PRINCÍPIO DA LEGALIDADE - VIOLAÇÃO A DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADA - ORDEM DENEGADA.
+Inexistindo o pedido incidenter tantum de inconstitucionalidade da norma que instituiu a contribuição previdenciária sobre o valor que exceder R$ 3.000,00 (três mil reais), nos subsídios dos servidores inativos e dos pensionistas de Mato Grosso, não há falar na observância da cláusula de reserva de plenário.
+A futura prática de ato administrativo, com fundamento em lei vigente, não configura violação a direito líquido e certo, já que a Administração Pública deve obediência ao princípio da legalidade.
+A parte recorrente alega que a alteração promovida pela Lei Complementar 654/2020, no sentido de majorar a alíquota da contribuição previdenciária para 14% para todos os inativos que ganham acima de R$ 3.000,00, configura confisco sobre os proventos.
+Suscita, ainda, "violação à cláusula pétrea que prevê direitos fundamentais como a igualdade substancial e a solidariedade" (fl. 259).
+A parte recorrida apresentou as contrarrazões (fls. 278/291).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 310/315).
+É o relatório.
+O Tribunal de origem denegou a ordem postulada no mandado de segurança afastando a aventada ilegalidade da cobrança da contribuição previdenciária nos proventos dos servidores inativos e pensionistas do Estado de Mato Grosso, nos termos da Lei Complementar 654/2020, porquanto estava em obediência ao princípio da legalidade. Cito, a propósito, trechos do acórdão recorrido:
+In casu, verifico que a apontada ilegalidade estaria materializada na Lei Complementar do Estado de Mato Grosso n. 654, de 19 de fevereiro de 2020, que alterou as Leis Complementares ns. 201, de 20 de dezembro de 2004 e 202, de 28 de dezembro de 2004, e modificou as alíquotas da contribuição previdenciária dos servidores ativos e inativos e dos pensionistas do Estado de Mato Grosso.
+A recente "Reforma da Previdência", levada a efeito pela Emenda Constitucional n. 103, de 12 de novembro de 2019, delegou, expressamente, aos Estados à possibilidade de tributação dos proventos de aposentadoria e das pensões que ultrapassem 01(um) salário mínimo
+ ..
+O Legislativo Mato-Grossense acolheu as justificativas do Governo do Estado de Mato Grosso e aprovou o Projeto, culminando com a edição da mencionada LCE n.654/2020.
+A atividade da Administração Pública, como sabido, é pautada no Princípio da Legalidade (art. 37/CRF), o que implica reconhecer que ao administrador público só é dado fazer aquilo que a lei autoriza, de forma prévia e expressa, portanto, suas ações devem ser sempre de acordo com o previsto em lei.
+ ..
+No caso em tela, a Lei Complementar Estadual n. 654/2020, devidamente aprovada pela ALMT, instituiu a alíquota de 14% (quatorze por cento), a título de contribuição previdenciária, sobre os proventos dos inativos e pensionistas do Estado de Mato Grosso que exceder o valor de R$ 3.000,00 (três mil reais).
+Com efeito, se Administração Pública deve obediência ao princípio da legalidade, não me parece factível reconhecer a ilegalidade de futuro ato administrativo a ser praticado, com fundamento em lei vigente.
+Nessa esteira, enquanto vigente a LCE n. 654/2020, a cobrança da contribuição previdenciária, nos proventos dos servidores inativos e pensionistas do Estado de Mato Grosso, sobre o valor que exceder o montante nela estabelecido, a toda evidência, não padecerá de ilegalidade, nem de abuso de poder, porquanto respaldado em lei.
+Ademais, como se sabe, no mandado de segurança, o controle judicial é exercido sobre a legalidade do ato. Logo, estando o ato em conformidade com a lei, não há direito líquido e certo a ser protegido por meio do presente mandamus (fls. 231/233).
+Da leitura das razões recursais, verifico que não foram impugnados os fundamentos do acórdão recorrido quanto à obediência ao princípio da legalidade pela administração pública.
+O Superior Tribunal de Justiça já se manifestou no sentido de ser inadmissível o recurso ordinário que deixar de combater fundamento suficiente do acórdão recorrido por inobservância ao princípio da dialeticidade, o que atrai a incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal (STF). Nesse mesmo sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO E PROCESSUAL CIVIL. PROCESSO ADMINISTRATIVO DISCIPLINAR. OFICIAL DE REGISTRO. ATUAÇÃO EM DESACORDO COM AS NORMAS REGISTRAIS. PENALIDADE DE REPREENSÃO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO DO TRIBUNAL DE ORIGEM E DEFICIÊNCIA RECURSAL. SÚMULAS N. 283 E 284 DO STF, POR ANALOGIA. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, trata-se de mandado de segurança ajuizado contra ato do Desembargador Presidente do Tribunal de Justiça de Minas Gerais, em que se postula a anulação de penalidade de repreensão, imposta ao impetrante em decorrência de processo administrativo disciplinar. Segurança denegada.
+2. Nesta Corte, interposto recurso ordinário, que não foi conhecido, pela incidência das Súmulas n. 283 e 284 do STF.
+3. No caso, a Parte recorrente deixou de impugnar os fundamentos do acórdão recorrido, pois as razões recursais estão dissociadas do fundamento em que se pautou o acórdão recorrido.
+4. É pacífico o entendimento desta Corte no sentido de que a petição do recurso ordinário em mandado de segurança, a teor dos arts. 1.010, II, 1.027, II, e 1.028 do CPC/2015 e 247 do RISTJ, deve apresentar as razões pelas quais o recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, o que não ocorreu na espécie.
+5. Pacífica a jurisprudência desta Corte no sentido de que "a Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 01/08/2012).
+6. "Esta Corte, ao interpretar o comando previsto no art. 932, parágrafo único, do CPC (o qual traz disposição similar ao § 3º do art. 1.029 do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica aos casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto" (AgInt no REsp 1.745.552/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/02/2019).
+7. Agravo interno desprovido.
+(AgInt no RMS n. 65.904/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2024, DJe de 27/5/2024.)
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. SÚMULAS 283 E 284 DO STF. APLICAÇÃO.
+1. É pacífica a jurisprudência desta Corte no sentido de que as Súmulas 283 e 284 do STF prestigiam o princípio da dialeticidade, por isso não se limitam ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Na espécie, os fundamentos do acórdão da origem não foram devidamente infirmados no recurso ordinário.
+3. Agravo interno não provido.
+(AgInt no RMS n. 65.394/AC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
