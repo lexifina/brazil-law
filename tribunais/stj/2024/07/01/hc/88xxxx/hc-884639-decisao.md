@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALINE RODRIGUES DA SILVA contra acórdão do Tribunal de Justiça do Estado do Goiás proferido no HC n. 5784610-40.2023.8.09.0000.
+Consta nos autos que a paciente foi presa em flagrante delito no dia 21/10/2023, pela suposta prática dos delitos capitulados no art. 157, § 2º, incisos II e VII, do Código Penal. A prisão em flagrante foi convertida em preventiva.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a parte impetrante sustenta que a paciente faz jus à substituição da prisão preventiva pela modalidade domiciliar, já que é mãe de uma criança menor de 12 (doze) anos de idade.
+Aduz que,  e m caso de reincidência, o pleito de domiciliar deve ser cuidadosamente analisado, não podendo, nunca, sua negativa lastrear-se apenas na citação dos antecedentes da ré (fl. 8).
+Requer, liminarmente e no mérito, a substituição da custódia preventiva pela modalidade domiciliar, nos termos do art. 318 do Código de Processo Penal.
+O pedido liminar foi indeferido às fls. 32-33.
+As informações solicitadas foram prestadas às fls. 39-43 e 44-50.
+O Ministério Público Federal manifestou-se às fls. 54-58, opinando pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro grau indeferiu o pedido de prisão domiciliar nos seguintes termos (fl. 13; grifamos):
+O documento acostado no evento 63 comprova que a requerente possui um filho menor de 12 (doze) anos de idade, todavia, apesar da alegação de que a criança depende de seus cuidados para a criação, educação e saúde e, ainda, que é a sua única provedora, verifica-se que referidas informações não foram comprovadas nos autos.
+Ressalta-se que para se ter direito a substituição pleiteada, a lei exige que se junte aos autos prova idônea dos requisitos estabelecidos artigo supramencionado, o que não restou devidamente comprovado nos autos.
+Outrossim, coaduno-me com o entendimento adotado pelo representante ministerial, de que "apesar de juntada a certidão de filho menor de 12 (doze) anos, não há nos autos outros documentos hábeis a demonstrar a indispensabilidade da presença da requerente no amparo de seu filho, que, aparentemente, pode ser cuidado por outros familiares", bem como "verifica-se a impossibilidade de conversão da prisão preventiva em prisão domiciliar, uma vez que o crime foi praticado com violência contra a vítima Lázaro Fabiano Cardoso Bisneto, o qual foi agredido por golpes de faca, vedação expressa no artigo 318-A, inciso I, do CPP."
+Outrossim, vislumbro que permanecem incólumes os fundamentos autorizadores da prisão preventiva, não se mostrando adequada, no momento, a sua substituição por medida alternativa, mesmo que prisão domiciliar.
+Isso posto, INDEFIRO O PLEITO DE PRISÃO DOMICILIAR formulado por ALINE RODRIGUES DA SILVA, em razão da ausência dos requisitos autorizativos, determinando a sua manutenção no cárcere em que se encontra.
+A Corte estadual consignou o seguinte (f. 25; grifamos):
+Não obstaste, na presente hipótese, conquanto a paciente possua filho menor de 12 anos, é inviável a substituição da prisão preventiva pela domiciliar, tendo em vista que se trata de crime de roubo, cometido mediante violência real contra a vítima, a qual foi atingida com golpes de faca, inclusive, situação que não se enquadra nas hipóteses autorizadoras do benefício, previstas tanto pela Suprema Corte no julgamento do HC n. 143.641/SP, como pelo artigo 318-A, introduzido ao Código de Processo Penal com o advento da Lei n. 13.769/2018.
+Conforme consignado pelas instâncias ordinárias, há expressa vedação legal à substituição da prisão cautelar pela domiciliar, em ocasiões em que o crime em questão envolva violência ou grave ameaça à pessoa, como é o caso em concreto:
+Art. 318-A. A prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que:
+I - não tenha cometido crime com violência ou grave ameaça a pessoa;  ..
+Com efeito, o entendimento adotado pelas instâncias de origem está em consonância com a jurisprudência do Superior Tribunal de Justiça, fixada no sentido da impossibilidade de concessão de prisão domiciliar quando a conduta imputada à Ré foi cometida mediante violência ou grave ameaça, como no presente caso. A propósito, cito os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. PRISÃO DOMICILIAR. MÃE. CRIME COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. DESCABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado mediante o uso de arma de fogo e em concurso com outros três agentes. Essas circunstâncias justificam a prisão cautelar, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a segregação preventiva é decretada em razão do modus operandi com que o delito fora praticado.
+3. De acordo com os arts. 318, V, e 318-A, do CPP, é cabível a concessão da prisão domiciliar à mulher com filho de até 12 (doze) anos de idade incompletos, desde que não tenha praticado crime com violência ou grave ameaça a pessoa.
+4. In casu, conquanto a agravante seja mãe de uma criança com apenas 4 anos de idade, não se pode conceder a ela a prisão domiciliar, na medida em que se verifica a exceção consistente na prática de crime de roubo, delito perpetrado com violência ou grave ameaça a pessoa.
+5. Agravo regimental não provido (AgRg no HC n. 862.007/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/12/2023, DJe de 11/12/2023; grifamos).
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. MUDANÇA DE ENDEREÇO SEM COMUNICAÇÃO AO JUÍZO. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS. CRIME PRATICADO COM VIOLÊNCIA OU GRAVE AMEAÇA. VEDAÇÃO LEGAL.
+A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+No caso, a prisão preventiva está justificada, a decisão que a impôs destacou que a recorrente "mudou de endereço sem comunicar a este Juízo, não tendo sido localizada para ser interrogada". Dessa forma, a segregação cautelar encontra-se devidamente fundamentada, como forma de garantir a aplicação da lei penal.
+Ademais, delineadas no acórdão as circunstâncias fáticas de que não foi possível a realização da intimação da recorrente nos endereços informados, tem-se que a alteração de tal entendimento demandaria a análise fático-probatória, o que é vedado na via eleita.
+Por fim, inviável a concessão de prisão domiciliar à recorrente, por ser mãe de criança menor de 12 anos, uma vez que o crime de roubo foi cometido com violência ou grave a meaça, incidindo, portanto, a vedação do art. 318-A, I, do CPP.
+Recurso ordinário desprovido (RHC n. 158.410/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022; grifamos).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
