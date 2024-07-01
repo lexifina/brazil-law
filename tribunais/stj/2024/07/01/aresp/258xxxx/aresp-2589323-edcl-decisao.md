@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por G.R.L.G EMPREENDIMENTOS E PARTICIPACOES LTDA à decisão de fls. 244/245, que não conheceu do recurso.
+Sustenta a parte embargante que:
+2 Este E. Tribunal alegou que o recurso de agravo interposto seria intempestivo, pois a decisão agravada teria sido publicada em 25.01.2024 e o recurso interposto em 21.02.2024, e que não teria sido demonstrada a ocorrência de feriado local, de modo que não conheceu do recurso.
+https://www.tjsp.jus.br/CanaisComunicacao/Feriados/Comunicado
+codigoComunicado=41375&pagina=1
+3 Ocorre, porém, que os feriados ocorridos na época não eram apenas locais, mas também nacionais (carnaval).
+4 Ademais, os feriados existentes foram devidamente comprovados, da seguinte forma:
+ ..
+5 Vejam, o ora embargante inclusive colacionou o link com os feriados nacionais e locais ocorridos no período, o que demonstra a tempestividade do recurso em questão (fls. 248/249).
+Aduz ainda que:
+6 Além disso, a decisão ora embargada não observou que a matéria trazida à tona é de ordem pública (infringência à coisa julgada), de modo que independente da tempestividade, inclusive, poderia ser analisada de ofício por este E. Superior Tribunal de Justiça.
+7 Veja, o acórdão ora combatido permitiu à municipalidade, ora embargada, a cobrança de imposto contra o embargante por arbitramento, nos termos do artigo 148 do Código Tributário Nacional.
+8 Contudo, referido imposto já havia sido recolhido em conformidade com SENTENÇA E ACÓRDÃO (FLS. 48), PROFERIDOS EM MANDADO DE SEGURANÇA TRANSITADO EM JULGADO (AUTOS DO PROCESSO Nº 1020243-56.2018.8.26.0053), E CONSIGNARAM QUE: (fl. 249).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+É certo que o feriado nacional de 13/2/2024 não precisa ser comprovado. Porém, os dias 25/1/2024, 26/1/2024 e 12/2/2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Ademais, conforme a jurisprudência deste Tribunal a mera remissão a link de site do Tribunal de origem nas razões recursais é insuficiente para comprovar a tempestividade do recurso. Nesse sentido: AgInt no AREsp 1687712/SP, relator Ministro Sérgio Kukina, Primeira Turma, Dje de 17/11/2020; e AgInt no REsp 1799162/AL, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/11/2019.
+Ressalta-se ainda que "Na hipótese em comento, a data referente ao dia 25/1/2022 não trata de feriado nacional, mas, sim, feriado local (aniversário de São Paulo), o qual deveria ter sido comprovado no momento da interposição do agravo em recurso especial, o que não ocorreu no caso concreto." (AgInt no AREsp 2240369/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/06/2023, DJe 21/06/2023).
+Além disso, observe-se que, "a jurisprudência desta Corte Superior entende que segunda-feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt nos EDcl no AREsp 1639906/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe 24/06/2022).
+No que concerne a infringência à coisa julgada, observe que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Assim, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Quanto às questões de ordem pública, embora sejam passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do preenchimento de requisitos de admissibilidade. Neste sentido, AgRg nos EAREsp n. 2.314.694/PA, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 3/8/2023, DJe de 8/8/2023; AgInt no AREsp n. 1.956.813/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/2/2022, DJe de 9/3/2022; e AgInt nos EDcl no AREsp n. 1.858.117/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
