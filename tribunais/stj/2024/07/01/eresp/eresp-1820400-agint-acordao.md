@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. ARTIGO TIDO POR VIOLADO. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente o recurso especial quando o dispositivo apontado não tem comando normativo apto a amparar a tese recursal, o que atrai, por analogia, a incidência da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. Incide a Súmula n. 7 do STJ na hipótese em que a adoção de conclusões diversas daquelas expostas no acórdão de origem - fundadas no conjunto probatório - demandaria a imprescindível incursão na seara fático-probatória dos autos.
+3. Agravo interno improvido.
+RELATÓRIO
+CARLOS ROBERTO TAVARES DE OLIVEIRA interpõe agravo interno contra decisão de fls. 1.482-1.489 que negou provimento ao recurso especial em razão da incidência das Súmulas n. 284 do STF e 7 do STJ.
+A parte agravante alega que "Os argumentos apresentados no recurso especial são aptos a desconstituir os fundamentos do acórdão recorrido, bem como a fundamentação apresentada permite a exata compreensão da controvérsia unida aos artigos do Código Civil tidos por violados. É dizer, não há falar, pois, em dissociação de razões recursais com os dispositivos apontados por violados" (fl. 1.497).
+Afirma que "A análise das teses jurídicas do Recurso Especial não demandam reexame fático-probatório" (fl. 1.497), pois "a questão jurídica posta pelo Agravante no Recurso Especial a ser analisado pelo STJ é a nulidade do ato de incorporação ante o não cumprimento dos requisitos estabelecidos pelo Código Civil, qual seja a necessidade de publicação das Atas das Assembleias Extraordinárias" (fl. 1.498).
+Afirma que é incontroverso que "a incorporação da Goiás Carne Alimentos S/A pela Independência S/A ocorreu no dia 30 de setembro de 2007, conforme denota-se pelo documento juntado às fls. 439/44 e que o arquivamento desse documento, que se trata da ata de fusão, foi efetuado na JUCEG no dia 1º de fevereiro de 2008" (fl. 1.498).
+Defende que "todas as premissas fáticas necessárias para que este STJ conclua pela existência de vício na incorporação, estão devidamente delineadas no acórdão, sem qualquer necessidade de revolvimento fático-probatório ou contratual" (fl. 1.498).
+Sustenta que "A tese jurídica é justamente a de que a não publicação das Atas das Assembleias Extraordinárias gera a nulidade do ato de incorporação, uma vez que o art. 1.122 do Código Civil prevê a necessidade de publicação dos atos relativos à incorporação" (fl. 1.498).
+Requer o provimento do agravo interno.
+A parte agravada apresentou duas peças de contrarrazões, a primeira protocolizada em 13.6.2022 (fls. 1.504-1.509), postulando o não conhecimento ou o improvimento do recurso; a segunda, protocolizada em 14.6.2022 (fls. 1.511-1.516).
+A parte agravante apresentou pedido de tutela de urgência, apontando a existência de julgamento extra petita no acórdão recorrido e postulando a concessão de efeito suspensivo, bem como a nulidade do aresto, por ter excedido do pedido (fls. 1.561-1571).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. ARTIGO TIDO POR VIOLADO. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente o recurso especial quando o dispositivo apontado não tem comando normativo apto a amparar a tese recursal, o que atrai, por analogia, a incidência da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. Incide a Súmula n. 7 do STJ na hipótese em que a adoção de conclusões diversas daquelas expostas no acórdão de origem - fundadas no conjunto probatório - demandaria a imprescindível incursão na seara fático-probatória dos autos.
+3. Agravo interno improvido.
+VOTO
+Inicialmente, observo que a segunda impugnação apresentada pela parte agravada, de fls. 1.511-1.516, não merece conhecimento, em razão da ocorrência da preclusão consumativa.
+Do mesmo modo, quanto à alegação da parte agravante de nulidade do julgamento do acórdão combatido ser extra petita, configura inadmissível inovação recursal, o que impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+No mais, o presente recurso não reúne condições de êxito.
+Quanto à alegada ofensa aos arts. 104, I e 662 do Código Civil, a decisão agravada aplicou a Súmula n. 284 do STF, pois as razões recursais estão desassociadas da normatividade dos dispositivos legais, nestes termos (fls. 1.484-1.487):
+2. Extrai-se dos autos, que fora celebrado, em 20 de julho de 2007, contrato de compra e venda de bovinos a termo para abate, com previsão de entrega futura (julho a novembro de 2008), de 20.000 (vinte mil) cabeças de gado no quantitativo de 330.000 (trezentos e trinta mil) arrobas, cujo valor médio foi pactuado em R$ 65,00 por arroba, sendo emitida 11 (onze) Notas de Negociação.
+Tendo em vista a variável da engorda do gado e do preço da arroba do boi, que implicaria em perda financeira, o ora recorrente, CARLOS ROBERTO TAVARES, ajuizou ação ordinária requerendo a rescisão da obrigação contratual, sob o argumento de que o princípio pacta sunt servanda, no presente caso, não seria absoluto, uma vez que não se vincularia à prática do contrato "boi a termo".
+Foram propostas diversas ações e, entre elas, uma ação declaratória, manejada pelo ora recorrente, em face da empresa INDEPENDÊNCIA S.A., ora recorrida.
+3. No julgamento da apelação e do recurso adesivo interpostos pelas partes, manifestou-se o acórdão goiano, quanto à alegação de nulidade do contrato de compra e venda, por ter sido assinado por quem não tinha poderes para tanto, nos seguintes termos (fl. 1133):
+Da ação declaratória nº 200805965356 manejada por Carlos em face da empresa Independência, vislumbra-se que este possui o intuito de obter, liminarmente, a suspensão da execução do contrato de compra e venda de gado a termo, ora em questão, e, de consequência, o óbice da emissão dos boletos de cobrança bancária e protestos em seu desfavor e, no mérito, a nulidade do referido contrato, alegando que este foi assinado por Haroldo de Arruda Camargo em nome de Goiás Carne Alimentos S/A, que na época era administrada e representada pelos diretores Ricardo Fontoura de Siqueira e Rodrigo Pena de Siqueira, portanto, não possuía poderes para representar a referida empresa, devendo ser considerado nulo o contrato perante ele e a terceiros.
+E concluiu (fl. 1170):
+Nas razões apresentadas no Recurso Adesivo, o autor, defende inicialmente a nulidade do contrato sob a tese de que este foi assinado por Haroldo de Arruda Camargo em nome de Goiás Carne Alimentos S/A, que na época era administrada e representada pelos diretores Ricardo Fontoura de Siqueira e Rodrigo Pena de Siqueira, portanto, não possuía poderes para representar a referida empresa, sendo pois nulo perante ele e a terceiros de boa -fé.
+Sem razão o autor, uma vez que embora não conste nos autos que o sr. Haroldo de Arruda Camargo possuísse poderes para representar a empresa no ato da assinatura do contrato, este foi devidamente assinado por uma testemunha e registrado em Cartório, não tendo o autor qualquer prejuízo, devendo, a meu ver, ser afastada a alegação de nulidade.
+4. Não prospera a alegação de violação apontada pelo recorrente não havendo de ser provido o recurso.
+Em primeiro lugar, no que respeita ao art. 104, I, do CC, evidencia-se que as razões declinadas no recurso especial encontram-se desassociadas da normatividade daquele dispositivo legal, o que configura deficiência insanável em sua fundamentação e atrai a inteligência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com efeito, como de conhecimento, o art. 104 do CC disciplina os elementos necessários ao aperfeiçoamento dos negócios jurídicos, cuidando o inciso I de dizer, em outras palavras, que não há negócio jurídico sem vontade e que a vontade deve ser manifestada por quem tenha capacidade.
+Por sua vez, quanto à capacidade, absoluta e relativa, o diploma material civil dispõe, respectivamente, em seus arts. 3º e 4º:
+Art. 3º São absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos.
+Art. 4º São incapazes, relativamente a certos atos ou à maneira de os exercer:
+I - os maiores de dezesseis e menores de dezoito anos;
+II - os ébrios habituais e os viciados em tóxico;
+III - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade;
+IV - os pródigos.
+Parágrafo único. A capacidade dos indígenas será regulada por legislação especial.
+Portanto, conforme se verifica, a normatividade do dispositivo legal transcrito acima não se associa à "faticidade" que o recorrente alega nas razões recursais para sua aplicabilidade. De fato, a impugnação do recorrente tem como fundamento instituto jurídico diverso, qual seja, a representação e, não, a capacidade do sujeito de direito para realização de atos da vida civil.
+A propósito:
+ ..
+5. Na sequência, o recorrente alega que, pelas mesma razões destacadas no item antecedente, o art. 662 do CC teria sido violado. Diz o dispositivo apontado:
+Art. 662. Os atos praticados por quem não tenha mandato, ou o tenha sem poderes suficientes, são ineficazes em relação àquele em cujo nome foram praticados, salvo se este os ratificar.
+Parágrafo único. A ratificação há de ser expressa, ou resultar de ato inequívoco, e retroagirá à data do ato.
+Uma vez mais, percebe-se que a alegação de nulidade do negócio jurídico não encontra fundamento no dispositivo de lei apontado pelo recorrente. Senão, vejamos.
+Os civilistas Nelson Rosenvald e Felipe Braga esclarecem que a regra exposta no art. 662 do CC é o amparo da tese do excesso de poder no estudo do contrato de mandato, mais especificamente, da atuação das partes na consecução do negócio (mandante e mandatário). Nessa linha de ideias, lecionam os professores:
+Situação distinta ocorre quando o mandatário excede à limitação de poderes confiados pelo mandante. Em tal hipótese, o mandante não responde pelos atos praticados, uma vez que estará limitado pelo seu interesse, expressamente previsto na avença. Trata-se de simples desdobramento da preservação de sua declaração de vontade.
+(Manual de Direito Civil. Volume único. 5. ed. rev., atual., ampl. Salvador: Jus Podivm, 2020, p. 911).
+Assim, o que se extrai do art. 662 do CC é, na verdade, uma "cláusula de isenção de responsabilidade" do mandante pelo excesso de poder do mandatário, e, não, como pretende convencer o ora recorrente, uma condição de nulidade do negócio jurídico pactuado nessas circunstâncias.
+Aliás, oportuno salientar, esta Corte já assentou, inclusive, a possibilidade de convalidação do ato excessivo do mandatário, em evidente prestígio à vontade das partes, que deve ser o norte de quaisquer negócios. Confira-se:
+PROCESSO CIVIL. FIANÇA PRESTADA POR MANDATO, EM FAVOR DO PRÓPRIO MANDATÁRIO, SEM PODERES ESPECÍFICOS NO INSTRUMENTO DE MANDATO. ATO ANULÁVEL. RATIFICAÇÃO POR PARTE DOS FIADORES, QUE NÃO IMPUGNARAM A FIANÇA EM PROCESSO JUDICIAL CONTRA ELES MOVIDOS. POSSIBILIDADE. OFENSA AO ART. 622 DO CÓDIGO CIVIL INEXISTENTE.
+- É possível a ratificação, por ato inequívoco do mandante, de ato praticado com excesso de poder pelo mandatário.
+ ..
+Recurso especial não provido. (REsp 960.075/MS, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 06/05/2008, DJe 03/09/2008).
+Nesse rumo, ressalte-se, a disciplina do art. 662 do CC tem em mira os efeitos do excesso do poder que se projetam sobre o mandante, que continua responsável pelas obrigações assumidas pelo mandatário. "Daí a assertiva de que no que concerne à pessoa com quem o mandatário negociou, não se configura abuso dos poderes" (PONTES DE MIRANDA, Francisco Cavalcanti. Tratado de direito privado. Rio de Janeiro: Borsoi, 1954, pp. 65-66).
+Importante salientar que, no caso dos autos, não há notícias de que o Frigorífico, ora recorrido, a quem interessaria a nulidade do Instrumento Particular de Compromisso de Compra e Venda a Termo de Bovinos, caso realmente houvesse sido firmado por sujeito não habilitado a fazê-lo, tenha invocado qualquer defeito do negócio, mas que, ao revés, teria ratificado os atos praticados por Haroldo de Arruda Camargo, quando da assinatura do Contrato de Compra e Venda de Gado a Termo firmado em 20/07/2007.
+Merece destaque, ainda, extraído da sentença de piso, o fato de que o Frigorífico, ora recorrido, "forma grupo econômico gigantesco, com lucro na ordem de R$1.500.000.000,00 (um bilhão e meio de reais) ano" (fl. 887).
+Por todo exposto, uma vez mais, tem-se a incidência do enunciado da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A parte agravante, nas razões do recurso especial, apontou violação dos arts. 104, I, e 662 do Código Civil, alegando que o contrato é nulo, por ter sido assinado por quem não detinha poderes específicos para tanto, bem como ineficaz, uma vez que o ato teria sido praticado por pessoa desprovida de mandato ou sem poderes suficiente para tanto.
+Contudo, os dispositivos de lei apontados como vulnerados não têm comando normativo para amparar as teses apresentadas, na medida em que o art. 104, I, do CC trata da exigência de capacidade do agente para a validade do negócio jurídico, instituto jurídico diverso da representação.
+O art. 662 do CC, por sua vez, trata da isenção de responsabilidade do mandante pelos atos praticados em excesso de poderes pelo mandatário, o que, todavia, não impede, a convalidação do ato excessivo.
+Assim, a parte agravante não se desincumbiu de demonstrar, de forma clara, direta e específica, violação de legislação federal, especialmente porque a tese de nulidade de negócio jurídico apresentada não encontra sustentação nos artigos de lei federal apontados como afrontados pelo acórdão recorridos.
+A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia.
+Incide, pois, na espécie a Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a
+exata compreensão da controvérsia."
+No tocante à incorporação da Goiás Carne Alimentos S.A. pela Independência S.A., não há como afastar a Súmula n. 7 do STJ no presente caso, na medida em que o Tribunal de origem, soberano na análise do arcabouço fático-probatório dos autos, concluiu que "não há que se falar em nulidade da incorporação" (fl. 1.171), uma vez que "a incorporação da Goiás Carne Alimentos S/A pela Independência S/A ocorreu no dia 30 de setembro de 2007, conforme denota-se pelo documento juntado àsfls.439/442 e que o arquivamento desse documento, que se trata da ata de fusão, foi efetuado na JUCEG no dia 1º de fevereiro de 2008 (fl.542) antes, portanto da protocolização da peça contestatória (fls. 227/244)- que se deu em 30/06/2008" (fls. 1.170-1.171, destaquei).
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a revisão do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+Fica prejudicado o pedido de efeito suspensivo.
+É o voto.
