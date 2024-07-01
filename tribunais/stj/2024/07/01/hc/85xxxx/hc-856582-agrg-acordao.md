@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a reiterar as razões lançadas na exordial.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente cada fundamento lançado no decisum agravado: i) a paciente estava envolvida na venda ilegal de drogas de maneira frequente, escondendo as substâncias dentro da residência onde morava; ii) a apreensão de vários sacos e pinos plásticos vazios sugeriu que lá ocorria o processo de embalagem das drogas para posterior distribuição; iii) o corréu admitiu que estava envolvido no tráfico há aproximadamente um ano, em associação com a paciente; iv) o vínculo associativo ficou evidente, pois todas as provas indicaram um acordo prévio para cometer o tráfico, além de ser uma ligação duradoura, não iniciada no dia do evento, o que evidencia a reiteração no crime; v) a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ. Nessa senda, as razões expendidas no bojo do presente inconformismo contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNA FERNANDA MARIM contra a decisão de fls. 745-748, que denegou a ordem de habeas corpus.
+Depreende-se dos autos que a paciente foi absolvia, em primeira instância, das imputações do art. 33, caput, e art. 35, caput, ambos da Lei n. 11.343/2006, com fulcro no art. 386, VII, do Código de Processo Penal (fls. 31-40).
+Inconformado, o Ministério Público interpôs apelação prante o Tribunal de origem, que proveu o recurso para condenar a paciente às penas de 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 1.618 (mil seiscentos e dezoito) dias-multa, pela prática dos crimes descritos nos arts. 33 e 35, caput, ambos da Lei n. 11.343/06, consoante voto condutor do acórdão de fls. 10-30.
+Ainda irresignada, a defesa impetrou o presente writ, no qual alegou, em síntese, a ocorrência de constrangimento ilegal na negativa de absolvição do réu pelo do crime descrito no art. 35, da Lei de Drogas, alegando ausência de estabilidade e permanência para configuração do delito.
+Em síntese, a defesa buscou na impetração a absolvição do delito de associação para o tráfico de drogas.
+O Ministério Público Federal, às fls. 737-742, manifestou-se pelo não conhecimento da ordem ou, no mérito, pela sua denegação
+Em decisão monocrática (fls. 745-748), a ordem foi denegada.
+Nas razões do presente inconformismo (fls. 753-760), a parte agravante alega reitera as razões expostas na exordial.
+Em suma, repisa os argumentos lançados na exordial.
+Requer a reconsideração do decisum agravado ou o provimento da irresignação.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a reiterar as razões lançadas na exordial.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente cada fundamento lançado no decisum agravado: i) a paciente estava envolvida na venda ilegal de drogas de maneira frequente, escondendo as substâncias dentro da residência onde morava; ii) a apreensão de vários sacos e pinos plásticos vazios sugeriu que lá ocorria o processo de embalagem das drogas para posterior distribuição; iii) o corréu admitiu que estava envolvido no tráfico há aproximadamente um ano, em associação com a paciente; iv) o vínculo associativo ficou evidente, pois todas as provas indicaram um acordo prévio para cometer o tráfico, além de ser uma ligação duradoura, não iniciada no dia do evento, o que evidencia a reiteração no crime; v) a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ. Nessa senda, as razões expendidas no bojo do presente inconformismo contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido.
+VOTO
+Observo que os argumentos apresentados pela parte agravante, nas razões deste agravo regimental, não buscaram refutar os fundamentos da decisão monocrática agravada.
+Registro que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+In casu, o presente inconformismo limitou-se a reiterar as razões lançadas na exordial.
+Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente cada fundamento lançado no decisum agravado: i) a paciente estava envolvida na venda ilegal de drogas de maneira frequente, escondendo as substâncias dentro da residência onde morava; ii) a apreensão de vários sacos e pinos plásticos vazios sugeriu que lá ocorria o processo de embalagem das drogas para posterior distribuição; iii) o corréu admitiu que estava envolvido no tráfico há aproximadamente um ano, em associação com a paciente; iv) o vínculo associativo ficou evidente, pois todas as provas indicaram um acordo prévio para cometer o tráfico, além de ser uma ligação duradoura, não iniciada no dia do evento, o que evidencia a reiteração no crime; v) a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ.
+Nessa senda, as razões expendidas no bojo do presente inconformismo contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015, que assim dispõe:
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+A propósito: AgRg no HC n. 829.955/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/6/2023; e AgRg no HC n. 764.465/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 30/9/2022.
+Desta feita, por se encontrar divorciada da o rientação jurisprudencial desta Corte Superior (Súmula n. 182 do STJ) e da legislação pertinente, a irresignação não merece ser conhecida.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
