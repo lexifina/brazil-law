@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por Thiago Merege Pereira, com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls. 177):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.EMPRÉSTIMO COMPULSÓRIO DE ENERGIA. CONTADORIA JUDICIAL. CÁLCULO. METODOLOGIA. IMPUGNAÇÃO.
+Deve ser rejeitada impugnação aos cálculos apresentados pela Contadoria Judicial quando eles estiverem em conformidade com otítulo executivo e forem impertinentes as alegações da parte executada.
+FASE DE CONHECIMENTO. MATÉRIA. REDISCUSSÃO. CUMPRIMENTO DE SENTENÇA. COISA JULGADA.
+Não cabe, na fase de cumprimento de sentença, resgatar discussão já superada na fase de conhecimento, porque já verificado osefeitos da coisa julgada.
+CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO DEENERGIA ELÉTRICA. OBRIGAÇÃO. LIQUIDEZ. HONORÁRIOSADVOCATÍCIOS PARA A FASE EXECUTIVA. ARTIGO 523, § 1º, DOCPC.
+Não se cogita do acréscimo de honorários advocatícios para a fase executiva, na forma do art. 523, § 1º, do CPC, antes de oportunizado à parte executada o pagamento voluntário da dívida após liquidada a obrigação, o que, nos casos em que se cobram diferenças de juros e correção monetária na devolução do empréstimo compulsório de energia elétrica, só ocorre após a decisão que aprecia a impugnação ao cumprimento de sentença.
+Embargos de declaração rejeitados.
+Em suas razões, a parte recorrente alega, primeiramente, violação do art. 489, § 1º, IV, 1.022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+No mérito, aponta, além de dissídio jurisprudencial, violação dos arts. 85, §1º, 523, §1º, do CPC, sustentando que: (i) os honorários advocatícios previstos no artigo 523, §1º, do CPC, foram criados. visando "estimular que o devedor cumpra sua obrigação e efetivamente pague o valor devido ao credor, sob pena desse valor ser acrescido em 10% pela falta de cumprimento espontâneo dentro do prazo de 15 dias contados da intimação para pagamento" (fl. 229); (ii) é devida a condenação na verba honorária na hipótese dos autos.
+Contrarrazões às fls. 337/343.
+Decisão de admissibilidade às fls. 350/356.
+É relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Não se conhece da suposta afronta aos artigos 489 e 1022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Adiante, no que respeita às questões suscitadas na demanda, o Tribunal de origem dirimiu a controvérsia nos seguintes termos (fl. 176):
+4. Honorários advocatícios
+Conforme estabelece o §1º do art. 523 do Código de Processo Civil, só cabe honorários advocatícios na fase de cumprimento de sentença após o transcurso do prazo de quinze dias sem pagamento voluntário pelo devedor.
+Tal prazo só conta após ter sido liquidada a obrigação, o que, nos casos em que se cobram diferenças de juros e correção monetária na devolução do empréstimo compulsório de energia elétrica, somente ocorre após a decisão que aprecia a impugnação ao cumprimento de sentença, momento em que há a definição do valor exato da condenação (cf. STJ, REsp 1147191/RS, Corte Especial, DJe 24-04-2015; TRF4 AG, 5011243-71.2018.4.04.0000/PR, Segunda Turma, julgado em 12-12-2018; AG 5039577-81.2019.4.04.0000, Segunda Turma, juntado aos autos em 13/11/2019).
+Nessas condições, deve ser reformada a decisão agravada para afastar, por ora, a condenação da Eletrobrás ao pagamento de honorários advocatícios para a fase de cumprimento de sentença, na forma do §1º do art.523 do CPC, a qual apenas pode ser acrescida se a devedora, após intimação específica para pagamento do valor fixado na decisão da impugnação ao cumprimento de sentença (=decisão recorrida), não efetuar o pagamento voluntário no prazo legal.
+Como se nota, o Tribunal de origem não deixou de condenar a recorrida na verba honorária sucumbencial, apenas afastou, temporariamente, a condenação visto que, nos termos do art. 523, § 1º, do CPC, referida verba somente pode ser fixada se a devedora, após intimação específica para pagamento do valor fixado na decisão da impugnação ao cumprimento de sentença (decisão ora recorrida), não efetuar o pagamento voluntário no prazo legal.
+Contudo, verifica-se que, nas razões do recurso especial, não foi infirmado referido fundamento, limitando-se a recorrente apenas deduzidos argumentos genéricos no sentido do cabimento de honorários no cumprimento de sentença, o que inviabiliza, no ponto, o conhecimento do apelo especial, nos termos das Súmulas 283 e 284 do Supremo Tribunal Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. CUMPRIMENTO DE SENTENÇA. VERBA HONORÁRIA. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
