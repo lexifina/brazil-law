@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto BIO SOJA FERTILIZANTES LTDA. (BIO SOJA) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, alegou, a par do dissídio jurisprudencial, (1) violação dos artigos 374, II e III, 411, III, 422, § 1º e 1.018, § 3º do NCPC sustentando a inadmissibilidade do agravo de instrumento em razão da sua intempestividade; e, (2) afronta aos arts. 736 e 745, I e V do CPC/1973 aduzindo que a declaração de falsidade no incidente processual deve ser feita por meio dos embargos à execução no prazo de 15 (quinze) dias.
+(1) Da fundamentação deficiente
+Em relação a alegada afronta ao arts. 374, II e III, 411, III e 422, § 1º do NCPC, 736 e 745, I e V do CPC/1973, bem como dissídio jurisprudencial, deve incidir a Súmula nº 284 do STF, pois, a parte aduz genericamente a afronta ao citado artigo, sem especificar quais os vícios do aresto vergado e/ou sua relevância para a solução da controvérsia.
+Ressalta-se, que, no presente caso, da leitura das razões do especial, verificou-se que a parte não indicou como teria ocorrido a suposta violação aos citados artigos, pois os argumentos apontados no apelo nobre não demonstram, de forma clara e específica, quais seriam tais afrontas e sua relação com o caso concreto. A pretensão recursal, no ponto, esbarra no óbice da Súmula 284 do STF.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Assim, diante da deficiência na fundamentação, aplica-se à hipótese o teor da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENHORA. ALEGAÇÃO DE AFASTAMENTO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. REEXAME. IMPOSSIBILIDADE. VERBETES SUMULARES N. 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO.
+1. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Verbete sumular n. 7 do Superior Tribunal de Justiça).
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Enunciado da Súmula n. 83 desta Corte Superior).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.931.592/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. CONTRATO DE MÚTUO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. TESE SOBRE INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. 3. PRESCRIÇÃO QUINQUENAL E TERMO INICIAL. SÚMULA N. 83/STJ. 4. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. 5. AGIOTAGEM NÃO CARACTERIZADA. JUROS PACTUADOS NOS LIMITES LEGAIS. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+3. A cobrança de dívida líquida constante em instrumento particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Termo inicial do prazo prescricional se dá no dia de pagamento da última parcela.
+4. Rever a conclusão esposada no acórdão recorrido, quanto à tese de exceção do contrato não cumprido, demandaria revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+5. Não está caracterizada a agiotagem, sendo o débito exigível, tendo em vista que a pactuação dos juros não ultrapassou o limite da taxa prevista em lei.
+6. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.815/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+(2) Da ausência de prequestionamento.
+Em relação a alegada violação dos arts. 374, II e III, 411, III e 422, § 1º do NCPC, 736 e 745, I e V do CPC/1973 não houve manifestação pelo Tribunal de local, apesar da interposição de embargos de declaração, incidindo a Súmula nº 211 do STJ.
+É imprescindível que o Tribunal local tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, o recurso especial não poderia mesmo ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Nesse sentido, confira-se o seguinte precedente:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. COMPATIBILIDADE DOS PEDIDOS DE RESCISÃO CONTRATUAL E DE INDENIZAÇÃO POR LUCROS CESSANTES. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. ENRIQUECIMENTO SEM CAUSA. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ. EXCLUSÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSIDERADOS VIOLADOS. SÚMULA N. 284/STF. HONORÁRIOS RECURSAIS. CONDENAÇÃO DAS AGRAVADAS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF e 211 do STJ.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso, sem incorrer no mencionado óbice, não há como averiguar, nesta instância, o enriquecimento sem causa apontado pela Corte local, caso concedida à agravante a indenização por lucros cessantes.
+5. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+6. De acordo com a jurisprudência da Corte Especial do STJ, é "devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente:  ..  b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente" (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+7. No caso concreto, todavia, houve desprovimento do recurso especial da parte agravante, e não das empresas agravadas, o que impede o arbitramento de honorários recursais em favor da recorrente.
+8. Dissídio jurisprudencial não comprovado, por causa da incidência das Súmulas n. 7, 13 e 211 do STJ e 282, 283 e 356 do STF.
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.863.024/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 29/6/2020, DJe 1/7/2020 - sem destaques no original)
+(3) Do revolvimento do acervo fático-probatório dos autos
+Ademais, mesmo que ultrapassado os citados óbices, quanto a alegação da inadmissibilidade do agravo de instrumento em razão da sua intempestividade, bem como divergência jurisprudencial, o Tribunal Estadual após determinação de retorno dos autos por esta Corte para sanar omissão, consignou:
+Compulsando melhor o feito, faz-se necessário explicitar as datas e as razões que fizeram o Colegiado se manifestar pela tempestividade da petição apresentada pela agravante, ora embargada
+Em que pese a embargada ter sido citada aos 22.08.2014, a carta precatória com o mandado de citação só foi juntado aos autos em 22.04.2015. A executada, ora embargada, contudo, compareceu espontaneamente nos autos aos 26.09.2014, quando se manifestou no feito, por meio de sua advogada, com poderes especiais para receber citação, apresentando o incidente de falsidade.
+Desse modo, considerando o art. 738 do Código de Processo Civil de 1973, aplicável ao caso, prevê que os embargos do devedor deveriam ser oferecidos no prazo de quinze dias, contados da data da juntadas aos autos do mandado de citação e que, no presente caso, o comparecimento espontâneo (art. 214, CPC/73) ocorreu antes da juntada da carta precatória, evidente a tempestividade do incidente apresentado na origem.
+Ora, o próprio embargante, nas razões dos embargos, reconhece que restou consignado no acórdão impugnado que a instauração do incidente de falsidade é possível mesmo que não tenha apresentado embargos à execução, desde que o faça no prazo legal.
+Nesse sentido, partindo da premissa que os embargos à execução poderiam ser opostos até 13.10.2014, manifestamente tempestivo o incidente instaurado neste prazo legal (e-STJ, fls. 246/250 - sem destaques no original).
+Desse modo, para se chegar à conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS NA ORIGEM. NÍTIDO PEDIDO DE RECONSIDERAÇÃO. NÃO INTERRUPÇÃO DE PRAZO RECURSAL. TEMPESTIVIDADE. REVISÃO. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica desta Corte, a interposição de recurso manifestamente incabível, como nas hipóteses de embargos de declaração com nítido pedido de reconsideração, não interrompe ou suspende o prazo para a interposição do recurso próprio.
+Precendetes.
+2. No caso, o Tribunal a quo asseverou que, em razão de os embargos não serem o recurso cabível para questionar a validade do título extrajudicial, não interrompeu o prazo recursal e que, por isso, o agravo de instrumento restou intempestivo. Rever tais conclusões demanda o necessário reexame da matéria fática dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.190.542/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. CIÊNCIA INEQUÍVOCA DA DECISÃO EM SEDE DE AUDIÊNCIA. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. "Segundo a teoria da ciência inequívoca, em observância do princípio da instrumentalidade das formas, considera-se comunicado o ato processual, independentemente da sua publicação, quando a parte ou seu representante tenha, por outro meio, tomado conhecimento do processado no feito" (AgInt no AREsp n. 2.130.733/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24.10.2022, DJe de 26.10.2022).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.287.149/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. PENHORA. SUSPENSÃO. INDEFERIMENTO. PEDIDO DE RECONSIDERAÇÃO. RECURSO. NÃO CABÍVEL. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. INTERRUPÇÃO DO PRAZO. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Discute-se nos autos a tempestividade do agravo de instrumento interposto na origem.
+2. É pacífico o entendimento do Superior Tribunal de Justiça no sentido de que a interposição de recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição do recurso adequado.
+3. Na hipótese, rever a conclusão do aresto impugnado quanto à intempestividade do agravo de instrumento em virtude da apresentação de pedido de reconsideração demandaria o reexame fático-probatório dos autos, providência que encontra óbice na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.375.456/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+(4) Do acórdão em sintonia com a jurisprudência dessa Corte
+De outra parte, em relação a alegada violação do 1.018, § 3º do NCPC e divergência jurisprudencial sustentando a inadmissibilidade do agravo de instrumento em razão da sua intempestividade, o Tribunal local manifestou-se nos seguintes termos:
+De conformidade com o disposto no art. 1.018, NCPC, o Agravante, no prazo de três dias, requererá a juntada, aos autos do processo, de cópia da petição do agravo de instrumento e do comprovante de sua interposição, assim como a relação dos documentos que instruíram o recurso.
+O descumprimento, desde que arguido e provado pelo agravado, importa em não conhecimento do agravo.
+Incumbe à parte Agravada comprovar que o Agravante deixou de juntar aos autos principais a cópia da petição de agravo de instrumento interposto, nos termos do disposto no art. 1.018, §3º, NCPC.
+Como a Agravada não juntou certidão comprovando o descumprimento do preceito legal, não se pode acolher sua preliminar.
+Rejeito a preliminar (e-STJ, fl. 125 - sem destaques no original).
+Nesse contexto, a jurisprudência desta Corte é no sentido de que "Nos termos da jurisprudência do STJ, não havendo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, não há falar em nulidade pelo descumprimento da regra prevista no artigo 1.018 do CPC/15" (AgInt nos EDcl no AREsp 1.712.597/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 24/05/2021, DJe de 28/05/2021). Precedentes.
+Nesse sentido os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM. DEVER DE COMUNICAÇÃO DE SUA INTERPOSIÇÃO NO JUÍZO DE ORIGEM. ART. 1.018 DO CPC. INOBSERVÂNCIA. INEXISTÊNCIA DE PREJUÍZO À PARTE AGRAVADA. ADMISSIBILIDADE DO RECURSO.
+1. Verifica-se que o agravo de instrumento interposto na origem não foi admitido tão somente porque a parte não comunicou à primeira instância a respeito da interposição. Entretanto, o Tribunal o fez desconsiderando a inexistência de prejuízo à parte contrária. A parte agravante, mesmo no agravo interno ora analisado, alega apenas a inobservância do art. 1.018, § 2º, do CPC, sem indicar efetivos danos para sua defesa.
+2. Consoante entendimento atual desta Corte, não há nulidade por descumprimento do art. 1.018, § 2º, do CPC quando inexistir prejuízo à parte agravada, uma vez que a finalidade da regra processual do mencionado dispositivo é, principalmente, proporcionar à parte contrária o exercício de sua defesa, o que, no caso dos autos, ocorreu de fato. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.408.790/PI, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ART. 526 DO CPC/1973. DESCUMPRIMENTO DE ÔNUS PROCESSUAL. EXERCÍCIO DA DEFESA. AUSÊNCIA, NO CASO, DE PREJUÍZO DA PARTE AGRAVADA. EXCESSO DE FORMALISMO. INADMISSIBILIDADE DO AGRAVO DE INSTRUMENTO AFASTADA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Tendo a parte agravada exercido o seu direito de defesa e não configurado prejuízo processual a esta, não há que se falar em nulidade, considerando-se cumprida a exigência do art. 1.018, §§ 2º e 3º, do CPC/2015 (art. 526 do CPC/1973). Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.813.257/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/4/2022, DJe de 25/4/2022.)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ARGUIÇÃO DE FALSIDADE. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. ART. 1.018, §§ 2º E 3º, DO CPC/2015. DESCUMPRIMENTO DE ÔNUS PROCESSUAL. AUSÊNCIA DE PREJUÍZO. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
