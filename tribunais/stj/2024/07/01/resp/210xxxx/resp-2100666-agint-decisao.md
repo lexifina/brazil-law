@@ -1,0 +1,18 @@
+DECISÃO
+Gabriela Flores de Noronha Figueiredo Pantazopoulos interpôs recurso especial contra os acórdãos de fls. 933-948 e 996-1.006 (e-STJ), proferidos pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementados:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. APELAÇÃO CÍVEL. DEPÓSITO INTEGRAL DO VALOR DEVIDO. MORA DO DEVEDOR. INEXISTÊNCIA. JUROS DE MORA. INAPLICABILIDADE. CORREÇÃO MONETÁRIA. ÍNDICE. INSTITUIÇÃO FINANCEIRA. SENTENÇA MANTIDA.1. Apelação cível em que a exequente busca a incidência de juros de mora e correção monetária sobre o valor integral depositado em juízo, no período entre o depósito e o efetivo levantamento. 2. O depósito integral do valor devido em juízo no cumprimento de sentença elide a mora do devedor, cuja quantia passa a receber correção monetária e juros segundo os critérios da instituição financeira. 2. Ademais, com relação à correção monetária, nos termos da Súmula 179 do STJ, "o estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos". 3. Negou-se provimento ao recurso de apelação.
+EMBARGOS DE DECLARAÇÃO. DEPÓSITO INTEGRAL DO VALOR DEVIDO. MORA DO DEVEDOR. INEXISTÊNCIA. AUSÊNCIA DE OMISSÃO. REEXAME DA MATÉRIA. IMPOSSIBILIDADE. REJEIÇÃO. 1. Os embargos de declaração têm por finalidade a eliminação de obscuridade, contradição e omissão existentes no julgado, e, ainda, por construção pretoriana, a correção do erro material. 2. A via estreita dos embargos de declaração, recurso de fundamentação vinculada, não permite, por si, o reexame da matéria debatida e decidida, conjectura que reclama outra espécie de recurso. 3. Embargos de declaração rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 1.008-1.035), apontou a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 489, § 1º, VI, 904, I, 906 e 1.022, II, e parágrafo único, II, do CPC/2015; e 394, 395 e 401, I, do CC. Sustentou, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) que o depósito com finalidade de garantia do juízo não elide a mora do devedor, sendo devidos juros e correção monetária até o efetivo levantamento dos valores.
+Foram apresentadas contrarrazões às fls. 1.161-1.191 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 1.194-1.195), ascenderam os autos a esta Corte.
+Em decisão monocrática de fls. 1.202-1.205 (e-STJ), esta relatoria conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Daí sobreveio este agravo interno (e-STJ, fls. 1.210-1.235), no qual persiste a agravante na tese de negativa de prestação jurisdicional, bem como defende a não incidência da Súmula 284/STF.
+Impugnação às fls. 1.239-1.254 (e-STJ), requerendo-se o não conhecimento ou o desprovimento do recurso e a aplicação de multa.
+Brevemente relatado, decido.
+Tendo em vista as razões apresentadas nesta oportunidade, bem como a constatação da necessidade de melhor análise do caso, a decisão monocrática deve ser tornada sem efeitos.
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeitos a decisão de fls. 1.202-1.205 (e-STJ).
+Após, retornem os autos conclusos para nova decisão.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. NECESSIDADE DE MELHOR ANÁLISE DO CASO. RECONSIDERAÇÃO DA DECISÃO ANTERIOR. AGRAVO INTERNO PROVIDO PARA TORNAR SEM EFEITOS A DECISÃO MONOCRÁTICA.
