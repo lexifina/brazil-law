@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO CARACTERIZADA. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela violação do art. 489, § 1º, V, 1.022, II, e 1.025 do CPC quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por FTA DESENVOLVIMENTO IMOBILIÁRIO S.A. contra decisão que negou provimento ao agravo em recurso especial por ele interposto, sob o fundamento de não existir omissão e nem mesmo apreciação das questões suscitadas.
+No presente agravo interno, alega a parte recorrente que não foram enfrentados temas cruciais: supressão de instância; nulidade processual, por falta de acesso a documentos ditos sigilosos; existência de posse; ato jurídico perfeito; "restituição" de valores não pagos às recorrentes; entrega de obras; e princípio da causalidade sucumbencial.
+Alerta que restaram não julgados os temas que, se analisados, poderiam levar a julgamento diverso do ocorrido, devendo ser aplicada a melhor jurisprudência deste Tribunal, com a revogação do conhecimento desse agravo e a revogação do acórdão nos declaratórios.
+Estabelece que a decisão agravada de origem não apreciou os temas de mérito do recurso especial. Se não apreciou os temas postos no especial, não denegou o seguimento. Se não denegou o seguimento, o recurso especial deve ser objeto de julgamento.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO CARACTERIZADA. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela violação do art. 489, § 1º, V, 1.022, II, e 1.025 do CPC quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Agravo interno a que se nega provimento.
+VOTO
+Cinge a controvérsia a respeito da existência de omissão e falta de prestação jurisdicional pelo Tribunal de origem.
+Conforme relatado na decisão primeva, sustenta a parte agravante que, há omissão de fundamentação da decisão recorrida tendo em vista que o contrato possui cláusulas expressas de prazo de conclusão de obras e nenhuma questão fática foi levantada pela recorrida quanto ao fato, de modo que não foi objeto de provas em primeiro grau, não se podendo "acolher provas não produzidas como razão de decidir".
+Ressaltou que há omissão quanto à comprovação da posse, cuja supressão requer , para dizer a razão de não ser a afirmação documentada a prova da posse (além da contratual e além do fato de a recorrida pertencer à Associação dos Proprietários e, portanto, ter livre acesso ao empreendimento).
+O Tribunal de origem ao analisar o tema entendeu (fls. 253 e 257/258):
+De um lado, embora razão não assista às apelantes quando insistem na retenção integral dos valores recebidos da autora seja por força de cláusulas contratuais previstas no instrumento que deu origem ao negócio, seja por força do distrato de fls. 45/46, porque evidentemente nulos em face da consumidora, que nos termos da Súmula de n. 1 deste E. Tribunal de Justiça "mesmo inadimplente, pode pedir a rescisão do contrato e reaver as quantias pagas", deve ser majorado o percentual de retenção na origem fixado em 10% (dez por cento).
+O percentual de 10% (dez por cento) arbitrado na sentença vergastada está em conformidade com entendimento que vinha sendo adotado pelo C. Superior Tribunal de Justiça, que considerava razoável retenção no percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos, quando houvesse resolução do compromisso de compra e venda por culpa do promitente comprador, nos contratos anteriores à Lei n. 13.786/2018.
+(..) A despeito da disposição contratual no sentido de que "O COMPRADOR entra neste ato na posse precária do imóvel, já demarcado" (cláusula 2 fls. 32, destaque não original), nada nos autos demonstra a efetiva imissão na posse, por exemplo, por meio da entrega das chaves à autora do bem ou até mesmo comprovante de conclusão de obras, sendo certo que o próprio instrumento contratual de fls. 31/37 deixa claro por meio de suas diversas previsões que se tratava de empreendimento em fase incipiente de construção, ficando, ademais, o bem adquirido à disposição da vendedora para negociação ao menos desde a data do distrato de fls. 45/46. E nem se fale na impossibilidade de responsabilização das apelantes pela devolução desses valores, já que junto da associação corré formaram verdadeira cadeia de consumo.
+Ainda, quanto às omissões, quando da oposição dos primeiros embargos de declaração da parte, entendeu o Tribunal de origem (fl. 281):
+Quanto ao mais, porém, não há que se falar em omissão ou obscuridade no acórdão, já que foi expresso e cristalino ao consignar que não haveria de se cogitar de anulação do decisum por cerceamento de defesa, ao rejeitar as demais nulidades, no acórdão escritas entre aspas justamente por se confundirem com matéria de mérito cuja rejeição se ratificou, e ao concluir que a distribuição dos ônus sucumbenciais seria mantida da forma em que na origem realizada, "dado que remanesce mínima a sucumbência da autora" (fls. 258)
+Assim, não há que se falar em ofensa aos arts. 489, § 1º, IV, 1.022, II, do CPC/2015, pois verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
