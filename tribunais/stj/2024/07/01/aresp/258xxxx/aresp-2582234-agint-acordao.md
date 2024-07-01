@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 25/06/2024 a 01/07/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. OFENSA A DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. CERCEAMENTO DE DEFESA. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Compete ao STJ zelar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo do recurso especial que sustente ofensa a dispositivos constitucionais, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.536/1.549) interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 1.531/1.534).
+Em suas razões, a parte agravante alega que não busca a apreciação de matéria constitucional, tampouco o reexame de provas.
+Repisa ainda os argumentos do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação às fls. 1.553/1.558 (e-STJ).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. OFENSA A DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. CERCEAMENTO DE DEFESA. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Compete ao STJ zelar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo do recurso especial que sustente ofensa a dispositivos constitucionais, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.531/1.534):
+Cuida-se de agravo apresentado por JESSICA MOURA DE SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - PREVENÇÃO - NÃO CONHECIMENTO DO RECURSO POR OFENSA À DIALETICIDADE - NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA - PRELIMINARES REJEITADAS - MÉRITO - ALEGAÇÃO DE MAU CHEIRO INTENSO E PROLIFERAÇÃO DE DOENÇAS EM RAZÃO DE EMPRESA QUE MANIPULA MATERIAL ORGÂNICO EM DECOMPOSIÇÃO NA FABRICAÇÃO DE FERTILIZANTES - NEXO CAUSAL NÃO DEMONSTRADO - PERÍCIA REALIZADA EM JUÍZO - RECURSO CONHECIDO E DESPROVIDO.
+01. Consoante inteligência do artigo 158 do RITJMS, o órgão que primeiro conhecer de uma causa ou de qualquer incidente terá a competência preventa para os feitos originários conexos e para todos os recursos. Constatada tal situação junto à 4ª Câmara Cível, deve ser afastada a alegada prevenção da 1ª Câmara Cível.
+02. Se há a possibilidade de compreensão da pretensão formulada, não há falar em ofensa ao princípio da dialeticidade, que apenas teria lugar naqueles recursos em que as argumentações e os fundamentos não sejam expostos de maneira concatenada ou não mantenham correlação com o provimento jurisdicional.
+03. O juiz é o destinatário das provas e, como tal, cabe-lhe decidir acerca da necessidade e pertinência da realização de novas provas, indeferindo aquelas que julgar desnecessárias, mormente quando já firmou seu convencimento por aquelas contidas nos autos e se a complementação de perícia ampliaria indevidamente a causa de pedir da lide.
+04. O perito judicial é pessoa de confiança do juiz e equidistante das partes, sem qualquer interesse no deslinde da causa, sendo certo que ele possui conhecimentos técnicos especializados para a adequada apreciação dos fatos narrados pelo autor em sua petição inicial.
+05. Não demonstrado o nexo de causalidade entre a conduta praticada pela empresa e o dano sofrido pela parte autora, mormente mediante comprovação, por perícia técnica, que o mau cheiro também advém de outras empresa instaladas (regularmente) no local, deve ser afastada e responsabilidade civil.
+06. Recurso conhecido e desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 369 do Código de Processo Civil; e do art. 5º, inciso LV, da Constituição Federal, no que concerne à configuração de cerceamento de defesa em razão do indeferimento da produção de prova técnica para complementação dos exames do laudo pericial, o qual, por sua vez, apresenta inconsistências na coleta dos dados, trazendo a seguinte argumentação:
+No caso, importa esclarecer que o laudo pericial aproveitado no processo em epígrafe, foi realizado nos autos do processo nº 0816046-57.2019.8.12.0001, lá acostado às fls. 917/989.
+Em seguida, por requerimento das partes, os esclarecimentos dos senhores peritos foram juntados aos referidos autos (fls. 1.052 a 1.055).
+Com os esclarecimentos prestados pelos senhores peritos, foi possível identificar inconsistências na coleta dos dados para o laudo, o que levou a parte recorrente a requerer novos exames, diante da imprescindibilidade de complementar-se o laudo pericial.
+Mesmo diante da evidente necessidade de se procederem a novos exames, o pedido foi indeferido pelo juízo de primeiro grau, o qual entendeu se tratar de inovação no processo, vedada após o início dos trabalhos periciais, sob a argumentação de que se "cuidava de prazo peremptório para apresentação de quesitos e indicação de assistente técnico."
+ ..
+Repisando-se o que foi argumentado no recurso, as questões objeto de indeferimento pela decisão de primeiro grau atacada pelo Agravo de Instrumento, somente puderam ser vislumbrados a partir da expedição do laudo pericial, e dos esclarecimentos prestados pelos senhores peritos, restando evidente a impossibilidade de se questionar com antecedência, pelo integral desconhecimento da forma procedimental adotada durante a realização dos exames periciais.
+No caso dos autos, é forçoso que se observe um procedimento adequado (medições em todas as direções a partir da empresa recorrida), por uma questão de lógica, devem ser procedidas a medições para coleta de dados e todas as direções a partir da sede da recorrida. No caso, a coleta parcial de dados comprometeu as conclusões emitidas pelo laudo, em vista de a extensão do dano depender da ação da natureza (direção e intensidade dos ventos).
+Outra razão para que se avance na produção da prova é o fato de o laudo, além de inconclusivo, levantar a hipótese de o mau cheiro na região ter origem em outros empreendimentos com potencial de emitir poluição dessa natureza, sem determinar qual a origem ou a base para comprovação dessa argumentação.
+Com o indeferimento da prova, a busca pela verdade real não foi alcançada, impedindo-se a possibilidade consistente de se eliminar a controvérsia. As falhas detectadas e apontadas no procedimento de elaboração dos exames foram determinantes e comprometeram a conclusão emitida pelo laudo pericial, o que impõe diligências complementares que ofereçam subsídios para um resultado conclusivo que dê suporte à reforma da decisão atacada.
+Ademais, a pretensão da parte recorrente não representa inovação não permitida no processo, argumentação em que se alicerçou a decisão atacada, a qual foi mantida pelo acórdão de segundo grau, pela indispensável necessidade de se constatar a fonte emissora e a extensão dos efeitos da poluição, e a real possibilidade de se esclarecer a partir de uma coleta de dados adequada. (fls. 1.456-1.464).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020).
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+No mais, o Tribunal de origem se manifestou nos seguintes termos:
+Analisando detidamente as provas constantes dos autos, vê-se que se mostraram suficientes a formar o livre convencimento motivado do julgador, tornando-se desnecessária a produção de outras provas, estando os autos com toca a documentação necessária para a análise dos pontos controvertidos. (fl. 1.440).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Em relação ao art. 5º, LV, da CF, compete ao STJ zelar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal (art. 102, III, da CF).
+Conforme destacado pela decisão agravada, o recurso especial não comporta exame de questões que impliquem nova análise dos elementos de prova dos autos.
+Modificar o entendimento do Tribunal de origem - que concluiu pela não configuração do cerceamento de defesa - esbarra na Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
