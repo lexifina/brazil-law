@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de RAFAEL HENRIQUE BERNARDES CANDIDO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo em Execução Penal n. 0001446-50.2024.
+Consta dos autos que o paciente "cumpre um total de pena de 07 anos e 20 dias de reclusão, em regime fechado, pela prática de dois crimes de roubo majorado e um furto, tendo iniciado o cumprimento da pena privativa de liberdade em21/06/2019, com término de cumprimento previsto para 27/05/2026(cálculo da pena, fls. 212/215, PEC n. 0000871-81.2020.8.26.0502), isso se não sobrevier nenhuma intercorrência até o respectivo termo final" (fl. 30).
+O juízo da execução indeferiu o livramento condicional, em razão da ausência do requisito subjetivo. Inconformada, a defesa interpôs agravo de execução penal, o qual foi desprovido em acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - Concessão de livramento condicional - Não preenchimento do requisito subjetivo - Histórico prisional desfavorável - Registro de falta grave - O bom comportamento carcerário deve considerar todo o histórico do sentenciado, não se limitando ao período de 12 (doze) meses a que alude o artigo 83, inciso III, alínea "b", do Código Penal - Entendimento firmado pelo Egrégio Superior Tribunal de Justiça, sob o rito dos recursos repetitivos Tema nº 1.161 - Agravo não provido" (fl. 29).
+A impetrante afirma que o paciente praticou somente uma falta grave durante o cumprimento da pena, em 19/9/2022, não se mostrando razoável o indeferimento do benefício com base nessa infração, sobretudo diante da reabilitação da sua conduta.
+Requer, em liminar e no mérito, a concessão do livramento condicional.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+De início, eis a fundamentação apresentada pelo Tribunal de origem:
+" ..  Observa-se que o agravante ostenta uma falta grave em seu histórico prisional, praticada em 19/09/2022, conforme se verifica no boletim informativo de fls. 16/21, consistente em posse de acessórios para celular.
+Em que pese já tenha decorrido o prazo de reabilitação da respectiva infração disciplinar, é certo que tal circunstância infunde pertinente dúvida quanto ao efetivo preenchimento do requisito subjetivo por parte do reeducando, mormente quando a falta foi praticada em data relativamente recente.
+Consoante recente julgado proferido pelo Egrégio Superior Tribunal de Justiça, sob o rito dos recursos repetitivos (REsp nº 1.970.217/MG e 1.974.104/RS), firmou-se o Tema nº 1.161, o qual dispõe que: "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+Dessa forma, a ausência de falta grave nos últimos doze meses, prevista no artigo 83, inciso III, alínea "b", do Código Penal, consiste em pressuposto objetivo para a concessão do livramento condicional e, portanto, não se limita análise do requisito subjetivo de bom comportamento.  .. " (fls. 32/33)
+O acórdão impugnado encontra-se em consonância com a jurisprudência desta Corte, segundo a qual "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (Tema Repetitivo 1161).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. TEMA REPETITIVO N. 1.161 DO STJ. FALTA DISCIPLINAR GRAVE RECENTE. REEXAME PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência desta Corte Superior, "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal". Tema repetitivo n. 1.161 do STJ.
+2. Caso concreto em que o Tribunal de origem, ante o cometimento de falta disciplinar grave recente, em que pese reabilitada, decidiu que não há como se concluir, com a certeza que o caso exige, que esteja o agravante engajado com a terapêutica penal, próximo da ressocialização.
+3. Impossível a alteração das premissas fáticas delineadas pelas instâncias de origem, pois que ensejam o reexame do conteúdo probatório dos autos, inadmissível em habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 902.352/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 10/6/2024, DJe de 20/6/2024.)
+Ademais, mostra-se incabível, na via estreita do habeas corpus, desconstituir as conclusões das instâncias ordinárias sobre o não preenchimento de requisito subjetivo necessário à concessão de benefícios da execução, como a progressão de regime e o livramento condicional, uma vez que tal providência implica no reexame do conjunto fático-probatório.
+Ante o exposto, indefiro liminarmente o habeas corpus, com fundamento no art. 210 do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
