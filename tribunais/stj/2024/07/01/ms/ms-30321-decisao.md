@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado contra ato de ministro do Superior Tribunal de Justiça que não conheceu de agravo em recurso especial por intempestividade recursal. A decisão foi proferida pelo Min. Marco Aurélio Belizze, no julgamento do AgInt no AREsp 2458586/SP.
+Alega o impetrante que a tempestividade recursal foi reconhecida pelo Tribunal de origem. Aduz que o sistema de peticionamento eletrônico do TJSP está a apresentar constantes falhas. Fundamenta que "o mesmo TJSP divulga ao público em geral o calendário jurídico, e no mês de abril os prazos processuais foram suspensos nos dias 14 e 15, 21 e 22, fato de conhecimento de TODO O MUNDO JURÍDICO BRASILEIRO".
+Liminarmente, pede a suspensão do recurso especial, bem como do agravo interno, até o julgamento definitivo deste Mandado de Segurança. No mérito, pede a concessão da segurança, a fim de que seja determinado o julgamento do recurso especial pela Turma competente,
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 29/03/2022, sendo o recurso especial interposto somente em 25/04/2022.
+Portanto, o recurso é manifestamente intempestivo, pois interposto fora do prazo de 15 dias úteis previsto nos arts. 219 e 1.003, § 5º, ambos do Código de Processo Civil.
+No julgamento do Recurso Especial 1.813.684/SP, a Corte Especial firmou entendimento de que, na vigência do CPC/15, é necessária a comprovação de feriado local, por meio de documento idôneo, na interposição do recurso. Em Questão de Ordem, a Corte Especial explicitou que somente é possível a posterior comprovação do feriado local no caso de recurso interposto até 18/11/2019. É, ainda assim, "restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais" (QO no REsp n. 1.813.684/SP, Relatora Ministra Nancy Andrighi, julgado em 3/2/2020, DJe 28/2/2020).
+No caso, não se trata do feriado do carnaval. No ato de interposição do recurso especial, o recorrente não só não demonstrou a ocorrência do feriado local, como também não comprovou as alegadas indisponibilidades do sistema de peticionamento do TJSP, por meio de certidão idônea.
+Alega que a intempestividade apenas foi reconhecida nesta Corte. Entretanto, o Tribunal de origem também se manifestou pela intempestividade, pelas mesmas razões (ausência de demonstração do feriado local). Em consequência, não admitiu o recurso especial (fls. 79/80, e-STJ).
+Ainda que assim não fosse, o juízo de admissibilidade é bifásico, "de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial" (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022).
+Portanto, não houve comprovação, no ato de interposição do recurso, da existência de suspensão do expediente forense ou de indisponibilidade do sistema de peticionamento. Impõe-se a manutenção da decisão que não conheceu do recurso especial em razão da sua intempestividade.
+Em face do exposto, com fundamento nos arts. 34, XIX, e 212 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial.
+Julgo prejudicado, em consequência, o exame do pedido liminar.
+Sem condenação em honorários advocatícios, com base no art. 25 da Lei nº 12.016/2009.
+Intimem-se.
+EMENTA
