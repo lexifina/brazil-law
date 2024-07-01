@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  opostos  por  SAVANA  COMERCIO  DE  VEICULOS  LTDA e outra,  contra  decisão  de  fls.  475/476,  a  qual  negou  provimento  ao  agravo,  tendo em vista a evidente falta de interesse recursal da agravante,  pois  a  Corte  local  expressamente  reconheceu  a  possibilidade  de  os  contribuintes  apropriarem  créditos  compensáveis,  calculados  sobre  tais  taxas,  com  as  contribuições  devidas  sobre  a  receita.
+A  parte  embargante  aponta  a  existência  de  omissão,  quanto  ao fato de que  "o  Ilmo. Ministro  expôs  apenas  trecho  do  voto  que  restou  vencido,  do  Exmo.  Desembargador  Federal  Leandro  Paulsen,  dado  no  julgamento  colegiado  do  E.  Tribunal,  como  se  fosse  o  entendimento  final  dado  pela  E.  Turma"  (fl. 485).
+Aberta  vista  à  parte  embargada,  transcorreu  in  albis  o  prazo  para  apresentação  de  impugnação  (fl.  493)..
+É O BREVE RELATO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Outrossim, "A jurisprudência desta Corte Superior é firme no sentido de que, em caráter excepcional, pode-se atribuir efeitos infringentes aos embargos de declaração para correção de premissa equivocada sobre a qual tenha se fundado o julgado embargado, quando tal questão for decisiva para o resultado do julgamento" ( EDcl no AgInt nos EDcl no AREsp n. 1.762.414/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+No caso, melhor compulsando os autos, considerando os termos do voto condutor do julgado (cf. fls. 273/275 e 280), verifico a existência de erro de premissa constante do decisum embargado ao entender que "a  Corte  local  expressamente  reconheceu  a  possibilidade  de  os  contribuintes  apropriarem  créditos  compensáveis,  calculados  sobre  tais  taxas,  com  as  contribuições  devidas  sobre  a  receita" (fl. 476).
+Assim, de rigor o acolhimento dos aclaratórios vertentes para sanear o constatado erro de premissa e, conferindo-lhes efeitos modificativos, reconsiderar a decisão de fls. 475/476.
+ANTE  O  EXPOSTO,  acolho os embargos de declaração para corrigir erro de premissa e, conferindo-lhes efeitos modificativos, reconsidero a decisão de fls. 475/476. Após, voltem-me conclusos para nova análise do agravo em recurso especial.
+Publique-se.
+EMENTA
