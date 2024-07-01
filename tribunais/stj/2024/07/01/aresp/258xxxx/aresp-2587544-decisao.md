@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por HIMALAIA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 318):
+APELAÇÃO CÍVEL - Compra e venda de imóvel - Rescisão do contrato com pedido de restituição das quantias pagas e indenização por danos morais - Sentença de parcial procedência, afastado o dano moral- Irresginação da ré, aviada na impossibilidade de restituir a totalidade dos valores pagos pelo autor da demanda - Não acolhimento - Não prevalência do art.67-A da Lei nº 13.786/18 - Situação concreta na qual não houve culpa do autor, tendo o negócio perecido porque se revelou enganosa informação inicialmente passada pela parceira da apelante, no sentido de que o financiamento seria aprovado em valor maior do que o efetivamente disponibilizado - Impossibilidade de se relegar situação concreta que equivale à oferta, pena de permitir armadilhas na captação da clientela - Sentença mantida - RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 418-421).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 67, § 5º, da lei n. 4.591/1964, com a redação conferida pela Lei n. 13.786/2018; e 53 do CDC.
+Esclareceu que se opôs ao acórdão por estabelecer a não prevalência do art. 67-A da Lei n. 13.786/2018, com a justificativa de que não houve culpa do autor, tendo o negócio sido rescindido porque se revelou enganosa a informação inicialmente passada pela parceira da insurgente.
+Frisou que o aresto não respeitou a lei que rege sobre distrato de compra e venda de unidades imobiliárias submetidas ao patrimônio de afetação. Ponderou que foi equivocada a determinação para restituição da totalidade dos valores pagos.
+Sustentou que o desfazimento do negócio é direito do adquirente, contudo as consequências jurídicas de seu exercício devem observadas em respeito ao contrato (princípio do pacta sunt servanda), o qual foi redigido de forma clara e em respeito à legislação vigente e aplicável ao caso, que permite, para a hipótese de rescisão por iniciativa do adquirente, a retenção de até 50% (cinquenta por cento) do montante quitado. Requereu o provimento do recurso especial (e-STJ, fls. 448-459).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 442-452).
+Contraminuta não apresentada (e-STJ, fl. 454).
+Brevemente relatado, decido.
+O acórdão concluiu ser hipótese de restituição integral dos valores pagos pelo promitente comprador da unidade imobiliária. Justificou o decidido que a resilição do contrato se deu por culpa da insurgente, que ofertou o bem ao recorrido com a informação de que ele receberia financiamento suficiente para a aquisição, entretanto a agravante teria alterado a instituição financeira intermediária do financiamento e esta nova empresa não cobriria os custos com a compra, ocasionando a resilição da avença.
+Leia-se (e-STJ, fls. 319-321):
+Não se descura a incidência da novel Lei nº 13.786/18, que em seu art. 67-A traça possibilidades mais elásticas a uma maior retenção do preço por parte do incorporador no caso de desfazimento da avenca.
+Todavia, a boa-fé objetiva ainda é prisma que deve sobressair, seja no pálio da relação de consumo, seja na contratual civil pura.
+No caso em tela, a rescisão não se deu por mera liberalidade do apelado, ou inadimplemento a que tenha dado causa. Ao contrário, firmou o contrato porque a assessoria financeira vinculada à apelante informou a aprovação de crédito em valor suficiente para o pacto que ali seria firmado.
+Portanto, o apelado celebrou o negócio porque a apelante aparentou viabilizar condição suficiente ao financiamento do preço. A documentação de p. 60/65 é clara nesse sentido.
+Essa vinculação tem feição de oferta, e assim vincula o negócio.
+No entanto, a própria apelante alterou a instituição intermediária do financiamento, e essa segunda não mais oferecia crédito em montante suficiente; afora o fato de que a unidade em questão, por estar com data muito próxima de entrega, não poderia ser financiada naquela modalidade.
+Não se pode dizer que, em tal cenário, a atuação tenha sido culposa do apelado, mas sim da apelante. Admitir tal comportamento seria permissivo a verdadeira armadilha ao adquirente, que assina o contrato na crença de certas condições, mas é surpreendido com sua modificação.
+Frise-se que a situação telada não é equivalente à da tratativa com instituição financeira livremente escolhida pelo adquirente. Em tais casos, de fato, a responsabilidade é inteira do adquirente em obter crédito ou não.
+Porém, a partir do momento em que a construtora indica um agente intermediário, as condições inicialmente oferecidas geram expectativa.
+Por óbvio, não se obriga a ninguém a oferta de crédito. Todavia, em uma operação casada, os reflexos de uma hão de ser tolerados na outra.
+Daí a acertada percepção judicial de que a responsabilidade é integral da apelante, valendo transcrever:
+ ..
+Com acertado resultado pronunciado em primeiro grau, descabe a modificação reclamada.
+Essas ponderações no sentido da responsabilidade da recorrente pela rescisão contratual foram fundadas na análise de fatos e provas e interpretação de termos contratuais, atraindo a aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional. Não se vislumbra a pretensão por mera qualificação jurídica do quadro fático, mas sua reapreciação, o que é vedado a esta Corte Superior.
+A empresa não ataca relevante tese do aresto no sentido de que ela não respeitou a oferta ao comprador, vinculativa do negócio, tendo modificado a financiadora inicial por outra, que não cobriria os valores necessários à perfectibilização da compra. Óbice da Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESILIÇÃO DA AQUISIÇÃO POR CULPA DA PROMITENTE VENDEDORA. RESTITUIÇÃO DA TOTALIDADE DOS VALORES PAGOS PELO COMPRADOR. SÚMULAS 5 E 7/STJ. RELEVANTE FUNDAMENTO DO ACÓRDÃO NÃO ATACADO ESPECIFICAMENTE PELA INSURGENTE. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
