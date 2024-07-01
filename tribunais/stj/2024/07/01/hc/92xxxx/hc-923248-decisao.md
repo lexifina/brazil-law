@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Carlos Eduardo Damasio Gomes e Janderson Correa Marcolino - condenados por roubo circunstanciado tentado a 5 anos e 4 meses de reclusão, em regime inicial fechado, e a 13 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça do Rio de Janeiro (fls. 12/21), não comporta processamento.
+Com efeito, busca a impetração o abrandamento do regime inicial imposto aos pacientes - na condenação proferida na Ação Penal n. 0008552-13.2021.8.19.0066 (fls. 70/76, da 1ª Vara Criminal da comarca de Angra dos Reis/RJ) -, fixando o regime semiaberto, ao argumento de que o fato de tratar-se de crime praticado com emprego de arma de fogo e concurso de pessoas não constitui fundamento para sustentar a imposição de regime mais gravoso, não se vislumbrando menção a qualquer elemento concreto do caso, apenas a elementos inerentes ao tipo penal (fl. 7).
+Sem pedido liminar.
+Não foi demonstrado constrangimento ilegal na imposição do regime inicial fechado, uma vez que a pena definitiva foi fixada em 5 anos e 4 meses de reclusão e a fundamentação do agravamento do regime se deu em razão da gravidade concreta do delito, tanto na sentença - considerando as circunstâncias do crime, o qual envolveu grave violência à pessoa, com emprego de arma de fogo e concurso de pessoas (fl. 76) - quanto no acórdão da apelação: o crime de roubo majorado foi cometido por três indivíduos, que, mediante emprego de arma de fogo, ameaçaram e causaram enorme terror aos funcionários de uma loja de aparelhos celulares (fl. 21).
+Nesse sentido: a manutenção do regime fechado baseou-se na gravidade concreta do delito, praticado em concurso de três agentes e com emprego ostensivo de arma de fogo, em ambientes comercial e residencial, denotando a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena (AgRg no HC n. 884.884/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/6/2024, DJe 13/6/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. POSSIBILIDADE. PRECEDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente .
