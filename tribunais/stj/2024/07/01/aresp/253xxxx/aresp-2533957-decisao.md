@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  incidência das Súmulas n. 282 e 356 do STF  (e-STJ  fls.  599/600).
+O  acórdão  recorrido  encontra-se  assim  ementado  (e-STJ  fl.  551):
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE. Contrato de locação. Título executivo extrajudicial. Falta de interesse processual. Questão ventilada pela executada já está em discussão nos embargos à execução opostos, nos quais a cognição é plena e exauriente, podendo ser alegado tudo que seria lícito deduzir como defesa em processo de conhecimento, à luz da previsão do art. 917, VI, do CPC. Matéria também já foi amplamente debatida em demanda declaratória e condenatória anteriormente proposta pela executada. Litigância de má-fé não caracterizada. Decisão mantida.
+Recurso não provido.
+Nas  razões  do  recurso  especial  (e  - STJ  fls.  557/573),  interposto  com  fundamento  no  art.  105,  III,  "a",  da  CF,  a  parte  alegou  violação  dos  artigos  783 e 803, inciso I e parágrafo único, e 1.012, § 2º, do Código de Processo Civil.
+  Asseverou,  para  tanto,  que,  "Apesar de reconhecer que não seria caso de reconhecimento de nulidade total da execução, o v. acórdão recorrido deixou de pronunciar a sua nulidade parcial, especificamente em relação à nota de cobrança nº 90186, objeto da execução extrajudicial e, também, da ação declaratória anteriormente proposta e ainda sub judice, o que, evidentemente, vulnera as disposições dos arts. 783 e 803, inciso I e parágrafo único do CPC, motivando, pois, a interposição do presente apelo raro"  (e-STJ  fl.  563).
+Aduziu que "a cobrança de eventuais valores, pela recorrida, através do cumprimento provisório de sentença vinculado à ação anteriormente proposta, nos termos do art. 1012, §2º, CPC, não através de execução autônoma, reconhecendo-se, pois, a nulidade formal do título que lastreia a execução, através da exceção de pré-executividade apresentada, dispensando-se a exigência de oposição de Embargos à Execução, nos termos do arts. 783, 803, I e parágrafo único, do CPC (tema eminentemente jurídico)"  (e-STJ  fl.  568).
+  No  agravo  (e-STJ  fls.  603/611),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Foi  oferecida  contraminuta  (e-STJ  fls.  620/639).
+  É  o  relatório.
+Decido.
+Relativamente à suposta ofensa ao artigos 783 e 803, inciso I e parágrafo único, e 1.012, § 2º, do Código de Processo Civil, a Corte de origem asseverou que (e-STJ fls. 553/554, grifei):
+De outro, a agravante sustenta que a exigibilidade do título executivo extrajudicial estaria sujeita ao resultado definitivo do processo n. 1106164-31.2021.8.26.0100.
+Ocorre que a pretensão formulada pela ora recorrente na ação declaratória e condenatória n. 1106164-31.2021.8.26.0100 foi julgada improcedente em primeira instância. Inconformada, a então autora interpôs recurso de apelação, ao qual esta 35ª Câmara de Direito Privado, em acórdão de minha relatoria, negou provimento. Ainda irresignada, a então autora interpôs recurso especial, para o qual não há notícia de atribuição de efeito suspensivo recursal.
+(..)
+De qualquer forma, ainda que o resultado da ação n. 1106164-31.2021.8.26.0100 venha a ser eventualmente revertido no Superior Tribunal de Justiça, não se poderá reconhecer a nulidade total do título extrajudicial que embasa a execução.
+Ora, conforme apontou a agravada a fls. 536, a ação de execução possui objeto mais abrangente que a ação declaratória e condenatória anteriormente proposta pela agravante.
+De fato, na ação n. 1106164-31.2021.8.26.0100, discute-se a nota de cobrança n. 90186, relativa ao contrato de locação n. 49-21. Por sua vez, a ação de execução n. 1060897-02.2022.8.26.0100 tem como objeto duas notas de cobrança (n. 87235 e 90186), relativas ao mesmo instrumento contratual.
+Portanto, sob qualquer ângulo que se analise a lide, não seria o caso de se reconhecer a nulidade integral da execução, extinguindo-a nos termos do artigo 803, inciso I e 924,inciso I, ambos do Código de Processo Civil, tal como pleiteia a agravante (fls. 69 dos autos de origem).
+A Corte de origem entendeu pela ausência de nulidade da execução, tendo em vista que "a ação de execução possui objeto mais abrangente que a ação declaratória e condenatória anteriormente proposta pela agravante" e que, "sob qualquer ângulo que se analise a lide, não seria o caso de se reconhecer a nulidade integral da execução, (..) tal como pleiteia a agravante (fls. 69 dos autos de origem)".
+Desse modo, para rever tais conclusões, seria indispensável o revolvimento do arcabouço fático-probatório anexado aos autos, providência que encontra óbice na Súmula n. 7 do STJ.
+A título de esclarecimento, c umpre registrar que a ação declaratória e condenatória n. 1106164-31.2021.8.26.0100, na qual foi interposto agravo em recurso especial, com trâmite no STJ sob o n. AREsp 2511445-SP, teve seu provimento negado. Mais uma razão, portanto, para referendar o acórdão recorrido, que concluiu pela im procedência tanto da pretensão de efeito suspensivo que se quer atribuir à execução quanto da tese de nulidade pela ausência de título líquido, certo e exigível.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Deixo de majorar os honorários advocatícios em razão da ausência de fixação na origem.
+Publique-se  e  intimem-se.
+ EMENTA
