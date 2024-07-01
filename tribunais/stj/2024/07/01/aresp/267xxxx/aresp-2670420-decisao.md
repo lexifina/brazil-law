@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (fl. 134):
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. REMESSA NECESSÁRIA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. LUCRO TRIBUTÁVEL. IRPJ.
+Remessa necessária desprovida.
+Os Embargos de Declaração foram rejeitados (fl. 161).
+A parte agravante, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 1.022 do CPC; 1º e 2º da Lei 6.321/1976; 1º, 2º e 5º do Decreto 5/1991; 5º da Lei 8.849/1994; 3º e 13 da Lei 9.249/1995; 16 da Lei 9.430/1996; 5º e 6º da Lei 9.532/1997; 1º do Decreto-Lei 2.462/1988; 10 da Lei 8.541/1992; 369, 581 a 589 do RIR/1999; e 111, I, do CTN. Sustenta, em suma, que o acórdão recorrido indevidamente considerou que "o limite percentual de 4% sobre o valor a ser deduzido deve incidir sobre o lucro tributável, e não após o cálculo do imposto de renda devido" (fl. 175).
+Contrarrazões às fls. 189-198.
+Inadmitiu-se a irresignação (fls. 201-202), o que ensejou a interposição do Agravo de fls. 215-237.
+Contraminuta às fls. 248-253.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.6.2024.
+O acolhimento da preliminar de violação do art. 1.022 do CPC exige que a recorrente aponte com clareza o vício do qual padece o aresto combatido, bem como que demonstre a relevância dele à conclusão do julgado, de forma que, se analisado a contento, poderia levar à alteração do resultado do julgamento. A argumentação genérica de que houve ofensa ao referido dispositivo legal atrai a incidência, por analogia, da Súmula 284/STF. Nessa linha:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. (..) AGRAVO INTERNO DESPROVIDO.
+1. A alegação de ofensa genérica aos arts. 489 e 1.022 do CPC/2015, sem mencionar de que forma tais dispositivos teriam sido violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir a Súmula 284/STF.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 2.115.843/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 7/6/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. SÚMULA 284/STF. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+(..) 2. A alegada violação do art. 1.022, cumulado com o art. 489, ambos do CPC/2015, não pode ser conhecida, pois as razões são genéricas e desprovidas de fundamentação, na medida em que se limitam a dizer que o Tribunal a quo se manteve omisso quanto aos argumentos elencados nos embargos de declaração, não cumprindo o dever de fundamentação. Inteligência da Súmula 284/STF.
+(..) 5. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+(AgInt no AREsp 2.216.272/RJ, Rel. Ministro Raul Araújo, Quarta Turma, DJe 27/4/2023)
+Consoante a orientação jurisprudencial do STJ, "o benefício fiscal, instituído por meio do art. 1º da Lei n. 6.321/1976, recair sobre o lucro tributável da pessoa jurídica, resultando no lucro real, sobre o qual deverá recair o adicional do imposto de renda, previsto no art. 3º, §4º, da Lei n. 9.249/1995. Desse modo, as deduções realizadas no momento da apuração do lucro real não interferem na integralidade do adicional" (AgInt no REsp 1.729.507/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 8/9/2023). Na mesma senda:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022, DO CPC/2015. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ILEGALIDADE DO ART. 645, §1º, I E II, DO DECRETO N. 9.580/2018. ART. 1º, DA LEI N. 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO, O QUE REFLETE NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA, AFASTANDO A VEDAÇÃO CONSTANTE DO ART. 3º, §4º, DA LEI N. 9.249/95. LIMITAÇÃO DA DOBRA A 4% DO IMPOSTO DE RENDA DEVIDO E NÃO A 4% DO LUCRO TRIBUTÁVEL.
+1. O art. 186, do Decreto nº 10.854, de 2021, ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade. Precedente: REsp. n. 2.088.361/CE, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 10.10.2023.
+2. Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional. Precedentes: EDcl no AgRg no REsp 940735 / SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 20.05.2010; REsp 526303 / SP, Segunda Turma, Rel. Min. Castro Meira, julgado em 27.09.2005; AgRg no REsp 115295 / DF, Segunda Turma, Rel. Min. Franciulli Netto, julgado em 02.09.2004; AgInt no REsp. n. 1.761.150-SP, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 12.02.2019.
+3. Contudo, se o artigo 1º, da Lei nº 6.321/76, é claro no sentido de que a dedução do PAT recai sobre o lucro tributável (não tendo sido revogado no ponto pela legislação posterior, pois a Lei n. 9.532/97 tratou apenas dos limites e não da base de cálculo do benefício), os arts. 5º e 6º, I, da Lei n. 9.532/97, são claros no sentido de que o limite da dedução recai sobre o imposto de renda devido. São duas coisas distintas: o cálculo do benefício (lucro tributável) e o limite do benefício (imposto de renda devido). Precedente: AgInt nos EDcl nos EDcl no REsp. n. 1.926.785/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 21.02.2022.
+4. Recurso especial não provido.
+(REsp 2.093.548/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 10/11/2023)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR-PAT. FORMA DE CÁLCULO: DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA LIMITADO A 4% DO IMPOSTO DEVIDO. AGRAVO INTERNO DESPROVIDO.
+1. As turmas de Direito Público do STJ, analisando todos os dispositivos legais pertinentes, pacificaram a orientação de que "os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional".
+2. O referido entendimento está calcado no fato de que em nenhum momento a legislação posterior alterou essa forma de cálculo, isso porque a integralidade mencionada no § 4º do art. 3º da Lei 9.249/1995 já é formada com as deduções antecedentes sobre o lucro tributável. Precedentes: AgInt no REsp 1.968.875/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/12/2022, DJe de 9/12/2022; e EDcl no AgInt no REsp 1.775.844/SC, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.
+3. Agravo interno da Fazenda Nacional a que se nega provimento.
+(AgInt no REsp 2.011.243/PR, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 17/3/2023)
+Dessume-se que o aresto impugnado está em plena sintonia com a atual diretriz do STJ, motivo pelo qual não merece prosperar a irresignação. Incide na espécie o princípio estabelecido na Súmula 83/STJ.
+Dia nte do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
