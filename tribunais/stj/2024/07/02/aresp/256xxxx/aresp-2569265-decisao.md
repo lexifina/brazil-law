@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por MEDICAL MEDICINA ASSISTENCIAL S.A. contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - Cumprimento Provisório de Sentença - Astreintes - A quantia tratada nos autos do incidente se refere à execução da multa diária estabelecida nos autos do processo de conhecimento, em razão do descumprimento reiterado da decisão judicial que deferiu a medida liminar, obrigando a Operadora ao custeio do tratamento médico prescrito ao beneficiário - As astreintes devem ser em valor necessário a induzir seu destinatário ao cumprimento da obrigação de fazer ou não fazer - Adequação do montante exequendo, diante da gravidade do quadro de saúde do beneficiário e da recalcitrância da Operadora quanto ao cumprimento da decisão, a impor duas majorações no valor da multa - A atual legislação processual prevê expressamente em seu art. 537, § 3º a possibilidade de execução provisória de multa, porém, veda seu levantamento antes do trânsito em julgado, o que deve ser observado - Recurso provido em parte" (e-STJ fl. 136).
+No recurso especial, o recorrente alega violação do art. 537, § 1º, I, do Código de Processo Civil, ao fundamento de que a multa cominatória é excessiva e deve ser reduzida.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, as conclusões do Tribunal de origem acerca das astreintes decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Da análise dos autos, como dito, verifica-se que a decisão reproduzida às fls. 07 dos autos de origem concedeu a tutela de urgência pleiteada pelo agravado determinando "que a empresa ré dê continuidade ao tratamento prescrito nos termos requeridos na petição inicial sob pena de multa diária de R$1.000,00 (mil reais) até o valor máximo de R$ 30.000,00", a decisão encartada às fls. 09 dos autos de origem, por sua vez, reconhecendo "o descumprimento da tutela concedida em caráter de urgência" determinou a majoração da multa diária para R$ 10.000,00, até o limite de R$ 300.000,00, e, por fim, a decisão reproduzida às fls. 11 do incidente, "considerando o descumprimento reiterado da parte ré da tutela concedida" majorou, novamente, o valor da multa diária para R$ 15.000,00 até o limite de R$ 350.000,00.
+Evidencia-se a recalcitrância da agravante quanto ao cumprimento da ordem judicial, a impor a necessidade de duas majorações no valor das astreintes a fim de constrangê-la a observar a obrigação imposta, afigurando-se adequados os valores manejados pelo Juízo de origem, em vista da gravidade do quadro de saúde do agravado, que foi diagnosticado com úlcera no calcâneo direito, atingindo 7 cm, com complicações circulatórias e infecciosas periféricas na lesão, com risco de amputação maior e taxa de mortalidade de 30% (fls. 80 da ação de conhecimento), e considerando-se, ainda, o descumprimento reiterado da ordem e a ausência de justificativa razoável para tanto, não se mostrando adequado, no caso, por tais razões, a revisão do valor" (e-STJ fl. 139).
+Como se vê, o aresto atacado concluiu que a multa foi originalmente fixada em valor razoável e somente chegou ao montante ora devido em razão do reiterado descumprimento, por parte da recorrente, das determinações judiciais.
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
