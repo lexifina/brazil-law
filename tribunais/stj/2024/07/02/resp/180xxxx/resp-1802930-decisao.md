@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+APELAÇÃO E REMESSA EX OFFICIO. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR. INÍCIO DE PROVA MATERIAL CORROBORADO PELA PROVA TESTEMUNHAL. BENEFÍCIO CONCEDIDO. TUTELA ESPECÍFICA (fl. 327).
+No recurso especial, interposto com fulcro no art. 105, III, "a", da Constituição Federal, o recorrente aponta, além da negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), ofensa aos arts. 141, 492 e 1.013, todos do CPC/2015, ao fundamento de que "diante da não interposição de recurso pela parte autora, não podia o Tribunal a quo ter agravado a condenação, afastando os consectários legais fixados pela sentença de 1º grau, pois estava em julgamento apenas o recurso de apelação do INSS e da remessa necessária" (fl. 361).
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Preliminarmente, quanto à apontada violação ao art. 1.022, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, de modo que não ficou configurada a negativa de prestação jurisdicional. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Quanto ao mais, a jurisprudência desta Corte é clara ao afirmar que "os critérios dos juros de mora e da correção monetária são consectários legais da condenação e, por conseguinte, constituem matéria de ordem pública, cognoscível ex officio pelas instâncias ordinárias, não havendo que se falar em reformatio in pejus quando o Tribunal de origem define referidos critérios em recurso de apelação interposto exclusivamente pelo ente público ou em sede de reexame necessário" ( AgInt no REsp 1.866.780/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/12/2021).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ENVIO DOS AUTOS À CONTADORIA JUDICIAL DE OFÍCIO. POSSIBILIDADE. AUSÊNCIA DE REFORMATIO IN PEJUS. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. "O juiz pode, de ofício, independentemente de requerimento das partes, enviar os autos à contadoria judicial quando houver dúvida acerca do correto valor da execução e verificar que os cálculos apresentados estão em desacordo com o título em execução." (AgInt no AREsp 637.591/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/10/2019, DJe 24/10/2019).
+2. "A jurisprudência é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (AgInt no AgInt no AREsp n. 1.379.692/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 2/12/2019, DJe 5/12/2019).
+3.  ..
+4. Agravo interno a que se nega provimento" (STJ, AgInt nos EDcl no AREsp n. 1.661.519/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 25/2/2022).
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
