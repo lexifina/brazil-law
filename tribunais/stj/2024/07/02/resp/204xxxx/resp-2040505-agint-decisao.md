@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto por ROBERTO RODRIGO FERREIRA contra decisão de minha lavra, que rejeitou os embargos declaratórios (e-STJ fls. 1.076/1.078), mantendo a decisão que havia conhecido em parte do recurso especial do INSS e, nessa extensão, dado provimento para julgar improcedente o pedido de auxílio-acidente pela não comprovação da incapacidade parcial e definitiva para o labor (e-STJ fls. 1.052/1.056).
+Sustenta a parte agravante que não pretende o reexame de provas, mas a sua devida valoração, e que a questão é unicamente de direito, no sentido da desnecessidade de que a moléstia incapacitante seja irreversível, devendo ser comprovado o nexo causal com a redução da capacidade laborativa, ainda que mínima.
+Pleiteia, subsidiariamente, a aplicação do princípio da fungibilidade dos benefícios, visto que preencheu os requisitos para a concessão de auxílio-doença, por se cuidar de incapacidade temporária e total para o labor.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não formulou impugnação (e-STJ fl. 1.234).
+É o breve relatório.
+Exerço o juízo de retratação, visto que o presente apelo especial tem como objeto matéria relacionada ao Tema 1.246 desta Corte, afetado como repetitivo.
+Passo a novo exame do recurso.
+Cuida-se de recurso especial interposto contra acórdão cuja controvérsia diz respeito, entre outras, à "(in)admissibilidade de recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício previdenciário por incapacidade (aposentadoria por invalidez, auxílio-doença ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente)"
+Passo a decidir.
+A questão jurídica em debate foi submetida à Primeira Seção para ser julgada pela sistemática dos recursos repetitivos.
+Para esse fim, foram escolhidos os Recursos Especiais 2.098.629/SP e 2.082.395/SP, da relatoria do Ministro PAULO SÉRGIO DOMINGUES, conforme decisão de afetação finalizada na sessão de 10/04/2024, publicada no DJe de 12/4/2024 (Tema 1.246).
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, o julgamento do paradigma representativo, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB e AREsp 779.676/PB, todos da relatoria do em. Ministro BENEDITO GONÇALVES, DJe 02/12/2015, 08/03/2016, 04/03/2016 e 03/02/2016, respectivamente.
+Realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para, se for o caso, serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal de origem.
+Registre-se que essa medida busca evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, TORNO SEM EFEITO as decisões de -STJ fls. 1.052/1.056 e 1.076/1.078 . DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. I ntimem-se.
+EMENTA
