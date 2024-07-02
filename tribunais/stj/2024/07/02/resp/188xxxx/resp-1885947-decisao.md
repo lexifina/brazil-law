@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE LEME, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Ação de indenização por danos morais - Preliminar de ilegitimidade passiva, prescrição da pretensão de reparação civil, cerceamento de defesa, inépcia da petição inicial afastadas - Necrose de dedo com amputação de membro inferior (transfemoral) - Excessivo lapso temporal entre o diagnóstico e a terapêutica definitiva - Comprovação do dano e do nexo causal - Danos morais devidos, no entanto, analisando-se o caso equitativamente - Sentença de procedência parcialmente reformada somente para diminuir o valor da indenização - Preliminares afastadas e recursos desprovidos.
+Opostos embargos de declaração, foram eles rejeitados.
+Alega o recorrente ofensa aos arts. 373, I e II, e 489, § 1º, IV, do Código de Processo Civil, sustentando que, reconhecida a responsabilidade subjetiva quanto ao prejuízo causado pelo procedimento cirúrgico a que se submeteu a autora, a qual pressupõe a omissão do Município quanto à fiscalização, o ônus da prova não poderia ter sobre ele recaído, nem poderiam ter sido ignoradas as provas carreadas aos autos, notadamente, segundo sua ótica, pela probabilidade de modificação do resultado da demanda.
+Defende a inexistência de negligência a justificar a imposição de indenização por danos morais ao Município.
+Alternativamente, postula, com fundamento no art. 1º-F da Lei 9.494/1997, com redação conferida pela Lei 11.960/2009, o afastamento do percentual de 1% para os juros moratórios, com a aplicação dos índices oficiais destinados à caderneta de poupança.
+Contrarrazões às fls. 528/531.
+É o relatório.
+Verifico, de início, que o art. 1º-F da Lei 9.494/1997, com redação conferida pela Lei 11.960/2009 não foi apreciado pelo Tribunal de origem.
+A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+É entendimento assente nesta Corte Superior de Justiça que compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências cuja realização pretendem as partes, segundo as normas processuais, e afastar o pedido de produção de provas se forem inúteis ou meramente protelatórias, ou, ainda, se já tiver ele firmado sua convicção, nos termos dos arts. 370 e 371 do Código de Processo Civil (arts. 130 e 131 do CPC/1973).
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. AUSÊNCIA DE INCAPACIDADE LABORAL. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+ ..
+2. Não se desconhece o entendimento segundo o qual o juiz, como destinatário final da prova, não fica adstrito ao laudo pericial, podendo formar sua convicção com base em outros elementos probatórios contidos nos autos.
+3. No presente caso, todavia, a Corte de origem asseverou que, embora o magistrado não estivesse vinculado ao laudo pericial, não havia, no acervo probatório, elementos capazes de elidir as conclusões nele contidas. Assim, da detida análise da prova técnica, produzida sob o pálio do contraditório, o Tribunal a quo concluiu que a parte autora encontrava-se apta para exercer suas funções habituais e laborais, não lhe sendo devido o benefício de aposentadoria por invalidez.
+4. A adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.702.877/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região -, julgado em 20/6/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. DISCRICIONARIEDADE DO JULGADOR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova testemunhal. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. Consoante entendimento desta Corte, "a apuração da necessidade de produção da prova testemunhal ou a ocorrência de cerceamento de defesa decorrente da falta daquela demandam reexame de aspectos fático-probatórios, o que encontra óbice na Súmula 7 do STJ" (STJ, REsp 1.791.024/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/04/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.604.351/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Na espécie, o Tribunal de origem analisou o cenário fático do caso concreto concluindo o que se segue:
+No presente caso, há laudo técnico (fls. 387/395 e 410/412) que concluiu pelo excessivo lapso temporal entre o diagnóstico do problema de saúde apresentado pela apelada e a realização da terapêutica definitiva, culminando na perda do membro inferior esquerdo, o que evidencia o ato negligente da Administração.
+Sabe-se que é necessária a demonstração da ocorrência do dano, nexo de causalidade entre estes, comportamento omissivo da Administração e a existência de culpa, que, conforme entendimento do autor supramencionado, em muitos destes casos, necessariamente deverá ser admitida a "presunção de culpa", pena de inoperância desta modalidade de responsabilização, ante a extrema dificuldade (às vezes intransponível) de demonstrar-se que o serviço operou abaixo dos padrões devidos, isto é, com negligência, imperícia ou imprudência, vale dizer, culposamente.
+À vista disso, em razão dos atos praticados pelos servidores ligados aos apelantes, a apelada experimentou profundo constrangimento, a ponto de necessitar de delicado tratamento físico e psiquiátrico, sem condições de retornar às funções que anteriormente desempenhava.
+Desta forma, comprovada a existência de dano e o nexo de causalidade entre ele e a omissão do Estado, advém, portanto, o dever de indenizar (fls. 496/497).
+Identifico suficientemente fundamentada a responsabilidades das rés, e, nesse contexto, adequada a ponderação das instâncias ordinárias acerca da suficiência da prova até então produzida, não havendo falar em cerceamento de defesa.
+Ante o exposto, nego provimento ao recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
