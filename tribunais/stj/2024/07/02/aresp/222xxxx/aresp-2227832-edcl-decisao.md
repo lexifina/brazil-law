@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 516/519), opostos por MARCELO AUGUSTO MACHADO ARANTES e PAULA MARIA MACHADO ARANTES DE CASTRO contra a decisão de e-STJ fls. 509/512, em que não conheci do agravo em recurso especial em face do não cabimento do agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo.
+Na ocasião, acrescentei que, no contexto dos autos, a menção na decisão a quo da existência de outros óbices à admissibilidade do recurso especial (ausência de vício de integração/fundamentação e ausência de similitude fática), porquanto relacionada com os mesmos capítulos do recurso especial ao qual foi negado seguimento com fundamento em arestos repetitivos, não guarda autonomia a justificar o cabimento do agravo dirigido a esta Corte Superior.
+Os embargantes apontam omissão no julgado com apoio nos seguintes argumentos (e-STJ fl. 518):
+Instado a se manifestar, o E.STJ, em decisão proferida pelo D. Ministro Relator, novamente restou omissa sobre o quanto argumentado apresentados pelos Embargantes, limitando-se a aduzir que o acórdão recorrido está em sintonia com precedentes obrigatórios do STJ e que não é cabível o recurso interposto nos termos apresentados.
+Porém, deixou de analisar que o paradigma utilizado pelos Embargantes aduz que "o termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes infratores, nesse contexto, é a data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de cobrança executiva promovida contra a empresa contribuinte, a ser demonstrado pelo Fisco" e as Embargantes demonstraram que o termo inicial para o redirecionamento passou a fluir a partir de 06/09/2011 e não em 24 de julho de 2015 (data que o tribunal a quo considerou a dissolução irregular).
+Assim, a r. decisão restou omissa quanto a aplicação do precedente ao caso em tela quando se analisa as datas aduzidas pelos Embargantes na qual a Fazenda Pública deveria ter solicitado o redirecionamento do feito executivo para os sócios administradores e restou inerte, não restando alternativa senão a oposição dos presentes embargos de declaração, nos termos do artigo 1.022, II, do CPC, a fim de que o E.STJ aprecie devidamente os argumentos aduzidos pelos Embargantes.
+A impugnação não foi oferecida.
+Passo a decidir.
+De acordo com o art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Na espécie, a decisão embargada consignou (e-STJ fls. 511/512):
+O recurso em apreço não merece prosperar.
+É que o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedentes obrigatórios do STJ, firmados no âmbito do REsp 1.104.900/ES, repetitivo (Tema 103 do STJ) e do REsp 1.201.933/SP, repetitivo (Tema 444 do STJ), sendo certo que as outras questões que motivaram a inadmissão do recurso especial também dizem respeito à forma de interpretação dos julgamentos repetitivos (acima referidos).
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo da existência de outros óbices à admissibilidade do recurso especial (ausência de vício de integração/fundamentação e ausência de similitude fática), porquanto relacionada com os mesmos capítulos do recurso especial ao qual foi negado seguimento com fundamento em arestos repetitivos, não guarda autonomia a justificar o cabimento do agravo dirigido a esta Corte Superior.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial, ficando prejudicado o exame do pedido de "concessão de tutela provisória de urgência e efeito suspensivo ativo".
+Pois bem.
+No caso dos autos, não há nenhuma omissão a ser sanada por meio destes aclaratórios, uma vez que a decisão embargada destacou o não cabimento do agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Nos embargos, em síntese, ao argumento de omissão, os recorrentes entendem que houve desacerto na aplicação do precedente vinculante, o que evidencia que a insurgência, em verdade, demonstra o inconformismo com o julgamento desfavorável, sendo certo que eventual reforma do julgado não condiz com a natureza integrativa dos aclaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE. NÃO CABIMENTO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO OPOSTOS POR BARCAS S.A. TRANSPORTES MARÍTIMOS REJEITADOS.
+1. O art. 1.022 do Código Fux - CPC/2015 - (art. 535 do CPC/1973) é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+2. Nos presentes Declaratórios, a parte embargante afirma que o acórdão recorrido possui omissão, porquanto o serviço que presta é público, não devendo incidir o IPTU.
+3. Dos próprios argumentos apresentados nos Aclaratórios verifica-se não se tratar de qualquer omissão, contradição ou obscuridade a ser sanada, mas de mera pretensão de reforma do julgado com base no inconformismo da parte com a solução jurídica ali aplicada; pretensão incabível nesta via recursal.
+4. Embargos de Declaração doe BARCAS S.A. TRANSPORTES MARÍTIMOS rejeitados.
+(EDcl no AgInt no AgInt no AREsp 658.517/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/05/2020, DJe 06/05/2020).
+Dessa forma, o recurso não comporta acolhimento.
+Entretanto, sopesando a boa-fé objetiva, não considero est es aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
