@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 646):
+PLANO DE SAÚDE - Ação de preceito cominatório cumulada com restituição de valores - Procedência parcial decretada - Apelos de ambas as partes - Imposição de reajuste por aumento de sinistralidade e VCMH- Abusividade reconhecida- Relação de consumo que não permite que o fornecedor obtenha vantagem exagerada em detrimento dos interesses dos consumidores- Ajuste celebrado em que devem prevalecer os postulados da cooperação, solidariedade, confiança e boa-fé objetiva - Ausência de demonstração da forma utilizada para o cálculo dos reajustes - Possibilidade apenas dos reajustes anuais, que visa recompor a elevação dos custos - Restituição de valores de forma simples, a partir de julho de 2018,observada a prescrição trienal - Apelo das rés desprovido, acolhido parcialmente o da autora.
+Sem embargos de declaração opostos.
+No recurso especial, a recorrente alega ofensa aos arts. 35-E, § 2º, da Lei n. 9.656/98; 20 da LINDB; e 421 e 478 do Código Civil, ao defender a licitude da aplicação de reajuste contratualmente previsto, que visa exclusivamente a manutenção do equilíbrio econômico e financeiro da apólice.
+Sustenta que são lícitos os reajustes por sinistralidade e VCMH aplicados, porquanto previstos contratualmente, não havendo que se falar em aplicação dos percentuais previstos pela ANS para os contratos individuais, nem em restituição de valores.
+Sustenta, outrossim, divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 731-743).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 753-755), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta ao agravo (fls. 774-788).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, consigne-se inviável a apreciação das demais alegações da recorrente, considerando que a Corte de origem, ao entender pela ausência de justificativa para o reajuste aplicado, a ensejar a abusividade do referido reajuste, firmou o entendimento com base no conjunto probatório dos autos e em contrato firmado entre as partes. Confira-se o seguinte excerto do acórdão recorrido (fls. 650-653):
+Em primeiro lugar, em se tratando de relação de consumo, não se admite que o fornecedor obtenha vantagem exagerada em detrimento do interesse dos consumidores, representando o reajuste unilateral, baseado em suposto aumento da sinistralidade ou VCMH, violação ao disposto no artigo 51, incisos IX e XI, do Código de Defesa do Consumidor, contrariando, ademais, a própria natureza do contrato.
+Como decidiu o C. Superior Tribunal de Justiça, quando do julgamento do REsp 1.073.595/MG da Relatoria da Ministra Nancy Andrighi, esse tipo de contrato não pode ser analisado isoladamente, como um acordo de vontades por um período fixo, mas deve ser interpretado como um ajuste em que deve prevalecer os postulados da cooperação, solidariedade, confiança e boa-fé objetiva, o que não ocorreu no presente caso.
+Nem se alegue, ademais, que o reajuste dos prêmios possui respaldo no próprio contrato, na legislação da ANS e na finalidade de manter o seu equilíbrio econômico-financeiro, posto que essa argumentação somente impõe ao consumidor, parte mais vulnerável na relação, desequilíbrio em seu desfavor, sem restabelecer a estabilidade do instrumento.
+Além disso, manter equilíbrio econômico não significa autorizar a ré a deliberar elevações unilaterais, não previamente justificadas e informadas ao consumidor.
+Nesse sentido, já se pronunciou este Tribunal em caso análogo:"
+(..)
+Importante ressaltar que esta decisão não julga ilícita e nem abusiva a cláusula que prevê aumento em função da sinistralidade ou VCMH, tanto que determina substituto abaixo, mas apenas reconhece que o percentual aplicado não encontra amparo em nenhum cálculo atuarial constante dos autos, daí porque não pode prevalecer.
+Por fim, afastada a incidência dos aumentos não justificados com apoio em aventado aumento de sinistralidade ou VCMH, mantém-se apenas os reajustes anuais autorizados pela ANS, aplicáveis a todos os contratos no respectivo aniversário, na falta de outro índice apto a substituí-lo, cabendo às rés a restituição dos valores pagos indevidamente a partir de julho de 2018, observada a prescrição trienal.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e cláusula de contrato, a eventualmente ensejar novo juízo acerca de fatos e provas. Incide, portanto, as Súmulas 5 e 7 do STJ/STJ.
+Nesse sentido, cito precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. OMISSÃO. AUSÊNCIA. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE. ELEMENTOS QUE EMBASAM O AUMENTO. AUSÊNCIA DE DEMONSTRAÇÃO. REEXAME. SÚMULAS 5 E 7/STJ.
+1. Não há negativa de prestação jurisdicional quando as questões fundamentais ao deslinde da controvérsia foram apreciadas de forma coerente e fundamentada pelo Tribunal estadual, não consubstanciando violação do art. 1.022 do CPC a tomada de posição contrária ao interesse da parte.
+2. "A jurisprudência desta Corte se firmou no sentido de ser lícita a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado" (AgInt no AREsp n. 2.224.210/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023).
+3. Alterar o decidido no acórdão impugnado, no que se refere à ausência de justificativa para o reajuste por sinistralidade, exige o reexame de fatos e provas, bem como a análise do contrato firmado entre as partes, o que é vedado em recurso especial pelas Súmulas n. 5 e 7 do STJ. Agravo interno improvido.
+(AgInt no REsp n. 1.978.699/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem em 10% sobre o valor fixado anteriormente.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTES PELA VCMH. PERCENTUAIS APLICADOS. AUSÊNCIA DE DEMONSTRAÇÃO DA NECESSIDADE DE RECOMPOSIÇÃO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
