@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO, BANCO SANTANDER BRASIL S/A contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 159-167), assim ementado:
+PROVA - Dispensa - Possibilidade - Inteligência do Cód. Proc. Civil:
+- Nos termos do art. 130 do Cód. Proc. Civil, o magistrado, que é o destinatário da prova, não está obrigado a determinar a realização de todos os atos probatórios solicitados pelo litigante.
+CERTIDÃO DE DÍVIDA ATIVA - Requisitos dos parágrafos do artigo 2º da Lei n. 6.830, de 1980 - Preenchimento - Nulidade - Inexistência:
+- Não é nula a certidão de dívida ativa que preenche os requisitos dos parágrafos do artigo 2º da Lei n. 6.830, de 1980.
+DECADÊNCIA - ISS - Lançamento por homologação - Inexistência de pagamento antecipado - Aplicação do artigo 173, inciso I, do Código Tributário Nacional - Inocorrência:
+- Tratando-se o ISS de tributo sujeito a lançamento por homologação, em não havendo qualquer recolhimento antecipado por parte do contribuinte, é aplicada a regra geral do artigo 173, inciso I, do Código Tributário Nacional.
+ISS. LISTA ANEXA DE SERVIÇOS - Interpretação extensiva - Possibilidade - Tributação de serviços correlatos àqueles expressamente previstos - Cabimento:
+- Ainda que taxativa, a lista anexa de serviços do Decreto-lei n. 406/68 comporta interpretação extensiva, para o fim de abarcar serviços correlatos àqueles expressamente previstos.
+RECURSO NÃO PROVIDO.
+O BANCO SANTANDER S.A opôs embargos de declaração contra a decisão recorrida, tendo sido parcialmente acolhidos, para reconhecer a decadência parcial do crédito tributário de ISS, referente ao mês de julho de 1995, discutido na execução fiscal (fls. 191-198).
+Em seguida, o ente municipal interpôs o presente recurso especial, com fundamento no art.105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado os arts. 463 e 535, ambos do CPC/1973, por não ter sido facultada a oitiva prévia à decisão que julgou os embargos de declaração da parte adversa e que tiveram efeitos modificativos (fls. 444-453).
+O recurso foi inadmitido na origem por entender-se que o acórdão recorrido estaria devidamente fundamentado (fls 528-529), tendo a decisão de inadmissão sido recorrida por meio do presente agravo (fls. 243-255).
+É o relatório.
+Passo a decidir.
+Inicialmente, cumpre destacar que o Superior Tribunal de Justiça não está subordinado ao juízo prévio de admissibilidade proferido pelo Tribunal de origem, haja vista a verificação dos pressupostos do recurso estar sujeita a duplo controle.
+Pressentes os requisitos de admissibilidade, passo ao mérito.
+Assiste razão ao ente municipal, pois, nos termos da jurisprudência do STJ, a ausência de intimação do embargado para impugnar embargos de declaração que são acolhidos com efeitos infringentes, viola o contraditório, o que impõe a nulidade do julgamento.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO PELO TRIBUNAL DE ORIGEM. EFEITOS INFRINGENTES. NÃO INTIMAÇÃO DA PARTE CONTRÁRIA. VÍCIO INSANÁVEL. NULIDADE. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. DECISÃO RECONSIDERADA.
+1. "A atribuição de efeitos modificativos aos Embargos de Declaração reclama a intimação prévia do embargado para apresentar impugnação, sob pena de ofensa aos postulados constitucionais do contraditório e da ampla defesa. Precedentes do STJ: REsp 1.080.808/MG, Primeira Turma, DJe 03.06.2009; EDcl nos EDcl no RMS 21.719/DF, Primeira Turma, DJe 15.12.2008; EDcl no RMS 21.471/PR, Primeira Turma, DJ 10.05.2007; HC 46.465/PR, Quinta Turma, DJ 12.03.2007". (EDcl nos EDcl no REsp n. 949.494/RJ, Primeira Turma).
+2. O acolhimento pelo Tribunal de origem de embargos declaratórios com efeito modificativo e sem a prévia intimação da parte embargada enseja nulidade insanável.
+3. Agravo regimental provido para, reconsiderando-se a decisão agravada, anular o julgamento dos segundos embargos de declaração (fls. 880/886) e determinar a abertura de vista à parte agravada para que se manifeste acerca do conteúdo da petição dos embargos de declaração de fls. 798/804 (AgRg no REsp n. 1.157.052/PI, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 18/6/2013, DJe de 27/6/2013, grifo nosso).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. TAXAS. PROMITENTE COMPRADOR. INSCRIÇÃO NO REGISTRO DE IMÓVEIS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES. OITIVA DA PARTE ADVERSA. NECESSIDADE.
+1. A jurisprudência desta Corte é pacífica no sentido de que atribuição de efeitos modificativos aos embargos de declaração demanda a intimação prévia do embargado para apresentar impugnação, sob pena de ofensa aos postulados constitucionais do contraditório e da ampla defesa. Precedentes.
+2. Dissídio evidenciado, quanto ao ponto, já que o Tribunal de origem considerou desnecessária a intimação do embargado, apesar do acolhimento dos declaratórios com efeitos infringentes.
+3. Agravo regimental desprovido (AgRg no Ag n. 1.179.308/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/8/2010, DJe de 16/8/2010, grifo nosso).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES. AUSÊNCIA DE INTIMAÇÃO DA PARTE EMBARGADA. CERCEAMENTO DE DEFESA. NULIDADE INSANÁVEL.
+1. A atribuição de efeitos modificativos aos Embargos de Declaração reclama a intimação prévia do embargado para apresentar impugnação, sob pena de ofensa aos postulados constitucionais do contraditório e da ampla defesa. Precedentes do STJ: REsp 1.080.808/MG, Primeira Turma, DJe 03.06.2009; EDcl nos EDcl no RMS 21.719/DF, Primeira Turma, DJe 15.12.2008; EDcl no RMS 21.471/PR, Primeira Turma, DJ 10.05.2007; HC 46.465/PR, Quinta Turma, DJ 12.03.2007.
+2. Destarte, o acolhimento dos Embargos de Declaração, com a atribuição de efeitos infringentes, à míngua de prévia intimação da parte embargada, enseja nulidade insanável.
+3. Embargos de Declaração acolhidos, para anular o julgamento dos Embargos de Declaração opostos pelo Ministério Público Federal (fls. 520/528), concedendo-se à Superintendência de Seguros Privados a oportunidade de se manifestar sobre as razões expendidas no referido recurso às fls. 511/518 (EDcl nos EDcl no REsp n. 949.494/RJ, relator Ministro Luiz Fux, Primeira Turma, julgado em 9/11/2010, DJe de 24/11/2010, grifo nosso).
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - FALTA DE INTIMAÇÃO PARA IMPUGNAÇÃO AOS EMBARGOS DE DIVERGÊNCIA - NULIDADE ABSOLUTA - PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+1. Padece de nulidade absoluta decisão proferida em embargos de divergência, sem que tenha sido dada ao embargado a oportunidade de apresentação de impugnação. Princípios do contraditório e da ampla defesa.
+2. Embargos de declaração acolhidos, com efeitos modificativos (EDcl no AgRg no AgRg nos EREsp n. 416.352/SP, relatora Ministra Eliana Calmon, Primeira Seção, julgado em 18/10/2004, DJ de 6/12/2004, p. 187, grifo nosso).
+No caso dos autos, os embargos de declaração opostos pelo Banco Santander foram acolhidos, com efeitos infringentes, sem a prévia intimação da Fazenda, ora recorrente, para apresentar impugnação, o que, nos termos da jurisprudência do Superior Tribunal de Justiça, implica na violação do contraditório e impõe a nulidade do julgamento.
+Isso posto, com fundamento no art. 932, V, do CPC, bem como na Súmula n. 568/STJ e art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo, para dar provimento ao recurso especial, a fim de anular o acórdão que julgou os embargos de declaração, devendo os autos retornarem à origem para que seja determinada a devida intimação da parte recorrente, com vistas a apresentar impugnação aos aclaratórios opostos pela parte adversa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
