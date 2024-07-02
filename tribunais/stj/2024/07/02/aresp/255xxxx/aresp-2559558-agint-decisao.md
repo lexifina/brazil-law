@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, agravo interno interposto por JOSE JAIRTON BENTO contra decisão que não conheceu do recurso, pela incidência da Súmula 115/STJ.
+Argumenta a parte agravante que "as instancias ordinárias não reconheceram o vício de representação processual, pois, inexistente. Apenas, no segundo juízo de admissibilidade não se observou a procuração que outorgava poderes ao advogado subscritor do recurso, existente no indicie (nº 2 - volume 1 - petição inicial - fls. 18), constante dos autos e remetido pelo tribunal de origem ao órgão ad quem" (fl. 542).
+Ao final, requer a reconsideração da decisão agravada ou o provimento do recurso.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+Considerando a relevância dos argumentos apresentados pela parte agravante, reconsidero a decisão agravada e passo a nova análise do recurso.
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por JOSE JAIRTON BENTO, com fundamento na ausência de violação aos arts. 489 e 1.022 do CPC/2015 e na incidência da Súmula 7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidad e do recurso especial, pois "o presente recurso trata de matéria jurídica e não fática. Não se cuida de provar ou deixar de provar fatos ou circunstâncias, mas, estando estes já provados, cuida-se sim, de que seja afastada a negativa de vigência ou contrariedade que transparece da própria fundamentação do acórdão. Este questionamento não é fático, e sim jurídico, razão pela qual é perfeitamente possível fazê-lo em sede de Recurso Especial.  ..  não houve na decisão embargada pronunciamento judicial sobre o tema levado a debate" (fls. 504-505).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+O recorrente aponta violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/2015, sustentando que "a anulação da portaria ensejou a reforma da sentença do juízo de origem, sob o argumento da ausência de interesse de agir, ou seja, a análise do ato administrativo levou a extinção do feito sem julgamento do mérito. Logo, a análise da legalidade da anulação do ato administrativo faz parte do tema: interesse de agir, matéria de ordem pública, sendo questão relevante para o deslinde da causa.  ..  não houve na decisão embargada pronunciamento judicial sobre o tema levado a debate (Legalidade da Anulação da Portaria)" (fls. 411-412).
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+ ..  é cediço que, para postular em juízo, faz-se necessária a existência do interesse processual, o qual se consubstancia a partir do binômio utilidade/necessidade e adequação, sob pena de carência da ação. No caso em apreço, nada obstante fosse possível vislumbrar, a princípio, a coexistência do aludido binômio, sobreveio fato novo que fez com que a necessidade e a utilidade da demanda desvanecessem, dando ensejo à falta superveniente do interesse de agir e, consequentemente, à perda do objeto.
+ ..
+Com efeito, após a propositura da ação e antes de proferida a sentença de procedência, afere-se que a Portaria nº 1344/2011 foi anulada pela Portaria nº 075/2012 da SSPDS.
+Por conseguinte, tornou-se inócua qualquer discussão acerca do ato administrativo, porquanto resta inviabilizada a pretensão consistente na anulação do referido ato. Destarte, perderam-se a utilidade e a necessidade da presente demanda, a esvaziar, assim, o interesse processual.
+Logo, a alteração do contexto fático outrora existente implica em ausência superveniente do interesse de agir, acarretando, por inferência lógica e jurídica, a perda do objeto da lide. Na esteira desse entendimento reside a compreensão jurisprudencial deste Egrégio Tribunal de Justiça, expressis litteris:
+ ..
+Nesse sentido, ante a extinção do feito sem julgamento do mérito em virtude da perda superveniente do interesse processual, restaria prejudicada a análise de eventual remessa necessária acaso existente. Nesse sentido, igualmente deixo de analisar os demais argumentos esposados pelas partes, eis que prejudicados pelo reconhecimento da perda superveniente do interesse (fls. 386-388).
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos:
+Conforme relatado, argumentou a embargante que o acórdão impugnado teria incorrido em omissão, porquanto não teria se manifestado acerca de suposta ilegalidade da anulação da portaria nº 1344/2011, a qual determinara a instauração do PAD nº 98/2011, mas que foi anulada pela Portaria nº 75/2012. No entender do embargante, caberia à CGD avocar processos administrativos em andamento, nos moldes da Lei nº 98/2011.
+Entretanto, na hipótese dos autos, verifica-se que o acórdão recorrido fundamentou suas razões de decidir na perda superveniente do interesse de agir, sendo este pressuposto basilar para que se sustente a demanda. O atual CPC buscou separar os elementos integrantes das antigas "condições da ação" alocando-os em pressupostos processuais (relativos ao juízo de admissibilidade da ação) e como questão de mérito. O interesse de agir e a legitimidade ad causam passaram a ser tratados como pressupostos processuais. Caso seja verificada a ausência de um desses pressupostos após a fase postulatória, será declarada a carência da ação, conforme disposto no art. 485, VI, do CPC (fl. 453).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Isso posto, reconsidero a decisão de fls. 533-534 e com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
