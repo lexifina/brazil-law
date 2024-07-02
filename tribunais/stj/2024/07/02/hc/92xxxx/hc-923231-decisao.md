@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JULIO CESAR MOREIRA SANTANTA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento do Habeas Corpus n. 0035573-60.2024.8.19.0000.
+Narra a Defesa que o Juízo da Execução Penal ao realizar a unificação das penas, impôs ao paciente regime fechado em razão da sua reincidência.
+Irresignada, interpôs o recurso de Agravo de Execução, tendo o Tribunal de origem não conhecido da ordem pela utilização da via inapropriada.
+A defesa alega que o paciente sofre constrangimento ilegal diante da sua manutenção em regime fechado, quando a pena remanescente invoca o regime aberto.
+Sustenta que a unificação das penas prevista no art. 111 da LEP não implica na extensão dos efeitos da reincidência à totalidade das execuções.
+Aduz condição pessoal de reincidente não detém a aptidão jurídica de influenciar a estipulação do regime de cumprimento das sanções penais em concurso no campo executivo-penal.
+Requer, liminarmente, que seja determinada imediatamente a transferência do paciente para unidade prisional compatível com o regime semiaberto e, no mérito, para determinar que a autoridade coatora conheça do pedido de habeas corpus efetivando a devida prestação jurisdicional.
+É o relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020;  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Ainda, consoante orientação desta Corte Superior,
+o dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta (AgRg no HC 530.261/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/09/2019.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O Juízo de Execuções ao decidir pela unificação das penas e impor o regime fechado, assim se pronunciou (fl. 20):
+Tendo em vista o apensamento da nova CES referente ao processo 0010502-05.2019.8.08.0011(sequência 17), SOMO AS PENAS, nos termos do artigo 111 da LEP e fixo o regime inicial FECHADO para cumprimento da pena, tendo em vista ser reincidente e o remanescente de pena privativa de liberdade a cumprir mais de 6 anos, na forma do art. 33, § 2º, do Código Penal.
+O termo inicial para progressão de regime deve se dar partir da data da última prisão ou da última falta grave, considerando que a unificação de penas não enseja alteração da data-base para concessão de novos benefícios executórios, consoante já decidido pelo STJ na sistemática de recursos repetitivos (STJ. 3ª Seção. ProAfR no R
+Esp 1753509-PR, Rel. Min. Rogerio Schietti Cruz, julgado em 18/12/2018 (recurso repetitivo) (Info 644)).
+No caso, embora a Corte estadual tenha afirmado que não caberia o conhecimento do writ originário, apreciou a matéria para analisar a possibilidade de concessão da ordem de ofício, a qual restou afastada no seguintes termos:
+A presente ação autônoma de impugnação foi ajuizada com o objetivo de desconstituir a decisão proferida pelo juízo da execução, que somou as penas do paciente e lhe impôs o regime fechado em razão da sua reincidência.
+(..)
+Nesta limitada ótica de cognição sumária, não se vislumbra ilegalidade na decisão proferida pela VEP, uma vez que se encontra devidamente motivada, nos moldes do art. 93, IX, da CRFB/88. A justiça de seus fundamentos, no eventual interesse do ora paciente, deve ser perquirida através da via apropriada.
+Dessarte, não há falar em negativa de prestação jurisdicional.
+Por outro lado, infere-se dos autos que o paciente, em cumprimento de pena em regime semiaberto, regrediu ao regime fechado em virtude de nova condenação cuja somatória das penas ficou inferior a 8 anos, mas fixou-se o regime fechado com fundamento em sua reincidência.
+Nesse compasso, não se verifica flagrante ilegalidade na unificação de penas com determinação de regime mais gravoso com embasamento na reincidência. Tal entendimento está em concordância com a jurisprudência das turmas criminais do Superior Tribunal de Justiça, consoante se verifica nos seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. UNIFICAÇÃO DAS PENAS. REINCIDÊNCIA. REPERCUSSÃO NA TOTALIDADE DAS PENAS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83/STJ. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. AGRAVO DESPROVIDO.
+1. "A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios" (R Esp n. 1.957.657/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.) 2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.130.985/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO ESTADUAL - MP. ARTIGO 63, CAPUT, DO CÓDIGO PENAL - CP E ARTIGOS 66, VI, 111 E 112, VII, DA LEI N. 7.210/1984. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. INCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. QUESTÃO PACIFICADA NO JULGAMENTO DO ERESP N. 1.738.968/MG. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte pacificou o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+2. Com a superveniência de novas condenações, a unificação das penas leva ao reconhecimento da reincidência, mesmo que tal constatação não tenha ocorrido na fase de conhecimento, fazendo incidir ao caso regras específicas na condição de reincidente ao cumprimento da totalidade da reprimenda. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.999.509/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante  o  exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça,  indefiro  liminarmente do  habeas  corpus.
+Publique-se.  Intimem-se.
+ EMENTA
