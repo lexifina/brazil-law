@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, em favor de BERNARDO DA SILVA, impetrado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (Apelação Criminal n. 0000991-66.2004.8.18.0031).
+Consta dos autos que o paciente foi condenado às penas de 10 (dez) anos e 06 (seis) meses de reclusão, em regime inicial fechado, e 30 (trinta) dias-multa pela prática do delito previsto no art. 157, § 2º, I, II e III, do Código Penal.
+O Tribunal de origem deu parcial provimento ao apelo da Defesa, a fim de redimensionar as penas para 07 (sete) anos de reclusão e 16 (dezesseis) dias-multa, em acórdão assim ementado (fl. 90):
+APELAÇÃO CRIMINAL. PENAL. PROCESSO PENAL. ROUBO MAJORADO. PLEITO ABSOLUTÓRIO. NÃO ACOLHIMENTO. AUTORIA E MATERIALIDADE COMPROVADAS NOS AUTOS. REVISÃO DA DOSIMETRIA DA PENA. DECOTE DA CAUSA DE AUMENTO PELO EMPREGO DE ARMA DE FOGO. INVIABILIDADE. PRESCINDIBILIDADE DE APREENSÃO DO ARTEFATO. NEUTRALIZAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS. POSSIBILIDADE. APELOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+ .. .
+O impetrante sustenta que houve contradição entre a fixação da pena base, no mínimo legal, e o regime de cumprimento da pena, uma vez que não deveria o Tribunal a quo ter se pautado na gravidade do delito, mas nas circunstancias expressas no art. 59 do CP, que foram consideradas favoráveis ao paciente.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja alterado o regime inicial para o semiaberto.
+O  pedido  liminar  foi  indeferido  às  fls.  34-35.
+Foram  prestadas  informações  às  fls.  48-49 e 50-52.
+O  Ministério  Público  Federal  manifestou-se  pelo não conhecimento do habeas corpus  (fls.  54-55).
+É  o  relatório.
+ DECIDO.
+De  acordo  com  o  entendimento  consolidado  do  Superior  Tribunal  de  Justiça,
+ a  dosimetria  da  pena  insere-se  dentro  de  um  juízo  de  discricionariedade  do  julgador,  atrelado  às  particularidades  fáticas  do  caso  concreto  e  subjetivas  do  agente,  somente  passível  de  revisão  por  esta  Corte  no  caso  de  inobservância  dos  parâmetros  legais  ou  de  flagrante  desproporcionalidade"  (AgRg  no  HC  710.060/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  14/12/2021,  DJe  de  17/12/2021).
+Insta  asseverar,  oportunamente,  que  ao  fixar  o  regime  inicial  de  cumprimento  da  pena  privativa  de  liberdade,  o  Juiz  sentenciante  deve  seguir  as  diretrizes  dos  arts.  33  e  59,  ambos  do  CP,  sendo-lhe  permitido  considerar  as  peculiaridades  da  conduta  praticada  -  gravidade  concreta  -  para  estabelecer  modo  mais  gravoso  do  que  o  quantum  da  sanção  permite.
+No  que  diz  respeito  ao  regime  de  cumprimento  da  pena,  a  Corte  de  origem  manteve o fechado,  assim  consignando  (fls.  26-31 ):
+Conforme relatado, a defesa do acusado requer que a pena-base de ambos seja fixada no mínimo legal, uma vez que as circunstâncias judiciais referentes à culpabilidade e circunstâncias do crime foram valoradas negativamente de forma inidônea, tornando-se inconteste a ausência de motivos para exasperação da pena-base dos recorrentes. Nessa toada, é imperioso destacar que, na análise das circunstâncias judiciais e de sua consequente valoração, o julgador deve utilizar fundamentos justos, com vistas a determinar reprimenda necessária e suficiente para a reprovação do crime. Nesse diapasão é o entendimento do Superior Tribunal de Justiça, in verbis:
+ ..
+No caso sub examine, a magistrada de primeiro grau considerou desfavoráveis as circunstâncias judiciais referentes à culpabilidade, aos antecedentes, à conduta social, à personalidade e às consequências do crime.
+ ..
+Assim, tem-se que não foram utilizados elementos concretos, aptos a valorar negativamente a referida circunstância judicial. Ademais, conforme entendimento do STJ, a condição de usuário de drogas não é motivação idônea para o desfavorecimento da culpabilidade.
+ ..
+Desta feita, neutralizo a circunstância judicial referente à culpabilidade.
+No tocante aos antecedentes, tem-se que tal circunstância judicial foi valorada negativamente em razão da existência de outros processos, inclusive com condenação transitada em julgado (0002543-95.2006.8.18.0031 e 0003395-85.2007.8.18.0031). Sobre o tema, a jurisprudência do STJ é no sentido de que as condenações transitadas em julgado podem ser utilizadas para valorar negativamente a circunstância judicial referente aos maus antecedentes, desde que não sejam utilizadas de igual forma na segunda fase dado simetria, a título de reincidência, sob pena de incorrer em bis in idem.
+ ..
+No caso dos autos, tem-se que as condenações transitadas em julgado foram utilizadas em ambas as fases da dosimetria da pena, devendo ser neutralizadas a título de circunstância judicial dos antecedentes, sob pena de incorrer em bis in idem.
+O Juízo a quo também valorou a circunstância judicial da conduta social, tendo em vista o fato de os acusados serem usuários de drogas, bem como não há comprovação de que ambos trabalhem. Entretanto, tem-se que a análise da conduta social do acusado deve partir do seu relacionamento no meio onde vive, no trabalho, no âmbito familiar, etc.
+ ..
+Nessa esteira, entendo que a falta de ocupação lícita, bem como a condição de usuário de drogas não pode ser desfavoravelmente considerada na aferição de conduta social do acusado.
+ ..
+Por estas razões, considero neutra a circunstância judicial referente à conduta social do agente.
+Quanto à circunstância judicial referente à personalidade, esta foi valorada negativamente tendo em vista a má índole dos acusados, pelo cometimento do crime utilizando violência, bem como houve fuga do distrito da culpa, voltando a delinquir em período ulterior. Entretanto, sobre a referida circunstância judicial, entendo que esta decorre de sua idiossincrasia, do particular modo de ser e agir do indivíduo, sendo este mais ou menos reprovável, se na formação de sua personalidade, tenha dado prevalência ao desenvolvimento de tendências negativas, aderindo a valores básicos na constituição de seu modo de ser, de forma que a decisão pelo ato delituoso se insira no projeto obscuro de vida que escolheu para si mesmo.
+Assim, entendo que os fundamentos utilizados pela magistrada a quo são inerentes ao tipo penal, sendo assim, inidôneos para a exasperação da pena. Com efeito, neutralizo a referente circunstância judicial.
+Noutra senda, a fundamentação sobre as "consequências" do crime se mostra imprópria, uma vez não há como se levar em consideração o trauma psicológico ocasionado pelo crime para considerar desfavorável as consequências do delito, porquanto se trata de resultado típico de crimes praticados mediante violência ou grave ameaça, carecendo de provas inequívocas a respeito da existência de traumas além dos comumente ocasionados, o que não se vislumbra no caso em apreço.
+ ..
+Assim, tendo em vista que o Juízo a quo considerou apenas o trauma psicológico da vítima, sem a utilização de elementos concretos, entendo que deve haver o decote da referida circunstância judicial. Dessa forma, diante do decote das circunstâncias judiciais acima analisadas, redimensiono as penas ao patamar de 07 (sete) anos de reclusão e 16 (dezesseis) dias-multa, a serem cumpridas inicialmente em regime fechado, pois, mesmo considerando o quantum da pena, a reincidência é apta à fixação do regime mais gravoso.
+Como se vê, embora a reprimenda aplicada não seja superior a oito anos, a pena definitiva foi fixada em 07 (sete) anos de reclusão, em regime inicial fechado, tendo em vista a reincidência ostentada pelo paciente, circunstância que impede a fixação do regime semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. ROUBO MAJORADO. REGIME FECHADO. ADEQUADO. REINCIDÊNCIA OSTENTADA. LITERALIDADE DO ARTIGO 33, § 2º, B, DO CÓDIGO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+III - A Corte de origem consignou que o paciente é reincidente.
+Dessa forma, estabelecida a pena definitiva em 6 anos, 6 meses e 18 dias de reclusão, o regime inicial fechado (previsto como o imediatamente mais grave) é o adequado para prevenção e reprovação do delito, tendo em vista a reincidência do paciente, consoante as diretrizes do art. 33, § 2º, alínea "b", do Código Penal. Nesse sentido: (AgRg no HC 579.032/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 02/06/2020); (RHC n. 137.077/DF, Sexta Turma, Relª.
+Minª. Laurita Vaz, DJe de 02/06/2021).
+IV - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 813.459/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/8/2023, DJe de 31/8/2023; grifamos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES. DOSIMETRIA DA PENA. APLICAÇÃO DA ATENUANTE INOMINADA PREVISTA NO ART. 66 DO CÓDIGO PENAL. NECESSIDADE DE REEXAME DE FATOS E PROVAS. REGIME FECHADO. RÉU REINCIDENTE. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. No caso em desfile, assinalou o Tribunal de Justiça que não foi demonstrada pela defesa a existência de situação indicativa de uma menor culpabilidade do agente. Por conseguinte, inviável a aplicação da atenuante inominada descrita no art. 66 do Código Penal, pois demandaria o reexame dos fatos e provas dos autos, a fim de perquirir se a o missão do Estado em assegurar ao réu direitos e garantias fundamentais contribuiu para a prática dos delitos, providência inviável na via eleita. Precedente.
+2. Inviável a alteração do regime inicial de cumprimento da sanção, pois, embora favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, o agravante é reincidente e a pena imposta supera 4 anos de reclusão, situação bastante a obstar a aplicação do disposto na Súmula n. 269 desta Corte, que assim disciplina: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+3. Agravo regimental desprovido.
+(AgRg no HC n. 713.856/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/4/2022, DJe de 2/5/2022)
+Diante  dessas  considerações,  não  há  falar  em  alteração  do  regime  prisional  imposto  ao  paciente.
+  Ante  o  exposto,  denego  a  ordem  de  habeas  corpus.
+Publique-se.  Intimem-se.
+ EMENTA
