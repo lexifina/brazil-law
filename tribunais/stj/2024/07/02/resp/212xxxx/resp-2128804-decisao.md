@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA JOSE DE SOUZA LIMA e OUTRO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+Passo a decidir.
+O S upremo Tribunal Federal, nos autos do RE 1.412.069, Relator Ministro André Mendonça, reconheceu a repercussão geral da questão a respeito da "Possibilidade de fixação dos honorários advocatícios, por apreciação equitativa, nos termos do artigo 85, § 8º, do Código de Processo Civil - CPC/2015, na hipótese em que os valores da causa, da condenação ou do proveito econômico forem elevados (Tema n. 1.255).
+Encontrando-se o tema afetado à repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp n. 1.811.626/RS, Relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022; EDcl no AgInt no REsp n. 1.996.056/SC, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/10/2022, DJe de 4/11/2022; e AgInt no AREsp n. 1.942.191/PE, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2022, DJe de 27/4/2022.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso deverá ser encaminhado para esta Corte, para serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo. Essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso especial até a realização do juízo de conformação pela Corte de origem com o acórdão a ser proferido no aludido recurso extraordinário com repercussão geral reconhecida, bem c omo a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja efetivada.
+Publique-se. Intimem-se.
+ EMENTA
