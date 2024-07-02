@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de reclamação ajuizada pelo HOSPITAL MUNICIPAL SÃO JOSÉ, com fundamento no art. 988, IV, do Código de Processo Civil (CPC) de 2015, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que negou provimento ao agravo interno de decisão que inadmitiu recurso extraordinário, em cumprimento ao art. 1.030, I, a, do Código de Processo Civil (CPC), por aplicação do Tema 1.269 do Supremo Tribunal Federal (STF), aplicando a multa prevista no art, 1.021, § 4º, do CPC.
+A parte autora sustenta que:
+(I) os autos originários visavam ao pagamento do auxílio-moradia ao residente médico do reclamante, tendo como fundamento a legislação federal (art. 4º, § 5º, inciso III, da Lei 6.932/1981), criando gastos à autarquia municipal, em verdadeira afronta ao § 7º do art. 167 da Constituição Federal (CF), o qual proíbe a implementação de gastos aos demais entes sem o seu devido custeio;
+(II) julgado procedente o pedido, com a confirmação da sentença no julgamento do recurso inominado, foi interposto recurso extraordinário que teve sua ascensão inadmitida com base no Tema 1.269/STF, ensejando a interposição de agravo interno, o qual teve seu provimento negado com a aplicação da multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC;
+(III) impetrou mandado de segurança questionando a aplicação da multa e requerendo a suspensão do processo para aguardar o julgamento do Tema 1.201/STJ.
+Requer, ao final, que se "determine liminarmente a suspensão dos autos nº 5022631-84.2023.8.24.0038 e 5000769-26.2024.8.24.0910, conforme disposição expressa nos autos do REsp 2.043.826 - SC, a fim de aguardar o deslinde da controvérsia pelo STJ, bem como determine, após a conclusão do referido julgado, a reanálise pela Turma Recursal da multa empregada com base no art. 1.021, § 4º, do Código de Processo Civil" (fl. 6).
+É o relatório.
+Inicialmente, cumpre destacar que, conforme prevê o art. 105, I, f, da Constituição Federal, c/c os arts. 988 do Código de Processo Civil (CPC) e 187 do Regimento Interno do Superior Tribunal de Justiça, cabe reclamação da parte interessada a fim de preservar a competência do Superior Tribunal de Justiça (STJ) e garantir a autoridade de suas decisões, bem como para "garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência" (art. 988, IV, CPC).
+A parte reclamante ajuizou a presente reclamação contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, alegando descumprimento de decisão desta Corte Superior que havia determinado a suspensão de processos cuja questão controvertida fosse relacionada ao Tema 1.201, afetado ao rito dos recursos repetitivos.
+Conforme entendimento deste Tribunal Superior, é inviável a utilização da reclamação constitucional para examinar descumprimento de decisão que determina o sobrestamento de processos em virtude da afetação de matéria à sistemática dos recursos repetitivos.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO. PROCESSUAL CIVIL. PRETENSÃO DE SOBRESTAMENTO DO FEITO ORIGINÁRIO COM BASE EM DECISÃO DE SUSPENSÃO NACIONAL. NÃO CABIMENTO DO PLEITO.
+1. A jurisprudência desta Corte Superior se firmou no sentido de ser incabível o acolhimento de reclamação em razão de descumprimento da ordem de sobrestamento de matéria, em face de recurso repetitivo, mormente se não houve o exaurimento da instância ordinária acerca da decisão do juiz que, entre outras questões, rejeitou exceção de pré-executividade e deferiu o redirecionamento da execução fiscal.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 41.275/SC, relator Ministro Og Fernandes, Primeira Seção, julgado em 18/5/2021, DJe de 7/6/2021 - sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SOBRESTAMENTO DO PROCESSO NA ORIGEM. AFETAÇÃO DE TEMA AO RITO DOS RECURSOS REPETITIVOS. TEMA N. 1.085. DESCUMPRIMENTO. AUSÊNCIA DE PREVISÃO LEGAL EXPRESSA. INADEQUAÇÃO DA VIA ELEITA. INICIAL INDEFERIDA. ENTENDIMENTO JURISPRUDENCIAL DO STJ.
+1. A jurisprudência do STJ é pacífica no sentido de que é incabível a propositura de reclamação constitucional contra decisão que descumpre ordem de sobrestamento dos processos em razão de afetação de matérias sob o rito dos recursos repetitivos, face a ausência de expressa previsão legal.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 44.234/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 17/10/2023, DJe de 19/10/2023 - sem destaque no original.)
+Ante o exposto, com fundamento no art. 485, I, do CPC/2015, indefiro a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
