@@ -1,0 +1,75 @@
+DECISÃO
+JOSÉ MACIEL DINIZ NETO alega sofrer coação ilegal em face de acórdão do Tribunal a quo no HC n. 0625626-90.2024.8.06.0000.
+A defesa busca a soltura do paciente, em razão do excesso de prazo para o julgamento pelo Tribunal do Júri, pois está preso desde 27/3/2021. Assenta que o réu é cardiopata e que não há definição nem do local nem da data de julgamento, haja vista o foro de Juazeiro do Norte-CE não ter estrutura para a realização do ato.
+Lembra que o insurgente é primário e de bons antecedentes, e argumenta que o tempo de constrição cautelar justifica a superação das Súmulas n. 21 e 52 do STJ.
+Entende não estarem presentes os requisitos previstos no art. 312 do CPP.
+Requer a revogação da preventiva ou a sua substituição prisão domiciliar ou por outras cautelas menos gravosas.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério Público Federal opinou pelo não conhecimento do writ, e, se conhecido, pela denegação da ordem.
+Decido.
+O acórdão ora combatido asseriu o que se segue (fls. 627-640, grifei):
+Quanto aos fundamentos da prisão preventiva, observo que a prisão do paciente foi reanalisada recentemente, em 17/04/2024 (fls. 148/151 dos autos de nº 0010670-73.2024.8.06.0112). Sobre o excesso de prazo e as questões de saúde apontadas pelo paciente, a autoridade dita coatora indeferiu os pedidos da defesa, mantendo a prisão preventiva nos seguintes termos:
+ ..
+Ademais, convém registrar, que a tese de ausência de fundamentação da prisão preventiva e da aplicação de medidas cautelares foi enfrentada por esta Relatoria, através do habeas corpus nº 0629580-52.2021.8.06.0000, sendo julgado aos 17/08/2021, conforme ementa a seguir transcrita:
+ ..
+Nessas condições, é de se reconhecer que os fundamentos apresentados nas decisões são idôneos e suficientes para a segregação cautelar. Nesse sentido, tenho que o Juízo a quo tem embasado o decisum nos elementos do caso concreto, em razão da alta reprovabilidade do crime cometido - homicídio qualificado em contexto de disputa territorial do tráfico, com registro de pertencimento a organização criminosa -, sendo este fundamento idôneo para justificar a manutenção da referida medida.
+Quanto ao estado de saúde do paciente, observo que tal questão já foi enfrentada no habeas corpus nº 0633058-97.2023.8.06.0000, em 10/10/2023, o qual foi conhecido e denegado, tendo em vista a ausência de comprovação de que seu quadro de saúde o coloque em estado de saúde crítica, tampouco demonstração concreta de que a permanência no cárcere seria incompatível com os tratamentos e fornecimento de medicamentos necessários aos seus cuidados médicos:
+ ..
+apreciados anteriormente.
+Deixo de conhecer do writ nos pontos citados.
+Passo à análise acerca do alegado excesso de prazo.
+Em 28/01/2021, a autoridade policial de Solonópole representou pela prisão preventiva e busca e apreensão em face de Francisco Ernando da Silva, Luiz Deurisvan da Silva, Eder Soares Bezerra e José Maciel Diniz Neto. Em 16/02/2021, foi decretada a prisão temporária dos envolvidos e deferido o pleito de busca e apreensão (fls. 83/89 dos autos de nº 0050133-53.2021.8.06.0168).
+Em 22/03/2021, foi ofertada a denúncia (fls. 132/142) Em 23/03/2021, convertida a prisão temporária em preventiva (fls. 152/154).
+Em 25/03/2021, foi cumprido o mandado de prisão preventiva em desfavor de José Maciel Diniz Neto (fls. 177 dos autos 0050133-53.2021.8.06.0168).
+Em 06/09/2021, desmembramento dos autos em relação a Francisco Marcélio Morais de Sousa (fls. 313/314).
+Em 11/03/2022, sentença de pronúncia em face de Eder Soares Bezerra, Francisco Ernando da Silva, José Maciel Diniz Neto e Luis Deurisvan da Silva como incursos nos crimes previstos no art. 121, § 2º, I e IV, do Código Penal e no art. 2º, § 2º, da Lei Federal nº 12.850/2013, em concurso material, oportunidade em que foram mantidas as prisões preventivas dos pronunciados (fls. 530/536).
+Recurso em sentido estrito julgado e negado provimento em 18/10/2022 (fls. 834/866).
+Em 20/04/2023, o Ministério Público requereu o desaforamento do julgamento dos acusados (fls. 958/967).
+Em 27/11/2023, deferido o pedido de desaforamento (fls. 1096/1111).
+Em 06/03/2024, o juízo de Juazeiro do Norte expediu ofício ao Tribunal de Justiça do Estado do Ceará (Desembargador Mário Parente Teófilo Neto) informando que, dada a necessidade de proceder à oitiva de 15 (quinze) testemunhas, além dos interrogatórios dos 05 (cinco) réus, com seus respectivos advogados constituídos, a comarca de Juazeiro do Norte não disporia da estrutura necessária para a realização do julgamento. Por esse motivo, solicitou manifestação acerca da pertinência do envio dos autos à Comarca de Fortaleza.
+Ante a ausência de resposta ao ofício supracitado, o juízo processante encaminhou solicitação de resposta, conforme comunicação de fl. 1179, em 02/05/2024.
+É cediço que o excesso de prazo que deslegitima o aprisionamento cautelar é aquele decorrente de atuação desidiosa do Estado-Juiz, o que não se verifica no processo em epígrafe, uma vez que o feito tem curso aceitável, compatível com as particularidades do caso, não havendo notícias de que esteja ocorrendo morosidade ou retardo excessivo na implementação dos atos processuais, mormente se consideradas as peculiaridades do caso concreto.
+Nesse contexto, há de se destacar que o paciente foi pronunciado, o que atrai a incidência da Súmula 21 do STJ: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Evidencia-se que, embora o paciente esteja preso preventivamente há cerca de três anos, o retardo nos autos não decorreu de desídia ou de omissão do Juízo a quo, mas sim da complexidade do feito decorrente de apurada investigação através de quebra do sigilo telefônico e de dados do aparelho apreendido por ocasião da prisão do corréu Francisco Ernando da Silva; envolvendo possíveis membros da facção criminosa Primeiro Comando da Capital (PCC); com 05 (cinco) réus envolvidos, voltados para o comércio ilícito de entorpecentes e outros crimes graves.
+Além disso, observa-se a interposição de recursos em sentido estrito e embargos de declaração, o que contribui para o transcurso de tempo, apesar da celeridade nos julgamentos.
+Por último, observa-se que o juízo da Comarca de Juazeiro do Norte, após o deferimento do pedido de desaforamento, tem se comunicado com este Tribunal de Justiça, uma vez que fora apontada a limitação estrutural da referida comarca, levando a autoridade dita coatora a consultar acerca da possibilidade de remessa dos autos à Comarca de Fortaleza.
+Nesse contexto, aduziu que há a necessidade de proceder à oitiva de 15 (quinze) testemunhas, além dos interrogatórios dos 05 (cinco) réus, com seus respectivos advogados constituídos, sendo que a comarca de Juazeiro do Norte não disporia da estrutura necessária para a realização do julgamento. Ante a ausência de resposta, o ofício foi reenviado e os autos aguardam a devolução da comunicação.
+Desta feita, percebe-se que o andamento do feito ocorre de forma regular e diligente, não havendo desídia por parte do Estado-Juiz, apontando na direção da razoabilidade da manutenção da prisão cautelar do paciente, mormente ao se considerar a proximidade da conclusão acerca do foro que abrigará o julgamento.
+Neste sentido, julgados deste egrégio Tribunal:
+ ..
+Diante do exposto, pelos fundamentos acima alinhados, conheço parcialmente do presente habeas corpus impetrado, para, na extensão, DENEGAR a ordem requerida, com recomendação ao juízo primevo que diligencie acerca da resposta do ofício enviado no dia 02/05/2024 e, sendo a resposta negativa, que empreenda esforços para agendar a sessão de julgamento no Tribunal do Júri para a data mais próxima possível.
+Ao prestar as informações solicitadas, o Juiz de primeiro grau assim asseverou (fls. 663-664, destaquei):
+Às págs. 1206, juntou-se o julgamento do pedido de envio dos autos a Comarca de Fortaleza. Na oportunidade, por meio dos autos de Nº 0000367-45.2024.8.06.0000, o Egrégio Tribunal de Justiça do Estado do Ceará entendeu que esta Comarca de Juazeiro do Norte possuía condições para o julgamento da causa.
+Conforme págs. 1207/1213, diante da Decisão destacada no parágrafo anterior, reanalisou-se as situações prisionais dos acusados, para ser mantida a prisão preventiva. E, no mesmo ato, determinou-se as intimações das partes (Ministério Público, a Defesa do Réu Francisco Emando da Silva e a Defesa de José Maciel Diniz Neto), para fins de adequação ao rol de testemunhas.
+ ..
+Atualmente, os autos aguardam a realização da Sessão do Tribunal do Júri designada para o dia 29 de outubro de 2024, às 08 horas e 30 minutos.
+De início, vê-se que as alegações defensivas de falta de fundamentação para a imposição da custódia cautelar e de necessidade de prisão domiciliar não foram examinados no acórdão recorrido. Dessa forma, o presente habeas corpus não merece conhecimento quanto a esses pontos, a fim de não se incorrer em indevida supressão de instância.
+O STJ já manifestou o entendimento de que "o eventual constrangimento ilegal por excesso de prazo resulta de aferição realizada à luz dos princípios da razoabilidade e da proporcionalidade, sopesadas as peculiaridades do caso concreto, de modo a evitar retardo injustificado da jurisdição, por desídia do Poder Judiciário, atuação da parte acusadora ou outra situação incompatível com o princípio da razoável duração do processo" (AgRg no RHC n. 172.681/PR, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 9/3/2023, grifei).
+No caso, a prisão preventiva do réu perdura desde 27/3/2021, período que, por ora, não se revela absurdo, mormente quando considerado que o feito está em estágio avançado.
+Houve prolação de decisão de pronúncia, aos 11/3/2022, o que atrai a incidência da Súmula n. 21 do STJ.
+Também entendo não haver situação a ensejar a superação do óbice acima apontado, especialmente se considerada a complexidade da ação penal. Com efeito, o Tribunal a quo destacou se tratar de ação penal "envolvendo possíveis membros da facção criminosa Primeiro Comando da Capital (PCC); com 05 (cinco) réus envolvidos, voltados para o comércio ilícito de entorpecentes e outros crimes graves" (fl. 635). Assinalou que, ao longo da persecução penal, houve pedido de desaforamento, que foi deferido, necessidade de quebra de sigilo telefônico e de dados de aparelho apreendido e, ainda, registrou que, no julgamento, haverá a oitiva de 15 testemunhas.
+Além disso, segundo as informações fornecidas pelo Juízo singular, o Tribunal de Justiça definiu que o julgamento dos réus se dará na comarca de Juazeiro do Norte e a Sessão Plenária está designada para o dia 29/10/2024.
+Todas essas circunstâncias revelam que o feito não está paralisado e existem peculiaridades que justificam a maior delonga em sua tramitação.
+Nesse contexto, é incabível a concessão da ordem.
+Nos termos dos julgados desta Corte:
+ ..
+8. No caso, a prisão preventiva do agravante foi decretada em 19/2/2020, a denúncia foi recebida em 3/7/2020 e foram realizadas audiências de instrução e julgamento, sendo proferida sentença de pronúncia em 13/9/2022. Nesse contexto, incide a Súmula n. 21 do STF, segundo a qual "pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução".
+9. No período posterior, tampouco há constrangimento ilegal a ser reparado. Isso porque trata-se de ação penal complexa, na qual se apura a suposta prática de crimes graves (homicídio qualificado e ocultação de cadáver) e envolve 13 réus, tendo alguns interposto recurso em sentido estrito contra a sentença de pronúncia. Assim, tendo em vista que o agravante não apresentou recurso, foi deferido o desmembramento do feito com relação a ele em 22/8/2023, originando o processo n. 0007656-98.2020.8.19.0067, que encontra-se concluso ao Juiz de primeiro grau desde 12/12/2023, sendo possível vislumbrar a designação de sessão de julgamento do Tribunal do Júri em data próxima.
+ ..
+(AgRg no RHC n. 189.579/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+ ..
+Dada a ponderação entre o direito do réu preso à razoável duração do processo e o interesse da coletividade na sua segregação cautelar, devido à consideração de que sua liberdade provisória representa enorme risco à ordem pública, e a constatação de que o único argumento relativo ao constrangimento ilegal por excesso de prazo é a duração do cárcere, não considero que a ilegalidade esteja patente, especialmente pelo advento da recente sentença de pronúncia.
+6. De fato, o constrangimento ilegal por excesso de prazo não resultaria do atingimento de determinado marco temporal objetivo, mas da aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+7. Assim, apesar dos argumentos apresentados pela defesa, não há elementos nos autos que evidenciem a existência de constrangimento ilegal.
+ ..
+(AgRg no RHC n. 186.014/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/10/2023, DJe de 11/10/2023).
+ ..
+1. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC n. 331.669/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016). Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+2. No caso em tela, o agravante foi preso preventivamente em dezembro de 2020. A denúncia foi oferecida  ..  recebida  .. . A audiência de instrução ocorreu em 11/3/2021 e em 26/3/2021 as alegações finais foram apresentadas. Em 16/4/2021, foi prolatada a sentença de pronúncia. A defesa interpôs recurso em sentido estrito  ..  e o Tribunal a quo negou provimento ao recurso defensivo. A sessão de julgamento pelo Tribunal do Júri foi designada para 26/10/2022. Em 14/9/2022, o assistente de acusação ingressou com requerimento de desaforamento do julgamento, com pedido liminar de suspensão da sessão do júri.
+ .. . Em 17/4/2023, o Juízo originário informou que ainda se encontrava aguardando o pedido de desaforamento.  ..
+3. Na espécie, vê-se que o processo vem tendo regular andamento na origem, sinalizando, inclusive, o encaminhamento do feito ao Tribunal do Júri, visto que se encontra, apenas, aguardando o resultado do julgamento do pedido de desaforamento manejado pelo assistente de acusação perante o Tribunal de segundo grau.
+ ..
+(AgRg no RHC n. 181.938/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 28/9/2023).
+À vista do exposto, conheço parcialmente do habeas corpus e, na parte conhecida, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
