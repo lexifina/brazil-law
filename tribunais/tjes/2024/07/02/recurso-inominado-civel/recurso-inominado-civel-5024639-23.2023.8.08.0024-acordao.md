@@ -1,0 +1,91 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5024639-23.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MM TURISMO & VIAGENS S.A e outros
+RECORRIDO: JOAO GUILHERME PASSAMANI e outros (3)
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5024639-23.2023.8.08.0024
+RECORRENTE: JOAO GUILHERME PASSAMANI, NATALIA CAMPODELLORTO PASSAMANI, ROSANGELA MARIA CAMPO PASSAMANI, VALDIR JUNIOR CAMPODELL ORTO PASSAMANI
+RECORRIDO: MM TURISMO & VIAGENS S.A, GOL LINHAS AÉREAS S.A.
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Conheço do recurso, eis que se encontram preenchidos os requisitos de admissibilidade, recebendo-o, apenas, em seu efeito devolutivo, eis que ausentes quaisquer das hipóteses que justifiquem a concessão do efeito suspensivo previsto no art. 43 da lei nº 9.099/95.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CÓDIGO DE DEFESA DO CONSUMIDOR. BAGAGEM EXTRAVIADA. DANOS MORAIS E MATERIAIS CONFIGURADOS. SENTENÇA MANTIDA.
+(1). TESE AUTORAL.
+ALEGOU A PARTE REQUERENTE QUE ADQUIRIU PASSAGEM PELA COMPANHIA AÉREA GOL, ORA SEGUNDA RÉ, ATRAVÉS DAS RESERVAS REALIZADAS PELA PRIMEIRA RÉ NO MONTANTE DE R$ 4.364,48 (QUATRO MIL TREZENTOS E SESSENTA E QUATRO REAIS E QUARENTA E OITO CENTAVOS), COM EMBARQUE NO DIA 31/10/2022, LOCALIZADOR LPHQH. NO ENTANTO, NA VIAGEM DE VOLTA, A PRIMEIRA RÉ INFORMOU QUE O VOO SERIA CANCELADO SEM JUSTIFICATIVA E SEM ESTORNOS DOS VALORES. ADUZIU QUE A PRIMEIRA RÉ CANCELOU O VOO E INFORMOU A POSSIBILIDADE DE REALOCAÇÃO DOS AUTORES EM OUTRO VOO, PORÉM, ADUZIU QUE UMA DAS AUTORAS JÁ HAVIA INFORMADO A IMPOSSIBILIDADE DOS AUTORES DE IREM NO VOO PROPOSTO PELA RÉ, VISTO QUE, NÃO CHEGARIAM A TEMPO À CIDADE DE LIMA. AFIRMOU QUE A PRIMEIRA RÉ SE COMPROMETEU A ENVIAR NOVAS PASSAGENS, MAS NÃO CUMPRIU, E TEVE A PARTE AUTORA QUE ADQUIRIR NOVAS PASSAGENS PARTINDO DE TUMBES. DIANTE DISSO, PLEITEOU-SE A REPARAÇÃO POR DANOS MATERIAIS: (1) DEVOLUÇÃO DE 50% DO VALOR DAS PASSAGENS AÉREAS, TOTALIZANDO R$ 2.182,22; (2) REEMBOLSO DE DESPESA COM HOSPEDAGEM NA MONTA DE R$ 961,61; (3) RESTITUIÇÃO DO VALOR DE LOCOMOÇÃO NA MONTA DE R$1.279,20; (4) AQUISIÇÃO DE NOVAS PASSAGENS NA MONTA DE R$ 2.383,24; (4) UMA BOLSA PERDIDA NO VALOR R$ 8.490,00 E MORAIS.
+(2). ANTÍTESE.
+EM DEFESA, A REQUERIDA AFIRMOU QUE O ATRASO NA PARTIDA DO PRIMEIRO TRECHO DA VIAGEM SE DEU EM VIRTUDE DE CHEGADA TARDIA DA AERONAVE, OCASIONANDO A PERDA DA CONEXÃO, QUE
+“procedeu com a reacomodação no primeiro voo disponível ao destino pretendido, além das assistências materiais cabíveis como hospedagem”.
+(3). DISPOSITIVO DA SENTENÇA.
+“
+Ante o exposto, ACOLHO o pedido inicial, resolvendo o mérito nos termos do art. 487, I, do CPC, e CONDENO a LATAM AIRLINES GROUP S/A a pagar a GUSTAVO COUTINHO LUCAS, BARBARA FIGUEIREDO DOS SANTOS e MARCIA HELENA FIGUEIREDO o valor de: a. R$
+417,56 (quatrocentos e dezessete reais e cinquenta e seis centavos), à título de danos materiais, sendo R$ 217,25 (duzentos e vinte e sete reais e vinte e cinco centavos), com correção monetária, desde 15/04/2023 (Súmula 43, STJ), e R$ 200,31 (duzentos reais e trinta e um centavos), com correção monetária, desde 16/04/2023 (Súmula 43, STJ), ambos com juros de mora, contados a partir da citação (art. 397, parágrafo único c/cart. 405, CC), ambos pelos índices da Corregedoria local.
+b. R$ 30.000,00 (trinta mil reais), sendo R$ 10.000,00 (dez mil reais) para cada autor, a título de danos morais, com correção monetária, desde o arbitramento (súmula 362, STJ), e juros de mora, a contar da citação (art. 397, parágrafo único c/c art. 405, do CC), ambos pelos índices da Corregedoria local.”.
+
+(4). RECURSO DA PARTE RÉ.
+EM SÍNTESE, REQUER SEJA O RECURSO MANEJADO ACOLHIDO E PROVIDO PARA MODIFICAR A SENTENÇA DE PRIMEIRA INSTÂNCIA, JULGANDO IMPROCEDENTE TODOS OS PEDIDOS EXPOSTOS NA EXORDIAL.
+(5). CONTRARRAZÕES DO REQUERENTE.
+REQUER, EM SUMA, SEJA NEGADO PROVIMENTO AO RECURSO INTERPOSTO PELO RECORRENTE.
+(6). DO MÉRITO.
+NO QUE TANGE A PRELIMINAR, ENTENDO QUE NÃO MERECE PROSPERAR, TENDO EM VISTA QUE A RÉ FAZ PARTE DA CADEIA DE FORNECIMENTO DO SERVIÇO. SENDO ASSIM, RESTA CLARA SUA LEGITIMIDADE PARA A DEMANDA.
+NO MÉRITO, DESTACO QUE SE APLICAM À PRESENTE DEMANDA AS DISPOSIÇÕES ESTABELECIDAS PELO CÓDIGO DE DEFESA DO CONSUMIDOR, PORQUANTO AS PARTES SE ENQUADRAM PERFEITAMENTE NOS CONCEITOS EXARADOS PELOS ARTS. 2º E 3º DO REFERIDO DIPLOMA. TRATANDO-SE DE RELAÇÃO DE CONSUMO, IMPENDE DESTACAR QUE TODOS INTEGRANTES DA CADEIA DE FORNECIMENTO DE SERVIÇOS RESPONDEM PELOS VÍCIOS PORVENTURA PRESENTES DE FORMA OBJETIVA. OUTROSSIM, DE ACORDO COM O CÓDIGO DE DEFESA DO CONSUMIDOR, O FORNECEDOR DE PRODUTOS OU SERVIÇOS POSSUI RESPONSABILIDADE OBJETIVA (ARTS. 12 E 14), OU SEJA, DEVE RESPONDER POR PREJUÍZOS CAUSADOS A TERCEIROS INDEPENDENTEMENTE DA EXISTÊNCIA DE CULPA. ASSIM, EM CASO DE REPARAÇÃO DE DANO, CABE AO CONSUMIDOR DEMONSTRAR O DEFEITO DO PRODUTO OU SERVIÇO, O PREJUÍZO SOFRIDO E O NEXO DE CAUSALIDADE ENTRE ELES.
+
+DESSA FORMA, EM RAZÃO DO RECONHECIMENTO DA APLICAÇÃO DO CDC À HIPÓTESE DOS PRESENTES AUTOS, HOUVE A INVERSÃO DO ÔNUS DA PROVA, PREVISTA EM SEU ARTIGO 6º, INC. VIII. POR ESSE MOTIVO, CABERIA AO RECORRIDO COMPROVAR QUE NÃO HOUVE CONDUTA ILÍCITA CAPAZ DE ENSEJAR DANO A PARTE RECORRENTE. DEVE-SE DESTACAR QUE, A PRÓPRIA RESOLUÇÃO Nº 400 DA ANAC ESTABELECE QUE AS OPERADORAS DE TRANSPORTE AÉREO TÊM O DEVER DE OFERECEREM ALTERNATIVAS DE REACOMODAÇÃO, REEMBOLSO E EXECUÇÃO DO SERVIÇO POR OUTRA MODALIDADE DE TRANSPORTE, DEVENDO A ESCOLHA SER DO PASSAGEIRO, NO CASO DE ATRASO DE VOO. ADEMAIS, DISPÕE AINDA QUE A REACOMODAÇÃO PODE OCORRER EM VOO PRÓPRIO OU DE TERCEIROS PARA O MESMO DESTINO, NA PRIMEIRA OPORTUNIDADE, DEVENDO TAL OPÇÃO TAMBÉM SER DO CONSUMIDOR. OCORRE QUE A FALHA NA PRESTAÇÃO DOS SERVIÇOS RESTA CONFIGURADA, POIS A RECORRENTE PODERIA TER OFERTADO A POSSIBILIDADE DE REALOCAÇÃO DOS RECORRIDOS NUM VOO EM QUE ELES PUDESSEM CHEGAR MAIS CEDO AO SEU DESTINO FINAL. NESSA ESTEIRA, A RECORRENTE NÃO COMPROVOU, DE FORMA EFETIVA E INEQUÍVOCA, O MOTIVO DE CASO FORTUITO OU DE FORÇA MAIOR QUE TEVE O CONDÃO DE INFLUENCIAR O CANCELAMENTO/ATRASO DO VOO. A JURISPRUDÊNCIA TEM ENTENDIDO QUE A OCORRÊNCIA DE CANCELAMENTOS DE VOOS DEVIDO A CONDIÇÕES CLIMÁTICAS E PROBLEMAS TÉCNICOS CARACTERIZAM RISCOS INERENTES À PRÓPRIA ATIVIDADE DESEMPENHADA PELA COMPANHIA AÉREA, CONFIGURANDO FORTUITO INTERNO. NESSE SENTIDO, CONSOANTE PRECEDENTE DO STJ NO RESP. 1.584.465, É CEDIÇO QUE O SIMPLES ATRASO E CANCELAMENTO DE VOO NÃO CONFIGURA DANO MORAL
+IN RE IPSA,
+DEVENDO A PARTE COMPROVAR OS DANOS PARA FAZER JUS AO PLEITO INDENIZATÓRIO, O QUE AO MEU ALVITRE RESTOU DEVIDAMENTE COMPROVADO NOS AUTOS, PELAS RAZÕES EXARADAS NESTE VOTO. A PROPÓSITO, COLACIONO PRECEDENTE DO EGRÉGIO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, NESSE SENTIDO:
+recurso inominado. Transporte aéreo internacional. Ação indenizatória por danos morais. Falha na prestação de serviço evidenciada. Recurso da parte autora adstrito à majoração do quantum indenizatório.
+Atraso no trecho de ida que culminou na perda do voo de conexão. Reacomodação da passageira em voo com conexão não prevista. Atraso de 10 horas para chegar ao destino contratado.
+Cancelamento do voo contratado para o itinerário miami ? Chicago.
+Reacomodação para o dia seguinte. Perda de compromisso agendado e uma diária de hotel. Atraso de 18 horas para chegar ao destino final. Dano moral configurado.
+Quantum arbitrado em r$4.000,00 que não comporta majoração, pois já acima dos parâmetros adotados por este colegiado no julgamento de casos análogos. Sentença mantida por seus próprios fundamentos. Recurso desprovido. (tj-rs - recurso cível: 71009929464 rs, relator: silvia maria pires tedesco, data de julgamento: 19/08/2021, quarta turma recursal cível, data de publicação: 23/08/2021) (original sem destaque). Recurso inominado. Ação indenizatória. Transporte aéreo de passageiros.
+Atraso de voo nacional. Perda de conexão. Assistência prestada à passageira. Hospedagem e alimentação.
+Insatisfação da passageira com a qualidade dos serviços prestados.
+Chegada no dia seguinte. Voo de retorno para seu domicílio. Danos morais ocorrentes.
+Quantum (r$2.000,00) fixado com base em atuais precedentes da turma para casos semelhantes. Sentença reformada. Recurso parcialmente provido. (tj-rs - recurso cível: 71009386483 rs, relator: jerson moacir gubert, data de julgamento: 20/10/2020, quarta turma recursal cível, data de publicação: 23/10/2020) (original sem destaque). Recurso inominado. Transporte aéreo. Voo nacional. Atraso superior a 04 horas. Excludente de responsabilidade não demonstrada. Readequação de malha aérea que não configura fortuito externo. Chegada no destino final com 10 horas de atraso e necessidade de realizar conexão adicional.
+Perda de um dia da viagem de lazer/turismo.
+Assistência prestada de forma insuficiente. Danos morais configurados. Redução do valor fixado de r$ 4.000,00 para r$ 3.000,00 por se mostrar mais adequado ao caso concreto, aos princípios da proporcionalidade e razoabilidade, bem como ao parâmetro adotado por esta turma recursal no julgamento de casos análogos.recurso parcialmente provido. (tj-rs - recurso cível: 71009747858 rs, relator: mara lúcia coccaro martins facchini, data de julgamento: 24/11/2020, primeira turma recursal cível, data de publicação: 27/11/2020) (original sem destaque).
+ENTENDO QUE RESTOU COMPROVADO A FALHA NA PRESTAÇÃO DE SERVIÇO, TENDO EM VISTA QUE, EM QUE PESE A REQUERIDA TER FORNECIDO INFORMAÇÕES AOS AUTORES, BUSCANDO SOLUCIONAR A QUESTÃO, NENHUM VOO DISPONÍVEL ATENDERIA OS RECORRIDOS. POR ISSO, FOI NECESSÁRIO QUE OS AUTORES EMBARCASSEM NO AEROPORTO DE OUTRA CIDADE NÃO SENDO-LHES OFERTADO SERVIÇO COMPATÍVEL COM O VOO ORIGINALMENTE CONTRATADO, RESTANDO INCONTROVERSA A FALHA NA PRESTAÇÃO DOS SERVIÇOS DA PARTE RÉ. POR ESSA RAZÃO, ENTENDO QUE OS AUTORES DEMONSTRARAM A OCORRÊNCIA DE CIRCUNSTÂNCIAS FÁTICAS QUE ULTRAPASSAM O MERO ABORRECIMENTO E CONFIGURARAM DANOS MORAIS, À VISTA DA SITUAÇÃO EXPERIMENTADA. NO QUE TANGE AO
+QUANTUM
+DEVIDO, É CEDIÇO QUE, PELA NATUREZA NÃO PATRIMONIAL DO BEM VIOLADO, A DOUTRINA TEM INDICADO DIVERSOS PARÂMETROS QUE DEVEM SER SEGUIDOS PELO JULGADOR QUANDO DA SUA FIXAÇÃO, SENDO ELES: A RAZOABILIDADE; A PROPORCIONALIDADE; A EXTENSÃO DO DANO; O GRAU DA CULPA; E A CAPACIDADE FINANCEIRA DO OFENSOR E DO OFENDIDO; DE FORMA QUE NÃO SEJA IRRISÓRIO NEM IMPORTE ENRIQUECIMENTO DA VÍTIMA. ASSIM, CONSIDERANDO A CONDIÇÃO ECONÔMICA DAS PARTES, A GRAVIDADE DA CULPA E A EXTENSÃO DO DANO, ENTENDO QUE
+A SENTENÇA MERECE REPAROS QUANTO AO VALOR FIXADO A TÍTULO DE DANO MORAL. ASSIM SENDO, TENHO QUE O PATAMAR INDENIZATÓRIO MERECE SER REDUZIDO PARA R$5.000,00 (CINCO MIL REAIS) PARA CADA AUTOR, O QUE ENCONTRA RESPALDO NOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+QUANTO AOS DANOS MATERIAIS, ENTENDO QUE FICOU PROVADO, DE ACORDO COM OS DOCUMENTOS ACOSTADOS E, POR ESSA RAZÃO, MANTENHO A SENTENÇA NESSE PONTO. COM RELAÇÃO ÀS AS PASSAGENS NÃO USUFRUÍDAS, COMPARTILHO DO ENTENDIMENTO DA R. SENTENÇA, A QUAL DEFERIU “O O REEMBOLSO PRETENDIDO E SOLICITADO DE 50% SOBRE O VALOR ARCADO COM AS PASSAGENS AÉREAS DE IDA E VOLTA, NO MONTANTE DE R$ 2.182,22 (DOIS MIL CENTO E OITENTA E DOIS REAIS E VINTE E DOIS CENTAVOS), COM CORREÇÃO MONETÁRIA DESDE 30/08/2022, BEM COMO OS GASTOS COM HOSPEDAGEM EM LIMA NO MONTANTE DE R$ 961,61 (NOVECENTOS E SESSENTA E UM REAIS E SESSENTA E UM CENTAVO), COM CORREÇÃO MONETÁRIA DESDE 30/10/2022 E DO NOVO VOO TUMBES X LIMA NO MONTANTE DE R$ 2.383,24 (DOIS MIL TREZENTOS E OITENTA E TRÊS REAIS E VINTE E QUATRO CENTAVOS)”. SENDO ASSIM, MANTENHO A SENTENÇA NESSE PARTICULAR.
+(7) RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+SENTENÇA PARCIALMENTE ALTERADA TÃO SOMENTE PARA REDUZIR O VALOR DE DANOS MORAIS PARA R$5.000,00 (CINCO MIL REAIS) PARA CADA AUTOR. SENTENÇA MANTIDA NOS DEMAIS PONTOS. (8)
+ANTE O PROVIMENTO PARCIAL DO RECURSO INOMINADO INTERPOSTO, SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS, NA FORMA PRESCRITA PELO ART. 55 DA LEI 9.099/95.
+
+ISABELA GONÇALVES ADRIANO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr. FELIPE LEITÃO GOMES – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
