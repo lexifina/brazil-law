@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por CONJUNTO BALNEÁRIO COSTA DO SOL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"CERCEAMENTO DE DEFESA - Inocorrência - Elementos suficientes para o convencimento do juiz - Preliminar rejeitada. CUMPRIMENTO DE SENTENÇA - Acordo homologado para execução de serviços - Extinção do incidente pela satisfação da obrigação - Inconformismo do exequente - Desacolhimento -Serviços que foram executados de forma incontroversa - Síndico que deu a quitação aos 12 itens/pontos a serem corrigidos pela parte apelada, por meio do "termo de quitação ao acordo formalizado para extinção do processo nº 1009574-98.2016.8.26.0477" - Discussão sobre eventual falha no serviço prestado e sobre o prazo para reclamação dos alegados vícios que deve ser apurada em demanda própria - Aplicação do disposto no art. 252 do RITJSP - Sentença mantida - Recurso desprovido" (e-STJ fl. 141).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente menciona, além de divergência jurisprudencial, os arts. 924, II, do Código de Processo Civil, 618 e 1.348, II, do Código Civil, bem como as Súmulas nºs 194 e 278/STJ.
+Defende a existência de relação de consumo entre as partes e sua legitimidade ativa.
+Aduz que a obra possui garantia de cinco anos, cujo prazo se inicia a partir da ciência do defeito.
+Assevera que a quitação outorgada diz respeito à obrigação de fazer, não à solidez do empreendimento.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, a deficiência na fundamentação recursal restou evidenciada, na medida em que a parte recorrente, apesar de mencionar os arts. 924, II, do Código de Processo Civil, 618 e 1.348, II, do Código Civil, não especifica de que forma eles teriam sido contrariados ou interpretados de forma divergente pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos e impedindo o conhecimento do inconformismo, por ambas as alíneas do permissivo constitucional.
+Incide, pois, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. DECISÃO EXTRA PETITA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. RESPONSABILIDADE CIVIL POR INADIMPLEMENTO CONTRATUAL. HABITE-SE TOTAL E EDIFICAÇÃO DE MEZANINO. PRESCRIÇÃO. PRAZO PRESCRICIONAL DECENAL (ART. 205 DO CC). NÃO OCORRÊNCIA. ATRASO OCASIONADO POR EXIGÊNCIA DA ADMINISTRAÇÃO PÚBLICA. RISCO INERENTE À ATIVIDADE. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. É inadmissível o recurso especial, por deficiência na fundamentação, com a incidência da Súmula 284/STF, quando ausente a indicação do dispositivo de lei eventualmente violado ou, ainda, quando há a indicação de dispositivo legal tido por violado, todavia sem normatividade ou sem a demonstração de como se consubstancia a alegada ofensa.
+3. O fortuito interno, fato imprevisível e inevitável ocorrido no momento da realização do serviço ou da fabricação do produto e relacionado à atividade empresarial desenvolvida e seus inerentes riscos, como é o caso de óbice criado por exigência da Administração Pública para a liberação do Habite-se, não exclui a responsabilidade do fornecedor. Precedentes.
+4. Os juros moratórios, nos casos de responsabilidade contratual, fluem a partir da data de citação. Precedente da Corte Especial.
+5. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1.528.474/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 17/5/2024 - grifou-se)
+"ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284/STF. AUXÍLIO-MORADIA. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. ALEGAÇÃO DE QUEBRA DE ISONOMIA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. RECURSO NÃO PROVIDO.
+1. O Recurso Especial deve conter, de forma clara e objetiva, os motivos pelos quais o recorrente visa reformar o decisum e a demonstração da maneira como este teria malferido a legislação federal. Com efeito, a mera citação de dispositivos legais invocados de forma genérica e esparsa não supre tal exigência. Aplica-se, por analogia, a Súmula 284/STF.
+2. Na hipótese dos autos, o Tribunal a quo, ao dirimir a controvérsia, concluiu que o insurgente não preenche os requisitos para a concessão/manutenção de auxílio-moradia, haja vista a vedação expressa do art. 60-B, VIII, da Lei 8.112/1990.
+3. Por outro lado, o recorrente não impugnou suficientemente a fundamentação acima destacada - que é apta, por si só, a manter o acórdão recorrido. Portanto, aplica-se à espécie, por analogia, o disposto na Súmula 283/STF.
+4. Ademais, não cabe a esta Corte Superior, na via especial, analisar a alegação de que houve quebra de isonomia entre servidores na mesma condição (fl. 796, e-STJ) devido à sua natureza eminentemente constitucional.
+5. Agravo Interno não provido."
+(AgInt no REsp 2.107.148/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 29/5/2024 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. BEM IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ. TAXA DE OCUPAÇÃO. TERRENO SEM EDIFICAÇÃO. NÃO CABIMENTO. DIVERGÊNCIA. DEMONSTRAÇÃO. AUSÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. DISPOSITIVO DE LEI FEDERAL. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF.
+1. A reforma do julgado demandaria a interpretação de cláusulas contratuais e o reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+2. É incabível a cobrança de taxa de ocupação de imóvel quando se tratar de terreno sem edificação. Precedentes.
+3. O recurso especial fundamentado no dissídio jurisprudencial exige que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido."
+(AgInt nos EDcl no REsp 1.981.639/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 28/4/2023 - grifou-se)
+"PROCESSUAL CIVIL. PREVIDENICÁRIO. BENEFÍCIO PREVIDENCIÁRIO CUMULADO COM DANOS MORAIS. REDUÇÃO DE OFFÍCIO DO VALOR DOS DANOS MORAIS. POSSIBILIDADE. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. RECURSO ESPECIAL. DEFICIÊNCIA. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N. 211/STJ. AUSÊNCIA EM APONTAR OS DISPOSITIVOS LEGAIS VIOLADOS. INCIDÊNCIA DA SÚMULA N. 284/STF.
+(..)
+IX - Já quanto à alínea c do permissivo constitucional, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nessa linha: AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014, AgInt no AREsp 1.616.851/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt no AREsp 1.518.371/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/5/2020; AgInt no AREsp 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp 1.023.256/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24/4/2020; e AgInt nos EDcl no AREsp 1.510.607/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º/4/2020.
+(..)
+XIII - Agravo interno improvido."
+(AgInt no AREsp 2.358.592/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 11/4/2024 - grifou-se)
+Ademais, a Corte Especial deste Superior Tribunal de Justiça já consolidou o entendimento de que: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula nº 518/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois mil reais), os qu ais devem ser majorados para o patamar de R$ 2.500,00 (dois mil e quinhentos reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
