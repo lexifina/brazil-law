@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de HABEAS CORPUS, com pedido liminar, impetrado em favor de NATHAN DOS SANTOS contra acórdão assim ementado (fl. 33):
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DOS CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ART. 33, CAPUT, E ART. 35, AMBOS DA LEI N. 11.343/06). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGAÇÃO DE QUE A AÇÃO POLICIAL ULTRAPASSOU OS LIMITES DE ATRIBUIÇÕES. PLEITO NÃO FORMULADO NA ORIGEM. ADEMAIS, AUSÊNCIA DE ILEGALIDADE. DE OUTRO NORTE, PREENCHIDOS OS PRESSUPOSTOS E REQUISITOS DOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL. INDÍCIOS SUFICIENTES PARA SUSTENTAR AS IMPUTAÇÕES FEITAS AO PACIENTE. NECESSIDADE DA SEGREGAÇÃO PARA GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. DECISÃO DEVIDAMENTE FUNDAMENTADAS. EVENTUAIS BONS PREDICADOS PESSOAIS QUE NÃO OBSTAM A MANUTENÇÃO DA PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR QUE NÃO FERE O PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA APLICAÇÃO DE MEDIDAS CAUTELARES. PROVIDÊNCIA QUE, NA HIPÓTESE, NÃO SE MOSTRA SUFICIENTE. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA.
+1. Sempre que restarem presentes a prova da materialidade e indícios de autoria, o juiz está autorizado a manter o réu segregado para, dentre outras finalidades, assegurar a garantia da ordem pública e aplicação da lei penal (art. 312 do Código de Processo Penal).
+2. Inexiste ilegalidade na prisão quando a autoridade dita como coatora explicita suficiente e fundamentadamente as razões fáticas e jurídicas pelas quais determina ou mantém a prisão preventiva.
+3. Os predicados subjetivos do paciente não constituem óbice à manutenção das segregações cautelares, desde que presentes os requisitos da prisão preventiva.
+4. Se presentes os requisitos ensejadores do decreto preventivo, mostra-se incabível a aplicação de quaisquer das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela suposta prática dos crimes tipificados no art. 33, caput, e art. 35, ambos da Lei n. 11.343/2006.
+Sustenta a defesa, em síntese, a ausência de fundamentação idônea para decretação da prisão preventiva do acusado, que possui condições pessoais favoráveis.
+Alega que "a quantidade de droga, dissociada de qualquer outro requisito exigido pelo art. 312 do CPP, não é argumento suficiente para embasar o decreto prisional" (fl. 18).
+Requer, liminarmente e no mérito, a revogação da custódia cautelar ou a aplicação de medidas cautelares alternativas.
+Em consulta à base de dados desta Corte, verifica-se que, conforme as informações prestadas no HC n. 919.743/SC, conexo a este, o qual foi concedido para a soltura do corréu, a ordem foi estendida pelo Juízo de 1º Grau ao ora paciente, destacando-se que, "e m 7.6.2024 este Juízo recebeu a decisão proferida por Vossa Excelência em que determinou que o paciente fosse posto em liberdade, o que foi imediatamente cumprido. Por entender que os fundamentos da decisão se aplicavam ao corréu, estendi a ele os seus efeitos e determinei que também fosse posto em liberdade." (fl. 61.)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
