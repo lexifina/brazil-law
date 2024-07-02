@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE CUSTÓDIA contra decisão da Presidente desta Corte de Justiça, às e-STJ fls. 257/260, em que conheceu do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 7 do STJ e 284 do STF, bem como porque a pretensão de reconhecimento de dissídio jurisprudencial tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional.
+Nas suas razões, a parte agravante sustenta que não incide o óbice da Súmula 284 do STF, tendo em vista que o recurso impugnou especificamente a decisão proferida pelo TJPE, além de que, em relação a ambas as alíneas do permissivo constitucional, não há que falar em incidência da Súmula 7 do STJ, pois não há necessidade de revolvimento de fatos e provas, não existindo a comprovação dos fatos constitutivos do direito do autor.
+Sem impugnação (e-STJ fl. 280).
+Passo a decidir
+Exerço juízo de retratação, passando a nova análise da insurgência, tendo em vista que não se aplica à hipótese o óbice da Súmula 284 do STF.
+Trata-se de agravo interposto pelo MUNÍCIPIO DE CUSTÓDIA contra decisão do Tribunal de Justiça do Estado de Pernambuco, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 176):
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSO CIVIL.
+AÇÃO DE COBRANÇA. MUNICÍPIO DE CUSTÓDIA. ÔNUS PROCESSUAL DA ADMINISTRAÇÃO PÚBLICA ACERCA DA DEMONSTRAÇÃO DO ADIMPLEMENTO DAS VERBAS SALARIAIS. HONORÁRIOS POR EQUIDADE. HIPÓTESE QUE NÃO SE AMOLDA AO AUTORIZATIVO LEGAL. IMPROVIMENTO DO APELO. DECISÃO UNÂNIME.
+1. Comprovado o vínculo jurídico-administrativo, nos termos do art, 373, inciso II do CPC/2015; em se tratando de pagamento de verbas remuneratórias previstas no artigo 39, §3 0 da Constituição Federal, incumbiria ao réu a prova da existência de fato impeditivo, modificativo ou extintivo do direito autoral -.ônus do qual não se desincumbiu o Município. Acerto da condenação.
+2. A presente demanda não se enquadra nas situações excepcionais permitidas pela lei e jurisprudência para a fixação dos honorários por equidade, razão pela qual foi acertada o arbitramento pelo Juízo de origem do percentual mínimo de 1% do valor da condenação.
+3. Apelação improvida.
+4. Decisão unânime.
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação do art. 373, I, do CPC/2015, sustentando que "cabe pontuar que não há nos autos qualquer documentação que demonstre a existência de um crédito devido pelo Ente Público. Em outras palavras, os Recorridos não se livraram do seu ônus probatório, como exigido por força de expressa previsão legal (artigo 373, inciso I, do CPC) " (e-STJ fl. 197).
+Sem contrarrazões (e-STJ fl. 217).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Pois bem.
+Extrai-se do acórdão recorrido o seguinte (e-STJ fls. 177/178):
+ ..
+O objeto da presente irresignação recursal diz respeito ao ônus de demonstrar o inadimplemento dos vencimentos dos servidores/autores referentes ao mês de dezembro do exercício financeiro de 2012.
+Segundo o Município recorrente, o ônus de demonstrar o inadimplemento seria da parte autora, e não da Administração Pública.
+Compulsando os autos, verifica-se que todos os autores demonstraram os seus vínculos com o Município de Custódia (fls. 27/52).
+Logo, dúvidas não restam sobre a condição de servidores públicos municipais.
+Ora, comprovado o vínculo jurídico-administrativo, nos termos do art. 373, inciso II do em se tratando de pagamento de verbas remuneratórias previstas no artigo 39, §3º da Constituição Federal, incumbiria ao réu a prova da existência de fato impeditivo, modificativo ou extintivo do direito autoral - ônus do qual não se desincumbiu o Município de Custódia nos presentes autos.
+ ..
+Nesse contexto, não há, no caso dos autos, comprovação de que houve o efetivo pagamento das verbas salariais postuladas.
+Registre-se que no- âmbito da Administração Pública, a qual é vinculada ao princípio da legalidade, a entidade podadora deveria ter à sua disposição os meios de comprovar os pagamentos eventualmente efetivados, pois o cumprimento das despesas públicas é solene e segue especificações legalmente previstas.
+Com efeito, uma vez reconhecido pelo Tribunal de origem que a parte autora comprovou seu vínculo com o réu, competia a este demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, a ensejar a improcedência do pedido de cobrança formulado na peça exordial. Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. COBRANÇA DE VERBAS SALARIAIS EM ATRASO. AUSÊNCIA DE VIOLAÇÃO AO ART. 333 DO CPC. INOCORRÊNCIA DE INVERSÃO DO ÔNUS DA PROVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O recebimento da remuneração por parte do servidor público pressupõe o efetivo vínculo entre ele e a Administração Pública e o exercício no cargo.
+2. Incontroversa a existência do vínculo funcional, é ônus da Administração Pública demonstrar, enquanto fato impeditivo, modificativo ou extintivo do direito da parte autora, que não houve o efetivo exercício no cargo. Inteligência do art. 333 do CPC.
+3. Agravo regimental não provido. (AgRg no AREsp n. 149.514/GO, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 29/5/2012)
+Ainda nesse sentido, em caso semelhante, a seguinte decisão monocrática: AREsp n. 2.403717/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 07/12/2023; e AREsp 2.514.783/PE, de minha relatoria, DJe 29/04/2024.
+Incide, assim, no caso a Súmula 83 do STJ.
+Além disso, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ. Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REMUNERAÇÃO. INADIMPLÊNCIA DO ENTE MUNICIPAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE VIOLAÇÃO DO ART. 373 DO CÓDIGO FUX. ANÁLISE QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO DO MUNICÍPIO CUSTÓDIA/PE A QUE SE NEGA PROVIMENTO.
+1. Cinge-se a controvérsia na análise do direito, ou não, da parte agravada em receber verbas trabalhistas que não teriam sido pagas pelo Município de Custódia/PE.
+2. Do que consta nos autos, verifica-se que o Tribunal de origem consignou que a parte recorrida exerceu cargo público no âmbito do Núcleo de Apoio dos Programas Sociais do Município de Custódia/PE, e que a municipalidade não fez prova do pagamento dos valores pleiteados. Infirmar tal conclusão implicaria reexame de provas, o que é vedado nessa oportunidade, a teor do que dispõe a Súmula 7/STJ. Precedentes: AgInt no AREsp. 1.330.022/PE, Rel. Min. ASSUSETE MAGALHÃES, DJe 13.12.2018; AgInt no AREsp. 1.200.103/MT, Rel. Min. LUIS FELIPE SALOMÃO, DJe 25.9.2018; REsp. 1.728.326/CE, Rel. Min. HERMAN BENJAMIN, DJe 19.11.2018; AgRg no AREsp. 343.646/BA, Rel. Min. MAURO CAMPBELL MARQUES, DJe 27.9.2013.
+3. Agravo Interno do MUNICÍPIO DE CUSTÓDIA/PE a que se nega provimento. (AgInt no AREsp n. 1.415.190/PE, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe de 21/10/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DE COBRANÇA. VERBAS SALARIAIS EM ATRASO. ÔNUS DA PROVA. NÃO COMPROVAÇÃO DO PAGAMENTO. ACÓRDÃO A QUO FUNDADO NOS FATOS E PROVAS DO CASO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A alteração do entendimento firmado pela Corte de origem quanto ao ônus da prova, acolhendo-se, para tanto, as alegações recursais, demanda o revolvimento do acervo fático-probatório do caso vertente, o que encontra óbice na Súmula 7/STJ.
+2. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.727.932/PE, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 15/04/2021)
+Convém registrar, por fim, que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 257/260 e. com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Ca so exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte sucumbente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
