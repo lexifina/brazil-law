@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ISRAEL JOSE DE MELO JUNIOR, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco que denegou a ordem no Habeas Corpus n. 23308-17.2022.8.17.9000.
+Consta dos autos que, em 26/11/2022, foi convertida a prisão em flagrante do paciente em prisão preventiva pelo Juízo de piso, em decorrência da suposta prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006 (fls. 83/87).
+Foram apreendidos 8,200 g de maconha, 41,032 g de crack e a quantia, em espécie, de R$ 30,00 (trinta reais) - fls. 61/63.
+Denúncia apresentada em 13/2/2023 pelo Ministério Público (fls. 88/91).
+A defesa impetrou habeas corpus perante o Tribunal de origem que após o indeferimento do pedido liminar, denegou a ordem (fls. 18/36).
+Neste writ, a defesa alega constrangimento ilegal da prisão preventiva diante do excesso de prazo na formação da culpa.
+Alega que o paciente é primário e que os crimes imputados tratam de condutas praticadas sem violência ou grave ameaça à pessoa, além da desproporcionalidade da medida aplicada há mais de 1 ano e 4 meses, já que, em caso de condenação, o réu responderá na forma privilegiada com fixação de menor tempo de segregação do que o já cumprido.
+Aduz, ainda, que o procedimento policial foi realizado com abuso de poder e sem autorização de entrada na residência do paciente.
+Indeferida a liminar aqui (fls. 97/99) e prestadas as informações (fls. 105/127 e 128/130), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 134/140).
+É o relatório.
+O pleito da defesa limita-se à soltura do paciente, em razão do excesso de prazo injustificado para a formação da culpa do réu na Ação Penal n. 0002397-83.2022.8.17.4990.
+A irresignação merece prosperar.
+Consta da informação prestada em 12/4/2024 pela Vara Criminal de Igarassu que (fl. 129 - grifo nosso):
+Com o efetivo cumprimento dessas determinações, atualmente aguarda-se a realização da audiência de instrução e julgamento, a qual foi designada para o próximo dia 4 de julho de 2024 às 11h, em virtude da abarrotada pauta de audiências e júris dessa unidade jurisdicional.
+E, ainda, consultando o site do Tribunal de Justiça de Pernambuco, verifica-se que a anterior Ação Penal de n. 0002141-43.2022.8.17.4990, a qual o paciente responde ao mesmo crime aqui imputado, então referida nas decisões do Juízo de piso e do Tribunal a quo, segue sem movimentação desde 29/3/2023, quando o mandado foi devolvido após a intimação do acusado sobre a apresentação da defesa prévia.
+Segundo pacífico entendimento doutrinário e jurisprudencial, a configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida conforme os critérios de razoabilidade, tendo em vista as peculiaridades da espécie.
+A decisão do Tribunal a quo no julgamento do habeas corpus, mantendo a decisão da instância inferior pela não concessão da liberdade provisória, assim discorreu (fls. 19/25 - grifo nosso):
+Consta dos autos que o paciente foi preso em flagrante em 25.11.2022, pela suposta prática da conduta prevista no art. 33 e art. 35 da Lei 11.343/06, tendo a sua prisão convertida em prisão preventiva na audiência de custódia.
+Relata que de acordo com o Boletim de Ocorrência o paciente e sua companheira foram abordados em via pública, sendo encontrado com eles alguns papelotes de maconha e, em seguida, encontraram outra quantidade na residência dos mesmos. Em sucessivo, seguiram para UPA (Unidade de Pronto Atendimento) para um atendimento médico, após para delegacia.
+ ..
+In casu, considero que os documentos coligidos aos autos não conseguem ilidir a correção da medida adotada, pois atende aos requisitos dos artigos 312 e 313, do Código de Processo Penal.
+É patente a necessidade da prisão provisória, com o fito de acautelar a ordem pública. Portanto, tenho que a reiteração delitiva está evidenciada pelas circunstâncias do caso concreto, bem como que as medidas cautelares diversas da prisão se mostram insuficientes.
+Desse modo, não há qualquer óbice à decretação e manutenção da prisão preventiva do paciente.
+De fato, a prisão preventiva depende de alguns requisitos para ser aplicada, como a subsunção da situação fática aos arts. 312/313, do Código de Processo Penal.
+No caso concreto, vê-se que o paciente se encontra incurso no crime de tráfico de drogas, respondendo a outro processo conforme informações prestadas o que, em tese, autoriza a sua prisão preventiva, mormente para garantia da ordem pública, não havendo que se falar em revogação da prisão.
+ ..
+Outrossim, a alegação de que o paciente possui circunstâncias pessoais favoráveis não é apta, por si só, a ensejar o provimento da liberdade provisória, conforme a Súmula nº 86 deste Tribunal.
+A decisão revela-se acertada e está lastreada em elementos concretos, extraídos das informações e provas contidas nos autos, suficientes a demonstrar a necessidade de garantia da ordem pública, sendo inapropriadas as medidas cautelares do a 319 do Código de Processo Penal.
+Já em primeira instância, a homologação da prisão em flagrante com conversão em prisão preventiva, assinalou que (fl. 87 - grifo nosso):
+ ..
+15. Por sua vez, procedendo a análise da admissibilidade da conversão da prisão em flagrante do custodiado ISRAEL JOSÉ DE MELO JUNIOR, tenho, em primeiro plano, que o delito, praticado hipoteticamente pelo autuado, além de representar lesividade à sociedade, traz em seu bojo a indicação de potencial conduta associativa para a pratica do crime.
+16. É recordar que a norma processual penal defere ao Juiz competência para converter o flagrante em prisão preventiva. A permanência do(a/s) autuado(a/s) na prisão, in casu, tem como objetivo a garantia da ordem pública e para assegurar a aplicação da lei penal, especialmente porque consta dos autos e de pesquisa de antecedentes informações de que o custodiado havia sido em preso em flagrante no mês passado  29.10.2022  pela prática do mesmo delito definido na Lei 11.343/2006, Proc. nº 0002141-43.2022.8.17.4990, sendo liberado com medidas cautelares diversa da prisão após ser ouvido em audiência de custódia.
+17. Neste caso estão presentes os requisitos, não obstante os r. argumentos da Defesa. É que os indícios todos apontam a autoria a cargo do(s) acusado(a/s) para fins do cometimento dos delitos indicados, não apenas porque confessada a presença do autuado no momento da abordagem policial, como também a prova testemunhal, relatam a mesma ocorrência dos fatos.
+18. É importante considerar que a imprescindível instrução criminal irá definir a participação do autuado, ou não, no delito constante do flagrante. Por fim, vale considerar, para a hipótese, que a tipificação pela Autoridade Policial é realizada com os elementos de que dispõe no momento da lavratura. A mera dissensão na fase policial não implica em nulidade do flagrante.
+19. Assim, como garantia da ordem pública, e, principalmente como conveniência da instrução criminal, a prevenir que a autuada afete a elucidação das circunstâncias que envolvem os fatos narrados, bem como para assegurar a aplicação da lei, necessário se faz a sua segregação do núcleo da sociedade.
+20. Diante do exposto, em juízo de cognição primária, CONVERTO A PRISÃO EM FLAGRANTE EM CUSTÓDIA PREVENTIVA de ISRAEL JOSÉ DE MELO JUNIOR, qualificado(a/s).
+ ..
+Como já se viu, a audiência de instrução e julgamento foi designada para o próximo dia 4/7/2024. Nesse toar, considerando que já se passaram 19 meses desde a prisão preventiva, sem que se tenha identificado alguma razão atribuível à defesa pela demora em seu julgamento, tem-se por configurado o constrangimento ilegal a exigir a imediata concessão da liberdade provisória.
+Ademais, o réu é primário, as drogas apreendidas não se mostram em quantidade relevante e a associação criminosa imputada ao paciente tem relação com Maria Eduarda Fagundes de Lima, que parece ser sua companheira - pelos depoimentos prestados no auto de prisão em flagrante (fls. 37/82) - sendo ela corré na presente ação penal e respondendo ao processo em liberdade provisória (fls. 85/86).
+Ainda é importante consignar que caberá ao Juiz de direito da primeira ação penal ajuizada (processo já indicado acima), caso entenda necessário, analisar o eventual retorno do paciente à prisão em razão do descumprimento das obrigações impostas quando da concessão da liberdade provisória.
+Nos termos da jurisprudência desta Corte, a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal (HC n. 480.967/PA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/6/2019).
+Diante do tempo decorrido desde a conversão da prisão em flagrante em prisão preventiva sem o devido julgamento, assim como pelo fato de a ação penal mais antiga seguir sem movimentação desde março de 2023, entendo como extrapolados os limites da razoabilidade e da proporcionalidade.
+Ante o exposto, concedo a ordem para relaxar a prisão preventiva imposta ao paciente e aplicar medidas alternativas à pris ão a serem eleitas pelo Juízo de primeiro grau, sem prejuízo da decretação da custódia provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO CRIMINOSA. APREENSÃO DE 8,200 G DE MACONHA E 41,032 G DE CRACK. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MORA QUE NÃO DECORRE DA DEFESA. CONSTRANGIMENTO ILEGAL CONFIGURADO. DESPROPORCIONALIDADE NA PRISÃO.
+Ordem concedida.
