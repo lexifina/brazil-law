@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual DERSA - DESENVOLVIMENTO RODOVIARIO S/A - EM LIQUIDACAO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 104):
+Agravo de Instrumento - Cumprimento de sentença - DERSA - Decisão agravada que deferiu a penhora sobre imóvel da executada, ora agravante - Possibilidade - A agravante não se sujeita ao sistema de precatórios, pois, além de não ter finalizado seu processo de liquidação mediante a incorporação de todas as suas atividades ao Estado de São Paulo, sua natureza jurídica de direito privado ainda subsiste, já que o seu serviço ainda é exercido em regime de concorrência com o setor privado - Precedentes - Decisão mantida - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 136/139).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 534, 832 e 833, I, do Código de Processo Civil (CPC), sustentando, em síntese, que
+ ..  a impenhorabilidade dos  seus  bens  ..  na qualidade de empresa estatal dependente, bem como a necessidade de inclusão deste crédito na Lei Orçamentária Anual do Estado de São Paulo, sob pena de danos irreversíveis ao Erário Estadual e ao  seu  próprio processo de liquidação e extinção (fl. 121)
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 143/148).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+A alegação de violação dos arts. 534, 832 e 833, I, do Código de Processo Civil (CPC) não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+A jurisprudência do Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos do enunciado 211 de sua Súmula. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE COBRANÇA. DÉBITO POR UTILIZAÇÃO DE ÁREA DE CONCESSÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação de cobrança objetivando pagamento de débito pela utilização de área de concessão, juros moratórios e correção monetária, a contar do vencimento de cada parcela. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - Não foi apreciada a violação especificamente dos dispositivos indicados no recurso especial. assim, constata-se que, apesar de instado a fazê-lo por meio dos competentes embargos de declaração, o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados.
+III - Incide, no ponto, o Enunciado Sumular n. 211/STJ, que dispõe: é "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+IV - Isso porque, "se a questão levantada não foi discutida pelo Tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ." (AgInt no AREsp 1.557.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 15/5/2020.).
+V - Ainda que assim não fosse, a jurisprudência do Superior Tribunal de Justiça fixou que o benefício da justiça gratuita exige a demonstração da impossibilidade de pagar as custas e despesas do processo, mesmo quando se trate de pessoa jurídica sem fins lucrativos ou em liquidação/falência.
+VI - A propósito, o Enunciado Sumular n. 481/STJ consolidou que: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais." Nesse sentido: AgInt no AREsp 1.860.832/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/9/2021, DJe 3/11/2021; AgInt no AREsp 1.837.835/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/9/2021, DJe 30/9/2021; AgRg no AREsp 647.312/RS, relatora Ministra Assusete Magalhães, Segund a Turma, DJe 28/9/2015.
+VII - Nesse panorama, verifica-se que a apreciação da pretensão recursal implicaria a revisão do conjunto probatório dos autos acerca da alegada hipossuficiência financeira da parte recorrente. Incidência do Enunciado Sumular n. 7/STJ.
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 2.145.077/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
