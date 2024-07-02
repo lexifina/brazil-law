@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NEANDER DOS SANTOS ROQUE, contra decisão proferida por Desembargadora Relatora do Tribunal de Justiça do Estado de São Paulo, que não conheceu da ordem, no HC n. 2189365-05.2024.8.26.0000.
+Consta dos autos que o paciente, foi condenado, em primeiro grau de jurisdição, às penas de 3 anos, 9 meses e 21 dias de reclusão, em regime inicial semiaberto, e 8 dias-multa, pela prática do delito tipificado no art. 158, caput, c/c o art. 14, II, por duas vezes, n/f do art. 71, todos do Código penal (e-STJ, fls. 20/33).
+Irresignadas, ambas as partes apelaram e o Tribunal estadual negou provimento ao recurso defensivo e proveu parcialmente o ministerial para, afastando a modalidade tentada do delito, redimensionar as sanções do paciente a 6 anos, 4 meses e 6 dias de reclusão, em regime inicial fechado, e 14 dias-multa (e-STJ, fls. 35/52), em acórdão assim ementado:
+EXTORSÃO RECURSO DEFENSIVO: absolvição insuficiência probatória - inocorrência - declarações das vítimas corroboradas pelos demais elementos acostados aos autos - condenação mantida - RECURSO NÃO PROVIDO.
+EXTORSÃO RECURSO DEFENSIVO: absolvição - atipicidade da conduta - valor devido - cessão de crédito - não comprovação, no entanto, da dívida originária - inexistência, ademais, da prévia notificação nos termos do art. 290, do CC grave ameaça com emprego de arma de fogo declarações das vítimas corroboradas pelos demais elementos acostados aos autos - condenação mantida - RECURSO DESPROVIDO.
+EXTORSÃO RECURSO MINISTERIAL: afastamento da tentativa - necessidade - extorsão que se consuma com a exigência e grave ameaça - consecução da vantagem indevida que caracteriza mero exaurimento inteligência da súmula 96 do STJ - RECURSO PARCIALMENTE PROVIDO PARA ESSE FIM.
+Insatisfeita com o regime prisional estabelecido, a defesa do paciente impetrou prévio mandamus perante a Corte estadual, cuja Relatora não conheceu da ordem (e-STJ, fls. 9/13).
+No presente writ (e-STJ, fls. 3/8), o impetrante sustenta que o paciente sofre constrangimento ilegal decorrente da expedição de mandado de prisão para cumprimento de pena em regime inicial fechado, pois durante todo o tramite processual, ou seja, até 19/02/2024, o paciente cumpriu fielmente as medidas cautelares, compareceu todos os meses em juízo (com exceção da pandemia conforme resolução do CNJ), bem como se recolheu em domicílio nos dias de folga e período noturno por longos 04 anos (e-STJ, fl. 7); desse modo, defende que, operada a referida detração, ele faz jus à fixação de regime prisional mais brando.
+Diante disso, requer liminarmente, a suspensão dos efeitos da decisão que expediu mandado de prisão em regime inicial fechado ao paciente, nos autos da Ação Penal n. 1502859-46.2019.8.26.0616 e, no mérito, a concessão da ordem para determinar a expedição de contramandado de prisão em seu desfavor.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pelo impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste writ.
+Isso porque constato que a decisão monocrática ora impugnada, prolatada em 28/6/2024, é passível de recurso voltado ao órgão colegiado do próprio Tribunal a quo. Desse modo, resulta incabível a presente impetração, ante o não exaurimento das instâncias de origem.
+Ilustrativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. TEMA NÃO ANALISADO POR ÓRGÃO COLEGIADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. RAZOABILIDADE. COMPLEXIDADE. REAVALIAÇÃO DA PRISÃO CAUTELAR PELO TRIBUNAL DE ORIGEM. ART. 316, PARÁGRAFO ÚNICO, DO CPP. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não houve a interposição, perante o Tribunal de origem, de agravo regimental da decisão ora impugnada - que indeferiu o pedido de revogação da prisão preventiva -, de forma a submeter a matéria decidida monocraticamente ao julgamento do órgão colegiado. Assim, o Superior Tribunal de Justiça fica impedido de analisar esse tema, sob pena de incorrer em indevida supressão de instância.
+ ..
+9. Agravo regimental não provido (AgRg no HC n. 689.731/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 23/11/2021, DJe 29/11/2021, grifei).
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DA INSTÂNCIA. IMPOSSIBILIDADE DE CONHECIMENTO DO INCONFORMISMO.
+1. É inviável o conhecimento do presente mandamus, uma vez que o impetrante se insurge contra decisão singular de Desembargador do Tribunal de Justiça do Estado do Ceará, contra a qual seria cabível agravo regimental, que não foi interposto. Precedente do STF.
+ ..
+3. Habeas corpus não conhecido (HC n. 315.608/PE, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 20/5/2015, grifei).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
