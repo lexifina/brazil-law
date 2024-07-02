@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Elcio do Nascimento Chagas contra decisão de fls. 530-533, alegando omissão quanto aos honorários sucumbenciais. Deduz que o seu parcial êxito, "que deixará de restituir ao erário significativa quantia ao erário, implicou em sair vencedor na maior parte do pedido deduzido na exordial, que deve ter como consequência a condenação da Embargada no ônus sucumbenciais" (fl. 539). Requer, assim, o acolhimento dos embargos de declaração, "a fim de que se aprecie os fundamentos relativamente à inversão/fixação dos honorários sucumbenciais em seu favor".
+Sem impugnação.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir o missão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com razão o embargante, visto que, de fato, a decisão embargada foi omisso no tocante aos honorários advocatícios.
+No caso, cinge-se a controvérsia acerca da possibilidade de supressão do percentual de 84,32%, referente a reposições remuneratórias decorrentes do Plano Collor, incorporado aos vencimentos da parte autora por força de decisão judicial, mas que teria sido absorvido pelos aumentos de remuneração/proventos advindos com as Leis 11.344/06 e 11.784/08, com o ressarcimento ao erário das parcelas pagas de maneira indevida pela Administração.
+O acórdão recorrido deu provimento à remessa necessária e apelação, para, reformando integralmente a sentença, julgar improcedentes os pedidos, condenando a Parte Autora ao pagamento de honorários advocatícios de 10% sobre o valor atualizado da causa (R$ 79.640,71).
+Por outro lado, deu-se parcial provimento ao recurso especial, apenas com o fim de declarar o direito do autor a não devolver quantia a título de reposição ao erário em decorrência dos valores recebidos de boa-fe, diante da má intepretação da lei por parte da Administração Pública.
+Dessa forma, cabe ao juízo de origem definir quanto ao rateio de honorários advocatícios, visto que "a aferição do percentual em que cada litigante foi vencedor ou vencido, ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios, aplicando-se à hipótese, a Súmula n.º 7 do STJ" (REsp n. 2.136.125/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/6/2024, DJe de 14/6/2024.)
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, a fim de que de que o juiz de origem defina o rateio de honorários advocatícios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
