@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por PRIMEPLAST RESINAS PLÁSTICAS EIRELI e outro em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1937, e-STJ):
+AÇÃO DE PRESTAÇÃO DE CONTAS - SEGUNDA FASE - APELAÇÃO DOS AUTORES - Preliminar de não conhecimento do recurso diante da inobservância do princípio da dialeticidade - Requisitos do artigo 1.010 do CPC preenchidos - Preliminar afastada.
+- Sentença que julgou boas as contas apresentadas pelo réu, apurando a inexistência de saldo a ser constituído - Irresignação dos autores, que sustentam ser credores de mais de dois milhões de reais - Pretensão voltada à discussão sobre abusividade de cláusulas contratuais - Impossibilidade de revisão contratual em ação de prestação de contas - Sentença mantida por seus próprios e jurídicos fundamentos.
+Recurso não provido.
+Os embargos declaratórios opostos foram rejeitados (fls. 1982-1984, e-STJ).
+Nas razões do recurso especial (fls. 1947-1970, e-STJ), a parte insurgente apontou negativa de vigência ao artigo 551, §1º, do CPC/2015, sustentando a reforma do acórdão recorrido para reconhecer que "não estão boas as contas apresentadas nos autos e dependem de complementação, tendo em vista que, os lançamentos descritos, não encontram justificativa em documentos hábeis a comprovar sua validade." (fl. 1954, e-STJ).
+Contrarrazões ofertadas às fls. 1988-2002, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 2003-2004, e-STJ), dando ensejo na interposição do presente agravo (fls. 2007-2040, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 2043-2065, e-STJ.
+É o relatório. Decido.
+Presentes os pressupostos para a admissão do agravo (art. 1.042 do CPC/2015), passa-se à análise do recurso especial. A irresignação, contudo, não merece prosperar.
+1. Os recorrentes alegam negativa de vigência ao artigo 551, § 1º, do CPC/2015, pretendendo a reforma do acórdão impugnado no sentido de serem rejeitadas as contas apresentadas pelo Banco recorrido, em razão da ausência de comprovação da contratação dos encargos e valores cobrados. Afirma que o banco réu cobrou juros acima da taxa média divulgada pelo Banco Central do Brasil, além de tarifas indevidas.
+O TJSP, após análise do conjunto fático-probatório dos autos e amparado nas peculiaridades do caso concreto, negou provimento ao apelo dos recorrentes, mantendo a sentença primeva que acolheu as contas prestadas pelo recorrido, julgando-as boas, bem como reconheceu que os lançamentos foram devidamente comprovados documentalmente, não restando valor devido aos autores, consoante se extrai do seguintes trechos do acórdão (fls. 1940-1943, e-STJ):
+Ar. sentença deve ser confirmada pelos seus próprios e bem deduzidos fundamentos, os quais ficam inteiramente adotados como razão de decidir, nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça: "nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la".
+No caso em exame, observa-se que o Juízo a quo analisou detidamente os elementos constantes dos autos, julgando boas as contas apresentadas pelo réu.
+A saber:
+"(..)
+O dever do réu de prestar contas na hipótese foi reconhecido pelo Eg. Tribunal de Justiça, competindo a este juízo a apreciação e julgamento da segunda fase do procedimento, consistente na prestação das contas, efetivamente.
+Para tanto, foi nomeado perito técnico contábil que, após analisar os documentos e contas juntadas aos autos e outros requeridos, concluiu que (fl. 1915): "Considerando os lançamentos questionados pela Requerente (fls. 1389/1405), e os documentos juntados pelo Banco em sua prestação de contas, a perícia analisou os lançamentos contestados pela Requerente, demonstrados no quadro abaixo e apurou que para os mesmos existem contratos ou documentos que comprovam sua origem (..)" (grifo não original).
+Ressalte-se, ainda, que formulado requisito pelos autores para que fosse elaborada "planilha relacionando todos os lançamentos não comprovados documentalmente" (fl. 1912), a resposta foi justamente o trecho supratranscrito, de que todas estariam devidamente comprovadas documentalmente e amparadas no contrato e na legislação aplicável à matéria.
+Destaca-se, por oportuno, a informação contida no laudo pericial, à fl. 1904, de que os débitos questionados pelos requerentes representam o considerável importe de 30,54% do total dos débitos havidos na conta corrente no período. Ou seja, os autores discordam de um terço de todas as transações havidas em sua conta corrente, e ainda assim permaneceu utilizando os serviços, o que não se mostra razoável.
+Em verdade, o que se observa é o descontamento da parte com as tarifas e taxas de juros cobradas pelo requerido, mas que, respeitado posicionamento diverso, não é este o meio adequado para a discussão (prestação de contas).
+(..)
+De todo modo, nesta segunda fase da ação de prestação de contas cabe, ao fim, a apuração de saldo e a constituição do título executivo, consoante o artigo 552 do CPC.
+Contudo, na hipótese não restou verificado pela prova técnica qualquer valor devido aos autores, não sendo pertinentes ao procedimento demais discussões levantadas".
+Se os autores, ora apelantes, pretendiam discutir a legalidade das cláusulas contratuais e a eventual repetição de indébito, certamente esta não é a medida jurídica adequada, devendo se valer da ação apropriada.
+E mais não é preciso dizer para que seja mantida, por seus próprios fundamentos, a r. sentença recorrida.
+Posto isso, nega-se provimento ao recurso.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS PARA CONFECÇÃO DE REVISTA ESPECIALIZADA. SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO E PARCIAL PROCEDÊNCIA DA RECONVENÇÃO. RESCISÃO CONTRATUAL. INFRINGÊNCIA CONTRATUAL DA REQUERIDA NÃO EVIDENCIADA. PAGAMENTO DA MULTA CONTRATUAL IMPOSTO À AUTORA/RECONVINDA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Consoante o entendimento do Superior Tribunal de Justiça, o juiz não fica adstrito ao laudo pericial, podendo formar sua convicção com base em outros elementos ou fatos provados nos autos, pois, como destinatário final da prova, cabe ao magistrado a interpretação da produção probatória, necessária à formação do seu convencimento.
+2. No caso, o Tribunal de origem observou que, embora o laudo pericial tenha concluído que a prestação de contas não foi realizada pela ré/reconvinte da maneira determinada no contrato, não ficou evidenciada a infringência contratual por parte desta. Isso, porque os documentos dos autos, consistentes em e-mails trocados entre as partes, demonstraram que a planilha de prestação de contas era alimentada e preenchida pela própria autora/reconvinda e, durante todo o prazo em que o contrato estava vigente, as contas foram prestadas a contento pela requerida, sem que tenha havido nenhum registro de impugnação sobre as contas apresentadas.
+3. A reforma do julgado demandaria, necessariamente, o reexame do contexto fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.339.730/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/6/2019, DJe de 28/6/2019.) grifou-se
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. VALOR APURADO POR PERÍCIA. IMPUGNAÇÃO AO CRITÉRIO DE APURAÇÃO UTILIZADO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. LIVRE ADMISSIBILIDADE E CONVENCIMENTO DO JUIZ.
+1. A aferição, no âmbito do Superior Tribunal de Justiça, da perfeição e da forma em que as contas foram prestadas demanda o revolvimento do conjunto fático-probatório, inviável, ante o enunciado da Súmula 7 do STJ. Precedentes.
+2. O princípio da livre admissibilidade da prova e do livre convencimento do juiz permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias, não configurando cerceamento de defesa o julgamento da causa nessas condições.
+3. Concluindo o acórdão recorrido, com base nos elementos de fato e prova dos autos, pela desnecessidade de realização de nova perícia requerida pelo recorrido, a revisão julgado, como pretendido, demandaria o revolvimento de matéria de prova, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp n. 1.410.730/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/12/2015, DJe de 1/2/2016.)
+Desta forma, inviável o conhecimento do recurso.
+2. Do exposto, conheço do agravo (art. 1.042 do CPC/2015), para não conhecer do recurso especial. Majoro os honorários advocatícios anteriormente fixados em R$ 6.000,00 (fl. 1.943, e-STJ) para R$ 7.00 0,00, nos termos do art. 85, § 11, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
