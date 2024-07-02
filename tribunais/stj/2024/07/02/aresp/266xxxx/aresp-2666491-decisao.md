@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ALEX SANDRO SOUZA LIMA JUNIOR, em adversidade à decisão que inadmitiu recurso especial manejado com fundamento nas alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 461):
+Apelação criminal - Tráfico de drogas majorado por envolver adolescente - Impossibilidade do acolhimento da tese de ilegalidade suscitada nas razões recursais - Matéria já analisada por essa Câmara e, também, pelo Colendo Superior Tribunal de Justiça - Preliminar afastada - Autoria e materialidade demonstradas - Conjunto probatório satisfatório - Afastamento do aumento procedido na pena-base - Redimensionamento da pena - Inaplicabilidade da causa de diminuição de pena prevista no § 4º, do artigo 33, da Lei nº 11.343/2006 e da substituição da pena privativa de liberdade por restritivas de direitos ou a concessão de sursis, diante da quantidade de pena e em razão da existência de dados concretos nos autos indicativos de dedicação às atividades criminosas por parte do apelante - Modificação do regime prisional escolhido no primeiro grau de jurisdição para o semiaberto - Recurso da defesa PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, alega a defesa violação dos artigos 155, 240, 244 e 301, todos do Código de Processo Penal. Sustenta a ilicitude das provas por atuação irregular da guarda municipal e indevida invasão de domicílio, e pugna pela anulação da sentença penal condenatória.
+Apresentadas as contrarrazões (e-STJ fls. 545/553), o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 556/557), dando ensejo à interposição do agravo ora apreciado.
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo desprovimento do recurso (e-STJ fls. 585/590).
+É o relatório. Decido.
+De pronto, cumpre registrar que o recorrente também se utilizou da via processual do habeas corpus para impugnar as teses trazidas nos presentes autos, por meio da impetração do RHC178.249/SP, de minha relatoria.
+No mencionado writ, toda a matéria objeto da presente irresignação foi analisada em decisão monocrática da MINHA LAVRA, publicada no dia 31/3/2023. Referida decisão foi confirmada pelo colegiada da egrégia 5ª Turma em sede de agravo regimental e posterior embargos de declaração, nos seguintes termos:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. GUARDAS MUNICIPAIS. POLICIAMENTO OSTENSIVO. SITUAÇÃO NÃO CARACTERIZADA. FLAGRANTE DELITO CONSTATADO. 2. INGRESSO NO DOMICÍLIO DO RECORRENTE. PRÉVIA SITUAÇÃO DE FLAGRANTE. DELAÇÃO DE CORRÉU. AUTORIZAÇÃO DA NAMORADA DO RECORRENTE. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias assentaram não estar caracterizada situação de policiamento ostensivo. Registrou-se, ademais, que o recorrente e o corréu, ao avistarem o carro dos guardas municipais, correram e dispensaram uma pochete contendo drogas, o que revela situação de flagrante delito, apta a autorizar a abordagem por guardas municipais.
+- Quanto à alegação de que a dinâmica já ficou esclarecida na audiência de instrução e julgamento, realizada no dia 13/3/2023, tem-se que a matéria deve ser previamente submetida ao crivo do Tribunal de origem, para que então possa ser examinada por esta Corte Superior, sob pena de indevida supressão de instância.
+2. No que concerne ao ingresso no domicílio do recorrente, verifica-se que, além da situação de flagrante delito, o menor que foi apreendido em sua companhia indicou sua residência como "local onde havia mais drogas" e a namorada do paciente expressamente autorizou o ingresso dos guardas municipais. Dessa forma, tem-se todos os elementos necessários ao regular ingresso no domicílio:
+prévia situação de flagrante, delação do corréu e autorização da namorada do paciente.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no RHC n. 178.249/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023).
+Dessa forma, uma vez que as questões deduzidas no recurso especial já foram integralmente analisadas por esta Corte Superior nos autos do mandamus acima mencionado, impetrado com os mesmos fundamentos e pedidos, é inegável reconhecer a prejudicialidade do presente recurso.
+Nesse sentido, confiram-se os seguintes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERPOSTO APÓS O PRAZO DE 5 (CINCO) DIAS PREVISTO NA LEI N. 8.038/1990. RECURSO INTEMPESTIVO. ASSOCIAÇÃO PARA O TRÁFICO. PRETENSÃO DE ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. MATÉRIA ANTERIORMENTE APRECIADA EM DECISÃO MONOCRÁTICA PROFERIDA PELO RELATOR EM HABEAS CORPUS CONEXO. REITERAÇÃO COM IDÊNTICOS FUNDAMENTOS E PEDIDO NO RECURSO ESPECIAL. PREJUDICIALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em matéria penal, é de 5 (cinco) dias, nos termos da Lei n. 8.038/1990 e do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP.
+2. Na espécie, a decisão monocrática foi disponibilizada no Diário de Justiça eletrônico em 31/8/2022 (quarta-feira), considerando-se publicada em 1º/9/2022 (quinta-feira), conforme certidão de e-STJ fl. 2237. Desse modo, o prazo recursal de 5 (cinco) dias teve início em 2/9/2022 (sexta-feira), com término em 6/9/2022 (terça-feira).
+3. Não obstante, o presente agravo foi interposto apenas em 8/9/2022 (e-STJ fls. 2239/2241), sendo manifestamente intempestivo, portanto.
+4. Outrossim, ainda que superado o óbice da intempestividade, é cediço na jurisprudência desta Corte Superior que a análise anterior das matérias objeto do recurso especial nos autos de habeas corpus impetrado com idênticos fundamentos e pedidos implica perda de interesse recursal e prejudicialidade da pretensão recursal.
+Precedentes.
+5. In casu, o pleito atinente ao abrandamento do regime inicial de cumprimento de pena foi anteriormente apreciado por este Superior Tribunal de Justiça, no julgamento do Habeas Corpus n. 724.984/SP, impetrado em favor da mesma parte, contra o mesmo acórdão, sob os mesmos fundamentos e com idêntico pedido. Assim, ainda que superado o óbice da intempestividade, o reconhecimento da prejudicialidade do recurso especial seria de rigor.
+6. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.186.312/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROGRESSÃO DE REGIME. PEDIDO JÁ APRECIADO. RECURSO ESPECIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. A anterior manifestação desta Corte, em habeas corpus com idêntico objeto, torna prejudicado o julgamento do recurso especial.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 1.765.289/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 26/3/2019, DJe de 4/4/2019 )
+Ante o exposto, julgo prejudicado o recurso.
+Intimem-se.
+EMENTA
