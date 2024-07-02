@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por TRANSWAP AIR CARGO LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 310):
+Agravo de Instrumento Processual Civil e Tributário Execução Fiscal - ICMS - Decisão que rejeitou a exceção de pré-executividade na parte relativa ao reconhecimento de nulidade das CDAs, bem como a ocorrência de prescrição parcial - Recursopela executada-excipiente Desprovimento de rigor.
+Prescrição parcial do crédito tributário - Inocorrência de decadência ou prescrição Lançamento por homologação - Creditamento indevido - Termo inicial - Primeiro dia do exercício seguinte - Inteligência do artigo 173, I, do CTN. Alegação de nulidade da CDA ante a ausência de fundamento legal das infrações cometidas - Não indicação de fundamento legal, no presente caso que não tem o condão de violar os princípios da legalidade e da publicidade e, ademais, ausente prejuízo ao contraditório e ampla defesa tendo em vista que amplamente exercido o direito de defesa no processo administrativo Nulidadeda CDA não caracterizada - Precedentes R. decisão mantida Recurso desprovido.
+Não foram apresentados embargos de declaração.
+No especial, a parte alega, em síntese, violação do art. 202, III, do CTN e do art. 2º, § 5º, III, da Lei 6.830/1890 ao argumento de que a Certidão de Dívida Ativa (CDA) é nula ante a ausência dos requisitos legais indispensáveis à sua validade, o que impossibilita o exercício da ampla defesa.
+Aduz que "a mera juntada aos autos de cópia do processo administrativo, posterior à apresentação da exceção de pré-executividade, não tem, por óbvio, o condão de afastar o prejuízo imposto à recorrente, em virtude da CDA deficitária dos requisitos indispensáveis à sua validade" (fl. 326).
+Suscita divergência jurisprudencial entre o acórdão recorrido e julgado do Tribunal de Justiça do Estado do Paraná e do Tribunal de Justiça do Estado de Pernambuco, os quais reconheceram a nulidade da CDA por ausência de indicação precisa dos fundamentos legais da dívida.
+Contrarrazões apresentadas às fls. 354/356.
+O recurso especial foi admitido na origem (fl. 358).
+É o relatório.
+O recurso especial não comporta conhecimento.
+Ao analisar a controvérsia, o Tribunal a quo afastou a alegada nulidade do título executivo ao fundamento de que no conjunto de documentos que lastreiam a Certidão de Dívida Ativa, como o auto de infração e o processo administrativo fiscal, constam os fundamentos legais da autuação, não tendo havido prejuízo ao exercício da ampla defesa. É o que se observa do excerto do voto condutor do acórdão recorrido (fls. 311/312):
+Da atenta compulsa aos autos constata-se que, embora da CDA não constar efetivamente a tipificação legal da infração, e apenas referência abrangente ao RICMS, deve-se ter em consideração o conjunto dos demais elementos dos autos e que lastreiam a CDA, a saber, o AIIM, bem como todo o processo administrativo prévio e do qual constam com clareza os fundamentos legais da autuação, ou seja, o creditamento indevido em razão de utilização de alíquota de 12% ao invés de 4% que seria a alíquota aplicável na prestação deserviços de transportes aéreos.
+Ademais, no Auto de Infração e Imposição de Multa de fls. 196/198 consta de forma cristalina os fundamentos legais que embasam o título executivo.
+Ainda deve-se ter em conta que houve pleno exercício do direitode defesa da ora agravante no processo administrativo correlato.
+Desse modo, ante o aprofundamento da análise da regularidade da CDA e, ultrapassada a cognição sumária que ensejou o deferimento do efeito suspensivo ao agravo, reputo presentes os requisitos de validade do título executivo, não se cogitando, no presente caso, de óbice ao exercício da ampla defesa e contraditório em sua total dimensão.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Esse é o entendimento pacífico do Superior Tribunal de Justiça de que o enfrentamento de questão relacionada à verificação da liquidez e certeza da Certidão de Dívida Ativa demanda, necessariamente, o revolvimento do acervo fático-jurídico dos autos, o que é inviável na instância especial ante o óbice da Súmula 7/STJ.
+Pela pertinência, cito o julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS DE VALIDADE DA CDA. OMISSÃO DE RENDIMENTOS. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Nos termos dos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, § 4º, I, ambos do Regimento Interno desta Corte, o relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+2. O Tribunal de origem reconheceu que a certidão de dívida ativa (CDA) reunia todos os requisitos de validade. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+3. Não cabe ao STJ, em recurso especial, analisar a violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.717.838/RS, de minha relatoria, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. CDA. VALIDADE. AMPLA DEFESA. PREJUÍZO. INEXISTÊNCIA. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação, por analogia, da Súmula 284 do STF.
+2. " ..  a nulidade da CDA não deve ser declarada à vista de meras irregularidades formais que não têm potencial para causar prejuízos à defesa do executado, visto que o sistema processual brasileiro é informado pelo princípio da instrumentalidade das formas" (AgInt no REsp n. 1.833.673/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/09/2021, DJe de 16/09/2021.)
+3. A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA), inclusive a respeito de suposta ausência de cálculo quanto à forma como se chegou aos valores consolidados, pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.854.930/MS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/6/2023, DJe de 16/6/2023.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise r ecursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
