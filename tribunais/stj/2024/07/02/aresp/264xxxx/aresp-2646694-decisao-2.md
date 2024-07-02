@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por KARCHER INDÚSTRIA E COMÉRCIO LIMITADA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EXECUÇÃO POR QUANTIA CERTA. Alugueres e encargos de locação não residencial. Embargos do devedor. Juízo de improcedência. Apelo de executada, embargante. Parcial provimento" (e-STJ fl. 1.407).
+Os embargos de declaração opostos foram rejulgados, após determinação desta Corte para que se fizesse um novo julgamento:
+"EMBARGOS DECLARATÓRIOS. Pontos de omissão e contradição. Embargos rejeitados. Rejulgamento comandado pelo Superior Tribunal de Justiça. Acórdão mantido, com acréscimo de fundamentação" (e-STJ fl. 1.996).
+Os segundos embargos de declaração opostos pela ora recorrente foram parcialmente acolhidos, nos termos da seguinte ementa:
+"EMBARGOS DECLARATÓRIOS. Pontos de omissão e obscuridade. Embargos rejeitados. Rejulgamento comandado pelo Superior Tribunal de Justiça. Embargos acolhidos, em parte, com alcance modificativo" (e-STJ fl. 2.018).
+Nas razões do recurso especial (e-STJ fls. 2.126/2.160), a recorrente aponta divergência jurisprudencial e violação dos seguintes artigos do Código de Processo Civil com suas respectivas teses:
+i) arts. 355, I, 369, 370 e 371, quanto ao cerceamento de defesa;
+ii) arts. 504, I, 505 e 507, quanto ao equívoco na aplicação da preclusão;
+iii) arts. 141 e 492, sobre a falta de imperativa cognição exauriente acerca da inexistência de sucessão;
+iv) arts. 371, 489, § 1º, II e IV, e 1.022, II, pela não apreciação das provas que evidenciam a inexistência de título executivo extrajudicial;
+v) art. 1.022, II, pela rejeição dos embargos declaratórios sem a manifestação expressa acerca da matérias neles posta; e
+vi) arts. 85, §§ 2º e 13 e 86, quanto ao equívoco na fixação dos honorários de sucumbência.
+Contrarrazões apresentadas (e-STJ fls. 2.216/2.251).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o STJ determinou que os autos fossem remetidos à origem para novo julgamento dos aclaratórios primeiramente opostos ao acórdão recorrido. Houve novo julgamento (e-STJ fls. 1995/1997) e, após isso, foram opostos terceiros embargos de declaração, os quais foram parcialmente acolhidos.
+Assim, não há falar em um quarto julgamento, apenas porque a recorrente insiste no mérito daquilo que já foi devidamente analisado, visando a fazer prevalecer as suas teses e a atribuir resultado que lhe seja favorável, sem que o julgado padeça de quaisquer dos vícios do art. 1.022 do CPC.
+Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.
+Não existe omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Ressalta-se que a modificação das conclusões adotadas no acórdão recorrido, seja na primeira oportunidade em que foi proferido, seja por ocasião de seu rejulgamento, demandaria o reexame do conjunto fático e probatório dos autos, o que esbarra na Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Veja-se que, ao solucionar a controvérsia, a Corte local dispôs o seguinte:
+"Previsão relativa à honorária de advogado do locador, exigível do locatário, à consideração de eventual litígio, assim tendo sido concebida em contrato, não detém atributo de disciplina cogente.
+Não vincula o locatário, senão, em situação específica, ao concordar com o pagamento dessa verba.
+Havendo dissenso, sobretudo trazido a juízo (hipótese dos autos), da jurisdição a prerrogativa de dispor sobre a remuneração de advogados, e, assim, à luz do princípio da causalidade, que informa o encargo da sucumbência.
+Sobre a majoração da honorária de sucumbência, a propósito houve parcial acolhimento de recurso da executada, ora embargada, com glosa de valores e, mesmo sem alteração da distribuição da sucumbência, não há falar em honorária adicional, com fundamento no artigo 85, §11, do Código de Processo Civil.
+Também não calha arguida intempestividade de embargos do devedor, opostos em 25 de agosto de 2.017 (fl. 01), assim porque a convocação passiva da K rcher, como sucessora de primitiva devedora, foi objeto de discussão nos agravos de instrumento nºs. 2094745-79.2016.8.26.0000 e 2197525-97.2016.8.26.0000, transitando em julgado em 22 de outubro de 2.018.
+Por fim, afasta-se hipótese de reprimenda por litigância de má-fé, não havendo propriamente abuso de direito, senão variadas incursões da executada na tentativa de exaurir meios assegurados no exercício da ampla defesa" (e-STJ fls. 1.996/1.997).
+E, após a oposição de embargos de declaração pela ora recorrida, a Corte local lhes acolheu parcialmente, tecendo a seguinte fundamentação:
+"Na linha do acórdão impugnado (fl. 1.499), a obrigação de pagamento subsiste até efetiva desocupação do imóvel locado, nesse âmbito exigíveis alugueres e encargos, compondo contas de água, energia elétrica e IPTU, pendentes à data da restituição do imóvel, respeitosamente, não se entrevendo cogitado excesso de execução.
+Correção monetária, aplicável até efetiva liquidação de alugueres mensais, nos termos da cláusula quarta, do contrato (fl. 20), deve seguir indicadores do IGP-M/FGV.
+Glosa de valores, admitida no acórdão, embargado, não altera a distribuição do ônus da sucumbência, maior o decaimento da executada, embargante, diante da expressão final do crédito exequendo.
+Sobre a convocação passiva da embargante, como sucessora de primitiva devedora, a matéria foi devidamente apreciada nos agravos de instrumento nºs. 2094745-79.2016.8.26.0000 e 2197525- 97.2016.8.26.0000, coberta pela preclusão, desde 22 de outubro de 2.018.
+Ainda, nenhum vício a comprometer a higidez de título executivo extrajudicial, legitimando cobrança de resíduo de inadimplemento (fevereiro/2.009 a maio/2.011), de valores vencidos após o termo ad quem do respectivo contrato, assinalado para o 31 de julho de 2.008 (cláusula segunda - fl. 18), exigíveis, ope legis, com a prorrogação automática do vínculo, para além de interregno de vigência formal, observada a norma do artigo 56, parágrafo único, da Lei nº 8.245/91" (e-STJ fls. 2.018-2.019).
+Conforme se extrai dos textos acima, a Corte local decidiu a controvérsia à luz do contrato, bem como do contexto fático e probatório dos autos.
+A modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Conforme pode se pode notar das transcrições do julgado, a Corte local não emitiu juízo de valor acerca da norma prevista nos dispositivos de lei federal apontados como violados no recurso especial, em que pese ter solucionado a controvérsia à luz de fundamentos diversos.
+Nesse sentido, incide o óbice das Súmulas nºs 282/STF e 211/STJ, sendo forçoso afirmar que não há incompatibilidade no reconhecimento de violação do art. 1.022 do CPC e a ausência de prequestionamento, quando a controvérsia já tiver sido devidamente solucionada, como na espécie. A propósito:
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. PENHORA. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO VERIFICADA. VIOLAÇÃO DOS ARTS. 240, 256, § 3º, 257, 332, 354, 487, II, E 833, § 2º, TODOS DO CPC, E 202 E 206, AMBOS DO CC/02. PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. INFRINGÊNCIA DO DUPLO GRAU DE JURISDIÇÃO. FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em omissão ou negativa de prestação jurisdicional, na medida em que o Tribunal bandeirante, clara e fundamentadamente, dirimiu as questões que lhe foram submetidas.
+2. Esta Corte de Justiça compreende que é imprescindível que o Tribunal de origem tenha emitido juízo de valor sobre os preceitos indicados como violados no apelo nobre, o que não ocorreu na hipótese examinada, em razão da fundamentação da preclusão adotada pelo acórdão recorrido. Aplicável, assim, a Súmula n.º 211 do STJ.
+3. Nos termos da jurisprudência do STJ, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado (AgInt no AREsp n. 1.760.223/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+4. Existindo argumento capaz de manter o acórdão impugnado por suas próprias pernas, não havendo o ataque específico a tal ponto, colhe-se a incidência, por analogia, da Súmula n.º 283 do STF.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido"
+(AgInt nos EDcl no AREsp 2.009.434/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023 - grifou-se)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão s em a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
