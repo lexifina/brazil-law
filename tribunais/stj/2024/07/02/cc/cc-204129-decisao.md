@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, ajuizado por ANA PAULA MACHADO VALADÃO BESSA, em face do Juízo da 21ª Vara Cível da Comarca de Brasília/DF, e do Juízo da 4ª Vara Federal Cível e Agrária da Subseção Judiciária de Belo Horizonte/MG.
+A autora alegou que tramitam duas ações civis públicas, perante cada um dos juízos suscitados, ajuizadas contra a suscitante e contra o Canal 23 LTDA - Rede Super de Televisão. Sustenta que ambos os juízos, após alertados da existência de demanda idêntica, teriam exarado decisão determinando o prosseguimento das ações, o que configura o conflito positivo de competência. Argumentou que a Justiça Federal é o foro competente para o prosseguimento do feito, eis que a ação civil pública, nesse juízo, foi proposta pela Ministério Público Federal (competência ratione personae). Pediu o reconhecimento da litispendência entre a ação civil pública 0709624-28.2021.8.07.0001 e a ação civil pública 1020744-45.2021.4.01.3800, com a extinção da primeira, proposta na Justiça Estadual, ou, subsidiariamente, seja declarada a conexão entre esses processos.
+Foi deferida a liminar, para determinar "o sobrestamento de ambas as ações civis públicas, designando, conforme disposto no art. 955 do Código de Processo Civil, o Juízo da 4ª Vara Federal Cível e Agrária da Subseção Judiciária de Belo Horizonte/MG, para resolver, em caráter provisório, as medidas urgentes" (fl. 311 e-STJ).
+Ambas as partes peticionaram - a autora, às fls. 318/320 e-STJ, alegando que o Juízo do DF prolatou sentença, 6 (seis ) dias antes da publicação da liminar deferida pelo STJ. Argumenta que não houve trânsito em julgado da sentença, diante da oposição de embargos declaratórios, e que o Juízo não cumpriu a determinação de suspensão do processo.
+Canal 23 LTDA, às fls. 328/342 e-STJ, afirma que o conflito de competência se revela prejudicado, pois, uma vez publicada a sentença no Juízo do DF, incide a Súmula 235/STJ.
+O verbete sumular 235 desta Corte estabelece que "a conexão não determina a reunião dos processos, se um deles já foi julgado".
+Julgados da Segunda Seção desta Corte são elucidativos a respeito da matéria:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. SENTENÇA SEM TRÂNSITO EM JULGADO. POSSIBILIDADE, EM PRINCIPIO, DE CONHECIMENTO. SÚMULAS 59 E 235/STJ. AÇÕES ORIGINÁRIAS DISTINTAS. INEXISTÊNCIA DE CONFLITO.
+1. Se o conflito positivo de competência se estabelecer por força de uma regra de conexão, ele não poderá ser conhecido se uma das sentenças foi proferida, ainda que sem trânsito em julgado, por força da Súmula 235/STJ. Mas se o conflito decorre de outra regra de estabelecimento da competência, não há restrição a seu conhecimento após prolatada a sentença, desde que não haja trânsito em julgado (Súmula 59/STJ).
+2. Em que pese a possibilidade, em princípio, de conhecimento do conflito não obstante uma das sentenças tenha sido proferida - já que ele não se fundamenta em regra de conexão - não há conflito positivo de competência se as ações que supostamente lhes deram origem discutem matérias distintas.
+3. Conflito de competência não conhecido.
+(CC n. 108.717/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 8/9/2010, DJe de 20/9/2010.)
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. ART. 115 DO CPC/1973. REQUISITOS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE MANIFESTAÇÃO DOS JUÍZOS. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. CONFLITO NÃO CONHECIDO.
+1. Na linha da jurisprudência desta Corte, somente se instaura o conflito de competência quando dois Juízos se declarem competentes ou incompetentes para processamento e julgamento de uma mesma demanda ou quando, por regra de conexão, houver controvérsia entre eles acerca da reunião ou separação dos processos.
+2. O conflito de competência não pode ser usado como sucedâneo recursal. Precedentes.
+3. Segundo a Súmula nº 235/STJ, a conexão não determina a reunião dos processos, se um deles já foi julgado.
+4. Agravo interno não provido.
+(AgInt no CC n. 144.591/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 25/10/2017, DJe de 31/10/2017.)
+Com efeito, no caso dos autos, como indicam as partes, foi proferida sentença (fls. 1346/1352 e-STJ), julgando procedente o pedido na ação 0709624-28.2021.8.07.0001. Inexistente a litispendência (eis que o polo ativo das ações não guarda identidade) e sendo a conexão o único fundamento para o pedido de reunião dos processos, indubitavelmente, incide a Súmula 235/STJ. A conexão não determina a reunião de processos, se um deles já foi julgado.
+Em face do exposto, não conheço do conflito de competência.
+Intimem-se.
+EMENTA
