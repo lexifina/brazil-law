@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, conflito negativo de competência instaurado entre o JUIZ DE DIREITO DA 1A VARA DA FAZENDA PÚBLICA DE PIRACICABA - SP e o JUIZ DA 3A VARA DO TRABALHO DE PIRACICABA - SP, nos autos da reclamação trabalhista ajuizada por HELENICE CRISTIANE DE OLIVEIRA DORTA MACHADO contra o MUNICÍPIO DE PIRACICABA.
+O Juiz da 3ª Vara do Trabalho de Piracicaba - SP julgou improcedente o pedido. Em sede recursal, o Tribunal Regional do Trabalho da 15ª Região deu parcial provimento ao recurso para condenar o Município ao pagamento de parte dos períodos aquisitivos especificados na inicial.
+A reclamante interpôs recurso de revista, ocasião em que a 4ª Turma do Tribunal Superior do Trabalho, asseverando que o regime de contratação da reclamante discute vínculo de natureza jurídico-administrativa entre o Poder Público e seus servidores, reconheceu a incompetência da Justiça trabalhista, julgou prejudicado o recurso e determinou a baixa dos autos ao juízo de primeiro a grau, que, por sua vez, encaminhou o processo para a Justiça Comum.
+Ao receber os autos, o Juiz de Direito da 1ª Vara da Fazenda Pública de Piracicaba - SP, asseverou que o caso é de competência da Justiça laboral, por versar sobre pleito de recebimento de verbas decorrentes de relação trabalhista, estabelecida com fundamento na Consolidação das Leis do Trabalho, suscitando, assim, o presente conflito negativo de competência perante o Supremo Tribunal Federal.
+Os autos foram remetidos à Suprema Corte. Na ocasião, ausente a juntada do acórdão do Tribunal Superior do Trabalho declinatória da competência, o Conflito de Competência no STF (CC 8.280/SP) foi autuado identificando, como suscitado, o Juiz da 3ª Vara do Trabalho de Piracicaba - SP.
+Nesse contexto, o Ministro Relator na Suprema Corte declinou da competência para o julgamento do conflito ao Superior Tribunal de Justiça, nos termos do artigo 105, I, "d", da CF/1988.
+O presente conflito de competência, aqui analisado, também foi autuado nesta Corte apontando o Juiz da 3ª Vara do Trabalho de Piracicaba - SP como suscitado.
+Contudo, após apresentadas informações com a cópia integral dos autos, verificou-se que, em verdade, o Juiz de primeiro grau apenas deu cumprimento ao acórdão do Tribunal Superior do Trabalho, que efetivamente declarou a incompetência da Justiça do Trabalho.
+Após a narrativa do processamento dos autos, pode-se verificar que, no presente conflito negativa de competência, figura o Juiz de Direito da 1ª Vara da Fazenda Pública de Piracicaba - SP como suscitante e a 4ª Turma do Tribunal Superior do Trabalho como suscitada.
+O Ministério Público Federal, em seu parecer, opina pelo não conhecimento do conflito de competência e remessa dos autos ao Supremo Tribunal Federal.
+É o breve relatório. Decido.
+Com efeito, cabe ao Superior Tribunal de Justiça dirimir conflito negativo de competência entre juízes vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+Por outro lado, à luz da alínea "o" do inciso I do artigo 102 da Constituição Federal, compete ao Supremo Tribunal Federal "processar e julgar, originariamente, os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal".
+No caso dos autos, como relatado, o Tribunal Superior do Trabalho, em sede de recurso de revista, reconheceu a incompetência da Justiça do Trabalho para o processamento e julgamento da questão, motivo pelo qual é de competência exclusiva do Supremo Tribunal Federal dirimir o conflito negativo de competência.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - SOCIEDADE EM RECUPERAÇÃO JUDICIAL - VARIG S.A./GOL S.A. - SUCESSÃO EMPRESARIAL - TRIBUNAL SUPERIOR DO TRABALHO - MANIFESTAÇÃO EM SEDE DE RECURSO DE REVISTA - INCOMPETÊNCIA DO STJ - COMPETÊNCIA DO STF - DECISÃO MONOCRÁTICA QUE DECLAROU A INCOMPETÊNCIA DO STJ E DETERMINOU A REMESSA DOS AUTOS AO STF. INSURGÊNCIA DA SUSCITANTE.
+1. A irresignação da suscitante diz respeito à questão da sucessão empresarial da GOL para responder pelas obrigações contraídas pela VARIG, questão que foi decidida pelo Tribunal Superior do Trabalho no âmbito do recurso de revista.
+2. Neste caso, a análise do conflito refoge à competência do Superior Tribunal de Justiça, por envolver Tribunal superior e o Juízo da recuperação, ressaindo clara a conclusão de que caberá ao Supremo Tribunal Federal o deslinde do incidente (art. 102, I, "o", da CF).
+3. Agravo interno desprovido (AgInt no AgInt no CC 152.594/RJ, REel. Ministro Marco Buzzi, Segunda Seção, DJe 18/12/2018).
+CONFLITO DE COMPETÊNCIA. JUIZ ESTADUAL DE PRIMEIRO GRAU E TST. COMPETÊNCIA DO STF.
+1. Compete ao Supremo Tribunal Federal dirimir conflito de competência entre Juiz Estadual de primeiro grau de jurisdição e o Tribunal Superior do Trabalho. Precedentes do STF.
+2. Agravo regimental provido. Conflito não conhecido, com a remessa dos autos ao STF. (AgRg no CC 99.576/SC, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, DJe 17/12/2010).
+No mesmo sentido, as seguintes decisões monocráticas: CC 186.100/TO, Ministro Og Fernandes, DJe 4/5/2022; CC 186.609/SP, Ministro Benedito Gonçalves, DJe 17/3/2022; Edcl no CC 181.579/BA, Ministra Assusete Magalhães, DJe 15/10/2021; e CC 182.871/SP, Ministro Mauro Campbell Marques, DJe 6/10/2021.
+Assim posto, não conheço do conflito de competência, determinando a remessa dos autos ao Supremo Tribunal Federal.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZO DE DIREITO E TRIBUNAL SUPERIOR DO TRABALHO. COMPETÊNCIA DO STF (ART. 102, I, "O", DA CONSTITUIÇÃO FEDERAL). PRECEDENTES. REMESSA DOS AUTOS AO STF PARA APRECIAÇÃO DO CONFLITO.
