@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. RESCISÃO POR CULPA DO PROMITENTE COMPRADOR. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELO DA RÉ. A resolução contratual é direito subjetivo dos consumidores, operando-se por simples manifestação de vontade da parte que não tem mais interesse em dar continuidade ao vínculo contratual. Tratando-se de contrato de adesão é cabível o afastamento das cláusulas que forem abusivas. Apesar de a rescisão ser motivada pelos promitentes compradores, estes fazem jus à devolução de parte dos valores pagos. Súmula nº 543 do STJ. A jurisprudência considera que a multa deve ser arbitrada entre 10% e 25%, conforme as circunstâncias de cada caso. Ré não logrou êxito em demonstrar que o percentual de 15% arbitrado na sentença está em desacordo com a realidade fática. Pequena reforma da sentença para que o termo inicial dos juros de mora seja a data do trânsito em julgado, conforme entendimento do STJ. Recurso conhecido e parcialmente provido, nos termos do voto do Desembargador Relator"
+Opostos embargos de declaração, foram rejeitados.
+O recorrente aponta, além de divergência jurisprudencial, violação ao art. 53 da Lei 8.078/90, sustentando que o percentual do valor retido pela rescisão do contrato de compra e venda deve ser de 30%.
+Sem c  ontrarrazões.
+Juízo de admissibilidade proferido às fls. 864/867 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Segunda Seção do STJ, por ocasião do julgamento do REsp 1.723.519/SP, consolidou o entendimento de que, na rescisão de contrato de compra e venda de imóvel, por desistência do comprador, anterior à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção, tal como definido no julgamento dos EAg 1.138.183/PE, por ser montante adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato (REsp 1723519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 28/8/2019, DJe 2/10/2019).
+O caso dos autos se amolda à hipótese acima exposta, uma vez que a rescisão contratual se deu por conveniência da promitente-compradora, de modo que o entendimento firmado no acórdão recorrido merece reforma para que seja de 25% a retenção dos valores já pagos.
+Em face do exposto, conheço do agravo para dar parcial provimento ao recurso especial e determinar que seja de 25% o percentual da retenção sobre os valores já adimplidos pelo consumidor. Sucumbência nos moldes como previsto na sentença.
+Intimem-se.
+EMENTA
