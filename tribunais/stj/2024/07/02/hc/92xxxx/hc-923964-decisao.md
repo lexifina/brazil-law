@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio com pedido de liminar, impetrado em favor de EDSON ROMARIO BRAGA ANDRADE contra acórdão do Tribunal de Justiça do Estado do Pará, assim ementado (Revisão Criminal n.802597-05.2024.8.14.0000):
+EMENTA: REVISÃO CRIMINAL. ART. 157, §2º, INCISO II, E §2º-A, INCISO I, DO CPB. ERROR IN JUDICANDO NA DOSIMETRIA DA PENA DO RÉU. IMPOSSIBILIDADE DE CONHECIMENTO. REITERAÇÃO DE PEDIDO JÁ MANEJADO EM PLEITO REVISIONAL ANTERIOR. REVISÃO CRIMINAL NÃO CONHECIDA. DECISÃO UNÂNIME.1. Verifica-se que as alegações do recorrente já foram objeto de outra Revisão Criminal anteriormente impetrada perante a Egrégia Seção de Direito Penal, que já teve, inclusive, Recurso Especial não admitido pela Vice-Presidência desta Corte de Justiça. Assim, por se tratar este pleito de matéria devidamente analisada e julgada, deixo de tecer maiores comentários e juízo de valor sobre o tema enfocado, vez que consiste em reiteração de pedido.2. REVISÃO NÃO CONHECIDA à unanimidade, nos termos do voto da Desembargadora Relatora.
+Neste mandamus, a defesa requer, em síntese, no mérito, seja concedida a ordem impetrada para o fim da cassar a decisão da Turma de Direito Penal do TJ/PA, apontando vicio na dosimetria da pena, bem como ofensa ao art. 226 do CPP.
+É o relatório.
+Decido.
+As alegações defensivas não foram analisadas no bojo da revisão criminal ajuizada pela defesa, o que impossibilita o exame de tal questão diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Ainda:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "ATENAS". ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO PASSIVA. PECULATO. NULIDADE DECORRENTE DE FORO PRIVILEGIADO POR CONEXÃO. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA ORDINÁRIA. PREFEITO QUE NEM SEQUER FIGURA COMO INVESTIGADO NOS FATOS EM APURAÇÃO. FIM DO MANDATO ELETIVO E DO FORO PRIVILEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Extraiu-se dos autos que a Corte de origem não conheceu do writ originário, tendo ressaltado que o ex-prefeito de Naviraí/MS nem sequer figurava na condição de investigado, indiciado e denunciado nos fatos originados da chamada Operação Atenas, que constituíam o objeto da Ação Penal n. 0006140-02.20138.12.0029, na qual constava como denunciado o ora agravante.
+2. A tese defensiva de nulidade absoluta decorrente de foro por prerrogativa de função não foi objeto de análise pelo Tribunal de origem (acórdãos de fls. 342-347 e 385-390), o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Precedentes.
+3. Ainda que fosse comprovado o envolvimento do ex-prefeito de Naviraí/MS nos fatos em apuração, este não foi reeleito, o que coloca fim a qualquer discussão sobre foro privilegiado, tal como destacou a Corte de origem à fl. 347.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 80.825/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ademais, a defesa não instruiu a impetração com cópia da Revisão Criminal impetrada anteriormente (nº 0817468-74.2023.8.14.0000) e da Apelação Criminal proferida nos autos do processo-crime.
+Com efeito, "a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais, tampouco que a instrução seja feita por outros meios, como links ou consulta ao processo na página eletrônica do Tribunal de origem. Precedentes" (RHC n. 122.600/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 5/ 3/2020).
+Ante o exposto, não conheço da impetração.
+Publique-se. Intimem-se.
+EMENTA
