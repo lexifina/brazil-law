@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão prolatado, por unanimidade, pela 11ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de Agravo de Instrumento, assim ementado (fl. 31e):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Requisitório de pequeno valor não atendido pela Caixa Beneficente da Polícia Militar. Redirecionamento para a Fazenda Pública do Estado de São Paulo. Possibilidade. Aplicação do artigo 17, § 2º, da Lei nº 10.258/2001,e artigo 13, §1º, da Lei nº 12.153/2009. Esgotadas as tentativas de recebimento do valor devido, subsiste a responsabilidade subsidiária do Estado pelos débitos de autarquia a ele vinculada. Precedentes. Decisão mantida. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 56/63e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 7º, 9º, 115, II, 502, 503, 506, 513, § 5º, 783, 779, I, e 803, I, do CPC/15, alegando-se, em síntese, que: "a sentença faz coisa julgada exclusivamente em face das partes entre as quais é dada, não podendo prejudicar terceiros que não figuram no processo", bem como quanto ao Estado de São Paulo "não ter integrado o contraditório na fase de conhecimento, a condenação exequenda é ineficaz em relação ao Estado de São Paulo. Desse modo, este não pode ser compelido a satisfazê-la, mesmo porque, nessas condições, sequer há título judicial contra ele exigível" (fl. 73e).
+Com contrarrazões (fls. 82/83e), o recurso foi inadmitido (fl. 84e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 112e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+O Recurso Especial não comporta conhecimento.
+O tribunal de origem reconheceu a responsabilidade subsidiária da Fazenda Estadual por débitos inadimplidos de autarquias, não importando em alteração do título executivo, conforme se extrai dos seguintes excertos dos acórdão recorrido e daquele que decidiu os embargos (fls. 33/34e; 59/60e):
+E o C. Superior Tribunal de Justiça já se posicionou no sentido de reconhecer a responsabilidade subsidiária dos entes da Federação pelos débitos de suas autarquias:
+(..)
+Logo, esgotadas as tentativas de recebimento do valor devido por autarquia estadual, subsiste a responsabilidade subsidiária do Estado pelos seus débitos. Em hipóteses semelhantes, este é o entendimento deste E. Tribunal de Justiça:
+(..)
+Os embargados não tinham como prever, passados mais de vinte anos do ajuizamento da ação de conhecimento, que a autarquia iria passar a inadimplir seus débitos judiciais e não podem ser prejudicados por tal fato.
+Assim, foi reconhecida a responsabilidade subsidiária da Fazenda Estadual por débitos inadimplidos de suas autarquias, o que não importa em alteração do título executivo.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014 - destaque meu).
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014 - destaque meu ).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Prejudicado, por conseguinte, o pedido de efeito suspensivo.
+Publique-se e intimem-se.
+EMENTA
