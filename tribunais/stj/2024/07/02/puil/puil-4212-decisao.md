@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei com fundamento no art 14, § 4º, da Lei n. 10.259/2001, contra decisão proferida pelo Presidente da Turma Nacional de Uniformização que não conheceu de agravo regimental interposto contra decisão que inadmitiu pedido de uniformização.
+O requerente afirma que o acórdão referido diverge do entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, ao argumento de que "deverá ser afastado o uso da Taxa Referencial (TR) como índice de correção monetária dos débitos judiciais da Fazenda Pública" (fl. 147).
+Ao final, pleiteia o provimento do pedido para que o Superior Tribunal de Justiça uniformize a jurisprudência sobre o tema com a prevalência do entendimento por ele defendido.
+É o relatório. Decido.
+Trata-se de pedido de uniformização de interpretação de lei, com fundamento no art. 14, § 4º, da Lei n. 10.259/2001, em desfavor de decisão monocrática do Presidente da Turma Nacional de Uniformização - TNU, que não conheceu do agravo regimental, interposto de decisão que inadmitiu o pedido de uniformização suscitado.
+Alega o requerente que a decisão da TNU contraria jurisprudência do Supremo Tribunal Federal e desta Corte Superior. Assim, entende que o presente incidente merece ser conhecido e acolhido a fim de condenar a recorrida, respeitado o instituto da prescrição quinquenal, a pagar ao(a) recorrente as diferenças pecuniárias encontradas entre os reajustes aplicados e o devido (13,23% - treze vírgula vinte e três por cento), inclusive nos reflexos de tal diferença advindos dos adicionais, quais sejam: férias, décimo terceiro, diárias e demais itens integrantes das remunerações mensais do(a) recorrente(a) ou de qualquer vantagem por ele auferida;
+É o relatório. Decido.
+Dispõe o art. 14, § 4º, da Lei n. 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ.
+Ademais, o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, assim, não há como conhecer do incidente, porque se insurge contra decisão pautada em questão decidida monocraticamente.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 14, § 4º, DA LEI 10.259/2001 DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 14, § 4º da Lei 10.259/2001, caberá pedido de uniformização de lei federal perante o Superior Tribunal de Justiça somente quando a decisão da Turma Nacional sobre questão de direito material estiver em confronto com súmula ou jurisprudência dominante do STJ.
+2. A orientação jurisprudencial desta Corte Superior é no sentido do cabimento do incidente somente na hipótese em que a matéria foi submetida à apreciação de órgão colegiado da Turma Nacional de Uniformização de Jurisprudência - TNU, sob pena de supressão de instância. Além do mais, o incidente somente é cabível para discutir questões de natureza material (e não de índole processual).
+3. Agravo interno não provido.
+(AgInt no PUIL 2.405/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 15/03/2022, DJe 17/03/2022)
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO MANEJADO CONTRA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. NÃO CABIMENTO.
+1. O que postula a requerente é a percepção do percentual de 13,23% em seus vencimentos, com fundamento no direito previsto no art. 37, X, da Constituição de 1988.
+2. Ocorre que a impugnação se volta contra decisão da Presidência da Turma Nacional de Uniformização, e, nos termos do art. 14, § 4º, da Lei 10.259/2001, o Incidente de Uniformização dirigido ao STJ só pode ser manejado contra decisão colegiada.
+3. Nesse sentido: "Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual" (AgInt no PUIL 1056/DF, Relator Min. Francisco Falcão, Primeira Seção, DJe 2.9.2019). Na mesma direção: AgRg na Pet 9.586/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 25.4.2014; Aglnt no PUIL 72/PR, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 9.10.2017; AgInt no PUIL 1.046/TO, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 29.5.2019.
+4. Agravo Interno não provido.
+(AgInt no PUIL 1.794/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 11/11/2020, DJe 17/11/2020)
+Na hipótese dos autos, o pedido de uniformização dirigido ao STJ foi interposto contra decisão monocrática do Presidente da TNU que não conheceu de agravo interno interposto contra decisão monocrática que inadmitiu pedido de uniformização dirigido à TNU pela ausência de dissídio jurisprudencial a ser uniformizado.
+Assim, considerando a ausência de decisão colegiada no âmbito da TNU, bem como a ausência de análise de questão de direito material por aquela Turma de Uniformização, não se mostra cognoscível o presente pedido.
+Ante o exposto, não conheço do pedido de uniformização de jurisprudência, com fundamento no art. 34, XVIII, do RISTJ, combinado com o art. 1º, § 2º, da Resolução n. 10/2007, da Presidência do STJ.
+Publique-se Intimem-se.
+EMENTA
