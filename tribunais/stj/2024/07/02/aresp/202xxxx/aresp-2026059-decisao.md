@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por JOSÉ GARCIA DE FREITAS, contra acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - CONTRATAÇÃO DE TERCEIROS PARA REALIZAÇÃO DE SERVIÇOS JÁ CONTEMPLADOS EM CONTRATO PLENAMENTE VIGENTE - ATOS QUE ATENTARAM CONTRA OS PRINCÍPIOS DA ADMINISTRAÇÃO E CAUSARAM DANO AO ERÁRIO - RESSARCIMENTO INTEGRAL - MULTA CIVIL AFASTADA - RECURSO PARCIALMENTE PROVIDO COM O PARECER.
+A contratação desnecessária de mão de obra, ou seja em duplicidade e o desperdício de dinheiro público acarreta dano ao erário, enquadrando-se a conduta do apelante nos atos de improbidade previstos no artigo 10, XI e 11 da Lei de Improbidade Administrativa.
+E nos termos do artigo 5º da Lei nº 8.429/92, "Ocorrendo lesão ao patrimônio público por ação ou omissão, dolosa ou culposa, do agente ou de terceiro, dar-se-á o integral ressarcimento do dano".
+Não se mostra oportuna, para caracterizar a reprimenda necessária ao agente infrator, impor-lhe, cumulativamente, a pena de multa civil, por entender que apena de ressarcimento ao erário é suficiente ao fim almejado.
+Os embargos de declaração foram rejeitados nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL AÇÃO CIVILPÚBLICA AUSÊNCIA DE VÍCIOS INSERTOS NO ART. 1.022 DO CPC PRETENSÃO DE REDISCUSSÃO IMPOSSIBILIDADE PREQUESTIONAMENTO ACLARATÓRIOSREJEITADOS.
+Os embargos de declaração têm como escopo esclarecer sentenças ou acórdãos que padeçam de vícios, como a obscuridade, omissão, contradição ou erro material. Assim, ainda que os aclaratórios possuam natureza recursal, não tem condão de serem opostos com a intenção de rediscutir o julgado.
+Nas suas razões recursais, com base no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação aos arts. 489, § 1º, IV, 1.022, II, do CPC/2015.
+Intimadas, as partes e o Ministério Público Federal manifestaram sobre o impacto da Lei 14.230/2021 neste caso.
+É o relatório.
+Decido.
+Constou do acórdão recorrido o seguinte:
+Das contratações irregulares de pessoas físicas e terceira empresa para execução de serviços já previstos no contrato nº 51/2011.
+Analisando detidamente o contrato n.º 051/ 2011 acostado à fl. 295-300, firmado em 01/02/2011 entre o Município, sob a gestão do Recorrente, e a empresa MARIVALDO FEDERICE MATEUS ME, depreende-se que esta tinha por obrigação a realização de diversos serviços de limpeza e coleta de lixo, os quais estavam muito bem especificados, senão vejamos o que consta do aludido instrumento contratual:
+ ..
+Referente ao lixo hospitalar, consta no memorial descritivo relacionado ao processo licitatório às (f. 301), do qual defluiu o contrato ora citado, que houve apresentação da relação de estabelecimentos de saúde, dentre eles a Santa Casa de Misericórdia, Hospital da Cassems e Posto Central, no quais deveria ser realizada a coleta de lixo pela empresa MARIVALDO FEDERICE MATEUS ME (f. 178/180).
+Ressalta-se que o referido contrato foi assinado em 01/02/2011, com vigência de 12 meses, no valor mensal de R$56.000,00, sendo que o valor total de 672.000,00.
+Verifica-se dos autos, que o requerente ordenou despesas para contratação de mão de obra referente a serviço de limpeza de vias públicas, podas de árvore e coleta de lixo hospitalar, ou seja, serviços objeto do contrato nº 51/2011 ativo com o Município, configurando assim, dupla contratação, com consequente dano ao erário.
+Portanto, as notas de empenho colacionadas às fls. 663, 669, 714,740, 746, 754, 771, 777, 787, 793, 925, 1034, 1041, 1048, 1055, 1062, 1069, 1076,1083, 1090, 1097, 1104, 1111, 1125, 1157 demostram, que durante a vigência do contrato acima referido o Município efetuou a contratação de várias pessoas para prestação de serviços da mesma natureza daqueles que deveriam ser prestados pela empresa MARIVALDO FEDERICE MATEUS ME, sem qualquer motivação, mesmo porque, a responsabilidade pela mão de obra utilizada para o cumprimento do contrato seria de inteira responsabilidade da empresa contratada, conforme consignado nas cláusulas 6.2 e 6.8  ..
+Portanto, a contratação desnecessária de mão de obra, ou seja em duplicidade e o desperdício de dinheiro público acarreta dano ao erário, enquadrando-se a conduta do apelante nos atos de improbidade previstos no artigo 10, XI e 11 da Lei de Improbidade Administrativa.
+Inconformada, a parte ora recorrente opôs embargos de declaração alegando que "os ilustres Desembargadores não se manifestaram quanto a alegação do embargante de que a contratação da empresa, assim como das pessoas físicas que auxiliaram no serviço, se deu por tempo determinado e por um lapso temporal curto apenas a fim de normalizar a situação da coleta de resíduos de modo a compatibilizar-se com a legislação ambiental vigente e não incorrer no descumprimento de sentença proferida nos autos da ação civil pública n.º 018.07.002207-8".
+Ademais, destacou que "a determinação imposta naquela sentença somente poderia ser cumprida pela contratação de mão-de-obra extra à execução dos serviços de coleta de lixo hospitalar".
+Todavia, ao concluir que no acórdão embargado não há vício a ser sanado, deixou o Tribunal de origem de apreciar a justificativa do recorrente quanto à contratação efetuada.
+Sendo assim, constatados os vícios alegados, necessário o retorno dos autos à origem para a reapreciação do feito.
+Isso posto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, para anular o acórdão dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para que se pronuncie, de maneira motivada, sobre as questões suscitadas como omissas, ainda que para indicar os motivos pelos quais venha considerar tais questões impertinentes ou irrelevantes.
+Intimem-se.
+EMENTA
