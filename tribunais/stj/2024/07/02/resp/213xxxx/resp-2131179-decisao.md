@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por Alzeneide Oliveira Andrade Sousa, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 135-136):
+RECURSO DE APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. PISO NACIONAL DO MAGISTÉRIO. PROFESSORES MUNICIPAIS. CONTRATO TEMPORÁRIO. LEI FEDERAL Nº 11.738/2008. INAPLICABILIDADE DA NORMA. APELO CONHECIDO E DESPROVIDO. HONORÁRIOS MAJORADOS. SUSPENSÃO DE EXIGIBILIDADE MANTIDA.
+01. Cuida-se de Recurso de Apelação que visa a reforma da sentença que entendeu pela improcedência da Ação de Cobrança, na qual alega a autora que prestou serviço na condição de contratada temporariamente pelo Município de Crato para o exercício da função de Professora, mas sem que fosse observado o piso salarial dos profissionais do magistério, garantido pela Lei Federal 11.738/2008.
+02. Cuida-se de definir se a parte autora, professora contratada temporariamente pelo Município de Crato, tem direito ao piso nacional do magistério, definido na Lei Federal nº 11.738/2008.
+03. A norma federal que prevê a obrigatoriedade de observância do piso nacional para os profissionais do magistério público da educação básica, refere-se ao direito daqueles que integrem a "carreira de magistério", fazendo assim uma clara distinção de que deverá observar o piso nacional aos que exercem cargo público efetivo.
+04. Dessarte, o piso salarial do magistério não alcança aqueles contratados temporariamente, ainda que para o exercício da função de servidor (art. 37, IX da CF). Precedentes.
+05. Recurso de Apelação conhecido e desprovido. Honorários sucumbenciais majorados para 20% (vinte por cento) do valor atualizado da causa, mas mantida a suspensão da sua exigibilidade em razão do deferimento da gratuidade judiciária (art. 98, §3º, do CPC).
+A recorrente sustenta, além de dissídio jurisprudencial, a ofensa aos artigos 1º e 2º da Lei n. 11.738/2008. Argumenta que foi contratada pelo Município por meio de contrato temporário de trabalho para o exercício do magistério e tem direito ao piso salarial previsto na lei federal, o que não foi reconhecido pela Corte de origem.
+Com contrarrazões às fls. 171-181.
+Decisão de admissão do recurso especial às fls. 184-186.
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Cuida-se, na origem, de ação de cobrança de complementação salarial ajuizada pela autora contra o Município de Crato/CE, pois exerceu suas funções por meio de contrato temporário de trabalho sem que lhe fosse garantido o piso nacional do magistério, conforme determinado pela Lei n. 11.738/2008.
+O pedido foi julgado improcedente no Juízo de primeiro grau (fls. 64-67) e, em sede de apelação, a Corte de origem manteve a improcedência da pretensão.
+Com efeito, a não extensão do piso salarial à recorrente também foi fundamentada pela Corte de origem no fato de a sua contratação estar respaldada no inciso IX do artigo 37 da Constituição Federal, que traz a possibilidade de contratação temporária de excepcional interesse público estabelecida em lei própria (fl. 138).
+Ocorre que contra a fundamentação constitucional não foi interposto o recurso extraordinário, razão pela qual o apelo especial deve ser inadmitido diante da incidência da Súmula 126/STJ.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. TRANSPORTE PÚBLICO PARA ATENDIMENTO TERAPÊUTICO. CRIANÇA PORTADORA DE DEFICIÊNCIA. DIREITO À SAÚDE E À EDUCAÇÃO. RESPONSABILIDADE SOLIDÁRIA. ACÓRDÃO RECORRIDO COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+1. Constata-se que a Corte de origem analisou a matéria quanto ao direito líquido e certo da criança portadora de deficiência ao atendimento educacional especializado, nele incluído o transporte adequado à sua condição física, a ser prestado pelo ente municipal, com base no Direito Constitucional à saúde e à educação, reconhecendo a responsabilidade solidária do Estado e do Município.
+2. Ocorre que o recorrente não cuidou de interpor o devido recurso extraordinário ao Supremo Tribunal Federal, de modo a incidir a jurisprudência sedimentada por meio da Súmula 126 deste Tribunal, que assim dispõe: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp n. 1.463.765/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 2/6/2015, DJe de 10/6/2015.)
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E A DMINISTRATIVO. EDUCAÇÃO. EXTENSÃO DO PISO NACIONAL DO MAGISTÉRIO A PROFESSOR TEMPORÁRIO CONTRATADO POR MUNICÍPIO. HIPÓTESE NÃO ABRANGIDA PELA NORMA EM RAZÃO DA CONTRATAÇÃO ESTAR RESPALDADA NO ART. 37, IX, DA CF/1988. SÚMULA 126/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
