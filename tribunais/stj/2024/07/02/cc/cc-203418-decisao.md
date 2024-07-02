@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 3A VARA CIVIL E EMPRESARIAL DE ANANINDEUA - PA (suscitante) e o JUÍZO FEDERAL DA 5A VARA CÍVEL DE BELÉM - SJ/PA (suscitado), nos autos do mandado de segurança impetrado por SINTHIA FERREIRA CAPONI MENDONÇA contra ato do CENTRO BRASILEIRO DE PESQUISA EM AVALIAÇÃO E SELEÇÃO E DE PROMOÇÃO DE EVENTOS - CEBRASPE.
+A ação foi ajuizada perante o Juízo estadual, que declinou de sua competência sob o fundamento de que (fls. 313/314):
+Considerando que a impetrante ingressa com Mandado de Segurança em desfavor de uma pessoa jurídica de direito privado, só poderia fazê-lo se tal pessoa jurídica estiver no exercício de atribuições do Poder Público. Nesse caso, pressupõe-se que o impetrado está exercendo atribuições que seriam de um ente federal.
+O Juízo federal, por sua vez, igualmente se reputou incompetente por entender que "a autoridade coatora é vinculada ao Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos -Cebraspe - que é pessoa jurídica de direito privado, portanto, não é autoridade federal" (fls. 320/321).
+O Juízo estadual suscitou o presente conflito (fl. 324).
+O Ministério Público Federal (MPF) opinou pela competência do Juízo estadual, o suscitante (fls. 332/336).
+É o relatório.
+Conheço  do  conflito  porque  se  trata  de  controvérsia  instaurada  entre  juízos vinculados  a  tribunais  distintos,  conforme  preceitua  o  art.  105,  I,  d,  da  Constituição Federal  .
+No presente caso, o mandado de segurança foi impetrado por Sinthia Ferreira Caponi Mendonça contra ato atribuído ao Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos - Cebraspe, consistente na sua eliminação do concurso público para provimento de vagas e formação de cadastro reserva no cargo de técnico judiciário do Tribunal Regional do Trabalho da 8ª Região (Edital 1 - TRF 8ª Região, de 28/2/2022).
+Nos termos do art. 5º, LXIX, da CF, "conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público".
+Dito isso e, segundo a jurisprudência desta Corte, em mandado de segurança, a competência é estabelecida em função da natureza da autoridade impetrada, ou seja, aquela indicada na petição inicial.
+Como visto, o presente mandado de segurança foi impetrado contra ato atribuído ao Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos - Cebraspe, que tem natureza de associação civil de direito privado.
+Assim, considerando que a parte impetrante ingressou com o presente mandado de segurança contra ato de pessoa jurídica de direito privado, só poderia fazê-lo se esta pessoa jurídica estivesse no exercício de atribuições do Poder Público. É o presente caso.
+Realmente, inobstante a natureza jurídica de direito privado da Cebraspe, que, a princípio, atrairia a competência da Justiça comum, observo que ela atuou como delegatária do Poder Público, pois figurou como banca examinadora de concurso público organizado por órgão da União.
+Logo, a competência para o julgamento do presente mandado de segurança é da Justiça Federal, nos termos do art. 109, VIII, da CF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SOCIEDADE DE ECONOMIA MISTA. CONCURSO PÚBLICO DA PETROBRAS. MANDADO DE SEGURANÇA. CONFLITO CONHECIDO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Cinge-se a controvérsia acerca da definição de qual o Juízo competente para processar e julgar mandado de segurança interposto contra ato de dirigente de Sociedade de Economia Mista visando a seleção e contratação de empregado público.
+2. A jurisprudência dominante no âmbito da Primeira Seção do STJ tem-se manifestado no sentido de que, em mandado de segurança, a competência é estabelecida em função da natureza da autoridade impetrada (ratione auctoritatis), considerando, para esse efeito, aquela indicada na petição inicial. Desse modo, será da competência federal quando a autoridade indicada como coatora for federal (CF, art. 109, VIII), assim considerado o dirigente de pessoa jurídica de direito privado que pratica ato no exercício de delegação do poder público federal. Nesse sentido: CC 37.912/RS, Rel. Ministro Teori Albino Zavascki, DJ 15/9/2003.
+3. Considerando-se que a eliminação de candidato a processo seletivo público é ato imputado ao Presidente da Comissão de Concursos da Petrobras, autoridade pertencente à sociedade de economia mista, investida na função delegada federal, o mandado de segurança deverá ser processado e julgado pela Justiça Federal. Precedentes: AgRg no CC 112.642, Rel. Ministro Benedito Gonçalves, Primeira Seção, Dje 16/2/2011 e CC 94.482/PA, Rel. Ministro Castro Meira, Primeira Seção, DJe 16/6/2008.
+4. Agravo regimental não provido.
+(AgRg no CC n. 97.899/SP, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/6/2011, DJe de 17/6/2011.) - grifo não original.
+Por fim, registro a orientação contida na Súmula 60 do extinto TFR: "Compete à Justiça Federal decidir da admissibilidade de mandado de segurança impetrado contra atos de dirigentes de pessoas jurídicas privadas, ao argumento de estarem agindo por delegação do poder público federal."
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO FEDERAL DA 5A VARA CÍVEL DE BELÉM - SJ/PA , o suscitado.
+Publique-se. Comunique-se.
+EMENTA
