@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIEL GONÇALVES BRAGA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (e-STJ fl. 1183):
+SERVIDOR PÚBLICO FEDERAL - EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA - COMPENSAÇÃO DO PAGAMENTO DO ÍNDICE DE 28,86% COM VALORES RECEBIDOS SOB O MESMO TÍTULO - POSSIBILIDADE.
+I - Recurso de apelação interposto pelos exequentes em face de sentença que acolheu a impugnação oposta pela UFRJ e, ante a compensação das parcelas do reajuste de 28,86% pagas administrativamente, declarou extinta a execução, com base no art. 925 do CPC, dada a inexigibilidade de obrigação residual a ser adimplida.
+II - Deve ser afastada a alegação de violação aos arts. 11 e 489, § 1º, do Código de Processo Civil, e ao art. 93, IX, da CRFB/88, uma vez que o fato de o "decisum" não fazer menção expressa a todos os dispositivos legais apontados pela parte, ou às minúcias argumentativas expostas em suas razões, não a torna omissa, sendo necessário apenas que o órgão julgador enfrente as questões jurídicas capazes de influenciar o seu convencimento.
+III - Não merece prosperar a alegação de ausência dos requisitos previstos nos arts. 368 e 369 do Código Civil para a compensação, haja vista que os valores a serem compensados referem-se a créditos da mesma natureza já recebidos anteriormente pelos exequentes.
+IV - A compensação com valores já pagos é imperativo de legalidade, sob pena de "bis in idem" e enriquecimento ilícito e sem causa dos exequentes.
+V - Melhor sorte não socorre aos exequentes no tocante à alegação de ocorrência de decadência/prescrição para fins de compensação, posto que o abatimento será feito dos valores que ainda estão sendo executados.
+VI - Recurso desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 1217/1220).
+Em suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, dos arts. 190, 368 e 369 do CC e do art. 1º do Decreto n. 20.910/1932, sustentando que houve negativa de prestação jurisdicional; que se reconheceu a possibilidade de compensação mesmo que à falta de quaisquer dos requisitos previstos no Código Civil; e que, caso admitida a compensação, somente podem ser apurados os supostos créditos da parte executada que não tenham sido atingidos pela prescrição.
+Contrarrazões às e-STJ fls. 1.266/1.275.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 1282.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+No tocante aos arts. 489 e 1.022 do CPC/2015, indicados como violados, cumpre destacar que, ainda que os recorrentes considerem insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não se deve confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.).
+Na hipótese, a Corte de origem decidiu integralmente a controvérsia nos seguintes termos (e-STJ fls. 1.180/1.182):
+ ..
+Conforme relatado, trata-se de recurso de apelação interposto por ANTONIO CARLOS PEREIRA BRAGA e outros em face de sentença proferida pelo MM. Juízo da 27ª Vara Federal do Rio de Janeiro, que acolheu a impugnação oposta pela UFRJ e, ante a compensação das parcelas do reajuste de 28,86% pagas administrativamente, declarou extinta a execução, com base no art. 925 do CPC, dada a inexigibilidade de obrigação residual a ser adimplida.
+A sentença é mantida por seus próprios fundamentos, que passam a integrar o presente voto, evitando-se transcrição, e pelos motivos que se lhe acrescem, na forma adiante alinhada.
+ ..
+Também não merece prosperar a alegação de ausência dos requisitos previstos nos arts. 368 e 369 do Código Civil para a compensação, haja vista que os valores a serem compensados referem-se a créditos da mesma natureza já recebidos anteriormente pelos exequentes.
+Além disso, vale consignar que a compensação com valores já pagos é imperativo de legalidade, sob pena de bis in idem e enriquecimento ilícito e sem causa dos exequentes.
+Ainda, melhor sorte não socorre aos apelantes no tocante à alegação de ocorrência de decadência/prescrição para fins de compensação, posto que o abatimento será feito dos valores que ainda estão sendo executados.
+O trâmite indiscriminado de ações coletivas muitas vezes gerou duplicidade de pagamentos, pois nem havia o óbice para o pagamento direto e, mais tarde, muitos servidores vieram a executar títulos, dizendo-se beneficiários de sentenças coletivas.
+E não há qualquer impedimento à compensação que possa ensejar a ideia de ofensa à coisa julgada.
+Isso jamais foi dito ou insinuado no título que se pretende executar. Ao contrário, o que se alega é que a própria coisa julgada já está cumprida em parte, administrativamente. A compensação é imperativo de legalidade e de decência.
+Aliás, essas ações coletivas servem como escudo à tentativa de duplicar indevidamente percebimentos.
+Como dito, o benefício foi estendido a todos, e pago a todos, por força da MP 1704, salvo a quem individualmente estivesse litigando, e não firmasse transação. Porém, muitos foram os beneficiários de ações coletivas que receberam ou ainda pretendem receber dos dois lados.
+E nem há que se falar em impossibilidade de compensação em razão de os valores possuírem natureza alimentar ou terem sido recebidos de boa-fé. A compensação de quantias recebidas diretamente a título de 28,86% após a MP nº 1.704/1998, inclusive por meio de desconto efetuado em folha de pagamento, é ato vinculado, e o dever de compensar decorre de imposição legal, e da própria ideia da vedação ao enriquecimento sem causa (artigo 884 do CC).
+Assim, todos os valores pagos administrativamente a título de 28,86% devem ser compensados com as rubricas sobre as quais incide o reajuste.
+Por fim, no que tange ao artigo 97 da Constituição Federal, não há violação à cláusula de reserva de Plenário ou à súmula vinculante nº 10, quando não se pronuncia qualquer inconstitucionalidade. (Grifos acrescidos).
+Não há que falar, portanto, em negativa de prestação jurisdicional.
+No que se refere à apontada violação do art. 1º do Decreto n. 20.910/1932 e do art. 190 do Código Civil, observo que o Tribunal de origem não analisou a tese suscitada - prescrição do suposto contracrédito da executada - à luz de tais dispositivos legais, nem mesmo em sede de aclaratórios, de modo que ausente, na hipótese, o requisito do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nesse ponto, reitere-se que, a despeito da oposição de embargos de declaração para suscitar essa tese, o Tribunal de origem não emitiu juízo de valor sobre o teor normativo contido nos dispositivos de lei federal alegadamente tidos por violados, carecendo o apelo nobre, por isso, do requisito constitucional do prequestionamento, o que faz atrair a incidência da Súmula 211 do STJ. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRATAMENTO DE SAÚDE. PLANO DE SAÚDE. ALEGAÇÃO DE VIOLAÇÃO AO ART 1º DA LEI 9.656/98. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+ ..
+V. Agravo interno desprovido. (AgInt no REsp 1.947.116/BA, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 29/09/2021).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. RESPONSABILIDADE CIVIL. REEXAME FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp 1.855.532/DF, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 17/09/2021).
+No mais, verifica-se que, para ser analisada a tese trazida pela parte recorrente de que não havia valores a compensar - pois não houve a demonstração da certeza, da liquidez e do vencimento da dívida que se supõe que a Universidade tenha contra os exequentes "em razão de pagamentos administrativos realizados de modo supostamente indevido entre janeiro de 2003 e janeiro de 2017" (e-STJ fl. 1248) - seria necessário o revolvimento de matéria fático-probatória constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. COMPENSAÇÃO DO PAGAMENTO DO ÍNDICE DE 28,86% COM REAJUSTES CONCEDIDOS. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. O Tribunal de origem reconheceu que, "se houve pagamento, inclusive após a contestação, isso nem poderia ter sido alegado e os valores pagos diretamente a título de 28,86% após a edição da MP nº 1.704/1998 a qualquer título, devem ser compensados, sob pena de bis in idem e enriquecimento ilícito e sem causa". Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no ARESP 2.293.821/RJ, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, DJe 19/09/2023).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Inexiste contrariedade aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Incide na hipótese a Súmula 282 do STF.
+3. Infirmar o entendimento alcançado pela Corte de origem demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via de recurso especial (Súmula 7 do STJ).
+4. Agravo interno desprovido.
+(AgInt no RESP 2.108.814/RJ, de minha relatoria, PRIMEIRA TURMA, DJe 27/05/2024).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Inexiste contrariedade aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Incidem na hipótese as Súmulas 282 do STF e 211 do STJ.
+3. Infirmar o entendimento alcançado pela Corte de origem demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via de recurso especial (Súmula 7 do STJ).
+4. Agravo interno desprovido.
+(AgInt no RESP 2.108.868/RJ, de minha relatoria, PRIMEIRA TURMA, DJe 27/05/2024).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
