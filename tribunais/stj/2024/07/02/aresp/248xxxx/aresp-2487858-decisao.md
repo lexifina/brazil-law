@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial que desafia acórdão assim ementado:
+ADMINISTRATIVO Desvio de Função Agente policial que desempenhou atribuições de investigador de polícia Desvio comprovado por meio de prova documental e teste- munhal Direito ao pagamento das diferenças remunerató- rias (Súmula 378, STJ), durante o período do desvio de função Precedentes Sentença de parcial procedência, parcialmente reformada Recurso de apelação do autor, provido, em parte - Recurso de apelação da FESP, desprovido.
+Declaratórios rejeitados.
+Na sua insurgência, a parte recorrente aponta violação dos arts. 141, 942, 1.008, 1.013, e 1.022, do CPC/2015, defendendo, além de negativa de prestação jurisdicional, reformatio in pejus, uma vez que "não houve qualquer pedido subsidiário no recurso da parte contrária", bem como a necessidade do devido marco temporal da condenação.
+Contrarrazões apresentadas.
+Passo a decidir.
+Quanto à alegada violação do art. 1.022 do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.  ..  (REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Noutra quadra, extrai-se do aresto integrativo:
+Não há reformatio in pejus;
+o acórdão fundamentou que a percepção das diferenças devidas por desvio de função , direito assegurado pela Súmula 378 do STJ, devem corresponder ao período em que houve a disfunção , sob pena de enriquecimento ilícito da Administração, nos seguin- tes termos:
+"(..)nos termos do que dispõe a Súmula 378 do STJ: "Reconhecido o desvio de função, o servidor faz jus às diferenças salariais decorrentes".
+Não há violação ao art. 37, II, da Constituição Federal, pois não haverá re- classificação do cargo ocupado pelo servidor, mas apenas o pagamento das diferenças remuneratórias e seus reflexos, sob pena de enriquecimento sem causa da Administração.
+(..) A r. sentença condenou a FESP no pagamento das diferenças salariais e re- flexos legais (férias, terço constitucional e 13º salário) entre o padrão de vencimentos do cargo de agente policial e o de investigador de polícia, até a data do ajuizamento da ação.
+O autor pretende que o pagamento perdure até o trânsito em julgado; porém, as diferenças remuneratórias devem ser pagas enquanto durar o desvio de função; merece provimento parcial o recurso do autor".
+Observa-se das razões do apelo nobre que tal fundamento não foi combatido, sendo certo a incidência da Súmula 283 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal. Suspensa a exigibilidade, por se tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
