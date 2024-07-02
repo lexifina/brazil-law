@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TANIA DA SILVA, contra decisão liminar.
+Imputa-se a paciente a suposta prática do crime de previsto no art. 33, caput, e art. 35, da Lei n. 11.343/06, bem como art. 12 da Lei 12 da Lei n. 10.826/2003 (e-STJ fl.39).
+A defesa alega, em síntese: a) A ocorrência de constrangimento ilegal, tendo em vista a ausência de fundamentação idônea aptas a indeferir a prisão domiciliar, tendo em vista que a paciente é mãe de crianças menores de 12 anos; b) Ressalta que no violência ou grave ameaça contra pessoa, a requerente BRUNA RAYANNE AMORIM FRANCISCO, possui ocupação lícita e possui residência fixa, conforme comprovante de residência em anexo (fl. 5); c) Aduz também ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente encontra-se despida de fundamentação idônea, com condições pessoais favoráveis, pois amparada na mera gravidade abstrata do delito e que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP; c) Alega, ainda, que se revelam adequadas e suficientes as medidas cautelares alternativas pos itivadas no art . 319 do CPP (fl. 16).
+Ao final, requer a concessão da ordem para que seja revogada a prisão cautelar da paciente ou, alternativamente, que seja substituída a prisão da paciente por prisão domiciliar, nos termos do art. 318, V, do CPP, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da ex istência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de ins tância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Pelo exposto, não conheço do habeas corpus e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
