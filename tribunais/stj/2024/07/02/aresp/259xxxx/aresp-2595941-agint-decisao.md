@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 531/532) interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (e-STJ fls. 536/543).
+Em suas razões, a parte alega ter impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Ao final, pede a concessão de efeito suspensivo ao recurso e a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 549).
+É o relatório.
+Decido.
+A parte recorrente atacou todos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido pelos seguintes fundamentos: (a) falta de comprovação de ofensa aos dispositivos legais indicados, e (b) incidência da Súmula n. 7/STJ (e-STJ fls. 501/502).
+O acórdão recorrido está assim ementado (e-STJ fl. 452):
+AÇÃO INDENIZATÓRIA VÍCIOS CONSTRUTIVOS CDHU - Autor que pretende a condenação da ré na obrigação de reparar os vícios construtivos identificados no imóvel objeto do contrato "sub judice", bem como a indenizá-lo pelos danos morais sofridos em quantia que estima em R$ 30.000,00 Pedido julgado procedente Magistrado "a quo" que obrigou a ré a sanar as patologias apontadas no laudo pericial no prazo de 90 dias, sob pena de multa, ou indenizar o autor pelo montante correspondente, sem prejuízo do pagamento de indenização por danos morais em valor fixado em R$ 10.000,00 Recurso da ré - Questões preliminares suscitadas pela apelante que já foram objeto de decisão quando do saneamento do processo Sentença, no mérito, mantida Incidência do Código de Defesa do Consumidor Ré que sabidamente comercializa imóveis à população de baixa renda Atuação que torna induvidoso seu enquadramento como fornecedora, caracterizada a contento a relação de consumo Vícios endógenos devidamente constatados por trabalho pericial Responsabili dade da ré que exsurge evidente - Danos morais, igualmente, caracterizados Degradação de bem de expressivo valor econômico e sacrificada aquisição que não pode ser equiparada ao mero aborrecimento cotidiano - Valor da indenização mantido, vez que já fixado com modicidade Pretensão de afastamento da pena de multa para a hipótese de descumprimento da obrigação de fazer, descabida Embora o Juízo tenha, efetivamente, facultado à ré operar os reparos no imóvel ou indenizar o autor a quantia necessária para que este assim o contrate, deve a limitação temporal e "astreintes" serem mantidas Medidas que evitam que, caso opte a ré pela execução da tarefa, não se prolongue excessiva ou indefinidamente até conclui-la, em prejuízo da rotina do autor e seus familiares Sentença mantida - Honorários sucumbenciais majorados PRELIMINARES REJEITADAS. RECURSO DESPROVIDO
+Nas razões do especial (e-STJ fls. 461/473), fundamentado no art. 105, III, "a", da CF, a agravante apontou ofensa ao art. 125 do CPC, sob a alegação de ser "parte ilegítima para figurar no polo passivo da presente ação, vez que não firmou qualquer contrato de seguro com a Recorrida" (e-STJ fl. 467).
+Afirma ainda a inexistência de danos morais e a inaplicabilidade do Código de Defesa do Consumidor.
+Foram oferecidas contrarrazões (e-STJ fls. 478/489).
+Passo ao exame do recurso.
+Quanto à alegada inexistência de danos morais e inaplicabilidade do Código de Defesa do Consumidor, a parte recorrente deixou de indicar, nas razões do especial, quais os dispositivos legais que reputou violados, procedimento indispensável para confirmar a existência de afronta a lei federal, nos termos do art. 105, III, alínea "a", da CF. Desse modo, a deficiência na fundamentação impede a exata compreensão da controvérsia, o que atrai a Súmula n. 284/STF.
+O acórdão recorrido afastou a preliminar de ilegitimidade passiva, arguida pela agravante, por entender que o tema "foi objeto de decisão proferida nesta lide quando do saneamento do processo", assim, "Transitada em julgado, a temática não mais comporta discussão ou reforma" (e-STJ fl. 454).
+Nas razões do recurso especial, a agravante não trouxe argumentos aptos a impugnar tal fundamento, tendo se limitado a sustentar a tese de ilegitimidade passiva, de modo que a insurgência encontra óbice na Súmula n. 283/STF.
+Diante do exposto, TORNO SEM EFEITO a decisão monocrática de fls. 531/532 (e-STJ), CONHEÇO do agravo e NEGO-LHE provimento.
+Prejudicado o pedido liminar.
+Publique-se e intimem-se.
+ EMENTA
