@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por NOBRE SEGURADORA DO BRASIL S.A. - EM LIQUIDAÇÃO contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL - ACIDENTE DE TRÂNSITO - Julgada parcialmente procedente - Apelo da denunciada - Seguradora em liquidação extrajudicial - Suspensão dos juros e correção monetária - Impossibilidade - Condenação no ressarcimento quanto aos valores despendidos pelo corréu - Matéria a ser discutida na fase de cumprimento de julgado - Prova suficiente a demonstrar ser a culpa do condutor do coletivo pelo ocorrido - Inobservância das normas de trânsito - Danos morais e estéticos que restaram configurados - Valores condizentes com condenações similares - Recurso desprovido" (e-STJ fl. 1.079).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos arts. 8º do Código de Processo Civil e 944 do Código Civil, ao fundamento de que o valor arbitrado a título de danos morais é excessivo e deve ser reduzido.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem assim se pronunciou sobre os danos morais:
+"(..)
+Diante disso, creio que o acidente deu-se por culpa do motorista do coletivo. Ao que depreende-se dos autos, a dinâmica dos fatos denota que o referido condutor não teria observado o tráfego, ignorando o outro acidente que havia à sua frente, momento em que houve a colisão.
+Assim, ao contrário do que alegado, a autora desincumbiu-se do ônus de provar os fatos constitutivos de seu direito, ao contrário dos requeridos, que não lograram êxito em comprovar a existência de fato impeditivo, modificativo ou extintivo do direito da autora.
+Além disso, das provas produzidas, extrai-se que os danos mais graves foram gerados pelo segundo acidente, posto que, em razão do primeiro, a autora não sofreu lesões. Da mesma forma, a extensão está devidamente comprovada por meio do laudo pericial.
+Constata-se que a autora teve que passar por cirurgia na perna, bem como ficou temporariamente afastada de suas atividades cotidianas. Mais que isso: extrai-se do laudo pericial que houve caracterização de incapacidade permanente estimada em 17,5%em analogia à tabela DPVAT, além de dano estético de moderada magnitude.
+Nesse contexto, os danos morais/estéticos restaram configurados, pois, o fato de a autora ficar tolhida de seus afazeres cotidianos, bem como ter permanecido com déficit funcional, é circunstância que atenta contra a dignidade e deve ser indenizada.
+Assim, entendo que o valor fixado na sentença (R$ 30.000,00) mostra-se correto e compatível com condenações similares" (e-STJ fls. 1.081/1.082).
+Fixadas essas premissas fáticas, insuscetíveis de alteração em virtude da Súmula nº 7/STJ, verifica-se que o Superior Tribunal de Justiça tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando a quantia arbitrada é irrisória ou abusiva, circunstâncias inexistentes no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização devida pelo recorrente no valor de R$ 30.000,00 (trinta mil reais) pelos danos morais e estéticos.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO. DANOS MORAIS E ESTÉTICOS. ACIDENTE DE TRÂNSITO DISSÍDIO JURISPRUDENCIAL QUANTUM INDENIZATÓRIO. REVISÃO. CABIMENTO. VALOR IRRISÓRIO. AGRAVO INTERNO DESPROVIDO.
+1. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+2. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+3. Agravo interno desprovido."
+(AgInt no REsp 1.837.417/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe 19/6/2024 - grifou-se) (indenização por danos morais e estéticos - R$ 50.000,00)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.
+RESPONSABILIDADE CIVIL RECONHECIDA. ATO DO PREPOSTO. DANOS MORAIS, ESTÉTICOS E MATERIAIS COMPROVADOS. FIXAÇÃO DO VALOR INDENIZATÓRIO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não se verifica a propalada ofensa aos arts. 489 e 1.022 do CPC/2015, tendo o acórdão recorrido resolvido satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação da tutela jurisdicional.
+2. No caso em testilha, das informações extraídas do aresto recorrido, observa-se que o TJRJ reconheceu a responsabilidade civil da agravante pelo evento danoso e o consequente dever de indenizar a vítima, tendo em vista que o motorista que ocasionou o acidente de trânsito atuava como seu preposto. Logo, forçoso reconhecer que a alteração das conclusões adotadas - a fim de compreender pela inexistência de responsabilidade civil, como pretende a agravante - não prescindiria do revolvimento do acervo fático-probatório, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Relativamente ao valor arbitrado por danos morais e estéticos, dispõe a jurisprudência do Superior Tribunal de Justiça que a alteração do valor estabelecido pelas instâncias ordinárias só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo, o que não se constatou no caso em análise.
+4. No que concerne ao pensionamento mensal - para derruir o desfecho do acórdão recorrido - a fim de afastar o seu cabimento, segundo as razões vertidas no apelo extremo, seria indispensável o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+5. Agravo interno improvido."
+(AgInt no AREsp 2.518.946/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/5/2024 - grifou-se) (indenização por danos morais - R$ 30.000,00 e indenização por danos estéticos - R$ 15.000,00)
+Assim, não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no verbete sumular nº 7/STJ.
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMPRESA EM LIQUIDAÇÃO EXTRAJUDICIAL. 1. AÇÃO DE CONHECIMENTO. SUSPENSÃO. INAPLICABILIDADE. 2. GRATUIDADE DE JUSTIÇA. PEDIDO INCOMPATÍVEL COM O RECOLHIMENTO DO PREPARO RECURSAL. 3. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. AGRAVO INTERNO DESPROVIDO.
+1. Com efeito, conforme jurisprudência desta Corte Superior, o art. 18 da Lei n. 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito.
+2. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+3. Nos termos da jurisprudência desta Corte Superior, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, considerando as peculiaridades do julgamento em concreto" (AgInt no AREsp n. 2.177.306/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023).
+3.1. A modificação do entendimento alcançado pelo acórdão estadual (acerca da abusividade na cobrança dos juros remuneratórios contratados) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. Agravo interno improvido."
+(AgInt no AREsp 2.485.847/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 2/5/2024 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 18% (dezoito por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
