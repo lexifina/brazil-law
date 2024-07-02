@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDER JOSÉ OLIVEIRA DA ROSA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, cuja ementa teve o seguinte teor (fl. 36):
+EMENTA: HABEAS CORPUS - HOMICÍDIO QUALIFICADO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - APLICAÇÃO DA LEI PENAL - FUGA DO DISTRITO DA CULPA - CONDIÇÕES SUBJETIVAS FAVORÁVEIS - INSUFICIÊNCIA PER SE - A fuga do réu do distrito da culpa é circunstância que autoriza a decretação da custódia cautelar, para garantia da aplicação da lei penal. - A eventual existência de condições pessoais favoráveis não enseja, per se, a automática revogação da prisão preventiva.
+Consta dos autos que o paciente foi condenado pela suposta prática do crime previsto no artigo 121, §2º, IV, do Código Penal, à pena de 12 anos de reclusão, em regime fechado, sendo-lhe negado o direito de recorrer em liberdade.
+Impetrado prévio writ na origem, a ordem foi denegada.
+Neste habeas corpus, a impetrante alega, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a prisão preventiva, reivindicando o direito de o paciente recorrer em liberdade.
+Aduz que o paciente é primário, portador de bons antecedentes criminais, exerce atividade lícita e possui residência fixa.
+Requer, liminarmente e no mérito, revogação da prisão preventiva do paciente ou a sua substituição por medidas cautelares diversas da prisão.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela extinção do processo sem resolução do mérito ou, alternativamente, pela denegação da ordem.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A sentença condenatória deixou de conceder a liberdade provisória ao paciente pelos seguintes fundamentos (fls. 261-262):
+ ..
+Estando presentes Os requisitos do artigo 312 e 313 do Código de Processo penal, entendo que deve ser mantida a prisão preventiva do acusado para aplicação da lei penal e eficácia da sentença tomada pelos Jurados. Assim, o acusado encontra-se em endereço incerto, havendo risco de se furtar à aplicação da lei penal e aos efeitos da condenação ora lhe imposta.
+Logo, a hipótese de cabimento encontra-se presente (artigo 313, I, do CPP), requisitos da autoria e materialidade e fundamentos na manutenção da ordem pública (modus operandi do réu ao surpreender a vítima com disparo em região imprescindível do corpo humano) e aplicação da lei penal (o réu está foragido), recomendam que se mantenha o decreto de prisão processual.
+Por essas razões, NEGO ao réu o direito de recorrer em liberdade. Mantenham-se ativos os registros sobre a prisão preventiva do réu, acrescentando-se, ainda, que eventual condições pessoais favoráveis, por si sós, não conduzem à revogação da preventiva.
+ ..
+In casu, mostra-se inviável acolher a pretensão defensiva, porquanto verifica-se a presença de fundamentos concretos para a denegação da ordem e manutenção da prisão cautelar, a fim de se assegurar a aplicação da lei penal, tendo em vista que o réu não foi localizado para responder ao chamamento judicial, estando em local incerto e não sabido. Tais argumentos são suficientes para rechaçar o alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Com efeito, revela-se devidamente demonstrada nos autos a intenção do acusado em obstaculizar o andamento da ação criminal contra si deflagrada e de evitar a aplicação da lei penal, uma vez que, conforme consignado pela instância ordinária, os fatos apurados na ação penal originária ocorreram em 4/11/2000, portanto, há mais de 20 anos, tendo o paciente sido encontrado em estado diverso do distrito da culpa.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no HC n. 785.639/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 172.667/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
