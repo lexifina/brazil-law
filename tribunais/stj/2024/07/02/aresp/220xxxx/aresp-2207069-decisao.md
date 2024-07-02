@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que deixou de admitir recurso especial interposto pela DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO, sob o fundamento de que a questão foi dirimida pelo acórdão recorrido com base na moldura fático-probatória apresentada, sendo inadequado rever os fatos na via dos recursos extremos, o que atrai a incidência da Súmula 7 do Superior Tribunal de Justiça.
+A agravante alega que a decisão agravada não merece prosperar, porque não há necessidade de revisão de matéria de fato ou das provas dos autos, sendo a questão exclusivamente de direito.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que merece provimento quanto à apontada violação ao art. 1.022, II, do CPC.
+Inicialmente, verifico que o recurso especial cumpriu os requisitos legais e constitucionais exigidos para a sua admissão.
+Quanto ao mérito, com razão a recorrente.
+O Tribunal de origem, ao negar provimento ao agravo de instrumento da ora recorrente, assentou, em síntese, o seguinte entendimento, no ponto que interessa aos autos:
+Com efeito, conforme observado na decisão agravada, quando for executada a Fazenda Pública, somente são aplicáveis os juros moratórios sobre a verba honorária nos casos em que ocorrer a mora do ente público, ou seja, quando o crédito não for pago no prazo estipulado para o pagamento do precatório ou da requisição de pequeno valor RPV), conforme entendimento firmado pelo Superior Tribunal de Justiça.
+Nos embargos de declaração opostos na origem, a recorrente apontou omissão defendendo que "verifica-se que o ponto omisso do Acórdão consiste na falta de apreciação de questão relevante à análise da controvérsia, a saber, que a principal tese do Agravo manejado girava em torno do entendimento exarado pelo C. STF no tema nº 96 de suas teses de repercussão geral, que, ao seu turno, deu azo à revisão pelo C. STJ do tema nº 291 de suas teses em recurso repetitivo, ficando assentado nos julgados objetivos a tese de que "Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório"".
+Ao rejeitar os embargos de declaração, o Tribunal de origem se limitou a afirmar que os dispositivos mencionados não restaram violados pela decisão embargada, que decidiu fundamentadamente a questão controvertida colocada para exame.
+Como se vê, tem-se caracterizada infringência ao art. 1.022, II, do CPC.
+Ora, "conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida" (REsp 1.819.062/RJ, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/2/2020, DJe de 13/2/2020).
+A princípio, os argumentos suscitados pelo recorrente revelam-se essenciais para o correto deslinde da controvérsia, uma vez que a alegação da parte recorrente se refere a momento anterior ao pagamento de precatório, em que pleiteia a incidência de juros moratórios com base em entendimento firmado pelo Supremo Tribunal Federal; por sua vez, o Tribunal de origem não enfrentou a matéria, embora provocado por meio dos embargos de declaração. Assim, considerando a controvérsia versada nos autos, é natural que haja pronunciamento do Tribunal de origem a respeito de eventual incidência de juros moratórios em momento anterior ao pagamento de precatório.
+Isso posto, conheço do agravo para dar provimento ao recurso especial a fim de, anulando o acórdão que rejeitou os embargos de declaração, determinar o retorno dos autos ao Tribunal de origem para sanar concretamente todos os vícios apontados.
+Intimem-se.
+EMENTA
