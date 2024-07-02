@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, recurso especial interposto por FORTBRASIL INSTITUIÇÃO DE PAGAMENTO S.A contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+TRIBUTÁRIO ADMINISTRADORA DE CARTÕES DE CRÉDITO IRPJ E CSLL JUROS MORATÓRIOS INCIDÊNCIA POSSIBILIDADE NATUREZA REMUNERATÓRIA RECONHECIMENTO.
+1. O Plenário do col. STF, nos autos do RE 566.621/RS, em 04/08/11, decidido sob o regime de repercussão geral, reconheceu a inconstitucionalidade do art. 4º, segunda parte, da LC nº 118/05, tendo considerado que o novo prazo de cinco anos para a repetição de indébito tributário deve ser aplicado às ações interpostas após a sua vigência, que se iniciou em 09/06/05, tese albergada também no eg. STJ (REsp 1.269.570/MG, submetido ao regime dos recursos repetitivos, DJ 04/06/12).
+2. O Imposto de Renda tem como fato gerador a aquisição da disponibilidade econômica ou jurídica de renda, assim entendido o produto do capital, do trabalho, ou a combinação de ambos, e de proventos de qualquer natureza, nos termos do art. 43 do Código Tributário Nacional.
+3. A Contribuição Social sobre o Lucro Líquido está disposta na Lei nº 7.689/88, art. 2º, tendo como base de cálculo o valor do resultado do exercício, antes da provisão para o imposto de renda.
+4. Hipótese em que os juros moratórios decorrentes de pagamento em atraso de faturas de cartões de crédito (encargos contratuais), por constituírem acréscimo patrimonial, devem sofrer a incidência do IRPJ e da CSLL.
+5. Caso destoante daquele apreciado pelo eg. STJ no REsp 1.227.133/RS (DJe 01/12/2011), paradigma defendido pela postulante.
+6. Apelação desprovida.
+Nas razões recursais, a parte recorrente sustenta, em síntese, que "o julgado contraria dispositivo do Código Tributário Nacional, vez que amplia o fato gerador do imposto de renda e da contribuição social sobre o lucro líquido ao incluir na incidência do tributo os juros moratórios". Defende, ainda, que "os juros moratórios não são rendimentos, mas indenização, restando demonstrado o desacerto da decisão recorrida, visto que desconsiderou previsão expressa em dispositivo de lei federal (art. 440, CC), bem como a plausível tendência verificada nos julgados dos tribunais deste país quanto ao tema em liça".
+Contrarrazões apresentadas pela parte recorrida.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+No julgamento do Tema 878/STJ, esta Corte Superior fixou a tese de que, "regra geral, os juros de mora possuem natureza de lucros cessantes, o que permite a incidência do Imposto de Renda - Precedentes: REsp. n.º 1.227.133 - RS, REsp. n. 1.089.720 - RS e REsp. n.º 1.138.695 - SC".
+Nessa linha, "o Superior Tribunal de Justiça consolidou o entendimento de que os juros moratórios oriundo s do inadimplemento de contrato privado possuem natureza remuneratória de lucros cessantes e, portanto, sujeitam-se à tributação pelo IRPJ e pela CSLL" (AgInt no REsp n. 1.681.378/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023).
+Nesse mesmo sentido, entendimento de ambas as Turmas que compõe a 1ª Seção desta Corte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. JUROS DE MORA CONTRATUAIS. NATUREZA DE LUCROS CESSANTES. IRPJ E CSLL. INCIDÊNCIA. PRECEDENTES. DISSÍDIO JURISPRUDENCAL. ANÁLISE PREJUDICADA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Não há falar em suposta violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. O acórdão regional está em conformidade com a orientação jurisprudencial deste Superior Tribunal de Justiça, segundo a qual incidem o IRPJ e a CSLL sobre os juros de mora decorrentes do inadimplemento de contratos, por possuírem natureza de lucros cessantes.
+4. A Primeira Seção, em julgamento de juizo de retratação no recurso especial repetitivo n. 1.138.695/SC, entendeu que mesmo após o julgamento do Tema 962 pelo STF, "restam preservadas as teses referentes ao TEMA 878/STJ" (REsp n. 1.138.695/SC, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 8/5/2023).
+5. Estando o entendimento do Tribunal a quo de acordo com a orientação firmada por esta Corte Superior, fica prejudicado o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+6. Agravo interno não provido (AgInt no REsp n. 2.002.501/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/8/2023, DJe de 15/8/2023).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IRPJ E CSLL. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. INADIMPLEMENTO DE CONTRATOS. INCIDÊNCIA. COMPENSAÇÃO APENAS COM TRIBUTOS DE MESMA ESPÉCIE E APÓS O TRÂNSITO EM JULGADO. RECURSO NÃO PROVIDO.
+1. Constata-se que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Hipótese em que o Tribunal de origem, ao dirimir a controvérsia, concluiu ser cabível a incidência do IRPJ e da CSLL sobre os juros moratórios contratuais e a correção monetária provenientes do pagamento em atraso das vendas de suas mercadorias, porquanto não se revestem de caráter meramente indenizatório.
+3. O acórdão recorrido está em sintonia com o entendimento do STJ de que incidem o IRPJ e a CSLL sobre os juros de mora e correção monetária decorrente do inadimplemento de contratos, pois ostentam a mesma natureza de lucros cessantes.
+4. Também é pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a compensação das contribuições recolhidas indevidamente poderá ocorrer apenas com parcelas vincendas da mesma espécie tributária e somente após o trânsito em julgado.
+5. Recurso Especial não provido.
+(REsp n. 1.685.465/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2017, DJe de 16/10/2017.)
+O Tribunal de origem, por sua vez, consignou expressamente que (fl. 651):
+O inadimplemento das faturas mensais dos cartões de crédito gera, portanto, encargos contratuais que não podem ser considerados como danos emergentes (o que o credor efetivamente perdeu), pois a recorrente, diante do referido atraso, apenas deixou de lucrar com o serviço prestado, não sendo afetada a obrigação principal assumida pelo contratado, de modo que, o que se deixou de receber no momento do vencimento da fatura, será recompensado, com a fluência dos citados encargos financeiros, tidos como lucros cessantes.
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Intimem-se.
+ EMENTA
