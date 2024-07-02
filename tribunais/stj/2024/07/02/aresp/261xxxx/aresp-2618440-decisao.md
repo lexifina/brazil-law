@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo apresentado por PAULO DONIZETI VIEIRA SANTANA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIENCIÁRIO. BENEFÍCIO DE INCAPACIDADE. AUXÍLIO POR INCAPACIDADE PARCIAL. REQUISITO DA QUALIDADE DE SEGURADO NÃO COMPROVADO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 42, caput e § 2º, e 59, caput e § 1º, ambos da Lei n. 8.213/1991. Sustenta que manteve a condição de segurado, uma vez que sua incapacidade decorreu de agravamento de doença da qual é portador, trazendo a seguinte argumentação:
+Trata-se de decisão de última instancia que violou a Lei Federal 8.213 -Lei da Previdência Social, nos artigos:
+-Artigo 42 caput § 2º ao negar o direito ao benefício, mesmo comprovado nos autos que HOUVE AGRAVAMENTO dos sintomas da doença que causa incapacidade, fato que o artigo 42 §2º permite a concessão do benefício em caso de agravamento, pois adquire a qualidade de segurado.
+-Artigo 59 caput e §1º ao negar o direito ao benefício de auxílio doença, mesmo comprova nos autos que HOUVE AGRAVAMENTO dos sintomas da doença que causa incapacidade, fato que o artigo 59 §1º permite a concessão do benefício em caso de agravamento, pois adquire e mantém a qualidade de segurado.
+Portanto cabível o recurso especial.
+II - Das Razões Recursais
+Em que pesem o respeito e a admiração que esta defensoria nutre pelos cultos Desembargadores do Egrégio Tribunal Regional Federal de São Paulo, mas no caso emergente somos obrigados a discordar.
+O acórdão merece reforma, pois NEGA o benefício, com fundamento que o recorrente perdeu a qualidade de segurado, desconsiderando a prova pericial que APONTA AGRAVAMENTO DO QUADRO, vejamos:
+Ficou comprovado nos autos que houve agravamento dos sintomas em 2009, vejamos a conclusão do Dr. PERITO JUDICIAL, laudo anexo:
+".. 1 - Se a DII - data de início da incapacidade - seria ano de 2009, data que o autor iniciou o tratamento médico psiquiátrico com a Dra. Vilma M. Faria M. Oliveira, cópia anexa  1. R. Aparentemente sim, época do agravamento de sua doença. Não é possível precisar com exatidão plena.
+2 - Se houve agravamento do quadro clínico causando a incapacidade laborativa, tendo como início do agravamento o ano de 2009, quando parou de trabalhar e início o tratamento médico 2. R. Sim. Periciando apresenta Síndrome de Dependência por álcool desde o início da vida adulta e aparentemente houve agravamento em 2009, causando incapacidade laborativa.." (grifo nosso)
+SENDO ASSIM, o DR. PERITO FIXOU O AGRAVAMENTO EM 2009, e afirma que causou incapacidade, não podendo ser desconsiderado.
+DA NÃO VIOLAÇÃO DA SÚMULA 7 DO STJ
+O presente recurso pleiteia o RESPEITO a prova pericial técnica, que concluiu pelo AGRAVAMENTO e não pode ser ignorado, prejudicando o segurado que está invalido.
+Respeitando a conclusão do Pericial de agravamento do quadro, em 2009 o segurado mantinha a qualidade de segurado, já recebeu benefício até 07/2008, é possível concluir que o estado incapacitante persiste desde 2008.
+Portanto, é possível concluir que o recorrente mantinha a qualidade de segurado e tem direito ao benefício por invalidez (fls. 474-477).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso vertente, alega a parte autora, vendedor, com 57 anos de idade na data de realização da perícia (12/12/2018), ser portadora de CID 10 - F70 - retardo mental leve e F10 - transtornos mentais e comportamentais devidos ao uso de álcool, moléstias que lhe acarretam incapacidade total e definitiva para o trabalho.
+O requerimento administrativo foi apresentado em 15/12/2016 (ID130908529). A fim de se perscrutar a real condição da parte autora, o d. Juízo a quo designou a realização de perícia médica, ocasião em que o Senhor Perito apresentou as seguintes conclusões (ID 130908641):
+Periciando apresenta Síndrome de Dependência por uso de Álcool, transtorno mental caracterizado por intenso desejo de consumo, descontrole no uso e síndrome de abstinência. Seu CID 10 é F10.2 - Transtorno mental e de comportamento decorrentes do uso de álcool - Síndrome de dependência.
+Além disso, em resposta aos quesitos formulados pelas partes, o r. experta firmou:
+10-Caso existente, a incapacidade laborativa do(a) periciando(a) pode ser caracterizada, em relação à sua atividade laborativa habitual, como total ou parcial  Em relação à duração, essa incapacidade é definitiva ou temporária Ainda quanto à abrangência, essa incapacidade pode ser caracterizada como a)
+multiprofissional que implica na impossibilidade do desempenho de múltiplas atividades profissionais; ou b) uniprofissional - que implica apenas na impossibilidade do desempenho de sua atividade específica/habitual  R. Incapacidade total, temporária e multiprofissional.
+(..)
+04. Caso inapto, se podemos concluir que a data do inicio da doença foi na data da cessação do auxilio doença ocorrido em 31/jul/2008, conforme prontuário médico em anexo  R. Não é possível precisar com exatidão.
+Com efeito, decorre do laudo técnico que a incapacidade laboral da parte autora tem caráter total e temporário.
+É assente que o juiz não está adstrito ao laudo pericial, nos termos do artigo 479 do CPC, devendo sopesar o conjunto probatório para formar a sua convicção. Contudo, não foram acostados aos autos elementos com o condão de infirmar o exame realizado pelo expert, razão pela qual há que se prestigiar a conclusão da prova técnica acerca da existência da incapacidade.
+De outro giro, consta do CNIS ID 130908685 que o último vínculo do segurado com o RGPS foi o auxílio-doença concedido no período de 07/05/2008 a 31/07/2008, deixando de verter quaisquer contribuições nos meses subsequentes.
+Verificada, por intermédio do Sistema de Consulta Processual deste Egrégio Tribunal, a existência de outra ação promovida pelo autor desta demanda pleiteando a concessão do mesmo benefício (processo n. 0036901-64.2013.4.03.9999), foi o apelante instado a apresentar as cópias das principais peças daquele feito (ID 258864422).
+Em cumprimento à referida determinação, foi juntada aos autos, entre outras, a cópia da r. sentença proferida naquele processo em 25/01/2013, transitada em julgado, pela qual se julgou improcedente o pedido de concessão de benefícios de aposentadoria por invalidez ou auxílio-doença, em face da não constatação, pelo perito do Juízo, da existência de incapacidade ou redução da capacidade laborativa do requerente (ID 264546777 - Págs. 16/30).
+Conforme se depreende do laudo da perícia efetuada neste processo, não foi possível ao expert precisar se a incapacidade por ele constatada remonta ao termo final do auxílio-doença em 31/07/2008.
+Nessa senda, considerando que, a partir da cessação do benefício de auxílio-doença anteriormente concedido (31/07/2008) até, ao menos, a data da prolação da sentença no processo n. 0036901-64.2013.4.03.9999 (25/01/2013), não há registro da ocorrência de incapacidade laboral do apelante, denota-se configurada a perda de sua qualidade de segurado.
+Não havendo insurgência quanto aos demais requisitos do benefício concedido e constatada a ausência da qualidade de segurado do apelante, impõe-se a procedência da pretensão recursal do INSS, ficando prejudicada a apelação da parte autora.
+Finalmente, quanto ao eventual prequestionamento suscitado, assinalo não haver qualquer infringência à legislação federal ou a dispositivos constitucionais (fls. 421-423).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
