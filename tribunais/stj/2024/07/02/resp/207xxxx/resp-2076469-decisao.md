@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 510/511):
+Apelação cível. Plano de saúde coletivo. Ação cominatória e indenizatória. Sentença de improcedência. Inconformismo.
+Código de Defesa do Consumidor. Aplicabilidade. Artigos 3º e 29 da Lei nº 8.078/1990. Súmulas nº 100 deste Egrégio Tribunal de Justiça e nº 469 do Colendo Superior Tribunal de Justiça.
+Cerceamento de defesa. Não ocorrência. Juiz que é o destinatário da prova. Artigo 370, caput, do Código de Processo Civil. Suficiência dos elementos probatórios constantes dos autos para o deslinde da controvérsia. Ré que, intimada a especificar as provas que pretendia produzir, foi explícita em dizer não as ter.
+Reajuste por sinistralidade. Plano coletivo. Possibilidade. Eventual aumento das despesas pelo grupo segurado. Previsão contratual. Todavia, inexistência de qualquer base atuarial idônea para justificar o reajuste. Ausência de efetivação do direito básico de informação adequada e clara ao consumidor. Artigo 6º, III, da Lei nº 8.078/1990. Abusividade caracterizada.
+Índice de reajuste financeiro anual. Plano coletivo. Inaplicabilidade, a priori, dos índices fixados pela ANS - Agência Nacional de Saúde Suplementar para os contratos individuais e familiares. Especificação da própria agência reguladora. Ausência de impugnação específica no caso concreto.
+Rescisão unilateral. Plano coletivo. Possibilidade, mediante disponibilização de plano ou seguro de assistência à saúde na modalidade individual, sem necessidade de cumprimento de novos prazos de carência. Artigo 1º da Resolução nº 19 do Conselho de Saúde Suplementar - CONSU. Validade da previsão contratual.
+Mérito. Caso que se subsume ao tema 1016 do E. STJ, sendo firmadas as seguintes teses: "(a) Aplicabilidade das teses firmadas no Tema 952/STJ aos planos coletivos, ressalvando-se, quanto às entidades de autogestão, a inaplicabilidade do CDC; (b) A melhor interpretação do enunciado normativo do art. 3º, II, da Resolução nº 63/2003, da ANS, é aquela que observa o sentido matemático da expressão "variação acumulada", referente ao aumento real de preço verificado em cada intervalo, devendo-se aplicar, para sua apuração, a respectiva fórmula matemática, estando incorreta a simples soma aritmética de percentuais de reajuste ou o cálculo de média dos percentuais aplicados em todas as faixas etárias."
+Corte Superior que uniformizou os parâmetros para a defesa dos consumidores quantos aos reajustes etários aplicados nos contratos de plano de saúde coletivos e individuais ou familiares, remetendo aos critérios do tema nº 952.
+Tema nº 952. Reajuste por mudança de faixa etária. Possibilidade no caso concreto. Tese firmada no recurso especial nº 1.568.244/RJ, submetido à sistemática dos chamados recursos repetitivos. Requisitos: previsão contratual, observância das normas expedidas pelos órgãos governamentais reguladores e não serem aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+Hipótese dos autos. Contrato novo firmado a partir de 1º/1/2004, incidindo as regras da Resolução Normativa nº 63/2003 da ANS. Percentuais aplicados que obedecem aos critérios do REsp 1.568.244/RJ, julgado pela sistemática dos recursos repetitivos, cujos cálculos devem observar a fórmula fixada no julgamento do Incidente de Resolução de Demandas Repetitivas nº 0043940-25.2017.8.26.0000desta C. Corte. Excesso não verificado.
+Recurso provido em parte para declarar a abusividade dos índices de reajuste por sinistralidade aplicados entre 2014 até o ajuizamento da ação, devendo haver apuração de percentual adequado e razoável em fase de liquidação de sentença, por cálculo contábil, devendo a ré a devolver à autora as diferenças pagas em excesso, com correção monetária pela tabela prática deste Egrégio Tribunal desde os desembolsos e incidência de juros de mora de 1% ao mês a partir da citação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 738/747 e 754/764).
+Em suas razões (e-STJ fls. 526/562), a parte aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, e 1.022 do CPC/2015, sob o argumento de que o Tribunal de origem não enfrentou a alegação de falta de comprovação de base atuarial idônea dos reajustes questionados,
+(ii) arts. 927 do CPC/2015 e 421 e 422 do CC, afirmando que o acórdão recorrido está em desconformidade com os Temas Repetitivos n. 952 e 1.016 do STJ e apontando ofensa aos princípios da função social do contrato e da boa-fé objetiva,
+(iii) arts. 6º, V, 39, V, e 51, IV e X, do CDC, defendendo a irrazoabilidade dos percentuais de reajuste etário, carentes de justificativa atuarial,
+(iv) arts. 341, 373, II, 434 e 507 do CPC/2015, aduzindo a impossibilidade de apuração do percentual adequado de reajuste por sinistralidade na fase de cumprimento de sentença, e
+(v) art. 13, II, da Lei n. 9.656/1998, sustentando a abusividade da cláusula que permite a rescisão unilateral e imotivada do contrato de assistência médica pela parte recorrida.
+Contrarrazões não apresentadas.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão acerca de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja: a ausência de comprovação de base atuarial idônea que justifique o percentual do reajuste questionado.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão respectivo para que o recurso seja novamente apreciado.
+Assim, constatado o vício apontado pela parte recorrente e considerando tanto a necessidade de prequestionamento da questão quanto a impossibilidade de incursão fático-probatória em sede especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para exame do vício apontado, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
