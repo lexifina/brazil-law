@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por ILDEMIRO FERNANDO MAZETO em face da decisão que inadmitiu seu recurso especial.
+O apelo extremo fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 194/198 e-STJ):
+APELAÇÃO CÍVEL. CUMPRIMENTO PROVISÓRIO DE ASTREINTES. SENTENÇA DE EXTINÇÃO. MULTA QUE NÃO FOI CONFIRMADA EM SENTENÇA. NECESSIDADE NO CASO. ANÁLISE CONJUNTA DO CONTIDO NOS ARTIGOS 520 E 537. PRECEDENTES DO STJ. AUSÊNCIA DE PRECLUSÃO NA HIPÓTESE. DECISÃO MANTIDA. Recurso conhecido e desprovido.
+Nas razões de recurso especial, o insurgente alega violação ao artigo 505 do CPC, dada a impossibilidade de discussão quanto ao cabimento do cumprimento provisório da decisão, haja vista a preclusão operada. Aponta, ainda, ofensa ao artigo 537, § 3º, do CPC, sustentando que o diploma processual em vigor prevê a possibilidade de cumprimento provisório de astreintes, condicionando apenas o levantamento do valor ao trânsito em julgado da sentença favorável à parte.
+Contrarrazões às fls. 244/252 e-STJ.
+O apelo nobre foi inadmitido na origem (fls. 255/260 e-STJ), ensejando a interposição do presente agravo em recurso especial, objetivando destrancamento da insurgência (fls. 268/285 e-STJ).
+Contraminuta às fls. 295/305 e-STJ.
+Ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decide-se.
+A irresignação não merece acolhimento.
+1. O Tribunal de origem afastou a ocorrência de preclusão acerca do cabimento do cumprimento provisório da decisão que fixou a multa cominatória, com base nos seguintes fundamentos (fl. 195 e-STJ):
+3.1.Inicialmente, não há que se falar em preclusão para o caso dos autos, já que a decisão de mov. 32.1, com base em cognição não exauriente, apenas identificou que teria havido a intimação pessoal da parte apelada e, portanto, ocasionado o fato gerador da multa que está sendo cobrada.
+Não houve maiores ilações a respeito do cabimento imediato do cumprimento provisório ou a necessidade de se aguardar a confirmação da decisão proferida, situação que só foi analisada após a impugnação apresentada pela Unimed e demais manifestações dos autos.
+Portanto, considerando que não houve discussão e decisão a respeito deste fato em específico anteriormente, descabida a pretensão de reconhecimento de preclusão.
+Desse modo, para afastar a conclusão do acórdão e acolher a tese recursal quanto à caracterização da preclusão porque a temática já teria sido decidida anteriormente, seria imprescindível revisitar matéria fática, com exame das manifestações das partes e das decisões proferidas no curso do cumprimento provisório, o que é inviável na via do recurso especial, ante o óbice da Súmula 7 do STJ.
+2. No mais, a irresignação se volta contra a conclusão da Corte local na linha de que a multa cominatória fixada em sede de tutela antecipada somente pode ser objeto de execução provisória quando confirmada pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo.
+Inobstante a matéria não seja pacífica, a compreensão alcançada no aresto recorrido está em conformidade com a jurisprudência predominante desta Corte Superior, ilustrada nos julgados a seguir transcritos:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA - INSURGÊNCIA RECURSAL DA AGRAVADA.
+ ..
+4. O CPC/15 não alterou a imprescindibilidade de confirmação da tutela provisória em sede de sentença como requisito para o cumprimento provisório da multa cominatória. Precedentes.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.048.631/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS AUTÔNOMOS. MULTA COMINATÓRIA. CUMPRIMENTO PROVISÓRIO ANTES DE CONFIRMAÇÃO POR DECISÃO PROFERIDA EM COGNIÇÃO EXAURIENTE. IMPOSSIBILIDADE. INTELIGÊNCIA DOS ARTIGOS 297, PARÁGRAFO ÚNICO, 520, 537, §3º, E 1.012, § 1º, V, DO CPC/15.
+ ..
+3. Nos termos do disposto pelos artigos 297, parágrafo único, e 537, § 3º, do CPC/15, que estabelecem que a decisão que fixa multa em sede de tutela provisória observará as normas referentes ao cumprimento provisório da sentença, o advento do novo diploma processual civil não alterou a necessidade de confirmação da tutela provisória em sede de sentença como requisito para o cumprimento provisório da multa cominatória, por possuir como pressuposto a existência de sentença impugnada por recurso desprovido de efeito suspensivo, nos termos do disposto no artigo 520 do CPC/15.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.883.876/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS. AÇÃO DE RESOLUÇÃO CONTRATUAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 1.022 DO CÓDIGODE PROCESSO CIVIL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO STF. OMISSÃO. INEXISTÊNCIA. VIOLAÇÃO DO ART. 364, CAPUT E § 2º, DO CPC. AFASTAMENTO. COISA JULGADA. ARGUMENTAÇÃO DEFICIENTE (SÚMULA N. 284 DO STF). FUNDAMENTO DOACÓRDÃO DE ORIGEM NÃO IMPUGNADO. SUMULA N. 283 DO STF. REEXAME DOCONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. MULTA FIXADA EM TUTELA ANTECIPADA. EXECUÇÃO PROVISÓRIA. CONFIRMAÇÃO POR SENTENÇA DE MÉRITO. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+9. Segundo jurisprudência do STJ, sob a égide do CPC de 1973 e do atual código de processo, a multa cominatória fixada em sede de tutela antecipada somente pode ser objeto de civil execução provisória quando confirmada pela sentença de mérito. Incidência da Súmula n. 83do STJ.10. Agravo interno desprovido.
+(AgInt no REsp n. 1.851.904/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ASTREINTES. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM SENTIDO CONTRÁRIO AO ENTENDIMENTO DO STJ, FIRMADO EM SEDE DE RECURSO REPETITIVO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Embargos à Execução opostos pelo Estado do Amazonas em desfavor da parte ora agravada, alegando a inexigibilidade do título judicial, ante a impossibilidade da execução provisória em face da Fazenda Pública e, subsidiariamente, desproporcionalidade da multa cominatória, requerendo a sua redução à luz do princípio da proporcionalidade. O Juízo de 1º Grau julgou improcedente o pedido. O Tribunal de origem anulou a sentença, para acolher os Embargos à Execução, sob o fundamento de que, "ainda que se trate de multa cominatória aplicada em decisão interlocutória, a sua execução só pode ocorrer após o trânsito em julgado da sentença ou acórdão que a confirmar".
+III. O entendimento firmado pela Corte Especial do STJ, no julgamento do REsp 1.200.856/RS, submetido ao rito do art. 543-C do CPC/73, no sentido de que "a multa diária prevista no § 4º do art. 461 do CPC, devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo" (STJ, REsp 1.200.856/RS, Rel. Ministro SIDNEI BENETI, CORTE ESPECIAL, DJe de 17/09/2014). No mesmo sentido: STJ, AgInt no REsp 1.795.527/RJ, Rel. Ministro MAUROCAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/06/2019; EDcl no AgRg no AREsp 513.829/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015; AgRg no REsp 1.365.017/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 15/04/2013.
+IV. A decisão ora agravada concluiu que o acórdão impugnado, ao exigir o trânsito em julgado para a execução das astreintes, está em confronto com a jurisprudência desta Corte, que exige apenas sua confirmação por sentença de mérito e a inexistência de recurso recebido com efeito suspensivo. Nesse contexto, deu provimento ao recurso da parte ora agravada, a fim de reconhecer a possibilidade da execução provisória das astreintes, nos termos do entendimento jurisprudencial indicado.
+V. Agravo interno improvido.
+(AgInt no AgInt no REsp n. 1.736.492/AM, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 6/3/2023, DJe de 15/3/2023.)
+Incide, portanto, o óbice da Súmula n. 83 do STJ, a qual é aplicável para os recursos interpostos tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Por fim, mantida a conclusão da Corte local no sentido do indeferimento da inicial do cumprimento provisório da multa cominatória, não comportam conhecimento as alegações pertinentes ao mérito do cumprimento provisório da multa cominatória, mesmo porque a matéria sequer foi examinada pelo Tribunal estadual.
+4. Do exposto, com fulcro no artigo 932 do CPC c/c Súmula 568 do STJ, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
