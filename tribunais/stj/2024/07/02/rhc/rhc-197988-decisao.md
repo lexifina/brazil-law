@@ -1,0 +1,40 @@
+DECISÃO
+HARLEY DE JESUS ALMEIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - preso desde 27/10/2023, pela prática, em tese, dos crimes de comércio ilegal de arma de fogo e associação criminosa -, em razão do excesso de prazo da prisão preventiva.
+O Parquet Federal oficiou pelo desprovimento do recurso.
+Decido.
+As informações noticiam o seguinte:
+ ..
+O recorrente teve decretada sua prisão preventiva nos autos da ação cautelar nº 5024678-16.2023.8.13.0433, em razão de representação formulada pela Polícia Federal, cujo cumprimento do mandado se deu no dia 26/10/2023.
+Concluídas as investigações, o Ministério Público ofereceu denúncia contra vários investigados, dentre eles o ora recorrente, ao qual foi atribuída a prática dos crimes previstos no art. 17 da Lei 10.826/2003 e art. 288 do CP.
+A denúncia foi recebida em 21/11/2023.
+Sobrevieram pedidos de revogação das prisões, dentre eles o do recorrente, que, no entanto, restou indeferido em decisão datada de 05/12/2023.
+Especificamente no que concerne ao ora recorrente ponderou o Juízo que, a despeito de sua primariedade, os crimes supostamente praticados são de concreta gravidade, uma vez que, pelo restou colhido na fase preliminar, o paciente seria, em tese, incumbente de arregimentar pessoas para figurarem nos processos de aquisição de armas de fogo, além de ser o responsável, em tese, pelo transporte das armas de fogo até a cidade de Belo Horizonte-MG, valendo-se para tanto de sua condição de policial militar da ativa.
+Após todos os acusados terem sido citados e apresentado respostas à acusação, foi proferida decisão de saneamento em 26/02/2024, designando audiência de instrução e julgamento para o dia 11/03/2024.
+Não obstante, compareceu aos autos, em 29/02/2024, a defesa de um dos acusados (RAFAEL TOFFOLO), postulando a redesignação da audiência marcada, a fim deque pudesse ter acesso a documentos que reputava necessários, em trâmite na Comarca de Itabira-MG.
+Em razão disso, sobreveio decisão deste Juízo, datada de 06/03/2024,cancelando a audiência designada, a fim de se evitar nulidade futura por cerceamento de defesa, e possibilitar a todos os acusados acesso à documentação referida.
+Cumpridas as diligências pendentes e juntada documentação requerida, foi designada audiência de instrução e julgamento, a qual foi realizada no dia 06/05/2024 com a oitiva das testemunhas da acusação e comuns aos acusados ANDRÉ, HARLEY, LUIZGUSTAVO, RAFAEL RODRIGUES e DENWESON, bem como para colheita das testemunhas do denunciado BRUNO ALVES, todas residentes nesta Comarca.
+Por fim, na presente data foi designada audiência em continuação para o dia25/06/2024, a fim colher os depoimentos das testemunhas exclusivas da defesa e interrogar os acusados.
+Esclareço que mesmo se tratando de processo complexo e com vários réus (13 acusados), muitos deles residentes em Comarcas diversas, o Juízo vem imprimindo celeridade ao feito, estando inclusive com data certa para o término da instrução.
+ ..  (fls. 374-376)
+A Corte local afastou o excesso de prazo assim:
+ ..
+Do excesso de prazo e da necessidade da revisão nonagesimal da prisão preventiva
+Inicialmente, afirma haver excesso de prazo, já que o paciente ultrapassou 150 dias recolhido à prisão, sem sequer ter sido oferecida denúncia.
+Contudo, razão não lhe assiste.
+Não obstante a alegação do impetrante é de se notar que o tempo para a configuração de excesso de prazo não se delimita aritmeticamente, visto que as peculiaridades de cada caso podem exigir diferentes análises e exames em cada momento processual.
+Ressalto que desde que se observem os princípios da proporcionalidade, da razoabilidade e a individualidade do processo, que envolve, dentre outros tópicos, sua complexidade, numerosidade de réus e procuradores, exigirá maior ou menor tempo em cada fase.
+No presente caso, a denúncia já foi oferecida, contando com 13 (treze) denunciados, incursos pelas práticas dos delitos previstos no artigo 17, da Lei 10.826/03,artigo288 do Código Penal, e art. 14 da lei 10.826/03. Ainda, como bem ressaltado pela magistrada atuante em primeiro grau, houve a representação legal da defesa de um dos coautores, requerendo a postergação da audiência de instrução e julgamento visando obter acesso a documentos importantes em andamento na Comarca de Itabira/MG, o que foi prontamente deferido pelo juízo primevo, cancelando a AIJ inicialmente designada para 11/03/2024 (doc. 15 fl.1).
+Acrescente-se, ainda, que o presente feito é complexo, envolvendo diversos réus e apuração de múltiplos delitos, sendo que os acusados possuem defensores diferentes e residem em comarcas diversas, sendo ainda necessária a expedição de carta precatória, o que efetivamente onera o tempo do processamento (doc. 15 fl. 2).
+Destarte, considerando a complexidade da causa, a pluralidade de denunciados e de crimes investigados e a atual fase em que se encontra o feito, já tendo sido oferecida denúncia e designada audiência de instrução e julgamento, associada à constante tramitação processual, não há que se falar em desídia do juízo que provoque excesso de prazo no tramite processual.
+ ..  (fls. 327-328)
+De início, cumpre registrar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Informam os autos que o "cumprimento do mandado  de prisão  se deu no dia 26/10/2023  .. , a denúncia foi recebida em 21/11/2023  .. , restou indeferido  pedido de revogação da preventiva  em decisão datada de 05/12/2023  .. , design ada  audiência de instrução e julgamento para o dia 11/03/2024", bem como "foi designada audiência de instrução e julgamento, a qual foi realizada no dia 06/05/2024  ..  e em continuação para o dia 25/06/2024, a fim colher os depoimentos das testemunhas exclusivas da defesa e interrogar os acusados".
+Além disso, as informações dão conta que, "em 29/02/2024, a defesa de um dos acusados (RAFAEL TOFFOLO), postul ou  a redesignação da audiência marcada, a fim deque pudesse ter acesso a documentos que reputava necessários, em trâmite na Comarca de Itabira-MG", motivo pelo qual "sobreveio decisão  do  Juízo, datada de 06/03/2024, cancelando a audiência designada, a fim de se evitar nulidade futura por cerceamento de defesa, e possibilitar a todos os acusados acesso à documentação referida".
+Por fim, concluiu que , "mesmo se tratando de processo complexo e com vários réus (13 acusados), muitos deles residentes em Comarcas diversas, o Juízo vem imprimindo celeridade ao feito, estando inclusive com data certa para o término da instrução".
+A Corte local entendeu que, "considerando a complexidade da causa, a pluralidade de denunciados e de crimes investigados e a atual fase em que se encontra o feito, já tendo sido oferecida denúncia e designada audiência de instrução e julgamento, associada à constante tramitação processual, não há que se falar em desídia do juízo que provoque excesso de prazo no tramite processual".
+Portanto, verificadas a compatibilidade da duração do processo com as particularidades do caso concreto e a diligência do Estado no processamento do feito, fica afastada, ao menos por ora, a alegação de excesso de prazo.
+À vista do exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
