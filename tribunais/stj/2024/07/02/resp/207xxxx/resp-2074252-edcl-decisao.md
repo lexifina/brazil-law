@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por INTERFOOD INDÚSTRIA E COMÉRCIO LTDA. mediante os quais impugna decisão de minha lavra, constante de e-STJ fls. 796/801, em que determinei "a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do RE 1.412.069 (Tema 1.255) pelo Supremo Tribunal Federal e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral" (e-STJ fls. 800/801).
+Sustenta a parte embargante a ocorrência de omissão e erro material na decisão embargada. Para tanto, aduz que (e-STJ fl. 808):
+(..) o único recurso remanescente pendente de análise perante esta Eg. Corte Superior é o primeiro Recurso Especial interposto pela Fazenda Nacional (e-STJ fls. 586-596), interposto contra o acórdão de fls. 503/508, integrado pelo acórdão de fls. 568/574, o qual objetiva, sob alegada violação do art. 1.022, do Código de Processo Civil (omissão), unicamente a declaração de nulidade do acórdão proferido pela 3ª Turma do Eg. TRF-5que manteve a r. sentença de 1º Grau, a qual condenou o ente fazendário a efetuar a compensação do débito tributário consolidado na transação fiscal nº 3566449, utilizando crédito administrativo existente em favor da INTERFOOD.
+Conclui-se, pois, que o acórdão embargado incorreu omissão/erro material, concessa venia, posto que, diante do decurso in albis do prazo recursal a decisão que inadmitiu o Recurso Especial e Recurso Extraordinário da Fazenda Nacional, a matéria relativa a fixação dos honorários sucumbenciais encontra-se transitado em julgado, razão pela qual não há necessidade de devolução dos autos ao Eg. Tribunal a quo e sobrestamento do feito.
+Sem impugnação (certidão à e-STJ fl. 818).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, há, de fato, vício na decisão embargada.
+Conforme bem anotado na petição dos presentes aclaratórios, o recurso especial fazendário de e-STJ fl. 706/725 não foi admitido, no Tribunal de origem, pela decisão de e-STJ fl. 773. Também não houve a interposição de agravo contra essa inadmissão (certidão à e-STJ fl. 790).
+Desse modo, o único recurso especial pendente de análise, neste STJ, é o de e-STJ fls. 586/596, admitido, no Tribunal de origem, pela mesma decisão de fl. 773, recurso especial que versa sobre questão estranha aos critérios de fixação dos honorários advocatícios de sucumbência.
+Descabida, assim, a determinação de baixa dos autos à segunda instância, para aguardar o julgamento do Tema 1.255/RG pelo STF.
+Ante o exposto, ACOLHO os embargos de declaração para tornar sem efeito a decisão embargada de e-STJ fls. 796/801.
+Publique-se. Intimem-se.
+EMENTA
