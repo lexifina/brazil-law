@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ BENEDITO GUERRA MAIA E OUTROS contra acórdão do Tribunal de Justiça de São Paulo, da seguinte forma ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. IMPUGNAÇÕES DO EXECUTADO. AUSÊNCIA DE EFEITO SUSPENSIVO. Decisão de primeiro grau que determinou se aguarde o julgamento definitivo do anterior recurso. Pretensão do exequente à reforma. Preliminar de ausência de interesse de agir suscitada pelos agravados. Inadmissibilidade. Pronunciamento judicial atacado que ostenta natureza decisória. Efetivo prejuízo à parte agravante que justifica o conhecimento do recurso. No mérito, com razão o apelante. Anteriores agravos de instrumento já julgados por esta C. 23ª Câmara de Direito Privado. Agravos que autorizaram o prosseguimento do cumprimento de sentença, tendo em vista a inexistência de atribuição de efeito suspensivo aos recursos perante os Tribunais Superiores. Ainda que não tenha havido o trânsito em julgado dos agravos de instrumento, é possível o prosseguimento dos atos executórios no cumprimento de sentença. A apreciação de impugnação não impede a prática dos atos executivos, inclusive os de expropriação (art. 525, § 6º, do CPC). Efeito suspensivo cuja concessão depende de razões relevantes e, em qualquer caso, não dispensa a penhora ou garantia do juízo por parte do executado. In casu, seja porque já houve decisões nos anteriores agravos a esse respeito permitindo o prosseguimento da execução, seja por que não houve garantia do juízo por parte do executado, não há se falar em atribuição de efeito suspensivo. Decisão reformada. Recurso provido.
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO. Inexistência dos vícios indicados no art. 1.022 do CPC. Erro material ou contradição inexistentes. Decisão clara na exposição de suas razões. Mero inconformismo. Efeitos infringentes. Caráter infringente do recurso que é cabível somente em situação excepcionalíssima; tal é caso da modificação que resulta, inarredavelmente, da superação do vício de omissão, obscuridade, contradição ou erro material da decisão embargada, não sendo este o caso dos autos. Acórdão mantido. Embargos rejeitados.
+Nas razões do presente recurso interposto com base no art. 105, III, a e c, da CF, alegou-se violação do art. 1.022, I e II, do CPC, ao argumento de omissão por parte do TJSP que, mesmo instado, não se pronunciou acerca do erro material suscitado, consubstanciado no fato de que o acórdão recorrido considerou que a decisão agravada seria uma, quando na verdade seria outra.
+Alegou-se, ainda, que a decisão agravada considerada não teria cunho decisório, eis que determinava, apenas, a observância de outra decisão, equivocadamente adotada como decisão agravada.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Da omissão no acórdão recorrido
+JOSÉ BENEDITO GUERRA MAIA E OUTROS alegou omissão por parte do TJSP que, mesmo instado, não se pronunciou acerca do erro material suscitado, consubstanciado no fato de que o acórdão recorrido considerou que a decisão agravada seria uma, quando na verdade seria outra.
+Alegou-se, ainda, que a decisão agravada considerada não teria cunho decisório, eis que determinava, apenas, a observância de outra decisão, equivocadamente adotada como decisão agravada.
+É o relatório.
+De fato, o TJSP mesmo instado, não se manifestou acerca das questões suscitadas nos embargos declaratórios , incorrendo, dessa forma, em omissão e negativa de prestação jurisdicional.
+Esclareça-se ser condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+A propósito, veja-se o seguinte precedente:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Nessas condições, DOU PROVIMENTO ao presente recurso especial e determino o retorno dos autos ao TJSP para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Prejudicada a análise das demais questões.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. QUESTÕES SUSCITADAS EM EMBARGOS DECLARATÓRIOS. NÃO ENFRENTAMENTO. OMISSÃO. CONFIGURAÇÃO. RETORNO DOS AUTOS PARA APRECIAÇÃO DOS PONTOS OMISSOS. RECURSO ESPECIAL PROVIDO.
