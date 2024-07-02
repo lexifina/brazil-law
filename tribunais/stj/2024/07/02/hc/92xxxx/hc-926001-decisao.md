@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Apelação Criminal. Tráfico de drogas (artigo 33, caput, da Lei 11.343/06). Sentença condenatória. Preliminares afastadas. Nulidades não verificadas. Pretensão à absolvição ou desclassificação do crime para porte de drogas visando o consumo próprio. Impossibilidade. Materialidade e autoria comprovadas. Credibilidade do relato dos investigadores de polícia. Depoimentos em harmonia com o conjunto probatório. Condenação mantida. Dosimetria. Necessário o recrudescimento da pena-base em razão das particularidades do caso concreto e dos maus antecedentes ostentados pelo réu. Mantida a compensação integral entre a circunstância agravante da reincidência e a atenuante da confissão espontânea por ausência de recurso Ministerial. Inaplicável o redutor de pena previsto no §4º do art. 33 da Lei de Drogas. Regime inicial fechado mantido. Recurso não provido.
+Segundo argumenta a impetrante, o paciente foi condenado à pena de 06 anos e 08 meses de reclusão pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06) por ter transportado 12 "tijolos" de maconha, com peso de 4.825 Kg.
+Ao realizar a dosimetria da pena, o Magistrado de primeira instância aumentou a pena-base em 1/3 por considerar negativa a quantidade da droga.
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, uma vez que o aumento de 1/3 pela quantidade de droga foi desproporcional.
+Ao final, requer a concessão da ordem para que a pena-base seja mantida no mínimo legal ou, no máximo, que seja aumentada de 1/6.
+É o relatório.
+Decido.
+O impetração não comporta conhecimento.
+Conforme se extrai dos autos, especificamente da sentença, o então paciente João Victor Dos Santos Pinheiro Neves foi absolvido da imputação do crime de tráfico de drogas.
+Assim afirmou o Magistrado de primeira instância:
+ .. . Noutro giro, quanto ao réu João Victor, as provas são insuficientes ao decreto condenatório, por faltar certeza quanto à tipicidade e autoria do crime.
+João Victor, em todas as vezes que foi ouvido, negou ter adquirido o entorpecente de Braian.
+Em que pese o réu João Victor ter sido abordado em situação extremamente suspeita já que conversava com pessoa que transportava grande quantia de drogas, aliada às informações de que ele estaria traficando -, inexistem nos autos provas de que o réu tenha praticado qualquer verbo nuclear do tipo descrito no art. 33 da LD.
+Os policiais Eduardo e Vagner não presenciaram Braian entregando a mochila com entorpecente a João Victor. Também nada de ilícito fora encontrado no veículo do réu.
+Ademais, eventual ajuste ou aquisição da droga por parte de João Victor poderia ter sido demonstrada pela extração de conversas via celular. Todavia os laudos periciais de p. 297/302 e 303/306 foram inconclusivos quanto ao conteúdo dos aparelhos apreendidos com os réus.
+Logo, como o crime traz sérias consequências na vida de qualquer pessoa, sem que haja uma prova concreta e induvidosa, não há sustentação à condenação. O Direito Penal não opera com meras conjecturas, suposições ou ilações e se a prova produzida pela acusação não foi suficiente para confirmar os fatos descritos na denúncia, a absolvição do réu é medida que se impõe, em atenção ao princípio do in dubio pro reo..
+Ante o exposto, julgo procedente em parte o pedido e: a) absolvo JOÃO VICTOR DOS SANTOS PINHEIRO NEVES (filho de Miguel Pinheiro Neves e Leisli Denise dos Santos, nascido em 15/01/2000, natural de São José do Rio Preto - SP, RG 58548447) da imputação contida na denúncia (artigo 33,"caput", da Lei de Drogas c.c. o artigo 29 do Código Penal), com fundamento no artigo386, inciso VII, do Código de Processo Penal  ..  (e-STJ fls. 359-361).
+Observa-se ainda do acórdão que somente Brian interpôs recurso de apelação, mas não o Ministério Público:
+ .. . Trata-se de recurso de apelação interposto por Braian Crespilho Bosco contra a r. sentença (fls. 344/353) que julgou parcialmente procedente a ação penal para condená-lo, como incurso no art. 33, "caput", da Lei no 11.343/06, ao cumprimento da pena privativa de liberdade de 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e 666 (seiscentos e sessenta e seis) dias-multa, no mínimo legal, bem como para absolver o corréu João Victor dos Santos Pinheiro Neves da prática do crime que lhe foi imputado, com fundamento no artigo 386,inciso VII, do Código de Processo Penal.. O corréu, João Victor dos Santos Pinheiro Neves, a seu turno, não interpôs recurso de apelação contra a r. sentença, que transitou em julgado para o acusado, conforme certidão de fls. 383.  ..  (e-STJ fls. 442-443 - grifos acrescidos).
+Sendo assim, na medida em que o paciente indicado pela impetrante foi absolvido e a sentença absolutória transitou em julgado, não há qualquer ameaça ou sofrimento de coação ou violência à sua liberdade capaz de ensejar a impetração de habeas corpus, nos termos do art. 5º, inc. LXVIII, da CF e art. 647 do CPP.
+Pelo exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
