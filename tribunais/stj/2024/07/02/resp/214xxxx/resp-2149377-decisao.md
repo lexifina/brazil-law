@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial, interposto por FAZENDA NACIONAL, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+PROCESSUAL CIVIL. CANCELAMENTO DA DISTRIBUIÇÃO. INDEFERIMENTO DA GRATUIDADE JUDICIÁRIA. INÉRCIA DA PARTE. AUSÊNCIA DE DECISÃO-SURPRESA. CONDENAÇÃO NAS VERBAS DA SUCUMBÊNCIA. IMPOSSIBILIDADE.
+1. Cuida-se de apelação interposta por Ivete Moura da Fonte em face de sentença prolatada pelo Juízo da 12ª Vara Federal da Seccional pernambucana, a qual determinou o cancelamento da distribuição por falta de recolhimento das custas iniciais, impondo-lhe o pagamento de custas decorrentes da sucumbência.
+2. Sustenta a recorrente, em síntese, que: i) não foi intimada para recolher as custas; e ii) não se mostra cabível a condenação em custas e honorários sucumbenciais na hipótese em comento.
+3. Diferentemente do que alega a insurgente, foi prolatada a decisão ID 4058300.20940547, a qual expressamente indeferiu o pedido de gratuidade judiciária de forma fundamentada (=elevada renda da recorrente). Dessa decisão, em que pese intimada, não se insurgiu contra ela ou recolheu as custas devidas (certidão ID 4058300.26725900), de modo que não há decisão-surpresa quanto ao cancelamento da distribuição decorrente da falta de recolhimento do tributo devido.
+4. "A extinção do processo sem resolução do mérito com fundamento nos arts. 290 e 485, IV, do CPC/15, em virtude do não recolhimento das custas iniciais, não implica a condenação do autor ao pagamento dos ônus sucumbenciais, ainda que, por error in procedendo, haja sido determinada a oitiva da contraparte" (STJ, REsp 2.053.571, rel. Min. Nancy Andrighi, 3ª T., j. em 16.05.2023).
+5. Parcial provimento do apelo, exclusivamente para afastar a condenação nas verbas decorrentes da sucumbência. (fls. 183)
+O acórdão em questão foi objeto de embargos de declaração (fl. 192/194), o qual não foi acolhido. (fls. 207/209)
+Nas razões do recurso especial, interposto com base no art. 105, III, a da Constituição Federal, a parte ora recorrente aponta violação aos arts. 290, 485, IV e 486, § 2º e 1.022, II do CPC/2015, sustentando, em síntese: (a) a ocorrência de omissão no acórdão recorrido; e, (b) "(..) são devidos honorários e pagamento de custas no caso de extinção da ação sem resolução do mérito, sobretudo quando, como no caso, houve citação e apresentação de contestação".
+Contrarrazões apresentadas (fls. 330/331), o recurso especial foi admitido pelo Tribunal de origem (fls. 239/250).
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+O Tribunal de origem dirimiu a controvérsia acerca do não cabimento dos ônus sucumbenciais com lastro nos seguintes argumentos:
+No entanto, não se mostra possível a condenação nas verbas decorrentes da sucumbência, pois o STJ compreende que " a  extinção do processo sem resolução do mérito com fundamento nos arts. 290 e 485, IV, do CPC/15, em virtude do não recolhimento das custas iniciais, não implica a condenação do autor ao pagamento dos ônus sucumbenciais, ainda que, por error in procedendo, haja sido determinada a oitiva da contraparte" (REsp 2.053.571, rel. Min. Nancy Andrighi, 3ª T., j. em 16.05.2023). (fl. 182)
+Com efeito, o Tribunal de origem adotou posicionamento que está em consonância com a orientação desta Corte Superior.
+Nessa linha de entendimento:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. O entendimento do Tribunal de origem está em conformidade com a jurisprudência desta Corte Superior no sentido de que a extinção do processo sem resolução do mérito com fundamento nos arts. 290 e 485, IV, do CPC/15, em virtude do não recolhimento das custas iniciais, não implica a condenação do autor ao pagamento dos ônus sucumbenciais. Precedentes.
+2. Agravo interno desprovido. (AgInt nos EDcl no AREsp 2.411.943/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe 25/04/2024 - grifo nosso)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDEFERIMENTO DA INICIAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS INICIAIS. CONDENAÇÃO DA AUTORA. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte de Justiça possui a orientação no sentido que "a extinção do processo sem resolução do mérito com fundamento nos arts. 290 e 485, IV, do CPC/15, em virtude do não recolhimento das custas iniciais, não implica a condenação do autor ao pagamento dos ônus sucumbenciais, ainda que, por error in procedendo, haja sido determinada a oitiva da contraparte" (REsp n. 2.053.571/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/5/2023, DJe de 25/5/2023).
+2. Agravo interno improvido. (AgInt no REsp 2.078.271/MG, relator Ministro Marco Aurélio Bellize, Terceira Turma, DJe 06/12/2023 - grifo nosso).
+Isso posto, conheço do recurso especial e nego-lhe provimento.
+Intime-se.
+EMENTA
