@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CINI RA GOMES LIMA MELO contra decisão exarada pela il. Presidência da Seção de Direto Privado do eg. Tribunal de Justiça de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional, contra v. acórdão assim ementado (fls. 378-379):
+"Ação de indenização por danos morais. Sentença de procedência. Apelação interposta pela requerida. Ofensas dirigidas à autora, publicadas na rede social da requerida. Publicações de cunho vexatório, intimidatório e sarcástico, que violaram a honra da autora, nos aspectos subjetivo e objetivo, além da sua imagem pessoal e profissional. Atribuição de apelidos à autora que não é suficiente a isentara responsabilidade da ré, diante do fornecimento de outros dados que possibilitavam a sua identificação. Fato de que as publicações foram feitas em aba de acesso restrito que, pelas peculiaridades do caso concreto, também não exime a responsabilização da ré, embora deva influir na fixação do "quantum" indenizatório.
+Redução do "quantum" indenizatório para R$5.000,00 (cinco mil reais), de acordo com os princípios da proporcionalidade e razoabilidade, contemplados no art. 944 do CC. Pretensão de redistribuição do ônus sucumbencial. Impossibilidade. "Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca." (Súmula nº 326 do Superior Tribunal de Justiça).
+Sentença, em parte, reformada.
+Recurso parcialmente provido."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 401-405).
+Nas razões do apelo nobre (fls. 407-425), CINARA GOMES LIMA MELO aponta, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC/15, afirmando que o eg. TJ-SP não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, indica violação ao art. 944 do Código Civil, ao argumento, entre outros, de que "(..) a minoração da indenização para o importe de R$ 5.000,00 (Cinco mil reais) não se mostra proporcional ao abalo psicológico sofrido pela Recorrente e a condição financeira da Recorrida, além de ser insuficiente para punir e desencorajá-la a cometer tais atos ilícitos, que, como restou comprovado, não são casos isolados e vitimam marcas e pessoas" (fls. 418).
+Alega, também, que "(..) embora a Recorrida não faça menção explícita ao nome da Recorrente, os apelidos pejorativamente utilizados ("Cini", "Cininha", em alusão ao seu nome "Cinira"), bem como a referência profissional (advogada), consubstanciam conjunto de dados que permite, sim, a identificação, ainda que o nome da Recorrente não tenha sido integralmente utilizado. E embora o r. acórdão tenha reconhecido tais circunstâncias, ainda assim manteve o acórdão que reduziu o valor da indenização, sob o argumento de que as ofensas perpetradas contra a Recorrente foram publicadas em aba restrita da rede social Instagram" (fls. 418-419).
+Afirma, ainda, que "(..) uma vez que os critérios de razoabilidade, proporcionalidade, condição econômica e social das partes, extensão do dano e o caráter punitivo e pedagógico não foram consideradas para fixação do valor da indenização, r esta incontroversa a violação ao artigo 944 do Código Civil" (fls. 422)
+Intimada, JESSICA BELENDA DA COSTA apresentou contrarrazões (fls. 430-444), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 445-447), motivando o agravo em recurso especial (fls. 450-466) em testilha.
+Também foi oferecida contraminuta (fls. 469-483), pelo desprovimento do agravo.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação aos arts. 489 e 1.022 do CPC/15, uma vez que o eg. TJ-SP analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. DANOS MORAIS. FALHA NA PRESTAÇÃO DO SERVIÇO DE ENERGIA ELÉTRICA. INCÊNDIO. LAVOURA. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.431.599/RJ, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024. g. n.)
+"PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS C/C LUCOS CESSANTES. ACIDENTE DE TRÂNSITO. EMBARGOS DE DECLARAÇÃO. VÍCIOS NO JULGAMENTO. PRESTAÇÃO JURISDICIONAL COMPLETA. ILEGITIMIDADE PASSIVA. FORMAÇÃO DE LITISCONSÓRCIO. SEMIRREBOQUE. SOLIDARIEDADE. COISA JULGADA. ALCANCE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 7 E 83/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil.
+(..)
+4. Agravo interno a que nega provimento."
+(AgInt no AREsp n. 2.216.543/PR, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024 - g. n.)
+Avançando, melhor sorte não socorre ao recurso, quando à alegada violação ao art. 944 do Código Civil.
+No caso, o eg. TJ-SP, reformando sentença (vide fls. 265), reduziu de R$15.000,00 (quinze mil reais) para R$ 5.000,00 (cinco mil reais) o montante da indenização a título de danos morais a que foi condenada a ora Agravada a pagar à ora Agravante, em decorrência de postagem em determinada rede social. A título elucidativo transcreve-se o seguinte trecho do v. acórdão estadual (fls. 915-919):
+"Compulsando os autos, verifica-se que a apelada é advogada e patrocinou ação judicial proposta em desfavor da requerida por uma de suas clientes, também com pleito indenizatório por ofensas publicadas na aludida rede socia (processo nº 1000117-33.2021.8.26.0100). Vale mencionar que, embora as questões concernentes àquela lide não são objetos desta ação, o fato ganha importância no contexto das publicações da recorrente.
+(..)
+Aliás, na situação em tela verifica-se que, mesmo que proferidas entre particulares, as ofensas de cunho intimidatório e jocoso prolatadas pela apelante, na situação específica dos autos, ainda assim ensejariam a sua responsabilização.
+(..)
+A bem da verdade, as ofensas foram tantas e tamanhas a tornar dificultosa a tarefa de transcrevê-las integralmente nesta ocasião. Basta, todavia, que se analise os vídeos e documentos que instruem a petição inicial para se inferir, com facilidade, o tom sarcástico, hostil e danoso do conteúdo publicado pela recorrente em desfavor da recorrida.
+Percebe-se, com certa tranquilidade, que a apelante não mediu filtros ao se referir à apelada perante seus seguidores, proferindo ofensas que muito ultrapassam o direito à liberdade de expressão e comunicação, por entender que o ambiente do "close friends" repise-se, aberto ao público pagante - estaria isento de qualquer repreensão judicial.
+Os atos ilícitos restaram bem configurados, diante das robustas provas colacionadas nos autos que dão conta das publicações ofensivas direcionadas à apelada. Igualmente, os danos morais são evidentes.
+A honra, em ambos os aspectos subjetivo e objetivo, da apelada foi abalada pelos xingamentos de cunho intimidatórios proferidos pela apelante (e.g. afirmando que conhecia o endereço dela, que ela estaria lidando com uma "youtuber"). O nome e a imagem, igualmente, na medida em que foram atribuídos apelidos vexatórios à apelada e veiculada parte da sua fotografia de inscrição do sítio da Ordem dos Advogados do Brasil.
+(..)
+Apesar disso, prospera o pedido de redução do quantum indenizatório fixado na r. sentença ora guerreada.
+O quantum indenizatório a ser arbitrado a fim de reparar danos de natureza extrapatrimonial deve obedecer aos princípios da proporcionalidade e razoabilidade, mediante o sopesamento da gravidade da conduta, a extensão dos danos causado, as condições econômicas das partes envolvidas e as circunstâncias fáticas que envolvem o evento danoso, assegurando-se que a ofensora não reitere o ato ilícito praticado sem, todavia, causar enriquecimento ilícito à ofendida.
+Reputa-se, assim, mais adequada a redução do valor arbitrado para reparação dos danos morais para R$ 5.000,00 (cinco mil reais), de acordo com a extensão do dano à honra objetiva causado à apelada (artigo 944 do Código Civil). A redução do quantum fixado se impõe, na medida em que não restou comprovado que o conteúdo ofensivo alcançou grande número de pessoas, além do fato de que o nome da apelada não fora integralmente utilizado, dificultando mas não impossibilitando - a sua identificação."
+(g. n.)
+Como sabido, a remansosa jurisprudência desta eg. Corte, a pretensão de revisar o valor da indenização a título de danos morais, via de regra, encontra óbice na Súmula n. 7/STJ; no entanto, afasta-se o referido óbice em hipóteses excepcionais, quando for verificada a natureza exorbitante ou irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido, destacam-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MORAIS E ESTÉTICOS. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. O valor fixado a título de indenização por danos extrapatrimonias só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+5. O STJ firmou entendimento de ser incabível a análise do valor de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.991.707/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, QUARTA TURMA, JULGADO EM 23/5/2 Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. IMPOSSIBILIDADE.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido atendendo às circunstâncias de fato da causa adequadamente ponderadas, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.903.343/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - g. n.)
+No caso, o quantum arbitrado a título de indenização por de danos morais - R$ 5.000,00 (cinco mil reais) - não se mostra irrisório e atende aos princípios da razoabilidade e da proporcionalidade, uma vez que compatível a valores referendados nesta eg. Corte para casos assemelhados. A propósito, confiram-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. CERCEAMENTO DE DEFESA. NÃO VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. POSTAGEM EM REDE SOCIAL. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+(..)
+5. A revisão pelo STJ da indenização arbitrada a título de danos morais e de danos estéticos exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.158.654/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023 - g. n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OFENSAS PRATICADAS POR MEIO DE REDE SOCIAL. DANO MORAL CONFIGURADO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. AGRAVO DESPROVIDO.
+1. O Tribunal estadual consignou que as imputações feitas pelo recorrente ao recorrido transcenderam o debate civilizado e a crítica aceitável, e adentraram a seara das palavras de baixo calão e xingamentos gratuitos, além da atribuição de práticas criminosas, causando-lhe danos morais. Entendeu que a situação ganhou enorme proporção, com repercussão estadual, gerando danos extrapatrimoniais à imagem do recorrido.
+2. A modificação do entendimento lançado no v. acórdão recorrido, no que tange à existência de danos morais na espécie, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Somente é admissível o reexame do valor fixado a título de danos morais quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+4. No caso, não se mostra excessivo, a justificar sua reavaliação em recurso especial, o montante estabelecido pelo Tribunal de origem em R$5.000,00 (cinco mil reais), visto não ser exorbitante nem desproporcional aos danos sofridos pela parte recorrida.
+5. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 1.889.035/TO, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 20/6/2022, DJe de 30/6/2022 - g. n.)
+Assim sendo, inexistindo a referida excepcionalidade, o apelo nobre encontra óbice na Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b", do RI-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
