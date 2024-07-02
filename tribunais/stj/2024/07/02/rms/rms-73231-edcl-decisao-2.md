@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, embargos de declaração opostos pelo ESTADO DO PARANÁ contra a decisão que deferiu a antecipação da tutela recursal no recurso em mandado de segurança.
+A parte embargante sustenta ser omisso o acórdão quanto ao fato de ter o mandado de segurança perdido o objeto, uma vez que "a Resolução 2/2019 foi expressamente revogada pela Resolução n.º 4.639/2019 - GS/SEED" (art. 80) e, ainda, à coisa julgada formada no incidente de resolução de demandas repetitivas 0048734-34.2018.8.16.0000.
+Apresentadas contrarrazões (fls. 726-731).
+É o relatório.
+Passo a decidir.
+Conheço dos embargos, porquanto presentes os pressupostos de admissibilidade.
+Conforme se depreende do art. 1.022 do CPC, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata na decisão ora embargada o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Em que pese a Resolução objeto do mandado de segurança ser exclusivamente aplicada no ano de 2019, o writ foi interposto contra seus efeitos que perduram em vista das reiteradas resoluções formuladas ano a ano, em repetição idêntica do disposto no mencionado art. 10, sobre a carga horária dos professores. Assim, não houve a perda superveniente do objeto, sobretudo diante da determinação de aplicação das Leis Complementares 103/2004 e 174/2014, conforme pedido elaborado na petição inicial.
+Quanto ao decidido no IRDR, tampouco se verifica pertinência na alegação de omissão. Ainda que a decisão embargada não tenha tratado a alegação de coisa julgada, porque é decisão de natureza precária, a tratar a urgência e probabilidade do direito em questão, não merece necessária integração quanto ao ponto, porque "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" e "possui o dever de enfrentar apenas as questões capazes de infirmar (enfraquecer) a conclusão adotada na decisão recorrida" (STJ. 1ª Seção. EDcl no MS 21.315/DF, Rel. Minª. Desembargadora Convocada Diva Malerbi, julgado em 8/6/2016).
+Ademais, o mérito do incidente tratou da diferença entre "horas-relógio" e "horas-aula" para compor a jornada semanal dos professores, enquanto aqui se verifica ilegalidade na resolução, tanto material quanto formal, por dispor sobre carga horária dos professores estaduais.
+Com efeito, foram expostos de forma clara os motivos pelos quais o recurso ordinário deveria ser improvido, de forma a combater o argumentado inicialmente.
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decida, incoformando-se contra o desprovimento do seu recurso, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
