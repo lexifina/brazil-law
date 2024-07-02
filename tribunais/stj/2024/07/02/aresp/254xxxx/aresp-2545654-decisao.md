@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por JOYCE SILVA DE MACEDO ARAÚJO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, a qual inadmitiu o recurso especial por incidência das Súmulas n. 7/STJ e n. 284/STF.
+Em suas razões, a parte agravante sustenta que não incide o óbice da Súmula n. 7/STJ ao argumento de que não seria o caso de reexame de provas, e, sim, de revaloração da moldura fática delineada no julgado recorrido.
+Defende, ainda, que não há nenhuma eficiência que dificulte a exata compreensão da pretensão recursal.
+Requer o provimento do agravo para que seja admitido e provido o recurso especial.
+Parecer do Ministério Público Federal exarado às e-STJ fls. 645-649.
+É o relatório.
+DECIDO.
+O cotejo entre a decisão de inadmissibilidade e as razões do presente agravo revela a ausência de impugnação específica a um dos fundamentos adotados para inadmissão do recurso especial, qual seja, a Súmula n. 284/STF.
+No que diz respeito à violação do artigo 304 do Código Penal, o conhecimento do recurso especial encontra óbice evidente, pois o dispositivo apontado como violado ostenta comando genérico, insuficiente para infirmar as conclusões do Tribunal de origem.
+Efetivamente, para a delimitação da controvérsia, impõe-se que a parte recorrente indique nas razões do recurso especial, expressa e literalmente, qual o dispositivo da lei federal reputa contrariado ou cuja vigência teria sido negada pelo acórdão recorrido.
+O descumprimento de tal ônus, como ocorre nos autos, evidencia deficiência de fundamentação e atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal. Sob esse norte: AgRg nos EDcl no AREsp 1974129/PI, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/4/2024, DJe de 11/4/2024; AgRg no AREsp 1909323/GO, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/4/2024, DJe de 11/4/2024, e AgRg no AREsp 2450066/PR, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.
+Quanto ao tema, a Corte Especial do Superior Tribunal de Justiça pacificou orientação de que a
+falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023, e AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Cito, nesse sentido, os seguintes acórdãos:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERESTADUAL E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE NULIDADE DAS ESCUTAS TELEFÔNICAS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE INTIMAÇÃO DO DEFENSOR CONSTITUÍDO PARA APRESENTAÇÃO DA DEFESA PRÉVIA. INCIDÊNCIA DA SÚMULA 283/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. ART. 185, § 5º, DO CPP. NULIDADE NÃO CONFIGURADA. ADOÇÃO DO PROCEDIMENTO ESPECIAL PRÓPRIO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. PRECEDENTES. PEDIDO DE ABSOLVIÇÃO E DE AFASTAMENTO DA CONDENAÇÃO PELO CRIME PREVISTO NO ART. 35 DA LEI DE DROGAS. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. CAUSA DE AUMENTO. ART. 40, V, DA LEI N. 11.343/2006. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Revela-se deficiente o recurso especial quando a parte deixa de indicar o dispositivo de lei federal tido por contrariado pelo Tribunal de origem, fazendo incidir a Súmula 284/STF.
+2. A ausência de impugnação específica de fundamento autônomo adotado pela decisão agravada atrai a incidência do óbice previsto na Súmula 182/STJ. No caso, os agravantes não combateram a aplicação das Súmulas 283/STF e 7/STJ.
+3. Na linha da Jurisprudência desta Corte Superior, a ordem dos atos processuais, para a apuração de crimes relacionados ao tráfico de drogas, observa o regramento específico estabelecido no art. 57 da Lei n. 11.343/2006, e não o estatuto geral do Código de Processo Penal, sendo legítimo o interrogatório do réu antes da oitiva das testemunhas e da prova pericial. Inúmeros precedentes.
+4. Não sendo aptos os argumentos trazidos na insurgência para desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 1.019.435/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/2/2017, DJe de 2/3/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. TESE DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA INOCORRENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de indicação, clara e precisa, dos dispositivos infraconstitucionais que teriam sido violados impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula 284 do STF.
+2. Ainda que superado o mencionado óbice, a tese recursal de ocorrência da prescrição da pretensão punitiva não merece prosperar, pois, como fundamentado no acórdão, o processo ficou suspenso em razão da não localização do réu e de sua citação por edital, entre 7/5/2020 e 7/5/2022, data em que foi retomado o curso processual.
+3. A orientação jurisprudencial desta Corte é de que o prazo máximo de suspensão do curso do processo e do prazo prescricional é regulado pelo máximo da pena cominada ao delito (art. 366 do Código de Processo Penal) sendo, no caso, de quatro anos o prazo prescricional (art.109, V, do Código Penal), reduzido pela metade diante da menoridade do recorrente na data dos fatos (art. 115 do Código de Processo Penal).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.482.535/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
