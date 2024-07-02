@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE GOMES contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 70):
+AGRAVO DE INSTRUMENTO. VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL FEDERAL CÍVEL.
+1. Agravo não conhecido quanto à alegação de incompetência da Justiça Federal.
+2. A competência do Juizado Especial Federal é absoluta, relativamente ao valor da causa. Nem a complexidade da causa, nem a eventual necessidade de prova pericial, justificam excluir a competência do Juizado Especial pelo processamento do feito.
+3. Agravo de instrumento parcialmente conhecido e improvido.
+Embargos de declaração parcialmente providos, apenas para fins de prequestionamento (e-STJ fls. 102/103).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 3º da Lei n. 10.259/2001 e defende a incompetência da Justiça Federal e do Juizado Especial Federal.
+Contrarrazões às e-STJ fls. 143/161.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+No tocante à incompetência da Justiça Federal, observa-se que não houve a particularização de qualquer dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido. Incide nesse aspecto a Súmula 284 do STF.
+Quanto ao art. 3º da Lei n. 10.259/2001, o recorrente alega que, "no caso, em tela, por óbvio, que dividir o valor da causa pelo número do litisconsórcio não reflete o verdadeiro valor econômico, uma vez que, repita-se, o valor da causa era uma mera presunção de valores" e que "a presente demanda trata de direito coletivo, situação, essa que não é incluída na competência do Juizado Especial Federal" (e-STJ fls. 128/130).
+Contudo, o Tribunal de origem apenas esclareceu que, "atribuído à causa o valor de R$ 10.000,00, não vislumbro quaisquer das exceções previstas no art. 3º, parágrafo 1º, III, da Lei 10.259/01, que excluem a competência do Juizado Especial" (e-STJ fl. 75).
+Como se vê, as alegações apresentadas pelo recorrente não foram analisadas pelo Tribunal de origem, embora suscitadas nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide, na espécie, o óbice da Súmula 211 do STJ.
+Destaca-se,  ainda,  que  "o  STJ  não  considera  suficiente,  para  fins  de  prequestionamento,  que  a  matéria  tenha  sido  suscitada  pelas  partes,  mas  sim  que  a  respeito  tenha  havido  debate  no  acórdão  recorrido,  mesmo  as  matérias  de  ordem  pública"  (AgInt  no  REsp  1625626/RN,  Rel.  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  02/05/2017).
+Esclarece-se,  também,  que  não  há  incompatibilidade  entre  a  inexistência  de  ofensa  ao  art.  1.022  do  CPC/2015  e  a  ausência  de  prequestionamento,  com  a  incidência  do  enunciado  n.  211  da  Súmula  do  STJ  quanto  às  teses  invocadas  pela  parte  recorrente,  que,  entretanto,  não  são  debatidas  pelo  Tribunal  local,  por  entender  suficientes  para  a  solução  da  controvérsia  outros  argumentos  utilizados  pelo  colegiado.  Nesse  sentido:  AgInt  no  REsp  1.795.385/PR,  Rel.  Ministro  Francisco  Falcão,  Segunda  Turma,  julgado  em  12/04/2021,  DJe  15/04/2021,  AgInt  no  REsp  n.  1.520.767/CE,  de  Minha  relatoria,  Primeira  Turma,  julgado  em  8/9/2021,  DJe  de  14/9/2021,  AgInt  no  AREsp  n.  1.234.093/RJ,  relator  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  24/4/2018,  DJe  3/5/2018,  AgInt  no  AREsp  n.  1.173.531/SP,  relator  Ministro  Francisco  Falcão,  Segunda  Turma,  julgado  em  20/3/2018,  DJe  26/3/2018.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
