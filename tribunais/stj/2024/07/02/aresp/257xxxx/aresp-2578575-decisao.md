@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO ANULATÓRIA DE ACORDO JUDICIAL. AUSENTE VÍCIO DE CONSENTIMENTO.
+I. O NEGÓCIO JURÍDICO É ANULÁVEL QUANDO A DECLARAÇÃO DE VONTADE EMANAR DE ERRO SUBSTANCIAL, CONSOANTE DISPOSTO NOS ARTS. 171, II E 138, DO CÓDIGO CIVIL.
+II. NA HIPÓTESE, NÃO HÁ IRREGULARIDADE NA PROCURAÇÃO CONCEDIDA AO ADVOGADO QUE CELEBROU O ACORDO, NEM INDÍCIOS DE SIMULAÇÃO POR PARTE DA INSTITUIÇÃO FINANCEIRA. APELAÇÃO CÍVEL DESPROVIDA. UNÂNIME"
+Opostos embargos de declaração, foram rejeitados.
+A parte, em seu recurso especial, aponta, além de divergência jurisprudencial, violação aos arts. 167, 171, inciso II, 187, e 966, § 4º, do Código Civil e arts. 39, inciso V, e 51, inciso IV, do Código de Defesa do Consumidor, sustentando que, no caso, a preposta, mediante ato ilícito, convenceu a consumidora a contratar empréstimo com juros superiores à taxa média de mercado.
+Contrarrazões às fls. 300/303 e-STJ.
+Juízo de admissibilidade proferido às fls. 307/310 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, verifica-se que a controvérsia acerca da abusividade dos juros do contrato não foi prequestionada na instância de origem, de modo que incidem as Súmulas 282 e 356, ambas do STF.
+No tocante à declaração de vontade de consumidores, o Tribunal de origem ao apreciar a controvérsia manifestou expressamente a presença de instrumento de mandato com poderes específicos aptos a caracterizar a regularidade do processo, vejamos:
+"No caso concreto, pretende a parte autora, mediante o ajuizamento da ação em voga, o reconhecimento de abusividade relativa ao acordo judicial firmado com a instituição financeira apelada, sob o argumento de que o seu procurador anterior pactuou negócio jurídico que lhe foi desfavorável.
+Convém salientar, desde já, que a tese da apelante se apoia sobre dois argumentos aparentemente contraditórios. Por um lado, sustenta que não autorizou o procurador anterior a ajuizar a ação revisional; por outro lado, argumenta que a instituição financeira a induziu ao erro, aproveitando-se da falta de conhecimento jurídico da cliente, que no momento da assinatura estaria desacompanhada de advogado. Vale dizer: ou o procurador celebrou o acordo à revelia da autora, ou bem esta assinou o negócio jurídico sem a participação do advogado. Não se vislumbra como essas duas hipóteses possam coexistir.
+Quanto ao argumento de que o antigo procurador ajuizou a ação sem a sua autorização, é flagrante a ilegitimidade passiva da ora apelada, a qual não é responsável por eventual fraude praticada pelo antigo mandatário. De resto, não se verifica na procuração juntada ao processo originário qualquer irregularidade, uma vez que contém a assinatura da ora apelante, com firma reconhecida em cartório. Veja-se (processo 5092006-44.2021.8.21.0001/RS, evento 1, DOC8):
+(..)
+Nessa senda, o Código Civil prevê, no inciso II, de seu art. 171, situações em que há vício no consentimento manifestado por uma das partes, decorrente de "(..) erro, dolo, coação, estado de perigo, lesão ou fraude contra credores", o que torna o negócio jurídico passível de anulação.
+Ainda, dispõe o art. 138, do diploma Civil, que "são anuláveis os negócios jurídicos, quando as declarações de vontade emanarem de erro substancial que poderia ser percebido por pessoa de diligência normal, em face das circunstâncias do negócio".
+Igualmente, salientem-se as disposições do CPC acerca do ônus da prova. Como ensina Cândido Dinamarco (in Instituições de Direito Processual Civil. Vol. III. 4ª ed. São Paulo: Malheiros, 2004. p.71), ônus é o encargo que se atribui a um sujeito para demonstração de determinadas alegações de fato. No nosso sistema processual civil, assim como o fato não alegado não pode ser levado em consideração no processo, o fato alegado, mas não demonstrado, será tido como inexistente. Disto decorre o interesse que as partes têm em realizar os atos processuais. Não cumpre falar em dever, porquanto este pressupõe uma sanção em caso de descumprimento.
+A disposição do ônus da prova é dirigida as partes, como forma de orientá-las em qual sentido devem se comportar, à luz das expectativas que o processo lhes enseja, e a consequência de seu não cumprimento é estritamente processual, podendo gerar desvantagem à parte que não o atendeu.
+Na hipótese dos autos, contudo, entendo não ter restado caracterizado qualquer vício na manifestação de vontade da demandante, que é plenamente capaz. Quanto ao argumento de que a instituição financeira a induziu ao erro, explorando suposta falta de acompanhamento jurídico, também não assiste razão à autora. Nota-se que foi o procurador HAROLDO REBOUCAS FERNANDES que protocolou nos autos o acordo firmado com a instituição financeira (processo 5092006-44.2021.8.21.0001/RS, evento 17, DOC1), não sendo possível sustentar-se que ele ignorasse os termos do negócio jurídico.
+Sendo válido o acordo, resta prejudicado o pedido de ação revisional, bem como a indenização por danos materiais contra a instituição financeira"
+Dessa forma, verifica-se que a pretensão de alterar-se a conclusão acima transcrita esbarra no óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
