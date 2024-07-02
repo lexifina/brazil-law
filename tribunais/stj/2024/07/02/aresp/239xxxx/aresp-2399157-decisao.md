@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual o INSTITUTO NACIONAL DO SEGURO SOCIAL insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO  assim  ementado (fl. 369):
+PREVIDENCIÁRIO. PENSÃO POR MORTE, FILHO INVÁLIDO. DECISÃO MONOCRÁTICA. AGRAVO INTERNO DO INSS. MANUTENÇÃO DOJULGADO AGRAVADO. AGRAVO DESPROVIDO.
+- Inviabilidade do agravo interno quando constatada, de plano, a improcedência da pretensão recursal, mantidos os fundamentos de fato e de direito do julgamento monocrático, que bem aplicou o direito à espécie.
+- Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 394/401).
+Nas razões do seu recurso especial, a parte agravante sustenta violação dos arts. 11, 489, II, § 1º, e IV, 1.022, I e II, e 1.026, § 2º, do Código de Processo Civil (CPC) e dos arts. 16, I e § 4º, e 77, § 2º, II, da Lei 8.213/1991.
+Argumenta, para tanto: (a) negativa de prestação jurisdicional; (b) a parte autora não tinha qualidade de dependente quando do óbito do segurado falecido, portanto não faz jus ao benefício pretendido; e (c) afastamento da multa imposta no julgamento dos embargos de declaração.
+Contrarrazões recursais às fls. 431/435.
+Sobreveio  o  juízo  de  admissibilidade  negativo  (fls.  520/523),  razão  pela  qual  se  interpôs  o  agravo  em  recurso  especial  ora  em  análise.
+É  o  relatório.
+Inexiste a alegada negativa de prestação jurisdicional, que foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No mérito, cinge-se a controvérsia à concessão do benefício previdenciário de pensão por morte a filho maior inválido.
+Segundo entendimento do Superior Tribunal de Justiça (STJ), o filho inválido tem direito à pensão independentemente da idade em que ocorreu a invalidez, sendo necessária somente a comprovação de que a invalidez seja anterior ao óbito da pessoa instituidora do benefício. A comprovação da dependência econômica é dispensável em razão do reconhecimento de sua presunção.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDENCIÁRIO. BENEFÍCIO DE PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. INCAPACIDADE ANTERIOR AO ÓBITO E POSTERIOR À SUA MAIORIDADE. IRRELEVANTE O FATO DE A INVALIDEZ TER SIDO APÓS A MAIORIDADE DO POSTULANTE. PRECEDENTES.
+1. O entendimento do Superior Tribunal de Justiça, contudo, no que tange à invalidez do recorrido, é no sentido de que é irrelevante o fato de a invalidez ter sido após a maioridade do postulante, porquanto, nos termos do art. 16, III c/c § 4º da Lei n. 8.213/91, a pensão por morte é devida ao filho inválido, não apresentando nenhum outro requisito quanto ao tempo em que essa invalidez deva ser reconhecida, bastando apenas a comprovação de que a invalidez é anterior ao óbito. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.984.209/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/10/2022, DJe de 3/11/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. EX-COMBATENTE. PENSÃO. FILHO INVÁLIDO. NECESSIDADE DE COMPROVAÇÃO DA INVALIDEZ ANTERIOR AO ÓBITO. PRECEDENTES. DATA DO INÍCIO DA INCAPACIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. O Tribunal de origem não se afastou da orientação jurisprudencial deste Superior Tribunal, firme no sentido de que, em se tratando de filho inválido, independentemente de sua idade, de seu estado civil ou da comprovação da dependência econômica, será considerado dependente de ex-combatente, para fins do art. 5º, III, da Lei 8.059/1990, quando a doença incapacitante for preexistente à morte do instituidor do benefício.
+2. Contudo, a alteração das conclusões adotadas pela Corte de origem, a fim de que se entenda que restou comprovada a invalidez anterior ao óbito do instituidor da pensão, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.895.631/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/5/2021, DJe de 6/5/2021.)
+No caso dos autos, o Tribunal de origem entendeu que, "comprovada a invalidez do demandante em período anterior ao óbito de sua genitora, é devido o benefício pleiteado" (fl. 365).
+Verifico, portanto, que a conclusão veiculada no acórdão está em harmonia com a orientação do Superior Tribunal de Justiça sobre o tema, merecendo ser mantido o acórdão recorrido.
+Quanto à multa aplicada no julgamento dos embargos de declaração, o entendimento do Superior Tribunal de Justiça é o de que a mera rejeição dos embargos declaratórios não é suficiente para a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil, que se justifica quando é observada a intenção de retardar injustificadamente o andamento normal do processo, em prejuízo da parte contrária e do Poder Judiciário. É necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no presente caso. A propósito, confiram-se os seguintes julgados desta Corte Superior, naquilo que interessa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DECISÃO INTERLOCUTÓRIA QUE DEFERE PRODUÇÃO DE PROVA PERICIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. MULTA DO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. SÚMULA 98/STJ. NATUREZA JURÍDICA DA LISTA DO ART. 1.015 DO CPC/2015. MITIGAÇÃO DA TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC/2015. TEMA 988/STJ. RESP 1.696.396/MT E RESP 1.704.520/MT. MODULAÇÃO DOS EFEITOS DA DECISÃO. APLICAÇÃO DA TESE PARA AS DECISÕES INTERLOCUTÓRIAS PROFERIDAS APÓS A PUBLICAÇÃO DO ACÓRDÃO PARADIGMA. DECISÃO INTERLOCUTÓRIA PROLATADA EM MOMENTO ANTERIOR. NÃO INCIDÊNCIA DA TESE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+ ..
+V. Nos termos da Súmula 98/STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório". Assim, a simples oposição dos Embargos de Declaração pela parte agravante, por si só, não justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC, motivo pelo qual o Recurso Especial merece ser provido, no ponto.
+ ..
+VIII. Agravo interno parcialmente provido, para conhecer do Recurso Especial e dar-lhe parcial provimento, apenas para afastar a condenação da parte agravante ao pagamento da multa, prevista no art. 1.026, § 3º, do CPC/2015.
+(AgInt no REsp n. 1.686.924/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/3/2021, DJe de 19/3/2021.)
+Concluo, assim, que os embargos de declaração opostos não se revestiram de caráter protelatório, sendo o caso de afastar a multa aplicada na origem.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe parcial provimento apenas para afastar a multa prevista no § 2º do art. 1.026 do CPC.
+Publique-se. Intimem-se.
+EMENTA
