@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido de extensão formulado por LUCAS PEREIRA DOS SANTOS, a fim de que sejam a ele estendidos os efeitos da decisão na qual concedi a ordem, de ofício, para determinar ao Juízo do conhecimento que recolha os mandados de prisão expedidos em desfavor de Hermes Pereira Brito e Kleber Soares Alves e envie ao Juízo das Execuções competente as guias de execução definitiva, para que, uma vez intimados a dar início ao cumprimento de pena pela autoridade competente, requeiram o que lhes seja de direito (e-STJ, fls. 140-145).
+Alega o requerente que, assim como os pacientes beneficiados, não teve o período de 2 anos de prisão preventiva detraído para se estabelecer o modo prisional mais brando, sendo possível a expedição da guia de execução independente do seu recolhimento prisional.
+Requer, assim, a extensão dos efeitos da decisão de e-STJ, fls. 140-145, a fim de determinar ao Juízo do conhecimento que recolha o mandado de prisão expedido e envie ao Juízo das Execuções competente a guia de execução definitiva, para que, uma vez intimado a dar início ao cumprimento de pena pela autoridade competente, requeira o que lhe seja de direito.
+É o relatório.
+Decido.
+O pedido não merece ser acolhido.
+A teor do art. 580 do Código de Processo Penal, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Na hipótese, observa-se que os pacientes Hermes Pereira Brito e Kleber Soares Alves foram condenados à pena reclusiva superior a 4 anos e não excedentes 8 anos de reclusão, de modo que a detração do período detraído pode resultar em apenamento inferior a 4 anos de reclusão para fins de fixação do regime prisional. Nesse contexto, cabível, excepcionalmente, a expedição da guia de execução independente do recolhimento dos condenados.
+Por outro lado, o requerente Lucas foi condenado à pena superior a 8 anos (8 anos e 2 meses de reclusão, e-STJ, fls. 211-245), estando, portanto, em situação diversa da dos pacientes beneficiados, visto que a detração do período de cerca de 2 anos de prisão preventiva não necessariamente lhe possibilitaria o início do cumprimento da pena reclusiva em regime mais brando.
+Assim, diante da ausência de similitude fática, não deve incidir o art. 580 do CPP. A propósito:
+"PENAL. PEDIDO DE EXTENSÃO NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. REDUÇÃO DA PENA-BASE. ABRANDAMENTO DO REGIME PRISIONAL. AUSÊNCIA DE SIMILITUDE FÁTICA. PEDIDO NÃO ACOLHIDO.
+1. O art. 580 do Código de Processo Penal estabelece que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+2. Na hipótese, embora a sanção final e o regime inicial de cumprimento da pena reclusiva sejam idênticos aos estabelecidos ao corréu na origem (5 anos de reclusão em regime fechado), a instância antecedente considerou circunstâncias distintas para a exasperação das sanções básicas, consistentes no modus operandi e no grau de contribuição de cada agente para a organização criminosa. Ademais, o período de prisão preventiva a ser considerado para fins de detração penal de cada réu é diverso. Logo, diante da ausência de similitude fática entre os corréus, não deve incidir o art. 580 do CPP.
+3. Pedido de extensão não acolhido." (PExt no HC 409.551/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/6/2019, DJe 18/6/2019)
+Ante o exposto, indefiro o pedido de extensão.
+Publique-se. Intimem-se.
+EMENTA
