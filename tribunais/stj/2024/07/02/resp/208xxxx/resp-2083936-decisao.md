@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED NORTE MATO GROSSO COOPERATIVA TRABALHO MÉDICO fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+"DOIS RECURSOS DE APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER CUMULADA COM RECONHECIMENTO DE INAPLICABILIDADE DE COPARTICIPAÇÃO- TERAPIAS MULTIDISCIPLINARES PRESCRITAS PELO MÉDICO ASSISTENTE - MANTIDAS CONFORME PREVISÃO DA RESOLUÇÃO DE N.º539/22 DA ANS - COBRANÇA DE COPARTICIPAÇÃO PARA TERAPIAS MULTIDISCIPLINARES - ABUSIVIDADE E ILEGALIDADE - INOCORRÊNCIA - APLICAÇÃO DOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE PARA EQUILIBRAR A LEGALIDADE DA COBRANÇA DA COPARTICIPAÇÃO PELO PLANO DE SAÚDE E A DESVANTAGEM EXAGERADA AO PACIENTE, IMPOSSIBILITANDO A CONTINUAÇÃO DO SEU TRATAMENTO - COBRANÇA DA COPARTICIPAÇÃO QUE NÃO DEVE ULTRAPASSAR EM 02 (DUAS) VEZES O VALOR DA MENSALIDADE DO PLANO CONTRATADO - HONORÁRIOS ADVOCATÍCIOS CALCULADOS SOBRE O VALOR ATUALIZADO DA CAUSA - MANTIDOS - SENTENÇA PARCIALMENTE REFORMADA - RECURSO DO REQUERENTE - NÃO PROVIDO - RECURSO DA REQUERIDA - PARCIALMENTE PROVIDO.
+1. A Resolução Normativa n. 539/2022 da ANS ampliou as regras de cobertura assistencial para os usuários com transtornos globais do desenvolvimento, dentre eles os com transtorno do espectro autista, de modo a tornar obrigatório o custeio de qualquer método ou técnica indicado pelo médico assistente para o tratamento do paciente com CID F84.
+2. A cobrança da coparticipação, porque em estrita consonância com a legislação de regência bem como com a previsão expressa contida no contrato, não pode ser considerada abusiva, seja para terapias previstas no rol da ANS ou para aquelas que não fazem parte dessa lista que contempla apenas a cobertura básica.
+3. A cobrança na modalidade coparticipação, desde que clara e expressa no contrato e não ultrapassando o percentual de 50% (cinquenta por cento) do valor das despesas, não pode ser taxada de abusiva ou ilegal.
+4. Como já decidido em caso semelhante, deve existir um equilíbrio entre a legalidade da cobrança da coparticipação pelo plano de saúde e a cobrança de valores que impõe ao paciente uma desvantagem exagerada e que inviabiliza totalmente a continuidade do seu tratamento.
+5. Os valores da cobrança da coparticipação do tratamento não devem ultrapassar em 02 (duas) vezes o valor da mensalidade do plano contratado.
+6. Ao considerarmos o máximo da cobrança da coparticipação em até 02 (duas) vezes o valor da mensalidade, estaremos, praticamente, equiparando ao valor da mensalidade cobrada pela operadora na modalidade convencional, que, via de regra, é o triplo da mensalidade da modalidade coparticipação.
+7. Noutras palavras, se o pagamento da mensalidade na modalidade convencional cobre todos os procedimentos ofertados pela operadora do plano de saúde, ao estabelecermos o teto da cobrança da coparticipação, enquanto durar o tratamento do paciente, em 02 (duas) vezes o valor da mensalidade do plano contratado, tenho que, estaremos, em observância aos princípios da proporcionalidade e razoabilidade, equilibrando a cobrança da coparticipação pelo plano de saúde e a clara desvantagem exagerada imposta ao paciente e por consequência evitando que o tratamento médico seja interrompido.
+8. Ainda, a enfatizar essa linha de pensamento, tenho que essa decisão garante maior previsibilidade, clareza e segurança jurídica aos litigantes, haja vista que, além do tratamento do requerente, ora apelante, não ser interrompido, a requerida, ora apelada, enquanto durar o tratamento prescrito, receberá o valor da coparticipação, como se o plano contratado fosse pela modalidade convencional, o que, evidentemente, não lhe causará maiores prejuízos.
+9. Não comporta reforma o valor arbitrado a título de honorários advocatícios porque, na ausência de condenação em valor específico, incidem os percentuais legais sobre o valor atualizado da causa" (e-STJ fls. 1.181/1.182).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente sustenta violação do art. 16, VIII, da Lei nº 9.656/98.
+Aduz que
+"(..) no instrumento contratual entabulado entre as partes encontra-se de forma clara a incidência de coparticipação para atendimento ambulatorial, sendo, pois ilegal e incabível a limitação imposta em 2 (duas) mensalidades, colocando em risco o equilíbrio financeiro" (e-STJ fl. 1.307).
+Contrarrazões às e-STJ fls. 1.331/1.343.
+O Ministério Público Federal, em seu parecer, opinou pelo desprovimento do recurso pela incidência das Súmulas nºs 5 e 7/STJ.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O tribunal de origem apreciou a questão da coparticipação com base nos seguintes argumentos:
+"(..)
+A sentença também deve ser mantida na parte em que determinou que a cobrança da coparticipação deveria ser permitida com relação às terapias previstas no rol da ANS, e também em razão da disposição contratual expressa no sentido de autorizar sua cobrança para consultas ou sessões realizadas por outros profissionais da área da saúde, como são considerados os psicólogos, fisioterapeutas, fonoaudiólogos, etc.
+Embora o autor alegue haver obscuridade quanto a essa determinação, porquanto não consegue aferir se a coparticipação seria de 50%, como previsto no contrato, ou ainda conforme a disposição do item 11.6.1.1, que estabelece que para cada evento ou procedimento realizado, haverá a limitação ou teto de coparticipação ora estabelecido no valor de R$ 100,00 (cem reais).
+É evidente que o item 11.6.1.1 deve ser analisado em conjunto com a previsão contida no item 11.6.1, segundo o qual a cobrança será feita por consulta ou sessão, no valor de 50%. Vejamos: "c) Consulta/sessão outros profissionais de saúde: 50% por consulta/sessão".
+Portanto, para que não reste mais dúvidas, a cobrança da coparticipação nesses casos - de consulta/sessão realizada com outros profissionais de saúde - deve ser calculada por cada sessão realizada, no valor de 50% do valor cobrado pelo profissional.
+Porém, quando esse valor ultrapassar o valor de R$100,00 em um único atendimento/sessão, aplica-se a limitação contida no item 11.6.1.1, ou seja, o beneficiário pagará apenas os R$100,00 (cem reais).
+Desse modo, a interpretação da cláusula atende o princípio da interpretação mais favorável ao consumidor, que pagará 50% do valor da sessão ou R$100,00, dependendo do que lhe for mais favorável.
+Infelizmente, essa não é a interpretação desejada pelo autor, que pretendia pagar apenas R$100,00 por mês e não por sessão, para cada tipo de terapia que lhe foi prescrita, mas essa leitura não se coaduna com a redação da cláusula em questão e nem com a decisão recorrida.
+Nesse passo, não comporta reforma a sentença na forma como arbitrou a cobrança da coparticipação, em estrita consonância com a legislação que regência que autoriza a cobrança e com a previsão expressa contida no contrato (ID 141745874 - Pág. 3)" (e-STJ fl. 1.191).
+Nesse contexto, reverter a conclusão do tribunal local para acolher a pretensão recursal demandaria a análise e a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, procedimentos inviáveis ante a natureza excepcional da via eleita, consoante enunciado das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA. NÃO COMPROVAÇÃO. HOME CARE. CLÁUSULA EXCLUDENTE. ANS. ROL EXEMPLIFICATIVO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Apesar de ser possível a concessão da justiça gratuita a qualquer tempo, desde que verificadas as condições para tanto, no caso em apreço, o tribunal de origem reconheceu que a agravante não tem direito ao benefício pleiteado por não se enquadrar no conceito de economicamente necessitada.
+3. Inadmissível, na estreita via do recurso especial, a alteração das conclusões das instâncias de cognição plena que demandem o reexame do acervo fático-probatório dos autos, a teor da Súmula nº 7/STJ.
+4. O rol de procedimentos da ANS é meramente exemplificativo, considerando-se abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+5. Agravo interno não provido"
+(AgInt no AREsp 1.698.913/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/5/2021, DJe 24/5/2021).
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
