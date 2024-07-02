@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRE MATHEUS FERREIRA TROVATTO contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi preso em flagrante, sendo a prisão convertida em preventiva, pelas práticas das condutas descritas nos art. 33, caput, da Lei n. 11.343/2006 e art. 1º, §1º, II e §4º da Lei n. 9.613/98.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 28-32, com a seguinte ementa:
+Habeas Corpus - Pretendida revogação da prisão preventiva. Excesso de prazo não configurado. Duração do processo dentro da razoabilidade. Instrução encerrada - Ausência de constrangimento ilegal. Ordem denegada.
+Daí o presente habeas corpus, em que a defesa sustenta, em suma, que há excesso de prazo na formação da culpa, haja vista que sua segregação cautelar perdura há 7 meses. Revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal.
+Requer, no mérito, a revogação da prisão ou substituição por medidas cautelares previstas no art. 319 do CPP.
+O pedido de liminar foi indeferido (fls. 87-88).
+As informações foram prestadas às fls. 94-129.
+O Ministério Público Federal, às fls. 133-137, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INEXISTÊNCIA. REGULAR TRAMITAÇÃO DO PROCESSO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Habeas corpus substitutivo. Não conhecimento.
+- O excesso de prazo passível de ser firmemente combatido é aquele desvinculado da realidade dos fatos, injustificado e que extrapola em muito os marcos legalmente estabelecidos, em nítida violação ao princípio da razoabilidade, o que não se verifica na hipótese vertente, pois o trâmite processual encontra-se em regular andamento, mormente ao se considerar que a prisão preventiva ocorreu em 14/09/2023 e, em 13/12/2023, foi mantida após reavaliação dos pressupostos da cautelar, sendo que na mesma data foi designada audiência de instrução para 17/01/2024, a qual foi realizada tendo a acusação pugnado pela quebra do sigilo bancário do paciente e corré. Deferido o pleito, os documentos foram juntados, com a manifestação da acusação, aguardando-se a manifestação da defesa.
+- Parecer pelo não conhecimento do habeas corpus.
+É o breve relatório.
+Decido.
+A defesa sustenta, em suma, que há excesso de prazo na formação da culpa, haja vista que sua segregação cautelar perdura há 7 meses. Revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal.
+Quanto aos punctum saliens, o Tribunal de origem, assim se pronunciou, in verbis:
+No caso concreto, conforme as informações prestadas pela d. Autoridade Judicial e por consulta aos autos principais, foi possível constatar que a ação penal está tramitando regularmente, sem qualquer indicativo de desídia ou inércia atribuível ao Magistrado que preside a causa.
+Importante observar que a caracterização de eventual excesso de prazo não depende somente de um critério matemático, outras variáveis devem ser consideradas à luz do princípio da razoabilidade na duração do processo.
+ ..
+Com efeito, tem-se que o paciente foi preso em flagrante em 13/09/2023 e a conversão em prisão preventiva deu-se em 14/09/2023 e, em 13/12/2023, foi mantida após reavaliação dos pressupostos da cautelar, sendo que na mesma data foi designada audiência de instrução para 17/01/2024.
+Realizado referido ato, a acusação pugnou pela quebrado sigilo bancário do paciente e sua comparsa, o que foi deferido e, por consulta aos autos principais, tais documentos foram juntados, sobre os quais a acusação já se manifestou e aguarda-se a manifestação da defesa.
+Do quanto exposto, tem-se que a tramitação processual prossegue em ritmo razoável e adequado ao caso dos autos como bem salientou o Procurador de Justiça em sem judicioso parecer: "Também não cabe a alegação de excesso de prazo. Em análise dos autos, verifica-se que o curso das investigações não sofreu qualquer atraso. Eventual "demora" é apenas conjuntural. Decorre do normal andamento das apurações do caso, não sendo suficiente para superar os fundamentos que determinaram a manutenção da prisão preventiva.(..).
+A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A custódia preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+Quanto ao alegado excesso de prazo para a formação da culpa, cumpre consignar, na linha dos precedentes desta Corte, que o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+Para ser considerado injustificado o excesso na custódia cautelar, deve a demora ser de responsabilidade da acusação ou do Poder Judiciário, situação em que o constrangimento ilegal pode ensejar o relaxamento da segregação antecipada.
+Extrai-se dos autos que o paciente foi preso em flagrante no dia 13/09/2023, a denúncia foi recebida em 11/01/2024 e a audiência de instrução foi realizada em 17/01/2024. Atualmente, os autos se encontram aguardado a apresentação das alegações finais (fl. 117).
+Não se verifica, no caso dos autos, ilegal mora processual atribuível ao Poder Judiciário ou aos órgãos encarregados da persecução penal, uma vez que o feito tramita de maneira regular e conforme a sua complexidade.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade e variedade de drogas apreendidas - a saber, cocaína, com peso bruto de 5,476kg (cinco quilos e quatrocentos e setenta e seis gramas); e 21g (vinte e um gramas) de MDA (Tenanfetamina), na forma de comprimidos (e-STJ fl. 32) -, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+3. Condições subjetivas favoráveis do réu, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Precedentes.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+5. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+6. No caso em exame, o acusado está custodiado desde 23/9/2023.
+Entretanto, o processo vem tendo regular andamento na origem, com a oitiva das testemunhas e interrogatório dos acusados, sinalizando, assim, o encerramento da instrução. Ademais, o pequeno atraso para o seu término se deve à concordância das partes, durante a audiência de instrução, em aguardar a vinda aos autos dos laudos solicitados no momento do recebimento da denúncia, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal. Precedentes.
+7. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 909.839/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
