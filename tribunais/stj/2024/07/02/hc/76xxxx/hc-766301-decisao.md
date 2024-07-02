@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA contra acórdão assim ementado (e-STJ fl. 45):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO (CP, ART. 155, § 4º, I) - SENTENÇA PARCIALMENTE CONDENATÓRIA - INSURGÊNCIA DEFENSIVA - MATERIALIDADE E AUTORIA INCONTESTES - PLEITO DE AFASTAMENTO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO - IMPOSSIBILIDADE - RUPTURA DE JANELA DE VEÍCULO DEMONSTRADA PELA PROVA TESTEMUNHAL - DESAPARECIMENTO DOS VESTÍGIOS - LAUDO PERICIAL PRESCINDÍVEL - RECURSO DESPROVIDO.
+A impetrante sustenta que o laudo pericial não foi confeccionado por incúria estatal.
+A liminar foi indeferida.
+Parecer do Ministério Público Federal pelo não conhecimento do writ.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, o que não ocorre no caso dos autos.
+Confiram-se julgados em hipóteses assemelhadas:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE PERÍCIA DEVIDAMENTE JUSTIFICADA. ROMPIMENTO DE OBSTÁCULO CONFIRMADO POR MEIO DE OUTROS MEIOS DE PROVAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Por expressa disposição legal, é imprescindível a prova técnica para o reconhecimento do furto qualificado pelo rompimento de obstáculo/arrombamento, sendo possível a substituição do laudo pericial por outros meios de prova apenas quando o delito não deixar vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+2. Na hipótese dos autos, é possível extrair dos excertos acima transcritos que, não obstante o crime em comento tenha deixado vestígios, a prova técnica para a comprovação do alegado rompimento de obstáculo não foi realizada, mas restou devidamente justificada a ausência do laudo pericial ante a necessidade de se providenciar o imediato reparo dos danos causados às janelas do veículo para que o dono pudesse utilizar o veículo sem colocar em risco a segurança de seus bens.(e-STJ fls. 194).
+3. Verificada, na espécie, a inviabilidade material para realização da prova, em razão do desaparecimento dos vestígios, resta configurada a excepcional possibilidade de a prova técnica ser suprida pelos demais elementos de provas carreados aos presentes autos, consistentes em prova testemunhal, depoimento das vítimas, além da atuação criminosa ter sido visualizada por câmeras públicas de monitoramento (vídeo, ID 15565241), o reconhecimento do recorrente pelo policial que fez a prisão e a confissão do acusado.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.900.903/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/2/2021, DJe de 12/2/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AÇÃO DELITUOSA FILMADA POR DISPOSITIVO DE SEGURANÇA. DEPOIMENTOS TESTEMUNHAIS. EXAME MÉDICO NO PACIENTE. INEXISTÊNCIA DE NULIDADE. ART. 158 DO CÓDIGO DE PROCESSO PENAL. AGRAVO DESPROVIDO.
+1. O agravante quebrou o vidro do veículo da vítima e subtraiu objetos. A ação foi registrada por câmeras de segurança e confirmada por testemunhas. O exame médico constatou a presença de cortes em sua mão e antebraço, além de cacos de vidro em suas vestes.
+2. Apesar de não ter sido realizada perícia no veículo, as circunstâncias acima mencionadas permitem a incidência da majorante do art. 155, § 4º, I, do Código Penal (rompimento de obstáculo), ainda mais porque a vítima consertou o veículo, impedindo a realização do exame pericial.
+Agravo regimental desprovido.
+(AgRg no HC n. 409.327/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/10/2017, DJe de 19/10/2017.)
+Segundo o acórdão, "o rompimento de obstáculo, ainda que não realizada a perícia, é incontroverso, seja porque confessado pelo acusado durante o interrogatório, detalhando ter quebrado o vidro do carro com o auxílio de uma chave de fenda e o empurrado com a mão para dentro do veículo; seja porque confirmado pela vítima que, num primeiro momento, acreditou ter deixado a janela do veículo aberta e se deparou com o vidro estilhaçado no banco traseiro, quando também se deu conta da subtração de seus pertences" (e-STJ fl. 291).
+Por fim, a subtração de objetos localizados no interior de veículo automotor, mediante o rompimento ou destruição do vidro do automóvel, qualifica o furto (EREsp n. 1.079.847/SP, relator Ministro Jorge Mussi, Terceira Seção, julgado em 22/5/2013, DJe de 5/9/2013).
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos c apazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
