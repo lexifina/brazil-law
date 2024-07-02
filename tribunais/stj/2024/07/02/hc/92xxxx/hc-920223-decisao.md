@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu o pedido liminar em habeas corpus apresentado na origem.
+Imputa-se ao paciente a prática dos crimes de organização criminosa, violação de sigilo funcional e falsificação de documento público.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular.
+De fato, é pacífica a "jurisprudência desta Corte acerca da manutenção da prisão preventiva em razão da quantidade de droga, contumácia delitiva e fuga do distrito da culpa, circunstâncias que justificam a manutenção da prisão cautelar para a garantia da ordem pública" (AgRg no RHC n. 173.374/BA, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023); (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022); (AgRg no HC n. 799.998/MS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/3/2023, grifei); (AgRg no HC n. 806.211/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 761.012/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 22/12/2022).
+No mesmo sentido, também é indene de controvérsia neste STJ o fato de que "(..) A presença de condições pessoais favoráveis, como primariedade, emprego lícito e residência fixa, não impede a decretação da prisão preventiva quando devidamente fundamentada. (..)" (AgRg no RHC 175391 / RS, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 12/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 18/12/2023)
+Ademais, certo é que a existência de organização criminosa impõe a necessidade de interromper a atuação de seus integrantes como garantia da ordem pública (AgRg no HC 793.651/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC 790.898/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
