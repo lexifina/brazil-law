@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ com respaldo na alínea "a" do permissivo constitucional contra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado (e-STJ fl. 168):
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA. JUÍZO A QUO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA, HOMOLOGOU OS CÁLCULOS APRESENTADOS PELOS EXEQUENTES E AFASTOU A ALEGAÇÃO DE PRESCRIÇÃO. INSURGÊNCIA. ALEGAÇÃO DE QUE A SUSPENSÃO DO ANDAMENTO DOS AUTOS PRINCIPAIS NÃO INTERROMPE O PRAZO PRESCRICIONAL. PRESCRIÇÃO EXECUTIVA NÃO VERIFICADA. AUSÊNCIA DE INÉRCIA DO EXEQUENTE. SUSPENSÃO DO PROCESSO QUE SE DEU EM RAZÃO DA TENTATIVA DE COMPOSIÇÃO AMIGÁVEL ENTRE AS PARTES. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 219/226).
+Nas suas razões, a parte recorrente entende que a prescrição teria se consumado, alegando, para tanto, violação do "contido: (i) no Código de Processo Civil, artigos 489, § 1º, IV e VI, e 1.022, I, II, par. ún. I e II ; (ii) no Código Civil (artigos 197 a 202), (iii) no CPC (artigos 523, 524 §§ 3º e 5º, 534, 927, III), no Decreto n. 20.910/32 (artigo 1º.)" (e-STJ fl. 233).
+Aponta, ainda, inobservância do decidido pelo STJ quando do exame dos Temas 877 e 880/STJ. Defende, ainda, a existência de um prazo prescricional único para a execução das obrigações de pagar e de fazer (salientando que "o ajuizamento de execução da obrigação de fazer não interrompe o prazo prescricional para a propositura da execução que visa ao cumprimento da obrigação de pagar" e-STJ fl. 236).
+Pondera que "inexiste previsão legal de suspensão/interrupção da prescrição para o caso de meras suspensões processuais ou tratativas para fornecimento de documentos. Irrelevante a alegação de que não houve inércia da parte - até porque, como visto, os servidores poderiam, desde logo, ter promovido a execução individual de sentença (como fez, contudo, a destempo), já que tinha amplo acesso aos dados necessários para o cálculo do seu crédito" (e-STJ fl. 244).
+Conclui que é "evidente a violação ao conteúdo normativo dos arts. 197 a 202 do Código Civil que trazem o rol taxativo das causas de suspensão da prescrição" (e-STJ fl. 244).
+Por fim, diz que "Se esse Colendo Tribunal Superior entender que não é caso de aplicação do artigo 1.025 do CPC, requer seja reconhecida a afronta aos artigos 489, § 1º, IV e VI e 1.022, I, II, par. ún. I e II do CPC" (e-STJ fl. 244).
+Contrarrazões às e-STJ fls. 302/368.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 403/405.
+Passo a decidir.
+No que diz respeito ao exame da questão, transcrevo os fundamentos do julgado recorrido (e-STJ fls. 173/177):
+O Estado do Paraná afirma, em apertada síntese, que, entre o trânsito em julgado da fase de conhecimento e o início do cumprimento de sentença de pagar quantia certa (14/04/2021 - mov. 1.1), transcorreram mais de 5 anos; de modo que ocorreu a prescrição da pretensão da execução.
+No entanto, não lhe assiste razão. Senão vejamos:
+A sentença que reconheceu o direito coletivo transitou em julgado em 14 de abril de 2016. O prazo prescricional de cinco anos se encerrou em 13 de abril de 2021.
+Foi proposto o cumprimento de sentença nº 0008041-64.2016.8.16.0004 pelo Sindicato em 08/11/2016.
+O art. 1º do Decreto 20.910/32 dispõe, a seguir:
+ ..
+Em sintonia a tal diploma, a Súmula 150 do Supremo Tribunal Federal prevê que "prescreve a execução no mesmo prazo de prescrição da ação".
+Assim, o prazo referente à prescrição executiva seria quinquenal, de modo congruente ao lapso correlato à pretensão cognitiva.
+Todavia, conforme doutrina transcrita, verifica-se que não basta o decurso de determinado lapso temporal, a inércia do credor é imprescindível para fins de consubstanciação da prescrição.
+Nessa linha, Orlando Gomes leciona sobre o instituto da prescrição, a seguir:
+"A prescrição é o modo pelo qual um direito se extingue pela inércia de seu titular, durante certo lapso de tempo, que fica privado da ação própria para assegurá-lo. Do conceito da prescrição participam os seguintes elementos ou requisitos: a) a inércia do titular; b) o transcurso do tempo; c) a perda da ação. (GOMES, Orlando, Rio de Janeiro: Forense, 1957, p. 375)"
+Por sua vez, o STJ entende que a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA INDIVIDUAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELO AJUIZAMENTO DE EXECUÇÃO COLETIVA. POSTERIOR DESMEMBRAMENTO DETERMINADO PELO JUÍZO DA EXECUÇÃO. AUSÊNCIA DE INÉRCIA DA PARTE EXEQUENTE.
+1. "Há jurisprudência consolidada desta Corte de que a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual, pois não há (AgInt no REsp inércia dos beneficiários do título. Precedentes" 1.960.015/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 1º/4/2022). Nesse mesmo sentido: REsp 1.751.667/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe 1º/7/2021.
+2. Caso concreto em que, não obstante a ação coletiva ajuizada pelo Sindicato da categoria não impedir o manejo de ação individual, tem ela o condão de interromper o prazo prescricional para a propositura da demanda individual, mormente diante da não caracterização de indevida inércia.
+3. De fato, ainda que no bojo da execução coletiva não se discuta a legitimidade do Sindicato, fato é que sua existência teve o condão de retirar da parte ora agravada a necessidade de ajuizar sua execução individual, ante a ausência do necessário binômio utilidade-necessidade, uma vez que seus interesses já estavam sendo defendidos naquela execução coletiva.
+4. Em outros termos, a necessidade de ajuizamento da subjacente execução individual somente surgiu para a parte agravada quando determinado o desmembramento da execução coletiva pelo Juízo de primeiro grau, de sorte que, antes desse momento, não estava caracterizada inércia.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.943.751/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022.)
+Ainda, no tema repetitivo nº 1.005, foi consolidado o seguinte entendimento:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA DE NATUREZA REPETITIVA. BENEFÍCIO PREVIDENCIÁRIO. ADEQUAÇÃO DA RENDA MENSAL AOS TETOS DAS EMENDAS CONSTITUCIONAIS 20 /98 E 41/2003. VALORES RECONHECIDOS JUDICIALMENTE, EM AÇÃO DE CONHECIMENTO INDIVIDUAL, CUJO PEDIDO COINCIDE COM AQUELE ANTERIORMENTE FORMULADO EM AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO DA PRESCRIÇÃO QUINQUENAL PARA RECEBIMENTO DE PARCELAS DO BENEFÍCIO NA DATA DO PRECEDENTES DO STJ. AJUIZAMENTO DA AÇÃO INDIVIDUAL.
+TESE FIRMADA SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 1.036 E SEGUINTES DO CPC/2015. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, PROVIDO. (REsp n. 1.751.667/RS, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 23/6/2021, DJe de 1/7/2021)
+De acordo com esses entendimentos, decisão recente proferida pela Ilustre Desembargadora Ana Lúcia Lourenço (7ª Câmara Cível), quanto ao mesmo caso ora discutido:
+RECURSOS DE AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA. JUÍZO A QUO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA E, MAS HOMOLOGOU OS CÁLCULOS APRESENTADOS PELOS EXEQUENTES. INSURGÊNCIA. PRESCRIÇÃO EXECUTIVA. NÃO VERIFICADA. AUSÊNCIA DE INÉRCIA DO EXEQUENTE. SUSPENSÃO DO PROCESSO QUE SE DEU EM RAZÃO DA TENTATIVA DE COMPOSIÇÃO AMIGÁVEL ENTRE AS PARTES. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO-PROVIDO.
+(TJPR - 7ª Câmara Cível - 0075674-94.2022.8.16.0000 - Curitiba - Rel.: DESEMBARGADORA ANA LUCIA LOURENCO - J. 04.04.2023)
+E também, decisão do Ilustre Desembargador Lauri Caetano da Silva (1ª Câmara Cível):
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA CONTRA A FAZENDA PÚBLICA. DECISÃO AGRAVADA QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE PRESCRIÇÃO QUINQUENAL DA PRETENSÃO EXECUTÓRIA. SÚMULA 150 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SINDICATO QUE PEDIU O CUMPRIMENTO DE SENTENÇA DENTRO DO PRAZO PRESCRICIONAL. INTERRUPÇÃO DO PRAZO DE PRESCRIÇÃO.
+RECURSO DESPROVIDO. (TJPR - 1ª Câmara Cível - 0062970- 49.2022.8.16.0000 - Curitiba - Rel.: DESEMBARGADOR LAURI CAETANO DA SILVA - J. 04.04.2023)
+Nessas hipóteses, não há inércia. Pelo contrário, a demora no adimplemento do débito devido se dá em virtude de circunstâncias atinentes aos mecanismos da justiça e em virtude de postura imputada aos Executados; não obstante o credor tenha buscado, reiteradamente, obter a satisfação do crédito, no prazo mais célere possível.
+Cumpre salientar que reconhecer a prescrição sem que haja inércia é temerário, pois penaliza o credor diligente; e, em contrapartida, favorece o devedor contumaz, que passar-se-ia a ser beneficiado após - de forma preordenada - retardar a satisfação do crédito perseguido até que a pretensão restasse, em tese, coberta pelo prazo prescricional respectivo.
+Certamente esse não é o intento do instituto, já que o prazo prescricional visa a fortalecer a segurança jurídica, evitando que o credor permaneça inerte indefinidamente - sob o pretexto de que a cobrança do débito poder-se-ia ocorrer por tempo indeterminado.
+De outro turno, a prescrição não autoriza, por óbvio, que exequentes diligentes sejam penalizados pelo decurso do tempo, notadamente quando as diligências restaram infrutíferas por conduta praticada pelo Executado ou por demora atribuída aos mecanismos do judiciário.
+No caso em questão, verifica-se que a demanda esteve suspensa por períodos diversos, diante da tentativa de uma composição amigável para a solução; além de inexistir inércia por parte dos Agravados. Assim, os exequentes não podem ser lesados diante das suspensões processuais, bem como pela demora na realização do pagamento pela Executada.
+Portanto, não havendo inércia, carece de alicerces jurídicos a tese de incidência da prescrição intercorrente, devendo ser mantida a decisão agravada nesse aspecto.
+CONCLUSÃO
+Pelo exposto, voto no sentido de e CONHECER NEGAR PROVIMENTO ao Agravo de Instrumento, devendo ser mantida a decisão proferida pelo juízo a quo.
+Pois bem.
+Em primeiro lugar, quanto à suposta violação do art. 489, § 1º, IV e VI, e do art. 1.022, II, do CPC/2015, esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso dos autos, a parte recorrente deixa de explicitar os pontos em que o julgado recorrido teria incorrido em omissão, contradição ou obscuridade, limitando-se a apontar ofensa genérica aos preceitos legais, o que atrai a incidência da Súmula 284 do STF.
+O recurso não merece ser conhecido, pois o Estado recorrente deixa de impugnar, nas razões de recurso especial, os seguintes fundamentos do julgado recorrido (e-STJ fls. 174/176):
+o STJ entende que a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA INDIVIDUAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELO AJUIZAMENTO DE EXECUÇÃO COLETIVA. POSTERIOR DESMEMBRAMENTO DETERMINADO PELO JUÍZO DA EXECUÇÃO. AUSÊNCIA DE INÉRCIA DA PARTE EXEQUENTE.
+1. "Há jurisprudência consolidada desta Corte de que a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual, pois não há (AgInt no REsp inércia dos beneficiários do título. Precedentes" 1.960.015/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 1º/4/2022). Nesse mesmo sentido: REsp 1.751.667/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe 1º/7/2021.
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.943.751/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022.)
+Ainda, no tema repetitivo nº 1.005, foi consolidado o seguinte entendimento:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA DE NATUREZA REPETITIVA. BENEFÍCIO PREVIDENCIÁRIO. ADEQUAÇÃO DA RENDA MENSAL AOS TETOS DAS EMENDAS CONSTITUCIONAIS 20 /98 E 41/2003. VALORES RECONHECIDOS JUDICIALMENTE, EM AÇÃO DE CONHECIMENTO INDIVIDUAL, CUJO PEDIDO COINCIDE COM AQUELE ANTERIORMENTE FORMULADO EM AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO DA PRESCRIÇÃO QUINQUENAL PARA RECEBIMENTO DE PARCELAS DO BENEFÍCIO NA DATA DO PRECEDENTES DO STJ. AJUIZAMENTO DA AÇÃO INDIVIDUAL.
+TESE FIRMADA SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 1.036 E SEGUINTES DO CPC/2015. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, PROVIDO. (REsp n. 1.751.667/RS, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 23/6/2021, DJe de 1/7/2021)
+ ..
+De outro turno, a prescrição não autoriza, por óbvio, que exequentes diligentes sejam penalizados pelo decurso do tempo, notadamente quando as diligências restaram infrutíferas por conduta praticada pelo Executado ou por demora atribuída aos mecanismos do judiciário.
+No caso em questão, verifica-se que a demanda esteve suspensa por períodos diversos, diante da tentativa de uma composição amigável para a solução; além de inexistir inércia por parte dos Agravados. Assim, os exequentes não podem ser lesados diante das suspensões processuais, bem como pela demora na realização do pagamento pela Executada.
+Portanto, não havendo inércia, carece de alicerces jurídicos a tese de incidência da prescrição intercorrente, devendo ser mantida a decisão agravada nesse aspecto.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Vale acrescentar que também não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno desprovido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+De mais a mais, o Estado recorrente ao apontar, de forma genérica, ofensa aos artigos "197 a 199 do Código Civil" incide no óbice contido na Súmula 284 do STF ("Inadmissível o recurso extraordinário, quando a deficiência da fundamentação não permitir a exata compreensão da controvérsia").
+Por fim, a desconstituição das conclusões a que chegou o julgado recorrido acerca da inexistência de inércia dos recorridos demandaria o revolvimento de matéria fático-probatória dos autos, providência vedada em sede de recuso especial diante do que dispõe a Súmula 7 do STJ - "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
