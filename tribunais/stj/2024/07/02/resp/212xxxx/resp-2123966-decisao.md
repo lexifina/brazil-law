@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo Banco do Brasil, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 714):
+APELAÇÃO. CÉDULA RURAL. ACP Nº 94.008514-1. SUBSTITUIÇÃO DO ÍNDICE CORREÇÃO MONETÁRIA. IPC (84,32%) PELO BTNF (41,28%). LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA.
+DESNECESSIDADE. POSSIBILIDADE DE PROSSEGUIMENTO DO FEITO NA MODALIDADE DE CUMPRIMENTO PROVISÓRIO DE SENTENÇA. EMBARGOS DE DIVERGÊNCIA. EFEITO SUSPENSIVO. EXTINÇÃO DA AÇÃO. SOBRESTAMENTO PARCIAL.
+1. Verificada a existência de critérios definidos para a confecção dos cálculos, a execução do julgado, mesmo que de forma provisória, há de ser feita por cumprimento de sentença, na forma prevista no § 2º do art. 509 do CPC. Ademais, não procede a alegação de impossibilidade de feitura de cálculos pela ausência de extratos vinculados às cédulas rurais, eis que o § 3º do art. 524 do CPC expressamente prevê a possibilidade de o Juiz requisitar os dados existentes em poder do devedor, se o caso.
+2. Considerando-se que a suspensão determinada nos Embargos de Divergência no RESP nº 1.319.232-DF limita-se à aplicação do art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei 11.960/2009, nada impede o prosseguimento parcial do cumprimento provisório, determinando-se o sobrestamento apenas com relação ao montante que exceder os índices determinados no art. 5º da Lei nº 11.960/2009, sendo que eventuais diferenças poderão ser futuramente executadas, após a consolidação do entendimento quanto ao tema.
+3. Deve ser parcialmente provido o recurso para anular a sentença e determinar a suspensão do feito até o julgamento final dos embargos de divergência opostos pela União, facultada, todavia, o prosseguimento da demanda na vara de origem, na modalidade de cumprimento provisório de sentença, dentro dos limites fixados no entendimento acima adotado.
+Nas razões do recurso especial, a parte recorrente alega, além de divergência jurisprudencial, que "todas as sentenças genéricas prolatadas em ações civis públicas, inclusive aquelas que visaram o recebimento de expurgos inflacionários em cadernetas de poupança ou no crédito rural, deverão ser objeto de prévia liquidação pelo procedimento comum, nos termos dos artigos 509, II, e 511 do Código de Processo Civil" (fl. 833).
+Com contrarrazões.
+Juízo de admissibilidade à fl. 1.006.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A questão referente ao índice de correção monetária aplicável às cédulas de crédito rural, cuja fonte de recursos provém dos depósitos das cadernetas de poupança referente ao mês de março de 1990, foi afetada pelo Supremo Tribunal Federal, sob o rito da repercussão geral (Tema n. 1290), nos termos do acórdão de relatoria do Ministro ALEXANDRE DE MORAES, prolatada no RE n. 1.445.162/DF, a seguir transcrita:
+RECURSO EXTRAORDINÁRIO. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL, NO MÊS DE MARÇO DE 1990, NAS QUAIS PREVISTA A INDEXAÇÃO AOS ÍNDICES DA CADERNETA DE POUPANÇA. REPERCUSSÃO GERAL RECONHECIDA.
+1. Revela especial relevância, na forma do art. 102, § 3º, da CONSTITUIÇÃO FEDERAL, definir o critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, cujos contratos estabelecem a indexação aos índices da caderneta de poupança.
+2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC.
+(RE 1445162 RG, Relator(a): ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 09-02-2024, PROCESSO ELETRÔNICO DJe-033 DIVULG 22- 02-2024 PUBLIC 23-02-2024)
+Em seguida, o Ministro Alexandre de Moraes decretou a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive em fase de liquidação e cumprimento de sentença.
+Ante o exposto, determino a devolução do processo ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso até o julgamento do Recurso Extraordinário n. 1.445.162 (Tema n. 1.290/STF), nos termos dos arts. 1.039 a 1.041 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
