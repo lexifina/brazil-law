@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 217):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. LEI Nº 6.321/1976. DECRETO Nº 10.854/2021
+O Decreto nº 10.854/2021 foi editado com o objetivo d e regulamentar o incentivo fiscal concedido pela Lei nº 6.321/76, no entanto, o referido decreto acabou por limitá-lo, extrapolando os limites do poder regulamentar, em afronta ao princípio da hierarquia das normas.
+Os embargos de declaração apresentados foram rejeitados.
+No especial, a parte alega violação do art. 1.022, II, do CPC; dos arts. 1º, caput, e 2º da Lei 6.321/1976; e do art. 111 do CTN. Narra que, apesar dos embargos de declaração, o Tribunal a quo foi omisso quanto ao exame da controvérsia à luz dos arts. 1º, caput, e 2º da Lei 6.321/1976.
+Sustenta, em resumo, que o Poder Legislativo delegou ao Poder Executivo a prerrogativa de regulamentar o benefício fiscal de dedução das despesas com o Programa de Alimentação do Trabalhador (PAT), razão pela qual entende que inexiste ilegalidade na delimitação do conceito de trabalhador de baixa renda para fins de fruição do benefício fiscal, promovida pelo art. 186 do Decreto 10.854/2021.
+Contrarrazões apresentadas às fls. 284/303.
+O recurso especial foi admitido na origem (fls. 321/322).
+É o relatório.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+O que se percebe é que, contrário à pretensão da parte recorrente, o Tribunal a quo concluiu pela ilegalidade do art. 186 do Decreto 10.854/2021, conforme se observa do excerto do voto condutor do acórdão recorrido (fls. 220/221):
+Programa de Alimentação do Trabalhador (PAT)
+A Lei nº 6.321, de 14 de abril de 1976, dispõe sobre "a dedução, do lucro tributável para fins de imposto sobre a renda das pessoas jurídicas, do dobro das despesas realizadas em programas de alimentação do trabalhador".
+Art 1º As pessoas jurídicas poderão deduzir, do lucro tributável para fins do imposto sobre a renda o dobro das despesas comprovadamente realizadas no período base, em programas de alimentação do trabalhador, previamente aprovados pelo Ministério do Trabalho na forma em que dispuser o Regulamento desta Lei. (Vide Decreto-Lei 2.397, de 1987) (Vide Lei nº 9.532, de 1997)
+§ 1º A dedução a que se refere o caput deste artigo não poderá exceder em cada exercício financeiro, isoladamente, a 5% (cinco por cento) e cumulativamente com a dedução de que trata a Lei 6.297, de 15 de dezembro de 1975, a 10% (dez por cento) do lucro tributável.
+§ 2º As despesas não deduzidas no exercício financeiro correspondente poderão ser transferidas para dedução nos dois exercícios financeiros subsequentes.
+Com a edição do Decreto nº 10.854, de 10 de novembro de 2021, o §1º do artigo 645 do Decreto nº 9.580/2018 (§ 1º Os trabalhadores de renda mais elevada poderão ser incluídos no programa de alimentação, desde que seja garantido o atendimento da totalidade dos trabalhadores contratados pela pessoa jurídica beneficiária que percebam até cinco salários mínimos) foi alterado, passando a prever novas limitações ao benefício fiscal em questão:
+Art. 645. Os programas de que trata esta Seção deverão conferir prioridade ao atendimento dos trabalhadores de baixa renda e ficarão limitados àqueles contratados pela pessoa jurídica beneficiária (Lei 6.321, de 1976, art. 2º).
+§ 1º A dedução de que trata o art. 641: (Redação dada pelo Decreto nº 10.854, de 2021)
+I - será aplicável em relação aos valores despendidos para os trabalhadores que recebam até cinco salários mínimos e poderá englobar todos os trabalhadores da empresa beneficiária, nas hipóteses de serviço próprio de refeições ou de distribuição de alimentos por meio de entidades fornecedoras de alimentação coletiva; e (Incluído pelo Decreto nº 10.854, de
+2021)
+II - deverá abranger apenas a parcela do benefício que corresponder ao valor de, no máximo, um salário-mínimo. (Incluído pelo Decreto nº 10.854,
+de 2021)
+Deste modo, embora o Decreto nº 10.854/2021 tenha sido editado com o objetivo de regulamentar o incentivo fiscal concedido pela Lei nº 6.321/76, o referido decreto acabou por limitá-lo, extrapolando os limites do poder regulamentar, em afronta ao princípio da hierarquia das normas.
+Nos termos do art. 97, inciso IV, do CTN, somente a lei pode estabelecer a base de cálculo, sendo certo que o "conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos" (art. 99 do CTN). Logo, inexistindo lei que modifique as bases para a dedução, os decretos não poderiam inaugurar a limitação excedente, promovendo modificação estrutural do benefício fiscal.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Quanto ao mérito, o Tribunal a quo manteve a declaração de ilegalidade do art. 186 do Decreto 10.854/2021 ao fundamento de que as limitações impostas por esse ato normativo, baseadas na faixa salarial dos trabalhadores beneficiados pelo PAT, extrapolam o poder regulamentar, pois, nos termos do art. 97, IV, do CTN, somente lei pode estabelecer a base de cálculo de tributo.
+Essa controvérsia não pode ser analisada pela via do recurso especial, porquanto, consoante a jurisprudência de ambas as Turmas de Direito Público do Superior Tribunal de Justiça, "o conteúdo normativo previsto no art. 97 do CTN possui natureza constitucional, o que impede a apreciação pelo STJ, sob pena de usurpação da competência conferida ao Supremo Tribunal Federal" (AgInt no REsp n. 2.103.122/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024.).
+Cito ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. PROGRAMA EMERGENCIAL DE RECUPERAÇÃO DO SETOR DE EVENTOS. PERSE. EXIGÊNCIA DE INSCRIÇÃO PRÉVIA NO CADASTUR. PORTARIA-ME N. 7.163/2021. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. SÚMULA N. 518/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 97, INCISOS II E IV, 99 E 100, INCISO I, DO CTN. ADEMAIS, INVIÁVEL A APRECIAÇÃO DE VIOLAÇÃO DO ART. 97 DO CTN. REPRODUÇÃO DO PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE TRIBUTÁRIA. AGRAVO INTERNO DESPROVIDO.
+1. Não obstante as razões do recurso especial tenham apontado violação dos arts. 2.º, §§ 1.º e 2.º, da Lei n. 14.148/2001 e 21 da Lei n. 11.771/2008, a respectiva fundamentação e o acórdão proferido pelo Tribunal de origem estão amparados na análise da Portaria ME 7.163/2021, norma que não se enquadra no conceito de lei federal.
+2. Quanto à alegada ofensa aos arts. 97, incisos II e IV, 99 e 100, inciso I, do CTN, não está configurado o indispensável prequestionamento nos termos das Súmulas n. 282 e 356, ambas do STF. Para que a matéria seja considerada prequestionada, ainda que não seja necessária a menção expressa e numérica aos dispositivos violados, é indispensável que a matéria recursal tenha sido apreciada pela Corte de origem sob o prisma suscitado pela parte recorrente no apelo nobre - o que não ocorreu na espécie.
+3. Ademais, por se tratar de reprodução da norma prevista no art. 150, inciso I, da Constituição da República, é vedada ao Superior Tribunal de Justiça, no âmbito do recurso especial, a apreciação de eventual violação do art. 97 do CTN.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.104.872/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2024, DJe de 27/5/2024.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
