@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANSÃO ENGENHARIA E COMÉRCIO LTDA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 463):
+CONTRATO ADMINISTRATIVO - Pagamentos - Diferenças de correção monetária e juros de mora - Prescrição quinquenal reconhecida - Ação improcedente - Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fl. 540).
+Em suas razões recursais, a parte recorrente alega violação aos arts. 468, 469, 471, 473, 475 e 557 do Código de Processo Civil (CPC) de 1973, sustentando que, "ao contrário do que afirmou o acórdão recorrido, a matéria referente à prescrição foi objeto de reexame no Tribunal de Justiça, através do agravo de instrumento, interposto pelo DER -SP" (fl. 567), e que por isso teria ocorrido a preclusão da matéria.
+Ao final, requer que o recurso especial seja conhecido e provido para que seja reformado o acórdão recorrido e afastada a prescrição.
+A parte adversa apresentou contrarrazões (fls. 599/609).
+O recurso foi admitido na origem (fls. 611/612).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+A alegação de violação dos arts. 468, 469, 471, 473, 475 e 557 do CPC/1973 não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+A jurisprudência do Superior Tribunal de Justiça considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos do enunciado 211 de sua Súmula.
+Além disso, não foi alegada, nas razões do recurso especial, a violação ao art. 535 do CPC/1973, motivo pelo qual não é possível averiguar se efetivamente houve contradição no acórdão recorrido. A propósito, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 2/STJ. NÃO APLICAÇÃO DO ART. 1.025 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC/1973. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283/STF E 284/STF.
+1. Nos termos do Enunciado Administrativo 02/STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. O acórdão recorrido foi publicado em 20.10.2015, devendo ser observados os requisitos de admissibilidade previstos no CPC/1973.Não cabe, portanto, a aplicação do art. 1.025 do CPC/2015 e, por conseguinte, do conceito de prequestionamento ficto ao presente caso. Precedentes do STJ.
+3. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, e a parte recorrente deixa de indicar violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015), haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+4. Nas razões recursais, a parte recorrente aduz apenas que "indiscutível que o acórdão recorrido ignorou o dispositivo do artigo 16,III da lei 6.830/80, pois a despeito do recorrido não ter oferecido os Embargos Execução no prazo previsto na indigitada lei, optou por conceder-lhe nova oportunidade de apresentar os Embargos à Execução, sob o fundamento que a Exceção de Pré-Executividade suspende a Execução Fiscal".
+5. Não foi impugnado o fundamento de que a Exceção de Pré-Executividade deve suspender a Execução Fiscal, "pois trata-se de um meio de defesa em que podem ser arguidas teses que ocasionalmente podem desconstituir o débito fiscal, como é o caso dos autos".
+6. A recorrente não impugnou todos os fundamentos da decisão recorrida, sendo deficiente a explanação recursal. Incidência das Súmulas 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles") e 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+7. Recurso Especial não conhecido.
+(REsp n. 1.760.397/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/9/2018, DJe de 17/12/2018 - sem destaque no original.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DEVER DE INDENIZAR. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+ ..
+4. A despeito de ter sido provocada via embargos de declaração, a Corte a quo não emitiu juízo de valor sobre a necessidade da uniformização da questão de fundo, circunstância que atrai a incidência da Súmula 211 do STJ, uma vez que não alegada a violação do art. 535 do CPC/1973.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 301.955/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/2/2018, DJe de 1º/3/2018 - sem destaques no original.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
