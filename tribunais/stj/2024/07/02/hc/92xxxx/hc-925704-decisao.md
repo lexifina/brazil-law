@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Assis Henrique Rodrigues da Silva - condenado por disparo de arma de fogo, ameaça, perseguição e violência psicológica a 4 anos, 2 meses e 24 dias de reclusão, e a 3 meses e 23 dias de detenção, em regime inicial semiaberto, e a 11 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Goiás (fls. 16/33), não comporta conhecimento.
+Com efeito, busca a impetração efetivar a implementação do regime inicial semiaberto imposto ao paciente em grau de apelação - que alterou a condenação proferida na Ação Penal n. 5651178-11.2023.8.09.0036, da Vara Criminal da comarca de Cristalina/GO -, ao argumento de que consta nos autos que a decisão condenatória transitou em julgado, ocasião em que o regime inicial de cumprimento de pena foi claramente estabelecido como sendo o semiaberto. Entretanto, mesmo após a determinação judicial, o paciente continua a amargar o regime fechado até a presente data, fato que caracteriza um desrespeito à decisão proferida pelo Tribunal e uma violação dos direitos do apenado (fl. 4).
+Entretanto, não há ilegalidade a ser sanada nesta Corte Superior, uma vez que, segundo informações do Sistema Eletrônico de Execução Unificada (SEEU), o paciente fora condenado, em primeiro grau, à pena privativa de liberdade de 10 anos, 6 meses e 23 dias, em regime inicial fechado. Reformada a sentença em grau de apelação (fls. 16/33), julgada em 28/5/2024 (fl. 32), não consta dos autos manifestação contrária do Juízo da execução penal em relação à alteração de regime.
+Pelo contrário, ainda segundo o SEEU, a defesa do ora paciente peticionou ao Juízo de primeiro grau a remoção para o regime semiaberto, com juntada do acórdão de apelação somente no último sábado (29/6/2024).
+Então, a alegação mandamental nem sequer foi analisada pela Corte estadual, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, não conheço da presente impetração.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. DISPARO DE ARMA DE FOGO, AMEAÇA, PERSEGUIÇÃO E VIOLÊNCIA PSICOLÓGICA. REGIME INICIAL. IMPLEMENTAÇÃO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
