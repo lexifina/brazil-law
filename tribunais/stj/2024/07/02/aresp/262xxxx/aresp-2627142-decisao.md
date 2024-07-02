@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto por CAIRO ROBERTO DE SOUZA ANDRADE e OUTRA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. PENHORA SOBRE QUOTAS SOCIAIS DA EMPRESA. EXERCÍCIO DA ATIVIDADE ECONÔMICA. PREJUÍZO NÃO DEMONSTRADO. PRINCÍPIOS DA PROPORCIONALIDADE E DA MENOR ONEROSIDADE DO DEVEDOR. VIOLAÇÃO. INEXISTÊNCIA. PREVALÊNCIA DO PRINCÍPIO DA EFETIVIDADE DA TUTELA EXECUTIVA. DECISÃO MANTIDA.
+1. Não há falar em nulidade da decisão, por ausência de fundamentação, quando o magistrado condutor do feito, ainda que de forma concisa e objetiva, demonstrou as razões de seu convencimento, restando satisfeito o dever específico de fundamentação (art. 489, §1º e incisos, CPC/15).
+2. O princípio da menor onerosidade do devedor deve ser interpretado em sintonia com o da efetividade da tutela jurisdicional executiva, a fim de garantir a satisfação do crédito.
+3. Na espécie, não restou demonstrada a onerosidade excessiva a comprometer o exercício das atividades econômicas da empresa, mormente porque incumbia aos executados indicar outros meios eficazes e menos onerosos para viabilizar a execução (art. 805, parágrafo único, CPC/15), ônus do qual não se desincumbiram. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO" (e-STJ fl. 262).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 290-304).
+No recurso especial, os recorrentes alegam, além de divergência jurisprudencial, violação dos artigos 11, 371, 489, 620, 835 e 1.022, II, do Código de Processo Civi.
+Sustenta tese de negativa de prestação jurisdicional por ausência de fundamentação.
+Afirma que a penhora imediata das quotas sociais na empresa SOLOCLINICA LTDA ME é medida por demais gravosa, por se tratar de uma microempresa familiar, de onde os recorrentes retiram seu sustento.
+Argumenta que a parte contrária não realizou a tentativa de penhora dos bens previstos no art. 835, I a VIII, do CPC, conforme se observa dos autos, tendo buscado apenas a penhora via convênio Sisbajud e Renajud.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem a especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem.
+De fato, a mera alegação de que o Tribunal local não teria analisado o recurso sob o enfoque das alegações formuladas nos embargos declaratórios opostos ao acórdão recorrido não é suficiente para demonstrar a negativa de prestação jurisdicional ventilada.
+Assim, não tendo os recorrentes demonstrado o ponto acerca do qual o acórdão recorrido deveria ter se pronunciado, e não o fez, é manifesta a deficiência da fundamentação recursal nesse particular, o que atrai a incidência, por analogia, da Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATENDIMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. LIMITAÇÃO DE COBERTURA. RECUSA INJUSTICADA. AGRAVAMENTO DA SITUAÇÃO DE AFLIÇÃO PSICOLÓGICA E ANGÚSTIA DO BENEFICIÁRIO. CIRCUNSTÂNCIAS DELIMITADAS NO JULGADO ESTADUAL. DANO MORAL. CARACTERIZAÇÃO. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Conforme a jurisprudência desta Corte, afigura-se abusiva a negativa, pelo plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando a indevida recusa de cobertura.
+3. Outrossim, a recusa injustificada, pela operadora de plano de saúde, em autorizar tratamento médico emergencial enseja reparação a título de danos morais, porque agrava a situação de sofrimento psíquico do usuário, já abalado ante o estado debilitado da sua saúde.
+4. Estando o acórdão recorrido em consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 2.174.617/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Consoante a jurisprudência firmada nesta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. Nos termos da jurisprudência desta Corte Superior, a viabilidade da ação rescisória por ofensa à disposição de lei pressupõe violação direta da literalidade da norma jurídica. Ademais, o erro de fato que enseja a propositura da ação rescisória não é aquele que resulta de eventual má apreciação da prova, mas, sim, o que decorre da ignorância de determinada prova, diante da desatenção do julgador na apreciação dos autos. Incidência da Súmula 83/STJ.
+3.1. Outrossim, rever a conclusão do Tribunal a quo acerca da ausência dos requisitos legais para a procedência da ação rescisória, no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+5. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 2.006.960/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+De outro lado, o Tribunal de origem, após detalhado exame do acervo fático-probatório, decidiu manter a penhora sobre as quotas sociais da empresa pelos seguintes fundamentos:
+"No tocante ao argumento de que a penhora sobre as quotas sociais da empresa viola os princípios da proporcionalidade e da menor onerosidade do devedor, mormente por se tratar de microempresa, cujos sócios são os agravantes, não houve demonstração concreta acerca da tese sustentada, até porque restaram frustradas as tentativas de constrição de outros bens dos executados.
+Na espécie, após a decisão que rejeitou a impugnação ao cumprimento de sentença (mov. 146, autos em apenso), foi determinada a penhora de ativos financeiros, via SISBAJUD, a qual restou infrutífera (mov. 151).
+A inscrição do nome dos devedores em cadastros de inadimplentes, por meio do sistema SERASAJUD (mov. 164), também não imprimiu efetividade à pretensão executória, já que o crédito não foi adimplido.
+Ademais, embora efetivada a restrição judicial, via RENAJUD, com o bloqueio de transferência dos veículos I/RAM 2500 Laramie, placa OOM-7272 e M. Benz/L1114, placa BWY-9675 (mov. 165, arq. 02), os executados não indicaram o paradeiro dos veículos, nem comprovaram a alegação de que teriam sido tomados por cobradores particulares, razão de lhes ter sido aplicado multa por ato atentatório à dignidade da Justiça, com fundamento no art. 774, inc. V e parágrafo único, do CPC/15.
+Além disso, à luz do art. 805, parágrafo único, da Lei Processual Civil, incumbia aos executados indicar outros meios eficazes e menos onerosos para viabilizar a execução, ônus do qual não se desincumbiram.
+(..)
+Portanto, não há falar em necessidade de esgotamento de outros atos executivos menos gravosos, tampouco, em prejuízo ao exercício das atividades econômicas dos agravantes, porquanto evidenciado que as várias medidas constritivas intentadas, a fim de satisfazer o crédito, restaram inexitosas.
+Aliás, não se pode ignorar que a execução se dá na perspectiva da satisfação do crédito, diante do princípio da efetividade da tutela jurisdicional executiva." (e-STJ fls. 265-267).
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Em reforço:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PARCELAMENTO. VEDAÇÃO SOB A ÉGIDE DO CPC/2015. SÚMULA 83/STJ. MENOR ONEROSIDADE. VIOLAÇÃO. INEXISTÊNCIA. SÚMULA 83/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça, formada à luz do diploma processual revogado, admitia a realização, no cumprimento de sentença, do parcelamento do valor da execução pelo devedor previsto apenas para a execução de título executivo extrajudicial (art. 745-A do CPC/1973), em virtude da incidência das regras desta espécie executiva subsidiariamente àquela, conforme dispunha o art. 475-R do CPC/1973" (REsp 1.891.577/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/5/2022, DJe de 14/6/2022).
+2. "Embora deva a execução ser processada do modo menos gravoso ao devedor, ela há de realizar-se no interesse do credor, que busca, pela penhora, a satisfação da dívida inadimplida" (AgInt no AREsp 956.931/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/3/2017, DJe de 10/4/2017).
+3. O Tribunal de origem, mediante o exame dos elementos informativos da demanda, concluiu que a penhora das contas da empresa não implicou forma mais gravosa de execução.
+4. Infirmar as conclusões do julgado demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno desprovido" (AgInt no AREsp n. 2.245.108/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/8/2023, DJe de 25/8/2023 - grifou-se).
+"PROCESSUAL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PENHORA. PRINCÍPIO DA EFETIVIDADE DA EXECUÇÃO. PRINCÍPIO DA MENOR ONEROSIDADE E DA MANUTENÇÃO DA EMPRESA. ALTERAÇÃO DO JULGADO QUE DEMANDA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+(..)
+4. O Tribunal de origem manteve o bloqueio dos ativos financeiros por falta de comprovação de que a constrição acarretaria o encerramento das atividades da empresa executada, adotando a orientação consolidada nesta Corte Superior de que o princípio da menor onerosidade da execução não é absoluto, devendo ser observado em consonância com o princípio da efetividade da execução, preservando-se o interesse do credor.
+5. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+6. A argumentação acerca da impenhorabilidade de valores inferiores a 40 salários-mínimos não deve prosperar, uma vez que se trata de inovação recursal. Ela não foi alegada no momento oportuno nas razões do recurso especial, ocorrendo a preclusão consumativa.
+7. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.711.881/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Proce sso Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
