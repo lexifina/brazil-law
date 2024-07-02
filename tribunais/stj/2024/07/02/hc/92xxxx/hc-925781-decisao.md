@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+EMENTA: HABEAS CORPUS EM FACE DE DECISÃO EXTINTIVA, QUE NÃO CONHECEU DE PETIÇÃO DE NULIDADE DA BUSCA VEICULAR. WRIT UTILIZADO COMO SUBSTITUTO RECURSAL. PRECLUSÃO PRO JUDICATO. INEXISTÊNCIA DE ILEGALIDADE. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO.
+1. O Habeas Corpus, nos termos do art. 5º, inciso LXVIII, da Constituição da República, é espécie de ação que somente poderá ser adotado conforme os pressupostos processuais e suas condições, devidamente fundamentadas no art.647 e 648 do Código de Processo Penal.
+2. Compreende-se que o instituto da preclusão pro judicato veda ao órgão jurisdicional decidir novamente questão já apreciada sob as mesmas condições de fato, cabendo tal revisão, em caso de recurso, ao órgão hierarquicamente superior.
+3. O exaurimento da prestação jurisdicional nesta instância, associado ao fato deque a apelação criminal pende de análise de recursos especial e extraordinário, impede quaisquer manifestações desta Corte acerca da alegada nulidade de busca veicular.
+4. Apesar de ser hipótese de não conhecimento da impetração, não se vislumbra, igualmente, qualquer ilegalidade flagrante que autorize a concessão de ordem de ofício.
+5. Habeas Corpus não conhecido.
+O paciente foi condenado às penas de 8 anos, 10 meses e 15 dias de reclusão e 40 dias-multa, pela prática dos crimes previstos nos arts. 155,§§ 1º, 4º, IV, e § 6º, do Código Penal; 14 da Lei nº 10.826/03 e 7º, X, da Lei nº 8.137/90 (furto qualificado, porte ilegal de arma de fogo de uso permitido e comercialização de mercadoria imprópria para o consumo).
+A defesa impetrou habeas corpus perante o Tribunal de origem questionando a decisão do Juízo de primeiro grau que não examinou o pedido de nulidade da busca veicular e demais provas que dela derivarem e julgou extinto o feito, sem resolução do mérito, diante da ocorrência do instituto da preclusão pro judicato.
+O habeas corpus não foi conhecido.
+A defesa alega, em síntese: a) "em que pese a defesa do paciente não ter suscitado o pedido de nulidade da busca veicular nas alegações finais, não inviabiliza que o pedido seja pleiteado na origem, vez que o processo não transitou em julgado e as nulidades podem ser atacadas por meio de petição simples (Ação anulatória) ou habeas corpus, em respeito ao acesso a justiça, Inafastabilidade da Jurisdição e Ampla Defesa -Art. 5º, incisos XXXV e LV, ambos da CRFB" (e-STJ fl. 12);
+b) "ao o recurso de apelação, o Tribunal de Justiça do Estado do Tocantins não analisou o pedido de nulidade da busca veicular com o fundamento de que o referido pedido de nulidade não foi suscitado ao juízo a quo na fase de alegações finais, não sendo possível analisá-lo em grau de jurisdição, sob pena de supressão de instância e inovação recursal, negando provimento ao recurso" (e-STJ fl. 12);
+c) "Assim, a falta de pronunciamento a respeito da matéria (Nulidade da busca veícular por ausência de fundadas suspeitas) em petição anulatória simples e perante o Tribunal Tocantinense é causa de constrangimento ilegal ao paciente, sendo cabível, na espécie, a concessão de habeas corpus, inclusive de ofício, a fim de sanar a ilegalidade" (e-STJ fl. 20)
+Ao final, requer a concessão da ordem para para determinar ao Juízo da 1ª Vara Criminal da Comarca de Paraíso do Tocantins que examine o pleito nulidade da busca veicular e de todas as provas que da busca derivarem.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
