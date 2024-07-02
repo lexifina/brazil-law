@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Clenio Samuel de Lira - condenado por roubo circunstanciado tentado a 8 anos de reclusão, em regime inicial fechado, e a 20 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 9/15), não comporta processamento.
+Com efeito, busca a impetração o abrandamento do regime inicial imposto ao paciente - na condenação proferida na Ação Penal n. 1512471-03.2022.8.26.0228 (fls. 16/27, da 16ª Vara Central Criminal da comarca de São Paulo) -, fixando o regime semiaberto, ao argumento de que o paciente é primário e portador de bons antecedentes. Ou seja, medida imperiosa que seja observado o princípio da razoabilidade e proporcionalidade (fl. 5).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 22/3/2023 (conforme informações do endereço eletrônico do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a pena definitiva foi fixada em 8 anos de reclusão e a fundamentação do agravamento do regime se deu em razão da gravidade concreta do delito - considerada a exacerbada gravidade do crime, posto que a vítima permaneceu custodiada durante a ousada ação de se dirigirem à casa da vítima para subtração de outros pertences, arriscando a família que ali estava (fl. 26).
+Nesse sentido: a manutenção do regime fechado baseou-se na gravidade concreta do delito, praticado em concurso de três agentes e com emprego ostensivo de arma de fogo, em ambientes comercial e residencial, denotando a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena (AgRg no HC n. 884.884/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/6/2024, DJe 13/6/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. POSSIBILIDADE. PRECEDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
