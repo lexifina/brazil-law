@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, recurso especial, interposto por ANCAR PARKING ESTACIONAMENTOS LTDA, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ORDEM LEGAL DE BENS NOMEADOS À PENHORA. ART 11 DA LEI 6830/80. RECUSA PELA FAZENDA PÚBLICA. POSSIBILIDADE. PRINCÍPIO DA MENOR ONEROSIDADE QUE DEVE SER INTERPRETADO EM CONSONÂNCIA COM O PRINCÍPIO DA MÁXIMA UTILIDADE DA EXECUÇÃO. AGRAVO DE INSTRUMENTO DESPROVIDO E AGRAVO INTERNO PREJUDICADO.
+1- Trata-se de Agravo de Instrumento com pedido de efeito suspensivo, interposto em face da decisão proferida nos autos da execução fiscal, que indeferiu o pedido de substituição da penhora de ativos financeiros, efetivada via Bacen-Jud, por seguro garantia.
+2- Nos termos dos arts. 797 e 805 do Código de Processo Civil, ainda que a execução deva dar-se pelo modo menos gravoso ao devedor, o processo executivo deve realizar-se no interesse do credor.
+3- É dizer, o princípio da menor onerosidade deve ser interpretado em consonância com o princípio da máxima utilidade da execução, ou seja, a argumentação de onerosidade excessiva deve vir acompanhada de outro meio, igualmente eficaz para satisfação da execução.
+4- É cediço que constitui a execução fiscal um procedimento diferenciado, voltado à arrecadação de receitas condicionantes das necessidades coletivas. Os atos nele cabíveis não podem ser interpretados como se a relação processual fosse paritária, nos moldes da execução comum. O procedimento vem impregnado de diversos privilégios, nos quais se inclui justamente a penhora.
+5- O artigo 835 do CPC traz à tona a ordem preferencial de penhora, cujo §1º ainda destaca a prioridade da constrição de dinheiro.
+6-Especificamente no que diz respeito à penhora on line de ativos financeiros, o Novo Código de Processo Civil de 2015, em seu artigo 854, ratificou a previsão do antigo diploma legal de 1973, confirmando tratar-se de medida preferencial para constrição de bens no processo de execução.
+7- Os supramencionados dispositivos da lei processual coadunam com a previsão do artigo 11 da Lei nº. 6.830/80, que elenca o rol dos bens a serem oferecidos à penhora, devendo ser obedecida a ordem eleita pelo legislador infraconstitucional, tendo a penhora em dinheiro preferência sobre todas as outras, por oferecer uma maior garantia ao credor de efetividade do processo.
+8- Com efeito, a Primeira Seção de Direito Público do STJ, no julgamento do Resp. nº. 1.090.898/SP sob o rito dos recursos repetitivos, reafirmou a aplicação do disposto no art. 15, I, da LEF, segundo o qual a substituição da penhora, a pedido do devedor, só pode se efetivar por meio de dinheiro ou fiança bancária. Tratando-se de outro tipo de bem, a substituição exige expressa concordância da Fazenda Pública.
+9-No caso vertente, a exequente, ora agravada, não concordou com o pedido de substituição de penhora sobre dinheiro pela apólice de seguro garantia (Evento 15).
+10-Nesse sentido, a não observância da ordem legal de preferência da nomeação de bens à penhora, na forma do art. 11 da Lei 6830/80, demanda a comprovação, pelo executado, da existência de elementos concretos que justifiquem a incidência do princípio da menor onerosidade, sendo insuficiente a mera invocação genérica de risco ao funcionamento da empresa.
+11-O Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo nº 1.337.790/PR, vinculado ao tema 578, de relatoria do Min. Herman Benjamin, decidiu que cumpre ao executado nomear bens à penhora, observada a ordem legal, sendo seu o ônus de comprovar a necessidade de afastá-la, mostrando-se insuficiente a alegação genérica do princípio da menor onerosidade.
+12-Portanto, considerando que a exequente pode recusar bem ofertado pelo executado, sobretudo quando oferecidos bens ou valores com menor vantagem para a credora do que outros existentes, localizados em melhor posição na ordem legal estabelecida pela Lei de Execuções Fiscais, não vislumbro motivos para alterar a decisão ora agravada.
+13- Agravo de instrumento desprovido e agravo interno prejudicado. (fl. 114/115)
+O acórdão em questão foi objeto de embargos de declaração (fls. 128/138), aos quais foi negado provimento. (fls. 162/166)
+Nas razões do recurso especial, interposto com base no art. 105, III, a e c da Constituição Federal, a parte ora recorrente aponta, além da divergência jurisprudencial, violação aos arts. 805 do CPC/2015; 9º, II e 15, I, da Lei 6.830/1980, sustentando, em síntese, que: seja determinada a "substituição da penhora em dinheiro pela apólice de seguro garantia (..)." (fl. 193)
+Contrarrazões apresentadas (fls. 246/250), o recurso especial foi admitido pelo Tribunal de origem (fl. 259).
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Acerca do princípio da menor o nerosidade, que autorizaria a substituição da penhora em dinheiro pelo seguro garantia, conforme pretende o recorrente, assim se manifestou o Tribunal de origem:
+Nesse sentido, a não observância da ordem legal de preferência da nomeação de bens à penhora, na forma do art. 11 da Lei 6830/80, demanda a comprovação, pelo executado, da existência de elementos concretos que justifiquem a incidência do princípio da menor onerosidade.
+O Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo nº 1.337.790/PR, vinculado ao tema 578, de relatoria do Min. Herman Benjamin, decidiu que cumpre ao executado nomear bens à penhora, observada a ordem legal, sendo seu o ônus de comprovar a necessidade de afastá-la, mostrando-se insuficiente a alegação genérica do princípio da menor onerosidade. (fls. 112)
+Vê-se que o Tribunal a quo entendeu que a menor onerosidade foi apenas alegada, sem nenhuma prova efetiva de sua ocorrência. Nesse contexto, "a revisão da conclusão a que chegou a Corte Regional acerca da não configuração de ofensa ao princípio da menor onerosidade pressupõe o reexame dos fatos e provas da causa, o que é inviável no âmbito do recurso especial, ante o veto contido na Súmula 7 do STJ" (STJ, AgInt no REsp 1.789.026/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 02/08/2019).
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. CUMPRIMENTO DE SENTENÇA. PEDIDO DE SUBSTITUIÇÃO DA PENHORA.
+1. A questão envolvendo o pedido de substituição da penhora foi decidida de modo integral e suficiente, não se configurando vício que dê ensejo ao acolhimento da alegada violação ao art. 535 do CPC/1973 para fins anulação do acórdão dos embargos de declaração.
+2. O Tribunal de origem assentou a não configuração de situação excepcional que autorize a substituição da penhora em dinheiro por fiança bancária ou seguro garantia. Nessas circunstâncias, o acolhimento das alegações em sentido contrário da recorrente esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno não provido. (AgInt no AREsp 1.022.114/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 21/08/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. SUBSTITUIÇÃO. PRINCÍPIO DA MENOR ONEROSIDADE. SÚMULA 7 DO STJ.
+1. Verificar a possibilidade da alteração da ordem legal da penhora, se estava ou não justificada pelas particularidades apresentadas, assim como definir o meio menos oneroso para ser efetivada demanda necessariamente a incursão na seara fático-probatória dos autos, o que é inviável em sede de recurso especial, nos termos do que dispõe a Súmula 7 do STJ.
+2. Agravo interno desprovido. (AgInt no AREsp 904.380/SP, relator Ministro Gurgel de Faria, Primeira Turma , DJe de 20/10/2016)
+Sendo assim, o óbice imposto à admissão do recurso pela alínea "a" obsta a
+análise recursal pela alínea "c", resta, portanto, a análise do dissídio jurisprudencial prejudicada.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intime-se.
+EMENTA
