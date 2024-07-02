@@ -1,0 +1,22 @@
+DECISÃO
+CARLOS EDUARDO LEMES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0000519-19.2024.8.26.0071.
+A defesa busca seja concedida ao paciente a progressão ao regime semiaberto, por reputar preenchidos os requisitos necessários para tanto.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+O Magistrado de origem indeferiu o pedido de progressão ao regime semiaberto formulado em desfavor do paciente, pois este "não reúne mérito para cumprir pena sob menorvigilância, notadamente porque foi novamente condenado ao cumprimento de pena em regimeinicial fechado pela prática dos delitos de furto qualificado e associação criminosa, durante o gozode livramento condicional" (fl. 50).
+O Tribunal estadual ratificou a decisão de origem, "diante da gravidade dos delitos e o histórico prisional maculado pelo cometimento de novo crime quando em cumprimento de livramento condicional" (fl. 18).
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que as instâncias de origem ressaltaram que o reeducando, beneficado com livramento condicional, em 2/12/2019, descumpriu condições que lhe foram impostas em audiência admonitória, pois, no cusro do período de prova, foi preso em flagrante, em 28/4/2020, pela suposta prática dos delitos de estelionato e furto qualificado. O benefício foi revogado por meio de decisão proferida em 31/8/2022, após o trânsito em julgado de condenação, à pena de 4 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado.
+Portanto, verifica-se que foi indeferida a benesse em função do histórico prisional desfavorável ao apenado, argumento que encontra guarida na jurisprudência do Superior Tribunal de Justiça, segundo a qual, "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" (HC n. 468.765/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/12/2018, DJe de 18/12/2018).
+Nesse sentido, menciono, ainda:
+ ..
+1. Segundo reiterada jurisprudência do Superior Tribunal de Justiça, a conduta do reeducando, no curso do cumprimento da pena, deve ser avaliada de forma global e contínua, sendo inadmissível qualquer limitação temporal para a consideração das faltas por ele cometidas na análise do preenchimento do requisito subjetivo para a obtenção de progressão de regime
+2. A prática de falta disciplinar de natureza grave (prática de novo crime durante livramento condicional anteriormente concedido e tendo ficado evadido por mais de 3 anos), demonstra uma conduta carcerária conturbada e é causa suficiente para o indeferimento do benefício legal.
+3. Para se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo do condenado, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+ ..
+5. Agravo regimental desprovimento.
+(AgRg no HC n. 529.214/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/12/2019, DJe de 16/12/2019)
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
