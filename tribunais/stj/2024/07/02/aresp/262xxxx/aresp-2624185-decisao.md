@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por JADSON SOUZA DA CRUZ e VICTOR GABRIEL SOARES DA CRUZ contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 8003950-57.2023.8.05.0001.
+Em suas razões, os agravantes sustentam que não incide o óbice da Súmula n. 7/STJ, destacando que a pretensão recursal não exige o reexame fático, visto que se discute apenas a valoração probatória conferida aos fatos exarados no acórdão, que erroneamente fundamentou o édito condenatório (sic).
+Afirmam que, de igual modo, os pleitos de desclassificação do delito de roubo para o de furto, e da absolvição por insuficiência probatória, são questões que induzem somente a discussão acerca da norma jurídica melhor aplicável ao caso, sem que isso implique no reexame do quadro fático-probatório dos autos (fls. 643-644).
+Contrarrazões às fls. 651-655.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo (fls. 676-679).
+É o relatório.
+DECIDO.
+O agravo não pode ser conhecido.
+A Corte de origem inadmitiu o recurso especial diante do óbice contido na Súmula n. 7/STJ (fls. 630-637). Nas razões do agravo, contudo, a parte deixou de impugnar a incidência do referido impedimento.
+Com atinência à refutação da suprarreferida súm ula,a parte agravante deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório. Não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido.
+Para fins de impugnação ao óbice da Súmula n. 7/STJ, é imprescindível que a parte demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem a incursão no conjunto fático-probatório - o que não ocorreu -não sendo aceitável que a parte a contorne mediante alegação abstrata de pretender revaloração, deixando de partir dos fatos reconhecidos nas instâncias ordinárias para efetuar a sua própria avaliação da instrução. (AgRg no AREsp n. 1.711.751/DF, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 15/6/2021, DJe 21/6/2021).
+Como se sabe,
+são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (AgRg no AREsp 2176543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/9/2023).
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍF ICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MONOCRÁTICA MANTIDA.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe, conforme ressaltado na decisão monocrática recorrida, o não conhecimento do agravo em recurso especial.
+2. No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e específica, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, especificamente com relação à incidência da Súmula n. 7/STJ.
+3. Nos termos da jurisprudência desta eg. Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, julgado em 27/09/2022, DJe de 30/09/2022.).
+4. Agravo regimental desprovido. (AgRg no AREsp 2422499/SP. Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024 - grifamos).
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, uma vez que deixou de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+Com igual conclusão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO. OFENSA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. MINUTA DE AGRAVO QUE NÃO INFIRMOU, DE FORMA CONCRETA E INDIVIDUALIZADA, TODOS OS FUNDAMENTOS DECLINADOS NA DECISÃO DE INADMISSÃO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão monocrática não conhecendo do agravo em recurso especial é permitida no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça. Além disso, a possibilidade de interposição de agravo regimental afasta a alegação de ofensa ao princípio da colegialidade.
+2. Não hou ve concreta impugnação de todos os fundamentos declinados pela Corte de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida.
+3. Agravo regimental desprovido. (AgRg no AREsp 1871630/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023 - grifamos)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
