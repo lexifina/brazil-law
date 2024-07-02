@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de DIEGO DE OLIVEIRA QUADROS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal nº 5001904-94.2017.8.21.0007).
+O MM. Juiz da Vara Criminal da comarca de Camaquã-RS condenou o paciente à pena de 01 (um) ano e 06 (seis) meses de reclusão, no regime semiaberto, bem como ao pagamento de 15 (quinze) dias multa, pela prática do delito tipificado no artigo 155, caput do Código Penal (e-STJ 119/124).
+A Corte de origem negou provimento ao recurso interposto pela defesa (e-STJ 184/190).
+A defesa alega, no presente habeas corpus, o desacerto da fração utilizada para elevar a pena, na segunda fase dosimétrica, em virtude da agravante da reincidência.
+Sustenta que a pena foi elevada em 06 (seis) meses sem fundamentação idônea se afastado, em muito, da fração de 1/6 ou 1/8, admitida por esta Corte de Justiça.
+Requer o deferimento da liminar para que seja a pena majorada em 2 meses, em virtude da agravante da reincidência e, no mérito, a confirmação da liminar com a concessão da ordem (e-STJ 03/08)
+A liminar foi indeferida pelo Ministro Jesuíno Rissato (Desembargador convocado do TJDFT) - e-STJ 207/208.
+Informações prestadas (e-STJ 214/240).
+O Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ 245/248).
+Considerando o tempo decorrido deste a autuação do presente feito e as alterações de relatoria, determinei a intimação do impetrante para que se manifestasse a respeito da manutenção do interesse no julgamento do feito (e-STJ 253).
+Com a resposta positiva (e-STJ 261/274) vieram-me os autos conclusos.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+"Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade" (HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Inviável, portanto, o conhecimento do writ em análise, porquanto manejado como substitutivo de revisão criminal. No entanto, cabe conceder a ordem de ofício diante de flagrante ilegalidade do ato impugnado, que verifico no caso em exame.
+Sobre o tema, relembro que o entendimento desta Corte é no sentido de que "não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal. Ao contrário, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto" (AgRg no AREsp 2.348.172/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024).
+Ademais, entende que "Não há previsão legal ou obrigatoriedade de adoção de critério formal e puramente matemático para a fixação da sanção básica. O julgador, motivadamente, poderá levar em consideração as peculiaridades de cada caso e adotar frações diferentes de 1/6 (a partir do mínimo legal) ou 1/8 (sobre o intervalo do preceito secundário do tipo penal)" (AgRg no REsp 1.968.097/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024).
+Nota-se, no entanto, que as instâncias ordinárias, na segunda fase dosimétrica, aumentaram a pena em 6 seis meses, em virtude da agravante da reincidência, utilizando fração bem superior a 1/6 sem, no entanto, apresentar fundamentação concreta e específica para justificar o incremento em maior extensão, pelo que de rigor o reconhecimento do constrangimento ilegal.
+Ante o exposto, NÃO CONHEÇO DO HABEAS CORPUS PORÉM, DE OFÍCIO, CONCEDO A ORDEM, e passo a adequar a pena do paciente, condenado pela prática do delito tipificado no artigo 155, caput, do Código Penal.
+Na primeira fase dosimétrica, a pena-base foi fixada no mínimo legal, qual seja, 1 (um) ano de reclusão e 10 (dez) dias-multa.
+Na segunda fase, em virtude da agravante da reincidência, majoro a pena em 1/6, oportunidade em que fixo, provisoriamente, a pena em 1 (um) ano e 2 (dois) meses de reclusão e 11 (onze) dias-multa.
+Ausentes, na terceira fase dosimétrica, qualquer causa especial de aumento ou de diminuição da pena, concretizo a sanção a ser cumprida por DIEGO DE OLIVEIRA QUADROS em 1 (um) ano e 2 (dois) meses de reclusão, no regime semiaberto (Súmula 269 do STJ) e 11 (onze) dias-multa.
+Comunique-se, com urgência, a Autoridade Coatora, bem o o Juízo da Execução.
+EMENTA
