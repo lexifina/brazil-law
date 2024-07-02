@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO DE JANEIRO contra decisão do Tribunal de Justiça da mesma unidade da federação, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 29):
+Agravo de Instrumento. Cumprimento de Sentença. Impugnação. Excesso de Execução. Decisão agravada que homologou os cálculos apresentados pelo Estado/Executado. Agravo interposto pelo exequente.
+Decisão agravada que deixou de enfrentar as alegações invocadas pelo exequente, orientando-se pela manifestação da contadoria judicial, que por sua vez não apresentou qualquer planilha contendo a especificação contábil das verbas devidas e a respectiva atualização monetária, afirmando apenas a correção dos cálculos do impugnante, o que, inclusive,dificulta sobremaneira a análise pelo julgador quanto à correção dos cálculos homologados. Ausência de fundamentação configurada. Artigo 489, inciso I do Código de Processo Civile artigo 93, inciso IX da Constituição Federal. Precedentes. Nulidade da Decisão.
+Provimento do Agravo de Instrumento.
+Embargos de declaração rejeitados (e-STJ fls. 69/73).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 489, §1º, e 534 do CPC/2015, sustentando que
+descabe a anulação do decisum por ausência de fundamentação (art. 489, § 1º, do CPC), uma vez que o magistrado de primeiro grau expõe a motivação acima aduzida, além de deixar clara a concordância com a manifestação da Central de Cálculos Judiciais de fls. 347 para homologação (fls. 365), a qual informou que os cálculos apresentados pelo réu, em fls. 338/339, encontram-se aritmeticamente corretos e em consonância com as informações constantes de indexador 281.
+Contrarrazões às e-STJ fls. 76/79.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Mostra-se pertinente transcrever trecho do acórdão ora recorrido (e-ST J fls. 33/34.):
+Como cediço, toda e qualquer decisão, dentre as quais se incluem as interlocutórias,deve ser devidamente fundamentada, premissa essa que ganhou força coma entrada em vigor do novo Código de Processo Civil, nos termos do artigo 489, inciso I do Código de Processo Civil.
+Outrossim, o comando judicial desprovido da devida fundamentação encontra óbice na disposição contida no artigo 93, inciso IX da Constituição Federal.
+Verifica-se que a decisão agravada deixou de enfrentar as alegações invocadas pelo exequente na petição de indexador 359, orientando-se pela manifestação da contadoria judicial, que por sua vez, não apresentou qualquer planilha contendo a especificação contábil das verbas devidas e a respectiva atualização monetária, afirmando apenas a correção dos cálculos do impugnante, o que, inclusive,dificulta sobremaneira a análise pelo julgador quanto à correção dos cálculos homologados.
+Logo, deve ser declarada a nulidade da Decisão agravada,determinando-se que o Juízo a quo aprecie, com a devida fundamentação, todas as questões trazidas na petição de indexador 359, com posterior remessa dos autos a contadoria judicial para elaboração de planilha de cálculo pormenorizada, contendo os valores históricos devidos a cada mês, destacados dos valores correspondentes à correção monetária e juros de mora, com a indicação dos índices de correção monetária e dos juros utilizados, entre outros elementos técnicos que devem compor a análise de cálculo, a fim de permitir a sua compreensão e análise de sua conformidade com o que determina o título executivo.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FASE DE CUMPRIMENTO DE SENTENÇA. ARTS. 489, § 1º, IV, E 1.021, § 1º DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTES. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE PRETENDIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. ANÁLISE DE FATOS E PROVAS. FUNDAMENTO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+4. O Tribunal de origem, ao dar provimento ao agravo de instrumento, acolheu a impugnação ao cumprimento de sentença, no que tocante à alegação de excesso de execução. Dessa forma, a pretensão de reverter a conclusão do Tribunal local demandaria o revolvimento do acervo fático-probatório dos autos, medida vedada ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação do enunciado n. 283 da Súmula do STF.
+6. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação na multa do ar t. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+7. Agravo interno improvido.
+(AgInt no AREsp 1.341.446/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/3/2021, DJe de 3/3/2021.).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte sucumbente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
