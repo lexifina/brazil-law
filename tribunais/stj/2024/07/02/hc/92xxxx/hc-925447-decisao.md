@@ -1,0 +1,17 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Joao Paulo Eloi de Araujo - condenado por roubo circunstanciado a 8 anos, 3 meses e 29 dias de reclusão, e a 28 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça da Paraíba (fls. 116/122), não comporta processamento.
+Com efeito, busca a impetração:
+a) o reconhecimento nulidade do reconhecimento pessoal do paciente - apontando que, compulsando os autos, do início ao fim, seja na fase de inquérito policial, seja na fase processual, não há sequer uma fotografia dos acusados acostada no feito (fl. 6);
+b) o redimensionamento da pena imposta - na condenação proferida na Ação Penal n. 0003282-24.2020.8.15.0011 (fls. 102/114 - da 4ª Vara Criminal da comarca de Campina Grande/PB) -, com o afastamento da exasperação da pena-base, ao argumento de que a circunstância desfavorável (concurso de agentes) foi compensada com a confissão espontânea na segunda fase dosimétrica (fl. 11); e
+c) consequentemente, o abrandamento do regime prisional.
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 6/3/2024 (conforme informações do endereço eletrônico do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pl eito.
+Inicialmente, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, quanto à alegação de nulidade do reconhecimento pessoal do paciente, pois essa nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configura prestação jurisdicional em indevida supressão de instância.
+Ademais, tem-se que também não foi demonstrado constrangimento ilegal na pena fixada, na primeira fase, uma vez que a negativação dos vetores aqui questionada foi fundamentada em elementos concretos que explicitam que o caso concreto excedeu os limites do tipo penal violado, em consonância com o entendimento desta Corte. Confira-se:
+a) circunstâncias - a valoração negativa de dito vetor mostrou-se ancorada no fato de a empreitada criminosa ter sido praticada em concurso de pessoas. Assim, não há óbice na consideração da majorante pelo concurso de agentes na primeira fase da dosimetria da pena, na moduladora circunstâncias do crime, desde que não levada a efeito na terceira fase (fl. 121); e
+b) consequências - sabe-se que o abalo emocional é consequência natural daquele que é vítima de um crime de roubo, decorrente, exatamente, da violência e grave ameaça exercida pelos autores do ato. Todavia, quando esse abalo emocional transcende o normal esperado pelo ilícito praticado, a ponto de intervir na vida da vítima, justifica-se a majoração da pena-base. Desta forma, dito vetor mostrou-se de extrema gravidade, porquanto a ação criminosa gerou trauma à vítima, ocasionando a necessidade de tratamento psicológico (fl. 121).
+Finalmente, mantida da reprimenda corporal acima de 8 anos de reclusão, escorreita a fixação do regime inicial fechado.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO CIRCUNSTANCIADO. NULIDADE. RECONHECIMENTO PESSOAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. CONCURSO DE PESSOAS. EXASPERAÇÃO DA PENA-BASE COM BASE EM MAJORANTE SOBEJANTE. POSSIBILIDADE. CONSEQUÊNCIAS. ABALO EMOCIONAL. NECESSIDADE DE TRATAMENTO PSICOLÓGICO. ELEMENTOS CONCRETOS DO CASO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente .
