@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar impetrado em favor de GABRIEL FERREIRA DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500209-12.2018.8.26.0535).
+Depreende-se dos autos que o ora paciente foi condenado, como incurso no art. 157, § 3º, II, c/c o art. 14, inciso II, ambos do Código Penal, às penas de 16 anos e 8 meses de reclusão, em regime inicial fechado, mais pagamento de 8 dias-multa.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa, mantendo incólume a sentença condenatória. Eis a ementa (e-STJ fl. 56):
+Apelação criminal. Latrocínio tentado (Art. 157, § 3º, II, c.c. art. 14, II, do CP). Preliminar de nulidade por cerceamento de defesa e em razão do reconhecimento pessoal. No mérito, pugna pela absolvição por insuficiência probatória. Subsidiariamente, pretende a desclassificação para o delito de roubo tentado. Preliminares afastadas. Conjunto probatório robusto a sustentar a condenação. Penas e Regime mantidos. Recurso improvido.
+Daí o presente recurso ordinário, no qual a defesa sustenta a ilegalidade do reconhecimento pessoal, uma vez que não foram observadas as formalidades previstas no art. 226 do Código de Processo Penal.
+Aduz que a condenação do paciente "decorreu do reconhecimento pela vítima Alison" (e-STJ fl. 5).
+Alega, ainda, ausência de fundamentação idônea para exasperar a pena-base acima do mínimo legal.
+Requer o reconhecimento da nulidade apontada e, por conseguinte, a absolvição do acusado. Subsidiariamente, busca a redução da pena-base ao mínimo legal.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Em consulta ao assentamento eletrônico do Superior Tribunal de Justiça, verifica-se que a condenação do paciente transitou em julgado em 10 de maio de 2022.
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte Superior acerca das controvérsias, mormente nos casos em que não se verifica nenhuma flagrante ilegalidade, tal qual a espécie.
+Ademais, quanto ao pedido de absolvição, percebe-se, ainda, que as alegações trazidas na impetração estão dissociadas da realidade fática e dos fundamentos apresentados no acórdão da origem.
+Da leitura do acórdão impugnado, verifica-se que o Tribunal de origem concluiu pela manutenção da condenação, haja vista que corroborada por outras provas de autoria, e não somente alicerçada no reconhecimento pessoal, consignando que, "em que pesem os argumentos da defesa, fica mantida a condenação, vez que a materialidade delitiva restou demonstrada nos autos, inclusive pelo auto de exibição e apreensão de fls. 25/26, sendo certa a autoria" (e-STJ fl. 60), bem como que "a vítima reconheceu o réu com segurança, tanto em solo policial quanto em juízo. O policial também apontou o réu como autor do delito, tendo reconhecido, inclusive, sua tatuagem com segurança. Ademais, a vítima Alisson ressaltou que a via estava bem iluminada, e o réu retirou o capacete ao desembarcar do motociclo. A versão do réu não encontra respaldo nos elementos probatórios coligidos, deixando de trazer aos autos qualquer informação coerente sobre o empréstimo ou venda do motociclo. Sua versão sequer se coaduna com a de sua esposa" (e-STJ fl. 64, grifei).
+Dessa forma, a defesa, ao afirmar que a condenação do paciente "decorreu do reconhecimento pela vítima Alison" (e-STJ fl. 5), apresenta realidade fática totalmente diversa daquela valorada pela instância a quo.
+Assim, também em razão da deficiência na fundamentação, fica obstada a análise deste habeas corpus, no ponto, ante a impossibilidade de compreensão da controvérsia.
+Por estas considerações, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
