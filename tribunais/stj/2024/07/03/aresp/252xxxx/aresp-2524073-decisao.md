@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Regiane da Silva Dias, desafiando decisão do Tribunal de Justiça do Estado do Espírito Santo que não admitiu o recurso especial, pelos seguintes motivos: (I) não ocorrência da alegada negativa de prestação jurisdicional e incidência da Súmula 83/STJ nesse ponto; (II) aplicação dos verbetes sumulares n. 283 e 284/STF; e (III) os pleitos relativos à carência de ação, prescrição, inépcia da inicial e ocupação irregular de bem público esbarram na vedação da Súmula 83/STJ, haja vista que o acórdão está alinhado à jurisprudência deste Sodalício.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do agravo (fls. 961/962).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte deixou de impugnar especificamente todos os motivos adotados pela instância de origem para negar trânsito ao a pelo especial.
+Com efeito, a insurgente não logrou infirmar o decisum, de forma específica e mediante argumentação suficiente, no ponto em que o Tribunal local aplicou a vedação sumular n. 83/STJ, no que se refere às alegações de carência de ação, prescrição e ocupação irregular de bem públicos (fls. 865/867).
+Note-se que caberia à agravante, nesse ponto, demonstrar de que modo a jurisprudência do STJ não estaria alinhada ao entendimento adotado no acórdão recorrido, providência da qual não se desincumbiu.
+Incide, dessa forma, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
