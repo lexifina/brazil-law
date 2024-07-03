@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GISELE APARECIDA DARIO com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em julgamento do Recurso Em Sentido Estrito n. 1010772-95.2021.8.26.0510.
+Consta dos autos que a recorrente ofereceu queixa-crime contra as recorridas, imputando-lhes a prática dos delitos tipificados nos arts. 138 (calúnia) e 139 (difamação), ambos do Código Penal - CP. O magistrado singular rejeitou a peça acusatória, com fundamento no art. 395, III, do CPP (fl. 64).
+Recurso em sentido estrito interposto pela recorrente foi desprovido (fl. 161). O acórdão ficou assim ementado:
+"Recurso em sentido estrito. Queixa-crime. Calúnia e difamação. Inicial rejeitada por ausência de justiça causa. Pleito de reforma da decisão. Impossibilidade. Pelo que se extrai das expressões tidas como caluniosas contidas na ata notarial, as quereladas teriam apontado para supostos crimes de maus tratos e apropriação indébita. Contudo, não há imputação direta de que a querelante cometeu qualquer delito. Recorridas que se utilizaram apenas do seu direito de crítica (animus narrandi e criticandi) sem evidente intenção de caluniar a querelante. Do mesmo modo, há de se rejeitar a imputação do crime de difamação. Declaração no sentido de que o senhor Irineu está em relacionamento amoroso com uma jovem (querelante), que se mudou para a casa dele, não retrata, como quer a querelante, nenhum rótulo de interesse de sua parte. Querelante que deve, se entender cabível, buscar reparação no Juízo cível,mormente diante da expressa subsidiariedade da medida penal adotada como regra pela nossa Constituição que, nos incisos V e X do art. 5º assegura o direito a indenização pordano moral e material, sem prejuízo do direito de resposta. Concessão da justiça gratuita que não impede, todavia, a condenação em custas e honorários advocatívios. Obrigação que fica meramente suspensa pelo prazo de cinco anos. Negado provimento ao recurso" (fl. 158)
+Em sede de recurso especial (fls. 176/181), a recorrente apontou violação ao art. 41 do CPP e 492 do CPC, sustentando, em síntese, o recebimento da queixa crime e, subsidiariamente, o afastamento da condenação ao pagamento das despesas e honorários.
+Contrarrazões de CRISTIANE DOS SANTOS SILVA, KETIUSCIA VITORIA ROSSINI MANDARINO, MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 190/192 e 196/202).
+Admitido o recurso no TJ (fls. 205/206), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento/provimento do recurso especial (fls. 216/221).
+É o relatório.
+Decido.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO manteve a rejeição da queixa-crime nos seguintes termos do voto do relator (fls. 160/162):
+"Como dito, não se verifica o dolo de ofender a honra ou a imagem da querelante. O que se tem é mero inconformismo da querelada comas atitudes de seu genitor após iniciar novo relacionamento amoroso.
+No mesmo sentido, não se vislumbra qualquer imputação de apropriação indébita, ao reverso do que quer fazer parecer a querelante, pois a querelada nada mais fez do que deixar registrados os fatos dos quais tem conhecimento, sem afirmar que a querelante estaria se apropriando ilicitamente do dinheiro de Irineu.
+Tampouco há ofensa a honra da querelante capaz de gerar o delito de difamação.
+Vale dizer, a querelada, ao efetuar o registro da ata notarial, nada mais vez do que narrar aquilo de que tinha conhecimento, sem apresentar qualquer conclusão capaz de atingir a imagem de Gisele Aparecida, ao menos a ponto de configurar o dolo necessário para tanto.
+Como apontado pela PGJ, para fins penais, trata-se apenas do direito das quereladas de crítica, informação e opinião (animus narrandi e criticandi), sem intenção deliberada de difamar, injuir ou caluniar a recorrente.
+Além do mais, é preciso cuidado redobrado em casos como este, para que o direito penal não seja utilizado como forma de vingança ou como instrumento para produzir efeitos em outras searas do direito.
+E, se a querelante se sentiu ofendida em sua honra,deve buscar a reparação no Juízo cível, mormente diante da expressa subsidiariedade da medida penal adotada como regra pela nossa Constituição que, nos incisos V e X do art. 5º assegura o direito a indenização por dano moral e material, sem prejuízo do direito de resposta.
+É descabido usar do direito penal como primeira medida. Principalmente em situações como a em questão, de mera especulação a serviço de hiper-sensibilidades.
+ ..
+Quanto às custas processuais, recordo que se trata de parte beneficiária da Justiça Gratuita, o que não impede a condenação dela, já quesucumbente, ao pagamento das despesas processuais e honorários advocatícios, na forma do artigo 98, §§ 2º e 3º do Código de Processo Civil, de aplicação subsidiáriaà espécie:
+ ..
+Assim, além das custas processuais pertinentes, pelo trabalho da Defensoria, estipulam-se honorários de quatro mil e quinhentos e noventa e três reais (item 13.4 da tabela de honorários da OAB/SP).
+Lembro que tais verbas sucumbenciais, que podem ser aplicadas de ofício, encontram fundamento no art. 4º, XXI, da Lei Complementar. 80/94,com a redação conferida pela Lei Complementar 132/09, fazendo parte do reforço orçamentário necessário à saúde financeira da Defensoria Pública, função essencial à Justiça."
+A revisão do entendimento firmado pela Corte de origem, no sentido de receber a inicial acusatória, demanda, necessariamente, a incursão no conteúdo fático-probatório, providência vedada pela Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES CONTRA A HONRA. CALÚNIA E INJÚRIA. NULIDADE DA PROCURAÇÃO OFERTADA PELA QUERELANTE. AUSÊNCIA DE DESCRIÇÃO DOS FATOS CRIMINOSOS. INSTRUMENTO DE MANDATO EM DESCONFORMIDADE COM O ARTIGO 44 DA LEI PENAL ADJETIVA. AUSÊNCIA DE NARRATIVA DOS FATOS ATRIBUÍDOS AO QUERELADO. MÁCULA CARACTERIZADA. REGULARIZAÇÃO EFETUADA APÓS O PRAZO DECADENCIAL. AÇÃO PENAL. JUSTA CAUSA. AUSÊNCIA. REVALORAÇÃO DE FATOS E PROVAS. INVIABILIDADE.
+ ..
+5. O intuito de abrigar o pleito acusatório e determinar que a inicial seja recebida, in casu, exige o revolvimento do material fático-probatório, providência exclusiva das instâncias ordinárias, vedada a este Sodalício em sede de recurso especial, ante o óbice do Enunciado n.º 7 da Súmula desta Corte.
+6. Agravo regimental desprovido.
+(AgRg no REsp 1673988/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 28/05/2018).
+Quanto ao pleito subsidiário, "Sendo as custas processuais meros consectários da sucumbência, a condenação, de ofício, ao seu pagamento não implica o agravamento da pena, de modo que não se observa, no acórdão estadual, contrariedade ao princípio que veda a reformatio in pejus" (AgRg no AREsp n. 206.581/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/10/2016, DJe de 19/10/2016).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CUSTAS PROCESSUAIS. ISENÇÃO. REFORMA PARA PIOR. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Nos termos da orientação jurisprudencial desta Casa, "o beneficiário da justiça gratuita não faz jus à isenção do pagamento das custas processuais, mas tão somente à suspensão da exigibilidade destas, pelo período de 5 anos, a contar da sentença final, quando então, em não havendo condições financeiras de o recorrente quitar o débito, restará prescrita a obrigação" (AgInt no REsp 1637275/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016).
+2. De mais a mais, sendo "as custas processuais meros consectários da sucumbência, a condenação, de ofício, ao seu pagamento não implica o agravamento da pena, de modo que não se observa, no acórdão estadual, contrariedade ao princípio que veda a reformatio in pejus" (AgRg no AREsp 206.581/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 4/10/2016, DJe 19/10/2016).
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 199.745/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/2/2018, DJe de 8/3/2018.)
+Ante o exposto, conheço do r ecurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
