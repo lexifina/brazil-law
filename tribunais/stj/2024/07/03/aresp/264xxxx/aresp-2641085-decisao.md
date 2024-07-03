@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. ART. 966, IV, DO CPC. APOSENTADORIA POR INVALIDEZ. COISA JULGADA. AGRAVAMENTO DA DOENÇA. TERMO INICIAL. PARCIAL PROCEDÊNCIA DO PEDIDO.
+1. De acordo com o Art. 966, IV, do CPC, a sentença de mérito, transitada em julgado, pode ser rescindida quando ofender a coisa julgada.
+2. No presente caso, verifica-se que em 18.10.2012, o segurado ajuizou a ação n.0003478-68.2012.4.03.6307, perante o Juizado Especial Federal de Botucatu, SP, objetivando a concessão do benefício de aposentadoria por incapacidade, desde a DER (27.07.2012). As duas perícias judiciais (10.01.2013 e 09.04.2013), realizadas concluíram ausente a incapacidade, sendo o pedido julgado improcedente, com trânsito em julgado em 20.09.2013(ID 190070705 - Pág. 50/52).
+Por sua vez, no feito subjacente (n. 3005361-98.2013.8.26.0063, no TRF/3ª Região sob o n.0002725-20.2017.403.9999), ajuizado pelo mesmo segurado em 30.10.2013 (ID 190070708 -Pág. 125), com o mesmo pedido e causa de pedir, foi produzido laudo pericial em 30.09.2015, concluindo pela incapacidade total e permanente para o trabalho (ID 190070707 - Pág. 106). A sentença julgou improcedente o pedido.
+No julgamento do recurso de apelação, a eg. Sétima Turma desta Corte Regional, por unanimidade, não conheceu do agravo retido, rejeitou a preliminar arguida e, no mérito, deu provimento ao apelo da parte autora, reconhecendo o direito à "aposentadoria por invalidez", devidas as parcelas entre 11/08/2012 e 21/11/2015 (data do óbito), fixando os consectários legais (ID 190070708 - Pág. 16).
+3. Não há como ignorar que houve um agravamento da doença, considerando o lapso temporal ocorrido entre a realização dos laudos periciais no feito que tramitou perante o JEF/Botucatu(10.01.2013 e 07.04.2013) e a perícia feita no processo subjacente (30.09.2015), notadamente pelo fato de que o falecido era portador de pancreatite e diabetes mellitus, doenças tidas como causa de sua morte, em 21.11.2015, conforme atestado de óbito (ID190070708 - Pág. 98).
+Por sua vez, não há como afastar a força da coisa julgada advinda do processo n. 0003478-68.2012.4.03.6307, que julgou improcedente o pedido (posteriormente repetido no feito subjacente), levando-se em conta as perícias realizadas em 10.01.2013 e 09.04.2013.
+4. Apesar de constatado o agravamento da doença, a fixação da DIB em data anterior às perícias realizadas, ofende a coisa julgada, possibilitando, assim, a rescisão, ainda que parcial, nos termos do art. 966, IV, do CPC.5. Tendo em vista o caráter alimentar e social do benefício previdenciário, assim como a boa-fé da parte ré, revela-se incabível a devolução dos valores percebidos por força de decisão judicial.
+6. Ação rescisória julgada parcialmente procedente para desconstituir em parte o v. acórdão na Apelação Cível nº 0002725-20.2017.403.9999, a fim de fixar o termo inicial do benefício de aposentadoria por invalidez em 29.11.2013, condenando a parte ré ao pagamento dos honorários advocatícios, arbitrados em 10% sobre o valor da causa, nos termos do art. 85 do Código de Processo Civil, cuja execução observará o disposto no art. 98, § 3º, do citado diploma legal.
+Os Embargos de Declaração foram rejeitados.
+Nas razões do apelo especial, o INSS alega, em preliminar, violação dos arts. 11, 489, II, e 1.022, I, do CPC/ 2015. Argumenta (fls. 969-970):
+DA OMISSÃO -DA AUSÊNCIA DO TEOR DO VOTO VENCIDO
+(..)
+DA OBSCURIDADE-DA VIOLAÇÃO Á COISA JULGADA -INEXISTÊNCIA DE PROVA QUANTO AO AGRAVAMENTO DA DOENÇA -IMPOSSIBILIDADE DE LIMITAÇÃO TEMPORAL DA COISA JULGADA
+No mérito aduz ofensa aos arts. 337, VII, §§ 1º, 2º e 4º, 485, V, 502, 504, 505, 507, 508 e 966, IV, do CPC/2015.
+Afirma que, "ao acolher parcialmente o pedido formulado em sede de juízo rescisório, para fixar o termo inicial do benefício de aposentadoria por invalidez em 29.11.2013, acabou por violar o disposto nos artigos 966, IV, 337, VII, parágrafos 1º, 2º e 4º, 485, V, 502, 504, 505, 507 e 508, do Código de Processo Civil em vigor quando da prolação da r. decisão rescindenda (que reproduzem as regras trazidas pelos artigos 485, IV, 267, V, 301, parágrafos 1º e 2º, 467, 470, 471, 473 e 474 do Código de Processo Civil de 1973, em vigor quando do ajuizamento da lide subjacente)." (fl. 990).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de junho de 2024.
+Cuida-se, na origem, de Ação Rescisória ajuizada pelo INSS, com base no art, 966, IV (coisa julgada), do CPC/2015, na qual objetiva a desconstituição de acórdão que concedeu o benefício de aposentadoria por invalidez ao segurado.
+Merece prosperar a irresignação da Autarquia, no que tange à alegada afronta ao art. 1.022 do CPC.
+Com efeito, verifica-se que a parte opôs Embargos Declaratórios para sanar omissão/obscuridade, mas o Colegiado originário, apesar de instado a se manifestar, manteve-se silente quanto à tese suscitada, "porquanto restou caracterizada a violação à coisa julgada, não havendo qualquer comprovação do agravante do mal incapacitante a impor um limite temporal à eficácia da coisa julgada anteriormente formada, requerendo, ainda, restasse consignado, de modo expresso, no v. aresto, o trecho do documento que aponta o agravamento dos males incapacitantes que acometiam José Roberto Luiz." (fl. 974).
+Ao negar provimento aos Embargos, o órgão julgador limitou-se a afirmar a inexistência de qualquer vício processual no julgado e não se pronunciou sobre os argumentos levantados pelo embargante.
+Consoante o princípio da devolutividade dos recursos, incumbe ao Tribunal a quo a manifestação sobre as matérias necessárias ao deslinde da controvérsia que tenham sido submetidas à sua apreciação, sob pena de configurar-se omissão, hipótese de cabimento dos EDcl nos termos do art. 1.022 do CPC.
+Ante o exposto, conheço do Agravo para dar parcial provimento ao Recurso Especial, apenas quanto à infringência ao art. 1.022 do CPC/2015, e determino o retorno dos autos à Corte regional para novo julgamento dos Embargos de Declaração, a fim de suprir os vícios acima destacados.
+Publique-se.
+Intimem-se.
+EMENTA
