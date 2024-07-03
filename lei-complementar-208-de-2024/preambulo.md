@@ -1,0 +1,2 @@
+Altera a Lei nº 4.320, de 17 de março de 1964, para dispor sobre a cessão de direitos creditórios originados de créditos tributários e não tributários dos entes da Federação, e a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), para prever o protesto extrajudicial como causa de interrupção da prescrição e para autorizar a administração tributária a requisitar informações a entidades e órgãos públicos ou privados.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
