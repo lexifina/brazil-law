@@ -1,0 +1,20 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção.
+Trata-se de habeas corpus ajuizado em nome de Ernando Batista de Souza, em que se alega constrangimento ilegal decorrente da condenação havida na Ação Penal n. 201421800143, da 8ª Vara Criminal da comarca de Aracaju/SE.
+Depois de transitada em julgado a condenação pelo crime de homicídio qualificado e porte ilegal de arma de fogo (6/2/2019), a defesa alega que ingressou com o Habeas Corpus n. 202300358783, perante o Tribunal de Justiça de Sergipe, apontando flagrante ilegalidade em ambas fases da persecução penal, onde restou demonstrada que não apenas art. 226 do CPP fora rechaçado em sua integra, como também os precedentes dessa Suprema Corte, no que tange o reconhecimento de pessoas (fls. 4/5).
+Contudo, singularmente, esse writ não foi conhecido em razão da inadequação da via eleita e o agravo regimental interposto contra a decisão monocrática não foi provido.
+Diante disso, no HC n. 878.928/SE, que tramitou nesta Casa, a impetrante pleiteou, em favor do ora paciente, a concessão da ordem para que o mérito do prévio writ fosse apreciado. No dia 19/12/2023, indeferi liminarmente a impetração, por não ter vislumbrado constrangimento ilegal no acórdão proferido pelo Tribunal de origem. A Sexta Turma, em sessão virtual de 18/6/2024 a 24/6/2024, por unanimidade, negou provimento ao agravo regimental que se voltou contra essa decisão.
+Novamente, a advogada vem a esta Corte Superior buscar o deferimento de medida liminar para que o réu permaneça em liberdade até o julgamento final deste feito.
+No mérito, pede a concessão da ordem para que (fl. 30):
+a) seja concedida a ordem de Habeas Corpus, em definitivo, para reformar a DECISÃO DE PRONUNCIA, fazendo cessar o constrangimento ilegal sofrido pelo paciente, de modo que o mesmo seja absolvido, ante a nulidade do reconhecimento realizado em sede policial e ratificado em juízo em desacordo com norma legal, restando ausente qualquer demonstração de autoria em face do paciente, com base na fundamentação supra;
+b) seja reconhecida a violação do artigo 226, I, II e IV, do CPP, e seja declarada a nulidade das provas derivadas da ilegalidade, vindo a serem desentranhadas do processo (art.157, do CPP),com a anulação da sentença de pronuncia, e por conseguinte a DESPRONÚNCIA do paciente em atenção ao princípio in dubio pro reo e ABSOLVIÇÃO do paciente consequência da invalidade da prova, não restando outras provas que corroborem a imputação de crime em desfavor do Paciente nos moldes do (art.386,incisos V e VII, do CPP);
+É o relatório.
+Este writ não tem cabimento.
+Primeiro, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, a espécie não revela nenhuma ilegalidade evidente, até porque o ponto concernente à dita nulidade das provas não foi objeto debate/decisão pela instância ordinária. Não custa lembrar, ademais, que tal questão esbarra no inadmissível revolvimento do conjunto fático-probatório da ação penal.
+Terceiro, os autos estão mal instruídos, não há cópia da decisão exarada pelo do Desembargador Relator, tampouco do acórdão proferido no agravo regimental.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. ALEGAÇÃO DE OFENSA AO ART. 226/CPP E TESTEMUNHO INDIRETO. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE.
+Petição inicial indeferida liminarmente.
