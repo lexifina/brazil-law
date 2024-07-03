@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 492 do CPC/2015, não demonstração da ofensa aos arts. 20 e 26, II, do CDC e 205 do Código Civil, incidência da Súmula n. 7 do STJ e não comprovação do dissídio jurisprudencial nos moldes legais (e-STJ fls. 463/465).
+O acórdão recorrido está assim ementado (e-STJ fl. 334):
+Agravo de instrumento. Ação de restituição de valores e indenização de dano moral, na parte que afastou a alegação de decadência. Ação de reparação de danos causados pela prestação de serviços. Aplicação da regra do art. 27 do CDC. Prescrição quinquenal. Recurso desprovido.
+No recurso especial (e-STJ fls. 414/427), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 492 do CPC/2015, 20 e 26, II, do CDC e 205 do Código Civil.
+Insurgiu-se contra o acórdão impugnado que entendeu pela não ocorrência da decadência do direito de reparação de danos à parte recorrida em razão de defeito na prestação dos serviços, aplicando-se equivocadamente a prescrição quinquenal do art. 27 do CDC e a prevista no art. 205 do Código Civil.
+Defendeu a aplicação da decadência de 90 (noventa) dias prevista no art. 26 do CDC.
+Afirmou ainda que "não há na petição inicial da recorrida pedido indenizatório, mas sim invocação das obrigações previstas no art. 20 do Código de Defesa do Consumidor, que estão submetidas ao prazo decadencial do art. 26, inciso II, do CDC" (e-STJ fl. 419).
+Sustentou a necessidade de limitação da decisão judicial ao pedido formulado pela autora de devolução do valor integral do contrato ou reexecução do serviço prestado, pugnando pelo afastamento da indenização por danos morais.
+Requereu a concessão de efeito suspensivo ao recurso especial.
+Ao final, pediu o provimento do recurso, a fim de que seja reformado o acórdão recorrido "para reconhecer que a ação proposta pela parte autora, ora recorrida, não é meramente condenatória e sim cominatória, fundamentada nas hipóteses do art. 20 do CDC, ou seja, submetida ao prazo decadencial do art. 26, II do CDC e não ao prazo prescricional do art. 27 do mesmo diploma legal" (e-STJ fl. 427).
+Foram apresentadas contrarrazões (e-STJ fls. 442/460).
+No agravo (e-STJ fls. 468/486), reitera razões de mérito do recurso, afirma a presença de todos os requisitos de admissibilidade do especial e requer a concessão da tutela provisória, com fundamento nos arts. 300, 1.029, § 5º, e 932, II, do CPC/2015, "para o fim de se determinar a suspensão dos efeitos do v. acórdão recorrido pelo agravo de instrumento que originou o Resp., até final julgamento do mérito do presente recurso e, consequentemente, do recurso especial, evitando-se, com isso, o prosseguimento da ação principal nos autos de origem" (e-STJ fls. 485/486).
+Foi oferecida contraminuta (e-STJ fls. 498/518).
+Juízo negativo de retratação (e-STJ fl. 519).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Cuida-se de ação indenizatória fundada na falha da prestação de serviços por parte da agravante em razão da má execução dos serviços, que impedem tanto a realização da continuidade das obras, como o próprio uso fruído do bem imóvel em sua plenitude pela agravada.
+Quanto à alegação de ofensa ao art. 492 do CPC/2015, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência, no ponto, por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+O  Tribunal  de  origem, com  base  nos  fatos  e  nas  provas  dos  autos, assim entendeu acerca da decadência  (e-STJ  fls.  410/411):
+1. A decisão agravada foi proferida nos seguintes termos:
+"Inicialmente, afasto a alegação de decadência. A presente ação tem natureza condenatória, em decorrência de vício construtivo e, assim, submete-se à prescrição e não à decadência, aplicando-se a prescrição decenal, nos termos do caput do artigo 205 do Código Civil." - fl. 180/181 da ação - cópia a fls. 104/105.
+2. Não ocorreu a decadência.
+Com efeito, a autora, pessoa natural, pleiteia a reparação dos danos que alega haver sofrido em razão do defeito na prestação dos serviços executados pela ré, assim, aplica-se a regra do artigo 27 do Código de Defesa do Consumidor, "prescreve em cinco anos a pretensão à reparação pelos danos causados por fato do produto ou do serviço prevista na Seção II deste Capítulo, iniciando-se a contagem do prazo a partir do conhecimento do dano e de sua autoria".
+Assim, eventual pedido subsidiário de refazimento dos serviços não descaracteriza sua pretensão de indenização dos danos materiais e morais, ora em tese considerados.
+(..)
+É o quanto basta para o desprovimento do recurso.
+3. Portanto, ainda que por fundamento diverso, a pretensão de reconhecimento da decadência não poderia ser acolhida.
+No caso concreto, o Tribunal de origem analisou as provas contidas nos autos para concluir pela natureza condenatória da ação proposta em razão de danos causados por fato do serviço prestado pela agravante à agravada, com ofensa à segurança da consumidora, afastando-se, portanto, o instituto da decadência. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial ante a aplicação da Súmula n. 7 do STJ.
+Sobre o tema, esta Corte Superior entende que "O prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 anos" (AgInt no AREsp n. 1.355.163/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/5/2019, DJe de 29/5/2019). No mesmo sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. RESPONSABILIDADE DO CONSTRUTOR. VÍCIOS DE CONSTRUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. PRESCRIÇÃO. SÚMULA 194/STJ. ART. 618 DO CC/2002. PRAZO DE GARANTIA. 5 ANOS. INAPLICABILIDADE EM RELAÇÃO DE CONSUMO. VÍCIO OCULTO. POSSIBILIDADE DE RECLAMAR AO FORNECEDOR A PARTIR DO MOMENTO EM QUE FICAR EVIDENCIADO O DANO. PRAZO PRESCRICIONAL. 10 ANOS À FALTA DA PREVISÃO ESPECÍFICA. TERMO INICIAL. SÚMULA 568/STJ. DECISÃO MANTIDA.
+1. Indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, é impositiva a rejeição dos embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Consoante o entendimento firmado pela e. Terceira Turma, a pretensão do consumidor de ser indenizado pelo prejuízo decorrente da entrega de imóvel com vícios de construção não se sujeita a prazo decadencial, quer previsto no Código Civil, quer previsto no CDC.
+5. O prazo de 5 anos previsto no caput do art. 618 do CC/2002 é de garantia. Não se trata, pois, de prazo prescricional ou decadencial.
+6. Quanto ao prazo prescricional para pleitear a indenização correspondente, sendo o art. 27 do CDC exclusivo para as hipóteses de fato do produto ou serviço, à falta de prazo específico no CDC que regule a hipótese de inadimplemento contratual, aplica-se o prazo geral de 10 anos previsto no art. 205 do CC/2002, o qual corresponde ao prazo vintenário de que trata a Súmula 194/STJ, aprovada na vigência do art. 177 do CC/1916.
+7. Hipótese em que foi reconhecida a relação de consumo, de modo que a responsabilidade por vícios construtivos não fica limitada ao prazo de garantia de 5 anos, previsto no art. 618 do CC/2002.
+Ademais, os defeitos foram constatados a partir de março de 2015 e a ação indenizatória foi ajuizada em 29/10/2015, de modo que não está caracterizada a prescrição decenal.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.092.461/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECURSO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. As razões do agravo interno merecem acolhida, porquanto houve a indicação do dispositivo legal supostamente violado na maioria das controvérsias apresentadas. Reconsiderada a deliberação da Presidência desta Corte para nova apreciação do agravo.
+2. Aplica-se o prazo de prescrição do artigo 27 do Código de Defesa do Consumidor (5 anos) aos casos de defeito do produto ou serviço. Aplicação da Súmula 83/STJ.
+3. Para derruir as conclusões contidas no acórdão recorrido e acolher o inconformismo recursal no sentido de aferir existência de defeitos construtivos no imóvel e a ocorrência de dano moral, segundo as razões vertidas no apelo extremo, seria imprescindível o o revolvimento de matéria fático e probatória, providência que esbarra no óbice da Súmulas 7 desta Corte.
+4. Quanto à aplicação do BDI, a ausência de indicação expressa de dispositivo legal tido por vulnerado não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida (Súmula 284/STF).
+5. A revisão da indenização por danos morais apenas é possível na hipótese de o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe reexaminar o valor fixado a título de indenização, uma vez que tal análise demanda incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7 desta Corte. Precedentes.
+6. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico entre os casos confrontados, não viabiliza o conhecimento do recurso especial pelo dissídio jurisprudencial, ante a inobservância dos requisitos dos artigos 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+7. Agravo interno provido para reconsiderar a decisão singular da Presidência desta Corte e, de plano, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.130.068/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Diante da moldura fática, verifica-se que o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, fazendo incidir a Súmula n. 83 do STJ.
+Ademais, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus do qual a parte recorrente não se desincumbiu, o que atrai a incidência da Súmula n. 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+O julgamento do agravo nos próprios autos prejudica o pedido de tutela provisória apresentado pela agravante, que busca a concessão de efeito suspensivo ao recurso especial a fim de evitar o prosseguimento da ação originária, razão pela qual JULGO PREJUDICADA a referida pretensão, por perda de objeto.
+Publique-se e intimem-se.
+EMENTA
