@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por CLEIDE MARIA DA MOTA contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 421):
+OBRIGAÇÃO DE FAZER COMBINADA COM INDENIZAÇÃO POR DANOS MORAIS Plano de assistência à saúde Beneficiária diagnosticada com gonartrose (artrose de joelhos) Prescrição de diversos tratamentos cirúrgicos, tendo a requerida negado a cobertura apenas da "coleta de medula óssea para transplante" (TUSS 40403076) e a "aplicação de medula óssea ou célula" (TUSS 40403033), ao argumento de seu caráter experimental Sentença que julgou a ação procedente em parte, indeferindo apenas a indenização por danos morais Insurgência da autora Alegação de que a negativa de cobertura pelo plano gera dano moral em decorrência do inequívoco abalo psíquico sofrido pela parte Descabimento Negativa que se deu com base em "razoável interpretação contratual" pela operadora, caso que a reparação por danos morais é inexigível Precedente do STJ Alegação que os honorários advocatícios sucumbenciais foram indevidamente fixados por equidade Cabimento Sentença que deu provimento à pretensão que redundou em proveito econômico à autora passível de aferição Sentença reformada para fixar honorário sucumbenciais, na origem, em 15% do proveito econômico da parte, a ser aferido em liquidação de sentença, nos termos do art. 85, §§1º e 2º, do CPC RECURSOPROVIDO EM PARTE.
+Opostos embargos de declaração, foram acolhidos para sanar erro material (e-STJ. fls. 488-490).
+Nas razões do recurso especial (e-STJ, fls. 428-446), a recorrente alegou, além de dissídio jurisprudencial, violação aos arts. 186, 927 e 944 do CC/2002.
+Sustentou, em síntese, que "a recorrente aguardou por muito tempo e autorização do tratamento médico pela recorrida, momento em que precisou suportar fortes dores físicas e psicológicas até que fosse autorizada a cirurgia e que a falta de condenação da operadora de saúde recorrida em indenização por danos morais, em hipótese alguma, refletem a dor física e o abalo psicológico pelo qual passou a paciente, aguardando que a recorrida efetivamente autorize a sua terapia" (e-STJ, fl. 437).
+Alegou a necessidade de fixação da indenização por danos morais, no importe de R$ 30.000,00 (trinta mil reais).
+Contrarrazões não apresentadas.
+O Tribunal de origem não admitiu o recurso especial, o que levou a insurgente à interposição de agravo (e-STJ, fls. 508-525).
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+No que se refere à configuração do dano moral, esta Corte tem entendimento que a recusa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de abalo psicológico.
+Na hipótese, verifica-se que o Tribunal de origem concluiu pela não ocorrência de agravamento da situação de aflição psicológica, nestes termos (e-STJ, fl. 424):
+Não há, com efeito, falar em direito a reparação por danos morais; é entendimento recente do Superior Tribunal de Justiça que a negativa de cobertura de tratamento com base em "razoável interpretação contratual" não configura, por si só, dano moral indenizável (v.g.AgInt no REsp nº 1.578.318/TO, 4ª T., Rel. Min. Maria Isabel Galotti, j. 24.09.2019) no caso, temos que a operadora, de todos os procedimentos postulados, apenas não autorizou a "coleta de medula óssea para transplante" (TUSS 40403076) e a "aplicação de medula óssea ou célula" (TUSS 40403033), ao argumento de que seria um tratamento experimental.
+Desse modo, a revisão do julgado com o consequente acolhimento da pretensão recursal, no sentido de arbitramento da condenação por danos morais, não prescindiria do reexame das premissas fático-probatórias da causa, o que não se admite em recurso especial, consoante o teor da Súmula n. 7 do STJ.
+Nesse sentido (sem destaque no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Nos termos da jurisprudência desta Corte, é devida a cobertura, pelo plano de saúde, de próteses e materiais diretamente ligadas ao ato cirúrgico. Precedentes.
+2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias quanto à ocorrência de indevida negativa de cobertura de procedimento médico e à configuração do dano moral. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.022.537/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. TRATAMENTO QUIMIOTERÁPICO. NEGATIVA DE COBERTURA. ANS. ROL EXEMPLIFICATIVO. INJUSTA RECUSA. DANOS MORAIS. COMPROVAÇÃO. REJULGAMENTO. VALOR. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O rol de procedimentos da ANS tem caráter meramente exemplificativo, sendo abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+4. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o valor fixado for exorbitante ou irrisório, o que não ocorreu no caso em exame.
+5. Agravo interno não provido.
+(AgInt no AREsp 1754965/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/08/2021, DJe 03/09/2021)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CIVIL E PROCESSO CIVIL (CPC/2015). NEGATIVA DE COBERTURA. DANO MORAL. NÃO CONFIGURADO. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
