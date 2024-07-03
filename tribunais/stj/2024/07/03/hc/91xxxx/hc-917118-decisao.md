@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIELA PAOLA DA SILVA que indica como autoridade coatora o Superior Tribunal de Justiça, no julgamento do HC n. 827231-SP.
+Consta dos autos que a paciente foi inicialmente absolvida pelo Juízo da 1ª Vara Judicial da Comarca de Cubatão, no âmbito da ação penal n. 227/08, das imputações aos artigos 33 e 35, da Lei 11.343/2006, e ao artigo 16, da Lei 10.826/2003, com fundamento no artigo 386, VII, do Código de Processo Penal, consoante a sentença de fls. 23-28.
+A acusação interpôs apelação criminal ao Tribunal de Justiça, que deu provimento ao apelo para condenar a paciente à pena de 11 anos de reclusão e 1.210 dias-multa, em regime inicial fechado, como incursa nos artigos 33 e 35, da Lei 11.343/06, e no artigo 16, da Lei 10.826/03, tendo sido reconhecida a prescrição quanto aos delitos de associação para o tráfico e posse ilegal de munições, nos termos do acórdão de fls. 56-69.
+A defesa impetrou previamente o HC n. 827231-SP, objetivando a concessão da ordem para reconhecer o privilégio do § 4º do artigo 33 da Lei 11.343/06. Deneguei a ordem por intermédio de decisão monocrática (fls. 138-139, HC n. 827231-SP) com trâ nsito em julgado em 11/10/2023.
+Sobreveio a impetração do presente habeas corpus, no qual o impetrante reproduz a mesma tese elaborada no HC n. 827231-SP, agora apontando como autoridade coatora o Superior Tribunal de Justiça (fl. 03). Requer, assim, liminarmente e no mérito, a concessão da ordem para reconhecer o privilégio do § 4º do artigo 33 da Lei 11.343/06 e o consequente redimensionamento da pena e do regime prisional.
+É o relatório. DECIDO.
+Segundo dispõe o artigo 102, inciso I, alínea "j", da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar originalmente "habeas corpus q uando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância."
+No caso dos autos, é manifesta a incompetência do Superior Tribunal de Justiça, nos termos do transcrito dispositivo constitucional, porquanto a impetração aponta como autoridade coatora este Tribunal Superior.
+Ante o exposto, indefiro liminarmente o habeas corpus, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
