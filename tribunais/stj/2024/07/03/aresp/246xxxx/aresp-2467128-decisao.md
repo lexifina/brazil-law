@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do mesmo Estado.
+Depreende-se dos autos que os agravado foi condenado às penas de 6 anos e 03 meses de reclusão, como incursos nas sanções do art. 33, caput, da Lei n. 11.343/06, pena reduzida, pelo Tribunal de origem, por maioria, ao reconhecer a minorante do tráfico privilegiado, reduzindo a pena total ao patamar de 3 anos e 6 meses de reclusão, em regime aberto, substituída por duas penas restritivas de direito, bem com o pagamento de 260 dias-multa (fls. 365-401). Opostos embargos de declaração, estes foram rejeitados (fls. 460-467).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação aos arts. 33, §4º, da Lei n. 11.343/06. Pleiteou, ao final, pelo afastamento da minorante do tráfico privilegiado.
+Apresentadas as contrarrazões, o Tribunal de origem negou seguimento ao recurso especial, tendo em vista o REsp 1.977.027/PR (TEMA 1.139 do STJ), e não admitiu o apelo, pela incidência da Súmula n. 7, STJ (fls. 507-516).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 554-560).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial, ou, ainda, pelo seu desprovimento fls. (589-598).
+É o relatório. DECIDO.
+De proêmio, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, cabe agravo interno contra decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STF ou do STJ exarado no julgamento de recursos repetitivos.
+Confira-se:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021."
+Na hipótese dos autos, a decisão de inadmissibilidade do recurso especial fundamentou-se, quanto à alegada violação domiciliar, na harmonia do acórdão do Tribunal a quo e o entendimento do STJ firmado no julgamento do REsp 1.977.027/PR (TEMA 1.139 do STJ).
+O art. 1.042 do CPC/2015 prescreve que "cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos".
+Conclui-se, portanto, que, na hipótese, a interposição de agravo em recurso especial caracteriza erro grosseiro, o que afasta a aplicação do princípio da fungibilidade recursal e impede o conhecimento do recurso, restando preclusa a matéria.
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1030, I, B, DO CÓDIGO DE PROCESSO CIVIL - CPC. CABIMENTO DE AGRAVO INTERNO NA ORIGEM. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INAPLICABILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. " ..  se a negativa de seguimento ao recurso especial estiver amparada no fundamento de que o acórdão recorrido está alinhado a entendimento exarado pelo STF ou pelo STJ sob a sistemática dos repetitivos, o recurso cabível em face de tal decisão será o agravo interno para o próprio Tribunal originário. Inteligência do art. 1.030, I, b, e § 2º, do Código de Processo Civil" (AgRg no AREsp n. 1.076.600/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/4/2018).
+2. É inviável o agravo em recurso especial que deixa de impugnar todos os fundamentos da decisão que inadmitiu o apelo extremo, incidindo, na espécie, o teor da Súmula n. 182 do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido" (AgRg no AREsp n. 2.405.455/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 23/2/2024).
+Ademais, verifico que o agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice da súmula n. 7, STJ.
+O Parquet, nas razões recursais, limita-se a asseverar o que segue (fl. 558): "não se faz necessário o reexame de provas, e, sim, a simples conferência das premissas fático-probatórias expressamente registradas no aresto objurgado. Assim, a tese jurídica construída no recurso especial parte da realidade fática reconhecida no acórdão recorrido, buscando-se demonstrar a viabilidade de aplicação de consequência jurídica distinta."
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados na decisão recorrida, o que não aconteceu.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1030, I, B, DO CÓDIGO DE PROCESSO CIVIL. CABIMENTO DE AGRAVO INTERNO NA ORIGEM. ERRO GROSSEIRO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
