@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Celso Nilceu Borchartt - condenado por descaminho a 1 ano, 7 meses e 7 dias de reclusão, em regime inicial fechado -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal Regional Federal da 4ª Região (fls. 26/31), não comporta processamento.
+Com efeito, busca a impetração alterar o regime inicial para o aberto - referente à condenação proferida na Ação Penal n. 5002450-41.2022.4.04.7005 (fls. 33/40 - da 4ª Vara Federal da Subseção judiciária de Cascavel/PR) -, ao argumento de que o crime pelo qual o paciente fora condenação não foi cometido com violência ou grave ameaça à pessoa, e também, como já demonstrado, guarda mais de cinco anos dos fatos da sua última condenação, a qual aliás restou integralmente cumprida e não houve nenhuma falta (fl. 7).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 31/1/2024 (conforme informações do endereço eletrônico da Corte Regional), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois o regime fechado foi fixado ao fundamento de negativação antecedentes e multirreincidência do paciente, tanto na sentença - verificada a multirreincidência, somada às circunstâncias judiciais desfavoráveis, o início do cumprimento da pena privativa de liberdade deverá ser no regime fechado (fl. 38) - quanto ratificado no acórdão da apelação (fl. 27), em consonância com o entendimento desta Corte Superior.
+Confira-se: orientação jurisprudencial do Superior Tribunal de Justiça é firme ao confirmar a possibilidade de fixação do regime inicial fechado quando, a despeito da pena ter sido fixada em patamar inferior a 4 (quatro) anos, o réu é reincidente e teve a pena-base fixada acima do mínimo legal em virtude de circunstância judicial desfavorável (AgRg no REsp n. 2.038.062/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe 26/6/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCAMINHO. REGIME INICIAL FECHADO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
