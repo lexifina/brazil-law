@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de MYCHAEL KENNESSON ALVES DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS proferido na Revisão Criminal n. 0802429-36.2024.8.02.0000/50000.
+Consta dos autos que o paciente, condenado à pena unificada de 8 anos e 6 meses de prisão e 760 dias-multa, pela prática dos crimes previstos nos artigos 33, "caput", da Lei n. 11.343/2006 e 12, "caput", da Lei n. 10.826/2003 (tráfico de drogas e posse irregular de arma de fogo), após o trânsito em julgado da condenação ajuizou revisão criminal para buscar o reconhecimento da detração penal, a qual foi inadmitida pelo Tribunal de origem. Eis a ementa do julgado:
+"AGRAVO INTERNO EM REVISÃO CRIMINAL. INSURGÊNCIA RECURSAL CONTRA DECISÃO MONOCRÁTICA QUE INADMITIU A AÇÃO IMPUGNATIVA AUTÔNOMA. CONSTATAÇÃO DA UTILIZAÇÃO DA REVISÃO CRIMINAL COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. PRECEDENTES DO STJ. INADMISSÃO DA AÇÃO COMO SE SEGUNDA APELAÇÃO FOSSE. IMPRESCINDIBILIDADE DA OCORRÊNCIA DA INDICAÇÃO CONCRETA DE UMA DAS HIPÓTESES PREVISTAS NOS INCISOS DO ART. 621 DO CPP. INEXISTÊNCIA. SENTENÇA CONDENATÓRIA QUE DEIXOU DE REALIZAR A DETRAÇÃO DA PENA, CONSIDERANDO A COMPETÊNCIA DO JUÍZO DE EXECUÇÕES PENAIS QUE SE MOSTRA ADEQUADA. INEXISTÊNCIA DE QUALQUER FUNDAMENTO SUPERVENIENTE, APTO A ALTERAR A CONVICÇÃO MONOCRATICAMENTE FIRMADA. MANUTENÇÃO DA ORDEM QUE INADMITIU A REVISÃO CRIMINAL. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO. À UNANIMIDADE." (fl. 17).
+Na presente impetração, a defesa busca a aplicação da detração penal com o tempo de pena cumprido preventivamente em processo no qual foi absolvido e na ação penal que originou este feito.
+Requer, assim, o reconhecimento da detração penal com a fixação do regime semiaberto.
+A liminar foi indeferida em decisão de fls. 892/893.
+O Ministério Público Federal opinou pelo não conhecimento do writ, em parecer assim sumariado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. ENCAMINHAMENTO DOS AUTOS AO JUÍZO DA EXECUÇÃO PARA QUE VERIFIQUE A VIABILIDADE DO PLEITO DE DETRAÇÃO PENAL" (fl. 899).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a detração da pena, considerando o tempo de pena cumprido preventivamente em processo no qual o paciente foi absolvido, por fugir ao escopo da hipóteses previstas em lei da ação de revisão criminal, a qual, inclusive, não foi admitida. Desse modo, resta afastada a competência desta Corte Superior para conhecimento dessas questões, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido, confira-se o seguinte precedente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. SEMIABERTO. QUANTIDADE DA PENA. RÉU PRIMÁRIO. DETRAÇÃO DO ART. 387, § 2º, DO CPP. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. APLICAÇÃO EM 1/6. PROPORCIONALIDADE. REVISÃO CRIMINAL. NÃO CABIMENTO. INEXISTÊNCIA DE PROVA NOVA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. Aplicada a pena final em 4 anos e 2 meses, sendo favoráveis as circunstâncias judiciais e primário o paciente, o regime semiaberto é o cabível para a prevenção e reparação do delito, a teor do contido no art. 33, § 2º, "b", e § 3º, do Código Penal.
+2. O pedido de detração do tempo de prisão provisória para fins de abrandamento do regime prisional não foi objeto de debate no acórdão impugnado. Logo, o enfrentamento do tema diretamente por esta Corte acarretaria indevida supressão de instância.
+3. Não se mostra desproporcional a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/6, quando o julgador se apoiou na quantidade e na variedade de entorpecentes (206g de maconha e 151 comprimidos de ecstasy) e no fato de que foi apreendida uma balança de precisão na residência do réu, indicando um maior envolvimento com a traficância.
+4. Esta Corte já decidiu que não cabe "revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP".
+5. Agravo regimental não provido.
+(AgRg no HC n. 550.742/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021.)
+Ademais, nos termos do art. 66, III, "c", da Lei n. 7.210/1984 (Lei de Execução Penal), após o trânsito em julgado da condenação, a pretensão de detração da pena é matéria de competência do Juízo da Execução, perante o qual a defesa deverá demonstrar sua irresignação acerca do cômputo da pena cumprida preventivamente pelo paciente.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
