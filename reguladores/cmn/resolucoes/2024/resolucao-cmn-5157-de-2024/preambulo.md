@@ -1,0 +1,5 @@
+​O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.
+RESOLUÇÃO CMN Nº 5.157, DE 3 DE JULHO DE 2024
+Estabelece exigibilidade adicional de aplicação em crédito rural sobre os recursos à vista para o período de cumprimento de 1º de julho de 2024 a 30 de junho de 2025, revoga o percentual de exigibilidade sobre os recursos à vista de que trata o MCR 6-2-3-A, que seria aplicado a partir do período de cumprimento com início em 1º de julho de 2024, e revoga dispositivos da Resolução CMN nº 5.119, de 1º de fevereiro de 2024, relativos a regras aplicáveis a operações de crédito rural com recursos do direcionamento da Letra de Crédito do Agronegócio quando sujeitas à subvenção da União, sob a forma de equalização de encargos financeiros.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 2 de julho de 2024, tendo em vista as disposições do art. 4º, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, e dos arts. 4º, 14 e 21 da Lei nº 4.829, de 5 de novembro de 1965,
+R E S O L V E U :
