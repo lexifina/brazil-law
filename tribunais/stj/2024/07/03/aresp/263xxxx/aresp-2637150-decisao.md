@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto IRL CONSTRUTORA E INCORPORADORA LTDA, em face de decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (fl. 307, e-STJ):
+AGRAVO DE INSTRUMENTO. PENHORA. SALÁRIO.
+IMPOSSIBILIDADE. IMPENHORABILIDADE. DECISÃO INTERLOCUTÓRIA. MANUTENÇÃO. DESPROVIMENTO DO RECURSO.
+A regra geral é que os rendimentos são impenhoráveis, descabendo, assim, a penhora pretendida. No caso presente, deve-se analisar a questão no sentido da relativização da impenhorabilidade segundo a excepcionalidade da medida, no caso em concreto e pela relativização da regra geral.
+A nova ótica acerca da admissão da flexibilização da regra da impenhorabilidade, preservando o princípio da dignidade humana, garantindo o mínimo existencial e, de outra parte, atento ao direito de satisfação da pretensão executiva, admite, na excepcionalidade, constrição sobre parte da remuneração do devedor, sendo preciso a análise do caso em concreto.
+Logo, para que seja possível a penhora sobre parcela de salário do devedor, é preciso que haja demonstração de que a satisfação do crédito, não afete o mínimo necessário para garantir a subsistência deste e de sua família, prova que não veio ao presente recurso.
+Agravo de instrumento a que se nega provimento.
+Em suas razões de recurso especial (fls. 342/367, e-STJ), a parte recorrente aponta divergência jurisprudencial acerca da interpretação conferida ao artigo 833, IV, do CPC/15, aduzindo, em suma, a possibilidade de mitigação da regra geral da impenhorabilidade, a fim de permitir a constrição de percentual dos vencimentos do devedor para pagamento de dívida não alimentar, preservando-se o necessário à subsistência digna da parte executada e seus familiares.
+Sustenta que o devedor "é servidor público federal do EGRÉGIO TRIBUNAL REGIONAL DO TRABALHO DA 6ª REGIÃO com rendimentos tributáveis no valor anual de R$ 182.963,10(cento e oitenta e dois mil, novecentos e sessenta e três reais e dez centavos) e 13º(décimo terceiro) salário no montante de R$ 10.897,08(dez mil, oitocentos e noventa e sete reais e oito centavos)."
+Alega, ainda, a ocorrência de negativa de prestação jurisdicional.
+Contrarrazões às fls. 384/390, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem negou processamento ao apelo nobre, ensejando a interposição do presente agravo (fls. 407/436, e-STJ), visando destrancar o processamento da insurgência.
+Contraminuta apresentada às fls. 438/446, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece prosperar em parte.
+1. "A Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 3/10/2018, DJe 16/10/2018)" (AgInt no AREsp n. 2.238.131/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.).
+No mesmo sentido, veja-se os recentes precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DÍVIDA NÃO ALIMENTAR. PENHORA DE PERCENTUAL DOS RENDIMENTOS DOS EXECUTADOS INFERIORES A 50 SALÁRIOS MÍNIMOS. RELATIVIZAÇÃO. POSSIBILIDADE. EXCEPCIONALIDADE NÃO DEMONSTRADA, NO CASO. COLIDÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DA CORTE ESPECIAL. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PROVIDO.
+1. A relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, reveste-se de caráter excepcional e só deve ser feita quando inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares (EREsp 1.874.222/DF, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 24/5/2023).
+2. Não ficou demonstrada nos autos a excepcionalidade exigida nos termos do precedente fixado pela Corte Especial. Na hipótese, o entendimento adotado no acórdão recorrido está dissonante com a jurisprudência assente da Corte Especial.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, dar provimento ao recurso especial.
+(AgInt no REsp n. 2.067.512/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. SALÁRIO. PENHORA. VERBA DE NATUREZA NÃO ALIMENTAR. MITIGAÇÃO. POSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça encontra-se firmada no sentido de que, excepcionalmente, é possível a mitigação da impenhorabilidade dos salários para a satisfação de crédito não alimentar, sem prejuízo direto à subsistência do devedor ou de sua família, a partir das peculiaridades do caso e dos princípios da proporcionalidade e razoabilidade.
+2. A revisão do entendimento firmado pelas instâncias ordinárias acerca da possibilidade de penhorar parte dos proventos do devedor sem comprometer a sua subsistência demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.026.019/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. SÚMULA 568 DO STJ.
+1. Cumprimento de sentença.
+2. A regra geral da impenhorabilidade de salários, prevista no Código de Processo Civil, pode ser excepcionada quando for preservado percentual capaz de dar amparo à dignidade do devedor e de sua família.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.355.787/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+O acórdão recorrido, portanto, destoa da jurisprudência desta Corte, merecendo reforma a fim de que se analise, no caso concreto, a possibilidade de relativização da regra de impenhorabilidade da verba de natureza salarial.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, dou parcial provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que proceda com nova análise do Agravo de Instrumento à luz da jurisprudência desta Corte, consoante fundamentação supra.
+Publique-se.
+Intimem-se.
+EMENTA
