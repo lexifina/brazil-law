@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de SHEILA ROBERTA DA COSTA BELA, contra acórdão proferido por esse SUPERIOR TRIBUNAL DE JUSTIÇA no julgamento da Agravo em Recurso Especial n. 2.409.858/SP .
+Extrai-se dos autos que a paciente foi condenada à pena de 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, além do pagamento de 680 dias-multa, pela prática do crime tipificado no art. 33, caput, c/c art. 40, incisos III e V, ambos da Lei n. 11.343/2006.
+O Tribunal a quo deu parcial provimento à apelação interposta pela paciente para redimensionar as penas para 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa, mantidos os demais termos da sentença, em acórdão assim ementado (fl. 36):
+"Apelação. Artigo 33, "caput", c.c. o artigo 40, incisos III e V, ambos da Lei nº 11.343/06. Recurso defensivo buscando a absolvição por insuficiência de prova. Descabimento.
+Autoria e materialidade comprovadas. Conjunto probatório robusto, suficiente para sustentar a condenação da ré nos moldes em que proferida. Redução da básica ao mínimo legal. Necessidade para que não ocorra bis in idem, já que a excessiva quantidade de droga apreendida foi levada em conta na fase derradeira do cálculo, de modo a afastar o redutor previsto no artigo 33, § 4º, da Lei nº 11.343/2006.
+Atenuante da confissão espontânea não caracterizada nos autos. Regime prisional fechado bem fixado e que não comporta alteração.
+Recurso defensivo parcialmente provido para redimensionar a pena."
+Irresignada, a defesa interpôs recurso especial, que foi inadmitido na origem por deficiência de fundamentação, nos termos do Enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Houve, então, interposição de agravo em recurso especial, que não foi conhecido pelos mesmos fundamentos.
+Em seguida, a defesa interpôs agravo regimental, ao qual foi dado provimento para conhecer do agravo em recurso especial, conhecendo, em parte, do recurso especial e dar-lhe parcial provimento, reconhecendo a incidência do tráfico privilegiado e redimensionando a pena da paciente para 4 anos, 10 meses e 10 dias d e reclusão, mantido o regime prisional fechado, além do pagamento de 486 dias-multa, conforme decisão de fls. 44/54.
+No presente writ, a defesa sustenta constrangimento ilegal consubstanciado na manutenção do regime inicial fechado, apontado violação ao art. 33, § 2º, do Código Penal, tendo em vista o quantum de pena aplicado e as circunstâncias judiciais do art. 59 do Código Penal terem sido julgadas inteiramente favoráveis, afirmando que a manutenção do regime mais gravoso está amparada apenas na quantidade e natureza da droga apreendida, o que considera ilegal.
+Requer, em liminar, que seja expedido alvará de soltura em favor da paciente. No mérito, pugna pela concessão da ordem para que seja fixado o regime inicial semiaberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso.
+Em que pese impugnar acórdão proferido em sede de revisão criminal, constata-se que o regime inicial e a pena imposta à paciente no âmbito da apelação n. 1500072-35.2022.8.26.0585 , já foi objeto de análise e decisão por esta Corte Superior no julgamento do AResp n. 2.049.858/SP, que restou conhecido e parcialmente provido em decisão monocrática lavrada em 19/3/2024.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO COM TRÂNSITO EM JULGADO. IMPETRAÇÃO DEFICIENTEMENTE INSTRUÍDA E SUBSTITUTIVA DE REVISÃO CRIMINAL. INDEVIDA SUPRESSÃO DE INSTÂNCIA DESDE A ORIGEM. FLAGRANTE ILEGALIDADE NÃO CONSTATADA IN CASU. MERA REITERAÇÃO DE PEDIDOS. TESE DE PRESCRIÇÃO AFASTADA NO RECURSO CONEXO. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PEDIDO DE SUSTENTAÇÃO ORAL INVIÁVEL. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte Superior, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - In casu, não constatada nenhuma flagrante ilegalidade, seja pela instrução inadequada desta ação mandamental seja pela impossibilidade de se buscar uma revisão criminal em indevida supressão de instância e por meio de um writ.
+III - A jurisprudência desta eg. Corte Superior é firme no sentido de que "o exame das alegações dos impetrantes se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federa" (HC n. 483.065/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/11/2019).
+IV - É ônus do impetrante instruir a inicial do habeas corpus, conforme preceitua esta eg. Corte Superior e o col. Supremo Tribunal Federal. In verbis: "Constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Tóffoli; HC 100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski)" (AgRg no HC n. 130.240, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 16/12/2015).
+V - Outrossim, a questão da prescrição, além de consistir em inovação tardia de pedidos, não passou de mera reiteração de pedidos no REsp n. 1.924.931/SP, o qual já foi julgado por esta. eg. Corte, que devidamente afastou sua ocorrência, em 14/9/2021. Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+VI - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+VII - Nos termos do art. 159, IV, do RISTJ, não haverá sustentação oral no julgamento de agravo.
+Agravo regimental desprovido.
+(AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. PEDIDO DEDUZIDO EM HABEAS CORPUS ANTERIORMENTE IMPETRADO. REITERAÇÃO DE PEDIDO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA.
+1. Constatado que o recurso especial é mera reiteração de habeas corpus anteriormente impetrado e já decidido, é caso de julgá-lo prejudicado ante a ausência de interesse recursal, uma vez que a causa de pedir e o pedido são idênticos, além de ambos atacarem o mesmo acórdão ora recorrido.
+2. "Quando o habeas corpus e o recurso especial veiculam idêntica pretensão, o julgamento de um deles provoca a prejudicialidade do outro, em decorrência da perda superveniente de objeto, com o consequente esgotamento da competência do Superior Tribunal de Justiça. Precedentes" (AgRg no REsp n. 1.815.614/PE, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/2/2020, DJe 17/2/2020).
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 1.776.153/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
