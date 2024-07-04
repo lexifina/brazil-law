@@ -1,0 +1,1 @@
+Art. 19-V. Os gestores do SUS, em todas as esferas, realizarão campanhas permanentes de conscientização contra a automedicação, com o objetivo de informar a população sobre os riscos dessa prática, especialmente quanto à ingestão de antibióticos ou de medicamentos sujeitos a controle especial.
