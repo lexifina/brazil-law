@@ -1,0 +1,7 @@
+DECISÃO
+SILFARLEY SILVA NERES, condenado por estelionato e falsidade ideológica, alega ser vítima de constrangimento ilegal em decorrência de decisão monocrática proferida em revisão criminal, pelo Tribunal de Justiça do Estado da Bahia, que indeferiu o pedido de liminar para o sobrestamento da execução da pena, o qual pretende ver concedido nesta oportunidade.
+Entretanto, não bastasse as alegações da defesa (inexistência de concurso material, aplicação da consunção, análise das circunstâncias judiciais etc) conterem alguma complexidade que demanda o exame acurado dos autos, observa-se que o caso encontra-se sob o crivo de revisão criminal. O trânsito em julgado da condenação, portanto, tem como decorrência natural o cumprimento da pena, máxime porque o processo foi submetido ao devido processo legal.
+Some-se a isso (e mais importante) o fato de que o entendimento desta Corte é na direção de que ""  n ão se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus impetrado contra decisão singular de desembargador. Precedentes" (AgRg no HC 746.912/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/08/2022, DJe 08/08/2022)"" (AgRg no HC n. 870.072/PI, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe 7/3/2024, destaquei).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
