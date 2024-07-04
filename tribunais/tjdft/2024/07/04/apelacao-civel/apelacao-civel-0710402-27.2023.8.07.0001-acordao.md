@@ -1,0 +1,129 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0710402-27.2023.8.07.0001APELANTE(S)BANCO MERCEDES-BENZ DO BRASIL S/AAPELADO(S)RODRIGO MARQUES SEIXAS FONTELESRelatoraDesembargadora MARIA DE LOURDES ABREU
+ Acórdão Nº1888412
+
+EMENTA
+
+PROCESSO CIVIL. AÇÃO DE BUSCA E APREENSÃO. BEM NÃO LOCALIZADO. PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO. INTIMAÇÃO PESSOAL. DESNECESSIDADE.
+
+1. A inércia do autor da ação de busca e apreensão, regida pelo Decreto Lei n.º 911/69, no cumprimento de providência indicada pelo Juízo, para efetivação da citação, é causa de extinção do processo sem resolução do mérito, visto que é desarrazoada a pretensão de que a relação jurídica processual se eternize, sobretudo frente à falta de pressuposto de constituição e desenvolvimento válido e regular do processo pela ausência de fornecimento de meios lídimos para a citação (artigo 239 c/c artigo 485, inciso IV, do Código de Processo Civil). Precedentes TJDFT.
+
+2. Desnecessária a intimação pessoal, prevista no artigo 485, §1º, do Código de Processo Civil, que não se aplica à extinção do processo sem resolução do mérito pela ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo. Precedentes TJDFT.
+
+3. Recurso conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA DE LOURDES ABREU - Relatora, ROBERTO FREITAS FILHO - 1º Vogal e LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal, sob a Presidência da Senhora Desembargadora FÁTIMA RAFAEL, em proferir a seguinte decisão: CONHECER E NEGAR PROVIMENTO, UNÂNIME
+, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 12 de Julho de 2024
+
+Desembargadora MARIA DE LOURDES ABREURelatora
+
+RELATÓRIO
+
+Trata-se da apelação interposta por BANCO MERCEDES-BENZ DO BRASIL S/A (apelante/autor) contra a sentença (ID 59149182) que, proferida em ação de busca e apreensão ajuizada contra RODRIGO MARQUES SEIXAS FONTELES (apelado/réu), extinguiu o feito sem resolução do mérito com supedâneo no artigo 485, inciso IV, § 3º, do Código de Processo Civil.
+
+Em suas razões recursais (ID 59149193), a ausência de inércia do credor no atendimento das determinações judiciais e que antes da extinção do feito deveria lhe ter sido oportunizada a conversão da ação em execução.
+
+Defende que não poderia o juízo a quo ter julgado extinto o feito com fundamento no artigo 485, inciso IV do Código de Processo Civil, pois a extinção deveria se dar nos termos do artigo 485, inciso III do mesmo diploma legal. Argumenta pela necessidade de sua intimação pessoal antes da extinção prematura do feito.
+
+Discorre sobre os princípios da cooperação e da economia dos atos processuais, ao fim, requer o provimento de seu recurso, para que seja cassada a sentença apelada e determinado o retorno dos autos à origem para regular processamento do feito.
+
+Ao final, requer o provimento de seu recurso, para que seja cassada a sentença apelada e determinado o retorno dos autos à origem para regular processamento do feito.
+
+Preparo (ID 59149195 e 59149194).
+
+Sem contrarrazões (ID 59149199).
+
+É o relatório.
+
+Desembargadora MARIA DE LOURDES ABREU
+
+Relatora
+
+VOTOS
+
+A Senhora Desembargadora MARIA DE LOURDES ABREU - Relatora
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Conforme relatado, cuida-se apelação interposta pelo autor contra a sentença (ID 59149182) que, proferida no âmbito da ação de busca e apreensão, extinguiu o feito, sem resolução do mérito, com fundamento no artigo 485, inciso IV, do Código de Processo Civil.
+
+Nas razões de seu recurso de apelação (ID 59149193), o apelante/autor sustenta, em suma, a ausência de inércia do credor no atendimento das determinações judiciais, bem como a necessidade de sua intimação pessoal antes da extinção prematura do feito.
+
+Defende que não poderia o juízo a quo ter julgado extinto o feito com fundamento no artigo 485, inciso IV do Código de Processo Civil, pois a extinção deveria se dar nos termos do artigo 485, inciso III do mesmo diploma legal. Argumenta pela necessidade de sua intimação pessoal antes da extinção prematura do feito.
+
+Discorre sobre os princípios da cooperação e da economia dos atos processuais, ao fim, requer o provimento de seu recurso, para que seja cassada a sentença apelada e determinado o retorno dos autos à origem para regular processamento do feito.
+
+Eis a suma das pretensões.
+
+O exame do caderno processual indica que a presente ação de busca e apreensão foi ajuizada em 09/03/2023 (ID 59147517) e, até o presente momento, restaram infrutíferas as tentativas de localização da parte apelada/ré.
+
+Note-se, em específico, que apesar da parte ré ter apresentado contestação (ID 59147536) e ter sido condenada a multa por ato atentatório à dignidade da justiça, no percentual de 10% do valor da causa (ID  59147557), não houve localização do veículo no curso processual.
+
+A apreensão do veículo é pressuposto processual para o desenvolvimento do processo de busca e apreensão, nos termos da lei.
+
+Ao compulsar os autos observo que ao retorno sem cumprimento os mandados de busca e apreensão (ID 59149113, 59149123) o juízo a quo deferiu a renovação do mandado de busca e apreensão, determinando o recolhimento das custas intermediárias (ID 59149135).
+
+Intimado para promover o andamento do feito (ID 59149143), o apelante/autor requereu sua suspensão pelo prazo de 60 dias (ID 59149145) e o juízo originário indeferiu o pedido, tendo em vista que o Decreto-lei nº 911/69 prescreve diligência específica para o caso de não localização do veículo (ID 59149148).
+
+O apelante requereu pesquisa judicial de endereços (ID 59149150), deferida ao ID 59149154. Após retorno do resultado, intimado a se manifestar (ID 59149158), o autor retornou a requer a suspensão do processo (ID  59149164). Requerimento indeferido pela decisão de ID 59149166, ocasião em que a parte foi intimado a fornecer novo endereço ou promover a conversão do feito em execução de título extrajudicial, sob pena de extinção.
+
+Após a expedição de mandado de busca e apreensão em novo endereço (ID 59149170),  que retornou sem cumprimento (ID 59149178), o apelante foi intimado a dar andamento ao feito, sob pena de extinção (ID 59149179). Contudo, deixou o prazo transcorrer sem manifestação (ID 59149181).
+
+Assim, após a tentativas de apreensão do veículo e a oportunidade dada ao autor para que fornecesse novo endereço válido na tentativa de localização do bem e citação da parte ré, o juízo a quo proferiu sentença e extinguiu o processo, sem resolução de mérito, por ausência de pressuposto de desenvolvimento regular e válido do processo (ID 59149182).
+
+A inércia da parte apelante no cumprimento efetivo da providência indicada pelo juízo é causa de extinção do processo sem resolução do mérito, visto que é desarrazoada a pretensão de que a relação jurídica processual se eternize, sobretudo frente à falta de pressuposto de constituição e desenvolvimento válido e regular do processo pela ausência de meios lídimos para a citação (artigo 239 cumulado com artigo 485, inciso IV, do Código de Processo Civil).
+
+Nesse cenário, necessária se faz a extinção do feito, sem julgamento do mérito, nos moldes do artigo 485, inciso IV, do Código de Processo Civil, in verbis:
+
+Art. 485. O juiz não resolverá o mérito quando:
+
+I - indeferir a petição inicial;
+
+II - o processo ficar parado durante mais de 1 (um) ano por negligência das partes;
+
+III - por não promover os atos e as diligências que lhe incumbir, o autor abandonar a causa por mais de 30 (trinta) dias;
+
+IV - verificar a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo; (...)
+
+§ 1o Nas hipóteses descritas nos incisos II e III, a parte será intimada pessoalmente para suprir a falta no prazo de 5 (cinco) dias.
+
+Ressalta-se, ainda, que a hipótese vertente não trata de extinção processual em decorrência do abandono da causa pelo patrono por mais de trinta dias e, tampouco, por ausência de movimentação do feito, por mais de um ano, por negligência das partes.
+
+Dessa forma, não há necessidade de intimação pessoal da parte para que promova o prosseguimento do feito dentro de 05 (cinco) dias, pois, conforme previsto no § 1º do artigo supracitado, a extinção do processo por ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, conforme dispõe o inciso IV, não a exige.
+
+Nesse sentido, são os precedentes perfilhados por esta Egrégia Corte de Justiça:
+
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. DILIGÊNCIAS PARA CITAÇÃO. NOVA INTIMAÇÃO. ÔNUS DO AUTOR. INSISTÊNCIA NO DESCUMPRIMENTO DO ATO. AUSÊNCIA DE PRESSUPOSTOS DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. FALTA DE CITAÇÃO. EXTINÇÃO DO FEITO. RECURSO CONHECIDO E NÃO PROVIDO.   1.Cuida-se de apelação cível que, na Ação de Busca e Apreensão, julgou o processo extinto o processo sem resolução do mérito, em face da ausência de pressupostos de constituição e de desenvolvimento e regular do processo com base no art. 485, inciso IV, do código de processo civil.   2. Nos termos do art. 3º, § 3º, do Decreto-Lei n. 911/1969, na ação de busca e apreensão em alienação fiduciária o cumprimento da liminar é condição para que ocorra a citação do réu. Com efeito, a não apreensão do bem obsta a regular constituição do processo.   3. Frustradas as tentativas para a localização do veículo, é ônus do Autor diligenciar para obter endereço apto ao cumprimento da medida de busca e apreensão e posterior citação ou requerer a conversão da ação em execução, nos moldes do art. 4º do Decreto-Lei n. 911/69.   4. O Apelante não adotou medidas efetivas para a localização do veículo e por consequência, o Réu não foi citado o que configura a ausência de pressupostos válidos para o regular prosseguimento do processo, representada pela ausência de localização e apreensão do veículo e da citação regular do Réu, a permitir a extinção do feito.  5. Apelação cível conhecida e não provida.(Acórdão 1817871, 07008366720228070008, Relator: Roberto Freitas Filho,  3ª Turma Cível, data de julgamento: 15/2/2024, publicado no DJE: 5/3/2024. Pág.:  Sem Página Cadastrada.)
+
+PROCESSUAL CIVIL. APELAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO.CITAÇÃO. PRESSUPOSTO OBJETIVO.ART. 485, IV, DO CPC. SEM CONDENAÇÃO EM HONORÁRIOS PELA AUSÊNCIA DE ANGULARIZAÇÃO DA RELAÇÃO PROCESSUAL. RECURSO IMPROVIDO. 1. Apelação interposta contra a sentença que extinguiu a ação de execução de título extrajudicial, sem julgamento do mérito, com fundamento no art. 485, IV, do CPC,diante da ausência de citação do réu. 1.1. Nesta sede recursal, o autor pede a reforma da sentença, a fim de que seja dado regular prosseguimento ao feito, sob argumento de que o indeferimento da inicial com consequente extinção do processo não se mostra estar de acordo com os princípios da efetividade da prestação jurisdicional e da economia processual. 2. De acordo com os pressupostos processuais, cabe ao magistrado verificar as condições da ação, bem como a existência das circunstâncias que possibilitam a regularidade formal, com vistas à resolução do mérito, consoante se extrai do art. 321, e seu parágrafo único, do Código de Processo Civil. 2.1. A referida norma é cogente e determina ao juiz que confira oportunidade à parte para a emenda à petição inicial, caso ocorra eventuais defeitos ou irregularidades que impeçam o preenchimento dos requisitos exigidos pelos artigos 319 e 320 do CPC, viabilizando, com isso, o prosseguimento regular do feito. 2.2.No caso dos autos, o juiz sentenciante deferiu os requerimentos e praticou os atos necessários à citação, mas todas as diligências foram infrutíferas, pois os endereços estavam desatualizados ou equivocados. Ainda, diversas diligências e consultas eletrônicas foram formalizadas no juízo de primeiro grau, sem qualquer efeito prático, uma vez que, instado a se manifestar, o autor quedou-se inerte.2.3.Embora o princípio da cooperação e a primazia do julgamento do mérito tenham papel central no novo diploma processual civil, o autor não pode, indefinidamente, litigar sem os mínimos elementos que sejam capazes de diligenciar em busca do correto endereço do réu. 3. A citação é imprescindível para a formação da relação jurídica processual. A falta da referida providência motiva a extinção do processo nos termos do art. 485,IV, do CPC, em virtude da ausência de pressuposto objetivo de existência da relação jurídica processual. 3.1. Nesse sentido, demonstrado que o autor não atendeu à determinação do juízo, impossibilitando o preenchimento dos pressupostos válidos para o desenvolvimento regular do processo,a extinção do feito sem julgamento de mérito (art. 485, IV, do CPC) é a medida que se impõe, não havendo que se falar em excesso de formalismo ou negativa de prestação jurisdicional. 3.2. Precedente: "[...] 4. Cediço ser a citação pressuposto de desenvolvimento válido e regular do processo. É, pois, indispensável (art. 239 do CPC) e sua ausência autoriza a extinção do feito com base no art. 485, inciso IV, do CPC." (07015502720228070008, Relator: Alvaro Ciarlini, Relator Designado: João Egmont, 2ª Turma Cível, DJE: 05/12/2022). 4. Outrossim, ao contrário do que alega o apelante, não se verifica na hipótese violação à súmula240 do Superior Tribunal de Justiça, que afirma: "a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu". Isso porque, no caso dos autos, o réu sequer chegou a ser citado para apresentar contestação, de modo que é dispensável seu requerimento ou anuência para aextinçãoda relação jurídica processual(art. 485, § 6º, do CPC), não sendo aplicável ao caso, portanto, o entendimento expresso no referido enunciado. 4.1. Mas ainda que assim não fosse, convém deixar claro, assim como fez o juízo de origem, que a extinção do feito não se deu em razão do abandono da causa pelo autor (art. 485, III, do CPC), hipótese que atrairia a aplicação da súmula mencionada, mas sim em razão da ausência de pressuposto válido para o desenvolvimento regular do processo (art. 485, IV, do CPC). 5. Sem condenação em honorários ante a ausência de angularização da relação processual. 6. Recurso improvido. (Acórdão 1735351, 07132111220228070005, Relator: JOÃO EGMONT, 2ª Turma Cível, data de julgamento: 26/7/2023, publicado no DJE: 9/8/2023. Pág.: Sem Página Cadastrada.) (grifei)
+
+APELAÇÃO CÍVEL. EXECUÇÃO DE CÉDULA DE CRÉDITO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ARTIGO 485, INCISO IV, DO CPC. FALTA DA CITAÇÃO. AUSÊNCIA DE PRESSUPOSTO DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. INTIMAÇÃO PESSOA DO EXEQUENTE. DESNECESSIDADE. RECURSO CONHECIDO E DESPROVIDO. 1. A falta de citação enseja a extinção do processo por ausência de pressuposto de constituição e desenvolvimento válido e regular. 2. É cediço que a Constituição Federal consagra o princípio da razoável duração do processo. É inadmissível, todavia, o trâmite por demasiado período de tempo. 3. Os princípios processuais como o da economia processual, da efetiva prestação jurisdicional, da cooperação e da instrumentalidade das formas, não têm o condão de assegurar a paralisação do trâmite do processo de forma indefinida. À vista disso, essas normas legais não podem servir de apanágio para conceder à parte inerte, indeterminadas oportunidades de manifestação ou para cumprir seu dever processual de promover a citação e o regular andamento do processo (art. 239, CPC). 4. A resolução do processo com base artigo 485, inciso IV, do Novo Código de Processo Civil, independe de prévia intimação pessoal da parte, providência necessária apenas quando a extinção ocorrer nas hipóteses dos incisos II e III, como expressamente previsto no §1º do mesmo dispositivo. 5. RECURSO CONHECIDO E DESPROVIDO. (Acórdão 1693578, 07017451220228070008, Relator: LUÍS GUSTAVO B. DE OLIVEIRA, 3ª Turma Cível, data de julgamento: 20/4/2023, publicado no DJE: 8/5/2023. Pág.: Sem Página Cadastrada.) (grifei)
+
+Nesse sentido, inclusive, já exarei voto em processo de minha relatoria, senão vejamos:
+
+PROCESSO CIVIL. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE CITAÇÃO. PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO. FALTA DE DILIGÊNCIA DO AUTOR. INTIMAÇÃO PESSOAL. DESNECESSÁRIA. 1. A inércia do autor da ação executiva no cumprimento de providência indicada pelo juízo para efetivação da citação é causa de extinção do processo sem resolução do mérito, visto que é desarrazoada a pretensão de que a relação jurídica processual se eternize, sobretudo frente à falta de pressuposto de constituição e desenvolvimento válido e regular do processo pela ausência de fornecimento de meios lídimos para a citação (artigo 239 cumulado com artigo 485, inciso IV, do Código de Processo Civil). Precedentes TJDFT. 2. Desnecessária a intimação pessoal, prevista no artigo 485, §1º, do Código de Processo Civil, que não se aplica à extinção do processo sem resolução do mérito pela ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo. Precedentes TJDFT. 3. Recurso conhecido e desprovido. (Acórdão 1790985, 07122116220228070009, Relator: MARIA DE LOURDES ABREU,  3ª Turma Cível, data de julgamento: 23/11/2023, publicado no DJE: 19/12/2023. Pág.:  Sem Página Cadastrada.)
+
+PROCESSO CIVIL. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DE CITAÇÃO. PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO. BEM NÃO LOCALIZADO. FALTA DE DILIGÊNCIA DO AUTOR. INTIMAÇÃO PESSOAL. DESNECESSÁRIA.  1. A inércia do autor da ação de busca e apreensão regida pelo Decreto Lei n.º 911/69 no cumprimento de providência indicada pelo juízo para efetivação da citação ou para conversão em execução é causa de extinção do processo sem resolução do mérito.  2. É desarrazoada a pretensão de que a relação jurídica processual se eternize, sobretudo frente à falta de pressuposto de constituição e desenvolvimento válido e regular do processo pela ausência de fornecimento de meios lídimos para a citação (artigo 239 c/c artigo 485, IV, do Código de Processo Civil). Precedentes TJDFT.  3. Desnecessária a intimação pessoal, prevista no artigo 485, §1º, do Código de Processo Civil, que não se aplica à extinção do processo sem resolução do mérito pela ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo. Precedentes TJDFT.  4. Recurso conhecido e desprovido. (Acórdão 1858708, 07187102820238070009, Relator(a): MARIA DE LOURDES ABREU,  3ª Turma Cível, data de julgamento: 2/5/2024, publicado no PJe: 27/5/2024. Pág.:  Sem Página Cadastrada.)
+
+Portanto, não fornecido endereço válido pelo apelante para a apreensão do bem, não há que se falar em desrespeito aos princípios da celeridade e economia processual.
+
+Assim, no caso, deve ser mantida intacta a sentença que determinou a extinção do processo com base no artigo 485, inciso IV, do Código de Processo Civil.
+
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso.
+
+Sem majoração de honorários recursais pela ausência de fixação originária.
+
+É como voto.
+
+O Senhor Desembargador ROBERTO FREITAS FILHO - 1º Vogal Com o relatorO Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER E NEGAR PROVIMENTO, UNÂNIME
