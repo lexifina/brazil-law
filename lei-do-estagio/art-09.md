@@ -6,4 +6,7 @@ IV - contratar em favor do estagiário seguro contra acidentes pessoais, cuja ap
 V - por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho;
 VI - manter à disposição da fiscalização documentos que comprovem a relação de estágio;
 VII - enviar à instituição de ensino, com periodicidade mínima de 6 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário.
-Parágrafo único. No caso de estágio obrigatório, a responsabilidade pela contratação do seguro de que trata o inciso IV do caput deste artigo poderá, alternativamente, ser assumida pela instituição de ensino.
+§ 1º No caso de estágio obrigatório, a responsabilidade pela contratação do seguro de que trata o inciso IV do caput deste artigo poderá, alternativamente, ser assumida pela instituição de ensino.
+§ 2º O termo de compromisso referido no inciso I do caput deste artigo também poderá ser celebrado com a instituição de ensino superior:
+I - a que esteja vinculado o intercambista estrangeiro;
+II - em que se realizar o intercâmbio, no caso de estudante brasileiro intercambista.
