@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por SUELY DOS SANTOS E SILVA MUNDIM, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 31/1/2024.
+Concluso ao Gabinete em: 12/6/2024.
+Ação: de ressarcimento por danos materiais cumulada com compensação por danos morais e estéticos, ajuizada pela agravante em desfavor de L & F COMERCIO DE CABELOS E TRANSPORTE LTDA, em razão de negócio jurídico firmado entre as partes e consubstanciado na aquisição de cabelos humanos.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos das seguinte ementa:
+APELAÇÃO CÍVEL. PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA RECURSAL FORMULADO NAS RAZÕES RECURSAIS. PRETENSÃO A SER DEDUZIDA EM REQUERIMENTO AUTÔNOMO. COMPREENSÃO MAJORITÁRIA DO ÓRGÃO COLEGIADO. PRINCÍPIO DA COLEGIALIDADE. OBSERVÂNCIA. PRETENSÃO LIMINAR NÃO CONHECIDA. NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. DECISÃO SURPRESA. CERCEAMENTO DE DEFESA. PRELIMINARES REJEITADAS. CABELOS. AQUISIÇÃO. MATERIAL SINTÉTICO E ORGÂNICO. RESPONSABILIDADE CIVIL. REQUISITOS. NÃO COMPROVAÇÃO. CONDUTA ILÍCITA NÃO CARACTERIZADA. DEVOLUÇÃO DO VALOR. DANOS MATERIAIS MORAIS E ESTÉTICOS. INOCORRÊNCIA. RECURSO PARCIALMENTE CONHECIDO E, NA EXTENSÃO CONHECIDA, NÃO PROVIDO.
+1. Apelação da autora. Interposta a apelação, é possível ao apelante requerer a antecipação da tutela recursal por requerimento a ser dirigido: a) ao tribunal, se o pedido for formulado entre a data da interposição da apelação e sua distribuição no tribunal, hipótese em que o relator designado para apreciá-lo ficará prevento para julgar a apelação; ou b) ao relator da apelação, se esta já tiver sido distribuída (art. 1.012, § 3º, CPC). 1.1. Em respeito ao Princípio da Colegialidade que busca entre outras finalidades conferir maior segurança jurídica às decisões judiciais ao estabilizar as relações jurídicas, é de ser reconhecido não ter cabimento o pedido preliminar formulado em razões recursais de antecipação da tutela recursal, visto que necessária a apresentação de requerimento autônomo, segundo procedimento previsto na lei processual civil e em normas regimentais. Pedido liminar não conhecido.
+2. Não se pode confundir decisão sucinta com ausência de fundamentação. Não há que se falar em omissão, negativa de prestação jurisdicional ou ausência de fundamentação quando o julgador já tenha encontrado motivo suficiente para proferir a decisão.
+3. Não há que se falar em decisão surpresa, nos termos do art. 10 do Código de Processo Civil, no caso em que a parte foi intimada para se manifestar especificamente sobre o fundamento determinante da sentença.
+4. O juiz deve indeferir provas impertinentes, caso entenda que os elementos constantes dos autos são suficientes à formação de sua convicção. Art. 370, parágrafo único, do Código de Processo Civil.
+5. Cabe ao autor demonstrar o fato constitutivo do seu direito e, caso assim não se desincumba, impõe-se o reconhecimento da improcedência do pedido. Art. 373, inc. I, do Código de Processo Civil.
+6. Em ação que se busca a devolução dos valores pagos, o ressarcimento por danos materiais e a reparação por danos morais e estéticos em decorrência da má qualidade de cabelos adquiridos para implantes, cabe à parte autora trazer elementos que possam comprovar efetiva e seguramente a causa de pedir.
+6. Recurso da autora parcialmente conhecido e, na extensão conhecida, desprovido. (e-STJ Fls. 416/417)
+Decisão de admissibilidade do TJ/DFT: inadmitiu o recurso especial da agravante em razão dos seguintes fundamentos:
+i) quanto à ofensa aos artigos 6º, VIII, do CDC, bem como aos arts. 156, 373, 447 e 465, do CPC, e à necessária inversão do ônus da prova, incidência da Súmula 7/STJ, em atenção à jurisprudência desta Corte; e
+ii) prejudicado o dissídio jurisprudencial alegado pela incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a agravante alega, em síntese, que:
+i) houve cerceamento do direito da autora, sobretudo ante a impossibilidade de produzir as provas necessárias ao deslinde da ação;
+ii) não há se falar na aplicação da Súmula 7/STJ;
+iii) houve prequestionamento da matéria quanto ao irregular julgamento antecipado da lide, devendo ser afastada a Súmula 282/STF;
+iv) houve inobservância aos dispositivos legais apontados, de sorte que "a decisão desconsiderou que valores depositados em caderneta de poupança e/ou a título de investimentos como no presente caso, são impenhoráveis (..)" (e-STJ Fl. 491);
+v) é cabível a inversão do ônus probatório na espécie, mormente ante a hipossuficiência do consumidor; e
+vi) há similitude entre os julgados confrontados para fins de comprovação da divergência jurisprudencial suscitada.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) quanto à ofensa aos artigos 6º, VIII, do CDC, bem como aos arts. 156, 373, 447 e 465, do CPC, e à necessária inversão do ônus da prova, incidência da Súmula 7/STJ, em atenção à jurisprudência desta Corte.
+A agravante, assim, limitou-se a reprisar as razões de seu recurso especial e a tecer considerações inclusive dissociadas da decisão proferida, não impugnando adequadamente, de forma clara e específica, o óbice aplicado, o fazendo apenas de forma genérica e não trazendo, de fato, a adequada impugnação à sua incidência para fins de demonstrar o efetivo desacerto da decisão, em atenção às particularidades dos autos e aos dispositivos expressamente apontados.
+É firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte ora agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente (e-STJ Fl. 431) em 11% sobre o valor da causa para 12%, observada a eventual conces são da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
