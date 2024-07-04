@@ -1,0 +1,68 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0704256-36.2024.8.07.0000AGRAVANTE(S)CESAR SEBASTIAO MARTINSAGRAVADO(S)BANCO DO BRASIL S/ARelatorDesembargador ARNOLDO CAMANHO
+ Acórdão Nº1889066
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO CIVIL COLETIVA Nº 1998.01.1.016798-9. COMPETÊNCIA. JUÍZO DO DOMICÍLIO OU DISTRITO FEDERAL. FACULDADE DO CONSUMIDOR BENEFICIÁRIO. DECLINAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. DECISÃO REFORMADA.
+
+1. Conforme decidiu o colendo STJ, ao julgar o REsp nº 1.391.198, “a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, (...) é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal”.
+
+2. O juiz não pode declinar de ofício da competência, tendo em vista a faculdade do consumidor de ajuizar a demanda em seu domicílio ou no Distrito Federal. 3. Agravo de instrumento provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNOLDO CAMANHO - Relator, JAMES EDUARDO OLIVEIRA - 1º Vogal e SÉRGIO ROCHA - 2º Vogal, sob a Presidência do Senhor Desembargador JAMES EDUARDO OLIVEIRA, em proferir a seguinte decisão: DAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 15 de Julho de 2024
+
+Desembargador ARNOLDO CAMANHORelator
+
+RELATÓRIO
+
+O relatório é o da decisão de ID nº 59095059, verbis:
+
+“Por meio do presente recurso, Cesar Sebastião Martins pretende a reforma da decisão proferida pela MM. Juíza da 13ª Vara Cível de Brasília, que declinou da competência para processar e julgar o presente feito, determinando a remessa dos autos a uma das Varas Cíveis da Comarca de Uberaba, MG.
+
+Em suas razões, o agravante alega que se trata de liquidação da decisão proferida em ação civil pública que tramitou perante a 3ª Vara Federal da Seção Judiciária do Distrito Federal. Argumenta ser competente o foro do lugar onde está a sede da pessoa jurídica demandada, de acordo com o disposto no art. 53, inciso III, alínea “a”, do CPC. Afirma que a competência sendo relativa não pose ser declarada de ofício, mas da parte que interessa, nos termos do Enunciado nº 33, da Súmula do STJ. Pede o provimento do recurso, com imediata concessão de efeito suspensivo, para que seja reformada a decisão agravada, declarando-se competente para julgar a presente demanda o Juízo recorrido”.
+
+Por meio da referida decisão foi deferido o efeito suspensivo pleiteado.
+
+Contrarrazões pugnando pelo não provimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARNOLDO CAMANHO - Relator
+
+Conforme decidiu o colendo STJ, ao julgar o REsp 1.391.198, “a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, (...) é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal”.
+
+Assim, o juiz não pode declinar de ofício da competência, tendo em vista a faculdade do consumidor de ajuizar a demanda em seu domicílio ou no Distrito Federal.
+
+Nesse sentido, confira-se o seguinte aresto deste egrégio TJDFT:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. RELAÇÃO DE CONSUMO. COMPETÊNCIA. DOMICÍLIO DO BENEFICIÁRIO OU NO DISTRITO FEDERAL. OPÇÃO DO CONSUMIDOR QUE FIGURA NO POLO ATIVO. DECISÃO REFORMADA.
+
+1. O col. Superior Tribunal de Justiça assentou, em julgamento de recurso representativo de controvérsia, que o cumprimento individual da sentença proferida na ação civil pública n. 1998.01.1.016798-9 pode ser ajuizado no domicílio do beneficiário ou no Distrito Federal.
+
+2. Afigura-se transparente a relação consumerista, porquanto o agravante postula o pagamento de expurgos inflacionários decorrentes da implementação de planos econômicos, em razão de conta mantida no banco agravado.
+
+3. Diante da relação de consumo em que o consumidor figura no polo ativo da ação, resta configurada a competência territorial relativa, que não admite o controle de ofício pelo juiz, nos termos do art. 65 do CPC, dos enunciados da Súmula n. 33 do STJ e da Súmula n. 23 do TJDFT.
+
+4. Deve ser respeitada a opção da parte pelo ajuizamento da ação no foro da sede do banco, nesta Capital, em consonância com o art. 53, inc. III, "a", do, CPC. 5. Agravo de instrumento conhecido e provido” (Acórdão 1331468, 07249722620208070000, Relator: FÁBIO EDUARDO MARQUES, 7ª Turma Cível, data de julgamento: 7/4/2021, publicado no PJe: 1/5/2021. Pág.: Sem Página Cadastrada).
+
+Assim, o entendimento da ilustre Magistrada singular não pode prevalecer sobre as normas legais acerca da fixação de competência, nem sobre o entendimento jurisprudencial consolidado.
+
+Dessa forma, dou provimento ao recurso para, reformando a decisão agravada, declarar a competência do Juízo a quo para processar e julgar a presente demanda.
+
+É como voto.
+
+O Senhor Desembargador JAMES EDUARDO OLIVEIRA - 1º Vogal Com o relatorO Senhor Desembargador SÉRGIO ROCHA - 2º Vogal Com o relator
+
+DECISÃO
+
+DAR PROVIMENTO AO RECURSO. UNÂNIME
