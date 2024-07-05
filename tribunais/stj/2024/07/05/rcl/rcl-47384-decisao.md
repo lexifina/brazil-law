@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Reclamação ajuizada por LUIZ EDUARDO PINHEIRO CORREA, alegando descumprimento da ordem emanada por esta Corte, no HC n. 705.667-AP, pelo Tribunal Regional Federal da 1ª Região, na Apelação n. 0000359-21.2005.4.01.3100.
+Explica o reclamante que, embora concedida ordem de habeas corpus em seu favor, para determinar à Corte a quo que reexaminasse a questão da prescrição da pretensão punitiva, tomando como marco inicial para a contagem do prazo prescricional a data do trânsito em julgado para a condenação, considerando a irretroatividade da Lei n. 11.469/2007 (novatio legis in pejus), o Tribunal Regional entendeu que não transcorreu o prazo de 8 anos entre a data do trânsito em julgado para a acusação e o julgamento da apelação.
+Explica que a sentença transitou em julgado para acusação no dia 1º/10/2012, e que, após essa data, inexiste marco interruptivo legal, situação que foi desconsiderada pelo TRF-1, não obstante a ordem emanada por esta Corte. Sustenta que o alcance da prescrição se deu em 19/9/2020.
+Aponta, assim, descumprimento da ordem emanada por esta Corte.
+Pugna, liminarmente, pela suspensão do AREsp n. 2.584.444-AP e, ao final, pelo acolhimento da presente reclamação.
+Solicita intimação da defesa para realização de sustentação oral.
+O pedido liminar foi indeferido (e-STJ, fls. 5585-5586).
+O Ministério Público opinou pela procedência da reclamação (e-STJ, fls. 5592-5598).
+É o relatório.
+Decido.
+Inicialmente, cumpre ressaltar que " a  decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro Felix Fischer, Quinta Turma, DJe 28/3/2019).
+É "plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC 607.055/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 09/12/2020, DJe 16/12/2020).
+A reclamação procede.
+Buscando dar cumprimento à ordem emanada por esta Corte, no HC n. 705.667-AP, o Tribunal Regional Federal da 1ª Região afastou a prescrição, entendendo que:
+Compulsando os autos, tem-se que os fatos ocorreram em 2005, a denúncia foi recebida em 15/12/2005, a sentença condenatória foi publicada em 20/09/2012, o trânsito em julgado para a acusação ocorreu em 1º/10/2012 e a sessão de julgamento da apelação ocorreu em 22/11/2016.
+Nesse sentido, entre a data do trânsito em julgado para a acusação (1º/10/2012) e a sessão de julgamento da apelação (22/11/2016) não transcorreu o prazo prescricional de 8 (oito) anos.
+Portanto, não há em que se falar em prescrição. (e-STJ, fl. 18)
+No entanto, " o  Superior Tribunal de Justiça reconhece o acórdão confirmatório de sentença penal condenatória como marco interruptivo da prescrição da pretensão punitiva apenas aos fatos praticados após a edição da Lei n. 11.596, em 29/11/2007, que determinou nova redação do inciso IV do art. 117 do Código Penal, por se tratar de inovação legislativa prejudicial ao réu que não deve retroagir." (EDcl no AgRg no AREsp n. 1.400.990/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022; grifou-se).
+Nesse caso, consoante registrado pelo reclamante, após o trânsito em julgado para acusação, que ocorreu no dia 1º/10/2012, inexiste causa interruptiva legal na presente hipótese, razão pela qual equivocou-se a Corte Regional ao considerar a sessão de julgamento da apelação, ocorrida em 22/11/2016, como marco interruptivo da prescrição.
+Nesse sentido é o parecer ministerial:
+Em casos desse jaez, esse Colendo STJ entende que "Nos termos do inciso IV do art. 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de primeiro grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta. (Precedente do Plenário do STF no HC 176.473/RR, Rel. Min. Alexandre de Moraes, D Je 10/9/2020). Ressalte-se que esse novo posicionamento do Supremo Tribunal Federal - STF, seguido por esta Corte, somente se aplica aos crimes praticados após a alteração legislativa inserida pela Lei n. 11.596/2007, caso dos autos" (EDcl no AgRg no AgRg no AREsp n. 2.318.149/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/4/2024, DJe de 18/4/2024). (e-STJ, fl. 5597)
+Dentro desse contexto, consoante observado pelo Ministério Público Federal, faz-se necessário o acolhimento da presente reclamação, "para que o Tribunal a quo cumpra a ordem emanada por essa Colenda Corte, no HC 705.667/AP, reexaminado a questão da prescrição da pretensão punitiva, na Apelação Criminal n. 2005.31.00.000358-8/AP, tomando como marco inicial para a contagem do prazo prescricional a data do trânsito em julgado para a acusação e não aplicando o acórdão como marco interruptivo, conforme jurisprudência do STJ e STF. " (e-STJ, fl. 5598).
+Diante do exposto, julgo procedente a reclamação, nos termos acima expostos.
+Publique-se Intime-se.
+Comunique-se.
+EMENTA
