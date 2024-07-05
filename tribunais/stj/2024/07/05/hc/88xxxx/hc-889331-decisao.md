@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de MICHEL CARVALHO DA SILVA, condenado pela prática do delito descrito no art. 180, caput, do Código Penal, à pena de 1 ano e 9 meses de reclusão, em regime inicial fechado, e pagamento de 16 dias-multa, no valor unitário mínimo (Processo n. 1502160-50.2023.8.26.0540, da 1ª Vara Criminal da comarca de Mauá/SP).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, em razão do julgamento da apelação criminal, ocorrido em 29/1/2024.
+Requer-se, em liminar, possa o paciente aguardar o julgamento do writ em liberdade. No mérito, pede-se a concessão da ordem para (fl. 20):
+a) Desclassificação do crime de receptação para a modalidade culposa do delito, conforme insculpido no art. 180, § 3º do CP.
+b) Fixação da pena-base no mínimo legal, com fulcro no art. 59 do Código Penal;
+c) Reconhecimento da compensação integral da agravante da reincidência com a atenuante da confissão espontânea, com fulcro no art. 67 do Código Penal.
+d) Fixação do regime inicial aberto, ou diverso do fechado, com fulcro no art. 33, § 2º, alíneas "b" e "c", do Código Penal;
+e) Substituição pena privativa de liberdade por restritiva de direitos, com fulcro no art. 44 do Código Penal.
+O pedido de liminar foi indeferido (fls. 73/74).
+Prestadas as informações (fls. 81/110), o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 114/122).
+É o relatório.
+Ao confirmar a sentença que condenou o paciente pela prática do delito de receptação, asseverou a Corte estadual (fls. 65/66):
+Ora, as circunstâncias e a conduta do apelante, comprovadas por provas produzidas em contraditório judicial, demonstram claramente que ele conhecia a origem ilícita da coisa receptada, uma vez que tentou se evadir ao notar a presença dos policiais, não ostentava qualquer documento hábil a demonstrar, ainda que minimamente, a posse legal do veículo, e tampouco deu informações acerca do indivíduo que supostamente havia lhe emprestado o automóvel, como nome completo, telefone, ou endereço.
+Em que pese a tese defensiva aventada, é assente o entendimento jurisprudencial de que a prova do conhecimento da origem ilícita do bem receptado é extraída das próprias circunstâncias dos fatos e da conduta do próprio agente.
+A propósito: "A prova do conhecimento da origem delituosa da coisa, no crime de receptação, pode extrair-se da própria conduta do agente e dos fatos circunstanciais que envolvem a infração" (TACRIM-SP, Rel. Nogueira Filho, JUTACRIM 96/240).
+E uma vez surpreendido em poder de bem furtado, cabia à defesa técnica demonstrar a legitimidade da posse, mas não o fez.
+Este é o entendimento pacífico do c. STJ que, em diversas oportunidades, julgou no sentido de que aquele que é apreendido na posse de bem produto de ilícito deve fazer prova acerca da origem lícita deste.
+Ora, como bem asseverou o próprio Tribunal a quo, do exposto, verifica-se que o acórdão impugnado se encontra em consonância com o reiterado entendimento jurisprudencial desta Corte Superior, segundo o qual, quando há a apreensão do bem resultante de crime na posse do agente, é ônus do imputado comprovar a origem lícita do produto ou que sua conduta ocorreu de forma culposa. Isto não implica inversão do ônus da prova, ofensa ao princípio da presunção de inocência ou negativa do direito ao silêncio, mas decorre da aplicação do art. 156 do Código de Processo Penal, segundo o qual a prova da alegação compete a quem a fizer. Precedentes (AgRg no HC n. 446.942/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2018) - (AgRg no AREsp n. 2.309.936/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 17/5/2024).
+De outro lado, também não há falar em bis in idem, porquanto, a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda, como ocorreu no caso em apreço (AgRg no REsp n. 2.103.310/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/6/2024).
+Melhor sorte socorre o paciente quanto ao pleito de reconhecimento da atenuante da confissão espontânea.
+Com efeito, segundo a jurisprudência desta Corte Superior de Justiça, a confissão espontânea deve ser reconhecida, ainda que qualificada ou parcial, e mesmo que não sirva de fundamento para a formação do juízo condenatório. Nesse sentido: REsp n. 1.972.098/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/6/2022; (AgRg no HC n. 904.213/PA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/6/2024).
+Firmada essa premissa, a pena deve ser redimensionada.
+À pena-base fixada em 1 ano e 2 meses de reclusão e pagamento de 11 dias-multa, deve incidir a fração de 1/3 pela compensação parcial da confissão espontânea com a multirreincidência do réu (5 reincidências), conforme reiterado entendimento desta Corte (AgRg no HC n. 708.024/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 15/2/2022), totalizando 1 ano, 6 meses e 20 dias de reclusão e pagamento de 14 dias-multa, tornando-se definitiva nesse patamar, ante a ausência de causas de aumento ou diminuição da pena.
+Os pleitos de alteração do regime inicial para diverso do fechado e de substituição da pena privativa de liberdade por restritivas de direito não prosperam, porquanto, como bem consignou o acórdão impugnado, o réu é multirreincidente e conta com maus antecedentes.
+No mesmo sentido: AgRg no REsp n. 2.398.933/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 5/3/2024; AgRg no HC n. 850.559/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 29/2/2024.
+Ante o exposto, concedo parcialmente a ordem para, redimensionando a pena do paciente, fixá-la em 1 ano, 6 meses e 20 dias de reclusão e pagamento de 14 dias-multa, mantidos os demais termos da condenação.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual .
+Publique-se.
+EMENTA
+HABEAS CORPUS. RECEPTAÇÃO. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME CULPOSO. INVERSÃO DO ÔNUS DA PROVA. RÉU ENCONTRADO NA POSSE DA RES FURTIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. MAUS ANTECEDENTES E REINCIDÊNCIA. BIS IN IDEM. NÃO OCORRÊNCIA. CONDENAÇÕES DIVERSAS. CONFISSÃO ESPONTÂNEA. ADMISSÃO DA CIÊNCIA DA ORIGEM ILÍCITA DO BEM. ATENUAÇÃO OBRIGATÓRIA. MULTIRREINCIDÊNCIA. COMPENSAÇÃO PARCIAL. REGIME FECHADO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. LEGALIDADE.
+Ordem parcialmente concedida nos termos do dispositivo.
