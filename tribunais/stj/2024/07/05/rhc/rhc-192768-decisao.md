@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por RUBIA SCROCARO em face de acórdão assim ementado:
+PROCESSO PENAL. HABEAS CORPUS. INCLUSÃO DE PROCESSO DE HABEAS CORPUS EM SESSÃO DE JULGAM ENTO EM MESA. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO EMCASO DE AUSÊNCIA DE PEDIDO EXPRESSO REQUERENDO SUSTENTAÇÃO ORAL.
+1. O procedimento do Habeas Corpus deve ocorrer de modo célere e, salvo requerimento expresso do advogado postulando a sua intimação, o writ constitucional deve ser julgado na primeira sessão, independentemente de pauta. O Habeas Corpus pode, portanto, ser incluído em mesa, isto é, na pauta de julgamento do próprio dia.
+2. Ordem denegada.
+Imputa-se à recorrente a prática do crime de desobediência de decisão judicial, previsto no art. 359 do Código Penal. A denúncia detalha que, entre 18 de agosto de 2020 e 25 de maio de 2022, a recorrente, apesar de estar ciente e capaz de agir de modo diverso, descumpriu uma ordem judicial que havia suspendido sua autoridade e direito sobre a guarda de sua filha. Mesmo após a expedição de um mandado de busca e apreensão para que a criança fosse entregue ao pai, a recorrente mudou-se de estado com a filha, dificultando o cumprimento da decisão judicial.
+A defesa alega, em síntese, que a inclusão do habeas corpus impetrado na origem em julgamento virtual, sem a devida intimação da defesa e da recorrente, configura violação aos princípios da ampla defesa e do contraditório, resultando em nulidade dos atos processuais. Além disso, argumenta que, mesmo após ser notificada da inclusão do processo em pauta virtual, não teve a oportunidade de se manifestar adequadamente, impedindo o exercício do direito de sustentação oral.
+Ao final, requer o provimento do recurso para que seja anulado todos os atos praticados desde a ausência de intimação, incluindo o acórdão recorrido.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fl. 28).
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fls. 209/211):
+Consoante pontuei no exame do pedido liminar, os impetrantes impetraram o HC Crim 0742385-47.2023, com o objetivo de ver julgado o Habeas Corpus n.º 071779-40.2023, em trâmite na 1ª Turma Recursal dos Juizados Especiais do Distrito Federal. Ao serem prestadas as informações naquele HCCrim 0742385-47.2023, de minha Relatoria, o Juízo de origem mencionou que o Habeas Corpus n.º 0717779-40.2023 havia sido incluído em pauta de julgamento virtual. Recorde-se que, nos termos do art. 40 do Regimento Interno das Turmas Recursais, os processos de Habeas Corpus independem de prévia inclusão em pauta de julgamento.
+O art. 612 do Código de Processo Penal determina que o Habeas Corpus serájulgado na primeira sessão.
+Desse modo, como destaquei no exame do HC
+Crim 0742385-47.2023, o presente remédio constitucional se cuida de um processo célere, que demanda uma rápida resposta ao impetrante, nos termos do art. 649 e 664 do Código de Processo Penal.
+Além disso, por se cuidar de processo eletrônico, os impetrantes tiveram acesso a todas as decisões e despachos exarados no referido processo. Inclusive, insurgiram-se contra eles e alegaram demora no julgamento no Habeas Corpus anteriormente impetrado perante este Relator.
+Ressalte-se que o art. 28 do Regimento Interno das Turmas Recursais determina que as intimações se darão por modo eletrônico, dispensada a publicação no Diário de Justiça senão houver partes ou interessados que devam ser intimados de outro modo.
+ .. .
+Assim, o procedimento do Habeas Corpus deve ocorrer de modo célere e, salvo requerimento expresso do advogado postulando a sua intimação, o writ constitucional deve ser julgado na primeira sessão, independentemente de pauta. Eles podem, portanto, ser incluídos em mesa, isto é, na pauta de julgamento do próprio dia.
+ .. .
+Ressalte-se que, no caso em exame, o impetrante não formulou requerimento de sustentação oral.
+De fato, da leitura dos dispositivos que regem o tema, art. 40 do Regimento Interno das Turmas Recursais do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT) e art. 612 do Código de Processo Penal, observa-se que o habeas corpus deve ser julgado na primeira sessão, não sendo exigida a inclusão em pauta, tampouco a intimação para julgamento virtual. Esses dispositivos estabelecem que o procedimento do habeas corpus deve ocorrer de forma célere, garantindo uma rápida resposta ao impetrante.
+O art. 40 do Regimento Interno das Turmas Recursais dispõe:
+Art. 40: "Os processos de Habeas Corpus independem de prévia inclusão em pauta de julgamento."
+Da mesma forma, o art. 612 do Código de Processo Penal determina:
+Art. 612: "Os recursos serão julgados na primeira sessão do tribunal, a partir de sua apresentação pelo relator."
+O Tribunal de origem, ao aplicar tais dispositivos, agiu em conformidade com a legislação vigente. O julgamento virtual do habeas corpus, sem a necessidade de inclusão prévia em pauta ou intimação específica para tal, está adequadamente fundamentado nas normas processuais que regem o tema. Essa prática visa justamente a garantir a eficiência e a rapidez na apreciação de um remédio constitucional tão importante quanto o habeas corpus.
+Cabe destacar que, conforme mencionado nos autos, o impetrante sequer requereu o pleito de sustentação oral. Ademais, o art. 28 do Regimento Interno das Turmas Recursais estabelece que as intimações devem ocorrer por modo eletrônico, dispensando a publicação no Diário de Justiça se não houver partes ou interessados que devam ser intimados de outro modo. Assim, não havendo requerimento expresso de sustentação oral, não se faz necessária a intimação específica para o julgamento virtual.
+Adicionalmente, o art. 28 do Regimento Interno das Turmas Recursais do TJDFT estabelece:
+Art. 28: "As intimações se darão por modo eletrônico, dispensada a publicação no Diário de Justiça se não houver partes ou interessados que devam ser intimados de outro modo."
+Portanto, o julgamento realizado pelo Tribunal de origem está adequado e fundamentado nas normas processuais aplicáveis. A celeridade e a eficiência no julgamento do habeas corpus foram observadas, conforme determina a legislação, e a ausência de pleito de sustentação oral pelo impetrante reforça a adequação do procedimento adotado  .
+Além disso, não há comprovação de prejuízo para reconhecer a nulidade apontada, porque, conforme firmado no acórdão recorrido, a defesa teve acesso a todas as decisões e despachos exarados no referido processo, por se cuidar de processo eletrônico . Inclusive, insurgiram-se contra eles e alegaram demora no julgamento no habeas corpus anteriormente impetrado na Corte de origem. Assim, conforme o princípio do pas de nulité sans grief, não há nulidade sem prejuízo, sendo assim, a ausência de prejuízo efetivo corrobora a adequação do procedimento adotado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. HOMICÍDIOS QUALIFICADOS. ALEGAÇÕES DE DIVERSAS DE NULIDADE DA SESSÃO PLENÁRIA. EFETIVO PREJUÍZO NÃO DEMONSTRADO. PAS DE NULLITÉ SANS GRIEF. ART. 563 DO CPP. BENEFÍCIO PELA PRÓPRIA TORPEZA. VEDAÇÃO. ART. 565 DO CPP. EVENTUAIS VÍCIOS PROCESSUAIS NÃO SUSCITADOS NO MOMENTO OPORTUNO. PRECLUSÃO. PEDIDO DE AFASTAMENTO DAS QUALIFICADORAS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PROVIDÊNCIA INVIÁVEL NA VIA ELEITA. RECONHECIMENTO DO CONCURSO FORMAL DE CRIMES E DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, A jurisprudência deste Superior Tribunal de Justiça é uníssona no sentido de que, tanto nos casos de nulidade relativa quanto nos casos de nulidade absoluta, somente se reconhece vício que enseje a anulação de ato processual a partir da efetiva demonstração de prejuízo, à luz do art. 563 do Código de Processo Penal - CPP (pas de nullité sans grief) (AgRg no REsp n. 1.959.061/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+ .. .
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 898.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024. - grifos acrescidos)
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
