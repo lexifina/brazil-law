@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GILBERTO DIAS DA CRUZ e JOSE ROBERTO DIAS DA CRUZ, apontando como autoridade coatora Desembargador do Tribunal de Justiça da Paraíba.
+Consta dos autos que os pacientes tiveram a prisão temporária decretada pelo suposto envolvimento nos delitos de homicídio contra as vítimas Alan Carlos da Silva Andrade e Maria do Céu Felinto dos Santos.
+Impetrado o habeas corpus originário, a Corte estadual indeferiu o pedido liminar (e- STJ, fl. 19).
+Neste writ, a defesa sustenta que os pacientes estão sofrendo constrangimento ilegal em decorrência da perda da eficácia da prisão temporária, considerando que expirou o prazo assinalado, sem que houvesse qualquer prorrogação ou decretação da prisão preventiva.
+Requer, assim, liminarmente e no mérito, que os pacientes possam aguardar, em liberdade, "o término das investigações e a futura instrução processual" (fl.10).
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. PRISÃO TEMPORÁRIA. PRORROGAÇÃO. AUSÊNCIA DE ILEGALIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Hipótese na qual o Desembargador destacou não se verificar a existência de constrangimento ilegal evidente, de modo que a matéria demandaria apreciação mais detida, no momento adequado. De fato, o exame do feito não demonstra a presença de ilegalidade patente a justificar o deferimento da liminar.
+3. A prisão temporária, ao que parece, está corretamente fundamentada, porquanto se mostra, segundo a investigação do fato de apuração na fase de inquérito, necessária para obter outros elementos probatórios que possam corroborar com as provas produzidas até o momento. Ademais, a prorrogação foi pleiteada e deferida "uma vez que ainda existem investigações necessárias a serem realizadas, mormente a oitiva da vítima e da investigada, testemunhas, e demais atos que necessários para melhor elucidação dos fatos".
+4. Agravo desprovido." (RCD no HC n. 891.961/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024, grifou-se);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. SÚMULA N. 691 DO STF. INDEFERIMENTO LIMINAR DO WRIT. HOMICÍDIO. INVESTIGAÇÃO. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE. AUSÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a previsão regimental e a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. Precedentes.
+2. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância. A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado, hipótese que não se faz presente.
+3. "O art. 1º da Lei n. 7.960/1989 evidencia que o objetivo primordial da prisão temporária é o de acautelar o inquérito policial, procedimento administrativo voltado a esclarecer o fato criminoso, a reunir meios informativos que possam habilitar o titular da ação penal a formar sua opinio delicti e, por outra angulação, a servir de lastro à acusação" (RHC n. 77.265/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2017, DJe 2/10/2017).
+4. Apresentada fundamentação válida para a decretação da prisão temporária, evidenciada na gravidade concreta da conduta delitiva, em razão das "circunstâncias em que se deram os fatos, ou seja, em plena luz do dia e na presença de testemunhas, motivado por vingança em razão de entrevero anterior com a vítima", de maneira que ficou demonstrada a imprescindibilidade da medida para a continuidade das investigações, não havendo se falar em ilegalidade.
+5. Agravo regimental improvido." (AgRg no HC n. 811.518/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023, grifou-se).
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem e o pronunciamento antecipado desta Corte, na medida em que se encontra assim motivada:
+"O exame da medida de urgência requerida nestes autos reclama a obtenção, junto ao juízo de primeiro grau, de outros elementos inerentes aos fatos tidos como delituosos, notadamente em razão da pouca inteligibilidade da petição inicial e da complexidade da matéria.
+Ante ao exposto, antes de analisar o pedido de liminar, requisito informações da autoridade impetrada, nos termos do art. 662, do Código de Processo Penal, no prazo de 48h.
+Oficie-se a autoridade coatora, servindo o presente despacho como ofício/expediente de comunicação, nos termos do disposto no art. 102, do Código de Normas Judiciais (PROVIMENTO CGJ-TJPB Nº 49/2019).
+Cumpra-se com urgência." (e-STJ, fl. 19).
+Dessarte, a questão suscitada na impetração demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
