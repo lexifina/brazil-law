@@ -1,0 +1,31 @@
+Art. 80-A - A Coordenação de Controle Interno será dirigida pelo Controlador Interno, nomeado pelo Defensor Público-Geral do Estado.
+§ 1º - A Coordenação de Controle Interno tem por objetivo assistir, direta e imediatamente, a Defensoria Pública-Geral no desempenho de suas atribuições quanto aos assuntos e providências atinentes à defesa do patrimônio da Instituição, ao controle interno, à auditoria e à transparência na gestão pública , competindo-lhe:
+I - exercer a coordenação geral, a orientação normativa, a supervisão técnica e a realização de atividades inerentes ao controle interno;
+II - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos planos, programas e orçamento da Defensoria Pública;
+III - realizar inspeções e auditorias de natureza contábil, orçamentária, financeira, patrimonial e operacional e de pessoal nas unidades administrativas;
+IV - fiscalizar a aplicação de quaisquer recursos repassados pela Defensoria Pública, mediante convênios, ajustes, acordos ou outro instrumento congênere;
+V - emitir certificado de auditoria atestando a regularidade ou a irregularidade das prestações e tomadas de contas dos responsáveis pela guarda e aplicação de valores e bens públicos administrados pela Defensoria Pública;
+VI - consolidar e analisar a prestação de contas anual da Defensoria Pública e submetê-la ao Defensor Público-Geral antes de seu envio ao Tribunal de Contas do Estado;
+VII - submeter à aprovação do Defensor Público-Geral o plano anual de controle interno, que também preverá a verificação do cumprimento das metas previstas no orçamento participativo, para aprovação até o final do exercício vigente;
+VIII - submeter ao Defensor Público-Geral os resultados de auditorias e inspeções realizadas no âmbito das unidades administrativas da Defensoria Pública, inclusive para o fim disposto no inciso XV do § 1º deste artigo;
+IX - avaliar normas e procedimentos administrativos, recomendando os pontos de controle necessários à segurança dos sistemas estabelecidos;
+X - avaliar o nível de execução de metas, o alcance de objetivos e a adequação das ações dos gestores diretamente responsáveis;
+XI - avaliar o cumprimento do orçamento participativo pelos gestores da Defensoria Pública;
+XII - auxiliar os gestores na gerência e nos resultados propostos, por meio de recomendações que visem aprimorar procedimentos e controles;
+XIII - orientar as demais unidades na prática de atos administrativos, garantindo a conformidade com a legislação específica e normas correlatas;
+XIV - apoiar o controle externo do Estado e da União, zelando pelo saneamento dos processos que devam ser submetidos ao seu exame, acompanhando o cumprimento de suas determinações e recomendações;
+XV - verificar a conformidade da execução orçamentária com as regras estabelecidas na Lei Complementar Federal nº 101, de 04 de maio de 2000 - Lei de Responsabilidade Fiscal e legislações afins;
+XVI - prestar assessoramento direto e imediato ao Defensor Público-Geral, nos assuntos relativos ao controle interno, especialmente no que diz respeito aos dispositivos da Lei de Responsabilidade Fiscal;
+XVII - propor normas e procedimentos de auditoria e fiscalização da gestão da Defensoria Pública;
+XVIII - elaborar e encaminhar, para a aprovação da Defensoria Pública Geral, Instruções Normativas referentes a sua área de atuação que serão publicadas na Imprensa Oficial;
+XIX - organizar e manter atualizado o Manual de Normas e Procedimento de Controle Interno, em meio documental ou em base de dados;
+XX - fiscalizar a correta observância da legislação vigente, das Resoluções do Conselho Superior, das Instruções Normativas e demais normas editadas pela Defensoria Pública;
+XXI - elaborar estudos e propostas de metodologia com o objetivo de avaliar e aperfeiçoar as atividades de controle interno da instituição;
+XXII - efetuar análise e estudo dos casos propostos pelos órgãos de execução e unidades administrativas, visando à solução de problemas relacionados ao controle externo;
+XXIII - representar ao Defensor Público-Geral a ocorrência de fatos que contenham indícios de ilegalidade ou quaisquer irregularidades na gestão orçamentária, financeira, operacional ou patrimonial para adoção das providências cabíveis;
+XXIV - fiscalizar a regularidade dos trabalhos da Comissão Permanente de Licitação;
+XXV - formular, propor, sugerir, acompanhar, coordenar e implementar ações para o desenvolvimento do sistema de controle interno, bem como prevenir falhas e omissões na prestação dos serviços da Defensoria Pública;
+XXVI - executar outras atividades que lhe forem correlatas, ou conferidas legalmente, no âmbito de sua competência.
+§ 2º - À Coordenadoria de Controle Interno cabe formular, propor, sugerir, acompanhar, coordenar e implementar ações para o desenvolvimento de sistema de controle interno, bem como prevenção de falhas, riscos e omissões na prestação dos serviços da Defensoria Pública do Estado da Bahia.
+§ 3º - A Controladoria-Geral, no desempenho de suas funções, poderá solicitar às unidades componentes da estrutura administrativa da Defensoria Pública quaisquer documentos ou informações relativos aos serviços e atividades desempenhados, por meio do Defensor Público-Geral.
+Art. 80-A acrescido pela Lei Complementar nº 46 de 29 de outubro de 2018.
