@@ -1,0 +1,102 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ EDUARDO GONCALVES REZENDE contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a" e "c", da Constituição da República.
+A defesa aponta contrariedade aos artigos 563, 564, IV, 565 e 571, VIII, todos do Código de Processo Penal, e dissídio jurisprudencial.
+Aduz, em suma, nulidade absoluta, ao argumento de cerceamento do direito de defesa, e ausência de provas para a condenação.
+Afirma que não houve prévio contato entre o defensor dativo e o agravante, ressaltando que "em momento algum houve contato prévio entre o DEFENSOR PÚBLICO E O RÉU. Em momento algum o DEFENSOR PÚBLICO informou que deveriam comparecer as testemunhas de defesa. Sequer o Réu conhecia esse Defensor ou o que redigiu sua defesa prévia, fatos estes que maculam de NULIDADE POR CERCEAMENTO DE DEFESA a partir da apresentação da defesa prévia" (e-STJ, fl. 365).
+Sustenta, também, que "a defesa prévia apresentada foi INOCUA, comprovando-se que sequer foi lido o processo uma vez que a defesa arrolou como testemunhas, as testemunhas de acusação (vez que se reportou às testemunhas arroladas na denúncia, onde haviam (sic) apenas no rol os dois policiais envolvidos na diligência)" (e-STJ, fl. 372).
+Assevera, ainda, que a condenação do agravante se deu apenas com amparo no relato dos policiais.
+Requer o provimento do recurso para que seja acolhida a suscitada nulidade ou a absolvição do réu.
+Contrarrazões apresentadas às fls. 379-383 (e-STJ).
+O recurso foi inadmitido (e-STJ, fls. 386-389). Daí este agravo (e-STJ, fls. 392-411).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 433-435).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+De início, quanto à interposição do recurso especial pela alínea "c", tem-se que, nos termos do disposto no art. 1.029, § 1º, do CPC e no art. 255, § 1º, do RISTJ, caberia ao recorrente a realização do devido cotejo analítico para demonstrar a similitude fática entre os julgados confrontados, mediante a transcrição dos "trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados", requisito não cumprido na hipótese dos autos.
+Ilustrativamente:
+" ..
+I - A interposição do apelo extremo interposto com fulcro na alínea c, do inciso III, do art. 105 da Constituição Federal, exige o atendimento dos requisitos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno desta Corte, para a devida demonstração do alegado dissídio jurisprudencial, pois além da transcrição de acórdãos para a comprovação da divergência, é necessário o cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ocorreu na espécie.
+ ..
+Agravo regimental desprovido."
+(AgRg no AREsp 916.829/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/03/2018, DJe 14/03/2018).
+" ..
+1. Na esteira da jurisprudência desta Corte Superior, o conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnados e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial, não sendo suficiente a simples transcrição de ementas ou votos sem a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2. Consoante o princípio pas de nullité sans grief, não há nulidade sem demonstração de prejuízo concreto.
+ ..
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido."
+(REsp 1437794/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018).
+No que tange às apontadas nulidades processuais, verifica-se que o recorrente não prequestionou o tema a contento, pois a questão não foi analisada pela Corte local.
+Registre-se que o prequestionamento implícito somente pode ser reconhecido quando a matéria tratada no dispositivo legal for apreciada e solucionada pelo Tribunal de origem, emitindo-se, portanto, um juízo de valor, o que não ocorreu na presente hipótese.
+Logo, a matéria que não foi ventilada no acórdão recorrido e não foi objeto de embargos de declaração carece do necessário prequestionamento, recaindo à espécie a Súmula 282 do STF, a qual transcrevo: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nesse sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, I, III E IV, DO CÓDIGO PENAL - CP. 1) APLICAÇÃO DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CABIMENTO. JULGAMENTO DE AGRAVO REGIMENTAL QUE SANA EVENTUAL VÍCIO. SUSTENTAÇÃO ORAL NÃO ADMITIDA. 2) VIOLAÇÃO AO ART. 479 DO CÓDIGO DE PROCESSO PENAL - CPP. NULIDADE RELATIVA. 2.1) PRECLUSÃO. 2.2) AUSÊNCIA DE PREJUÍZO. REVOLVIMENTO FÁTICO-PROBATÓRIO, VEDADO CONFORME SÚMULA N. 7 DO STJ. 3) VIOLAÇÃO AO ART. 62, I, DO CP. AGRAVANTE QUE PRESCINDE QUESITAÇÃO. 3.1) AFASTAMENTO. ÓBICE DA SÚMULA N. 7 DO STJ. 3.2) REFORMATIO IN PEJUS, BIS IN IDEM. AUSÊNCIA DE PREQUESTIONAMENTO. 4) AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3.2. O prequestionamento admitido por esta Corte se caracteriza quando o Tribunal de origem emite juízo de valor sobre determinada questão, englobando aspectos presentes na tese que embasam o pleito apresentado no recurso especial. Assim, uma tese não refutada pelo Tribunal de origem não pode ser conhecida no âmbito do recurso especial por ausência de prequestionamento.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 1473832/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/09/2020, DJe 30/09/2020, grifou-se).
+" ..
+5. Mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no v. acórdão impugnado, para que se configure o prequestionamento (REsp 1.020.855/RS, Rel. Min. FELIX FISCHER, DJ 2/2/09).
+6. Vale destacar o entendimento de que, no caso de concurso de crimes, a pena considerada para fins de apresentação da proposta de transação penal (Lei n. 9.099, art. 76), será o resultado da soma, no caso de concurso material, ou a exasperação, na hipótese de concurso formal ou crime continuado, das penas máximas cominadas ao delitos. Com efeito, se desse somatório resultar um período de apenamento superior a 2 (dois) anos, fica afastada a possibilidade de aplicação do benefício da transação penal. (HC 29.001/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJ 24/11/03).
+7. Tratando-se de concurso material entre os delitos de tráfico e associação para o tráfico, aplicável, por analogia, o referimento entendimento quanto à aplicação do acordo de não persecução penal ao delito do art. 35 da Lei 11.343/06.
+ ..
+9. Embargos de declaração rejeitados. Questão de ordem indeferida.
+Agravo regimental improvido."
+(EDcl no REsp 1853351/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/08/2020, DJe 04/09/2020).
+Quanto à pretendida absolvição por ausência de provas, transcrevo trecho do acórdão recorrido, que manteve a sentença condenatória (e-STJ, fls. 342-348, com destaques):
+"No dia do fato, Policiais Militares receberam, via telefone, denúncia anônima de que o denunciado, utilizando-se de serviço de mototáxi, havia se deslocado até Bauru para adquirir entorpecentes e, depois, porvolta das 21h ou 22h, retornaria para Avaí para revendê-los.
+Diante dessa denúncia, Policiais Militares se deslocaram até o local do fato e, em diligências, depararam-se com o denunciado, pessoa bastante conhecida nos meios policiais, caminhando pelo acostamento.
+Os Policiais Militares se aproximaram do denunciado, a fim de abordá-lo, quando ele correu em fuga na direção de uma plantação de laranja, deixando cair uma porção (tijolo) de maconha e um aparelho de telefone celular, objetos que foram apreendidos.
+Os Policiais Militares realizaram buscas pelo local, porém não conseguiram localizar o denunciado.
+Segundo os Policiais Militares, o denunciado é bastante conhecido nos meios policiais pelo envolvimento com a criminalidade e por realizar o comércio de drogas no varejo no Município de Avaí. Além disso, indicaram o denunciado, com certeza, como o autor do delito (fls. 11 e 12).
+Posteriormente, o denunciado foi interrogado pela Autoridade Policial, quando negou a prática do crime, dizendo que, na data do fato, não foi a Bauru, não portou qualquer entorpecente e que não é a pessoa indicada pelos Policiais Militares (fls. 19/20).
+O laudo pericial atesta que a substância apreendida é maconha (fls. 07/10).
+A significativa quantidade de substância entorpecente apreendida, a forma de acondicionamento, a denúncia anônima e, em suma, as circunstâncias fáticas denotam que o denunciado possuía a droga com o escopo de destiná-la ao consumo de terceiros.
+A denúncia foi recebida às fls. 181/183, sendo ratificado o recebimento em 31.01.2023 (fls. 209/210).
+O conjunto probatório deixou fora de dúvidas de que o acusado praticou o crime de tráfico de drogas, conforme a narrativa acusatória, o que afasta a possibilidade de absolvição ou de desclassificação.
+A materialidade delitiva restou devidamente comprovada pelos: Auto de Prisão em Flagrante, Boletim de Ocorrência, Auto de Exibição e Apreensão, Laudo de Constatação, Laudo de Exame Químico Toxicológico, em consonância com as demais provas amealhadas aos autos.
+A autoria também é certa.
+ ..
+Em juízo, o réu negou a acusação. Disse que na data dos fatos, trabalhou com seu cunhado, e por ele foi levado à residência no período da tarde. Acrescentou ter notado que havia esquecido seu aparelho telefônico, motivo pelo qual entrou em contato com sua irmã, sendo que ela informou que estava na casa de um familiar e retornaria à noite. No dia seguinte, sua irmã lhe disse que havia oferecido carona a um rapaz com uma mochila nas proximidades do cemitério de Tibiriçá, enquanto chovia, e tal indivíduo desembarcou do carro e fugiu no momento em que seriam abordados pelos policiais. Os policiais militares revistaram o automóvel e encontraram seu telefone. Já foi usuário de drogas e abordado por policiais em algumas oportunidades, porém nunca houve apreensão de entorpecentes consigo.
+Nos termos do art. 156, do Código de Processo Penal, cabia ao réu comprovar o quanto alegado, o que não ocorreu neste caso. Nem mesmo foi comprovado o referido contato com a irmã, na noite da data dos fatos, e de que forma teria ocorrido, sendo de se observar que o réu disse que estaria sem o próprio celular na ocasião. Acrescente-se que ainda que o réu estivesse em casa na parte da tarde, a prova demonstrou que ele foi avistado pelos policiais, com certeza, já em horário noturno, na estrada vicinal, e, ao ver os policiais, se pôs em fuga, largando as drogas e o celular, logrando evadir-se naquela noite."
+Como se verifica do excerto acima transcrito, a condenação do recorrente foi mantida pela Corte local, com amparo na prova oral produzida nos autos e na apreensão do entorpecente, noutro giro, as alegações do réu se mostraram contraditórias, não tendo sequer comprovado que teria mantido contato com a irmã na data dos fatos, como havia relatado ("sendo de se observar que o réu disse que estaria sem o próprio celular na ocasião").
+Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do delito, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. ART. 33, § 4º, DA LEI N. 11.343/06. ALEGADA VIOLAÇÃO DO ART. 28 DA LEI DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO DO DELITO DE TRÁFICO PRIVILEGIADO PARA O CRIME DE PORTE DESTINADO AO CONSUMO PESSOAL. RECLAMO QUE ESBARRA NO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. MANTIDA A CONDENAÇÃO PELO DELITO TIPIFICADO NO ART. 33, § 4º, DA LEI N. 11.343/06. EXTINÇÃO DA PUNIBILIDADE. TESE RECURSAL PREJUDICADA. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. O pleito de desclassificação do delito de tráfico privilegiado para porte destinado ao consumo pessoal restou afastado pela Corte a quo em razão da quantidade e das circunstâncias em que os entorpecentes foram apreendidos, bem como com fundamento nos depoimentos dos policiais responsáveis pela prisão dos ora agravantes acerca da dinâmica dos fatos.
+1.1. Consignou, outrossim, que as declarações do réu contrastam com os demais elementos probatórios que instruem a ação penal e que a defesa não se desincumbiu do seu ônus de comprovar que as drogas seriam destinados ao consumo pessoal do ora agravante.
+1.2. Nessa medida, a revisão deste entendimento encontra óbice na Súmula n. 7 desta Corte.
+2. Agravo regimental conhecido e desprovido."
+(AgRg no AREsp n. 2.441.372/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024, com destaque.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PEDIDO DE DESCLASSIFICAÇÃO PARA USO DE DROGAS. ELEMENTOS APTOS A EMBASAR A CONDENAÇÃO. CIRCUNSTÂNCIAS DO FLAGRANTE E DEPOIMENTOS DOS AGENTES POLICIAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. In casu, as instâncias de origem concluíram, a partir das provas constantes dos autos, pela existência de elementos suficientes para fundamentar o decreto condenatório pelo crime do art. 33 da Lei n. 11.343/06, consubstanciados especialmente nos depoimentos prestados pelos policiais e nas circunstâncias do flagrante.
+2. Nos termos do art. 28, §2º, da Lei 11.343/2006, "não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação" (AgRg no HC n. 762.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022).
+3. "Os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese." (AgRg no HC n. 851.250/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024) 4. A revisão do entendimento exarado para desclassificar a conduta do agravante implicaria em revolvimento fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7/STJ.
+5. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.341.820/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024, grifos nossos.)
+Por outro lado, observa-se a ilegalidade do acórdão recorrido no que tange ao afastamento da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/2006, sendo de rigor, portanto, a concessão da ordem, de ofício, para aplicá-la.
+De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+No caso, observa-se que a instância ordinária concluiu pela habitualidade delitiva do recorrente com base em meras presunções, na medida em que destacou apenas a quantidade das drogas apreendidas (e-STJ, fls. 262 e 350-352).
+Entretanto, esta Corte e o Supremo Tribunal Federal tem entendimento de que "a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa" (AgRg no REsp 1.866.691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020) (AgRg no HC 656.477/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/10/2021, DJe 03/11/2021).
+Corroboram:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DE DROGA. FUNDAMENTO INVÁLIDO. REDIMENSIONAMENTO DA PENA. RECURSO NÃO PROVIDO.
+1. De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Hipótese em que a instância ordinária concluiu pela habitualidade delitiva da agravada com base em meras presunções, na medida em que destacou apenas a quantidade e a variedade das drogas apreendidas - 16,258kg de maconha e 711,3g de cocaína. Aplicação do redutor em 1/6, uma vez que atendidos os requisitos legais .
+3. Agravo regimental não provido.
+(AgRg no HC n. 879.945/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO EM RAZÃO DA QUANTIDADE E DA NATUREZA DO ENTORPECENTE APREENDIDO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Corte Superior que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+2. No caso, mostra-se configurado o constrangimento ilegal, tendo em vista que a suscitada minorante foi afastada com fundamento apenas na quantidade e na natureza da droga apreendida.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 904.495/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. TRÁFICO PRIVILEGIADO. REDUTORA NÃO APLICADA. FUNDAMENTO NA QUANTIDADE DA DROGA. ILEGALIDADE. CONCESSÃO DA ORDEM DE OFÍCIO. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem mencionou apenas a quantidade da droga apreendida, sem indicar qualquer outra circunstância do caso concreto que caracterizasse a dedicação do agente à atividade criminosa ou a integração a organização criminosa, o que, de acordo com o entendimento desta Corte Superior, não justifica a não aplicação do tráfico privilegiado. Dessa forma, deve ser mantida a incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas. Mantido o redimensionamento da pena, deve ser mantido o abrandamento do regime de cumprimento, uma vez que a pena aplicada admite o cumprimento em regime intermediário.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 886.447/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
+Desse modo, passo à nova dosimetria da pena do recorrente.
+Na primeira fase, mantém-se a pena-base em 5 anos de reclusão e pagamento de 500 dias-multa.
+Na segunda fase, sem alterações.
+Na terceira fase, aplico a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 em 2/3 (dois terços).
+Assim, a pena pelo delito de tráfico de drogas fica estabelecida em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, no regime inicial aberto, em razão da ausência de circunstâncias judiciais desfavoráveis ao réu, com a substituição da pena privativa de liberdade por restritiva de direitos, a ser definida pelo Juízo da Execução.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial. Todavia, concedo habeas corpus, de ofício, a fim de aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 2/3 (dois terços) e, assim, redimensionar a pena privativa de liberdade, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
