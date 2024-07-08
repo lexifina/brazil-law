@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de VALDIMAR SILVA DE MOURA, impetrado contra decisão do Desembargador plantonista do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que, nos autos do HC 0002213-43.2024.8.08.0000, indeferiu o pedido urgente formulado.
+Consta que, durante o cumprimento de mandado de busca e apreensão expedido pelo Juízo de primeiro grau, o paciente foi preso em flagrante, e após preventivamente, pela suposta prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, e 12 da Lei n. 10.826/2003.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo sido indeferido o pedido liminar.
+Neste writ, a parte impetrante sustenta, inicialmente, a ilegalidade da custódia, ao argumento de que foi decretada de ofício pelo Juízo singular.
+Afirma que o Ministério Público NÃO REQUEREU A APLICAÇÃO DE MEDIDAS CAUTELARES, E SIM SE MANIFESTOU PELA NÃO CONVERSÃO DA PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA (fl. 7).
+Alega, no mais, a ausência de fundamentação idônea e dos requisitos necessários para a prisão preventiva do paciente.
+Salienta a existência de condições pessoais favoráveis.
+Pleiteia, em liminar e no mérito, a revogação da prisão preventiva do custodiado, ainda que sejam impostas as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+DECIDO.
+De acordo com a orientação consolidada na Súmula n. 691 do Supremo Tribunal Federal, aplicável nesta Corte por analogia, não se conhece de habeas corpus impetrado contra decisão do Relator que indefere a liminar em outro writ requerido na origem, sob pena de supressão de instância.
+No entanto, havendo na decisão impugnada ilegalidade manifesta, abuso de poder ou teratologia, as Cortes Superiores têm entendido pela possibilidade de superação do mencionado óbice processual.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. DECISÃO QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 892.673/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/04/2024, DJe de 03/0 5/2024).
+Na hipótese, não se verifica a existência de ilegalidade flagrante apta a ensejar a concessão da ordem pleiteada, notadamente diante do que consignou o Desembargador plantonista, in verbis (fls. 103-112; grifamos):
+In casu, analisando os documentos que instruem o presente writ, tenho que não restou demonstrado o preenchimento de tais requisitos.
+E assim o digo porque a suposta ilegalidade do decreto prisional estaria fundamentada na atuação de ofício da Magistrada, ante a alegada ausência de requerimento formal, pela prisão preventiva, por parte do Ministério Público ou da autoridade policial.
+Cediço que a reforma introduzida pela Lei nº 13.964/2019 ("Lei Anticrime") modificou a disciplina referente às medidas de índole cautelar, notadamente aquelas de caráter pessoal, estabelecendo um modelo mais adequado com as novas exigências definidas pelo moderno processo penal, preservando, em consequência, de modo mais expressivo, as características essenciais inerentes à estrutura acusatória do processo penal brasileiro.
+Com efeito, a Lei nº 13.964/2019, ao suprimir a expressão "de ofício" que constava do art. 282, §§ 2º e 4º, e do art. 311, todos do Código de Processo Penal, vedou, de forma absoluta, a decretação da prisão preventiva sem o prévio "requerimento das partes ou, quando no curso da investigação criminal, por representação da autoridade policial ou mediante requerimento do Ministério Público".
+Desse modo, não se mostra compatível com o sistema de garantias estabelecido no processo criminal brasileiro a atuação de ofício do Juízo no que diz respeito à privação da liberdade cautelar.
+Assim, a interpretação do art. 310, II, do CPP, deve ser realizada à luz dos arts. 282, §§ 2º e 4º, e 311, do mesmo estatuto processual penal, a significar que se tornou inviável, mesmo no contexto da audiência de custódia, a conversão, de ofício, da prisão em flagrante de qualquer pessoa em prisão preventiva, sendo imprescindível para que tal medida seja decretada a provocação do Ministério Público ou da autoridade policial.
+A propósito:
+ ..
+No caso, contudo, a leitura da ata da audiência de custódia permite inferir que, em que pese o órgão acusatório tenha se manifestado pela não conversão da prisão em flagrante em preventiva na hipótese do tráfico (art. 33, caput, da Lei nº 11.343/2006), agiu de modo diverso no que diz respeito à posse de arma de fogo (art. 12, da Lei nº 10.826/2003).
+Isso porque, manifestou-se o parquet, ao admitir a aplicação de medida cautelar diversa (no caso, a fiança), que estariam presentes os requisitos do artigo 312, do CPP e que, subsidiariamente, caso o Juízo compreendesse pela substituição por medida cautelar diversa, esclareceu que admitiria a aplicação de fiança no correspondente a R$ 12.000,00 (doze mil reais).
+Nesse passo, o pedido subsidiário formulado pelo Ministério Público não pode ser compreendido de forma isolada, porquanto há clara relação de interdependência com a prévia manifestação da existência dos requisitos do artigo 312, do CPP.
+E, adentrando em tal elemento normativo, o Código prevê que "a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado".
+Não há dúvida de que a análise dos requisitos deve ser feita de acordo com o caso concreto, não se valendo, portanto, de elementos abstratos acerca da gravidade.
+Evidencia-se dos autos que a atuação da autoridade policial se deu em cumprimento de mandado de busca e apreensão expedido no pedido de quadra de sigilo de dados nº 0000020-93.2024.8.08.0052, a indicar que o paciente é investigado pela prática de ilícitos, procedimento que este Desembargador Plantonista não tem acesso.
+Ademais, a autoridade policial indicou expressamente no ADPF trazido a conhecimento deste julgador que o paciente se trata de um dos principais traficantes de drogas do Município de Rio Bananal.
+Outrossim, em que pese se tratar de pessoa aparentemente sem antecedentes criminais, com residência fixa e suposto emprego fixo, os elementos de prova indicam que ele se utiliza exatamente do seu suposto emprego regular para a atividade de traficância, circunstância claramente desabonadora de sua conduta.
+Saliento, ainda, que, por mais que se compreenda que a medida requerida pelo parquet limitou-se à fiança, em que pese ter ciência de entendimento em sentido contrário, o Supremo Tribunal Federal possui compreensão no sentido de que pode o julgador não se ater à medida requerida pelo órgão acusatório, aplicando, pois, aquela que entender mais adequada às circunstâncias do caso concreto.
+E foi exatamente o que ocorreu no caso em tela, a indicar que o decreto segregatório preventivo possui amparo na garantia da ordem público e da conveniência da instrução criminal. Neste cenário, não vislumbro, neste momento, arbitrariedade ou ilegalidade na decisão da autoridade coatora, que converteu a prisão em flagrante em preventiva de forma fundamentada e após manifestação do órgão ministerial cerca da aplicação de medida cautelar diversa.
+A matéria, de fato, demanda maiores esclarecimentos, não se podendo perder de vista que o devido cotejo entre os fatos narrados e as provas será realizado na instrução criminal, não sendo a via eleita adequada a tal finalidade, mormente pela estreita cognição permitida no momento (plantão judiciário).
+Como se observa, a segregação processual do paciente está, em princípio, justificada, não se verificando constrangimento ilegal manifesto apto a afastar o óbice sumular referido.
+A propósito, quanto à suposta conversão da custódia flagrancial em preventiva de ofício, as instâncias ordinárias ressaltaram que houve pleito ministerial pela imposição de medida cautelar alternativa, o que é corroborado pelo termo de audiência de custódia (fls. 92-94), não havendo, em princípio, ilegalidade quanto ao ponto, v.g. AgRg no HC n. 900.602/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.
+Ademais, registro que, a priori, para se acolher a alegação defensiva no sentido de que o Ministério Público não teria requerido a aplicação de medidas cautelares alternativas, seria necessário o revolvimento aprofundado de fatos e provas, providência sabidamente vedada na via eleita.
+Nesse contexto, a matéria depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente ao Tribunal impetrado sua análise, sendo vedado a e sta Corte Superior adiantar-se nesse exame, usurpando, de forma indevida, a competência da instância de orige m.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
