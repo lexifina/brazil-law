@@ -1,0 +1,1 @@
+Art. 13. O Estado e os Municípios consignarão, anualmente, no período de dez anos, nos respectivos orçamentos, dotação própria para satisfação do débito com a Previdência Social na forma do art. 57, do Ato das Disposições Constitucionais Transitórias, da Constituição da República.

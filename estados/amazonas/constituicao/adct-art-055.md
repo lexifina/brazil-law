@@ -1,0 +1,1 @@
+Art. 55. O atual Corpo de Bombeiros passa a denominar-se Corpo de Bombeiros Militar do Estado do Amazonas, dirigida por oficial da ativa do último posto da corporação, no desempenho do cargo de Comandante-Geral, nomeado em comissão pelo Governador do Estado, com direitos e prerrogativas de Secretário de Estado. (Acrescentado pela EC nº 31, de 26.11.98)

@@ -1,0 +1,1 @@
+Art. 34. Ficam mantidos no exercício dos cargos de Procuradores de Contas, nas Procuradorias dos Tribunais de Contas do Estado e dos Municípios, órgãos de representação do Ministério Público junto a esses Tribunais, os atuais ocupantes dos cargos de Procuradores.

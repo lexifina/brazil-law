@@ -1,0 +1,1 @@
+Art. 57. Os incentivos extrafiscais e sociais a que se refere o § 1º do artigo 151 da Constituição Estadual poderão também, excepcionalmente, no período de dezembro de 1998 a janeiro de ser aplicado especificamente para pagamento de pessoal dos Poderes Executivo, Legislativo, Judiciário e do Ministério Público Estadual. (Acrescentado pela EC nº 34, de 22.12.1998)

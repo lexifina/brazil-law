@@ -1,0 +1,3 @@
+Art. 6º Os servidores públicos civis do Estado e dos Municípios, da administração direta, autárquica e das funções públicas, em exercício na data da promulgação da Constituição da República, há, pelo menos, cinco anos continuados, e que não tenham sido admitidos na forma regulada no art. 109, desta Constituição, são considerados estáveis no serviço público. (Redação dada pela EC nº 78, de 10.07.2013).
+
+Parágrafo único. O disposto neste artigo não se aplica aos ocupantes de cargos, funções e empregos de confiança ou em comissão, nem aos que a lei declare de livre exoneração, cujo tempo de serviço não será computado para os fins do caput deste artigo, exceto quando se tratar de servidor.

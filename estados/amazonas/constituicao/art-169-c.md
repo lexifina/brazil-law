@@ -1,0 +1,1 @@
+Art. 169-C. O Poder Executivo Estadual adotará mecanismos de incentivo financeiro e creditício às cooperativas para fomentar o desenvolvimento do sistema cooperativo no Estado, via orçamento do Estado e por linhas de crédito da Agência de Fomento do Estado do Amazonas - AFEAM. (Acrescentado pela EC nº 86, de 09.09.2014)

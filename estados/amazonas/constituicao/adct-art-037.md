@@ -1,0 +1,1 @@
+Art. 37. O valor das aulas suplementares que compõem o provento dos professores aposentados antes da vigência da Lei nº 1.114/74, será calculado à razão de três por cento do salário de professor com licenciatura plena.

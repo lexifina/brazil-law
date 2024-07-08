@@ -1,0 +1,3 @@
+Art. 49. Os Conselheiros e Membros do Ministério Público do extinto Tribunal de Contas dos Municípios serão postos em disponibilidade, ficando o Tribunal de Contas do Estado autorizado a dispor sobre a situação funcional dos servidores do órgão suprimido, inclusive para transferência das dotações orçamentárias próprias consignadas, mediante lei. (Acrescentado pela EC nº 15, de 16.03.1995)
+
+Parágrafo único. O Tribunal de Contas do Estado constituirá Comissão para proceder o tombamento e transferência do acervo documental e material do órgão extinto para sua administração. (Acrescentado pela EC nº 15, de 16.03.1995)

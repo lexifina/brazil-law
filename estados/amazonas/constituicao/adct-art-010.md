@@ -1,0 +1,1 @@
+Art. 10. O Estado firmará convênios com os Municípios para a construção ou indenização de prédios do Fórum e residências do juiz e do promotor de Justiça, em prazo não superior a dois anos, nas sedes das Comarcas.

@@ -1,0 +1,1 @@
+Art. 27. Dentro de cento e oitenta dias, a contar da promulgação desta Constituição, proceder-se-á a revisão dos direitos dos servidores públicos inativos e pensionistas e a atualização dos proventos e pensões a eles devidos, a fim de ajustá-los ao disposto nesta Constituição.

@@ -1,0 +1,1 @@
+Art. 20. A legislação que criar a justiça de paz, manterá os atuais juízes até a posse dos novos titulares, assegurando-lhes os mesmos direitos e atribuições, e designará a data para a eleição de que trata o art. 82, desta Constituição.

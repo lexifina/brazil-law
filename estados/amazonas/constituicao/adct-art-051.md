@@ -1,0 +1,1 @@
+Art. 51. Enquanto não ocorrer a autonomia orçamentária e implantação do Corpo de Bombeiros Militar, que esta Emenda cria, os atuais policiais bombeiros militares exercerão suas funções, sob a legislação específica da Polícia Militar do Estado. (Acrescentado pela EC nº 31, de 26.11.1998)

@@ -1,0 +1,1 @@
+Art. 29. O Estado e os Municípios procederão, no prazo de cento e oitenta dias, a revisão e avaliação de todos os Conselhos, para efeito de extinção ou não, ressalvados aqueles previstos nesta Constituição.

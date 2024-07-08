@@ -1,0 +1,1 @@
+Art. 54. Até à elaboração e aprovação da legislação básica, assim como os regulamentos do Corpo de Bombeiros Militar do Amazonas, aplicar-se-á a legislação básica regulamentar da Polícia Militar do Amazonas. (Acrescentado pela EC nº 31, de 26.11.98)

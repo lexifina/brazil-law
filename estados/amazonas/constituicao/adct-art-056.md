@@ -1,0 +1,1 @@
+Art. 56. Até a implantação definitiva do Corpo de Bombeiros Militar, as despesas inerentes às suas atividades, correrão à conta da unidade orçamentária da Polícia Militar. (Acrescentado pela EC nº 31, de 26.11.98)

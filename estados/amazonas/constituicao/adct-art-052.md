@@ -1,0 +1,1 @@
+Art. 52. Poderão integrar o Corpo de Bombeiros Militar do Amazonas os integrantes da Polícia Militar do Amazonas que possuam Curso de Formação de Bombeiros ou que permaneceram classificados no Corpo de Bombeiros da Polícia Militar até abril de (Acrescentado pela EC nº 31, de 26.11.98)

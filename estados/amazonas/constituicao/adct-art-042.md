@@ -1,0 +1,1 @@
+Art. 42. No prazo de cento e oitenta dias, a partir da promulgação desta Constituição, lei estabelecerá normas e critérios para a reformulação do sistema carcerário estadual, visando a adaptá-lo à nova realidade constitucional.

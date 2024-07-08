@@ -1,0 +1,1 @@
+Art. 47. Da Constituição Estadual serão elaborados nove autógrafos, destinados respectivamente, ao Governo do Estado, ao Tribunal de Justiça, à Assembleia Legislativa, à Biblioteca Pública, à Biblioteca Nacional, ao Arquivo Público Nacional, ao Arquivo Público Estadual, ao Instituto Geográfico Histórico do Amazonas e à Academia Amazonense de Letras.

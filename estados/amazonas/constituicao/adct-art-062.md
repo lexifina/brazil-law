@@ -1,0 +1,1 @@
+Art. 62. Ficam vedados novos atos de provimento em serventias mistas. Caso ocorram vacâncias no curso do prazo de seis meses assinalado no artigo anterior, os novos atos de provimento deverão ser individualizados e indicar agentes diversos para a escrivania judicial e para a serventia extrajudicial. (Acrescentado pela EC nº 94, de 09.06.2016)

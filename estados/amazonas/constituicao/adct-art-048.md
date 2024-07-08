@@ -1,0 +1,1 @@
+Art. 48. O órgão oficial de imprensa e as demais gráficas do Estado, da administração direta ou indireta, promoverão edição popular do texto integral desta Constituição, que será posta, gratuitamente, à disposição das escolas, dos cartórios, dos sindicatos, dos quartéis, das igrejas e de outras instituições representativas da comunidade.

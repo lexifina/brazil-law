@@ -1,0 +1,3 @@
+Art. 261-B. O Estado e os Municípios, isoladamente ou reunidos em consórcios públicos, poderão instituir fundos, aos quais poderão ser destinadas, entre outros recursos, parcelas das receitas dos serviços, com a finalidade de custear, na conformidade do disposto nos respectivos planos de saneamento básico, a universalização dos serviços públicos de saneamento básico. (Acrescentado pela EC nº 93, de 05.05.2016)
+
+Parágrafo único. Os recursos dos fundos a que se refere o caput deste artigo poderão ser utilizados como fontes ou garantias em operações de crédito para financiamento dos investimentos necessários à universalização dos serviços públicos de saneamento básico. (Acrescentado pela EC nº 93, de 05.05.2016)
