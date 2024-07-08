@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AMAURI FREIRE NASCIMENTO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de compensação por danos morais movida pelo agravante contra LUXOTTICA BRASIL PRODUTOS OTICOS E ESPORTIVOS LTDA e FOTÓPTICA LTDA por suposto vício em bem adquirido junto às agravadas.
+Acórdão: negou provimento à apelação da parte agravante, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL E CONSUMIDOR - APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - SENTENÇA DE PARCIAL PROCEDÊNCIA - RECURSO DA PARTE AUTORA - RELAÇÃO DE CONSUMO - RESPONSABILIDADE OBJETIVA - COMPRA DE ÓCULOS DE SOL - ALEGAÇÃO DE DEFEITO NAS LENTES APÓS 02 ANOS DE GARANTIA - EXISTÊNCIA DE VÍCIO DO PRPDUTO E DEFEITO NA PRESTAÇÃO DO SERVIÇO, SEM CAUSAR DANO MORAL - MEROS ABORRECIMENTOS DO COTIDIANO - NÃO COMPROVAÇÃO DE DANO MORAL INDENIZÁVEL - SENTENÇA MANTIDA. I - Tratando-se de relação de consumo, aplica-se a teoria da responsabilidade objetiva, de acordo com os art. 3º e 14 do CDC, que impõem ao fornecedor o dever de responder objetivamente pelos danos causados a clientes e terceiros, prevendo os arts. 12, 14 e 18 do CDC uma responsabilidade solidária dos fornecedores perante o consumidor; II - In casu, restou incontroverso o defeito no produto adquirido pelo apelante, caracterizando a falha na prestação do serviço por parte das empresas apeladas. No entanto, tal descumprimento não tem o condão de gerar danos morais, eis que consiste em mero transtorno cotidiano e em risco inerente à celebração dos contratos em geral; III - Entendo que a determinação de devolução do valor pago pelos óculos Ray Ban, com o retorno das partes ao estado quo ante, é suficiente para o desfecho da demanda, diante das peculiaridades do caso concreto; IV - Recurso conhecido e desprovido". (e-STJ fls. 268/269)
+Decisão de admissibilidade do TJ/SE: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. não cabimento de recurso especial que alega violação a dispositivo da Constituição Federal; e
+ii. reexame de contexto fático-probatório (Súmula 7 do STJ);
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega genericamente não ser necessária a incursão no acervo fático probatório dos autos para a análise da controvérsia relativa aos danos morais sofridos por consumidor que adquire produto com vício.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. não cabimento de recurso especial que alega violação a dispositivo da Constituição Federal; e
+ii. reexame de contexto fático-probatório (Súmula 7 do STJ);
+Na hipótese, a parte não impugnou o primeiro óbice, e o fez de forma genérica em relação à Súmula 7/STJ. Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
