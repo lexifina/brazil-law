@@ -1,0 +1,23 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fls. 1133 (e-STJ).
+Trata-se de apelação criminal interposta pelo MINISTÉRIO PÚBLICO FEDERAL contra a sentença proferida pelo Juízo da 27ª Vara Federal da Seção Judiciária de Pernambuco, que absolveu FRANCISCO RUBENS MÁRIO CHAVES SIQUEIRA e WAGNEER NASCIMENTO QUEIROZ DE BRITO das condutas tipificadas no art. 89, parágrafo único da Lei 8.666/93, e no art. 1º, I do caput do Decreto-Lei nº 201/1967.
+O MPF, inconformado, alega que ao contrário do que foi fundamentado na sentença, há provas suficientes tanto do dolo específico dos agentes quanto do efetivo prejuízo ao erário, defendendo assim a condenação de ambos (ID 4058309.19163212).
+Foram apresentadas contrarrazões e parecer da Douta Procuradoria Regional da República também foi anexado (ID 4050000.27715670).
+O M INISTÉRIO PÚBLICO FEDERAL interpôs recurso especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 5ª Região que negou provimento ao apelo, mantendo a absolvição dos réus.
+O Ministério Público Federal promoveu o não conhecimento do recurso.
+Decido.
+O recurso especial é tempestivo, mas não deve ser conhecido.
+Quanto à negativa de prestação jurisdicional, certo é que "Não há falar, na hipótese, em negativa de prestação jurisdicional ou de nulidade do acórdão proferido pelo Colegiado a quo, por violação ao artigo 619 do Código de Processo Penal, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo em vista que os votos condutores do acórdão recorrido e do acórdão proferido em sede de embargos de declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida" (AgRg no AREsp n. 1.789.837/SP, Quinta Turma, RELATOR Ministro MESSOD AZULAY NETO, DJe 03/07/2023)
+Efetivamente, compulsados os autos, colhe-se que a corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Confira-se, no ponto, o acórdão da Corte Estadual no julgamento do recurso de apelação:
+"De fato, como bem delineado e fundamentado pelo juízo, no caso dos autos:
+Verificou-se que o Ministério Público Federal não demonstrou de maneira inequívoca que as bandas contratadas não eram "consagradas pela opinião pública", o que era essencial para concluir pela tipicidade da conduta relacionada à inexigibilidade de licitação fora das hipóteses legais.
+Da mesma forma, quanto ao alegado desvio de verbas públicas para serviços de propaganda e divulgação dos shows, também se observou que isso não foi efetivamente comprovado.
+Aliás, as provas documentais, testemunhais e os depoimentos indicam que os shows ocorreram, bem como os serviços de divulgação e propaganda relacionados a eles.
+Portanto, não foram apresentadas provas irrefutáveis de prejuízo efetivo ao erário.
+Ademais, diante do panorama descrito de maneira abrangente e bem consolidada, não se inferiu o dolo específico dos agentes."
+Opostos aclaratórios, assentou-se que "Bem por isso e em segundo passo, consignamos ainda que o aludido instrumento pode ser utilizado segundo passo não como meio para já analisadas no ato jurisdicional guerreado, pois, assim fosse, rediscutir matérias estaríamos diante de uma "disfarçada" - e não prevista pelo ordenamento jurídico pátrio - apelação." (e-STJ Fl.1216)
+Como se vê, considerando o conteúdo da decisão vergastada pela acusação, fica nítida a intenção de mera rediscussão da adequação dos fatos à conduta típica imputada, objetivo que vai ao encontro da função precípua do recurso aclaratório.
+Há de se atentar, portanto, para o fato de que "O reconhecimento de violação do art. 619 do Código de Processo Penal pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo Tribunal a quo, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento." (AgRg no AREsp 2610994 / RN, RELATOR Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DATA DO JULGAMENTO 18/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 25/06/2024)
+Ante o exposto, nego provimento ao recurso especial.
+EMENTA
