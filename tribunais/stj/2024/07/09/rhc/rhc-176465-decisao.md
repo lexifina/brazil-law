@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado (e-STJ Fl. 271-272):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DENÚNCIA PELOS CRIMES DO ART. 90 DA LEI 8.666/93, DO ART. 1º, I, DO DECRETO-LEI 201/67 E DO ART. 288, DO CÓDIGO PENAL. TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL. ORDEM DENEGADA.
+1. O trancamento da ação penal pela via do habeas corpus é medida excepcional, admissível apenas quando emerge dos autos, sem a necessidade de exame valorativo do conjunto fático ou probatório, a atipicidade do fato, a ausência de indícios capazes de fundamentar a acusação, a extinção da punibilidade ou a inépcia da denúncia. Precedentes.
+2. A denúncia atende aos requisitos do art. 41 do Código de Processo Penal, descrevendo os fatos delituosos com as suas circunstâncias, os responsáveis pela prática criminosa, a tipificação legal e o rol de testemunhas, permitindo, assim, à defesa compreender as imputações feitas e rebatê-las na esteira dos princípios do contraditório e da ampla defesa.
+3. Em relação aos argumentos de entrega das mercadorias solicitadas pelo órgão municipal e que o contrato nº. 328/2013 não foi assinado em momento anterior ao procedimento de licitação, há a necessidade de um exame mais apurado do acervo probatório dos autos, e até de produção de provas, com a acurada apreciação das circunstâncias do caso, o que é incabível em sede de habeas corpus.
+4. Ordem de habeas corpus que se denega.
+Imputa-se ao recorrente a prática do crime de fraude em licitação.
+A defesa alega, em síntese, ausência de justa causa e inépcia da denúncia.
+Ao final, requer o provimento do recurso para obter o trancamento da ação penal.
+O Ministério Público Federal promoveu a denegação da ordem.
+É o relatório.
+Decido.
+Sabe-se que o trancamento da ação penal em sua fase embrionária é providência excepcionalíssima, submetida à existência de "inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito" (AgRg no HC 843621 / PR, Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 20/12/2023).
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ Fl.270):
+Parece que o texto se refere a uma denúncia criminal que descreve um suposto conluio entre agentes públicos e empresas, incluindo a empresa dos pacientes, ao longo do ano de 2013, para a prática de crimes, configurando o delito de associação criminosa conforme o art. 288 do Código Penal.
+A denúncia foi elaborada de acordo com os requisitos do art. 41 do Código de Processo Penal, descrevendo os fatos criminosos, suas circunstâncias, os responsáveis pelas condutas ilícitas, a tipificação legal dos crimes e o rol de testemunhas. Isso possibilita que a defesa compreenda as acusações feitas e apresente seus argumentos de acordo com os princípios do contraditório e da ampla defesa.
+Quanto aos argumentos adicionais sobre a entrega das mercadorias solicitadas pelo órgão municipal e a cronologia do contrato nº. 328/2013 em relação ao procedimento de licitação, essas questões demandam uma análise detalhada do conjunto probatório dos autos. A interpretação das circunstâncias do caso e a produção de provas são necessárias para uma apreciação precisa, o que não é cabível em um habeas corpus.
+Portanto, o texto parece tratar de questões relacionadas à formulação da denúncia criminal e à necessidade de um exame aprofundado das provas durante o curso do processo, destacando que esse tipo de análise não pode ser realizado por meio de um habeas corpus.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a denúncia preenche os requisitos legais.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Com efeito, a análise dos autos em cognição típica de "habeas corpus", indica que, "in casu", "A denúncia ofertada pelo Parquet local faz a devida qualificação dos acusados, descreve de forma objetiva e suficiente as condutas delituosas por eles perpetradas assim como as circunstâncias dos cometimentos, demostrando indícios suficientes de autoria, prova da materialidade e a existência de nexo causal, permitindo com segurança o exercício da ampla defesa, não havendo falar em ofensa ao art. 41 do CPP." (AgRg no REsp 2027804 / SP, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 22/04/2024, DATA DA PUBLICAÇÃO/FONTE DJe 24/04/2024)
+Ademais, a apuração relativa à existência de justa causa, na forma colocada pela parte recorrente, confunde-se com a apuração do mérito, fazendo-se prudente o aguardo do desenrolar da instrução processual para que, sob o contraditório, lhe seja assegurado o direito de expor os fatos apontados à luz da análise da materialidade e da autoria.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
