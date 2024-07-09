@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DARISON RUAN DA SILVA contra acórdão da 11ª Câmara Criminal do Tribunal de Justiça de São Paulo, no HC n. 2071296-14.2024.8.26.0000.
+Em seu arrazoado, o impetrante alega que o reconhecimento fugiu ao padrão estipulado pela legislação vigente. Afirma que " n ão bastasse a apresentação de apenas duas pessoas" foram colocadas "lado a lado dois homens com características corporais totalmente distintas" e com seus rostos parcialmente cobertos para simular a forma como estariam na data dos fatos (e-STJ, fl.7).
+Pugna, liminarmente, pela imediata soltura do paciente.
+No mérito, requer seja reconhecida a violação ao art. 226 do Código de Processo Penal com o trancamento da ação penal.
+O pedido liminar foi indeferido (e-STJ, fl. 100).
+Foram prestadas informações (e-STJ, fls. 105-109).
+O Ministério Público opinou pela denegação da ordem (e-STJ, fls. 112-123).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de Justiça afastou a nulidade do reconhecimento, nos seguintes termos:
+Inicialmente, no tocante à alegação de nulidade do reconhecimento pessoal, não assiste razão à defensoria.
+Com efeito, em tema de reconhecimento, o que importa é a segurança, constituindo a medida de colocação de pessoa ao lado de outras, prevista no artigo 226, inciso II, do Código de Processo Penal, formalidade escusável, pois, ao empregar a expressão "se possível", o texto legal arredou a ideia de obrigatoriedade.
+ ..
+Outrossim, o paciente foi reconhecido por duas vítimas e testemunhas, sendo que uma delas já conhecia o acusado antes dos fatos em comento. (e-STJ, fls. 85-86)
+Nos termos do entendimento consolidado desta Corte, o trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+Sobre a controvérsia, em resumo, é bem verdade que a atual jurisprudência dos Tribunais Superiores vem caminhando na direção de extirpar do sistema aquelas condenações baseadas unicamente em reconhecimentos dos acusados, muitas das vezes realizadas sem a mínima observância dos procedimentos legais exigidos. São decisões revisoras, em sua maioria, tomadas quando já há condenação do réu, estando disponíveis nos autos todos os elementos de convicção utilizados pelas instâncias ordinárias em cognição exauriente. Nesse cenário, permite-se às instâncias extraordinárias a revaloração jurídica dos atos decisórios, possibilitando análise quanto à existência ou não de provas independentes ao reconhecimento realizado.
+A respeito: "A desconformidade ao regime procedimental determinado no art. 226 do CPP deve acarretar a nulidade do ato e sua desconsideração para fins decisórios, justificando-se eventual condenação somente se houver elementos independentes para superar a prsução de inocência." (STF, RHC 206846, relator Ministro Gilmar Mendes, Segunda Turma, julgado em 22/2/2022, DJe 25/5/2022). Na mesma linha: HC 652.284/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2021, DJe 3/5/2021.
+Noutro vértice, tratando-se de procedimentos investigativos ou de ações penais ainda em fase inicial, o exame desta Corte torna-se mais limitado. Afinal, se as provas não foram ainda sequer produzidas, não há como concluir peremptoriamente que o reconhecimento é (ou será) a única evidência probatória dos autos a respaldar eventual futura condenação.
+Nesse contexto, a excepcional conclusão pelo trancamento antecipado do feito, sem oportunizar à acusação a produção das provas pertinentes, deve ficar restrita àquelas hipóteses de extrema e incontestável ilegalidade à primeira vista. Não é esse o cenário do caso concreto.
+É necessário pontuar, ainda, que não há informações acerca de eventual não cumprimento dos procedimentos legais para o reconhecimento do paciente em sede policial.
+Nesse contexto, entendo que, por ora, para fins de processamento do acusado, não há constrangimento ilegal incontestável a ponto de autorizar o trancamento prematuro do feito criminal.
+A respeito, cito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. AUSÊNCIA DE OBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CPP. PROCESSO EM CURSO. NOTÍCIA DE OUTROS DELITOS PELO ACUSADO. FLAGRANTE ILEGALIDADE NÃO VERIFICADA. AGRAVO DESPROVIDO.
+1. Tratando-se de procedimentos investigativos ou de ações penais ainda em fase inicial, o exame desta Corte Superior do pedido de trancamento por ausência de justa causa baseado unicamente em violação ao artigo 226 do Código de Processo Penal é limitado e excepcional, sobretudo porque as provas não foram ainda produzidas em juízo, à exceção de casos com teratologia patente.
+2. Agravo regimental desprovido.
+(AgRg no RHC n. 180.035/RN, deste relator, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024; grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. TRANCAMENTO DA AÇÃO PENAL. RECONHECIMENTO DE PESSOAS. NULIDADE POR INOBSERVÂNCIA DO ART. 226 DO CPP. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AÇÃO PENAL EM FASE DE INSTRUÇÃO. NECESSIDADE DE AGUARDAR A COLHEITA DE PROVAS. AGRAVO DESPROVIDO.
+1. Conforme orientação desta Corte, "O trancamento da ação penal somente é possível, na via estreita do habeas corpus, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito" (RHC n. 111.043/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/9/2019, DJe de 27/9/2019), situações não verificadas nestes autos.
+2. O entendimento do Superior Tribunal de Justiça é no sentido de que, a despeito da não observância do procedimento de reconhecimento pessoal previsto no art. 226 do Código de Processo Penal, se existirem provas autônomas que comprovem a autoria delitiva, não há se falar em nulidade da ação penal.
+3. Nesse contexto, considerando que nem sequer foi realizada a instrução completa do feito a fim de se sustentar a nulidade, não se pode impedir o Estado, de antemão, de exercer a função jurisdicional, coibindo-o de realizar o levantamento dos elementos de prova para a verificação da verdade dos fatos, sendo prematuro o trancamento da ação penal instaurada.
+4. Outrossim, as alegações defensivas deverão ser amplamente debatidas no decorrer da instrução, não sendo cabível analisar exaustivamente referidas matérias na estreita e célere via do habeas corpus, que não é instrumento idôneo para a análise aprofundada e vertical de elementos fático-probatórios.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 816.994/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 26/2/2024, DJe de 1/3/2024; grifou-se.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. RECEPTAÇÃO. TRANCAMENTO DA AÇÃO PENAL. INDÍCIOS DE AUTORIA E DE MATERIALIDADE. ILICITUDE DAS PROVAS. EXISTÊNCIA DE INDÍCIOS DE AUTORIA NÃO MACULADOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. O trancamento do inquérito ou da ação penal pela estreita via do habeas corpus somente se mostra viável quando, de plano, comprovar-se a inépcia da inicial acusatória, a atipicidade da conduta, a presença de causa extintiva de punibilidade ou, finalmente, quando se constatar a ausência de elementos indiciários de autoria ou de prova da materialidade do crime.
+2. O pedido de trancamento se sustenta na suposta nulidade do reconhecimento fotográfico do agravante, considerando que o procedimento foi realizado em desacordo com as regras do art. 226 do Código de Processo Penal. No entanto, não se pode dizer que o reconhecimento fotográfico, ainda que realizado de maneira diversa daquela recomendada pela legislação vigente, tenha sido determinante para fornecer indícios da participação do recorrente na empreitada criminosa, considerando que as instâncias antecedentes afirmaram existir outros elementos indiciários de autoria.
+3. Diante de uma narrativa suficientemente articulada e amparada por um conjunto probatório mínimo, não há razão para encerrar, de forma açodada, a ação penal, pois a comprovação ou não dos fatos deve ser demonstrada durante a instrução processual, momento apropriado para o Magistrado exercer seu juízo de convicção acerca dos elementos probatórios juntados aos autos.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no RHC n. 148.836/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe de 20/8/2021; grifou-se.)
+Foi como opinou o Ministério Público Federal:
+Em reforço, para o "oferecimento da denúncia, não se exige prova concludente da autoria delitiva, reservada à condenação criminal, mas apenas indícios suficientes desta  .. " (RHC n. 30.258/RN, Rel. Min. Jorge Mussi, Quinta Turma, DJe19.10.2011).
+ ..
+Em reforço, convém ressaltar que nessa fase processual prepondera o prin cípio in dubio pro societate. (e-STJ, fl. 122)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
