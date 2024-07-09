@@ -1,0 +1,102 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 0000168-82.2020.8.08.0040
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: WAGNER SILVESTRE
+RECORRIDO: ESTADO DO ESPIRITO SANTO
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 0000168-82.2020.8.08.0040
+
+Recorrente: ESTADO DO ESPÍRITO SANTO
+
+Recorrido: WAGNER SILVESTRE
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTOS
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA
+:
+RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA.
+AÇÃO MANEJADA POR SERVIDOR PÚBLICO CONTRA O ESTADO.
+(1). DA LIDE.
+TRATA-SE DE AÇÃO DE COBRANÇA, NO QUAL OBJETIVA O AUTOR O PAGAMENTO DOS PLANTÕES JUDICIÁRIOS SUSPENSOS PELAS MEDIDAS DE CONTINGENCIAMENTO EM RAZÃO DE O TJES, NO ANO DE 2015, TER ULTRAPASSADO OS LIMITES DA LEI DE RESPONSABILIDADE FISCAL.
+(2). DISPOSITIVO DA SENTENÇA.
+“Dado o exposto,
+JULGO PROCEDENTE O PEDIDO INICIAL
+para
+CONDENAR
+o Estado do Espírito Santo a realizar o pagamento dos plantões judiciários laborados pelo autor e não pagos referente aos meses de agosto/2015, fevereiro/2016, junho/2016, outubro/2016, novembro/2016, dezembro/2016, gosto/2017, dezembro/2017, março/2018 e abril/2018, que perfazem o montante de R$ 10.672,77 (dez mil, seiscentos e setenta e dois reais e setenta e sete centavos).devendo incidir juros de mora (a contar da citação - 29/09/2020) e correção monetária (a contar do respectivo vencimento), com base índices estipulados no
+Tema 810 do STF
+e no
+Tema 905 do STJ
+, e até a entrada em vigor da
+Emenda Constitucional nº 113/2021
+, ocorrida em
+08/12/2021
+, oportunidade em que passará a ser atualizado apenas pela
+SELIC
+, a qual engloba juros e correção monetária. Resolvo o mérito, na forma do art. 487, I, do Código de Processo Civil. Sem custas e honorários advocatícios por expressa vedação legal, conforme art. 55 da Lei 9.099/95, aplicada subsidiariamente aos Juizados Especiais da Fazenda Pública (Lei nº. 12.153/2009, art. 27).”
+(3). RECURSO DO ESTADO.
+PUGNA PELO PROVIMENTO DO RECURSO INTERPOSTO, REFORMANDO-SE A R. SENTENÇA, PARA QUE, CUMULATIVAMENTE: I) SEJA DEDUZIDA UMA GRATIFICAÇÃO DE PLANTÃO JUDICIÁRIO PARA CADA DUAS FOLGAS GOZADAS EM RAZÃO DOS PLANTÕES DISCRIMINADOS NA INICIAL, SOB PENA DE
+BIS IN IDEM
+; II) SEJA CONSIDERADO COMO TERMO INICIAL DA INCIDÊNCIA DOS JUROS A DATA DA CITAÇÃO DO ESTADO; III) SEJA CONSIDERADO, COMO BASE DE CÁLCULO DA GRATIFICAÇÃO OBJETO DA PRESENTE AÇÃO, O VENCIMENTO BÁSICO DA REMUNERAÇÃO DA PARTE AUTORA, EXCLUINDO-SE QUAISQUER OUTRAS PARCELAS; IV) SEJA DETERMINADA A APURAÇÃO DO
+QUANTUM DEBEATUR
+FINAL, OBSERVANDO-SE OS CRITÉRIOS ACIMA, NO CUMPRIMENTO DE SENTENÇA, SE HOUVER SALDO A SER PAGO APÓS A DEDUÇÃO DAS FOLGAS EFETIVAMENTE GOZADAS.
+(4). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(5). DO MÉRITO.
+CONSTA DA INICIAL QUE O AUTOR FOI DESIGNADO PARA ATUAR EM PLANTÕES JUDICIAIS E QUE NÃO RECEBEU A CONTRAPRESTAÇÃO PECUNIÁRIA EM RAZÃO DO SERVIÇO DESEMPENHADO PORQUE O TJ/ES SE ENCONTRAVA DESDE 2015 EM CONTENÇÃO DE DESPESAS DEVIDO À SITUAÇÃO FINANCEIRA E AO LIMITE DE GASTOS PREVISTOS NA LEI DE RESPONSABILIDADE FISCAL. O AUTOR ARGUMENTA QUE O SEU SINDICATO IMPETROU MANDADO DE SEGURANÇA EM QUE FOI DECLARADA A EXISTÊNCIA DE CRÉDITOS REFERENTES À GRATIFICAÇÃO DE PLANTÃO JUDICIÁRIO E QUE COM O TRÂNSITO EM JULGADO DA AÇÃO MANDAMENTAL TEM DIREITO A COBRAR OS REFERIDOS VALORES. POIS BEM. COMPULSANDO DETIDAMENTE OS AUTOS, VERIFICO QUE O AUTOR TROUXE A SUA FICHA FUNCIONAL (FLS. 10/16), CONTENDO A INFORMAÇÃO DE QUE ATUOU EM PLANTÕES JUDICIÁRIOS NOS MESES E ANOS DESCRITOS NA PEÇA VESTIBULAR. DESSARTE, COADUNO COM O ENTENDIMENTO DO JUÍZO
+A QUO
+NOS SEGUINTES TERMOS:
+“[...] o apontamento existente na ficha funcional do servidor é prova inconteste de que houve sua nomeação e atuação durante os regimes de plantão judiciário, cabendo ao requerido fazer prova de fatos modificativos ou extintivos dessa alegação, a teor do que prescreve o artigo 373, II, do CPC, ônus que não se desincubiu in casu.”
+CONTUDO, AINDA CONSIDERANDO QUE HOUVERA A CONCESSÃO DE ALGUMAS FOLGAS COMPENSATÓRIAS REFERENTE AOS PLANTÕES PRESENCIAIS E SOBREAVISO COM OCORRÊNCIAS NOS DIAS: 20 E 21/02/2016; 15, 16, 17, 18 E 19/02/2016; 29/08/2015; 24, 25, 26, 27 E 28/08/2015; 09/04/2017 (FLS. 11 E 13), NÃO HÁ PROVA DE EFETIVA CONCESSÃO DE FOLGAS DOS DIAS REMANESCENTES ALUSIVOS AOS DEMAIS PLANTÕES REALIZADOS E MUITO MENOS DE QUE HOUVE O PAGAMENTO. DIANTE TAIS CONSIDERAÇÕES E SEM MAIORES DELONGAS, NÃO ASSISTE RAZÃO À PARTE RECORRENTE, UMA VEZ QUE, O MS Nº 0018452-40.2015.8.08.0000 - JÁ TRANSITADO EM JULGADO - RECONHECEU A EXISTÊNCIA DOS CRÉDITOS REFERENTES A GRATIFICAÇÃO DO PLANTÃO JUDICIÁRIO. DESTE MODO, RECONHECIDO O DIREITO DE COBRANÇA PELO SERVIDOR, ORA AUTOR, NÃO PODE DECISÃO JUDICIAL SUPRIMI-LO, DE MODO A PREJUDICAR DIREITO ADQUIRIDO, IMPONDO UMA EVENTUAL SITUAÇÃO MAIS GRAVOSA AO TITULAR DO DIREITO. ASSIM, É MEDIDA QUE SE IMPÕE A CONDENAÇÃO DO RECORRIDO AO PAGAMENTO DAS GRATIFICAÇÕES DE PLANTÃO JUDICIÁRIO CONCERNENTES AOS DIAS TRABALHADOS PELO RECORRIDO. QUANTO AO MARCO INICIAL DA CONTAGEM DOS JUROS DE MORA, É CERTO QUE NO CASO DE CONDENAÇÕES CONTRA A FAZENDA PÚBLICA, A TEOR DO ART. 405 DO CC/02, OS JUROS DE MORA INCIDEM A PARTIR DA CITAÇÃO NO PROCESSO JUDICIAL, MERECENDO REPARO A SENTENÇA NESTE PARTICULAR. QUANTO ÀS DEMAIS MATÉRIAS DEBATIDAS PELO ESTADO REQUERIDO, ENTENDO QUE SOMENTE AQUELA QUE DIZ RESPEITO AO VALOR PRETENDIDO NA INICIAL É QUE PROSPERA. ISTO PORQUE O AUTOR APRESENTA VALORES “ATUALIZADOS” E ACRESCIDOS DE JUROS, E AS PARTES PODERÃO, EM CUMPRIMENTO DE SENTENÇA, DISCUTIREM O VALOR EFETIVAMENTE DEVIDO.
+(6).
+
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+.
+
+SENTENÇA DE PISO PARCIALMENTE REFORMADA, APENAS PARA FIXAR OS JUROS MORATÓRIOS INCIDENTES SOBRE O
+QUANTUM DEBEATUR
+(R$ 9.047,93) A PARTIR DA CITAÇÃO, MANTENDO-SE NOS SEUS DEMAIS TERMOS OS SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
