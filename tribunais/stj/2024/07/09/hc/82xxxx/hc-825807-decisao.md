@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MARCOS SILVA RODRIGUES, autuado em flagrante delito pela prática de tráfico de drogas.
+Ataca-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE PERNAMBUCO no HC n. 00051178420238179000 (fls. 42/43):
+HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. TESE DE VIOLAÇÃO DE DOMICÍLIO NÃO COMPROVADA. CRIME PERMANENTE. INEXISTÊNCIA DE DENÚNCIA INEPTA. JUSTA CAUSA AO OFERECIMENTO DA AÇÃO PENAL. MANUTENÇÃO DA PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. DENEGAÇÃO DA ORDEM. DECISÃO UNÂNIME.
+1. O trancamento da ação penal na via estreita do habeas corpus é possível apenas em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do crime.
+2. Para a configuração de justa causa para o início da ação penal, nada mais se exige que a existência de indícios suficientes de autoria e prova de materialidade delitiva, como se verifica no caso em apreço. Quanto à alegação de nulidade, somente a coleta judicial de provas poderá dirimir se os fatos ocorreram tal como descreve a denúncia, ou se, como sustenta a impetrante, a apreensão decorreu de violação ao domicílio do paciente, tornando ilegal a prova produzida.
+3. Tem-se que a prisão preventiva do paciente se encontra devidamente fundamentada para garantia da ordem pública, visto que, além de ter sido encontrado em posse do acusado uma variedade de drogas em quantidade considerável, quando do cometimento do crime em análise o paciente estava em liberdade provisória concedida por ocasião de audiência de custódia, referente a outro delito de tráfico, de forma que não há constrangimento ilegal a ser sanado através do presente writ nem outro motivo que justifique a revogação da prisão.
+4. Ordem denegada. Decisão unânime.
+Alega-se ilegalidade da prisão em flagrante, que teria ocorrido mediante violação de domicílio, além de falta de fundamentação para a determinação da prisão preventiva (fls. 3/17).
+Requer-se a concessão da ordem, a fim de que seja determinado o trancamento da ação penal. Em liminar, postula-se a revogação da prisão preventiva.
+Liminar indeferida (fls. 247/249).
+Informações prestadas (fls. 255/319 e 322/408).
+Parecer do Ministério Público Federal no sentido da concessão da ordem (fls. 411/416).
+É o relatório.
+Em suma, busca-se, neste mandamus, a declaração de nulidade das provas obtidas mediante suposta violação de domicílio e, consequentemente, a absolvição do paciente.
+No caso, há constrangimento ilegal passível de ser reparado por meio da via eleita.
+Com efeito, ressalte-se um trecho da obra "Curso de Direito Processual Penal", de Fernando Capez, no qual se defende a inviolabilidade do domicílio, in verbis:
+ ..
+A inviolabilidade do domicílio é um dos pilares fundamentais de toda a sociedade democrática, pois consagra a ideia de que ninguém pode ser importunado ou perseguido dentro de sua própria casa, e que o Estado somente poderá adentrar nesse espaço sagrado quando houver autorização judicial, e nas hipóteses excepcionais previstas em lei. A proteção ao domicílio está diretamente ligada à liberdade, intimidade e privacidade das pessoas, que devem ser respeitadas em todos os momentos e em todas as circunstâncias, sob pena de se instalar um regime totalitário que subjuga e aniquila o indivíduo em favor do poder estatal.
+ ..
+Nesse trecho, é possível observar a importância que o autor atribui à inviolabilidade do domicílio como uma garantia fundamental de proteção à liberdade, intimidade e privacidade das pessoas, que não pode ser violada sem autorização judicial e nas hipóteses excepcionais previstas em lei.
+A partir do entendimento supra, a Sexta Turma desta Corte, ao revisitar o tema referente à violação de domicílio, no Habeas Corpus n. 598.051/SP, de relatoria do Ministro Rogerio Schietti, fixou as teses de que "as circunstâncias que antecederem a violação do domicílio devem evidenciar, de modo satisfatório e objetivo, as fundadas razões que justifiquem tal diligência e a eventual prisão em flagrante do suspeito, as quais, portanto, não podem derivar de simples desconfiança policial, apoiada, v. g., em mera atitude "suspeita", ou na fuga do indivíduo em direção a sua casa diante de uma ronda ostensiva, comportamento que pode ser atribuído a vários motivos, não, necessariamente, o de estar o abordado portando ou comercializando substância entorpecente", e de que até mesmo o consentimento, registrado nos autos, para o ingresso das autoridades públicas sem mandado, deve ser comprovado pelo Estado (RHC n. 169.942/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/11/2022 - grifo nosso).
+Erigida essa premissa, ao tratar do tema, o voto condutor do acórdão impugnado teceu as seguintes considerações (fls. 49/55):
+ ..
+No presente caso, os policiais receberam informações de que o acusado estava realizando a venda de drogas no endereço referido nos autos, razão pela qual se dirigiram ao local e, mediante consentimento do paciente, adentraram em sua residência, apreendendo a droga constante do auto de apreensão e apresentação.
+Para que a nulidade fosse acolhida, com fundamento na ilicitude da prova, imprescindível que estivesse indubitavelmente configurada a mácula, o vício, a recair sobre tais elementos probatórios colhidos até o presente momento.
+Entretanto, essa não é a hipótese dos autos.
+Da leitura das peças acostadas, havia investigação de tráfico, atribuído ao paciente e este franqueou a entrada da polícia em sua casa, indicando, inclusive, o local onde os entorpecentes estavam guardados. Demais disso, ainda que não tivesse sido franqueada a entrada dos policiais, tratando-se o tráfico de drogas de crime permanente, não há que se falarem nulidade da prova.
+ ..
+Como se sabe, para a configuração de justa causa para o início da ação penal nada mais se exige que a existência de indícios suficientes de autoria e prova de materialidade delitiva, como ocorreu no caso em apreço, requisitos cujo preenchimento possibilita a instauração da ação penal, não sendo possível a análise sobre a inocência do agente em sede deste remédio heroico. Demais disso, somente a coleta judicial de provas poderá dirimir se os fatos ocorreram tal como descreve a denúncia, ou se, como sustenta a impetrante, a apreensão decorreu de violação ao domicílio do paciente, acoimando de ilegalidade a prova produzida.
+Cumpre ressaltar que não se pode confundir a análise de mérito acerca da comprovação da materialidade e autoria delitivas, na qual deve haver provas robustas para formar o juízo de certeza no julgador, com o exame sobre a existência de provada materialidade e indícios suficientes de autoria para fins de decretação da prisão preventiva e instauração da ação penal, em que o magistrado forma sua convicção com base em elementos que indicam que o acusado provavelmente praticou a conduta delitiva.
+Assim, não é possível analisar, em sede de Habeas Corpus, se o paciente de fato praticou ou não a conduta delitiva, haja vista ser o procedimento deste writ incompatível com a dilação probatória necessária para a formação de um juízo de certeza sobre a autoria delitiva, além de haver na legislação pátria via adequada e específica para esse fim, que é a própria Ação Penal.
+ ..
+Nos termos da jurisprudência, a apreensão de drogas em posse de alguém não configura fundada razão para permitir ingresso na sua residência (HC n. 670.545/SE, Ministra Laurita Vaz, Sexta Turma, DJe 25/4/2022).
+Então, presentes a probabilidade do direito e o perigo de dano, elementos indispensáveis à concessão da tutela de urgência por ter o ingresso em domicílio se baseado em abordagem realizada por denúncia anônima.
+Além da demonstração de nervosismo, a confissão de que o réu guardava drogas em sua residência não se mostra suficiente para o ingresso (HC n. 694.431/SE, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022).
+A corroborar, merece transcrição, no que interessa, do parecer do Ministério Público, in verbis (fls. 413/416):
+ ..
+Conforme o aresto combatido, no caso dos autos "policiais militares receberam informações, em 07/08/2020, de que o acusado estava realizando a venda de drogas no endereço localizado no Residencial Nossa Senhora da Conceição, Quadra F, nº 31, Araripina/PE", sendo que, " a o chegarem no destino, encontraram várias pessoas com comportamento suspeito e as abordaram", identificando "o denunciado em frente ao endereço indicado", pelo que "o interrogaram acerca d o suposto comércio de drogas, o qual confirmou que possuía substâncias entorpecentes na residência que mora com a mãe" (e-STJ fls. 47/48).
+Muito embora conste do acórdão impugnado que "o denunciado afirmou que a droga era para consumo pessoal e autorizou o policiamento adentrar a casa, bem como entregou a droga as autoridades" (e-STJ fl. 48), não há nos autos termo, vídeo ou gravação que demonstre autorização expressa e inequívoca para que os policiais adentrassem no domicílio em questão.
+Ora, nos termos da jurisprudência desse E. STJ, "atitude considerada suspeita e nervosismo do indivíduo ao avistar os policiais não constituem justa causa a autorizar o ingresso em domicílio alheio sem prévia autorização judicial" (AgRg no HC n. 772.582/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/12/2022).
+Ainda nesse sentido:
+ ..
+Portanto, não se encontra revestida de legalidade a atuação policial in casu, restando ausentes fundadas razões (justa causa)que sinalizassem para a possibilidade de mitigação de direito fundamental inviolável.
+Dessa forma, deve ser acolhido o pleito de decretação de nulidade do ingresso policial na residência em questão, bem como de reconhecimento da ilicitude da prova daí resultante, trancando-se a ação penal respectiva.
+ ..
+Ante o exposto, concedo a ordem para reconhecer a nulidade do flagrante em razão da violação de domicílio e, por conseguinte, das provas obtidas em derivação, bem como para absolver o paciente dos fatos delineados na Ação Penal n. 0000342-69.2022.8.17.5020.
+Intime-se o Ministério Público estadual.
+Publi que-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. SENTENÇA CONDENATÓRIA. PLEITO DE NULIDADE. ALEGAÇÃO DE INDEVIDA VIOLAÇÃO DE DOMICÍLIO. CONTEXTO FÁTICO ANTERIOR. JUSTA CAUSA. AUSÊNCIA. ABSOLVIÇÃO QUE SE IMPÕE. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
