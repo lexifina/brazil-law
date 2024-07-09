@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+HABEAS CORPUS. JOGO DE AZAR, CORRUPÇÃO DE MENORES E FORMAÇÃO DE QUADRILHA. ILEGALIDADE DA BUSCA E APREENSÃO. INOCORRÊNCIA. TRANCAMENTO DO INQUÉRITO POLICIAL. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. Ausente o periculum in mora, vez que o paciente se encontra em liberdade.
+2. Não se constata, prima facie, ilegalidade nas decisões que determinaram a busca e apreensão, estando formalmente em ordem.
+3. O trancamento do inquérito policial só é admissível se, a um simples relance dos autos, sem a necessidade de exame mais detido das provas até então produzidas, despontar evidenciada, desde logo, a flagrante atipicidade do fato atribuído ao réu, ou a inexistência de qualquer suporte fático a amparar a investigação.
+4. O habeas corpus é meio inidôneo para apreciar matéria de fato, dada a estreiteza do remédio heroico, sobretudo quando não há, em seu bojo, elementos capazes de convencer cabalmente o magistrado num ou noutro sentido, tornando necessária análise aprofundada do mérito.
+5. Ordem denegada, vez que ausente constrangimento ilegal.
+O paciente está sendo investigado por suposto envolvimento com delitos de associação criminosa e jogos de azar.
+A defesa alega, em síntese: a) nulidade das provas obtidas por meio de diligência policial, sem mandado judicial, em endereço indicado por denúncia anônima; e b) o paciente sofre constrangimento ilegal, pois a diligência questionada não estaria amparada nas hipóteses constitucionais de exceç ão à necessidade de outorga judicial.
+Ao final, requer a concessão da ordem para "declarar a ilegalidade da busca policial efetuada à míngua de prévia autorização judicial ou/e consentimento do morador" (e-STJ fl. 10).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+O entendimento desta Corte é o de que "o trancamento da ação penal ou do inquérito policial deve ocorrer tão somente nos casos em que houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito, o que não ocorre no presente caso" (AgRg no HC n. 833.227/MG, sob minha relatoria, Quinta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRANCAMENTO DO INQUÉRITO POLICIAL. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. NULIDADE DA BUSCA PESSOAL. NÃO OCORRÊNCIA. FUNDADAS SUSPEITAS DEMONSTRADAS. ART. 244 DO CPP. DIREITO DE PERMANECER EM SILÊNCIO. AUSÊNCIA DE AVISO DURANTE A ABORDAGEM POLICIAL. PREJUÍZO NÃO DEMONSTRADO. VIOLAÇÃO DE DOMICÍLIO. PRESENÇA, A PRINCÍPIO, DE JUSTA CAUSA PARA A MEDIDA INVASIVA. PREMATURO ESTÁGIO DO FEITO NA ORIGEM. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL INEXISTENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, o trancamento do inquérito ou da ação penal pela estreita via do habeas corpus somente se mostra viável quando, de plano, comprovar-se a inépcia da inicial acusatória, a atipicidade da conduta, a presença de causa extintiva de punibilidade ou, finalmente, quando se constatar a ausência de elementos indiciários de autoria ou de prova da materialidade do crime.
+(..)
+8. Nessa linha de intelecção, É prematuro, pois, determinar o trancamento do inquérito policial, sendo certo que, no curso da instrução processual, caso seja oferecida denúncia, poderá a Defesa demonstrar a veracidade dos argumentos sustentados, mesmo porque a estreita e célere via do habeas corpus não permite revolvimento fático-probatório (HC n. 749.576/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 915.107/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024 - grifo acrescentado).
+Outrossim, extrai-se do acórdão atacado a ausência de teratologia na postura adotada na origem (e-STJ fls. 217-218):
+A ilegalidade a ser sanada deve ser perceptível ao primeiro olhar.
+Não é o caso do presente feito.
+A minudente e bem fundamentada decisão de fls. 29/40 dos autos originais, que autorizou a busca e apreensão, está formalmente em ordem e suficientemente fundamentada. De sua leitura se afere a existência de indícios das práticas delituosas para além da contestada busca e apreensão autorizada em dezembro, ademais sequer mencionada na decisão.
+Além disso, a argumentação trazida pela defesa se mistura com o mérito da causa, e, portanto, carece de análise detida e profunda das provas produzidas. Impossível, na estreita via do habeas corpus, distinguir quanto da alentada investigação decorre da busca anterior, vez que o writ não comporta largueza necessária para tal.
+Tal aferição será realizada nos autos do processo principal, garantidas a ampla defesa e a paridade de armas.
+Justamente por isso, o trancamento do inquérito policial seria medida imprudente e açodada. Os autos de inquérito policial, que versam sobre matéria complexa, vêm sendo trabalhados desde há muito e aparentemente se aproximam de seu deslinde, envolvem adolescentes infratores e possível conexão com a facção criminosa que desafia o Estado dentro e fora dos presídios (vide fls. 17/24). Não há motivo para interromper agora as investigações.
+Caso, futuramente o Ministério Público, na condição de titular da ação ofereça a denúncia, e caso tal denúncia venha a ser aceita, a ação penal se aperfeiçoará e qualquer decisão do juízo de piso poderá ser objeto de análise por esta Corte, em recurso próprio.
+Anoto, ainda, que a argumentação principal do presente pedido (que se trata de apreensão ilícita, pois decorrente de apreensão anterior sem mandado judicial), não foi enfrentada pela autoridade apontada como coatora. Apreciar tal tópico antes do juízo de piso poderia configurar indesejável supressão de instância.
+Como se vê, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que sequer foi feito pela instância adequada, impedindo a atuação excepcional desta Corte.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
