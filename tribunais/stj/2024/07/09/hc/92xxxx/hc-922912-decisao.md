@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SÉRGIO DOS SANTOS CAMPOS, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo (HC 5012707-13.2023.8.08.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 6/4/2021, a prisão convertida em preventiva e denunciado pela suposta prática do crime previsto no art. 121, § 2º, incisos II, IV e VII, § 7º, inciso II, na forma do art. 14, inciso II, todos do Código Penal (em relação à vítima Gicele Fantin dos Santos), e art. 129, § 9º, do Código Penal (em relação à vítima Sérgio dos Santos Campos Filho), tudo na forma do art. 69, do Código Penal, porque (e-STJ fl. 50/51 ):
+ ..  por volta das 22h, dentro da residência do casal, situada à Rua Britador, nº 267, Bairro Porto de Santana, Município de Cariacica, a vítima Gicele Fantin dos Santos estava em casa com seus dois filhos menores, de 12 (doze) e 06 (seis) anos de idade, quando o paciente chegou embriagado, discutindo, além de chamá-la de "puta" e "piranha".
+A vítima então se trancou no quarto com os seus filhos, mas o paciente pegou um pé de cabra e uma faca, conseguindo arrombar a porta, avançando contra ela, desferindo-lhe socos, puxões de cabelo e empurrões, além de enforcá-la, fazendo com que ficasse desacordada por alguns instantes.
+Destaca-se que o paciente portava uma faca e somente não logrou golpear a sua companheira, porquanto o filho do casal, Sérgio dos Santos Campos Filho, de 12 (doze) anos de idade, conseguiu tomar a faca do denunciado e desferiu um golpe contra ele, interrompendo as agressões e possibilitando que a vítima fugisse do local. Salienta-se que, durante a disputa de pai e filho, o menor teve o seu dedo cortado e foi mordido pelo paciente.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando, em síntese, excesso de prazo para a formação da culpa. O Tribunal de origem, contudo, denegou a ordem nos termos do acórdão assim ementado (e-STJ fls. 48/49):
+HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO. EXCESSO DE PRAZO. INOCORRÊNCIA. ORDEM DENEGADA.
+1. "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais" (AgRg no RHC 151.951/RS, Rel. Minist ro REYNALDO SOARES DA FONSECA,QUINTA TURMA, julgado em 28/09/2021, DJe 04/10/2021).
+2. Constitui entendimento consolidado do Superior Tribunal de Justiça que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+3. Não se observa no caso em testilha desídia do Poder Judiciário na condução do caso, tendo em vista que o feito não permaneceu paralisado por considerável período de tempo, os pleitos da defesa foram todos analisados com celeridade e o Juízo reanalisa a necessidade da manutenção da prisão preventiva dentro do prazo de 90 (noventa) dias, na forma do art. 316, do Código de Processo Penal.
+4. Habeas Corpus denegado.
+Na presente oportunidade, a defesa reitera a alegação de constrangimento ilegal por excesso de prazo para a formação da culpa e salienta que o paciente está preso há, aproximadamente, 1.200 dias, sem que tenha sentença, ressaltando que os autos se encontram conclusos desde 14/3/2024.
+Diante disso, pede, liminarmente e no mérito, o relaxamento da prisão preventiva do paciente ou aplicação de medidas cautelares diversas da prisão, com a expedição do respectivo alvará de soltura.
+As informações foram prestadas às (e-STJ fls. 63/76).
+O Ministério Público se manifestou pela perda do objeto (e-STJ fl.79):
+Sobreveio informações do Juízo de origem em que a restou consignado às fls.64/65 que proferiu "sentença pronunciando o paciente como incurso no artigo 121, § 2º,incisos II, IV e VI, §2º-A, inciso I, e §7º, inciso III, na forma do artigo 14, inciso II, do Código Penal (vítima Gicele Fantin dos Santos), e no artigo 129, §9º, também do Código Penal (vítima Sérgio dos Santos Filho)."
+É o relatório, decido.
+Com razão o parecer ministerial.
+De acordo com as informações prestadas pelo Juízo de primeiro grau, sobreveio sentença de pronúncia do paciente, em 28/6/2024. Eis o dispositivo (e-STJ fl. 65):
+Pelo exposto, com fulcro no artigo 413 do Código de Processo Penal, PRONUNCIO o acusado SÉRGIO DOS SANTOSCAMPOS, já qualificado nos autos, para que seja submetido a julgamento pelo Tribunal do Júri como incurso no artigo 121, § 2º, incisos II, IV e VI, § 2º-A, inciso I, e § 7º, inciso III, na forma do artigo 14, inciso II, do Código Penal (vítima Gicele Fantin dos Santos), e no artigo 129, § 9º, também do Código Penal (vítima Sérgio dos Santos Filho).
+Assim, consoante à sumula 21 do STJ, "pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução (SÚMULA 21, TERCEIRA SEÇÃO, julgado em 06/12/1990, DJ 11/12/1990, p. 14873)".
+Nesse sentido:
+" ..  PRISÃO. EXCESSO DE PRAZO. PRONUNCIADO O RÉU, FICA SUPERADA A ALEGAÇÃO DE EXCESSO DE PRAZO NA INSTRUÇÃO. NECESSIDADE DE MANUTENÇÃO DA CUSTÓDIA JUSTIFICADA PELO JUIZ NA SENTENÇA DE PRONÚNCIA.  .. "
+(HC 226 RS, Rel. Ministro ASSIS TOLEDO, QUINTA TURMA, julgado em 28/03/1990, DJ 16/04/1990, p. 2879)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus.
+Intimem-se.
+EMENTA
