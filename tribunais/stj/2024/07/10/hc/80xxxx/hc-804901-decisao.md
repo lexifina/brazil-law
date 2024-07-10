@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Jeferson de Moura, em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 0900014-67.2018.8.24.0071).
+Requer-se a concessão da ordem para absolver o paciente, por aus ência de provas e violação do princípio acusatório, ou para anular o acórdão hostilizado, eis que ausente fundamentação idônea para a condenação (fl. 20), determinando-se a prolação de nova decisão, devidamente fundamentada.
+Sucede que o tema aqui ventilado - absolvição por fragilidade probatória - já foi objeto de análise no EAREsp n. 2.444.810/SC, tendo ficado consignado, naqueles autos, que o Tribunal a quo reconheceu, em minudente relato dos fatos e com base na análise dos elementos de prova, a participação do ora agravante no procedimento, havendo nos autos provas suficientes de que, em conluio com o coacusado Robens, moveu os núcleos do tipo previsto no art. 90 da Lei de Licitações, consoante descrito na exordial acusatória, de modo que a pretensão de absolvição demandaria o reexame das provas e fatos constantes dos autos, o que é inviável na instância especial - óbice esse aplicável também à via do habeas corpus. Vale apenas acrescentar que o parecer do Ministério Público não vincula o julgador, que decide com base no princípio do livre convencimento motivado, sem que daí se extraia qualquer ofensa ao princípio acusatório (AgRg no AREsp n. 2.530.824/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 5/4/2024).
+Inadmissível, portanto, esta insurgência, visto que não pode ser conhecida a impetração que veicula mera reiteração de pedido já apresentado anteriormente a esta Corte Superior. Nesse sentido: AgRg no HC n. 815.516/SC, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 15/5/2024; e AgRg no HC n. 899.189/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/4/2024; dentre outros.
+Ante o exposto, não conheço deste writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ART. 90 DA LEI N. 8.666/1993. ABSOLVIÇÃO. TEMA JÁ DECIDIDO NO EARESP N. 2.444.810/SC. REITERAÇÃO DE PEDIDO. DESCABIMENTO.
+Writ não conhecido.
