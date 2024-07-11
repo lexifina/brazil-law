@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIELA CIPRIANO DA SILVA SOUZA, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Consta dos autos que a paciente cumpre pena privativa de liberdade unificada de 20 anos, 4 meses e 20 dias de reclusão no regime fechado.
+O impetrante informa que, após obter a progressão para o regime semiaberto, a paciente passou a usufruir de saídas temporárias e que, antes de progredir para o regime aberto, constatou a sua gravidez, decorrente das relações que manteve com o seu companheiro nas oportunidades em que esteve fora do sistema prisional, encontrando-se no oitavo mês de gestação.
+Verifica-se, no entanto, que no curso do cumprimento da pena imposta em primeira condenação por tráfico de drogas e associação para o tráfico a paciente sofreu nova co ndenação, pelas mesmas espécies delitivas, o que resultou a sua regressão para regime mais gravoso.
+A despeito disso, o Impetrante sustenta a possibilidade de inclusão da paciente em prisão domiciliar, para especial proteção do fim do período gestacional, aduzindo a possibilidade de interpretação extensiva da norma do art. 117, IV, da Lei de Execução Penal.
+Requer, liminarmente e no mérito, a inclusão da paciente em prisão domiciliar.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular. É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+A propósito, esses foram os fundamentos apresentados para justificar o indeferimento do pedido liminar no writ de origem (fl. 23):
+Ressalto que a paciente cumpre pena por condenação transitada em julgado nos autos de nº0000450-89.2015.8.08.0010 pela prática dos crimes de tráfico de drogas e de associação para o tráfico, previstos nos arts. 33, caput, e 35da Lei nº 11.343/2006, a pena de 10 (dez), 10 (dez)meses e 20 (vinte) dias. Ademais, foi condenada posteriormente à progressão ao regime aberto nos autos do processo penal nº 0001021-89.2017.8.08.0010, esse ainda não transitado em julgado, também pelos crimes de tráfico de drogas e associação para o tráfico, a uma pena de 9(nove) anos e 6 (seis) meses, razão pela qual operou-se, nos autos da execução penal, a unificação das penas, tendo sido a paciente regredida ao regime fechado.
+Em que pese a argumentação da defesa aponte a possibilidade de, excepcionalmente, conceder o direito à prisão domiciliar a apenadas em regime distinto do fechado com base no RHC145.931/STJ, a magistrada de piso fundamentou adequadamente  inclusive citando o precedente mencionado pela defesa  a decisão que indeferiu o pedido (mov. 428.1 dos autos da execução), frisando que cabe ao juízo da execução ponderar acerca da proporcionalidade da medida.
+Na realidade do Centro Prisional Feminino de Cachoeiro de Itapemirim, conforme informado pela magistrada existem instalações adequadas para o atendimento de gestantes:
+Contudo, faço constar que a unidade prisional CPFCI, como agente estatal, conta com o setor de maternidade totalmente reformado, com as melhores instalações do sul do Estado, equipe de saúde completa, pronta a prestar a melhor assistência à reeducanda neste momento gestacional, bem como, à criança após o seu nascimento. Ademais, cabe salientar, que a reeducanda ao tempo da concepção já era interna do sistema prisional, ou seja, tinha plena ciência de sua situação carcerária, bem com, da pena a cumprir
+Ademais, vislumbra-se que foi realizado Relatório de Saúde (mov. 420.1 dos autos da execução),que descreve as condições de atendimento da gestante, informando que estão sendo oferecidas as devidas medicações e atenção pré-natal.
+Portanto, não verifico manifesta ilegalidade na decisão questionada, cabendo salientar que a concessão da medida liminar em Habeas Corpus apenas será cabível quando for possível, em cognição sumária, constatar a existência do constrangimento ilegal sofrido pelo paciente, o que não é o caso dos autos.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
