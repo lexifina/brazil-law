@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAYCON DOUGLAS RIBEIRO RODRIGUES, em que se aponta como ato coator decisão monocrática de desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente cumpre pena privativa de liberdade, atualmente em regime semiaberto, e teve seus benefícios de saídas temporárias e trabalho externo revogados com fundamento na Lei n. 14.843/2024.
+O impetrante sustenta que o paciente faz jus aos benefícios de saída temporária e trabalho externo, haja vista que o delito pelo qual cumpre pena teria sido cometido antes da vigência da Lei n. 14.843/2024, além de possuir bom comportamento carcerário, emprego e endereço fixos para ficar quando usufruir da saída temporária.
+Ressalta a ofensa ao princípio da irretroatividade da lei da penal mais gravosa, tendo em vista que a nova redação dada à Lei de Execução Penal, sobretudo no que tange à saída temporária e ao trabalho externo, possui natureza mista, uma vez que aborda diretamente os direitos do sentenciado, limitando e ameaçando sua liberdade de ir e vir.
+Defende a superação da Súmula n. 691 do Supremo Tribunal Federal, tendo em vista a flagrante ilegalidade a que o paciente está sendo submetido.
+Requer, liminarmente, a suspensão dos efeitos da decisão do juízo da execução penal, permitindo ao paciente a continuidade do trabalho externo até o julgamento definitivo do presente writ.
+No mérito, pugna pelo restabelecimento ao paciente dos benefícios do trabalho externo e saída temporária, uma vez que inaplicável, ao presente caso, a Lei n. 14.843/2024.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto a autoridade impetrada justificou, suficientemente, a impossibilidade de deferimento da medida liminar pleiteada na origem, nos seguintes termos (fl. 11):
+A concessão da tutela de urgência reserva-se aos casos excepcionais de ofensa manifesta ao direito de locomoção do paciente e desde que preenchidos os pressupostos legais, que são o fumus boni juris e o periculum in mora.
+No caso em tela, afigura-se inviável acolher-se a pretensão sumária, porquanto a motivação que ampara o pedido liminar confunde-se com o próprio mérito do writ, necessitando de uma maior dilação probatória, o que não é possível em sede de liminar de habeas corpus devendo o caso concreto, assim, ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo.
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
