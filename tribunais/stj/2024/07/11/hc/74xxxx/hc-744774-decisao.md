@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Marcelo Pereira da Cruz - condenado nas sanções do art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa (Processo n. 0000263-22.2018.8.26.0545, que tramitou na 2ª Vara Criminal da comarca de Bragança Paulista/SP) -, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que deu parcial provimento ao recurso do ora paciente para reduzir sua pena para 5 anos de reclusão e 500 dias-multa (Apelação Criminal n. 0000263-22.2018.8.26.0545).
+Daí o presente writ, em que a defesa alega, em suma, a necessidade de: 1) desclassificar a conduta para a de posse de droga para uso pessoal; e subsidiariamente: 2) fixar a pena-base no mínimo legal; 3) aplicar a atenuante da confissão espontânea; 4) aplicar o redutor do tráfico privilegiado; 5) alterar o regime inicial; e 5) substituir a pena privativa de liberdade por penas restritivas de direitos.
+Por fim, traz pedido nos seguintes termos (fl. 40):
+d) Ao final, concedida ou não a liminar, DECLARE-SE as ilegalidades ocorridas, a fim de (a) desclassificar a conduta para a prevista no art. 28 da Lei 11.343/06, (b) subsidiariamente, reconhecer o tráfico privilegiando aplicando, na terceira fase da dosimetria, a causa de diminuição de pena prevista no art. 33, §4º , da Lei 11.343/06, no patamar máximo de 2/3 (dois terços); (c) subsidiariamente, migrar da terceira fase da dosimetria para a primeira fase, a quantidade de entorpecentes como argumento para recrudescer a pena basilar no patamar de 1/6 (um sexto), e, por conseguinte, reconhecer o tráfico privilegiando e aplicar, na terceira fase da dosimetria, a causa de diminuição de pena prevista no art. 33, §4º, da Lei 11.343/06 no patamar máximo de 2/3 (dois terços); (d) em caso de aumento da pena basilar, reconhecer a atenuante de confissão espontânea prevista no art. 65, III, "d", do CP, reduzindo a pena intermediária no patamar de 1/6 (um sexto); (e) abrandar o regime prisional para o aberto em caso de reconhecimento do tráfico privilegiado, ou semiaberto se mantida a condenação nos termos do édito objurgado; e (e) substituir a pena privativa de liberdade por penas restritivas de direito caso reconhecido o tráfico privilegiado, nos termos do art. 44 do CP.
+É o relatório.
+O writ é inadmissível.
+Ao acessar o sítio eletrônico do Tribunal de origem, verifica-se que a sentença condenatória transitou em julgado para a defesa em 16/7/2021.
+Neste caso, o presente writ é sucedâneo de revisão criminal.
+Ocorre que, como não existe no Superior Tribunal de Justiça julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..  1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, da minha relatoria, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Ademais, com relação ao pedido de fixação da pena-base no mínimo legal, ausente o interesse processual, uma vez que o Tribunal a quo já reduziu a pena ao mínimo legal (fl. 947).
+Contudo, no que tange ao regime inicial, verifico ilegalidade flagrante capaz de justificar a concessão da ordem de ofício.
+Extrai-se da sentença condenatória a seguinte fundamentação (fl. 567 - grifo nosso):
+Quanto ao regime inicial de cumprimento de pena, tendo em vista que não se trata de tráfico privilegiado, equiparando-se ao crime hediondo, bem como a quantidade da pena aplicada, fixo o regime FECHADO para início de cumprimento de pena.
+O Tribunal local, por sua vez, consignou que se trata de condenação pelo cometimento do delito de tráfico ilícito de drogas, o qual denota conduta absolutamente perniciosa à sociedade, sobretudo por contribuir com a disseminação da substância ilícita entre a população, fato que, por alcançar patamares insuportáveis, coloca em risco, inclusive, a tranquilidade social e a ordem pública, mormente por ser causa mediata de vários outros delitos, notadamente aqueles de natureza patrimonial  ..  De rigor realçar que o acusado praticou delito equiparado a hediondo, cuja perniciosidade, a manifesta reprovação social e a previsão, pelo legislador constituinte, de regime especial (Constituição da República, artigo 5º, inciso XLIII), torna imperioso o início do desconto da sanção carcerária no regime mais severo (fls. 949/950).
+Sucede que, na hipótese, não enxergo fundamentação idônea para a fixação do regime fechado.
+Isso porque, não obstante a primariedade do paciente e o quantum da pena (5 anos de reclusão), as instâncias ordinárias determinaram o regime mais gravoso em razão da gravidade abstrata do crime.
+Sendo assim, diante do quantum de pena aplicado (5 anos de reclusão) e inexistindo fundamentos idôneos a justificar o regime mais gravoso, fixo o regime inicial semiaberto para cumprimento da pena.
+Ante o exposto, não conheço do writ, mas concedo parcialmente a ordem de ofício, para fixar o regime inicial semiaberto para o cumprimento da pena (Autos n. 0000263-22.2018.8.26.0545).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. DOSIMETRIA. REGIME INICIAL. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO STJ PASSÍVEL DE REVISÃO. FLAGRANTE ILEGALIDADE. REGIME INICIAL FECHADO . FUNDAMENTAÇÃO INIDÔNEA.
+Writ não conhecido. Ordem parcialmente concedida de ofício, nos termos do dispositivo.
