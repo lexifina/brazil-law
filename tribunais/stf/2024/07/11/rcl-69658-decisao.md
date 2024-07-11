@@ -1,0 +1,82 @@
+DECISÃO
+
+RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO DA FUNDAÇÃO NACIONAL DE SAÚDE — FUNASA. VÍNCULO JURÍDICO-
+-ADMINISTRATIVO. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO: DESCUMPRIMENTO DO JULGADO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+
+    1. Reclamação, com requerimento de medida liminar, ajuizada pela Fundação Nacional de Saúde – Funasa contra decisão do Tribunal Regional do Trabalho da Décima Quarta Região no Processo n. 0000612-56.2019.5.14.0001, pela qual teria sido desrespeitado o decidido por este Supremo Tribunal na Ação Direta de Inconstitucionalidade n. 3.395.
+
+O caso
+
+    2. Em 2.9.2019, Paulo Rodrigues de Campos ajuizou a Reclamação Trabalhista de Indenização por Danos Morais e Materiais n. 0000612-56.2019.5.14.0001 contra a Fundação Nacional de Saúde – Funasa, objetivando a condenação da ré a indenizá-lo pelos danos decorrentes do uso do Dicloro Difenil Tricloroetano – DDT (e-doc. 6).
+
+    Em 30.8.2020, ao examinar o recurso ordinário interposto por Paulo Rodrigues de Campos contra sentença pela qual acolhida a preliminar de de incompetência da Justiça do Trabalho, a Segunda Turma do Tribunal Regional do Trabalho da Décima Quarta Região decidiu:
+
+    “TRANSMUDAÇÃO DO REGIME DE CELETISTA PARA ESTATUTÁRIO. FATOS OCORRIDOS DURANTE O CONTRATO INDIVIDUAL DE TRABALHO REGIDO PELA CLT. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. OJ Nº 138 SBDI-I DO TST. Consoante a jurisprudência do Tribunal Superior do Trabalho sedimentada na Orientação Jurisprudencial nº 138 da
+SBDI-I, ‘Compete à Justiça do Trabalho julgar pedidos de direitos e vantagens previstos na legislação trabalhista referente a período anterior à Lei nº 8.112/90, mesmo que a ação tenha sido ajuizada após a edição da referida lei. A superveniência de regime estatutário em substituição ao celetista, mesmo após a sentença, limita a execução ao período celetista’. No caso dos autos, a discussão travada diz respeito a fato ocorrido sob a égide do contrato individual do trabalho, antes da transmudação do regime celetista para estatutário, qual seja, intoxicação de trabalhadores pelo pesticida (DDT), matéria que se insere no âmbito de competência desta Justiça Especializada, consoante previsão contida no art. 114 da CF/88. ACIDENTE DE TRABALHO. DOENÇA OCUPACIONAL. CONTAMINAÇÃO POR DDT. CARACTERIZADA. INDENIZAÇÃO POR DANO MORAL DEVIDA. Considerando a relação de causalidade entre a patologia desenvolvida pelo trabalhador, a intoxicação crônica pelo pesticida DDT e as atividades desempenhadas no ambiente de trabalho, devida a condenação da reclamada ao pagamento de indenização a título de danos morais suportados pelo obreiro” (fl. 1,
+e-doc. 11).
+
+    Contra essa decisão foi interposto recurso de revista, inadmitido, e agravo de instrumento, ao qual a Sexta Turma do Tribunal Superior do Trabalho negou provimento (fls. 1-3, e-doc. 7).
+
+    3. A reclamante alega que “o acórdão reclamado entende que é competente a justiça do trabalho para processo e julgamento de demanda referente a servidor público submetido ao Regime Jurídico Único dos Servidores Públicos Federais (Lei 8.112/90)” (fl. 2).
+
+    Argumenta que, na origem, “servidor público federal objetiva o pagamento de indenização por danos morais e materiais decorrentes de distúrbio de saúde adquirido pelo manuseio de DDT no período em que trabalhou como agente de combate a endemias na Fundação. É impossível atestar, ao certo, o momento em que a contaminação por DDT ocorreu – se durante o vínculo celetista, estatutário, ou na vigência de ambos. No entanto, é fato incontroverso – admitido pelo próprio autor na inicial da ação originária – que os danos à saúde só foram descobertos já na vigência do Regime Jurídico Único dos servidores públicos federais (Lei 8.112/90)” (fl. 3).
+
+    Assinala que, “no caso específico das ações com pedido de indenização por danos morais e materiais pelo trabalho em contato com DDT, no período anterior à transmudação do regime celetista para estatutário, o Pleno dessa Excelsa Corte firmou posição no sentido de que o paradigma invocado na ADI 3395 se aplica a essas demandas” (fl. 3).
+
+    Ressalta que a decisão reclamada “viol[a] a autoridade do acórdão do Supremo Tribunal Federal, proferido na ADI 3.395/DF” (fl. 9).
+
+    Requer medida liminar para suspenderem-se os efeitos da decisão reclamada.
+
+    No mérito, pede a procedência da presente reclamação, “anulando-se o acórdão proferido no Processo nº TST – RRAg-612-56.2019.5.14.0001 e determinando-se a remessa dos autos à Justiça Federal Comum, tendo em vista o que foi decidido na ADIn 3.395” (fl. 9).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    4. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+    5. Põe-se em foco nesta ação se, ao afirmar a competência da Justiça do Trabalho para processar e julgar a Reclamação Trabalhista n. 612-56.2019.5.14.0001, a Segunda Turma do Tribunal Regional do Trabalho da Décim Quaerta Região teria descumprido o ato prolatado pelo Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade n. 3.395.
+
+    6. Em 5.4.2006, no julgamento da Ação Direta de Inconstitucionalidade n. 3.395/DF, este Supremo Tribunal referendou medida cautelar deferida pelo Ministro Nelson Jobim:
+
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação
+jurídico-estatutária” (DJ 10.11.2006).
+
+    7. Em 15.4.2020, o Plenário deste Supremo Tribunal confirmou a cautelar deferida e julgou parcialmente procedente a Ação Direta de Inconstitucionalidade n. 3.395/DF para fixar interpretação conforme à Constituição da República, no sentido de que o inc. I do art. 114, alterado pela Emenda Constitucional n. 45/2004, não abrange causas ajuizadas para discussão de relação jurídico-estatutária entre o Poder Público e seus servidores. Esta a ementa do julgado:
+
+    “CONSTITUCIONAL E TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I, DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL 45/2004. AUSÊNCIA DE INCONSTITUCIONALIDADE FORMAL. EXPRESSÃO ‘RELAÇÃO DE TRABALHO’. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. EXCLUSÃO DAS AÇÕES ENTRE O PODER PÚBLICO E SEUS SERVIDORES. PRECEDENTES. MEDIDA CAUTELAR CONFIRMADA. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE. 1. O processo legislativo para edição da Emenda Constitucional 45/2004, que deu nova redação ao inciso I do art. 114 da Constituição Federal, é, do ponto de vista formal, constitucionalmente hígido. 2. A interpretação adequadamente constitucional da expressão ‘relação do trabalho’ deve excluir os vínculos de natureza jurídico estatutária, em razão do que a competência da Justiça do Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores. 3. Medida Cautelar confirmada e Ação Direta julgada parcialmente procedente”
+(DJe 1º.7.2020).
+
+    No voto condutor do julgamento, o Ministro Alexandre de Moraes, Relator, assentou:
+
+    “Cabe se desconsiderar qualquer espaço para uma leitura interpretativa do inciso I do art. 114 da Constituição Federal que admita como competente a Justiça do Trabalho para julgamento de causas que alcancem relações jurídicas laborais, figurando em um dos polos a União, os Estados, o Distrito Federal e os Municípios, e no outro os seus Servidores ocupantes de cargos criados por lei, de provimento efetivo ou em comissão, incluídas autarquias e fundações públicas. As relações laborais entre os Entes federativos e seus Servidores somente são dotadas de juridicidade, aliás, compaginando-se com o entendimento encampado e pacificado pelo SUPREMO TRIBUNAL FEDERAL para a expressão ‘relações de trabalho’, acaso observando essas como relações puramente de Direito Administrativo, isto é, como relações decorrentes, não de contrato civil de trabalho, mas de estatuto jurídico específico. É essa compreensão que, considerado o caso vertente, transforma, aliás, em rigorosamente impertinente qualquer debate em torno do problema de uma alegada inconstitucionalidade formal. (…)
+
+    É à luz do exposto que permanece jurídica a definição adotada pela Decisão cautelar que chancelou a monocrática liminar, proferida nesta Ação Direta de Inconstitucionalidade, no sentido de não tomar por incluído pelo inciso I do art. 114 da Constituição Federal,
+‘em seu âmbito material de validade, as relações de natureza
+jurídico-administrativa dos servidores públicos’ (ADI 3.395 MC, Rel. Min. CEZAR PELUSO, Pleno, 5/4/2006), sendo daí cabível a interpretação conforme à Constituição, sem redução de texto. VOTO, pois, por, conhecendo da Ação Direta de Inconstitucionalidade 3.395, DAR-LHE PARCIAL PROCEDÊNCIA, confirmando a decisão liminar concedida e fixando, com aplicação de interpretação conforme à Constituição, sem redução de texto, que o disposto no inciso I do
+art. 114 da Constituição Federal não abrange causas ajuizadas para discussão de relação jurídico-estatutária entre o Poder Público dos Entes da Federação e seus Servidores” (DJe 1º.7.2020).
+
+    Como reiterado no julgamento de mérito da Ação Direta de Inconstitucionalidade n. 3.395, o vínculo jurídico estabelecido entre servidores contratados e a Administração é de direito administrativo, não comportando a matéria discussão na Justiça trabalhista.
+
+    Ao examinar caso rigorosamente análogo ao presente, no julgamento da Reclamação n. 31.026-AgR, para o qual fui designada Redatora para o acórdão, a Segunda Turma deste Supremo Tribunal decidiu:
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395-MC/DF. MUDANÇA DO REGIME JURÍDICO CELETISTA PARA ESTATUTÁRIO. CAUSA DE PEDIR RELACIONADA A VÍNCULO
+JURÍDICO-ADMINISTRATIVO: COMPETÊNCIA DA JUSTIÇA COMUM. AGRAVO REGIMENTAL PROVIDO E RECLAMAÇÃO JULGADA PROCEDENTE” (DJe 18.2.2020).
+
+    No mesmo sentido, decidiu a Primeira Turma deste Supremo Tribunal:
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. SERVIDORA PÚBLICA DA FUNDAÇÃO NACIONAL DE SAÚDE FUNASA. MUDANÇA DO REGIME JURÍDICO CELETISTA PARA ESTATUTÁRIO. CAUSA
+DE PEDIR RELACIONADA AO VÍNCULO
+JURÍDICO-ADMINISTRATIVO: INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA PROCESSAR E JULGAR A CAUSA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl n. 52.017-AgR, de minha relatoria, Primeira Turma, DJe 30.3.2022).
+
+    Na espécie em exame, o vínculo firmado entre a reclamante e o interessado está submetido a regime jurídico-administrativo. A competência para dirimir conflito decorrente dessa relação administrativa não comporta discussão jurídica, na esteira dos precedentes.
+
+    8. Pelo exposto, caracterizado o desrespeito ao decidido por este Supremo Tribunal na Ação Direta de Inconstitucionalidade n. 3.395/DF, julgo procedente a presente reclamação, declaro a incompetência da Justiça do Trabalho para processar e julgar o Processo n. 0000612-56.2019.5.14.0001 e determino a remessa dos autos à Justiça Federal comum para decidir como de direito.
+
+    Publique-se.
+
+    Brasília, 11 de julho de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
