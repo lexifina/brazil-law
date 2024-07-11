@@ -1,0 +1,38 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação no 144/2023 e CNJ/Resolução no 376/2021), adoto o relatório de fl. 797 (e-STJ):
+"Trata-se de agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado do Amapá, que não admitiu o recurso especial interposto em face de acórdão daquela egrégia Corte.
+Consta dos autos que os agravantes foram impronunciados pelo crime de tentativa de homicídio qualificado. O Tribunal de origem deu provimento ao recurso ministerial e pronunciou os recorrentes.
+Inconformada com o acórdão, a Defesa interpôs recurso especial, no qual requer a despronúncia dos acusados, ao argumento de que não há indícios suficientes de autoria (e-STJ, fl. 686/692).
+O recurso especial foi inadmitido na origem, por demandar reexame de provas -Súmula 7/STJ (e-STJ, fls. 727/732).
+Sobreveio agravo em recurso especial, no qual o agravante renova os fundamentos do recurso especial e sustenta a inaplicabilidade da Súmula 7/STJ (e-STJ, fls. 742/749)."
+Decido.
+No recurso especial, a defesa alega violação aos arts. 413 e 414 do Código de Processo Penal, pugnando pelo restabelecimento da decisão que impronunciou os recorrentes.
+O Tribunal de origem inadmitiu a insurgência com amparo nos seguintes fundamentos (e-STJ fls. 729-732):
+"Conforme destacou o MINISTÉRIO PÚBLICO nas contrarrazões, a alteração do entendimento adotado por este Tribunal demandaria, irrefutavelmente, novo exame do acervo fático -probatório, providência vedada em sede de recuso especial, tendo em vista o óbice da Súmula 7 do Superior Tribunal de Justiça (Súmula 7-STJ - A pretensão de simples reexame de prova não enseja Recurso Especial).
+Nesse sentido, colham-se precedentes específicos da Corte Superior:
+(..)
+De outro giro, embora os recorrentes tenham suscitado dissídio jurisprudencial  sem apresentar o necessário cotejo analítico entre o acórdão recorrido e os paradigmas, frise-se  o óbice da Súmula 7 acima destacado também impede o seguimento do recurso com base na alínea "c" do inc. III, do art. 105 da CF. Confira-se a jurisprudência do STJ:
+(..)
+Ante o exposto, não admito este recurso especial, com fulcro no artigo 1.030, inciso V do CPC."
+A partir do cotejo entre a decisão e as razões do agravo, verifico a existência de óbice formal impeditivo do conhecimento do recurso, qual seja, a carência de impugnação específica ao fundamento da inadmissão do recurso especial.
+Sobre a matéria, a Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso.  ..  A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignaram: "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com fundamento na Súmula 7/STJ.
+Nas razões do agravo em recurso especial, os recorrentes limitaram-se a afirmar que "não há de se falar em reexame do acervo fático probatório, e sim a revaloração da prova, o que confirma a plausibilidade do Recurso Especial interposto (..) " (e-STJ fl. 748).
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 7/STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, de modo que são insuficientes alegações genéricas sobre revaloração de provas:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para inadmitir o recurso especial com relação à incidência da Súmula 7 do STJ.
+III - É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+IV - Ademais, "Também é pacífico o entendimento neste Pretório no sentido de que o Enunciado n. 83 da Súmula do STJ se aplica aos recursos especiais interpostos tanto pela alínea "c" quanto pela alínea "a" do permissivo constitucional" (AgRg no AREsp 1.241.318/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/04/2018).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.125.486/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA. PROGRESSÃO DE REGIME E SAÍDA TEMPORÁRIA DEFERIDAS PELO JUÍZO DA EXECUÇÃO E REFORMADAS PELO TRIBUNAL ESTADUAL. AUSÊNCIA DO REQUISITO SUBJETIVO. FALTA GRAVE. RESP INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARESP NÃO CONHECIDO. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão proferida pela Presidência do STJ não conheceu do agravo em recurso especial interposto por ter a parte agravante deixado de impugnar especificamente a incidência dos óbices ventilados pela Corte a quo (art. 21-E, V, do RISTJ).
+2. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+3. No caso, o RESp restou inadmitido na origem nos termos das Súmulas 7 e 83, ambas do STJ e Súmula 284 do STF, tendo o agravante se limitado a reafirmar a tese de mérito (preenchimento dos requisitos autorizadores da progressão de regime e do direito a saída temporária) em seu AREsp.
+(..)
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 1.893.400/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+Ante o exposto, na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial, nos termos da súmula 182/STJ.
+EMENTA
