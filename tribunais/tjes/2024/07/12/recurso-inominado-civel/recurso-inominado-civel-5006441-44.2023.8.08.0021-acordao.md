@@ -1,0 +1,81 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5006441-44.2023.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: IRONDINA INACIO
+RECORRIDO: SINDNAP FS - SINDICATO NACIONAL DOS APOSENTADOS, PENSIONISTAS E IDOSOS
+RELATOR(A):
+PAULO ABIGUENEM ABIB
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+RELATÓRIO
+
+Trata-se de ação de restituição de valores cumulada com indenização por danos morais, em que a parte autora afirma que vem sendo descontado um valor pela parte ré em seu benefício previdenciário, e no entanto, relata que não reconhece. Acrescenta a requerente que como tem o hábito de contratar empréstimos consignados, possa ter sido ludibriada no momento da contratação de algum dos seus empréstimos em que embutiram mencionada rubrica, porém não pode afirmar com certeza. Assim requer a declaração de inexistência de débito, a restituição em dobro do valor de R$ 785,30 (setecentos e oitenta e cinco reais e trinta centavos) e a indenização por danos morais.
+
+Em sede de sentença (ID 7388730) foi julgado improcedente o pedido autoral, sob o seguinte dispositivo:
+
+“Ante o exposto, julgo improcedentes os pedidos formulados na inicial. Em consequência, declaro extinto o processo com resolução de mérito, na forma do art. 487, I, do CPC.
+”
+
+Irresignada, a parte recorrente interpôs recurso inominado (IDs 8873374922),
+
+almejando que a sentença fosse reformada inteiramente, julgando procedentes os pedidos da inicial
+.
+
+Verifica-se que foram apresentadas Contrarrazões, ocasião em que a parte requerida, ora recorrida, pugnou pela manutenção integral da sentença. (IDs 7377738)
+
+É o breve relatório. Passo a decidir.
+
+PRESSUPOSTOS DE ADMISSIBILIDADE
+
+Tem-se recurso inominado contra sentença. O Recurso é cabível, tempestivo e o preparo foi realizado dentro do prazo legal. Preenchidos os pressupostos de admissibilidade, recebo o recurso no regular efeito previsto no art. 43 da Lei 9.099/95. Aproveito para deferir o benefício da gratuidade da justiça à parte recorrente.
+
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTO
+
+Analisando o acervo fático-probatório dos autos, entendo ser o presente caso de manutenção integral do julgado. Pois, não houve comprovação mínima, pela parte recorrente, dos fatos constitutivos do seu direito, ou seja, depreende-se que, não há nos autos comprovação de que houve falha na prestação de serviços da requerida, ora recorrida, na forma do art. 373, I do CPC.
+
+Isso porque, destaco que a recorrida carreou aos autos não apenas o contrato assinado eletronicamente pela recorrente, onde está clara a natureza da contratação (Proposta de Adesão de Seguro – ID. 33529902 - Pág. 1), bem como consta a degravação da ligação com a recorrente declarando que autoriza o desconto, prova esta que não foi impugnada pela parte autora.
+
+Assim sendo, ausente a comprovação de conduta ilícita exigida para a configuração de dano moral, deve ser mantida a sentença de improcedência da ação. Pois, é exercício regular de direito da Instituição credora o desconto dos valores devidos.
+
+Insta mencionar ainda, que a doutrina tem se levantado quanto à banalização do dano moral, tendo sido, neste talante, acompanhada pela jurisprudência. Tanto assim que o mero dissabor e o aborrecimento sem grande relevância, não se confundem com o instituto do dano moral, que toca ao gravame íntimo de monta. Nesse sentido, faço incluir trecho do Acórdão proferido pelo Eminente Desembargador Sérgio Cavalieri Filho, in verbis:
+
+“A matéria de mérito cinge-se em saber o que figura e o que não figura dano moral. Na falta de critérios objetivos, essa questão vem se tornando tormentosa na doutrina e na jurisprudência, levando o julgado a situação de perplexidade. Ultrapassadas as fases da irreparabilidade do dano moral e da sua inacumulabilidade com o dano material, corremos agora o risco de ingressarmos na fase de sua industrialização, onde o aborrecimento banal ou mera sensibilidade são apresentados como dano moral, em busca de indenizações milionárias. Nessa linha de princípio só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação, que fugindo da normalidade interfira intensamente no comportamento psicológico do indivíduo, causando-se aflições, angústias e desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia-a-dia, no trabalho, no trânsito, entre amigos e até no ambiente familiar, tais situações não são tão intensas e duradouras a ponto de romper o equilíbrio psicológico do indivíduo. Se assim não se entender, acabaremos por banalizar o dano moral, ensejando ações judiciais em busca de indenizações pelos mais triviais aborrecimentos. (...).” (Apelação Cível n. 821/95)”
+
+Nesse sentido também vem sendo o entendimento do Superior Tribunal de Justiça:
+
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. 1. Ação de indenização por danos morais, fundada na indevida negativa de atendimento médico. 2. O reexame de fatos e provas em recurso especial é inadmissível. 3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. 4. Quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando o simples descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ. 5. Agravo interno no agravo em recuso especial não provido. (AgInt no REsp 1795421/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/05/2019, DJe 29/05/2019)”
+
+Nesta esteira, entendo que a sentença impugnada deve ser mantida pelos seus próprios fundamentos na forma do Enunciado número 11 das Turmas Recursais: “
+A sentença poderá ser mantida pelos seus próprios fundamentos, a teor do que dispõe o artigo 46 da lei 9099/95, sem a necessidade de nova fundamentação jurídica
+”.
+
+DISPOSITIVO
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e, no mérito,
+NEGO-LHE PROVIMENTO
+, mantendo a sentença intocada, por seus próprios fundamentos. Condeno a recorrente ao pagamento de custas e honorários advocatícios, fixados em 20% sobre o valor da causa, na forma do art. 85, §2º do Código de Processo Civil e art. 55 da Lei nº. 9.099/95. Suspensa a exigibilidade em razão de ter sido concedido o benefício da assistência judiciária gratuita.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
