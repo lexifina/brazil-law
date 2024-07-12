@@ -1,0 +1,70 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0764691-59.2023.8.07.0016RECORRENTE(S)GT COMERCIO E REPASSES DE VEICULOS LTDARECORRIDO(S)LUCAS JOSHUAH TEIXEIRA MENDESRelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº1890040
+
+EMENTA
+
+ JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. REVELIA. PRELIMINAR. CERCEAMENTO DE DEFESA. REJEITADA. COMPRA E VENDA DE VEÍCULO. VÍCIO OCULTO. REPARO. AUSÊNCIA. OMISSÃO. DANOS MATERIAIS PARCIALMENTE EVIDENCIADOS. DANOS MORAIS. AUSÊNCIA. RECURSO PARCIALMENTE PROVIDO.
+
+1. Trata-se de recurso inominado interposto pela ré em face da sentença proferida pelo 4º Juizado Especial Cível de Brasília (ID 58514301) que, nos autos da Ação de Indenização por Vício Oculto c/c Danos Materiais e Morais, julgou parcialmente procedentes os pedidos iniciais para: a) condenar a ré a pagar ao autor a quantia de R$ 4.585,43 (quatro mil, quinhentos e oitenta e cinco reais e quarenta e três centavos) a título de indenização por danos materiais, a ser corrigida monetariamente, pelo INPC, desde o efetivo prejuízo (data de cada um dos gastos), de acordo com Súmula 43 do STJ, com juros legais de 1% a.m., desde a citação (30/11/2023), conforme art. 405 do Código Civil e b) condenar a ré a pagar ao autor a quantia de R$ 2.000,00 (dois mil reais) a título de indenização por danos morais, a ser corrigida monetariamente, pelo INPC, desde a data da decisão (Súmula 362 do STJ), com juros legais de 1% a.m., a contar da citação (30/11/2023), conforme art. 405 do Código Civil.
+
+2. Recurso próprio e tempestivo (ID 58515260). Custas e preparo recolhidos.
+
+3. Em suas razões recursais, a recorrente sustenta que houve cerceamento de defesa em razão da decretação de revelia por causa de sua ausência na audiência de conciliação. Isso porque argumenta que, embora devidamente citado não compareceu à audiência de conciliação, tendo em vista a instabilidade na sua conexão via internet, observando-se a dificuldade de comprovação de alegações dessa natureza. Aponta que para essa nova metodologia de realização de audiências, deve haver uma flexibilização para evitar prejuízos às partes, “quando evidenciada a boa-fé processual”. No mérito, alega que há insuficiência de provas com relação ao dano material, pois os documentos acostados aos autos não demonstram que o recorrido efetivamente pagou pelos serviços os quais ele alega, tendo em vista que o suposto comprovante se trata de um orçamento e não há nenhum comprovante de pagamento e muito menos uma nota fiscal que corrobora com o alegado. Diz que o recorrido pagou somente o laudo técnico, não havendo outros comprovantes de pagamento, somente os gastos com Uber (R$ 340,43) e laudo técnico (R$ 450,00), que somados chegam ao montante R$ 807,24 (oitocentos e sete reais e vinte e quatro centavos). Destaca que não pode ser condenada somente por ser revel, pois o juiz deve apreciar as provas constantes nos autos para uma condenação justa. Com relação aos danos morais, diferente do alegado, afirma que, durante todo o período em que a recorrente estava com o veículo não havia sido constatado nenhum defeito, e quando tomou conhecimento dos problemas, sempre estiveram dispostos a resolver, dando orientações de quais procedimentos deveriam ser adotados. Defende que o vício oculto ou a garantia de venda, em caso de defeito e necessidade de reparos, não ensejam, por si só, indenização por lesão moral. Ao final, requer a reforma da r. sentença para, preliminarmente, reconhecer a nulidade por cerceamento de defesa e, por conseguinte, determinar a realização de nova audiência de conciliação, com o regular prosseguimento do feito, até novo julgamento. No mérito, pugna pela reforma da sentença para condenar a recorrente em indenização por dano material somente no valor de R$ 807,24, bem como pugna pela não condenação em indenização por danos morais. Subsidiariamente, caso seja condenada aos danos morais, requer a minoração do valor fixado.
+
+4. A parte recorrida, em contrarrazões (ID 58515267) afirma que não se considera razoável que as instabilidades na conexão de internet apontadas pelo recorrente perduraram por todo o processo, impossibilitando a parte ré de se manifestar, ou ainda informar o ocorrido após a audiência, demonstrando assim, sua boa-fé. Argumenta que tal alegação é de fácil comprovação, o que não ocorreu pela recorrente, que embora citada permaneceu inerte até a interposição do recurso. Alega que todo o dano material ocorreu em razão do vício presente no veículo, que acarretou um consumo exagerado de combustível. Diz que todos os demais gastos estão devidamente comprovados e reconhecidos pelo juízo. Acerca da configuração do dano moral, ressalta a angústia e a situação de estresse prolongado a que a parte recorrida foi submetida, enfatizando a atitude ilícita do recorrente, pois, apesar das tentativas, em momento algum houve interesse em resolver a situação.
+
+5. Preliminar de cerceamento de defesa. Nos termos do art. 20, da Lei 9.099, não comparecendo o demandado à sessão de conciliação ou à audiência de instrução e julgamento, reputar-se-ão verdadeiros os fatos alegados no pedido inicial, salvo se o contrário resultar da convicção do Juiz. No caso dos autos, em que pese o recorrente afirmar que não pôde comparecer à audiência de conciliação em razão de problemas de conexão à internet, não apresentou qualquer prova nesse sentido. Além do mais, nos termos do art. 5º, da Portaria Conjunta 52/2020 – TJDFT, a responsabilidade pela conexão estável de internet, instalação e utilização do equipamento e do aplicativo de acesso à plataforma de videoconferência oferecida pelo TJDFT é exclusiva dos membros do Ministério Público, Defensores Públicos, Procuradores do Distrito Federal, Advogados, partes e testemunhas. Desse modo, rejeito a preliminar.
+
+6. A relação entabulada entre as partes é nitidamente de consumo, porquanto presentes as figuras do consumidor e do fornecedor de serviços, estando, portanto, sujeita às disposições do Código de Defesa do Consumidor (Lei 8.078/90).
+
+7. Nos termos do art. 14 do CDC, a responsabilidade do fornecedor de serviços é objetiva, respondendo pelos danos causados aos consumidores por defeitos relativos à prestação dos serviços, independentemente da existência de culpa e de dolo. Tal responsabilidade será excluída se provar que, tendo prestado o serviço, o defeito inexiste, ou que o fato ocorreu por culpa exclusiva do consumidor ou de terceiro.
+
+8. No caso dos autos, diante da incontroversa ausência da parte recorrente à audiência de conciliação, revela-se correta a decretação da revelia da ré, com a presunção de veracidade das alegações de fato contidas na inicial.
+
+9. Entretanto, é certo que os efeitos da revelia são relativos e não acarretam a procedência automática do pedido, devendo o magistrado analisar as alegações do autor e a prova dos autos (AgInt no AREsp 1679845/GO, 4ª Turma, DJe de 01/10/2020).
+
+10. No caso, as provas juntadas pela parte recorrida, aliadas à presunção relativa derivada da revelia, foram suficientes para que o Juízo de origem concluísse pela veracidade das alegações de fato contidas na petição inicial.
+
+10. Com efeito, as provas trazidas aos autos corroboram as alegações do autor de que teve que arcar com os custos de reparação do veículo, que somaram o valor total de R$ 2.736,00, conforme os documentos juntados nos IDs 58514284 e 58514288. O recorrente, de outro lado, não se insurge com relação à condenação referente ao pagamento da despesa de Diagnóstico, de R$ 450,00 (ID 58514290), e de aplicativo de transporte – Uber, de R$ 340,43 (ID 58514289).
+
+11. Não obstante, não se verifica comprovação mínima com relação às alegações da parte autora de que teria arcado com gastos de combustível para utilizar veículo de amigos e familiares, pois os comprovantes apresentados se tratam de transferência via Pix, sem qualquer referência quanto ao seu motivo (ID. 58514289, págs. 4/5). Além do mais, o gasto com combustível é inerente a qualquer veículo, de modo que ainda que o autor se utilizasse do seu veículo durante o período alegado, teria que arcar com tal despesa.
+
+12. No mesmo sentido, não houve demonstração mínima de que o autor teve gastos superiores com combustível em razão do defeito de seu veículo. Isso porque os comprovantes de abastecimento dos meses de setembro e outubro de 2023, que compreendem período de defeito e conserto do veículo, se assemelham tanto no período de abastecimento quanto no valor total com a despesa. No mês de setembro, o autor teria pagado R$ 1.210,17 (mil duzentos e dez reais e dezessete centavos), sendo que entre o primeiro e último abastecimento decorreram 14 dias (02/09/2023 a 16/09/2023); no mês de outubro, o autor teria pagado R$ 1.214,39 (mil duzentos e quatorze reais e trinta e nove centavos), sendo que entre o primeiro e o último abastecimento decorreram 17 dias (1º/10/2023 a 18/10/2023) (ID 58514286). Não bastasse, não há qualquer indicativo nos autos no sentido de que o autor teria percorrido a mesma quilometragem diária com o carro durante os períodos.
+
+13. Nesse contexto, diante da inexistência de indícios de prova, devem ser decotados do valor fixado na sentença (R$ 4.585,43) os supostos gastos relativos ao repasse de despesas de combustível para utilizar veículo de amigos e familiares (R$ 245,00) e dos alegados gastos superiores com combustível em razão do defeito de seu veículo (R$ 814,00), de modo que a indenização por danos materiais deve ser definida em R$ 3.526,43 (três mil quinhentos e vinte e seis reais e quarenta e três centavos).
+
+14. Por fim, o autor não apontou situação capaz de ultrapassar o mero aborrecimento, razão pela qual, em que pese, a requerida ter agido de forma omissa na reparação do veículo, não restaram configurados os danos morais alegados. Quanto ao ponto, ressalta-se que, de acordo com a própria narrativa autoral, a parte recorrida não ficou sem meio de transporte e reparou o veículo rapidamente. Portanto, a reforma da sentença quanto ao ponto é medida que se impõe.
+
+15. Nesse sentido, colhem-se os seguintes julgado desse Tribunal de Justiça: JUIZADO ESPECIAL CÍVEL. COMPRA E VENDA DE VEÍCULO USADO. IMPOSSIBILIDADE DE PERÍCIA SOBRE VEÍCULO JÁ REPARADO. PERDA DO OBJETO DA PERÍCIA. ALEGAÇÃO DE VÍCIO OCULTO. TRATATIVAS POR WHATSAP E TRANSFERÊNCIA DO VEÍCULO NO MESMO DIA DA APRESENTAÇÃO DO VÍCIO. VÍCIO REDIBITÓRIO. DANOS MATERIAIS. CONSERTO DO MOTOR. RESPONSABILIDADE CIVIL. INDENIZAÇÃO DO REPARO. AUSÊNCIA DE DANOS MORAIS. (...) 6. Não foi demonstrada a ocorrência de maiores consequências que pudessem macular a dignidade e a honra do Autor, muito menos que ele tenha sido submetido à situação vexatória ou constrangimento capaz de afetar os atributos de sua personalidade. No caso, não se verificam danos morais indenizáveis, uma vez que se tratou apenas de dissabor inerente ao desacordo contratual. Cabe ressaltar que o Autor reparou o veículo rapidamente, pelo que não ficou sem meio de locomoção. (...) (Acórdão 1825024, 07015889320238070011, Relator(a): RITA DE CÁSSIA DE CERQUEIRA LIMA ROCHA, Primeira Turma Recursal, data de julgamento: 1/3/2024, publicado no DJE: 18/3/2024. Pág.: Sem Página Cadastrada.) e RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. CONSUMIDOR. VENDA DE VEÍCULO USADO. REVELIA. VÍCIO OCULTO.  PRESUNÇÃO DE VERACIDADE DOS FATOS NARRADOS. AUSÊNCIA DE FATO IMPEDITIVO. DANOS MATERIAIS DEVIDOS. DANOS MORAIS. NÃO CONFIGURADOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (...) 13. O dano moral é a ofensa ou violação da esfera extrapatrimonial da pessoa física ou jurídica. É configurado quando há violação à liberdade, honra, saúde mental ou física, imagem ou quando imprimem sofrimento ou abalo psíquico relevante. O defeito, por si só, não é suficiente para caracterizar o dano moral. No presente caso, não há enquadramento na hipótese de ofensa moral presumida (in re ipsa) decorrente do nexo causal entre a conduta e o dano, porquanto, ainda que tenha ocorrido o defeito na prestação de serviço e apesar da responsabilidade objetiva da empresa requerida, não verificada situações aptas a extrapolar aborrecimento cotidiano. Cuida-se de dissabor inerente à convivência em sociedade. (...) (Acórdão 1787553, 07086085320238070006, Relator(a): SILVANA DA SILVA CHAVES, Segunda Turma Recursal, data de julgamento: 20/11/2023, publicado no DJE: 29/11/2023. Pág.: Sem Página Cadastrada).
+
+16. RECURSO CONHECIDO E PARCIALMENTE PROVIDO para, reformando em parte a sentença, fixar a indenização por danos materiais em R$ 3.526,43 (três mil quinhentos e vinte e seis reais e quarenta e três centavos) e julgar improcedentes os pedidos de reparação por danos morais. Sem condenação em honorários advocatícios, em razão da ausência de recorrente vencido.
+
+17. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência da Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO EM PARTE. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 18 de Julho de 2024
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO EM PARTE. UNÂNIME.
