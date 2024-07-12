@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado de Minas Gerais, em face do acórdão do Tribunal de Justiça Estadual assim ementado:
+
+    “APELAÇÃO - CONSTITUCIONAL E PREVIDENCIÁRIO - SERVIDORA PÚBLICA - APOSENTADORIA VOLUNTÁRIA - PARIDADE E INTEGRALIDADE - TEMPO DE CARREIRA E DE EFETIVO EXERCÍCIO NO CARGO - REQUISITOS PREENCHIDOS - MANUTENÇÃO DO REGIME JURÍDICO PRETENDIDO - REVISÃO DE PROVENTOS DEVIDA - REFLEXOS PECUNIÁRIOS - DANOS MORAIS NÃO CARACTERIZADOS - RECURSO PARCIALMENTE PROVIDO - Em se considerando que a servidora, ora apelante, contou com 6.232 dias de exercício na carreira, bem assim com 5.701 dias de exercício no cargo em que se deu a aposentação, é certo que suplantou os requisitos constitucionais do inciso IV, do ad. 61 , da Emenda Constitucional n° 41/2003. - Preenchidos os requisitos estabelecidos pelo artigo 6 1 , da EC n. 4112003, faz jus a servidora à integralidade e à paridade de seus proventos de aposentadoria aos vencimentos do cargo que ocupava quando de sua passagem para a inatividade. Precedentes. - Reconhecido o direito aspirado, a condenação do réu ao pagamento das diferenças apuradas desde o ato de aposentação, ocorrido dentro do quinquênio legal contado do ajuizamento da ação, é medida que se impõe. - A ausência dos autos de qualquer demonstração de excesso de poder ou desvio de finalidade na prática do ato administrativo atacado, bem como de grave abalo psíquico decorrente da implementação da vergastada aposentação, desautorizam a condenação do réu à reparação de danos morais. - Recurso parcialmente provido. Pedido inicial julgado procedente em parte.”
+
+    Submetido a juízo de retratação, assim decidiu a Corte a quo:
+
+    “JUÍZO DE RETRATAÇÃO - CONSECTÁRIOS LEGAIS - LEI N. 11.960/09 - TEMA N. 905, DO STJ, SEDIMENTADO À LUZ DO TEMA N. 810, DO STF - EC N. 113/2021 - INCIDÊNCIA, UMA ÚNICA VEZ, ATÉ O EFETIVO PAGAMENTO, DO ÍNDICE DA SELIC - RETRATAÇÃO EXERCIDA - Nos termos do entendimento sedimentado pelo Supremo Tribunal Federal (Tema n. 810), bem assim pelo Superior Tribunal de Justiça (Tema n. 905), a incidência concreta dos ditames da Lei n. 9.494/97, com a redação da Lei n. 11.960/09, impõe a correção do débito pela variação do IPCA-E e o cômputo dos juros da caderneta de poupança. - A partir da entrada em vigor da Emenda Constitucional n. 113/2021, que determinou a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), os juros e correção monetária deverão ser calculados, exclusivamente, com fulcro no referido índice. - Retratação exercida.”
+
+    Na minuta, sustenta-se violação dos arts. 6º da EC nº 41/2003, e 3º da EC nº 47/2005.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que o entendimento adotado no acórdão recorrido está alinhado à jurisprudência desta Suprema Corte, no sentido de que “prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela Corte no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma” (Tema nº 810). Nesse sentido:
+
+    “QUATRO EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. REJEIÇÃO. REQUERIMENTO DE MODULAÇÃO DE EFEITOS INDEFERIDO. 1. O acórdão embargado contém fundamentação apta e suficiente a resolver todos os pontos do Recurso Extraordinário. 2. Ausentes omissão, contradição, obscuridade ou erro material no julgado, não há razão para qualquer reparo. 3. A respeito do requerimento de modulação de efeitos do acórdão, o art. 27 da Lei 9.868/1999 permite a estabilização de relações sociais surgidas sob a vigência da norma inconstitucional, com o propósito de prestigiar a segurança jurídica e a proteção da confiança legítima depositada na validade de ato normativo emanado do próprio Estado. 4. Há um juízo de proporcionalidade em sentido estrito envolvido nessa excepcional técnica de julgamento. A preservação de efeitos inconstitucionais ocorre quando o seu desfazimento implica prejuízo ao interesse protegido pela Constituição em grau superior ao provocado pela própria norma questionada. Em regra, não se admite o prolongamento da vigência da norma sobre novos fatos ou relações jurídicas, já posteriores à pronúncia da inconstitucionalidade, embora as razões de segurança jurídica possam recomendar a modulação com esse alcance, como registra a jurisprudência da CORTE. 5. Em que pese o seu caráter excepcional, a experiência demonstra que é próprio do exercício da Jurisdição Constitucional promover o ajustamento de relações jurídicas constituídas sob a vigência da legislação invalidada, e essa CORTE tem se mostrado sensível ao impacto de suas decisões na realidade social subjacente ao objeto de seus julgados. 6. Há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate. Prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma. 7. As razões de segurança jurídica e interesse social que se pretende prestigiar pela modulação de efeitos, na espécie, são inteiramente relacionadas ao interesse fiscal das Fazendas Públicas devedoras, o que não é suficiente para atribuir efeitos a uma norma inconstitucional. 8. Embargos de declaração todos rejeitados. Decisão anteriormente proferida não modulada” (RE 870947 ED, Rel. Min. Luiz Fux, Relator p/ acórdão: Min. Alexandre de Moraes, Tribunal Pleno, DJe 03.02.2020).
+
+    No mesmo sentido:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONDENAÇÃO DA FAZENDA PÚBLICA. TEMA 810. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. 1. O acórdão recorrido não diverge da jurisprudência sedimentada pelo Plenário do Supremo Tribunal Federal, no julgamento do RE 870.947-RG, Tema 810. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1.368.162-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 13.10.2022).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. CORREÇÃO MONETÁRIA. IPCA-e. TEMA 810. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1. Ao decidir pela aplicação do IPCA-e como índice de correção monetária, o acórdão recorrido está alinhado à jurisprudência desta CORTE firmada no julgamento do RE 870.947-RG, Tema 810, da sistemática da Repercussão Geral, relativamente aos juros e à correção monetária nas condenações da Fazenda Pública. 2. Agravo Interno a que se nega provimento.” (RE 826.881-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 08.03.2022).
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 12 de julho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
