@@ -1,0 +1,61 @@
+Habeas corpus. Furto. Nulidade. Supressão de instância. Prisão preventiva. Garantia da ordem pública. Fundamentação idônea. Prisão domiciliar. Reexame de acervo fático-probatório. Inviabilidade. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+    Trata-se de habeas corpus impetrado em favor de Brenda Costa da Silva contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no RHC 196.678/SC (evento 5).
+
+    A Paciente foi presa preventivamente pela suposta prática do crime de furto, tipificado no art. 155, § 4º, IV, do Código Penal (evento 3).
+
+    No presente writ, a Defesa sustenta nulidade processal ante a ausência de comunicação ao corréu do direito ao silêncio, o que culminou na prisão da paciente. Assevera que o delito foi praticado sem violência ou grave ameaça e que a res furtiva foi restituída. Aduz que não estão presentes os requisitos autorizadores da prisão preventiva e que a referida medida é desproporcional. Assevera que a paciente é responsável pelos cuidados de três filhos menores. Requer a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas.
+
+    É o relatório. Decido.
+
+    Extraio do ato dito coator (evento 5):
+
+    “AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FURTOS QUALIFICADOS. PRISÃO PREVENTIVA. NULIDADE DA PROVA. TESE NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO IDÔNEA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. DESPROPORCIONALIDADE DA PRISÃO. ANÁLISE INVIÁVEL NESSE MOMENTO. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS. DESCUMPRIMENTO ANTERIOR. IMPOSSIBILIDADE.
+
+    1. A questão referente à nulidade da prova não foi suscitada ou examinada na origem, de modo que não cabe a esta Corte se manifestar sobre o tema, para não incorrer em indevida supressão de instância.
+
+    2. Estando o decreto prisional fundamentado na reiteração delitiva, pois a agravante é reincidente na prática de furtos, não há manifesta ilegalidade.
+
+    3. Tendo sido indeferida a substituição da prisão preventiva por domiciliar com a indicação de situação excepcionalíssima, nos termos previstos no art. 318-A do CPP, haja vista que "estava em regime semiaberto domiciliar e foi agraciada com o indulto em 6-3-2024 (SEEU 80000484320198210017), expedindo-se alvará de soltura no dia seguinte. Aparentemente, tão logo foi posta em liberdade, decidiu que cometeria o mesmo tipo de crime", não há manifesta ilegalidade.
+
+    4. Agravo regimental improvido.”
+
+    A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe 12.04.2019).
+
+    Quanto à alegada ocorrência de nulidade processual, verifico que a matéria não foi objeto de pronunciamento conclusivo no âmbito do Superior Tribunal de Justiça, o que torna inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância.
+
+    Ao negar provimento ao agravo regimental, o Superior Tribunal de Justiça deixou de analisar a tese defensiva ao fundamento de que “[q]uanto à tese de nulidade da prova, vê-se que tal matéria não foi alegada na origem, de modo que não cabe a esta Corte se manifestar sobre o tema, sob pena de incorrer em indevida supressão de instância”.
+
+    Nesse contexto, o acórdão recorrido está em consonância com a jurisprudência desta Suprema Corte no sentido de que “A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante o Tribunal a quo. Precedentes: HC nº 100.595, Segunda Turma, Rel. Min. Ellen Gracie, DJe de 9/3/2011, HC nº 100.616, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe de 14/3/2011, HC nº 103.835, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 8/2/2011, HC 98.616, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 22/02/2011” (HC 167.096-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 08.5.2019).
+
+    Ressalto que, assentada a supressão de instância pelo STJ, não cabe a esta Suprema Corte a análise originária do tema. Portanto, a solução do acórdão recorrido não diverge da jurisprudência desta Casa, a qual refuta a análise de matérias não apreciadas pelas instâncias antecedentes. Nesse linha, os seguintes precedentes: HC 230.288-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 06.10.2023; HC 218.704-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 26.10.2022; HC 213.084-ED-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 02.6.2022; e HC 198.413-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 25.6.2021.
+
+    Lado outro, quanto à prisão preventiva da paciente, revelam os autos que a paciente foi presa em flagrante delito, convertido o título em prisão preventiva, pela suposta prática do crime de furto qualificado. O decreto prisional encontra-se assim fundamentado: “(...) Concernente à necessidade da prisão cautelar, denota-se do relatório da autoridade policial e da certidão de antecedentes criminais que os conduzidos Brenda e Eduardo são useiros e vezeiros em práticas delitivas (furtos), sendo inclusive reincidentes, conforme certidões do evento 4. Além disso, segundo noticia o caderno indiciário, os conduzidos residem em outro Estado da federação (Rio Grande do Sul), deslocando-se até este Estado apenas para a prática delitiva (a condenação anterior foi, a propósito, na cidade de Florianópolis), com o que se denota maior gravidade e periculosidade e é situação que implica necessidade da prisão cautelar para garantir a ordem pública. Medidas cautelares, tais como a postulada pela douta Defesa, são incabíveis nas hipóteses de reiteração criminosa. Quanto à manifestação do ilustre Dr. Vladmir, Procurador da conduzida Brenda, entendo que o fato de possuir filhos menores em idade escolar não justifica, por si só, a liberdade provisória, uma vez que este fato (filhos menores) não a impediu de deixá-los no Estado de origem para vir a praticar furtos no Estado de Santa Catarina (evento 3).”
+
+    O decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura colocará em risco a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal, à luz do art. 312 do CPP, e desde que igualmente presentes prova da materialidade do delito e indícios suficientes da autoria.
+
+    Ao manter a prisão preventiva, o Superior Tribunal de Justiça assentou que “o decreto prisional corrobora com a jurisprudência do STJ, pois nele consta que a custódia cautelar da agravante é necessária diante do risco concreto de reiteração criminosa, tendo sido apontado que a ora agravante é reincidente na prática de furtos” (evento 5).
+
+    Nesse contexto, se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a gravidade em concreto do crime, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Nesse sentido: HC 212.682-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 18.4.2022; HC 210.384-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 31.5.2022; HC 213.022-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 02.6.2022; HC 216.608-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 19.8.2022; e HC 228.256-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 08.11.2023.
+
+    Além dos precedentes mencionados, destaco, ainda, os seguintes: "O entendimento do Supremo Tribunal Federal é no sentido de que a gravidade concreta do crime, a periculosidade do agente, o risco concreto de reiteração criminosa e a necessidade de impedir a interferência do acusado no regular desenvolvimento da instrução criminal constituem fundamentação idônea para a decretação da custódia preventiva. Precedentes.” (HC 225.241-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.04.2023); “É idônea a prisão cautelar fundada na garantia da ordem pública quando evidenciada a gravidade concreta da ação criminosa ou demonstrada a periculosidade social do agente a partir do modo como desenvolveu a conduta delitiva” (HC 216.598-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 26.10.2022); “A decretação da custódia preventiva para garantia da ordem pública que tem como fundamento a gravidade concreta do crime, evidenciada pelo modus operandi da conduta, bem como pelo risco de reiteração delitiva, encontra amparo na jurisprudência desta Corte” (HC 218.475-AgR-segundo, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.11.2022).
+
+    Ademais, no tocante à alegada possibilidade de prisão domiciliar, o Ministro Relator no Superior Tribunal de Justiça fundamentou que “(....) houve o indeferimento da substituição da prisão preventiva por domiciliar com a indicação de situação excepcionalíssima, nos termos previstos no art. 318-A do CPP, haja vista que "estava em regime semiaberto domiciliar e foi agraciada com o indulto em 6-3-2024 (SEEU 80000484320198210017), expedindo-se alvará de soltura no dia seguinte. Aparentemente, tão logo foi posta em liberdade, decidiu que cometeria o mesmo tipo de crime", não havendo manifesta ilegalidade.” (evento 5).
+
+    Nesse sentido, destaco a jurisprudência desta Suprema Corte “‘A existência, por si só, de filho menor não é suficiente ao reconhecimento do direito à prisão domiciliar, devendo-se observar os requisitos autorizadores da medida artigo 318-A do Código de Processo Penal.’ (HC 174.265, Rel. Marco Aurélio, Primeira Turma, DJe de 31.01.2020). E ainda, “o Supremo tem validado a não concessão do benefício previsto nos arts. 318 e 318-A do Código de Processo Penal, desde que ausentes os requisitos legais ou fundamentada a excepcionalidade”. Aponto o julgado:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. IDONEIDADE DA PRISÃO PREVENTIVA DECRETADA EM DESFAVOR DE SUPOSTO INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. PRETENDIDA CONCESSÃO DE PRISÃO DOMICILIAR. FUNDAMENTADA EXCEPCIONALIDADE APTA A AFASTAR O BENEFÍCIO PREVISTO NOS ARTS. 318 E 318-A DO CÓDIGO DE PROCESSO PENAL. HABEAS CORPUS INDEFERIDO. 1. É idônea a decisão que decreta a prisão preventiva em razão de ser o agravante, supostamente, integrante de organização criminosa. 2. É possível conceder liberdade provisória ou prisão domiciliar ao preso provisório que seja pai e o único responsável pelos cuidados de crianças ou pessoas portadores de necessidades especiais, “desde que não tenha cometido crime com grave violência ou ameaça ou, ainda, contra a sua prole” (HC 165.704, ministro Gilmar Mendes). 3. O Superior Tribunal de Justiça ressaltou, no caso, “não haver demonstração da imprescindibilidade do recorrente aos cuidados da criança, tendo em vista a ausência de comprovação de que seria seu único responsável”. 4. Esta Corte tem validado a não concessão do benefício previsto nos arts. 318 e 318-A do Código de Processo Penal desde que, como é o caso, fundamentada a excepcionalidade. 5. Agravo interno desprovido.” (HC 201.929 AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, DJe 02.12.2021)
+
+    Nesse contexto, para concluir em sentido diverso das instâncias anteriores, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Esta Suprema Corte já assentou que “A ação de ‘habeas corpus’ – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal” (HC 92.887/GO, Rel. Min. Celso de Mello, Segunda Turma, DJe 19.12.2012).
+
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 12 de julho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
