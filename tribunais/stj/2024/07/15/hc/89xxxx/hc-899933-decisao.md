@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Eduardo Bitencourt Wayego, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo nos autos do recurso de Apelação Criminal n. 1500536-43.2022.8.26.0558.
+Consta do processo que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 5 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (fls. 246 ). Foram apreendidos 11,08 gramas de cocaína (fl. 126).
+A Corte de origem negou provimento ao apelo defensivo (fl. 345/359).
+Neste writ, a impetrante busca a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, à fração de 2/3, termos em que pede, inclusive liminarmente, a concessão da ordem de habeas corpus, pois a causa de diminuição teria sido afastada tão somente em virtude da existência de outro processo criminal em curso em desfavor do paciente, no qual sobreveio absolvição (fl. 15).
+O pedido liminar foi indeferido (fls. 648/649).
+O Ministério Público Federal manifestou-se pela concessão da ordem de habeas corpus (fls. 652/657).
+É o relatório.
+Com efeito, a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi indeferida porque o paciente ostentava, à época da sentença, ação penal em andamento (fls. 244/245), o que foi mantido pelo Tribunal de Justiça (fl. 355).
+Com relação às ações penais em andamento, registro que a Suprema Corte consignou que, na ausência das demais situações impeditivas da causa de diminuição da pena, tão somente a existência de ações penais sem trânsito em julgado não pode justificar a negativa de minorante, na esteira do entendimento, firmado sob a sistemática da repercussão geral, de que, ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais (RE 591.054, Tema n. 129, Ministro Marco Aurélio, PLENO, DJe 26/02/2015).
+A referida matéria foi pacificada nesta Corte Superior de Justiça, por ocasião do julgamento dos Recursos Especiais n. 1.977.027/PR e 1.977.180/PR, realizado em 10/08/2022, sob o rito dos recursos especiais repetitivos (Tema n. 1.139), ocasião em que a Terceira Seção firmou a seguinte tese: É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/06.
+Registro, ainda, que a Terceira Seção do Superior Tribunal de Justiça, em 27/04/2022, no julgamento do HC n. 725.534/SP, de relatoria do Ministro Ribeiro Dantas, reafirmou o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação do redutor especial.
+Na oportunidade, foi ressalvada a possibilidade de valoração de tais elementos, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos e desde que não tenham sido considerados na primeira fase do cálculo da pena.
+No caso, todavia, a quantidade de droga apreendida não extrapola aquela normal ao tipo penal, de modo que não tem o condão de justificar a incidência de fração diversa da máxima prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Fixadas essas premissas, passo a redimensionar as penas do paciente.
+Na primeira fase, mantenho a pena-base no mínimo legal, qual seja: 5 anos de reclusão e 500 dias-multa (fl. 245).
+Na segunda fase, embora reconhecida a confissão espontânea (fl. 245), a pena intermediária permanece no mínimo legal, em razão da Súmula 231/STJ.
+Na terceira fase, aplico a causa especial de diminuição de pena no patamar de 2/3. Assim, na ausência de causas de aumento, fica estabelecida a reprimenda definitiva do paciente em 1 ano e 8 meses de reclusão, e 166 dias-multa.
+No tocante ao regime inicial de cumprimento de pena, considerando as circunstâncias apreciadas na formulação da nova dosimetria, tendo sido estabelecida pena reclusiva de 1 ano e 8 meses e a ausência de circunstâncias judiciais negativas, o regime inicial de cumprimento de pena adequado é o aberto, nos termos do art. 33, §§ 2º e 3º, c/c o art. 59, ambos do Código Penal.
+Cumpre, ainda, consignar que a Suprema Corte, nos autos do HC n. 97.256/RS, julgou inconstitucional a vedação contida no § 4º do art. 33 e, também, no art. 44 da Lei n. 11.343/2006, resultando na edição da Resolução n. 5/2012 do Senado, na qual foi suspensa a execução da parte final do art. 33, § 4º, da Lei n. 11.343/2006.
+A partir de tal orientação e diante da fundamentação já utilizada para fixar o regime inicial aberto, não se justifica o indeferimento de substituição da pena privativa de liberdade por medidas restritivas de direitos.
+Ante o exposto, concedo a ordem de habeas corpus para, reformando o acórdão impugnado, reduzir as penas do paciente a 1 ano e 8 meses de reclusão, e 166 dias-multa e, por conseguinte, fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas penas restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique- se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. POSSIBILIDADE DE INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÁXIMA. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS.
+Ordem concedida .
