@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se recurso especial interposto por NORSA REFRIGERANTES S.A, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/AL.
+Recurso especial interposto em: 17/06/2022.
+Concluso ao Gabinete em: 20/06/2024.
+Ação: de reparação de danos materiais e compensação de danos morais, ajuizada por JOAO CAVALCANTE DE LIMA FILHA, em desfavor da recorrente, em virtude da constatação da presença de corpo estranho em refrigerante adquirido para consumo.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrido, a fim de reformar a sentença para julgar parcialmente procedentes os pedidos formulados na petição inicial, condenando a recorrente ao pagamento de R$ 4,89 (quatro reais e oitenta e nove centavos), a título de danos materiais, e R$ 2.000,00 (dois mil reais) a título de danos morais. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. CONSUMIDOR. APLICAÇÃO DE NORMA DO CÓDIGO DE DEFESA DO CONSUMIDOR. AQUISIÇÃO DE REFRIGERANTE. CORPO ESTRANHO DETECTADO. LÍQUIDO NÃO CONSUMIDO. IRRELEVÂNCIA. EXPOSIÇÃO DO CONSUMIDOR AO POTENCIAL RISCO CONCRETO DE LESÃO. INTELIGÊNCIA DO ART. 12 DO CÓDIGO DE DEFESA DO CONSUMIDOR. FATO DO PRODUTO. RESPONSABILIDADE OBJETIVA. DANOS MORAIS E MATERIAIS CONFIGURADOS.
+01 - Segundo o Código de Defesa do Consumidor em seu art.12 preceitua , "o produto é defeituoso quando não oferece a segurança que dele legitimamente se espera (..), levando-se em consideração (..) o uso e os riscos" razoavelmente esperados (art. 12, § 1º, II, CDC). Em outras palavras, há defeito - e, portanto, fato do produto - quando oferecido risco dele não esperado, segundo o senso comum e sua própria finalidade. Assim, a hipótese não é de mero vício (o qual, como visto, não congrega um fato extrínseco; na espécie, consubstanciado no risco oferecido).
+02 - A simples comercialização de produto de gênero alimentício contendo corpo estranho possui as mesmas consequências negativas à saúde e à integridade física do consumidor que sua ingestão propriamente dita.
+04 - A indenização por dano moral deve ser graduada de modo a coibir a reincidência e obviamente o enriquecimento da vítima e para sua fixação, exige-se a observância às condições econômicas e sociais dos envolvidos, bem como a gravidade da falta cometida, na busca por uma reparação repressiva e pedagógica, que proporcione uma justa compensação pelo dano sofrido, tudo em observância aos princípios da razoabilidade e da proporcionalidade, atinando para as peculiaridades de cada caso concreto.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME (e-STJ fls. 202-203).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 320, 373, 434 do CPC; 2º, 12, 18 do CDC; 186, 927 e 944 do CC, bem como dissídio jurisprudencial. Sustenta que não há que se falar em compensação de danos morais na espécie, uma vez que não houve a ingestão do produto.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A jurisprudência do STJ se posicionou no sentido de que a constatação, em concreto, da existência de corpo estranho totalmente distinto do produto adquirido cuja ingestão, manuseio e utilização seja comprovadamente capaz de causar risco e lesão à saúde ou incolumidade física do consumidor, por violar o dever de qualidade e segurança alimentar, enseja indenização por danos morais, ainda que não haja a ingestão do referido produto. Nesse sentido: REsp n. 1.899.304/SP, Segunda Seção, DJe de 4/10/2021; e AgInt nos EREsp 1.876.046/PR, Segunda Seção, DJe de 21/2/2022.
+Dessa forma, o TJ/AL, ao concluir ser incontroversa a aquisição do produto com corpo estranho e condenar a recorrente à compensação dos danos morais, alinhou-se à jurisprudência desta Corte.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da condenação (e-STJ fl. 216) para 15% (quinze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E INCOLUMIDADE FÍSICA E PSIQUÍCA. FATO DO PRODUTO. INSEGURANÇA ALIMENTAR. EXISTÊNCIA DE DANO MORAL MESMO QUE NÃO INGERIDO O PRODUTO. SÚMULA 568/STJ.
+1. Ação de reparação de danos materiais e compensação de danos morais, em virtude da constatação da presença de corpo estranho em refrigerante adquirido para consumo.
+2. A constatação, em concreto, da existência de corpo estranho totalmente distinto do produto adquirido cuja ingestão, manuseio e utilização seja comprovadamente capaz de causar risco e lesão à saúde ou incolumidade física do consumidor, por violar o dever de qualidade e segurança alimentar, enseja indenização por danos morais, ainda que não haja a ingestão do referido produto.
+3. Recurso especial conhecido e não provido.
