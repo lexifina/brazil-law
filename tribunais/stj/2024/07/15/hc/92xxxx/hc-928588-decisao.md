@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FERNANDO JOSE DE MORAES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente possui duas condenações, uma no Processo n. 0001651-88.2011.8.26.0420, da Comarca de Avaré/SP, pela prática dos crimes previstos nos arts. 157, § 2º, I, II e V, e 288, parágrafo único, do Código Penal, e outra na Ação Penal n. 0005323-09.2011.8.26.0581, da Comarca de São Manuel/SP, pela prática dos crimes previstos nos arts. 157, § 2º, I e II, por duas vezes, e 288, parágrafo único, do Código Penal.
+A impetrante sustenta que as duas condenações foram proferidas pelos mesmos fatos, alegando que se trata de (fl. 10):
+ ..  clara litispendência, devendo ser reconhecida a nulidade da sentença especificamente do art. 288, parágrafo único do CP., deste processo 0005323-09.2011.8.26.0581, da Comarca de São Manuel /SP, cuja condenação foi confirmada pela 6ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, devendo prevalecer sentença aplicada nos autos do processo 0001651-88.2011.8.26.0420, da Comarca de Avaré/SP, que tramitou pela Vara Criminal única da cidade de Paranapanema/SP, sendo mantida pela 11ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo já que a decisão de primeira instância bem como seu trânsito em julgado ocorreram primeiro.
+Requer, em pedido liminar e no mérito, seja anulada a sentença condenatória proferida no Processo n. 0005323-09.2011.8.26.0581, da Comarca de São Manuel/SP, referente ao crime previsto no art. 288, do Código Penal, mantendo-se as decisões de primeira e segunda instância proferidas na Ação Penal n. 0001651-88.2011.8.26.0420, da Comarca de Avaré/SP.
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi apreciada no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022, grifo acrescido)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
