@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WERISSON DAMACENO CONCEICAO, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o paciente se encontra preso desde 21/5/2024, por força de prisão preventiva, decretada no curso da Operação "Fogo Amigo" em que se buscou investigar supostas ocorrências dos crimes previstos nos arts. 2º, §2º e §4º, II e IV, da Lei n. 12.850/2013 e art. 17 da Lei n. 10.826/2003.
+O impetrante sustenta a existência de flagrante ilegalidade na manutenção do paciente no cárcere, apta a justificar a mitigação do óbice descrito na Súmula n. 691 do Supremo Tribunal Federal, tendo em vista que o decreto constritivo estaria embasado exclusivamente na gravidade abstrata do delito.
+Aduz que não estariam presentes os requisitos da prisão preventiva, bem como que a medida extrema não seria contemporânea à data dos fatos.
+Reclama que a Corte Estadual não poderia complementar os fundamentos que deram base ao decreto de prisão.
+Defende que faria jus à extensão dos efeitos da decisão que concedeu a liberdade provisória a alguns corréus.
+Afirma, ainda, que "o paciente demonstrou fazer jus à concessão da prisão domiciliar humanitária, em razão de possuir um filho de quatro anos de idade, além de mãe idosa com doenças crônicas, sendo o responsável pelos cuidados de ambos" (fl. 13).
+Argumenta que as providências cautelares alternativas seriam suficientes e adequadas à hipótese.
+Assevera ainda que, sem qualquer motivação, no dia 8/7/2024 o paciente foi transferido ao Conjunto Penal de Feira de Santana o qual, além de ser distante do seu domicílio, "nada se relaciona à competência processual de Juazeiro,  .. , o que viola os direitos basilares do detento e sua família, além dos princípios norteadores da privação de liberdade -a reinserção social"(fl. 17).
+Requer, liminarmente e no mérito, a revogação e/ou o relaxamento da prisão preventiva, ainda que mediante a incidência de medidas cautelares mais brandas ou, subsidiariamente, que seja deferido o recolhimento domiciliar, nos termos do art. 318, III e VI, do Código de Processo Penal.
+Alternativamente, caso as primeiras pretensões não sejam acolhidas, pleiteia o recambiamento do custodiado para o "Conjunto Penal de Eunápolis, presídio mais próximo ao seu domicílio e núcleo social e familiar " (fl. 19).
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, sobretudo considerando o teor do seguinte trecho da decisão impetrada (fls. 237-239):
+É sabido que a prisão cautelar possui como um dos seus requisitos o fumus commissi delicti, ou seja, a prova da existência do crime e indícios suficientes de autoria - probabilidade da ocorrência de um delito, requisito, em princípio, preenchido em face da vestibular acusatória registrar que o Paciente Werisson Damasceno Conceição seria o principal responsável pelo envio e recebimento de armas de fogo nas cidades de Eunápolis/BA e Porto Seguro/BA, de forma direta ou por intermédio de sua esposa, JAQUELINE SANTOS GOMES, com a interlocução de JOSENILDO DE SOUSA SILVA e HIAGO RODRIGUES DA CRUZ, podendo ser verificada a partir das Informações de Polícia Judiciária nº 32/2023- UIP/DPF/JZO/BA, nº 38/2023-UIP/DPF/JZO/BA enº 003/2024 - UIP/DPF/JZO/BA.
+Ademais, o mesmo Paciente, ao que se apurou nos autos investigativos, teria realizado 25 (vinte e cinco) transações, via pix para Hiago/Josenildo no expressivo montante de R$ 77.150,00 (setenta e sete mil e cento e cinquenta) reais, sem contar ainda, que sua esposa Jaqueline Santos Gomes, também teria realizado envios de numerários para tais elementos, a fixar valor de R$ 108.910,00 (cento e oito mil, novecentos e dez) reais.
+Ao depois, a análise do perigo que decorre do estado de liberdade da Paciente (Periculum Libertatis) está presente, em face do seu possível envolvimento comercial em negociações ilícitas de armas de fogo e munições e da possível integração à Orcrim, em apuração (Policia Federal e GAECO), havendo inclusive, prova preliminar de que ele próprio negociava as armas e munições com Josenildo (provável responsável pelo envio de armas de fogo das cidades de Eunápolis-BA e Porto Seguro-BA para Juazeiro-BA destinadas aos investigados HIAGO e JOSENILDO - id. 64813293) e as recebia para venda à possíveis terceiras pessoas (cabeça e Sc Flamenguista).
+ ..
+Ao derradeiro, no tocante ao pedido de prisão domiciliar, não restou provado que o filho menor e a genitora do paciente dependam, unicamente, dos seus cuidados e/ou que não estejam sendo assistidos por outros parentes.
+Assim, é prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
