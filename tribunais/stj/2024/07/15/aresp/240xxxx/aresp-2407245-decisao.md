@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual REGINA MARÍLIA PRADO MANSSUR se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 429):
+APELAÇÃO - RESPONSABILIDADE CIVIL - ESTADO DE SÃO PAULO - INDENIZAÇÃO - Pretensão indenizatória contra o Estado de São Paulo, em decorrência de assalto ocorrido na residência da autora - Improcedência decretada em primeira instância - Insurgência da autora - Não acolhimento - Não configurado nexo de causalidade entre a omissão estatal e os danos morais e materiais alegados - pela autora - Precedentes - Sentença mantida - Recurso improvido.
+Os embargos de declaração opostos foram acolhidos (fls. 466/470).
+Por sua vez, os segundos embargos de declaração opostos foram rejeitados (fls. 482/487).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 369, 370 e 1.022, II, do Código de Processo Civil (CPC), ao art. 927 do Código Civil (CC), assim como aos arts. 37, § 6º, e 144 da Constituição Federal (CF), sustentando, em síntese, que ocorrera cerceamento de defesa em seu desfavor, e que no caso em tela existira responsabilidade do Estado por insuficiência de segurança pública.
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 524/534).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Quanto à alegada afronta aos arts. 37, § 6º, e 144 da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF). A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020 - sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaques no original.)
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Observo que a parte recorrente não demonstrou, efetivamente, de que forma o art. 927 do CC teria sido violado pelo acórdão recorrido, o que atrai a aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF) - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO. INOCORRÊNCIA. PRINCÍPIO DA ACTIO NATA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA.
+ ..
+5. A alegação genérica de ofensa a dispositivo legal desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa de que forma o acórdão recorrido teria transgredido os dispositivos legais relacionados atrai a aplicação da Súmula 284 do STF.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.849.369/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2022, DJe de 10/5/2022.)
+Por fim, quanto à alegada violação aos arts. 369 e 370 do CPC, nos exatos termos do acórdão recorrido, a Corte local assim se manifestou (fls. 437/438):
+Inicialmente, não se vislumbra o cerceamento de defesa sustentado pela apelante.
+Com efeito, da leitura da r. sentença, observa-se que as teses arguidas pelas partes foram satisfatoriamente abordadas. Ademais, cumpre ressaltar ser cediça a prescindibilidade do esgotamento de todas as alegações aventadas; sendo suficiente, à luz do art. 489,parágrafo 1º, do Código de Processo Civil, a explicitação dos fundamentos nos quais se embasa a conclusão do julgado.
+De fato, como bem pontuado pelo Min. Franciulli Netto, "a função teleológica da decisão judicial é a de compor, precipuamente, litígios. Não é peça acadêmica ou doutrinária, tampouco se destina a responder a argumentos, à guisa de quesitos, como se laudo pericial fora. Contenta-se o sistema com a solução da controvérsia"(STJ, Embargos de Declaração no Agravo Regimental no Agravo nº 442.193/SP, DJe. 21/02/2005).
+Nessa toada, já se manifestaram a C. Corte Cidadã (Embargos de Declaração no Mandado de Segurança nº 21.315/DF, Rel. Min. Diva Malerbi, DJe. 15/06/2016) e esse E. Tribunal de Justiça (Embargos de Declaração nº 0002811-19.2011.8.76.0075/50000, Rel. Des. Osvaldo Magalhães, julgado em 04/02/2019).
+O Tribunal de origem reconheceu a ausência de cerceamento de defesa, tendo sido suficientemente abordadas as teses arguidas pelas partes do presente caso.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. VIOLAÇÃO AO ART. 489 DO CPC. NÃO OCORRÊNCIA. SERVIDOR CIVIL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. RECEBIMENTO DE VERBA INDEVIDA. CONFIGURAÇÃO. NULIDADE DO JULGAMENTO POR CERCEAMENTO DO DIREITO DE DEFESA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. ACÓRDÃO REGINAL COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o julgador que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a lide, apenas não acatando a tese defendida pela parte recorrente. Da leitura atenta do Voto condutor, nota-se que o Colegiado originário manifestou-se de maneira clara e embasada acerca das questões relevantes para a solução do conflito, inclusive daquelas que a parte alega terem sido omitidas. Por conseguinte, não houve ofensa ao art. 489 do CPC/2015.
+2. A orientação assentada no STJ é de que compete ao magistrado avaliar a pertinência das diligências que as partes pretendem realizar, segundo as normas processuais, e afastar o pedido de produção de provas se estas forem inúteis ou meramente protelatórias, ou, ainda, se ele já tiver firmado sua convicção, nos termos dos arts. 370 e 371 do CPC/2015 (arts. 130 e 131 do CPC/1973). Desse modo, os princípios da livre admissibilidade da prova e da persuasão racional autorizam o juiz a admitir as provas que repute necessárias ao deslinde da controvérsia e a indeferir aquelas consideradas prescindíveis. Logo, não se configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente apresentados, na instrução do feito, dados suficientes para a formação do convencimento. Súmula 7 do STJ.
+3. Observa-se que a questão suscitada no Recurso Especial foi decidida à luz dos princípios constitucionais da legalidade, da impessoalidade, da moralidade, da publicidade e da eficiência.
+Consequentemente, sua apreciação cabe ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição da República, e é inviável neo STJ, cuja competência está restrita à análise de temas vinculados à jurisdição ordinária.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.360.185/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/3/2024, DJe de 7/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ . PROVIMENTO NEGADO.
+ ..
+4. É entendimento sedimentado nesta Corte Superior de Justiça de que cabe ao juiz - entenda-se magistrado no sentido amplo, no primeiro ou no segundo grau -, na posição de destinatário da prova, determinar a produção das provas que considerar necessárias à formação do seu convencimento e indeferir aquelas irrelevantes ou protelatórias, sem que isso importe cerceamento de defesa ou violação ao comando normativo inserto nos arts. 369, 370, 371, 442, 464, 472 ou 479 do CPC/2015, de forma que o reexame da questão esbarraria no teor da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.136.746/SP, de minha relatoria, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. REDUÇÃO DA CAPACIDADE LABORATIVA. AUSÊNCIA. MATÉRIA FÁTICA. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+ ..
+2. A adoção de entendimento diverso quanto ao alegado cerceamento de defesa, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+ ..
+6. Agravo interno do particular a que se nega provimento.
+(AgInt no AREsp n. 1.989.457/SP, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5 -, Primeira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar a ele provimento.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
