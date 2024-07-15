@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de DANIEL NOGUEIRA CHAVES DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no julgamento da Apelação Criminal n. 1.0000.22.182862-7/001.
+O Tribunal de origem deu parcial provimento ao apelo defensivo para afastar a valoração negativa da quantidade e da natureza dos entorpecentes na 1ª fase dosimétrica, mantendo a pena final em 2 anos e 6 meses de reclusão, e 250 dias-multa, pela figura do tráfico privilegiado (coeficiente de 1/2).
+A DEFENSORIA PÚBLICA pugna pela incidência da causa especial de diminuição da pena no percentual máximo (2/3).
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório. Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei n. 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Efetivamente, é cediça a jurisprudência deste Superior Tribunal de Justiça no sentido de que "a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade" (HC n. 595.958/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020).
+Ou seja, a revisão da dosimetria em sede de habeas corpus "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 12/2/2015, DJe de 12/3/2015).
+No presente feito, observa-se que foi aplicada a minorante do art. 33, § 4º, da Lei n. 11.343/2006, no percentual de metade, com base nas seguintes considerações (e-STJ fls. 325-326):
+Nessa esteira, é cediço que o art. 42 da Lei 11.343/06 impõe ao Juiz considerar, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da droga, na fixação das penas, o que não se restringe à fixação da pena-base, podendo ser tal parâmetro sopesado na avaliação da fração de redução mais adequada ao caso concreto quando da incidência da causa de diminuição disposta no §4º do art. 33 do diploma legal supracitado.
+ ..
+Pois bem. No caso em testilha, verifica-se que foi apreendida grande quantidade de droga na posse do réu, a saber: 261 (duzentos e sessenta e um) pinos de cocaína, pesando um total de 166,32g (cento e sessenta e seis gramas e trinta e dois centigramas).
+Frisa-se que tal entorpecente possui elevadíssimo potencial lesivo ao ser humano, o que, de fato, enseja um maior juízo de reprovabilidade em sua conduta.
+Desse modo, concluo que as circunstâncias do caso concreto desautorizam a aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei 11.343/06, em seu patamar máximo de redução, devendo ser mantida a fração intermediária de 1/2 (um meio).
+Além disso, o Tribunal de origem, atento à jurisprudência desta Corte Superior, reduziu a pena-base ao mínimo legal, deixando certo (e-STJ fl. 326):
+Na 1ª fase, o Juízo de 1ª instância fixou a pena-base no patamar de 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa, considerando desfavoráveis ao acusado a quantidade e a natureza do entorpecente apreendido.
+Todavia, entendo que não agiu com acerto o MM. Juiz singular, uma vez que tais circunstâncias já foram por ele utilizadas como critério para definição da fração redutora a ser adotada na terceira fase dosimétrica, em virtude do reconhecimento da minorante prevista no art. 33, §4º, da Lei de Tóxicos. Por isso, não é possível a utilização desses mesmos critérios para a exasperação da pena-base, sob risco de incorrermos em bis in idem.
+Assim sendo, inexistem elementos que permitam afirmar flagrante ilegalidade.
+Ante o exposto , não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
