@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual o ESTADO DE SÃO PAULO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 292):
+APELAÇÃO - RESPONSABILIDADE CIVIL - INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICOS - Policial militar fora de serviço, à paisana, que reage a tentativa de assalto dentro de um ônibus - Troca de tiros com assaltantes - Autor atingido por um dos disparos - Responsabilidade objetiva do Estado - Configuração - Entregando arma de fogo ao policial, responde o Estado pelos disparos por ele direcionados ou acidentais causadores de danos ao particular - Nexo etiológico reconhecido - Dano moral que emerge "in re ipsa" - Fixação em R$ 50.000,00 - Reparação material também devida pela redução parcial da capacidade laborativa - Arbitramento de pensão mensal vitalícia de um salário mínimo - Dano estético- Descabimento - Lesão estética passageira que não reclama indenização- Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (fls. 314/320).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 43, 186, 927 e 944 do Código Civil (CC), assim como ao art. 333, I, do Código de Processo Civil de 1973 e ao art. 1º-F da Lei 9.494/1997.
+Sustenta que (fls. 327/328)
+ ..  está comprovado nos autos que o policial encontrava-se à paisana, fora de serviço e reagiu por sua própria conta e risco a um assalto que se desenvolvia no interior do ônibus. Naquelas circunstâncias, o agente nada mais era do que um simples passageiro que se insurgiu contra a ação criminosa.
+Nessas condições fica afastada a responsabilidade civil do Estado, uma. vez que não se pode estabelecer nexo de causalidade entre o dano e a atividade desempenhada pelo Estado.
+Pondera que "a quantia livremente arbitrada pelo Tribunal não guarda correspondência com nenhum elemento de convicção constante dos autos e, por conseguinte, não encontra respaldo na extensão dos danos sofridos pelo autor" (fl. 329).
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fl. 364).
+O recurso especial teve seu seguimento negado no que diz respeito ao Tema 905 do Superior Tribunal de Justiça (STJ), e não foi admitido nos demais, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal (arts. 43, 186 e 927 do CC), é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem acolheu a pretensão autoral fundamentado na interpretação do art. 37, § 6º, da Constituição Federal, nestes termos (fls. 294/298):
+Assim, do cotejo dos elementos probatórios trazidos aos autos, não se pode deixar de concluir pela responsabilidade do Estado pelos danos suportados pelo autor. Como se sabe, a responsabilidade objetiva do Estado, baseada na Teoria do Risco Administrativo, decorre do mandamento constitucional previsto no artigo 37, § 6º, que assim dispõe:
+ ..
+Assim, as pessoas jurídicas de direito público respondem objetivamente pelos seus atos, praticados na pessoa de seus agentes, bastando, para tanto, que seja estabelecido um nexo de causalidade entre o ato e o dano causado. Nesse sentido é o ensinamento de Odete Medauar:
+ ..
+Deste modo, presente o dano, a conduta do Estado e o nexo de causalidade, de rigor a reparação civil, fundada na teoria da responsabilidade objetiva.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. OFENSA AO ART. 110 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TRIBUNAL DE ORIGEM, COM BASE NO PRINCÍPIO DA ISONOMIA, DECIDIU PELO ACERTO DO RECOLHIMENTO DA COMPLEMENTAÇÃO DO REFERIDO TRIBUTO. RAZÕES ASSENTADAS EM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO EM RECURSO ESPECIAL. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+ ..
+5. A tese de contrariedade ao art. 10 da Lei Complementar 87/1996 não pode ser analisada, porquanto a Corte local asseverou que, sob o regime da substituição tributária progressiva instituído pelo art. 150, § 7º, da CF/1988, o direito de restituição se limita aos casos em que o fato gerador presumido não se realiza. O aresto recorrido, portanto, possui fundamentos eminentemente constitucionais, cuja apreciação é de competência do Supremo Tribunal Federal, a quem compete a guarda da Constituição da República.
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+DIREITO PROCESSUAL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA DA JUSTIÇA COMUM. USURPAÇÃO. COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. O fundamento central da matéria objeto da controvérsia e as teses suscitadas no recurso especial são de cunho eminentemente constitucional.
+2. Assim, é incabível o recurso especial por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF). Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.032.192/SP, de minha relatoria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Quanto à quantificação dos danos sofridos pela parte recorrida, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fls. 298/299):
+Na fixação dos danos morais, o magistrado, prudentemente, levará em conta a extensão do dano, as condições da vítima e de sua família, bem como a sua própria experiência de vida, lembrando que a compensação não deve se converter em enriquecimento indevido da vítima ou causa de espoliação do ofensor.
+O dano moral é incomensurável. É cabível para servir de alerta que a sociedade não aceita e não se pode permitir o comportamento assumido. Deve ser, portanto, compatível com os interesses em conflito. O valor deve ser comedido e atender com moderação e justeza à indenização pelos danos morais sofridos.
+Com base nesses parâmetros, fixo a indenização a título de dano o moral no montante de R$ 50.000,00 (cinquenta mil reais), o qual se afigura razoável, proporcional ao evento danoso e compatível com as condições pessoais da vítima.
+Quanto aos danos materiais reclamados, em razão da perda parcial de sua capacidade laborativa, deve o autor perceber pensão mensal vitalícia correspondente a um salário-mínimo pela depreciação suportada a exigir maior esforço físico para o exercício m de trabalho (v. REsp 703194/SC, rel. Min. Mauro Campbell Marques, DJe 16.09.2008), a qual, frise-se, não se estenderá em possível pensão futura. E nem se argumente em compensação com o eventual benefício concedido pelo INSS, por se tratar aqui de pensão decorrente de responsabilidade civil de Direito Comum.
+A Corte local reconheceu que a quantia de R$ 50.000,00 (cinquenta mil reais) seria razoável e proporcional à compensação dos danos morais sofridos pela parte recorrida, assim como arbitrou pensão mensal vitalícia em seu favor, no valor correspondente a um salário-mínimo mensal, a título de reparação pelos danos materiais igualmente infligidos.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL DO ESTADO. DANO MORAL. ÓBITO DECORRENTE DE DISPARO DE ARMA DE FOGO POR AGENTE DE SEGURANÇA DO ESTADO. VALOR ARBITRADO A TÍTULO INDENIZATÓRIO. REVISÃO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O Tribunal de origem, com base nas provas contidas nos autos e nas peculiaridades do caso concreto, em que as vítimas vieram a óbito, reconheceu a necessidade de majoração do valor fixado pelo Juízo sentenciante a título de indenização por danos morais, para adequar aos parâmetros da jurisprudência.
+2. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.038.455/RJ, de minha relatoria, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. ABORDAGEM POLICIAL EQUIVOCADA. DISPARO DE ARMA DE FOGO. RESPONSABILIDADE OBJETIVA DO ESTADO. DANOS MATERIAIS E MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ
+ ..
+4. Já no tocante à propalada violação dos arts. 944 e 953 do CC, que justificaria a elevação do valor fixado a título de dano moral, considere-se ser firme a jurisprudência do STJ no sentido de que "a revisão dos valores fixados a título de danos morais somente é possível quando exorbitante ou insignificante, em flagrante violação aos princípios da razoabilidade e da proporcionalidade", porquanto a "verificação da razoabilidade do quantum indenizatório esbarra no óbice da Súmula 7/STJ" (STJ, AgInt no AREsp 927.090/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 8/11/2016).
+5. No caso, o Tribunal de origem, com base no exame dos elementos fáticos dos autos e na condição pessoal de cada um dos recorrentes (lesão no rosto, grávida, etc.), entendeu que o valor arbitrado fundamentadamente em primeiro grau estava correto, inexistindo manifesta desproporcionalidade que justifique, neste grau, a revisão dos valores fixados.
+6. Desse modo, correta a decisão recorrida, porquanto inviável o conhecimento do Recurso Especial dos agravantes em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes: AgInt no AREsp 1.569.664/MS, Rel. Min. Ricardo Villa Bôas Cueva, Terceira Turma, DJe 26/3/2020; AgInt no REsp 1.666.271/AC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 6/2/2019; AgInt no AREsp 1.131.988/PE, Rel. Min. Og Fernandes Segunda Turma, DJe 8/10/2018.
+7. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp n. 1.999.317/SE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/3/2022, DJe de 24/6/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
