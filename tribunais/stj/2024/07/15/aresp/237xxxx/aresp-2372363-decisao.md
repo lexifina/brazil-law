@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual MARCOS VINICI NOCHETI se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 354/369):
+PREVIDENCIÁRIO. AGRAVO INTERNO. ART. 1.021 DO CPC. APOSENTADORIA ESPECIAL. AGENTES QUÍMICOS. AGRAVO DESPROVIDO.
+- Apreciação do presente agravo interno segundo as disposições constantes do Novo Código de Processo Civil tendo em conta que sua interposição se operou sob a égide do novo diploma legal.
+- Razões ventiladas no presente recurso que não têm o condão de infirmar a decisão impugnada, fundada na prova produzida nos autos em conformidade com legislação e entendimento jurisprudencial assente na 9ª Turma.
+- Assevera-se do teor da fundamentação colacionada, que a decisão recorrida abordou, de forma satisfatória, os pontos assinalados pela parte agravante.
+- Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 407/413).
+Nas razões de seu recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação dos arts. 9º, 10, 11, 372, 489, II, § 1º, IV, VI, e 1.022, II, do Código de Processo Civil (CPC) e do art. 57, § 4º, da Lei 8.213/1991, argumentando, em síntese, que o acórdão recorrido foi omisso quanto ao reconhecimento da especialidade nos períodos de 9/7/1984 a 30/9/1985, de 1º/10/1985 a 23/5/1989, de 23/1/1996 a 8/7/1996 e de 15/9/1997 a 31/8/2001.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Verifico que inexiste a alegada violação dos arts. 489 e 1.022 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+É entendimento assente nesta Corte Superior de Justiça que compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências cuja realização pretendem as partes, segundo as normas processuais, e afastar o pedido de produção de provas se forem inúteis ou meramente protelatórias, ou, ainda, se já tiver ele firmado sua convicção, nos termos dos arts. 370 e 371 do CPC (arts. 130 e 131 do CPC/1973).
+A propósito, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. AUSÊNCIA DE INCAPACIDADE LABORAL. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+ ..
+2. Não se desconhece o entendimento segundo o qual o juiz, como destinatário final da prova, não fica adstrito ao laudo pericial, podendo formar sua convicção com base em outros elementos probatórios contidos nos autos.
+3. No presente caso, todavia, a Corte de origem asseverou que, embora o magistrado não estivesse vinculado ao laudo pericial, não havia, no acervo probatório, elementos capazes de elidir as conclusões nele contidas. Assim, da detida análise da prova técnica, produzida sob o pálio do contraditório, o Tribunal a quo concluiu que a parte autora encontrava-se apta para exercer suas funções habituais e laborais, não lhe sendo devido o benefício de aposentadoria por invalidez.
+4. A adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.702.877/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região -, julgado em 20/6/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. DISCRICIONARIEDADE DO JULGADOR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova testemunhal. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. Consoante entendimento desta Corte, "a apuração da necessidade de produção da prova testemunhal ou a ocorrência de cerceamento de defesa decorrente da falta daquela demandam reexame de aspectos fático-probatórios, o que encontra óbice na Súmula 7 do STJ" (STJ, REsp 1.791.024/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/04/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.604.351/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+No mérito recursal, o Tribunal de origem assim se manifestou sobre a alegada especialidade dos períodos pleiteados (fl. 412):
+Não há nos autos comprovação dos períodos de 09/07/1984 a 30/09/1985,de 01/10/1985 a 23/05/1989, de 23/01/1996 a 08/07/1996 e de 15/09/1997 a 31/08/2001, de forma que inviável reconhecer esses períodos. Tanto não há comprovação que o embargante coloca de forma genérica os documentos ID 3660653,3660654 e 3660655 como "laudos paradigmas" mas não há laudo para esses períodos.
+O Tribunal de origem reconheceu que a parte agravante não conseguiu comprovar a especialidade dos períodos pretendidos.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. TEMPO DE SERVIÇO ESPECIAL. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. MULTA PROTELATÓRIA. DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Conforme a jurisprudência iterativa desta Corte, é possível o reconhecimento da especialidade da atividade submetida a agente perigoso, desde que comprovada a exposição do trabalhador de forma permanente, não ocasional, nem intermitente, o que não ocorreu no caso.
+3. Tendo o Tribunal de origem decidido a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, a sua revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. Quanto à multa protelatória, incide o enunciado 284 da Súmula do Supremo Tribunal Federal quando apontado violação de lei federal de forma genérica, sem a indicação precisa do dispositivo que teria sido efetivamente violado por meio do acórdão recorrido.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.957.522/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PREVIDENCIÁRIA. OFENSA AO ART. 1.022 DO CPC NÃO CARACTERIZADA. APOSENTADORIA ESPECIAL. EXPOSIÇÃO AO AGENTE NOCIVO NÃO COMPROVADA. ALTERAÇÃO DO ACÓRDÃO A QUO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. A jurisprudência do STJ entende que o rol de atividades consideradas prejudiciais à saúde ou à integridade física descritas pelos Decretos 53.831/1964, 83.080/1979 e 2.172/1997 é meramente exemplificativo, e não taxativo. Admissível, portanto, que atividades não elencadas no referido rol sejam reconhecidas como especiais, desde que a situação seja devidamente demonstrada no caso concreto.
+3. A Corte de origem, após exame do acervo fático-probatório, concluiu que, "do exame dos autos verifico que o(s) período(s) de 21.01.1981 a 04.02.1987 pode ser não considerado como trabalhado em condições especiais, porquanto, embora a parte autora tenha desempenhado suas atividades no hospital, a descrição das atividades contida no PPP - Perfil Profissiográfico Previdenciário (ID 83357439/69-71) indicam atividades administrativas" (fl. 400, e-STJ).
+4. Assim, a adoção de entendimento diverso, conforme pretendido, implica reexame do contexto fático-probatório dos autos, circunstância que redunda na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do Recurso Especial, consoante o óbice previsto na Súmula 7/STJ.
+5. Por fim, consigne-se que a incidência da referida súmula é óbice também para o exame da divergência jurisprudencial, o que inviabiliza o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.951.031/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. No mesmo entendimento:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar a ele provimento.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
