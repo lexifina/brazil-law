@@ -1,0 +1,51 @@
+DECISÃO
+
+    Trata-se de Recurso Ordinário interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 892.617/SC, submetido à relatoria do Ministro RIBEIRO DANTAS.
+
+    Consta dos autos, em síntese, que o recorrente foi condenado a 38 anos de reclusão, em regime fechado, pela prática dos crimes de homicídio qualificado (art. 121, §2º, II e IV, do Código Penal) e de homicídio qualificado, na forma tentada (art. 121, §2º, II e IV, c/c art. 14, II, do CP).
+
+    Após o trânsito em julgado da condenação, a defesa ajuizou Revisão Criminal no Tribunal de Justiça do Estado de Santa Catarina, não conhecida.
+
+    Impetrou-se, então, Habeas Corpus no Superior Tribunal de Justiça, não conhecido pelo Ministro relator, em decisão mantida pelo Colegiado no julgamento do subsequente Agravo Regimental, conforme ementa:
+
+    PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. PRECLUSÃO. TRÂNSITO EM JULGADO HÁ MAIS DE 8 ANOS. PRECEDENTES. AGRAVO DESPROVIDO.
+
+    1. O writ não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos quase 8 anos do trânsito em julgado, devendo ser observada a coisa julgada e o princípio da segurança jurídica.
+
+    2. Agravo regimental desprovido.
+
+    Neste Recurso Ordinário, a defesa alega, em suma: Após ser constituída para atuar em favor do Recorrente, esta defesa passou a analisar pormenorizadamente os autos e verificou que a penalização imposta ao Recorrente se deu de maneira desarrazoável e deveras excessiva, no que se refere à acusação de homicídio na modalidade tentada. Em razão disso, requer-se o provimento do recurso, para redimensionar a pena.
+
+    É o relatório. Decido.
+
+    Observa-se que as questões suscitadas neste recurso não foram enfrentadas pelo Órgão colegiado do Superior Tribunal de Justiça. Desse modo, torna-se inviável a esta SUPREMA CORTE conhecer delas originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências. Nesse sentido:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MATÉRIA NÃO ANALISADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA.
+
+    1. A questão suscitada não foi analisada pelo Superior Tribunal de Justiça e, portanto, qualquer juízo desta CORTE sobre a matéria implicaria supressão de instância, o que não é admitido pela jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+
+    2. Agravo regimental a que se nega provimento.
+
+    (HC 151816 AgR, Relator(a): Min. ALEXANDRE DE MORAES, DJe de 10/5/2018).
+
+    E ainda: HC 132.864-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, Dje de 18/3/2016; HC 136.452-ED, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 10/2/2017; HC 135.021-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 6/2/2017; HC 135.949, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje 24/10/2016.
+
+    Além disso, o entendimento adotado pelo STJ encontra amparo em julgados desta SUPREMA CORTE, no sentido de que a matéria “não suscitada no momento oportuno é impassível de ser arguida através de habeas corpus, no afã de superar a preclusão, sob pena de transformar o writ em sucedâneo da revisão criminal (Precedentes: HC 95.641/SP, Relator Min. Ricardo Lewandowski, Primeira Turma, Julgamento em 2/6/2009; HC 95.641/SP, Relator Min. Ricardo Lewandowski, Primeira Turma, Julgamento em 2/6/2009; HC 102.597/SP, Relator Ministra Cármen Lúcia, Primeira Turma; HC 96.777/BA, Relator Min. Joaquim Barbosa, Segunda Turma, Julgamento em 21/9/2010)” (RHC 107758, Relator(a): LUIZ FUX, Primeira Turma, DJe de 28/9/2011). Na mesma linha de consideração: HC 143045 AgR, Relator(a): GILMAR MENDES, Segunda Turma, DJe de 16/8/2017; HC 112.360, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 18/5/2012; e RHC 124110, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: DIAS TOFFOLI, Primeira Turma, DJE de 25/2/2021.
+
+    Se não bastasse, a dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo Magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal.
+
+    Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades, não verificadas na espécie (HC 105.802/MT, Rel. Min. ROSA WEBER, Primeira Turma, DJe 04/12/2012; HC 94.125/RJ, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 06/2/2009; HC 102.966 AgR/RJ, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 21/3/2012; HC 110.390/MS, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 22/10/2012).
+
+    Em conclusão, não há constrangimento ilegal a ser sanado.
+
+    Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do STF, NEGO PROVIMENTO ao Recurso Ordinário.
+
+    Publique-se.
+
+    Brasília, 15 de julho de 2024.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
