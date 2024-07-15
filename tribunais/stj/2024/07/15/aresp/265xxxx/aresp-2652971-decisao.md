@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HELEN CONSUELO HERCULANO SZERVINSK SOARES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/05/2024.
+Concluso ao gabinete em: 11/07/2024.
+Ação: de inventário dos bens deixados por SALOMÃO HERCULANO SZERVINSK, genitor da ora agravante.
+Decisão interlocutória: indeferiu o pedido de declaração de nulidade de alteração contratual, bem como asseverou que "Os documentos referentes aos imóveis localizados na SQS 406, Bloco I, apartamento 108, Brasília/DF, matrícula n. 619 do 1º RIDF; (ii) SQS 116, Bloco D, apartamento n. 104, Brasília/DF, matrícula n. 119.214 do 1º RIDF; e, (iii) Rua 820 QS 7 Lt. 3, Ap. 805, Águas Claras/DF, matrícula n.º 257.399 no 3º RIDF, trazidos com a petição de ID 149700406, não revelam a doação inoficiosa, portanto, não há que se falar em colação em relação a eles" (e-STJ fl. 68). Ademais, quando do julgamento de embargos de declaração em face da referida decisão, deferiu a "exclusão as quotas da empresa Posto Vale da Lua Ltda com CNPJ (MF) 04.637.723/0001-71, diante da controvérsia em relação à da suposta nulidade da transação das quotas, o que deve ser discutido em autos apartados, no juízo cível" (e-STJ fl. 69).
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte ora agravante, nos termos da seguinte ementa (e-STJ, fl. 67):
+"AGRAVO DE INSTRUMENTO. INVENTÁRIO. PRELIMINAR DE CERCEAMENTO DE DEFESA. IMÓVEIS. JUNTADA DE DOCUMENTOS. INTIMAÇÃO DOS HERDEIROS. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. COTAS SOCIAIS. DOAÇÃO INOFICIOSA. DILAÇÃO PROBATÓRIA.
+I - A juntada de documentos pela inventariante, em cumprimento à determinação judicial,relativamente a imóveis supostamente doados a um dos herdeiros pelo inventariado, enseja aintimação dos demais herdeiros, art. 437, § 1º, do CPC, o que não ocorreu, por isso configurada aviolação aos princípios do contraditório e da ampla defesa. Anulada parcialmente a r. decisãoagravada.
+II - Diante da necessidade de dilação probatória para a aferição de eventual doação inoficiosa de cotas sociais para um dos herdeiros, devem elas ser excluídas da colação ao inventário, art. 612 do CPC.
+III - Agravo de instrumento parcialmente provido."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, §1º, IV, 641, §2º, 1.022, II, do CPC, sustentando que: (i) a Corte de origem teria sido omissa em relação aos argumentos de ausência de discussão sobre a validade ou efeitos do contrato de cessão de cotas à parte ora agravada e de inexistência de impedimento para a colação das cotas de titularidade da parte ora agravada, mesmo existindo discussão sobre a validade do contrato que as cedeu; (ii) haveria prova da existência de doação inoficiosa das cotas sociais; (iii) não seria necessária dilação probatória para decidir sobre a colação de cotas sociais recebidas em cessão não onerosa, declarada na alteração de contrato social registrada na Junta Comercial, uma vez que existiria documento com fé pública atestando que a cessão se deu em caráter não oneroso. Pugna que seja determinada a reinclusão das mencionadas cotas sociais na colação.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Mauricio Vieira Bracks, opina pelo desprovimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das razões pelas quais entendeu ser necessária dilação probatória para deslinde da questão referente à situação das cotas sociais da empresa Posto Vale da Lua Ltda., de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/DFT ao analisar o recurso interposto pela parte agravante, concluiu o seguinte (e-STJ fl. 74):
+"29. A cláusula terceira da 5ª Alteração Contratual, em 26/6/15 (id. 78450294 dos autos originários), possui o seguinte teor:
+"CLÁUSULA TERCEIRA - A sócia HELENA MARIA FERREIRA SZERVINSK cede e transfere a título não oneroso, ao sócio ora admitido LEANDRO SALOMÃO HERCULANO SZERVINSK, o valor de R$ 414.000,00 (Quatrocentos e Quatorze mil reais) que está dividido em 414 (Quatrocentos e Quatorze) cotas de R$ 1.000,00(Um mil reais) cada uma. O sócio HÉRCULES SALOMÃO HERCULANO SZERVINSK cede e transfere todas as suas 6 (seis) cotas no valor de R$ 6.000,00(Seis mil reais) para o sócio ora admitido LEANDRO SALOMÃO HERCULANO SZERVINSK.  .. ."
+30. Conforme alegado pela agravante-herdeira Helen, a cessão de cotas ocorreu de forma válida, mas, por ter sido de forma gratuita, configura doação e deve ser colacionada ao inventário para igualar as legítimas.
+31. Em contrarrazões, a agravada-inventariante Helena sustenta que as cotas sociais foram adquiridas pelo agravado-herdeiro Leandro em transação da qual participou (id. 49693192) e o agravado-herdeiro Leandro afirma que ingressou na sociedade por meio de compra e venda de cotas sociais, mediante aporte financeiro " ..  para sanar o estado falimentar em que se encontrava a empresa à época  .. " (id. 49702484, pág. 6).
+32. Nesse contexto, a situação das cotas sociais da empresa Posto Vale da Lua Ltda. evidencia a imprescindibilidade da dilação probatória, art. 641, § 2º, do CPC, que deve ocorrer em ação própria, ressaltando-se que, a qualquer momento, os bens poderão ser objeto de sobrepartilha, art. 669 do CPC." (grifou-se)
+Ademais, quando do julgamento dos embargos de declaração opostos, complementou que (e-STJ fl. 97):
+"9. Assim, a necessidade de dilação probatória compreende a questão do ingresso do embargado-herdeiro Leandro na sociedade, bem como a suposta invalidade da cessão de 1% das cotas sociais pelo inventariado à embargada-inventariante, situação que impede a colação das cotas sociais da empresa ao inventário.
+10. O acórdão, em suma, não contém o vício apontado. O acolhimento dos embargos está adstrito à existência de obscuridade, contradição, omissão ou erro material, não verificada nos autos."
+Da leitura dos trechos acórdão objurgado, nota-se que alterar o decidido no acórdão impugnado, no que se refere à necessidade de dilação probatória, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação de inventário.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
