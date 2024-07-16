@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FLAVIO VASQUES OLIVETO, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Mandado de Segurança n. 0065585-41.2024.8.16.0000)
+Consta dos autos que o paciente, ex policial militar e civil, foi preso em flagrante pela suposta prática dos crimes previstos nos arts. 33, e § 1º, 34, 35 e 36 da Lei nº 11.343/2006, sobrevindo decisão que converteu a custódia em preventiva.
+Em 20/06/2024, o paciente foi removido para ala específica do complexo médico penal (fl. 96).
+Requerido o retorno do paciente para a delegacia de furtos e roubos de veículos de Curitiba/PR, o pedido foi indeferido pela magistrada (fls. 69-70).
+Inconformada, a defesa impetrou mandado de segurança, cuja liminar foi indeferida (fls. 166-168).
+A impetrante defende o afastamento do enunciado n. 691 da Súmula do STF, alegando que a decisão impugnada manteve a transferência do paciente para local mais gravoso do que o devido durante a prisão preventiva.
+Destaca que a Delegacia de Furtos e Roubos de Veículos -DFRV seria destinada exclusivamente à custódia de presos com função policial civil, conforme previsto no art. 2º, § 1º, do Decreto n. 11.016, de 13/05/2014.
+Relata que o paciente está no complexo médico penal, que é uma penitenciária sem destinação específica para recolhimento dos servidores da segurança pública do estado do Paraná.
+Sustenta que o paciente já esteve preso cautelarmente na DFRV no ano de 2015, onde aguardou preso preventivamente de 2015 até 2018, inclusive trabalhando na unidade para alcançar remição de pena, sem que se tivesse conhecimento de qualquer intercorrência ou falta praticada por sua parte.
+Requer, liminarmente, a concessão da prisão domiciliar ao paciente por não poder permanecer custodiado preventivamente em local mais gravoso do que o previso em Lei.
+No mérito, busca a revogação da transferência do paciente ao Complexo Médico Penal, com a concessão da prisão domiciliar, tendo em vista a ausência de vaga em estabelecimento adequado e previsto em Lei.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do mandado de segurança originário.
+Aplica-se à hipótese, por analogia, o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, constando da decisão que indeferiu a liminar na origem o seguinte (fls. 167-168):
+ ..  Colhe-se, em essência, que a discussão central do refere-se à transferência de presídio do mandamus réu FLÁVIO VASQUES OLIVETO, com o retorno para Delegacia de Furtos e Roubos de Veículos de Curitiba.
+Observa-se que a magistrada de primeiro grau no processo incidental de autos nº 0006023-02.2024.8.16.0033 no mov. 13.1, indeferiu a transferência do presídio, em razão da capacidade de lotação da Delegacia de Furtos e Roubos de Veículo de Curitiba, bem como a periculosidade do réu.
+Conforme consta na sentença de mov. 13.1 - autos nº 0006023-02.2024.8.16.0033:
+"A fim de evitar tautologia, reporto-me integralmente aos argumentos lançados no parecer Ministerial retro e pela Autoridade Policial no mov. 1.2 dos autos n.0005850-75.2024.8.16.0033, bem como na decisão do mov. 54 dos autos 0005739-91.2024.8.16.0033, todos em apenso, os quais confortam a necessidade de remoção do requerente para ala específica do Complexo Médico Penal e de manutenção de sua segregação cautelar. Saliento que tal decisão foi proferida recentemente e inexiste qualquer fato novo a ensejar deliberação diversa.
+Outrossim, conforme bem pontuou o representante do Ministério Público, "(..) verifica-se estar excedida a capacidade de lotação da DFRV de presos Além disso, de acordo com o exposto pela policiais civis (16 detentos). Além disso, de acordo com o exposto pela autoridade policial, o preso FLÁVIO VASQUES OLIVETO possui periculosidade avançada, planejando, até mesmo, a evasão quando custodiado na DFRV, não possuindo a mencionada unidade policial estrutura e segurança necessária para alojamento de custodiados com este perfil. Assim, tais circunstâncias, conforme previsto na Lei Ordinária no 203039/20, autorizam a alocação do mencionado preso provisório em subdivisão policial mais próxima de sua locação ou de sua residência ou em outro estabelecimento prisional apto a segregar presos provisórios policiais ou expoliciais civis, como no caso o Complexo Médico Penal."
+Isso posto, mantenho as decisões do mov. 54 dos autos 0005739-91.2024.8.16.0033 e mov. 14 dos autos n. 0005850-75.2024.8.16.0033, por seus próprios fundamentos, e INDEFIRO os pedidos de remoção e/ou revogação da prisão preventiva de FLAVIO VASQUES OLIVETO, formulados ao mov. 1.1."
+Vale dizer, revela-se nítida a percepção de que o decisum guerreado se mostra edificado em motivação hábil a delinear a alta periculosidade do impetrante, bem como a lotação do presídio, razão pela qual, em cognição sumária, não comporta qualquer retificação por este órgão colegiado.
+Portanto, ao que tudo indica, não há abuso de poder da autoridade coatora, de modo que, não vislumbro, a priori, ofensa a direito líquido e certo, tampouco se extrai atos praticados pela autoridade apontadora como coatora que possam ser considerados como desvios ou abusos de poder, razão pela qual não há como se concluir, neste momento, por qualquer ofensa aos princípios básicos do processo penal, havendo, por conseguinte, de se denegar, em sede liminar, o presente mandamus.  ..
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
