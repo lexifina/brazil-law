@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de LUIS RICARDO DE OLIVEIRA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, na Apelação Criminal n. 0012432-51.2023.8.26.0000.
+Consta dos autos que o paciente foi condenado, em primeiro grau, às penas de 07 (sete) anos e 06 (seis) meses de reclusão, no regime fechado, por infração ao artigo 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao recurso interposto pela Defesa (fls. 25-32).
+Neste writ, o impetrante sustenta desproporcionalidade da fração de aumento aplicada em decorrência da agravante da reincidência.
+Requer a reforma da dosimetria, para que seja adotada a fração de 1/6 (um sexto) na fixação da pena intermediária.
+As informações foram apresentadas (fls. 70-96).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 106-108).
+É o relatório.
+DECIDO.
+No que interessa ao julgamento da causa, o juiz sentenciante assim consignou (fl. 22; grifamos):
+Na segunda fase, presente a circunstância agravante da reincidência, prevista no art. 61, inciso I do Código Penal. Isto porque, o acusado ostenta contra si, três condenações anteriores aos fatos, com trânsito em julgado (cf. fls.54, 55 e 56), nos exatos termos dos arts. 63 cc. 64, I, ambos do Código Penal, razão pela qual a majoração de sua pena se dará em 1/2 (metade), frente a quantidade e especificidade de uma delas.
+O Tribunal de origem, por sua vez, assim fundamentou (fls. 30-31):
+Na segunda fase, com o reconhecimento da multireincidência, a pena foi aumentada em 1/2 corretamente.
+Vale esclarecer que, tratando-se de reincidente específico, inquestionável que o agente demonstra violação anormal ao tipo penal, pois não só voltou a delinquir antes do período depurador do inciso I do art. 64 do CP, mas o fez também em face do mesmo delito.
+Assim, verifica-se que a pena intermediária foi aumentada em 1/2 (metade) em razão da reincidência específica do paciente, decorrente de três condenações anteriores com trânsito em julgado.
+Contudo, o fundamento empregado pelas instâncias de origem para aplicar incremento mais severo na pena destoa da jurisprudência desta Corte Superior, sendo razoável a aplicação da fração de aumento de 1/4 (um quarto).
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MAUS ANTECEDENTES. AÇÕES DISTINTAS DAS SOPESADAS PARA FINS DE REINCIDÊNCIA. FUNDAMENTO VÁLIDO. AGRAVAMENTO DA PENA EM FRAÇÕES SUPERIORES A 1/6. PROPORCIONALIDADE. PLURALIDADE DE CONDENAÇÕES ANTERIORES. CONSTRANGIMNTO ILEGAL NÃO VERFICADO. AGRAVO NÃO PROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. A teor da Súmula 241 do STJ, a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda.
+3. Hipótese em que o Tribunal a quo valorou negativamente os maus antecedentes do acusado (4 condenações definitivas não sopesadas para fins de reincidência), para exasperar a pena-base do delito de tráfico em 1/3.
+4. Portanto, apresentado elemento idôneo para a majoração da reprimenda e levando-se em conta as penas máxima e mínima abstratamente cominadas ao delito referido (5 a 15 anos), não se mostra desproporcional o quantum de pena imposto, a autorizar a intervenção excepcional desta Corte, sobretudo diante da pluralidade de condenações anteriores do acusado transitadas em julgado.
+5. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+6. No caso, destacada a multirreincidência do paciente (três condenações anteriores definitivas), não se verifica manifesta ilegalidade na escolha da fração de 1/4 pelo reconhecimento da causa de aumento do art. 61, I, do Código Penal.
+7. Agravo regimental não provido." (AgRg no HC n. 890.106/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/5/2024; grifamos)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. HABEAS CORPUS. REINCIDÊNCIA ESPECÍFICA. FRAÇÃO DE AUMENTO SUPERIOR A 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO PARA APLICAR A REINCIDÊNCIA NO PATAMAR DE 1/6.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Impõe-se a concessão de habeas corpus de ofício, diante da ilegalidade do acórdão impugnado no que tange à fração de aumento da pena em razão da reincidência específica, a qual foi aumentada em 1/3 (um terço) sem a devida fundamentação.
+3. Nosso Código Penal não estabelece limites mínimo e máximo de diminuição de pena a serem aplicados em razão de circunstâncias atenuantes e agravantes, cabendo à prudência do magistrado fixar o patamar necessário, dentro de parâmetros razoáveis e proporcionais, com a devida fundamentação. Nesse contexto, a jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento para cada agravante ou de diminuição para cada atenuante deve ser realizado em 1/6 da pena-base, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar concretamente fundamentado. Precedentes.
+4. No presente caso, na segunda fase da dosimetria, a pena foi aumentada, em razão da agravante da reincidência, em patamar superior a 1/6, sem qualquer fundamentação idônea, não bastando para tanto que se trate de hipótese de reincidência específica.
+5. Agravo regimental não conhecido. Habeas corpus concedido de ofício para diminuir o patamar de aumento referente à agravante da reincidência para 1/6. (AgRg no AREsp n. 2.282.442/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023; grifamos)
+Fixadas essas premissas, passo a redimensionar as penas do paciente.
+Na primeira fase de aplicação da pena, mantenho a pena-base no mínimo legal, ou seja, 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor unitário mínimo.
+Na segunda etapa, presente a agravante da multirreincidência, deve-se adotar o patamar de aumento de 1/4 (um quarto). Dessa forma, a sanção intermediária resta fixada em 06 (seis) anos e 3 (três) meses de reclusão e 625 (seiscentos e vinte e cinco) dias-multa, fixadas no mínimo legal.
+Na terceira fase, não incidem causas de aumento ou de diminuição, de forma que ficam definitivamente fixadas as reprimendas do paciente em 06 (seis) anos e 03 (três) meses de reclusão e 625 (seiscentos e vinte e cinco) dias-multa, fixadas no mínimo legal.
+Considerando o quantum da reprimenda reclusiva, bem como o reconhecimento da agravante da reincidência, não há alteração do regime inicial fixado pelas instâncias ordinárias, que permanece o fechado, sendo incabível a substituição da pena privativa de liberdade por restritiva de direitos, com fulcro no art. 44, I e II, do CP.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus para reduzir a fração de aumento decorrente da agravante da reincidência para 1/4 (um quarto) e redimensionar as penas impostas ao paciente, nos termos desta decisão.
+Publique-se. Intimem-se.
+EMENTA
