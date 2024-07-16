@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. PRODUTOR-EMPREGADOR RURAL PESSOA FÍSICA.
+O produtor-empregador rural pessoa física, desde que não esteja constituído como pessoa jurídica com registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, não se enquadra no conceito de empresa, para fins de incidência do salário-educação.
+Os Embargos de Declaração não foram providos.
+A Fazenda Nacional, nas razões do Recurso Especial, alega violação dos arts. 12, I, da Lei 8.212/1991; 15 da Lei 9.424/1996; e 1º, § 3º, da Lei 9.766/1998, argumentando que houve planejamento tributário abusivo por parte do recorrido. Solicita que o Superior Tribunal de Justiça reforme o acórdão regional, reconhecendo a exigibilidade da contribuição do salário-educação ao produtor rural pessoa física que exerce atividade por meio de pessoa jurídica.
+Contrarrazões apresentadas às fls. 280-296.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 328-347.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 05.07.2024.
+No enfrentamento da controvérsia, o Tribunal a quo consignou:
+Eventual comprovação de planejamento fiscal abusivo deve ser apurada pela União em fiscalização realizada junto à pessoa jurídica referida. Caso se verifique recolhimento a menor dos tributos, fraude ou elisão fiscal é junto à pessoa jurídica (que é sujeito passivo da contribuição ao salário-educação) que deve ser realizado o lançamento tributário em causa e instaurado o respectivo processo administrativo e, sendo o caso, judicial. Mesmo que a ocorrência de fatos geradores seja declarada tendo como sujeito a pessoa física, a fiscalização tem o poder de imputá-los à pessoa jurídica, repondo o direito do Fisco para além da fraude que venha a ser evidenciada. Eventual constatação de planejamento fiscal abusivo não implicará que o produtor rural pessoa física se torne sujeito à contribuição ao salário-educação, pois não é sujeito passivo do referido tributo e não pode ser dele exigida a referida cobrança. A alegação de planejamento fiscal abusivo não pode, portanto, ser utilizada para que o Judiciário obrigue o produtor rural pessoa física a recolher contribuição da qual não é sujeito passivo, conforme tem decidido esta Primeira Turma:
+(..)
+Deve ser reformada a sentença no ponto.
+Dessume-se que o julgamento do acórdão recorrido foi baseado em uma avaliação detalhada dos fatos e evidências apresentados. Com efeito, a decisão de que não existiu uma comprovação de planejamento tributário abusivo por parte do produtor rural pessoa física não pode ser alterada na via especial, pois isso exigiria uma nova análise das provas, o que é vedado pela incidência da Súmula 7/STJ. Nessa linha:
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. PLANEJAMENTO TRIBUTÁRIO ABUSIVO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. SÚMULA N. 83 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra Delegado da Receita Federal do Brasil em Santo Ângelo, por meio do qual produtor rural pessoa física objetiva provimento juri sdicional que reconheça a inexigibilidade da contribuição social para o salário-educação, no percentual de 2,5% sobre a remuneração paga ou creditada aos empregados, bem como o direito de compensar os valores pagos indevidamente nos últimos cinco anos, corrigidos pela SELIC. Na sentença a segurança foi concedida. No Tribunal a quo, a sentença foi mantida. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+II - Não foi constatada a utilização indevida e concomitante pelo autor da forma de organização como pessoa física e da forma de organização como pessoa jurídica, e tal discussão não poderia ser inaugurada em recurso especial. A insurgência da Fazenda Nacional, ao tentar afastar o entendimento de que a contribuição para o salário-educação tem como sujeito passivo as empresas, indicando abusividade no planejamento tributário por parte do contribuinte, empregador rural que tem empregados ligados ao seu CPF, conquanto também tenha registro no CNPJ, esbarra no óbice da Súmula n. 7 desse Tribunal.
+III - O caso não se confunde com os precedentes citados pela agravante, que discutem a necessidade de inscrição na junta comercial para determinar a sujeição passiva do produtor rural. Aplica-se, à espécie, o enunciado da Súmula n. 83/STJ. Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional. No mesmo sentido da decisão recorrida: REsp n. 1.162.307/RJ, relator Ministro Luiz Fux, Primeira Seção, julgado em 24/11/2010, DJe de 3/12/2010.
+IV - Agravo interno improvido.
+(AgInt no AREsp 2.381.913/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 20/3/2024.)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. NÃO INCIDÊNCIA. AFIRMAÇÃO DO TRIBUNAL DE QUE HOUVE PLANEJAMENTO FISCAL ABUSIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "É entendimento pacífico deste Tribunal, mesmo antes do Código Civil de 2002, que a atividade do produtor rural pessoa física, desprovido de registro no Cadastro Nacional de Pessoa Jurídica (CNPJ), não se enquadra no conceito de empresa, para fins de incidência da contribuição ao salário-educação, prevista no art. 212, § 5º, da CF/88, haja vista a falta de previsão específica no art. 15 da Lei 9.424/96, semelhante ao art. 25 da Lei 8.212/91, que trata da contribuição previdenciária devida pelo empregador rural pessoa física" (REsp 1.514.187/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 07/04/2015).
+2. No caso dos autos, a instância ordinária expressamente afastou a contratação dos empregados pela pessoa física, mas sim pela pessoa jurídica por eles constituída. A revisão de tal conclusão demandaria incursão na seara probatória, o que não se revela cabível na via especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.467.649/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 29/6/2015.)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
