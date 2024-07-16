@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de ADRIANA PAULA DE ARAÚJO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 003011-23.2019.8.17.0810).
+Consta dos autos que a paciente foi condenada à pena de 04 (quatro) anos e 03 (três) meses de reclusão, além de 35 (trinta e cinco) dias-multa, em regime inicial semiaberto, pela prática do delito previsto no art. 171, § 4º, do Código Penal (estelionato praticado contra idoso), de forma continuada (art. 71 do CP), em concurso material (art. 69 do CP) com o crime previsto no art. 304 do CP (uso de documento falso).
+A impetrante sustenta a ocorrência de constrangimento ilegal, aduzindo que a ré faz jus à absolvição do delito descrito no art. 304 do Código Penal, ao argumento de que a comprovação da materialidade delitiva da falsidade documental se deu exclusivamente com base na confissão da paciente, sendo imperiosa a realização do exame de corpo de delito, nos termos do art. 158 do Código de Processo Penal.
+Assevera, ainda, que deve ser reconhecida a incidência do princípio da consunção com o delito de estelionato, uma vez que a utilização dos documentos falsificados fora tão somente um meio para consecução do crime de estelionato, não sendo, assim, utilizados para fins diversos (fl. 9).
+Afirma, por fim, que, com o acolhimento das teses defensivas, a condenada poderá cumprir pena em regime aberto, bem como será possível a substituição da pena privativa de liberdade por restritivas de direitos.
+Requer, liminarmente, que se suspenda os efeitos da condenação até o julgamento definitivo deste writ. No mérito, pleiteia a concessão da ordem para que a paciente seja absolvida do delito previsto no art. 304 do CP e que a pena restante seja redimensionada nos termos delineados na impetração.
+O pedido liminar foi indeferido às fls. 266-267.
+Informações prestadas às fls. 273-319 e 321-346.
+Parecer do MPF às fls. 350-353, opinando pela denegação da ordem.
+É  o  relatório.
+ DECIDO.
+O Tribunal de Justiça de Pernambuco, ao julgar a apelação, manteve a sentença condenatória, com base nos seguintes fundamentos  (fls. 27-29):
+A respeito do uso de documento falso, objeto do primeiro ponto da irresignação da acusada, a peça acusatória aponta que a recorrente fraudou vários documentos, informando à vítima que receberia vultosas quantias relativas a rescisões de um antigo emprego e com estes valores saldaria as dívidas. Apurou-se, contudo, conforme apontado na denúncia, que os documentos foram fabricados com o intuito de ludibriar a vítima e assim pedir mais dinheiro. O pleito absolutório em relação ao crime de uso de documento falso não merece prosperar. A vítima, tanto em sede policial quanto em juízo, afirmou que a acusada lhe mostrou um documento, supostamente um alvará, afirmando que receberia os valores de R$ 675.000,00 e R$138.000,00.
+A testemunha Rodrigo Carrazzone, igualmente, tanto em juízo quanto na fase inquisitorial, confirmou que teve acesso ao documento indicado, tendo-lhe sido mostrado, inclusive na audiência o documento referido. A testemunha, então, confirmou que foi o mesmo que lhe havia sido mostrado anteriormente e que apontava para um suposto recebimento de valores pela acusada.
+A denunciada, por seu turno, confessou em seu interrogatório ter dito à vítima que saldaria a dívida com supostos valores a serem recebidos do antigo empregador (Wallmart), pois a vítima lhe teria dito que só emprestaria mais dinheiro se a ré tivesse algum documento para lhe mostrar.
+A recorrente, em transcrição livre (audiência disponível na plataforma de Audiências Digitais do TJPE), declarou o seguinte: "Eu dei um documento a ela como se fosse um documento que eu fosse receber uma quantia". Em seguida questionada expressamente se o documento era falso, a acusada respondeu afirmativamente.
+Os documentos referidos que indicam valores a receber pela acusada foram acostados aos autos.
+Restou evidenciado, portanto, que a acusada praticou a conduta descrita no art. 304 do Código Penal, pois apresentou documentos, confessadamente falsos, com o intuito de obter ilicitamente (pois com intenção de ludibriar a vítima) valores a título de empréstimo.
+Conforme destacado pela douta Procuradoria de Justiça em seu opinativo, "na medida em que apresentado o documento falso à vítima, para o fim ilícito, constata-se a configuração do delito, haja vista sua utilização efetiva, pois trata-se de crime formal, como dito alhures, que independe de resultado. A materialidade delitiva, portanto, restou comprovada por meio do "próprio documento, onde constam os nomes da apelante e da vítima, colacionado nos autos, como também através da confissão da própria recorrente e dos depoimentos da vítima e demais testemunhas" tal como apontado pela representante ministerial.
+Segundo  se  verifica  do  trecho  colacionado  , o  Tribunal  de  origem  fundamentou  a condenação da paciente com base no depoimento da vítima, das testemunhas, bem como do próprio documento colacionado aos autos, confessadamente falsificado.
+Assim, ao contrário do alegado pela impetrante, o uso do documento falso foi comprovado não apenas pela confissão da paciente, mas também por outros elementos de prova suficientes à confirmação da autoria e materialidade delitivas.
+Ademais, segundo a orientação do Superior Tribunal de Justiça "para a configuração do crime previsto no artigo 304 do Digesto Penal, a perícia pode ser dispensada, na hipótese de outros elementos serem suficientes para embasar o reconhecimento da falsidade do documento e do uso de documento falso." (Precedente, AgRg no Aresp n.206.656/PE, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T, Dje 25/11/2015).
+A propósito:
+HABEAS CORPUS. USO DE DOCUMENTO FALSO. EXAME PERICIAL.
+OUTROS ELEMENTOS DE PROVA. DESNECESSIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 115 DO CÓDIGO PENAL. IDADE DE70 ANOS ATINGIDA APÓS A SENTENÇA CONDENATÓRIA. ORDEM DENEGADA.
+1. No crime de uso de documento falso é prescindível a realização de exame pericial quando for possível comprovar a falsidade do documento através de outros meios de prova.
+2. A Corte de origem, após análise do acervo fático-probatório, conclui pela falsidade da certidão cartorária e da procuração ad judicia utilizadas pelo Paciente. Desse modo, a revisão desta premissa fática exigiria incursão probatória incompatível com avia estreita do habeas corpus.
+3. A redução do prazo prescricional prevista no art. 115 do Código Penal somente é aplicável ao réu que completa 70 (setenta) anos até a data do primeiro provimento jurisdicional condenatório. 4. Ordem denegada. (HC 455.267/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/10/2018, DJe 18/10/2018)
+Desse modo, na esteira da jurisprudência do STJ, não merece prosperar a tese suscitada pela impetrante, no sentido de que o laudo pericial seria imprescindível à comprovação do delito praticado pela paciente.
+Quanto à tese de consunção entre o delito de uso de documento falso e estelionato, observa-se que a tese apontada pelo impetrante não foi apreciada no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+ ..
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+  Ante  o  exposto,  denego a ordem de  habeas  corpus.
+Publique-se.  Intime-se.
+ EMENTA
