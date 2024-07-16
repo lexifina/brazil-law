@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que negou seguimento a Recurso Especial contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL - EMBARGOS À EXECUÇÃO - TÍTULO EXECUTIVO JUDICIAL - IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA - EXCESSO - AUSÊNCIA DE DEMONSTRAÇÃO DOS CÁLCULOS - INSUBSISTÊNCIA DAS ALEGAÇÕES - HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA DEVIDOS - ÔNUS DA PARTE EMBARGANTE - PRINCÍPIO DA CAUSALIDADE - ART. 26 DO CPC - VERBA ARBITRADA CONFORME INTELIGÊNCIA DO ART. 20, § 4º, DO CPC - EMBARGOS À EXECUÇÃO JULGADO IMPROCEDENTE.
+- Em razão da natureza constitutiva negativa dos embargos do devedor, incumbe ao embargante demonstrar cabalmente a ocorrência do excesso de execução decorrente da suposta ausência de promoção de reajuste da parcela complemento vencimento, sem o que impositivo o desacolhimento da pretensão.
+- Deve a parte vencida suportar as custas e os honorários advocatícios, à luz dos princípios da causalidade e da sucumbência, ainda que haja reconhecido o pedido, pois os embargos, no caso, foram necessários. Inteligência dos arts. 20 e 26 do CPC.
+- Precedente desta Corte: 4001011-23.2014.8.04.0000
+- Embargos à Execução improcedente.
+No Recurso Especial (fls. 214-238), alega-se violação dos arts. 586, 618, I, 475-A, 475-E e 475-F do CPC/1973.
+O Tribunal de origem negou seguimento ao Recurso, aplicando o Tema 905/TJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5/7/2024.
+Conforme orientação sedimentada desta Corte, "o agravo interno é o único recurso cabível contra a decisão que nega seguimento aos recursos especial e extraordinário, em razão de o acórdão recorrido estar em conformidade com tese fixada sob a sistemática dos recursos repetitivos ou da repercussão geral. Assim, mostra-se inadmissível a interposição de recurso especial contra o acórdão do Tribunal de origem que, ao negar provimento ao agravo interno, mantém a negativa de seguimento ao recurso extraordinário, com base no art. 1.030, I, do CPC/2015" (REsp n. 1.933.284/PR, Rel. Min. Afrânio Vilela, Segunda Turma, DJe de 20/5/2024). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. ACÓRDÃO FUNDAMENTADO. MERO INCONFORMISMO. MATÉRIA DE FUNDO DO APELO NOBRE. SEGUIMENTO NEGADO COM BASE EM TEMA REPETITIVO DESTA CORTE SUPERIOR. DISCUSSÃO CABÍVEL SOMENTE EM SEDE DE AGRAVO INTERNO, DIRIGIDO AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO DESPROVIDO.
+(..) 2. Descabe falar em apreciação da matéria de fundo do apelo nobre quanto à suposta impossibilidade de prosseguimento da ação executiva quando já habilitado o crédito no processo falimentar. Isso porque, nesse ponto, o recurso especial teve seguimento negado com base no Tema Repetitivo n. 1.092 e, como se sabe, no tocante à parte da decisão que negou seguimento ao recurso especial com fundamento no art. 1.030, inciso I, alínea b, do Código de Processo Civil, o único recurso cabível é o agravo interno, dirigido ao próprio Tribunal de origem, conforme previsão expressa do art. 1.030, § 2º, daquele mesmo diploma normativo - que, aliás, foi interposto e desprovido. Inviável, portanto, a discussão desse capítulo recursal na presente via.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.393.843/SP, Rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 21/5/2024)
+PROCESSUAL CIVIL. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ACÓRDÃO EM CONFORMIDADE COM TESE REPETITIVA. HIPÓTESE DE CABIMENTO DE AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. ART. 1.030, § 2º, DO CPC. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ERRO GROSSEIRO. AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo interno interposto por Solange Marcondes Ferres contra decisão da Presidência desta Corte Superior que não conheceu do recurso de agravo em recurso especial, em razão de seu não cabimento, com base no art. 1.030, §2º, do CPC/2015.
+II - Contra a decisão de inadmissibilidade do recurso especial, a parte interpôs agravo objetivando a submissão do tema n. 1.010/STJ à apreciação do Superior Tribunal de Justiça. O agravo não foi conhecido no STJ, em decisão monocrática da Presidência.
+III - O Código de Processo Civil, no seu art. 1.030, § 2º, dispõe ser cabível agravo interno contra decisão que nega seguimento a recurso especial com base no inciso I, b, deste mesmo artigo.
+IV - O Superior Tribunal de Justiça possui firme entendimento que a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível, o que afasta, inclusive, o princípio da fungibilidade recursal, uma vez que não há dúvida objetiva acerca do recurso cabível. Nesse sentido: AgInt no AREsp n. 2.342.906/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023; AgInt no AREsp n. 1.805.218/AM, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/11/2022, DJe de 14/11/2022; e AgInt no AREsp n. 1.529.922/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 10/2/2020, DJe de 14/2/2020.
+V - Na espécie, o agravo interno era o único recurso cabível contra a decisão proferida na origem que negou seguimento ao recurso especial.
+VI - No tocante à alegação de que "quando da apresentação do Agravo em Recurso Especial, o Tema 1010 do STJ não tinha registrado "Trânsito em Julgado", até porque, este só veio em 21/08/2023" (fl. 2.916), esta Corte Superior entende que não é necessário aguardar-se o trânsito em julgado de processo que julgou matéria repetitiva ou com repercussão geral para aplicação do entendimento. A propósito: AgInt no REsp n. 1.993.702/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/8/2022, DJe de 5/9/2022 e AgInt no REsp n. 1.742.075/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/8/2018, DJe de 20/8/2018.
+VII - Agravo interno improvido.
+(AgInt no AREsp n. 2.453.037/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 17/4/2024)
+Ante o exposto, não conheço do Agravo.
+Publique-se.
+Intimem-se.
+EMENTA
