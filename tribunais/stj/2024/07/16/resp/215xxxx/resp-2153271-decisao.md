@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte (fl. 482):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. HONORÁRIOS SUCUMBENCIAIS DEVIDOS CONFORME DETERMINAÇÃO DO SUPERIOR TRIBUNAL DEJUSTIÇA. FIXAÇÃO SOBRE O VALOR ATUALIZADO DA CAUSA. INAPLICABILIDADE DA APRECIAÇÃO EQUITATIVA. ACÓRDÃO REFORMADO.1.
+Consoante a determinação do Superior Tribunal de Justiça, são devidos a Defensoria Pública os honorários advocatícios sucumbenciais quando esse órgão litiga contra ente diverso do qual faz parte.
+2. A fixação dos honorários advocatícios de sucumbência deve observar os limites percentuais e a ordem de gradação da base de cálculo estabelecida pelo artigo 85, §2º, do CPC, aplicando-se subsidiariamente o artigo 85, §8º, do CPC, apenas se admitindo o arbitramento por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo, situações não vislumbradas nahipótese.
+3. O desprovimento do apelo interposto pela parte embargada e a condenação desta em honorários advocatícios na origem, impõe a majoração da verba honorária nesta sede recursal.
+RECURSO DE EMBARGOS DE DECLARAÇÃO CONHECIDO E ACOLHIDO. ACÓRDÃO REFORMADO.
+A parte recorrente sustenta que ocorreu violação do art. 85, § 8º, do CPC, pois como o proveito econômico é inestimável, deveria haver apreciação equitativa dos honorários advocatícios.
+Contrarrazões apresentada às fls. 504-506.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.7.2024.
+Para melhor compreensão, transcrevo o trecho do acórdão recorrido (fls. 484-485):
+Outrossim, apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou b) o valor da causa for muito baixo.
+(..)
+No presente caso, em que pese a Juíza de primeiro grau tenha fixado honorários em R$ 1.000,00(mil reais) a favor da Defensoria Pública, nos termos do art. 85, §8º do CPC, o valor atribuído a causa é de R$ 10.000,00 (dez mil reais), não sendo, portanto, muito baixo, de modo que é inaplicável a fixação de honorários advocatícios por apreciação equitativa, conforme utilizado na sentença.
+Nesse passo, tem-se que o parâmetro para a fixação dos honorários advocatícios devidos deve pautar-se pela lista preferencial indicada no §2º, do art. 85 do CPC.
+Considerando tratarem-se os honorários advocatícios matéria de ordem pública, que pode ser conhecida de ofício pelo julgador, a qualquer tempo ou grau de jurisdição, impõe a reforma de ofício da sentença.
+Nessa linha de intelecção, em atenção ao art. 85, § 2º do Código de Processo Civil, fixo os honorários advocatícios no importe de 10% (dez por cento) sobre o valor atualizado da causa.
+Relativamente aos critérios para arbitramento de honorários advocatícios de sucumbência, a Corte Especial do STJ, afetou a matéria para julgamento sob o rito dos Recursos Repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.618/SP e REsp 1.906.623/SP).
+O objeto específico da pretensão recursal neles veiculada consistiu em definir a exegese do art. 85, § 8º, do CPC, isto é, se a norma desse dispositivo legal é aplicável nas hipóteses em que a adoção dos parâmetros estabelecidos nos §§ 2º e 3º do mesmo artigo poderia resultar no estabelecimento de verba exorbitante ou excessiva, ou, por qualquer modo, desproporcional.
+O julgamento do Tema 1.076/STJ ("Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados") foi concluído com o estabelecimento das seguintes teses: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação, ou (b) do proveito econômico obtido, ou (c) do valor atualizado da causa; e ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+O acórdão proferido no julgamento de cada um dos Recursos Especiais acima indicados foi publicado no DJe de 31.5.2022 e, como consequência, tem-se: "As teses fixadas nos julgamentos vinculativos deste Superior Tribunal de Justiça e do Supremo Tribunal Federal podem ser aplicadas imediatamente nos feitos respectivos, ainda que não tenha ocorrido o trânsito em julgado dos precedentes de observância obrigatória e mesmo na pendência de eventuais aclaratórios. Precedentes do STJ e do STF." (AgInt nos EmbExeMS n. 6.318/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 22.8.2018, DJe de 3.9.2018.)
+In casu, o Tribunal de origem apontou que o critério equitativo não deve ser seguido, na medida em que o valor da causa, fixado em R$ 10.000,00, não é considerado ínfimo.
+Logo, correta a solução adotada pelo acórdão recorrido.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ e da Súmula 568/STJ, nego provimento ao Recurso Especial.
+Em relação aos honorários advocatícios recursais, aplico o art. 85, § 11, do CPC da seguinte forma: a) Se na decisão de origem foi aplicado o art. 85, § 3º, eleve os honorários ao percentual máximo da faixa correspondente; b) Se na decisão de origem foi utilizado o art. 85, § 2º, adicione 10 (dez) pontos percentuais à alíquota aplicada como honorários advocatícios, sem ultrapassar o teto previsto na norma mencionada; c) Se os honorários foram arbitrados em um montante fixo, majorar em 10% (dez por cento). Observados os critérios previstos no § 2º do art. 85, ressalvando que, em caso de concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
