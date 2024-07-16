@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RAMON VINÍCIUS LIMA CUNHA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 180, § 1º, do Código Penal (6 vezes), sendo convertida a prisão em preventiva.
+O writ impetrado na origem teve a ordem denegada, com a seguinte ementa:
+"Habeas Corpus - Receptação qualificada - Pretensão de revogação da prisão preventiva e alegação de excesso de prazo para formação da culpa.
+Presença dos requisitos da custódia cautelar R. Decisão que decretou a prisão preventiva se encontra devidamente fundamentada, conforme já analisado em Impetraçãoanterior.
+Excesso de prazo - Ausência de excesso de prazo que justifique a expedição de alvará de soltura - Prazo para o término da instrução criminal que não se baseia em meros cálculos aritméticos, sendo permitida sua dilação desde que haja a devida justificativa - Inexistência de trâmite anormalou paralisação indevida do processo, mas tão somente a complexidade da causa e dos atos processuais - Trata-se de feito que apura a prática de seis delitos imputados ao Paciente - Outrossim, a instrução somente não se encerrouem data anterior diante da insistência exclusiva da Defesa na oitiva de uma testemunha - Constrangimento ilegal não verificado. Ordem denegada." (e-STJ, fls. 130-138).
+No presente writ, o impetrante alega, em síntese, ilegalidade da prisão preventiva pelo excesso de prazo, na medida em que o paciente já estaria preso há aproximandamente 10 meses. Afirma que a demora não é culpa da defesa.
+Requer, assim, o relaxamento da prisão preventiva.
+Informações prestadas (e-STJ, fls. 153).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou não concessão da ordem (e-STJ, fls. 155-158).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No que tange ao alegado excesso de prazo, verifica-se que a aferição da ilegalidade reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal.
+Segundo pacífico entendimento doutrinário e jurisprudencial, a configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida consoante os critérios de razoabilidade, em razão das peculiaridades do caso concreto.
+O Tribunal local afastou a tese, consignando que:
+" ..
+Por fim, no tocante à alegação de excesso de prazo paraa formação da culpa, o inconformismo também não procede.
+Segundo entendimento pacífico, o prazo para o término da instrução criminal não é baseado em meros cálculos aritméticos, sendo possível a sua dilação desde que haja a devida justificativa.
+ ..
+Na espécie, não se verifica a ocorrência de trâmite anormal ou paralisação indevida do processo que justificasse um prolongamento inaceitável no prazo para formação da culpa, mas tão somente a própria complexidade da causa e dos atos processuais, ressaltando-se que são imputados seis crimes ao acusado, motivo pelo qual se fez necessária a realização de oitiva de diversas vítimas/testemunhas.
+Por oportuno, consigna-se a abalizada doutrina de Guilherme Nucci2, no sentido de que prazo previsto no art. 400, do Código de Processo Penal é impróprio, e "sempre se deve respeitar o motivo de força maior,como o excesso de serviço particular em determinada vara ou a complexidade do feito, a demandar um maior número de diligências, dentre outros aspectos. Em suma,deve-se analisar caso a caso, a fim de se verificar a concretude de eventual constrangimento ilegal".
+Outrossim, ao contrário do que se alegou na Impetração, a instrução processual somente não foi concluída em razão da insistência da Defesa na oitiva da testemunha S.S. S., que não compareceu na audiência de 05/03/2024, ocasião em que o Ministério Público desistiu de sua oitiva (fls. 377/378 Autos originários).
+Assim, não cabe à Defesa alegar excesso de prazoquando esta deu causa ao prolongamento da instrução processual.
+Portanto, não se vislumbra constrangimento ilegal a sersanado." (e-STJ, fls. 137-138)
+Nas informações prestadas pela Corte de origem, observa-se que, 11/6/2024, foi aberto o prazo para as alegações finais e, consoante consulta ao sítio eletrônico do Tribunal de origem, o processo foi concluso para sentença no dia 1/7/2024.
+No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE CAPITAIS. EXCESSO DE PRAZO. NÃO EVIDENCIADO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - No que tange ao aventado excesso de prazo, cumpre ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+II - Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, na qual se apura as condutas de organização criminosa e lavagem de capitais, demonstrando a complexidade do feito diante da diversidade de condutas e da pluralidade de pessoas envolvidas em práticas delitivas, 11 (onze) acusados; não se evidenciado a existência de desídia atribuível ao Poder Judiciário. Ademais, conforme consta dos autos, a instrução processual já foi encerrada; incidindo no caso, portanto, a Súmula n.º 52, STJ, segundo a qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Precedentes.
+III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido." (AgRg no RHC n. 196.299/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. INÉPCIA DA DENÚNCIA NÃO CONFIGURADA. PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 41 DO CÓDIGO DE PROCESSO PENAL. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. FEITO NA FASE DE ALEGAÇÕES FINAIS. INCIDÊNCIA DA SÚMULA N. 52/STJ. AUSÊNCIA DE INTIMAÇÃO DO ADVOGADO PARTICULAR DO ACUSADO. MATÉRIA SUSCITADA APENAS NO AGRAVO REGIMENTAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1.  ..
+6. Quanto ao alegado excesso de prazo na formação da culpa, de acordo com informações colhidas no endereço eletrônico do Tribunal de origem, verifica-se que, em 09/08/2023, houve o encerramento da instrução, porquanto o feito está na fase de alegações finais. Desse modo, fica superada a alegação de constrangimento ilegal por excesso de prazo , nos termos da Súmula n. 52 do Superior Tribunal de Justiça: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+7. No âmbito do agravo regimental, não se admite que a Parte amplie objetivamente as causas de pedir e os pedidos formulados na petição inicial ou no recurso. A tese de que não houve a realização de diligências para localização do Acusado trata-se de indevida inovação recursal.
+8. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido. (AgRg no HC n. 778.355/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Inti mem-se.
+EMENTA
