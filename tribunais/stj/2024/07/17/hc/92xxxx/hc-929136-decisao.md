@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de BENEDITO APARECIDO NUNES DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 3006154-46.2024.8.26.0000).
+Consta dos autos que foi determinada a expedição de mandado de prisão contra o ora Paciente em regime semiaberto.
+Irresignada, a Defesa impetrou prévio writ perante a Corte Estadual, que não conheceu da impetração, no seguintes termos (e-STJ Fl. 16-19):
+A Impetração não deve ser conhecidain limine.
+Isto porque:1. a decisão judicialindicada como ato coator - fls.08/11, datada de 02.07.2024 - foi prolatada no curso da execuçãocriminal e, portanto, seria passível de recurso de agravo, nos termos do artigo 197 da Lei de ExecuçãoPenal, de modo que, existindo recurso ordinário de cabimento amplo para combate específico de uma decisão judicial, qualquer outro remédio jurídico - em especial as ações constitucionais de impugnação - fica prejudicado;2. não há notícia de que o recurso aqui reclamado tenha sido utilizado, reforçando a tese de preclusão lógica sobre o tema;3. a situaçãopessoal e específica do Paciente, e a situaçãofática deste caso, especialmente sua origem (seu fator desencadeante), para serem bem analisadas e decididas, exigem reflexão que, por ora, não é possível ante a falta de documentação suficiente, já que as peças apresentadas pelo Impetrante são diminutas para a correta e completa compreensão do mérito, destacado o não cabimento de dilaçãoprobatória - seja ela qual for - nesta ação restrita;4. esta Câmara já firmou este entendimento(HC nº 0003286-98.2014.8.26.0000, rel. Des. MarcoAntônio Marques da Silva, j. em 27.03.2014, com referência a precedentes do Supremo Tribunal Federale do Superior Tribunal de Justiça):
+"Nesse sentido, observotambém que estritos seus limites, não pode o habeascorpus ser usado comosubstituto de recursos ou quando houver instrumento processual próprio paraformular requerimentos, sob pena de desvirtuamento de sua funçãoconstitucional. .. Desta forma, por se tratar de matéria de execução penal nãohá como analisar o pleito nos estritos limites do habeascorpus, devendo o pleito deve ser feito no juízo de 1º Grau, sob pena de, como anotado, haversupressão de instância, ou ainda, se necessário, em sede recursal por meio de agravo e não nos estritos limites da via eleita".
+Ante o exposto, não se conhece da Impetração, indeferidain limine, nos termos do artigo 663 do Código de Processo Penal, bem como nos termos do artigo 168, § 3º, do Regimento Interno do Tribunal de Justiça de São Paulo.
+Daí o presente mandamus, no qual alega a Defesa que a referida expedição do mandado de prisão ocorreu sem a intimação do ora Paciente para dar início ao cumprimento da pena e a despeito da inexistência de vagas no sistema carcerário paulista.
+É o relatório.
+O writ não merece prosseguir.
+A matéria aqui suscitada é também objeto do HC n. 928.720/SP. Constata-se, assim, a inadmissível reiteração, conforme a jurisprudência desta Corte Superior, da qual é exemplo o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022, grifo acrescido)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Fed eral.
+Publique-se. Intimem-se.
+EMENTA
