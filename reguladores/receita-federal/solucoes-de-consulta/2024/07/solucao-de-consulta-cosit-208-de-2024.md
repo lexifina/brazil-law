@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 208, de 16 de julho de 2024
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+RETENÇÃO NA FONTE. ART. 64 DA LEI Nº 9.430, DE 1996. PAGAMENTOS EFETUADOS EM DECORRÊNCIA DE LICENCIAMENTO OU CESSÃO DE DIREITO DE USO DE SOFTWARE NÃO CUSTOMIZADO OU CUSTOMIZADO EM PEQUENA EXTENSÃO.
+Para efeitos da incidência na fonte do Imposto sobre a Renda de Pessoa Jurídica (IRPJ), da Contribuição Social sobre o Lucro Líquido (CSLL), da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins), prescrita no art. 64 da Lei nº 9.430, de 1996, considera-se que a atividade de licenciamento ou cessão de direito de uso de programas de computador padronizados ou customizados em pequena extensão consiste na prestação de serviços em geral de que tratam o art. 15, § 1º, inciso III, alínea "a" , e o art. 20, caput, inciso I, da Lei nº 9.249, de 1995.
+Os órgãos da administração pública federal direta, autarquias, fundações federais, empresas públicas, sociedades de economia mista e demais entidades mencionadas nos arts. 1º e 2º da Instrução Normativa RFB nº 1.234, de 2012, deverão utilizar as alíquotas previstas no art. 3º do referido ato normativo, que equivalem ao percentual total de 9,45% (nove inteiros e quarenta e cinco centésimos por cento), previsto na última linha do Anexo I do mesmo ato (Código da Receita 6190), ao determinarem o montante da retenção na fonte de tributos incidentes sobre os pagamentos que efetuarem às pessoas jurídicas em decorrência das atividades de licenciamento ou cessão de direito de uso de programas de computador padronizados ou customizados em pequena extensão.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 36, DE 7 DE FEVEREIRO DE 2023.
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, § 1º, inciso III, alínea "a" , e art. 20, caput, inciso I; Lei nº 9.430, de 1996, art. 64; Instrução Normativa RFB nº 1.234, de 2012, arts. 1º, 2º e 3º, e Anexo I.
+[arquivo anexo: SC Cosit nº 208-2024.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
