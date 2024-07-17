@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de Maicon Pacheco Pinheiro, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação n. 5002879-20.2020.8.24.0075).
+Consta dos autos que o paciente foi condenado pela prática do delito de furto simples, em concurso material, com a prática de outros dois delitos de furto qualificado, à pena de 5 anos e 10 meses de reclusão, em regime fechado, e pagamento de 33 dias-multa, em regime fechado.
+Interposta apelação pela defesa, o Tribunal a quo negou-lhe provimento.
+Daí a presente impetração, na qual aponta-se ilegalidade pelo não reconhecimento da continuidade delitiva entre os delitos perpetrados.
+Afirma-se que o benefício legal foi negado pela suposta existência de delitos autônomos, a configurar a habitualidade delitiva, sem que fossem apontadas circunstâncias concretas que validassem o fundamento.
+Alega-se que é absolutamente incompatível com a orientação jurisprudencial deste Superior Tribunal de Justiça a solução dada ao presente caso pelo Poder Judiciário Catarinense ao afastar o reconhecimento da continuidade delitiva aos roubos tentados praticados em conexão temporal e espacial, e com o mesmo modus operandi, sob o argumento genérico de que houve habitualidade delitiva (fls. 8).
+Requer-se, assim, seja DECLARADA a ilegalidade do acórdão impugnado, para o fim de reconhecer a continuidade delitiva entre os três crimes de furto e, por consequência, exasperar em 1/6 a pena do crime mais grave (em vez do cúmulo material). Subsidiariamente, caso não seja conhecido o habeas corpus, seja a ordem concedida de ofício, diante das manifestas ilegalidades (CRFB/1988, artigo 5º, LXVIII; CPP, artigo 654, § 2º) - (fl. 9).
+É o relatório.
+O pres ente writ é incabível, por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (ver, a propósito, o AgRg no HC n. 811.995/SC, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2023).
+Ademais, como bem asseverou o Ministério Público Federal, no presente caso, o Tribunal de Justiça fundamentou que os crimes foram cometidos em lugares distintos, evidenciando, apenas, a habitualidade delitiva do paciente, não havendo continuidade do crime. Dessa forma, ante a fundamentação na ausência de semelhança da condição de"lugar" dos delitos, incumbiria à defesa demonstrar que os delitos ocorreram em locais semelhantes, para que fosse possível o reconhecimento da continuidade delitiva. O que não ocorreu no presente caso (fl. 428 - grifo nosso).
+Ora, como acrescentou o Parquet federal, as insurgências da impetrante foram fundamentadas contra a argumentação da "habitualidade criminosa", como se o julgador tivesse valorado a reincidência para negar a aplicação da continuidade. Contudo, essa habitualidade foi utilizada como uma forma de complementar a ausência da condição semelhante de "lugar", não como um fundamento obstativo ao benefício. Não havendo, portanto, ilegalidade ou desproporcionalidade que possa ser sanada nesta via estreita do habeas corpus (fl. 428).
+Mesmo porque a ilegalidade passível de justificar a impetração do writ deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão no acervo probatório constante de ação penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CONTINUIDADE DELITIVA. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. PROVA PRÉ-CONSTITUÍDA DO ALEGADO. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. VIA ELEITA. IMPOSSIBILIDADE.
+Writ não conhecido.
