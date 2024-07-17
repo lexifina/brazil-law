@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por TIAGO TADEU DO ESPIRITO SANTO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o recorrente cumpre pena pela prática dos delitos de receptação, tráfico de drogas, associação para o tráfico e moeda falsa, no regime fechado, embora alegue que consta no Sistema SEEU que está no semiaberto.
+Sustenta que teria direito à progressão para o aberto e que a situação decorre da falta de apuração de suposta falta grave, o que, se ocorresse, comprovaria o acerto do regime aberto.
+O prévio habeas, interposto no TJ/RS, teve a ordem parcialmente conhecida e nessa extensão denegada. O pleito de progressão de regime para o aberto, em face de falta grave pendente de apuração, não foi conhecido, sob o fundamento de que a matéria deve ser apreciada em sede de agravo em execução. Confira-se a ementa do acórdão:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME, INDULTO, COMUTAÇÃO DA PENA E ANÁLISE DAS INFORMAÇÕES EXISTENTES NO PEC. MATÉRIA AFETA À EXECUÇÃO. CONHECIMENTO POR CONTA DO EXCESSO DE PRAZO NA ANÁLISE DOS PEDIDOS PERANTE O JUÍZO DAS EXECUÇÕES. PRESTAÇÃO DE INFORMAÇÕES E COLOCAÇÃO DO PACIENTE NO REGIME SEMIABERTO, EIS QUE ERRONEAMENTE ENCONTRAVA-SE NO FECHADO. AUDIÊNCIA DE JUSTIFICAÇÃO DESIGNADA PARA DATA SUBSEQUENTE. PEDIDO DE EXAMINAÇÃO E ATUALIZAÇÃO ACERCA DAS INFORMAÇÕES DO PEC ANALISADOS. PERDA DO OBJETO. PROGRESSÃO DE REGIME. MATÉRIA RELATIVA À EXECUÇÃO DA PENA. RECURSO CABÍVEL O AGRAVO EM EXECUÇÃO, PREVISTO NO ARTIGO 197 DA LEP. INADEQUAÇÃO DA VIA ELEITA. POR FIM, AUSÊNCIA DE ILEGALIDADE A AUTORIZAR A SOLTURA DO PACIENTE. PECULIARIDADES DO CASO CONCRETO. DECISÃO DEVIDAMENTE MOTIVADA. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+Requer, liminarmente e no mérito, seja expedido alvará de soltura.
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi apreciada no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022, grifo acrescido)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 34, XVIII, a, ambos do RISTJ, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
