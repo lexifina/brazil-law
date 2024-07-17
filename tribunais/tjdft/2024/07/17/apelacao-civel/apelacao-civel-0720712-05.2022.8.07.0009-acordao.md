@@ -1,0 +1,111 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0720712-05.2022.8.07.0009APELANTE(S)SAUDE BRB - CAIXA DE ASSISTENCIAAPELADO(S)LUZIA FLAVIA DOS SANTOS MARTINSRelatorDesembargador ARQUIBALDO CARNEIRO
+ Acórdão Nº1895640
+
+EMENTA
+
+ APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. MENSALIDADES DE PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. PRESCRIÇÃO AFASTADA.  PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL. PROTESTO DA DÍVIDA. INTERRUPÇÃO DA PRESCRIÇÃO. SENTENÇA DESCONSTITUÍDA.
+
+1. O cerne da controvérsia reside em examinar a incidência (ou não) prazo prescricional para a cobrança de mensalidade de plano de saúde administrado por entidade de autogestão. No caso, o apelante almeja o recebimento de valores decorrentes de descumprimento de obrigação prevista em contrato de plano de saúde.
+
+2. O  egrégio Superior Tribunal de Justiça pacificou o entendimento de que as normas do Código de Defesa do Consumidor são inaplicáveis aos contratos de plano de saúde administrados por entidades de autogestão e que  a pretensão de cobrança de valores a título de coparticipação em plano de saúde de autogestão submete-se ao prazo prescricional de 10 (dez) anos, previsto no art. 205 do Código Civil.
+
+3.  A pretensão de cobrança da dívida debatida nos autos não se encontra prescrita, uma vez que a operadora do plano de saúde protestou a dívida em 11/01/2013, restando interrompido em tal data o lapso prescricional, observando que a presente demanda foi ajuizada em 26/12/2022.
+
+4. Deu-se provimento ao recurso.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARQUIBALDO CARNEIRO - Relator, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal e VERA ANDRIGHI - 2º Vogal, sob a Presidência do Senhor Desembargador ALFEU MACHADO, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 26 de Julho de 2024
+
+Desembargador ARQUIBALDO CARNEIRORelator
+
+RELATÓRIO
+
+Cuida-se de apelação cível interposta por Saúde BRB – Caixa de Assistência, em face da sentença de ID 59410926, proferida pela 1ª Vara Cível da Circunscrição Judiciária de Samambaia, ato em que o Juízo a quo declarou a prescrição da pretensão autoral quanto ao ressarcimento dos valores atinentes à coparticipação em plano de saúde administrado pela autora, sob os seguintes fundamentos:
+
+“Ainda que se considere que o protesto tenha interrompido a prescrição em 11/01/2013, este deve ser considerado o termo a quo para fluência do prazo prescricional que, sendo quinquenal (que ora se adota por decorrer de fatura cobrada pela parte autora, ao invés do trienal - referente ao ressarcimento / reparação), já expirou às 23:59 de 10/01/2018.
+
+5 – Dispositivo: Ante o exposto, DECLARO A PRESCRIÇÃO da pretensão autoral de ressarcimento dos valores referentes a coparticipação relativa a procedimentos médicos e consultas de plano de saúde, resolvendo o mérito, nos termos do artigo 487, inciso II do CPC. Condeno a parte autora nas custas e nos honorários sucumbenciais, estes quantificados em 10% sobre o valor atualizado da causa, em favor do patrono da ré, nos termos do artigo 85, § 2º, do CPC. Após o trânsito em julgado e efetivo cumprimento, proceda-se baixa na distribuição e remetam-se os autos para o arquivo. Publique-se. Intimem-se. Sentença registrada eletronicamente.” (ID 59410926).
+
+Em suas razões recursais (ID 59410928), a apelante aduz que a relação jurídica subjacente diz respeito a cobrança de mensalidade de plano de saúde administrado por entidade de autogestão, em que a apelada figurou como beneficiária do plano de saúde operado pela recorrente, no período compreendido entre 13/06/2007 a 05/01/2017.
+
+Narra que os valores das coparticipações inadimplidos são atinentes a procedimentos realizados entre 03/12/2009 a 22/01/2010; que o prazo prescricional foi interrompido, uma vez a dívida foi protestada em 11/01/2013.
+
+Defende não há que se falar em prescrição quinquenal, inserta no art. 206, §5º, I do Código Civil. Sustenta que seria aplicável à hipótese a regra geral prevista no artigo 205, do aludido Diploma Legal, que estabelece o prazo prescricional de 10 (dez) anos. Que, ante a “iliquidez dos valores relativos à coparticipação devida ao plano de saúde de autogestão e da inexistência de previsão legal específica sobre o prazo prescricional para a cobrança de tais valores, aplicável o prazo geral do art. 205 do Código Civil.”
+
+Faz menção ao princípio da isonomia, referindo-se ao tratamento igualitária que se deve conferir às partes, posto que nas demandas de reembolso de despesas hospitalares não pagas pelos planos de saúde o prazo prescricional estabelecido pela jurisprudência seria o de 10 (dez) anos.
+
+Com tais argumentos, pugna pelo provimento do recurso para que esta Instância Recursal afaste a prescrição quinquenal.
+
+Preparo devidamente comprovado no ID 59410929.
+
+Conquanto intimada para contrarrazões, a apelada deixou transcorrer in albis o prazo para resposta ao recurso, conforme Certidão de ID 59410933.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARQUIBALDO CARNEIRO - RelatorPreenchidos os pressupostos de admissibilidade, conheço do recurso e o recebo nos efeitos suspensivo e devolutivo, conforme estabelece o artigo 1.012, caput, do Código Processo Civil.
+
+Conforme relatado, cuida-se de apelação cível interposta por Saúde BRB – Caixa de Assistência em que a recorrente se insurge contra a sentença que declarou a prescrição do direito da operadora de plano de saúde de cobrar dívida de coparticipação.
+
+Com razão o apelante.
+
+O cerne da controvérsia reside em examinar a incidência (ou não) prazo prescricional para a cobrança de mensalidade de plano de saúde administrado por entidade de autogestão. No caso, a apelante almeja o recebimento de valores decorrentes de descumprimento de obrigação prevista em contrato de plano de saúde.
+
+Da não incidência das normas consumeristas.
+
+De plano, cumpre consignar que o egrégio Superior Tribunal de Justiça pacificou o entendimento de que as normas do Código de Defesa do Consumidor são inaplicáveis aos contratos de plano de saúde administrados por entidades de autogestão.
+
+Nesse sentido, transcrevo o enunciado da Súmula 608 do STJ: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão.”
+
+No caso em debate, nos termos do artigo 1º do Estatuto da Saúde BRB, “A SAUDE BRB - CAIXA DE ASSISTENCIA, doravante designada pelo nome fantasia SAUDE BRB, pessoa jurídica de direito privado, com sede, foro e atuação em Brasília, Distrito Federal, é uma associação sem fins econômicos, operadora de planos de saúde na modalidade de autogestão, regida pelo presente Estatuto e regulamentos próprios, pelos demais atos normativos expedidos pelos órgãos competentes e, ainda, pela legislação atinente a este tipo de pessoa jurídica.” (ID 59408869).
+
+Nesse sentido, já se pronunciou o egrégio Superior Tribunal de Justiça:
+
+“PLANO DE SAÚDE - OPERADORA DE AUTOGESTÃO - CÓDIGO DE DEFESA DO CONSUMIDOR - INAPLICABILIDADE  "Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo" (REsp n. 1.285.483, Min. Luis Felipe Salomão).
+
+Convém destacar que resta incontroverso nos autos de que a ré/apelada foi beneficiária de plano de saúde administrado pela autora/recorrente, conforme Ficha de Inscrição Plano de Saúde “A’ e Relatório de Análise de Receita por Tipo – Analítico, documentos juntados pelo recorrente nos ID’s 59408873/59408874.
+
+A jurisprudência do egrégio Superior Tribunal de Justiça possui entendimento de que a pretensão de cobrança de valores a título de coparticipação em plano de saúde de autogestão submete-se ao prazo prescricional de 10 (dez) anos, previsto no art. 205 do Código Civil. Confira:
+
+“AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. REEMBOLSO. PRESCRIÇÃO DECENAL. AGRAVO NÃO PROVIDO. 1. Aplica-se a prescrição geral decenal do art. 205 do Código Civil às pretensões de cobrança de despesas médico-hospitalares contra plano de saúde. Precedentes. 2. Agravo interno a que se nega provimento.” (STJ - AgInt no REsp: 1808190 RS 2019/0109946-7, Relator: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 20/04/2020, T4 - QUARTA TURMA, Data de Publicação: DJe 24/04/2020)
+
+“EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL. INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. UNIFICAÇÃO. IMPOSSIBILIDADE. ISONOMIA. OFENSA. AUSÊNCIA. 1. Ação ajuizada em 14/08/2007. Embargos de divergência em recurso especial opostos em 24/08/2017 e atribuído a este gabinete em 13/10/2017. 2. O propósito recursal consiste em determinar qual o prazo de prescrição aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual, especificamente, se nessas hipóteses o período é trienal (art. 206, § 3, V, do CC/2002) ou decenal (art. 205 do CC/2002). 3. Quanto à alegada divergência sobre o art. 200 do CC/2002, aplica-se a Súmula 168/STJ ("Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado"). 4. O instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança. 5. Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/02, com prazo de três anos. 6. Para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição da toda e qualquer consequência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito. 7. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados. 8. Há muitas diferenças de ordem fática, de bens jurídicos protegidos e regimes jurídicos aplicáveis entre responsabilidade contratual e extracontratual que largamente justificam o tratamento distinto atribuído pelo legislador pátrio, sem qualquer ofensa ao princípio da isonomia. 9. Embargos de divergência parcialmente conhecidos e, nessa parte, não providos.” (STJ - EREsp: 1280825 RJ 2011/0190397-7, Relator: Ministra NANCY ANDRIGHI, Data de Julgamento: 27/06/2018, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJe 02/08/2018)
+
+"RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE ASSISTÊNCIA À SAÚDE. PRETENSÃO DE COBRANÇA DE CONTRIBUIÇÕES MENSAIS INADIMPLIDAS. DISPOSIÇÃO CONTRATUAL QUE ESTABELECE OS DADOS E OS CRITÉRIOS NECESSÁRIOS AO CÁLCULO DOS VALORES DEVIDOS. DÍVIDA LÍQUIDA PREVISTA EM INSTRUMENTO PARTICULAR. PRAZO PRESCRICIONAL QUINQUENAL. 1. Ação de cobrança ajuizada em 24/08/2021, da qual foi extraído o presente recurso especial, interposto em 07/11/2022 e concluso ao gabinete em 30/05/2023. 2. O propósito recursal é decidir sobre o prazo prescricional aplicável à pretensão de cobrança, pela operadora, das contribuições mensais inadimplidas pelo titular do contrato de assistência à saúde: se quinquenal (art. 206, § 5º, I, do CC) ou decenal (art. 205 do CC). 3. A interpretação dos dispositivos legais, à luz do entendimento jurisprudencial e doutrinário, permite inferir que a regra geral, nas pretensões relacionadas ao inadimplemento contratual, inclusive nos contratos de assistência à saúde, é a da incidência da prescrição decenal (art. 205 do CC); se se tratar de pretensão de nulidade de cláusula contratual com a consequente repetição do indébito, aplicase a regra especial do prazo trienal (art. 206, § 3º, IV, do CC); se se tratar de pretensão, pura e simples, de cobrança de dívida líquida prevista no contrato, todavia, aplica-se a regra especial do prazo quinquenal (art. 206, § 5º, I, do CC). 4. Há de ser observada a prescrição especial in concreto - qual seja, a do art. 206, § 5º, I, do CC - quando a dívida exigida em juízo estiver contida em disposição contratual que estabeleça os dados e os critérios necessários ao cálculo dos valores devidos, sendo a sua cobrança a única pretensão exercida pelo autor (pretensão principal) em face do contratante inadimplente que, obrigado a pagar o valor determinado na avença, deixa de fazê-lo no vencimento acordado. 5. A hipótese dos autos não se confunde com a do julgamento do REsp 1.756.283/SP, realizado pela Segunda Seção (em 11/3/2020, DJe de 3/6/2020), pois, enquanto no REsp 1.756.283/SP a pretensão de reembolso é acessória ao reconhecimento da negativa indevida de cobertura pela operadora do plano de saúde (pretensão originária), neste é deduzida, unicamente, a pretensão de cobrança da dívida líquida fundada no contrato, por representar essa dívida líquida, em si mesma, o inadimplemento da prestação a que se obrigou a contratante. 6. Recurso especial conhecido e desprovido.” (REsp n. 2.073.372/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/4/2024, DJe de 10/4/2024.)
+
+Nesses lindes, conforme alinhavado nas linhas pretéritas, a relação jurídica a jungir as partes está alicerçada por fundamento contratual, na medida em que entre a apelada e a apelante há (houve) a contratação de serviços de atendimento de saúde, estando a recorrente acobertada pelo plano mediante contraprestações pecuniárias.
+
+Com efeito, o contrato firmado entre as partes é ajuste bilateral e oneroso, de modo que exige a manifestação de ambas as partes e contraprestação pecuniária à prestação dos serviços contratados. Assim, para comprovar a contratação dos serviços a parte autora juntou aos autos a Ficha de Inscrição do Plano de Saúde assinado pela apelada, documento que demonstra a existência de relação jurídica entre as partes iniciada no ano de 2007.
+
+Portanto, considerando que a apelada figurou como beneficiária do plano de saúde administrado pela recorrente, no período compreendido entre 13/06/2007 a 05/01/2017 e, ainda, que os valores inadimplidos se referem a procedimentos médicos realizados entre 03/12/2009 a 22/01/2010, extrai-se dos autos que a pretensão de cobrança da dívida não se encontra prescrita, porque a apelante protestou o débito em 11/01/2013 (Instrumento de Protesto nº 957619 - ID 59408876), restando interrompido em tal data o lapso prescricional.  Consigna-se que a presente demanda foi ajuizada em 26/12/2022, conforme ID 59408868.
+
+Nesse sentido, seguindo orientação da Corte Infraconstitucional, assim perfilha esta egrégia Corte de Justiça:
+
+“APELAÇÃO CÍVEL. CIVIL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. PRESCRIÇÃO. AUSÊNCIA DE PREVISÃO ESPECÍFICA. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL. APLICÁVEL. SENTENÇA REFORMADA. 1. Trata-se de ação de cobrança referente a mensalidades inadimplidas de plano de saúde administrado por entidade de autogestão. 2. O reconhecimento da prescrição de eventuais valores cobrados pelo plano de saúde administrado por entidade de autogestão submete-se à regra geral do prazo decenal previsto no artigo 205 do Código Civil, tendo em vista a ausência de previsão legal específica expressa em sentido diverso. Precedentes desta Corte. 3. Deu-se provimento ao apelo para afastar a prescrição quinquenal.” (Acórdão 1379897, 07066396320208070020, Relator(a): ARQUIBALDO CARNEIRO PORTELA, 6ª Turma Cível, data de julgamento: 13/10/2021, publicado no DJE: 11/11/2021.)
+
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. ASSEFAZ. AUTOGESTÃO. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR.  COBRANÇA. MENSALIDADES VENCIDAS. PRESCRIÇÃO. PRAZO DECENAL (ART. 405, DO CÓDIGO CIVIL). INOCORRÊNCIA. INADIMPLEMENTO. RESCISÃO CONTRATUAL AUTOMÁTICA. IMPOSSIBLIDADE. CORREÇÃO MONETÁRIA. JUROS DE MORA. TERMO INICIAL. VENCIMENTO DE CADA PARCELA. ART. 397, DO CÓDIGO CIVIL. Nos termos da súmula 608, do Superior Tribunal de Justiça, não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistir relação de consumo. O prazo prescricional da pretensão de cobrança por inadimplemento contratual não se insere na regra do artigo 206, § 5º, inciso I, do Código Civil, segundo o qual prescreve em cinco anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular. Aplica-se, portanto, o disposto no artigo 205, que prevê o prazo prescricional decenal, na medida em que inexiste disposição legal específica para a pretensão de cobrança lastreada em disposição contratual. Não há rescisão automática do contrato havido entre as partes, mesmo diante da constatação do inadimplemento da titular do plano em relação às mensalidades devidas, porquanto é faculdade do plano de saúde optar por manter o contrato e cobrar as faturas vencidas, diante da ausência de requerimento escrito solicitando a rescisão do vínculo contratual perante a operadora de saúde, determinada no regulamento. Tratando-se de obrigação positiva, líquida e com vencimento certo e determinado, a correção monetária e os juros de mora incidem a partir do vencimento de cada parcela, nos termos do artigo 397, do Código Civil.” (Acórdão 1329671, 07071015920208070007, Relator(a): ESDRAS NEVES, 6ª Turma Cível, data de julgamento: 7/4/2021, publicado no DJE: 19/4/2021. Pág.: Sem Página Cadastrada.)
+
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. MENSALIDADES DE PLANO DE SAÚDE. AUTOGESTÃO. DECLARAÇÃO DE PRESCRIÇÃO QUINQUENAL. INEXISTÊNCIA DE DÍVIDA INSCRITA EM INSTRUMENTO PARTICULAR. DÉBITO APURADO DE FORMA ESTATUTÁRIA E INDIVIDUALIZADA. AUSÊNCIA DE PREVISÃO LEGAL DE PRAZO PRESCRICIONAL ESPECÍFICO. PRESCRIÇÃO DECENAL. ART. 206 DO CÓDIGO CIVIL. APELAÇÃO PROVIDA. SENTENÇA REFORMADA. 1. O recorrido aderiu a plano de saúde de autogestão mantido por fundação pública, sem fins lucrativos, de modo que as contraprestações devidas pela cobertura de atendimento são volvidas à manutenção coletiva do custeio e não são fixadas por ajuste particular entre as partes, o que impede a incidência do prazo prescricional quinquenal das obrigações dispostas em instrumento particular, previsto no art. 206, § 5º, I, do CC do CPC. 2. O valor das mensalidades devidas aos planos de saúde de autogestão é calculado com base em critérios específicos e submetido a atualização atuarial, conforme disposições estatutárias, sendo apurado individualmente para cobrança mensal em face do titular, mediante avaliação de faixa e etária, número de dependentes, além de eventuais valores devidos a título de coparticipação. 3. Dessa forma, a prescrição de eventuais valores cobrados pelo plano de saúde deve observar a regra geral do prazo decenal previsto no artigo 205 do Código Civil, tendo em vista a ausência de previsão legal específica dispondo sobre tal espécie obrigacional. 4. RECURSO PROVIDO." (Acórdão 1635512, 07042513520208070006, Relator(a): ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 3/11/2022, publicado no PJe: 21/11/2022. Pág.: Sem Página Cadastrada.)
+
+“APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. MENSALIDADES DE PLANO DE SAÚDE. AUTOGESTÃO. DECLARAÇÃO DE PRESCRIÇÃO QUINQUENAL. DÍVIDA INSCRITA EM INSTRUMENTO PARTICULAR. INEXISTÊNCIA. DÉBITO APURADO DE FORMA ESTATUTÁRIA E INDIVIDUALIZADA. AUSÊNCIA DE PREVISÃO LEGAL DE PRAZO PRESCRICIONAL ESPECÍFICO. PRESCRIÇÃO DECENAL. ART. 206 DO CÓDIGO CIVIL. SENTENÇA TORNADA SEM EFEITO. 1. A recorrida aderiu a plano de saúde de autogestão mantido por fundação pública, sem fins lucrativos, de modo que as contraprestações devidas pela cobertura de atendimento são volvidas à manutenção coletiva do custeio e não são fixadas por ajuste particular entre as partes, o que impede a incidência do prazo prescricional quinquenal das obrigações dispostas em instrumento particular, previsto no art. 206, § 5º, I, do CC do CPC. 2. O valor das mensalidades devidas aos planos de saúde de autogestão é calculado com base em critérios específicos e submetido a atualização atuarial, conforme disposições estatutárias, sendo apurado individualmente para cobrança mensal em face do titular, mediante avaliação de faixa e etária, número de dependentes, além de eventuais valores devidos a título de coparticipação. 3. Dessa forma, a prescrição de eventuais valores cobrados pelo plano de saúde deve observar a regra geral do prazo decenal previsto no artigo 205 do Código Civil, tendo em vista a ausência de previsão legal específica dispondo sobre tal espécie obrigacional. 4. Recurso provido.” (Acórdão 1329672, 07173188220208070001, Relator(a): ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 7/4/2021, publicado no DJE: 15/4/2021. Pág.: Sem Página Cadastrada.)
+
+Ante o exposto, DOU PROVIMENTO ao apelo para afastar a prescrição e declarar a legalidade das cobranças realizadas no período descrito na inicial (maio de 2013 e fevereiro de 2016) por incidir no caso a prescrição decenal à pretensão. Por conseguinte, CONDENO a apelada/ré Luzia Flavia dos Santos Martins ao pagamento do valor de R$ 1.233,24 (mil duzentos e trinta e três reais e vinte e quatro centavos), com incidência de correção monetária e juros de mora, a contar da data do inadimplemento de cada mensalidade até a data do efetivo pagamento.
+
+Diante do resultado alcançado neste julgamento, inverto o ônus sucumbencial e CONDENO a apelada/ré ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor da condenação, conforme o art. 85, § 2º, do Código de Processo Civil.
+
+Deixo de majorar em honorários recursais, com fulcro no entendimento disposto no AgInt nos EREsp 1539725 / DF.
+
+É o meu voto.
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal Com o relatorA Senhora Desembargadora VERA ANDRIGHI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
