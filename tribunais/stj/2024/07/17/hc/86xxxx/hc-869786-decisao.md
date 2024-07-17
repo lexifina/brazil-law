@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Rodrigo dos Santos Vallerius, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação n. 5002651-74.2020.8.21.0060).
+Consta dos autos que o paciente foi condenado pela prática dos delitos tipificados nos arts. 157, § 2º, II, e art. 157, caput, ambos do Código Penal, em continuidade delitiva, à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial semiaberto, e pagamento de 12 dias-multa.
+Interposta apelação por ambas as partes, o Tribunal a quo decidiu, por unanimidade, dar parcial provimento ao apelo ministerial para, afastando a continuidade delitiva entre os crimes, elevar a pena total do réu, em concurso material, para 09 (nove) anos e 04 (quatro) meses de reclusão, em regime inicial fechado; e dar parcial provimento ao apelo defensivo, somente, para suspender a exigibilidade das custas e despesas processuais, nos termos do art. 98, § 3º, do CPC, mantidas as demais cominações da sentença (fl. 314).
+Nesta instância superior, defende a impetrante ilegalidade pelo afastamento do benefício da continuidade delitiva, reconhecido pelo magistrado sentenciante.
+Afirma que no caso específico, deve-se observar que o agente, mediante mais de uma ação, teria praticado dois crimes da mesma espécie (dois roubos) e, pelas condições de tempo (apenas três dias entre uma infração e outra), lugar (mesmo município) e maneira de execução (similar modo de execução nos dois fatos, com emprego de arma branca para efetivar a grave ameaça), o delito subsequente deve ser considerado como continuação do primeiro (fl. 7).
+Requer, inclusive liminarmente, seja cassado o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, com o consequente restabelecimento da sentença.
+O pedido de liminar foi indeferido (fls. 582/583).
+Prestadas as informações (fls. 589/633), o Ministério Público Federal manifestou-se pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 638/643).
+É o relatório.
+O writ, no entanto, é manifestamente inadmissível.
+No caso, a condenação do paciente já é definitiva. Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Ademais, não há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, considerando que, para a caracterização da continuidade delitiva (prevista no art. 71 do CP), é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva - quais sejam, pluralidade de ações, mesmas condições de tempo, lugar e modo de execução - e de ordem subjetiva, assim entendidos como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos (chamada de Teoria Mista ou Objetivo-Subjetiva).
+E, na espécie, o Tribunal a quo afastou a existência de liame subjetivo, reconhecendo, ao contrário, a habitualidade criminosa. Tal compreensão do Tribunal de Justiça estadual está em perfeita consonância com a jurisprudência desta Corte Superior, que já se posicionou no sentido de que os institutos da habitualidade e do crime continuado são incompatíveis.
+A propósito, os seguintes julgados: AgRg no HC n. 673.460/SC, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 22/9/2021; AgRg no HC n. 658.449/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 20/8/2021; e AgRg no HC n. 441.147/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 26/3/2019.
+Portanto, não se pode confundir crime continuado com reiteração criminosa, sob pena de se prestigiar quem faz da ilicitude uma habitualidade, como no caso.
+De registrar, por derradeiro, que maiores incursões no tema, com a finalidade de se constatar eventual similitude entre os delitos cometidos, demandariam reexame das provas, providência incabível na angusta via do habeas corpus.
+Nesse sentido: AgRg no HC n. 680.548/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 11/10/2021; AgRg no AREsp n. 1.900.291/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/10/2021; e AgRg no AREsp n. 1.125.952/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/9/2021.
+Ante o exposto, não conheço do writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. ROUBOS. PRETENSÃO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 71 DO CP. CONFIGURAÇÃO DE REITERAÇÃO CRIMINOSA. EVENTUAL SIMILITUDE ENTRE OS DELITOS COMETIDOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT.
+Writ não conhecido.
