@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Bruno Felipe da Silva - responde a ação penal por suposto tráfico de entorpecentes (fls. 452/505) - em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais (Apelação criminal n. 1.0000.23.288654-9/001), cuja ementa merece transcrição (fl. 458):
+APELAÇÃO CRIMINAL. RECURSO MINISTERIAL. TRÁFICO DE ENTORPECENTES. VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. FLAGRANTE CONFIGURADO. CRIME PERMANENTE. ILEGALIDADE NÃO DEMONSTRADA. JUSTA CAUSA EVIDENCIADA. NULIDADE AFASTADA. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA ANÁLISE DA MATERIALIDADE E AUTORIA EM RELAÇÃO A UM DOS RÉUS. SENTENÇA DESCLASSIFICATÓRIA PARA O CRIME DE USO DE ENTORPECENTES. PLEITO DE CONDENAÇÃO PELO CRIME DE TRÁFICO DE DROGAS. INVIABILIDADE. CONJUNTO PROBATÓRIO FRÁGIL E INSUBSISTENTE. MEROS INDÍCIOS. INSUFICIÊNCIA PARA EMBASAR A CONDENAÇÃO POR TRÁFICO. DESCLASSIFICAÇÃO MANTIDA. RECURSO PROVIDO EM PARTE.
+- Caracterizado o flagrante, não há que se falar em ilegalidade da abordagem policial, sendo dispensável, portanto, a apresentação de mandado de busca e apreensão para que os policiais adentrassem na residência ou mesmo a existência de investigações prévias, uma vez se tratar de crime permanente. Reconhecida a licitude da prova obtida, impõe-se cassação parcial da sentença, com o retorno dos autos à origem, para que a matéria seja submetida à apreciação do magistrado a quo para que se manifeste quanto ao mérito das imputações contidas na peça acusatória, sob pena de supressão de instância.
+- Não se pode condenar ninguém como traficante com base em meras suposições. A gravidade do crime exige prova cabal e perfeita, de modo que, inexistindo esta nos autos, mantém-se a desclassificação.
+- A simples probabilidade de autoria, tratando-se de mera etapa da verdade, não constitui certeza por si só. Recurso ministerial parcialmente provido.
+Alega-se ilegalidade no prosseguimento da ação penal, porquanto teria ocorrido mediante violação de domicílio (fls. 3/15).
+Requer-se a concessão da ordem, a fim de que (fl. 15):
+ ..
+Ante o exposto, a Defensoria Pública do Estado de Minas Gerais requer, observados os trâmites legais, seja concedida a ordem para que seja reformado o acórdão que manteve a condenação do paciente, declarando-se a ilegalidade e nulidade da prova consubstanciada na busca realizada pelos policiais na residência.
+Instruem como anexo à presente petição cópias integrais dos autos principais.
+ ..
+Informações prestadas (fls. 515/551).
+Parecer do Ministério Público Federal no sentido da concessão da ordem (fls. 553/559).
+É o relatório.
+Em suma, busca-se, neste mandamus, a declaração de nulidade das provas obtidas mediante suposta violação de domicílio e, consequentemente, a absolvição do paciente.
+No caso, há constrangimento ilegal passível de ser reparado por meio da via eleita.
+Com efeito, ressalte-se um trecho da obra "Curso de Direito Processual Penal", de Fernando Capez, no qual se defende a inviolabilidade do domicílio, in verbis:
+ ..
+A inviolabilidade do domicílio é um dos pilares fundamentais de toda a sociedade democrática, pois consagra a ideia de que ninguém pode ser importunado ou perseguido dentro de sua própria casa, e que o Estado somente poderá adentrar nesse espaço sagrado quando houver autorização judicial, e nas hipóteses excepcionais previstas em lei. A proteção ao domicílio está diretamente ligada à liberdade, intimidade e privacidade das pessoas, que devem ser respeitadas em todos os momentos e em todas as circunstâncias, sob pena de se instalar um regime totalitário que subjuga e aniquila o indivíduo em favor do poder estatal.
+ ..
+Nesse trecho, é possível observar a importância que o autor atribui à inviolabilidade do domicílio como uma garantia fundamental de proteção à liberdade, intimidade e privacidade das pessoas, que não pode ser violada sem autorização judicial e nas hipóteses excepcionais previstas em lei.
+A partir do entendimento supra, a Sexta Turma desta Corte, ao revisitar o tema referente à violação de domicílio, no Habeas Corpus n. 598.051/SP, de relatoria do Ministro Rogerio Schietti, fixou as teses de que "as circunstâncias que antecederem a violação do domicílio devem evidenciar, de modo satisfatório e objetivo, as fundadas razões que justifiquem tal diligência e a eventual prisão em flagrante do suspeito, as quais, portanto, não podem derivar de simples desconfiança policial, apoiada, v. g., em mera atitude "suspeita", ou na fuga do indivíduo em direção a sua casa diante de uma ronda ostensiva, comportamento que pode ser atribuído a vários motivos, não, necessariamente, o de estar o abordado portando ou comercializando substância entorpecente", e de que até mesmo o consentimento, registrado nos autos, para o ingresso das autoridades públicas sem mandado, deve ser comprovado pelo Estado (RHC n. 169.942/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/11/2022 - grifo nosso).
+Erigida essa premissa, ao tratar do tema, o voto condutor do acórdão impugnado teceu as seguintes considerações (fls. 19/39):
+ ..
+Narra a denúncia que no dia 26 de abril de 2018, por volta das 21:52 horas, na Rua Assumar nº 100, Bairro Coqueiros, nesta Capital, os denunciados traziam consigo e mantinham sob guarda, para a prática do comércio ilícito, 03 (três) invólucros plásticos contendo maconha, pesando8,6g (oito gramas e sessenta centigramas), e 30 (trinta) pedras de crack, subproduto da cocaína, pesando 10,8g (dez gramas e oitenta centigramas), drogas que determinam dependência física ou psíquica, agindo sem autorização ou em desacordo com determinação legal ou regulamentar.
+Conforme anunciam os autos, durante patrulhamento pelo endereço retromencionados, local conhecido pela intensa mercancia de drogas, policiais militares avistaram o primeiro denunciado, Douglas, em atitude suspeita, pelo que deliberaram por abordá-lo. Durante buscas pessoais, os militares arrecadaram na posse de Douglas, mas especificamente no bolso da bermuda que trajava, 03 (três) buchas de maconha, e a quantia de R$48,00 (quarenta e oito reais), em notas trocadas.
+Durante a abordagem de Douglas, os militares avistaram o segundo denunciado, Bruno, já conhecido pela guarnição, saindo da casa de nº 100. Porém, ao notar a presença policial no local, Bruno retornou rapidamente par ao interior da residência. Na tentativa de alcançar Bruno, os policiais adentraram a residência, porém, o imputado evadiu pelos fundos, não sendo possível abordá-lo.
+Diante do narrado, os castrenses realizaram buscas na casa do denunciado Bruno, e apreenderam, dentro de alguns tijolos da casa, um invólucro contendo em seu interior 30 (trinta) pedras de crack, doladas e prontas para venda.
+Conforme levantamento de vida pregressa realizado pela polícia civil, o denunciado Bruno declarou as policiais que vendia drogas via "Whatsapp" e as guardava em sua residência (fls. 53/56).
+ ..
+Cumpre salientar que em juízo todos os policiais ouvidos confirmaram o teor do Boletim de Ocorrência, ratificando que o local onde estava sendo realizado o patrulhamento era conhecido como ponto de tráfico de drogas, e que Bruno já era conhecido no meio policial e que já teria sido preso em outra oportunidade, também por tráfico de drogas.
+Ademais, o Relatório Circunstanciado de Investigações (f. 53/56), após inúmeros levantamentos, também revelou que Bruno já estava sendo investigado pela unidade policial por envolvimento com tráfico de entorpecentes, que vendia drogas pelo WhatsApp, e guardava os entorpecentes em sua residência, de modo que era plenamente atuante na traficância ilícita. Portanto, é de se notar que a abordagem e entrada em sua residência foi precedida não só de denúncias anônimas, mas também de inúmeros levantamentos, bem como pelo fato de o mesmo já ser conhecido no meio policial, estando configurada a presença das fundadas suspeitas.
+ ..
+Cumpre salientar que, ainda que o Policial Daniel tenha declarado em juízo que não presenciou a autorização de entrada no imóvel, que teria sido dada pela genitora de Bruno, não significa que a autorização não tenha sido concedida, tendo esclarecido que o policial Emerson lhe cientificou acerca de tal fato.
+Vale ressaltar que durante a entrada no imóvel os policiais vieram a arrecadar, escondidos atrás de um tijolo da casa de Bruno, 30 (trinta) pedras de crack, de onde se vê que, efetivamente, restou configurado o estado de flagrância.
+Assim, ainda que possa haver eventual dúvidas acerca da autorização para a entrada no imóvel, a verdade é que os agentes de segurança, ao adentrar a residência de Bruno, estavam amparados em fundadas suspeitas, sendo indiscutível a comprovação de justa causa, além do fato de que, conforme já exposto, o tráfico de drogas é um crime permanente, autorizando a entrada dos policiais na residência, devido ao estado de manifesta flagrância.
+ ..
+Nos termos da jurisprudência, a apreensão de drogas em posse de alguém não configura fundada razão para permitir ingresso na sua residência (HC n. 670.545/SE, Ministra Laurita Vaz, Sexta Turma, DJe 25/4/2022).
+Então, presentes a probabilidade do direito e o perigo de dano, elementos indispensáveis à concessão da ordem por ter o ingresso em domicílio se baseado em abordagem realizada por denúncia anônima.
+Além da demonstração de nervosismo, a confissão de que o réu guardava drogas em sua residência não se mostra suficiente para o ingresso (HC n. 694.431/SE, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022).
+A corroborar, merece transcrição, no que interessa, do parecer do Ministério Público, in verbis (fls. 555/559):
+ ..
+Na espécie, assiste razão à impetrante.
+A controvérsia consiste em verificar a existência de fundadas suspeitas de modo a amparar a entrada forçada em domicílio, prescindindo-se de mandado de busca e apreensão, consoante o entendimento dos Tribunais Superiores.
+Confira-se o assentado pelo Tribunal a quo no ponto (f. 22-23, grifou-se):
+ ..
+Observa-se que o ingresso na casa não se sustenta em fundadas razões, uma vez que a diligência se alicerçou em dois argumentos, ambos ilegítimos - a de que o paciente era "conhecido" nos meios policiais e que retornou em fuga para sua casa, ao ver o corréu sendo abordado pela polícia -, o que por si só não justifica a não realização de investigações prévias ou do mandado judicial. O mero encontro fortuito de drogas no local apontado pela delatio criminis não se presta a, por si só, justificar a posteriori a ação quando desguarnecida de outros elementos que indiquem que ali estava a ocorrer crime. A permanência do estado de flagrante é desimportante quando a descoberta do delito se deu de modo contrário ao direito e à Constituição Federal.
+As provas colhidas são, portanto, ilícitas, de sorte que não podem ser utilizadas para alicerçar a prisão preventiva, tampouco as imputações penais e condenação criminal.
+Assim tem decidido o Superior Tribunal de Justiça:
+ ..
+De resto, quanto à suposta autorização da mãe do paciente para o ingresso naquele domicílio, a sentença condenatória infirmou tal circunstância, eis que "a versão apresentada pelo militar em juízo, mais de 4 (quatro) anos após os fatos, inovou, controvertidamente, em relação ao relatado no histórico do boletim de ocorrência e no auto de prisão em flagrante, especialmente ao afirmar que a genitora do acusado autorizou a entrada no lote" (f. 375).
+ ..
+Ante o exposto, concedo a ordem para reconhecer a nulidade do flagrante em razão da violação de domicílio e, por conseguinte, das provas obtidas em derivação, bem como para absolver o paciente dos fatos delineados na Ação Penal n. 0830242-67.2018.8.13.0024/MG.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Pu bli que-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. SENTENÇA CONDENATÓRIA. PLEITO DE NULIDADE. ALEGAÇÃO DE INDEVIDA VIOLAÇÃO DE DOMICÍLIO. CONTEXTO FÁTICO ANTERIOR. JUSTA CAUSA. AUSÊNCIA. ABSOLVIÇÃO QUE SE IMPÕE. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
