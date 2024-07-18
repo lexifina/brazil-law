@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de ELI CARVALHO ROSA - condenado pela prática dos crimes do art. 288 do Código Penal e do art. 90 da Lei n. 8.666/1993, esse último na forma tentada -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0000555-29.2017.8.26.0646), não comporta conhecimento.
+Com efeito, busca a impetração o redimensionamento da pena, a fim de que seja reconhecida a inidoneidade do fundamento utilizado para a exasperação da pena-base do crime de associação criminosa e consequente fixação de regime mais gravoso e negativa de substituição da pena corporal por restritivas de direitos, por aplicação da Súmula 444/STJ, arguindo-se que, muito embora tenha respondido a algumas ações penais, o réu fora absolvido de todas elas, mantendo, assim, sua condição de primário, de bons antecedentes (fl. 10).
+Ocorre que, consoante as informações prestadas às fls. 322/323, o habeas corpus foi impetrado simultaneamente à interposição de recurso especial, a evidenciar ofensa ao princípio da unirrecorribilidade e utilização abusiva da via eleita, o que torna inadmissível o conhecimento dos pedidos.
+Ademais, não se percebe a ocorrência de constrangimento ilegal manifesto, considerando-se que a alta culpabilidade pela prática de crimes reiterados ao longo dos anos contra a Administração Pública, com a criação de sofisticado esquema para impedir a competitividade da licitação (fl. 304), é elemento concreto e idôneo a justificar tanto o incremento da pena-base como a imposição de regime inicial mais gravoso e a negativa de substituição da pena, valendo notar que tal elemento está relacionado não à existência de processos anteriores, mas a peculiaridades outras como a permanência da associação por vários anos (fl. 193) e o número de agentes envolvidos (fl. 194).
+Em face do exposto, não conheço da impetração.
+Publ ique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E FRAUDE À LICITAÇÃO. DOSIMETRIA. SIMULTÂNEA INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO DO TRIBUNAL A QUO. DESCABIMENTO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ não conhecido.
