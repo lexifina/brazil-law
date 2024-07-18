@@ -1,0 +1,2 @@
+Dispõe sobre a prorrogação dos prazos de conclusão de cursos ou de programas para estudantes e pesquisadores da educação superior, em virtude de parto, de nascimento de filho, de adoção ou de obtenção de guarda judicial para fins de adoção; e altera a Lei nº 13.536, de 15 de dezembro de 2017, para disciplinar a prorrogação dos prazos de vigência das bolsas de estudo.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
