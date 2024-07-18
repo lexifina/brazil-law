@@ -1,0 +1,2 @@
+Art. 160-A - A punição ao magistrado somente será imposta pelo voto da maioria absoluta dos membros do órgão competente do Tribunal de Justiça.
+Parágrafo único - Na hipótese em que haja divergência quanto à pena, sem que se tenha formado maioria absoluta por uma delas, será aplicada a mais leve ou, no caso de mais de duas penas alternativas, aplicarse-á a mais leve que tiver obtido o maior número de votos.

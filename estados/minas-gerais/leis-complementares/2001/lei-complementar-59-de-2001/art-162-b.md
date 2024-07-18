@@ -1,0 +1,1 @@
+Art. 162-B - O magistrado que estiver respondendo a processo administrativo disciplinar só terá apreciado o pedido de aposentadoria voluntária após a conclusão do processo ou do cumprimento da penalidade.

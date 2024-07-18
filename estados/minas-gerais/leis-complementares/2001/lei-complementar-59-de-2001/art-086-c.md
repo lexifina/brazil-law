@@ -1,0 +1,1 @@
+Art. 86-C - O Juiz de Paz terá competência para celebrar casamento, verificar, de ofício ou em face de impugnação apresentada, o processo de habilitação para o casamento e exercer atribuições conciliatórias sem caráter jurisdicional.

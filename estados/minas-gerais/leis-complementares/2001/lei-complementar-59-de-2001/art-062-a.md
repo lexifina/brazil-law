@@ -1,0 +1,2 @@
+Art. 62-A - A Vara Agrária de Minas Gerais tem sede em Belo Horizonte e competência em todo o Estado para processar e julgar, com exclusividade, as ações que tratem de questões agrárias envolvendo conflitos fundiários coletivos por posse de terras rurais.
+Parágrafo único - Sempre que considerar necessário à eficiente prestação jurisdicional, o Juiz de Direito far-se-á presente no local ou região do litígio.

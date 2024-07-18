@@ -1,0 +1,1 @@
+Art. 162-A - Aplicam-se aos procedimentos disciplinares contra magistrados, subsidiariamente, e desde que não conflitem com a Lei Orgânica da Magistratura Nacional, as normas e os princípios relativos ao processo administrativo disciplinar.

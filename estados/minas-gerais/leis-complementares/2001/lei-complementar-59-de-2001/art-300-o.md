@@ -1,0 +1,2 @@
+Art. 300-O - Havendo extinção ou acumulação de serviço notarial e de registro, a lista geral de vacância será atualizada e publicada, devendo constar observação referente à extinção ou à acumulação da unidade.
+Parágrafo único - A extinção ou a acumulação de serventias não importará em alteração da lista geral de vacância, mantendo-se os critérios de ingresso por provimento ou remoção fixados por ocasião da data da vacância de cada unidade.

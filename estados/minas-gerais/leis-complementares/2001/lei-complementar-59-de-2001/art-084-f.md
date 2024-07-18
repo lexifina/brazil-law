@@ -1,0 +1,1 @@
+Art. 84-F - Os Juizados Especiais Cíveis e Criminais têm competência para o processamento, a conciliação, o julgamento e a execução por título judicial ou extrajudicial das causas cíveis de menor complexidade e de infrações penais de menor potencial ofensivo definidas na legislação federal pertinente.

@@ -1,0 +1,1 @@
+Art. 84-B - Os serviços de escrivania das Turmas Recursais serão realizados na respectiva Secretaria de Juízo de cada Turma Recursal da comarca-sede, conforme disposto em ato expedido pelo Tribunal Justiça.

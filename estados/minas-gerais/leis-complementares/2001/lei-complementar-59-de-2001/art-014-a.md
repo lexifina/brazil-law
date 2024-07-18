@@ -1,0 +1,3 @@
+Art. 14-A - O Presidente do Tribunal de Justiça poderá designar até quatro Juízes de Direito para servirem como auxiliares da Presidência e um para cada Vice-Presidência, os quais ficarão afastados de suas funções, sem prejuízo da antiguidade e do direito à promoção.
+§ 1º - O Presidente do Tribunal poderá designar Juízes Auxiliares acima do limite previsto no caput, desde que se justifique a medida, após autorização do órgão competente do TJMG e observada a legislação nacional pertinente.
+§ 2º - Os Juízes de Direito designados nos termos deste artigo receberão, para o exercício dessa função, a diferença de subsídio para o cargo de Desembargador.

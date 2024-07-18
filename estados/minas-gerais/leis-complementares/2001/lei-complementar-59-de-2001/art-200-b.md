@@ -1,0 +1,1 @@
+Art. 200-B - Na hipótese de relevante interesse judicial, a ordem de substituição por Juiz de Direito Substituto do Juízo Militar não prevalecerá, podendo o Presidente do Tribunal de Justiça Militar convocar, para a substituição, outro Juiz de Direito Militar de qualquer das Auditorias.

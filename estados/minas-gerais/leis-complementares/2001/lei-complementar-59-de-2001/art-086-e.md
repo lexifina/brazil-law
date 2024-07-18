@@ -1,0 +1,1 @@
+Art. 86-E - A renúncia ao cargo de Juiz de Paz ou de suplente eleitos será feita por meio de comunicação à Justiça Eleitoral e à Corregedoria-Geral de Justiça, ao passo que aquele nomeado ad hoc comunicará a renúncia ao Diretor do Foro.

@@ -1,0 +1,2 @@
+Art. 300-B - Aplicam-se aos serviços notariais e de registro as regras contidas na Lei Federal nº 8.935, de 18 de novembro de 1994, bem como as normas expedidas pela Corregedoria-Geral de Justiça.
+Parágrafo único - Para os fins previstos na lei a que se refere o caput, a autoridade competente é o Diretor do Foro da comarca em que for sediado o serviço notarial ou de registro, ressalvada a competência do Juízo da Vara de Registros Públicos, bem como o disposto neste Livro.

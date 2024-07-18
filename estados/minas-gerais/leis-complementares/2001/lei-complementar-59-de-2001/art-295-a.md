@@ -1,0 +1,4 @@
+Art. 295-A - Ato normativo do órgão ou autoridade competente do Tribunal de Justiça poderá regulamentar o ajustamento disciplinar como medida alternativa à eventual instauração de processo administrativo disciplinar e à aplicação de penalidades aos servidores do Quadro de Pessoal do Poder Judiciário do Estado de Minas Gerais e aos notários e registradores, nos casos que envolverem infrações disciplinares de menor potencial ofensivo.
+Parágrafo único - Para os fins deste artigo, considerar-se-á infração disciplinar de menor potencial ofensivo a conduta:
+I - de servidor do Quadro de Pessoal do Poder Judiciário do Estado de Minas Gerais punível com advertência, nos termos do art. 283;
+II - de notário ou registrador punível com repreensão prevista em lei ou regulamento interno do Tribunal de Justiça.

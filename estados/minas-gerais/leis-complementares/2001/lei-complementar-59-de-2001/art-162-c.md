@@ -1,0 +1,1 @@
+Art. 162-C - O Tribunal de Justiça comunicará à Corregedoria Nacional de Justiça as decisões de arquivamento dos procedimentos prévios de apuração, de instauração e os julgamentos dos processos administrativos disciplinares.

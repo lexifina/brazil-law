@@ -1,0 +1,1 @@
+Art. 62-B - Compete a Juiz da Vara de Meio Ambiente, Habitação e Urbanismo processar e julgar as causas e questões que envolvam essas matérias, especialmente em caso de descumprimento da legislação e do direito ao meio ambiente, à moradia e à cidade sustentável.

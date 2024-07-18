@@ -1,0 +1,5 @@
+Art. 300-E - O novo delegatário será investido perante o Corregedor-Geral de Justiça, no prazo de trinta dias contados da publicação da outorga da delegação, prorrogáveis por igual período, mediante requerimento expresso, e entrará em exercício perante o Diretor do Foro, no prazo improrrogável de trinta dias contados da data da investidura.
+§ 1º - O novo delegatário, no ato de investidura por concurso público de ingresso ou de remoção, apresentará documento comprobatório de desincompatibilização das atividades enumeradas no art. 25 da Lei federal nº 8.935, de 1994.
+§ 2º - No ato de investidura, o delegatário prestará o compromisso de bem e fielmente, com retidão, lealdade e honradez, desempenhar as atividades da serventia.
+§ 3º - Para entrar em exercício, o delegatário apresentará documentação exigida no edital do concurso.
+§ 4º - Não ocorrendo a investidura ou o exercício dentro dos prazos marcados, a delegação será tornada sem efeito, mediante publicação de ato do Presidente do Tribunal de Justiça.

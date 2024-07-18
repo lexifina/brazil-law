@@ -1,0 +1,5 @@
+Art. 257-B - O Quadro de Pessoal de que trata o art. 257-A é composto por cargos de provimento efetivo, cargos de provimento em comissão e funções de confiança, previstos em lei de iniciativa do Tribunal de Justiça.
+§ 1º - A nomeação para os cargos integrantes do Quadro de Pessoal a que se refere o caput deste artigo será feita pelo Presidente do Tribunal de Justiça, de acordo com as condições e a forma de provimento estabelecidas em lei.
+§ 2º - O ingresso na classe inicial das carreiras dos cargos de provimento efetivo a que se refere o caput deste artigo far-se-á por meio de nomeação e posse, após aprovação em concurso público, perante comissão examinadora nomeada e composta nos termos estabelecidos no Regimento Interno do Tribunal de Justiça.
+§ 3º - Na realização do concurso público a que se refere o § 2º deste artigo, serão observados os princípios da centralização, para a abertura do concurso e a elaboração das provas, e da regionalização, para a aplicação das provas.
+§ 4º - A lotação e as atribuições dos cargos previstos no caput deste artigo serão estabelecidas em regulamento expedido pelo Tribunal de Justiça.
