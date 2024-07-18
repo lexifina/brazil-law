@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ROBSON CANTU, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5304650-19.2023.8.21.7000).
+Consta que o recorrente foi preso em flagrante, e após preventivamente, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem às fls. 32-39.
+Nesta insurgência, a Defensoria Pública alega, em suma, a nulidade das provas por ausência de fundadas suspeitas para a busca pessoal.
+Requer, liminarmente e no mérito, o reconhecimento da nulidade apontada, determinando-se a imediata liberdade do recorrente.
+O pedido liminar foi indeferido (fls. 69-70).
+As informações foram prestadas (fls. 77-81).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 86-90).
+É o relatório.
+DECIDO.
+Inicialmente, registro que, após a interposição do presente recurso, no dia 29/12/2023, o Juízo de primeiro grau concedeu a liberdade provisória a ROBSON CANTÚ, mediante a fixação de medidas cautelares diversas da prisão, tendo sido cumprido o alvará de soltura na mesma data (fl. 90).
+Quanto ao mérito da insurgência defensiva, saliento que  a  jurisprudência  desta  Corte  vem  se  consolidando  e  evoluindo  para  estabelecer  balizas  bem  delineadas  para  a  realização  das  buscas  pessoais  e  sua  validade  jurídica.
+No  âmbito  do  julgamento  do  RHC  n.  158.580/BA  (relator  Ministro  Rogerio  Schietti Cruz,  DJe  de  25/04/2022),  a  Sexta  Turma  desta  Corte  Superior  de  Justiça  traçou  requisitos  mínimos  para  a  validade  de  tal  expediente.
+Nesse  sentido,  foi  estabelecida  a  exigência  de  fundada  suspeita  (justa  causa)  para  a  realização  da  busca  pessoal  ou  veicular  sem  mandado  judicial,
+baseada  em  um  juízo  de  probabilidade,  descrita  com  a  maior  precisão  possível,  aferida  de  modo  objetivo  e  devidamente  justificada  pelos  indícios  e  circunstâncias  do  caso  concreto  -  de  que  o  indivíduo  esteja  na  posse  de  drogas,  armas  ou  de  outros  objetos  ou  papéis  que  constituam  corpo  de  delito,  evidenciando-se  a  urgência  de  se  executar  a  diligência.
+Fixou-se  também  a  exigência  da  chamada  referibilidade  da  medida,  ou  seja,  sua  vinculação  a  uma  das  finalidades  legais  traçadas  no  art.  244  do  CPP,  notadamente  quando  houver  fundada  suspeita  de  que  a  pessoa  esteja  na  posse  de  arma  proibida  ou  de  objetos  ou  papéis  que  constituam  corpo  de  delito,  ou  quando  a  medida  for  determinada  no  curso  de  busca  domiciliar.  O  objetivo  é  impedir  abordagens  e  revistas  exploratórias  (fishing  expeditions),  baseadas  em  suspeição  genérica  existente  sobre  indivíduos,  atitudes  ou  situações.  Por  tal  motivo,  buscas  pessoais  praticadas  como  "rotina"  ou  "praxe"  do  policiamento  ostensivo,  com  finalidade  preventiva  e  motivação  exploratória,  não  satisfazem  tais  exigências.
+No  citado  leading  case,  assentou-se  que  (i)  informações  de  fontes  não  identificadas  (como  as  denúncias  anônimas)  e  (ii)  intuições  e  impressões  subjetivas,  intangíveis  e  não  demonstráveis  de  maneira  clara  e  concreta  (como  aquelas  apoiadas  exclusivamente  no  tirocínio  policial,  atitude  suspeita  ou  nervosismo)  não  preenchem  o  standard  probatório  exigido.
+O  encontro  posterior  (descoberta  casual)  de  objetos  ilícitos  não  convalida  a  busca  realizada  fora  dos  parâmetros  assinalados  para  a  exigência  da  fundada  suspeita,  que  deve  ser  prévia.  A  violação  de  tais  parâmetros  legais  resulta  na  ilicitude  das  provas  obtidas  em  decorrência  da  medida  (art.  157  do  Código de Processo Penal),  bem  como  daquelas  que  dela  decorrerem  em  relação  de  causalidade  (§1º  do  mesmo  dispositivo).
+Ademais, anoto que, no HC 877.943/MS, de relatoria do Ministro Rogerio Schietti Cruz, foi definido que não chegam a denotar a fundada suspeita reações sutis como (i) olhar ou desvio de olhar, (ii) levantar ou sentar, (iii) andar ou parar de andar e (iv) mudar a direção ou o passo. Entretanto, no mesmo julgamento, considerou-se que
+fugir correndo repentinamente ao avistar uma guarnição policial não configura, por si só, flagrante delito, nem algo próximo disso para justificar que se excepcione a garantia constitucional da inviolabilidade domiciliar. Trata-se, todavia, de conduta intensa e marcante que consiste em fato objetivo - não meramente subjetivo ou intuitivo -, visível, controlável pelo Judiciário e que, embora possa ter outras explicações, no mínimo gera suspeita razoável, amparada em juízo de probabilidade, sobre a posse de objeto que constitua corpo de delito (conceito mais amplo do que situação de flagrante delito) (grifamos).
+Em outros casos, como no AgRg no HC n. 846.939/SP, com relatoria para o acórdão do Ministro Rogerio Schietti Cruz, a evasão do acusado avistado em ponto de tráfico de drogas em posse de uma sacola, ao ver a guarnição policial, também foi apta a considerar ultrapassado o mero subjetivismo e indicativo da existência de fundada suspeita de que a sacola contivesse substâncias entorpecentes e de que o réu estivesse na posse de mais objetos relacionados ao crime.
+Na  hipótese,  o  Tribunal de origem afastou  a  tese  de  nulidade  das  provas  nos  seguintes  termos  (fls. 35-36; grifamos):
+De acordo com os autos eletrônicos, policiais estavam em patrulhamento de rotina em uma região conhecida pelo comércio ilegal de drogas, quando avistaram o paciente e outro indivíduo conhecido por ser usuário de entorpecente. Ao sinalizarem a abordagem, os indivíduos correram para lados opostos, sendo possível alcançar o paciente. Durante revista, foram apreendidas com ele 12 (doze) porções de maconha, pesando aproximadamente 29 gramas, 04 (quatro) porções de cocaína e 08 (oito) porções de crack.
+ ..
+No que tange a alegação de ilicitude da abordagem policial, por ausência de fundada suspeita, conforme já mencionei na decisão que indeferiu a liminar, a circunstância de o paciente estar em frente a local tido como ponto de traficância, junto de outro indivíduo já conhecido pelos policiais como sendo usuário de entorpecentes, aliada à tentativa de fuga, configuram suspeita apta a autorizar a abordagem e a busca pessoal.
+Portanto, a moldura fática estabelecida nas instâncias ordinárias, cuja modificação não é possível na estreita via cognitiva do habeas corpus, por implicar em profundo revolvimento fático-probatório, indica que a diligência teve a fundada suspeita lastreada no fato de o recorrente estar em local conhecido pela prática da mercancia ilícita, junto a um conhecido usuário de drogas, e tentar fugir dos agentes policiais.
+Tal conjuntura é apta para a legitimação da busca pessoal, conforme o entendimento do Superior Tribunal de Justiça. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES.  ..  BUSCA PESSOAL. ILEGALIDADE. NÃO OCORRÊNCIA.  ..  RECURSO DESPROVIDO.
+ ..
+2. Com relação à busca pessoal, o art. 244 do Código de Processo Penal assevera que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+Na hipótese, a fundada suspeita para a realização da busca pessoal deu-se em razão do local em que o paciente encontrava-se, de ele ser conhecido no meio policial pelas inúmeras denúncias dos moradores da região, bem como pelo fato de ter fugido ao avistar os policiais, sendo surpreendido na posse de crack, R$ 515,00 (quinhentos e quinze reais), um rolo de plástico filme e outro de papel alumínio.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 826.107/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADAS RAZÕES PARA A ABORDAGEM.  ..  AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O caso apresentado nestes autos traz elementos que tornam válida a ação policial, pois o agravante empreendeu fuga e desobedeceu a diversas ordens de parada emanadas pelos policiais, dando-lhes elementos circunstanciais suficientes para que concluíssem pela ocorrência de crime permanente.
+ ..
+3. Agravo regimental não provido.
+(AgRg no HC n. 913.216/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 29/5/2024).
+HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE ILICITUDE DA ABORDAGEM POLICIAL. NÃO OCORRÊNCIA. FUGA DO ACUSADO AO AVISTAR OS POLICIAIS E POSTERIOR ABORDAGEM EM VIA PÚBLICA. FUNDADAS RAZÕES. PRECEDENTES DO STJ.  ..
+1. Segundo orientação jurisprudencial desta Corte Superior, verifica-se objetivamente que a circunstância do caso concreto denota anormalidade ensejadora da busca pessoal e veicular. Há de se destacar a fuga do acusado ao avistar os policiais militares, sendo revistado após desdobramento da ação policial em via pública, bem como o veículo onde estava o corréu conversando com ele.
+2. O caso paradigmático da Sex ta Turma (RHC n. 158.580/BA) busca evitar o uso excessivo da busca pessoal, garantir a sindicabilidade da abordagem e evitar a repetição de práticas que reproduzem preconceitos estruturais arraigados na sociedade; premissas atendidas na espécie.
+ ..
+5. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
+(HC n. 839.071/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/4/2024, DJe de 18/4/2024).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
