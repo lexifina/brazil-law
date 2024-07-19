@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Naviraí - SJ/MS, o suscitante, e o Juízo de Direito da 2ª Vara Criminal de Naviraí/MS, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fls. 604/605):
+Trata-se de conflito negativo de competência, tendo como suscitante o JUÍZO FEDERAL DA 1ª VARA DE NAVIRAÍ - SJ/MS e como suscitado JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE NAVIRAÍ - MS, e, por objeto, inquérito policial instaurado para apurar a suposta prática do crime de peculato.
+O juízo suscitante declinou da competência em que afirma que "apesar da origem primária federal dos recursos, estes foram repassados ao município de Naviraí/MS e incorporados ao seu patrimônio, tanto é que a prestação de contas não foi submetida ao Tribunal de Contas da União, conforme bem ponderou o Parquet Federal, mas sim ao próprio município de Naviraí. "
+O juízo suscitado, por sua vez, determinou a remessa dos autos ao Juízo Federal de Naviraí, por entender que "tratando-se de recursos federais os valores hipoteticamente desviados pelos réus, impõe-se que o caso seja julgado pelo órgão judicial competente, até mesmo para que se evite a nulificação da prestação jurisdicional. "
+ ..
+No parecer, o órgão ministerial opinou pela competência do Juízo suscitante (fls. 605/606):
+ ..
+Segundo a atual jurisprudência deste e. Superior Tribunal de Justiça, após o julgamento do CC nº 119.305/SP, a Terceira Seção desta Corte, mudando a jurisprudência até então pacificada, passou a entender ser da competência da Justiça Federal a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF, independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse a União na correta aplicação dos recursos." Precedente: CC 123.817/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, DJe 19/9/2012, neste sentido:
+ ..
+Assim, deve prevalecer a competência do juízo federal para "a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF, independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse da União na correta aplicação dos recursos."
+Por tais razões, o Ministério Público Federal se manifesta pela competência do juízo suscitante à espécie.
+É o relatório.
+Com razão o parecerista.
+Após o julgamento do CC n. 119.305/SP, a Terceira Seção desta Corte, mudando a jurisprudência até então pacificada, passou a entender ser da competência da Justiça Federal a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF, independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse da União na correta aplicação dos recursos (CC 123.817/PB, Ministro Marco Aurélio Bellizze, Terceira Seção, julgado em 12/09/2012, DJe 19/09/2012) - (CC n. 164.113/PR, Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 8/5/2019, DJe de 17/5/2019).
+No mesmo sentido, confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. NÃO VERIFICAÇÃO. SALÁRIOS DE EMPREGADAS PARTICULARES. PAGAMENTO COM RECURSOS DO FUNDEB. INTERESSE DA UNIÃO. PRECEDENTES. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A Corte Regional ratificou a competência da Justiça Federal, "ante as provas colacionadas aos autos de que o salário percebido pela Sra. Marta Maria Santana Alves era oriundo do FUNDEB. A materialidade é consubstanciada não só pelas informações da Controladoria Municipal de Tamandaré, mas também pelos contracheques e ficha funcional, que comprovam que a funcionária era lotada na Secretaria de Educação e que o pagamento era subtraído das verbas da FUNDEB, com a referência FUNDEB - 40%".
+- "Após o julgamento do CC n. 119.305/SP, a Terceira Seção desta Corte, mudando a jurisprudência até então pacificada, passou a entender ser da competência da Justiça Federal a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF, independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse da União na correta aplicação dos recursos" (CC 123.817/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Seção, julgado em 12/09/2012, DJe 19/09/2012). (CC n. 164.113/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 8/5/2019, DJe de 17/5/2019.) 2. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 172.360/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/8/2023, DJe de 23/8/2023)
+No mesmo sentido, decidiu a Suprema Corte (grifo nosso):
+Agravo regimental no recurso extraordinário com agravo. 2. Constitucional, Penal e Processual Penal. 3. Desvio de recursos provenientes do Fundo de Manutenção e de Desenvolvimento do Ensino Fundamental e Valorização do Magistério - FUNDEF/FUNDEB. 4. Competência da Justiça Federal. 5. Precedentes. 6. Agravo regimental não provido.
+(AgR no ARE n. 1168938, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 13-12-2019, PROCESSO ELETRÔNICO DJe-019 DIVULG 31-01-2020 PUBLIC 03-02-2020)
+No caso dos autos, a denúncia ajuizada imputa a apropriação de recursos provenientes do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB) - fl. 596 (grifo nosso):
+Trata-se de ação penal ajuizada pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL inicialmente perante o Juízo de Direito da 1ª Vara Criminal da Comarca de Naviraí/MS, em desfavor de JOSÉ MARCOS PEREIRA e SERGIO TOYOJI GUENKA, pela prática do crime previsto no artigo 312 do Código Penal, tendo em vista que ambos de apropriaram, em tese, de recursos públicos que haviam sido transferidos pelo Município de Naviraí à Associação de Pais e Amigos dos Excepcionais (APAE).
+De acordo com a denúncia, o Município de Naviraí/MS celebrou o Convênio nº 15/2012 (ID. 317568834 - p. 11) com a APAE, no valor de R$294.269,58 (duzentos e noventa e quatro mil, duzentos e sessenta e nove reais e cinquenta e oito centavos), para destinação de recursos financeiros provenientes do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB) para ações de manutenção e desenvolvimento do ensino na modalidade Educação Especial (ID. 317568834 - p. 11).
+ ..
+Logo, compete ao Juízo federal processar o fato imputado na denúncia.
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar a competência do Juízo Federal da 1ª Vara de Naviraí - SJ/MS, o suscitante.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. PECULATO. APROPRIAÇÃO DE RECURSOS PROVENIENTES DO FUNDEB. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES DO STJ E DO STF. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara de Naviraí - SJ/MS, o suscitante.
