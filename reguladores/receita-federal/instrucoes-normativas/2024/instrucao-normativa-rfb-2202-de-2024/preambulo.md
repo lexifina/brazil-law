@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2202, de 16 de julho de 2024
+Altera a Instrução Normativa RFB nº 2.186, de 12 de abril de 2024, que dispõe sobre a Declaração sobre Operações Imobiliárias - DOI e define regras para a sua apresentação.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei nº 8.935, de 18 de novembro de 1994, no art. 8º da Lei nº 10.426, de 24 de abril de 2002, e no Decreto nº 10.543, de 13 de novembro de 2020, resolve:
