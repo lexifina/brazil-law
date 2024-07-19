@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Gabriel Vinicius de Almeida, autuado em flagrante delito e denunciado como incurso nos arts. 33 e 35 da Lei n. 11.343/2006.
+Ataca-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO no HC n. 2036431-62.2024.8.26.0000, que manteve a decisão de conversão da prisão em flagrante em preventiva no Processo n. 1500536-45.2024.8.26.0567, da Vara Única da comarca de Salto de Pirapora/SP.
+Sustenta-se a ausência de fundamentação idônea e a desproporcionalidade da medida em relação a eventual condenação.
+Requer-se, assim, a imediata revogação do decreto prisional.
+Em 21/3/2024, deferi medida liminar para substituir a prisão do ora paciente por medidas alternativas.
+Após prestadas informações, opinou o Ministério Público Federal nos termos do parecer de fls. 139/145.
+É o relatório.
+Embora o parecerista tenha se manifestado dizendo que não há ilegalidade a ser corrigida no presente caso, repito o que afirmei ao deferir a medida liminar.
+Eis o que consta da decisão de primeiro grau (fls. 36/37 - grifo nosso):
+ ..
+Acolho o requerimento ministerial, para converter a prisão em flagrante em prisão preventiva, na forma do artigo 310, inciso II, do CPP, em sua atual redação. Existem, nos autos, prova da materialidade do delito (tráfico de drogas, em tese), punido com reclusão (pena máxima superior a 4 anos), e indícios suficientes da autoria, conforme exsurge dos elementos colhidos no auto de prisão em flagrante, notadamente os depoimentos dos agentes encarregados das diligências.
+A conduta praticada, em tese, pela parte autuada, é daquelas que tem subvertido a paz social. Presentes, neste instante, circunstâncias justificadoras da manutenção de sua custódia, para garantia da ordem pública e para assegurar a aplicação da lei penal, especialmente pela quantidade e diversidade de drogas de poder lancinante encontrada em poder do detido, a denotar a venda de drogas há tempo.
+Com efeito, não há nos autos indicativos seguros da vinculação ao distrito da culpa. Não há, ainda, comprovante de ocupação lícita. Não há como ser deferida a liberdade, neste momento, pois necessário resguardar a ordem pública, já que a sociedade se vê constantemente atormentada pela prática de fatos como o presente, ensejadores de crimes patrimoniais, de desestabilização familiar e de violência, em termos gerais, bem como por presente o risco de se frustrar a aplicação da lei penal, já que não há garantias de que, uma vez concedida a liberdade, não se frustrará o regular andamento do feito, subtraindo-se à ação da justiça criminal.
+Importante, ainda, a custódia, para impedir eventuais recidivas, prováveis em razão da aparente inserção em ambiente pernicioso. O delito em questão é insuscetível de fiança; não há possibilidade de aplicação de outras medidas cautelares, pois não há aparato de fiscalização adequado.
+Noutro vértice, para a especial finalidade de prevenção ao crime e ressocialização à vida social, o custodiado deverá ser preventivamente preso, não se podendo lançar no oblívio que a garantia da ordem pública reclama a manutenção da prisão cautelar. A hediondez da mercancia de entorpecentes traz especial gravame à sociedade e alavanca uma série de outros crimes, notadamente crimes patrimoniais violentos, além de as substâncias entorpecentes encontradas ostentarem grandiosa potencialidade lesiva à saúde pública.
+Assim, plenamente justificada, pois, a manutenção da custódia cautelar, que ora determino, restando prejudicados os pleitos benéficos à defesa.
+ ..
+Ora, não obstante as relevantes considerações realizadas pelo Magistrado a quo relacionadas à prática do crime, em especial a variedade da droga apreendida, e ao risco de reiteração, não havendo comprovação de vinculação ao distrito da culpa e de ocupação lícita, não aparenta ser absolutamente necessária a prisão, considerando que o paciente é primário; que o crime, apesar de grave, foi praticado sem violência ou grave ameaça à pessoa; e que a quantidade de droga apreendida não é exorbitante: 4 porções de maconha (29 g), 36 porções de cocaína (41 g), e 41 porções de crack (41,5 g).
+Nesse contexto, vale salientar que, com o advento da Lei n. 12.403/2011, a custódia preventiva passou a ser, mais ainda, a mais excepcional das medidas, sendo necessário sempre verificar se existem medidas diversas da prisão adequadas ao caso concreto.
+Existindo outros meios que possam substituir a custódia e obstar os riscos que ela, em tese, evitaria, esse, a meu ver, deve ser o caminho a ser seguido.
+Assim, confirmo a decisão liminar e concedo a ordem a fim de substituir a prisão do paciente - não sem antes se comprometer a comparecer aos atos judiciais e atualizar o endereço no qual poderá ser encontrado -, por medidas alternativas a serem fixadas pelo Juiz de piso, sem prejuízo da decretação da prisão provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA. FUNDAMENTAÇÃO. QUANTIDADE NÃO EXORBITANTE DE DROGA (29 G DE MACONHA, 41 G DE COCAÍNA E 41,5 G DE CRACK). DELITO QUE NÃO ENVOLVEU VIOLÊNCIA OU GRAVE AMEAÇA. PRIMARIEDADE DO AGENTE. SUFICIÊNCIA DA FIXAÇÃO DE CAUTELARES ALTERNATIVAS. EVIDÊNCIA DE ILEGALIDADE. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
