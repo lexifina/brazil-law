@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Juan Alberto Elorza contra a decisão monocrática da Presidência desta Corte que não conheceu do agravo ante a ausência de impugnação do fundamento da decisão de inadmissão.
+Nas razões, o agravante aduziu que logrou impugnar o fundamento tido como inatacado, pugnando pela reforma da decisão agravada.
+Devidamente intimado na condição de parte agravada, o Ministério Público Federal se manifestou no sentido do desprovimento do recurso (fls. 693/699).
+É o relatório.
+A decisão merece reconsideração, pois o agravante efetivamente logrou impugnar o fundamento da decisão de inadmissão (Súmula 7/STJ).
+Passo, então, ao exame do recurso especial.
+Nas razões, a defesa do agravante suscitou contrariedade aos arts. 33, § 4º, da Lei n. 11.343/2006, e 381, III, do Código de Processo Penal, aduzindo, em suma, que é inidônea a fundamentação lançada para fixação do redutor especial em patamar aquém do máximo legal.
+No caso, colhe-se do acórdão atacado que o redutor foi fixado no mínimo legal (1/6) considerando o grau de vinculação da agravante com organização criminosa, extraído do seu papel de "mula" (fl. 441):
+ ..
+O réu foi contratado no seu país (Argentina) para vir até o Brasil buscar o entorpecente e transportá-lo até o continente europeu, mediante promessa de recompensa. De se concluir, portanto, que tinha plena consciência de que aceitara transportar entorpecente para uma organização criminosa internacional.
+Assim, o réu associou-se, ainda que de maneira eventual e esporádica, a uma organização criminosa de tráfico internacional de drogas, cumprindo papel de importância para o êxito da citada organização, já que era a responsável pelo transporte da droga até o destinatário final. Portanto, faz jus à aplicação da referida causa de diminuição no percentual mínimo de 1/6 (um sexto), nos termos da sentença.
+ ..
+Fundamentação essa idônea à luz da orientação jurisprudencial sedimentada nesta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. FRAÇÃO DO REDUTOR. TRANSPORTADOR DA DROGA. MULA. BENEFÍCIO NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS DO CASO CONCRETO. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. Nos termos da jurisprudência deste Sodalício, "a atuação na condição de mula, embora não seja suficiente para denotar que integre, de forma estável e permanente, organização criminosa, configura circunstância concreta e elemento idôneo para valorar negativamente a conduta do agente, na terceira fase da dosimetria, modulando-se a aplicação da causa especial de diminuição de pena pelo tráfico privilegiado, como ocorre na espécie" (AgRg no HC 410.698/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/10/2017, DJe 16/10/2017).
+2. Na hipótese dos autos, o Tribunal de origem justificou a aplicação da minorante do tráfico na fração mínima de 1/6 (um sexto), ressaltando as circunstâncias do caso concreto, notadamente a gravidade da conduta do réu, que atuou como transportador (mula), colaborando com o tráfico internacional de drogas.
+3. Acórdão recorrido que se encontra em consonância com jurisprudência firmada nesta Corte, razão pela qual a pretensão do agravante esbarra no óbice previsto na Súmula n. 83/STJ.
+4. Ademais, alterar as conclusões das instâncias de origem acerca da fração adequada de redução de pena pela incidência da norma privilegiadora aplicada ao caso, demandaria o revolvimento do contexto fático-probatório, incabível na via especial, consoante delineado na Súmula n. 7 desta Corte.
+5. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 1.608.147/SP, Ministro Jorge Mussi, Quinta Turma, DJe 28/4/2020 - grifo nosso)
+ ..
+1. A ciência pelo condenado de estar a serviço do crime organizado no tráfico internacional de drogas constitui fundamento concreto e idôneo para se valorar negativamente na terceira fase da dosimetria, razão pelo qual está devidamente justificada a redução da pena no patamar de 1/6, pela incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Precedentes do STF e STJ.
+ ..
+(AgRg no REsp n. 1.558.162/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2017 - grifo nosso).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. 1,48 Kg DE COCAÍNA OCULTOS EM AMPLIFICADORES. SUPOSTA ILEGALIDADE NA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. QUANTIDADE E NATUREZA DA DROGA QUE JUSTIFICAM O INCREMENTO DA PENA NA PRIMEIRA FASE. REDUTOR ESPECIAL DA PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). RECURSO QUE OBJETIVA A FIXAÇÃO NO PATAMAR MÁXIMO. RÉ QUE ATUOU NA CONDIÇÃO DE MULA. IMPOSSIBILIDADE. ORIENTAÇÃO JURISPRUDENCIAL DOMINANTE. MODIFICAÇÃO DE ENTENDIMENTO, LASTREADA NA JURISPRUDÊNCIA RECENTE DO STF. CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO INDUZ QUE INTEGRE ORGANIZAÇÃO CRIMINOSA DE FORMA ESTÁVEL E PERMANENTE. DEMAIS CIRCUNSTÂNCIAS QUE, NO CASO, NÃO INDICAM QUE A RÉ INTEGRASSE ORGANIZAÇÃO OU SE DEDICASSE AO CRIME. INCIDÊNCIA DO REDUTOR. PATAMAR MÍNIMO MANTIDO, CONSIDERANDO QUE A FUNDAMENTAÇÃO UTILIZADA PELO ACÓRDÃO É IDÔNEA. AGRAVO REGIMENTAL PROVIDO, EM PARTE, APENAS PARA ESTABELECER QUE A RÉ FAZ JUS AO REDUTOR, SEM REFLEXOS NA DOSIMETRIA DA PENA FIXADA NA DECISÃO AGRAVADA.
+1. A quantidade e natureza da droga apreendida justificam o incremento da pena na primeira fase da dosimetria (art. 42 da Lei n. 11.343/2006).
+2. Até recentemente, a jurisprudência desta Corte Superior estava consolidada no sentido de que o agente transportador de drogas, na qualidade de mula do tráfico, integra organização criminosa, não fazendo jus, portanto, à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+3. No julgamento do AgRg no AREsp n. 784.082/MS, da relatoria do Ministro Ribeiro Dantas, a Quinta Turma, lastreada na jurisprudência recente do Supremo Tribunal Federal, passou a adotar entendimento diverso acerca do tema, no sentido de que a simples atuação como mula, por si só, não induz que o réu integre organização criminosa, de forma estável e permanente, não constituindo, pois, fundamento idôneo para afastar a aplicação do redutor; ressalvando, no entanto, a possibilidade de que tal elemento subsidie a modulação do redutor, considerando que o réu, enquanto transportador, tem conhecimento de que auxilia o crime organizado no tráfico internacional.
+4. Como o novo entendimento encontra ressonância na jurisprudência recente do Supremo Tribunal Federal, não há motivo para insistir na manutenção da tese contrária, que até então vinha sendo acatada na Sexta Turma.
+5. No caso dos autos, além da condição de mula, o juízo processante não indicou nenhum elemento concreto que evidenciasse que a ora agravante integrasse organização criminosa ou se dedicasse ao tráfico de drogas, circunstância expressamente reconhecida no acórdão da apelação, que entendeu pela incidência do redutor especial no patamar mínimo (1/6); fração que deve ser mantida, considerando que o fundamento utilizado pelo acórdão - calcado na forma de acondicionamento da droga (oculta em amplificadores de som) - efetivamente indica um tráfico mais sofisticado, consubstanciado fundamento idôneo para a fixação do redutor no mínimo legal.
+6. Agravo regimental provido em parte, apenas para estabelecer que a ora agravante faz jus ao redutor especial da pena (art. 33, § 4º, da Lei n. 11.343/2006), no patamar originalmente fixado (1/6), sem reflexos na dosimetria da pena estabelecida na decisão agravada.
+(AgRg no AREsp n. 1.052.075/SP, de minha relatoria, Sexta Turma, DJe 1º/8/2017 - grifo nosso).
+ ..
+1. O estabelecimento do redutor na fração de 1/6 não se mostrou, de modo flagrante, desarrazoado, diante da natureza, quantidade e forma de acondicionamento da substância entorpecente apreendida - 50 ampolas de cocaína, a atrair a incidência do art. 42 da Lei n.º 11.343/2006. Motivada de maneira concreta a fixação do quantum de aplicação do referido benefício, não há falar em ilegalidade.
+ ..
+(HC n. 360.982/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/8/2016).
+ ..
+2. As instâncias ordinárias entenderam devida a incidência da fração de 1/6 com base nas peculiaridades do caso concreto, notadamente no modus operandi empregado no cometimento do delito - tais como a forma de acondicionamento da droga (em estruturas falsas de sua mala), o fato de o agravante haver sido preso no momento em que tentava embarcar em voo com destino à Espanha -, de modo que, tendo sido concretamente fundamentada a aplicação da minorante em comento em 1/6, deve ser mantido inalterado o patamar de redução.
+ ..
+(AgRg no REsp n. 1.549.725/CE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/12/2015).
+Logo, não há falar em ilegalidade no acórdão nesse particular, incidindo a Súmula 568/STJ à espécie.
+Ante o exposto, reconsiderando a decisão agravada, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE LOGRARAM IMPUGNAR O FUNDAMENTO TIDO COMO INATACADO. RECONSIDERAÇÃO. MÉRITO. TRÁFICO DE DROGAS. TRANSPORTE DE 2 KG DE COCAÍNA. VIOLAÇÃO DOS ARTS. 33, § 4º, DA LEI N. 11.343/2006, E 381, III, DO CPP. SUPOSTA ILEGALIDADE NA FUNDAMENTAÇÃO LANÇADA PARA FIXAR O REDUTOR EM PATAMAR AQUÉM DO MÁXIMO LEGAL. IMPROCEDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE. SÚMULA 568/STJ.
+Decisão reconsiderada. Agravo conhecido para negar provimento ao recurso especial.
