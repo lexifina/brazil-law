@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RENNAN LEANDRO SMITH COSTA, apontando como autoridade coatora o Tribunal de Justiça do Estado do Amazonas, no julgamento do Recurso em Sentido Estrito n. 0000614-68.2020.8.04.3800.
+O paciente foi denunciado pelo crime de homicídio qualificado, que vitimou Cristian Santos da Silva. O paciente foi pronunciado em 5 de agosto de 2021 (e-STJ, fls. 142-145).
+Contra a decisão de pronúncia, a defesa interpôs recurso em sentido estrito (e-STJ, fls. 288-313), postulando a anulação da decisão de pronúncia. Ao final da peça processual, os signatários solicitaram que as intimações fossem expedidas, exclusivamente, em nome dos advogados Felipe Braga de Oliveira e Alessandra Seriacopi Vila, sob pena de nulidade.
+No entanto, a intimação foi expedida em nome dos advogados Rafael Augusto Del Castilo da Fonseca e Lívia Oliveira e Silva (e-STJ, fl. 335). Por esse motivo, a defesa, nas razões deste habeas corpus, advoga em favor da nulidade do julgamento do recurso em sentido estrito, tendo em vista que o equívoco apontado trouxe grandes prejuízos ao paciente, tendo em vista que os seus representantes não puderam participar da sessão de julgamento.
+Diante disso, requer, liminarmente, o sobrestamento da ação penal e, no mérito, a concessão da ordem para anular o julgamento virtual do recurso.
+O pedido liminar foi indeferido pela Presidência desta Corte.
+Os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela denegação da ordem (e-STJ, fl. 419).
+É o relatório. Decido.
+Incialmente, cumpre destacar que o constrangimento ilegal aduzido nesta impetração provém de omissão do Tribunal de Justiça do Estado de Alagoas, o que autoriza a impetração de habeas corpus originário perante o Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea "c", da Constituição Federal.
+Conforme já mencionado, pretende-se, por meio deste habeas corpus, o reconhecimento de nulidade no julgamento do recurso em sentido estrito, tendo em vista que a intimação do recurso em sentido estrito foi expedida em nome de outros patronos.
+Neste caso, visualiza-se a existência de nulidade absoluta por cerceamento de defesa, ensejando a concessão da ordem em razão de o recurso de apelação ter sido julgado sem a participação da defesa técnica do paciente.
+Em situações semelhantes, esta Corte Superior anulou julgados em razão da realização de intimação em nome do advogado diverso daqueles indicados pelo réu
+Confira-se, mutatis mutandis:
+HABEAS CORPUS. JULGAMENTO DE APELAÇÃO. NULIDADE. REQUERIMENTO DE INTIMAÇÃO EXCLUSIVA NÃO OBSERVADO. VÍCIO NÃO ALEGADO NO MOMENTO OPORTUNO. PRECLUSÃO. PROIBIÇÃO DE COMPORTAMENTO CONTRADITÓRIO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. É firme a jurisprudência desta Corte no sentido de que se há pedido expresso para que seja efetivada a intimação em nome exclusivo de determinado advogado, são nulas as comunicações realizadas apenas aos demais defensores (AgRg no RHC n. 163.811/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/6/2022).
+2. Também é assente o entendimento deste Tribunal Superior de que não se admite comportamento contraditório, muito menos a nulidade de algibeira.
+3. Consta dos autos que houve pedido expresso para publicação em nome de determinado advogado. No entanto, a instrução do feito também demonstra que o advogado que solicitou a intimação em seu nome e que agora levanta a tese de nulidade, mesmo após ter efetuado o mencionado requerimento, sustentou oralmente no julgamento do feito na origem. Então, mesmo sem que a publicação tenha sido efetuada em seu nome, verifica-se que o procurador tomou ciência dos atos processuais, tanto que efetuou sustentação oral no Tribunal a quo.
+4. Segundo entendimento pacífico desta Corte Superior, a nulidade, mesmo a absoluta, deve ser arguida na primeira oportunidade, sob pena de preclusão. Nesse contexto, a nulidade apenas foi apontada neste writ, após o decurso do prazo para recorrer do julgamento que foi desfavorável a defesa, o que, na hipótese, configura nulidade de algibeira e comportamento contraditório, ambos rechaçados por esta Corte.
+5. Ordem denegada. (HC n. 722.720/PI, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PARA O JULGAMENTO DO RECURSO DE APELAÇÃO. MATÉRIA NÃO QUESTIONADA NA ORIGEM. PRECLUSÃO. HABEAS CORPUS NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. "Havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento.
+Contudo, a nulidade deve ser arguida na primeira oportunidade em que a defesa tomar ciência do julgamento, levando ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão" (AgRg na PET no RHC n. 123.093/PE, relator Ministro Felix Fischer, Quinta Turma, julgado em 13/4/2020, DJe 17/4/2020).
+2. No caso, não houve debate pelo colegiado de origem acerca da eventual nulidade aqui aduzida, o que atrai a preclusão por ausência de arguição na primeira oportunidade, embora a defesa tenha oposto embargos de declaração contra o acórdão que julgou o recurso de apelação.
+3. Agravo regimental desprovido. (AgRg no HC n. 809.691/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ante o exposto, concedo a ordem para declarar a nulidade do julgamento da Recurso em Sentido Estrito n. 0000614-68.2020.8.04.3800, a fim de que outro seja proferido com a devida intimação da defesa do paciente para a sessão de julgamento.
+Comunique-se ao Tribunal de origem e ao Juízo de primeiro grau, encaminhando-lhes o inteiro teor deste decisum.
+Intimem-se.
+EMENTA
