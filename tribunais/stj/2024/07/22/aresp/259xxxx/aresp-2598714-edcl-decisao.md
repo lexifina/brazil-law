@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONINA DO SOCORRO PEREIRA FONSECA à decisão de fls. 469/470, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Nos autos da presente demanda, a Excelentíssima Senhora Doutora Ministra Presidente, prolatou Decisão na qual informa que a parte recorrente não procedeu à juntada da "procuração e/ou cadeia completa de substabelecimento conferindo poderes a quem subscreveu o recurso especial, nem a quem subscreveu o agravo em recurso especial."
+Ocorre que, data vênia, tal determinação incorreu em omissão ao não considerar a juntada do substabelecimento juntado aos autos (Id. 31807658, fl. 404), o qual corresponde à regularidade de representação da parte Autora ao procurador infra-assinado.
+Portanto, uma vez sanada a omissão, observando a juntada de procuração e substabelecimento, é cabível que sejam acolhidas e, consequentemente, reconhecida a regularização processual, a fim de que seja regularmente julgado o Agravo e RESP interpostos (fls. 473/474).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo, Dr. Nicomedes Olímpio Jansen Júnior e e do recurso especial, Dr. Victor Miguel Araújo da Silva Costa.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a cadeia de representação processual anteriormente existente nos autos se encontra incompleta. Observe-se que não há a procuração originária da parte ora embargante, conferindo poderes ao Dr. Nicomedes Olimpio Jansen Júnior, OAB/MA n.8.224, o causídico que substabeleceu à fl. 404.
+Dessa forma, o instrumento de substabelecimento ao Dr. Victor Miguel Araújo da Silva Costa não tem eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Neste sentido, o AgInt no AREsp n. 2.028.800/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25/8/2022; AgInt no AREsp n. 1.946.028/MS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/3/2022; AgInt no REsp n. 1.945.390/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 16/2/2022.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
