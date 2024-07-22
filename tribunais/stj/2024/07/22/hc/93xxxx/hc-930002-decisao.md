@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de LUANDERSON ALVES BORBA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que indeferiu o pedido de liminar formulado no HC n. 8043816-41.2024.8.05.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática do delito capitulado no art. 129, § 13, do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea, pois amparada na mera gravidade abstrata do delito, e não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP, especialmente considerando que não haviam sido decretadas anteriormente medidas protetivas de urgência.
+Além disso, aduz que o paciente, possui filhos menores que dependem dele, sendo suficiente a decretação de medidas cautelares alternativas, considerando que reside em Estado diverso da vítima.
+Defende que deixou de ser observado o princípio da homogeneidade das medidas cautelares tendo em vista que, em caso de eventual condenação, o paciente será submetido a regime inicial de cumprimento da pena mais brando do que o fechado.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido. (AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido. (AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão tem por base elementos concretos que indicam o risco que a liberdade do paciente pode representar à integridade física e psicológica da vítima, conforme se extrai da seguinte fundamentação adotada na origem:
+Informou-se na representação que Luanderson, assim como a própria vítima, estão frequentemente envolvidos em conflitos que demandam a atuação da autoridade policial. O representado, supostamente, teria envolvimento com o tráfico de drogas e já possui outro inquérito instaurado em razão de agressão contra a ex-companheira, a qual inclusive compareceu à Delegacia para requerer medidas protetivas.
+A respeito dos fatos objeto desta representação, constata-se que a lesão ostentou acentuada gravidade, constando do inquérito foto da vítima hospitalizada com o rosto inchado e ensanguentado. Daí porque, ante o histórico apresentado e circunstâncias do caso, o estado de liberdade do representado realmente é capaz de oferecer risco de reiteração, eis que demonstrado o destemor em relação à aplicação da lei penal.
+Se solto, o autuado provavelmente continuará cometendo ilícitos, inclusive em face da mesma vítima, cuja integridade física e psicológica deve ser acautelada com prioridade neste momento processual. Diante disso, constatada a gravidade concreta dos crimes, em tese, praticados, constata-se que nenhuma das outras medidas cautelares previstas no artigo 319 do Código de Processo Penal será suficiente para acautelar a segurança pública (fl. 21).
+Ademais, segundo alguns julgados do STJ, apresenta-se inviável a análise da ofensa ao princípio da homogeneidade em habeas corpus dada a impossibilidade de se antever a pena e o regime inicial de cumprimento a serem fixados na sentença condenatória.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
