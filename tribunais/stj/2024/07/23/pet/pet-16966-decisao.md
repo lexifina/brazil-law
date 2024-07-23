@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, que visa dar efeito suspensivo a acórdão proferido pela Corte daquele Estado (Agravo em Execução nº 5199096-95.2023.8.21.7000/RS).
+Da análise dos autos, verifica-se que o MP/RS formulou junto ao Juízo da Execução pedido de transferência do requerido ao Sistema Penitenciário Federal, com aplicação de regime disciplinar diferenciado - RDD. O pleito foi negado em primeira instância.
+Irresignado, o requerente aviou agravo em execução perante a Corte estadual, a qual negou provimento à insurgência, mantendo a decisão recorrida , em aresto assim sumariado (fl. 98) :
+AGRAVO EM EXECUÇÃO PENAL. SISTEMA PENITENCIÁRIO FEDERAL. PEDIDO DE TRANSFERÊNCIA. INDEFERIMENTO. DECISÃO ORIGINÁRIA MANTIDA.
+NOS TERMOS DO ART. 10 DA LEI Nº 11.671/2008, A INCLUSÃO DE PRESO EM ESTABELECI MENTO PENAL FEDERAL DE SEGURANÇA MÁXIMA SERÁ EXCEPCIONAL E POR PRAZO DETERMINADO. ALÉM DISSO, O PERÍODO DE PERMANÊNCIA SERÁ DE ATÉ 3 ANOS, RENOVÁVEL POR IGUAIS PERÍODOS, QUANDO SOLICITADO MOTIVADAMENTE PELO JUÍZO DE ORIGEM, OBSERVADOS OS REQUISITOS DA TRANSFERÊNCIA, E SE PERSISTIREM OS MOTIVOS QUE A DETERMINARAM. NO CASO, APESAR DE TER LISTADO EM SUAS RAZÕES RECURSAIS OS PROCESSOS CRIMINAIS QUE FORMAM O HISTÓRICO DO APENADO, O MINISTÉRIO PÚBLICO NÃO APRESENTOU ELEMENTOS CONCRETOS RECENTES ACERCA DO EFETIVO PAPEL DE LIDERANÇA EM ORGANIZAÇÃO CRIMINOSA. NO PONTO, DESTACA-SE QUE NÃO HÁ COMO SER IMPLEMENTADA UMA PRESUNÇÃO CONTRÁRIA AO AGRAVADO.
+AGRAVO IMPROVIDO.
+Contra este acórdão, o MP/RS interpôs recurso especial, ainda pendente de juízo de admissibilidade.
+Na cautelar, o requerente afirma ser necessária a inclusão do apenado em presídio federal de segurança máxima, haja vista tratar-se de liderança da organização criminosa "ANTIBALA/V7", envolvida em uma série se crimes com violência ou grave ameaça, bem como histórico de indisciplina no sistema prisional de origem.
+Conclui, pleiteando seja a medida cautelar deferida para suspender os efeitos do aresto prolatado pela Corte de origem, até o julgamento efetivo do recurso especial.
+É o relatório.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo tribunal de origem.
+O STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020).
+No caso, ao que se tem, não ocorreu, ainda, o juízo de admissibilidade do recurso especial interposto, motivo pelo qual, conforme preceituam as súmulas mencionadas do STF, não é competente o STJ para processar o pedido de tutela provisória.
+Ainda que assim não fosse, de acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, não está evid enciado o periculum in mora, na medida em que as razões recursais trazem apenas argumentações genéricas quanto à necessidade de inclusão do preso em sistema penitenciário federal, sem qualquer demonstração do risco ao resultado útil do processo em caso de não adoção da medida.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, indefiro o pedido.
+Publique-se.
+Intimem-se.
+ EMENTA
