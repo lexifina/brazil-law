@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RICARDO GOULART DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado pelo crime do art. 33, caput, e §4º, da Lei nº 11.343/06, às penas de 3 anos e 4 meses de reclusão, em regime inicial aberto, e ao pagamento de 375 dias-multa, substituída a sanção privativa de liberdade por uma restritiva de direitos, consistente em prestação de serviços à comunidade, e multa. O apenado trazia consigo, para fins de venda, 1 porção de tetracaína (substância sujeita a controle especial e fiscalização, prevista na lista C1 da Portaria SVS/MS 344/98 e na lista III da Portaria MJSP204/2022), com peso líquido aproximado de 815,2g, e 15 porções de maconha, substância contendo tetrahidrocannabinol (THC), com peso líquido total aproximado de 6.632,6g.
+A apelação interposta foi desprovida, em acórdão assim ementado:
+APELAÇÃO CRIMINAL. Tráfico de drogas (artigo 33, "caput" e §4º, da Lei nº 11.343/06). Sentença condenatória. Recurso defensivo. Mérito. Pleito de absolvição por fragilidade probatória. Impossibilidade. Autoria e materialidade devidamente comprovadas. Negativa do acusado que restou isolada nos autos. Condenação que era de rigor. Dosimetria das penas que não comporta reparos. Conformismo defensivo. Primeira fase. Pena-base estabelecida no mínimo legal. Segunda fase. Ausentes agravantes ou atenuantes. Terceira fase. Reconhecimento do tráfico privilegiado. Diminuição de penas na fração de  (um quarto). Manutenção, à míngua de recurso do Ministério Público. Sanções penais totalizadas em 03 (três) anos e 04 (quatro) meses de reclusão, e pagamento de 375 (trezentos e setenta e cinco) dias-multa, no patamar. Regime inicial aberto e substituição das penas privativas de liberdade por uma restritiva de direitos e multa. Sentença mantida. RECURSO DESPROVIDO.
+O impetrante sustenta, em síntese, a insubsistência de provas. Aduz que a autoria do crime é incerta e duvidosa, tendo em vista que se baseou somente na palavra dos policiais.
+Requer, liminarmente e no mérito, a absolvição.
+É o relatório.
+O mandamus não merece prosseguir, pois "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
