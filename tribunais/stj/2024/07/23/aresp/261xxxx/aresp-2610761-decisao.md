@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDO FERREIRA MEDEIROS JORGE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSO CIVIL. APELAÇÃO CÍVEL. CONSTRUÇÃO CIVIL. CONTRIBUIÇÃOSOBRE A MÃO DE OBRA. LANÇAMENTO. TERMO A QUO DA DECADÊNCIA. TÉRMINO DA OBRA. DOCUMENTOS. CERTIDÃO DO PODER PÚBLICO MUNICIPAL.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 173, I, e 150, § 4º, do CTN, no que concerne à necessidade de reconhecimento da decadência das contribuições previdenciárias sub judice, tendo em vista o transcurso de prazo superior a 05 (cinco) anos desde a data do término da obra (06 de março de 2004), trazendo a seguinte argumentação:
+De forma geral, o Tribunal a quo seletivamente ignorou as informações encartadas ao processo por meio da Perícia Técnica e consequente Audiência de Instrução, onde o Expert susomencionado atesta que o condomínio Alphaville só autorizaria a mudança do Recorrente após a aferição de regularidade da obra pelos órgãos públicos, sendo inclusive obtido o Habite-se para finalização das obras.
+Noutro giro, novamente não há como a Recorrida declarar ausência de ciência para constituição do débito, quando a Empresa responsável pela expedição a nota fiscal efetuou seu lançamento, tem-se neste comento a ciência inequívoca da Fazenda Nacional.
+Neste alamiré, o prazo decadencial para o tributo com lançamento por homologação esta inserto no Art. 150 do CTN, j á que a decadência se opera da efetiva existência do fato gerador, e não de quando o ente público teve, ou não, conhecimento de sua existência.
+ ..
+Ao contrário do que sustentado no Aresto obliterado, restou incontroversa a data do término da obra (março de 2004), não havendo nenhuma reclamação ou suspeita de dolo, fraude ou simulação, suscitada pela Fazenda Nacional.
+Nesta trilha, mister repisar que o início da contagem do prazo decadencial não se dá a partir da "ciência inequívoca" da Fazenda Pública, conforme apontou o decisum guerreado as Fls. 1.701 e reforçou o TRF da 3" Região, mas, SIM, a partir do término da obra em si.
+ ..
+Esta é a exata dicção do parágrafo 1º do Art. 173 do CTN.
+ ..
+O Artigo acima é diáfano ao delinear a forma como será contabilizada a decadência dos tributos, não sendo crível que a Fazenda Nacional goze da própria torpeza em não ter efetuado o lançamento tributário necessário após a constatação do fato gerador.
+Por este prisma, temos por patente que todo o conjunto probatório pautado nos autos, atesta que o término da obra restou mais do que comprovado, INCLUSIVE POR MEIO DE PROVA PERICIAL, atestando-se que a obra foi finalizada em 06 de março de 2004.
+ ..
+Neste meandre, é indiscutível que marco balizador para início da contagem do prazo decadência, inicia-se da simples constatação de término da obra, especialmente ante irrefutável prova judicial homologada (fls. 1.921-1.925).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Todavia, no caso de inexistir quitação do tributo, não há que se falar em homologação de cálculo, portanto, afasta-se a aplicação do art. 150, § 4º, incidindo, apenas, a regra do art. 173, I, ambos do CTN, de onde o marco inicial passa a fluir, não da data do fato gerador, mas do primeiro dia do ano subsequente ao que poderia ter sido efetuado o lançamento pelo contribuinte (fl. 1.854).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+No presente caso, apesar de não ter havido juntada do "Habite-se", foi colacionado aos autos o Certificado de Conclusão da Obra, emitido pela Prefeitura Municipal de Campinas, atestando a data conclusão em 08/07/2014 (ID 104872526 - Pág. 102).
+A decadência somente será contada a partir da data de expedição do "Habite-se", na ausência de outros elementos que atestem, de fato, o término da obra.
+Sendo assim, nos termos da jurisprudência supra, a contagem da decadência deve considerar esta data.
+A Fazenda Pública, no caso, não decaiu do direito de lançar os valores em cobro, como reconhecido pela sentença, pois, considerando que o prazo decadencial teve início em julho/2014, comportavam lançamento até junho/2019 (fl. 1.855).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
