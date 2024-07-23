@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL - PREVI à decisão de fls. 837/838, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A nobre julgadora afirma o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Entretanto, é importante frisar que a Embargante não foi adequadamente intimada, o Ato ordinário que fora publicado EM NENHUM MOMENTO DEMONSTRAVA QUAL ERA O VÍCIO A SER SANADO:
+ ..
+Só se atendo a informar a existência de um vício, mas não informando qual, por tal motivo a embargante peticionou requerendo esclarecimentos quanto ao que deveria ser retificado, de total boa fé requereu que fosse o dito vício elucidado, entretanto não obteve resposta, sendo surpreendia com a Decisão, que lhe suprimiu o direito de saneamento do processo, indo de encontro com o princípio do devido processo legal, bem como do contraditório em ampla defesa:
+ ..
+Apesar do pedido de exposição para correção do erro, o processo seguiu até a derradeira decisão não dando oportunidade de saneamento (fls. 845/846).
+ ..
+Dessa forma tornou-se inviável qualquer tentativa de saneamento por parte da embargante, uma vez que não foi devidamente orientada quanto à irregularidade, motivo pelo qual se espera ver o presente recurso provido no sentido de receber o saneamento do vício de forma posterior (fl. 847).
+ ..
+Ademais, sequer foi apresentado prazo, quanto mais o teor do que se queria ver corrigido, de forma que não havia possibilidade nenhuma de a embargada proceder com eu ajusta, porquanto a cadeia de procuração e substabelecimentos já consta nos Autos 0801475- 03.2022.8.22.0000 nos ids. 14853961 e 14853962
+Desse modo imprescindível o recebimento da cadeia de procuração e substabelecimentos no presente momento para devido saneamento do processo e seu consequente prosseguimento para julgamento do Agravo em Recurso Especial (fl. 848).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo em recurso especial, Dr. Carlos Alberto Gama da Silva.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que limitou-se a alegar que" ..  não sendo constatado vício, requer o normal prosseguimento do feito."
+Ademais, ao contrário do alegado pela parte embargante, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na intimação.
+Na referida edição (nº 3857) foram apresentadas todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este recurso. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+No mais, não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. INÉRCIA. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, do CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior." (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial ou do respectivo agravo contra sua inadmissibilidade.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1496951/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2020.)
+Outrossim, destaca-se que não há violação ao princípio da não surpresa na decisão que averigua os requisitos legais e constitucionais para a admissão do recurso, uma vez que o "fundamento" ao qual se refere o art. 10 do Código de Processo Civil é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). Nesse sentido: AgInt no AREsp 1389200/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 29/03/2019; EDcl no REsp 1.280.825/RJ, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 1º/08/2017.
+Ressalte-se que foi dada a oportunidade para a parte regularizar o vício e, apesar disso, não houve a regularização. Portanto, correta a aplicação da Súmula n. 115/STJ.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
