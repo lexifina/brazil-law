@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA - CREA. ATIVIDADE BÁSICA. ENQUADRAMENTO. LEI FEDERAL Nº 5.194/66. INSCRIÇÃO NO CONSELHO. DESNECESSIDADE.
+1. O critério legal para a obrigatoriedade de registro perante os conselhos profissionais, bem como para a contratação de profissional de qualificação específica, é determinado pela atividade básica ou pela natureza dos serviços prestados pela empresa.
+2. A atividade básica desenvolvida pela parte autora não se enquadra nas disposições previstas na Lei Federal nº 5.194/66, de modo que deve ser afastada a necessidade de sua inscrição junto ao CREA.
+3. Apelação cível desprovida.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 7º, "h", da Lei n. 5.194/66; e 1º da Lei n. 6.839/1980, no que concerne à necessidade de registro da parte recorrida junto ao Conselho Regional de Engenharia e Agronomia em razão do exercício de atividade técnica dentro da área de conhecimento científico da Engenharia Química, trazendo a seguinte argumentação:
+Ora, para afirmar ou negar que uma atividade é ou não técnica, se prescinde ou não de responsável técnico e registro, necessariamente será preciso interpretar a legislação vigente em conjunto com os documentos, analisando a qualificação jurídica dada ao fato.
+Também, a atividade desenvolvida é inequívoca.
+Assim, tendo em vista que errônea a interpretação dos fatos, o que penetra na órbita da qualificação jurídica dos fatos, perfeitamente cabível o Recurso Especial.
+A decisão recorrida entendeu que a atividade de industrialização desenvolvida não se enquadra dentre aquelas caracterizadas como da Engenharia, nos seguintes termos:
+ ..
+O contrato social da Recorrida descreve em seu objeto social as atividades de industrialização de matérias-primas e produtos químicos para peles e couros, tratamento de águas, Indústria têxtil, Indústria sucroalcooleira e Indústria de tintas.
+Referidas atividades são atividades técnicas inerentes aos profissionais regulamentados pela Lei 5.194/66, que dispõe em seu art. 7º, "h":
+ ..
+No caso em tela, mostra-se mais do que evidente a necessidade de conhecimento especial técnico para melhor deslinde do feito, visto que a atividade da Recorrida se trata de atividade industrial, ou seja, uma "série de atividades despendidas para transformar matéria-prima em produto comerciável" 1 .
+Ademais, a Recorrida não fez prova de que sua atividade não está abrangida pelos atos normativos consignados ao longo da defesa e apelação, razão pela qual o acórdão deve ser reformado, pois a Recorrida não desconstituiu a necessidade de seu registro e de contratação de responsável técnico da Engenharia.
+ ..
+Para a correta aplicação do art. 1º da Lei nº 6.839/1980, o qual determina que o registro das empresas nas entidades competentes far-se-á, em caráter compulsório, em função da atividade básica por elas desenvolvidas ou em relação àquela pela qual prestem serviços a terceiros, há que se interpretar em conjunto com as demais normas acima mencionadas, o que não foi feito pelo acórdão recorrido.
+Portanto, a presente demanda deve ser vista por este E. Tribunal não somente sob o prisma da obrigação tributária (pagamento de anuidades), mas sim sob o prisma do interesse social da fiscalização do CREA-PR, fiscalização esta realizada nos estritos termos da Lei 5.194/66 e regulamentos do sistema.
+Assim, a atividade praticada pela parte Recorrida é, inequivocamente, afeta à engenharia, mais especificamente da Engenharia Química, estando sujeita a registro no CREA, nos termos do art. 1º da Lei nº 6.839/80, que estabelece:
+ ..
+De mais a mais, a exigência feita pelo Recorrente trata-se de ato administrativo legítimo. Nesse sentido, segue julgado da 1ª Turma do Superior Tribunal de Justiça, o qual explicita que o ato administrativo apenas pode ser objeto de controle judicial se houver afronta ao princípio da legalidade, o que não é o caso desta demanda, observe-se:
+ ..
+Todos os fundamentos expressos anteriormente demonstram que a autuação realizada em desfavor da Recorrida é ato administrativo legítimo, cuja presunção de legalidade e veracidade, reitere-se, não foi afastada por ela.
+As ações do Recorrente decorrem da finalidade essencial dos Conselhos Regionais de Engenharia e Agronomia, qual seja, a fiscalização do exercício de profissões visando à proteção do interesse público (arts. 24 e 33 da Lei nº 5.194/66 2 ), como expressão do poder de polícia.
+De um modo geral, o trabalho de profissionais sem formação adequada para tanto ou sem registro pode causar sérios danos à sociedade, a exemplo de desabamentos, choques elétricos, acidentes com brinquedos em parques de diversões, contaminação do solo e dos seres humanos com agrotóxicos utilizados de maneira indevida, dentre outros.
+Contudo, como a atividade de monitoramento das profissões exige conhecimentos específicos, tendo em vista que cada ramo profissional está relacionado com diversas áreas da ciência, outorgou-se aos Conselhos Profissionais, enquanto Autarquias Federais (art. 80 da Lei nº 5.194/66 3 ) a atribuição de, em ramos pontuais, a exemplo da engenharia e da agronomia, disciplinar e zelar pelo regular exercício das respectivas profissões a que estão vinculados (fls. 148- 152).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, consta do contrato social que a empresa tem como atividade básica/principal (evento 1, CONTRSOCIAL9):
+CLÁUSULA TERCEIRA - A Sociedade tem por objeto social as seguintes atividades: (i) a Industrialização, em estabelecimento próprio ou de terceiros, comercialização, exportação e Importação de matérias- primas e produtos químicos para peles e couros, tratamento de águas, Indústria têxtil, Indústria sucroalcooleira e Indústria de tintas; (ii) a participação no capital social de outras sociedades, nacionais ou estrangeiras, no Brasil ou no exterior, na qualidade de sócia ou acionista; e (iii) armazenagem e movimentação de cargas.
+Assim, tendo em vista que as principais atividades desenvolvidas pela autora não são privativas da área de engenharia, não há fundamento legal para exigir o registro nos quadros do CREA, tampouco para a contratação de profissional nele habilitado e registrado. Sobre o tema, precedente da 12ª Turma (fl. 136).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático- probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
