@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROSELY THOME DE VASCONCELOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO - DECISÃO QUE INDEFERIU O PEDIDO DE JUSTIÇA GRATUITA E DETERMINOU O RECOLHIMENTO DO PREPARO, NO PRAZO DE CINCO DIAS. SOB PENA DE DESERÇÃO DO RECURSO  PRESUNÇÃO "IURIS TANTUM" DA CONDIÇÃO DE NECESSITADO - HIPÓTESE, ENTRETANTO, EM QUE EXISTEM ELEMENTOS QUE AFASTAM A PRESUNÇÃO - AGRAVANTE QUE NÃO COMPROVOU A INCAPACIDADE FINANCEIRA DE ARCAR COM AS CUSTAS PROCESSUAIS - RECURSO IMPROVIDO.
+Quanto à controvérsia, a parte alega violação dos arts. 98, 99 do CPC; e 5º da Lei n. 1.060/1950, no que concerne à necessidade de deferimento da benesse da gratuidade de justiça à parte recorrente, eis que, conforme documentos anexados aos autos, não possui condições de arcar com as despesas decorrentes do processo, e a decisão se balizar apenas na remuneração da parte e de seu patrimônio, trazendo a seguinte argumentação:
+No enfrentamento dos requisitos para concessão da gratuidade processual não poderá o Juiz se balizar apenas na remuneração da parte e seu patrimônio, como fez o acórdão recorrido. É imprescindível realizar o cotejo das condições econômico-financeiras com as despesas correntes utilizadas para preservar o sustento próprio e da família.
+ ..
+Como restou incontroverso nos autos tanto a receita como as despesas da recorrente, constata-se que, ao contrário do sustentado na instância ordinária, ela faz jus aos benefícios da justiça gratuita, sob pena de negar-lhe o acesso à justiça na medida em que sua renda não lhe permite pagar as custas do presente processo, sem prejuízo da manutenção de sua família.
+Veja que a recorrente comprovou a insuficiência de renda para arcar com as custas desse processo, uma vez que, a crise econômico-financeira, que assola todo o país, agravou muito sua situação financeira, o que evidencia o direito ao benefício da gratuidade processual.
+Vale ratificar que os documentos e as decisões judiciais anteriores reconheceram que a recorrente recebe renda mensal de R$ 13.010,52 (fls. 874).
+Também restou incontroverso nos autos que o valor das custas processuais com o preparo do recurso de apelação é de R$ 47.600,00, ou seja, 4% sobre o valor da causa, que, nos termos da decisão de fls. 573 é de R$ 1.190.000,00.
+Somando-se o valor das custas do presente processo com o preparo do recurso de apelação nº 1002491-58.2020.8.26.0358, no valor de R$ 72.000,00, chega-se ao montante de R$ 119.600,00, que representa mais de 70% da toda a renda anual da recorrente.
+ ..
+Então, tendo a recorrente demonstrado a falta de condições financeiras para pagar as custas, faz-se necessária a reforma da decisão recorrida, visto que momentaneamente ela não tem disponibilidade financeira para custear as despesas do presente processo (fls. 887-892).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Alega a agravante que a documentação apresentada atesta a sua situação de hipossuficiência financeira, sendo imperiosa a concessão do benefício.
+Contudo, as razões apresentadas não convencem do desacerto da decisão recorrida e não são capazes de alterar a convicção deste Relator.
+Isso porque a agravante não conseguiu comprovar que houve alteração na sua condição econômico-financeira e que não tem condições de arcar com o valor do preparo.
+ ..
+No caso "sub iudice", a agravante consignou expressamente a impossibilidade de arcar com as custas do processo, contudo, existem elementos indicativos de que ela não é economicamente vulnerável.
+ ..
+Conforme já observado no AI nº 2265770-87.2021.8.26.0000, a baixa da empresa Terramovi (fls. 728/729) não é suficiente para comprovar a hipossuficiência financeira da agravante, pois existe renda suficiente da atividade rural desenvolvida por ela e seu marido, sendo "que a agravante atua como criadora de gado na região de Mirassol, ao lado de seu marido (fls. 253/256). Conforme notas fiscais de fls. 75/85, o marido da agravante foi fornecedor de 101 bois para abate ao Frigoestrela S/A no ano de 2021" (fls. 621).
+E ainda "Constata-se dos autos que a agravante é beneficiária de contrato de parceria agrícola firmado com a empresa COFCO INTERNATIONAL BRASIL S.A., que tem por objeto 447,75 ha. do imóvel rural denominado Fazenda Boa Vista, para o plantio de cana-de-açúcar, que é atrelado ao contrato de compra e venda de cana- de-açúcar, o qual lhe garante renda mensal, somente deste contrato, de R$ 13.010,52 (fls.
+257/270, 271/284)" (fls. 621).
+A declaração de bens e rendimentos apresentada (fls. 749/756) e os extratos bancários (fls. 740/748) se referem ao marido da agravante e não demonstram a sua hipossuficiência financeira. São proprietários de um imóvel, de um veículo e de cotas do capital social - SICOOB no valor de R$ 101.675,92. Além disso, o saldo bancário de R$ 49.505,08 (fls. 744) é incompatível com a alegada impossibilidade de recolhimento do preparo.
+Ademais, ao contrário do que sustenta a agravante, a documentação apresentada com este recurso não é capaz de atestar a sua situação de hipossuficiência financeira.
+As faturas de cartão de crédito demonstram gastos incompatíveis com a alegada incapacidade econômica (fls. 11/31 deste recurso), bem como os extratos apresentam expressiva movimentação bancária (fls. 32/59 deste recurso).
+Portanto, a agravante não comprovou a sua hipossuficiência financeira para que fosse concedida a benesse pretendida (fls. 872-874).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
