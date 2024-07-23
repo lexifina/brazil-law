@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO BRUNO MARQUES DE SOUZA LIMA contra decisão do Tribunal de origem que inadmitiu o processamento do recurso especial em razão dos óbices das Súmulas 7 e 211 do STJ.
+A defesa pugna pel o conhecimento do agravo para prover o recurso especial, com a despronúncia do recorrente em razão da ausência de indícios de autoria e da fundamentação baseada em testemunhos indiretos e elementos de inquérito.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou desprovimento da insurgência.
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, os óbices aplicados foram devidamente rebatidos.
+Passo ao exame do recurso especial.
+RICARDO BRUNO MARQUES DE SOUZA LIMA foi pronunciado pela suposta prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal.
+Irresignada, a defesa interpôs recurso em sentido estrito, ao qual o Tribunal de origem negou provimento (e-STJ fls. 725-745).
+No recurso especial, a defesa alega violação aos arts. 413, § 1º, e 414, do Código de Processo Penal, em razão da suposta ausência de indícios de autoria e elementos judicializados e da fundamentação baseada em testemunhos indiretos.
+Sobre a tese defensiva, não se ignora o entendimento desta Corte no sentido de que "o testemunho de "ouvir dizer" ou hearsay testimony não é suficiente para fundamentar a pronúncia, não podendo esta, também, encontrar-se baseada exclusivamente em elementos colhidos durante o inquérito policial, nos termos do art. 155 do CPP" (AgRg no AgRg no AREsp n. 2.142.384/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/10/2023, DJe de 27/10/2023 e AgRg no REsp n. 2.017.497/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/10/2023, DJe de 19/10/2023).
+Tampouco a orientação firmada recentemente pela Quinta Turma no HC 776.333/SC, no qual prevaleceu a tese de que os testemunhos judiciais de policiais, quando veiculam relatos de terceiros, não são suficientes para comprovar os indícios de autoria exigidos para a pronúncia.
+Contudo, dentro dos limites do reexame fático-probatório, verifico que, ao contrário do que alega a defesa, a pronúncia do agravante está devidamente fundamentada, não havendo amparo exclusivo em testemunhos indiretos e elementos de inquérito.
+Ressalto, nesse sentido, a fundamentação lançada no acordão confirmatório da pronúncia (e-STJ fls. 738-739):
+"Ademais, conforme ressaltado pelo Ministério Público de primeiro grau (fls. 445/463) e reafirmado em parecer da Procuradoria de Justiça (fls. 691/701), outros elementos dos autos fornecem indícios suficientes de autoria delitiva para fins de submissão do acusado ao Plenário do Júri, dentre eles:
+a) o fato de já na fase pré-processual, ter a testemunha Raimundo Pereira Brito identificado aos policiais atuantes na ocorrência, a identidade do agressor, apontando o recorrente como sendo um dos autores do delito - Relatório de Recognição Visuográfica do Local de Crime (fl. 11);
+b) diversas informações prestados por testemunhas sigilosas (identificação protegida), às fls. 60/79, dando conta da existência de uma relação criminosa entre a vítima e os acusados, bem como a suposta motivação para o crime, tendo o recorrente (Bruno) executado a vítima a mando do outro acusado (José Erivando);
+c) o fato de ter o exame pericial de comparação balística entre os projéteis retirados do corpo da vítima e o revólver Taurus calibre 38, apreendido em poder do acusado/recorrente, na data de 27 de março de 2022, ter apresentado resultado atestando que o projétil P2 retirado do corpo da vítima percorreu o cano da arma examinada (fls. 629/633).
+Além disso, conforme destacou o parquet de primeiro grau, embora não tenha sido possível colher os depoimentos das testemunhas protegidas por sigilo em juízo, verifica-se que os depoimentos prestados por aquelas outras arroladas pela acusação corroboram com as informações prestadas em de policial pelas primeiras, não havendo que se falar em pronúncia amparada apenas em elementos de informação do inquérito, como pretende parecer o recorrente. (grifos acrescidos)
+Não há, portanto, nulidade decorrente da ausência de fundamentação da pronúncia, pois o Tribunal de origem, cotejando os elementos de convicção produzidos em ambas as fases da persecução penal, concluiu pela higidez da pronúncia. Nesse sentido: AgRg no AgRg no AgRg no AREsp n. 2.275.215/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/9/2023, DJe de 3/10/2023 e AgRg no AgRg no AREsp n. 2.102.669/MG, relator Ministro Rogerio Schietti Cruz, relatora para acórdão Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 2/10/2023).
+Desse modo, com fundamento no art. 253, parágrafo único, II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
