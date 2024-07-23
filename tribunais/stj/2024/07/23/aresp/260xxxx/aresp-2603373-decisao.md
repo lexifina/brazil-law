@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA DO SOCORRO TRIGUEIRO LOUREIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO CÍVEL. ISENÇÃO DE IMPOSTO DE RENDA. MOLÉSTIA GRAVE. PRÉVIO REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. INTERESSE PROCESSUAL CONFIGURADO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 357, II, do CPC, no que concerne à necessidade de fixação das questões fáticas sobre as quais recairão a produção probatória, devendo ocorrer antes à especificação das provas. Argumenta:
+Ora, o art. 357, II, do Código de Processo Civil determina expressamente que, não ocorrendo nenhuma das hipóteses de julgamento conforme o estado do processo, deve o Juízo delimitar as questões de fato sobre as quais recairá a atividade probatória, especificando os meios de prova admitidos. Ou seja, a fixação dos pontos controvertidos deve preceder a especificação das provas.
+ ..
+Neste contexto, fica claro que o v. acórdão, ao ratificar a r. sentença, nega vigência ao art. 357, II, do Código de Processo Civil, porquanto mantém a indicação das provas a serem produzidas no feito antes da fixação dos pontos controvertidos da lide, isso em manifesta violação da lei federal vigente. (fls. 434-438).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 6º do CPC, no que concerne ao dever de cooperação processual. Aduz:
+Nessa toada, a conduta adotada pelo Julgador de primeira instância afrontou também o art. 6º, do Código de Processo Civil, do qual se extrai que "Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva."
+ ..
+Desta feita, percebe-se que ao não atuar positivamente, deixando de indicar os pontos fáticos sobre os quais pairava a controvérsia, o magistrado violou o dispositivo em comento, pois não agiu de forma cooperativa, influindo no resultado do feito e na justiça da decisão. (fls. 438-439).
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 9º e 10, ambos do CPC, com prejuízo ao devido processo legal, uma vez que não foi viabilizada oportunidade de prévia manifestação em face de decisão judicial. Afirma:
+Explica-se: ao afastar a pretensão autoral por insuficiência de provas, sem quem antes fossem as partes cientificadas dos pontos sobre os quais deveria recair a atividade probatória, temos como resultado prático a afronta da norma que se extrai dos dispositivos em comento, pois observamos, de fato, uma verdadeira decisão surpresa.
+Assim, com todo respeito ao entendimento das instâncias inferiores, o Recorrente entende que há grave violação ao devido processo legal, consubstanciado na contrariedade e negativa de vigência dos arts. 357, II; 6º; 9º e 10, todos do Código de Processo Civil.
+(fls. 439-440).
+É, no essencial, o relatório. Decido.
+Quanto à primeira, à segunda e à terceira controvérsias, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
