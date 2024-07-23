@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por VITALLE CONSTRUTORA E INCORPORADORA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MATERIAIS E MORAIS. RECONVENÇÃO. DESCUMPRIMENTO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEIS. PARCIAL PROCEDÊNCIA NA ORIGEM. IMPROCEDÊNCIA DO PLEITO RECONVENCIONAL. RECURSO DA EMPRESA RÉ/RECONVINTE. PRESCRIÇÃO. INADIMPLEMENTO CONTRATUAL. PRAZO PRESCRICIONAL DECENAL. ALEGAÇÃO AFASTADA. MÉRITO. NÃO COMPROVAÇÃO DO EFETIVO PAGAMENTO SUSTENTADA PELA DEFESA. ÔNUS DO DEVEDOR. QUITAÇÃO QUE CONSTA DO INSTRUMENTO CONTRATUAL. CONTRAPRESTAÇÃO À VISTA. CONJUNTO PROBATÓRIO INSUFICIENTE PARA CORROBORAR A VERSÃO NARRADA EM CONTESTAÇÃO. CIRCUNSTÂNCIAS CAPAZES DE INDICAR QUE HOUVE PAGAMENTO DA DÍVIDA. NÃO DEMONSTRADA A VINCULAÇÃO DO CONTRATO EM QUESTÃO COM OUTRAS RELAÇÕES NEGOCIAIS ENTRE AS PARTES. RECURSO CONHECIDO E DESPROVIDO. HONORÁRIOS RECURSAIS FIXADOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 320 do Código Civil, no que concerne à inexistência nos autos dos requisitos mínimos à comprovação da realização do pagamento ajustado entre as partes, trazendo a seguinte argumentação:
+Inicialmente, importa destacar que houve clarividente ofensa ao artigo 320 do Código Civil, considerando a ausência de comprovação de pagamento da obrigação descrita contratualmente.
+ ..
+Deste modo, a quitação deve observar os requisitos indicados na norma civil acima indicada, as quais não foram preenchidas no caso em tela, já que inexiste especificação da forma que foi realizado o pagamento.
+ ..
+Deste modo, considerando que inexiste os requisitos necessários a quitação, a lei especifica que haverá quitação tão somente caso as circunstâncias demonstrarem.
+ ..
+Desta forma, não houve o cumprimento mínimo dos requisitos necessários a comprovação do pagamento. (fls. 336-337).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como se vê, o contrato prevê cláusula contratual expressa dando quitação imediata dos valores ajustados, a qual não pode ser desconstituída por mera alegações da empresa ré/reconvinte, sem o necessário respaldo probatório de sua versão.
+A peça de defesa não veio acompanhada de documentos relevantes para comprovação da tese alegada e a prova colhida em audiência também revelou-se inservível para tanto.
+Das provas amealhadas com a exordial percebo que, ao ser notificado extrajudicialmente para cumprir com suas obrigações, o apelante nada mencionou acerca do suposto inadimplemento contratual, apenas argumentou que os apartamentos já estavam disponíveis para a entrega, a qual vinha sendo postergada por acordo verbal entre as partes "especialmente por conta a pendência de outros negócios entre si, visando uma eventual futura compensação com os valores devidos ao sócio da VITALLE" (Evento 1, Anexo 9).
+O conjunto probatório não deixa dúvidas de que o negócio jurídico objeto da presente ação não foi o único negócio realizado entre o apelado e o sócio administrador da empresa apelante. No entanto, esta não logrou êxito ao comprovar a vinculação entre tais obrigações a ponto de desconstituir a quitação regularmente conferida no instrumento particular de promessa de compra e venda de imóvel (Evento 1, Anexo 5).
+E, não havendo outras temáticas abordadas na peça recursal, não há razões para modificação da decisão singular. (fls. 273-274).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ" (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
