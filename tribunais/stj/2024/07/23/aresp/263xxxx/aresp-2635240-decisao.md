@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ULISSES ANTONIO BARROSO DE MOURA SOCIEDADE INDIVIDUAL DE ADVOCACIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ACIDENTÁRIA - CUMPRIMENTO DE SENTENÇA - SENTENÇA QUE NÃO ACOLHEU A FIXAÇÃO DE NOVOS HONORÃRIOS ADVOCATÍCIOS - IRRESIGNAÇÃO DO CAUSÍDICO - VERIFICAÇÃO, POR ESTA E. CORTE, DE QUE A SENTENÇA PROFERIDA NA FASE DE CONHECIMENTO NÃO FOI SUBMETIDA AO REEXAME NECESSÃRIO - MATÉRIA DE ORDEM PÚBLICA, APRECIÁVEL DE OFÍCIO - NULIDADE DOS ATOS JÁ PRATICADOS NO CUMPRIMENTO DE SENTENÇA - DETERMINAÇÃO DE REMESSA DOS AUTOS PRINCIPAIS A ESTE TRIBUNAL PARA REEXAME NECESSÁRIO - INTELIGÊNCIA DO ARTIGO 496 DO CPC - PRECEDENTES DESTA C. CÂMARA. NULIDADE DOS ATOS DE EXECUÇÃO DECRETADA DE OFÍCIO, PREJUDICADO O RECURSO INTERPOSTO PELO ADVOGADO, COM DETERMINAÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 1º, 502, 505 e 507 do CPC, no que concerne à impossibilidade de desconstituição da eficácia preclusiva da coisa julgada por iniciativa do órgão julgador, situação que configura afronta ao devido processo legal, trazendo a seguinte argumentação:
+O Egrégio Tribunal de Justiça do Estado de São Paulo proferiu um acórdão declarando sem efeito a coisa julgada decretada em 03/07/2019 no Processo Principal 1006408-05.2017.8.26.0451.
+Com isso, decretaram a nulidade do Cumprimento de Sentença 0011557-28.2019.8.26.0451, o qual foi promovido no 2ª semestre de 2019 após a decretação da coisa julgada no processo principal.
+Agora em 2023, depois de 4 anos, o Egrégio Tribunal de Justiça do Estado de São Paulo profere um julgamento que contraria as normas do Código de Processo Civil: (fls. 160-161).
+Com o transito em julgado acima indicado, a senhora Sidneia Ferreira Ramos promoveu o Cumprimento de Sentença 0011557-28.2019.8.26.0451, sendo que neste, após a conta ser homologada também houve o seu transito em julgado em 26/08/2022 (fls. 164).
+A senhora Sidneia Ferreira Ramos já recebeu os valores que lhe foram deferidos em sentença na Requisição de Pequeno Valor (0011557-28.2019.8.26.0451).
+A senhora Sidneia Ferreira Ramos já gastou - anos atrás - o dinheiro recebido com sua sobrevivência.
+Agora, este novo Cumprimento de Sentença 0007474-61.2022.8.26.0451 trata apenas da matéria que está ventilada no recurso interposto, honorários da fase de execução quando o pagamento se der por RPV sendo a execução embargada ou não.
+Aliás, é materialmente impossível voltar tudo ao STATUS QUO ante a certidão de transito em julgado promovido no processo principal:
+1 - POIS É IMPOSSÍVEL voltar ao status quo ante do Cumprimento de Sentença em que homologou os valores devidos a senhora Sidneia Ferreira Ramos;
+2 - POIS É IMPOSSÍVEL voltar ao status quo ante do RPV que efetuou o pagamento dos valores atrasados à senhora Sidneia Ferreira Ramos;
+3 - POIS É IMPOSSÍVEL voltar ao status quo ante material, que seria a devolução do dinheiro que a senhora Sidneia Ferreira Ramos legitimamente recebeu nos autos e gastou com sua sobrevivência
+Salvo melhor juízo, depois de quase 4 anos do transito em julgado no processo principal, não pode haver uma simples anulação de tudo, mas deve ser promovido pelo interessado a Ação Rescisória de que trata o Código de Processo Civil (fls. 165-167).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
