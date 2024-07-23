@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de LEONARDO FERNANDES DOS SANTOS em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que indeferiu o pedido de liminar formulado no HC n. 8043938-54.2024.8.05.0000.
+Consta dos autos que o paciente foi inicialmente condenado e cumpre pena pela prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+Relata a impetrante que "O paciente iniciou sua execução para cumprimento da pena inicialmente de 5 anos de reclusão, em razão de condenação na AP nº 0304253-12.2014.8.05.0079(e-STJ -fls.07/09 e 10/11). No entanto, em 27/03/24, referida condenação fora reduzida pela próprio Tribunal de Justiça a quo para 1 ano e 8 meses(e-STJ -fls. 12/28, 29 e 30),o que fora constatado pela DEFENSORIA PUBLICA ao atender o paciente no interior da unidade prisional, em 10/07/24" (fl. 4).
+Informa que o paciente já cumpriu 4 anos, 2 meses e 13 dias da pena. Desse modo, requereu a extinção da punibilidade, ante o cumprimento integral da sua pena. Atualmente continua preso em regime fechado.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que, não obstante incontroverso e inequívoco o paciente ter cumprido integralmente a sua pena, a autoridade coatora postergou a apreciação do pedido de extinção da punibilidade e a sua manutenção no cárcere.
+Ressalta que "a despeito da Resolução CNJ nº 113/2010 preconizar a imediata comunicação ao Juízo a quo do v. acórdão; da juntada deste no processo de execução pela DEFENSORIA PÚBLICA, nos termos do art. 452, VI, do CPC; da Resolução CNJ nº 417/21 ter instituído o BNMP 3.01, permitindo a consulta, em tempo real, da decisão proferida por Egrégio Tribunal de Justiça e da interoperabilidade com o PJe, ainda assim, a autoridade coatora permitiu a manutenção do paciente no cárcere, postergando a apreciação do pedido de extinção da punibilidade(e-STJ -fl. 33), de forma que a coação ilegal subsiste até hoje, 17/07/24, não obstante incontroverso e inequívoco o cumprido integralmente a sua pena" (fl. 5).
+Requer, assim, liminarmente e no mérito, a declaração da extinção da punibilidade do paciente pelo cumprimento integral da pena, com a expedição do competente alvará de soltura.
+É o relatório.
+In casu, não visualizo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, pois trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
