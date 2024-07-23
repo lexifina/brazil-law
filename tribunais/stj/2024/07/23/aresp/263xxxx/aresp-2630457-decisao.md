@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por GDS GROW DIETARY SUPPLEMENTS DO BRASIL S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. FALÊNCIA DECRETADA COM BASE NO ART. 94, INCISO I, DA LEI 11.101/2005  INADIMPLEMENTO DE DÉBITO SUPERIOR A 40 SALÁRIOS- MÍNIMOS). ART,. 98, PARÁGRAFO ÚNICO, DA LEI 11.101/2005. DEPÓSITO ETISIVO TARDIO (A DESTEMPO, EXTEMPORÂNEO). POSSIBILIDADE NO CASO CONCRETO. PRECEDENTES DAS CÂMARAS RESERVADAS DE DIREITO EMPRESARIAL DESTE E. TJSP. DECISÃO REFORMADA. RECURSO PROVIDO (fl. 102).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98 da Lei de Falências, no que concerne à impossibilidade de elidir-se o débito e reverter-se a falência decretada, com depósito insuficiente e fora do prazo de contestação, trazendo a seguinte argumentação:
+Data máxima vênia, o depósito feito apenas no bojo de eventual agravo de instrumento, não serve ele para elidir o débito e reverter a falência decretada, senão vejamos:
+Como dito em sede de contrarrazões ao agravo de instrumento, o depósito feito em 22/09/2023, no valor de R$ 93.051,18 (fls. 26/28), se mostrou insuficiente, posto que não contemplou o valor atualizado do débito, já que não incluiu as custas processuais incorridas - o que totalizaria R$ 93.629,02:
+Além disso, tal depósito foi feito fora do prazo de contestação previsto pelo artigo 98 da Lei de Falências, e, inclusive, após decretada a falência da aqui recorrida, não sendo verificada qualquer excepcionalidade que tenha o condão de elidi-la - até porque esse depósito deveria ter sido feito para evitar a quebra e não para afastá-la!
+Pelo contrário, conforme demonstram os documentos anexados às fls. 77/93, a devedora e ora recorrida possui outros significativos débitos junto a esta credora/recorrente (os quais serão objeto de habilitação de crédito na falência), bem como possui débitos junto a terceiros que ela própria revelou/confirmou em audiência (vide gravação - fls. 124 dos autos de origem).
+Logo, a tentativa extemporânea de elidir o débito que deu ensejo a decretação de sua falência, visa na verdade prejudicar outros créditos da ora recorrente e de terceiros, e não conta sequer com a concordância desta credora (fls. 117/118).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+O ponto central da problemática envolvendo as partes é analisar a possibilidade de se efetuar o depósito elisivo tardio (a destempo, extemporâneo), tendo em vista o teor do art. 98, parágrafo único, da Lei 11.101/2005.
+ ..
+Verifica-se, no caso, conforme informou a própria agravada que o débito total é de R$93.629,02, sendo que o valor efetivamente depositado foi de R$93.051,18 (pág. 73).
+Como se observa, a diferença entre os valores (pagos e efetivamente devidos de acordo com os cálculos da agravada) é mínima, o que possibilita a confirmação do depósito elisivo tardio (a destempo, extemporâneo), com a observação de que o restante do pagamento foi comprovado às págs. 96/100.
+Portanto, a r. decisão agravada é reformada para declarar a higidez do depósito elisivo tardio (a destempo, extemporâneo), afastando-se o decreto de falência (fls. 105/109).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
