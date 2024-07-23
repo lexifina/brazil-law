@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALDECIR GALATTE JUNIOR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+MANDADO DE SEGURANÇA - CONDUTOR ALVO DE FISCALIZAÇÃO DE TRÂNSITO - RECUSA À REALIZAÇÃO DO TESTE DO BAFÔMETRO. EM DATA POSTERIOR À VIGÊNCIA DA LEI Nº 13.281/2016. QUE CRIOU O ART. 165-A E ALTEROU O ART. 277. § 3º, DO CTB - AUTO DE INFRAÇÃO QUE ATENDE OS REQUISITOS LEGAIS PARA A SUA LAVRATURA - ATO ADMINISTRATIVO VÁLIDO - IMPETRANTE ALEGA QUE NÃO FOI NOTIFICADO DA AUTUAÇÃO - AUTO DE INFRAÇÃO ASSINADO PELO INFRATOR. QUE MANIFESTOU SUA CIÊNCIA. TORNANDO DESNECESSÁRIA A PRIMEIRA NOTIFICAÇÃO PREVISTA NO ART. 280. § 3º. DO CTB - NOTIFICAÇÃO ENCAMINHADA AO PROPRIETÁRIO DO VEÍCULO E NÃO AO CONDUTOR IDENTIFICADO, QUE JÁ ESTAVA CIENTE DA LAVRATURA DO AUTO DE INFRAÇÃO. INTELIGÊNCIA DOS ARTS. 281- A E 282. § 3º; DO CTB - DEVER DE MANTER OS DADOS CADASTRAIS ATUALIZADOS NO ÓRGÃO DE TRÂNSITO - INTELIGÊNCIA DOS ART. 241 E 282; §1º; DO CTB - PRECEDENTES DO STJ - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e interpretação jurisprudencial divergente dos arts. 281-A, 281, § 1º, II, e 282 do CTB, no que concerne à invalidade da notificação de infração, tendo em vista que não foi realizada de acordo com os procedimentos previstos na lei. Aduz a seguinte argumentação:
+Os Doutos Desembargadores componentes da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, por meio do v. acórdão de fls. 90/105, negaram provimento à apelação do recorrente, mantendo a r. sentença de fls. 62/65, ainda que por outros fundamentos, que não aplicou corretamente a legislação e a jurisprudência invocadas pelo recorrente, desde a petição inicial de fls. 1/6, ou seja, foi ignorado que não houve a menção, no auto de infração de trânsito, do prazo para apresentação da defesa, nos termos do que determina o art. 281-A, do CTB, bem como que não foi expedida a notificação para o recorrente apresentar defesa (notificação da autuação), tampouco recurso à JARI (notificação da imposição da penalidade), o que viola o quanto disposto na Súmula nº 312, deste C. STJ.
+Para manter a r. sentença, em apelação do recorrente, constou no v. acórdão de fls. 90/105, que o recorrido teria notificado o recorrente, no momento da lavratura do auto de infração, MESMO SEM CONTER A ASSINATURA DO INFRATOR E O NÃO RECEBIMENTO DA SEGUNDA VIA DA INFRAÇÃO.
+Ocorre que, está sendo flagrantemente ignorado o fato de que no auto de infração de trânsito nº 1DC402707-1 (fl. 19), não consta o prazo para apresentação de defesa, conforme determina o art. 281-A, do Código de Trânsito Brasileiro - CTB, que assim dispõe:
+ ..
+Apenas por tal fato, o auto de infração já deve ser considerado nulo, por desrespeito e negativa de vigência a dispositivo de lei (art. 281-A, do CTB), que impõe que conste o prazo para apresentação de defesa prévia, o que não foi feito pelo recorrido.
+Não sendo posto o prazo para a defesa prévia, nos termos do art. 281-A, do CTB, deveria o recorrido expedir, para o endereço da recorrente, a notificação para a defesa prévia, constando, inclusive, o prazo para a apresentação da referida defesa, o que não aconteceu.
+Não consta qualquer expedição de notificação para o endereço do recorrente, já que o recorrido sequer apresentou as informações, o que denota que sequer expediu as notificações.
+Conforme se nota, a dupla notificação não foi expedida.
+O v. acórdão recorrido, assim dispõe para manter a equivocada sentença proferida em primeiro grau, no sentido de que é desnecessária a dupla notificação ao condutor, podendo ser apenas ao proprietário, contrariando o quanto determina a Súmula 312 deste C. STJ e a jurisprudência recente desta mesma Corte Cidadã:
+ ..
+Mais uma vez, pelos trechos acima colacionados, nota-se que foi, realmente, maltratado os artigos 281-A, 281, § 1º, inciso II e 282, do CTB.
+A comprovação inequívoca da falta da dupla notificação está no fato de o recorrido não juntar qualquer documento ao menos demonstrando a expedição da notificação para o recorrente, mas sim para terceiro.
+O entendimento esposado no v. acórdão recorrido diverge totalmente do entendimento firmado por este egrégio Superior Tribunal de Justiça (RECURSO ESPECIAL Nº 1875132 - RS (2020/0117201-9), que, confirmou a Apelação Cível nº 70077522209, que, por sua vez, improveu o recurso do Detran/RS contra a sentença proferida na Ação Coletiva 001/1.16.0117078-6, promovida pelo Ministério Público do Rio Grande do Sul), ainda mais quando sequer foi comprovada o envio das notificações para o condutor se defender e recorrer, conforme se pode observar abaixo:
+ ..
+Nesse sentido é a construção jurisprudencial pacífica deste egrégio Superior Tribunal de Justiça - STJ, conforme segue a ementa "in verbis":
+ ..
+O acórdão referente ao trecho extraído e da ementa acima colacionada, segue em anexo e na íntegra, para melhor instruir o presente recurso.
+Do mesmo modo é o entendimento majoritário do próprio Tribunal de Justiça do Estado de São Paulo, apenas para título de ilustração e argumentação da forte tese recursal:
+ ..
+Diante disso, restou demonstrado que não foi observado no v. acórdão recorrido a aplicabilidade do art.
+281-A, bem como dos artigos 281, § 1º, inciso II e art. 282, § 3º, todos do CTB, sem contar da já pacificada jurisprudência desta Corte Cidadã.
+Como o recorrente foi devidamente identificado, tais notificações deveriam ter sido encaminhadas ao endereço cadastrado no prontuário de condutor do recorrente junto às autoridades de trânsito.
+É o que dispõe o artigo 282, caput, do Código de Trânsito Brasileiro (grifos próprios):
+ ..
+A expressão disjuntiva "ao proprietário do veículo ou ao infrator" deve ser interpretada como referente ao responsável pela infração, sujeito à imposição das respectivas penalidades, sendo este o proprietário, mas apenas quando nele se confundir a figura do infrator ou nos demais casos previstos no CTB. Não havendo confusão entre proprietário e infrator, e tendo o autor se identificado tempestivamente, deve a notificação ser expedida ao condutor infrator.
+Ocorre que, como acima apontado, as notificações não foram emitidas e enviadas, e que assim não pode exercer o seu direito de contraditório e defesa na esfera administrativa.
+Daí porque de rigor a anulação do auto de infração, por ausência de envio da dupla notificação, conforme obrigação legalmente imposta às autoridades de trânsito.
+Diante disso, é medida que se impõe a reforma do v.
+acórdão para ser decretada a procedência dos pedidos, para reconhecer a nulidade do auto de infração auto de infração nº 1DC527603-1 e, consequentemente, das penalidades dele advindas.
+(fls. 113-119).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Cumpre observar, por oportuno, que o ato administrativo goza de presunção de veracidade, não havendo possibilidade de dilação probatória na estreita via do mandado de segurança, de forma que se consideram verdadeiros todos os elementos do auto de infração, lavrado por agente dotado de fé pública.
+Quanto a alegada ausência de dupla notificação, é fato incontroverso nos autos que o impetrante foi autuado em situação análoga à de flagrante, ou melhor dizendo, o auto de infração foi lavrado de pronto pela autoridade de trânsito, em razão da recusa daquele em submeter-se ao teste do "bafômetro".
+Em casos tais, torna-se desnecessária a primeira notificação, abrindo-se desde logo prazo para a defesa prévia, de modo que, sem cabimento a alegação do recorrente de ausência de dupla notificação da autuação.
+(fls. 99-100).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
