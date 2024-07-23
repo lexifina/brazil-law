@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por BJ COMMERCE PRESENTES LTDA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Marca - Ação cominatória e indenizatória Fase instrutória Viabilidade da realização de exame pericial Falta de pronunciamento em primeira instância Inviabilidade de pronunciamento imediato nesta instância revisora - Arbitramento de honorários de acordo com estimativa de horas necessárias para a execução dos trabalhos Inexistência de indicação quanto à dispensa de tarefa proposta ou de excesso de horas - Ausência de exagero ou anormalidade Decisão mantida Recurso parcialmente conhecido e desprovido na parcela conhecida.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação do art. 98 do Código de Processo Civil, no que concerne ao necessário deferimento da gratuidade de justiça diante da atual situação de hipossuficiência da parte ora recorrente para arcar com as custas processuais, trazendo a seguinte argumentação:
+In casu , o Recorrente suportou todas as despesas processuais até então, ESBARRANDO APENAS NO VALOR DA PERÍCIA, a qual repise-se: não reúne condições para arcar com o valor arbitrado, ainda mais no exíguo lapso de 30 dias.
+Portanto, seguindo essa balizada linha de raciocínio, o artigo 98 e seguintes do CPC estabelecem as condições e critérios para a concessão do benefício da justiça gratuita, que visa permitir que pessoas sem recursos financeiros possam participar do processo judicial sem arcar com as despesas processuais.
+ ..
+Note-se que sobredito artigo engloba também a pessoa jurídica, sendo que o dispositivo em questão ampara o Recorrente, não sendo crível negar-lhe a sua vigência.
+Isso posto, sendo o acesso à justiça um direito fundamental garantido pela Constituição e pelos tratados internacionais dos quais o Brasil é signatário corroborado ao fato que o pedido da benesse pode ser formulado a qualquer tempo, requer o Recorrente o deferimento da gratuidade da justiça pela via estreita do presente Recurso Especial e, assim, dar seguimento no processo em curso. (fls. 188-189).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Frisa-se que o pleito de gratuidade processual foi efetivamente apreciado e indeferido (fls. 158/161), oportunidade na qual foi determinado que a recorrente recolhesse custas de preparo recursal.
+Intimada, a embargante cumpriu o determinado, tendo apresentado as guias de recolhimento (fls. 166/168). (fl. 200).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório" (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
