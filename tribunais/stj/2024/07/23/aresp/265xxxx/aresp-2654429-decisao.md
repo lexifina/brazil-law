@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por RAIMUNDO DUTRA DE OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+DOIS APELOS. DIREITO DO CONSUMIDOR E BANCÁRIO. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. EMPRÉSTIMO CONSIGNADO. ALEGAÇÃO DE NÃO CONTRATAÇÃO. ÔNUS DA PROVA QUE RECAI SOBRE A INSTITUIÇÃO FINANCEIRA. IRDR. RESPONSABILIDADE CIVIL CARACTERIZADA. DEVER DE INDENIZAR. RESTITUIÇÃO EM DOBRO. CABIMENTO. DANO MORAL NÃO CONFIGURADO. PARCIAL PROVIMENTO DO PRIMEIRO RECURSO E DESPROVIMENTO DO SEGUNDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 186 e 944, do CC, no que concerne à condenação da recorrida em danos morais, diante da inobservância das formalidades legais exigidas na celebração de contrato com pessoa analfabeta e os descontos indevidos em verba de natureza alimentar, trazendo a seguinte argumentação:
+Contudo, a interpretação dada pelo Tribunal de origem, contrariou o art. 186 do Código Civil assim redigido.
+ ..
+Nesse norte, o réu ao celebrar negócio jurídico nulo com pessoa analfabeta, conforme reconheceu o Tribunal "ad quo" no acórdão guerreado, violou o direito do autor, causando danos passíveis de reparação moral, tendo em vista os descontos indevidos das parcelas em seu parco rendimento de um salário mínimo de aposentadoria, diminui seu orçamento, fato por se só que gera violação os bens tutelados pela norma legal.
+Assim como divergiu da interpretação dada por essa Corte, que entende presente dano moral decorrente de descontos em empréstimo consignado, veja.
+ ..
+Também, ínclito (a) relator (a), como próprio fundamentou a sentença reformada, os descontos indevidos sofridos pelo recorrente se deram em verba de caráter alimentar, que, por sua vez, transbordam a esfera do mero aborrecimento, cuja a conduta ilícita do recorrido, violar regramento constitucional (CF/88 art. 5 X) na esfera da personalidade do autor, em especial à imagem, à intimidade, à privacidade e à honra (CC, art. 927) e (CDC, art. 6 VI)
+Nesse norte, deve ser reconhecido o dano moral e arbitrado o quantum em R$ 5.000 ou R$ 10.000,00, conforme vem aplicando essa Corte de Vértice (fls. 210- 211).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Na vertente hipótese, contudo, entendo não estar caracterizado dano moral apto de reparação pecuniária. Isso porque a apelante sequer especificou qualquer ocorrência na sua vida que teria sido consequência da contratação, não sendo autorizado, ou mesmo factível, sua presunção se não resta comprovada qualquer gravidade ou consequência além dos próprios descontos, que, por si sós, não possuem o condão, em regra, de causar dano moral indenizável.
+Também não foram demonstrados outros fatores concretos, a exemplo de restrição creditícia, que poderiam justificar a presunção de dano moral. Registro que o dano moral presumido (in re ipsa) decorre de casos com maiores gravidades, a exemplo de negativa indevida de cobertura por parte de planos ou seguros de saúde e restrição creditícia.
+Esses fatos, a meu ver, afastam a presunção de que os descontos ocasionaram dano indenizável ao patrimônio imaterial da autora (fl. 193).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
