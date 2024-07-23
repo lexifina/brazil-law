@@ -1,0 +1,13 @@
+DECISÃO
+MOISES BENTO GONCALVES interpõe agravo regimental, juntando a peça faltante (fls. 131/191) - íntegra do acórdão da apelação -, razão pela qual reconsidero a decisão de fls. 123/124 e passo ao exame do habeas corpus.
+Neste writ, impetrado em razão do acórdão proferido pelo Tribunal Regional Federal da 3ª Região na Apelação Criminal n. 0004734-70.2012.4.03.6105, pretende-se a readequação da pena-base imposta ao paciente, reconhecendo-se a inidoneidade da motivação apresentada para a valoração negativa das consequências do crime, com o decote do aumento relativo à dita circunstância.
+Sustenta-se, nesse sentido, que a dosimetria da pena se mostra equivocada ante o rigor excessivo na fixação da pena-base do ora paciente, a qual foi exasperada 1 (um) ano e 7 (sete), ou seja 7 (sete) meses acima do mínimo legal, pela negativação das circunstâncias do crime, consequências e maus antecedentes (fl. 5); e que, para justificar um sopesamento pelas consequências (valores do prejuízo), sem redundar em bis in idem com a conduta ordinária do tipo penal e sua agravante, necessário se faz que este valor seja de fato extraordinário, significativo, o que, em definitivo, não é o caso dos autos (fl. 5).
+Argumenta-se, ainda, que a pena-base foi aumentada em decorrência do prejuízo causado ao INSS, no entanto, segundo a Jurisprudência dos nossos Tribunais Federais, não é possível exasperar a pena-base em razão do prejuízo causado ao erário público, uma vez que a obtenção de vantagem indevida integra o tipo penal e já é computada por ocasião da majorante prevista no parágrafo 3º do art. 171 do CP (fl. 5).
+É o relatório.
+Não há constrangimento ilegal apto de ser reparado por esta via.
+Isso porque, além de o expressivo valor do prejuízo ao erário ser elemento reconhecidamente idôneo para majorar a pena-base do crime em questão (conferir, por exemplo, o AgRg nos EDcl no REsp n. 1.997.082/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2022), a exasperação da reprimenda em um total de 7 meses - considerando-se o intervalo de 4 anos - não pode ser inquinada de qualquer ilegalidade ou desproporcionalidade no caso em análise, em que ainda foram valoradas negativamente outras duas circunstâncias judiciais - antecedentes e circunstâncias do crime.
+Assim, reconsidero a decisão de fls. 123/124 e indefiro liminarmente este habeas corpus.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PLEITO DE JUNTADA DA PEÇA FALTANTE. INSTRUÇÃO REGULARIZADA. RECONSIDERAÇÃO. ART. 171, § 3º, DO CP. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. MOTIVAÇÃO IDÔNEA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Decisão reconsiderada. Writ indeferido liminarmente.
