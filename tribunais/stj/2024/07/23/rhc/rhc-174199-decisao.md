@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+HABEAS CORPUS - Tráfico de droga e porte ilegal de arma de fogo com numeração suprimida - Pretensão voltada para declaração de nulidade da busca pessoal, bem como desentranhamento das provas ilícitas e absolvição do réu, nos termos do artigo 386, inciso VII, do Código de Processo Penal - Alegação de ausência de fundada suspeita - Inadmissibilidade - Hipótese em que esta Corte de Justiça, ao julgar a apelação do paciente e dar parcial provimento ao recurso para reduzir as penas e, no mais, manter a sentença condenatória, passou a figurar como autoridade coatora - Situação de constrangimento ilegal atribuível, em tese, a Câmara do Tribunal de Justiça do Estado de São Paulo - Competência do Superior Tribunal de Justiça (artigo 105, I, "c", CF). Writ não conhecido.
+Imputa-se ao recorrente a prática do crime de tráfico de drogas e porte irregular de arma.
+A defesa alega, em síntese, a ocorrência de nulidade no meio de prova.
+Ao final, requer o provimento do recurso para obter a declaração de nulidade da condenação.
+O Ministério Público Federal promoveu a denegação da ordem.
+É o relatório.
+Decido.
+Verifica-se que a questão ora apresentada a esta Corte, relativa à nulidade da busca pessoal, não foi debatida na instância de origem, a evidenciar que seu conhecimento representa indevida supressão de instância.
+Ademais, ainda que assim não fosse, a jurisprudência deste Superior Tribunal de Justiça vem reconhecendo a validade da diligência em situações similares, "verbis": "(..) 2. No caso em tela, contudo, além de o agravante ter empreendido fuga, em dois momentos, a busca pessoal ainda decorreu de "investigação preliminar realizada pela Polícia Civil, que indicou o réu como suspeito de praticar supostos crimes de furto, tendo a Polícia ido intimá-lo para prestar esclarecimentos a respeito  .. " (e-STJ fl. 380). 3. "Tais circunstâncias fáticas tornam legítima a busca pessoal, tendo em vista que estão presentes os requisitos da sindicabilidade e da referibilidade, em especial pela postura de evasão e pela posse do objeto visualizado pelos policiais. Nesse sentido, inclusive, cito os seguintes precedentes da Sexta Turma, nos quais se entendeu, em situação análoga, que estaria configurada a justa causa para a busca pessoal: HC 782742/SC, relatora p/ o acórdão Min. Laurita Vaz, julgado em 12/09/2023; e HC 815.998/RS, relator p/ o acórdão Min. Rogério Schietti Cruz, julgado em 12/09/2023" (HC n. 834.943/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023.) (..)" (AgRg no HC 829265 / AL, RELATOR Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DATA DO JULGAMENTO 11/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 15/12/2023)
+A verificação da divergência do quadro fático aduzido como pressuposto ao firmamento da tese da origem demanda inviável dilação probatória em sede de "habeas corpus".
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
