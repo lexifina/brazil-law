@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por COMERCIAL DE ALIMENTOS UBAIAS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. CERTIDÃO DADÍVIDA ATIVA. ART. 2º, § 5º, LEI 6.830/80. REQUISITOS LEGAIS PREENCHIDOS. PRESUNÇÃO DE LIQUIDEZ E CERTEZA NÃO ILIDIDA. EXCESSO DE EXECUÇÃO NÃO COMPROVADO. APELAÇÃO IMPROVIDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 5º, LV, da CF e art. 369 do CPC, no que concerne à existência de cerceamento do direito de defesa da recorrente, pois o pedido de produção de prova pericial foi indeferido, sendo que a prova é necessária para demonstrar o excesso de execução, trazendo a seguinte argumentação:
+Desta feita, os documentos juntados nos autos não foram analisados por este M.M Juízo, haja vista que comprovam que a atividade empresarial do recorrente é comércio varejista (supermercado), que nunca foi notificado acerca do auto de infração nº 106522013, bem como, existe excesso de execução.
+Neste sentido, o recorrente se encontra prejudicado com a ausência de análise de toda documentação probatória que se encontra acostada nos autos.
+ ..
+Isso porque, o recorrente, incansavelmente, pediu a produção de prova pericial, para que fosse elaborado pelo perito contábil cálculo correto e imparcial da CDA, de maneira a esclarecer o cerne da questão, que se encontra amparado pela comprovação do excesso à execução.
+Isto é, também houve descumprimento ao previsto no art. 369, do CPC, uma vez que o recorrente fora impedido de provar o que estava alegando:  ..
+ ..
+Ou seja, diante dos artigos e posicionamentos citados acima, observa-se que, houve o julgamento improcedente da presente causa por falta de comprovação do excesso da execução, contudo, não houve o deferimento do pedido formulado pelo recorrente de produção de prova pericial contábil (fls. 225-227).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
