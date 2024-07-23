@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por P S DE F F e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PLANO DE SAÚDE - COMINATÓRIA - CUSTEIO DE TERAPIAS INULTIDISCIPLINARES PARA AUTISMO - OPERADORA DE PLANO DE SAÚDE RÉ QUE, MESMO NA VIA ADMINISTRATIVA, JÁ INDICARA ESTABELECIMENTO CREDENCIADO APTO AO ATENDIMENTO - INEXISTÊNCIA DE ÓBICE CONCRETO A ATENDIMENTO NO LOCAL CREDENCIADO - AUTOR QUE, MESMO COM A EXISTÊNCIA DE ESTABELECIMENTO CREDENCIADO, PREFERIU ATENDIMENTO FORA DA REDE CREDENCIADA - CIRCUNSTÂNCIA QUE IMPÕE AO AUTOR PAGAR PELO ATENDIMENTO E REQUERER REEMBOLSO NOS LIMITES CONTRATUAIS - ÔNUS SUCUMBENCIAIS REARRANJADOS - APELO PROVIDO EM PARTE
+Quanto à controvérsia, a parte recorrente alega violação do art. 86 do CPC, no que concerne à errônea distribuição do ônus da sucumbência, eis que, ante a sucumbência recíproca, devem ser redistribuídos proporcionalmente entre as partes, trazendo a seguinte argumentação:
+Saliente-se que, Excelências, ante ao provimento parcial do recurso de Apelação, expressamente: "apenas para delimitar a tutela concedida na sentença", restou consolidado o direito do Recorrente ao tratamento prescrito por seus médicos, nas seguintes situações:
+ ..
+Partindo-se desse diapasão, é certo e inquestionável que o Recorrente teve sua pretensão reconhecida pelo r. aresto recorrido, na medida em que o recurso de Apelação interposto pela Recorrida não foi integralmente provido pelo Egrégio Tribunal de Justiça ad quem, mas apenas de forma parcial, para delimitar a tutela da r. sentença apelada (que julgou integralmente procedente a ação nos termos da petição inicial), sem, no entanto, reformá-la in totum, conforme é possível ser depreendido do trecho in verbis:
+ ..
+In casu, conforme é possível ser depreendido, o pedido do Recorrente, acolhido integralmente pela r. sentença apelada, foi mantido pelo v. acórdão recorrido, sob ressalvas, configurando manifesta sucumbência recíproca, de acordo com o disposto no artigo 86, do Código de Processo Civil, sendo de rigor a distribuição, proporcional, das custas, despesas e honorários advocatícios entre as partes.
+ ..
+Ocorre que, in casu, o v. acórdão recorrido modificou o ônus da sucumbência, atribuindo-o, por inteiro, ao Recorrente (fls. 602-604).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Com a reforma introduzida por este acórdão, e tendo em vista que não houve, propriamente resistência ao pedido inicial, mas apenas balizamento quanto aos locais de atendimento, que já tinham, inclusive, sido indicados ainda antes do ajuizamento da inicial, imputam-se os ônus sucumbenciais ao apelado (fl. 588).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
