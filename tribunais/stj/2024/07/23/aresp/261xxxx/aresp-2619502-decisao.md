@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pela UNIÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. ART. 10 E 11 DA LEI 8.429/92. LEI 14.230/21. ALTERAÇÕES. APLICAÇÃO IMEDIATA. INCISOS I E II DO ART. 11 DA LIA REVOGADOS. VERBAS FEDERAIS. DOLO. NÃO CONFIGURADO. DANO AO ERÁRIO. NÃO COMPROVADO. ILEGALIDADES ADMINISTRATIVAS. INAPTIDÃO FUNCIONAL. ATOS ÍMPROBOS NÃO CONFIGURADOS. REFORMA PARCIAL DA SENTENÇA .
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 10 e 933 do CPC, no que concerne ao reconhecimento de nulidade do acórdão recorrido por inobservância dos princípios da não surpresa e do contraditório, tendo em vista a aplicação de lei superveniente sem prévia manifestação das partes, trazendo a seguinte argumentação:
+É fato que até a época da interposição dos competentes recursos de apelação e do parecer ministerial perante a 2ª instância ainda não estava em vigor a Lei nº 14.230/2021.
+Daí, portanto, não ter como fundamentar a pretensão inicial, a prestação jurisdicional e as razões recursais às disposições do alusivo diploma legal.
+Acontece que ao proferir o julgamento em relação às respectivas apelações as alterações introduzidas na Lei nº 8.429/92 já se encontravam vigentes.
+O órgão fracionário analisou a questão sob a nova regra instituída pela Lei nº 14.230/2021 e, inclusive, sob o que fixou estabelecido pelo Supremo Tribunal Federal quando do julgamento do Tema 1199.
+Entretanto, essa manifestação judicial foi exarada à revelia tanto das partes, inobstante a decisão correspondente ter sido favorável aos Recorridos neste apelo nobre.
+Nos autos recursais de piso, obviamente, as partes não trouxeram a questão sobre as implicações da Lei nº 14.230/2021 e do Tema 1199 ao caso concreto, uma vez que, na ocasião, eram inexistentes no ordenamento jurídico.
+O órgão fracionário, ciente de que seu pronunciamento se daria com base em normativo superveniente e que alterou a regra jurídica que norteou a pretensão inicial no juízo singular, deixou de considerar, na visão da União, o princípio da não surpresa quando exarou o vergastado acórdão.
+O prejuízo à União é patente, pois, não lhe conferiu o direito de se pronunciar de forma que pudesse tentar influenciar no julgamento das apelações (fl. 1.514).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
