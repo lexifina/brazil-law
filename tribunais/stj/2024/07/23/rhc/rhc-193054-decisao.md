@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por POMPEU JORGE LISBOA REIS contra acórdão prolatado pelo Tribunal Regional Federal da 1ª Região.
+Consta dos autos que foi decretada a prisão preventiva do recorrente, no âmbito do procedimento criminal n. 1002980-48.2023.4.01.3906 (associado ao Inquérito Policial n. 1002621-98.2023.4.01.3906), diante da suposta prática dos crimes previstos nos artigos 50-A e 46, parágrafo único, ambos da Lei n. 9.605/1998.
+Impetrado writ perante o Tribunal de origem, a ordem foi denegada, nos seguintes termos (e-STJ, fl. 485):
+"HABEAS CORPUS. PREVENTIVA. ORDEM PÚBLICA. REITERAÇÃO DE CONDUTAS EM TESE CRIMINOSAS. DESCUMPRIMENTO DE MEDIDA CAUTELAR ANTERIOR. NECESSIDADE DE RESGUARDAR A INCOLUMIDADE DA ORDEM PÚBLICA E A HIGIDEZ DA INSTRUÇÃO PROCESSUAL. HABEAS CORPUS DENEGADO".
+Argumenta o recorrente (e-STJ, fls. 511/525), em resumo, que a manutenção da prisão preventiva enseja constrangimento ilegal diante das seguintes razões: a) excesso de prazo para formação da culpa; b) desnecessidade da custódia cautelar para garantia da ordem pública e da instrução processual.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 572/579).
+Informações atualizadas a respeito do procedimento no qual decretada a prisão preventiva, bem como do respectivo inquérito policial, foram solicitadas ao juízo singular (e-STJ, fl. 582), tendo sido prestadas logo em seguida (e-STJ, fls. 584/596).
+É o relatório.
+Decido.
+Diante das informações prestadas pelo juízo singular, constata-se que o pedido formulado no presente recurso encontra-se prejudicado.
+Isto porque a pretensão liberatória, com fundamento em excesso de prazo para formação da culpa a respeito dos fatos investigados no âmbito do Inquérito Policial n. 1002621-98.2023.4.01.3906, foi atendida no âmbito de novo habeas corpus impetrado perante a Corte Regional, que tramitou sob o n. 1000195-60.2024.4.01.0000.
+É o que noticia o juízo singular (e-STJ, fls. 584/596):
+" ..  Recebida as informações sobre o processo 1000195-60.2024.4.01.0000 (Habeas Corpus) com a decisão de ID 392032154 (origem), no qual foi concedida a medida cautelar para aplicar fiança de 5 salários-mínimos e monitoramento eletrônico (ID 2025621651- Processo nº 1002980-48.2023.4.013906).
+Após a intimação da defesa para comprovar o pagamento da fiança e apresentar comprovante de endereço atualizado, foi expedido Alvará de Soltura em 08/02/2024 (ID 2029534683).
+Recebido o ofício nº 185/2024- Unidade de Custódia e Reinserção de SANTA IZABEL II/SEAP, no qual é informado que há impedimento na soltura em decorrência do processo de execução penal nº 2004192-33.2023.8.14.0401 que tramita na Vara de Execuções Penais/RMB, tendo em vista ser réu condenado nos autos do processo nº 1002283-95.2021.4.01.3906, tendo obtido provimento parcial de apelação criminal para redimensionamento de pena.
+Recebido Ofício nº TRF 1 - COJU 33/2024, referente ao HCCrim 1000195-60.2024.4.01.0000 Processo referência 1002980- 48.2023.4.01.3906 (ID 2057864659), com posterior envio de acórdão com Ordem Concedida em Habeas Corpus para substituir a prisão preventiva por medidas cautelares nos mesmos termos da decisão anterior de ID2025621651(ID 2062935147).
+O Ministério Público Federal tomou ciência e aguarda atualização pela autoridade policial (ID 2126436253) sobre a conclusão do IPL, em conformidade com o despacho de ID 2125660507.
+Referente ao IPL nº 1002621-98.2023.4.01.3906, o investigado encontra-se habilitado aos autos e o MPF requereu a realização de perícia para identificar o volume e espécie do produto florestal (madeira) apreendida pela SETEC/PA da Polícia Federal e aguarda resposta sobre a diligência.
+Considerando o andamento do IPL, não há oferecimento de denúncia e nem a expedição de Mandado de Prisão nos processos nº 1002980-48.2023.4.01.3906 e nº 1002621-98.2023.4.01.3906." (destaquei)
+Segundo consta do sítio eletrônico do Tribunal Regional Federal da 1ª Região, a ordem requerida foi concedida nos seguintes termos:
+"HABEAS CORPUS. EXCESSO DE PRAZO. ORDEM CONCEDIDA.
+1. Paciente investigado em inquérito policial (IPL 1002980-48.2023.4.01.3906 associado ao IPL principal 1002621-98.2023.4.01.3906) pela suposta prática dos crimes consistentes em " r eceber ou adquirir, para fins comerciais ou industriais, madeira, lenha, carvão e outros produtos de origem vegetal, sem exigir a exibição de licença do vendedor, outorgada pela autoridade competente, e sem munir-se da via que deverá acompanhar o produto até final beneficiamento" ou "vende r , exp or  à venda, te r  em depósito, transporta r  ou guarda r  madeira, lenha, carvão e outros produtos de origem vegetal, sem licença válida para todo o tempo da viagem ou do armazenamento, outorgada pela autoridade competente"; e em " d esmatar, explorar economicamente ou degradar floresta, plantada ou nativa, em terras de domínio público ou devolutas, sem autorização do órgão competente". Lei 9.605, de 12 de fevereiro de 1998, Art. 46 e Art. 50-A, respectivamente.
+2. Paciente preso preventivamente desde 9 de junho de 2023, e, portanto, há mais de oito meses. Denúncia ainda não oferecida. Consequente caracterização de excesso de prazo injustificado, considerando os crimes sob investigação e a existência de apenas um suspeito: o paciente.
+3. Concessão da ordem para substituir a prisão preventiva por medidas cautelares.
+HABEAS CORPUS CONCEDIDO."
+Percebe-se, pois, que a pretensão veiculada através do presente recurso, que diz respeito especificamente à custódia cautelar decretada nos autos de n. 1002980-48.2023.4.01.3906 (associado ao Inquérito Policial n. 1002621-98.2023.4.01.3906), já foi alcançada, tendo a Corte Regional determinado a substituição da prisão preventiva por cautelares alternativas.
+Cabe ressaltar, por fim, que a decisão que decretou a prisão preventiva do recorrente nos autos de n. 1002283-95.2021.4.01.3906, impedindo que fosse colocado em liberdade, não é objeto do recurso ora analisado, não cabendo, pois, qualquer análise por parte desta Corte Superior, a fim de evitar indevida supressão de instância.
+Ante o exposto, julgo prejudicado o recurso, na forma do art. 34, XI do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
