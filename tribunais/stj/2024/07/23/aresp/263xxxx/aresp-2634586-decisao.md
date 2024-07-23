@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por EMPRESA BRASILEIRA DE INFRAESTRUTURA AEROPORTUARIA - INFRAERO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO. PROCESSO CIVIL. AUSÊNCIA DE COMPROVAÇÃO DE PRESSUPOSTO DE ADMISSIBILIDADE. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS RECURSAIS. APELAÇÃO NÃO CONHECIDA.
+1. Trata-se de apelação interposta em face de sentença que julgou procedente, em parte, a pretensão autoral.
+2. Verifica-se que o presente recurso foi interposto sem o recolhimento integral das custas judiciais.
+3. Prevê o art. 1.007, §2º do CPC que a insuficiência no valor do preparo implicará na deserção do recurso.
+4. A ausência de algum dos pressupostos recursais enseja a inadmissibilidade do recurso, pois por ser uma via excepcional deve prevalecer a forma em detrimento da questão meritória. Portanto, para que o inconformismo mereça o reexame do órgão encarregado de julgá-lo, é preciso cumprir todos os requisitos exigidos por lei.
+5. A Apelante foi intimada para recolher as custas, no entanto, não apresentou o comprovante de recolhimento.
+6. Apelação não conhecida (fl. 856).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 272 do CPC, no que concerne à necessidade de se possibilitar à parte recorrente o recolhimento da diferença das custas judiciais, com fundamento na inexistência de intimação para complementação. Aduz a seguinte argumentação:
+Quando da interposição do recurso de apelação, a INFRAERO comprovou o pagamento de custas no valor de R$ 441,59 (quatrocentos e quarenta e um reais e cinquenta e nove centavos), sendo certo que, segundo certidão de evento 6, "as custas foram recolhidas no percentual de 50% na inicial (Evento 7 GRU2 e CUSTAS3 e Evento 23 GRU1 e COMP2 - somatório no valor de R$ 678,45) e 29,52% pelo recorrente (Evento 119 - no valor de R$ 441,59)", sendo certificado como devido a título de complementação das custas, com aplicação da correção monetária, o valor de R$ 304,86.
+Foi, então, determinada a intimação da INFRAERO para a complementação do valor devido, mas o ato foi confirmado pelo sistema do PJe, sem que tenha havido a intimação da Procuradoria da INFRAERO, como requerido a todos os Tribunais Federais e reiterado por meio do Ofício SEDE-OFI- 2023/02415.
+Assim, a INFRAERO não teve a oportunidade de complementar o preparo, não tendo seu recurso sido sequer analisado, por ser considerado deserto.
+A decisão, contudo, fere de morte o direito à ampla defesa da INFRAERO, que, por não haver sido intimada a complementar as custas, não teve seu direito de utilização de todos os meios de recurso validado e corre o risco de amargar uma injusta condenação com graves prejuízos, inclusive no que se refere à isonomia entre concessionários.
+Desta forma, por haver sido violado o artigo 272 do Código de Processo Civil, a intimação sem que tenha sido realizada para a Procuradoria da INFRAERO, representa grave violação aos princípios constitucionais do contraditório e da ampla defesa, previstos no artigo 5º, inciso LV, da Constituição da República.
+Assim, impositivo o reconhecimento de nulidade de todos os atos praticados após o Evento 7 do processo, que foi o Ato Ordinatório que determinou a complementação das custas pela ora recorrente, possibilitando-se, assim, que as custas sejam recolhidas e o recurso analisado, o que desde já se espera e requer (fls. 900- 901).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Compulsando os autos, verifico que a Apelante foi intimada para recolher integralmente as custas, conforme evento 8.
+Dessa forma, em se tratando de instrumento recursal que não atende aos requisitos legais estipulados à espécie, a apelação não deve ser conhecida, por não superar o crivo da admissibilidade.
+Ademais registro que o ônus de demonstrar o atendimento aos requisitos essenciais para o regular desenvolvimento do recurso é da parte recorrente (fl. 855, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
