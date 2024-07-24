@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Luassi Marcelino da Rocha contra a decisão da Presidência desta Corte que indeferiu liminarmente o habeas corpus (fls. 116/119).
+Alega a defesa que o de fato de a paciente estar em regime fechado não impede a concessão de prisão domiciliar, visto que possui três filhos, sendo dois menores de 12 anos de idade. Aduz que um deles, o Guilherme, está com apenas 7 meses de vida, portanto, é claro que notório que a mãe é imprescindível aos cuidados desse bebê (fls. 129/130).
+Requer, ao final, seja dado provimento ao presente agravo regimental, para o fim de reformara r. decisão monocrática proferida pelo douto Ministro Relator, e assim determinar o conhecimento do habeas corpus impetrado em favor da agravante, sendo concedida a ordem definitiva para que seja concedido a prisão domiciliar (fl. 141).
+Não foram apresentadas contrarrazões (fls. 168 e 169).
+O Ministério Público Federal ofereceu parecer às fls. 171/176.
+É o relatório.
+Conforme consta dos autos a paciente se encontra em execução definitiva de pena, no total de 9 anos de reclusão, em regime inicial fechado, em razão delitos tipificados no art. 33, § 4º, c/c o art. 40, caput, I, da Lei n. 11.343/2006, e art. 18 da Lei n. 10.826/2003 e é mãe de 2 filhos menores de 12 anos de idade.
+O Tribunal a quo manteve o indeferimento da prisão domiciliar afirmando que (fl. 103):
+ ..  agiu com inteiro acerto a d. Magistrada das Execuções Criminais, porquanto não há como acoroçoaro pleito de deferimento de prisão domiciliar, nos termos dos incisos III (condenada com filho menor) e IV (condenada gestante), do artigo 117da Lei nº 7.210/84, uma vez que Luassi não se enquadra no referido permissivo legal, que exige, expressamente, que sua beneficiária esteja cumprindo pena no regime aberto, o que não é o caso, pois a paciente cumpre pena no regime fechado.
+ ..
+Ocorre que a jurisprudência desta Corte entende que a prisão domiciliar, em hipóteses excepcionais, pode ser concedida a condenados em regime fechado e de forma definitiva, bem como a presunção da necessidade dos cuidados maternos em relação à referida criança. Com efeito, o regime jurídico da prisão domiciliar, especialmente no que pertine à proteção da integridade física e emocional dos filhos do agente, e as inovações trazidas pelas Leis n. 13.257/2016 e n. 13.769/2018 decorrem, indiscutivelmente, do resgate constitucional do princípio da fraternidade (Constituição Federal: preâmbulo e art. 3º) - (AgRg no HC n. 897.052/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe 16/4/2024).
+No presente caso, verifica-se que há uma excepcionalidade que permite a presunção da necessidade dos cuidados maternos, visto que o filho mais novo nasceu durante o período em que a paciente já estava presa e com ela permaneceu na penitenciária feminina até os 4 meses de idade, quando foi entregue ao familiares em razão de um surto de tuberculose no local (fl. 68).
+Com efeito, trata-se de uma criança de menos de um ano de idade que esteve aos cuidados da mãe durante quatro meses no cárcere, em um local que foi acometido por surto de tuberculose, sendo nítida a presunção da necessidade do cuidado materno.
+Ademais, a paciente não foi condenada por crimes cometidos com violência ou grave ameaça.
+Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO DEFINITIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. FILHO MENOR DE 12 ANOS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Muito embora não haja previsão, no Código de Processo Penal, de prisão domiciliar para as rés com condenação definitiva, em condições análogas ás daquelas na situação do art. 318 do CPP, vale dizer, em constrição cautelar, em recente julgado - RHC n. 145.931/MG -, a Terceira Seção deste Tribunal Superior entendeu pelo provimento do recurso, diante das especificidades do caso.
+2. No caso dos autos, muito embora a insurgente haja sido condenada à pena de 10 anos de reclusão, em regime fechado, não foi apontada como integrante de facção criminosa e exercia posição coadjuvante no grupo - confirme sentença juntada no HC n. 488.210/SC, a ora recorrente e a corré Sandra "recebiam a droga e preparavam os entorpecentes (fracionavam e embalavam), em porções pequenas, para serem distribuídas".
+3. Diferentemente do caso paradigma, não há indicação de que a recorrente atuasse em papel de liderança de organização criminosa e os delitos por ela praticados não foram cometidos com violência ou grave ameaça, nem contra seus filhos. A propósito, conforme explicitado e comprovado pela defesa, a criança mais nova da apenada conta apenas 1 ano de idade e ainda é amamentada, circunstância que faz presumir a indispensabilidade dos cuidados da genitora.
+4. A corroborar a presunção de necessidade da presença da ré, conforme pontuado pela defesa o menor não possui mais sua avó materna (falecida) e o pai da criança assinou declaração (juntada aos autos) de que não possui condições de a ela prestar assistência, de modo não haver outra pessoa mais indicada para a realização dos cuidados ao infante. Ainda, as informações mencionaram que a avó encontrava-se recolhida por condenação nos mesmos autos que a ora recorrente.
+5. Agravo regimental não provido.
+(AgRg no AgRg nos EDcl no RHC n. 171.358/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/10/2023, DJe 10/10/2023).
+Ante o exposto, reconsiderando a decisão monocrática, concedo a ordem para fixar o regime domiciliar à paciente, ora agravante.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME FECHADO. PRISÃO DOMICILIAR. ART. 117, III, DA LEP. MÃE DE MENOR DE 1 ANO DE IDADE. PRESUNÇÃO DA IMPRESCINDIBILIDADE DOS CUIDADOS. HIPÓTESE EXCEPCIONAL. PRECEDENTE.
+Decisão reconsiderada. Ordem concedida nos termos do dispositivo.
