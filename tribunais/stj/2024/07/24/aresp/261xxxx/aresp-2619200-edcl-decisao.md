@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GLADIS FOLADOR RECH à decisão de fls. 386/387, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A Recorrente interpôs Recurso Especial com fundamento no art. 105, III, da Constituição Federal, em face de acórdão exarado pela Segunda Câmara de Direito Público e Coletivo do TJ-MT, no prazo expressamente definido pelo sistema eletrônico do Tribunal estadual, qual seja, 14/09/2023, considerando a existência de feriado local.
+A tempestividade do recurso foi certificada pela Secretaria Judicial (id. 182533666):
+ ..
+Do mesmo modo, a tempestividade do Recurso Especial foi apreciada e reconhecida pela Vice-Presidência do TJ-MT, com base nas informações certificadas pela Secretaria e constantes do sistema eletrônico do Tribunal de Justiça local (id. 195655662).
+Uma vez que o sistema eletrônico registrou a existência de feriado local e definiu expressamente o dia final para a interposição de recurso considerando a existência de feriado local, a parte recorrente se viu desobrigada a comprovar a existência do mencionado feriado local.
+Por tal motivo, a Recorrente, induzida a erro, deixou de comprovar a existência de feriado local, dia 08 de setembro/2023, sexta-feira, no ato de interposição do recurso.
+O prazo recursal definido pelo sistema eletrônico do Tribunal de Justiça foi respeitado pela Recorrente, que apresentou o seu recurso no último dia do prazo consignado, 14/09/2023 (fls. 392/393).
+ ..
+É o caso dos autos. A Recorrente foi intimada da decisão que negou seguimento ao Recurso Especial através de informação contida no tópico "Expediente" do PJe do TJ-MT, que consignou expressamente que o término do prazo de 15 (quinze) dias para recorrer seria o dia 14/09/2023, independentemente de considerar não úteis os dias 07/09/2023 (feriado nacional) e 08/09/2023 (ponto facultativo), os quais foram excluídos como dias úteis à contagem do prazo.
+ ..
+O prazo recursal definido pelo sistema eletrônico do TJ-MT foi respeitado pela Recorrente, que agindo com base na confiança e boa-fé, independentemente da comprovação da existência de feriado local.
+Tal fato que há que ser apreciado pela nobre julgadora para o fim de reconhecer a tempestividade do recurso interposto no dia 14/09/2023, em atenção aos princípios da confiança e boa-fé objetiva, suprindo-se a omissão que macula a decisão embargada (fl. 394).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+É certo que feriado nacional de 7/9/2023 não precisa ser comprovado. Porém, o dia 8/9/2023 são supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Ademais, a certidão de fl. 348 não pode ser aceita para fins de comprovação de feriado local, uma vez que juntada em momento posterior à interposição do recurso especial.
+No mais, não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020). No entanto, a parte não trouxe nenhum documento apto a comprovar tal equívoco, pois, trouxe apenas um "print" na petição (fl. 394) , que sequer possui número de origem, não sendo possível vinculá-lo ao processo.
+Veja que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024; AgInt no AREsp n. 2.250.245/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/8/2023, DJe de 18/8/2023; AgInt no AREsp n. 2.050.156/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024; e, AgInt no AREsp 1686946/MA, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
