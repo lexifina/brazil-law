@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARTA HOLANDA DE LEMOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+RECURSO DE APELAÇÃO - INDENIZATÓRIA E COMPENSATÓRIA - DANOS MORAIS - MANUTENÇÃO DO VALOR.
+Quanto à controvérsia, a parte recorrente alega violação do art. 944, caput, do CC, no que concerne ao excessivo valor fixado a título de danos morais, eis que desproporcional às consequências do evento e às condições econômicas das partes envolvidas, trazendo a seguinte argumentação:
+Trata-se aqui de um acidente de trânsito envolvendo a apelante, que dirigia seu carro, do qual não era proprietária, e colidiu com o apelado, que trafegava em uma motocicleta.
+Doravante, não andou bem a sentença na valoração do quantum indenizatório, apresentando-se bastante excessivo para a hipótese lançada nos autos, vez que muito além das consequências do evento e das condições econômicas das partes envolvidas, sobretudo considerando que a apelante é desempregada e o autor açougueiro.
+ ..
+Ora, no caso em tela, a condenação da apelante a títulos de danos morais no valor de R$ 15.000,00 (quinze mil reais) é totalmente DESPROPORCIONAL para uma cidadã cuja hipossuficiência é presumida, dado que assistida pela Defensoria Pública (fls. 276-277).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Na hipótese, em razão do acidente de trânsito em questão, o autor sofreu fratura completa do ombro direito, cominutiva, com desvios dos fragmentos, em metáfise distal da clavícula, motivo pelo qual teve que ser submetido a procedimento cirúrgico e ficar dois meses estabilizado em tala gessada.
+Então, considerando o grau de culpa e a extensão dos danos causados pela conduta ilícita, bem como o caráter pedagógico da condenação, é coerente manter o valor da compensação em R$ 15.000,00 (quinze mil reais), suficientes para recompensar o desconforto sofrido, sem caracterizar o enriquecimento ilícito da vítima.
+O fato de a ré estar desempregada no momento é insuficiente, por si só, para justificar a redução da compensação, ainda mais levando em conta que o quantum fixado na sentença é inferior ao costumeiramente arbitrado por este Tribunal de Justiça em casos análogos (a título de exemplo: TJMS. Apelação Cível n. 0800579- 97.2017.8.12.0004, Amambai, 4ª Câmara Cível, Relator (a): Des. Júlio Roberto Siqueira Cardoso, j: 31/08/2023, p: 12/09/2023) (fls. 264-265).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
