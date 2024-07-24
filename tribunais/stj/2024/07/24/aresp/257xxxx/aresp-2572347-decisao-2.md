@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROBERTO MAGALHAES PINTO (e-STJ fls. 1.264-1.277) contra decisão da Vice-Presidência do Tribunal de Justiça do Estado do Mato Grosso que inadmitiu o recurso especial, ante a incidência da Súmula n. 7 do STJ (e-STJ fls. 1.233-1.240).
+A parte agravante alega, em síntese, que não seria caso de incidência da referida Súmula, pois "  ..  o Especial em tela não se prende ao simples reexame de matéria fático-probatória, de sorte que pudesse atrair o postulado inserto na Súmula n. 07 do STJ, AO CONTRÁRIO DO QUE ENTENDEU A DOUTA DESEMBARGADORA QUE LHE NEGOU SEGUIMENTO, porquanto a discussão pautada tem como cerne questão estritamente de direito, acima apontada, a qual, quando muito, estaria a reclamar unicamente a adequada valoração da prova produzida ou ler a íntegra do acórdão recorrido e da sentença.  ..  cabe ressaltar que concluir que as instâncias ordinárias não se valeram do melhor direito na condenação do recorrente (HC 172.128/SP, Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 03/06/2014) não implica reavaliar fatos e provas, mas apenas reconhecer que, no caso, não estão descritos os elementos do tipo descrito no art. 158, §1º do Código Penal." (e-STJ fls. 1.271-1.274)
+Requer que seja conhecido o referido agravo para conhecer do recurso especial e, no mérito, provê-lo.
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (e-STJ fls. 1.304-1.307).
+É o relatório.
+Decido.
+De pronto, verifica-se a existência dos requisitos extrínsecos de admissibilidade relativos à tempestividade e à regularidade formal do agravo interposto.
+Quanto aos requisitos intrínsecos, houve, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+No entanto, nos termos do art. 932, IV, do CPC, combinado com o art. 253, parágrafo único, II, a, do Regimento Interno desta Corte, incumbe ao Relator conhecer do agravo para não conhecer do recurso especial que for inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+No presente caso, ao analisar o recurso especial interposto em face do acórdão proferido pelo tribunal a quo, tem-se que não restou demonstrada a indicação objetiva e precisa do(s) dispositivo(s) de lei federal supostamente violado(s) pelo supracitado acórdão recorrido e, ainda, que teriam sido expostas as razões jurídicas apontando a(s) alegada(s) ofensa(s), incidindo, portanto, por analogia, a Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia")
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
