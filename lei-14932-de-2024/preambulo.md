@@ -1,0 +1,2 @@
+Acrescenta § 5º ao art. 29 da Lei nº 12.651, de 25 de maio de 2012 (Código Florestal), para autorizar a apresentação do Cadastro Ambiental Rural (CAR) para fins de apuração da área tributável de imóvel rural; e revoga o § 1º do art. 17-O da Lei nº 6.938, de 31 de agosto de 1981, para retirar o caráter obrigatório da utilização do Ato Declaratório Ambiental (ADA) para efeito de redução do valor a pagar do Imposto sobre a Propriedade Territorial Rural (ITR).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
