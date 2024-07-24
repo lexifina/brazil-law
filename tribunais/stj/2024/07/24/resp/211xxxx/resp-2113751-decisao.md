@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea"a", da Constituição Federal, contra o acórdão proferido pela 1ª Câmara Criminal do Tribunalde Justiça do Estado do Ceará, na Apelação nº 0136223-22.2017.8.06.0001.
+Consta dos autos que, em 21/05/2017, Edson Braga Fernandes matou Francisco Reginaldo Cunha da Silva e tentou matar Clisma Braga Lima com disparos de arma de fogo. O acusado era integrante da organização criminosa Gardiões do Estado e cometeu o crime a mando de outro membro da ORCRIM em razão de furto praticado peloirmão da vítima Francisco (fls. 80/84).
+Em 18/05/2022, Edson Braga Fernandes foi condenado, em primeira instância, pela prática dos crimes previstos no artigo 121, § 2º, I e IV, no artigo 121, IV eV, c/c o artigo 14, II, todos do CP, e no artigo 2º, §2º, da Lei nº 12.850/13 às penas de 24 anos, 11 meses e 25 dias de reclusão, em regime inicial fechado, e de pagamento de 13 dias-multa (fls. 659/663).
+A defesa interpôs apelação perante o TJCE, que deu provimento parare adequar as penas para 20 anos e 05 meses de reclusão, em regime fechado, e pagamento de13 dias-multa (fls. 719/727).
+Em recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, o Ministério Público sustenta violação ao artigo 59 do CP (fls.742/750).
+Recurso admitido na origem às fls. 759/761.
+Parecer do Ministério Público Federal pelo provimento do recurso especial.
+É o relatório.
+Decido.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que deu provimento ao recurso de apelação interposto na origem (art. 105, III, "a", da Constituição Federal).
+Saliente-se também que houve indicação expressa das alíneas com base na qual foi interposto, uma vez que sua ausência importaria o seu não conhecimento e a petição está devidamente assinada.
+Foram também preenchidas as condições da ação, consistentes na legitimidade recursal, possibilidade jurídica do pedido e interesse em recorrer. O recurso interposto rebateu o fundamento apresentado na decisão recorrida, motivo pelo qual deve ser conhecido.
+No mérito, o recurso merece ser provido.
+Na primeira fase da dosimetria, o Tribunal de origem afastou osantecedentes do acusado, nos seguintes termos (fls. 723/726 - grifos nossos):
+"1) PARA O CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO CONSUMADO (ART. 121, §2 º, IE IV, DO CÓDIGO PENAL):
+No que diz respeito às moduladoras insculpidas no art. 59, da LeiSubstantiva Penal, verifico que a culpabilidade é regular ao delito emanálise, nada tendo a valorar. Em relação aos antecedentes criminais,verifico que o processo utilizado pelo magistrado de piso para negativá-los, autos de nº 0489121-46.2011.8.06.0001, não pode ser utilizado comomaus antecedentes nem como reincidência, tendo em vista que o trânsito em julgado somente se deu aos 10/09/2021, e os fatos ocorreram aos 21/05/2017.(..)
+2) PARA O CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADOTENTADO (ART. 121, §2 º, IE IV, C/C ART. 14, II, AMBOS DOCÓDIGO PENAL):
+No que diz respeito às circunstâncias judiciais do art. 59, do CP, verificoque a culpabilidade é regular ao delito em análise, nada tendo a valorar. Em relação aos antecedentes criminais, verifico que o processo utilizado pelomagistrado de piso para negativá-los, autos de nº 0489121-46.2011.8.06.0001, não pode ser utilizado como maus antecedentes nemcomo reincidência, tendo em vista que o trânsito em julgado somente sedeu aos 10/09/2021, e os fatos ocorreram aos 21/05/2017.(..)
+3) PARA O CRIME DE ORGANIZAÇÃO CRIMINOSA ARMADA (ART.2º, § 2º, DA LEI Nº 12.850/2013):
+No que diz respeito às circunstâncias judiciais do art. 59, do CP, verifico que a culpabilidade é regular ao delito em análise, nada tendo a valorar. Emrelação aos antecedentes criminais, verifico que o processo utilizado pelo magistrado de piso para negativá-los, autos de nº 0489121-46.2011.8.06.0001, não pode ser utilizado como maus antecedentes nem como reincidência, tendo em vista que o trânsito em julgado somente se deu aos 10/09/2021, e os fatos ocorreram aos 21/05/2017."
+O crime referente à ação penal originária foi praticado em 21/05/2017 e a sentença condenatória proferida em 18/05/2022. A condenação utilizada pelo Juízo de primeira instância para valorar negativamente os antecedentes transitou em julgado10/09/2021 e é relacionada a crime praticado no ano de 2011.
+Segundo precedentes desse STJ, a condenação definitiva registrada por crime anterior e com o trânsito em julgado posterior à data do fato apurado na ação penal, como no caso, a despeito de não caracterizar a agravante da reincidência, pode ser valorada como maus antecedentes. Nesse sentido:
+"III - Afastamento da agravante da reincidência em decisão monocráticadessa Corte Superior. A condenação definitiva registrada por crimeanterior e com o trânsito em julgado posterior à data do fato apuradona ação penal, a despeito de não caracterizar a agravante dareincidência, pode ser valorada como maus antecedentes. Precedentes.(AgRg no HC n. 817.651/PE, relator Ministro Messod Azulay Neto, QuintaTurma, julgado em 13/11/2023, DJe de 30/11/2023) "
+"1. É pacífica a jurisprudência nesta Corte de Justiça que a condenação por crime anterior à prática delitiva, com trânsito em julgado posterior à data do crime sob apuração, malgrado não configure reincidência, enseja a valoração negativa dos antecedentes do agente. (AgRg no HC n. 913.019/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1/7/2024.)"
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para restabelecer a circustância judicial de maus antecedentes. Determino, ainda, que o Tribunal a quo elabore a nova dosimetra da pena.
+Publique-se. Intimem-se.
+EMENTA
