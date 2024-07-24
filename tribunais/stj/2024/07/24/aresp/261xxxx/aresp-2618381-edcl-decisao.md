@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA APARECIDA DE CASTRO BARBO à decisão de fls. 473/474, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme delimitado, ao interpor o Recurso Especial, a Embargante juntou comprovante de pagamento do preparo recursal, todavia no comprovante não constava o código de barras.
+ ..
+Em seguida, após ser intimada para regularizar o preparo, a Embargante juntou a guia, bem como, o comprovante de pagamento com o código de barras e ainda, recolheu mais R$247,14 (duzentos e quarenta e sete reais e quatorze centavos), comprovando o recolhimento em dobro. Vejamos:
+ ..
+Deste modo, somando o valor recolhido em 18/01/2024 (R$236,23) - na interposição do recurso-, e em 14/02/2024 (R$247,14), a Embargante recolheu R$483,37 para a interposição do Recurso Especial - pagamento em dobro.
+Outrossim, neste momento foi possível observar novamente, que a guia do preparo recursal foi paga (conforme já havia sido comprovado na interposição do recurso) (fl. 481).
+ ..
+Ora, a Embargante, fez o recolhimento do valor, comprovou e ainda assim foi intimada para o pagamento em dobro e assim o fez, recolheu outro valor para a interposição do recurso, somando duas guias destinadas para a inteporsição.
+ ..
+No presente caso, temos que a Embargante que recolheu e comprovou o recolhimento está sendo penalizada, onde o seu recurso não será apreciado, sendo que o Recorrente, que preenche a guia errada tem o direito, na hipótese de dúvida quanto ao recolhimento, de sanar ao vício e não ter aplicação da pena de deserção.
+Estamos diante de ausência de razoabilidade, onde a Recorrente, que recolheu o preparo, comprovou seu recolhimento, não terá seu Recurso sequer apreciado, por uma penalidade mais gravosa à quem deixa de recolher ou recolhe de maneira errada (fl. 484).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já consignado na decisão ora embargada, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Veja-se que o documento de fl. 389 não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não há como verificar se diz respeito à guia de recolhimento relativa a este processo, pois não há menção ao respectivo código de barras.
+No caso, mesmo após a intimação da parte para recolher em dobro, não houve a devida regularização, uma vez que, apesar de ter efetuado a complementação das custas (fls. 403/406), não trouxe o comprovante referente à guia anteriormente apresentada. Veja-se que há divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento (fls. 401/402).
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+No mais, registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória. Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+Dessa forma, como a parte não comprovou oportunamente o recolhimento, o recurso especial não foi devidamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
