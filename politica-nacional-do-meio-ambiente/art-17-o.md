@@ -1,5 +1,4 @@
 Art. 17-O. Os proprietários rurais que se beneficiarem com redução do valor do Imposto sobre a Propriedade Territorial Rural - ITR, com base em Ato Declaratório Ambiental - ADA, deverão recolher ao Ibama a importância prevista no item 3.11 do Anexo VII da Lei nº 9.960, de 29 de janeiro de 2000, a título de Taxa de Vistoria.
-§ 1º A utilização do ADA para efeito de redução do valor a pagar do ITR é obrigatória.
 § 1º-A. A Taxa de Vistoria a que se refere o caput deste artigo não poderá exceder a dez por cento do valor da redução do imposto proporcionada pelo ADA.
 § 2º O pagamento de que trata o caput deste artigo poderá ser efetivado em cota única ou em parcelas, nos mesmos moldes escolhidos pelo contribuinte para o pagamento do ITR, em documento próprio de arrecadação do Ibama.
 § 3º Para efeito de pagamento parcelado, nenhuma parcela poderá ser inferior a R$ 50,00 (cinqüenta reais).
