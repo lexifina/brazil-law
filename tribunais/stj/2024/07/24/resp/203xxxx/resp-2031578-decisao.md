@@ -1,0 +1,18 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 826 (e-STJ):
+Trata-se de interposto com base no artigo 105, III, "a", da CF/1988 ao Acórdão Recurso Especial prolatado pela 4ª Turma do TRF-5ª Região, que negou Provimento às Apelações do Ministério Público Federal e da Defesa e manteve a Sentença que "entendeu por julgar parcialmente procedente a peça acusatória e condenar JOSICLEIDE LIMA DA SILVA à pena privativa de liberdade de 1 ano de detenção, mais 10 dias-multa, ao valor de 1/30 do salário-mínimo vigente à época do fato, pela prática (importação dedo delito capitulado no art. 273, parág. 1o., c/c parág. 1o.-B e parág. 2o., do CPB, produto medicinal sem registro, em sua forma culposa).
+A pena privativa de liberdade foi substituída por uma pena de multa no valor de R$ 5.000,00.
+A Recorrente alega, em resumo:
+NEGATIVA DE VIGÊNCIA AO ART. 386, INCISO III, DO CÓDIGO PROCESSO PENAL. PRINCÍPIO DA OFENSIVIDADE DA CONDUTA. A CONDUTA PRATICADA PELA ACUSADA NÃO TEM O CONDÃO DE CAUSAR LESÃO BEMJURÍDICO TUTELADO PELA NORMA (..) ao deixar de absolver a acusada, por atipicidade da conduta(em homenagem ao princípio da ofensividade), o acórdão incorreu em negativa de vigência ao art. 386,inciso III, do Código de Processo Penal, na medida em que a conduta praticada pela acusada não possui idoneidade pela norma para produzir potencial dano ao bem jurídico tutelado pela norma."
+O Recorrido apresentou Contrarrazões pela inadmissibilidade ou Desprovimento do Recurso.
+O Ministério Público apresentou parecer, requerendo o desprovimento do recurso especial.
+É o relatório.
+Decido.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que deu provimento ao recurso de apelação interposto na origem (art. 105, III, "a", da Constituição Federal).
+Saliente-se também que houve indicação expressa das alíneas com base na qual foi interposto, uma vez que sua ausência importaria o seu não conhecimento e a petição está devidamente assinada.
+Contudo, o recurso não merece ser conhecido.
+Sabe-se que "A jurisprudência deste Superior Tribunal firmou-se no sentido de que, a despeito do valor ínfimo (ou inexistente) da res, inadequada a incidência do princípio da insignificância se o agente introduz no País medicamentos não autorizados pelas autoridades competentes, em face do alto grau de reprovabilidade da importação irregular de medicamentos." (AgRg nos EDcl no REsp 1497442 / PR, RELATOR Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DATA DO JULGAMENTO 15/12/2015, DATA DA PUBLICAÇÃO/FONTE DJe 04/02/2016)
+Portanto, andou em consonância com a jurisprudência desta corte o Tribunal de origem quando afirmou que "Deve ser afastada a alegação da DPU de ausência de ofensividade no que diz respeito à conduta da acusada. Na hipótese, o dano à saúde pública, objeto jurídico tutelado pela norma penal, é presumido. Por ser o delito de perigo comum abstrato, aquele que coloca um número indeterminado de pessoas em perigo, não pode ser avaliado no tocante ao prejuízo causado diretamente a qualquer suposta vítima, mas pelo dano socialmente reprimível. Veja-se que a acusada encaminhou 100 cápsulas de CYTOTEC, despachando o medicamento da Itália para o Brasil, conduta que trouxe mácula ao bem juridicamente acautelado pelo tipo, independentemente de se destinar a medicação ao consumo próprio da ré."
+Incide, portanto, o óbice previsto na Súmula nº 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, não conheço do recurso especial.
+EMENTA
