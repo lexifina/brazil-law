@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ODAIR ALVES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (APC n. 1517129- 83.2020.8.26.0602)
+Segundo consta dos autos, o paciente foi condenado em primeiro grau à pena de 1 ano e 3 meses de reclusão, por infração ao art. 171, caput, do Código Penal. A defesa recorreu da sentença e o Tribunal revisor deu parcial provimento do apelo defensivo reduzindo a pena para 1 ano de reclusão, a ser cumprida inicialmente no regime semiaberto, mais 10 dias-multa.
+Nas razões do presente habeas corpus, a impetrante sustenta ser cabível a substituição da sanção de reclusão por outras menos gravosas, previstas no art. 44 do Código Penal, visto a inexistência de fundamentação idônea para lastrear o óbice, não se prestando a reincidência genérica para tanto (condenação anterior pelo crime de desobediência nos idos de 2012).
+Diante disso, pede, liminarmente, a suspensão dos efeitos do acórdão até o julgamento final desta impetração. No mérito, pugna pela substituição da pena privativa de liberdade por restritiva de direito.
+A liminar foi indeferida (e-STJ fls. 74/75).
+As informações foram prestadas (e- STJ fls. 81/83) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo não conhecimento do habeas corpus (e-STJ fl. 133/135).
+É o relatório, Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Busca-se, em síntese, a substituição da pena privativa de liberdade por restritivas de direito.
+No que interessa, colhe-se do acórdão (e-STJ fl. 30/31):
+As penas, no entanto, merecem reparo.
+Destarte, houve aumento (1/3) à pena-base, porque "o réu causou prejuízos em grau que excede ao ínsito à natureza do crime. Para além disso, demonstrou forte premeditação e dolo em grande intensidade, pois se utilizou de interpostas pessoas antes, durante e depois da prática delitiva no intuito de distanciar e terceirizar sua responsabilidade pessoal". No entanto, tem-se que o ardil faz parte do próprio tipo penal, nada chamando a atenção.
+Desta forma, o aumento citado deve ser afastado. A reincidência (fls. 218/220) foi compensada com a atenuante da confissão.
+Assim, as penas permanecem no mínimo de 1 ano de reclusão e 10 dias-multa.
+A substituição da pena privativa de liberdade por restritivas de direito não tem lugar, diante da reincidência.
+Como visto, embora o paciente tenha sido condenado à pena de 1 ano de reclusão, é reincidente, sendo vedado o benefício postulado em razão da vedação legal prevista no inciso II do art. 44 do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. ESTELIONATO. REGIME PRISIONAL INICIAL FECHADO. PACIENTE REINCIDENTE. RECONHECIMENTO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. PENA MENOR DE QUATRO ANOS DE RECLUSÃO. IRRELEVÂNCIA. PRECEDENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA DE DIREITOS. INCABÍVEL. ART. 44, INCISOS II E III, DO CÓDIGO PENAL. DETRAÇÃO. IRRELEVÂNCIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O writ é incognoscível, pois é substitutivo da via de impugnação própria a ser interposta na causa principal, qual seja, o recurso especial (AgRg no HC n. 815.427/AM, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/6/2023, DJe de 16/06/2023; AgRg no HC 753.464/SC, Rel. Ministra Laurita Vaz, julgado em 20/09/2022, DJe 29/09/2022, e AgRg no HC 733.563/RS, Rel. Ministro Rogerio Schietti Cruz, julgado em 10/05/2022, DJe 16/05/2022).
+2. Não há manifesta ilegalidade a reclamar a concessão da ordem de ofício. Com efeito, a fixação do regime fechado para o início do cumprimento da pena foi devidamente fundamentada, visto que, mesmo tendo sido imposta sanção penal inferior a 4 (quatro) anos de reclusão, o agravante é reincidente e foi reconhecida circunstância judicial desfavorável (art. 33, §§ 2.º e 3.º, c/c o art. 59, ambos do Código Penal).
+3. Não é possível a substituição da pena privativa de liberdade por restritiva de direitos, pois a existência de maus antecedentes por condenação em delito da mesma espécie (circunstância judicial desfavorável) e a reincidência específica impedem o benefício, nos termos do art. 44, incisos II e III, do Código Penal.
+4. Eventual detração penal não influenciaria na escolha do modo de encarceramento, pois a fixação do regime inicial fechado não decorreu do montante de pena estipulado, mas, sim, da reincidência e da circunstância judicial desfavorável, o que afasta a pretensão defensiva.
+5. Agravo regimental não provido.
+(AgRg no HC n. 894.475/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/6/2024, DJe de 21/6/2024.)
+AGRAVO REGIMENTAL EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ESTELIONATO. PENA DEFINITIVA INFERIOR A 4 ANOS. REGIME INICIAL SEMIABERTO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. MOTIVAÇÃO IDÔNEA. RÉU REINCIDENTE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+2. No caso dos autos, a reincidência do paciente foi utilizada para fixar o regime inicial semiaberto, estando devidamente justificado o agravamento do regime.
+3. Segundo o art. 44 do CP, as penas restritivas de direitos substituem as privativas de liberdade, quando: (i) aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (ii) o réu não for reincidente em crime doloso; (iii) a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+4. Na hipótese, não obstante não se trate de reincidência no mesmo crime, o paciente também ostenta maus antecedentes, corroborando o fato de que a medida não se mostra recomendável, nos termos do art. 44, II e § 3º, do CP.
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 695.144/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/11/2021, DJe de 12/11/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. USO DE DOCUMENTO FALSO E ESTELIONATO. APLICABILIDADE DO PRINCÍPIO DA CONSUNÇÃO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para rever o entendimento firmado pelas instâncias ordinárias e aplicar o princípio da consunção seria necessário o reexame do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7/STJ.
+2. O entendimento das instâncias ordinárias encontra-se em consonância com a jurisprudência desta Corte que é firme no sentido de que a valoração negativa de circunstâncias judiciais e a condição de reincidente, obsta a substituição da pena, nos termos do art. 44, II e III do Código Penal - CP.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.846.283/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/4/2020, DJe de 4/5/2020.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
