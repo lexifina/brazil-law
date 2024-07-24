@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com fulcro no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por JONATAS BERLEZ, contra acórdão proferido pela 3ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Verifica-se que a parte recorrente foi intimada do acórdão recorrido em 10/05/2024, sendo o recurso em mandado de segurança interposto somente em 02/06/2024, quando o término do prazo recursal ocorreu em 31/05/2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 33 da Lei n. 8.038/90 e dos arts. 1.003, § 5º, e 219, caput, ambos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. (AgInt no AREsp 1.740.116/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/12/2020.)
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o dia de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+No caso, o documento retirado da rede mundial de computadores, como feito pela parte (fl. 226), não tem o condão de afastar a intempestividade do recurso.
+A propósito: AgInt no AREsp 1587207/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/5/2020; AgInt no REsp 1687836/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 5/9/2019; AgInt no AREsp 1521541/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
