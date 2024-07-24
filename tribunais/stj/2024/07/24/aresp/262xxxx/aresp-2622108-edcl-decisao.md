@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AMAZON SERVICOS DE VAREJO DO BRASIL LTDA. à decisão de fls. 712/713, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A decisão embargada não conheceu do Agravo em Recurso Especial interposto pela AMAZON (fls. e-STJ 678/690) por entender que ele seria intempestivo.
+2. No entanto, o recurso foi interposto pela AMAZON em 07/03/2024 considerando a informação de publicação da decisão agravada (fls. e-STJ 672/675) que consta no próprio site do Tribunal de Justiça do Estado de Minas Gerais.
+Como se pode ver do documento anexo, abaixo reproduzido, consta no site do TJMG que a decisão agravada foi disponibilizada para consulta pelas partes apenas em 15/02/2024:
+ ..
+4. Não à toa, após a interposição do recurso foi juntada uma certidão no processo, originária do próprio TJMG, que atesta que não houve decurso de prazo (fls. e-STJ 695):
+ ..
+5. Dito isso, não se pode falar em intempestividade do recurso, já que, considerando a ciência da decisão em 15/02/2024 (quinta-feira), o prazo iniciou-se em 16/02/2024 (sexta-feira) e findou-se em 07/03/2024 (quinta-feira), que foi a data de protocolo do Agravo em Recurso Especial (fls. e-STJ 691).
+6. Nesse sentido, AMAZON não pode ser prejudicada com uma declaração de intempestividade de, quando recurso foi interposto confiando na informação que consta no próprio site do TJMG, ainda que esta esteja equivocada. Para fins processuais, esta é uma justa causa que justifica a declaração de tempestividade e o seguimento do recurso, conforme art. 223, §1º do CPC (fls. 716/718).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em sentido contrário ao alegado pela parte, nos autos há apenas a certidão de fl. 677, atestando a leitura da intimação eletrônica ocorrida em 9/2/2024, considerando-se efetivamente intimada no próximo dia útil, ou seja, em 12/2/2024 (art. 231, V, do CPC). Além disso, não há nenhum documento do tribunal de origem certificando o exposto pela parte.
+Cabia a esta fazer prova de sua argumentação, por meio de certidão expedida pelo Tribunal, em que constaria a publicação supostamente equivocada no ato de interposição do recurso. Se assim não fez, não há como acolher a sua alegação. Nesse sentido: AgInt no AREsp 1349668/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 27/2/2019; e AgInt no AREsp 1329622/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018.
+Ademais, registre-se que apesar do entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020), não há como aplicá-lo ao caso dos autos, uma vez que a parte não comprovou essa contagem equivocada do sistema do tribunal a quo.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
