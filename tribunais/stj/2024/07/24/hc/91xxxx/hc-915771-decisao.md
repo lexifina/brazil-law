@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOSE APARECIDO AFONSO, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso preventivamente e, posteriormente, denunciado pela prática dos delitos previstos nos arts. 33, caput, da Lei de Drogas e 12 da Lei n.º 10.826/03.
+Impetrado habeas corpus na origem, a ordem foi denegada.
+Neste writ, alega a defesa, em suma, a ausência dos requisitos previstos para a prisão cautelar .
+Assevera que "o posicionamento para decretação de prisão preventiva na audiência de custódia remete-se única e exclusivamente em garantia da ordem pública e na gravidade do crime em abstrato, levando em consideração a quantidade de drogas apreendidas." (e-STJ, fl. 8)
+Aponta a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva, ainda que com a aplicação de medidas cautelares alternativas.
+Liminar indeferida (e-STJ, fl. 41).
+Foram prestadas informações (e-STJ, fls. 47-62).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus; caso conhecido, pela denegação da ordem (e-STJ, fls. 66-68).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, observa-se no site do Tribunal de origem que, em 6/6/2024, foi prolatada sentença que condenou o paciente como incurso no art. 33, caput, da Lei n.º 11.343/2006 e no art. 12 da Lei n.º 10.826/03, às penas de 7 anos e 6 meses dereclusão, em regime inicial fechado, 1 ano e 3 meses de detenção, em regime inicial semiaberto, além do pagamento de 803 dias-multa, sendo indeferido o apelo em liberdade, sob o entendimento de que permaneciam os motivos da prisão preventiva.
+No ponto, vale destacar que a jurisprudência da Quinta Turma desta Corte já se manifestou que a sentença penal condenatória superveniente, que não permite ao condenado o recurso em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso dos autos.
+Por oportuno, vejamos o que consta no referido decreto constritivo:
+" ..
+Tratando-se de crime permanente, a consequente apreensão de petrechos, significativa quantia de entorpecentes, aparelho telefônico e munição são mais do que suficientes para dar embasamento à comprovação da materialidade delitiva.
+ ..
+A prisão preventiva, espécie de prisão cautelar, é cabível se estiverem presentes os seus requisitos, consoante preveem os artigos 312 e 313, ambos do Código de Processo Penal, que são de três: pressupostos, fundamentos e condições de admissibilidade. Os pressupostos (fumus comissi deliciti ou fumaça do bom direito) subdividem-se em dois: indícios suficientes de autoria e prova da existência do crime. Os seus fundamentos (periculum libertatis ou perigo da demora) são três: garantir a ordem pública ou a ordem econômica, conveniência para a instrução criminal e assegurar a aplicação da lei penal. Como exemplos clássicos da doutrina e da jurisprudência, a ordem pública está ameaçada quanto mais em se tratando do alto potencial destrutivo que o tráfico provoca na sociedade; o que torna conveniente para a instrução criminal o réu ser mantido encarcerado cautelarmente, ainda mais que pelas circunstâncias do evento noticiado há expressiva quantidade de entorpecentes, munições e outros petrechos relacionados ao crime de tráfico junto ao indiciado, o que denota a periculosidade do agente e a nocividade social sobre o crime cometido. Tal circunstância coloca em risco a aplicação da lei penal e a instrução penal, pois em sendo solto o indiciado teria condição de interferir nas investigações e na futura colheita de provas em Juízo, seja no tocante eventuais terceiros investigados ou até mesmo testemunhas a serem inquiridos.
+ ..
+Não se olvide que a decretação ou a manutenção de tal prisão decorre não de um juízo de certeza, mas de mero risco, ou seja, vislumbrando a probabilidade de dano à ordem pública, à instrução criminal e à aplicação da lei penal, não há se falar em prisão arbitrária, abusiva ou ilegal, mas legítima. Importante esclarecer que as medidas cautelares diversas da prisão não impedem a continuidade da prática delitiva imputada ao autuado, não sendo suficientes para assegurar a ordem pública, a futura instrução processual e eventual aplicação da lei penal.
+ ..
+Por todo o exposto, estando presentes os requisitos legais dos artigos 312 e 313 do Código de Processo Penal, a fim de garantir a ordem pública, a regularidade da instrução processual e a garantia da aplicação da lei penal, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA de JOSÉ APARECIDO AFONSO." (e-STJ, fls. 33-35; sem grifos no original)
+Por sua vez, o Tribunal de origem manteve a prisão cautelar do paciente, nos seguintes termos:
+" ..
+Consta que, no dia 27/04/2024, policiais militares abordaram o paciente em um trailer de lanches, onde trabalha, em razão de um tumulto que lá estava ocorrendo. Durante a confusão, os policiais foram avisados por terceiros de que ali se tratava de um ponto de tráfico e que o paciente guardava drogas em sua casa para o traficante conhecido por "Queimado", o que foi por ele admitido. Em face disto, os policiais se dirigiram com o paciente para a casa dele. No local, o próprio paciente apresentou aos policiais 21 porções de maconha (408,22g), 29 papelotes de cocaína (55,03g) e 01 tijolo de cocaína (266,32 g), além de 36 munições, calibre 38, 01 balança de precisão e pedaços de plástico usualmente utilizados para embalar drogas.
+ ..
+Ademais, deve ser ponderada a gravidade concreta da conduta, visto que o paciente foi surpreendido guardando mais de 700g de drogas variadas, em porções individualizadas e em tijolo, com potencialidade de atingir diversos usuários, além de material usado para o fracionamento, bem como a existência de informações prévias indicando o envolvimento com o tráfico, denotando possível dedicação na prática delitiva, o que deve ser melhor aferido na instrução.
+ ..
+Desta forma, não se constata constrangimento ilegal na prisão preventiva para a garantia da ordem pública.
+Neste contexto, as medidas cautelares alternativas não seriam suficientes e adequadas ao caso (art. 282, I e II, do CPP), bem como perde relevância a existência de predicados pessoais favoráveis." (e-STJ, fls. 23-24; sem grifos no original)
+De acordo com o art. 312 do Código de Processo Penal, a custódia preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+N o caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o paciente foi preso com 21 porções de maconha (408,22g), 29 papelotes de cocaína (55,03g) e 1 tijolo de cocaína (266,32 g), além de 36 munições, calibre 38, 1 balança de precisão e pedaços de plástico usualmente utilizados para embalar drogas.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
