@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de CARLA PATRICIA SILVA DO NASCIMENTO (CARLA PATRÍCIA DA SILVA NASCIMENTO), em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Alagoas.
+Consta dos autos que a paciente foi condenada à pena de 2 anos e 3 meses de reclusão, em regime aberto, mais pagamento de 222 dias-multa, como incursa no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo. Os embargos de declaração foram acolhidos, sem efeitos infringentes, tão somente analisar a questão relativa à valoração negativa das circunstâncias do crime.
+Neste habeas corpus, alega o impetrante que a ínfima quantidade de entorpecente apreendida não constitui fundamento idôneo e suficiente para exasperar a pena-base.
+Requer, assim, a redução da pena-base.
+Informações prestadas (e-STJ, fls. 657-670).
+O Ministério Público Federal opinou pela concessão da ordem nos termos requeridos (e-STJ, fls. 673-677).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem manteve a exasperação da pena-base com amparo nos seguintes fundamentos:
+"12. Depreende da sentença de páginas 443/466 que a pena-base da embargante foi estabelecida em 6 anos de 8 meses de reclusão e 666 dias-multa sobre 1/30 do maior salário mínimo mensal vigente ao tempo do fato porque a circunstância judicial "circunstâncias do crime" foi valorada em desfavor do embargante, com a seguinte argumentação:
+ ..  f) Circunstâncias do crime: analisando a natureza e quantidade da droga (art. 42 da Lei nº 11.343/2006), verifica-se que se tratava de maconha e crack, sendo que a segunda se reveste de elevado grau de risco à saúde pública, tendo extremo potencial lesivo, causando, pois, grandes mazelas sociais devido ao seu grande poder de dependência.
+Portanto, essa circunstância é desfavorável ao réu, de modo que pena-base deve ser aumentada em virtude da natureza do crack.  ..
+13. Tal fundamentação merece ser ratificada porque se extrai dos autos de origem que a materialidade delitiva do crime de tráfico de drogas restou configurada a partir da apreensão de 56 pedras de crack e uma porção de maconha.
+14. Evidencia-se, portanto, que a valoração negativa da circunstância adveio em relação à natureza e a quantidade da droga (crack), em razão do elevado risco à saúde pública, advindo da sua disseminação" (e-STJ, fls. 647)
+Como cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Dentro do sistema trifásico adotado pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias judiciais previstas no art. 59 do CP. Tratando-se de condenado pelo delito de Tráfico de Drogas, o art. 42 da Lei n. 11.343/2006 estabelece a preponderância dos vetores referentes à quantidade e à natureza da droga apreendida, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, a pena-base do delito de tráfico de entorpecentes foi exasperada em 1 ano e 8 meses acima do mínimo legal, em razão da quantidade e da natureza das drogas apreendidas - 56 pedras de crack (12g) e 1 porção de maconha (28g).
+Entretanto, embora os vetores do art. 42 da Lei de Drogas, elencados inclusive como preponderantes às circunstâncias do art. 59 do Código Penal, constituam elementos idôneos para exasperar a sanção inicial, o quantum apreendido das drogas não é suficiente para denotar maior reprovabilidade na conduta da agente.
+Nesse sentido:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE DAS DROGAS. QUANTIDADE NÃO EXPRESSIVA. ILEGALIDADE. OCORRÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N.º 11.343/06. NEGATIVA. QUANTIDADE DA SUBSTÂNCIA ENTORPECENTE APREENDIDA. MOTIVAÇÃO NÃO SUFICIENTE. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. APLICAÇÃO NA FRAÇÃO MÁXIMA. POSSIBILIDADE. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. CONCESSÃO DA ORDEM.
+1. A dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena. Tal procedimento envolve profundo exame das condicionantes fáticas, sendo, em regra, vedado revê-lo em sede de habeas corpus.
+2. Na espécie, existe manifesta ilegalidade no tocante à fixação da pena-base acima do mínimo legal, porquanto a quantidade apreendida - 5,07g de maconha, 10,95g de cocaína e 1,79g de crack - não se mostra expressiva o suficiente a ponto de justificar a exasperação da pena na primeira fase da dosimetria.
+ ..
+5. Ordem concedida a fim de reduzir a pena do paciente para 2 anos, 2 meses e 20 dias de reclusão e 221 dias-multa, bem como fixar o regime inicial aberto, possibilitando, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, a serem fixadas pelo Juízo das Execuções."
+(HC 427.177/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Passo à dosimetria das penas.
+Fixo a pena-base em 5 anos de reclusão mais pagamento de 500 dias-multa, por serem favoráveis as circunstâncias judiciais dos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006, a qual permanece inalterada, na segunda etapa, ante a ausência de atenuantes ou agravantes. Na terceira fase, aplicou-se o redutor do tráfico privilegiado na fração de 2/3, resultando a sanção final em 1 ano e 8 meses de reclusão mais pagamento de 166 dias-multa.
+Não há considerações a serem feitas acerca do regime prisional, posto que estabelecido o modo aberto, nos termos do art. 33, § 2º, "c", do Código Penal.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para reduzir a pena-base e estabelecer a sanção final da paciente em 1 ano e 8 meses de reclusão mais pagamento de 166 dias-multa, em regime aberto.
+Publique-se. Intimem-se.
+EMENTA
