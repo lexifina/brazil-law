@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de DIEGO ANTONIO RODRIGUES FERREIRA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que indeferiu o pedido de liminar formulado no HC n. 0070766-23.2024.8.16.0000.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática dos delitos capitulados nos arts. 12, 15 e 16 da Lei n. 10.826/2003; e arts. 129, § 13, 147, 147-A, 148, 329 e 330, do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP e revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido. (AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido. (AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão tem por base elementos que indicam a periculosidade do paciente, além da gravidade do crime tendo em vista o modus operandi empregado na prática do delito, conforme se extrai da seguinte fundamentação adotada na origem:
+Trata-se de situação indicativa de alto risco social. O custodiado desferiu diversos disparos de arma de fogo após aparente discussão banal com seu primo, em local habitado e que levou ao acionamento, por diferentes pessoas, das forças de segurança ante a violência do ato.
+Lá chegando, as equipes foram informadas que ele havia mantido em cárcere privado sua esposa e filha de um ano, usando a infante como forma de impedir que a esposa abandonasse o local, após agredi-la e ameaça-la. Ainda, quando os policiais chegaram, ele se recusou a obedecer às ordens, trancando-se, armado, no quarto com a menina e desligando a luz, provocando situação de confronto potencial com a colocação da vida da criança em risco. Quando finalmente convencido a sair, ainda assim resistiu à prisão.
+Trata-se aparentemente de pessoa que não apenas possui um arsenal de armas de fogo, mas que as deixa municiadas pela casa e realiza disparos de arma de fogo sem quaisquer cautelas, colocando em risco terceiros. Observa-se que embora a maior parte das armas fosse, de fato, registrada, é certo que uma delas não o era, revelando assim que tem fácil acesso a armamentos ilegais, o que torna seu risco elevado mesmo com a apreensão do armamento.
+Isto, aliado à violência física e psicológica constantes, com o uso da filha do casal como forma de restrição da liberdade da esposa são indicativos de alto risco social, inclusive de potencial feminicídio.
+Fundamental, assim, garantir à vítima uma mínima possibilidade de retomada da sua vida livre de violências. Uma pessoa violenta que, mesmo em face de quatro equipes das forças de segurança, ainda assim resiste à prisão e, dentro da Delegacia de Polícia, profere ameaças à vítima, torna evidente que o cumprimento a medidas alternativas ao cárcere seria inexistente (fl. 23).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
