@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de antecipação de tutela, ajuizada por DENIS ANGELO DOS SANTOS, em face da agravante, decorrente de recusa da parte ré de custeio de procedimento cirúrgico para tratamento de "doença hemorroidária, grau II e III".
+Acórdão recorrido: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+OBRIGAÇÃO DE FAZER - Plano de assistência à saúde - Autor diagnosticado com "doença hemorroidária, grau II e III", sendo-lhe indicado procedimento cirúrgico pelo método da eletrofotocoagulação, negado pela operadora - Procedência - Insurgência da ré - Arguição de cerceamento de defesa - Descabimento - Provas que se mostram suficientes para o julgamento da ação - Juiz que houve por bem decidir a lide antecipadamente e que fundamentou a medida adequadamente na sentença - Inteligência dos arts. 355, I, e 370, § único, ambos do CPC - Preliminar afastada - Mérito - Alegação de que o tratamento não se insere no Rol da ANS, tratando-se de negativa legítima - Descabimento - Inteligência das Súmulas nº 96 e 102 deste Tribunal - Superveniência da Lei 14.454/22, que afasta a tese da operadora de saúde - Honorários advocatícios - Impossibilidade de fixação com base no valor da causa (R$ 1.000,00), sob pena de aviltar o bom serviço do patrono do autor - Manutenção do valor fixado pela sentença, de acordo com a tabela de honorários da OAB/SP - Decisão mantida - RECURSO DESPROVIDO. (e-STJ, fl. 224)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial, em razão da:
+i) não demonstração de violação do art. 489 do CPC;
+ii) incidência da Súmula 7/STJ (cerceamento de defesa);
+iii) superação da discussão sobre a natureza do Rol da ANS com a vigência da Lei 14.454/22; e
+iv) ausência de realização de cotejo analítico entre os acórdãos confrontados para fins de comprovação de dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz:
+i) não ter alegado a violação do art. 489 do CPC nas razões do recurso especial;
+ii) que "(..) a agravante não busca a rediscussão do mérito, mas tão somente pretende demonstrar que o acordão objurgado, entretanto, o v. acórdão acabou por violar os dispositivos legais, assim, apesar do entendimento da r. decisão, deve ser destacada a evidente ocorrência de cerceamento da defesa." (e-STJ, fl. 310);
+iii) "(..) que a análise que se pretende do C. Superior Tribunal, nada mais é puramente de direito, vez que a lide orbita principalmente na possibilidade de verificação de se o tratamento requerido é de cunho experimental ou não, e a taxatividade ou não do rol de procedimentos de cobertura obrigatória editado pela Agência Nacional de Saúde Suplementar - ANS, que no entendimento da Recorrente restou contrariada pelo tribunal ad quem ao estendê-lo sem justificativa legal, sendo evidente a divergência entre o v. acórdão e o entendimento proferido pelo STJ." (e-STJ, fl. 311); e
+iv) a devida realização de cotejo analítico entre os acórdãos confrontados para fins de comprovação de dissídio jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 7/STJ (cerceamento de defesa).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 5.703,07 (cinco mil e setecentos e três reais e sete centavos) - e-STJ, fl. 229 - para R$ 5.900,00 (cinco mil e novecentos reais), observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
