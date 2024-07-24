@@ -1,0 +1,103 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0716696-64.2024.8.07.0000AGRAVANTE(S)CALMAX CONSTRUTORA LIMITADA - EPP e EDSON BATISTA VIEIRAAGRAVADO(S)MAYFAIR CAPITAL LLCRelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1897398
+
+EMENTA
+
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AJUIZAMENTO. JUÍZO DE ADMISSÃO POSITIVO. CREDORA. AVERBAÇÃO PREMONITÓRIA DO EXECUTIVO NA MATRÍCULA DE EMBARCAÇÃO PERTENCENTE AO EXECUTADO. (CPC, ART. 828). VIABILIDADE. DEMONSTRAÇÃO DE TITULARIDADE. PENHORA, INDISPONIBILIDADE OU BLOQUEIO. INOCORRÊNCIA. MEDIDA GARANTIDORA. EFETIVAÇÃO SEM O CONCURSO DO JUIZ DO EXECUTIVO. PUBLICIDADE ERGA OMNES DA EXECUÇÃO. RESGUARDO DA BOA-FÉ EM CASO DE DISPOSIÇÃO PATRIMONIAL. ÓBICE À MEDIDA. INEXISTÊNCIA. DIREITO DE TERCEIROS. SUPOSTO ADQUIRENTE. DEFESA. POSTULAÇÃO PELA VIA PRÓPRIA. SUPOSTO ALIENANTE. ILEGITIMIDADE (NCPC, ART. 18). AGRAVO CONHECIDO E DESPROVIDO.
+
+1.        A averbação premonitória assegura ao exequente a faculdade de anotar no registro de imóveis ou no cadastro de bem sujeito a registro a subsistência do executivo que é promovido em face do titular da coisa, de molde a acautelar a execução e alertar terceiros da subsistência da lide executiva, prevenindo eventual alegação de boa-fé no caso de disposição patrimonial no curso do executivo, não estando a ultimação da medida sujeita a determinação judicial mas à iniciativa do próprio exequente, consubstanciando pressuposto para sua realização a simples subsistência de juízo positivo de admissibilidade do executivo (CPC, art. 828).
+
+2.        A averbação premonitória, realizando-se mediante iniciativa do próprio exequente após obter juízo positivo de admissibilidade da execução, traduz ato pelo qual se atribui publicidade erga omnes à execução que tramita contra o proprietário de bem sujeito a registro, chancelando a presunção absoluta da ação judicial perante terceiros com o viso de, não somente de acautelar o executivo, ensejar a qualificação da fraude à execução prevista no artigo 792 do Código de Processo Civil em caso de alienação do bem alcançado pela medida, não estando seu aperfeiçoamento sujeito, pois, à subsistência da citação do executado por estar volvida justamente a acautelar a futura penhora do bem afetado.
+
+3.        Efetuada a averbação premonitória, o exequente deverá, no decêndio subsequente, participar o ato ao Juízo do executivo, que, na sequência, deverá encaminhar a penhora do bem alcançado pela medida premonitória, sob pena de ser liberada do registro premonitório, emergindo dessa apreensão que, nos termos da regulação procedimental, incidindo em inércia quanto à aludida participação ou à liberação dos bens não penhorados, inclusive em situação de excesso, o exequente poderá ser compelido a indenizar o executado alcançado pela medida (CPC, artigo 828).
+
+4.        Defronte hipótese de eventual alienação do bem alcançado por averbação premonitória, cabe exclusivamente ao suposto adquirente a legitimidade para, pela via judicial adequada, defender seus interesses e postular eventuais direitos em nome e benefício próprios, tornando inviável que o devedor alienante assuma, em nome próprio, a tutela dos seus direitos, demandando a elisão da medida restritiva na defesa dos interesses daquele com o qual teria negociado (CPC, artigo 18).
+
+5.        Agravo conhecido e desprovido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME. , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 01 de Agosto de 2024
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo, aviado por Calmax Construtora Limitada – EPP e Edson Batista Vieira em face da decisão que, nos autos da execução de título extrajudicial manejada em seu desfavor pela agravada – Mayfair Capital LLC –, dentre outras resoluções, nada provera quanto ao pedido de levantamento de bloqueio alegadamente realizado sobre a lancha “Polar”, inscrição número 2870282307. Essa resolução fora empreendida sob o fundamento de que inexiste determinação de bloqueio judicial ou penhora sobre aludido bem, subsistindo, em verdade, averbação premonitória realizada pela exequente, ora agravada, com lastro na medida acautelatória prevista no artigo 828 do estatuto processual, a qual configura mero exercício regular do direito que a assiste.
+
+Objetivam os agravantes, mediante concessão de efeito suspensivo ao agravo, o sobrestamento da decisão arrostada, e, ao final, a desconstituição da decisão devolvida a reexame, determinando-se o imediato desbloqueio da lancha “Polar”, inscrita sob o nº 2870282307. Como lastro da pretensão reformatória, argumentaram, em suma, que, aviada pela agravada a execução de título extrajudicial subjacente, visando o recebimento do montante de R$58.761,81 (cinquenta e oito mil setecentos e sessenta e um reais e oitenta e um centavos), com lastro em contrato de empréstimo em dinheiro com garantia fidejussória, recebido o executivo, fora determinada sua citação para pagarem o débito em 03 (três) dias, sob pena de penhora e avaliação de bens suficientes à satisfação do débito.
+
+Pontuaram que compareceram espontaneamente aos autos do executivo, dando-se por citados, e, em seguida, o agravante informara que a Capitania Fluvial de Brasília/DF realizara o bloqueio indevido da lancha “Polar”, de inscrição de número 2810282307, antes de realizada a citação, conforme preconizado no artigo 829 do Código de Processo Civil, assim como reportara que não havia ordem judicial para aludido bloqueio. Afirmaram que, na mesma ocasião, informara-se que o bem fora negociado com terceiro de boa-fé em 05/12/2023, antes, portanto, do ajuizamento da ação, ocorrido em 10/01/2024. Verberaram que, entrementes, o Juízo a quo não acatara o pedido de desbloqueio imediato do veículo.
+
+Asseveraram que não subsistem fundamentos para se manter a lancha bloqueada, pontuando que, ademais, fora negociada com terceiro de boa-fé antes do ajuizamento da execução, e que não houvera observância ao devido processo legal. Reprisaram que a embarcação individualizada fora bloqueada indevidamente pela Capitania Fluvial de Brasília, sem ordem judicial e de forma prematura, como evidenciado no item 1 do ofício 15/CFB-MB advinda do órgão, sem que houvesse sido respeitado o prazo de 03 (três) dias, conforme estabelecido pelo artigo 829 do Código de Processo Civil. Defenderam que, assim, o bloqueio perfizera-se de forma irregular, pois não haviam sido sequer citados nos autos do executivo. Aludiram à garantia do devido processo legal, nos moldes previstos no artigo 5º, inciso LIV, da Constituição da República, aduzindo que sequer houvera determinação judicial de bloqueio do bem.
+
+Pontuaram que, outrossim, não haveria que se cogitar da averbação premonitória prevista no artigo 828 do Código de Processo Civil, uma vez que a lancha passara a pertencer a terceiro de boa-fé desde 05/12/2023, data anterior ao ajuizamento da ação em 10/01/2024, não ressoando justificável a alegação de que o executado estava esvaziando seu patrimônio a ponto de tornar-se insolvente e, com isso, pretendendo frustrar a execução. Realçaram que, ademais, não havia restrição judicial antes da celebração do contrato de compra e venda, inexistindo, portanto, motivo para se falar em má-fé por parte de um terceiro, acrescendo que o documento de Autorização para Transferência de Propriedade contém as assinaturas do vendedor, ora segundo agravante, e do comprador, Márcio Romeiro Pereira Júnior, reconhecidas no 4° Ofício de Notas do Distrito Federal.
+
+Agitaram que a mera falta de transferência administrativa da lancha perante a Capitania Fluvial não é capaz de invalidar o contrato de compra e venda entre as partes, que fora perfectibilizado com a simples aceitação do preço oferecido pela lancha, não se caracterizando a tradição como pressuposto de validade da compra e venda, tendo em vista ser um contrato consensual, e não real, o qual exigiria a tradição para que fosse perfeito, como é o caso do mútuo. Sustentaram, alfim, que, dessarte, afigurar-se-ia evidente que o imediato desbloqueio da lancha, pertencente a um terceiro de boa-fé, traduz a medida mais adequada na espécie.
+
+Admitido o agravo, à míngua do preenchimento dos requisitos normativamente enunciados, não fora agregado o efeito suspensivo vindicado. Nessa oportunidade, fora assinalado prazo à agravada para, querendo, contrariar o recurso[1].
+
+Devidamente intimada, a agravada apresentara contrarrazões, pugnando, em suma, pelo desprovimento do recurso[2].
+
+É o relatório.
+
+[1] ID Num. 58573431.
+
+[2] ID Num. 58845659.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+Cabível, tempestivo, preparado, subscrito por advogado devidamente constituído e revestido de interesse, realizando, pois, os pressupostos objetivos e subjetivos de admissibilidade, conheço do recurso.
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo, aviado por Calmax Construtora Limitada – EPP e Edson Batista Vieira em face da decisão que, nos autos da execução de título extrajudicial manejada em seu desfavor pela agravada – Mayfair Capital LLC –, dentre outras resoluções, nada provera quanto ao pedido de levantamento de bloqueio alegadamente realizado sobre a lancha “Polar”, inscrição número 2870282307. Essa resolução fora empreendida sob o fundamento de que inexiste determinação de bloqueio judicial ou penhora sobre aludido bem, subsistindo, em verdade, averbação premonitória realizada pela exequente, ora agravada, com lastro na medida acautelatória prevista no artigo 828 do estatuto processual, a qual configura mero exercício regular do direito que a assiste.
+
+Objetivam os agravantes, mediante concessão de efeito suspensivo ao agravo, o sobrestamento da decisão arrostada, e, ao final, a desconstituição da decisão devolvida a reexame, determinando-se o imediato desbloqueio da lancha “Polar”, inscrita sob o nº 2870282307. De acordo com o alinhado, o objeto deste agravo cinge-se à aferição da viabilidade processual e presença dos requisitos aptos a legitimarem o pedido deduzido pelos agravantes visando o cancelamento da averbação premonitória realizada pela exequente, ora agravada, com lastro no artigo 828 do Código de Processo Civil, que alcançara a embarcação denominada “Polar”, inscrição número 2870282307, de titularidade do agravante.
+
+Alinhado o objeto do agravo, inicialmente deve ser registrado que, diversamente do arguido pelos agravantes e conforme elucidado pelo magistrado prolator da decisão ora arrostada, não subsiste bloqueio judicial determinado pelo Juízo de origem sobre o bem mencionado. De acordo com os documentos coligidos aos fólios pelos próprios recorrentes, fora realizada averbação premonitória pela exequente, ora agravada, sem interseção judicial[1]. Consignado esse esclarecimento, ressoa que o instituto da averbação premonitória encontra previsão no artigo 828 do estatuto processual vigente e assegura ao exequente a faculdade de averbar, em Cartório de Registro de Imóveis, no órgão de trânsito ou em outros, certidão comprobatória de ajuizamento do processo executivo contra o devedor titular do bem afetado, como se infere do abaixo preceituado:
+
+Art. 828. “O exequente poderá obter certidão de que a execução foi admitida pelo juiz, com identificação das partes e do valor da causa, para fins de averbação no registro de imóveis, de veículos ou de outros bens sujeitos a penhora, arresto ou indisponibilidade.”
+
+Comentando o instituto, Nelson Nery Junior[2] ensina o seguinte: “Trata-se não somente de garantia para o credor, que poderá evitar a alienação indevida de bens no curso da execução, pelo desestímulo do adquirente cuidadoso, que se preocupou em investigar a situação dos bens que compõem o patrimônio do devedor e que garantem o cumprimento exato da obrigação e a satisfação do credor. A norma também permite que outros credores avaliem a viabilidade de propor execução contra o mesmo devedor, considerando que o bem cujo registro indica a existência de execução contra seu proprietário já foi localizado por outrem, autor de execução em curso.”
+
+No mesmo sentido, José Miguel Garcia Medina[3] pontua o seguinte: “A averbação (também a que se refere o art. 54, II, da Lei 13.097/2015, embora com outra finalidade, ajustando-se ao art. 799, IX, e a prevista no art. 828 do CPC/2015) é ato executivo realizado pelo exequente independentemente de autorização judicial. Consideramos essa a sua natureza, pois, embora não realizado pelo juiz ou por seus auxiliares, tal ato é realizado com base na execução judicial, e nela produz efeitos. O mais contundente desses efeitos está em considerar-se em fraude à execução a alienação do bem em relação ao qual houve a averbação, caso esse mesmo bem venha a ser penhorado. Exige-se, pois, a conjugação de dois fatos: a averbação e a penhora, que confirma o efeito de considerar-se fraudulenta a alienação ou oneração do bem desde o momento em que tiver havido a averbação.”
+
+A averbação, conquanto não derivando de determinação judicial, deriva da subsistência da execução e tem por finalidade conferir publicidade à existência do executivo promovida contra o devedor/proprietário, evitando-se, por conseguinte, eventual desfalque patrimonial e alertando terceiros da subsistência da execução, prevenindo inclusive alegação de boa-fé no caso de disposição patrimonial, pelo excutido, no curso do executivo. Há que ser acentuado que o dispositivo legal individualizado está topologicamente situado no Título II, do Livro II, do CPC/2015, que trata do processo de execução, e, de acordo com o texto legal, a certidão premonitória será expedida em favor do “exequente”, sobejando inexorável que a certidão premonitória traduz instituto reservado ao processo de execução e, por extensão, ao cumprimento de sentença.
+
+Ainda de conformidade com a textualidade da regulamentação legal, o exercício de aludida prerrogativa não está condicionado à prévia citação do devedor, aludindo o legislador processual unicamente à admissão da execução para que seja possível a expedição da certidão destinada a viabilizar a averbação premonitória. Sob essa realidade, resplandece incontestável que, na hipótese, admitida a execução de título extrajudicial, a efetivação da averbação premonitória pela parte credora não demandava a prévia citação dos executados, daí defluindo que, diversamente do alegado pelos agravantes, a fruição da faculdade assegurada antes de haverem sido citados, não vulnerara o devido processo legal, mas com ele se alinhara linearmente.
+
+Sob essa realidade, afere-se que, configurando prerrogativa destinada ao exequente a averbação premonitória perante o órgão registral, evitando-se que a parte executada se desfaça do bem em prejuízo do credor, inviável o acolhimento da pretensão deduzida pelos agravantes. É que, conforme pontuado, a averbação premonitória traduz ato pelo qual se atribui publicidade erga omnes à execução que tramita contra o proprietário de bem sujeito a registro, chancelando a presunção absoluta da ação judicial perante terceiros, com a finalidade, não somente de acautelar o executivo, como de ensejar a qualificação da fraude à execução prevista no artigo 792 do Código de Processo Civil em caso de alienação do imóvel. Evidenciado, pois, que o segundo agravante figura, perante o órgão no qual registrada a embarcação, como proprietário da lancha individualizada[4], aviada a execução de título extrajudicial em seu desfavor, legítima a averbação premonitória postulada como medida hábil a resguardar o direito da agravada, evitando-se que o devedor aliene o imóvel em prejuízo do crédito executado.
+
+O encaminhamento a ser observado, efetuada a averbação, é no sentido de que o exequente deverá, no decêndio subsequente, participar o ato ao juiz do executivo, que, na sequência, deverá encaminhar a penhora do bem alcançado pela medida premonitória, sob pena de ser liberado o registro premonitório. Ademais, o legislador ressalva que, incidindo em inércia quanto à aludida participação ou à liberação dos bens não penhorados, inclusive em situação de excesso, o exequente poderá ser compelido a indenizar o executado alcançado pela medida, conforme dispõem os §§ do artigo 828 em tela. Assim é que, não se cogitando, no momento, de inobservância do procedimento encadeado, a averbação se afigura legítima, devendo a penhora alcançar a embarcação alcançada pela medida premonitória.
+
+Outrossim, no tocante à arguição de que a embarcação já não seria de titularidade do segundo agravante, pois estaria integrada ao patrimônio de terceiro em razão de negócio concertado antes da ultimação da medida, não sobejando passível de qualquer espécie de ato constritivo, o exame dessa irresignação encontra óbice intransponível e não pode sequer ser conhecido. É que o segundo agravante, ainda que na anterior qualidade de titular e, consoante sustentara, alienante do bem sobre o qual recaíra a averbação premonitória e deverá ser penhorado, não está municiado de legitimidade para formular, em nome próprio, eventual pretensão decorrente do negócio celebrado. Acaso consumado o negócio, deverá o adquirente defender seus direitos e interesses em sede apropriada, pois, como cediço, a ninguém é permitido demandar direito alheio em nome próprio (CPC, art. 18). Para efeito da execução, alcançando a averbação bem móvel que está registrado no órgão competente em seu nome, revestira-se de legitimidade, cabendo ao terceiro afetado pela medida defender seus direitos.
+
+Evidentemente, detendo o suposto titular de direitos de propriedade do bem alcançado pela medida acautelatória capacidade jurídica, é o único revestido de legitimação para defender seus interesses e postular eventuais direitos em nome e benefício próprios, tornando inviável que o segundo agravante assuma, em nome próprio, a tutela dos seus direitos na exata tradução da regra inserta no artigo 18 do estatuto processual vigente. Sob essa realidade, almejando os agravantes, em nome próprio, o afastamento da averbação premonitória que alcançara bem de titularidade exclusiva da pessoa a quem alegadamente transferira o segundo agravante a propriedade do bem móvel, resplandece inequívoca a impropriedade do instrumento que manejaram, em seu nome, com o escopo de buscar a declaração de nulidade da averbação premonitória realizada.
+
+O que sobeja, portanto, da fundamentação articulada é que, em verdade, tanto o ato que promovera a prenotação sobre a matrícula do bem quanto a manifestação jurisdicional a convalidá-la estão em plena consonância com o ordenamento procedimental, não podendo o suposto alienante, de mais a mais, vindicar eventual interesse de terceiro adquirente em relação ao bem, nem constituindo o alegado tese legítima a que seja infirmada a determinação premonitória impugnada. Alinhados os argumentos aduzidos e afigurando-se despiciendo serem alinhavadas quaisquer outras considerações ante o fato de que a decisão agravada mostra-se legítima e conforme as garantias e direitos subjetivos que são assegurados aos agravantes, não se revestindo as teses invocadas de lastro material, o inconformismo que agitara deve ser refutado, ante as razões que conduzem ao desprovimento do presente recurso.
+
+Diante dos argumentos alinhados, nego provimento ao agravo, mantendo incólume o decisório arrostado. Custas finais pelo agravante.
+
+É como voto.
+
+[1] - ID Num. 187469911 (fl. 75), Execução de Título Extrajudicial nº 0700815-44.2024.8.07.0001.
+
+[2] - Código de Processo Civil Comentado - Ed. 2022, Autor: Nelson Nery Junior, Rosa Maria de Andrade Nery, Editor: Revista dos Tribunais, Página RL-1.162, in https://proview.thomsonreuters.com.
+
+[3] - Código de Processo Civil Comentado - Ed. 2021, Autor: José Miguel Garcia Medina
+
+Editor: Revista dos Tribunais, Página RL-1.162, in https://proview.thomsonreuters.com.
+
+[4] - ID Num. 187469906 (fls. 72/73), Execução de Título Extrajudicial nº 0700815-44.2024.8.07.0001.
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME.
