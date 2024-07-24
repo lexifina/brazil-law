@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MODELO PARTICIPACOES LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/02/2024.
+Concluso ao gabinete em: 20/06/2024.
+Ação: de cobrança.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. RESSARCIMENTO PLEITEADO PELA CEF EM FACE DECONSTRUTORA. DECADÊNCIA. NÃO CONFIGURAÇÃO. VÍCIOS CONSTRUTIVOSCONSTATADOS. NECESSIDADE DE REPARAÇÃO. RECURSO PROVIDO.
+I. Recurso de Apelação interposto pela CAIXA ECONÔMICA FEDERAL - CEF contra sentença que julgou improcedente o pedido, o qual objetivava o ressarcimento, face a construtora, dos valores desembolsados para sanar vícios de construção constatados em imóvel vinculado ao SFH, ante o reconhecimento da decadência, nos termos do art. 618 do Código Civil.
+II. Nos termos do artigo 618 do Código Civil, a construtora responde pelos vícios encontrados pelo prazo de 5 (cinco) anos. Ademais, tendo em vista a natureza dos vícios construtivos, oportuno salientar que não é necessário que não é necessário que a constatação ocorra no prazo de cinco anos. Por se tratar de prazo de garantia, exige-se, apenas, a demonstração de que os vícios na construção surgiram no prazo de garantia de cinco anos.
+III. No caso vertente, restou incontroverso, sobretudo por não ter sido impugnado pela construtora Ré, que os vícios na construção do imóvel que os vícios na construção (rachaduras, trincas, etc.) começaram a surgir no ano de 2007, conforme laudos de vistoria da CEF. Assim, considerando que a data do habite-se é05/12/2005, é inequívoco que os vícios na construção do imóvel surgiram no prazo quinquenal de garantia previsto no artigo 618 do Código Civil, não sendo possível afastar a responsabilidade da construtora Ré.
+IV. O prazo decadencial de 180 dias, previsto no parágrafo único do artigo 618 do Código Civil não se refere ao prazo prescricional para obter o ressarcimento quanto aos prejuízos decorrentes da má execução da obra, voltando-se, justamente por se tratar de prazo decadencial, ao requerimentos de natureza constitutiva/desconstitutiva, como a provocação do construtor para promover os reparos no imóvel ou para a rescisão contratual.
+V. O prazo prescricional para obter-se a condenação ao pagamento de indenização pelos prejuízos verificados no imóvel, por ausênsia de previsão de prazo específico, é de dez anos, nos termos do artigo 205 do Código Civil. Assim, considerando como termo inicial da prescrição a data em que se tomou conhecimento dos vícios, em fevereiro de 2013 e que a ação foi proposta em abril de 2016, não de verifica a ocorrência de prescrição.
+VI. Não existem elementos nos autos capazes de afastar a responsabilidade da construtora pelos defeitos apresentados na construção do imóvel, devendo ser julgados integralmente procedentes os pedidos formulados pela CEF.
+VII. Provimento do Recurso de Apelação interposto pela CEF. Pedidos julgados integralmente procedentes. (e-STJ fl. 318).
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, II, CPC; e 205 e 618, parágrafo único, do CPC. Além de negativa de prestação jurisdicional, sustenta que deve ser aplicada a garantia de 5 anos, prevista no art. 618 do Código Civil, que deve ser exercida no prazo decadencial de 180 dias, a contar da constatação do defeito. Aduz não ser o caso de aplicação do prazo prescricional decenal do art. 205 do Código Civil.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da aplicação do prazo prescricional decenal previsto no art. 205 do Código Civil, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da prescrição
+O TRF da 2ª Região, ao decidir pela aplicação do prazo prescricional decenal, previsto no art. 205, do Código Civil, reconhecendo a sua ausência, sob o fundamento de que "o prazo decadencial de 180 dias, previsto no parágrafo único do artigo 618 do Código Civil não se refere ao prazo prescricional para obter o ressarcimento quanto aos prejuízos decorrentes da má execução da obra, voltando-se, justamente por se tratar de prazo decadencial, ao requerimentos de natureza constitutiva/desconstitutiva, como a provocação do construtor para promover os reparos no imóvel ou para a rescisão contratual. O prazo prescricional para obter-se a condenação ao pagamento de indenização pelos prejuízos verificados no imóvel, por ausênsia de previsão de prazo específico, é de dez anos, nos termos do artigo 205 do Código Civil" (e-STJ fl. 299), foi ao encontro com o entendimento do STJ no sentido de que é decenal o prazo prescricional da ação para obter, do construtor, a indenização por defeito na obra, na vigência do Código Civil de 2002 (AgInt no AREsp n. 2.525.891/MT, 3ª Turma, DJe de 27/6/2024; AgInt no AREsp n. 2.450.672/GO, 4ª Turma, DJe de 2/5/2024; AgInt no AREsp n. 2.457.803/SP, 3ª Turma, DJe de 11/4/2024; AgInt no AREsp n. 2.092.461/SP, 3ª Turma, DJe de 14/6/2023).
+Assim, o presente recurso não merece provimento, ante a incidência da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor do proveito econômico obtido pela agravada (e-STJ fl. 300) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO DECENAL. SÚMULA 568/STJ.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. É decenal o prazo prescricional da ação para obter, do construtor, a indenização por defeito na obra, na vigência do Código Civil de 2002.
+4. Agravo conhecido. Recurso especial desprovido.
