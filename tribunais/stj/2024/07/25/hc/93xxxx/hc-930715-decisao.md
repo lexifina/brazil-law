@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROBSON ALEXANDRE DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente, reincidente, foi condenado pelo crime do art. 33, caput, da Lei nº 11.343/06, à pena de 6 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e ao pagamento de 687 dias-multa, no mínimo legal, pela posse de 34 porções individuais de maconha.
+A apelação interposta foi desprovida, em acórdão assim ementado:
+APELAÇÃO - Tráfico de drogas - Alegação de nulidade do feito por conta de supostas agressões sofridas durante a abordagem policial - Inocorrência, pois a matéria encontra-se preclusa e a não há qualquer indício de veracidade na versão prestada pelo apelante - Sentença condenatória - Absolvição - Desclassificação para a conduta prevista no artigo 28 da Lei nº 11.343/06 - Descabimento - Materialidade e autoria comprovadas - Conduta que se amolda ao artigo 33, caput, da Lei nº 11.343/06 - Prova cabal a demonstrar que o recorrente trazia consigo e guardava as drogas apreendidas para fins de tráfico - Depoimentos policiais coerentes e coesos, os quais têm o condão de embasar o decreto condenatório - Circunstâncias agravantes previstas no artigo 61, inciso I, e inciso II, alínea "j", do Código Penal configurada, diante de suas naturezas objetivas - Pena corretamente calculada, de forma fundamentada e respeitado o critério trifásico - Impossibilidade de aplicação da redutora prevista no artigo33, parágrafo 4º, da Lei nº 11.343/06, em razão da elevada quantidade e variedade de entorpecentes apreendidos - Regime fechado adequado e compatível com a gravidade do delito - Impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos ante o montante da pena imposta - Inviabilidade de aplicação do instituto da detração PRELIMINAR REJEITADA - RECURSO DE FENSIVO NÃO PROVIDO.
+O impetrante sustenta que a droga apreendida se destinava ao consumo pessoal, já que eram apenas 40 g de maconha.
+Requer, liminarmente e no mérito, a desclassificação do delito para aquele do art. 28, da Lei nº 11.343/2006.
+É o relatório.
+O mandamus não merece prosseguir, pois "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
