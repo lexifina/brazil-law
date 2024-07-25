@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de VICTOR GOMEZ ROMERO em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2208113-85.2024.8.26.0000.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática dos delitos de furto tentado e receptação.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea.
+Alega que deixou de ser observado o princípio proporcionalidade das medidas cautelares, tendo em vista que, em caso de eventual condenação, o paciente será submetido a regime inicial de cumprimento de pena mais brando que o fechado.
+Alega que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP e revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido. (AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido. (AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão tem por base elementos concretos, tendo em vista a seguinte fundamentação adotada na origem:
+Decisão impugnada:
+ ..
+Em poder de Victor também, não por coincidência, foi apreendido um outro telefone celular, também de origem ilícita e, tal como Luis Enrique, disse tê-lo adquirido de pessoa inidentificada e sem saber da sua origem criminosa. Muito bem. Acontece que uma das testemunhas ouvidas pela autoridade policial revelou que ao perceber a presença de ambos no interior do ônibus em que aconteceu o furto tentado que ensejou a prisão de ambos, já anunciou aos demais passageiros a presença, segundo ela, da gangue do telefone, que por ela já era conhecida.
+Disse que os autuados estariam rotineiramente agindo em companhia de terceira pessoa que na oportunidade não se encontrava no veículo. Não por acaso, segundo ela, a vítima não teria se atentado para advertência e, por isso, teve seu telefone celular subtraído. Se isso não bastasse, observo que perante a autoridade policial, Victor forneceu endereço residencial diverso daquele constante no documento que agora apresentou por meio de advogado constituído e, coincidentemente, ao ser indagado sobre seu endereço residencial, Luis Enrique forneceu, sem comprovar, justamente o endereço consignado no aludido documento, embora, quando indagados, quando interrogados, cada um deles negou viver em companhia do outro no mesmo endereço. Por isso, reputo indispensável à manutenção da custódia de ambos não apenas para que as investigações possam prosseguir, no intuito de esclarecer a procedência dos aparelhos de origem ilícita de que tinham posse, por quê tinham posse, como obtiveram essa posse, bem como para que cessem as atividades criminosas que, evidentemente, vinham levando a efeito, apurando-se ainda seus verdadeiros endereços e atividades que vinham desempenhando (fls. 27/28).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
