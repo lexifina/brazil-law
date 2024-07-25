@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Davi do Rosário, em face do acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+
+    “ADMINISTRATIVO. AÇÃO POPULAR. TERMINAL DE USO PRIVADO - TUP. CONTRATO. DOAÇÃO DE TERRAS. VALIDADE. NULIDADE. PREJUDICIALIDADE. AÇÕES CONEXAS. AÇÃO ORIGINÁRIA. SUSPENSÃO. I. A causa de pedir da ação popular originária (n.º 5002585- 83.2018.4.04.7008) está relacionada à exploração de instalação portuária na modalidade de Terminal de Uso Privado - TUP, no Município de Pontal do Paraná, sem comprovação do domínio útil da área pela empresa Balneária Pontal do Sul Ltda. ou pela coligada Porto Pontal Paraná Importação e Exportação S.A., e essa discussão envolve, em última análise, a questão atinente à validade da doação de terras pelo Estado do Paraná ao Município de Paranaguá, em 1951 (Título de Domínio n.º 197/1951). II. É plausível o argumento de que há uma relação de prejudicialidade entre a ação originária, as demandas relacionadas a ela e o julgamento proferido no agravo de instrumento n.º 5020820-78.2015.404.0000 - em que foi reconhecida a prescrição da pretensão à declaração de nulidade absoluta de alguns documentos -, que decorre dos fundamentos fáticos e jurídicos invocados pelo autor popular para respaldar seus pleitos (decretação de nulidade do Contrato de Adesão n.º 06/2014-ANTAQ, de 14/08/2014 e eventuais atos acessórios ou sucessivos) e reconhecimento da titularidade pelo Estado do Paraná do domínio útil do imóvel objeto do Título de Terras n.º 697 e, por via de consequência, sua imissão na posse da área litigiosa. III. É prudente a atribuição de efeito suspensivo ao recurso, com o fim específico de obstar a tramitação da ação originária (artigo 313, inciso V, alínea 'a', do CPC), até ulterior deliberação, tendo em vista a potencial repercussão daquelas na solução do litígio. Agravo de instrumento parcialmente provido.”
+
+    Na minuta sustenta-se violação dos arts. 5º, XXXIV “a”, XXXV, LV e LXXIII, 37 e 93, IX, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, não se vislumbra a alegada violação do art. 93, IX, da Carta da República. O dispositivo exige que sejam fundamentadas, ainda que sucintamente, todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes, nem a correção dos fundamentos da decisão. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas pela parte, bem como motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+
+    Por sua vez, nos termos da jurisprudência consolidada deste Supremo Tribunal Federal, a verificação da alegada ofensa aos princípios da inafastabilidade da prestação jurisdicional, do devido processo legal, do contraditório e da ampla defesa pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que tal violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, a, da Lei Fundamental.
+
+    Acrescente-se que esta Suprema Corte, no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013, decidiu que a matéria relacionada à alegação de violação dos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal não apresenta repercussão geral. O acórdão está assim ementado:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+
+    Ademais, da análise dos autos verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. AÇÃO POPULAR. CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. TUTELA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS. INADEQUAÇÃO DA VIA ELEITA. INTERESSE DE AGIR. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1380605 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, DJe 01-07-2022)
+
+    “Agravo regimental no recurso extraordinário. Processual Civil e Administrativo. Ação popular. Anulação de negócio jurídico. Troca de ativos. Afronta ao art. 93, inciso IX, da Constituição Federal. Não ocorrência. Violação dos princípios do devido processo legal, da ampla defesa e do contraditório. Inexistência de repercussão geral. Realização de perícia técnica determinada pela Corte de origem. Fatos e provas. Reexame. Inadmissibilidade. Súmula nº 279/STF. Precedentes. 1. Não procede a alegada violação do art. 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante tenham sido contrárias à pretensão da parte recorrente. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal – Tema nº 660 do Quadro de Temas de Repercussão Geral do Supremo Tribunal Federal. 3. é inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF). 4. Agravo regimental não provido. 5. É inaplicável ao caso o art. 85, § 11, do CPC, pois não houve a fixação prévia de honorários advocatícios na causa.” (RE 1237702 AgR, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe 29-06-2022)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 25 de julho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
