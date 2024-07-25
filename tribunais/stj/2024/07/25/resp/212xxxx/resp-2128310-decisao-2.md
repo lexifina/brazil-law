@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALYSSON ARTUR PASSOS, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pela Segunda Câmara do Tribunal de Justiça Militar de Minas Gerais que deu parcial provimento ao recurso Ministerial (e-STJ fls. 1850/1887).
+O recorrente aponta, em síntese, violação ao artigo 69 do Código Penal Militar e pleiteia a reforma da dosimetria, a fim de que a pena imposta seja fixada no mínimo legal (e-STJ fls. 2001/2011).
+Após a apresentação das contrarrazões pelo Ministério Público de Minas Gerais (e-STJ fls. 2117/2125), o Desembargador Presidente da mencionada Corte admitiu o recurso (e-STJ fls. 2160/2171).
+O Ministério Público Federal se manifestou pelo não conhecimento do recurso especial (e-STJ fls. 2204/2209).
+É o relatório.
+Decido.
+O recurso especial é tempestivo e cabível, consoante disciplina o artigo 105, III, da Carta Magna. Por outro lado, verifica-se que há óbices instransponíveis ao seu conhecimento.
+É dizer, com relação à apontada ofensa ao artigo 69 do Código Penal Militar, ao argumento de que a valoração das circunstâncias judiciais se deu de maneira exacerbada, nota-se que tal matéria não foi prequestionada, visto que a Corte local não analisou os critérios de valoração das circunstâncias judiciais do art.69 do CPM, o que, por certo, incide o óbice Súmula n. 211/STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, para analisar tal tese e alterar o que restou consignado pelas instâncias ordinárias, soberanas na análise das provas, haveria a necessidade de se reexaminar todo o material fático-probatório acostado aos autos, providência inadmissível em sede de recurso especial, a teor da Súmula n. 07/STJ: "a pretensão de simples reexame de prova não enseja recurso especial". Senão, veja-se o consolidado entendimento desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DESCAMINHO. PROCEDÊNCIA PARCIAL DA DENÚNCIA. CONVERSÃO EM DILIGÊNCIA PARA VERIFICAR POSSIBILIDADE DE SUSPENSÃO CONDICIONAL. INEQUÍVOCA AUSÊNCIA DE INTERESSE DO MINISTÉRIO PÚBLICO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. AUSÊNCIA DE PREJUÍZO. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. MAJORAÇÃO DEVIDAMENTE MOTIVADA. CONDUTA ESPECIALMENTE REPROVÁVEL. REVISÃO DA PENA. SÚMULA N.º 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há prejuízo na ausência de conversão do julgamento em diligência para eventual oferecimento de suspensão condicional do processo quando é incontroverso, nos autos o não preenchimento dos requisitos do art. art. 89 da Lei n.º 9.099/95, c.c. o art. 77, inciso II, do Código Penal, bem como o desinteresse do Parquet em ofertar a referida proposta.
+2. O art. 59 do Código Penal não estabelece parâmetros precisos e absolutos para a análise das circunstâncias judiciais e a respectiva majoração da pena-base. No caso, o aumento mais rigoroso imposto pela Corte regional está devidamente justificado no elevadíssimo valor dos bens apreendidos - 1.000.000,00 (um milhão de reais) - e no fato de o Acusado ser técnico da Receita Federal à época dos fatos.
+3. Ante a fundamentação concreta apresentada na instância ordinária, apta a demonstrar a singular gravidade do caso concreto, eventual revisão da dosimetria exigiria o reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme se infere do Enunciado Sumular n.º 7 desta Corte Superior.
+4. A existência de circunstâncias judiciais desfavoráveis autoriza o aumento da pena-base, nos termos do art. 59 do Código Penal, e igualmente obsta a substituição da pena privativa de liberdade por penas restritivas de direitos, nos termos do art. 44, inciso III, do Código Penal.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.311.331/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/4/2019, DJe de 25/4/2019.). Grifos acrescidos.
+Ante o exposto, não conheço o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
