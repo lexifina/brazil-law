@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo interno interposto contra decisão da Presidência do STJ (fls. 492/493, e-STJ), que não conheceu do agravo em recurso especial.
+Em face das razões de fls. 497/507 (e-STJ), torno sem efeito a decisão e passo a novo exame do agravo em recurso especial interposto por LOTEAMENTO QUEBEC BRODOWSKI SPE LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: rescisão contratual c/c restituição de valores ajuizada por SEBASTIAO ONOFRE DE OLIVEIRA e outra, em face da agravante, em razão de compromisso de compra e venda de imóvel firmado entre as partes.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+COMPROMISSO DE COMPRA E VENDA - MORA DO COMPRADOR - CONTRATO REGIDO PELA LEI Nº 9.514/97 - REGISTRO ANTERIOR AO AJUIZAMENTO DA DEMANDA - INCIDÊNCIA DO CDC AFASTADA - LEI ESPECIAL COM PREVALECER - REGÊNCIA DO ART. 1.365 DO CC - SENTENÇA REFORMADA - APELO PARCIALMENTE PROVIDO. (fl. 357, e-STJ)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não ficou demonstrada a alegada vulneração aos dispositivos arrolados; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ); iii) ausência de comprovação do dissídio jurisprudencial alegado.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "resta evidente que o rito especial, conforme entendimento fixado pela Corte Superior, foi devidamente seguido, com a consolidação da propriedade fiduciária em nome do credor/agravante e, posteriormente, realizado o leilão extrajudicial, consoante ao disposto no art. 26 e 27, §§ 4º e 5º da Lei n. 9.514/97"; ii) "o recurso especial de fls. 372-385 demonstra clara divergência de entendimentos do dispositivo legal, inclusive com a transcrição das ementas do acórdão paradigma, cuja íntegra foi acostada aos autos naquela oportunidade."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de fatos e provas (Súmula 7/STJ); ii) ausência de comprovação do dissídio jurisprudencial alegado.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, TORNO SEM EFEITO a decisão de fls. 492/493 (e-STJ) e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 12% os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
