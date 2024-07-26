@@ -1,0 +1,1 @@
+Art. 10. O plano plurianual, as diretrizes orçamentárias e os orçamentos anuais da União, dos Estados, do Distrito Federal e dos Municípios serão formulados de maneira a assegurar a consignação de dotações orçamentárias compatíveis com as diretrizes, metas e estratégias deste PNE e com os respectivos planos de educação, a fim de viabilizar sua plena execução.

@@ -1,0 +1,1 @@
+Art. 13. O poder público deverá instituir, em lei específica, contados 2 (dois) anos da publicação desta Lei, o Sistema Nacional de Educação, responsável pela articulação entre os sistemas de ensino, em regime de colaboração, para efetivação das diretrizes, metas e estratégias do Plano Nacional de Educação.
