@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante VIA CAPITALIZAÇÃO S/A e suscitados o JUÍZO DA VARA DE DIREITO EMPRESARIAL, RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE PORTO ALEGRE - RS e o JUÍZO DA 3ª VARA DO TRABALHO DE RIO BRANCO - AC.
+Ação em trâmite no juízo cível: falência da ASSOCIAÇÃO DOS PROFISSIONAIS LIBERAIS UNIVERSITÁRIOS DO BRASIL - APLUB PREV.
+Ação em trâmite no juízo trabalhista: execução trabalhista n. 0000027-22.2020.5.14.0404, movida por LUCIANA FELIX BARROSO.
+Conflito de competência: alega, em síntese, que a APLUB CAPITALIZAÇÃO S/A (atual VIA CAPITALIZAÇÃO) compunha os ativos da massa falida APLUB PREV, tendo sido levada a leilão judicial, nos autos da falência e arrematada por HEALTHPAR ADMINISTRAÇÃO E PARTICIPAÇÕES S/A, livre de qualquer ônus, de modo que "todo o passivo anterior à alienação judicial do ativo da massa  ..  é de responsabilidade da massa falida da Aplub Prev" (e-STJ, fl. 9). Defende, assim, que o redirecionamento da execução em face da suscitante acaba por burlar o concurso de credores e usurpar a competência do juízo falimentar. Pleiteia a concessão de tutela de urgência para "proibir a liberação de valores à reclamante até efetiva decisão de mérito do presente conflito de competência" (e-STJ fl. 14).
+Tutela antecipada: indeferida às e-STJ fls. 150/151.
+Parecer do MPF: deixou de opinar.
+É O RELATÓRIO. DECIDO.
+O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência.
+Vale dizer, em hipóteses como a dos autos, o conflito de competência somente fica caracterizado quando algum Juízo, diverso daquele que conduz o processo de falência, pratica atos constritivos sobre o acervo patrimonial da devedora-falida.
+Ocorre que não foram prolatadas decisões dessa natureza. Ademais, a carta de arrematação, por meio da qual foi transferida a propriedade da Aplub Capitalização S/A para Healthpar Administração e Participações Ltda., estabelece que, apesar da aquisição "ser caracterizada como originária e se dar sem sucessão do arrematante nas obrigações do devedor, inclusive nas de natureza tributária  ..  o arrematante está ciente da existência de diversas ações judiciais envolvendo a APLUB-CAP, especialmente de natureza trabalhista, cabendo-lhe assumir a defesa em todas elas" (e-STJ, fl. 131).
+Deveras, não se verifica a existência de decisão do juízo trabalhista dispondo sobre o patrimônio da empresa falida, de modo que o prosseguimento da ação de que tratam os autos, tal como realizado, não enseja decisões conflitantes, tendo em vista o teor da carta de arrematação. Assim, não ficou caracterizado o alegado conflito de competência.
+Vale acrescentar, por fim, que "o conflito de competência tem seu âmbito de cognição restrito à definição do juízo apto a prestar a jurisdição em determinado processo, não podendo este incidente ser utilizado como sucedâneo recursal para se obter, por via transversa, pronunciamento judicial acerca de aspectos relacionados a outros temas passíveis de recurso próprio (AgInt nos EDcl no CC n. 167.456/MG, Segunda Seção, DJe de 17/12/2020.)
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUSTIÇA TRABALHISTA E FALÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência, situação não verificada na hipótese.
+2. Conflito de competência não conhecido.
