@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado da Bahia contra acórdão do Tribunal de Justiça baiano, assim ementado:
+AÇÃO ORIGINÁRIA - MANUTENÇÃO DE POSSE  -MUNICÍPIO QUE APONTA TURBAÇÃO INTENTADA POR ÓRGÃO ESTADUAL EM ÁREA MUNICIPAL-PREFACIAIS SUPLANTADAS -DIREITOS A PROPRIEDADE E POSSE JÁ ESTABELECIDOS EM FAVOR DO MUNICÍPIO, CONFORME DECISÃO ANTERIOR DESTE TRIBUNAL, PROFERIDA NO JULGAMENTO DA APELAÇÃO CÍVEL Nº 0005495-21.2007.8.05.0113-DECISÃO COERENTE COMO JULGADO ANTERIOR -RESISTÊNCIA DO ACIONADO À PRETENSÃO DEDUZIDA, A DENOTAR A EFETIVATURBAÇÃO DIREITO Á PROTEÇÃO POSSESSÓRIA RECONHECIDO  PROCEDÊNCIA DA AÇÃO. (e-STJ fl. 432)
+Alega a parte recorrente, além de negativa de prestação jurisdicional, violação dos arts. 332, § 2º, 502 a 508, do CPC (e-STJ fls. 491/508).
+Inadmitido o recurso na origem, houve a interposição de agravo (e-STJ fls. 546/561).
+Passo a decidir.
+Inicialmente, saliento que, na forma do art. 1.042, §5º, do CPC, "o agravo poderá ser julgado, conforme o caso, conjuntamente com o recurso especial ou extraordinário, assegurada, neste caso, sustentação oral, observando-se, ainda, o disposto no regimento interno do tribunal respectivo".
+No caso, uma vez que o agravo infirmou adequadamente as razões de inadmissão do especial, passo ao exame deste último recurso mencionado.
+Dito isso, adianto que o recurso não será conhecido.
+Em primeiro lugar, esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, a parte recorrente deixou de indicar, com precisão, os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a afirmar, genericamente, que a Corte deixou de se manifestar sobre questões apontadas nos aclaratórios.
+Ora, por certo, que a tese alusiva à ofensa ao art. 1.022 do CPC/2015 deve ser construída com base no confronto entre a alegada omissão e a respectiva repercussão jurídica que traduza a necessidade de seu enfrentamento pela Corte de origem, o que, sem dúvida, não ocorreu na hipótese em análise.
+Quanto ao mérito, os dispositivos legais tidos por violados não foram prequesitonados na origem, pelo que se aplica a Súmula 282 do STF, por analogia. Note-se que a Corte local em momento algum resolveu a questão que aborda (expressa ou implicitamente) os institutos da preclusão ou da coisa julgada, mas apenas se referiu a julgado anterior do mesmo Tribunal.
+Ainda que assim não fosse, verifico que a alegação da parte recorrente é a de que o referido julgado anterior do mesmo Tribunal ainda não teria transitado em julgado, sendo, portanto, alegação que envolve matéria fático-probatória, cuja revisão esbarra no óbice da Súmula 7 do STJ. Apenas revendo o processo anterior (ou seja, prova) seria possível acolher a pretensão do Estado da Bahia, pelo que se emprega ao caso o referido verbete sumula r
+Ante o exposto, CONHEÇO DO AGRAVO para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor do Estado da Bahia, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
