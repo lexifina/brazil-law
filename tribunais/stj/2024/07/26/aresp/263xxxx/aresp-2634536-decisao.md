@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por OSMAR DA SILVA DUTRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. SINDSPREV/RJ. REPRESENTAÇÃO DOS SERVIDORES DA PREVIDÊNCIA SOCIAL. VINCULO AO MINISTÉRIO DA SAÚDE. UNICIDADE SINDICAL. ILEGITIMIDADE ATIVA AD CAUSAM. EXTINÇÃO DO PROCESSO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 16 da Lei n. 7.347/1985; e 502 do CPC, no que concerne à inobservância da eficácia preclusiva da coisa julgada na hipótese em que é retomada, na fase de execução, a discussão a respeito da abrangência da representatividade sindical da SINDSPREV , trazendo a seguinte argumentação:
+O acórdão suscitou questão relativa à ilegitimidade do SINDSPREV para representar o grupo de trabalhadores a que o exequente pertence, com base em entendimento recente quanto à abrangência da representatividade sindical de servidores públicos federais.
+Contudo, cumpre destacar que alegada ausência de condição da ação não foi motivo de questionamentos no processo cognitivo que formou o título executivo coletivo (processo nº 0012042-29.2011.4.02.5101 que tramitou perante a 07ª Vara Federal da Seção Judiciária do Rio de Janeiro).
+ ..
+Ademais, a r. sentença também é clara ao estabelecer que o titulo executivo alcança todos os servidores inativos e pensionistas das respectivas carreiras que possuíam direito à paridade com os servidores ativos:
+ ..
+Supracitada sentença procedente foi mantida pelo Tribunal, que não apontou qualquer irregularidade no que tange a legitimidade do Sindicato:
+ ..
+Diante do acordão proferido nos autos originários, denota-se que foi mantida a procedência da demanda, não havendo qualquer manifestação quanto à ilegitimidade do sindicato para representar certa categoria de servidores, ocorrendo o trânsito em julgado em 09/11/2015.
+ ..
+No caso em tela, houve sentença com trânsito em julgado (fato que lhe confere imutabilidade), não havendo justificativa plausível que autorize nesta fase executória a apreciação de matérias já superadas.
+Observados os termos da decisão proferida na Ação Coletiva, não houve discussão quanto a representatividade sindical, ou seja, não há que se falar em ilegitimidade nesta fase de cumprimento de sentença, sob pena de ofensa a coisa julgada.
+Ora, ainda que se verifique eventual nulidade processual ocorrida em fase de conhecimento, a preclusão impede que sejam alegadas novas questões em fase de cumprimento de sentença.
+ ..
+No que tange aos posicionamentos indicados como fundamento na sentença de extinção, insta mencionar que o entendimento do STJ proferido em Mandado de Segurança, foi especifico para o caso sob discussão naquela demanda, onde a entidade sindical em primeira instância homologou acordo constando a representação de certo grupo de trabalhadores.
+Ademais, cumpre ressaltar que o titulo executivo se formou em ação anterior ao julgado do Supremo Tribunal Federal citado pelo julgador "a quo" e a superveniente mudança de posicionamento sobre a abrangência da legitimidade do SINDSPREV/RJ, não tem o condão de alterar o parâmetro definido no processo de conhecimento, sob pena, frise-se, de afronta ao instituto da coisa julgada material.
+ ..
+Desta feita, não se mostra razoável e ofende a coisa julgada discutir em sede de cumprimento de sentença questões preclusas já definidas através do processo de conhecimento (fls. 129-134).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Em análise mais aprofundada sobre o tema, reconheço que, embora o SINDSPREV/RJ tenha pretendido na ação coletiva ampliar o número de substituídos, de acordo com o Tema de Repercussão Geral nº 823, o titulo só alcança as pessoas da categoria dos trabalhadores da Previdência Social, que é representada pelo Sindicato, de acordo com seu cadastro perante o Ministério do Trabalho e Emprego (fl. 65).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/7/2020; REsp 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; e AgRg no AREsp 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
