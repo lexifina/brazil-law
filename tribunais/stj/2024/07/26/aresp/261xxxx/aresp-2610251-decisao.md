@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fls. 396/397):
+ACIDENTE DO TRABALHO - AUXÍLIO-ACIDENTE - Lesões em membro inferior esquerdo - Exercício da função de datilógrafo/digitador -Procedência.
+APELAÇÃO DO INSS - Extinção do processo em razão da coisa julgada - Improcedência com fundamento na ausência de incapacidade para a função habitual - Termo inicial - Efeitos financeiros da condenação.
+COISA JULGADA - Afastada - Ausência de identidade de ações - Demanda anterior continha pedido diverso.
+AUXÍLIO-ACIDENTE - Perícia judicial em que foi constatada incapacidade laborativa parcial e permanente - Laudo bem fundamentado - Nexo causal - Acidente de trajeto equiparado por lei a acidente do trabalho típico -Requisitos do artigo 86 daLei nº 8.213/91 devidamente cumpridos - Indenização infortunística devida - Procedência mantida.
+TERMO INICIAL DO BENEFÍCIO - Auxílio-acidente que é devido a partir do dia seguinte ao da cessação do auxílio-doença - Aplicação da tese definida peloSuperior Tribunal de Justiça no julgamento do Tema 862: "O termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei 8.213/91, observando-se a prescrição quinquenal da Súmula 85/STJ."
+ ..
+REMESSA NECESSÁRIA E APELAÇÃO DA AUTARQUIAPROVIDAS EM PARTE.
+Embargos de declaração rejeitados (e-STJ fls. 413/415).
+No recurso especial obstaculizado, o recorrente apontou afronta ao art. 337, § 3º, do CPC/2015, alegando que o acórdão recorrido merece ser reformado, porquanto estaria configurada a tríplice identidade entre as ações, devendo se reconhecida a ocorrência de coisa julgada.
+Segundo aduziu, "A parte autora ingressou, em 01/12/2021, com ação perante o JEF pleiteando a concessão de benefício - auxílio-doença - em razão de lesão no membro inferior esquerdo decorrente de acidente sofrido em 07/11/2005" (e-STJ fl. 429).
+Contrarrazões às e-STJ fls. 442/448.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Mediante análise dos autos, verifico que a inadmissão do especial deu-se com base na incidência da Súmula 7 do STJ. Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial, relativa à existência de ofensa à coisa julgada, não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+No caso concreto, o acórdão recorrido se pronunciou acerca da controvérsia, concluindo que a pretensão autoral postulada nestes autos diferencia-se da demanda anterior por apresentar pedido diverso, como se lê (e-STJ fl. 398):
+De proêmio, vale lembrar que, para a verificação da coisa julgada, é necessário que se repita demanda já transitada em julgado, com identidade de partes, pedido e causa de pedir, nos termos do artigo 337, §3º, do Código deProcesso Civil.
+Com efeito, é importante observar que na ação anterior (nº0116883-85.2021.4.03.6301), o autor formulou pedido para concessão de auxílio-doença, para salvaguardar sua subsistência no período no qual ficou impedido de trabalhar, em razão de procedimento cirúrgico realizado em 09 de agosto de2021 (fls. 207).
+Ao passo que nesta demanda, o pedido cingiu-se à concessão de auxílio-acidente, em razão de moléstias incapacitantes decorrentes do acidente de trabalho sofrido em 07 de novembro de 2005.
+Desta forma, como se vê, os pedidos elaborados em ambas as demandas não são idênticos, de molde que não cabe o reconhecimento da coisa julgada. (Grifos no original).
+Assim, o conhecimento do recurso especial a fim de modificar a conclusão do Tribunal de origem, especialmente no tocante à identidade de pedido na ação anterior em cotejo com a demanda atual, demandaria o reexame fático-probatório dos autos, o que é inviável em sede de recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO COLETIVA DE TÍTULO EXECUTIVO JUDICIAL. DESMEMBRAMENTO DETERMINADO PELO JUÍZO DA EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. COISA JULGADA. APELO NOBRE QUE NÃO IMPUGNOU O FUNDAMENTO DO ACÓRDÃO RECORRIDO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "Consoante pacífica jurisprudência desta Corte, "em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento. Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe 18.6.2019)" (AgInt no REsp n. 1.957.753/DF, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/3/2022).
+2. É inviável o conhecimento do recurso especial que não ataca especificamente o fundamento adotado no acórdão recorrido.
+Incidência da Súmula 283/STF.
+3. "Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial"." (AgInt no REsp 1.861.500/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021). Nesse mesmo sentido: AgInt no AREsp 1.170.224/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 14/9/2020.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.990.498/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)  Grifos acrescidos .
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositiv o legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
