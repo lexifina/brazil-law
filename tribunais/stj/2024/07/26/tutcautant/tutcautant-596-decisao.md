@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado por Walfrido Rodrigues, que visa a atribuição de efeito suspensivo a recurso especial, segundo afirma, ainda pendente de exame (juízo de admissibilidade) na origem.
+Alega, em síntese, que restou vencido em ação de rescisão contratual c/c reintegração de posse e perdas e danos e, recentemente, foi determinada a expedição de mandado de reintegração de posse.
+Sustenta presente o periculum in mora, pois, "consoante se infere do mandado de reintegração em anexo, o tribunal de origem (TJmS), já determinou ao arrepio da legislação, seja imediatamente reintegrado na posse a recorrida, o que pode trazer danos de grande monta ao recorrentes, que possuem muitas reses em pastejo, funcionários morando com suas famílias nas casas de caseiro, criação domesticas, plantações hortifrutigranjeiros etc  ..  principalmente no que tange ao direito de retenção das benfeitorias".
+Pontua, por outro lado, que "o fumus boni juris está presente pela probabilidade de admissibilidade e provimento do recurso especial, mormente fundamentado em legislação que norteia a espécie, que foi frontalmente contrariado pelo acórdão ora guerreado".
+O pedido final é que seja concedido o "efeito suspensivo ao presente recurso, na forma do art. 1.109, inciso I, do CPC, considerando a presença do periculum in mora e o fumus boni iuris, para diante das ilegalidades apresentadas, (decisão teratológica e contraria a jurisprudência do STJ), suspenda os efeitos do acordão ora guerreado até o julgamento do recurso especial já interposto, impedindo a reintegração de posse da recorrida Associação no imóvel objeto da lide".
+É o relatório.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo tribunal de origem.
+O STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020).
+No caso, ao que se tem, não ocorreu, ainda, o juízo de admissibilidade do recurso especial interposto, motivo pelo qual, conforme preceituam as súmulas mencionadas do STF, não é competente o STJ para processar o pedido de tutela provisória.
+Em que pese o esforço empreendido pela requerente para demonstrar hipótese que autorize o conhecimento do pedido, fato é que não transparece presente qualquer excepcionalidade.
+De mais a mais , conquanto afirme já ter interposto o apelo nobre na origem, não há sua demonstração nos autos. Inclusive, consulta, nesta data, ao andamento processual no sítio da internet do TJMS (https://esaj.tjms.jus.br/cposg5/show.do processo.codigo=P0000O84D0000) não mostra qualquer registro relativo à existência do afirmado recurso especial.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, indefiro o pedido.
+Publique-se.
+Intimem-se.
+ EMENTA
