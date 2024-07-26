@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICIPIO DE EMBU DAS ARTES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CONTRATOADMINISTRATIVO. Pacto envolvendo a Sabesp e o Município de Embu das Artes para prestação de serviços públicos de abastecimento de água e de esgotamento sanitário. Suposta má qualidade dos serviços de reaterro. Recalques nos pavimentos e recorrência de buracos nas vias e nos passeios. Autora que, instada a especificar provas, requereu o julgamento antecipado. Questão que é nitidamente técnica, e não de direito. Falta de provas. Art. 373, I do CPC. Sentença de improcedência mantida. Apelo conhecido e não provido.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art 489, §1º, III e IV do CPC, no que concerne ao não enfrentamento, pelo Tribunal a quo, de argumentos que, em tese, poderiam infirmar a decisão recorrida. Argumenta:
+Primeiro: O juiz diz que a prova autoral foi feita de forma unilateral. Tendo sido realizado o contraditório, a parte ré não se manifestou. Mesmo assim, o juiz considerou que a prova "unilateral" é inválida (simplesmente por ser unilateral, embora submetida ao contraditório).
+ ..
+Segundo: De acordo com o julgador, "A prova pericial produzida em Juízo era essencial para o desenlace do litígio, pois do contrário se admitiria condenar a ré baseando-se somente em documentos produzidos pela autora."
+ ..
+E ao dizer que a prova era essencial ao deslinde do feito, ele admitiu ter realizado julgamento sem as provas necessárias ao seu livre convencimento.
+Terceiro: o juiz diz que: "Às fls. 1.374/1.376, a Sabesp demonstrou estar tomando providências para as correções necessárias, o que não foi refutado pela parte autora em sua manifestação de fls. 1383."
+É completamente equivocada a afirmação, pois às fls. 1383, o Município deixa certo que o conteúdo do documento apresentado é inútil a desconstituir o quanto alegado pelo Município.
+Ademais, se a Sabesp afirma estar adotando providências, é justamente porque o Município tinha razão em suas afirmações.
+ ..
+Quarto: O juiz afirma em sua sentença que "a ré expôs em contestação, que, de fato, os serviços não foram prestados adequadamente ente junho e julho de 2021, porém reconheceu o problema e anotou que estava sendo sanado".
+Ou seja, a confissão é patente, foi demonstrada pelo juízo e desconsiderada até mesmo pelo tribunal, no acórdão de fls. 1422-1427, do qual ora se recorre (fls. 1.445-1.446).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 85, §§ 3º e 11, do CPC, no que concerne à impossibilidade da fixação dos honorários por apreciação equitativa, pois, com a vigência do novo CPC, incabível face à Fazenda Pública, devendo ser observado o arbimento por percentual. Aduz:
+Ocorre que a partir de 17/03/2016, com a vigência da nova lei, a estimativa de honorários por equidade passou a não mais ser cabível em face da Fazenda Pública, embora tenha sido esse o parâmetro utilizado na sentença de primeiro grau, proferida em 30/03/2016.
+ ..
+Data maxima venia, além de desconsiderar o fato de que os honorários não poderiam ter sido aplicados por equidade em face da Fazenda Pública, o valor fixado pelo acórdão supera o limite previsto pelo §3º, para a fase de conhecimento, superando, inclusive, o próprio valor da causa, que seria sua base de cálculo (fls. 1.450-1.452).
+É, no essencial, o relatório. Decido.
+Quanto à primeira e à segunda controvérsias, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
