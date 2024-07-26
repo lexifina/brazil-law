@@ -1,0 +1,63 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGADA AUSÊNCIA DE INTERESSE DA UNIÃO NA ESPÉCIE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS NS. 284 E 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+
+    “COMPETÊNCIA - Ação originária versando sobre posse de margem de rodovia - Município de Miracatu - Rodovia Federal (BR-116) explorada mediante contrato de concessão firmado com a União e a Agência Nacional de Transportes Terrestres (ANM - Competência da Justiça Federal, conforme artigo 109, inciso I, da Constituição Federal - Inexistência de competência delegada no caso, por força do Provimento CJF-3R nº 387, de 05/06/2013 - Incompetência absoluta da Justiça Estadual a ser reconhecida de oficio - Sentença anulada, com determinação de remessa dos autos à Justiça Federal” (fl. 2, e-doc. 26).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 32).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o inc. I do art. 109 da Constituição da República. Argumenta que “inexistir qualquer manifestação de interesse no feito por parte da União Federal e demais entidades elencadas no aludido dispositivo constitucional” (fl. 4, e-doc. 41).
+
+    Afirma que “a jurisprudência deste E. STF já decidiu que ‘a mera alegação de existência de interesse de um dos entes enumerados no art. 109, I, da Constituição Federal não enseja o deslocamento da competência para a justiça Federal’, evidenciando, pois, a contrariedade do acórdão recorrido com o disposto no aludido dispositivo constitucional aventado” (fl. 5, e-doc. 41).
+
+    3. O recurso extraordinário foi inadmitido pela ausência de ofensa constitucional direta e pela incidência da Súmula n. 279 do Supremo Tribunal Federal (e-doc. 48).
+
+    4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, a agravante sustenta que “a natureza de direito privado da ora agravante, cumulada com a completa ausência de indícios apontando interesse da União no feito, escancaram a necessidade de trâmite da ação perante a Justiça Estadual” (fl. 5, e-doc. 53).
+
+    Salienta que “não se verifica a incidência da Súmula 279 do Pretório Excelso para inadmissão do reclamo interposto” (fl. 5, e-doc. 53).
+
+    Pede “seja o presente agravo conhecido e provido para ascensão do recurso extraordinário interposto (art. 1.042 do CPC), e, consequentemente, provimento do excepcional pelo STF” (fl. 5, e-doc. 53).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    5. Razão jurídica não assiste à agravante.
+
+    6. O Tribunal de origem assentou:
+
+    “A ação originária versa sobre reintegração de posse de imóvel ocupado e construído dentro da faixa de domínio de rodovia federal BR-116, no Município de Miracatu, explorada pela autora mediante contrato de concessão firmado com a União e a Agência Nacional de Transportes Terrestres - ANTT. Dispõe o artigo 109, inciso I, da Constituição Federal: (...) Esta ação foi distribuída à Comarca de Miracatu em 19/12/2013. Ocorre que o Provimento CJF-3R nº 387, de 05/06/2013, resolveu o seguinte: (...) Quando do ajuizamento desta ação inexistia competência delegada da Justiça Estadual para o processamento do feito. Considerando que a lide versa sobre reintegração de posse de imóvel situado no Município de Miracatu, à margem de Rodovia BR-116, um bem público da União, é de rigor o reconhecimento da incompetência absoluta da Justiça Estadual para o processamento do feito, nos termos do artigo 109, inciso I, da Constituição Federal, e do Provimento CJF-3R nº 387/2013. Matéria cognoscível de oficio. Nesse sentido, já decidiu este Tribunal: (...) Assim sendo, reconhecida a incompetência absoluta da Justiça Estadual, voto pela anulação da sentença determinando a remessa dos autos à subseção da Eg. Justiça Federal com jurisdição no Município o de Registro, com as homenagens de estilo” (fls. 2-5, e-doc. 26).
+
+    7. A agravante restringiu-se a afirmar que ”não há falar em incidência das hipóteses de competência reservadas à Justiça Federal, porquanto não se trata das pessoas indicadas pelo respectivo dispositivo, bem como não há manifestação de interesse da União ou das referidas entidades nos autos, tampouco se afigura ser o juízo estadual absolutamente incompetente para julgar o recurso interposto na origem” (fl. 6, e-doc. 41).
+
+    É de se anotar a ausência de impugnação, de forma específica, dos fundamentos do acórdão recorrido no qual assentou-se incidir o disposto no Provimento CJ-3R n. 387, de 5.6.2013 e que, na espécie, “quando do ajuizamento desta ação inexistia competência delegada da Justiça Estadual para o processamento do feito” (fl. 3, e-doc. 26).
+
+    Este Supremo Tribunal assentou ser deficiente a argumentação veiculada em recurso no qual não se impugnam os fundamentos do acórdão recorrido. Incide, na espécie vertente, a Súmula n. 284 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. FUNDAMENTAÇÃO DEFICIENTE: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECLUSÃO: IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.315.270-AgR, de minha relatoria, Segunda Turma, DJe 9.8.2021).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. RAZÕES DISSOCIADAS DO ACÓRDÃO DE ORIGEM. ENUNCIADO 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. 1. O recurso extraordinário é inadmissível quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia, ex vi do enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes: ARE 1.185.152-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 29/05/2019; ARE 707.173AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 23/04/2015; ARE 822.208-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 10/12/2014. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.344.725-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 2.3.2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. ARGUMENTAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO E DA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). RAZÕES DO APELO EXTREMO DISSOCIADAS DO QUE FOI DECIDIDO NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2º, do Código de Processo Civil/2015. II O Supremo Tribunal Federal, ao julgar o ARE 748.371-RG/MT (Tema 660), de relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente à suposta ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais, por não configurar situação de ofensa direta à Carta Magna. III Nos termos da Súmula 284/STF, é inadmissível o recurso extraordinário quando as razões recursais estão dissociadas dos fundamentos do acórdão recorrido. IV Agravo regimental a que se nega provimento” (ARE n. 1.343.378-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 4.11.2021).
+
+    8. Rever o entendimento adotado pelo Tribunal de origem demandaria reexame da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Confiram-se, por exemplo, os julgados a seguir:
+
+    “Direito administrativo. Agravo interno em recurso extraordinário com agravo. Acesso às praias de Município. Interesse da União. Competência da Justiça Federal. Reexame do conjunto fático-probatório dos autos. Incidência da Súmula nº 279. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento a agravo de instrumento. 2. Hipótese em que, para dissentir do entendimento firmado pelo órgão judiciário de origem, seria necessário reexaminar fatos e provas constantes dos autos, procedimento vedado neste momento processual (Súmulas nº 279/STF). 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015” (ARE n. 1.467.026-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 29.2.2024).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 08.10.2022. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. CONSTRUÇÃO IRREGULAR. CERCEAMENTO DE DEFESA. AUSÊNCIA DE MANIFESTAÇÃO DE INTERESSE DA UNIÃO. ALEGAÇÃO DE QUE SE TRATA DE TERRENO DA MARINHA. COMPETÊNCIA DA JUSTIÇA FEDERAL NÃO CONFIGURADA. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. SÚMULAS 279 E 280 DO STF. PRECEDENTES. 1. O Tribunal de origem, com apoio nas provas e nos fatos dos autos, concluiu pela ausência de interesse da União no feito. 2. É firme o entendimento do Supremo Tribunal Federal no sentido de que a mera alegação de existência de interesse de um dos entes enumerados no art. 109, I, da Constituição, não é suficiente para promover o deslocamento da competência para a Justiça Federal. 3. Eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto à questão da competência e da indenização por danos ambientais, demandaria o reexame de fatos e provas e a análise da legislação infraconstitucional (Lei Complementar nº 11/2011, Lei nº 7.661/88 e Decreto Municipal nº 8.427/89), o que inviabiliza o processamento do apelo extremo. Incidência das Súmulas 279 e 280 do STF. 4. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC, por se tratar de recurso oriundo de ação civil pública” (ARE n. 1.389.087-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 5.9.2023).
+
+    “Agravo regimental no Agravo de Instrumento. Direito Processual Civil. Prequestionamento. Ausência. Alegação de existência de interesse da União. Competência. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. É inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. In casu, a análise quanto à alegação de existência de interesse da União não prescinde do reexame conjunto fático-probatório constante dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido” (AI n. 868.583-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 19.9.2022).
+
+    9. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 26 de julho de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
