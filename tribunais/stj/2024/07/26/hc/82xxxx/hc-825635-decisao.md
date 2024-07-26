@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Renan Rodrigues Pereira, em que se aponta como autoridade coatora o Tribunal de Justiça do Ceará.
+Consta que o paciente foi condenado a 21 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, I e IV, do Código Penal (fls. 39/42 - Processo desaforado n. 0014766-76.2013.8.06.0158, oriundo da 1ª Vara da comarca de Russas/CE, distribuído à 5ª Vara do Júri da comarca de Fortaleza/CE).
+A Corte estadual, em 24/3/2021, conheceu parcialmente do apelo defensivo, negando-lhe provimento nessa parte (fls. 43/67).
+O ora paciente interpôs recurso especial, após ser inadmitido na origem, também não teve sucesso nesta Casa o AREsp n. 2.166.070/CE, que adveio. O acórdão do agravo regimental transitou em julgado no dia 28/3/2023.
+Na sequência sobreveio o presente writ, no qual se requer a concessão da ordem para reconhecer a nulidade deste processo desde a decisão de pronúncia, vez que lastreada apenas em elementos do inquérito e em testemunhos indiretos. Subsidiariamente, busca-se seja reconhecida a nulidade do acórdão que julgou a apelação, porque se fundamentou exclusivamente em depoimentos indiretos, determinando-se nova submissão do paciente a júri popular, por manifesta contrariedade à prova dos autos (fl. 23).
+Aduz-se que a pronúncia do paciente está fundamentada em provas emprestadas do Processo n. 0384509-91.2010.8.06.0001, contudo esses elementos tratam exclusivamente de testemunhos de ouvir dizer, em informações de terceiros, em boatos que circulavam na comunidade à época dos fatos, já que nenhum dos depoentes presenciou o crime.
+Sustenta-se, ainda, a presença de ilegalidade ocorrida posteriormente à pronúncia, qual seja a manutenção de sentença condenatória, com lastro unicamente em testemunhos indiretos, o que também é considerado inaceitável por esta Corte (fl. 19).
+Estes autos foram a mim distribuídos por prevenção.
+Processado o feito sem pedido liminar, as informações do Juízo de primeiro grau foram juntadas às fls. 78/79.
+Ouvido, o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 83/88).
+Os autos originários foram baixados ao Juízo de primeiro grau em 8/5/2023 (fl. 79). E o PEC n. 0013594-12.2018.8.06.0001 foi encaminhado à 3ª Vara de Execução Penal.
+É o relatório.
+Registro que este habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Ademais, como bem anotou o Subprocurador-Geral da República em exercício Flávio Paixão de Moura Júnior, a tese defendida nesta impetração não foi submetida ao Tribunal de origem, motivo por que não pode ser analisada por essa Corte Superior sob pena de indevida supressão de instância (fl. 87).
+Sem contar que a defesa pecou na instrução deste feito, pois deixou de trazer aos autos cópia da prova emprestada do Processo n. 0384509-91.2010.8.06.0001.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados, inclusive porque a via escolhida não permite reexame aprofundado do conjunto fático-probatório da ação penal, e o acórdão da apelação encontra respaldo na jurisprudência do STJ.
+Pelo que foi possível observar, não há evidência de ilegalidade nos fundamentos consignados no acórdão ora combatido que confirmou a condenação do ora paciente.
+Ao que parece, o quadro fático delineado pelo Tribunal de origem demonstra, em razão de sua especificidade, que o testemunho indireto não poderia ser desconsiderado, sobretudo diante da dinâmica do crime em que o paciente é apontado como autor intelectual e não como executor da conduta. Além disso, também há outra excepcionalidade indicada pela instância antecedente, qual seja, o temor e a apreensão das testemunhas nos depoimentos prestados, circunstância que, como já tive a oportunidade de decidir, torna possível o reconhecimento do testemunho indireto (AgRg no HC n. 810.692/RJ, de minha relatoria, Sexta Turma, DJe 14/9/2023).
+Por essas razões, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE. JÚRI. HOMICÍDIO QUALIFICADO. AUTORIA DELITIVA BASEADA EM TESTEMUNHOS INDIRETOS. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. INEVIDÊNCIA DE FLAGRANTE ILEGALIDADE. PARECER ACOLHIDO.
+Writ não conhecido.
