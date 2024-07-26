@@ -1,0 +1,1 @@
+Prorroga, até 31 de dezembro de 2025, a vigência do Plano Nacional de Educação, aprovado por meio da Lei nº 13.005, de 25 de junho de 2014.
