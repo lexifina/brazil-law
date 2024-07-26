@@ -1,0 +1,1 @@
+Art. 12. Até o final do primeiro semestre do nono ano de vigência deste PNE, o Poder Executivo encaminhará ao Congresso Nacional, sem prejuízo das prerrogativas deste Poder, o projeto de lei referente ao Plano Nacional de Educação a vigorar no período subsequente, que incluirá diagnóstico, diretrizes, metas e estratégias para o próximo decênio.
