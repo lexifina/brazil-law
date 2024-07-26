@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICIPIO DE DIADEMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CUMPRIMENTO DE SENTENÇA - DESAPROPRIAÇÃO INDIRETA - MORATÓRIA - INCIDÊNCIA DE JUROS COMPENSATÓRIOS DIANTE DO ATRASO NAS PARCELAS - PRECEDENTE DESTA CÂMARA - JUROS MORATÓRIOS - IMPUGNAÇÃO VAGA, SEM CONTESTAR OS CÁLCULOS HOMOLOGADOS - SENTENÇA EXTINTIVA MANTIDA - APELAÇÃO NÃO PROVIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 394, 395 e 396 do Código Civil e do art. 917 do CPC, no que concerne à necessidade, in casu, de que o cálculo dos juros que incidem sobre o valor do precatório seja realizado de acordo com o art. 78 do ADCT, trazendo a seguinte argumentação:
+Como se sabe os juros compensatórios e moratórios devem ser interrompidos em 13/09/00, data de promulgação da Emenda Constitucional no 30, que inseriu o art. 78 no Ato das Disposições Constitucionais Transitórias, cujo caput tem a seguinte redação:
+ ..
+Também, em 13/09/00, o valor do saldo do precatório deve ser dividido por dez e cada uma dessas dez parcelas de 1/10 terá uma data de vencimento, distante 365 dias uma da outra, sempre em 31 de dezembro de cada ano.
+Estes critérios de cálculo (divisão do saldo do precatório por dez parcelas com interrupção de juros compensatórios e moratórios) estão explicitados nó item 7 da própria Ordem de Serviço no 3/2010 da Coordenadoria de Precatórios do TJSP, abaixo transcrito (grifos nossos):
+ ..
+Ora, os juros legais (mencionados, expressamente no caput do art. 78 do ADCT), que incidem a partir do vencimento da parcela .anual da moratória, quando esta não é quitada, são apenas os juros de mora de 0,5% ao mês (6% ao ano.), mas não os juros compensatórios , que devem ser excluídos.
+Conforme entendimento jurisprudencial pacificado no Supremo Tribunal Federal, no julgamento do RE 590.751-SP, no período da moratória de dez anos, prevista no art. 78 do ADCT (EC 30/2000), devem ser interrompidos os juros moratórios e os juros compensatórios; após o vencimento de cada uma das dez parcelas anuais, em relação às parcelas que não tiverem sido quitadas, voltam a fluir apenas os juros moratórios a partir do dia seguinte ao vencimento de cada parcela, mas não os duros compensatórios.
+ ..
+Vários acórdãos do STF dizem expressamente que NÃO PODEM INCIDIR mais os furos compensatórios depois de iniciada a moratória, mesmo que o pagamento das parcelas anuais da moratória não seja efetuado dentro do vencimento, como se vê a título de exemplo:
+ ..
+Essa jurisprudência, proveniente do STF no julgamento de recursos repetitivos, e do órgão Especial do TJSP, possui força vinculante em razão da disposição legal contida no art. 927 do CPC: (fls. 1319-1325).
+ ..  os juros compensatórios em continuação só devem incidir até a data de início da moratória (01/07/2005), entretanto foram contabilizados pelo DEPRE até 09/12/2009.
+o dia 09/12/20 09 é a data de promulgação da Emenda - Constitucional 62, que instituiu um novo regime de pagamento de precatório cujo regramento consta no artigo 97 do ADCT, em cujo § 6 0 está dito expressamente que fica excluída a incidência de juros compensatórios na data de promulgação da referida EC 62/2009.
+Porém o dia 09/12/2009 é a data de interrupção dos juros compensatórios apenas relativamente aos precatórios cujas respectivas ações tenham sido ajuizadas a partir de 01/01/2000 , o que não é o caso da presente ação, que foi ajuizada em 1998 , e, portanto , submetido ao artigo 78 do ADCT , de modo que a interrupção dos juros compensatórios se dá no início da moratória em 01 / 07/2005.
+Com relação aos juros moratórios, a incidência deve ser restrita ao período de" atraso, sempre com início no dia 31 de dezembro de cada ano entre 2006 (vencimento ia parcela) e 2015 (vencimento da loa parcela) e o dia do pagamento, 30/06/2021. (fls. 1326-1327).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal.
+Com efeito, o Superior Tribunal de Justiça já decidiu no seguinte sentido: "Finalmente, ressalto que, apesar de ter sido invocado dispositivo legal, o fundamento central da matéria objeto da controvérsia e as teses levantadas pelos recorrentes são de cunho eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF". (REsp 1.655.968/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2/5/2017.)
+No mesmo sentido: AgInt no AREsp 1.448.670/AP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 12/12/2019; AgInt no AREsp 996.110/MA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/5/2017; AgRg no REsp 1.263.285/RJ, relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 13/9/2012; AgRg no REsp 1.303.869/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/8/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
