@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO SERGIO HACK, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fls. 150/151):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECLAMAÇÃO. INDEFERIMENTO LIMINAR. AGRAVO INTERNO. AUSÊNCIA DE ORDEM DE SUSPENSÃO DOS PROCESSOS PARALELOS ANTERIORMENTE À PROLAÇÃO DO ACÓRDÃO PROFERIDO NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA Nº 9 (PROCESSO Nº 5050013-65.2020.4.04.0000/RS). CARÁTER RECURSAL. INADMISSIBILIDADE DA RECLAMAÇÃO.
+1. Agravo interno interposto contra decisão que inadmitiu a reclamação proposta com o objetivo de garantir a autoridade da decisão proferida no Incidente de Assunção de Competência nº 9 (processo nº 5050013-65.2020.4.04.0000/RS) em face de julgamento de agravo de instrumento que manteve a decisão interlocutória que reduziu de ofício o valor da causa originária para, então, declinar da competência da Justiça Comum para o Juizado Especial Federal.
+2. Sendo o acórdão reclamado anterior ao julgamento do Incidente de Assunção de Competência nº 9, no qual não houve determinação de suspensão pelo Relator originário dos processos paralelos que discutiam a matéria, inexistia precedente proferido em incidente de assunção de competência ao qual se devesse observância quando julgado o agravo de instrumento.
+3. Outrossim, verifica-se que o acórdão reclamado foi atacado por recurso especial e, posteriormente, por agravo em recurso especial. Ou seja, houve recurso para discutir a mesma matéria que deu origem à presente reclamação. Nessa hipótese, o Superior Tribunal de Justiça tem vedado reclamações, já que caracterizada, de modo inequívoco, a tentativa de atribuir à ação caráter recursal.
+4. Agravo interno a que se nega provimento em face da inadmissibilidade da reclamação.
+Em suas razões, a parte recorrente aponta violação dos arts. 985, § 1º, e 988, IV, do CPC/2015, defendendo o cabimento de reclamação contra decisão proferida antes da fixação de tese em Incidente de Assunção de Competência - IAC, mesmo sem determinação de suspensão dos processos que discutem a matéria.
+Argumenta, em síntese, que "o problema está, exatamente, no fato de o tribunal não suspender os processos e, ao mesmo tempo, não esperar o julgamento do IAC" em matéria relativa a critério de competência dos Juizados Especiais Federais, que tem natureza absoluta (e-STJ fl. 214).
+Sem contrarrazões (e-STJ. fl. 177). Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 180/181.
+Passo a decidir.
+A pretensão recursal não pode ser conhecida, pois não foram impugnados todos os fundamentos do acórdão recorrido, os quais destaco
+(i) não houve determinação de suspensão de processos semelhantes pelo relator do IAC;
+(ii) a avaliação quanto à conveniência de se suspender o processo subjacente para aguardar julgamento do IAC incumbiria ao juízo da causa;
+(iii) quando julgado o agravo de instrumento (em 11/10/2022), não havia precedente proferido em incidente de assunção de competência ao qual se devesse observância;
+(iv) a reclamação não é meio substitutivo dos recursos cabíveis para impugnar as decisões. Para se admitir a reclamação, era necessário que houvesse um precedente vinculante no âmbito da 3ª Seção ou dos tribunais superiores ou uma ordem expressa de suspensão dos processos a impedir que tivesse sido proferido o julgamento reclamado, o que não ocorreu; e
+(v) o acórdão reclamado foi atacado por recurso especial e, posteriormente, por agravo em recurso especial. Ou seja, houve recurso para discutir a mesma matéria que deu origem à reclamação.
+A propósito, veja-se o teor do julgado recorrido (e-STJ fls. 148/149):
+A presente reclamação não se enquadra em quaisquer desses casos do art. 988 do CPC.
+Isso porque, no âmbito do Incidente de Assunção de Competência nº 5050013-65.2020.4.04.0000, não houve determinação pelo Relator originário de suspensão dos processos que discutem a matéria afetada.
+Desse modo, a avaliação quanto à conveniência de se suspender o processo subjacente para aguardar julgamento do IAC incumbiria ao juízo da causa, já que ausente qualquer determinação geral que pudesse ser imposta àquele juízo nesta via da reclamação.
+O julgamento reclamado, por sua vez, é anterior ao julgamento do Incidente de Assunção de Competência nº 5050013-65.2020.4.04.0000/RS, realizado em 22-02-2023.
+Ou seja, quando julgado o agravo de instrumento (em 11-1 0-2022), não havia precedente proferido em incidente de assunção de competência ao qual se devesse observância.
+Ressalta-se que a reclamação não é meio substitutivo dos recursos cabíveis para impugnaras decisões. Para se admitir a reclamação, era necessário que houvesse um precedente vinculante no âmbito da 3ª Seção ou dos tribunais superiores ou uma ordem expressa de suspensão dos processos a impedir que tivesse sido proferido o julgamento ora reclamado.
+Na ausência de tais situações, não é cabível a reclamação.
+ ..
+De mais a mais, compulsando os autos do processo originário, verifica-se que o acórdão reclamado efetivamente foi atacado por recurso especial e, posteriormente, por agravo em recurso especial. Ou seja, houve recurso para discutir a mesma matéria que deu origem à presente reclamação. Nessa hipótese, o Superior Tribunal de Justiça tem vedado reclamações, já que caracterizada, de modo inequívoco, a tentativa de atribuir à ação caráter recursal (AgInt na Rcl n.35.025/RS, Relator Ministro Jorge Mussi, Terceira Seção, julgado em 22/5/2019, DJe de 5/6/2019). (Grifos no original).
+Por sua vez, o recurso especial limitou-se a defender o cabimento de reclamação contra tese fixada em IAC, bem como a apontar a natureza absoluta da nulidade sobre a competência dos Juizados Especiais Federais, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada atrai o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
