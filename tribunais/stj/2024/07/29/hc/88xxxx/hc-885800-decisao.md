@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODRIGO PIVA VERONESI, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O paciente foi condenado à pena de 1 (um) ano de prisão, em regime inicial aberto, e ao pagamento de 10 (dez) dias-multa, pelo delito de receptação, previsto no Código Penal; tendo a pena corporal sido substituída por uma pena restritiva de direitos, consistente em prestação de serviços à comunidade pelo mesmo prazo da pena privativa de liberdade.
+Consta dos autos que a impetrante interpôs habeas corpus perante o tribunal de origem, contra a decisão que indeferiu o pedido de indulto formulado pelo paciente, com base no Decreto n. 11.302/22.
+A liminar foi indeferida pelo Desembargador plantonista.
+Na sequência, foi prolatado acórdão da Corte estadual que não conheceu do habeas corpus.
+Impetrado habeas corpus neste STJ - HC nº 855945 (conexo a este feito ora em análise) - o Ministro relator concedeu a ordem, para afastar o fundamento da Corte de origem, de que a via eleita seria inadequada, determinando que fossem apreciadas as questões suscitadas.
+Na nova apreciação, a Corte a quo denegou a ordem, em acórdão assim ementado (fl.16):
+EMENTA: HABEAS CORPUS - EXECUÇÃO PENAL -CONHECIMENTO DO WRIT POR DETERMINAÇÃO DO STJ - AFASTAMENTO DA INCONSTITUCIONALIDADE DO INDULTO NATALINO -INVIABILIDADE - CONSTRANGIMENTO ILEGAL NÃO CONSTATADO - ORDEM DENEGADA. -Considerando a determinação dada pelo Colendo Superior Tribunal de Justiça, deve ser conhecido o presente writ, para que seja analisado o mérito do remédio constitucional, afastando-se, assim, decisão anterior proferida por esta Turma julgadora que, por unanimidade, não conheceu do habeas corpus. -Não é ilegal a decisão do juízo primevo que reconheceu a inconstitucionalidade do Decreto Lei nº11.302/2022, pois, apesar de o indulto ser um ato discricionário e privativo do Chefe do Poder Executivo, é permitido ao Poder Judiciário verificar a sua constitucionalidade, considerando ser um feito de extrema relevância para a execução penal.
+Neste writ, a impetrante sustenta que a regra é de que no concurso de infrações, cuja pena máxima em abstrato não ultrapassa 5 anos, a pena deve ser considerada isoladamente, para fins de indulto, não sendo caso de aplicar a regra da unificação do art. 11 do mesmo Decreto, por uma questão de especialidade (fl.6).
+Por essa razão, aduz que o indulto deve ser concedido.
+Requer, liminarmente e no mérito, a extinção da punibilidade do paciente, com base no decreto mencionado.
+Liminar indeferida e requisitadas informações (fls. 66/67).
+Informações prestadas (fls. 74/96).
+Manifestação Ministerial pela denegação da ordem (fls. 106/110).
+Vieram os autos conclusos (fl. 111).
+É o relatório.
+DECIDO.
+Este  Tribunal  Superior  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  0 2/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  entendimento  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+Constata-se que a fundamentação consignada pela Corte de origem, foi no sentido de manter a decisão de piso, considerando que Não é ilegal a decisão do juízo primevo que reconheceu a inconstitucionalidade do Decreto Lei nº11.302/2022, pois, apesar de o indulto ser um ato discricionário e privativo do Chefe do Poder Executivo, é permitido ao Poder Judiciário verificar a sua constitucionalidade, considerando ser um feito de extrema relevância para a execução penal (fl. 16).
+De primeiro,  destaco  que  este  Tribunal  Superior  perfilha  o  entendimento  de  que  o  indulto,  por  se  tratar  de  ato  de  governo,  está  submetido  à  discricionariedade  do  Presidente  da  República,  não  cabendo  a  esta  Corte  estabelecer  condições  acerca  de  sua  aplicabilidade,  sob  pena  de  violação  do  Princípio  da  Separação  de  Poderes  (HC  468.737/RS,  Rel.  Ministra  Laurita  Vaz,  Sexta  Turma,  Dje  10/04/2019;  AgRg  no  HC  683536/GO,  Rel.  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  de  19/11/2021,  e  HC  HC  456.119/RS,  Rel.  Ministro  Felix  Fischer,  Quinta  Turma,  DJe  15/10/2018).
+De  outro  lado,  o  atual  Decreto n. 11.302/2022  estabeleceu  que  as  penas  em  abstrato  não  superem  05  (cinco)  anos  (art.  5º),  observando-se,  ainda,  que  as  penas  correspondentes  a  infrações  diversas  sejam  unificadas  ou  somadas  até  25  de  dezembro  de  2022  (art.  11).
+No  entanto,  esta  Corte  Superior  firmou  o  entendimento  de
+ não  ser  possível  utilizar  a  soma  das  penas  unificadas  para  fins  de  obstar  a  concessão  do  indulto,  nos  termos  do  art.  11  do  Decreto  n.  11.302/2022,  devendo,  para  os  fins  estipulados  no  art.  5.º  do  referido  ato  normativo,  ser  consideradas  individualmente  as  penas  máximas  em  abstrato  (AgRg  no  HC  875914/SP,  Rel.  Min.  Teodoro  Silva  Santos,  Sexta  Turma,  DJe  de  15/03/2024;  AgRg  no  HC  840518,  Rel.  Min.  Rogério  Schietti  Cruz,  Sexta  Turma,  DJe  de  15/12/2023).
+Assim, em uma interpretação sistemática dos arts. 5 e 11 do decreto em questão, a concessão do indulto seria devida ao caso dos autos, ao menos em tese.
+Não obstante isso, ao examinar as informações acostadas aos autos, verifica-se que a sentença condenatória decretada ao paciente substituiu a pena privativa de liberdade por uma pena restritiva de direitos, consistente na prestação de serviços à comunidade pelo prazo de 1 (um) ano (fl. 83); de modo que incide ao caso a vedação contida no Decreto n. 11.302/20 22, art. 8º, I, in verbis:
+Art. 8º O indulto natalino de que trata este Decreto não é extensível às: I - penas restritivas de direitos;
+Dessarte, não sendo aplicável o benefício do indulto às penas restritivas de direitos, não se vislumbra constrangimento ilegal a ser reparado na via eleita.
+Nesse sentido, recentíssimos julgados deste Sodalício:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 5º E 8º, I, AMBOS DO DECRETO PRESIDENCIAL N. 11.302/2022. INDULTO. CRITÉRIO DE DISCRICIONARIEDADE DO CHEFE DO PODER EXECUTIVO FEDERAL. CONDENAÇÃO À PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITOS. INVIABILIDADE. JURISPRUDÊNCIA DO STJ.
+1. O Tribunal Regional Federal da 4ª Região asseverou que substituída a pena privativa de liberdade por restritivas de direitos, incide a vedação contida no art. 8º do Decreto Presidencial n. 11.302/2022, devendo ser mantida a decisão recorrida. (fl. 64).
+2. Conforme disposto na decisão agravada, tendo sido o paciente condenado à pena privativa de liberdade substituída por restritiva de direitos, inviável o reconhecimento da extinção de punibilidade, haja vista a norma contida no art. 8º do Decreto n. 11.302/2022, que veda a extensão do indulto natalino às penas restritivas de direitos e de multa.
+3. Nos termos da compreensão do Superior Tribunal de Justiça, "o Presidente da República optou por não contemplar os condenados à pena privativa de liberdade substituída por restritivas de direitos com a concessão do indulto, de forma que não há que se atribuir interpretação ampliativa.  ..  (AgRg no HC n. 858.958/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 7/12/2023).
+4. Agravo regimental desprovido.
+(AgRg no REsp 2080932/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 14/03/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECURSO DE AGRAVO EM EXECUÇÃO. EFEITO DEVOLUTIVO. INDULTO. PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. ART. 8º, I, DO DEC. N. 11.302/22. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recurso de agravo em execução goza de efeito devolutivo, assim, delimitada a matéria pelo recorrente, é possível à Corte estadual apontar a fundamentação necessária à análise do tema. Precedentes.
+2. Por expressa determinação legal (art. 8º, I, do Dec. n. 11.302/22), o benefício de indulto não é extensível aos condenados à pena restritiva de direitos. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC 847786/SC, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 18/04/2024)
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se. Intimem-se.
+ EMENTA
