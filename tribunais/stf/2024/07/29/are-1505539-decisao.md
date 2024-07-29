@@ -1,0 +1,45 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento nas alíneas "a", "b" e "d" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    RECURSO INOMINADO. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROFESSORA. PROGRESSÃO FUNCIONAL. PAGAMENTO DE VALORES RETROATIVOS DEVIDOS. INTELIGÊNCIA DOS ARTIGOS 13, 14, 21, 22, 23 e 25 DA LCM Nº 042/2009. INSURGÊNCIA DO ENTE DEMANDADO. ERROR IN JUDICANDO. INOCORRÊNCIA. SUSPENSÃO DA CONTAGEM DE TEMPO. APLICAÇÃO DA LC N° 173/2020 E AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS À PROGRESSÃO FUNCIONAL. NÃO CABIMENTO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 18; 24, inciso I e §1º; 25; 163, incisos I e V; e 169, caput, da Constituição Federal.
+
+    Decido.
+
+     Analisados os autos, verifica-se que a análise do recurso extraordinário interposto pela alínea d depende da configuração nos autos de conflito de competência legislativa entre os entes da Federação, não sendo cabível, no entanto, quando há mera pretensão de revisão da interpretação dada à norma infraconstitucional, como ocorreu no caso concreto. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ausência de indicação dos dispositivos constitucionais supostamente violados. Deficiência de fundamentação. Cabimento do recurso extraordinário pela alínea d do permissivo constitucional. Lei local contestada em face de lei federal. Não ocorrência. Precedentes. 1. A recorrente não indicou, no recurso extraordinário, quais normas constitucionais teriam sido violadas no acórdão recorrido. Incidência da Súmula nº 284/STF. 2. O acórdão recorrido não julgou válida lei local contestada em face de lei federal, o que torna incabível a interposição do recurso extraordinário com fulcro no art. 102, III, d, da Constituição Federal. 3. Agravo regimental não provido.” (ARE 1131117-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 06/09/2018)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. COMPOSIÇÃO DA BASE DE CÁLCULO. LEI COMPLEMENTAR 87/96. 1. Compulsando-se os autos, verifica-se que o Tribunal de origem assentou a legalidade da base de cálculo do ICMS cobrado pelo Estado de Minas Gerais, com base em fundamento de índole infraconstitucional. Súmulas 279 e 280 do STF. 2. A hipótese de cabimento inscrita no permissivo do art. 102, III, “d”, da Constituição da República, exige a demonstração, pela parte Recorrente, de que o Tribunal de origem ofendeu o sistema de repartição de competências legislativas no condomínio federativo brasileiro, ao julgar válida lei local contestada em face de lei federal. Precedentes. 3. No particular, a parte Agravante pretende questionar a validade de ato infralegal (Decreto 43.080) de Estado-membro em face da Lei Kandir (LC 87/96). Nesses termos, não se mostra cabível a abertura da via do recurso extraordinário. 4. Considerada reflexa a ofensa à Constituição da República, por pressupor a revisão da interpretação de lei federal, remete-se a matéria ao STJ para julgamento como recurso especial. Art. 1.033 do CPC. 5. Agravo regimental a que se nega provimento.” (RE 927274-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 28/06/2016).
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Assim, acertadamente entendeu a r. sentença singular acerca do afastamento do contido na LC 173/2020, motivo pelo qual pertinente a sua reiteração como razão de decidir nesta instância: “[...] No caso em análise, da leitura da petição inicial, observa-se que a parte autora alega que está enquadrada na CLASSE II – FAIXA A e pede sua progressão para a CLASSE II – FAIXA C, ao argumento de que possui mais de 11 anos de serviço. Nesse caso, restou evidenciado que busca sua PROGRESSÃO HORIZONTAL POR AVALIAÇÃO DE DESEMPENHO. Ademais, postula que seja considerando, para fins de pagamento dos atrasados, todas as datas em que passou a ter direito a movimentação na carreira. Nesse caso, esta avaliação, em se tratando de PROGRESSÃO VERTICAL, como dito, deve ocorrer após o servidor permanecer dois anos em efetivo exercício na última faixa da classe em que se encontra, no entanto, como informado na defesa, ela não chegou a ser efetivada pela Administração Pública. De outro lado, em se tratando de PROGRESSÃO HORIZONTAL, a periodicidade das avaliações de desempenho segue outra lógica e deve ocorrer a cada três anos. Quanto a esse ponto, já é pacífico o entendimento dos tribunais de que tal omissão na realização de programas de avaliação dos servidores públicos assume caráter de ilegalidade quando a autoridade administrativa impede a efetivação de direitos em razão de sua inércia, senão vejamos: [...] Da análise dos documentos que constam da inicial, observa-se que o(a) requerente tomou posse no cargo de PROFESSOR em 25.02.2011 e alega que faz jus à progressão horizontal pretendida para a CLASSE II – FAIXA C desde 25.02.2022. Considerando a data da posse da parte autora, é de se concluir que teria direito a progressão por avaliação de desempenho nas seguintes ocasiões: Data da Posse e Exercício: 25.02.2011 – CLASSE I – FAIXA A. Cumprimento do Estágio Probatório: 25.02.2014. Progressão Horizontal: CLASSE I – FAIXA B – 26.02.2014 a 25.02.2017 (Interstício Mínimo de 3 anos para Mudança de Faixa). Progressão Horizontal: CLASSE I – FAIXA C – 26.02.2017 a 25.02.2019 (Interstício Mínimo de 2 anos para Mudança de Classe). Progressão Vertical: CLASSE II – FAIXA A – 26.02.2019 – 25.02.2022 (Interstício Mínimo de 3 anos para Mudança de Faixa). Progressão Horizontal: CLASSE II – FAIXA B – 26.02.2022 – 25.02.2025 (Interstício Mínimo de 3 anos para Mudança de Faixa). Progressão Horizontal: CLASSE II – FAIXA C – 26.02.2025. Logo, verifica-se que a parte autora faz jus ao enquadramento na CLASSE II – FAIXA B desde 26.02.2022, mas ainda não atingiu os requisitos necessários à progressão para a CLASSE II – FAIXA C. Ademais, levando em conta que o Município de Assú/RN, embora devidamente intimado, não trouxe aos autos a ficha funcional do(a) requerente, inverto o ônus da prova, nos termos do que dispõe o art. 373, § 1º do CPC, de modo que concluo pelo enquadramento equivocado do(a) servidor(a), conforme fichas financeiras acostadas junta a inicial, eis que o requerido não demonstrou a correção do enquadramento em todo o período postulado pela parte autora. No que se refere à alegação do demandado de impossibilidade de contagem do tempo de serviço do período de 28.05.2020 a 31.12.2021, vejamos o que dispõe o art. 8º da Lei Complementar n.º 173/2020: [...] Da leitura de tais dispositivos legais, observa-se que a norma não contempla os casos de progressão funcional e também de direitos previstos em lei anterior, como é a situação tratada no presente feito. Assim, considerando que normas restritivas devem receber também interpretação restritiva, é de se concluir que a referida regra não tem aplicabilidade ao presente caso.
+
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 29 de julho de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
