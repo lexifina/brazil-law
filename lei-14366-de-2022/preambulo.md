@@ -1,0 +1,2 @@
+Dispõe sobre a prorrogação excepcional de prazos de isenção, de redução a zero de alíquotas ou de suspensão de tributos em regimes especiais de drawback; altera as Leis nºs 9.365, de 16 de dezembro de 1996, 13.483, de 21 de setembro de 2017, 10.893, de 13 de julho de 2004, e 14.060, de 23 de setembro de 2020; e revoga dispositivo da Lei nº 12.546, de 14 de dezembro de 2011.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
