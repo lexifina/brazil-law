@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de WELLINGTON JOAQUIM DA SILVA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, proferido no julgamento da Apelação n. 5007102-22.2021.4.03.6114.
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 9 anos e 26 dias de reclusão, no regime fechado, pela prática do delito de roubo circunstanciado (art. 157, § 2º, II, c/c o §2º-A, I, do Código Penal - CP).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão que restou assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. EMPRESABRASILEIRA DE CORREIOS E TELÉGRAFOS. ROUBO MAJORADO.
+MATERIALIDADE DEMONSTRADA. AUTORIA COMPROVADA. RECONHECIMENTOVÁLIDO. CONCURSO DE AGENTES. EMPREGO DE ARMA DE FOGO. DOSIMETRIADA PENA. PENA E REGIME INICIAL MANTIDOS. RECURSO DEFENSIVODESPROVIDO.
+1. Réu condenado pela prática de crime de roubo majorado, nos moldes do artigo 157, §2º, inciso II e §2-A, inciso I, do Código Penal, em detrimento da Empresa Brasileira de Correios e Telégrafos.
+2. Materialidade demonstrada pelos elementos probatórios dos autos.
+3. Comprovada a autoria delitiva e o dolo. A análise acurada dos elementos de prova coligidos ao feito revela que, a despeito dos argumentos defensivos, de fato foram observados os procedimentos previstos na lei processual penal para a realização do reconhecimento pessoal, não havendo qualquer nulidade a ser declarada no presente caso.
+4. O reconhecimento deve ser feito, na medida do possível, com observância dos critérios norteadores previstos no artigo 226 do Código de Processo Penal. O inciso II do aludido dispositivo legal prescreve que o reconhecimento deve ser feito "se possível" mediante a colocação da pessoa a ser reconhecida entre outras que com ela guardem qualquer semelhança, ou seja, não se trata na verdade de um requisito para a validade da prova. Tais formalidades representam, portanto, uma recomendação e não uma exigência, o que afasta a alegação de nulidade absoluta decorrente de sua não observância, consoante entendimento do C. Superior Tribunal de Justiça.
+4.1. Em que pese o reconhecimento em sede judicial não tenha ocorrido nos moldes previstos no Código de Processo Penal, trata-se de ato válido, eis que convalidou os procedimentos realizados na fase de inquérito (fotográfico e pessoal), os quais seguiram devidamente os ditames do artigo 226 do diploma processual penal.
+4.2. Pauta-se a condenação nas declarações da vítima, cuja palavra tem especial relevância em crimes desse jaez, praticados em regra na clandestinidade, sema presença de outras testemunhas, e, principalmente, no reconhecimento do réu, realizado por três vezes e com resultado positivo em ambas as fases processuais(policial e judicial). Frise-se, outrossim, que o réu refutou veementemente a prática do crime de roubo em seu interrogatório.
+5. A aplicação da causa de aumento prevista no artigo 157, §2º-A, inciso I, do Código Penal independe da apreensão e perícia da arma de fogo utilizada no crime de roubo.
+6. Deve incidir na hipótese a majorante relativa ao concurso de agentes(artigo 157, §2º, inciso I, do Código Penal). Em seu depoimento judicial, o carteiro vítima destacou que o roubo foi cometido por duas pessoas que atuaram em conjunto, em evidente comunhão de desígnios, sendo abordado pelos dois agentes ao mesmo tempo, tendo surgido um de cada lado. Ainda que o segundo agente não tenha sido identificado por meio do reconhecimento pessoal, não há dúvida quanto à sua presença na cena do crime.
+7. Mantida a pena privativa de liberdade de 09 (nove) anos e 26 (vinte e seis) dias de reclusão, em regime inicial fechado, e 20 (vinte) dias-multa, no valor unitário mínimo legal, nos moldes estabelecidos na sentença.
+8. Recurso interposto pela defesa a que se nega provimento." (fls. 50/51)
+A impetrante reitera o pedido de "nulidade do reconhecimento pessoal realizado em Delegacia de Polícia e em juízo, os quais não teriam observado as regras do artigo 226 do Código de Processo Penal. Segundo a defesa, no procedimento realizado em sede policial "existiam pessoas com características étnicas diferentes umas das outras, fato que macula a validade do reconhecimento pessoal, tendo em vista ser requisito para o procedimento o agrupamento de pessoas com semelhanças entre si, (..)". Sustenta ainda que a vítima, ao ser perguntada em audiência se o réu que aparecia no vídeo era o mesmo indivíduo que teria cometido o crime de roubo, teria titubeado ao responder, "transparecendo incerteza em sua convicção", além de tal reconhecimento ter se dado de forma ilegal, visto que não lhe foram apresentadas outras pessoas semelhantes para efeito de comparação" (fl. 27).
+Busca, assim, a absolvição do paciente.
+A liminar foi indeferida por decisão de fls. 323/325.
+O Ministério Público Federal - MPF pugnou pela denegação da ordem, em parecer de fls. 333/339.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Consta da judiciosa peça opinativa:
+"A decisão não merece reparos.
+O Tribunal Regional Federal da 3ª Região, após uma profunda reanálise das provas dos autos, concluiu pela manutenção da condenação do paciente, diante das provas de materialidade e, especialmente, de autoria do paciente.
+Ele foi identificado pela vítima em todos os atos de investigação e instrução: reconhecimento fotográfico e pessoal em sede policial e reconhecimento pessoal em sede judicial, todos seguindo os padrões do art. 226 do Código de Processo Penal.
+Em sede policial, restou consignado que foram disponibilizadas para a vítima várias fotografias dentre as quais ele indicou o paciente. No reconhecimento pessoal, consta que o paciente ficou em pé dentre outras pessoas com suas mesmas características físicas, tendo sido novamente indicado pela vítima. Tal reconhecimento foi corroborado em juízo.
+Ademais, o reconhecimento fotográfico não foi a única prova. Houve investigação policial e cruzamento de dados, com a análise de câmeras de segurança do local e correlação com outros crimes de mesmo modus operandi, ocorridos anteriormente, tendo sido identificado o mesmo carro pelo paciente, nas empreitadas.
+Dessa forma, o conjunto de provas é robusto e demonstra a autoria delitiva do paciente.
+Ante o exposto, opino pela denegação da ordem de habeas corpus." (fl. 339)
+Como visto das bem lançadas razões do parecer ministerial, as quais adoto como fundamentos para decidir, o reconhecimento feito na fase policial, bem como na judicial, obedeceu o disposto no art. 226 do Código de Processo Penal - CPP, além de ter sido corroborado por outros elementos probatórios, sendo que tudo iss o justifica a manutenção do decreto condenatório.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
