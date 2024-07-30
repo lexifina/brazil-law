@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em benefício de BRUNO CUNHA CARDOSO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP no julgamento da Revisão Criminal n. 0014052-98.2023.8.26.0000.
+Extrai-se dos autos que, em 8/7/2021, o paciente foi condenado às penas de 3 anos, 1 mês e 10 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 14 dias-multa, pela prática do delito previsto no art. 155, § 1º e § 4º, inciso IV, do Código Penal - CP.
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de Justiça, o qual negou provimento ao reclamo nos termos do acórdão de fls. 32/40.
+Em consulta à página eletrônica do Corte de origem, verifica-se que o acórdão transitou em julgado para o Ministério Público em 26/1/2022, e, para a defesa, no dia 10/2/2022.
+Posteriormente, a defesa ajuizou revisão criminal perante o Tribuna a quo, que foi indeferida nos termos do acórdão de fls. 62/67.
+No presente writ, alega o impetrante que, conforme entendimento deste Sodalício, a majorante prevista no § 1º do art. 155 do CP não incide sobre o furto em sua modalidade qualificada.
+Requer, assim, que seja afastada a causa de aumento referente ao repouso noturno.
+O Ministério Público Federal - MPF manifestou pela concessão da ordem às fls. 79/82.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, no presente writ, o afastamento da causa de aumento referente ao repouso noturno.
+Todavia, não obstante o entendimento firmado pela Terceira Seção, em 25/5/2022, no julgamento do REsp n. 1.888.756/SP, submetido ao rito dos recursos repetitivos, de que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)", verifica-se que o trânsito em julgado da condenação em tela ocorreu em 10/2/2022, ou seja, antes da alteração jurisprudencial, o que impede a incidência da tese posteriormente firmada.
+Com efeito, "não se admite aplicação retroativa de novo entendimento jurispriudencial a feitos cujo trânsito em julgado tenha ocorrido antes da guinada interpretativa" (AgRg no HC n. 731.937/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 2/5/2022).
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. CAUSA DE AUMENTO REFERNTE AO REPOUSO NOTURNO. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO DA DECISÃO. IMPOSSIBILIDADE DE EMBASAR REVISÃO CRIMINAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte firmou-se no sentido de que a mudança de posicionamento jurisprudencial posterior ao trânsito em julgado da decisão condenatória não serve de base para o ajuizamento de revisão criminal, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica (AgRg no HC 550.031/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020). Diante disso, não verifica violação ao entendimento posteriormente firmado pela jurisprudência no Tema Repetitivo n. 1.087.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 842.696/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/2/2024).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. DOSIMETRIA. AFASTAMENTO DA CAUSA DE AUMENTO DO REPOUSO NOTURNO PARA O CRIME DE FURTO QUALIFICADO. TRÂNSITO EM JULGADO DO ATO APONTADO COMO COATOR. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Quanto ao pedido de afastamento da causa de aumento do repouso noturno para o crime de furto qualificado, verifica-se que o trânsito em julgado da decisão condenatória impede a parte impetrar habeas corpus perante este Sodalício, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+III - Ademais, a jurisprudência desta Corte Superior de Justiça "firmou a tese de que não se admite aplicação retroativa de novo entendimento jurisprudencial a feitos cujo trânsito em julgado tenha ocorrido antes da guinada interpretativa" (AgRg no HC n. 731.937/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 2/5/2022, grifei).
+Agravo regimental desprovido.
+(AgRg no HC n. 756.598/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 3/3/2023).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PLEITO DE AFASTAMENTO DA MAJORANTE DO REPOUSO NOTURNO. SUPRESSÃO DE INSTÂNCIA. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL QUE NÃO AUTORIZA, POR SI SÓ, A DESCONSTITUIÇÃO DOS EFEITOS DA COISA JULGADA PELA VIA REVISIONAL. RECURSO DESPROVIDO.
+1. A questão referente à incompatibilidade da majorante do repouso noturno com a forma qualificada do delito de furto não foi objeto de prévio debate no âmbito da Corte de origem e, aparentemente, nem mesmo foi requerida nas razões de apelação. Assim, sem prévia manifestação do Tribunal de origem no ponto, afigura-se incabível o exame da matéria de forma originária, por esta Corte, sob pena de indevida supressão de instância.
+2. A Terceira Seção do Superior Tribunal de Justiça, ao apreciar o Tema Repetitivo n. 1087, fixou a tese de que " a  causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/5/2022, DJe 27/6/2022). No entanto, quando do julgamento da apelação (14/11/2021 - ou seja, antes do overruling), havia consenso em ambas as Turmas da Terceira Seção desta Corte quanto à plena possibilidade de aplicação da causa de aumento do repouso noturno ao furto qualificado.
+3. O que se pretende neste feito é a desconstituição dos efeitos da coisa julgada com fundamento na posterior alteração de entendimento jurisprudencial que é mais favorável ao Sentenciado. Ocorre que a pacífica jurisprudência desta Corte rechaça a pretensão que visa à revisão de decisão já transitada em julgado com base na simples modificação da compreensão jurisprudencial de determinada controvérsia.
+4. Recurso desprovido.
+(AgRg no HC n. 779.647/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022).
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
