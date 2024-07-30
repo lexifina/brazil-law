@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ADMIR JUNIOR VIEIRA DUARTE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento do Agravo de Execução Penal n. 1.0000.23.147045-1/001.
+Extrai-se dos autos que o paciente cumpre pena pela prática dos crimes de furto simples, receptação e roubo majorado.
+O Juízo das E xecuções indeferiu pedido de indulto formulado pelo paciente, conforme decisão de fls. 94/95.
+Irresignada, a defesa interpôs agravo de execução, o qual teve o provimento negado em acórdão que restou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - RECURSO DEFENSIVO - CONCESSÃO DE INDULTO PELO DECRETO PRESIDENCIAL N.º 11.302/22 -IMPOSSIBILIDADE -INTERPRETAÇÃO SISTEMÁTICA -RECURSO DESPROVIDO.
+- É possível inferir, a partir de uma interpretação sistemática do Decreto Presidencial de nº. 11.302/22, que o referido indulto visou beneficiar aqueles que sofrem de severas enfermidades e os agentes públicos que compõem o Sistema Único de Segurança Pública - Susp.
+- Considerando que o apenado não fez prova de que está acometido das enfermidades elencadas e que nem integra o Sistema Único de Segurança Pública, não há que se falar em concessão do indulto" (fl. 45).
+No presente writ, a impetrante insurge-se contra a interpretação dada pelo Tribunal de origem ao Decreto Presidencial n. 11.302/2022, sustentando que o pedido de indulto deve ser analisado individualmente para cada condenação, e não com a unificação das penas impostas ao paciente.
+Afirma que a Corte estadual, ao exigir a comprovação de que o paciente esteja acometido por alguma das enfermidades elencadas n o decreto, para fins de concessão do indulto, incidiu em julgamento extra petita e em afronta ao princípio da correlação com o pedido formulado no recurso.
+Requer, assim, em liminar e no mérito, a concessão da ordem para que seja restabelecida a decisão que deferiu o pedido de indulto.
+Indeferido o pedido de liminar (fls. 136/137) e prestadas as informações (fls. 147/153), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (fls. 159/164).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Todavia, tenho por prudente verificar a existência de eventual constrangimento ilegal a autorizar a concessão da ordem de ofício.
+A despeito da alegação defensiva de que haveria inidoneidade na fundamentação apresentada pelo Tribunal a quo, no caso, o Juiz da Execução indeferiu o benefício em questão de acordo com a jurisprudência vigente no Superior Tribunal de Justiça e no Supremo Tribunal Federal, confira-se:
+" ..
+Seq. 473.1/477.1: considerando que apenado não cumpriu integralmente a pena dos crimes impeditivos até 25/12/2022, indefiro o pedido defensivo de reconhecimento do indulto, nos termos do art. 11, parágrafo único, do Decreto n. 11.302/2022. Lançar na aba dos incidentes não concedidos" (fl. 91).
+No recente julgamento do HC n. 890.929/SE, a Terceira Seção do STJ, acompanhando a orientação da Suprema Corte, considerou que, além do crime impeditivo decorrente do concurso de delitos, o remanescente da unificação de penas também impossibilitará a concessão de indulto da sanção, assim como aconteceu no presente caso.
+Confira-se a ementa do referido julgado:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. RECEPTAÇÃO SIMPLES. INDULTO (DECRETO N. 11.302/2022). DEFERIMENTO PELO JUÍZO E CASSAÇÃO PELO TRIBUNAL. CRIME IMPEDITIVO NÃO PRATICADO EM CONCURSO (ROUBO MAJORADO). ENTENDIMENTO DA TERCEIRA SEÇÃO NO HC 856.053/SC. NECESSIDADE DE O CRIME IMPEDITIVO TER SIDO PRATICADO EM CONCURSO. IMPERIOSA ALTERAÇÃO. ADEQUAÇÃO À ORIENTAÇÃO MAIS ATUAL DO STF. CONSIDERAÇÃO DO CRIME IMPEDITIVO COMO ÓBICE À CONCESSÃO DO BENEFÍCIO, AINDA QUE O CRIME IMPEDITIVO CUJO CUMPRIMENTO DA PENA NÃO TENHA SIDO PRATICADO EM CONCURSO, MAS REMANESCENTE DE UNIFICAÇÃO DE PENAS.
+1. Com a finalidade de uniformizar o entendimento desta Corte com o do Supremo Tribunal Federal, deve o julgamento do presente agravo ser afetado à Terceira Seção.
+2. No julgamento do AgRg no HC n. 856.053/SC, a Terceira Seção desta Corte, em acórdão da minha lavra, firmou orientação de que, para a concessão do benefício de indulto, fundamentado no Decreto Presidencial n. 11.302/2022, dever-se-ia considerar como crime impeditivo do benefício apenas o cometido em concurso com crime não impeditivo. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não haveria de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Sobreveio a apreciação do tema pelo Supremo Tribunal Federal, ocasião na qual o Pleno da Corte, em sessão de julgamento realizada em 21/2/2024, referendou medida cautelar deferida pelo Ministro Luís Roberto Barroso, firmando orientação de que o crime impeditivo do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser considerado tanto no concurso de crimes quanto em razão da unificação de penas. Precedente.
+4. A fim de prezar pela segurança jurídica, deve este Superior Tribunal se curvar ao referido entendimento e modificar sua convicção, a fim de considerar que o crime impeditivo do benefício do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser tanto o praticado em concurso como o remanescente em razão da unificação de penas.
+5. No caso, trata-se de apenado que cumpre pena por crime de associação criminosa e roubo majorado, praticados em concurso e receptação simples em ação penal diversa. A ordem foi liminarmente concedida para restabelecer a decisão que concedeu o indulto em relação ao crime de receptação simples. No entanto, a aplicação do atual entendimento do STF impõe que seja modificada a decisão, a fim de manter o indeferimento do benefício em relação ao citado delito.
+6. Agravo regimental provido para cassar a decisão na qual se concedeu liminarmente a ordem, restabelecendo-se o acórdão do Tribunal de Justiça de Sergipe que, no julgamento do Agravo de Execução Penal n. 202300361180, cassou a decisão do Juízo da 7ª Vara Criminal da comarca de Aracajú/SE que concedeu o benefício ao agravado.
+(AgRg no HC n. 890.929/SE, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 24/4/2024, DJe de 29/4/2024; sem grifos no original.)
+Ausente, portanto, flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
