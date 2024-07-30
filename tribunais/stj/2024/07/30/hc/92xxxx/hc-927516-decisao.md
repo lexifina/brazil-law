@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de DANIEL BARBOSA DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no HC n. 1.0000.24.258632-9/000.
+Consta dos autos que o paciente foi preso em flagrante, no dia 29/5/2024, pela suposta prática dos delitos de tráfico de drogas e posse irregular de munição de arma de fogo de uso permitido (art. 33 da Lei n. 11.343/06 e art. 12 da Lei n. 10.826/03). A custódia foi convertida em preventiva para garantia da ordem pública.
+Irresignada, a defesa impetrou o writ originário, o qual foi denegado em acórdão assim ementado:
+"HABEAS CORPUS - DELITOS DE TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÕES DE USO PERMITIDO - DESPROPORCIONALIDADE DA SEGREGAÇÃO CAUTELAR - QUESTÃO DE MÉRITO DA AÇÃO PENAL - INAPLICABILIDADE - AUSÊNCIA DOS REQUISITOS INFORMADORES DA PRISÃO PREVENTIVA - NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA ANTE A GRAVIDADE DO CRIME EM TESE COMETIDO - INOCORRÊNCIA - MEDIDAS CAUTELARES ALTERNATIVAS - NÃO COMPROVAÇÃO DA IMPRESCINDIBILIDADE NO CUIDADO DA MENOR -IMPOSSIBILIDADE.
+1-A questão de desproporcionalidade da constrição cautelar haverá de ser dirimida na ação de origem, oportunizado o contraditório e mediante ampla dilação probatória, vez que constitui mérito da própria persecução, de forma que foge o pleito do âmbito do habeas corpus, que não se dá à análise de provas.
+2-Impõe-se a manutenção da prisão se, de elementos concretos dos fatos em apreço, devidamente apontados na decisão combatida, evidencia-se que a liberdade do paciente gera risco à ordem pública.
+3-O fato de o paciente possuir filha menor de idade, por si só, não enseja automática substituição da prisão, vez que tal benefício busca proteger e resguardar a infância, de modo que, se o acautelado deixa de comprovar a sua imprescindibilidade no cuidado da criança, não se há falar na aplicação de medidas cautelares diversas" (fl. 18).
+O impetrante afirma que o paciente é primário, possui empreso fixo e uma filha que depende de seu sustento. Além disso, a quantidade de droga apreendida não foi elevada (45,53g de cocaína).
+Requer, em liminar e no mérito, a revogação da prisão preventiva, com ou sem aplicação de medidas cautelares do art. 319 do Código de Processo Penal.
+Indeferido o pedido liminar (fls. 145/146) e prestadas as informações solicitadas (fls. 152/184), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 188/195).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, o Juízo da 1ª Vara Criminal da Comarca de João Pinheiro-MG deferiu medida cautelar de busca e apreensão a ser cumprida no endereço do ora paciente, investigado pela suposta prática dos delitos de tráfico de drogas e associação para o tráfico (Processo n. 5002335-08.2024.8.13.0363).
+Ao dar cumprimento ao referido mandado, policiais realizaram prévia campana e visualizaram intensa movimentação com aparente comércio de drogas. O paciente foi abordado em frente ao imóvel. Durante as buscas no local, foram encontradas 89 porções de cocaína (48,4g) e 10 munições .380.
+Tais circunstâncias, em conjunto, apontam para o possível envolvimento do ora paciente com o comércio de drogas de forma mais intensa, o que justifica a decretação da custódia cautelar para garantia da ordem pública, mostrando-se insuficientes, nesse momento, as medidas cautelares do art. 319 do CPP.
+Confiram-se, a propósito, os seguintes trechos do decreto prisional e do acórdão impugnado:
+" ..  No caso em apreço, existem provas da ocorrência dos crimes de tráfico e posse ilegal de munição e indícios suficientes de autoria.
+Assim, presente o fumus comissi delicti.
+Lado outro, verifica-se o risco à ordem pública que a liberdade do envolvido representa, tendo em vista a gravidade concreta dos delitos supostamente praticados, pois teria o conduzido armazenado em sua residência quantidade considerável de pinos de cocaína e munições.
+Assim, inegável que a prisão provisória do conduzido é necessária para a garantia da ordem pública.
+Destaca-se que a imposição de medidas cautelares não é suficiente para o caso em questão diante da periculosidade demonstrada pelo envolvido, conforme já relatado.
+Deste modo, presentes os requisitos autorizadores da medida, com base nos artigos 312 e 313, I do Código de Processo Penal, converto a prisão em flagrante em preventiva, decretando a prisão de DANIEL BARBOSA DA SILVA.  .. " (fl. 176)
+" ..  Colhe-se dos autos que, durante operação, militares teriam observado intensa movimentação de pessoas em frente à residência do paciente, em atividade típica de comércio de entorpecentes, pelo que deram-lhe, então, ordem de parada, ocasião em que, realizada busca pessoal, foram encontrados R$ 814,00 (oitocentos e quatorze reais) em espécie, sendo certo que, na sequência, a guarnição policial, de posse de mandado judicial de busca e apreensão expedido em desfavor do mesmo, adentrara o imóvel em questão, onde lograram arrecadar, ao fim e ao cabo, 84 (oitenta e quatro) pinos de cocaína e 10 (dez) munições calibre.180.
+ ..
+De outra sorte, da leitura que se faz da decisão atacada percebe-se que a autoridade apontada como coautora apresentara firme e concreta argumentação quanto à necessidade do recolhimento ventilado, tendo consignado, então, que a segregação se faz imprescindível na espécie, ante a gravidade dos fatos em tela, destacando, ademais, a existência de indícios suficientes de autoria e materialidade, bem como a quantidade considerável de tóxicos arrecadados na espécie.
+Tem-se dos autos, então, que, fora expedido, em desfavor do paciente, mandado judicial de busca e apreensão.
+Quando de seu cumprimento, foram arrecadados, na residência do mesmo, 84 (oitenta e quatro) pinos de cocaína, totalizando, aproximadamente, 48,4g do tóxico, além de 10(dez) cartuchos de munição de uso permitido.
+Não se há falar, portanto, em ausência dos requisitos da prisão preventiva em testilha, sendo certo, assim, que as circunstâncias do caso presente deixam claro a "gravidade concreta" do cenário em apreço, pelo que essencial a garantia da ordem pública na hipótese  .. " (fls. 20/21).
+Quanto ao tema:
+PROCESSO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. MONITORAMENTO PRÉVIO E QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE APREENDIDA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES. INADEQUAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO, COM RECOMENDAÇÃO.
+1. A defesa se insurge contra a decisão monocrática desta relatoria que não conheceu do habeas corpus mas analisando o mérito de ofício, afastou a existência de constrangimento ilegal e recomendou, ao Magistrado de Primeiro Grau, a reanálise da prisão preventiva.
+2. Prisão preventiva. Fundamentação idônea. As instâncias originárias destacaram a necessidade da prisão preventiva do agravante para fins de garantia da ordem pública, em decorrência da gravidade concreta do ilícito, do modus operandi e da quantidade de substância entorpecente apreendida: o agravante já estava sendo investigado e monitorado pela suspeita da prática de tráfico de drogas, e foi preso em flagrante portando 183,6g de cocaína, e duas balanças de precisão.
+3. Os precedentes desta Corte Superior estão no sentido de que a quantidade de substância entorpecente apreendida é considerada motivação idônea para a decretação e manutenção da prisão preventiva.
+- De igual forma, o Supremo Tribunal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, Relatora Ministra CÁRMEN LÚCIA, Segunda Turma, julgado em 15/3/2016, DJe 6/4/2016).
+4. Eventuais condições subjetivas favoráveis, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+6. Agravo regimental conhecido e não provido, com recomendação.
+(AgRg no HC n. 911.295/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ante o exposto, não conheço do habeas corpus, com fundamento no art. 34, XX, do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
