@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por FABIANA NERI e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença.
+Decisão que rejeitou a impugnação apresentada pela devedora. Inconformismo da executada.
+Descumprimento de acordo por parte da devedora.
+Excesso de execução. Inocorrência. Executada que não trouxe planilha com demonstração da sua versão dos cálculos, nem controverte especificadamente o cálculo do credor. Impugnação inadequada. Inobservância do artigo 525, § 4º, do CPC.
+Decisão mantida. Recurso desprovido (fl. 32).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega a ocorrência de excesso de execução em razão do equívoco nos cálculos apresentados.
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Na mesma linha: "Quanto às alegações de excesso de prazo, em conjunto com os pedidos de absolvição ou de redimensionamento da pena, com abrandamento de regime e substituição da pena por restritivas de direitos, a recorrente não indicou os dispositivos legais considerados violados, o que denota a deficiência da fundamentação do recurso especial, atraindo a incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal." (AgRg nos EDcl no REsp n. 1.977.869/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/6/2022.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009; AgInt no AREsp n. 2.029.025/AL, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/6/2022; AgRg no REsp n. 1.779.821/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/2/2021; AgRg no REsp n. 1.986.798/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
