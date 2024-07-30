@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FORNECIMENTO MEDICAMENTO. SEQÜESTRO DE VALORES. POSSIBILIDADE. MULTA. MANUTENÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 537, caput e §1º, do Código de Processo Civil, e 884 do Código Civil. Sustenta que o valor fixado para as astreintes é excessivo, acarretando o enriquecimento sem causa de uma das partes e prejuízos à coletividade, devendo, portanto, ser reduzido para R$ 100,00 (cem reais), trazendo a seguinte argumentação:
+In casu, o Tribunal a quo manteve a decisão que fixou astreintes em valor desproporcional e exorbitante OU SEJA r$ 500,00 por dia de atraso quando a orientação sedimentada desta corte é R$100,00 por dia de atraso.
+A adoção da multa diária, quando ausente qualquer aptidão desta medida para pressionar a vontade do devedor ou ausente qualquer compatibilidade com a natureza da obrigação, acabaria por descaracterizá-la, transformando-a em verdadeira medida punitiva, vedada em nosso ordenamento.
+A propósito, destaca-se a literalidade da norma contida no artigo 537 do Código de Processo Civil:
+Art. 537. A multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito.
+§ 1º O juiz poderá, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que:
+I - se tornou insuficiente ou excessiva;
+II -o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento.
+Nesse passo, o acórdão recorrido violou frontalmente o art. 537 do CPC, uma vez que há manifesta desproporcionalidade com o valor da obrigação principal, já que o montante consolidado da multa pode chegar a 21.000,00 em 30 dias de atraso, enquanto que a obrigação imposta de fornecimento de medicamento atinge cerca de R$ 15.984,13 por mês de tratamento, segundo a petição inicial.
+Além disso, posteriormente, a União comprovou o depósito de montante suficiente para tratamento parcial e/ou a entrega parcial do tratamento.
+Por fim, eventual cominação de multa diária não pode servir de causa para o enriquecimento indevido de uma das partes, o que, aliás, é vedado pelo nosso ordenamento jurídico (Código Civil, art. 884).
+Nessa ordem de ideias, verifica-se a violação frontal ao art. 884 do Código Civil, lembrando que a decisão que comina multa excessiva em afronta ao princípio que veda o enriquecimento sem causa da parte, por outro lado, causa prejuízo ao ente público que integra o SUS e afeta o planejamento previamente elaborado dos serviços públicos a serem prestados com os limitados recursos disponíveis, dentre os quais, os serviços que dizem respeito à políticas públicas de saúde, afetando, em última análise, os próprios usuários do SUS.
+E neste norte tem se guiado a jurisprudência, como se pode observar do seguinte julgado:
+ ..  (fl. 105).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, a União foi intimada para cumprimento da decisão agravada, com início do prazo em 13/09/22 e final em 14/09/22. A agravante depositou os valores necessários para aquisição do medicamento à parte em 06/10/2022 (21.1 e 21.2).
+Portanto, o que se verifica é que a determinação somente foi cumprida 21 dias depois da multa fixada. Assim, houve importante atraso no fornecimento da medicação. Nesse contexto, não tendo sido cumprida a ordem judicial no prazo derradeiro fixado, mas somente após dias de diligências, tenho que deve ser mantida a multa. Nada obstante, ainda que demonstrada nos autos a ocorrência da mora da União, o valor alcançado a título de multa é realmente excessivo dado que senão alegado prejuízo à própria parte autora, correlacionado com a demora. Nesse contexto, entendo razoável a redução o valor arbitrado para R$500,00 por dia de atraso, valor que se mostra adequado, diante da gravidade da situação, sem que tenha sido demostrada situação concreta a excecionar o cumprimento da decisão judicial em prazo razoável.
+No mais, o quanto aos demais pontos embargados, examinando a fundamentação invocada na decisão embargada, não se verifica a existência de quaisquer das hipóteses ensejadoras do presente recurso.
+Com efeito, a decisão está devidamente fundamentada, tendo sido precisa e exaustivamente examinadas as teses veiculadas (fls. 94-95).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
