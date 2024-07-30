@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de ALEXANDRE LUPINN FILHO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - TJSC, proferido no julgamento da Apelação n. 5008090-37.2022.8.24.0020.
+Consta dos autos que o paciente foi absolvido da imputação do crime previsto no artigo 33 da Lei n. 11.343/06 (tráfico de drogas).
+Todavia, a apelação do Parquet foi provida, com a condenação do paciente pela prática de tráfico privilegiado, a 2 anos e 6 meses de reclusão, no regime aberto, e 250 dias-multa. Eis a ementa do aresto:
+"APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N.11.343/06). SENTENÇA QUE JULGOU IMPROCEDENTE A DENÚNCIA POR CONSIDERAR NULA A APREENSÃO DAS DROGAS. RECURSO DO MINISTÉRIO PÚBLICO. REQUERIDA CONDENAÇÃO NOS EXATOS TERMOS DA DENÚNCIA. POSSIBILIDADE. ABORDAGEM EM VIA PÚBLICA POR FUNDADAS SUSPEITAS. OBSERVÂNCIA AOS ARTS. 240, § 2º E 244,AMBOS DO CPP. ABORDAGEM ESCORREITA QUE RESULTOU NA APREENSÃO DE ENTORPECENTES. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS PELOS DEPOIMENTOS DOS POLICIAIS E PELA CONFISSÃO EXTRAJUDICIAL DO APELADO. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO" (fl. 59).
+No presente writ, a impetrante sustenta a nulidade do flagrante, ante a ausência de fundada suspeita para a busca pessoal.
+Requer, assim, a absolvição do paciente.
+As informações foram prestadas às fls. 417/450.
+O Ministério Público Federal - MPF opinou pela concessão da ordem, em parecer de fls. 455/461.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Porém, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O acordão impugnado assentou:
+"Assim, tendo em vista que a atuação dos policiais ocorreu ante a existência de circunstâncias excepcionais que justificaram a realização da abordagem, ou seja, não se deu deforma aleatória, tampouco decorreu de impressões subjetivas, sendo inclusive, confirmada a posteriori, inexiste mácula apontada, não há se falar em nulidade" (fl. 55).
+Nos termos do art. 240, § 2º, do Código de Processo Penal - CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito.
+Conforme consta dos autos, os policiais estavam em ronda e o paciente juntamente com um menor demostraram nervosismo ao avistar a presença dos policiais e fecharam as mãos como se estivessem escondendo algo, situação que levantou a suspeita dos agentes, que fizeram a abordagem, ou seja, havia fundada suspeita de que os mesmos estavas cometendo algum ilícito, inexistindo assim, qualquer irregularidade no flagrante.
+Nesse contexto, a partir da leitura do s autos, verifica-se que foi constatada a existência de indícios prévios da prática de tráfico de drogas, a autorizar a atuação policial, não havendo falar em nulidade da busca pessoal.
+Vejam-se os seguintes precedentes do Pretório Excelso e desta Corte:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA PARA A ABORDAGEM DEVIDAMENTE COMPROVADA. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE DÁ PROVIMENTO.
+1. É incabível ao Poder Judiciário determinar ao Poder Executivo a imposição de providências administrativas como medida obrigatória para os casos de busca pessoal, sob o argumento de serem necessárias para evitar eventuais abusos, além de suspeitas e dúvidas sobre a legalidade da diligência.
+2. O entendimento adotado pelo SUPREMO TRIBUNAL FEDERAL impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito. Precedentes.
+3. A atitude suspeita do acusado e o nervosismo ao perceber a presença dos militares que realizavam patrulhamento de rotina em conhecido ponto de tráfico de drogas, evidenciam a existência de justa causa para a revista pessoal, que resultou na apreensão de diversas porções entorpecentes destinados à mercancia ilícita.
+4. Agravo Regimental e Recurso Extraordinário com Agravo a que se dá provimento.
+(ARE 1.467.500 AgR, Primeira Turma do Supremo Tribunal Federal, Relatora: Min. CÁRMEN LÚCIA, Redator para o acórdão: Min. ALEXANDRE DE MORAES, Julgamento: 18/03/2024, DJe de 15/04/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA DEMONSTRADA. LEGALIDADE DA MEDIDA. INVIABILIDADE DO REEXAME DE FATOS E PROVAS NA VIA ELEITA. AUSÊNCIADE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, para a realização de busca pessoal, nos termos do art. 244 do Código de Processo Penal, exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, quando a medida for determinada no curso de busca domiciliar.
+2. Somado a isso, nas palavras do Ministro GILMAR MENDES, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC 229.514/PE, julgado em 28/8/2023).
+3. Na hipótese, nos moldes da conclusão da Corte local, atesta-se a legalidade da busca pessoal, tendo em vista que as circunstâncias prévias à abordagem justificavam a fundada suspeita de que a paciente estaria na posse de elementos de corpo de delito, situação que se confirmou no decorrer da diligência policial. Com efeito, policiais militares realizavam patrulhamento de rotina, oportunidade na qual avistaram a acusada em atitude suspeita, que, ao perceber a aproximação da viatura, demonstrou inquietação, olhando para o lado e mantendo os braços junto ao corpo, apresentando bastante nervosismo, razão pela qual resolveram abordá-la, momento em que ela continuou com os braços rígidos junto ao corpo, escondendo os entorpecentes. Realizada a busca pessoal, os policiais encontraram, em seu poder 32 porções de cocaína em pó, com peso líquido de 15,97 gramas).
+4. Ademais, verificada justa causa para a realização da abordagem policial, tomando-se como base o quadro fático delineado pelas instâncias antecedentes, alcançar conclusão em sentido diverso demandaria o reexame do conjunto fático-probatório, incabível na via do habeas corpus (HC 230232 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 02-10-2023, PROCESSOELETRÔNICO DJe-s/n, DIVULG 06-10-2023, PUBLIC 09-10-2023).
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 873.881/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006 à pena de 8 anos de reclusão, em regime inicial fechado, mais o pagamento de 799 dias-multa.
+2. Não se vislumbra qualquer ilegalidade na atuação dos policiais na busca pessoal, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 746.064/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inc. XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
