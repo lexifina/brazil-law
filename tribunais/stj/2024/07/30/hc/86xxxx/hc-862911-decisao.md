@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de JOSUE VICENTE DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO - TJPE proferido no julgamento da Apelação Criminal n. 00005249-23.2020.8.17.0990.
+Consta dos autos que o paciente foi condenado, em primeiro grau, pela prática do crime de roubo circunstanciado (art. 157, § 2º, II, do Código Penal - CP), a 5 anos e 4 meses de reclusão, no regime semiaberto.
+O Tribunal a quo negou provimento à apelação da defesa nos termos do acórdão que restou assim ementado:
+"APELAÇÃO CRIMINAL. ROUBO MAJORADO. PEDIDO DE DESCLASSIFICAÇÃO PARA FURTO SIMPLES. IMPOSSIBILIDADE. COMPROVAÇÃO DO EMPREGO DE VIOLÊNCIA. REQUERIMENTO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE NECESSIDADE ADEQUAÇÃO AO REGIME INICIAL ESTABELECIDO NA SENTENÇA. PERDA DO OBJETO. CONCESSÃO DA PROGRESSÃO PARA O ABERTO. CUSTAS. PLEITO DE DEFERIMENTO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. MOMENTO MAIS ADEQUADO É NA EXECUÇÃO. RECURSO IMPROVIDO" (fl. 22).
+No presente writ, a defensa que não restou devidamente comprovada a prática do crime de roubo, devendo o delito ser desclassificado para furto simples. Ressalta que "segundo o voto do Desembargador Relator, houve emprego de violência.  ..  esta Impetrante entende que o emprego de violência é fato incontroverso. Contudo, o emprego de violência "bote no celular" foi empregado sobre o objeto/celular, e não, sobre a vítima" (fl. 8).
+Requer a concessão da ordem nesse sentido.
+O Ministério Público Federal - MPF manifestou-se pelo não conhecimento do mandamus (fls. 221/227).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Porém, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Na hipótese, o Tribunal a quo entendeu que o paciente praticou o delito de roubo, mantendo, portanto, a sentença penal condenatória, sob a seguinte fundamentação:
+" ..
+Com relação às provas da autoria delitiva, verifica-se que os depoimentos da vítima, prestados tanto na fase inquisitorial (Id nº 27151472), quanto na instrução processual (audiência gravada em ambiente digital) são seguros e coesos no sentido de afirmar que o acusado foi o autor do crime de roubo, ora em análise.
+Em juízo, a ofendida disse que o acusado estava no ônibus vendendo jujubas; que recebeu ligação da sua cliente e atendeu quando ainda estava no transporte; que o réu deu um tapa no seu rosto e, logo em seguida, tomou o celular de suas mãos; que após ser agredida, pegou pela camisa do réu, que conseguiu se desvencilhar e saiu do ônibus, em fuga; que ela saiu atrás dele, oportunidade em que viu que ele passou o celular para um terceiro, que estava na esquina da sorveteria "Bacana".
+Os policiais militares Paulo Sérgio Rodrigues Cavalcanti e Arthur José Luz Cavalcanti de Freitas, na audiência de instrução e julgamento, gravada em ambiente digital, ratificaram os depoimentos prestados na delegacia e confirmaram a narrativa da denúncia. Informaram que chegaram quando o acusado estava detido por populares; que o réu confessou que tomou o celular da mão da vítima e, em seguida, repassou-o para um outro homem.
+Ao ser interrogado, o ora apelante confessou a prática delitiva, dizendo que deu um "bote" no celular dela, mas negou, contudo, que conhecia o motoqueiro para quem entregou o celular.
+Assim, não há que se falar em desclassificação do crime de roubo para o de furto. Isso porque, de acordo com os depoimentos prestados em Juízo, ficou evidente que o agente, mediante violência, tornou-se possuidor da coisa alheia móvel, ainda que por poucos instantes" (fl. 20).
+Verifica-se que as instâncias ordinárias consideraram caracterizada a prática do crime de roubo, apontando elementos probatórios e descrevendo a violência praticada contra pessoa. A fundamentação está em consonância com a jurisprudência desta Corte e para afastá-la, afim de desclassificar o crime, é necessário amplo reexame da matéria fático-probatória, providência vedada na estreita via do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SUPERVENIENTE TRÂNSITO EM JULGADO DO ACÓRDÃO DA APELAÇÃO. ROUBO CIRCUNSTANCIADO. DESCLASSIFICAÇÃO PARA FURTO QUALIFICADO TENTADO. IMPOSSIBILI DADE NA VIA ELEITA. DOSIMETRIA DA PENA. APLICAÇÃO DA MAJORAN TE DE REINCIDÊNCIA ESPECÍFICA. FRAÇÃO DE 1/4 NA SEGUNDA FASE. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Agravo regimental improvido.
+(AgRg no HC n. 829.221/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/9/2023, DJe de 29/9/2023; sem grifos no original.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE ROUBO. DESCLASSIFICAÇÃO PARA O DELITO DE FURTO. REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. RECURSO DESPROVIDO. DOSIMETRIA. DESPROPORCIONALIDADE. CONCESSÃO DA DA ORDEM DE OFÍCIO.
+1. O Tribunal de origem, após exame dos elementos colhidos nos autos, concluiu pela existência de elementos suficientes para reconhecer que a conduta do agravante amolda-se ao crime de roubo.
+2. A modificação do julgado, a fim de acolher a tese da defesa e desclassificar o delito para furto, exigiria revolvimento do conjunto fático-probatório dos autos, incabível na via eleita, ante o óbice da Súmula 7/STJ.
+3. É desproporcional, na hipótese, a exasperação da pena em 5/8 em razão da multirreincidência, razão pela qual se impõe o deferimento da ordem de ofício para reduzir a fração de aumento para 1/3.
+4. Agravo regimental desprovido. Deferida a ordem de ofício.
+(AgRg no AREsp n. 2.141.169/TO, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023; sem grifos no original.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBOS MAJORADOS. PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. PERICULOSIDADE DO AGENTE. FUNDAMENTAÇÃO IDÔNEA. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. CONDIÇÕES PESSOAIS. IRRELEVÂNCIA, NA HIPÓTESE. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA, NO CASO. DESCLASSIFICAÇÃO DA CONDUTA ILÍCITA. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. DESPROPORCIONALIDADE DA MEDIDA EXTREMA IMPOSTA. ANÁLISE INOPORTUNA NA ATUAL FASE PROCESSUAL. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública.
+2. No caso, as instâncias ordinárias evidenciaram, de forma concreta, a necessidade de manutenção da prisão preventiva do Agravante, haja vista que, em tese, em concurso com dois corréus, cometeu dois crimes de roubo, em seqüência, tendo uma das vítimas sido agredida por socos - "os indíviduos agrediram a vítima com socos e puxaram algo do pescoço dela".
+3. A existência de condições pessoais favoráveis - tais como primariedade, bons antecedentes, ocupação lícita e residência fixa - não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese em tela.
+4. Nessa fase processual, não há como prever a quantidade de pena que eventualmente poderá ser imposta, caso seja condenado o Agravante, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado, de modo que não se torna possível avaliar a arguida desproporção da prisão cautelar.
+5. Não é possível, na estreita via do habeas corpus, analisar o pedido de desclassificação do crime de roubo para o de furto por arrebentamento, por demandar incabível reexame do conjunto fático-probatório.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 779.918/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/3/2023, DJe de 20/3/2023; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
