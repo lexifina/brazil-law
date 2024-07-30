@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCIA MARY SILVA BARBOSA CARPENTER DE MEDEIROS e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. Decisão monocrática, prolatada por este relator, que negou a gratuidade aos recorrentes. Inconformismo. Não acolhimento. Ausência de elementos suficientes nos autos para corroborar a alegada hipossuficiência dos agravantes. Tema já enfrentado por esta Câmara em outros recursos. Partes que ficam intimadas da necessidade do recolhimento do preparo no prazo de 5 dias. Decisão confirmada. NEGADO PROVIMENTO AO RECURSO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, §§ 1º e 3º, do Código de Processo Civil, no que concerne ao necessário deferimento do benefício da gratuidade de justiça tendo em vista que restou devidamente demonstrada sua atual situação de hipossuficiência, trazendo a seguinte argumentação:
+O presente recurso tem por objetivo a reforma do V Acórdão, proferido em sede de Agravo Regimental, para o deferimento da justiça gratuita, possibilitando que o tempestivo Recurso de Apelação seja regularmente processado.
+O indeferimento do pedido de justiça gratuita, contraria, nega vigência e viola totalmente os preceitos de Lei Federal, a saber os art. 98 c.c 99, §§ 1º e 3º, ambos do CPC.
+ ..
+O indeferimento dos benefícios a pessoas naturais, alem de constituir ilegalidade, ofensas ao literal texto da lei, traduz-se em verdadeira injustiça e negativa de acesso a justiça, ao duplo grau de jurisdição.
+A consequências da manutenção do V Acórdão será a deserção e o não conhecimento do Recurso de Apelação, ou seja, o direito dos recorrentes de verem o seu direito ser analisado pelo E TJ/SP estará totalmente fulminado, ao arrepio da Lei.
+As partes declararam e comprovaram (embora não se peça o reexame da prova), que não podem arcar com as custas processuais, sem prejuízo de seu sustento, mas a presunção legal estampada no CPC, não foi considerada em favor do recorrentes. (fls. 1176-1177).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Discordam os agravantes, que buscam a reforma da decisão a fim de que a benesse seja deferida.
+Os fatos anteriores aos acórdãos citados, que julgaram a gratuidade requerida pelos autores, já foram analisados, e não comportam mais consideração, visto que não retratam a situação atual dos recorrentes. O imposto de renda do exercício de 2019 e extratos bancários do ano de 2019 não evidenciam situação atual.
+O pagamento de conta relativa ao serviço Net, Claro, Vivo, instituição de ensino; conta de energia elétrica; débito de IPTU de 2019 não evidenciam a hipossuficiência, mas refletem gastos comuns.
+Cabe observar que empréstimos significam o ingresso de dinheiro no patrimônio do autor, mediante pagamento posterior do valor acrescido de juros. É negócio jurídico que, numa situação em que a contratação visa meramente atender interesses pessoais, não serve como indício de hipossuficiência.
+Tampouco os extratos colacionados são suficientes para demonstrar a piora das condições, como já apontado, não apontam de forma clara e abrangente a renda familiar, para o fim de comprovar a piora das condições.
+Em suma, os agravantes não apresentaram razões suficientes para justificar o pedido de modificação da decisão recorrida, porque não provam a piora das condições, razão pela qual a decisão é mantida. (fls. 1.156-1.157).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório" (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
