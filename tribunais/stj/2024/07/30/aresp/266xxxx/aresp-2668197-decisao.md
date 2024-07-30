@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por UATHILA SILVA SANTOS à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (e-STJ fl. 329):
+EMENTA: RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. 1 - PLEITO DE IMPRONÚNCIA, CALCADA EM SUPOSTA INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE. PRECIPITAÇÃO TEMPORAL. PRIMEIRA ETAPA DO TRIBUNAL DO JÚRI QUE EXIGE APENAS PROVA MÍNIMA DA MATERIALIDADE DO FATO E INDÍCIOS DE AUTORIA PARAQUE HAJA PRONÚNCIA. SUBSTRATO PROBATÓRIO MÍNIMO CONSTATADO. EVENTUAIS DÚVIDAS E CONTROVÉRSIAS FÁTICAS DEVEM SER APRECIADAS PELO CONSELHO DE SENTENÇA, QUE POSSUI COMPETÊNCIA CONSTITUCIONAL PARA TANTO. 2 - CONCLUSÃO: CONHECIMENTO E IMPROVIMENTO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, alega a defesa violação dos arts. 155 e 619, ambos do Código de Processo Penal, ao argumento de ausência de elementos judicializados que indiquem a autoria delitiva, não servindo para a pronúncia apenas a referência a testemunhos judiciais, sem a transcrição no decisum. Aduz, nesse sentido, a ocorrência de omissão no acórdão recorrido.
+Apresentadas contrarrazões e contraminuta, manifestou-se o Ministério Público Federal, nesta instância, pelo não conhecimento do agravo.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece prosperar.
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios.
+Nesse contexto, o fato de não ter sido acolhida a irresignação da parte, apresentando a Corte local fundamentação em sentido contrário, não revela violação do art. 619 do Código de Processo Penal.
+Por outro lado, dispõe o artigo 413 do CPP que o juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, ficando tal fundamentação limitada à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal no qual julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena.
+A pronúncia, portanto, encerra simples juízo de admissibilidade da acusação, exigindo o ordenamento jurídico somente o exame da ocorrência do crime e de indícios de sua autoria, não se demandando requisitos de certeza necessários à prolação da sentença condenatória, sendo que as dúvidas, nessa fase processual, resolvem-se pro societate.
+No caso, o Juízo de primeira instância pronunciou o agravante por infração ao art. 121, § 2º, IV, do CP, asseverando a presença de indícios de autoria com base nos elementos coligidos no processo.
+O Tribunal a quo manteve a pronúncia, ao ponderar que "A prova colhida na instrução, por seu turno, além de ratificar a materialidade, demonstra indícios suficientes de autoria, uma vez que aponta exatamente no sentido de que o Recorrente é autor da infração penal" (fl. 339).
+Dessa forma, para a admissão da denúncia, há que se sopesar as provas, indicando os indícios da autoria e da materialidade do crime, bem como apontar os elementos em que se funda para admitir as qualificadoras porventura capituladas na inicial, dando os motivos do convencimento, sob pena de nulidade da decisão, por ausência de fundamentação.
+Como visto, as instâncias ordinárias, soberanas na análise do conjunto fático-probatório, concluíram pela presença de elementos indicativos dos crimes do art. 121, § 2º, IV, do Código Penal.
+E, para alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela impronúncia, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sed e de recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
