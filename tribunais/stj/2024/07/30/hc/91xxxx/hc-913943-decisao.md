@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Thiago Martins Santana, no qual se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0003207-89.2024.8.26.0996).
+Conforme consta dos autos, o Juízo da execução penal deferiu ao paciente progressão para o regime semiaberto (fls. 71/73 - PEC n. 0003451-15.2021.8.26.0158).
+O Ministério Público estadual interpôs agravo em execução, que foi provido pelo Tribunal a quo para cassar a decisão de progressão, determinando a realização de exame criminológico, com avaliação psiquiátrica (fls. 100/102).
+Daí o presente writ, no qual a defesa alega ausência de fundamentação válida no acórdão impugnado.
+Aduz que, em exame criminológico realizado por profissional da assistência social e psicólogo, esses se posicionaram em deliberação unânime por sugerir o deferimento da progressão ao regime semiaberto, sendo que o parecer da psicóloga apontou no sentido de ausência de sinais e risco de periculosidade e que não há circunstâncias que venham a comprometer o convívio social. Em nenhuma passagem, os profissionais fizeram referência à necessidade de exame complementar com psiquiatra (fl. 4).
+Requer, assim, seja cassada a decisão prolatada pela Oitava Câmara de Direito Criminal de Tribunal de Justiça de São Paulo que reformou a decisão do Juiz de primeira instância (fl. 7).
+Liminar indeferida (fls. 120/121).
+A defesa interpôs agravo regimental (fls. 126/153).
+O Ministério Público ofereceu parecer opinando pelo não conhecimento do agravo (fls. 156/159).
+A defesa peticionou juntando cópia da decisão que declarou a prescrição de falta grave ocorrida em 5/5/2020 (fls. 162/235).
+Em 18/7/2024 a defesa peticionou novamente interpondo um novo agravo regimental (fls. 236/314).
+É o relatório.
+O Tribunal a quo deu provimento ao agravo ministerial nos seguintes termos (fls. 101/102):
+ ..
+Colhe-se dos autos que o recorrido desconta pena de 23 anos e 08 dias de reclusão, pela prática de homicídio qualificado e roubos majorados, com término de cumprimento previsto para 22.03.2042 (fl. 13), o que a demonstrar, num primeiro exame, clara personalidade distorcida e ameaça à sociedade, máxime se considerado que durante o cumprimento de pena o sentenciado praticou falta disciplinar de natureza grave (fl. 15), em total descompasso com sua finalidade reeducativa; tal circunstância faz ressumbrar personalidade avessa à lei, ao convívio social e à terapêutica penal.
+A natureza dos delitos pelos quais foi condenado o agravado, demanda cuidadosa análise antes de sua efetiva reintegração ao corpo social, máxime porque, no regime intermediário, virá o detento a ganhar as ruas, dada a possibilidade de trabalho externo, frequência a cursos profissionalizantes e saída temporária sem vigilância (arts. 35, § 2º,do CP; 37 e 122 da LEP).
+Diante desse quadro, de rigor cuidadosa análise antes de sua efetiva reintegração ao corpo social, mostrando-se temerária a concessão da benesse sem a complementação do exame criminológico coma realização de avaliação psiquiátrica, para melhor aferição do mérito do preso, como ora se faz necessário, devendo, para tanto, aguardar, o reeducando, a conclusão da avaliação pertinente no regime prisional fechado.
+ ..
+Pois bem, verifica-se que o acórdão impugnado determinou a complementação do exame criminológico, com a participação de um médico psiquiatra, com base na gravidade abstrata dos delitos, na longa pena a cumprir e em uma falta antiga (5/5/2020 - fl. 55).
+Ocorre que esta Corte entende que é inidônea a cassação da decisão do Juiz da Execução Penal que concedeu a progressão de regime em favor do paciente, para condicionar esse benefício penal à realização prévia do exame criminológico, sob argumentação genérica, baseada na gravidade abstrata dos crimes, na reincidência específica, bem como na necessidade de realização de exame criminológico por equipe multidisciplinar, com a participação de um psiquiatra e não apenas por assistentes sociais e psicólogos (AgRg no HC n. 646.476/SP, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 4/5/2021, DJe 10/5/2021).
+Com efeito, se o sentenciado foi progredido ao regime semiaberto com lastro em boletim informativo e exame criminológico favorável, é ilegal cassar o benefício por ausência de laudo psiquiátrico, somente em razão da gravidade abstrata dos crimes e de sua reincidência. A complementação da perícia por especialista de saúde mental tem de ser justificada em dados concretos ocorridos durante a execução penal, que sinalizem dúvida sobre distúrbio psíquico do apenado. Não é inválida a avaliação multidisciplinar realizada por outros profissionais habilitados (AgRg no HC n. 578.679/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/8/2020, DJe 26/8/2020).
+Ainda sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. PROGRESSÃO AO REGIME SEMIABERTO. DETERMINAÇÃO DE COMPLEMENTAÇÃO DO EXAME CRIMINOLÓGICO COM AVALIAÇÃO PSIQUIÁTRICA. GRAVIDADE ABSTRATA DOS DELITOS PRATICADOS. LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO NÃO PROVIDO.
+1. "A decisão que retarda a progressão de regime, condicionando a benesse à realização de exame complementar, com laudo psiquiátrico, configura constrangimento ilegal, sobretudo porque existe no exame já realizado, parecer favorável à concessão do benefício.  .. " (HC 414.772/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/11/2017, DJe 21/11/2017)
+2. Ocorre que não há necessidade de complementação do exame com parecer psiquiátrico, quer porque tal providência não foi recomendada por nenhum setor técnico da unidade, quer porque inexiste evidência de que o sentenciado seja portador de algum distúrbio mental que justifique a intervenção de profissional da psiquiatria.
+3. Postergar a concessão da progressão prisional ao paciente, sob a alegação de necessidade de complementação do exame criminológico com laudo psiquiátrico, mostra-se desarrazoado, sobretudo porque existe, no exame já realizado, parecer favorável de profissional habilitado à aferição do mérito do sentenciado (psicólogo). Precedentes desta Corte.
+4. Agravo regimental não provido. (AgRg no HC n. 714.862/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/3/2022, DJe 14/3/2022).
+Confira-se ainda: HC n. 772.540/SP, Ministra Laurita Vaz, DJe 22/9/2022 e HC n. 698.968/SP, de minha relatoria, DJe 1º/8/2022.
+Assim, diante da ausência de fundamentação válida para a complementação do exame criminológico, com a participação de médico psiquiatra, há de ser cassado o acórdão impugnado e restabelecida a decisão do Juízo da Execução Penal.
+Ante o exposto, concedo a ordem para cassar o acórdão impugnado e restabelecer a decisão proferida pelo Juízo da Vara das Execuções Criminais da comarca de Presidente Prudente - 5ª RAJ/SP (PEC n. 0003451-15.2021.8.26.0158) e julgo prejudicados os Agravos Regimentais n. 00452350/2024 e n. 00602815/2024.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROGRESSÃO AO REGIME SEMIABERTO CASSADA PELO TRIBUNAL A QUO. DETERMINAÇÃO DE COMPLEMENTAÇÃO DO EXAME CRIMINOLÓGICO COM AVALIAÇÃO PSIQUIÁTRICA. GRAVIDADE ABSTRATA DOS DELITOS PRATICADOS. LONGA PENA A CUMPRIR. FALTA ANTIGA. FUNDAMENTAÇÃO INIDÔNEA.
+Ordem concedida nos termos do dispositivo. Prejudicados os Agravos Regimentais n. 00452350/2024 e n. 00602815/2024.
