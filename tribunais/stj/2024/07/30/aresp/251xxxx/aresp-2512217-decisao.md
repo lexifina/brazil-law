@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo de CARLOS VARGAS DE SOUSA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO - TJES que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido no julgamento do Recurso em Sentido Estrito n. 0000471-87.2015.8.08.0035.
+Consta dos autos que o agravante foi pronunciado pela suposta prática do delito tipificado no art. 121, § 2º, II e IV, do Código Penal - CP (homicídio qualificado), na forma do art. 14, II, do CP (tentada), submetendo-o a julgamento perante o Tribunal do Júri (fl. 366).
+Recurso em sentido estrito interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO TENTADO, ARTIGO 121, §2º, INCISOS II E IV, DO CÓDIGO PENAL - ABSOLVIÇÃO SUMÁRIA - IMPOSSIBILIDADE - REQUISITOS MÍNIMOS DE AUTORIA E PROVA DA MATERIALIDADE - TENTATIVA BRANCA - INVIABILIDADE DE DECOTE DAS QUALIFICADORAS - RECURSO DESPROVIDO.
+1) A sentença de pronúncia é decisão interlocutória, de conteúdo declaratório em que o juiz proclama admissível a acusação para que esta seja decidida pelo Tribunal do Júri, diante da comprovação da materialidade do delito e da existência de indícios suficientes da autoria. No caos em apreço se mostrou inviável a tese de absolvição sumária pois foi alcançada "standard" probatório suficiente para a decisão de pronúncia, já que nesta fase não se exige a mesma densidade probatória que a necessária para condenar o acusado.
+2) Por se tratar de "tentativa branca", a prova da materialidade se perfaz juntamente com a da autoria, através dos depoimentos colhidos, principalmente da vítima sobrevivente, sendo dispensável laudo pericial diante da impossibilidade de sua realização.
+3) Devem ser mantidas as qualificadoras consistentes no motivo fútil e na utilização de recurso que dificultou a defesa da vítima, eis que existem circunstâncias que indicam que o crime foi cometido sob a absurda motivação do requerente não ter gostado do corte de cabelo com o qual a vítima se apresentava, bem como que ele teria sacado da arma contra pessoa desarmada em via pública, tolhendo qualquer chance de defesa.
+4) Recurso desprovido." (fl. 549)
+Em sede de recurso especial (fls. 563/570), a defesa apontou violação ao art. 158 do Código de Processo Penal - CPP, ao argumento de que não restou comprovada a materialidade delitiva diante da não realização de exame pericial na arma supostamente utilizada na tentativa de homicídio.
+Asseverou que o exame de constatação de eficiência/potencialidade lesiva atestou apenas a potencialidade lesiva do material bélico, mas não demonstra se o gatilho da arma foi acionado pelo ora agravante ou se ali havia projétil danificado.
+Pugnou, dessarte, pelo provimento da pretensão recursal para que seja absolvido sumariamente do crime de homicídio qualificado na forma tentada em razão da não comprovação da materialidade delitiva.
+Contrarrazões do Ministério Público do Estado do Espírito Santo - MPES (fls. 573/577).
+O recurso especial foi inadmitido no TJES em razão do óbice da Súmula n. 83 do Superior Tribunal de Justiça - STJ (fls. 578/579).
+Em agravo em recurso especial, a defesa deixou de impugnar efetivamente o referido óbice (fls. 581/585).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 607/610).
+É o relatório.
+Decido.
+Na hipótese, denota-se que não estão presentes os pressupostos de admissibilidade do agravo em recurso especial, porquanto a Defesa não impugnou todos os óbices indicados pela decisão agravada.
+A decisão proferida pelo Tribunal de origem negou trânsito ao recurso especial com fulcro no óbice da Súmula n. 83 do STJ, ao fundamento de que não há de se falar na realização de perícia nos casos de tentativa branca, notadamente por não haver corpo de delito a ser examinado (fls. 578/579).
+Em contrapartida, o agravante, nas razões do seu agravo em recurso especial (fls. 581/585), deixou de impugnar satisfatoriamente o referido fundamento. Ao contrário, apenas fez considerações acerca da aplicação do princípio da presunção de inocência na hipótese de não comprovação da materialidade delitiva.
+Neste ponto, cumpre ressaltar que o óbice referente à Súmula n. 83 do STJ deve ser refutado de forma específica, com a demonstração da inaplicabilidade do precedente indicado na decisão de admissibilidade ao caso concreto ou a apresentação de precedentes contemporâneos ou supervenientes no mesmo sentido defendido no recurso especial, o que não ocorreu na hipótese. A esse respeito, colacionam-se precedentes (grifos meus):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 83 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+3. Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+4. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1930514/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 4/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL, SÚMULAS 7 E 83/STJ. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO.
+I - Não pode ser conhecido o agravo em recurso especial que não infirma os fundamentos da decisão monocrática agravada, especificamente não enfrentou de maneira adequada a incidência das Súmulas 7 e 83/STJ.
+II - Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, sem demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+III - "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+IV - "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos" (AgRg no REsp n. 1.709.395/SC, Quinta Turma, de minha relatoria, DJe de 10/12/2018).
+Agravo regimental desprovido.
+(AgRg no AREsp 1625432/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 4/5/2020)
+Nessa medida, faz-se necessária a aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Nesse sentido, cito (grifo meu):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. No caso, o agravante deixou de refutar o fundamento segundo o qual, o acórdão recorrido foi proferido em consonância com jurisprudência do STJ, no sentido de que a tipificação dos crimes de sonegação fiscal prescinde da demonstração do dolo específico, o que atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Acrescente-se que, de acordo com o entendimento pacificado nesta Corte Superior, quando o inconformismo excepcional não é admitido pela instância ordinária, sob o fundamento de que a orientação do Tribunal se firmou no mesmo sentido da jurisprudência do STJ, tal como ocorrido na espécie, a impugnação deve indicar precedentes contemporâneos ou supervenientes, em sentido contrário aos mencionados na decisão combatida, o que não se verifica no caso em apreço.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/5/2021.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 1199706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/5/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ATENTADO VIOLENTO AO PUDOR. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO CONFIRMADA.
+A teor do do art. 253, parágrafo único, inciso I, c. c. o art. 1º, da Resolução n. 17/2013, ambos do Regimento Interno desta Corte, é manifestamente inadmissível o agravo que não impugna, especificamente, todos os fundamentos da decisão de admissibilidade.
+Agravo regimental desprovido.
+(AgRg no AREsp 982.371/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/3/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AGRAVO NÃO CONHECIDO MONOCRATICAMENTE. AUSÊNCIA DE IMPUGNAÇÃO A TODAS AS RAZÕES UTILIZADAS PELO TRIBUNAL DE JUSTIÇA LOCAL PARA INADMITIR O APELO NOBRE. ART. 932, III, do NCPC. INSURGÊNCIA DESPROVIDA.
+ ..
+3. O agravo não infirmou todos os fundamentos apontados pela Instância a quo para a inadmissão de seu apelo nobre, razão pela qual o inconformismo não foi conhecido monocraticamente pela Presidência deste Sodalício, com fulcro na norma insculpida no art. 932, III, do CPC/2015, combinado com o art. 1.º da Resolução STJ n.º 17/2013.
+4. Em sede recursal é necessário que a parte refute de forma direta os impedimentos apontados para a não admissão de seu apelo extremo, explicitando os motivos pelos quais estes não incidiriam na hipótese em testilha, ônus do qual o agravante não se desincumbiu, razão pela qual a decisão impugnada deve ser mantida por seus próprios fundamentos.
+5. Agravo a que se nega provimento.
+(AgRg no AREsp 880.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/10/2016.)
+Ante o exposto, com fundamento no art. 932, III, do CPC; art. 253, I, do Regimento Interno do Superior Tribunal de Justiça; e da Súmula n. 182 do STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
