@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em benefício de RENAN LORENA DE CARVALHO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP proferido no julgamento da Apelação Criminal n. 1512863-86.2021.8.26.0224.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 33, caput, c/c art. 40, III, da Lei n. 11.343/2006 (tráfico de drogas), à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado.
+O Tribunal a quo manteve a condenação nos termos do acórdão assim ementado:
+"AAPELAÇÃO CRIMINAL RECURSO DEFENSIVO VISANDO A ABSOLVIÇÃO IMPOSSIBILIDADE, EIS QUE A AUTORIA E MATERIALIDADE RESTARAM COMPROVADAS ATIPICIDADE DA CONDUTA IMPOSSIBILIDADE DESCLASSIFICAÇÃO PARA A FORMA TENTADA IMPOSSIBILIDADE, EIS QUE HOUVE A CONSUMAÇÃO DO CRIME RECURSO IMPROVIDO" (fl. 208).
+No presente writ, a impetrante sustenta a atipicidade da conduta do paciente, tendo em vista que "as drogas supostamente solicitadas foram imediatamente apreendidas pelos agentes penitenciários, não tendo sido ultrapassados os atos meramente preparatórios - e, portanto, impuníveis" (fl. 5).
+Requer a absolvição do apenado.
+O Ministério Público Federal - MPF manifestou-se pela concessão da ordem (fls. 228/231).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, com a presente impetração, a absolvição do paciente pela atipicidade da conduta.
+Por oportuno, confiram-se os seguintes trechos do acórdão impugnado:
+" ..
+A autoria restou inequívoca.
+O apelante em seu interrogatório quando da instauração da sindicância, afirmou que foi chamado para receber o SEDEX em seu nome e que ao revistaram os cigarros em sua presença foram encontrados escondidos nos filtros do cigarro 105 (cento e cinco) tiras de papelão de cor amarela aparentemente K4. Disse que tinha conhecimento que viria a droga no seu SEDEX. Disse que sua avó não tem conhecimento da droga em sua encomenda e que ele repassou os dados dela para terceiros, para poder tentar receber as drogas. Disse que não tem dívidas na cadeia. Não tem nenhum funcionário envolvido nisso. Não faz parte de facção criminosa (fls. 42).
+O apelante em Juízo, negou a prática do delito a ele imputado. Disse que desconhecia a existência, do SEDEX bem como a existência da droga dentro da caixa (K4). Acredita que quem fez isso, agiu com má fé com o intuito de prejudicá-lo. Às reperguntas do Ministério Público, respondeu que não foi ouvido em procedimento administrativo e que apenas foi para o castigo. Negou ter conversado com qualquer advogado em razão da prática da falta grave.
+Contudo, a versão exculpatória apresentada não contou com a necessária demonstração de veracidade, restando dissociada do conjunto probatório amealhado.
+A testemunha Alexandre Moreira de Carvalho Agente Penitenciário em Juízo, disse que seu colega Marcelo, estavam recebendo os SEDEX, quando Marcelo verificou no filtro do cigarro, um "papelzinho amarelo", momento em que encaminhou para a chefia para tomar as devidas providencias. Afirmou que estava ao seu lado quando constataram referido papelzinho. Disse que o SEDEX estava com o nome da avó do apelante. Às reperguntas do Ministério Público, disse que não conversou com o apelante.
+Como se pôde verificar, não há que se questionar a autoria, que ficou devidamente comprovada, levando-se em conta as provas trazidas aos autos, que foi totalmente corroborada pela prova testemunhal acusatória, plenamente coerente e harmônica.
+Ademais, os depoimentos dos agentes penitenciários foram coerentes e harmônicos com toda a instrução, assim como inexiste nos autos algo que possa infirmá-lo. Com efeito, a valoração do depoimento de agentes obedece aos mesmos princípios aplicados às demais pessoas. Seria absurdo considerar-lhes o cargo como fator de inidoneidade.
+Ressalte-se que a simples condição de agente público da testemunha não torna inócuos os seus depoimentos. Ademais, como é cediço, por ser agente público, goza de presunção de legitimidade, não podendo ser impedida de depor, até porque não podem ser consideradas testemunhas inidôneas ou suspeitas pela simples condição funcional.
+ ..
+Destarte, não é possível vislumbrar motivo para que os agentes penitenciários incriminassem falsamente o recorrente.
+Assim, não há que se falar em absolvição como pretende a Nobre Defesa, tampouco em atipicidade da conduta, posto que o apelante tinha plena consciência de que estava cometendo o crime de tráfico de drogas " (fls. 209/211).
+Da leitura do trecho acima transcrito, verifica-se que o ora paciente não praticou qualquer conduta que pudesse ser considerada como início do iter criminis do delito de tráfico de entorpecentes.
+Nesse contexto, a interceptação da droga pelos agentes penitenciários, antes de ser entregue ao destinatário, impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir" que viria, em tese, a ser praticada pelo paciente.
+Evidencia-se, portanto, a atipicidade da conduta imputada ao reeducando, na medida em que não praticou as condutas previstas nos arts. 28 ou 33 da Lei n. 11. 343/2006, pois o iter criminis do delito sequer foi iniciado. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ATIPICIDADE FORMAL DA CONDUTA. MERO ATO DE SOLICITAR. SUBSTÂNCIA NÃO CHEGOU AO CUSTODIADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo o art. 33 da Lei n. 11.343/2006, o delito de tráfico de drogas ocorre quando praticadas as condutas de "importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas".
+2. No caso, o paciente "solicitou" que a droga fosse entregue ao estabelecimento prisional em que se encontrava custodiado, oportunidade em que as substâncias não chegaram ao seu poder, diante da interceptação das drogas, na revista pessoal.
+3. A interceptação da droga, pelos agentes penitenciários, antes de ser entregue ao destinatário recolhido em estabelecimento prisional, impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada.
+4. Agravo regimental improvido.
+(AgRg no HC n. 849.785/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; sem grifos no original.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE ATO DE EXECUÇÃO. MERA SOLICITAÇÃO. ATIPICIDADE DA CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame da pretensão contida no recurso especial dispensa a análise do material probatório, uma vez que se restringe em saber se a interceptação da droga pelos agentes penitenciários antes de ela ser entregue ao seu destinatário, recolhido em estabelecimento prisional, impede a sua condenação pela prática do delito do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada, tratando-se, portanto, de questão eminentemente jurídica.
+2. O apelo nobre foi interposto com fundamento na alínea "a" do permissivo constitucional, por ofensa ao art. 33, da Lei 11.343/06, não havendo que se falar na necessidade d e cotejo analítico para fins de comprovação de divergência jurisprudencial.
+3. O agravado não praticou qualquer conduta que possa configurar o início do iter criminis do delito descrito no art. 33 da Lei 11.343/2006, porquanto limitou-se, supostamente, a solicitar à sua companheira (corré) a entrega da droga no interior do presídio em que se encontrava recolhido.
+4. Esta Corte tem decidido que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura, no máximo, ato preparatório e, sendo assim, impunível. Logo, é de rigor a absolvição do ora agravado, em razão da atipicidade de sua conduta, notadamente porque não comprovada a propriedade da droga.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 1.999.604/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023; sem grifos no original.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. ATIPICIDADE DA CONDUTA. AGRAVO DESPROVIDO.
+1. Segundo o decidido pelas instâncias ordinárias, a única ação praticada pelo Acusado foi ter solicitado à sua namorada que lhe levasse entorpecentes no presídio em que se encontrava recolhido.
+Não há notícia, ainda, de que o Réu a tivesse ameaçado, tampouco comprovação de que esse tenha adquirido os entorpecentes. Por outro lado, a entrega da droga não se concretizou.
+2. Tão somente a ação do Acusado de solicitar que fossem levadas drogas, cuja propriedade não se conseguiu comprovar, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja na conduta de "adquirir", a qual se entendeu subsumir a ação, seja nas demais modalidades previstas no tipo. Evidencia-se, portanto, a atipicidade da conduta.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.189.239/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023; sem grifos no original.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. MERA SOLICITAÇÃO. ATIPICIDADE DA CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A interceptação da droga pelos agentes penitenciários antes de ser entregue ao destinatário, recolhido em estabelecimento prisional, impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada. Precedentes.
+2. Na espécie, extrai-se do acórdão proferido pela Corte a quo que a única ação imputada ao ora recorrido foi ter solicitado à sua companheira (corré) a entrega da droga no interior do presídio em que se encontrava recolhido. Ademais, não há nos autos notícia de que o réu a tivesse ameaçado, tampouco comprovação de que esse tenha adquirido os entorpecentes.
+3. Nesse contexto, o ora recorrido não praticou qualquer conduta que pudesse ser considerada como início do iter criminis do delito de tráfico de entorpecentes, porquanto a mera solicitação para que fossem levadas drogas para ele, no interior ao estabelecimento prisional em que se encontra recolhido, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja no núcleo "adquirir", seja nas demais modalidades previstas no tipo penal.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.922.955/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/5/2021, DJe de 14/5/2021; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para absolver o paciente.
+Publique-se.
+Intimem -se.
+EMENTA
