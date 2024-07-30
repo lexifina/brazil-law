@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RODRIGO DIAS VARGAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL - TJRS no julgamento da Apelação Criminal n. 5006550-53.2018.8.21.0027.
+Extrai-se dos autos que o paciente foi condenado à pena de 14 anos e 6 meses de reclusão, no regime inicial fechado, além do pagamento de 1.500 dias-multa, pela prática dos crimes tipificados nos arts. 33 e 35 da Lei n. 11.343/2006, c/c os arts. 61, I, e 69 do Código Penal - CP.
+O Tribunal de origem deu parcial provimento à apelação interposta pelo paciente, para reduzir a pena ao patamar de 13 anos e 5 meses de reclusão, mantidos os demais termos da sentença. Confira-se a ementa do julgado (fl. 1.279):
+"APELAÇÃO CRIME. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI Nº 11.343/06. ASSOCIAÇÃO PARA O TRÁFICO. ART. 35, CAPUT, DA LEI N.º 11.343/06. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ART. 12 DA LEI Nº 10.826/03. RECEPTAÇÃO. ART. 180 DO CÓDIGO PENAL. IRRESIGNAÇÃO DEFENSIVA. MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. SENTENÇA CONDENATÓRIA MANTIDA. DOSIMETRIA DA PENA. REDIMENSIONAMENTO. CONFISSÃO ESPONTÂNEA. PRIVILEGIADORA DO TRÁFICO. IMPOSSIBILIDADE. PREQUESTIONAMENTO."
+No presente writ, a defesa sustenta ilegalidade das provas que embasaram o decreto condenatório ("prints nos quais a ex-companheira do paciente, supostamente, aparece conversando com os condenados"), tendo em vista que "não há demonstração alguma sobre o método utilizado pela autoridade policial para garantir integridade, autenticidade e confiabilidade das fontes de prova" (fl. 11), em desconformidade com o disposto no Código de Processo Penal - CPP e com a jurisprudência desta Corte.
+Nesse contexto, salienta que o paciente foi imputado como traficante de drogas com base em provas colhidas, exclusivamente, de celular pertencente ao corréu, e que os prints das conversas estabelecidas por aplicativo de mensagem foram registrados em inobservância à cadeia de custódia da prova digital.
+Requer, em liminar, que seja revogada a prisão do paciente, e, no mérito, que seja concedida a ordem para declarar a ilegalidade das provas e conceder a liberdade ao paciente.
+A liminar foi indeferida às fls. 1320/1321. O Ministério Público opinou pelo não conhecimento do writ às fls. 1326/1331.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ, sendo possível tão somente a verificação relativa a exist ência de flagrante ilegalidade ao direito de locomoção, que justifique a concessão da ordem de ofício, o que não ocorre no presente caso.
+Conforme relatado, busca-se, no presente habeas corpus, o reconhecimento da nulidade da prova.
+Cumpre registrar que a questão não foi objeto de análise no acórdão impugnado, o que obsta o exame por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância. Nesse sentido, é o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. NULIDADE BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. MATERIALIDADE E AUTORIA DEMONSTRADAS PELAS INSTÂNCIAS DE ORIGEM. DESCLASSIFICAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL. AGRAVO REGIMENTAL IMPROVIDO.
+1. A tese de nulidade da busca pessoal efetuada não foi objeto de análise pelo colegiado do Tribunal de origem, razão pela qual não se pode dela conhecer, por indevida supressão de instância. Nesse sentido: HC n. 360.484/BA, rel. Min. Jorge Mussi, Quinta Turma, julgado em 19/6/2018, DJe 28/6/2018; AgRg no Resp n. 1716705/PE, rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 3/4/2018, DJe 9/4/2018.
+2. Consoante a jurisprudência desta Corte Superior, "até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária" (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/5/2017).
+3. Na hipótese dos autos, as instâncias de origem, com apoio nas provas dos autos, em especial depoimentos testemunhais, colhidas sob o crivo do contraditório e laudos periciais, concluíram que a condenação era de rigor, destacando que as condutas praticadas pelo agravante se amoldam ao previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido apreendido com ele mais de 12 kg de maconha, quantidade esta condizente com a traficância.
+4. Esta Corte Superior entende que "para se concluir de maneira diversa a fim de acolher a pretensão desclassificatória, seria necessário proceder ao revolvimento das provas produzidas nos autos, o que não se mostra cabível na estreita via do habeas corpus".
+(AgRg no HC n. 852.232/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023).
+5. Agravo regimental improvido.
+(AgRg no HC n. 860.782/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Ante o exposto, com fundam ento no art. 34, XVIII, "a" , do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
