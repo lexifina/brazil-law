@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por NEIDER MAURO MARTINS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO DE VERACIDADE. COLAÇÃO DE DOCUMENTOS. COMPROVAÇÃO DE ELEMENTOS QUE EVIDENCIAM A CAPACIDADE FINANCEIRA DO AGRAVANTE. CONCESSÃO DO BENEFÍCIO. NEGADA. INTELIGÊNCIA DO ARTIGOS 99, §§ 2º E 3º, DO NCPC.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98, §1, inciso I, do Código de Processo Civil, no que concerne ao necessário deferimento do benefício da gratuidade de justiça tendo em vista que restou devidamente demonstrada sua atual situação de hipossuficiência, trazendo a seguinte argumentação:
+Excelências, analisem o documento nº10 do sequencial nº01 nele consta todos os Rendimentos do Recorrente de anos, de fato no mês de propositura da ação o Recorrente recebeu o seu 13º salário fato este que pode ter gerado a impressão de que o Recorrente possui renda superior a real que é R$2.500,00 (Dois mil e quinhentos) reais.
+Os Extratos bancários do Recorrente comprovam que não possui sequer R$100,00 reais em conta bancaria, o seu 13º salário fora utilizado para quitar débitos, como a maioria dos segurados do INSS fazem, o Recorrente é pobre.
+ ..
+Os acórdãos/decisões caminharam, data vênia, em sentido contrário à lei federal (Artigo 98 § 1º, I do CPC) afrontando-lhe, contra dizendo-lhe e negando-lhe vigência, bem como desrespeitam a Jurisprudência do STJ que garante o pleito do Recorrente.
+Diante do exposto, requeremos que os Acórdãos/decisões atacados sejam reformados para conceder ao Recorrente os benefícios da Assistência Judiciária Gratuita em todas as instâncias. (fls. 287-288).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A luz do ora asseverado, determinei a comprovação da alegada hipossuficiência financeira, pois a presunção decorrente da declaração de próprio punho esvaiu-se em face dos indícios suso apontados.
+Diante de tal determinação, foi juntado aos autos comprovante de renda do agravante, extratos bancários, e declaração de inexistência de imóvel em nome do mesmo. O benefício do agravante é no valor de R$4.271,40 (quatro mil duzentos e setenta e um reais e quarenta centavos).
+Entretanto, não houve comprovação de despesas que comprometessem sua renda, de forma a não poder arcar com os custos do processo. Nessa senda, a parte não anexou documentos que pudessem arrimar sua tese de hipossuficiência, não demonstrando que não possa arcar com as custas processuais, não permitindo, a documentação juntada, o deferimento da benesse.
+Portanto, a concessão da benesse requerida deve restringir-se àqueles que atendem os requisitos apontados, condição que a parte Agravante não satisfez. (fls. 217-219).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório" (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
