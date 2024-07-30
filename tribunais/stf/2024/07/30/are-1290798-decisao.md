@@ -1,0 +1,45 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Fundação de Desenvolvimento da Pesquisa, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “AÇÃO CIVIL PÚBLICA — Improbidade Administrativa — Contratação direta pela Municipalidade da Fundação de Desenvolvimento da Pesquisa (FUNDEP), para a prestação de serviços de consultoria e assessoria direcionada ao aperfeiçoamento do atendimento prestado aos cidadãos pela Secretaria de Finanças e Desenvolvimento Econômico — Dispensa de licitação —Subcontratação, pela fundação, dos serviços correspondentes ao Instituto Florestan Fernandes (IFF) — Ofensa aos princípios da legalidade, moralidade, impessoalidade, isonomia e eficiência —Dano ao Erário — Sentença de procedência parcialmente reformada — Recursos dos acionados desprovidos, provido o apelo ministerial —A contratação por órgão público, sem licitação, somente se admite, em casos excepcionais, se preenchidos os requisitos legais, o que não se dá se existem outras empresas ou fundações, com as mesmas finalidades, de reconhecida competência e idoneidade, as quais poderiam prestar os mesmos serviços.”
+
+    Na minuta sustenta-se violação dos arts. 5º, II e LV, 37, caput e § 5º, e 93, IX, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, não se vislumbra a alegada violação do art. 93, IX, da Carta da República. O dispositivo exige que sejam fundamentadas, ainda que sucintamente, todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes, nem a correção dos fundamentos da decisão. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas pela parte, bem como motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+
+    Da análise dos autos, verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de que “São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa”, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “DIREITO CONSTITUCIONAL. DIREITO ADMINISTRATIVO. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. SENTIDO E ALCANCE DO ART. 37, § 5 º, DA CONSTITUIÇÃO. 1. A prescrição é instituto que milita em favor da estabilização das relações sociais. 2. Há, no entanto, uma série de exceções explícitas no texto constitucional, como a prática dos crimes de racismo (art. 5º, XLII, CRFB) e da ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático (art. 5º, XLIV, CRFB). 3. O texto constitucional é expresso (art. 37, § 5º, CRFB) ao prever que a lei estabelecerá os prazos de prescrição para ilícitos na esfera cível ou penal, aqui entendidas em sentido amplo, que gerem prejuízo ao erário e sejam praticados por qualquer agente. 4. A Constituição, no mesmo dispositivo (art. 37, § 5º, CRFB) decota de tal comando para o Legislador as ações cíveis de ressarcimento ao erário, tornando-as, assim, imprescritíveis. 5. São, portanto, imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa. 6. Parcial provimento do recurso extraordinário para (i) afastar a prescrição da sanção de ressarcimento e (ii) determinar que o tribunal recorrido, superada a preliminar de mérito pela imprescritibilidade das ações de ressarcimento por improbidade administrativa, aprecie o mérito apenas quanto à pretensão de ressarcimento.” (RE 852475, Relator(a): ALEXANDRE DE MORAES, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 08-08-2018, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe25-03-2019)
+
+    Por sua vez, nos termos da jurisprudência consolidada deste Supremo Tribunal Federal, a verificação da alegada ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que tal violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, a, da Lei Fundamental.
+
+    Acrescente-se que esta Suprema Corte, no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013, decidiu que a matéria relacionada à alegação de violação dos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal não apresenta repercussão geral. O acórdão está assim ementado:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+
+    Ademais, a revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. ENQUADRAMENTO DA CONDUTA APONTADA COMO FRAUDE À LICITAÇÃO. DOLO. MÁ-FÉ. INDEPENDÊNCIA DAS INSTÂNCIAS. INEXISTÊNCIA DE CONTRARIEDADE AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO INC. LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE PRESCRIÇÃO: AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO EM AGRAVO. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1479523 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, DJe 17-04-2024)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS: ENUNCIADO Nº 279 DA SÚMULA DO STF. PRECEDENTES. MERA REITERAÇÃO DAS ALEGAÇÕES ANTERIORES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INCIDÊNCIA DO ENUNCIADO Nº 287 DA SÚMULA DO STF. 1. O recurso extraordinário foi analisado a partir das convicções da Corte de origem sobre a inocorrência da prescrição e a legitimidade do foro competente, ambas extraídas sob os aspectos fáticos e probatórios dos autos. 2. A mera reiteração dos argumentos e a alegação de que inaplicável o enunciado nº 279 da Súmula do STF não infirmam a conclusão do comando agravado. 3. A invocação de teses de Repercussão Geral que meramente orbitam a temática da prescrição, mas que não se compatibilizam com a hipótese dos autos, também não possui o condão de alterar a solução dada ao caso. 4. Não atacada a aplicação dos Temas nº 424 e nº 660 do ementário da Repercussão Geral nas razões de agravo. 5. Incidência do enunciado nº 287 da Súmula do STF: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. 6. Agravo regimental ao qual se nega provimento.” (ARE 1413982 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, DJe 23-04-2024)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 30 de julho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
