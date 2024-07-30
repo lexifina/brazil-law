@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo de LUIZ AUGUSTO DE LIMA contra decisão proferida no TRIBUNAL DE JUSTIÇA MILITAR D E SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento dos Embargos Infringentes n. 0900371-52.2023.9.26.0000.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 265 c/c art. 266, ambos do Código Penal Militar - CPM (extravio culposo de armamento), à pena de 6 meses de detenção, em regime inicial aberto, concedida suspensão condicional da pena pelo prazo de 2 anos (fl. 371).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 443). O acórdão ficou assim ementado:
+"ATIPICIDADE DE CONDUTA E ININPUTABILIDADE -ALEGAÇÃO DE QUE OS OBJETOS EXTRAVIADOS NÃOPOSSUEM A NATUREZA JURÍDICA DE ARMAMENTO PARAOS FINS DOS ARTIGOS 265 E 266 DO CPM -DESCLASSIFICAÇÃO PARA PECULATO CULPOSO -INVOCAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - APELANTE JUSTIFICOU SUA ATITUDE PELO ALCOOLISMO - IMPOSSIBILIDADE - O CONJUNTO PROBATÓRIO DEMONSTROU QUE AGIU COM NEGLIGÊNCIA -CONDENAÇÃO É DE RIGOR - SENTENÇA MANTIDA -PRELIMINAR REJEITADA - APELO NÃO PROVIDO" (fl. 439)
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 471). O acórdão ficou assim ementado:
+"MUNIÇÃO - CONDENAÇÃO - EMBARGOS DE DECLARAÇÃO- ALEGAÇÃO DE OMISSÃO E OBSCURIDADE EM RELAÇÃOÀ PRELIMINAR DE PRESCRIÇÃO RETROATIVA E AOSDISPOSITIVOS CONSTITUCIONAIS EINFRACONSTITUCIONAIS - MOTIVAÇÃO SUFICIENTE DADECISÃO - FINALIDADE MERAMENTEPREQUESTIONADORA - EMBARGOS DESPROVIDOS" (fl. 468)
+Embargos infringentes opostos pela defesa foram rejeitados (fl. 471). O acórdão ficou assim ementado:
+"EMBARGOS INFRINGENTES E DE NULIDADE. EXTRAVIO DE MUNIÇÃO. CONDENAÇÃO NAAPELAÇÃO CRIMINAL. POLICIAL MILITAR QUE VISA PREVALECER VOTO VENCIDO.PROVIMENTO NEGADO. A par da maioria da Câmara julgadora entender pela tipicidade do fatoe culpabilidade do agente, restando condenado por infração ao artigo 265, c.c. o artigo 266, doCPM, em face ao extravio de munições da Corporação, pretende o embargante a prevalência dovoto minoritário, que entendeu pela atipicidade da conduta (art. 439, "b", CPPM). Prevalência dovoto majoritário. Condenação mantida" (fl. 481)
+Em sede de recurso especial (fls. 492/500), a defesa apontou violação ao art. 439, caput e alínea "b", do Código de Processo Penal Militar, sustentando, em síntese, a atipicidade dos fatos, pela aplicação do princípio da insignificância. Aduz que a pequena quantidade de munições extraviadas (12) não representa lesão ao bem jurídico tutelado pela norma.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fl. 513).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 514/518).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 527/531).
+Contraminuta do Ministério Público (fl. 540).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 557/567).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO manteve a condenação nos seguintes termos do voto do relator (fls. 484/485):
+"Nas razões de recurso foi transcrito o voto proferido pelo e. Juiz ClovisSantinon, depreendendo-se entender que o extravio de munição não caracterizaria o delito, mastão somente o extravio de armamento. O Embargante visa, justamente, fazer prevalecer talentendimento.
+Respeitamos os posicionamentos contrários, mas, ao nosso sentir, o votomajoritário da Primeira Câmara é que deve prevalecer. Isso porque o legislador explicitamentepreviu no tipo penal como conduta passível de punição também o extravio de munição, com anítida intenção de proteger as instituições militares e a própria sociedade.
+Outrossim, a preocupação desta Corte nunca foi com a questão econômicado bem ou seu reembolso ao Erário, razão da não incidência do aventado princípio dainsignificância. Independentemente do valor dos bens extraviados, busca-se a preservação da responsabilidade de todo aquele que utiliza armamento e munição do Estado, especialmente em face ao risco de produzir à sociedade danos irreparáveis à vida, em face à utilização indevida desses materiais por terceiros.
+Nos autos sob comento, não resta dúvida de que o Apelante concorreu parao extravio da munição que lhe foi confiada pelo Estado, tendo agido com negligência em face ao material que lhe foi disponibilizado pela Administração Militar. A responsabilização penal era de rigor."
+"Segundo entendimento sufragado pelo Superior Tribunal de Justiça, cristalizado na Súmula n.º 599/STJ, o "princípio da insignificância é inaplicável aos crimes contra a administração pública", sobretudo quando perpetrados no âmbito da Administração Castrense, cujos valores institucionais e o próprio funcionamento estão alicerçados aos rigores da disciplina, da hierarquia, da ordem e da moralidade administrativa  .. " (AgRg no AREsp n. 1.450.696/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2019, DJe de 17/9/2019).
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE EXTRAVIO DE ARMAMENTO. MODALIDADE CULPOSA. PLEITO DE ABSOLVIÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte de origem reconheceu a existência do crime de extravio de armamento, diante das provas juntadas aos autos. Rever essa premissa importa em incursão no conteúdo fático-probatório carreado aos autos, tarefa inviável em recurso especial. Incidência da Súmula 7/STJ.
+2. Nos termos da orientação desta Casa, cristalizada "na Súmula n.º 599/STJ, o "princípio da insignificância é inaplicável aos crimes contra a administração pública", sobretudo quando perpetrados no âmbito da Administração Castrense, cujos valores institucionais e o próprio funcionamento estão alicerçados aos rigores da disciplina, da hierarquia, da ordem e da moralidade administrativa" (AgRg no AREsp n. 1.450.696/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/9/2019, DJe 17/9/2019).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 683.189/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/10/2021, DJe de 5/11/2021.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
