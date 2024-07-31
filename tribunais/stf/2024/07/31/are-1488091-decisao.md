@@ -1,0 +1,61 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO E TRIBUTÁRIO. CONTRIBUIÇÃO AO FGTS. BASE DE CÁLCULO. COMPOSIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 955. RE 1.050.346. FISCALIZAÇÃO DO CUMPRIMENTO DAS NORMAS RELATIVAS AO FGTS. COMPETÊNCIA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AGRAVO DESPROVIDO.
+
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado pela alínea “a” do permissivo constitucional, contra acórdão que assentou:
+
+    “TRIBUTÁRIO. FGTS. EXPEDIÇÃO DE CERTIFICADO DE REGULARIDADE, ART. 7º, V, DA LEI N. 8.036/1990. LEGITIMIDADE PASSIVA DA CEF. LEGALIDADE DA AUTUAÇÃO PELO DRT/ES. INCIDÊNCIA SOBRE TERÇO CONSTITUCIONAL DE FÉRIAS. RECURSO PARCIALMENTE PROVIDO.
+
+    1. A autora ajuizou a presente demanda objetivando a expedição de Certificado de Regularidade de FGTS e a desconstituição dos lançamentos dos débitos de FGTS objeto do Auto de Infração nº 004694929, consubstanciados na NDFG nº 030104, em razão da incompetência da Delegacia Regional do Trabalho e Emprego do Espírito Santo (DRT/ES) para fiscalizar e autuar a autora, bem como da ilegalidade da inclusão do terço constitucional de férias na base de cálculo do FGTS.
+
+    2. Nos termos do artigo 7º, inciso V, da Lei nº 8.036/1990, compete à Caixa Econômica Federal, na qualidade de agente operador do Fundo, emitir Certificado de Regularidade do FGTS. Como a pretensão deduzida em juízo envolve, além da declaração de nulidade do auto de infração, a expedição do referido certificado de regularidade, com fulcro no art. 206 do CTN, a CEF deve integrar o polo passivo da demanda juntamente com a União Federal.
+
+    3. No mérito, insurge-se a apelante contra o reconhecimento da competência da Delegacia Regional do Trabalho e Emprego do Espírito Santo (DRT/ES) para fiscalizar e autuar a apelante, uma vez que as autuações foram lavradas tendo por base os empregados localizados na filial de Itabira/MG, bem como a incompetência do Delegado Regional do Trabalho do Espírito Santo para julgar as respectivas defesas.
+
+    4. Conforme dispõe o artigo 23 da Lei nº 8.036/90, cabe ao Ministério do Trabalho a fiscalização do cumprimento das normas relativas ao FGTS. In casu, o auto de infração foi lavrado pelo DRT/ES, órgão pertencente ao Ministério do Trabalho, com competência delegada pela IN/MTE/SIT 17/2000, de 31 de julho de 2000. Inexistência, pois, do alegado vício de incompetência, a ensejar a invalidação do ato hostilizado.
+
+    5. Quanto à alegação de ilegalidade da inclusão do adicional constitucional de 1/3 de férias na base de cálculo do FGTS, em razão da natureza indenizatória de tal verba, consoante orientação firmada pelo Egrégio Superior Tribunal de Justiça, ‘o FGTS é direito autônomo dos trabalhadores urbanos e rurais de índole social e trabalhista, não possuindo caráter de imposto nem de contribuição previdenciária. Assim, não é possível sua equiparação com a sistemática utilizada para fins de incidência de contribuição previdenciária e imposto de renda, sendo irrelevante perquirir a natureza jurídica da verba trabalhista (remuneratória ou indenizatória/compensatória) para fins de incidência da contribuição ao FGTS.’
+
+    6. Ademais, encontra-se assente o posicionamento de que apenas as verbas expressamente excluídas, elencadas no art. 28, § 9º, da Lei 8.212/91, não sofrerão a incidência do FGTS, nos termos do art. 15, § 6º, da Lei 8.036/90. Desse modo, impõe-se a incidência do FGTS sobre o terço constitucional de férias, porquanto não há previsão legal específica no sentido da sua exclusão, não podendo o intérprete ampliar as hipóteses legais de não-incidência. Precedentes do STJ.
+
+    7. Apelação parcialmente provida.”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, II; 7º, XVII; 37, caput; 84, VI, “a”; 150, I; e 195, I, “a”, da Constituição Federal.
+
+    A parte recorrida apresentou contrarrazões ao recurso.
+
+    O Tribunal a quo não admitiu o recurso extraordinário, por entender que a ofensa à Constituição Federal, caso existente, seria indireta e que incidiriam, ainda, os óbices das Súmulas 279, 280, 282 e 286 do STF.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Com efeito, o Plenário desta Corte, por ocasião do julgamento do RE 1.050.346, Rel. Min. Dias Toffoli, DJe de 29/8/2017, vinculado ao Tema 955, assentou que “Não possui repercussão geral, em virtude de sua natureza infraconstitucional, a discussão acerca da definição da base de cálculo do Fundo de Garantia por Tempo de Serviço (FGTS)”, de forma, pois, que o presente recurso extraordinário não pode ser examinado quanto ao ponto.
+
+    Outrossim, desponta que, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal a quo quanto à competência para a fiscalização do cumprimento das normas relativas ao FGTS, seria mister analisar a causa à luz da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se existente, seria indireta ou reflexa. Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS. EMPRESA. VÍNCULO TRABALHISTA. FISCALIZAÇÃO. DESCARACTERIZAÇÃO ADMINISTRATIVA DO TRABALHO AUTÔNOMO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1379249-AgR, Pleno, Min. Luiz Fux (Presidente), DJe 29/6/2022)
+
+    “DIREITO TRIBUTÁRIO E PREVIDENCIÁRIO. INSTITUTO NACIONAL DE SEGURO SOCIAL. RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO PARA EFEITO DE NOTIFICAÇÃO DE LANÇAMENTO DE DÉBITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Considerada a sucumbência recíproca fixada na origem, deixo de aplicar o art. 85, §§ 2º, 3º e 11, do CPC/2015. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa.” (ARE 1.005.611-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 23/3/2017)
+
+    “DIREITO PROCESSUAL CIVIL E DO TRABALHO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. VÍNCULO EMPREGATÍCIO. QUESTÃO INFRACONSTITUCIONAL. 1. A definição de competência funcional da administração tributária para, no procedimento de fiscalização de recolhimento das contribuições previdenciárias, comprovar vínculo empregatício, não prescinde da anterior análise de legislação infraconstitucional. 2. Agravo regimental a que se nega provimento.” (AI 851.671-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 24/5/2016)
+
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. RELAÇÃO DE EMPREGO. ANÁLISE DE EVENTUAL VIOLAÇÃO DA CONSTITUIÇÃO DEPENDENTE DE REELABORAÇÃO DA ESTRUTURA FÁTICA E DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 30.01.2009. Para divergir do Tribunal de origem, na hipótese em apreço, necessário seria o revolvimento do quadro fático delineado e da legislação infraconstitucional, procedimento vedado em sede extraordinária, razão pela qual a análise de eventual afronta aos preceitos constitucionais invocados no apelo extremo esbarraria no óbice da Súmula 279 desta Corte: ‘Para simples reexame de prova não cabe recurso extraordinário.’ As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. Agravo regimental conhecido e não provido.” (AI 831.409-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 18/3/2015)
+
+    “Agravo regimental no recurso extraordinário. Competência da Justiça do Trabalho. Contribuição previdenciária. Processo de execução fiscal. Declaração incidental do vínculo empregatício. Justiça Federal. Matéria infraconstitucional. 1. No RE nº 569.056/PA, Relator o Ministro Menezes Direito, DJe de 11/12/08, com repercussão geral, o Plenário da Corte assentou o entendimento de que a competência da Justiça do Trabalho, prevista no art. 114, VIII, da Constituição Federal, alcança apenas a execução das contribuições previdenciárias relativas ao objeto da condenação constante das sentenças que proferir. 2. Reconhecimento do vínculo empregatício incidental à ação de execução de contribuições previdenciárias. Controvérsia que passa, necessariamente, pela análise de legislação infraconstitucional definidora de competência funcional da administração tributária para, no procedimento de fiscalização de recolhimento das contribuições previdenciárias, comprovar vínculo empregatício. Precedentes. 3. Na admissão da irresignação extrema, a ofensa à Constituição há ser direta e imediata, e não por via reflexa. Se, para isso, for necessário prévio exame da contenda à luz da legislação ordinária, essa é que conta, não se satisfazendo, desse modo, a exigência indispensável ao enquadramento da espécie no art. 102, inciso III, alínea a, da Lei Maior. 4. Agravo regimental não provido.” (RE 550.415-AgR, 1ª Turma, Min. Dias Toffoli, DJe 15/10/2013)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO PARA EFEITO DE RECOLHIMENTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. FISCALIZAÇÃO PREVIDENCIÁRIA. DEFINIÇÃO DA COMPETÊNCIA ADMINISTRATIVA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O debate acerca da competência administrativa do órgão de fiscalização previdenciária para reconhecer vínculo empregatício encoberto pelo empregador, com o fito de eventual cobrança das contribuições por este devidas, restringe-se ao âmbito infraconstitucional. A ofensa à Constituição, acaso existente, seria indireta, o que inviabiliza o recurso extraordinário. II - Agravo regimental improvido.” (RE 474.995-AgR, 1ª Turma, Rel. Min. Ricardo Lewandowski, DJe 24/6/2011)
+
+    Ex positis, DESPROVEJO o agravo, com base no art. 932, inc. VIII, do Código de Processo Civil, c/c o art. 21, § 1º, do Regimento Interno do STF.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 31 de julho de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
