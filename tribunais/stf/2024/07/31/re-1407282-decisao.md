@@ -1,0 +1,53 @@
+Decisão: Trata-se de recurso extraordinário, interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 16, p. 2-3):
+
+    “PROCESSUAL CIVIL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. OBRIGAÇÃO DE PAGAR QUANTIA CERTA. AUSÊNCIA DE TRÂNSITO EM JULGADO E DE PARCELA INCONTROVERSA. POSSIBILIDADE. 1. Apelação interposta pelo particular em face de sentença que, considerando a ausência de trânsito em julgado da decisão exequenda e a inexistência de valores incontroversos, extinguiu o cumprimento provisório de sentença sem resolução de mérito (art. 487, I, do CPC). 2. O § 1º do art. 100 da CF exige o trânsito em julgado nas execuções contra a Fazenda Pública para fins de pagamento de precatório ou RPV. De todo modo, é certo que, em se tratando de execução contra a Fazenda Pública, é possível a expedição de precatório referente à parte incontroversa, sem que isso ofenda à sistemática constitucional dos precatórios, porque, nesse caso, a execução se processa de forma definitiva (e não provisória). 3. No caso, verifica-se que não houve o trânsito em julgado da sentença, tampouco existe parcela incontroversa, tendo em vista que a Fazenda Nacional interpôs recurso extraordinário, discutindo o mérito da causa ( incidência, ou não, da contribuição previdenciária sobre o adicional de 1/3 de férias referente a servidor público ), bem como aponta supostas violações a regras processuais durante o julgamento da apelação, o que, a princípio, poderia afastar o albergamento da pretensa execução provisória. 4. Como ainda não há definição dos valores incontroversos, tem-se que é possível o prosseguimento da execução, mas sem expedição do requisitório correspondente. 5. Apelação parcialmente provida , para determinar o retorno dos autos à vara de origem, para que seja processado o cumprimento de sentença, nos termos da fundamentação supra.”
+
+    Os embargos de declaração foram rejeitados (eDOC 19).
+
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 100, da Constituição da República, bem como ao Tema 985 da repercussão geral. Nas razões do apelo extremo, alega-se, em suma, que (eDOC 20, p. 5):
+
+     “A execução provisória determinada pelo acórdão recorrido viola o recente julgado do Pleno do egrégio STF,tese: " É legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias.”
+
+    Em um primeiro juízo de admissibilidade, a Vice-Precidência do TRF da 5ª Região determinou a devolução dos autos ao órgão colegiado para observância dos procedimentos previstos nos inciso II do art. 1.030 do Código de Processo Civil, indicando como paradigma o Tema 985 da sistemática da repercussão geral.
+
+    Em juízo de retratação, a Turma Julgadora proferiu acórdão com a seguinte ementa (eDOC 30, p. 2):
+
+    “EMENTA PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. RETORNO DOS AUTOS PARA ADEQUAÇÃO AO RE 1.072.485/PR (TEMA 985/STF). CONTRIBUIÇÃO PREVIDENCIÁRIA. TERÇO CONSTITUCIONAL DE FÉRIAS. INCIDÊNCIA. MATÉRIA NÃO APRECIADA NA SENTENÇA OU NO ACÓRDÃO DA QUARTA TURMA. JUÍZO DE RETRATAÇÃO. NÃO CABIMENTO. 1. Os presentes autos retornam da Vice-Presidência do TRF5, a fim de que seja examinada a possibilidade de ajustar o julgamento originário desta Quarta Turma ao decidido pelo STF no RE 1.072.485/PR (Tema 985), nos termos do art. 1.040, II, do CPC. 2. A Corte Suprema, ao apreciar o RE 1.072.485/PR (Tema 985), firmou a seguinte tese jurídica: " É legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias ". 3. Nesta demanda, a discussão se limitou ao cabimento do cumprimento provisório de sentença, considerando a ausência de trânsito em julgado da decisão exequenda e a inexistência de valores incontroversos. Inexiste controvérsia, nestes autos, acerca da questão de fundo, objeto do Tema 985/STF, não havendo manifestação, na sentença ou mesmo no acórdão recorrido, acerca da incidência de contribuição previdenciária sobre o terço constitucional de férias. Demais disso, o feito principal (Processo 0001468-28.2009.4.05.8400) cuida da incidência da contribuição previdenciária sobre o terço constitucional de férias percebido por servidores públicos federais regidos pelo Regime Próprio da Previdência Social, de modo que, naqueles autos, afastou-se a aplicação do Tema 985/STF, incidindo, na hipótese, a tese firmada no Tema 163/STF. 4. Juízo de retratação não exercido .”
+
+    Ato continuo, os autos vieram a esta Corte e fora determinada a baixa dos autos à origem com a finalidade de adequação à sistemática da repercussão geral, tendo por base o RE 1.205.530-RG, Tema 28 (eDOC 38).
+
+    Em novo juízo de admissibilidade, a Vice-Presidência do TRF-5 negou seguimento ao recurso extraordinário quanto ao Temas 28 do STF e determinou a devolução dos autos para apreciação de matéria remanescente (eDOC 41).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Verifica-se que não restam questões remanescentes nos autos.
+
+    Inicialmente, consoante a orientação firmada por esta Corte, não é cabível recurso ao Supremo Tribunal Federal da decisão do Tribunal de origem que aplica entendimento da Suprema Corte, em questão de repercussão geral. Nesse sentido:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Telefonia. Cobrança de pulsos além da franquia. Matéria infraconstitucional. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de Ordem acolhida para reconhecer a inexistência de repercussão geral da matéria, reafirmar a jurisprudência do Tribunal, não conhecer o recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema e autorizar as instâncias de origem à adoção dos procedimentos do art. 543-B, § 2º, do Código de Processo Civil.” (AI 777749 QO-RG, Relator Ministro Gilmar Mendes, Pleno, DJe 26.04.2011).
+
+    Segundo o § 2º do art. 1.030 do CPC/2015, a decisão, nesta hipótese, deve ser impugnada por agravo interno no âmbito do próprio Tribunal a quo, providência não tomada pela parte Recorrente.
+
+    Assim, no ponto, o recurso não merece conhecimento.
+
+    Ademais, verifico que a alegação de ofensa ao Tema 985 do STF, não foi objeto de debate no acórdão recorrido e nem foram suscitadas em embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento, incidindo, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. EQUIPARAÇÃO SALARIAL EM CADEIA. DECISÃO MISTA. CAPÍTULO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO DE RECURSO DIRIGIDO AO SUPREMO TRIBUNAL FEDERAL. QUESTÕES REMANESCENTES. PREQUESTIONAMENTO.AUSÊNCIA.INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. PRECEDENTES. 1. Incabível recurso dirigido ao Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral no juízo de origem. 2. A orientação consolidada na Corte foi agasalhada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (artigo 1.030, § 2º, do CPC). 3. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282 e 356/STF. 4. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 5. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1305551 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, julgado em 22-03-2021, PROCESSO ELETRÔNICO DJe-078  DIVULG 26-04-2021  PUBLIC 27-04-2021)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.03.2023. RECURSO DE REVISTA. ART. 896-A, DA CLT. REDAÇÃO DADA PELA LEI Nº 13.467/2017. TRANSCENDÊNCIA DA MATÉRIA. EXIGÊNCIA. PRESSUPOSTO DE ADMISSIBILIDADE DE RECURSO TRABALHISTA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. TEMAS 181 E 660 DA REPERCUSSÃO GERAL. ALEGADA USURPAÇÃO DA COMPETÊNCIA DO STF. IMPROCEDÊNCIA. 1. Os dispositivos constitucionais dados como violados no apelo extremo não se encontram prequestionados, porquanto, não foram debatidos na decisão monocrática recorrida. Incidem, na espécie, os óbices das Súmulas 282 e 356 do STF. 2. Ademais, mesmo que fosse possível superar tal óbice, o recurso ainda assim não mereceria prosperar, eis que o TST concluiu pela ausência de transcendência do recurso interposto pela ora Recorrente, por concluir que, na hipótese, havia obstáculo processual, uma vez que, nos termos da Súmula 218/TST e do art. 896 da CLT, é incabível a interposição de recurso de revista contra acórdão proferido em agravo de instrumento. 3. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365-RG, Rel. Min. Ayres Britto, DJe 26.03.2010), visto que as ofensas à Carta Magna, caso existentes, ocorreriam de modo indireto ou reflexo. Ausente, portanto, a alegada usurpação de competência desta Suprema Corte. 4. Ademais, no julgamento do ARE 748.371-RG/MT (Rel. Min. Gilmar Mendes, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 5. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na instância de origem.”(ARE 1356440 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 29-05-2023, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 06-06-2023  PUBLIC 07-06-2023)
+
+    Pelo mesmo motivo, verifico que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicável ao caso o enunciado da súmula 284 do STF.
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do Código de Processo Civil, e art. 21, §1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 31 de julho de 2024.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
