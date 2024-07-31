@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão de minha lavra, constante às e-STJ fls. 426/430, em que conheci em parte de seu recurso especial e, nessa extensão, neguei-lhe provimento, em ação na qual se controverte sobre a natureza jurídica de stock option - se comercial ou salarial - concedida por empresa a seus empregados, para fins de incidência de contribuição previdenciária e parafiscal.
+Impugnação às e-STJ fls. 449/464.
+Passo a decidir.
+Exerço o juízo de retratação.
+Em sessão eletrônica de julgamento, finalizada em 12/12/2023, a Primeira Seção do STJ decidiu afetar à sistemática dos recursos repetitivos o REsp 2.074.564/SP (Tema 1.226), sob a relatoria do Ministro Sérgio Kukina, no qual se controverte sobre a natureza jurídica de stock option - se comercial ou salarial - concedida por empresa a seus empregados, para fins de tributação por imposto de renda.
+Confira-se a ementa do acórdão:
+DIREITO TRIBUTÁRIO. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. CONTROVÉRSIA 573/STJ. IMPOSTO DE RENDA PESSOA FÍSICA. STOCK OPTION. NATUREZA JURÍDICA PARA FINS DE TRIBUTAÇÃO.
+1. Delimitação da controvérsia: "Definir a natureza jurídica dos Planos de Opção de Compra de Ações de companhias (Stock option plan) por executivos, se atrelada ao contrato de trabalho (remuneração) ou se estritamente comercial, para determinar a alíquota aplicável do imposto de renda, bem assim o momento de incidência do tributo".
+2. Afetação como representativo da controvérsia repetitiva deferida pela Primeira Seção.
+(ProAfR no REsp 2.074.564/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 15/12/2023).
+Na ocasião, determinou-se a suspensão do julgamento de todos os processos em primeira e segunda instâncias que envolvem a matéria, inclusive no Superior Tribunal de Justiça, segundo o disposto no art. 1.037, II, do CPC/2015.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministro Regina Helena Costa, DJe 17/03/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB; e AREsp 779.676/PB, todos da relatoria do eminente Ministro BENEDITO GONÇALVES, DJe 02/12/2015, 08/03/2016, 04/03/2016 e 03/02/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa a evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Anote-se, ainda, que, conquanto o tributo sobre o qual versará o julgamento do repetitivo seja o imposto de renda e não, como na hipótese dos autos, a contribuição previdenciária e a contribuição parafiscal, é evidente que a definição da natureza jurídica das stock options, no julgamento daquele repetitivo, igualmente produzirá efeitos jurídicos na resolução da presente lide.
+Ante o exposto, RECONSIDERO a decisão agravada e DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no regime dos recursos repetitivos, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
