@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Suspentech Industria de Componentes Automotivos Ltda., em face do acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+
+    “TRIBUTÁRIO. REINTEGRA, BENEFÍCIO FISCAL. REDUÇÃO POR DECRETO, DELEGAÇÃO LEGISLATIVA. OBSERVÂNCIA DOS LIMITES DA L 13.043/2014, LEGALIDADES E CONSTITUCIONALIDADE. 1. O REINTEGRA é benefício fiscal instituído com o objetivo de devolver parcial ou integralmente o resíduo tributário remanescente na cadeia de produção de bens exportados e prevê a apuração de crédito a partir da receita obtida com a exportação de determinadas mercadorias, a ser devolvido na forma de crédito de PIS e COFINS, que não é computado na apuração da base de cálculo das contribuições para PIS-PASEP e COFINS, do IRPJ e da CSLL. Legislação relevante: Lei 12.546/2011, Medida Provisória 540/2011, Lei 12.844/2013, Lei 13.043/2014, Medida Provisória 651/2014, Decretos 8.415/2015, 8.543/2015, 9.148/2017 e 9.393/2018. 2. O Poder Executivo tem discricionariedade para estabelecer o índice de apuração do benefício, dentro dos limites outorgados na legislação própria, inclusive no que se refere ao acréscimo excepcional de dois por cento. Precedentes. 3. As imunidades de IPI, ICMS, ISS e contribuições sociais e CIDE previstas constitucionalmente não autorizam o aumento do benefício fiscal em favor dos contribuintes. 4. A redução do benefício fiscal REINTEGRA não viola os princípios da isonomia tributária, da neutralidade, da livre iniciativa ou da livre concorrência. A segurança jurídica está garantida pela formalidade da legislação e do regulamento, formalmente correto, e da observância da anterioridade tributária.”
+
+    Na minuta sustenta-se violação dos arts. 1º, II e III, 3º, II, 5º, caput e XXXV, 146-A, 149, § 2º, I, 153, IV e § 3º, III, 155, II e § 2º, I e X, “a”, 156, III e § 3º, II, 170, IV, e 195, § 12º, da Constituição Federal.
+
+    É o relatório
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Nos termos da jurisprudência consolidada deste Supremo Tribunal Federal, a verificação da alegada ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que tal violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, a, da Lei Fundamental. Nesse sentido:
+
+    "Recurso extraordinário representativo da controvérsia. Aplicação retroativa de lei mais benéfica às infrações de trânsito. Exegese das normas de trânsito. Interpretação realizada à luz das normas do Código Brasileiro de Trânsito revogado e do vigente. Matéria eminentemente infraconstitucional. Ausência de repercussão geral. 1. Não apresenta repercussão geral o recurso extraordinário que discute efeitos de normas de trânsito revogadoras e revogadas. 2. É pacífica a jurisprudência da Corte no sentido de que os conceitos dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição Federal, senão na legislação ordinária, mais especificamente na Lei de Introdução às Normas do Direito Brasileiro. 3. Ausência de repercussão geral.” (RE 657.871-RG, Rel. Min. Dias Toffoli, Pleno, DJe 17.11.2014)
+
+    “PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIOS. ÍNDICES DE CORREÇÃO MONETÁRIA RELATIVOS AOS ANOS DE 1997, 1999, 2000, 2001, 2002 E 2003. CONSTITUCIONALIDADE. PERCENTUAIS SUPERIORES AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR (INPC). REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DA JURISPRUDÊNCIA. 1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 376.846, rel. Min. CARLOS VELLOSO, DJ de 02-04-2004, afastou a alegação de inconstitucionalidade das normas que fixaram os índices de correção monetária de benefícios previdenciários empregados nos reajustes relativos aos anos de 1997, 1999, 2000 e 2001, que foram de um modo geral superiores ao INPC e observaram os comandos normativos de regência. 2. Tratando-se de situações semelhantes, os mesmos fundamentos são inteiramente aplicáveis aos índices de reajuste relativos aos anos de 2002 e 2003. 3. Incabível, em recurso extraordinário, apreciar violação ao art. 5º, XXXV e XXXVI, da Constituição Federal, que pressupõe intermediário exame e aplicação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 19.8.2011). 4. Agravo a que se conhece para, desde logo, negar seguimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.” (ARE 808.107-RG, Rel. Min. Teori Zavascki, Pleno, DJe 01.8.2014)
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REINTEGRA. BENEFÍCIO FISCAL. LEI 13.043/2014. REGULAMENTAÇÃO. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL A QUE SE DÁ PARCIAL PROVIMENTO PARA DETERMINAR A REMESSA DOS AUTOS AO SUPERIOR TRIBUNAL DE JUSTIÇA, CONFORME ART. 1.033 CPC. I - ausência de direito à apuração e utilização dos créditos residuais adicionais de até 2% do REINTEGRA, ante a ausência de regulamentação, com base na legislação infraconstitucional aplicável. II - A ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. III - Necessidade de remessa ao Superior Tribunal de Justiça para julgamento como recurso especial IV - Recurso parcialmente provido para aplicação do art. 1.033 do Código de Processo Civil.” (RE 1453738 AgR, Relator(a): CRISTIANO ZANIN, Primeira Turma, DJe 08-02-2024)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. REINTEGRA. BENEFÍCIO FISCAL. LEI 13.043/2014. REGULAMENTAÇÃO. CONTROLE DE LEGALIDADE. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. APLICAÇÃO DO ART. 1.033 DO CPC. CABIMENTO. PARCIAL PROVIMENTO AO AGRAVO. 1. A verificação da sujeição de atos regulamentares às respectivas leis de regência sujeitam-se ao controle de legalidade e não de constitucionalidade. Ofensa reflexa ao texto constitucional. Precedentes. 2. In casu, uma vez que a negativa de provimento ao mérito recurso extraordinário deu-se tão somente em virtude da afronta reflexa à Constituição Federal, é possível o envio dos autos ao Superior Tribunal de Justiça para que processe a demanda. Inteligência do art. 1.033 do CPC. 3. Agravo regimental a que se dá parcial provimento.” (ARE 1417223 AgR, Relator(a): EDSON FACHIN, Segunda Turma, DJe- 13-11-2023)
+
+    Nesse cenário, considerado o caráter infraconstitucional da controvérsia, em razão da necessidade de análise da legislação federal aplicável, e inexistindo outros óbices ao trânsito do recurso, incide o art. 1.033 do Código de Processo Civil, verbis:
+
+    “Art. 1.033: Se o Supremo Tribunal Federal considerar como reflexa a ofensa à Constituição afirmada no recurso extraordinário, por pressupor a revisão da interpretação de lei federal ou de tratado, remetê-lo-á ao Superior Tribunal de Justiça para julgamento como recurso especial.”
+
+    Ante o exposto, com base no art. 1.033 do CPC, determino a remessa deste recurso ao Superior Tribunal de Justiça para julgamento como recurso especial.
+
+    Publique-se.
+
+    Brasília, 31 de julho de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
