@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de petição nomeada como "agravo de instrumento" (fl. 2.554) e classificada como agravo em recurso extraordinário (fl. 2.581), apresentada, com base no art. 1.042 do Código de Processo Civil e razões dirigidas ao Supremo Tribunal Federal, contra a decisão que ne gou seguimento ao recurso extraordinário.
+É o que basta relatar.
+Nos termos do § 2º do art. 1.030 do CPC, contra a decisão que nega seguimento ao recurso extraordinário, com fundamento no art. 1.030, I, do CPC, admite-se a interposição de agravo interno ou regimental, não sendo cabível o agravo em recurso extraordinário, dirigido ao Supremo Tribunal Federal.
+Nessa linha, é pacífico, tanto no STF quanto no STJ, o entendimento de que a interposição do recurso incorreto contra a decisão que negou seguimento ao recurso extraordinário configura erro grosseiro, inviabilizando o conhecimento da irresignação, conforme exemplificado pelos precedentes a seguir: STJ, ARE no RE nos EDcl no AgRg no RHC n. 159.548/PR, relator Ministro Humberto Martins, Corte Especial, DJe de 30/6/2022; STF, AgR no HC n. 217.182, relator Ministro Dias Toffoli, Primeira Turma, julgado em 3/10/2022, DJe de 28/11/2022.
+Ademais, é pacificamente rejeitada por esses Tribunais Superiores a aplicação do princípio da fungibilidade recursal em casos tais, justamente por se tratar de erro grosseiro. A propósito, confira-se: AgInt no RE nos EDcl no REsp n. 1.612.818/PR, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 10/12/2019, DJe de 13/12/2019.
+Por fim, ressalto não ser aplicável na hipótese o entendimento constante da Súmula n. 727 do STF, pois, uma vez julgada a questão pela Suprema Corte em regime de repercussão geral, constitui competência própria do tribunal de origem aplicar o entendimento firmado nos demais casos idênticos ou semelhantes.
+Nesse sentido (destaques acrescidos):
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ART. 1.024, § 3º, DO CPC. USURPAÇÃO DE COMPETÊNCIA DESTA SUPREMA CORTE. INEXISTÊNCIA. SÚMULA 727/STF. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+I - O Supremo Tribunal Federal tem entendimento pacífico de que não usurpa competência desta Suprema Corte a decisão do Tribunal de origem que não conhece de agravo manifestamente incabível, interposto com base no art. 1.042 do CPC, para combater decisão que aplicou a sistemática da repercussão geral.
+II - A Súmula 727/STF, editada antes da criação do instituto da repercussão geral, não tem aplicação na espécie.
+III - Agravo regimental desprovido.
+(Rcl 61.641 AgR, relator Ministro Cristiano Zanin, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Ante o exposto, não conheço do agravo em recurso extraordinário.
+Arquivem-se ou baixem-se os autos, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO EXTRAORDINÁRIO. IMPUGNAÇÃO DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO EXTRAORDINÁRIO (ART. 1.030, I, DO CPC). MANIFESTO DESCABIMENTO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. NÃO CONHECIMENTO.
