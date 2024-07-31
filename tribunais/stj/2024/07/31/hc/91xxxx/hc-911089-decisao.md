@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RICARDO COSME SILVA DOS SANTOS de decisão na qual não conheci do habeas corpus.
+O embargante argumenta que a decisão recorrida está em divergência com o decidido no HC n. 828.783/MT, no qual foram apreciadas as alegações de excesso de prazo na conclusão de julgamento dos apelos ns. 0001156-60.2016.4.01.3601e 0000651-69.2016.4.01.3601, inclusive, com recomendação de máxima celeridade no processamento e julgamento dos feitos.
+Afirma que "nem o ingresso dos processosns. 0003855-58.2015.4.01.3601 e 0000651-69.2016.4.01.3601 nessa eg. Corte Superior, nem a prolação de decisões monocráticas por parte da Presidência em sede de ARESps (em24-4-2024 e 30-4-2024) tem o condão de retirar a competência e a obrigação legal de conceder - verbo no imperativo - habeas corpus, nos termos previstos os arts. 647, 647-A, 654, § 2º, do Código de Processo Penal ou ainda, de revisar, de ofício, a subsistência dos motivos ensejadores da custódia preventiva, com base no comando inscrito do art. 316, parágrafo único, do referido diploma legal.
+Ressalta que "o agravamentodo estado de saúde e acurial necessidade de conversão à segregação "provisória" -prisão-pena antecipada quealcança contornos de perpetuidade!!- em regime de prisão domiciliar humanitária foram concretamente suscitados nessa eg. Corte Superior no bojo do HC n. 878.858 /MT, assim, tratando-se de matérias eficientemente documentadas nessa eg. Corte Superior."
+Pontua que a "farta prova pré-constituída que expõe o cenário revelador de quase uma DÉCADA de custodia preventiva que REPROVA a ordem jurídica pátria, envolvendo a Paciente que, no local em foi jogado a ferros, adquiriu enfermidades graves e crônicas que comprometem sua supervivência, de conformidade como os Laudos Médico Clínicos, Psiquiátricos e Psicológicos anexados e do histórico dos esporádicos atendimentos que recebeu na PCE-Cuiabá-MT."
+Requer a "procedência e a utilidade do presente recurso processual, propugnando-sepelo imediato afastamento do erro material, obscuridades, omissões e contradições ut supra elencadas -que abruptamente levaram ao não conhecimentodo writ-, com a sequência ao feito e aconcessão, ainda ex officio, à ordem impetrada, nos termos pleiteados à exordial desta ação constitucional."
+É o relatório.
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Na hipótese, constata-se que as razões pelo não conhecimento do habeas corpus foram exaustivamente explicadas na decisão recorrida. Anotou-se, ainda, o tumulto processual causado pelo impetrante/paciente, tendo em vista as inúmeras petições confusas atravessadas a este feito.
+No ponto, vale anotar que o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações trazidas pela parte, ou seja, a correta instrução do feito é medida indispensável para análise da inicial, sob pena de não conhecimento.
+Sob tal contexto, não se verifica a presença de qualquer dos vícios constantes n o art. 619 do CPP.
+Ante o exposto, rejeito os embargos de declaração.
+Certifique-se o trânsito em julgado.
+Publique-se. Intimem-se.
+EMENTA
