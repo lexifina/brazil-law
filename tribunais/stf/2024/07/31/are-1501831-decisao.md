@@ -1,0 +1,99 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. DECISÃO DA PRESIDÊNCIA DO TRIBUNAL A QUO QUE NEGA SEGUIMENTO AO APELO EXTREMO COM BASE EM PRECEDENTES DA SUPREMA CORTE PROFERIDOS SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. TEMAS 339 E 660. ART. 1.030, INC. I, “A”, DO CPC. INTERPOSIÇÃO DO AGRAVO DO ART.1.042 DO CPC. INADEQUAÇÃO RECURSAL, POR SER ADMISSÍVEL, NA ESPÉCIE, APENAS, O AGRAVO INTERNO DO ART. 1.030, § 2º, DO CPC. AGRAVO NÃO CONHECIDO NESSA PARTE. AÇÃO ANULATÓRIA. IPTU. PROGRESSIVIDADE. PLANO DIRETOR. FUNÇÃO SOCIAL. PRAZO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULAS 279 E 280 DO STF. MAJORAÇÃO DE HONORÁRIOS. ART. 85, § 11, DO CPC. AGRAVO CONHECIDO EM PARTE E, NESSE PONTO, DESPROVIDO.
+
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário interposto com fundamento nas alíneas “a”, “c” e “d” do permissivo constitucional, contra acórdão que assentou o seguinte:
+
+      “Ação Anulatória de débito fiscal c.c repetição de indébito. IPTU dos exercícios de 2017 e 2018. Progressividade extrafiscal. Sentença que julgou procedente o pedido. Pretensão à reforma. Acolhimento. Contribuinte notificado para, nos termos do Plano Diretor do Município, dar cumprimento à função social da propriedade. Descumprimento dos prazos previstos na lei 16.050/14. Autora notificada em 06.11.2015 e que somente apresentou pedido de expedição de alvará de execução da obra em 29.10.2017. Ausência de provas a corroborar sua alegação de que, ante a necessidade de doação de parcela do terreno ao Município, o prazo de um ano para formulação do pedido de expedição dos alvarás de aprovação e execução seria demasiadamente exíguo. Prevalência da presunção de legalidade dos lançamentos. Possibilidade de aplicação de alíquotas progressivas, conforme artigo 182, § 4º, da CF e artigo 98 da lei municipal n. 16.050/14. Precedentes desta Corte. Sentença reformada. Recurso provido, com inversão dos ônus sucumbenciais.”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos arts. 5º, incs. XXXV e LV; 37; 93, inc. IX; 182, § 4º, inc. II, alínea “d”, da Constituição Federal.
+
+    A parte recorrida apresentou contrarrazões ao recurso.
+
+    O Tribunal a quo negou seguimento ao recurso extraordinário, com base nos Temas 339 e 660 da Repercussão Geral e o inadmitiu quanto às demais matérias, com esteio nos óbices das Súmulas 279 e 280 do STF.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Ab initio, quanto à interposição do recurso extraordinário pelas alíneas “c” e “d” do permissivo constitucional, friso que a parte recorrente não demonstrou de que forma o acórdão impugnado julgou válida lei local contestada em face da Constituição Federal ou de lei federal, como entende necessária a jurisprudência desta Suprema Corte. Desse modo, incide na hipótese a Súmula 284 desta Corte, que dispõe: “É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse viés, despontam as ementas infra:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO. LEI 4.051/1986 DO ESTADO DO PIAUÍ. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. INTERPOSIÇÃO DE APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais pertinentes, o que é vedado pela Súmula 280/STF. Precedentes. III - Apelo extremo com base na alínea c do inciso III do art. 102 da Constituição Federal. É deficiente a fundamentação do recurso que não particulariza de que forma ocorreu a alegada ofensa à Constituição. Incidência da Súmula 284 do STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC)”. (RE 1.183.212-AgR,  rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 13/5/2019).
+
+ “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AGENTE PENITENCIÁRIO ESTADUAL. PERCEPÇÃO DE ADICIONAL DE PERICULOSIDADE. BASE DE CÁLCULO. LEI 6.772/2006 DO ESTADO DE ALAGOAS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. HIPÓTESE DA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO”. (RE 896.468-AgR,  rel. Min. Luiz Fux, Primeira Turma, DJe de 20/5/2019).
+
+    (grifos acrescentados)
+
+    Ainda nesse particular, desponta do exame dos autos a ausência de cabimento do recurso extraordinário pelas alíneas “c” e “d” do permissivo constitucional, tendo em vista que, ao decidir, a Corte a quo não prestigiou a legislação local em detrimento da Constituição Federal ou da lei federal, em conflito de competência, que se afigura salutar ao conhecimento recursal por tais hipóteses. Nesse sentido, as ementas infra:
+
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO DE REGÊNCIA DE CLASSE. OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. INTERPOSIÇÃO DO APELO EXTREMO PELAS ALÍNEAS “C” E “D” DO ART. 102, III, DA CONSTITUIÇÃO FEDERAL. NÃO CABIMENTO. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. Incabível a interposição do apelo extremo pelos permissivos das alíneas ‘c’ e ‘d’ do art. 102, III, da Lei Maior, tendo em vista que o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal, tampouco julgou válida lei local contestada em face de lei federal. 3. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 4. Agravo interno conhecido e não provido”. (ARE 1447217 AgR, Rel. Min. ROSA WEBER (Presidente), Tribunal Pleno, DJe 3/10/2023)
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. COBRANÇA DE TAXA DE UTILIZAÇÃO DE TERMINAL RODOVIÁRIO. LEI N. 1.313/1997 DO MUNICÍPIO DE MAGÉ/RJ. ENUNCIADO N. 280 DA SÚMULA DO SUPREMO. INADMISSIBILIDADE. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO. RECURSO INTERPOSTO COM FUNDAMENTO NAS ALÍNEAS “C” E “D” DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INVIABILIDADE. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. Divergir da conclusão alcançada pelo Tribunal de origem – quanto ao cabimento de cobrança de taxa de uso de terminal rodoviário – demandaria reanálise do conjunto probatório, além de exame do Código Tributário Nacional e do direito local (Lei n. 1.313/1997), hipótese que atrai a aplicação, na espécie, dos enunciados n. 279 e n. 280 da Súmula do Supremo. 2. É inviável a interposição do recurso extraordinário fundamentado na alínea “c” do art. 102, III, da Carta da República, quando o Tribunal a quo não julgou válida lei ou ato de governo local contestado em face da Constituição. 3. Não se admite recurso extraordinário tendo como permissivo a alínea “d” do inciso III do art. 102 da Constituição Federal, quando ausente, no pronunciamento de origem, qualquer afirmação de validade de lei local frente a lei federal ou conflito de competência legislativa entre os entes federados. 4. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites disciplinados no art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 5. Agravo interno desprovido”. (RE 1373449 AgR, Rel. NUNES MARQUES, 2 Turma, DJe 17/4/2023)
+
+    (grifos acrescentados)
+
+    Outrossim, frise-se que o presente recurso de agravo é inadmissível contra decisão que aplica a sistemática da repercussão geral.
+
+    O Código de Processo Civil, a propósito, expressamente ratificou a orientação jurisprudencial desta Suprema Corte no caput de seu art. 1.042, ao afirmar ser incabível agravo contra decisão da Presidência ou da Vice-Presidência do Tribunal de origem que negar seguimento ao recurso extraordinário, “quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos”. Saliente-se, por fim, que, nesses casos, somente seria cabível o agravo interno no Tribunal a quo, ex vi art. 1.030, § 2º, do diploma processual. Nesse sentido:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. APLICAÇÃO DO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL FIRMADO EM SEDE DE REPERCUSSÃO GERAL NO TEMA 451. (CPC/2015, ART. 1.030, I). ALEGADA USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ALEGADA VIOLAÇÃO À SÚMULA 727. INOCORRÊNCIA. INADEQUAÇÃO DO MEIO RECURSAL UTILIZADO, POR ADMISSÍVEL, NA ESPÉCIE, UNICAMENTE O RECURSO DE AGRAVO INTERNO (CPC/2015, ART. 1.030, § 2º). PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (Reclamação 29.491-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 17/09/2018)
+
+    “Agravo regimental na reclamação. Negativa de seguimento a recurso extraordinário com fundamento no Tema nº 660 de repercussão geral (ARE nº 748371/MT-RG). Recurso extraordinário com agravo. Não conhecimento pelo Tribunal a quo. Ausência de usurpação de competência do STF. Artigo 1.042, caput, parte final, do CPC/15. Agravo regimental não provido.
+
+    1. Não cabe recurso de agravo contra decisão com que o órgão de origem, fundado em entendimento firmado em regime de repercussão geral, não admite recurso extraordinário (CPC/15, art. 1.042, caput, parte final).
+
+    2. Compete ao órgão colegiado ao qual pertence o juízo prolator do despacho de inadmissibilidade de recurso extraordinário na origem (CPC-2015, art. 1.021, caput) proceder, em sede de agravo interno, à análise de adequação entre o teor do provimento concedido pelo órgão de origem acerca do tema constitucional destacado no recurso extraordinário e a tese de repercussão geral firmada pela Suprema Corte (CPC/2015, art. 1.029, § 1º c/c o art. 1.030, § 2º).
+
+    3. Agravo regimental não provido.” (Reclamação 25.078-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 21/02/2017)
+
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Aplicação da sistemática da repercussão geral pelo juízo de origem. Recurso cabível. Agravo interno (art. 1.030, § 2º, do CPC). Agravo ao tribunal superior (art. 1.042 do CPC). Recurso manifestamente incabível. Precedentes.
+
+    1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral.
+
+    2. Essa orientação está consolidada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC).
+
+    3. Agravo regimental não provido.” (Recurso Extraordinário com Agravo 1.278.628-AgR, Rel. Min. Dias Toffoli, Presidente, Plenário, DJe de 17/09/2020)
+
+    Quanto às demais matérias, melhor sorte não assiste ao recurso.
+
+    Destaco do acórdão recorrido o seguinte trecho, in verbis:
+
+    “No caso concreto, a autora afirma que deixou de apresentar o pedido de expedição do alvará de execução no prazo previsto, porquanto estaria pendente de regularização a doação de parte da área do terreno ao próprio Município de São Paulo, para fins de alargamento da calçada, circunstância que impediria, segundo entende, a expedição do alvará de execução da obra.
+
+    Contudo, a autora não comprovou, a teor do artigo 373, I, do CPC, que eventual procedimento para formalização da doação de parte da área ao Município teria, de fato, impossibilitado o cumprimento dos prazos fixados na lei 16.050/14 e a apresentação do pedido de alvará de execução, mormente se considerarmos que a requerente dispunha do largo prazo de um ano a contar da sua notificação (06.11.2015), para regularizar a doação nas matrículas e apresentar o pedido de expedição dos competentes alvarás, mas somente apresentou seu pedido de expedição de alvará de aprovação em 26.10.2016, ou seja, quase um ano após ter sido notificada.
+
+    Ademais, o fato de o alvará de aprovação ter sido expedido somente em 29.10.2017 não se mostra relevante no caso vertente, eis que a lei exige apenas a apresentação do pedido de expedição do alvará para interrupção do prazo, e, como visto, a autora não comprovou ter deixado de apresentá-los tempestivamente em razão exclusiva de atrasos inerentes ao procedimento de doação em questão.
+
+    Nesse contexto, há de se convir que os lançamentos ora impugnados, relativos ao IPTU de 2017 e 2018, sobre os quais foram aplicadas alíquotas progressivas para cumprimento da função social, são legítimos, porquanto calcados no descumprimento de prazos devidamente estabelecidos em lei municipal e que não se mostram desproporcionais ou irrazoáveis, ao menos diante dos elementos apresentados nestes autos.”
+
+    Nesse contexto, como consignado no decisum objurgado, observa-se que, para acolher a pretensão da parte agravante e, assim, ultrapassar o entendimento do Tribunal de origem quanto à incidência do IPTU progressivo nos exercícios de 2017 e 2018, por descumprimento da função social, seria necessário analisar a legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, acaso existente, seria indireta ou reflexa, bem como reexaminar o acervo fático-probatório dos autos, providência que esbarra no óbice da Súmula 279 do STF. Nesse sentido, despontam as ementas:
+
+    “Agravo regimental em recurso extraordinário. Tributário. IPTU. Princípio da legalidade tributária. Lei complementar municipal nº 34/94. Violação reflexa. Infraconstitucional. Reexame de fatos e provas. Súmulas nºs 279 e 280/STF. 1. O Tribunal a Quo asseverou que na Lei Complementar Municipal nº 34/94 constam todos os elementos necessários para a determinação da base de cálculo do IPTU. Assim, para dissentir da conclusão a que chegou o julgado atacado, seria necessária a análise prévia da legislação infraconstitucional municipal aplicável à espécie e o reexame do conjunto fático-probatório dos autos. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Majoração do valor monetário da verba honorária já fixada em 10%, a título de honorários recursais, nos termos do art. 85, § 11, do Novo Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão de justiça gratuita” (RE 1.436.159-AgR, rel. Min. Dias Toffoli, 2ª Turma, DJe de 7/3/2024)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. ALÍQUOTAS DIVERSAS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL DESPROVIDO. (ARE 1.485.885-AgR, Min. Cármen Lúcia, 1ª Turma, DJe 22/5/2024).
+
+      “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. ISENÇÃO. LEI MUNICIPAL 893/1954 DE SANTO ANDRÉ. INCENTIVO FISCAL SETORIAL CONCEDIDO ANTES DA CONSTITUÇÃO DE 1988. NÃO CONFIRMAÇÃO POR LEI NO PRAZO DE DOIS ANOS APÓS A PROMULGAÇÃO DA CF. REVOGAÇÃO. ART. 41, § 1º, DO ADCT. CARACTERIZAÇÃO DE INCENTIVO CONCEDIDO SOB CONDIÇÃO E COM PRAZO CERTO. DIREITO ADQUIRIDO. ART. 41, § 2º, DO ADCT. NECESSÁRIO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL, DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279, 280 E 454 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.” (ARE 999.169-AgR, rel. Min. Luiz Fux, Primeira Turma, DJe de 4/8/2017)
+
+    Por oportuno, Roberto Rosas leciona sobre a Súmula 279 do STF:
+
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138)
+
+    Ex positis, CONHEÇO PARCIALMENTE o agravo e, nesta parte, DESPROVEJO-o, com fundamento no art. 932, incs. III e VIII, do Código de Processo Civil, c/c o art. 21, § 1º, do Regimento Interno do STF.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 31 de julho de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente;
