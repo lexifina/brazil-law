@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ESTER BREYER e MARCELOSZINWELSKI COHEN, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 0 3/06/2024.
+Concluso ao gabinete em: 15/07/2024.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada por ESTER BREYER e MARCELOSZINWELSKI COHEN contra a CAIXA ECONÔMICA FEDERAL - CEF, objetivando o ressarcimento pelo atraso na entrega de imóvel adquirido pelo SFH.
+Sentença: julgou procedentes em parte os pedidos iniciais para condenar a ré ao pagamento "de indenização por danos morais no valor de R$ 4.500,00 (quatro mil e quinhentos reais) à parte autora, com incidência de atualização monetária com base no IPCA-E a contar da data da sentença e de juros de mora de 1% ao mês, também, a contar desta data e; b) condenar a demandada ao ressarcimento dos juros de obra adimplidos pela parte demandante a partir de outubro de 2010, nominados um a um na fundamentação, direcionando os valores à amortização do saldo devedor na data da entrega da obra." (e-STJ, fl. 582).
+Acórdão: negou provimento à apelação da CEF e deu parcial provimento à apelação dos autores.
+Embargos de declaração: opostos pelos agravantes, foram acolhidos em parte, para suprir as obscuridades apontadas, com acréscimo de fundamentação e exclusão de trecho do voto condutor do acórdão, sem a atribuição de efeitos infringentes.
+Decisão do STJ: determinou o retorno do feito à origem para prosseguimento do exame da controvérsia.
+Acórdão: em nova análise, o tribunal de origem negou provimento à apelação interposta pela CEF e deu parcial provimento à interposta pelos agravantes, nos termos da seguinte ementa:
+"ADMINISTRATIVO E CIVIL. SFH. ATRASO NA ENTREGA DA OBRA. CERCEAMENTO DEDEFESA. DANOS MORAIS. DANOS MATERIAIS.
+1. Cabe ao magistrado determinar as providências que entender pertinentes e indeferir as que julgar desnecessárias no que tange à produção de provas, não ocorrendo cerceamento de defesa no caso em tela.
+2. O STJ, ao julgar o REsp nº 1729593/SP, sob o rito dos recursos repetitivos (Tema 996),posicionou-se no sentido de que, no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.
+3. Configurado o atraso na entrega do imóvel, cabível a condenação da parte ré ao pagamento de indenização por dano moral, o qual nos termos da jurisprudência desta Turma, mostra-se adequada a fixação em R$ 10,000,00, valor que contempla o caráter compensatório e pedagógico da indenização." (e-STJ, fl. 876).
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, §§ 2º e 8º, 141, 489, §1º, III, IV, V, e VI, 490, 492, 1.022 e 1.025 do CPC; 884, do Código Civil, e Tema 1.076/STJ, sustentando: i) omissão do julgado, acerca da ordem de gradação dos honorários; ii) que o acórdão recorrido deve ser modificado, pois fixou os honorários sucumbenciais sobre o valor da causa, quando é plenamente mensurável o valor da condenação e do proveito econômico, ferindo, assim, a ordem de preferência legal, determinada em julgamento de tese repetitiva.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de Tema Repetitivo
+Quanto ao Temas 970/STJ indicados no recurso, é de se ressaltar, que a interposição de recurso especial não é cabível quando ocorre violação de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido, ainda que contrariamente à pretensão dos agravantes, decidiu fundamentada e expressamente acerca da fixação dos honorários de sucumbência, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não
+há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 141, 490, 492 e 1.025 do CPC e 884, do Código Civil, indicados como violados, e/ou sobre o enfoque pretendido pelos agravantes, não tendo estes, opostos embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível.
+Aplica-se, na hipótese, a Súmula 282/STF.
+- Dos honorários sucumbenciais
+Quanto ao ponto, a 2ª Seção desta Corte Superior, por ocasião do julgamento do REsp 1.746.072/PR, em 13/02/2019, estabeleceu uma ordem de preferência para o arbitramento da verba honorária: (i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (iii) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+O Tribunal de origem, contudo, mesmo ante a existência de valores mensuráveis a que foi condenada a agravada, fixou a sucumbência sobre o valor da causa, destoando do entendimento desta Corte Superior de Justiça.
+Assim, merece provimento o recurso nesta parte para fixar a base de cálculo dos honorários no valor da condenação.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do agravo para conhecer em parte o recurso especial e DAR-LHE PARCIAL PROVIMENTO, para fixar os honorários de sucumbência sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. SFH. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. ALEGAÇÃO DE OFENSA A TEMA REPETITIVO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. BASE DE CÁLCULO. SÚMULA 568/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de
+declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, §1º do CPC.
+5. A ausência de decisão acerca do dispositivo legal indicado como violado impede o conhecimento do recurso especial.
+6. A 2ª Seção desta Corte Superior, por ocasião do julgamento do REsp 1.746.072/PR, em 13/02/2019, estabeleceu uma ordem de preferência para o arbitramento da verba honorária: (i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (iii) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nesta extensão, provido.
