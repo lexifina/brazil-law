@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA DE SANEAMENTO DO PARANÁ - SANEPAR contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que não admitiu recurso especial fundado na alínea "a" do permissivo c onstitucional e que desafia acórdão assim ementado (e-STJ fl. 102):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SANEPAR. ESTAÇÃO DE TRATAMENTO DE ESGOTO NOVA ITAQUI. LITISCONSÓRCIO NECESSÁRIO COM O MUNICÍPIO. MATÉRIA ALHEIA AO ROL. NÃO CONHECIMENTO. ALEGADA ILEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. AUTORA QUE SUSTENTA TER SIDO AFETADA PELA POLUIÇÃO AMBIENTAL.
+PRESCRIÇÃO. DANO CONTINUADO, QUE SE PROTRAI NO TEMPO. PRAZO PRESCRICIONAL FIXADO NA ORIGEM. REDISTRIBUIÇÃO DO ÔNUS DA PROVA PELO CDC. AGRAVANTE QUE É PRESTADORA DE SERVIÇO PÚBLICO, DE CARÁTER ESSENCIAL, REMUNERADO MEDIANTE TARIFA. PRECEDENTE DO STJ. APLICAÇÃO DO ART. 22, DO CDC. PARTE AGRAVADA EQUIPARADA AO CONSUMIDOR POR SER VÍTIMA DA SUPOSTA FALHA NA PRESTAÇÃO DO SERVIÇO. INTELIGÊNCIA DO ART. 17 DO DIPLOMA CONSUMERISTA. POSSIBILIDADE DA INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA CARACTERIZADA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 123/126).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 489, II, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, contrariedade dos arts. 186 e 206, §3º, V, do CC, argumentando que a prescrição trienal se consumou à luz da teoria da actio nata, pois os danos experimentados pela parte recorrida se iniciaram em 2013, sendo a ação proposta somente em 2020 (e-STJ fls. 130/142).
+Contrarrazões às e-STJ fls. 154/161.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa dos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, manifestando-se de modo suficientemente motivado acerca da prescrição nos seguintes termos (e-STJ fls. 124/125):
+Por oportuno, me reporto aos seguintes trechos do julgado, que dirimiram a questão suscitada nestes embargos:
+A espécie, sabidamente, envolve dano que se protraiu no tempo - neste sentido é a alegação - e, portanto, admite o entendimento lançada na decisão interlocutória que reconheceu, em parte, a ocorrência da prescrição.
+Cumpre registrar que foi reconhecida a prescrição ao período anterior à 29.06.2015, não havendo recurso da parte autora nesse sentido, marco este que fica mantido.
+Como acima reportado, a prescrição foi abordada, não havendo omissão quanto a data do início, estando claro que se trata de dano que se protrai no tempo e, por corolário lógico, afasta-se a teoria actio nata.
+Quanto a ausência de prova da existência do dano, esta análise cabe ao julgamento do mérito da ação originária, considerando que no acórdão embargado apenas foi analisada a possível prescrição, restringindo-se ao marco temporal prescricional tal como lançado na decisão que ensejou o agravo de instrumento.
+ ..
+Não se olvide que o dano reportado na inicial, em conta suas características, é dano que, obviamente, se protrai no tempo, por se tratar de dano ambiental decorrente do odor fétido que emana de estação de tratamento de esgoto. Assim não fosse, e não havendo dano ambiental posterior ao marco temporal, não haverá discussão sobre prescrição, mas sobre a existência ou inexistência, o que é diferente e bem sabe o douto procurador que subscreveu os embargos, em conta o apuro técnico que já demonstrou neste e em outros feitos.
+No mérito, os autos tratam de demanda indenizatória por dano moral decorrente de mau cheiro emitido pela Estação de Tratamento de Esgoto Nova Itaqui (Campo Largo/PR) de propriedade da concessionária/ré.
+A Corte local manteve decisão saneadora proferida na primeira instância que, entre outros temas, afastou a alegação de prescrição.
+A tese recursal é de que se deve aplicar a teoria da actio nata com o prazo prescricional de três anos (art. 206, §3º, inciso V, do Código Civil) para o ajuizamento de ação de reparação de danos decorrentes do odor emitido pela Estação de Tratamento de Esgoto - ETE , cujo início se deu com o conhecimento dos fatos pelo autor, o que teria ocorrido em 2013.
+Ocorre que, no caso, o Tribunal de origem, soberano na análise dos elementos probatórios dos autos, concluiu se tratar de dano que se protrai no tempo e que "foi reconhecida a prescrição ao período anterior à 29.06.2015, não havendo recurso da parte autora nesse sentido, marco este que fica mantido".
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial nos termos da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PRESCRIÇÃO. TERMO INICIAL. NÃO OCORRÊNCIA. DANO CONTINUADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever as premissas adotadas pelo tribunal de origem, que concluiu que houve dano de natureza contínua, resultando na prorrogação do termo inicial da prescrição, demandaria o revolvimento fático-probatório dos autos, procedimento obstado pelo disposto na Súmula nº 7/STJ.
+3. Agravo interno não provido. (AgInt no REsp 1.859.294/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 17/2/2022.).
+Demais disso, se o dano é de natureza contínua, como asseverado nas instâncias de origem, a ação indenizatória pode ser ajuizada enquanto perdurar o dano, consoante o entendimento desta Corte Superior.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Rever o entendimento lançado no acórdão recorrido, acerca da ocorrência ou não da causa interruptiva da prescrição, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+1.1. A conclusão adotada pela Corte Estadual quanto ao termo inicial do prazo prescricional, encontra-se em harmonia com a jurisprudência do STJ, firmada no sentido de que a ação indenizatória decorrente de danos de natureza contínua e permanente pode ser ajuizada enquanto perdurar o dano. Incidência da Súmula 83 STJ, aplicável aos recursos por ambas as alíneas do permissivo constitucional. 2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.710.418/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2020, DJe de 1/2/2021.).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
