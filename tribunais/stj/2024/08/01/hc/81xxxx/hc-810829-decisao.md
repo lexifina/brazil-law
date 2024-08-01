@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+EMENTA - APELAÇÃO CRIMINAL - RECURSO DEFENSIVO- TRÁFICO DE DROGAS - DESCLASSIFICAÇÃO PARA O ART. 28, DA LEI11.343/06 - INOPERADA - TRÁFICO PRIVILEGIADO - REQUISITOS NÃOATENDIDOS - NEUTRALIZAÇÃO DO VETOR RELATIVO À NATUREZA DADROGA - INCABÍVEL - MAJORANTE DE PARTICIPAÇÃO DE CRIANÇA OUADOLESCENTE - MANTIDA - REGIME PRISIONAL - PEDIDO PREJUDICADO- RECURSO CONHECIDO E IMPROVIDO.
+Imputa-se a paciente a prática do crime de tráfico de drogas.
+A defesa alega, em síntese, erro na dosimetria.
+Ao final, requer a concessão da ordem para obter a redução da pena aplicada a paciente.
+As informações foram prestadas.
+O Ministério Público Federal promoveu a concessão da ordem.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+De saída, é cediça a jurisprudência deste Superior Tribunal de Justiça no sentido de que "(..) A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade. (..)" (HC 595958 / SP, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/08/2020, DATA DA PUBLICAÇÃO/FONTE DJe 24/08/2020)
+Ou seja, a revisão da dosimetria em sede de "habeas corpus" "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+No presente feito, observa-se que a exacerbação da pena do paciente se deu de maneira motivada e inexistem elementos que permitam afirmar flagrante ilegalidade.
+De outro lado, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que se verifica de plano na hipótese dos autos, na medida em que o acórdão que reformou a sentença condenatória assim se manifestou acerca da aplicação da causa de diminuição (e-STJ Fl. 476-477):
+Na hipótese vertente, como bem dimensionado na sentença (p. 356), entendo incabível, no caso concreto, a causa especial de diminuição de pena prevista no artigo 33, § 4º, da lei de regência, pois ficou demonstrado nos autos que a ré faz do tráfico de entorpecentes seu meio de vida, dedicando-se, assim, a atividades criminosas.
+Portanto, em critérios de análise do feito, verifica-se que a ré não faz jus à causa especial de diminuição em questão, pois, diante das circunstâncias do delito, é inegável que ela se dedicava a atividades criminosas. A ré atuava como intermediária no tráfico, sendo responsável pela entrega da droga à adolescente Andressa, que, por sua vez, repassava a droga para Roger, a pedido de Luciano.
+Observa-se da fundamentação transcrita que o afastamento da causa de diminuição repousou em presunções e elementos inidôneos a indicar a habitualidade na traficância.
+Assiste razão, no ponto, ao Ministério Público Federal, que aduziu que "No caso, não foram apontados pelas instâncias ordinárias elementos concretos, idôneos e suficientes a demonstrar que a mesma se dedica a atividade criminosa. O fato de a paciente ter praticado o crime de tráfego de drogas não significa que ele se dedicava à atividade criminosa ou fazia do trafico seu meio de vida." (e-STJ Fl.520)
+No presente feito, em se tratando da apreensão de 47 g de cocaína, a redutora deve ser aplicada em seu patamar máximo, qual seja o de 2/3 (dois terços), em linha com os precedentes supracitados.
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício a VILMA BRAGA VILHALBA, para recalcular a pena relativa ao delito do art. 33 da Lei Antidrogas aplicada, estabelecendo-a em 02 (dois) anos e 4 (quatro) meses de reclusão e 223 dias-multa, a ser cumprida no regime aberto, após a aplicação da minorante no patamar de 2/3 seguida da majorante de 1/6 em decorrência da incidência do 40, VI da Lei Antidrogas. Considerando o preenchimento dos requisitos do art. 44 do CPB, substituo a pena corporal por DUAS restritivas de direito a serem fixadas pelo juízo de origem.
+Expeça-se, com urgência, o respectivo contramandado, bem como as demais comunicações pertinentes ao Tribunal de origem e ao Juízo singular.
+Publique-se. Intimem-se.
+EMENTA
