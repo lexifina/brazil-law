@@ -1,4 +1,5 @@
 Art. 2º É criado o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, autarquia federal dotada de personalidade jurídica de direito público, autonomia administrativa e financeira, vinculada ao Ministério do Meio Ambiente, com a finalidade de:
 I - exercer o poder de polícia ambiental;
 II - executar ações das políticas nacionais de meio ambiente, referentes às atribuições federais, relativas ao licenciamento ambiental, ao controle da qualidade ambiental, à autorização de uso dos recursos naturais e à fiscalização, monitoramento e controle ambiental, observadas as diretrizes emanadas do Ministério do Meio Ambiente; e
-III - executar as ações supletivas de competência da União, de conformidade com a legislação ambiental vigente.
+III - executar as ações supletivas de competência da União, em conformidade com a legislação ambiental vigente; e
+IV - implementar a Política Nacional de Manejo Integrado do Fogo nas terras indígenas, nos territórios reconhecidos de comunidades quilombolas e outras comunidades, nos assentamentos rurais federais e nas demais áreas da União administradas pela Secretaria do Patrimônio da União do Ministério da Gestão e da Inovação em Serviços Público, em parceria com os órgãos e entidades gestores correspondentes.
