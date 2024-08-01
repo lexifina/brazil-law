@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE PERNAMBUCO para desafiar decisão de minha lavra, proferida às e-STJ fls. 316/319, na qual não conheci do recurso especial, considerando a incidência da Súmula 284 do STF.
+O Estado alega, em síntese, que indicou os artigos violados e que, "considerando a tese e a quantidade de processos e recursos sobre a matéria e, ainda, que o óbice sumular apontado no r. decisum ora agravado é superável, é o caso de se mitigar os óbices processuais formais, uma vez que o mérito recursal merece ser apreciado" (e-STJ fl. 329).
+Impugnação às e-STJ fls. 335/341.
+É o relatório.
+Exerço o juízo de retratação, passando a nova análise da insurgência.
+O STF, considerando o tema relativo à "incidência do piso salarial para os profissionais do magistério público da educação básica aos servidores contratados temporariamente", afetou à sistemática da repercussão geral o Tema 1.308, nos seguintes termos: "saber se o profissional da educação escolar pública contratado em regime temporário tem direito à complementação de remuneração do piso salarial para os profissionais do magistério público da educação básica" (ARE 1.487.739/PE).
+Encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag 1.432.709/ES, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 18/12/2018; REsp 1.770.141/RJ, Relatora Ministra REGINA HELENA COSTA, Primeira Turma, DJe 18/10/2018.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 316/319 e DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do ARE 1.487.739/PE (Tema 1.308) pelo Supremo Tribunal Federal e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurs o se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+ EMENTA
