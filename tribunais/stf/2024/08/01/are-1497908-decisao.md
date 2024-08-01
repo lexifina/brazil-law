@@ -1,0 +1,57 @@
+DECISÃO
+
+    1. O Estado do Ceará formalizou, com fundamento na alínea ‘a’ do inciso III do art. 102 da Constituição Federal, recurso de extraordinário (eDoc 6) contra acórdão (eDoc 4) do Tribunal de Justiça do Estado de referido ente federativo.
+
+    Não admitido o apelo excepcional por decisão da Vice-Presidência da Corte Estadual (eDoc 11), foi formalizado o agravo previsto no art. 1.042 do Código de Processo Civil (eDoc 13), com refutação dos fundamentos da inadmissibilidade.
+
+    É o relatório. Decido.
+
+    2. Tenho como inadmissível o apelo excepcional, pois não foi preenchido o requisito contido no art. 1.035, §§ 1º e 2º, do Código de Processo Civil, c/c o art. 102, § 3º, da Constituição Federal, dada a carência de fundamentação apta a demonstrar a repercussão geral das questões constitucionais suscitadas.
+
+    Eis o fragmento da peça recursal, deduzido em termos genéricos, por meio do qual a parte pretendeu satisfazer a aludida exigência (eDoc 6, fls. 3-4):
+
+    2.1 – DA REPERCUSSÃO GERAL
+
+    No que tange à existência de repercussão geral, vê-se que a lide discutida nos autos é dotada de relevância suficiente para se enquadrar no conceito de causa que tem repercussão geral definida pelo art. 1.035, § 1º, do CPC, pois traduz “questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo”.
+
+    A presente lide, a despeito de definir, também, questão subjetiva da parte autora, versa sobre tema que possui relevância na seara forense de todo o País. Não se pode negar que a comprovação da dependência econômica para concessão de pensão por morte e que a prova emprestada possui profundo e sério conteúdo jurídico- -social, especialmente porque diz respeito à questão que interessa a todos os Entes federativos.
+
+    Diante do exposto, resta preenchido o requisito da repercussão geral da matéria constitucional objeto do presente Recurso Extraordinário.
+
+    No âmbito da jurisprudência da Suprema Corte, a demonstração da repercussão geral “não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo” (ARE 786.878 AgR, Relator o ministro Alexandre de Moraes).
+
+    O cumprimento dessa exigência se faz necessário até mesmo naquelas hipóteses de suposta repercussão geral presumida, conforme indicam os trechos de ementa a seguir transcritos:
+
+    [...]
+
+    1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito. [...]
+
+    (ARE 1.102.846 AgR, Relator o ministro Edson Fachin)
+
+    [...]
+
+    1. Deficiência na fundamentação, em recurso extraordinário interposto sob a égide do CPC/2015, da existência de repercussão geral da questão constitucional suscitada. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto. […]
+
+    (ARE 1.341.486 AgR, Relatora a ministra Rosa Weber)
+
+    [...]
+
+    I – Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, ainda que se trate de repercussão geral presumida ou reconhecida em outro recurso.
+
+    [...]
+
+    (RE 1.339.918 AgR, Relator o ministro Ricardo Lewandowski)
+
+    3. Em face do exposto, nego provimento recurso extraordinário com agravo.
+
+    Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro em 1% (um por cento) a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º.
+
+    4. Publique-se. Intime-se.
+
+Brasília, 1º de agosto de 2024.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
