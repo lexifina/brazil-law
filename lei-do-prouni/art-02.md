@@ -5,6 +5,7 @@ b) o ensino médio completo em instituição privada, na condição de bolsista 
 c) o ensino médio parcialmente em escola da rede pública e parcialmente em instituição privada, na condição de bolsista integral da respectiva instituição;
 d) o ensino médio parcialmente em escola da rede pública e parcialmente em instituição privada, na condição de bolsista parcial da respectiva instituição ou sem a condição de bolsista; e
 e) o ensino médio completo em instituição privada, na condição de bolsista parcial da respectiva instituição ou sem a condição de bolsista;
+f) o ensino médio completo em escola comunitária que atue no âmbito da educação do campo conveniada com o poder público, referida na alínea b do inciso I do § 3º do art. 7º da Lei nº 14.113, de 25 de dezembro de 2020;
 II - a estudante pessoa com deficiência, na forma prevista na legislação; e
 III - a professor da rede pública de ensino, para os cursos de licenciatura, normal superior e pedagogia, destinados à formação do magistério da educação básica, em áreas do conhecimento, especialidades e regiões estabelecidas como prioritárias em regulamento, independentemente da renda a que se referem os §§ 1º e 2º do art. 1º desta Lei.
 § 1º A sequência de classificação referente ao disposto nos incisos I e III do caput deste artigo observará a seguinte ordem:
