@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial da FAZENDA NACIONAL, interposto com fundamento no art. 105, inciso III, alínea a , da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO .
+A questão debatida nos autos, qual seja, definir "se os honorários advocatícios de sucumbência, em virtude da sua natureza alimentar, inserem-se ou não na exceção prevista no § 2º do art. 833 do Código de Processo Civil de 2015 - pagamento de prestação alimentícia", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos vinculado ao Tema 1.153/STJ, dos Recursos Especiais 1.954.380/SP e 1.954.382/SP.
+Quando da afetação, determinou-se a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a mat éria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Publicado o acórdão paradigma, caberá ao Tribunal a quo realizar eventual juízo de conformação nos termos do art. 1.040 do CPC ao que vier a ser decidido no recurso representativo de controvérsia.
+Somente após realizada essa providência, com o consequente esgotamento da instância ordinária, é que o recurso especial deverá ser remetido ao Superior Tribunal de Justiça para exame das matérias não prejudicadas pelo eventual juízo de conformação, conforme prevê o § 2º do art. 1.041 do CPC.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo código.
+Publique-se. Intimações necessárias.
+ EMENTA
