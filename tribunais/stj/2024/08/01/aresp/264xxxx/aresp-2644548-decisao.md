@@ -1,0 +1,30 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que negou provimento ao apelo defensivo e deu provimento ao recurso ministerial para condenar o recorrente à pena de 5 anos de reclusão pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+A defesa aponta a violação dos arts. 158-D do CP e 33, § 4º da Lei n. 11.343/2006, alegando, em síntese: a) a nulidade da prova material em razão da quebra da cadeia de custódia e; b) que estão presentes os requisitos para o reconhecimento do tráfico privilegiado.
+Contrarrazões às e-STJ fls. 585/595.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 653/656.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 5 anos de reclusão, pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+A defesa alega, inicialmente, a nulidade da prova material em razão da quebra da cadeia de custódia. Sobre o tema, o TJRJ assim se pronunciou:
+Em que pese as afirmações da nobre Defensoria Pública, há de se destacar que a eventual inobservância dos critérios a serem adotados na coleta das provas e as consequências da possível quebra da cadeia de custódia, deve ser apreciada em conjunto com os demais elementos probatórios.
+ ..
+Por outro lado, a defesa sequer comprovou haver alteração intencional da prova pericial, capaz de invalidá-la, ou de subsistir alguma fraude no material ilícito apreendido na posse dos réus, a ensejara anulação do processo.
+Saliente-se que a ocasional não satisfação ocasional de alguns dos regramentos para a realização do exame pericial, não acarretou, in casu, consequência negativa ao silogismo jurídico do Magistrado sentenciante, cujo convencimento se deu com base em extenso acervo probatório e à luz dos princípios do contraditório e da ampla defesa. (e-STJ fls 544/545).
+Tendo o Tribunal de origem concluído expressamente pela integridade da prova, a análise do pleito de reconhecimento da quebra da cadeia de custódia dependeria do revolvimento de fatos e provas, vedado pela Súmula n. 7, STJ. Nessas linha: AgRg no HC n. 861.040/PE, desta Relatoria, DJe de 13/3/2024; AgRg no REsp n. 2.070.794/SP, desta Relatoria, DJe de 30/10/2023 e AgRg no HC n. 818.830/PE, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT -, Sexta Turma, DJe de 26/10/2023.
+Quanto ao redutor do § 4º do art. 33 da Lei de Drogas, esses foram os fundamentos para negá-lo:
+De outro giro, incabível a incidência do tráfico privilegiado, na medida em que, segundo a prova constante nos autos, o réu se dedicava a atividade de mercancia ilícita de entorpecente na localidade onde foi preso.
+As testemunhas policiais esclareceram que, através da informação passada pelo setor de inteligência, havia um estrangeiro que comercializava drogas em Ipanema e Leblon e, naquele momento, ele estava no Recreio dos Bandeirantes, esperando para vender o entorpecente.
+Acrescentaram que, durante a diligência no hostel e questionamento informal às pessoas presentes no local, ouviram que o acusado era frequentemente procurado por indivíduos.
+Há de que considerar, também, a variedade de natureza da droga encontrada em sua posse, tratando-se de maconha e cocaína, inobstante a pequena quantidade. (e-STJ fl. 545).
+Para aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam: ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Na hipótese, após apreciação do acervo probatório, as instâncias de origem concluíram que o recorrente se dedicava à atividade ilícita.
+Para afastar a conclusão da instância ordinária seria necessário o revolvimento de matéria fático-probatória, providência inadmissível na via do recurso especial. Incidência da Súmula 7 do STJ. A propósito: AgRg no HC n. 759.512/MS, relator Ministro João Batista Moreira, - Desembargador Convocado do TRF1 -, Quinta Turma, DJe de 13/3/2023). Na mesma linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. REQUISITOS LEGAIS NÃO PREENCHIDOS. INVERSÃO DO JULGADO. REEXAME DE FATOS E PROVAS. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante o § 4.º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena diminuída, de 1/6 (um sexto) a 2/3 (dois terços), quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa. Para que o agente possa ser beneficiado, é preciso preencher cumulativamente os requisitos.
+2. As instâncias ordinárias afirmaram, com base no acervo probatório, que o ora recorrente transportava 600kg de maconha em um veículo furtado, com placas falsificadas, estando a serviço de organização criminosa voltada ao tráfico transnacional de drogas.
+Assim sendo, a aplicação do benefício do tráfico privilegiado foi descartada na origem por se constatar a presença de elementos outros, além da quantidade e natureza da droga apreendida, indicativos de inserção na cadeia criminosa. Entendimento em sentido contrário demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável em sede de recurso especial. Incidência da Súmula 7/STJ.
+3. Agravo regimental não provido. (AgRg no AREsp n. 2.295.521/MS, desta Relatoria, DJe de 30/6/2023).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
