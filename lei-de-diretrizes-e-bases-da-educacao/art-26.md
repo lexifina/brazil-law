@@ -11,7 +11,7 @@ VI - que tenha prole.
 § 4º O ensino da História do Brasil levará em conta as contribuições das diferentes culturas e etnias para a formação do povo brasileiro, especialmente das matrizes indígena, africana e européia.
 § 5º No currículo do ensino fundamental, a partir do sexto ano, será ofertada a língua inglesa.
 § 6º As artes visuais, a dança, a música e o teatro são as linguagens que constituirão o componente curricular de que trata o § 2º deste artigo.
-§ 7º A integralização curricular poderá incluir, a critério dos sistemas de ensino, projetos e pesquisas envolvendo os temas transversais de que trata o caput.
+§ 7º A integralização curricular poderá incluir, a critério dos sistemas de ensino, projetos e pesquisas envolvendo temas transversais que componham os currículos de que trata o caput deste artigo.
 § 8º A exibição de filmes de produção nacional constituirá componente curricular complementar integrado à proposta pedagógica da escola, sendo a sua exibição obrigatória por, no mínimo, 2 (duas) horas mensais.
 § 9º Conteúdos relativos aos direitos humanos e à prevenção de todas as formas de violência contra a criança, o adolescente e a mulher serão incluídos, como temas transversais, nos currículos de que trata o caput deste artigo, observadas as diretrizes da legislação correspondente e a produção e distribuição de material didático adequado a cada nível de ensino.
 § 9º-A. A educação alimentar e nutricional será incluída entre os temas transversais de que trata o caput.
