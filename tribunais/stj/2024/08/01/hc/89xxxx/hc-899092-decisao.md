@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de BRUNNO HENRIQUE DE SENA e BRENNO FELIPE DE SEN A contra ato omissivo do Tribunal de Justiça do Estado de Pernambuco, qual seja, a demora no julgamento da apelação n. 0040971-18.2016.8.17.0810.
+Noticia a defesa que os pacientes estão presos preventivamente desde 30/5/2016 (Brunno) e 02/8/2019 (Brenno), e foram condenados pela prática do crime de homicídio qualificado, às penas privativas de liberdade de 22 anos e 06 meses, bem como a 20 anos de reclusão, respectivamente, ocasião em que foram mantidas as segregações preventivas.
+Irresignada com a sentença, a defesa interpôs recurso de apelação, o qual pende de julgamento perante o Tribunal de Justiça local.
+Nas razões do presente mandamus (e-STJ fls. 3/7), o impetrante sustenta que o constrangimento ilegal evidencia-se pela demora na apreciação da apelação, interposta em 28/7/2022, e por conseguinte, no tempo de segregação cautelar dos pacientes: Brunno está preso há quase 8 anos e Brenno, há 4 anos e 6 meses.
+Ressalta que a prisão cautelar foi mantida na sentença com base na gravidade abstrata do delito e a demora de mais de 2 (dois) anos no julgamento do recurso não se deve a causas atribuíveis à defesa.
+Pede, liminarmente e no mérito, a concessão de liberdade provisória aos agentes, a fim de que eles possam aguardar o julgamento dos seus recursos.
+Indeferido o pedido liminar (e-STJ fls. 48/50 e prestadas as informações (e-STJ fls. 53/58 e 69/74), o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 76/79), assim ementado:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO DA CUSTÓDIACAUTELAR.
+INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Neste writ, o impetrante pede o relaxamento da prisão preventiva, em razão do excesso de prazo para o julgamento da apelação. Afirma que o recurso está concluso ao relator há mais de 1 ano, sem previsão de julgamento e sem sequer ter sido relatado.
+2. No caso dos autos, não se verifica a existência de desídia do Poder Judiciário no processamento e julgamento do feito, a justificar a necessidade de expedição de alvará de soltura em favor dos pacientes.
+3. A autoridade impetrada ressaltou que tão logo os autos retornem ao respectivo gabinete, será dada prioridade na análise do pedido formulado pela defesa, bem como se dará celeridade ao julgamento do apelo.
+- Parecer pela denegação do habeas corpus.
+É o relatório. Decido.
+A defesa sustenta excesso de prazo na prisão em virtude da demora no julgamento do recurso de apelação, e pede a concessão do direito de recorrer em liberdade.
+Sem razão.
+"Os prazos processuais não tem as características de fatalidade e improrrogabilidade, fazendo-se imprescindível raciocinar com juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais" (precedentes) (RHC n. 88.588/MS, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 14/11/2017, DJe 22/11/2017).
+No particular, os pacientes estão presos preventivamente desde 30/5/2016 (Brunno) e 02/8/2019 (Brenno), e foram condenados pela prática do crime de homicídio qualificado, às penas privativas de liberdade de 22 anos e 06 meses, bem como a 20 anos de reclusão, respectivamente, ocasião em que foram mantidas as segregações preventivas (sentença às e-STJ fls. 21/26).
+Sobre o andamento da ação penal, foram prestadas as seguintes informações:
+Em atenção aos Ofícios nºs. 032736/2024-CPPE e 057034/2024-CPPE, comunico a Vossa Excelência que tramita sob minha relatoria a Apelação Criminal nº. 0040971-18.2016.8.17.0810, extraída da Ação Penal nº. 0019380-97.2016.8.17.0810, oriunda da 1ª Varado Tribunal do Júri da Comarca do Jaboatão dos Guararapes, na qual os Pacientes e os corréus Lucas Rufino Nicodemos Marques, Edson Nascimento da Silva Júnior e Wallbson Gomes de Melo foram denunciados como incursos nas penas do art. 121, §2º, incisos I, III e IV, do CPB, por fato ocorrido em 12/01/2016.
+Colhe-se dos autos que, em 15/06/2016, por ocasião do recebimento da denúncia, a prisão preventiva dos Pacientes e dos corréus foi decretada, como forma de garantir a ordem pública.
+Os réus Brunno Henrique de Sena, Edson Nascimento da Silva Júnior e Wallbson Gomes de Melo foram citados pessoalmente, porém os acusados Lucas Rufino Nicodemos Marques e Brenno Felipe de Sena não foram localizados para fins de citação.
+Lucas Rufino Nicodemos Marques e Brenno Felipe de Sena foram citados por edital, respectivamente, em 01/08/2016 e 01/12/2016, contudo o primeiro foi preso em 05/09/2016.
+Por sua vez, o Paciente Brenno Felipe de Sena, citado por edital, constituiu advogado nos autos em 20/01/2017.
+Após, regular instrução, em 10/09/2018, os Pacientes e os corréus foram pronunciados como incursos nas penas do art. 121, §2º, incisos I e IV, do CPB, ocasião em que foi mantida a custódia preventiva.
+Destaque-se que, até a pronúncia dos réus, o Paciente Brenno Felipe de Senas e encontrava foragido.
+Irresignados com a pronúncia, os Pacientes interpuseram recurso em sentido estrito, enquanto a decisão precluiu para os demais acusados.
+Em 09/05/2019, o processo originário de nº. 0019380-97.2016.8.17.0810 foi desmembrado e passou a tramitar apenas com os demais pronunciados, enquanto o traslado, de nº. 0040971-18.2016.8.17.0810, foi encaminhado a este Tribunal para julgamento do recurso em sentido estrito ofertado pelos Pacientes.
+Em 15/08/2019, foi comunicada a prisão do Paciente Brenno Felipe de Sena e o seu encarceramento no Centro de Detenção Provisória de Santo André/SP.
+Em 12/11/2019, a Terceira Câmara deste Tribunal, à unanimidade de votos, negou provimento ao Recurso em Sentido Estrito nº. 0531841-4, interposto pelos Pacientes, mantendo a pronúncia daqueles. Em 12/02/2020, os autos retornaram à instância originária para que os Pacientes fossem levados a júri.
+Em 07/07/2022, os Pacientes foram submetidos a julgamento perante o Tribunal do Júri, restando condenados como incursos no art. 121, §2º, incisos I e IV, do CPB, sendo imposta a Brenno Felipe de Sena a pena privativa de liberdade de 20 (vinte) anos de reclusão, e a Brunno Henrique de Sena a pena de 22 (vinte e dois) anos e 6 (seis) meses de reclusão, sendo-lhes negado o direito de recorrer em liberdade, expedindo-se, em consequência, as guias de recolhimento provisórias.
+Inconformada, a defesa dos réus recorreu da condenação em plenário, manifestando o desejo de ofertar razões recursais nesta instância.
+Em 28/07/2022, o apelo foi autuado e distribuído nesta instância sob o nº. 0575119-5.
+Em 10/08/2022, a Procuradoria de Justiça em matéria criminal apresentou cota, pugnando pela intimação dos advogados de defesa para ofertar razões recursais, o que foi determinado em 23/08/2022.
+Intimada a defesa em 25/08/2022, esta apresentou a peça recursal em 16/11/2022.
+Contrarrazões apresentadas em 09/01/2023.
+Parecer da Procuradoria de Justiça em matéria criminal pelo desprovimento do apelo, apresentado em 13/01/2023.
+Em 17/01/2023, vieram-me os autos conclusos.
+Em 27/10/2023, os autos físicos seguiram para digitalização e, em 08/01/2024, foram importados ao PJe, contudo faltava a juntada correspondente às audiências digitais para que fosse retomado o trâmite processual.
+Em 12/01/2024, sem que as partes tivessem sido intimadas da migração, a defesa dos Pacientes atravessou petição nos autos, reiterando pedido de relaxamento da prisão, protocolizado em 03/01/2024.
+Em 12/04/2024, foi certificada nos autos a juntada das mídias e, nesta data, o processo foi encaminhado à Diretoria Criminal para intimação das partes acerca do processamento do feito em meio eletrônico e posterior remessa à Procuradoria de Justiça para se manifestar sobre o pedido de relaxamento da prisão dos Pacientes.
+Informo, por fim, que, tão logo os autos retornem a este gabinete, será dada prioridade na análise do pedido formulado pela defesa, bem como sedará celeridade ao julgamento do apelo.
+Apenas a título de conhecimento, comunico que, em 08/10/2019, os corréus foram submetidos a julgamento perante o Tribunal do Júri, oportunidade em que Lucas Rufino Nicodemos Marques e Edson Nascimento da Silva Júnior restaram absolvidos, enquanto Wallbson Gomes de Melo foi condenado como incurso no art. 121, §2º, incisos I e IV, do CPB, sendo-lhe imposta a pena de 28 (vinte e oito) anos de reclusão, a ser cumprida inicialmente em regime fechado.
+Irresignados com a decisão do Conselho de Sentença, a defesa de Wallbson Gomes de Melo e o Ministério Público recorreram.
+Em 01/11/2023, a Terceira Câmara deste Tribunal, por unanimidade de votos, nos autos da Apelação Criminal nº. 0547502-9 (NPU 0019380-97.2016.8.17.0810), deu parcial provimento ao recurso da defesa de Wallbson Gomes de Melo, para reduzir a pena imposta, e negou provimento ao recurso do Parquet.
+Informo, ainda, a Vossa Excelência que, além da ação penal em referência, os Pacientes também foram condenados no processo-crime nº. 0040792-03.2016.8.17.0810, oriundo da 1ª Vara do Tribunal do Júri da Comarca de Jaboatão dos Guararapes, pela prática do crime tipificado no art. 121, §2º, incisos I e IV, do CPB, e, tal como nos autos em referência, foi-lhes negado o direito de recorrer em liberdade.
+Saliento, ao fim, que foi impetrado nesse Superior Tribunal, em favor dos Pacientes Brunno Henrique de Sena e Brenno Felipe de Sena, o Habeas Corpus nº. 899101/PE, sob relatoria do Ministro Antonio Saldanha Palheiro, no qual se aduz ilegalidade da custódia preventiva decretada na Ação Penal nº. 0040972-03.2016.8.17.0810.
+Para a caracterização do excesso de prazo, a demora excessiva deve estar vinculada à desídia do Poder Público, em decorrência, por exemplo, de eventual procedimento omissivo do magistrado ou da acusação, o que não restou comprovado, na espécie.
+No particular, a defesa apresentou seu recurso em julho/2022 e precisou ser intimada para apresentar as contrarrazões, o que foi feito apenas 4 (quatro) meses após a interposição do recurso, ou seja, em novembro/2022. Nesse contexto apresentado, incide o enunciado da Súmula n. 64 desta Corte Superior: Não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa. (Súmula 64, Terceira Seção , julgado em 3/12/1992, DJ 9/12/1992 p. 23482).
+Ademais, durante o trâmite do apelo, houve necessidade de digitalização dos autos, com procedimentos e juntadas de documentos pela primeira instância, além da situação de pandemia pelo Covid-19 que, infeliz mas inevitavelmente, protraiu o andamento de todos os processos.
+Lado outro, Eventual excesso de prazo no julgamento de apelação deve ser aferido com base na quantidade de reprimenda imposta por sentença condenatória  ..  (AgRg no HC 691.955/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 22/2/2022, DJe 24/2/2022), que, no particular, é elevada: 22 anos e 06 meses (Brunno), e 20 anos (Brenno) de reclusão.
+Assim sendo, porquanto não comprovada a desídia do Tribunal de Justiça local na condução do processo, não se vislumbra constrangimento ilegal hábil a ser reparado por este Superior Tribunal de Justiça.
+Ante o exposto, admito em parte o habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
