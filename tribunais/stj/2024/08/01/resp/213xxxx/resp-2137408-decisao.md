@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se recurso especial interposto por VALDEMI BERNARDO NUNES fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 11/07/2023.
+Concluso ao gabinete em: 26/04/2024.
+Ação: revisional c/c obrigação de fazer, ajuizada por VALDEMI BERNARDO NUNES em face de FORD MOTOR COMPANY BRASIL LTDA e BRADESCO SAUDE S/A, pretendendo a manutenção do contrato de plano de saúde nos mesmos moldes do ofertado enquanto empregado da Ford e sem limitação temporal.
+Sentença: julgado parcialmente procedente o pedido "para o fim de condenar a corré Bradesco Saúde a seguir disponibilizando ao autor e sua dependente o plano de saúde que atualmente é oferecido pela corré FORD aos empregados que estão na ativa, na categoria e mediante a assunção, pelo autor, dos valores indicados no laudo pericial" (fl. 2.554, e-STJ).
+Acórdão: o TJ/SP, por unanimidade, negou provimento à apelação de VALDEMI e deu parcial provimento à do BRADESCO "para determinar que sejam assumidos pelo autor não os valores indicados no laudo pericial e sim os valores praticados, em cada período contratual, em relação aos funcionários ativos da mesma faixa etária do autor e de sua dependente" (fl. 2.690, e-STJ). Eis a ementa do acórdão:
+ILEGITIMIDADE PASSIVA - Não configuração - A operadora é responsável pela prorrogação do seguro saúde com garantia das mesmas condições anteriores - Preliminar afastada. SEGURO SAÚDE - Contrato estipulado entre a seguradora e a ex-empregadora do autor - Beneficiário que já ostentava a qualidade de aposentado à época da extinção do vínculo de trabalho - Aplicação do artigo 31 da Lei nº 9.656/98 - Reconhecido o direito à manutenção do plano por tempo indeterminado, nas mesmas condições de quando na ativa - Sem razão a insurgência contra a cobrança efetuada após a rescisão do contrato de trabalho, pois esta efetivamente corresponde à soma das contribuições do autor e da ex-empregadora - Conforme tese consolidada pelo Superior Tribunal de Justiça em julgamento sob o rito dos recursos especiais repetitivos, admite-se a diferenciação por faixa etária se for contratada para todos, qual é o presente caso - Reconhecido o dever do autor de arcar com os mesmos valores praticados, em cada período contratual, em relação aos funcionários ativos da mesma faixa etária do autor e de sua dependente - DOS RECURSOS, PARCIALMENTE PROVIDO O DA RÉ E NÃO PROVIDO O DO AUTOR.
+Embargos de Declaração: opostos por VALDEMI, foram rejeitados.
+Recurso especial: alega violação dos arts. 31 da Lei 9.656/1998 e 302 do CPC. Alega, em síntese, que "o valor integral da mensalidade não foi devidamente apurado, vez que até o momento o subsídio da ex-empregadora não foi esclarecido, sendo que por mais que o contrato dos ativos seja por faixa etária é necessário que se saiba o custo efetivo do plano para evitar cobranças unilaterais e que impeçam o exercício do direito" (fl. 2.707, e-STJ). Acrescenta que "não cabe compensação de valores, pois a mensalidade ainda não é conhecida, tendo em vista que não houve comprovação do subsídio da ex-empregadora" (fl. 2.708, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 302 do CPC, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível.
+Aplica-se, na hipótese, a súmula 211/STJ.
+- Da existência de fundamentos não impugnados
+A parte recorrente não impugnou os fundamentos utilizados pelo TJ/SP, no sentido de que (i) "o douto perito reconheceu à fl. 2394 que, para custeio do seguro saúde dos funcionários ativos, a Ford Motor Company Brasil Ltda. repassa para a Bradesco Saúde S/A a integralidade dos valores da tabela de preços por faixa etária impugnada pelo autor" e de que (ii) "o laudo pericial de fls. 2384/2397 cumpriu a contento o acórdão de fls. 2129/2132, do qual constou expressamente que, caso a tabela de fl. 27 representasse os valores efetivamente pagos pela Ford Motor Company Brasil Ltda. em benefício de seus funcionários ativos, o autor realmente estaria obrigado a pagá-los" (fl. 2.689, e-STJ).
+Logo, deve ser mantido o acórdão recorrido por força da incidência da súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão da perícia acerca dos valores efetivamente pagos pela FORD em benefício de seus funcionários da ativa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela súmula 7/STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.500, (dois mil e quinhentos reais) para cada ré (e-STJ fls. 2.554) para R$ 2.750,00 (dois mil, setecentos e cinquenta reais) em favor de cada recorrido, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL C/C OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação revisional c/c obrigação de fazer.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súmula 211/STJ).
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (súmula 283/STF).
+4. O reexame de fatos e provas em recurso especial é inadmissível (súmula 7/STJ).
+5. Recurso especial não conhecido, com majoração de honorários.
