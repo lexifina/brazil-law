@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recurso especial com fundamento no art. 105, III, da Constituição Federal.
+Na origem, trata-se de cumprimento individual de sentença coletiva no valor de R$ 42.569,85 (quarenta e dois mil, quinhentos e sessenta e nove reais e oitenta e cinco centavos), decorrente de título judicial formado nos autos da Ação Coletiva n. 99.0063635-01, ajuizada pelo Sindicato dos Trabalhadores em Educação da Universidade Federal do Rio de Janeiro - SINTUFRJ, em que se reconheceu o direito de seus substituídos ao reajuste de 3,17% a seus vencimentos, a partir de janeiro de 1995.
+A Universidade Federal do Rio de Janeiro apresentou embargos à execução, os quais foram julgados improcedentes, com a fixação de honorários advocatícios no importe de 5% (cinco por cento) sobre o valor embargado.
+A UFRJ interpôs apelação, a qual foi parcialmente provida para dar parcial provimento ao embargos e determinar (i) o prosseguimento da execução apenas pelo montante devido a título de honorários (ii) e a cessação do pagamento da rubrica de 3,17%.
+Após o trânsito do julgado acima mencionado, André Viz Advogados e Associados requereu: a) arbitramento de honorários advocatícios da ação de cumprimento de sentença coletiva; e b) expedição dos RPV"s referentes aos valores devidos a título de honorários advocatícios no importe de R$ 3.869,99 (três mil, oitocentos e sessenta e nove reais e noventa e nove centavos), atualizado até maio/2012.
+Após discordar dos cálculos apresentados pela Contadoria Judicial, a Sociedade de Advogados ora recorrente, peticionou nos autos requerendo a a elaboração de novo cálculo, argumentando que os honorários devem ser "apurados sobre a totalidade das verbas executadas antes do abatimento de eventuais pagamentos administrativos, por se tratar de verba autônoma, devida ao patrono da causa e sobre a qual não houve qualquer pagamento" (fl. 637).
+Após sentença que declarou a obrigação satisfeita e extinguiu a execução, o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO negou provimento à apelação da Sociedade de Advogados Apelante, ficando consignado que "não se justifica, no âmbito de cumprimento individual de sentença do título executivo judicial formado em ação coletiva, o deferimento de honorários sucumbenciais em favor dos patronos do sindicato que, na ação coletiva, atuaram como substituto processual".
+O referido acórdão foi assim ementado, in verbis:
+CUMPRIMENTO DE SENTENÇA INDIVIDUAL. AÇÃO COLETIVA AJUIZADA POR SINDICATO. HONORÁRIOS SUCUMBENCIAIS DA FASE DE CONHECIMENTO QUE DEVEM SER LIQUIDADOS E EXECUTADOS NO ÂMBITO DA AÇÃO COLETIVA. RECURSO DESPROVIDO.
+Hipótese em que o apelo se insurge contra a extinção da execução, pugnando pelo seu prosseguimento em relação aos honorários sucumbenciais devidos pela UFRJ, fixados no título coletivo em favor do escritório apelante. O crédito decorrente da condenação da UFRJ em honorários sucumbenciais, no bojo da ação coletiva, é pertinente apenas ao feito coletivo e unicamente a ele, sendo impassível de fracionamento. A pretensão está em dissonância com o entendimento do Supremo Tribunal Federal que, em Repercussão Geral, firmou a seguinte tese (Tema 1142): "Os honorários advocatícios constituem crédito único e indivisível, de modo que o fracionamento da execução de honorários advocatícios sucumbenciais fixados em ação coletiva contra a Fazenda Pública, proporcionalmente às execuções individuais de cada beneficiário, viola o § 8º do artigo 100 da Constituição Federal". Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 489, 505, 507, 508 e 1.022 do CPC.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. CUMULAÇÃO DAS OBRIGAÇÕES DE INDENIZAR E DE REPARAR DANO AMBIENTAL. CABIMENTO. SÚMULA 629/STJ. REVISÃO DOS PARÂMETROS DE DEFINIÇÃO DO VALOR INDENIZÁVEL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDÊNCIA DO PIS E COFINS. ZONA FRANCA DE MANAUS. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+ ..
+2. Não configurada a violação apontada ao art. 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum a quo.
+ ..
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Sobre a alegada violação do art. 489, § 1º, do CPC/2015, por suposta ausência de fundamentação do acórdão recorrido, verifica-se não assistir razão ao recorrente.
+Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA DE ATO JURÍDICO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+(..)
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese. Precedentes.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1315147/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/09/2019, DJe 04/10/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. NÃO INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. MULTA (ASTREINTES). REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Deve ser rejeitada a alegada violação ao artigo 489, §1º, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp 1728080/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/11/2018, DJe 14/11/2018.)
+No tocante à alegada ocorrência de preclusão e ofensa à coisa julgada, para rever as conclusões da Corte a quo e interpretar os dispositivos legais indicados como violados, seria necessário o reexame dos elementos fático-probatórios constantes nos autos, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+No mesmo sentido, mutatis mutandis:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AGENTE FISCAL. TRANSPOSIÇÃO DE CARGO. AUDITOR FISCAL. TEMA APRECIADO SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. OFENSA À COISA JULGADA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE REDUÇÃO. SÚMULA 7/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. O acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 37, II, da Constituição da República, bem como na inconstitucionalidade do art. 156, § 2º, da Lei Complementar Estadual 92/2002, que estendia aos inativos a transposição feita aos ativos do cargo de Agente Fiscal para Auditor Fiscal.
+2. Desse modo, a modificação do acórdão descabe na via estreita do Recurso Especial, pois implica usurpação da competência do Supremo Tribunal Federal.
+3. Ademais, quanto aos limites subjetivos e objetivos da coisa julgada, também sua apreciação não é permitida pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ.
+4. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+5. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial." 6. Agravo Interno não provido.
+(AgInt no AREsp 1777064/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/05/2021, DJe 01/07/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA PROFERIDA EM AÇÃO DE REPETIÇÃO DE INDÉBITO REFERENTE AO IMPOSTO DE RENDA RETIDO A MAIOR SOBRE RENDIMENTOS RECEBIDOS ACUMULADAMENTE, A TÍTULO DE DIFERENÇAS DE CONVERSÃO DE CRUZEIRO REAL PARA URV. ALEGADA NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF. ALEGADA VIOLAÇÃO AOS ARTS. 3º E 7º, § 1º, DA LEI 7.713/88, 46, § 2º, DA LEI 8.541/92, E 105, 106, 111, 144 E 176 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. INVIABILIDADE DO RECURSO ESPECIAL, ADEMAIS, QUANTO À ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 502, 503 E 505 DO CPC/2015, POR SE TRATAR, NA ESPÉCIE, DE CONTROVÉRSIA DE NATUREZA FÁTICA, EM TORNO DA COISA JULGADA. CONSIDERAÇÕES A TÍTULO DE OBITER DICTUM. IRRELEVÂNCIA. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. Em relação à alegada violação aos arts. 502, 503 e 505 do CPC/2015, o Recurso Especial é inadmissível, por incidência, na espécie, da Súmula 7 do STJ, pois, de acordo com a jurisprudência dominante desta Corte, não havendo abstração de tese jurídica, mas controvérsia de natureza fática em torno da coisa julgada material, descabe ao STJ analisar, em sede de Recurso Especial, a alegação de ofensa às disposições processuais que disciplinam o instituto da coisa julgada, diante da indiscutível necessidade de reexame do contexto-fático probatório dos autos.
+(..)
+VIII. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1548963/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2021, DJe 06/05/2021)
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
