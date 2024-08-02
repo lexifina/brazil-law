@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 541):
+APELAÇÃO CÍVEL. Plano de saúde. Ação de indenização por danos materiais e morais. Procedimento de retirada do rim realizado fora da rede credenciada. Pleito de cobertura integral. Impossibilidade. Ausência de demonstração de fator que justifique a procura de serviços não credenciados. Cobertura que deve ser parcial, para evitar o enriquecimento sem causa da ré e não ferir o equilíbrio contratual. Dano moral. Inocorrência. Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante apontou violação dos arts. 329, II, e 1022 do Código de Processo Civil; e 122 do Código Civil.
+Ponderou que o acórdão recorrido foi contraditório ao deferir pedido realizado apenas na apelação.
+Sustentou que a recorrida formulou pedido subsidiário, já no recurso de apelação, inovando.
+Alegou que a enfermidade não requeria a realização de cirurgia imediata, não havia urgência.
+Arguiu que agiu de forma diligente e tentou de todas as formas atender à s necessidades da recorrida, oferecendo outros hospitais para a realização da cirurgia, contudo, que ela teria se mostrado intransigente e só aceitava o reembolso das despesas pelo procedimento já marcado em hospital eleito por ela e fora da rede credenciada.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos.
+Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1022 do CPC.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fls. 543/545):
+Depreende-se dos autos que a autora, menor de idade e beneficiária de plano de saúde junto à empesa ré, teve indicação urgente de retirada do rim direito por CID N28 através de consulta com médico particular, em 05/09/2019, solicitando autorização para o procedimento, quando foi informada de que o procedimento somente poderia ser realizado no Hospital e Pronto Socorro Portinari e que seria formada uma equipe para realizar o procedimento.
+Menciona que a requerente compareceu à consulta com "o suposto responsável pelas cirurgias no referido hospital", Dr. Arnaldo Fazuoli, que a orientou que não estaria confortável para realizar o procedimento sozinho, necessitando, assim, consultar alguns colegas para acompanhá-lo no feito, declarando que o médico supracitado reconheceu a urgência do procedimento, "salientando, ainda, que a demora do procedimento poderia sobrecarregar e comprometer o rim esquerdo".
+Refere que, frente aos fatos supracitados, a requerente realizou o procedimento cirúrgico, em 26/10/2019, de forma particular, motivo pelo qual objetiva o reembolso integral das despesas.
+Ora, não se desconhece que os reembolsos de tratamento realizados de forma particular são, não raro, por demais insignificantes e orientados por tabela que privilegia a avidez ao lucro.
+Por conseguinte, dentro desta lógica perversa, nunca se terá um bom profissional/estabelecimento para a realização de uma intervenção cirúrgica, a menos que o consumidor seja ainda mais onerado.
+Entretanto, a cláusula que trata da limitação ao reembolso não é ilícita em contratos de plano de saúde.
+E, segundo consta da perícia realizada (fls. 440) o Dr. Arnaldo Fazuoli, profissional indicado segundo os autos, é urologista, atuando como professor adjunto de urologia na Universidade Federal de São Paulo, na Escola Paulista de Medicina, de modo que estava apto a realizar o procedimento laparoscópico da requerente.
+A perícia ainda foi categórica no sentido de que o hospital indicado pela operadora requerida, Hospital e Pronto Socorro Portinari, tem estrutura adequada para o procedimento, como centro cirúrgico e unidade de terapia intensiva (UTI), em caso de eventuais complicações intra ou pós-operatórias, de modo que estava apto a sediar o procedimento cirúrgico da requerente (fls. 440).
+Por fim, a perícia concluiu: "Diante do exposto, pode-se afirmar que os profissionais médicos e os hospitais indicados à requerente pela operadora requerida se mostravam adequados à realização do procedimento de nefrectomia radical laparoscópica, de modo que é possível concluir que havia hospitais e cirurgiões urológicos aptos à realização da nefrectomia radical laparoscópica na rede credenciada da operadora requerida." Ademais, em resposta aos quesitos formulados, ficou demonstrado tratar-se de procedimento eletivo, sem caráter emergencial, não havendo ocorrência imprevista de agravo à saúde, tampouco havia risco iminente de vida ou de sofrimento intenso.
+Desta feita, correta a r. sentença que entendeu pela ausência de responsabilidade da operadora de plano de saúde, afastando ainda, a condenação por danos morais.
+Todavia, mantendo a coerência com julgamento de casos análogos e para evitar o enriquecimento sem causa da ré, já que a parte autora arca em dia com o pagamento das mensalidades do plano de saúde, fica concedido o pedido subsidiário formulado, qual seja, o reembolso de valor equivalente ao montante que seria gasto se o procedimento tivesse sido realizado dentro da rede credenciada, com juros da citação e correção monetária do desembolso, o que deverá ser apurado em liquidação de sentença.
+Neste sentido, a jurisprudência desde Tribunal já se manifestou:
+"Plano de Saúde. Internação em hospital não coberto pelo plano contratado. Reembolso parcial para evitar enriquecimento sem causa. Limitação de reembolso ao que despenderia a seguradora se o hospital fosse credenciado. Montante a ser apurado em liquidação." (Apelação cível nº 659.576-4/3, rel. Maia da Cunha, j. 13/08/2009)
+Ao julgar os embargos de declaração, esclareceu que (fl. 572):
+Ora, o acolhimento do pedido subsidiário no sentido do reembolso de valor compatível com aquele equivalente ao que o plano pagaria caso a cirurgia fosse realizada no hospital credenciado, não importa em julgamento fora do pedido inicial, eis que, o resultado seria este independentemente do pedido formulado pela parte, pois esta Câmara e Relatoria entendem que o reembolso parcial é cabível nos casos de atendimento fora da rede credenciada, evitando-se, assim, o enriquecimento sem causa do plano de saúde.
+Quanto à aventada prestação jurisdicional extra petita, é de se ressaltar que, à luz do princípio da congruência, deve o juiz decidir a lide nos limites em que foi proposta, o que impõe ser a sentença adstrita aos limites do pedido formulado, sob pena de incorrer em vício, qual seja, ser citra, ultra ou extra petita.
+Para o Tribunal de origem, não houve modificação do pedido ou da causa de pedir.
+No caso, não há violação ao princípio da congruência tão somente porque foi acatado outro fundamento - mesmo que superveniente à sentença -, isso, porque devem ser analisados os pedidos de acordo com todo o conteúdo dos autos.
+Dessa forma, não implica julgamento extra petita a concessão de tutela jurisdicional que se encontra, ainda que implicitamente, abrangida no pedido formulado na petição de recurso, extraída mediante sua interpretação lógico-sistemática.
+Precedente:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. CULPA DO VENDEDOR. ART. 329, II, DO CPC. PRINCÍPIO DA ADSTRIÇÃO OU CONGRUÊNCIA. OFENSA. CAUSA DE PEDIR E PEDIDO. ALTERAÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Configura ofensa ao princípio da congruência ou da adstrição quando a decisão não respeita os limites e/ou extensão da causa de pedir ou dos pedidos formulados, o que ocorreu na hipótese.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.343.299/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
