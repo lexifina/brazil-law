@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ISAAC DA ROCHA PEREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada, em sede de recurso em sentido estrito, pela suposta prática do delito capitulado no art. 16, § 1º, IV, da Lei n. 10.826/03, ao fundamento da necessidade da garantia da ordem pública em razão do fundado receio de reiteração delitiva.
+No presente writ, alega que o pacienteestaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Requer a revogação da prisão preventiva.
+Liminar indeferida às fls. 139-140.
+Informações às fls. 147-182.
+O Ministério Público Federal se manifestou, às fls. 184-187, em parecer assim ementado:
+"Penal e Processual Penal. Habeas Corpus. Posse de arma de fogo com numeração suprimida e munições. Prisão preventiva. Ordem pública. Reincidência. Fundamentação idônea.  Requer-se a denegação do habeas corpus".
+É o relatório. DECIDO.
+In casu, consta do decreto prisional que o paciente registra condenação por tráfico de drogasmajorado pelo emprego de arma de fogo, transitada em julgado em 23/02/2022, e responde a ação penal pelo delito de tráfico de drogas, por fatos supostamente praticados em 20/03/2023,poucos dias antes da efetivação da prisão em flagrante pelos fatos deste feito, em 14/04/2023, circunstâncias aptas a justificar a segregação cautelar.
+Ressalte-se que:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023, grifei)
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 . .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
