@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por NEIVALDO APARECIDO VITORINO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. Decisão interlocutória que indefere pedido de gratuidade de justiça mantida. Agravantes que recebem mais do que 3 salários-mínimos mensais e possuem patrimônio que chega a R$ 800.000,00. Custas iniciais que não superam o valor de 1 salário-mínimo nacional. Ausentes os requisitos do art. 98 do CPC/2015, fica mantido o indeferimento do pedido. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 98, caput, § 3º e 99, § 1º do CPC, no que concerne à concessão da gratuidade de justiça, tendo em vista a sua incapacidade financeira em arcar com as custas e despesas processuais, trazendo a seguinte argumentação:
+Com todo o respeito que é devido, o v. acórdão, ao indeferir os benefícios de justiça gratuita aos Recorrentes, destoa completamente da nossa legislação. Nesta linha, para a concessão do benefício da gratuidade de justiça é prescindível a comprovação da hipossuficiência jurídica dos Recorrentes, pois, a simples afirmação da parte no sentido de que não está em condições de pagar as custas do processo, sem prejuízo próprio ou da família, é suficiente para o deferimento. Ocorre que, embora tenham os Recorrentes coligidos aos autos as respectivas declarações de hipossuficiência, documentos e justificativas, pelo Tribunal "a quo", restou mantido o indeferimento o pedido.
+Ademais, pelos documentos já anexados aos autos, não se verifica riqueza. Pelo contrário, explicamos.
+Insta constar, que os Recorrentes compartilham vida comum, sendo que a renda principal da família, é composta pelos valores recebidos pelo Recorrente NEIVALDO. Tanto é verdade, que verificamos na declaração de imposto de renda, que segue em anexo, que a Recorrente VANDERLI, consta como dependente dele.
+Desse modo, embora o Recorrente NEIVALDO receba uma boa quantia mensal, esta é compartilhada com a Recorrente VANDERLI, sua dependente.
+ ..
+Atrelado a isto, os Recorrentes, encontram-se em grandes dificuldades financeiras, ante ao fato da existência de débitos trabalhistas e cíveis decorrentes dos processos que enfrentam, pois, a Recorrente não logrou êxito, sequer pagar seus funcionários, documentos anexos.
+ ..
+Dessa forma, como se não bastasse a declaração de hipossuficiência, existente nos autos, verificamos a notória necessidade de concessão dos benefícios da gratuidade de justiça.
+ ..
+Assim, torna-se flagrante que os Recorrente fazem jus ao benefício de justiça gratuita. Posto que, caso a situação precária permaneça, os Recorrentes fatalmente, não poderá usufruir do direito ao acesso à justiça, direito este legítimo e devido, garantido por nossa Constituição Federal.
+Por tais razões, a decisão foi prolatada com violações literais aos dispositivos previstos no artigo 98, e no § 3º, do artigo 99, ambos do Código de Processo Civil (fls. 139-141)
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto ao caso concreto, verifica-se que a renda dos agravantes é superior a 3 salários-mínimos mensais (fls. 2202/2211), quantia adotada pela jurisprudência como parâmetro para o deferimento do pedido. Além disso, o patrimônio total chega a R$ 800.000,00. O valor da causa, ainda, não é elevado, e as custas iniciais sequer ultrapassam 1 salário-mínimo nacional. Não há, ademais, nenhuma circunstância excepcional, a autorizar o deferimento do pedido (fl. 132).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
