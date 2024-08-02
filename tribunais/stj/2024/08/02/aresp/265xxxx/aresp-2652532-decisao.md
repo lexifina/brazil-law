@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por FABER IRIA MATIAS e PATRICK FABER BARBOSA MATIAS contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS nos termos da seguinte ementa (fl. 559):
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. CONSIGNAÇÃO EM PAGAMENTO. CONTRATO DE COMPRA E VENDA. PEDIDOS FORMULADOS EM CONTRARRAZÕES. VIA INADEQUADA. IMPUGNAÇÃO À GRATUIDADE. ÔNUS DA PROVA DO IMPUGNANTE. COMPENSAÇÃO DE ALUGUÉIS EM SEDE DE CONSIGNAÇÃO. VIA ESTREITA. IMPOSSIBILIDADE.
+1 As contrarrazões consistem em instrumento legal processual com o fito de combater as razões do recurso apresentado pela parte adversa, constituindo-se via inadequada para formulação de pedidos recursais autônomos.
+2. Se não foram produzidas provas capazes de ilidir a presunção relativa de veracidade da declaração de pobreza, impossibilita-se a revogação do benefício da gratuidade judiciária. 3. Nos termos do art. 369, do CC, podem ser compensadas apenas as dívidas líquidas, vencidas e de coisas fungíveis, vale dizer, as dívidas que sejam certas quanto à existência e determinadas quanto ao valor, vencidas ou atuais e que envolvam coisas substituíveis. 4. Apelo não provido.
+Rejeitados os embargos de declaração opostos (fls. 604-621).
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos (fls. 623-641):
+a) 489, § 1º, e 1022, II, do Código de Processo Civil, sustentando que houve omissões e contradições no acórdão recorrido acerca dos rendimentos da recorrida e dos dos valores de aluguéis;
+b) 99, § 3º, do Código de Processo Civil e 1º da Lei n. 1.050/1960, alegando que a concessão de gratuidade de justiça deve ser revogada; e
+c) 368 e 369 do Código Civil, afirmando que é possível a compensação dos aluguéis líquidos apurados por meio de prova pericial.
+Oferecidas contrarrazões (fls. 686-698), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 701-703), o que ensejou a interposição do presente agravo (fls. 707-726).
+Apresentadas contraminutas do agravo (fls. 730-742).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se configura a apontada violação dos arts. 489 e 1.022. Embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem as apontadas omissões e contradições, como pode ser verificado nos seguintes trechos do acórdão recorrido:
+No caso em tela, e apesar da argumentação expendida na peça recursal, não se vislumbram, da análise dos documentos trazidos aos autos, elementos probatórios suficientes para autorizar a revogação da benesse em discussão, porquanto incumbe ao impugnante o ônus de provar cabalmente a inexistência dos requisitos autorizadores à concessão do benefício da assistência judiciária gratuita, o que não restou demonstrado nos autos pela parte autora. (fls. 561-562)
+Quanto ao mais, a matéria posta em debate cinge-se em averiguar a possibilidade de compensação de valores de aluguéis encontrados na perícia como o valor devido pelos apelantes. Eis os termos da sentença resistida, in verbis:
+(..)
+Não há outras questões processuais, preliminares ou prejudiciais pendentes de apreciação, razão pela qual passo à análise do mérito da causa.
+A decisão de conversão do julgamento em diligência destacou que: "a consignação em pagamento visa a exonerar o devedor de sua obrigação, mediante o depósito da quantia ou da coisa devida, e só poderá ter força para inibir a mora se concorrerem em relação às pessoas, ao objeto, quantidade, modo e tempo, todos os requisitos, sem os quais não é considerada válida".
+O pedido formulado abarca a consignação e, também, pedido de compensação entre o saldo devedor apurado segundo os cálculos dos autores com alugueres alegadamente devidos pela ré, inclusive os que se forem vencendo no curso do processo.
+ ..
+Depreende-se do referido julgado, exarado pelo C. STJ e ressaltado pela doutrina abalizada, que dívidas a serem submetidas ao reconhecimento judicial não são passíveis de compensação.
+Essa é a hipótese dos autos. Não consta do contrato de ID. 71979437 qualquer obrigação da ré acerca do pagamento de aluguel pelo uso do imóvel vendido.
+Destaque-se que a persecução do crédito respectivo é plausível e possível, mas deve ser operada em autos próprios e não em sede de consignação em pagamento.
+Compreender em sentido contrário, como pretendem os autores, seria acolher a possibilidade de cobrar valores em desfavor da consignada por via indireta e sob pretexto errôneo de compensação.
+Repise-se: se houve a necessidade de fixação em prova pericial acerca do valor supostamente apontado como parâmetro de compensação, o montante respectivo não era líquido e, portanto, a hipótese vertente destoa do regrado pelo art. 369 do CC.
+Nesse sentido, não há que se falar em compensação com valor de aluguéis, multa ou qualquer outra quantia ilíquida, não vencida, em atenção ao comando do legislador ordinário.
+Sobre as obrigações previstas nos itens 5.1.3 e 5.1.4 do contrato de ID. 71979437, os autores afirmaram que:
+"Os Consignantes (Srs. Faber e Patrick) adimpliram a parcela do item "5.1.3" do contrato, desta feita mediante acordo verbal ajustado com a Consignada (Sra. Dalva), a qual ficou encarregada de efetuar o pagamento das prestações do financiamento da PREVI, isso até que houvesse a quitação do contrato nº 624741, como forma de então compensar outra parte do valor do aluguel em razão da utilização temporária do imóvel que deveria ter sido desocupado desde a data de 30-06-2014 e que, mediante acordo verbal também ajustado com a Consignada (Sra. Dalva), a qual ficou encarregada de parcelar e realizar o pagamento por meio de recursos próprios o débito fiscal inscrito, como forma de então compensar mais uma parte complementar do aluguel pelo uso temporário do imóvel que deveria ter sido desocupado voluntariamente desde a data pretérita de 30-06-2014".
+Uma vez mais, pretendem os autores a compensação com valores ilíquidos.
+Isso porque as obrigações dos itens 5.1.3.1 e 5.1.4.1 foram estabelecidas para cumprimento pelos autores e não pela ré, promitente vendedora e consignada nesta oportunidade.
+Como apontado, os supostos alugueres não podem servir como parâmetro para a compensação, razão pela qual aqueles não podem igualmente ensejar o reconhecimento de abatimento das obrigações previstas nos mencionados itens 5.1.3.1 e 5.1.4.1.
+Por essas razões, não há compensação alguma a ser operada nestes autos. (fls. 563-564)
+Com efeito, o julgador não está obrigado a responder a todos os argumentos suscitados pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo seu dever apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+No que se refere aos demais dispositivos, o Tribunal de origem concluiu que a gratuidade de justiça deve ser mantida e que a compensação não deve ser operada no presente caso, baseado nos fatos e nas provas existentes nos autos, de acordo com o trecho do acórdão acima transcrito.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSIGNAÇÃO EM PAGAMENTO. CONTRATO DE COMPRA E VENDA. ARTS. 489 E 1.022 DO CPC. OMISSÕES E CONTRADIÇÕES. INEXISTÊNCIA. GRATUIDADE DE JUSTIÇA E COMPENSAÇÃO DE ALUGUÉIS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
