@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por FREDERICO ROCHA DINIZ contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA nos termos da seguinte ementa (fl. 228):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE POR CITAÇÃO EDITALÍCIA EM PROCESSO DE DESPEJO POR FALTA DE PAGAMENTO, SENTENCIADO PELO MESMO JUÍZO. IMPROCEDÊNCIA. INSURGÊNCIA DO AUTOR.
+PRELIMINAR. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. NÃOOCORRÊNCIA. PROVA DOCUMENTAL SUFICIENTE PARA A ANÁLISE DO CASO.
+MAGISTRADO QUE, COM OS ELEMENTOS CONSTANTES NOS AUTOS E CONVENCIDO DODIREITO APLICADO À HIPOTESE, DEVE INDEFERIR AS DILIGÊNCIAS INÚTEIS OUPROTELATÓRIAS. INTELIGÊNCIA DOS ARTIGOS 355, I E 370, PARÁGRAFO ÚNICO, AMBOSDO CÓDIGO DE PROCESSO CIVIL. PREFACIAL AFASTADA. MÉRITO. ALEGADO VÍCIO DECORRENTE DA REALIZAÇÃO DO ATO CITATÓRIO POR EDITAL.
+TESE NÃO ACOLHIDA. TENTATIVAS FRUSTRADAS DE CITAÇÃO PESSOAL PELOS MEIOSPREVISTOS NO CÓDIGO DE PROCESSO CIVIL. CONSULTAS AO SISTEMA INFOSEG/SIELIGUALMENTE SEM SUCESSO NA LOCALIZAÇÃO DO RÉU. OBEDIÊNCIA AOS REQUISITOS PREVISTOS NO ARTIGO 256 DA LEGISLAÇÃO PROCESSUAL. SENTENÇA MANTIDA.
+PLEITO DE CONCESSÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA RECURSAL. PEDIDO PREJUDICADO EM RAZÃO DO JULGAMENTO DO MÉRITO RECURSAL. RECURSO CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 256-259).
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 256, § 3º, do Código de Processo Civil, sustentando que a citação por edital é nula (fls. 264-280).
+Sem contrarrazões, sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 322-324), o que ensejou a interposição do presente agravo (fls. 329-346).
+Sem contraminutas do agravo (fl. 354).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que não há invalidade na citação por edital do presente caso, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 230-231):
+No mérito, sustenta que a sua citação por edital, realizada na ação de despejo apensa, é nula, haja vista ter sido realizada sem que houvessem sido esgotados todos os meios de realização pessoal do ato citatório.
+Adianta-se, sem razão.
+A citação por edital é admitida, entre outros casos, quando o réu estiver em lugar desconhecido ou inacessível, conforme prevê o art. 256 do Código de Processo Civil:
+ ..
+Com efeito, para se proceder à citação editalícia com fundamento nesta hipótese, é necessário que sejam realizadas previamente as tentativas de localização do réu, uma vez que, por se tratar de espécie de citação ficta, deve ser utilizada tão somente quando não for possível a comunicação pessoal, a qual efetivamente leva ao conhecimento da parte a existência de processo contra si, permitindo-lhe o exercício do contraditório e da ampla defesa, pessoalmente.
+Nesse sentido, "A citação por edital é medida excepcional, cujas hipóteses estão expressamente enumeradas no art. 256 do CPC/15 e, ainda assim, dependem de criteriosa análise, pelo julgador, dos fatos que levam à convicção do desconhecimento do paradeiro do demandado e da impossibilidade de ser encontrado por outras diligências" (R
+Esp n. 2.026.482/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/3/2023).
+In casu, extrai-se da ação de despejo n. 0302874- 62.2015.8.24.0082 que foram realizadas ao menos 4 (quatro) tentativas de citação pessoal da parte ré, ora recorrente. Vê-se que além dos endereços apontados pela autora naquela demanda, também houve consulta de endereço nos sistemas INFOSEG (Evento 32) e da Receita Federal (Evento 107), sendo que a diligência realizada no endereço encontrado, também foi inexitosa.
+Ora, percebe-se que, mesmo após diversas tentativas de citação do recorrente, em endereços distintos, seu paradeiro era desconhecido. Ademais, vê-se que o pedido de citação por edital foi deferido após 2 (dois) anos de trâmite processual, o que demonstra que houve boa-fé e persistência na tentativa de localização de um endereço válido.
+Nesse sentido, considerando que a citação por edital é viável quando frustradas as tentativas de localização do réu, inclusive em sistemas on-line, não há invalidade a ser reconhecida no ato.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Por fim, não se pode conhecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pela Súmula n. 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Nesse sentido: AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgInt no AREsp n. 1.954.459/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023; AgInt no AREsp n. 1.768.573/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, uma vez que não foram arbitrados pelas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. VALIDADE DA CITAÇÃO POR EDITAL. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA. ALÍNEA C. APLICAÇÃO DA SÚMULA N. 7/STJ QUANTO À ALÍNEA A. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
