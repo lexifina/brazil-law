@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MATHEUS EDER FERREIRA GARCIA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática do delito de latrocínio. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 24-25).
+No presente writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação para o encarceramento provisório do Recorrente, aduzindo a existência de excesso de prazo.
+Requer a revogação ou o relaxamento da prisão preventiva do Recorrente.
+A liminar foi indeferida, às fls. 28-29.
+Informações prestadas, às fls. 36-38 e 39-72. O Ministério Público Federal, às fls. 77-83, manifestou-se pela denegação da ordem, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS. SUCEDÂNEO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. SUPOSTA PRÁTICA DE LATROCÍNIO. PRISÃO PREVENTIVA. GRAVIDADE DO DELITO. PERICULOSIDADE DO AGENTE. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DE MÉRITO, OU PELA DENEGAÇÃODA ORDEM" (fl. 77).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o modus operandi da conduta, consistente em latrocínio; constando nos autos que "o acusado e seus comparsas invadiram residência das vítimas A. e R., e de lá subtraíram, mediante emprego de violência e grave ameaça exercida pelo emprego de arma de fogo, um veículo GM/Montana, uma espingarda, e outros pertences. Na ocasião, o acusado e outros indivíduos mataram a vítima A. com golpes de coronhada na cabeça e disparos de arma de fogo na perna, e causaram lesões na vítima R., com a finalidade de assegurar a impunidade do roubo e a detenção dos objetos subtraídos (1.1)" (fls. 24-25).
+Tais circunstâncias evidenciam a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019-grifei).
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, mormente a gravidade da conduta consistente em latrocínio, havendo a necessidade de expedição de carta precatória; além de outras providências a cargo do Juízo, não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Nesse sentido:
+"Na espécie, o Tribunal estadual apresentou justificativa válida para o tempo demandado no processamento da ação penal, ressaltando a complexidade, como a pluralidade de réus, necessidade de expedição de cartas precatórias para a realização de atos processuais em outras comarcas, o que efetivamente onera o tempo de trâmite da ação penal. Ademais, o acórdão ressaltou que o processo estaria aguardando apenas a devolução de cartas precatórias para realizar o interrogatório dos réus. Ausência de constrangimento ilegal" (AgRg no RHC n. 118.014/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/11/2019).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver ente ndimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
