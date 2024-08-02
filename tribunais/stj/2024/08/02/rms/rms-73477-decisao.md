@@ -1,0 +1,24 @@
+DECISÃO
+Vanessa Gomes Oliveira interpõe recurso ordinário com fundamento no art. 105, inciso II, alínea "b", da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal de Justiça do Estado de Sergipe, ementado assim:
+DIREITO CONSTITUCIONAL -MANDADO DE SEGURANÇA -PROCESSO SELETIVO SIMPLIFICADO Nº 001/2023 DA SECRETARIA DE ESTADODA SAÚDE - CARGO DE TÉCNICA DEENFERMAGEM - INSURGÊNCIA DAIMPETRANTE CONTRA A NOTA A T R I B U Í D A A O S T Í T U L O SA P R E S E N T A D O S A F I M D ECOMPROVAR SUA EXPERIÊNCIAPROFISSIONAL - NÃO COMPROVAÇÃODE QUE OS DOCUMENTOS ENVIADOS ÀCOMISSÃO DO CERTAME ESTAVAM DEA C O R D O C O M A S N O R M A SEDITALÍCIAS - PRINCÍPIO DAVINCULAÇÃO AO EDITAL -INEXISTÊNCIA DE ILEGALIDADEMANIFESTA OU DE VIOLAÇÃO AOEDITAL DO CERTAME - PRECEDENTESDESTE TRIBUNAL - DIREITO LÍQUIDO ECERTO NÃO CONFIGURADO -SEGURANÇA DENEGADA.
+Trata-se de ação de mandado de segurança impetrada em decorrência de processo seletivo para a contratação temporária de técnico em enfermagem.
+A causa de pedir relaciona-se à comprovação documental de experiência profissional, que supostamente não se fez como o edital e por isso a recorrente não obteve a nota que julgava ser a mais adequada.
+A ordem foi denegada em consideração à circunstância de que a comprovação da experiência profissional relativamente à sociedade empresária Souza e Pinheiro Ltda., consistente em fotocópia da Carteira de Trabalho e Previdência Social (CTPS), fizera-se de modo inadequado (a) porque aparentava uma colagem não condizente com a realidade, (b) porque não apresentados o verso do documento, mas apenas o anverso, como pedido em edital, e (c) porque a declaração apresentada pela própria sociedade empresária não atendia o regramento concernente à descrição das atividades realizadas pela candidata.
+Quanto ao documento relacionada  entidade "Irmã Lourdes e Cooperados" o Tribunal considerou ainda o seguinte:
+Da mesma forma, encontrei deficiência na declaração apresentada pela entidade Irmã Lourdes e Cooperados (p. 113), pois não está de acordo com o item 9.14, alínea "d", e nem como o item 9.16, que estabelecem:
+"(..)
+d) Para autônomo: contracheque ou recibo de pagamento de autônomo - RPA (RPA referente ao mês de início de realização do serviço e ao mês de término de realização do serviço e acompanhada de declaração da cooperativa ou empresa responsável pelo fornecimento da mão de obra, em papel timbrado com o CNPJ, no qual consta claramente o local onde os serviços foram prestados,." (Sem destaque e grifo a identificação do serviço realizado, o período inicial e final do mesmo e descrição das atividades executadas no original)
+"9.16. Os períodos citados no subitem 9.14 deverão conter claramente dia, mês e ano."
+Na declaração apresentada pela Cooperativa (p.113), não é identificado o dia do início das atividades da Impetrante e nem o dia do término destas atividades, restringindo-se a informar que ela trabalhou de fevereiro de 2019 a março de 2020. Também se limitou a informar que a Impetrante exerceu seus serviços técnicos especializados no Nestor Piva, sem descrever as atividades executadas. Só a desconsideração desse documento retiraria da Impetrante 6,00 pontos.
+O recurso ordinário reitera as razões da inicial mandamental (e-STJ fls. 159/168).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso ordinário (e-STJ fls. 227/234):
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO SELETIVO SIMPLIFICADO. CARGO DETÉCNICO DE ENFERMAGEM. INSURGÊNCIA CONTRA ANOTA ATRIBUÍDA AOS TÍTULOS APRESENTADOS A FIMDE COMPROVAR EXPERIÊNCIA PROFISSIONAL. ACÓRDÃO QUE CONCLUIU PELA LEGALIDADE DO ATOTIDO COMO COATOR. NÃO ENFRENTAMENTO DOSFUNDAMENTOS DO ACÓRDÃO. INCIDÊNCIA DA SÚMULA283/STF, POR ANALOGIA. PRECEDENTES. PARECERPELO NÃO CONHECIMENTO DA INSURGÊNCIA.
+É o relatório.
+Como bem explanado no parecer ministerial o recurso ordinário não pode ser conhecido.
+A síntese das razões adotadas no acórdão da origem, como descrito anteriormente, dá conta de que o Tribunal "a quo" considerou que a recorrente não havia cumprido as exigências editalícias quanto a dois documentos supostamente comprobatórios da sua experiência profissional, notando-se que a descrição precisou quais foram esses requisitos não cumpridos e que a recorrente não debelava essa falta com a documentação juntada por si.
+A petição do recurso ordinário não rechaça essa fundamentação e assim há mencionar que não observa na regularidade formal o ônus da dialeticidade, que lhe impõe a necessidade de refutação dos fundamentos adotados como "razão de decidir", pena de não conhecimento.
+Assim, não conheço do recurso ordinário em mandado de segurança.
+Sem honorários recursais (art. 25 da Lei 12.016/2009).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIALETICIDADE. RECURSO ORDINÁRIO NÃO CONHECIDO.
