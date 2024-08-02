@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MARLON JOHNNY NEVES SOARES, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática das condutas de estelionato qualificado e associação criminosa.
+Irresignada, a Defesa impetrou habeas corpus perante o tribunal de origem. A ordem foi denegada pela Corte local, em acórdão de fls. 56-72, assim ementado:
+"Habeas Corpus Estelionato e associação criminosa Paciente apontado como mentor intelectual do esquema que envolvia outros indivíduos responsáveis pelo recolhimento de valores de comerciantes aliciados para aderirem à pratica criminosa de alteração dos sistemas da ENEL, evitando a cobrança da tarifa de energia elétrica, causando suposto prejuízo superior a R$ 500.000,00 - Fumus commissi delicti, traduzido pelos indícios suficientes de autoria e prova da materialidade delitiva, caracterizado Gravidade em concreto das condutas praticadas pelos criminosos que autoriza a manutenção da segregação cautelar com fundamento na garantia da ordem pública Réu foragido da justiça, com patrono constituído e mandado de prisão em aberto, o que evidencia a necessidade da custódia cautelar para assegurar a aplicação da lei penal Crimes punidos com pena superior a quatro anos de reclusão Art. 313, I, do Código de Processo Penal Condições pessoas favoráveis não obstam, per si, a decretação da custódia cautelar - Ordem denegada. " (fl. 57)
+No presente writ, a Defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente, aduzindo ausência de fundamentação para a segregação cautelar, ademais, o paciente é primário, não integra ou se dedica a qualquer associação criminosa, tem bons antecedentes, com ocupação lícita e residência fixa.
+Argumenta que:
+"  ..  o Magistrado do primeiro grau decretou a prisão preventiva deste Paciente para a garantia da ordem pública, instrução processual e de eventual aplicação penal, com a consequente expedição de mandado de prisão, o que ensejou a impetração do remédio constitucional.  ..  Em paralelo a isso, o corréu Felipe impetrou Habeas Corpus perante o Superior Tribunal de Justiça HC nº 908178/SP(2024/0143169-)e a revogação da prisão preventiva foi concedida a ele liminarmente.  ..  " (fls. 5;6).
+Requer a revogação da segregação cautelar ou a substituição da prisão por medidas cautelares alternativas.
+No HC n. 908178-SP, este relator concedeu a liminar ao corréu FELIPE APARECIDO DE OLIVEIRA VIEIRA, para substituir a prisão preventiva imposta ao Paciente por medidas cautelares diversas previstas no art. 319 do CPP, a serem impostas pelo juízo de primeiro grau.
+Liminar deferida, às fls. 148-152.
+O Ministério Público Federal, às fls. 158-164, em parecer, manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem com a revogação da liminar, assim ementado:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO COMO SUCEDÂNEO DE RECURSO PRÓPRIO. INADEQUAÇÃO. PACIENTE ACUSADO DE INTEGRAR ORGANIZAÇÃO CRIMINOSA ESTRUTURADA E COM DIVISÃO DE TAREFA QUE VEM HÁ ANOS FRAUDANDO CONSUMIDORES E A EMPRESA ENEL. FRAUDES QUE SUPERAM 500 MIL REAIS. GRAVIDADE EM CONCRETO DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA EXPLÍCITO. MEDIDAS CAUTELARES INSUFICIENTES.
+1. "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe 20/2/2009)-
+2. Parecer pelo não conhecimento do writ e, se conhecido, pela denegação da ordem com a revogação da liminar."
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SP-, na data de hoje, foi proferida decisão, em 03/05/2024, substituindo a prisão preventiva do Paciente por medidas cautelares:
+"O STJ substituiu a prisão preventiva dos réus MARLON (foragido) e PEDRO (preso) por medidas cautelares diversas previstas no art. 319 do CPP, a serem fixadas por este Juízo. Assim, fixo as seguintes MEDIDAS CAUTELARES diversas da prisão: (a) proibição de ausentar-se da Comarca sem prévia autorização judicial; (b) comparecimento a todos os atos do processo; e (c) não mudar de domicílio, sem prévia comunicação do juízo, sob pena de revogação do benefício.
+Expeça-se contramandado de prisão / alvará de soltura clausulado, lavrando-se termos de advertência e registrando-se o endereço do réu."
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intim em-se.
+ EMENTA
