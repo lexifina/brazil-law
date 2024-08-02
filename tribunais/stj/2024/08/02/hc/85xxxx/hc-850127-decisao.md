@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão do Tribunal de Justiça que não conheceu a revisão criminal.
+Consta dos autos que o paciente responde a nove ações penais pela prática, em tese, dos delitos previstos no artigo 1º, inciso IV, artigo 11, ambos da Lei n. 8.137/90 c. c. artigos 29, 71 e 69, todos do Código Penal.
+A defesa sustenta que o impetrante pretende a concessão da ordem para que o paciente seja absolvido do crime de corrupção de menores, e, quanto ao crime de homicídio qualificado, que a pena do acusado seja redimensionada, pela fixação da pena-base do crime de homicídio qualificado no mínimo legal, ou em patamar inferior ao aplicado na sentença a quo, bem como a aplicação da fração redutora de 1/6 (um sexto) quanto à atenuante de confissão espontânea.
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 362-364).
+Como se vê, o habeas corpus foi impetrado contra decisão monocrática proferida por Desembargador/ Relator do Tribunal de Justiça do Estado do Espírito Santo, em revisão criminal.
+"A jurisprudência pacífica desta Corte tem se orientado no sentido de que a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 850.698/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023).
+No caso, como dito, não há notícias de que a defesa tenha agravado da decisão monocrática ora apontada como ato coator, não exaurindo, pois, a instância ordinária, razão pela qual sua irresignação não pode ser aqui conhecida.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe, ao Superior Tribunal de Justiça, a apreciação do pedido, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. DESCONSTITUIÇÃO DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. REVISÃO CRIMINAL. AUSÊNCIA DE COMPETÊNCIA DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o presente writ foi manejado contra decisão singular do Desembargador Relator que não conheceu de prévia impetração no Tribunal de origem, não tendo havido a interposição de agravo regimental objetivando a manifestação do Órgão Colegiado.
+2. Ausente o exaurimento da instância ordinária e não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental.
+3. A via adequada para desconstituir condenação criminal transitada em julgado é a revisão criminal, cujo julgamento, no caso, não compete a esta Corte Superior de Justiça, que somente está autorizada a julgar as revisões criminais de seus próprios julgados, nos termos do art. 105, inciso I, alínea e, da Constituição da República.
+4. Agravo regimental desprovido. (AgRg no HC 646.524/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em23/03/2021, DJe 05/04/2021)
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EMSENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido. (AgRg no HC 401.079/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
