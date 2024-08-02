@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO FECHADO E SEMIABERTO DE PLANALTINA - GO, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE CUIABÁ - MT, suscitado.
+O Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT determinou a remessa dos autos de execução n. 0029487-76.2018.8.11.0042 à Comarca de Planaltina - GO, ao argumento de que o apenado está recolhido em estabelecimento prisional daquele município (fls. 204-206).
+O Juízo de Direito da Vara de Execução Penal Meio Fechado e Semiaberto de Planaltina - GO, por sua vez, suscitou conflito de competência. Sustentou que o encarceramento do reeducando naquela comarca se deu apenas em razão do cumprimento de mandado de prisão expedido pelo Juízo de Cuiabá - MT. Aduziu, ainda, que, segundo jurisprudência do Superior Tribunal de Justiça, o cumprimento do mandado de prisão em comarca diversa não altera a regra de competência legalmente estabelecida (fls. 210-219).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT, ora suscitado (fls. 243-250).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é o competente para a execução das penas impostas, de modo que o cumprimento do mandado de prisão em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento da competência. Confira-se:
+" ..  Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018." (CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+No mesmo sentido: CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022; AgRg no CC n. 182.840/DF, Terceira Seção, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/11/2021.
+No caso dos autos, embora o reeducando tenha sido preso no Estado de Goiás, em razão do cumprimento de mandado de prisão, tal fato não desloca a competência para a execução penal, que continua sendo do Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MANDADO DE PRISÃO CUMPRIDO EM COMARCA DIVERSA. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. PRECEDENTES.
