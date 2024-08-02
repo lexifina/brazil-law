@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOAQUIM MONTEIRO e outros, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: responsabilidade obrigacional securitária ajuizada pelos agravantes, em face de FEDERAL DE SEGUROS S/A EM LIQUIDAÇÃO EXTRAJUDICIAL, em razão de em razão de danos construtivos.
+Acórdão: negou provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SEGURO HABITACIONAL. SENTENÇA DE EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ILEGITIMIDADE PASSIVA. APÓLICES PRIVADAS. REGIME COMERCIAL. DEMANDA INTENTADA EM FACE DE SEGURADORA NÃO CONTRATADA. INEXISTÊNCIA DE POOL. DECISÃO ESCORREITA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSO A QUE SE NEGA PROVIMENTO. (fl. 1.016, e-STJ)
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado, em razão da falta de similitude fática.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "o que se pretende com esse recurso não é o reexame de provas, situação impedida pela Súmula 7 do Superior Tribunal de Justiça, mas a mera revaloração das provas carreadas aos autos, com a percepção de inexistência de comprovação da ilegitimidade passiva da Seguradora"; ii) "não há que se falar em violação à Súmula 5, pois não se trata de interpretação de cláusula contratual."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado, em razão da falta de similitude fática.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 20 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
