@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por TUBOS IPIRANGA INDÚSTRIA E COMÉRCIO LTDA. contra decisão que inadmitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que, em ação declaratória de falência, negou provimento à sua apelação, mantendo sentença que julgou o pedido inicial improcedente.
+Verifica-se da análise dos autos que a parte ora agravante interpôs, inicialmente, agravo interno contra a decisão que inadmitiu o seu recurso especial (fls. 342/370), o qual não foi conhecido pelo TJMG por ser manifestamente incabível (fl. 373/374).
+Assim posta a questão, verifico que o agravo não pode ser conhecido.
+Como consolidado na jurisprudência deste Superior Tribunal de Justiça, a interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do que tenha sido interposto por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO PELA PARTE RECORRENTE DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE DE SE CONHECER DO SEGUNDO POR EFEITO DA PRECLUSÃO CONSUMATIVA E PELA VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. AUSÊNCIA DE CADEIA COMPLETA DE PROCURAÇÃO DO SUBSCRITOR DO RECURSO ESPECIAL E DO AGRAVO. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA N. 115/STJ. PRIMEIRO AGRAVO INTERNO DESPROVIDO E NÃO CONHECIDO O SEGUNDO.
+1. Ingressando a parte com dois recursos da mesma espécie em ataque a uma única decisão, não há como se conhecer do segundo deles, que sofre os efeitos da preclusão consumativa, além de caracterizar violação ao princípio da unirrecorribilidade.
+2. Interposto recurso por advogado sem procuração dos autos, dele não se pode conhecer, nos termos do art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência do enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+3. Segundo orientação jurisprudencial desta Corte Superior, a exigência da intimação pessoal da parte somente se faz necessária nos casos de extinção da demanda por abandono (art. 267, § 1º, do CPC/1973, equivalente ao art. 485, § 1º, do CPC/2015), o que não se verifica na hipótese, uma vez que a questão ora sob análise diz respeito a falhas na procuração constante dos autos ou defeito na cadeia de substabelecimentos. Precedentes.
+4. Conforme entendimento desta Corte Superior, "a admissibilidade realizada pela instância a quo não vincula esta Corte Superior, tratando-se de um juízo de duplo controle ou controle bifásico" (AgInt no AREsp 1.686.946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/12/2020, DJe 18/12/2020).
+5. Negado provimento ao agravo interno de fls. 771-780 (e-STJ) e não conhecido o de fls. 781-790 (e-STJ).
+(AgInt no AREsp n. 2.403.063/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. AUSÊNCIA DE PROCURAÇÃO OU DE CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL. SÚMULA N. 115 DO STJ. AGRAVO DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Na hipótese de recurso interposto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015.
+3. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula n. 115 do STJ).
+4. Na instância superior, diante da impossibilidade de acessos aos autos eletrônicos originais, é de rigor a apresentação da cadeia completa de procurações/substabelecimentos, mesmo em se tratando de agravo de instrumento, uma vez que a previsão do art. 1.017, § 5º, do CPC não alcança o STJ.
+5. Agravo interno de fls. 143-148 desprovido. Agravo interno de fls. 149-154 não conhecido.
+(AgInt no REsp n. 2.022.551/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+AGRAVO REGIMENTAL E EMBARGOS DE DECLARAÇÃO. INTERPOSIÇÃO SIMULTÂNEA. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO. FAX INCOMPLETO. NÃO-CONHECIMENTO. FUNDAMENTOS DA DECISÃO. FALTA DE ATAQUE. SÚMULA 182. PEDIDO DE SUSPENSÃO. COMPETÊNCIA DO STJ.
+1. No sistema recursal brasileiro, vigora o cânone da unirrecorribilidade. Desta forma, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último.
+2. Não se conhece de recurso interposto por fac símile incompleto ou ilegível, inda que o original seja protocolizado no prazo da Lei 9.800/99.
+3. No agravo interno compete ao agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não-conhecimento.
+4. Decisão de desembargador que reconsidera decisão anterior, para revogar efeito suspensivo antes deferido, sujeita-se a pedido de suspensão a ser julgado pelo Superior Tribunal de Justiça.
+(AgRg na SLS n. 799/SP, relator Ministro Humberto Gomes de Barros, Corte Especial, julgado em 4/6/2008, DJe de 7/8/2008.)
+No caso em exame, como o agravo interno contra a decisão de inadmissibilidade foi interp osto em 23/11/2023 (fl. 371) e o agravo em recurso especial foi interposto em 28/11/2023 (fl. 415), a preclusão consumativa impede o exame do presente recurso.
+Em face do exposto, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
