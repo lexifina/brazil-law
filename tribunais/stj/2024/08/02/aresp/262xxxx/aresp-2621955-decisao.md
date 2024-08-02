@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da Agência Nacional de Transportes Terrestres - ANTT interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+PROCESSO ADMINISTRATIVO. APELAÇÃO CÍVEL EMBARGOS À EXECUÇÃO FISCAL. AUTUAÇÃO. INFRAÇÃO A NORMAS DE TRANSPORTE RODOVIÁRIO. MULTA. PRESCRIÇÃO INTERCORRENTE. LEI Nº 9.873/1999.
+1. Após a notificação, o administrado passa a ter conhecimento formal da autuação, inicia- se o prazo para sua defesa administrativa e o dever, para a Administração, de observância da legislação de regência e atos necessários a eventual punição, de maneira que já se tem, assim, procedimento administrativo em trâmite e a consequente incidência das disposições da Lei nº 9.873/1999.
+2. A prescrição da pretensão punitiva da Administração interrompe-se a cada evento ocorrido que tenha previsão no art. 2º da Lei nº 9.873/99, reiniciando-se integralmente a contagem do prazo prescricional.
+3. Atos de mero expediente, sem conteúdo decisório, não interrompem o curso do prazo trienal da prescrição intercorrente no processo administrativo.
+4. Hipótese em que, após o julgamento que negou provimento à defesa administrativa e a decisão que negou provimento ao seu recurso, transcorreu lapso superior a três anos sem que existisse qualquer das causas de interrupção de que trata o art. 2º da Lei nº 9.873/1999, perfectibilizando-se a prescrição intercorrente, atraindo a incidência do § 1º do art. 1º da Lei nº 9.873/99.
+5. Sentença mantida.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta violação aos seguintes dispositivos: (a) art. 1.022, I, II e III, do CPC/2015, aduzindo que não foram sanados os vícios apontados nos embargos de declaração (erro material e contradição acerca da notificação); (b) art. 2º, I, da Lei 9.873/1999, pois a notificação do acusado, ocorrida nos autos, interrompe o prazo prescricional.
+O recurso especial não foi admitido pelos fundamentos da inocorrência de negativa de prestação jurisdicional e da incidência da Súmula 7/STJ - daí o presente agravo.
+É o relatório. Passo a decidir.
+Conheço do agravo, porquanto infirmados os fundamentos da decisão agravada.
+Quanto ao recurso especial em si, não prospera.
+Relativamente à alegada violação ao art. 1.022 do CPC/2015, sem razão a recorrente.
+Como se sabe, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+No caso, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que foi configurada a prescrição intercorrente, uma vez que o processo ficou paralisado entre 18/2/2010 e 18/2/2013, não sendo suficiente para interromper o prazo prescricional a prática de atos como notificação do julgamento e interposição de recurso administrativo - ou seja, inexistente erro material ou contradição interna (configurada quando proposições inconciliáveis são lançadas na mesma decisão).
+Em suma, as questões envolvendo a prescrição intercorrente foram examinadas de modo suficiente e fundamentado, por isso não é caso de acolher as alegações de que houve negativa de prestação jurisdicional ou vício de fundamentação.
+Quanto à questão de fundo, as razões recursais mostram-se dissociadas da fundamentação do acórdão recorrido. É que a discussão diz respeito a interrupção do prazo pela notificação do julgamento do auto de infração, mas a recorrente invocou norma que trata da interrupção do prazo pela notificação do acusado sobre a lavratura do auto autuação, o que é coisa distinta. Assim, o óbice da Súmula 284/STF impede o conhecimento do recurso especial.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. MULTA APLICADA PELA ANTT. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ALEGAÇÃO DE INTERRUPÇÃO DO PRAZO PRESCRICIONAL. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
