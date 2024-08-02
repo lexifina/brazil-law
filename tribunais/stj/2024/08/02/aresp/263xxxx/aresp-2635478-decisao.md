@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE CHAPADA DOS GUIMARÃES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO CÍVEL C/C REMESSA NECESSÁRIA - ACÓRDÃO QUE INDEFERE EFEITO SUSPENSIVO AO RECURSO E NEGA PROVIMENTO À APELAÇÃO -INEXISTÊNCIA DE OMISSÃO - NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 1.012, § 4º, DO CPC - PROBABILIDADE DE PROVIMENTO DO RECURSO E RISCO DE DANO GRAVE OU DE DIFÍCILREPARAÇÃO - IRRESIGNAÇÃO COM O RESULTADO -REDISCUSSÃO DA MATÉRIA - AUSENTES OS REQUISITOS DO ART. 1.022 DO CPC.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 1.012, caput, do CPC, sustentando a necessidade de atribuição automática do efeito suspensivo ao recurso de apelação visto que é ope legi, dado que a sentença de primeiro grau não se enquadra em nenhuma das hipóteses de exceção presentes no art. 1.012, § 1º, para as quais seria necessária a comprovação dos requisitos da tutela de urgência para a atribuição de tal efeito. Aduz a seguinte argumentação:
+Pois bem. De fato, o art. 995 do CPC/2015 estabelece que, salvo previsão em sentido diverso, os recursos não impedem a eficácia das decisões.
+Contudo, o recurso de apelação é justamente uma exceção ao art. 995 do CPC. Nos termos do art. 1.012, caput, do CPC, diferente dos demais recursos, a apelação terá o efeito suspensivo como regra. Em outras palavras, o recurso de apelação possui efeito suspensivo ope legis.
+A apelação só não terá efeito suspensivo automático nas hipóteses do § 1º do art. 1.012, quando aí sim será necessária a comprovação dos requisitos da tutela de urgência.
+No contexto desta demanda, a sentença de primeiro grau (id. 145653652 - fls. 39/42) não se enquadra em nenhuma das hipóteses contidas no § 1º do art. 1.012 e, além disso, o Recorrido não formulou pedido para o cumprimento provisório da sentença. Portanto, a atribuição do efeito suspensivo à apelação deveria ter sido automática, sem a necessidade de comprovar os requisitos da tutela de urgência.
+O regramento do art. 1.012 do CPC, com relação efeito suspensivo da apelação, é claro. Cola-se o texto legal (grifo nosso):
+ ..
+Destarte, resta claro que o acórdão de id. 173063698, de lavra da Segunda Câmara de Direito Público e Coletivo do TJMT, violou o art. 1.012, caput, do CPC (Lei Federal) por não atribuir efeito suspensivo à apelação, devendo, neste ponto, ser reformado.
+Importa reiterar que, inobstante o Tribunal de Justiça Mato- Grossense não tenha dado provimento à apelação, a concessão do efeito suspensivo ainda assim é pertinente, visando afastar qualquer prejuízo ao Recorrente (Município) decorrentes da eficácia imediata da sentença, considerando a data de sua publicação até o momento.
+(fls. 417-419).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
