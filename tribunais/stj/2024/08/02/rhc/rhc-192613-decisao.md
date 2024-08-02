@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por FRANCISCO JOSENILDO MOURA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - TJCE no julgamento do HC n. 0636727-61.2023.8.06.0000.
+Extrai-se dos autos que o recorrente foi condenando à pena de 13 anos de reclusão, em regime inicial fechado, pela prática dos delitos previstos no art. 33, caput, da Lei n. 11.343/2006, e no art. 2º, § 2º e § 4º, da Lei n. 12.850/2013 (tráfico de drogas e organização criminosa), mantida a prisão preventiva.
+Posteriormente, o apenado progrediu para o regime semiaberto, sendo mantida a custódia provisória.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃOCRIMINOSA. EXECUÇÃO PROVISÓRIA DA PENA. PRISÃO PREVENTIVA. PROGRESSÃO DO PACIENTE PARA O REGIME SEMIABERTO. OPORTUNAADEQUAÇÃO DO REGIME DE CUMPRIMENTO DA PENA PELO JUÍZO DAEXECUÇÃO. PLENA COMPATIBILIDADE ENTRE A PRISÃO PREVENTIVA E O REGIME SEMIABERTO. HABEAS CORPUS CONHECIDO. ORDEM DENEGADA.
+1. Consoante se depreende a partir de leitura da peça inaugural, bem como dos documentos que a instruem, o paciente fora reconhecido como incurso nas tenazes do art. 33, caput, Lei nº 11.343/2006, e do art. 2º, §§ 2º e 4º, da Lei nº 12.850/2013, sendo condenado à pena de 13 (treze) anos de reclusão em regime inicial fechado, sendo determinada, ainda, a sua prisão preventiva, com supedâneo no acautelamento da ordem pública, diante da existência de indícios robustos capazes de evidenciar a sua participação em organização criminosa.
+2. Com efeito, a Suprema Corte consolidou entendimento no sentido de que "não há ilegalidade na decisão que decreta a prisão preventiva com base em elementos concretos aptos a revelar a real necessidade de se fazer cessar ou diminuir a atuação de suposto integrante de organização criminosa para assegurar a ordem pública" (STF, AgRg no HC n. 144.284,Relator Ministro Edson Fachin, Segunda Turma, DJe de 27/8/2018.).
+3. Nessa exata ordem de ideias, a orientação jurisprudencial vigente no Superior Tribunal de Justiça converge para a mesma lógica, segundo a qual "justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromperas atividades do grupo" (STJ, AgRg no HC n. 728.450/SP, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/08/2022).
+4. Superado o assunto, e partindo-se para uma análise propriamente dita da possível(in)compatibilidade entre o regime semiaberto e a prisão preventiva, prudente destacar que é uníssona a dicção do STJ a respeito da plena compatibilidade entre os institutos, razão pela qual não é possível constatar, no caso em tela, hipótese de flagrante constrangimento ilegal.
+5. Segundo o ato apontado como coator, "o apenado está no início do cumprimento de sua pena privativa de liberdade em regime semiaberto (com previsão para progressão ao regime aberto para 09/03/2025) em Unidade Prisional sob jurisdição deste Juízo, que está apta para receber presos em regime semiaberto, pois tem locais específicos (alas e/ou celas) destinados a recebê-los, visto que inexiste colônia agrícola ou industrial nesta Capital e na Região Metropolitana, sendo-lhe garantido os benefícios próprios do mencionado regime". Há, portanto, de se reconhecer que a custódia preventiva já se encontra em consonância com o atual regime cumprimento de pena (in casu, semiaberto), ante a progressão para regime menos gravoso que o inicialmente fixado, adequação esta realizada oportunamente pelo juízo de execução, razão pela qual se faz desnecessário qualquer reproche da decisão atacada.
+6. HABEAS CORPUS CONHECIDO. ORDEM DENEGADA" (fls. 76/77)
+No presente recurso, alega incompatibilidade da manutenção da prisão preventiva com o regime semiaberto.
+Aponta a suficiência das medidas cautelares alternativas ao cárcere.
+Requer, assim, a revogação da prisão preventiva, ainda que mediante a aplicação das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP.
+O Ministério Público Federal - MPF opinou pelo desprovimento do recurso às fls. 122/126.
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, no julgamento da Apelação Criminal n. 0018611-53.2023.8.06.0001, em 2/7/2024, o recorrente foi absolvido quanto ao delito de tráfico de drogas, sendo redimensionada sua pena para 3 anos de reclusão, em regime aberto, mais multa, pela prática do crime previsto no art. 2º da Lei n. 12.850/2013, e determinada a expedição de alvará de soltura em seu favor.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
