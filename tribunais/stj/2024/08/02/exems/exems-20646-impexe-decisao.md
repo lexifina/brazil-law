@@ -1,0 +1,15 @@
+DECISÃO
+A decisão de fl. 481, reiterada pela de fl. 490, determinou a suspensão do pagamento do precatório expedido até que sobreviesse o trânsito em julgado no âmbito do MS 18.952/DF. Recorde-se que o referido writ foi impetrado pelo então exequente para questionar a revisão de sua portaria de anistia, que culminara, inclusive, na anulação desta.
+À época, ainda não havia decisão definitiva no bojo daquele writ, pois pendia de apreciação recurso extraordinário interposto pela UNIÃO, ao qual fora atribuído efeito suspensivo até o julgamento do RE 817.338/DF (Tema 839/STF).
+À fl. 499, foi certificada a juntada de cópia de decisões proferidas nos autos do MS 18.952/DF em comento (fls. 500-552), dando conta de que nesses autos sobreviera o trânsito em julgado.
+É o relatório. Decido.
+Verifica-se que nos autos do citado MS 18.952/DF foi proferida decisão pelo Vice-Presidente deste Superior Tribunal de Justiça apontando que o acórdão ali recorrido, objeto do recurso extraordinário interposto pela UNIÃO, fixara, ao menos a princípio, entendimento diverso do adotado pelo STF no Tema 839 (cópia à fl. 540). Nesse sentido, com esteio no art. 1.040, II, do CPC, referido decisum determinou o encaminhamento dos autos à Primeira Seção para eventual juízo de retratação.
+Na sequência, a Primeira Seção, sob a relatoria do Min. Paulo Sérgio Domingues, rejulgou o writ para, em juízo de retratação, conceder a segurança (cópia do acórdão às fls. 542-551), sobrevindo o trânsito em julgado na data de 26/10/2023 (cópia à fl. 552).
+Assim, anulado o procedimento revisional, por falta de participação da Comissão de Anistia, conclui-se que permanece hígida, por ora, a portaria de anistia objeto da presente execução (Portaria nº 1.249, de 5/5/2004, do Ministr o de Estado da Justiça), situação que autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO.
+Por fim, considerando que não foi apontado excesso de execução - visto que o valor executado corresponde ao valor nominal da portaria de anistia, conforme consignado na decisão de fl. 424 -, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação oposta pela executada.
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, e determino o afastamento da suspensão do pagamento do precatório expedido.
+Em consonância com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno a executada ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu (que, no caso, corresponde ao valor executado, tendo em vista que impugnou a execução como um todo com base na alegada inexigibilidade do título judicial). Para pagamento da verba sucumbencial, determino a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC.
+Atestado o cumprimento dos requisitórios, incluindo o referente aos honorários advocatícios sucumbenciais, voltem-me conclusos para extinção da execução.
+Traslade-se cópia da presente decisão para os autos do Prc 5470/DF.
+Publique-se. Intimem-se.
+EMENTA
