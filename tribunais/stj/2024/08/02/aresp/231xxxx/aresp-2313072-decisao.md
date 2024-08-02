@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por N G DE S, em face da inadmissão de seu recurso especial, interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais.
+A ora agravante foi absolvida, em primeiro grau de juris dição, pela prática do disposto no artigo 33, c/c artigo 40, incisos III, IV, e VI, bem como artigo 35, todos da Lei 11.343/06 (fls. 10-25).
+Interposta apelação Ministerial, a 6ª Câmara Criminal do Tribunal de origem, deu parcial provimento ao recurso, vencida em parte a relatora, condenando a ora agravante pelo descrito no artigo 33, caput, c/c o artigo 40, inciso IV, da Lei 11.343/06, à pena de 07 (sete) anos e 06 (seis) meses de reclusão, em regime semiaberto, e 750 (setecentos e cinquenta) dias-multa (fls. 26-55).
+O acórdão transitou em julgado na data do dia 20/10/2021, conforme certidão acostada aos autos (fls. 56).
+A agravante ajuizou revisão criminal (fls. 01-09), com fulcro no artigo 621, incisos I e III, do Código de Processo Penal. O Tribunal de origem, através do 1º Grupo de Câmaras Criminais, julgou improcedente o pedido revisional, à unanimidade (fls. 93-101).
+Inconformada, interpôs recurso especial (fls. 126-138), com arrimo no artigo 105, inciso III, alínea a, da Constituição Federal. Apontou contrariedade aos artigos 2º, inciso VI, da Lei 12.037/2009, 33 e 64, inciso I, do Código Penal, 621, inciso I e III, do Código de Processo Penal, 33, §4º e 40, inciso IV, ambos da Lei 11.343/06. Requerendo o conhecimento e provimento do recurso, buscando o seguinte (fls. 137-138):
+a) Sejam AFASTADOS os maus antecedentes considerados na decisão impugnada, tendo em vista que se basearam em Certidão de Antecedentes Criminais de outra pessoa, bem como violaram a Constituição Federal de 1988 e o Código Penal;
+b) Seja devidamente RECONHECIDA a causa especial de diminuição de pena prevista no §4º do art. 33 da Lei n. 11.343/06, considerando a presença de todos os requisitos para tal benesse, bem como tendo em vista que seu afastamento no acórdão impugnado se deu apenas pelos maus antecedentes indevidamente reconhecidos;
+c) Seja DECOTADA a causa de aumento de pena reconhecida objetivamente no acórdão impugnado, que contrariou textos do ordenamento jurídico pátrio e evidencia dos autos;
+d) Seja MODIFICADO o regime inicial de cumprimento de pena estabelecido no acórdão impugnado, tendo em vista a sua manifesta inconstitucionalidade e violação do art. 33 do Código Penal;
+e) Seja AFASTADA a hediondez do crime pelo qual a peticionante foi condenada;
+f) Seja MODIFICADA a pena imposta à peticionante, refazendo-se o cálculo aritmético, bem como considerados todos os consequentes benefícios legais (artigos 44 e 77 do Código Pena) ;
+g) Seja FIXADA justa indenização pelo ERRO JUDICIÁRIO, nos moldes do art. 630 do Código de Processo Penal;
+h) Com fulcro no art. 98 do Código de Processo Civil, seja deferido ao Recorrente os benefícios da JUSTIÇA GRATUITA, uma vez que ele é pobre na acepção do vocábulo, não tendo condições financeiras de arcar com as despesas de custas processuais e honorários advocatícios sem prejuízo do próprio sustento ou de sua família.
+Apresentadas contrarrazões (fls. 142-149), o recurso especial foi inadmitido pela incidência dos óbices das Súmulas n. 07, STJ e 284, STF (fls. 152-156).
+O Ministério Público Federal ofereceu parecer, opinando pelo "desprovimento do agravo" (fls. 259-262).
+É o relatório. DECIDO.
+Alega-se, em suma, que o documento utilizado para aferir os maus antecedentes, e assim, exasperar a pena-base da ora agravante, em verdade, tratava-se dos dados de uma terceira pessoa.
+Sobre o tema, o acórdão de origem pautou-se no seguinte (fls. 96-98):
+Entretanto, não foi juntado documento de identificação da ora requerente, tampouco da pessoa indicada como homônima na inicial.
+Na procuração anexada a esta revisão criminal, a peticionária é identificada como sendo Nilda Gonçalves de Sousa, mas assina como Nilda Gonçalves de Souza.
+De fato, parece haver uma confusão na grafia do nome da ora Peticionária, o que acabou por gerar dois Relatórios de Registros Policiais distintos.
+No entanto, não se pode afirmar, pela parca documentação que acompanha a inicial, que a requerente é pessoa distinta daquela em nome de quem a CAC dos autos principais foi emitida. No máximo, pode surgir um cenário de dúvidas sobre a eventual existência de uma terceira pessoa que estaria sendo confundida com a requerente.
+Contudo, a dúvida, em sede de revisão criminal, não beneficia a peticionária, conforme estipulado pela Súmula 67 deste egrégio TJMG.
+Para que pudesse se cogitar a modificação da coisa julgada com base na tese de erro na identificação na CAC da ora requerente, seria imperiosa a juntada de prova inequívoca de que haveria duas pessoas distintas com nomes iguais, nascidas no mesmo dia, na mesma cidade e que a CAC juntada aos autos principais se referia a terceira pessoa, o que não ocorreu in casu.
+Acrescente-se que a prova apta a ensejar a procedência do pedido revisional deve ser robusta e incontroversa, o que não se verifica no caso em tela.
+ ..
+Para que o acórdão seja cassado via revisão criminal, é imprescindível que haja apresentação de prova nova e contrária à prova inicialmente colhida, o que não ocorre, in casu.
+Fato é que o peticionário não trouxe nenhuma prova nova a indicar com absoluta segurança o desacerto da decisão ora confrontada. Pelo exposto, julga-se improcedente o pedido revisional.
+Em que pese haver peculiar divergência quanto aos dados trazidos nas certidões anexadas, o Tribunal entendeu que a ora agravante não lograra êxito em apresentar documento ou prova nova bastante a comprovar existência de homônimo cujos registros criminais teriam sido indevidamente utilizados.
+Assim, resta obstada a cognição desejada em sede deste recurso especial, pela impossibilidade de se realizar qualquer revolvimento probatório em instância extraordinária, o que é disposto no enunciado da Súmula n. 7, STJ.
+No tocante aos maus antecedentes, a jurisprudência deste Tribunal Superior é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no artigo 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes.
+Dessa forma, a decisão recorrida deve ser mantida, pois está de acordo com o entendimento desta Corte, conforme se depreende do seguinte trecho que compõe o acórdão (fls. 100):
+Sobre a possibilidade de consideração de condenações transitadas em julgado que tenham superado o período depurador da reincidência como antecedentes, destaco que a jurisprudência do Superior Tribunal de Justiça "é reiterada no sentido de que, para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade" (AgRg no AREsp n. 1.764.094/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/5/2022.).
+Nesse sentido: (AgRg no HC n. 871.065/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.); (AgRg no AREsp n. 2.293.248/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/2/2024, DJe de 4/3/2024).
+Quanto aos pleitos de aplicação da causa de diminuição de pena prevista no artigo 33, §4º, da Lei 11.343/06, de afastamento da causa de aumento de pena do artigo 40, inciso IV, da Lei 11.343/06, bem como de modificação do regime prisional, não houve o prequestionamento, eis que não foram ventilados na decisão recorrida, o que atrai, por analogia a incidência dos verbetes sumulares 282 e 356 do STF.
+Ante o exposto, conheço do agravo, para conhecer parcialmente do recurso especial e, nessa extensão, negar provimento.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. ACÓRDÃO JULGOU IMPROCEDENTE O PEDIDO REVISIONAL. RECURSO ESPECIAL DEMANDA REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA N. 07, STJ. PERÍODO DEPURADOR NÃO IMPEDE A CONFIGURAÇÃO DE MAUS ANTECEDENTES. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DOS PLEITOS REMANESCENTES. SÚMULAS N. 282 e 356 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
