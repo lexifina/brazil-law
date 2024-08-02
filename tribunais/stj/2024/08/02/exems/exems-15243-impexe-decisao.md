@@ -1,0 +1,16 @@
+DECISÃO
+A decisão de fls. 1.098-1.099 determinou a suspensão do pagamento do precatório expedido até que sobreviesse o trânsito em julgado no âmbito do MS 18.608/DF. Recorde-se que o referido writ foi impetrado pela ora exequente para questionar a revisão de sua portaria de anistia, que culminara, inclusive, na anulação desta.
+À época, ainda não havia decisão definitiva no bojo daquele writ, pois pendia de apreciação recurso extraordinário interposto pela UNIÃO, ao qual fora atribuído efeito suspensivo até o julgamento do RE 817.338/DF (Tema 839/STF).
+À fl. 1.101, foi certificada a juntada de cópia de decisões proferidas nos autos do MS 18.608/DF em comento (fls. 1.102-1.172), dando conta de que nesses autos sobreviera o trânsito em julgado.
+É o relatório. Decido.
+Verifica-se que nos autos do citado MS 18.608/DF foi proferida decisão pelo Vice-Presidente deste Superior Tribunal de Justiça apontando que o acórdão ali recorrido, objeto do recurso extraordinário interposto pela UNIÃO, "fixou, ao menos a princípio, entendimento diverso do adotado pelo STF no Tema n. 839 de repercussão geral" (cópia à fl. 1.130). Nesse sentido, com esteio no art. 1.040, II, do CPC, referido decisum determinou o encaminhamento dos autos à Primeira Seção para eventual juízo de retratação.
+Na sequência, a Primeira Seção, sob a relatoria do Min. Herman Benjamin, rejulgou o writ para, em juízo de retratação, denegar a segurança (cópia do acórdão às fls. 1.132-1.138). Os embargos de declaração opostos foram rejeitados (cópia do acórdão às fls. 1.139-1.145). O beneficiário interpusera recurso ordinário (autuado como RMS 39.239/DF): o relator, Min. Nunes Marques, do Supremo Tribunal Federal, dele conheceu parcialmente e, na parte conhecida, negou-lhe provimento (cópia às fls. 1.150-1.160). O agravo regimental foi desprovido pela Segunda Turma (cópia do acórdão às fls. 1.162-1.170), sobrevindo o trânsito em julgado na data de 27/4/2024 (cópia à fl. 1.172).
+Desta forma, como o writ impetrado para questionar a anulação da portaria de anistia não logrou sucesso, é ina rredável a conclusão no sentido de que prevalece a portaria anulatória, a saber, a Portaria nº 890, de 22/5/2012, do Ministro de Estado da Justiça.
+Em consequência, anulada a portaria que concedeu a anistia ao falecido marido da exequente (Portaria nº 2.461, de 17/12/2003, do Ministro de Estado da Justiça), forçoso reconhecer que não mais subsiste o título no qual se funda a presente execução, vale dizer, não goza mais de exigibilidade.
+Em outras palavras, inexigível o título judici al, tal situação conduz, inexoravelmente, à extinção da execução.
+Ante o exposto, torno sem efeito a decisão de fls. 1.043-1.045 e julgo procedente a impugnação oposta pela UNIÃO, extinguindo a presente execução e cancelando o precatório expedido.
+Em consonância com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno o exequente ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu.
+Resta prejudicada a análise do agravo interno de fls. 1.052-1.059, interposto pelo exequente.
+Traslade-se cópia da presente decisão para os autos do Prc 5488/DF.
+Publique-se. Intimem-se.
+EMENTA
