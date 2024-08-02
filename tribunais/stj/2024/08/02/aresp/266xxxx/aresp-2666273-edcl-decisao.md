@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FRANCISCO CARVALHO RODRIGUES contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  com as devidas vênias, o Acórdão aqui guerreado quedou-se omisso quando deixou de analisar a impugnação específica e detalhada dos pontos suscitados pelo Embargante, que foram ostensivamente discorridas quando do Agravo em Recurso Especial, e não o conheceu sob o fundamento de incidência da súmula 284 do Supremo Tribunal Federal e a Súmula 182do Superior Tribunal de Justiça, trazendo à tona desídia interpretativa quanto à aplicação da Repercussão Geral nos autos.(fl. 14590).
+ ..  o óbice da Súmula nº 284/STF não deve ser aplicado automaticamente, como vem sendo feito corriqueiramente pelas instâncias superiores, massim, casuisticamente. Isto porque, em certas oportunidades, como a do caso em questão, o que há é a má interpretação do ordenamento constitucional pelo acórdão recorrido.(fl. 14593)
+Quando da questão controversa, que o recurso busca reformar, trata do devido detalhamento e pormenorização dos pontos combatidos na decisão denegatória, demonstrando, explicitamente, a divergência normativa suscitada, de modo que basta que haja a manifestação, pelo Tribunal Superior, da interpretação adequada da norma jurídica, para que seja requerida a reforma ou a anulação do acórdão recorrido.(fl. 14594)
+ ..  conforme elucidado acima, os pontos de atrito compreendidos na decisão agravada foram combatidos ponto a ponto, de forma que é imperativo seu conhecimento.(fl. 14596)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF e divergência não comprovada, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
