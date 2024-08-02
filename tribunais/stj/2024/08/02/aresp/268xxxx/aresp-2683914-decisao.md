@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravos em recurso especial interpostos por Aureliano Bohac e por Carlos Augusto Bortholin Freire contra decisões que inadmitiram os recursos especiais, em razão da incidência das Súmulas 284/STF e 7/STJ.
+Consta dos autos que o agravante Aureliano Bohac foi condenado como incurso nas sanções do artigo 35, caput, da Lei 11.343/06, às penas de 4 anos de reclusão e 933 dias-multa, em regime inicial fechado. O agravante Carlos Augusto foi condenado como incurso nas sanções dos artigos 33, caput, e 35, caput, da Lei 11.343/06, na forma do artigo 69, do Código Penal, às penas de 12 anos e 9 meses de reclusão, em regime inicial fechado, e 1.974 dias-multa.
+Nas razões do agravo, sustenta a defesa de Aureliano Bohac a insuficiência de provas para a condenação, bem como que o agravante não dispõe de recursos financeiros para arcar com pena de multa aplicada.
+Carlos Augusto, por sua vez, sustenta que "a decisão recorrida é extremamente genérica, restringindo-se a citação de um precedente para fundamentar sua decisão, sem, no entanto, demonstrar que o presente caso se enquadra na hipótese" (fl. 5.152).
+Aduz a não incidência da Súmula 7/STJ, pois a análise das pretensões defensivas não demanda reexame de provas, tratando-se unicamente de matéria de direito.
+Alega, ainda, que não "houve condenação com prova que não consta nos autos (art. 155 CPP), denuncia inepta por ausência de exposição do fato criminoso (art. 41 CPP) e ausência de indicação do fato praticado pelo Recorrente (art. 381, III), bem como, violação na dosimetria da pena (art. 29, 59, 61, 69, todos do CP), o que justifica o Recurso Especial para correção destas ilegalidades" (fl. 5.152).
+Requerem as defesas o provimento dos recursos especiais, a fim de que os agravantes sejam absolvidos.
+O Ministério Público Federal opinou pelo não conhecimento dos agravos.
+É o relatório.
+Decido.
+Os agravos não merecem ser conhecidos.
+In casu, as defesas deixaram de infirmar, de maneira adequada e suficiente, as razões apresentada pelo Tribunal de origem, para negar trânsito aos Recursos Especiais, qual seja, a incidência das Súmulas 7/STJ e 284/STF.
+Nos presentes recursos, as defesas dos insurgentes, além de repisarem as razões dos apelos nobres, quanto ao óbice da Súmula 7/STJ, limitaram-se a afirmar que não há provas suficientes para a condenação.
+Com efeito, das razões colacionadas nas irresignações, verifico que as partes não refutaram a aplicação da Súmula 7/STJ de maneira adequada, pois deveriam os agravantes indicar como o acórdão recorrido enfrentou a questão posta em debate nos recursos especiais, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Já no que se refere à Súmula 284/STF, faz-se necessário apontar, com precisão e clareza, a forma que o arresto atacado violou os dispositivos tidos por desrespeitados. Nesse sentido, "a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal, sob pena de incidência da Súmula 284 do STF." (AgRg no AREsp n. 2.314.965/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023).
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Consoante o teor do art. 932, inciso III, do Código de Processo Civil de 2015, o relator não conhecerá de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Na mesma intelecção, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do Agravo que descumpre a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial. Conforme entendimento assentado nesta Corte:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido." (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Ante o exposto, não conheço dos agravos em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
