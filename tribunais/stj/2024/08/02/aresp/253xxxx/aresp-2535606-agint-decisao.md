@@ -1,0 +1,15 @@
+DECISÃO
+Diante das razões de agravo interno, reconsidero a decisão de fls. 2.872-2.874/e-STJ.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO. SFH. INDENIZAÇÃO SECURITÁRIA. INTERESSE PROCESSUAL APÓS QUITAÇÃO DO CONTRATO DE FINANCIAMENTO. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO. PRODUÇÃO PROVA PERICIAL. CERCEAMENTO DE DEFESA.
+1. Conforme precedente do STJ (REsp Nº 1.622.608/RS, Terceira Turma, Relatora Ministra Nancy Andrighi, julgamento 11/12/2018), à luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, conclui-se que os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto).
+2. Identificado o interesse processual da parte autora e ausente manifestação do juízo de origem acerca dos termos inicial e final da contagem do prazo prescricional, há necessidade de anulação da sentença e se impõe a devolução dos autos à Vara de origem, onde deverão ser sobrestados até o julgamento do Tema 1.039 do STJ, com posterior reapreciação da matéria, inclusive no que tange à produção probatória compatível para a análise do pleito de mérito.
+Anoto que esta Corte possui entendimento no sentido de que, presente cláusula contratual de comprometimento do FCVS - situação destes autos, conforme se depreende do acórdão recorrido (fl. 2.726/e-STJ) -, a competência para julgamento do recurso é da Primeira Seção. Confira-se:
+PROCESSO CIVIL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. INDENIZAÇÃO SECURITÁRIA. POSSÍVEL COMPROMETIMENTO DO FCVS. COMPETÊNCIA DA PRIMEIRA SEÇÃO. PEDIDO DE INTERVENÇÃO DA CEF. JUSTIÇA FEDERAL. SÚMULA 150/STF.
+(..)
+2. Nos processos em que possa haver comprometimento dos recursos do Fundo de Compensação das Variações Salariais - FCVS, a competência para julgamento é das Turmas integrantes da Primeira Seção. Precedentes: CC 121.499/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 23/4/2012, DJe 10/5/2012; CC 36.647/SP, Rel. Ministro Felix Fischer, Corte Especial, DJ 22/3/2004, p. 186; CC 132.728/SP, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 26/11/2014, DJe 19/12/2014; AgRg no CC 132.745/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/3/2015, DJe 27/3/2015.
+(..)
+(REsp 1607242/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/09/2016, DJe 11/10/2016)
+Assinalo, ainda, que a competência da Primeira Seção para o julgamento de processos como o em análise, referente a contrato de seguro vinculado à apólice pública (ramo 66), foi reafirmada pela Corte Especial no julgamento do Conflito de Competência 148.188, da relatoria do Ministro Humberto Martins (julgado em 4/10/2023, DJe de 16/10/2023).
+Em face do exposto, determino a redistribuição do feito para uma das Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça.
+EMENTA
