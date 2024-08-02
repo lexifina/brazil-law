@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão de fls. 56-58, que indeferiu o pedido liminar no habeas corpus, impetrado em favor de LUCAS FERREIRA DE SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Na hipótese, depreende-se dos autos que o requerente teve a prisão preventiva decretada, pela prática, em tese, do delito previsto no artigo 157, caput, do CP.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado: (fl. 10)
+"(..) HABEAS CORPUS. CRIME DE ROUBO. DECRETO PRISIONAL SATISFATORIAMENTE FUNDAMENTADO. PERICULOSIDADE DEMONSTRADA. RISCO CONCRETO À ORDEM PÚBLICA. PACIENTE QUE RESPONDE A OUTRA AÇÃO PENAL. PRISÃO CONSTANTEMENTE REAVALIADA E MANTIDA. CONTEMPORANEIDADE EVIDENCIADA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. BOAS CONDIÇÕES PESSOAIS NÃO DEMONSTRADAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL EM RAZÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INOCORRÊNCIA. INCIDÊNCIA DO PRINCÍPIO DA RAZOABILIDADE. NECESSIDADE DE REMARCAÇÃO DAS AUDIÊNCIAS DESIGNADAS POR DUAS VEZES. DIFICULDADE NO CUMPRIMENTO DE CARTAS PRECATÓRIAS DIRECIONADAS AO CORRÉU. JUÍZO A QUO QUE JÁ ORDENOU NOVA INCLUSÃO DO FEITO EM PAUTA. HABEAS CORPUS CONHECIDO E DENEGADO, EM CONFORMIDADE COM O PARECER DA PROCURADORIA DE JUSTIÇA. (..)"
+Decisão de indeferimento do pedido liminar, às fls. 56-58.
+Informações prestadas às fls. 66-73 e 76-79.
+O Ministério Público Federal, às fls. 82-88, em parecer, manifestou-se pelo não conhecimento do writ, e, no mérito, pela denegação da ordem, assim ementado:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO. PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS DESCRITOS NO ARTIGO 312, CPP. GRAVIDADE EM CONCRETO DO DELITO. RISCO À ORDEM PÚBLICA CONFIGURADO. REAL POSSIBILIDADE DE REITERAÇÃO CRIMINOSA. PERICULOSIDADE EVIDENCIADA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO CAUTELAR DO CORRÉU FOI MANTIDA POR OCASIÃO DO JULGAMENTO DO RHC 183146/BA. DECISÃO QUE DEVE SER APLICADA TAMBÉM AO ORA PACIENTE, JÁ QUE SE TRATA DOS MESMOS FATOS CRIMINOSOS. PARECER PELO NÃO CONHECIMENTO DO WRIT. NO MÉRITO, PELA DENEGAÇÃO DA ORDEM." (fl. 82)
+Alega constrangimento ilegal e falta de fundamentação idônea para a manutenção da segregação cautelar.
+Aduz que:
+" Excelência, todavia, conforme já demonstrado na impetração, o Juízo de origem novamente não realizou a audiência de instrução e julgamento, sem qualquer justificação nos autos que demonstrasse a impossibilidade de realização, simplesmente, chegou no dia e não realizou, sem qualquer comunicação prévia ou posterior.  ..  Nesse diapasão, fica claro e evidente a flagrante ilegalidade pelo excesso de prazo em face do paciente, no qual espera por mais de 724 dias a realização da instrução processual.  .. " (fls. 90;91)
+Requer " ..  a reconsideração da decisão liminar, para que seja concedido ao paciente a revogação da prisão preventiva por medidas cautelares diversas previstas no art. 319 do CPP.  .. ". (fl. 91)
+O pedido de reconsideração deve ser rejeitado.
+É o relatório. DECIDO.
+O pedido de reconsideração deve ser rejeitado e, passo apreciar o mérito.
+Pretende o requerente o reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a sua prisão cautelar e o excesso de prazo da instrução processual.
+In casu, a prisão preventiva do requerente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta; não se pode olvidar o risco de reiteração criminosa.
+No ponto, consta no acórdão hostilizado:
+" ..  a decisão acima transcrita encontra-se devidamente embasada em razões concretas, que assinalam a indispensabilidade da custódia provisória. Além disso, em consulta ao sistema PJE 1º grau, constata-se que o paciente responde a outra ação penal, situação que evidencia o risco à ordem pública.  ..  " (fl. 17)
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.)
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada.
+Como registro a fundamentação do acórdão hostilizado:
+ ..  Impende salientar que a segregação cautelar já foi reavaliada e mantida em diversas oportunidades (02/09/2022, 14/03/2023, 07/07/2023 e 26/07/2023), tendo o Juízo a quo ressaltado a persistência dos motivos ensejadores da decretação da custódia.  ..  " (fl. 17)
+Sobre o tema:
+"In casu, verifica-se que não se constata flagrante ilegalidade por excesso de prazo na formação da culpa quando o processo segue regular tramitação. Extrai-se das informações prestadas pelas instâncias ordinárias, bem como do andamento processual da ação originária no site do Tribunal estadual, que a insatisfação da agravante com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculiaridades, considerando a complexidade do processo, no qual se apura a prática dos delitos de tráfico de drogas, associação ao tráfico de entorpecentes e posse de arma de fogo, com pluralidade réus - 4 -, representados por advogados distintos, demandando a realização de diversas diligências" (AgRg no RHC n. 174.284/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/5/2023)
+Condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao requerente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, rejeito o pedido de reconsideração e denego a ordem em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
