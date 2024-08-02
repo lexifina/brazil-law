@@ -1,0 +1,20 @@
+DECISÃO
+Tratam-se de embargos de declaração opostos por DIOILE MENDES ROMERO e MARIA APARECIDA ALMEIDA BRITES FERREIRA DA SILVA de decisão na qual deneguei a ordem.
+A defesa alega omissão da decisão impugnada, "uma vez que houve desvirtuamento da tese da defesa, ao julgar diretamente o mérito das teses lançadas pela defesa, sem levar em consideração que o pedido de mérito do habeas corpus era TÃO SOMENTE quanto à necessidade do retorno dos autos à origem, para que o TJMS pudesse enfrentar os pontos alegados, o que acarretaria na abertura de prazo para a interposição dos recursos especial e extraordinário."
+Destaca que "a ausência de apreciação dos pontos específicos que não foram rebatidos implicará em cerceamento de defesa aos pacientes, pois estarão IMPOSSIBILITADOS DE RECORRER destas matérias específicas perante esta Corte Superior e a Corte Suprema."
+Requer "sejam acolhidos os presentes embargos de declaração para suprimento da omissão apontada, para o fim de que seja analisado o pedido de mérito do habeas corpus, no que tange ao retorno dos autos ao juízo de origem, para que se manifeste acerca dos vícios apontados por meio dos embargos de declaração que foram opostos contra o acordão que julgou improcedente o recurso de apelação."
+É o breve relato.
+Decido.
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Na hipótese, observa-se que, ao contrário do afirmado pelos embargantes, a decisão impugnada indicou adequadamente as razões pelas quais não acolheu a tese defensiva de falta de prestação jurisdicional pelo Tribunal de Justiça do Mato Grosso do Sul, no julgamento do apelo defensivo.
+Da leitura atenta da decisão impugnada, nota-se que as teses defensivas apresentadas - invalidade da prova obtida em busca domiciliar e do indevido acesso de dados constantes do celular do réu - foram afastadas motivadamente pela Corte estadual.
+A questão da invalidade do mandado de busca e apreensão não foi enfrentado porque considerou-se presente justa causa para busca domiciliar:
+Como se verifica, o Tribunal de origem não se manifestou sobre a legalidade do mandado de busca e apreensão, cujo cumprimento teria ocasionado a prisão em flagrante dos réus, e, segundo alega a defesa, carece de motivação e indica equivocadamente endereço não pertencente a pessoa objeto da medida, por considerar que a busca domiciliar se legitimou na presença de fundadas razões de que no local funcionaria uma "boca de fumo" - hipótese prevista constitucionalmente para o ingresso em residência de terceiro, sem autorização judicial.
+Segundo afirmou, a atuação dos policiais estaria justificada nas diversas denúncias anônimas de que o local seria uma "boca de fumo", assim como pelas diligências realizadas nas imediações, "onde foi detectado o ingresso de pessoas na casa, sendo conhecidas naquela localidade pelo envolvimento de drogas, indicando assim, a traficância por parte dos apelantes".
+Nesse contexto, concluiu pela validade de todo o conjunto probatório recolhido no local, uma vez que evidente a presença de justa causa para aadoção da medida de busca domiciliar.
+Por fim, afirmou-se que houve autorização judicial para a colheitan da prova nos celulares apreendidos:
+Segundo se infere, o acesso as mensagens e demais dados extraídos dos celulares dos réus, que subsidiaram a acusação e o édito condenatório pelo delito de associação ao tráfico, foi autorizado judicialmente. Logo, eventual vício de consentimento na autorização dado pelo paciente e na verificação dos registros de ligações recebidas pelos policiais, durante a prisão em flagrante, não tem o condão de anular a condenação, uma vez que amparada em prova lícita e independente, obtida sob o crivo do contraditório e ampla defesa.
+Logo, não se constata a existência de nenhum dos vícios do art. 619 do CPP.
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
