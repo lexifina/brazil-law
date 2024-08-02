@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LINDOMAR ELIZENO DA SILVA contra decisão de fls. 883/884, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Em que pese ser irretocável o posicionamento de V. Exa.. pela negativa de seguimento ao recurso, pelos fundamentos da própria decisão, denota-se que a mesma encontra-se contraditória à decisão do Tribunal a quo no tocante à majoração dos honorários sucumbenciais.
+Isto, porque, o acórdão que negou provimento à Apelação interposta pela empresa, ora embargada, majorou os honorários advocatícios ao patamar de 17% (dezessete por cento) sobre o valor da condenação.
+Desta forma, a parte final da decisão do Agravo que majora os honorários de sucumbência encontra-se em contradição ao acórdão da Apelação, vez que determina a sua majoração, mas os fixa em patamar inferior àquele fixado pelo Tribunal de Justiça de Minas Gerais.
+Desta forma, servem os presentes aclaratórios para que se manifeste a nobre julgadora tão somente em relação à contradição apontada, haja vista o já mencionado acerto na negativa de seguimento do Agravo, postulando o Embargante para que sejam os honorários advocatícios fixados em patamar superior ao 17% (dezessete por cento) já fixados ou, quando não, seja a sucumbência mantida nesse patamar (fl. 889).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Ressalte-s e que os honorários recursais foram majorados em desfavor da parte recorrente de forma clara, no importe de 15% sobre o montante já arbitrado, ou seja, os honorários sucumbenciais fixados nas instâncias ordinárias, seja de forma equitativa, seja em percentual sobre o valor da condenação, da causa ou do proveito econômico obtido, servirão como base de cálculo sobre a qual incidirão os 15% da majoração, observados, sempre que aplicáveis, os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil.
+Veja-se que não se trata de um percentual excessivo ou irrisório, porque condizente com os preceitos do Enunciado Administrativo n. 7 e com os limites estabelecidos no art. 85, § 2º, do Código de Processo Civil de 2015.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
