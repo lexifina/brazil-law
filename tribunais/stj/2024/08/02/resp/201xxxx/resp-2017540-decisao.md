@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOSÉ ATANÁSIO NASCIMENTO, com base na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MA RANHÃO assim ementado (fls. 250-251):
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. AGRAVO INTERNO. JULGAMENTO PELO RELATOR. DECISÃO MONOCRÁTICA. DESENVOLVIMENTO, COM FUNDAMENTAÇÃO E DISPOSITIVO (PER RELATIONEM). ADOÇÃO DOS FUNDAMENTOS E DOS DISPOSITIVOS DA SENTENÇA E OS ARGUMENTOS LANÇADOS NAS PEÇAS RECURSAIS. NULIDADE INEXISTENTE. JURISPRUDÊNCIAS PACIFICADAS PELO SUPREMO TRIBUNAL FEDERAL, SEDIMENTADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA E SOLIDIFICADAS PELOS TRIBUNAIS ESTADUAIS. REPETIÇÃO DOS ARGUMENTOS. MATÉRIAS JÁ CONHECIDAS E TRATADAS POR FORTES JULGADOS DOS TRIBUNAIS SUPERIORES E DOS TRIBUNAIS ESTADUAIS. DECISÃO MONOCRÁTICA MANTIDA.
+I - O uso da motivação per relationem, também denominada de motivação aliunde, motivação por referência, motivação referenciada, motivação por remissão ou motivação remissiva, a qual o relator adota, na sua decisão, fundamentos contidos na sentença, parecer do membro do MPE, dos argumentos contidos nas peças recursais, jurisprudências, precedentes, Súmulas, Súmulas Vinculantes dos Tribunais Superiores. Acórdãos dos Tribunais Estaduais ou de decisões pacificadas e calcificadas pelas Câmaras Isoladas Cíveis. O Ministro do STF que jamais deixará de ser um ícone, o Mestre Aires de Britto reafirmou que o Judiciário deve ser proativo, neutro e apartidário. E disse que a justiça brasileira pode adotar o processo de otimização (rendimento ótimo, criando condições favoráveis e gestão eficiente dos processos) e o tempo de duração dos processos judiciais, desde que haja bom senso da sociedade e vontade dos juízes. Ora, otimizar significa julgar sem entraves e obstáculos. O uso da técnica monocrática traduz inúmeros vieses na administração dos processos: a superação de indicadores negativos; quebra dos gargalos das fases processuais; novas texturas dos processos; identificação das falhas; e resultados eficientes.
+O cidadão brasileiro quer que o seu processo seja decidido. Seja favorável ou não. É uma conquista do Estado Democrático de Direito. E jamais provocará quebras, contorcionismos, quiasmas, feridas profundas no artigo 93, inciso IX, da Bíblia Republicana Constitucional.
+II - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao julgar monocraticamente o recurso de apelação, impõe o desprovimento do recurso.
+III - Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fl. 461):
+EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO PROFERIDO EM AGRAVO INTERNO. ACÓRDÃO EMBARGADO TIDO COMO OMISSO. NÃO CARACTERIZAÇÃO DE VÍCIO EMBARGÁVEL. REDISCUSSÃO DA MATÉRIA. CONTRARIEDADE AO ART. 1.022 DO CÓDIGO FUX. PROPÓSITO DE PREQUESTIONAMENTO. APLICAÇÃO DE MULTA. ART. 1026, §2º, DOCÓDIGO FUX. EMBARGOS REJEITADOS.
+I  Os embargos de declaração são oponíveis somente quando o pronunciamento judicial se ressentir de omissão, obscuridade, contradição ou erro material, nos termos do artigo 1.022 do Código Fux, sendo incabíveis para veicular, isoladamente, o propósito de inconformismo com o teor do julgamento.
+II  Embora possam os embargos de declaração ser manejados para o fim de prequestionamento, tal fato não implica a inobservância do cabimento, de acordo com as estritas hipóteses do artigo 1.022, do Código Fux. Vale dizer: o propósito de prequestionar deve estar atrelado à existência dos vícios que possibilitam o manejo dos declaratórios.
+III  "Art. 1.026. (..) § 2º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa."
+IV  Embargos de declaração rejeitados.
+Em suas razões, o recorrente alega violação dos arts. 489, § 1º, IV e V, 1.021, § 3º, e 1.022, II, do CPC, porquanto "foram apresentados vários argumentos para demonstrar, especificamente, que a decisão de primeiro grau (i) violou o art.489, parágrafo 1º, IV e V, do CPC, (ii) não informou o entendimento dominante do STJ que subsidiou a decisão monocrática e colegiada quanto a ocorrência de venda casada, bem como da abusividade da cobrança de seguro auto RCI. Mas o Tribunal Estadual se recusou ao enfrentamento dos temas " (fls. 527-528).
+No mérito, alega violação do art. 39, I, do CDC.
+Contrarrazões ofertadas às fls. 537-546.
+O recurso especial foi admitido na origem (fls. 549-552).
+É, no essencial, o relatório.
+Da detida análise dos autos, verifica-se que merece guarida a alegação de afronta ao art. 1.022 do CPC no caso dos autos.
+Constata-se que a parte ora agravante alegou as referidas omissões na petição de agravo interno (fls. 186-194), bem como na petição dos embargos de declaração (fls. 281-286 ), no tocante à nulidade do negócio jurídico.
+Assim, tendo a parte recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC e em face das questões suscitadas, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço em parte do recurso especial para dar-lhe provimento, a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. VIOLAÇÃO DO ART. 1.022 DO CPC CONFIGURADA. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO.
