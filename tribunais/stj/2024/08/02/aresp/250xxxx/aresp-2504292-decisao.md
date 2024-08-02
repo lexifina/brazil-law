@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  ALEXANDRE JOSÉ FRANCISCO  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  cuja  ementa  guarda  os  seguintes  termos  (fl.  754):
+EXIGIR CONTAS. Corretagem. Extinção por inépcia da petição inicial. Exposição da causa de pedir e do pedido suficiente para deflagrar o processo, permitir o exercício do contraditório e levar à concessão da tutela jurisdicional, seja ela de procedência ou de improcedência. Sentença anulada. Causa mad ura. Artigo 1.013, § 3º, do CPC. Contratação verbal não demonstrada. Descumprimento do ônus probatório imposto pelo artigo 373, inciso I, do CPC. Inexistência do dever de prestar contas. Pedido improcedente. Recurso parcialmente provido.
+Rejeitados  os  embargos  de  declaração  opostos  (fls.  486-490).
+No  recurso  especial,  alega  a parte  recorrente,  preliminarmente,  ofensa  aos  arts.  489  e  1.022,  inciso  II,  do  Código  de  Processo  Civil,  ao  sustentar  que,  apesar  da  oposição  dos  embargos  de  declaração,  o  Tribunal  de  origem  não  se  pronunciou  sobre  pontos  necessários  ao  deslinde  da  controvérsia.
+Aponta,  ainda,  afronta  aos  arts.  107, 422, 725, 729 e 884 do Código  Civil; 17, IV, da l. 6.530/78; e 5º da LINDB,  ao  defender , em síntese, que ficou demonstrada a contratação verbal do serviço de corretagem, consistente na utilização de seus serviços de corretagem na indicação de espaços para implementação de loteamentos imobiliários, e que o entendimento em sentido contrário foi influenciado por argumentos de falso testemunho prestado em audiência de instrução.
+Foram  oferecidas  contrarrazões  ao  recurso  especial  (fls.  801-807).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  808-810),  o  que  ensejou  a  interposição  do  presente  agravo.
+Apresentada  contraminuta  ao  agravo  (fls.  833-838).
+É,  no  essencial,  o  relatório.
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+Não  merece  prosperar  o  recurso.
+De  início,  inexiste  a  alegada  ofensa  aos  arts.  489  e  1.022  do  Código  de  Processo  Civil,  pois  a  prestação  jurisdicional  foi  dada  na  medida  da  pretensão  deduzida,  conforme  se  depreende  da  análise  do  acórdão  recorrido.  Assim,  manifestou-se  a  Corte  a  quo  de  maneira  clara  e  fundamentada  sobre  as  questões  postas  a  julgamento,  não  obstante  tenha  entendido  o  julgador  de  segundo  grau  em  sentido  contrário  ao  posicionamento  defendido  pela  ora  recorrente.
+Outrossim,  consigne-se  inviável  a  apreciação  das  alegações  do  recorrente,  considerando  que  a  Corte  de  origem,  ao  entender  que não ficou provada a intermediação útil para a compra da área objeto de discussão nos autos, a caracterizar o contrato de corretagem pleiteado,  firmou  o  entendimento  com  base  no  conjunto  probatório  dos  autos.  Confira-se  o  seguinte  excerto  do  voto  condutor  (fls.  760-761):
+Ora, como se vê, encerrada a instrução processual, os elementos coligidos nos autos não favorecem a tese inicial.
+Os depoimentos das testemunhas do autor não comprovam que houve a alegada intermediação e muito menos que essa aproximação foi profícua.
+A depoente Sandra não soube detalhar os desdobramentos do contato mantido entre as partes, pois não permaneceu na imobiliária do autor.
+Por seu turno, a testemunha Valdirene recordou-se que a reunião, que contou com a participação de Antonio Carlos da "fazenda Pinheirinho", ocorreu em agosto de 2016, época em que o compromisso de compra e venda do imóvel objeto de discussão nos autos já tinha sido celebrado(quer seja, em 23-07-2015 - fls. 176/179).
+Além disso, o relato do depoente Izaías corroborou a tese defensiva, o que foi secundado pela testemunha Djair.
+Desse modo, força concluir que o autor não se desincumbiu a contento do ônus probatório que lhe competia. Incide, na espécie, o disposto no artigo 373, inciso I, do Código de Processo Civil.
+Ora, como se sabe, no processo, a vontade concreta da lei só se afirma em prol de uma das partes, se demonstrado ficar que os fatos, de onde promanam os efeitos jurídicos que pretende, são verdadeiros, claro está que, não comprovados tais fatos, advirá para o interessado, em lugar da vitória, a sucumbência e o não reconhecimento do direito pleiteado (José Frederico Marques, Manual de Direito Processual Civil, 8ª edição, Saraiva, São Paulo, 1985, v. 2, p. 193).
+A necessidade de provar para vencer, diz Wilhelm Kisch, tem o nome de ônus da prova. Não se trata de um direito ou de uma obrigação, e sim de um ônus, uma vez que a parte a quem incumbe fazer a prova do fato suportará as consequências e prejuízos da sua falta e omissão (Elementos de Derecho Procesal Civil, 1940, p. 205;"apud" José Frederico Marques, ob. cit., p. 193)
+Assim, como não restou demonstrada a intermediação útil para a compra da área objeto de discussão nos autos, os réus não têm o dever de prestar contas. Ademais, se não foi demonstrado o cometimento de nenhum ilícito por parte dos demandados, revela-se igualmente descabido o pedido indenitário.
+Assim,  rever  tal  entendimento,  a  eventualmente  ensejar  novo  juízo  acerca  dos  fatos  e  das  provas,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos.  Sendo  assim,  incide  no  caso  a  Súmula  n.  7  do  STJ,  segundo  a  qual  "a  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial".
+Nesse  sentido,  mutatis mutandis ,  cito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ART. 1.022 DO CPC. NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DAS PROVAS. ENTENDIMENTO DO TRIBUNAL. SÚMULA 7 DO STJ. DIREITO CIVIL. COMISSÃO DE CORRETAGEM. CABÍVEL COM RESULTADO ÚTIL DO CORRETOR. NO CASO, DESISTÊNCIA DA PRÓPRIA COMPRADORA. NÃO CABIMENTO DE CORRETAGEM. ENTENDIMENTO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O DA CORTE DO STJ. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A comissão de corretagem é devida, quando caracterizado o resultado útil da atuação do corretor, ou seja, quando há efetivo contrato final, comprovado por registro de compra e venda ou qualquer outro documento hábil para demonstrar que houve conclusão da negociação.
+3. Incabível comissão de corretagem no contrato de compra e venda de imóveis, quando o negócio não foi concluído por desistência do comprador, não atingindo assim o seu o resultado útil. Precedentes.
+Incidência da Súmula 83 do STJ no caso em questão.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.142.647/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+Ante  o  exposto,  conheço  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se.  Intimem-se.
+EMENTA
+CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  EXIGIR CONTAS. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. CORRETAGEM. CONTRATAÇÃO VERBAL NÃO DEMONSTRADA.  PRETENSÃO  DE  REEXAME  DE  PROVAS.  SUMULA  N.  7/STJ.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  CONHECIDO  EM  PARTE  E  IMPROVIDO.
