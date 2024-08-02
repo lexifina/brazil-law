@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por DIEGO PEDRO WON KIM e RICARDO LUIS KIM contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 426):
+APELAÇÃO CÍVEL - EMBARGOS APRESENTADOS POR NEGATIVA GERAL - INOVAÇÃO RECURSAL QUANTO À MATÉRIA DE DIREITO -INADMISSIBILIDADE - AÇÃO DE COBRANÇA -CITAÇÃO POR EDITAL - REGULARIDADE -ALUGUEIS E ENCARGOS DA LOCAÇÃO -CONTRATAÇÃO DEMONSTRADA -ÔNUS DA SUCUMBÊNCIA -PARTE VENCIDA CITADA POR EDITAL - ATUAÇÃO DO DEFENSOR PÚBLICO COMO CURADOR ESPECIAL -AUSÊNCIA DE PRESUNÇÃO DE MISERABILIDADE DA PARTE REPRESENTADA - JUSTIÇA GRATUITA -INDEFERIMENTO.
+I -Nosembargos apresentados por curador especial por negativa geral, não se admite o debate de questões de direito inovadoramente deduzidas no recurso, eis que o parágrafo único do art. 341 do CPC, dispensa o curador especial apenas do ônus de impugnar especificadamente a matéria fática deduzida.
+II -Na esteira da jurisprudência pátria, a citaçãopor edital somente é válida quando esgotados todos os meios possíveis para localização do réu, o que resta atendido por meio de comprovação de várias diligências e tentativas de citação nos diversos endereços dos réus.
+III -Comprovada a existência da relação locatíciae ausente prova da quitação dos respectivos alugueis e encargos, imperiosa a condenação dosdevedoresao pagamento do montante devido.
+IV -Amera circunstância de a parte estar litigando em juízo representada por defensor público na qualidade de curador especial não lhe garante a concessão do pálio da gratuidade da justiça, sendo que, inexistindo nos autos qualquer indício de que a mesma seja pobre em sentido legal, não está autorizada a concessão do benefício requerido.
+Sem embargos de declaração.
+No recurso especial, os recorrentes alegam violação do art. 256, § 3º do CPC.
+Sustentam, em síntese, que "O Eg. TJMG,ao negar provimento à apelação no tocante ao pleito de nulidade da citação dosrecorrentespor edital, ao fundamento de que foram esgotados todos os meios necessários para sua localização, mesmo tendo a CuradoriaEspecial afirmadoque não houve esgotamento das tentativas de localização dosora recorrentes, visto que não se efetivou a consulta frente aoSIEL, bem comonão foram expedidos ofícios aórgãos públicos, concessionárias de serviço públicoe empresas privadas de telefonia,OFENDENDO EXPRESSAMENTE O DISPOSTO NO ARTIGO 256, §3º, DO CPC." (fl. 450)
+Apontam divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 474-485).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 489-491), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 523-528).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Discute-se nos autos a nulidade da citação por edital.
+A citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas todas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. NULIDADE DE CITAÇÃO POR EDITAL. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, a citação por edital pressupõe o esgotamento dos meios de localização do executado, sob pena de nulidade. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.361.748/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+Ressalta-se que "o Juízo tem o dever de buscar todos os meios possíveis de localização do réu, para se proceder à respectiva citação pessoal, devendo requisitar informações sobre seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviços públicos, antes de determinar a citação por edital. No entanto, a requisição de informações às concessionárias de serviços públicos consiste em uma alternativa dada ao Juízo, e não uma imposição legal, não se podendo olvidar que a análise, para verificar se houve ou não o esgotamento de todas as possibilidades de localização do réu, a fim de viabilizar a citação por edital, deve ser casuística, observando-se as particularidades do caso concreto" (REsp n. 1.971.968/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/6/2023, DJe de 26/6/2023).
+No caso dos autos, o Tribunal de origem expressamente consignou que a citação por edital foi deferida após a realização de diligências para esgotamento dos meios de localização dos reus. É o que se extrai do seguinte trecho (fls. 432-434):
+Alega o apelante que a citação editalícia realizada nos autos operou-se de forma indevida, pois inobservados os requisitos do art.256 do CPC no tocante à comprovação da residência da parte ré ser em lugar incerto e não sabido.
+ ..
+Do exame dos autos, verifica-se que houve nos autos da execução diversas tentativas de localização dos réus em endereços diversos, sem sucesso.
+Para evitar possível questionamento acerca da validade da citação editalícia, o Juízo realizou pesquisa de endereços via sistemas conveniados (BACENJUD, RENAJUD e INFOSEG -doc. 6), certificando o escrivão da vara de origem que as tentativas de localização nos endereços encontrados já estavam sendo realizadas nos autos da execução.
+Somente depois deinúmeras tentativas é que foi realizada a citação por edital; assim, a meu ver, considerando as diligências comandadas no feito, entendo que a parte autora empenhou suficientes esforços para localização dos réus, esgotando as tentativas de localização dosmesmos, mostrando-se válida, por consequência, a citação por edital.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, o que é vedado a esta Corte, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REJEIÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CITAÇÃO POR EDITAL. ESGOTAMENTO DE TODAS AS TENTATIVAS DE LOCALIZAÇÃO DO ENDEREÇO DO DEVEDOR. SÚMULA 7 DO STJ. ART. 257, II, DO CPC. PUBLICAÇÃO EM JORNAL DE GRANDE CIRCULAÇÃO. NÃO OBRIGATÓRIA. CITAÇÃO PESSOAL DA CURADORIA ESPECIAL. NÃO OBRIGATORIEDADE PARA TODOS OS ATOS SEGUINTES. ART. 72, II, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. A citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça.
+2. Hipótese em que o conhecimento do Recurso encontra óbice na Súmula n. 7 do STJ, pois Tribunal local, atento ao conjunto fático-probatório, decidiu que é válida a citação por edital no presente cumprimento de sentença, uma vez que houve exaurimento dos meios tendentes à localização do endereço da parte executada.
+3. Consoante o art. 257, II, do Código de Processo Civil, é requisito da citação por edital a publicação na rede de computadores, no sítio do respectivo tribunal e na plataforma de editais do Conselho Nacional de Justiça. Segundo o parágrafo único do mesmo dispositivo, a publicação em jornal de ampla circulação ou por outros meios não é obrigatória.
+4. Por fim, modificar a conclusão do acórdão recorrido no sentido de que haveria nulidade do processo citatório, sendo que o próprio Tribunal admitiu terem sido feitas todas as diligências e cumprimento dos requisitos formais, ensejaria necessário reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7, do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.181.353/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO, NEGAR LHE PROVIMENTO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Derruir a conclusão do acórdão recorrido, quanto à ausência de comprovação do fato constitutivo do direito da parte, na forma como posta nas razões recursais, demandaria o reexame das provas dos autos, providência vedada em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+2. "A citação por edital somente tem lugar quando exauridas as tentativas de citação pessoal da parte demandada. Faz-se necessário, portanto, o esgotamento dos meios de localização do réu, sobretudo mediante pesquisas de endereços nos cadastros de órgãos públicos e de concessionárias de serviço público" (REsp n. 2.026.482/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/3/2023, DJe de 10/3/2023.).
+2.1. A alegação acerca do cumprimento de todos os requisitos necessários para a citação editalícia demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+3. A propositura da ação não tem o condão de interromper a prescrição que somente ocorre com a citação válida. Precedentes.
+3.1. O "comparecimento espontâneo do executado aos autos supre a nulidade da citação, promovendo a interrupção da prescrição com efeitos retroativos à data da propositura da demanda, na forma do art. 219, § 1º, do CPC/73 (art. 240, § 1º, do CPC/2015)" (AgInt no AREsp n. 2.092.513/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022.).
+3.2. No caso, a propositura da ação não teve condão de interromper a prescrição, que somente se opera com a citação válida, não verificada no caso em análise; ademais, o comparecimento espontâneo, a ensejar a interrupção da prescrição com efeitos retroativos à data da propositura da ação, teria se dado quando já transcorrido o prazo prescricional.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.279.473/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15%, sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CITAÇÃO POR EDITAL. ESGOTAMENTO DE TODAS AS TENTATIVAS DE LOCALIZAÇÃO DO ENDEREÇO DOS DEVEDORES. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
