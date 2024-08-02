@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ROMÁRIO PEREIRA BORGES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Na hipótese, depreende-se dos autos que no dia 01 de agosto de 2023, o recorrente foi submetido à audiência de custódia, momento em que foi homologado o Auto de prisão em Flagrante, e convertida a prisão em flagrante em prisão preventiva, em tese, como incurso nas sanções do art. 304, caput c/c 297, ambos do Código Penal, pelo uso de documento público falsificado
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado: (fl. 68)
+"HABEAS CORPUS. CRIMES DE USO DE DOCUMENTO FALSO E FALSIFICAÇÃO DEDOCUMENTO PÚBLICO (ART. 304, CAPUT, C/C ART. 297 AMBOS DO CÓDIGO PENAL). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. INSURGÊNCIA DEFENSIVA. DISCUSSÃO ACERCA DO MÉRITO. PROGNOSE DA PENA. PROJEÇÃO DE REGIME DIVERSODO FECHADO. MATÉRIA QUE DEMANDA DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIAELEITA. NÃO CONHECIMENTO. DECRETO CAUTELAR COM FUNDAMENTO NA GARANTIA DA ORDEM PÚBLICA PARA EVITARO RISCO DE REITERAÇÃO DELITIVA E APLICAÇÃO DA LEI PENAL. REQUISITOS DOS ARTS.312 E 313 DO CÓDIGO DE PROCESSO PENAL DEVIDAMENTE OBSERVADOS. PACIENTE FORAGIDO DO ESTADO DE GOIÁS. MANDADO DE PRISÃO EM ABERTO. USO DE DOCUMENTO FALSO PARA TENTAR SE ESQUIVAR DA RESPONSABILIDADE CRIMINAL. NECESSIDADE DA CUSTÓDIA CAUTELAR EVIDENCIADA. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. IMPOSSIBILIDADEDE APLICAÇÃO DAS MEDIDAS ALTERNATIVAS À PRISÃO, AO MENOS POR ORA. EVENTUAISPREDICADOS FAVORÁVEIS QUE NÃO OBSTAM, POR SI SÓ, O CÁRCERE CAUTELAR. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM PARCIALMENTE CONHECIDA E, NESSAEXTENSÃO, DENEGADA."
+Neste writ, postula a Defesa, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do Recorrente, em razão de ausência de requisitos necessários para a segregação cautelar; alegando que: (fl. 81)
+"Logo, como não restou evidenciada a presença de alguma das hipóteses exigidos para a segregação preventiva, constantes no artigo 312 e 315, do Código de Processo Penal, limitando-se a decisão que decretou a prisão preventiva e o acórdão que a manteve em afirmar a necessidade da segregação cautelar do paciente a fim de resguardar a ordem pública, a conveniência da instrução criminal e a futura aplicação da lei penal em razão da gravidade do crime imputado, sem demonstração do perigo da soltura para a coletividade."
+Requer, que seja a prisão preventiva substituída por medidas cautelares diversas da prisão.
+O Ministério Público Federal, às fls. 100-104, em parecer, manifestou-se pelo não provimento do recurso, assim ementado:
+"Recurso ordinário em habeas corpus. Falsificação de documento e uso de documento falso (artigos 304 e297 do Código Penal).
+I - Prisão preventiva assente na gravidade concretada conduta, no risco de reiteração delitiva e na periculosidade do agente. Ausência de constrangimento ilegal.
+II - Desproporcionalidade da medida não observada.
+- Promoção pelo não provimento do recurso."
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SC-, na data de hoje, foi proferida sentença condenatória, em 13/12/2023, com a substituição da pena privativa de liberdade por restritivas de direito :
+"Ante o exposto, JULGO PROCEDENTES os pedidos constantes na denúncia e, em consequência, condeno Romario Pereira Borges, qualificado nos autos, ao cumprimento de 2 (dois) anos de reclusão, em regime aberto, e ao pagamento de 10 (dez) dias-multa, no valor unitário de 1/30 do salário mínimo ao tempo dos fatos, por infração ao art. 304, c/c art. 297, caput, ambos do Código Penal.
+Preenchidos os requisitos previstos pelo art. 44 do Código Penal, substituo a pena privativa de liberdade por duas restritivas de direitos consistentes em: 1) prestação pecuniária, à razão de 01 (um) salário-mínimo, valor que deverá ser destinado ao Fundo de Transação Penal da comarca de Balneário Piçarras e; 2) prestação de serviços à comunidade, à razão de 1h por dia de condenação, em observância ao disposto contido no art. 46, §3º, do Código Penal.
+Revogo a prisão preventiva, pois não mais presentes os motivos autorizadores da custódia cautelar (CPP, art. 312), sem olvidar o tempo de prisão já decorrido."
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, julgo o presente recurso ordinário em habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
