@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA JOSÉ COSTA BEHRNDT, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação ordinária. Plano de saúde. Preliminar de ilegitimidade passiva da Ré afastada. Incidência da Súmula 101 deste TJSP. Pretendida manutenção da Autora como beneficiária do plano de saúde nas mesmas condições de quando integrava o quadro dos funcionários do ex-empregador. O artigo 31 da Lei 9.656/98 concede o direito ao beneficiário em permanecer em plano de saúde com condições assistenciais semelhantes àquelas oferecidas durante a vigência do contrato de trabalho, por força do contrato originário. Contudo, inexiste direito adquirido do beneficiário a modelo de custeio e/ou valor de mensalidade. Novo modelo de custeio por faixa etária. Legalidade, por aplicado a ativos e inativos (Tema 1034 do STJ). Sentença reformada. Sucumbência prevalente da Autora. Preliminar rejeitada, recurso da Ré parcialmente provido e não provido o da Autora" (e-STJ fl. 355).
+Os embargos de declaração opostos foram parcialmente acolhidos para desconsiderar anterior julgamento dos declaratórios e, em novo exame, manter o entendimento firmado no acórdão recorrido (e-STJ fls. 379/385).
+Em suas razões (e-STJ fls. 387/408), a recorrente alega, além de divergência jurisprudencial, violação dos artigos 1.022 do Código de Processo Civil; 6º, VIII, do Código de Defesa do Consumidor e 31 da Lei nº 9.656/1998.
+Sustenta, em síntese, a ocorrência de negativa de prestação jurisdicional, uma vez que o acórdão recorrido desconsiderou que não se voltou contra a forma de custeio ou contra a utilização do critério de faixa etária para o cálculo da contribuição, mas, sim, porque não houve manifestação quanto à existência de contribuições distintas para os empregados ativos e os inativos, isto é, na "(..) DIFERENCIAÇÃO que a Recorrida faz na cobrança de mensalidades entre os funcionários ativos e os funcionários inativos" (e-STJ fl. 393).
+Afirma ter sido desconsiderada a alegação de que a recorrida apenas alega, mas não comprova, que utiliza o mesmo critério de cálculo da contribuição, não sendo, portanto, enfrentada a questão referente à inversão do ônus da prova.
+Sustenta que o aresto recorrido também deixou de enfrentar a existência de inversão do ônus da prova deferida pelo magistrado singular ao dar provimento ao apelo da recorrida, passando a presumir que a composição da mensalidade do plano não seria abusiva.
+Assegura que a recorrida não possui um plano único de saúde para todos os funcionários, sendo certo que o conferido aos inativos é mais caro porque suas condições são diferenciadas.
+Menciona que a recorrida deixou de cumprir com seu ônus probatório ao não apresentar os extratos de contribuição dos empregados ativos ou qualquer documento que justificasse a majoração excessiva do valor da mensalidade dos inativos.
+Defende que, de acordo com o entendimento firmado no Tema nº 1.034/STJ, não pode haver contribuições distintas para os empregados ativos e inativos, devendo haver um plano único.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 635/644), o recurso foi admitido na origem.
+DECIDO.
+A pretensão merece acolhimento no tocante à alegada negativa de prestação jurisdicional.
+Busca a recorrente com a presente demanda o reconhecimento de que o ex-empregado deve ser mantido no plano de saúde nas mesmas condições de quando da vigência do contrato de trabalho, devendo arcar com a contraprestação patronal.
+O magistrado de primeiro grau de jurisdição julgou o pedido procedente devido à inexistência de documentos apresentados pela requerida capazes de demonstrar que a majoração do valor da mensalidade da autora corresponderia aos valores pagos pelo empregador durante o contrato de trabalho.
+O Tribunal local, por sua vez, deu provimento ao apelo da operadora do plano por entender pela ausência de abusividade na forma de cobrança, porquanto não há direito à manutenção da forma de custeio, devendo o inativo arcar com a integralidade do valor da mensalidade do plano.
+Do exame dos autos, verifica-se que, não obstante a oposição de embargos declaratórios requerendo expressamente manifestação a respeito de que a discussão não envolve a forma de custeio, mas, sim, a existência de contribuições (valores) distinta s para os empregados ativos e inativos, ônus sobre o qual a recorrida não se desincumbiu, o Tribunal quedou-se inerte.
+Trata-se de matéria relevante que demandava pronunciamento das instâncias ordinárias.
+O não enfrentamento pela Corte de origem de questões ventiladas nos embargos de declaração e imprescindíveis à solução do litígio implica violação ao artigo 1.022 do Código de Processo Civil.
+Tanto é assim que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de aclaratórios, trate de tema não analisado pela instância de origem, porquanto ausente o requisito do prequestionamento.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. JULGAMENTO POR DECISÃO MONOCRÁTICA. SÚMULA N. 568/STJ. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Súmula n. 568 do STJ).
+2. Deixando a Corte local de se manifestar sobre questões relevantes apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022, II, do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.679.541/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/8/2019, DJe 30/8/2019)
+Ante o exposto, conheço parcialmente e, nessa extensão, dou provimento ao recurso especial para determinar a devolução dos autos ao Tribunal de origem a fim de que realize novo julgamento dos embargos de declaração de e-STJ fls. 363/368, ficando prejudicadas as demais questões articuladas nas razões do apelo extremo.
+Publique-se.
+Intimem-se.
+EMENTA
