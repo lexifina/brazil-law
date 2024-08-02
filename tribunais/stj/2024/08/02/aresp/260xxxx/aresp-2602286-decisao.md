@@ -1,0 +1,7 @@
+DECISÃO
+Agrava-se da decisão que não admitiu o recurso especial interposto por IRACEMA PRADELLA TITTON, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurgira contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4 ª REGIÃO.
+A questão debatida nos autos, qual seja, "definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.178/STJ), dos REsps 1.988.687/RJ, 1.988.697/RJ e 1.988.686/RJ, da relatoria do Ministro OG FERNANDES.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos citados recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
