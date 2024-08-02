@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDIO DOS SANTOS MARTINS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 624):
+EMENTA - APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - PROFESSOR DE MATEMÁTICA - CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS - EXPECTATIVA DE DIREITO - PRETERIÇÃO NÃO COMPROVADA - RECURSO CONHECIDO E NÃO PROVIDO, COM PARECER. .
+A pretensão recursal do Requerente está pautada na alegação de que,durante o prazo de validade do concurso, houve a contratação de professores temporários para ocupar vagas puras, de modo que teria surgido para aquela o direito subjetivo à nomeação, haja vista a preterição na convocação dos aprovados no certame.
+Destaca-se, contudo, que o Requerente foi aprovado fora do número de vagas, porquanto ocupou a posição 214 no Concurso Público de Provas e Títulos - SEMED/2016, enquanto que o certame, para o cargo de professor de matemática, previu um total de 50 vagas.
+Ademais, não demonstrou que, durante o prazo de validade do concurso, além das nomeações dos primeiros colocados no concurso, a Administração Estadual tenha feito a contratação precária de professores temporários em número suficiente para atingir sua posição na ordem de classificação do certame.
+Como o Requerente foi aprovado fora do número de vagas prevista se não comprovou a preterição na convocação, há mera expectativa de direito que não se convola em direito subjetivo à nomeação.
+Recurso conhecido e desprovido, com o parecer.
+Embargos de declaração rejeitados (e-STJ fls. 651/655).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 371 e 489, §1º, VI, do CPC/2015, sustentando que decorre da interpretação da própria motivação do ato administrativo noticiado pela administração pública que "existem vagas puras pendente de ocupação por servidores devidamente aprovados em concurso público" (e-STJ fl. 680) e que há "entendimento firmado no sentido de que quando restar comprovada a existência de professores convocados para suprir VAGAS PURAS na vigência de certame a mera expectativa do candidato aprovado fora do número de vagas disponíveis se convola em direito subjetivo à nomeação, desde que o quantitativo de horas em vagas puras preenchidas irregularmente alcancem a colocação do candidato, para preservar direito de terceiros" (e-STJ fl. 689).
+Sem contrarrazões (e-STJ fl. 1.035).
+Em juízo de admissibilidade, a Corte estadual negou seguimento ao recurso no que tange à matéria relacionada ao Tema 784 do STF e, quanto às demais questões, inadmitiu o recurso (e-STJ fls. 1.050/1.057), tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame (e-STJ fls. 1.063/1.088).
+Passo a decidir.
+Inicialmente, registre-se que somente o tema relativo à suposta negativa de prestação jurisdicional (alegação de violação ao art. 489, § 1º, VI, do CPC/2015) foi devolvido à apreciação deste STJ, tendo em vista a negativa de seguimento do especial em relação ao próprio mérito da lide.
+Segundo o ora recorrente, o Tribunal de origem teria se negado a promover a distinção ou superação de entendimento do mesmo órgão jurisdicional, que teria decidido a questão em sentido contrário. Com isso, teria descumprido o art. 489, § 1º, VI, do Código vigente.
+O argumento, porém, não merece acolhimento.
+A supracitada norma determina que há negativa de prestação jurisdicional quando o órgão julgador "deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento" (art. 489, § 1º, VI, do CPC).
+Extrai-se do acórdão integrativo os seguintes fundamentos (e-STJ fls. 653/654):
+Na espécie, em leitura aos argumentos expostos pela Embargante, verifica-se que não existe nenhuma omissão, obscuridade ou contradição passíveis de correção pela via recursal eleita.
+Em primeiro lugar, deve-se destacar que os fundamentos que levaram à manutenção da sentença que denegou a segurança estão claras no Acórdão, na medida em que o Apelante/Embargante não demonstrou, em primeiro lugar, que houve convocação em vagas puras em número suficiente para atingir sua posição na classificação final do concurso.
+ ..
+Vale salientar que competia ao Apelante/Embargante demonstrar a preterição, bem assim o surgimento de cargos vagos de modo atingir sua classificação no certame, o que não se extrai apenas pela juntada dos atos convocatórios, sem a necessária concatenação com o número de vagas, na forma mencionada.
+Ademais, cabe mencionar que os enunciados de observância obrigatória são aqueles de natureza vinculantes e não persuasivos, como os invocados pelo Apelante/Embargante.
+Destarte, não haveria se falar em aplicação obrigatória ou mesmo necessidade de distinção, se dizem respeito a outras partes, sem força jurídica para reger julgamentos futuros, ainda que correspondam ao mesmo concurso.
+Com efeito, não se pode considerar que a expressão "precedente" abrange o julgamento de qualquer acórdão. Isso porque a interpretação sistemática do Código de Processo Civil, notadamente a leitura do art. 927, que dialoga diretamente com o 489, evidencia que "precedente" abarca somente os casos julgados na forma qualificada pelo primeiro comando normativo citado, não tendo o termo abarcado de maneira generalizada qualquer decisão judicial.
+Não só por isso seria incabível o acolhimento da tese de negativa de prestação jurisdicional. É que o Tribunal de origem expressamente registrou na decisão que não ficou demonstrada a preterição do impetrante, tampouco o surgimento de cargos vagos de modo a atingir sua classificação no certame, fato que por si só já seria distinção suficiente dos julgados mencionados pelo ora recorrente.
+Portanto, inexistente a alegada violação do art. 489 do CPC.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+ EMENTA
