@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 371):
+AGRAVO DE INSTRUMENTO. Impugnação ao cumprimento de sentença. Acolhimento parcial. Insurgência da impugnante. Não acolhimento. Inexistência de cobrança de honorários sucumbenciais em duplicidade entre o cumprimento de sentença e o incidente nº. 0001045-80.2021.8.26.0300. Sentença exequenda que foi clara ao condenar a parte agravante em honorários, estes cobrados no cumprimento de sentença de origem, e os demais embargantes em outra verba honorária, executada no incidente mencionado. Decisão recorrida, ainda, que condenou a parte agravada em honorários de 10% sobre eventual excesso a ser apurado com novos cálculos. Excesso que importará em baixa base de cálculo. Honorários fixados por equidade em R$ 800,00. Inteligência do artigo 85, §8º, do Código de Processo Civil. Decisão reformada em parte. Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts, 85, §2º e 6º, 87, §§ 1º e 2º, do Código de Processo Civil, bem como ao entendimento empossado pelo Resp 1.679.007/SP, sustentando que ambas as instâncias do TJSP infringiram a determinação do STJ de que os honorários devem ser aplicados com base no valor da causa e não no valor da execução, que pode ser erroneamente interpretado como sendo o valor atualizado da dívida, como está ocorrendo no caso dos autos.
+Assevera que houve nítida infringência ao §6º do artigo 85 e ao artigo 87, §§ 1º e 2º, do CPC, na medida em que a decisão impugnada deixou de aplicar o §2º do artigo 85 e não aplicou o artigo 87, §§ 1º e 2º, sem observância da decisão que determinou que o pagamento dos honorários deveria ser distribuído entre os litisconsortes.
+Contrarrazões apresentadas às fls. 336 - 349.
+Assim delimitada a controvérsia, passo a decidir.
+O TJSP, ao apreciar a tese da parte recorrente, entendeu à fl. 376 - grifei:
+Ocorre, entretanto, que a decisão justamente fixou equitativamente a verba honorária, sob o fundamento de que "é possível que inexista excesso a ser apurado, o que somente se verificará após a elaboração de novos cálculos segundo os parâmetros indicados. Isso não autoriza, contudo, a fixação de honorários aviltados ao patrono da agravante, o que certamente ocorrerá, dado que eventual diferença configurará base de cálculo ínfima para a incidência da verba" (fl. 255).
+O artigo 85, § 8º do Código de Processo Civil determina que "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+No caso, como o proveito econômico é o excesso reconhecido, e que este, que deveria servir de base para o arbitramento dos honorários, é irrisório, a verba foi fixada equitativamente.
+Assim, respeitado o entendimento em sentido contrário, a decisão recorrida está em conformidade com a legislação vigente e com os precedentes invocados.
+Da leitura do acima exposto, nota-se que o Tribunal de origem, ao analisar a controvérsia, concluiu que, no caso dos autos, como o proveito econômico é o excesso reconhecido, e que este, que deveria servir de base para o arbitramento dos honorários, é irrisório, a verba foi fixada equitativamente.
+A alteração das premissas firmadas pelo TJSP exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
