@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+CÉDULA DE CRÉDITO BANCÁRIO. INADIMPLEMENTO. BUSCA E APREENSÃO. SENTENÇA QUE JULGOU PROCEDENTE A INICIAL E PARCIALMENTE PROCEDENTE OS PEDIDOS REVISIONAIS. APELO DE AMBAS AS PARTES. APELO DO DEVEDOR. JUROS REMUNERATÓRIOS. VERIFICAÇÃO DA ABUSIVIDADE QUE SE PAUTA NA TAXA MÉDIA DE MERCADO, ADMITIDA CERTA VARIAÇÃO. ORIENTAÇÃO DO STJ. PRECEDENTES DESTA CÂMARA.
+Na esteira do entendimento delineado pelo STJ - que admite a revisão do percentual dos juros remuneratórios quando aplicável o CDC ao caso e quando exista abusividade no pacto -, esta Câmara julgadora tem admitido como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central.
+Acerca da temática concernente à fixação de juros remuneratórios em contratos bancários, tal como a hipótese dos autos, a Súmula n. 382 do Superior Tribunal de Justiça assentou entendimento de que "a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade".
+CARACTERIZAÇÃO DA MORA. ORIENTAÇÃO CONSOLIDADA PELO STJ NO RESP. N.1.061.530/RS.
+O AFASTAMENTO DA MORA DO CONSUMIDOR DEPENDE DA CONSTATAÇÃO DE ENCARGOS ABUSIVOS NO PERÍODO DE NORMALIDADE (JUROS REMUNERATÓRIOS ABUSIVOS E CAPITALIZAÇÃO DE JUROS ILEGAL).
+APELO DO CREDOR. REPETIÇÃO DE INDÉBITO. PRESCINDIBILIDADE DE PROVA DO ERRO. DEVOLUÇÃO SIMPLES. É PACÍFICO O ENTENDIMENTO DE QUE A REPETIÇÃO DO INDÉBITO INDEPENDE DE PROVA DO ERRO, CONFORME SE EXTRAI DO TEOR DA SÚMULA N. 322, EDITADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA: "PARA REPETIÇÃO DE INDÉBITO, NOS CONTRATOS DE ABERTURA DE CRÉDITO EM CONTA CORRENTE, NÃO SE EXIGE A PROVA DO ERRO". Outrossim, é devida a devolução dos valores referentes à cobrança abusiva dos encargos por parte do banco, não só para restringir o ilícito detectado, como também para prostrar o enriquecimento sem causa, tal qual previsto no art. 884 do Código Civil: "aquele que, sem justa causa, se enriquecer à custa de outrem, será obrigado a restituir o indevidamente aferido, feita a atualização dos valores monetários". Em atenção ao entendimento exarado pelo Superior Tribunal de Justiça, a restituição dos valores deve se dar de forma simples. SUCUMBÊNCIA E HONORÁRIOS PELO CREDOR. PRINCÍPIO DA CAUSALIDADE. FIXAÇÃO DEVIDA.
+Em decorrência do princípio da causalidade, os ônus sucumbenciais recaem sobre a parte que deu causa à instauração da demanda.
+APELO DO CREDOR NÃO PROVIDO. APELO DA DEVEDORA PROVIDA. BUSCA E APREENSÃO QUE SE JULGA EXTINTA.
+Alega-se violação dos artigos 1º e 4º, IX, da Lei 4.595/64, associada a dissídio jurisprudencial, sob o argumento de que foi indevida a incursão no contrato pelo Poder Judiciário para alterar a taxa de juros contratada.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local reformou a sentença para reconhecer a abusividade dos juros contratados, limitando-se à média de mercado e afastando a mora do recorrido.
+Para tanto, registrou que:
+"(..) a taxa de juros remuneratórios prevista no contrato firmado entre as partes foi de 25,68% ao ano, ao passo que a média de mercado divulgada pelo Bacen para o período (março de 2021) de contratação era de 20,64% ao ano. Como se vê, os percentuais pactuados excedem em 10% aqueles divulgados pelo BACEN, e, diante disso, verifica-se abusividade no contrato, os juros remuneratórios devem ser fixados conforme o estipulado pelo Bacen à época da contratação" (e-STJ, fl. 259).
+Esta Corte tem entendimento de que a simples divergência entre a taxa contrata e a média de mercado não é causa, por si só, para a incursão do Poder Judiciário na autonomia privada.
+Não houve, ademais, indicação das causa em concreto que levariam à cabal demonstração de abusividade, de modo que indevida a modificação da cláusula de juros e suas consequências.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL DEMONSTRADA. RECONSIDERAÇÃO. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO REVISIONAL. CONTRATO DE MÚTUO. JUROS REMUNERATÓRIOS. MERA COMPARAÇÃO COM A TAXA DO BACEN. IMPOSSIBILIDADE. CARÁTER ABUSIVO DA TAXA CONTRATADA. NECESSIDADE DE DEMONSTRAÇÃO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO.
+1. As alegações do recorrente afiguram-se relevantes, estando devidamente comprovado, nos autos, o dissídio pretoriano. Decisão da em. Presidência desta Corte Superior reconsiderada.
+2. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando caracterizada a relação de consumo e a índole abusiva ficar devidamente demonstrada, diante das peculiaridades do caso concreto.
+3. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura o respectivo caráter abusivo, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e a eventual desvantagem exagerada do consumidor.
+4. É inviável a limitação da taxa de juros remuneratórios, pactuada no instrumento contratual, na hipótese em que a Corte de origem não considera demonstrada a natureza abusiva dos juros remuneratórios.
+5. Agravo interno provido para, em nova análise, conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.300.183/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Em face do exposto, conheço do recurso especial e a ele dou provimento para restabelecer a sentença, inclusive quanto à sucumbência.
+Intimem-se.
+EMENTA
