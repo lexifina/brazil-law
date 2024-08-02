@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por PAULO ROBERTO MONTAGNA contra acórdão do Tribunal de Justiça de Santa Catarina, assim ementado:
+HABEAS CORPUS. CRIMES PREVISTOS NOS ARTS. 288, 171, § 2º, INCISO I E 299, CAPUT, TODOS DO CÓDIGO PENAL. PEDIDO PARA TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. ELEMENTOS SUFICIENTES PARA A DEFLAGRAÇÃO E PROCESSAMENTO DA AÇÃO PENAL. PRESENÇA DE JUSTA CAUSA. ALEGAÇÃO DE INÉPCIAAFASTADA. TESES QUE SE CONFUNDEM COM O MÉRITO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA. (e-STJ, fl. 31)
+Consta dos autos que o paciente foi denunciado pela prática dos delitos de associação criminosa, estelionato e falsificação de documento particular.
+Nesta instância, a defesa sustenta a ausência de justa causa para a instauração do feito diante da insuficiência de elementos mínimos colhidos no inquérito policial, bem como a inépcia da denúncia em razão de o Ministério Público imputar genericamente ao acusado os referidos crimes sem cuidar de detalhar o nexo causal entre a conduta do agente e o resultado danoso.
+Requer, inclusive liminarmente, o provimento do recurso para determinar o trancamento da ação penal. Subsidiariamente, pretende que seja antecipada a data da realização da audiência de instrução e julgamento, designada para o ano de 2026.
+O Ministério Público Federal ofertou parecer pelo não conhecimento do recurso e, caso conhecido, pelo desprovimento.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, T erceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observo que o processo não está instruído com cópia de peça essencial ao exame dos pedidos defensivos (ausência de justa causa e inépcia), qual seja, a denúncia oferecida pelo Ministério Público, circunstância que impede o julgamento das matérias. Nesse sentido: AgRg no HC n. 726.822/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022.
+Ainda, inviável o acolhimento da tese de flagrante ilegalidade unicamente em decorrência da designação da audiência de instrução e julgamento para 20/7/2026, sobretudo quando não se informa a existência de medidas cautelares impostas em desfavor do acusado ou a existência de ato de preterição por parte do Juízo condutor do processo, presumindo-se, assim, que a designação para data tardia é fruto apenas do excesso de demanda. Não obstante, consoante salientado pelo Tribunal de Justiça, nada impede que a solenidade seja antecipada de acordo com o andamento dos trabalhos na Vara Criminal de Navegantes - SC.
+Dessa forma, não vislumbro flagrante ilegalidade capaz de permitir a concessão da ordem nessa instância.
+Ante o exposto, conheço em parte e, nesta extensão, nego provimento ao recurso em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
