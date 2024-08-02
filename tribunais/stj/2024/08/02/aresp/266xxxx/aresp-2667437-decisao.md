@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 83 do STJ (fls. 865-866).
+Consta dos autos que o agravante foi condenado como incurso no art. 121, § 2º, III, do Código Penal à pena de 12 anos de reclusão.
+Inconformado, foi interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, o qual não foi admitido na origem.
+Nas razões do especial, aponta a defesa violação dos arts. 59, 65, III, d e 68 do CP, sustentando que a pena deve ser reduzida, na segunda fase de dosimetria, aquém do mínimo legal, sobretudo porque "este colendo Superior Tribunal de Justiça indicou a necessidade de revisão da matéria para eventual superação do entendimento sumular" (Súmula 231/STJ).
+Requer o provimento do agravo para que seja admitido o recurso especial para, ao final, ser reduzida a pena.
+Apresentada a contraminuta (fls. 881-882), foram os autos remetidos a essa Corte, manifestando-se o Ministério Público Federal pelo conhecimento do agravo em recurso especial e não admissão do recurso especial.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passo, portanto, à análise do mérito.
+Ao julgar a apelação, o Tribunal de origem assim se manifestou (fl. 829):
+Na segunda fase do processo dosimétrico, a magistrada sentenciante reconheceu a circunstância atenuante da confissão espontânea, reduzindo a pena em 1/6 (um sexto), passando-a para o patamar intermediário de 12 (doze) anos de reclusão, respeitando o disposto na Súmula 231, do STJ.
+Aqui tenho o posicionamento de que a insurgência do apelante para redução da pena na segunda fase do cálculo dosimétrico não merece prosperar porque a confissão espontânea, mesmo reconhecida na sentença ou neste momento recursal, não poderia reduzir a pena para quantum abaixo do mínimo legal, segundo entendimento firmado na Súmula 231 do Superior Tribunal de Justiça, que prevê que veda a redução da pena aquém da pena mínima abstratamente cominada ao tipo penal.
+Nesse sentido, trago à colação o seguinte julgado do Superior Tribunal de Justiça:
+ ..
+Quanto à pretensão de reduzir a pena aquém do mínimo legal na segunda fase de dosimetria, o entendimento adotado no aresto recorrido alinha-se à orientação jurisprudencial atual desta Corte Superior, consolidada na Súmula 231 do STJ, segundo a qual a incidência de circunstância atenuante não pode implicar a redução da pena abaixo do mínimo legal. A respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. DESCABIMENTO. SÚMULA N. 231 DO STJ. TESE DE OVERRULING. DESCABIMENTO. ARGUMENTAÇÃO DESCONEXA E SEM RAZOABILIDADE. REGIMENTAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. PLEITO DE SOBRESTAMENTO DO JULGAMENTO DO FEITO EM RAZÃO DA REALIZAÇÃO DE AUDIÊNCIA PÚBLICA ACERCA DO TEMA TRATADO NOS AUTOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling).
+2. No regimental, não houve impugnação aos fundamentos da decisão agravada, incidindo, assim, a Súmula n. 182/STJ.
+3. Agravo regimental não conhecido. Indeferido o pleito de sobrestamento do julgamento deste feito em razão da ausência de previsão legal para tanto. (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+" A demais, embora a Defesa sustente o overruling da Súmula n. 231 desta Corte e o julgamento da questão tenha sido afetado à Terceira Seção, fato é que, atualmente, o referido enunciado sumular continua sendo plenamente aplicado por este Sodalício (AgRg no AREsp n. 2.226.158/SC, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgRg no AREsp n. 2.236.332/TO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023; AgRg no HC n. 806.302/RJ, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023 ; AgRg no HC n. 794.315/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023; AgRg no AREsp n. 2.243.342/PA, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023; AgRg nos EDcl no REsp n. 2.035.019/MG, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 25/4/2023, DJe de 5/5/2023; AgRg no AREsp n. 2.223.080/PA, Relator Ministro JESUÍNO RISSATO, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 25/4/2023, DJe de 2/5/2023, v.g.) (AgRg no HC n. 828.216/GO, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)" (AgRg no AREsp n. 2.621.752/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+Incide ao caso, pois, a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
