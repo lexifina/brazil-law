@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por WESLEY RODRIGUES FERREIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o ora recorrente foi preso em flagrante delito, no dia 17/6/2023, em razão da suposta prática dos crimes descritos no art. 14 da Lei n.º 10.826/03 e arts. 311, § 2º, inciso III, e 180, ambos do Código Penal. A custódia foi convertida em preventiva (fls. 37-38).
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, que manteve a prisão e denegou a ordem em acórdão de fls. 126-138.
+O recorrente aponta irregularidade na audiência de custódia, alegando que "a audiência de custódia foi realizada de forma virtual, sem motivos plausíveis, não foi assegurado ao Recorrente o direito de ser ouvido em juízo, para dizer se ocorreu alguma violação a sua integridade física durante a sua prisão" (fl. 150).
+Afirma que após a realização de procedimento cirúrgico, ainda debilitado, foi recolhido ao cárcere com alto risco de recuperação inadequada.
+Sustenta que a gravidade concreta do delito não se faz presente, pois não houve violência ou grave ameaça. Assinala que possui ocupação lícita, residência fixa e família constituída, não representando risco à garantia da ordem pública, econômica, da instrução criminal e, tampouco, para a aplicação da lei penal.
+Requer a revogação da prisão preventiva.
+Liminar indeferida às fls. 247-249.
+Informações às fls. 257-475 e 477-506.
+O Ministério Público Federal em parecer, às fls. 507-515, manifestou em parecer que restou assim ementado:
+"EMENTA: RECURSO ORDINÁRIO EM HABEASCORPUS. PORTE ILEGAL DE ARMA DE FOGO DEUSO PERMITIDO. ADULTERAÇÃO DE SINALIDENTIFICADOR DE VEÍCULO AUTOMOTOR.
+RECEPTAÇÃO. SUPOSTA IRREGULARIDADE NAREALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. TEMANÃO EXAMINADO EM SEGUNDO GRAU. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS DO ART.312 DO CPP. AGENTE REINCIDENTE. VASTA FICHA CRIMINAL. NECESSIDADE DA CUSTÓDIA ASSENTE NA GARANTIA DA ORDEM PÚBLICA E NA GRAVIDADE CONCRETA DOS CRIMES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL".
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao Recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da reincidência delitiva porquanto, consoante se depreende dos autos, a conduta, em tela, não é fato isolado na sua vida, restando consignado na decisão hostilizada que é reincidente e estava em cumprimento de pena quando voltou a delinquir - fl. 109.
+Tais circunstâncias indicam a periculosidade concreta do agente, além da probabilidade de repetição de condutas tidas por delituosas e revelam a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva .
+A propósito:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+No ponto, impende destacar que, conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+No tocante à alegação de irregularidade na audiência de custódia verifico que o Tribunal de origem não se manifestou sobre a questão, ficando esta Corte impedida de se manifestar sob pena de indevida supressão de instância.
+Diante de tais consi derações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
