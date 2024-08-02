@@ -1,0 +1,11 @@
+DECISÃO
+O presente agravo regimental (Petição n. 529.827/2024 - fls. 1.499/1.508), interposto por Antonio Albenilson Vital Martins contra a decisão de minha relatoria que negou seguimento ao recurso em habeas corpus em que se pretende a revogação da prisão sob a alegação de ausência de fundamentos e de excesso de prazo na formação da culpa, está prejudicado.
+Em consulta à página do Tribunal de Justiça cearense, na internet, observa-se que, em 4/7/2024, foi proferida sentença pelo Juízo da Vara de Delitos de Organizações Criminosas da comarca de Fortaleza/CE (Autos n. 0200085-65.2023.8.06.0062) condenando o agravante, oportunidade em que foi mantida a prisão cautelar.
+Assim, fica esvaziado o objeto do recurso quando ele se volta contra a segregação cautelar e, no decorrer do andamento do feito, há superveniência de sentença condenatória, trazendo ao cenário processual nova situação fático-jurídica.
+A propósito: AgRg no RHC n. 71.854/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/9/2016; AgRg no RHC n. 50.857/SP, de minha relatoria, Sexta Turma, DJe 29/3/2016; AgRg no HC n. 336.563/SC, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 19/5/2016; AgRg no RHC n. 62.474/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/2/2016; e AgRg no RHC n. 147.178/SP, de minha relatoria, Sexta Turma, DJe 13/8/2021.
+Ora, a superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/08/2019) - (AgRg no RHC n. 157.779/MA, de minha relatoria, Sexta Turma, DJe 21/2/2022).
+Ante o exposto, à vista da nova realidade fática, julgo prejudicado o agravo regimental.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM, PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO, ASSOCIAÇÃO CRIMINOSA E AMEAÇA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO E EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. NOVA FUNDAMENTAÇÃO. EFEITOS DA CONDENAÇÃO. PERDA DO OBJETO.
+Agravo regimental prejudicado.
