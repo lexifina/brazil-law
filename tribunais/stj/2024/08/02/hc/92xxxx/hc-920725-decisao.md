@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  em  favor  de  BRUNO  JULIO  ALEIXO,  impetrado  contra  o  acórdão  proferido  pelo  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  MINAS  GERAIS  no  Habeas  Corpus  Criminal  n.  1.0000.24.242878-7/000.
+A  impetrante  alega  que  o  paciente  sofre  constrangimento  ilegal  decorrente  de  decisão  proveniente  do  Juízo  de  Execução,  com  fundamentação  inidônea,  que  revogou  o  benefício  do  livramento  condicional,  determinou  a  unificação  das  penas,  bem  como  determinou  a  expedição  de  mandado  de  prisão  em  seu  desfavor,  em  virtude  de  superveniente  condenação  definitiva  em  novo  delito.
+Da  referida  decisão,  extraem-se  os  seguintes  pontos  (fl.  80):
+(..) Trata-se  da  execução  de  penas  impostas  ao  sentenciado  acima  nominado,  o  qual  vinha  cumprindo  pena  no  gozo  de  Livramento  Condicional.
+Ocorre  que  foi  novamente  condenado  à  uma  pena  privativa  de  liberdade,  Guia  de  Execução  ora  juntada  aos  autos,  processo  nº  0024138-  63.2014.8.13.0079.
+O  Ministério  Público  manifestou-se  pela  revogação  do  Livramento  Condicional,  bem  como  pela  unificação  das  penas  no  regime  semiaberto,  expedindo-se  mandado  de  prisão.
+A  Defesa,  a  seu  turno,  requer  a  manutenção  do  Livramento  Condicional.
+É  o  sucinto  relatório.  Decido.
+A  nova  condenação  definitiva  é  motivo  para  a  revogação  do  livramento  condicional,  segundo  se  depreende  do  artigo  86,  inciso  II  do  Código  Penal,  motivo  pelo  qual  revogo  o  livramento  condicional  anteriormente  concedido  ao  executado.
+Determino  que,  no  prontuário  do  mesmo,  seja  considerado  o  tempo  de  prova  com  pena  cumprida,  nos  termos  do  artigo  88  do  Código  Penal.
+Demais  disso,  necessário  que  se  declare  a  unificação  das  penas  para  fins  de  se  fixar  o  regime  de  cumprimento  do  saldo  a  cumprir,  nos  termos  do  parágrafo  único  do  artigo  111  da  Lei  de  Execução  Penal.
+Considerando  o  saldo  de  pena  a  cumprir,  bem  como  respeitando  o  regime  fixado  no  novo  decreto  condenatório,  nos  termos  dos  artigos  33,  §2º,  "b"  do  Código  Penal  c/c  artigos  66,  III,  "a"  e  118,  II  da  Lei  de  Execução  Penal  unifico  as  penas  do  condenado,  quanto  aos  processos  acima  indicados,  no  regime  semiaberto,  com  interrupção  do  prazo  para  aquisição  de  benefícios,  a  partir  da  última  prisão.
+Retifique-se  o  atestado  de  pena,  após  expeça-se  mandado  de  prisão  válido  até  09/05/2036.
+A  Defesa,  então,  impetrou  habeas  corpus  perante  o  Tribunal  a  quo  a  fim  de  reverter  a  decisão  de  primeiro  grau;.  A  ordem,  no  entanto,  não  foi  conhecida.
+Assim,  sustenta  que  o  constrangimento  ilegal  decorre  ,  especificamente  pela  falta  de  fundamentação  para  a  sua  prisão  e  a  ausência  de  subsídios  técnicos  para  sustentar  o  decreto  prisional  (fl.  6).
+Argumenta  que  a  data-base  para  o  livramento  condicional,  em  regra,  é  a  data  da  primeira  prisão  e  que,  no  caso,  a  data-base  seria  27  de  dezembro  de  2013,  quando  foi  preso  pela  primeira  vez,  devendo  este  ser  o  marco  a  ser  considerado  no  atestado  de  pena  para  a  obtenção  do  livramento  condicional.
+Sustenta  que
+a  unificação  das  penas  diz  respeito  exclusivamente  ao  tempo  restante  descumprimento  da  pena.  Serve  apenas  para  deixar  claro  que  todo  o  período  da  pena  já  cumprido  deve  ser  subtraído  do  total  e  que  a  quantidade  de  pena  restante  é  que  deve  ser  considerada  para  fins  de  cálculo  de  benefícios,  com  exceção  do  livramento  condicional  (fl.  8).
+Nesse  sentido,  requer,  liminarmente,  a  ordem  a  fim  de  que  seja  cassado  o  acórdão  guerreado,  para  conceder  o  salvo  conduto  ao  paciente,  para  que  as  questões  meritórias  acerca  da  execução  penal  sejam  dirimidas  pelo  Juízo  de  piso;  e,  no  mérito,  que  seja  confirmado  o  teor  do  provimento  liminar.
+Liminar indeferida e requisitadas informações (fls. 1.151/1.153).
+Informações prestadas (fls. 1.159/1.168 e 1.171/1.174).
+Manifestação Ministerial, pelo não conhecimento do writ (fls. 1.176/1.178).
+Vieram os autos conclusos (fl. 1.180).
+É  o  relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício,  nos  termos  dos  arts.  647-A  e  654,  §  2º,  do  Código  de  Processo  Penal.
+Do acórdão combatido, cumpre transcrever breve trecho, extraído do respectivo voto condutor (fls. 92/93):
+(..) Por conseguinte, o Habeas Corpus, em substituição do recurso próprio, só poderá ser analisado se constatada, de plano, manifesta ilegalidade que implique ofensa ao direito de liberdade do paciente, o que não se verifica no presente caso, uma vez que, além da matéria em discussão referir-se à execução penal, em exame aos autos, verifico que a defesa técnica já agravou a decisão combatida, conforme informações prestadas pela autoridade dita coatora (ordem nº 20).
+Desse modo, tendo em vista que os questionamentos esposados no writ estão na iminência de serem apreciados em tão breve recurso de Agravo em Execução, não podem eles serem concedidos pela via do habeas corpus, uma vez que a apreciação por este Tribunal de Justiça segue risco de incorrer em afronta o princípio da unirrecorribilidade. (..)
+Dessa maneira, verificada a ausência de violência ou coação injustificada à liberdade de locomoção do paciente e a possibilidade de violação ao princípio da unirrecorribilidade, o não conhecimento do presente Habeas Corpus é medida que se impõe.
+Com tais considerações, NÃO CONHEÇO DA ORDEM IMPETRADA.
+Ao atender à solicitação deste Relator, o Juízo de Execução trouxe aos autos as seguintes informações, datadas de 05/07/2024 (fl. 1.172, grifamos):
+Na presente data determinei cautelarmente o recolhimento do mandado de prisão e diligências, a fim de instruir o juízo de retratação em relação ao agravo interposto pela Defesa contra a decisão que revogou o livramento, conforme despacho anexo. Após a devida instrução com as contrarrazões do Ministério Público, será avaliada a possibilidade de retratação da decisão em relação à manutenção do livramento condicional com a soma das penas.
+De início, destaco que não há ilegalidade no acórdão que deixa de conhecer de habeas corpus simultâneo a agravo em execução, por veicular idêntica matéria deduzida no recurso pendente de julgamento pelo Tribunal de Justiça.
+Com efeito, viola o princípio da unirrecorribilidade a impetração de habeas corpus perante o Superior Tribunal de Justiça, contemporâneo à interposição de agravo em execução contra a mesma decisão que ensejou o acórdão denegatório na origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. NOVO CRIME DURANTE O REGIME ABERTO. IMPETRAÇÃO CONCOMITANTE A AGRAVO EM EXECUÇÃO. NÃO CONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não padece de ilegalidade o acórdão recorrido que deixa de conhecer de habeas corpus simultâneo a agravo em execução, por veicular idêntica matéria deduzida no recurso pendente de julgamento pelo Tribunal de Justiça.
+2. Ainda, na situação em exame, não se verifica intolerável ilegalidade que justifique a subversão das regras de competência. O apenado foi preso em flagrante por fato definido como crime durante o regime aberto e houve homologação da falta grave. Ainda que não sobrevenha condenação na ação penal ajuizada, "a independência mitigada das jurisdições permite o apenamento como infração disciplinar de fato objeto de absolvição penal, ressalvadas as hipóteses de negativa do fato ou da autoria" (AgRg no HC n. 851.880/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 26/9/2023).
+3. Agravo regimental não provido.
+(AgRg no HC 869141/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 20/03/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO MANEJADA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR.
+AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. AGRAVO EM EXECUÇÃO INTERPOSTO CONTRA O DECISUM DE PRIMEIRO GRAU. PRINCÍPIO DA UNIRRECORRIBILIDADE. QUESTÃO DE FUNDO NÃO APRECIADA PELO COLEGIADO DE SEGUNDO GRAU. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A CONTROVÉRSIA PER SALTUM. HABEAS CORPUS INDEFERIDO LIMINARMENTE.
+AGRAVO REGIMENTAL DESPROVIDO.
+1. A inicial deste feito foi impetrada contra decisão singular de Desembargador Relator do Tribunal de origem, a qual não foi impugnada por agravo interno/regimental. Assim, ausente o exaurimento da instância ordinária, impõe-se o não conhecimento da ação mandamental. De fato, o entendimento desta Corte Superior é firme no sentido de que " n ão se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus impetrado contra decisão singular de desembargador. Precedentes" (AgRg no HC 746.912/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/08/2022, DJe 08/08/2022).
+2. Ademais, ao interpor, contemporaneamente ao mandamus originário, agravo em execução na origem, a Defesa violou o princípio da unirrecorribilidade, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação.
+Lado outro, a Corte estadual não analisou o mérito da controvérsia principal, em razão da inadequação do habeas corpus para a discussão de matéria afeta à execução penal, o que impede o exame da aduzida inidoneidade da motivação lançada na decisão que indeferiu a prisão domiciliar ao Apenado, de forma originária, por este Sodalício, sob pena de indevida supressão de instância.
+3. Embora o art. 654, § 2.º, do Código de Processo Penal preveja a possibilidade de concessão de habeas corpus, de ofício, " t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/03/2022, DJe 22/03/2022).
+4. Agravo regimental desprovido.
+(AgRg no HC 884680/SP, Rel. Ministro TEODORO SILVA SANTOS, Sexta Turma, DJe 15/03/2024)
+Na hipótese, o Juízo de Execução comunicou o recolhimento cautelar do mandado de prisão, determinando diligências para instrução do juízo de retratação do agravo em execução interposto na origem; o qual será por ele avaliado; existindo, inclusive, a possibilidade de exaurimento de toda a controvérsia sem sequer a necessidade de recorrer-se ao Tribunal a quo.
+Por derradeiro, impende destacar que o Juízo de piso consignou, em sua decisão, que a data-base para a concessão de livramento condicional deve, mesmo, ser a data da primeira prisão, nos termos do argumento defensivo (fl. 1.171).
+Desse modo, não verifico ocorrência de coação ilegal à liberdade do paciente apta a justificar a atuação desta Instância Superior.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.  Intimem-se.
+
+EMENTA
