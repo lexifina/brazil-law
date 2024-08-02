@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WELINGTON DA SILVA DIAS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Extrai-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do crime capitulado no artigo 33, da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS-TRÁFICO DE DROGAS -NEGATIVA DE AUTORIA -IMPOSSIBILIDADE DE EXAME NA ESTREITA VIA DO WRIT-CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA -DECISÃO A QUOFUNDAMENTADA -PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR (ARTS. 312 E 313, I, DO CÓDIGO DE PROCESSO PENAL) -GARANTIA DA ORDEM PÚBLICA E DO REGULAR ANDAMENTO DO FEITO -RISCO DEMONSTRADO -PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS -PRIMARIEDADE -INSUFICIÊNCIA -APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA CUSTÓDIA -IMPOSSIBILIDADE. -Na estreita via do writ não é possível o exame valorativo do conjunto fático-probatório, afigurando-se inviável, nesta seara, a discussão acerca da negativa de autoria ou carência de provas a tal respeito. -Não há que se falar em constrangimento ilegal se a decisão que decretou a segregação preventiva do paciente encontra-se devidamente fundamentada. -Presentes os requisitos previstos no art. 312 do Código de Processo Penal, é possível a manutenção da custódia cautelar quando se tratar de crime doloso punido com pena privativa de liberdade máxima superior a quatro anos, conforme ocorre no caso em análise (art. 313, inciso I, do Código de Processo Penal). -As condições pessoais favoráveis, tais como a primariedade, não são suficientes a garantir a liberdade provisória, mormente quando presentes outras circunstâncias autorizadoras da cautela. -As medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, não se mostram suficientes e adequadas à prevenção e repressão do delito. v. v. -A prisão cautelar é medida excepcional, que somente deverá ocorrer se comprovada sua real necessidade, que, no caso em tela, não restou devidamente demonstrada.- Possível a aplicação de outras medidas cautelares, a prisão deve ser evitada. -Ordem concedida em parte. " (fl. 107)
+No presente recurso, alega a ausência dos pressupostos que autorizam a manutenção da prisão preventiva, elencados no art. 312 do CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Requer, liminarmente e no mérito, que seja concedida a ordem em habeas corpus.
+Liminar indeferida, às fls. 147-149.
+Informações prestadas às fls. 155-186 e 187-222.
+O Ministério Público Federal, às fls. 226-231, em parecer, manifestou-se pelo desprovimento do recurso, assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS.PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NECESSIDADE DA MEDIDA EXCEPCIONAL. GARANTIA DA ORDEM PÚBLICA-PERICULOSIDADE-RISCO DE REITERAÇÃO DELITIVA. PARECER PELO DESPROVIMENTO DO RECURSO."
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/MG-, na data de hoje, foi proferida sentença, em 05/07/2024, substituindo a pena privativa de liberdade do Recorrente por restritivas de direito, revogando sua prisão preventiva:
+"Substituída a pena privativa de liberdade por restritiva de direitos, não mais subsiste a necessidade de segregação cautelar do sentenciado. Assim, expeça-se, imediatamente, alvará de soltura em favor de Welington, deverá ser colocado em liberdade, salvo se por outro motivo estiver preso."
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
