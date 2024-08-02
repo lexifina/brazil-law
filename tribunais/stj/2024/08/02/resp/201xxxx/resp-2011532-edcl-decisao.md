@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão por meio da qual dei provimento, em parte, ao recurso especial interposto pela parte embargada para excluir do cômputo da multa decendial a incidência de juros de mora e de correção monetária, e, em razão do parcial acolhimento da impugnação ao cumprimento de sentença, fixei a verba honorária em 10% (dez por cento) sobre o excesso decotado, em favor da executada.
+Assiste razão à embargante quando alega que foi omisso o julgado do qual não constou a ressalva acerca da suspensão da exigibilidade da sucumbência em caso de beneficiário da justiça gratuita, vício ora corrigido.
+Do mesmo modo, também lhe assiste razão quando afirma que há erro material na decisão, pois o recurso especial "jamais se insurgiu em face da correção monetária sobre a multa decendial, mas tão-somente quanto aos juros de mora".
+Em face do exposto, acolho os embargos de declaração para corrigir os vícios apontados e atribuir efeitos modificativos à decisão de fls. 220-221/e-STJ, cujo dispositivo passa a ser o seguinte: "Em face do exposto, dou provimento, em parte, ao recurso especial interposto pela Caixa Seguradora S/A para excluir do cômputo da multa decendial a incidência de juros de mora; por conseguinte, em razão do parcial acolhimento da impugnação ao cumprimento de sentença, fixo a verba honorária em 10% (dez por cento) sobre o excesso decotado, em favor da executada, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita. Intimem-se."
+Intimem-se.
+EMENTA
