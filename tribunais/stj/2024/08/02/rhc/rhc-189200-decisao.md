@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por RUDIMAR BARBOSA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.23.184579-3/000).
+Depreende-se dos autos que o juízo da execução indeferiu o pedido de indulto formulado pela defesa do recorrente.
+Impetrado prévio writ na origem, a ordem foi denegada em julgado assim ementado (fl. 336):
+HABEAS CORPUS - EXECUÇÃO PENAL -INADEQUAÇÃO DA VIA ELEITA - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+Tendo em vista a necessidade de se preservar a utilidade do writ como instrumento de tutela da liberdade de locomoção, prevalece na jurisprudência o entendimento de que não se admite a impetração de habeas corpus em substituição ao recurso adequado. A concessão da ordem em HC substitutivo de recurso próprio ou de revisão criminal fica adstrita, portanto, às hipóteses de flagrante ilegalidade constatável sem a necessidade de revolvimento fático-probatório, o que não se verifica nos autos.
+Quando as matérias aduzidas no writ são também objeto de carta testemunhável, deverão ser analisadas nesta, recurso próprio e mais amplo, em obediência ao princípio da unirrecorribilidade das decisões.
+A Defesa alega, em síntese, que o apenado faz jus ao indulto previsto no Decreto 9.246/2017, porém há mandado de prisão expedido para cumprimento da pena.
+Esclarece que apesar de todas as exigências para a concessão do indulto se encontrarem preenchidas, o benefício foi indeferido sob o argumento de que seria exigível o trânsito em julgado de sentença penal condenatória em 25.12.2017.
+Aponta que o Decreto nº 9.246/2017 expressamente permite a concessão do indulto anteriormente ao trânsito em julgado.
+Requer, liminarmente e no mérito, o provimento do recurso ordinário para que seja declarada extinta a punibilidade do recorrente em razão do indulto.
+Pedido de liminar indeferido (fls. 378-379).
+As informações foram prestadas às fls. 385-387 e fls. 388-507.
+O Ministério Público Federal manifestou-se, às fls. 511-514, em parecer assim ementado:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. INSURGÊNCIA QUANTO AO INDEFERIMENTO DO BENEFÍCIO DE INDULTO ( ANO DE 2017) E PLEITO DE COLOCAÇÃO EM LIBERDADE. VERIFICAÇÃO JUNTO À ORIGEM QUE O RECORRENTE SE ENCONTRA EM CASA, CUMPRIMENTO PENA, EM REGIME ABERTO. NÃO VERIFICAÇÃO DE ILEGALIDADE. PELO DESPROVIMENTO DO RECURSO.
+É o relatório. DECIDO.
+Conforme consta, a defesa busca a concessão do indulto natalino, tendo em vista a possibilidade da concessão do benefício anteriormente ao trânsito em julgado.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica a flagrante ilegalidade a legitimar a atuação deste Tribunal.
+Acerca do pedido de indulto, assim dispôs o acórdão (fl. 340):
+Ora, no caso dos autos, percebe-se que a situação do paciente está sendo devidamente acompanhada pelo magistrado a quo, o qual informou que:
+"(..) Conforme assinalado na decisão atacada, embora reconhecido o tempo de eventual prisão provisória do sentenciado para fins de detração da pena, o indulto presidencial exige o trânsito em julgado da sentença penal condenatória e refere-se ao tempo da prisão pena, além de ser necessário que sobrevenha o trânsito em julgado antes do decreto sobre o qual o pedido é fundado, o que não ocorreu na espécie (..)" (doc. n. 17).
+Assim, verifica-se que, conforme o juízo a quo, o reeducando não faz jus ao referido indulto, pois não cumpre com os requisitos. (grifei)
+Como amplamente consabido, o indulto e a comutação de penas, instrumentos de política criminal à disposição do Poder Executivo, submetem-se aos requisitos expressamente previstos no Decreto presidencial regulador do benefício.
+Consoante a jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido, sob pena de ofensa ao princípio da legalidade.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMUTAÇÃO DA PENA. DECRETO PRESIDENCIAL 9.246/2017. AUSÊNCIA DE ÓBICE PARA CONCESSÃO AOS CONDENADOS EM REGIME SEMIABERTO E FECHADO. AGRAVO PROVIDO.
+1. Nos termos da jurisprudência pacífica do STJ, os requisitos para a concessão do benefício do indulto e da comutação das penas são os expressamente previstos no decreto presidencial.
+2. O Decreto 9.246/2017, ao dispor sobre a comutação da pena, não ressalva o regime prisional dos condenados que cumprem pena privativa de liberdade.
+3. O art. 8º do Decreto n. 9.246/2017 não é norma proibitiva; não veda a concessão do perdão parcial aos reeducandos do regime fechado ou semiaberto, apenas inclui no âmbito de incidência do benefício as pessoas que cumprem penas substitutivas, estão no regime aberto, em livramento condicional ou, no caso do sursis, nem chegaram a ser apenadas (REsp 1828409/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019)
+4. Agravo regimental provido para restabelecer a decisão concessiva da comutação da pena."
+(AgRg no REsp 1826046/MS, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 10/12/2019, grifei)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. COMUTAÇÃO. DECRETO N. 9.246/17. JULGAMENTO APÓS A ADI N. 5.874/STF. ESTRITA OBSERVÂNCIA DOS REQUISITOS NO DECRETO. ART. 4º, IV. NÃO CUMPRIDO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+II - "A Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do Recurso Especial n. 1.364.192/RS, representativo da controvérsia, firmou entendimento de que a concessão do indulto/comutação de penas "deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos" (HC n. 341.986/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/02/2016).
+III - Igualmente, em 09/05/2019, no julgamento da ADI n. 5.874 pelo col. Supremo Tribunal Federal, no qual se confirmou a constitucionalidade do Decreto Presidencial n. 9.246/17, foi consignado, no r. voto-relator, verbis: "Com o devido respeito às posições em contrário, não compete ao SUPREMO TRIBUNAL FEDERAL reescrever o decreto de indulto, pois, ou o Presidente da República extrapolou o exercício de sua discricionariedade, e, consequentemente, a norma é inconstitucional; ou, entre as várias opções constitucionalmente lícitas, o Presidente da República escolheu validamente uma delas, e, consequentemente, esta opção válida não poderá ser substituída por uma escolha discricionária do Poder Judiciário, mesmo que possa parecer melhor, mais técnica ou mais justa" (fl. 31).
+IV - In casu, inviável a concessão da comutação quando o paciente não cumpre seus requisitos legais expressamente previstos no Decreto Presidencial, notadamente, o art. 4º, IV, do Decreto n. 9.246/17.
+Habeas corpus não conhecido."
+(HC 515.979/SP, Quinta Turma, Rel. Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE, DJe 08/10/2019, grifei)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENAS. REQUISITO OBJETIVO. SENTENCIADO QUE FOI AGRACIADO NO ANO ANTERIOR COM O MESMO BENEFÍCIO - PROIBIÇÃO CONTIDA EXPRESSAMENTE NO DECRETO PRESIDENCIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Inviável o agravo regimental que não impugna os fundamentos da decisão agravada. Aplicação do entendimento consolidado na Súmula 182/STJ.
+2. A interpretação extensiva das restrições contidas no decreto concessivo de indulto/comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República. A concessão da comutação ou indulto de pena depende do implemento das condições previstas no Decreto Presidencial regulamentador do benefício. Precedentes.
+3. Agravo regimental não conhecido."
+(AgRg no HC 478.806/SP, Sexta Turma, Rel. Ministro Sebastião Júnior, DJe 30/08/2019, grifei)
+Portanto, uma vez preenchidos os requisitos expressamente previstos no Decreto Presidencial, viável será a concessão da benesse. Da mesma forma ocorre se ausentes os pressupostos, quando a benesse não poderá ser aplicada.
+No caso em exame, denota-se a semelhança do aresto recorrido com a jurisprudência do Superior Tribunal de Justiça que entende que, para fim de indulto, nos termos do Decreto Presidencial n. 9.246/2017, não se computa o período relativo à constrição cautelar, mas apenas o referente à prisão pena.
+De fato, nos termos da jurisprudência moderna deste Superior Tribunal de Justiça, "o período ao qual o Decreto Presidencial se refere para fins de indulto é aquele corresponde à prisão pena, não se alinhando para o preenchimento do requisito objetivo aquele alusivo ao da detração penal, no qual se está diante de constrição por medida cautelar" (HC 534.826/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 14/2/2020)
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 9.246/2017. TEMPO DE PRISÃO CAUTELAR. DETRAÇÃO PENAL. IMPOSSIBILIDADE.
+1. Conforme precedentes desta Corte Superior, o período ao qual o Decreto Presidencial 9.246/2017 se refere para fins de indulto é aquele corresponde à prisão pena, não se alinhando para o preenchimento do requisito objetivo aquele alusivo ao da detração penal, no qual se está diante de constrição por medida cautelar.2. Agravo regimental improvido"
+(AgRg no AREsp n. 1.887.116/GO,Sexta Turma, Rel. Min.Olindo Menezes(Desembargador Convocado do TRF 1ª Região), DJe de 6/5/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO NATALINO. DECRETO PRESIDENCIAL N. 9.246/2017. CÔMPUTO DO TEMPO DE PRISÃO CAUTELAR PARA FINS DE CONCESSÃO DA BENESSE. DETRAÇÃO PENAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme a jurisprudência desta Corte Superior no sentido de que o período ao qual o Decreto Presidencial se refere, para fins de indulto, é aquele correspondente à prisão pena, não se computando, para o preenchimento do requisito objetivo, o período relativo à detração penal, que se opera diante de constrição por medida cautelar. Precedentes.
+2. Na espécie, o Tribunal de origem concluiu pela possibilidade de cômputo da detração do tempo de prisão provisória como pena cumprida, para fins de concessão do indulto natalino previsto no Decreto Presidencial n. 9.246/2017, extinguindo, consequentemente, a punibilidade do apenado em relação aos fatos objeto da execução penal em questão. Diante da dissonância entre referido entendimento e a jurisprudência consolidada deste Superior Tribunal de Justiça, o benefício do indulto concedido ao apenado foi afastado no decisum monocrático agravado, o que não merece reparos.
+3. Agravo regimental não provido"
+(AgRg no AREsp n. 1.789.603/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/4/2021.)
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula nº. 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, não constatada a flagrante ilegalidade, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
