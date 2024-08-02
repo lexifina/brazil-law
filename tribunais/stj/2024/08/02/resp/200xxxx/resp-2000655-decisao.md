@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA JOSE DE ALMEIDA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 83/84):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER. QUESTÃO NÃO ANALISADA NA DECISÃO IMPUGNADA. SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO CONHECIDO.
+1. Agravo por instrumento interposto por MARIA JOSE DE ALMEIDA, nos autos de cumprimento de sentença, contra decisão que reputou comprovado o cumprimento da obrigação de fazer.
+2. Em suas razões, alega, em síntese, que:
+a) ao contrário do entendimento do magistrado, o INSS não deu cumprimento a obrigação de fazer, pois de acordo com a memória de cálculo trazida pela ré, ficou demonstrado, na competência agosto de 2020, uma renda mensal reajustada de apenas R$ 5.446,60, resultante da aplicação equivocada do art. 26 da Lei nº 8.870/94, que, diga-se de passagem, não pertence ao universo da lide;
+b) não se deve confundir o tema dos autos, qual seja, revisão do benefício do instituidor da pensão da autora por força do art. 144 da Lei nº 8.213/91, ao período do "buraco negro";
+c) inexiste complexidade no caso em tela, porquanto, atendendo ao que determina o art. 144 da Lei nº 8.213/91, não cumprido pelo INSS, foi obtida uma nova RMI de CZ$ 812.135,60, a razão de 100% (cem por cento) do salário de benefício, obtido pela média dos 36 (trinta e seis)últimos salários de contribuição.
+3. Constata-se pela decisão agravada que, considerando a petição e documentos trazidos pelo INSS que comprovam o cumprimento da obrigação de fazer (25/08/2020), deu-se vista à parte exequente, para promover a execução da obrigação de pagar, instruindo o pedido com demonstrativo de cálculos atualizado e discriminado do crédito, nos termos do art. 534 e incisos do CPC, dentro do prazo de 15 (quinze) dias.
+4. Como se vê, as teses defendidas pela parte exequente neste agravo de instrumento relacionadas ao fato de não ter havido o cumprimento da obrigação de fazer, já que resultante da aplicação equivocada do art. 26, da Lei nº 8.870/94, que, diga-se de passagem, não não foram apreciadas na decisão impugnada, até mesmo por que pertence ao universo da lide sequer foram suscitadas no processo de origem, razão pela qual o recurso não merece ser conhecido, face à ocorrência de de . Nesse sentido: TRF5, 2ª Turma, supressão instância PJE 0812097-56.2019.4.05.0000, Rel. Des. Federal Paulo Roberto de Oliveira Lima, data de assinatura: 06/12/2019; TRF5, 4ª Turma, PJE 0811386-51.2019.4.05.0000, Rel. Des. Federal Edilson Nobre, data de assinatura: 14/02/2020.
+5. Agravo de instrumento não conhecido.
+Os embargos de declaração opostos foram rejeitados (fls. 110/112).
+Nas razões de seu recurso, a parte recorrente afirma ter havido violação ao art. 1.022, I e II, do Código de Processo Civil (CPC), ao argumento de que houve negativa de prestação jurisdicional.
+Requer o provimento do recurso "para que seja determinado o retorno dos autos àquela Corte de modo a ser revisto o julgamento dos embargos de declaração de sua iniciativa para, consequentemente, expungir as omissões detectadas nessas decisões anteriores, dado à pertinência com a aplicabilidade da Súmula 7/STJ" (fl. 123).
+A parte adversa apresentou contrarrazões (fls. 128/133).
+O recurso foi admitido na origem (fl. 135).
+É o relatório.
+A parte recorrente alega que o Tribunal de origem não se manifestou quanto às seguintes questões (fl. 121):
+II.I - OCORRÊNCIA DE CONTRARIEDADE À NORMA JURÍDICA
+A norma jurídica contrariada se prende ao disposto no art. nº 1.022 e seus incisos I e II, do CPC, no momento em que o acórdão, ora objurgado, negou provimento aos embargos de declaração então opostos pela atual recorrente, o qual se eximiu de prequestionar sobres fatos importantes envolvendo o cerne da questão colocado em julgamento, que ora se reproduz, ratificando-se o a seguir esboçado:
+"Vale acrescentar que o acórdão, ora embargado, não apontou, além do artigo 1.015 e incisos do CPC/2015, quais normas jurídicas confirmam que seja suscitado de modo abrangente a composição do ato agravado, no caso, a utilização incorreta do art. 26, da Lei nº 8.870/94"
+II.II - DAS OMISSÕES
+Por consequência, o mesmo acórdão se absteve de analisar o aduzido na petição do agravo de instrumento, a qual consta em destaque os seguintes temas:
+1. Que o INSS não deu cumprimento à obrigação de fazer para 25/08/2020, relativo à majoração da renda mensal de sua aposentadoria;
+2. Justificando o item anterior, vale reafirmar que na apuração do INSS indicando a renda mensal de R$ 5.446,60 (agosto/2020), o mencionado órgão utilizou como parâmetro o art. 26, da Lei nº 8.870/94, o que fica, portanto, à margem do universo da lide.
+Ainda na mesma petição do agravo, consta os seguintes esclarecimentos em razão da inviabilidade do art.26, da Lei nº 8.870/94, os quais não foram apreciados pelo acórdão então embargado (..).
+Contudo, não prospera a alegada violação ao art. 1.022 do CPC. Isso porque a prestação jurisdicional foi dada na medida da pretensão deduzida, não padecendo o julgado de omissão, contradição ou obscuridade.
+O Tribunal de origem apreciou fundamentalmente a controvérsia, não conhecendo do agravo de instrumento com base na seguinte motivação (fl. 82):
+Vê-se pela decisão agravada que, considerando a petição e documentos trazidos pelo INSS que comprovam o cumprimento da obrigação de fazer (25/08/2020), dê-se vista à parte exequente para promover a execução da obrigação de pagar, instruindo o pedido com demonstrativo de cálculos atualizado e discriminado do crédito, nos termos do art. 534 e incisos do CPC, dentro do prazo de 15 (quinze) dias.
+Como se vê, as teses defendidas pela parte exequente neste agravo de instrumento relacionadas ao fato de não ter havido o cumprimento da obrigação de fazer, já que resultante da aplicação equivocada do art. 26, da Lei nº 8.870/94, que, diga-se de passagem, não pertence ao universo da lide não foram apreciadas na decisão impugnada, até mesmo porque sequer foram suscitadas no processo de origem, razão pela qual o recurso não merece ser conhecido, face à ocorrência de supressão de instância. Nesse sentido: TRF5, 2ª Turma, PJE 0812097-56.2019.4.05.0000, Rel. Des. Federal Paulo Roberto de Oliveira Lima, data de assinatura: 06/12/2019; TRF5, 4ª Turma, PJE 0811386-51.2019.4.05.0000, Rel. Des. Federal Edilson Nobre, data de assinatura: 14/02/2020. (sem destaque no original.)
+Os elementos utilizados para a formação do convencimento foram devidamente expostos no julgado. Dessa forma, não pairam dúvidas acerca da suficiência da motivação adotada e da inexistência de máculas ao dispositivo legal apontado pela parte.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
