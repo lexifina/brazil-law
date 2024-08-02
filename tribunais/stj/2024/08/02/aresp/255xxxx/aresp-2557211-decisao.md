@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 83/STJ.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise dos argumentos expostos no recurso especial.
+"O recorrente foi condenado pelo crime descrito no art. 33, caput, da Lei de Drogas, a pena de 08 (oito) anos de reclusão e 800 (oitocentos) dias-multa" (fl. 422).
+No apelo nobre, a controvérsia trazida a julgamento refere-se à alegação de violação dos arts. 59 e 68 do CP, ao argumento de que as frações de aumento operadas na pena-base e por força da reincidência são desproporcionais, devendo ser reduzidas.
+Sobre o tema, assim se manifestou o Tribunal de origem (fls. 402-404):
+ ..  Quanto ao pedido subsidiário para reduzir a pena-base, constata-se que o magistrado, considerando as circunstâncias judiciais do art. 59 do CP, fixou a reprimenda basilar do apelante no mínimo legal de 5 (cinco) e pagamento de 500 (quinhentos) dias-multa, exasperando-a em 01 (um) ano e 100 (cem) dias-multa, em razão do reconhecimento dos maus antecedentes, com a seguinte fundamentação:
+"O acusado possui condenação nos autos 0003786-57.2012.8.11.0064, 0007905-85.2017.8.11.0064, 0000037-90.2016.8.11.0064, 0002737.05.2017.8.11.0064, 0007004-38.2019.8.11.0003 e 1013457-61.2021.8.11.0003 que transitou em julgado em 25/04/2016, 08/08/2017, 15/06/2016, 13/06/2017, 14/10/2021 e 17/01/2022, cujas condenações tramitam Na GR/SEEU 0003432-90.2016.8.11.0064. O Juízo utiliza a condenação oriunda dos autos 0003786-57.2012.8.11.0064 para reconhecimento dos maus antecedentes.
+ ..
+Assim, possuindo a agente circunstâncias judiciais que lhes são desfavoráveis (maus antecedentes), fixa-se a pena base em 06 (seis) anos de reclusão e 600 (quinhentos) dias multa."
+Verifica-se que os maus antecedentes foram aferidos corretamente pelo juízo a quo, utilizando-se, para tanto, as condenações transitadas em julgado, e esse apontamento basta para que se atenda ao princípio constitucional da individualização da pena, porquanto, tratando-se de circunstância atinente aos maus antecedentes, configurada pela hipótese de condenações com trânsito em julgado, não há a necessidade de maiores digressões.
+ ..
+Desse modo, o aumento de 1 (um) ano foi proporcional aos fatos e não comporta reparos.
+Segunda fase. Agravante de reincidência.
+Por fim, o recorrente defende a ausência de motivação para a utilização da fração de 1/3 para a agravante de reincidência, argumentando que a fração máxima para tal não pode ultrapassar a fração mínima de 1/6 utilizada nas causas de aumento de pena.
+Verifica-se da sentença que o Juízo a quo considerou a reincidência do acusado, tendo em vista as cinco condenações transitadas em julgado, nos autos de n. 0007905-85.2017.8.11.0064, 0000037-90.2016.8.11.0064, 0002737.05.2017.8.11.0064, 0007004-38.2019.8.11.0003 e 1013457-61.2021.8.11.0003, agravando a pena em 2 (dois) anos, ou o equivalente a 1/3 (um terço).
+Ao contrário da tese defensiva, limitar o aumento na segunda fase da fixação da pena à fração de 1/6 (um sexto) implicaria em igualar a situação de réus com múltiplas condenações transitadas em julgado com a de réus primários, o que não seria proporcional.
+Assim, na hipótese de multirreincidência, justifica-se a elevação da pena provisória, na segunda fase, em patamar superior a 1/6 (um sexto), bem como a prevalência desta sobre eventuais atenuantes, prática que, inclusive, alinha-se à jurisprudência do Superior Tribunal de Justiça. ..
+"A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o índice de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade." (AgRg no HC n. 898.677/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024).
+In casu, não há falar-se em desproporcionalidade, uma vez que o aumento em 1 ano pela valoração negativa dos antecedentes, bem como a aplicação da fração de 1/3 na segunda etapa da dosimetria por força da multirreincidência encontram-se dentro da razoabilidade e discricionariedade deferida ao juiz. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MAUS ANTECEDENTES. AÇÕES DISTINTAS DAS SOPESADAS PARA FINS DE REINCIDÊNCIA. FUNDAMENTO VÁLIDO. AGRAVAMENTO DA PENA EM FRAÇÕES SUPERIORES A 1/6. PROPORCIONALIDADE. PLURALIDADE DE CONDENAÇÕES ANTERIORES. CONSTRANGIMNTO ILEGAL NÃO VERFICADO. AGRAVO NÃO PROVIDO.
+ ..
+2. A teor da Súmula 241 do STJ, a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda.
+3. Hipótese em que o Tribunal a quo valorou negativamente os maus antecedentes do acusado (4 condenações definitivas não sopesadas para fins de reincidência), para exasperar a pena-base do delito de tráfico em 1/3.
+4. Portanto, apresentado elemento idôneo para a majoração da reprimenda e levando-se em conta as penas máxima e mínima abstratamente cominadas ao delito referido (5 a 15 anos), não se mostra desproporcional o quantum de pena imposto, a autorizar a intervenção excepcional desta Corte, sobretudo diante da pluralidade de condenações anteriores do acusado transitadas em julgado.
+5. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+6. No caso, destacada a multirreincidência do paciente (três condenações anteriores definitivas), não se verifica manifesta ilegalidade na escolha da fração de 1/4 pelo reconhecimento da causa de aumento do art. 61, I, do Código Penal.
+7. Agravo regimental não provido. (AgRg no HC n. 890.106/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+"Quanto a dosimetria, não há desproporcionalidade no aumento da pena em 1/4 na primeira fase, em razão da quantidade de droga apreendida (10kg de maconha), e 1/3 na segunda fase, em razão da multirreincidência." (AgRg no HC n. 784.837/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Portanto, o entendimento adotado no acórdão recorrido encontra-se em harmonia com a jurisprudência do STJ, razão pela qual incide a Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
