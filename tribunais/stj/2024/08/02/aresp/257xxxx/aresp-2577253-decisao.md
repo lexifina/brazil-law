@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por LIDIA BARBARA NERI LEITE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fl. 459):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE CONTRATO. CARTÃO DE CRÉDITO CONSIGNADO. CARTÃO DE CRÉDITO CONSIGNADO. RESERVA DE MARGEM CONSIGNÁVEL - RMC. INTENÇÃO DE CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO TRADICIONAL. REALIZAÇÃO DE SAQUE DE VALORES NO MESMO DIA DA ADESÃO. AUSÊNCIA DE USO DO CARTÃO PARA COMPRAS. FALHA DA FORNECEDORA NO DEVER DE INFORMAÇÃO. ERRO SUBSTANCIAL. POSSIBILIDADE DE CONSERVAÇÃO DO NEGÓCIO. ADEQUAÇÃO DO CONTRATO PARA MODALIDADE DE CRÉDITO INICIALMENTE ALMEJADA. CAPITALIZAÇÃO DOS JUROS. POSSIBILIDADE. PREVISÃO DE JUROS ANUAIS SUPERIORES AO DUODÉCUPLO DA TAXA MENSAL. DANOS MORAIS. OCORRÊNCIA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 186 e 927 do CC e arts. 6º, 14 e 51, inciso IV, do CDC, uma vez que a fixação do dano moral foi insuficiente, devendo ser majorada para R$ 10.000,00 (dez mil reais) para que possa atender seu caráter pedagógico.
+Foram oferecidas contrarrazões ao recurso especial (fls. 429-499).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 501-504), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo (fl. 518).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Nos termos da jurisprudência do STJ, a intervenção desta Corte para a modificação do quantum indenizatório somente é admitida em situações de arbitramento ínfimo ou exorbitante. Essa, porém, não é a hipótese dos autos.
+No caso concreto, o Tribunal de origem reduziu o valor da indenização para R$ 5.000,00 (cinco mil reais) por entender proporcional e razoável ao dano sofrido levando em consideração especificidades do caso concreto (fl. 473):
+A falha na prestação dos serviços, além de constituir ato ilícito, repercutiu na esfera extrapatrimonial da parte autora, gerando abalo moral.
+As contratações envolvendo cartão de crédito com reserva de margem consignável possuem como natureza uma amortização extremamente lenta. Na percepção do consumidor há uma dívida "impagável" - o que gera inequívoco transtorno moral. Na fatura com vencimento em 10/08/2019 o saldo anterior era de R$ 2.217,32. Um ano depois, após o pagamento de 12 parcelas das R$ 78,71, o saldo ainda era de R$ 2.204,59. Ou seja, foram pagos R$ 994,52 e a dívida diminuiu apenas R$ 12,73.
+Ademais, os descontos afetaram o benefício previdenciário da autora. Assim, entendo que os fatos geraram dano moral, a ser indenizado pelo réu. O montante indenizatório deve, diante dos contornos do caso concreto, observar a razoabilidade e proporcionalidade. A indenização observará patamar capaz de reparar o prejuízo e inibir a reiteração da conduta, mas sem implicarem enriquecimento ilícito à parte destinatária da verba.
+Nessa linha de intelecção, fixo em R$ 5.000,00 (cinco mil reais) a indenização por danos morais, montante equilibrado diante do valor do benefício mensal (R$ 1.763,25 - id. 47039239 - Pág. 5).
+Diante disso, uma vez constatado que não houve desrespeito à razoabilidade na fixação do quantum indenizatório e que esse não fere o bom senso, nem se distancia dos critérios recomendados pela doutrina e pela jurisprudência desta Corte, revela-se descabida, in casu, a excepcional intervenção desta Corte a fim de revisar o valor da indenização por danos morais.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. RESILIÇÃO CONTRATUAL. ABUSO DE DIREITO. VIOLAÇÃO AOS PRINCÍPIOS DA BOA-FÉ E FUNÇÃO SOCIAL DO CONTRATO. DANO MATERIAL E MORAL. CONFIGURAÇÃO. REVISÃO. SÚMULAS N. 5 E 7/STJ. DANO MORAL. VALOR. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual, considerando o acervo fático-probatório dos autos e as peculiaridades do caso concreto, concluiu que ficou configurada a conduta ilícita da recorrente que, ao realizar a resilição do contrato, dias após a prorrogação por prazo indeterminado, em comportamento contraditório, feriu a boa-fé objetiva e a função social do contrato, condenando-a ao pagamento de indenização por lucros cessantes e danos morais.
+2. Rever a conclusão do Tribunal de origem demanda o reexame das provas produzidas no processo e interpretação de cláusulas contratuais, o que é defeso na via eleita, nos termos dos enunciados n. 5 e 7 da Súmula desta Corte Superior.
+3. Dispõe a jurisprudência do Superior Tribunal de Justiça que a alteração do valor estabelecido pelas instâncias ordinárias, a título de compensação por danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo. Observados os postulados da proporcionalidade e da razoabilidade, torna-se inviável o recurso especial, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. Esta Corte Superior firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei, considerando que a Súmula n. 7/STJ é aplicável, também, aos recursos especiais interpostos pela alínea c do permissivo constitucional. Assim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do citado enunciado.
+5. De acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, não cabe a majoração dos honorários recursais em julgamento de agravo interno.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.183.337/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. MATÉRIA JORNALÍSTICA. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. ABUSO DO DIREITO DE INFORMAR. CONFIGURADO. REVISÃO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. HONORÁRIOS RECURSAIS. ART. 85, §11, DO CPC. MAJORAÇÃO INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso es pecial.
+4. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios do art. 85, § 11, do CPC.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.348.669/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Desse modo, a modificação do entendimento lançado no acórdão recorrido demandaria um inevitável reexame da matéria fático-probatória, hipótese vedada por força da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. VALOR. ALTERAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
