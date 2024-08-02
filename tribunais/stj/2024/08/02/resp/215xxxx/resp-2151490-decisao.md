@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+Apelação Criminal. Duplo roubo (um consumado e outro tentado) praticado em concurso de agentes e na forma do art.71 do CP.
+Sentença condenatória.
+Prescrição reconhecida de ofício do roubo praticado contra a vítima Aucione em relação ao réu Lucio. Entre o recebimento da peça acusatória (único marco interruptivo registrado) e a data de publicação da sentença transcorreram mais de 02 anos, de modo que está extinta a punibilidade do réu pela prescrição da pretensão punitiva estatal, em sua modalidade retroativa, na forma dos arts. 107, IV, 109, V, 110, §1º, e 115, todos do Código Penal, e art. 61 do Código de ProcessoPenal. Mérito. Recursos defensivos que visam a absolvição por insuficiência probatória.
+Parcial acolhimento.
+Condenação que era medida de rigor em relação ao roubo praticado contra a vítima Carlos. Réus que foram presos em flagrante com um simulacro de arma de fogo e o celular da vítima, que efetuou o reconhecimento pessoal no mesmo dia do crime. Condenação que está amparada em outras provase não somente no reconhecimento realizado em solo policial, como alegou a defesa. Prova frágil em relação ao roubo praticado contra a vítima Aucione. Absolvição cabível. Ofendida que não foi ouvida em juízo e consequentemente não pôde confirmar suas declarações e o reconhecimento pessoal realizado. Réus que não estavam com nenhum dos pertences da vítima quando foram presos em flagrante. Ausência de testemunhas que comprovem o relato de Aucione e a confissão informal mencionada pelos policiais não é suficiente para comprovar a autoria do crime.
+A dúvida, portanto, deve favorecer o acusado Matheus Maciel, já que o crime está prescrito em relação ao corréu Lúcio. Dessa forma, tanto Matheus quanto Lúcio devem ser condenados apenas pelo roubo praticado contra Carlos e cuja dosimetria foi feita com moderação pelo juízo a quo.
+Extinta de ofício a punibilidade do réu Lúcio Daleiro Ayala em relação ao roubo praticado contra a vítima Aucione e, no mérito, dado parcial provimento aos recursos defensivos para, com base no art. 386, VII, do CPP, absolver o réu Matheus Maciel de Andrade do crime de roubo praticado contra a vítima Aucione e redimensionar a pena de ambos os sentenciados para 05 anos e 04 meses de reclusão, em regime semiaberto, mantida, no mais, a sentença conforme proferida.
+Sustenta o recorrente, em suma, que "o v. aresto, ao tratar da dosimetria da pena, deixou de considerar o período em que o recorrente permaneceu submetido ao recolhimento obrigatório noturno e nos dias de folga, para fins de fixação do regime inicial para o cumprimento da pena, tal como previsto no art. 387, § 2º, do CPP e Tema Repetitivo nº 1155" (fl. 575). Acena com dissídio jurisprudencial.
+Requer o provimento do recurso, a fim de ver aplicada a detração penal, nos termos da fundamentação.
+Contrarrazões apresentadas. O Ministério Público federal manifestou-se pelo provimento do recurso.
+Acerca da controvérsia trazida no recurso, colhe-se do acórdão dos embargos de declaração:
+No aspecto, toda a matéria suscitada em sede recursal foi objeto de específico enfrentamento, consoante se depreende do acórdão embargado. Frisa-se que na apelação de fls. 487/495 inexistem argumentos no sentido de aplicar a detração penal no intuito de abrandar o regime prisional imposto.
+Assim, nesse caso, parece que a defesa opôs embargos de declaração como se fosse uma nova chance de interpor curso de apelação, apresentando nova alegação, o que não reputo adequado.
+A questão deve mesmo ser objeto de análise do Juízo da Execução Criminal e não em sede de embargos de declaração, já que, reitera-se, não há omissão alguma no jugado embargado.
+Verifica-se que o Tribunal de origem deixou de conhecer da tese trazida pela defesa ao entendimento de que a mesma teria configurado inovação recursal, pois a matéria teria sido ventilada apenas em sede de embargos de declaração.
+Desse modo, a controvérsia carece do necessário prequestionamento, atraindo a incidência da Súmula 211/STJ, não havendo falar em negativa de prestação jurisdicional.
+Com efeito, "no tocante ao art. 619 do CPP, constatada inovação recursal na peça dos de embargos de declaração, fica afastada, justificadamente, a necessidade da tese defensiva ser abordada pelo julgador na apreciação dos aclaratórios, pois o acórdão proferido no julgamento do recurso, no caso apelação, não contém o vício da omissão" (AgRg no REsp n. 2.063.024/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
