@@ -1,0 +1,90 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por RITA DE CASSIA FRANÇA SAYÃO e OUTRA contra acórdão prolatado, por unanimidade, pela 4ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de agravo de instrumento, assim ementado (fls. 1.016/1.022e):
+AGRAVO DE INSTRUMENTO Assistência Judiciária Não comprovação da hipossuficiência econômica Diferimento do recolhimento de custas Art. 5º, II, da LE nº 11.608/03 que prevê a possibilidade de diferimento de custas em ação indenizatória por ilícito extracontratual, mas condiciona o diferimento à comprovação da impossibilidade de recolhimento Impossibilidade somente alegada Recurso não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 1.041/1.050e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além do dissídio jurisprudencial, aponta-se ofensa aos arts. 98 e 99, § 3º, do Código de Processo Civil e 5º, da Constituição da República.
+Alega que o indeferimento ao benefício da justiça gratuita é um obstáculo ao acesso à Justiça.
+Com contrarrazões (fls. 1.072/1.80e), o recurso foi inadmitido (fls. 1.083/1.087e), interposto Agravo, foi convertido em Recurso Especial (fls. 1.163/1.164e).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (fls. 1.180/1.184e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No caso, as Recorrentes ajuizaram ação de indenização por danos, decorrente de conduta de autoridade policial, referente a não devolução de bens apreendidos.
+O Juízo de primeiro grau indeferiu o pedido de Justiça gratuita e as Autoras interpuseram Agravo de Instrumento, sustentando que não possui condições financeiras de arcar com o alto valor das custas processuais, a saber, R$ 52.146,24(cinquenta e dois mil, cento e quarenta e seis reais e vinte e quatro centavo).
+O Tribunal de origem negou provimento ao recurso (fls. 1.016/1.022e).
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Dessa forma, a presente insurgência não pode ser conhecida no que tange à alegada violação ao art. 5º, da Constituição da República.
+A respeito do tema, o precedente:
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - EMBARGOS DE DIVERGÊNCIA - AUSÊNCIA DE VÍCIOS DO ART. 535 DO CPC - PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS - IMPOSSIBILIDADE.
+1. Não compete ao STJ intervir em matéria de competência do STF, tampouco para prequestionar questão constitucional, sob pena de violar a rígida distribuição de competência recursal disposta na Lei Maior.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.054.064/PA, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 17/04/2013, DJe 02/05/2013).
+De outra parte, em relação à afronta aos arts. 98 e 99, § 3º, do Código de Processo Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a orientação contida na Súmula 284 do Colendo Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Por sua vez, o tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, imputou a não comprovação da hipossuficiência econômica a justificar a concessão do benefício da justiça gratuita (fls. 1.016/1.022e):
+Consoante colhe-se da petição inicial dos autos principais alegam as autoras (uma empresa de joalheria e sua proprietária), que lhes foram imputadas a prática do crime de receptação, tendo a autoridade policial no curso da investigação apreendido joias de propriedade das autoras, avaliadas na casa de milhões de reais.
+Após a superveniência do trânsito em julgado da r. sentença absolutória proferida na ação penal respectiva, as autoras buscaram reaver as joias apreendidas, contudo, segundo alegam, os bens foram extraviados em favor de terceiros.
+Diante deste quadro, ajuizaram as autoras ação indenizatória em face da Fazenda do Estado, em que pleiteiam a reparação dos danos materiais, bem como dos lucros cessantes sofridos em decorrência da alegada perda das joias, atribuindo à causa o valor de R$ 5.214.624,44(cinco milhões, duzentos e quatorze mil, seiscentos e vinte e quatro reais, quarenta e quatro centavos).
+Ao despachar a petição inicial, o juízo singular asseverou (fls.978 do processo principal):
+(..)
+Em resposta, a parte autora limitou-se a indagar " Ora, na crise em que vivemos, quem possui o importe de R$ 52.146,24 para recolher de custas iniciais ", sem, contudo, apresentar nenhum comprovante de miserabilidade (fls. 981/982 do processo principal).
+Posteriormente, diante da não reconsideração da decisão que condicionou a análise do pedido de assistência judiciária à apresentação de comprovantes de rendimentos, as autoras pleitearam o diferimento do pagamento das custas para o final do processo, nos termos da Lei Estadual11.608/2003 (fls. 986/987 do processo principal), o que, entretanto, foi indeferido pelo juízo singular, decisão objeto do presente recurso.
+Estabelecidos tais fatos, tem-se, de início, pela inviabilidade da concessão da assistência judiciária, ainda que requerida em sede recursal apenas pela coatora pessoa física.
+(..)
+No caso em tela, em que pesem as razões em sentido contrário, tem-se que o indeferimento do benefício merece subsistir.
+Com efeito, foi dada oportunidade à recorrente para juntar documentos de prova aptos a atestar a realidade da vulnerabilidade econômica alegada. Todavia, a agravante preferiu tecer meras conjecturas genéricas, furtando-se de apresentar qualquer documento requerido pelo magistrado.
+Assim, não tendo comprovado a presença dos requisitos legais necessários ao deferimento do benefício, faz-se de rigor a manutenção da r. decisão agravada.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, reduzir a quantia fixada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial":
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AFRONTA AOS ARTS. 9º, 10 E 1.021 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. NOVO PEDIDO. NECESSIDADE DE PROVA DE ALTERAÇÃO DA CONDIÇÃO FINANCEIRA. NÃO APRESENTAÇÃO. REVISÃO DA CONVIÇÃO ESTADUAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. ÓBICE TAMBÉM APLICÁVEL AO RECURSO INTERPOSTO COM FULCRO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO INDEVIDA. AGRAVO DESPROVIDO.
+1. Não houve pronunciamento, pela Corte local, sobre a tese abarcada pelos arts. 9º, 10 e 1.021 do CPC/2015, tampouco foram opostos embargos declaratórios com o objetivo de sanar eventual omissão, o que revela a ausência de prequestionamento do tema. Incidência das Súmulas 282 e 356/STF.
+2. É pacífico o entendimento desta Casa de que "cabe ao requerente demonstrar a alteração de sua condição financeira para a obtenção da gratuidade da justiça quando o benefício não foi requerido perante as instâncias ordinárias, bem como nos casos em que a benesse tenha sido anteriormente indeferida, não bastando a mera declaração de hipossuficiência do requerente" (AgInt no REsp n. 1.951.005/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2021, DJe de 15/12/2021).
+3. A convicção da origem acerca da ausência de demonstração da hipossuficiência econômica não prescindiria do reexame do arcabouço fático-probatório, providência vedada na via eleita, ante a previsão contida na Súmula 7/STJ.
+4. Nos termos da jurisprudência deste Tribunal, "a necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do inciso III do art. 105 da Constituição Federal, ficando prejudicado o exame da divergência jurisprudencial" (AgInt no AREsp n. 2.276.222/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+5. Conforme entendimento desta Corte, "a aplicação da multa por litigância de má-fé não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs o recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer" (AgInt no AREsp n. 2.081.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022).
+6. A jurisprudência deste Superior Tribunal de Justiça se firmou no sentido de que não haverá majoração de honorários no julgamento de agravo interno que teve seu recurso não conhecido integralmente ou desprovido.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.516.390/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. BENEFÍCIO DA JUSTIÇA GRATUITA. ANTERIOR INDEFERIMENTO. NOVO PEDIDO. CONDIÇÃO FINANCEIRA. ALTERAÇÃO. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. "A jurisprudência deste Tribunal Superior firmou-se no sentido de que cabe ao requerente demonstrar a alteração de sua condição financeira para a obtenção da gratuidade da justiça quando o benefício não foi requerido perante as instâncias ordinárias, bem como nos casos em que a benesse tenha sido anteriormente indeferida, não bastando a mera declaração de hipossuficiência. (AgInt no REsp n. 1.951.005/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2021, DJe de 15/12/2021.).
+4. No caso dos autos, o pleito foi indeferido no primeiro grau de jurisdição e não houve demonstração de que tenha havido alteração na situação financeira do embargante, sendo certo que a improcedência do pedido autoral, por si só, não justifica a concessão do benefício neste momento processual.
+5. Embargos de declaração rejeitados e pedido de concessão do benefício da justiça gratuita indeferido.
+(EDcl no AgInt no REsp n. 1.968.885/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. PEDIDO DE GRATUIDADE DA JUSTIÇA FORMULADO NO RECURSO ESPECIAL. PRÉVIO INDEFERIMENTO DO BENEFÍCIO NA ORIGEM E RECOLHIMENTO DAS CUSTAS PROCESSUAIS. NECESSIDADE DE DEMONSTRAÇÃO DA ALTERAÇÃO DA CONDIÇÃO FINANCEIRA DO REQUERENTE. MODIFICAÇÃO NÃO COMPROVADA. INDEFERIMENTO DA BENESSE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que cabe ao requerente demonstrar a alteração de sua condição financeira para a obtenção da gratuidade da justiça quando o benefício não foi requerido perante as instâncias ordinárias, bem como nos casos em que a benesse tenha sido anteriormente indeferida, não bastando a mera declaração de hipossuficiência.
+2. No presente caso, os rendimentos auferidos pela agravante nos meses de abril, maio e junho de 2021, cujos comprovantes foram juntados às e-STJ fls. 810/812, são semelhantes àqueles por ela recebidos nos meses de dezembro de 2015 e janeiro de 2016 (e-STJ fls. 443/446), que foram analisados pelo d. Juízo de primeiro grau quando do indeferimento da gratuidade da justiça em 08/07/2016.
+Logo, não houve comprovação da alteração da condição financeira da agravante, devendo ser indeferido o benefício da gratuidade da justiça formulado no recurso especial.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.951.005/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Por fim, o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, pois a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse contexto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXECUÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM VIRTUDE DE PROPOSITURA DE DEMANDA JUDICIAL PELO DEVEDOR NA QUAL O DÉBITO É IMPUGNADO. ALEGADA AUSÊNCIA DE PRECLUSÃO. RECURSO ANCORADO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Além do que, para se comprovar a divergência, não basta a mera transcrição de ementas, é indispensável o cotejo analítico entre os julgados, de modo que ressaia a identidade ou similitude fática entre os acórdãos paradigma e recorrido, bem como teses jurídicas contrastantes, a demonstrar a alegada interpretação oposta.
+4. Agravo Regimental do IRGA desprovido.
+(AgRg no REsp 1.355.908/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 15/08/2014).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO POR MORTE. DECADÊNCIA. SÚMULA 211/STJ. DEVOLUÇÃO DE VALORES E PRESCRIÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. CONDIÇÃO DE DEPENDENTE. FILHO MAIOR INVÁLIDO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+4. O conhecimento de recurso especial fundado na alínea "c" do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial.
+5. Agravo regimental não provido.
+(AgRg no REsp 1.420.639/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014).
+Por último, sem honorários recursais, nos termos do art. 85, § 11, do Código de Processo Civil .
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
