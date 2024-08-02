@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 270):
+OBRIGAÇÃO DE FAZER c/c DANOS MORAIS Sentença de parcial procedência. Irresignação do autor e da ré. APELAÇÃO. Pretensão do autor de custeio integral do tratamento despendido em clínica de internação para tratamento psiquiátrico para dependentes químicos, sem a observância das limitações contratuais de período de internação e sistema de coparticipação, bem como pelo reconhecimento dos danos morais. Pretensão da ré pelo reconhecimento da inexistência de negativa de cobertura e pela necessidade de observância das cláusulas restritivas contratualmente previstas. Falha na prestação do serviço e ausência de clínica credenciada já consideradas em sentença que ensejou a condenação da requerida ao custeio integral da internação pelo período de 30 dias. Período excedente que o reembolso fica limitado a 50% dos valores despendidos, conforme disposição expressa no contrato. Precedentes obrigatórios do C. Superior Tribunal de Justiça. Autor que permaneceu internado em clínica de sua escolha até o recebimento da alta. Dissabor cotidiano que não gera dever indenizatório. Inovação recursal inadmitida. Sentença mantida por suas próprias razões. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 504/510).
+Nas razões do especial, aponta a recorrente violação do artigo 1.022, II, do Código de Processo Civil e artigo 12, VI, da Lei nº 9.656/98.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Defende, ainda, que a utilização de rede não credenciada pelo segurado justificaria o reembolso parcial das despesas realizadas, e não integral.
+O recurso especial não foi admitido na origem (fls. 530/532), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 1.022 do Código de Processo Civil, observo que o Tribunal de origem consignou, expressamente, que o direito ao reembolso integral pelas despesas realizadas pelo segurado, em hospital fora da rede credenciada, decorre da recusa indevida à cobertura requerida (fl. 278).
+Diante desse contexto, como o ponto supostamente omisso foi objeto de análise no acórdão recorrido, não há falar-se em omissão ou falta de justificativa adequada a respeito.
+No que se refere à controvérsia de fundo, verifica-se que o Tribunal de origem, ao apreciar a controvérsia, concluiu que a operadora de plano de saúde deveria reembolsar a parte autora integralmente das despesas médicas realizadas fora da rede credenciada, até que fosse providenciada sua remoção para estabelecimento credenciado, sendo que, a partir deste momento, seria válida a cláusula de coparticipação.
+Isso, porque decorreu da própria inércia da ré a internação do autor em clínica particular, de modo que, nesses casos, o beneficiário faz jus ao reembolso integral das despesas assumidas com o tratamento que lhe foi prescrito, devendo a coparticipação incorrer após a sua transferência para clínica credenciada.
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 282/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. COBERTURA INTEGRAL DE TRATAMENTO PSIQUIÁTRICO INCLUINDO INTERNAÇÃO. INÉRCIA DA OPERADORA EM INDICAR O PROFISSIONAL ASSISTENTE. TRATAMENTO REALIZADO FORA DA REDE CREDENCIADA ÀS CUSTAS DO USUÁRIO. COPARTICIPAÇÃO INDEVIDA. REEMBOLSO INTEGRAL. CUMPRIMENTO DA ORDEM JUDICIAL. IMPOSIÇÃO DE OBRIGAÇÃO DE PAGAR. AFASTAMENTO DA MULTA ARBITRADA.
+1. Ação declaratória de obrigação de fazer ajuizada em 24/08/2021, da qual foi extraído o presente recurso especial, interposto em 22/03/2022 e concluso ao gabinete em 19/10/2022.
+2. O propósito recursal é decidir sobre: (i) a negativa de prestação jurisdicional; (ii) a validade da cláusula de coparticipação do beneficiário após o 30º dia de internação psiquiátrica fora da rede credenciada; (iii) a obrigação da operadora de reembolsar integralmente as despesas com internação psiquiátrica fora da rede credenciada; e (iv) a validade e a proporcionalidade das astreintes fixadas.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm. 282/STF).
+4. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022, II, do CPC/15.
+5. Diferentemente da hipótese do Tema 1.032/STJ, não há falar em coparticipação quando é o próprio usuário quem está arcando com as despesas de internação psiquiátrica fora da rede credenciada, ante a inércia da operadora em indicar o profissional assistente.
+6. A partir da interpretação dada pela Segunda Seção ao art. 12, VI, da Lei 9.656/1998 e das normas editadas pela ANS, e considerando o cenário dos autos - sinalizando a omissão da operadora na indicação de prestador da rede credenciada -, faz jus o beneficiário ao reembolso integral das despesas assumidas com o tratamento de saúde que lhe foi prescrito pelo médico assistente, sob pena, inclusive, de a operadora incorrer em infração de natureza assistencial.
+7. Hipótese em que, seja pelo cumprimento da obrigação de fazer pela operadora, seja pelo deferimento do pagamento de reembolso integral (obrigação de pagar), deve ser afastada a multa arbitrada.
+10. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido.
+(REsp n. 2.031.301/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/11/2023, DJe de 14/11/2023.) (grifo acrescido)
+ ..
+5. O usuário faz jus ao reembolso integral das despesas médicas, quando comprovado o inadimplemento contratual do plano de saúde relativo à recusa do custeio do tratamento prescrito pelo médico assistente. Precedentes.
+5.1. A Corte local condenou a empresa agravante ao reembolso integral das despesas médicas, ante sua recusa indevida à cobertura médica.
+ ..
+10. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.460.792/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
