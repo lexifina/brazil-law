@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE LUIS BRITO LIMA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRI TO SANTO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, encontrando-se denunciado pela suposta prática das condutas descritas nos -artigo 33, caput c/c artigo 35, caput, ambos da Lei Nº 11.343/06 c/c artigo 16 § 1" IV da Lei Nº 10.826/03 c/c artigo 69 do Código Penal- (fl. 16). Irresignada, a Defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão e não acolheu a alegação de excesso de prazo, denegando a ordem em acórdão de fls. 57-62.
+No presente writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado na manutenção do encarceramento provisório do Paciente, apontando a ocorrência de excesso de prazo.
+Requer o relaxamento da prisão preventiva do Paciente.
+A liminar foi indeferida às fls. 65-66.
+Informações prestadas, às fls. 71-93. O Ministério Público Federal em parecer, às fls. 108-115, opinou pela denegação da ordem:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃO CONHECIMENTO.
+- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.
+- 2ª Preliminar: conhecimento de ofício; ausência de competência.
+Precedentes: STJ (HC n.º 245.731/MS; HC n.º 248.757/SP).
+- Mérito : pela denegação da ordem; excesso de prazo não caracterizado- Parecer pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem" (fl. 108).
+É o relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada:
+"O paciente é acusado pela suposta prática dos crimes previstos no art. 33, caput, c/c o art. 35, caput, ambos da Lei nº 11.343/06, c/c o art. 16, § 1º, inciso IV, da Lei nº 10.826/03, c/c o art. 69,do Código Penal.
+No tocante à alegação de ocorrência de excesso de prazo, há que se ressaltar que tal tese deve ser confrontada com um juízo de razoabilidade para definir quando haverá excesso de prazo na manutenção da prisão cautelar, tendo em vista não ser o discurso judicial mera soma aritmética.
+Nessa linha, para examinar o suposto excesso de prazo, imprescindível se faz levar em conta, sob a ótica do princípio da razoabilidade, a i) complexidade do feito, ii) o comportamento dos litigantes e iii) a atuação do Estado-Juiz.
+ ..
+No caso vertente, em consulta ao Sistema EJUD, verifica-se que, por ocasião da Audiência de Custódia, realizada em 06 de outubro de 2022, a prisão em flagrante fora convertida em prisão preventiva. Outrossim, ao contrário do que sustenta a Defesa, a denúncia fora recebida em 23de novembro de 2022, tendo sido designada audiência de instrução e julgamento para o dia 09/12/2024.
+Vislumbra-se, ainda, que o Juízo de primeiro grau regularmente analisa a necessidade da prisão preventiva, mostrando-se diligente na condução do feito.
+Desta feita, não obstante seja possível reconhecer que a instrução criminal não tenha se desenvolvido no tempo desejável, visto que a prisão perdura há 01 (um) ano e 03 (três) meses, oque é bastante considerável, tal lapso temporal não se revela excessivo, considerando as penas em abstrato previstas para os delitos, bem como o fato de que se trata de processo com 02 (dois)réus.
+Cabe registrar, ainda, que a maior parte do tempo da prisão preventiva ocorreu durante o período pós pandemia, destacando-se, então, as dificuldades inerentes àquele momento que repercutiram no tempo de duração da custódia cautelar para inúmeros outros presos, bem como redesignações de audiências.
+Além disso, constitui entendimento consolidado do Superior Tribunal de Justiça de que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+Assim, não se observa, no caso em testilha, desídia do Poder Judiciário na condução do caso, tendo em vista que o feito não permaneceu paralisado por considerável período de tempo, ou mesmo do órgão acusatório. Ademais, todos os pleitos da defesa foram analisados com celeridade, bem como a regularidade da prisão preventiva, na forma do art. 316, do Código de Processo Penal.
+Destaco, ainda, que, de acordo com as informações prestadas no Id. 6942655, o Juízo de primeiro grau possui competência cumulada de crimes de tráfico com os delitos dolosos contra avida (1ª e 2ª etapas do rito), destinando 04 (quatro) meses do ano para os julgamentos do Plenário do Júri, possuindo mais de 700 (setecentos) presos provisórios" (fls. 60-62).
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, na qual se apura as condutas de porte irregular de arma de fogo, tráfico de drogas e associação para o tráfico de drogas, demonstrando a complexidade do feito diante da diversidade de condutas e da pluralidade de pessoas envolvidas em práticas delitivas, 2 (dois) réus; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Sobre o tema:
+"In casu, verifica-se que não se constata flagrante ilegalidade por excesso de prazo na formação da culpa quando o processo segue regular tramitação. Extrai-se das informações prestadas pelas instâncias ordinárias, bem como do andamento processual da ação originária no site do Tribunal estadual, que a insatisfação da agravante com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculiaridades, considerando a complexidade do processo, no qual se apura a prática dos delitos de tráfico de drogas, associação ao tráfico de entorpecentes e posse de arma de fogo, com pluralidade réus - 4 -, representados por advogados distintos, demandando a realização de diversas diligências" (AgRg no RHC n. 174.284/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/5/2023).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
