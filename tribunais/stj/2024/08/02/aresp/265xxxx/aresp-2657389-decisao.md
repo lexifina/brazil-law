@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidentes as Súmulas ns. 7/STJ e, por analogia, 284/STF.
+O agravante foi preso em flagrante 31/7/2023 pela suposta prática do delito de tráfico de drogas, sendo determinado, pelo juízo de 1º grau, o trancamento do inquérito policial, em razão de sua custódia ter sido efetiva, sem fundadas razões, pela Guarda Municipal.
+Interposto recurso em sentido estrito pela acusação, foi provido "para homologar a prisão em flagrante do recorrido Edson Luís Alves Torres e convertê-la em prisão preventiva" (fl. 159).
+Manifestou-se o M.P.F. pelo desprovimento do agravo.
+Infirmada a motivação da decisão agravada, passa-se ao exame dos argumentos trazidos no recurso especial.
+No apelo nobre, interposto com fundamento na alínea "a" do permissivo constitucional, apontou a defesa violação dos arts. 301, 302, 303 e 619 do CPP, pugnando, ao final, pelo reconhecimento da "ilicitude da materialidade delitiva e a ilegalidade da prisão do Recorrente, pois derivada de diligência realizada pela guarda municipal, em atividade típica de patrulhamento ostensivo, em inequívoca usurpação de competência conferida constitucionalmente à polícia militar, restabelecendo-se, por consequência, a r. decisão proferida pelo MM. Juiz da Segunda Vara Criminal da Comarca de Bebedouro, que reconheceu a ilegalidade da prisão do Recorrente, relaxou o flagrante e trancou o inquérito policial, com expedição de alvará de soltura clausulado (fl. 180).
+O presente agravo não comporta conhecimento.
+Isso porque, na origem, proferiu-se sentença condenando o réu, ora recorrente, a 7 anos de reclusão, no regime fechado, e 700 dias-multa, nos termos do art. 33, caput, da Lei n. 11.343/2006, devendo a pretensão aqui trazida ser debatida previamente pelo Tribunal de local em grau de recurso, já interposto, conforme se vê do documento de fls. 253-254.
+""A prolação de sentença condenatória esvai a análise do pretendido reconhecimento de inépcia da denúncia. Isso porque, se, após toda a análise do conjunto fático-probatório amealhado aos autos ao longo da instrução criminal, já houve um pronunciamento sobre o próprio mérito da persecução penal (denotando, ipso facto, a plena aptidão da inicial acusatória), não há mais sentido em se analisar eventual ausência de aptidão da exordial acusatória" (REsp 1347610/RS, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 9/4/2018)." (AgRg no REsp n. 1.906.277/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021).
+Mutatis mutandis: " a  superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de prova, tendo em vista o disposto na Súmula n. 648/STJ, aplicável ao caso dos autos." (AgRg no HC n. 789.240/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
