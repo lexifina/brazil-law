@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando omissão na decisão embargada, conforme os seguintes trechos da petição:
+3. A decisão embargada é clara quando afirma, em seus fundamentos, que a condenação da Fazenda Pública, no caso de desistência da Execução Fiscal, após oposição de Embargos à Execução, abrange os ônus sucumbenciais, ou seja, honorários advocatícios e custas processuais.
+4. No entanto, na parte dispositiva, a decisão mostra-se omissa em relação à condenação da Fazenda Nacional ao reembolso das custas adiantadas pela Embargante, referindo-se apenas à fixação de honorários. Diante disso, é necessária a manifestação expressa dessa c. Corte em relação a esse ponto, sob pena de impossibilitar a futura execução do julgado.
+5. Não se trata de questão cuja apreciação pode ser postergada para depois da definição do Tema 1.255/STF, já que, como visto, a decisão embargada já examinou a matéria.
+6. Além disso, não é certo que o processo retornará a essa c. Corte para novo julgamento, considerando que não há nos autos Recurso Especial que trate do tema objeto da Repercussão Geral. Caso o Tribunal de origem siga a orientação do STF sobre a fixação dos honorários, os autos não retornarão ao STJ, transitando em julgado sem o esclarecimento necessário quanto ao reembolso das custas processuais.
+É o relatório. Decido.
+Assiste razão à Contribuinte sobre a ocorrência de omissão.
+De fato, a recorrente em seu Recurso Especial às fl. 821-840 requereu a condenação da Fazenda Estadual "ao pagamento dos ônus sucumbenciais no caso (restituição das custas despendidas pela Recorrente e honorários sucumbenciais), por força da aplicação do princípio da causalidade", e o dispositivo da decisão de fls. 947-949, ao dar provimento ao recurso, não fez constar o pormenor atinente ao reembolso das custas adiantadas, referindo-se exclusivamente aos honorários advocatícios embora, na fundamentação, se faça referência à obrigação atinente à integralidade dos ônus sucumbenciais.
+Desse modo, impõe-se o acolhimento dos embargos de declaração, a fim de que o dispositivo da decisão passe a constar com seguinte redação: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial do particular para atribuir a integralidade dos ônus sucumbenciais - ai abrangidas as custas, despesas processuais e honorários adocatícios - ao recorrido (ESTADO DE GOIAS) e determinar o retorno dos autos ao Tribunal a quo para proceder a fixação de honorários advocatícios. (..)"
+Ante o exposto, acolho os embargos de declaração para integrar a decisão embargada, mantendo-a inalterada no ponto seguinte quanto à necessidade de sobrestamento no Tribunal de origem para que observe o que será decidido no recurso extraordinário representativo da controvérsia, tema 1255.
+Em atenção ao art. 1.024, § 4º do CPC, determino a abertura de prazo para que o Estado de Goiás complemente ou altere as razões do agravo interno interposto contra a decisão originária, nos exatos limites da modificação, no prazo de 15 (quinze) dias, contado da intimação da decisão dos embargos de declaração.
+Após, retornem os autos para julgamento do agravo interno de fls. 976-992.
+Publique-se. Intimem-se.
+EMENTA
