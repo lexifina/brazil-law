@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO. APOSENTADORIA ESPECIAL. AGENTE NOCIVO. ELETRICIDADE. VERBA HONORÁRIA. LIQUIDAÇÃO DO JULGADO.
+1. Recurso de apelação interposto pelo INSS em face da sentença que reconheceu a especialidade do período laborado pelo demandante e julgou procedente o pedido para condenar o INSS a conceder à parte autora o benefício de aposentadoria especial.
+2. O direito relativo à aposentadoria com contagem de tempo especial encontra-se previsto no art. 201,§ 1º da Constituição Federal e disciplinado, especificamente, nos artigos 57 e 58 da Lei 8.213/91, sendo importante ressaltar que, consoante orientação jurisprudencial, o reconhecimento da natureza especial da atividade desempenhada se dá de acordo com a legislação da época em que o serviço foi prestado, exigindo-se para tal modalidade de aposentadoria os requisitos da carência (art. 25 da Lei 8.213/91) edo tempo de serviço/contribuição reduzido para 15, 20 ou 25 anos, conforme a atividade.
+3. O ponto controvertido, todavia, consiste na possibilidade de reconhecimento de atividade especial com base na constatação de periculosidade após 06/03/1997. Embora os Decretos nº 83.080/79, nº2.172/97 e nº 3.048/99 não apresentem previsão semelhante no que tange ao agente nocivo eletricidade para o reconhecimento de atividade laborada sob condições especiais, a exposição do segurado a esse fator de periculosidade deve ser considerada para fins de contagem do período especial, na esteira da jurisprudência predominante.
+4. Quanto ao mérito, forte no entendimento jurisprudencial consolidado no sentido de que não se constitui em ofensa ao artigo 93, IX, da CRFB, o Relator do processo acolher como razões de decidir os fundamentos da sentença ou do parecer ministerial - motivação "per relationem", desde que comportem a análise de toda a matéria objeto do recurso, ficam adotados os fundamentos postos na sentença proferida nos autos de origem.
+5. Requisitos para a concessão do benefício de aposentadoria especial preenchidos pela parte autora, em razão de ter laborado sob condições especiais (eletricidade).
+6. No que tange aos honorários advocatícios, uma vez ilíquida a sentença, esses devem ser fixados quando da liquidação do julgado, nos termos do artigo 85, § 4º, II, do CPC/2015, com majoração dos honorários em 1% (um por cento), com base no art. 85, § 11, do CPC.
+7. Apelação do INSS conhecida e desprovida. Pequena correção de ofício no julgado de primeiro grau, no tocante à fixação da verba honorária.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial fundamentado na alínea "a" do permissivo constitucional, o recorrente alega violação aos artigos 57, §§3º e 4º e 58, caput, §1º da Lei nº 8.213/91; 1022, II, do CPC/2015.
+Aponta negativa de prestação jurisdicional.
+Aduz que "o v. acórdão ao reconhecer tempo especial em face de exposição a eletricidade, por entender a atividade como de risco (periculosidade), pós advento da Lei 9.528/1997, viola de forma direta ao preceito do art. 58, caput e §1º da Lei 8.213/1991 porque periculosidade não está abrangida pelos critérios legitimamente fixados pelo legislador infraconstitucional, motivo pelo qual é totalmente impertinente aplicar Perfil Profissiográfico Profissional à atividade de risco, sem nocividade à saúde ou perquirir a respeito de tecnologia que reduza ou neutralize a exposição ao agente químico, físico e biológico a limites aceitáveis de tolerância.".
+Foram apresentadas contrarrazões.
+É o relatório, decido.
+Depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou de todas as questões suscitadas, resolvendo de modo integral a controvérsia posta em debate.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.740.348/RS, SEGUNDA TURMA, Relator Ministro Herman Benjamin, DJe 22/11/2018)
+A alegada violação ao artigo 1022 do CPC/2015, portanto, não merece ser acolhida.
+Ademais, o Tribunal de origem, à vista do conjunto probatório, concluiu enquadrados como especiais os lapsos requeridos, bem como afirmou que a exposição aos agentes nocivos foi aferida de acordo com a legislação e normas técnicas aplicáveis.
+Desse modo, para rever tal entendimento, necessária a incursão no acervo fático-probatório dos autos, o que é vedado ante o óbice da Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, I e II, do RISTJ, bem como na Súmula 568/STJ, nego provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO NÃO CONFIGURADA. APOSENTADORIA. ATIVIDADE ESPECIAL. EXPOSIÇÃO EFETIVA A AGENTES NOCIVOS AFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
