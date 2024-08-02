@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA MARISTELA MANNRICH e MIUDINHO CONFECÇÕES LTDA., com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 573):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. CONTRATOS DE DESCONTO DE CHEQUES, DESCONTO DE DUPLICADAS E CONTA GARANTIDA. SENTENÇA DE PARCIAL PROCEDÊNCIADOS PEDIDOS. INSURGÊNCIA DE AMBAS AS PARTES.
+RECURSO COMUM ÀS PARTES.
+JUROS REMUNERATÓRIOS. UTILIZAÇÃO DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN COMO REFERENCIAL PARA A CONSTATAÇÃO DA ABUSIVIDADE. SÚMULA 296 ERESP REPETITIVO Nº 1.061.530/RS, AMBOS DO STJ. ENUNCIADOS I E IV DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DESTE E. TRIBUNAL DE JUSTIÇA. QUANTO AOS CONTRATOS N. 005178405, 2011004394814, 2011005752960, 2011010394359E 2011010969042 PERCENTUAIS PACTUADOS ACIMA DA MÉDIA DE MERCADO. ABUSIVIDADE EVIDENCIADA.
+ALEGAÇÃO PELA PARTE AUTORA DE QUE A TAXA COBRADA NOS CONTRATOS N. 2011001241948 E 2011001405236 SÃO SUPERIORES À PACTUADA. SITUAÇÃO NÃO DEMONSTRADA. PERCENTUAL CONTRATADO ABAIXO DA DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN. ABUSIVIDADE NÃO CONSTATADA. RECURSO DESPROVIDO NO PONTO.
+CONTRATO N. 201000829271300006 NÃO APRESENTADO NOS AUTOS. HIPÓTESE EM QUEOS JUROS REMUNERATÓRIOS DEVEM SER LIMITADOS À TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN, SALVO SE AQUELA COBRADA FOR MAIS BENÉFICA AO CONSUMIDOR. SÚMULA N. 530 DO STJ E RECURSO REPRESENTATIVO DE CONTROVÉRSIA N. 1.112.879/PR.
+RECURSO DA PARTE AUTORA.
+CAPITALIZAÇÃO MENSAL DE JUROS. ENCARGO PERMITIDO NOS CONTRATOS FIRMADOS APARTIR DE 31/3/2000, DESDE QUE EXPRESSAMENTE PACTUADO. SÚMULA 539 DOSUPERIOR TRIBUNAL DE JUSTIÇA. TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DATAXA MENSAL. EXPRESSÃO NUMÉRICA QUE É SUFICIENTE PARA PERMITIR A INCIDÊNCIADO ENCARGO. OBSERVÂNCIA DO ENTENDIMENTO EXPRESSADO NO RESP REPETITIVO Nº 973.827/RS E NA SÚMULA 541, AMBOS DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+CAPITALIZAÇÃO REFERENTE AO CONTRATO NÃO JUNTADO. INCIDÊNCIA VEDADA EMRAZÃO DA NÃO EXIBIÇÃO DO PACTO. IMPOSSIBILIDADE DE CONSTATAR A EXPRESSA PACTUAÇÃO DO ENCARGO, O QUE INVIABILIZA A SUA COBRANÇA EM QUALQUER PERIODICIDADE.
+MORA CARACTERIZADA. INADIMPLEMENTO DAS OBRIGAÇÕES E AUSÊNCIA DE DEPÓSITODO VALOR INCONTROVERSO DA DÍVIDA. SÚMULA 66 DO GRUPO DE CÂMARAS DEDIREITO COMERCIAL.
+RECURSO DA INSTITUIÇÃO FINANCEIRA.
+TARIFAS ADMINISTRATIVAS PARA ABERTURA DE CRÉDITO (TAC) E EMISSÃO DE CARNÊ(TEC). TAC. CONTRATOS CELEBRADOS APÓS A DATA DE 30/4/08, INÍCIO DA VIGÊNCIA DA RESOLUÇÃO Nº 3.518/2007 DO CMN. COBRANÇA ILEGÍTIMA. ENTENDIMENTO PREVISTONO RESP Nº 1.251.331/RS. TEC. NÃO CONTRATAÇÃO E COBRANÇA NÃO DEMONSTRADA. AUSÊNCIA DE INTERESSE PROCESSUAL. SENTENÇA MANTIDA.
+HONORÁRIOS RECURSAIS. CABIMENTO.
+RECURSOS CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 624-626).
+Nas razões do recurso especial, alegam os recorrentes, preliminarmente, ofensa aos arts. 1.022, II, 1.013, § 1º, 11 e 489, § 1º, IV do CPC, porquanto o Tribunal não se pronunciou sobre as omissões apontadas e necessárias para o deslinde da controvérsia.
+No mérito, apontam violação dos arts. 396 e 591 do Código Civil, e art. 51, IV, § 1º, III do CDC, sob alegação de que a mora deve ser afastada, uma vez que reconhecido pela Corte de origem a abusividade da taxa dos juros remuneratórios em razão da prática acima da média de mercado.
+Contrarrazões ao recurso especial apresentadas às fls. 682-692.
+Em juízo de retratação, o Tribunal manteve o acórdão (fls. 716-720), sob o fundamento de que a cobrança abusiva de encargos no período da normalidade contratual (juros remuneratórios e capitalização) não basta para a descaracterização da mora quando não efetuado o depósito da parte incontroversa do débito.
+Sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 736-737).
+É, no essencial, o relatório.
+Na origem, cuida-se de ação revisional de contrato movida pela empresa MIUDINHO CONFECÇÕES LTDA. - ME e Maria Maristela Mannrich contra do Banco Bradesco S.A. A sentença julgou procedente em parte o pedido (fls. 463-474). Sobreveio apelação, que restou improvida, nos termos da ementa acima transcrita.
+Com razão os recorrentes.
+A Segunda Seção do STJ, no Recurso Especial n. 1.061.530/RS, processado nos termos do art. 543-C do CPC/1973, decidiu que a cobrança de encargos abusivos exigidos no período da normalidade contratual - juros remuneratórios e capitalização - descaracteriza a mora na medida em que dificulta o pagamento, causando impontualidade.
+Ao julgar o caso, as instâncias de origem reconheceram a abusividade dos encargos contratuais. Entretanto, a mora do devedor não foi afastada porque ausente o depósito prévio do valor incontroverso. Nesses termos, confira-se o seguinte trecho do acórdão (fls. 580-:
+Configuração da mora
+A parte autora defende, ainda, ser necessária a descaracterização da mora, uma vez que reconhecida a cobrança abusiva de encargos contratuais.
+O entendimento do Superior Tribunal de Justiça é no sentido de que a mora do devedor é descaracterizada quando ocorre a cobrança de encargo abusivo típico do período da normalidade contratual (juros remuneratórios e capitalização dos juros). Nessa perspectiva:
+DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DECONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONFIGURAÇÃO DA MORA. JUROS MORATÓRIOS. INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DEINADIMPLENTES. DISPOSIÇÕES DE OFÍCIO. DELIMITAÇÃO DO JULGAMENTO
+ ..
+I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE.
+ ..
+ORIENTAÇÃO 2 - CONFIGURAÇÃO DA MORA a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora; b)Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.  ..  (REsp n. 1.061.530/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em22/10/2008, DJe de 10/3/2009.)
+Contudo, na Câmara se sobrepõe o entendimento de que "a mora não fica descaracterizada se, no caso, apesar da cobrança de encargo abusivo no período da normalidade (juros remuneratórios em taxa muito superior à média de mercado), o adimplemento substancial da obrigação nunca foi demonstrado e, tampouco, houve o depósito em juízo dos valores incontroversos ou a oferta de caução idônea"(TJSC, Apelação n. 5005151-61.2021.8.24.0039, do Tribunal de Justiça de Santa Catarina, rel. Jânio Machado, Quinta Câmara de Direito Comercial, j. 24-03-2022).
+(..)
+Ademais, o Grupo de Câmaras de Direito Comercial deste e. Tribunal de Justiça, recentemente, editou a Súmula 66 que orienta "A cobrança abusiva de encargos no período da normalidade contratual (juros remuneratórios e capitalização) não basta para a descaracterização da mora quando não efetuado o depósito da parte incontroversa do débito".
+No caso concreto, não foi efetuado o depósito da parte incontroversa do débito, de modoque a mora contratual resulta caracterizada.
+Logo, não merece reparo a sentença.
+Dessa forma o entendimento do acórdão recorrido está contrário à jurisprudência do STJ, considerando que houve o reconhecimento da abusividade dos juros remuneratórios para o contrato em revisão, encargo essencial ao contrato de financiamento bancário, razão pela qual deve ser o recurso especial acolhido, neste ponto, para descaracterizar a mora.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONCLUSÃO NO SENTIDO DA ABUSIVIDADE DA TAXA DE JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA APURADA PELO BACEN. SÚMULA 7/STJ. INVIABILIDADE DE DESCARACTERIZAÇÃO DA MORA. SÚMULA 83/STJ. POSSIBILIDADE DE RESTITUIÇÃO/COMPENSAÇÃO DE VALORES. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Analisando o acervo fático-probatório e os termos do contrato objeto de revisão, a segunda instância entendeu que as taxas de juros remuneratórios seriam abusivas, logo seria caso de limitação em respeito ao regramento protetivo do CDC. Nesse cenário, o aresto concluiu que a limitação desses juros à taxa média apurada pelo Bacen para o momento da contratação afastaria o montante excessivo.
+Aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+2. Consoante orientação deste Tribunal Superior, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil" (AgInt no AREsp n. 2.236.067/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023).
+3. Constatada a abusividade de encargos durante o período de normalidade contratual, como se verificou, a descaracterização da mora estipulada pela segunda instância respeitou a jurisprudência desta Corte Superior - Súmula 83/STJ.
+4. O Tribunal de origem entendeu pela viabilidade de restituição de indébito ou compensação de valores, tendo em vista a ocorrência de abusividade contratual e pagamento a maior, em decorrência da limitação dos juros. Óbices das Súmulas 5 e 7/STJ.
+5. O confronto entre o acórdão estadual e o teor do recurso especial evidencia que a insurgente reivindica, com suas teses recursais, a reanálise de fatos, provas ou do conteúdo da avença, e não sua mera qualificação jurídica. Portanto, não há mesmo espaço para a concessão do pleito recursal.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.081.141/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA. SÚMULAS 5 E 7/STJ. MORA. DESCARACTERIZADA. SÚMULA 83 DO STJ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem. Agravo (art. 1.042 do CPC/15) conhecido em juízo de retratação.
+2. Conforme decidido por esta Corte, "a perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos" (REsp 1061530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009).
+3. No caso dos autos, o Tribunal de origem entendeu, quanto aos juros remuneratórios, que houve abusividade em sua cobrança. Rever essa conclusão demandaria reexame de provas e interpretação de cláusulas contratuais, providências vedadas nos termos das Súmulas 5 e 7/STJ.
+4. A Segunda Seção do STJ definiu o entendimento, em sede de repetitivo, de que "o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora" (REsp 1061530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009).
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial
+(AgInt no AREsp n. 1.983.007/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+No mesmo sentido, as seguintes decisões monocráticas: REsp n. 2133340, relator Ministro João Otávio de Noronha, DJ de 18.8.2024; REsp n. 2128698, relator Ministro Marco Aurélio Bellizze, DJ de 4.4.2024; REsp n. 2133959, relator Ministro Marco Buzzi, DJ de 2.5.2024.
+A nte o exposto, conheço do recurso especial e dou-lhe provimento, nos termos da fundamentação .
+Publique-se. Intimem-se.
+EMENTA
