@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de RAFAEL VINICIUS CASIMIRO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 202-214).
+No presente recurso, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Recorrente, apontando ausência de fundamentação para a prisão cautelar.
+Aduz que:
+"o PACIENTE sofre de esquizofrenia paranoide, condição medica que será ainda mais agravada se ele permanecer em cárcere, sabendo ser inocente, pois foi até o local, unicamente para comprar drogas para si. Esse fato se comprova por ele não ter corrido, e também não ser capturado pelos policiais no local de venda de drogas, sendo de rigor que lhe seja deferido a prisão domiciliar. " (fl. 230).
+Requer a revogação da prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 254-255.
+Informações prestadas, às fls. 260-262. O Ministério Público Federal em parecer, às fls. 266-270, opinou pelo desprovimento do recurso ordinário em habeas corpus:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. PORTADOR DE DOENÇA. PRISÃO DOMICILIAR.
+- Inviável, nesta via, exame do conjunto de provas acerca da conduta em tese praticada.
+- Prisão preventiva que observa os requisitos previstos no art.312 do CPP, fundamentada na necessidade de se acautelar a ordem pública, tendo em vista a reiteração em crimes de tráfico de drogas e de associação para o tráfico.
+- Insuficiência das medidas cautelares alternativas à prisão, previstas no art. 319 do CPP. Nova prática delitiva em gozo de liberdade provisória concedida em autos que apuram crimes de mesma natureza.
+- Recorrente portador de esquizofrenia paranoide, mas com bom estado geral de saúde, recebendo tratamento e acompanhamento adequados no estabelecimento prisional. O quadro atual delineado nos autos não conduz à concessão de prisão domiciliar.
+Pelo não provimento" (fl. 266).
+É o relatório. DECIDO.
+In casu, a prisão preventiva foi decretada, em decisão devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, diante da gravidade concreta da conduta e do risco de reiteração criminosa.
+No ponto, consta no acórdão hostilizado:
+"5. Ademais, não se pode maldizer ordem de recolhimento preventivo dirigida a pessoa que: i) trazia consigo 26 porções de cocaína(cf. Auto de Exibição e Apreensão a fls. 53/4 e laudo de constatação a fls. 55/6, ambas dos autos principais);ii) estaria mancomunada com indivíduos que possuíam outras 650 porções do mesmo estupefaciente(idem); iii) estava, ao tempo do fato sob exame, em gozo de liberdade provisória que lhe fora concedida em junho de 2022 no âmbito do processo-crime nº 1501058-40.2022.8.26.0568, no qual também lhe é imputada a prática de tráfico de drogas e de associação para o mesmo fim (fls. 102, ibidem).
+As transgressões novamente atribuídas ao increpado são demolidoras da integridade moral e mental de seus desditosos alvos; submetem progressivamente os incautos ao cativeiro existencial do vício morfético e ao mais deletério ócio, porque os vitimados por essa chaga praticamente conduzem sua vida produtiva ao epílogo" (fl. 213).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar.
+Sobre o tema:
+"São f undamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Quanto ao pleito de imposição de prisão domiciliar ao Recorrente, em razão de se encontrar com a saúde debilitada, não verifico flagrante ilegalidade a ser sanada pela presente via, pois não restou demonstrada a impossibilidade de o estabelecimento prisional dispensar, ao ora Recorrente, os cuidados necessários:
+"6. Por fim, o documento médico anexado a fls. 27/8 realmente dá conta de que o suplicante fora diagnosticado com" Esquizofrenia Paranoide", sendo-lhe proposto "tratamento medicamentoso".
+Entretanto, além de inexistirem indicativos de que seja periclitante a condição de saúde de Rafael Vinicius, é de se ponderar que o indigitado vem sendo devidamente acompanhado, no estabelecimento prisional em que está custodiado, "por equipe multiprofissional" e pelo "CAPS AD São João da Boa Vista", apresentando "bom estado geral" (cf. relatório de fls.191/2).
+A Secretariade AdministraçãoPenitenciária, até onde sabemos todos, dispõe de meios parazelar por aqueles inseridos transitoriamente em sua rede" (fls. 213-214).
+Nesse sentido:
+"3. Com efeito, nos termos do art. 318, II, do Código de Processo Penal, a prisão domiciliar poderá ser concedida quando o acusado ou o indiciado estiver "extremamente debilitado por motivo de doença grave". Na mesma direção, o parágrafo único do referido dispositivo determina que seja apresentada prova idônea da situação. Desse modo, não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional. Precedentes. - No presente caso, não restou comprovado que o agravante não possa receber no estabelecimento prisional em que se encontra, os cuidados necessários para sua saúde" (AgRg no RHC n. 194.892/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
