@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interposto por APARECIDA CANDELARIA PENA FERREIRA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 490):
+Usucapião extraordinária. Sentença de procedência. Constatados os requisitos legais. Apelada exerce a posse sobre o imóvel, como se fossem dona, há mais de 15 anos, de forma ininterrupta, mansa e pacífica, sem nenhuma oposição. Hipótese que dispensa a existência de título e boa-fé. Inteligência do art. 1238 do CC.
+Recurso desprovido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 108, 114, 1.205, I, 1.206 e 1.793 do Código Civil, sustentando que "ao pactuar instrumento de cessão (fls. 246/248) da posse e dos direitos reais hereditários a cedente que expressamente renunciou, transmitiu, modificou e pactuou sobre o imóvel usucapido com a cessionária, não pode se valer do direito de aquisição do próprio imóvel que cedeu pela usucapião, sob violação do negócio jurídico vigente e os bens reais disponíveis" (fl. 508).
+Oferecidas contrarrazões (fls. 518-524), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 525-526), o que ensejou a interposição do presente agravo (fls. 529-534).
+Apresentadas contraminutas do agravo (fls. 537-540).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que a usucapião extraordinária está configurada, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fl. 493):
+A sentença recorrida reconheceu a usucapião extraordinária, para qual bastava a prova da posse, ininterrupta, sem oposição, por pelo menos 15 anos, inexistindo a necessidade de título e boa-fé, conforme se depreende do artigo1.238 do Código Civil ("Aquele que, por quinze anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé; podendo requerer ao juiz que assim o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis").
+E os elementos presentes nos autos permitem concluir que a apelada exerce a posse sobre o imóvel em questão, de forma mansa, pacífica e ininterrupta, como se fosse dona, há mais de 15 anos. Aliás, além de não ter sido impugnado o exercício da posse em si, mas apenas sua natureza, não há nenhum indício de que ocorreu algum tipo de oposição, cuja prova obviamente cabia à apelante, por se tratar de fato impeditivo da prescrição aquisitiva, conforme disposto no artigo 373, II do Código de Processo Civil.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. USUCAPIÃO EXTRAORDINÁRIA CONFIGURADA. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
