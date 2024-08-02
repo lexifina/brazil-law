@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 39):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INFORMAÇÕES SOBRE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. ORDEM JUDICIAL AUTORIZADORA. EXPEDIÇÃO DE OFÍCIO JUDICIAL. DESCABIMENTO.
+Descabível a expedição de ofício ao credor fiduciário, para que venham aos autos informações acerca de contrato de alienação fiduciária de bem em nome da parte executada, quando já houver ordem judicial autorizando que o próprio exequente tenha acesso às informações.
+Os embargos de declaração opostos foram rejeitados (fls. 54/56).
+Em suas razões recursais, a parte recorrente alega violação do art. 1.022, II, do Código de Processo Civil (CPC), visto que o Tribunal de origem não sanou os vícios indicados nos embargos de declaração.
+Sustenta que o acórdão de origem infringiu os arts. 797, 829, § 2º, 831, 835 e 854 do CPC, os arts. 10 e 11 da Lei 6.830/1980 e os arts. 1º e 3º da Lei Complementar 105/2001, ao argumento de que a execução deve ser realizada no interesse do credor, sendo cabível o auxílio judicial quando demonstrada a impossibilidade de o exequente obter informações sobre o contrato de alienação fiduciária, sendo esse passível de ser objeto de penhora.
+Não foram apresentadas contrarrazões (fl. 85).
+O recurso foi admitido na origem (fl.86).
+É o relatório.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Relativamente ao pedido de expedição de ofício à instituição financeira para obtenção de informações sobre o contrato de alienação fiduciária de automóvel envolvendo o executado, o Tribunal de origem se manifestou nestes termos:
+É ônus da parte exequente empreender diligências na busca da satisfação de seu crédito, sendo-lhe garantida a alternativa de auxílio judicial nas hipóteses em que evidenciada a impossibilidade de obtenção de informações acerca dos bens que integram o patrimônio do executado ,mormente quando tais informações encontram-se resguardadas pelo sigilo (art.5º, XII, da CF).
+No caso, a r. decisão agravada expressamente autorizou que o próprio exequente tenha acesso às informações, de maneira que não há necessidade que a Secretaria judicial empreenda as diligências que são de interesse exclusivo do credor e que podem ser por este diretamente obtidas.
+Havendo ordem judicial, as diligências acerca de informações sobre o contrato de alienação fiduciária podem ser efetuadas pelo próprio credor, sem necessidade de nova intervenção judicial.
+No caso em questão, o Tribunal de origem consignou que a decisão proferida pelo Juízo de primeira instância autorizou a própria exequente a buscar informações junto à instituição financeira, e a parte recorrente não demonstrou, na hipótese dos autos, a negativa de acesso às informações pela instituição financeira.
+A peça recursal, todavia, não se insurge contra aqueles fundamentos, limitando-se a afirmar que (a) é possível a penhora de créditos oriundos de contrato de alienação fiduciária; e (b) não se pode negar ao credor acesso às informações sobre contrato de alienação fiduciária em razão de sigilo bancário.
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, o Tribunal de origem afirmou que o exequente não demonstrou a impossibilidade de obtenção das informações. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito as seguintes decisões monocráticas deste Tribunal: REsp 2.091.491/PR, relatora Ministra Regina Helena Costa, DJe 17/8/2023; REsp 2.063.867/RS, relator Ministro Mauro Campbell Marques, DJe 3/5/2023, REsp 2.055.729/PR, relator Ministro Gurgel de Faria, DJe 31/3/2023.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
