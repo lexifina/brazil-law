@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de FELIPE APARECIDO DE OLIVEIRA VIEIRA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática das condutas de estelionato qualificado e associação criminosa. Irresignada, a Defesa impetrou habeas corpus perante o tribunal de origem. A ordem foi denegada pela Corte local, em acórdão de fls. 16-31, assim ementado:
+"Habeas Corpus -Estelionato e associação criminosa- Materialidade comprovada e existência de indícios suficientes de autoria- Prisão preventiva que se justifica, ante a presença dos requisitos previstos no artigo312, do Código de Processo Penal- Substituição da custódia por medidas cautelares diversas da prisão que se mostram inviável na espécie, pois não afastam o periculum libertatis -Inexistência de coação ilegal -Ordem denegada." (fl. 17)
+No presente writ, a Defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente, aduzindo ausência de fundamentação para a segregação cautelar.
+Argumenta que:
+"  ..  o paciente está detido, por um suposto crime sem violência ou grave ameaça e que no final poderá ser proposto um Acordo de Não persecução Penal, podendo responder ao processo em liberdade  ..  Associação Criminosa voltada para a prática de fraudes em desfavor da empresa vítima (ENEL), onde, com favorecimento e participação de funcionários, alteram dados cadastrais de forma fraudulenta, trocando a titularidade de instalações sem o devido pagamento de dívidas pré-existentes. Relato ainda que a investigação está desde 05.09.2023, sem sequer o paciente ter sido chamado, sendo que sua prisão é totalmente desnecessária. Consta que estabelecimentos comerciais faziam pagamentos diretamente na conta de Felipe, mesma situação das investigadas que estão soltas. O paciente NÃO vai atrapalhar em absolutamente nada no caso em tela, e se compromete a ir até a audiência com as suas pernas.  ..  " (fls. 4-5).
+Requer a revogação da segregação cautelar ou a substituição da prisão por medidas cautelares alternativas.
+Liminar deferida, às fls. 664-667.
+O Ministério Público Federal, às fls. 691-698, em parecer, manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem com a revogação da liminar., assim ementado:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUSIMPETRADO COMO SUCEDÂNEO DE RECURSOPRÓPRIO. INADEQUAÇÃO. PACIENTE ACUSADO DEINTEGRAR ORGANIZAÇÃO CRIMINOSAESTRUTURADA E COM DIVISÃO DE TAREFA QUEVEM HÁ ANOS FRAUDANDO CONSUMIDORES E AEMPRESA ENEL. FRAUDES QUE SUPERAM 500 MILREAIS. GRAVIDADE EM CONCRETO DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA EXPLÍCITO. MEDIDAS CAUTELARES INSUFICIENTES.
+1. "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe 20/2/2009)-
+2. Parecer pelo não conhecimento do writ e, se conhecido, pela denegação da ordem com a revogação da liminar."
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SP-, na data de hoje, foi proferida decisão, em 25/04/2024, substituindo a prisão preventiva do Paciente por medidas cautelares:
+"O STJ substituiu a prisão preventiva do réu FELIPE por medidas cautelares diversas previstas no art. 319 do CPP, a serem fixadas por este Juízo. Assim, fixo as seguintes medidas cautelares: (a) proibição de ausentar-se da Comarca sem prévia autorização judicial; (b) comparecimento mensal em Juízo para justificar suas atividades; (c) comparecimento a todos os atos do processo; e (d) não mudar de domicílio, sem prévia comunicação do juízo, sob pena de revogação do benefício. Expeça-se alvará de soltura clausulado, lavrando-se termos de advertência e registrando-se o endereço do réu"
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
