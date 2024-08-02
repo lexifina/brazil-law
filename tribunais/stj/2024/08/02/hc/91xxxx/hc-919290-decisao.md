@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MICHARLE JOSE DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado do Espírito Santo.
+Depreende-se dos autos que o paciente foi condenado à pena de 6 anos e 5 meses de reclusão, em regime fechado, e pagamento de 640 dias-multa, pelo delito descrito no art. 33, caput, da Lei n. 11.343/06.
+Irresignada, a defesa interpôs apelação criminal à Corte de origem, que deu parcial provimento tão somente para reduzir a pena do paciente para 6 anos e 2 meses de reclusão, nos termos da seguinte ementa (fl. 38):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS ARTIGO 33 DA LEI 11.343/2006 - AUSÊNCIA DE NULIDADE NA PROVA OBTIDA ATRAVÉS DE BUSCA PESSOAL - FUNDADA SUSPEITA - REDUÇÃO DA PENA-BASE - AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA NA NEGATIVAÇÃO DA CULPABILIDADE - APELO PARCIALMENTE PROVIDO
+1) A prova produzida indicou a presença da justa causa para a realização da busca pessoal, que foi realizada nos moldes do art. 240, §2º, do CPP, sendo ela precedida de informações do serviço de inteligência da Polícia Militar que indicou as características exatas do acusado, o qual foi abordado dentro de ônibus e estava na posse de entorpecentes.
+2) A fundamentação utilizada no desvalor da culpabilidade não atende ao requisito constitucional previsto no inc. IX, do art. 93 da CF, já que foram utilizados elementos vagos e genéricos.
+3) A significativa quantidade e variedade de entorpecente apreendido impõe o afastamento da pena-base do mínimo legal, considerando que as circunstâncias judiciais específicas previstas no art. 42 da Lei de Drogas preponderam sobre as circunstâncias judiciais genéricas previstas no art. 59, do CPB.
+4) Apelo parcialmente provido.
+No presente writ, a impetrante sustenta, em síntese, ilegalidade na terceira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06.
+Aduz que que a benesse "não pode ser afastada com fundamento em investigações ou processos criminais em andamento, mesmo que em fase recursal." (fl. 6).
+Pleiteia, ao final, a concessão da ordem, para reconhecer o tráfico privilegiado no patamar máximo.
+Não houve pedido liminar.
+Após as informações prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+Em sentença, o juízo de origem não reconheceu a causa de diminuição nos seguintes termos (fl. 22):
+Não se aplica ao acusado a causa de diminuição da pena prevista no § 4 do artigo 33 da Lei n. 11.343/2006.
+Importante ressaltar que o privilégio instituído pela nova Lei de Tóxicos somente deve beneficiar o traficante eventual ou ocasional, um mero debutante na prática delituosa, caso seja primário, ostente bons antecedentes, não se dedique às atividades delituosas nem integre organização criminosa.
+No caso dos autos, além de responder a outras ações penais o acusado já possui condenação nos autos de no 0002252-37.2017.8.08.0048 o que evidencia se dedicar à atividade criminosa.
+Sobre o tema, assim constou no acórdão (fl. 39):
+Não militam atenuantes, presente a agravante da reincidência, devendo a pena ser aumentada na fração de 1/6 (um sexto), resultando em uma pena definitiva de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, à míngua de causas de diminuição ou aumento.
+Nos termos da orientação jurisprudencial da Terceira Seção do STJ, reafirmada no julgamento do REsp n. 1.887.511, de relatoria do Ministro João Otávio de Noronha, julgado na sessão de 9/6/2021, "O tráfico privilegiado é instituto criado para beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual", não sendo, porém, a hipótese dos autos.
+Vê-se, na espécie, que a minorante foi afastada com fundamento na reincidência do paciente, ficando consignado que "o acusado já possui condenação nos autos de no 0002252-37.2017.8.08.0048", o que impede a aplicação da benesse. Nesse sentido, cito os seguintes julgados desta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ADMISSÃO DE POSSE DO ENTORPECENTE APENAS PARA USO PESSOAL. ATENUANTE DA CONFISSÃO. NÃO CABIMENTO. SÚMULA N. 630/STJ. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. RÉU REINCIDENTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Tal como delineado no decisum combatido, a jurisprudência desta Corte Superior é firme em consignar a inaplicabilidade da atenuante da confissão nos casos em que o acusado de praticar tráfico de drogas admite a posse do entorpecente, mas aduz que se destinava ao consumo próprio, posicionamento que foi consolidado na Súmula n. 630 do STJ." (AgRg no AREsp 1484774/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/8/2019, DJe 13/8/2019, grifei.) 2. Quanto à incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+3. Não há constrangimento ilegal na negativa da benesse pelo Tribunal de origem, pois, conforme entendimento desta Corte, "a reincidência impede a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, porquanto um dos requisitos legais para a sua incidência é a primariedade do acusado" (HC n. 360.200/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/9/2016, DJe 6/9/2016).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 771.016/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)  gn .
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ARTS. 33, CAPUT, DA LEI N. 11.343/2006 E 16, CAPUT E §1.º, INCISO IV, DA LEI N. 10.826/2003. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. COMPETÊNCIA DESTA CORTE SUPERIOR NÃO INAUGURADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE A SER RECONHECIDA NA HIPÓTESE. DOSIMETRIA . MAUS ANTECEDENTES. DIREITO AO ESQUECIMENTO. SUPRESSÃO DE INSTÂNCIA. RÉU REINCIDENTE. FUNDAMENTO SUFICIENTE, POR SI SÓ, PARA O AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus foi impetrado contra acórdão já transitado em julgado . Verifica-se, assim, a inadmissibilidade do writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior (art. 105, inciso I, alínea e, da Constituição da República). Precedentes.
+2. Não há, no caso, como reconhecer manifesta ilegalidade apta a ensejar a concessão de habeas corpus, de ofício, pois a tese a respeito da aplicação do direito ao esquecimento aos maus antecedentes do Réu não foi apreciada pelo Tribunal a quo, razão pela qual mostra-se incabível o exame do tema, de forma originária, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+3. De outra parte, verifica-se que consta fundamento diverso dos maus antecedentes do Apenado suficiente, por si só, para o afastamento da minorante do tráfico privilegiado, "tendo em vista que a reincidência, mesmo genérica, impede a sua incidência" (AgRg no HC n. 811.751/SP, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 879.253/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 21/3/2024.)  gn .
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DO CRIME PARA A CONDUTA PREVISTA NO ART. 28 DA LEI 11.343/2006. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. DOSIMETRIA. PENA-BASE. PATAMAR DE 1/6 DEVIDAMENTE JUSTIFICADO. PRIVILÉGIO. REINCIDÊNCIA E MAUS ANTECEDENTES. NÃO INCIDÊNCIA DA BENESSE. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, a Corte de origem concluiu pela impossibilidade de desclassificação da conduta do paciente para aquela prevista no artigo 28 da Lei n. 11.343/2006 com fulcro nos depoimentos dos policiais, na quantidade, na forma de acondicionamento dos entorpecentes e na apreensão de embalagens vazias, a ensejar a conclusão pelo dolo da mercancia, tudo em consonância com a jurisprudência desta Corte Superior.
+IV - O rito do habeas corpus não admite o revolvimento de matéria fático-probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local.
+V - Não há ilegalidade na exasperação da pena-base no patamar prudencial de 1/6, em razão dos maus antecedentes, da quantidade e da natureza de entorpecentes apreendidos e das circunstâncias do delito. Precedentes.
+VI - A reincidência e os maus antecedentes justificam a negativa ao reconhecimento do tráfico privilegiado, nos termos do artigo 33, § 4º, da Lei n. 11.343/2006, bem como da jurisprudência desta Corte Superior.
+Agravo regimental não provido.
+(AgRg no HC n. 913.199/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 25/6/2024.)  gn .
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
