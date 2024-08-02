@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+No recurso especial, sustenta o Ministério Público Estadual violação aos artigos 33, caput, da Lei nº 11.343/06; 155, 158 e 619, todos do CPP, e artigo 1.022, parágrafo único, inciso II, c.c. artigo 489, §1º, incisos IV e VI, ambos do CPC.
+Alega ser "prescindível o laudo toxicológico definitivo quando o laudo de constatação preliminar tiver sido confeccionado por perito oficial e utilizar os mesmos métodos para a realização do laudo definitivo, conforme ocorreu na hipótese dos autos".
+Requer o provimento do recurso, a fim de que "seja reconhecida a materialidade do crime previsto no art. 33, caput, da Lei nº 11.343/2006 e, por conseguinte, que se determine o retorno dos autos ao TJMG para prosseguimento do exame das teses suscitadas nos recursos apresentados na origem".
+Contraminuta não apresentada. O Ministério Público Federal manifestou-se pelo provimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido:
+Acerca do delito de tráfico, com efeito, entendo que todos os apelantes deverão ser absolvidos, por não ter sido comprovada a materialidade delitiva da citada infração.
+Compulsando os autos, verifica-se que não fora juntado o laudo toxicológico definitivo, cuja ausência torna sem sustentação a r. sentença condenatória quando alude à materialidade do crime, não havendo que se falar em juntada tardia.
+A lei determina que o laudo toxicológico definitivo é peça imprescindível para que seja apurada a materialidade do delito, não podendo a sentença apoiar-se apenas no laudo de constatação para condenar o acusado.
+Observa-se que tanto o art. 22, §1º, quanto o art. 25 da antiga Lei de Tóxicos (6.368/76) faziam segura a necessidade de se produzir laudo de exame toxicológico do material incriminador. O primeiro dispositivo condicionava o oferecimento da denúncia, e até a prisão em flagrante, a verificação preliminar da natureza da droga. Determinava a outra norma que o laudo definitivo deveria ser anexado ao processo até a audiência da instrução e julgamento, tendo sido aceito que o laudo fosse juntado até as alegações finais.
+O exame, portanto, é assumido pela lei como elemento indispensável para apurar a identidade do material, com vistas a determinar a adequação do comportamento do acusado ao tipo legal correspondente.
+Há que se salientar, que também na nova Lei de Tóxicos (Lei nº 11.343/06), o laudo toxicológico definitivo continua sendo imprescindível para subsidiar um decreto condenatório, de modo que o laudo de constatação é suficiente apenas para efeito da lavratura do APF (art. 50, §1º da Lei nº 11.343/06).
+Cumpre destacar que a exigência é também aplicável aos delitos de uso de entorpecentes (art. 28 da Lei nº 11.343/06), apesar destes serem considerados de pequeno potencial lesivo, e da competência dos Juizados Especiais Criminais. Portanto, mesmo após encaminhado o "termo circunstanciado", a autoridade poderá realizar novas diligências sendo obrigatória a realização do laudo toxicológico definitivo, sem o qual o juiz não poderá realizar a audiência para transação, nos termos previsto na Lei nº 9.099/95.
+Nesta linha de entendimento se manifestou o i. Procurador de Justiça da Bahia, Dr. Rômulo de Andrade Moreira, no artigo intitulado "Aspectos procedimentais da nova lei de tóxicos (Lei nº 11.343/06)", publicado no site jurídico "Jus Navigandi" (http://jus2.uol.com.br/doutrina/texto.asp id=9075):
+"Relembre-se que o laudo definitivo continua sendo imprescindível para subsidiar um decreto condenatório, sendo "francamente majoritária a jurisprudência que reputa imprescindível para a condenação nos arts. 12 e 16 da Lei nº. 6.368/76 o exame toxicológico definitivo, não o suprindo o laudo de constatação preliminar." (TJSP - Rev. 28.417 - Rel. Álvaro Cury - RT 594/304 e RJTJSP 92/482).".
+Destarte, entende-se que o laudo toxicológico, apto a comprovar a materialidade, não pode ser suprido por nenhum outro meio de prova, inclusive pela confissão do acusado, sendo, portanto, imprescindível.
+Logo, entendo que a absolvição é a medida que se impõe, evitando-se, assim, ofensa ao contraditório e à ampla defesa.
+ ..
+Diante disso, constando dos presentes autos apenas o laudo de constatação da droga apreendida, tenho que a materialidade delitiva não restou seguramente comprovada, de modo que deve ser os apelantes serem absolvidos.
+Verifica-se que a Corte de origem, soberana na análise das provas dos autos, decidiu pela absolvição dos acusados com fundamento na ausência de laudo toxicológico definitivo, destacando que "a materialidade delitiva não restou seguramente comprovada".
+Nesse contexto, a revisão do acórdão, de modo a acolher a tese de que o laudo de constatação da droga apreendida seria suficiente para comprovar a materialidade, demandaria revolvimento fático-probatório, incabível na via eleita, conforme a Súmula 7/STJ.
+Nesse sentido, "a firme jurisprudência do STJ assinala que cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação (Súmula 7/STJ) ( AgRg no REsp 1.716.998/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 16/5/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "b", do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
