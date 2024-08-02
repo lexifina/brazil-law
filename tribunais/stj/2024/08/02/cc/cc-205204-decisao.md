@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 5ª Vara Criminal de Curitiba - PR, ora suscitante, e o Juízo de Direito da Vara Criminal do Foro Central da Barra Funda - SP, ora suscitado, no âmbito de inquérito policial instaurado para apuração do crime de estelionato.
+Juízo de Direito da Vara Criminal do Foro Central da Barra Funda - SP, ora suscitado, declinou da competência ao Juízo Criminal de Curitiba/PR, em razão da regra prevista no artigo 70, § 4º, do Código de Processo Penal (fl. 289).
+O Juiz de Direito da 5ª Vara Criminal de Curitiba/PR, por seu turno, suscitou o presente conflito de competência, ao fundamento de que "o presente inquérito policial deverá investigar a prática dos delitos de estelionato, receptação e adulteração de veículo automotor, estes últimos consumados na Comarca de São Paulo/SP" e que "o delito de adulteração de sinal identificador de veículo automotor, previsto no artigo 311 do Código Penal, possui pena cominada mais grave, devendo prevalecer a competência da Comarca de São Paulo/SP para processamento dos autos" (fl. 625).
+O Ministério Público Federal opinou no sentido de conhecer o conflito para declarar a competência do Juízo de Direito da Vara Criminal do Foro Central da Barra Funda - SP, ora suscitado.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição da República.
+O entendimento do juízo suscitante, acima transcrito, harmoniza-se com a jurisprudência desta Corte, no sentido de que, verificada a possível conexão entre os crimes supostamente praticados, a competência deve ser fixada com observância ao art. 78, inciso II, alínea a, do Código de Processo Penal, segundo a qual preponderará a competência do lugar da infração à qual for cominada a pena mais grave.
+Confira-se a respeito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. FURTO MEDIANTE FRAUDE E ESTELIONATO. SAQUE EM CAIXA ELETRÔNICO COM CARTÃO E SENHA FORNECIDOS PELA VÍTIMA. CONSUMAÇÃO. LOCAL DA OBTENÇÃO DO NUMERÁRIO. PRECEDENTES. REALIZAÇÃO DE EMPRÉSTIMOS FRAUDADOS E ENTREGA VOLUNTÁRIA DE VALORES, CONDUTAS MAIS GRAVES PORQUE COMETIDAS CONTRA IDOSO, CONSUMADAS NA JURISDIÇÃO DO JUÍZO SUSCITANTE. APLICAÇÃO DO ART. 78, INCISO II, ALÍNEA C, DO CÓDIGO DE PROCESSO PENAL. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITANTE.
+ ..
+5. O crime de estelionato, no caso, é mais grave do que os delitos de furto, pois tem pena abstrata que vai de 1 (um) a 5 (cinco) anos de reclusão e poderá ser aumentado no dobro pela vulnerabilidade etária da Vítima, nos termos do § 5.º do art. 171 do Estatuto Repressivo, podendo a reprimenda máxima atingir 10 (dez) anos de reclusão. Por isso, atrai a prevenção para os delitos conexos de furto, por força do art. 78, inciso II, alínea a, do Código de Processo Penal.
+6. Ante o exposto, conheço do conflito para declarar competente o JUÍZO DA 3.ª VARA CRIMINAL DE ÁGUAS LINDAS DE GOIÁS - GO, ora Suscitante.
+(CC n. 183.754/GO, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/12/2022, DJe de 19/12/2022.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. COMPETÊNCIA DAS CORTES SUPERIORES. MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DESTE TRIBUNAL, EM CONSONÂNCIA COM A SUPREMA CORTE. CRIMES DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS, FALSIDADE IDEOLÓGICA, USO DE DOCUMENTO FALSO, LAVAGEM, OCULTAÇÃO DE BENS E VALORES PROVENIENTES DO TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, EM CONCURSO MATERIAL. TESE DE INCOMPETÊNCIA DO JUÍZO DA VARA DE TÓXICOS DA COMARCA DE SALVADOR PARA PROCESSAR E JULGAR OS DELITOS PREVISTOS NOS ARTS. 299 E 304, AMBOS DO CÓDIGO PENAL, E 14 DA LEI N.º 10.826/2003. AUSÊNCIA DE ILEGALIDADE FLAGRANTE QUE, EVENTUALMENTE, PUDESSE ENSEJAR A CONCESSÃO DA ORDEM DE OFÍCIO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Na hipótese, verifica-se, a partir da narrativa dos fatos apresentada na inicial acusatória, a existência de conexão entre os delitos supostamente praticados pelo Paciente, ensejando a aplicação da regra prevista no art. 78, inciso II, alínea a, do Código de Processo Penal, segundo a qual preponderará a competência do lugar da infração à qual for cominada a pena mais grave.
+4. Ausência de ilegalidade flagrante apta a ensejar a eventual concessão da ordem de ofício.
+5. Habeas corpus não conhecido.
+(HC n. 229.332/BA, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 8/4/2014, DJe de 15/4/2014.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal do Foro Central da Barra Funda - SP, ora suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
