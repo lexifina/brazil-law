@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LESLEY PACHECO DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Narra a defesa que o paciente foi preso em flagrante pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico - "foram encontrados 60 comprimidos de ecstasy, 53,7g de cocaína, 24,6g de maconha e15g de crack" - fl. 4. Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 145-152, ao fundamento de que
+"o pronunciamento do julgador ampara-se nos elementos colhidos no pedido de prisão preventiva. A decisão explicita concretamente a necessidade da preventiva em razão do periculum libertatis, tendo em vista a gravidade do crime de homicídio, as circunstâncias em que o fato se deu e a ulterior fuga do paciente" - fl. 151.
+Postula a defesa, no presente writ, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do paciente em razão ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostentaria condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 178-179.
+As informações foram prestadas às fls. 186-218 e 219-222. O Ministério Público Federal, às fls. 226-230, manifestou em parecer que restou assim ementado:
+"EMENTA: HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ABUSO DO DIREITO DE IMPETRAÇÃO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DECRETAÇÃO DA PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS DO ART. 312 DO CPP. GRAVIDADE CONCRETA. ELEVADA PERICULOSIDADE DO AGENTE. GRANDE QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. Parecer pelo pela inadmissibilidade do habeas corpus e, se admitido, pela denegação da ordem" - fl. 226 .
+É o relatório. DECIDO.
+Quanto ao pedido de sustentação oral, plenamente possível, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema.
+Nesse sentido:
+"A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019)" (AgRg no HC n. 796.496/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023)." (AgRg no HC n. 827.752/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+O pedido está prejudicado.
+Em consulta ao sítio do tribunal de origem (www.tjrs.jus.br), processo nº 5004727-30.2023.8.21.0072, foi proferida sentença condenatória, em 25/06/2024, na qual o paciente restou condenado como incurso nas sanções do art. 33, caput, e §4º da Lei n.º 11.343/2006, à pena de três anos e quatro meses em regime aberto, substituída a pena privativa de liberdade por duas restritivas de direito e concedido o direito de recorrer em liberdade.
+Nesse contexto, verifico que o presente writ perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
