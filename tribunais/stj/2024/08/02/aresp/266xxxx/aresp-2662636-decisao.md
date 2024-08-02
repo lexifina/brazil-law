@@ -1,0 +1,24 @@
+DECISÃO
+Na origem, trata-se de ação ordinária ajuizada por servidora pública estadual, objetivando o recálculo de adicional por tempo de serviço (quinquênio) sobre a integralidade de seus vencimentos e/ou proventos. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 124.285,92 (vinte e dois mil setecentos e dez reais e quarenta e dois centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO - Ação de rito comum - Servidora pública estadual - Servidora pública estadual - Os quinquênios devem incidir sobre o salário-base e demais verbas de caráter permanente, percebidas pelo servidor, incorporadas ou não, excluídas tão-somente as vantagens eventuais ou transitórias, bem como a incidência para cômputo ou acumulação para fins de concessão de acréscimos ulteriores, por força do disposto no art. 37, inciso XIV, da Constituição Federal, com redação dada pela Emenda Constitucional nº 19/98. Aplicação do disposto no art. 129 da Constituição do Estado de São Paulo e no Incidente de Assunção de Competência na Apelação Cível nº 0087273-47.2005.8.26.0000, deste E. Sodalício - Adicional que não incide sobre a Gratificação de Dedicação Plena e Integral - GDPI, em razão do caráter transitório, atribuída sob condições laborais - Improcedência mantida - Precedentes desta C. Câmara - Recurso desprovido.
+O acórdão foi integrado pelas decisões dos embargos de declaração, com os seguintes resumos de ementa:
+EMBARGOS DE DECLARAÇÃO - Omissão - Inocorrência - Ausência dos pressupostos do artigo 1.022 do Código de Processo Civil - Caráter infringente da postulação - Recurso rejeitado.
+EMBARGOS DE DECLARAÇÃO - Erro material - Ocorrência - Existindo vício, possível sua correção por meio de embargos - Recurso provido, porém sem efeito modificativo.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem, em sede de embargos de declaração, bem analisou a controvérsia com base nos seguintes fundamentos:
+De fato, verifica-se que a demandante fez menção de sua inatividade na petição inicial e na apelação.
+Contudo, não comprovou a situação de aposentada.
+A autora propusera anteriormente ação de procedimento comum, em litisconsórcio ativo, postulando pedido de recálculo do adicional por tempo de serviço, na condição de servidora em atividade. Na ocasião, foi reconhecida a competência do Juizado Especial da Fazenda Pública em razão do valor individualmente atribuído e, em consequência, determinada a remessa dos autos ao juízo competente.
+Em aditamento à inicial, os autores apresentaram cálculos individuais das pretensas diferenças e, em razão de alguns valores ultrapassarem o teto do JEFAZ, a ação foi extinta para alguns autores, dentre eles a autora desta ação, Sonia do Nascimento Fermino.
+Convém anotar que a presente ação foi proposta aproveitando dos documentos daquela ação.
+Desse modo, a autora, anexando os mesmos documentos, deixou de comprovar sua situação atual de inativa, em prejuízo à análise dos argumentos trazidos na exordial de que a verba vem sendo paga, incluída nos proventos.
+Desse modo, a partir da inativação, o pedido é improcedente por falta de comprovação.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
