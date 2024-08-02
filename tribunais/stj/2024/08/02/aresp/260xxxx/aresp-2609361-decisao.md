@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por TUNA COMÉRCIO E LOCAÇÃO DE EQUIPAMENTOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 33):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INSURGÊNCIA DA EXECUTADA CONTRA DECISÃO QUE MANTEVE VALOR BLOQUEADO, CONSIDERANDO-O PENHORÁVEL. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇANO SENTIDO DE QUE A IMPENHORABILIDADE ALCANÇA NÃO SÓ VALORES POUPADOS EM CADERNETA DE POUPANÇA, MAS TAMBÉM EM FUNDOS DE INVESTIMENTO, CONTA CORRENTE OU DINHEIRO EM ESPÉCIE, ATÉ O LIMITE DE 40 (QUARENTA) SALÁRIOSMÍNIMOS. PROTEÇÃO DO ARTIGO 833, INCISO X, DO CÓDIGO DE PROCESSO CIVIL.
+VALORES INFERIORES AO LIMITE PREVISTO QUE SÃO IMPENHORÁVEIS. REFORMA DA DECISÃO AGRAVADA. RECURSO PROVIDO.PENHORA - Valores bloqueados em conta corrente da empresa executada - Alegação de impenhorabilidade, por ser verba destinada ao pagamento de impostos e fornecedores - Inadmissibilidade - Pagamento a fornecedores não pode prejudicar os credores anteriores - Devedora pode se socorrer dos meios legais da preservação da empresa Impenhorabilidade prevista no art. 833, IV e X, que se destina a preservar a subsistência e a pequena economia do devedor pessoa natural, não se estendendo, em regra, à pessoa jurídica - Precedentes desta Corte - Não ficou comprovado nos autos qualquer situação excepcional a permitir o alcance da impenhorabilidade à quantia bloqueada - Manutenção da penhora - Recurso desprovido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas no art. 833, IV e X, do CPC, sob o argumento de que o valor bloqueado na conta-corrente de R$ 3.720,13 de sua titularidade seria destinado ao pagamento de impostos e fornecedores.
+Contrarrazões ao recurso especial (fl. 52-64).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 65-66), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 84-91).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso não prospera.
+Ao analisar a questão, o Tribunal a quo consignou (fls. 442-443):
+A agravante juntou aos autos apenas documentos alusivos ao pagamento de fornecedores e prestadores de serviços (cf. fls.14-30), mas a existência de tais dívidas (esperadas de qualquer empresa ativa) não pode prejudicar os credores anteriores.
+A Lei 11.101/2005 permite que a empresa devedora se socorra da moratória legal para viabilizar a sua preservação.
+Não há, contudo, permissão legal para o juiz suspender a exigibilidade de título executivo judicial vencido e particular com a finalidade de impedir a falência do devedor.
+A impenhorabilidade prevista no art. 833, IV e X, se destina a preservar a subsistência e a pequena economia do devedor pessoa natural, não se estendendo, em regra, à pessoa jurídica.
+ ..
+Não foi provada nos autos qualquer situação excepcional a permitir o alcance da impenhorabilidade à quantia bloqueada.
+Possível o bloqueio dos ativos financeiros na forma como foi deferido, pois em consonância com a legislação vigente, daí a manutenção da decisão agravada.
+Com efeito, a atual e pacífica jurisprudência deste Tribunal Superior orienta no sentido da impenhorabilidade das quantias financeiras em nome das pessoas físicas até o limite de 40 salários-mínimos, como estabelecido pelo art. 833, X, do CPC/2015, de tal sorte que o juízo da execução está autorizado a indeferir o bloqueio ou a liberar eventuais valores constritos, de ofício, independente de manifestação da parte executada.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. CONTA BANCÁRIA. VALORES DEPOSITADOS. 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. ARTIGO 833, X, DO CÓDIGO DE PROCESSO CIVIL.
+1. A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que, em regra, todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.116.575/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+Todavia, convém destacar que a impenhorabilidade do art. 833, X, do CPC/2015 não favorece as pessoas jurídicas, à exceção dos empresários individuais e das sociedades empresárias de pequeno porte, na hipótese em que há comprovação da imprescindibilidade dos recursos para o exercício da atividade empresarial.
+A propósito, confiram-se julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PENHORA DE RECURSO. VALORES DEPOSITADOS EM APLICAÇÃO FINANCEIRA DA EMPRESA DEVEDORA. PROTEÇÃO DE PEQUENAS QUANTIAS POUPADAS ATÉ O LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. INAPLICABILIDADE. PESSOAS JURÍDICAS. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a impenhorabilidade inserida no art. 833, X, do CPC/2015, reprodução da norma contida no art. 649, X, do CPC/1973, não alcança, em regra, as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor (pessoa física). Nesse sentido: " ..  a intenção do legislador foi proteger a poupança familiar e não a pessoa jurídica, mesmo que mantenha poupança como única conta bancária" (AREsp 873.585/SC, Rel. Ministro Raul Araújo, DJe 8/3/2017)" (AgInt no REsp 1.914.793/RS, Relator Ministro Herman Benjamin, DJe de 1º/7/2021).
+2. No caso, o Tribunal de Justiça, após o exame acurado dos autos, concluiu pela possibilidade de penhora dos valores depositados em conta de titularidade da pessoa jurídica, ante a ausência de comprovação de que os recursos financeiros penhorados seriam imprescindíveis ao exercício da atividade empresarial desempenhada pelo agravante, consignando, ainda, que a proteção requerida somente se aplica às pessoas físicas.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.467.204/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. MULTA COMINATÓRIA. COBRANÇA. PROCEDIMENTO. OBRIGAÇÃO DE PAGAR QUANTIA CERTA. SANÇÃO DO ART. 523, § 1º, DO CPC/2015. INCIDÊNCIA. IMPENHORABILIDADE DO ART. 833, X, DO CPC/2015. PRESUNÇÃO. ABUSO, MÁ-FÉ OU FRAUDE. COMPROVAÇÃO. ÔNUS DO CREDOR. APLICAÇÃO DA REGRA À PESSOA JURÍDICA. IMPOSSIBILIDADE. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+1. O propósito recursal consiste em definir: i) se a sanção processual do art. 523, § 1º, do CPC/2015 é aplicável ao valor executado a título de astreintes; ii) de quem é o ônus probatório para se demonstrar que as verbas penhoradas até o limite de 40 (quarenta) salários mínimos são a única reserva monetária do executado e que este esteja agindo com abuso, má-fé ou fraude; e iii) se os valores bloqueados constituem verba impenhorável.
+2. A despeito de sua natureza eminentemente processual, as astreintes também possuem traços de direito material, já que seu valor se reverterá ao titular do direito postulado na ação. Assim, a exigência da multa cominatória se dá por meio do procedimento de execução por quantia certa, inclusive com a incidência da sanção do art. 523, § 1º, do CPC/2015 em caso de não pagamento no prazo legal, não havendo falar em bis in idem.
+3. A impenhorabilidade prevista no art. 833, X, do CPC/2015 deve ser presumida, cabendo ao credor demonstrar a má-fé, o abuso de direito ou a fraude para que se excepcione a regra e se admita a penhora, sobretudo porque "a presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar parêmia: a boa-fé se presume;
+a má-fé se prova" (Tema repetitivo n. 243/STJ).
+3.1. No caso dos autos, o acórdão recorrido considerou penhoráveis as verbas bloqueadas, ao argumento de que os devedores demonstram um reiterado comportamento desidioso em cumprir as determinações judiciais, bem como porque não juntaram documentos probatórios capazes de subsidiar a correta aplicação do art. 833, X, do CPC/2015, não tendo se pautado em nenhuma prova concreta da má-fé dos devedores.
+4. A impenhorabilidade da quantia depositada em conta bancária, até o limite de 40 (quarenta) salários mínimos, é uma proteção destinada às pessoas naturais, não podendo ser estendida indistintamente às pessoas jurídicas, ainda que estas mantenham poupança como única conta bancária. Precedentes.
+5. Recurso especial conhecido e parcialmente provido.
+(REsp n. 2.062.497/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/10/2023, DJe de 10/10/2023.)
+Como se pode observar, o entendimento da Corte de origem está em consonância com a jurisprudência do Superior Tribunal de Justiça sobre a referida temática, razão pela qual o acórdão recorrido não merece reforma.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. PESSOA JURÍDICA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
