@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. EXERCÍCIO DEATIVIDADE ESPECIAL. RUÍDO. ELETRICIDADE. COMPROVAÇÃO. TEMPO SUFICIENTE PARAA CONCESSÃO DO BENEFÍCIO PLEITEADO.
+I - Recurso da parte autora não conhecido. Matéria arguida (fixação do quantum devido) é reservadapara a fase de liquidação da sentença.
+II -A concessão de aposentadoria especial é regulamentada pelos artigos 57 e 58 da Lei 8.213/91. Todos os casos de enquadramento do trabalho exercido em condições especiais devem observar asregras previdenciárias vigentes à época do efetivo exercício da atividade.
+III - Até 28/04/1995, é necessário simplesmente o exercício da atividade profissional, que poderia se darde duas maneiras: a) pelo mero enquadramento em categoria profissional elencada como perigosa,insalubre ou penosa em rol expedido pelo Poder Executivo (Decretos 53.831/1964 e 83.080/1979); oub) através da comprovação de efetiva exposição a agentes nocivos constantes do rol dos aludidosdecretos, mediante quaisquer meios de prova; A partir de 29/04/1995 (Lei nº 9.032/1995), faz-senecessária a comprovação da atividade especial através de formulários específicos (SB-40, DISES-BE5235, DSS-8030 e DIRBEN 8030); A necessidade de comprovação do exercício de atividadeinsalubre/perigosa por meio de laudo pericial elaborado por médico ou engenheiro de segurança dotrabalho é exigência criada a partir do advento da Lei 9.528, de 10/12/1997.
+IV - A exposição ao agente nocivo ruído, para fins de caracterização da insalubridade no trabalho, temos seguintes parâmetros: I) superior a 80 decibéis, na vigência do Decreto nº 53.831/1964 (1.1.6); II)superior a 90 decibéis, a partir de 5 de março de 1997, na vigência do Decreto nº 2.172/97; III) superiora 85 decibéis, a partir da edição do Decreto nº 4.882, de 18 de novembro de 2003.
+V - No caso do risco eletricidade, o item 1.1.8 do quadro anexo do Decreto nº 53.831/64 classificava como serviço perigoso, para fins de aposentadoria especial, as "operações em locais com eletricidade em condições de perigo de vida", quanto aos "trabalhos permanentes em instalações ou equipamentos elétricos com risco de acidentes - eletricistas, cabistas, montadores e outros", observando que essa classificação pressupunha "jornada normal ou especial fixada em lei em serviços expostos a tensão superior a 250 volts".
+VI - A Primeira Seção do Superior Tribunal de Justiça, decidindo questão repetitiva, por meio do REsp nº 1.306.113 - SC, publicado em 07/03/2013, firmou entendimento de que é possível o reconhecimento da exposição ao agente perigoso eletricidade como atividade especial, após a vigência do Decreto nº2.172/97.
+VII - A documentação apresentada pelo autor demonstra que exerceu período de atividade laboral sobcondições especiais (ruído e eletricidade), razão pela qual faz jus à concessão de sua aposentadoriapor tempo de contribuição, a partir da DER, com o pagamento dos atrasados daí advindos.
+VIII - Improvido o recurso do INSS, deve ser determinada a majoração em 1% (um por cento) doshonorários advocatícios devidos, nos termos do § 11 do artigo 85 do NCPC.
+IX - Apelação da parte autora não conhecida. Apelação do INSS conhecida e desprovida.
+Os embargos de declaração opostos pelo recorrente foram rejeitados.
+Em suas razões de recurso especial fundamentado na alínea "a" do permissivo constitucional, aponta o recorrente violação aos artigos 57, §§ 3º e 4º, e 58, § 1º, da Lei 8.213/91; 1022, II, do CPC/2015.
+Aponta negativa de prestação jurisdicional.
+Argumenta que "a periculosidade não está abrangida pelos critérios legitimamente fixados pelo legislador infraconstitucional, motivo pelo qual é totalmente impertinente aplicar Perfil Profissiográfico Profissional à atividade de risco, sem nocividade à saúde ou perquirir a respeito de tecnologia que reduza ou neutralize a exposição ao agente químico, físico e biológico a limites aceitáveis de tolerância".
+Postula "o provimento do presente recurso para reformar o acórdão vergastado a fim de afastar a especialidade dos períodos impugnados.".
+Foram apresentadas contrarrazões.
+É o relatório, decido.
+Depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou de todas as questões suscitadas, resolvendo de modo integral a controvérsia posta em debate.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.740.348/RS, SEGUNDA TURMA, Relator Ministro Herman Benjamin, DJe 22/11/2018)
+A alegada violação ao artigo 1022 do CPC/2015, portanto, não merece ser acolhida.
+Ademais, o Tribunal de origem, à vista do conjunto probatório, concluiu enquadrados como especiais os lapsos requeridos, bem como afirmou que a exposição aos agentes nocivos foi aferida de acordo com a legislação e normas técnicas aplicáveis.
+Desse modo, para rever tal entendimento, necessária a incursão no acervo fático-probatório dos autos, o que é vedado ante o óbice da Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, I e II, do RISTJ, bem como na Súmula 568/STJ, nego provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO NÃO CONFIGURADA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. EXPOSIÇÃO EFETIVA A AGENTES NOCIVOS AFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
