@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DEIVID GUILHERME SILVA e de CLEBER AUGUSTO DE MORAIS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2063851-42.2024.8.26.0000).
+Consta nos autos que os pacientes foram presos em flagrante em 29/02/2024, com posterior conversão das custódias em prisões preventivas, pela suposta prática das condutas descritas nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Neste writ, requer-se, em suma, a revogação das prisões preventivas, com expedição de alvará de soltura em favor dos pacientes.
+O pedido liminar foi indeferido às fls. 85-87.
+As informações solicitadas foram prestadas às fls. 92-95.
+O Mi nistério Público Federal manifestou-se às fls. 100-103, opinando pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+Em consulta ao endereço eletrônico do Tribunal de origem, constatei que, no dia 24/06/2024, foram revogadas as prisões preventivas dos pacientes, com a expedição dos respectivos alvarás de soltura, o que evidencia a perda superveniente do interesse jurídico.
+Ilustrativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS . PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. ALEGADO EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. PREJUDICIALIDADE. PRISÃO PREVENTIVA DO AGRAVANTE SUBSTITUÍDA POR MEDIDAS CAUTELARES DIVERSAS. AGRAVO PREJUDICADO.
+I - O agravo está prejudicado, pois em consulta ao sítio eletrônico do eg. Tribunal de origem, verifica-se que na audiência de instrução realizada em 06/12/2021, o d. Juízo da Vara do Único Ofício da Comarca de de Cacimbinhas/AL revogou a prisão preventiva do ora agravante, mediante a imposição de medidas cautelares diversas, e o alvará de soltura já foi expedido.
+Agravo regimental prejudicado.
+(AgRg no RHC n. 151.451/AL, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+Ante o exposto, julgo prejudicado o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
