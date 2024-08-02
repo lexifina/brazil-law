@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  pelo  BANCO DO BRASIL S.A.  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a  parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  cuja  ementa  guarda  os  seguintes  termos  (fl.  86):
+Agravo de instrumento. Previdência privada. Cumprimento de sentença. Decisão que determinou a implementação do benefício de pensão às viúvas dos autores falecidos. Inconformismo do exequente. Não acolhimento. Providência que é mera decorrência lógica do provimento original. Decisão transitada em julgado que determinou o pagamento de complemento de aposentadoria conforme as regras vigentes antes da adesão ao PREVI, dentre as quais, se incluía o benefício de pensão. Ausência de ofensa à coisa julgada. Decisão mantida. Agravo de instrumento desprovido.
+Rejeitados  os  embargos  de  declaração  opostos  (fls.  118-123).
+No  recurso  especial,  alega  a parte  recorrente,  preliminarmente,  ofensa  aos  arts.  489  e  1.022,  inciso  II,  do  Código  de  Processo  Civil,  ao  sustentar  que,  apesar  da  oposição  dos  embargos  de  declaração,  o  Tribunal  de  origem  não  se  pronunciou  sobre  pontos  necessários  ao  deslinde  da  controvérsia.
+Aponta,  ainda,  afronta  aos  arts.  502, 503 e 505,  também  do  CPC,  ao  defender  a ocorrência de  coisa  julgada  em  relação à determinação de implementação do pagamento da pensão às viúvas dos autores falecidos.
+Aduz que que a sentença exequenda assegurou aos autores somente os direitos previstos na norma interna vigente quando de suas admissões, no caso, a Circular 966/1947. Assim, o Juízo extrapolou os limites da coisa julgada, uma vez que a complementação deferida se deu com base na Circular 966/1947 e não com base nas leis previdenciárias, ou mesmo na posterior Circular398/1961.
+Foram  oferecidas  contrarrazões  ao  recurso  especial  (fls.  712-745).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  748-750  ),  o  que  ensejou  a  interposição  do  presente  agravo.
+Apresentada  contraminuta  ao  agravo  (fls.  782-802).
+É,  no  essencial,  o  relatório.
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+Não  merece  prosperar  o  recurso.
+De  início,  inexiste  a  alegada  ofensa  aos  arts.  489  e  1.022  do  Código  de  Processo  Civil,  pois  a  prestação  jurisdicional  foi  dada  na  medida  da  pretensão  deduzida,  conforme  se  depreende  da  análise  do  acórdão  recorrido.  Assim,  manifestou-se  a  Corte  a  quo  de  maneira  clara  e  fundamentada  sobre  as  questões  postas  a  julgamento,  não  obstante  tenha  entendido  o  julgador  de  segundo  grau  em  sentido  contrário  ao  posicionamento  defendido  pela  ora  recorrente.
+Outrossim,  consigne-se  inviável  a  apreciação  das  alegações  do  recorrente,  considerando  que  a  Corte  de  origem,  ao  entender  pela  não  ocorrência  de  coisa  julgada em relação à a implementação do pagamento da pensão às viúvas dos autores falecidos,  no caso dos autos, firmou  o  entendimento  com  base  no  conjunto  probatório  dos  autos.  Confira-se  o  seguinte  excerto  do  voto  condutor  (fls.  87-89):
+O recurso não merece prosperar, devendo ser mantida a bem lançada decisão que assim consignou:
+"O objeto da ação visava o pagamento de benefício decorrente de previdência mantida pelo Banco do Brasil S/A.
+A demanda está em curso desde o ano de 2001 e em razão dos inúmeros recursos da parte executada, muitos dos autores faleceram e os espólios foram habilitados quanto ao saldo devedor a receber de cada autor beneficiário.
+De outra banda, existe a obrigação de fazer de implementação do benefício em favor dos autores.
+Os autores vivos já tiveram o benefício concedido e passaram a receber a mensalidade decorrente dele.
+Quanto aos falecidos, logicamente que existe a transferência automática à viúva beneficiária, mesmo que não tenha constado do título judicial expressamente.
+Existe Circular que permite o pagamento da pensão por morte (circular nº 398/61).
+O executado quer fazer crer que nestes autos não poderia ser reconhecido o direito de pensão por morte, ou seja, de demandaria possível nova ação, o que não tem menor lógica, na medida que a transferência da pensão por morte decorre de norma interna da própria previdência e que somente se implementa mediante da condição do falecimento do beneficiário, que ocorreu no presente caso.
+Posto isso, DECLARO o direito das viúvas dos autores falecidos ao recebimento da pensão por morte, por ser decorrência lógica da continuidade da obrigação reconhecida do título judicial.
+Fixo o prazo de 30 dias para que os benefícios sejam implementados, sob pena de multa diária de R$500,00 por viúva beneficiária"(fls.4.587/4.588).
+Com efeito, como já destaquei às fls.49,"inviável, dentro da legalidade pura, identificar-se a imediata lesão à coisa julgada", tendo em conta que a decisão exequenda concedeu aos autores a garantia de recebimento de benefício previdenciário regulado à época na Circular 966/1947, já que admitidos anteriormente a essa data:
+(..)
+Embora mencionada apenas a Circular nº 966/1947, o julgado foi claro ao declarar o direito dos autores ao recebimento de complemento de benefício segundo as regras vigentes anteriormente à adesão à PREVI, em 1967, o que engloba, também, a Circular 398/1961 e as posteriores.
+E ainda que haja pendência de Recurso Especial com relação aos valores dos benefícios, o efeito suspensivo concedido pelo C. STJ aborda exclusivamente o levantamento de valores depositados nos autos, não havendo qualquer impedimento na implementação do benefício em favor das viúvas, mesmo porque facilmente repetível o pagamento considerando os valores a serem ainda levantados quando do fim da controvérsia.
+Assim,  rever  tal  entendimento,  a  eventualmente  ensejar  novo  juízo  acerca  dos  fatos  e  das  provas,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos.  Sendo  assim,  incide  no  caso  a  Súmula  n.  7  do  STJ,  segundo  a  qual  "a  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial".
+Nesse  sentido,  cito:
+PROCESSO  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA  POR  VÍCIOS  DE  CONSTRUÇÃO.  SEGURO  HABITACIONAL.  SFH.  FASE  DE  CUMPRIMENTO  DE  SENTENÇA.  AGRAVO  DE  INSTRUMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  COISA  JULGADA.  REVISÃO.  SÚMULA  N.º  7  DO  STJ.  MULTA  DECENDIAL.  LIMITAÇÃO  AO  VALOR  DA  OBRIGAÇÃO  PRINCIPAL,  SEM  O  ACRÉSCIMO  DE  JUROS.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Não  ocorre  ofensa  ao  art.  535,  I  e  II,  do  CPC/73  quando  o  acórdão  recorrido  examina,  de  forma  fundamentada,  como  no  caso,  as  questões  postas  em  debate.  O  mero  inconformismo  da  parte  com  o  desfecho  contrário  aos  seus  interesses  não  configura  negativa  de  prestação  jurisdicional.
+2.  Para  se  chegar  à  conclusão  diversa  da  que  chegou  o  eg.  Tribunal  bandeirante  quanto  ao  respeito  a  coisa  julgada,  seria  inevitável  o  revolvimento  do  arcabouço  fático-probatório  carreado  aos  autos,  procedimento  sabidamente  inviável  na  instância  especial.  Aplicação  da  Súmula  n.º  7  do  STJ.
+3.  De  acordo  com  o  entendimento  do  Superior  Tribunal  de  Justiça,  não  devem  incidir  juros  sobre  a  base  de  cálculo  da  multa  decendial  do  seguro  obrigatório  habitacional,  devendo  eles  recaírem  apenas  sobre  o  valor  da  obrigação  principal.  Precedentes.
+4.  Agravo  interno  não  provido,  com  imposição  de  multa.
+(AgInt  no  AREsp  n.  915.575/SP,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  20/11/2023,  DJe  de  22/11/2023.)
+Ante  o  exposto,  conheço  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se.  Intimem-se.
+EMENTA
+CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA.  AUSÊNCIA  DE  OMISSÃO  NO  ACÓRDÃO  DO  TRIBUNAL  DE  ORIGEM.  IMPLEMENTAÇÃO DO BENEFÍCIO DE PENSÃO ÀS VIÚVAS DOS AUTORES FALECIDOS.  CABIMENTO. COISA  JULGADA.  NÃO OCORRÊNCIA.  PRETENSÃO  DE  REEXAME  DE  PROVAS.  SUMULA  N.  7/STJ.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  CONHECIDO  EM  PARTE  E  IMPROVIDO.
