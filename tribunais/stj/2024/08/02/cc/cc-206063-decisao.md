@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE HORTOLÂNDIA - SP, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE CUIABÁ - MT, suscitado.
+O Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT determinou a remessa da execução penal n. 0000106-22.2019.8.11.0031 à Comarca de Hortolândia - SP, ao argumento de que a apenada reside naquele município (fl. 457).
+O Juízo de Direito da 1ª Vara Criminal de Hortolândia - SP, por sua vez, suscitou conflito de competência. Sustentou, em síntese, que, segundo jurisprudência do Superior Tribunal de Justiça, a execução da pena compete ao juízo da condenação e a mudança de domicílio do reeducando não altera a regra de competência legalmente estabelecida (fls. 3-8).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT, ora suscitado (fls. 473-476).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, compete ao juízo da condenação a execução das penas impostas, de modo que eventual mudança de domicílio do apenado não implica deslocamento da competência. Nesses casos, a fiscalização das condições e das medidas aplicadas no curso da execução penal devem ser efetivadas por meio da expedição de precatórias. Confira-se:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA FISCALIZAÇÃOE ACOMPANHAMENTO DA PENA IMPOSTA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+A Terceira Seção já pacificou o entendimento no sentido de que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação, ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Agravo regimental desprovido." (AgRg no CC n. 198.819/DF, Terceira Seção, Rel. Min. Messod Azulay Neto, DJe de 25/10/2023)
+" ..  A execução da pena, em regra, compete ao Juízo da condenação, não implicando deslocamento de competência o implemento da prisão em comarca diversa, em razão da possibilidade de ser deprecada a fiscalização do cumprimento da pena." (CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023)
+No mesmo sentido: AgRg no CC n. 198.927/RS, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 31/10/2023; CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022.
+Ressalto, ainda, que a transferência legal da competência para a execução da pena exige consulta prévia ao juízo de destino, o que não ocorreu na presente hipótese. A propósito:
+" ..  A transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local." (AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022)
+No caso dos autos, embora a reeducanda tenha mudado o domicílio para comarca diversa daquela onde cumpre pena, tal fato não desloca a competência para a execução penal, que continua sendo do Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Cuiabá - MT, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE DOMICÍLIO. TRANSFERÊNCIA DA EXECUÇÃO DA PENA. IMPOSSILIDADE. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. FISCALIZAÇÃO DO CUMPRIMENTO DA PENA POR MEIO DE PRECATÓRIA. PRECEDENTES.
