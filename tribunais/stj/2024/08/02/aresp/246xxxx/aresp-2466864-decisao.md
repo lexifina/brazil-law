@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por HUGO AURÉLIO DE FAVERI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 157):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. Pretensão de majoração do crédito. Impossibilidade. Cálculos realizados de acordo com o salário base da impugnante. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Embargos de declaração rejeitados (fls. 182-187).
+No recurso especial, alega a recorrente ofensa aos arts. 489 e 1.022, incisos I, II e III, do Código de Processo Civil, ao sustentar deficiência de fundamentação no acórdão do Tribunal de origem, e que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia
+Aponta, ainda, afronta aos arts. 5º e 223, também, do CPC, sob o argumento de que a recorrida não poderia, depois de ter anuído com o crédito do recorrente, mediante publicações em editais de credores, deduzir pleito contrário ao que já havia expressamente concordado, em violação ao princípio da boa-fé, e quando já havia ocorrido a preclusão.
+Alega, também, malferimento dos 457 e 477 da CLT, Consolidação das Leis do Trabalho, ao defender a improcedência do entendimento de que os cálculos deveriam ser feito considerando o salário anterior do recorrente, uma vez que a base de cálculo das verbas rescisórias é a remuneração do próprio mês da rescisão contratual, parte fixa, acrescida da média dos últimos doze meses da verba variável, além de a habilitação de crédito não é a via adequada para se declarar a nulidade do aumento remuneratório havido em favor do recorrente.
+Sem contrarrazões ao recurso especial (fls. 245).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 254-256), o que ensejou a interposição do presente agravo.
+Contraminuta ao agravo (fl. 273-276).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+Com efeito, inexiste a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pelo ora recorrente.
+Outrossim, verifica-se que a Corte de origem entendeu, com base no conjunto probatório dos autos, que o recorrente não faz jus à totalidade do montante postulado, na medida em que, no mês anterior ao pedido de recuperação judicial, houve alteração significativa de seu salário, de forma que os cálculos deveriam ser feitos considerando o salário anterior ao mês de rescisão. Assentou, inclusive, que nítida a conduta ardilosa para obter proveito econômico, em claro prejuízo aos credores. Confira-se o seguinte excerto do voto condutor (fls. 200):
+O D. Magistrado acolheu como razões de decidir a manifestação do Administrador Judicial, que corretamente apresentou os cálculos, com atualização dos valores até a data do pedido de recuperação judicial (07/03/2016), bem como utilizou como parâmetro, o salário base do mês anterior da rescisão, na importância de R$ 16.422,43.
+Ainda que seu crédito esteja sujeito aos efeitos recuperacionais, a impugnante não faz jus ao montante postulado, na medida em que, pela Ficha de Registro acostada às fls. 16/17, verifica-se que, no mês anterior ao do pedido de recuperação, houve alteração salarial de R$ 16.422,43 para R$ 47.050,00, constando como motivo" enquadramento salário cargo".
+Conforme destacado pela D. Procuradoria Geral de Justiça, às vésperas da distribuição do pleito recuperacional, houve um aumento salarial de aproximadamente 286%, inflando, dessa forma, o cálculo de suas verbas rescisórias.
+Dessa forma, restando nítida a conduta ardilosa para obter proveito econômico, em claro prejuízo aos credores, inviável o acolhimento da pretensão deduzida no presente recurso.3.
+Nesse cenário, de rigor a manutenção da decisão recorrida, nos moldes em que proferida, que bem acolheu a manifestação da Administradora Judicial, corroborada pela cota ministerial.
+Confira-se o seguinte excerto do do acórdão dos embargos de declaração (fls. 228).
+Como não se enquadra em nenhuma das hipóteses previstas no dispositivo acima transcrito, os embargos de declaração não merecem prosperar.3. No caso dos autos, não há se falarem ausência de fundamentação, já que restou explicitado o motivo pelo qual o recorrente não fazia jus ao montante postulado, qual seja, a alteração salarial de R$ 16.422,43 para R$ 47.050,00, no mês anterior ao pedido de recuperação judicial.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. CÁLCULOS REALIZADOS DE ACORDO COM O SALÁRIO BASE DA IMPUGNANTE. PRETENSÃO DE REEXAME DE PROVAS. SUMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
