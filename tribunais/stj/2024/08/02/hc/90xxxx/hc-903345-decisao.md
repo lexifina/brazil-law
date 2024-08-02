@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MAILTON LUCAS PORSINO LORETI, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, encontrando-se pronunciado pela suposta prática dos delitos de homicídio qualificado e ocultação de cadáver. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 13-18).
+No presente writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado no encarceramento provisório do Paciente, aduzindo a ocorrência de excesso de prazo.
+Aponta que:
+"O Paciente foi preso temporariamente no dia 25/11/2021 e, após, sua prisão foi convertida em preventiva, por suposta violação ao artigo art. 121, §2º, incisos II e III, e art. 211, ambos do Código Penal, cuja ação penal foi tombada sob o nº 0298910-41.2021.8.19.0001e tramita perante a 4ª Vara Criminal -Tribunal do Júri da Comarca de Duque de Caxias/RJ" (fl. 4).
+Argumenta que:
+"Não obstante a decisão de pronúncia tenha se dado há quase um ano, a intimação de um dos réus (Denilson)para ciência da sentença somente se deu recentemente, aos 07/03/2014, não tendo sido realizada por razão que deve ser atribuída exclusivamente ao aparato repressor estatal, uma vez que o referido réu se encontra acautelado.
+Sendo assim, até hoje contamos com mais de 02anosde prisão cautelar sem que sequer tenha sido marcada a sessão de julgamento pelo júri" (fl. 5).
+Requer o relaxamento da prisão preventiva do Paciente.
+A liminar foi indeferida, às fls. 61-63.
+Informações prestadas, às fls. 71-74. O Ministério Público Federal, às fls. 79-84, manifestou-se pelo não conhecimento do writ, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIADE PREVISÃO CONSTITUCIONAL PARA O CABIMENTO DEHABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. HOMICÍDIO QUALIFICADO. OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. EXCESSODE PRAZO. TRÂMITE PROCESSUAL NORMAL. INSTRUÇÃO CRIMINAL ENCERRADA. SENTENÇA DEPRONÚNCIA JÁ PROFERIDA. SÚMULAS 21 E 52 DO STJ. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+- A jurisprudência do STJ e do STF assentou o entendimento de que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição aos recursos ordinariamente previstos nas leis processuais.
+- O prazo para a conclusão da instrução criminal não é absoluto, impondo-se a necessidade de adequação aos casos concretos, admitindo-se dilatações do lapso temporal nas hipóteses de processos mais complexos, que demandem um número maior de diligências ou que tenham pluralidade de réus ou de crimes, observado o princípio da razoabilidade.
+- Encerrada a instrução criminal, não há espaço para se aventar excesso de prazo (Súmula 52, deste Superior Tribunal de Justiça).
+- Ademais, nos termos da Súmula nº 21 desta Augusta Corte: "Pronunciado o réu, resta superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução".
+- Parecer pelo não conhecimento do habeas corpus" (fl. 79).
+É o relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada:
+"De fato, como se sabe, os prazos impostos para a realização dos atos processuais não são absolutos. Ao contrário, são suscetíveis de algum alargamento,sem que isso caracterize constrangimento ilegal. Afinal, esses prazos devem ser adequados não só à realidade atual, mas principalmente às peculiaridades de cada processo, a ponto de ser tolerável alguma demora na finalização da instrução.
+Neste diapasão, o que torna ilegal a manutenção da prisão por tempo superior ao desejado é a demora injustificada na conclusão da instrução processual, ou na prolação da sentença. É a demora causada por ato negligente da autoridade judiciária, que não acontece por ato da própria parte, ou causado por providência que era do interesse dela, de sua defesa e do devido processo legal.
+ ..
+Ao analisarmos o caso dos autos, é possível concluir que o alongamento da instrução está devidamente justificado, pois a autoridade apontada como coatora vem conduzindo o processo com a celeridade possível, na medida em que o feito ao ser consultado não apresenta períodos "mortos" em seu processamento.
+Considerando-se, também, que já houve decisão de pronúncia, não há que se falar em ilegalidade na manutenção da prisão, conforme entendimento pacífico dadoutrina e da jurisprudência, consolidado no enunciado n.º 21 do Egrégio Superior Tribunal de Justiça, in verbis:" (fls. 15-17).
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, haja vista que envolve diversidade de condutas; homicídio qualificado e ocultação de cadáver; imputadas à pluralidade de pessoas, 2 (dois) réus, constando nos autos que o ora Paciente foi pronunciado, em 11/05/2023; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Sobre o tema:
+"2. Na ação penal originária, apura-se por meio do rito bifásico, previsto para o julgamento dos crimes dolosos contra a vida, a responsabilidade dos Agravantes pela tentativa de homicídios qualificados contra quatro pessoas. Nesse contexto, é evidente a complexidade da causa, diante da pluralidade de vítimas e de réus, de forma que a diversidade de fatos a serem apurados justifica o alongamento da instrução criminal. 3. Apesar de os Agravantes estarem presos provisoriamente há mais de três anos, verifica-se que o processo tramita dentro dos limites do razoável, sendo certo que os Acusados foram pronunciados em 14/08/2020, nos termos da denúncia. Quanto ao ponto, destacou o Juízo de origem que "os réus aparentemente tentaram matar todas as pessoas que estavam no veículo e o ofendido Luis, que abria o portão do local, de modo que devem responder por quatro crimes, uma vez que, mesmo tendo avistado que haviam três adultos e um bebê, os réus continuaram a efetuar disparos" (fl. 351). Assim, diante da pronúncia, aplica-se ao caso o disposto na Súmula n. 21 desta Corte Superior: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução"" (AgRg no RHC n. 178.155/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 5/6/2023).
+Incide, portanto, o óbice da Súmula nº 21 desta Corte Superior, que prescreve que:
+"Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução".
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver ente ndimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
