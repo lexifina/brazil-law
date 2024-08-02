@@ -1,0 +1,26 @@
+DECISÃO
+Na origem, trata-se de ação anulatória de ato administrativo c/c indenizatória proposta por servidor público militar, objetivando o reconhecimento de nulidade de audiência em processo administrativo disciplinar e indenização por danos morais em decorrência de punição por este ocasionada. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 20.000,00 (vinte mil reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+ADMINISTRATIVO. MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. INEXISTÊNCIA DE VÍCIOS CAPAZES DE MACULAR A LEGALIDADE DO PROCEDIMENTO DISCIPLINAR. APELAÇÃO DESPROVIDA.
+1. A controvérsia posta nos autos cinge-se a aferir a legalidade de procedimento de Sindicância instaurada pelo ComDivAnf., por ter o Apelante cometido falta disciplinar, que culminou na punição de prisão por oito dias.
+2. O controle judicial no processo administrativo disciplinar (PAD) se restringe ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do Devido Processo Legal, da Ampla Defesa e do Contraditório, não sendo possível adentrar no mérito administrativo.
+3. De acordo com a Súmula Vinculante nº 5 do e. STF, a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição. Assim, no âmbito do processo administrativo disciplinar, a defesa técnica por advogado é facultativa. Ou seja, não há nulidade na ausência de constituição de advogado.
+4. No que tange ao arrolamento de testemunhas, deve-se ter em mente a natureza inquisitorial da sindicância. Nesse sentido, a sindicância é um procedimento administrativo sumário a fim de apurar ocorrência no serviço militar, a servir de base para abertura de processo administrativo.
+5. Apelação desprovida.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No entanto, deve ser afastada a alegação de nulidade do procedimento administrativo, pela ausência de advogado de defesa.
+De acordo com a Súmula Vinculante nº 5 do e. STF, a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição. Assim, no âmbito do processo administrativo disciplinar, a defesa técnica por advogado é facultativa. Ou seja, não há nulidade na ausência de constituição de advogado.
+In casu, o Apelante não comprovou que solicitou a presença de advogado durante o procedimento. Dessa forma, conforme Termo de Inquirição (evento 19 - JFRJ), não houve pedido do Demandante de acompanhamento por advogado.
+Ademais, no que tange ao arrolamento de testemunhas, deve-se ter em mente a natureza inquisitorial da sindicância. Nesse sentido, a sindicância é um procedimento administrativo sumário a fim de apurar ocorrência no serviço militar, a servir de base para abertura de processo administrativo.
+Conforme bem consignado pelo Juízo a quo "O autor quis transformar uma sindicância, instrumento de averiguação de possível fato ilícito, da determinação de sua autoria e de sua materialidade, prévia à instauração de processo administrativo disciplinar, no próprio".
+Assim, verifico que não houve nenhum vício de legalidade no procedimento realizado nos autos da Sindicância em comento, a qual percorreu sob a ótica dos Princípios constitucionais garantidores.
+Por fim, registre-se que a aplicação das penalidades é um ato discricionário da autoridade militar, competindo ao Poder Judiciário apreciar apenas os aspectos da legalidade, mas não as opções do respectivo poder ou a valoração da punição.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
