@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por VICAR NEGOCIOS E PARTICIPACOES LTDA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO REGIMENTAL Decisão monocrática que indeferiu o pedido de justiça gratuita formulado pelo ora agravante, determinando-lhe, no prazo de cinco dias, o recolhimento das custas pertinentes, sob pena de deserção Elementos analisados nos autos que não permite concluir pela hipossuficiência financeira da parte requerente Impossibilidade de concessão do benefício Decisão mantida Decisão mantida Regimental não provido.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 98 e 99 do CPC, no que concerne à necessidade de deferimento da benesse da gratuidade de justiça à parte recorrente, eis que há prova incontroversa de sua condição econômica abalada, trazendo a seguinte argumentação:
+Não se trata de pedido genérico e infundado.
+Trata-se de pleito com ilação fundamentada e, comprovada.
+Face as essas ilações temos que as provas carreadas nos autos foram incorretamente valoradas pelo Ínclitos Julgadores, repise-se, não havendo qualquer óbice frente à Sumula 7 da Corte do STJ.
+ ..
+Por fim, a terceira premissa, que supõe que a Recorrente teria condições de arcar com as custas deste processo e de outros, também não considera a realidade financeira da parte.
+A avaliação da gratuidade da ju stiça não deve se limitar à capacidade de arcar com as despesas isoladamente, mas sim à situação financeira global da parte, como estabelecido no art. 99 do Código de Processo Civil.
+Notadamente, que a Recorrente fez prova incontroversa da sua condição econômica abalada e, com essas assertivas fundamentadas, requer a modificação do Venerado acórdão, para que seja concedida a gratuidade de justiça e, sejam as razões do Recurso de Apelação recebidas, conhecidas e ao final providas para modificar a respeitável sentença (fls. 1923-1925).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Contudo, em que pesem os argumentos trazidos pelo agravante, a r. decisão monocrática não merece qualquer reparo, eis que, conforme restou expressamente pontuado, "( ) Considerando a interposição de recurso de apelação por Vicar Negócios e Participações Ltda., com requerimento preliminar de justiça gratuita (págs. 226 e seguintes), cabe a análise do pedido à luz do que dispõe o art. 99, parágrafo 7º, do CPC.
+ ..
+Conforme se observa, a Apelante Vicar requer a concessão dos benefícios da justiça gratuita, juntando aos autos apenas Declaração De Débitos E Créditos Tributários Federais (DCTF) relativa ao exercício de janeiro dos anos de 2020 e 2019 (págs. 1710 e seguintes), circunstância essa que não retrata sua real condição, inclusive porque, em consulta ao sistema informatizado deste E. TJSP, teve condições não só de arcar com todas as custas desta ação milionária, mas também mantém diversas outras ações, assumindo com todas as custas processuais e os honorários advocatícios de seus patronos (vide autos ns. 1067485-93.2020.8.26.0100 e 1101273-35.2019.8.26.0100)
+ ..
+Em suma, não há prova documental bastante a justificar sua condição de "necessitado" de que trata a lei. Na verdade, somente após a sentença procedência da ação declaratória e improcedência da ação de cobrança, e se deparando com a incontornável necessidade de recolhimento do preparo de apelação, é que houve o pedido de assistência judiciária gratuita, mostrando-se, na verdade, que a pretensão se afigura casuística e não convincentemente fundamentada, pelo que sua inadmissão é de rigor.
+ ..
+Ademais, não há que se falar em violação ao disposto no art. 99, §2º, do CPC, em razão da ampla oportunidade em que a parte interessada teve em demonstrar o preenchimento dos requisitos necessários à concessão da gratuidade, não se desincumbindo do seu ônus (fls. 1912-1915).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
