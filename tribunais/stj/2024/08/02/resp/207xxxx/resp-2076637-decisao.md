@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por COINTER MATERIAL MÉDICO HOSPITALAR LTDA. no qual se insurge, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 151):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. BASE DE CÁLCULO DOIPI. INCLUSÃO DO ICMS, DO PIS E DA COFINS. CABIMENTO.
+1. É legítima a inclusão do ICMS, do PIS e da COFINS na base de cálculo do IPI.
+2. Precedentes do STJ e deste TRF.
+Os embargos de declaração opostos foram rejeitados (fls. 186/191).
+Em suas razões recursais (fls. 201/212), a parte recorrente sustenta violação aos arts. 1.022, II e parágrafo único c/c art. 489, § 1º, IV e VI, do Código de Processo Civil (CPC) e aos arts. 15 e 16 da Lei 7.798/1989 e 190 do Regulamento do IPI (Imposto sobre Produtos Industrializados), pois "fica claro que o constituinte elegeu como signo presuntivo de riqueza a ser tributado pela União, a operação que envolva produtos industrializados, ao passo que o legislador, no exercício da competência constitucional que lhe fora conferida, estabeleceu como base de cálculo do IPI, o valor da referida operação, incluídos o preço do produto, acrescido do valor do frete e das demais despesas acessórias, cobradas ou debitadas pelo contribuinte ao comprador ou destinatário" (fl. 209).
+Sobreveio juízo positivo de admissibilidade do recurso à fl. 244.
+É o relatório.
+É deficiente o capítulo do recurso especial em que é alegada a ofensa ao art. 1.022 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+Verifico que inexiste a alegada violação dos art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia. Ressalto que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+O Tribunal de origem negou provimento à apelação interpost a pelo contribuinte, mantendo a sentença monocrática que denegou a segurança, com os seguintes fundamentos:
+Assim, quando a hipótese de incidência do IPI é a saída do produto industrializado do estabelecimento, a base de cálculo a ser considerada é o valor da operação, que corresponde ao preço final de saída da mercadoria do estabelecimento industrial.
+A impetrante sustenta que a legislação federal, ao definir o conceito de valor da operação, trouxe previsão que desborda das definições até então expostas, conforme se verifica no art. 14 da Lei nº 4.502/64, com redação dada pelo art. 15 da Lei nº 7.798/89. Veja-se:
+ ..
+Não há inconstitucionalidade ou ilegalidade na definição do conceito proposta pela norma em questão. Destaca-se que a metodologia de cálculo do ICMS possui uma forma específica de incidência de alíquota que chamada de cálculo por dentro. Ou seja, o ICMS é um imposto que integra a sua própria base de cálculo, na medida em que no preço de compra ou de venda, da mercadoria ou do serviço, já está embutido o valor da exação. A previsão legal está na LC 87/1996, que dispõe sobre as regras gerais do ICMS, nos seguintes termos:
+ ..
+Portanto, não sendo o ICMS cobrado destacadamente, está incluído no valor total da nota fiscal de venda, compondo o preço da mercadoria ou do serviço. A indicação do valor do ICMS na nota fiscal é mera referência para fins de controle, conforme o dispositivo legal acima transcrito.
+A impetrante argumenta, ainda, que a conclusão do Supremo Tribunal Federal, com relação ao ICMS na base de cálculo da contribuição ao PIS-PASEP e COFINS, deve ser aplicada analogicamente ao caso concreto. O Supremo Tribunal Federal firmou tese em recursos repetitivos de recurso extraordinário (repercussão geral, tema 69): O ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins (STF, Plenário, RE 574706, rel.Cármen Lúcia, j. 15mar.2017).
+Não obstante a aparente similitude entre as matérias abordadas naquele processo e no presente mandado de segurança, os preceitos lá estabelecidos não são aplicáveis na situação aqui em exame. No tocante ao PIS-PASEP e a COFINS, ambos têm como base de cálculo o faturamento, que, conforme preveem os arts. 2º e 3º, ambos da L 9.718/1998, compreende a receita bruta de que trata o art. 12 do Dl 1.598/1977. As bases de cálculo são distintas, visto que enquanto o PI incide sobre o valor da operação, o PIS-PASEP e a COFINS incidem sobre a receita bruta (fls. 155/156)
+Verifico que o acórdão recorrido está em consonância com a orientação jurisprudencial de ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça no sentido de que não é possível a exclusão do ICMS (Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação), do PIS (Programa de Integração Social) e da COFINS (Contribuição para o Financiamento da Seguridade Social) da base de cálculo do IPI. A propósito:
+TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. BASE DE CÁLCULO DO IPI. PIS, COFINS E ICMS. INCLUSÃO. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Na origem, trata-se de Mandado de Segurança impetrado em face do Delegado da Receita Federal do Brasil em Joinville/SC com vistas à exclusão do ICMS e do PIS/COFINS da base de cálculo do IPI. No primeiro grau, a demanda foi julgada improcedente, e a Corte regional manteve a denegação da ordem.
+2. O Colegiado originário adotou entendimento em consonância com a jurisprudência desta Corte Superior de que os valores relativos ao ICMS, PIS e COFINS não podem ser excluídos da base de cálculo do IPI. Nesse sentido: REsp 2.018.262/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 28.4.2023, AgInt no REsp 1.744.139/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 21.11.2022, REsp 675.663/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 30.9.2010; e REsp 672.026/SC, Rel. Ministro Castro Meira, Segunda Turma, DJ de 1º.8.2006.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 2.057.515/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. BASE DE CÁLCULO DO IPI. INCLUSÃO DOS VALORES RELATIVOS AO ICMS, AO PIS E À COFINS NA BASE DE CÁLCULO DO IPI. LEGALIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. NECESSIDADE DE REVOLVIMENTO DE PROVA. ÓBICE DA SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+VI - Ademais, apenas a título de reforço de argumentação, deve-se frisar que a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que, para efeitos de apuração do IPI, o valor tributável dos produtos nacionais é o valor total da operação de que decorrer a saída do estabelecimento industrial ou equiparado a industrial, o que abrange, inclusive, o montante dos tributos embutidos no denominado preço por dentro (PIS, Cofins e ICMS). Nesse sentido: AgInt no REsp n. 2.018.262/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/4/2023, DJe de 2/5/2023.
+VII - Agravo interno improvido.
+(AgInt no REsp n. 2.116.487/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+TRIBUTÁRIO. IPI. REDUÇÃO DA BASE DE CÁLCULO DO PIS E DA COFINS. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. "É inadmissível o Recurso Extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"(Súmula 283/STF)
+2. O PIS e a COFINS não devem ser deduzidos da base de cálculo do IPI, ante a ausência de previsão legal. Precedentes.
+3. Recurso especial conhecido em parte e improvido.
+(REsp 672.026/SC, relator Ministro Castro Meira, Segunda Turma, DJ de 1º/8/2006, p. 405.)
+TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI). BASE DE CÁLCULO. ICMS. INCLUSÃO.
+1. Acórdão regional recorrido foi proferido em conformidade com a orientação jurisprudencial do Superior Tribunal de Justiça no sentido de que não é possível a exclusão do ICMS da base de cálculo do IPI. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.744.139/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
