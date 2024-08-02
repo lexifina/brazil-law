@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de THIAGO SOUZA MENDONCA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Depreende-se dos autos que o ora paciente foi preso em flagrante em 14/02/2023 e teve a prisão convertida em preventiva pela suposta prática do crime de roubo majorado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão e não acolheu a alegação de excesso de prazo, denegando a ordem em acórdão de fls. 109-118.
+No presente writ, alega a defesa, em linhas gerais, excesso de prazo para a formação da culpa.
+Requer a concessão da ordem para revogar a prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de sustentação oral à fl. 13.
+A liminar foi indeferida às fls. 123-124.
+As informações foram prestadas às fls.130-143. O Ministério Público Federal, às fls. 149-154, manifestou-se pela "denegação da ordem" em parecer não ementado.
+É o relatório. DECIDO.
+Primeiramente, quanto ao pedido de sustentação oral, plenamente possível, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema.
+Nesse sentido:
+"A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019)" (AgRg no HC n. 796.496/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023)." (AgRg no HC n. 827.752/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Quanto à alegação de excesso de prazo na formação da culpa, extrai-se das informações colhidas que o ora paciente foi preso em flagrante em 14/02/2023 e teve a prisão convertida em preventiva pela suposta prática do crime de roubo majorado. Instaurada ação penal em 03.03.2023, foi a denúncia recebida em 20.03.2023, tendo o réu apresentado defesa prévia em 26.03.2023, e em seguida, sido designada audiência de instrução para 10.09.2024. Ressalte-se que, em consulta ao sítio do tribunal de origem (www.tjms.jus.br), processo nº 0001761-81.2023.8.12.0800, a prisão preventiva vem sendo reavaliada dentro do prazo nonagesimal previsto no art. 316 do CPP, parágrafo único, sendo a última reavaliação da prisão no dia 17/05/2024.
+Ao meu ver, a ação penal tramita com regularidade sem qualquer elemento que evidencie a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Ademais, cumpre ressaltar, que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos.
+Sobre o tema:
+"Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional." (AgRg no RHC n. 176.377/SE, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 13/3/2023).
+Ante o exposto, denego a ordem. Expeça-se, contudo, recomendação ao Juízo a quo para que imprima maior celeridade possivel no julgamento do presente processo.
+Publique-se. Intime-se.
+EMENTA
