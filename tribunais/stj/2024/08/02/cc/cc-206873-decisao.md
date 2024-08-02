@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE UNAÍ - MG, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE ÁGUAS CLARAS- DF, suscitado.
+Ação: cobrança ajuizada por ANTÔNIO MARCOS PESSOA em face de ILTON CESAR TOMAZ, ICT CONSTRUTORA E LOCADORA LTDA. - ALUMAQ e RIJ CONSTRUTORA LTDA, objetivando a condenação do demandado ao pagamento da quantia de R$ 520.439,62, a título de multa, em razão da ausência de registro do memorial de incorporação inerente a bem imóvel adquirido pelo autor.
+Manifestação do Juízo de Águas Claras - DF: acolheu a preliminar de incompetência apresentada em contestação e declinou da competência para o foro de eleição, que também corresponde ao foro de domicílio de ambas as partes, acentuando que todos os documentos que a parte autora "trouxe aos autos para comprovar seu domicílio em Vicente Pires foram emitidos em nome de terceiro(s) estranho(s) aos autos" (e-STJ, fl. 55).
+Manifestação do Juízo de Unaí - MG: afirmou que se trata de lide consumerista e, assim, deve ser observada a competência absoluta do foro do domicílio do consumidor - localizado em Vicente Pires - DF, suscitando o presente conflito de competência.
+Parecer do MPF: deixou de opinar.
+RELATADO O PROCESSO, DECIDO.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, "d", da Constituição Federal.
+Consoante a jurisprudência da Segunda Seção desta Corte, em se tratando de relações de consumo, a competência é absoluta em favor do consumidor quando este ocupa o polo passivo da ação, prevalecendo o foro de seu domicilio, em razão do princípio da facilitação da defesa.
+De outro lado, naquelas hipóteses em que a demanda foi proposta pelo consumidor, a lei autoriza que ele possa optar entre o foro do seu domicílio, o do réu, o de eleição ou o do cumprimento da obrigação, no juízo que melhor atenda a seus interesses, pois, nestes casos a competência é relativa. A propósito: AgRg no CC 130.813/DF, DJe 3.8.2016; AgRg no CC 129.294/DF, DJe 1º/10/2014; AgRg no CC 124.351/DF, Segunda Seção, DJe 17/5/2013.
+Na hipótese, a demanda de que tratam os autos foi proposta pelo consumidor, no foro de Águas Claras - DF, indicado, pelo autor, como sendo do seu domicílio, tendo a parte demandada oposto exceção de incompetência.
+A preliminar foi acolhida pelo juízo suscitado, que determinou a remessa dos autos para uma das Varas Cíveis da Comarca de Unaí - MG, sob a alegação de que se trataria do foro de eleição e, também, do domicílio de ambas as partes. Todavia, não se verifica dos autos eventual insurgência pela parte interessada contra esse decisum, por meio da via recursal adequada, de modo a ensejar a preclusão do tema.
+Diante desse contexto, tratando-se de competência territorial relativa (o consumidor ocupa o polo ativo da ação), sobre a qual foi julgada em definitivo exceção de incompetência, não pode o juízo destinatário dos autos recusar a sua competência.
+Com efeito, consoante a jurisprudência desta Corte, "por tratar-se de competência territorial e, portanto, relativa, deve prevalecer o interesse das partes, que aceitaram a decisão que julgou a exceção de incompetência, não sendo legítimo ao Juízo suscitante, de ofício, modificar competência relativa já definitivamente julgada" (CC n. 68.014/RJ, PRIMEIRA SEÇÃO, DJe 20/4/2009). Nesse sentido, ainda: CC 20.040/ES, SEGUNDA SEÇÃO, DJ 22/4/2002; CC 20.625/PR, SEGUNDA SEÇÃO, DJ 3/11/1999.
+Assim, impõe-se o reconhecimento da competência do juízo definido na decisão proferida no incidente processual, qual seja, o juízo suscitante.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE UNAÍ - MG.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO DE COMPETÊNCIA NEGATIVO. AÇÃO DE COBRANÇA. EXCEÇÃO DE INCOMPETÊNCIA ACOLHIDA. AUSÊNCIA DE INSURGÊNCIA PELA PARTE INTERESSADA. PRECLUSÃO. IMPOSSIBILIDADE DE RECUSA DA COMPETÊNCIA PELO JUÍZO SUSCITANTE. SÚMULA 33/STJ.
+1. Uma vez transitada em julgado a decisão proferida pelo juízo suscitado, que acolheu a exceção de incompetência formulada por uma das partes, não pode o juízo destinatário recusar a sua competência.
+2. A incompetência relativa não pode ser declarada de ofício, nos termos da Súmula 33/STJ.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE UNAÍ - MG.
