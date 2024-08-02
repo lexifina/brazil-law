@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por FELIPE NASCIMENTO ZANETTI, com apoio na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consoante se extrai dos autos, o Recorrente foi condenado a 6 (seis) anos, 6 (seis) meses e 22 (vinte e dois) dias de reclusão, em regime fechado, e 657 (seiscentos e cinquenta e sete) dias-multa (fls. 740-741), pelo delito de tráfico de drogas, configurado pela apreensão de 12g (doze) gramas de maconha; de 43g (quarenta e três gramas) de maconha; de 55g (cinquenta e cinco) gramas de maconha e de um colete balístico (fls. 1064-1065); e a 1 (um) ano, 3 (três) meses e 22 (vinte e dois) dias de reclusão, em regime semiaberto, e 13 (treze) dias-multa, pelo delito de receptação dolosa (fls. 741-742). Realizado o concurso material de crimes, as punições finais ficaram sedimentadas em 7 (sete) anos, 10 (dez) meses e 14 (quatorze) dias de reclusão, em regime fechado, e 670 (seiscentos e setenta) dias-multa (fls. 743).
+A Corte de justiça de origem negou provimento às apelações da Defesa e do Ministério Público (fls. 1054-1073).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a Defesa aponta violação arts. 240, §§1º e 2º, e 244, ambos do Código de Processo Penal (fl. 1086).
+Aduz, em síntese, ilegalidade no flagrante do Corréu Luan Henrique Stronczek Camargo, que levou, posteriormente, à prisão do ora Recorrente, havendo, assim, nulidade das provas derivadas da abordagem ilegal da polícia em veículo (onde estava Luan Henrique Stronczek Camargo), que estava apenas estacionado em via pública. Alega que, ao contrário do afirmado pelo Magistrado de primeiro grau, não há nos autos qualquer comprovação de que o carro estava em local conhecido como ponto de comercialização de drogas (fls. 1091-1096).
+Afirma, em suma, que não havia justificativa idônea para as abordagens realizadas (fls. 1096-1099).
+Aponta nulidade das provas colhidas em violação de domicílio, alegando que o Corréu Luan Henrique Stronczek Camargo não admitiu para os policiais ter drogas em casa (fls. 1099-1102); e que não foi franqueada, por sua mãe, a entrada da polícia em casa, não bastando a palavra dos policiais em sentido contrário (fls. 1102-1105).
+Assevera, ainda, que a descoberta de drogas em busca pessoal não autoriza a entrada em domicílio (fls. 1105-1110).
+Apresentadas as contrarrazões (fls. 1121-1123), o recurso especial foi admitido (fls. 1127-1129).
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 1143-1153).
+É o relatório. DECIDO.
+O Recorrente busca a absolvição em decorrência de nulidade das provas supostamente colhidas em busca pessoal ilegal e em violação de domicílio.
+O Tribunal de justiça de origem superou a alegação de nulidade das provas obtidas de forma ilícita mediante abordagem policial sem fundadas razões e por meio do ingresso ilegal dos policiais na residência do Corréu, ness es termos (fls. 1056-1059):
+"Para tanto, sustenta a ilicitude das provas obtidas mediante o ingresso dos agentes policiais no domicílio do corréu Luan e em busca pessoal. Aduz que não havia fundadas razões para a abordagem policial e para a entrada dos policiais militares na residência.
+ ..
+A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial - é a redação do art. 5º, inciso XI, da Constituição Federal. 1
+O delito de tráfico de drogas é considerado crime permanente, cuja consumação se protrai no tempo, como, por exemplo, nas modalidades de expor à venda, ter em depósito, transportar, trazer consigo e guardar drogas, situação que autoriza a prisão em flagrante no interior do domicílio, independente de mandado judicial.
+Outrossim, o artigo 303, do Código de Processo Penal, estabelece que: "Nas infrações permanentes, entende-se o agente em flagrante delito enquanto não cessar a permanência."
+ ..
+Partindo do enfoque doutrinário e jurisprudencial para o exame do caso em concreto, verifica-se que não há qualquer ilegalidade na diligência policial que culminou na prisão em flagrante do apelante."
+É possível verificar das transcrições que a alegada ilicitude das provas colhidas mediante abordagem pessoal e pelo ingresso da polícia na residência do Corréu foi afastada pela Corte de justiça estadual com apoio em fundamentações constitucional e infraconstitucional, pertinentes à excepcionalidade do contido no art. 5º, inciso XI, da Constituição Federal pelo disposto no art. 303 do Código de Processo Penal.
+Contudo, o Recorrente não interpôs o necessário recurso extraordinário do fundamento constitucional. Assim, o óbice da Súmula n. 126 desta Corte apresenta-se intransponível ao conhecimento do recurso especial: "É inadmissível recurso especial, quando o acordão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.".
+A propósito:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. INVASÃO DE DOMICÍLIO. FUNDAMENTO CONSTITUCIONAL. SÚMULA N. 126/STJ.
+1. Incide a Súmula n. 126 desta Corte, pois, não obstante a existência de fundamento constitucional autônomo no acórdão recorrido, não foi interposto o recurso extraordinário.
+2. Agravo regimental desprovido." (AgRg no REsp n. 2.107.537/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.).
+Ainda a propósito, dentre vários outros, AgRg no REsp n. 2.051.132/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/11/2023, DJe de 16/11/2023; e o AgRg no AREsp n. 2.022.896/AM, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 18/8/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial nos termos do art. 255, § 4º, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA INIDONEIDADE DAS PROVAS COLHIDAS EM ILEGAL REVISTA PESSOAL E EM VIOLAÇÃO DE DOMICÍLIO. FUNDAMENTAÇÕES CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. ÓBICE DA SÚMULA Nº 126/STJ. RECURSO ESPECIAL NÃO CONHECIDO, NOS TERMOS DO ART. 255, § 4º, INCISO I, DO RISTJ.
