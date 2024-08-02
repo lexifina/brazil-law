@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADRIANO PIENTOSA com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+A defesa aponta violação do art. 59 do Código Penal e do art. 42 da Lei n. 11.343/2006.
+Aduz que a pena-base teria sido fixada de forma desproporcional, em 2 anos e 6 meses acima do mínimo legal, somente em razão da quantidade de droga apreendida.
+Pondera que a quantidade de entorpecentes seria ínfima, no caso, 78,5 g de cocaína e 18 g de crack.
+Requer o provimento do recurso, "para que seja extirpada a exasperação da pena-base pela natureza da droga" (e-STJ, fl. 736).
+Apresentadas as contrarrazões (e-STJ, fls. 747-748).
+Admitido o inconformismo (e-STJ, fls. 752-755), os autos ascenderam ao STJ.
+O Ministério Público Federal opina pelo não conhecimento ou desprovimento do recurso especial (e-STJ, fls. 767-769).
+É o relatório.
+Decido.
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, a Corte local, atenta às diretrizes do art. 42 da Lei de Drogas, considerou a quantidade dos entorpecentes apreendidos (85 pedras de crack - 18 gramas - e 130 pinos de cocaína - 76,5 gramas), além dos maus antecedentes (e-STJ, fl. 454) - para elevar a sanção inicial em 2 anos e 6 meses de reclusão. Assim, tendo sido apresentados elementos idôneos para a majoração da reprimenda básica, um deles elencado inclusive como circunstância preponderante, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao referido delito (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento, com destaques:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO DO WRIT. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES E MAUS ANTECEDENTES. INEXISTÊNCIA DE DESPROPORCIONALIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - O writ foi impetrado contra acórdão do Tribunal local, em substituição a recurso próprio, de modo que não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça.
+II - Consoante jurisprudência deste Superior Tribunal de Justiça, "não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias" (AgRg no HC n. 803.187/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 2/6/2023).
+III - Não há ilegalidade na exasperação da pena-base no patamar de 02 (dois) anos e 03 (três) meses acima da pena mínima, em razão da quantidade e da natureza dos entorpecentes apreendidos (780g de maconha e 487g de cocaína), bem como em razão dos maus antecedentes do paciente, uma vez que em conformidade com os parâmetros estabelecidos por essa Corte Superior.
+Agravo regimental desprovido."
+(AgRg no HC n. 902.648/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+"PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADES. SENTENÇA CARENTE DE MOTIVAÇÃO. TESE NÃO ANALISADA NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE FORJADO. NÃO OCORRÊNCIA. QUEBRA DE CADEIA DE CUSTÓDIA. ALEGAÇÃO GENÉRICA. LAUDO DEFINITIVO FEITO POR AMOSTRAGEM. LEGALIDADE. PENA-BASE. AUMENTO PROPORCIONAL. RECURSO NÃO PROVIDO.
+1. A tese de invalidade da sentença proferida oralmente - sem a devida fundamentação - não foi objeto de exame no acórdão impugnado, o que impede o enfrentamento do tema diretamente por esta Corte de Justiça, sob pena de indevida supressão de um grau de jurisdição.
+2. Não houve qualquer agente indutor ou provocador da prática do tráfico de drogas. O delito já estava consumado quando foram localizadas as drogas escondidas no colchão do réu pelos cães farejadores - a conduta do paciente se enquadra nos núcleos verbais de "guarda ou armazenamento de entorpecentes", para fins de mercancia. Logo, inexistiu flagrante forjado ou preparado pela polícia.
+3. A defesa não se desincumbiu do ônus de indicar qualquer circunstância concreta - manipulação indevida; interferência dos agentes policiais etc - apta a configurar a quebra da cadeia de custódia, limitando-se em sustentar, de forma especulativa, de que "não houve a especificação do trajeto cronológico da cadeia de custódia". Por sua vez, a confecção do laudo definitivo por amostragem, diante da incineração do restante da droga, é suficiente para a comprovação da materialidade delitiva.
+4. Não há ilegalidade no aumento da pena-base em 2 anos e 10 meses tendo como fundamento a multireincidência do réu e a quantidade de droga apreendida, constante autoriza o art. 42 da Lei n. 11.434/2006.
+5. Recurso não provido."
+(AgRg no HC n. 858.508/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/6/2024, DJe de 13/6/2024.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
