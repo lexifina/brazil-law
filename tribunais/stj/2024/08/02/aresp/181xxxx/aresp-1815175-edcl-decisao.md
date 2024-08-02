@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DO RIO GRANDE DO SUL à decisão de fls. 777/779.
+Nas razões de seus embargos de declaração, a parte embargante sustenta que há omissão quanto ao fato de que, "no julgamento do agravo interno interposto pela ora embargada, não foram proferidos votos divergentes" (fl. 787) e que:
+ ..  verifica-se erro de fato na decisão embargada, uma vez que menciona decisão de fl. 391, tendo o recurso especial sido interposto em face da decisão de fls. 649/659. Nota-se que o documento de fl. 391 é um termo de intimação por meio eletrônico (fl. 788).
+Pede que os embargos sejam acolhidos com efeitos infringentes.
+Impugnação juntada às fls. 795/798.
+É o relatório.
+A irresignação merece prosperar.
+Analisando os autos, constato a ocorrência de omissão e erro material.
+Assim, a decisão ora embargada passa a ter a seguinte redação:
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual ANA ALCERY DE LIMA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls. 649/659):
+AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSO EXTRAORDINÁRIO. URV. CONVERSÃO. NEGATIVA DE SEGUIMENTO. REPERCUSSÃO GERAL. TEMAS 339, 424, 539 E 660DO STF. RECURSO DESPROVIDO COM APLICAÇÃO DE MULTA.
+Em suas razões recursais, a parte recorrente alega, além de divergência jurisprudencial, violação do art. 1.021, § 4º, do Código de Processo Civil (CPC), pugnando, em síntese, pelo afastamento da multa prevista nesse regramento, uma vez que o agravo interno não é manifestamente improcedente.
+Contrarrazões às fls. 710/714.
+É o relatório.
+A norma processual que rege a incidência da penalidade ora questionada exige que o agravo interno seja declarado manifestamente inadmissível ou improcedente em votação unânime.
+Esta Corte Superior de Justiça possui o firme entendimento de que "a aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt no AREsp 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020 - sem destaques no original).
+Nessa mesma linha, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - "A quantia inferior a quarenta salários mínimos depositada em conta-corrente, conta poupança ou em qualquer fundo de investimento decorrente de verbas salariais deve ser acobertada pela proteção legal da impenhorabilidade absoluta, nos termos do art. 833, IV e X, do Código de Processo Civil" (1ª Turma AgInt no AREsp n. 1.775.436/RS, Rel. Min. Sérgio Kukina, j. 22.8.2022, DJe 25.8.2022).
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 2.017.460/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022 - sem destaques no original.)
+Da atenta análise do resultado do julgamento que aplicou a multa descrita no § 4º do art. 1.021 do Código de Processo Civil, observo que o agravo interno apresentado não se mostrou, de plano, manifestamente inadmissível ou improcedente, tampouco considero a sua interposição abusiva ou protelatória.
+Ora, se a aplicação da multa está arrimada na manifesta improcedência ou inadmissibilidade do recurso, havendo dúvida quanto a esse caráter manifesto, carece de plausibilidade a sua imposição, devendo ser analisado cada caso à luz de suas peculiaridades, obviamente.
+Neste caso, diante de suas especificidades, entendo que estão ausentes os requisitos legais a amparar a aplicação da multa do art. 1.021, § 4º, do Código de Processo Civil.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e afastar a penalidade imposta com fulcro no art. 1.021, § 4º, do Código de Processo Civil.
+Prejudicada a análise da divergência jurisprudencial suscitada.
+Publique-se. Intimações necessárias.
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, apenas para sanar a omissão e o erro de fato apontados pela parte embargante nos termos acima expostos.
+Publique-se. Intimem-se.
+EMENTA
