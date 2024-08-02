@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela RGE SUL DISTRIBUIDORA DE ENERGIA S.A. contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+RESPONSABILIDADE CIVIL AÇÃO DE REGRESSO DANOS MATERIAIS Oscilação da tensão elétrica Autora pagou indenização securitária ao segurado Sub-rogação nos direitos do segurado Caracterizada a responsabilidade da Requerida pelo evento danoso Presente o dever de indenizar SENTENÇA DE PROCEDÊNCIA, para condenar a Requerida ao pagamento do valor de R$ 6.300,00 RECURSO DA REQUERIDA IMPROVID
+No recurso especial, a recorrente aponta violação ao art. 101, I, do CDC, alegando que não se nega o fato de a seguradora se sub-rogar nos direitos do segurado-consumidor de serviços de energia elétrica, porém tal sub-rogação não abrange a sub-rogação da Recorrida em prerrogativas processuais concedidas aos consumidores que decorrem, única e exclusivamente, de sua própria condição de consumidor.
+Foram apresentadas contrarrazões às fls. 502-515 (e-STJ)
+Decisão de admissibilidade à fl. 516-517.
+É o relatório. Decido.
+A insurgência merece prosperar.
+Sobre a questão da competência, o Tribunal de origem assim se manifestou (fl. 458 e-STJ):
+No mais, sub-rogada no direito, e presente a relação de consumo entre o segurado e a Requerida (prestadora de serviços de energia elétrica), aplicáveis as disposições da Lei número 8.078/90 à Autora, pois o artigo 349 do Código Civil estipula que "A sub-rogação transfere ao novo credor todos os direitos, ações, privilégios e garantias do primitivo", de modo que "agindo a seguradora como consumidora por sub-rogação, exerce direitos, privilégios e garantias do seu segurado/consumidor" (STJ, REsp 1.321.739/SP, Rel. Min. Paulo de Tarso Sanseverino, DJe de 10/09/2013).
+Assim, competente o Juízo de origem para o processamento e julgamento da ação, nos termos do artigo 101, inciso I, da Lei número 8.078/90 ("Na ação de responsabilidade civil do fornecedor de produtos e serviços, sem prejuízo do disposto nos Capítulos I e II deste título, serão observadas as seguintes normas: I - a ação pode ser proposta no domicílio do autor"). (destaquei)
+Ocorre que esta Corte já se pronunciou de modo diverso, senão vejamos:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA DE RESSARCIMENTO. DANO EM CARGA DURANTE TRANSPORTE INTERNACIONAL. SEGURADORA. SUB-ROGAÇÃO. TRANSMISSÃO DO DIREITO MATERIAL. CLÁUSULA DE ELEIÇÃO DE FORO. MATÉRIA PROCESSUAL. INOPONIBILIDADE À SEGURADORA SUB-ROGADA. CONVENÇÃO DE MONTREAL. SÚMULA 283/STF.
+1. Ação regressiva de ressarcimento, ajuizada em 26/06/2018, da qual foi extraído o presente recurso especial, interposto em 05/02/2020 e concluso ao gabinete em 08/09/2021.
+2. O propósito recursal é decidir (I) se a cláusula de eleição de foro firmada entre a autora do dano e o segurado vincula a seguradora em ação regressiva na qual pleiteia o ressarcimento do valor pago ao segurado em virtude do dano na carga durante transporte internacional; e (II) se a Convenção de Montreal é aplicável à hipótese em julgamento.
+3. De acordo com o art. 786 do CC, depois de realizada a cobertura do sinistro, a seguradora sub-roga-se nos direitos e ações que competirem ao segurado contra o autor do dano, nos limites do valor pago.
+4. O instituto da sub-rogação transmite apenas a titularidade do direito material, isto é, a qualidade de credor da dívida, de modo que a cláusula de eleição de foro firmada apenas pela autora do dano e o segurado (credor originário) não é oponível à seguradora sub-rogada.
+5. Tendo o acórdão recorrido decidido pela não aplicação da Convenção de Montreal na hipótese em julgamento, a falta de fundamentação pela recorrente quanto à aplicação da referida Convenção, sem indicar, por exemplo, em qual de seus dispositivos se enquadra a situação fática da presente demanda, enseja a incidência da Súmula 283/STF.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1962113/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em22/03/2022, DJe 25/03/2022)
+RECURSO ESPECIAL - CONTRATO DE TRANSPORTE MARÍTIMO - AÇÃO DE REGRESSO - SUB-ROGAÇÃO - CLÁUSULA DE ELEIÇÃO DO FORO - AUSÊNCIA DE INSURGÊNCIA EM RELAÇÃO A TODOS OS FUNDAMENTOS DO V. ACÓRDÃO RECORRIDO - INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 283 DA SÚMULA/STF - RECURSO NÃO CONHECIDO.
+I - O instituto da sub-rogação transfere o crédito apenas com suas características de direito material. A cláusula de eleição do foro estabelecida no contrato entre segurado e transportador não opera efeitos com relação ao agente segurador sub-rogado.
+II - Acórdão assentado em mais de um fundamento, sem que todos tenham sido objeto de impugnação. Aplicação, por analogia, da Súmula n. 283/STF.
+III - Recurso especial não conhecido. (REsp 1038607/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 20/05/2008, DJe 05/08/2008)
+Nesse contexto, o entendimento da Corte local destoa da jurisprudência do Superior Tribunal de Justiça, que reconhece que a sub-rogação limita-se aos direitos de natureza material e não aos de natureza processual, como a definição da competência, pretendida pela agravada.
+Assim, nos termos da Súmula 568 ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema"), dou provimento ao recurso especial a fim de declarar a incompetência do foro paulista para o processamento e o julgamento da demanda, proclamando a nulidade das decisões judiciais proferidas nos autos, mantendo a validade dos atos instrutórios.
+Como consequência, determina-se a remessa dos autos para distribuição da ação a uma das varas cíveis da Comarca de São Leopoldo/RS (onde domiciliada a demandada), para que prossiga a demanda em primeiro grau, em seus ulteriores termos.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENERGIA ELÉTRICA. SEGURADORA. SUB-ROGAÇÃO. TRANSMISSÃO DO DIREITO MATERIAL. CLÁUSULA DE ELEIÇÃO DE FORO. MATÉRIA PROCESSUAL. INOPONIBILIDADE À SEGURADORA SUB-ROGADA. RECURSO ESPECIAL PROVIDO.
