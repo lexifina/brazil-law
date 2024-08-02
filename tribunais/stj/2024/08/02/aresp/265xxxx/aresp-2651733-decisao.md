@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por ITAMAR DOS SANTOS SILVEIRA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. COISA JULGADA. TRÍPLICE IDENTIDADE. PARTES. PEDIDO. CAUSA DE PEDIR. AUSÊNCIA. RECONHECIMENTO. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 337, § 4º do CPC, no que concerne à ocorrência de coisa julgada, pois o valor do débito cobrado foi incluído na Ação Executiva nº 0723003-70.2020.8.07.0001 e, inclusive, é objeto de discussão nos Embargos opostos, trazendo a seguinte argumentação:
+4.1. Data máxima vênia, o acórdão que manteve a sentença de procedência da inicial não andou bem ao não reconhecer a coisa julgada em favor da Recorrente Ranielle, tal qual se deu com os demais Requeridos.
+4.4. Nesse ponto, o juízo reconheceu que o débito cobrado na presente ação está inscrito no título o qual se mostrou imprestável nos autos dos Embargos à Execução nº 0732573-80.2020.8.07.0001 e Execução nº 0723003-70.2020.8.07.0001, contudo, pelo fato de a Recorrente Ranielle não ter sido parte das referidas ações, a ela não se aproveitou a referida sentença dos embargos, o que não merece prosperar.
+4.5. Entender de modo diverso é recair em bis in idem, com a cobrança duplicada do mesmo débito.
+4.6. Não se trata a Recorrente de uma terceira estranha, mas beneficiária dos empréstimos junto com sua família.
+4.7. Todas essas transações já foram debatidas em sede de Embargos à Execução. Repisa-se as comprovações dos embargos por meio dos seguintes documentos, conforme detalhado nos recursos e contestação: ID 76859932, pg. 9, ID 93160580, pgs. 10 e 21.
+4.8. Assim, o judiciário está atuando em divergência ao julgado de modo contraditório a mesma causa de pedir, o que não merece prosperar, afrontando o art. 337, §4º do CPC.
+4.9. Ou seja, o suposto valor emprestado e não pago se deu em 05/09/2019, data anterior à citada escritura, de 10/09/2019, estando o presente débito já incluído no valor global executado, o qual já foi liquidado em sede de sentença e acórdão nos Embargos à Execução nº 0732573-80.2020.8.07.0001, afastando o conteúdo da escritura pública de confissão de dívida da seguinte forma, que inclui também o débito debatido na presente demanda (ID nº 92111926 dos Embargos à Execução):
+ ..
+4.10. A sentença foi clara ao tratar o título executivo como imprestável, mormente diante da impossibilidade de análise dos débitos de modo discriminado, além dos juros abusivos.
+4.11. Ocorre que, insatisfeito com o resultado da demanda, o Recorrido, com base do mesmíssimo título, busca o rejulgamento, ciente, como incontroverso na inicial, que o débito aqui perseguido, qual seja o valor de R$ 26.000,00 transferido pelo Sr. Eduardo para a Recorrente, já está englobado no valor reconhecido na sentença supracitada dos Embargos à Execução.
+4.12. Verifica-se no presente caso a identidade das partes, causa de pedir e pedido (aqui pede a parte do todo, ou seja, o débito de R$ 26.000,00 já englobado no valor de R$ 119.695,33), em clara afronta à coisa julgada material, ante o julgamento da cognição da execução em sede de embargos, com sentença de julgamento de mérito, que sobre essa parte do tema, já transitou em julgado, visto que a pendencia de recurso é tão somente por matéria diversa, como visto, ainda se debate honorários sucumbenciais, mas não o débito objeto da execução.
+ ..
+4.14. Ainda no mesmo sentido, de modo divergente ao acórdão recorrido, a doutrina especializada dispõe que não necessariamente há necessidade de tríplice identidade para a configuração da coisa julgada, bastando ser contraditória as aduções realizadas em nova ação se comparada à ação anterior, como é no presente caso em que a dívida aqui perseguida já fora objeto de outra demanda já transitada em julgado, veja-se:
+ ..
+4.15. Assim, data máxima vênia, o acórdão merece reparos a fim de se coadunar com a inteligência da legislação infraconstitucional (fls. 427/437).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como efeito, ausente a tríplice identidade, afasta-se a alegação de coisa julgada.
+Em análise dos autos, verifica-se que a parte apelante não integrou nenhum dos polos da Ação Executiva nº 0723003-70.2020.8.07.0001 ou dos Embargos à Execução. Tal fato, inclusive, é afirmado pela recorrente nas razões recursais.
+Além disso, são distintos os pedidos e a causa de pedir.
+Diversamente do alegado pela parte apelante, o débito cobrado na presente ação não integrou a planilha de dívidas utilizada pelo magistrado no julgamento dos Embargos à Execução, para calcular o valor nominal dos empréstimos devidos pelos embargantes Itamar dos Santos Silveira e Sueli Rose de Morais Silveira e, portanto, não existe qualquer empecilho para a sua cobrança.
+Destarte, ausente a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido-, não há como reconhecer a coisa julgada (fl. 420).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
