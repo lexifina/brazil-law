@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. INEXISTÊNCIA DE EXAME PERICIAL. INDISPENSABILIDADE DA PERÍCIA NAS INFRAÇÕES QUE DEIXAM VESTÍGIOS. POSSIBILIDADE DE COMPROVAÇÃO SUPLETIVA. EXCEPCIONALIDADE COMPROVADA POR OUTROS MEIOS DE PROVA.
+I - Esta Corte Superior possui entendimento no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo ser supletivamente suprido por outros meios probatórios somente se (a) o delito não deixar vestígios; (b) o s vestígios deixados desaparecerem; ou (c) as circunstâncias do crime não permitirem a confecção do laudo, restando em harmonia com o acórdão recorrido.
+II - No caso, o Tribunal justificou a falta do exame por haverem desaparecido os vestígios, esclarecendo que o delito ocorreu em desfavor de um estabelecimento comercial, sendo que a porta de entrada do referido estabelecimento foi rompida, consoante demonstrado pela prova testemunhal colhida. Excepcionalmente, quando presentes nos autos elementos aptos a comprovar o rompimento de obstáculo de forma inconteste, é possível o suprimento da prova pericial, como na hipótese dos autos, no qual restou comprovada pela confissão do acusado e pela prova testemunhal.
+Agravo regimental desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido ofensa ao princípio da fundamentação das decisões judiciais porque faltaria motivação idônea para a manutenção da qualificadora do rompimento de obstáculo, pois (fl. 709):
+ ..  como constatado, havia a possibilidade de confecção do laudo pericial, o qual não foi confeccionado por não ter sido sequer solicitado pelo órgão acusador, não sendo possível substituí-lo por outros meios de prova, como permite a jurisprudência desta Corte em casos excepcionais.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no acórdão recorrido, como se observa do seguinte trecho do referido julgado:
+ ..  o entendimento exposto no acórdão de origem está de acordo com a jurisprudência desta Corte Superior, a qual é assente no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo ser supletivamente suprido por outros meios probatórios somente se (a) o delito não deixar vestígios; (b) os vestígios deixados desaparecerem; ou (c) as circunstâncias do crime não permitirem a confecção do laudo.
+No caso, o Tribunal justificou a falta do exame por haverem desaparecido os vestígios, esclarecendo que o delito ocorreu em desfavor de um estabelecimento comercial, sendo que a porta de entrada do referido estabelecimento foi rompida, consoante demonstrado pela prova testemunhal colhida.
+Excepcionalmente, quando presentes nos autos elementos aptos a comprovar o rompimento de obstáculo de forma inconteste, é possível o suprimento da prova pericial, como na hipótese dos autos, no qual restou comprovada pela confissão do acusado e pela prova testemunhal.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
