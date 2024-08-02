@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 83/STJ.
+A defesa alega, em síntese, "não ser o caso de aplicação do óbice da Súmula 83/STJ uma vez que o Superior Tribunal de justiça possui entendimento no sentido de que a avaliação da conduta social não deve se resumir à mera existência de antecedentes criminais, porquanto envolve uma análise mais ampla do comportamento do indivíduo em diversos aspectos de sua vida" (fl. 288), não sendo, portanto, o entendimento uníssono.
+Requer o provimento do presente agravo.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do recurso.
+No caso, a despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o óbice contido na Súmula n. 83/STJ, pois não infirmou, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem ao negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência do enunciado apontado.
+A impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa, pois não basta deduzir a inaplicabilidade dos óbices sumulares, devendo ser esclarecida a efetiva desnecessidade de reexame factual ao deslinde da controvérsia.
+Ressalte-se que, para impugnar a Súmula 83/STJ, é indispensável que se indique precedentes contemporâneos ou supervenientes ao mencionados na decisão agravada, que infirmem o referido verbete sumular, providência que não se verifica da leitura das razões do agravo em recurso especial. À propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+2. A decisão que inadmitiu o recurso especial na origem pautou-se na incidência das Súmulas 7 e 83, ambas do STJ. Todavia, o agravante deixou de impugnar especificamente a incidência da Súmula 83/STJ.
+3. Para que se considere adequadamente impugnado o referido enunciado sumular, é necessário que a parte indique precedentes contemporâneos ou supervenientes aos indicados na decisão combatida, para comprovar que outro é o entendimento jurisprudencial do STJ ou demonstre que o caso dos autos diverge daqueles veiculados nos julgados transcritos pela instância de origem.
+4. Em relação à aplicação do princípio da insignificância nos casos de reiteração da conduta, o julgado trazido pela parte agravante é mais antigo do que os colacionados na decisão de admissibilidade, não sendo capaz de demonstrar o atual posicionamento do STJ sobre a controvérsia.
+5. Quanto à Súmula 231/STJ, o agravo limitou-se a afirmar a possibilidade de superação do aludido enunciado sumular, o que não é suficiente para infirmar o óbice da Súmula 83/STJ, uma vez que, embora o julgamento da matéria tenha sido afetado à Terceira Seção, o entendimento sedimentado na Súmula 231/STJ, ao menos até o presente momento, continua representando a jurisprudência pacífica desta Corte sobre o tema.
+6. Agravo regimental desprovido. (AgRg no AREsp n. 2.534.189/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/4/2024, DJe de 19/4/2024.)
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Ao recorrente, incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Presente flagrante ilegalidade a autorizar a concessão de habeas corpus de ofício.
+3. A agravante genérica da calamidade pública, na segunda fase da dosimetria da pena, pressupõe situação concreta de que o agente se prevaleceu da pandemia para a prática delitiva.
+4. Agravo regimental desprovido, mas habeas corpus concedido, de ofício, para excluir a agravante do art. 61, II, j, do Código Penal, com o redimensionamento da pena. (AgRg no AREsp n. 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. INSURGÊNCIA DESPROVIDA .
+1. A decisão que não admitiu o recurso especial assentou que estaria prejudicado o apelo nobre diante do julgamento do HC 690.320/SP. No entanto, no agravo em recurso especial, a defesa não refutou o referido fundamento.
+2. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil e o art. 253, I, do RISTJ.
+3. Agravo desprovido. (AgRg no AREsp n. 2.156.001/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+Incide, no caso e por analogia, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
