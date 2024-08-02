@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por PADAP EMPREENDIMENTOS CONSTRUCOES E PARTICIPACOES S/A contra decisão que conheceu do Agravo para não conhecer do Recurso Especial, fundamentada na preclusão consumativa.
+Sustenta, em síntese, que a decisão padece de contradição (art. 1.022, I, do CPC) e erro material (art. 1.022, III, do CPC), porquanto necessário o pronunciamento acerca de do fato de que na petição inicial há requerimento para a intimação dos advogados: Dra. Adriana Luiza Lazaroni de Moraes, Dra. Deborah Oliveira da Luz e Dr. Ricardo Lima Cardoso.
+Alega, ainda, que ocorreu nulidade na intimação da Empresa Agravante, uma vez que embora na inicial tenha pedido expresso para intimações em nome de 3 (três) advogados, somente 1 (um) advogado foi intimado.
+Transcorreu in albis o prazo para impugnação (certidão de fls. 788).
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 1.022 do estatuto processual, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+No caso, o Embargante sustenta, em síntese, que a decisão padece de contradição (art. 1.022, I, do CPC) e erro material (art. 1.022, III, do CPC), porquanto necessário o pronunciamento acerca de do fato de que na petição inicial há pedido expresso para intimações em nome de 3 (três) advogados, somente 1 (um) advogado foi intimado, razão pela qual se impõe a integração do julgado.
+Conforme relatado pelo parte Agravante, na petição de fls. 2/33e, há pedido de intimação dos Drs. Adriana Luiza Lazaroni de Moraes, Deborah Oliveira da Luz e Ricardo Lima Cardoso, inscritos na OAB/RJ, respectivamente, sob os n.s 107.310, 147.396 e 101.050.
+Compulsando-se os autos verifico que a intimação da decisão de fls. 488/495e ocorreu em nome dos Drs. Deborah Oliveira da Luz (fls. 497/504e e 530e), Cleydson Assis Lopes de Araújo (fls. 505/512e e 531e) e Wallace Ribeiro dos Santos (fls. 513/520e e 532e), não tendo o Agravante arguido a nulidade da ato por ausência de intimação da Dra. Adriana Luiza Lazaroni de Moraes e do Dr. Ricardo Lima Cardoso.
+Além disso, por ocasião da apresentação intempestiva da procuração outorgada ao Dr. Wallace Ribeiro dos Santos (fls. 693/694e), também não foi suscitada a nulidade da intimação do acórdão do embargos de declaração realizada, somente, em nome somente da Dra. Adriana Luiza Lazaroni de Moraes Sousa e do próprio Dr. Wallace Ribeiro dos Santos (fls. 687/688e).
+Com efeito, o Superior Tribunal de Justiça possui orientação no sentido de que, em regra, "o vício relativo à ausência de intimação constitui nulidade relativa, uma vez que, nos termos do art. 245 do CPC/1973, "a nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão" (AgInt no REsp n. 1.690.956/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/12/2023, DJe de 23/1/2024).
+Nesse contexto, observo que a preliminar suscitada no Agravo em Recurso Especial, nulidade da intimação para regularizar a representação processual, ante a ausência de intimação de todos os procuradores elencados na petição inicial de fls. 2/33e, não pode ser acolhida em razão da preclusão consumativa, pois o tema não foi oportunamente suscitado na petição fls. 693/694e.
+Ante o exposto, ACOLHO os Embargos de Declaração, para sanar os vícios apontados, nos termos da fundamentação, SEM ATRIBUIÇÃO DE EFEITOS MODIFICATIVOS.
+Publique-se e intimem-se.
+EMENTA
