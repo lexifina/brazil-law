@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Kaua de Lima Peres - denunciado porque, no dia 10/5/2024, por volta das 10h00min, na rua Sapucaia, altura do n. 280, Cidade e comarca de Itaquaquecetuba, trazia consigo, para fins de tráfico, 94 porções de cocaína, pesando 61 g e 211 porções de maconha, pesando 329 g (fl. 80) -, em que se aponta como autoridade coatora a Câmara Especial do Tribunal de Justiça de São Paulo (Habeas Corpus n. 2133830-91.2024.8.26.0000/SP), cuja ementa merece transcrição (fl. 79):
+HABEAS CORPUS. Artigo 33, da Lei nº 11.343/06. Prisão em flagrante realizada por guardas civis Ilegalidade. Inexistência. Ausência de trabalho. investigativo. Situação de flagrante delito. Hipótese em que, a corroborar sólido entendimento jurisprudencial sobre o tema, foi editada a Lei nº 11.841/2023, que expressamente admite a prisão em flagrante pelas guardas civis Ausência de ilegalidade a recair sobre o paciente. Concessão de liberdade provisória sob os argumentos de primariedade, ausência dos requisitos autorizadores da custódia cautelar e falta de fundamentação da decisão que converteu a prisão em flagrante em preventiva. Descabimento. Decisão fundamentada. Presença das condições que autorizam a prisão preventiva. Gravidade concreta do delito. Crime equiparado a hediondo. Ausência de constrangimento ilegal a recair sobre o paciente.
+Ordem denegada.
+Daí a presente impetração, em que se sustenta a existência de constrangimento ilegal decorrente da ilicitude das provas obtidas em razão da busca pessoal realizada por guardas municipais (fls. 3/14).
+Requer-se, em caráter liminar, o seguinte (fls. 13/14):
+ ..
+Ante o exposto, demonstrada a ilegalidade da ordem que mantém a persecução penal, requer o impetrante a concessão LIMINAR da ordem, com a imediata suspensão do processo durante o regular trâmite do writ.
+Requer, outrossim, seja o presente pedido de habeas corpus julgado procedente ao final, confirmando-se a liminar, com o trancamento da ação penal.
+ ..
+Liminar deferida em 11/6/2024, no sentido suspender os efeitos do decisum do Juízo de Direito de primeiro grau (Processo n. 1501018-40.2024.8.26.0616/SP), até o julgamento do mérito do presente writ, nos termos desta decisão (fl. 91).
+Prestadas informações pela origem (fls. 99/129), o Ministério Público Federal opinou pela denegação da ordem (fl. 138).
+É o relatório.
+Da atenta leitura dos autos encontra-se presente a plausibilidade jurídica das alegações.
+Com efeito, a Câmara Especial do Tribunal de origem consignou - sobre a atuação da guarda municipal - o seguinte (fls. 80/83):
+ ..
+Segundo consta dos autos, os guardas municipais realizavam ronda escolar, momento em que visualizaram o paciente carregando uma sacola plástica transparente e por terem estranhado a conduta do paciente, resolveram abordá-lo. Por sua vez, o paciente ao desconfiar que seria abordado, tentou empreender fuga, porém, caiu e foi abordado pelos guardas civis. Em seu poder nada foi de ilícito foi encontrado, mas no interior da sacola plástica, havia 94 (noventa e quatro) porções de cocaína e 211 (duzentos e onze) porções de maconha. Finalmente, consta que o paciente admitiu aos agentes públicos que iria abastecer a "biqueira", sem fornecer outras informações.
+ ..
+Outrossim, também não é possível afirmar que houve trabalho investigativo pelos guardas municipais, na medida em que a busca pessoal se deu no contexto da prisão, ocasião em que encontraram e apreenderam entorpecentes.
+Por fim, quanto à possibilidade de prisão por guardas municipais, no mesmo sentido de sólido entendimento jurisprudencial, foi editado o Decreto nº 11.841/2023 de 21/12/2023:
+ ..
+Portanto, ao contrário do sustentado pela Defensoria Pública, a guarda civil municipal integra o sistema de segurança pública e é legal a prisão em flagrante efetuada por seus integrantes.
+ ..
+Logo, observa-se da leitura sumária dos autos que a instância de origem não apontou nenhum elemento contundente a respeito da legalidade da atuação da Guarda Municipal (fls. 75/86).
+Nesse sentido: HC n. 737.889/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/9/2022.
+Ademais, cabív el a concessão da ordem, pois, nos termos da jurisprudência deste Superior Tribunal, constata-se a ilegalidade da atuação da Guarda Municipal, agindo como se fosse polícia investigativa e ostensiva, em flagrante desrespeito às suas atribuições constitucionais. Isso porque os guardas municipais, durante patrulhamento em local supostamente conhecido como ponto de tráfico de drogas (embora não se tenha notícia de equipamento ou serviço municipal a ser resguardado na região), seguiram o paciente apenas pelo fato de que ele começou a correr e, efetuada a busca pessoal, nada de ilícito foi encontrado. Após a abordagem, um dos guardas promoveu buscas na área e encontrou pequenas porções de drogas que teriam sido dispensadas pelo suspeito durante a fuga. Portanto, não se vislumbra sequer a presença de fundada suspeita a ensejar eventual abordagem policial, tampouco situação absolutamente excepcional a legitimar a atuação dos guardas municipais, porquanto não demonstrada concretamente a existência de relação clara, direta e imediata com a proteção do patrimônio municipal (AgRg no HC n. 771.705/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/10/2022).
+Outrossim, não estava evidente situação de flagrância, que só foi descoberta após a realização de diligências ostensivas e investigativas, perseguição e busca pessoal, típicas da atividade policial. Nesse sentido: AgRg no RHC n. 173.998/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/3/2023.
+Finalmente, não ficou evidenciada, no caso, situação excepcional a legitimar a atuação dos guardas municipais, porquanto não demonstrada concretamente a existência de relação clara, direta e imediata com a proteção do patrimônio municipal (REsp n. 1.977.119/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/8/2022).
+Em razão disso, ao ratificar a decisão liminar, concedo a ordem impetrada para declarar nulas as provas decorrentes da busca pessoal por agentes municipais. Consequentemente, deve o Juiz natural identificar as provas derivadas da busca pessoal, que deverão ser invalidadas, e reavaliar se remanescem outros elementos probatórios, independentes e suficientes o bastante, para, por si só, lastrear o convencimento acerca da prática do suposto crime de tráfico de entorpecentes previsto no art. 33 da Lei n. 11.343/2006 (Processo digital n. 1501018-40.2024.8.26.0616), nos termos desta decisão.
+Comunique-se.
+Intime-se o Ministério Público de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. PRISÃO EM FLAGRANTE. GUARDA MUNICIPAL CIVIL. PATRULHAMENTO. NULIDADE DE PROVAS DECORRENTES DE BUSCA PESSOAL REALIZADA POR GUARDA MUNICIPAL. AUSÊNCIA DE SITUAÇÃO FLAGRANCIAL EVIDENTE. INEXISTÊNCIA DE PERTINÊNCIA DA ATUAÇÃO DOS AGENTES COM A FINALIDADE INSTITUCIONAL DA GUARDA. ILICITUDE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
