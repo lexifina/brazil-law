@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de cumprimento de sentença iniciado por UBALDO JOSÉ MASSARI JÚNIOR, PEDRO VINICIUS GALACINI MASSARI e BENEDITO BEIL em face de VALENTIM ANTONIO BRODERHAUSEN e ONEIDE APARECIDA CARLOS BRODERHAUSEN, objetivando o recebimento dos honorários advocatícios fixados em decisão que indeferiu a petição inicial e julgou extinta a ação rescisória sem resolução de mérito. Requerem, também, a reversão do depósito inicial nos termos do art. 974, parágrafo único, do CPC, com expedição da guia de levantamento.
+Intimados para os fins do art. 523 do CPC, os executados comprovaram o pagamento dos honorários advocatícios pleiteados, consoante petição de fls. 9-13.
+Na sequência, mediante a petição de fls. 14-16, os exequentes reconheceram o cumprimento da obrigação de pagar e informaram os dados bancários para transferência da verba honorária e do valor de depósito prévio a ser revertido.
+Ante o exposto, considerando o cumprimento voluntário da obrigação de pagar quantia certa e a respectiva concordância dos exequentes, defiro a transferência dos honorários sucumbenciais, cujo depósito foi comprovado pelos documentos de fls. 9-13, diretamente para conta de um dos advogados atuantes na causa, Dr. PEDRO VINICIUS GALACINI MASSARI (art. 85, § 14, do CPC), indicada à fl. 14, condicionada à anuência de UBALDO JOSÉ MASSARI JÚNIOR.
+Por fim, defiro a expedição de alvará de levantamento com ordem de transferência a fim de dar cumprimento à determinação de fls. 1955-1959 da AR 7708/DF, revertendo-se, em favor dos réus na ação rescisória, o depósito prévio comprovado às fls. 1759-1762 daquele feito (art. 3º da Resolução STJ/GP n. 9/2018). Para tanto, o titular da conta indicada à fl. 14 deverá apresentar procuração firmada por UBALDO J OSÉ MASSARI JÚNIOR e BENEDITO BEIL com poderes especiais para dar e receber quitação.
+Ressalte-se que em ambos os casos a instituição financeira deverá conferir previamente os dados bancários informados.
+Cumpridas as providências, intimem-se as partes para conhecimento e, nada mais havendo, julgo extinto o cumprimento de sentença.
+Arquivem-se. Publique-se. Intimem-se.
+EMENTA
