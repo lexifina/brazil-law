@@ -1,0 +1,28 @@
+DECISÃO
+Illana Silva Rocha agrava da decisão denegatória de seguimento ao recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal de Justiça do Estado de Alagoas, ementado assim:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO NO SENTIDO DEDETERMINAR A NOMEAÇÃO E POSSE DA PARTE AUTORA, PARA O CARGODE PROFESSOR DA SEE DO ESTADO DE ALAGOAS. APROVAÇÃO FORA DONÚMERO DE VAGAS PREVISTO NO EDITAL. CONTRATAÇÃO EM CARÁTER PRECÁRIO DE MONITORES ATESTADA NOS AUTOS. NÃO COMPROVAÇÃO,CONTUDO, DA EXISTÊNCIA DE VAGAS NO CARGO PRETENDIDO EMNÚMERO SUFICIENTE PARA ALCANÇAR A SUA COLOCAÇÃO NOCONCURSO. PRETERIÇÃO NÃO DEMONSTRADA. MERA EXPECTATIVA DEDIREITO. RECURSO CONHECIDO E NÃO PROVIDO.
+Trata-se de demanda instaurada com a finalidade de compelir a Administração Pública à nomeação da recorrente em cargo público para o qual se fez aprovar fora do número de vagas oferecidas em concurso público.
+A pretensão foi rejeitada em ambos os graus de jurisdição por falta de provas da preterição por contratação temporária e da existência de cargos vagos em número que lhe alcançasse a classificação.
+O recurso especial assenta tese de violação ao art. 1.022 do CPC/2015 porque não saneados os vícios ensejadores dos embargos de declaração, e aos arts. 10 e 355, inciso I, do CPC/2015, uma vez ofendidos o contraditório e a ampla defesa e ainda o fato de que houvera o julgamento antecipado da lide e a supressão da fase instrutória.
+O especial foi inadmitido pela Súmula 07/STJ e o agravo em recurso especial confronta essa motivação.
+É o relatório.
+O agravo cumpre sua função precípua, mas o especial não pode ser conhecido.
+Há falar primeiramente que a preliminar é arguida em texto genérico:
+III- DO CABIMENTO DO RECURSO ESPECIAL - Violação ao art. 1.022, I e II, CPC- Matéria Prequestionada.
+O art.105, III, "a", da Constituição Federal da República prevê o cabimento do Recurso Especial quando a decisão recorrida contrariar lei federal. Conforme se verifica na hipótese em foco, efetivamente a decisão impugnada contrariou o disposto no art. 1.022, I e II do CPC.
+Quanto a apontada violação, qual seja a afronta ao disposto no art. 1.022 do CPC, prescinde de prequestionamento, vez que surgiu unicamente a partir da recalcitrância do Tribunal estadual em pronunciar-se sobre o tema encartado nos Embargos de Declaração manejados pela ora recorrente, com o fito, justamente, de preencher este requisito específico de admissibilidade dos recursos dirigidos às Cortes Superiores. Em verdade, ao não analisar o tema levantado pela recorrente, que legitimou a propositura dos Embargos de Declaração, o TJ/AL desconheceu uma das funções precípuas daquele recurso, pateteando, assim, uma malferição ao art. 1.022, I e II do CPC, e legitimando, em última análise, o acesso a essa via excepcional.
+Cabível, portanto, o remédio ora manejado em face da contrariedade do acórdão recorrido ao disposto no art. 1.022, I e II do CPC, pelo que se requer o pronunciamento desse Colendo STJ sobre a correta aplicação do referido dispositivo de lei federal.
+Assim, aplica-se a Súmula 284/STF.
+Quanto à tese remanescente o caso é de falta de prequestionamento e da Súmula 211/STJ, como se vê do texto decisório:
+ ..
+Ocorre que nos autos, não houve a demonstração de quaisquer desses cenários, que justificasse o surgimento do direito subjetivo à vaga no serviço público.
+Assim, a princípio, inexiste direito à nomeação do candidato aprovado para o cadastro de reserva.
+Por sua vez, os professores ocupam cargo de provimento efetivo, ao passo que os monitores desempenham encargo temporário e excepcional. Muito embora a contratação de monitores tenha o potencial de demonstrar a preterição do candidato integrante do cadastro de reserva, isso pressupõe, contemporaneamente, a existência de vagas.
+Importante destacar também, ainda sobre esse tema, que o Superior Tribunal de Justiça, em recente Acórdão, definiu que "não há relação de reciprocidade obrigatória entre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público e a existência de cargo público vago, passível de provimento." (RMS 63.062/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/10/2020, DJe 28/10/2020)
+Como não demonstrada a ocorrência desta, inviável a reforma da sentença nos termos requeridos.
+Em sentido semelhante, já decidiu este Tribunal:  ..  A mesma conclusão é aplicável, mutatis mutandi, ao caso presente, em que também não há menção à existência contemporânea de vagas para o cargo efetivo a que concorreu a requerente em número suficiente para alcançar a sua colocação no concurso quando contratação precária de monitores. Forçoso concluir, portanto, pela inexistência do direito alegado na exordial. Destarte, considerando os termos acima, conheço do presente recurso, sendo que para negar-lhe provimento. Honorários advocatícios majorados para R$ 900,00 (novecentos reais), os quais permanecem suspensos em virtude da concessão da justiça gratuita e patrocínio da Defensoria Pública.
+Assim, conheço do agravo para não conhecer do recurso especial.
+Honorários recursais de noventa reais tendo em vista a complexidade inexistente na demanda, a desnecessidade de atuação do advogado do recorrido em comarca distinta do seu domicílio profissional e o valor arbitrado na origem, que serve de parâmetro.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
