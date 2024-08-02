@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. PENSÃO POR MORTE. QUALIDADE DE SEGURADO. REQUISITO PREENCHIDO. RECOLHIMENTO COM POUCO ATRASO. POSSIBILIDADE. EXTENSÃO DO PERÍODO DE GRAÇA. ATUALIZAÇÃO DO DÉBITO. MANUAL DE CÁLCÚLOS DA JUSTIÇA FEDERAL. SUCUMBÊNCIA RECURSAL.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 15, § 2º da Lei n. 8.213/1991, no que concerne à impossibilidade de prorrogação do período de graça para fins de concessão de pensão por morte, visto que não há prova da condição de desemprego, apoiando-se exclusivamente em registros lançados na CTPS e/ou CNIS, o que não impede o exercício de atividade informal remunerada. Aduz a seguinte argumentação:
+Impossibilidade de prorrogação da qualidade de segurado nos termos do art. 15, §2º, da Lei 8.213/91, quando ausente prova da condição de desemprego, não sendo suficiente, para tanto, a inexistência de registros na CTPS e/ou CNIS.
+Legislação Federal: artigo 15, §2º, da Lei 8.213/91.
+2. ACÓRDÃO RECORRIDO - EXPOSIÇÃO DOS FATOS E DO DIREITO
+Ao julgar o recurso, o órgão fracionário do E. Tribunal Regional, para fins de concessão por morte à parte autora, reconheceu a qualidade de segurado do instituidor na data do óbito, mediante a prorrogação do período de graça por 12 meses, nos termos do art. 15, §2º, da Lei 8.213/91, muito embora não tenha sido apresentada nenhuma prova da condição de desemprego.
+ ..
+4. DAS RAZÕES DO PEDIDO DE REFORMA DA DECISÃO RECORRIDA. PENSÃO POR MORTE. QUALIDADE DE SEGURADO. PRORROGAÇÃO DO PERÍODO DE GRAÇA. DESEMPREGO.
+NECESSIDADE DE COMPROVAÇÃO Nos termos do somente é devido o benefício de pensão por morte aos art. 74 da Lei 8.213/91 dependentes do segurado que mantiver esta qualidade na data do óbito.
+O do mesmo diploma legal, a seu turno, estabelece claramente que art. 102, §2,º "Não será concedida pensão por morte aos dependentes do segurado que falecer após a perda desta qualidade, nos termos do art. 15 desta Lei, salvo se preenchidos os requisitos para obtenção da aposentadoria  .. ".
+Por sua vez, a manutenção da qualidade de segurado está regulada pelo nos art. 15 da Lei nº 8.213/91 seguintes termos:
+ ..
+Assim, não restam dúvidas de que o segurado que deixar de contribuir para o sistema por mais de 12 meses perderá o vínculo com o , salvo em caso de prorrogação do período de graça nos termos dos RGPS §§1º e 2º do art. 15 da Lei 8.213/91.
+No caso dos autos, é incontroverso que o óbito do instituidor ocorreu 12 meses após o recolhimento da . Não obstante, o Tribunal reconheceu a possibilidade de prorrogação do última contribuição ao RGPS "a quo" período de graça por 12 meses, com fundamento na situação de (art. 15, §2º, da desemprego do ex-segurado Lei ), destacando ser desnecessário o registro no Ministério do Trabalho (MTb). 8.213/91 De fato, a jurisprudência desse E. STJ flexibilizou a exigência de registro no MTb para possibilitar a extensão do período de graça, garantindo a prorrogação mediante demonstração por . outros meios de prova Todavia, no caso dos autos, não foi produzida nenhuma prova do desemprego (nem sequer prova testemunhal), o que obsta na aplicação do art. 15, §2º, da Lei 8.213/91.
+ ..
+Nesse sentido, cumpre destacar a decisão desse E. Superior Tribunal de Justiça no Incidente de Uniformização de Interpretação de Lei Federal (Pet 7.115/PR):
+ ..
+Oportuno destacar que, ao uniformizar a jurisprudência esse E. STJ já havia decidido que "A ausência de anotação laboral na CTPS do requerido não é suficiente para comprovar a sua situação de desemprego, já que não afasta a possibilidade do exercício de atividade remunerada na informalidade."(Pet 7.115/PR)
+ ..
+O caso dos autos amolda-se exatamente à situação vedada por essa Corte, uma vez o Tribunal "a quo" considerou mantida a condição de segurado do "de cujus" em face da situação de desemprego apenas com base no registro na CTPS da data de sua saída no emprego e/ou do CNIS sem registro de recolhimentos, o que "não afasta a possibilidade do exercício de atividade remunerada na informalidade
+Destarte, o instituidor da pensão não fazia jus à prorrogação do período de graça, não ostentando mais a qualidade de segurado na data do óbito, o que obsta o deferimento de pensão por morte aos seus dependentes.
+(fls. 353-356).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Considerando o entendimento supra e a pandemia do Cornona vírus iniciada no Brasil em 02.2020, é perfeitamente viável a extensão do período de graça por mais 12 meses, pelo que tem-se que o falecido manteve qualidade de segurado até 20.03.2022.
+(fls. 302).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
