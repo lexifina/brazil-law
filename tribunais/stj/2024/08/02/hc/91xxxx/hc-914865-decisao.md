@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 206):
+Apelação Criminal. Tráfico de Drogas. Sentença condenatória. Pedido para recorrer em liberdade prejudicado. Mérito. Materialidade e autoria comprovadas. Depoimentos coesos dos policiais responsáveis pelo flagrante. Conjunto probatório evidencia que os entorpecentes eram destinados à mercancia. Condenação mantida. Dosimetria inalterada. Réu reincidente. Inaplicabilidade da causa de diminuição prevista no artigo 33, §4º, da Lei n.º 11.343/06. Montante da pena e reincidência impõem o regime inicial fechado e obstam a substituição da pena privativa de liberdade por restritivas de direitos. Concedida a gratuidade da justiça. Recurso parcialmente provido.
+Narram os autos que o paciente foi condenado como incurso nas sanções do art. 33, caput, da Lei n.º 11.343/06, à pena total de 5 anos e 10 meses de reclusão, em regime inicial fechado, além de 583 dias-multa.
+No presente writ, a impetrante alega, em síntese, que o paciente sofre constrangimento ilegal tendo em vista que o Tribunal de origem "deixou de aplicar a atenuante da confissão espontânea informal apesar de estar ter sido utilizada para fins de condenação" (fl. 5).
+Requer, assim, "a concessão da ordem para reconhecer a atenuante da confissão espontânea, nos termos expostos e, após, para compensá-la com a agravante da reincidência" (fl. 7).
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Compulsando os autos, observa-se que a irresignação acerca do reconhecimento da atenuante da confissão espontânea nem sequer foi colocada à apreciação da Corte de origem no apelo interposto, não se verificando a respectiva análise no acórdão da apelação julgado na origem, razão pela qual não poderá ser conhecido por indevida supressão de instância. Nesse sentido: HC n. 360.484/BA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 19/6/2018, DJe 28/6/2018; AgRg no Resp n. 1.716.705/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/4/2018, DJe 9/4/2018.
+Dessa forma, verificada a supressão de instância, não há com o perquirir acerca desta matéria. Nesse sentido: HC n. 360.484/BA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 19/6/2018, DJe 28/6/2018; AgRg no Resp n. 1.716.705/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/4/2018, DJe 9/4/2018; HC n. 430.992/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/3/2018, DJe 2/4/2018; AgRg no HC n. 363.567/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2017, DJe 2/10/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
