@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por PETRÓLEO BRASILEIRO S.A. (PETROBRAS), contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+O apelo nobre insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. PETROS. BENEFÍCIO DE PENSÃO POR MORTE. RESOLUÇÃO Nº 49 DA PETROS. ESPOSA DO SEGURADO FALECIDO. DEPENDENTE NÃO CADASTRADA. ÓBICE NÃO CONFIGURADO. NÃO OBSTA O DIREITO AO RECEBIMENTO DA
+PENSÃO POR MORTE, POR SE TRATAR DE MERA FORMALIDADE, A FALTA DA INSCRIÇÃO DE VIÚVA COMO BENEFICIÁRIA DO EX-PARTICIPANTE, DIANTE DO CARÁTER SOCIAL E DA FINALIDADE DA PREVIDÊNCIA PRIVADA E, AINDA, EM VIRTUDE DA NORMA CONSTITUCIONAL QUE PROTEGE A FAMÍLIA. INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DO EQUILÍBRIO ATUARIAL. MULTA ART. 1026, § 2º DO CPC. MANTIDA. RECURSO CONHECIDO E IMPROVIDO DECISÃO UNÂNIME." (fl. 384)
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente aponta violação dos arts. 485, VI, do Código de Processo Civil (CPC) e 37, XIX, e 202, § 2º, da Constituição Federal (CF).
+Alega, em síntese, que é parte ilegítima para figurar no polo passivo da demanda, visto que somente há pedido de caráter previdenciário.
+Acrescenta que o patrocinador não é litisconsorte passivo do ente de previdência privada em demandas atinentes ao plano de suplementação de aposentadoria.
+Aduz que "(..) a Autora/Recorrida não aponta nenhuma atitude da PETROBRAS ligada ao indeferimento do pagamento da suplementação de pensão por morte pleiteada, pois, por óbvio, cuida-se de atribuição exclusiva da gestora do Plano" (fl. 470).
+Sustenta que a Resolução nº 49 da PETROS deve ser observada, não havendo nenhuma ilegalidade cometida.
+Argui que "(..) inexiste responsabilidade solidária entre PETROS e PETROBRAS para o cumprimento da suposta obrigação vindicada na exordial" (fl. 482).
+Busca, ao final, que "(..) seja reconhecida a ilegitimidade passiva da PETROBRAS, afastando-a do pólo passivo da demanda ou, não sendo o entendimento, julgada improcedente a pretensão autoral em relação a esta recorrente" (fl. 486).
+Após a apresentação de contrarrazões, o recurso foi inadmitido na origem.
+Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+De início, no que toca à alegação de ofensa aos arts. 37, XIX, e 202, § 2º, da Constituição Federal, cumpre asseverar que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir nesta seara a violação de normas constitucionais, matéria afeta à competência do Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+No mais, quanto à ilegitimidade passiva ad causam do ente patrocinador, a irresignação merece prosperar.
+Com efeito, a Segunda Seção desta Corte Superior, ao julgar o REsp nº 1.370.191/RJ (Rel. Ministro Luis Felipe Salomão, DJe 1º/8/2018), representativo de controvérsia, consagrou a tese que o patrocinador, em regra, não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma (Tema nº 936/STJ).
+Ademais, conforme o Supremo Tribunal Federal "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (Tema nº 1.166 de Repercussão Geral).
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. REFLEXO DAS HORAS EXTRAS RECONHECIDAS PELA JUSTIÇA DO TRABALHO. PARTICIPAÇÃO NO PROCESSO DA ENTIDADE PATROCINADORA EX-EMPREGADORA PARA A RECOMPOSIÇÃO DE RESERVAS. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento fixado para o Tema 936 dos Recursos Repetitivos, "o patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma" (REsp 1.370.191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 1º/08/2018).
+2. A Justiça Comum é incompetente para o processamento de pretensão de recomposição da reserva matemática, nos termos da tese fixada para o Tema 1.166 de Repercussão Geral. "Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (RE 1265564 RG, Relator(a): MINISTRO PRESIDENTE, TRIBUNAL PLENO DO STF, julgado em 02/09/2021, PROCESSO ELETRÔNICO DJe-182 DIVULG 13-09-2021 PUBLIC 14-09-2021).
+3. Nos termos do entendimento firmado pela Segunda Seção do STJ sobre a aludida controvérsia, "deve ser reconhecida, de ofício, a incompetência quando se tratar de competência definida na própria Constituição Federal" (EAREsp 1.975.132/DF, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/4/2023, DJe de 20/4/2023).
+4. Agravo interno desprovido."
+(AgInt no REsp nº 1.914.576/DF, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA TRABALHISTA. DEBATE SOBRE A LEGITIMIDADE DA PATROCINADORA. INCOMPETÊNCIA DA JUSTIÇA COMUM. EXTINÇÃO PARCIAL DA AÇÃO MANTIDA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência das Turmas que compõem a Segunda Seção do STJ, nos processos em que se postula o pagamento de reflexos previdenciários decorrentes de decisão transitada em julgado na Justiça do Trabalho, o reconhecimento da legitimidade do patrocinador para figurar no polo passivo depende da verificação da causa de pedir e dos pedidos efetivamente formulados.
+2. O STF, ao julgar o RE 1.265.564/SC, sob o rito de repercussão geral, firmou a tese de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (tema 1.166/STF).
+3. "Tratando de competência prevista na própria Constituição Federal/88, nem mesmo o Superior Tribunal de Justiça detém jurisdição para prosseguir no julgamento do recurso especial quanto ao mérito, não lhe sendo dado incidir nas mesmas nulidades praticadas pelos demais órgãos da Justiça Comum (REsp n. 1.087.153/MG, Relator Ministro Luis Felipe Salomão)", autorizando o reconhecimento de ofício da incompetência da Justiça Comum para o julgamento da demanda ajuizada em face do patrocinador do plano de benefícios.
+4. Conquanto pertinente o debate acerca da ilegitimidade do Banco do Brasil para responder ao pedido formulado na presente ação, a parcial extinção da demanda no que lhe respeita é de ser mantida em face da incompetência da Justiça Comum para decidir acerca da responsabilidade da referida instituição financeira pela recomposição da reserva matemática e/ou indenização decorrente de pretenso ilícito cometido junto à relação laboral, em conformidade com a jurisprudência desta Corte (EAREsp n. 1.975.132/DF).
+5. Agravo interno desprovido."
+(AgInt nos EREsp nº 1.976.667/DF, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 17/10/2023, DJe de 19/10/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO DO ORA INSURGENTE E DEU PROVIMENTO AO APELO NOBRE INSTITUIÇÃO FINANCEIRA . INSURGÊNCIA DA PARTE AUTORA.
+1. O acolhimento da pretensão recursal da parte autora exigiria derruir a convicção formada nas instâncias ordinárias sobre a natureza jurídica da parcela pleiteada e o esgotamento das reservas destinadas ao pagamento de benefícios especiais. Incidência das Súmulas 5 e 7/STJ.
+2.1. A patrocinadora não possui legitimidade passiva para litígios que envolvam a revisão de benefício previdenciário complementar (Repetitivo/Tema 936/STJ).
+2.2. A Justiça Comum não é competente para apreciar o pedido direcionado ao ex-empregador de recolhimento da cota patronal para recomposição da reserva matemática (Repercussão Geral/Tema 1.166/STF).
+2.3. Recomposição (decorrente da modulação de efeitos no julgamento dos Repetitivos 955 e 1021/STJ) deve ocorrer na forma delineada no julgamento do EREsp 1557698/RS, pela Segunda Seção desta Corte.
+2.4. Entendimento reafirmado por esta Quarta Turma, no sentido da impossibilidade de participação do Banco Brasil em demandas similares, no julgamento do AgInt no RESP 1.525.337/DF.
+3. Agravo interno desprovido."
+(AgInt no REsp nº 1.975.331/DF, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022)
+Desse modo, a Petrobrás, de fato, é parte ilegítima para figurar no polo passivo da presente lide.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer a ilegitimidade passiva ad causam do ente patrocinador, devendo o feito ser extinto em relação a ele, pre judicadas as demais questões recorridas.
+Consequentemente, condeno a autora a pagar, a título de honorários advocatícios, à ora recorrente o montante correspondente a 12% (doze por cento) do valor atualizad o da causa, observada, se for o caso, a gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
