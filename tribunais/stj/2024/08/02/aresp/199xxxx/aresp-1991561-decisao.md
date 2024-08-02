@@ -1,0 +1,8 @@
+DECISÃO
+Discute-se no recurso especial inadmitido na origem, dentre outras questões, a possibilidade de se presumir o perigo do dano para o deferimento da pretensão cautelar de indisponibilidade de bens no curso de ação por improbidade administrativa.
+A questão debatida encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.257/STJ), reconhecido nos Recursos Especiais 2.074.601/MG, 2.076.137/MG, 2.076.911/SP, 2.078.360/MG e 2.089.767/MG, de relatoria do Ministro Afrânio Vilela.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+A admissão de recurso especial como representativo da controvérsia e a determinação de suspensão impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do Código de Processo Civil (CPC).
+Ante o exposto, julgo prejudicado o recurso especial, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativo de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
