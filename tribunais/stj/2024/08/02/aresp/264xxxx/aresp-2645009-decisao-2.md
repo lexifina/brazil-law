@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ARIEL AGUILA GALAVIZ SILVA, MARIA ALIDA AGUILA GALAVIZ e ORLANDO OLIVEIRA E SILVA NETO contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/06/2024.
+Concluso ao gabinete em: 28/03/2024.
+Ação: de obrigação de fazer ajuizada por MARIA ALIDA AGUILA GALAVIZ, substituída por seus herdeiros, em face de UNIMED VITÓRIA COOPERATIVA DE TRABALHO MÉDICO visando a cobertura de cirurgia de adenomastectomia profilática da mama esquerda no tratamento de neoplasia maligna de mama com recidiva e insuficiência cardíaca derivada de cardiotoxicidade da quimioterapia.
+Sentença: julgou parcialmente procedente a demanda para condenar a agravada no custeio da cirurgia prescrita.
+Acórdão: negou provimento à apelação de ambas as partes, nos termos da seguinte ementa:
+OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. Sentença de parcial procedência, condenando a operadora de saúde ao custeio do procedimento cirúrgico de mastectomia total direita e adenomastectomia profilática na mama contralateral, afastado o pedido de indenização por danos morais. Inconformismo da requerida. Cerceamento de defesa afastado. Negativa de cobertura do plano de saúde, afirmando ausência de previsão contratual. Autora portadora de carcinoma na mama direita e impedida de realizar novas sessões de quimioterapia cardiotóxica, quadro de insuficiência cardíaca que impõe a adenomastectomia profilática na mama contra-lateral. Recomendação médica. Negativa de cobertura de mastectomia profilática. Inadmissibilidade. Dever de custeio integral do tratamento médico prescrito. Prevalência do direito à saúde. Inteligência das Sumulas nº 96 e 102 deste Egrégio Tribunal de Justiça. Precedentes. Inconformismo da autora. DANOMORAL. Inocorrência. Descumprimento contratual que causa mero aborrecimento, insuscetível de provocar sofrimento suficiente a justificar a condenação. Precedentes. Sentença mantida. RECURSOS NÃO PROVIDOS.
+Recurso especial: alega violação dos arts. 186 e 927 do CC, bem como dissídio jurisprudencial, ao fundamento de que os danos morais restaram bem caracterizados no caso dos autos, não se tratando a recusa indevida de cobertura de cirurgia necessária de mero inadimplemento contratual, mas de verdadeira ofensa a direito fundamental.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos danos morais
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp n. 2.058.088/SP, 3ª Turma, DJe de 24/5/2023 e AgInt no REsp n. 1.979.613/SP, 4ª Turma, DJe de 1/9/2023.
+Na hipótese, verifica-se que o Tribunal de origem manteve a sentença que afastou a caracterização dos danos morais, por não se verificar, no caso, o agravamento da situação da paciente, tratando-se de descumprimento contratual tão somente . Assim, a conclusão da Corte de origem, soberana na análise das provas dos autos, sobre a não ocorrência de danos morais, não merece reforma, portanto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor de sua sucumbência (e-STJ fls. 560) para 16%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. DANOS MORAIS. NÃO OCORRÊNCIA.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. Agravo conhecido. Recurso especial conhecido e desprovido.
