@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  inadmitiu  recurso  especial  interposto  em  face  de  acórdão  do  Tribunal  Regional Federal da 4ª Região  cuja  ementa  é  a  seguinte:
+
+TRIBUTÁRIO. APELAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO FISCAL. CONSELHO. EXTINÇÃO DA DÍVIDA. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. O § 8º do art. 85 do CPC possibilita que o juiz fixe os honorários por apreciação equitativa nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo. Fixados honorários de forma equitativa.
+Os embargos de declaração opostos foram parcialmente acolhidos.
+No  recurso  especial,  interposto  com  base  na  alínea  a  do  permissivo  constitucional,  a o  recorrente  sustenta  violação aos  arts. 85, §§ 2º, 3º, 6º-A e 8º-A, e 927, inciso III, do CPC/2015, alegando, em síntese, que:
+Não localizados bens da Executada, a União postulou o redirecionamento da execução em face de seus sócios, o que foi deferido pelo Magistrado de 1º Grau em 24/07/2006 (fis. 75/76).
+O Recorrente, regularmente citado, apresentou exceção de pré-executividade, a qual foi acolhida nos seguintes termos:
+(..)
+Ocorre que o valor do crédito excutido pela União quando da extinção da ação expropriatória importava em R$ 50.662,86 (fl. 179), mas o Julgador de 1º Grau entendeu por fixar a verba honorária devida ao patrono do Recorrente em irrisórios R$ 300,00 (trezentos reais).
+Irresignado, o Recorrente interpôs Recurso de Apelação ao qual foi negado provimento com a majoração em 10% dos honorários fixados em 1º Grau.
+Ato contínuo, o Recorrente opôs Embargos de Declaração, os quais foram acolhidos para majorar os honorários advocatícios de sucumbência para o valor de R$ 5.000,00.
+Ao que se vê, o Tribuna l Regional Federal da 4ª Região, ainda que tenha elevado o valor dos honorários sucumbenciais, o fez por meio de apreciação equitativa (art. 85, §8º, CPC).
+(..)
+O caso em tela não alberga nenhuma das hipóteses elencadas no §8º do artigo 85 do caderno processual vigente, na medida em que não se trata de causa de valor "inestimável", de "irrisório proveito econômico" ou "valor da causa for muito baixo".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido p elo Tribunal de origem.
+É  o  relatório.  Passo  a  decidir.
+O  Superior  Tribunal  de  Justiça,  nos  seguintes  feitos:  REsp  2097166/PR  e  REsp  2109815/MG,  todos  da  relatoria  do  Ministro  Herman  Benjamin,  submeteu  à  Primeira  Seção  (segundo  o  regime  dos  recursos  repetitivos)  a  seguinte  tese  controvertida  (Tema  1.265/STJ):  "Acolhida  a  Exceção  de  Pré-Executividade,  com  o  reconhecimento  da  ilegitimidade  de  um  dos  coexecutados  para  compor  o  polo  passivo  de  Execução  Fiscal,  definir  se  os  honorários  advocatícios  devem  ser  fixados  com  base  no  valor  da  Execução  (art.  85,  §§  2º  e  3º,  CPC)  ou  por  equidade  (art.  85,  §  8º,  CPC)".
+Determino,  portanto,  a  devolução  dos  autos  ao  Tribunal  de  origem,  com  a  devida  baixa  nesta  Corte,  para  que,  após  publicada  a  conclusão  do  julgamento  da  questão  afetada  como  repetitiva,  o  recurso  especial:  1)  tenha  seguimento  denegado  na  hipótese  de  o  acórdão  recorrido  coincidir  com  a  orientação  do  Superior  Tribunal  de  Justiça;  (ou)  2)  seja  novamente  examinado  pelo  Tribunal  de  origem,  na  hipótese  de  o  acórdão  recorrido  divergir  da  orientação  do  Superior  Tribunal  de  Justiça.
+Impende  salientar  que  a  jurisprudência  desta  Corte  firmou-se  no  sentido  de  ser  irrecorrível  a  decisão  que  determina  o  sobrestamento  do  feito,  no  2º  Grau,  diante  da  pendência  de  julgamento  de  recurso  representativo  da  controvérsia.  Confira-se:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  SOBRESTAMENTO.  TEMA  1.076/STJ.  DEVOLUÇÃO  DOS  AUTOS  À  ORIGEM.  IRRECORRIBILIDADE.  1.  A  decisão  que  determina  a  devolução  dos  autos  à  origem,  a  fim  de  que  lá  seja  exercido  o  juízo  de  retratação  antes  da  apreciação  do  respectivo  recurso  especial  pelo  STJ,  não  possui  carga  decisória  e  não  acarreta  prejuízo  às  partes.  Por  isso,  é  provimento  irrecorrível.  Precedentes.  2.  Agravo  interno  não  conhecido.  (AgInt  no  REsp  1816085/SP,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  julgado  em  28/06/2021,  DJe  02/08/2021)
+
+Ante  o  exposto,  determino  a  devolução  dos  autos  ao  Tribunal  a  quo,  com  fulcro  no  art.  1030,  III,  do  CPC/2015,  e  256-L,  I,  do  RISTJ,  com  a  devida  baixa  nesta  Corte,  para  que  o  recurso  fique  sobrestado  aguardando  o  julgamento  do  tema  afetado,  e,  após,  sejam  adotadas  as  providências  previstas  no  art.  1040  do  CPC/2015.
+Publique-se.  Intimem-se.
+EMENTA
+  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  EXECUÇÃO  FISCAL.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  RECONHECIMENTO  DA  ILEGITIMIDADE  DE  UM  DOS  COEXECUTADOS.  HONORÁRIOS  ADVOCATÍCIOS.  FIXAÇÃO  COM  BASE  NO  VALOR  DA  EXECUÇÃO  OU  POR  MEIO  DE  APRECIAÇÃO  EQUITATIVA .  AFETAÇÃO  DA  MATÉRIA  PARA  JULGAMENTO  SOB  A  SISTEMÁTICA  DO  ART.  1036  DO  CPC/2015.  ART.  256-L,  I,  DO  RISTJ.  DEVOLUÇÃO  DOS  AUTOS  À  ORIGEM  PARA  SOBRESTAMENTO  DO  FEITO  ATÉ  FINAL  JULGAMENTO  DO  TEMA.
