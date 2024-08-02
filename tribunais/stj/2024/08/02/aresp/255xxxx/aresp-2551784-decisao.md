@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por VILMAR NAVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 426):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO CONSIGNADO. DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA DEPARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DO AUTOR. SUSTENTADA A OCORRÊNCIA DE ABALO ANÍMICO INDENIZÁVEL. TESE REJEITADA. CONDUTA DESIDIOSA DO BANCO RÉU QUE, A PAR DE CAUSAR TRANSTORNOS, NÃO DEU AZO À CARACTERIZAÇÃO DE DANO MORAL. AUSÊNCIA DE INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES OU COMPROVAÇÃO DE SITUAÇÃO GRAVOSA DIVERSA. DESCONTOS EM FOLHA DE PAGAMENTO NÃO EFETIVADOS DIANTE DA DEVOLUÇÃO DOS CRÉDITOS PELO AUTOR AO BANCO. MERO ABORRECIMENTO OU DISSABOR. PRECEDENTE DESTA CORTE DE JUSTIÇA. ÔNUS DO REQUERENTE EM DEMONSTRAR A OCORRÊNCIA DE FATOS CAPAZES DEPROVOCAR VIOLAÇÃO À SUA HONRA, IMAGEM E INTIMIDADE, NOS TERMOS DO ART. 373,I, DA LEI ADJETIVA CIVIL. DANOS MORAIS NÃO CONFIGURADOS. SENTENÇA PRESERVADA.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos pela recorrente foram acolhidos sem efeitos infringentes (fl. 475):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DEINEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO CONSIGNADO. DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DOAUTOR. APELO DESPROVIDO. MAJORAÇÃODOS HONORÁRIOS RECURSAIS. ACLARATÓRIOS OPOSTOS PELAS PARTES. SUSCITADA PELO AUTOR OMISSÃO NO JULGADO QUANTO À ALEGAÇÃO DE DANO MORALPRESUMIDO. ACOLHIMENTO. DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO QUE,POR SI SÓ, NÃO CARACTERIZA DANO MORAL IN RE IPSA. ÔNUS DO REQUERENTE EMDEMONSTRAR A OCORRÊNCIA DE FATOS CAPAZES DE PROVOCAR VIOLAÇÃO À SUAHONRA, IMAGEM E INTIMIDADE, NOS TERMOS DO ART. 373, I, DA LEI ADJETIVA CIVIL.
+VÍCIO SANADO. SITUAÇÃO QUE NÃO ALTERA O RESULTADO DO JULGAMENTO DO APELO(DESPROVIMENTO).
+ALEGAÇÃO PELO RÉU DE CONTRADIÇÃO NO TOCANTE AOS HONORÁRIOS ADVOCATÍCIOSRECURSAIS. EIVA VERIFICADA. REJEIÇÃO DE APELO INTERPOSTO PELA PARTE CUJOPATRONO É BENEFICIÁRIO DA VERBA. DESCABIDA A FIXAÇÃODOS HONORÁRIOS RECURSAIS NESSA HIPÓTESE. MANUTENÇÃO DO PERCENTUALARBITRADO NA PRIMEIRA INSTÂNCIA. VÍCIO SANADO.
+RECURSOS CONHECIDOS E PROVIDOS.
+No recurso especial, a recorrente alega vioalção do art. 39 do CDC e 186 do CC, ao passo em que aponta divergência jurisprudencial.
+Sustenta, em síntese, que deve ser reconhecido o dano moral in re ipsa considerando a gravidade da conduta da instituição financeira em realizar empréstimo consigando com desconto no benefício previdenciário do recorrente sem sua autorização.
+Foram oferecidas contrarrazões ao recurso especial (fls. 524-535).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 538-540), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 553).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso não merece prosperar.
+Nos termos da jurisprudência pacífica do STJ, "a fraude bancária, ensejadora da contratação de empréstimo, não pode ser considerada, por si só, suficiente para a caracterização do dano moral, sendo necessária a existência de circunstâncias agravantes que possam configurar a lesão extrapatrimonial. " (AgInt no AREsp n. 2.544.150/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+No mesmo sentido, cito o seguintes precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. FRAUDE BANCÁRIA. CONTRATAÇÃO DE EMPRÉSTIMOS. ALEGAÇÃO DE OFENSA À SÚMULA N. 479 DO STJ. SÚMULA N. 518 DO STJ. INCIDÊNCIA. DESCONTO INDEVIDO EM CONTA BANCÁRIA. NÃO OCORRÊNCIA. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO DO DANO SOFRIDO. PRESSUPOSTOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não é a via adequada para apreciar ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal (Súmula n. 518 do STJ).
+2. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, Quarta Turma).
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+5. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC), desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.409.085/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Em virtude do exame do mérito, por meio do qual não foi acolhida a tese sustentada pela parte recorrente, fica prejudicada a análise da divergência jurisprudencial.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15%, sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO CONSIGNADO NÃO CONTRATADO. DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO DO DANO SOFRIDO. PRECEDENTES DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL I MPROVIDO.
