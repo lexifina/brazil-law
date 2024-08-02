@@ -1,0 +1,33 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento em ação de improbidade administrativa ajuizada contra a ora Agravante, impugnando decisão que indeferiu pedido de "reconsideração da sentença transitada em julgado" para aplicação da novel legislação Lei n. 14.230/2021. No Tribunal a quo, a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPROBIDADE ADMINISTRATIVA. APLICAÇÃO RETROATIVA DA LEI 14.230/2021. PRESCRIÇÃO. IMPOSSIBILIDADE. TEMA 1.199 DO SUPREMO TRIBUNAL FEDERAL. NOVO REGIME PRESCRICIONAL IRRETRO ATIVO. ALEGADA ATIPICIDADE DA CONDUTA. DESCABIMENTO. COISA JULGADA. RECURSO CONHECIDO E DESPROVIDO.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial, nos termos da seguinte ementa:
+EMENTA: AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃOCIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DE SENTENÇA. RECURSO ESPECIAL. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. APLICAÇÃO RETROATIVA DA NOVA LEI DE IMPROBIDADE. IMPOSSIBILIDADE. TEMA 1199 DO STF.
+Parecer pelo não conhecimento do recurso, e, caso, conhecido, pelo seu desprovimento.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Nesse sentido, o Supremo Tribunal Federal esclareceu o tema quando do julgamento do ARE 843.989/PR, o qual foi julgado sob a sistemática da Repercussão Geral - Tema 1.199.
+Na oportunidade, restou esclarecido que os prazos prescricionais previstos na Lei nº. 14.230/2021 não retroagem, sendo aplicáveis a partir da publicação do novo texto legal, ou seja, a partir de 26 de outubro de 2021.
+Tal raciocínio está embasado no respeito ao ato jurídico perfeito e em observância aos princípios da segurança jurídica, do acesso à Justiça e da proteção da confiança, garantindo-se a plena eficácia dos atos praticados validamente antes da alteração legislativa.
+No caso em comento, por sua vez, já houve o trânsito em julgado da condenação, não havendo que sefalar na aplicação retroativa das disposições trazidas pela nova Lei.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, (art. 10, VIII, § 1º, da Lei n. 8.429/1.992) verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. REPERCUSSÃO GERAL. TEMA 1.199 DO STF. ART. 10 DA LIA. DOLO . OCORRÊNCIA.
+1. A questão jurídica referente à aplicação da Lei n. 14.230/2021 - em especial, no tocante à necessidade da presença do elemento subjetivo dolo para a configuração do ato de improbidade administrativa e da aplicação dos novos prazos de prescrição geral e intercorrente - teve a repercussão geral julgada pelo Supremo Tribunal Federal (Tema 1199 do STF).
+2. A despeito de ser reconhecida a irretroatividade da norma mais benéfica advinda da Lei n. 14.230/2021, que revogou a modalidade culposa do ato de improbidade administrativa, o STF autorizou a aplicação da lei nova, quanto a esse aspecto, aos processos ainda não cobertos pelo manto da coisa julgada.
+3. A Primeira Turma desta Corte Superior, no julgamento do AREsp 2.031.414/MG, em 09/05/2023, firmou orientação no sentido de conferir interpretação restritiva às hipóteses de aplicação retroativa da LIA (com a redação da Lei n. 14.230/2021), adstrita aos atos ímprobos culposos não transitados em julgado, de acordo com a tese 3 do Tema 1.199/STF. No mesmo sentido: ARE 1400143 ED/RJ, rel. Min. ALEXANDRE MORAES, DJe 07/10/2022.
+4. A Suprema Corte, em momento posterior, pelas suas duas Turmas e pel o Plenário, ampliou a aplicação da referida tese ao caso de ato de improbidade administrativa fundado no revogado art. 11, I e II, da Lei n. 8.429/1992, desde que não haja condenação com trânsito em julgado 5. No caso, o Tribunal de origem reconheceu a prática do ato ímprobo previsto no art. 10 da LIA, na sua forma dolosa, inviabilizando a aplicação retroativa da Lei n. 14.230/2021.
+6 . Agravo interno desprovido.
+(AgInt no REsp n. 2.082.995/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/3/2024, DJe de 2/4/2024.)
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
