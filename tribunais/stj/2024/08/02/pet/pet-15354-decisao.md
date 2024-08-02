@@ -1,0 +1,18 @@
+DECISÃO
+O presente pedido de tutela provisória é dependente do AREsp 2.193.743/SP ao qual neguei provimento pelos seguintes fundamentos:
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Agravo de instrumento. Exceção de pré-executividade não conhecida. Alegação de matérias de ordem pública. Impossibilidade de conhecimento da defesa. Excesso de juros e multa que depende de anterior reconhecimento de nulidade de cláusula contratual por abusividade. Defesa não conhecida. Recurso improvido.
+Afirma que os presentes autos se originaram de execução ajuizada por Artur Marini, tendo por objeto contrato de cessão de cotas de sociedade limitada, decorrente de ausência de pagamento de doze parcelas e metade do pagamento inicial, tendo o ora requerente, em exceção de pré-executividade, apontado a existência de cláusula abusiva "que impõe multa de 20% e juros de 0,33% ao dia, configurando o estratosférico valor de 9,9% ao mês".
+Aduz que, após a penhora de imóvel, tratou de impugnar os valores e cálculos, dado que a matéria de juros e de multa moratória não se submete à preclusão, contudo, negados os cálculos apresentados pelo requerente, decisão contra a qual foi interposto agravo, no qual proferido acórdão em face do qual foi interposto recurso especial.
+Acerca da matéria oferecida a debate, a Corte de origem assim manifestou seu entendimento, in verbis:
+A ação de execução foi proposta em agosto de 2016 para a satisfação de débito decorrente do inadimplemento do contrato de cessão de cotas de sociedade limitada (contrato aqui copiado às fls. 39/43). O ora agravante foi fiador do débito e deu em garantia a propriedade do imóvel registrado sob a matrícula 20.024, do Cartório de Registro de Imóveis de Capivari/SP (cláusula 6 do contrato).
+O agravante foi citado da execução em 24 de outubro de 2016 (fl. 101) e somente após o praceamento e arrematação do imóvel veio aos autos apresentar exceção de pré-executividade com alegação de excesso de execução, por abusividade dos juros moratórios e da multa previstas na cláusula quarta do acordo.
+E, como decidido na decisão agravada, a defesa não pode ser conhecida, pois as matérias discutidas não podem ser conhecidas de ofício, já que dependem de prévia declaração de nulidade da cláusula contratual por abusividade.
+Constou, ainda, do acórdão que julgou os embargos de declaração, que "Reitere-se: não se trata de afirmar que as questões relativas a juros e multa não possam ser objeto de exceção de pré-executividade, mas que, no caso, para o reconhecimento de abusividade em relação a esses consectários é necessário o anterior reconhecimento de abusividade de cláusula contratual".
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Interposto agravo interno foi a ele negado provimento.
+Decisão transitada em julgado em 31.10.2023.
+O julgamento do recurso acarreta a perda de objeto da cautelar dele dependente.
+Em face do exposto, julgo prejudicado o presente pedido de tutela provisória, bem como o agravo interno de fls. 212/228, com fundamento no art. 34, XI, do Regimento Interno do STJ.
+Intimem-se.
+EMENTA
