@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BRASILSEG COMPANHIA DE SEGUROS contra decisão monocrática por mim proferida, por meio da qual não conheci do agravo em recurso especial da embargante, em razão da incidência da Súmula n. 182/STJ, considerando a ausência de impugnação do fundamento de inadmissibilidade do recurso especial de incidência da Sumula 83/STJ (fls. 466-469).
+A embargante sustenta que há omissão na decisão embargada porquanto promoveu a impugnação específica e fundamentada da Súmula 83/STJ, não havendo falar em violação do princípio da dialeticidade.
+Requer o acolhimento dos presentes embargos a fim de se conhecer do agravo em recurso especial e de se dar provimento ao recurso especial.
+Sem impugnação aos embargos de declaração (fl. 487).
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Não há omissão na decisão embargada.
+No caso dos autos, consoante assentado na referida decisão, verifica-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: a) estando o acórdão em conformidade com o entendimento do Tribunal de destino, não se conhece do recurso especial, conforme o disposto na Súmula n. 83 do Superior Tribunal de Justiça; b) tange ao pleito de afastamento da multa, Súmula n. 7/STJ; c) destituída de razoabilidade a alegação de ofensa ao dispositivo do Código de Processo Civil referente à disciplina dos embargos declaratórios e à fundamentação das decisões judiciais. Entretanto, a parte agravante não impugnou a incidência da Súmula n. 83/STJ.
+Ressaltou-se que, quanto à incidência da Súmula n. 83/STJ, a jurisprudência desta Corte firmou-se no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não aconteceu no presente caso.
+Nesses termos, de fato, deixou a ora embargante de impugnar a incidência da Súmula n. 83/STJ, quando se limitou a defender a ocorrência de prescrição com base no art. 206, § 3º, IX, do Código Civil, por meio de precedentes de outros tribunais que não guardam similitude fática com o caso dos autos, tampouco são pertinentes à matéria em questão, além de não apresentar precedente desta Corte contemporâneo ao precedentes colacionados no acórdão recorrido.
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REDISCUSSÃO DE QUESTÃO APRECIADA. NÃO CABIMENTO.
+1- Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2- Esta Corte Superior perfilha o entendimento de que "os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores" (AgInt no AREsp n. 2.097.025/SP, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022).
+3- Embargos de declaração rejeitados.
+(EDcl nos EDcl no REsp n. 1.976.376/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/11/2022, DJe de 10/11/2022.)
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubsta nciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. DEMANDA PROPOSTA POR TERCEIRO BENEFICIÁRIO. PRESCRIÇÃO. PRAZO DECENAL. AUSÊNCIA DE IMPUGNAÇÃO DA INCIDÊNCIA DA SÚMULA 83/STJ NA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIO NA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
