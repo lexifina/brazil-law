@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  COTIA1 - EMPREENDIMENTO IMOBILIÁRIO LTDA. - e CONSTRUTORA TENDA S.A.,  com  amparo  nas  alíneas a e  c  do  inciso  III  do  art.  105  da  Constituição  Federal,  em  desfavor  do  acórdão  prolatado  pelo  Tribunal  de Justiça do Estado de São Paulo  assim  ementado  (e-STJ,  fl. 451):
+APELAÇÃO CÍVEL - COMPROMISSO DE COMPRA E VENDA - INDENIZATÓRIA - LAUDO PERICIAL QUE CONSTATOU A EXISTÊNCIA DE FALHAS NO PROJETO (TERRAPLANAGEM) QUE COMPROMETEM O IMÓVEL - PROVA EMPRESTADA - VÍCIOS CONSTRUTIVOS DEMONSTRADOS - RESSARCIMENTO DEVIDO - DANOS MORAIS CONFIGURADOS - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram acolhidos, sem efeitos infringentes, nos termos da seguinte ementa (e-STJ, fl. 588):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - RECONHECIMENTO - DETERMINAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA DE EXPRESSA MANIFESTAÇÃO ACERCA DA PRESCRIÇÃO E DECADÊNCIA NA IMPUGNAÇÃO OFERTADA PELAS RÉS, EM RECURSO DE APELAÇÃO - ACLARAMENTO - EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+Nas  razões  do  recurso  especial,  a s  recorrentes  alegam  a ofensa ao art. 1.022, inciso II, do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão recorrido quanto ao fato de que o pedido formulado é de obrigação de fazer, e não indenizatório, de modo que o prazo aplicável à espécie é o decadencial.
+Afirmam, ainda, a violação ao art. 26, inciso II, do Código de Defesa do Consumidor, preconizando que deve ser reconhecida a decadência do direito dos recorridos, bem como que há dissídio jurisprudencial acerca do caso em comento.
+Contraminuta  apresentada  (e-STJ,  fls.  642-649).
+O  Tribunal  de  origem  admitiu  o  recurso  especial  (e-STJ,  fls.  650-652).
+Brevemente  relatado,  decido.
+De início, consoante análise dos autos, verifica-se que a alegação de violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado de São Paulo, em embargos de declaração, foi claro ao concluir, em suma, que "se cuida de pretensão indenizatória, ainda que cumulada com pedido de obrigação de fazer, fundada na má execução do contrato, a qual, em meu posicionamento, se sujeita ao prazo geral decenal do art. 205 do Código Civil", veja-se (e-STJ, fls. 589-590; sem grifo no original):
+Com o máximo respeito, se faz necessário frisar que a ação é de obrigação de fazer objetivando a reparação de danos materiais e morais em decorrência de suposto vício construtivo.
+E a autora somente teve conhecimento do vício em meados de 2013.  ..
+Não se trata de pedido fundado nas alternativas previstas pelos artigos 18, § 1º, e 20, caput, do Código de Defesa do Consumidor, as quais se sujeitam ao prazo decadencial previsto no art. 26 do mesmo diploma.
+Diversamente, aqui se cuida de pretensão indenizatória, ainda que cumulada com pedido de obrigação de fazer, fundada na má execução do contrato, a qual, em meu posicionamento, se sujeita ao prazo geral decenal do art. 205 do Código Civil.
+Fica, portanto, afastada a alegação de decadência e prescrição, nos termos acima alinhavados.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão das recorrentes , não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 284/STF E 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+ ..
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.781.868/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021).
+Ademais, destaca-se que, segundo o entendimento desta Corte Superior, "quando a pretensão do consumidor é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência de prazo decadencial. A ação, tipicamente condenatória, sujeita-se a prazo de prescrição" (AgInt no AREsp n. 2.465.495/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+Nesse sentido (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. VÍCIO CONSTRUTIVO. PRESCRIÇÃO DECENAL. ART. 205 DO CÓDIGO CIVIL. TERMO INICIAL. SÚMULA Nº 568/STJ.
+1. No caso, não subsiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que se aplica o prazo prescricional decenal disposto no art. 205 do Código Civil à pretensão indenizatória decorrente de vício construtivo. Precedentes.
+3. O tribunal de origem decidiu em consonância com a jurisprudência desta Corte Superior ao concluir que termo inicial da prescrição é a data do conhecimento das falhas construtivas.
+4. Estando o acórdão recorrido em consonância com o entendimento do Superior Tribunal de Justiça, correta a aplicação da Súmula nº 568/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.431.587/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. VÍCIOS CONSTRUTIVOS. INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PRESCRIÇÃO DECENAL. ART. 205 DO CÓDIGO CIVIL. SÚMULA 83/STJ. FUNDAMENTOS NÃO IMPUGNADOS. RAZÕES DISSOCIADAS DA MOTIVAÇÃO DO JULGADO. SÚMULAS 283 E 284 DO STF. AGRAVO NÃO PROVIDO.
+1. "A pretensão cominatória de obrigar a construtora às providências necessárias ao saneamento do vício construtivo não se confunde com a mera substituição de produto ou reexecução de serviço, de modo que não se sujeita ao prazo decadencial previsto no art. 26 do Código de Defesa do Consumidor" (AgInt no REsp n. 1.863.245/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/8/2020, DJe 27/8/2020).
+2. "Quando a pretensão do consumidor é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência de prazo decadencial. A ação, tipicamente condenatória, sujeita-se a prazo de prescrição. À falta de prazo específico no CDC que regule a pretensão de indenização por inadimplemento contratual, deve incidir o prazo geral decenal previsto no art. 205 do CC/02" (REsp n. 1.819.058/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 3/12/2019, DJe 5/12/2019) 3. Inadmissível o recurso especial quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos. Incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.394.798/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Na espécie, vislumbra-se que a irresignação das recorrentes não merece prosperar, uma vez que o acórdão recorrido, ao concluir que "se cuida de pretensão indenizatória, ainda que cumulada com pedido de obrigação de fazer, fundada na má execução do contrato, a qual, em meu posicionamento, se sujeita ao prazo geral decenal do art. 205 do Código Civil" (e-STJ, fl. 590), encontra-se em consonância com o supracitado entendimento deste Superior Tribunal, incidindo a Súmula n. 83/STJ ao caso vertente.
+Por fim, no tocante à penalidade requerida em contrarrazões (e-STJ, fl. 649), cumpre destacar que a "litigância de má-fé, passível de ensejar a aplicação da multa estabelecida no art. 80 do NCPC, configura-se quando houver a prática de atos inúteis ou desnecessários à defesa do direito e à criação de embaraços à efetivação das decisões judiciais, ou seja, na insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" o que não se verifica na espécie (AgInt no AREsp 1.915.571/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe 19/11/2021).
+Assim,  melhor  sorte  não socorre  às  recorrentes.
+Ante  o  exposto,  conheço  do  recurso  especial e nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) do valor da condenação.
+Fiquem  as  partes  cientificadas  de  que  a  apresentação  de  recursos  manifestamente  inadmissíveis  ou  protelatórios  contra  esta  decisão  ensejará  a  imposição,  conforme  o  caso,  das  multas  previstas  nos  arts.  1.021,  §  4º,  e  1.026,  §  2º,  do  CPC/2015.
+Publique-se.
+EMENTA
+RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO COM PEDIDO DE OBRIGAÇÃO DE FAZER E CONDENATÓRIO. COMPROMISSO DE COMPRA E VENDA. VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. APLICAÇÃO DO PRAZO PREVISTO NO ART. 205 DO CÓDIGO CIVIL. ALEGADA OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. NÃO OCORRÊNCIA.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM O  ENTENDIMENTO  DESTA  CORTE  SUPERIOR.  INCIDÊNCIA DA SÚMULA N. 83/STJ. RECURSO  ESPECIAL  CONHECIDO E DESPROVIDO.
