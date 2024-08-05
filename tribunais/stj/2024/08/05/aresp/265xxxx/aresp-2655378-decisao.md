@@ -1,0 +1,99 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por GOMES ACANJO COMÉRCIO DE AREIA E PEDRA LTDA., em face de decisão que não admitiu recurso especial (fls. 1048-1050, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 911-926, e-STJ):
+APELAÇÕES. Arbitramento de honorários advocatícios. Verba sucumbencial que integra o pedido inicial. Ausente prova do pagamento. Inquestionável o valor fixado na r. sentença. Honorários contratuais. Cláusula "ad exitum". Revogação do pacto cerca de 40 dias do encerramento da fase de conhecimento, no curso do cumprimento provisório de sentença ajuizado pela autora a mando da ré. Requerida que, posteriormente, celebra acordo em relação ao valor do crédito derivado da condenação.
+Circunstância que não desnatura o êxito alcançado pela autora, que praticou todos os atos necessários para o sucesso da demanda. Serviços integralmente prestados.
+Higidez contratual não infirmada. Sentença mantida. Recursos desprovidos.
+Opostos embargos de declaração (fls. 928-946, e-STJ), esses foram rejeitados (fls. 949-958, e-STJ).
+Nas razões do recurso especial (fls. 961-987, e-STJ), a recorrente aponta violação aos seguintes artigos:
+(i) 435 do CPC/2015, pois era possível a análise dos documentos acostados pela ora recorrente em sede de embargos de declaração opostos contra a sentença de primeiro grau;
+(ii) 22, § 2º, da Lei 8906/1994, pois era necessária produção de provas para o arbitramento de honorários;
+(iii) 141 do CPC/2015, já que a sentença é extra petita, ao deferir à ora recorrida valores não pleiteados;
+Aduz, por fim, ter havido supressão de instância quanto à fixação dos honorários.
+Contrarrazões às fls. 996-1047, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os fundamentos de que: a) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; b) incidiria ao caso o enunciado nº 7 da Súmula do STJ.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. De acordo com a jurisprudência do STJ, "documento novo a que faz referência o art. 435 do CPC/2015 é aquele que surge de fatos supervenientes ao ajuizamento da ação ou que somente tenha sido conhecido pela parte em momento posterior." (AgInt no AREsp n. 2.013.251/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022.).
+No caso dos autos, o Tribunal local, lastreado em tal posicionamento, assentou que a documentação colacionada ao processo após a sentença não seria nova. Destacou, ademais, não haver justificativa plausível para sua juntada extemporânea. Veja-se (fls.917-918, e-STJ):
+Por essas razões, tem-se que os documentos juntados às fls. 582 e seguintes, injustificadamente subtraídos da instrução da causa, não merecem conhecimento, tendo em vista a efetivação da preclusão consumativa (artigos 434 e 435, ambos do Código de Processo Civil.
+Derruir tal conclusão demandaria revolvimento de matéria probatória, providência vedada na presente instância recursal, nos termos da Súmula 7/STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NULIDADE. CONTRATO. IMÓVEL. COMPRA E VENDA. PEDIDO DE ADJUDICAÇÃO. IMPROCEDÊNCIA. DOCUMENTO NOVO. NÃO RECONHECIMENTO. JUNTADA TARDIA.
+IMPOSSIBILIDADE. SÚMULA Nº 83/STJ. REVISÃO. SÚMULA Nº 7/STJ. 1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O documento novo a que faz referência o art. 435 do CPC é aquele que surge de fatos supervenientes ao ajuizamento da ação ou que somente tenha sido conhecido pela parte em momento posterior.
+Precedentes.
+3. O recurso especial é inviável quando o tribunal de origem decide a controvérsia em consonância com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula nº 83/STJ, aplicável ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+4. Não cabe recurso especial para reanalisar o conjunto fático-probatório dos autos, conforme o óbice erigido pela Súmula nº 7/STJ.
+5. Na hipótese, rever as conclusões do acórdão recorrido no sentido de que o documento apresentado pela parte não é documento novo e de que o autor não fez prova capaz de amparar o pedido de nulidade do contrato de compra e venda do imóvel, demandaria o reexame do contexto fático-probatório dos autos, procedimento vedado em recurso especial em virtude da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.309.266/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE PRESTAÇÃO DE CONTAS. JUNTADA DE DOCUMENTOS EM APELAÇÃO. NÃO CARACTERIZAÇÃO DE FATOS NOVOS. PRECLUSÃO CONSUMATIVA. PERÍCIA TÉCNICA. CERCEAMENTO DE DEFESA. REVISÃO DE FATOS E PROVAS. NÃO CABIMENTO. SÚMULA N.º 7 DO STJ. SENTENÇA FUNDAMENTADA. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. NEGOU-SE PROVIMENTO AO AGRAVO INTERNO.
+1. Devidamente analisadas e discutidas as questões de mérito e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+2. "A regra prevista no art. 396 do CPC/73 (art. 434 do CPC/2015), segundo a qual incumbe à parte instruir a inicial ou a contestação com os documentos que forem necessários para provar o direito alegado, somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior, nos termos do art. 397 do CPC/73 (art. 435 do CPC/2015)" (AgInt no AREsp n. 1.734.438/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/3/2021, DJe de 7/4/2021).
+3. O exame da pretensão recursal de reforma do v. acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, com reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula n.º 7 do STJ.
+4. Negou-se provimento ao agravo interno.
+(AgInt no AREsp n. 2.084.990/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022.)
+2. De igual modo, não prospera a aludida violação ao art. 22, § 2º, da Lei 8906/1994, ligada a suposto cerceamento de defesa quando da fixação dos honorários advocatícios, em razão do indeferimento da produção de provas testemunhal e pericial.
+Tem-se, contudo, que a Corte estadual, após análise detida dos elementos fático-probatórios que instruem o processo, concluiu que ser desnecessária a dilação probatória, nos seguintes termos (fl. 923-924, e-STJ):
+Sem razão, contudo.
+Afinal, a ré, por conta da atuação profissional da autora, logrou êxito na demanda e, esta, a forma de remuneração da Advogada pactuada no contrato (fls.69, "2").
+As partes, na ocasião em que voluntariamente convergiram seus interesses para a consecução do negócio jurídico em testilha e que, para tanto, avençaram livremente os valores, prazos, obrigações e condições contratuais, também estipularam que "em caso de revogação de mandado sem justa causa, fica desde já estipulado que o cliente cumprirá, fielmente, todos os termos desde, em virtude dos serviços prestados pelos advogados, sem direito a questionarem a extensão ou o quanto desenvolvido processual ou extra processualmente pelo contratado" (cláusula "6", fls. 69, g.n.).
+No caso em testilha, não se discute a existência de outra relação jurídica eventualmente ajustada entre as partes e a ré não pretende anular o que pactuou com a autora.
+Por conseguinte, dada a excepcionalidade do caso em apreço, se inexiste discussão atinente a eventual vício de consentimento e se a ré concordou em remunerar os serviços da autora independentemente da extensão ou do quanto por ela desenvolvido no processo ou fora dele, se afigura impertinente e desnecessária a dilação instrutória para aquele fim.
+Com efeito, consoante disposto no art. 370 do CPC/2015, cabe ao juiz determinar, de ofício ou a requerimento, a produção das provas necessárias à elucidação das questões apresentadas pelas partes. Como consequência de tal potestade, prevê o parágrafo único do referido dispositivo, inclusive, que o magistrado deverá indeferir as diligências inúteis ou meramente protelatórias.
+Não há se falar, portanto, em cerceamento de defesa no caso, já que o Tribunal de origem, a partir das provas já produzidas, considerou possível o julgamento de mérito da demanda. Rever tal entendimento, necessariamente, demandaria o revolvimento de matéria fático-probatória, o que se veda por força da Súmula 7/STJ. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. INDENIZAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO AO 535 DO CPC DE 1973. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA. INCIDÊNCIA, MAIS UMA VEZ, DA SÚMULA 7 DO STJ.
+ ..
+3. "O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC. A avaliação tanto da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide (art. 330, I, do CPC), quanto da necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial (Súmula n. 7/STJ)" (AgRg no REsp 1449368/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/08/2014, Dje 27/08/2014).
+ ..
+5. Agravo interno de fls. 903/912 não conhecido e agravo interno de fls. 893/902 não provido. (AgInt no AREsp 1083997/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/08/2017, DJe 15/08/2017)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. EMBARGOS. JULGAMENTO ANTECIPADO DA LIDE. DESNECESSIDADE DE PERÍCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. In casu, para se chegar à conclusão de que a prova cuja produção foi requerida pela parte seria ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, a teor do enunciado 7 da Súmula deste Superior Tribunal de Justiça.
+2. Agravo interno desprovido. (AgInt no AREsp 841.164/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017)  grifou-se
+3. Não prospera, igualmente, a aludida violação ao art. 141 do CPC/2015.
+Sobre a controvérsia, restou assentado pelo Tribunal local que não haveria se falar em decisão extra petita, na medida em que o pleito deferido está alinhado ao pedido formulado, qual seja, o arbitramento de honorários. Veja-se (fl. 918, e-STJ):
+não há julgamento extra petita pois o arbitramento de honorários sucumbenciais é pedido que consta expressamente da inicial(fls. 05/07, 09/10).
+Aliás, a conduta da ré nesse sentido (fls. 685) resvala à litigância de má-fé pois, ao contestar o pedido, impugnou específica e precisamente essa alegação de fato constante da petição inicial (fls. 120/121, item "2).
+Com efeito, cuida-se de entendimento consentâneo à jurisprudência desta Corte, a qual apregoa que o pedido deve ser interpretado em consonância com a pretensão deduzida como um todo. Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não é cabível recurso especial fundado em alegação de ofensa a enunciado sumular (Súmula 518 do STJ).
+2. Nos termos da jurisprudência desta Corte, não configura julgamento ultra/extra petita quando o Tribunal local decide questão que é reflexo do pedido na exordial, pois o pleito inicial deve ser interpretado em consonância com a pretensão deduzida como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento ultra ou extra petita. Precedentes.
+3. A jurisprudência do STJ pacificou o entendimento de que a existência de outras restrições em nome do autor em cadastro de inadimplentes afasta a indenização por dano moral, ressalvado apenas o direito de cancelamento, conforme entendimento cristalizado na Súmula 385 desta Corte.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1123955/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/09/2019, DJe 26/09/2019)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE INCAPACITANTE. PEDIDO DE LUCROS CESSANTES. CONCESSÃO DE PENSÃO MENSAL VITALÍCIA. JULGAMENTO ULTRA PETITA NÃO CARACTERIZADO. AÇÃO RESCISÓRIA IMPROCEDENTE. 1. Não configura julgamento ultra petita ou extra petita o provimento jurisdicional inserido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial e não apenas de sua parte final. 2. Impossível cogitar, assim, de ação rescisória contra sentença que julgou a causa com base em uma interpretação sistemática do pedido ao argumento de que estaria caracterizado julgamento ultra petita. 3. Agravo regimental não provido. (AgRg no REsp 1548506/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO E DA CAUSA DE PEDIR. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. TUTELA ANTECIPADA (CPC, ART. 273). AUSÊNCIA DE VEROSSIMILHANÇA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. Não fica configurado julgamento extra petita quando o Tribunal local decide questão que é reflexo do pedido na exordial, pois o "pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita" (AgRg no AREsp 322.510/BA, Rel. Ministro Herman Benjamin). Diante disso, na análise da petição inicial, verifica-se que a lide foi apreciada nos termos do pedido e da causa de pedir, razão pela qual não há falar em decisum extra petita.  ..  3. Agravo interno a que se nega provimento. (AgInt no REsp 1088528/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/06/2016, DJe 03/08/2016)  grifou-se
+3.1. Ademais, rever tal posicionamento demandaria revolvimento do acervo probatório, a atrair o óbice da Súmula 7/STJ.
+4. Por fim, aponta-se a inviabilidade de admitir o apelo no que tange à tese de supressão de instância.
+Destaca-se, preambularmente, que o recurso especial possui fundamentação vinculada, razão pela qual o efeito devolutivo opera-se tão somente nos termos do que foi impugnado.
+Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados, ou sob os quais recairia interpretação pretoriana divergente, não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Nesse sentido, destacam-se, ainda, os seguintes precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ART. 535, II, DO CPC. NÃO OCORRÊNCIA. DANOS MORAIS. REEXAME DE MATÉRIA DE FATO. INCIDÊNCIA DO ENUNCIADO 7 DA SÚMULA DO STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA Nº 284 DO STF.
+(..)
+3. A ausência de indicação do dispositivo legal tido por violado atrai o óbice de que trata o verbete n. 284, da Súmula do STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 723.635/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe 10/08/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1119408/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 14/02/2018)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - TELEFONIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+(..)
+2. A falta de indicação do dispositivo legal ao qual se entende ter sido dada interpretação divergente, viabilizador do recurso especial pelo dissídio jurisprudencial, atrai a incidência da Súmula n. 284/STF.
+3. Agravo interno desprovido.
+(AgInt no REsp 1599674/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 20/04/2018)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CAPITALIZAÇÃO MENSAL DE JUROS. MATÉRIA VENTILADA NAS RAZÕES RECURSAIS. INADMISSIBILIDADE DO RECURSO QUANTO A ESSA MATÉRIA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL QUE TERIAM SIDO VIOLADOS. DEFICIÊNCIA RECURSAL. APLICAÇÃO DA SÚMULA 284/STF. COTEJO ANALÍTICO POR MEIO DE JULGADOS QUE NÃO APRECIARAM A MESMA REALIDADE FÁTICA, SOB A MESMA ÓTICA. AGRAVO INTERNO DESPROVIDO.
+1. A Jurisprudência do STJ está assentada na impossibilidade de conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, quando não indicado o dispositivo de lei supostamente violado ou que tenha recebido interpretação divergente pelo julgado impugnado. Incidência da Súmula 284/STF. Precedente.
+2. Embora a parte insurgente alegue que a divergência jurisprudencial esteja devidamente demonstrada, ela, na verdade, não ocorre. Isso porque, somando-se ao fato de inexistência de indicação de dispositivos de lei violados (aplicação da Súmula 284/STF), percebe-se que o cotejo analítico formulado não se detém sobre acórdãos que apreciaram a mesma questão, com a mesma realidade fática.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1643634/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/06/2018, DJe 29/06/2018)  grifou-se
+No caso em tela, tal providência não foi atendida pela insurgente no que se refere à presente controvérsia.
+Da leitura do recurso especial, colhe-se que, em relação a tal fundamento, não há a indicação de qual dispositivo da legislação infraconstitucional seria objeto violação ou interpretação conflitante por parte de tribunais pátrios.
+Dessa forma, diante de toda a argumentação ora apresentada, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+5. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Prejudicada a análise do pedido de concessão de efeito suspensivo.
+Publique-se.
+Intimem-se.
+EMENTA
