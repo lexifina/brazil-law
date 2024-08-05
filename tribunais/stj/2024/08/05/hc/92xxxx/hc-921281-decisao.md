@@ -1,0 +1,45 @@
+DECISÃO
+HENRY LUAN DE SOUZA FIGUEIRA alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0806243-47.2023.8.19.0023.
+Consta dos autos que o paciente foi condenado à pena de 9 anos e 4 meses de reclusão, em regime fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, c/c o art. 40, IV, da Lei n. 11.343/2006.
+Nas razões da impetração, a defesa pretende a absolvição do réu pelo crime descrito no art. 35 da Lei n. 11.343/2006, sob a tese de ausência de elementos concretos que demonstrem a estabilidade e a permanência do vínculo associativo do agente com o adolescente apreendido e com facção criminosa.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 115-128).
+Decido.
+I. Delito de associação para o tráfico ilícito de entorpecentes
+O Juízo singular condenou o paciente pela prática do crime de associação para o tráfico ilícito de entorpecentes, sob os fundamentos a seguir (fl. 39, grifei):
+Nessa linha, também não tenho dúvida da prática do crime de associação, já que o acusado estava em poder de drogas (maconha e cocaína), se valendo da presença de um comparsa armado, o que indica a sua associação à facção criminosa "Comando Vermelho", ou seja, a participação em uma associação estável e permanente para a prática reiterada do tráfico.
+De fato, estão presentes elementos empíricos que, conjugados com aqueles colhidos no curso da instrução, demonstram a indisfarçável prática do delito do art. 35, da Lei nº 11.343/06, senão vejamos: (i) é fato notório, que independe de prova, a existência de facções criminosas dedicadas ao narcotráfico instaladas em diversas comunidades do Estado do Rio de Janeiro; (ii) a facção criminosa que atua na localidade é a autodenominada "Comando Vermelho"; (iii) o acusado HENRY LUAN estava na companhia do adolescente VICTOR, que portava uma arma de fogo; (iv) foram arrecadadas drogas (maconha e cocaína)identificadas com a sigla da facção criminosa "Comando Vermelho".
+Nessa direção, é possível concluir que o acusado não é iniciante no tráfico e que atuava na companhia de outros integrantes da facção criminosa "Comando Vermelho", estando evidenciada a estabilidade da associação para a prática do crime de tráfico, situação que não foi afastada por nenhum outro elemento de prova existente nos autos.
+Não tenho dúvida, portanto, sob a ótica do que preconiza o art. 239 do Código de Processo Penal, bem como pelas regras de experiência comum, que o acusado estava associado com o adolescente e a outros traficantes da localidade, com patente animus associativo para a prática do tráfico de drogas.
+O Tribunal estadual ao julgar o recurso de apelação, manteve a condenação pelas seguintes razões (fls. 82-84, destaquei):
+ ..  E, no caso em tela, a sentença condenatória, na espécie, não merece qualquer retoque, considerando que a existência material e a autoria delitivas do injusto de associação para o tráfico, conforme o tipo penal do artigo 35, caput11, da Lei nº 11.343/06, foram, cabalmente, demonstradas, em sendo a prova oral colhida durante a instrução criminal segura para embasar a procedência da pretensão punitiva estatal deduzida em seu desfavor aliada às circunstâncias da prisão do réu e apreensão do menor, que apontam na direção inequívoca da existência de um vínculo associativo estável e permanente entre o defendente e o adolescente, a fim de praticarem, reiteradamente ou não, o tráfico ilícito de entorpecentes.
+ ..
+01) Em fase de inquisa, o castrense MACIEL afirmou que o réu e o adolescente confessaram que faziam parte do tráfico de drogas da localidade, chefiados por "Roger", pertencente à facção Comando Vermelho (ID63642455):
+ ..
+02) em Juízo, o agente MACIEL relatou que o réu informou que estava trabalhando com o "Roger" e com o menor no tráfico de drogas (01m:47s a 02m:37s da gravação). Já o castrense MELLO, por sua feita, acrescentou que lhe foi dito que faziam parte do tráfico de drogas, um na função de vapor e outro na de "atividade" (02m:00s a 02m:38s da gravação).
+(03) as circunstâncias da apreensão do menor e da prisão do réu apontam na direção inequívoca da existência de um vínculo associativo estável e permanente entre eles, além de outros integrantes da facção criminosa "Comando Vermelho", a fim de praticar, reiteradamente ou não, o tráfico ilícito de entorpecentes, não por mera circunstância, mas, sim, porque integravam uma associação, permanente e com divisão da tarefas, destinada à mercancia de estupefacientes, sendo todos relevantes para a consecução da obra criminosa:
+ ..
+(4) repise-se, o adolescente, durante sua oitiva nos autos do processo nº 0005344-82.2023.8.19.0023, afirmou que, no dia dos fatos, HENRI estava na função de "vapor", que vende as drogas, enquanto ele permaneceu como "atividade", segurando a pistola (00m:57s a 02m:00s da gravação de item 000114 daqueles autos).
+Desta forma, em que pese o esforço da combativa Defesa do apelante, a existência material e a autoria delitivas restaram cabalmente demonstradas nas peças acostadas aos autos, bem como na prova oral colhida durante a instrução criminal, que se mostrou suficiente para embasar a procedência da Ação Penal.
+ ..
+Pelos trechos anteriormente transcritos, verifico que as instâncias ordinárias, após minuciosa análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos bastantes a ensejar a condenação do acusado pelo crime previsto no art. 35 da Lei n. 11.343/2006.
+Destaco que o animus associativo e a estabilidade do vínculo estão amplamente demonstrados pelos fatores a seguir: a) embalagens dos entorpecentes com identificação da facção criminosa Comando Vermelho; b) apreensão de arma de fogo de uso restrito; c) a confissão do corréu, que admitiu que exercia a função de "atividade", como segurança do réu, que era "vapor", ou seja, vendia os entorpecentes.
+Relembro que a jurisprudência deste Superior Tribunal é firme ao assegurar de que os depoimentos dos policiais responsáveis pelo flagrante constituem meio idôneo de prova para motivar o édito condenatório, sobretudo quando colhidos no âmbito do devido processo legal, sob o pálio do contraditório e corroborados pelos demais elementos de prova.
+Exemplificativamente:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCLUSÃO EM PAUTA E INTIMAÇÃO PARA SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL. OFENSA AO ART. 35 DA LEI N. 11.343/2006. NÃO OCORRÊNCIA. INEXISTÊNCIA DE ÂNIMO ASSOCIATIVO E ESTÁVEL. ALTERAÇÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+ ..
+4. A conclusão do magistrado singular (reformada pela Corte de origem), acerca do animus associativo dos acusados, baseou-se exclusivamente nos depoimentos prestados pelos policiais.
+Todavia, de acordo com a jurisprudência deste Superior Tribunal de Justiça, os depoimentos dos policiais responsáveis pelo flagrante constituem meio idôneo de prova para motivar o édito condenatório quando colhidos no âmbito do devido processo legal, sob o crivo do contraditório, e corroborados pelos demais elementos probatórios contidos nos autos. Assim, deve ser mantido o acórdão recorrido, quanto à absolvição dos recorridos, pelo delito de associação para o tráfico de drogas.
+5. Nos termos da Súmula 83/STJ, "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.253.281/PI, Relator Ministro Ribeiro Dantas, 5ª T., DJe 17/2/2023)
+Assim, para desconstituir a conclusão alcançada pelo Tribunal de origem - como pretende a defesa -, seria necessário, nesta oportunidade, realizar aprofundado reexame probatório, o que, no entanto, é inviável nos estreitos limites de cognição desta ação constitucional.
+As duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça entendem não ser cabível, em habeas corpus, o reexame aprofundado de fatos e provas para acolher o pedido de absolvição. Nesse sentido, cito o seguinte julgado:
+ ..
+2. A via estreita do habeas corpus não se presta ao revolvimento da matéria fática, como ocorre quando a decisão é atacada sob alegações de má apreciação das provas e de desclassificação da conduta, devendo a coação ser manifestamente ilegal.
+3. Estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, sendo primário o agente e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33 do Código Penal.
+4. Habeas corpus não conhecido, mas ordem concedida de ofício para fixar o regime inicialmente semiaberto para o cumprimento da pena reclusiva.
+(HC n. 270.011/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/4/2016).
+II. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
