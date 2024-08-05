@@ -1,0 +1,26 @@
+DECISÃO
+SIDNEY LUIZ NUNES agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0001410-53.2015.8.24.0025).
+Consta nos autos que o réu foi condenado a 6 meses de detenção, em regime aberto, mais 10 dias-multa, pela prática do crime previsto no art. 163, parágrafo único, III, do Código Penal.
+O recorrente apontou violação do art. 261 do Código de Processo Penal e nulidade decorrente da deficiência da fundamentação da apelação defensiva. Ao final, pleiteou "que os autos retornem a instância a quo para apresentação de novas razões de apelação" (fl. 341).
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 365-370, no qual a parte impugna os óbices apontados.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 401-404).
+Decido.
+O Tribunal de origem rechaçou a tese absolutória e não conheceu do pedido de revisão da dosimetria. Confira-se a ementa do julgado (fl. 319):
+APELAÇÃO CRIMINAL. DANO CONTRA SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO (ART. 163, PARÁGRAFO ÚNICO, III, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PLEITO DE ADEQUAÇÃO DA DOSIMETRIA DA PENA FORMULADO DE FORMA GENÉRICA. AFRONTA À DIALETICIDADE. NÃO CONHECIMENTO.
+Conquanto a argumentação da defesa no âmbito do processo penal possa ser exígua, exige-se, ao menos, explanação acerca do pedido formulado, de modo a possibilitar que a parte contrária ofereça as contrarrazões, sob pena de não conhecimento por afronta ao princípio da dialeticidade.
+PLEITO ABSOLUTÓRIO. ALEGADA A INSUFICIÊNCIA DE PROVAS. DESCABIMENTO. MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA INCOGITÁVEL. DANO À PORTA DE VIDRO TEMPERADO NAS DEPENDÊNCIA DA CASAN. REPROVABILIDADE E LESIVIDADE DA CONDUTA EXACERBADAS. MANUTENÇÃO DA CONDENAÇÃO.
+1 Devidamente comprovado que o réu, de forma livre e consciente, quebrou uma das portas de estabelecimento de empresa concessionária de serviço público, deve ser preservada a condenação pela prática do delito previsto no art. 163, parágrafo único, III, do Código Penal.
+2 Incogitável a aplicação do princípio da insignificância quando a conduta perpetrada evidencia extrema reprovabilidade e lesividada ao bem jurídico tutelado.
+FIXAÇÃO DE HONORÁRIOS AO DEFENSOR NOMEADO, PELA APRESENTAÇÃO DAS RAZÕES RECURSAIS. POSSIBILIDADE. OBSERVÂNCIA AO ITEM 10.4 DO ANEXO ÚNICO DA RESOLUÇÃO CM N. 1 DE 9 DE MARÇO DE 2020, ATUALIZADO PELA RESOLUÇÃO CM N. 5 DE 10 DE ABRIL DE 2023.
+Devida é a verba honorária em favor do advogado nomeado que atuou na fase recursal, devendo ser fixada de acordo com a Resolução CM n. 1 de 9 de março de 2020, atualizada pela Resolução CM n. 5 de 10 de abril de 2023 do Tribunal de Justiça de Santa Catarina.
+RECURSO PARCIALMENTE CONHECIDO E PROVIDO EM PARTE.
+Como bem exposto pelo Parquet, "ao interpor o recurso especial, o réu, apesar de alegar nulidade decorrente da deficiência da defesa, não demonstrou como os direitos pleiteados na apelação (alteração da pena e absolvição) foram afrontados, nem o motivo pelo qual deveriam ser deferidos" (fl. 403).
+Ainda, vale destacar que a reprimenda foi fixada no mínimo legal e a Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do réu pelo delito de dano qualificado.
+Conforme posicionamento jurisprudencial deste Tribunal Superior, em homenagem ao art. 563 do CPP, não se declara a nulidade do ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte, como na espécie.
+Com efeito, não se pode olvidar que, para a declaração de nulidade de determinado ato processual, deve haver a demonstração de eventual prejuízo concreto suportado pela parte. Não é suficiente a mera alegação da ausência de alguma formalidade, mormente quando se alcança a finalidade que lhe é intrínseca.
+Nesse sentido, prevalece na jurisprudência a conclusão de que,
+Em matéria de nulidade, rege o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato. Por essa razão, a desobediência às formalidades estabelecidas na legislação processual só pode acarretar o reconhecimento da invalidade do ato quando a sua finalidade estiver comprometida em virtude do vício verificado, trazendo prejuízo a qualquer das partes da relação processual (HC n. 261.698/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/4/2015).
+Ademais, conforme entendimento sumulado do Supremo Tribunal Federal, "no processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova do prejuízo para o réu" (Súmula n. 523 do STF). Desse modo, não prospera o pleito de nulidade da ação penal.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
