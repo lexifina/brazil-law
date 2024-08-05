@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo em recurso especial contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório.
+Decido.
+O Plenário do STF, ao analisar a SL 1.698, suspendeu as decisões do STJ que concediam indulto, enfatizando que a jurisprudência daquela Corte Suprema é pela necessidade de cumprimento integral das penas por crimes impeditivos, conforme estipulado pelo Decreto n. 11.302/2022.
+No caso específico, o acórdão do Tribunal de origem está em conformidade com a atual jurisprudência desta Corte Superior, a qual, alinhando-se ao posicionamento do STF, é no sentido de que não se encontram preenchidos os requisitos para a concessão do indulto, enquanto não cumprida integralmente a pena do crime impeditivo.
+A impugnação da incidência da Súmula n. 83 desta Corte consiste em demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ, o que não ocorreu.
+Do mesmo modo, para transcender o óbice da Súmula n. 7/STJ, o agravo precisa demonstrar em que medida as teses não exigiriam a alteração do quadro fático delineado pela Corte local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas, vale dizer, no caso, avaliar os requisitos para a concessão do indulto, demandaria revolvimento fático-probatório, e não questões de direito ou de má aplicação da lei federal.
+Acrescenta-se que a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Não basta, para tanto, a menção superficial à leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação.
+De relevo acentuar que o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal.
+A impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Novamente, não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecida, por exemplo, a desarmonia do julgado com a jurisprudência desta Corte Superior ou a ausência de entendimento pacificado sobre a matéria.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
