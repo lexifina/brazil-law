@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto por Google Brasil Internet Ltda. contra a decisão de fls. 416-422 (e-STJ), assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROVEDOR RESPONSÁVEL PELA HOSPEDAGEM DO BLOG. DISPONIBILIZAÇÃO DE MEIOS PARA IDENTIFICAÇÃO DE CADA USUÁRIO. DEVER. REGISTRO DO NÚMERO DE IP. SUFICIÊNCIA. PRECEDENTES. INCIDÊNCIA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+A agravante afirma que "o recurso especial (..) trata de questão diversa. Não se questiona o dever de as plataformas de hospedagem fornecerem o IP correspondente à publicação ofensiva hospedada em suas plataformas. O que se postula é a reforma do v. acórdão do Eg. TJRS que condenou a ora agravante ao cumprimento de uma obrigação impossível: o fornecimento de dados de IP de página que não é hospedada pela Google, mas meramente indexada no seu buscador. Com efeito, o conteúdo impugnado na presente demanda foi postado na rede social Twitter (fl. 19), tendo sido meramente indexado no buscador da Google" (e-STJ, fl. 427).
+Reforça que "o buscador não tem qualquer relação com os sites indicados nos resultados de pesquisa. Assim, a Google nem sequer processa os dados requeridos pelo Eg. TJRS. Nessas condições, a demanda deveria ter sido ajuizada em face dos provedores de hospedagem do conteúdo impugnado, quais sejam, Favstar.fm e Twitter Brasil. Como se vê, a simples leitura da tese afirmada no v. acórdão recorrido já demonstra não apenas o cabimento, mas especialmente a manifesta procedência do recurso especial" (e-STJ, fls. 427-428).
+Brevemente relatado, decido.
+Diante dos argumentos apresentados, constata-se assistir razão à agravante quando afirma que a decisão agravada não tratou da questão veiculada no recurso especial.
+Assim, mediante juízo de retratação, nos termos do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 416-422 (e-STJ).
+Considerando a relevância da matéria controvertida e os fundamentos trazidos no recurso, bem como atendidos os pressupostos de admissibilidade, determino a conversão do agravo em recurso especial, a fim de que a matéria seja melhor examinada, sem prejuízo de posterior análise dos pressupostos de admissibilidade do recurso.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAUTELAR INOMINADA . INFORMAÇÕES ACERCA DA ORIGEM DE SITE DIFAMATÓRIO. NECESSIDADE DE MELHOR ANÁLISE DAS RAZÕES RECURSAIS. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
