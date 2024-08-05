@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da Corregedoria dos Presídios de Francisco Sá/MG, o suscitante, e o Juízo Federal Corregedor da Penitenciária Federal em Mossoró/RN, o suscitado.
+Consta dos autos que, após requerimento da Secretaria de Estado de Justiça e Segurança Pública, o Juízo Estadual autorizou a inclusão no Sistema Penitenciário Federal, em caráter emergencial, do detento ADRIANO CARLOS DE OLIVEIRA, sob a alegação de se tratar de interno de altíssima periculosidade e que continuaria praticando delitos do interior do estabelecimento penal.
+O Juízo Federal Corregedor da Penitenciária de Mossoró - SJ/RN, por sua vez, indeferiu o pedido da inclusão emergencial, por entender não se tratar de situação de risco atual ou iminente, e concedeu o prazo de 30 dias para que o Juízo Estadual apresentasse a documentação necessária para apreciação da inclusão definitiva do detento no Estabelecimento Federal de Segurança Máxima em Mossoró/RN.
+Extrapolado o prazo de 30 dias, prorrogado por uma vez, o Juízo Federal Corregedor da Penitenciária de Mossoró - SJ/RN indeferiu o ingresso definitivo do interno em razão da ausência do envio dos documentos assinalados como imprescindíveis.
+Em seguida, o Juízo de Direito da Corregedoria dos Presídios de Francisco Sá/MG suscitou o presente conflito de competência, sob o argumento de que não cabe ao Juízo Federal exercer juízo de valor sobre a fundamentação da decisão apresentada, mas apenas aferir sobre a legalidade da medida.
+O Ministério Público Federal opinou pelo não conhecimento do conflito.
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso de transferência do preso para presídio federal, como na hipótese vertente, a Lei 11.671/2008 autoriza a instauração de conflito de competência perante esta Corte Superior de Justiça nos casos de rejeição do pedido de transferência (art. 9º) e quando rejeitado o pedido de renovação de sua permanência no presídio (art. 10, §5º).
+In casu, o Juízo Federal não adentrou no mérito do pedido, mas tão somente indeferiu o pedido de inclusão emergencial na Penitenciária Federal de Mossoró/RN por ausência de demonstração da situação emergencial, razão pela qual concedeu o prazo de 30 dias, sob pena de indeferimento do pedido de inclusão, para que o juízo de origem trouxesse aos autos novo provimento judicial, admitindo a inclusão definitiva definitiva, após a manifestação da defesa e do Ministério Público da origem, bem como os documentos necessários ao pedido não emergencial.
+Assim, não se tratando de caso de rejeição de pedido de transferência ou de renovação de permanência no presídio, a Terceira Seção deste Tribunal já se manifestou no sentido de que a competência deste Superior Tribunal de Justiça resta afastada para julgamento do conflito negativo de competência.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. PRESÍDIO FEDERAL DE SEGURANÇA MÁXIMA. TRANSFERÊNCIA DE PRESOS. LEI N. 11.671/2008. INDEFERIMENTO POR INOBSERVÂNCIA DO PROCEDIMENTO LEGAL ADEQUADO E FALTA DA DOCUMENTAÇÃO CORRESPONDENTE. MÉRITO NÃO EXAMINADO PELO JUIZ CORREGEDOR DOS PRESÍDIOS. INCOMPETÊNCIA DESTE STJ. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+1. Nos termos do Código de Processo Penal, art. 114, haverá conflito de jurisdição quando duas ou mais autoridades judiciárias se considerarem competentes, ou incompetentes, para conhecer do mesmo fato criminoso; ou quando entre elas surgir controvérsia sobre unidade de juízo, junção ou separação de processos. A Lei n. 11.671/2008, em complemento, autoriza ao juízo de origem suscitar o conflito de competência ao Tribunal quando rejeitado o pedido de transferência do preso para o presídio federal (art. 9º) ou quando rejeitado o pedido de renovação de sua permanência (art. 10, § 5º).
+2. Considerando, portanto, que o cabimento do Conflito de Competência se dá nas hipóteses em que rejeitada a transferência do apenado ou o pedido de renovação, e que na espécie o Juízo nem sequer adentrou ao mérito do referido pedido, incompetente é este Superior Tribunal de Justiça para julgamento do feito.
+3. Conflito de Competência não conhecido." (CC 150.573/AC, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe 14/09/2017)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. TRANSFERÊNCIA DE PRESOS PARA O SISTEMA PENITENCIÁRIO FEDERAL. INCLUSÃO INDEFERIDA POR FALTA DE DOCUMENTAÇÃO. INEXISTÊNCIA DE PEDIDO DE PRORROGAÇÃO DO PRAZO. NÃO CARACTERIZADA A HIPÓTESE PREVISTA NO ART. 10, § 5º, DA LEI Nº 11.671/08. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+1. No caso, não resta caracterizada a hipótese prevista no art. 10, § 5º, da Lei nº 11.671/08, que autoriza suscitar o conflito de competência, uma vez que sequer houve a devida inclusão dos presos no sistema federal em razão da falta do encaminhamento da documentação para tanto pelo Juízo de origem.
+2. Conflito de competência não conhecido."
+(CC 128.935/PR, Terceira Seção, Rel. Minª. Laurita Vaz, Rel. p/ Acórdão Minª. Maria Thereza de Assis Moura, DJe 17/09/2014)
+Ante o exposto, não conheço do conflito de competência.
+Publique-se.
+Intimem-se.
+EMENTA
