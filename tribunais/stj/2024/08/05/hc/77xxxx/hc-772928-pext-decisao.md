@@ -1,0 +1,16 @@
+DECISÃO
+FERNANDO MORAIS ALVES requer, às fls. 225-229, que sejam a ele estendidos os efeitos da decisão de fls. 213-217, que concedeu a ordem, in limine, em favor do paciente (Carlos Henrique Dias da Silva), a fim de "reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado, aplicá-la no patamar de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; b) fixar o regime aberto; c) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das especificidades do caso analisado".
+A defesa aduz, em síntese, que "a situação processual do peticionário é idêntica ao do corréu CARLOS HENRIQUE, em relação ao qual foi deferida a ordem, sendo aplicável portanto o teor do art. 580 do Código de Processo Penal" (fl. 228).
+Requer, assim (fl. 229):
+ ..
+b) A extensão de ordem de habeas corpus em favor do paciente FERNANDO MORAIS ALVES para reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado, aplicá-la no patamar de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; b) fixar o regime aberto; c) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais;
+ ..
+Decido.
+De fato, verifico que o requerente está na mesma situação fático-processual que a do paciente. Isso porque a Corte estadual despendeu os mesmos fundamentos em relação a ambos para afastar a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, argumentos, esses, que foram tidos como inidôneos por esta Corte Superior de Justiça.
+Assim, porque caracterizada hipótese prevista no art. 580 do CPP, devem ser a ele estendidos os efeitos da decisão proferida às fls. 213-217.
+Aplicado, portanto, o redutor em questão e uma vez observada a dosimetria feita pela instância de origem, fica a sanção do acusado estabelecida em 2 anos de reclusão e pagamento de 200 dias-multa.
+Da mesma forma, nos termos do art. 580 do CPP, deve ser a ele fixado o regime inicial aberto e determinada a substituição da reprimenda privativa de liberdade imposta ao paciente por duas restritivas de direitos, nos termos do art. 44 do CP, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, defiro o pedido de extensão formulado às fls. 225-229, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do requerente (FERNANDO MORAIS ALVES), aplicá-la no patamar de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 2 anos de reclusão e pagamento de 200 dias-multa; b) fixar o regime aberto; c) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das especificidades do caso analisado (Processo n. 1502221-76.2020.8.26.0228).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
