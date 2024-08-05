@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, em favor de JOÃO VICTOR DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, cuja ementa teve o seguinte teor (fl. 224):
+AGRAVO EM EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DATA-BASE. PRISÃO PROVISÓRIA. 1- O período de liberdade não pode ser computado para fins de livramento condicional na execução penal se o agravante não estava no efetivo cumprimento de sua reprimenda e nem sob a fiscalização do Estado. 2- Agravo conhecido e desprovido.
+Consta dos autos que o paciente cumpre pena privativa de liberdade e teve indeferido seu pedido de retificação da data-base para fins de livramento condicional.
+Neste writ, a impetrante sustenta que a data-base para a progressão de regime deve ser fixada na mesma data da prisão preventiva do apenado, ou seja, 16/6/2021.
+Requer "seja concedida a ordem de Habeas Corpus para, reconhecendo o equívoco na fixação do termo a quo para o livramento condicional, determinar a retificação do cálculo para considerá-lo como sendo o dia 16/06/2021, data da primeira prisão. Ressalta-se que o tempo que esteve solto não será computado para nenhuma finalidade, pois a execução restará suspensa - O sistema suspende automaticamente" (fl. 9).
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação do habeas corpus.
+Sobre o tema, o Tribunal de origem assim se manifestou (fls. 223-224):
+Admito o recurso, pois presentes os pressupostos objetivos e subjetivos.
+Conforme relatado, o agravante busca a reforma da decisão que, no cálculo de liquidação de penas, utilizou como data-base, para fins de livramento condicional, a data da última prisão do reeducando, desconsiderando, como marco inicial, o período em que esteve preso provisoriamente.
+Infere-se dos autos que o reeducando ficou preso provisoriamente no período compreendido entre 16.06.2021 a 17.09.2021, sendo colocado em liberdade posteriormente por meio de alvará de soltura. Após, foi preso aos 14.04.2023, quando deu início ao cumprimento da reprimenda definitiva, no importe de 05 (cinco) anos e 06 (seis) meses de reclusão, por infringência ao artigo 33, da Lei 11.343/06, conforme o relatório da situação processual executória.
+Feitas as necessárias digressões, nota-se que o tempo de liberdade do agravante não pode ser computado para fins de obtenção de benefícios na execução penal, já que não estava no efetivo cumprimento de sua reprimenda e nem sob a fiscalização do Estado durante esse período.
+Ao contrário do aventado pela defesa, o tempo em que ficou preso provisoriamente não foi descartado, mas, sim, utilizado para fins de detração penal, nos moldes do artigo 42, do Código Penal .
+A data da prisão preventiva só seria considerada como data-base se o agravante não tivesse sido colocado em liberdade, o que não se verifica no presente caso.
+Desse modo, estando correta a decisão que homologou o cálculo de liquidação de pena pelo fato de o período de interrupção da reprimenda não poder ser computado para concessão de benefícios na execução penal, não há que se falar em modificação da data-base (última prisão).
+ ..
+Portanto, não merece qualquer reparo a decisão impugnada, vez que estabeleceu corretamente, como marco inicial para a concessão de benefícios ao agravante, a data de sua última prisão (14.04.2023), de acordo com o relatório da situação processual executória.
+Conclusão: acolho o parecer da Procuradoria-Geral de Justiça, conheço do agravo e nego-lhe provimento.
+É o voto.
+Como se vê, o acórdão hostilizado foi suficientemente fundamentado, tendo destacado que "o reeducando ficou preso provisoriamente no período compreendido entre 16.06.2021 a 17.09.2021, sendo colocado em liberdade posteriormente por meio de alvará de soltura. Após, foi preso aos 14.04.2023, quando deu início ao cumprimento da reprimenda definitiva", concluindo o Tribunal de origem que "não merece qualquer reparo a decisão impugnada, vez que estabeleceu corretamente, como marco inicial para a concessão de benefícios ao agravante, a data de sua última prisão (14.04.2023), de acordo com o relatório da situação processual executória".
+Com efeito, conforme orientação jurisprudencial desta Corte, "nos casos em que há condenação a uma única pena privativa de liberdade e o Acusado foi solto durante o curso do processo, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena, sob o risco de considerar pena cumprida o período em que o Réu esteve em liberdade provisória." (AgRg no REsp 1.928.917/GO, relatora a Ministra Laurita Vaz, Sexta Turma, julgado em 17/04/2023, DJe de 20/04/2023).
+Ressalta-se, ademais, que o período em que o apenado ficou preso provisoriamente foi efetivamente considerado para detração penal, constando como "pena privativa de liberdade cumprida até a presente data" no relatório da situação processual executória (fls. 59-60).
+Destarte, de acordo com a jurisprudência do STJ, " o  mesmo período não pode ser aproveitado, novamente, na execução do saldo da pena a cumprir após o resultado da detração penal, para fins de desconto no lapso de progressão de regime, livramento condicional, entre outros. A providência culminaria na aplicação em duplicidade do art. 42 do CP" (AgRg no HC n. 827.758/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
