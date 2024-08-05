@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado pela Global Lux do Brasil Distribuidora e Importadora de Relógio, Acessórios e Produtos Ópticos Ltda., contra decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região que não admitiu o recurso especial com base no óbice sumular 7/STJ.
+A parte agravante sustenta, em resumo, a não incidência da Súmula 7 do STJ.
+Parecer ministerial às fls. 970/978.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+Apesar de fazer menção à Sumula 7/STJ, a parte agravante deixou de declinar os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto, afirmando genericamente que "no presente caso, não se verifica a incidência da Súmula 7 deste E. Tribunal, limitando-se a controvérsia a tese jurídica que foram apresentadas pela Agravante nas diversas oportunidades que foram dadas para falar nos autos, entretanto, seus pedidos foram rejeitados, apesar da manifesta violação infraconstitucional e o gravame sofrido, justificando, assim, a interposição do Recurso Especial, que agora foi rejeitado o seu seguimento. O despacho de indeferimento do Recurso Especial, excluindo- se a transcrição do v acordão proferido no julgamento da Apelação interposto pela Agravante, não identifica adequadamente o objeto do Recurso Especial. Trata-se de despacho genérico, porque empregou expressões vagas de aplicação a qualquer processo. A r. decisão de fls. (id 282242740) não analisou as razões do Recurso Especial, que apontou, além da violação das normas infraconstitucionais, a interpretação divergente que foi dada pelo E. TRF3, em face da interpretação dada pelo Superior Tribunal de Justiça, proferida pela sistemática dos recursos repetitivos (REsp: 1602106 PR 2016/0137679- 4), em que foi afastada a responsabilidade civil ambiental pela ausência de nexo de causalidade por ausência de comprovação do vínculo entre o dano ambiental e a conduta comissiva ou omissiva do suposto agente poluidor" (fl. 872).
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência da Súmula 7/STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar es pecificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Diante do exposto, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
