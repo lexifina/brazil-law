@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ESTADO DA BAHIA, com fundamento na ausência de violação do art. 1.022, do CPC e na incidência  da Súmula  284/STF, nos seguintes termos (fls. 334-335):
+De início, no que tange à suscitada ofensa ao artigo 1.022, inciso II, do Código de Processo Civil, verifica-se que a matéria em exame foi devidamente enfrentada pelo Aresto vergastado, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da Recorrente.
+ ..
+Ademais, o Recurso Especial não merece prosperar quanto à alegada violação ao artigo 142, §3º, da Lei Federal nº 8.112/90, visto que o Recorrente não apontou claramente como o Acórdão o teria violado, ou qual seria a correta interpretação para o dispositivo. Assim, a não demonstração pormenorizada do que consiste a suscitada ofensa, inviabiliza a exata compreensão da controvérsia, atraindo a incidência da Súmula 284, do STF, por analogia.
+
+A parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, justificando que a matéria foi devidamente prequestionada na origem. Assim, aponta inaplicabilidade do óbice sumular. Aponta ainda omissão que caracteriza a negativa de prestação jurisdicional pelo Tribunal de Justiça Estadual, em violação ao art. 1.022, do CPC e ao art. 142, da Lei 8.112/1990.
+Sem contraminuta, conforme certificado nos autos (fl. 364).
+É o relatório.
+Passo a decidir.
+A s alegações deduzidas pela parte agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada. Não houve clareza na indicação dos dispositivos de Lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade. Desse modo, a parte não observou o princípio da dialeticidade e a necessária impugnação efetiva e fundamentada, o que atrai a aplicação analógica da Súmula 182/STJ.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+No caso, a parte agravante apenas reitera as razões já delineadas em seu recurso especial, sem impugnar, de fato, a decisão de inadmissibilidade pelo Tribunal. Embora mencione os óbices aplicados, não demonstra o porquê, no caso concreto, não deveriam incidir, de modo a infirmar a conclusão do Tribunal. Este agravo em REsp carece da demonstração específica de trechos do próprio REsp aptos a, em tese, superar os óbices aplicados.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NÃO CONHECIMENTO DO RECURSO ESPECIAL. APLICAÇÃO DAS SÚMULAS 7 E 182 DO STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, INCISO I, DO RISTJ - AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo Interno interposto de decisão monocrática que não conheceu do Recurso Especial, fundamentando-se na aplicação da Súmula 7 do STJ, pela natureza eminentemente fática da controvérsia, e na ausência de impugnação específica dos fundamentos da decisão agravada, conforme exigência do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do RISTJ.
+2. O recorrente, ao pleitear a reforma da decisão que aplicou as mencionadas súmulas, não logrou demonstrar, de forma específica e concreta, a desconstituição dos fundamentos que sustentaram a decisão que inadmitiu o Recurso Especial, mantendo-se assim os óbices sumulares.
+3. É imprescindível, segundo a jurisprudência consolidada do STJ, que o agravante enfrente todos os fundamentos da decisão recorrida, refutando-os de maneira específica e detalhada, sob pena de não conhecimento do Agravo.
+4. Não apresentação, pelo agravante, de argumentos suficientes para desconstituir os fundamentos da decisão agravada, mantendo-se a aplicação da Súmula 182/STJ.
+5. Agravo Interno a que se nega provimento, ressaltando-se a advertência quanto à possibilidade de reconhecimento de litigância de má-fé e aplicação das penalidades previstas nos arts. 81 e 1.026, §§ 2º e 3º, do CPC/2015, em caso de interposição de Recurso Protelatório ou manifestamente inadmissível. (AgInt no AREsp n. 1.941.413/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 29/5/2024.)
+Isso posto, não conheço do agravo em recurso especial.
+Intimem-se.
+ EMENTA
