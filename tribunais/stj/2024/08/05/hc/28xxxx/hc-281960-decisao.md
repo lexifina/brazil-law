@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDERSON MORAES DE CAMPOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação n. Apelação Criminal n. 0577339-51.2012.8.21.7000).
+Depreende-se dos autos que o paciente foi condenado à pena de 15 anos, 10 meses e 5 dias de reclusão, no regime inicial fechado, e ao pagamento de 20 dias-multa, pela prática dos crimes dos arts. 121, § 2º, inciso V, c/c o art. 14, inciso II (duas vezes); 157, § 2º, incisos I e II; e 157, § 2º, incisos I, II e V, todos do Código Penal.
+O Tribunal de origem deu parcial provimento aos recursos manejados pela defesa e pelo Ministério Público a fim de redimensionar a sanção do acusado para 20 anos, 10 meses e 20 dias de reclusão e 7 meses de detenção, mantidas as demais disposições da sentença. Eis a ementa do acórdão (e-STJ fl. 943):
+TRIBUNAL DO JÚRI. DEBATES EM PLENÁRIO. CONDENAÇÃO. AGRAVANTES. Se a acusação não sustentou, em Plenário, a aplicação da agravante da reincidência, é defeso ao Magistrado aplicá-la ex officio (arts. 476 e 492, I, b, do CPP). RECURSO MINISTERIAL PARCIALMENTE PROVIDO.
+Daí o presente writ, no qual sustenta a defesa a ilegalidade e a desproporcionalidade do aumento operado na primeira fase da dosimetria pelas instâncias de origem. Destaca que uma única circunstância judicial não justifica o acréscimo da sanção inicial em 2 anos.
+Assere negativa de vigência ao art. 71, parágrafo único, do CP, uma vez que o Tribunal de origem afastou a continuidade delitiva entre os crimes de roubo (3º e 5º fatos).
+Argumenta, ainda, erro material no tocante à soma das reprimendas.
+Diante dessas considerações, pede a redução da sanção final aplicada ao réu.
+O pedido liminar foi indeferido (e-STJ fls. 926/927).
+Informações prestadas.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 976):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. PARCIAL ILEGALIDADE. ACERTO NA APLICAÇÃO DA PENA-BASE NOS DELITOS DE HOMICÍDIOS TENTADOS, BEM COMO NO AFASTAMENTO DA CONTINUIDADE DELITIVA PELA PRÁTICA DOS DELITOS DE ROUBO. ERRO MATERIAL NO TOCANTE À TOTALIDADE D APENA APLICADA. ACÓRDÃO IMPUGNADO QUE MERECE SER REFORMADO.
+PARECER PELO CONHECIMENTO PARCIAL DO MANDAMUS E PELA CONCESSÃO NA PARTE CONHECIDA.
+É o relatório.
+Decido.
+Na espécie, a avaliação dos julgadores a respeito dos antecedentes do réu levou à exasperação da pena-base do crime de homicídio qualificado em 2 anos, que corresponde a 1/6 sobre a pena mínima abstratamente cominada ao delito.
+Sobre o tema, rememoro que, de acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, o cálculo da pena é questão afeta à discricionariedade motivada do magistrado, passível de revisão em habeas corpus apenas quando ficar evidenciada notória ilegalidade, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+A ponderação das peculiaridades da causa não se resume a uma simples operação aritmética, uma conta matemática que fixa pesos estratificados a cada uma delas. Tal apreciação enseja um verdadeiro processo que impõe ao magistrado apontar, de forma motivada, as balizas para aplicar a reprimenda que melhor servirá para a prevenção e repressão do fato delituoso.
+A este Tribunal Superior cabe a revisão dos casos flagrantemente desproporcionais ou desarrazoados, não lhe competindo a análise de toda irresignação defensiva relativa à fração de aumento ou redução da pena.
+No caso em apreço, a persuasão racional dos julgadores para fixar o aumento da pena-base não revela flagrante ilegalidade.
+De acordo com o entendimento desta Corte, "no processo penal brasileiro, em razão do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação" (AgInt no HC n. 462.238/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 13/12/2018).
+Prossigo para assinalar que, nos termos do art. 71 do CP , verifica-se a continuidade delitiva quando o agente, mediante pluralidade de condutas, realiza uma série de crimes da mesma espécie, guardando entre si um elo de continuidade - mesmas circunstâncias de tempo, lugar e modo de execução.
+A respeito do assunto, esclarece a doutrina que "ocorre crime continuado quando o sujeito realiza uma série de infrações penais homogêneas (homogeneidade objetiva), guiado pela mesma unidade de propósito (homogeneidade subjetiva). Esta construção jurídica é considerada como um único fato punível. Na realidade trata-se de uma hipótese de concurso material, que recebe um tratamento particular face à pena, alterando as regras já expostas acima sobre o concurso de crimes, pois é considerada como uma única infração. Em suas origens tratava-se de uma construção jurisprudencial que perseguia uma solução pietatis causa, para evitar que a acumulação material de penas conduzisse a penas desmedidas" (OLIVÉ, Juan Ferré, PAZ, Miguel Nunes, Oliveira, Willian Terra de, BRITO, Alexis Couto de. Direito Penal Brasileiro - Parte Geral. São Paulo: Editora Revista dos Tribunais, 2011, p. 612).
+Nesse contexto, esta Corte firmou orientação no sentido de que, para o reconhecimento da ficção jurídica em análise, além de preenchidos os requisitos de natureza objetiva, deve existir um dolo unitário ou global, que torne coesas todas as infrações perpetradas, por meio da execução de um plano preconcebido, adotando, assim, a teoria mista ou objetivo-subjetiva.
+No mesmo sentido:
+RECURSO ESPECIAL. PENAL. CRIMES TIPIFICADOS NO ART. 121, § 2.º, INCISOS I E IV (UMA VEZ), E NO ART. 121, § 2.º, INCISOS I, IV E V (TRÊS VEZES) DO CÓDIGO PENAL. TESE DE AFRONTA AO ART. 421 DO CÓDIGO DE PROCESSO PENAL. IMPROCEDÊNCIA. A PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL INTERPOSTO CONTRA A DECISÃO DE PRONÚNCIA NÃO IMPEDE A REALIZAÇÃO DO JÚRI. ALEGAÇÃO DE NULIDADE DO JÚRI POR QUESITO GENÉRICO. PRECLUSÃO. PLEITO DE APLICAÇÃO DA CONTINUIDADE DELITIVA AOS QUATRO HOMICÍDIOS. IMPOSSIBILIDADE DE ANÁLISE. INDENIZAÇÃO PARA REPARAÇÃO DOS DANOS CAUSADOS (ART. 387, IV, DO CÓDIGO DE PROCESSO PENAL). INAPLICABILIDADE AO CASO CONCRETO. IRRETROATIVIDADE DA LEI N.º 11.719/2008, POR SER MAIS GRAVOSA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+ ..
+3. O Superior Tribunal de Justiça, ao interpretar o art. 71 do Código Penal, adotou a teoria mista, pela qual a ficção jurídica do crime continuado exige, além da comprovação dos requisitos de ordem subjetiva, a unidade de desígnios, ou seja, o liame volitivo entre os delitos, a demonstrar que os atos criminosos se apresentam entrelaçados, isto é, que a conduta posterior constitui um desdobramento da anterior. Precedentes.
+ ..
+6. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido, apenas para afastar a reparação de danos, com extensão dos efeitos aos corréus, nos termos do art. 580 do Código de Processo Penal.
+(REsp 1449981/AL, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/11/2019, DJe 16/12/2019, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO, RECEPTAÇÃO, TRÁFICO DE DROGAS E ASSOCIAÇÃO CRIMINOSA. VIOLAÇÃO DOS ARTS. 59 E 71, AMBOS DO CP E ART. 42 DA LEI 11.343/06. NÃO OCORRÊNCIA. GRANDE QUANTIDADE DE ARMAMENTOS E ACESSÓRIOS APREENDIDOS. RELEVANTE QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. CONTINUIDADE DELITIVA. TEORIA MISTA. AUSÊNCIA DE CONSTATAÇÃO DO REQUISITO SUBJETIVO. SÚMULAS 7 E 83 DO STJ. AGRAVO IMPROVIDO.
+ ..
+4. Nos termos do entendimento firmado por esta Corte, caracteriza-se a ficção jurídica do crime continuado quando preenchidos tanto os requisitos de ordem objetiva - mesmas condições de tempo, lugar e modo de execução do delito - quanto os de ordem subjetiva - a denominada unidade de desígnios ou vínculo subjetivo entre os eventos criminosos.
+ ..
+6. Agravo regimental improvido.
+(AgRg no AREsp 1469632/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/10/2019, DJe 08/10/2019.)
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONTINUIDADE DELITIVA. RECONHECIMENTO. IMPOSSIBILIDADE. CONCURSO MATERIAL. ORDEM NÃO CONHECIDA.
+1. Este Superior Tribunal firmou o entendimento de que, para o reconhecimento e a aplicação do instituto do crime continuado, é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e o de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos. Vale dizer, adotou-se a Teoria Mista ou Objetivo-subjetiva.
+2. O Tribunal de origem afastou a existência de continuidade delitiva entre os delitos de roubo praticados pelo paciente, haja vista a ausência de liame subjetivo entre os diversos delitos.
+3. Habeas corpus não conhecido.
+(HC 222.225/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/03/2016, DJe 31/03/2016, grifei.)
+No caso em apreço, o colegiado local afastou a aplicação do disposto no art. 71 do CP, diante da habitualidade delitiva do réu.
+Desse modo, na realidade, observa-se a prática de condutas independentes, características de reiteração criminosa, parecendo-me correta a aplicação da regra do concurso material, nos moldes do art. 69 do CP.
+De mais a mais, nos estreitos limites do remédio constitucional, é inviável a apreciação aprofundada dos elementos e das provas constantes do processo para afastar as conclusões apresentadas na origem e afirmar o preenchimento dos requisitos necessários à aplicação do art. 71 do CP.
+No mesmo sentido:
+HABEAS CORPUS. ROUBO SIMPLES. DOSIMETRIA. CONTINUIDADE DELITIVA ESPECÍFICA. ART. 71, PARÁGRAFO ÚNICO, DO CP. IMPOSSIBILIDADE. CONCURSO MATERIAL. REGIME INICIAL. FUNDAMENTAÇÃO INIDÔNEA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Incabível, nos estreitos limites do remédio constitucional, um maior aprofundamento na apreciação de fatos e provas constantes dos processos de conhecimento para a verificação do preenchimento das circunstâncias exigidas para o reconhecimento da ficção jurídica do crime continuado.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto.
+(HC 332.721/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/02/2016, DJe 16/02/2016, grifei.)
+Por derradeiro, consoante assinalou o Ministério Público Federal, verifica-se erro material no somatório das penas cominadas ao paciente.
+O Tribunal de origem deu parcial provimento aos recursos manejados pela defesa e pelo Ministério Público nos seguintes termos (e-STJ fl. 903) :
+Tanto considerando, suportará, cada um dos réus, pelo cometimento do 5º fato pelo qual restaram condenados, pena de 7 (sete) anos e 4 (quatro) meses de reclusão, reduzida, para ambos, a fração decorrente da presença das majorantes, para um terço, e que deverá ser somado à aplicada pela prática do 3º fato, o que levará a que, como resultante da condenação,  .. , e para EDERSON MORAES CAMPOS, a pena será de 20 (vinte) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, mantidas as pecuniárias cumulativamente impostas.
+Assim, manteve a continuidade delitiva entre os dois delitos de tentativa de homicídio qualificado no patamar de 6 anos, 2 meses e 20 dias de reclusão, bem como a reprimenda de 5 an os e 4 meses de reclusão (3º fato), readequando a sanção quanto ao 5º fato para 7 anos e 4 meses de reclusão (e-STJ fls. 966/970). Somadas essas reprimendas, a sanção definitiva é de 18 anos, 10 meses e 20 dias de reclusão, mais pagamento de 20 dias-multa.
+Ante o exposto, concedo em parte a ordem para reconhecer o erro material no cálculo da reprimenda e assim redimensionar a sanção de EDERSON MORAES DE CAMPOS para 18 anos, 10 meses e 20 dias de reclusão, além de 20 dias-multa, m antidas as demais disposições do acórdão local.
+Publique-se. Intimem-se.
+ EMENTA
