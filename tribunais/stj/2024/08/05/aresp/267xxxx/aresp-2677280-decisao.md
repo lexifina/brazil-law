@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por MANTRA ENGENHARIA LTDA, contra a decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ, bem como negou seguimento quanto à tese envolvendo a legitimidade passiva em razão da aplicação do Tema 122 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos, não incidindo o óbice da Súmula 7 do STJ, já que "o acórdão recorrido expressamente relatou todos os fatos necessários para o deslinde do julgado, bem como o que se precisa para conhecer e julgar o recurso especial interposto".
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+Súmula 7/STJ
+A pretensão da parte recorrente encontra óbice na Súmula 7 do STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que:
+Passa-se a analisar se o pagamento de ITBI pela recorrente à época da celebração do compromisso de compra e venda tem algum impacto sobre sua obrigação de arcar com o IPTU.
+O fato gerador do ITBI é essencialmente distinto do fato gerador do IPTU. Enquanto aquele incide apenas sobre a transmissão do imóvel (art. 35 do CTN), este incide anualmente sobre vários fatos imponíveis diferentes, obrigando concomitantemente vários sujeitos passivos com relações diversas com o mesmo bem(propriedade, domínio útil e posse a qualquer título, nos termos do art. 34 do CTN).
+O IPTU, portanto, tem características diferentes do ITBI, atingindo, por definição, um número maior de situações e sujeitos passivos, razão por que não cabe aproveitar o escopo mais limitado do ITBI para restringir o rol de contribuintes do IPTU e, assim, eximir a proprietária agravante de sua obrigação.
+Enfim, quanto ao pedido de inclusão dos compromitentes compradores no polo passivo da execução fiscal, tampouco convence a agravante.
+A Lei arrola os sujeitos passivos, cabendo exclusivamente à Municipalidade definir contra quais deles ajuizar a execução, segundo seu juízo de conveniência e oportunidade. No caso sob análise, a Fazenda Pública entendeu mais adequado propor a ação apenas contra a agravante, deixando de incluir terceiros no polo passivo, medida que certamente retardaria o processo, o que representaria inegável prejuízo.
+Para rever essa conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INOCORRÊNCIA DE DECISÃO SURPRESA. IPTU. O TRIBUNAL DE ORIGEM CONSIGNOU EXPRESSAMENTE A SOLIDARIEDADE DA RESPONSABILIDADE PELO PAGAMENTO DA EXAÇÃO TRIBUTÁRIA, TENDO EM VISTA QUE NA ÉPOCA DOS LANÇAMENTOS TRIBUTÁRIOS A PARTE AGRAVANTE AINDA ERA PROPRIETÁRIA DO IMÓVEL. PREMISSA FÁTICA. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. O agravante não foi surpreendido com a solução adotada na decisão monocrática, pois ela equivale exatamente àquela discussão ocorrida em primeira instância, com a diferença que o resultado foi diverso do pretendido pelo recorrente. Inocorrência, pois, de ofensa ao princípio da não surpresa.
+2. O IPTU tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel, por natureza ou acessão física, localizado na zona urbana do Município (REsp. 1.429.505/DF, Rel. Min. OG FERNANDES, DJe 18.10.2017). Em igual sentido: AgInt no REsp. 1.716.142/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12.2.2019.
+3. O Tribunal de origem consignou que no período da constituição dos créditos tributários o contribuinte/agravante ainda era o proprietário do imóvel em apreço, devendo ele, nos termos do art. 130 do CTN, responder solidariamente pela exação tributária - IPTU.
+4. Infirmar as premissas fáticas do aresto - responsabilidade solidária pelos débitos tributários em razão de a venda ter ocorrido sem o pagamento dos impostos - demanda reexame de fatos e provas, providência essa inviável em sede de recorribilidade extraordinária, ante o óbice da Súmula 7/STJ.
+5. Ressalte-se que o mencionado julgado (REsp. 1.691.217/RS), o qual supostamente albergaria o direito perseguido pelo contribuinte, resvala no mesmo sentido acima explanado, sufragando a inviabilidade de alteração do julgado pelo óbice da Súmula 7 desta Corte de Justiça.
+6. Agravo Interno do Contribuinte a que se nega provimento (AgInt no AREsp n. 1.488.805/MS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 28/9/2020, DJe de 1/10/2020).
+Súmula 280/STF
+Por fim, verifica-se que a Corte de origem decidiu a controvérsia dos autos com base, essencialmente, nos termos da legislação municipal (Lei 6.989/1966). Desse modo, considerando que a fundamentação utilizada pela origem não diz respeito à legislação federal, torna-se inviável o conhecimento do recurso especial. Incide, assim, por analogia, o óbice da Súmula 280 do STF, a qual preceitua que "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL, INTERPOSTO CONTRA DECISÃO SINGULAR PROFERIDA POR MINISTRO DO STJ. POSSIBILIDADE DE IMPUGNAÇÃO PARCIAL DE CAPÍTULOS AUTÔNOMOS. ART. 1.002 DO CPC/2015. PRECEDENTES DA CORTE ESPECIAL DO STJ. ERESP 1.424.404/SP E ERESP 1.738.541/RJ. ITCMD. CRITÉRIOS PARA APURAÇÃO DA BASE DE CÁLCULO. NECESSIDADE DE EXAME DE NORMA INFRALEGAL, INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. ALEGADA VIOLAÇÃO AO ART. 148 DO CTN. AUSÊNCIA DE COMANDO NORMATIVO CAPAZ DE INFIRMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação de norma local (Lei estadual 8.821/89 e Decreto estadual 33.156/89). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgInt no AREsp 1.945.904/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/03/2022; AgInt no AREsp 1.931.165/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/03/2022; AgInt no AREsp 1.742.714/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2021; REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016.
+ ..
+VI. Agravo interno improvido (AgInt nos EDcl no AREsp n. 1.882.044/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/3/2023, DJe de 21/3/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
