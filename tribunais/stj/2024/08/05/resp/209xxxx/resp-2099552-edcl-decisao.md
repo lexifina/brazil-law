@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEXANDRE POVEL em face da decisão de e-STJ fls. 411/413 que deu parcial provimento ao recurso especial para condenar o ora embargado ao pagamento de danos morais, restabelecendo a sentença de e-STJ fls. 279/284.
+Em suas razões, o embargante sustenta omissão no julgado, pleiteando "a majoração dos honorários advocatícios fixados em 10% sobre o valor da condenação na 1ª Instância" (e-STJ fl. 419).
+Impugnação às e-STJ fls. 424/427.
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+Consoante o disposto no art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no art. 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida e (c) corrigir o erro material.
+Observa-se dos autos que, em primeira instância, houve condenação em danos morais, tendo os honorários advocatícios sido fixados em 10% (dez por cento) sobre o valor da condenação.
+O tribunal de origem, por sua vez, deu parcial provimento à apelação para afastar a condenação em morais.
+Por sua vez, ao recurso especial interposto foi dado parcial provimento (e-STJ fls. 411/413) para restabelecer a indenização dos danos morais e os termos da sentença de fls. e-STJ 279/284 que fixou os honorários advocatícios em 10% (dez por cento) sobre o valor da condenação.
+Dessa forma, nos casos de provimento total ou parcial, não há falar em majoração dos honorários advocatícios.
+A esse respeito:
+"RECURSO ESPECIAL REPETITIVO - DIREITO PROCESSUAL CIVIL - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - ART. 85, § 11, DO CPC - MAJORAÇÃO DA VERBA HONORÁRIA EM GRAU RECURSAL - IMPOSSIBILIDADE EM CASO DE PROVIMENTO PARCIAL OU TOTAL DO RECURSO, AINDA QUE MÍNIMA A ALTERAÇÃO DO RESULTADO DO JULGAMENTO - FIXAÇÃO DE TESE JURÍDICA DE EFICÁCIA VINCULANTE - SOLUÇÃO DO CASO CONCRETO: DESPROVIMENTO DO RECURSO ESPECIAL.
+1. É pressuposto da majoração da verba honorária sucumbencial em grau recursal, tal como estabelecida no art. 85, § 11, do CPC, a infrutuosidade do recurso interposto, assim considerado aquele que em nada altera o resultado do julgamento tal como provindo da instância de origem.
+2. Fincada a premissa, não faz diferença alguma, para fins de aplicação da regra legal de majoração dos honorários em grau recursal, se o recurso foi declarado incognoscível ou integralmente desprovido: ambas as hipóteses equivalem-se juridicamente para efeito de majoração da verba honorária prefixada, já que nenhuma delas possui aptidão para alterar o resultado do julgamento, e o recurso interposto, ao fim e ao cabo, em nada beneficiou o recorrente.
+3. Sob o mesmo raciocínio, não se aplica o art. 85, § 11, do CPC em situação concreta na qual o recurso tenha sido proveitoso à parte que dele se valeu. A alteração do resultado do julgamento, ainda que mínima, é decorrência direta da interposição do recurso, configurando evidente contrassenso punir o recorrente pelo êxito obtido com o recurso - ainda que mínimo ou limitado a capítulo secundário da decisão recorrida, a exemplo dos que estabelecem os consectários de uma condenação.
+4. Jurisprudência da Corte Especial e das Turmas de Direito Público e de Direito Privado do Superior Tribunal de Justiça consolidada no sentido da incidência do art. 85, § 11, do CPC apenas nos casos de não conhecimento ou total desprovimento do recurso. Precedentes citados: AgInt nos EAREsp n. 762.075/MT, relator Ministro Felix Fischer, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe de 7/3/2019; AgInt nos EDcl no AREsp n. 984.256/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/11/2022, DJe de 30/11/2022; EDcl no REsp n. 1.919.706/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023; AgInt no AREsp n. 2.095.028/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022; e AgInt no AREsp n. 2.201.642/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/6/2023, DJe de 22/6/2023.
+5. Tese jurídica de eficácia vinculante, sintetizadora da ratio decidendi do julgado paradigmático: "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação."
+6. (..)
+7. Recurso especial a que se nega provimento.
+(REsp n. 1.865.223/SC, relator Ministro Paulo Sérgio Domingues, Corte Especial, julgado em 9/11/2023, DJe de 21/12/2023.)
+Portanto , afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+Ressalta-se que, o recurso de embargos não é o meio apropriado para a reforma do acórdão estadual, bem como da decisão referida monocrática, extrapolando as hipóteses legais previstas.
+Ante o exposto, rejeito os embargos de declaração, com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+Intimem-se.
+Publique-se.
+EMENTA
