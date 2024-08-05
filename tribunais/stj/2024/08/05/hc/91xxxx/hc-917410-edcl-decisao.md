@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Maria de Fatima Andrade à decisão da minha relatoria em que concedi liminarmente, em parte, a ordem em seu favor, assim ementada (fl. 131):
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DECORRENTE DA VIOLAÇÃO DE DOMICÍLIO. JUSTA CAUSA PARA ENTRADA DOS POLICIAIS NA RESIDÊNCIA. FUNDADAS RAZÕES, CAMPANA E INVESTIGAÇÃO. MINORANTE (ART. 33, § 4º, DA LEI N. 11.343/2006). AFASTAMENTO COM FUNDAMENTO, APENAS, NA QUANTIDADE DE DROGA APREENDIDA (QUASE 1 KG DE MACONHA). IMPOSSIBILIDADE. QUANTIDADE QUE DEVE SER UTILIZADA COMO MODULADORA DO PERCENTUAL DE REDUÇÃO. REGIME INICIAL. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. REPRIMENDA DEFINITIVA SUPERIOR A 4 ANOS. FECHADO QUE SE IMPÕE (ART. 33, § 3º, C/C O ART. 59 DO CP).
+Ordem parcialmente concedida, liminarmente.
+Alega a embargante, em síntese, que a decisão incorreu em erro material ao desconsiderar que houve o aumento da basilar também em razão da quantidade e natureza das drogas apreendidas, sendo vedado, portanto, a modulação do redutor com o mesmo fundamento, sob pena de incorrer em bis in idem.
+Postula, então, sejam conhecidos e providos os presentes embargos de declaração, sanando o vício apontado, com a remoção do bis in idem para alterar a fração 1/2 para a fração de 2/3 na terceira fase da dosimetria da pena, por consequência modificando o regime inicial de cumprimento da pena e substituindo a pena privativa de liberdade por restritivas de direitos, aperfeiçoando o julgamento do writ (fl. 143).
+Informações prestadas pela origem (fls. 148/159).
+É o relatório.
+Os presentes embargos de declaração comportam acolhimento, tendo em vista a existência de erro material no decisum embargado.
+A reprimenda imposta à embargante deve ser mantida, porquanto, levando em consideração que a quantidade de droga fora utilizada para a majoração da pena-base, sob pena de bis in idem, deve ser aplicada a fração de redução de 2/3.
+Dessa forma, preservados os demais termos da dosimetria (fls. 20/32), impõe-se o redimensionamento das penas privativa de liberdade e pecuniária da embargante a 2 anos, 4 meses e 24 dias de reclusão, mais pagamento de 292 dias-multa.
+Quanto ao regime inicial, levando em consideração a pena cominada na presente decisão, disposta em patamar abaixo de 4 anos de reclusão, bem como o quanto disposto no art. 33, § 3º, do Código Penal, haja vista a presença de circunstância judicial negativa, que condicionou a fixação da pena-base acima do mínimo legal, necessário o abrandamento do cárcere ao semiaberto. Indefiro a substituição de penas, nos termos dos arts. 33, §§ 2º e 3º, e 44, inciso III, ambos do Código Penal.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Consoante entendimento assente neste Tribunal Superior, "a análise desfavorável das circunstâncias judiciais justifica a fixação do regime semiaberto, bem como o afastamento da substituição da sanção corporal por restritivas de direitos, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, § 3º, e 44, III, c/c o art. 59, todos do Código Penal" (AgRg no AREsp 1.473.857/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; sem grifos no original.) 3. Agravo regimental desprovido" (AgRg no HC 564.428/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/6/2020, DJe 29/6/2020, grifei).
+2. No caso, foram reconhecidas circunstâncias judiciais desfavoráveis relativas aos maus antecedentes e à quantidade de droga - 3,800kg (três quilogramas e oitocentos gramas) de crack, as quais justificam a imposição de regime mais gravoso e também o afastamento da substituição da pena, de acordo com a jurisprudência consolidada desta Corte Superior.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 914.401/RN, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/7/2024 - grifo nosso).
+Em face do exposto, acolho os embargos de declaração para sanar erro material na decisão e redimensionar a reprimenda definitiva da embargante ao patamar de 2 anos, 4 meses e 24 dias de reclusão, mais pagamento de 292 dias-multa, no regime inicial semiaberto.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE ERRO MATERIAL. OCORRÊNCIA. DOSIMETRIA DA PENA. FUNDAMENTO EMPREGADO NA PRIMEIRA E NA TERCEIRA FASES. BIS IN IDEM. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. SUBSTITUIÇÃO DE PENAS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. NÃO CABIMENTO.
+Embargos de declaração acolhidos para sanar erro material e redimensionar a reprimenda definitiva da embargante ao patamar de 2 anos, 4 meses e 24 dias de reclusão, mais pagamento de 292 dias-multa, no regime inicial semiaberto.
