@@ -1,0 +1,35 @@
+DECISÃO
+JONAS NUNES CLETO alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2129179-16.2024.8.26.0000).
+Nesta Corte, sustenta a defesa a falta de fundamentação idônea para manter a prisão processual do acusado, pela suposta prática dos crimes de roubo. Suscita os predicados pessoais favoráveis do réu e a presunção de inocência. Afirma que JONAS não estava armado e, em verdade, portava um grampeador. Aduz que não foram cumpridos os parâmetros do art. 226 do CPP para o reconhecimento do agente.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Indeferida a liminar e prestadas as informações, opinou o MPF pelo não conhecimento do habeas corpus (fls. 29-32; 34-35; 43-47).
+Decido.
+Expõem os autos que, em 1º/5/2024, o Magistrado de primeiro grau converteu o flagrante do autuado em prisão preventiva, sob estes motivos (fls. 18-19):
+II.  ..  Em cognição sumária, da análise dos elementos informativos existentes nos autos, verifica-se que há prova da materialidade delitiva e indícios suficientes de autoria delitiva, consoante se infere dos depoimentos dos policiais e das vítimas. Houve, portanto, situação de flagrância, sendo legal e legítima a prisão do indiciado, inexistindo qualquer motivo que justifique o relaxamento. III.  ..  No caso, se não bastasse a gravidade em abstrato do delito, vislumbro a presença dos requisitos justificadores da prisão preventiva, notadamente pelas circunstâncias em que foram praticados os fatos, sendo incabível conceder ao indiciado o benefício da liberdade provisória, cumulada com a fixação de medidas cautelares, pois inadequadas e insuficientes para o caso concreto. Com efeito, o investigado foi preso por supostamente estar em situação de dois roubos seguidos - um contra um posto de gasolina e o outro, contra um entregador de alimentos - sendo ambos executados na companhia de terceira pessoa e mediante grave ameaça consubstanciada no apontamento de arma de fogo, de forma que a decretação da prisão preventiva é medida que se impõe. Aliás, é certo que a doutrina e a jurisprudência são uníssonas no entendimento de que a prisão cautelar não agride o princípio constitucional da não culpabilidade. Porém, como medida cautelar que é, sua decretação, além da prova da existência do crime e indícios suficientes de autoria, deve vir subordinada à verificação de requisito específico imprescindível: sua necessidade.  ..
+Deste modo, vislumbro, neste momento, a presença dos requisitos da prisão preventiva, principalmente a garantia da ordem pública, bem como a necessidade de se assegurar a futura aplicação da lei penal, porquanto eventual pena a ser imposta ao autuado, na hipótese de eventual condenação, implicará cumprimento da pena privativa de liberdade. Nestes termos, com fundamento no artigo 310, inciso II, do Código de Processo Penal converto a prisão em flagrante de JONAS NUNES CLETO em PRISÃO PREVENTIVA.
+O Tribunal de Justiça denegou o writ originário (fls. 20-23).
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que a defesa foi intimada, em 12/7/2024, para se manifestar sobre o aditamento à denúncia.
+Feitos esses registros, passo ao exame da impetração.
+De início, a respeito do reconhecimento pessoal do investigado, observo que o acórdão impugnado não apreciou a matéria, de modo que eventual análise do tema pelo STJ ensejaria a indevida supressão de instância. A propósito da grave ameaça, noto que a 2ª Câmara Criminal referiu-se à "simulação de porte de arma de fogo" (grifei), não à presença da causa de aumento de pena tipificada no art. 157, § 2º-A, I, do Código Penal.
+Quanto ao mais, depreende-se o suposto crime foi praticado em circunstâncias inerentes à caracterização da própria figura delituosa em apreço, sem o condão de evidenciar a acentuada reprovabilidade da conduta ou a intensa periculosidade do acusado, sobretudo diante de sua primariedade.
+O Juízo monocrático mencionou tão somente a presença dos vetores contidos na lei de regência, subsidiou o decreto prisional do ora paciente em fatores que se adaptariam a qualquer delito e não justificou, a contento, o indeferimento da aplicação de providências cautelares menos severas em seu favor.
+Dessarte, não vislumbro razões suficientes para amparar a imposição da medida cautelar mais severa ao réu.
+Nesse sentido:
+HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INIDÔNEA. ORDEM CONCEDIDA.
+ ..
+2. O Magistrado mencionou apenas a gravidade abstrata do crime imputado ao paciente, o que não constitui elemento suficiente e idôneo para demonstrar a acentuada periculosidade do acusado ou a maior reprovabilidade de sua conduta e justificar a restrição de sua liberdade.
+3.  ..  salvo necessidade inarredável da prisão preventiva - mormente casos de crimes cometidos com particular violência -, a envolver acusado/investigado de especial e evidente periculosidade, o exame da necessidade de manutenção da medida mais gravosa deve ser feito com outro olhar, ainda mais atento à excepcionalidade da medida cautelar extrema.
+4. Ordem concedida.
+(HC n. 567.938/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 17/6/2020.)
+HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO CIRCUNSTANCIADO. SIMULACRO DE ARMA DE FOGO. CONCURSO DE AGENTES.  ..
+ ..
+2. Caso em que o decreto que impôs a prisão preventiva ao paciente não apresentou motivação suficientemente idônea, apta a justificar sua segregação, tendo-se valido de ilações genéricas e da repetição de elementos inerentes ao próprio tipo penal. Nesse sentido, inclusive, foi o parecer exarado pelo Ministério Público Federal.
+3. De mais a mais, o uso de simulacro de arma de fogo, ainda que no contexto de um concurso de agentes, para efeito de justificar o cárcere cautelar, atesta menor grau de periculosidade na conduta delituosa, não o contrário. Ou seja, não há falar em conduta que revela um modus operandi grave e que extrapola o convencional.
+Precedentes.
+ ..
+5. Ordem concedida para determinar a soltura do paciente, se por outro motivo não estiver preso, sem prejuízo de que seja decretada nova custódia, com base em fundamentação atual e concreta, bem como de que sejam impostas pelo Juízo local medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal, caso demonstrada sua necessidade.
+(HC n. 553.300/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 25/5/2020.)
+À vista do exposto, concedo a ordem, para revogar a segregação preventiva do paciente, se por outro motivo não estiver preso, sob o compromisso de comparecimento aos atos processuais - sem prejuízo do estabelecimento de providências menos onerosas, que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como do restabelecimento da custódia processual, em caso de violação das medidas alternativas ou se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
