@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de Minas Gerais contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 262):
+APELAÇÃO CÍVEL - DIREITO AMBIENTAL - AÇÃO ANULATÓRIA - LICENCIAMENTO - DETERMINADO A COMPENSAÇÃO AMBIENTAL - IMPRESCINDIBILIDADE DO EIA / RIMA - OBRIGAÇÃO EXIGIDA SEM RESPALDO LEGAL - IMPOSSIBILIDADE - SENTENÇA REFORMADA.
+- No procedimento de licenciamento ambiental, conforme prevê o art. 36 da Lei 9.985/00 (Lei do Sistema Nacional das Unidades de Conservação - SNUC), para fins de fixação de compensação, exige-se que o empreendimento seja qualificado como de significativo impacto ambiental pelo órgão competente, com fundamento em Estudo de Impacto Ambiental e no respectivo Relatório EIA/RIMA.
+- Ausente prévia exigência de realização do Relatório EIA/RIMA, é de se reconhecer que é ilegítima a imposição, pelo COPAM, de compensação ambiental.
+Opostos embargos declaratórios, foram rejeitados (fls. 291/297).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, II, do CPC; 4º, VII, e 36 da Lei n. 6.938/81. Sustenta que o Tribunal de origem não se manifestou sobre questão relevante para o deslinde da controvérsia, concernente "à existência de prévia definição dos estudos ambientais a serem apresentados pelo órgão competente" (fl. 308).
+O Ministério Público Federal opinou pelo não provimento do agravo, nos termos assim resumidos (fl. 389):
+AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE LICENÇA DE OPERAÇÃO EM CARÁTER CORRETIVO. DECRETAÇÃO DE NULIDADE DA LICENÇA E COMPENSAÇÃO AMBIENTAL. IMPROCEDÊNCIA DOS PEDIDOS. AUSÊNCIA DE IMPACTO AMBIENTAL SIGNIFICATIVO. RECURSO QUE IMPUGNA DIREITO INFRALEGAL.
+Parecer pelo desprovimento do agravo em recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre o tema tido como olvidado, a Corte Estadual consignou (fls. 267/268):
+Extrai-se dos dispositivos legais que, para fixação de compensação ambiental, é necessário que o empreendimento seja qualificado como de significativo impacto ambiental, com fundamento em Estudo de Impacto Ambiental e no respectivo Relatório.
+No caso dos autos, todavia, houve imposição, pelo COPAM, de compensação ambiental, sem que houvesse respaldo em EIA/RIMA, o que, a meu inteligir, não deve prevalecer, data venia.
+Em verdade, caso o empreendimento da recorrente fosse dotado de significativo impacto ambiental, seriam exigidos os estudos para EIA-RIMA, o que não ocorreu, como demonstra o "Formulário de Orientação Básica Integrado sobre o Licenciamento Ambiental" da recorrente (eDoc 9).
+Entretanto, limitou-se o órgão ambiental competente a exigir apenas a apresentação de estudos de Relatório de Controle Ambiental e Plano de Controle Ambiental (RCA e PCA), que foram devidamente apresentados e aprovados (eDoc 10).
+Demais disso, é de se pontuar que a parte apelada, em momento algum, defende a desnecessidade de realização dos referidos estudos, tendo, ao final e ao cabo, limitado os seus argumentos a defender a discricionariedade da imposição da compensação ambiental.
+Contudo, em se considerando que se trata de cominação de obrigação de pagamento, é indispensável que tenha respaldo em lei ou no Poder de Polícia da Administração Pública, pelo que não há como prosperar o argumento de que se trata de discricionariedade administrativa; com efeito, entendo que é indevida a exigência da compensação ambiental baseada na Lei n. 9.985/2000, visto que inobservados os requisitos previstos pela legislação.
+Também no julgamento dos embargos de declaração, a matéria foi expressamente abordada (fls. 294/295):
+Na hipótese, em se confrontando as razões dos embargos com os fundamentos do acórdão combatido, infere-se que não tem razão o recorrente, data vênia, uma vez que ficou claro o entendimento da Turma Julgadora no sentido de que, para fins de fixação de compensação, exige-se que o empreendimento seja qualificado como de significativo impacto ambiental pelo órgão competente, com fundamento em Estudo de Impacto Ambiental e no respectivo Relatório EIA/RIMA, que não foram exigidos previamente da empresa embargada, no caso em julgamento.
+Não ficou configurada, pois, a alegada omissão.
+Quanto ao mais, verifica-se que a instância a quo, com base no acervo probatório dos autos, concluiu que não cabe, na espécie, exigir da parte agravada a compensação ambiental buscada pelo Estado de Minas Gerais. Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
