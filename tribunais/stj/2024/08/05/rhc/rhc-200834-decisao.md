@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por VITOR CALIXTA DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE (HC n. 0804631-82.2024.8.20.0000).
+Depreende-se dos autos que o recorrente foi condenado a 10 anos de reclusão, em regime fechado, pela prática dos crimes dos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, e 14 da Lei 10.826/2003, sendo-lhe negado o direito de recorrer em liberdade.
+O Tribunal de origem denegou a ordem (e-STJ fls. 213/217). Eis a ementa do julgado (e-STJ fls. 213/214):
+EMENTA: HABEAS CORPUS. ART. 33, CAPUT, E 35, CAPUT, AMBOS DA LEI Nº 11.343/2006 E ART. 14 DA LEI N. 10.826/2003, TODOS NA FORMA DO ARTIGO 69, CAPUT, DO CÓDIGO PENAL.
+SENTENÇA QUE CONDENOU O RÉU A 10 (DEZ) ANOS DE RECLUSÃO EM REGIME INICIALMENTE FECHADO. PEDIDO DE REGOVAÇÃO DA PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DOS REQUISITOS AUTORIZADORES.
+PERSISTÊNCIA DOS FUNDAMENTOS DA PRISÃO PREVENTIVA PARA NEGAR O DIREITO DE RECORRER EM LIBERDADE.
+PRESENÇA DOS REQUISITOS PREVISTOS NOS ARTS. 312 E 313 DO CPP. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.
+CONHECIMENTO E DENEGAÇÃO DA ORDEM.
+Daí o presente writ, no qual alega a defesa, em suma, que a manutenção da prisão preventiva carece de fundamentação idônea.
+Requer, liminarmente, a expedição de alvará de soltura. No mérito, pleiteia o provimento do recurso.
+Liminar indeferida pela Presidência desta Corte (e-STJ fls. 229/230).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ fls. 236/237).
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, o Juízo sentenciante, ao manter a custódia cautelar do acusado, indeferiu "a possibilidade  de ele  recorrer em liberdade, uma vez que persistem os motivos que levaram à sua prisão" (e-STJ fls. 147).
+Por sua vez, ao decre tar a custódia cautelar do recorrente, o Juízo a quo apresentou a seguinte fundamentação, in verbis (e-STJ fls. 287/292, grifei):
+DA PRISÃO PREVENTIVA
+ ..
+O periculum libertatis também está presente e se pauta na garantia da ordem pública diante da periculosidade dos autuados, evidenciada na gravidade concreta do delito, em tese praticado por eles, considerando que tinha em sua posse entorpecente com relevante fracionamento, mais de um tipo e de alta potencialidade lesiva, o que, com base nas regras de experiência, leva a conclusão de que exercia a mercância de drogas, conforme narrado pelas forças policiais.
+No presente caso, justifica-se a manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade, em razão da gravidade da conduta demonstrada pela apreensão de grande quantidade de drogas e 23 munições calibre .38 e 5 calibre .357, além de caderno de anotações, valores em dinheiro e balança (e-STJ fl. 139, grifei):
+" d iversas unidades de substâncias de característica vegetal desidratada, prensada, de coloração pardo-esverdeada, embaladas em papel branco, fechado por grampos. O material questionado apresentou massa total líquida de 61,50g (sessenta e um gramas, quinhentos miligramas); 02 (duas) unidades de substância petrificada, de coloração amarelada, embaladas em material plástico de cor verde fechado por nós. O material questionado apresentou massa total líquida de 28,32g (vinte e oito gramas, trezentos e vinte miligramas); e 03 (três) unidades de substância pulverizada, de coloração branca, embaladas individualmente em material plástico transparente com feiche zip-lock. O material questionado apresentou massa total líquida de 139,40g (cento e trinta e nove gramas, quatrocentos miligramas).
+Assim, justifica-se a decretação e manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade garantia da ordem pública.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÃO. PLEITO DE ABSOLVIÇÃO PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NA ESTREITA VIA DO WRIT. CAUSA ESPECIAL DE DIMINUIÇAO DO § 4º DO ART. 33 DA LEI DE DROGAS. DESCABIMENTO. REQUISITOS NÃO PREENCHIDOS. PLEITO DE ABSOLVIÇÃO PELO DELITO DE PORTE ILEGAL DE MUNIÇÃO PELA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. MUNIÇÃO APRENDIDA EM CONTEXTO DE ATIVIDADE DE TRAFICÂNCIA. REDUZIDO GRAU DE REPROVABILIDADE DA CONDUTA NÃO EVIDENCIADO. PRISÃO PREVENTIVA. ADEQUADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA DEVIDAMENTE FUNDAMENTADA EM DADOS CONCRETO EXTRAÍDOS DOS AUTOS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PLEITO DE EXTENSÃO AOS CORRÉUS. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - A manutenção da segregação cautelar do Paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente se considerada a gravidade concreta das condutas atribuídas ao Paciente, posto que ele, supostamente, teria se associado a outra agente para perpetrar o tráfico de drogas, tendo sido apreendido, no contexto da traficância desenvolvia, significativa quantidade de droga, a evidenciar o envolvimento, ao menos em tese, do ora Paciente com a mercancia ilícita de substâncias entorpecentes; nesse sentido, consta que foi localizado (490 gramas de maconha), tendo sido encontrada, ainda, uma balança de precisão, circunstâncias que evidenciam um maior desvalor da conduta, a justificar a medida extrema em seu desfavor.
+VI - Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+VII - No que toca ao pleito de extensão dos efeitos da decisão que beneficiou Corréus; verifico que a quaestio não foi objeto de deliberação no v. acórdão objurgado, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+VIII - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 774.813/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. JUSTA CAUSA CONFIGURADA. MINORANTE DO TRÁFICO PRIVILEGIADO. INSTÂNCIA ORDINÁRIA CONCLUIU PELA DEDICAÇÃO DO AGENTE À ATIVIDADE CRIMINOSA. REVOLVIMENTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. MAJORANTE DO ART. 40, III DA LEI 11.343/2006. NATUREZA OBJETIVA. ACÓRDÃO QUE MANTÉM A PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE. INOCORRÊNCIA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. RECURSO NÃO PROVIDO.
+ ..
+5. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+6. Hipótese em que a segregação cautelar tem como fundamento o acautelamento do meio social, dada a periculosidade do recorrente, evidenciada na gravidade concreta da conduta delitiva, uma vez que ele foi condenado pela posse de relevante quantidade de entorpecente, petrechos relacionados ao tráfico de drogas e munição.
+7. Não há falar em ausência de contemporaneidade na segregação cautelar, uma vez que ela foi decretada desde o início da persecução penal e, no momento da confirmação da condenação no julgamento da apelação, constatou-se ainda a presença do periculum libertatis. Ou seja, que a colocação do recorrente em liberdade representa risco concreto à ordem pública.
+8. Agravo regimental não provido.
+(AgRg no REsp n. 2.020.177/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022, grifei.)
+No mais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
