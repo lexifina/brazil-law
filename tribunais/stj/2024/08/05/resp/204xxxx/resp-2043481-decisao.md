@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Conselho Regional de Engenharia e Agronomia do RS com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 69):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA.
+1. É pacífica a jurisprudência no sentido da possibilidade de reconhecimento de ofício da prescrição intercorrente em execução fiscal, tendo transcorrido o lustro prescricional sem impulso útil por parte da exequente (§ 4º do art. 40 da Lei 6.830/80). Tratando-se de dispositivo de natureza processual, aplica-se de imediato aos processos em curso.
+2. A Corte Especial deste Tribunal, no julgamento da Argüição de Inconstitucionalidade do § 4º e caput do artigo 40 da Lei nº 6.830/80, adotou interpretação de acordo com a Constituição Federal, fixando como termo inicial do prazo de prescrição intercorrente o despacho que determina a suspensão (art. 40, caput). (TRF4, Arguição de Inconstitucionalidade nº 00046714620034047200, 2a Turma, Des. Federal Luciane Amaral Corrêa Münch, D.E. 15/09/2010).
+3. O art. 40 da LEF deve ser interpretado em consonância com o disposto no art. 174 do CTN, o qual limita o prazo de paralisação do processo em cinco anos, uma vez que a prescrição e a decadência tributárias são matérias reservadas à lei complementar (art. 146, III, "b", da CF).
+Opostos embargos declaratórios, foram rejeitados (fls. 77/86).
+A parte recorrente aponta violação ao art. 40 da Lei 6.830/1980. Sustenta, em resumo, que, "ao longo dos 08 (oito) anos em que tramita o feito em concreto, em momento algum, o mesmo manteve-se inerte pelo período superior a 05 anos. Ademais, este Conselho vem tentando exaustivamente encontrar bens passíveis de adimplir o débito, requerendo mandados e efetuando diligências em busca da satisfação do crédito e, embora as diversas diligências tenham restadas infrutíferas, isto por si só não é motivo para configurar a prescrição intercorrente" (fls. 92/93).
+A Vice-Presidência do Tribunal de origem encaminhou os autos para o órgão colegiado para realização de juízo de adequação com o entendimento firmado pelo STJ nos Temas 566, 567, 568, 569, 570 e 571, na forma dos arts. 1.030, II, e 1.040, II, do CPC, ocasião em que foi proferido acórdão com a seguinte ementa (fl. 260):
+EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. ART. 40 DA LEF. TEMAS 566 A 571 DO STJ. JUÍZO DE RETRATAÇÃO.
+1. Conquanto a análise das datas e atos processuais tenha sido efetuada de maneira equivocada, constata-se a ocorrência da prescrição intercorrente, em consonância com as teses firmadas pelo STJ nos temas 566 a 571, pois não ocorreu nenhum ato interruptivo do prazo prescricional entre a citação por edital do executado e o proferimento da sentença que julgou improcedentes os embargos à execução.
+2. Determinada a devolução dos autos à Vice-Presidência.
+À fl. 274, a Vice-Presidência do Tribunal a quo admitiu o recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, observa-se que, em juízo de retratação, o órgão colegiado do Tribunal de origem considerou que o acórdão recorrido está em consonância com o entendimento proferido pelo STJ, sob a sistemática dos recursos repetitivos, nos Temas 566 a 571, conforme se verifica no seguinte trecho extraído do acórdão proferido em juízo de adequação (fls. 262/264 - g.n.):
+No caso, o acórdão deu provimento à apelação para reconhecer a ocorrência de prescrição intercorrente, uma vez que, entre o despacho de suspensão e a prolação da sentença em 10/07/2013, transcorreu o prazo prescricional superior a 5 anos (ev. 5 - ACOR13).
+As teses firmadas pelo STJ são as seguintes:
+ ..
+Como visto, no acórdão foi considerado que o termo inicial da contagem do prazo de prescrição foi a data do despacho que ordenou a suspensão do processo por um ano (18.06.2007), o que, em tese, contraria o entendimento firmado no Tema 567 do STJ, acima transcrito.
+Ocorre que, apesar disso, na contabilização do prazo prescricional da data do despacho de suspensão (18.06.2007) até o proferimento da sentença (10.07.2013), verifica-se que transcorreu prazo maior do que 6 anos, o que respeita, mesmo que indiretamente, as teses firmadas nos Temas 566 e 567. Por outro lado, vê-se que a parte executada foi citada por edital em 21.07.2010, situação que é capaz de interromper o curso da prescrição intercorrente, de acordo com a tese firmada no Tema 568.
+Todavia, compulsando os autos verifico que há equívoco na análise das datas, pois a execução foi ajuizada em 15.12.2004 e o executado foi inicialmente citado por edital em 24.08.2005 (ev.5 - ANEXO23, fls 02, 11, 13 e 14).
+Em 20.03.2006 foi deferida a penhora sobre os direitos de veículo com restrição de alienação fiduciária (fls. 24).
+A penhora restou inexitosa, tendo em vista que a parte não foi localizada (fls. 26).
+Foi requerida a suspensão do feito, para localização do executado, requerimento que foi deferido em 18.06.2007 (fls. 37).
+Efetuada tentativa de constrição de valores via BACENJUD, também inexitosa (fls. 46).
+Requerida nova suspensão do feito em 24.06.2008 (fls. 48).
+O executado foi novamente citado por edital, em 21.07.2010 (fls. 56).
+Nota-se que, embora tenha sido essa última data considerada no acórdão como da citação do executado, a citação por edital já havia acontecido em 24.08.2005 e, interrompida a contagem da prescrição intercorrente nesta data, não houve, posteriormente, efetiva constrição patrimonial capaz de interromper o prazo prescricional (Tema 568).
+Logo, conquanto a análise das datas e atos processuais tenha sido efetuada de maneira equivocada, constata-se a ocorrência da prescrição intercorrente, em consonância com as teses firmadas pelo STJ nos temas 566 a 571, pois não ocorreu nenhum ato interruptivo do prazo prescricional entre a citação por edital do executado (24.08.2005) e o proferimento da sentença que julgou improcedentes os embargos à execução (10.07.2013).
+Ante o exposto, voto por ratificar o acórdão, nos termos da fundamentação, com a consequente devolução dos autos à Vice-Presidência, para análise do prosseguimento do recurso especial.
+Consoante dicção do art. 1.039 do CPC/2015: "Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada".
+Nesse contexto, fica prejudicada a análise da matéria trazida no presente apelo, que é coincidente com aquela discutida no mencionado recurso representativo da controvérsia, tendo em vista já ter sido realizado o devido juízo de adequação pelo Tribunal a quo.
+Nessa linha de raciocínio (g.n.):
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. RECURSO ESPECIAL. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA.
+1. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+2. Na espécie, a respeito da decadência e da prescrição dos créditos tributários discutidos nos autos, a Corte local ancorou-se no entendimento de recursos especiais repetitivos (REsp 973.733/SC - Tema 163/STJ e REsp 1.120.295/SP - Tema 383/STJ) para concluir que, "Conforme reconhecido pela própria exequente, apenas a declaração com terminação 71713, com data de entrega em 12/05/2000, está prescrita, pois o executivo fiscal foi ajuizado apenas em 15/05/2005".
+3. Nesse panorama, fica prejudicada a análise da matéria do presente recurso especial, tendo em vista ser coincidente com aquela discutida no repetitivo.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.583.144/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022)
+ANTE O EXPOSTO, nego provimento ao recurso especial. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
