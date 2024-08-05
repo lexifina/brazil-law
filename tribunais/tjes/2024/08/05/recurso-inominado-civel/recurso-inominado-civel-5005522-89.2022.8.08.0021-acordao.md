@@ -1,0 +1,87 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005522-89.2022.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: GOVESA ADMINISTRADORA DE CONSORCIOS LTDA e outros
+RECORRIDO: CARLOS EDUARDO PURCINO
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, julgar prejudicado o recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5005522-89.2022.8.08.0021
+Recorrente: DISBRAVE ADMINISTRADORA DE CONSÓRCIOS LTDA.
+Recorrido: CARLOS EDUARDO PURCINO
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE CONSÓRCIO. DIREITO DO CONSUMIDOR.
+(1). TESE AUTORAL.
+TRATA-SE DE AÇÃO DE CONHECIMENTO AJUIZADA PELO REQUERENTE EM FACE DAS EMPRESAS REQUERIDAS, ADUZINDO O REQUERENTE QUE CELEBROU COM A EMPRESA 1ª REQUERIDA UM CONTRATO DE ADESÃO À CONSÓRCIO, PERTENCENTE A COTA 0017-00, GRUPO 000405, PARA AQUISIÇÃO DE UM IMÓVEL, EM UM PLANO DE 180 MESES, QUE POSTERIORMENTE HOUVE SUBSTITUIÇÃO DA ADMINISTRADORA PARA A 2ª REQUERIDA. FORA PAGO O VALOR DE R$ 7.828,56. RELATA O REQUERENTE QUE LHE FOI PROMETIDO, NO MOMENTO DO FECHAMENTO DO CONTRATO, DE QUE O VALOR DAS PARCELAS SERIA REDUZIDO, O QUE NÃO OCORREU. SENDO ASSIM, O AUTOR ALEGA QUE NÃO TEVE MAIS CONDIÇÕES DE DAR PROSSEGUIMENTO AO CONSÓRCIO, POIS SEU ORÇAMENTO FICOU COMPROMETIDO. REQUER LIMINARMENTE A DEVOLUÇÃO DOS VALORES QUE PAGOU. REQUER AINDA, A DECLARAÇÃO DE RESCISÃO CONTRATUAL, A RESTITUIÇÃO DO VALOR PAGO, ALÉM DA INDENIZAÇÃO POR DANOS MORAIS.
+(2). DISPOSITIVO DA SENTENÇA.
+“Diante do exposto,
+JULGO: a) PARCIALMENTE PROCEDENTE o pedido inicial, extinguindo o feito com resolução do mérito, na forma do art. 487, I do CPC. CONDENO a 2ª requerida Disbrave Administradora de Consórcios Ltda. a restituir ao autor a importância de R$ 7.797,24 (Sete mil, setecentos e noventa e sete reais e vinte e quatro centavos), já deduzido o percentual de 0,4% a título de taxa de administração, devidamente atualizada com juros de mora a contar da citação e correção monetária do efetivo desembolso; b) IMPROCEDENTE
+o pedido de indenização por danos morais.
+A devolução do valor contida no item a ocorrerá em até trinta dias após o encerramento do grupo (janeiro/2026).
+Em consequência, declaro extinto o processo com resolução de mérito, na forma do art. 487, I, do CPC.
+JULGO EXTINTO o processo, sem julgamento de mérito, com base no art. 485, VI, em relação à
+Govesa Administradora de Consórcio Ltda.
+”
+(3). RECURSO DA ADMINISTRADORA DE CONSÓRCIO RÉ.
+EM SUMA, ALMEJA A REFORMA DA R. SENTENÇA CONSOANTE TERMOS EXPENDIDOS NAS RAZÕES RECURSAIS.
+(4). CONTRARRAZÕES NÃO APRESENTADAS PELA PARTE AUTORA. (5). QUESTÃO DE ORDEM.
+INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS CÍVEIS PARA PROCESSAR E JULGAR A CAUSA
+. DA ANÁLISE DOS PEDIDOS E DA CAUSA DE PEDIR ARTICULADOS NA PETIÇÃO INICIAL, RESSAI CLARO QUE A PARTE CONSUMIDORA TINHA, POR MEIO DA SUBJACENTE AÇÃO, O PROPÓSITO DE DESISTIR DO CONTRATO DE CONSÓRCIO, ALMEJANDO DE MODO EXPRESSO O CANCELAMENTO DO NEGÓCIO. SE, DENTRE A NARRATIVA DA PARTE AUTORA, ENCONTRA-SE UMA DAS CAUSAS PARA A DESISTÊNCIA DO CONSÓRCIO O DESCUMPRIMENTO CONTRATUAL, NÃO SE PODE DESCONSIDERAR QUE O EFEITO LÓGICO É JUSTAMENTE O DE RESCINDI-LO.
+EM OUTROS TERMOS,
+DESTACA-SE, DE PRONTO, QUE ALÉM DA BUSCA PELO PROVEITO ECONÔMICO DOS DANOS MORAIS SOFRIDOS, DOS VALORES DAS PARCELAS PAGAS, O RECORRIDO TAMBÉM PUGNA PELA RESCISÃO CONTRATUAL, OU SEJA, SEU DESLINDE TOTAL. CONTUDO, TAL DESLINDE NÃO TRATA DE UM TIPO DE DESISTÊNCIA REALIZADA PELO AUTOR, ONDE ESTE DESEJA NÃO MAIS PARTICIPAR DO CONSÓRCIO EM QUESTÃO, ACEITANDO A DEVOLUÇÃO DOS VALORES PAGOS JÁ DESCONTADOS DAS TAXAS DE ADMINISTRAÇÃO, CLÁUSULAS PENAIS, ENTRE OUTRAS. COM EFEITO, O CANCELAMENTO DO CONTRATO ACARRETARÁ A NULIDADE DO MESMO, POSTO QUE O NEGÓCIO JURÍDICO EM QUESTÃO RETORNARÁ AO
+STATUS QUO ANTE
+, QUE O PRIVA DA PRODUÇÃO DE QUALQUER TIPO DE EFEITO JURÍDICO. ASSIM, NO QUE TANGE O VALOR DA CAUSA, O ART. 292, II, DO CPC ENSINA OS PARÂMETROS PARA A FIXAÇÃO. VEJA-SE:
+“
+Art. 292.
+O valor da causa constará da petição inicial ou da reconvenção e será: II - na ação que tiver por objeto a existência, a validade, o cumprimento, a modificação, a resolução, a resilição ou a rescisão de ato jurídico, o valor do ato ou o de sua parte controvertida;”
+LOGICAMENTE, AO SE TRATAR DA DECLARAÇÃO DE INEXISTÊNCIA DE UM CONTRATO, O SEU VALOR GLOBAL DEVE SER CONSIDERADO, POSTO QUE ESTE É O VALOR DA RESCISÃO QUE SE BUSCA ALCANÇAR. A PROCEDÊNCIA DO CANCELAMENTO DO NEGÓCIO JURÍDICO
+IN CASU
+, SERIA A PROCEDÊNCIA DO PEDIDO DE ANULAÇÃO DE UMA DÍVIDA CONTRAÍDA PELO EX-CONSORCIADO, ORA RECORRIDO, NO VALOR DE R$ 184.722,5. NESSA ESTEIRA, É CLARO O ENTENDIMENTO DE QUE A DESOBRIGAÇÃO DO RECORRIDO EM PAGAR TAL VALOR SURGE COMO PROVEITO ECONÔMICO PRETENDIDO POR ESTE, VISTO QUE O CONCEITO DE PROVEITO ECONÔMICO NÃO PODE ABARCAR APENAS O QUE SE QUER EFETIVAMENTE RECEBER, MAS TAMBÉM O QUE SE DEIXA DE PAGAR. PORTANTO, HAVENDO NOS AUTOS O PEDIDO DE RESCISÃO CONTRATUAL, O VALOR GLOBAL DO CONTRATO EM QUESTÃO DEVE COMPOR O VALOR DA CAUSA.
+(6).
+DIANTE DO EXPOSTO,
+RECONHEÇO DE OFÍCIO A INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS CÍVEIS
+PARA PROCESSAMENTO E JULGAMENTO DA DEMANDA, EXTINGUINDO-A SEM RESOLUÇÃO DO MÉRITO, EM RAZÃO DO VALOR DA CAUSA, NOS TERMOS DO ART. 3º, I, E 51, II, DA LEI Nº LEI 9.099/95. RESSALVADO O DIREITO DA PARTE AUTORA NO INGRESSO PELAS VIAS ORDINÁRIAS PARA RESOLUÇÃO DO CONFLITO. RECURSO PREJUDICADO. SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM VIRTUDE DA EXTINÇÃO ANÔMALA DO PROCESSO.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
