@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Agravo. Execução Penal. Pretensão de declaração de nulidade de procedimento administrativo disciplinar. Decisão homologatória de falta disciplinar por parte do Juízo da VEP. Inconformismo.
+Alegação de ausência de ciência quanto ao direito de permanecer em silêncio. Rejeição. Agravante que prestou declarações de forma livre e espontânea. Ausência de qualquer indicativo de que o Agravante tenha sido forçado, coagido e/ou induzido a prestar declarações.
+Parte disciplinar que narra que o Agravante descumpriu por diversas vezes as ordens do informante, além de ter insuflado outros presos. Procedimento administrativo disciplinar. Imputação clara e sucinta, permitindo o exercício do contraditório e da ampla defesa.
+Inexigibilidade do mesmo rigor formal próprio do processo judicial.
+Assistência de defesa técnica no procedimento administrativo disciplinar. Exercício da mesma pela d. Defensoria Pública. Apresentação de defesa escrita em nome do Agravante. Observância do contraditório e da ampla defesa.
+Vedação de ingresso, por parte do Poder Judiciário, no mérito administrativo da decisão disciplinar.
+Princípio da separação dos Poderes (art. 2º da CRFB). Ausência de elementos de desvio de poder ou de abuso de direito. Observância de todas as disposições constitucionais, legais e regulamentares aplicáveis ao caso. Desprovimento do recurso.
+Consta dos autos que o juízo da execução homologou, em desfavor do paciente, falta disciplinar, determinando, por consequência, a interrupção da progressão de regime e declarando a perda de 1/3 (um terço) dos dias eventualmente remidos.
+Interposto agravo em execução contra referida decisão, restou desprovido.
+Daí o presente habeas corpus, em que a defesa alega, em suma, nulidade do procedimento administrativo disciplinar, por violação ao direito de permanecer em silêncio; nulidade do procedimento por divergência de imputações e por ter narrado a transgressão de forma genérica; ausência de provas dos fatos narrados no procedimento.
+Requer a concessão da ordem "para declarar a nulidade do Procedimento Administrativo disciplinar guerreado -PD SEI-210083/000092/2023-, desconstituindo-se as sanções e a interrupção do lapso temporal para fins de progressão de regime, e a perda de 1/3 dos dias de pena eventualmente já remidos".
+Foram prestadas informações. O Ministério Público federal manifestou-se pela denegação da ordem.
+Colhe-se do acórdão impetrado a seguinte fundamentação:
+Quanto aos fatos, se tem que o processo Administrativo Disciplinar SEI 210083/000092/2023, foi instaurado a partir da parte disciplinar n. 06/2023, de acordo com as informações prestadas pelo Subdiretor - SEAPNH, Rafael Leal Fuli, Mat./ID: 930482-5/4262419-3 (fls. 5).
+Do mesmo, consta que o Agravante descumpriu, por diversas vezes, as ordens do informante, tendo ainda insuflado alguns presos que se encontravam no setor de triagem, consoante a "parte" lavrada, como segue:
+ ..
+Passa-se ao exame dos aspectos formais e de legalidade do procedimento, iniciando-se pela alegação de nulidade por ausência de advertência do direito ao silêncio.
+Com escusas pela obviedade, sendo certo ser inafastável o direito à não auto-incriminação em processo administrativo disciplinar, somente será legítimo o resultado desse quando houver obediência aos direitos e garantias individuais, incluindo aí o nemo tenetur se detegere.
+Assim, menos importante do que constar, nas declarações do interno, afirmação de que elas foram prestadas de forma espontânea e sem coação, mais importante é a informação que teve o mesmo espaço para efetuar correções que entendesse pertinentes, litteris:
+ ..
+Dito isso, se tem que e de acordo com o documento de fls. 8, o apenado declarou que desejava ser assistido pela Defensoria Pública e, posteriormente, afirmou que prestou as declarações de forma espontânea, sem nenhuma forma de coação.
+Prosseguindo no exame da documental, se constata ter o Agravante optado por dar a sua versão para os fatos, quando de sua oitiva em sede administrativa, já que em suas declarações, o Agravante afirmou não serem totalmente verdadeiros os fatos descritos na parte disciplinar, tendo, contudo, confessado que "discutiu com o subdiretor, porque estava sendo acusado do atraso que não fez".
+Destaca-se o que consta do termo de declarações (fls. 8, index 2):
+ ..
+Assim, conclui-se que o direito de defesa do apenado restou efetivado na modalidade de autodefesa, com a sua oitiva pela Comissão Técnica de Classificação - CTC, bem como a posterior, quando apresentou sua versão para os fatos. E, a posterior, teve o Agravante acesso à defesa técnica, via a apresentação de defesa escrita através da Defensoria Pública (documento de fls. 10/14, index 2)
+Não se reconhece, portanto, ocorrência de vícios de forma ou de legalidade, em geral e violação ao princípio constitucional da ampla defesa em especial.
+Passa-se à alegação da imprestabilidade da imputação genérica.
+Como se sabe, em se tratando de procedimento administrativo disciplinar, não se exige o mesmo rigor formal próprio do processo judicial, não sendo necessário o detalhamento mais minucioso da conduta imputada ao detento.
+A imputação, aliás, foi clara e sucinta no sentido finalístico da ação - descumprimento, por diversas vezes e pelo Agravante - das ordens disciplinares do Subdiretor quando era retirado da cela para ciência/intimação no setor de classificação, tendo, a maior, insuflado presos que se encontravam no setor de triagem.
+De se mencionar ainda que não há necessidade de se indicar especificamente quais ordens foram descumpridas e tampouco de que forma o apenado insuflou os demais internos, senão se reportando a ocorrência deste tipo de evento que, por sua instantaneidade (exceção feita a eventuais filmagens por câmeras de segurança ou corporais, acaso portadas por agentes de segurança penal) remanescem apenas no relato dos envolvidos.
+No que tange às provas dos fatos narrados no procedimento de apuração, tem-se que a decisão da Comissão Técnica de Classificação foi fundamentada na declaração feita pelo Subdiretor - SEAPNH.
+De se consignar que a referida declaração goza de presunção de veracidade e legitimidade, não tendo a Defesa apresentado prova que desconstituísse a narrativa do servidor, o que está de acordo com o preceituado pelo E. STJ, como se reproduz:
+" ..  2- A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  ..  (HC n.º 391.170/SP, Rel. Min. NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).  .. " (AgRg no HC n. 884.239/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024.) - (grifos nossos).
+Assim, o fato de a prova produzida no procedimento disciplinar ter sido lastreada na palavra do Policial Penal não implica na ausência de provas, como sustenta a Defesa, até mesmo porque se está a lidar com o funcionamento interno de estabelecimento prisional, em que as regras disciplinares são rígidas e de cumprimento compulsório por todos aqueles que se encontram presos no local.
+Tampouco merece ser objeto de valoração, negativa, a apontada divergência das imputações feitas ao recorrente no bojo do Processo Disciplinar.
+Isso porque se verifica que o penitente foi punido apenas em relação ao fato que confessou (desobediência as ordens do subdiretor), de forma que o relato do uso de aparelho celular não foi apurado no mesmo procedimento
+ ..
+Ultrapassada esta questão, deve ser consignado que o controle das decisões administrativas se limita ao controle de legalidade, sendo vedado ao Judiciário a avaliação do chamado mérito administrativo.
+Por esta razão, não cabe a análise de eventual ausência de falta grave ou mesmo de falta de proporcionalidade na sanção administrativa, eis que tais matérias se inserem no âmbito da conveniência e da oportunidade da administração pública, imunes à sindicância pelo Judiciário.
+Visto isso, se tem, em continuação, que a decisão que aplicou a sanção ao apenado foi devidamente fundamentada e se encontra em harmonia com o parecer da Comissão Técnica de Classificação.
+E ainda, a falta é prevista no art. 50, incisos I e VI da Lei de Execuções Penais, que considera falta grave: incitar ou participar de movimento para subverter a ordem ou a disciplina e deixar de observar os deveres previstos nos incisos II e V, do art. 39, dentre eles o de obedecer ao servidor e de respeitar a qualquer pessoa com quem deva se relacionar e de se opor a movimentos de subversão à disciplina.
+Cabe também ressaltar que a interrupção da contagem do prazo para a progressão de regime se encontra em sintonia com a Jurisprudência, nos termos do verbete sumular n. 534, da Corte Superior, litteris:
+"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração."
+No mesmo sentido, o cometimento de falta grave autoriza a revogação até 1/3 (um terço) do tempo remido, nos termos do art. 127, da Lei de Execuções Penais.
+E, assim sendo, não se identifica qualquer ilegalidade no procedimento administrativo, pelo que se entende pelo prestígio da r. decisão atacada.
+Ante o exposto, se é pelo desprovimento do recurso.
+Como se observa, foi imputada ao paciente a prática de falta grave consistente em desobediência a ordens da autoridade carcerária e influência sobre outros detentos a também subverterem a ordem.
+De acordo com a fundamentação do acórdão, não se verificou, no curso do procedimento administrativo disciplinar, nulidade por ausência de advertência do direito ao silêncio, destacando que, no caso, "o direito de defesa do apenado restou efetivado na modalidade de autodefesa, com a sua oitiva pela Comissão Técnica de Classificação - CTC, bem como a posterior, quando apresentou sua versão para os fatos. E, a posterior, teve o Agravante acesso à defesa técnica, via a apresentação de defesa escrita através da Defensoria Pública (documento de fls. 10/14, index 2)".
+O acórdão considerou não ter havido imputação genérica, destacando que a imputação "foi clara e sucinta no sentido finalístico da ação - descumprimento, por diversas vezes e pelo Agravante - das ordens disciplinares do Subdiretor quando era retirado da cela para ciência/intimação no setor de classificação, tendo, a maior, insuflado presos que se encontravam no setor de triagem".
+Destacou, ainda, haver prova suficiente acerca da falta imputada ao paciente, considerando notadamente a decisão da Comissão Técnica de Classificação foi fundamentada na declaração feita pelo Subdiretor - SEAPNH, "não tendo a Defesa apresentado prova que desconstituísse a narrativa do servidor".
+O reconhecimento de nulidades no curso do processo penal, seja absoluta ou relativa, exige efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP - pas de nullité sans grief.
+Desse modo, não tendo havido comprovação de nulidade do procedimento administrativo, nem qualquer prejuízo à defesa, descabe falar em constrangimento ilegal.
+Outrossim, a inversão das conclusões das instâncias de origem demandaria ampla dilação probatória, incabível na via estreita do habeas corpus.
+"O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no HC n. 782.347/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
