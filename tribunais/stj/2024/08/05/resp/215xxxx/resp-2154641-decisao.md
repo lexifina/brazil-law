@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por NATALIA GRANGEIRO COSTA com fundamento no art. 105, III, a e c, da Constituição Federal, no qual se insurge contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fls. 691-692):
+APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. RELAÇÃO DE CONSUMO. PLANO DE SAÚDE COLETIVO EMPRESARIAL. FRAUDE. RESOLUÇÃO UNILATERAL DO CONTRATO. CONTINUIDADE DO TRATAMENTO EM CURSO. TEMA 1082 DO STJ. DANO MORAL. NÃO CONFIGURADO. ASTREINTE. ADEQUAÇÃO.
+1. A relação jurídica estabelecida entre beneficiário e operadora de plano de saúde se caracteriza como de consumo, submetendo-se, destarte, às normas do Código de Defesa do Consumidor, em consonância com a Súmula nº 608 do colendo Superior Tribunal de Justiça.
+2. O desvirtuamento de contrato de plano de saúde na modalidade coletiva empresarial, por meio de fraude referente à inexistência de vínculo empregatício, autoriza a rescisão unilateral pela operadora do plano de saúde, nos termos da RN 195/09 da ANS(atualRN557/2022da ANS).
+3. A rescisão unilateral do contrato de plano de saúde, inclusive na hipótese defraude praticada pela empresa estipulante, depende de prévia notificação do beneficiário até o quinquagésimo dia de inadimplência, nos termos do artigo 13,parágrafo único, II, da Lei nº 9.656/1998.
+4. "A operadora, mesmo após o exercício regular do direito à rescisão unilateral de plano coletivo, deverá assegurar a continuidade dos cuidados assistenciais prescritos a usuário internado ou em pleno tratamento médico garantidor de sua sobrevivência ou de sua incolumidade física, até a efetiva alta, desde que o titular arque integralmente com a contraprestação devida"-Tema 1085 do STJ.
+5. O cancelamento do plano quando constatada a fraude da administradora não caracteriza dano moral ao beneficiário, apenas o exercício regular de direito da operadora.
+6. Não se mostra desarrazoada ou desproporcional a multa diária fixada em R$1.000,00 (mil reais)para ocaso de impedimento de acesso aos serviços contratados por segurado em tratamento de doença grave.
+7. O prequestionamento pretendido para fins de interposição de recursos extraordinários exige tão somente que a causa tenha sido decidida e fundamentada no julgado, não havendo necessidade de pronunciamento expresso sobre todos os dispositivos legais mencionados pela parte.
+8. Recurso conhecido e parcialmente provido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 761-775).
+Nas razões do recurso especial (e-STJ, fls. 796-811), a recorrente aponta divergência jurisprudencial e violação dos arts. 14 do CDC; e 185, 186 e 927 do CC, sustentando, em síntese, que, mesmo que tenha havido o reconhecimento de suposta fraude pela empresa estipulante, houve atos ilícitos por parte da empresa de plano de saúde ao cancelar indevidamente o plano durante tratamento de câncer, sem prévia notificação, o que lhe teria causado danos morais.
+Contrarrazões às fls. 833-843 (e-STJ).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 849-850).
+Brevemente relatado, decido.
+O TJDFT, ao analisar a controvérsia dos autos, consignou que a UNIMED deve continuar o tratamento da autora até a alta, mesmo com a rescisão do plano coletivo, devido à gravidade da doença, porém, afastou a sua condenação em danos morais por considerar a rescisão legítima, já que ficou demonstrado nos autos que a parte autora não possuia vínculo com a empresa estipulante , sobressaindo dos autos a prova da fraude na contratação (e-STJ, fl. 695).
+Confira-se, ainda, o seguinte excerto do aresto impugnado (e-STJ, fl. 697):
+Quanto à alegação de inexistência de danos morais, melhor sorte assiste à ré apelante. Isso porque, conforme se extrai dos autos, a apelante rescindiu legitimamente o contrato e a necessária manutenção da continuidade do tratamento médico da autora adveio de interpretação judicial.
+Nesse cenário, não se verifica a ilicitude na conduta da ré apelante apta a ensejar danos morais, já que rescindiu o contrato em exercício regular de direito.
+Não se discute a aflição e a preocupação da parte autora quanto ao seu estado de saúde, mas a existência de ato ilícito praticado pela ré. Para configurar este tipo de dano, é essencial a comprovação dos requisitos ensejadores, quais sejam: a conduta ilícita, o nexo de causalidade e o dano ou prejuízo. Inexistentes tais elementos, não há que se falar em dano moral.
+Dessa forma, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado local implicaria no reexame do conjunto fático-probatório, o que é vedado pela Súmula 7 deste Tribunal.
+Ademais não ficou evidenciado o dissídio jurisprudencial, pois inexistente a necessária similitude fática e identidade jurídica entre os acórdãos confrontados, tendo em vista que são diversas as circunstâncias concretas neles delineadas, uma vez que no acórdão paradigma a fraude não ficou demonstrada como ocorreu no presente processo.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% sobre o valor da condenação, suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESOLUÇÃO UNILATERAL DO CONTRATO REALIZADO DE FORMA LEGÍTIMA. FRAUDE CONSTATADA. DANO MORAL INDEVIDO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. RECURSO ESPECIAL NÃO CONHECIDO.
