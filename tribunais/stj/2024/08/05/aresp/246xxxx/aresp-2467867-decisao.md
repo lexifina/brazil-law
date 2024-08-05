@@ -1,0 +1,11 @@
+DECISÃO
+JEFERSON SILVERIO MARTINS interpõe agravo em recurso especial contra a decisão da Vice-Presidência da Corte local que inadmitiu o recurso especial.
+No caso, a decisão impugnada não admitiu o recurso especial, com base nos seguintes fundamentos: a) incidência da Súmula n. 211 do STJ; b) incidência da Súmula n. 7 do STJ; c) ausência de demonstração da divergência jurisprudencial; d) incidência da Súmula n. 284 do STF.
+Todavia, nas razões do agravo , a defesa não impugnou o argumento de que "a defesa deixou de especificar quais dos dispositivos de lei federal mencionados teriam tido interpretação divergente daquela firmada por outros tribunais", limitando-se a afirmar que, "na decisão acostada, fica claro que não existe deficiência na fundamentação defensiva, e que apenas se trata de ponto específico, a fragilidade do print de whats como prova em processo penal  ..  não h avendo  o que eu se falar a incidência da sumula 294  rectius:284  do STF".
+Também em relação ao argumento de ausência de demonstração da divergência jurisprudencial o agravo cingiu-se a afirmar que "a defesa trouxe aos autos a devida análise do dissidio em questão. Em um primeiro momento a defesa demostrou que as provas obtidas se referem tão somente a "prints" de da tela do aplicativo de Whats up, e que o sistema celebrite (sistema utilizado para a extração das informações do telefone) não conseguiu sequer alcançar toda a informação contida no aparelho. Da mesma foram a defesa questionou a fragilidade desses prints, visto eles não são capazes de apresentar a integralidade das conversas".
+Portanto, de acordo com a jurisprudência desta Corte Superior, "não se conhece do agravo regimental que deixa de impugnar, de forma direta e objetiva, os fundamentos da decisão agravada. Aplicação da Súmula n. 182 do Superior Tribunal de Justiça" (AgRg no AREsp n. 529.349/MA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/5/2015).
+Assim, observo que não houve fundamentação clara, específica e pormenorizada que contraditasse os fundamentos exarados na decisão combatida.
+Portanto, incide o enunciado na Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+À vista do exposto, não conheço dos agravos em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
