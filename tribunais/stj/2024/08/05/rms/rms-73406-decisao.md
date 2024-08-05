@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso ordinário em mandado de s egurança impetrado por ELTON VAREIRO TEIXEIRA, em que requer a reforma do acórdão proferido pelo TJMS, assim ementado (fl. 203):
+EMENTA - AGRAVO INTERNO EM MANDADO DESEGURANÇA - INDEFERIMENTO DA INICIAL - AUSÊNCIA DE JUNTADA DEDOCUMENTOSESSENCIAISÀ COMPROVAÇÃODODIREITO- CONFIGURAÇÃO DA DECADÊNCIA - DECISÃO MONOCRÁTICA MANTIDA - AGRAVO INTERNO CONHECIDO E DESPROVIDO, CONTRA O PARECER.
+I - Sendo necessária a análise das regras editalícias para demonstração do direito líquido e certo do impetrante, afigura-se necessária a juntada de cópias de todos os editais regentes do concurso.
+II - Publicada decisão que reprovou o candidato, e sendo este comunicado desta ainda no mês de maio de 2022, configura-se a decadência do direito de impetração do mandamus.
+O impetrante defende a não consumação do prazo decadencial para a impetração do mandado de segurança, pois "o writ se refere a ato omissivo das recorrida em dar resposta/decisão a um recurso interposto em 06/05/2022 (fls. 22/32) e ausência de resposta sobre requerimento administrativo que o recorrente cobrou resposta, em 20/06/2023 vide requerimento de fls. 36/37 e andamentos dos protocolos (fls. 38/39)" (fl. 222).
+Contrarrazões apresentadas às fls. 227-232.
+O Ministério Público Federal ofereceu parecer pelo não conhecimento ou desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+No caso, o Tribunal de origem manteve a decisão que indeferiu liminarmente a impetração nos seguintes termos (fls. 207-208):
+Como se percebe da decisão hostilizada, para demonstração do direito líquido e certo pretendido, mostrava-se necessária a produção prévia de prova documental de todas as regras editalícias do concurso, com juntada de documentos referentes a todos os editais necessários à análise da atuação das autoridades administrativas envolvidas, com aferição da legitimidade da decisão referida na inicial.
+Ocorre que apenas com base nos documentos carreados não é possível aferir se, de fato, existiu atuação ilegítima da banca examinadora na análise dos recursos interpostos pelo interessado com base nas regras previstas no edital regente.
+De outro vértice, operou-se a decadência da pretensão mandamental pois, ainda que o julgamento do recurso administrativo tenha sido realizado com violações a regras editalícias, a reprovação do candidato restou consolidada, seja através da resposta emitida por correio eletrônico, em 02/05/2022, seja através da publicação de edital de resultado final do concurso, realizado ainda em 10/06/2022. Assim, inviável a impetração em 26/06/2023 isto é, quase um ano após a publicação de ato que consolidou a suposta violação ao direito líquido e certo defendido, prazo muito superior ao termo de 120 (cento e vinte) dias previsto em lei.
+É dizer, ainda que a reprovação do candidato tenha ocorrido com violação a alguma regra editalícia, com vício na apreciação de recurso anteriormente interposto, tal irregularidade deveria ser atacada cento e vinte dias após a publicação do respectivo edital de reprovação, já que em tal oportunidade restou consolidada, através de ato administrativo concreto, a suposta violação aos direitos líquidos e certos do impetrante, o que demandaria a oportuna insurgência.
+Afasta-se, inicialmente, a consumação do prazo decadencial. Isso porque o impetrante apontou como ato coator a omissão praticada pela Comissão do Concurso quanto a não apreciação do recurso interposto em decorrência de sua reprovação no curso de formação (última fase do certame) do concurso para provimento do cargo de Agente Penitenciário da Agência Estadual do Sistema Penitenciário de Mato Grosso do Sul (AGEPEN).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ANISTIA POLÍTICA. MILITAR. AERONÁUTICA. ATO OMISSIVO. DECADÊNCIA. NÃO APLICÁVEL. PROMOÇÃO. ÚLTIMO POSTO DA CARREIRA DE PRAÇA. POSSIBILIDADE. JUROS E CORREÇÃO MONETÁRIA. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - No que tange à verificação da ocorrência de decadência, a orientação deste tribunal é firme no sentido de que a ação mandamental que objetiva o pagamento da reparação econômica atrasada em decorrência da declaração de anistiado político, portanto, ato omissivo.
+(..).
+VIII - Agravo Interno improvido.
+(AgInt no MS n. 24.751/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 1/10/2019, DJe de 3/10/2019, grifos acrescidos).
+Quanto à suficiência da prova documental juntada aos autos, extrai-se o parecer ministerial lançado à fl. 194 dos autos o seguinte:
+(..) anexou aos autos primevos cópia de e-mail enviado pela Escola Penitenciária (fls. 20/21), Recurso administrativo interposto para à Comissão do Concurso (fls. 22/32), Resposta a um Ofício Diretor Presidente (fls. 33/35), Requerimento protocolado à Comissão do Concurso cobrando resposta ao recurso (fls. 36/37), Andamento dos protocolos de recursos (fls. 38/39), regimento interno da Escola Penitenciária de Mato Grosso do Sul (fls. 40/52) e resultado do certame (fls. 56/73).
+A referida documentação se revela suficiente para afastar a suposta necessidade de dilação probatória, bem como para que se verifique a alegada violação do direito líquido e certo do impetrante decorrente do apontado ato omissivo praticado pela autoridade coatora.
+Isso posto, dou provimento ao recurso em mandado de segurança para afastar a decadência e determinar o retorno dos autos à Corte de origem, a fim de que seja apreciado o mérito da impetração.
+Publique-se. Intimem -se.
+EMENTA
