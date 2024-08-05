@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ELAINE CRISTINA BARBOSA SOARES, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 121):
+Agravo interno. Decisão que indeferiu a gratuidade da justiça para o processamento do agravo de instrumento. Falta de demonstração da alegada insuficiência financeira. Recurso desprovido.
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 98, caput, e 99, 2º, do CPC.
+Esclareceu que se opôs ao acórdão por não acolher seu pleito por concessão de gratuidade de justiça.
+Afirmou que qualquer parte no processo pode usufruir da justiça gratuita, portanto a recorrente, pessoa jurídica, também faz jus ao benefício, haja vista não ter condições de arcar com as despesas processuais sem prejuízo de sua manutenção.
+Destacou que o indeferimento do pedido causa prejuízo a seu sustento e ocasiona óbice ao acesso à Justiça. Ponderou que declaração de hipossuficiência apresentada nos autos tem presunção de veracidade relativa, porém esta somente poderá ser afastada de plano pelo juiz se houver fundadas razões para tanto, o que não se vislumbraria. Requereu o provimento do recurso especial (e-STJ, fls. 124-136).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 147-156).
+Contraminuta não apresentada (e-STJ, fl. 160).
+Brevemente relatado, decido.
+O acórdão concluiu pela ausência de prova da alegada hipossuficiência econômico-financeira da insurgente; ao passo que sua movimentação bancária evidenciaria a capacidade de arcar com os custos da demanda, que não seriam exorbitantes.
+Leia-se (e-STJ, fl. 122):
+2. Em que pese o respeito à doença que acomete o companheiro da autora, o fato é que na petição inicial do agravo de instrumento a agravante afirmou que sua renda era de apenas R$ 1.320,00, mas, da verificação dos documentos que instruem a ação originária, constatou-se que no mês de maio a agravante recebeu créditos de mais de R$ 7.500,00 na conta do NU (fls. 100/117 da ação) e em junho, mais de R$ 8.000,00 (fls. 118/137).
+Ou seja: a renda do benefício que ela recebe na contado Banco do Brasil deve ser somada aos créditos que a autora recebe rotineiramente na conta do NU.
+Ademais, não há demonstração de os créditos referem-se a empréstimos que, aliás, não estão evidenciados na movimentação financeira da referida.
+Salienta-se, ainda, que o valor do preparo do recurso não é exorbitante e, ainda que o recolhimento cause algum desconforto financeiro, não prejudicará a subsistência da familia.
+3. Portanto, sem a demonstração da alegada insuficiência financeira, a decisão monocrática que indeferiu a gratuidade da justiça para o recurso não merece reparo algum e deve ser integralmente mantida.
+Essas ponderações foram fundadas na análise fático-probatória da causa, a atrair a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional. A parte não pretende a mera qualificação jurídica do quadro acima desenhado, mas sua reapreciação, o que é vedado a esta Corte Superior.
+Consoante o Superior Tribunal de Justiça, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481 do STJ). No caso em questão, o acórdão recorrido foi claro em afastar essa presunção, tendo em vista que não houve a comprovação efetiva da sua incapacidade de arcar com os ônus do processo. A pretensão de reforma do acórdão recorrido, acerca da situação de hipossuficiência financeira da parte, imprescindível à concessão da gratuidade da justiça, demandaria necessariamente o reexame de matéria fático-probatória dos autos, atraindo, assim, o óbice disposto na Súmula nº 7/STJ" (AgInt no AREsp n. 2.185.263/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+A título ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência proibida nesta instância, nos termos da Súmula 7/STJ.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.082.623/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022.)
+Mesmo se se tratasse de pessoa jurídica, não seria hipótese de deferimento da gratuidade de justiça, em razão da carência de prova da suscitada hipossuficiência, seja de pessoa física, seja de uma empresa.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cie ntificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Deixo de majorar os honorários sucumbenciais de acordo com o decidido nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, D Je de 8/5/2017, haja vista que a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE I NSTRUMENTO. CARÊNCIA DE PROVA DA ALEGADA HIPOSSUFICIÊNCIA ECONÔMICO-FINANCEIRA. POSSIBILIDADE DE A PARTE ARCAR COM OS CUSTOS DO PROCESSO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
