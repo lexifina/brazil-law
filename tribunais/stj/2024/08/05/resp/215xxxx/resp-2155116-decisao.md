@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEONARDO ROMAN, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE DEFERIU O PEDIDO DE INSERÇÃO DE RESTRIÇÃO JUNTO À CENTRAL NACIONAL DE INDISPONIBILIDADE DE BENS (CNIB). INSURGÊNCIAS DA AGRAVANTE. ALEGAÇÃO DE IMPENHORABILIDADE DO BEM DE FAMÍLIA. AFASTAMENTO. INDISPONIBILIDADE QUE NÃO SE CONFUNDE COM PENHORA. MEDIDA QUE NÃO VISA, NECESSARIAMENTE, A EXPROPRIAÇÃO. DIREITO À MORADIA GARANTIDO, CONTUDO, COM RESTRIÇÃO DE TRANSMISSÃO DO BEM A TERCEIROS. PRECEDENTES DESTA CORTE. RECURSO CONHECIDO E NÃO PROVIDO" (e-STJ fl. 88).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 112/114).
+No recurso especial (e-STJ fls. 119/135), o recorrente aponta, além de dissídio jurisprudencial, violação dos artigos 5º, XXVI, da Constituição Federal; 1º da Lei nº 8.009/1990 e 16, § 14, da Lei nº 14.320/2021.
+Sustenta, em síntese, que não há falar em indisponibilidade do bem de família e de pequena propriedade rural, visto que sua manutenção não irá contribuir para a satisfação do crédito, visto que não podem ser penhorados e nem expropriados.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 146/157), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+A questão devolvida a esta Corte está em saber se é possível decretar a indisponibilidade de bem de família, tendo em vista a sua impenhorabilidade.
+De início, quanto ao artigo 5º, XXVI, da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+No tocante ao artigo 16, § 14, da Lei nº 14.320/2021, verifica-se que referido dispositivo legal não foi objeto de debate pelas instâncias ordinárias, sequer foi suscitado nos embargos declaratórios opostos pelo recorrente.
+De fato, para que se configure o prequestionamento, é necessário que a Corte local se pronuncie especificamente a respeito da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação, ou não, ao caso concreto.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+No mais, verifica-se que, ao dirimir a controvérsia, o aresto atacado assim se pronunciou:
+"(..) é preciso diferenciar a medida de indisponibilidade de bens do instituto da penhora, uma vez que a primeira possui viés acautelatório, ao passo que a última possui finalidade expropriatória.
+Dessa compreensão, extrai-se que a indisponibilidade em nada interfere no direito à moradia da parte, vez que a restrição diz respeito unicamente à impossibilidade de transmissão da propriedade do bem a terceiros, evitando-se, ao fim, as chances de fraude à execução" (e-STJ fl. 89).
+Esta Corte já se pronunciou sobre esse tema no EREsp 185.645/PR, relatado pelo Ministro Luis Felipe Salomão, estabelecendo que o objetivo do protesto contra a alienação de bens é informar terceiros sobre o protesto, prevenindo disputas e danos a possíveis compradores.
+Eis a ementado o referido julgado:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE PROTESTO CONTRA ALIENAÇÃO DE BENS. AVERBAÇÃO NO REGISTRO IMOBILIÁRIO. POSSIBILIDADE. PODER GERAL DE CAUTELA DO JUIZ. EMBARGOS ACOLHIDOS.
+1. "A averbação, no Cartório de Registro de Imóveis, de protesto contra alienação de bem, está dentro do poder geral de cautela do juiz (art. 798 do CPC) e se justifica pela necessidade de dar conhecimento do protesto a terceiros, prevenindo litígios e prejuízos para eventuais adquirentes" (Corte Especial, EREsp nº.440.837/RS).
+2. Embargos de divergência acolhidos."
+(EREsp n. 185.645/PR, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/12/2009, DJe de 15/12/2009)
+Ainda nesse sentido, confiram-se:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. PROTESTO CONTRA A ALIENAÇÃO DE BENS. INTERESSE PROCESSUAL. NECESSIDADE, UTILIDADE E ADEQUAÇÃO. AVERBAÇÃO DO PROTESTO NA MATRÍCULA DE IMÓVEL. MERA PUBLICIDADE DA MANIFESTAÇÃO DE VONTADE DO PROMOVENTE. EFEITOS SOBRE AS RELAÇÕES JURÍDICAS E DIREITOS. INEXISTÊNCIA. INDEVIDA APREENSÃO JUDICIAL. INOCORRÊNCIA. VANTAGEM, BENEFÍCIO OU UTILIDADE DOS EMBARGOS DE TERCEIRO. AUSÊNCIA.
+1. Cuida-se de embargos de terceiro por meio dos quais se requer o cancelamento do protesto contra a alienação de bens que foi averbado na matrícula do imóvel e que foi apontado como impedimento para o registro da compra e venda.
+2. O propósito recursal consiste em determinar se há interesse processual no ajuizamento de embargos de terceiro contra a decisão que defere o pedido de averbação do protesto contra a alienação de bens na matrícula do imóvel.
+3. Recurso especial interposto em: 11/07/2019; conclusos ao gabinete em: 06/11/2019; aplicação do CPC/15.
+4. Entre as condições da ação, que devem ser preenchidas para que exista o direito a um pronunciamento sobre o mérito da causa, o interesse processual se traduz na necessidade, utilidade e adequação da medida judicial para assegurar a seu promovente o fim jurídico por ele colimado.
+5. Devem ser sumariamente indeferidos, por falta de legítimo interesse, os pedidos formulados nos processos que se mostrem desnecessários ou inadequados frente aos próprios fatos descritos na petição inicial.
+6. O protesto judicial é medida destinada a comprovar ou documentar uma manifestação formal de vontade do promovente, o qual busca, por meio de referido procedimento, comunicar a terceiros interessados sua intenção de fazer atuar no mundo jurídico uma determinada pretensão, mas não acrescenta nem diminui direitos do promovente ou influencia diretamente as relações jurídicas que possua com terceiros.
+7. A averbação do protesto contra a alienação de bens na matrícula do imóvel consiste em manifestação do princípio da publicidade, tendo por escopo apenas dar conhecimento a terceiros interessados sobre o direito que o promovente alega possuir sobre o imóvel.
+8. É pressuposto dos embargos de terceiro a existência de um ato de constrição judicial sobre o bem que o terceiro alega ser possuidor ou proprietário.
+9. Na hipótese dos autos, a recusa do registro do imóvel no nome da recorrente é efeito da atuação do oficial cartorário e não do deferimento do pedido de averbação do protesto na matrícula do imóvel, que é mero ato de publicidade do protesto e que não afeta a posse ou a propriedade de terceiro alheio ao procedimento, e que não configura apreensão judicial que possa, sequer em tese, ser reformada por meio de eventual julgamento de procedência dos embargos de terceiro. Inexistência de interesse processual por ausência do binômio utilidade-adequação.
+10. Recurso especial desprovido."
+(REsp n. 1.758.858/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/5/2020, DJe de 25/5/2020-grifou-se)
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. PROTESTO CONTRA ALIENAÇÃO DE BEM DE FAMÍLIA. LEGÍTIMO INTERESSE. NÃO PREJUDICIALIDADE DA EFETIVA MEDIDA. RECURSO DESPROVIDO.
+1. "A averbação, no Cartório de Registro de Imóveis, de protesto contra alienação de bem, está dentro do poder geral de cautela do juiz (art. 798, CPC) e se justifica pela necessidade de dar conhecimento do protesto a terceiros, prevenindo litígios e prejuízos para eventuais adquirentes" (EREsp 440.837/RS, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministro BARROS MONTEIRO, CORTE ESPECIAL, julgado em 16/08/2006, DJ 28/05/2007).
+2. Segundo a jurisprudência desta Corte Superior, o protesto contra a alienação de bens, previsto no art. 869 do CPC/1973 (art. 301 do CPC/2015), pressupõe dois requisitos: legítimo interesse e não prejudicialidade efetiva da medida. Precedentes.
+3. Em relação ao bem de família, o protesto contra alienação de bens não possui o objetivo de obstar ou anular o negócio jurídico de venda do imóvel impenhorável, mas somente de informar terceiros de boa-fé a respeito da pretensão do credor de penhora do bem, na hipótese de afastamento da proteção conferida pela Lei n. 8.009/1990.
+4. Assim, estão presentes os pressupostos para o protesto contra a alienação de bens, tendo em vista que a publicidade da pretensão é essencial para proteção de terceiros de boa-fé e preservação do direito do executante de futura constrição do imóvel, no caso da perda da qualidade de bem de família.
+5. Recurso especial a que se nega provimento."
+(REsp n. 1.236.057/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/4/2021, DJe de 28/4/2021- grifou-se)
+"RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. MANUTENÇÃO DA ORDEM DE INDISPONIBILIDADE RECAÍDA SOBRE MOTOCICLETA E IMÓVEIS. IMPOSSIBILIDADE DE REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. BEM DE FAMÍLIA. POSSIBILIDADE DE RESTRIÇÃO. SÚMULA N. 83/STJ.
+I - Trata-se, na origem, de agravo de instrumento interposto contra decisão proferida nos autos de improbidade administrativa, ajuizada pelo Ministério Público do Estado de Santa Catarina, que indeferiu a limitação da ordem de indisponibilidade a um único imóvel dos agravados. A decisão foi parcialmente reformada pelo Tribunal de origem. Contra o acórdão, os réus opuseram embargos de declaração, os quais foram desprovidos. Inconformados, os réus interpuseram o presente recurso especial, admitido pelo Tribunal a quo.
+II - Porquanto constatou o Tribunal de origem que os requisitos para a manutenção da indisponibilidade de bens estão presentes, é fácil perceber que, existindo qualquer passo além daqui, esta Corte Superior estaria revolvendo matéria probatória para funcionar como terceira instância na análise de fatos - dando-se de frente com o enunciado da Súmula n. 7/STJ. Afinal de contas, a função institucional do Superior Tribunal de Justiça é promover a interpretação com larga amplitude da Legislação Federal infraconstitucional a partir do desenho de fato já traçado pela instância recorrida. Ao lado do Supremo Tribunal Federal, funciona como autêntica Corte de Precedentes.
+III - O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que a decretação de indisponibilidade de bens pode recair sobre bem de família, Súmula n. 83/STJ.
+Precedentes: AgInt no REsp n. 1.772.897/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2019, DJe 16/12/2019; AgInt no REsp n. 1.633.282/SC, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 20/6/2017, DJe 26/6/2017; EDcl no AgRg no REsp n. 1.351.825/BA, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 22/9/2015, DJe 14/10/2015.
+IV - Recurso especial não conhecido."
+(REsp n. 1.837.848/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/3/2020, DJe de 10/3/2020- grifou-se)
+Nesse contexto, verifica-se que esta Corte tem orientação no sentido de que, ainda que imóvel se trate de bem de família, é perfeitamente possível a averbação premonitória.
+Logo, tem incidência o enunciado da Súmula nº 568/STJ, aplicável em ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
