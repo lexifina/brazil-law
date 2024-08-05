@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por DOUGLAS ANTUNES DOS SANTOS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 329):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+POLUIÇÃO ATMOSFÉRICA ADVINDA DE ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE SÃO JORGE). ALMIRANTE TAMANDARÉ. SENTENÇA DE IMPROCEDÊNCIA. MÉRITO. PROVA PERICIAL E TESTEMUNHAL.
+DEMONSTRAÇÃO SUFICIENTE ACERCA DA EFETIVA EXISTÊNCIA DE MAU CHEIRO NA REGIÃO. ODOR DESAGRADÁVEL E INTENSO. NEXO CAUSAL. ODORES ADVINDOS DA ESTAÇÃO DE TRATAMENTO.
+EMISSÃO DE GASES ORIUNDOS DO TRATAMENTO ANAERÓBICO DO ESGOTO. VÁLVULA EXTRAVASORA QUE DESPEJA ESGOTO NÃO TRATADO DIRETAMENTE NO RIO BARIGUI. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. TEORIA DO RISCO INTEGRAL. DANO MORAL DESCABIMENTO NO CASO CONCRETO. PARTE AUTORA QUE NÃO RESIDE NO RAIO DE 1 KM DE DISTÂNCIA DA ETE SÃO JORGE. INDENIZAÇÃO QUE NÃO PODE SER CONCEDIDA. AUTOR NÃO ATINGIDO PELA POLUIÇÃO. MANUTENÇÃO DA SENTENÇA POR FUNDAMENTO DIVERSO. HONORÁRIOS RECURSAIS. ART. 85, § 11 DO CPC.
+RECURSO DE APELAÇÃO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 374/379).
+A parte recorrente aponta violação 336, 341 e 373, caput e § 1º, 374, II e III, e 1.022, II, do CPC; e 14, § 1º, da Lei n. 6.938/1981.
+Sustenta, em resumo: (I) tese de negativa de prestação jurisdicional; (II) o local de residência é fato incontroverso nos autos já que, ao contestar a ação, a SANEPAR não impugnou esse ponto, devendo-se presumir verdadeira a informação indicada na inicial; (III) "aquele que desenvolve atividade poluidora responde objetivamente pelos danos causados ao meio ambiente e a terceiros, sendo suficiente a existência da ação lesiva, do dano e do nexo com a fonte poluidora ou degradadora para atribuição do dever de indenizar ou reparar tais danos" (fl. 392); e (IV) é caso de se "reconhecer a necessidade de inversão do ônus da prova e, em consequência, ser julgada procedente a ação, uma vez que a recorrida não se desincumbiu de seu ônus de comprovar que o recorrente residia em local diverso do indicado na inicial e nos documentos acostados aos autos" (fl. 395).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+De início, afasta-se a alegação de ofensa ao art. 1.022, II, do CPC, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A tanto, verifica-se, pela fundamentação do acórdão recorrido (fls. 329/344), integrada em sede de embargos declaratórios (fls. 374/379), que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Outrossim, não se descortina negativa de prestação jurisdicional, ao tão só argumento de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+De outro lado, sobre o tema objeto dos autos a jurisprudência desta Corte consagra que, "em que pese a responsabilidade por dano ambiental seja objetiva (e lastreada pela teoria do risco integral), faz-se imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador" (REsp 1.596.081/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 25/10/2017, DJe 22/11/2017).
+Ao apreciar a controvérsia, o Tribunal a quo asseverou (fls. 334/337):
+Desta forma, deve a apelada responder objetivamente pelas consequências da poluição decorrente da instalação da Estação de Tratamento de Esgoto - ETE São Jorge, independentemente da demonstração de culpa ou das causas excludentes de responsabilidade.
+Assim, demonstrado o dano e o nexo causal entre o mau cheiro suportado pelos moradores do Jardim Bonfim e o funcionamento da Estação de Tratamento de Esgoto São Jorge, é de se responsabilizar a concessionária de serviço público (Sanepar) pelos danos suportados pelos moradores da região.
+(..)
+Assim, conclui-se que o laudo pericial reconhece que há odores no local, decorrentes do tratamento de esgoto pelo método anaeróbico, e que tais odores são percebidos pela população local, havendo, assim, prova do nexo de causalidade entre o funcionamento da ETE São Jorge e os danos decorrentes do mau cheiro na região.
+Ora, na hipótese vertente, o acórdão recorrido concluiu que restou caracterizado o nexo causal entre a atividade poluidora e os danos advindos à população. Asseverou, contudo, que a parte recorrente não fazia jus à reparação por danos morais, pela seguinte fundamentação (fls. 342/344 ):
+No presente caso, considerando o comprovante de endereço acostado com a petição
+inicial (mov. 1.1, fl. 29 - autos originários) e os esclarecimentos prestados na manifestação de mov. 32.1-TJ, infere-se que o autor reside na "Prof. Antonio Rodrigues Dias, 28, Almirante Tamandaré/PR", fora do raio de 1km (um quilômetro) de distância da ETE São Jorge, como se pode verificar em pesquisa no aplicativo Google Maps, veja-se:
+(..)
+Dessa forma, a despeito dos fundamentos lançados, não há como considerar que o autor foi efetivamente atingido pela poluição constatada no local, vez que reside fora do raio de 1km de distância da ETE São Jorge.
+(..)
+Por conseguinte, o recurso de apelação deve ser desprovido, com a manutenção da sentença de improcedência dos pedidos iniciais, ainda que por fundamentação diversa.
+Nesse contexto, é certo que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice da Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+ EMENTA
