@@ -1,0 +1,11 @@
+DECISÃO
+SIRLON RISERIO DIAS SILVA alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 0302701-12.2014.8.05.0079.
+Nesta Corte, a defesa postula "seja reconhecida a ilicitude das provas oriundas da invasão de domicílio, e da busca e apreensão domiciliar, em razão da ausência de mandado a legitimar o procedimento, frente ao claro desvio de finalidade e fishing expedition" e, por conseguinte, "seja determinada a anulação desde o início da ação penal originária (0302701-12.2014.8.05.0079), com a expedição de alvará de soltura em favor do paciente" (ambos à fl. 11).
+Decido.
+Este habeas corpus se insurge contra acórdão que deu parcial provimento à apelação para absolver o réu do crime previsto no art. 35 da Lei n. 11.343/2006, transitado em julgado em 27/3/2017 (fl. 40). A impetração em análise foi manejada em 15/12/2023, mais de 6 anos após o trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
