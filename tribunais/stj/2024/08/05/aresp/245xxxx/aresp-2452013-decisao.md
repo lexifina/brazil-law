@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto por ROMARIO IZIDORIO SANTOS contra a decisão que não admitiu o recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado (e-STJ fl. 491):
+"APELAÇÃO CÍVEL  AÇÃO DE OBRIGAÇÃO DE FAZER COM TUTELA PROVISÓRIA E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS SERVIÇO DE INTERMEDIAÇÃO DIGITAL  MERCADO LIVRE -SUSPENSÃO DA CONTA DO VENDEDOR INOBSERVÂNCIA DOS TERMOS E CONDIÇÕES DE USO COM RELAÇÃO A COMERCIALIZAÇÃO DOS PRODUTOS DAS EMPRESAS REQUERIDAS LOREAL BRASIL E PUIG COMERCIALIZADORA - LIBERALIDADE DA PLATAFORMA DIGITAL MANUTENÇÃO DA SENTENÇA IMPROCEDÊNCIA DOS PEDIDOS INICIAIS - RECURSO CONHECIDO E IMPROVIDO - POR UNANIMIDADE."
+Os embargos de declaração opostos foram rejeitados nos seguintes termos (e-STJ fls. 501/502):
+"EMBARGOS DE DECLARAÇÃO  APELAÇÃO CÍVEL  AUSÊNCIA DE OMISSÃO NA DECISÃO COMBATIDA  REDISCUSSÃO DA MATÉRIA JÁ DECIDIDA  PREQUESTIONAMENTO - IMPOSSIBILIDADE  INEXISTÊNCIA DE AFRONTA AOS REQUISITOS DO ARTIGO 1.022, DO CPC  RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME. - Os Embargos de Declaração somente são cabíveis quando configurados um ou mais motivos descritos no artigo 1.022, do Novo Código de Processo Civil. - No caso concreto dos autos, o acórdão vergastado analisou as questões expostas na demanda, manifestando-se expressamente sobre todas as razões necessárias para fundamentar seu entendimento no sentido de que houve violação aos termos e condições de uso da plataforma digital e de que não houve nenhuma abusividade das requeridas, ressaltando a inaplicabilidade do CDC, inexistindo vícios a sanar;- Não verificadas quaisquer das hipóteses que autorizam os embargos, impõe-se o improvimento.- Embargos conhecidos e improvidos."
+No recurso especial, o recorrente alega violação aos arts. 2º e 4º, inciso I, ambos do Código de Defesa do Consumidor, ao argumento de que aplicável à hipótese dos autos a teoria finalista mitigada do destinatário final.
+Assevera contrariedade aos arts. 4º, inciso VI, 47 e 54, todos do CDC e arts. 422 e 423, ambos do Código Civil, em razão da natureza de contrato de adesão dos termos, condições e políticas da plataforma digital de anúncios e venda de produtos.
+Aponta negativa de vigência aos arts. 6º, inciso III e 51, inciso IV e §1º, inciso II, do CDC e art. 122, do CC, em razão da abusividade e, por conseguinte, a nulidade das disposições contratuais determinadas pela parte adversa.
+Afirma malferimento ao art. art. 132, inciso III, da Lei de Propriedade Industrial - Lei nº 9.279/1996, sob o fundamento de que não é cabível ao o titular da marca impor obstáculos à comercialização de produtos regularmente inseridos no mercado de consumo em obediência ao princípio do exaurimento da marca.
+Aduz ofensa art. 4º, inciso III, do CDC, em face da impossibilidade de restrição indevida à atividade econômica legitima e legalmente desenvolvida em meio eletrônico.
+Por fim, requerer o provimento do recurso especial.
+Houve apresentação de contrarrazões às e-STJ fls. 562/539 e 545/554.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, quanto à incidência do Código de Defesa do Consumidor, o Tribunal de Justiça de origem destacou o seguinte (e-STJ fl. 492):
+"(..)
+Inicialmente vale ressaltar a inaplicabilidade do Código de Defesa do Consumidor ao caso em comento, posto que não se trata de relação de consumo, uma vez que o apelante utilizava a plataforma digital para vender produtos, não sendo o destinatário final dos serviços oferecidos pelas mesmas, razão pela qual não se enquadra como consumidor."
+Assim, rever a conclusão do tribunal local acerca da incidência do CDC, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE CONTRATO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. HIPOSSUFICIÊNCIA NÃO ATESTADA. REVISÃO. SÚMULA 7/STJ. REEXAME. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO IMPROVIDO.
+1.Segundo a jurisprudência do Superior Tribunal, a teoria finalista pode ser mitigada, ampliando a aplicação do Código de Defesa do Consumidor nas relações jurídicas entre pessoas jurídicas, quando ficar demonstrada a vulnerabilidade técnica, jurídica ou econômica da pessoa jurídica em relação ao fornecedor, embora não seja tecnicamente a destinatária final dos produtos.
+2. No caso dos autos, o Tribunal de origem, ao analisar o caso em comento, consignou que a ora agravante não era a destinatária final do serviço, não reconhecendo, assim, sua hipossuficiência e afastando, por conseguinte, a aplicação da teoria finalista mitigada.
+2.1. Desse modo, a revisão da conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido."
+(AgInt no AREsp n. 2.498.507/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+No que tange à nulidade das cláusulas contratuais, o Tribunal de Justiça do Estado de Sergipe afastou as alegação de invalidez sob os seguintes fundamentos (e-STJ fls. 493/495):
+"(..)
+Como muito bem fundamentou o juízo sentenciante, a suspensão da conta do autor ocorreu de forma justificada, tendo a plataforma digital entendido que houve violação aos termos e condições de uso do aplicativo: In verbis:
+(..)
+Dessa forma, inexiste por parte da plataforma, qualquer ilegalidade na sua conduta. Do mesmo modo, a empresa não é obrigada a manter vínculo com quem não atende às políticas da companhia.
+No caso dos autos, o demandante não demonstrou os fatos constitutivos do seu direito (art. 373, I do CPC), sequer afastou as provas trazidas pela parte ré para justificar a quebra contratual.
+Ora, de fato a empresa é livre para contratar e optar por manter ou não contratos, não se pode compelir a parte a manter-se vinculada ou vincular-se a vendedor que, em tese, não atende às políticas da empresa, uma vez que as ações dos vendedores parceiros refletem, inevitavelmente, na imagem da Plataforma."
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. CONTRATO DE REPRESENTAÇÃO COMERCIAL E OUTRAS AVENÇAS. INADIMPLEMENTO. 1. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. NÃO CONFIGURADA. 2. APELAÇÃO DECIDIDA MONOCRATICAMENTE PELO DESEMBARGADOR RELATOR. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTES. 3. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. ACÓRDÃO PROFERIDO SOB A ÉGIDE DO CPC/1973. AUSÊNCIA DE NULIDADE. ENTENDIMENTO CONSOLIDADO PELO STJ. 4. INADMISSIBILIDADE DO RECURSO QUANTO AOS PONTOS RELACIONADOS AO MÉRITO DA CAUSA, INCLUSIVE QUANTO AOS ALEGADOS DISSÍDIOS JURISPRUDENCIAIS. ACÓRDÃO ESTADUAL QUE EXTRAIU SUAS CONCLUSÕES DO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 5. FIXAÇÃO DOS ÔNUS SUCUMBENCIAIS. PRETENDIDA REDISCUSSÃO SOBRE O NÍVEL DE DECAIMENTO DAS PARTES. IMPOSSIBILIDADE. SÚMULA 7/STJ. 6. AGRAVO INTERNO IMPROVIDO.
+1. Não há que se falar em negativa de prestação jurisdicional, pois todas as questões suscitadas foram devidamente examinadas no acórdão recorrido, razão pela qual afasta-se a alegação de violação do art. 535, II, do CPC/1973.
+2. Com efeito, não há que se falar em violação ao princípio da colegialidade, mormente porque o posterior julgamento do recurso, pelo Órgão colegiado, na via do Agravo interno, tem o condão de sanar eventual má aplicação das regras contidas nos arts. 555 e 557 do CPC/1973. Nesse sentido: STJ, AgInt no AREsp 1.617.342/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 03/12/2020.
+3. Sob a égide do Código de Processo Civil de 1973, vigente quando foi prolatado o acórdão recorrido, o entendimento do Superior Tribunal de Justiça era pacífico no sentido de se admitir a chamada fundamentação per relationem, não havendo qualquer nulidade na adoção dessa técnica de julgamento.
+4. No que concerne ao mérito, observa-se que o posicionamento do Tribunal estadual encontra-se alicerçado na apreciação de fatos e provas e do contrato acostados aos autos, o que impede o Superior Tribunal de Justiça de infirmar a conclusão adotada, pois, para tanto, seria indispensável o revolvimento do conjunto fático-probatório e o reexame das cláusulas contratuais, o que é vedado pelas Súmulas 5 e 7/STJ.
+5. A jurisprudência desta Corte firmou-se no sentido de que a aferição da proporção em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte.
+6. Agravo interno improvido."
+(AgInt no REsp n. 1.496.260/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+Em relação aos demais temas suscitados, quais sejam, natureza de contrato de adesão do pacto entabulado , violação da Lei de Propriedade Industrial e restrição ao desenvolvimento da atividade econômica no meio eletrônico, verifica-se que as referidas matérias não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Confira-se:
+"RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C RESTITUIÇÃO DE VALORES E OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PLANO DE SAÚDE COLETIVO. REAJUSTE ANUAL. AUMENTO DE SINISTRALIDADE NÃO DEMONSTRADO. ABUSIVIDADE CONFIGURADA. EMBARGOS DE DECLARAÇÃO. INTENTO MANIFESTAMENTE PROTELATÓRIO NÃO CARACTERIZADO. MULTA DO ART. 1026, § 2º, DO CPC, AFASTADA.
+1. Ação declaratória de nulidade de cláusula contratual c/c restituição de valores e obrigação de fazer, ajuizada em 19/06/2019, da qual foi extraído o presente recurso especial, interposto em 12/07/2023 e concluso ao gabinete em 10/11/2023.
+2. O propósito recursal é decidir sobre: (i) a negativa de prestação jurisdicional; (ii) a apuração, em liquidação de sentença, do índice de reajuste por aumento de sinistralidade aplicado pela operadora do plano de saúde coletivo e (iii) o cabimento da multa fundada na oposição de embargos de declaração manifestamente protelatórios.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm. 211/STJ).
+4. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+(..)
+10. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido."
+(REsp n. 2.108.270/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/4/2024, DJe de 26/4/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
