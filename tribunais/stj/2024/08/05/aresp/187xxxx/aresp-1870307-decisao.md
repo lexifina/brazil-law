@@ -1,0 +1,44 @@
+DECISÃO
+Em exame, agravo em recurso especial contra decisão que inadmitiu recurso especial interposto por UNIMED DE RIBEIRÃO PRETO COOPERATIVA DE TRABALHO MÉDICO, objetivando a reforma do acórdão assim ementado:
+DIREITO ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. APELAÇÃO. JUNTADA DO PROCESSO ADMINISTRATIVO. PRESCRIÇÃO INTERCORRENTE. AUTO DE INFRAÇÃO. ANS. INDEFERIMENTO DE AUTORIZAÇÃO PARA CIRURGIA BARIÁTRICA. APELAÇÃO NÃO PROVIDA.
+1. Não acarreta nulidade a falta de juntada do processo administrativo, pois sua existência material é atestada pela CDA, na qual estão todos os elementos necessários para que se proceda à execução fiscal do débito .
+2. Ressalte-se, no mais, que o processo administrativo correspondente à inscrição de Dívida Ativa, nos termos da lei de execuções fiscais, é mantido na repartição competente, ficando à disposição do contribuinte para extração de cópias.
+3. Nos termos do artigo 1º, § 1º, da Lei nº 9.873/99, a prescrição intercorrente somente pode ser tida por ocorrida quando for patente a inércia da ANS na análise do processo administrativo, vale dizer que os despachos, pareceres e demais encaminhamentos são considerados atos de impulsionamento destinados a fornecer subsídios ao julgamento recursal, que não permitem concluir pela paralisação do processo .
+4. Assim, no caso, os documentos constantes dos autos não indicam que o processo permaneceu paralisado por mais de três anos pendente de julgamento ou despacho, não restando configurada a prescrição intercorrente .
+5. A ora apelante foi autuada "por deixar de garantir cobertura mínima prevista na lei no que se refere à segmentação hospitalar do procedimento de gastroplastia para a paciente Regina Célia Jesuíno Perri". Alega, contudo, que a negativa se deu em decorrência de a paciente não preencher os requisitos mínimos previstos em lei, sobretudo por não possuir IMC superior a 40.
+6. Não procede a alegação. Isso porque o fato de a paciente não possuir IMC superior a 40 não a impede de fazer a cirurgia, desde que caracterizadas condições de saúde tais que indiquem a necessidade da realização do procedimento.
+7. Com efeito, consta dos autos relatório médico solicitando a cirurgia de gastroplastia, tendo diagnosticado a paciente como sendo portadora de obesidade grau 2 além de outras comorbidades: HAS, osteoartrose do joelho, síndrome metabólica, espiatose hepática e sinais de hepatopatia com distúrbios metabólicos e hérnia de hiato esofágico.
+8. Por outro lado, não traz a embargante/apelante nenhum laudo técnico a comprovar o contrário. Ressalta-se que o ônus de provar o fato constitutivo do direito alegado é sempre do autor, mormente quando diz respeito à execução fiscal baseada em certidão de dívida ativa, que goza de presunção de legitimidade e veracidade, a qual somente pode ser elidida com prova robusta em contrário, o que não se depreende dos autos.
+9. Ademais, segundo consta do relatório fiscal à fl. 106, a Resolução do Conselho Federal de Medicina n. 1.766/2005 prevê a indicação clínica para pacientes portadores de IMC acima de 35 kg/m2 associado a comorbidades como doenças agravadas pela obesidade, ou que ameacem a vida, tais como diabetes, apneia do sono, osteoartrites etc., o que é o caso da paciente.
+10. Por fim, não há falar em ilegalidade ou desproporcionalidade da multa aplicada, pois houve fiel observância dos termos previstos na legislação de regência, qual seja, a Lei 9.656/98, a qual previu para tanto valor máximo de R$1.000.000,00, enquanto a autora foi multada em R$ 48.000,00 .
+11. Apelação não provida.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos arts. 7º, 139, I, 373, § 1º e 438, II, do CPC, alegando a ocorrência de cerceamento de defesa, em razão da supressão do direito ao contraditório e à ampla defesa.
+Sustenta a ofensa aos arts. 1º, § 1º e 2º da Lei 9.783/1999 e aos 5º, II e 37 da CF/1988, sob o argumento de que houve a prescrição intercorrente, além da ausência de proporcionalidade na aplicação da sanção.
+Foram apresentadas contrarrazões.
+O recurso foi inadmitido na origem, o que ensejou a interposição do agravo.
+É o relatório.
+Passo a decidir.
+De início, não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+No caso, o Tribunal de origem concluiu pela regularidade do processo administrativo, afastando o suposto cerceamento de defesa, bem como a alegação de prescrição intercorrente, nos seguintes termos:
+Não acarreta nulidade a falta de juntada do processo administrativo, pois sua existência material é atestada pela CDA, na qual estão todos os elementos necessários para que se proceda à execução fiscal do débito.
+Ressalte-se, no mais, que o processo administrativo correspondente à inscrição de Dívida Ativa, nos termos da lei de execuções fiscais, é mantido na repartição competente, ficando à disposição do contribuinte para extração de cópias.
+ ..
+A referida prescrição intercorrente somente pode ser tida por ocorrida quando for patente a inércia da ANS na análise do processo administrativo, vale dizer que os despachos, pareceres e demais encaminhamentos são considerados atos de impulsionamento destinados a fornecer subsídios ao julgamento recursal, que não permitem concluir pela paralisação do processo.
+Assim, no caso, os documentos constantes dos autos não indicam que o processo permaneceu paralisado por mais de três anos pendente de julgamento ou despacho, não restando configurada a prescrição intercorrente.
+ ..
+Por fim, não há falar em ilegalidade ou desproporcionalidade da multa aplicada, pois houve fiel observância dos termos previstos na legislação de regência, qual seja, a Lei 9.656/98, a qual previu para tanto valor máximo de R$1.000.000,00, enquanto a autora foi multada em R$48.000,00.
+Assim, a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido, "no caso concreto, a alteração das premissas adotadas pela Corte de origem acerca da não ocorrência da prescrição intercorrente, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ (AgInt no AREsp 1.716.010/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 28/9/2023).
+A propósito, ainda, o seguinte precedente:
+ADMINISTRATIVO. AUTO DE INFRAÇÃO. IMPOSIÇÃO DE MULTA. AUSÊNCIA DE PRÉVIA AUTORIZAÇÃO DE FUNCIONAMENTO. ALEGAÇÃO DE INEXISTÊNCIA DE INFRAÇÃO E ALTERAÇÃO DAS SANÇÕES IMPOSTAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - No que diz respeito à alegação de violação de lei federal, verifica-se que a irresignação vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos assim decidiu (fls. 399-404): "Analisando o presente feito, verifica-se a legalidade da autuação (AI nº 19417) e consequente imposição da penalidade de multa pecuniária pela Agência Nacional de Saúde - ANS, por intermédio do PA 25785.001264/2006-25. A empresa impetrante tem como objeto social a administração de planos de saúde, e, portanto deveria estar registrada perante a ANS, bem como necessitava de prévia autorização de funcionamento. ..  Sobre o tema, a despeito da aplicação da letra fria da lei, não se pode deixar de considerar que a razoabilidade e o senso de justiça devem orientar a prática administrativa, de forma a permitir que no caso concreto diante das peculiaridades que a situação apresenta, seja passível de redução o valor da penalidade administrativa.  ..  No caso, a multa é devida, visto que efetivamente a empresa deu causa à autuação".
+III - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado n. 7 da Súmula do STJ.
+IV - A incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida impossibilidade da existência de identidade entre os paradigmas apresentados.
+ ..
+VII - Agravo interno improvido (AgInt no AREsp 1.022.608/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 10/4/2018).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhec er do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
