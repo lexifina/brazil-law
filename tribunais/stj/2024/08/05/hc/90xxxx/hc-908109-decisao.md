@@ -1,0 +1,15 @@
+DECISÃO
+JEFFERSON DE PAULA DA SILVA MEDEIROS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal Nº 1.0000.23.201332-6/001.
+Nas razões do writ, a defesa busca a redução da pena ante a incidência da atenuante da menoridade relativa.
+Instado a se manifestar, o Ministério Público opinou pela denegação da ordem.
+Decido.
+Em que pese o pleito defensivo de superação da Súmula n. 231 do STJ, destaco que este Tribunal Superior entende que, embora o julgamento da questão haja sido afetado à Terceira Seção, o teor do referido enunciado sumular continua sendo plenamente aplicado. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MITIGAÇÃO DA SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. SOBRESTAMENTO DO FEITO. INEXISTÊNCIA DE DETERMINAÇÃO. DOSIMETRIA. SEGUNDA FASE. IMPOSSIBILIDADE DE REDUÇÃO DA PENA A PATAMAR ABAIXO DO MÍNIMO. INCIDÊNCIA DA SÚMULA N. 231/STJ. AGRAVO DESPROVIDO.
+1. No âmbito desta Corte Superior, não obstante a Sexta Turma, em 21/3/2023, tenha aprovado a proposta de revisão da jurisprudência compendiada na Súmula n. 231/STJ, remetendo os autos dos Recursos Especiais ns. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, e convocando audiência pública para o dia 17/5/2023, nos termos do art. 125, § 2º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não houve determinação de sobrestamento dos feitos pelo então relator, Ministro Rogerio Schietti Cruz, consoante permitido no § 1º do respectivo dispositivo. Assim, não tendo sido determinado por este Tribunal Superior o sobrestamento das causas que versem a respeito da temática, inexiste óbice ao seu julgamento.
+2. Nos termos da Súmula n. 231 do STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+2.1. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+3. Agravo regimental desprovido
+(AgRg no AREsp n. 2.257.587/PA, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 27/9/2023).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se
+EMENTA
