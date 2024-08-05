@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DE SANTA CATARINA contra acórdão prolatado, por unanimidade, pela 5ª Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina no julgamento de Agravo de Instrumento, assim ementado (fl. 74e):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO.
+CUMPRIMENTO DE SENTENÇA INDIVIDUAL PROPOSTO POR SERVIDOR PÚBLICO EM FACE DO ESTADO DE SANTA CATARINA, QUE TEM COMO OBJETO A EXECUÇÃO DA DECISÃO PROFERIDA NOS AUTOS DA AÇÃO COLETIVA N. 0072300-28.2012.8.24.0023, ONDE FICOU RECONHECIDO QUE OS MEMBROS DA ASSOCIAÇÃO DE PRAÇAS DO ESTADO DE SANTA CATARINA - APRASC FAZEM JUS À PERCEPÇÃO DOS REFLEXOS DAS HORAS EXTRAS SOBRE FÉRIAS E GRATIFICAÇÃO NATALINA.
+ALTERAÇÃO DOS ÍNDICES FIXADOS PARA O CÁLCULO DOS CONSECTÁRIOS LEGAIS, COM BASE NOS TEMAS 810 DO STF E 905 DO STJ.
+DECISÃO UNIPESSOAL QUE, POR SUA VEZ, NEGOU PROVIMENTO AO RECURSO INTERPOSTO PELA FAZENDA PÚBLICA.
+1) INSURGÊNCIA DO ENTE PÚBLICO ESTADUAL, PARTE EXECUTADA NA ORIGEM.
+ALEGADO QUE NÃO HÁ UM POSICIONAMENTO DEFINITIVO ACERCA DA RELATIVIZAÇÃO DA COISA JULGADA EM MATÉRIA DE CORREÇÃO MONETÁRIA, TANTO QUE A CORTE SUPREMA, EM RECENTES DECISÕES, TEM DETERMINADO A SUSPENSÃO DOS PROCESSOS CORRELATOS ATÉ QUE SOBREVENHA O JULGAMENTO DEFINITIVO DO TEMA 1.170/STF.
+TESE AFASTADA.
+POSSIBILIDADE DE MODIFICAÇÃO DOS CONSECTÁRIOS LEGAIS ATÉ O TRÂNSITO EM JULGADO DO PROCESSO EXECUTIVO.
+AUSÊNCIA DE PRECLUSÃO OU OFENSA À COISA JULGADA, DIANTE DA APLICABILIDADE IMEDIATA DOS CRITÉRIOS ESTABELECIDOS NOS TEMAS 810 DO STF E 905 DO STJ.
+PRECEDENTES DESTA CORTE DE JUSTIÇA.
+TEMA 1.170/STF, ADEMAIS, LIMITADO À DISCUSSÃO A RESPEITO DOS JUROS MORATÓRIOS. INEXISTÊNCIA DE ORDEM DE SUSPENSÃO.
+DECISÃO UNIPESSOAL MANTIDA.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 507 do CPC/15, sustentando, em síntese, que: (a) após homologação dos cálculos ou não havendo impugnação sobre o cálculo apresentado, a matéria relacionada à aplicação do índice de correção monetária torna-se preclusa, bem como que a inadequação quanto aos critérios do cálculo não caracteriza erro material e não podem ser corrigidas de ofício e (b) que a parte recorrida iniciou o cumprimento de sentença com o índice por ela eleito e após o cálculo ter sido homologado, discordou do mesmo e invocou outro que a beneficiaria.
+Aduz, ainda, que "a discussão é distinta daquela realizada no julgamento dos Temas 810 e 1170/STF e trata de situações em que os cálculos já haviam sido homologados pelo juízo e, posteriormente, a parte ignora a preclusão que incide sobre tal ato e persegue a complementação de valores" (fl. 92e).
+Com contrarrazões (fls. 98/103e), o recurso foi admitido (fls. 106/108e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+O Recurso Especial não comporta conhecimento.
+O tribunal de origem decidiu ser possível a alteração dos índices de correção monetária e juros até o trânsito em julgado do processo executivo, sem implicar em preclusão ou ofensa à coisa julgada, segundo os critérios estabelecidos nos Temas 810 do STF e 905 do STJ, conforme se extrai dos seguintes excertos do acórdão recorrido (fls. 76/77e):
+Como já dito anteriormente, esta Corte de Justiça tem se posicionado no sentido de que "a alteração dos índices de correção monetária e juros, por constituírem verbas de trato sucessivo, pode ocorrer até o trânsito em julgado do processo executivo, independente do momento do trânsito em julgado do processo de conhecimento, sendo que o modo de complementação dos valores decorrentes da alteração dos consectários legais, se dentro do processo de cumprimento/execução de sentença inacabado ou via ação rescisória, constitui faculdade da parte, por certo sempre vedada a dupla percepção dos seus efeitos" (TJSC, Agravo de Instrumento n. 4033195-98.2019.8.24.0000, rel. Des. Sérgio Roberto Baasch Luz, Segunda Câmara de Direito Público, j. 7/3/2023).
+Logo, "é possível a alteração dos índices de correção monetária e juros até o trânsito em julgado do processo executivo, sem implicar em preclusão ou ofensa à coisa julgada, dada a aplicabilidade imediata dos critérios estabelecidos nos Temas n. 810 do STF e n. 905 do STJ" (TJSC, Agravo de Instrumento n. 5058112-28.2023.8.24.0000, rel. Des. Luiz Fernando Boller, Primeira Câmara de Direito Público, j. monocraticamente em 28/9/2023).
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014 - destaque meu).
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
