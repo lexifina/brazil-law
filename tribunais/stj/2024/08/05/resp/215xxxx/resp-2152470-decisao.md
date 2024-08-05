@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado por MARCO AURELIO IACOVELLI DE SOUZA, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, em julgamento ampliado (art. 942 do CPC), assim ementado (fl. 459):
+APELAÇÃO CÍVEL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA - EXTINTA EXECUÇÃO -VÍCIO NA CDA - INEXISTÊNCIA - INOCORRÊNCIA DA VEDAÇÃO À INSCRIÇÃO DE CHEQUE EM DÍVIDA ATIVA DA FAZENDA
+- Inexiste controvérsia acerca da emissão do cheque e o cancelamento da respectiva ordem de pagamento.
+- É certo que o cheque tem natureza de título executivo extrajudicial cuja cobrança se submete a regime próprio.
+- A fronteira entre as formas de satisfação de crédito pela Fazenda fica mais permeável após a Tese do Tema Repetitivo nº 777, segundo a qual "a Fazenda pública possui interesse e pode efetivar o protesto da CDA, documento de dívida, na forma do art. 1º, parágrafo único, da Lei 9.492/1997, com a redação dada pela Lei 12.767/2012".
+- A extração da CDA diante de uma confissão da dívida (consubstanciada, v. g., na Declaração de Débitos e Créditos Tributários Federais-DCTF ou na Guia de Informação e Apuração do ICMS - GIA) equivale a títulos, tais como o cheque. Precedente do STJ, por analogia.
+- Indiferente que a Fazenda já possua um instrumento singular e adequado para execução de seu crédito, nomeadamente, a Lei nº 6.830/1980. Não existe vedação à adoção de mecanismos de cobrança extrajudicial, como o protesto. Precedente do STJ, por analogia.
+- Se em um sentido a CDA foi equiparada, para efeitos de protesto, a outros títulos, não se vê, no sentido inverso, motivo que impeça a inscrição em dívida ativa de um cheque emitido para pagamento de tributo, máxime em face da ausência de proibição legal.
+- Nada obsta a inclusão do cheque (também título protestável) emitido pelo contribuinte entre as obrigações do §2º do art. 39 da Lei nº 4.320/1964.
+- Superada alegação de prescrição do cheque. Não cabe ao judiciário eleger como a Fazenda perseguirá seu crédito. Hígida inscrição do crédito consubstanciado em cheque emitido para pagamento de tributo reconhecidamente devido e não quitado, inexistindo óbice à extração da correspondente CDA que aparelha a Execução Fiscal, rito eleito pela Fazenda que não traz prejuízo ao Executado.
+- Deixa-se de fixar honorários advocatícios porque expressamente prevista, na CDA que instrui a Execução, a verba do §1º do art. 37-A da Lei nº 10.522/2002, que, por ser norma especial, afasta a regra do CPC.
+- Apelação provida.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 493/496.
+A parte recorrente aponta, além de dissídio pretoriano, violação aos arts. 202, III e 203, do CTN; bem assim à Súmula 392/STJ. Sustenta, em resumo, a "nulidade da CDA, tendo em vista que o dispositivo legal infringido deveria ser a fundamentação da taxa objeto de pagamento,  ..  e não  a lei do cheque" (fl. 504), tendo andado mal o acórdão recorrido ao permitir "a alteração da Certidão de Dívida Ativa para alterar a fundamentação legal de sua cobrança" (fl. 513).
+Contrarrazões apresentadas às fls. 529/532.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No que se refere à alegada infringência à Súmula 392/STJ, esta Corte cristalizou o entendimento de que, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+A matéria pertinente ao art. 202, III, do CTN não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão (cf fls. 467/473). Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+Outrossim, ainda que se pudesse, por esforço interpretativo, entender superado o óbice anterior, tem-se que os dispositivos legais indicados como malferidos não contêm comando capaz de sustentar a tese recursal de que "o dispositivo legal infringido deveria ser a fundamentação da taxa objeto de pagamento,  ..  e não  a lei do cheque" (fl. 504), nem de infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia "). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
