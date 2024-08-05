@@ -1,0 +1,29 @@
+DECISÃO
+RODRIGO TRINDADE DA SILVA alega sofrer constrangimento ilegal no seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1508390-60.2022.8.26.0050.
+O agravante foi condenado, pelos crimes previstos nos arts. 158, § 3º, e 159, § 1º, do Código Penal, à sanção de 24 anos e 6 meses de reclusão mais 12 dias-multa, em regime inicial fechado.
+A  defesa  apontou ilegalidade no não reconhecimento da atenuante da confissão espontânea e de sua não compensação integral com a reincidência.
+O  Ministério  Público  Federal , às fls. 175-180,  opinou  pela concessão da ordem de habeas corpus, de ofício.
+Decido.
+I.  Confissão espontânea - compensação com a reincidência
+A  Corte  de  origem,  em relação à confissão espontânea,  consignou  o seguinte  (fls. 154-157, grifei):
+ ..
+As versões apresentadas pelos indigitados em Juízo, todavia, restaram absolutamente divorciadas do conjunto probatório angariado.
+Como visto, são fartos os elementos de prova apontando a participação de cada um deles nos delitos ora enfocados. Para além dos seguros e precisos reconhecimentos efetivados pelas vítimas, vale destacar:
+i) as confissões extrajudiciais de Rogeiro Luiz (acompanhado de advogada), William e Rodrigo, trazendo minúcias a respeito da operação criminosa - a preparação, a função exercida por cada um, inclusive com revelação do local utilizado como cativeiro -, aspectos que apenas os autores dos delitos poderiam declinar; inclusive, a participação de Jefferson na infrações foi trazida a lume pelos três réus confessos à primeira hora; o envolvimento de Thalita, a seu turno, foi revelado por Rogerio Luiz;
+ ..
+Não se há cogitar outrossim de confissão espontânea. No que tange a Jefferson, Willian, Rodrigo e Thalita, porque recusaram as imputações em Juízo. No atinente a Rogerio Luiz, porque admitiu apenas parcialmente os fatos. Como sabido, a confissão, para que tenha característica de circunstância atenuante, deve se apresentar como ato indicativo de lealdade processual; deve traduzir sentimento de arrependimento e se apresentar relevante para a elucidação da autoria até então duvidosa. A confissão, por si só, não atenua a penal. Até porque pode decorrer da impossibilidade de se negar a autoria, quando ofuscantemente exposta pela d. Acusação. Ainda que se trate de confissão voluntária, isso não será o bastante, impondo que se apresente ela, também, de forma espontânea, isto é, que seja fruto de iniciativa exclusiva e pessoal de quem confessa. O que importa, em síntese, é o "motivo" que leva o acusado a não se eximir da responsabilidade. Por isso, se ele confessa, vencido por tudo aquilo que o incrimina, sem que seu procedimento se revista daquelas características indicativas do propósito de prestar um serviço à justiça e de simplificar a instrução criminal, não incidirá a atenuante em questão. Que não terá aplicação, igualmente, quando se tratar de confissão parcial, como no caso presente, em que Rogerio Luiz apenas reconheceu ter permanecido no imóvel utilizado como cativeiro, bem como ter efetuado uma ligação (não esclareceu a quem, entretanto), recusando sua participação no planejamento dos delitos, no arrebatamento das vítimas, na condução delas ao cativeiro, no pedido de resgate e na transferência de Bitcoins. Apresentou, evidentemente, a versão dos fatos que o favorecia.
+A confissão do réu deve ser reconhecida se influenciou o convencimento judicial. É irrelevante o fato de haver sido espontânea ou não, total ou parcial, ou até que haja ocorrido posterior retratação.
+De acordo com o entendimento desta Corte Superior: "A confissão espontânea do réu, ainda que tenha sido parcial ou qualificada, deve ser reconhecida, de modo a ensejar a atenuação da pena, se influenciou o convencimento judicial" (HC n. 236.624/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2016).
+Portanto, sem sombra de dúvidas, as instâncias antecedentes se valeram, em seu convencimento, das confissões dos acusados Rogerio, Willian e Rodrigo, ainda que qualificadas, uma vez que as suas declarações contribuíram para o juízo de certeza sobre a autoria delitiva.
+No julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Portanto, de rigor a compensação da atenuante da confissão espontânea com a agravante da reincidência, no caso concreto, para os réus Rodrigo, Rogerio e William.
+Passo, pois, à readequação das reprimendas.
+Mantida a avaliação desfavorável da vetorial antecedentes, para os três, ficam as penas- bases, para ambos os ilícitos, fixadas em 7 anos de reclusão mais 11 dias-multa (art. 158, § 3º, do CP) e 14 anos de reclusão (art. 159, §1º, do CP).
+Na segunda fase, para os três acusados, a agravante da reincidência será compensada com a atenuante da confissão espontânea.
+Na etapa final, ausentes causas de diminuição e de aumento, a pena definitiva, para os três investigados, será de 21 anos de reclusão mais 11 dias-multa.
+O regime inicial permanece o fechado, em vista da quantidade de pena fixada, da existência de circunstância judicial desfavorável e da reincidência dos acusados.
+Ficam mantidos os demais termos do acórdão recorrido.
+II.  Dispositivo
+À  vista  do  exposto,  concedo a ordem de habeas corpus para Rodrigo Trindade da Silva e, de ofício, para Rogerio Luiz Correa Santana e Willian Cortez de Araujo, a fim de estabelecer-lhes as penas definitivas de 21 anos de reclusão mais 11 dias-multa, no regime inicial fechado.
+Publique-se  e  intimem-se.
+EMENTA
