@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TRANSRIO CAMINHOES ONIBUS MAQUINAS E MOTORES LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo de instrumento: interposto pela recorrente contra decisão, proferida nos autos de ação de cobrança, que reconheceu a relação de consumo entre as partes, rejeitou a alegação de decadência e indeferiu o pedido de chamamento ao processo.
+Acórdão: negou provimento ao agravo de instrumento interposto, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA. COMPRA E VENDA DE CAMINHÃO.
+PEDIDO DE AFASTAMENTO DA APLICABILIDADE DO CDC AO CASO CONCRETO. PESSOA JURÍDICA. COMPRA E VENDA DE VEÍCULO PARA DESEMPENHO DA ATIVIDADE COMERCIAL. RELAÇÃO DE CONSUMO EVIDENCIADA NA ESPÉCIE. APLICAÇÃO DA "TEORIA FINALISTA MITIGADA". PREENCHIMENTO DOS REQUISITOS ESTIPULADOS NA LEI DE REGÊNCIA. PRECEDENTES.
+DECADÊNCIA. DESACOLHIMENTO. NÃO IMPLEMENTO DO PRAZO DE 90 DIAS PARA RECLAMAR, CONTADOS A PARTIR DA RESPOSTA DADA AO CONSUMIDOR SOBRE A CONSTATAÇÃO DO PROPALADO VÍCIO. PREJUDICIAL REJEITADA.
+PEDIDO DE CHAMAMENTO AO PROCESSO DO FABRICANTE. AFASTAMENTO. LEGISLAÇÃO DE REGÊNCIA QUE FACULTA AO CONSUMIDOR CONTRA QUEM DESEJA DEMANDAR, CABENDO AO FORNECEDOR O DIREITO DE REGRESSO. INTELIGÊNCIA DOS ARTS. 17 E 18 DO CDC. PRECEDENTES DESTA CORTE DE JUSTIÇA. DECISÃO CONFIRMADA.
+RECURSO DESPROVIDO. UNÂNIME. (fl. 93, e-STJ)
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação dos arts. 489 e 1022 do CPC; ii) aplicação da Súmula 83/STJ (teoria finalista mitigada); iii) incidência da Súmula 83/STJ (responsabilidade solidária); iv) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "Consoante demonstrado detalhadamente no Recurso Especial, a Agravante interpôs tempestivos Embargos de Declaração ao v. acórdão do Agravo de Instrumento, para sanar omissões, pois deixou o c. Tribunal "a quo" reconhecer o transcurso do prazo decadencial entre a venda e a reclamação, para o pedido redibitório da ora Agravada"; ii) "o Recurso Especial manejado não demonstrou intenção de rediscutir matéria fática ou probatória, mas sim de ver corretamente aplicado o Direito em discussão, com base na própria interpretação dos fatos dada pelo acórdão atacado"; iii) "a jurisprudência do Superior Tribunal de Justiça já demonstrou compartilhar do posicionamento defendido pela Agravante em relação à aplicação do Art. 2º e Art. 6º do Código de Defesa do Consumidor."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) aplicação da Súmula 83/STJ (teoria finalista mitigada); ii) incidência da Súmula 83/STJ (responsabilidade solidária); iii) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
