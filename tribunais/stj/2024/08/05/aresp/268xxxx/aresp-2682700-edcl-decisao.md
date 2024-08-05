@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MAURO SOARES RIBEIRO em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que "a decisão agravada deixou de analisar os tópicos do agravo em recurso especial, os quais atacaram de maneira específica e pormenorizada não só a similitude fática entre a decisão agravada e a paradigma, bem como, a não aplicação da Súmula 7 STJ" (fl. 1225).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Tendo em vista as razões lançadas pelo ora embargante em sua petição, acolho os embargos de declaração, conferindo-lhes efeitos infringentes, para tornar sem efeito a decisão embargada, e determino a distribuição dos autos.
+Publique-se. Intimem-se.
+ EMENTA
