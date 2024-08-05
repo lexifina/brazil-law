@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por ANGELICA MANGIACAPRA e FÁBIO ROGÉRIO RODRIGUES DA SILVA contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 236):
+APELAÇÃO. DIREITO CIVIL. ACIDENTE DE TRÂNSITO. COLISÃO DE MOTOCICLETA CONTRA VEÍCULO ESTACIONADO IRREGULARMENTE. CERCEAMENTO DE DEFESA NÃO VERIFICADO. IRREGULARIDADE ADMINISTRATIVA QUE NÃO FOI A CAUSA DETERMINANTE DO ACIDENTE. AUSÊNCIA DE NEXO CAUSAL.
+1. Ação julgada improcedente. Inconformismo dos autores insuficiente para inversão do resultado da demanda.
+2. Inocorrência de cerceamento de defesa.
+3. Eventual irregularidade administrativa de trânsito que não induz, necessariamente, culpa pelo acidente. Causa determinante do sinistro não demonstrada. Prevalência da melhor prova. Ausência de nexo causal.
+4. Recurso dos autores desprovido. Sentença mantida.
+Nas razões do recurso especial (e-STJ, fls. 246-254), os recorrentes apontaram violação aos arts. 370 e 373, I, do CPC/2015.
+Sustentaram, em síntese, a necessidade de reabertura da instrução probatória, para oportunizar aos autores a comprovação de que a colisão decorreu da conduta do motorista da empresa recorrida, que deve ser responsabilizada pelo evento danoso, que culminou na morte do único filho dos recorrentes.
+Foram apresentadas contrarrazões (e-STJ, fls. 267-277).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem concluiu que a pretensão de produção de outras provas se revelava inútil para a solução do deslinde e o magistrado de origem verificou a suficiência dos elementos de convicção para a solução do processo.
+Nesses termos, confira-se o seguinte excerto do voto (e-STJ, fls. 238-242, sem grifo no original):
+1. Não ocorreu cerceamento de defesa porque as questões postas nos autos, confrontadas com os documentos que deles constam, indicam a dispensabilidade de outras provas, cumprindo destacar que a prova é dirigida ao juiz, para seu convencimento, a quem compete decidir sobre sua conveniência e oportunidade.
+Não se pode perder de vista que "o juízo de relevância implica um juízo preliminar de utilidade da prova, isto é, somente as provas que possam contribuir à demonstração do fato jurídico é que podem ser consideradas relevantes" (EDUARDO CAMBI, A prova civil. Admissibilidade e relevância. São Paulo: RT, 2006, p. 262).
+( )
+II. Mérito:
+1. Voto pela confirmação da r. sentença de fls.196/200, porque a nobre juíza deu adequada solução à lide, nada havendo a ser alterado.
+2. Pretendemos apelantes o recebimento de indenização para reparação de danos morais derivados de acidente de trânsito ocorrido em 20.05.2021, que acarretou a morte de Caio Rodrigues da Silva, filho dos autores, divergindo as partes quanto à responsabilidade pelo acidente.
+3. Em que pese o reconhecimento pelas agruras enfrentadas pelos autores, e o doloroso desfecho do acidente, que implicou na morte prematura do filho dos requerentes, aos 25 anos, a prova dos autos não favorece os apelantes porque a dinâmica do acidente, demonstrada especialmente pelas fotografias de fls. 149 e 152 do laudo pericial produzido pelo Instituto de Criminalística da Polícia Civil (fls. 146/151), evidencia que a culpa do acidente ocorreu exclusivamente pelo condutor da motocicleta, que, ao que tudo indica, perdeu o controle da direção e colidiu na traseira do reboque, em face do que não há nada a infirmar os fundamentos da r. sentença, proferida nos seguintes termos:
+"(..) Consta no laudo pericial (fls. 146/161) que o local dos fatos se trata de via de acesso asfaltada, em boas condições e que, no momento do acidente, estava seca e, na descrição dos veículos, que o caminhão e a motocicleta apresentavam danos.
+Em continuação, relata o perito que, por motivos desconhecidos, a motocicleta conduzida pelo filho dos autores tombou à esquerda, atritou-se sobre o pavimento e colidiu seu setor anterior contra o setor posterior do veículo do tipo reboque, da marca Grimaldi, cor azul, contendo as inscrições "Bomba Sucata", placa MXC-3658/Franca-SP, o qual encontrava-se imobilizado na faixa de rolamento de sentido de tráfego Av. Eng. Camilo Dinucci R. Conceição Teixeira de Mendonça, distante 1,77 metro do passeio público à direita (fls.161).
+O fato de o veículo da ré estar estacionado eventualmente em desacordo com a legislação de trânsito não apresentou nenhuma relevância ou preponderância na causa direta para ocorrência do acidente, cuja causa determinante e eficiente derivou do fato de o motorista falecido possivelmente ter dirigido com imprudência ou imperícia, uma vez que, não teve a capacidade de conduzir adequadamente o veículo, tombando a motocicleta em movimento, e evitar a colisão com o carro da ré que estava estacionado.
+O estacionamento irregular constitui infração administrativa, cuja penalidade não se confunde com a responsabilidade civil.( )
+É inegável que o falecido não observou as regras, de modo que nada justificava a colisão, a evidenciar que houve imprudência e imperícia por parte dele, que não adotou os cuidados necessários e não soube como evitar o choque. Ao que tudo indica, Caio Rodrigues da Silva, infelizmente foi realmente surpreendido. No entanto, por sua própria responsabilidade, posto que, por motivos desconhecidos, perdeu o controle da motocicleta e caiu na via, onde a presença de algum veículo era previsível, cabendo a ele tomar as medidas de segurança para evitar o acidente, como por exemplo trafegar em velocidade reduzida.
+Lastima-se o falecimento de um jovem rapaz de apenas vinte e cinco anos de idade, mas não comprovada a culpa da ré pelo acidente noticiado nos autos, é de rigor a improcedência da ação principal".
+4. Além disso, não é demais ponderar que:
+(a) Nos acidentes de trânsito em que as partes divergem sobre a culpa pelo sinistro, deve prevalecer a melhor provados autos, a causa determinante mais provável do acidente e a melhor interpretação que a mecânica do sinistro permite.
+(b) No juízo criminal, o inquérito policial foi arquivado a pedido do i. representante do Ministério Público(fls.181/185), e embora tal decisão não seja vinculante, não se pode desconsiderar que decisões judiciais contraditórias sempre causam indignação nos jurisdicionados e fomentam a insegurança jurídica, daí porque a resposta que o Estado deu ao fato tem ser adotada como ponto final da querela.
+( )
+5. Diante deste quadro, como não estão reunidos todos os elementos da etiologia da responsabilidade civil, não há o dever de indenizar, circunstância que dispensa exame do dano afirmado.
+Esta Corte Superior entende que "o destinatário final da prova é o juiz, a quem cabe avaliar quanto a sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015" (AgInt no REsp n. 1.931.678/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 21/11/2023, DJe de 23/11/2023).
+Portanto, não há cerceamento de defesa se o julgador, ao constatar nos autos a existência de elementos de convicção suficientes para o seu convencimento, indefere o pedido de produção de prova.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. A jurisprudência do STJ é firme no sentido de que os princípios da livre admissibilidade da prova e da persuasão racional, nos termos dos arts. 370 e 371 do atual Código de Processo Civil, autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, como ocorreu no presente caso.
+1.1. Inexiste nulidade quando o julgamento antecipado da lide decorre, justamente, do entendimento do Juízo a quo de que o feito encontra-se devidamente instruído com os documentos trazidos pelas partes. Incidência da Súmula 83/STJ.
+1.2. O acolhimento do inconformismo recursal, no sentido de aferir a suficiência das provas constantes dos autos, bem como analisar a existência do apontado cerceamento de defesa implicaria no revolvimento de todo o contexto fático-probatório, providência que esbarra no óbice da Súmula 7/STJ.
+2. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.502.451/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024.)
+Assim, para alterar o entendimento do Tribunal estadual - e concluir pela imprescindibilidade de produção de outras provas, notadamente a testemunhal - é necessário o reexame do conjunto fático-probatório dos autos, pretensão incompatível com o rito do recurso especial, nos termos da Súmula 7/STJ.
+Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 369 DO CPC/2015. NÃO OCORRÊNCIA. COMPLEMENTAÇÃO DE PROVA PERICIAL. DESNECESSIDADE RECONHECIDA PELO TRIBUNAL A QUO. PROCESSO DEVIDAMENTE INSTRUÍDO. PRETENSÃO DE MODIFICAR TAL ENTENDIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O eg. Tribunal de Justiça, em razão do acervo probatório já produzido nos autos, concluiu que era desnecessária a complementação de laudo pericial pretendida pela parte ora agravante.
+2. Na hipótese, a modificação do entendimento firmado pelas instâncias ordinárias demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos do enunciado sumular n. 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.438.495/MS, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024; sem grifos no original.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. ERRO MÉDICO. VIOLAÇÃO. ART. 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO NO JULGADO. MULTA. ART. 1.026 DO CPC/15. PRESERVAÇÃO. NULIDADE. COMPLEMENTAÇÃO DE PROVA PERICIAL. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULAS Nº 7 E 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em violação do art. 1.022 do NCPC quando a matéria em exame foi devidamente enfrentada pelo Tribunal estadual, que emitiu pronunciamento de forma clara e fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+3. Em razão de os embargos se mostrarem manifestamente protelatórios deve ser cominada a multa prevista em seu art. 1.026, § 2º do CPC/15.
+4. De acordo com a orientação jurisprudencial vigente nesta Corte Superior, pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo nulidade processual quando, mediante decisão fundamentada, indefere-se pedido de dilação da instrução probatória.
+5. A reforma da conclusão a que chegou o acórdão recorrido quanto a existência de responsabilidade do médico, demanda a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da mencionada Súmula nº 7 desta Corte.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.415.718/PR, Relator o Ministro Moura Ribeiro, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022; sem grifos no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DE PROVAS VERIFICADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
