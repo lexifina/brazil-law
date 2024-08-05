@@ -1,0 +1,47 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA. PRESCRIÇÃO DECENAL. LICENÇA-PRÊMIO E FÉRIAS NÃO GOZADAS. AUXÍLIO-ALIMENTAÇÃO E AUXÍLIO-EDUCAÇÃO. VERBAS INDENIZATÓRIAS. NÃO INCIDÊNCIA DA EXAÇÃO. ADIANTAMENTO DE FÉRIAS E TERÇO CONSTITUCIONAL INCIDENTE SOBRE AS MESMAS REFEREM-SEA PAGAMENTO SALARIAL, CONFIGURANDO ACRÉSCIMO PATRIMONIAL. CORREÇÃO MONETÁRIA MANTIDA.
+Em se tratando de tributos sujeitos ao lançamento por homologação, o prazo prescricional para haver a restituição e/ou compensação é de cinco anos, contados da ocorrência do fato gerador, acrescido de mais cinco anos, contados da data em que se deu a homologação expressa ou tácita. Portanto, não há que se falar em prescrição, uma vez que a ação foi interposta em julho de 1997 e apenas valores referentes ao decênio anterior à propositura da ação é que seriam atingidos pela prescrição.
+Não incide imposto de renda sobre o pagamento de férias não gozadas e de licença-prêmio, por terem tais verbas natureza indenizatória, não configurando acréscimo patrimonial de qualquer natureza ou renda a configurar a hipótese de incidência do Imposto de Renda tipificada no art. 43 do CTN. Matéria pacificada na jurisprudência dos Tribunais e do Superior Tribunal de Justiça (Súmula nºs 125 e 136 do eg. STJ).
+A eg. Corte Superior posicionou-se, ainda, pela desnecessidade de comprovação de que as férias não foram gozadas por necessidade do serviço. Entendimento que não se aplica apenas aos servidores públicos, tendo em vista a aplicação, no caso, do princípio da isonomia ampliada (equivalência) entre os servidores públicos e privados.
+A natureza indenizatória do auxílio-alimentação também foi reconhecida pelo Excelso Supremo Tribunal Federal (RE nº 323019/R5).
+Igualmente o auxílio educação não configura retribuição a um trabalho, possuindo natureza indenizatória. Precedentes do STJ.
+As verbas anotadas nos recibos de pagamento de salário, referentes a adiantamento de férias, não caracterizam indenização e sim pagamento salarial.
+Igualmente o terço constitucional de férias também possui caráter salarial, e, portanto, de acréscimo patrimonial. Cabe frisar, portanto, que, em se tratando de férias, apenas o abono pecuniário tem caráter indenizatório, devendo-se excluir do cálculo da restituição os valores descontados a título de adiantamento de férias e de terço constitucional.
+Mantida a correção monetária, visto que o mesmo tratamento dispensado ao contribuinte deve naturalmente ser aplicado ao Fisco, sob pena de se violar o princípio constitucional da isonomia. (fls. 884/885)
+Os embargos de declaração foram rejeitados (fls. 899/904).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta, ofensa aos arts. 333, I, e 535, II, do CPC; 43 e 111 do CTN; e 6º da Lei 7.713/1988.
+Contrarrazões às fls. 922/932.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Decido.
+Inicialmente, quanto à apontada violação ao art. 535, II, do CPC/1973, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que, apesar de a doadora do bem não haver sido pessoalmente citada para responder pela execução da pessoa jurídica, à época da doação do imóvel, o processo foi iniciado em 1981 e os donatários pertenciam ao quadro social da executada à época, o configura o consilium fraudis apto a ensejar fraude à execução no caso.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 458 do CPC/1973, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+De outra parte, cabe assinalar que a alegada ofensa ao art. 333, I, do CPC/1973 não tem como ser apreciada, tendo em vista que tal questão foi suscitada apenas em sede de embargos de declaração do acórdão que julgou a apelação interposta. Configurada, portanto, a preclusão lógica, tendo em vista o disposto no art. 473 do CPC/1973, aplicável à época.
+No tocante à alegada incidência de IRPF sobre abono pecuniário e licença prêmio não gozada, esta Corte possui jurisprudência sumulada no sentido da não tributação de tais verbas:
+Súmula 125: O pagamento de férias não gozadas por necessidade do serviço não está sujeito a incidência do imposto de renda.
+Súmula 136: O pagamento de licença-prêmio não gozada por necessidade do serviço não está sujeito ao imposto de renda.
+Já com referência aos valores recebidos a título de auxílio alimentação e auxílio educação, está firmado o posicionamento deste Tribunal Superior no sentido de que possuem natureza indenizatória, não constituindo portanto acréscimo patrimonial suscetível de tributação sobre a renda.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUXÍLIO-ALIMENTAÇÃO. NATUREZA INDENIZATÓRIA. IRPF. NÃO INCIDÊNCIA.
+1. Não há violação do art. 932, IV, do CPC, porquanto a decisão monocrática fundamentou-se na jurisprudência desta Corte. Eventual violação do devido processo legal fica suprida com a apreciação do agravo interno pelo colegiado.
+2. O fato gerador do imposto de renda é a aquisição de disponibilidade econômica ou jurídica decorrente de acréscimo patrimonial (art. 43 do CTN). 3. Não incide imposto de renda sobre as verbas recebidas a título de indenização. Precedentes Agravo interno improvido (AgInt no PUIL n. 1.316/DF, relator Ministro Humberto Martins, Primeira Seção, julgado em 18/4/2023, DJe de 20/4/2023).
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA. NÃO INCIDÊNCIA SOBRE AUXÍLIO-ALIMENTAÇÃO. PRECEDENTES.
+1. O entendimento desta Corte é no sentido de que não incide imposto de renda sobre o auxílio alimentação por possuí natureza indenizatória. Precedentes: REsp 1.278.076/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/10/2011; AgRg no REsp 1.177.624/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 23/4/2010.
+2. Agravo interno não provido (AgInt no REsp n. 1.633.932/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/3/2018, DJe de 12/4/2018 - Grifo nosso).
+PREVIDENCIÁRIO. AUXÍLIO-EDUCAÇÃO. BOLSA DE ESTUDO. VERBA DE CARÁTER INDENIZATÓRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE BASE DE CÁLCULO DO SALÁRIO DE CONTRIBUIÇÃO. IMPOSSIBILIDADE.
+1. O STJ tem pacífica jurisprudência no sentido de que o auxílio-educação, embora contenha valor econômico, constitui investimento na qualificação de empregados, não podendo ser considerado como salário in natura, porquanto não retribui o trabalho efetivo, não integrando, desse modo, a remuneração do empregado. É verba utilizada para o trabalho, e não pelo trabalho.
+2. Recurso Especial provido (REsp n. 1.666.066/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2017, DJe de 30/6/2017 - Grifo nosso).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE AUXÍLIO-EDUCAÇÃO E ABONO ASSIDUIDADE. NÃO INCIDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual as verbas recebidas pelo trabalhador a título de auxílio-educação e de ausência permitida ao trabalho (abono assiduidade) não integram o salário-de-contribuição para fins de incidência de contribuição previdenciária, visto ostentarem caráter indenizatório.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido (AgInt no REsp n. 2.000.569/CE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 19/9/2022, DJe de 23/9/2022)
+Dessa maneira, merece ser mantido o acórdão recorrido, por estar em conformidade com a jurisprudência consolidada nesta Corte, acima referida.
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
