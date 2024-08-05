@@ -1,0 +1,59 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu recurso especial com fundamento na ausência de violação ao art. 1.022 do CPC e aplicação da Súmula 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso especial não merece prosperar.
+Súmula 284/STF
+No que tange à alegada violação aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC/15, o recurso não merece conhecimento.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial, porquanto não permite a exata compreensão da controvérsia, incidindo, pois, à espécie, o óbice da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. SÚMULA N. 284/STF. VIOLAÇÃO DO ART. 489, I E IV, DO CPC. SÚMULA N. 211/STJ. INCONSTITUCIONALIDADE DO ADICIONAL SOBRE O VALOR DAS TAXAS DE LICENÇA E FUNCIONAMENTO. COMPETÊNCIA DO STF E SÚMULA N. 280/STF. AGRAVO INTERNO NÃO PROVIDO.1. O acolhimento da preliminar de violação do art. 1.022 do CPC exige que o recorrente aponte com clareza o vício do qual padece o aresto combatido, bem como que demonstre a relevância dele à conclusão do julgado, de forma que, se analisado a contento, poderia levar à alteração do resultado do julgamento. A argumentação genérica no sentido de que houve ofensa ao art. 1.022 do CPC, consoante ocorreu in casu, atrai a incidência da Súmula n. 284/STF. .. 6. Agravo interno não provido (AgInt no AREsp n. 2.263.749/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. ANÁLISE PER SALTUM DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULA 284/STF. INCIDÊNCIA. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO.1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF. .. 5. Agravo interno não provido.(AgInt nos EDcl no AgInt no REsp n. 1.704.745/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023).
+Súmula 280/STF
+No que tange à matéria versada nos autos, o Tribunal de origem assim se manifestou (fl. 3187):
+A responsabilidade solidária do devedor fiduciário ou arrendatário não resulta na exclusão da sujeição da arrendadora, proprietária do veículo, como contribuinte do imposto. Por isso, ainda que se acolha a sujeição passiva do arrendatário como contribuinte, a autora continua solidariamente responsável pelo pagamento do IPVA, por ser possuidora indireta do bem, nos termos do art. 6º, XI, da Lei Estadual nº 13.296/08.
+Verifica-se, portanto, que a Corte de origem decidiu a controvérsia dos autos com base, essencialmente, nos termos da legislação estadual. Desse modo, considerando que a fundamentação utilizada pela origem não diz respeito à legislação federal, torna-se inviável o conhecimento do recurso especial. Incide, assim, por analogia, o óbice da Súmula 280 do STF, a qual preceitua que "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 481, 586, 1.228 E 1.267 DO CÓDIGO CIVIL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. NULIDADE DA CDA. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. IPVA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. PREVISÃO EM LEI LOCAL. LEGITIMIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI ESTADUAL N. 14.937/2003. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF.
+ ..
+IV - É firme o posicionamento deste Superior Tribunal, segundo o qual revela-se legítima a cobrança do IPVA sobre a figura do credor fiduciário caso haja previsão em lei estadual.
+V - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido (AgInt no REsp n. 2.003.321/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022).
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IPVA. VEÍCULO OBJETO DE ALIENAÇÃO FIDUCIÁRIA. SOLIDARIEDADE PASSIVA ENTRE ALIENANTE E ADQUIRENTE. LEGALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280 DO STF. PRECEDENTES.
+ ..
+2. Esta Corte de Justiça possui entendimento no sentido da legalidade da cobrança do IPVA do credor fiduciário, no caso de a lei estadual o eleger como sujeito passivo tributário.
+3. A revisão do julgado no tocante a esse capítulo, portanto, ensejaria a apreciação da lei local, o que é inviável na espécie pela observância da Súmula 280/STF, aplicável ao caso de maneira analógica.
+4. Por fim, a análise da violação do 110 do CTN, por reproduzir princípio encartado em norma da Constituição Federal, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento (AgInt no AREsp n. 1.338.426/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 14/3/2022, DJe de 18/3/2022).
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. COBRANÇA DE DÉBITOS RELATIVOS AO IPVA. ACÓRDÃO RECORRIDO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280/STF. IRRESIGNAÇÃO QUANTO À PERDA DA PROPRIEDADE DOS VEÍCULOS AUTOMOTORES. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, o contribuinte interpôs embargos à execução fiscal apresentada pela Fazenda Estadual, a qual objetivava a cobrança de débitos relativos ao IPVA de veículos sujeitos a contrato de arrendamento mercantil. Após sentença que julgou improcedentes os embargos à execução, o contribuinte interpôs apelação que teve seu provimento negado pelo Tribunal de Justiça do Estado de Minas Gerais. Esta Corte não conheceu do recurso especial.
+II - Inicialmente, cumpre destacar que o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Estadual n. 14.937/2003, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse diapasão, confiram-se: AgInt no AREsp n. 970.011/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/5/2017, DJe 24/5/2017 e AgRg no AgRg nos EDcl no AREsp n. 4.111/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/10/2014, DJe 12/11/2014.
+III - Ademais, verifica-se que a irresignação do recorrente acerca da comprovação da perda da propriedade dos veículos automotores pelo contribuinte, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que não houve situação modificativa do direito real ora em debate capaz de retirar do arrendante a sua legitimidade passiva na ação de execução fiscal ora embargada. Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+IV - Por fim, apenas para rechaçar por completo a argumentação vinculada no recurso especial, deve-se registrar que o Superior Tribunal de Justiça tem entendimento pacificado segundo o qual, nas operações de leasing ou arrendamento mercantil, a instituição financeira, como possuidora indireta do veículo, é responsável solidária pelo pagamento do IPVA, podendo figurar no polo passivo da execução fiscal. Sobre o assunto, destacam-se: REsp 1.702.474/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2017, DJe 19/12/2017 e REsp 1.655.504/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 20/2/2018, DJe 26/2/2018.
+V - Agravo interno improvido (AgInt no REsp n. 1.813.699/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/11/2019, DJe de 22/11/2019).
+Súmula 7/STF
+Além disso, observo que a alteração da conclusão do Tribunal a quo, a respeito da validade das CDAs, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+CIVIL, ADMINISTRATIVO E PROCESSUAL CIVIL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. PRAZO PRESCRICIONAL. REGRA DO CÓDIGO CIVIL. TEMA 639 DO STJ. RATIO DECIDENDI. ADOÇÃO. CDA. PROCESSO ADMINISTRATIVO. IRREGULARIDADE. AFERIÇÃO. REEXAME DE PROVAS. NÃO CABIMENTO. ATO NORMATIVO INFRALEGAL. EXAME. INVIABILIDADE.
+ ..
+4. A verificação da alegada nulidade da execução fiscal por irregularidades na CDA e no processo administrativo demandaria, na hipótese, reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+ ..
+6. Agravo interno desprovido (AgInt nos EDcl no REsp n. 1.869.456/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DA CDA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 7/STJ. ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO COM BASE NO ART. 1.030, I, DO CPC/2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do aresto impugnado quanto à validade da CDA demandaria o reexame fático-probatório dos autos, providência que encontra óbice no Enunciado 7/STJ.
+ ..
+5. Agravo interno conhecido e desprovido (AgInt no AREsp n. 2.327.988/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. APELO NOBRE. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA. NULIDADE DA CDA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+ ..
+4. Quanto à nulidade da CDA, aferir, no caso, a ausência dos requisitos legais, exigiria nova análise de aspectos fáticos da causa, providência vedada em recurso especial (Súmula 7/STJ).
+Precedentes.
+5. Agravo interno não provido (AgInt nos EDcl no AREsp n. 2.354.972/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para não conhecer do recurso especial .
+Intimem-se.
+EMENTA
