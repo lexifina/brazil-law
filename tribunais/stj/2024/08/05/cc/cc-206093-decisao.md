@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de conflito positivo de competência instaurado pelo e. TRIBUNAL REGIONAL DO TRABALHO DA 18.ª REGIÃO no qual se processa o Agravo de Petição n.º 011019-60.2022.5.18.0016, interposto por Rápido Marajó Ltda. - em Recuperação Judicial e Outras tendo como suscitado o r. JUÍZO DE DIREITO DA 4.ª VARA CÍVEL DE GOIÂNIA/GO perante o qual tramita a recuperação judicial das interessadas Transbrasiliana Transportes e Turismo Ltda. - em Recuperação Judicial e Rápido Marajó Ltda. - em Recuperação Judicial.
+Aponta o suscitante que "(..) Após a expedição de certidão de crédito junto ao Juízo da recuperação judicial o autor informou que o pedido de habilitação do seu crédito foi rejeitado pelo juízo da recuperação judicial, "sob o fundamento de que tratando-se de crédito de natureza extraconcursal, não está sujeito a habilitação, cabendo à parte autora tomar as medidas necessárias para satisfação do seu crédito" (f. 472/ID. 788d122). Por este motivo, independentemente do Juízo da Recuperação Judicial, requereu o prosseguimento do feito nesta Especializad a." Afirma que "(..) a competência para o prosseguimento das execuções trabalhistas em face das devedoras em recuperação judicial passa a ser da Justiça Comum, ainda que se trate de crédito extraconcursal, de modo a evitar violação ao princípio da universalidade do Juízo da recuperação judicial, bem como que reste impossibilitado o soerguimento da empresa." Suscitou, assim, o incidente em análise.
+O MPF opinou pelo reconhecimento da competência da justiça especializada (fls. 654-658).
+É o relatório.
+Decisão.
+De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve Tribunal e Juízo a ele não vinculados, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+1. Em conflitos similares, envolvendo, de um lado, o Juízo da Recuperação Judicial e, de outro, o Juízo Laboral, no qual tramita execução trabalhista movida contra sociedade recuperanda, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de soerguimento.
+Em regra, uma vez iniciada a recuperação judicial, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Recuperacional, sob pena de esvaziamento dos propósitos da recuperação, mesmo após transcorrido o prazo de 180 dias (art. 6º, § 4º, da Lei 11.101/2005). Nesse sentido, vale conferir os seguintes julgados:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. FALÊNCIA. TERMO LEGAL. RECLAMAÇÃO TRABALHISTA. BEM IMÓVEL PRACEADO PELO JUÍZO TRABALHISTA. DECRETAÇÃO DA FALÊNCIA. PRODUTO ARRECADADO PELO JUÍZO TRABALHISTA SEM REMESSA AO JUÍZO FALIMENTAR. NECESSIDADE. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Trata-se de conflito de competência suscitado por empresa submetida ao processo de falência, que teve seu bem imóvel praceado pelo Juízo Trabalhista.
+2. A jurisprudência do STJ tem entendimento firmado no sentido de que os atos de execução dos créditos individuais promovidos contra empresas em falência ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo Juízo Universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei nº 11.101/05. Precedentes.
+3. O valor arrecadado com o praceamento do bem da falida no Juízo Trabalhista deve ser remetido ao Juízo falimentar, a quem compete a administração dos bens daquela, bem como o pagamento dos débitos por ela contraídos e apurados no âmbito do processo de falência.
+4. Conflito de competência conhecido para declarar a competência do Juízo Falimentar.
+(CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CRÉDITOS TRABALHISTAS. PENHORA ANTERIOR.
+1. Encontra-se pacificado na jurisprudência desta Corte o entendimento de que, deferido o pedido de recuperação judicial, as ações e execuções trabalhistas devem prosseguir no âmbito do juízo universal, mesmo nos casos de penhora anterior ou naqueles em que ultrapassado o prazo de suspensão de que trata o artigo 6º, § 4, da Lei 11.101/2005.
+2. Agravo interno não provido.
+(AgInt no CC 146.036/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO DA RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DAS EXECUÇÕES TRABALHISTAS APÓS A FASE DE ACERTAMENTO E LIQUIDAÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL DA RECUPERAÇÃO. IMPOSSIBILIDADE. RETOMADA AUTOMÁTICA DAS EXECUÇÕES APÓS O FIM DO PRAZO DE 180 DIAS. NÃO CABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, ultrapassada a fase de acertamento e liquidação dos créditos trabalhistas, cuja competência é da Justiça do Trabalho, os valores apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento (Decreto-Lei 7.661/45; Lei 11.101/2005).
+2. O entendimento desta Corte preconiza que, via de regra, deferido o processamento ou, posteriormente, aprovado o plano de recuperação judicial, é incabível a retomada automática das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4º, da Lei 11.101/2005.
+3. Agravo regimental a que se nega provimento.
+(RCD no CC 131.894/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/02/2014, DJe 31/03/2014)
+Até mesmo em relação a créditos trabalhistas reputados extraconcursais, tem entendido este Tribunal que cabe ao Juízo Recuperacional exercer tão somente o controle dos atos de constrição ou expropriação do patrimônio da recuperanda, cabendo ao juízo trabalhista o processamento do feito até então. Confira-se, nesse sentido:
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+(..)
+2. Classificam-se como extraconcursais os créditos de obrigações que se originaram após o deferimento do processamento da recuperação, prevalecendo estes sobre os créditos concursais, de acordo com os arts. 83 e 84 da Lei nº 11.101/2005.
+3. Segundo a jurisprudência desta Corte, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, a execução de créditos trabalhistas constituídos depois do pedido de recuperação judicial deve prosseguir no Juízo universal.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Blumenau/SC.
+(CC 145.027/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 31/08/2016, grifado)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+(..) 2. Tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005). Porém, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+(..)
+4. Agravo regimental improvido.
+(AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE,
+SEGUNDA SEÇÃO, julgado em 24/05/2017, DJe 31/05/2017)
+E, ainda: AgRg no CC 124.795/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 26/06/2013, DJe 01/08/2013.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do e. TRIBUNAL REGIONAL DO TRABALHO DA 18.ª REGIÃO para prosseguir com a execução do crédito extraconcursal, competindo ao juízo recuperacional tão somente o controle dos atos expropriatórios.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
