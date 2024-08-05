@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Tribunal Regional do Trabalho da 16ª Região, como suscitante, e a 1ª Vara da Comarca de Santa Inês/MA, a suscitada, nos autos de "ação de cobrança" (fl. 17), movida por Aldrey Pinto de Oliveira contra o Município de Santa Inês.
+O processo foi originariamente proposto perante a Justiça comum estadual, que declinou da competência em favor da Justiça do Trabalho, por entender inexistente, na hipótese, uma relação jurídica de direito administrativo entre as partes da ação subjacente, em razão da contratação irregularmente realizada. O Tribunal suscitante, no exercício da competência recursal, reconheceu a incompetência absoluta da Justiça especializada, instaurando o presente incidente processual (fl. 220).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre tribunal e juízo a ele não vinculado, nos termos do art. 105, I, d, da Constituição Federal, e porque foi observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, a petição inicial apresenta alegação segundo a qual a parte autora foi contratada sem concurso público pelo ente municipal, em procedimento maculador da Constituição Federal. Com efeito, afirma o demandante que "a contratação não foi precedida de concurso público, mas através da celebração de contrato temporário, contratação nula nos termos do art. 37, I, I e § 2º da Constituição Federal" (fl. 119).
+Em casos fronteiriços, decide a Primeira Seção deste Sodalício pelo reconhecimento da competência da Justiça comum, porque, ainda que constitucionalmente viciada, tem-se uma relação de direito administrativo. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATAÇÃO SEM CONCURSO PÚBLICO OU PROCESSO SELETIVO. NATUREZA JURÍDICO-ADMINISTRATIVA. CONTRATAÇÃO IRREGULAR COM O PODER PÚBLICO. ATO DE NATUREZA ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM PARA RESOLVER AS CONTROVÉRSIAS PERTINENTES.
+ ..
+IV - Se o vínculo estabelecido entre o Poder Publico e o servidor for estatutário, a competência será da justiça comum (estadual ou federal). Em se tratando de vínculo trabalhista, a competência caberá à justiça laboral.
+V - A parte reclamante defende ter sido contratada para trabalhar na função de técnico em enfermagem, sem concurso público ou processo seletivo, desde 10/12/2012, tendo permanecido vinculado ao consórcio de direito público até 09/04/2014.
+VI - Falece competência à Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações irregulares.
+VII - A orientação desta Corte Superior se firmou no sentido de que a contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Confira-se: AgInt no CC 147.725/PA, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 8/2/2017, DJe de 14/2/2017; AgRg nos EDcl no CC 144.107/MS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 25/5/2016, DJe de 1º/6/2016; AgRg no CC 108.627/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/2/2010, DJe de 4/3/2010) VIII - Agravo interno improvido.
+(AgInt no CC n. 156.229/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 28/4/2020, DJe de 30/4/2020.)
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONTRATAÇÃO SEM CONCURSO PÚBLICO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O Excelso Pretório, no julgamento da Ação Declaratória de Inconstitucionalidade 3.395-DF, excluiu da expressão relação de trabalho prevista no art. 114, inc. I (redação conferida pela Emenda Constitucional n. 45/2004), as ações decorrentes do regime estatutário, aplicável aos servidores públicos, que devem ser julgadas pela Justiça Comum, Estadual ou Federal, a depender do ente público ao qual se vincula o servidor - ainda que se trate de contratações temporárias ou irregulares, caso dos autos.
+2. A Lei local que alterou o regime jurídico dos servidores para o celetista, no caso, impõe a contratação por meio de processo seletivo, o que não ocorreu na espécie dos autos, afastando assim a competência da Justiça Laboral para o exame da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC n. 147.725/PA, relator Ministro Og Fernandes, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017.)
+Nesse cenário, versando a ação subjacente sobre alegada contratação irregular de servidor público, a competência é da Justiça comum, no caso, do Juízo suscitado.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 1ª Vara da Comarca de Santa Inês/MA, a suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
