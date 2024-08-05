@@ -1,0 +1,50 @@
+DECISÃO
+Em análise, recurso ordinário em mandado de segurança impetrado por ISAURO FERREIRA DE SOUSA NETO em face do ESTADO DO PIAUÍ, em que requer a reforma do acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, assim ementado (fl. 148):
+MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS. IMPOSSIBILIDADE. NATUREZA TÉCNICA DO CARGO NÃO RECONHECIDA. ATRIBUIÇÕES MERAMENTE ADMINISTRATIVAS. SEGURANÇA DENEGADA.
+1. O impetrante aponta como ato coator o reconhecimento, em processo administrativo, da ilegalidade da acumulação dos cargos de Agente Técnico de Serviços do Instituto de Metrologia do Estado do Piauí - IMEPI e Professor da Secretária de Educação do Piauí - SEDUC por ele ocupados.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, cargo técnico é aquele que exige conhecimento específico na área de atuação do profissional, com habilitação específica de ensino superior ou profissionalizante de 2º grau.
+3. A Lei Complementar Estadual n.º 38/2004 exige, para ingresso no cargo de Agente Técnico de Serviços, o certificado de conclusão do ensino médio ou curso técnico equivalente e prevê que as atribuições são constituídas por atividades de caráter técnico administrativo.
+4. Segurança denegada
+O recorrente sustenta que:
+existe lei prevendo que o cargo do impetrante é acessível aos portadores de curso técnico, ou seja, profissionalizante do segundo grau. Nesse sentido é o art. 15, II, da Lei Complementar n. 38/2004.
+ ..
+Ora, o art. 15, II, da referida lei, se refere a curso técnico equivalente ou seja ,equivalente ao segundo grau, o previsto no art. 36-B da LDB:
+ ..  Desta forma, o cargo do impetrante, Agente Técnico de Serviço, exige, a toda prova, ensino profissionalizante de segundo grau, o que é corroborado pela documentação anexada, declarando o exercício de atividades de execução técnica (fl. 211).
+Aduz que "pela documentação acostada aos autos, o impetrante exercer atividades estritamente técnicas, o que torna o cargo técnico, sob pena do servidor se encontrar exercendo funções que não são do seu cargo, incorrendo em desvio de função indenizável, o que certamente será pleiteado, em caso de não reconhecimento da tecnicidade do cargo" (fl. 213).
+O Ministério Público Federal ofereceu parecer pelo desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+Na origem, o mandado de segurança foi impetrado contra ato do Governador do Estado do Piauí e do Senhor Secretário de Estado da Administração e Previdência do Estado do Piauí, objetivando reconhecimento da natureza técnica do cargo de Agente Técnico de Serviços do Instituto de Metrologia do Estado do Piauí  IMEPI, em razão da possibilidade de acumulação deste cargo com o de Professor da Secretaria de Educação do Piauí.
+O Tribunal de origem denegou a ordem com base nos seguintes fundamentos (fls. 150-154 ):
+No caso em apreço, o impetrante requer seja declarada a legalidade da acumulação dos cargos por ele ocupados, com base na regra permissiva prevista no art. 37, XVI, b, da CF/88, em razão da natureza técnica do cargo de Agente Técnico de Serviços do Instituto de Metrologia do Estado do Piauí - IMEPI.
+Compulsando os autos, constato que foi juntada ao mandamus Declaração (Id nº 190820)expedida pelo Diretor Técnico do IMEPI/INMETRO afirmando que o impetrante exerce atividades de execução técnica, em conformidade com métodos e habilidades específicas, dentre elas, ensaios em cronotacógrafos, avaliação de oficinas e postos de selagem de cronotacógrafos, análise e homologação de ensaios em cronotacógrafos, inspeção de veículos e equipamentos rodoviários, verificação de veículos tanque, verificação de carga sólida e verificação de taxímetros. No referido documento consta ainda que tais atividades exigem conhecimentos técnicos específicos, não acessíveis no ensino médio escolar.
+Também constam nos autos certificados de participações em cursos e treinamentos (Id. 190831;Id. 190833; Id. 190835; Id. 190836), incluindo a Portaria nº 043/2010 do IMEPI que determinou que fossem realizados os treinamentos necessários para que o impetrante desempenhasse suas funções a contento (Id. 190834). Por fim, instruem a presente ação, diversos documentos e memorandos referentes a atos administrativos praticados pelo impetrante no exercício de sua atribuição (Id.190843).
+Ocorre que, segundo a jurisprudência do Superior Tribunal de Justiça, cargo técnico é aquele que exige conhecimento específico na área de atuação do profissional, com habilitação específica de ensino superior ou profissionalizante de 2º grau. Confira-se:
+ ..
+No caso em apreço, o impetrante deseja o reconhecimento da natureza técnica do cargo de Agente Técnico de Serviços do Instituto de Metrologia do Estado do Piauí - IMEPI.
+Por sua vez, a Lei Complementar Estadual n.º 38/2004, que dispõe sobre o Plano de Cargos, Carreira e Vencimento dos servidores públicos civis da administração direta, autárquica e fundacional do Estado do Piauí, exige, para ingresso no cargo de Agente Técnico de Serviços, apenas o certificado de conclusão do ensino médio ou curso técnico equivalente. Prevê, ainda que atribuições do aludido cargo são constituídas por atividades de caráter técnico administrativo. In verbis:
+Art. 12 Constituem atribuições do cargo de Agente Operacional de Serviços o desempenho de atividades administrativas de apoio operacional e execução material, de nível básico, relativas ao exercício das competências constitucionais e legais da Administração Pública estadual e à execução de políticas públicas setoriais.
+Art. 13 Constituem atribuições do cargo de Agente Técnico de Serviços o desempenho de atividades de caráter técnico administrativo, de nível intermediário, em conformidade com habilidades específicas, concernentes ao exercício das competências constitucionais e legais da Administração Pública e à execução de políticas públicas setoriais.
+Art. 14 Constituem atribuições do cargo de Agente Superior de Serviços o desempenho de atividades profissionais de nível superior, em conformidade com uma habilitação profissional específica, relativas ao exercício das competências constitucionais e legais da Administração Pública e à execução de políticas públicas.
+Art. 15 Para o ingresso nos cargos previstos nos artigos 12, 13 e 14 destalei, são exigidos, além da formação escolar, profissional ou acadêmica pertinente, definidos em lei, regulamento e edital de concurso, os seguintes requisitos: I - para o cargo de Agente Operacional de Serviços, escolaridade básica, concluída ou não, conforme definido em edital de concurso, no caso de provimento originário; II - para o cargo de Agente Técnico de Serviços, certificado de conclusão de ensino médio ou curso técnico equivalente; III - para o cargo de Agente Superior de Serviços, certificado de conclusão de ensino superior.
+Assim, constato que para o ingresso no cargo de Agente Técnico de Serviços do Instituto de Metrologia do Estado do Piauí - IMEPI não é exigido habilitação específica de ensino superior ou profissionalizante de 2º grau, bastando o certificado de conclusão do ensino médio ou curso técnico equivalente. Além do mais, as atribuições previstas em lei são descritas como atividades de caráter técnico administrativo, sem que sejam previstos conhecimentos profissionais específicos para exercer suas funções.
+Vale observar que, em decisão proferida em sessão realizada no dia 05/12/2017 (EDcl no REsp 1678686/RJ), o Superior Tribunal de Justiça destacou que "se, no caso concreto, o servidor atua desempenhando atividades técnicas, diversas das previstas para o cargo que ocupa, tal fato não tem o condão de transformá-lo em "técnico" para aplicação da jurisprudência acima descrita". Veja-se:
+ ..
+Pertinente destacar também que a nomenclatura do cargo, por si só, não conduz ao reconhecimento da tecnicidade do serviço desempenhado pelo servidor.
+ ..
+Por fim, como suscitado no parecer ministerial (Id. Nº 296387), para que a cumulação seja possível, o servidor deve se enquadrar em alguma das hipóteses constitucionais e, em acréscimo, comprovar a compatibilidade de horários. Eis o que dispõe o art. 37, XVI da Lei Fundamental:
+ ..
+No caso em análise, não há menção na inicial acerca da carga horária dos cargos ocupados nem a sua compatibilidade quanto a este requisito. Também não é possível chegar a uma conclusão quanto a tal compatibilidade a partir do exame dos documentos que acompanham a exordial.
+Nestes termos, impõe-se a denegação da segurança pleiteada.
+Com efeito, o Tribunal de origem entendeu não haver direito líquido e certo, comprovado nos autos, por prova documental pré-constituída, capaz de infirmar a legalidade do ato impugnado, acerca da natureza não técnica e incompatibilidade de horários entre os cargos que o Impetrante intenta acumular.
+Nesse contexto, existindo dúvida quanto à possibilidade de conciliação entre a carga horária e compatibilidade dos cargos, não demonstrados no momento da impetração, afasta-se a certeza e a liquidez do direito pleiteado.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. MILITAR TEMPORÁRIO. LICENCIAMENTO EX OFFICIO. DECISÃO FUNDAMENTADA. COMPORTAMENTO CONTRADITÓRIO DA ADMINISTRAÇÃO. INEXISTÊNCIA. DIREITO LÍQUIDO E CERTO. AUSÊNCIA. AGRAVO NÃO PROVIDO.
+ ..
+3. Nos termos da jurisprudência desta Corte, "o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus" (RMS n. 45.989/PB, relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/4/2015).
+4. Agravo interno não provido (AgInt no MS n. 29.924/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 28/5/2024, DJe de 4/6/2024).
+Assim, deve ser mantida a denegação da segurança, pois ausente a prova inequívoca do direito líquido e certo invocado pela parte.
+Isto posto, nego provimento ao recurso em mandado de segurança.
+Custas pelas partes. Sem condenação em honorários advocatícios  art. 25 da Lei 12.016/2009; e Súmula 105/STJ.
+Intimem -se.
+EMENTA
