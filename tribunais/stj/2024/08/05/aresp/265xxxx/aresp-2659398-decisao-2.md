@@ -1,0 +1,19 @@
+DECISÃO
+ROSANGELA JANAINA DE LIMA SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 8104838-05.2021.8.05.0001.
+Nas razões do recurso especial, a defesa apontou a violação do art. 68 do Código Penal e pretende a redução da pena, na terceira fase da dosimetria, ao argumento de que o aumento foi realizado em desconformidade com a Súmula n. 443 do STJ.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo provimento do reclamo (fls. 605-606).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que a agravante foi condenada à pena de 8 anos de reclusão mais 21 dias-multa, em regime semiaberto, pela prática do delito previsto no art. 157, §§ 2º, II e 2º-A, I, do Código Penal.
+Em relação à terceira fase da dosimetria, a reprimenda foi aumentada, em 1/3, pelo concurso de agentes e, posteriormente, em 2/3, pelo emprego de arma de fogo. A Corte estadual confirmou os termos da sentença, nos seguintes termos (fl. 451):
+Na terceira fase, se reconheceu a incidência de duas causas de aumento objetivas, estabelecidas em dispositivos autônomos - e não concorrentes -, relativamente ao concurso de pessoas e ao emprego de arma de fogo, com o que se elevou a reprimenda, respectivamente, nas frações mínima e única previstas na norma legal, afastando-se ensejo para alteração.
+Na hipótese, verifico que as instâncias ordinárias justificaram o aumento da pena, na terceira fase da dosimetria, apenas com base no número de majorantes incidentes no caso, sem apontar elementos dos autos (modus operandi, por exemplo) que, efetivamente, evidenciassem a real necessidade de exasperação da pena no patamar estabelecido.
+Este Superior Tribunal vem reiteradamente decidindo que, em se tratando de roubo com a presença de mais de uma causa de aumento, a majoração da pena acima do mínimo legal (um terço) requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um acréscimo mais expressivo, não sendo suficiente a simples menção ao número de causas de aumento de pena, como ocorrido no caso em análise.
+A matéria se encontra sumulada por esta Corte, em seu enunciado n. 443, verbis: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Assim, diante da violação legal reconhecida, passo a refazer a dosimetria.
+Partindo dos critérios adotados pelas instâncias ordinárias, verifico que a pena-base do roubo foi fixada em 4 anos de reclusão e 10 dias-multa. Na segunda etapa, a sanção permaneceu inalterada. Na terceira fase, identificada a ilegalidade na fração adotada, reduzo o patamar de aumento relativo às majorantes para 1/3, o que a torna definitivamente estabelecida em 5 anos e 4 meses de reclusão mais 13 dias-multa.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de afastar a aplicação cumulativa das majorantes e reduzir a reprimenda da agravante para 5 anos e 4 meses de reclusão mais 13 dias-multa.
+Publique-se e intimem-se.
+EMENTA
