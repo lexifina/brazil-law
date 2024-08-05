@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Rossi Residêncial S.A. e Santa Agia Empreendimentos Imolibiários (em recuperação judicial) à decisão monocrática proferida por este relator, que deferiu "parcialmente a liminar apenas para designar o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central Cível de São Paulo/SP para dirimir em caráter provisório, as questões urgentes, especialmente acerca do levantamento de valores objeto de depósito judicial vinculados ao Processo n. 0006028-74.2014.8.19.0038, em trâmite perante o Juízo de Direito da 3ª Vara Cível de Nova Iguaçu/RJ" (e-STJ, fl. 173).
+Em suas razões, as embargantes apontam "omissão que contêm a decisão embargada, visto que, conforme destacado na peça inicial de distribuição do Conflito de Competência, já houve por diversas vezes, pelo MM. Juízo Recuperacional a determinação de que os créditos contidos nos autos em que as empresas Recuperandas forem integrantes do polo passivo, sejam destinados para suas respectivas contas, não sendo mais necessário a transferência para a conta judicial dos autos da Recuperação Judicial" (e-STJ, fls. 169-173).
+Entendem que a decisão deve ser retificada, determinando-se "o imediato deposito do valor em conta de titularidade da Embargantes" (e-STJ, fl. 212).
+Sem impugnação (e-STJ, fl. 235).
+Brevemente relatado, decido.
+O julgado não padece do vício de julgamento indicado pela parte embargante.
+De início, vale ressaltar que a decisão ora embargada apenas apreciou o pedido liminar formulado no conflito de competência, logo, a análise feita tomou como base apenas um exame perfunctório dos autos, razão pela qual não era mesmo necessário o exame de todas as questões discutidas, o que será feito por ocasião do julgamento de mérito.
+Conforme consignado na monocrática, o prosseguimento da execução e o retardamento de levantamento de valores oriundos de crédito concursal (relevantes à continuidade das atividades da recuperanda), a princípio de forma injustificada, por já haver a devida autorização pelo juízo de soerguimento, com prolação de sentença concessiva da recuperação - circunstâncias esses que haverão de ser confirmadas a partir das informações a serem prestadas por ambos os juízos suscitados -, em princípio, desborda do entendimento perfilhado pelo STJ, na esteira da jurisprudência acima destacada.
+Contudo, o deferimento do levantamento de valores no âmbito desse conflito, em cognição sumária, sem a certeza quanto à natureza do crédito e ao que ficou efetivamente estabelecido pelo juízo da recuperação constitui medida que pode se revelar mais gravosa do que a manutenção dos depósitos, por ora, enquanto inexiste manifestação de ambos os juízos suscitados.
+Portanto, o julgado embargado não se ressente de omissão, como afirmam as embargantes.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
