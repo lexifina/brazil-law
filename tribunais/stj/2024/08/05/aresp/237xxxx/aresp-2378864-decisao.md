@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO CASTANHEIRA RIBEIRO contra a decisão que não admitiu o recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ fl. 314):
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - REALIZAÇÕES BANCÁRIAS REALIZADAS POR MEIO DO USO DE CARTÃO PESSOAL E SENHA - CULPA EXCLUSIVA DO CONSUMIDOR - EXCLUDENTE DE RESPONSABILIDADE.
+Em sendo comprovada a culpa exclusiva do consumidor pelos danos suportados, em razão das transações bancárias realizadas com o uso do seu cartão magnético e utilização de sua senha pessoal, não há como ser imputada ao banco réu qualquer responsabilidade e, portanto, o dever de prestar ao àquele indenizações a título de danos materiais e morais."
+No recurso especial, o recorrente alega negativa de vigência ao artigo 489, §1º, inciso IV, do Código de Processo Civil, ao argumento de que o acórdão recorrido carece de fundamentação.
+Aponta contrariedade aos arts. 373, inciso II e 1.013, ambos do Código de Processo Civil, sob o fundamento de que houve falha na prestação do serviço ao consumidor a ensejar o dever de reparação.
+Aduz divergência jurisprudencial.
+Por fim, requerer o provimento do recurso especial.
+Não houve apresentação de contrarrazões.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Em relação ao dever de indenizar, o Tribunal de Justiça do Estado de Minas Gerais, afastou a alegação do autor sob os seguintes fundamentos (e-STJ fls. 319/322):
+"(..)
+Em que pese meu profundo respeito pela douta Julgadora sentenciante, entendo que não é possível prevalecer a solução por ela dada ao feito, na medida em que não restou comprovada a responsabilidade do banco réu pelos fatos narrados nos autos, senão vejamos.
+Não se nega que a relação jurídica estabelecida entre as partes possui natureza de consumo e, como tal, atrai a incidência das regras protetivas do Código de Defesa do Consumidor. Todavia, tal medida não isenta o autor da obrigação de comprovar os fatos constitutivos do direito pretendido, nos termos do art. 373, I, do CPC, já que não possui capacidade para transformar meras alegações em fatos concretos.
+Necessário ainda explicitar que, de fato, a responsabilidade do banco réu é objetiva e, por tal razão, independe de comprovação de culpa, decorrendo do próprio risco da atividade por ele desenvolvida.
+Nessa trilha, afastada a necessidade de comprovação da culpa para a configuração da responsabilidade pretendida, deve ser comprovado o defeito relativo à prestação do serviço, o evento danoso e a relação de causalidade entre um e outro.
+Nos termos do art.14, § 3º, I e II do CDC, cabe ao consumidor demonstrar o dano sofrido e o nexo de causalidade entre este e o defeito na prestação do serviço, enquanto ao fornecedor cabe a comprovação da inexistência do defeito ou de que o evento danoso tenha ocorrido porculpa exclusiva da vítima, o que afasta o dever de indenizar.
+(..)
+Com efeito, outra conclusão não há,senão a de que as transações em questão foram realizadas ou pelo cliente ou por alguém que teve acesso ao seu cartão e à sua senha pessoal, eis que, como acima já destacado, a instituição financeira explicitou que o cartão bancário do autor apenas poderia ser usado para a realização de tais transações mediante a inserção da senha pessoal docliente.
+Ainda que não tenha sido diretamente o autor quem realizou as operações, o que seque chegou a ser aventado, vale dizer, de alguma forma permitiu que terceiro (até mesmo por ele autorizado) tivesse acesso ao plástico e, em especial, à sua senha pessoal, descumprindo, assim, a sua obrigação de guardar sigilo sobre tal senha.
+De tal sorte, tem-se por inequívoca a culpa exclusiva do autor/1º apelante pelos danos materiais e morais que alega ter sofrido, pois, no mínimo, não foi diligente com a guarda de seu cartão magnético e tampouco com o sigilo de sua senha, situação que configura causa excludente de responsabilidade da instituição bancária, prestadora de serviço.
+Ora, a responsabilidade pela guarda do cartão magnético e sigilo da senha pessoal é apenas do correntista que faz uso dos serviços das instituições bancárias, não podendo responder estas últimas por eventuais transações bancárias realizadas mediante a utilização do cartão e dos dados pessoais do cliente.
+(..)
+Fato é que todas as informações e provas que vieram aos autos não permitem qualquer outra conclusão, senão a de que o verdadeiro e único responsável pelos eventos narrados nos autos foi o próprio autor, ao não zelar pela guarda de seu cartão magnético e da respectiva senha pessoal, o que impõe a reforma da sentença de 1º Grau."
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias acerca da culpa exclusiva da vítima, demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE NEXO CAUSAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência do STJ, a responsabilidade objetiva da instituição financeira em decorrência de falha na prestação do serviço não afasta o dever de comprovação do dano e do nexo causal entre o dano sofrido e o serviço tido como falho. Precedentes.
+2. Na espécie, o Tribunal de origem, à luz da prova dos autos, afastou a responsabilidade da instituição financeira pela falha na prestação do serviço ante a ausência de nexo causal e configuração de culpa exclusiva da vítima.
+3. Modificar o entendimento a que chegou o Tribunal de origem e concluir pela responsabilidade da instituição financeira requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido."
+(AgInt no REsp n. 2.006.080/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS. CONTRATO DE TRANSPORTE. RESPONSABILIDADE CIVIL OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA E NÃO COMPROVADA.
+1. Cuida-se de ação de reparação de danos materiais, objetivando a responsabilização da requerida por ter entregado a um estelionatário as mercadorias objeto de contrato de transporte celebrado entre as partes.
+2. Hipótese em que o recurso especial não foi conhecido em função da incidência da Súmula n. 7/STJ e da deficiência do cotejo analítico.
+3. "A responsabilidade decorrente do contrato de transporte é objetiva, nos termos do art. 37, § 6º, da Constituição da República e dos arts. 14 e 22 do Código de Defesa do Consumidor, sendo atribuído ao transportador o dever reparatório quando demonstrado o nexo causal entre o defeito do serviço e o acidente de consumo, do qual somente é passível de isenção quando houver culpa exclusiva do consumidor ou uma das causas excludentes de responsabilidade genéricas (arts. 734 e 735 do Código Civil)" (REsp 1.354.369/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/5/2015, DJe de 25/5/2015).
+4. A modificação do acórdão recorrido, que afastou a responsabilidade civil da transportadora com fundamento na culpa exclusiva da empresa vítima, dependeria do reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte, conforme a Súmula n. 7/STJ.
+5. Fica prejudicado o exame da divergência jurisprudencial quando as teses já foram afastadas na análise do recurso especial pela alínea "a" em razão da incidência do óbice da Súmula n. 7/STJ.
+6. Ademais, a "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Agravo interno improvido."
+(AgInt no AREsp n. 2.526.880/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Ademais, conforme a jurisprudência do Superior Tribunal de Justiça, a incidência da Súmula nº 7/STJ, impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. VIOLAÇÃO AOS ARTS. 55 E 919, § 1º, DO CPC/2015. CONCESSÃO DE EFEITO SUSPENSIVO. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE GARANTIA DO JUÍZO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. SÚMULA 13/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, nos moldes do art. 919, § 1º, do CPC/2015, o que não ocorreu no caso em análise.
+2. Modificar o entendimento do Tribunal local, acerca do fato de que o reconhecimento da conexão entre as ações não exime o devedor da garantia do juízo e da inexistência dos requisitos para atribuição de efeito suspensivo aos embargos à execução, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Outrossim, observa-se a impossibilidade de o Superior Tribunal de Justiça conhecer da divergência interpretativa suscitada pelo recorrente com base em julgado do próprio Tribunal de Justiça do Acre, haja vista que tal análise encontra óbice na Súmula n. 13 desta Corte: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+5. Agravo interno improvido."
+(AgInt no AREsp n. 2.331.876/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
