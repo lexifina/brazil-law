@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por Retin Mussi - espólio - contra decisão que não admitiu o recurso especial manejado em face de acórdão prolatado pelo Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 400):
+APELAÇÃO CÍVEL - Ação de cobrança - Sentença que acolheu a prescrição - Insurgência do autor - Tese no sentido de inocorrência da prescrição - Acolhimento - Acordo celebrado pelas partes que, por expressa determinação, não previu prazo para pagamento do débito, determinando, ainda, que os valores seriam corrigidos e atualizados na oportunidade de cada desembolso, até a quitação do montante - Termo inicial de contagem da prescrição que se deu com o óbito do devedor - Anulação da r. sentença, com o retorno dos autos à fase instrutória, para produção das provas requeridas - RECURSO PROVIDO.
+Opostos embargos de declaração ao acórdão, foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 410-420), a recorrente alegou violação do art. 206, § 5º, do Código Civil.
+Sustentou, em síntese, estar configurada a prescrição quinquenal do título. Afirmou que, "sendo o surgimento da pretensão a assinatura do Termo de Acordo. Considerando o documento hipoteticamente válido, o recorrido poderia ter cobrado o crédito ao falecido a qualquer tempo, deste modo, o início da pretensão de cobrança do referido documento, ocorreu na data de 07 de maio de 2009, data da assinatura do termo" (e-STJ, fl. 416).
+Contrarrazões apresentadas às fls. 425-432 (e-STJ).
+O processamento do recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo em recurso especial (e-STJ, fls. 446-457).
+Contraminuta às fls. 460-466 (e-STJ).
+Brevemente relatado, decido.
+Na hipótese, a Corte estadual, a partir da análise do acervo fático-probatório colacionado aos autos, afastou a tese de prescrição da pretensão de cobrança ao fundamento de que o prazo inicial, diante das particularidades do caso, sobretudo quanto à vontade das partes de não fixar termo para o cumprimento da obrigação, se inicia a partir do óbito do devedor, segundo se infere do trecho do aresto combatido a seguir transcrito (e-STJ, fls. 401-402):
+Em primeiro lugar, com a devida venia ao entendimento do douto juízo de origem, não há que se falar prescrição. Isto porque se extrai das p. 278/279 que o acordo, por vontade expressa das partes, não previu prazo para pagamento do débito, determinando, ainda, que os valores fossem corrigidos e atualizados na oportunidade de cada desembolso, até a quitação do montante.
+Significa que não se tratou de omissão que atraia a aplicação do art. 331 do Código Civil. Ao contrário, as partes estabeleceram prazo indefinido para cumprimento da obrigação, tanto que estabeleceram a incidência de acréscimos até a quitação.
+Se o acordo fosse silente, não há dúvida de que se aplicaria o referido dispositivo e a prescrição estaria a fluir. Mas, no caso, a redação do pacto (p. 278/279) deixa claro que a intenção era documentar o valor devido para livre pagamento ao longo do tempo.
+De um lado, garantia ao apelante qual o valor tinha ele a receber; de outro, garantia ao de cujus sua não execução integral. Assim, não fosse o óbito do devedor, estaria o pacto a produzir seus efeitos, permitindo ao falecido a realização de amortizações ao longo do tempo. Como, porém, Retin Mussi faleceu, correto que o prazo prescricional contra o espólio se inicie a partir do óbito.
+Basta pensar no caso em que o falecido estivesse pagando prestações fixadas em instrumento particular. Evidente que a demanda contra o espólio teria seu prazo contado a partir do vencimento.
+No caso concreto, foi o óbito de Retin Mussi que consumou o vencimento da obrigação, porquanto dali em diante não haveria como ele realizar amortizações na forma pactuada. E, como a demanda contra o espólio foi proposta menos de 8 (oito) meses após o óbito do devedor, por certo não há se falar na consumação do prazo quinquenal aplicável.
+Portanto, afasto a prejudicial de mérito.
+Com efeito, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, tal como busca o insurgente, esbarraria nos enunciados n. 5 e 7 da Súmula desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ACORDO CELEBRADO ENTRE AS PARTES, SEM PRAZO PARA QUITAÇÃO DO DÉBITO. TERMO INICIAL DO PRAZO PRESCRICIONAL. ÓBITO DO DEVEDOR. MODIFICAÇÃO DESSA CONCLUSÃO. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
