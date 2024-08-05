@@ -1,0 +1,29 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 334 (e-STJ):
+Claro, aqui está o texto corrigido sem alterar o conteúdo:
+Trata-se de apelação em embargos de terceiro opostos por LIBREPARTICIPAÇÕES E ADMINISTRAÇÕES LTDA., no âmbito da denominada "OPERAÇÃO LÁPAROS", com o objetivo de obter a baixa da constrição judicial (sequestro) determinada sobre o imóvel denominado "Data nº 01, da Quadra nº 26-B (Matrícula nº 4.200, do 4º Ofício de Registro de Imóveis de Londrina-PR)", de propriedade atribuída a AMADEU DA COSTA NETO, acusado no âmbito da referida "Operação Láparos" (autos nº 5001422-85.2011.404.7017).
+A sentença recorrida julgou extinto o feito sem julgamento de mérito, com fundamento na existência de coisa julgada, uma vez que já foram ajuizados embargos de terceiro pela apelante, com idêntico pedido e causa de pedir (processo 5001498-60.2021.4.04.7017/PR, evento 22, SENT1).
+Em suas razões de apelação, a empresa apelante alega, em apertada síntese, que não há identidade de causa de pedir, tampouco coisa julgada material; há uma nova situação jurídico-processual, tendo em vista que todas as ações penais vinculadas aos fatos criminosos que subsidiaram a concessão da medida acautelatória de sequestro já se encontram regularmente instruídas, contando todas, inclusive, com sentenças de mérito. As decisões anteriores que indeferiram o pedido de liberação do imóvel tinham por fundamento a pendência de julgamento das ações penais, sem que tivesse sido analisada a legítima propriedade por parte da recorrente (processo 5001498-60.2021.4.04.7017/PR, evento 38, APELAÇÃO1).
+A Procuradoria Regional da República lançou parecer opinando pelo desprovimento do recurso de apelação (evento 5, PARECER_MPF1).
+LIBRE PARTICIPAÇÕES E ADMINISTRAÇÕES LTDA. interpõe recurso especial i com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pela 8ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+PENAL. PROCESSO PENAL. EMBARGOS DE TERCEIROS. SEQUESTRO DE BENS. MEDIDA ASSECURATÓRIA. COISA JULGADA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR.
+1. Correta a decisão que concluiu pela existência de coisa julgada, uma vez que a apelante ajuizou embargos de terceiro, anteriormente, com o mesmo pedido e causa de pedir, cuja decisão que indeferiu o pedido anterior de liberação do imóvel transitou em julgado em28/08/2018 (processo nº 5000048-29.2014.4.04.7017/TRF4, evento48, CERTTRAN15).
+2. Desprovimento do recurso." (fl. 352 e-STJ)
+A defesa alega violação ao artigo 619 do Código de Processo Penal.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que deu provimento ao recurso de apelação interposto na origem (art. 105, III, "a", da Constituição Federal).
+Saliente-se também que houve indicação expressa das alíneas com base na qual foi interposto, uma vez que sua ausência importaria o seu não conhecimento e a petição está devidamente assinada.
+Foram também preenchidas as condições da ação, consistentes na legitimidade recursal, possibilidade jurídica do pedido e interesse em recorrer. O recurso interposto rebateu o fundamento apresentado na decisão recorrida, motivo pelo qual deve ser conhecido.
+No mérito, entretanto, o recurso merece ser desprovido em relação a violação do artigo 619 do CPP.
+Já proclamou essa Corte Superior de Justiça que o órgão judicial, para expressar sua convicção, não precisa tecer considerações acerca de todos os argumentos expendidos, pois, ainda que fosse sucinta a decisão, não fere o mencionado dispositivo quando pronuncia-se sobre as questões de fato e de direito, exprimindo o sentido geral do julgamento.
+No caso em análise, afirma o recorrente que "não houve pronunciamento acerca da questão nuclear apresentada, vale dizer, os Embargos de Terceiro últimos foram opostos em momento processual distinto, ONDE SE VERIFICAVA SITUAÇÃO JURÍDICO-PROCESSUAL DISTINTA E QUE À ÉPOCA DOSPRIMEIROSEMBARGOS DE TERCEIRO CONSTITUIU ÓBICE À SUA APRECIAÇÃO." (sic)
+A análise do acórdão recorrido indica, contudo, que a questão foi expressamente enfrentada em sede aclaratória, conforme se verifica do seguinte trecho (e-STJ Fl.380-381):
+Em que pese as alegações do embargante, conforme consignado no voto, "a quaestio já se encontra coberta pelo manto da coisa julgada formada nos Embargos de Terceiro n. 5000048-29.2014.4.04.7017, no qual idêntico pedido já fora formulado em sede de pleito de liberação da constrição do mesmo imóvel, oportunidade o magistrado de origem julgou improcedente o pedido, ao fundamento de existir fortes indícios deque o bem seja de propriedade do acusado Amadeu Costa Neto, denunciado nos autos da Ação Penal 5000036-83.2012.404.7017,originada a partir da "Operação Láparos".
+(..)
+Por mais que a parte embargante argumente que há um novo quadro fático, isto não se verifica, visto que a parte afirma que "comprova agora também a licitude e registro dos recursos utilizados para sua aquisição, conforme se confere pela anexa DIPJ/2006 - Ficha 53B", entretanto, os novos documentos já poderiam ter sido apresentados por ocasião da interposição dos primeiros embargos, pois se tratam de declarações de imposto de renda de meados de 2003 a 2006."
+Conforme a jurisprudência desta Corte, "somente a omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal" (REsp n. 1653588/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/6/2017, DJe 21/6/2017).
+Ante o exposto, conheço do recurso especial e lhe nego provimento.
+Publique-se. Intimem-se.
+EMENTA
