@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por MURILO BALIEGO FERRAZ DE ANDRADE e PALOMA VELASCO DOS SANTOS ANDRADE, em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, negando provimento a agravo interno manejado contra decisão monocrática que negou seguimento a recurso especial, nos moldes da seguinte ementa:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE DE EXECUÇÃO. BEM IMÓVEL.
+- Hipóteses definidas pelo E. Superior Tribunal de Justiça no tema 243. - Necessidade de citação válida, ressalvada a hipótese prevista no §4º do art. 828 do CPC (art. 615-A, §3º, do CPC revogado).
+- Além da citação, o reconhecimento da fraude depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula 375 do E. STJ).
+- Se não existir registro da penhora, pertence ao credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência.
+- Ausência de demonstração do desacerto da aplicação do entendimento estabelecido no E.STJ em julgamento repetitivo. Decisão mantida. RECURSO DESPROVIDO" (na fl. 44).
+A parte reclamante afirma, laconicamente, que pelo assinalado acórdão "não foi considerado que o presente caso deve ser analisado sob viés do distinguishing, vez que no presente caso não se aplica o previsto na súmula vinculante 375/STJ, vez que os reclamantes notadamente (sic) a alienação através do compromisso particular de venda e compra do imóvel de 2019, firmada entre as empresas pelo preço de R$430.000,00, ao invés de reconhecê-la pelo registro do instrumento público na matrícula imobiliária em 2022, pouco antes da tentativa de registro da ordem de penhora" (na fl. 4).
+Requer, em sede liminar, a suspensão do trâmite do processo originário e, no mérito, a cassação do acórdão recorrido com a prolação de nova decisão de admissibilidade do Recurso Especial.
+É o relatório.
+Passo a deliberar.
+A reclamação não merece trânsito.
+O eg. Tribunal de Justiça do Estado de São Paulo negou provimento a agravo interno manejado contra decisão monocrática que negou seguimento a recurso especial interposto pelos ora reclamantes, pois:
+"Neste contexto, o V. Acórdão recorrido (fls. 405/414) está em perfeita sintonia com a orientação superior, ao concluir pela não caracterização da fraude à execução.
+Confira-se trechos do V. Acórdão:
+"Não há indícios da propalada fraude à execução. Os embargados pretendem atingir negócio jurídico cujo objeto é bem imóvel cuja matrícula não continha nenhum apontamento restritivo (penhora, indisponibilidade, certidão premonitória etc.), donde não se poderia presumir a fraude à execução (Súmula 375/STJ) (..). E, realmente, o ânimo fraudulento não só não restou comprovado, como os demais elementos presentes nos autos infirmam qualquer suposição de fraude que se poderia fazer (..).
+Os embargados ajuizaram ação de indenização por danos materiais em decorrência de atraso na entrega das chaves. A pretensão condenatória tem eficácia ex nunc, de modo que o crédito só restou constituído após regular liquidação da sentença, iniciando-se a fase de cumprimento de sentença no ano de 2020. Antes disso, contudo, no ano de 2019, o imóvel foi compromissado à embargante, conforme contrato de compromisso de compra e venda, no qual consta reconhecimento das firmas em 14/05/2019 (fls. 22/24) (..).
+Vale ressaltar que, ao tempo do negócio jurídico os embargados ainda não tinham crédito constituído em seu favor. Adiante-se, para evitar alegação de omissões, que o fato de o crédito dos embargados ter sido constituído no ano seguinte (em 2020) é incapaz de comprovar má-fé, vez que não registrada na matrícula imobiliária a cautela a que alude o art. 54, inciso IV, da Lei nº 13.097/15, consagrando o princípio da concentração dos atos na matrícula imobiliária" (grifou-se, nas fls. 45/46).
+Assim, é certo que a parte ora agravante não promoveu anotação na matrícula do imóvel do manejo de ação incidente sobre o imóvel em disputa, bem como que o registro da penhora por ele efetuada se deu em momento posterior à lavratura de escritura de transferência de propriedade do imóvel a terceiros.
+Logo, o conhecimento do recurso especial depende do reexame de fatos e provas dos autos, soberanamente delineados pela instância local, providência vedada em sede de recurso especial, nos moldes da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, do RISTJ, indefiro liminarmente a presente Reclamação.
+Publique-se.
+EMENTA
