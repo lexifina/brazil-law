@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidente a Súmula n. 7/STJ.
+Nas razões de seu recurso, sustenta a agravante, em suma, que "da análise das razões recursais, pode se verificar um pleito sólido em prol da reforma do acórdão e não um mero inconformismo das recorrentes em colocar sob a apreciação do STJ o reexame de questões de fato e de provas, a fim de rediscutir a justiça da decisão recorrida" (fl. 348), requerendo, ao final, "o conhecimento e o provimento do presente agravo, com a reforma da decisão ora combatida, de forma a ser recebido e provido o recurso especial interposto" (fl. 349).
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo não provimento deste agravo.
+O presente agravo não merece conhecimento.
+Isso porque, alegando a agravante tão somente, como acima relatado, que "da análise das razões recursais, pode se verificar um pleito sólido em prol da reforma do acórdão e não um mero inconformismo das recorrentes em colocar sob a apreciação do STJ o reexame de questões de fato e de provas, a fim de rediscutir a justiça da decisão recorrida", não impugnou especificamente o óbice da Súmula n. 7/STJ, consoante a jurisprudência desta Corte.
+"Não se considera impugnada a Súmula n. 7 do STJ se o agravante se limita a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz do acórdão atacado e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Na espécie, não houve a observância da dialeticidade recursal, motivo pelo qual o referido recurso careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos usados para inadmitir o recurso." (AgRg no AREsp n. 2.587.487/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2024, DJe de 20/6/2024).
+""Para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa." (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022)." (AgRg no AREsp n. 2.493.895/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 20/5/2024, DJe de 27/5/2024).
+Sendo assim, inviável o agravo em recurso especial que deixa de impugnar todos os fundamentos da decisão que inadmitiu o apelo nobre, incidindo, na espécie, o teor da Súmula n. 182 do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
