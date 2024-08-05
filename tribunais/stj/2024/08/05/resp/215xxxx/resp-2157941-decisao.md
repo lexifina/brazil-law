@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA. LIMITAÇÃO DO DESCONTO. OBSERVÂNCIA. IMPROVIMENTO. REMESSA OFICIAL E APELAÇÃO IMPROVIDAS.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, além de negativa de prestação jurisdicional, a legalidade do art. 186 do Decreto 10.854/2021, "porquanto existe, nos arts. 1º e 2º da Lei 6.321/1976, autorização legislativa para que o Executivo regulamente e restrinja o benefício de dedução das despesas com o PAT de modo a priorizar os trabalhadores de baixa renda" (fl. 270).
+Contrarrazões apresentadas às fls. 294-305.
+É o relatório.
+Passo a decidir.
+Preliminarmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 189-190):
+Por oportuno, deve-se esclarecer que a redação dos arts. 1º e 2º, da Lei nº 6.321/76, não fez qualquer distinção quanto ao tipo de trabalhador que deve ser beneficiado com o PAT, de modo que o benefício deve ser concedido a todos os trabalhadores devidamente registrados no Ministério do Trabalho. Não pode o decreto regulamentador desta legislação exorbitar de sua competência e criar regramento inexistente no texto legal, sob pena de violação ao princípio da legalidade. Com efeito, o Programa deve priorizar o atendimento dos trabalhadores de baixa renda, mas abrange todos os trabalhadores.
+Por outro lado, a limitação à dedução dos valores referentes ao PAT, prevista no Decreto nº 10.854/2021, tem como consequência o aumento da carga tributária (majoração indireta da tributação), de modo que deveria ter sido observada a anterioridade anual pelo aludido texto infralegal.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Quanto ao mérito recursal, a Segunda Turma desta Corte já manifestou o entendimento de que o art. 186 do Decreto 10.854/2021, "ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade" (REsp n. 2.093.548/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/11/2023, DJe de 10/11/2023).
+Em reforço :
+AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR. ILEGALIDADE DO ART. 645, §1º, I E II, DO DECRETO N. 9.580/2018 FRENTE AOS ARTS. 1º E 2º, DA LEI N. 6.321/76.
+1. O Decreto n. 9.580/2018 (RIR/2018) foi alterado pelo art. 186, do Decreto n. 10.854/2021 para nele fazer incluir os incisos I e II, do §1º, do art. 645, onde foi estabelecido que a dedução referente ao Programa de Alimentação ao Trabalhador - PAT "será aplicável em relação aos valores despendidos para os trabalhadores que recebam até cinco salários mínimos" e "deverá abranger apenas a parcela do benefício que corresponder ao valor de, no máximo, um salário-mínimo".
+2. Ocorre que tais limitações para a dedução não constam expressamente nas leis criadoras do Programa de Alimentação ao Trabalhador - PAT, não podendo ser estabelecidas via decreto regulamentar, ainda que as leis regulamentadas tragam cláusula geral de regulamentação, pois carecedor de autorização legal específica.
+3. Isto porque o estabelecimento de prioridade para o atendimento aos trabalhadores de baixa renda, na forma do regulamento, não significa a autorização para a exclusão dos demais trabalhadores pelo regulamento, tal a correta interpretação dos arts. 1º e 2º, da Lei n. 6.321/76.
+4. Em situação análoga com as mesmas razões de decidir, o tema já foi enfrentado por este Superior Tribunal de Justiça quando da fixação de custos máximos para as refeições individuais oferecidas pelo mesmo Programa de Alimentação ao Trabalhador - PAT pela Portaria Interministerial n.º 326/77 e pela a Instrução Normativa da Secretaria da Receita Federal n.º 267/2002, que estabeleceram limitações ilegais não previstas na Lei n. 6.321/76, no Decreto n.º 78.676/76 ou no Decreto n. 5/91. Precedentes: AgRg no REsp 1240144 / RS, Segunda Turma, Rel. Min. Castro Meira, julgado em 15.05.2012;
+REsp 990.313/SP, Rel. Min. Castro Meira, Segunda Turma, DJe 06.03.08; REsp 157.990/SP, Rel. Min. Francisco Falcão, Primeira Turma, DJU de 17.05.04; REsp. n. 1.217.646 - RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 25.06.2013.
+5. Em conclusão, o art. 186, do Decreto nº 10.854, de 2021, ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.068.164/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
