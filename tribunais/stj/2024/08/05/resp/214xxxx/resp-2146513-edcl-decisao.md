@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SANTA VITÓRIA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. à decisão desta relatoria, assim ementada (e-STJ, fls. 200):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VISLUMBRADA. NULIDADE AFASTADA. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. SÚMULAS 7 E 83/STJ. IMPENHORABILIDADE. ART. 833, X, DO CPC/2015. RESTRITA AOS DEPÓSITOS EM CADERNETA DE POUPANÇA. PRECEDENTE. CIRCUNSTÂNCIA EXCEPCIONAL DA SITUAÇÃO CONCRETA EM JULGAMENTO. NÃO COMPROVADA. RECURSO ESPECIAL DESPROVIDO..
+Sustenta a embargante (e-STJ, fls. 211-217) a existência de obscuridade e omissões na decisão, afirmando a possibilidade de aplicação da impenhorabilidade de valores inferiores a 40 (quarenta) salários-mínimos às pessoas jurídicas, em qualquer tipo de conta, inclusive conta corrente ou de investimentos.
+Aponta o vício da omissão quanto ao fato de que a ausência de publicação da decisão de intimação acerca das penhoras realizadas em suas contas gerou prejuízos, sob o argumento de que os valores foram levantados antes de sua ciência e sem que lhe fosse concedida a oportunidade de se manifestar nos autos.
+Defende que a constrição onera excessivamente a empresa, a ponto de prejudicar o desenvolvimento de sua atividade comercial.
+Impugnação apresentada às fls.220-224 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.825.577/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/8/2021, DJe de 26/8/2021.)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL POR DANOS MATERIAIS, MORAIS C/C LUCROS CESSANTES. CONTRATO DE CESSÃO DE DIREITOS DE USO DE ÁREA IMÓVEL. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. CORREÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Existência de erro material que deve ser sanado, para restabelecer a decisão agravada, que acrescentou 10% (dez por cento) à verba previamente arbitrada nas instâncias precedentes, perfazendo 11% (onze por cento) sobre o valor da condenação.
+3. Embargos de declaração rejeitados, sanado erro material.
+(EDcl no AgInt no AREsp 1.424.868/PR, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/8/2021, DJe 2/9/2021)
+Diferentemente do afirmado pela embargante, não há falar em obscuridade ou omissão, uma vez que houve efetivo pronunciamento acerca das questões suscitadas no recurso especial, esclarecendo-se que a quantia bloqueada nas contas bancárias da sociedade empresária não é alcançada pela proteção do art. 833, X, do CPC/2015, além de não ter ocorrido qualquer prejuízo pela ausência de intimação para possibilitar o oferecimento da impugnação, que, apesar de apresentada tardiamente, foi devidamente analisada pelo magistrado de origem.
+Confira-se o seguinte excerto do voto prolatado pelo TJDFT (e-STJ, fls. 47-51, sem grifo no original):
+O cerne da questão se restringe em verificar se a ausência de publicação da r. decisão viola o devido processo legal tornando nulo os atos posteriores, além de examinar se os valores bloqueados estão acobertados pelo manto da impenhorabilidade, seja por não superar o patamar de 40 salários-mínimos, seja por integrar o capital de giro/faturamento da empresa.
+Pois bem.
+Revisitando os autos com a cautela que o caso requer e fazendo profunda análise e reflexão sobre todos os argumentos e informações trazidos, razão não assiste à parte agravante pelos motivos a seguir expostos.
+É incontroverso que a decisão de ID 147926372, que determinou a intimação do devedor para se manifestar, não foi publicada. Fato que foi, inclusive, certificado pelo cartório judicial no ID 154449953.
+Em um primeiro momento, parece ser acertado o acolhimento da tese trazida pela agravante de declarar nulo o ato e todas as decisões posteriores a ele.
+Ocorre que, examinando sistematicamente os autos, verifico que a preliminar aventada pela agravante não merece provimento.
+Em obediência ao princípio da pas de nulité sans grief, não se deve declarar nulidade do ato quando dele não resulta prejuízo efetivo.
+A r. decisão que deixou de ser publicada determinava a intimação do devedor/agravante para se manifestar sobre o bloqueio parcial realizado, vale dizer, não foi possibilitada o oferecimento da impugnação.
+Acontece que, ainda que tardiamente, houve a apresentação de impugnação por parte da agravante (ID 152001653). Tal impugnação foi analisada pelo Juízo a quo nas decisões de IDs de origem 154923638 e 158950426 que rejeitou a nulidade postulada.
+O primeiro ponto a ser examinado é se os valores penhorados estão acobertados pela impenhorabilidade em razão de não superarem o patamar de 40 salários-mínimos.
+Na hipótese dos autos, tal impenhorabilidade, a toda evidência, não se aplica às verbas constritas, porque os valores bloqueados não estavam em contas-poupança e, apesar da jurisprudência colacionada pela agravante quanto à interpretação extensiva do art. 833, inc. X, do CPC, o dispositivo é claro ao tratar de "quantia depositada em conta poupança" e os julgados invocados não representam precedentes vinculantes.
+( )
+Conclui-se, portanto, que as quantias depositadas em aplicações financeiras diversas da caderneta de poupança não são protegidas pela impenhorabilidade prevista no artigo 833, inciso X, do CPC. Normas restritivas de direitos ou conferidoras de privilégio são interpretadas restritivamente.
+Mostra-se, portanto, imperioso a manutenção da constrição, pelo fato dessa quantia não se encontrar protegida pela impenhorabilidade prevista no inciso X do citado dispositivo legal.
+O segundo ponto a ser examinado é no tocante à impenhorabilidade do valor em razão de integrar o capital de giro/faturamento da empresa.
+Com efeito, não há comprovação inequívoca nos autos de que o montante penhorado seria efetivamente utilizado para o "pagamento de empregados, pagamento de fornecedores, compra de insumos e custeio de atividades básicas da empresa", o que afasta, de plano, a alegação de comprometimento do bom funcionamento e dos valores da função social da empresa.
+Não se desincumbiu, portanto, do ônus de comprovar o fato alegado (CPC, art.373, I), não sendo a simples alegação suficiente a amparar a pretensão agravada.
+Ademais, a regra da impenhorabilidade busca a proteção da dignidade do devedor e de sua família, mediante a manutenção de um patrimônio mínimo e a preservação de condições para o exercício de uma vida íntegra, ou seja, a proteção é destinada às pessoas naturais, não podendo ser estendida indistintamente às pessoas jurídicas.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PENHORA DE RECURSO. VALORES DEPOSITADOS EM APLICAÇÃO FINANCEIRA DA EMPRESA DEVEDORA. PROTEÇÃO DE PEQUENAS QUANTIAS POUPADAS ATÉ O LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. INAPLICABILIDADE. PESSOAS JURÍDICAS. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a impenhorabilidade inserida no art. 833, X, do CPC/2015, reprodução da norma contida no art. 649, X, do CPC/1973, não alcança, em regra, as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor (pessoa física). Nesse sentido: " ..  a intenção do legislador foi proteger a poupança familiar e não a pessoa jurídica, mesmo que mantenha poupança como única conta bancária" (AREsp 873.585/SC, Rel. Ministro Raul Araújo, DJe 8/3/2017)" (AgInt no REsp 1.914.793/RS, Relator Ministro Herman Benjamin, DJe de 1º/7/2021).
+2. No caso, o Tribunal de Justiça, após o exame acurado dos autos, concluiu pela possibilidade de penhora dos valores depositados em conta de titularidade da pessoa jurídica, ante a ausência de comprovação de que os recursos financeiros penhorados seriam imprescindíveis ao exercício da atividade empresarial desempenhada pelo agravante, consignando, ainda, que a proteção requerida somente se aplica às pessoas físicas.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.467.204/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Convém destacar que "este Tribunal tem reconhecido a possibilidade de os empresários individuais e as sociedades empresárias de pequeno porte serem alcançados pela proteção da impenhorabilidade, quanto aos bens necessários ao desenvolvimento da atividade objeto do contrato social." (AgInt no REsp n. 1.934.597/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/9/2021, DJe de 22/9/2021.)
+Na hipótese dos autos, não houve comprovação por parte da devedora de que o valor penhorado em aplicações financeiras diversas da caderneta de poupança seria destinado a assegurar o bom funcionamento da empresa (e-STJ, fl. 51). Portanto, constata-se a ausência de justificativa excepcional a permitir a proteção da impenhorabilidade prevista no art. 833, X, do CPC/2015.
+Assim, a decisão não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido intuito modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE E OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
