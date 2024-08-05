@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por SC2 SHOPPING MESTRE ALVARO LTDA. contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Espírito Santo assim ementado:
+"APELAÇÕES CÍVEIS. DIREITO CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ILEGITIMIDADE PASSIVA REJEITADA. MÉRITO. ATRASO NA ENTREGA DO IMÓVEL. INADIMPLEMENTO POR CULPA DA CONSTRUTORA. LUCROS CESSANTES PRESUMIDOS. MINORAÇÃO NO CASO CONCRETO. DIFERENÇA DE FINANCIAMENTO. SALDO DEVEDOR ATUALIZADO MONETARIAMENTE SEM INCIDÊNCIA DE JUROS. DEVOLUÇÃO DEVIDA. VALIDADE DA CLÁUSULA DE TRANSFERÊNCIA DA COMISSÃO DE CORRETAGEM. INVALIDADE DA CLÁUSULA DE TRANSFERÊNCIA AO PROMITENTE COMPRADOR DO SERVIÇO DE ASSISTÊNCIA TÉCNICO IMOBILIÁRIA (SATI). SUCUMBÊNCIA RECÍPROCA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Presente pedido de devolução das quantias gastas com a comissão de corretagem, comprovadamente recebidas pela corretora imobiliária que intermediou a negociação, configurada está sua legitimidade para integrar o polo passivo da demanda. Ilegitimidade passiva da Consultora de Imóveis rejeitada 2. Afigura-se assente na jurisprudência do STJ, que uma vez constatada a entrega de imóvel além do prazo de tolerância e ausente justificativa plausível, restará caracterizada a mora da construtora, a qual deverá responder, perante os adquirentes, pelos prejuízos causados, aí incluídos os lucros cessantes decorrentes da impossibilidade de usufruição do imóvel durante o período em que perdurar a mora, na espécie de 01/10/2012 (dia posterior ao prazo de tolerância até 27/12/2012.
+3. Verificado -se nos autos que o imóvel somente foi entregue aos promitentes compradores após o transcurso de quase três (03) meses da data prevista no contrato, deve ser a construtora condenada a pagar, a título de lucros cessantes, a quantia mensal equivalente a 0,5% (meio por cento) do valor atualizado do imóvel, inclusive com os acréscimos correção monetária a partir do suposto mês de vencimento até a data da citação, momento a partir d qual deverá incidir apenas juros de mora pela taxa SELIC, vedada a cumulação destes com correção monetária.
+4. Demonstrada a mora da Construtora na entrega do empreendimento,
+devido a devolução do montante cobrado a título de "adiantamento do financiamento", uma vez que se impõe o congelamento do saldo final, sobre o qual deverá incidir apenas correção monetária, havendo a substituição, como indexador do saldo devedor, do índice Nacional da Construção (INCC) pelo Índice Nacional de Preços ao Consumidor Amplo (INPCA), salvo quando aquele for menor.
+5. O Superior Tribunal de Justiça, no julgamento do REsp 1.599.511/SP, submetido à sistemática dos recursos repetitivos, consagrou tese no sentido de que são válidas as cláusulas contratuais que transferem ao promitente- comprador a obrigação de arcar com a comissão de corretagem em contratos de compra e venda de imóveis nas hipóteses em que o valor da comissão é previamente informado ao consumidor, como ocorreu na espécie.
+6. Também na esteira do REsp 1.599.511/SP, é invalida a cláusula que transfere ao promitente comprador da taxa paga a título de serviço de assistência técnico imobiliária (SATI).
+7. Manutenção da Sucumbência recíproca, porém, face ao êxito parcial do recurso, deverão ser redimensionada à 40% (quarenta por cento) devidos pelos apelados e 60% (sessenta por cento) em detrimento dos apelantes" (e-STJ fls. 530 e 549).
+Os embargos de declaração opostos foram acolhidos parcialmente, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. CORRETORA. COBRANÇA E DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS. APÓS A EXPDIÇÃO DO HABITE-SE. OMISSÃO CONFIGURADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. Os embargos de declaração são recurso de fundamentação vinculada, que destinam-se a desfazer obscuridades, a afastar contradições e a suprir omissões que eventualmente sejam verificadas na decisão recorrida.
+II. De fato, não houve apreciação no julgamento dos primitivos embargos declaratórios quanto ao fundamento de ausência de cobrança dos juros remuneratórios suscitados pela embargante/ré no bojo da apelação, impondo - se o seu saneamento.
+III. Os juros de obra são de caráter compensatório cobrado do promitente comprador pela instituição financeira até a averbação da carta de habite-se, quando cessa a cobrança. Não ocorrendo na averbação na data acordada, que geralmente coincide com a data de entrega do imóvel, o pagamento desses juros pelo comprador passa a ser ilegítimo, porquanto incidente por culpa da vendedora, que, no período do atraso, deverá suportá-los.
+IV. Na sentença foi fixada a data da emissão de certidão de habitabilidade, isto é, 27/12/2012, como termo final de mora da Construtora, que o mútuo para pagamento do saldo devedor foi contratado em 31/10/2012 e, por fim, que os juros remuneratórios apenas foram exigidos a partir do mês de janeiro de 2013, ou seja, após a emissão da certidão de habite-se, motivo pelo qual, efetivamente, não há justificativa a restituição dos valores pagos a título de juros de obra.
+V. Recurso parcialmente provido" (e-STJ fl. 680).
+O recurso especial aponta violação dos arts. 240 do Código de Processo Civil; 397 e 405, do Código Civil, sustentando, em síntese, que "na pretensão de restituição de valores pagos em decorrência de relação contratual, os juros de mora fluem da citação" (e-STJ fl. 695).
+Foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Isso porque, ao julgar os embargos de declaração opostos ao acórdão recorrido, a Corte de origem entregou a prestação jurisdicional pretendida, entendendo que na espécie, os juros de mora fluem a partir da citação, consoante se verifica:
+"Outrossim, inexiste omissão acerca dos fatos geradores para incidência da correção monetária e juros de mora, uma vez que sedimentado que os embargados fazem jus a devolução da quantia paga a título de juros cobrados no período de atraso injustificado da entrega do imóvel, a partir de 01/10/2012 até 27/12/2012, como determinado na sentença, interstício em que deve incidir a correção monetária até o seu devido pagamento e juros moratórias, por óbvio, na forma do art.397 do Código Civil e art.240, segunda parte, do Código de Processo Civil" (e-STJ fl. 584 - grifou-se).
+Com efeitos, em casos como o presente, os juros de mora incidem à partir da citação, e a correção monetária, a partir do desembolso. Confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE IMÓVEL. ATRASO. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PERCENTUAL. VALOR DO LOCATIVO. TERMO FINAL. DISPONIBILIZAÇÃO DA POSSE DIRETA.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese em que o atraso na entrega do imóvel ocorre por culpa do promitente vendedor, o prejuízo do promitente comprador é presumido, o que enseja o pagamento de lucros cessantes.
+2. A fixação do percentual de 1% a título de lucros cessantes não se distancia da jurisprudência do STJ. Precedentes.
+3. O termo final para incidência dos lucros cessantes é a data da disponibilização da posse direta do imóvel ao promitente comprador.
+4. No inadimplemento contratual por parte da promitente-vendedora os juros moratórios incidem a partir da citação, e a correção monetária desde a data do desembolso.
+5. Agravo interno não provido"
+(AgInt no REsp 2.058.675/RN, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024 - grifou-se)
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. RESTITUIÇÃO DAS IMPORTÂNCIAS PAGAS. TERMO INICIAL DA CORREÇÃO MONETÁRIA. DATA DE CADA DESEMBOLSO. SÚMULA N. 83 DO STJ. NÃO PREVALÊNCIA DA LEI N. 6.899/1981.
+1. "O entendimento desta Corte é no sentido de que, em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso" (AgInt no REsp n. 1.988.931/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 19/8/2022).
+2. Tal orientação prevalece sobre a antiga Lei n. 6.899/1981 em decorrência do princípio que veda o enriquecimento sem causa - no caso provocado pela inflação -, disciplinado na moderna legislação civil pátria.
+3. Incidência da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento"
+(AgInt no AREsp 2.153.840/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+Dessa forma, incide na espécie o óbice da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
