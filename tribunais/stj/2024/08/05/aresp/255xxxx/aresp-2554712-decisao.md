@@ -1,0 +1,45 @@
+DECISÃO
+GEAN CARNEIRO DA SILVA agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia na Apelação Criminal n. 0002628-60.2020.8.22.0005.
+O agravante foi condenado a 7 anos de reclusão mais multa, no regime inicial semiaberto, pelo crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa alega violação do art. 33, § 4º, da Lei de Drogas.
+Requer a readequação da pena, com o reconhecimento do tráfico privilegiado.
+O r ecurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Minorante prevista no art. 33, § 4º, da Lei n.11.343/2006
+O Tribunal de origem manteve a negativa da causa de diminuição do tráfico, com base nos seguintes argumentos (fls. 800-801, destaquei):
+Subsidiariamente, a defesa dos apelantes pleiteia o reconhecimento e aplicação da causa especial de redução no patamar máximo (2/3), disposta no art. 33, §4º da Lei 11.343/06, alegando que os apelantes preenchem todos os requisitos.
+Em que pese os argumentos apresentados, referida causa especial de diminuição de pena trata-se de política criminal com o objetivo de punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da Lei de Tóxicos.
+In casu, a sentença afastou a figura do privilégio com a seguinte fundamentação:
+ ..
+No tocante à causa especial de diminuição de pena, muito embora os acusados sejam primários, verifico que não é o caso de aplicação. A propósito, como já decidiu o c. STJ, a "criação da minorante tem suas raízes em questões de política criminal, surgindo como um favor legislativo ao pequeno traficante, ainda não envolvido em maior profundidade com o mundo criminoso, de forma a propiciar-lhe uma oportunidade mais rápida de ressocialização." (REsp 1.329.088/RS).
+Com efeito, restou demonstrado que os acusados já vinham praticando o crime de tráfico de drogas bem antes de suas prisões, onde anunciavam e vendiam o entorpecente de maneira organizada, fazendo do tráfico de drogas seu meio de vida. Assim, de acordo com julgados do TJRO, tais fatos denotam a dedicação da agente às atividades criminosas e impede a concessão da especial redutora de pena.
+
+Com efeito, os apelantes não se tratam de pequenos ou eventuais traficantes, ou seja, aqueles que estão na atividade ilícita para manter o consumo com a venda de pequenas quantidades de droga, por exemplo.
+Pelo contrário, das mensagens e imagens obtidas em seus aparelhos celulares é possível observar que se dedicavam a atividades criminosas, pois tanto comercializavam diretamente com usuários, como também atuavam como verdadeiros fornecedores de entorpecentes, além de que mantinham uma cadeia de contatos estabelecida para exercer a atividade ilícita, demonstrando alto grau de envolvimento com o tráfico.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." ( HC n. 437.178/SC , Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+Conforme  visto,  a  Corte  estadual  entendeu  indevida  a  aplicação  do  redutor  em  questão,  com  fundamento,  resumidamente,  nas  circunstâncias  em  que  ocorreu  o  delito.
+Entretanto,  o  vínculo  eventual  do  réu  com  outros  indivíduos  para  a  prática  do  delito  de  tráfico  de  drogas,  por  si  só,  não  demonstra  que  o  acusado  se  dedica  a  atividade  criminosa  ou  integra  organização  criminosa, sobretudo pela primariedade e bons antecedentes.
+Consequentemente,  ante  a  ausência  de  fundamento  suficiente  o  bastante  para  justificar  o  afastamento  da  causa  especial  de  diminuição  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006,  deve  ser  provido  o  recurso,  a  fim  de  ser  aplicado  o  referido  benefício.
+No  que  tange  ao  total  de  redução  de  pena,  faço  lembrar  que  tanto  a  Quinta  quanto  a  Sexta  Turmas  deste  Superior  Tribunal  firmaram  o  entendimento  de  que,  considerando  que  o  legislador  não  estabeleceu  especificamente  os  parâmetros  para  a  escolha  da  fração  de  redução  de  pena  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006,  devem  ser  consideradas,  para  orientar  o  cálculo  da  minorante,  as  circunstâncias  judiciais  previstas  no  art.  59  do  Código  Penal,  sobretudo  o  disposto  no  art.  42  da  Lei  de  Drogas.
+Na  espécie,  uma  vez  que  a quantidade  já foi  valorada  na  primeira  fase  da  dosimetria  e  atendendo  à  orientação  da  Terceira  Seção  desta  Corte  (HC  n.  725.534/SP,  Rel.  Ministro  Ribeiro  Dantas,  DJe  de  1º/6/2022),  reduzo  a  pena  no  patamar  máximo  (2/3).
+Apenas  por cautela,  friso  que,  especificamente  no  caso  dos  autos,  a  conclusão  pela  possibilidade  de  aplicação  da  referida  minorante  não  demanda  o  revolvimento  de  matéria  fático-probatória,  procedimento,  de  fato,  vedado  em  recurso  especial.
+Este  recurso,  diversamente,  requer  apenas  a  revaloração  de  questões  incontroversas  que  já  estão  delineadas  nos  autos  e  nas  provas  que  foram  devidamente  colhidas  ao  longo  de  toda  a  instrução  probatória ,  bem  como  a  discussão,  meramente  jurídica,  acerca  da  interpretação  a  ser  dada  sobre  os  fundamentos  apontados  pela  instância  de  origem  para  negar  ao  réu  a  incidência  da  causa  especial  de  diminuição  de  pena  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006.
+Por se encontrarem na mesma situação fático-processual, estendo os efeitos desta decisão ao corréu VITOR HUGO MELIN DE BASTOS.
+II. Nova dosimetria
+Em decorrência da modificação efetivada anteriormente, deve ser realizada a nova dosimetria das penas impostas pela prática do delito de tráfico de drogas.
+a) Gean
+Na primeira fase, a reprimenda-base ficou estabelecida em 7 anos de reclusão e 700 dias-multa. Na segunda etapa, ausentes agravantes e atenuantes. Na terceira fase, a pena é reduzida no patamar de 2/3 em decorrência da minorante prevista no § 4º do art. 33 da Lei de Drogas. Assim, torno a pena do réu definitiva em 2 anos e 4 meses de reclusão e 233 dias-multa.
+b) Vitor
+Na primeira fase, a reprimenda-base ficou estabelecida em 7 anos de reclusão e 700 dias-multa. Na segunda etapa, ausentes agravantes e, presentes as atenuantes da menoridade relativa e da confissão espontânea, a pena ficou estabelecida na origem em 6 anos de reclusão. Na terceira fase, a pena é reduzida no patamar de 2/3 em decorrência da minorante prevista no § 4º do art. 33 da Lei de Drogas. Assim, torno a pena do réu definitiva em 2 anos de reclusão e 200 dias-multa.
+III. Regime e substituição
+Como consectário da redução efetivada na pena, deve ser procedido ao ajuste no regime inicial do seu cumprimento. Se, por um lado, os réus foram condenados a reprimenda inferior a 4 anos de reclusão, eram tecnicamente primários ao tempo do delito e foram beneficiados com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, por outro, tiveram a pena-base estabelecida acima do mínimo legal diante da grande quantidade de droga apreendida.
+Assim, entendo que deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Por fim, a desfavorabilidade das circunstâncias mencionadas acima evidencia que a substituição da pena não se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal.
+IV. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial para: a) reconhecer a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e aplicá-la na fração de 2/3; b) reduzir as reprimendas do acusado Gean para 2 anos e 4 meses reclusão e pagamento de 233 dias-multa e de Vitor para 2 anos de reclusão mais 200 dias-multa; c) fixar o regime semiaberto de cumprimento de pena.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
