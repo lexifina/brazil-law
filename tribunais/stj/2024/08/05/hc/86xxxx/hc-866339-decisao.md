@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NATÁLIADA COSTA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, cuja ementa teve o seguinte teor (fl. 20):
+Apelação Criminal. Tráfico de entorpecentes (artigo 33, caput e §4, da Lei 11.343/06). Sentença condenatória mantida. Preliminar. Ilegalidade das provas decorrentes de invasão domiciliar. Flagrante configurado. Preliminar afastada. Pretensão à absolvição Impossibilidade. Materialidade e autoria delitivas sobejamente comprovadas. Credibilidade do relato dos policiais militares. Depoimentos em harmonia com o conjunto probatório. Condenação mantida. Inviável a desclassificação da conduta. Dosimetria. Afastada a circunstância utilizada para recrudescimento da pena-base. Mantida a aplicação do redutor de pena previsto no art. 33, §4º, da Lei de Drogas, por ausência de recurso ministerial. Regime semiaberto mantido. Inviável a substituição da pena privativa de liberdade por restritivas de direito. Recurso parcialmente provido
+Consta dos autos que a paciente foi condenada ao cumprimento da pena privativa de liberdade de 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, a serem cumpridos inicialmente em regime semiaberto, além de 388 (trezentos e oitenta e oito) dias-multa, no mínimo legal, por incursa no artigo 33, caput e §4º, da Lei nº 11.343/06.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que foi parcialmente provido para readequar a pena imposta a NATALIA DA COSTASILVA para 03 (três) anos e 04 (quatro) meses de reclusão, em regime inicial semiaberto, além do pagamento de 333 (trezentos e trinta e três) dias-multa, no valor unitário mínimo, mantendo no mais a r. sentença tal qual prolatada.
+Neste writ, a sustenta a parte impetrante, em síntese, a existência de nulidade decorrente da violação de domicílio sem justa causa, bem como violação do art. 33, §4º, da Lei n. 11.343/2006.
+Requer a concessão da ordem para o reconhecimento da referida nulidade das provas ou a aplicação do art. 33, § 4º, da Lei n. 11.343/2006.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+O writ não tem cabimento.
+Em consulta ao sistema de dados desta Corte, verificou-se que que está em tramitação, nesta Corte Superior, o Agravo em Recurso Especial n. 2470116/SP, interposto contra admissibilidade negativa do respectivo recurso excepcional que, por sua vez, impugna o mesmo acórdão e também alega violação de domicílio, bem como a incidência do tráfico privilegiado no grau máximo, constantes deste writ.
+No caso, houve a interposição de recurso especial na origem e, na sequência, do agravo acima mencionado, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022). Cito, ainda: AgRg no HC n. 831.891/PB, Ministro Teodoro Silva Santos, Sexta Turma, DJe 15/12/2023; e AgRg no HC n. 848.280/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/10/2023.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
