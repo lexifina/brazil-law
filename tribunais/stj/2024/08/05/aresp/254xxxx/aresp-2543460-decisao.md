@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+No recurso especial, sustenta a defesa violação dos arts. 1º , 3º, 17, 36 e 41, inciso VII, da Lei de Execuções Penais, aduzindo que o réu, ainda que em cumprimento de pena em regime fechado, faz jus à prisão domiciliar a fim de frequentar curso de ensino superior em instituição pública para o qual foi aprovado.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido:
+Quanto ao mérito, de plano, consigno que inexistem razões fáticas ou jurídicas que sustentem a tese ventilada pelo Recorrente e, portanto, justifiquem a reforma do entendimento do MM. Magistrado de Primeiro Grau.
+Com efeito, busca o Agravante a concessão de autorização de prisão domiciliar para frequência a curso superior externo quando não atendeu aos requisitos necessários para tanto e, no momento, frequenta suas aulas - sem qualquer prejuízo - de modo on-line.
+Na forma do art. 117 da Lei de Execução Penal, "somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I - condenado maior de70 (setenta) anos; II - condenado acometido de doença grave; III- condenada com filho menor ou deficiente físico ou mental; IV - condenada gestante" -, hipóteses nas quais não se enquadra o Recorrente.
+Ademais, a pretensão de obter o recolhimento domiciliar para justificar a frequência em curso superior se afasta das hipóteses legais, mormente quando tal benefício só poderia ser concedido a custodiados do regime semiaberto, nos moldes do art. 122, II, LEP1 e art. 35, § 2º, Código Penal2 -, o que não é o caso.
+ ..
+Como bem colocado pelo Juiz Primevo (SEEU - Processo n.2000033-34.2019.8.05.0079, movimento 56.1) "apesar de ser louvável a iniciativa do requerente em realizar o curso de nível superior, a sua saída da unidade prisional para assistir às aulas na Universidade é incompatível, ao menos momentaneamente, como preso do regime fechado, ainda mais quando o crime imputado é classificado como hediondo, cuja pena prevista para cumprimento é em regime inicialmente fechado, até mesmo porque o Estado não teria condições de proceder à fiscalização necessária à frequência das aulas pretendidas".
+Ora, Doutos Pares, não se nega aqui a possibilidade de uma penado se matricular em instituições de ensino enquanto permanece em regime fechado, mas desde que, enquanto perdurar esta situação, o curso seja virtual (modalidade EAD).
+Por fim, destaque-se que o eminente Procurador de Justiça que emprestou opinativo ao procedimento em liça sintetizou que, in casu, "Embora não se desconheça a relevância da frequência a atividades de ensino no processo de ressocialização dos apenados e, ainda, por mais que seja louvável a atitude do reeducando buscar nível de instrução superior, tais circunstâncias, por si sós, não ensejam, neste momento, a liberação do cumprimento de pena para comparecer no curso aprovado ".
+Verifica-se que, no recurso especial, a defesa deixou de infirmar fundamentos utilizados pelo acórdão recorrido suficientes, por si, para a manutenção do julgado, quais sejam: a) "frequenta suas aulas - sem qualquer prejuízo - de modo on-line"; b) "a sua saída da unidade prisional para assistir às aulas na Universidade é incompatível, ao menos momentaneamente, como preso do regime fechado, ainda mais quando o crime imputado é classificado como hediondo".
+Incide, desse modo, por analogia, o enunciado da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "b", do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
