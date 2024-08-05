@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO CORDEIRO DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1515312-68.2022.8.26.0228).
+Consta dos autos que o Tribunal de Justiça deu provimento ao recurso de apelação interposto pelo Ministério Público, para condenar o paciente pelo crime de tráfico de drogas na forma privilegiada, à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, e ao pagamento de 194 dias-multa, fixados no mínimo legal. Eis o dispositivo do acórdão (e-STJ fl. 9):
+ACORDAM, em sessão permanente e virtual da 5ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, proferir a seguinte decisão: Deram provimento ao recurso do Ministério Público, para condenar Tiago Cordeiro da Silva como incurso no artigo 33, caput(com incidência da causa de diminuição do § 4º, na fração de 2/3), da Lei nº 11.343/06, à pena de 01 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, em regime aberto, e ao pagamento de 194 (cento e noventa e quatro) dias-multa, no mínimo legal, decretando-se, ainda, a perda dos valores e telefone celular apreendidos em favor da União. V.U., de conformidade com o voto do relator, que integra este acórdão.
+No presente mandamus, a defesa aduz, em síntese, que o paciente não foi devidamente intimado da sua condenação em segunda instância e que, em razão disso, o acórdão transitou em julgado sem a interposição de recurso.
+Pugna, liminarmente e no mérito, para que seja concedida ordem para desconstituir o trânsito em julgado da ação penal de origem, reabrindo-se o prazo para interposição de recurso contra o acórdão condenatório.
+É o relatório. Decido.
+Como é de conhecimento, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Na espécie, em que pese o impetrante afirme que o paciente não foi devidamente intimado do acórdão condenatório, não foram apresentados quaisquer documentos que comprovem o alegado constrangimento ilegal.
+Ante o exposto, indefiro liminarmente o mandamus.
+Intimem-se.
+EMENTA
