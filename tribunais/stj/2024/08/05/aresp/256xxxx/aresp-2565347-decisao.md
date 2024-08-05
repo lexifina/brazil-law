@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por OFFICE MASTER BRASIL FRANQUIAS LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+"Execução. Sucessão empresarial. Cessão de direitos inerentes à marca de que se valia exclusivamente a executada para o seu funcionamento. Devedora que não tem patrimônio e perdeu faturamento. Sucessora que, por sua vez, opera no mesmo ramo de atividade, aproveitando-se do mesmo endereço na internet e mesma clientela da cedente. Dívida anterior ao negócio que importou na transmissão da funcionalidade do estabelecimento empresarial e se revela ineficaz perante os credores do empresário alienante. Responsabilidade da sucessora reconhecida. Precedentes da Corte. Incidente acolhido. Recurso provido." (e-STJ fl. 1.601)
+Não foram opostos embargos de declaração.
+No recurso especial, a recorrente alega violação dos arts. 50 do Código Civil e 134, § 4º, do Código de Processo Civil. Sustenta que o recorrido se pauta na alegação de existência de sucessão entre as empresas e na existência de fraude à execução por suposta sucessão; porém, na linha do que decidido na primeira instância, não haveria prova da existência de vínculo entre as empresas. Apesar disso, argumenta que o TJSP entendeu que a sucessão ocorreu.
+Com as contrarrazões (e-STJ fls. 1.620/1.638), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Na origem, cuida-se de agravo de instrumento interposto por DANIEL ANTÔNIO RAMÓN HOMOBONO, ora agravado, contra decisão de primeira instância que julgou improcedente incidente de sucessão empresarial (Processo nº 0046894-93.2021.8.26.0100) manejado por ele em desfavor de OFFICE MASTER BRASIL LTDA. - EPP (OFICINA BRASIL SERVIÇOS AUTOMOTIVOS) e S. B. PEREIRA FRANCHISING EPP.
+O TJSP deu provimento ao agravo de instrumento para reformar a decisão de primeira instância e afirmar que houve sucessão do estabelecimento da devedora, apta a autorizar a inclusão da sucessora no polo passivo, dando provimento ao recurso para acolher o incidente e determinar a inclusão da sucessora na execução.
+A tese de ofensa aos dispositivos legais citados, que remetem ao incidente de desconsideração de personalidade jurídica, deve ser afastada. Isso porque, para chegar à conclusão de que houve sucessão empresarial no caso concreto, assim se manifestou o aresto atacado:
+"Embora as agravadas não admitam ter havido autêntico trespasse, hipótese em que a responsabilidade do adquirente do comércio da executada seria inegável (art. 1.143 e 1.146 do CC), os fatos demonstrados nos autos autorizam o reconhecimento da sucessão empresarial.
+Não há qualquer demonstração de que a executada, inobstante estar formalmente ativa nos cadastros, se encontra em atividade, gerando faturamento e com patrimônio para a satisfação do débito.
+Por sua vez, a S. B. PEREIRA FRANCHISING EPP foi constituída em 2016, pouco antes de haver adquirido todos os direitos inerentes à marca Oficina Brasil, da qual a executada, franqueadora OFFICE MASTER, dependia exclusivamente para se manter em funcionamento através dos contratos de franquia.
+Mesmo que aparentemente não haja proximidade entre os sócios da executada e o novo titular da marca, a sucessão empresarial se mostra caracterizada. Para isso "basta a prova da sucessão operacional, do compartilhamento de endereço, de que a sucessora exerce a mesma atividade comercial da sucedida, de que esta encerrou suas atividades e de indicativos de confusão patrimonial" (TJSP; Apelação Cível0031165-78.2004.8.26.0114; Relator (a): Celso Pimentel; Órgão Julgador:28ª Câmara de Direito Privado; Foro de Campinas - 8ª. Vara Cível; Data do Julgamento: 09/10/2012; Data de Registro: 11/10/2012).
+Além de obter a marca, a sucessora incorporou contratos com franqueados, telefone comercial e endereço na internet utilizados pela executada. A cessão envolveu, pois, não exatamente um conjunto de bens corpóreos (pouco relevante no patrimônio de uma franqueadora), mas principalmente os bens imateriais que, a bem dizer, constituíam a base do comércio da cedente.
+A cessionária continuou a explorar a mesma atividade econômica (franchising de lojas de oficina mecânica),valendo-se do mesmo endereço (site) e com o mesmo objeto social, aproveitando-se da clientela já formada pela empresa cedente.
+A configuração da sucessão empresarial não depende necessariamente da formalidade adotada na transferência do estabelecimento empresarial.
+Nesse quadro, evidente que a data fixada no contrato empresarial para marcar a responsabilidade de um e de outro contratante pelo passivo não vincula terceiros, principalmente os credores.
+(..)
+A sucessora foi constituída em 2016 (fls. 110/111) e a transferência do ativo da devedora, pelo indigitado contrato de cessão, ocorreu em 2017.
+Iniciado o cumprimento de sentença em 2018, não foram localizados bens passíveis de penhora em nome da devedora, que, aliás, confessara também não possuir mais faturamento (Processo n 0035475-81.2018.8.26.0100).
+Há robustos elementos para se afirmar que houve sucessão do estabelecimento da devedora, apta a autorizar a inclusão da sucessora no polo passivo.
+Ante o exposto, dou provimento ao recurso para acolher o incidente e determinar a inclusão da sucessora na execução."
+Ora, a caracterização da sucessão empresarial não exige a comprovação formal da transferência de bens, direitos e obrigações à nova sociedade, admitindo-se sua presunção quando os elementos indiquem, por exemplo, que houve o prosseguimento na exploração da mesma atividade econômica, no mesmo endereço e com o mesmo objeto social. Assim, a conclusão de que houve, na espécie, sucessão das atividades de uma empresa por outra decorreu da análise do contexto fático-probatório, a impedir o reexame da matéria na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+Nesse sentido: AgInt no REsp nº 1.874.250/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020; AgInt no AREsp nº 595.287/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/8/2020, DJe de 14/8/2020, e AgInt no AREsp nº 952.904/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/12/2016, DJe de 19/12/2016.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
