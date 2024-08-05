@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por ATACADÃO S.A. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 362):
+Responsabilidade Civil. Veículo avariado no estacionamento da requerida. No caso dos autos, a ré deixou de apresentar a integralidade das filmagens que possuía, conforme se extrai de prova testemunhal. Além do mais, os fragmentos apresentados não tinham identificação de horário e data. Não se desincumbindo de seu ônus, é devida a indenização por danos materiais. Os elementos reunidos nos autos não alicerçam a condenação da requerida ao pagamento de indenização por danos morais, uma vez que os fatos descritos nos autos, apesar de desagradáveis, não ultrapassam os meros dissabores cotidianos. Recurso parcialmente provido.
+Nas razões do recurso especial (e-STJ, fls. 369-379), o recorrente apontou violação aos arts. 371, 443, 489, §1º, IV e 1.022, I, do CPC/2015; e 186, 187 e 927 do Código Civil.
+Sustentou, em síntese: i) negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido; ii) ter cumprido rigorosamente com seu ônus probatório, com a juntada do boletim interno de ocorrência, imagens do veículo e de todos os vídeos que possuía; e iii) que não foi comprovado qualquer ato ilícito que o obrigue à reparação de danos materiais, tendo em vista que o veículo do recorrido ingressou no estacionamento do hipermercado já com avarias na lateral direita.
+Requereu a concessão de efeito suspensivo ao recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 387-392).
+O recurso especial não foi admitido na origem nem concedido o efeito suspensivo pleiteado, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No que se refere à negativa de prestação jurisdicional - violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que o recurso especial não pode ser conhecido, porquanto não houve a oposição de embargos de declaração para que o Tribunal local reparasse os vícios apontados nas razões do apelo extremo. Desse modo, a incidência da Súmula 284 do STF é medida de rigor.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA DOS AGRAVANTES.
+1. Inviável o conhecimento da alegada negativa de prestação jurisdicional quando não foram opostos embargos de declaração, na origem, em face do acórdão impugnado no recurso especial.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a incidência das Súmulas 283 e 284 do STF, por analogia.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.133.892/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE RECURSO DECLARATÓRIO NA ORIGEM. SÚMULA N. 284/STF. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. LIGAÇÕES DEFINITIVAS. COBRANÇA. ABUSO. AFASTAMENTO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Conforme o entendimento desta Corte Superior, "não havendo oposição de embargos de declaração na origem, resta inviabilizado o conhecimento da tese de negativa de prestação jurisdicional" (AgInt no AREsp n. 1.385.697/MA, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/5/2019, DJe 3/6/2019). Em tal contexto, incide analogicamente a Súmula n. 284/STF.
+2. A agravante alegou negativa de prestação jurisdicional (contrariedade aos arts. 489 e 1.022 do CPC/2015), mesmo deixando de opor recurso declaratório ao acórdão recorrido, o que atrai o referido óbice.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.326.694/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 363-366, sem grifo no original):
+Trata-se de ação por meio da qual o autor pretende receber indenização por danos materiais e morais, nos valores respectivos de R$ 1.464,00 e R$ 16.500,00, decorrente de avarias no lado direito de seu veículo (passageiro) no estacionamento da ré enquanto fazia compras.
+Os pedidos foram julgados improcedentes, motivando o presente recurso.
+De fato, a relação estabelecida entre as partes é de consumo, uma vez que o autor se amolda ao conceito de consumidor (art.29 do CDC) e a ré é empresa prestadora dos serviços, classificada como fornecedora, nos termos do art. 3º do referido diploma.
+Considerando que a apelada possuía o conteúdo integral das filmagens, não era apenas cabível, mas inteiramente recomendável a inversão do ônus da prova, nos termos do art. 6º, VIII, do CDC.
+Importante ressaltar que o apelante impugnou as filmagens apresentadas, já que não apresentam data e horário, e salientou que retornou ao supermercado em momento posterior da constatação das avarias para solucionar o problema.
+A apelada apresentou duas filmagens, uma consistindo na entrada do veículo, e a outra que demonstra avarias na lateral do veículo, com apenas 16 segundos, ambas sem data e horário, devidamente impugnadas pelo apelante.
+Respeitado o entendimento do MM. Juízo sentenciante, na oitiva da funcionária da ré (a partir do minuto 19:09), após ter sido questionada sobre a possibilidade de as avarias terem ocorrido no período em que o veículo estava estacionado, revelou que a equipe encarregada pelo monitoramento teria afirmado que "não encostou nenhum carro, nenhum carrinho de mercado, nada, que não houve essa possibilidade". Afirmou, ainda, que existem várias câmeras, uma giratória, uma na entrada e outra na saída.
+Dessa forma, não se desincumbiu a requerida de seu ônus ao apresentar apenas fragmentos das imagens, quando poderia tê-las disponibilizado em sua integralidade, ainda mais porque tais filmagens carecem de identificação de data e horário.
+O estacionamento, extensão do hipermercado, é cedido a todos que o frequentam e serve como meio de captação de clientes, por ser um benefício a ser considerado por aqueles que pretendam adquirir produtos ou serviços. A ré assumiu, mediante a oferta do serviço diferenciado, ainda que eventualmente gratuito, o dever de guarda e vigilância dos veículos estacionados no local.
+Assim, não apresentadas as imagens que demonstrariam que os danos no veículo não ocorreram no período em que veículo permaneceu estacionado, fica evidenciada a falha na prestação do serviço.
+Os danos estão suficientemente demonstrados nos autos. Além das fotografias, foram coligidos aos autos o recibo de compras e o boletim de ocorrência, todos emitidos em 07.06.2021, em horários próximos ao evento danoso, os quais são suficientes para amparar a pretensão inicial, sobretudo porque não foram infirmados por qualquer outro meio de prova idôneo.
+( )
+Desse modo, a requerida é responsável pelos danos causados ao requerente, decorrentes das avarias no automóvel no seu estacionamento. Aliás, a questão foi objeto da Súmula 130 do Col. STJ: "A empresa responde, perante o cliente, pela reparação de dano ou furto do veículo ocorridos em seu estacionamento".
+Quanto aos danos morais, os elementos reunidos nos autos não alicerçam a condenação da requerida ao pagamento de indenização por danos morais. Os fatos descritos nos autos são
+desagradáveis, mas não ultrapassam os meros dissabores cotidianos a que todos estamos expostos.
+Ante o exposto, dou parcial provimento ao recurso para reformar a r. sentença e condenar a requerida ao pagamento de danos materiais no importe de R$ 1.464,00 corrigidos desde a data do evento danoso e com juros de mora desde a citação.
+Consoante excerto do voto acima transcrito, o Colegiado estadual consignou que o agravante deixou de comprovar fato impeditivo, modificativo ou extintivo do direito autoral, em desconformidade ao disposto no art. 373, II, do CPC/2015.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA REQUERIDA.
+1. Não se constata a alegada violação ao artigo 1.022, do NCPC, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+2. Embora não seja necessário debater a origem da dívida, em sede de ação monitória fundada em cheque prescrito, o réu pode formular defesa baseada em eventuais vícios ou na inexistência do negócio jurídico subjacente. Na espécie, no entanto, a parte demandada não de desincumbiu do seu ônus de comprovar fato modificativo, extintivo ou impeditivo do direito do autor (art. 373, II, do CPC/2015).
+2.1. Hipótese em que o entendimento firmado pelo aresto recorrido encontra consonância na orientação jurisprudencial firmada por esta Corte, o que atrai a incidência do óbice contido na Súmula 83/STJ.
+2.2. Para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado e o revolvimento das provas juntadas aos autos a atrair o óbice da Súmula 7/STJ. 3. A falta de cotejo analítico entre o acórdão recorrido e os paradigmas invocados impede o acolhimento do apelo no tocante à alínea "c" do permissivo constitucional, pois não foram demonstradas em quais circunstâncias o caso confrontado e o arestos paradigmas aplicaram diversamente o direito, sobre a mesma situação fática.
+4. Quanto à alegada ofensa aos artigos 17 da Lei nº 7.357/85; e 69 da Lei nº 9.069/95, há ausência de pertinência temática entre os fundamentos apresentados pelo insurgente e a questão julgada pelo Tribunal de origem, incidência da Súmula 284/STF.
+5 Agravo interno desprovido.
+(AgInt no AREsp n. 1.378.435/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/6/2019, DJe de 28/6/2019.)
+Além disso, constata-se que o acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que a prestação de segurança aos bens do consumidor é inerente à atividade comercial desenvolvida por hipermercado, nos termos da Súmula 130/STJ. Assim, a responsabilidade do agravante ficou configurada na presente hipótese, a atrair a incidência da Súmula 83/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. SUBTRAÇÃO DE MOTOCICLETA EM ESTACIONAMENTO DE ESTABELECIMENTO COMERCIAL. INTELIGÊNCIA DA SÚMULA 130/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. Nos termos da Súmula 130 do Superior Tribunal de Justiça, "a empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento".
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.942.704/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor da advogada da parte recorrida para 15% (quinze por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO PERANTE O TRIBUNAL DE ORIGEM. SÚMULA 284 DO STF. 2. FALTA DE COMPROVAÇÃO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO AUTORAL. ART. 373, II, DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ 3. VEÍCULO AVARIADO NO ESTACIONAMENTO DO HIPERMERCADO. SÚMULA 130/STJ. 4. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
