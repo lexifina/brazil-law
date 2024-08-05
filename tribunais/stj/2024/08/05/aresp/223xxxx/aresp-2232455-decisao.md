@@ -1,0 +1,46 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por MUNICÍPIO DE SÃO PAULO, contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Ação declaratória de inexistência de relação jurídico-tributária. Isenção fiscal do IPTU. Imóvel locado à igreja. Prolação de sentença de improcedência. Reforma de rigor.
+O proprietário do imóvel detém legitimidade ativa para requerer a benesse citada, pois enquadra-se como contribuinte de direito do imposto (art. 34 do CTN).
+O reconhecimento da isenção pretendida é imperioso. Há lei municipal isentiva do IPTU na hipótese versada nos autos (Lei nº 13.250/01). Nela, exige-se apenas a apresentação do contrato de locação por parte do proprietário do bem, o que se viu na hipótese (fls. 45/55).
+Em razão da subsunção da situação fática à norma citada, de rigor a reformada sentença para o consequente reconhecimento da isenção fiscal pretendida.
+Inverte-se a condenação ao pagamento das custas, despesas processuais e honorários advocatícios outrora fixada.
+Dá-se provimento ao recurso, nos termos do acórdão (fl. 361).
+A parte recorrente opôs embargos de declaração contra a decisão recorrida, tendo sido negados (fls. 380-383).
+Em seguida, a municipalidade, ora recorrente, interpôs recurso especial, com fundamento no art. 105, III, a, da CF/1988, no qual sustenta que o acórdão recorrido teria violado os arts. 18 e 1.022, II, do CPC/2015.
+O recurso especial foi inadmitido em relação ao art. 1.022 do CPC/2015, porque o acórdão recorrido estaria devidamente fundamentado e, em relação ao art. 18 do CPC/2015, inadmitido porque a violação ao dispositivo apontado não seria suficiente para desconstituir a decisão recorrida e pela aplicação da Súmula 280/STF (fls. 393-395), tendo a parte interposto este agravo.
+É o relatório.
+Passo a decidir.
+Da não violação do art. 1.022, II, do CPC/2015
+Este recurso especial alega que teria ocorrido violação ao art. 1.022, II, do CPC/2015, porquanto o acórdão que julgou os embargos de declaração não teria apreciado a alegação de ilegitimidade do proprietário do imóvel ao ajuizar ação pleiteando isenção ao imóvel utilizado por igreja evangélica, consequentemente, deixando de enfrentar o art. 18 do CPC/2015.
+Não verifico os vícios alegados, tampouco outro que imponha a anulação do acórdão recorrido.
+A contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão. A omissão consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais.
+O acórdão recorrido enfrentou todas as questões relevantes apresentadas com fundamentos suficientes, tendo assinalado seu entendimento sobre a legitimidade ativa do proprietário para ver reconhecida a isenção, como se lê do seguinte trecho:
+Primeiramente, insta salientar que o proprietário do imóvel detém legitimidade ativa para requerer a benesse citada, pois enquadra-se como contribuinte de direito do imposto (art. 34 do CTN).
+No caso, há lei municipal isentiva do tributo na hipótese versada nos autos, qual seja, a Lei nº 13.250/01, que dispõe o seguinte:
+ ..
+Tal disposição foi regulamentada pelo Decreto nº 52.884/11.
+Desta forma, percebe-se que a norma municipal regente da isenção tributária para imóveis locados a entidades religiosas exige apenas a apresentação do contrato de locação por parte do proprietário do bem (fl. 363).
+Não se verifica ofensa ao art. 1.022 do CPC/2015, porquanto o acórdão do Tribunal a quo enfrentou as teses relevantes levadas a julgamento, não se caracterizando omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, como se verifica das seguintes ementas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC/15, porquanto a controvérsia referente à interrupção do prazo prescricional foi apreciada pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos  ..  (AgInt no AREsp 2.374.187/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023, grifo nosso).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGOS 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. SUPOSTA OMISSÃO A RESPEITO DA POSSIBILIDADE DE MANTER A EFICÁCIA DA PENHORA PARA SALVAGUARDA DE CRÉDITO SUB-ROGADO. CRÉDITO ORIGINÁRIO AINDA NÃO SATISFEITO. JUSTIFICATIVA SUFICIENTE. OMISSÃO DESCARACTERIZADA  ..
+1. A análise da controvérsia nos limites objetivos da controvérsia deduzida no recurso especial, de modo suficiente à conclusão alcançada, evidencia a suficiência da justificativa apresentada, afastando a alegação de contrariedade aos artigos 489 e 1.022 do CPC/15  ..  (AgInt no AREsp 2.265.640/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023, grifo nosso).
+Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade ou contradição. Não se prestam, contudo, a revisar entendimento materializado de forma clara, coerente e congruente, como nestes autos. Assim, afastada a alegação de violação do art. 1.022 do CPC/2015.
+Da aplicação da Súmula 280/STF
+A violação ao art. 18 do CPC/2015 não merece conhecimento, pois a lide foi decidida pela Corte de origem mediante análise de legislação local, qual seja, a Lei 13.250/2001, que concederia isenção objetiva ao imóvel utilizado como templo religioso. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Para se aferir a violação ao art. 18 do CPC/2015, seria necessária análise das disposições contidas em legislação local, entretanto, a norma de direito local não é impugnável pela via do recurso especial por não se enquadrar no conceito de lei federal, a ensejar a aplicação da Súmula 280/STF, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONTRATAÇÕES COM DESCONTOS EM FOLHA DE PAGAMENTO E CONTA-CORRENTE. SEM LIMITE EM CONTRATOS COM ADMINISTRADORA DE CONTA-CORRENTE.  .. . LEGISLAÇÃO DISTRITAL. SÚMULA 280/STF.
+ ..
+3. É imprescindível análise da lei local para o deslinde da controvérsia, qual seja, a citada legislação distrital, providência vedada em Recurso Especial. Aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal: "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+4. Agravo Interno não provido (AgInt no REsp 2.036.155/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/6/2023, DJe de 27/6/2023, grifo nosso).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. JULGAMENTO EXTRA PETITA. SÚMULA N. 211/STJ. MULTA ISOLADA. ACÓRDÃO LOCAL QUE AFIRMAR TER SIDO CORRETAMENTE INCLUÍDA NA CDA A MULTA ISOLADA POR DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓARIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. MATÉRIA DECIDIDA À LUZ DO RICMS. SÚMULA N. 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O acórdão do Tribunal local afirmou expressamente às fls. 600-601 e-STJ que "(..) no que tange à sanção aplicada, nota-se da CDA a multa foi aplicada com fundamento adotado na alínea "j" do inciso II do art. 527 c. c §§1º e 10 do mesmo RICMS (Decreto 45.490/00), justamente em razão de o formato dos arquivos magnéticos apresentados ao Fisco estarem em desacordo com a Portaria CAT 17/99.  ..
+4. Revisar o acórdão recorrido recorrido quanto ao efetivo lançamento da multa isolada tida por incluída na CDA ou de ocorrência de modificação dos critérios jurídicos do lançamento, se ocorrido, demandaria incursão no substrato fático-probatório dos autos, providência inviável em sede de recurso especial em razão do óbice da Súmula nº 7 desta Corte, além da necessidade de exame da legislação local que autoriza a incidência da referida multa por descumprimento de obrigação acessória a atrair o óbice da Súmula nº 280 do STF.
+5. Agravo interno não provido (AgInt no AREsp 1.790.718/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/12/2022, DJe de 13/12/2022, grifo nosso).
+Isso posto, com fundamento no art. 932, IV, do CPC/2015; bem como na Súmula 568/STJ; e art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios anteriormente fixados em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
