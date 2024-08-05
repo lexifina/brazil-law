@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MAURÍCIO JOSÉ DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2055076-38.2024.8.26.0000).
+Depreende-se dos autos que o paciente foi denunciado pela suposta prática do delito previsto no art. 121, § 2º, inciso I, do Código Penal, tendo sido sua prisão preventiva decretada em 1º /12/2017 e efetivada em 13/11/2023.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, conforme acórdão assim ementado (e-STJ fl. 90):
+"Habeas Corpus". Homicídio qualificado. Pretendida revogação de prisão preventiva ou sua substituição por medidas cautelares alternativas. Critério judicial ponderado, notadamente pelas circunstâncias e gravidade do crime. Incompatibilidade da liberdade, para casos graves. Impossibilidade da concessão dos benefícios pleiteados. Custódia necessária. Garantia da ordem pública preservada. Precedentes fortes na jurisprudência. Inaplicabilidade de medidas cautelares alternativas. Irrelevância da existência de primariedade, bons antecedentes, residência fixa, idade avançada e eventuais problemas de saúde do paciente. Prisão cautelar mantida. Ordem denegada.
+Daí o presente writ, no qual a defesa alega não haver fundamentação idônea que enseje a manutenção da prisão preventiva, destacando que "o paciente foi denunciado e se encontra recolhido no cárcere desde 13/11/2023 por suposto homicídio qualificado, o qual teria ocorrido em início do ano de 2017, porém, sem qualquer demonstração por parte das Instâncias Ordinárias, de que seja o Paciente autor do delito e, além disso, a imperiosa necessidade de sua manutenção no cárcere" (e-STJ fl. 6).
+Argumenta, no ponto, que ele "nunca fugiu, ape nas estava no interior do Estado do Pernambuco em companhia de sua família e jamais tomou conhecimento da existência da investigação criminal ou da ação penal contra si, ou seja, jamais teve a intenção de fugir de eventual acusação criminal, até por que, conta com mais de 73 anos de idade e é portador de inúmeras doenças, se colocando à disposição do Poder Judiciário para responder à acusação, pois, imediatamente constituiu advogado, não demonstrando qualquer descrédito nem desrespeito ao Poder do Estado, pelo contrário, sempre cumpriu as determinações legais e no caso dos autos, não poderia ser diferente" (e-STJ fl. 7).
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação do writ.
+É o relatório.
+Decido.
+Em consulta ao processo de origem n. 0008503-07.2017.8.26.0554, verifica-se que sobreveio a prolação de pronúncia, em 27/5/2024, dando o recorrente como incurso nas penas no art. 121, § 2º, inciso I, do CP. Na ocasião, a Magistrada singular negou a possibilidade de recurso em liberdade.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. DECISÃO DE PRONÚNCIA. SUPERVENIÊNCIA. PREJUDICIALIDADE DO MANDAMUS. RECURSO NÃO PROVIDO.
+1. Segundo reiterada jurisprudência de ambas as Turmas Criminais deste Tribunal Superior, a superveniência de sentença condenatória ou de decisão de pronúncia, por constituir novo título judicial a amparar o encarceramento provisório do acusado, é causa de prejudicialidade do mandamus impetrado contra anterior decreto de prisão preventiva.
+2. Correto o entendimento da Corte de origem, ao ter julgado prejudicado o habeas corpus lá impetrado em razão da superveniência de decisão de pronúncia, porquanto o referido remédio constitucional questionava anterior decreto de custódia preventiva.
+3. Uma vez que a prisão cautelar do ora agravante atualmente decorre da decisão de pronúncia - título judicial que ainda não foi analisado pela Corte estadual -, fica impossibilitado a este Superior Tribunal apreciar os fundamentos do novo decreto constritivo sem que haja prévia submissão dessa tese ao Tribunal de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+4. Agravo regimental não provido. (AgRg no HC 333.297/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/02/2016, DJe 02/03/2016.)
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte Superior (RISTJ), julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
