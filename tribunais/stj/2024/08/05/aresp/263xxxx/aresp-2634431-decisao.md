@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por NELSON ALMARAZ MENDES, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 46):
+Ação de execução de título extrajudicial. Justiça Gratuita. Responsabilidade pelo pagamento do preparo recursal é do espólio agravante-executado e não da inventariante. Acervo patrimonial restrito a um único imóvel. Iliquidez imediata do patrimônio e sua modicidade que permitem a concessão da gratuidade processual.
+Alegação de impenhorabilidade de bem imóvel. Bem de família. Não comprovação. Ausência de demonstração de que o único imóvel que compõe o acervo patrimonial do espólio seja utilizado como moradia permanente da inventariante ou de sua família, nos termos do art. 5º da Lei n.º 8.009/90. Precedentes deste E. TJSP e do C. STJ.
+Decisão mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 74-77).
+Nas razões do recurso especial (e-STJ, fls. 79-91), o agravante alegou violação aos arts. 1º e 5º, da Lei n. 8.009/1990.
+Sustentou, em síntese, que em que pese ter sido transmitido a herdeira o bem de família pela morte do pai, o fato de não residir no imóvel, ao tempo da morte do "de cujus", por si só afasta a proteção de impenhorabilidade do bem de família.
+Contrarrazões apresentadas (e-STJ, fls. 94-104).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 110-123).
+Contraminuta apresentada (e-STJ, fls. 138-146).
+Brevemente relatado, decido.
+De início, o Tribunal de origem fundamentou que (e-STJ, fls. 51-53 - sem destaque no original):
+É incontroverso que o imóvel da rua Dr. Bezerra de Menezes , número 170 , Apartamento 21 , Macuco , Santos , é o único de propriedade do Espólio de Nelson Almaraz Mendes , tendo como única herdeira Laura Beatriz de Oliveira.
+A certidão de óbito mostra que o falecido Sr Nelson Almaraz Mendes , pai de Laura , morava no imóvel, objeto da controvérsia , situado na rua Dr Bezerra de Menezes , número 170 , Apartamento 21 , Macuco , Santos (fls 36 ) Todavia , Laura Beatriz de Oliveira Santos Mendes , filha do de cujus, e sua única herdeira , indica como seu endereço o da Rua Maria Patricia número 32-Santa Maria-Santos. (Fls 276 dos autos principais )No inventário observa-se que sua mãe , Sra Valéria Cristina de Oliveira Santos possui o estado civil de divorciada , e também tem domicilio na Rua Maria Patrícia número 32 .( Processo 1012741-86-2021.8.2021.8.26.0562) Isto quer dizer que Laura já na época da abertura do inventário morava com sua mãe na Rua Maria Patrícia numero 32, Santa Maria, Santos.
+A certidão de óbito, como dito inicialmente , mostra que o falecido Sr Nelson Almaraz Mendes, pai de Laura, morava no imóvel, objeto da controvérsia , situado na rua Dr Bezerra de Menezes , número 170 , Apartamento 21 , Macuco, Santos (fls 36 ) Entrementes , o Sr Nelson , não era casado com a mãe de Laura , pois, consta na certidão de óbito que era " divorciado de Elisete Souza Correia". (fls 36 ) Portanto , a conclusão é de que Laura , bem como sua mãe Valéria , não moravam com o falecido Sr Nelson Almaraz Mendes.
+Em tais condições o V. Acordão do Colendo Superior Tribunal de Justiça , prolatado no Resp número1.271.27 , Relator o eminente Ministro Ricardo Villas Bôas Cueva , Terceira Turma , julgado em 15/03/2016 , DJE29/03/2016, invocado pelo agravante (fls 12-13 ) , não tem o condão de incidir no caso concreto.
+É que não morando a única herdeira do Espólio recorrido , nem sua mãe , com o falecido pai , inviável a extensão , em razão da morte , de eventual garantia de bem de família , usufruída pelo de cujus enquanto vivo.
+A morte somente poderia transmitir à única herdeira os direitos decorrentes da situação de fato , existente à época da abertura da sucessão: inviável no caso concreto o reconhecimento da transmissão da garantia relativa ao bem de família , se no momento da abertura da sucessão , não existiam os requisitos legais suficientes , para a extensão do beneficio em favor da herdeira, eis que a mesma não residia com o pai no imóvel.
+Como se vê, o órgão julgador, após análise das peculiaridades do caso concreto e do conjunto fático e probatório dos autos, asseverou que o imóvel em questão não se trata de bem de família, afastando a sua impenhorabilidade.
+Com efeito, para derruir as conclusões contidas no decisum atacado e acolher o inconformismo recursal, no sentido de aferir a comprovação de que o imóvel constitui bem de família, para fins de impenhorabilidade, seria imprescindível o revolvimento dos fatos e das provas da demanda, providência que esbarra no óbice da Súmula 7/STJ.
+A propósito, citam-se (sem destaque no original):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Alterar o decidido no acórdão impugnado, no que se refere à impenhorabilidade do imóvel objeto deste processo, em razão do referido bem ostentar a condição de bem de família, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1912494/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/02/2022, DJe 24/02/2022)
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PENHORA. BEM DE FAMÍLIA. SUBSISTÊNCIA DO GRUPO FAMILIAR. COMPROVAÇÃO. AUSÊNCIA. REEXAME. IMPOSSIBILIDADE.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. De acordo com o entendimento firmado por esta Corte, é impenhorável o único imóvel do devedor, ainda que locado a terceiros, desde que a renda obtida seja revertida para a subsistência ou a moradia da sua família, nos termos da Súmula 486 do STJ.
+3. Hipótese em que o Tribunal de origem entendeu não ser o caso de aplicação do referido verbete sumular, porquanto não foi comprovado que o executado se utiliza da renda proveniente do bem penhorado para o sustento da família.
+4. A reforma do aludido entendimento não é viável em recurso especial, nos termos da Súmula 7 do STJ, visto que exigiria revisitar o acervo fático-probatório levado a efeito para firmar a convicção da instância ordinária.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1505477/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/10/2021, DJe 24/11/2021)
+As conclusões do Tribunal de origem em relação à impenhorabilidade do bem imóvel por se enquadrar no conceito de pequena propriedade rural, assim como a existência de indícios de que o bem é explorado em regime de economia familiar; não podem ser revistas por esta Corte Superior, pois demandaria necessariamente o reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 deste Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. AFASTADA. AUSÊNCIA DE PROVAS. HERDEIRA QUE RESIDIA EM OUTRO IMÓVEL, EM OUTRO ENDEREÇO. SITUAÇÃO QUE NÃO EXISTIA ANTES DO ÓBITO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
