@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por HAMILTON SANTOS DE PAULA COUTO, contra a decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos, não incidindo o óbice da Súmula 7 do STJ, já que "a solução da controvérsia prescinde de interpretação da legislação ordinária referida e de revolvimento do conjunto fático-probatório, pois o texto legal (Estatuto da OAB) é de clareza solar, e, no caso concreto - atuação do Advogado dentro de Unidade da Federação - a norma NÃO apresenta nenhum requisito ou óbice à atuação do profissional, conforme artigo da Lei 8.906/94"
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+Súmula 7/STJ
+A pretensão da parte recorrente relativa à violação aos arts. 3º da Lei Complementar 116/2003 e 10 da Lei 8.906/94 encontra óbice na Súmula 7 do STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que:
+a existência de inscrição do recorrente nos cadastros municipais enseja presunção relativa do exercício da advocacia, o qual pode ser elidido por prova em contrário, hipótese em que a parte apelante deverá demonstrar de modo inequívoco a inexistência da dívida em razão da cessação do exercício da atividade de advocacia na municipalidade.
+Todavia, forçoso concluir, na hipótese dos autos, a inexistência de prova capaz de atestar que o recorrente, como advogado, não mais exercia a atividade na circunscrição no município, uma vez que sequer houve a juntada de certidão emitida pelo Foro da cidade de Camaquã quanto à inexistência, nos anos de 2018 a 2021, em mais do que cinco causas como advogado, nos termos da Lei Federal 8.906, artigo 10, § 2º.
+Para rever essa conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ISS. SERVIÇOS DE INFORMÁTICA. SUJEIÇÃO ATIVA DA RELAÇÃO JURÍDICO- TRIBUTÁRIA. ENTENDIMENTO EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ FIRMADA EM PRECEDENTE REPETITIVO - RECURSO ESPECIAL 1.060.210/SC, DA RELATORIA DO MINISTRO NAPOLEÃO NUNES MAIA FILHO. TEMA 355/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Primeira Seção do STJ, no julgamento do Recurso Especial 1.060.210/SC, da relatoria do Ministro Napoleão Nunes Maia Filho, submetido ao rito dos recursos repetitivos (Tema 355), firmou a orientação de que "o sujeito ativo da relação tributária, na vigência do DL 406/68, é o Município da sede do estabelecimento prestador (art. 12); a partir da LC 116/03, é aquele onde o serviço é efetivamente prestado, onde a relação é perfectibilizada, assim entendido o local onde se comprove haver unidade econômica ou profissional da instituição financeira com poderes decisórios suficientes à concessão e aprovação do financiamento - núcleo da operação de leasing financeiro e fato gerador do tributo".
+2. Embora esse precedente cogente se refira às operações de leasing, a tese consagrada aplica-se a todas as atividades não excepcionadas pela lei complementar de regência (art. 12, b e c, do DL 406/1968 e art. 3º, I a XXV, da LC 116/2003).
+3. Na hipótese dos autos, o Tribunal paulista reconheceu a competência do Município de Campo Grande/MS para a cobrança do ISS, haja vista que a contribuinte possuía unidade econômica e prestou os serviços naquela localidade tanto na vigência do DL 406/1968 quanto sob a égide da LC 116/2003. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.429.549/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/6/2023, DJe de 20/6/2023.)
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
