@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIAS BUENO, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATO DE ABERTURA DE CONTA CORRENTE. SENTENÇA DE PARCIAL PROCEDÊNCIA DAPRETENSÃO PREAMBULARMENTE FORMULADA. RECURSO DE AMBAS ASPARTES.
+APELO DO ENTE FINANCEIRO. I) PRETENDIDA DECLARAÇÃO DE REGULARIDADE DA COBRANÇA DE JUROS REMUNERATÓRIOS. TESEACOLHIDA. INAPLICABILIDADE DA SÚMULA Nº 530 DO STJ AO CONTRATODE ABERTURA DE CRÉDITO EM CONTA CORRENTE. OPERAÇÃO QUE NÃOPREVÊ TAXA FIXA DE JUROS, ANTE A RENOVAÇÃO MENSAL E VARIAÇÃODAS TAXAS. ENTENDIMENTO DESTA CÂMARA. NECESSIDADE DEDEMONSTRAÇÃO CABAL DA ABUSIVIDADE, NOS TERMOS DO RESP Nº1.061.530/RS. NECESSIDADE DE AFERIR A ABUSIVIDADE DA TAXAPRATICADA. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS APENAS NASHIPÓTESES EM QUE A TAXA APLICADA SOBRE O SALDO DEVEDORULTRAPASSAR O DOBRO DA TAXA MÉDIA DE MERCADO. CÁLCULO A SEREFETUADO EM LIQUIDAÇÃO DE SENTENÇA. II) ALEGAÇÃO DEINEXISTÊNCIA DA COBRANÇA CAPITALIZADA DE JUROS. TESEINSUBSISTENTE. AUTORIZAÇÃO EXPRESSA DA COBRANÇA NÃOCOMPROVADA. ILEGALIDADE RECONHECIDA. RECURSO DO RÉUCONHECIDO E PARCIALMENTE PROVIDO.
+APELO DO CONSUMIDOR. I) PRETENSÃO DE DECLARAÇÃO DE ILEGALIDADE DA COBRANÇA DE TARIFAS E DE SEGURO NÃOCONTRATADOS. TESE PARCIALMENTE ACOLHIDA. RECONHECIMENTO DANULIDADE DE LANÇAMENTOS EFETUADOS SEM CONTRATAÇÃO.
+INSTITUIÇÃO FINANCEIRA QUE NÃO LOGROU ÊXITO EM DEMONSTRAR,NA ESPÉCIE, A PACTUAÇÃO DOS SERVIÇOS COBRADOS A TÍTULO DETARIFAS. RESTITUIÇÃO DEVIDA. II) SEGURO DE VIDA REGULARMENTECONTRATADO. ABERTURA DE CONTA CORRENTE QUE JAMAIS ESTEVEVINCULADA A CONTRATAÇÃO DE SEGURO. PROPOSTA DE CONTRATAÇÃOE AUTORIZAÇÃO PARA DÉBITO COM REDAÇÃO CLARA E OBJETIVA, DEVIDAMENTE ASSINADA. AUSÊNCIA DE ILEGALIDADE NACONTRATAÇÃO. II) ÔNUS SUCUMBENCIAIS REDISTRIBUÍDOS. RECURSO DOAUTOR CONHECIDO E PARCIALMENTE PROVIDO." (e-STJ fls. 913-914).
+Os embargos de declaração foram rejeitados (e-STJ fls. 974-978).
+Em suas razões, o recorrente aponta divergência jurisprudencial e violação dos arts. 112 e 113 do Código Civil e 6º, III, do Código de Defesa do Consumidor, aduzindo que em razão da ausência de pactuação da taxa de juros remuneratórios no contrato firmado com a instituição financeira recorrida, referido encargo deve ser limitado à taxa média de mercado, nos termos da Súmula nº 530/STJ, sem necessidade de demonstração da abusividade dos juros cobrados.
+Contrarrazões às fls. 1.016-1.022.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O tribunal de origem assim dirimiu a questão relativa aos juros remuneratórios:
+"No presente caso, contudo, é necessário pontuar que o negócio bancário em questão se trata de contrato de abertura de crédito em conta corrente, o qual possui características diversas dos demais contratos de financiamentos, razão pela qual se mostra necessário o chamado , haja vista o julgamento em sede de recurso repetitivo distinguishing dos RESp 1.112.879/PR e 1.112.880/PR, em que se firmaram as seguintes teses jurídicas em relação aos Temas Repetitivos 233 e 234:
+(..)
+Os contratos de abertura de crédito em conta corrente geralmente não possuem prazo estipulado, sendo renovados sucessiva e automaticamente ao longo do tempo, sem a necessidade de repactuação das condições iniciais.
+Em regra, as taxas de juros remuneratórios praticadas neste tipo de contrato não podem ser imutáveis e expressamente pactuadas como se espera dos contratos de concessão de crédito puros (financiamentos), pois devem os juros fluir conforme as circunstâncias do mercado financeiro no transcorrer da relação contratual. O Superior Tribunal de Justiça, aliás, já decidiu neste sentido:
+(..)
+Dessa forma, as peculiaridades da relação jurídica em análise não autorizam a limitação dos juros remuneratórios à taxa média de mercado somente com fundamento na ausência de demonstração da expressa pactuação da taxa de juros praticada - como defende o requerente - o que somente se revela possível quando efetivamente demonstrada a abusividade das taxas praticadas pela instituição financeira.
+Daí porque é compreensível que as taxas de juros remuneratórios praticadas nesta modalidade contratual possam fluir conforme as circunstâncias do mercado financeiro no decorrer da relação contratual, sendo as taxas, de qualquer forma, informadas periodicamente ao contratante, por meio de extratos e avisos nas agências bancárias.
+(..)
+Nota-se que a Corte Superior consolidara o entendimento, nos leading cases que originaram a Súmula nº 530, de que a taxa de juros necessariamente deveria ser estipulada nos contratos de mútuo em que a disponibilização do capital era imediata, o que, em princípio, não ocorre com o contrato de abertura de crédito em conta corrente, em que não há necessariamente essa disponibilização imediata de capital, mas tão somente de um limite de crédito, que poderá(ou não) ser usufruído pelo correntista quando melhor lhe aprouver e, justamente por isso e porque essa relação contratual geralmente é prolongada por longo período de tempo, restaria justificada a adoção de taxas flutuantes para os juros, desde que não abusivas." (e-STJ fls. 916-919)
+A decisão está em harmonia com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que é da essência dos contratos de abertura de crédito em conta corrente a sua renovação periódica, sendo que os custos da operação serão aqueles verificados no momento em que ocorre, de fato, a utilização do limite de crédito colocado à disposição do correntista.
+Os juros remuneratórios, nesses contratos, não são previamente fixados, e as taxas a serem cobradas são informadas ao consumidor por meio de extratos bancários ou outros meios fornecidos pela instituição financeira.
+Assim, a ausência de estipulação dos juros remuneratórios no contrato de abertura de crédito em conta corrente não enseja o automático reconhecimento de abusividade da taxa cobrada.
+Confira-se, a propósito, os seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDANTES.
+1. Nos contratos de abertura de crédito em conta corrente (cheque-especial), para os quais inexiste disponibilização imediata do crédito, a ausência do instrumento respectivo nos autos não enseja por si o reconhecimento da abusividade das taxas praticadas no período. Para tanto, deve ser comprovada a ocorrência de significativa discrepância entre a taxa média de mercado e aquela praticada pela instituição financeira.
+1.1. Para a revisão do entendimento adotado pelo Tribunal local, no sentido de verificar a abusividade ou não da taxa de juros contratada, seria imprescindível a incursão no acervo fático probatório dos autos, bem como a análise de cláusulas contratuais, providências vedadas na via estreita do recurso especial, ante a incidência dos óbices previstas nas Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido."
+(AgInt no REsp n. 2.051.810/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. DIREITO CIVIL. CONSUMIDOR. CONTRATO BANCÁRIO. REVISÃO DE JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO CONSTATADA. PERÍCIA. REVISÃO DO JULGADO. SÚMULAS 5/STJ E 7/STJ.
+1. A mera superação da taxa média de mercado em operações da espécie não evidencia abusividade a permitir a revisão do contrato celebrado, notadamente quando não se revela excessiva a diferença entre o montante cobrado e a taxa média adotada pelo setor.
+2. Operação de crédito em conta-corrente em que a taxa de juros, por ser flutuante, não consta previamente do contrato. Informações que podem ser obtidas nos canais fornecidos pela instituição financeira.
+3. Caso dos autos, ademais, em que as taxas foram efetivamente demonstradas e comprovadas, tanto que viabilizaram a elaboração de laudo pericial adotado nas razões de decidir do acórdão e conduziram na conclusão de que não ocorrera abusividade.
+4. Inviabilidade de análise de fatos e provas, bem como do conteúdo das cláusulas contratuais. Súmulas n. 5/STJ e 7/STJ.
+Agravo interno improvido."
+(AgInt no REsp n. 2.035.661/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023)
+Incide, na espécie, a Súmula n 568/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor do proveito econômico obtido pelo banco recorrido, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
