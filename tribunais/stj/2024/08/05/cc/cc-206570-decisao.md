@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o r. JUÍZO DE DIREITO DA 3.ª VARA CÍVEL DE PARNAMIRIM-RN, suscitante, e o r. JUÍZO DE DIREITO DA 1.ª VARA CÍVEL DE CAMPINAS-SP, suscitado.
+Ação: Revisional de Contrato de Empréstimo Bancário proposta por ROSE LAND PINTO CABRAL contra BANCO AGIBANK S.A., proposta perante o suscitado.
+Decisão do juízo suscitado: declinou da competência ao fundamento de que "(..) sendo o autor residente e domiciliado em Parnamirim/RN, onde desenvolve toda a sua vida, e tendo, o réu, estabelecimento em Parnamirim/RN, não pode, o autor, "escolher", a bel prazer, o foro perante o qual demandará, com base no endereço de uma das agências bancárias espalhadas por todo o país, distante mais de 2.900 km do domicílio das partes, sob pena de infração ao princípio do juiz natural, o que tanto mais não se justifica, uma vez que a ação se fundamenta no Código de Defesa do Consumidor, em que assegurada a facilitação da defesa dos direitos do consumidor (art. 6º, VIII, CDC)." (fl. 252).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência sustentando "(..) em que pese incontroversa a relação de consumo entre os litigantes, o próprio consumidor optou por ajuizar a ação no lugar onde se encontra a sede da pessoa jurídica (art. 53, III , "a", do CPC), tratando-se de competência relativa, razão pela qual inclusive incabível o declínio de ofício (Súmula nº 33 do STJ)". (fls. 364-367).
+Parecer do Ministério Público Federal: opinou pelo conhecimento do conflito e competência do Juízo suscitado (fls. 374-377).
+É o relatório.
+Decisão.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d" da Constituição Federal.
+2. Sobre o tema, esta Corte firmou o entendimento de que nos casos de demanda proposta pelo consumidor, este pode optar entre o seu domicílio, o do réu, o de eleição ou o do cumprimento da obrigação, ou seja, no juízo que melhor atenda a seus interesses.
+Nestes casos, por se tratar de competência relativa, sua alteração apenas se dará por meio de exceção de incompetência, não cabendo ao Juízo excepcioná-la ex officio, consoante o teor da Súmula 33 do STJ. A respeito, anotem-se os precedentes: AgRg no CC 130.813/DF, Rel. Min. Raul Araújo, DJe 3.8.2016; AgRg no CC 129.294/DF, Rel. Min. Ricardo Villas Bôas Cueva, DJe 1º.10.2014; AgRg no CC 124.351/DF, Segunda Seção, Rel. Min. Raul Araújo, DJe 17.5.2013.
+3 . Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. JUÍZO DE DIREITO DA 1.ª VARA CÍVEL DE CAMPINAS -SP , o suscitado.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
