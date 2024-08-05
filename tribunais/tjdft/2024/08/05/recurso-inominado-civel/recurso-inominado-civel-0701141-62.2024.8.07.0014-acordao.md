@@ -1,0 +1,102 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0701141-62.2024.8.07.0014RECORRENTE(S)HOSPITAL SANTA LUCIA S/ARECORRIDO(S)CARLOS MAURICIO MARCELLINO DA SILVARelatoraJuiza MARIA ISABEL DA SILVA
+Relatora Designada Juiza MARILIA DE AVILA E SILVA SAMPAIO Acórdão Nº1900580
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. PROCESSUAL CIVIL. AUSÊNCIA À AUDIÊNCIA E DE CONTESTAÇÃO. REVELIA.  TESES NÃO APRESENTADAS AO JUÍZO DE ORIGEM. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. OFENSA AO PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO.  RECURSO NÃO CONHECIDO.
+
+I. Trata-se de recurso inominado interposto contra sentença que decretou a revelia do réu e julgou parcialmente procedentes os pedidos iniciais para declarar a inexigibilidade das duas compras clandestinas realizadas em 06/09/2023, nos valores de R$ 6.200,00 (seis mil e duzentos reais) e R$ 1.000,00 (mil reais) no estabelecimento MP "LAVAJATOJB OSASCO", no cartão da autora, devendo o réu promover o reajuste de toda carga moratória cobrada contra a autora nas faturas subsequentes, no prazo de 10 dias, a contar do trânsito em julgado da pressente.
+
+II. Com efeito, o réu, ora recorrente, foi citado e não compareceu à audiência de conciliação e nem apresentou contestação. A teor do que dispõe o art. 20 da Lei 9099/95, a revelia se opera diante da ausência da parte à audiência para a qual foi devidamente intimada. Frise-se que ao réu revel é cabível a discussão, em sede de recurso, apenas de matérias de ordem pública que não ficam acobertadas pela preclusão. Portanto, o recurso não deve ser conhecido, uma vez que as teses defendidas pelo recorrente não foram previamente submetidas ao Juízo de origem, configurando inovação recursal.
+
+III. Recurso NÃO CONHECIDO.
+
+IV. Sem honorários ante a ausência de contrarrazões.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA ISABEL DA SILVA - Relatora, MARILIA DE AVILA E SILVA SAMPAIO - Relatora Designada e 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juíza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO NÃO CONHECIDO, PRELIMINAR DE OFÍCIO ACOLHIDA. MAIORIA. VENCIDA A RELATORA, REDIGIRÁ O ACÓRDÃO A 1ª VOGAL., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Agosto de 2024
+
+Juíza MARILIA DE AVILA E SILVA SAMPAIORelatora Designada
+
+RELATÓRIO
+
+Trata-se de Recurso Inominado interposto pela parte requerida contra a sentença que julgou procedente o pedido inicial, condenando-a a pagar à parte requerente o valor de R$ 4.410,00, a título de reparação material, e R$ 2.500,00 por danos morais. Em suas razões (ID 60588285), o hospital recorrente sustenta que não há comprovação de que a instituição tenha se omitido ou contribuído para o dano gerado ao recorrido. Alega que fato de terceiro não pode ser atribuído ao hospital, já que o nosocômio não solicita pagamento prévio para a realização de exames ou procedimentos. Sustenta, ainda, que não restou comprovado o contato entre o suposto golpista e o recorrido. Aduz que também não restou comprovado o dano moral alegado. Requer, ao final, a reforma da sentença para julgar improcedente o pedido autoral.
+
+Recurso próprio, tempestivo e com preparo regular (IDs 60588286 e 60588287). Contrarrazões não apresentadas.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Juíza MARIA ISABEL DA SILVA - RelatoraCuida-se de relação jurídica de natureza consumerista, devendo a controvérsia ser solucionada a partir das regras estabelecidas pelo Código de Defesa do Consumidor. Consoante estabelece o art. 14 do CDC, em regra, a responsabilidade do fornecedor de serviços é objetiva, respondendo pelos danos causados aos consumidores por defeitos relativos à prestação dos serviços, independentemente da existência de culpa. Tal responsabilidade só é excluída quando o fornecedor consegue provar que, tendo prestado o serviço, o defeito inexiste, ou que o fato ocorreu por culpa exclusiva do consumidor ou de terceiros (artigo 14, §3.º).
+
+O cerne da controvérsia consiste em determinar se houve falha na prestação do serviço prestado pelo recorrente apta a ensejar responsabilidade do hospital por ato de terceiro/golpista e se, nesses termos, restaram configurados danos materiais e morais.
+
+Na hipótese, o recorrido/autor alega que sua genitora encontrava-se internada em UTI do hospital/recorrente e que ele recebeu ligação de uma pessoa, informando ser médico do hospital e que haveria necessidade do pagamento de R$ 4.410,00 (quatro mil e quatrocentos e dez reais) para custear os cuidados emergenciais referentes a uma suposta infecção que teria acometido a paciente. Assim, informa que realizou transferência bancária, via PIX, no valor requerido pelo suposto médico, todavia, em nome de terceira pessoa, uma mulher. Logo na sequência, teria sido exigido o pagamento de R$ 1.900,00 para o custeio de medicamentos, mas o recorrido/autor informou que estava indo ao hospital para resolver pessoalmente e, na sequência, o médico teria apagado todas as conversas no aplicativo de mensagens. Em decorrência desse fato, o recorrido entrou em contato com a ouvidoria do hospital e foi orientado a registrar Boletim de Ocorrência. Alegou o vazamento dos dados de sua genitora e da cuidadora que estava no hospital com sua mãe, e que o vazamento foi determinante para que ocorresse a lesão.
+
+Analisando o conjunto probatório presente nos autos, não restou comprovada a existência de qualquer ligação telefônica ou das indigitadas conversas, via Whatsapp, o que se mostra incongruente, uma vez que, ordinariamente, as mensagens já lidas, após apagadas pelo remetente, permanecem no dispositivo do destinatário. Há, apenas, o registro de ocorrência policial, que descreve a versão do autor/vítima. Lado outro, no comprovante de transferência via PIX (ID 60588260) consta nome de terceira pessoa, uma mulher, o que levantaria indícios e desconfiança esperada do homem mediano e seria razoável - e recomendado - que o filho da paciente entrasse em contato com o hospital, como fez quando foi exigido o segundo depósito. Ademais, não restou comprovado que, para outros procedimentos médicos, o hospital exigiu pagamento antecipado, de modo a dotar de credibilidade a exigência do golpista, considerando que a mãe do recorrido se encontra internada mediante utilização de plano de saúde (Assefaz) ID 60588263.
+
+Ausente a comprovação de que o golpe se efetivou com o uso de informações privilegiadas da paciente e sua acompanhante, não há elementos suficientes para  definir a existência de nexo causal entre o dano e a conduta do hospital.
+
+Nesse sentido, à falta de prova efetiva de que o suposto golpista fez uso de informações privilegiadas de internação da paciente, o que importaria em responsabilidade por falha na segurança de dados dos pacientes pelo hospital, não restou comprovado o nexo entre o dano (transferência por meio de PIX) e a suposta falha no serviço da parte recorrente. Na hipótese, é de se reconhecer que a causa determinante dos prejuízos foi a exclusiva conduta negligente do requerente/recorrido, que não observou as cautelas mínimas exigíveis do consumidor médio anteriormente ao pagamento que, sabidamente, é incomum em casos de internação, de modo que deve ser afastada a obrigação indenizatória, na forma do art. 14, § 3º, II, do CDC. Precedentes: Acórdão 1390349, 07190476420218070016, Relator(a): FERNANDO ANTONIO TAVERNARD LIMA, Terceira Turma Recursal, data de julgamento: 7/12/2021, publicado no DJE: 15/12/2021; Acórdão 1381663, 07021075720218070005, Relator(a): MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 21/10/2021, publicado no DJE: 9/11/2021.
+
+Assim, voto pelo conhecimento e provimento do recurso para, reformando a sentença, julgar improcedente o pedido autoral.
+
+É como voto.
+
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - Relatora Designada e 1º Vogal
+
+Com as devidas vênias à Exma. Relatora, meu entendimento no caso é diverso.
+
+Suscito, de ofício, preliminar de não conhecimento do recurso.
+
+Com efeito, o réu, ora recorrente, foi citado e não compareceu à audiência de conciliação e nem apresentou contestação. A teor do que dispõe o art. 20 da Lei 9099/95, a revelia se opera diante da ausência da parte à audiência para a qual foi devidamente intimada. Frise-se que ao réu revel é cabível a discussão, em sede de recurso, apenas de matérias de ordem pública que não ficam acobertadas pela preclusão. Portanto, o recurso não deve ser conhecido, uma vez que as teses defendidas pelo recorrente não foram previamente submetidas ao Juízo de origem, configurando inovação recursal.
+
+Ultrapassada a preliminar, razão igualmente não assiste ao recorrente.
+
+Nos termos do art. 20 da Lei 9099/95, não comparecendo o demandado à sessão de conciliação ou à audiência de instrução e julgamento, reputar-se-ão verdadeiros os fatos alegados no pedido inicial, salvo se o contrário resultar da convicção do Juiz.
+
+Assim, tem-se por verdadeiras as alegações do recorrente acerca do vazamento dos seus dados e de sua genitora que estava internada no hospital recorrente. Cumpre observar que o comprovante de transferência efetuado durante o período de internação e o boletim de ocorrência constituem indícios suficientes para respaldar a tese autoral, sobretudo em cotejo com a revelia existente no caso.
+
+Ainda que o boletim de ocorrência constitua relato unilateral do suposto crime pela vítima, em caso de informações falsas ou fabricadas, o declarante fica sujeito a responder pelo crime de comunicação falsa de crime, previsto no art. 340 do Código Penal. Portanto, não há de ser esvaziado por completo o respaldo inerente à comunicação ao órgão policial acerca do fato tido por criminoso, notadamente quanto inexistente prova em sentido contrário.
+
+A responsabilidade civil no CDC assenta-se sobre o princípio da qualidade do serviço ou produto, não apresentando a qualidade esperada o serviço que não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, dentre as quais se destacam o modo de prestação do seu fornecimento e o resultado e os riscos que razoavelmente dele se esperam (art. 14, § 1º, I e II do CDC).  A responsabilidade objetiva do fornecedor em tais casos somente será ilidida se ficarem comprovados os fatos que rompem o nexo causal, ou seja, deve o fornecedor provar que, tendo o serviço sido prestado o defeito inexistiu ou o fato exclusivo do consumidor ou de terceiro. A dicção do § 3º do art. 14 do CDC é muito clara ao criar a inversão ope legis do ônus da prova da inexistência do fato do serviço, ao estabelecer que "o fornecedor do serviço só não será responsabilizado quando provar...".
+
+A conduta exclusiva do consumidor ou o fato de terceiro nas relações de consumo somente serão consideradas aptas a excluir a responsabilidade se estiverem absolutamente dissociadas das condutas omissivas, comissivas ou informativas que competem ao fornecedor, o que não é o caso dos autos.
+
+O recorrido foi vítima de fraude praticada por estelionatários. Não obstante, tal situação não afasta a responsabilidade do Hospital neste caso concreto. Isso porque evidencia-se, senão a participação de funcionários do recorrente, pelo menos a disponibilização dos dados do recorrido a terceiros;
+
+Registre-se que o art. 8º do CDC prescreve um dever geral de segurança, mandatório e de ordem pública, ao estabelecer que "os produtos e serviços colocados no mercado de consumo não acarretarão riscos à saúde ou segurança dos consumidores, exceto os considerados normais e previsíveis em decorrência de sua natureza e fruição, obrigando-se os fornecedores, em qualquer hipótese, a dar as informações necessárias e adequadas a seu respeito". O aludido artigo estabelece os limites de aceitação dos riscos impostos aos consumidores por parte dos fornecedores de serviços, quais sejam, a previsibilidade e a normalidade do risco. A previsibilidade é um conceito objetivo, mas normalidade não. Trata-se de um conceito jurídico indeterminado, que deverá ser interpretado na concretude da vida diária, sendo que cada sociedade admite os riscos que achar cabíveis. O maior dos riscos é aquele que o consumidor não vê.
+
+Não bastassem tais ponderações, destaque-se que a Lei Geral de Proteção de Dados nos art. 42 e 43 trata da responsabilidade civil dos agentes de tratamento, impondo-lhes o dever de reparar os danos que causarem, em violação ao dever de segurança relacionado aos dados disponibilizados. Na hipótese, a fraude somente foi concretizada porque os estelionatários dispunham dos dados pessoais do recorrido e de sua genitora, conferindo verossimilhança ao contato recebido. Sobre o assunto, o STJ assim se manifestou: “Para sustentar o nexo causal entre a atuação dos estelionatários e o vazamento de dados pessoais pelo responsável por seu tratamento, é imprescindível perquirir, com exatidão, quais dados estavam em poder dos criminosos, a fim de examinar a origem de eventual vazamento e, consequentemente, a responsabilidade dos agentes respectivos. Os nexos de causalidade e imputação, portanto, dependem da hipótese concretamente analisada. (REsp n. 2.077.278/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023.)
+
+De se registrar que os dados dos pacientes se revestem de sigilo, e seu armazenamento é de inteira responsabilidade do hospital. Portanto, se tais dados são armazenados de maneira inadequada, permitindo a apropriação por terceiros, no que a literatura registra como "incidente de segurança", há defeito na prestação do serviço (art. 14 do CDC e art. 44 da LGPD), pelo qual o fornecedor deve ser responsabilizado.
+
+Ressalte-se que a genitora do recorrente estava internada na UTI, situação que, por si só, já gera angústia e estresse que superam a normalidade. O contato de suposto médico informando situação de urgência e a necessidade de exame de imediato, nas circunstâncias da hipótese tratada, retiram grande parte do discernimento do familiar contatado, quando tratado à luz do homem médio.  Não se pode exigir, portanto, especial diligência do recorrido em situações como a presente.
+
+Confiram-se os seguintes julgados:
+
+  APELAÇÃO CÍVEL. CONSUMIDOR. LEGITIMIDADE PASSIVA. PRONTUÁRIO DE PACIENTE INTERNADO NO HOSPITAL. INFORMAÇÕES. ACESSO INDEVIDO. FRAUDE. DEVER DE GUARDA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MATERIAL E DANO MORAL. CONFIGURAÇÃO. VALOR ARBITRADO. RAZOÁVEL E PROPORCIONAL. 1. Segundo a teoria da asserção, apenas carece a legitimidade para a causa quando possível concluir, desde o início, a partir do que foi deduzido na petição inicial, que o processo não pode desenvolver-se com relação àquele que figura, seja como autor ou réu. Na espécie, é notória a pertinência subjetiva, se a parte autora alega falha na segurança dos procedimentos do hospital réu, que deixou vazar informações confidenciais da paciente (genitora da autora), que ali estava internada, possibilitando o golpe e a consequente reparação pelos danos suportados. 2. A responsabilidade objetiva pelo fato do serviço na relação de consumo, consoante o art. 14 do CDC, é oponível aos hospitais na parcela dos serviços relacionados ao estabelecimento empresarial, a exemplo da internação, alimentação, instalações e serviços auxiliares. No caso, presente a falha na prestação de seu serviço, porquanto terceiros tiveram acesso a dados confidenciais extraídos do prontuário da paciente que estavam sob a guarda do hospital, circunstância que possibilitou que a autora (filha da paciente) fosse vítima de estelionato. 3. Diante de evidente negligência do hospital na guarda das informações pessoais da paciente, possibilitando a manobra fraudulenta, impõe-se o ressarcimento da quantia desembolsada pela vítima da fraude. 4. Atingido o direito da personalidade diretamente, o dano moral (puro ou direto) estará vinculado à própria existência do fato (in re ipsa), cujos resultados são presumidos, ao contrário de quando é atingido o direito da personalidade mediante lesão a bens de natureza patrimonial (dano moral impuro ou indireto). 5. Na hipótese, é inegável que o agravamento considerável do estado de saúde da paciente atinge a personalidade jurídica da autora, que se encontrava em situação de fragilidade emocional em virtude da internação de sua genitora. Assim, sem olvidar as finalidades compensatória, punitiva ao ofensor, pedagógica e preventiva da condenação, bem assim às circunstâncias da causa, inclusive a capacidade das partes, afigura-se adequado o valor fixado na sentença. 6. Apelações conhecidas e não providas. (Acórdão 1616700, 07086982320218070009, Relator(a): FÁBIO EDUARDO MARQUES,  5ª Turma Cível, data de julgamento: 14/9/2022, publicado no DJE: 4/10/2022. Pág.:  Sem Página Cadastrada.)
+
+JUIZADOS ESPECIAIS CÍVEL. RESPONSABILIDADE CIVIL. INFORMAÇÕES DE PACIENTE INTERNADO NO HOSPITAL. GOLPE SOFRIDO PELOS FAMILIARES. TRANSFERÊNCIAS BANCÁRIAS REALIZADAS MEDIANTE FRAUDE. FALHA NA PRESTAÇÃO DE SERVIÇO. DEVER DE INDENIZAR CONFIGURADO. RECURSO CONHECIDO E NÃO PROVIDO. 1. No caso dos autos, o autor foi vítima de golpe praticado por alguém que detinha todas as informações sobre o paciente internado na UTI do hospital recorrente, bem como acesso aos números dos celulares dos familiares do enfermo. A parte autora narrou que seu genitor estava internado no hospital da recorrente e após a realização de procedimento cirúrgico, um suposto médico teria entrado em contato e, ao fundamento de que seu pai necessitava de exame de tomografia, solicitou a transferência de R$ 4.500,00. Posteriormente, o referido 'médico' ligou novamente e solicitou mais R$ 4.200,00, a título de pagamento de anestesista, o que foi atendido. 2. O artigo 14 do CDC discorre que o fornecedor ou prestador de serviços responde objetivamente pela reparação dos danos causados aos consumidores por defeitos relativos à prestação de serviços. No caso vertente, a responsabilidade do hospital é evidente, uma vez que é detentor de informações privilegiadas de pacientes e falhou na guarda dos dados relativos ao prontuário do enfermo, causando prejuízo ao consumidor. 3. É inviável a tese de que inexiste responsabilidade civil do hospital na conduta ilícita, tampouco excludente de responsabilidade por culpa de terceiro, tendo em vista que o fraudador somente obteve êxito com o golpe aplicado, em razão da falha no dever de guarda das informações do paciente. Não há falar, ainda, de que não houve defeito no serviço prestado por não ser ato vinculado à atividade, tendo em vista que cabe à ré guarnecer as informações sobre seus pacientes, sendo que tal guarda é ínsita à atividade do hospital. 4. Com relação ao valor arbitrado a título de indenização por dano material, verifica-se que a parte autora comprovou a realização da transferência bancária das quantias relatadas ID. 756076 e 741674, motivo pelo qual a indenização deve ser mantida. 5. A indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais), foi fixada moderadamente pelo juízo de origem, em atenção às circunstâncias da lide, à gravidade do ilícito praticado e aos princípios da razoabilidade e da proporcionalidade, não merecendo qualquer reparo neste grau revisor. 6. Recurso CONHECIDO E NÃO PROVIDO. Sentença mantida por seus próprios fundamentos. 7. A súmula de julgamento servirá de acórdão, a teor do que dispõe a parte final do art. 46 da Lei nº 9.099/95. Condenada a recorrente ao pagamento das custas processuais e honorários advocatícios em 10% do valor da condenação. (Acórdão 975784, 07030987320168070016, Relator(a): FLÁVIO FERNANDO ALMEIDA DA FONSECA,  PRIMEIRA TURMA RECURSAL, data de julgamento: 13/10/2016, publicado no DJE: 7/11/2016. Pág.:  Sem Página Cadastrada.)
+
+Nestes termos, meu voto é no sentido de NÃO CONHECER do recurso.
+
+Ultrapassada a preliminar, voto por CONHECER E NEGAR PROVIMENTO ao recurso.
+
+Condeno o recorrente ao pagamento dos honorários de sucumbência, os quais fixo em 10% do valor atualizado da condenação, nos termos do art. 55 da Lei 9.099/95.
+
+É como voto.
+
+A Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com a divergência
+
+DECISÃO
+
+RECURSO NÃO CONHECIDO, PRELIMINAR DE OFÍCIO ACOLHIDA. MAIORIA. VENCIDA A RELATORA, REDIGIRÁ O ACÓRDÃO A 1ª VOGAL.
