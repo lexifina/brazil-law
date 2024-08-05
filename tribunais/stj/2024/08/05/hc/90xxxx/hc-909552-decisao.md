@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSÉ WALTER HUAPAYA GUTIERREZ apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0003497-80.2024.8.19.0000, relator o Desembargador Luciano Silva Barreto).
+Depreende-se dos autos que o paciente, preso em flagrante em 2020, foi denunciado por infração ao art. 155, § 4º, inciso IV, do Código Penal. Na audiência de custódia, foi-lhe concedida a liberdade provisória, mediante condições, as quais foram descumpridas, motivando a decretação da prisão preventiva.
+Impetrado prévio habeas corpus perante o Tribunal de origem, a ordem foi denegada, em acórdão assim ementado (e-STJ fls. 67/68):
+AÇÃO MANDAMENTAL DE HABEAS CORPUS. SUPOSTA PRÁTICA DA CONDUTA MOLDADA NO ARTIGO 155, § 4º, INCISO IV, DO CÓDIGO PENAL. CONCEDIDA A LIBERDADE PROVISÓRIA NA AUDIÊNCIA DE CUSTÓDIA, MEDIANTE CONDIÇÕES, AS QUAIS FORAM DESCUMPRIDAS, ENSEJANDO A SUA PRISÃO PREVENTIVA. ALEGAÇÃO DE QUE O PACIENTE JUSTIFICOU O DESCUMPRIMENTODAS CAUTELARES, ESCLARECENDO QUE ".. ESTAVA CUIDANDO DE SUA IRMÃ COM CÂNCER.."; "O ACUSADO POSSUI EMPREGO E OCUPAÇÃO LÍCITA E ENDEREÇO FIXO.."; A DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA SE ALICERÇA EM ".. FUNDAMENTAÇÃO GELATINOSA E INSUSTENTÁVEL.." E QUE ".. A LIBERDADE DO REQUERENTE EM MOMENTO ALGUM AFETOU OU AFETARÁ TAL ORDEM PÚBLICA..". PLEITO DE REVOGAÇÃO. LEGALIDADE, REGULARIDADEE NECESSIDADE DA SEGREGAÇÃO CAUTELAR AFIRMADAS EM MOMENTOS DISTINTOS E SE ALICERÇAM EM SUFICIENTE FUNDAMENTAÇÃO. REQUISITOS AUTORIZATIVOSOBSERVADOS. "ODESCUMPRIMENTO DE MEDIDA CAUTELAR ANTERIORMENTE IMPOSTA, QUANDO DA CONCESSÃO DA LIBERDADE PROVISÓRIA, É MOTIVO LEGAL PARA A DECRETAÇÃO DA PRISÃO PREVENTIVA, A TEOR DO DISPOSTO NOS ARTIGOS 312, PARÁGRAFO ÚNICO, E 282, § 4º, AMBOS DO CÓDIGO DE PROCESSO PENAL". PRECEDENTE DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. PACIENTE OSTENTA NA FAC TRÊS APONTAMENTOS, TODOS POR CRIMES CONTRA O PATRIMÔNIO, REALÇANDO-SE QUE EM PELO MENOS UM DELES FOI CONDENADO, COM SENTENÇA TRANSITADA EM JULGADO, CIRCUNSTÂNCIA A SER SOPESADA EM EVENTUAL SENTENÇA CONDENATÓRIA. A ALEGAÇÃO DE QUE O PACIENTE JUSTIFICOU O DESCUMPRIMENTO DAS CAUTELARES, ESCLARECENDO QUE ".. ESTAVA CUIDANDO DE SUA IRMÃ COM CÂNCER.." NÃO O SOCORRE, POIS CONFORME SALIENTADO NA DECISÃO QUE DESACOLHEU O PLEITO LIBERATÓRIO, ".. A IRMÃ DO RÉU FALECEU EM 27/06/2022 E DESDE ENTÃO ESTE NÃO SE APRESENTOU AO JUÍZO PARA CUMPRIR AS MEDIDAS CAUTELARES OU JUSTIFICAR SUA AUSÊNCIA..". AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. IMPROCEDÊNCIADO PEDIDO.
+Daí o presente writ, no qual afirma a defesa que o paciente justificou o descumprimento das medidas cautelares esclarecendo que estava cuidando de sua irmã com câncer, que veio a falecer, causando-lhe abalos psicológicos e financeiros.
+Insurge-se, ademais, contra o excesso de prazo para a formação da culpa, pois o acusado permanecerá preso por mais de 6 meses até a nova audiência de instrução e julgamento.
+Diz, ainda, que, em caso de condenação, será ele beneficiado com a pena no mínimo legal, com direito à sanção substitutiva.
+Acrescentou que ele possui emprego e ocupação lícita, além de endereço fixo.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela denegação do writ.
+É o relatório.
+Decido.
+Em consulta ao processo de origem n. 0030701-29.2020.8.19.0004, verifica-se que foi proferida sentença condenatória, em 9/7/2024, oportunidade em que foi negado o direito de o acusado recorrer em liberdade, com alteração dos fundamentos contidos no decreto prisional aqui impugnado.
+Tal o contexto, entendo que a sentença configura novo título a ser submetido ao crivo da Tribunal a quo. Veja-se como entende o Superior Tribunal de Justiça:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CORRUPÇÃO. LAVAGEM DE CAPITAIS. ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS DECRETADA POR JUÍZO INCOMPETENTE E AUSÊNCIA FUNDAMENTAÇÃO. INOCORRÊNCIA. TRANSCRIÇÃO INTEGRAL. DESNECESSIDADE. NULIDADE DA AÇÃO CONTROLADA POR MEIO DE AGENTE MILITAR. TEMA ENFRENTADO NO ACÓRDÃO RECORRIDO. SUPRESSÃO DE INSTÂNCIA. INÉPCIA DA DENÚNCIA E AUSÊNCIA DE FUNDAMENTAÇÃO NA DECISÃO QUE A RECEBEU. SENTENÇA CONDENATÓRIA SUPERVENIENTE. SEGREGAÇÃO MANTIDA COM ACRÉSCIMO DE FUNDAMENTAÇÃO. NOVO TÍTULO QUE DEVE SER ANALISADO PELA CORTE ESTADUAL. RECURSO PREJUDICADO EM PARTE E DESPROVIDO.
+ ..
+6. Prejudicado o pedido de revogação de custódia cautelar uma vez que, a sentença condenatória negou o direito de recorrer em liberdade com a inclusão de novos fundamentos para justificar a segregação antecipada, constituindo novo título a justificar a prisão. Assim, deve o novo título ser submetido à análise da Corte Estadual antes de ser aqui apreciado, vedada a supressão de instância.
+7. Recurso prejudicado em parte e desprovido.
+(RHC n. 101.255/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/2/2020, DJe de 13/2/2020.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CORRUPÇÃO. LAVAGEM DE CAPITAIS. ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS DECRETADA POR JUÍZO INCOMPETENTE E AUSÊNCIA FUNDAMENTAÇÃO. INOCORRÊNCIA. TRANSCRIÇÃO INTEGRAL. DESNECESSIDADE. NULIDADE DA AÇÃO CONTROLADA POR MEIO DE AGENTE MILITAR. TEMA ENFRENTADO NO ACÓRDÃO RECORRIDO. SUPRESSÃO DE INSTÂNCIA. INÉPCIA DA DENÚNCIA E AUSÊNCIA DE FUNDAMENTAÇÃO NA DECISÃO QUE A RECEBEU. SENTENÇA CONDENATÓRIA SUPERVENIENTE. SEGREGAÇÃO MANTIDA COM ACRÉSCIMO DE FUNDAMENTAÇÃO. NOVO TÍTULO QUE DEVE SER ANALISADO PELA CORTE ESTADUAL. RECURSO PREJUDICADO EM PARTE E DESPROVIDO.
+ ..
+6. Prejudicado o pedido de revogação de custódia cautelar uma vez que, a sentença condenatória negou o direito de recorrer em liberdade com a inclusão de novos fundamentos para justificar a segregação antecipada, constituindo novo título a justificar a prisão. Assim, deve o novo título ser submetido à análise da Corte Estadual antes de ser aqui apreciado, vedada a supressão de instância.
+7. Recurso prejudicado em parte e desprovido.
+(RHC n. 101.255/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/2/2020, DJe de 13/2/2020.)
+PROCESSUAL PENAL. OPERAÇÃO "LAVA-JATO". AGRAVO REGIMENTAL CONTRA DECISÃO QUE JULGOU PREJUDICADO HABEAS CORPUS. NOVO TÍTULO PRISIONAL, QUE TORNA PREJUDICADA A IMPETRAÇÃO ANTERIOR. RECURSO DESPROVIDO.
+I - A invocação de novos fundamentos, na sentença, para fins de manutenção da prisão cautelar, faz prejudicado o habeas corpus que pretendia discutir o decreto de prisão preventiva.
+Recurso desprovido.
+(AgRg no HC n. 330.231/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 10/11/2016, DJe de 22/11/2016.)
+Assim, patente que a presente impetração está prejudicada.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte Superior (RISTJ), julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se
+EMENTA
