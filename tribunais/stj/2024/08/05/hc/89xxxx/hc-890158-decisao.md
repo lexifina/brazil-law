@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FABIANO ROBERTO ELIAS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0000.23.198265-3/001).
+Depreende-se dos autos que o paciente foi condenado à pena de 7 anos, 11 meses e 8 dias de reclusão, em regime fechado, pela prática do delito tipificado no art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, ante a apreensão de aproximadamente 390g (trezentos e noventa gramas) de maconha - e-STJ fls. 195/210.
+Interposta apelação, o Tribunal local negou provimento ao recurso defensivo em acórdão assim ementado (e-STJ fl. 15):
+APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE DROGAS. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. DESCABIMENTO. AUTORIA E MATERIALIDADE DEMONSTRADAS. PENAS. MANUTENÇÃO. 1. Suficientemente comprovadas a materialidade e a autoria em relação ao delito de tráfico ilícito de drogas, imperativa a solução condenatória. 2. As penas devem ser mantidas se fixadas com ponderação e dentro dos limites legais.
+Neste writ, a defesa alega ser o caso de desclassificação da conduta imputada ao paciente para aquela prevista no art. 28 da Lei n. 11.343/2006. Afirma que "não há elementos probatórios eficazes e robustos que caracterizem a prática de mercancia ilícita por parte do paciente, tratando-se de mero usuário de drogas"(e-STJ fl. 7).
+Aduz, também, subsidiariamente, a existência de ilegalidade quanto à dosimetria da pena, pois a causa de aumento prevista no art. 40, inciso III, da Lei n. 11.343/2006, não foi comprovada nos autos (e-STJ fl. 12).
+Assim, requer "a concessão da MEDIDA LIMINAR para que sejam imediatamente suspensos os efeitos do v. acórdão proferido pelo Tribunal de Justiça mineiro nos autos 1.0000.23.198265-3/001 (3º Vara Criminal de Pouso Alegre/MG), ..  uma vez  que presentes os pressupostos legais, até final julgamento da presente ação, com a consequente expedição do respectivo alvará de soltura" (e-STJ fl. 14).
+No mérito, pugna pela desclassificação do crime de tráfico de drogas para a conduta do art. 28 da Lei n. 11.343/2006 e, subsidiariamente, pela exclusão da causa de aumento prevista no art. 40, inciso III, da Lei n. 11.343/2006.
+O pedido liminar foi indeferido.
+Informações prestadas às e-STJ fls. 326/334.
+O Ministério Público Federal, às e-STJ fls. 339/342, manifestou-se pelo não conhecimento da impetração.
+É o relatório.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente já transitou em julgado, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício, haja vista que a condenação está apoiada em provas válidas, sobretudo a versão apresentada pelos policiais que efetuaram a prisão em flagrante do paciente, detido na posse de 390g (trezentos e noventa gramas) de maconha.
+Ora, concluindo a instância ordinária, soberana na análise das circunstâncias fáticas da causa, que o acusado praticou o delito que lhe foi imputado, entender devida sua absolvição, nesta oportunidade, implica reexame aprofundado do material fático-probatório, inviável na via eleita.
+A propósito, mutatis mutandis:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DO ART. 302, PARÁGRAFO ÚNICO, INCISO II, E ART. 310, AMBOS DA LEI N. 9.503/1997. PRESCRIÇÃO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. CRIME DO ART. 310 DA LEI N. 9.503/1997. CRIME DE PERIGO ABSTRATO. REGIME INICIAL SEMIABERTO. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O capítulo acerca da a prescrição do crime do artigo 310 do CTB não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, ainda que se fale ter sido pedido subsidiário, sob pena de indevida supressão de instância.
+2. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+3. No caso, as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova da materialidade e de autoria do crime de homicídio culposo em estado de embriaguez, mediante prova testemunhal de transeuntes e dos policiais. De fato, restou reconhecida a coautoria do paciente com a condutora do veículo, haja vista ter ele entregado o volante à pessoa inabilitada, imperita e, ainda, embriagada, agindo de forma bastante imprudente. Inviável, pois, nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+ ..
+8. Agravo regimental desprovido.
+(AgRg no HC n. 660.844/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. RESISTÊNCIA. DESACATO. ABSOLVIÇÃO. NÃO CABIMENTO. REGIME INICIAL. REINCIDENTE. ABRANDAMENTO. INVIABILIDADE. SÚMULA N. 269 DO STJ. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. ORDEM PARCIALMENTE CONCEDIDA.
+1. É inviável a absolvição do réu se os Juízos antecedentes demonstraram a presença das elementares dos crimes de que é acusado e fundamentaram a condenação com base na provas dos autos. Para entender de maneira diversa, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, o que é vedado no exame do habeas corpus.
+ ..
+5. Ordem parcialmente concedida, apenas para assegurar ao paciente que a execução provisória da pena inicie-se com o exaurimento das instâncias ordinárias.
+(HC n. 516.261/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/10/2019, DJe de 8/10/2019.)
+De igual modo, implicaria reexame dos elementos probatórios a análise do pleito de afastamento da causa de aumento prevista no art. 40, III, da Lei n. 11.343/2006, pois, segundo consta da sentença, o crime teria sido praticado onde ocorria uma festa de carnaval:
+Imputa-se que no local estava ocorrendo uma festa de carnaval, denominada "Congofolia", ou seja, local em que se realizava espetáculo ou diversão, o que determina a incidência da causa de aumento de pena prevista no artigo 40, inciso III, da Lei nº 11.343/06.
+A causa de aumento de pena é objetiva e incide em decorrência simplesmente de ter sido cometido o crime nas imediações do local a que se refere o dispositivo legal.
+Pelos testemunhos constantes dos autos é possível extrair que a movimentação de pessoas era intensa, diante da festividade, e um dos policiais inclusive afirmou que o palco do evento era bem próximo ao "Bar do Silvio".
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
