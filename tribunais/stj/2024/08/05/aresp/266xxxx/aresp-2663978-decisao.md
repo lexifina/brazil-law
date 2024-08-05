@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por RICARDO BATISTA DE OLIVEIRA, com fundamento na incidência da Súmula 83/STJ, ante a ausência de violação do art. 1.022, II, do CPC, e na incidência  da Súmula  7/STJ, nos seguintes termos (fls. 228-232):
+De salientar, ademais, que o fato de a controvérsia posta em juízo ter sido analisada sob enfoque diverso daquele pretendido pelo recorrente não revela qualquer vício de fundamentação a ensejar afronta ao art. 1.022, inc. II, do Código de Processo Civil, afinal, a decisão vergastada apenas foi contrária às proposições do insurgente.
+ ..
+Desse modo, tendo em vista que a decisão hostilizada está em harmonia com a jurisprudência do STJ, com efeito, o expediente recursal não reúne condições de ascender à Corte de destino em razão do óbice trazido pela Súmula 83 do STJ, a qual "é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional" (STJ, AgInt no AREsp n. 1687787/SP, rel. Min. Marco Buzzi, j. em 26.10.2020).
+ ..
+Nesse contexto, verifica-se que o reclamo não reúne condições de ascender, porquanto a análise da pretensão recursal, tal como posta, e a reversão da conclusão alcançada pela Câmara Julgadora a fim de se perquirir sobre a presença dos requisitos configuradores da responsabilidade estatal, no caso em apreço, demandariam, necessariamente, o revolvimento das premissas fático-probatórias adotadas na decisão recorrida, providência não autorizada na via especial, nos termos da Súmula 07 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A parte agravante aponta o preenchimento dos requisitos de admissibilidade do recurso especial, justificando que não houve a devida prestação jurisdicional, permanecendo o vício indicado quanto à violação ao art. 1.022, do CPC, em negativa de vigência dos arts. 186 e 927, do CC e do reconhecimento do dever de indenizar do Município. Ademais, aponta a inaplicabilidade do óbice da Súmula 7/STJ, por ser desnecessário adentrar no acervo probatório.
+Sem contraminuta.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal, por meio do qual sustenta violação ao art. 1.022, do CPC em negativa de vigência dos arts. 186 e 927, do CC, justificando que restam configurados todos os requisitos necessários para que haja a responsabilização do Município e o reconhecimento do dever de indenizar previsto nos referidos dispositivos, em razão de o ente ter nomeado servidores fora do prazo de validade do certame, e o consequente dano causado ao recorrente com o resultado decorrente - a exoneração após 9 anos de exercício.
+Requer o provimento do recurso para que seja afastada a decisão do Tribunal a quo, restabelecendo a sentença de primeiro grau que reconheceu a responsabilidade civil do Estado e condenou o Município ao dever de indenizar no patamar de R$ 50.000,00 (cinquenta mil reais). Subsidiariamente, postula a anulação do acórdão que julgou os embargos de declaração, para manifestação acerca dos arts. 186 e 927, do CC.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, a irresignação recursal não merece prosperar.
+Quanto à suposta violação ao art. 1.022, do CPC, em negativa de vigência dos arts. 186 e 927, do CC, consta do acórdão recorrido o seguinte (fls. 161-162):
+Ficou bastante claro o entendimento de que o ato danoso à parte autora é o de exoneração, que ocorreu dentro da legalidade e em conformidade com decisão do STF.
+O ato de nomeação fora do prazo de validade do certame possibilitou ao autor alcançar o cargo público indevidamente e pelo menos desde 2014 era de seu conhecimento a irregularidade, inexistindo dano moral a ser indenizado.
+ ..
+Por fim, foi aduzido que deveria haver expressa manifestação sobre dispositivos do CC, os quais sequer foram citados pelo demandante anteriormente.
+O art. 37, § 6º, da CF foi genericamente indicado pela parte e não foi referido no voto, mas ele apenas define a responsabilidade das pessoas jurídicas de direito público pelos danos que causarem a terceiros, o que não infirma os argumentos do acórdão.
+Não há omissão, contradição ou obscuridade. O que se verifica é a nítida intenção de rediscutir a matéria, embora devidamente examinada pela Câmara, o que é vedado em sede de embargos declaratórios, que servem à integração do julgado. Se a parte não concorda com o que foi decidido, deve manejar o recurso próprio.
+O Tribunal de origem dirimiu a matéria submetida à sua apreciação acerca dos temas necessários ao integral deslinde da controvérsia, não havendo vícios que configurem a afronta alegada, conforme se extrai do excerto do acórdão recorrido, o qual manteve a decisão originária, assim ementada (fl. 144):
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO INDENIZATÓRIA. SERVIDOR PÚBLICO. PARCIAL PROCEDÊNCIA NA ORIGEM. RECLAMO PRIMÁRIO DO MUNICÍPIO E SECUNDÁRIO DA AUTORA.
+"DANOS MORAIS. SERVIDORA NOMEADA APÓS EXPIRAÇÃO DO PRAZO DE VALIDADE DO CONCURSO PÚBLICO EM QUE APROVADA (EDITAL N. 001/2007). INEQUÍVOCA NULIDADE DO ATO (ART. 37, II E III E § 2º, DA CF). ULTERIOR EXONERAÇÃO APÓS O DEVIDO PROCEDIMENTO ADMINISTRATIVO. MERO EXERCÍCIO DO PODER-DEVER DE AUTOTUTELA DA ADMINISTRAÇÃO (SÚMULAS NS. 346 E 473 DO STF). DEMANDANTE QUE POSSUÍA PLENA CIÊNCIA DA IRREGULARIDADE QUE PERMEAVA A INVESTIDURA NO POSTO. AUSÊNCIA DE ATO ILÍCITO IMPUTÁVEL À MUNICIPALIDADE. DEVER DE INDENIZAR NÃO CARACTERIZADO.
+"ÔNUS SUCUMBENCIAIS. REFORMA DA SENTENÇA. REDISTRIBUIÇÃO.
+"APELO CONHECIDO E PROVIDO  .. ." (AC N. 5002984-37.2022.8.24.0039, REL. DES. ODSON CARDOSO FILHO, QUARTA CÂMARA DE DIREITO PÚBLICO, J. 29-6-2023)
+A matéria foi enfrentada de forma objetiva e fundamentada, naquilo que o Tribunal Estadual entendeu pertinente à solução da controvérsia, ainda que de forma diversa daquela pretendida pelo recorrente.
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da tese suscitada, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, conheço do agravo, para conhecer do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da jus tiça.
+Intimem-se.
+ EMENTA
