@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 150):
+AGRAVO DE EXECUÇÃO PENAL - PENA DE MULTA - PENHORA DE BENS - POSSIBILIDADE - INTELIGÊNCIA DOS ARTIGOS 168 E 170, DA LEI DE EXECUÇÃO PENAL - RECURSO NÃO PROVIDO.
+Consta dos autos que o juízo da execução indeferiu o pedido de reconhecimento de hipossuficiência econômica e penhorou valor parcial para satisfação da pena de multa.
+Interposto agravo em execução, o recurso defensivo foi desprovido e os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, a defesa aponta violação ao art. 927, III, do CPC.
+Aduz que "Deve ser julgada extinta a punibilidade da pena de multa, diante do que o STJ pacificou ao realizar nova alteração do tema 931" (fl. 182).
+Acrescenta que "O sentenciado é assistido pela DPESP. Isso gera a presunção de pobreza, fazendo incidir as premissas estabelecidas pelo tema 931. A" (fl. 185).
+Ressalta que, "já no bojo da execução, não foram localizados quaisquer bens ou ativos penhoráveis. Com efeito, somente foi encontrada quantia inferior a 02 (dois) salários-mínimos) na pesquisa SISBAJUD. Já os veículos encontrados via RENAJUD são notoriamente antigos, com modelos de 17 e 12 anos atrás, além de não terem sido encontrados nas diligências efetuadas pelo Oficial de Justiça. Além do caráter ínfimo, possivelmente são bens com valores essenciais à subsistência do sentenciado e sua família e, portanto, impenhoráveis nos termos do artigo 50, §2º do CP e artigo 833 do CPC" (fl. 187).
+Requer o conhecimento e o provimento do recurso "para julgar extinta a punibilidade da recorrente ou, subsidiariamente, liberar os valores penhorados" (fl. 192).
+Contrarrazoado e admitido na origem, o Ministério Público Federal opinou pelo desprovimento do recurso.
+O acórdão impugnado possui a seguinte fundamentação (fls. 150-156):
+ ..
+O recurso não comporta provimento.
+Segundo consta, o sentenciado, ora agravante, foi condenado pela prática de crime de tráfico ilícito de drogas e, após intimado, não efetuou o pagamento voluntário da multa penal, no valor de R$ 24.251,40, razão pela qual ajuizou-se a execução de multa penal.
+Em cumprimento à decisão que determinou a indisponibilidade de ativos financeiros existentes em seu nome via SISBAJUD até o valor apurado, restou frutífero o bloqueio de valor suficiente para pagamento da multa.
+Pois bem.
+Como é sabido, o Excelso Supremo Tribunal Federal, no julgamento da ADI nº 3.150, confirmou o entendimento de que a redação dada ao artigo 51 do Código Penal pela Lei nº 9.268/96 não retirou da pena de multa o seu caráter penal, e, por consequência, seu adimplemento é necessário para a declaração da extinção da punibilidade do condenado. Reafirmou, ainda, a legitimidade prioritária do Ministério Público para a sua execução.
+ ..
+É certo que, no julgamento do REsp 1785383/SP, do Relator Ministro Rogerio Schietti Cruz, Terceira Seção, nova tese sobre o Tema 931 estabeleceu a distinção em relação à ADI nº 3.150, especificamente quanto à impossibilidade de cumprimento da pena pecuniária por condenados hipossuficientes:
+ ..
+No caso dos autos, a Defesa não comprovou a hipossuficiência ou estado de miserabilidade do agravante como lhe competia fazê-lo. Nesse passo, inviável o reconhecimento da extinção da punibilidade da pena de multa, sob pena de afronta ao próprio Tema 931, cuja aplicação está reservada aos casos em que comprovada a impossibilidade de efetuar o pagamento do débito (REsp 1785383 SP; e 1785861 SP, Relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 24/11/2021, DJe 30/11/2021).
+Não é demais mencionar, ainda, que o patrocínio da causa pela ilustre Defensoria Pública não gera presunção de hipossuficiência.
+Isso porque, caso passe a constituir presunção de hipossuficiência econômica, levando à extinção da punibilidade da pena de multa, lançando-a à execução incerta, pode qualquer sentenciado evitar o patrocínio de advogado constituído. Se ninguém pode ser processado (o critério se estende à execução penal, pois a Defensoria Pública, hoje, é órgão da execução) sem advogado, o juiz é obrigado a lhe indicar um. Mesmo que a Defensoria alegue não ser um "necessitado", um dativo pode atuar e gerar a mesma presunção de hipossuficiência. Em suma, quem é solvente deve pagar a multa, cumprindo ou não pena privativa de liberdade; quem não é solvente, em certa fase, tem prazo suficiente para quitar a multa, podendo parcelar o seu pagamento; quem não for jamais solvente pode requerer a apreciação do seu caso específico para contornar o pagamento da multa (TJSP, Agravo de Execução Penal nº 1045710-77.2020.8.26.0114, Rel. Des. Guilherme de Souza Nucci, 16ª Câmara Criminal, j. 15.05.2021).
+Demais disso, a prova cabal de miserabilidade, na fase executiva, cabe à Defesa. Além do mais, é sabido que o requisito para ser admitido pela Defensoria Pública de São Paulo é que se prove renda mensal familiar "até três salários-mínimos", o que não pode ser considerado como prova automática de miserabilidade.
+No mesmo passo, incabível também a aplicação da Resolução PGE nº 21/2017, bem como da Lei Estadual nº 14.272/2010, pois, cuidando-se de cobrança de multa derivada de condenação criminal e não de débito fiscal ou de outra natureza não se aplicam as normas que obstam a execução fundadas no argumento da falta de interesse processual. Anote-se que não se submete o Ministério Público às limitações estabelecidas pelo Poder Executivo para as ações fiscais a serem propostas pela Procuradoria do Estado.
+Por outro lado, havendo legislação específica sobre o tema, não há que se falar em uso da analogia com a aplicação das determinações contidas no Código de Processo Civil.
+ ..
+Assim, os dispostos nos artigos 168 e 170 da Lei de Execução Penal devem prevalecer perante a norma processual civil invocada, tendo em vista a notória regra hermenêutica de prevalência da norma de caráter especial sobre aquela de caráter geral.
+ ..
+Por fim, não é demais reforçar que o sentenciado não comprovou sua incapacidade econômica para o efetivo pagamento da pena de multa, nem, tampouco, demonstrou que o valor penhorado é essencial à sua subsistência assim como de sua família.
+Ante o exposto, nega-se provimento ao recurso.
+No julgamento dos Recursos Especiais Representativos da Controvérsia n. 2.090.454/SP e n. 2.024.901/SP (Tema 931), julgados em 28/2/2024, esta Corte fixou a seguinte tese jurídica: "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária".
+No caso, o Tribunal de origem, na apreciação do recurso defensivo, manteve a penhora determinada, ressaltando que "o sentenciado não comprovou sua incapacidade econômica para o efetivo pagamento da pena de multa, nem, tampouco, demonstrou que o valor penhorado é essencial à sua subsistência assim como de sua família".
+De fato, nos termos da jurisprudência desta Corte é possível a penhora para fins de saldar a pena de multa determinada em sentença condenatória. "Esta medida encontra respaldo nos dispositivos nos arts. 168, incisos I a III, e 170 da Lei 7.210/1984, não se submetendo às disposições do art. 833 do CPC. Assim, tal decisão segue o princípio da especialidade, assegurando a aplicação efetiva das normas específicas da legislação penal executória" (REsp n. 2.113.000/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 2/4/2024, DJe 10/4/2024).
+Ademais, a verificação da efetiva condição de vulnerabilidade econômica do apenado demandaria, necessariamente, aprofundado revolvimento do conjunto de provas presentes nos autos, providência inviável na via extraordinária, incidindo, no caso, o óbice da Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
