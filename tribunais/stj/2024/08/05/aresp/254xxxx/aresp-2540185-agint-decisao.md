@@ -1,0 +1,27 @@
+DECISÃO
+Em  análise,  agravo  interno  interposto  pelo COMPANHIA PAULISTA DE FORCA E LUZ contra  a  decisão  que  conheceu do seu agravo, para não conhecer do recurso especial, em razão da incidência das Súmulas 7 e 54 do STJ.
+Argumenta  a  parte agravante,  em  síntese,  que: i) teria demonstrado a ausência de nexo causalidade entre a sua conduta e os danos suportados; ii) a solidariedade não se presume, não se aplicando o teor da Súmula 7/STJ; e iii) não incidir a Súmula 54/STJ nas prestações de trato sucessivo.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+Passo a decidir.
+Exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC/2015 e art. 259 do RISTJ e, considerando os relevantes argumentos suscitados pela parte agravante, reconsidero a decisão agravada e passo a novo exame do agravo em recurso especial.
+Trata-se de agravo contra decisão que não admitiu recurso especial, este interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.028):
+Responsabilidade Civil. Acidente de trânsito. Motociclista atingido no pescoço por fios e cabos de aço em via pública. Óbito do condutor. Compartilhamento da infraestrutura pelas rés. Desatenção à altura exigida na NBR 15214. Responsabilidade solidária da concessionária de energia elétrica e da empresa telefônica. Pensão mensal devida. Entendimento do C. Superior Tribunal de Justiça. Danos morais ocorrentes. Critério para honorários advocatícios.
+Sentença reformada em parte. Recursos parcialmente providos.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos seguintes dispositivos legais:
+A. Art. 394 do CC. Violado na medida em que a mora somente é configurada a partir do vencimento de cada parcela devida, de modo que somente a partir desse marco poderia incidir juros moratórios;
+B. Arts. 186 e 927, ambos do CC. Violados na medida em que o v. Acórdão Recorrido estendeu uma condenação à CPFL a título de indenização por danos com relação aos quais inexiste relação de causalidade, sobretudo considerando ter restado incontroverso que o acidente envolveu exclusivamente um cabo de telefonia - fato jamais discutido, e reconhecido no Acórdão Recorrido - restando violadas as disposições legais que regulam as hipóteses de cabimento de responsabilização civil;
+C. Arts. 942 e 265, ambos do CC. Violados na medida em que não se presume a solidariedade, porquanto resulta da lei ou da vontade das partes, ou é justificada se a parte efetivamente concorreu para o evento danoso.
+Requer, ao final, o provimento do recurso.
+Apresentadas as contrarrazões, o recurso especial foi inadmitido pelo Tribunal de origem, o que ensejou a interposição do presente agravo.
+A irresignação merece parcial acolhida.
+De início, a alteração da conclusão do Tribunal a quo, acerca da demonstração da responsabilidade solidária da concessionária de energia elétrica, ora recorrente, " detentora dos postes, pela aprovação do projeto de compartilhamento da estrutura para assegurar não só a prestação do serviço público como a segurança de terceiros" (fl. 1.035), ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido, "a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que se encontram presentes na espécie os elementos ensejadores da responsabilidade civil e, por consequência, do dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp 1.982.128/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/4/2022).
+Por outro lado, quanto ao cálculo dos juros de mora sobre as parcelas devidas a título de pensão mensal, o acórdão recorrido merece reforma.
+No ponto, o Tribunal de origem asseverou que os "valores atrasados, ou seja, devidos desde a data do óbito até o dia do efetivo pagamento, serão em parcela única, já indicado ser pelo valor do salário mínimo dessa data - efetivo pagamento -, para a devida correção monetária, considerando-se, para os juros, o enunciado 54 das súmulas do C. Superior Tribunal de Justiça" (fl. 1.069).
+Todavia, segundo a jurisprudência desta Corte, "no caso do pensionamento vitalício, "por ser uma prestação de trato sucessivo, os juros moratórios não devem iniciar a partir do ato ilícito - por não ser uma quantia singular - tampouco da citação - por não ser ilíquida - mas devem ser contabilizados a partir do vencimento de cada prestação, que ocorre mensalmente" (REsp 1.270.983/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 5/4/2016)" (AgInt no AgInt nos EDcl no AREsp 1.325.530/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/2/2020, DJe de 18/2/2020)" (AgInt no AREsp 2.410.880/RO, relator Ministro Raul Araújo, Quarta Turma, DJe de 17/5/2024.)
+Isso posto, reconsidero a decisão de fls. 1.351-1.353. Com fundamento no art. 253, parágrafo único, II, a e c, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento, a fim de determinar a incidência dos juros de mora a partir do vencimento de cada parcela da pensão mensal.
+Intimem-se.
+EMENTA
