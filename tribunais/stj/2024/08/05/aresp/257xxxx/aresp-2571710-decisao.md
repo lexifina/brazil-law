@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por SAVOY IMOBILIARIA CONST LTDA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 78-86), assim ementado:
+AGRAVO DE INSTRUMENTO - Execução fiscal - IPTU e taxa de expediente dos exercícios de 2009 a 2012 - Exceção de pré-executividade julgada parcialmente procedente para apenas reconhecer a inconstitucionalidade da cobrança da taxa de expediente. 1) Alegada nulidade do despacho que ordenou a citação, por ser proferido com base em ordem de serviço - Descabimento - Legalidade do ato - Procedimento autorizado pelo Provimento nº 24/02 da Corregedoria Geral de Justiça. 2)Prescrição - Inocorrência - Ação proposta após a alteração da redação do art. 174 do CTN - Interrupção da prescrição na data do ajuizamento da ação, considerada como data do despacho inicial, nos termos das Ordens de Serviço números 02/2005 e 01/2008 - Jurisprudência do STJ firmada no REsp nº 1.340.553-RS, submetido à sistemática dos recursos repetitivos - Ausência de paralisação do feito por período superior a 06 (seis) anos - Inteligência do art. 40 da Lei nº 6.830/80 e Súmula 314 do STJ - Decisão mantida - Recurso improvido.
+A parte recorrente interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado o art. 205 e 240, §2º, do CPC.
+O recurso especial foi inadmitido pela aplicação da Súmula n. 7/STJ (fl. 117), tendo a parte interposto o presente agravo.
+É o relatório.
+Passo a decidir.
+A Recorrente sustenta a ocorrência de prescrição em função da nulidade do despacho citatório, haja vista que este não foi expedido, ratificado ou assinado pelo d. magistrado competente no tempo adequado.
+Não assiste razão à parte, uma vez que a Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, submetido ao rito dos recursos repetitivos, consolidou entendimento segundo o qual, mesmo nas execuções fiscais, a citação retroage à data da propositura da ação para efeitos de interrupção da prescrição, na forma do art. 219, § 1º, do CPC quando a demora na citação é imputada exclusivamente ao Poder Judiciário, nos termos da Súmula n. 106/STJ.
+Ajuizada a execução fiscal antes do implemento do prazo prescricional, a demora na citação por ausência de despacho assinado por juiz, de forma a ensejar a interrupção do prazo prescricional, não pode ser interpretado em desfavor da Fazenda Pública.
+O fato caracteriza-se como intercorrência inerente ao funcionamento do Poder Judiciário, logo é inapto para legitimar o reconhecimento da prescrição por não ter derivado da inércia da credora. Há incidência, no caso, da Súmula n. 106/STJ.
+Nesse sentido, a jurisprudência desta egrégia Corte:
+TRIBUTÁRIO. IMPOSTO DE RENDA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC. DEMORA NA CITAÇÃO. CONTRIBUINTE. SÚMULA 106/STJ.
+1. A alegação do contribuinte sobre a afronta dos arts. 355, 358, 429 431-A, 433, 435 e 535, II, do CPC e do art. 106 CTN, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo acórdão recorrido. Dessa forma, inobservou-se o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+2. Não pode ser a atribuída à Fazenda Pública a desídia no ajuizamento da ação de execução, porquanto a demora na citação do contribuinte ocorreu por motivos inerentes ao mecanismo do Poder Judiciário, conforme o entendimento cristalizado na Súmula 106 do Egrégio Superior Tribunal de Justiça.
+3. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp n. 1.503.147/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2015, DJe de 31/3/2015, grifo nosso).
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 106/STJ.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, submetido ao rito dos recursos repetitivos, consolidou entendimento segundo o qual, mesmo nas execuções fiscais, a citação retroage à data da propositura da ação para efeitos de interrupção da prescrição, na forma do art. 219, § 1º, do CPC quando a demora na citação é imputada exclusivamente ao Poder Judiciário, nos termos da Súmula 106/STJ.
+2. Ajuizada a execução fiscal antes do implemento do prazo prescricional, a demora na citação por ausência de despacho assinado por juiz de forma a ensejar a interrupção do prazo prescricional não pode ser interpretado em desfavor da Fazenda Pública.
+3. O fato caracteriza-se como intercorr ê ncia inerente ao funcionamento do Poder Judiciário, logo é inapto para legitimar o reconhecimento da prescrição por não ter derivado da inércia da credora. Incidência Súmula 106/STJ.
+Agravo regimental improvido.
+(AgRg no REsp n. 1.535.194/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/9/2015, DJe de 14/9/2015, grifo nosso).
+Isso posto, com fundamento no art. 932, IV, do CPC, bem como na Súmula n. 568/STJ e art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Sem honorários advocatícios recursais, pois "a jurisprudência do STJ consolidou o entendimento de que descabe fixar honorários recursais em decisão interlocutória em julgamento de Agravo de Instrumento (AgInt no AREsp 2.277.234/RJ, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
