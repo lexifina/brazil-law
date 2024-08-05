@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Itaú Unibanco S.A., com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (e-STJ, fl. 1.536):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA DENUNCIADO DA LIDE. DENUNCIADO CONDENADO EM INDENIZAR O RÉU/DENUNCIANTE EM REGRESSO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO IMPROVIDO. AGRAVO INTERNO PREJUDICADO.
+Vencido o réu/denunciante na ação principal e julgado procedente o pedido deduzido na demanda secundária, com a condenação do denunciado a indenizar o denunciante em regresso, pode o autor exigir daquele (denunciado), diretamente, o cumprimento da obrigação. Decisão mantida. Agravo de instrumento improvido. Agravo interno prejudicado.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente apontou violação aos arts. 489, II, § 1º e seu inciso IV, 502 e 1.022, I e II, parágrafo único e seu inciso II, do CPC/2015; e 70, III, do CPC/1973.
+Sustentou a ocorrência de negativa de prestação jurisdicional.
+Alegou que houve, "na fase de cumprimento de sentença, modificação do conteúdo do título judicial, interpretando-o a partir de norma superveniente", o que ofenderia a coisa julgada (e-STJ, fl. 1.647).
+Asseverou que a denunciação da lide ocorreu na vigência do CPC/1973, que não admitia a formação de título judicial em favor do autor da lide principal diretamente em face do denunciado.
+Contrarrazões às fls. 1.668-1.676 e 1.678-1.707 (e-STJ).
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Na TP 4.526/BA, esta relatoria concedeu efeito suspensivo ao recurso.
+Brevemente relatado, decido.
+Não há nenhuma omissão ou contradição a ser sanada no julgamento estadual, portanto, inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem nenhum vício, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+Além disso, o órgão julgador não está obrigado a responder aos questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Nessa mesma linha de cognição:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+ ..
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+Noutro ponto, nota-se que o Tribunal originário concluiu que a condenação do ora insurgente (litisdenunciado) na lide secundária permitiria que a ora recorrida Kordsa Brasil S.A. (autora e vencedora da demanda principal) movesse o cumprimento de sentença diretamente contra a instituição financeira ora recorrente.
+Ocorre, contudo, que, da leitura do comando da decisão executada, fica claro que a obrigação foi imputada apenas à litisdenunciante, limitando-se o referido decisum a responsabilizar regressivamente os bancos litisdenunciados.
+A propósito, veja-se o seguinte trecho da parte dispositiva do acórdão executado, que foi transcrito no aresto combatido (e-STJ, fl. 1.541):
+4. À vista do exposto, dou provimento parcial ao apelo da Ré e ao recurso adesivo do Denunciado Banco Itau para, reformando parcialmente a sentença de primeiro grau, julgar procedente, em parte, o pedido, condenando a Ré a pagar à Autora a importância de 237.394,97 (duzentos e trinta e sete mil trezentos e noventa e quatro reais e noventa e sete centavos), com correção monetária, pelo INPC, e juros de 0,5% ao mês, desde a citação até a entrada em vigor do CC/2002, quando, então, os juros incidirão no percentual de 1% ao mês.
+Desse montante devem ser abatidos os valores correspondentes aos veículos recuperados pela Autora (GM Vectra GLS, 1995, p.p. JLY 1040, e GM Blazer, 1995/1996, p.p. JNG 0009 (fls. 81/84)), pelo valor de cada um na Tabela Fipe, à época - março/1998, corrigidos monetariamente, também pelo INPC.
+Julgo procedente, ainda, o pedido de denunciação da lide, para fixar a responsabilidade dos Bancos denunciados, de forma igual e solidária, pelos prejuízos sofridos pela Autora a serem ressarcidos pela Ré, servindo tal fixação e divisão de base ao regresso desta, Ré/Denunciante, em face dos Bancos denunciados" (acórdão da Apelação ID 14008222) - sem grifos no original
+Nesse contexto, considerando que a obrigação do ora recorrente, por possuir natureza regressiva, tem como credora tão somente a litisdenunciante, não há como reconhecer a sujeição passiva do litisdenunciado no cumprimento de sentença movido pela vencedora da lide principal, sob pena de ofensa à coisa julgada.
+Confiram-se, oportunamente, os precedentes da Terceira Turma do STJ sobre o tema:
+RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REDIRECIONAMENTO AO LITISDENUNCIADO. AUSÊNCIA DE CONDENAÇÃO SOLIDÁRIA NO TÍTULO EXECUTADO. IMPOSSIBILIDADE. VIOLAÇÃO DA COISA JULGADA.
+1- Cumprimento de sentença iniciado em 25/9/2006. Recurso especial interposto em 26/9/2013 e atribuído à Relatora em 26/8/2016.
+2- O propósito recursal é definir se o recorrente, condenado apenas de modo regressivo pela sentença executada, responde ou não pelo inadimplemento da obrigação principal a que foi condenado o litisdenunciante.
+3- Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+4- Tratando-se de processo em que a sentença condenatória impôs exclusivamente ao litisdenunciante o dever de reparar os danos experimentados pela parte demandante, incumbindo ao litisdenunciado, unicamente, responder de forma regressiva, não se pode redirecionar a execução da obrigação principal a este, sob pena de se ofender a coisa julgada.
+5- Recurso especial provido.
+(REsp n. 1.628.198/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/2/2018, DJe de 15/2/2018.)
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DENUNCIAÇÃO DA LIDE. TÍTULO EXECUTIVO JUDICIAL. RESPONSABILIDADE SOLIDÁRIA OU SUBSIDIÁRIA DA LITISDENUNCIADA. NÃO CONHECIMENTO. AJUIZAMENTO DE AÇÃO REGRESSIVA. IMPRESCINDIBILIDADE RECONHECIDA. CUMPRIMENTO DE SENTENÇA. REDIRECIONAMENTO DA EXECUÇÃO A PEDIDO DA EXECUTADA. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. ARTS. 468 E 475-N DO CPC.
+1. Ação indenizatória, em fase de cumprimento de sentença, em que se reconheceu a responsabilidade da demandada pelo dever de indenizar, sendo-lhe assegurado apenas o direito de perseguir, em ação própria, eventual direito de regresso contra empresa litisdenunciada.
+2. Acórdão recorrido que, reformando decisão do juízo de primeiro grau, defere pedido de intimação da litisdenunciante (executada), sem lastro no comando sentencial, para que seja, de imediato, intimada a litisdenunciada para que promova o pagamento dos valores incontroversos em execução.
+3. A sentença judicial condenatória que impõe exclusivamente à parte demandada (litisdenunciante) a responsabilidade pelo pagamento de indenização e que se limita a reconhecer-lhe o direito de perseguir, mediante o ajuizamento de ação autônoma, eventual direito de regresso contra terceira litisdenunciada não constitui título capaz de, por si só, autorizá-la a promover, na fase de cumprimento de sentença, o redirecionamento da execução contra esta, sob pena de ofensa à coisa julgada.
+4. Recurso especial provido.
+(REsp n. 1.296.875/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/2/2016, DJe de 9/3/2016.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de julgar extinto o feito em relação ao ora recorrente, sem resolução de mérito, em razão do reconhecimento da sua ilegitimidade para figurar no polo passivo dos autos de cumprimento de sentença movido pela vencedora da demanda principal.
+Condeno a ora recorrida Kordsa Brasil S.A. ao pagamento das custas processuais e dos honorários sucumbenciais, em favor dos advogados do ora recorrente, os quais fixo em 10% (dez por cento) sobre o valor da causa, observando-se, se for o caso, os efeitos da gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. VIOLAÇÃO À COISA JULGADA CARACTERIZADA . PRECEDENTES DA TERCEIRA TURMA DO STJ. 3. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
