@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de AILTON BATISTA DOS SANTOS JÚNIOR apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (HC n. 0803479-68.2022.8.02.0000).
+O paciente encontra-se preso preventivamente pela suposta prática do crime de homicídio qualificado e porte ilegal de arma de fogo de uso permitido.
+A impetrante sustenta ausência de fundamentação idônea que justifique o decreto da prisão preventiva do paciente. Alega que os predicados pessoais do agente permitiriam que respondesse ao processo em liberdade.
+Requer seja revogada a prisão preventiva do paciente, impondo-lhe medidas cautelares diversas da prisão.
+A liminar foi indeferida.
+Parecer do Ministério Público Federal pela extinção do processo ou pela denegação da ordem.
+É o relatório. Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada no acórdão (e-STJ fl. 18):
+Como se pode perceber, a decisão proferida nos autos de origem, assim como sua manutenção em sede de liminar, está em conformidade com os princípios do direito, assim como de acordo com os requisitos autorizadores da segregação do paciente, tendo havido perfeita adequação entre a legislação e os fatos constantes nos autos, sendo insuficiente a aplicação, in casu, das medidas cautelares diversas da prisão.
+No caso dos autos, restam evidentes os indícios de autoria e a materialidade, notadamente através da juntada do Inquérito Policial (fls. 56/133 dos autos de origem), do depoimento do impetrante confessando a prática delitiva (fls. 10/11), dos depoimentos dos condutores (fls. 06/09), do depoimento da testemunha (fls. 109/113), laudo pericial de natureza balística (fls. 164/173) e boletins de ocorrência (fls. 16/19).
+Outrossim, a periculosidade do impetrante se faz presente, haja vista não apenas o modus operandi perpetrado pelo paciente, que agiu de forma a dificultar a defesa da vítima, cumprimentando-a assim que a avistou e, logo em seguida, efetuando os disparos de arma de fogo, mas também levando em consideração a existência de diversos outros processos em seu desfavor, o que ressalta a reiteração delitiva.
+Nesse sentido, observo que a ficha do paciente é extensa, existindo outros três processos perante a 7ª Vara Criminal da Capital, dois baixados e um em andamento, além de outros dois feitos perante o 5º e o 8º Juizados Especiais Criminais da Capital, ambos baixados. Há, inclusive, processo de execução de pena perante a 16ª Vara Criminal da Capital.
+Além disso, trata-se de crime de homicídio qualificado, com decisão devidamente embasada nas hipóteses do art. 312 e seguintes do CPP, de sorte que entendo por incabíveis as medidas cautelares diversas da prisão. Isso porque, conforme exposto, restou demonstrada nos autos a presença de periculum libertatis, diante do histórico do paciente e indícios de reiteração delitiva, conforme exposto.
+A seriedade das condutas imputadas ao paciente, o qual registra outros antecedentes criminais, e a periculosidade social do agente, que andava armado, representam risco concreto à ordem pública e justifica sua segregação cautelar.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
