@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Juízo da Vara do Trabalho de Tanabi/SP (suscitante) e o Juízo de Direito da 2ª Vara de Monte Aprazível/SP (suscitado), nos autos de ação indenizatória por danos materiais e morais ajuizada por Júlio Cezar de Freitas Silva em face de Theodoro Transportes Ltda, em razão de acidente automobilístico provocado por veículo da requerida (e-STJ, fls. 9-24).
+O magistrado da Justiça estadual, onde a ação foi proposta, julgou procedente a demanda para condenar a ré ao pagamento de indenização à parte autora (e-STJ, fls. 270-275).
+Contudo, ao julgar a apelação o Tribunal de Justiça do Estado de São Paulo reconheceu sua incompetência absoluta e determinou a remessa dos autos à Justiça do Trabalho. Eis a ementa do acórdão (e-STJ, fls. 503):
+COMPETÊNCIA - Pretensão indenizatória decorrente de acidente de trânsito in itinere, ocorrido durante a volta do trabalho transporte fornecido pelo empregador, mediante contratação de terceiro - Incompetência absoluta da Justiça Comum Estadual - Sentença anulada de ofício - Competência para processar e julgar a demanda que é da Justiça do Trabalho - Inteligência do art. 114, inciso, VI, da CF/88 - Recurso não conhecido - Remessa determinada.
+O Juízo trabalhista também reconheceu sua incompetência, suscitando conflito pelo fato de a ação estar baseada em normas do Código Civil e no acidente de trânsito em si, tendo sido "promovida somente contra a sociedade empresária transportadora e proprietária do ônibus que conduzia o autor para o seu trabalho, sem que fosse incluída no polo passivo da lide a sua empregadora, contratante da transportadora" (e-STJ, fl. 5).
+O Ministério Público apresentou parecer pela "competência da Justiça Estadual" (e-STJ, fls. 759-763).
+Brevemente relatado, decido.
+De plano, assinala-se que a fixação da competência em razão da matéria decorre da análise da natureza jurídica da questão controvertida, delimitada pela parte demandante no pedido e na causa de pedir expostos na exordial.
+No caso em tela, consta que o autor pretende a reparação pelos prejuízos, de ordem moral e material, advindos do acidente de trânsito ocorrido quando era transportado em veículo de propriedade da empresa ré, contratada por sua empregadora para condução dos funcionários ao local de trabalho.
+Verifica-se, todavia, que a pretensão deduzida não envolve a empregadora da parte autora, mas tão somente a reparação por parte da empresa de transporte pelo dano sofrido em razão do acidente automobilístico.
+Conforme a jurisprudência desta Corte, "compete à Justiça Comum, e não à Justiça especializada, processar e julgar a ação reparatória proposta contra parte com a qual o autor não possua nenhuma relação trabalhista, quando fundada na existência do dever de indenizar decorrente das disposições da legislação civil ou das normas de proteção ao consumidor, ainda que, em tese, os fatos narrados na inicial possam corresponder a acidente laboral" (CC n. 121.723/ES, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 26/2/2014, DJe de 28/2/2014).
+No mesmo sentido:
+CONFLITO DE COMPETÊNCIA. INDENIZAÇÃO. ACIDENTE. QUEDA. DANOS MORAIS. CAUSA DE PEDIR. FALHA NA MANUTENÇÃO DE POSTES. PRETENSÃO FUNDADA EM RESPONSABILIDADE OBJETIVA. PEDIDO COM BASE EM SUPOSTO ILÍCITO DE NATUREZA CÍVEL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Ação de indenização por danos morais decorrentes de acidente sofrido por funcionário de empresa que, prestando serviços a outra empresa prestadora de serviços, recolhia cabos telefônicos para posterior substituição de postes pela terceira empresa, aqui ré, dona dos postes.
+2. Registro nos autos da existência de uma outra ação, trabalhista, contra o empregador, com fundamento diverso da presente.
+3. Causa de pedir de cunho civil, com pedido alicerçado na responsabilidade objetiva da concessionária, não-empregadora, baseado na teoria do risco administrativo, independente de demonstração de culpa.
+4. Conflito conhecido para declarar a competência do Juízo de Direito, suscitado.
+(CC n. 132.460/PB, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 10/2/2021, DJe de 18/2/2021.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE CIVIL. CAUSA DE PEDIR. ACIDENTE DE TRÂNSITO SEM LIGAÇÃO COM A RELAÇÃO DE TRABALHO MANTIDA ENTRE A VÍTIMA E A SOCIEDADE RÉ. ACIDENTE DE TRABALHO NÃO ALEGADO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. A pretensão indenizatória deduzida na presente ação, proposta pelo genitor da vítima fatal de acidente de trânsito, deriva de responsabilidade civil comum, e não da relação de trabalho havida entre o falecido e a também empregadora do agente causador do dano.
+A análise da dinâmica do sinistro descrita na inicial permite concluir que a vítima não estava a trabalho, que a motocicleta por ela usada não era da empresa, e que não estava em trânsito para o trabalho ou dele regressando.
+2. Compete à Justiça Comum Estadual processar e julgar a pretensão indenizatória deduzida, pois, embora seja incontestável a existência de relação de trabalho entre a vítima e a sociedade empresária empregadora do causador do acidente, a lide não tem causa de pedir e pedido fundados na relação de emprego ou em acidente de trabalho.
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual.
+(CC n. 133.668/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 10/6/2015, DJe de 3/8/2015.)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara de Monte Aprazível/SP (suscitado).
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM RAZÃO DE ACIDENTE AUTOMOBILÍSTICO. NATUREZA JURÍDICA EMINENTEMENTE CIVIL DA DEMANDA. EMPREGADORA NÃO INCLUÍDA NO POLO PASSIVO DE LIDE. DEMANDA DE CARÁTER NÃO COMPETÊNCIA DA JUSTIÇA COMUM.
