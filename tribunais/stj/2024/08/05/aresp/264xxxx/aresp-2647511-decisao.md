@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282 e 356 do STF e da aplicação do art. 1.030, I, do CPC/2015 (e-STJ fls. 575/578).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 424):
+EMENTA: AP ELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO - PRELIMINAR - AUSÊNCIA DE DIALETICIDADE RECURSAL - JUROS REMUNERATÓRIOS - ABUSIVIDADE NÃO COMPROVADA -TARIFA DE REGISTRO - SERVIÇO NÃO COMPROVADO - TARIFA DE AVALIAÇÃO DO BEM - SERVIÇO COMPROVADO - TARIFA DE SERVIÇOS DE TERCEIROS - LEGALIDADE - TARIFA DE CADASTRO. À luz da dialeticidade recursal, a parte recorrente deve expor de forma clara as razões de fato e direito que embasam o pedido de reforma da sentença impugnada (v. art. 1.010 e art. 932, III, ambos do CPC/15). Conforme entendimento deste Eg. TJMG, serão considerados abusivos os juros remuneratórios fixados em patamar superior a uma vezes e meia da taxa média de mercado divulgada pelo Banco Central para as mesmas operações e períodos. O STJ, no julgamento do tema 958 pacificou o entendimento de que são cabíveis as cobranças relativas às despesas com registro do contrato e de avaliação do bem, ressalvadas a abusividade da cobrança por ausência de especificação e execução do serviço a ser prestado.
+O Superior Tribunal de Justiça, no julgamento do REsp n. 1.578.553/SP, submetido à sistemática dos recursos repetitivos entendeu que é cabível a cobrança da tarifa de serviço de terceiros, ressalvada a abusividade da cobrança por ausência de especificação do serviço a ser prestado. O Superior Tribunal de Justiça, no julgamento do REsp n. 1.255.573, submetido à sistemática dos recursos repetitivos, reconheceu que "permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre consumidor e a instituição financeira" (STJ. R Esp n. 1.255.573, Rel. Min. Maria Isabel Gallotti, Segunda Seção, j. 23.08.2013).
+Os embargos de declaração foram acolhidos (e-STJ fl. 466):
+EMENTA: EMBARGOS DE DECLARAÇÃO -AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO -ALIENAÇÃO FIDUCIÁRIA -TARIFA DE CADASTRO E DE REGISTRO-OMISSÃO E CONTRADIÇÃO -VÍCIO VERIFICADO -ACOLHIMENTO. Nos termos do art. 1.022 do CPC/15, os Embargos de Declaração são cabíveis quando há omissão, obscuridade, contradição ou erro material no julgado.
+Nas razões do recurso especial (e-STJ fls. 474/482), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou:
+(i) violação dos arts. 6º, 39, 42 e 51 do CDC, porque (e-STJ fls. 484/488):
+ ..  no presente caso ficou evidenciado que, em nenhum momento, o Recorridos e desincumbiu com o dever de prestar informações claras sobre o produto que ofereceu, tendo em vista que incluiu cartão de crédito consignado no benefício da Requerente sem sua solicitação.
+ ..  A cobrança genérica de tarifas afronta o Código de Defesa do Consumidor, uma vez que não especifica o serviço especificamente prestado pelo terceiro. Ademais referidas tarifas representam custos operacionais da revenda e da instituição financeira que não poder ser transferidos ao consumidor.
+Destarte, a cobrança de Tarifas de Cadastro no valor de R$ 690,00 e de Serviços Prestados Pela Revenda no valor de R$ 944,40, genericamente previstas no contrato, além de não encontra amparo na regulação bancária e malfere o Código de Defesa do Consumidor, motivo pelo qual deve ser declarada sua abusividade.
+ ..  No caso em apreço, a instituição financeiras não trouxe aos autos, a comprovação da a efetiva prestação de serviço de avaliação de veículo usado.
+ ..  o Registro do contrato no valor de R$ 50,00 e a avaliação do bem no valor de R$ 194,00, por ser inerente ao negócio jurídico de compra e venda, e embutida no preço, não pode ser objeto de cobrança pela instituição financeira, sob pena de bis in idem e enriquecimento sem causa, contrariando o Código de Defesa do Consumidor, motivo pelo qual deve ser declarada sua abusividade.
+(ii) dissídio jurisprudencial, pois deveria ser substituída a Tabela Price pelo método Gauss (e-STJ fl. 490):
+Verifica-se a matéria relacionada à aplicação do Método Gauss foi tratada no laudo Pericial, nas manifestações sobre o laudo, bem como nas razões de apelação, não havendo que se falar em inovação recursal.
+No agravo (e-STJ fls. 581/591), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 595/597).
+É o relatório.
+Decido.
+Conforme o § 2º do art. 1.030 do CPC ("Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021"), compete somente ao Tribunal de origem a análise de eventual distinção entre o precedente formado pelo recurso especial repetitivo e o caso concreto. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+ ..
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Relator Ministro JOÃO OTÁVIO DE NORONHA, Relator para Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018.)
+A Corte de origem, na sistemática estabelecida pelo legislador para a análise das demandas repetitivas, negou seguimento à insurgência recursal, asseverando que o acórdão anterior está em consonância com a orientação do STJ firmada em recurso repetitivo. Portanto, em conformidade com a jurisprudência citada, a matéria não foi devolvida a novo exame deste Tribunal Superior, motivo pelo qual não conheço dessa parte da irresignação.
+No entanto, devidamente impugnada a decisão que inadmitiu o especial, o agravo nos próprios autos merece parcial conhecimento para apreciação do especial em relação à insurgência restante.
+Quanto ao método Gauss, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, a parte não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Incide, portanto, a Súmula n. 284/STF.
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo e, nesta parte, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
