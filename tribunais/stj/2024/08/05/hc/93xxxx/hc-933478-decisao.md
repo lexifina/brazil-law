@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Rafael Jose da Conceicao, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco (Apelação n. 0036908-47.2016.8.17.0810).
+Consta dos autos que o paciente foi condenado pela prática de roubo majorado à pena de 6 anos e 8 meses de reclusão, em regime semiaberto, e pagamento de 165 dias-multa.
+Interposta apelação, o Tribunal a quo negou-lhe provimento (fls. 57/70).
+Nesta instância superior, pleiteia-se a revisão da dosimetria da pena, a fim de que seja fixada a fração 1/6 para cada circunstância judicial considerada negativa.
+Argumenta-se, em suma, que, frente à omissão do legislador, o entendimento majoritário da doutrina e da jurisprudência pátria é no sentido de que se faz proporcional a aplicação da fração de aumento em 1/6 (um sexto) sobre o mínimo legal para cada circunstância judicial valorada negativamente ou também a aplicação de 1/8, levando-se em consideração o intervalo da pena entre o mínimo e o máximo cominada, não havendo direito subjetivo do réu. Entretanto, o STJ entende que a partir do momento em que o Tribunal escolhe a fração a ser aplicada, deverá fundamentar a sua escolha, o que não ocorreu em sede de sentença de 1º grau, tampouco no acórdão recorrido (fls. 7/8).
+É o relatório.
+A insurgência não prospera.
+Com efeito, no âmbito restrito do habeas corpus, a análise de suposta violação do art. 59 do Código Penal só é admitida nos casos em que haja flagrante ilegalidade na fixação da reprimenda, o que não se evidencia no caso em apreço, porquanto existe motivação particularizada, vinculada à discricionariedade do julgador.
+A fração aduzida pela defesa (1/6 sobre a pena mínima em abstrato), embora utilizada como referência em alguns precedentes desta Corte Superior, não traduz uma imposição, mesmo porque há também julgados que reputam justificada a fixação de fração de aumento em 1/8 por vetorial negativa, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador - cálculo eleito no caso em apreço.
+No sentido acima exposto, por exemplo, o HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018; e o HC n. 544.961/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020.
+Logo, não há falar em critério matemático impositivo estabelecido pela jurisprudência desta Corte Superior, mas, sim, em um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no AREsp n. 1.218.352/MG, Ministro Jorge Mussi, Quinta Turma, DJe 5/12/2018).
+Na mesma linha, o REsp n. 1.758.958/SP, de minha relatoria, Sexta Turma, DJe 25/9/2018.
+Assim, considerando que o Tribunal a quo utilizou fundamentação idônea para aumentar a pena e aplicou um critério dentro da discricionariedade vinculada que lhe é assegurada pela lei, não há falar em violação do art. 59 do Código Penal.
+Contudo, da atenta análise dos autos, verifica-se que houve um erro material no cálculo da pena, porquanto o Magistrado sentenciante, corroborado pelo Tribunal a quo, utilizou o cálculo de 1/8 sobre o intervalo entre pena mínima e a pena máxima prevista no preceito secundário do tipo penal, o que resulta no acréscimo de 9 meses para cada circunstância judicial. Assim, negativadas duas vetoriais (culpabilidade e antecedentes criminais), a pena torna-se definitiva em 5 anos e 6 meses de reclusão (e não 5 anos, 8 meses e 17 dias de reclusão - fl. 35). Na segunda fase, reconhecida a agravante da reincidência, a pena foi recrudescida em 1/6, o que totaliza 6 anos e 5 meses de reclusão, quantum que se torna definitivo ante a ausência de causas de aumento ou diminuição da pena.
+Ante o exposto, indefiro liminarmente o habeas corpus. Concedo, contudo, a ordem de ofício, para, corrigindo erro material, fixar a pena do paciente em 6 anos e 5 meses de reclusão, mantidos os demais termos da condenação.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DOSIMETRIA DA PENA. CRITÉRIO QUALITATIVO E NÃO PURAMENTE MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. MOTIVAÇÃO IDÔNEA. PRECEDENTES. ERRO MATERIAL NO CÁLCULO DA PENA CORRIGIDO DE OFÍCIO.
+Writ indeferido liminarmente. Ordem concedida de ofício, nos termos do dispositivo.
