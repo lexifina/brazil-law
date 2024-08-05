@@ -1,0 +1,53 @@
+DECISÃO
+Em análise, agravo interno no agravo em recurso especial interposto pela UNIÃO, contra a decisão que não conheceu de seu agravo em recurso especial, ante a incidência implícita da Súmula 182/STJ.
+Sustenta a agravante, em suma, ter discutido especificamente os fundamentos da decisão de inadmissibilidade adotadas pela origem. Afirma não se discutir o descabimento de restrição cadastral (CADIN) por liberação de verbas para ações sociais e em faixa de fronteira, senão de não se tratar, na hipótese, de ações sociais.
+Houve impugnação.
+Em aclaratórios supervenientes pela parte ora agravada, os honorários foram majorados a título recursal, decisão objeto de outro agravo interno.
+Parecer do Ministério Público Federal (fls. 627-635).
+É o relatório.
+Passo a decidir.
+Da análise dos autos, a decisão deve ser reconsiderada.
+Consta expressamente no agravo em recurso especial:
+O ilustre Desembargador Federal Presidente do Tribunal Regional Federal da 1º Região não admitiu o recurso especial interposto pela União, sob o argumento de que o C. STJ teria consolidado entendimento no sentido de que "a inscrição de município devedor junto ao SIAFI deve ter seus efeitos suspensos apenas quanto aos repasses que visem à execução de ações sociais ou em faixa de fronteira, não se cogitando o cancelamento da anotação restritiva nesses casos".
+Ocorre que, a tese recursal da União é a ausência de implemento pela atual Administração de todas as providências devidas em face do ex-qestor, além de questionar a classificação em si do convênio em discussão como ação social, não se cogitando nem da diferença conceituai entre os institutos do cancelamento e da suspensão e, tampouco, da natureza dos convênios em que tais institutos incidem.
+Vê-se, portanto, que a tese recursal da União não foi objeto de análise.
+Desse modo, considerando que não é cabível Embargos de Declaração em sede de despacho de admissibilidade de Recurso Especial, é o presente Agravo para requerer a reconsideração da decisão quanto à omissão (fls. 466-467).
+De fato, o recurso da ora agravante não contrariou o entendimento desta Corte exposto na decisão de admissibilidade. Ao contrário, refere-se diretamente a ele:
+ ..  o próprio dispositivo traz uma exceção quanto à aplicação da sanção de suspensão de transferência voluntária. Isso se dá quando a transferência for destinada para ações de educação, saúde e assistência social (§ 3º).
+ ..
+É certo que a expressão "assistência social" se revela deveras ampla e vaga. Contudo, o seu significado pode ser extraído a partir do texto constitucional, mais precisamente do artigo 203 e relaciona-se à proteção à família, maternidade, infância, à adolescência, à velhice, às crianças e adolescentes carentes, à promoção da integração ao mercado de trabalho, à habilitação e reabilitação das pessoas portadoras de deficiência e à promoção de sua integração à vida comunitária.
+O objeto do contrato em tela tem como objetivo implantação de obras de melhoria urbana.
+ ..
+Diante de tudo o que foi exposto, não há como se aceitar o enquadramento em "ações sociais".
+Pensar o contrário, aniquila, por completo, a letra da Lei de Responsabilidade Fiscal e da Lei n.º 10.522/2002, pois, em última análise, tudo pode ser conceituado como "ação social".
+Portanto, há mais de uma razão para a reforma do acórdão proferido. Uma porque é fato incontroverso que o Município encontra-se com restrições no SIAFI/CAUC. A duas porque o objeto do contrato não se amolda na exceção prevista na LC 101 c/c Lei nº 10.522/02 (fls. 392-394).
+Forçoso, portanto, reconhecer a dialeticidade recursal do agravo, motivo pelo qual reconsidero a decisão agravada e passo ao exame do recurso especial.
+O acórdão recorrido foi assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. MUNICÍPIO. CONVÊNIO. TRANSFERÊNCIA VOLUNTÁRIA DE RECURSOS FEDERAIS. IRREGULARIDADES NA PRESTAÇÃO DE CONTAS DO EX-GESTOR. INSCRIÇÃO DO MUNICÍPIO INADIMPLENTE NO SIAFI/CAUC/CADIN. DEVIDO PROCESSO LEGAL. EXIGÊNCIA. JURISPRUDÊNCIA DO STF. SUSPENSÃO DA EXIGÊNCIA DE REGULARIDADE EM CADASTROS RESTRITIVOS. POSSIBILIDADE. PERMISSÃO DE ACESSO A CONVÊNIOS DE CUNHO SOCIAL. ART 25 § 3º DA LC 101/2000 E ART 26 DA LEI 10.522/2002  ..  (fl. 477).
+Os embargos de declaração foram rejeitados.
+Defende a recorrente, em síntese, a impossibilidade de enquadramento das obras do caso no conceito de "ações sociais" e de liberação dos repasses sem a adoção de medidas de responsabilização do ex-gestor pela municipalidade (arts. 25, § 1º, IV, a, e § 3º, 26, § 2º, e 51, § 2º, da Lei Complementar 101/2000; 26 da Lei 10.522/2002; 11, I e II, da Lei 8.429/1992; e 75 da Lei 4.320/1964).
+O Ministério Público Federal opinou, inicialmente, pelo provimento do recurso especial, embora tenha defendido posição oposta por ocasião do agravo interno.
+Acerca do objeto recursal, consta do dispositivo do acórdão recorrido:
+Desse modo, deve ser reformada a sentença para julgar procedente o pedido inicial e determinar a exclusão dos efeitos da inscrição do Município de Monte Santo/BA no cadastro de inadimplência SIAFI/ICAUC/CADIN, tão-somente, no que se refere ao contrato de repasse 0184913-02, que trata de convênio com nítido caráter social/assistencial, onde se objetiva a execução de ações relativas à melhoria das condições de vida da população local (obras de pavimentação de ruas) (fl. 355).
+O julgado integrativo assim resumiu o ponto de vista da Corte de origem:
+O acórdão também foi expresso ao declarar que esta Corte já firmou entendimento no sentido de que os convênios relativos às obras de pavimentação e urbanização de praças, subsumem-se ao conceito de "ações sociais", por conseguinte, estão inseridos dentro das exceções previstas no art. 26, da Lei 10.522/2002 e 25, § 3º, da Lei de Responsabilidade Fiscal (fl. 371).
+O tribunal local contrariou a jurisprudência desta Corte Superior, que rejeita o enquadramento de obras de pavimentação como de ação social. Confira :
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REPASSE DE CONVÊNIOS. RESTRIÇÃO CADASTRAL DE MUNICÍPIO NO CADIN. SUSPENSÃO. INVIABILIDADE. AÇÕES SOCIAIS NÃO CARACTERIZADAS. POSTERIOR LIBERAÇÃO E APLICAÇÃO DOS RECURSOS. PERDA DO OBJETO. NÃO OCORRÊNCIA.
+1. Nos termos do art. 26 da Lei nº 10.522/2002, "Fica suspensa a restrição para transferência de recursos federais a Estados, Distrito Federal e Municípios destinados à execução de ações sociais ou ações em faixa de fronteira, em decorrência de inadimplementos objetos de registro no Cadin e no Sistema Integrado de Administração Financeira do Governo Federal - SIAFI".
+2. De acordo com a jurisprudência desta Corte, "A ação social a que se refere mencionada lei é referente às ações que objetivam atender a direitos sociais assegurados aos cidadãos, cuja realização é obrigatória por parte do Poder Público, como aquelas mencionadas na Constituição Federal, nos artigos 6º, 193, 194, 196, 201, 203, 205, 215 e 217 (alimentação, moradia, segurança, proteção à maternidade e à infância, assistência aos desamparados, ordem social, seguridade social, saúde, previdência social, assistência social, educação, cultura e desporto)" (REsp 1.372.942/AL, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11/4/2014).
+3. No caso concreto, verifica-se a inviabilidade da suspensão da restrição lançada em desfavor do Município agravante, tendo em vista que a drenagem profunda de águas pluviais e a pavimentação de via pública, nada obstante sua importância para o desenvolvimento urbano e para o o bem-estar da comunidade, não se amoldam ao conceito de ação social previsto no art. 26 da Lei n. 10.522/2002.
+ ..
+5. Agravo interno não provido (AgInt no REsp 1.832.197/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/11/2019, DJe de 27/11/2019).
+ADMINISTRATIVO. REPASSE DE VERBAS A MUNICÍPIO. EXISTÊNCIA DE RESTRIÇÃO CADASTRAL NO SIAFI E CAUC. REALIZAÇÃO DE OBRAS DE INFRAESTRUTURA. CARÁTER SOCIAL. PAVIMENTAÇÃO. QUESTÃO ATRELADA AO REEXAME DE CONVÊNIO E AO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ.
+ ..
+2. Ademais, percebe-se que o entendimento do Tribunal de origem está em consonância com a atual orientação desta Corte Superior no sentido de que o direito à infraestrutura urbana e aos serviços públicos, os quais abarcam o direito à pavimentação de vias públicas, compõe o rol de direitos que dão significado à garantia do direito a cidades sustentáveis, conforme previsão do art. 2º da Lei 10.257/2001 - Estatuto das Cidades. Nada obstante, a pavimentação de vias públicas não pode ser enquadrada no conceito de ação social previsto no art. 26 da Lei 10.522/2002. Precedentes.
+3. Agravo Regimental não provido (AgRg no REsp 1.490.020/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2015, DJe de 31/3/2015).
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSOS ESPECIAIS. AÇÃO MOVIDA POR MUNICÍPIO QUE OBJETIVA A LIBERAÇÃO DE VERBA FEDERAL OBJETO DE CONTRATO DE REPASSE FIRMADO COM A UNIÃO. PAVIMENTAÇÃO DE VIAS URBANAS. INSCRIÇÃO NO SIAFI/CAUC. OBRIGAÇÃO DE FAZER. ART. 26 DA LEI N. 10.522/2002. CONTROVÉRSIA SOBRE A ABRANGÊNCIA DO CONCEITO DE "AÇÕES SOCIAIS".
+ ..
+3. A ação social a que se refere mencionada lei é referente às ações que objetivam atender a direitos sociais assegurados aos cidadãos, cuja realização é obrigatória por parte do Poder Público, como aquelas mencionadas na Constituição Federal, nos artigos 6º, 193, 194, 196, 201, 203, 205, 215 e 217 (alimentação, moradia, segurança, proteção à maternidade e à infância, assistência aos desamparados, ordem social, seguridade social, saúde, previdência social, assistência social, educação, cultura e desporto).
+4. O direito à infra-estrutura urbana e aos serviços públicos, os quais abarcam o direito à pavimentação de vias públicas, compõem o rol de direitos que dão significado à garantia do direito a cidades sustentáveis, conforme previsão do art. 2º da Lei n. 10.257/2001- Estatuto das Cidades. Nada obstante, a pavimentação de vias públicas não pode ser enquadrada no conceito de ação social previsto no art. 26 da Lei n. 10.522/2002.
+ ..
+6. Recursos especiais parcialmente conhecidos e, na parte, providos (REsp 1.372.942/AL, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 1/4/2014, DJe de 11/4/2014).
+Isso posto, reconsidero a decisão agravada de fls. 518-519, e, por conseguinte, a decisão de fl. 637, e conheço do agravo em recurso especial para conhecer e dar provimento ao recurso especial, a fim de restabelecer a sentença, julgando prejudicada a análise do agravo interno da UNIÃO, remanescente, interposto contra a decisão nos aclaratórios opostos à decisão aqui reconsiderada.
+Intimem-se.
+EMENTA
