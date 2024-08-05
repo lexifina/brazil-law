@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por Full Log Transportes Ltda., desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: a) incidência da Súmula 284/STF, "uma vez que suas razões mostram-se dissociadas do conteúdo da decisão que se pretende reformar" e b) "quanto à alegação de existência de dissídio jurisprudencial, é ônus da parte recorrente provar que é idêntico o objeto tratado no acórdão como paradigma, e do contrário não se caracteriza dissídio, em razão de provável particularidade baseada em fatos e circunstâncias específicas de cada processo. Ademais, para a comprovação do dissídio jurisprudencial não é suficiente a simples transcrição de ementas ou julgados, há necessidade de que o recorrente transcreva trechos do acórdão recorrido e do acórdão paradigma, comparando-os, a fim de demonstrar que ambos os casos são bem parecidos ou têm base fática similar e que foram dadas interpretações divergentes, pelo Tribunal de origem, aos mesmos dispositivos infraconstitucionais daquelas firmadas por outros Tribunais ou pelo próprio Superior Tribunal de Justiça."
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater especificamente, de forma particularizada, a apontada aplicação da Súmula 284/STF, com base na assertiva de que razões as aduzidas no apelo especial mostram-se dissociadas do conteúdo da decisão que se pretende reformar.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
