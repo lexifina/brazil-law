@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por JOÃO EDISON BERTOLDI contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL nos termos da seguinte ementa (fl. 400):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃOESPECIFICADO. CUMPRIMENTO DE SENTENÇA. I. O RECORRENTE REPETE NO CUMPRIMENTO DE SENTENÇA DE Nº022/1.18.0007315-0, OS MESMOS ARGUMENTOS LANÇADOS NESTESAUTOS, ONDE LITIGAM AS MESMAS PARTES, MESMA CAUSA DE PEDIRE PEDIDO.
+II. CONFIGURADA A LITISPENDÊNCIA, NOS TERMOS DO ART. 337, §§ 1ºA 3º, DO CPC, SITUAÇÃO QUE IMPÕE O DESPROVIMENTO DOPRESENTE AGRAVO COM A EXTINÇÃO DO PROCESSO, COMFUNDAMENTO NO ART. 485, V DO CPC.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Rejeitados os embargos de declaração opostos (fls. 439-442).
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos (fls. 450-465):
+a) 489, § 1º, IV e VII, e 1.022, I, II e II e parágrafo único, do Código de Processo Civil acerca da litispendência;
+b) 337, §§ 1º e 3º, do Código de Processo Civil, sustentando que não se trata de litispendência; e
+c) 278 do Código de Processo Civil, alegando que o recorrido não arguiu a nulidade no primeiro momento que tinha para falar nos autos.
+Oferecidas contrarrazões (fls. 567-577), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 589-593), o que ensejou a interposição do presente agravo (fls. 601-626).
+Apresentadas contraminutas do agravo (fls. 631-638).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não subsiste a apontada violação dos arts. 489 e 1.022 do CPC. Isso porque a parte recorrente não demonstrou especificamente quais seriam os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+Assim, incide, por analogia, o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgInt no REsp n. 2.020.226/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023; AgInt no AREsp n. 2.288.003/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023; REsp n. 2.039.541/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 23/6/2023; AgInt nos EDcl no AREsp n. 2.115.843/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023.
+No que se refere ao art. 337, §§ 1º e 3º, do Código de Processo Civil, o Tribunal de origem concluiu que a litispendência está cofigurada, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fl. 403):
+E, na presente lide, da análise dos autos é possível verificar que o recorrente repete no cumprimento de sentença de nº 022/1.18.0007315-0, os mesmos argumentos lançados neste cumprimento de sentença, com as mesmas partes, mesma causa de pedir e pedido.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Quanto ao art. 278 do Código de Processo Civil, seu conteúdo normativo não foi examinado pelo Tribunal de origem, a despeito da oposição de embargos de declaração, tendo a matéria sido inaugurada no recurso especial.
+Ademais, o Superior Tribunal de Justiça possui orientação no sentido de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+Assim, ausente o requisito do prequestionamento, o que atrai o óbice da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo", ainda que se trate de matéria de ordem pública.
+Nesse sentido: AgInt no AREsp n. 2.261.620/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023; AgInt nos EDcl no AREsp n. 2.009.434/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023; AgInt no AREsp n. 1.930.115/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023; AgInt nos EDcl no AREsp n. 2.115.843/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários advocatícios por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTS. 489 E 1.022 DO CPC. OFENSA. FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. LITISPENDÊNCIA. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA. AR T. 278 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO, A DESPEITO DA OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. SÚMULA N. 211/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
