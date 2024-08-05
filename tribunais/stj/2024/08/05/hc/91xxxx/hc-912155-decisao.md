@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi condenado, "como incurso no artigo 33, caput, da Lei 11.343/06, a cumprir, em regime inicial fechado, a pena de 06 anos, 09 meses e 20 dias de reclusão, bem como ao pagamento de 680 dias-multa, no patamar mínimo" (fl. 20).
+Argumenta a impetrante, em suma, com a atipicidade da conduta devido ao flagrante preparado, exasperação inidônea na primeira etapa da dosimetria e indevida fixação de regime prisional, requerendo, liminarmente e no mérito, a absolvição do paciente ou, subsidiariamente, "reforma na dosimetria da pena, para afastamento dos maus antecedentes e fixação da pena-base no mínimo legal, e a reforma para fins de fixação de REGIME SEMIABERTO como inicial de cumprimento da reprimenda" (fl. 9).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Acerca da tese do flagrante preparado, assim se manifestou o Tribunal local (fl. 23):
+ ..  A despeito da argumentação defensiva, não se vislumbra o aventado flagrante preparado ou forjado. Destarte, a versão do recorrente no sentido de que as drogas lhe foram imputadas arbitrariamente permaneceu isolada nos autos e desprovida de suporte mínimo de prova, a desmerecer credibilidade, inexistindo, ademais, qualquer indicativo de que o recorrente foi induzido ou instigado ao cometimento do tráfico de drogas. ..
+Como visto, diante da motivação acima - em destaque -, inviável retificar tal conclusão sobre o tema, haja vista a necessidade de revolvimento fático-probatório, procedimento esse vedado, como se sabe, na presente via.
+No que se refere à exasperação na primeira etapa da dosimetria, extrai-se do aresto impugnado (fls. 23-24):
+ ..  A pena base foi majorada em 1/6 diante dos maus antecedentes ostentado pelo réu, a teor do artigo 59 do Código Penal. De fato, o recorrente ostenta condenação anterior caracterizadora de maus antecedentes (processo nº 00000193-26.2018.8.26.0538, fls. 138), pelo que não há falar no afastamento pretendido pela defesa. ..
+Acrescida a basilar em 1/6, em razão dos maus antecedentes, não há falar-se em inidoneidade, de acordo com a jurisprudência desta Corte.
+"No tocante à pena-base, a Corte de origem neutralizou a circunstância da quantidade e da natureza dos entorpecentes quando do afastamento da indevida reformatio in pejus, aplicando a fração prudencial de 1/6 (um sexto), relativa apenas à incidência dos maus antecedentes, não havendo que se falar em ilegalidade flagrante ou em desproporcionalidade, uma vez que atendidos os parâmetros fixados por esta Corte Superior." (AgRg no HC n. 910.030/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+"A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a condenação por crime anterior, com trânsito em julgado posterior à prática delitiva em apuração, pode ensejar a exasperação da pena-base, a título de maus antecedentes." (AgRg no HC n. 850.903/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024).
+Por fim, o regime mais gravoso (fechado) foi arbitrado diante dos maus antecedentes e da reincidência do réu (fl. 25), ora paciente. Ausente, assim, a ilegalidade apontada.
+"A reincidência do réu torna incabível a alteração do regime prisional para o aberto ou semiaberto, nos termos do art. 33, § 2º, b, do Código Penal." (AgRg no HC n. 885.611/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+"Na espécie, embora a reprimenda imposta não tenha ultrapassado 8 anos, a circunstância judicial desfavorável (maus antecedentes) e a reincidência autorizam a manutenção do paciente no regime inicial fechado, segundo a jurisprudência desta Corte. Precedentes." (AgRg no HC n. 836.416/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
