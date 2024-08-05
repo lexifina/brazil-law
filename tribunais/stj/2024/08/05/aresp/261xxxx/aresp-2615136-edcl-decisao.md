@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PROMA INCORPORAÇÕES LTDA. à decisão desta relatoria que conheceu do agravo interposto pela ora embargada para não conhecer do seu recurso especial (e-STJ fls. 4.714-4.726).
+Nas razões dos presentes aclaratórios, a embargante aponta contradição no julgado acerca da quantidade de apartamentos que foram considerados com problemas a serem retificados, aduzindo que a decisão fala em "cerca de cinquenta" e "mais de cinquenta", o que pode levar à interpretação de limitação na quantidade de unidades afetadas.
+Sustenta que o número de apartamentos atingidos será decidido definitivamente em procedimento de liquidação de sentença.
+Impugnação às fls. 4.738-4.740, com pedido de aplicação da multa do art. 1.026, § 2º, do Código de Processo Civil.
+É o relatório.
+DECIDO.
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos declaratórios enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+Verifica-se com clareza a negativa de provimento ao recurso especial, com confirmação do julgamento do acórdão estadual, no sentido de que o procedimento de liquidação de sentença apurará todos os custos diretos e indiretos oriundos da conduta ilícita da ré, ora embargada, relativos à troca de todas as cerâmicas instaladas no empreendimento (material e mão de obra), à desmontagem e montagem de mobiliários e hospedagem de moradores, dos aproximadamente 50 (cinquenta) apartamentos em que ocorreu o descolamento da cerâmica até a propositura da ação (e-STJ fls. 4.491).
+As expressões "cerca de" e "mais de" foram utilizadas em razão da ausência de definição da quantidade de apartamentos atingidos pelo referido descolamento quando do ajuizamento da demanda, o que será apurado em liquidação de sentença.
+Não há contradição na decisão embargada quanto ao reconhecimento de que foi acolhido pela instância ordinária o pedido de ressarcimento dos danos emergentes e negado o pedido relativo aos danos futuros e danos morais.
+Ressalta-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DE ANÁLISE DA DIVERGÊNCIA. SÚMULA N. 315/STJ. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, manteve a decisão que indeferiu liminarmente os embargos de divergência, uma vez que o mérito do recurso não foi conhecido em decorrência da intempestividade do agravo em recurso especial
+3. A Corte Especial, pacificou o entendimento, no sentido de que "os Embargos de Declaração opostos contra a decisão que, no Tribunal de origem, nega seguimento a Recurso Especial não interrompem o prazo para a interposição do Agravo previsto no art. 544 do Código de Processo Civil; entendimento que tem sido flexibilizado apenas nas hipóteses de erro material ou em situações em que a fundamentação da decisão atacada é tão genérica que a utilização do Agravo fica inviabilizada." (AgRg nos EDcl nos EAREsp n. 179.163/RJ, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 6/6/2018, DJe de 14/6/2018.) Precedentes.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados."
+(EDcl no AgInt nos EAREsp n. 1.725.012/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 12/9/2023, DJe de 15/9/2023.)
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Anota-se, por outro lado, ser incabível a aplicação da multa prevista no art. 1.026, § 2º, do CPC, pois não se verifica, neste momento, o caráter protelatório do recurso nem a prática de ato atentatório à dignidade da justiça, tornando desnecessária sua aplicação.
+De fato, ocorreu a apresentação de recurso legalmente previsto no ordenamento jurídico, sem abuso do direito de recorrer, o que não demonstra afronta ou descaso com o Poder Judiciário.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CÂMBIO. PROTESTO DO TÍTULO. CONDIÇÃO NECESSÁRIA. INSTRUMENTO HÁBIL À EXECUÇÃO. IMPRESCINDIBILIDADE DE DEMONSTRAÇÃO QUANDO DA PROPOSITURA. AGRAVO INTERNO DESPROVIDO. (..)
+3. O manifesto intuito protelatório capaz de ensejar a aplicação da sanção prevista no art. 1.026, § 2º, do CPC/2015 não está configurada no caso dos autos, pois o mero inconformismo com a decisão objurgada não enseja a sua imposição. 4. Agravo interno desprovido." (AgInt nos EDcl no AREsp 2.363.049/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023) "PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTAS DOS ARTS. 80 E 1.026, § 2º, DO CPC/2015. NÃO INCIDÊNCIA. OMISSÃO CARACTERIZADA. EMBARGOS ACOLHIDOS. (..) 2. "O simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008).
+3. O mero inconformismo da parte embargada com a oposição de embargos de declaração não autoriza a imposição da multa prevista no § 2º do art. 1.026 do CPC/2015, uma vez que, no caso, não se encontra configurado o caráter manifestamente protelatório, requisito indispensável à imposição da sanção (EDcl no AgInt no AREsp 2.197.043/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023).
+4. Embargos de declaração acolhidos para sanar omissão." (EDcl nos EDcl nos EDcl no AgInt no AREsp 1.804.269/MT, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023)
+Ante o exposto, rej eito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
