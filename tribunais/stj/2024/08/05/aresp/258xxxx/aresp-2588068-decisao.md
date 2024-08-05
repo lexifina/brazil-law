@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO CESP contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação cominatória visando o fornecimento de home care, cumulada com pedido de indenização por danos morais - Fisioterapia - Parcial procedência da ação - Ilegitimidade da negativa e exclusão do custeio de tratamento domiciliar comprovadamente necessário à manutenção da saúde da paciente - Indicação expressa do médico que acompanha a autora sobre a necessidade da assistência nesta modalidade- Dever jurídico do plano de saúde de fornecer o tratamento domiciliar - Abusividade da cláusula contratual de exclusão - Inteligência das Súmulas ns. 90 e 102 do Tribunal de Justiçado Estado de São Paulo - Rol da agencia reguladora do setor de caráter meramente referencial, enunciativo - Legitimidade da cobertura integral pela ré - Precedentes da instância especial deste Tribunal de Justiça - Sentença mantida - Recurso não provido." (e-STJ fl. 272).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 285/288).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 10, parágrafos 3º e 4º, da Lei nº 9.656/1998 e 422 do Código Civil, pois o plano de saúde do qual a recorrida está vinculada não há previsão para cobertura de atendimento domiciliar.
+Sustenta que, "(..) além do serviço profissional solicitado não ser de obrigatoriedade da Vivest, é certo que a modalidade domiciliar somente é autorizada para os casos em que fique comprovado que o paciente apresenta dificuldade de locomoção ou, ainda, que se trata de uma extensão do tratamento hospitalar (home care),o que não restou comprovado no presente caso." (e-STJ fl. 308).
+Por fim, aduz inexistir a obrigatoriedade de o plano de sau"de custear tratamentos que na o estejam previstos no rol da ANS.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Esta Corte tem entendimento firme no sentido de que ""A taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção ao examinar os EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, por não configurar procedimento, evento ou medicamento diverso daqueles já previstos pela agência" (AgInt no AREsp n. 2.021.667/RN, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2022, DJe de 2/12/2022)" (AgInt no REsp 2.032.929/SP, Relator Ministro Antônio Carlos Ferreira, DJe 20/4/2023).
+Cita-se a ementa desse julgado:
+"DIREITO CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. NEGATIVA DE COBERTURA. ABUSO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. O Tribunal de origem entendeu que o beneficiário do plano teria direito ao tratamento home care com fisioterapia, pois seria inconteste sua necessidade, ante seu estado de saúde frágil decorrente da doença de Parkinson.
+4. Rever a conclusão da Corte de origem quanto à imprescindibilidade do home care exigiria o reexame dos fatos e das provas dos autos, o que esbarra na Súmula n. 7/STJ.
+5. "Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no REsp n. 1.994.152/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022).
+6. "A taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção ao examinar os EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, por não configurar procedimento, evento ou medicamento diverso daqueles já previstos pela agência"(AgInt no AREsp n. 2.021.667/RN, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2022, DJe de 2/12/2022).
+7. Agravo interno a que se nega provimento"
+(AgInt no REsp n. 2.032.929/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023-grifou-se)
+No caso em tela, o aresto recorrido expressamente que houve "(..) orientação emanada do profissional responsável para o fornecimento do tratamento home care 05 (cinco) vezes por semana, tendente à tentativa de solução do quadro clínico da autora  artropatia tricompartimental dos joelhos bilateral com importante limitação de locomoção , mormente considerando a ausência de condições físicas para o deslocamento a fim de realizar o tratamento em uma clínica externa, conforme relatório médico de pág. 17, foi inexorável o dever de fornecimento do tratamento domiciliar nos termos prescritos" (e-STJ fl. 273-grifou-se).
+Assim, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.  85
+Publique-se.
+Intimem-se.
+EMENTA
