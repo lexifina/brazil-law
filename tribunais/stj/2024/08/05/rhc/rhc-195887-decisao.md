@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por THIAGO DE ANDRADE SILVA, contra acórdão proferido pela Quarta Câmara do Tribunal de Justiça do Estado de Goiás que denegou a ordem pleiteada no Habeas Corpus n. 5055331-16.2024.8.09.0000. Eis a ementa do julgado (fl. 170):
+"HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. ROUBO E FURTO DE VEÍCULO AUTOMOTOR. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR. AUSÊNCIA DOS REQUISITOS DA PRISÃO TEMPORÁRIA. NEGATIVA DE AUTORIA. PRESUNÇÃO DE INOCÊNCIA. BONS PREDICADOS. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. 1) Impõe-se a manutenção da decisão que decretou a prisão temporária do paciente quando: satisfatoriamente demonstrado o seu envolvimento na organização criminosa e as fundadas razões de autoria que recaem sobre a sua pessoa; ser a medida extrema imprescindível para a conclusão das investigações policiais; e estar justificada em fatos novos ou contemporâneos (art. 1º, incs. I e III, da Lei n.º 7.960/89 e critérios estabelecidos pelo STF). 2) A via estreita do habeas corpus, por ser de cognição sumária e rito célere, não admite discussão tendente a aferir a materialidade e a autoria das infrações penais, por demandar aprofundada incursão no conjunto fático-probatório. 3) A prisão provisória encontra-se autorizada pela Constituição Federal (art. 5º, inciso LXI), não ferindo o princípio da presunção de não culpabilidade, desde que implementadas as exigências legais (em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente), como ocorreu neste caso. 4) Os atributos subjetivos favoráveis, tais como primariedade, bons antecedentes, residência fixa e ocupação laboral lícita, ainda que comprovados, não são bastantes, por si sós, para a concessão do benefício da liberdade, mormente quando preenchidos os pressupostos e fundamentos legais da constrição temporária. Outrossim, revelando-se a prisão temporária adequada à gravidade concreta dos crimes, às circunstâncias do fato e às condições pessoais do indiciado, inviável a imposição de medidas cautelares diversas.
+ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA".
+Consta dos autos que foi decretada a prisão temporária do recorrente pela suposta prática dos crimes de organização criminosa, roubo de veículo automotor, furto de veículo automotor, receptação de componentes veiculares e adulteração de sinal identificador de veículo automotor, no bojo da Operação "Desmantelo". Impetrado habeas corpus perante a Corte de origem, a ordem foi denegada (fls. 147-170).
+No presente recurso, a defesa sustenta que a prisão do recorrente foi decretada, pelo prazo de 30 dias, com base no art. 1º, incisos I e III, alínea "n", da Lei n. 7.960/89, em desacordo com o requerimento da autoridade policial, haja vista que não há investigação referente a tráfico de drogas.
+Aduz que, diante dos delitos investigados, a prisão somente poderia ter sido decretada pelo período de 05 (cinco) dias nos termos do art. 1º, inc. III, l, da lei 7.960/89, haja vista que os fatos se enquadrariam em "quadrilha e bando".
+Destaca a ausência de justa causa e de pressupostos legais para a decretação da prisão temporária do recorrente, não estando presente a imprescindibilidade da prisão para a continuidade das inv estigações.
+Ressalta que há nos autos "apenas suspeições e inferências, SEM nenhuma materialidade ou prova lícita capaz de alicerçar o decreto da prisão temporária" (fl. 185).
+Requer, liminarmente e no mérito, seja restabelecida a liberdade do recorrente.
+A liminar foi indeferida (fls. 200-204).
+As informações foram prestadas (fls. 209-221).
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (fls. 225-227).
+É o relatório. Decido.
+Consoante relatado, busca o recorrente que seja restabelecida a sua liberdade.
+Ocorre que, em decisão proferida em 19/6/2024, nos autos do HC 897025/GO, deferi pedido de extensão e revoguei a prisão temporária do ora recorrente, o que culminou na perda de objeto do presente recurso.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
