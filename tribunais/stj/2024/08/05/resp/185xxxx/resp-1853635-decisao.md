@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, recurso especial interposto por FATIMA DE LOURDES BISCONSIN TORRES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA assim ementado:
+Apelação cível. Ação anulatória de venda judicial. Registros Públicos. Escritura Pública de Compra e Venda de Imóvel. Registro na serventia imobiliária. Ausência. Propriedade não comprovada.
+Sentença. Manutenção.
+1. Não há que se falar em nulidade da venda judicial quando os atos foram realizados em observância ao ordenamento jurídico-processual brasileiro.
+2. A escritura pública de compra e venda de imóvel, sem o necessário registro na serventia imobiliária competente, não se presta a comprovar o domínio do bem objeto da ação reivindicatória. (inteligência do art. 1.245 do CC/2002) (fl. 1.453).
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a recorrente sustenta, além da divergência jurisprudencial na interpretação do art. 1.245 do Código Civil, a violação aos arts. 1.200 e 1.201 do Código Civil, defendendo que agiu de boa-fé na compra do imóvel, razão pela qual deve ser reconhecido seu direito à propriedade, devendo ser anulada a arrematação judicial do bem.
+Contrarrazões apresentadas.
+O Ministério Público Federal, em parecer de fls. 1.591-1.595, opina pelo não conhecimento do recurso e, caso superado o óbice, pelo seu desprovimento.
+É o relatório.
+Passo a decidir.
+No caso, o Tribunal de origem considerou a regularidade do processo de arrematação do imóvel, com base nos seguintes fundamentos:
+Depreende-se dos documentos trazidos à colação que os apelados adquiriram o imóvel em observância ao devido processo legal: arresto, penhora, arrematação, transferência e registro no serviço imobiliário competente, constituindo meios hábeis para aquisição de bens imóveis, de acordo com o ordenamento jurídico brasileiro, afastando, portanto, a hipótese de nulidade da penhora e arrematação e/ou posse injusta ou de má-fé.
+Além do mais, mesmo tendo a recorrente apresentado nos autos a Escritura Pública de Compra e Venda, lavrada às fls. 23/24v, Livro 185-E, no 1º Ofício de Notas e Registro Civil desta comarca (fls. e-47/48), em que figura como adquirente em conjunto com seu esposo Lúcio Carlos de Azevedo Torres, constata-se, na certidão imobiliária, Matrícula 36.256, Livro 2 (fls. e-53/54), cuja transferência da propriedade deixou de ser registrada no serviço imobiliário competente à época da aquisição (ano de 2000), o que a impede de ter seu direito de propriedade reconhecido, em observância ao que dispõe o art. 1.245 do Código Civil Brasileiro, in verbis:
+ ..
+Por outro viés, embora conste que o ato notarial foi lavrado anteriormente à propositura da ação de execução fiscal, não houve a regular transcrição do título translativo no registro imobiliário, em que a propriedade ainda era considerada do vendedor.
+Logo, não havia como ser do conhecimento do órgão fazendário, mesmo com a expedição da guia de ITBI, considerando tratar-se de eventos totalmente distintos e independentes.
+Dessa forma, há que se concluir que a escritura pública de compra e venda apenas produziu os efeitos obrigacionais perante os envolvidos (Anderson Rodrigo X Lúcio Carlos e Fátima de Lourdes), não alcançando este os efeitos perante terceiros de boa fé, como o Município de Porto Velho e outros.
+Desse modo, a pretensão da parte recorrente relativa ao reconhecimento de sua propriedade encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador - no que tange à regularidade da arrematação do bem imóvel e no alcance dos efeitos da compra e venda perante os terceiros de boa-fé - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ANULAÇÃO DE ARREMATAÇÃO. TRIBUNAL A QUO ASSENTOU QUE HAVIA REGISTRO DA PENHORA EM DATA ANTERIOR À AQUISIÇÃO DO IMÓVEL. PRETENSÃO DE REDISCUTIR BOA-FÉ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O eg. Tribunal a quo assentou que não havia vícios na arrematação, pois o registro de penhora sobre o imóvel arrematado era anterior à aquisição deste pelos agravantes, que tinham, então, ciência da constrição.
+2. Considerando as circunstâncias delineadas pelo eg. Tribunal a quo, a pretensão de discutir a boa-fé dos agravantes na aquisição do imóvel demandaria reexame de matéria fático-probatória, inviável em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. A jurisprudência desta Corte é pacífica no sentido de que, em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares.
+4. Agravo interno desprovido (AgInt no AREsp 766.415/MT, relator Ministro Raul Araújo, Quarta Turma, DJe de 14/9/2017.)
+Ademais, "consoante entendimento desta Corte Superior, somente com o registro imobiliário se tem como transmitida a propriedade do imóvel, aperfeiçoando-se, em face de pessoas estranhas à relação contratual originária, a transferência de domínio de imóvel (efeito erga omnes). Precedentes" (AgInt no REsp 1.801.448/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023).
+Portanto, considerando que o entendimento do acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Por fim, importante destacar que os mesmos óbices impedem o conhecimento do apontado dissídio jurisprudencial. Nesse sentido, "o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial" (AgInt no AREsp 1.372.011/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/8/2019).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+ EMENTA
