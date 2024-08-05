@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado pela Empresa Metropolitana de Transportes Urbanos de São Paulo S/A EMTU/SP contra decisão da Presidência da Seção de Direito Público do Estado de São Paulo que não admitiu o recurso especial com base nos seguintes fundamentos: (I) ausência de prestação jurisdicional; (II) incidência das Súmulas 5 e 7 do STJ; e (III) não comprovação do dissídio jurisprudencial nos moldes legais e regimentais.
+A parte agravante sustenta, em resumo: (i) a efetiva ofensa aos arts. 489 e 1.022 do CPC; (ii) a não incidência das Súmulas 5 e 7 do STJ; e (iii) "atendendo aos requisitos da comprovação da divergência por meio de cópias oficiais dos acórdãos dos precedentes judiciais e da demonstração das circunstâncias dos acórdãos paradigma e recorrido que caracterizam divergência na interpretação da lei federal, não há falar de que a EMTU/SP não teria atendido o artigo 1.029, § 1º, do CPC e o artigo 255, § 1º, do RISTJ." (fl. 241).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Apesar de fazer menção às Sumulas 5 e 7 do STJ, a parte agravante deixou de declinar os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto, afirmando genericamente que "doutro lado, para se proceder à análise da pretensão recursal são suficientes os elementos fáticos lançados nos acórdãos do Tribunal de origem em confronto com as razões do recurso especial, não havendo falar de interpretação de cláusulas contratuais ( ) e de reexame do contexto fático-probatório, mas sim de revaloração jurídica quanto ao momento da efetivação de intimação de liminar para fins de interposição de agravo de instrumento, não incidindo os óbices das Súmulas 5/STJ e 7/STJ" (fl. 240).
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência das Súmula s 5 e 7 do STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
