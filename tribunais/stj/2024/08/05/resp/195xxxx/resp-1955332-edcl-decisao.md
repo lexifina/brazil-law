@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por FERNANDA ALVES RAMOS WANDERLEY à decisão desta relatoria que em virtude d (e-STJ fls. ).
+Nas razões dos presentes aclaratórios, a embargante sustenta haver omissão na decisão quanto à aplicação do precedente firmado nesta Corte no AgInt no Resp nº 1.635.516 à interpretação dada ao art. 1º da Lei nº 8.009/90 quanto à impenhorabilidade de fração de imóvel bem de família.
+Argumenta que a impenhorabilidade incide sobre a integralidade do bem questão que precede ou, ao menos, contrapõe-se ao argumento de que "é possível a penhora sobre 50% dos direitos aquisitivos" (e-STJ fl. 307).
+Impugnação às e-STJ fls. 313-315 (e-STJ).
+É o relatório.
+DECIDO.
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se, desde logo, que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo omissão a ser sanada.
+A embargante recorre tendo como único fundamento a alegação de que o precedente do STJ não foi observado, deixando de impugnar o fundamento principal do acórdão proferido pela Corte local, o qual, por si só, tem o condão de afastar a sua pretensão, qual seja de que o fato de se permitir a penhorabilidade de 50% (cinquenta por cento) dos direitos aquisitivos do bem imóvel pertencente à Embargante e ao seu esposo (executado), tal circunstância não implica em ofensa ao disposto na Lei nº 8.009/90, já que incidirá apenas sobre os direitos aquisitivos de metade do bem, não implicando em qualquer penhora na cota parte pertencente à Embargante.
+Desse modo, houve a aplicação adequada do óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Por outro lado segundo o acórdão recorrido:
+"da detida análise dos autos, verifica-se que a penhora realizada sobre o bem em questão foi deferida, expressa e tão somente, no sentido de que 50% (cinquenta por cento) dos direitos aquisitivos que o executado Sergio Tadeu dos Santos possui sobre o imóvel seriam constritos como garantia da execução.
+Assim, confirma-se que os direitos afetos à cônjuge do executado, ora embargante/apelante, não foram afetados, de modo a não haver constrição sobre a quota-parte/meação da embargante, conforme atesta a certidão de ônus do imóvel (id. 65182566 dos autos da execução).
+De igual modo, não se olvida quanto à natureza de indivisibilidade do imóvel constrito. Contudo, esse aspecto não afasta a possibilidade de incidência de atos expropriatórios sobre o bem, em razão do que dispõe o artigo 843 do CPC" (e-STJ fl. 245).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Por sua vez, o entendimento desta Corte é no sentido de que a impenhorabilidade do bem de família não prevalece sobre a alienação fiduciária:
+"RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. CONVENIÊNCIA E OPORTUNIDADE. ALIENAÇÃO FIDUCIÁRIA. TRANSMISSÃO CONDICIONAL DA PROPRIEDADE. BEM DE FAMÍLIA DADO EM GARANTIA. VALIDADE DA GARANTIA. VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO.
+1. Não há falar em omissão ou contradição do acórdão recorrido se as questões pertinentes ao litígio foram solucionadas, ainda que sob entendimento diverso do perfilhado pela parte.
+2. O incidente de uniformização de jurisprudência não se confunde com a irresignação recursal, ostentando caráter preventivo. Daí por que o seu processamento depende da análise de conveniência e oportunidade do relator e deve ser requerido antes do julgamento do apelo nobre.
+3. A jurisprudência desta Corte reconhece que a proteção legal conferida ao bem de família pela Lei n. 8.009/90 não pode ser afastada por renúncia do devedor ao privilégio, pois é princípio de ordem pública, prevalente sobre a vontade manifestada.
+4. A regra de impenhorabilidade aplica-se às situações de uso regular do direito. O abuso do direito de propriedade, a fraude e a má-fé do proprietário devem ser reprimidos, tornando ineficaz a norma protetiva, que não pode tolerar e premiar a atuação do agente em desconformidade com o ordenamento jurídico.
+5. A propriedade fiduciária consiste na transmissão condicional daquele direito, convencionada entre o alienante (fiduciante), que transmite a propriedade, e o adquirente (fiduciário), que dará ao bem a destinação específica, quando implementada na condição ou para o fim de determinado termo.
+6. Vencida e não paga, no todo em parte, a dívida e constituído em mora o fiduciante, consolidar-se-á a propriedade do imóvel em nome do fiduciário, consequência ulterior, prevista, inclusive, na legislação de regência.
+7. Sendo a alienante pessoa dotada de capacidade civil, que livremente optou por dar seu único imóvel, residencial, em garantia a um contrato de mútuo favorecedor de pessoa diversa, empresa jurídica da qual é única sócia, não se admite a proteção irrestrita do bem de família se esse amparo significar o alijamento da garantia após o inadimplemento do débito, contrariando a ética e a boa-fé, indispensáveis em todas as relações negociais.
+8. Recurso especial não provido" (REsp n. 1.559.348/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/6/2019, DJe de 5/8/2019.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO INSURGÊNCIA DA PARTE AUTORA.
+1. Nos termos da orientação firmada nos autos do REsp. 1.559.348/DF, com o propósito de vedar a ocorrência de comportamento contraditório, prestigiando o princípio da boa-fé contratual, este Superior Tribunal de Justiça passou a reconhecer a possibilidade de penhora incidente sobre bem de família oferecido por pessoa física como garantia em contrato de mútuo em benefício de pessoa jurídica.
+2. Agravo interno desprovido" (AgInt nos EDcl no AREsp n. 1.507.594/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/3/2020, DJe de 1/4/2020.)
+"PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL RECONHECIDO COMO BEM DE FAMÍLIA. POSSIBILIDADE. CONDUTA QUE FERE A ÉTICA E A BOA-FÉ. SÚMULA 168 DO STJ.
+1. À luz da jurisprudência dominante das Turmas de Direito Privado:
+(a) a proteção conferida ao bem de família pela Lei n. 8.009/90 não importa em sua inalienabilidade, revelando-se possível a disposição do imóvel pelo proprietário, inclusive no âmbito de alienação fiduciária; e (b) a utilização abusiva de tal direito, com evidente violação do princípio da boa-fé objetiva, não deve ser tolerada, afastando-se o benefício conferido ao titular que exerce o direito em desconformidade com o ordenamento jurídico. Precedentes.
+2. Agravo interno não provido" (AgInt nos EDv nos EREsp n. 1.560.562/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 2/6/2020, REPDJe de 30/06/2020, DJe de 9/6/2020.)
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+Publique-se.
+Intimem-se.
+ EMENTA
