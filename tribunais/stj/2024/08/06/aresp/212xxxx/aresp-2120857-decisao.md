@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interposto por DENIS RUFINO GRILLO contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e b, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO nos termos da seguinte ementa (fl. 955):
+SISTEMA FINANCEIRO DA HABITAÇÃO. ALEGADOS ATRASO E VÍCIOS DE CONSTRUÇÃO. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. RESCISÃO CONTRATUAL. IMPROCEDÊNCIA DO PEDIDO.
+Em ação que objetiva a rescisão do contrato de compra e venda, mútuo e alienação fiduciária em garantia, não se aplica a ideia (correta) expressa na Súmula n.º 543 do STJ, pois não há mera promessa, e sim a definitiva compra e venda, com mútuo e alienação fiduciária em garantia, levados ao Registro de Imóveis. A CEF, que atuou apenas como agente financeiro, emprestou o dinheiro para a aquisição e não é responsável por eventuais atrasos ou vícios de construção no imóvel, tampouco pelo pagamento de indenização pelos danos daí decorrentes. A pretensão indenizatória em face da vendedora/construtora deve ser formulada perante a Justiça competente e é correta a extinção do feito neste particular. Apelação desprovida.
+Nas razões do recurso especial, aponta a parte recorrente ofensa à "Lei nº 13.786, de 27 de dezembro de 2018, que alterou as leis nº 4.591, de 16 de dezembro de 1964, e 6.766,de 19 de dezembro de 1979, para disciplinar a resolução do contrato por inadimplemento das partes. Também violados os artigos 473 e 475 do Código Civil e o § 1º do art. 85, e os artigos 140, 342, 437 e 493 do CPC" (fl. 977).
+Ademais, requer "seja dado total provimento ao presente recurso para que seja anulada a decisão que julgo improcedentes o pedido de rescisão dos contratos de compra e venda e mútuo e alienação fiduciária, reconhecendo a incompetência da justiça federal para julgar pedidos de indenização por danos materiais e morais formulados em face da ré MRV MRL ROC 02 INCORPORACOES SPE LTDA, MRV ENGENHARIA E PARTICIPACOES SA, para que seja proferida nova decisão reconhecendo a ilegitimidade passiva da CEF quanto ao atraso na entrega do empreendimento, julgando procedentes os pedidos de indenização por danos materiais e morais formulados em face da ré MRV MRL ROC 02 INCORPORACOES SPE LTDA, MRV ENGENHARIA E PARTICIPACOES SA" (fl. 1.006).
+Oferecidas contrarrazões (fls. 1.026-1.037 e 1.042-1.048), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.055-1.056), o que ensejou a interposição do presente agravo (fls. 1.070-1.088).
+Apresentadas contraminutas do agravo (fls. 1.101-1.107 e 1.111-1.117).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+A parte recorrente aponta a incompetência da justiça federal para julgar o caso.
+Todavia, o acórdão recorrido decidiu a controvérsia nos termos postulados.
+Portanto, há evidente ausência de interesse recursal, mostrando-se inadmissível a interposição de recurso visando resultado já alcançado.
+Confiram-se precedentes: AgInt no REsp n. 2.079.848/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/6/2024, DJe de 13/6/2024; AgInt no REsp n. 2.029.281/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023; AgInt no AREsp n. 1.168.947/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023; AgInt no AREsp n. 2.116.306/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.
+Ante o exposto, conheço do a gravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. MESMO SENTIDO DA ALEGAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
