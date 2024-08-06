@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por LOJAS AMERICANAS S/A contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível / Remessa Necessária n. 0007067-22.2015.4.02.5101.
+Inicialmente, foi proferida decisão monocrática pelo Ministro Presidente do Superior Tribunal de Justiça não conhecendo do agravo (fls. 1842-1843, e-STJ).
+Opostos embargos declaratórios pela ora agravante (fls. 1845-1848, e-STJ).
+Proferida nova decisão monocrática na qual o Ministro Presidente do STJ se retrata da decisão de inadmissão (fls. 1856-1857) e determina a distribuição do feito.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre, pelo fundamento de que (fls. 1790-1795, e-STJ): a) haveria a necessidade de analisar fatos e provas para a apreciação das teses expostas nas razões do Recurso Especial, incidindo o óbice do enunciado n. 7 da Súmula do STJ; b) ausente a violação ao art. 1.022 do CPC; e c) inocorrência da demonstração do dissídio jurisprudencial.
+Todavia, em relação ao óbice da Súmula n. 7 do STJ, não impugnou de forma específica os fundamentos da decisão recorrida, limitando-se a afirmar o que segue (fls. 1813-1814, STJ):
+Data maxima venia, inexiste qualquer pretensão da Agravante em revolver a matéria fático-probatória já apreciada pelo v. Acórdão recorrido de modo a atrair o óbice da Súmula nº 07/STJ, até mesmo porque toda matéria recorrida encontra-se devidamente prequestionada, nos termos da CRFB  artigo 105, inciso III, alínea "a".
+Nesse sentido, da simples leitura do v. Acórdão recorrido, constata-se uma notória contrariedade ao disposto na legislação federal, ao menos em relação aos seguintes dispositivos:
+ausência de suspensão do processo enquanto aguarda-se o julgamento definitivo da ação ordinária nº 2005.51,01,017357-9 (ainda pendente de julgamento do RESP 1.818.266), optando, por outro lado, pela extinção do processo sem julgamento do mérito, mesmo existindo questão de possível prejudicialidade entre as demandas. (Novo CPC-artigo 313, inciso V, alínea "a");
+ausência de litispendência recursal entre os processos # 2005.51.01.017357-9 e 2015.51.01.007067-9, dada a inexistência de identidade entre as partes, causa de pedir e os pedidos entre as ações. (Novo CPC-artigo 337, §§ 1º, 2º e 3º);
+prévia liquidação do FAES Previdenciário durante a vigência do parcelamento especial (teoria do fato consumado), em violação aos princípios da razoabilidade, segurança jurídica, ato jurídico perfeito, moralidade e boa fé (artigo 2º, da Lei nº 9.784/2009 c/c art. 113, 187, 422 e 884, do CC/02 c/c artigo 12, § 2º, da Portaria Conjunta PGFN/SRF nº 3, de 25/08/2014);
+direito da Recorrente ao aproveitamento dos valores recolhidas na vigência do FAES Previdenciário, sob pena de configuração de enriquecimento indevido da Fazenda Nacional e, por conseguinte, ma ferir os princípios da razoabilidade, segurança jurídica, ato jurídico perfeito, moralidade e boa fé; (artigo 2º, da Lei nº 9.784/2009 c/c art. 113, 187, 422 c 884, do CC/02 c/c artigo 12, §1º, da Portaria Conjunta PGFN/SRF nº 3, de 25/08/2014)
+ausência de enfrentamento de questões concernentes à identificação dos elementos tipificadores da litispendência recursal entre os processus n 2005.51.01.017357.9 c 2015.51.01.007067-9, tampouco enfrentamento dos feitos do RESP 1.143.216/RS. (Novo CPC, artigo 1.022, parágrafo único, inciso II)
+Ou seja, é evidente que o v. Acórdão recorrido negou vigência aos referidos dispositivos infraconstitucionais, os quais encontram-se devidamente prequestionados, seja pelo v. Acórdão recorrido, seja quando da oposição dos Embargos de Declaração.
+Sendo assim, data venia, inexiste qualquer necessidade de revolvimento da matéria fático-probatória para apreciação.
+Pelo contrário, a questão é exclusivamente de direito e cinge-se quanto à análise dos seguintes pontos: (i) possibilidade de reconhecimento de liquidação do PAES Previdenciário antes do ato administrativo que culminou na exclusão da Recorrente; (ii) possibilidade de aproveitamento das prestações recolhidas quando da vigência do PAES Previdenciário; (iii) existência, ou não, de litispendência recursal entre o MS e a ação ordinária (essa última pendente de prolação de decisão por esse E. STJ) e (iv) possibilidade, ou não, de julgar-se o Mandado de Segurança antes da prolação de decisão final nos autos da ação ordinária, a despeito da existência de aparente prejudicialidade externa entre as demandas.
+Dessa forma, a análise da matéria prequestionada nos autos não demanda, em hipótese alguma, o revolvimento e tampouco o reexame de qualquer questão de natureza fático-probatória apta a atrair a incidência da Súmula nº 07/STJ, mas tão somente "A revaloração dos critérios jurídicos utilizados na cpreciação de fatos tidos por incontroversos pelas instâncias ordinárias (..)" (AgRg no REsp n. 1452351/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/10/2014, DJe 27/11/2014).
+Assim, a parte agravante não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, independentemente de aprofundado reexame dos elementos probantes, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).
+Limitou-se a tecer argumentos de que sua irresignação teria natureza de direito , se m especificar quais seriam as premissas de fato do decisum recorrido, tampouco deixando claro as razões pelas quais prescinde de revolvimento de sua análise.
+Evidentemente, esta linha argumentativa não realiza impugnação específica do óbice de admissibilidade do enunciado n. 7 da Súmula do STJ. A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a
+assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4.º, DO CÓD IGO DE PROCESSO CIVIL. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o apelo nobre na origem. Incidência da Súmula n. 182 do STJ.
+2. Não deve ser aplicada, na hipótese, a multa prevista no art. 1.021, § 4.º, do Código de Processo Civil, pois, consoante orientação desta Corte Superior, o mero inconformismo com a decisão impugnada não acarreta a necessária imposição da sanção, quando não caracterizada a manifesta inadmissibilidade ou improcedência do recurso.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.362.235/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA DO ÓBICE PREVISTO NO ENUNCIADO N. 7 DA SÚMULA DO STJ. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
