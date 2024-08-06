@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por MAURICIO SANTI DE SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. BUSCA E APREENSÃO. AUSÊNCIA DE PRÉVIA CONSTITUIÇÃO EM MORA DA DEVEDORA. NOTIFICAÇÃO PROMOVIDA NO CURSO DA AÇÃO. PROVIDÊNCIA TARDIA. DESCABIMENTO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 3º do Decreto-Lei n. 911/1969, no que concerne à não comprovação da constituição em mora, tendo em vista que não consta no aviso de recebimento da correspondência enviada pelo credor nenhuma assinatura, trazendo a seguinte argumentação:
+O acórdão atacado viola lei federal e contradiz súmulas e tese firmada em recurso repetitivo pelo Superior Tribunal de Justiça. A comprovação da mora é requisito essencial para o cabimento da ação de busca e apreensão, segundo a lei específica e a jurisprudência, o qual deve ser cumprido no momento do ajuizamento da inicial. O banco requerente ajuizou a Ação de Busca e Apreensão sem cumprir pressuposto de constituição e desenvolvimento válido e regular do processo, uma vez que não juntou Aviso de Recebimento comprovando a constituição em mora do devedor.
+Intimado, o autor, ora recorrido, juntou aviso de recebimento sem assinatura, com datas de tentativa de entrega posteriores ao ajuizamento da ação, e até ao deferimento da liminar, o qual supostamente comprovaria a constituição em mora da ré.
+ ..
+A lei faz clara distinção entre a constituição em mora, a qual ocorre com o mero vencimento, e a sua comprovação para fins de concessão de liminar de busca e apreensão.
+Para a comprovação da mora, nos termos Decreto-Lei 911 de 1969, é necessária a carta registrada com aviso de recebimento devidamente assinado, ainda que a assinatura não seja do próprio destinatário
+ ..
+A ausência de qualquer assinatura no AR apresentado, torna-o completamente inútil para a comprovação de o que quer que seja (fls. 351-352)
+Quanto à segunda controvérsia, a parte recorrente alega violação do art. 2º, § 2º, do Decreto-Lei n. 911/1969, no que concerne à impossibilidade de o deferimento da medida liminar ocorrer antes da data da suposta constituição em mora , trazendo a seguinte argumentação:
+Ademais, o acórdão contradiz tese firmada pelo STJ em sede de recurso repetitivo, ao exigir que o autor purgasse a mora após o deferimento da liminar. Após o cumprimento da liminar, o art. 3º, § 2º, do Decreto-lei 911/69 prevê que a parte ré deverá pagar todo o saldo devedor em aberto para reaver o bem:
+ ..
+Uma vez que em sede de ação de busca e apreensão a mora só pode ser purgada com a quitação total do contrato, a constituição em mora pré-judicial é a última chance para o devedor convalescer o contrato com o pagamento somente das parcelas em atraso, em um valor muito mais razoável, principalmente considerando a situação financeira prejudicada de alguém que teve dificuldade em adimplir as parcelas.
+Tendo sido deferida antes da constituição em mora, a liminar foi cumprida durante o período em que o convalescimento do contrato deveria ser oportunizado (fls. 353-354)
+É, no essencial, o relatório. Decido.
+Quanto à primeira e à segunda controvérsias, o Tribunal de origem se manifestou nos seguintes termos:
+Contudo, o autor logrou comprovar que realizou a notificação da devedora antes do cumprimento do mandado de busca e apreensão e da citação, consoante aviso de recebimento (AR) juntado a fls. 278/279, com identificação do recebedor - MAURICIO SANTOS DE SOUZA - em 12/04/2023, por MAURICIO SANTOS DE SOUZA, no domicílio contratual (Rua João Serbino, 661, Alvinopolis, Atibaia/SP).
+Tal ato ocorreu, repita-se, antes da execução da medida liminar e da citação, em 27/04/2023 e 29/04/2023, respectivamente, o que importa dizer que houve emenda à petição inicial.
+Desse modo, forçoso concluir que foi comprovada a constituição em mora do devedor, à luz do DL 911/69 em seus artigos 2º, § 2º e 3º .
+Importante ressaltar que a mora tem caráter real (ex re) e se constitui pelo simples vencimento da obrigação, servindo a notificação apenas como meio de ciência ao devedor, assegurar a purgação da mora antes do ajuizamento da demanda de busca e apreensão e fundamentar o deferimento da medida liminar (fls. 329-330).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
