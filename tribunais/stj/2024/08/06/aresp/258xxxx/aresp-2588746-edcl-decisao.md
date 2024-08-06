@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de NOVOS embargos de declaração opostos por CIBELE CARVALHO BRAGA à decisão de fls. 528/532, que rejeitou os embargos de declaração anteriores.
+Em suas razões, sustenta a parte embargante que:
+Sobreveio a r. decisão desta C. Corte, sobre o agravo interposto contra o decisão do E. TJSP que obstou o seguimento do RESP, as fls. 511/512, alegando que a parte recorrente não teria procedido à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Rubens Rodrigues Francisco.
+A r. decisão obscurantista alegou ainda que "percebeu-se", no STJ, haver irregularidade na representação processual do recurso, e que a parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis, e dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Opostos embargos de Declaração objetivando a integração da r. decisão, para esclarecer por quais fundamentos poderia se inverter o ônus determinado no art. 583 inc. II do CPP, os mesmos foram rejeitados pela r. decisão ora embargada:
+ ..
+Com o devido acatamento e respeito, sem olvidar do saber jurídico da Nobre Ministra Presidente, salvo melhor aclaramento, a r. decisão que rejeita os embargos de Declaração incorre nas condutas censuradas pelos inc. III e V do § 1º do art. 489 do NCPC, permitindo oposição de novos embargos objetivando integração por meio dos efeitos modificativos previstos no art. 494 inc. II e 1023 § 2º do NCPC.
+A r. decisão ora embargada delineia teses de suposto "descabimento" de oposição de embargos, se omitindo quanto ao pedido de aclaramento contido nos Embargos opostos, que resumidamente questionam "QUEM" "percebeu-se", no STJ, de haver suposta irregularidade na representação processual do recurso, e "QUEM" teria regularmente intimado a parte para sanar o suposto vício.
+A intimação apócrifa a que alude a r. rejeição dos Embargos, salvo melhor juízo a ser aclarado, se trata de "decisão apócrifa", e portanto não era passível de combate, devido ao enigma de sua autoria, deste modo, salvo melhor juízo a ser aclarado, não haveria fundamento legal para reputar afluição de prazo, a "transcorrer in albis", mesmo porque esse "despacho apócrifo", além de apócrifo, propõe uma inversão do ônus determinado no art. 83 inc. II do CPP, o que em tese é uma ofensa Direta ao inc.
+II do art. 5º da CF88.
+Deste modo, data vênia, a invocação de suposta incidência do disposto na Súmula n. 115/STJ, está incursa na conduta censurada pelo inc. V do § 1º do art. 489 do NCPC, e por atrair a nulidade prevista no inc. II do § único do art. 1022 do NCPC, salvo melhor juízo a ser aclarado, permite oposição de embargos nos termos do art. 1022 do NCPC cc art. 619 do CPP, para integrar a decisão então embargada nos termos do art. 494 inc. II e 1023 § 2º do NCPC (fls. 537/540).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Como dito nos embargos anteriores, a parte não regularizou a representação processual, deixando o prazo transcorrer in albis (fl. 508), depois de devidamente intimada (fls. 502 e 505).
+Veja que esta Corte Superior, verificando que a representação não estava regular, determinou a intimação da parte para regularizar o vício, nos termos da certidão proferida à fl. 502.
+Em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Na referida edição foram apresentadas todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este recurso.
+Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício, o que não ocorreu.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
