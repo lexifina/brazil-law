@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. (BRADESCO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 269/274).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, BRADESCO alegou a violação dos arts. 1.194 do CC, 6º, 373, 400, 417, 550, § 3º, 489, 1.022 do CPC, 4º do Decreto-Lei 486/69 ao sustentar que (1) o acórdão foi obscuro; (2) incumbe à sociedade empresária o ônus de apresentar seus livros contábeis em juízo, como meio de prova das suas alegações, uma vez que os mencionados documentos descrevem quais débitos foram autorizados ou não pela empresa; (3) cabe à empresa a apresentação dos seus livros contábeis, sob pena de presunção de veracidade das informações que pretendia comprovar, já que é seu o ônus de impugnar especificamente as contas prestadas pelo banco; (4) é dever de ambas as partes cooperar com a obtenção da solução justa para o processo, o que envolve o fornecimento dos documentos que possibilitem que esse resultado justo seja alcançado; (5) a prova pericial constitui ônus de ambas as partes e não apenas de uma delas, em atenção à distribuição dinâmica do ônus da prova.
+(1) Da obscuridade
+Nas razões do seu recurso, BRADESCO alegou que o acórdão foi obscuro pois, apesar de não ter negado definitivamente o pleito de apresentação dos livros contábeis da parte contrária, constou no dispositivo o não provimento do recurso.
+Também entendeu que houve obscuridade no ponto em que a decisão atacada facultou ao perito a discricionariedade da apresentação dos livros contábeis, quando na verdade o expert se manifestou em sentido negativo.
+Sem razão.
+O fato de o Tribunal estadual não ter descartado a hipótese de se exigir futuramente a exibição dos livros contábeis da pessoa jurídica não justifica a mudança do dispositivo, que foi correto em negar provimento ao recurso do BRADESCO, já que, neste momento processual, foi indeferido seu pedido de apresentação imediata dos documentos.
+Quanto ao segundo ponto, parece que o BRADESCO pretende substituir o perito em seu labor, impondo a necessidade da apresentação dos livros contábeis, dispensada nesta fase, o que, por óbvio, não configura qualquer obscuridade.
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO APELO EXTREMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Violação aos artigos 489 e 1.022 do CPC/15 não configurada.
+Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão, contradição ou obscuridade. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Consoante o entendimento pacificado nesta Corte Superior, o julgador não viola os limites da causa quando, adstrito às circunstâncias fáticas e aos pedidos das partes, procede à subsunção normativa utilizando-se de fundamentos jurídicos diversos dos esposados pelas partes. Precedentes.
+3. Para acolher a pretensão recursal no sentido de que não houve novação na hipótese dos autos, seria necessário promover o reexame do acervo fático-probatórios e interpretar as cláusulas contratuais, providências vedadas, a teor dos óbices das Súmulas 5 e 7 do STJ.
+4. Quanto ao honorários de sucumbência, o acórdão recorrido decidiu de acordo com o entendimento desta Corte, razão pela qual incide o disposto na Súmula 83/STJ.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.497.947/AM, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Afasta-se, portanto, a alegada violação.
+(2) Da apresentação dos livros contábeis
+BRADESCO insistiu na tese de que a apresentação dos livros contábeis da sociedade empresária é indispensável para produção da prova pericial.
+Sobre o tema o Tribunal de Justiça de São Paulo consignou que:
+É que, na hipótese em apreço, o d. magistrado considerou prescindível a apresentação dos livros contábeis da pessoa jurídica autora com base na manifestação do perito por ele nomeado, presumindo-se que o expert, profissional habilitado, equidistante das partes e de confiança do Juízo, ao se manifestar, avaliou, do ponto de vista técnico, a necessidade ou não de tais documentos para dar início ao trabalho que lhe foi endereçado.
+Cumpre anotar que, pelo menos nesta fase inicial de elaboração do laudo pericial, a farta documentação juntada pelo próprio banco recorrente aos autos, consistente em extratos bancários (fls. 322/1972, dos autos principais), quadro de tarifas bancárias (fls. 1990/2024, dos autos principais), contratos, propostas e borderôs (fls. 4488/4655, dos autos principais), microfilmes de cheques (fls.5997/6568, dos autos principais), dentre outros, revela-se suficiente para o começo dos trabalhos técnicos, não se vislumbrando, pelo menos nesta fase, justificável a exigência apresentação de mais documentos além daqueles já contidos nos autos.
+Ressalte-se ainda que o resultado do trabalho técnico-contábil a ser elaborado pelo perito será submetido à apreciação das partes (CPC, art. 477, § 1º), que terão ampla oportunidade de manifestação, podendo, oportunamente,apresentar impugnação, sobre a qual o auxiliar do juízo deverá se manifestar (CPC,art. 477, § 2º), não se descartando a possibilidade de se exigir futuramente a exibição dos livros contábeis da empresa agravada para dirimir dúvidas fundamentadas que eventualmente surjam ao longo da produção da prova técnica.
+Deveras, pelo menos por ora, não vejo empeço ao prosseguimento desta demanda, com a realização da prova técnica baseada nos documentos já arrecadados nos autos, cuidando o perito judicial, entretanto, para não extrapolar os limites e o escopo da ação de exigir contas (e-STJ, fls. 151/152)
+Assim, rever as conclusões quanto à necessidade de apresentação dos livros contábeis da sociedade empresária demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. PRESTAÇÃO DE CONTAS. SEGUNDA FASE. PERÍCIA CONTÁBIL. CRITÉRIO DO JUIZ. LIVROS CONTÁBEIS. EXIBIÇÃO DESNECESSÁRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O destinatário final da prova é o juiz, a quem cabe avaliar quanto sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto nos arts. 370 e 371 do CPC/2015.
+3. Na hipótese, rever as conclusões firmadas pelas instâncias ordinárias, no tocante à necessidade de apresentação dos livros contábeis pela autora da ação de exigir contas, demandaria o revolvimento de matéria fático-probatória dos autos, procedimento inviável em recurso especial devido à aplicação da Súmula nº 7/STJ.
+4. Na segunda fase da prestação de contas, elas são julgadas ao prudente critério do juiz que poderá determinar, se necessário, a realização do exame pericial contábil. Precedente.
+5. No caso em apreço, a incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois inexistente similitude fática entre os julgados recorrido e paradigma.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.193.083/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Ademais, não há como desconsiderar que o Tribunal estadual não descartou a possibilidade de se exigir futuramente a exibição dos livros contábeis da empresa autora para dirimir dúvidas fundamentadas das partes, além de ter advertido o perito para não extrapolar os limites e o escopo da ação de exigir contas (e-STJ, fls. 152).
+Portanto, ao contrário do que afirma BRADESCO, em nenhum momento foi mencionado no acórdão que o ônus da prova era exclusivo da instituição financeira, o que torna sem fundamento do pedido de distribuição "dinâmica".
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nesta extensão NEGAR-LHE provimento.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO DE EXIGIR CONTAS. SEGUNDA FASE. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OBSCURIDADE E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PROVA PERICIAL. LIVROS CONTÁBEIS DA SOCIEDADE EMPRESÁRIA. EXIBIÇÃO DESNECESSÁRIA NESTE MOMENTO PROCESSUAL. INVERSÃO DE ENTENDIMENTO. VEDAÇÃO. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
