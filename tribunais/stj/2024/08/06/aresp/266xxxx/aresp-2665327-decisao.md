@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIS MARIANO DE SOUZA FILHO (LUIS) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, LUIS alegou a violação do art. 205 do Código Civil, ao sustentar que o prazo prescricional aplicável aos casos em que se pretende a indenização decorrente de negócio imobiliário (compra/venda de lote não edificado) é o decenal.
+(1) Da incidência das Súmulas 5 e 7 do STJ.
+Cuida-se de ação declaratória cumulada com reparação de danos morais em virtude de atraso na entrega de obras de infraestrutura em loteamento urbano, julgada parcialmente procedente.
+O Tribunal bandeirante reformou a sentença, a fim de dar provimento ao aplelo das rés e declarar a prescrição do direito da pretensão do autor, julgando prejudicado o seu recurso adesivo, nos termos da fundamentação abaixo:
+Consta do processo que as partes firmaram, em 04/02/2013, "Instrumento Particular de Compromisso de Compra e Venda", para aquisição, pelo autor, do lote 37, da quadra L, do loteamento "Residencial Morada do Sol", localizado em São Joaquim da Barra/SP (fls. 21/33).
+A conclusão das obras de infraestrutura estava prevista para 24 meses após o registro do loteamento (cláusula 11ª fls.27), que ocorreu em 26/12/2012 (AV-4 fls. 100), cujo prazo final seria, portanto, 26/12/2014. No entanto, o termo de conclusão das obras foi emitido somente em 01/08/2017 (fls. 15/16).
+Anoto que a prescrição é matéria de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição, e entendo que realmente está prescrito o direito do autor.
+Explico.
+Há três princípios fundamentais que orientaram a formulação do anteprojeto ao Código Civil (2002), a saber: a eticidade, a socialidade e a operabilidade. Esse pronunciamento foi extraído de parte da "exposição de motivos" do novo código.
+Atenho-me, neste momento, ao primeiro princípio, ou paradigma: o da eticidade.
+Dizendo sobre esse princípio, Reale doutrinou: "A eticidade procurou-se superar o apego do Código atual (1916) ao formalismo jurídico, fruto, a um só tempo, da influência recebida a cavaleiro dos séculos XIX, e XX, do Direito tradicional português e da Escola germânica dos pandectistas, aquele decorrente do trabalho empírico dos glosadores; esta denominada pelo tecnicismo institucional, haurido na admirável experiência do Direito Romano.
+Não obstante os méritos desses valores técnicos continua o Professor, não era possível deixar de reconhecer, em nossos dias, a indeclinável participação dos valores éticos no ordenamento jurídico, sem abandono, é claro, das conquistas da técnica jurídica, que com aqueles de ser compatibilizar" (destacou-se).
+Disso decorre a inafastável tarefa hermenêutica de interpretar os dispositivos do Código Civil sob a ótica da ética, tão desejada nos atuais dias para orientar as relações dos cidadãos e destes com o Estado e vice-versa.
+Sob o olhar da ética, não vejo como reconhecer prazo decenal para pretensões indenizatórias decorrentes de negócios imobiliários entre elas a indenização a título de danos morais, frente ao prazo trienal fixado para pretensões igualmente indenizatórias ao fundamento de "reparação civil", caso, v. g., de uma indenizatória, repito, por morte decorrente de um acidente automobilístico por ato culposo.
+Não se pode comparar o "bem da vida" envolvido/protegido numa e noutra pretensão.
+Não ignoro que o STJ já adotou a incidência do prazo prescricional de 3 anos, definindo, num primeiro momento, sob interpretação "de maneira ampla" do disposto no CC, art. 206, § 3º,inciso V, que esse prazo (trienal) se aplicaria tanto à relação contratual, quanto extra (REsp 3a. Turma, rel. Min. Marco Bellizze, j. 22.11.16, DJe 28.11.16).
+Posteriormente, no mesmo REsp e agora em sede de ED e pela Corte Especial, o mesmo Tribunal reviu a posição e definiu que esse prazo (trienal) se aplica apenas às pretensões decorrentes de relações contratuais, sendo o prazo prescricional decenal (CC, art. 205) aplicável aos casos de pretensões decorrentes de relações extracontratuais (ED no REsp 1.281.594, Corte Especial, rel. Min. Felix Fisher, j. 15.05.19, maioria, DJ 23.05.19 (decisão não vinculante, de efeito persuasivo).
+Não se pode ignorar que o mesmo STJ, em recurso julgado sob o rito dos repetitivos (decisão vinculante), resolveu pela adoção do prazo prescricional de 3 anos (art. 206, § 3º, IV, do CC), com relação à pretensão de restituição da comissão de corretagem e da taxa SATI, temáticas decorrentes de relação contratual (Tema 938).
+Não me convenço, inclusive sob o ponto de vista da eticidade, em adotar prazo prescricional decenal (art. 205, do CC) para pretensões derivadas de relação contratual (venda compra de imóveis, v.g.) e, noutro giro, adotar prazo prescricional trienal (art. 206, § 3º,incisos III e V, do CC) para pretensões derivadas de relação extracontratual.
+Deste modo, considerando todo o acima exposto e que a pretensão do autor está fundada na reparação civil e/ou ressarcimento de enriquecimento sem causa, resta evidente que sua pretensão está realmente prescrita (art. 206, § 3º, incisos IV e V, do Código Civil). (e-STJ, fls. 192/195).  grifou-se .
+Com relação à prescrição aplicável à espécie, a Corte bandeirante reformou a sentença para concluir que a pretensão do insurgente (recebimento de multa/lucros cessante decorrentes do atraso na entrega de obras de infraestrutra do loteamento) deriva de relação contratual, estando sujeita ao prazo prescricional trienal.
+Logo, para ultrapassar a conclusão do acórdão recorrido, seria necessária a interpretação de cláusulas do contrato, assim como a reincursão no acervo fático-probatório da causa, o que é vedado nesta sede excepcional, ante os óbices das Súmulas nºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Deixo de majorar os honorários advocaticios anteriormente arbitrados em favor de LOLLI E FERRARI IMÓVEIS LTDA e outros, porque já fixados em 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COMPRA E VENDA DE LOTE SEM EDIFICAÇÃO. INADIMPLEMENTO CONTRATUAL. ATRASO NA ENTREGA DA INFRAESTRUTURA DO LOTEAMENTO. PRAZO PRESCRICIONAL TRIENAL. RECONHECIMENTO. REFORMA DO ENTENDIMENTO. NECESSIDADE DE INCURSÃO DO SUBSTRATO FÁTICO DA CAUSA E DAS CLÁUSULAS DO CONTRATO. INVIABILIDADE, ANTE A INCIDENCIA DAS SÚMULAS NS. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
