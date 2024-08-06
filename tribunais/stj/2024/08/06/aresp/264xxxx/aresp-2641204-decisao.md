@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESTADO DO CEARA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que inadmitiu recurso especial, apresentado na Apelação/Remessa Necessária n. 0011100-15.2000.8.06.0064, cujo acórdão possui a seguinte ementa:
+EMENTA: REMESSA NECESSÁRIA. APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PUBLICA. REALIZAÇÃO DE AVALIAÇÃO PERICIAL NO IMÓVEL DISCUSSÃO ACERCA DO VALOR DA INDENIZAÇÃO. PREVALÊNCIA DA PERÍCIA OFICIAL AUSÊNCIA DE PROVA APTA A AFASTAR O LAUDO DE AVALIAÇÃO DO PERITO NOMEADO EM JUÍZO. JUROS COMPENSATÓRIOS EM 6% NA FORMA CONTIDA NO ART. 15-B DO DECRETO-LEI Nº 3365/41. FIXAÇÃO DA CORREÇÃO MONETÁRIA. IPCA-E. INCIDÊNCIA A PARTIR DA CONFECÇÃO DO LAUDO. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO NOS TERMOS DO ART. 27, § 1º, DO DECRETO-LEI IV" 3365/41_ PRECEDENTES DO STF. ADI. 2.332/DF. SUBMISSÃO DO PAGAMENTO DA INDENIZAÇÃO AO REGIME DE PRECATÓRIO. APELO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA REFORMADA EM PARTE
+Irresignado, o ente federado interpôs Recurso Especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, alegando violação do Art. 15-A, do DL n. 3365/41. Aduziu o recorrente que a parte expropriada não trouxe aos autos documentos que comprovem a efetiva exploração do imóvel expropriado, nem muito menos os lucros/rendimentos que tenham se perdido, de man eira que não seria cabível a incidência de juros compensatórios (fls. 674-687).
+O apelo foi inadmitido e teve seu seguimento negado pelo Vice-Presidente da Corte de origem (fls. 708-712).
+O recorrente interpôs então Agravo em Recurso Especial (fls. 723-733).
+Contrarrazões ao Agravo em Recurso Especial apresentadas nas fls. 739-744..
+É o relatório.
+Decido.
+Conheço do agravo, pois próprio e tempestivo, bem como impugnou os fundamentos da decisão agravada.
+Quanto à insurgência trazida no Recurso Especial, entendo que a alegação de violação ao art. 15-A, do DL n. 3365/41 demanda a análise das provas constantes dos autos a fim de verificar "(i) ocorrência da imissão provisória na posse do imóvel; (ii) comprovação, por parte do proprietário, de perda de renda decorrente da privação da posse". Argumenta a parte recorrente (fl. 684):
+Percebam, Excelências, que a parte expropriada não traz aos autos documentos que comprovem sua efetiva exploração e nem muito menos os lucros/rendimentos que tenham se perdido.
+Com efeito, não há qualquer menção, seja nos autos, na sentença ou no acórdão, à comprovação da perda de renda sofrida decorrente da prévia imissão provisória na posse pelo expropriante, requisito este indispensável para justificar a incidência dos juros compensatórios.
+Ora, o próprio recorrente traz como argumento o fato de que a parte expropriada não teria trazido aos autos "documentos que comprovem sua efetiva exploração e nem muito menos os lucros/rendimentos que tenham se perdido".
+Ou seja, para modificar a conclusão adotada pela corte de origem, no sentido de que a parte recorrida faz jus à percepção de juros compensatórios, seria necessário compulsar as provas constantes dos autos, o que é vedado pela Súmula n. 7 do STJ. Neste sentido é a jurisprudência desta Corte (grifos diversos do original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. JUROS DE MORA. COISA JULGADA. RELAÇÃO DE TRATO SUCESSIVO. LEGISLAÇÃO SUPERVENIENTE. OBSERVÂNCIA. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, fixou o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução, não havendo, pois, nesses casos, que falar em violação da coisa julgada (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 25/9/2015).
+2. Seguindo a compreensão externada no referido julgado, a orientação desta Corte é no sentido de que os consectários da condenação (correção monetária e juros de mora ou compensatórios - sendo estes últimos o que está em debate) figuram como obrigações de trato sucessivo, que se renovam mês a mês, devendo ser aplicada a legislação vigente no mês de regência.
+3. No caso, a decisão impugnada contrariou o entendimento do STJ, porque concluiu que "o título judicial foi formado muito antes da inovação legislativa que reduziu o índice para 6%, de modo que, com relação aos juros compensatórios, deve ser respeitada a coisa julgada".
+4. Hipótese em que a redação do apelo especial se alicerça em ampla revisão histórica da fase de conhecimento da desapropriação, com menção expressa à prova documental, aos cálculos e fatos, sendo evidente a pertinência da aplicação da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.893.647/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. DANOS MORAIS E MATERIAIS. CABIMENTO. REEXAME DE MATERIAL PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+3. O acolhimento da pretensão recursal para rever as conclusões do Tribunal de origem acerca da comprovação dos danos morais e materiais, bem como da incidência dos juros moratórios e compensatórios, demanda reexame do conjunto fático-probatório dos autos, sendo inviável, quanto ao ponto, o exame do pleito da insurgente, em virtude do enunciado da Súmula 7 do STJ.
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.182.866/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 2194), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. INDENIZAÇÃO. INSURGÊNCIA CONTRA INCIDÊNCIA DE JUROS COMPENSATÓRIOS EM 6%. PREVISÃO NO ART. 15-B DO DECRETO-LEI N. 3365/41. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
