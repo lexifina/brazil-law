@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de MARILDO BAIA SIQUEIRA no qual se aponta como Autoridade Coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, nos autos da Apelação Criminal n. 1609402-3.
+O Paciente foi condenado como incurso nas penas dos art. 33, caput, da Lei n. 11.343/2006 e art. 35, caput, da Lei nº 11.343/06, ao total de 11 (onze) anos de reclusão, em regime inicial fechado, mais 1600 (um mil e seiscentos) dias-multa, à razão unitária do menor valor legal.
+O Tribunal de origem negou provimento à apelação defensiva (fls. 17-44).
+Nas razões deste writ, o impetrante alega que não ficou demonstrada a efetiva associação do paciente com outra(s) pessoa(s), de maneira permanente e estável, não estando configurado, portanto, o crime de associação para o tráfico de entorpecentes.
+Requer a absolvição do paciente pelo crime tipificado no art. 35 da Lei de Drogas e a aplicação da redutora do tráfico privilegiado.
+Foram prestadas informações às fls. 1.311-1.346.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 1.348-1.353).
+É o relatório.
+DECIDO.
+A pretensão defensiva de exclusão da condenação pelo crime previsto no art. 35 da Lei de Drogas não merece prosperar.
+Ao condenar o paciente pela prática do delito, o juiz sentenciante assim consignou (fls. 1065- 1066):
+Por sua vez, o delito previsto no art. 35 da Lei 11.343/06 demanda o envolvimento mínimo de duas pessoas, prova de estabilidade e permanência da associação para a finalidade de praticar os crimes previstos no art. 33, caput e §1º e art. 34 da Lei 11.343/06.
+Assim, é necessário que a união seja sólida quanto à estrutura e durável no tempo.
+Necessário, o ajuste prévio entre os sujeitos, com a finalidade de manterem-se agregados permanentemente para a prática do delito de tráfico. Se a reunião for ocasional há mero concurso de agentes.
+No caso em mesa, constata-se das conversas e mensagens de texto interceptadas, bem como do monitoramento visual realizado nas investigações policiais, sem margem de dúvidas, que restou comprovado nos autos que MARILDO era o fornecedor de NELSON, o qual, por sua vez, era o fornecedor de EMERSON, que comercializava e armazenava drogas em sua residência há muitos anos, comprovando, assim, que a união de esforços se protraiu no tempo, tendo a durabilidade e a estabilidade evidenciadas pelo conjunto probatório.
+O Tribunal a quo, após examinar o acervo probatório, manteve a condenação pelo delito de associação para o tráfico com base nas seguintes razões (fls. 31-32; grifamos):
+Com relação ao crime de associação para o tráfico, a prova amealhada aos autos novamente demonstra cabalmente a organização dos recorrentes Marildo Baia Siqueira, Nelson Jesus de Souza e Emerson Ultchak na distribuição de drogas, ratificando a incidência no tipo penal previsto no art. 35, caput, da Lei 11.343/06. No que se refere à estabilidade e permanência do vínculo associativo, as evidências demonstram que não se tratava de um conluio eventual. As conversas entre os recorrentes constantes nos autos circunstanciados de interceptação telefônica (mov. 1.8 a 1.10 e5.5 a 5.15 dos autos 0017278-75.2015.8.16.0031 e mov. 21.2 e 21.3, 44.2 e 44.3,61.2 e 61.3 e 98.2 98.7 dos autos 0010466-17.2015.8.16.0031), evidenciam cabalmente o conluio entre os meliantes para praticar o tráfico de entorpecentes.
+Portanto, a forma de atuação dos agentes, com estabilidade e permanência, demonstrando um vínculo associativo para fins de traficância, legitima as condenações no crime previsto no art. 35, caput, da Lei de Drogas.
+Como se vê, as instâncias ordinárias, após exame do conjunto fático-probatório dos autos, concluíram pela existência de elementos coerentes e válidos a ensejar a condenação do Paciente pelo delito de associação para o tráfico, ressaltando as provas obtidas por meio das interceptações telefônicas judicialmente autorizadas, bem como o monitoramento visual realizado durante as investigações policiais.
+Assim, para se acolher a pretendida absolvição do Acusado, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO DE POSSE PARA USO PRÓPRIO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. In casu, a condenação pelo delito de tráfico foi embasada na apreensão de drogas e nas provas colhidas nos autos, especialmente nos depoimentos dos " policiais militares que atuaram diretamente na diligência que culminou com a prisão em flagrante do réu  apresentando , desde a fase administrativa, depoimentos coerentes e robustos o suficiente para se chegar à conclusão de que o réu efetivamente trazia drogas no dia dos fatos, para fins de mercancia".
+2. Nos termos do art. 28, § 2º, da Lei 11.343/2006, "não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente" (AgRg no HC n. 762.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022).
+3. Desse modo, desconstituir o julgado, buscando a desclassificação ou a absolvição da conduta criminosa analisada na origem, não encontra amparo na via eleita, dada a necessidade de revolvimento do conjunto fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n.º 7/STJ.
+4. Agravo regimental provido para conhecer do agravo e negar provimento ao recurso especial. (AgRg no AREsp n. 2.467.220/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/2/2024, DJe de 6/3/2024.)
+No mais, resta prejudicado o pedido de aplicação da causa de diminuição de pena do tráfico privilegiado, considerando a subsistência da condenação pelo crime de associação.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
