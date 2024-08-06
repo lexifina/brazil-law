@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIRECIONAL ENGENHARIA S. A. e DIRECIONAL TURQUESA EMPREENDIMENTOS IMOBILIÁRIOS SPE S. A. (DIRECIONAL e outra) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 662/678).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, DIRECIONAL e outra alegaram ofensa aos arts. 489, § 1º e 1.022, II, do NCPC e 945 do CC/2002. Sustentaram que (1) o aresto recorrido foi omisso, porque não se manifestou acerca da perda da garantia em razão da ausência de manutenção preventiva e periódica pelo condomínio agravado; e, (2) deve ser reconhecido que a vítima concorreu para o evento, pois deixou de proceder à manutenção e conservação do imóvel.
+Foram apresentadas contrarrazões (e-STJ, fls. 613/635).
+Quanto à eventual assertiva de existência de omissão no aresto recorrido
+DIRECIONAL e outra alegaram ofensa aos arts. 489, § 1º e 1.022, II, do NCPC. Sustentaram que o aresto recorrido foi omisso, porque não se manifestou acerca da perda da garantia em razão da ausência de manutenção preventiva e periódica pelo condomínio agravado.
+Sobre o tema, a Corte local consignou:
+Controvérsia de natureza técnica que exigia a produção de prova pericial, realizada nos autos do Processo 0727113-49.2019.8.07.0001 (ação de produção antecipada de provas),com a finalidade de apurar se os vícios reclamados decorrem de falhas na execução da obra pela Construtora ou de falta de manutenção adequada pelo Condomínio.
+Conclusão pericial pela caracterização de patologias construtivas na edificação: falhas no assentamento do revestimento cerâmico e ocorrência de trincas e rachaduras emparedes do prédio. Identificação de recalque diferencial na parte do muro frontal da edificação, causado por deficiência na compactação do solo; falha no reboco aplicado nas fachadas e em outros pontos das áreas comuns do Condomínio, por não apresentar a resistência necessária; e falha de execução no assentamento do revestimento cerâmico (ID 49264866 e ID 49264867).
+ ..
+Por fim, conforme definido pelo juízo a quo, igualmente insubsistente a tese de que os vícios documentados no processo teriam sido causados por manutenção preventiva deficiente, já que não há, conforme o estado da técnica, qualquer manutenção preventiva hábil a compactar o solo ou sanar deficiência do reboco após finalizada a etapa de edificação e acabamento, pelo que não há nexo causal entre a ventilada insuficiência de manutenção preventiva e os danos documentados nos autos.
+Desse modo, reconhecida a irregularidade na edificação por vício construtivo de responsabilidade da Construtora, a sentença de procedência deve ser mantida (e-STJ, fls. 536/537).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJDFT emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido que os vícios documentados não foram causados por ausência de manutenção preventiva, mas sim, porque, pelo estado da técnica, não existe nenhuma manutenção preventiva hábil a compactar o solo ou sanar deficiência do reboco após finalizada a etapa de edificação e acabamento, não havendo, assim, nexo causal entre a ventilada insuficiência de manutenção preventiva e os danos documentados nos autos.
+O que se vê, na verdade, é a irresignação de DIRECIONAL e outra com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto nos arts. 489 e 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados nos mencionados artigos.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+No tocante à alegação de concorrência da vítima para a ocorrência do evento
+DIRECIONAL e outra alegaram ofensa ao art. 945 do CC/2002. Sustentaram que deve ser reconhecido que a vítima concorreu para o evento, pois deixou de proceder à manutenção e conservação do imóvel.
+Nesse sentido, conforme acima transcrito, o Tribunal de Justiça do Distrito Federal e dos Territórios, soberano na análise do contexto fático-probatório, concluiu inexistente nexo causal entre a ventilada insuficiência de manutenção preventiva e os danos documentados nos autos, o que, de fato, afasta a assertiva de culpa da vítima, na hipótese.
+Por isso, conforme se nota, o TJDFT assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LESÃO CORPORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. GRATUIDADE DE JUSTIÇA. FALTA DE INTERESSE RECURSAL. CULPA DA VÍTIMA. ATO ILÍCITO. DANO. NEXO CAUSAL. VALOR DO DANO MORAL. DISTRIBUIÇÃO DA SUCUMBÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. JUROS MORATÓRIOS. TERMO INICIAL. EVENTO DANOSO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adota da pelo Juízo.
+2. Não há interesse recursal na tese de preclusão da gratuidade da justiça se não foi deferida pela instância de origem, sendo determinado o recolhimento do preparo em dobro, na forma do art. 1.007, § 4º, do CPC/2015.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem afastou a culpa da vítima e concluiu pela comprovação do ato ilícito, do dano e do nexo causal. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+5. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra elevado, a justificar sua reavaliação em recurso especial.
+6. O valor sugerido pela parte autora para a indenização por danos morais traduz mera referência, apenas servindo para que o julgador pondere a informação como mais um elemento para a tarefa de arbitrar o montante da condenação.
+7. Na perspectiva da sucumbência, o acolhimento do pedido inicial - este entendido como a pretensão reparatória stricto sensu, e não o valor indicado como referência -, com o reconhecimento do dever de indenizar, é o bastante para que seja atribuída ao réu, quando sucumbente, a responsabilidade pelo pagamento de despesas processuais e honorários advocatícios.
+8. Os juros moratórios, tratando-se de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.243.245/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/9/2023, DJe de 21/9/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. PEDIDO DE INDENIZAÇÃO PELOS DANOS MORAIS E ESTÉTICOS. IMPUTAÇÃO DE MEMBRO INFERIOR E PERDA DE MOBILIDADE PARCIAL DE MEMBRO SUPERIOR. ALEGAÇÃO DE CULPA DA VÍTIMA. MATÉRIAS QUE DEMANDAM REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AUSÊNCIA DE IMUGNAÇÃO ESPECÍFICA. DEFICIÊNCIA RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A revisão acerca da culpa da vítima, dos elementos probatórios para a formação de convicção do julgador, bem como à alegada exorbitância da verba indenizatória fixada demanda inevitável revolvimento de matéria fático-probatória, atraindo a incidência da Súmula 7/STJ. Não estando configurada situação de exorbitância ou irrisoriedade do valor fixado nas instâncias ordinárias, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+2. A ausência de argumentação capaz de derruir as conclusões exaradas pelos instâncias ordinárias impõe a manutenção da decisão recorrida por seus próprios fundamentos. Deficiência recursal.
+Súmulas 283 e 284 STF.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.963.910/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 3/5/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. CULPA. VALOR INDENIZATÓRIO. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever as conclusões do aresto impugnado acerca da culpa da vítima e do valor dos danos morais e estéticos encontra o óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.802.185/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022)
+Nessas condições, CONHEÇO do agravo para CONHECER em parte, do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Considerando a aplicabilidade do NCPC, MAJORO para R$ 3.500,00 (três mil e quinhentos reais) o valor dos honorários advocatícios anteriormente fixados em desfavor de DIRECIONAL e outra, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. CULPA DA VÍTIMA. NÃO CONFIGURAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, NÃO PROVIDO.
