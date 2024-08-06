@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por CONSELHO REGIONAL DE CORRETORES DE IMOVEIS DA 2 REGIAO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5006442-74.2020.4.03.6110, assim ementado (fls. 484-485):
+CONSTITUCIONAL. ADMINISTRATIVO. CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS. AUTUAÇÃO. MULTA. EXERCÍCIO PROFISSIONAL POR TERCEIRO NÃO INSCRITO NOS QUADROS. CONTRAVENÇÃO PENAL. IMPOSSIBILIDADE DE AUTUAÇÃO. INDENIZAÇÃO POR DANOS MORAIS. VALOR MANTIDO. RECURSO DE APELAÇÃO E RECURSO ADESIVO IMPROVIDOS.
+- O art. 5º, caput, da Constituição Federal, dispõe sobre os direitos e garantias fundamentais da República Federativa do Brasil, e em seu inciso XIII, disciplina a liberdade para exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais estabelecidas na lei. Tratando-se de preceito constitucional de eficácia contida, o art. 5º, XIII, da Constituição de 1988, permite que a legislação ordinária federal fixe critérios razoáveis para o exercício da atividade profissional.
+- Quanto à profissão de corretor de imóveis, a regulamentação legal foi feita pela Lei n.º 6.530/78.
+- O poder de polícia conferido ao conselho profissional, de fiscalizar e autuar irregularidades, não possibilita ao órgão impor multas em face de terceiros que não sejam corretores de imóveis, como no caso concreto em que o autor foi autuado e condenado a pagar multa no valor de três anuidades, por exercício ilegal da profissão. Precedentes jurisprudenciais.
+- Se o conselho-réu efetivamente apurou conduta ilegal, de exercício irregular de profissão, teria a prerrogativa de comunicar as autoridades competentes para a apuração de eventual prática da contravenção penal, prevista no art. 47, do Decreto-Lei n.º 3.688/41.
+- No tocante aos danos morais, é evidente que o protesto da dívida indevida operado pelo Conselho causa danos maiores do que meros dissabores. De fato houve protesto indevido, cuja suspensão deu-se apenas por determinação judicial, cerca de um ano e oito meses após efetivado. Assim, cabível a indenização por dano moral.
+- Neste sentido, transcrevo trecho da r. sentença, o qual passo a adotar como fundamento: "Configurada a responsabilidade da ré, no caso, objetiva (art. 37, §6º, da Constituição Federal), o nexo de causalidade entre o agente e o dano, passo à fixação do valor da indenização, o que faço considerando seus fins reparatórios, punitivos e pedagógicos (em especial para que o réu vele com maior cautela os procedimentos administrativos), bem como as circunstâncias do dano e as condições socioeconômicas, psicológicas e a culpabilidade das partes, atentando à proporcionalidade, não levando a uma indenização branda a ponto de frustrar o desestímulo que dela se espera ou ao enriquecimento sem causa da autora."
+- Com relação ao valor da indenização, embora certo que a condenação por dano moral não deve ser fixada em valor excessivo, gerando enriquecimento sem causa, não pode, entretanto, ser arbitrada em valor irrisório, incapaz de propiciar reparação do dano sofrido e de inibir o causador do dano a futuras práticas da mesma espécie.
+- Na hipótese, entendo que o valor fixado pela r. sentença, é suficiente e adequado e não pode ser considerado exorbitante nem ínfimo.
+- A r. sentença deve ser integralmente mantida.
+- Por fim, a fixação dos honorários advocatícios observou o disposto no art. 85 do NCPC, e levando-se em conta o não provimento do recurso de apelação, de rigor a aplicação da regra do § 11 do artigo 85 do CPC/2015, pelo que determino, a título de sucumbência recursal, a majoração dos honorários advocatícios em 1%, sobre o valor da causa, nos termos do art. 85, § 3º, I.
+- Apelação do Conselho improvida. Recurso adesivo improvido.
+No recurso especial, alegou-se a negativa de vigência aos arts. 3.º, caput, e 21 e à totalidade da Lei n. 6.530/1978, sustentando que o dispositivo deveria ser interpretado à luz do disposto nos arts. 2.º e 22, inciso XVI, da Constituição da República e que, por essa razão, teria legitimidade para punir não apenas os corretores inscritos no Conselho, "mas a todas as pessoas físicas ou jurídicas que se aventurarem na intermediação de transação imobiliária, em desacordo com as regras ali impostas" (fls. 512-513).
+Inadmitido o recurso na origem, adveio o present e agravo.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 484), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
