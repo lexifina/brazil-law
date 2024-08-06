@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DIEGO DE OLIVEIRA CARMO (DIEGO), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DA OBRA. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CESSIONÁRIO DO CRÉDITO SOBRE O SALDO DEVEDOR ORIUNDO DO CONTRATO. AUSÊNCIA DE RESPONSABILIDADE PELO DESCUMPRIMENTO CONTRATUAL DA CONSTRUTORA. PRECEDENTES DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO. (e-STJ, fls. 826).
+Nas razões do presente inconformismo, DIEGO defendeu que, ao afirmar que o banco embargado teria atuado apenas como cessionário do crédito e credor fiduciário, a decisão embargada teria, implicitamente, reexaminado as provas e os fatos, o que é vedado pela Súmula 7 do STJ. Alegou que o caso em apreço é peculiar, porquanto o banco embargado não figurou somente como um financiador do projeto, mas substituiu integralmente a construtora sucedida, desde 2011.
+Foi apresentada impugnação (e-STJ, fls. 850/859).
+É o relatório.
+O recurso não merece acolhida.
+De acordo com a jurisprudência desta Corte, a contradição, ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato, ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+No caso sub judice, DIEGO não apontou qualquer vício na decisão embargada, e sim, manifestou seu inconformismo com o julgamento contrário a sua pretensão.
+Com efeito, a argumentação de suposta contrariedade à Súmula 7 do STJ desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Apenas a título de comentário, ao reconhecer que o SANTANDER seria parte ilegítima na lide, a decisão embargada não o fez por meio de interpretação de cláusulas contratuais, nem tampouco pelo revolvimento de fatos e provas, como sustenta o DIEGO, mas sim, pela mera revaloração jurídica do quadro fático assentado pelas instâncias de origem, que afirmaram que, pela mera cessão de crédito imobiliário da Construtora Syene ao SANTANDER, este teria legitimidade passiva para responder pelo atraso da construtora na entrega do imóvel.
+Conforme salientado na decisão embargada, o fato de o SANTANDER integrar a cadeia de fornecimento de bens e serviços não é suficiente para o reconhecer como parte solidariamente responsável com a Construtora Syene por eventuais danos decorrentes da entrega do imóvel, pois a jurisprudência desta Casa é firme no sentido de que "o agente financeiro não ostenta legitimidade para responder por pedido decorrente de vícios de construção na obra financiada, quando atua em sentido estrito" (AgInt no AREsp1.193.639/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17.4.2018, DJe 20.4.2018).
+Nesta toada, não houve nenhum vício na decisão embargada a ensejar a integração do julgado.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DA OBRA. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADOS. PRETENSÃO QUE DESBORDA DAS HIPÓTESES DE CABIMENTO DOS ACLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
