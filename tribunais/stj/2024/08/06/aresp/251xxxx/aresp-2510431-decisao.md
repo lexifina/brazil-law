@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS ANTONIO RIBEIRO COSTA contra decisão que inadmitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que, em ação de cobrança cumulada com indenização por danos morais, negou provimento a sua apelação, mantendo sentença de improcedência do pedido de recebimento de indenização securitária referente a contrato de seguro de vida com base no evento incapacidade definitiva, em virtude da não comprovação do preenchimento dos seus requisitos.
+Alega o agravante que o acórdão recorrido teria negado vigência aos arts. 421, 927 e 944 do Código de Civil e aos arts. 6º, VI e VII, e 14 do Código de Defesa do Consumidor, pois não poderia a seguradora alegar doença preexistente para se eximir do pagamento do prêmio do seguro, quando não exigiu exame médico do recorrente previamente à contratação, a teor da Súmula 609 desta Corte Superior.
+Assevera que, no caso, "é flagrante a prática abusiva da Recorrida, que, num primeiro momento, contrata o Seguro e estipula o pagamento do prêmio de acordo com o valor a ser pago em ocorrência do sinistro, e, num segundo momento, quando se vê compelida a pagar a indenização contratada, recusa-se a fazê-lo" (fl. 442).
+Contrarrazões apresentadas.
+Assim delimitada a questão, passo a decidir.
+Na hipótese dos autos, verifico que as instâncias de origem afastaram o dever de cobertura securitária ao autor/agravante por dois motivos: (i) não ter sido comprovada a sua incapacidade em grau total, mas apenas em nível parcial; e (ii) ter sido evidenciada a sua má-fé na omissão de informação crucial à aceitação da proposta de seguro pela ré/agravada, referente ao diagnóstico prévio de patologia.
+Nas razões do seu recurso especial, o agravante limitou-se a alegar que a seguradora não poderia se eximir do pagamento do prêmio segurado por não ter exigido exame médico prévio, sem impugnar, de forma específica, a ausência de comprovação de incapacidade total reconhecida pelo TJRJ.
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos do acórdão recorrido, aplica-se o enunciado 182 da Súmula do STJ.
+Com efeito, à luz do princípio da dialeticidade que norteia os recursos, compete ao recorrente, sob pena de não conhecimento do seu recurso, infirm ar especificamente os fundamentos adotados pelo Tribunal de origem em sua decisão.
+Mesmo que assim não fosse, registro que não seria o caso de reformar o acórdão recorrido, diante da impossibilidade de rever as conclusões do TJRJ quanto à (não) comprovação de má-fé do autor/agravante na celebração do contrato de seguro e da sua incapacidade total, a teor do óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
