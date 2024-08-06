@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MUNICIPIO DE CATALAO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que inadmitiu recurso especial apresentado no Agravo de Instrumento n. 5276471-69.2023.8.09.0029, assim ementado (fls. 204-211):
+AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA CUMPRIMENTO DESENTENÇA. ÍNDICE DE CORREÇÃO MONETÁRIA. JUROS DE MORA. ALTERAÇÃO NA FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. COISA JULGADA.
+1 - O índice de correção monetária fixado em sentença com trânsito em julgado não é passível de modificação na fase de cumprimento de sentença, sob pena de afronta à coisa julgada.
+2 - No tocante à correção monetária e juros de mora no caso em tela, deve-se aplicar os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, nos termos do artigo 1º-F, da Lei federal n.º 9.494/97, segundo a redação da Lei federal n.º 11.960/09, porquanto a sentença já transitou em julgado. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da CF, alega o recorrente, em suma, contrariedade, aos arts. 489, § 1º, incisos IV e V, e 1.022, incisos I e II, do CPC, visto que a acórdão vergastado restou omisso ao não analisar o argumento de que as obrigações discutidas são de trato sucessivo, e por isso, o índice de correção pode ser analisado a qualquer tempo, bem como está equivocado ao não aplicar o art. 3º da EC n. 113/2021.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo, visto que não impugnou todos os fundamentos da decisão de inadmissibilidade (fls. 589-593).
+É o relatório. Decido.
+A Corte de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) o recurso especial não se presta à análise de violação de norma constitucional; b) quanto aos demais dispositivos legais apontados, não houve indicação motivada e clara dos pontos da lide supostamente não decididos, nem houve demonstração da ocorrência de erro material, restando deficiente a argumentação, o que faz incidir o óbice da Súmula n. 284 do STF. Todavia, a parte Agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, o fundamento de que o recurso especial não poderia proceder à verificação de ausência de aplicação do invocado art. 3º da EC n. 113/2021, por se trata r de norma constitucional que deveria ser submetida à análise do Supremo Tribunal Federal por meio de recurso extraordinário.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..  5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
