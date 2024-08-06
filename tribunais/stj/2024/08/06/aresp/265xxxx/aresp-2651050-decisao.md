@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OSNIR ROCHA DE OLIVEIRA (OSNIR) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 361/370).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, OSNIR alegou ofensa ao art. 1.022, II, do NCPC. Sustentou que o aresto recorrido foi omisso, porque não se manifestou acerca do fato de ser o recorrente surdo de nascença, incapaz e analfabeto, devendo, assim, ser formada uma comissão mista, de vários profissionais, para que fosse avaliado o caso.
+Foram apresentadas contrarrazões (e-STJ, fls. 328/337).
+Quanto à eventual assertiva de omissão no aresto recorrido
+OSNIR alegou ofensa ao art. 1.022, II, do NCPC. Sustentou que o aresto recorrido foi omisso, porque não se manifestou acerca do fato de ser o recorrente surdo de nascença, incapaz e analfabeto, devendo, assim, ser formada uma comissão mista, de vários profissionais, para que fosse avaliado o caso.
+Sobre o tema, a Corte local assim decidiu:
+Sobre as questões levantadas nos presentes embargos, os elementos fáticos e jurídicos foram devidamente enfrentados.
+Os presentes autos têm por objeto apenas a cobrança de arrendamento rural do autor-Embargante contra os réus-Embargados.
+Restou reconhecida a prescrição em relação a cobrança do arrendamento referente ao ano/safra 2016/2017 e 2017/2018, bem como a ilegitimidade ativa do autor-Embargante em relação aos anos/safras 018/2019, 2019/2020 e 2020/2021, porque restou comprovado que o filho do autor-Embargante era o nu-proprietário de 50% da área rural, tendo o autor-Embargante direito real ao usufruto de 1/6 do imóvel.
+Entretanto, em 29/09/2016, o filho do autor vendeu aos réus parte dos 50% que lhe pertencia da área rural, e em 13/07/2017 foi registrada renúncia de usufruto do autor, com cancelamento do direito real de usufruto vitalício que ele possuía sobre parte ideal do imóvel rural arrendado, e em 17/08/2017 o filho do autor vendeu a totalidade da parte ideal que possuía do imóvel para os réus, tudo devidamente registrado em cartório.
+O autor-Embargante apresentou argumentos em recurso visando o reconhecimento de sua incapacidade civil e, por consequência, a nulidade da transferência da propriedade para seu filho, da renúncia ao usufruto vitalício e do contrato de arrendamento, visando afastar a prescrição e a ilegitimidade ativa reconhecidas em sentença.
+Enfatize-se que a presente ação tinha por objeto apenas a cobrança de valores decorrentes de arrendamento rural, não havendo nenhum pedido de nulidade de qualquer contrato ou negócio jurídico, seja de transferência de bem imóvel ao filho, de renúncia de usufruto ou do próprio contrato de arrendamento, o que seria contraditório com o objeto da presente ação que é a cobrança com base neste contrato. Além disso, o filho do autor-Embargante não integrava a lide.
+Conforme destacado no acórdão embargado, o fato do autor-Embargante ser deficiente auditivo não o torna absolutamente incapaz, mas pode ser submetido à curatela.
+A capacidade civil do autor-Embargante é objeto de ação própria de interdição julgada improcedente.
+Destaque-se novamente que não comprovou o Autor a ausência de discernimento necessário para a vida civil, inexistindo documento médico que ateste sua incapacidade de compreensão e de decisão para os atos da vida civil. Ao contrário, o laudo da ação de interdição atestou sua capacidade para os atos da vida civil.
+Se não possuísse capacidade civil não poderia ter ingressado com a presente ação sem estar representado por curador.
+Além disso, as diversas ações citadas pelo autor demonstram sua capacidade civil, em especial as declarações prestadas em sede de um dos inquéritos policiais, que indicam total compreensão de questões envolvendo o imóvel rural, o que foi devidamente detalhado no acórdão embargado.
+A presente ação não tem por objeto a interdição do autor, reconhecimento de incapacidade absoluta ou relativa, nomeação de curador, eis que tal providencia exige ação própria, que tramita sob o nº 1011094-89.2021.8.26.0066,ajuizada por sua companheira, julgada improcedente em 16/08/2022 diante de laudo pericial que constatou que o Autor está apto para o exercício dos atos da vida civil.
+O recurso interposto pelo Autor e sua companheira nos autos da ação de interdição aguarda julgamento pela 8ª Câmara de Direito Privado, existindo parecer da Procuradoria Geral de Justiça pelo desprovimento do recurso.
+Cabe registrar que, ainda que a sentença de interdição seja reformada, não gera a nulidade ou cancelamento automático dos atos e negócios jurídicos e respectivos registros públicos, que deverão ser buscados em ações próprias, nas quais também poderá pleitear, contra quem entender de direito, eventuais perdas e danos.
+Enfim, os presentes embargos de declaração e a presente ação de cobrança de arrendamento rural não são palcos para o reconhecimento da incapacidade civil do Autor, que, repita-se, já tramita em ação própria, ou de cancelamento de registros públicos ou de declaração de nulidade de negócio jurídico firmado com seu filho e dos negócios firmados posteriormente por ele com terceiros (e-STJ, fls. 301/303).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJSP emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido que, nos presentes autos, discute-se apenas a cobrança referente a um arrendamento rural. Ficou destacado, ainda, que a ação de interdição proposta foi julgada improcedente. Por fim, assentou-se que a presente ação de cobrança de arrendamento rural não é a via adequada para que seja reconhecida a incapacidade civil de OSNIR, pois, em reiteração, já se verificou que o pedido de sua interdição já foi julgado improcedente.
+O que se vê, na verdade, é a irresignação de OSNIR com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto no art. 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados no mencionado artigo.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+Nessas condições, CONHEÇO do agravo para CONHECER do recurso especial, mas NEGAR-LHE PROVIMENTO.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de OSNIR, nos termos do art. 85, §§ 2º e 11, do NCPC, observada a justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ART. 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
