@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por DANILO DE SOUZA BISPO contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fls. 1.458/1.459):
+APELAÇÕES CÍVEIS - AÇÃO INDENIZATÓRIA - ACIDENTE DE ÔNIBUS DE VIAGEM - SEQUELAS AO PASSAGEIRO - RESPONSABILIDADE OBJETIVA NÃO ELIDIDA POR CULPA DE TERCEIRO - ART. 735 DP CC E SÚMULA 187 DO STF - DANOS MORAIS E ESTÉTICOS MAJORADOS - DANOS MATERIAIS MANTIDOS - TRATAMENTOS PSICOLÓGICO E FISIOTERÁPICO VITALÍCIOS CONDICIONADOS À COMPROVAÇÃO PERIÓDICA DA NECESSIDADE - PENSIONAMENTO MENSAL - PERDA DA CHANCE E INCAPACIDADE NÃO COMPROVADOS - SUCUMBÊNCIA MANTIDA - RECURSOS DE APELAÇÃO DO AUTOR E DA RÉ AMBOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+1. Segundo o art. 735 do CC e Súmula 187 do STF: "A responsabilidade contratual do transportador, pelo acidente com o passageiro, não é elidida por culpa de terceiro, contra o qual tem ação regressiva."
+2. Portanto, comprovado o dano e o nexo causal deve a proprietária do ônibus, indenizar a vítima, independentemente da culpa do motorista ou de terceiro, sem prejuízo de eventual ação regressiva.
+3. Resta evidente nos autos que houve amputação da perna direita do autor em razão do sinistro, o que lhe causou danos estéticos permanentes, além de intenso sofrimento físico e psicológico, bem como despesas financeiras para tratamento e adaptação, o que deve ser proporcionalmente indenizado.
+4. Mantida improcedência de reembolso de despesas com moradia e alimentação em nome de terceiro e sem relação com acidente.
+5. Deverá o autor ser submetido à avaliação periódica, fornecendo laudo psicológico e fisioterápico a cada 6 meses de modo a comprovar a necessidade de continuidade dos tratamentos, cujo pagamento deverá ser custeado pela ré de forma vitalícia enquanto necessário.
+6. Ficou demonstrado, pelo orçamento juntado aos autos, ser necessário o dispêndio de R$ 800,00 ao serviço de adaptação do veículo do autor, que deverá ser suportado pela ré, pois inerente à sequela que implicou em limitação física.
+7. As indenizações dos danos morais e estéticos deverão ser majoradas para R$ 100.000,00 cada, quantia mais condizente com as circunstâncias do caso.
+8. Seja pela perda da chance ou impedimento ao trabalho, não se justifica a condenação da ré ao pensionamento do autor pela ausência de comprovação, devendo ser mantida a sentença nesse capítulo.
+9. Diante da sucumbência do autor quanto à parte dos danos materiais, bem como do pensionamento mensal por perda da chance ou incapacidade laboral, não há falar em sucumbência mínima do autor, devendo ser mantida a distribuição na proporção de 70% a cargo da ré e 30% do autor.
+Os embargos de declaração foram rejeitados (fls. 2.776/2.779).
+Nas razões do especial, aponta o recorrente violação do artigo 344 do Código de Processo Civil e artigo 950 do Código Civil.
+Argumenta, em síntese, que teria havido confissão acerca do exercício da profissão de cabeleireiro no momento do dano sofrido pelo recorrente, justificando, assim, o reconhecimento do fato alegado como verdadeiro, além do direito ao pensionamento mensal.
+O recurso especial não foi admitido na origem (fls. 2.810/2.817), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 344 do Código de Processo Civil, verifica-se que o Tribunal de origem consignou, expressamente, que a improcedência do pensionamento mensal decorreria da falta de comprovação da incapacidade laborativa, conforme extraio do acórdão que julgou os embargos de declaração (fl. 2.778):
+ ..
+Por fim, no tocante ao pensionamento mensal ao autor, tenho que a improcedência deve ser mantida, pois o autor não logrou êxito em comprovar que estaria viajando para entrevista de emprego, tampouco que haveria sérias chances de contratação, ônus que lhe competia, ante a impossibilidade de se atribuir à ré o ônus da produção de prova negativa. Ademais, também não restou comprovada o impedimento do autor para o exercício da atividade laboral, concluindo o laudo pericial pela incapacidade laborativa. Logo, seja pela perda da chance ou impedimento ao trabalho, não se justifica a condenação da ré ao pensionamento do autor, devendo a sentença ser mantida nesse capítulo." (grifo acrescido)
+Como se vê, o Tribunal de origem concluiu que a prova pericial seria conclusiva acerca da falta de incapacidade laboral, fundamento suficiente para justificar a improcedência da pretensão ao pensionamento mensal.
+Diante desse contexto, ainda que acolhida a tese de que o recorrente exercia a profissão de cabeleireiro, no momento do acidente por ele sofrido, não haveria como reformar o acórdão recorrido, uma vez que a inexistência de incapacidade laborativa é, por si só, suficiente para afastar o direito ao pensionamento mensal.
+Por conta disso, remanescendo fundamento suficiente no acórdão recorrido, para manter o provimento adotado, e não impugnado pelo recorrente, o recurso especial não deve ser conhecido quanto ao ponto, em razão da Súmula 283/STF.
+No que se refere à alegada violação do artigo 950 do Código Civil, verifica-se que o Tribunal de origem pressupõe que a prova técnica seria conclusiva acerca da inexistência de incapacidade laborativa, afastando o direito ao pensionamento mensal.
+Dessa forma, para acolher a pretensão do recorrente, reconhecendo o direito ao pensionamento mensal, seria imprescindível o reexame do contexto fático-probatório; providência, porém, vedada em recurso especial (Súmula 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
