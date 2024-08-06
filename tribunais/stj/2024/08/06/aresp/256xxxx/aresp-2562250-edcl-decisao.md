@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO SAFRA S/A (SAFRA), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. JUROS REMUNERATÓRIOS ABUSIVOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fls. 1384/1388).
+Nas razões do presente inconformismo, o SAFRA defendeu que a decisão embargada teria sido omissa sobre a suposta nova condenação em honorários advocatícios sucumbenciais que o Tribunal estadual teria fixado ao reapreciar os embargos de declaração. Alegou que não caberia a nova condenação em honorários, porque a condenação arbitrada a esse título, no acórdão que julgou as apelações, já foi executada e inteiramente quitada.
+Foi apresentada impugnação (e-STJ, fls. 1.400/1.405).
+É o relatório.
+O recurso não merece acolhida.
+De acordo com a jurisprudência desta Corte, a contradição, ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato, ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+No caso sub judice, vale relembrar que a r. sentença julgou parcialmente procedente os embargos à execução e, ante a sucumbência recíproca, determinou o rateio das custas e despesas processuais, fixando os honorários advocatícios em 10% para cada parte.
+O Tribunal estadual reformou a r. sentença, assim dispondo a respeito da verba honorária:
+Levando-se em conta o fato de a embargante ter decaído de maior parte do pedido, deverá ela arcar com 70% das verbas de sucumbência, arcando o banco com os outros 30%, ficando os honorários advocatícios mantidos no valor fixado em 1º grau, observada a gratuidade de justiça conferida à embargante a fls. 884. (e-STJ, fls. 904).
+Em sede de recurso especial, esta Corte deu-lhe parcial provimento "a fim de determinar a remessa dos autos ao Tribunal estadual, a fim de que se pronuncie acerca da taxa de juros remuneratórios, examinando no caso concreto a abusividade da taxa contratada, notadamente a eventual significativa discrepância com a taxa média de mercado, nos termos dos parâmetros definidos na jurisprudência desta Corte".
+Em novo julgamento, o Tribunal paulista deu-lhe parcial provimento, para reconhecer a nulidade advinda da abusividade dos juros remuneratórios e, consequentemente, aplicar a taxa média de juros, divulgada pelo Banco Central do Brasil. Quanto aos honorários, o acórdão manteve a sucumbência parcial, nos seguintes termos:
+Diante do provimento parcial não incide a majoração dos honorários sucumbenciais (CPC/15, art. 85, §11), bem como remanesce a sucumbência parcial, ficando mantida a verba honorária no percentual de 10% fixado em primeiro grau, para cada parte. (e-STJ, fls. 1.252).
+Contra referido acórdão, foram opostos embargos de declaração por CAMPARGO e outros, aduzindo que o Juiz de primeira instância não teria definido a base de cálculo de incidência dos honorários, limitando-se a fixar o seu percentual (10%).
+Tais embargos foram acolhidos pelo Tribunal, pois "quanto a base de cálculo dos honorários de sucumbência, de fato, não houve fixação em primeiro grau. Assim, fica o reparo, para que incida o percentual relativo à verba honorária, fixado no acórdão embargado de 10%, tendo como base de cálculo o valor da causa, nos termos do § 2º, do art. 85, do CPC/15" (e-STJ, fls. 1.273).
+Nesse contexto, observa-se que, ao contrário do quanto sustentado pelo SAFRA, não houve uma nova condenação em honorários em prol de CAMPARGO e outros, apenas foi sanado um erro material da sentença que, por um lapso, deixou de apontar qual seria a base de cálculo dos 10% arbitrados a título de honorários advocatícios.
+Vale ressaltar que, nas razões do recurso especial, SAFRA tão somente apontou violação aos arts. 489, inciso II, § 1º, IV, e 1.022, incisos I e III, do CPC, o que foi expressamente afastado pela decisão embargada. Confira-se:
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Nesta toada, não houve nenhum vício na decisão embargada a ensejar a integração do julgado. A pretensão, em verdade. desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO NÃO VERIFICADA. PRETENSÃO QUE DESBOR DA DAS HIPÓTESES DE CABIMENTO DOS ACLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
