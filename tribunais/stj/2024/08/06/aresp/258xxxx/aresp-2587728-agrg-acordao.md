@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. DOSIMETRIA DA PENA. PENA-BASE. PEDIDO DE EXASPERAÇÃO DE FRAÇÃO EM 1/6 DA PENA MÍNIMA OU 1/8 ENTRE O INTERVALO DO MÍNIMO E MÁXIMO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FRAÇÃO ESPECÍFICA. JUÍZO DE DISCRICIONARIEDADE D AS INSTÂNCIAS ORDINÁRIAS. TRÊS CONDENAÇÕES CARACTERIZADORAS DE MAUS ANTECEDENTES. FIXAÇÃO PROPORCIONAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+II - O acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça no sentido de que a pluralidade de condenações anteriores caracterizadoras de maus antecedentes justifica o incremento maior da fração, o que não desborda os limites da proporcionalidade e faz incidir a aplicação da Súmula n. 568, STJ.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EDSON MARTINS DE SOUZA contra a decisão de fls.584-587, que conheceu do agravo em recurso especial para negar provimento ao recurso especial.
+O agravante foi condenado à pena de 6 (seis) anos e 1 (um) mês de reclusão em regime fechado e 35 (trinta e cinco) dias-multa, pela prática dos crimes previstos nos arts. 180, caput, e 311 do Código Penal (fls. 334-341).
+O Tribunal negou provimento à apelação interposta pela defesa em que requeria, em síntese, absolvição por insuficiência de provas e, subsidiariamente o redimensionamento das penas-base (fls. 526-530).
+Inconformado, o agravante interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 59 do Código Penal e requerer, em síntese, a readequação da fração utilizada para o sopesamento da circunstância judicial dos maus antecedentes (fls. 535-539).
+Apresentadas as contrarrazões (fls. 543-547), o recurso foi inadmitido na origem em virtude das Súmulas n. 7 e 283, STJ (fls. 550-551).
+Neste agravo regimental (fls. 591-596), sustenta a defesa que "imperioso o reconhecimento por este STJ que não houve a motivação necessária para o incremento da pena em patamar superior ao estabelecido pela Corte em suas posições consolidadas -1/8 sobre o intervalo ou 1/6 sobre a pena mínima -devendo ser adotado, portanto, o que mais beneficie o Réu." .
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. DOSIMETRIA DA PENA. PENA-BASE. PEDIDO DE EXASPERAÇÃO DE FRAÇÃO EM 1/6 DA PENA MÍNIMA OU 1/8 ENTRE O INTERVALO DO MÍNIMO E MÁXIMO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FRAÇÃO ESPECÍFICA. JUÍZO DE DISCRICIONARIEDADE D AS INSTÂNCIAS ORDINÁRIAS. TRÊS CONDENAÇÕES CARACTERIZADORAS DE MAUS ANTECEDENTES. FIXAÇÃO PROPORCIONAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+II - O acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça no sentido de que a pluralidade de condenações anteriores caracterizadoras de maus antecedentes justifica o incremento maior da fração, o que não desborda os limites da proporcionalidade e faz incidir a aplicação da Súmula n. 568, STJ.
+Agravo regimental desprovido.
+VOTO
+Com efeito, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pela defesa foram analisados de forma devidamente fundamentada, como pode ser constatado pela leitura dos seguintes trechos da decisão agravada, in verbis (fl. 586):
+"Logo, não é possível demandar a aplicação de uma determinada fração específica à pena-base, ao argumento de que existiria um quantum mínimo padrão para cada circunstância judicial desfavorável, cabendo a esta Corte Superior apenas a revisão excepcional da dosimetria quando evidenciada flagrante ilegalidade ou desproporcionalidade no seu cálculo.
+Na espécie, as penas-base foram valoradas em 1/6 (um sexto) do intervalo entre as penas mínima e máxima abstratamente fixadas, "considerando-se três condenações caracterizadoras dos maus antecedentes. Ora, a multiplicidade de condenações justifica a exasperação, nessa fase, em 1/6" (fls. 529-530).
+Destarte, o acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que a pluralidade de condenações anteriores caracterizadoras de maus antecedentes justifica o incremento maior da fração, o que não desborda os limites da proporcionalidade e faz incidir a aplicação da Súmula n. 568, STJ."
+E, conforme consta da decisão recorrida, a pretensão defensiva vai de encontro com o entendimento deste Superior Tribunal de Justiça, nesse sentido destaco os seguintes julgados:
+"(..) 1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. A teor da Súmula 241 do STJ, a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda.
+3. Hipótese em que o Tribunal a quo valorou negativamente os maus antecedentes do acusado (4 condenações definitivas não sopesadas para fins de reincidência), para exasperar a pena-base do delito de tráfico em 1/3.
+4. Portanto, apresentado elemento idôneo para a majoração da reprimenda e levando-se em conta as penas máxima e mínima abstratamente cominadas ao delito referido (5 a 15 anos), não se mostra desproporcional o quantum de pena imposto, a autorizar a intervenção excepcional desta Corte, sobretudo diante da pluralidade de condenações anteriores do acusado transitadas em julgado.
+5. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+6. No caso, destacada a multirreincidência do paciente (três condenações anteriores definitivas), não se verifica manifesta ilegalidade na escolha da fração de 1/4 pelo reconhecimento da causa de aumento do art. 61, I, do Código Penal.
+7. Agravo regimental não provido" (AgRg no HC n. 890.106/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/5/2024).
+Dessarte, deve ser mantida a decisão agravada por seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
