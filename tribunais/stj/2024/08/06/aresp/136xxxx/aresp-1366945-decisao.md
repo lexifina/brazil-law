@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos em face de decisão que negou seguimento a recurso especial interposto visando à reforma de acórdão assim ementado (fl. 193):
+RESPONSABILIDADE CIVIL Transporte de coisa Ação regressiva de indenização securitária Extravio de carga Prazo decadencial de que trata o artigo 754, parágrafo único, do Código Civil que só tem aplicação na relação destinatário e transportadora Falha na prestação dos serviços Responsabilidade objetiva da transportadora Ressarcimento devido Súmula nº 188 do C. STF - Indenização limitada prevista no Código Brasileiro de Aeronáutica inaplicável Procedência mantida - Recurso improvido.
+Nas razões de recurso especial, TAM Linhas Aéreas S.A. aponta violação dos artigos 349, 351, 732, 750, 754, 781 e 786 do Código Civil; arts. 246, 248, §§ 1º e 2º, 250, 260, 262 e 281 do Código Brasileiro de Aeronáutica; e 22 da Convenção de Montreal, além de divergência jurisprudencial. Sustenta que a indenização pelo extravio de bagagens é limitada.
+Em contrarrazões ao recurso especial, MAPFRE SEGUROS GERAIS S.A. afirma a ausência de prequestionamento, bem como aponta a pretensão ao simples reexame de prova. Entende sub-rogar-se em todos os direitos do segurado e conclui que a indenização pelo desvio de bagagens não está limitada.
+O acórdão recorrido está em harmonia com a orientação firmada na jurisprudência desta Corte sobre a indenização tarifada no caso de extravio de bagagens pela empresa aérea. Confira-se, por exemplo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE AÉREO. SEGURO REGRESSO. TRANSPORTADORA AÉREA SUBCONTRATADA. ALEGADA VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. PRINCÍPIO DA ESPECIALIDADE. CÓDIGO BRASILEIRO DE AERONÁUTICA. INAPLICABILIDADE. RELAÇÃO CONSUMERISTA. RESPONSABILIDADE OBJETIVA E SOLIDÁRIA. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa ao art. 489 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. É "pacífica a jurisprudência do STJ no sentido de serem inaplicáveis as indenizações tarifadas previstas no Código Brasileiro de Aeronáutica (CBA - art. 246 da Lei nº 7.565/1986) e na Convenção para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional (Convenção de Varsóvia - Decreto nº 20.704/1931), com as modificações dos Protocolos da Haia e de Montreal (Decreto nº 5.910/2006), seja para as relações jurídicas de consumo seja para as estabelecidas entre sociedades empresárias, sobretudo se os danos oriundos da falha do serviço de transporte não resultarem dos riscos inerentes ao transporte aéreo" (REsp 1.745.642/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/02/2019, DJe de 22/02/2019).
+3. No transporte de coisas, todos os transportadores são responsáveis solidariamente pelo dano causado ao bem transportado.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.381.459/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/6/2024, DJe de 27/6/2024.)
+O caso concreto, ressalte-se, não versa sobre voo internacional; cuida-se de extravio de bagagem ocorrido em voo doméstico, com início em São Paulo/SP e destino Imperatriz/MA (e-STJ, fl. 133).
+Aplica-se ao caso a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
