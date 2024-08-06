@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por MANA HOLDING LTDA. contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelac a o Cível/Remessa Necessa"ria n. 1615430-54.2017.8.26.0090, assim ementado (fl. 323):
+APELAC A O CI"VEL/REMESSA NECESSA"RIA - Execuc a o Fiscal - IPTU dos exerci"cios de 2014 a 2016 - Excec a o de pre"- executividade acolhida. 1) Valor da causa inferior a 500 sala"rios-mi"nimos - Remessa necessa"ria na o conhecida - Intelige ncia do art. 496, § 3º, II, do CPC. 2) Alegac a o de que o tributo ja" foi recolhido, sendo indevida a execuc a o fiscal - De"bito exequendo referente a" lanc amento de IPTU retroativo efetuado sobre inscric a o imobilia"ria oriunda de desdobro - Valores pagos relativos a" inscric a o imobilia"ria cancelada - Questa o controvertida - Necessidade de dilac a o probato"ria, que na o se admite na estreita via da excec a o de pre"-executividade - Discussa o que melhor se ade"qua aos embargos a" execuc a o - Precedente desta 15ª Ca mara de Direito Pu"blico, envolvendo as mesmas partes - Sentenc a reformada - Recurso oficial na o conhecido e recurso volunta"rio provido.
+Nas razões do apelo nobre, a parte recorrente busca, preliminarmente, o reconhecimento da nulidade do acórdão em razão do julgamento extra petita. No mérito, aponta, além de dissídio jurisprudencial, ofensa aos arts. 145, 146, 149 e 163, todos do CTN e ao art. 805 do CPC, argumentando que se trata de "cobranc a de IPTU retroativo decorrente do desmembramento do IPTU ja" lanc ado e pago de um imo"vel de propriedade da Recorrente", de forma que "e" evidente a admissibilidade da Excec a o de Pre"-Executividade, identificando-se a existe ncia de ti"tulo ina"bil, irregular e que na o preenche os requisitos formais das condic o es da ac a o executiva" (fl. 363).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem negou seguimento ao apelo nobre com base no Tema Repetitivo n. 104/STJ e, no mais, não o admitiu, em razão da incidência da Súmula n. 7 do STJ, quanto à alegação de julgamento extra petita, e da ausência de cotejo analítico para demonstração da divergência jurisprudencial.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja a nulidade do acórdão em razão do julgamento extra petita, de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, na origem (fl. 327).
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
