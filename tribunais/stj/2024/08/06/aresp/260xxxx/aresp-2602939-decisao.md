@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 192):
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DO EMBARGADO. EMBARGANTE QUE COMPROVOU A AQUISIÇÃO DO VEÍCULO DE BOA-FÉ. VEÍCULO SEM QUALQUER RESTRIÇÃO OU BLOQUEIO À ÉPOCA DA COMPRA. COMPROVADA A REALIZAÇÃO DE PESQUISAS E DILIGÊNCIAS PARA AVERIGUAÇÃO DO ESTADO DO BEM. HISTÓRICO COMPLETO DO VEÍCULO. EVICÇÃO NÃO VERIFICADA. CONJUNTO PROBATÓRIO QUE DEMONSTRA A BOA-FÉ DO EMBARGANTE ADQUIRENTE NA AQUISIÇÃO DO VEÍCULO E A AUSÊNCIA DE QUALQUER PARTICIPAÇÃO NO NEGÓCIO JURÍDICO QUESTIONADO NOS AUTOS EM APENSO. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 447, 450 e 457 do Código Civil; bem como divergência jurisprudencial.
+Sustenta a nulidade de toda a cadeia de alienações (vendas sucessivas), sofrendo a evicção que estiver com a posse do veículo independentemente de boa-fé.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fls. 194/195):
+Trata-se na origem de Embargos de Terceiro ajuizado por Jorge Marcelo Favine em face de Valdo Alves Pereira e Adão de Jesus de Souza. Indica que o objeto da execução/ação anulatória atingirá diretamente seu patrimônio (caminhão VOLVO) o qual teria sido adquirido de boa-fé e sem nenhuma constrição. Pontua na inicial que adquiriu o veículo em 07/08/2020 de José Luiz Pirizzatto, que por sua vez teria adquirido o veículo de Valdeci Santos, tudo conforme consta no registro do veículo perante o Detran, sendo surpreendido com a ordem de busca e apreensão emanada dos autos em apenso.
+A ação foi julgada procedente, restando reconhecida a boa-fé do embargante na compra do veículo em questão. O embargado recorre almejando a reforma da sentença, fundamentando que diante da ocorrência da evicção deve ser determinada a entrega do veículo ao embargado.
+O vocábulo "evicção" vem do latim e significa desapossar evictio judicialmente ou recuperar uma coisa. Para o direito civil, evicção é a perda de um bem por ordem judicial ou administrativa, em razão de um motivo jurídico anterior à sua aquisição. Em outras palavras, é a perda de um bem pelo adquirente, em consequência de reivindicação feita pelo verdadeiro dono. Um exemplo de evicção se dá quando alguém vende um objeto e, posteriormente, descobre-se que ele não pertencia ao vendedor, mas a um terceiro.
+Sobre os efeitos da evicção, o art. 450 do Código Civil estabelece que o adquirente que perdeu o bem pode postular as seguintes medidas: restituição integral do preço pago; indenização dos frutos que tiver sido obrigado a restituir; indenização pelas despesas dos contratos e demais prejuízos resultantes da evicção; e ressarcimento das despesas processuais com custas e honorários de advogado.
+A esse respeito, portanto, fundamenta o apelante que não há motivos para manter o embargante na posse do veículo. Entretanto, razão não lhe assiste, principalmente porque não se vislumbra evicção no caso concreto.
+Infere-se dos autos que o caminhão não possuía nenhuma restrição quando foi adquirido pelo embargante. Infere-se, ainda, que foi adquirido por JORGE de JOSÉ LUIZ que por sua vez teria adquirido de VALDECI SANTOS.
+Seria evicto quem, tivesse comprado o veículo de ADÃO, cuja a compra de VALDO fora declarada nula. Pois somente cabe a ADÃO a responsabilidade de indenização pela perda do bem por comprador evicto (CC, art. 447). Explico.
+Infere-se dos autos em apenso que VALDO ingressou com Execução de Título Extrajudicial em face de ADÃO, com base em contrato de compra e venda. No curso da demanda, alterou o pedido para "Ação Anulatória de Negócio Jurídico", através da qual almejava anular o contrato de compra e venda firmado com ADÃO após constatar ter sido vítima de crime de estelionato.
+Vê-se, portanto, que não há como aplicar o instituto da evicção no caso em comento, posto que o embargante não comprou o veículo de ADÃO mas sim de JOSÉ LUIZ, nos exatos termos em que concluiu a r. sentença.
+Além disso, quanto as supostas diligências ignoradas pelo Juízo , sem a quo razão ao apelante.
+Embora o apelante tenha informado ter postulado bloqueios na ação em apenso, verifica-se que o trecho constante na r. sentença que foi objeto da irresignação faz menção ao momento em que houve a alteração da demanda para "Ação Anulatória de Negócio Jurídico", e não a ação como um todo.
+Portanto, se o apelante formulou pedidos nos autos em momento posterior, isso não implica naquilo que foi constatado pelo Juízo tampouco no resultado final da presente decisão, que é o reconhecimento da boa-fé do embargante.
+Na hipótese, o veículo não foi adquirido diretamente de Adão, cuja venda foi declarada nula, mas sim de terceiro. Embora tenha sido declarada nula a primeira alienação, o quadro fático delineado na origem revela que o credor não havia procedido à averbação, no registro do veículo, tampouco se desincumbiu de comprovar a má-fé do adquirente posterior, ora recorrente. Não há que se falar, assim, em ineficácia da alienação subsequente.
+O acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte, incidindo, portanto, o óbice da Súmula 83 do STJ.
+Vejamos:
+RECURSO ESPECIAL. AÇÃO PAULIANA. SUCESSIVAS ALIENAÇÕES DE VEÍCULO QUE PERTENCIA AO DEVEDOR. ANULAÇÃO QUE NÃO ALCANÇA OS TERCEIROS DE BOA-FÉ.
+1.- Em consonância com o art. 109 do CC/1916 (com redação correspondente no art. 161 do CC/2002), tendo havido sucessivos negócios fraudulentos, cabe resguardar os interesses dos terceiros de boa-fé e condenar tão somente os réus que agiram de má-fé, em prejuízo do autor, a indenizar-lhe pelo valor equivalente ao do bem transmitido em fraude contra o credor.
+2.- Recursos Especiais providos.
+(REsp 1145542/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 11/03/2014, DJe 19/03/2014)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
