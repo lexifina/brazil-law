@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROBERTO EMILIANI e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE NEGÓCIO DE VENDA E COMPRA - ALEGAÇÃO DE DESCUMPRIMENTO DE OBRIGAÇÃO CONTRATUAL - NEGÓCIO VERBAL - CONTROVÉRSIA SOBRE O VALOR ESTIPULADO - TESTEMUNHAS QUE NÃO PRESENCIARAM O AJUSTE DE PREÇO - INADIMPLÊNCIA NÃO COMPROVADA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 7º e 371 do CPC, no que concerne à violação à paridade de armas, tendo em vista que não se atribuiu valor ao depoimento das testemunhas que arrolou, trazendo a seguinte argumentação:
+Pois bem, os recorrentes foram prejudicados pela ausência de correta valoração das provas produzidas nos autos, mais especificamente no que se refere aos depoimentos das testemunhas arroladas pelas partes.
+Isso porque ao proferir a sentença o d. Juízo de primeiro grau considerou tão somente os depoimentos das testemunhas arroladas pelos recorridos, deixando de atribuir valor ao depoimento das testemunhas arroladas pelos recorrentes.
+Ocorre que além de deixar de atribuir valor à prova produzida pelos recorrentes o d. Juízo de primeiro grau deixou de apresentar qualquer justificativa para o seu convencimento, o que fere o que dispõe o art. 371, do CPC.
+ ..
+Igualmente houve ofensa ao art. 7º, do CPC, eis que não houve paridade de tratamento entre as partes.
+Logo não assiste razão o acórdão recorrido, que manteve a sentença de primeiro grau sob o argumento de que as testemunhas arroladas pelos recorrentes não teriam presenciado o negócio, vez que nenhuma das testemunhas arroladas pelos recorridos presenciaram as negociações, não tendo seu depoimento valor maior que o conferido ao depoimento das testemunhas dos recorrentes.
+ ..
+A regra do art. 371 é cristalina no sentido de garantir que as provas produzidas por ambas as partes sejam igualmente apreciadas e valoradas, o que evidentemente não se cumpriu no caso em comento. Consequentemente, nega- se vigência ao art. 7º, do CPC, pois a paridade de tratamento entre as partes não foi garantida.  ..  (fls.857/858).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Insistem os recorrentes que as testemunhas José Domingos Zampiva e Pedro Roque Martelli teriam indicado a existência do negócio e seu valor, mas as gravações da audiência de f. 624-5 indicam, com absoluta clareza que nenhuma pessoa presenciou o negócio e pode precisar o valor nele estipulado.
+Isso basta para refutar a alegação de que a sentença teria atribuído maior valor a uma ou outra testemunha, tendo má valorado a prova oral e não prestado serviço jurisdicional equânime, em ofensa aos artigos 7.º e 371, do CPC, até porque do contexto geral do provimento judicial prolatado o fundamento utilizado pelo magistrado "a quo" foi de que "não se pode afirmar com a devida certeza que exige o processo, quais os valores foram realmente ajustados" (f. 742) (fl. 823)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
