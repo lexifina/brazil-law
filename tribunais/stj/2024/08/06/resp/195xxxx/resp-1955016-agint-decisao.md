@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por PARAFUSOS E FERRAMENTAS MONTEIRO E SOUZA LTDA- ME (PARAFUSOS E FERRAGENS) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. RECURSO ESPECIAL. EXECUÇÃO. CHEQUE. ABSTRAÇÃO E AUTONOMIA. VERIFICAÇÃO DE MÁ-FÉ DO EXEQUENTE. INVIABILIDADE. SÚMULA Nº7 DO STJ. PRECEDENTES. VIOLAÇÃO DISPOSITIVOS LEGAIS. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS PELO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC QUE NÃO SE VERIFICA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 343.).
+Nas razões do presente inconformismo, defendeu a ausência de ofensa à Súmula n. 7 do STJ, no que diz respeito a questão da relação causal entre os cheques e a anterior confissão de dívida.
+Não foi apresentada contraminuta (e-STJ, fl. 370.).
+É o relatório.
+Decido.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 343/347 e passo a novo exame do recurso especial.
+Nas razões do apelo nobre, como destacado, PARAFUSOS E FERRAMENTAS alegou a necessidade da demonstração da causa debendi, sob o entendimento de que a ação proposta pelo Recorrido gira em torno de confissão de dívida assinada em 2006, não sendo cobrados os valores dos cheques, mas ainda que se admita, como fez o Tribunal a quo, que são os cheques que estão sendo cobrados, certo é que o Recorrido teria se valido do artigo 62 da Lei 7.357/86, isto porque o Recorrido se utilizou de argumento que indicava a relação causal do cheque a um negócio jurídico antecedente, o que conduz à necessidade de comprovação do negócio jurídico que deu origem ao título (negócio este, no presente caso, eivado de irregularidades, apontadas pela Recorrente). Contudo, o Tribunal a quo entendeu, ao contrário da previsão legal apontada que não era necessária a demonstração da causa debendi (e-STJ, fl. 266.).
+A respeito da controvérsia, o acórdão impugnado entendeu pela desnecessidade da demonstração da causa debendi, no seguintes termos:
+Com efeito, cuida-se de ação de cobrança, a qual foi instruída com instrumento de confissão de dívida firmado entre as partes na data de 18 de julho de 2006 e dois cheques, no valor de R$ 18.000,00 e R$ 8.000,00, ambos datados de 25 de julho de 2016 e emitidos nominalmente em favor do autor, ambos devolvidos por divergência na assinatura/sustação.
+A ré sustenta que o empréstimo foi tomado unicamente pelo sócio da empresa ré, Manoel Monteiro de Souza Filho, em benefício próprio, forjando o contrato de confissão de divida em conluio com o autor, seu irmão, assinando cheque em nome da ré para pagar débito que era unicamente seu.
+No mérito, tem a jurisprudência majoritária de nossos tribunais entendido pela desnecessidade de demonstração e prova dessa relação causal - a chamada causa debendi, a qual corresponde ao negócio jurídico que subjaz à relação cambial, e que com esta não se confunde.
+Regida pelo direito civil comum, a causa debendi só adquire relevância nas hipóteses de execução dos denominados títulos causais, de que é exemplo a duplicata. O cheque, contudo, é título abstrato, que a partir de sua emissão se desvincula do negócio jurídico que lhe deu origem.
+Isso porque é dispensada a indicação da causa debendi, porquanto o título, por si só, já demonstraria a existência da dívida (e seu respectivo valor), fatos suficientes à deflagração do processo executivo, ou de cobrança.
+Este, inclusive, é o posicionamento do C. Superior Tribunal de Justiça no julgamento do REsp 1094571/SP de Relatoria do Ministro Luís Felipe Salomão, Segunda Seção, julgado em 04/02/2013, DJe 14/02/2013, ao qual foi julgado na forma do art. 543-C do Código de Processo Civil, assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO MONITÓRIA APARELHADA EM CHEQUE PRESCRITO. DISPENSA DA MENÇÃO À ORIGEM DA DÍVIDA.
+1. Para fins do art. 543-C do CPC: Em ação monitória fundada em cheque prescrito, ajuizada em face do emitente, é dispensável menção ao negócio jurídico subjacente à emissão da cártula.
+2. No caso concreto, recurso especial parcialmente provido. (REsp 1094571/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 04/02/2013, DJe 14/02/2013)  e-STJ, fls. 217/220, sem destaques no original .
+Como se depreende do trecho acima, observa-se que o TJRJ fundamentou-se na tese de que o cheque é um título de credito abstrato e, portanto, a partir de sua emissão há uma desvinculação do negócio jurídico que lhe deu origem.
+Pois bem !
+Sobre o tema, o Superior Tribunal de Justiça já se manifestou no sentido de que, "Em situações específicas, é admissível a investigação da causa debendi do cheque, tal como na hipótese dos autos em que não houve circulação da cártula" (AgRg no REsp 1.326.087/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 15/4/2016), pois utilizado, no caso, como garantia de confissão de dívida.
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE CHEQUES PRESCRITOS QUE NÃO CIRCULARAM. VINCULAÇÃO AO NEGÓCIO JURÍDICO JURÍDICO ORIGINÁRIO. POSSIBILIDADE DE DISCUSSÃO DA CAUSA DEBENDI. JURISPRUDÊNCIA DO STJ FIRMADA NO MESMO SENTIDO DO ACÓRDÃO EMBARGADO. SÚMULA 168/STJ. RECURSO DESPROVIDO.
+ ..
+2. Como o cheque ostenta a natureza de título de crédito, portanto, não-causal, em regra, não comporta discussão sobre o negócio jurídico originário, em decorrência de sua autonomia e abstração. Entretanto, se o cheque não houver circulado, como no caso, estando, pois, ainda atrelado à relação jurídica originária estabelecida entre seu emitente (sacador) e seu beneficiário (tomador), é possível a discussão da causa debendi. Precedentes.
+3. Estando o aresto embargado no mesmo sentido da jurisprudência pacífica deste Tribunal, incide à espécie o verbete da Súmula n. 168 do STJ (Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado).
+4. Agravo interno desprovido.
+(AgInt nos EAREsp 681.278/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 30/6/2020, DJe 3/8/2020, sem destaques no original.).
+Cheque. Vinculação a contrato de compra e venda. Possibilidade de exame da causa do débito. Fundamentação que permanece suficiente para a manutenção do julgado.
+1. Se o cheque foi dado em garantia, "deve ser admitida a investigação da causa debendi" (REsp nº 111.154/DF, da minha relatoria, DJ de 19/12/97; no mesmo sentido: REsp nº 43.513/SP, Relator o Ministro Aldir Passarinho Junior, DJ de 15/4/02; REsp nº 434.433/MG, Relator o Ministro Aldir Passarinho Junior, DJ de 23/6/03).
+2. O acórdão, no caso, está subordinado a dois fundamentos que permanecem fortes, a saber, a ausência de pedido para que fosse efetuada a compensação e a ausência de "prova do acolhimento da reclamatória nem do valor de possível condenação" (fl. 101). Esses fundamentos são suficientes para manter o julgado, tornando hígido aquele cheque que estaria vinculado ao negócio de compra e venda.
+3. Recurso especial não conhecido.
+(REsp n. 659.327/MG, relator Ministro Carlos Alberto Menezes Direito, Terceira Turma, julgado em 6/2/2007, DJ de 30/4/2007, p. 310, sem destaques no original.).
+Nesse compasso, estando destoante o entendimento do acórdão impugnado com o entendimento assente desta Corte, de imposição da sua reforma.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, DOU PROVIMENTO ao recurso especial para restabelecer a sentença, invertendo-se os ônus sucumbenciais.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previno que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, §2º, ambos do CPC. Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA. CHEQUE. GARANTIA DE DÍVIDA. DISCUSSÃO. CAUSA DEBENDI. POSSIBILIDADE. PRECEDENTES DESTA CORTE. RECURSO ESPECIAL CONHECIDO E PROVIDO.
