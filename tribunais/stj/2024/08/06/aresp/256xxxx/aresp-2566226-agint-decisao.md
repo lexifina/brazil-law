@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interno interposto por LUIZ FERNANDO DO NASCIMENTO (LUIZ) contra decisão de relatoria da Ministra Presidente desta Corte que não conheceu do agravo em recurso especial, porque não foram impugnados especificamente todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente inconformismo, LUIZ alegou que (1) houve a explícita demonstração do dispositivo violado e, por isso, não é caso de incidência da Súmula nº 284 do STF; (2) foram ofendidos os arts. 783 e 784, III, do NCPC; (3) no título executivo extrajudicial não consta a assinatura de duas testemunhas, não podendo se iniciar a cobrança, pois não há certeza do suposto débito; e, (4) o contrato não está dotado de certeza, liquidez e exigibilidade.
+Não houve impugnação ao recurso (e-STJ, fl. 581).
+É o relatório.
+DECIDO.
+Reconsideração do decisum
+De fato, verifica-se que LUIZ, nas razões do agravo em recurso especial, impugnou especificamente todos os fundamentos da decisão denegatória do apelo nobre.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto por LUIZ.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, LUIZ alegou ofensa aos arts. 783 e 784, III, do NCPC. Sustentou que (1) o contrato não tem força executiva, porque não foi assinado por duas testemunhas; (2) o contrato não se encontra dotado de certeza, liquidez e exigibilidade; e, (3) não se pode cobrar sem condições suficientes constantes do contrato.
+Foram apresentadas contrarrazões (e-STJ, fls. 487/516).
+O inconformismo não merece prosperar.
+Da assertiva de afronta aos arts. 783 e 784 do NCPC
+LUIZ alegou ofensa aos arts. 783 e 784, III, do NCPC. Sustentou que (1) o contrato não tem força executiva, porque não foi assinado por duas testemunhas; (2) o contrato não se encontra dotado de certeza, liquidez e exigibilidade; e, (3) não se pode cobrar sem condições suficientes constantes do contrato.
+Os conteúdos normativos dos dispositivos apontados como contrariados, que versam sobre o comando de que a execução para cobrança de crédito fundar-se-á sempre em título de obrigação certa, líquida e exigível e que são títulos executivos extrajudiciais o documento particular assinado pelo devedor e por duas testemunhas, respectivamente, não foram objeto de debate pelo Tribunal estadual, nem mesmo após a oposição dos embargos de declaração, de modo que está ausente o indispensável requisito do prequestionamento.
+Incide, portanto, a Súmula n.º 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Registra-se que caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA. FRAUDE. DADOS BANCÁRIOS. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. FORTUITO INTERNO. SÚMULAS N. 297 E 479 DO STJ. FATO DE TERCEIRO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. DENUNCIAÇÃO DA LIDE. JUROS DE MORA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. As instituições financeiras submetem-se ao Código de Defesa do Consumidor, respondendo objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. Súmulas n. 297 e 479 do STJ.
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. A falta de prequestionamento dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza seu reconhecimento na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.907.225/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. AÇÃO DECLARATÓRIA COMBINADA COM COBRANÇA. ARTS. 7º, 344, 348 E 349 DO CÓDIGO DE PROCESSO CI VIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PROVA PERICIAL. DESNECESSIDADE. INDEFERIMENTO. CERCEAMENTO DE DEFESA. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ARTS. 186 E 927 DO CÓDIGO CIVIL. FUNDAMENTO AUTÔNOMO. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. A admissão de prequestionamento ficto (art. 1.025 do Código de Processo Civil de 2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do Código de Processo Civil de 2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+3. O julgamento antecipado da lide está inserto no âmbito do desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente, o que não caracteriza decisão surpresa.
+4. Nos termos da orientação firmada nesta Corte, o destinatário final da prova é o juiz, a quem cabe avaliar quanto a sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015.
+5. Na hipótese, rever as conclusões do tribunal quanto à desnecessidade da realização de prova pericial demandaria a análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ.
+6. A ausência de impugnação de fundamento autônomo não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.126.957/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+De qualquer sorte, analisar a presença ou não dos requisitos referentes à certeza, liquidez ou exigibilidade de título executivo demandaria o reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TÍTULO EXECUTIVO. PROSSEGUIMENTO DA EXECUÇÃO PROVISÓRIA. RECURSO SEM EFEITO SUSPENSIVO. POSSIBILIDADE. PRECEDENTES. LIQUIDEZ DO TÍTULO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. O acórdão recorrido, ao concluir pelo prosseguimento da execução provisória, está em harmonia com a jurisprudência desta Corte de que há "norma expressa no CPC/2015, a exemplo do CPC/1973, conferindo ao vencedor (provisório) da demanda o direito de promover a execução provisória da sentença sujeita a recurso sem efeito suspensivo (art. 520 do CPC/2015)" - (AgInt na PET no AREsp 1.057.682/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceiro, julgado em 3/10/2017, DJe 19/10/2017).
+3. Analisar a presença, ou não, dos requisitos referentes à liquidez do título executivo, ensejaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.378.767/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023)
+Nessas condições, dou provimento ao agravo interno para CONHECER do agravo a fim de NÃO CONHECER do recurso especial.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de LUIZ, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. AÇÃO DE ROMPIMENTO CONTRATUAL. CERTEZA, LIQUIDEZ E EXIGIBILIDADE DE TÍTULO EXECUTIVO. TEMAS NÃO DEBATIDOS. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO . IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
