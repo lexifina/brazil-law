@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ADEMIR ANDERSON DE FREITAS, ANA FLAVIA NUNES CAMPOS, MAGDAEL DA SILV A CAMPOS e MICELIA DA SILVA CAMPOS FREITAS, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa à rescisão de compromisso de compra e venda.
+O julgado negou provimento ao recurso de apelação dos recorrentes nos termos da seguinte ementa (fl. 206):
+Ação de rescisão de compromisso de compra e venda de lote com pedido de devolução das prestações pagas. Rescisão a pedido dos compradores, sem culpa da promitente vendedora. Disposição acerca da rescisão que seguiu a disciplina da Lei 13.786/18, já vigente à época da contratação. Abusividade das cláusulas contratuais não reconhecida. Procedência da ação autorizada nos limites indicados na sentença. Recurso improvido.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega violação dos arts. 4º, 47, 51, incisos II e IV, §1º, inciso III, e 53, todos do CDC, bem como dos arts. 413 e 884 do Código Civil.
+Aduz que a cláusula penal do art. 32-A da atual Lei do Distrato fere o CDC e o Código Civil, uma vez que enseja perda total de valores pela parte recorrente, tornando-a, inclusive, devedora de valores para a recorrida, e promove o enriquecimento ilícito desta, em razão da abusividade contratual.
+Sustenta, outrossim, que o acórdão não observou limite de retenção para despesas administrativas no percentual de até 25% sobre os valores pagos, aplicando o art. 32-A da atual lei do distrato (10% sobre o valor total e atualizado do contrato), ocasionando o perdimento total de valores pela parte recorrente.
+Apresentadas as contrarrazões (fls. 374-391), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 392-397).
+É, no essencial, o relatório.
+Não merece êxito o recurso especial.
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, limitou-se a consignar que o contrato firmado durante a vigência da Lei n. 13.786/2018, atraindo, portanto, nova disciplina normativa.
+Verifica-se, portanto, que a Corte de origem não analisou, sequer implicitamente, os arts. 4º, 47, 51, incisos II e IV, § 1º, inciso III, e 53 do CDC, bem como os arts. 413 e 884 do Código Civil.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais e, caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 535 do CPC/73, nas razões do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. (AgInt no AREsp n. 1.700.683/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1º/10/2020.)
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (arts. 319 e 332 do CPC; 39, V, do CDC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, os recorrentes não aduziram nas razões do recurso especial ofensa ao art. 535 do CPC. (AgInt no REsp n. 1.482.892/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/10/2016.)
+2. Não obstante tenham sido opostos embargos de declaração, concluiu o Tribunal por rejeitá-los, sem se manifestar sobre as questões alegadas pelos apelantes, notadamente sobre aquelas explicitadas nos embargos.
+3. Está claro, assim, que nenhuma das questões ventiladas no recurso especial foi objeto de debate e decisão pelo Tribunal de origem, circunstância que torna inadmissível o recurso, ante a falta do indispensável prequestionamento.
+4. Com efeito, a falta de debate pela instância ordinária inviabiliza o conhecimento do especial por ausência de prequestionamento.
+5. De fato, na hipótese, houve apresentação de embargos de declaração no Tribunal a quo para sanar possível omissão. Deveria a parte, se essa persistisse, ter fundamentado seu recurso no art. 535 do CPC, o que não foi feito na presente demanda, estando patente a ausência de prequestionamento acerca da matéria em questão. (AgRg no REsp n. 1.107.521/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2015.)
+Ainda que assim não fosse, a recorrente limita-se a suscitar o enriquecimento ilícito da recorrida e a abusividade da cláusula fundada na lei do distrato, e deixa de impugnar o fundamento do acordão recorrido no sentido de "o contrato havia de observar a disciplina tratada na legislação vigente à época da contratação, ou seja, o artigo 32-A da Lei 6.766/79, incluído pela citada Lei 13.786/2018" (fl. 207).
+Tal fato atrai a incidência da Súmula n. 283/STF, segundo a qual:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÕES. AUSÊNCIA. RESILIÇÃO CONTRATUAL UNILATERAL. EXTENSÃO DO CONTRATO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 7 DO STJ. SÚMULA 283 DO STF.
+1. Na hipótese dos autos, deve ser afastada a existência de vício no acórdão recorrido, pois as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+2. No que diz respeito à tese calcada no parágrafo único do art. 473 do Código Civil, tem-se, no ponto, inviável o debate, pois não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+3. Verificar, na hipótese concreta, se houve ou não resilição abrupta do contrato apta a gerar prejuízo às partes, demandaria o reexame de fatos e provas, o que é vedado pelo enunciado da Súmula 7 do STJ.
+4. A ausência de impugnação direta, inequívoca e efetiva aos fundamentos do acórdão recorrido, fato que, por si só, é suficiente para a subsistência do decisum, atrai a incidência, por analogia, da Súmula 283/STF.
+5. Nas razões do agravo interno, a parte agravante não impugna a incidência, na espécie, da Súmula 283 do STF.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.060.743/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA. LEI 13.786/2018. ALEGAÇÃO DE ABUSIVIDADE DAS CLÁUSULAS CONTRATUAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE NO ACÓRDÃO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
