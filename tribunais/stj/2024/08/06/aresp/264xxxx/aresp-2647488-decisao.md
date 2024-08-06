@@ -1,0 +1,107 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BOMPREÇO SUPERMERCADOS DO NORDESTE LTDA. (BOMPREÇO) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 704/712).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, BOMPREÇO alegou ofensa aos arts. 10, 11, 355, 357, 373, 489, § 1º, IV e 1.022, II, todos do NCPC. Sustentou que (1) o aresto recorrido foi omisso, porque não se manifestou sobre a necessidade de produção de novas provas, considerando a controvertida validade do pagamento; (2) foi proferida decisão surpresa, pois os documentos bancários juntados são hábeis a comprovar o pagamento da dívida ora cobrada; e, (3) ocorreu o cerceamento de defesa, em virtude do julgamento antecipado da lide.
+Foram apresentadas contrarrazões (e-STJ, fls. 676/684).
+Quanto à eventual assertiva de existência de omissão no aresto recorrido
+BOMPREÇO alegou ofensa aos arts. 11, 489, § 1º, IV e 1.022, II, do NCPC. Sustentou que o aresto recorrido foi omisso, porque não se manifestou sobre a necessidade de produção de novas provas, considerando a controvertida validade do pagamento.
+Sobre o tema, a Corte local consignou:
+Inicialmente, entendo que a preliminar de nulidade da sentença confunde-se com o mérito deste recurso, de tal sorte que, sumariamente, rejeito tal arguição.
+Na origem, cuida-se de ação monitória em que visa a autora/apelada compelir à ré/apelante ao pagamento de débito referente a notas fiscais de mercadorias fornecidas pela autora/apelada, bastando para propositura de referida ação prova escrita sem eficácia de título executivo.
+No caso em tela, a parte apelada juntou notas fiscais que demonstram a entrega das mercadorias, além de protestos dos referidos documentos (fls. 17/21 e 35/43).
+O apelante alega que realizou pagamento dos valores cobrados pela parte apelante, juntando planilhas e comprovantes de pagamento emitidos pelo Banco Citybank, como se verifica às fls. 269/274 dos autos físicos.
+Ocorre, no entanto, que referidos documentos não tem o condão de comprovar o pagamento dos valores cobrados. É que não restou evidente que a parte apelada, de fato, recebera tais valores, além de que tais documentos não comprovam que os valores ali pagos se referem efetivamente aos valores contratados e cobrados pela parte apelada.
+Assim, não restou comprovado o pagamento da dívida cobrada.
+ ..
+Assim, em não restando comprovado o pagamento pela parte apelante, afasto a preliminar de nulidade da sentença (e-STJ, fls. 625/626).
+E nos embargos de declaração, veja-se:
+Como se vê, nos termos do acórdão ora impugnado, entendeu a 2" Câmara Cível no seguinte sentido:
+"Ocorre, que referidos documentos não tem o condão de comprovar o pagamento dos valores cobrados. É que não restou evidente que a parte apelada, de fato, recebera tais valores, além de que tais documentos não comprovam que os valores ali pagos se referem efetivamente aos valores contratados e cobrados pela parte apelada."
+Quanto à preliminar de nulidade da sentença por suposto cerceamento de defesa, o acórdão entendeu que a mesma "confunde-se com o mérito do recurso".
+A propósito, observa-se que, em documento de ID. Num. 1610030, fls. 67, o juízo de primeiro grau exarou o seguinte despacho, verbis:
+"Vistos, etc.
+O caso comporta o julgamento antecipado do feito por se tratar de matéria exclusivamente de direito.
+Desta feita, intime-se a parte autora para, em 10 (dez) dias, efetuar o pagamento das custas de preparo e baixa.
+Após, retornem-me os autos conclusos para sentença"
+Pois bem, como é sabido, sendo o juiz destinatário da prova, cabe a este decidir se as provas já carreadas aos autos são suficientes ao julgamento da lide, indeferindo, nesse caso, aquelas que entende desnecessárias ou protelatórias, e avançar no julgamento da lide, como efetivamente foi feito, disso não importando em nulidade.
+ ..
+Na hipótese, a despeito dos argumentos lançados em torno da necessidade de produção de outras provas, fica evidente, no contexto narrado, sua inutilidade para o desfecho da demanda.
+No caso, o juízo de origem se limitou a analisar a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência de comprovação do pagamento.
+Desse modo, não há que se falar em cerceamento de defesa, tampouco em nulidade da decisão guerreada por cerceamento de defesa (e-STJ, fls. 650/652).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJPI emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido que os documentos apresentados pelo ora agravante não foram considerados hábeis a comprovar o pagamento dos valores cobrados. Ademais, ficou destacado que se procedeu ao julgamento antecipado da lide, pois chegou-se à conclusão de que se tratava do debate de matéria exclusivamente de direito e que o juiz, como destinatário da prova, poderia indeferir a produção de outras provas desnecessárias ou protelatórias na hipótese.
+Ficou assentado, ainda, que o juiz, ao analisar os elementos fáticos, entendeu pela ausência de demonstração do pagamento.
+O que se vê, na verdade, é a irresignação de BOMPREÇO com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto nos arts. 11, 489 e 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados nos mencionados artigos.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+Da alegação de ocorrência de decisão surpresa
+BOMPREÇO alegou ofensa ao art. 10 do NCPC. Sustentou que foi proferida decisão surpresa, pois os documentos bancários juntados são hábeis a comprovar o pagamento da dívida ora cobrada.
+Nesse contexto, segundo a jurisprudência do STJ, não se pode falar na ocorrência de decisão surpresa quando o julgador, analisando os fatos, o pedido e a causa de pedir, bem ainda os documentos que instruem a demanda, aplica o posicionamento jurídico que considera adequado para a solução da lide.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182 DO STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DECISÃO-SURPRESA. NÃO OCORRÊNCIA. UTILIZAÇÃO DOS DOCUMENTOS JUNTADOS NA DEMANDA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A parte recorrente realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial.
+Decisão da Presidência desta Corte Superior reconsiderada.
+2. Nos termos da jurisprudência do STJ, "não configura julgamento ultra petita ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial" (AgInt no AREsp 1.190.917/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 27/11/2018, DJe de 6/12/2018).
+3. "Descabe falar em decisão surpresa quando o julgador, analisando os fatos, o pedido e a causa de pedir, bem ainda os documentos que instruem a demanda, aplica o posicionamento jurídico que considera adequado para a solução da lide" (AgInt nos EDcl no AREsp 1.186.144/RS, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 7/6/2021, DJe de 11/6/2021).
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.438.550/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/4/2024, DJe de 2/5/2024)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. DECISÃO SURPRESA. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste violação ao princípio da vedação à decisão surpresa quando o julgador aprecia o feito com base nas informações retiradas dos fatos, do pedido e da causa de pedir.
+2. Infirmar as conclusões da instância originária a fim de verificar o preenchimento dos requisitos previstos no art. 585, inciso II, do CPC/1973, ensejaria o revolvimento do conjunto fático-probatório dos autos, bem como a reinterpretação de cláusulas contratuais, providências que esbarram no óbice das Súmulas n. 5 e 7/STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AgInt no AREsp n. 2.241.160/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+RECURSOS ESPECIAIS. PROCESSUAL CIVIL. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NOTAS PROMISSÓRIAS PRO SOLVENDO. CONTRATO. CLÁUSULA ARBITRAL. JULGAMENTO EXTRA PETITA. DECISÃO SURPRESA. NÃO OCORRÊNCIA. JULGAMENTO VIRTUAL. OPOSIÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIAS SUBSTANCIAIS. JUÍZO ESTATAL. INCOMPETÊNCIA. ARBITRAGEM. NÃO INSTAURAÇÃO. EXECUÇÃO. PROSSEGUIMENTO.
+1. A questão controvertida resume-se a definir (i) se o julgamento virtual pode se realizar apesar da oposição das partes e sem prévia intimação acerca da inclusão do processo em pauta; (ii) se a prestação jurisdicional foi falha; (iii) se o acórdão recorrido extrapolou os limites da lide e incorreu em decisão surpresa; (iv) se a execução poderia ficar suspensa antes da instauração da arbitragem e sem garantia e (v) se a execução deveria ser extinta diante da inexigibilidade dos títulos.
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF.
+3. Não caracteriza decisão surpresa a matéria inserta no âmbito do desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente.
+4. Na execução de notas promissórias pro solvendo, é possível ao executado apresentar defesa relativa ao próprio cumprimento do contrato ao qual os títulos estão atrelados.
+5. A existência de cláusula arbitral não impede a execução de título executivo extrajudicial. Nesse caso, os embargos à execução e a objeção de pré-executividade estarão limitados às questões processuais, enquanto as matérias substanciais deverão ser decididas no Juízo arbitral.
+6. A existência do crédito e todas as alegações relativas ao contrato somente poderão ser analisadas no procedimento arbitral que fará as vezes do processo incidental de embargos do executado. Não instaurada a arbitragem, a execução deve prosseguir.
+7. Recurso especial de Nordic Power Partners P/S conhecido parcialmente e, nessa extensão, provido. Recurso especial de Rio Alto Energia Empreendimentos e Participações Ltda. prejudicado.
+(REsp n. 2.108.092/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/4/2024, DJe de 23/4/2024)
+Quanto à alegada configuração do cerceamento de defesa
+BOMPREÇO alegou ofensa aos arts. 355, 357 e 373, todos do NCPC. Sustentou que ocorreu o cerceamento de defesa, em virtude do julgamento antecipado da lide.
+Nesse contexto, o Tribunal estadual, soberano na análise do contexto fático-probatório, concluiu pela não ocorrência do cerceamento de defesa, considerando ser possível o julgamento antecipado da lide, por estar em debate questão exclusivamente de direito.
+Por isso, conforme se nota, o TJPI assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito, confiram-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. PRODUÇÃO DE PROVAS E CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 7/STJ. NATUREZA JURÍDICA DA DEMURRAGE. INCIDÊNCIA DA SÚMULA 83/STJ. ELEIÇÃO DO FORO. ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. Inexistente a alegada violação dos arts. 489 e 1.022 do CPC, visto que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+2. Nos termos da jurisprudência pacífica desta Corte, cabe ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado. Não obstante, o entendimento desta Corte é firme no sentido de que a aferição acerca da necessidade de produção de prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice erigido pela Súmula n. 7/STJ.
+3. Não configura cerceamento de defesa o julgamento antecipado da lide nas hipóteses em que o Tribunal de origem considera o feito devidamente instruído, reputando desnecessária a produção de provas adicionais para a decisão por se tratar de matéria eminentemente de direito ou de fato já comprovado documentalmente, como é o caso das autos. Precedentes
+4. Verifica-se que o Tribunal de origem decidiu no mesmo sentido da jurisprudência desta Corte, no sentido de que as demurrages têm natureza jurídica de indenização, e não de cláusula penal, sendo necessária, apenas, a comprovação da mora na devolução dos containers. Precedentes. Incidência da Súmula 83/STJ.
+5. Rever o entendimento do Tribunal de origem, a fim de se entender pela abusividade da cláusula de eleição de foro, como pretende a parte agravante, demandaria o revolvimento de fatos e provas, bem como a interpretação de cláusulas contratuais, o que atrai os óbices das Súmulas 5/STJ e 7/STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.369.326/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/6/2024, DJe de 27/6/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. RESTRIÇÕES À EXPLORAÇÃO DE ATIVIDADE COMERCIAL NO IMÓVEL. CONSULTA PRÉVIA. DEVER DA LOCATÁRIA. REEXAME. SÚMULA 5/STJ. ALEGAÇÃO DE NULIDADE. DOLO DA LOCADORA. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A iterativa jurisprudência desta eg. Corte é no sentido de que não se configura cerceamento de defesa quando o eg. Tribunal de origem entender adequadamente instruído o feito, declarando a prescindibilidade de dilação probatória.
+2. Na espécie, o Tribunal de origem manteve a improcedência dos pedidos dos embargos à execução, anotando que, nos termos de cláusula expressa do contrato de locação comercial, era dever do locatário, e não do locador, verificar a existência de restrições à exploração de determinadas atividades empresariais no imóvel. A reforma desse entendimento demandaria nova interpretação das cláusulas do contrato, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 5 deste Pretório.
+3. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.487.516/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/6/2024, DJe de 27/6/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. RESPONSABILIDADE DA TRANSPORTADORA PELOS DANOS CAUSADOS A PARTE AUTORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. ALEGAÇÃO. AFASTAMENTO. 4. DANO MORAL E ESTÉTICO. REVISÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. DANOS MORAIS E ESTÉTICOS. CUMULAÇÃO. POSSIBILIDADE. SÚMULA 387/STJ. 6. TERMO INICIAL. CORREÇÃO MONETÁRIA. DATA DO ARBITRAMENTO. 7. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Esta Corte Superior entende que "o destinatário final da prova é o juiz, a quem cabe avaliar quanto a sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015" (AgInt no REsp n. 1.931.678/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 21/11/2023, DJe de 23/11/2023).
+2.1. A revisão da conclusão da instância originária acerca da não ocorrência de cerceamento de defesa esbarra na Súmula 7/STJ.
+3. A desconstituição da convicção estadual, para concluir que não estariam presentes os elementos configuradores do dever de indenizar, demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência da Súmula n. 7/STJ, não sendo caso de revaloração de prova.
+4. Relativamente ao valor arbitrado por danos morais e estéticos, dispõe a jurisprudência do Superior Tribunal de Justiça que a alteração do valor estabelecido pelas instâncias ordinárias só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo, o que não se constatou no caso em análise.
+5. Ressalte-se que, a jurisprudência do Superior Tribunal de Justiça é enfática em permitir a cumulação das indenizações de dano moral com o estético, entendimento este consolidado, inclusive, na Súmula 387/STJ.
+6. A correção monetária das importâncias fixadas a título de danos morais incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+7. Agravo interno improvido.
+(AgInt no REsp n. 2.036.463/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024)
+Nessas condições, CONHEÇO do agravo para CONHECER em parte, do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de BOMPREÇO, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ARTS. 11, 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. DECISÃO SURPRESA. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, NÃO PROVIDO.
