@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA FRANCELIA DA SILVA SCHMIDT contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+AGRAVO INTERNO. ARTIGO 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ACÓRDÃO DO TCU. PRESCRIÇÃO. RECURSO NÃO PROVIDO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 1.022 do CPC, no que concerne à negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, a parte recorrente alega violação dos arts. 8º e 9º do Decreto n. 20.910/1932, no que concerne à ocorrência de prescrição, levando-se em conta que "a prescrição apenas se interrompe uma vez, e recomeça a correr pela metade do prazo, nos termos do Decreto nº20.910/32" (fls. 742), trazendo a seguinte argumentação:
+No caso em questão, o acórdão não considerou que, como determina o Decreto nº 20.910/32, a prescrição só se interrompe uma vez e volta a correr pela metade.
+Isso porque houve a instauração de processo administrativo disciplinar nº 35366.002129-1999-56 e, após o término dos trabalhos no referido PAD, com a Publicação da Portaria de demissão nº 870, de27.03.2001(doc. id. 103658897 - Pág. 62) e apreciação do recurso em 2ª Instância em20.03.2002 foi lavrada em 14.03.2006 a Ata de Instauração da Tomada de Contas Especial nº35366.000489/2006-59, concluída em 19.06.2006 (doc.id. 103666251 - Pág. 51).
+Com o pronunciamento do Ministério da Previdência Social em 18.03.2010, os autos foram encaminhados ao Tribunal de Contas da União, na forma prevista no art. 71, inciso, II, da CF, para julgamento. O processo de tomadas de contas especial nº 008.295/2010-7 findou em 18.07.2012 com o acordão TCU executado na presente demanda.
+Ocorre que, como dito, há que se ressaltar que a prescrição apenas se interrompe uma vez, e recomeça a correr pela metade do prazo, nos termos do Decreto nº20.910/32:
+ ..
+Assim, ainda que se entenda pela interrupção da prescrição diante da instauração de Processo Administrativo ou mesmo do Processo de Tomada de Contas Especial, iniciado no ano de 2010, o certo é que, em 29/06/2016, quando ajuizada a presente ação de execução, a pretensão veiculada pela agravada já se encontrava completamente aniquilada pela prescrição.
+Em suma, a prescrição já restou configurada no caso em tela, pois os fatos apurados na tomada de contas especial ocorreram entre 1997 e 1999 e o Acórdão do TCU que ensejou a propositura da demanda originou-se de processo de tomadas de contas especial do ano de 2010. (fls. 742-743).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Quanto à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A r. Interlocutória foi proferida nos seguintes termos:
+ ..
+Dos marcos interruptivo da prescrição
+A documentação carreada aos autos pela parte exequente demonstra que houve a instauração de processo administrativo disciplinar e, após nº 35366.002129-1999-56 o término dos trabalhos no referido PAD, com a Publicação da Portaria de de 103658897 - Pág. 62) e apreciação do demissão nº 870, 27.03.2001(doc. id. recurso em 2ª Instância em foi lavrada em a Ata de 20.03.2002 14.03.2006, Instauração da Tomada de Contas Especial nº , concluída 35366.000489/2006-59 em (doc. id. 103666251 - Pág. 51). Com o pronunciamento do Ministério 19.06.2006 da Previdência Social em , os autos foram encaminhados ao Tribunal de 18.03.2010 Contas da União, na forma prevista no art. 71, inciso, II, da CF, para julgamento.
+O processo de tomadas de contas especial nº 008.295/2010-7 findou em 18.07.2012 com o acordão TCU executado na presente demanda, com o ajuizamento em 29.06.2016.
+Por todo o exposto tem-se que não se operou a alegada prescrição, considerando que há diversos marcos interruptivos da prescrição, consoante apurado.
+Tampouco se tem notícia de que tenha havido inércia superior a três anos por parte das autoridades administrativas encarregadas da investigação dos fatos, a ensejar o reconhecimento da prescrição intercorrente.
+ ..
+Assim, a r. interlocutória recorrida merece ser mantida em seu inteiro teor, nas exatas razões e fundamentos nela expostos, os quais tomo como alicerce desta decisão, lançando mão da técnica de motivação per relationem, amplamente adotada pelo Pretório Excelso e Superior Tribunal de Justiça (STF: ADI 416 AgR, Relator(a): (fls. 672-679, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
