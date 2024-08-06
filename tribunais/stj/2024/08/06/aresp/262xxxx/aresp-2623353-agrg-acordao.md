@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto por AUREO DE BRITO BARRETO contra a decisão proferida pela Presidência deste Superior Tribunal de Justiça - STJ à fl. 607, que não conheceu do recurso especial em razão da sua intempestividade, com fulcro no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+Em suas razões recursais (fls. 612/621), a defesa alega, inicialmente, que o recurso especial foi interposto tempestivamente, motivo pelo qual merece ser conhecido.
+Defende, ainda, a não incidência da Súmula n. 7 do STJ.
+Reitera, outrossim, a possibilidade de "impronunciar o agravante ou desclassificar o crime de feminicídio para lesão corporal" (fl. 620).
+Requer, assim, a reconsideração da decisão agravada ou o provimento do presente recurso pela Turma competente.
+O MINISTÉRIO PÚBLICO FEDERAL - MPF opinou pelo conhecimento do agravo regimental para desprover o recurso especial (fls. 635/639).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. INOBSERVÂNCIA DO PRAZO LEGAL DE 15 DIAS CORRIDOS. REGÊNCIA DO ART. 798 DO CÓDIGO DE PROCESSO PENAL - CPP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, do CPP" (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+2. Após a edição da Lei n. 13.105/2015, que alterou o Código de Processo Civil - CPC, estabelecendo o prazo de 15 dias para a interposição de todos os recursos nele previstos, com exceção dos embargos de declaração, a Terceira Seção desta Corte, no julgamento do AgRg na Reclamação n. 30.714/PB, solidificou o entendimento no sentido de que o regramento de contagem dos prazos em dias úteis não se aplica às controvérsias pertinentes à matéria penal ou processual penal. Aplicação de norma específica prevista no art. 798 do Código de Processo Penal - CPP.
+3. Registra-se, ainda que, "a partir de 3/6/2022, com a adição do art. 798-A, no CPP, passou-se a prever, também na justiça criminal, a suspensão do curso do prazo processual no período compreendido entre 20 de dezembro e 20 de janeiro, inclusive, salvo nos casos especificados pelo legislador" (AgRg no AREsp n. 1.880.986/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+4. Na hipótese, o acórdão que julgou os embargos de declaração opostos pela defesa foi publicado no dia 20/12/2023. Nesse contexto, considerando que o acusado se encontra em liberdade, bem como em observância à suspensão dos prazos processuais disposta no art. 798-A do CPP, o prazo de 15 dias corridos para a interposição do recurso especial começou a correr no dia 22/1/2024, findando-se em 5/2/2024, razão pela qual, de fato, é manifestamente intempestivo o apelo nobre interposto somente no dia 19/2/2024.
+5. Agravo regimental desprovido.
+VOTO
+Não obstante o empenho do agravante, a decisão deve ser mantida.
+Nos termos dos arts. 994, VI e VIII e 1.003, § 5º, 1.042, caput, todos do Código de Processo Civil - CPC, c.c. o art. 798 do Código de Processo Penal - CPP, o prazo para interposição do recurso especial é de 15 dias contínuos.
+Outrossim, após a edição da Lei n. 13.105/2015, que alterou o Código de Processo Civil - CPC, estabelecendo o prazo de 15 dias para a interposição de todos os recursos nele previstos, com exceção dos embargos de declaração, a Terceira Seção desta Corte, no julgamento do AgRg na Reclamação n. 30.714/PB, solidificou o entendimento no sentido de que o regramento de contagem dos prazos em dias úteis não se aplica às controvérsias pertinentes à matéria penal ou processual penal. Desse modo, deve ser observada a aplicação de norma específica prevista no art. 798 do CPP.
+Registra-se, ainda que, "a partir de 3/6/2022, com a adição do art. 798-A, no CPP, passou-se a prever, também na justiça criminal, a suspensão do curso do prazo processual no período compreendido entre 20 de dezembro e 20 de janeiro, inclusive, salvo nos casos especificados pelo legislador" (AgRg no AREsp n. 1.880.986/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+Na hipótese dos autos, verifica-se que o acórdão que julgou os embargos de declaração defensivos foi disponibilizado no Diário de Justiça Eletrônico do Poder Judiciário do Estado da Bahia em 19/12/2023, sendo considerado publicado no dia 20/12/2023.
+Nesse contexto, considerando que o agravante se encontra em liberdade, bem como em observância à suspensão dos prazos processuais disposta no art. 798-A do CPP, o prazo de 15 dias corridos para a interposição do recurso especial começou a correr em 22/1/2024 (segunda-feira), findando-se em 5/2/2024 (segunda-feira), razão pela qual é manifestamente intempestivo o apelo nobre interposto somente no dia 19/2/2024 (fls. 474).
+Para corroborar este entendimento, citam-se precedentes (grifo nosso):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL E DO AGRAVO EM RECURSO ESPECIAL. INOBSERVÂNCIA DO PRAZO LEGAL DE 15 DIAS CORRIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, d o CPP" (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+1.1. Denota-se que a publicação do acórdão proferido pelo Tribunal de origem ocorreu no dia 1º/12/2022, de modo que o prazo para interposição do recurso especial teve início em 2/12/2022 e término em 16/12/2022. Todavia, o apelo nobre foi interposto somente em 23/1/2023, quando já ultrapassado o prazo legal, sendo manifesta a sua intempestividade.
+1.2. Além disso, infere-se que a decisão que inadmitiu o seu recurso especial foi publicada em 4/4/2023, de modo que o prazo para interposição do agravo em recurso especial teve início em 5/4/2023 e término em 19/4/2023. Contudo, o respectivo agravo foi interposto somente em 20/4/2023.
+1.3. Nessa medida, ultrapassado os prazos para a interposição dos recursos, há de se reconhecer as suas intempestividades.
+2. Não se olvida que a Corte Especial deste Sodalício fixou o entendimento no sentido de que "A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022).
+2.1. Entretanto, "Para a comprovação de possível indução a erro na contagem do prazo processual, é indispensável que haja nos autos documento que comprove a alegação da parte, como a indicação, na própria certidão de intimação, do prazo recursal fixado pelo Tribunal de origem. A apresentação de prints de tela ou a imagem de página extraída da internet e inserida na petição do recurso não são suficientes para se concluir que houve falha na prestação da informação pelo Tribunal" (AgRg no AREsp n. 2.354.546/BA, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.395.355/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/4/2024, DJe de 5/4/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL, O QUAL TERIA SIDO PROTOCOLIZADO EM AUTOS DIVERSOS. HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal. In casu, o recurso foi interposto após o transcurso do prazo legal, sendo, portanto, intempestivo.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.497.869/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024.)
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
