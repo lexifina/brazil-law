@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto pela UNIÃO (FAZENDA NACIONAL) contra decisão da Presidência do Superior Tribunal de Justiça que, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo para não conhecer do recurso especial (fls. 349-353).
+A parte agravante, no presente recurso, defende o conhecimento do recurso especial, bem como requer o sobrestamento do feito em razão do Tema Repetitivo n. 1239 do STJ.
+A parte recorrida apresentou impugnação às fls. 370-375.
+É o relatório.
+Decido.
+De início, diante dos argumentos expostos pela parte agravante, RECONSIDERO a decisão agravada (fls. 349-353), tornando-a sem efeito.
+Na espécie, o recurso especial, fundamentado nas alíneas a do permissivo constitucional, foi interposto contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO na Apelação Cível n. 1011483-13.2021.4.01.3200 e assim ementado (fls. 260-261):
+CONSTITUCIONAL, TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PIS E COFINS. ISENÇÃO SOBRE RECEITAS DECORRENTES DA PRESTAÇÃO DE SERVIÇOS REALIZADA PARA PESSOAS JURÍDICAS E FÍSICAS NO ÂMBITO DA ZONA FRANCA DE MANAUS - ZFM. POSSIBILIDADE. ART. 4º DO DL 288/1967. JURISPRUDÊNCIA DO STJ E DESTE REGIONAL. PRESCRIÇÃO QUINQUENAL. COMPENSAÇÃO. LEGISLAÇÃO VIGENTE À ÉPOCA DO ENCONTRO DE DÉBITOS E CRÉDITOS. ATUALIZAÇÃO MONETÁRIA. MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL. APELAÇÃO PROVIDA.
+1. Válida a aplicação do prazo prescricional de 5 (cinco) anos da Lei Complementar 118/2005 às ações ajuizadas a partir de 09/06/2005 (RE 566.621/RS, STF, Tribunal Pleno, Rel. Min. Ellen Gracie, repercussão geral, maioria, DJe 11/10/2011).
+2. As operações com mercadorias destinadas à Zona Franca de Manaus são equiparadas a exportação para efeitos fiscais (art. 4º do DL 288/1967), não devendo incidir sobre elas o PIS e a COFINS. Precedentes.
+3. "O benefício fiscal também alcança as empresas sediadas na própria Zona Franca de Manaus que vendem seus produtos para outras na mesma localidade. Interpretação calcada nas finalidades que presidiram a criação da Zona Franca, estampadas no próprio DL 288/67, e na observância irrestrita dos princípios constitucionais que impõem o combate às desigualdades sócio-regionais" (REsp 1.276.540/AM, STJ, Segunda Turma, Rel. Min. Castro Meira, unânime, DJe 05/03/2012).
+4. O benefício fiscal estende-se às operações realizadas com pessoas físicas e jurídicas no âmbito da Zona Franca de Manaus. Precedentes deste TRF.
+5. A contribuição para o PIS e para a COFINS não deve incidir sobre as receitas decorrentes da prestação de serviços no âmbito da ZFM. Precedentes deste TRF1.
+6. A compensação deve ser realizada conforme a legislação vigente na data do encontro de contas e após o trânsito em julgado, tendo em vista o disposto no art. 170-A do CTN (REsp 1.164.452/MG, julgado na sistemática do art. 543-C do CPC/1973).
+7. Atualização monetária do indébito nos termos do Manual de Cálculos da Justiça Federal.
+8. Apelação provida.
+As respectivas razões alegaram violação dos arts. 1.022, parágrafo único, inciso II, e 489, § 1º, inciso IV, do CPC/2015, por entender que o acórdão padece de omissões não sanadas, a despeito da oposição de aclaratórios; 110, 111, 175, 176 e 177 do CTN; 2º, § 1º, da Lei n. 10.996/04; e 5º-A da Lei n. 10.637/02.
+Com efeito, verifico que a matéria de fundo veiculada no presente recurso será julgada dentro da sistemática dos recursos repetitivos - definir se o PIS e a COFINS incidem sobre as receitas decorrentes de vendas de mercadorias de origem nacional, realizadas a pessoas físicas situadas dentro da área abrangida pela Zona Franca de Manaus -, no Tema n. 1239 do STJ.
+Há determinação da suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, inciso II, do CPC/2015).
+Assim, por medida de economia processual e para evitar decisões dissonantes, orienta-se que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim o juízo de conformação, hoje disciplinado no art. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal de origem.
+Ante o exposto, reconsiderada a decisão de fls. 349-353, DETERMINO A IMEDIATA DEVOLUÇÃO DOS AUTOS ao Tribunal de origem para que, após a publicação do acórdão a ser proferido no recurso repetitivo e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) seja realizado o juízo de retratação, caso o acórdão impugnado divirja da decisão sobre o tema objeto da afe tação.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. TRIBUTÁRIO. TEMA REPETITIVO N. 1239 DO STJ. DEVOLUÇÃO DOS AUTOS, COM A RESPECTIVA BAIXA, AO TRIBUNAL DE ORIGEM.
