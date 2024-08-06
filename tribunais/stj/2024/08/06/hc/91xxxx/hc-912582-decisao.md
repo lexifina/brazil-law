@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FÁBIO SOARES NEPOMUCENO, contra acórdão proferido pela 14ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que negou provimento ao agravo em execução (autos n. 0022034-40.2023.8.26.0041). Eis o relatório do julgado (fl. 44):
+"Trata-se de agravo em execução interposto por Fábio Soares Nepumeceno contra a respeitável decisão do Juízo das Execuções, datada de 27 de outubro de 2023, que, em relação ao processo nº 0078303-54.2001.8.26.0564, indeferiu pedido de aplicação da Lei nº 12.850/2013, mais benéfica, que alterou a redação do parágrafo único do artigo 288 do Código Penal, reduzindo o aumento de pena previsto para metade.
+Pugna pela redução da pena fixada, pois se trata de aplicação de lei mais benéfica novatio legis in mellius (fls. 1/6).
+O recurso foi devidamente contrariado (fls.32/33). Contaram os autos com decisão mantenedora em sede de juízo de retratação (fls. 34) e parecer da douta Procuradoria-Geral de Justiça pelo não provimento do recurso (fls. 43/45)".
+Consta dos autos que o paciente foi condenado, definitivamente, ao cumprimento de 21 anos de reclusão, em regime fechado, como incurso no artigo 159, § 1º, e no artigo 288, parágrafo único, na forma do artigo 69, todos do Código Penal.
+Extraiu-se, ainda, que o Juízo das Execuções indeferiu pedido de aplicação da Lei n. 12.850/2013, mais benéfica, que alterou a redação do parágrafo único do artigo 288 do Código Penal. Inconformada, a defesa interpôs agravo em execução, o qual foi desprovido pela Corte de origem (fls. 43-46).
+Daí a impetração deste writ, no qual sustenta a defesa que o paciente foi condenado como incurso no parágrafo único do art. 288 do CPP, ressaltando-se que a pena foi aplicada em dobro com base no referido parágrafo único.
+Aduz que a causa de aumento relativa à associação armada não foi aplicada de forma clara e concreta, destacando-se que "a majorante deve ser aplicada na 3ª fase da dosimetria penal, contudo, é nítido que foi aplicada equivocadamente na 1ª fase da dosimetria penal" (fl. 7).
+Defende que, com o advento da Lei n. 12.850/2013, houve a mudança da redação do parágrafo único do art. 288 do CP, o qual passou a prever que, em casos de associação armada, a pena poderá ser aumentada até a metade. Frisa que a legislação antiga, pela qual respondeu o paciente, previa que a pena seria dobrada.
+Argumenta que a lei penal mais benéfica deve retroagir para beneficiar o paciente.
+Requer, liminarmente e no mérito, seja aplicada a lei penal mais benéfica ou que seja recomendado ao Juízo das Execuções que realize referida aplicação, a fim de que a pena do paciente seja reduzida.
+A liminar foi indeferida (fls. 53-55).
+As informações foram prestadas (fls. 61-70 e 73-76).
+O Ministério Público Federal se manifestou pelo não conhecimento ou denegação da ordem, nos termos da seguinte ementa (fl. 79):
+"HABEAS CORPUS. CRIME DE FORMAÇÃO DE QUADRILHA ARMADA - ATUAL ASSOCIAÇÃO CRIMINOSA ARMADA (ART. 288, PAR. ÚN., DO CP). CONDENAÇÃO TRANSITADA EM JULGADO. AGRAVO EM EXECUÇÃO A QUE SE NEGOU PROVIMENTO. WRIT QUE OBJETIVA A APLICA ÇÃO DA NOVA REDAÇÃO DADA AO ART. 288, PAR. ÚN., DO CP PELA LEI 12.850/13, POR SE TRATAR DE NOVO REGRAMENTO MAIS BENÉFICO AO RÉU. CONSTATAÇÃO DE QUE NÃO FOI APLICADA, NA SENTENÇA, A MAJORANTE DO CRIME DE QUADRILHA ARMADA. HABEAS CORPUS SUCEDÂNEO DE RECURSO PRÓPRIO. AUSENTE TERATOLOGIA OU FLAGRANTE ILEGALIDADE. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS. CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM".
+É o relatório. Decido.
+Consoante relatado, busca a defesa que seja aplicada a lei penal mais benéfica ou que seja recomendado ao Juízo das Execuções que realize referida aplicação, a fim de que a pena do paciente seja reduzida.
+Acerca das controvérsias, assim constou da sentença (fls. 21-22):
+"Reconhecida a culpabilidade, passo a aplicação da pena.
+Quanto ao crime de extorsão mediante seqüestro, mister considerar as conseqüências do delito. Foram 10 dias de martírio em que as vítimas ficaram a mercê de seus algozes. Submetidas a pressão psicológica contínua e até agressões físicas. De outra parte, deve ser levado em conta a situação da família que viu entes queridos serem arrancados de seu salutar convívio. Ninguém ao certo sabia o que estava por ocorrer. Evidente o trauma psicológico imposto não só às ofendidas, duas menores de idade, como também aos familiares. E vale repisar que o crime foi amplamente planejado, haja vista os detalhes que os agentes detinham sobre o dia-a-dia das vítimas. Palpável, pois, a intensidade do dolo, a periculosidade dos agentes envolvidos. Ademais, a extensa folha de antecedentes de cada um dos réus é clara demonstração de conduta social inadequada, voltada a reiterada prática de crimes.
+Trata-se até aqui de circunstâncias judiciais em relação a todos os réus.
+Posto isso, estabeleço a pena dos réus com aumento da pena base pela metade, totalizando 18 anos de reclusão.
+Na segunda fase, deve ser reconhecida a atenuante de confissão policial do réu Durval e até a atenuante genérica em evitar que as vítimas sofressem maiores agressões. Diminuo a pena em 1/5, totalizando 14 anos, 04 meses e 24 dias de reclusão.
+Deixo de considerar a reincidência dos réus, eis que seu passado criminoso foi utilizado como conduta social inadequada na primeira fase.
+Não há outras considerações a fazer quanto a pena da extorsão mediante seqüestro.
+Quanto ao crime de quadrilha armada, revelando-se a conduta social negativa dos réus, propriamente pela folha de antecedentes anexadas aos autos, e verificando-se a extrema organização com o emprego de veículos, telefones, o uso de dois cativeiros, o que certamente demonstra o acentuado poderio criminoso da hora, elevo a pena base, fixando-a em 03 anos de reclusão.
+E tão somente, na segunda fase, deve ser reconhecida a atenuante de confissão do réu Durval, diminuindo-se o patamar de 1/6, totalizando 02 anos e o6 meses de reclusão.
+Cumprirá Durval a pena de 16 anos, 10 meses e 24 dias de reclusão e o restante dos réus a pena de 21 anos de reclusão.
+Não há outras considerações a fazer. Os réus, até pela extensão da reprimenda, não merecem qualquer beneficio.
+Diante do exposto, julgo parcialmente procedente o pedido da presente ação penal para Condenar Durval Basilio da Cruz, qualificado nos autos, ao cumprimento de 16 anos, 10 meses e 24 dias de reclusão por ter infringido o art.159, § 1º e art. 288, § único, na forma do art. 69, todos do Código Penal; Condenar Fábio Soares Nepomuceno, Márcio Lima da Silva e Eduardo Alves Neves, qualificados nos autos, ao cumprimento de 21 anos de reclusão por terem infringido o art. 159, § 1º e art. 288, § único, na forma do art.69, todos do Código Penal.
+Inicialmente os réus cumprirão a pena imposta ao crime hediondo integralmente em regime fechado, conforme determinação legal".
+Assim constou do acórdão recorrido (fls. 45-46):
+"O agravante foi condenado, definitivamente, ao cumprimento de 21 (vinte e um) anos de reclusão, em regime fechado, por incurso no artigo 159, § 1º, e artigo 288, parágrafo único, na forma do artigo 69, todos do Código Penal (fls. 7/16).
+No que se refere ao delito previsto no artigo 288, parágrafo único, do Código Penal, o sentenciado foi condenado ao cumprimento de 3 (três) anos de reclusão, nos seguintes termos: "Quanto ao crime de quadrilha armada, revelando-se a conduta social negativa dos réus, propriamente pela folha de antecedentes anexada aos autos, e verificando-se a extrema organização com o emprego de veículos, telefone, o uso de dois cativeiros, o que certamente demonstra o acentuado poderio criminoso da hora, elevo a pena base, fixando-a em 03 anos de reclusão" (fls. 15).
+É de se ver que, em que pese a indevida menção, não houve a incidência, na terceira fase da dosimetria, de qualquer aumento relativo ao parágrafo único do artigo 288 do Código Penal.
+Nesse contexto, incensurável a r. decisão combatida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interposto por Fábio Soares Nepumeceno, mantendo assim a respeitável decisão agravada, por seus próprios e jurídicos fundamentos".
+Com se vê, entendeu a Corte de origem que "em que pese a indevida menção, não houve a incidência, na terceira fase da dosimetria, de qualquer aumento relativo ao parágrafo único do artigo 288 do Código Penal" (fl. 45).
+De fato, analisando a sentença condenatória acima transcrita, apesar de ter sido indicado que o paciente foi condenado pela prática do art. 288, parágrafo único, do CP, não houve a aplicação da majorante do referido parágrafo, que previa o aumento da pena em dobro.
+Verifica-se que o único aumento da pena em relação ao crime de quadrilha ocorreu na primeira fase da dosimetria (art. 59 do CP), em razão da folha de antecedentes, da extrema organização com o emprego de veículos e telefones e do uso de dois cativeiros, nada se relacionando com a causa de aumento supramencionada.
+Portanto, em que pese as alegações defensivas, não há que se falar em aplicação de lei mais benéfica que alterou a causa de aumento prevista no parágrafo único do art. 288 do CP, pois tal majorante sequer foi aplicada no caso em apreço.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
