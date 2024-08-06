@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARTA GRACIELA AREVALO LOPES BRAGA (MARTA) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, MARTA alegou violação dos arts. 1022, II, do CPC e art. 1º, caput, da Lei n. 8.009/90, ao sustentar que (1) embora instado por meio de embargos de declaração, o Tribunal distrital se manteve omisso quanto ao fato de que "para efeito de proteção da impenhorabilidade do bem de família, é desnecessário comprovar a imprescindibilidade do valor percebido com o aluguel do imovel do casal para o custeio da atual moradia da família; e, (2) "a correta interpretação do caput do art. 1º da Lei nº 8.009/1990 é a de que, no caso de locação do único imóvel residencial da família, tanto o imóvel quanto a renda obtida com essa locação são impenhoráveis se for comprovado que o devedor mora de aluguel em outro local."; e, (3) "não é cabível a penhora sequer de metade do imóvel nem de metade da renda obtida com a locação desse imóvel, sob pena de frustrar o espírito protetivo da impenhorabilidade do bem de família".
+(1) Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, MARTA alegou a violação do art. 1.022, do NCPC em virtude da existência de omissão no julgado, notadamente quanto à impenhorabilidade dos valores recebidos com o aluguel do imóvel por ela locado, o qual se reverte para o pagamento da sua moradia em outro estado da federação.
+Contudo, verifica-se que o distrital se pronunciou sobre o tema consignando não ser impenhorável o imóvel discutido nos autos, conforme se observa da razões a seguir encartadas.
+Confira-se:
+ ..  o presente recurso não possui, pois, como regra, caráter substitutivo, modificador ou infringente quanto à decisão embargada, mas, sim, aspecto integrativo ou aclaratório. Não é matéria dos embargos de declaração,portanto, o inconformismo da parte com o resultado obtido.
+Assim, analisando o que dos autos consta, bem como os fundamentos do acórdão, é possível antever a intenção da embargante de rediscutir a matéria analisada por este Colegiado, o que não se revela admissível, mormente porque o acórdão embargado fundamentou com propriedade o fato de que a agravante, ora embargante, não se desincumbiu do ônus decomprovar a alteração fática no sentido de que o valor obtido com o aluguel do bem de propriedade do casal está sendo revertido para o custeio da moradia atual ou sustento de sua família, não havendo, portanto que se falar na incidência do disposto na Súmula 486 do STJ.
+O julgamento embargado também ressaltou que o provimento do AGI07335999-48.2022 para sobrestar os atos de expropriação do imóvel do casalaté o julgamento dos embargos deterceiro, não adentrou na análise daquestão relacionada a impenhorabilidade e/ou indivisibilidade do bem defamília, pois este ateve-se apenas a análise da presença dos requisitosnecessários para a concessão da antecipação de tutela pleiteada, a fim de nãolevar adiante os atos expropriatórios enquanto não houvesse o julgamento dosembargos de terceiro.
+Ademais, houve menção expressa no julgado de que a determinação dapenhora dos aluguéis foi no sentido de recair apenas no percentual de 50%sobre o valor dos aluguéis, correspondente à meação da parte executada, não existindo qualquer óbice legal em relação à constrição efetivadacorrespondente à metade do valor percebido dos aluguéis pela devedoraexecutada, diante da conclusão de que não se tratam de valoresimpenhoráveis.
+Destarte, o acórdão embargado ressaltou a inexistência de qualquerincomodo relacionado ao locatário quanto a intimação para depositar metadedo valor dos aluguéis, pois além de existir previsão legal a respeito de suaintimação, este pode fazer o deposito judicial mensal dos valores através deguia de depósito emitida diretamente no site do próprio TJDFT.
+ .. .
+Portanto, diferentemente do que alega a embargante, o acórdão evidenciou os motivos pelos quais rejeitou as alegações apresentadas em suas razões recursais. Não houve, portanto, qualquer omissão ou incoerência entre os fundamentos expostos e a conclusão do julgado.
+Destarte, a simples pretensão de revisão do julgamento, sob o prisma mais favorável ao recorrente, não encontra amparo nas disposições do art.1.022 do Código de Processo Civil, já citado acima.
+ ..
+Assim, inexistem as omissões e/ou contradições apontadas pela parte embargante, restando evidente a intenção de valer-se dos embargos de declaração para revisar o julgamento e obter resultado diverso, o que é inadequado pela técnica processual. (e-STJ, fls; 896/ /923).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. AUSÊNCIA DE PROVAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. No caso dos autos, o Tribunal de origem concluiu pela ausência de comprovação de que o imóvel era impenhorável nos termos da Lei 8.009/1990. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência no caso em questão a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.030.272/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO C/C PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC.
+ .. .
+3. Derruir a afirmação contida no decisum atacado, que concluiu não restarem comprovados os requisitos para caracterizar o imóvel como sendo bem de família, a ensejar a impenhorabilidade, demandaria rediscussão de matéria fática, providência vedada em sede de recurso especial pela Súmula 7/STJ.
+ .. .
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.367.343/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+(2) Da incidência da Súmula n. 7 do STJ.
+MARTA afirmou a violação do art. 1º, caput, da Lei n. 8.009/90, sustentando ser incabível que a penhora do equivalente ao percentual de 50% correspondente à meação da executada recaia sobre os aluguéis pagos pelos inquilinos do imóvel de propriedade do casal.
+Sobre o tema o TJDFT consignou que não restou comprovado que os valores recebidos dos alugueis seriam revestidos à subsistência da família, e assim ser considerados impenhoráveis. Confira-se:
+ ..  Como as provas produzidas pela parte executada e seu marido, tanto nos autos do cumprimento de sentença quanto nos embargos de terceiro, não foram suficientes para demonstrar que o valor recebido com os aluguéis do imóvel é revertido para a subsistência da entidade familiar ou custeio da moradia da família, não há que se falar na impenhorabilidade de tais valores, não havendo que se falar na incidência do disposto no enunciado daSúmula nº 486 do STJ ao presente caso.  e-STJ, fls. 854/855 .
+Assim, rever as conclusões quanto à penhorabilidade dos aluguéis imóvel do casal demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+3. A revisão do acórdão, no sentido pretendido pela parte recorrente, exigiria derruir a convicção formada nas instâncias ordinárias sobre a não demonstração de que o imóvel se encontra protegido pela impenhorabilidade do bem família. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.858.705/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)  grifou-se .
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Deixo de majorar os honorários advocatícios, porque não fixados na origem.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE FRUTOS CIVIS DECORRENTES DE ALUGUEL. ART. 1022 DO NCPC. OMISSÃO NÃO CONFIGURADA. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA QUANTO À PENHORABILIDADE DO IMÓVEL. REJULGAMENTO DA CAUSA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
