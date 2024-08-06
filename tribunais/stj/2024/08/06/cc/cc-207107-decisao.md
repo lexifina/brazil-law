@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado por TRANSMEDICA UTI MOVEL E ASSISTÊNCIA MÉDICA LTDA., apontando como suscitados o r. juízo da 12ª Vara do Trabalho de Goiânia/GO, onde se processa a reclamação trabalhista n.º 0011013-94.2024.5.18.0012, ajuizada por JAQUELINE NUNES SOBRAL e a Justiça Comum Estadual.
+Em síntese, alega a suscitante que a interessada ajuizou, perante a Justiça do Trabalho, reclamatória trabalhista com o objetivo de reconhecer o vínculo trabalhista e o pagamento das verbas consectárias. Contudo, segundo alega a insurgente a competência para exame da questão é da Justiça Comum Estadual porquanto, segundo afirma, o que se discute é validade de contrato de prestação de serviços autônomos. Cita, em favor de sua tese, julgados deste STJ.
+Pede, em caráter liminar, a suspensão da ação trabalhista e, no mérito, a declaração de competência da Justiça Comum Estadual.
+É o relatório.
+Decisão.
+1. A teor do art. 66 do CPC/15, na mesma linha do codex de 1973 (art. 115), somente se pode falar em conflito de competência quando: "(..) I - 2 (dois) ou mais juízes se declaram competentes; II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência; III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos." O parágrafo único do referido dispositivo legal em epígrafe determina ainda que "o juiz que não acolher a competência declinada deverá suscitar o conflito, salvo se a atribuir a outro juízo."
+Portanto, somente se instaura o conflito de competência quando 2 (dois) juízos se declaram competentes ou incompetentes para processamento/julgamento de uma mesma demanda ou quando, por regra de conexão, houver controvérsia entre eles acerca da reunião ou separação dos processos (AgInt nos EDcl no CC 164.461/TO, Rel. Min. Moura Ribeiro, DJe de 7/5/2020; Agint no CC 182.943/AM, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 05/11/2021).
+Na hipótese dos autos, não se identifica a presença dos requisitos legais supracitados porquanto inexiste deliberação - positiva - da r. Justiça Comum Estadual acerca de sua competência para o exame da demanda subjacente ao caso em liça, sendo de rigor, portanto, o não conhecimento do incidente em epígrafe.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
