@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALBERTO LIMA DE OLIVEIRA e OUTROS à decisão de minha lavra, que conheceu parcialmente de seu recurso especial e, nessa extensão, negou-lhe provimento, pelos seguintes fundamentos: (a) não houve ofensa ao art. 489, § 1º, VI, do CPC, uma vez que os acórdãos recorridos foram devidamente fundamentados; (b) ausência de prequestionamento do arts. 7º, 8º, 373, II, 927, 983 e 1.013, § 3º, IV, do CPC; (c) incidência da Súmula 7/STJ.
+Sustenta a parte embargante a existência de omissão e contradição no julgado, onde "entendeu-se que as decisões anteriores estavam devidamente fundamentadas, entretanto, não observou que nenhuma delas tratou do art. 86, parágrafo único do CPC que foi objeto de questionamento em todos os recursos anteriores" (fl. 2.016).
+Nessa linha de ideias, afirma que "Entretanto, apesar da clara previsão legal nesse sentido, em nenhum momento o art. 86, parágrafo único foi obedecido, nem ao menos mencionado nas decisões recorridas" (fl. 2.028).
+Segue afirmando que (fl. 2.021):
+Vez que não houve qualquer apreciação a tal artigo, nem ao menos menção ao mesmo nas decisões que foram recorridas, evidentemente a falta de fundamentação das decisões, violando, por conseguinte, não só o multimencionado art. 86 parágrafo único do CPC, mas também o art. 489, III, §1ª, IV do CPC2 que também foi objeto de recurso mediante RE e REsp.
+Requer, assim, o acolhimento dos aclaratórios, com efeitos modificativos.
+Impugnação às fls. 2.030/2.032.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Inicialmente, observa-se que nas razões do apelo nobre a parte ora embargante apontou violação ao art. 489, § 1º, VI, do CPC a partir da premissa de que o Tribunal de origem não teria fundamentado suas decisões, pois teria deixado de proceder a "análise de provas juntadas ao processo que comprovava o alegado pelos Exequentes, o que, por si só, torna o acórdão contraditório" (fl. 1.829) e, ainda, não observou "a jurisprudência invocada pelos Exequentes" (fl. 1.832).
+Acrescente-se que, para além do fato de que a tese de eventual omissão da Corte de origem a respeito do art. 86, parágrafo único, do CPC não foi suscitada no apelo nobre, referida questão sequer encontra respaldo no acórdão recorrido, eis que ali houve expressa manifestação a respeito da divisão do ônus da sucumbência, na medida em que o Tribunal de origem entendeu integralmente sucumbente a parte ora embargante. Veja-se (fl. 1.753):
+Por força do artigo 85 do Código de Processo Civil, condeno os exequentes ao pagamento dos honorários advocatícios, no importe de 3% (três porcento) sobre o valor reputado como excessivo no presente voto, nos termos do artigo 85, §3º, IV, do Código de Processo Civil.
+Essa conclusão foi reiterada quando do julgamento dos embargos de declaração. Confira-se (fl. 1.822):
+Por fim, em relação à tese de que os Embargantes sucumbiram minimamente, devendo ser aplicada a regra do parágrafo único do art. 86 do CPC, verifica-se que a pretensão também é de rejulgamento da matéria, o que, como visto, não é possível em aclaratórios.
+Logo, a parte embargante incorre em indevida inovação recursal ao deduzir a tese de que haveria por parte da Corte baiana omissão a respeito do art. 86, parágrafo único do CPC, não apreciada no decisum ora atacado, o que, de toda sorte, não ocorreu.
+Quanto ao mais, nenhum reparo há de ser feito à decisão embargada, que deixou de examinar o mérito da controvérsia a partir de fundamentos claros, precisos e congruentes. Senão vejamos (fl. 2.009):
+Do mesmo modo, "a jurisprudência desta Corte possui entendimento de que a aferição do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte" (EDcl no AgInt no REsp n. 1.780.421/SP, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, DJe de 13/11/2023.).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
