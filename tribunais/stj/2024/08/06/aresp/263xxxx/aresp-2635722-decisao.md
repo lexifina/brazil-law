@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por MARCIO ROCHA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na apelação nº 5002089-22.2012.4.04.7216, assim ementado (fls. 2354-2355):
+ADMINISTRATIVO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO EM ÁREA NÃO EDIFICÁVEL. TERRENOS DE MARINHA. ÁREA DE PRESERVAÇÃO PERMANENTE (DUNAS E RESTINGA). INTERIOR DA APA DA BALEIA FRANCA. OFENSA À COISA JULGADA. PRELIMINAR AFASTADA. REVOGAÇÃO DA RESOLUÇÃO CONAMA Nº 303/2002. REGULARIZAÇÃO FUNDIÁRIA. IMPOSSIBILIDADE. PROPORCIONALIDADE E RAZOABILIDADE. INDENIZAÇÃO DEVIDA.
+1. Não procede a preliminar de ofensa à coisa julgada na ação nº 5000077-69.2011.4.04.7216, porquanto, em que pese eventual regularização levada a efeito, em processo administrativo, pela SECRETARIA DE PATRIMÔNIO DA UNIÃO pudesse, aparentemente, influir no conteúdo desta ação, o fato é que a mencionada ação diz respeito a uma questão de direito real e não de direito ambiental (cadastramento como terreno de marinha e cobrança das respectivas taxas),ou seja, tratam de questão dominial.
+2. Não há falar em desrespeito ao princípio irretroatividade (art. 5º, XXXVI, da CF/88) e negativa de vigência ao artigo 6º da Lei de Introdução ao Código Civil (decreto-lei 4.707/1942), ao aplicar legislação revogada e/ou não vigente à época dos fatos, porquanto a perícia não deixa dúvidas de quê, a edificação se encontra em área de preservação permanente, nos termos da legislação vigente à época da construção: Código Florestal (Lei nº 4.771/65) e Lei municipal nº 04/1979.
+3. Não se verifica a alegada negativa de vigência do art. 8º da lei 12.651/12, porquanto nos termos do §1º do mencionado dispositivo, a supressão de vegetação nativa protetora de nascentes, dunas e restingas somente poderá ser autorizada em caso de utilidade pública, hipótese que claramente não se aplica à situação dos autos.
+4. A decisão não nega vigência aos artigos 7º e 15, da lei 9.985/00. As Áreas de Proteção Ambiental permitem um certo grau de ocupação humana, não qualquer ocupação humana.
+5. Inviabilidade de regularização fundiária urbana da lei nº 13.465/2017, ante a vedação expressa em caso de bem da União situado em APP e ausência dos requisitos e objetivos da lei nº13.465/2017 - ausência de caráter de núcleo urbano, insuscetibilidade de melhoria das condições ambientais e não verificação de moradia dos réus no local (casa de veraneio), bem como não observância dos requisitos cumulativos previstos no art. 65 da lei nº 12.651/2012.
+4. Hipótese em que o imóvel não se situa em área urbana consolidada, nos termos dos arts. 11, III, da lei nº 13.465/2017, c/c art. 65, § 1º, v, da lei nº 12.651/2012 e art. 16-c, § 2º, da lei nº9.636/98, ante os poucos equipamentos/serviços públicos existentes e a facilidade de remoção das construções do local.
+7. O desfazimento de obra e a recuperação ambiental, por si só, já se revelam suficientemente gravosos, razão pela qual, em homenagem aos princípios da proporcionalidade e razoabilidade, a fixação cumulativa de pena pecuniária como forma de indenização complementar somente é cabível em casos excepcionais, ante a impossibilidade de recuperação da área ou as peculiaridades do caso concreto.
+Opostos Embargos de Declaração em duas oportunidades pelo recorrente, ambos os recursos restaram rejeitados (fls. 2663-2668).
+Irresignado, o recorrente apresentou Recurso Especial, fundado no art. 105, inciso III, alíneas a e c, da Constituição Federal, suscitando, além de dissídio jurisprudencial, ofensa aos arts. 473, § 2º, 479, 1.022, inciso II c.c. o 489, § 1º, inciso IV, e 1.033 do Código de Processo Civil; arts. 3º, inciso II, 4º, caput, e 6º, caput, da Lei n. 12.651/2012; e ao art. 6º da LINDB.
+O apelo foi inadmitido na Corte de origem (fls. 3356-3364), o que ensejou a interposição do presente Agravo em Recurso Especial (fls. 3382-3398).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do Agravo, visto que o recorrente não impugnou especificamente os fundamentos da decisão de inadmissibilidade. Ademais, caso seja conhecido o Agravo, opina pelo não provimento do Recurso Especial (fls. 3457-3465).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, de que maneira não seria necessária a incursão ao campo fático-probatório.
+No agravo, a parte agravante se limitou a sustentar que "os elementos de prova foram produzidos antes da entrada em vigor da Lei 13.465/2017 e de seu Decreto 9.310/18, que estabeleceu requisitos específicos para os projetos de Reurb-E em Área de Preservação Permanente-APP" (fl. 3396).
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deveria a parte ter cotejado a moldura fática incontroversa do acórdão recorrido com todas as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial. Tal cotejo, contudo, não ocorreu no Agravo ora sob análise.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
