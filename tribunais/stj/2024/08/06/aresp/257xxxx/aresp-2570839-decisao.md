@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo, interposto por ESTER BAZÍLIO RICO (ESPÓLIO) E JAIR MARTINS RICO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o recurso especial, manejado contra acórdão prolatado no Agravo n. 2036169- 49.2023.8.26.0000, assim ementado (fls. 48-54):
+DESAPROPRIAÇÃO. LEVANTAMENTO. ART. 34 DO DECRETO-LEI 3.365/1941. - O art. 1.015 do atual Código de processo civil estabeleceu um rol taxativo das decisões impugnáveis por meio de agravo de instrumento, entendendo o STJ que pedido de levantamento de valores em ação de desapropriação equipara-se à decisão proferida em cumprimento de sentença, hipótese prevista no parágrafo único.
+- Sólida compreensão pretoriana de que o possuidor - tanto que confirmada a posse sem oposição por terceiros - tem direito indenitário e, pois, de levantamento do preço.
+- Óbice, contudo, ao pronto levantamento do preço, consistente na falta de confirmação do domínio e de prova de que já se publicaram os editais previstos no caput do art. 34 da Lei Geral da Desapropriação e que, em sua sequência, não houve oposição de terceiros.
+Não provimento do agravo
+Os embargos de declaração opostos ao referido julgado (fls. 56-67) foram rejeitados (fls. 87-92).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, a parte ora Agravante aponta violação do 1022, incisos II e III, do Código de Processo Civil, por conta de erros de premissa e omissão existentes no acórdão quanto à aplicação do art. 34, da Lei de Desapropriações, e falta de manifestação quanto ao pedido de levantamento das benfeitorias. Ademais, aponta divergência jurisprudencial acerca do art. 34, do Decreto-lei n. 3.365/41 afirmando que esse dispositivo "é aplicado de forma mitigada em caso de desapropriação da posse, além do que o condicionamento à regularidade do domínio e à manifestação expressa de não oposição de terceiros não são requisitos para impedir o levantamento por possuidor" (fls. 94-121).
+Apresentadas as contrarrazões (fls. 169-174), o recurso especial foi inadmitido na origem (fls. 175-178), advindo o presente Agravo nos próprios autos (fls. 181-207), acompanhado da respectiva contraminuta (fls. 212-220).
+O Ministério Público Federal manifestou "no sentido do conhecimento do agravo para determinar sua autuação como recurso especial, manifestando-se, desde logo, pelo seu provimento, a fim deque o acórdão dos embargos de declaraç ão seja anulado, retornando os autos ao Tribunal de origem, para que, em novo julgamento, pronuncie-se sobre o pedido subsidiário de levantamento das benfeitorias realizadas no bem expropriado." (fl. 245).
+É o relatório. Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a Agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal a quo, passo diretamente ao exame do recurso especial.
+Nas razões de apelo nobre, a ora Agravante aduz que o Tribunal estadual "permaneceu omisso quanto ao pedido de levantamento das benfeitorias realizado em primeiro grau e depois em Agravo de Instrumento" (fls. 104-105).
+Com razão a Agravante.
+A Corte de origem negou provimento ao recurso da ora Recorrente, reconhecendo que, a fim de realizar o levantamento dos valores depositados em juízo, ela deveria comprovar a propriedade do imóvel expropriado, ou ao menos a sua posse. Todavia, nada mencionou acerca do pedido de levantamento das benfeitorias do imóvel.
+A ora Agravante opôs os embargos de declaração ao referido julgado. Nas razões recursais, alegou que (fl. 62):
+O V. Acórdão não apreciou o pedido subsidiário, constante no item 6.1 de fls. 18/19 e fl. 20, de levantamento das benfeitorias realizadas no bem expropriado, restando, portanto, omisso a respeito.
+Nesse passo, as benfeitorias não estão sujeitas a matrículas ou registros, mas apenas averbações à margem das matrículas dos imóveis.
+Desse modo, é perfeitamente admissível o levantamento das benfeitorias realizadas no bem expropriado conforme inteligência dos artigos 1.219 e 1.255 do Código Civil Brasileiro, confira-se o seguinte precedente perante esse E. TJ:
+ ..
+Ao apreciar os embargos, contudo, o Tribunal estadual continuou silente acerca do pedido de levantamento das benfeitorias (fls. 87-92).
+Assim, o pedido não foi examinado pela Corte local, incorrendo, assim, em omissão, o que consubstancia violação do art. 1.022, II, do Código de Processo Civil, porquanto não efetuada integralmente a prestação jurisdicional.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO EMBARGADO. EXISTÊNCIA. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022).
+2. Os aclaratórios merecem acolhimento, na medida em que o acórdão embargado foi omisso ao não se manifestar acerca do pedido subsidiário formulado no apelo extremo - já analisado antes mesmo da interposição do agravo interno -, impondo-se o reconhecimento de que, em caso de verificação da índole abusiva da cláusula contratual de reajuste etário, a cobrança de eventuais quantias indevidamente pagas à seguradora fique limitada aos 12 (doze) meses que antecederam a propositura da demanda.
+3. Embargos de declaração acolhidos, para sanar omissão. (EDcl no AgInt nos EDcl no AREsp n. 1.518.110/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/9/2020, DJe de 20/10/2020.)
+Assim, reconhecida a violação aos art. 1.022, II do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, ficando prejudicada a análise dos demais tópicos do recurso especial.
+Ante o exposto, CONHEÇO do agravo PARA CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DAR-LHE PROVIMENTO, declarando a nulidade do acórdão de fls. 87-92 por violação ao art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022, II DO CPC. AUSÊNCIA DE APRECIAÇÃO DE PEDIDO SUBSIDIÁRIO. OMISSÃO. OCORRÊNCIA. DEMAIS PEDIDOS PREJUDICADOS. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
