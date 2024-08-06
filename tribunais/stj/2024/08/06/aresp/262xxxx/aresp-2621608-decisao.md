@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ELIANDRO RIBEIRO OLIVEIRA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/02/2024.
+Concluso ao gabinete em: 20/06/2024.
+Ação: de indenização por danos morais e materiais movida por ELIANDRO RIBEIRO OLIVEIRA contra TERNIUM BRASIL LTDA.
+Decisão interlocutória: indeferiu o pedido de tutela de urgência.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+Agravo de Instrumento. Ação indenizatória por danos materiais e morais.
+Alegação autoral de dano ambiental perpetrado pela empresa Ré, decorrente de vazamento de material utilizado para preparação do aço no Canal São Francisco/Baía de Sepetiba, em16/03/2021. Decisão agravada que indeferiu o pedido de tutela de urgência para fixar o pensionamento mensal de 01 (um)salário-mínimo.(index 36555779. Inconformismo do Autor. Entendimento desta Desembargadora quanto à manutenção da decisão guerreada de indeferimento da tutela pretendida. Controvérsia a ser dirimida está restrita ao cabimento da antecipação da tutela, à luz dos preceitos contidos no artigo 300 do Código de CPC. Deve, portanto, cingir-se à ótica estritamente processual: presença ou ausência dos requisitos para a concessão da tutela antecipada, ou seja, a probabilidade do direito, o perigo de dano e o risco ao resultado útil do processo. As outras questões dizem respeito ao próprio mérito da causa e não podem ser aqui examinadas, sob pena de supressão de um grau de jurisdição. Neste passo, somente a existência de prova inequívoca que convença o juiz da verossimilhança acerca das alegações do Autor autoriza o provimento antecipatório da tutela jurisdicional em processo de conhecimento, isto é, exigem-se elementos probatórios robustos quanto aos fatos aduzidos na inicial, indene a qualquer dúvida. Com efeito, no presente caso, o Autor/Agravante não comprova, de plano, a urgência da antecipação, posto que já na exordial aponta que o acidente ocorreu em março de 2021, contudo a demanda só foi distribuída em outubro de 2022, ou seja, 01 (um) ano e 08 (oito) meses depois. Some-se a isso a existência da necessidade de dilação probatória na demanda para que se possa aferir o dano, bem como para delinear os limites da responsabilidade da empresa Ré/Agravada e o consequente dever de indenizar. Ademais, em vistoria realizada pela Gerência de Operações em Emergências Ambientais do INEA, realizada alguns dias após o relatado vazamento, a equipe do referido órgão ambiental não observou qualquer tipo de poluição/contaminação em razão do evento (índice 176). Incidência da Súmula n.º 59 do E. TJERJ. Precedentes do E. TJERJ. CONHECIMENTO E NEGATIVA DEPROVIMENTO AOAGRAVO DE INSTRUMENTO. (e-STJ fl. 486)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 300, 1.022, II, 1.025 e 1.026, §2º, do CPC; 3º, 4º e 14, da Lei 6.938/81; e 186 e 927, do Código Civil. Além de negativa de prestação jurisdicional, sustenta existência de responsabilidade civil pelo dano ambiental em razão do vazamento de material utilizado para preparação de aço no Canal São Francisco. Assevera que houve cumprimento dos requisitos para a concessão da tutela de urgência.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ausência dos requisitos para a concessão da tutela de urgência de natureza antecipada, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 3º, 4º e 14, da Lei 6.938/81; e 186 e 927, do Código Civil, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Não cabimento de recurso especial contra decisão que indefere tutela provisória - Súmula 735/STF.
+Ademais, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que indefere tutela provisória, seu objeto deve focar nas condições legais de sua concessão.
+Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que indeferiu a tutela provisória, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que indefere a tutela provisória, a questão de fundo do direito (responsabilidade civil por dano ambiental) sobre o qual versa a controvérsia.
+- Do reexame de fatos e provas
+Nesse contexto, quanto à ausência dos requisitos para a concessão da tutela de urgência, o TJ/RJ consignou que:
+Repise-se, somente a existência de prova inequívoca que convença o juiz da verossimilhança acerca das alegações do Autor autoriza o provimento antecipatório da tutela jurisdicional em processo de conhecimento, isto é, exigem-se elementos probatórios robustos quanto aos fatos aduzidos na inicial, indene a qualquer dúvida.
+Com efeito, no presente caso, o Autor/Agravante não comprova, de plano, a urgência da antecipação, posto que já na exordial aponta que o acidente ocorreu em março de 2021, contudo a demanda só foi distribuída em outubro de 2022, ou seja, 01 (um) ano e 08 (oito)meses depois. Some-se a isso a existência da necessidade de dilação probatória na demanda para que se possa aferir o dano, bem como para delinear os limites da responsabilidade da empresa Ré/Agravada e o consequente dever de indenizar.
+Ademais, em vistoria realizada pela Gerência de Operações em Emergências Ambientais do INEA, realizada alguns dias após o relatado vazamento, a equipe do referido órgão ambiental não observou qualquer tipo de poluição/contaminação em razão do evento (índice 176). (e-STJ fl. 489)
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. TUTELA DE URGÊNCIA. SÚMULA 735/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos morais e materiais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial não conhecido.
