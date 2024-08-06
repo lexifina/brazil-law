@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DJAVAN MAX MONTEIRO MACIEL contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Amapá.
+Depreende-se dos autos que o paciente foi condenado como incurso nos artigos 180, caput, 297, caput, e 311, caput, todos do Código Penal, à pena de 07 anos e 02 meses de reclusão, em regime inicial semiaberto e pagamento de 33 dias-multa.
+Irresignada, a Defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento ao recurso, a fim de redimensionar as penas aplicadas ao patamar de 07 anos de reclusão e ao pagamento de 33 dias-multa, em regime inicial semiaberto, nos termos do acórdão juntado às fls. 30-40, com a seguinte ementa:
+APELAÇÃO CRIMINAL. RECEPTAÇÃO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. ABSOLVIÇÃO. INVIABILIDADE. PROVAS SUFICIENTES PARA CONDENAÇÃO. ERRO MATERIAL NO DISPOSTIVO DA SENTENÇA. CONSTATADO. DOSIMETRIA PENAL. DESPROPORCIONALIDADE NA EXASPERAÇÃO DA PENA-BASE. EVIDENCIADA. SENTENÇA PARCIALMENTE REFORMADA. APELO PARCIALMENTE PROVIDO. 1) Evidenciadas provas suficientes da materialidade e autoria delitivas reproduzidas sob o contraditório judicial, a condenação deve ser mantida pelo colegiado. 2) Constatando-se erro meramente material no dispositivo da sentença, a sua correção é medida que se impõe via acórdão. 3) A exasperação da pena-base por cada vetor judicial negativo deve obedecer à fração de 1/6 (um sexto) sobre a pena mínima cominada "ou" de 1/8 (um oitavo) sobre o intervalo de pena (mínima e máxima) cominada no preceito secundário do tipo penal incriminador. O aumento de pena superior a esses dois patamares deve ser precedido de fundamentação concreta, adequada e específica, o que não se evidencia na hipótese. Precedentes do STJ. 4) Apelação conhecida e, no mérito, parcialmente provida, apenas para corrigir erro material quanto ao nome do condenado no dispositivo da sentença, bem como para redimensionar as penas aplicadas à luz da jurisprudência do STJ.
+No presente writ, a defesa sustenta que as provas que embasaram a denúncia são ilícitas, pois obtidas mediante violação de domicílio, sem fundadas razões e baseadas somente em denúncias anônimas.
+Requer, ao final, a concessão da ordem, a fim de declarar a nulidade das provas derivadas da ilegalidade da invasão de domicílio e, por consequência, absolver o paciente.
+As informações foram prestadas às fls. 156-161 e 163-165.
+O Ministério Público Federal, às fls. 168-173, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIMES DE RECEPTAÇÃO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. NULIDADES. PROVAS. VIOLAÇÃO DE DOMICÍLIO. ABSOLVIÇÃO. INCOMPETÊNCIA DO STJ. PRECEDENTES. NÃO CONHECIMENTO.
+- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.
+- 2ª Preliminar: não conhecimento de ofício; ausência de competência. Precedentes: STJ (HC n.º 245.731/MS; HC n.º248.757/SP).
+- 3ª Preliminar: não conhecimento das questões suscitadas ou, mesmo de ofício, da ordem, sob pena de contrariar o art. 105, inciso III, "a", "b" e "c" da CF.
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+A defesa sustenta que as provas que embasaram a denúncia são ilícitas, pois obtidas mediante violação de domicílio, sem fundadas razões e baseadas somente em denúncias anônimas.
+Compulsando os autos, denota-se que o Tribunal de origem julgou a apelação no dia 29/09/2022, de modo que, somente em 19/02/2024 foi impetrado o presente writ, o qual não pode ser conhecido. Assente nesta Corte Superior que o exame das alegações dos impetrantes se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competê ncia do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal (HC n. 483.065/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/11/2019).
+Esta Corte, em diversas ocasiões, já se pronunciou no sentido de que não deve s er conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência deste Tribunal.
+No mesmo sentido: O advento do trânsito em julgado, ainda que posterior à data da impetração, impossibilita a admissão do writ, visto que o conhecimento de habeas corpus em substituição à revisão criminal subverte o sistema de competências constitucionais, transferindo a análise do feito de órgão estadual para este Tribunal Superior. (AgRg no HC n. 811.126/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 28/9/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
