@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 501, DE 5 de AGOSTO de 2024
+Altera a Instrução Normativa BCB nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central - Unicad, de que trata a Resolução BCB nº 209, de 22 de março de 2022.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro - Desig, no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b” do referido Regimento, tendo em vista o disposto na Resolução CMN nº 5.043, de 25 de novembro de 2022, e na Resolução BCB nº 209, de 22 de março de 2022,
+R E S O L V E :

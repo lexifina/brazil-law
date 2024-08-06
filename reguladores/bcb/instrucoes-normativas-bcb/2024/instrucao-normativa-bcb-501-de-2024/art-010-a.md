@@ -1,0 +1,1 @@
+Art. 10-A. A comunicação sobre a alocação de novos recursos em dependências localizadas no exterior e os aumentos de capital social em instituições financeiras e assemelhadas participadas no exterior, de que trata o art. 7º, § 1º da Resolução CMN nº 5.043, de 25 de novembro de 2022, deve ser realizada no módulo “Ocorrências” do Unicad.
