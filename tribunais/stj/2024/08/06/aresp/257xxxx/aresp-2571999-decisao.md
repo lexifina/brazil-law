@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fl.  1577):
+RECURSO  APELAÇÃO  CÍVEL  LOCAÇÃO  DE  IMÓVEIS  AÇÃO  DE  DESPEJO  POR  FALTA  DE  PAGAMENTO  CUMULADA  COM  COBRANÇA  MATERIA  PRELIMINAR.  Pretensão  de  prova  oral.
+Alegação  dos  requeridos  que  efetuaram  os  pagamentos  dos  alugueis  do  contrato  através  de  Transferência  de  conta  corrente  para  conta  indicada  pela  Imobiliária  e  Administradora  Vate  Ltda.  Fato  este  que  que  teria  que  ser  demonstrado  por  prova  documental.  Caso  em  que  não  se  justifica  a  produção  de  prova  oral  para  tal  finalidade.  Preliminar  rejeitada  -
+RECURSO  APELAÇÃO  CÍVEL  LOCAÇÃO  DE  IMÓVEIS  AÇÃO  DE  DESPEJO  POR  FALTA  DE  PAGAMENTO  CUMULADA  COM  COBRANÇA  Autora  objetivando  a  cobrança  dos  aluguéis  devidos  pelos  requeridos.  Possibilidade.  Ausência  de  comprovação  de  pagamento  mediante  prova  escrita  (  recibo  de  quitação  ).
+Inadimplemento  bem  caracterizado  e  não  afastado  pelas  razões  apresentadas  pelos  recorrentes.  Ausência  de  impugnação  específica.  Procedência  da  ação  principal  e  improcedência  da  reconvenção  bem  decretadas.  Sentença  mantida.  Recurso  de  apelação  dos  requeridos  não  provido,  majorada  a  verba  sucumbencial  com  base  no  artigo  85,  parágrafo  11  do  Código  de  Processo  Civil.
+Opostos  embargos  de  declaração,  foram  rejeitados.
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta  violação  dos  arts.  7º,  10,  369  e  370  do  Código  de  Processo  Civil.
+Sustenta  que  foi  permitido  a  uma  das  partes  fazer  prova  e  a  outra  não,  ao  negar  o  pedido  de  produção  de  prova  testemunhal.
+Pondera  que  o  direito  à ampla  defesa  e  ao  contraditório  foram  violados.
+Contrarrazões  apresentadas.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+O  Tribunal  de  origem,  ao  julgar  o  recurso,  concluiu  que  (fls.  1580/1582):
+Em  que  pesem  as  alegações  dos  requeridos,  ora  apelantes,  o  entendimento  adotado  em  primeiro  grau  merece  ser  preservado.
+De  plano,  não  há  o  que  se  falar  em  cerceamento  de  defesa.
+Conforme  fundamentado  em  primeiro  grau,  a  alegação  de  que  os  pagamentos  efetuados  referentes  aos  encargos  contratuais  cobrados,  foram  realizados  em  conta  corrente  indicada  pelo  sócio  da  "VATE"  Administradora  da  locação,  teriam  que  ser  demonstrados  documentalmente.
+E  isto  porque,  no  presente  caso,  onde  se  discute  pretensão  fundada  em  contrato  escrito,  que  tem  como  objeto  a  locação  de  bem  imóvel  para  fins  não  residenciais,  de  expressivo  valor  econômico,  a  prova  oral  não  pode  se  sobrepor  ou  substituir  à  prova  documental,  porquanto,  esta  é  essencial  à  prova  do  pagamento.
+Diante  disso,  a  prova  pretendida,  no  presente  caso,  se  mostra  completamente  desnecessária  a  produção  de  outras  provas  para  o  julgamento  de  mérito  da  ação.  A  causa  encontra-se  suficientemente  instruída,  dando  condições  para  a  formação  do  convencimento  de  mérito.
+E  ainda:  o  julgador  é  o  destinatário  final  das  provas  que  servem  à  formação  da  sua  convicção  sobre  a  demanda.  O  art.  370  do  Código  de  Processo  Civil,  nesse  sentido,  impõe  ao  Julgador  o  poder-dever  de  indeferir  diligências  que  entenda  inúteis  ou  meramente  protelatórias.  Por  sua  vez,  o  art.  355,  do  mesmo  diploma,  é  expresso  em  permitir  o  julgamento  antecipado  da  lide  quando  não  houver  necessidade  de  produção  de  provas  em  audiência.
+(..)
+No  caso  concreto,  tendo  em  vista  a  aludida  regra  processual,  à  luz  das  lições  doutrinárias  transcritas,  não  pode  ser  censurada  a  opção  do  Juízo  a  quo  de  julgar  antecipadamente  o  mérito,  por  isso  que  suficiente  a  prova  documental  carreada  aos  autos  para  o  deslinde  do  feito.
+Rechaçada  a  questão  prejudicial,  no  mérito,  melhor  sorte  não  assiste  aos  recorrentes.
+A  relação  jurídica  existente  entre  as  partes  é  incontroversa,  celebrada  por  meio  de  contrato  de  locação  escrito  (fls.  31/34),  restando  demonstrado,  desta  forma,  fato  constitutivo  do  direito  autoral  (cf.  art.  373,  I,  do  CPC).  Pelo  referido  contrato,  o  locatário,  incumbido  de  pagar  pontualmente  o  aluguel,  na  forma  do  art.  23,  I,  da  Lei  8.245,91,  deveria  comprovar  fato  impeditivo,  modificativo  ou  extintivo  do  direito  do  autor,  com  a  juntada  aos  autos  dos  comprovantes  de  pagamento,  à  luz  do  artigo  373,  II,  do  CPC.
+E  mais:  pagamento  este,  que  deveria  ter  sido  realizado  de  acordo  com  o  quanto  acordado  entre  as  partes,  ante  a  ausência  de  qualquer  documento  firmado,  a  estipular  o  recebimento  dos  valores  de  forma  diversa  da  pactuada.
+Enfim,  resta  claro  que  o  pagamento  se  prova  mediante  recibo  de  quitação,  o  que,  deveras,  não  há  nos  autos  (Cód.  Civil,  art.  320).
+Sobre  o  tema,  pertinentes  as  considerações  de  Silvio  Rodrigues:  "A  prova  do  pagamento  é  a  quitação.  Consiste  em  um  escrito  no  qual  o  credor,  reconhecendo  ter  recebido  o  que  lhe  era  devido,  libera  o  devedor,  até  o  montante  do  que  lhe  foi  pago.  (grifei)  Desse  modo,  vê-se  que  a  autora  comprovou  o  fato  constitutivo  de  seu  direito,  e  os  requeridos  nada  trouxeram  a  refutar  tal  direito,  conforme  previsão  do  artigo  373,  inciso  II  do  Código  de  Processo  Civil.
+Diante  disso,  a  impugnação  apresentada  não  comporta  acolhimento,  devendo  a  respeitável  sentença  atacada  ser  mantida  por  seus  próprios  fundamentos  jurídicos.
+Com  efeito,  anoto  que  rever  a  conclusão  da  Corte  local  demandaria  o  reexame  contratual  e  fático  dos  autos,  situação  vedada  pelos  óbices  das  Súmulas  n.  5  e  7  do  STJ.
+Cabe  ao  juiz  decidir  sobre  os  elementos  necessários  à  formação  de  seu  entendimento,  pois,  como  destinatário  da  prova,  é  livre  para  determinar  as  provas  necessárias  ou  indeferir  as  inúteis  ou  protelatórias,  motivadamente.  Não  há  cerceamento  de  defesa  quando  o  julgador,  ao  constatar  nos  autos  a  existência  de  provas  suficientes  para  o  seu  convencimento,  indefere  pedido  de  produção  de  provas.
+Vejamos:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  CONDENATÓRIA  -  DECISÃO  MONOCRÁTICA  DA  PRESIDÊNCIA  DESTA  CORTE  QUE  NÃO  CONHECEU  DO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  AUTOR.
+(..)
+3.  As  conclusões  adotadas  pelo  órgão  julgador  no  sentido  de  que  compete  ao  juiz  decidir  sobre  a  produção  de  provas  necessárias  ou  indeferir  aquelas  que  tenha  como  inúteis  ou  protelatórias,  não  implicando  em  cerceamento  de  defesa  o  indeferimento  da  dilação  probatória,  estão  em  consonância  com  a  jurisprudência  desta  Corte  Superior,  atraindo  a  aplicação  da  Súmula  83  do  STJ.
+3.1.  O  Tribunal  a  quo,  à  luz  dos  princípios  da  livre  apreciação  da  prova  e  do  livre  convencimento  motivado,  afastou  o  alegado  cerceamento  de  defesa,  consignando  a  desnecessidade  da  produção  da  prova  requerida  pela  ora  recorrente.  O  acolhimento  da  pretensão  recursal,  no  ponto,  demandaria  revolvimento  do  acervo  fático-probatório  dos  autos,  providência  vedada  pela  Súmula  7/STJ.
+4.  O  Tribunal  local  refutou  a  alegada  existência  de  compensação  por  danos  morais  com  base  nas  particularidades  do  fato  em  análise.  Rever  tal  posicionamento  demandaria  o  revolvimento  de  matéria  probatória.
+Incidência  da  Súmula  7  do  STJ.
+5.  Agravo  interno  provido  para  reconsiderar  a  decisão  da  Presidência  de  fls.  1914-1916,  e-STJ.  Agravo  em  recurso  especial  conhecido  para  não  conhecer  do  recurso  especial.
+(AgInt  no  AREsp  n.  1.782.979/SP,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  29/4/2024,  DJe  de  2/5/2024.)
+Em  face  do  exposto,  nego  provimento  ao  agravo  em  recurso  especial.
+Nos  termos  do  art.  85,  §  11,  do  CPC/2015,  majoro  em  10%  (dez  por  cento)  a  quantia  já  arbitrada  a  título  de  honorários  em  favor  da  parte  recorrida,  observados  os  limites  previstos  nos  §§  2º  e  3º  do  referido  dispositivo  legal.
+Intimem-se.
+EMENTA
