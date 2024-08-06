@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de NATAN DOS SANTOS FERREIRA, LUCAS ARAUJO REIS RODRIGUES e ADRIEL DA CRUZ DE JESUS contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que os pacientes foram condenados pela prática dos crimes previstos nos artigos 157, § 3º, in fine, do Código Penal, ao cumprimento da pena de 22 anos e 06 meses de reclusão e ao pagamento de 45 dias-multa em ralação ao Natan e Adriel e de 22 anos de reclusão, e ao pagamento de 40 dias-multa em relação ao Lucas, todos em regime inicial fechado.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 9/15, com a seguinte ementa:
+APELAÇÃO CRIMINAL. PENAL E PROCESSUAL PENAL. LATROCÍNIO. ARTIGO 157, §3º, IN FINE, DO CÓDIGO PENAL. ROUBO. EMPREGO DE ARMA DE FOGO. DEPOIMENTOS PRESTADOS. FORÇA PROBATÓRIA. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. In casu, as provas coligidas nos autos são suficientes para embasar o édito condenatório exarado contra o réu pela prática do crime previsto no art. 157, §3º, in fine, do Código Penal, tendo em vista que a ação do acusado foi satisfatória para intimidação das vítimas, impedindo-a de oferecer qualquer resistência.
+2. Conforme se assentou na jurisprudência, nos crimes patrimoniais, que geralmente ocorrem na clandestinidade, a palavra das vítimas tem especial força probatória, quando em consonância com o restante do acervo probatório construído ao longo da instrução processual.
+3. Recurso conhecido e desprovido. Sentença mantida.
+No presente mandamus, sustenta a impetrante a ilegalidade na primeira fase da dosimetria da pena, sob a premissa de que não houve fundamentação idônea a justificar a exasperação da pena-base nas vetoriais motivo e circunstâncias do crime.
+Requer, ao final, a concessão da ordem, para reduzir a pena-base dos pacientes.
+As informações foram prestadas às fls. 89-92 e 97-107.
+O Ministério Público Federal, às fls. 110-115, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS. AÇÃO PENAL. LATROCÍNIO. DOSIMETRIA DA PENA
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. A exasperação da pena-base está devidamente fundamentada na existência de circunstâncias judiciais desfavoráveis, prevista no art. 59 do Código Penal.
+3. Parecer pelo não conhecimento do writ.
+É o breve relatório.
+Decido.
+Sustenta a impetrante a ilegalidade na primeira fase da dosimetria da pena, sob a premissa de que não houve fundamentação idônea a justificar a exasperação da pena-base nas vetoriais motivo e circunstâncias do crime.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No caso, as instâncias de origem apreciaram as circunstâncias e consequências do delito desfavoráveis aos pacientes, consignando que "o delito foi praticado em meio a diversos outros passageiros, mas também porque a vítima era um estudante de 18 anos e o fato causou gra nde repercussão social."
+Extrai-se da sentença também que "as circunstâncias do crime são desfavoráveis ao réu, eis que praticado dentro de coletivo lotado de passageiros, expondo a risco potencial os demais ocupantes, portanto, merecendo maior reprimenda; as consequências do crime são gravíssimos, irreparáveis, eis que a vítima foi covardemente alvejada, tratando-se de um estudante de apenas 18 anos de idade, crime gerou grande comoção social;" fl. 74.
+As circunstâncias judiciais acimas delineadas são fatores que apontam maior censura nas condutas e justificam a exasperação da pena-base.
+A propósito, aos tribunais superiores, no exame da dosimetria das penas, em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional, o que não ocorreu neste feito.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA E DESCUMPRIMENTO DE DECISÃO JUDICIAL. INSUFICIÊNCIA PROBATÓRIA PARA CONDENAÇÃO. NECESSIDADE DE REEXAME FACTUAL. PENA-BASE. CULPABILIDADE, CIRCUNSTÂNCIAS DO CRIME E MOTIVO. FUNDAMENTAÇÃO IDÔNEA.
+I - O eg. Tribunal a quo, ao apreciar os elementos de prova constituídos nos autos, manteve a sentença condenatória em face da robustez do acervo probatório a respaldar a autoria e a materialidade do crime, em especial pelos depoimentos das vítimas e testemunha.
+II - Na hipótese, entender de modo diverso ao que estabelecido pelo eg. Tribunal de origem para se concluir pela insuficiência probatória para condenação demandaria, necessariamente, o revolvimento do material fático-probatório delineado nos autos, providência inviável na via eleita.
+III - No caso, a pena-base dos delitos foi exasperada em razão da culpabilidade, motivos e circunstâncias do crime de forma fundamentada para cada uma das vetoriais, consideradas particularidades do contexto criminoso que escapam das elementares do tipo penal e que justificam devidamente a fixação da pena na primeira etapa acima do mínimo legal.
+IV - A culpabilidade do agente só pode ser considerada circunstância judicial desfavorável quando houver algum elemento concreto que evidencie um grau de reprovabilidade que extrapole o da própria conduta tipificada. A simples gravidade do delito, por si só, não tem o condão de acentuar a culpabilidade do agente. No ponto, o agravante, como advogado, está compromissado com a Justiça, de modo que o crime, sob a ótica da vetorial culpabilidade, indica maior reprovabilidade a justificar a exasperação da pena-base.
+V - As circunstâncias do crime tratam da avaliação dos elementos não definidos na lei penal, mas que ajudam a delinear as singularidades do fato. Neste conjunto, incluem-se o modus operandi e o estado de ânimo do agente, a duração dos eventos criminosos, dentre outros fatores. No caso destes autos, a fundamentação está em consonância com entendimento desta Corte Superior, uma vez que a descrição dos fatos ilustra devidamente a valoração negativa da vetorial pela utilização de pessoa diversa como instrumento de ameaça, perpetrada no interior de um coletivo.
+VI - Quanto aos motivos, a pena-base não merece reparos, tendo em conta que a fundamentação delineada pelo juízo sentenciante para a prática das ameaças "se deram pelo fato da vitima Carolina não aceitar imposições do acusado e não querer mais o relacionamento, bem como pelo sentimento de "posse" e até de "vingança"", justificando a negativação da vetorial.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.206.032/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 16/8/2023.)
+Quanto ao critério numérico de aumento para cada circunstância judicial negativa, in casu , não há desproporção no aumento da pena-base de cada delito, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena, ausente, portanto, notória ilegalidade a justificar a concessão da ordem pleiteada.
+A propósito: "Salienta-se que a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça. " (AgRg no AREsp n. 2.240.104/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 27/2/2023.)
+Por fim, constata-se que o Tribunal de origem não apreciou na revisão da dosimetria a vetorial motivo. Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 7/12/2020, DJe 16/12/2020).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
