@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Lucas Wander Silva Rocha, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de Minas Gerais, que denegou o Habeas Corpus criminal n. 1.0000.24.303038-4/000, mantendo a prisão preventiva do paciente imposta pelo Juízo da Vara Única da comarca de Conceição do Mato Dentro/MG, pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa sustenta constrangimento ilegal na manutenção da medida constritiva, porque ausentes os requisitos legais a justificar a medida.
+Discorre sobre as condições pessoais favoráveis do paciente, destacando a desproporcionalidade da medida e a possibilidade de substituição por outras cautelares.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva, subsidiariamente, a substituição por cautelares.
+É o relatório.
+Do decreto prisional infere-se (fl. 348):
+ ..  a variedade de drogas apreendidas, em quantidade condizente com tráfico, além das demais circunstâncias que indicam a prática do crime previsto no artigo 33 da Lei n. 11.343/06, aliados à dinâmica dos fatos narrada nos autos, evidenciam risco concreto à ordem pública, recomendando a segregação cautelar do autuado.
+Ratificando os fundamentos apresentados pelo Magistrado de piso, destacou a Corte estadual (fls. 200/204):
+ ..
+A meu ver, a decisão que determinou a segregação cautelar do paciente (anexada ao documento do processo eletrônico de ordem 47) encontra respaldo nos artigos 312 e 315 do Código de Processo Penal, mormente considerando as circunstâncias concretas da prisão/apreensão.
+ ..
+Ora, o fato descrito nos autos, além de demonstrar estarem presentes os requisitos do artigo 312 do CPP, provoca grande transtorno ao cidadão comum e à população em geral, gerando preocupação aos aplicadores da lei.
+Nesse sentido, a princípio, consta do Auto de Apreensão: 24 (vinte e quatro) eppendorfs de cocaína (22,33g), 17 (dezessete) buchas de maconha (11,50g) e 13 (treze) pedras de crack (1,74g), devendo ser ressaltada a tripla variedade e alta nocividade das substâncias em tese apreendidas, sobretudo considerando a pequena cidade de Conceição do Mato Dentro/MG, onde o delito teria sido praticado.
+Além disso, vale destacar trechos do Auto de Prisão em Flagrante do paciente, colacionado ao doc. eletrônico de ordem 23, que demonstram que Lucas havia sido alvo de detalhadas denúncias e era amplamente conhecido no meio policial.
+ ..
+Portanto, não acredito estar havendo nos presentes autos nenhuma ilegalidade na prisão, eis que se encontra devidamente sustentada tanto nas circunstâncias do crime quanto nos motivos da prisão preventiva, sobretudo, diante da tripla de drogas apreendidas, sendo a maior parte delas entorpecente com alta nocividade, bem como do modus operandi do paciente, conforme acima descrito, elementos estes que justificam o acautelamento provisório, demonstrando que a ordem pública corre risco com a sua liberdade.
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+E, de fato, para esta Corte Superior, a quantidade, a variedade e a natureza da droga apreendida, bem como o risco de reiteração delitiva, podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+Contudo, in casu, verifico ser desproporcional a imposição de prisão preventiva, considerando a primariedade do paciente e a quantidade de droga apreendida não exorbitante - 24 eppendorfs de cocaína (22,33 g), 17 buchas de maconha (11,50 g) e 13 pedras de crack (1,74 g). Portanto, a gravidade da infração deve ser avaliada com base na quantidade e no contexto das drogas apreendidas.
+A prisão prev entiva deve ser a última ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal. A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso. A imposição direta da medida mais gravosa, sem a devida análise dos fatores mencionados, pode ser considerada desproporcional e, portanto, contrária aos princípios constitucionais.
+Necessário haver uma gradação proporcional ao fato em questão, não apenas a imposição direta da cautelar mais grave.
+A corroborar: AgRg no HC n. 821.552/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 18/4/2024; e AgRg no RHC n. 186.743/MG, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 21/12/2023.
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão preventiva por medidas cautelares a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PRIMARIEDADE E GARANTIA DA ORDEM PÚBLICA. APREENSÃO DE QUANTIDADE NÃO EXPRESSIVA DE DROGA. SUBSTITUIÇÃO POR CAUTELARES. PROPORCIONALIDADE E LEGALIDADE.
+Ordem concedida liminarmente
