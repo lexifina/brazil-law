@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. PENAL. HOMICÍDIO. ATENUANTE DA CONFISSÃO QUALIFICADA. PEDIDO DE RECONSIDERAÇÃO. COMPENSAÇÃO DE UM DOZE AVOS. PRINCÍPIO DA LEGALIDADE E PROPORCIONALIDADE. ANÁLISE DO CASO CONCRETO. ADOÇÃO DA FRAÇÃO DE UM SEXTO. PRECEDENTES.
+I - Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental destina-se a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao acolhimento do pedido do recurso especial.
+II - Depreende-se das razões recursais que o agravante reconhece a atenuante da confissão qualificada, porém requer adoção de fração diferente de uma confissão plena.
+III - O Superior Tribunal de Justiça admite a incidência da atenuante em patamar inferior a um sexto quando se tratar de confissão qualificada.
+IV - No caso concreto, a confissão foi utilizada para formação do convencimento do julgador, assim, independentemente de ter sido qualificada, mantenho a fração de 1/6 (um sexto). Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PUBLICO DE MINAS GERAIS contra decisão que deu provimento ao recurso especial, conforme artigo 255, §4º, III do RISTJ, para reconhecer a atenuante da confissão espontânea ao crime de homicídio qualificado (fls.679-682).
+Nas razões deste agravo regimental, o recorrente requer a aplicação, em razão do reconhecimento da atenuante da confissão, da fração de 1/12 (um doze avos), em observância aos princípios da individualização da pena e da proporcionalidade (fls. 692-698).
+A defesa pleiteou o não conhecimento do agravo regimental, ou caso conhecido, o seu não provimento (fls. 713-717).
+É o relatório.
+EMENTA
+PROCESSO PENAL. PENAL. HOMICÍDIO. ATENUANTE DA CONFISSÃO QUALIFICADA. PEDIDO DE RECONSIDERAÇÃO. COMPENSAÇÃO DE UM DOZE AVOS. PRINCÍPIO DA LEGALIDADE E PROPORCIONALIDADE. ANÁLISE DO CASO CONCRETO. ADOÇÃO DA FRAÇÃO DE UM SEXTO. PRECEDENTES.
+I - Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental destina-se a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao acolhimento do pedido do recurso especial.
+II - Depreende-se das razões recursais que o agravante reconhece a atenuante da confissão qualificada, porém requer adoção de fração diferente de uma confissão plena.
+III - O Superior Tribunal de Justiça admite a incidência da atenuante em patamar inferior a um sexto quando se tratar de confissão qualificada.
+IV - No caso concreto, a confissão foi utilizada para formação do convencimento do julgador, assim, independentemente de ter sido qualificada, mantenho a fração de 1/6 (um sexto). Precedentes.
+Agravo regimental desprovido.
+VOTO
+Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental destina-se a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao provimento do recurso especial.
+Apesar das alegações expostas no regimental, entendo que não são suficientes para infirmar a decisão monocrática, devendo esta ser mantida por seus próprios fundamentos.
+Neste ponto, registro que esta Corte possui firme entendimento no sentido de que a dosimetria da pena se insere num juízo de discricionariedade do magistrado, observado o livre convencimento motivado, sendo passível de revisão somente em caso de flagrante ilegalidade ou desproporcionalidade (AgRg no HC n. 869.056/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/12/2023).
+É certo que o Superior Tribunal de Justiça admite a possibilidade, nas hipóteses de confissão qualificada, de incidência da atenuante em patamar inferior a 1/6 (um sexto) (AgRg no AREsp n. 2.532.315/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/5/2024.).
+No caso concreto, contudo, o agravo regimental não apresentou critérios concretos para fixar a redução em patamar inferior a 1/6 (um sexto) pela atenuante da confissão. Apenas requer, de forma genérica, a aplicação de patamar inferior para atenuante qualificada, pela observância dos princípios da legalidade e proporcionalidade.
+Neste sentido, a natureza qualificada da confissão - como no caso concreto, em que o agravante alegou ter agido em legítima defesa - não justifica, por si só, a aplicação da atenuante inferior a 1/6 (um sexto), observado o seu papel predominante na elucidação dos fatos e na sentença condenatória.
+Até porque a jurisprudência consolidada do Superior Tribunal de Justiça adota, em geral, a fração de 1/6 para aumentar ou diminuir a pena na segunda fase da dosimetria.
+Assim, consoante orientação jurisprudencial consolidada: "conquanto reconhecida a preponderância da atenuante da confissão espontânea, o fato de a confissão realizada pelo recorrente ter sido qualificada pela tese da legítima defesa constitui fundamento idôneo para amparar a compensação integral com uma das agravantes de natureza objetiva. Precedentes" (AgRg no AREsp n. 2.532.315/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/5/2024.)
+No mesmo sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO. DOSIMETRIA. SEGUNDA FASE. ALTERAÇÃO DA FRAÇÃO DE REDUÇÃO PELA INCIDÊNCIA DA ATENUANTE DA CONFISSÃO QUALIFICADA PARA 1/12. INVIABILIDADE. AUSÊNCIA DE JUSTIFICATIVA PARA APLICAR A REDUÇÃO EM MENOR EXTENSÃO. MANUTENÇÃO DA REDUÇÃO EM 1/6. PRECEDENTES. SANÇÃO INALTERADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem assentado que, nos casos em que a confissão do acusado servir como um dos fundamentos para a condenação, deve ser aplicada a atenuante em questão, pouco importando se a confissão foi espontânea ou não, se foi total ou parcial, ou mesmo se foi realizada só na fase policial com posterior retratação em juízo (AgRg no REsp n. 1.412.043/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 10/3/2015, DJe 19/3/2015).
+2. A matéria, inclusive, encontra-se sumulada, consoante o enunciado n. 545 da Súmula desta Corte, que dispõe: Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal.
+3. A Corte alagoana consignou expressamente que se o agente reconhece sua participação no evento delituoso, contudo, alega que o fez em legítima defesa não há aí "confissão da autoria do crime", ao revés, há confissão de que ele não incidiu em crime algum (e-STJ, fl. 101). Desse modo, houve a confissão, ainda que qualificada; assim, constato o flagrante constrangimento ilegal apontado pela impetrante e, de ofício, reconheço a incidência da confissão espontânea ao paciente.
+4. A jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento para cada agravante ou de diminuição para cada atenuante deve ser realizado em 1/6 da pena-base, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar concretamente fundamentado (AgRg no REsp n. 2.069.190/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 11/9/2023, DJe 13/9/2023).
+5. Na espécie, não havendo a Corte estadual sequer reconhecido a incidência da referida atenuante, ainda que qualificada, e sendo sua incidência reconhecida de ofício, não há justificativa para aplicá-la em menor extensão. Precedentes.
+6. Passo, agora, ao novo cálculo da dosimetria da pena, observados os critérios adotados pelas instâncias singelas: Na primeira fase, mantenho a pena-base em 18 anos de reclusão. Na segunda etapa, ausentes circunstâncias agravantes e reconhecida a incidência da atenuante da confissão espontânea e da menoridade relativa, reduzo a sanção em 1/3 (1/6 para circunstância atenuante), fixando-a em 12 anos de reclusão. Na terceira fase, ausentes causas de aumento ou de diminuição de pena, a sanção do paciente fica definitivamente estabilizada em 12 anos de reclusão.
+7. Agravo regimental não provido" (AgRg no HC n. 881.988/AL, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
