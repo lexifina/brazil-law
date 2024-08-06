@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Ação Rescisória ajuizada por VITOR HUGO PEYROTON ESTEVES, em desfavor do ESTADO DO RIO DE JANEIRO, com fulcro no art. 966, VII, do CPC/2015, objetivando desconstituir acórdão transitado em julgado proferido pelo Órgão Especial do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento do Mandado de Segurança n. 0058580-38.2011.8.19.0000.
+Sustenta a parte autora, em síntese, que: i) a sanção disciplinar que resultou na exoneração do autor do cargo de inspetor de segurança, restou aplicada em processo administrativo irregular sem provas que justificassem a imputação da penalidade; ii) a reintegração de outros partícipes é causa de revisão do julgado, diante do princípio da isonomia; iii) a autoridade policial não apontou a participação ou autoria do autor no evento de fuga de apenados que originou o PAD; iv) o advento da Resolução Conjunta n. 96/SECC/SEAP/SEDEC/SEPM/SEPOL/DEGASE, de 5/5/2023, que dispõe sobre os procedimentos e condicionantes para habilitação e interposição de pedido de revisão administrativa, a serem apreciados pela comissão mista instituída pelo Decreto Estadual n. 48.344/2023; v) a incidência retroativa da Resolução n. 956/2022, que autoriza o reexame dos processos administrativos disciplinares de demissão e cassação de aposentadoria; vi) a desproporcionalidade da sanção aplicada na ausência de má-fé do autor.
+O Tribunal de origem reconheceu a sua incompetência absoluta para o processamento e julgamento da presente demanda desconstitutiva e, consequentemente, determinou a intimação da parte autora para emendar a inicial, na forma do art. 968, §§ 5º e 6º, do CPC/2015, com a posterior remessa dos autos a esta Corte, tendo em vista que o decisum apontado como rescindendo pela parte autora, fora confirmado em julgamento monocrático no âmbito desta Corte, nos autos do RMS n. 40.795/RJ, da relatoria da Ministra Regina Helena Costa.
+É o relatório.
+Decido.
+Conforme estatui o art. 105, I, e, da Constituição da República, o Superior Tribunal de Justiça é competente para processar e julgar ações rescisórias de seus próprios julgados, os quais devem ser definitivos e terem apreciado o mérito da demanda (art. 485, CPC).
+Nos termos da jurisprudência desta Corte, a prova nova apta a aparelhar a ação rescisória, fundada no art. 966, VII, do Código de Processo Civil de 2015, é aquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, capaz de assegurar, por si só, um pronunciamento jurisdicional distinto daquele proferido.
+Estampando essa orientação, destaco precedentes deste Primeira Seção:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. VÍCIO RESCISÓRIO: PROVA NOVA. DOCUMENTO PRODUZIDO APÓS O TRÂNSITO EM JULGADO. VÍCIO RESCISÓRIO. NÃO CARACTERIZAÇÃO.
+1. O documento apresentado como prova nova foi expedido em momento posterior ao trânsito em julgado do título ora exequendo. Logo não é documento capaz de demonstrar vício rescisório.
+2. Ação rescisória improcedente. (AR n. 7.167/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 23/8/2023, DJe de 28/8/2023.)
+ ..
+III - A prova nova apta a aparelhar a ação rescisória, fundada no art. 966, VII do Código de Processo Civil de 2015, é aquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, capaz de assegurar, por si só, um pronunciamento jurisdicional distinto daquele proferido.
+ ..
+VI - Agravo Interno improvido. (AgInt na AR n. 6.783/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 24/11/2021, DJe de 29/11/2021.)
+ ..
+1. Nos termos do art. 485, VII do CPC/1973, o documento novo que autoriza o ajuizamento da Ação Rescisória é aquele que, já existente à época da decisão rescindenda, era ignorado pelo autor ou do qual não pôde fazer uso por razões estranhas à sua vontade, sendo capaz de assegurar, por si só, a procedência do pedido deduzido na demanda.
+2. No caso, não houve a demonstração de que a referida documentação somente veio a ser conhecida pela parte autora ou a ela tornou-se disponível após a prolação do acórdão rescindendo.
+ ..
+4. Agravo Interno do Particular desprovido. (AgInt na AR n. 5.558/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 11/9/2019, DJe de 16/9/2019.)
+Na espécie, a reintegração de outros partícipes nos fatos imputados no PAD e a aplicação retroativa de atos normativos não constituem prova nova, porquanto geradas após a prolação do acórdão rescindendo, não sendo a rescisória instrumento adequado para corrigir eventual injustiça da decisão.
+Quanto à desproporcionalidade da sanção administrativa, é aplicável a jurisprudência do Superior Tribunal de Justiça, no sentido de que "os critérios de proporcionalidade, de justeza, de razoabilidade, utilizados como parâmetros na aplicação das sanções ao ato ímprobo não são passíveis de serem revistos na via estreita de ação rescisória, porquanto não se constituem em violação "literal" de dispositivo legal" (AgRg no AREsp 256.135/SP, relatora Ministro Benedito Gonçalves, Primeira Turma, DJe de 03/02/2015). No mesmo sentido: AgInt no REsp n. 1.868.796/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/12/2023, DJe de 18/12/2023.
+Posto isso, com fundamento no art. 34, XVIII, b, do RISTJ, c.c. 485, III, do CPC , julgo IMPROCEDENTE a presente rescisão.
+Sem honorários sucumbenciais, pois ausente a triangulação processual.
+Publique-se. Intimem-se.
+EMENTA
+AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. PROVA NOVA. DOCUMENTO PRODUZIDO APÓS O TRÂNSITO EM JULGADO. DESPROPORCIONALIDADE DA PENA. NÃO CARACTERIZAÇÃO DE VÍCIO RESCISÓRIO. IMPROCEDÊNCIA.
