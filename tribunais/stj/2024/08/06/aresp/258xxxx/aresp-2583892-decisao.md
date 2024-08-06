@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOAO BATISTA ANTUNES contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição da República, proposto contra o acórdão proferido na Apelação Cível n. 5000690-60.2021.4.03.6119, assim ementado (fls. 396-395):
+PREVIDENCIÁRIO. CONCESSÃO. ENQUADRAMENTO DE ATIVIDADE ESPECIAL. RUÍDO ACIMA DOS LIMITES DE TOLERÂNCIA. METODOLOGIA DE AFERIÇÃO. IRRELEVÂNCIA. AGENTES QUÍMICOS. PPP. REQUISITOS ATENDIDOS NA DER. CONSECTÁRIOS. SUCUMBÊNCIA.
+- Alegação de remessa oficial afastada, por ter sido proferida a sentença na vigência do atual Código de Processo Civil, cujo artigo 496, § 3º, I, afasta a exigência do duplo grau de jurisdição quando a condenação ou o proveito econômico for inferior a 1.000 (mil) salários mínimos.
+- Cerceamento de defesa não configurado. Cabe à parte autora, nos termos do artigo 373, I, do CPC, os ônus de comprovar a veracidade dos fatos constitutivos do direito invocado, por meio de prova suficiente e segura.
+- O tempo de trabalho sob condições especiais poderá ser convertido em comum, observada a legislação aplicada à época na qual o trabalho foi prestado (art. 70 do Decreto n. 3.048/1999, com a redação dada pelo Decreto n. 4.827/2003). Superadas, portanto, a limitação temporal prevista no artigo 28 da Lei n. 9.711/1998 e qualquer alegação quanto à impossibilidade de enquadramento e conversão dos lapsos anteriores à vigência da Lei n. 6.887/1980.
+- O enquadramento apenas pela categoria profissional é possível tão-somente até28/4/1995 (Lei n. 9.032/1995). Precedentes do STJ.
+- A exposição superior a 80 decibéis era considerada atividade insalubre até a edição do Decreto n. 2.172/97, que majorou o nível para 90 decibéis. Com a edição do Decreto n. 4.882, de 18/11/2003, o limite mínimo de ruído para reconhecimento da atividade especial foi reduzido para 85 decibéis, sem possibilidade de retroação ao regulamento de 1997 (REsp n. 1.398.260, sob o regime do artigo 543-C do CPC/73).
+- Presença de CTPS e formulário patronal asseverando o exercício das funções do autor com exposição habitual a ruídos acima dos limites de tolerância, além de agentes químicos, fato que permite o reconhecimento da natureza especial, à luz dos códigos1.1.6, 1.2.10, 1.2.11 do anexo ao Decreto n. 53.831/1964 e 1.0.19 e 2.0.1 dos anexos aos Decretos n. 2.172/1997 e n. 3.048/1999. Precedentes.
+- Os riscos ocupacionais gerados pela exposição a agentes químicos, em especial os hidrocarbonetos, não requerem análise quantitativa, senão qualitativa. Precedentes.
+- Possível utilização de metodologia diversa não desnatura a especialidade do período, uma vez constatada a exposição a ruído superior ao limite considerado salubre e comprovado por meio de PPP ou laudo técnico, consoante jurisprudência desta Corte.
+- Questões afetas ao recolhimento de contribuições previdenciárias ou divergências na GFIP não devem, em tese, influir no cômputo da atividade especial exercida pelo segurado, à vista do princípio da automaticidade.
+- Presente o quesito temporal, uma vez que a soma de todos os períodos de trabalho confere à parte autora mais de 35 anos na DER, cabendo a opção pelo benefício mais vantajoso.
+- A correção monetária deve ser aplicada nos termos da Lei n. 6.899/1981 e da legislação superveniente, bem como do Manual de Orientação de Procedimentos para os cálculos na Justiça Federal, utilizando-se o IPCA-E, afastada a incidência da Taxa Referencial (TR). Repercussão Geral no RE n. 870.947.
+- Os juros moratórios devem ser contados da citação, à razão de 0,5% (meio por cento) ao mês, até a vigência do CC/2002 (11/1/2003), quando esse percentual foi elevado a 1% (um por cento) ao mês, utilizando-se, a partir de julho de 2009, a taxa de juros aplicável à remuneração da caderneta de poupança (Repercussão Geral no RE n. 870.947), observada, quanto ao termo final de sua incidência, a tese firmada em Repercussão Geral no RE n. 579.431.
+- Condena-se o INSS a pagar honorários de advogado, arbitrados em 10% (dez por cento)sobre a condenação, computando-se o valor das parcelas vencidas até a data deste acórdão, consoante critérios do artigo 85, §§ 1º, 2º, 3º, I, e 11, do CPC e Súmula n. 111 do Superior Tribunal de Justiça, já aplicada a majoração decorrente da fase recursal. Todavia, na fase de execução, o percentual deverá ser reduzido se o valor da condenação ou do proveito econômico ultrapassar 200 (duzentos) salários mínimos (art. 85, § 4º, II, do CPC).
+- Sobre as custas processuais, no Estado de São Paulo, delas está isenta a Autarquia Previdenciária, a teor do disposto nas Leis Federais n. 6.032/1974, 8.620/1993 e 9.289/1996, bem como nas Leis Estaduais n. 4.952/1985 e 11.608/2003. Contudo, essa isenção não a exime do pagamento das custas e despesas processuais em restituição à parte autora, por força da sucumbência, na hipótese de pagamento prévio.
+- Ausência de contrariedade à legislação federal ou a dispositivos constitucionais.
+- Matéria preliminar rejeitada.
+- Apelação do INSS desprovida.
+- Apelação da parte autora parcialmente provida.
+Irresignado, o ora agravante opôs embargos de declaração, que foram rejeitados (fls. 450-453).
+Na sequência, interpôs recurso especial, não admitido por aquele Tribunal (fls. 665-667).
+Neste agravo, sustenta, em síntese, além do dissídio jurisprudencial, violação dos arts. 6º, 357, inciso V e § 3º, 369, 370 e 372, todos do CPC/2015. Aduz ter realizado o devido cotejo analítico.
+Afirma que "ficou claramente demonstrado que não há necessidade de reexame provas, mas sim a possibilidade de conceder ou não a produção das provas requeridas sem causar cerceamento do direito de defesa entregando-lhe a fiel prestação jurisdicional" (fl. 684).
+Requer seja recebido e provido o presente agravo, a fim de que seja conhecido e provido o recurso especial.
+O Ministério Público Federal, às fls. 713-720, opina pelo conhecimento do agravo para negar-lhe provimento.
+É o relatório.
+Decido.
+De início, nos termos do Enunciado Administrativo n. 3/STJ, " a os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, verifica-se que o Tribunal de origem não admitiu o recurso especial, sob o fundamento de incidência, à espécie, da Súmula n. 7/STJ, quanto ao reconhecimento da especialidade dos períodos laborados pelo segurado (fls. 665-667).
+Contudo, no presente agravo em recurso especial, a parte agravante deixou de infirmar, especificamente, tal fundamento, tendo se restringido a apresentar impugnação genérica, não tendo esclarecido, à luz das teses veiculadas no recurso especial, notadamente cotejando a fundamentação do acórdão recorrido, de que forma o exame daquelas prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Logo, é o caso de não conhecimento do presente recurso. Isso porque a decisão de inadmissibilidade não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total. Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo n. 7/STJ, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
