@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Ygor dos Santos Souza, condenado pelo Juízo de Direito da Vara de Crime contra Criança e Adolescente de Ananindeua/PA à pena de 5 anos e 10 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 25 dias-multa, como incurso no art. 157 do Código Penal, ocasião em que lhe fora negado o direito de recorrer em liberdade (fls. 16/20).
+A defesa aponta como órgão coator o Tribunal de Justiça do Pará (HC n. 0808812-94.2024.8.14.0000).
+Alega que a sentença não concedeu  ..  ao paciente o direito de recorrer em liberdade estando o mesmo preso desde 6/11/2023 em regime fechado, mesmo o paciente sendo primário de bons antecedentes, bem como possuindo residência fixa. Nesta esteira, verifica-se que existe um constrangimento ilegal ao acusado, tendo em vista que deveria ser aplicado a este o regime semiaberto em sentença, haja vista que foi condenado a 5 anos e 10 meses de reclusão, e não o fechado como foi determinado pela magistrada (fl. 4).
+Sustenta a ocorrência de excesso de prazo para o julgamento do writ lá impetrado asseverando que o paciente recorreu primeiramente ao Tribunal de Justiça do Estado do Pará, no Habeas Corpus de n. 0808812-94.2024.8.14.0000 que foi protocolado em 28 de maio de 2024 e até agora está conclusos para julgamento sem respostas, não podendo mais o paciente esperar no regime gravoso, o qual gera constrangimento ilegal ao mesmo. Logo, bate à porta de Vossas Excelências neste egrégio Superior Tribunal de Justiça para que deem fim ao constrangimento ilegal que passa o Sr. Ygor (fls. 4/5).
+Aduz que se afigura absolutamente desproporcional que a medida cautelar imposta ao paciente seja mais gravosa que a própria sanção penal ao final aplicada, a qual será executada em regime semiaberto. Portanto, deve ser conferido ao paciente o direito de recorrer em liberdade, com a imediata expedição de alvará de soltura em seu favor (fl. 10).
+Pretende, assim (fl. 11):
+a) Diante do que foi exposto, requer a Vossa Excelência que seja concedida a ordem no presente habeas corpus, inicialmente sob a forma de LIMINAR, para se determinar, de imediato, a concessão do direito do paciente de recorrer em liberdade, ou, subsidiariamente, determinar ao Coordenador da Secretaria de Administração Penitenciária a transferência do condenado para estabelecimento prisional compatível com o regime fixado na sentença, no prazo de 48 horas, sob pena de responsabilização pessoal.
+b) Ao final, em julgamento de mérito, requer a concessão da ordem em definitivo, confirmando-se a liminar concedida.
+c) Requer-se a expedição do valoroso ALVARÁ DE SOLTURA em nome de YGOR DOS SANTOS SOUZA.
+Liminar indeferida pela Presidência desta Casa às fls. 25/26.
+Prestadas as informações (fls. 32/37), o Ministério Público Federal opinou pela prejudicialidade do habeas corpus (fls. 40/41).
+É o relatório.
+Relativamente ao aventado excesso de prazo para julgamento do writ originário, verifico que houve a perda de objeto, pois, de acordo com as informações constantes do portal eletrônico do Tribunal de origem, em 25/7/2024, foi denegada a ordem pelo Tribunal de Justiça do Pará.
+Noutro vértice, quanto à negativa do recurso em liberdade e à compatibilização do regime prisional, sobrevindo o julgamento de mérito da impetração originária, por desconhecimento dos fundamentos utilizados no acórdão denegatório a respeito da matéria, inviabilizado se afigura o pronunciamento por esta Corte Superior.
+Tal o contexto, conheço em parte do presente habeas corpus e, nessa extensão, julgo-o, pois, prejudicado.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. CONDENAÇÃO. REGIME INICIAL FECHADO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O JULGAMENTO DO WRIT IMPETRADO PERANTE O TRIBUNAL DE ORIGEM. SUPERVENIENTE JULGAMENTO. PERDA DE OBJETO. NEGATIVA DO RECURSO EM LIBERDADE. COMPATIBILIZAÇÃO DO REGIME PRISIONAL IMPOSTO NA SENTENÇA. INVIABILIDADE DE PRONUNCIAMENTO ACERCA DA MATÉRIA POR ESTA CORTE SUPERIOR ANTE O DESCONHECIMENTO DOS FUNDAMENTOS UTILIZADOS NO ACÓRDÃO DENEGATÓRIO.
+Writ parcialmente conhecido e, nessa extensão, prejudicado.
