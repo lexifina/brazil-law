@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JAIME LUIZ ENZWEILWER E OUTROS (JAIME e outros) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. CPC. ADMINISTRAÇÃO DE HERANÇA. VIOLAÇÃO AO ARTS 489 E 1.022 DO CPC NÃO CONFIGURADA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 114, 387, 485, VI, 611 DO CPC, 544 E 549 DO CC/02 E 195 DA LEI 6.015/1976. SÚMULAS NºS 282 DO STF E 211 DO STJ. MATÉRIA SUSCITADA APENAS EM EMBARGOS DE DECLARAÇÃO. PRETENSÃO FUNDADA NA INFRINGÊNCIA AO ART. 408 DO CC/02 QUE ESBARRA NA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO (e-STJ, fls. 1245/1246).
+Nas razões do presente inconformismo, defendeu que (1) todas as questões trazidas no recurso especial foram ventiladas, tendo sido levadas a debate pela via das contrarrazões; (2) o acórdão estadual não apreciou as questões trazidas pelos recorrentes tendo sido opostos embargos de declaração e apesar de o Tribunal embargado não se manifestar sobre as matérias ficou cumprido o requisito de prequestionamento ficto, não se cogitando portanto, de ausência de prequestionamento; (3) os embargos declaratórios devem ser acolhidos com efeitos infringentes para afastar as Súmulas nºs 282 do STF e 211 do STJ, ou deve ser feito o enfrentamento dos artigos indicados no recurso especial sob pena de ofensa ao art. 1022 do CPC
+Foi apresentada impugnação (e-STJ, fls. 1268/1277).
+É o relatório.
+Decido.
+Os embargos declaração vão rejeitados.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Ficou claramente consignado no acórdão embargado o seguinte (1) não se verificou negativa de prestação jurisdicional pelo Tribunal estadual; (2) não ocorreu o prequestionamento dos arts, 114, 408, 485, VI, 489, 611 do CPC, 544 e 549 do CC/2002 e95 da Lei 6.015/1976, incidindo as Súmulas nº 282 do STF e 211 do STJ; (3) a pretensão recursal fundada na ofensa ao art. 408 do CC/2002, demanda reexame de matéria fática vedado pela Súmula nº 7 do STJ.
+Pela fundamentação acima, é possível constatar que o acórdão não apresenta os vícios apontados.
+Verifica-se que o objetivo do embargante é obter novo pronunciamento ao debater matérias apreciadas e decididas, pretendendo alterar o resultado do julgamento a seu favor, o que é inadmissível na via eleita.
+Tampouco se prestam os embargos de declaração para mero fim de prequestionamento.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 1.524.835/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020 - sem destaque no original).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REQUISITOS RECURSAIS. RECURSO ESPECIAL. TRIBUNAL DE ORIGEM. INADMISSÃO. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ERESP Nº 1.424.404/SP REDISCUSSÃO. INADMISSIBILIDADE. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. REJEIÇÃO.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados. (EDcl no AgInt nos EAREsp n. 1.990.124/MG, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023 - sem destaque no original)
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, advirto as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do CPC.
+EMENTA
+CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRAÇÃO DE HERANÇA. . VIOLAÇÃO DO ART. 1022 DO CPC/2015 NÃO CONFIGURADA. PRETENSÃO DE REAPRECIAÇÃO DA LIDE. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
