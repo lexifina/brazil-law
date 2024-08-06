@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por DROGARIAS PACHECO S.A. contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelac a o Ci"vel n. 0139283-98.2021.8.19.0001, assim ementado (fl. 421):
+TRIBUTA"RIO. PROCESSO CIVIL. EXECUC A O FISCAL. EMBARGOS DO DEVEDOR. CRE"DITO TRIBUTA"RIO. ICMS. CONTRATO DE COMPRA E VENDA FUNDO DE COME"RCIO. SUCESSA O EMPRESARIAL. RESPONSABILIDADE TRIBUTA"RIA. Embargos a" execuc a o fiscal de cre"ditos de ICMS fundados na inexiste ncia de sucessa o tributa"ria, responsabilidade subsidia"ria, prescric a o e excesso de execuc a o.
+O artigo 133 do Co"digo Tributa"rio Nacional estabelece a responsabilidade tributa"ria de quem adquirir fundo de come"rcio e continuar a explorac a o da atividade sob a mesma ou diversa raza o social, exatamente a hipo"tese dos autos, pois a Embargante adquiriu o fundo de come"rcio da prete"rita devedora e bens mo"veis, ale"m de sucede -la em direitos e obrigac o es, o que autoriza o redirecionamento da execuc a o fiscal.
+Afasta-se a prescric a o, pois em tempo algum o Embargado ficou inerte por mais de cinco anos desde ter cie ncia do fato que caracteriza a responsabilidade tributa"ria.
+A Embargante na o se desincumbiu do o nus de provar o excesso de execuc a o, pois alega de forma gene"rica que o de"bito esta" em desacordo com a legislac a o vigente, sem apresentar o ca"lculo do valor que entende devido.
+Recurso desprovido.
+Nas razões do apelo nobre, a parte recorrente aponta ofensa aos arts. 489, § 1º, inciso IV, e 1.022, incisos I e II, ambos do CPC, argumentando que o aresto recorrido "na o fundamentou de forma suficiente e aprofundada sobre um ponto essencial a" defesa da Recorrente, qual seja, a prescric a o no redirecionamento da Execuc a o Fiscal origina"ria" (fl. 462).
+No mérito, alega violação ao art. 174 do CTN, defendendo "a ocorre ncia da prescric a o tributa"ria em face da Recorrente, haja vista o decurso do prazo de muito mais de 5 (cinco) anos entre o despacho que determinou a citac a o da Executada origina"ria e a citac a o da Recorrente" (fl. 466).
+Aduz, também, malferimento ao art. 329, incisos I e II, do CPC, chamando atenção para a existência de irregularidade formal insana"vel pela falta de indicac a o do nome da recorrente na CDA objeto da execuc a o fiscal.
+Por fim, afirma que foi violado o art. 133, incisos I e II, do CTN, pois não houve sucessão empresarial na hipótese dos autos. Ressalta que, " a le"m de na o ter adquirido esta FARMACIA SEMPRE VIVA LTDA, a Pacheco, ora Recorrente, na o funciona e nem nunca funcionou no enderec o da executada origina"ria" (fl. 472). Em caráter subsidiário, formula a seguinte tese (fl. 475):
+ ..  caso se entenda pela existe ncia de sucessa o tributa"ria nos autos, o que se permite apenas a" ti"tulo de argumentac a o, estando plenamente comprovado que o Grupo do qual faz parte a Executada origina"ria na o cessou suas atividades, dever-se-ia ao menos ter reconhecido que a responsabilidade atribui"da a" Recorrente e" ta o somente subsidia"ria, motivo pelo qual se faz necessa"rio buscar a satisfac a o do cre"dito primeiramente perante a Rede de Drogarias de que Executada origina"ria faz parte  .. .
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, quais sejam as alegações de omissão, prescrição, irregularidade insanável na CDA, ausência de sucessão empresarial e responsabilidade subsidiária, de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fls. 298 e 426), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo .
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. EMBARGOS À EXECUÇÃO FISCAL. TESES RECURSAIS DE OMISSÃO, PRESCRIÇÃO, IRREGULARIDADE INSANÁVEL NA CDA, AUSÊNCIA DE SUCESSÃO EMPRESARIAL E RESPONSABILIDADE SUBSIDIÁRIA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
