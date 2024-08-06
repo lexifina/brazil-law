@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada em 2/5/2014 pela FAZENDA NACIONAL em face de DISTRIBUIDORA DE MEDICAMENTOS SANTA CRUZ LTDA., fundada no art. 485, inciso IV, do CPC/73, na qual se pretende desconstituir decisão monocrática proferida pelo Ministro Arnaldo Esteves Lima ao julgar o Recurso Especial n. 1.216.768/PR, assim fundamentado (fl. 1387):
+Quanto ao mérito, a jurisprudência do Superior Tribunal de Justiça já se manifestou no sentido da impossibilidade de lançamento da contribuição previdenciária por aferição indireta contra o tomador de serviços sem verificar previamente a contabilidade da empresa prestadora, relativamente aos fatos geradores anteriores à vigência da Lei 9.711/98.
+Não foram opostos embargos de declaração nem agravo interno.
+Certidão de trânsito em julgado datada de 24/5/2012 (fl. 1392).
+A parte autora sustenta, em resumo, que, ao:
+ ..  decidir sobre o mérito da ação (embargos à execução fiscal que, como já visto, objetivava o reconhecimento da nulidade da NFLD n º 35.034.598-8), a decisão desta Corte violou a coisa julgada que já havia sido formada nos autos da ação ordinária e que, conforme já demonstrado, tinha o mesmo objeto. (fl. 9)
+Argumenta, assim, que:
+ ..  não podia esta Corte, no julgamento do RESP nº 1.216.768/PR, em que já havia operado tal coisa julgada material na ação ordinária, reconhecer a nulidade da NFLD objeto dos embargos à execução fiscal (NFLD nº 35.034.598-8), tendo em vista que tal pretensão já havia sido renunciada pela empresa Autora e objeto de extinção com resolução de mérito. (fl. 10)
+Ao final do petitório, formula pedido para que:
+ ..  seja rescindida a coisa julgada material que recai sobre o conteúdo do dispositivo decisório proferido na decisão monocrática que julgou o RESP nº 1.216.768/PR, em face da violação à coisa julgada anteriormente formada nos autos da ação ordinária nº 2007.70.00.032118-4 (numeração anterior - 2001.61.00.031979-4). (fl. 11)
+Em contestação, a ré pugnou, em preliminar, pela preclusão do direito alegado e pela impossibilidade de utilizar a ação rescisória como sucedâneo recursal.
+No mérito, arguiu a inexistência de violação à coisa julgada e de renúncia fiscal. Requer, assim, a improcedência do feito rescisório (fl. 1443-1460).
+O Ministério Público Federal opinou pela procedência da rescisória, em parecer assim ementado (fl. 1495):
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. OFENSA ÀCOISA JULGADA. OCORRÊNCIA.
+1. O Superior Tribunal de Justiça é competente para julgar ação rescisória nas hipóteses em que, apesar de ter sido negado seguimento ao recurso especial, a decisão rescindenda adentra o mérito da demanda.
+2. A decisão proferida nos autos do REsp nº 1.216.768/PR ofendeu coisa julgada anteriormente formada, concernente à homologação de renúncia do contribuinte à pretensão de reconhecimento da nulidade de lançamentos de débitos fiscais.
+3. Parecer pela procedência da ação rescisória, a fim de que, desconstituída a decisão rescindenda, seja extinto o processo (REsp nº 1.216.768/PR), sem resolução do mérito, na forma do art. 267, inciso V, do CPC.
+Devidamente intimadas para oferecer as razões finais, as partes reforçaram os argumentos anteriormente formulados.
+É o relatório.
+Decido.
+A notificação fiscal de lançamento de débito previdenciário em questão teve sua certidão de dívida ativa anulada, por irregularidades formais, pelo Poder Judiciário, no valor total de R$ 571.677,65 (quinhentos e setenta e um mil, seiscentos e setenta e sete reais e sessenta e cinco centavos), incluindo juros e multa (fls. 709-711).
+A presente ação, intentando desconstituir essa decisão transitada em julgado, funda-se no art. 485, inciso IV, do CPC/73, que assim dispõe:
+Art. 485. A sentença de mérito, transitada em julgado, pode ser rescindida quando:
+ ..
+IV - ofender a coisa julgada;
+ ..
+De início, a leitura atenta do judicium rescindens revela que o argumento ora veiculado na ação rescisória, a saber, o de que a decisão rescindenda foi proferida após o trânsito em julgado de ação idêntica anteriormente ajuizada, com mesmo pedido e causa de pedir - portanto, em flagrante coisa julgada -, não foi oportunamente apreciado nos autos principais, apesar da petição incidental de fls. 1289-1298.
+Ressalte-se que não havia empecilho algum para que a autora suscitasse a questão ainda quando da formação do julgado que ora se pretende rescindir, mesmo porque sequer foram opostos embargos de declaração ou interposto agravo interno para provocar o colegiado acerca da omissão.
+Com efeito, é assente no Superior Tribunal de Justiça o entendimento de que, na ação rescisória, "é vedado qualquer tipo de inovação argumentativa que poderia ter sido feita no processo originário, pois essa não se cuida de via recursal com prazo de dois anos" (AR 4.697/PE, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 28/10/2015, DJe 06/11/2015).
+Nessa mesma esteira:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. CUMULAÇÃO DE AUXÍLIO-ACIDENTE COM APOSENTADORIA. REQUISITOS PREENCHIDOS ANTES DA LEI N. 9.528/1997. INOVAÇÃO ARGUMENTATIVA E FEIÇÃO RECURSAL. IMPOSSIBILIDADE.
+1. A desconstituição da coisa julgada com base no art. 966, V, do CPC/2015 pressupõe que a decisão rescindenda contenha motivação manifestamente contrária às normas, princípios e regras que orientam o ordenamento jurídico, sendo inadequada a ação rescisória para o fim de obter revisão de entendimento.
+2. Caso em que a decisão rescindenda não adentrou nas peculiaridades suscitadas, limitando-se a explicitar a orientação firmada no julgamento do REsp n. 1.296.673/MG, sob o rito do art. 543-C do CPC/1973, segundo o qual descabe a cumulação do benefício acidentário com aposentadoria concedida após a Medida Provisória n. 1.596-14, de 11/11/1997, convertida na Lei n. 9.528/1997, como a do autor, que se deu em 26/11/1997.
+3. No feito originário, o segurado nem sequer interpôs agravo interno a fim de provocar a distinção do tema, seja para chamar a atenção para a data do preenchimento dos requisitos de sua aposentadoria, tese ora suscitada no pedido rescisório, seja para suscitar a existência de coisa julgada, não sendo possível, em sede rescisória, a inovação pretendida.
+4. Pedido rescisório improcedente. (AR 6.154/DF, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 14/08/2019, DJe 04/09/2019; grifei.)
+Assim, sob este enfoque, não se mostra cabível a presente ação, fundada no inciso IV do art. 485 do CPC/73.
+Noutro giro, ainda que se pudesse, por esforço interpretativo, entender factível a ausência de preclusão consumativa da autoria, melhor sorte não acorreria à parte autora quanto à alegação de tríplice coincidência das ações referidas.
+Isso porque, somente quando "verificada a identidade de partes, pedidos e causa de pedir entre ação anulatória e embargos à execução fiscal, fica caracterizada a litispendência ou a coisa julgada, a depender do estado dos feitos, o que impõe a extinção da ação ulteriormente proposta" (AgInt no AREsp n. 1.594.804/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+No mesmo sentido:
+PROCESSUAL CIVIL. MULTA ADMINISTRATIVA. EMBARGOS À EXECUÇÃO. AÇÃO ANULATÓRIA. POSTERIOR AJUIZAMENTO DE EXECUÇÃO FISCAL. LITISPENDÊNCIA RECONHECIDA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de embargos à execução, objetivando a nulidade da CDA com a cobrança de multa decorrente de auto de infração. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - A decisão recorrida está de acordo com a jurisprudência deste Superior Tribunal de Justiça no sentido de que havendo identidade de partes, causa de pedir e pedido, está configurada a litispendência da ação anulatória com os embargos à execução. No mesmo sentido, destacam-se: REsp n. 1.616.467/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2022, DJe de 26/9/2022; AgInt no AgInt no AREsp 1.041.483/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 15/12/2017.
+III - Agravo interno improvido. (AgInt no AREsp n. 1.829.331/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+No caso em apreço, do confronto entre as petições iniciais da ação ordinária (fls. 19-94) e dos embargos à execução (fls. 576-674), percebe-se que, apesar da igualdade das partes e da parcial coincidência dos pedidos (nulidade dos lançamentos previdenciários), não há identidade entre as causas de pedir, uma vez que os argumentos formulados em cada peça processual são diversos, utilizando-se de diferentes fundamentos legais.
+É tanto que a decisão rescindenda apenas confirmou o juízo meritório prolatado nas duas instâncias anteriores acerca da causa, cujo argumento jurídico fulminante foi a impossibilidade de aplicação do sistema de aferição indireta pela responsabilidade solidária, por violação do texto legal (fls. 581-584), o qual não foi exaustivamente enfrentado na ação que transitou em julgado primeiro.
+Assim, não existindo coisa julgada perfeita anteriormente ao julgado rescindendo - pois o fundamento acolhido na ação que precluiu por último foi outro, baseado em causa de pedir diversa, sem que tenha sido esgotada a discussão naquele -, também sob este viés não se mostra viável a vertente rescisão. Até porque a renúncia ao direito de ação (anulatória) não produz efeitos sobre os embargos à execução.
+Revela-se nítido, pois, que a rescisória em exame é mera tentativa de reverter a conclusão do julgado rescindendo, o que é inviável, como cediço, haja vista não se prestar a ação rescisória a mero sucedâneo recursal.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. ART. 966, V, DO CPC/2015. RECONHECIMENTO DO TEMPO DE SERVIÇO RURAL EXERCIDO ANTES DOS DOZE ANOS DE IDADE. PEDIDO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ALEGADA VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. INEXISTÊNCIA. DEMANDA RESCISÓRIA UTILIZADA COMO SUCEDÂNEO RECURSAL. MATÉRIA NÃO EXAMINADA NO DECISUM RESCINDENDO. INOVAÇÃO RECURSAL QUANTO À CAUSA DE PEDIR. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O STJ possui entendimento no sentido de que não cabe ação rescisória por violação manifesta de norma jurídica quando a matéria suscitada não foi debatida no acórdão rescindendo.
+2. No caso, não foi demonstrada a violação manifesta de norma jurídica, verificando-se, em verdade, a utilização da demanda como sucedâneo recursal, porquanto ajuizada com o nítido propósito de rediscutir o acerto da decisão transitada em julgado, o que não se pode admitir.
+3. A jurisprudência desta Corte entende ser vedado à parte, em agravo interno, inovar a causa de pedir formulada na petição inicial de sua ação rescisória.
+4. Agravo interno a que se nega provimento. (AgInt na AR n. 6.528/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, julgado em 25/10/2022, DJe de 28/10/2022.)
+AÇÃO RESCISÓRIA. PRELIMINAR DE DECADÊNCIA. AFASTAMENTO. MANIFESTA VIOLAÇÃO À NORMA JURÍDICA. NÃO OCORRÊNCIA. UTILIZAÇÃO DA AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. AÇÃO IMPROCEDENTE.
+1. Nos termos do art. 975 do CPC/2015, o direito à rescisão se extingue em 2 (dois) anos a partir do trânsito em julgado da última decisão proferida no processo, o que foi observado pelo autor. Rejeição da preliminar.
+2. O cabimento da ação rescisória, com amparo na violação literal da norma jurídica, pressupõe que o órgão julgador, ao deliberar sobre a questão posta, confira má aplicação a determinado dispositivo legal ou deixe de aplicar dispositivo legal que, supostamente, melhor resolveria a controvérsia. Portanto, é indispensável que a questão aduzida na ação rescisória tenha sido objeto de deliberação na ação rescindenda, mediante a aplicação errada da norma, não podendo ser a ação utilizada como sucedâneo recursal, sobretudo para se analisar a aplicação de eventuais óbices de conhecimento no recurso especial objeto acórdão rescindendo.
+3. Ação rescisória improcedente. (AR n. 6.047/MG, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 9/11/2022, DJe de 17/11/2022.)
+Ante o exposto, nos termos do art. 487, inciso I, do CPC/2015, julgo IMPROCEDENTE a presente rescisão.
+Honorários fixados em R$ 2.000,00 (dois mil reais) a cargo do autor (art. 85, § 8º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
+AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA. RENÚNCIA AO DIREITO DE AÇÃO TRANSITADA EM JULGADO ANTES DA DECLARAÇÃO DE NULIDADE DO LANÇAMENTO PREVIDENCIÁRIO. VIOLAÇÃO DA COISA JULGADA. INEXISTÊNCIA DE TRÍPLICE IDENTIDADE ENTRE AS AÇÕES. PEDIDO IMPROCEDENTE.
