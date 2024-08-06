@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSE MARCOS DOS SANTOS ARAGAO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO (Apelação n. 019215/2015).
+Depreende-se dos autos que o paciente foi condenado a 5 anos e 6 meses de reclusão, em regime inicial aberto, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, ante a apreensão de cerca de 500g (quinhentos gramas) de cocaína (e-STJ fls. 33/38).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso defensivo e retificou, de ofício, o regime de inicial de cumprimento de pena para o modo semiaberto, nos termos da seguinte ementa (e-STJ fl. 52):
+APELAÇÃO CRIMINAL. ART. 33 DA LEI Nº 11.343/2006. DOSIMETRIA DA PENA. REDUTOR PREVISTO NO §4º DO ART.33 DA LEI 11.343/2006. NÃO VERIFICAÇÃO. PRETENSÃO DE MAIOR REDUÇÃO DA PENA PELO RECONHECIMENTODA ATENUANTE DA CONFISSÃO. NÃO CABIMENTO. REDUÇÃO APLICADA DE FORMA RAZOÁVEL. REGIME INICIALDE CUMPRIMENTO DE PENA. ERRO MATERIAL. RETIFICAÇÃO EX OFÍCIO. REGIME SEMIABERTO. RECURSOCONHECIDO E IMPROVIDO. UNANIMIDADE.
+1-No que tange a redução do §4º, do art. 33, da Lei de Drogas esta só deve ser aplicada quando preenchido a integralidade dos seus requisitos legais, o que não ocorre no caso em apreço, porquanto o apelante tem sua conduta caracterizadora de atividades criminosas, uma vez que pela quantidade de droga apreendida (508 gramas de cocaína) em poder do mesmo, pelas circunstâncias em que se deu o flagrante, que comprovou que era Jose Marcos quem preparava e vendia o entorpecente e pelos depoimentos das testemunhas, não restam dúvidas de que o apelante se dedica ao tráfico de entorpecentes.
+2- Ademais, à luz do art. 42 da Lei nº 11.343/2006, o STF já decidiu que a considerável quantidade de droga apreendida em poder do apelante justifica a não aplicação da causa de diminuição de pena prevista no art. 33 §4º da Lei nº 11.343/2006.
+3-Observa-se, que o Código Penal não fixou limite máximo ou mínimo para ser aplicado em caso de circunstâncias atenuantes e agravantes, cabendo ao juiz fixar o quantum de maneira razoável, justa e proporcional.
+4 - Retificação para o regime semiaberto ex oficio de acordo com o art.33 §2º, b do CP.
+5-Recurso conhecido e improvido. Unanimidade
+Daí o presente writ, no qual sustenta a defesa a nulidade das provas, ao argumento de que foram obtidas por meio de busca domiciliar desprovida de mandado judicial, de fundadas razões ou de consentimento do morador. Acrescenta que a diligência foi lastreada exclusivamente em denúncia anônima.
+Alternativamente, aduz a  existência  de  constrangimento  ilegal  na  dosimetria  quanto ao aumento da pena-base e à negativa de aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Requer, liminarmente, a suspensão da execução da pena até julgamento definitivo desta impetração. No mérito, postula o reconhecimento da nulidade apontada e, por consequência, a absolvição do acusado. Sucessivamente, busca a fixação da pena-base no mínimo legal, além da aplicação da referida causa especial de diminuição de pena, na fração máxima de 2/3 (dois terços), com as repercussões legais (e-STJ fls. 19/20).
+Liminar indeferida (e-STJ fls. 62/64).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 1335/1337).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Superior Tribunal de Justiça não pode conhecer da alegada violação de domicílio, diante da falta de manifestação do Tribunal de origem sobre o tema, porquanto a tese defensiva levada a efeito na instância ordinária cingiu-se à revisão da dosimetria e ao regime inicial de cumprimento da pena. Portanto, não houve, nenhuma emissão de juízo de valor acerca da nulidade, ainda que tangencialmente.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. No que tange à tese de violaçao de domicílio, forçoso salientar que o tema não foi analisado pela Corte local, evidenciando-se a impossibilidade de conhecer-se da matéria, sob pena de vedada supressão de instância.
+5. Agravo regimental não provido. (AgRg nos EDcl no HC n. 875.147/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+Quanto ao pedido de revisão da dosimetria, verifica-se, em consulta ao endereço eletrônico do Tribunal de origem, que foi deferida ao paciente a progressão ao regime aberto, em decisão proferida na data de 4/6/2024, nos autos do processo n. 5000018-40.2021.8.10.0035, razão pela qual carece a defesa de interesse processual, no particular.
+Não bastasse, o Superior Trib unal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente transitou em julgado em 5/10/2015 (e-STJ fl. 69), de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
