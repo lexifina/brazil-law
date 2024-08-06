@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de Paulo Jorge Bertin contra decisão que inadmitiu seu recurso especial, o qual fora interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que, em ação de inventário, deu parcial provimento a agravo de instrumento para determinar a apresentação, pelas partes, dos respectivos pedidos de quinhão para ulterior deliberação, mantendo a decisão de primeira instância quanto aos percentuais que deveriam ser observados, em favor de cada uma das partes, relativamente ao bem imóvel objeto de colação.
+Alega a parte agravante nulidade do acórdão recorrido por ausência de fundamentação, sob o fundamento de que não teria enfrentado o argumento de aplicação dos preceitos estabelecidos na Lei Estadual n. 10.705/2000 para a precificação de valor de usufruto e nua-propriedade.
+No mérito, sustenta que o acórdão recorrido teria violado o art. 4º da Lei de Introdução às Normas do Direito Brasileiro, bem como o art. 97, IV, do Código Tributário Nacional.
+Argumenta que o acórdão recorrido teria confundindo "o conceito de valoração de usufruto para colação de bens com o conceito de meação do patrimônio da sociedade conjugal" (fl. 49).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos, verifico que não merece prosperar o recurso interposto.
+Ao apreciar a questão relativa aos percentuais estabelecidos para fins de colação no caso concreto, o Tribunal de origem assim se manifestou:
+Em primeiro lugar, nada há que se alterar quanto aos percentuais que deverão ser observados, em favor de cada uma das partes, relativamente ao bem imóvel objeto de colação.
+Verifica-se do processado que, já em 25 de outubro de 2018 por decisão proferida naquela ocasião (fls. 446/447 dos autos de origem) a questão dos percentuais fora decidida, anotando o Juízo a quo:
+"Verifico que realmente a partilha apresentada pelo inventariante não considerou os quinhões de cada herdeiro, tendo distribuindo individualmente os bens entre o viúvo e os herdeiros. Já que não há acordo, deverá o inventariante atribuir 50% dos bens a ele (meação) e os outros 50% (herança) ser dividido entre Andrea e Luiz Fernando (25% para cada um).
+Tem razão o herdeiro Luiz Fernando no que toca ao valor atribuído ao bem levado a colação. Deverá o inventariante atribuir à colação o valor do bem ao tempo da liberalidade, nos termos do art. 2004 do CC.
+Apenas para fins de pagamento de ITCMD se considerará o valor venal do ano do óbito".
+Referida decisão, é bem verdade, foi, à época, alvo de recurso de agravo igualmente aviado pelo inventariante, que ora novamente recorre. O reclamo, na ocasião, insurgiu-se especificamente quanto à matéria decidida pelo segundo parágrafo do excerto supra reproduzido - i.e., o valor do bem doado, e que deveria ser trazido à colação. Embora, com efeito, houvesse o Magistrado a quo entendido pela utilização, para tal fim, do "valor do bem ao tempo da liberalidade", consta que o recurso de agravo então interposto foi provido "para se estabelecer que, para fins de colação, seja levado a juízo o valor do imóvel doado ao tempo da abertura da sucessão, nos termos do artigo 639, parágrafo único, do Código de Processo Civil, podendo o magistrado, havendo dúvida, valer-se de avaliação pericial para estabelecimento do referido valor" (fl. 541 dos autos de origem).
+ ..  Ora bem. Embora o valor de referência do imóvel para fins de colação - valor dizer, a expressão pecuniária a ser utilizada para sua precificação - tenha sido, na ocasião, fixada pelo v. acórdão em base diversa daquela anteriormente estabelecida pelo Magistrado a quo, absolutamente nada se alterou quanto aos percentuais a serem considerados. Daí que permaneceram hígidos até porque outros não poderiam ser, em face do casamento do viúvo meeiro com a falecida, pelo regime de bens da comunhão universal os percentuais naquela ocasião estabelecidos.
+Daí que, ao efetuar, o agravante, seus cálculos considerando a colação do imóvel na proporção igualitária de 1/3 para si e para cada um dos dois herdeiros-filhos, fê-lo em flagrante erronia consequentemente majorando, de maneira indevida, seu quinhão no acervo hereditário e reduzindo, de forma igualmente descabida, a participação dos demais herdeiros.
+Vê-se, portanto, que o Tribunal local entendeu que a questão estaria preclusa, pois já debatida em decisão anterior.
+O agravante não impugnou tal fundamento, limitando-se a argumentar que seus cálculos eram baseados em preceitos de lei estadual.
+Evidenciada a falta de dialeticidade da argumentação desenvolvida no recurso especial, incide ao caso, por analogia, a Súmula 283 do Supremo Tribunal Federal.
+Para além disso, nota-se que o art. 4º da LINDB e o art. 97, IV, do CTN não foram objeto de análise pelo Tribunal de origem e os embargos de declaração opostos pelo agravante tampouco suscitaram sua discussão.
+Desse modo, também está ausente o necessário requisito constitucional do prequestionamento, a incidir, no ponto, o óbice da Súmula 211 deste Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
