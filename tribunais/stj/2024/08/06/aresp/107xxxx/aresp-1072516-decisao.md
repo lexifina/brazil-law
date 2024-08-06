@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão do Tribunal Regional Federal da 1 ª Região assim ementado:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRESCRIÇÃO QUINQUENAL. REMUNERAÇÃO PAGA PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AFASTAMENTO DO EMPREGADO POR MOTIVO DE DOENÇA OU ACIDENTE. FÉRIAS. ADICIONAL DE UM TERÇO DE FÉRIAS. SALÁRIO-MATERNIDADE. COMPENSAÇÃO. CORREÇÃO MONETÁRIA. MANUTENÇÃO.
+1. O Supremo Tribunal Federal, no julgamento do RE n. 566.621/RS, sob o regime de repercussão geral, reconheceu a inconstitucionalidade art. 40, segunda parte, da LC 118/05, considerando "válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005". Ação ajuizada em 12/11/2010: prescrição quinquenal.
+2. O abono pecuniário de férias (adicional de 1/3 constitucional) guarda natureza indenizatória, por isso que não sofre incidência da contribuição previdenciária. Precedentes desta Corte e do STJ.
+3. A jurisprudência é pacífica no sentido de que as verbas relativas ao salário -maternidade possuem natureza salarial, integrando, assim, a base de cálculo da contribuição previdenciária.
+4. A jurisprudência encontra-se pacificada no sentido de que a remuneração paga pelo empregador durante os primeiros quinze dias de afastamento do empregado por motivo de doença ou acidente não tem natureza salarial e sim previdenciária. Precedentes desta Corte e do STJ.
+5. A natureza eminentemente salarial das parcelas recebidas a título de férias gozadas afasta a pretensão autoral de se eximir do recolhimento de contribuição previdenciária sobre mencionadas verbas.
+6. Compensação dos créditos com contribuições de mesma espécie, a saber, aquelas previstas nas alíneas "a", "b" e "c" do parágrafo único do art. 11 da Lei 8.212/91. Aplicação do art. 26, parágrafo único, da Lei 11.457/07.
+7. As limitações previstas nas Leis ns. 9.032/95 e 9.129/95 foram revogadas pela Lei n. 11.941/2009.
+8. As condições e exigências impostas pela IN 900/2008 (prévia habilitação do crédito reconhecido por decisão transitada em julgado) são de todo razoáveis porque buscam identificar e certificar a existência do crédito e as condições em que ele foi reconhecido e a legitimidade do contribuinte.
+9. O Superior Tribunal de Justiça decidiu, em regime de recursos repetitivos, que o art. 170-A é aplicável às ações ajuizadas depois da entrada em vigência da LC 104/01 (REsp 1.164.452), caso dos autos (12/11/2010). No caso concreto, o Juízo monocrático estabeleceu a aplicação do art. 170-A.
+10. Na correção do indébito deve ser observado o Manual de Cálculos da Justiça Federal. A partir de 01/01/96 utiliza-se a taxa Selic, ressaltando-se, porém, que a aplicação desta não é cumulada com juros moratórias e/ou correção monetária.
+11. Apelação da Fazenda Nacional e remessa oficial parcialmente providas para reconhecer a prescrição dos créditos anteriores a cinco anos do ajuizamento da ação e estabelecer que os valores apurados pelas partes só podem ser compensados com contribuições de mesma espécie, a saber, aquelas previstas nas alíneas "a", "b" e "c" do parágrafo único do art. 11 da Lei 8.212/91.
+12. Apelação da impetrante desprovida.
+A recorrente sustenta que ocorreu violação do art. 535 do CPC/1973, dos arts. 9º e 170-A do CTN e do art. 22, I, da Lei 8.212/1991. Em suma, alega "a inexigibilidade do crédito tributário referente à contribuição previdenciária patronal pretensamente incidente sobre os valores pagos aos segurados a título de férias gozadas e salário-maternidade, e o direito de compensação dos valores indevidamente recolhidos" (fl. 349).
+Contrarrazões às fls. 409-415.
+O juízo negativo de admissibilidade (fls. 425-426) deu ensejo à interposição do presente Agravo (fls. 433-443).
+Contraminuta às fls. 446-448.
+Instado a se manifestar, o Ministério Público Federal emitiu parecer nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL SOBRE FÉRIAS GOZADAS. INCIDÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 83/STJ. Parecer pelo conhecimento do agravo para não conhecer o recurso especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18 de julho de 2024.
+O Recurso Especial foi inadmitido em virtude da orientação consolidada no Superior Tribunal de Justiça segundo a qual incide contribuição previdenciária sobre os valores pagos a título de férias gozadas e salário-maternidade porque tal verba possui natureza remuneratória e salarial, nos termos do art. 148 da CLT, e integra o salário de contribuição (AgRg no REsp 1.284.771/CE, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 13.5./2014; e AgRg no REsp 1.240.038/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 2.5.2014).
+O agravante, contudo, não refuta o ponto que motivou o trancamento do Recurso Especial (fls. 433-443).
+Incide, no caso, a Súmula 182 do STJ: "É inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido: AgInt no REsp 1.881.152/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28.10.2020 e AgInt no AREsp 1.751.773/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 18.12.2020.
+Veja-se o entendimento da Corte Especial do STJ sobre a matéria (grifei):
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Diante do exposto, com fulcro no art. 932, III, do CPC e no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
