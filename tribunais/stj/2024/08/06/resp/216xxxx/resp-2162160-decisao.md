@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DA BAHIA contra decisão do Tribunal de Justiça estadual que inadmitiu recurso especial, apresentado com fundamento no art. 105, inciso III, alínea a, da Constituição da República contra acórdão proferido no Mandado de Segurança n. 0022073-63.2014.8.05.0000, assim ementado (fls. 312-313):
+MANDADO DE SEGURANÇA PREVENTIVO. DIREITO CONSTITUCIONAL E FINANCEIRO. EMENDAS PARLAMENTARES IMPOSITIVAS. ORÇAMENTO ESTADUAL. PRELIMINARES. ILEGITIMIDADE PASSIVA DOS SECRETÁRIOS DA FAZENDA E DO DESENVOLVIMENTO URBANO. ACOLHIDA. CARÊNCIA DE AÇÃO POR PERDA SUPERVENIENTE DO OBJETO. REJEITADA. MÉRITO. EMENDA CONSTITUCIONAL ESTADUAL Nº 18/2014. OBRIGATORIEDADE DE LIBERAÇÃO DA VERBA PARLAMENTAR. APRESENTAÇÃO DE PROJETOS INDIVIDUAIS. OBSERVÂNCIA AO PRINCÍPIO DA ISON  . DIREI  LIQUIDO E CERTO. COMPROVADO. CONCESSÃO PARCIAL DA SEGURANÇA.
+A arguição de ilegitimidade passiva do Secretário da Fazenda e do Secretário de Desenvolvimento Urbano merece acolhimento, porquanto despiciendo figurarem no polo passivo da demanda, quando já integram a lide o Governador do Estado e o Secretário do Planejamento, autoridades imbuídas da competência para a prática do ato nesta ação almejado.
+Rejeita-se a preliminar de carência de ação pela perda superveniente parcial do objeto quanto à liberação da verba atinente ao orçamento impositivo de 2014, em virtude do pedido alternativo, para o exercício seguinte.
+No mérito, a ação mandamental foi devidamente instruída com os documentos necessários à compreensão da insurgência, os quais comprovam o direito liquido e certo dos impetrantes.
+De acordo com a Emenda Constitucional nº 18/2014, a qual alterou a redação do art. 160 e Parágrafos da Constituição do Estado da Bahia, é obrigatória à execução orçamentária e financeira das emendas individuais, tornando-as impositivas.
+Concede-se parcialmente a segurança no sentido de, após a indicação pelos impetrantes das ações a serem executadas, ser liberada a verba das emendas individuais impositivas dos exercícios financeiros vindouros.
+No recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a parte recorrente alega violação dos arts. 141, 485, inciso VI, e 492, todos do CPC, visto que o tribunal a quo teria extrapolado os limites da lide e do pedido. Explicou que os recorridos, na petição inicial ajuizada em dezembro/2014, solicitaram providências apenas acerca das emendas parlamentares do então exercício de 2014.
+Já o Acórdão combatido determinou ao Governador do Estado da Bahia que promovesse então a execução orçamentária referente às emendas parlamentares individuais dos exercícios vindouros (fls. 369-374).
+Em sede de decisão monocrática, o 2º Vice-Presidente do TJBA inadmitiu o apelo nobre, por entender haver óbice na Súmula n. 7 do STJ. Discorreu o magistrado que "a modificação das conclusões do acórdão recorrido demandaria a imprescindível incursão na seara fático-probatória do processo, o que é vedado na via estreita do recurso especial" (436-437).
+Irresignado, o recorrente interpôs Agravo em Recurso Especial alegando que a decisão monocrática exorbita o juízo provisório de admissibilidade que é cabível na instância originária, adentrando no mérito no apelo. Asseverou também que é desnecessário o revolvimento de fatos e provas, não sendo aplicável o óbice da Súmula n. 7 do STJ (fls. 451-461).
+Não foram apresentadas contrarrazões ao Agravo em Recurso Especial.
+É o relatório. Decido.
+Feita uma atenta leitura do acórdão recorrido e das razões do recurso especial, entendo que deve ser conhecido o agravo, a fim de que seja autuado como recurso especial, segundo previsto no art. 253, inciso I, alínea d, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, CONHEÇO do agravo para DETERMINAR a sua autuação como recurso especial.
+Façam-se as anotações necessárias.
+Após, dê-se nova vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
