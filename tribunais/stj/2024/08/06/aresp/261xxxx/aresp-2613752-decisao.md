@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CELITO MENEGATI, IOLENE MENEGATI e PASSARELLI SILVA ADVOCACIA S/S (CELITO e outros) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.265/1.268).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, CELITO e outros alegaram a violação dos arts. 489, § 1º, IV, 1.022, 5º, 6º, 85, § 2º e 505 do CPC; e art. 422 do CC, ao sustentarem que (1) houve negativa de prestação jurisdicional, pois o acórdão recorrido deixou de analisar a tese relativa ao tempo necessário para a liquidação do crédito e omitiu-se a respeito do motivo pelo qual concluiu pela preclusão da aplicação da supressio; (2) passados dois anos da determinação judicial para a apresentação de cálculos, a exequente permaneceu inerte, contribuindo para o aumento significativo do saldo devedor pela incidência dos encargos moratórios, devendo ser aplicado o instituto da supressio, a fim de impedir que sejam incluídos encargos moratórios do período de março de 2019 até o julgamento definitivo do agravo de instrumento; (3) são devidos honorários advocatícios, pois o fato de eles já terem sido arbitrados nos embargos à execução não impede nova condenação em razão do excesso nos cálculos apresentados.
+(1) Negativa de prestação jurisdicional
+Verifica-se que o Tribunal de Justiça do Estado de Mato Grosso motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Com efeito, o Tribunal estadual concluiu que CELITO e outros estavam cientes do saldo devedor e que a concordância da recorrida com os cálculos por eles apresentados tornou preclusa a matéria da supressio.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS SUSCITADOS.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, não se reconhece a violação ao art. 1.022, do NCPC, quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza vício do julgado.
+3. O verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa devidamente decidida.
+4. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+(EDcl no AgInt no REsp 1822748 / DF, Rel Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 24/10/2022 - sem destaques no original).
+Afasta-se, portanto, a alegada violação.
+(2) Da violação aos arts. 5º e 6º do CPC
+Trata-se, na origem, de ação de execução extrajudicial ajuizada por BANCO DO BRASIL S/A em face de ROMEU BACKES, NAIR BACKES, CELITO MENEGAT, IOLENE PEREIRA MENEGAT, ARTHUR KOHLER, VICENTE LUIZ ZAMBILLO e VERGINIA CAMILIA ZAMBILLO, lastreada em escritura pública de confissão de dívidas com garantias hipotecárias e pignoratícias, com vencimento em 1/7/1999.
+Em Primeira Instância, foi deferida a inclusão de TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS VIII S/A (TRAVESSIA) no polo ativo da demanda.
+O MM. Juiz a quo indeferiu pedido de CELITO e outros de aplicação da pena da supressio ao direito da TRAVESSIA em cobrar encargos moratórios do período de março de 2019 até a presente data, bem como indeferiu o pedido de arbitramento de honorários advocatícios em favor de CELITO e outros.
+Ao dirimir a controvérsia, o Tribunal local concluiu que não houve abusividade, nem má-fé por parte da TRAVESSIA. Confira-se:
+Impende ressaltar que o quadro dos autos no processo principal demonstra que a parte autora não agiu minimamente de má-fé ou buscou auferir ganho indevido com a execução.
+Bem diversamente, incumbia ao Autor dar início à atividade executiva, mediante apresentação de cálculos de atualização do valor do seu crédito.
+Assim, foi apresentado um cálculo do valor da execução como sendo de R$ 29.350.502,68. 63428251 - págs. 85/92
+A parte Executada apresentou manifestação (ID ), indicando como valor devido o montante de R$ 8.973.630,56, apurado em planilha de evolução de saldo devedor efetuada por perito particular (ID "s 63428251 - págs. 135/146 e 63428254 - págs. 1/32)
+Imediatamente, a parte Exequente, sem oferecer qualquer resistência, reconheceu como corretos os cálculos do Executado.
+É cediço que o instituto da supressio é um conceito jurídico originado do princípio da boa-fé objetiva, que ocorre quando uma parte, ao longo do tempo, deixa de exercer um direito de forma sistemática, gerando na outra parte a expectativa legítima de que esse direito não será mais exercido.
+Nos termos da jurisprudência desta Corte, " o  instituto da supressio indica a possibilidade de redução do conteúdo obrigacional pela inércia qualificada de uma das partes, ao longo da execução do contrato, em exercer direito ou faculdade, criando para a outra a legítima expectativa de ter havido a renúncia àquela prerrogativa" (AgInt no AREsp 1.774.713/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 09/08/2021, DJe de 13/08/2021).
+No caso dos autos, a demora na apresentação da memória de cálculo pela TRAVESSIA não tem o condão de acarretar a supressão do seu direito de incluir encargos moratórios no crédito, na medida em que a própria pendência da ação de execução impede que se gere, nos devedores, a expectativa de inexigibilidade desses encargos.
+Além disso, foram CELITO e outros que apresentaram a evolução do saldo devedor nos autos, efetuada por perito particular, com a qual TRAVESSIA veio a concordar, o que reforça a ideia de que eles poderiam ter quitado o débito a qualquer momento, independentemente da juntada dos cálculos por TRAVESSIA.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE BENS PASSÍVEIS DE EXECUÇÃO. INÉRCIA DO EXEQUENTE POR SIGNIFICATIVO PERÍODO DE TEMPO. BOA-FÉ OBJETIVA. "SUPRESSIO" . NÃO OCORRÊNCIA. DISTINÇÃO. PRESCRIÇÃO E DECADÊNCIA. IMPOSSIBILIDADE DA SUSPENSÃO DA FLUÊNCIA DE JUROS E CORREÇÃO MONETÁRIA DURANTE A SUSPENSÃO DO PROCESSO. INEXISTÊNCIA DE OFENSA À COISA JULGADA. RECURSO PROVIDO.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local se pronunciou, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O princípio da não surpresa não impede a requalificação jurídica do enquadramento fático circunscrito na causa de pedir da demanda, em relação ao qual houve o necessário contraditório, defluindo do princípio jura novit curia.
+3. A supressio consubstancia-se na impossibilidade de se exercer um direito por parte de seu titular em razão de seu não exercício por certo período variável de tempo e que, em razão desta omissão, gera da parte contrária uma expectativa legítima de que não seria mais exigível. Não se confunde, ademais, com a prescrição e com a decadência, institutos pelos quais se opera a extinção da pretensão ou do direito potestativo pela simples passagem do tempo.
+4. A suspensão do cumprimento de sentença, em virtude da ausência de bens passíveis de excussão, por longo período de tempo, sem nenhuma diligência por parte do credor, não pode dar ensejo à suspensão da fluência dos juros e da correção monetária pela configuração da supressio, porquanto a pendência da ação que busca a concretização do título judicial impede que se gere no devedor a expectativa de inexigibilidade do débito.
+5. Ainda que fosse possível o reconhecimento da supressio, não ocorreria vulneração da coisa julgada e tampouco do princípio pacta sunt servanda , porquanto o instituto da supressio e outros deveres anexos e encargos que circundam e decorrem da boa-fé objetiva situam-se em momento posterior à formação da relação jurídica e interferem em seu exercício.
+6. Recurso especial provido.
+(REsp 1717144 / SP, Rel Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 14/02/2023 - sem destaques no original).
+(3) Da violação ao art. 85, § 2º do CPC
+Nas razões recursais, CELITO e outros afirmaram que, considerando a adequação do cálculo por TRAVESSIA, ela deveria ser condenada ao pagamento de honorários de sucumbência sobre o excesso nos cálculos.
+No ponto, o Tribunal estadual entendeu não há que se falar em fixação de honorários de sucumbência, pois já houve condenação a esse título quando do julgamento dos embargos à execução e que a credora TRAVESSIA concordou com o valor apontado por CELITO e outros, de modo que inexistiu resistência. Confira-se:
+Não é caso, pois, de arbitramento de honorários advocatícios, visto que não sobreveio divergência instaurada entre as partes e, logo, a figura de parte sucumbente.
+Ressalte-se que já houve a condenação do Exequente em honorários advocatícios quando do julgamento dos Embargos à Execução nº. 0008048-19.2008.8.11.0055, não se mostrando justo e razoável o acolhimento da pretensão recursal.
+Considerando a moldura fática que foi soberanamente desenhada pelo acórdão recorrido, uma vez fixados honorários advocatícios no julgamento dos embargos à execução, não há permissivo legal a autorizar uma nova condenação em verba honorária, já que houve concordância da credora com os cálculos apresentados por CELITO e outros.
+Ademais, a alteração do entendimento consignado pela Câmara julgadora não seria possível sem incursão no acervo fático-probatório enfeixado nos autos, o que é vedado pela Súmula 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11 do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia de fixação de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APLICAÇÃO DA PENA DA SUPRESSIO. SUSPENSÃO DA FLUÊNCIA DE JUROS E CORREÇÃO MONETÁRIA. DESCABIMENTO. NOVA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. CONCORDÂNCIA COM OS CÁLCULOS APRESENTADOS PELO EXECUTADO. AUSÊNCIA DE RESISTÊNCIA DA PARTE CONTRÁRIA. REEXAME. SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
