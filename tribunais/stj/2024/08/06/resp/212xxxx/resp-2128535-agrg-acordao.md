@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 768/772, de minha relatoria, em que neguei provimento ao recurso especial pelos seguintes fundamentos: i) Súmula n. 7 do STJ; ii) não incidência do princípio da consunção entre os crimes dos arts. 302 e 306 do CTB; iii) adequação da fração utilizada pelo reconhecimento do concurso formal; iv) ausência de ilegalidade no prazo da pena de suspensão para dirigir veículo; v) danos morais e materiais devidos e; vi) alteração do valor obstada pelo óbice da Súmula n. 7 do STJ.
+O agravante se insurge contra essa decisão alegando que o etilômetro utilizado pelos agentes no dia dos fatos não estava em dia com as aferições periódicas realizadas pelo INMETRO. Menciona precedente desta Corte aplicando o princípio da consunção entre os crimes dos arts. 302 e 306 da Lei n. 9.503/1997. Por fim, se insurge contra o valor indenizatório, sob o argumento de que não houve perícia para auferir o prejuízo material ou moral sofrido pelas vítimas, nem mesmo indicação de quaisquer valores a serem restituídos.
+Requer a reconsideração do decisum ou o julgamento do recurso pelo órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES DOS ARTS. 306, § 1º, I; 302, CAPUT E 303, CAPUT, TODOS DA LEI N. 9.503/97, NA FORMA DO ART. 70, CAPUT, DO CP. MATERIALIDADE. ALEGAÇÃO DE QUE O ETILÔMETRO ESTAVA FORA DO PRAZO DE VALIDADE. SÚMULA N. 7 DO STJ. CALIBRAGEM E VERIFICAÇÃO PERIÓDICA ANUAL. CONCEITOS DISTINTOS. CONSUNÇÃO ENTRE OS CRIMES DE EMBRIAGUEZ AO VOLANTE E LESÃO CORPORAL CULPOSA. INAPLICABILIDADE. DANOS MORAL E MATERIAL. PEDIDO EXPRESSO. VALORES CONDIZENTES COM AS LESÕES. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. As alegações recursais de que o aparelho estava fora do prazo de validade, em confronto com as afirmações do acórdão recorrido, prendem-se a uma perspectiva de reexame de matéria de fato, providência inviável na via do recurso especial, a teor do disposto na Súmula n. 7 deste ST J.
+2. A regularidade do etilômetro (bafômetro) é aferida pela verificação periódica anual realizada pelo INMETRO, enquanto a calibragem do aparelho constitui conceito distinto e é realizada na única oportunidade em que ele é oferecido ao órgão público.
+3. Os danos materiais, de acordo com o acórdão recorrido, foram condizentes com o valor suportado por cada uma das vítimas com as despesas médicas, Josué e Giovana suportaram lesões graves, sendo que ambos ficaram internados por considerável tempo e afastados de suas atividades cotidianas por mais de 30 dias, tendo sido arbitrado o valor de R$ 3.000,00 para cada Para a vítima Clícia, que teve lesões leves, foi estabelecido o valor de R$ 1.000,00.
+4. Vê-se que os valores indenizatórios por dano material e moral foram fixados, no caso, com base no conjunto fático-probatório dos autos, o que impede sua alteração na via do recurso especial. Incidência da Súmula n. 7 do STJ.
+5. Agravo regimental desprovido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Quanto à alegada imprestabilidade da prova material, o TJSP assim se pronunciou:
+Com relação ao delito tipificado no artigo 306, § 1º,inciso I, da Lei nº 9.503/97, não há que se falar em absolvição por eventual imprestabilidade do etilômetro usado para aferir a embriaguez do acusado.
+Com efeito, ao contrário do alegado, não ficou demonstrada a ausência de verificação anual e periódica no aparelho.
+De início, destaco que o aparelho estava dentro do prazo de validade da certificação do INMETRO, que venceria apenas em 21/06/2018, conforme constou da fita do teste do etilômetro de fl. 15.
+Anoto que a referida verificação não se confunde coma calibração do aparelho, que é procedimento diverso. Portanto, quando o equipamento funciona perfeitamente, não há necessidade de se calibrar. A informação, no teste do etilômetro, quanto à data da última calibração refere-se à última vez em que houve a necessidade de ajustes no equipamento.
+ ..
+Na hipótese dos autos, as testemunhas relataram a presença de claros sinais de embriaguez e, além disso, o teste do etilômetro confirmou que o apelante estava sob influência de álcool, mais precisamente em 0,52 mg/l (cinquenta e dois miligramas) de álcool por litro de ar alveolar. (e-STJ fls. 580/581)
+Verifica-se que as razões recursais afirmando que o aparelho estava fora do prazo de validade, em confronto com as afirmações do acórdão recorrido, prendem-se a uma perspectiva de reexame de matéria de fato, providência inviável na via do recurso especial, a teor do disposto na Súmula n. 7 deste STJ.
+Ademais, como bem destacado no acórdão estadual, a regularidade do etilômetro (bafômetro) é aferida pela verificação periódica anual realizada pelo INMETRO, enquanto a calibragem do aparelho constitui conceito distinto e é realizada na única oportunidade em que ele é oferecido ao órgão público. A propósito: AgRg no AREsp n. 405.796/PI, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/11/2016.
+Assinala-se também que o TJSP não dissentiu do entendimento desta Corte Superior no sentido de que não se aplica o princípio da consunção aos crimes de embriaguez ao volante (art. 306 do CTB) e de lesão corporal decorrente de acidente causado por motorista de veículo automotor (art. 303 do CTB), pois, sendo delitos autônomos, o primeiro não é meio normal nem fase de preparação ou execução para o cometimento do segundo (AgRg no AREsp n. 1.769.642/PR, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 12/3/2021).
+O afastamento da Súmula 83/STJ exige a demonstração de divergência estabelecida entre o entendimento adotado pelo Tribunal e a jurisprudência do STJ, com indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, na espécie.
+O precedente citado pela defesa é muito anterior ao indicado na decisão agravada.
+Consigne-se, ainda, que em recente julgamento proferido nos autos do REsp 2.029.732/MS, a Quinta Turma deste Superior Tribunal de Justiça passou a adotar o entendimento já acolhido pela Sexta Turma deste STJ, sedimentando a posição segundo a qual, para a fixação de valor mínimo para indenização à vítima por danos morais, não se exige instrução probatória específica acerca do dano psíquico, do grau de seu sofrimento, nos termos do art. 387, IV, do CPP, bastando que conste o pedido expresso na inicial acusatória, garantindo o exercício do contraditório e da ampla defesa.
+Exatamente como na hipótese, em que houve pedido expresso na denúncia, conforme se verifica à e-STJ fl. 200.
+Os danos materiais, de acordo com o acórdão recorrido, foram condizentes com o valor suportado por cada uma das vítimas com as despesas médicas, Josué e Giovana suportaram lesões graves, sendo que ambos ficaram internados por considerável tempo e afastados de suas atividades cotidianas por mais de 30 dias, tendo sido arbitrado o valor de R$ 3.000,00 para cada Para a vítima Clícia, que teve lesões leves, foi estabelecido o valor de R$ 1.000,00.
+Vê-se que os valores indenizatórios por dano material e moral foram fixados, no caso, com base no conjunto fático-probatório dos autos, o que impede sua alteração na via do recurso especial. Incidência da "Sumula n. 7 do STJ.
+Por fim, constata-se a tese defensiva de que existe bis in idem no presente processo, já que, além do título indenizatório as vítimas, o Magistrado substituiu a pena privativa de liberdade por restritiva de direito consistente no pagamento de 03 salários-mínimos (e-STJ fl. 752) não foi objeto de debate pelo acórdão recorrido, ressentindo-se o recurso especial do necessário prequestionamento.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
