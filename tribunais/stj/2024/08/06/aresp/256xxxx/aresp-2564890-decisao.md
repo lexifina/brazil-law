@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAIS E DE COMPENSAÇÃO POR DANOS MORAIS SERVIÇOS BANCÁRIOS. FRAUDE DE TERCEIROS. CULPA EXCLUSIVA DO CONSUMIDOR. CONFIGURADA. EXCLUDENTE DE RESPONSABILIDADE. AUSÊNCIA DE RESPONSABILIDADE OBJETIVA DO BANCO. NEXO DE CAUSALIDADE NÃO DEMONSTRADO. REPARAÇÃO POR DANOS MATERIAIS AFASTADA. DANO MORAL NÃO CONFIGURADO. SENTENÇA MANTIDA.
+1. A relação jurídica estabelecida entre as partes é de natureza consumerista, uma vez as partes se amoldam aos conceitos de fornecedor e consumidor, conforme disposto nos artigos 2º e 3º do Código de Defesa do Consumidor, bem como entendimento consolidados e assentado no enunciado da súmula n. 297 do Superior Tribunal de Justiça, verbis: "O Código de Defesa do Consumidor é aplicável àsinstituições financeiras".
+2. O Superior Tribunal de Justiça editou, também, a Súmula n. 479, de acordo com a qual: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo afraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+3. O artigo 14 do Código de Defesa do Consumidor impõe ao fornecedor responsabilidade objetiva pelos danos que causar.
+4. Reputar-se-á responsável o fornecedor por qualquer defeito relativo aos serviços prestados, bem como por informações insuficientes ou inadequadas sobre suafruição e riscos, independentemente de se examinar o elemento subjetivo da culpa.
+5. A exclusão da responsabilidade, por seu turno, somente ocorrerá se houver demonstração do rompimento do nexo causal.
+6. Incumbe ao fornecedor demonstrar que o serviço foi prestado sem defeito ou com culpa exclusivado consumidor ou de terceiros, conforme disposto no artigo 14, § 3º, do Código de Defesa do Consumidor, sendo certo que desse ônus o apelante não se desincumbiu.
+7. Na espécie, os dois contratos questionados foram entabulados diretamente no terminal de autoatendimento do banco apelado, mediante a inserção da senha pessoal do consumidor, e por essa razão, foi desnecessária a aposição de assinatura, de modo que, se realmente não foi ele quem contratou, certamente, ainda que involuntariamente, permitiu que terceira pessoa (fraudador) tivesse acesso a ela.
+8. Verificada a conduta regular por parte da instituição bancária na prestação do serviço, e a culpa exclusiva do consumidor, afasta-se a responsabilidade objetiva do banco, de maneira que não háilícito capaz de permitir a indenização, seja material, seja moral.
+9. RECURSO CONHECIDO. NO MÉRITO, DESPROVIDO. HONORÁRIOS MAJORADOS"
+Opostos embargos de declaração, foram rejeitados.
+O agravante aponta, além de divergência jurisprudencial, violação aos arts. 6º, inciso VIII, e 14, ambos do Código de Defesa do Consumidor, sustentando falha na prestação dos serviços do agravado, que deve arcar com os prejuízos decorrentes de operações fraudulentas realizadas em sua conta bancária.
+Contrarrazões às fls. 823/828 e-STJ.
+Juízo negativo de admissibilidade proferido às fls. 331/332 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, firmada no sentido de que "a responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista" (AgInt no REsp 1.855.695/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/8/2020, DJe 27/8/2020).
+Ainda nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM NULIDADE, REVISIONAL E INDENIZAÇÃO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. OFENSA AO ART. 535, II, DO CPC/1973. NÃO OCORRÊNCIA. CARTÃO DE CRÉDITO. UTILIZAÇÃO PELO CÔNJUGE DO TITULAR. DEVER DE GUARDA. AUSÊNCIA DE RESPONSABILIDADE DA ADMINISTRADORA DE CARTÃO. SÚMULA 7/STJ. JULGAMENTO EXTRA PETITA E REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. CAPITALIZAÇÃO DE JUROS. PACTUAÇÃO EXPRESSA. AGRAVO NÃO PROVIDO.
+1. Não se conhece da violação a dispositivos da Constituição Federal, uma vez que compete ao Supremo Tribunal Federal o exame de matéria constitucional, conforme preconiza o art. 102 da Carta Magna.
+2. Não se constata violação ao art. 535 do CPC/1973, na medida em que a Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+3. O Tribunal de origem, mediante o exame dos elementos informativos da demanda, entendeu pela ausência de responsabilidade da administradora diante da culpa exclusiva do titular do cartão de crédito, que não se desincumbiu do seu dever de guarda.
+4. Infirmar as conclusões do julgado demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+5. A jurisprudência desta eg. Corte pacificou-se no sentido de que a cobrança de juros de forma capitalizada é admitida nos contratos bancários, celebrados a partir da edição da Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2.170-36/2001, qual seja, 31/3/2000, desde que expressamente pactuada.
+6. Agravo interno a que se nega provimento" (AgInt no AgRg no AREsp n. 826.090/PR, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), QUARTA TURMA, DJe de 20/11/2017.)
+No caso, houve expressa menção de que houve culpa exclusiva do agravado por sua negligência de guarda, tendo em vista que as operações realizadas ocorreram pela apresentação física do cartão e da utilização da senha pessoal.
+A revisão dessa conclusão, esbarra no óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
