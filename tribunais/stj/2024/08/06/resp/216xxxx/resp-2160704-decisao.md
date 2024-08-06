@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por VISAO BRASIL PARA NEGOCIOS LTDA, com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. EXECUÇÃOFISCAL. PRAZO PRESCRICIONAL. PARCELAMENTO. CAUSA INTERRUPTIVA. NECESSIDADEDE DILAÇÃO PROBATÓRIA.
+1. Compulsando os elementos presentes nos autos originários, verifica-se que, não obstante as alegações em sentido contrário deduzidas pela agravante, há indícios de que houve adesão a programas de parcelamento pela empresa, conforme demonstram os registros juntados (EV. 52, docs.02/05 - autos originários). Nestes documentos, consta informação de que tal parcelamento fora objeto de encerramento por rescisão em 14/01/2018.
+2. Tendo em vista que o referido cancelamento se dera na data supramencionada, tal qual apontado na decisão agravada, e a demanda executiva fiscal fora ajuizada em 24/01/2022, com citação da agravante determinada em 25/01/2022, não há como prosperar, em princípio, a alegação de prescrição dos débitos objetos de execução, uma vez que desde a interrupção do prazo prescricional -caracterizada pelo parcelamento - até a decisão que determinou sua citação na demanda executiva fiscal proposta, não houve o transcurso de período superior a 5 anos entre os dois eventos.
+3. O parcelamento é inequívoca causa de suspensão da exigibilidade do crédito tributário e interrupção da prescrição.
+4. Conquanto a agravante não tenha logrado êxito em demonstrar os contornos do parcelamento, a ensejar o reconhecimento de plano da tese de prescrição defendida através do presente recurso,diligência de sua responsabilidade, tem-se que a exceção de pré-executividade não é a via adequada para a discussão deste ponto controvertido, pela necessidade de dilação probatória, medida incompatível com esta estreita via de defesa. Os Embargos à Execução se constituem no meio adequado para que o executado, ora agravante, alegue toda sua matéria de defesa, desde que ofereça bens à garantia, conforme dispõe o art. 16 da LEF.
+5. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+6. Agravo de Instrumento ao qual se nega provimento.
+Os embargos de declaração opostos foram improvidos.
+No presente recurso especial, o recorrente apontou violação ao art. 1.022 do CPC/2015, sustentando, em síntese, que restou comprovada a ocorrência da prescrição do valor exequendo.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+De fato, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, tendo o julgador abordado a questão à fls. 71-74, consignando que "não há como prosperar, em princípio, a alegação de prescrição dos débitos objetos de execução, uma vez que desde a interrupção do prazo prescricional - caracterizada pelo parcelamento - até a decisão que determinou sua citação na demanda executiva fiscal proposta, não houve o transcurso de período superior a 5 anos entre os dois eventos.".
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. BENEFÍCIO DE GRATUITA DA JUSTIÇA. DECLARAÇÃO DE POBREZA. COMPROVAÇÃO DE CAPACIDADE DE ARCAR COM AS CUSTAS DO PROCESSO. MULTA. LITIGÂNCIA DE MÁ-FÉ. ART. 4º, §1º, DA LEI 1.060/50. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.625.513/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Configura erro grosseiro a interposição de agravo regimental em face de decisão colegiada, de modo que não é cabível a aplicação do princípio da fungibilidade recursal para conhecer do recurso como embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp n. 958.813/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 2/2/2017, DJe 13/2/2017.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Em virtude do disposto no § 11 do art. 85 do CPC/2015, determino a majoração dos honorários sucumbenciais em 1 (um) ponto percentual, caso estipulados pelas instâncias ordinárias em percentual sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa. Caso a verba sucumbencial tenha sido arbitrada pelas instâncias ordinárias em valor fixo, determino a sua majoração em 10% (dez por cento). Em ambas as hipóteses, a majoração da verba sucumbencial está vinculada aos limites previstos no § 3º do mencionado dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
