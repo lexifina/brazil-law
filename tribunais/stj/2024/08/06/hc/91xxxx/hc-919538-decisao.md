@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AVERALDO FERREIRA DA SILVA FILHO contra decisão no habeas corpus que indeferiu a liminar no writ de origem (fls. 75/80).
+Consta dos autos que o paciente encontra-se preso preventivamente pela prática dos crimes previstos no artigo 2º, caput, §§ 2º, 3º e 4º, IV, da Lei nº 12.850/13, c/c os artigos 33, 35 e 4 0, IV, todos da Lei nº 11.343/06.
+Sustenta o impetrante, em síntese, que: "O decreto de prisão preventiva expedido contra o paciente, teve com fundamentos principais o suposto envolvimento em homicídio que revelou-se inconsistente em razão da impronúncia, bem assim o pretenso tráfico de drogas." (fl. 14).
+Aponta, ademais, que se trata "(..) de um Cidadão pai de 3 (três) sendo uma delas uma criança de apenas 3 anos de vida, para a qual o ordenamento jurídico prevê a possibilidade de franquear ao seu Genitor a prisão domiciliar." (fl. 17).
+Busca demonstrar que: "O certo é que não se trata de um elemento de alta periculosidade social, contra o qual não seja possível implementar medidas cautelares diversas da prisão, além do mais há fatos supervenientes a serem considerados, como ausência de contemporaneidade da manutenção da prisão e manifesto excesso de prazo, como dito ao logo desse arrazoado em sede de petição inicial de habeas corpus." (fls. 20/21).
+Requer, liminarmente e no mérito, seja superada a Súmula 691/STF e, ainda que de ofício, revogada a prisão preventiva, com a aplicação das medidas cautelares alternativas, como prisão domiciliar combinada com monitoramento eletrônico.
+É, no essencial, o relatório.
+Decido.
+Pois bem. Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+E, da análise da documentação acostada aos autos, verifico que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, uma vez que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentada quanto ao indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo as seguintes considerações (fls. 78/80):
+"De outro vértice, verifica-se que foi julgado anterior habeas corpus, tombado sob o nº 8000206-23.2024.8.05.0000, em 04/04/2024, no qual já fora analisada a legalidade da prisão, conforme se verifica na ementa abaixo colacionada:
+ ..
+Deste modo, verificando que o pedido formulado pela Defesa é idêntico ao apreciado em anterior writ, deixo de conhecer de tal pleito. Vale ressaltar ainda que fora impetrado habeas corpus tombado sob o nº 8025557-95.2024.8.05.0000, cuja liminar fora conhecida parcialmente, e o processo foi incluído na pauta presencial do dia 06/06/2024.
+Assim, conheço parcialmente do writ, somente quanto à alegação de excesso prazal, bem como quanto ao pleito de aplicação de medidas cautelares, com sob alegação de que possui filhos menores.
+Cediço é que a decisão de liminar em processo de habeas corpus é medida excepcional, somente admissível quando inequivocadamente demonstrada a ilegalidade do ato impugnado e evidenciados o periculum in mora, entendido como a efetiva possibilidade de lesão grave, de difícil ou impossível reparação, o fumus boni iurus, ou seja, a plausibilidade do direito subjetivo postulado.
+Outrossim, a concessão de liminar só é possível se o alegado constrangimento ilegal for manifesto e perceptível ao primeiro contato dos autos.
+Não diviso tal situação no caso em exame. Diante disto, não se cuidando de situação justificadora da concessão in limine do pedido, INDEFIRO o pleito de antecipação da tutela."
+Dessa forma, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ademais: "Embora o art. 654 § 2.º, do Código de Processo Penal, preveja a possibilidade da concessão de habeas corpus de ofício," t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (STJ, AgRg no HC n. 702.446/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/03/2022, DJe 22/03/2022)." (RCD no HC n. 744.307/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
