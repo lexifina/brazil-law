@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto por ANA MARIA DA SILVA SANTOS (ANA MARIA), contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado.
+Nas razões do presente inconformismo, defendeu que o recurso especial é tempestivo, pois foi interposto em 19.05.2023 e não dia 23.08.2023, como erroneamente consta na decisão da presidência.
+Não foi apresentada contraminuta (e-STJ, fls. 443).
+É o relatório.
+DECIDO.
+Considerando as razões apresentadas no presente agravo interno, em especial que o recurso especial foi protocolado em 19.05.2023 e não dia 23.08.2023, portanto, tempestivo, RECONSIDERO a decisão de e-STJ, fls. 391/392 e passo a novo exame do recurso interposto às e-STJ, fls. 365/376.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ANA MARIA alegou a violação dos arts. 98, 99 do CPC, ao sustentar que (1) é indispensável a suspensão do processo em razão da afetação do tema nº 1.178 do STJ; (2) deve ser deferida a gratuidade em razão da sua sensível situação financeira, até porque o mesmo benefício foi deferido em outro processo (busca e apreensão) envolvendo as mesmas partes; (3) não foi concedida oportunidade de maiores esclarecimentos e comprovação suplementar da sua real condição financeira; (4) não pode ser ignorada a situação de superendividamento; (5) basta a simples afirmação de pobreza para obtenção do benefício, até prova em contrário.
+Foram apresentadas contrarrazões (e-STJ, fls. 340/345).
+(1) Do tema nº 1.178 do STJ
+A decisão de afetação proferida no REsp nº 1.988.687/RJ, no REsp nº 1.988.697/RJ e no REsp nº 1.988.686/RJ, de relatoria do Ministro Og Fernandes, julgada em 6/12/2022, DJe 20/12/2022, delimitou o Tema nº 1.178 nos seguintes termos:
+Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil.
+Tendo em vista que ANA MARIA não mencionou nenhum critério objetivo para fundamentar seu novo pedido de gratuidade, que está alicerçado basicamente na concessão do benefício em processo diverso e na simples declaração de hipossuficiência, forçoso reconhecer que a hipótese dos autos não se enquadra no tema objeto de suspensão por esta Corte Superior.
+(2) Da gratuidade da justiça
+É assente no STJ o entendimento segundo o qual a presunção de hipossuficiência declarada pelo beneficiário ou postulante à assistência judiciária gratuita é relativa, podendo ser ilidida pela parte adversa ou, ainda, exigida a sua comprovação pelo magistrado, sob pena de indeferimento ou revogação.
+Assim, a autodeclaração de insuficiência financeira para arcar com as despesas processuais sem prejuízo do sustento próprio e da família goza de presunção relativa de veracidade, podendo ser afastada pelo magistrado fundamentadamente quando constatar elementos de prova em sentido contrário.
+No caso dos autos, o Tribunal estadual, após análise dos autos, concluiu que ANA MARIA não demonstrou a alegada hipossuficiência financeira. Confira-se:
+A autora requer, em seu recurso de apelação, a gratuidade da justiça. Contudo, o pedido de gratuidade já havia sido indeferido pelo Douto Juiza quo (fls.50) e o indeferimento foi mantido em grau de recurso, conforme Acórdão de fls.92/108 dos autos.
+É cediço que a renovação do pedido de gratuidade é admissível, desde quehaja a alteração da situação financeira e patrimonial do postulante, sob pena de tornaro segundo pedido de gratuidade em uma revisão da decisão de indeferimento outroraproferida.
+No caso, a apelante não demonstrou a alteração de sua situação financeira e patrimonial, em face do quadro existente à época do indeferimento do primeiro pedido de concessão dos benefícios de gratuidade.
+As razões recursais não estão acompanhadas de documentos aptos a alicerçaro pedido renovado de gratuidade da justiça (e-STJ, fls. 271/272).
+Desse modo, a revisão da conclusão a que chegou o Tribunal a quo, demanda a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da mencionada Súmula nº 7, desta Corte, segundo a qual: a pretensão de simples reexame de prova não enseja recurso especial. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. PEDIDO DE GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. BENEFÍCIO NÃO CONCEDIDO PELO TRIBUNAL ESTADUAL. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. .. .
+2. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica (CPC/2015, art. 99, §§ 2º e 3º).
+3. O Tribunal de Justiça confirmou decisão que não concedeu o benefício de assistência judiciária gratuita ao ora agravante, sob o entendimento de que os documentos juntados demonstram incompatibilidade com o alegado estado de necessidade para o benefício pretendido. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 do STJ.
+4. É inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.969.720/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2022, DJe de 25/4/2022 - sem destaque no original)
+(3) Da intimação prévia
+Por fim, no que se refere à necessidade de intimação prévia da autora para comprovar o preenchimento dos pressupostos, em consonância com o art. 99, § 2º, do CPC, trata-se de questão que não foi objeto de debate no Tribunal de origem, tampouco foi suscitada sua discussão por ocasião da oposição dos embargos de declaração, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incide, à hipótese, os óbices das Súmulas nºs 282 e 356 do STF, por analogia.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MÁ PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. RESPONSABILIDADE INDENIZATÓRIA. REVISÃO DE VALOR. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Recurso especial que suscita negativa de prestação jurisdicional, nos termos do art. 1.022 do CPC/2015, sem indicar precisamente o ponto que supostamente estaria omisso, contraditório, obscuro ou com erro material, é deficiente em sua fundamentação e atrai a aplicação do óbice descrito na Súmula 284/STF.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.191.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 17/11/2020, sem destaque no original).
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. 1. TEMA Nº 1.178 DO STJ. SUSPENSÃO DO PROCESSO. IMPOSSIBILIDADE. INDICAÇÃO DE CRITÉRIOS OBJETIVOS PARA AFERIÇÃO DA GRATUIDADE. INEXISTÊNCIA NO CASO DOS AUTOS. 2. INDEFERIMENTO ANTERIOR DO BENEFÍCIO. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. PRESUNÇÃO RELATIVA. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. 3. NECESSIDADE DE INTIMAÇÃO PRÉVIA DOS BENEFICIÁRIOS, NOS TERMOS DO ART. 99, § 2º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS NºS 282 E 356 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
