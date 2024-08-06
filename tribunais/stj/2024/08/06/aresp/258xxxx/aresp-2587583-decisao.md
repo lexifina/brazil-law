@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra acórdão prolatado no Agravo de Instrumento n. 2228298-18.2022.8.26.0000.
+Consta dos autos que o agravado ajuizou exceção de pré-executividade objetivando o reconhecimento da prescrição dos débitos de IPTU em cobro no executivo fiscal, pedido parcialmente acolhido. O Tribunal de origem, em reforma da decisão, acolheu integralmente a exceptio do contribuinte, nos seguintes termos (fl. 101):
+Execução fiscal. IPTU dos exercícios de 2003 e 2004. Alegação de prescrição do crédito tributário. A exceção de pré-executividade oposta foi parcialmente acolhida. A irresignação da agravante comporta provimento.
+Aplicação do artigo 174 do CTN. O ajuizamento da ação (fevereiro de 2010) deu-se fora do lustro legal referente ao crédito controverso (ano de 2004), razão pela qual é o caso de reforma da decisão recorrida. Dá-se provimento ao recurso para reformar-se a decisão agravada e extinguir-se a execução, nos termos do acórdão.
+No recurso especial, a municipalidade alega violação aos seguintes dispositivos:
+a) art. 1.022, inciso II, do CPC/2015, por ausência de fundamentação e omissão em relação aos marcos interruptivos da prescrição e
+b) arts. 173, inciso I, e 174, caput, e parágrafo único, inciso I, do CTN, pela inexistência de prescrição
+É o relatório. Decido.
+Observo que o Tribunal de origem enfrentou expressamente o tema referente à a prescrição do crédito tributário, assim como a data de sua constituição, no julgamento do Agravo e dos dois Embargos de Declaração opostos (fls. 101-105, 110-113 e 120-123). Portanto, inexiste ausência ou insuficiência de fundamentação ou omissão, razão pela qual não há que se falar em ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Verifico, ademais, que a Corte de origem, ao apreciar a matéria de fundo, que trata da prescrição d o título executivo, analisou a controvérsia levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO SUFICIENTE DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
