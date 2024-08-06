@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DO MARANHÃO contra decisão do TR IBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 83):
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO Nº 14.440/2000 DOSINPROESEMMA. EXCESSO DE EXECUÇÃO. EXCLUSÃO DOS HONORÁRIOSSUCUMBENCIAIS. EXCESSO QUE SOMENTE PASSOU A EXISTIR EM RAZÃO DADEFINIÇÃO DE NOVOS MARCOS INICIAL E FINAL NO IAC Nº 18.193/2018. DESPROVIMENTO.
+1. O excesso de execução apontado pelo magistrado de base, única tese defendida pelo Estado no presente recurso interno, somente passou a existir após a definição dos termos inicial e final da execução no bojo do IAC nº 18.193/2018, não podendo a parte ser penalizada por ter elaborado, anteriormente, cálculos embasados nos períodos que se acreditava fossem os corretos, com base inclusive em decisões desta Corte anteriores à fixação das teses do Incidente de Assunção de Competência.
+2. Noutras palavras, seria injusto imputar à parte agravada ônus sucumbencial por excesso de cálculos que somente passou a existir em razão da fixação de novo entendimento por esta Corte Estadual.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 100-112).
+Nas razões do recurso especial (fls. 113-124), interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante aponta violação dos arts. 82, §2º, 85, caput e §3º, 98, §3º, todos do Código de Processo Civil, sustentando que, em razão do princípio da causalidade, "uma vez proposta a ação a parte derrota deve arcar com os ônus decorrentes da sucumbência, se a sucumbência for parcial os ônus decorrentes deverão ser rateados pelas partes" (fl. 116).
+Alega, ainda, que:
+ ..  nos cumprimentos individuais da referida sentença coletiva, a base de cálculo correta para se apurar os honorários sucumbenciais devidos pelo Estado do Maranhão é o montante efetivamente apurado como devido nos termos do IAC nº 18.193/2018 (após novos cálculos observando-se os marcos temporais inicial e final), e a base de cálculo correta para se apurar os honorários sucumbenciais devidos pela parte contrária é o montante efetivamente apurado como cobrança em excesso após incidência da metodologia definida nos termos do IAC nº18.193/2018.
+ .. . (fl. 118)
+Ao final, requer seja conhecido e provido o recurso.
+Sem contrarrazões (fl. 127), o recurso foi inadmitido na origem, pela incidência da Súmula n. 7 do STJ (fls. 128-131).
+Razões do agravo às fls. 133-140.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para impugnação (fl. 143).
+É o relatório. Decido.
+Preenchidos os pressupostos para o conhecimento do agravo, prossegue-se na análise do recurso especial.
+A irresignação, entretanto, não merece prosperar.
+No que diz respeito à verba honorária, o Tribunal de origem assim manifestou-se (fls. 390-391; sem grifos no original):
+ ..
+Conforme cristalinamente consignado na decisão monocrática ora guerreada, o excesso de execução apontado pelo magistrado de base, única tese defendida pelo Estado no presente recurso interno, somente passou a existir após a definição dos termos inicial e final da execução no bojo do IAC nº 18.193/2018, não podendo a parte ser penalizada por ter elaborado, anteriormente, cálculos embasados nos períodos que se acreditava fossem os corretos, com base inclusive em decisões desta Corte anteriores à fixação das teses do Incidente de Assunção de Competência.
+Noutras palavras, seria injusto imputar à parte agravada ônus sucumbencial por excesso de cálculos que somente passou existir em razão da fixação de novo entendimento por esta Corte Estadual.
+Trata-se de entendimento reiteradamente confirmado por esta Primeira Câmara Cível, vide os seguintes julgados: Agravo de Instrumento nº 0805766-16.2021.8.10.0000; Agravo de Instrumento nº 0815882-81.2021.8.10.0000; e Agravo de Instrumento nº 0815720-86.2021.8.10.0000.
+Destarte, a manutenção da decisão monocrática no ponto questionado, qual seja, a exclusão da condenação da parte agravada no pagamento de honorários sucumbenciais da execução, é medida que se impõe.
+Face ao exposto, NEGO PROVIMENTO ao agravo interno.
+Ao julgar os embargos opostos pelo Estado, a Corte local consignou (fl. 105):
+ ..
+Com efeito, os embargos de declaração são recurso de fundamentação vinculada, devendo, pois, capitular sua argumentação nas restritas hipóteses do art. 1.022 do Código de Processo Civil, quais sejam: omissão, obscuridade, contradição ou erro material.
+In casu, o embargante utiliza o argumento de omissão para rediscutir matérias já enfrentadas na decisão monocrática originária e no agravo interno levado a esta Primeira Câmara Cível, o que se mostra inviável pela via estreita deste recurso.
+Isso porque inexiste, no julgado embargado, qualquer ausência de fundamentação que caracterize a omissão apontada, uma vez que o decisum tratou à saciedade e claramente os temas ora rediscutidos, deixando claro que o excesso de execução apontado pelo magistrado de base, única tese defendida pelo Estado nos recursos interpostos, somente passou a existir após a definição dos termos inicial e final da execução no bojo do IAC nº 18.193/2018, não podendo aparte ser penalizada por ter elaborado, anteriormente, cálculos embasados nos períodos que se acreditava fossem os corretos, com base inclusive em decisões desta Corte anteriores à fixação das teses do Incidente de Assunção de Competência.
+Colaciono trecho de meu voto em que tratei da matéria:
+Como se percebe, o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese acerca de eventual ofensa aos dispositivos legais tidos por violados, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+Além disso, o recurso especial não trouxe a alegação de afronta do art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1025 do Estatuto Processual.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESERVA DE VAGAS. AVALIAÇÃO DE HETEROIDENTIFICAÇÃO. MANDADO DE SEGURANÇA. VIA INADEQUADA À IMPUGNAÇÃO. DEFICIÊNCIA RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. DIVERGÊNCIA NÃO COMPROVADA. INCIDÊNCIA DA SÚMULA N. 283/STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+V - Lado outro, por simples cotejo entre as razões do recurso especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal, contida no art. 50, III, da Lei n. 9.784/1999, nem sequer implicitamente foi apreciada pelo Tribunal de origem, não obstante terem sido opostos embargos de declaração, para tal fim.
+VI - Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o recurso especial, no ponto, incidindo o teor da Súmula n. 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo"). Nesse sentido: AgInt no AREsp n. 1.172.051/SP, relator Ministro Ricardo Villas Vôas Cueva, Terceira Turma, DJe de 23/3/2018).
+VII - Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC, por ocasião da interposição do recurso especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento. Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+ ..
+X - Agravo interno improvido. (AgInt no REsp 2.113.842, relator Ministro
+Francisco Falcão, Segunda Turma, julgado em 27/5/2024, DJe 29/5/2024.)
+DIREITO ADMINISTRATIVO. PROCESSO CIVIL. DESAPROPRIAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOMÍNIO DO IMÓVEL. COMPROVAÇÃO INCONCLUSIVA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF, POR ANALOGIA. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ANÁLISE DE ÓBICE PELA ALÍNEA C. PREJUDICADO. PROVIMENTO NEGADO.
+ ..
+3. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. A incidência do art. 1.025 do Código de Processo Civil (prequestionamento ficto) exige que o recurso especial tenha alegado a ocorrência de violação do art. 1.022 do caderno processual, possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida, o que não ocorreu na espécie.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.485.533/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+Constata-se, ainda, que a parte recorrente, nas razões do apelo nobre, deixou de impugnar o argumento relativo ao fato de que a causalidade ocorreu em virtude da definição dos termos inicial e final da execução no julgamento do IAC n. 18.193/2018, fundamento contido no acórdão atacado que é suficiente para a sua manutenção. Portanto, incide o óbice da Súmula n. 283 do STF. Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Por fim, o Tribunal a quo, na análise dos elementos fático-probatório dos autos, concluiu que a parte exequente não deu causa ao excesso apontado no título executivo, mas, sim, em razão do entendimento firmado no IAC n. 18.193/2018.
+Desse modo, para rever a conclusão do acórdão recorrido, aferir a proporção do decaimento de cada parte, para concluir pela ocorrência de sucumbência recíproca ou mínima, seria necessário o reexame de provas, providência descabida no âmbito do recurso especial, nos termos da Súmula n. 7 desta Corte Superior.
+Em igual sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO. EQUIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. É assente o entendimento de que não cabe ao STJ rever a conclusão adotada pelo Tribunal de origem quanto ao princípio da causalidade ou à sucumbência recíproca, visto que isso implica o revolvimento do contexto fático-probatório, inviável na instância especial à luz da Súmula 7 deste Superior Tribunal. Precedentes.
+3. Esta Corte possui o entendimento, sedimentado em julgamento realizado sob a sistemática dos recursos repetitivos, de que, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+4. Na hipótese dos autos, a verba honorária arbitrada em 1% (um por cento) do valor fixado na sentença dos embargos à execução não se mostra desarrazoada, mormente levando em consideração o tempo decorrido desde o seu ajuizamento (dezembro/2008), sendo o caso de se obstar o apelo nobre em face da Súmula 7 do STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 1.437.906/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2021, DJe de 14/12/2021; sem grifos no original.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea a, do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários advoc atícios, por se tratar de acórdão proferido em agravo de instrumento na origem.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CONTEÚDO NORMATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REVISÃO. INVIABILIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
