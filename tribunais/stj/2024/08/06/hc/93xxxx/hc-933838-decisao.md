@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Fabio Junior Balbino Freire em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de Minas Gerais, que denegou o Habeas Corpus n. 1.0000.24.323882-1/000, mantendo a prisão preventiva do paciente imposta pelo Juízo de Direito da 1ª Vara Criminal, da Infância e Juventude e de Execuções Fiscais da comarca de Lavras/MG, pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa alega constrangimento ilegal na manutenção da prisão preventiva, uma vez que não existem fundamentos concretos que justifiquem a aplicação dessa medida.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva com a expedição do respectivo alvará de soltura.
+É o relatório.
+Infere-se do decreto prisional (fl. 31):
+ ..
+In casu, após analisar as circunstâncias da diligência e os materiais apreendidos pelos agentes da lei, verifico que a conduta supostamente perpetrada se revestiu de gravidade concreta apta a abalar a ordem pública.
+Ora, trata-se da apreensão de 15 (quinze) pés de maconha e de vários aparatos utilizados tanto no cultivo da substância ilícita quanto na comercialização - sistema de luzes e irrigação e balança de precisão. Como se não bastasse, foi localizado quase 1,5 kg da mesma substância (mais precisamente um mil quatrocentos e noventa e sete gramas) no quintal da residência, em um invólucro que estava homiziado em um tambor.
+Além disso, deve ser ressaltado que os militares mencionaram a presença de um indivíduo armado no imóvel, que acabou evadindo, a robustecer os indícios de que aquela residência era utilizada para atividades criminosas.
+Nesse contexto, o Tribunal de Justiça, ao ratificar os fundamentos adotados pelo Magistrado, denegou a ordem, mantendo a prisão preventiva do paciente.
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+E, de fato, para esta Corte Superior, a quantidade, a variedade e a natureza da droga apreendida, bem como o risco de reiteração delitiva, podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+Contudo, in casu, verifico ser desproporcional a imposição de prisão preventiva; trata-se de paciente primário, crime cometido sem violência, e a quantidade de droga apreendida não se mostra expressiva a justificar a medida mais gravosa - 15 pés de maconha e 1,5 kg da mesma droga. Portanto, a gravidade da infração deve ser avaliada com base na quantidade e no contexto das drogas apreendidas.
+A prisão preventiva deve ser a última ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal. A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso. A imposição direta da medida mais gravosa, sem a devida análise dos fatores mencionados, pode ser considerada desproporcional e, portanto, contrária aos princípios constitucionais.
+Necessário haver uma gradação proporcional ao fato em questão, não apenas a imposição direta da cautelar mais grave.
+A corroborar: AgRg no HC n. 821.552/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 18/4/2024; e AgRg no RHC n. 186.743/MG, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 21/12/2023.
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão preventiva por medidas cautelares a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. 15 PÉS DE MACONHA E 1,5 KG DA MESMA DROGA. PACIENTE PRIMÁRIO. SUBSTITUIÇÃO POR CAUTELARES. PROPORCIONALIDADE E ADEQUAÇÃO.
+Ordem concedida liminarmente nos termos do dispositivo.
