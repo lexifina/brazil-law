@@ -1,0 +1,268 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 7
+
+07/08/2024
+
+PLENÁRIO
+
+EMB.DECL. NO AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO
+1.484.431 R IO GRANDE DO SUL
+RELATOR
+EMBTE.(S)
+ADV.(A/S)
+EMBDO.(A/S)
+PROC.(A/S)(ES)
+
+: MINISTRO PRESIDENTE
+: CARLOS MOACYR DE MAGALHAES TWEEDIE E
+OUTRO(A/S)
+: CAIO MARTINS LEAL
+: ESTADO DO RIO GRANDE DO SUL
+: PROCURADOR-GERAL DO ESTADO DO RIO
+GRANDE DO SUL
+
+Ementa: DIREITO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. URV.
+PERÍCIA. PENDÊNCIA DO VALOR DO PERCENTUAL DEVIDO. AUSÊNCIA DE
+QUESTÃO CONSTITUCIONAL. SÚMULAS 282, 356, 284 E 279/STF. PRETENSÃO
+MERAMENTE INFRINGENTE.
+I. CASO EM EXAME
+1.
+Embargos de declaração opostos contra acórdão que
+negou provimento ao agravo interno.
+2.
+O recurso extraordinário com agravo foi interposto para
+impugnar acórdão que negou provimento ao agravo de instrumento.
+II. QUESTÃO EM DISCUSSÃO
+3.
+Preenchimento dos pressupostos de embargabilidade
+previstos no art. 1.022 do CPC/2015.
+III. RAZÃO DE DECIDIR
+4.
+Não há erro, obscuridade, contradição ou omissão no
+acórdão questionado. A via recursal adotada não se mostra adequada
+para a renovação de julgamento que ocorreu regularmente.
+IV. DISPOSITIVO
+5.
+Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, em conformidade com a
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B520-A644-A7C3-20A1 e senha 14FD-E90C-1B3B-3418
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 7
+
+ARE 1484431 AGR-ED / RS
+ata de julgamento, em Sessão Virtual, acordam os Ministros do Supremo
+Tribunal Federal, por unanimidade de votos, em rejeitar os embargos de
+declaração, nos termos do voto do Relator.
+Brasília, 28 de junho a 6 de agosto de 2024.
+Ministro LUÍS ROBERTO BARROSO
+Presidente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B520-A644-A7C3-20A1 e senha 14FD-E90C-1B3B-3418
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 7
+
+07/08/2024
+
+PLENÁRIO
+
+EMB.DECL. NO AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO
+1.484.431 R IO GRANDE DO SUL
+RELATOR
+EMBTE.(S)
+ADV.(A/S)
+EMBDO.(A/S)
+PROC.(A/S)(ES)
+
+: MINISTRO PRESIDENTE
+: CARLOS MOACYR DE MAGALHAES TWEEDIE E
+OUTRO(A/S)
+: CAIO MARTINS LEAL
+: ESTADO DO RIO GRANDE DO SUL
+: PROCURADOR-GERAL DO ESTADO DO RIO
+GRANDE DO SUL
+
+RELATÓRIO:
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (PRESIDENTE):
+1.
+Trata-se de embargos de declaração opostos contra
+acórdão que contou com a seguinte ementa:
+DIREITO
+
+ADMINISTRATIVO.
+
+AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO COM AGRAVO. URV. PERÍCIA. PENDÊNCIA DO
+VALOR DO PERCENTUAL DEVIDO. AUSÊNCIA DE QUESTÃO
+CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282, 356, 284 E
+279/STF.
+1.
+Agravo interno contra decisão que negou
+seguimento a recurso extraordinário com agravo, o qual tem
+por objeto acórdão que negou provimento ao agravo de
+instrumento.
+2.
+Existência de questão constitucional suscitada pela
+parte agravante que não foi objeto de análise pelo Tribunal de
+origem. Tal circunstância atrai a incidência das Súmulas 282 e
+356/STF.
+3.
+A parte recorrente deixou de indicar em que
+consiste a suposta violação de permissivo constitucional.
+Incidência da Súmula 284/STF.
+4.
+Hipótese em que, para dissentir do entendimento
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45C3-D8A6-93FF-AD85 e senha 91BA-CCF4-2E13-9E25
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 7
+
+ARE 1484431 AGR-ED / RS
+firmado pelo Tribunal de origem, seria necessário analisar a
+legislação infraconstitucional pertinente e reexaminar fatos e
+provas constantes dos autos, procedimentos vedados neste
+momento processual (Súmula 279/STF).
+5.
+Inaplicável o art. 85, § 11, do CPC/2015, uma vez
+que não houve prévia fixação de honorários advocatícios de
+sucumbência.
+6.
+Agravo interno a que se nega provimento.
+
+2.
+A parte embargante sustenta que “não é exato que ‘a
+petição de agravo não trouxe novos argumentos aptos a desconstituir a
+decisão agravada’ (primeiro fundamento). Na verdade, trouxe-os, e
+muitos, embora nenhum, absolutamente nenhum, tenha sido analisado
+ou julgado pelo v. acórdão embargado, donde, já por isso, a omissão e o
+cabimento dos declaratórios”.
+3.
+
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45C3-D8A6-93FF-AD85 e senha 91BA-CCF4-2E13-9E25
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 5 de 7
+
+07/08/2024
+
+PLENÁRIO
+
+EMB.DECL. NO AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO
+1.484.431 R IO GRANDE DO SUL
+VOTO:
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (PRESIDENTE):
+1.
+Os embargos não merecem ser acolhidos, tendo em vista a
+inexistência de erro, obscuridade, contradição ou omissão no acórdão
+questionado, o que afasta a presença dos pressupostos de
+embargabilidade, conforme o art. 1.022 do CPC.
+2.
+Estes
+embargos
+veiculam
+pretensão
+meramente
+infringente, objetivam tão somente o reexame de pedido já repelido, à
+unanimidade, por este Plenário, e não podem conduzir à renovação do
+julgamento que não se ressente de nenhum vício e, muito menos, à
+modificação do julgado.
+3.
+A parte recorrente limita-se a postular uma nova
+apreciação do mérito de um julgamento que transcorreu de forma
+regular. Incide, no caso, a jurisprudência do Supremo Tribunal Federal
+que afasta o cabimento dos declaratórios com essa finalidade.
+4.
+
+Restou evidente na decisão embargada:
+(i) a existência de questão constitucional suscitada pela
+parte agravante que não foi objeto de análise pelo Tribunal de
+origem. (Súmulas 282 e 356/STF);
+(ii) a parte recorrente deixou de indicar em que consiste a
+suposta violação de permissivo constitucional. (Súmula
+284/STF);
+(iii) para dissentir do entendimento firmado pelo Tribunal
+de origem, seria necessário analisar a legislação
+infraconstitucional pertinente e reexaminar fatos e provas
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6ED8-EC75-4883-DCBD e senha 7288-A12F-3B31-8C51
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 6 de 7
+
+ARE 1484431 AGR-ED / RS
+constantes dos autos. (Súmula 279/STF).
+
+5.
+Este Tribunal já firmou o entendimento de que não se
+revelam cabíveis embargos de declaração quando, a pretexto de
+esclarecer uma inexistente situação de obscuridade, omissão ou
+contradição, vêm a ser opostos com o inadmissível objetivo de infringir o
+julgado, em ordem a viabilizar um indevido reexame da causa (AI
+177.313-AgR-ED, Rel. Min. Celso de Mello).
+6.
+
+Diante do exposto, rejeito os embargos.
+
+7.
+
+É como voto.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6ED8-EC75-4883-DCBD e senha 7288-A12F-3B31-8C51
+
+Supremo Tribunal Federal
+Extrato de Ata - 07/08/2024
+
+Inteiro Teor do Acórdão - Página 7 de 7
+
+PLENÁRIO
+EXTRATO DE ATA
+EMB.DECL. NO AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO
+1.484.431
+PROCED. : RIO GRANDE DO SUL
+RELATOR : MINISTRO PRESIDENTE
+EMBTE.(S) : CARLOS MOACYR DE MAGALHAES TWEEDIE E OUTRO(A/S)
+ADV.(A/S) : CAIO MARTINS LEAL (3732/RS)
+EMBDO.(A/S) : ESTADO DO RIO GRANDE DO SUL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DO RIO GRANDE DO SUL
+Decisão: O Tribunal, por unanimidade, rejeitou os embargos de
+declaração, nos termos do voto do Relator, Ministro Luís Roberto
+Barroso (Presidente). Plenário, Sessão Virtual de 28.6.2024 a
+6.8.2024.
+Composição: Ministros Luís Roberto Barroso (Presidente),
+Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Edson Fachin,
+Alexandre de Moraes, Nunes Marques, André Mendonça, Cristiano
+Zanin e Flávio Dino.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1A9B-2BCB-5D91-9656 e senha CC37-2508-AEB7-19B5
