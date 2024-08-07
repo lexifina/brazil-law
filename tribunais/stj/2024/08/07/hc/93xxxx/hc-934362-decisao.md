@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JONATAS PALANCIO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2073467-41.2024.8.26.0000).
+Consta dos autos que o paciente foi denunciado como incurso no art. 168, § 1º, inciso III, do Código Penal. Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 12):
+HABEAS CORPUS Apropriação indébita. Pedido de trancamento da ação penal, por atipicidade da conduta. Ressarcimento dos valores questionados.
+IMPOSSIBILIDADE. Reparação de danos ofertada três anos após os fatos. Consumação do crime. - Presença de indícios de autoria e materialidade No momento, está presente justa causa para a persecução penal. Necessidade de análise do conjunto probatório para verificação da atipicidade da conduta e da efetiva responsabilidade do acusado. Inviável em habeas corpus - Ordem Denegada.
+No presente mandamus, a defesa aduz, em síntese, que o valor apropriado foi restituído, com acréscimo de juros e mora, antes da audiência de instrução e julgamento. Afirma, no mais, que o dolo não ficou configurado, cuidando-se de época de pandemia
+Pugna, assim, pela absolvição do paciente.
+É o relatório. Decido.
+Em razão da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de não ser admissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de não se desvirtuar a finalidade dessa garantia constitucional, preservando, assim, sua utilidade e eficácia, e garantindo a celeridade que o seu julgamento requer. Referido entendimento foi ratificado pela Terceira Seção, em 10/6/2020, no julgamento da Questão de Ordem no Habeas Corpus n. 535.063/SP.
+Nessa linha de intelecção, como forma de racionalizar o emprego do writ e prestigiar o sistema recursal, não se admite a sua impetração em substituição ao recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Conforme relatado, a defesa se insurge, em síntese, contra a manutenção da ação penal pelo crime de apropriação indébita, em virtude de ter restituído os valores antes da audiência de instrução e julgamento.
+A Corte local, ao analisar a alegação defensiva, registrou que (e-STJ fl. 14):
+Não se revela inequívoca a ausência de justa causa para o desenvolvimento da ação penal. Conforme manifestação da acusação as fls. 79 os fatos ocorreram em 2020 e a reparação ocorreu em 1/3/24, estando o fato consumado. Ainda que tenha ocorrido antes da audiência de instrução, verificada a existência de provas a embasar a acusação penal, a atipicidade das imputações e a efetiva responsabilidade do acusado exigem a conveniente apuração através de regular contraditório, descabido o aprofundado exame dos elementos constantes nos autos na estreita via do habeas corpus.
+Pela leitura do excerto acima transcrito, verifica-se que o acórdão impugnado encontra-se em consonância com a jurisprudência desta Corte Superior, que é no sentido da impossibilidade de se examinar o dolo em habeas corpus.
+Com efeito, "O afastamento do animus rem sibi habendi, elemento subjetivo do tipo, demanda revolvimento fático probatório incabível na via estreita do writ" (HC n. 488.055/PR, Relator Ministro Joel Ilan Paciornik, 5ª T., DJe 26/2/2019). (AgRg no HC n. 881.836/SP, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ademais, não há se falar em atipicidade da conduta, em virtude da restituição posterior dos valores apropriados, uma vez que não existe no ordenamento pátrio referida causa excludente da tipicidade.
+Pelo exposto, não conheço do mandamus.
+Publique-se.
+EMENTA
