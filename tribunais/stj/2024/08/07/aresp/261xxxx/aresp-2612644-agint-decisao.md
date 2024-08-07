@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão monocrática (fls. 380-381) proferida pela Presidência do STJ que não conheceu do Agravo em Recurso Especial.
+O agravante alega:
+No tocante às premissas da decisão agravada naquilo em que o recurso do Estado não foi provido, com a devida vênia, não há que se afirmar que a mesma esteja correta, em especial, quando são analisados os fundamentos apresentados pelo Estado. 2. Ainda que de forma sucinta, o Estado demonstrou que os fundamentos da decisão agravada não devem prosperar, momento em que restou demonstrada a violação ao art. 1022 do CPC/15, senão vejamos:
+(..)
+O atual cenário, portanto, deverá ser alterado em favor do ora Agravante, pois, inaplicáveis os óbices apontados na decisão recorrida naquilo que não foi provido em favor do Estado. Ou seja, demonstrada a inexistência dos óbices apontados na decisão agravada.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31.7.2024.
+De início, esclareço que assiste razão à parte agravante quanto aos argumentos que afastam a incidência da Súmula 182 do STJ, razão pela qual, reconsidero a decisão agravada, passando, desde logo, à nova análise da pretensão recursal.
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. POLICIAL MILITAR. CANCELAMENTO DE REGISTRO DE PENALIDADE NO ASSENTAMENTO FUNCIONAL. NÃO OCORRÊNCIA DE PRESCRIÇÃO DA PRETENÇÃO AUTORAL. PREVISÃO LEGAL. ART. 56 DA LEI ESTADUAL Nº 7.990/01. REQUISITOS PREENCHIDOS NA ESPÉCIE. LEI POSTERIOR E HIERARQUICAMENTE SUPERIOR EM RELAÇÃO AO REGULAMENTO DISCIPLINAR DA POLÍCIA MILITAR (DECRETO ESTADUAL Nº 29.535/1983). SENTENÇA MANTIDA. APELO NÃO PROVIDO.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 140 e 1.022 do CPC. Alega:
+Opera-se, portanto, a negativa de prestação jurisdicional por violação aos arts. 140 e 1.022, inciso II, do Código de Processo Civil, impondo a declaração de nulidade do acórdão que julgou os Embargos Declaratórios opostos e sua consequente cassação, determinando-se a manifestação explícita acerca das matérias de lei federal que compõem o mérito do apelo especial.
+Portanto se o Tribunal "a quo" não apreciou questões suscitadas nas contrarrazões de apelação recusando explicitamente a fazê-lo quando provocado via embargos de declaração, expôs-se ao reexame dessa Colenda Corte de Justiça por manifesta violação dos dispositivos da lei federal acima especificados.
+A irresignação não merece prosperar.
+Inicialmente, a parte sustenta que os arts. 140 e 1.022 do CPC foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+As razões recursais devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado. A menção esparsa e assistemática de normas infraconstitucionais no corpo do REsp não supre a necessidade de fundamentação adequada. A mera citação de artigo de lei na peça recursal não cumpre a exigência constitucional. Incidência da Súmula 284/STF: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. OFENSA À SÚMULA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA 518/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA 283/STF. REINTEGRAÇÃO DE POSSE. FAIXA DE DOMÍNIO. PERÍCIA. CERCEAMENTO DE DEFESA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula 284, do Supremo Tribunal Federal.
+III - Não se pode conhecer da apontada violação aos arts. 489, § 1º, IV, 560, 561 1.022 do Código de Processo Civil e art. 1.197 do Código, uma vez que o recurso se cinge a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, Civil.
+IV - O conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência da Súmula 518 do Superior Tribunal de Justiça.
+V - O tribunal de origem decidiu pela improcedência da ação de reintegração de posse, sob o fundamento de que a ocupação de terras particulares para a construção da rodovia no trecho objeto da reintegração não foi precedida de procedimento expropriatório e que não dispõe o Estado, na desapropriação indireta, de proteção possessória de áreas contíguas a terras esbulhadas.
+VI - Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula 283 do Colendo Supremo Tribunal Federal.
+VII - Rever o entendimento do Tribunal de origem, que consignou a ausência de cerceamento de defesa, tendo sido a perícia realizada dentro dos parâmetros legais, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7/STJ.
+VIII - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IX - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+X - Agravo Interno improvido.
+(AgInt no REsp n. 1.967.408/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Diante do exposto, dou provimento ao Agravo Interno, reconsidero a decisão de fls. 380-381 e conhecer do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
