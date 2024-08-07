@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEODAINE GONCALVES DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2167516-74.2024.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, de homicídio qualificado.
+O Tribunal de origem denegou a ordem (e-STJ fls. 112/115).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz que o réu agiu em legítima defesa.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 110/111):
+Os fatos imputados aos representados são graves, ficando evidenciada a periculosidade social da ação, saltando aos olhos o abalo à ordem pública.
+O réu Leodaine ostenta condenações transitadas em julgado (fls. 82/87 e 90/95) e se encontra cumprindo pena no foro de São Simão (vide fls. 87 - autos7000137-68.2017.8.26.0129).
+Os réus Odáquis e Ronilson, conforme certidões de fls. 88/89 e 96/99,são primários.
+Como consta dos autos, no dia 25 de dezembro de 2023, por volta de 04:30 min, na rua Marques de Olinda, altura do nº 53, nesta cidade e comarca, o réu Leodaine, qualificado a fls. 12, agindo em concurso com Odáquis e Ronilson, mediante recurso que dificultou a defesa da vítima Reginaldo Alves Teodosio, matou-a com o emprego de arma branca, provocando-lhe o ferimento descrito no laudo necroscópico de fls.68, que foi a causa eficiente de sua morte.
+Ao que consta, na data e hora em questão, Leodaine, acompanhado de seu irmão Odáquis e do indivíduo Ronilson, foram até a casa da vítima, onde tentaram entrar à força, tendo a vítima tentado fechar a porta, sem êxito.
+Na sequência, a vítima se armou com um pedaço de pau para se defender e saiu para a rua, sendo então cercada pelos réus, tendo Odáquis e Ronilson a contido, enquanto o réu Leodaine desferiu-lhe um golpe de arma branca no ombro esquerdo, causando-lhe o ferimento descrito no laudo de fls. 69, que foi a causa eficiente de sua morte, tendo os réus deixado o local.
+O perigo gerado pelo estado de liberdade emerge da própria conduta dos réus, que em número superior, tentaram invadir a residência da vítima e já com ela do lado de fora da residência, estando ao menos um deles de posse de arma branca, a contiveram enquanto Leodaine desferia-lhe o golpe que a vitimou fatalmente.
+No mais, há que se levar em conta que, em liberdade, poderão vir a intimidar testemunhas, o que reforça a necessidade da segregação.
+Assim, a prisão preventiva se faz necessária para garantia da ordem pública ante a grave conduta praticada e ainda, para resguardar a aplicação da lei penal e como conveniência da instrução criminal (parte final do artigo 312 do CPP). (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de homicídio qualificado em concurso de agentes e emprego de arma branca, em que a vítima foi esfaqueada no ombro. Ademais, ele ostenta condenações transitadas em julgado.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de homicídio. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. RENOVADO DECRETO DE PRISÃO APÓS PRÉVIA CONCESSÃO DA ORDEM. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE. RECURSO IMPROVIDO.
+1. Precedente ilustrador da atuação da Corte em habeas corpus e da necessidade de motivação das decisões judiciais.
+2. Decisão que em persecução criminal por homicídio imputado a policiais em associação, com fraude processual, decreta a prisão por riscos sem expressar sequer em uma linha - ou mesmo palavra - os fatos justificadores dos invocados riscos. Ilegalidade reconhecida monocraticamente pelo Relator, sem recursos.
+3. Expressado já então na decisão do Relator, aliás de modo até redundante, pela provisoriedade ínsita às cautelares, que a concessão da ordem não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual, veio o magistrado de primeiro grau a novamente decidir sobre a necessidade da prisão preventiva.
+4. Nova decisão que agora explicita circunstâncias do caso justificadoras de risco social (gravidade concreta do crime e risco à ordem pública) e ao processo (alteração do local do crime, com riscos à instrução processual). Validade.
+5. Indicada a gravidade concreta da conduta criminosa, pois foram efetuados dezenas de disparos de diversas armas de fogo, de diferentes calibres, inclusive de fuzis, contra um veículo em que se encontravam cinco vítimas  ..  em via pública, aberta ao tráfego de pessoas e veículos, de modo que não há que se falar em ilegalidade a justificar a concessão da ordem.
+6. Em habeas corpus a Corte não prende, mas apenas confere a legalidade da decisão de prisão, mantendo-a se legal, por fundamentos nela explicitados.
+7. Recurso em habeas corpus improvido. (RHC n. 77.723/RJ, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/3/2017, DJe 13/3/2017.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. AMEAÇA A TESTEMUNHAS. FUGA APÓS COMETIMENTO. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+ ..
+2. No caso, as instâncias ordinárias apresentaram fundamentos suficientes para justificar a segregação cautelar do paciente, em especial o modus operandi adotado, uma vez que teria, em tese, efetivado o homicídio quando a vítima se encontrava em uma confraternização de carnaval, com presença de inúmeras pessoas da vizinhança, inclusive atingindo-a como novos disparos quando já se encontrava caída ao solo.
+3. Com efeito, "se a conduta do agente - seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime - revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (HC n. 296.381/SP, Relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+ ..  (RHC n. 91.056/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 28/2/2018.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Por fim, quanto ao pleito de legítima defesa, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+De outo lado, como concluiu o acordão recorrido (e-STJ fl. 115):
+Por fim, a alegação de que o paciente agiu em legítima defesa não é evidente, diante dos depoimentos das testemunhas presenciais (fls.103/104), além do que referido argumento trata-se de matéria relacionada ao mérito da ação penal, extrapolando os estreitos limites do writ, que não admite a análise aprofundada de fatos e provas.
+Como é cediço, "em relação ao argumento de que o paciente agiu em legitima defesa, registro ser inviável a análise, no âmbito restrito do habeas corpus, de teses que, por sua própria natureza, demandam dilação probatória. As provas dos autos devem ser apreciadas durante a instrução criminal, sob o crivo do contraditório, não sendo esta a via adequada para a sua revisão." (AgRg no HC n. 818.341/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Ante o exposto, denego liminarmente a ordem.
+Publique-se. Intimem-se.
+EMENTA
