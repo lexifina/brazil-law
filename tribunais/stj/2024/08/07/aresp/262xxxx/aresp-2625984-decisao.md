@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO MASTER S/A (BANCO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.117/1.169).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BANCO alegou a violação dos arts. 1º, 2º, 141,1.022, ao sustentar que (1) o acórdão foi omisso; (2) a decisão é nula por ter sido extra petita; (3) o empréstimo consignado não é da mesma espécie do cartão de crédito, consignado ou não, sendo modalidades distintas, com formas de cálculo e cláusulas diferentes; (4) não é possível a conversão de contrato de cartão consignado em um empréstimo consignado; (5) ficou caracterizada a existência de dissídio jurisprudencial.
+(1) Da omissão
+Nas razões do seu recurso, BANCO alegou a violação dos arts. 141, 492,1.022, do CPC em virtude da omissão no tocante (A) à nulidade absoluta por ter sido a decisão extra petita, tendo em vista o deferimento da revisão para transmutar o contrato de "saque" em um "empréstimo consignado", sem que tenha havido pedido neste sentido ou mesmo uso da modalidade de saque de limite de cartão; (B) ao entendimento jurisprudencial pátrio sobre o tema dos autos, notadamente quanto ao REsp 1.112.880/PRe MC nº 14.142/2008.
+Contudo, verifica-se que o Tribunal de Justiça da Bahia se manifestou sobre os temas, consignando expressamente que:
+Anote-se que as compras realizadas pelo autor no referido cartão de crédito não são capazes de sustentar a tese deque a ampla utilização do cartão de crédito derrubaria o desconhecimento dos termos contratuais, pois apenas se trata de mais uma abusividade praticada pelo réu: a da venda casada.
+Afinal, a concessão do cartão de crédito possibilita a utilização, tanto na modalidade de compras quanto para empréstimo, condicionando, no entanto, à consignação em folha de pagamento, modalidade que garante segurança à instituição bancária, sem que tal circunstância seja informada com desejável clareza, de modo que o banco acaba por se lançar às práticas vedadas pelos artigos 39, I e IV, do CDC (e-STJ, fls. 827).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. 2. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO INVIÁVEL. SÚMULA 7/STJ. 3. JULGAMENTO CITRA PETITA. INEXISTÊNCIA. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS AFASTADA. CULPA EXCLUSIVA DA VÍTIMA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+3. Infirmar a conclusão adotada no acórdão recorrido, a fim de perquirir sobre a ocorrência de cerceamento de defesa, demandaria reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+4. Ademais, "não há que falar em julgamento citra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco deixa de apreciar providência jurisdicional pleiteada pelo autor da ação, respeitando o princípio da congruência" (AgInt no AREsp 1.538.345/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 21/09/2020, DJe de 24/09/2020).
+5. Conforme entendimento deste Superior Tribunal, "a responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista" (AgInt no REsp 1.855.695/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/08/2020, DJe 27/08/2020). Revisão inviável. Incidência da Súmula 7/STJ.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.161.805/DF, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Afasta-se, portanto, a alegada violação.
+(2) Da decisão extra petita
+BANCO sustenta que o acórdão reformou a sentença para para determinar "a conversão do contrato para aplicação das taxas de juros remuneratórios nos percentuais indicados pelo Banco Central para empréstimo consignado na época da contratação", o que não foi objeto de pedido na inicial.
+Afirma que não há qualquer alegação na inicial de que o autor tenha feito uso de saques de limite do cartão, até porque apenas realizou compras.
+No entanto, observa-se que a inicial foi expressa ao postular a nulidade da cláusula contratual para que seja excluído ou reduzido os encargos durante toda relação contratual (e-STJ, fls. 32).
+Tendo em vista que a redução dos juros caracteriza decorrência lógica do pedido, não há mesmo que se falar em vício na decisão. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DO AUTOR.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+2. As matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas de ofício e a qualquer tempo nas instâncias ordinárias. Incidência da Súmula 83 do STJ.
+2.1. Conforme entendimento firmado no STJ, o vício de julgamento extra petita não se configura quando o provimento jurisdicional representar decorrência lógica do pedido. Incidência da Súmula 83 do STJ.
+3. Nos termos da jurisprudência do STJ, deve-se considerar como termo inicial do prazo prescricional, nas ações de revisão de contrato bancário, a data da assinatura do contrato. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.043.145/RS, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+(3) Da conversão do contrato de cartão de crédito em empréstimo consignado
+O Tribunal de justiça da Bahia declarou nulas as cláusulas relativas ao cartão de crédito consignado, determinando a conversão do contrato para aplicação das taxas de juros remuneratórios nos percentuais indicados pelo Banco Central para empréstimo consignado na época da contratação (e-STJ, fls. 828).
+No que se refere à impugnação do BANCO quanto à referida conversão, a interpretação que se extrai das razões recursais é que a parte se limitou a manifestar sua irresignação, não tendo indicado qualquer artigo de lei tido por vulnerado.
+Ressalta-se que o mero inconformismo sem apontar o dispositivo do ordenamento considerado afrontado e sem especificar de que modo teria concretamente ocorrido a vulneração de normativo federal não supre a exigência de fundamentação adequada do recurso especial, incidindo, por analogia, o óbice da Súmula 284/STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ademais, rever as conclusões quanto à abusividade das cláusulas contratuais demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE CONTRATUAL E RESTITUIÇÃO E INDENIZAÇÃO POR DANOS MORAIS. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO. CARTÃO DE CRÉDITO CONSIGNADO E EMPRÉSTIMO CONSIGNADO. TERMO DE ADESÃO. AUSÊNCIA DE INFORMAÇÕES CLARAS E PRECISAS. VIOLAÇÃO AO DEVER DE INFORMAÇÃO CONSTATADO. COBRANÇA INDEVIDA. REVISÃO. SÚMULAS N. 5 E 7/STJ. DISSÍDIO PREJUDICADO DIANTE DA SÚMULA N. 7/STJ. DECADÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA N. 283/STF. PRESCRIÇÃO. NÃO OCORRÊNCIA. S. N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do Tribunal de origem - de que não foram prestadas as informações necessárias a respeito do tipo de contrato que seria realizado entre as partes, reconhecendo a irregularidade na cobrança da dívida e determinando a conversão do negócio em empréstimo consignado, em conformidade com a vontade manifestada pelo consumidor quando da celebração da avença - demanda o reexame das provas produzidas no processo e interpretação das cláusulas contratuais, o que é defeso na via eleita, nos termos dos enunciados n. 5 e 7 da Súmula desta Corte Superior.
+2. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e o aresto paradigma, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+3. Ausente manifestação da parte recorrente contra fundamento que, por si só, se mostra suficiente a manter o acórdão recorrido, incide, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. A jurisprudência do STJ é no sentido de que nas ações revisionais de contrato de empréstimo pessoal, nas quais se discute a legalidade das cláusulas pactuadas, a contagem do prazo prescricional decenal tem início a partir da data da assinatura do contrato.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC, devendo ser analisado caso a caso.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.094.937/MT, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(4) Do dissídio jurisprudencial
+O dissídio jurisprudencial não pode ser conhecido porque não realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PRESTAÇÃO DE SERVIÇOS. CORRETORA DE SEGUROS. PRESCRIÇÃO. DISSÍDIO JURISPRUDENCIAL. DIVERGÊNCIA. COTEJO ANALÍTICO. NÃO DEMONSTRAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.025.077/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022, sem destaques no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL. COMPETÊNCIA DE JUÍZO PLANTONISTA. DIREITO LOCAL. SÚMULA 280/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. SIMILITUDE FÁTICANÃO DEMONSTRADA. SÚMULA7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+ ..
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno não provido.
+(AgInt no REsp 1.951.040/AM, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 29/11/2021, DJe 1º/12/2021 - sem destaques no original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em R$ 500,00 o valor dos honorários advocatícios anteriormente fixados em favor de ELIO VIEIRA LUSTOSA, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. CONTRATO BANCÁRIO. AÇÃO DECLARATÓRIA CUMULADA COM DANOS MORAIS. 1. VIOLAÇÃO DO ART. 1.022 do CPC. OMISSÃO. INEXISTÊNCIA. 2. DECISÃO EXTRA PETITA. NÃO OCORRÊNCIA. 3. CONVERSÃO DO CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO. FALTA DE APONTAMENTO DE DISPOSITIVO LEGAL DOS DIPLOMAS. SÚMULA 284 DO STF. INCIDÊNCIA, ADEMAIS, DAS SÚMULAS Nº 5 E Nº 7 DO STJ. 4. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
