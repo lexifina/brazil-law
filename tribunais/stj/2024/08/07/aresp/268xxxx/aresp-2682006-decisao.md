@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+REMESSA NECESSÁRIA. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. REMESSA NECESSÁRIA. ART. 19, DA LEI Nº 4.717/1965. APLICAÇÃO ANALÓGICA. PRECEDENTES. MICROSSISTEMA DE TUTELA COLETIVA. ART. 496, DO CPC. INCOMPATIBILIDADE. REMESSA NECESSÁRIA NÃO CONHECIDA. 1. Em se tratando de sentença prolatada em sede de ação civil pública que condenou o Estado do Amazonas a uma série de obrigações de fazer poder-se-ia cogitar da aplicabilidade do enunciado nº 490, do STJ; 2. No entanto, todos os precedentes dos quais se originou o verbete em questão envolvem demandas de caráter individual contra o INSS, não havendo nenhuma menção a demandas coletivas, como no caso concreto; 3. A partir de uma análise teleológica do instituto da remessa necessária, constata-se que as disposições do CPC o tratam como um mecanismo destinado à proteção dos interesses da Fazenda Pública. Por outro lado, no âmbito do processo coletivo o art. 19, da Lei nº 4.717/1965, diploma regulamentador da ação popular, dispõe acerca do instituto como mecanismo de defesa dos interesses coletivos cuja tutela se busca viabilizar com a utilização da referida ação constitucional; 4. A jurisprudência admite que o art. 19, da Lei nº 4.717/1965 irradia sua eficácia para todo o microssistema de tutela coletiva. Sendo assim, revela-se incompatível a incidência simultânea do art. 496, do CPC, pelo simples fato de possuir finalidade diametralmente oposta, pois, no caso, desprestigiaria a primazia que o art. 19, da Lei nº 4.717/1965 concede a interesses metaindividuais; 5. Remessa necessária não conhecida.
+O Estado do Amazonas afirma (fls. 737-756):
+O acórdão ora recorrido adotou o entendimento de que referido dispositivo da Lei nº 4.717/1965 é aplicável à ação civil pública, por fazer parte do microssistema de tutela coletiva, e que, portanto, afastaria a aplicação do art. 496 do CPC, por serem dispositivos conflitantes entre si.
+Ora, não se questiona a aplicação do art. 19 da Lei da Ação Popular às ações civis públicas. Com efeito, considerando a existência do microssistema de tutela coletiva e diante da falta de regramento específico sobre a questão da remessa necessária na Lei da Ação Civil Pública, verifica-se cabível a aplicação do referido dispositivo.
+(..)
+Portanto, tem-se que a vigência do art. 496 do Código de Processo Civil foi claramente negada pelo Tribunal a quo no acórdão recorrido, uma vez que não foi admitida a remessa necessária, apesar de haver, no caso concreto, decisão contrária à Fazenda Pública que enseja o duplo grau de jurisdição obrigatório.
+Contrarrazões às fls. 766-778.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.7.2024.
+Inicialmente, a parte recorrente sustenta que o art. 1.022 do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Assim, é inviável o conhecimento do Apelo nesse ponto, ante o óbice da Súmula 284/STF.
+A Corte de origem entendeu que se aplica à espécie o art. 19 da Lei 4.717/1965 (fls. 684-691):
+Contudo, no âmbito do processo coletivo o instituto parece caminhar por outras paisagens. A única previsão normativa da remessa necessária nessa universo encontra-se no art. 19, da Lei nº 4.717/1965, diploma regulamentador da ação popular, o qual dispõe acerca do instituto como mecanismo de defesa dos interesses coletivos cuja tutela se busca viabilizar com a utilização da referida ação constitucional.
+(..)
+A análise das diversas possibilidades de aplicação dos dispositivos, a meu ver, leva à conclusão de que a aplicação isolada do art. 19, da Lei nº 4.717/1965, revela-se mais harmônica. Conforme demonstrado, a jurisprudência já admite de modo assentado que o preceito legal irradia sua eficácia para todo o microssistema de tutela coletiva.
+Sendo assim, revela-se incompatível a incidência simultânea do art. 496, do CPC, pelo simples fato de possuir finalidade diametralmente oposta, pois, no caso, desprestigiaria a primazia que o art. 19, da Lei nº 4.717/1965 concede a interesses metaindividuais.
+Desse modo, não tendo havido recurso voluntário por parte do Estado do Amazonas, entendo por não conhecer da presente remessa necessária e declarar o trânsito em julgado da demanda, remetendo os autos à origem.
+A jurisprudência do STJ é firme no sentido de que tal dispositivo é aplicável, por analogia, à Ação Civil Pública. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PROCEDÊNCIA DO PEDIDO. REEXAME NECESSÁRIO. DESCABIMENTO. JURISPRUDÊNCIA DOMINANTE DO STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. Na forma da jurisprudência do STJ, por "aplicação analógica da primeira parte do art. 19 da Lei nº 4.717/65, as sentenças de improcedência de ação civil pública sujeitam-se indistintamente ao reexame necessário" (STJ, REsp 1.108.542/SC, Rel. Ministro Castro Meira, DJe de 29.5.2009). Com efeito, ao contrário, julgada procedente a presente Ação Civil Pública, para que seja anulado Termo de Permissão de Uso de bem imóvel, constata-se, conforme asseverado no acórdão recorrido, que "a tutela do interesse da sociedade foi alcançada", de modo que "não há, portanto, que se falar em prejuízo ao Erário ou à sociedade". Registre-se, ainda, precedente da Primeira Turma do STJ, no sentido de que, excetuada a hipótese de carência de ação, "o Reexame Necessário na Ação Civil Pública, por aplicação analógica do art. 19 da Lei da Ação Popular, somente ocorrerá com a improcedência da ação" (STJ, REsp 1.578.981/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 04/02/2019). Assim, estando o acórdão recorrido em consonância com a jurisprudência sedimentada nesta Corte, merece ser mantida a decisão ora agravada, em face do disposto no enunciado da Súmula 568 do STJ.
+(..)
+V. Agravo interno improvido.
+(AgInt no REsp 1.641.233/MT, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 4/4/2019.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. SENTENÇA DE IMPROCEDÊNCIA. REEXAME NECESSÁRIO. CABIMENTO. APLICAÇÃO, POR ANALOGIA, DO ART. 19 DA LEI 4.717/1965.
+1. Segundo jurisprudência consolidada desta Corte, aplica-se o art. 19 da Lei n. 4.717/65 por analogia às ações civis públicas, de forma que a sentença de improcedência deve ser submetida ao reexame necessário.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.264.666/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 22/9/2016.)
+Assim, a contrario sensu, conforme sentença proferida pelo juízo de primeira instância, a Ação Civil Pública foi julgada procedente, logo não é o caso de aplicar a jurisprudência acima destacada.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
