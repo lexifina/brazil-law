@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por ACADEMIA TAGUATINGA S.A. e Outros, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado:
+"APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. ECAD. REPRODUÇÃO DE COMPOSIÇÕES MUSICAIS EM ACADEMIA DE GINÁSTICA. ILEGITIMIDADE PASSIVA DOS SÓCIOS. DESCABIMENTO. RESPONSABILIDADE SOLIDÁRIA. PREVISÃO LEGAL. PRELIMINAR REJEITADA. MÉRITO. COBRANÇA DOS DIREITOS AUTORAIS. CABIMENTO. NOTORIEDADE. CONSTATAÇÃO. COBRANÇA. EXIGÊNCIA EM DIAS DE SUSPENSÃO DAS ATIVIDADES. ATOS NORMATIVOS ESTATAIS. IMPOSSIBILIDADE. AUSÊNCIA DE FATO GERADOR. EMBARGOS DE DECLARAÇÃO. RECURSO PROTELATÓRIO. NÃO VERIFICAÇÃO. AFASTAMENTO DA MULTA. ART. 1026, §2º, DO CPC. NECESSIDADE. SENTENÇA PARCIALMENTE REFORMADA.
+1. Os sócios/proprietários do estabelecimento comercial devem arcar, solidariamente, com os valores devidos à título de direitos autorais, posto que sua responsabilização não decorre da desconsideração da personalidade jurídica, mas da solidariedade expressamente prevista no artigo 110 da Lei nº 9.610/1998. Preliminar de ilegitimidade passiva rejeitada.
+2. É válida a cobrança dos direitos autorais relativos à utilização comercial de obras musicais ou literomusicais e fonogramas, em execuções públicas em locais de frequência coletiva (academias de ginástica), face à previsão contida nos artigos 5º, incisos XXVII e XXVIII, da Constituição Federal e 68, caput e §§ 3º e 4º, da Lei Federal nº 9.610/1998.
+3. É notório que as academias de ginástica se valem da reprodução de músicas e vídeos como forma de incremento de suas atividades comerciais, proporcionando ambiente atrativo ao mercado de consumo e ensejando conforto e bem-estar aos frequentadores. Não se trata de mera suposição, mas da utilização de regras de experiência comum subministradas pela observação do que ordinariamente acontece, autorizadas pelo Código de Processo Civil, em seu artigo 375.
+4. Sendo de conhecimento público os decretos distritais que, como combate ao enfrentamento da emergência de saúde pública de importância internacional decorrente do novo coronavírus, determinaram a paralisação de diversas atividades, dentre elas as realizadas pelas academias de ginástica/dança, forçoso reconhecer a impossibilidade de cobrança dos direitos autorais nos dias de efetiva suspensão, visto que ausente o fato gerador.
+5. Não há que se falar em imposição de multa por oposição de embargos de declaração protelatórios (artigo 1.026, § 2º, do Código de Processo Civil) quando inexistem elementos aptos a demonstrar qualquer tipo de abuso que descaracterize o regular exercício do contraditório e da ampla defesa, com os recursos a ela inerentes (artigo 5º, LV, da Constituição Federal).
+6. Apelação cível conhecida, preliminar rejeitada e, no mérito, parcialmente provida" (e-STJ fls. 470-471).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 516-531).
+No recurso especial (e-STJ fls. 535-550), os recorrentes alegam, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses: (i) art. 489, § 1º, inciso IV, do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação; (ii) arts. 68, § 4º, 110 da Lei nº 9.610/1998 e 49-A do Código Civil - defendendo a ilegitimidade passiva dos sócios da pessoa jurídica usuária de obras protegidas; e (iii) arts. 373, inciso I, 374 e 375 do Código de Processo Civil - afirmando que o ECAD não teria se desincumbido do seu ônus probatório.
+Contrarrazões às e-STJ fl. 571.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+No que concerne à suposta violação dos artigos 489, § 1º, inciso IV, do Código de Processo Civil, é importante salientar que, consoante a iterativa jurisprudência desta Corte, uma fundamentação concisa não deve ser confundida com ausência de fundamentação.
+O acórdão em questão abordou todos os pontos relevantes para a resolução da controvérsia de forma abrangente e adequada, mesmo que não tenha seguido exatamente a linha de argumentação desejada pela parte.
+Portanto, não há motivo para alegar vício de nulidade.
+No tocante à alegada ofensa aos arts. 68, § 4º, 110 da Lei nº 9.610/1998 e 49-A do Código Civil, o acórdão recorrido está em harmonia com a orientação desta Corte no sentido de que (i) a interpretação do art. 68, § 4º, que assegura maior espectro de proteção aos titulares de direitos autorais é aquela que reconhece como "empresário" toda pessoa, física ou jurídica, cuja atividade esteja indissociavelmente ligada à execução, em locais de frequência coletiva, de obras musicais, literomusicais ou fonogramas; e (ii) o art. 110 estabelece a responsabilidade solidária de todos os envolvidos na violação de direitos autorais: proprietários, diretores, gerentes, empresários e arrendatários, entre outros.
+A propósito:
+"RECURSO ESPECIAL. DIREITOS AUTORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. REMUNERAÇÃO. ECAD. RECOLHIMENTO PRÉVIO. ESPAÇO LOCADO. PROPRIETÁRIO. RESPONSABILIDADE. NATUREZA DA ATIVIDADE.
+1. Ação ajuizada em 16/4/2013. Recurso especial interposto em 30/8/2016 e concluso ao Gabinete em 28/3/2017.
+2. O propósito recursal é definir se o proprietário de imóvel cuja finalidade exclusiva é a locação para realização de eventos pode ser responsabilizado pelo recolhimento prévio de valores devidos a título de direitos autorais.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Nos termos da Lei 9.610/98 e da jurisprudência deste Tribunal, independentemente do intuito de lucro, é devida remuneração autoral, a ser recolhida previamente, sempre que houver a utilização de composições musicais, literomusicais ou fonogramas, mediante quaisquer processos, em locais de frequência coletiva.
+5. A expressão "empresário", adotada pelo art. 68, § 4º, da Lei de Direitos Autorais para indicar o sujeito responsável pelo pagamento ao ECAD, deve ser interpretada no contexto do sistema protetivo da propriedade intelectual, cujas diretrizes, assentadas constitucionalmente, garantem aos autores de obras artísticas, com exclusividade, o direito fundamental de uso, reprodução e publicação.
+6. A interpretação que assegura maior espectro de proteção aos titulares de direitos autorais é aquela que reconhece como "empresário" toda pessoa, física ou jurídica, cuja atividade esteja indissociavelmente ligada à execução, em locais de frequência coletiva, de obras musicais, literomusicais ou fonogramas, circunstância a que se amolda aquele que possui como objetivo social a locação de espaços para realização de eventos.
+7. Ademais, na esteira do que dispõe o art. 110 da LDA, o Regulamento de Arrecadação do ECAD estabelece expressamente que o proprietário de local ou estabelecimento em que ocorre execução pública de composições musicais ou literomusicais é considerado usuário das obras executadas.
+8. Portanto, seja pelo enquadramento do recorrente no conceito de usuário de direito autoral, seja por sua atividade enquadrar-se na definição de "empresário" constante do art. 68, § 4º, da LDA, é possível lhe direcionar a cobrança prévia da remuneração em questão.
+9. Recurso especial não provido".
+(REsp n. 1.661.838/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2018, DJe de 18/5/2018.)
+No mesmo sentido: AREsp n. 2.332.608, Ministro Marco Buzzi, DJe de 29/09/2023.
+Incide, na espécie, a Súmula nº 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Quanto ao mais (arts. 373, inciso I, 374 e 375 do Código de Processo Civil), a inversão das conclusões das instâncias de cognição plena demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Registre-se, por fim, que, também conforme firme jurisprudência deste Tribunal Superior, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"Recurso Especial. Civil. Responsabilidade civil. Cirurgião e anestesiologista. Recurso com fundamento nas alíneas "a" e "c" do art. 105, III, da CF. Reexame fático-probatório. Súmula 07/STJ. Incidência.
+(..)
+- O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a", quanto pela "c" do permissivo constitucional.
+Recurso especial não conhecido".
+(REsp 765.505/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/03/2006, DJ 20/03/2006)
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Em observância ao art. 85, § 11, do CPC, majoro os honorários em 2% (dois por cento) sobre o valor da condenação, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
