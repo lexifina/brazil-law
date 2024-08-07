@@ -1,0 +1,24 @@
+DECISÃO
+ADRIANA MARCIA DOS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, que denegou o HC n. 0016316-69.2024.8.17.9000.
+Consta dos autos que a paciente foi condenada à pena de 6 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Juiz sentenciante considerou indevida a incidência da referida minorante, com base nos seguintes fundamentos (fl. 51):
+Não obstante, entendo não ser caso de aplicação, da causa especial de diminuição da pena prevista no art. 33, § 42, da Lei n2 11.343/2006, visto que a acusada possui outros feitos criminais em andamento (Processo n 0 0003529-79.2011.8.17.1590), e conforme requisito do referido artigo para a aplicação do benefício a denunciada deve possuir bons antecedentes e não pode ter dedicação a atividades criminosas. Desta feita, estes fatores evidenciam que não se trata de pessoa que se adegue aos requisitos do tráfico privilegiado, justificando o afastamento do benefício da diminuição da pena previsto no § 42 do artigo 33 da Lei Antidrogas.
+Conforme visto, o Magistrado de primeiro grau deixou de reconhecer a aplicação do redutor, com base, tão somente, na existência de processo em andamento. Tal circunstância o levou à conclusão de que a ré seria dedicava a atividades criminosas.
+No entanto, faço lembrar que, em sessão ocorrida no dia 10/8/2022, a Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.977.027/PR (Rel. Ministra Laurita Vaz) - submetido ao rito dos recursos repetitivos -, fixou a seguinte tese:
+É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+O Supremo Tribunal Federal também possui idêntica compreensão acerca da matéria. Exemplificativamente, menciono, por todos, o HC n. 173.806/MG, de relatoria do Ministro Marco Aurélio (DJe 9/3/2020), cujo acórdão ficou assim ementado:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA.
+O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade.
+PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO.
+Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação.
+Portanto, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, deve a ordem ser concedida, a fim de aplicar, em favor da acusada, o referido benefício.
+No que tange ao quantum de redução de pena, considero, dentro do livre convencimento motivado, ser suficiente e adequada a redução de pena no patamar máximo de 2/3, até para não incorrer no inadmissível bis in idem, uma vez que a natureza e a quantidade de substâncias entorpecentes já foram sopesadas na primeira fase da dosimetria, para fins de exasperação da pena-base.
+Observada, portanto, a dosimetria da pena feita pela instância de origem, fica a sanção da paciente definitivamente estabelecida em 2 anos de reclusão e pagamento de 200 dias-multa.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor da acusada, aplicá-la no patamar de 2/3 e, por conseguinte, reduzir a sua reprimenda para 2 anos de reclusão e pagamento de 200 dias-multa.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
