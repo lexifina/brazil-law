@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUCINEI MARCELO DE FRANCA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA QUE INVERTEU O ÔNUS DA PROVA E DETERMINOU A APRESENTAÇÃO DE TODOS OS DOCUMENTOS RELACIONADOS À REPRESENTAÇÃO COMERCIAL ENVOLVENDO AS PARTES.
+INSURGÊNCIA DA RÉ. PRETENDIDA A REFORMA DA DECISÃO. ACOLHIMENTO. PROVA DO FATO CONSTITUTIVO DO DIREITO QUE, A RIGOR, INCUMBE À PARTE AUTORA. EXEGESE DO ART. 373, I, DO CÓDIGO DE PROCESSO CIVIL.
+ADEMAIS, DESNECESSIDADE DE APLICAÇÃO DA EXCEÇÃO CONTIDA NO § 1º, DO ART.
+371, DO MESMO DIPLOMA LEGAL. AUSÊNCIA DE IMPOSSIBILIDADE OU EXCESSIVA DIFICULDADE DA PARTE AUTORA EM CUMPRIR O ÔNUS DE PROVAR OS FATOS CONSTITUTIVOS DO SEU DIREITO E NEM MAIOR FACILIDADE DOS RÉUS EM FAZÊ-LOS.
+EVENTUAL PERSISTÊNCIA DA DIFICULDADE PROBATÓRIA QUE PODE SER SANADA PELO JUÍZO DE ORIGEM ATRAVÉS DA MEDIDA PREVISTA NO ARTIGO 396 DO CÓDIGO DE PROCESSO CIVIL.
+RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, I e II, do CPC, no que concerne à aplicação de inversão do ônus probatório, em razão da impossibilidade de produção de provas pela parte ora recorrente, trazendo a seguinte argumentação:
+Recorre-se à esta colenda Corte com o fito de que seja reformado o acórdão do egrégio TJSC, que deu provimento ao recurso de agravo de instrumento interposto pela parte aqui recorrida para afastar a inversão do ônus probatório.
+De início, importa contextualizar que o objetivo dos autos na origem é o pagamento das diferenças das comissões calculadas a menor pela parte recorrida.
+A recorrida sempre calculou as comissões de forma equivocada, deduzindo da base de cálculo o desconto financeiro e quebra do valor de venda sobre os produtos comercializados. Não suficiente, entre o período de 2018 e 2019, sem a concordância ou formalização de aditivo, a parte recorrida unilateralmente impôs a redução do percentual de comissão da recorrente para apenas 1% (um por cento), o que acarretou pagamentos a menor desde então.
+Consabido que o montante perseguido somente poderá ser apurado em prova pericial a ser produzida. Para tanto, reputa-se imprescindível a apresentação dos documentos que encontram-se em poder da recorrida, o que não foi feito até o momento.
+Ao contrário do alinhavado pelo TJSC no acórdão ora recorrido, há excessiva dificuldade da parte recorrente em demonstrar os fatos constitutivos de seu direito (Art. 373, inciso I do CPC), notadamente porque toda a documentação utilizada para o cálculo das comissões está em posse da empresa recorrida.
+Não há dúvida de que deve ser reformado o acórdão do TJSC, para manter a decisão que determinou a inversão do ônus da prova na origem, sobretudo porque evidentemente a empresa recorrida não apresentará a documentação em questão, que logicamente lhe é prejudicial, sem que seja compelida para tanto - neste caso, com a inversão do ônus probatório (fls. 71/72).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como se vê, de acordo com a regra geral estabelecida pelo legislador, incumbe ao autor o ônus de provar os fatos constitutivos de seu direito, ou seja, de demonstrar a matéria fática que traz em sua petição inicial e que serve como origem da relação jurídica deduzida em juízo.
+No caso sob enfoque, a controvérsia diz respeito ao adimplemento de comissões, além de questões relacionadas ao representante e seus clientes, com relação ao que não se verifica a impossibilidade ou excessiva dificuldade da parte autora em cumprir o ônus de provar os fatos constitutivos do seu direito e nem maior facilidade dos réus em fazê-los.
+Assim porque, no exercício da atividade de representação comercial, era exigível da parte
+ ..
+Por fim, tendo em vista que a justificativa da pretendida inversão do ônus da prova encontra-se na necessidade de se acessar os comprovantes de pagamento de comissões durante todo o período de representação comercial, caso não seja possível por dos documentos encartados com a defesa, ainda poderá o Juízo singular determinar a exibição dos referidos documentos conforme art. 396 do Código de Processo Civil, cabendo à agravante, caso assim entenda, apresentar defesa nos termos do contido no art. 398 do mesmo diploma legal, sem que isso implique inversão do ônus da prova (fls. 50/51).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
