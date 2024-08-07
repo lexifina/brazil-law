@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXSANDRO GONCALVES DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Na hipótese, depreende-se dos autos que o paciente teve a prisão preventiva decretada, pela prática, em tese, dos delitos previstos art. 171, §2º-A e Art. 288, caput, ambos do Código Penal.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado: (fl. 50)
+"(..) HABEAS CORPUS. PENAL E PROCESSO PENAL. FRAUDE ELETRÔNICA E ASSOCIAÇÃO CRIMINOSA. PRESENÇA DOS REQUISITOS AUTORIZADORES. ARTS.312 E 313, INCISO I, AMBOS DO CPP. FUNDAMENTAÇÃO VÁLIDA À DECRETAÇÃO DA CUSTÓDIA PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA E PERICULOSIDADE DO AGENTE, EVIDENCIADAS PELO MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. ORDEM DENEGADA. DECISÃO UNÂNIME. (..)"
+Alega constrangimento ilegal e falta de fundamentação idônea para a manutenção da segregação cautelar.
+Requer a revogação da prisão preventiva, com a concessão da ordem liminarmente e no mérito, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 523-524.
+Pedido de Reconsideração, às fls. 530-540, indeferido -fls. 542/544.
+Informações prestadas às fls. 1201-1203 e 1206-1231.
+O Ministério Público Federal, às fls. 1234-1241, em parecer, manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem, assim resumido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. CRIMES DE ESTELIONATO EASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REQUISITOS. FUNDAMENTAÇÃO. INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃOCONHECIMENTO.- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.- 2ª Preliminar: conhecimento de ofício; ausência de competência. Precedentes: STJ (HC n.º 245.731/MS; HC n.º 248.757/SP).- Mérito: pela denegação da ordem; prisão preventiva devidamente fundamentada.- Parecer pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem." (fl. 1234)
+É o relatório. DECIDO.
+A custódia prisional é providência extrema que deve ser determinada quando demonstrados o fumus commissi delicti e o periculum libertatis, na forma do art. 312 do CPP. Em razão de seu caráter excepcional, somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do CPP (RHC n. 117.739/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/12/2019).
+Registre-se que, conquanto o Juízo de primeiro grau tenha feito apontamentos quanto à necessidade da prisão para garantia da ordem pública, não demonstrou, suficientemente, em elementos concretos a periculosidade do Paciente. Tais circunstâncias, embora não garantam eventual direito à soltura, devem ser valoradas, quando não demonstrada a indispensabilidade do decreto prisional.
+Nesse sentido:
+"RECURSO ORDINÁRIO. HABEAS CORPUS. ESTELIONATO E ASSOCIAÇÃO CRIMINOSA. GRAVIDADE ABSTRATA. FUNDAMENTAÇÃO INIDÔNEA. RECURSO PROVIDO.
+1. A prisão cautelar, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade, e não em meras suposições ou conjecturas.
+2. Decisões impugnadas que não indicam a ocorrência de fundamentos idôneos a justificar a necessidade da medida de prisão, mormente porque não se trata de crime supostamente praticado mediante violência e de recorrente primário.
+3. Recurso ordinário provido e ordem concedida, a fim de revogar a prisão preventiva imposta ao recorrente, ressalvando ao Juízo de primeiro grau a possibilidade de decretação de nova prisão, caso apresentados elementos concretos, bem como admitida a aplicação de medidas cautelares. Ratificada a liminar" (RHC n. 119.689/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 3/5/2022).
+Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação corpórea. Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Neste aspecto, é firme a jurisprudência do STJ no sentido de que a custódia prisional:
+"somente se justifica na hipótese de impossibilidade que, por instrumento menos gravoso, seja alcançado idêntico resultado acautelatório" (HC n. 126.815, Relator Ministro MARCO AURÉLIO, Relator p/ acórdão Ministro EDSON FACHIN, Primeira Turma, julgado em 4/8/2015, publicado em 28/8/2015)."(AgRg no HC n. 653.443/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/4/2021)
+"Além disso, de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do CPP), provisionalidade (art. 316 do CPP) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do CPP), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do CPP, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade." (AgRg no HC n. 803.633/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 28/3/2023).
+Por óbvio, não se está a minimizar a gravidade da conduta imputada ao Paciente, porém há que se reconhecer que, uma vez ausentes os requisitos necessários para a prisão preventiva, sua manutenção caracterizaria verdadeira antecipação de pena. Ademais é primário.
+Diante disso, considerando as peculiaridades do caso, entendo possível o resguardo da ordem pública e a garantia da aplicação da lei penal por medidas cautelares diversas, previstas no art. 319 do CPP. Nesse sentido, por exemplo, a jurisprudência do STJ: HC n. 663.365/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/8/2021.
+Ante o exposto, concedo a ordem para substituir a prisão preventiva imposta ao Paciente por medidas cautelares diversas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo a quo.
+Comunique-se ao paciente que, em caso de injustificado descumprimento de quaisquer das obrigações impostas por força das cautelares, a prisão poderá ser restabelecida.
+Comunique-se para cumprimento.
+Publique-se. Intimem-se.
+Abra-se vista ao Ministério Público Federal.
+ EMENTA
