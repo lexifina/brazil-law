@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Hellmann Worldwide Logistics do Brasil Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 711):
+AGRAVO INTERNO. RAZÕES QUE APENAS REPRODUZEM ARGUMENTOS OUTRORA FORMULADOS, SEM APRESENTAR FUNDAMENTOS ESPECÍFICOS DESTINADOS A CONTRASTAR OS TERMOS DA DECISÃO UNIPESSOAL DO RELATOR. DESATENDIMENTO DA REGRA EXPRESSA NO ART. 1.021, § 1º, DO CPC. RECURSO NÃO CONHECIDO.
+Quando a minuta de agravo interno não impugna especificamente os fundamentos da decisão agravada, o caso é de não conhecimento do recurso por ofensa ao § 1º do art. 1.021 do CPC. Múltiplos precedentes.
+Nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial e violação ao art. 102, §2º, do Decreto-Lei n. 37/1996. Sustenta que "a denúncia espontânea da infração afasta a responsabilidade pela penalidade atribuída ao sujeito passivo também nos casos de descumprimento de obrigação acessória autônoma sem cunho tributário, afastando a aplicação de qualquer penalidade, inclusive multas" (fl. 725).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. No caso, aduz o recorrente, em suma, acerca do mérito da demanda sobre a utilização da denúncia espontânea nos casos de descumprimento de obrigação acessória autônoma sem cunho tributário. Contudo, no acordão recorrido, o Tribunal a quo não conheceu o agravo interno interposto pela recorrente, asseverando que "Em suas razões de agravo interno a agravante desprezou o princípio da correlação, deixando de ofertar argumentos jurídicos contrastantes da fundamentação de decisão monocrática de minha Relatoria" (fl 699).
+Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nessa linha de raciocínio, citam-se os seguintes julgados: Agint no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020; Agint no AREsp 1.419.058/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 19/9/2019 e Agint no AREsp 1.004.149/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 11/6/2018.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo c onstitucional.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
