@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, COMPANHIA DO METROPOLITANO DE SAO PAULO ajuizou ação de cobrança, com valor da causa atribuído em R$ 2.323.879,38 (dois milhões, trezentos e vinte mil, oitocentos e setenta e nove reais e trinta e oito centavos), em março de 2019, em desfavor de INTELBRAS S/A INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA BRASILEIRA tendo como objetivo ver ressarcidos valores pagos à Agravada, no âmbito dos Contratos 4150827703 e 4145927701.
+Na sentença, julgou-se improcedente o pedido, tendo a COMPANHIA DO METROPOLITANO DE SAO PAULO sido condenada a arcar com o pagamento de honorários sucumbenciais, fixados em 8% (oito por cento) do valor atualizado da causa (art. 85, §3º, II, do CPC). (fls. 1.355-1.358)
+No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida, conforme a seguinte ementa do acórdão (fl. 1.396):
+Apelação. Ação de Cobrança. Contrato administrativo. Contratação de empresa para prestação de serviços de readequação dos sistemas de detecção e combate a incêndio para os pátios e Centro de Controle Operacional da Companhia do Metropolitano de São Paulo. Pretensão de cobrança de valores supostamente realizados em quantia superior ao serviço executado pela empresa requerida. Sentença de improcedência na origem. Pretensão de reforma. Não cabimento. Autora que não se desincumbiu do ônus de provar os fatos constitutivos do seu direito. Inteligência do art.373, inc. I, do CPC. Ausência de prova do pagamento em quantia superior à devida. Sentença mantida. Recurso improvido.
+O Tribunal local, em razão da rejeição do recurso, majorou a verba honorária de sucumbência em mais 0,2% do valor da condenação, nos termos do art. 85, §11, do CPC/2015. (fl. 1.402)
+Os embargos de declaração opostos foram rejeitados. (fls. 1.413-1.417)
+Nesta Corte Superior, em decisão proferida às fls. 1.489-1.495, conheci do agravo para negar provimento ao recurso especial interposto por COMPANHIA DO METROPOLITANO DE SAO PAULO.
+Em embargos de declaração, aponta a parte embargante omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargada apresentou impugnação às fls. 1.503-1.504.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, fixaram-se os honorários advocatícios em 8% do valor atualizado da causa (art. 85, §3º, II, do CPC) (fls. 1.355-1.358). No acórdão, acrescentou-se mais 0,2% do valor da condenação, nos termos do art. 85, §11, do CPC/2015. (fl. 1.402)
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 0,5% (meio por cento).
+Publique-se. Intimem-se.
+EMENTA
