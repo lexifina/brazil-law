@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HAYDEE ROSSI DOS SANTOS à decisão de fls. 177/178, que não conheceu do recurso.
+Sustenta a parte embargante que "vem respeitosamente à presença de Vossa Excelência, opor embargos declaração da r. decisão tendo em vista recolheu as custa na data aprazada deixado de junta as guia o compra nesta petição" (fl. 181).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta de decisão embargada, que agora se repete, que recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, em razão do pedido de gratuidade de justiça.
+No que se refere ao pedido de gratuidade de justiça feito na petição de recurso especial, o tribunal a quo, nos termos do art. 99, § 2º do CPC deveria intimar à parte para comprovar a hipossuficiência, e só após, indeferida a gratuidade, se for o caso, abrir prazo para a regularização do preparo em observância ao disposto no art. 99, § 7º e art. 101, § 2º, do CPC.
+O tribunal de origem, intimou a parte Recorrente para trazer documentação que comprovasse a necessidade do benefício. E, em razão da inércia da parte, já julgou deserto o apelo nobre, não observando os supra citados dispositivos.
+Assim, para evitar cerceamento de defesa, em cumprimento à determinação prevista nos arts. 99, § 2º e 101, § 2º do CPC, a parte recorrente foi intimada, nesta Corte, para efetuar o recolhimento das custas nos termos da resolução vigente.
+Contudo, a parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que a petição de fls. 173/175 foi protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Cabe ressaltar que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade do preparo era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
