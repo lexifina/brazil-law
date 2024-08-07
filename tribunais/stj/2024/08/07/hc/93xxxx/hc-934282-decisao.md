@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Emerson Ferraz Pedro, em que se aponta como autoridade coatora o Tribunal Regional da 3ª Região, que, em 13/12/2010, negou provimento ao apelo defensivo (fls. 109/120).
+O paciente foi definitivamente condenado às penas de 10 anos, 2 meses e 15 dias de reclusão, e 80 dias-multa, por incurso no art. 157, § 2º, I e II, na forma do art. 70, caput, ambos do Código Penal (Ação Penal n. 2006.61.81.009512-1 ou n. 0009512-59.2006.4.03.6181, da 10ª Vara Federal Criminal de São Paulo, cujo trânsito em julgado se deu em 1º/3/2011).
+Nesta impetração, a defesa aduz, em síntese, que (fls. 4/5):
+A controvérsia jurídica que norteia o presente Habeas Corpus é a seguinte:
+- Interrogatório dos réus e a audiência de instrução ocorreu na data de 17 de abril de 2007 por meio de videoconferência, o Supremo Tribunal Federal na data de 30 de agosto de 2008 declarou inconstitucional a Lei Paulista nº 11.819/05 que disciplinava a matéria, por meio do julgamento do HC nº 90.900.
+- Nulidade absoluta, violação aos princípios do devido processo legal, legalidade e ampla defesa.
+- Prejuízo nítido: Paciente preso com base em lei inconstitucional, violação a princípios básicos do direito processual penal, não existe prejuízo maior que o mencionado.
+Requer, em liminar e no mérito, a anulação da ação penal desde o interrogatório judicial, com a determinação de novo ato, assegurado, desde já, ao paciente, mediante regular e prévia intimação da presente Defesa: "o direito fundamental de presenciar todos os atos do processo" (fl. 11).
+Estes autos foram a mim distribuídos por prevenção (HC n. 495.208/SP).
+É o relatório.
+O writ não merece ir adiante.
+De início, verifica-se que este habeas corpus configura, mais uma vez, reiteração de pedido. Isso já foi dito ao ora impetrante em outra oportunidade, quando da apreciação do HC n. 861.771, que foi assim ementado (DJe 19/10/2023) e cuja decisão transitou em julgado em 25/10/2023 :
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRETENSÃO DE REVISÃO CRIMINAL DO JULGADO. REITERAÇÃO DO PEDIDO FORMULADO NO HC N. 495.208/SP. CONHECIMENTO. IMPOSSIBILIDADE.
+Writ não conhecido.
+Além disso, constata-se que foi ajuizada a Revisão Criminal n. 5031188-66.2021.4.03.0000, a Quarta Seção do Tribunal Regional Federal da 3ª Região, em 21/9/2023, julgou parcialmente procedente o pedido para redimensionar a pena-base do ora paciente, resultando na pena definitiva de 9 anos, 2 meses e 7 dias de reclusão, e 21 dias-multa. Contra esse acórdão tramitou nesta Casa o AREsp n. 2.527.850/SP, do qual se conheceu para não conhecer do recurso especial. Essa decisão também transitou em julgado.
+Ora, é inadequada a impetração de habeas corpus como substitutivo do recurso próprio, tratando-se ainda de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade recursal, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação.
+A via eleita não deve ser utilizada de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro.
+Afora isso, também pecou o impetrante na instrução do feito, já que não trouxe aos autos o inteiro teor do acórdão impugnado.
+De mais a mais, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados.
+Afinal, em caso semelhante, o Ministro Nefi Cordeiro destacou que, ainda que realizado o interrogatório do acusado por meio de videoconferência, antes da regulamentação conferida pela Lei 11.900/2009, a declaração de nulidade do ato depende da demonstração de eventual prejuízo concreto, de acordo com o princípio pas de nullité sans grief. (HC n. 298.151/SP, Sexta Turma, DJe 12/5/2016).
+Na espécie, concluiu a instância antecedente, quando do julgamento da revisão criminal, que não é possível consignar que houve, em razão do procedimento realizado por videoconferência, efetivo prejuízo à defesa, a qual teve suas garantias devidamente observadas  ..  o ato foi realizado em atenção ao regulamento estipulado à época, e em plena atenção ao devido processo legal, evitando-se, ao máximo, prejuízo às partes e à instrução. E, conforme consta do termo de audiência de ID 253463064 - fls. 361, foi oportunizado pelo Juízo a quo que, antes de realizado o interrogatório, cada acusado tivesse conversa reservada com o respectivo defensor, nos termos do artigo 185, §2º, do Código de Processo Penal, em respeito aos princípios inerentes ao devido processo legal, à ampla defesa e ao contraditório (fl. 1.633 do AREsp n. 2.527.850).
+Com efeito, tendo sido assegurada, para a realização do ato, a presença de advogado, com a garantia dos recursos para a sua ampla defesa, não há falar em nulidade a ensejar a desconstituição do trânsito em julgado da sentença penal condenatória e a reabertura da instrução processual (HC n. 244.953/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/4/2016). Na mesma linha, entre outros, HC n. 101.869/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/3/2016.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. SUBVERSÃO DO SISTEMA RECURSAL. IMPOSSIBILIDADE. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. REITERAÇÃO DE PEDIDO. DESCABIMENTO. ROUBO MAJORADO. NULIDADE. CERCEAMENTO DE DEFESA. AUDIÊNCIA POR VIDEOCONFERÊNCIA ANTES DO ADVENTO DA LEI N. 11.900/2009. INSTRUÇÃO DEFICIENTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Writ indeferido liminarmente.
