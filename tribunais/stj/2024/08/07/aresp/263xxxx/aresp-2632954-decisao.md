@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - MANDADO DE SEGURANÇA - INADEQUAÇÃO DA VIA ELEITA - ILEGITIMIDADE PASSIVA DA AUTORIDADE IMPETRADA - ICMS-DIFAL - CONSUMIDOR FINAL CONTRIBUINTE DO IMPOSTO - PREVISÃO NA REDAÇÃO ORIGINÁRIA DA CONSTITUIÇÃO DA REPÚBLICA - LEI KANDIR E LEI ESTADUAL N. 6.763/1975 - TEMA 1.093/STF - INAPLICABILIDADE - COBRANÇA - POSSIBILIDADE. A prova pré-constituída é requisito para a concessão da ordem pretendida, mas não se trata de uma das condições necessárias para a impetração da ação mandamental ou pressuposto processual. Deve-se admitir o ajuizamento de ação mandamental em razão dos efeitos concretos decorrentes de norma geral e abstrata, ainda que a causa de pedir do mandado de segurança esteja amparada na violação à Constituição da República. Conforme Decreto Estadual n. 47.794/19, a competência para a formalização do crédito tributário, aplicação de penalidade e arrecadação de tributos é das Delegacias Fiscais, subordinadas administrativamente à Subsecretaria da Receita Estadual, revelando-se admissível a aplicação da teoria da encampação no caso dos autos. Na redação originária do artigo 155, §2º, VII, da Constituição da República, já era prevista a cobrança do diferencial de alíquota do ICMS quando o destinatário fosse consumidor final contribuinte do imposto. Não se aplica ao presente caso o Tema n. 1.093/STF, o qual envolveu apenas os consumidores finais não contribuintes do imposto. A possibilidade de cobrança do DIFAL para os contribuintes do imposto advém da Lei Complementar n. 87/1996 (Lei Kandir) e da Lei Estadual n. 6.763/1975.
+Os Embargos de Declaração foram rejeitados.
+Aponta a parte agravante, em Recurso Especial, divergência jurisprudencial e violação dos arts. 489, 927, II e IV, e 1.022 do CPC e 165 e 166 do CTN.
+Foram apresentadas contrarrazões (fls. 714-746).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9 de julho de 2024.
+Preliminarmente, constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão, contradição ou erro material.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Registre-se, portanto, que a Corte local examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido:
+Não obstante, em ambos os precedentes que originaram a tese de observância obrigatória, somente foi analisada a situação dos consumidores finais não contribuintes do imposto, tendo em vista que a EC 87/15 criou nova relação jurídico-tributária entre o remetente do bem ou serviço (contribuinte) e o estado de destino nas operações com bens e serviços destinados a consumidor final não contribuinte do ICMS.
+A propósito, destaco a ementa do julgado proferido no RE n. 1.278.019 (Tema 1.093):
+(..)
+Diante desse contexto, não se aplica ao presente caso o supracitado entendimento do colendo STF, o qual se limitou aos consumidores finais não contribuintes do imposto.
+Oportuno destacar que o próprio Tribunal Superior já se manifestou no sentido de que o Tema n. 1.093 não se aplica aos casos que envolvem consumidores finais contribuintes do imposto:
+(..)
+No RE 580.903 AgR, citado pelas impetrantes, o Supremo Tribunal Federal decidiu que a instituição do diferencial de alíquotas alusivo ao ICMS em operações interestaduais depende de previsão em lei complementar veiculando normas gerais (Relator: MINISTROROBERTO BARROSO, Primeira Turma, julgado em 28/04/2015). Entretanto, naquele julgado decidiu-se a respeito da cobrança de ICMS cujos fatos geradores eram anteriores à edição da Lei Complementar n. 87/96, situação diversa dos autos, em que pretensão se direciona a fatos geradores desde os cinco anos que antecedem a impetração (17.12.2020).
+O RE 580903 AgR, portanto, não se encaixa à hipótese dos autos, haja vista que o objeto daquele recurso se limitava a fatos geradores entre junho de 1989 e novembro de 1996, período anterior à vigência da Lei Complementar n.87/96.
+Com efeito, no caso dos contribuintes finais do imposto, constato que a Lei Complementar n. 87/96 (Lei Kandir) já regulamentava a matéria nos termos da redação originária da Constituição da República:
+(..)
+Assim, não há que se falar em inexistência de lei complementar que veicule normas gerais a obstar a incidência do DIFAL nas aquisições de mercadorias para o ativo fixo/permanente e para uso/consumo do estabelecimento.
+Do mesmo modo, no plano local, o Código Tributário de Minas Gerais (Lei Estadual n. 6.763/75), cuida suficientemente da matéria, consoante revelam os dispositivos a seguir:
+(..)
+Dessa forma, forçoso concluir pela possibilidade de cobrança do DIFAL para consumidores contribuintes do ICMS, que advém da edição da Lei Complementar Federal n. 87/1996 (Lei Kandir), assim como da Lei Estadual n. 6.763/1975, revelando-se suficiente o tratamento da matéria nas referidas normas.
+(..)
+Pelo exposto, REFORMO A SENTENÇA NA REMESSA NECESSÁRIA e denego a segurança. JULGO PREJUDICADOS OS RECURSOS VOLUNTÁRIOS. (fls. 482-487 )
+Afasta-se a ideia de simples valoração da prova, já que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça ante a incidência de sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por fim, dessume-se que o acórdão impugnado decidiu a controvérsia, acerca da suspensão da exigibilidade da cobrança do diferencial de alíquota do ICMS, sob o enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal sua eventual reforma, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
