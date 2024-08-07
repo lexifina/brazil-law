@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por MOZART CRYSTYAN FERREIRA, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado do Ceará assim ementado (e-STJ, fl. 204):
+APELAÇÃO CÍVEL. NEGOCIAÇÃO DO CONTRATO REALIZADA POR WHATSAPP. RELEVANTE. O VALOR CONTROVÉRSIA QUANTO A FATO DEBATES ENTRE OS LITIGANTES SOBRE ACORDADO PELAS PARTES NA CONTRAPRESTAÇÃO DOS SERVIÇOS PRESTADOS. SOLICITAÇÃO TEMPESTIVA DE REALIZAÇÃO DE INSTRUÇÃO PROBATÓRIA TESTEMUNHAS PELA APELANTE. ARROLAMENTO DE EM CONTESTAÇÃO. JULGAMENTO ANTECIPADO DO CASO. AUSÊNCIA DE SANEAMENTO, ANÚNCIO DO JULGAMENTO ANTECIPADO E DE JUSTIFICATIVA QUANTO A DISPENSA DA DILAÇÃO PROBATÓRIA REQUERIDA PELA APELANTE. CERCEAMENTO DE DEFESA. SENTENÇA ANULADA.
+1. No caso concreto, a Apelante pugna pela reforma da decisão atacada sob o argumento de que não lhe foi conferida oportunidade de produção de provas e que havia controvérsia sobre o valor acordado entre as partes pela contraprestação dos serviços do Apelado não estava comprovado nos autos.
+2. O art. 335 do Código de Processo Civil possibilita o julgamento antecipado da lide, ou seja, sem a realização da fase probatória prevista nos artigos 369 e seguintes da norma processual, em duas hipóteses: quando não houver necessidade de produção de outras provas ou o réu for revel.
+3. No caso concreto, a questão não é unicamente de direito, uma vez que, embora seja incontroverso a contratação e efetiva prestação do serviço, há controvérsia quanto ao valor acordado entre as partes em contraprestação.
+4. Dessa forma, não se mostra legítimo o julgamento precipitado da demanda, impedindo as partes de produzirem provas sobre os fatos controvertidos.
+5. Recurso conhecido e provido. Sentença anulada.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 232-238).
+Nas razões do recurso especial (e-STJ, fls. 240-256), o ora agravante apontou divergência jurisprudencial e violação do art. 370 do CPC/2015, sustentando, em síntese, cerceamento do seu direito de defesa.
+Contrarrazões às fls. 261-265 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O. Tribunal de origem reconheceu o cerceamento de defesa sustentado pela parte demandada na ação monitória por concluir que a causa não estava madura para julgamento.
+Confira-se (e-STJ, fls. 208-214, sem grifos no original):
+No caso concreto, a questão não é unicamente de direito, uma vez que há controvérsia quanto a fato relevante, concernente ao valor acordado entre as partes para prestação de serviços pelo Apelado. Dessa forma, não se mostra legítimo o julgamento precipitado da demanda, impedindo as partes de produzirem provas sobre os fatos controversos.
+Nesse contexto, apesar de o juiz ter considerado que os elementos existentes nos autos seriam suficientes para o julgamento da demanda, e o Superior Tribunal de Justiça possuir farta jurisprudência no sentido de que "o juiz é o destinatário da prova", é certo que essa premissa merece temperamento, pois se mostra cada vez mais superada no processo civil moderno, haja vista que, de acordo com o Enunciado nº 50 do Fórum Permanente de Processualistas Civis (FPPC), "os destinatários da prova são aqueles que dela poderão fazer uso, sejam juízes, partes ou demais interessados, não sendo a única função influir eficazmente na convicção do juiz." Por oportuno, colaciono doutrina acerca do tema, em que se destaca a importância da realização da instrução processual quando existirem questões fáticas controvertidas, mesmo quando o convencimento do juiz já estiver firmado. Confira-se:
+(..)
+Portanto, na situação analisada, a causa não estava madura para julgamento no estado em que se encontrava, diante da existência de fato controvertido, de forma que a dilação probatória apresentava relevância para o deslinde da demanda, não podendo essa fase ser suprimida, mormente sem prévio anúncio às partes, em ofensa aos princípios do contraditório e da ampla defesa, o que configura erro in procedendo.
+(..)
+Pelo exposto, conheço do recurso para dar-lhe provimento, a fim de anular a sentença atacada por cerceamento de defesa, determinando o retorno dos autos ao juízo de origem para que seja realizada a fase saneamento e, em seguida, instrução, devendo serem colhidas as provas orais requeridas.
+No recurso especial, o autor, ora agravante também alegou cerceamento de defesa. Para tanto, sustentou que as provas acostadas aos autos são suficientes para dar provimento aos pedidos constantes da ação monitória, dispensando, assim, a necessidade de prova oral no processo, mormente pelo fato da parte demandada ter reconhecido a dívida e se recusado a efetuar o pagamento.
+Da análise dos fundamentos do recurso e seu cotejo com as razões do acórdão recorrido, percebe-se que o recorrente busca emprestar entendimento diverso, para o tema, daquele que foi adotado pelo Tribunal de origem a partir da análise do conjunto probatório posto à sua disposição.
+Assim sendo, infirmar o entendimento alcançado pelo acórdão recorrido acerca da insuficiência das provas acostadas aos autos, com base nos elementos de convicção juntados aos autos, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CERCEAMENTO DE DEFESA. INSUFICIÊNCIA DAS PROVAS ACOSTADAS AOS AUTOS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
