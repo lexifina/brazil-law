@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. CRIMES DE PECULATO E PREVISTO NA LEI 8.666/1993. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. DESLOCAMENTO DO FEITO PARA VARA ESPECIALIZADA (CRIME DE LAVAGEM DE DINHEIRO). NÃO RECONHECIDOS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DENEGAÇÃO DA ORDEM.
+Imputa-se ao recorrente a prática dos crimes de dispensa de licitação e peculato.
+A defesa alega, em síntese, incompetência da Justiça Federal.
+Ao final, requer o provimento do recurso para obter a declaração da incompetência da Justiça Federal ou, subsidiariamente, para que seja declarada a competência da 4ª Vara Federal em razão de sua competência especializada.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ Fl. 498-499):
+Nos termos do art. 109, IV, da CF, é competência da Justiça Federal processar e julgar os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesses da União ou de suas entidades autárquicas ou empresas públicas.
+No caso dos autos, o conjunto probatório da ação originária indica que as investigações apuraram a malversação de recursos repassados à municipalidade pelo FUNDEB, Programa Nacional de Alimentação Escolar - PNAE, SUS e Fundo Nacional de Assistência Social, não cabendo a alegação de que não se demonstrou a origem dos recursos malversados, uma vez que, a toda evidência, principalmente por meio das contas bancárias, se demonstra que tais recursos, ou parte deles, são originários da União.
+Ademais, não se desconhece que tais recursos estão sujeitos à fiscalização e à prestação de contas perante órgãos federais, o que indubitavelmente atrai a competência da Justiça Federal.
+(..)
+No que se refere ao deslocamento da competência para processar e julgar o feito em favor do Juízo da 4ª Vara Federal Criminal da Seção Judiciária do Pará, especializada em crimes de lavagem de dinheiro, também não vejo como conceder a ordem, pois a autoridade impetrada certificou junto ao Ministério Público Federal se, de fato, os pacientes supostamente praticaram o crime de lavagem de dinheiro.
+O MPF, ao prestar o devido esclarecimento, afirmou que as investigações estavam limitadas às condutas supostamente ilícitas e tipificadas nos crimes de peculato e da Lei 8.666/1993 e, por isso, houve erro material na petição inicial ao citar que os pacientes supostamente praticaram o crime de lavagem de dinheiro.
+Acolhida a justificativa pela autoridade impetrada, a denúncia foi oferecida em desfavor do paciente somente imputando-lhe a suposta prática dos crimes previstos no art. 89 da Lei 8.666/1993 (dispensa de licitação) e art. 312 do CP (peculato), conforme se verifica no excerto abaixo (doc. 25012049, fl. 21).
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a competência para conhecimento do feito é do Juízo da 3ª Vara Federal da Seção Judiciária do Pará.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Sabe-se que "O habeas corpus, cuja tutela emergencial recai sobre a liberdade de locomoção, é cabível quando houver manifesta ilegalidade que reflita diretamente na liberdade do indivíduo. Vale dizer, o habeas corpus visa a proteger a liberdade de locomoção, por ilegalidade ou abuso de poder, não podendo ser utilizado para proteção de outros direitos." (AgRg no HC n. 580.506/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/6/2020, DJe de 4/8/2020.)
+Com efeito, o interesse de agir na ação de "habeas corpus" encontra-se atrelado à demonstração da necessidade da tutela, que surge a partir da existência objetiva, iminente e plausível, de ameaça ou efetiva violência ou coação decorrente de ilegalidade ou abuso de poder.
+Vincula-se, também, à demonstração de adequação da ordem para solução do problema jurídico que se pretende atacar, o que se realiza a partir da demonstração de que a liberdade de locomoção do paciente encontra-se ameaçada ou já restringida.
+No presente feito, além de não se apontar a existência de constrangimento à liberdade do paciente na medida apontada como coatora, a alteração do quadro formado no Tribunal de origem demanda inviável dilação probatória no "writ".
+Ademais, a análise do que apontado pela origem não discrepa do entendimento da jurisprudência desta corte no sentido de que "Após o julgamento do CC nº 119.305/SP, a Terceira Seção desta Corte, mudando a jurisprudência até então pacificada, passou a entender ser da competência da Justiça Federal a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF, independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse da União na correta aplicação dos recursos." (CC 123.817/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, DJe 19/9/2012).
+No mesmo sentido, certo é que a competência "ratione materiae" há de ser apurada conforme o teor da denúncia, de modo que inexiste ilicitude a ser reparada quanto à temática.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
