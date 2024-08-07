@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por PETRÓLEO BRASILEIRO S.A. - PETROBRÁS - contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fls. 61-62):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA ENTRE EMPRESAS POR PRESTAÇÃO DE SERVIÇOS. RECURSO DA PARTE AUTORA CONTRA A DECISÃO QUE INDEFERIU A GRATUIDADE DE JUSTIÇA PLEITEADA. PRETENSÃO RECURSAL QUE OBJETIVA A CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA E, SUBSIDIARIAMENTE, RECOLHIMENTO DAS CUSTAS AO FINAL DO PROCESSO. DECISÃO QUE MERECE REFORMA PARCIAL. PRESUNÇÃO DE MISERABILIDADE JURÍDICA QUE NÃO É ABSOLUTA, PODENDO O MAGISTRADO DETERMINAR A COMPROVAÇÃO DE TAL ESTADO. SÚMULA 39 DO TJRJ. AGRAVANTE QUE SE TRATA DE PESSOA JURÍDICA, COM FINS LUCRATIVOS QUE APRESENTA PREJUÍZOS SIGNIFICATIVOS COM PATRIMÔNIO NEGATIVO, MAS QUE NÃO AUTORIZA A CONCESSÃO DA GRATUIDADE DE JUSTIÇA PRETENDIDA, EIS QUE O BENEFÍCIO SE MOSTRA INCOMPATÍVEL COM O PERFIL DA EMPRESA REQUERENTE. INCIDÊNCIA DAS SÚMULAS 481 DO STJ E 121 DESTE E. TRIBUNAL DE JUSTIÇA. ENTRETANTO, O CONTEXTO PROBATÓRIO APONTA PARA A INEXISTÊNCIA DE CONDIÇÕES MOMENTÂNEAS DA PARTE AUTORA ARCAR COM AS CUSTAS DO PROCESSO, CIRCUNSTÂNCIA ESSA QUE NÃO AUTORIZA A CONCESSÃO DA GRATUIDADE DE JUSTIÇA PRETENDIDA, PORÉM ATRAI A INCIDÊNCIA DO DISPOSTO NO ENUNCIADO Nº 27 DO AVISO Nº 57/2010 DESTA CORTE DE JUSTIÇA. ACOLHIMENTO DO PEDIDO SUBSIDIÁRIO PARA AUTORIZAR O RECOLHIMENTO DAS CUSTAS AO FINAL DO PROCESSO. PROVIMENTO PARCIAL DO RECURSO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 147-152).
+Nas razões do recurso especial, a recorrente alegou a ofensa aos arts. 489, §1º, inciso VI, e 1.022, inciso I, ambos do Código de Processo Civil de 2015, sustentando, em síntese, obscuridade no acórdão recorrido no que tange ao fato de que, embora seja expresso acerca da ausência de autorização da concessão do benefício da gratuidade da justiça, defere o pedido subsidiário para autorizar o recolhimento de custas ao final do processo, o que representa o acolhimento do pedido principal.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+A agravante impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 265-273).
+Contraminuta apresentada (e-STJ, fls. 278-288).
+Brevemente relatado, decido.
+De início, consoante análise dos autos, verifica-se que a alegação de violação aos arts. 489, §1º, inciso VI, e 1.022, inciso I, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado do Rio de Janeiro foi claro ao concluir, em suma, que "o contexto probatório de vultuoso saldo negativo aponta para a inexistência de condições momentâneas da parte autora arcar com as custas do processo, circunstância essa que não autoriza a concessão da gratuidade de justiça pretendida, porém atrai a incidência do disposto no enunciado nº 27 do Aviso nº 57/2010 desta Corte de Justiça", veja-se (e-STJ, fls. 69-70; sem grifo no original):
+Da leitura dos documentos financeiros apresentados percebe-se que apesar dos prejuízos significativos com patrimônio negativo da parte autora, isso não autoriza a concessão da gratuidade de justiça pretendida, eis que o benefício se mostra incompatível com o perfil da empresa requerente.
+Portanto, diante da ausência de comprovação da incapacidade de custear as despesas processuais, não é possível acolher o pedido recursal de gratuidade.  ..
+Entretanto, o contexto probatório de vultuoso saldo negativo aponta para a inexistência de condições momentâneas da parte autora arcar com as custas do processo, circunstância essa que não autoriza a concessão da gratuidade de justiça pretendida, porém atrai a incidência do disposto no enunciado nº 27 do Aviso nº 57/2010 desta Corte de Justiça, in verbis:  ..
+Dessa forma, defiro o pedido subsidiário da parte autora, ora agravante, de recolhimento das custas ao final, antes da sentença.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da agravante, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. PROMESSA DE COMPRA E VENDA. ATRASO DEMASIADAMENTE LONGO E INJUSTIFICADO NA ENTREGA DE IMÓVEL. DANOS MORAIS CONFIGURADOS. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que o mero inadimplemento contratual não causa, por si só, abalo moral indenizável, mas o excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial.
+Precedentes.
+3. A revisão da matéria, tanto em relação a caracterização do dano moral no caso, como em relação ao valor arbitrado para a indenização , implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo improvido.
+(AgInt no AgInt no AREsp n. 2.205.837/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. SUSPENSÃO DE CONTA. INTERNET. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do NCPC, porquanto o Tribunal estadual decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Vale destacar que, no caso, o próprio recorrente pediu o julgamento antecipado da lide não sendo possível alegar, depois disso, que era necessário produzir outras provas.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.418.765/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Assim, melhor sorte não socorre à agravante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BENEFÍCIO DA GRATUIDADE DA JUSTIÇA INDEFERIDO. RECOLHIMENTO DAS CUSTAS AO FINAL DO PROCESSO. ALEGADA OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
