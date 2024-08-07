@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRENNO NEVES FLORÊNCIO contra acórdão da 3ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina (Recurso em Sentido Estrito n. 5029195-72.2023.8.24.0008).
+Extrai-se dos autos que o paciente é investigado pela suposta prática do delito de organização criminosa e furto qualificado mediante fraude por meio de dispositivo eletrônico ou informático (art. 2º, § 2º, da Lei n. 12.850/2013 e 155, § 4º-B do Código Penal).
+Requerida a decretação de sua prisão preventiva, o magistrado singular considerou que seriam necessárias diligências e esclarecimentos relativos à autoria delitiva do paciente, indeferindo o pedido.
+Em sede de recurso em sentido estrito, o Tribunal a quo deu provimento ao pleito do Ministério Público para decretar a custódia do paciente. O acórdão foi assim ementado (e-STJ fls. 70/85):
+RECURSO EM SENTIDO ESTRITO. CRIMES DE ORGANIZAÇÃO CRIMINOSA (ART. 2º, §2º, DA LEI 12.850/13) E FURTO QUALIFICADO MEDIANTE FRAUDE POR MEIO DE DISPOSITIVO ELETRÔNICO OU INFORMÁTICO (ART. 155, §4º-B, DO CÓDIGO PENAL). DECISÃO QUE INDEFERIU O PEDIDO DE PRISÃO PREVENTIVA E RECONHECEU COMO PREJUDICADO O PLEITO DE QUEBRA DE SIGILO DE DADOS TELEFÔNICOS. RECURSO DO MINISTÉRIO PÚBLICO. ALEGAÇÃO DE QUE ESTÃO PRESENTES OS REQUISITOS NECESSÁRIOS PARA A SEGREGAÇÃO CAUTELAR. ACOLHIMENTO. AGENTES DE EXTENSA ORGANIZAÇÃO CRIMINOSA ESPECIALIZADA EM CRIMES PATRIMONIAIS CONTRA BANCOS QUE, APÓS INGRESSAREM NA POSSE DE NOTEBOOK ROUBADO DE GERENTE DE INSTITUIÇÃO FINANCEIRA, TERIAM SE UTILIZADO DO DISPOSITIVO DE INFORMÁTICA PARA REALIZAR TRANSFERÊNCIAS ILÍCITAS, BURLANDO O SISTEMA DE SEGURANÇA, E SUBTRAINDO, POR MEIO DE CONTAS FRAUDULENTAS, O VALOR DE R$ 2.688.576,32. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA EM RELAÇÃO A TODOS OS 12 (DOZE) INVESTIGADOS, COM EXCEÇÃO DE UM DELES, CUJA PARTICIPAÇÃO TERIA FICADO, EM PRINCÍPIO, RESTRITA AOS FURTOS QUALIFICADOS, REMANESCENDO A APURAÇÃO DE SUA INTEGRAÇÃO À ORGANIZAÇÃO CRIMINOSA EM AUTOS DIVERSOS. ELEMENTOS PROBATÓRIOS OBTIDOS POR MEIO DE INVESTIGAÇÃO REALIZADA PELO GRUPO DE INVESTIGAÇÃO DE CRIMES CIBERNÉTICOS - CYBERGAECO E QUE CONTA COM A APREENSÃO DO NOTEBOOK UTILIZADO PARA A FRAUDE, A ANÁLISE DAS INFORMAÇÕES REPASSADAS PELA INSTITUIÇÃO FINANCEIRA ALVO, O CRUZAMENTO DE DADOS TELEFÔNICOS E TELEMÁTICOS DE APARELHO CELULAR APREENDIDO EM INVESTIGAÇÃO ANTERIOR E EXAME DE DADOS BANCÁRIOS DE SUPOSTOS ENVOLVIDOS OBTIDOS APÓS AUTORIZAÇÃO JUDICIAL. FUMUS COMISSI DELICTI EVIDENCIADO. ADEMAIS, PRISÃO PROVISÓRIA QUE SE FAZ NECESSÁRIA PARA A RESGUARDAR A ORDEM PÚBLICA.
+No presente writ, a defesa alega que "o paciente, JAMAIS foi procurado, ou intimado pela autoridade policial para prestar quaisquer esclarecimentos sobre os fatos apurados" (e-STJ fl. 7). Aduz que ele foi induzido a erro pelos membros do grupo criminoso, de modo que mesmo seguindo os protocolos exigidos pelo banco onde trabalhava, acabou por contribuir com a realização do delito. Ressalta suas circunstâncias pessoais favoráveis, bem como o fato de que não há qualquer conversa ou ligação sua com os demais investigados. Invoca o princípio da presunção de inocência.
+Afirma que a custódia carece de fundamentos idôneos e concretos e que as razões apontadas não são contemporâneas.
+Requer, em liminar e no mérito, a expedição de alvará de soltura.
+Às e-STJ fls. 117/131, a defesa trouxe aos autos cópia da denúncia, ressaltando que foi imputada ao paciente não somente a prática do crime de furto qualificado.
+A liminar foi indeferida às e-STJ fls. 132/134.
+Informações às e-STJ fls. 137/139 e 143/299.
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 304/310).
+É o relatório. Decido.
+O seguimento do presente habeas corpus está prejudicado pela perda superveniente do objeto, uma vez que a questionada prisão preventiva do paciente já foi revogada por esta Relatoria, no julgamento do Pedido de Extensão n. 122084/2024 formulado no bojo do HC n. 891.838/MG.
+Nesse sentido:
+ ..  3. A superveniência de decisão que revogou a prisão preventiva imposta ao recorrente na origem torna prejudicado o pedido aqui formulado relativamente à imposição de segregação cautelar.
+4. Recurso parcialmente conhecido e, nessa extensão, não provido.
+(RHC 103.259/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/04/2019, DJe 03/05/2019, grifo nosso).
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
