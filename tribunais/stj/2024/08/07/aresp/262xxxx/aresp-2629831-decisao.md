@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por CONSTRUTORA BELMAIS S.A. contra decisão que inadmitiu recurso especial (e-STJ, fls. 638-641) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 603):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIOS CONSTRUTIVOS. NO QUE DIZ RESPEITO AO PEDIDO DE REPARO DOS VÍCIOS, NÃO HÁ INDICÍOS DE QUE NÃO FORAM SOLUCIONADOS PELA RÉ DESDE A PROPOSITURA DA DEMANDA. ALÉM DISSO, A PARTE APELANTE JÁ LOGROU ÊXITO NO PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS. EM QUE PESE ESTA CÂMARA POSSUA O ENTENDIMENTO DE QUE TRANSTORNOS DECORRENTES DO DESCUMPRIMENTO CONTRATUAL SÃO CONSEQUÊNCIAS NATURAIS DO RISCO INERENTE A QUALQUER NEGÓCIO JURÍDICO, SEM, CONTUDO, CONSTITUIR DANO MORAL PASSÍVEL DE RESSARCIMENTO, NO CASO EM EXAME, JUSTIFICA-SE O ACOLHIMENTO DE TAL POSTULAÇÃO, AINDA QUE NÃO EM VALOR ELEVADO. ÔNUS SUCUMBENCIAIS REDIMENSIONADOS. DERAM PARCIAL PROVIMENTO À APELAÇÃO. UNÂNIME.
+Nas razões do recurso especial, a recorrente alegou, com base nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação aos arts. 186, 927 e 944 do CC/2002.
+Sustentou a inexistência de dano moral indenizável.
+Destacou que "os recorridos não demonstraram qualquer abalo sofrido em razão do fato alegado, qual seja, que estragou os móveis, destacando ainda que os fatos alegados na exordial não são confirmados por quaisquer elementos probatórios reunidos no processo, ainda que mínimos" (e-STJ, fl. 617).
+Frisou que "não praticou ato ilícito algum, capaz de ensejar qualquer prejuízo aos recorridos, muito pelo contrário, imbuída de boa-fé, efetuou, de imediato,os reparos necessários" (e-STJ, fl. 618).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 638-641).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 652-664).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito do dano moral indenizável, o Tribunal originário assim se manifestou (e-STJ, fls. 600-601):
+Da análise dos autos é possível perceber que a ocorrência de infiltrações/fissuras no imóvel adquirido pelos apelantes é fato incontroverso nos autos. Os vícios construtivos causaram umidade e mofo, que acabaram atingindo os móveis dos autores, o que não teria sido solucionado pela construtora, e restou demonstrado através do laudo pericial.
+O reparo dos vícios construtivos efetivamente não foi analisado na sentença. No entanto, não há nos autos comprovação de que os vícios não foram sanados desde a propositura da demanda, que ocorreu em 2016.
+Além disso, a parte recorrente já obteve êxito no pedido de indenização por danos materais, devendo ser ressarcida pelos prejuízos causados pela apelada, e devidamente comprovados nos autos.
+No mais, ainda que esta Câmara possua o entendimento de que transtornos decorrentes do descumprimento contratual são consequências naturais do risco inerente a qualquer negócio jurídico, sem, contudo, constituir dano moral passível de ressarcimento, no caso em exame, justifica-se o acolhimento de tal postulação, ainda que não em valor elevado.
+Isso porque o imóvel apresentou vícios construtivos pouco tempo após a sua entrega.
+As provas carreadas aos autos demonstram a responsabilidade da apelada pelas infiltrações e a má qualidade do trabalho exercido por ela.
+Tal fato, certamente, abalou a parte apelante, de modo que as circunstâncias dos autos, na espécie, refogem à situação de mero aborrecimento, configurando o dano moral a autorizar a indenização postulada.
+Da citada passagem, depreende-se que a Corte local, após detido exame dos fatos e provas, entendeu que, embora a jurisprudência dos tribunais pátrios reconheça a inexistência de dano moral presumido em caso de descumprimento contratual, no caso concreto, os transtornos causados pelos vícios construtivos no imóvel adquirido pelos recorridos ultrapassaram o mero aborrecimento, causando violação a direito personalíssimo.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Em virtude da incidência do Enunciado Sumular n. 7/STJ, fica prejudicada a apreciação da divergência jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VÍCIO CONSTRUTIVO. DANO MORAL CONSTATADO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
