@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MOHAMED WAHBE, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/09/2023.
+Concluso ao gabinete em: 24/06/2024.
+Ação: execução, ajuizada por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, em face de MOHAMED WAHBE e SÔNIA MARIA WAHBE.
+Decisão interlocutória: rejeitou a impugnação, mantendo o leilão do bem imóvel.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pelo agravante, nos termos da seguinte ementa:
+"Agravo de instrumento - Impugnação ao leilão de bem imóvel - Rejeição - Perempção da garantia hipotecária afastada - Execução que não segue o rito hipotecário, sendo certo que a parte credora já promoveu a penhora do imóvel, exercendo o direito de garantia que lhe assiste - Impenhorabilidade do bem de família - Bem ofertado em garantia pelo próprio recorrente - Oponibilidade não admitida, havendo de ser reconhecido o afastamento da proteção invocada, na forma do artigo 3º e ss. da Lei 8.009/90 - Vedação constante do princípio venire contra factum proprium - Precedentes - Ausentes irregularidades no edital - Elementos dele constantes que se mostraram suficientes para atingir o fim pretendido - Suspensão do feito até o trânsito em julgado de ação revisional do contrato sub judice inoportuna - O débito, enquanto não desconstituído, remanesce, franqueando ao credor a possibilidade do manejo de atos para excussão de patrimônio - Possibilidade da condenação do exequente em perdas e danos, sobrevindo eventual alteração em sede revisional de contrato - Decisão mantida - Recurso desprovido." (e-STJ fl. 39)
+Recurso especial: alega violação dos arts. 817, CC, 1º, 5º, Lei 8.009/90, 805, 886, CPC, sustentando que: i) consoante a legislação, o gravame de hipoteca subsiste por 30 anos, e, findo esse prazo, não havendo interrupção ou suspensão de qualquer natureza, a preferência hipotecária não mais subsiste, merecendo, sobretudo, a retirada; e, ii) deve ser reconhecida a perempção da hipoteca que grava o bem imóvel objeto da execução; e, iii) a execução deverá ocorrer da forma menos gravosa ao recorrente, e, no caso dos autos, penhorar o único imóvel do recorrente acarretaria em prejuízos inestimáveis e irreparáveis à saúde e até mesmo à vida dele; e, iv) no edital do leilão, a recorrida não anexa planilhas do débito, de forma atualizada, para fins de exercício do pagamento ou remição, conforme a legislação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 817, CC, 1º, Lei 8.009/90, 805, 886, CPC, indicados como violados, não tendo o agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a alegada perempção da garantia hipotecária foi afastada, pois, conforme invocado pelo d. Juízo "a quo", a execução não segue o rito hipotecário, sendo certo que a agravada já promoveu a penhora do imóvel, exercendo o direito de garantia que lhe assiste", bem como de que "o bem fora ofertado em garantia pelo próprio agravante, para obtenção de empréstimo consistente em cédula de crédito bancário e, nestes termos, não é possível admitir a mencionada oponibilidade, havendo de ser reconhecido o afastamento da proteção invocada, no caso a impenhorabilidade", assim também de que "não se reconhecem irregularidades no edital, por conta da ausência de estipulação de correção monetária, juros, ou índice de correção monetária, eis que inaptas a causar prejuízos, uma vez considerado o valor da avaliação", além de que "os elementos constantes do edital se mostraram suficientes para atingir o fim pretendido, bem identificando o objeto da alienação", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de execução.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
