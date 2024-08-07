@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por PETRÓLEO BRASILEIRO S A PETROBRAS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise do recurso de PETRÓLEO BRASILEIRO S A PETROBRAS, a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo, bem como da representação processual. A parte, embora regularmente intimada para sanar referidos vícios, regularizou apenas a representação (fls. 95/101), permanecendo, porém, o vício do preparo, tendo em vista que se limitou a apresentar à fl. 90 a guia de recolhimento referente ao comprovante de pagamento anteriormente apresentado, sem, contudo, efetuar a complementação do preparo, uma vez que devido em dobro.
+Veja-se que nos termos da jurisprudência desta Corte, "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem". (AgInt no REsp 1660202/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, DJe de 27/2/2018.)
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Além disso, o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo.
+Consoante entendimento firmado pelo Supremo Tribunal Federal, é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial (Súmula n. 281 do STF).
+É, pois, pacífico o entendimento do STJ de que a interposição do recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado do Tribunal de origem. Nesse sentido, o AgInt nos EDcl no AREsp 1571531/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 20/5/2020.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
