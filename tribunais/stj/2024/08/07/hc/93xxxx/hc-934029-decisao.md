@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL RODRIGUES DE OLIVEIRA e VALDIR TOME DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da apelação criminal n. 1500290-61.2019.8.26.0555.
+Consta dos autos que os pacientes foram inicialmente condenados pelo Juízo da Vara Única da Comarca de Ribeirão Bonito, como incursos no artigo 33, caput, da Lei 11.343/06, à pena de 5 anos de reclusão, no regime inicial fechado, cumulada com multa pecuniária equivalente a 500 dias-multa, nos termos da sentença de fls. 23-29.
+A defesa apelou ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 30-35.
+Interposto recurso especial, não foi admitido na origem. Aviado agravo em recurso especial, não foi conhecido (fls. 453-454, AREsp n. 2.603.574-SP), com trânsito em julgado em 15/05/2024 (fl. 459, AREsp n. 2.603.574-SP).
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem para reconhecer a incidência da causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/2006.
+É o relatório. DECIDO.
+A controvérsia nos autos diz respeito a uma possível ilegalidade flagrante, manifestada na negativa da aplicação da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/2006.
+O acórdão impugnado, ao apreciar o recurso de apelação, restou assim fundamentado (fls. 30-35):
+ ..
+Passo a análise da individualização das penas.
+Na primeira fase da individualização da pena, em observância ao artigo 59, do Código Penal, não foram observadas circunstâncias judiciais desabonadoras a serem imputadas aos réus, mantenho a fixação no patamar base, sem alterações nas demais fases, que restou definitiva, à míngua de modificadoras.
+Como bem fundamentado pelo i. magistrado, não há se falar na figura do tráfico privilegiado, que restou provado que se dedicavam a atividade criminosa de forma habitual e transportavam a droga pela rodovia", afastando-os da condição de "traficante de primeira viagem", dessa forma, incabível a aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006.
+ ..
+Inviável, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, em vista do quantum da pena imposta e das circunstâncias do caso concreto, que indicam sua insuficiência para promover a prevenção penal, cf.art. 44, II e III, do CP.
+Pelos mesmos motivos, deve prevalecer o regime prisional fechado como inicial para o cumprimento da pena privativa de liberdade, dada a gravidade concreta dos crimes e diante do quantum da pena, o que justifica, a meu ver, a imposição do regime prisional mais rigoroso, ainda que não se considere que o crime de tráfico por eles perpetrado seja equiparado aos hediondos.
+ ..
+O presente writ foi investe contra acórdão com trânsito em julgado. Dessa maneira, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019)
+Por outro lado, verifico a presença de ilegalidade flagrante que desafia a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+A moldura fática do acórdão impugnado revela que o paciente Rafael Rodrigues de Oliveira é tecnicamente primário (fls. 36-39), enquanto o paciente Valdir Tome de Souza possui maus antecedentes (fls. 40-46). A quantidade de entorpecentes apreendidos  8 tabletes de maconha, com peso líquido de 166,98 gramas, e 1 invólucro plástico contendo cocaína, com peso líquido de 10,37 gramas  , em um contexto de tráfico intermunicipal, não desborda da definição típico-normativa do delito previsto no artigo 33 da Lei 11.343/2006.
+Com efeito, tenho que o fundamento empregado pelo Tribunal de Apelação para afastar o benefício do § 4º do artigo 33 da Lei 11.343/2006 ao paciente Rafael Rodrigues de Oliveira é inidôneo, porquanto a conclusão no sentido de que ele é um traficante habitual é absolutamente vaga.
+Da análise das razões de decidir da instância originária, não vislumbro nenhum elemento concreto que justifique o afastamento do tráfico de drogas privilegiado ao paciente Rafael.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a quantidade e a variedade de drogas, isoladamente, não autorizam o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa, que não pode simplesmente ser presumida.
+Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, §4º DA LEI 11.343/2006. AUSÊNCIA DE COMPROVAÇÃO DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. RECURSO MINISTERIAL DESPROVIDO.
+1. De acordo com o disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+ ..
+3. Esta Corte e o Supremo Tribunal Federal tem entendimento de que "a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa" (AgRg no REsp 1.866.691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020) (AgRg no HC 656.477/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/10/2021, DJe 3/11/2021).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.424.111/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. APLICAÇÃO DA MINORANTE CONTIDA NO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DE DROGAS APREENDIDAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE. ORDEM PARCIALMENTE CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o disposto no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+2. Ainda, acerca do tema, Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.887.511/SP (relator Ministro JOÃO OTÁVIO DE NORONHA, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), definiu que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+3. O referido colegiado, posteriormente, aperfeiçoou o entendimento exarado no julgamento do mencionado Recurso Especial n. 1.887.511/SP, passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria (HC n. 725.534/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 27/4/2022, DJe de 1º/6/2022).
+4. No caso, a Corte local afastou a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com base na quantidade e variedade de entorpecentes apreendidos, de forma a presumir que o agravado dedicava-se à atividades criminosas.
+Todavia, na hipótese, não foram trazidos elementos concretos que indicassem que ele efetivamente se dedicasse a atividades criminosas ou integrasse organização criminosa.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 760.487/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/12/2023, DJe de 21/12/2023.)
+Uma vez verificado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019)
+Passo, portanto, ao redimensionamento da pena de Rafael Rodrigues de Oliveira.
+Na primeira e na segunda etapa da dosimetria, a instância originária manteve a pena no mínimo legal: 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na terceira etapa da dosimetria, reconheço a incidência da causa especial de diminuição de pena capitulada no artigo 33, § 4º, da Lei 11.343/2006, no patamar de 2/3 (dois terços), passando a pena de Rafael Rodrigues de Oliveira para 01 (um) ano e 08 (oito) meses de reclusão, e 166 (cento e sessenta e seis) dias-multa.
+Estabeleço o regime inicial aberto, conforme disposto no artigo 33, § 2º, alínea "c", do Código Penal, e substituo a pena privativa de liberdade por duas penas restritivas de direitos, tendo em vista o cumprimento dos requisitos previstos no artigo 44 do Código Penal. A definição dessas penas ficará a cargo do juízo da execução penal.
+Ante o exposto, não conheço do habeas corpus. Concedo, de ofício, a ordem em favor de RAFAEL RODRIGUES DE OLIVEIRA para redimensionar a pena para 1 (um) ano e 8 (oito) meses de reclusão, no regime inicial aberto, e 166 (cento e sessenta e seis) dias-multa. A pena privativa de liberdade será substituída por duas penas restritivas de direitos, a serem definidas pelo juízo da execução penal, permanecendo inalterados os demais termos da condenação.
+Comunique-se à autoridade coatora e ao juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
