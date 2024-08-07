@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ROBSON PEREIRA DE ANDRADE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da apelação criminal n. 1530269-40.2023.8.26.0228.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 27ª Vara Criminal da Comarca de São Paulo, como incurso no artigo 157, § 2º, inciso II, do Código Penal, à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão, no regime inicial fechado, cumulada com multa pecuniária equivalente a 13 (treze) dias-multa, conforme a sentença de fls. 111-116.
+A acusação interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, para reconhecer a majorante de arma de fogo e aumentar para 06 (seis) anos e 08 (oito) meses de reclusão, e 16 (dezesseis) dias-multa, consoante o acórdão de fls. 160-164.
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem para decotar da condenação a majorante do artigo 157, §2-A, I, do Código Penal e fixar o regime inicial prisional menos gravoso.
+É o relatório. DECIDO.
+A controvérsia centra-se em duas possíveis ilegalidades flagrantes: a negativa à exclusão da majorante prevista no artigo 157, §2-A, I, do Código Penal e a imposição de um regime inicial prisional mais severo, sem a devida fundamentação.
+Para uma melhor análise, transcrevo os fundamentos do acórdão impugnado (fls. 160-164):
+ ..
+Na primeira fase, mantenho a bases fixada nos patamares legais, que não foram observadas circunstâncias desabonadoras em face do réu; sem alterações na etapa intermediária, que a confissão não diminui a pena aquém do mínimo legal, ficando 04 anos de reclusão e 10 dias-multa.
+Na etapa derradeira, a pena merece reparo. Devem ser reconhecidas as majorantes de concurso de agentes e pelo emprego de arma de fogo,que restou provada pela prova oral.
+Conforme o disposto no artigo 68, parágrafo único, do Código Penal, na presença concomitante de causas de aumento previstas na parte especial, o juiz pode limitar-se a um só aumento, prevalecendo a causa que mais eleve a reprimenda.
+Sendo assim, a reprimenda deve ser acrescida em 2/3 (dois terços), prevalecendo a causa de aumento relativa ao emprego de arma de fogo, tornando-se a pena definitiva em 06 (seis) anos e 08 (oito) meses de reclusão, mais 16 (dezesseis) dias-multa, no piso legal, estabelecida em definitivo, à mingua de modificadoras.
+O regime inicial fechado, em que pese a extensão da pena corporal aplicada, deve ser preservado, tendo em vista a gravidade concreta da conduta perpetrada pelo acusado em concurso de agentes, que revelou ousadia e periculosidade, não merecendo iniciar a sanção corporal em regime prisional mais brando, que não se mostra no caso em análise suficiente à prevenção e reprovação do delito por eles perpetrado (cf. artigo 33, § 3º, do Código Penal).
+ ..
+O presente habeas corpus investe contra acórdão em substituição ao recurso próprio, não podendo ser conhecido.
+A Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Por outro lado, verifico a presença de coação ilegal desafia concessão da ordem na forma do § 2º do artigo 654 do Código de Processo Penal.
+Da leitura do acórdão, observo que a pena-base do roubo circunstanciado restou estabelecida no patamar mínimo legal na primeira etapa da dosimetria, porquanto ausentes circunstâncias judiciais negativas do artigo 59 do Código Penal. E na terceira etapa, foi reconhecida a causa de aumento do artigo 157, § 2-A, I, do Código Penal, ficando a pena definitiva estabelecida em 06 (seis) anos e 08 (oito) meses de reclusão, e 16 (dezesseis) dias-multa.
+Ocorre que o Tribunal de Apelação fixou o regime inicial fechado com base na gravidade abstrata do delito, em desacordo com o disposto no § 3º do artigo 33 do Código Penal e com o entendimento consolidado na Súmula 440 do STJ, que estabelece:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+(Súmula n. 440, Terceira Seção, julgado em 28/4/2010, DJe de 13/5/2010.)
+No que toca à pretensão de ver decotada da condenação a causa de aumento do artigo 157, § 2-A, I, do Código Penal, o Tribunal de Apelação concluiu, a partir da análise da prova produzida sob o crivo da ampla defesa e do contraditório, que foi empregada arma de fogo no roubo, de modo que maiores incursões sobre o tema demandariam revolvimento fático-probatório, o que não se coaduna com a via eleita.
+Além disso, a Terceira Seção, no julgamento do EREsp n. 961.863/RS, decidiu que a apreensão e perícia da arma de fogo é prescindível para a aplicação da causa de aumento da causa de aumento prevista no artigo 157, § 2º, I, do Código Penal, se comprovada a sua utilização por outros elementos probatórios.
+Assim, uma vez verificado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ile gal.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Estabeleço, portanto, o regime inicial semiaberto para o cumprimento de pena, nos termos do artigo 33, parágrafo 3º, e artigo 59 do Código Penal, pois as instâncias originárias não reconheceram nenhum vetor negativo que autorize a eleição do regime inicial mais gravoso.
+Diante do exposto, não conheço do habeas corpus. Concedo, de ofício, a ordem em parte, em favo r de Robson Pereira de Andrade, para que seja estabelecido o regime inicial semiaberto, mantendo-se os demais termos da condenação.
+Comunique-se a autoridade coatora e o juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique- se. Intimem-se.
+EMENTA
