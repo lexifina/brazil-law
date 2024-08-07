@@ -1,0 +1,8 @@
+DECISÃO
+DILCEU ANTONIO ZATT interpõe recurso especial contra o acórdão proferido pela Corte local.
+Informam os autos que "cuida-se de recurso especial, fundado no art. 105, III, "a", da Constituição Federal, que impugna decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que declarou a extinção da punibilidade do delito imputado à recorrida, diante da decadência".
+O recurso especial sustenta a violação, pelo acórdão recorrido, dos arts. 107, IV, do Código Penal e 60, I, 61 e 806, do Código de Processo Penal, sob os argumentos de que "não ocorreu a decadência ou perempção, posto que as custas processuais foram pagas dentro do prazo estipulado pelo Juízo e sempre que chamado em juízo, impulsionou o feito", bem como o fato de "a distribuição do processo se deu em período em que os prazos processuais estavam suspensos, diante das consequências da pandemia de COIVD-19".
+Todavia, embora a defesa, em seu especial, tenha impugnado tanto o reconhecimento da decadência quanto da perempção, forçoso observar que os argumentos por ela usado para impugnar o reconhecimento da perempção - "o recorrente não foi intimado de um ato processual existente no processo físico, e tal intimação deveria ter sido diligenciada pela serventia,  ..  o que não ocorreu" - não foram analisados no acórdão, motivo pelo qual revela-se impossível a sua revaloração. Incide, portanto, a Súmula n.7 do STJ a inviabilizar o conhecimento do ponto, que, por sua vez, é suficiente para, por si só, manter o acórdão recorrido.
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
