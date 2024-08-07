@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por NOVALATA EMBALAGENS PERSONALIZADAS LTDA (fls. 489-506) contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que não admitiu recurso especial manejado em face do acórdão prolatado no Apelação Cível n. 5007645-38.2019.4.03.6100 e assim ementado (fl. 371):
+AGRAVO DE INSTRUMENTO. PENHORA. MENOR ONEROSIDADE. DÍVIDA. OFERTA DE BEM À PENHORA. RECUSA JUSTIFICADA. PREFERÊNCIA POR ATIVOS FINANCEIROS. AGRAVO DESPROVIDO.
+- A agravante objetiva a reforma da decisão, proferida na 6ª Vara de Execuções Fiscais Federal de São Paulo, que não conheceu dos embargos de declaração opostos, mantendo o indeferimento do pedido de penhora dos bens ofertados pela agravante.
+- A jurisprudência do Superior Tribunal de Justiça "possui o entendimento firmado de que é legítima a recusa pela Fazenda Pública da nomeação de bens do executado quando não observada a ordem legal de preferência prevista no art. 11 da LEF, sem que isso implique ofensa ao princípio da menor onerosidade" (REsp 1839753/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em12/11/2019, DJe 19/12/2019).
+- Somado a esse entendimento tem-se, ainda, que a execução se faz em benefício do credor. O artigo 805 do Código de Processo Civil, ao estabelecer que a execução deve ser processada pelo modo menos gravoso ao devedor, não visou, por outro lado, inviabilizar ou dificultar o recebimento do crédito pelo credor.
+- Não há, portanto, no caso dos autos, probabilidade do direito a ensejar a suspensão pretendida.
+- Agravo de instrumento desprovido.
+Os embargos de declaração opostos ao julgado (fls. 384-391) foram rejeitados nos termos da seguinte ementa (fl. 408):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO (ART. 1.022 DO CPC). AUSÊNCIA DOS ALEGADOS VÍCIOS. PREQUESTIONAMENTO. REJEIÇÃO.
+- O julgador não está obrigado, na formação de sua convicção para a solução do conflito, a observar a linha de raciocínio e questionamentos predefinidos na argumentação das razões recursais. Isso porque, ao apreciar de forma motivada e concreta os fundamentos de fato e de direito que se relacionam com o conflito, analisando todas as alegações relevantes para sua composição, não há que se falar em desrespeito à sistemática processual civil ou tampouco à norma constitucional.
+- No caso em tela, resta claro que os argumentos apresentados pela parte embargante demonstram a intenção de prequestionar a matéria discutida no presente feito, com o objetivo de possibilitar a interposição de recursos para os Tribunais Superiores.
+- Incabível a utilização do recurso para tal finalidade se não estiverem presentes os requisitos do artigo 1.022 do Código de Processo Civil.
+- Embargos de declaração rejeitados.
+No recurso especial, a parte recorrente sustenta, em síntese, violação do art. 805 do CPC/2015; bem como alega divergência jurisprudencial (fls. 422-443).
+A parte apresentou contrarrazões ao recurso especial às fls. 476-483.
+A Vice-Presidência do Tribunal de origem não admitiu o recurso especial por entender, em suma, que: 1) o debate dos autos foi pacificado no Superior Tribunal de Justiça em julgamento sob a sistemática dos recursos repetitivos por ocasião do julgamento do Tema n. 425; 2) o Tema n. 578 igualmente consolidou o entendimento de que o devedor, tanto na nomeação quanto na substituição, deve ofertar bens que obedeçam a ordem legal, sendo imprescindível que se comprove por meio idôneo a justificativa para mitigação da ordem legal, não bastando para tanto a mera alegação de violação ao princípio da menor onerosidade; 3) não há questão de direito a ser submetida ao Tribunal Superior, mas unicamente questões probatórias e de fato, pois o resultado do julgamento contido no acórdão recorrido decorreu da avaliação do conjunto fático-probatório do processo, incidindo, no caso, a Súmula n. 7 do STJ (fls. 484-487).
+É o relatório. Decido.
+O agravo em recurso especial não pode ser conhecido.
+Verifico que a parte agravante, nas razões do agravo em recurso especial, afirmou, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, de que maneira não seria necessária a incursão ao campo probatório. Em verdade, a parte recorrente limitou-se a dizer que (fl. 497):
+Ocorre que tal previsão não se aplica ao presente caso, uma vez que não se busca um reexame das provas, até porque a matéria aqui tratada já foi previamente analisada pelas instâncias inferiores, logo o que se busca é uma nova valoração das provas já especificadas e delineadas no Acórdão objeto do Recurso Especial.
+Cabe esclarecer por oportuno que, enquanto no reexame os julgadores precisam reapreciar as provas do processo para poder afirmar se um fato aconteceu ou não, na revaloração jurídica, os julgadores reavaliam se a valoração da instância inferior aos fatos já reconhecidos e apreciados na decisão Agravada está adequada ao direito.
+Importante destacar ainda que este próprio Superior Tribunal de Justiça -STJ reiteradamente admite a revaloração jurídica dos fatos, com a devida aplicação do direito ao caso concreto, conforme precedentes sobre o tema.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
