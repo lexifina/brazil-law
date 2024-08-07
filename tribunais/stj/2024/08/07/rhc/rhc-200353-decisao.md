@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por VICTOR HUGO CARVALHO DE SOUSA contra acórdão da 2ª Câmara Criminal do Tribunal de Justiça do Estado do Ceará (HC n. 0627228-19.2024.8.06.0000).
+Extrai-se dos autos que o recorrente foi preso em flagrante em 24/11/2023 pela suposta prática do delito tipificado no art. 16 da Lei n. 10.826/2003. A custódia foi convertida em preventiva.
+Contra a decisão, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em a córdão assim ementado (e-STJ fls. 80/104):
+EMENTA: HABEAS CORPUS. PENAL E PROCESSO PENAL. POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO (ART. 16,CAPUT, DA LEI 10.826/03). PRISÃO PREVENTIVA.1. TESE DE CARÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL E AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 312 DO CPP. INOCORRÊNCIA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. CUSTÓDIA CAUTELAR FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. 2. DO EXCESSO DE PRAZO PARA O ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. INOCORRÊNCIA. AUSÊNCIA DE DESÍDIA POR PARTE DO PODER JUDICIÁRIO. TRÂMITE REGULAR DA AÇÃO PENAL. DURAÇÃO RAZOÁVEL DO PROCESSO. ANÁLISE GLOBAL DOS PRAZOS. MOVIMENTAÇÃO PROCESSUAL COMPATÍVEL COM AS PECULIARIDADES DO FEITO. INSTRUÇÃO ENCERRADA. SÚMULA 52 DO STJ. 3. ALEGATIVA DE OFENSA AO PRINCÍPIO DA HOMOGENEIDADE. NÃO CONHECIMENTO. SUPOSTA DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E A PENA PROVÁVEL. IMPOSSIBILIDADE DE SE AFERIR, NESSE MOMENTO PROCESSUAL, O QUANTUM DE PENA A SER APLICADA OU OS BENEFÍCIOS A QUE O PACIENTE TERÁ DIREITO QUANDO DA SENTENÇA. INVIABILIDADE DO EXAME DA MATÉRIA PELA VIA ELEITA. PRECEDENTES.4. DO PLEITO DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE, POR SI SÓS, NÃO SÃO SUFICIENTES PARA A CONCESSÃO DAS MEDIDAS QUANDO PERSISTEM OS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA. ORDEM PARCIALMENTE CONHECIDA E DENEGADA, COM RECOMENDAÇÃO PARA ADOÇÃO DAS PROVIDÊNCIAS NECESSÁRIAS AO JULGAMENTO DA CAUSA, ANTE O ENCERRAMENTO DA INSTRUÇÃO.
+No presente recurso, a defesa alega que o decreto preventivo carece de fundamentos idôneos. Destaca que a instrução criminal já está encerrada, não havendo mais que se falar em sua conveniência. Ademais, destaca que a pena a ser aplicada em caso de condenação terá regime diverso do fechado. Ressalta tratar-se de paciente primário, sem antecedentes criminais, e defende que seria suficiente a aplicação de medidas cautelares alternativas.
+Destaca que a prisão já dura mais de 6 meses, de modo que haveria constrangimento ilegal por excesso de prazo. Aponta que a instrução criminal se encerrou em 3/4/2024, mas que o Parquet requereu diligência, que até a presente data não foi realizada. Sustenta que hipótese autoriza a mitigação do enunciado nº 52 da Súmula desta Corte.
+Requer, assim, a expedição de alvará de soltura.
+A liminar foi indeferida às e-STJ fls. 136/138.
+Informações às e-STJ fls. 1454/153.
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ fls. 156/161).
+É o relatório. Decido.
+O recurso perdeu seu objeto.
+Em consulta ao andamento processual no site do Tribunal a quo, constata-se que foi proferida sentença em 28/7/2024 absolvendo o paciente, nos termos do art. 386, inciso II do Código de Processo Penal. Em 30/7/2024, consta a juntada de alvará de soltura.
+Diante do exposto, com amparo no art. 34, inciso XI do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
