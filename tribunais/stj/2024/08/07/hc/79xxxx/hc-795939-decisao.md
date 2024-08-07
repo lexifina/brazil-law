@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE ELIELSON DE JESUS SANTOS, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Sergipe, que denegou a ordem no HC n. 202200345435.
+Pretende-se, em suma, a revogação da prisão preventiva do paciente, a quem é imputada a suposta prática dos crimes de tráfico de drogas e respectiva associação, pelo fato de que a corré foi beneficiada com a liberdade.
+Subsidiariamente, pugna pelo trancamento da ação penal, em virtude da ilicitude das provas produzidas na fase inquisitorial.
+A liminar foi indeferida.
+Parecer do Ministério Público Federal pelo não conhecimento do writ.
+É o relatório. Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada no acórdão (e-STJ fl. 73):
+Com referência ao pedido de extensão da liberdade provisória concedida a corré ROBERTA ADRIELIDOS SANTOS, companheira do paciente, ao fundamento de identidade nas situações processuais, melhor sorte não o aguarda.
+De logo, insta ressaltar que a extensão é regulamentada pelo artigo 580 do Código de Processo Penal, o qual proíbe decisões conflitantes relativas a diferentes acusados em um mesmo feito. Todavia, aludida norma prevê como exceção a decisão fundamentada em circunstância de caráter exclusivamente pessoal.
+Portanto, na espécie, não se vislumbra, destarte, a identidade de situação fático-processual entre o Paciente e a mencionada corré que justifique a extensão de efeitos da decisão liberatória em favor deste proferida.
+Isto porque, quando da oitiva daquela acusada, em 06.04.2022, no bojo do feito nº 202271000678 (ação penal), em que foi concedida a liberdade provisória da mesma na própria audiência de custódia, a mesma esclareceu que a droga pertencia ao seu companheiro, ora paciente, o qual vinha sendo investigado pela polícia como sendo em suspeito de liderar uma associação criminosa responsável pelo tráfico de drogas naquele Município, sendo investigado no bojo do Inquérito Policial nº 7979/2021 que ensejou a concessão de medida cautelar de busca e apreensão domiciliar nos autos de nº 202171001321 e, consequentemente, na apreensão das trouxinhas de cocaína e um celular roubado.
+Desta forma, decorre a necessidade de dispensar-lhe tratamento diferenciado, tendo em vista que a situação fático-processual distingue daquela atrelada a multicitada corré. Os dispositivos penais pelos quais foi denunciado são mais abrangentes, assim como as provas indiciárias revelam que a sua suposta participação na situação fática em estudo revela-se mais ameaçadora à ordem pública.
+De seu turno, a apreensão da droga ocorreu em cumprimento a um mandado de busca e apreensão domiciliar, sendo que "a quebra do cadeado se deu em razão da efetiva constatação de que a companheira do acusado estava "se livrando" das provas, ou seja, do estado de flagrância" (e-STJ fl. 71). Não há falar, portanto, em constrangimento manifesto.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
