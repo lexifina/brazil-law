@@ -1,0 +1,13 @@
+DECISÃO
+LIDIA RANGEL RODRIGUES SOARES interpõe recurso em mandado de segurança contra acórdão que denegou a segurança.
+Informam os autos que a recorrente foi denunciada em razão da suposta prática dos crimes de tráfico de drogas, associação para o tráfico de drogas e associação criminosa, sendo impostas, pelo Juízo da 2ª Vara Criminal de Cariacica/ES, medidas cautelares corporais e de suspensão do direito ao exercício da advocacia
+Posteriormente, o Juízo da 2ª Vara Criminal de Cariacica/ES revogou as medidas que causavam restrição à liberdade, mas manteve a suspensão do direito ao exercício da advocacia, declarando-se em seguida incompetente para análise do feito originário, remetendo os autos para o Juízo da 10ª Vara Criminal de Vitória/ES.
+Neste recurso, a defesa se insurge contra decisão do Juiz de Direito que, nos autos da Ação Penal n. 0004478- 50.2022.8.08.0012, declarou-se incompetente, sem se pronunciar quanto a pedido precedente deduzido para fins de revogação da medida cautelar que norteou a suspensão do exercício da advocacia.
+Aduz que a medida de suspensão perdura no tempo, estando configurado excesso de prazo para deslinde de questões inerentes a ação penal; bem como não há contemporaneidade que possa sustentar a medida, nem subsistem os demais requisitos aptos para a manutenção da medida de suspensão.
+Decido.
+Embora o acórdão impugnado tenha denegado a segurança, em verdade não conheceu da ação mandamental, sob os argumentos de que, "ao analisar os autos originários declarou-se incompetente, deixando de deslindar o pleito de revogação da decisão que norteou a suspensão do direito ao exercício da advocacia, não consta que a impetrante tenha interposto respectivos embargos declaratórios para sanar o vício suscitado, sendo de todo descabido que esta Corte venha a realizar apreciação per saltum, que venha a suprimir uma instância" (fl. 333).
+Disse, ainda, que "caberia à impetrante, desde que fora declarado competente o juízo da 2ª Vara Criminal de Cariacica/ES para deslinde de pleitos urgentes junto a ação originária, pleitear a revogação da medida imposta por aquele juízo à luz de possível excesso de prazo, de possível descabimento da manutenção da medida, ou de possível ausência de contemporaneidade, mas tal providência, pelo visto, não fora concretizada" (fls. 333-334).
+Portanto, forçoso concluir que a Corte local não analisou as teses defensivas, evidenciando-se, assim, a impossibilidade de conhecer-se da impetração, sob pena de vedada supressão de instância.
+À vista do exposto, indefiro liminarmente este recurso, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
