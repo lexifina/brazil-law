@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por CAIO CESAR ROCHA SOARES contra acórdão da Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro que denegou a ordem ali impetrada. Vale conferir a respectiva ementa (e-STJ fl.58):
+Habeas Corpus. Arts.312 e 315, do Código Penal Militar.
+Denúncia lastreada em extenso procedimento investigatório, imputados crimes de falsidade ideológica e uso de documento falso. Paciente teria inserido em documento público declaração falsa de ser formado em curso superior, no ato de sua inscrição no Curso de Formação de Oficiais do ano de 2016,com objetivo de alterar fato juridicamente relevante com o propósito de ingressar no CFO/2016,atentando contra a Administração Militar. Ação constitucional utilizada para discutir a prova produzida durante a instrução criminal, o que é inviável na via estreita do writ.
+O feito principal encontra-se com a instrução em vias de ser encerrada, inclusive já tendo sido realizado o interrogatório do paciente. Aguarda-se a manifestação as partes quanto a possíveis diligências, para que se abra vistas em alegações finais.
+Assim, a análise deste writ caracterizaria supressão de instância e violação ao Juiz natural, em verdadeira subversão do processo penal.
+ORDEM DENEGADA.
+O recorrente sustenta, em síntese, a atipicidade das condutas a ele imputadas, por alegada ausência de potencialidade lesiva do documento referido na denúncia, consoante aferido por perícia judicial. Requer, liminarmente, a suspensão do feito. No mérito, pugna pelo trancamento da ação penal.
+Liminar indeferida pelo Ministro Vice-Presidente desta Corte, no exercício da Presidência (e-STJ fls. 136/138).
+Informações prestadas (e-STJ fls. 136/138; 142/144 e 147/150).
+O Ministério Público Federal se manifestou pelo conhecimento e não provimento do recurso (e-STJ fls. 152/155).
+É o relatório.
+Decido.
+O recurso é tempestivo, cabível e impugnou os fundamentos da decisão recorrida. Então, merece ser conhecido. Por outro lado, do exame das razões veiculadas, nota-se que não merecem prosperar.
+Com efeito, de acordo com entendimento consolidado desta Corte, "O trancamento da ação penal é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas sobre a materialidade do delito" (AgRg no RHC n. 195.398/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.) (Grifos acrescidos), o que não é a hipótese dos autos.
+Com efeito, o Tribunal de origem apresentou adequada fundamentação, lastreada no acervo probatório que instrui os autos, demonstrando, assim, a existência de indícios suficientes de autoria e prova da materialidade delitiva, não se constatando, de plano, qualquer das referidas situações que ensejariam o trancamento da ação penal. Senão, veja-se: (e-STJ fls. 58/63):
+"(..) Não se verifica constrangimento ilegal passível de ser sanado, no caso considerado.
+Ratifico, agora no mérito, as razões pelas quais foi indeferida a liminar, por não verificar o direto alegado, muito menos constrangimento ilegal a ser sanado. Decisão que submeto ao Colegiado, em cumprimento aoart.663, do Código De Processo Penal:
+" (..)
+Ao contrário do que sustenta a defesa, há indícios suficientes de autoria e prova da materialidade para a deflagração da ação penal. A denúncia é lastreada em extenso procedimento investigatório para imputar os crimes de falsidade ideológica e uso de documento falso ao paciente, que teria inserido em documento público declaração falsa de ser formado em curso superior, no ato de sua inscrição no Curso de Formação de Oficiais do ano de 2016, com a finalidade de alterar fato juridicamente relevante, atentando contra a administração militar com o propósito de ingressar no CFO/2016.
+A justa causa para a ação penal se baseia em juízo de probabilidade, e não de certeza. Conforme se verifica dos autos, a denúncia atende aos requisitos do art. 30 do Código De Processo Penal Militar e art. 41 do Código de Processo Penal e foi regularmente recebida, atendidos os requisitos do art. 78 do Código De Processo Penal Militar, presentes os requisitos do art. 77 do Código De Processo Penal Militar, o fato é de competência da Justiça Militar é parte legítima o Ministério Público Militar (art. 29 do Código De Processo Penal Militar) e não há causa de extinção da punibilidade (art. 303,§4º do Código De Processo Penal Militar).
+A conduta imputada na inicial contra o paciente de falsidade ideológica (art. 312 do Código Penal Militar) e uso de documento falso (art. 315 do Código Penal Militar) é típica, inexistindo qualquer excludente de ilicitude a justificar o trancamento da ação.
+A inicial acusatória está lastreada em prova pré-constituída (justa causa para a ação penal), foi realizada a instrução, requeridas e realizadas as diligências, aguarda-se as alegações finais das partes para a designação da sessão de julgamento (arts.384 a 450 do Código De Processo Penal Militar). Na mesma toada, é de curial sabença que o habeas corpus, em sua estreita via, não admite dilação probatória, não é o instrumento adequado para comprovação das alegações dos impetrantes, como a atipicidade da conduta.
+Deste modo não demonstrada ilegalidade ou constrangimento ilegal a ser sanado pela via estreita do habeas corpus, indefiro a liminar."
+O paciente não está com seu direito de ir e vir cerceado, pois responde à ação penal em liberdade. Utiliza a ação constitucional na tentativa de discutir a prova produzida durante a instrução criminal, o que é inviável na via estreita do writ.
+O processo principal (0257670-77.2018.8.19.0001) está com a instrução em vias de ser encerrada, inclusive foi realizado o interrogatório do paciente e deferidas as diligência requeridas pelo Ministério Público.
+Aguarda-se a manifestação das partes em alegações finais.
+Assim, a análise deste writ caracterizaria supressão de instância e violação ao Juiz natural, em verdadeira subversão do processo penal (..)". Grifos acrescidos.
+Não se pode deixar de notar, nesse sentido, que é a instrução processual o ambiente adequado para se discutir tal tese, haja vista a ampla possibilidade de revolvimento fático-probatório, providência inadmissível em sede de habeas corpus.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
