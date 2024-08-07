@@ -1,0 +1,11 @@
+DECISÃO
+Neste writ, que se volta contra o acórdão do Tribunal de Justiça de São Paulo que denegou a ordem no HC n. 2035567-24.2024.8.26.0000 (fls. 13/21), pretende-se, inclusive em caráter liminar, a imediata revogação da prisão preventiva de Evelyn Gouvea Santos - presa preventivamente e denunciada pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006) - nos Autos n. 1503546-47.2024.8.26.0228, da Vara Plantão da comarca de São Paulo/SP, com ou sem imposição de medidas cautelares diversas (art. 319 do Código de Processo Penal), sob os argumentos, em resumo, de ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal; de inidoneidade de fundamentação do decreto prisional, de desnecessidade da referida segregação, porquanto primária, a quantidade de entorpecentes apreendida não é elevada, ela figurou como mera "mula do tráfico" e o delito não se reveste de violência ou grave ameaça.
+Liminar deferida (fls. 92/95).
+A indigitada autoridade prestou informações (fls. 102/124).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo dão conta de que, em 25/4/2024, o Juízo de Direito da 30ª Vara da comarca de São Paulo/SP proferiu sentença condenando a ora paciente à reprimenda de 1 ano e 8 meses de reclusão, em regime aberto, substituída a pena privativa de liberdade por uma restritiva de direitos, e ao pagamento de 166 dias-multa, como incursa no art. 33, caput e § 4º, da Lei n. 11.343/2006, facultando, na oportunidade, o recurso em liberdade (Ação Penal n. 1503546-47.2024.8.26.0228), fato que esgota a pretensão contida na presente impetração, dada a superveniente alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo -o, pois, prejudicado (arts. 659 do CPP e 34, XI, do RISTJ). Por óbvio, fica sem efeito a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PRETENSÃO DE REVOGAÇÃO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DE REGIME ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. FACULTADO O RECURSO EM LIBERDADE. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
