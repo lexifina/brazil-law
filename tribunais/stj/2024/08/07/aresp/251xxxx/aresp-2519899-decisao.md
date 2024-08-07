@@ -1,0 +1,18 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 6 anos e 3 meses de reclusão, em regime semiaberto, pelo cometimento dos crimes dos arts. 155, § 4º, I; 171, caput (por três vezes); e 312 (por seis vezes), tudo n/f 69 (crimes praticados em 2017) e 71 (crimes praticados em 2015), todos do CP.
+A defesa aponta a violação dos arts. 171, caput, 155, § 4º, inciso II e 312, todos do Código Penal, alegando, em síntese, que o caso em apreço comporta a aplicação do princípio da consunção, porquanto "o recorrente com uma única conduta e no mesmo contexto fático cometeu os crimes de peculato, estelionato e furto qualificado, o que demonstra a não ocorrência de duas ou mais condutas necessárias para ensejar a configuração do crime continuado" (e-STJ fl. 681)
+Contrarrazões às e-STJ fls. 689/694.
+Manifestação do Ministério Público Federal à e-STJ fl. 750.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 6 anos e 3 meses de reclusão, em regime semiaberto, pelo cometimento dos crimes dos arts. 155, § 4º, I; 171, caput (por três vezes); e 312 (por seis vezes), tudo n/f 69 (crimes praticados em 2017) e 71 (crimes praticados em 2015), todos do CP.
+A defesa alega que o caso em apreço comporta a aplicação do princípio da consunção, porquanto "o recorrente com uma única conduta e no mesmo contexto fático cometeu os crimes de peculato, estelionato e furto qualificado, o que demonstra a não ocorrência de duas ou mais condutas necessárias para ensejar a configuração do crime continuado". Sobre o tema, o TJRJ assim se pronunciou:
+Pugna o apelante pela aplicação do princípio da consunção, com a absorção dos delitos de furto e estelionato pelo de peculato.
+Não merece prosperar a tese defensiva.
+Isto porque tais crimes são autônomos e se consumaram em momentos distintos. A verdade é que o furto e o estelionato não constituíram meio para a prática do peculato. Frise-se que o estelionato foi perpetrado após a consumação do peculato-desvio, que se consuma com a destinação diversa da que deveria ter o bem público, não exigindo a obtenção de vantagem indevida. Assim, após desviar os cheques da Câmara Municipal de Miracema, na condição de tesoureiro daquela Casa de Leis, consumando-se aí o crime de peculato, o recorrente praticou o delito de estelionato, falsificando assinaturas e os depositando em sua conta bancária.
+Ressalte-se, por fim, que o delito de furto imputado ao apelante foi praticado no ano de 2017, quando não mais exercia função pública, não sendo possível, portanto, a caracterização de peculato. (e-STJ fl. 647)
+A consunção é aplicada quando um dos delitos constitui meio necessário à preparação ou execução de outro crime. Evidenciada a autonomia de desígnios e a distinção de bens jurídicos tutelados  ..  não há falar em absorção de um delito pelo outro" (AgRg no HC n. 703.115/SC, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 15/8/2022).
+Para infirmar as conclusões das instâncias ordinárias, seria necessário revolver o contexto fático-probatório dos autos, providência inadmissível na via do recurso especial. Incidência da Súmula n. 7 do STJ.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a ", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
