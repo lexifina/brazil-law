@@ -1,0 +1,16 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança (Termos de Apreensão e Depósito - TAD). Na sentença, julgou-se o feito extinto sem resolução de mérito. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 24.165,70 (vinte e quatro mil cento e sessenta e cinco reais e setenta centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO contra acórdão com o seguinte resumo de ementa:
+RECURSO DE APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - LITISPENDÊNCIA - OCORRÊNCIA - TRÍPLICE IDENTIDADE MANIFESTA - MULTA POR LITIGÃNCIA DE MÁ-FÉ - MANUTENÇÃO - DISTRIBUIÇÃO DE DIVERSAS AÇÕES EM VÁRIOS JUÍZOS - PENALIDADE MANTIDA - RECURSO NÃO PROVIDO. Existindo a litispendência, deve a última ação proposta ser extinta, sem resolução do mérito. A condenação por litigância de má-fé é consequência quando a parte age deforma temerária, à margem do dever de boa-fé processual. Sentença mantida. Recurso não provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+verificado o fenômeno da litispendência e a consequente conduta reprovável da parte que, para obter vantagem, não procedeu com a lealdade e a boa-fé esperada, deve ser mantida a sanção aplicada pelo magistrado de primeira instância.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 337, §§ 1º ,2º e 3º, do CPC), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
