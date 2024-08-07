@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Luis Humberto Simm contra decisão de fls. 239-241 conheceu do agravo para, desde logo, conhecer parcialmente do recurso especial, negando-lhe provimento.
+Os embargantes, em suas razões, alegam que a decisão impugnada foi "omissa", visto que "não requer a inversão do decisum em relação à coisa julgada, pelo contrário, parte das premissas estabelecidas pelo próprio r. acordão quanto à suposta identidade entre as demandas, ou seja, adota como verdadeira a ocorrência de coisa julgada, reclamando tão somente a adequação/acertamento da conclusão do julgado à jurisprudência da Cote referente ao tema do conflito entre coisas julgadas" (fl. 246). Requer, assim, o acolhimento dos embargos de declaração, "no que diz respeito ao fundamento recursal subsidiário e autônomo de violação ao art. 927, V do CPC".
+Sem contrarrazões (cf. certidão de fl. 267).
+É o relatório. Passo a decidir.
+Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o art. 1.022 do CPC de 2015, os embargos de declaração é recurso destinado a sanar obscuridade, contradição, omissão ou erro material na decisão ou acórdão.
+Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada. Vejamos.
+No caso, o Tribunal de origem, por maioria, deu provimento ao agravo de instrumento da União para extinguir o cumprimento de sentença promovido pelo então embargante, "em razão da existência de coisa julgada em mandado de segurança individual e da consequente ilegitimidade para a execução dos valores reconhecidos na Ação Coletiva n. 2001.34.00.002765-2", in verbis:
+ ..  ambas as demandas, individual e coletiva, têm por objeto diferenças a título de Retribuição Adicional Variável devidas aos Técnicos do Tesouro Nacional, devidas pelo afastamento da Resolução CRAV 001/95.
+Necessário relembrar a diferença entre os períodos postulados nas demandas transitadas em julgado:
+- Mandados de Segurança individuais: a partir de 06/1995 - Ação Coletiva: de 01/1996 a 06/1999.
+Esclareça-se que o período postulado na ação mandamental abrange o período executado com fundamento da Ação Coletiva.
+Esta Corte Regional reconhece a eficácia preclusiva da julgada quando o pedido final das demandas for o mesmo, embora a abordagem/fundamentação possa ser distinta,
+Do relato efetuado no item 1 desta fundamentação, percebe-se que ambas as demandas têm, em última análise, identidade de seu principal fundamento, eis que buscam o direito ao pagamento da RAV nos moldes da MP nº 831/95 como decorrência do afastamento da Resolução CRAV nº 001/95, com manutenção do pagamento da RAV no limite de até oito vezes o equivalente ao vencimento básico dos Técnicos do Tesouro Nacional.
+Destarte, inegável que ambas as demandas versam sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, ainda que com abordagem/fundamentação parcialmente distinta, operou-se a coisa julgada quanto à matéria.
+Insta salientar que se está diante de análise de ofensa ao instituto da coisa julgada, de sorte que outros precedentes de minha relatoria, que versaram sobre a comprovação da existência de avaliações individuais via Boletins de Trabalho, não se prestam a alterar o entendimento ora adotado.
+Cabe estabelecer que o recorrente, em suas razões, pugnou pela reforma do acórdão recorrido ao argumento de que "a abordagem e fundamentação das demandas são parcialmente distintas, que os litigantes não são os mesmos e, por conseguinte, as demandas não são totalmente idênticas" (fl. 120, e-STJ, grifei).
+Foi por esse motivo que a decisão embargada, com base em julgados dessa Corte Superior, concluiu que a alteração das conclusões firmadas no voto vencedor, tal como pretendido pelas recorrentes, encontra óbice na Súmula 7/STJ. Com idêntica temática dos autos, destacam-se os seguintes precedentes: AgInt no AREsp n. 2.106.297/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/4/2023, DJe de 2/5/2023; AREsp n. 2.408.949/RS, Ministro Gurgel de Faria, DJe de 02/5/2024; REsp n. 2.129.002/RS, Ministro Herman Benjamin, DJe de 15/4/2024; AREsp n. 2.560.532/RS, Ministro Sérgio Kukina, DJe de 07/3/2024.
+Por fim, no tocante à alegada violação aos art. 927 do Código de Processo Civil de 2015, verifica-se ausência de manifestação da Corte de origem sobre a tese recursal com enfoque nos dispositivos legais tido por violados, o que impede o conhecimento do recurso ante o óbice previsto na Súmula 211 do STJ.
+Assim, constata-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC DE 2015. AUSÊNCIA.
