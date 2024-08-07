@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 1ª VARA DE SÃO JOSÉ DOS CAMPOS - SJ/SP em face do JUIZ DE DIREITO DA VARA CRIMINAL DE SÃO SEBASTIÃO - SP.
+Consta dos autos que foi instaurado inquérito policial "para apurar a ocorrência, em tese, dos crimes de furto e danos, supostamente praticado por DANIEL OLIVEIRA VILLELA, em 31.12.2023, em São Sebastião/SP, pois o investigado teria se dirigido ao veículo da FUNAI, conduzido pela vítima João Carlos dos Santos, aberto a porta e subtraído a carteira deste do porta-luvas, e logo após danificado aquele.. Conforme se verifica do termo de declarações da vítima João Carlos dos Santos, a carteira subtraída pertence ao mesmo, e o veículo é de propriedade de empresa particular, prestadora de serviço a FUNAI" (e-STJ fls. 104/105).
+O JUIZ DE DIREITO DA VARA CRIMINAL DE SÃO SEBASTIÃO - SP declinou da competência em favor da Justiça Federal, por entender que os delitos teriam sido praticados em desfavor de bens pertencentes à Autarquia Federal, os quais se inserem na competência da Justiça Federal, nos termos do art. 109, inciso IV, da Constituição de 1988.
+O Juízo suscitante, por sua vez, declarou-se igualmente incompetente e suscitou o conflito de competência, sob o argumento de que "os objetos materiais dos crimes pertencem a pessoa física e instituição privada respectivamente" (e-STJ fl. 105).
+O Ministério Público Federal manifestou-se pela competência da Justiça estadual, em parecer assim ementado (e-STJ fl. 114):
+CONFLITO NEGATIVO DE COMPETÊNCIA. FURTO E DANO. PREJUÍZOS SUPORTADOS, EXCLUSIVAMENTE, POR PESSOA FÍSICA E EMPRESA PRIVADA.
+- Pela competência do Juízo de Direito da Vara Criminal de São Sebastião/SP, o suscitado.
+É o relatório.
+Decido.
+Cuida-se de incidente instaurado entre juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Cinge-se a controvérsia em definir a competência para julgamento dos crimes de furto e dano praticados em detrimento de veículo da Funai.
+Nos termos do art. 109, IV, da Constituição Federal, compete à Justiça Federal processar e julgar:
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral.
+In casu, o exame das razões veiculadas pelos juízos que integram o presente incidente leva-me a crer, na linha da manifestação do Parquet Federal, assistir razão ao Juízo Federal, porquanto os elementos reunidos, até o presente momento no processo, não indicam ser o caso de aplicar a regra inserta no citado art. 109, IV, da Constituição Federal, uma vez que o veículo danificado é de propriedade particular. A propósito, cita-se o seguinte trecho da decisão do Juízo suscitante (e-STJ fl. 105):
+Conforme se verifica do termo de declarações da vítima João Carlos dos Santos, a carteira subtraída pertence ao mesmo, e o veículo é de propriedade de empresa particular, prestadora de serviço a FUNAI (ID 326086907, p. 11):
+(..) Que é funcionário da Decisiva, empresa que presta serviço para Funai, e exerce a função de motorista. Que na data de hoje estava trafegando com o veículo CHEVROLET/S10 LS DD4, placa RTY1A81 quando parou na via em decorrência do trânsito. Disse que de forma repentina o autor apareceu e abriu a porta do passageiro e retirou do porta luvas a carteira do declarante, sendo que na carteira tinha a CHN do declarante, seu RG e a quantia de R$ 150,00 que pertence ao declarante (..). Informou que após a subtração o autor saiu do veículo, contudo, retornou e começou a dar socos nas portas do veículo, sendo que golpeou as portas do passageiro e motorista, danificando a lataria do automóvel (..)
+Corrobora esta informação, o Boletim de Ocorrência nº: RL0616-1/2023, em que se verifica que o veículo CHEVROLET/S10 LS DD4, placa RTY1A81 é de propriedade de UNIDAS VEICULOS ESPECIAIS (ID 326086907, p. 3/7).
+Assim, uma vez que os objetos materiais dos crimes pertencem a pessoa física e instituição privada respectivamente, falece competência à Justiça Federal. Inteligência que se extrai da jurisprudência do Colendo Superior Tribunal de Justiça, cuja fundamentação adoto como razão de decidir:
+Assim, não é possível extrair, ainda que de forma indiciária, a ocorrência de dano ao patrimônio da União, uma vez que os efeitos da conduta delituosa objeto do inquérito policial ora sob análise restringiram-se ao âmbito municipal, o que afasta a competência da Justiça Federal para o processo e julgamento do presente feito, conforme entendimento firmado no âmbito desta Corte:
+CONFLITO DE COMPETÊNCIA. DANO QUALIFICADO A VEÍCULO AUTOMOTOR. INEXISTÊNCIA DE OFENSA A BENS, SERVIÇOS OU INTERESSES DA UNIÃO.
+1. Delito perpetrado contra bem de comprovada propriedade do Município o que exclui a competência da Justiça Federal.
+2. A jurisprudência desta Corte Superior de Justiça é firme no sentido de que, uma vez inexistente o prejuízo a bens, serviços ou interesses da União, compete à Justiça Comum Estadual o processo e julgamento do feito.
+3. Conflito conhecido para declarar competente o Juízo de Direito de São Brás/AL, ora suscitado.
+(CC n. 117.562/AL, relatora Ministra Alderita Ramos de Oliveira, Desembargadora Convocada do TJ/PE, Terceira Seção, julgado em 26/9/2012, DJe de 2/10/2012.)
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado ( JUIZ DE DIREITO DA VARA CRIMINAL DE SÃO SEBASTIÃO - SP ).
+Publique-se. Comunique-se.
+EMENTA
