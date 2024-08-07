@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial contra o acórdão de fls. 31-35.
+A União alega:
+Ao rejeitar os Embargos de Declaração opostos com o fim de promover a integração do acórdão, omitiu-se o TRF da 2ª Região sobre as questões lá (nos Embargos de Declaração) prequestionadas, a respeito das quais deveria ter se pronunciado, restando contrariada a norma do art. 1.022, inciso I e II, e § único c/c 489, § 1º., ambos do CPC.
+O presente recurso é interposto, portanto, com base no art. 105, inciso III, alínea "a", da Constituição Federal, e as normas tidas também como contrariadas consistem nos arts. 141, 492, 502 e 503, todos do CPC, pelo que merece ser admitido este Recurso Especial.
+ ..
+Observa-se claramente que, no caso presente, houve julgamento extra petita, na medida em que, nos termos da correta sentença que nessa parte se ratifica, é clara a impossibilidade de interpretação extensiva do Tema nº 962 do STF. Dessa maneira, pretende indevidamente a recorrida que as conclusões da decisão do STF (a qual se restringiu a analisar os tributos federais sujeitos a Taxa Selic!), sejam estendidas indistintamente a toda e qualquer repetição de indébito tributário dos demais entes da federação (o que violaria os arts. 502 e 503, ambos do CPC!), seja qual for os índices de correção monetária e juros porventura aplicáveis, circunstância em que demandaria a verificação, caso a caso, de como tais consectários seriam calculados, razão pela qual fica claro que deve tal pedido ser integralmente rejeitado.
+Contrarrazões às fls.104-117.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8 de julho de 2024.
+O decisum impugnado não possui as omissões suscitadas pela parte. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Inexiste, portanto, ofensa ao art. 1022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp 2.381.818/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 20.12.2023; AgInt no REsp 2.009.722/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 6.10.2022.
+Ademais, a sentença afastou "a interpretação extensiva do Tema nº 962 do STF a toda e qualquer repetição de indébito de tributos de competência dos demais entes da federação", porém o aresto a reformou. Veja-se (fls.77-81):
+Trata-se de embargos de declaração interpostos pela UNIÃO FEDERAL (evento 22, EMBDECL1) em face do v. acórdão (evento 14, ACOR2), cuja ementa ostenta o seguinte teor:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ E CSLL SOBRE ÍNDICE (ESTADUAL E MUNICIPAL) DIVERSO DA SELIC. NÃO INCIDÊNCIA NA REPETIÇÃO DO INDÉBITO TRIBUTÁRIO. IRPJ E CSLL SOBRE A TAXA SELIC RECEBIDA NO LEVANTAMENTO DE DEPÓSITO JUDICIAL. EXIGIBILIDADE. RECURSO REPETITIVO. TEMA 504 STJ. INCIDÊNCIA DAS CONTRIBUIÇÕES. REMESSA NECESSÁRIA CONHECIDA EM PARTE E, NA PARTE CONHECIDA, PROVIDA. APELAÇÃO DA IMPETRANTE PARCIALMENTE PROVIDA. APELAÇÃO DA UNIÃO FEDERAL PROVIDA.
+1. Conforme registrado no voto do Relator no julgamento do RE nº 1.063.187/SC (tema 962), "Por força do art. 39, §4º, da Lei nº 9.250/95, a partir de 1º de janeiro de 1996, a compensação ou a restituição relativamente a tributos federais é acrescida de juros equivalentes à taxa Selic, acumulada mensalmente".
+2. Não há que se falar em índice diverso da taxa Selic na repetição de indébito de tributos federais e no levantamento de depósitos judiciais, faltando interesse processual à parte.
+3. Quanto à repetição de indébito de tributos estaduais e municipais, diante da possibilidade de adoção de índices de juros de mora e de correção monetária diversos da taxa Selic, mas que possuem a mesma razão de ser, também não devem incidir o IRPJ e a CSLL sobre eles.
+4. A respeito da incidência do IRPJ e da CSLL sobre os valores relativos à taxa SELIC no levantamento de depósitos judiciais, além de não ter sido objeto de discussão no RE 1.063.187 (tema 962), o STF, na análise do tema 1.243, reconheceu a inexistência de repercussão geral da controvérsia. Dessa forma, a tese fixada pelo STJ, no REsp nº 1138695/SC (tema 504), de que "os juros incidentes na devolução dos depósitos judiciais possuem natureza remuneratória e não escapam à tributação pelo IRPJ e pela CSLL" deve ser aplicada, em observância ao artigo 927, inciso III, do CPC.
+5. Em 26/04/2023, o E. Superior Tribunal de Justiça, em juízo de retratação no REsp nº 1138695/SC, manteve o entendimento de que incidem IRPJ e CSLL sobre os juros oriundos de levantamento de depósitos judiciais (tema 504) e alterou a redação da tese do tema 505 para adequação ao decidido pelo STF em repercussão geral.
+6. Apelação da impetrante provida em parte. Remessa necessária parcialmente conhecida e, na parte conhecida, provida. Apelação da União provida.
+ ..
+No que se refere à alegação de ter havido julgamento extra petita, o que se verifica é que a parte impetrante postulou proteção contra a incidência de IRPJ, da CSLL, do PIS e da COFINS sobre os juros e correção monetária incidentes em valores recuperados no âmbito de ações judiciais de repetição de indébito tributário, perante qualquer Fazenda.
+Confira-se o registro feito pelo douto magistrado no relatório da sentença (evento 35 da demanda originária):
+ ..
+Diante do julgamento desfavorável a sociedade impetrante reiterou a sua pretensão da em sede de apelação, postulando a reforma da sentença para afastar a incidência do IRPJ e da CSLL da correção monetária e dos juros de mora calculados com base na variação de qualquer índice (quer estadual ou municipal) - além da SELIC.
+Constata-se, assim, que este Colegiado não extrapolou os limites do pedido apresentado pela impetrante/apelante.
+O Tema 505/STJ assim fixou: "Os juros SELIC incidentes na repetição do indébito tributário se encontram fora da base de cálculo do IR e da CSLL, havendo que ser observada a modulação prevista no Tema 962 da Repercussão Geral do STF" - Precedentes: RE 1.063.187/SC e EDcl no RE 1.063.187/SC".
+Por sua vez, o STF, no Tema 962/STF, registrou: "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário".
+Não é possível, em REsp, aferir se houve a "interpretação extensiva do Tema nº 962 do STF". O TRF2 aplicou o precedente ao caso concreto, consoante a sua compreensão dos parâmetros constitucionais eleitos "a toda e qualquer repetição de indébito de tributos de competência dos demais entes da federação". À toda evidência, a Corte a quo pode fazê-lo, já que não tem impedimento algum para exame de matéria constitucional.
+Não c abe na via especial emitir juízo a respeito d os limites do que foi julgado em Repercussão Geral no STF, nem mesmo a pretexto de ofensa ao art. 927 do CPC. A propósito: AgInt no AREsp 1.528.999/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16.9.2019; AgInt no AREsp 1.643.657/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18.12.2020; AgInt nos EDcl no AREsp 1.972.416/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 6.6.2022.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
