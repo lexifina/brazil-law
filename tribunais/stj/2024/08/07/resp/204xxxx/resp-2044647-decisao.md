@@ -1,0 +1,18 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região na Apelação Criminal n. 0002554-71.2017.4.03.6181.
+O recorrente aponta a violação do art. 28-A do Código de Processo Penal, haja vista o entendimento de que o referido dispositivo, introduzido pela Lei n. 13.924/2019, não é aplicável aos feitos criminais cuja denúncia já tenha sido recebida. Requer o provimento do recurso, para que seja afastada a possibilidade de acordo de não persecução penal.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 464-467).
+Decido.
+De plano, verifico a perda do interesse-utilidade deste recurso especial, o que prejudica a análise do mérito.
+O recorrido foi condenado, em 25/4/2019 (fl. 259), à pena de 2 anos e 11 meses de reclusão mais 122 dias-multa, por incursão no art. 337-A, III, do Código Penal.
+No âmbito de apelação exclusiva da defesa, o Tribunal a quo deu parcial provimento ao recurso para reduzir a pena de multa para 18 dias-multa. Em seguida, deu provimento aos embargos de declaração opostos pelo réu para determinar a remessa dos autos à Procuradoria-Geral da República, para que decida sobre o não oferecimento do acordo de não persecução penal.
+Contra essa decisão, insurge-se o Parquet, por meio deste especial, para que afastada a possibilidade de acordo de não persecução penal. Contudo, mesmo em caso de procedência do reclamo, a prescrição da pretensão punitiva ocorreu entre a publicação do acórdão da apelação e a presente data.
+O art. 110, § 1º, do Código Penal disciplina que a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação, regula-se pela pena aplicada. A pena aplicada ao recorrido transitou em julgado para o Ministério Público, pois o recurso especial versa, somente, sobre o acordo de não persecução penal.
+Assim, ainda que o recurso especial da acusação fosse provido, subsistiria a pena fixada na sentença condenatória, que, para o caso concreto, foi de 2 anos e 11 meses de reclusão. Nessas circunstâncias, o prazo prescricional é de 8 anos, conforme disposto nos arts. 109, IV, do CP.
+Contudo, o recorrido, já na data em que foi proferida a sentença, contava com mais de 70 anos de idade, o que, de acordo com o art. 115 do CP, implica a contagem do prazo prescricional pela metade.
+Considerando que o último marco interruptivo da prescrição ocorreu com a publicação do acórdão confirmatório da condenação, em 2/12/2019, e transcorridos mais de 4 anos entre a referida data e o presente momento, o reconhecimento da prescrição da pretensão punitiva, ocorrida após a interposição do especial, seria medida cogente na espécie, o que evidencia a superveniente perda do interesse-utilidade deste recurso, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça.
+(Recursos no Processo Penal. 6. ed. rev., atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2009, p. 71)
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 34, XVIII, "a", do RISTJ, não conheço do recurso especial por ausência de interesse de agir.
+Publique-se e intimem-se.
+EMENTA
