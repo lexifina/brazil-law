@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por GUILHERME DOS SANTOS SANTANA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 2248752-82.2023.8.26.0000).
+O recorrente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão em regime fechado, além do pagamento de 15 dias-multa, pela prática do crime previsto no art. 157, § 2º, II, por duas vezes, do Código Penal, vedado o direito de recorrer em liberdade.
+A ordem impetrada na Corte de origem foi indeferida.
+A defesa alega: a) ausência dos requisitos autorizadores da medida extrema previstos no art. 312 do Código de Processo Penal; b) condições pessoais favoráveis; c) gravidade abstrata do crime não autoriza decretação da prisão preventiva; d) inexistência de elementos concretos que permitam concluir que o recorrente, solto, trará perigo à ordem pública ou à instrução criminal; e e) ser suficiente a aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+Requer, liminar e definitivamente, provimento do recurso para revogar a prisão preventiva, com ou sem aplicação de medidas cautelares alternativas.
+Liminar indeferida. (e-STJ fl. 200-202)
+Informações prestadas. (e-STJ fl. 215-221)
+Parecer do MPF. (e-STJ fl. 222-224)
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+"De fato, o paciente permaneceu preso durante toda a instrução e, diante da condenação, por maiores razões deverá permanecer recolhido se, como por aqui, estão presentes os requisitos que autorizaram a preventiva para a garantia da ordem pública e aplicação da lei penal, em razão da gravidade concreta dos fatos.
+Na sentença condenatória, foi vedado ao paciente recorrer em liberdade, sendo reconhecidos não mais indícios, mas prova efetiva de autoria e materialidade delitiva, bem como elencados os motivos para a manutenção da custódia do paciente, encontrando-se, aparentemente, fundamentada referida decisão.
+Contudo, é pacífico na jurisprudência que o direito de recorrer da sentença penal condenatória em liberdade não se aplica ao réu já preso em decorrência de flagrante ou de prisão preventiva, que assim permaneceu durante todo o curso da instrução criminal. (..)
+O C. Superior Tribunal de Justiça também já se manifestou a respeito, afirmando: "A despeito do princípio da presunção de inocência, não tem direito de recorrer em liberdade o acusado que permaneceu justificadamente preso durante toda a instrução criminal" (RHC nº 23.319 MG, Rel. Min. Laurita Vaz, j. 12/08/2008).
+Deveras, não haveria qualquer lógica em manter o acusado preso durante toda a instrução e, sobrevindo condenação, ainda que não transitada em julgado, soltá-lo para aguardar o julgamento da apelação interposta. Ao contrário, a prolação de sentença condenatória reforça e ratifica o cabimento da prisão. Assim, não se caracteriza, aqui, medida desproporcional que revele o alegado constrangimento do paciente.
+E, quanto à alegada violação à presunção de inocência, vale a transcrição da Súmula nº 09 do C. STJ:"A exigência da prisão provisória, para apelar, não ofende a garantia constitucional da presunção de inocência".
+Em suma, apesar dos argumentos lançados na impetração, na presente hipótese concreta a configuração dos requisitos autorizadores da manutenção da medida prisional está evidenciada.
+A conclusão enunciada efetivamente se impõe, máxime em face de, como explanado ab initio, haver o paciente permanecido preso durante a instrução, sem lograr reversão da custódia, de modo que, conforme acima anotado, ofenderia a lógica e a jurisprudência determinar, pura e simplesmente, sua soltura após a prolação de sentença condenatória. E, da mesma forma, não faria sentido, a esta altura, impor medidas cautelares diversas da prisão.
+De resto, o Juízo não se olvidou de enfrentar e decidir tal questão, fundamentadamente, em seu decisum, pois, tendo o paciente permanecido preso preventivamente ao longo da instrução, foi-lhe expressamente vedada a possibilidade de apelar em liberdade nos seguintes termos (fls.294): " .. Nego aos réus o direito de recorrerem em liberdade, pois permaneceram presos durante toda instrução probatória. Ademais, continuam presentes concretamente os requisitos autorizadores da prisão preventiva previstos no artigo 312 do Código de Processo Penal, pois ficou concretamente demonstrado serem os réus de alta periculosidade ao subjugar as vítimas, a fim de alcançar seu intento. Expeça-se o necessário .. ." (..)
+Desse modo, se a prisão preventiva já estava justificada pela presença dos requisitos do art. 312, do Código de Processo Penal, agora, repita-se, com maior razão merece ser prestigiada, de maneira que inexiste constrangimento ilegal a ser sanado pelo habeas corpus.(..)
+Em suma, inalterada a situação que ensejou a prisão processual do paciente, bem como o recurso de apelação já foi interposto pela Defesa da paciente (310/322 dos autos de origem) não havendo pedido similar em suas razões.
+Em suma, inalterada a situação que ensejou a prisão processual do paciente e como o recurso de apelação já foi interposta pela Defesa, a denegação da ordem é medida que se impõe."
+Como se pode observar, o Tribunal de origem concluiu que não existem constrangimentos ilegais a serem sanados, bem como que não houve alteração na situação, inclusive sem pedido de relaxamento da prisão na apelação interposta.
+Ademais, vale ressaltar que conforme as informações prestadas a apelação já foi julgada, tendo sido mantida a condenação, sem qualquer menção a possibilidade de se recorrer em liberdade.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
