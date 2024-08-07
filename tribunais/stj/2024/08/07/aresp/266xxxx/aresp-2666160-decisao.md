@@ -1,0 +1,97 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por LAVA CAR ECOWASH LTDA. com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Décima Câmara Cível do Tribunal de Justiça do Estado do Paraná (e-STJ, fl. 485):
+APELAÇÃO CÍVEL. SEGURO PATRIMONIAL, DESTINADO A ESTABELECIMENTO COMERCIAL (LAVA CAR). INCÊNDIO. PRELIMINARES DE NULIDADE DA SENTENÇA POR VIOLAÇÃO AO PRINCÍPIO DA ADSTRIÇÃO E POR FALTA DE FUNDAMENTAÇÃO REPELIDAS. NEGATIVA DE COBERTURA ANTE A UTILIZAÇÃO MISTA DO IMÓVEL (COMERCIAL E RESIDENCIAL). CLÁUSULA RESTRITIVA CONSTANTE DA PROPOSTA DE ADESÃO, DEVIDAMENTE ASSINADA PELA SÓCIA PROPRIETÁRIA DA EMPRESA AUTORA. LAUDO DE REGULAÇÃO DO SINISTRO QUE APUROU O USO DO IMÓVEL SEGURADO TAMBÉM PARA FINS RESIDENCIAIS, O QUAL FOI ASSINADO PELA PREPOSTA. OMISSÃO DA SEGURADA, NO MOMENTO DA CONTRATAÇÃO, VERIFICADA. INÍCIO DO INCÊNDIO, ADEMAIS, NA PARTE RESIDENCIAL DA EDIFICAÇÃO. NEGATIVA JUSTIFICADA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. HONORÁRIOS RECURSAIS. CABIMENTO. RECURSO DESPROVIDO.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou (e-STJ, fls. 506-514).
+Nas razões do recurso especial (e-STJ, fls. 518-547), a insurgente apontou violação aos arts. 141, 373, 408, 410, 428, 429, 489, § 1º, IV, 492 e 1.022 do CPC/2015; e aos arts. 6º, VIII, 47 e 51, IV, do CDC.
+Alegou que, embora opostos os embargos de declaração, o Tribunal de origem deixara de se manifestar sobre os pontos suscitados.
+Suscitou a nulidade do acórdão por violação ao princípio da adstrição, uma vez que não houve em nenhum momento a discussão acerca da natureza da construção do imóvel, questão esta não estabelecida pelas partes.
+Argumentou que "a oportuna impugnação ao documento parcial juntado pela recorrida, somado ao fato da produção da prova negativa que a contrapõe, produzida pela Recorrente, não se olvidando, ainda, das regras insculpidas no diploma consumerista e no rito ordinário, deveria ao menos ter sido referida circunstância de direito confrontada e qualificada pelo Tribunal a quo, fato que efetivamente não se verificou e permaneceu omisso, mesmo ante a oposição do competente embargos de declaração" (e-STJ, fl. 537).
+Contrarrazões às fls. 551-561 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 211 deste Superior Tribunal e 284/STF (e-STJ, fls. 562-563), o que ensejou a interposição do presente agravo (e-STJ, fls. 566-588).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, no que tange ao pretenso vício de omissão, cabe salientar que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, não se evidencia a existência do suposto vício arguido pela agravante, pois o colegiado de origem, ainda que em sentido contrário à pretensão veiculada, pronunciou-se sobre as questões essenciais para o deslinde da controvérsia.
+Veja-se (e-STJ, fls. 507-511):
+No que tange à arguição da embargante relativa aos fundamentos do Acórdão, não se constata possua ele qualquer omissão, o que revela resida a real pretensão da embargante na reforma da decisão, com a reapreciação de questões já decididas nos autos, não sendo esta, contudo, a via adequada para referido intento.
+Isso porque o Acórdão explanou com clareza meridiana as razões pelas quais concluiu pelo não provimento do recurso, senão veja-se a fundamentação na parte que interessa:
+"Extrai-se do processado que a empresa autora, "Lava Car Ecowash Ltda.", firmou Contrato de Seguro Patrimonial, prevendo, dentre as coberturas contratadas, a de "Incêndio, Queda de Raio e Explosão", no valor total de R$200.000,00 (Apólice de mov. 1.11).
+As partes não divergem acerca do fato de que o seguro contratado se restringe a estabelecimentos comerciais.
+Em 18.05.19 a edificação foi acometida de incêndio(Laudo dos Bombeiros ao mov. 1.14), contudo, após a regulação do sinistro, a seguradora recusou o pagamento da indenização, ao fundamento de que "muito embora o autor tenha contratado seguro na modalidade empresarial, descobriu-se que o local é de utilização mista" (sic), ou seja, também tinha finalidade residencial.
+Confira-se o teor da cláusula contratual invocada pela ré, na Carta de negativa (mov. 1.13):
+"4.1.2. Além dos riscos excluídos acima, o seguro não cobrirá os imóveis com as seguintes características:
+f. imóvel de uso misto que possua qualquer atividade comercial, ainda que devidamente registradas e legalizadas nos órgãos competentes, ou atividades profissionais autônomas, exceto se contratado o seguro para essa finalidade."
+O vistoriador apurou, ainda, que o imóvel possuía uma edificação de alvenaria, onde ficava o escritório do Lava Car, e uma casa de madeira, local onde se iniciou o incêndio (relatório de vistoria de mov. 12.7).
+A título de ilustração, colacionam-se as seguintes imagens, extraídas do corpo da peça contestatória (mov. 12.1).
+ ..
+Pois bem.
+De início, cumpre assinalar que durante o trâmite do feito, a postulante não alegou desconhecimento da citada cláusula contratual, que exclui de cobertura imóveis de uso misto, estando expressamente prevista, aliás, na proposta de adesão assinada pela preposta da empresa segurada (mov. 12.6):
+ ..
+Sobeja verificar, assim, se restou suficiente comprovada a utilização mista do imóvel segurado.
+Para embasar a sua negativa, a seguradora trouxe aos autos o relatório elaborado pelo regulador, em que restou constatado que na casa de madeira, localizada na parte da frente do terreno, residia um funcionário da empresa mov. 12.7):
+ ..
+Sendo assim, ainda que a requerente impugne, em sede judicial, a existência do suposto residente, Sr. Anderson, afirmando que o mesmo nunca integrou o seu quadro de funcionários, denota-se que as constatações do vistoriador foram corroboradas pela sócia proprietária da empresa.
+Ora, como bem destacado pelo d. Magistrado singular, "Ao firmar o relatório, a sócia anuiu com o teor das informações ali contidas, e não existe prova concreta de que tenha assinado o documento em erro de fato ou coação, para justificar a anulação. Portanto, o Juízo compreende se tratar de confissão extrajudicial, que é irrevogável (art. 214 do CC) e deve produzir todos os seus efeitos." (mov. 62.1).
+Destarte, tem-se que a requerida se desincumbiu do ônus de comprovar o uso misto do imóvel.
+Ademais, cumpre consignar que a cláusula contratual não se mostra abusiva, na medida em que possui redação clara e compreensível, valendo destacar que o risco é calculado para assegurar imóveis comerciais, sendo necessária, para eventual cobertura de imóvel residencial, a contratação adicional.
+De mais a mais, infere-se que houve a contratação de cobertura apenas para edificações de alvenaria, sendo que a exclusão de imóveis de construção mista consta expressamente da proposta de adesão, repise-se, devidamente assinada pela representante da empresa.
+Confira-se:
+ ..
+Neste ponto, assinale-se que o incêndio se originou na casa de madeira, a qual notadamente apresenta maiores riscos.
+Logo, denota-se que as informações omitidas pela segurada na fase pré-contratual, tanto sobre a finalidade residencial do imóvel, como pelo tipo da construção, eram relevantes para a aceitação da proposta e apuração do prêmio, violando-se o princípio da boa-fé objetiva, de modo que se mostra legítima a recusa de cobertura securitária, consoante, aliás, previsão contratual expressa." (grifou-se)
+Não há cogitar, portanto, a existência de omissão, especialmente quando se verifica que a embargante pretendem somente rediscutir os fundamentos da decisão objurgada, o que não se pode admitir nesta estreita via.
+Com efeito, o Superior Tribunal de Justiça consolidou sua jurisprudência no sentido de não ocorrer violação aos arts. 489 e 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade da decisão, quando o Tribunal de origem examina, de forma fundamentada, as questões fundamentais para o deslinde da controvérsia, ainda que contrariamente à pretensão manifestada pela parte; logo o resultado desfavorável não deve ser confundido com a violação aos dispositivos invocados.
+A propósito (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO NCPC. INEXISTÊNCIA. PENHORA. IMÓVEL INDIVISÍVEL. SUFICIÊNCIA DAS PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação do art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável à pretensão do recorrente, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.012.042/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de resolução contratual cumulada com pedido de indenização por danos morais e materiais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+ ..
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.175.639/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Registre-se que a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+No que tange aos arts. 141 e 492 do CPC/2015, nota-se que a Corte de origem não se pronunciou sobre as matérias alvo do reclamo, tampouco foram opostos os embargos de declaração para tal finalidade, deixando de cumprir a condição do prequestionamento.
+Com efeito, é firme o entendimento neste Superior Tribunal quanto à incidência das Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pela Corte de origem, tampouco foram opostos os embargos declaratórios com intuito de provocar o debate na instância ordinária, como se observa no caso sob julgamento.
+No ponto (sem grifo no original):
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. CORREÇÃO MONETÁRIA INDEVIDA. PAGAMENTO EFETIVADO DENTRO DO PRAZO LEGAL DE 30 DIAS. ART. 1.022 DO CPC NÃO VIOLADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTE TRIBUNAL. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o Tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente - não incidência da correção monetária sobre a indenização paga dentro do prazo legal.
+2. Incidem as Súmulas n. 282 do STF e 211 do STJ quando a questão suscitada no recurso especial não foi apreciada pela corte de origem, nada obstante a oposição de embargos de declaração.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.378.089/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024.)
+Importante frisar a impossibilidade de argumentar a existência de prequestionamento implícito e ficto na hipótese dos autos, tendo em vista que, enquanto este reclama a alegação de violação ao art. 1.022 do CPC/2015 e a constatação do vício apontado - situação não verificada no caso sob julgamento; aquele necessita que a tese debatida no recurso especial tenha sido objeto de discussão na instância de origem.
+Na mesma linha de cognição (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ESTAÇÃO DE TRATAMENTO. MAU CHEIRO. PROVAS. AUSÊNCIA. DANOS MORAIS. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO FICTO. SÚMULAS NºS 282/STF E 211/STJ. APLICAÇÃO. SÚMULA Nº 518/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A inversão do ônus da prova não implica na presunção imediata de veracidade dos fatos alegados pela parte, sendo necessário que tenha comprovado minimamente os fatos constitutivos do direito alegado.
+3. Na hipótese, rever o entendimento exarado pelo tribunal de origem acerca da ausência de comprovação do dano moral alegado demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inadmissível em recurso especial ante o óbice contido na Súmula nº 7/STJ.
+4. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+5. Nos termos da Súmula nº 518/STJ, é inviável analisar violação a texto de súmula em recurso especial.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.040.884/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA AS TELECOMUNICAÇÕES (ART. 183 DA LEI N. 9.472/1997). DESCLASSIFICAÇÃO PARA O ART. 70 DA LEI N. 4.117/1962. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 AMBAS DO STF. RECURSO IMPROVIDO.
+1. O pedido de desclassificação da conduta para a prevista no art. 70 da Lei n. 4.117/1962 não foi analisado pela Corte de origem ao analisar o recurso de apelação; ausente, portanto, o preenchimento do requisito do prequestionamento. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Ademais, "o prequestionamento implícito ocorre quando a Corte originária discute a matéria sob o enfoque suscitado no recurso especial, porém sem mencionar, explicitamente, o dispositivo de lei indicado como violado nas razões recursais" (AgRg no AREsp n. 1.850.770/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/5/2022, DJe de 9/5/2022), o que não ocorreu no presente caso.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.853.506/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+No que tange aos arts. 373, 408, 410, 428, 429 do CPC/2015 aos arts. 6º, VIII, 47 e 51, IV, do CDC, impende registrar que recurso especial possui natureza vinculada, exigindo, para o seu cabimento, o apontamento de argumentos suficientes à exata compreensão da controvérsia, sob pena de inadmissão pela incidência do óbice disposto na Súmula 284 do Supremo Tribunal Federal, aplicável ao recurso especial por analogia, a revelar deficiência na fundamentação.
+Nessa perspectiva, considera-se fundamentação deficiente a não demonstração, de forma clara e precisa, pela recorrente do dispositivo apontado como malferido pela decisão recorrida, como no caso sob julgamento.
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COTAS CONDOMINIAIS. EXECUÇÃO. VENDEDORA. IMÓVEL. RETOMADA. LEGITIMIDADE PASSIVA AD CAUSAM. OBRIGAÇÃO PROPTER REM. DÍVIDA. RESPONSABILIDADE. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS Nº 284/STF E Nº 83/STJ.
+1. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido por violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284/STF.
+2. Na hipótese, a decisão proferida pelo tribunal de origem está em harmonia com o entendimento mais recente do Superior Tribunal de Justiça, firmado no sentido de que a dívida condominial, pela sua natureza de obrigação propter rem, pode ser exigida do proprietário que não tenha participado da ação de conhecimento, inclusive com a penhora do imóvel gerador das despesas. Precedentes.
+3. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.121.196/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/9/2023, DJe de 12/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) do valor atualizado da causa, observado o benefício da gratuidade (arts. 85, § 2º, e 98, § 3º, do CPC).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO PATRIMONIAL. APELAÇÃO CÍVEL. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO INEXISTENTE. 2. VIOLAÇÃO AOS ARTS. 141 E 492 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. 3. ARTS. 373, 408, 410, 428, 429 DO CPC/2015 E ARTS. 6º, VIII, 47 E 51, IV, DO CDC. AUSÊNCIA DE INDICAÇÃO PRECISA DE VIOLAÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
