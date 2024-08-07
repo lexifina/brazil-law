@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BANCO DO ESTADO DO RIO GRANDE DO SUL SA à decisão de fls. 121/122, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A referida decisão foi proferida no sentido de majoração de honorários advocatícios para 15% sobre o valor da causa, sem, contudo, levar em consideração que, uma vez que a lide teve origem na segunda instância, mediante Agravo de Instrumento, não foram fixados, até o presente momento, honorários advocatícios em qualquer porcentagem, uma vez que tal verba é incabível em sede de Agravo de Instrumento.
+Considerando que houve majoração de honorários para 15%, sem levar em consideração que tal verba não foi fixada em grau de jurisdição inferior, e que é incabível a instituição de tal verba em sede de Agravo de Instrumento ou Recurso Especial, caracterizando, assim, erro material, é cabível embargos de declaração, consoante o artigo 1.022 do CPC: (fl. 126).
+ ..
+Como dito anteriormente, a decisão ora atacada foi proferida sem que tenham sido previamente estipulados honorários advocatícios em qualquer porcentagem.
+Isso porque o processo em questão teve origem em segunda instância, através da interposição de Agravo de Instrumento. E em situações como essa, o STJ há muito entende que é inviável o arbitramento de honorários em sede de Agravo de Instrumento ou Recurso Especial, veja-se: (fl. 127).
+ ..
+Por ser bem visível o equívoco desse juízo ao estipular honorários em 15% sobre o valor da causa, contrariando entendimento jurisprudencial que não permite estipulação de tal verba em sede de Agravo de Instrumento ou sua majoração mediante Agravo em Recurso Especial ou Agravo Interno, e que esse erro é passível de ser fácil e rapidamente sanado, percebe-se a presença de erro material nesse caso, o que possibilita o acolhimento desses embargos de declaração com efeitos infringentes, visto que o reconhecimento do referido erro material e sua eventual correção resultariam na anulação da decisão, conforme entendimento do STJ: (fl. 129).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Saliente-se, inicialmente, que, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Ademais, o Código de Processo Civil vigente, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Observe-se que não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+Outrossim , a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em sede de agravo de instrumento, objeto do recurso especial (AgInt no REsp 1850535/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24/04/2020; AgInt no AREsp 1505380/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 05/11/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
