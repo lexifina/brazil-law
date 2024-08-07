@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Guilherme José Alberto da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo nos autos de Apelação Criminal n. 1500123-31.2023.8.26.0320.
+Consta do processo que o paciente foi denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006, e art. 333 do Código Penal, na forma do art. 69 do Código Penal, em face da apreensão de 30 flaconetes contendo cocaína, com o peso de 10,18 g (fls. 13/14).
+Na sentença, o paciente foi condenado, em concurso material, à pena de 7 anos de reclusão, em regime fechado, e ao pagamento de 510 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, e art. 333 do Código Penal, na forma do art. 69 do Código Penal (fls. 15/22).
+A Corte local deu parcial provimento ao recurso para fixar o regime semiaberto (fls. 40/53).
+No presente writ, a defesa aponta a nulidade das provas por ter a busca pessoal sido realizada pela Guarda Municipal. Requer, assim, a nulidade das provas com a absolvição do paciente; de forma subsidiária, o reexame da dosimetria (fls. 102/108).
+Decisão indeferindo a liminar (fls. 57/58).
+Foram prestadas informações (fls. 61/64 e 70/98).
+Parecer ministerial opinando pelo não conhecimento do habeas corpus (fls. 102/108).
+É o relatório.
+Constam os seguintes fatos da denúncia (fl. 13):
+ ..
+Segundo se apurou, na data dos fatos, o denunciado estava na via pública com entorpecentes, para fins de tráfico.
+Guardas Municipais, durante patrulhamento em local conhecido como ponto de venda de drogas, avistaram GUILHERME entregando algo para o condutor de um veículo Fiat Uno.
+Ao notarem a presença da viatura, o motorista do automóvel fugiu sem ser identificado, enquanto o denunciado jogou no chão um invólucro contendo 30 flaconetes de COCAÍNA e evadiu-se, dispensando a quantia de R$ 80,00 durante a fuga. Logo após, GUILHERME foi abordado, porém, ao perceber que a droga dispensada havia sido recuperada, admitiu a prática do tráfico de entorpecentes e ofereceu aos agentes públicos R$ 3.000,00 para não ser preso, prometendo a entrega do valor no período noturno.
+ ..
+O Tribunal local afastou a apontada nulidade sob o seguinte fundamento (fls. 43/44):
+ ..
+4. Diferentemente do acenado no apelo, descabido falar-se, na espécie, em prova ilícita, mercê da conduta dos guardas municipais.
+Embora a norma prevista no artigo 144, parágrafo 8º, da Constituição Federal estabeleça que a função da guarda municipal consiste na proteção dos bens, serviços e instalações do Município, não se pode olvidar que dispositivo se acha inserido e aqui há que se atentar para a interpretação sistemática, que sobreleva a puramente gramatical no capítulo da segurança pública. Pelo que não parece desarrazoada a compreensão de que os guardas municipais, em determinadas situações específicas, possam também agir para tutelar a segurança pública. Essa, aliás, a ideia subjacente à Lei n. 13.022/14.
+ ..
+No caso em tela, tomando-se em conta o princípio da razoabilidade, não se divisa que os guardas municipais tenham extrapolado de sua competência na prisão do acusado. Ao que se depreendem dos autos, avistaram o acusado em um quadro de fundada suspeita de que estava em poder de drogas, o que se confirmou. Não houve uma atuação investigativa mais profunda própria da polícia judiciária. Dada a situação dos autos, parece despropositado qualificar de antijurídica a atuação dos guardas municipais. A segurança pública, bem tutelado pela Constituição Federal (artigos 5º "caput" e 144, da CF), estava a reclamar uma ação dos guardas municipais no caso concreto. Não se mostra razoável que devessem simplesmente ignorar a situação e aguardar a chegada da polícia militar.
+Pelo que hígida a conduta dos guardas municipais, à luz da Constituição Federal e do Código de Processo Penal.
+ ..
+Na hipótese, é possível constatar que os guardas municipais não agiram de forma ostensiva, mas, sim, baseados em fundadas suspeitas da ocorrência de um crime, uma vez que viram o paciente entregando algo a uma pessoa, e o réu tentou fugir com a aproximação dos guardas, além de ter jogado as drogas no chão. Assim, a atuação foi feita em flagrante delito.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. NÃO OCORRÊNCIA. GUARDAS MUNICIPAIS. BUSCA PESSOAL. EXISTÊNCIA DE FUNDADAS SUSPEITAS. FLAGRANTE DELITO. AGRAVO DESPROVIDO.
+I - Esta Corte firmou o posicionamento de que, "consoante disposto no art. 301 do CPP, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito" " (AgRg no HC n. 748.019/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/8/2022). Via de regra, tratando-se de crime de tráfico ilícito de substância entorpecente, de natureza permanente, a ação se prolonga no tempo, de modo que, enquanto não cessada a permanência, haverá o estado de flagrância, o que possibilita a prisão, ainda que sem mandado. Precedentes.
+II - O Supremo Tribunal Federal, no julgamento da ADPF n. 995/DF, assentou o entendimento de que as Guardas Municipais integram o Sistema de Segurança Pública, nos moldes do que estabelece o artigo 144, § 8º, da Constituição Federal. Ressalte-se, ainda, que o julgamento do HC n. 830.530/SP pela Terceira Seção do Superior Tribunal de Justiça, em 27/9/2023, em momento algum invalidou a possibilidade de atuação da Guarda Municipal em caso de flagrante delito: " ..  salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários" (HC n. 830.530/SP, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 4/10/2023, grifei).
+III - A busca pessoal, prevista no artigo 244 do Código de Processo Penal, requer a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou seja, em estado flagrante de crime em andamento.
+IV - Na hipótese, conforme consignado na decisão agravada, a prisão do acusado foi efetuada em típico flagrante, cuja atuação poderia ter sido realizada até mesmo por qualquer do povo e sem ordem judicial específica. Efetivamente, em que pese a irresignação da Defesa, fato é que o agravante restou condenado com amparo em provas de autoria e materialidade dos delitos, sob a égide da confirmação judicial.
+V - Neste agravo regimental não foram apresentados argumentos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios e jurídicos fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC n. 902.149/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 27/6/2024).
+E pela forma como foi feita a abordagem, se configurada ou não a fundada suspeita e o flagrante delito, esta Corte deve levar em consideração os fatos apresentados pelo acórdão hostilizado, sentença e denúncia. Não se mostra possível o reexame dos fatos, em sede de habeas corpus, para verificar alegações feitas pela defesa que estão contrárias ao que está retratado no processo.
+Quanto à dosimetria, não há constrangimento ilegal para o paciente.
+Para o delito de tráfico de drogas, a pena-base foi fixada no piso mínimo de 5 anos de reclusão e 500 dias-multa . Na segunda fase, em razão da Sumula 231, não houve redução pela atenuante de menoridade relativa. A atual discussão nesta Corte quanto ao possível afastamento da Súmula 231 e sua modulação não podem ser aplicados a processos já transitados em julgado. Já em face do pedido de reconhecimento do art. 33, § 4º, da Lei de Drogas, o fundamento para seu afastamento não foi apenas anotações criminais pretéritas, mas, sim, ter o Julgador entendido estar comprovado o engajamento com o comércio espúrio (fl. 19), de modo que não pode esse fato ser reexaminado em sede de habeas corpus.
+Quanto ao crime de corrupção ativa, também foi fixada a pena mínima de 2 anos de reclusão. O regime de cumprimento da pena foi abrandado ao semiaberto no julgamento da apelação.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS . TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DAS PROVAS ANTE A ABORDAGEM FEITA POR GUARDAS MUNICIPAIS. AUSÊNCIA DE ILEGALIDADE. ATUAÇÃO FEITA POR FUNDADA SUSPEITA E JUSTA CAUSA. FLAGRANTE DELITO. AUSÊNCIA DE CONDUTA OSTENSIVA. DOSIMETRIA DEVIDAMENTE FUNDAMENTADA.
+Ordem denegada.
