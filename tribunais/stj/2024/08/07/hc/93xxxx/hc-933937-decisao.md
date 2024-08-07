@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de ARTHUR MATIAS DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (Apelação n. 0700944-20.2023.8.02.0067).
+Depreende-se dos autos que o ora paciente foi condenado a 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, por haver sido flagrado em posse de 150g (cento e cinquenta gramas) de maconha - e-STJ fl. 253.
+O Tribunal de origem negou provimento à apelação (e-STJ fls. 249/255).
+Daí o presente writ, no qual sustenta a defesa a nulidade da ação desde a audiência de custódia devido a requerimento de realização de perícia autorizada pelo Juízo, mas não realizada (e-STJ fl. 3).
+Diante dessas considerações, pede absolvição do agente (e-STJ fl. 14).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem entendido que a avaliação da suficiência das provas para a condenação demandaria extensa revisão do acervo fático-probatório, o que é inviável na estreita via do habeas corpus.
+Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE QUE O JUÍZO CONDENATÓRIO DO TRIBUNAL DO JÚRI É MANIFESTAMENTE CONTRÁRIO À PROVA DOS AUTOS. CONDENAÇÃO LASTREADA EM ELEMENTOS PROBATÓRIOS VÁLIDOS. SOBERANIA DOS VEREDICTOS. IMPOSSIBILIDADE DO AMPLO REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS NO ÂMBITO DA PRESENTE AÇÃO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante pacífica jurisprudência desta Corte, o mérito do veredicto exarado pelo Conselho de Sentença, assim como as qualificadoras por este reconhecidas, apenas pode ser afastado caso se verifique a presença de decisão manifestamente contrária às provas dos autos. No entanto, "não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados" (EDcl no AREsp n. 1.843.371/PR, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+2. Na hipótese, após acurada análise do conjunto fático probatório, a Corte local entendeu haver lastro probatório suficiente para a condenação pelo delito de homicídio qualificado, especialmente em razão de a tese da acusação estar corroborada por provas testemunhais produzidas em Juízo. Nesse sentido, para inverter a conclusão adotada na origem, seria imprescindível incursionar, verticalmente, no acervo probatório, providência de todo incompatível com a estreita via do writ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 766.049/MT, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 21/3/2024.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DOLOSO CONTRA A VIDA. NULIDADES DAS CONFISSÕES. PRINCÍPIO DO DEFENSOR NATURAL. AUSÊNCIA DE CIENTIFICAÇÃO AO DIREITO AO SILÊNCIO. MAJORANTES. NULIDADE DAS PROVAS. VIOLAÇÃO AO ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL - CPP. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A Defensoria Pública não detém a exclusividade do exercício de defesa daqueles que não têm meios financeiros para contratar advogado, assim como não existe direito subjetivo do acusado de ser defendido pela Defensoria Pública" (RMS 49.902/PR, Relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 26/5/2017).
+2. Possíveis irregularidades na etapa indiciária não contaminam a fase judicial do do processo.
+3. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+4. "A jurisprudência desta Corte é reiterada no sentido de que, para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade" (AgRg no AREsp n. 2.098.635/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2022).
+5. O Júri é soberano e considerou a existência da qualificadora e essa conclusão não pode ser alterada na via eleita, pois, só seria possível se entendêssemos que a conclusão dos jurados fosse manifestamente contraria a prova dos autos, o que demandaria exame aprofundado de provas, providência vedada na via eleita.
+6. O acórdão vergastado enfrentou a demanda, observando as questões relevantes e imprescindíveis à sua resolução, não padecendo de vícios, portanto, não prospera a alegada contrariedade ao que dispõe o art. 619 do CPP.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 687.044/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022.)
+In casu, ainda que desconsiderada a prova pericial autorizada judicialmente e não realizada, as demais provas carreadas nos autos foram suficientes para atestar a autoria delitiva, pois, conforme expressamente consignado, "mesmo que tivesse sido procedido o exame pericial do material genético encontrado na residência invadida e que o laudo demonstrasse que não pertence ao acusado, tal prova não mitigaria o reconhecimento pelas testemunhas instrumentárias de que ele era um dos invasores de domicilio que transitavam na região a noite e, ao ser perseguido, havia se desfeito da sacola em que foram encontradas as drogas apreendidas" (e-STJ fl. 255).
+Portanto, ainda que fosse possível e realizada a referida prova pericial, qualquer que fosse seu resultado não ilidiria a conclusão acerca da autoria delitiva, não se aproveitando tal proceder para o correto deslinde do feito, mas tão somente para o óbice temporário a o seu encerramento.
+Logo, havendo provas independentes, suficientes e idôneas aptas a atestar a autoria delitiva, não há como se desconstituir as conclusões das instâncias ordinárias sem extenso revolvimento do acervo fático-probatório, procedimento vedado na via eleita, como já consignado.
+Ante todo o exposto, denego a ordem liminarmente.
+Publique-se. Intimem-se.
+EMENTA
