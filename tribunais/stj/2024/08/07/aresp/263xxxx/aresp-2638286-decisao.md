@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por Lucius Messias Barbosa contra decisão que não admitiu o recurso especial manejado em face de acórdão, prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 597):
+APELAÇÕES CÍVEIS. Ação Declaratória e Indenizatória.
+Contrato de Empréstimo Consignado. Descontos em benefícios previdenciários Sentença de Procedência.
+Solidariedade. Aplicabilidade do Código de Defesa do Consumidor. Reconhecimento da solidariedade passiva das Empresas envolvidas, já que integram a mesma cadeia de fornecimento. O Autor poderia acionar judicialmente uma ou todas as Empresas. Legitimidade ativa também configurada. O Autor é o titular de empréstimo que por ele não foi contratado. Nítido o interesse processual e, por conseguinte, a legitimidade ativa do Autor. Danos morais Majoração. Necessidade. Reiteração da conduta das Empresas Demandadas cessada apenas mediante intervenção do Poder Judiciário. Má-fé caracterizada.
+Prejuízo causado em valor considerável, mediante intricado embuste realizado pelas Empresas Corrés. Indenização majorada para o valor de R$ 10.000,00 (dez mil reais).
+Pertinência do valor, observados os critérios de razoabilidade e proporcionalidade e as características específicas do caso concreto. Precedentes. Honorários advocatícios. Fixação por equidade. Inexistência de fundamento para tal condenação a este título que deve ser lastreada no valor das indenizações fixadas. Inteligência do artigo 85, §2º, do CPC. RECURSO DO BANCO RÉU NÃOPROVIDO. RECURSO DO AUTOR PROVIDO para se majorar o valor da indenização arbitrada a R$ 10.000,00(dez mil reais) e para fixar os honorários advocatícios sucumbenciais na proporção de 15% (quinze por cento) do valor da condenação.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, fundado nas alíneas a e c do permissivo constitucional, a recorrente apontou violação do art. 85, § 2º, do CPC.
+Aduziu que, no caso de sentença com dupla natureza, declaratória e condenatória, os honorários devem ser fixados com base no proveito econômico obtido. Buscou, assim, a alteração da base de cálculo, "de modo que incida sobre o "proveito econômico obtido", ou seja, sobre o valor declarado inexistente  ..  somado ao quantum indenizatório fixado a título de danos morais, de R$10.000,00 (dez mil reais), e de repetição do indébito" (e-STJ, fl. 649).
+Contrarrazões apresentadas às fls. 660-669 (e-STJ).
+O Tribunal de origem inadmitiu o recurso especial, o que ensejou a interposição do presente agravo.
+Contraminuta às fls. 702-707(e-STJ).
+Brevemente relatado, decido.
+Sobre a controvérsia, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.746.072/PR, firmou entendimento de que a ordem estabelecida pelo § 2º do art. 85 do CPC/2015 "veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa" (REsp 1.746.072/PR, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/2/2019, DJe 29/3/2019).
+Consoante a linha de entendimento firmada no aludido julgado, em regra, os
+honorários devem ser fixados com base no valor da condenação; não havendo condenação ou não sendo possível valer-se dela, utiliza-se o proveito econômico obtido pelo vencedor ou, como última hipótese, recorre-se ao valor da causa.
+No caso em apreço, a ação foi julgada procedente para declarar nulo o contrato de empréstimo retratado na inicial e condenar a parte ré à devolução, em dobro, de montante indevidamente cobrado e ao pagamento de danos morais no importe de R$ 10.000,00 (dez mil reais), bem como ao pagamento de honorários sucumbenciais fixados em 15% (quinze por cento) do valor da condenação (e-STJ, fl. 604).
+Destarte, forçoso concluir que há, no caso em análise, condenação - devendo, portanto, o referido montante ser utilizado como base de cálculo dos honorários sucumbenciais, conforme jurisprudência deste Tribunal Superior (incidência da Súmula 83/STJ).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRIA E REPETIÇÃO DE INDÉBITO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. CONDENAÇÃO. CONCLUSÃO DA CORTE DE ORIGEM EM CONSONÂ NCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
