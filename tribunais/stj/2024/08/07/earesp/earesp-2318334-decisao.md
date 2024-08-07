@@ -1,0 +1,10 @@
+DECISÃO
+ROMULO WILLER LOPES FLAUSINO opõe embargos de divergência contra acórdão proferido pela Quinta Turma desta Corte, com o objetivo de uniformizar o entendimento jurisprudencial relativa à a validade das provas obtidas por intermédio do no espelhamento do aplicativo Whatsapp, em ação controlada, desde que autorizadas pela autoridade judicial.
+Entratanto, observo que os acórdãos paradigmas apresentados, a respeito dos quais foi apresentada a suposta divergência, foram proferidos em habeas corpus ou recurso em habeas corpus, situação que não é admitida por esta Corte.
+No particular, destacou o Ministério Público Federal: "o paradigma utilizado pela parte além de não ser atual, em que consta como data de julgamento o dia 23 de fevereiro de 2021, foi proferido em ação que possui natureza constitucional, o que inviabiliza por completo o julgamento do mérito dos embargos de divergência interposto" (fl. 1.450).
+Com efeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Ressalte-se que mesmo sob a vigência do novo Código de Processo Civil, os arts. 1043, § 1º, do CPC e 266, § 1º, do Regimento Interno do Superior Tribunal de Justiça delimitaram o confronto de teses jurídicas objeto dos embargos de divergência àquelas decorrentes do julgamento de recursos e ações de competência originária.
+Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais. Nesse sentido, por todos, o AgRg na Pet n. 15.433/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 24/5/2023, DJe de 26/5/2023.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+ EMENTA
