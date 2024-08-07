@@ -1,0 +1,192 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0708964-71.2020.8.07.0000RECORRENTE(S)JOSE DAVID SOARES DO NASCIMENTORECORRIDO(S)DISTRITO FEDERAL e INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO DISTRITO FEDERAL - IPREVRelatorDesembargador GETÚLIO MORAES OLIVEIRA
+ Acórdão Nº1903627
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. JUÍZO DE RETRATAÇÃO. DIREITO PROCESSUAL CIVIL. ÍNDICE DE ATUALIZAÇÃO MONETÁRIA DE DÉBITOS DA FAZENDA PÚBLICA. TEMAS 810/STF E 1170/STF. AUSÊNCIA DE OFENSA À COISA JULGADA.
+
+1. O Supremo Tribunal Federal, no Tema 1.170, firmou a orientação de que a alteração do índice de atualização monetária de débitos da Fazenda Pública, com a finalidade de adequação ao definido no Tema 810, não importa em ofensa à coisa julgada.
+
+2. Juízo de retratação exercido. Acórdão reformado para dar provimento parcial ao agravo de instrumento,  a fim de aplicar o IPCA-E como critério de atualização monetária, a partir de 30/06/2009 e até 08/12/2021. Após o referido período, a atualização do débito deve ser feita pela Taxa Selic, nos termos do art. 3º da Emenda Constitucional 113/2021.
+
+3. Agravo de instrumento parcialmente provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, GETÚLIO MORAES OLIVEIRA - Relator, ROBSON BARBOSA DE AZEVEDO - 1º Vogal e SANDRA REVES - 2º Vogal, sob a Presidência da Senhora Desembargadora SANDRA REVES, em proferir a seguinte decisão: CONHECIDO. PARCIALMENTE PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 15 de Agosto de 2024
+
+Desembargador GETÚLIO MORAES OLIVEIRARelator
+
+RELATÓRIO
+
+O feito retorna para julgamento em razão de suposta divergência entre o v. acórdão recorrido e a orientação do Supremo Tribunal Federal, nos termos do art. 1.030, II, do Código de Processo Civil, tendo em vista o decidido pelo rito da repercussão geral no RE 870.947 (Tema 810) e RE 1.317.982 (Tema 1.170).
+
+Inicialmente, transcrevo o relatório do v. acórdão:
+
+“Cuida-se de Agravo de Instrumento interposto contra Decisão do Juízo de Direito da 3ª Vara da Fazenda Pública do Distrito Federal, que, em sede de cumprimento de sentença, rejeitou o pedido de alteração dos índices de correção monetária incidentes sobre o débito exequendo, diante de anterior concordância das partes.
+
+O Agravante sustenta, em síntese, que, intimado para se manifestar sobre os cálculos da contadoria judicial, impugnou os valores, sobrevindo, contudo, decisão indicando a concordância das partes em relação à quantia indicada pela contadoria. Opostos Embargos de Declaração, o MM. Juiz a quo rejeitou-os, ao argumento de que a parte credora intimada para se manifestar, deixou transcorrer in albis o prazo.
+
+O Recorrente alega que não há que se falar em preclusão passível de impedir a correção de erros de cálculos decorrentes da inobservância de preceitos de ordem pública, como são os relativos às regras de correção monetária.
+
+Diz que, embora tenha apontado na inicial do cumprimento de sentença, a TR como o índice de correção a partir de 30/6/2009, em decorrência de ser este o índice vigente à época, em razão do Min. Luiz Fux ter emprestado efeito suspensivo aos embargos declaratórios interpostos no RE 870.947/SE, sobreveio nova decisão alterando os índices apontados.
+
+Invocando ofensa ao princípio da economia processual, bem como o desrespeito ao sistema de precedentes obrigatórios, o Agravante pugna pela concessão de antecipação de tutela recursal para aplicar a partir de 30/6/2009, o IPCA-E como índice de correção monetária em substituição a TR e assim, retificar os requisitórios expedidos e/ou expedir requisição complementar da diferença ainda não adimplida.
+
+Preparo regular.
+
+A liminar foi indeferida (ID 15675703).
+
+O Distrito Federal apresentou contrarrazões ao recurso (ID 16748812).
+
+É a suma dos fatos."
+
+Levado a julgamento por esta egrégia Turma, sobreveio o acórdão, cuja ementa transcrevo:
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA. ANTERIOR CONCORDÂNCIA DAS PARTES.
+
+1. O C. STJ já decidiu que os juros moratórios, assim como a correção monetária, são consectários legais da obrigação principal e estão submetidos à claúsula rebus sic stantibus.
+
+2. Contudo, se a parte, ao ser intimada para se manifestar sobre os cálculos elaborados pela contadoria judicial, deixa transcorrer in albis referido lapso, não pode posteriormente buscar alterar os índices de correção monetária incidente sobre o débito, em razão de incidir na hipótese a preclusão consumativa.
+
+3. Recurso conhecido e desprovido.
+
+Acrescento que, após o recurso ser desprovido, foram opostos Embargos de Declaração, os quais foram rejeitados. Em seguida, foi Interposto Recurso Especial (ID Num. 22306814) e Recurso Extraordinário (ID Num. 22306818), tendo sido ambos admitidos (ID. Num. 24211540).
+
+Após passagem pelo STJ o feito retornou a este eg. Tribunal onde se aguardou o julgamento do Tema 1.170 pelo STF, após o que o Tribunal conformaria ou não seu entendimento.
+
+Julgado o Tema 1.170 o Exmo. Sr. Presidente do Tribunal assim despachou:
+
+“O tema que ensejou o sobrestamento do recurso extraordinário diz respeito à possibilidade de alteração do índice de atualização monetária arbitrado no título judicial executado, tendo em vista o decidido no RE 870.947 (Tema 810).
+
+De início, importante mencionar que o Supremo Tribunal Federal afetou o RE 1.317.982 (Tema 1.170) com a finalidade de uniformizar a controvérsia acerca da “validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810), na execução de título judicial que tenha fixado expressamente índice diverso”.
+
+Passo seguinte, a Corte Suprema exarou inúmeras decisões, nas quais assinalou que, embora o julgado mencione somente os juros de mora, a ratio decidendi que culminou na tese inclui a discussão acerca da possibilidade de desconstituição de comando judicial transitado em julgado em que se tenha expressamente estabelecido critério de correção monetária dissonante do Tema 810.
+
+ Em última análise, em 8/1/2024, o STF consolidou a orientação no sentido de que a modificação do parâmetro de atualização monetária com a finalidade de adequação ao definido no Tema 810 não importa em lesão à coisa julgada. Confira-se a ementa do RE 1.317.982:
+
+ RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1ºF, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum. 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (Rel. Ministro NUNES MARQUES, DJe 8/1/2024
+
+Válido transcrever trecho do voto condutor do precedente:
+
+(...) Por fim, colho da jurisprudência recente do Supremo várias decisões a determinarem a aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária (RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Cármen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414, ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021). (g.n.).
+
+In casu, o acórdão recorrido concluiu que (ID 19106046):
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA. ANTERIOR CONCORDÂNCIA DAS PARTES. 1. O C. STJ já decidiu que os juros moratórios, assim como a correção monetária, são consectários legais da obrigação principal e estão submetidos à claúsula rebus sic stantibus. 2. Contudo, se a parte, ao ser intimada para se manifestar sobre os cálculos elaborados pela contadoria judicial, deixa transcorrer in albis referido lapso, não pode posteriormente buscar alterar os índices de correção monetária incidente sobre o débito, em razão de incidir na hipótese a preclusão consumativa. 3. Recurso conhecido e desprovido.
+
+Do juízo de confronto entre todo o decidido, verificada suposta divergência entre o acórdão vergastado e as orientações traçadas pela Corte Suprema, nos termos do artigo 1.030, inciso II, do Código de Processo Civil, encaminhem-se os autos ao órgão julgador.
+
+Após, retornem-me conclusos para análise do recurso constitucional à luz do regime dos repetitivos (artigo 1.041 do CPC).
+
+Publique-se.” (ID Num. 56762486)
+
+Conforme determinado no Despacho da Presidência, o feito retorna a este Colegiado para que se proceda a novo exame da matéria, conforme tese fixada em sede de repercussão geral (Tema 810 e 1.170).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador GETÚLIO MORAES OLIVEIRA - Relator
+
+Conforme relatado, o feito retorna para julgamento em razão de suposta divergência entre o v. acórdão recorrido e a orientação do Supremo Tribunal Federal, nos termos do art. 1.030, II, do Código de Processo Civil, tendo em vista o decidido pelo rito da repercussão geral no RE 870.947 (Tema 810) e RE 1.317.982 (Tema 1.170).
+
+O  Agravo de Instrumento  foi desprovido à unanimidade conforme o entendimento sintetizado na  ementa:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA. ANTERIOR CONCORDÂNCIA DAS PARTES.
+
+1. O C. STJ já decidiu que os juros moratórios, assim como a correção monetária, são consectários legais da obrigação principal e estão submetidos à claúsula rebus sic stantibus.
+
+2. Contudo, se a parte, ao ser intimada para se manifestar sobre os cálculos elaborados pela contadoria judicial, deixa transcorrer in albis referido lapso, não pode posteriormente buscar alterar os índices de correção monetária incidente sobre o débito, em razão de incidir na hipótese a preclusão consumativa.
+
+3. Recurso conhecido e desprovido.”
+
+Opostos Embargos de Declaração, restaram improvidos:
+
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE VÍCIOS NO JULGADO. REDISCUSSÃO DA MATÉRIA. VIA IMPRÓPRIA. PREQUESTIONAMENTO. REJEIÇÃO.
+
+1. Os Embargos de Declaração não são a via própria para rediscutir os fundamentos do julgado, de modo que o inconformismo da parte com o resultado do julgamento deve ser materializado por meio de recurso adequado.
+
+2. Conforme já se decidiu, “o CPC/2015, dentre as concepções possíveis de prequestionamento, adotou aquela, então, preponderante no STF, por muitos chamada de ‘prequestionamento ficto’ em seu art. 1.025”. (TJDFT, 20140111334832APC). Portanto, a simples alusão quanto ao interesse de prequestionamento, desacompanhada de demonstração de qualquer vício, não é suficiente para o acolhimento dos declaratórios.
+
+3. Embargos de declaração conhecidos e desprovidos
+
+O cerne da questão refere-se, pois, à  alteração dos índices de correção monetária incidentes sobre o débito exequendo, diante de anterior concordância das partes.
+
+Sucede que o Supremo Tribunal Federal, ao decidir o Tema 1.170 firmou entendimento em sentido diverso, qual seja, a correção monetária e os juros devem ser aplicados na forma prevista em lei, ainda que haja coisa julgada, aí também compreendida a preclusão.
+
+Consoante bem pontuado no Despacho da eg. Presidência:
+
+Em última análise, em 8/1/2024, o STF consolidou a orientação no sentido de que a modificação do parâmetro de atualização monetária com a finalidade de adequação ao definido no Tema 810 não importa em lesão à coisa julgada. Confira-se a ementa do RE 1.317.982:
+
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1ºF, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum. 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (Rel. Ministro NUNES MARQUES, DJe 8/1/2024
+
+Válido transcrever trecho do voto condutor do precedente:
+
+(...) Por fim, colho da jurisprudência recente do Supremo várias decisões a determinarem a aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária (RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Cármen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414, ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021). (g.n.).
+
+Ou seja, "É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado." Em outras palavras, a modificação do parâmetro de atualização monetária com a finalidade de adequação ao definido no Tema 810 não importa em lesão à coisa julgada.
+
+Apreciando hipótese semelhante, em recente julgamento de 02 de maio de 2024 a eg. 6ª Turma Cível, sob a Relatoria do Des. Leonardo Roscoe Bessa (Agravo de Instrumento nº 0723593-16.2021.8.07.0000), recebendo idêntico Despacho da Presidência para exercer ou não o juízo de retratação, houve por bem assim decidir:
+
+"AGRAVO DE INSTRUMENTO. JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. REMUNERAÇÃO BÁSICA DA CADERNETA DE POUPANÇA (TAXA REFERENCIAL - TR). INCONSTITUCIONALIDADE. ALTERAÇÃO. POSSIBILIDADE. RE 1.317.982 -TEMA 1.170, DJE 8/1/2024. ACÓRDÃO REFORMADO. AGRAVO DE INSTRUMENTO. PROVIDO. 1. O Supremo Tribunal Federal - STF consolidou orientação no sentido de que a modificação do parâmetro de atualização monetária com a finalidade de adequação ao definido no Tema 810 não importa em lesão à coisa julgada, no RE 1.317.982 -Tema 1.170, DJE 8/1/2024. 2. Embora se refira a juros de mora, a tese a ser firmada no Tema 1170 também se aplica aos casos de correção monetária, haja vista o fundamento ser o mesmo: existência ou não de ofensa à coisa julgada (art. 5º, XXXVI, da Constituição Federal). 3. Juízo de retratação exercido. Acórdão reformado para dar provimento ao agravo de instrumento, a fim de aplicar o IPCA-E como critério de atualização monetária, a partir de 30/06/2009 e até 08/12/2021. Após o referido período, a atualização do crédito deve ser feita pela Taxa Selic, nos termos do art. 3º da Emenda Constitucional 113/2021.” (Acórdão 1853141, 07235931620218070000, Relator(a): LEONARDO ROSCOE BESSA,  6ª Turma Cível, data de julgamento: 24/4/2024, publicado no DJE: 23/5/2024. Pág.:  Sem Página Cadastrada.)
+
+Em seu voto o e. Relator pontuou:
+
+"O acórdão combatido está em desacordo com entendimento firmado pelo Superior Tribunal de Federal e deve ser reformado.
+
+A controvérsia recursal consiste em determinar se é possível, em cumprimento de sentença, adotar índice de correção monetária diverso do estabelecido no título judicial (decisão transitada em julgado), a fim de adequá-lo ao entendimento firmado pelo STF, de repercussão geral, no RE 870.947 (Tema 810 da Repercussão Geral).
+
+Recentemente, o Supremo Tribunal Federal – STF consolidou orientação no sentido de que a modificação do parâmetro de atualização monetária com a finalidade de adequação ao definido no Tema 810 não importa em lesão à coisa julgada, no RE 1.317.982 -Tema 1.170, DJE 8/1/2024. A propósito, registre-se a ementa:
+
+‘RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1º-F, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum. 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: ‘É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.’(Rel. Ministro NUNES MARQUES, DJe 8/1/2024).’
+
+Embora se refira a juros de mora, a tese a ser firmada no Tema 1170 também se aplica aos casos de correção monetária, haja vista o fundamento ser o mesmo: existência ou não de ofensa à coisa julgada (art. 5º, XXXVI, da Constituição Federal).
+
+Confira-se o seguinte trecho do voto do precedente (RE 1.317.982 – Tema 1.170):
+
+(...) Por fim, colho da jurisprudência recente do Supremo várias decisões a determinarem a aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos jurosou à atualização monetária(RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Cármen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414,ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021). – grifou-se Registre-se que esse entendimento já havia sido adotado pela Sexta Turma Cível. Apenas a título ilustrativo, consigne-se o seguinte julgado de minha relatoria:
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. SUSPENSÃO DO PROCESSO. TEMA REPETITIVO 1169. INAPLICÁVEL. REPERCUSSÃO GERAL TEMA 1170. AUSÊNCIA DE DETERMINAÇÃO PELO STF. PRELIMIMARES AFASTADAS. CORREÇÃO MONETÁRIA. REMUNERAÇÃO BÁSICA DA CADERNETA DE POUPANÇA (TAXA REFERENCIAL -TR). INCONSTITUCIONALIDADE. ALTERAÇÃO. POSSIBILIDADE. DECISÃO DE INCONSTITUCIONALIDADE PROFERIDA NO RE 870.947/SE. MODULAÇÃO DOS EFEITOS. INOCORRÊNCIA. EFICÁCIA RETROATIVA IRRESTRITA. RELAÇÃO JURÍDICA DE TRATO SUCESSIVO. OFENSA À COISA JULGADA. INOCORRÊNCIA. REPERCUSSÃO GERAL TEMA 733. INAPLICABILIDADE. APLICAÇÃO DO IPCA-E A PARTIR DE 30/6/2009. APLICAÇÃO DA TAXA SELIC A PARTIR DE 9/12/2021. 1. A ação coletiva de conhecimento (Processo 32159/97), ajuizada pelo SINDIRETA contra o Distrito Federal com objetivo de pagamento pretérito do benefício alimentação, que havia sido suspenso pelo Decreto 16.990/1995, beneficia todos os servidores da administração direta do Distrito Federal. 2. No caso, a ficha financeira informa que o pai do exequente era servidor da administração direta, pois pertencia quadro da Secretaria de Cultura. Portanto, possui legitimidade para figurar no polo ativo do cumprimento de sentença em desfavor do Distrito Federal. 3. A Primeira Seção do Superior Tribunal de Justiça - STJ determinou a suspensão de todos os processos que versem sobre: ?Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos? (Tema 1.169). 4. Busca-se definir se, para o cumprimento individual de sentença condenatória genérica proferida em demanda coletiva, é imprescindível a prévia liquidação ou se os cálculos apresentados pelo exequente já traduzem a liquidez necessária para a execução individual. Na hipótese, não há discussão sobre necessidade de prévia liquidação do título exequendo. A questão sequer foi debatida em primeira instância. Logo, não há razão para o sobrestamento. 5. O STF reconheceu a repercussão geral do RE 1.317.982 (Tema 1170), em que se discute a possibilidade de aplicação de percentual de juros de mora diverso do previsto em sentença transitada em julgado contra a Fazenda Pública, em razão da tese firmada no RE 870.947 (Tema810). Embora se refira a juros de mora, a tese a ser firmada no Tema 1170 também se aplicará aos casos de correção monetária, haja vista o fundamento ser o mesmo: existência ou não de ofensa à coisa julgada (art. 5º, XXXVI, da Constituição Federal). 6. O art. 1.035, § 5º, do Código de Processo Civil - CPC prevê que reconhecida a repercussão geral, o relator no Supremo Tribunal Federal determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional?. Todavia, o Plenário do STF, ao julgar questão de ordem no RE 966.177/RS, firmou entendimento de que a referida suspensão? não é consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la (STF - RG-QO RE: 966177 RS - RIO GRANDE DO SUL, Relator: Min. LUIZ FUX, Data de Julgamento: 07/06/2017, Tribunal Pleno, Data de Publicação: DJe-019 01-02-2019). 7. Como o Ministro Luiz Fux, relator do RE 1.317.982, não determinou o sobrestamento dos processos que versam sobre a matéria, não há que se falar em suspensão do recurso, tampouco do processo originário. 8. O Supremo Tribunal de Federal, ao julgar o RE 870.947/SE, em regime de repercussão geral (Tema810), reconheceu a inconstitucionalidade da utilização da Taxa Referencial -TRpara a correção monetária dos créditos oriundos de condenações da Fazenda Pública antes de sua inscrição em precatórios e determinou que fosse adotado o IPCA-E para tal finalidade. 9. Os embargos de declaração opostos com fins de modular os efeitos da decisão proferida RE 870.947/SE foram rejeitados, de modo a preservar os efeitos retroativos (ex tunc) da declaração de inconstitucionalidade do art. 1º-F da Lei 9.494/1997, com a redação da Lei 11.960/2009. 10. O acórdão dos embargos de declaração não fez nenhuma ressalva no sentido de resguardar os provimentos judiciais que transitaram em julgado. Dessa forma, é possível concluir que a intenção do Supremo Tribunal de Federal foi de conferir eficácia retroativa irrestrita à decisão proferida no RE 870.947/SE. 11. A correção monetária tem por finalidade a manutenção do valor real do crédito, desgastado pela inflação. Nesse sentido, deve-se admitir a alteração do índice de correção monetária fixado em título judicial, uma vez que a extensão da coisa julgada atinge o mérito do processo, nos termos do art. 502 e seguintes do Código de Processo Civil, e não os critérios de atualização do crédito, que podem, inclusive, ser fixados posteriormente pelo juízo. 12. O art. 505, I, do Código de Processo Civil - CPC legitima a alteração do conteúdo da sentença que decide relação jurídica de trato sucessivo ou continuado, sempre que sobrevier modificação no estado de fato ou de direito. 13. O Superior Tribunal de Justiça já firmou entendimento no sentido de que a alteração dos juros de mora e da correção monetária fixados no título não afronta a coisa julgada, por constituírem obrigações de trato sucessivo. 14. Ao julgar o REsp 1.492.221/PR, sob o rito dos recursos repetitivos, o Superior Tribunal de Justiça firmou a tese que, nas condenações judiciais da Fazenda Pública referentes a servidores e empregados públicos, a correção monetária deve ser calculada com base no IPCA-E, a partir de julho de 2009 (Tema 905). 15. Assim, é possível, em cumprimento de sentença, adotar índice de correção monetária diverso do estabelecido no título judicial para as condenações contra a Fazenda Pública, quando fixado na forma do art. 1º-F da Lei 9.494/97, com redação dada pela Lei11.960/2009 (aplicação daTR), reputado inconstitucional pelo STF, em sede da repercussão geral, no RE 870.947/SE. 16. No caso, o título exequendo determinou correção monetária pela TR. Dessa forma, é possível e adequada a substituição do referido índice, declarado inconstitucional pelo STF, peloIPCA-E, a partir de 30/09/2009. 17. O entendimento do Tema 733 da Repercussão Geral não se aplica à hipótese. O trânsito em julgado da ação de conhecimento ocorreu no dia 11/3/2020, data posterior à publicação do Tema810do STF. Portanto, é desnecessária a interposição de outros recursos ou de ação rescisória. Ainda que assim não fosse, não se trata de alteração da coisa julgada material, mas de aplicação do critério de correção monetária, que não se sujeita ao trânsito em julgado. 18. A partir da publicação da Emenda Constitucional 113, ou seja, 9 de dezembro de 2021, a atualização do crédito deve ser feita pela Taxa Selic, com incidência sobre o valor do principal atualizado. 19. Preliminares rejeitadas. Recurso conhecido e não provido.(Acórdão 1806327, j. 24/01/2024, 6ª Turma Cível, Relator: LEONARDO ROSCOE BESSA, DJE: 20/02/2024)
+
+– grifou-se
+
+Dessa forma, nos termos acima consignados, é possível e adequada a substituição do referido índice, declarado inconstitucional pelo STF, pelo IPCA-E, a partir de 30/09/2009.
+
+Relevante ressaltar, contudo, que a Emenda Constitucional 113/2021, em seu art. 3º, trouxe novo regramento para a aplicação do índice de correção monetária das condenações contra a Fazenda Pública: ‘Art. 3º Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente.’
+
+O Supremo Tribunal de Federal já firmou jurisprudência no sentido de que, salvo disposição expressa em contrário, os dispositivos constitucionais têm vigência imediata e alcançam somente os efeitos futuros de fatos passados (retroatividade mínima) (STF - RE: 242740 GO, Relator: MOREIRA ALVES, Data de Julgamento: 20/03/2001, Primeira Turma, Data de Publicação: DJ 18-05-2001 PP-00087 EMENT VOL-02030-05 PP-00890).
+
+Assim, a partir da publicação da Emenda Constitucional 113, ou seja, a partir de 09 de dezembro de 2021, a atualização do crédito deve ser feita pela Taxa Selic, com incidência sobre o valor do principal atualizado.
+
+Portanto, a decisão deve ser reformada.
+
+3. DISPOSITIVO
+
+Em JUÍZO DE RETRATAÇÃO do acórdão, DOU PROVIMENTO ao agravo de instrumento para reformar a decisão agravada, a fim de aplicar o IPCA-E como critério de atualização monetária, a partir de 30/06/2009 e até 08/12/2021. Após o referido período, a atualização do crédito deve ser feita pela Taxa Selic, nos termos do art. 3º da Emenda Constitucional 113/2021.”
+
+Necessário ressaltar que existem respeitáveis entendimentos no sentido de que uma vez que houve concordância da parte com os antigos cálculos, estabelece-se uma distinção e isso afasta a aplicação do Tema 1.170. Cito um dos julgados nesse sentido:
+
+“PROCESSO CIVIL. RECURSO. AGRAVO DE INSTRUMENTO. REJULGAMENTO. COMANDO DA PRESIDÊNCIA EM ADMISSIBILIDADE DE RECURSO ESPECIAL (RESP) E RECURSO EXTRAORDINÁRIO (RE). OBSERVÂNCIA DO ARTIGO 1.040, INCISO II, DO CPC. SUPOSTA DIVERGÊNCIA. TEMAS 810/STF E 1170/STF. DISTINÇÃO. INAPLICABILIDADE DOS PRECEDENTES VINCULANTES. PRECLUSÃO. DISTINGUISHING DO CASO CONCRETO. FUNDAMENTAÇÃO. JUÍZO DE RETRATAÇÃO. 1.Cuida-se de comando de rejulgamento determinado pela Egrégia Presidência desta Corte de Justiça, nos termos do artigo 1.040, inciso II, do Código de Processo Civil, em razão de suposta divergência do entendimento exarado no acórdão que negou provimento ao agravo de instrumento da parte exequente com o Tema 810 do Supremo Tribunal Federal. 2. A aplicação dos precedentes vinculantes não é automática e deriva de um confronto das teses jurídicas formuladas com os contornos fáticos de submissão da controvérsia instaurada pelas partes no caso concreto, elegendo-se a viabilidade jurídica do adequado enquadramento pontual da discussão aos comandos estabelecidos nos precedentes de nível vinculante. Precedentes STJ. 3. Na espécie, não há divergência a ser apurada, mas instrumentalização da fundamentação pela via do distinguishing realizado pelo Egrégio Colegiado da 3ª Turma Cível na ocasião, onde se firmou pela inaplicabilidade do precedente constituído pelo Tema 810 do Supremo Tribunal Federal diante do reconhecimento expresso de que a situação particularizada impõe solução jurídica diversa das encartadas na mencionada tese jurídica vinculante. 4. No caso específico, o acórdão objeto do presente rejulgamento orientou-se pela distinção para afastar a aplicação do tema 810 do Supremo Tribunal Federal, ao argumento de que o próprio exequente renunciou a direito disponível, referente à incidência do IPCA-E como índice de correção monetária em substituição à TR, acarretando a homologação dos cálculos apresentados pelo próprio exequente. 5. Acórdão mantido em sede de juízo de retratação. (EMBARGOS DE DECLARAÇÃO CÍVEL 0740458-17.2021.8.07.0000 -17 de Maio de 2024 -Desembargadora MARIA DE LOURDES ABREU 3ª Turma Cível).”
+
+Porém, penso que se deve considerar que a utilização de outro índice (TR) como correção, com a concordância do credor, se explica, porque a lei vigente à época da elaboração dos cálculos determinava a incidência de determinado índice e ao depois o Supremo Tribunal Federal veio a declarar a inconstitucionalidade e orientar que a nova modalidade alcança até mesmo os casos já cobertos pela coisa julgada. Além disso, não se pode perder de vista que a correção monetária é apenas a recomposição do valor da moeda, daí que, no caso específico de condenações à Fazenda Pública, se houve pagamento sem observância do índice correto, não se poderá dizer que houve o pagamento, pelo que a questão se insere na categoria dos erros materiais corrigíveis a qualquer tempo.
+
+Por fim, a Emenda Constitucional 113/2021, em seu art. 3º, trouxe novo regramento para a aplicação do índice de correção monetária das condenações contra a Fazenda Pública:
+
+“Art. 3º Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente.”
+
+Assim, comungando com o entendimento exposto no Acórdão suso transcrito, exerço o juízo de retratação e DOU PROVIMENTO PARCIAL ao agravo de instrumento para determinar a elaboração de novos cálculos para futura expedição de requisição complementar, nos quais deve-se observar o índice IPCA-E como critério de atualização monetária, a partir de 30/06/2009 e até 08/12/2021. Após o referido período, a atualização do crédito deve ser feita pela Taxa Selic, nos termos do art. 3º da Emenda Constitucional 113/2021.
+
+É como voto.
+
+O Senhor Desembargador ROBSON BARBOSA DE AZEVEDO - 1º Vogal Com o relatorA Senhora Desembargadora SANDRA REVES - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PARCIALMENTE PROVIDO. UNÂNIME.
