@@ -1,0 +1,45 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  Regional Federal da 2ª Região  na  Apelação Criminal n. 0001684-43.2004.4.02.5103.
+O recorrido foi condenado, pelo crime do art. 1º, I, da Lei n. 8.137/1990, em continuidade delitiva, a 2 anos e 4 meses de reclusão mais 50 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritiva de direitos.
+O Parquet federal aponta violação dos arts. 383 do Código de Processo Penal e 12, I, da Lei n. 8.137/1990. Requer que seja restabelecida a causa de aumento prevista no art. 12, I, da Lei n. 8.137/1990, em virtude do elevado valor dos tributos sonegados (R$ 2.188.935,03).
+O  Ministério  Público  Federal , às fls. 1.930-1.952,  opinou  pelo  provimento do REsp.
+Decido.
+I. Recurso especial admissível
+O acórdão recorrido decotou a causa de aumento descrita no art. 12, I, da Lei n. 8.137/1990 e, para tanto, apresentou a seguinte fundamentação (fls. 1.684-1.685):
+ ..
+Contudo, levando-se em consideração que o efeito devolutivo amplo da apelação criminal autoriza a conhecer de matéria não ventilada nas razões recursais, desde que não agrave a situação do condenado (jurisprudência em tese, edição 66, STJ), peço vênia para divergir e dar parcial provimento a apelação para reduzir a pena corporal do apelante, afastando da dosimetria tão somente a incidência da causa de aumento do artigo 12, inciso I da Lei nº 8137/90.
+É que a sentença aplicou a referida causa de aumento, nos seguintes termos:
+"Na terceira fase, reconheço a incidência da causa de aumento prevista no art. 12, inciso I, da Lei n.8.137/90, de modo que, considerando o dano à coletividade decorrente da supressão dos tributos (AgRg no REsp 1412501/PE, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 01/04/2014, DJe 10/04/2014), face ao valor exorbitante sonegado pelo réu, aumento a pena de 1/3 (um terço), de forma que a reprimenda fica elevada a 2 (dois) anos e 8 (oito) meses de reclusão"
+Ocorre que, além de a denúncia (evento 17, OUT1) não ter feito qualquer alusão à referida causa de aumento, o valor originalmente sonegado - R$ 558.515,23 (evento 25, OUT13, p. 39-40) - não se mostra suficiente para sua aplicação.
+É certo que, com juros e correção monetária, o valor devido alcançou R$ 2.188.935,03 (dois milhões, cento e oitenta e oito mil, novecentos e trinta e cinco reais e três centavos)
+Mas, isso é irrelevante, considerando que a decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, no julgamento do HC 412.205/PE, em que o acréscimo punitivo pela incidência do artigo 12, I, da Lei 8.137/90 foi afastado por considerar que o imposto, originalmente quantidado, não configura caso de grave dano à coletividade, in verbis:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. CRIMES DE SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA E SOCIAL. PENA-BASE ACIMA DO MÍNIMO. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. QUANTUM DE AUMENTO (1/2). REDUÇÃO PARA 1/6.
+POSSIBILIDADE. CAUSA DE AUMENTO DE PENA (ART. 12, I, DA LEI 8.137/90). INAPLICABILIDADE.
+CONSIDERAÇÃO DO VALOR DO TRIBUTO SONEGADO, SEM ACRÉSCIMOS LEGAIS (JUROS, MULTA E DEMAIS ENCARGOS). GRAVE DANO À COLETIVIDADE NÃO DEMONSTRADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A valoração negativa da culpabilidade (art. 59 do Código Penal), considerada de grau mediano, justifica o aumento da pena-base. Porém, a fração de 1/4 mostra-se desproporcional, devendo ser reduzida para 1/6.
+3. O não recolhimento de expressiva quantia de tributo atrai a incidência da causa de aumento do art. 12, I, da lei 8.137/90, pois configura grave dano à coletividade. No entanto, não se deve considerar os acréscimos legais (juros, multa etc.), somente o valor do tributo não recolhido. Na hipótese, o valor do tributo originariamente sonegado - R$129.716,21 - não se mostra suficiente à aplicação da referida causa de aumento de pena, tendo em vista, sobretudo, os valores usualmente considerados por esta Corte em casos análogos. Precedentes.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena-base e afastar a causa de aumento prevista no art. 12, I, da Lei n. 8.137/90, fixando a pena definitiva em 3 anos e 6 meses de reclusão, em regime aberto, mais 150 dias-multa, substituída a pena privativa de liberdade por restritivas de direitos." (STJ - HC 412205/PE, 5ª T., Min. JOEL ILAN PACIORNIK, j. 20/2/18, p. DJe 2/3/18)"
+Anote-se, também, que, no livro Crimes Contra a Ordem Tributária 1 , Andreas Eisele, Promotor de Justiça do Ministério Público do Estado de Santa Catarina, leciona que, quando da verificação do quantum, para a análise da extensão e profundidade do dano, apenas será considerado o valor do tributo ou contribuição social evadida, corrigido monetariamente, sem a incidência de qualquer acessório (multa, juros moratórios, etc.) Tem-se assim que, embora se trate de valor consideravelmente elevado à época dos fatos, o montante sonegado não configura, ao menos com base nos elementos informados nos autos, grave dano à coletividade para fins de incidência da causa de aumento de pena prevista no artigo 12, I, da Lei 8.137/90.
+Com efeito, sobre a causa de aumento relativa ao grande dano causado à coletividade, a compreensão desta Corte Superior é de ela ser reconhecida, em tributos federais, a partir do patamar de 1 milhão de reais, considerada, para tanto, a inclusão do montante relativo a juros e multas. Assim, o entendimento do acórdão recorrido está em dissonância com a jurisprudência atual do STJ, conforme se verifica no julgado a seguir:
+ ..  3. O STJ entende que o dano à coletividade pode ser aferido com base no critério administrativo (Portaria 320/PGFN) de crédito prioritário a partir de um milhão de reais e que, para tanto, os acréscimos relativos aos juros e à multa são considerados. Precedente.
+4. In casu, o acórdão impugnado destacou o valor dos tributos sonegados, da ordem de 127 milhões de reais, o que justifica a aplicação da referida causa de aumento. Nesse ponto, incide o óbice previsto na Súmula n. 83 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.275.117/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/9/2023.)
+Na hipótese dos autos, o valor dos tributos sonegados é superior a 2 milhões de reais (R$ 2.188.935,03), circunstância que justifica a incidência da referida causa de aumento, conforme declarado na sentença condenatória.
+Por fim, é importante registrar a possibilidade de se reconhecer a incidência da causa de aumento, prevista no art. 12, I, da Lei n. 8.137/1990, desde que a circunstância fática (expressivo valor sonegado) conste da denúncia, conforme ocorrido na hipótese.
+Nesse sentido:
+ ..
+4. Em relação à agravante prevista no art. 62, I, do Código Penal, resguardada a minha ressalva pessoal, sigo o entendimento majoritário da Turma de que não ofende o princípio da correlação a condenação por agravante não descrita na denúncia.
+5. Agravo regimental não provido.
+(AgRg no HC n. 644.659/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/4/2024)
+ ..
+6. Este Superior Tribunal de Justiça firmou entendimento no sentido de que o não recolhimento de expressiva quantia de tributo atrai a incidência da causa de aumento prevista no art. 12, inc. I, da Lei 8.137/90, pois configura grave dano à coletividade. De qualquer forma, a questão, como posta, não escapa à incidência da Súmula 7/STJ. (AgRg nos EDcl no AREsp 465.222/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/08/2016, DJe 29/08/2016).
+7. O réu se defende dos fatos narrados e não da tipificação a ele atribuída, razão pela qual pode o magistrado reconhecer a existência da causa da aumento prevista no art. 12, I, da Lei n. 8.137/90, descrita faticamente na denúncia, ainda que nela não expressamente indicada a correspondente tipificação legal da majorante.
+8. Recurso especial improvido.
+(REsp n. 1.524.528/PE, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 13/9/2017, destaquei.)
+Dessa forma, é necessária a reforma do acórdão recorrido, a fim de restabelecer integralmente a pena imposta ao acusado na sentença condenatória, qual seja, 3 anos, 1 mês e 10 dias de reclusão mais 180 dias-multa (1/5 do salário mínimo da época), em regime inicial aberto, mantida a substituição por duas restritivas de direito.
+II. Dispositivo
+À  vista  do  exposto,  dou provimento ao recurso especial, a fim de estabelecer a pena definitiva de Alfredo Silvino Barreto Bastos em 3 anos, 1 mês e 10 dias de reclusão mais 180 dias-multa (1/5 do salário mínimo da época), em regime inicial aberto, mantida a substituição por duas restritivas de direito.
+Publique-se  e  intimem-se.
+EMENTA
