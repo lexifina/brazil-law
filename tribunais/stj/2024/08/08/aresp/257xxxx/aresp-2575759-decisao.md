@@ -1,0 +1,49 @@
+DECISÃO
+CLEONES DOS SANTOS DA SILVA agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão na Apelação n. 0001023-95.2014.8.10.0111, que manteve a condenação do réu por homicídio qualificado.
+Nas razões do especial, a defesa apontou a violação do art. 593, III, "d", do CPP, ao argumentar que a decisão condenatória dos jurados é manifestamente contrária à prova dos autos. Afirmou: "não há prova que suporte a versão acusatória, não havendo demonstração, outrossim, de que o recorrente não agiu em legítima defesa" (fl. 747).
+Complementou: "não havendo um conjunto probatório construído sob o crivo do contraditório, ao menos plausível, capaz de suportar a decisão proferida pelos jurados, a desconstituição da decisão é a medida que se impõe" (fl. 479).
+Requereu a anulação do julgamento pelo Tribunal do Júri.
+O Tribunal de origem não admitiu o recurso, pelos óbices da Súmula n. 7 do STJ, o que ensejou esta interposição. O agravante alega que "os dados necessários para a sua solução (quadro probatório muito frágil e insuficiente para amparar o desate condenatório) faz parte da moldura fá tica delineada pelo acórdão recorrido" (fl. 780).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 818-819).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O recurso especial também suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos por que avanço na análise de mérito da controvérsia.
+II. Art. 593, III, "d", do CPP
+A decisão tomada pelos jurados, ainda que não seja a mais justa ou a mais harmônica com a jurisprudência dominante, é soberana, conforme disposto no art. 5º, XXXVIII, "c", da CF/1988.
+Tal princípio, todavia, é mitigado quando os jurados proferem decisum teratológico, em manifesta contrariedade às provas colacionadas nos autos, casos em que o veredito deve ser anulado pela instância revisora e o réu, submetido a novo julgamento perante o Tribunal do Júri.
+Conclui-se, portanto, que, nessa hipótese de insurgência - decisão manifestamente contrária à prova dos autos -, ao órgão recursal se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pelo Conselho de sentença. Somente se admite a cassação do veredito se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo. Caso contrário, deve ser preservado o juízo feito pelos jurados, no exercício da sua soberana função constitucional, como ocorreu na espécie.
+No caso em exame, o Tribunal de origem manteve a condenação do réu pelo crime do art. 121, § 2º, II e IV, do Código Penal, em acórdão assim fundamentado (fls. 723-724, destaquei):
+In casu, está o apelante a alegar ser a decisão dos jurados manifestamente contrária à prova dos autos, sob o argumento de que inexiste prova firme a apontar que o acusado não tenha agido em legítima defesa.
+Aponta, assim, para a fragilidade de provas de autoria delitiva a justificar o édito condenatório em relação ao crime descrito no art. 121, § 2º, II e IV, do Código Penal.
+Da leitura da ata da reunião da sessão do Tribunal do Júri, ocorrida em 21.06.2022 (ID nº20953627, págs. 16-21), infere-se que o órgão de acusação expôs a tese segundo a qual o ora apelante praticou o delito de homicídio qualificado, requestando sua condenação por infração ao art. 121, § 2º II e IV do CP, nos termos da pronúncia.
+Por outro lado, a defesa do réu, ora recorrente, pleiteou sua absolvição, sustentando a tese de legítima defesa.
+Em sequência, procedeu-se à quesitação, tendo os jurados respondido, por maioria, positivamente, quando indagados se réu praticou o crime em análise.
+Por sua vez, questionados se a lesão provocada causou a morte da vítima, o Conselho de Sentença também respondeu de forma positiva.
+Já em relação ao quesito sobre ter agido o réu em legítima defesa porque a vítima o teria ameaçado antes, foi perguntado se o jurado absolveria o acusado, sendo respondido de forma negativa.
+Quanto aos quesitos referentes ao cometimento do crime por motivo fútil e com emprego de recurso que dificultou ou tornou impossível a defesa da vítima, os jurados responderam sim, por maioria.
+Conclui-se, portanto, que, apresentadas ao Conselho de Sentença duas versões relativas ao fato imputado ao réu, escolheu-se integralmente aquela exposta pela acusação, a saber, que o apelante agiu dolosamente para ceifar a vida de Francisco Barbosa Costa, por motivo fútil em ediante recurso que dificultou ou tornou impossível a defesa da vítima.
+Ressalte-se que a tese arguida pelo Ministério Público, ao contrário do argumentado no apelo defensivo, encontra-se amparada no arcabouço probatório reunido nos autos.
+Da análise do processo, e consoante apontado pelo Ministério Público Estadual, destaco os depoimentos das testemunhas, inclusive os de Francisco das Chagas Santos Fernandes e dos informantes Gilcilone da Silva Rocha, Manuel Nunes da Rocha e Josenir dos Santos, (registros audiovisuais da audiência ínsitos nos links disponíveis no ID nº 20953601), que embora não tenham presenciado o fato criminoso, foram uníssonas em colocar Cleones dos Santos da Silvana cena do crime.
+Destarte, por não vislumbrar flagrante contrariedade do julgamento levado a efeito pelo Conselho de Sentença com relação às provas dos autos, sobretudo quanto a elementos de autoria e materialidade produzidos em Juízo, entendo que deve prevalecer a soberania do veredicto pela condenação de Cleones dos Santos da Silva no crime do art. 121, § 2º, II e IV, do Código Penal, cumprindo ressaltar que o Tribunal do Júri reconheceu, ademais, a incidência das qualificadoras atinentes ao motivo fútil e ao recurso que dificultou ou tornou impossível a defesa da vítima.
+A Corte local mencionou que a tese acusatória - de que o réu praticou o homicídio qualificado - foi corroborada por depoimentos testemunhais e sustentada, em plenário, pelo Ministério Público. Assim, não há violação do art. 593, III, "d", do CPP, uma vez que o acórdão recorrido concluiu, fundamentadamente, que o veredito dos jurados não estava manifestamente dissociado do conjunto probatório. O Conselho de Sentença apenas escolheu a versão que lhe pareceu mais verossímil e decidiu a causa conforme suas convicções.
+Reitero que não cabe ao Tribunal estadual, tampouco a esta Corte Superior, valorar as provas dos autos e decidir pela tese prevalente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É cabível, tão somente, averiguar se a versão acolhida pelos jurados encontra respaldo no caderno probatório, o que ficou demonstrado no caso em exame; logo, não houve infringência ao art. 593, III, "d", do CPP.
+Embora a defesa faça menção à natureza indireta da prova testemunhal - e de sua consequente insuficiência para amparar a condenação -, trata-se de matéria não apreciada no acórdão de apelação. O Tribunal de origem não examinou a causa sob esse viés e a parte não opôs embargos declaratórios para sanar eventual omissão. Ademais, não é possível alterar as premissas fáticas estabelecidas pelas instâncias ordinárias nem reexaminar as provas dos autos, em razão do óbice da Súmula n. 7 do STJ. Nessa perspectiva:
+ ..  O Tribunal do Júri é soberano para decidir com fundamento nas provas produzidas no processo judicial, as quais serão submetidas ao crivo do contraditório e da ampla defesa. Dessa forma, o acolhimento pelo Conselho de Sentença de uma das teses existentes não resulta em decisão manifestamente contrária à prova dos autos, quando existente elemento probatório apto a amparar a decisão dos jurados.
+4. No presente caso, a Corte a quo, ao analisar os autos, em decisão devidamente motivada, entendeu que a decisão dos jurados, em condenar o acusado, encontra-se fundamentada na prova dos autos.
+Assim, concluir que a decisão do Júri mostrou-se dissociada das provas constante dos autos, como requer a parte recorrente, implica o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 1.819.464/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/3/2021)
+ ..  A teor do entendimento desta Corte, não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados.
+6. A pretendida revisão do julgado para se acolher a tese de julgamento contrário às provas dos autos, na medida em que demanda o confronto do veredicto do Conselho de Sentença com os fatos e provas dos autos, esbarra no óbice da Súmula 7/STJ.
+7. Agravo regimental improvido.
+(AgRg no REsp 1.885.871/DF, Rel. Ministro Nefi Cordeiro, DJe 5/3/2021)
+ ..
+1. Para se refutar o entendimento adotado pelo Tribunal de origem, segundo o qual a conclusão a que chegou o corpo de jurados encontra respaldo nas provas produzidas (representando, assim, simples adesão a uma das teses defendidas em plenário pela defesa), seria necessário o efetivo revolvimento do caderno processual, providência inviável na estrita seara do especial, a teor da Súmula n. 7/STJ.
+Precedentes.
+ ..
+(AgRg no AREsp n. 1.822.435/DF, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/8/2021)
+III. Dispositivo
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
