@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RENAN GOMES DE OLIVEIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, no julgamento da apelação criminal n. 0000620-74.2020.8.15.0371.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 5 anos, 2 meses e 15 dias de reclusão, em regime semiaberto, mais pagamento de 520 dias-multa, pela prática do crime descrito no artigo 33, caput, da Lei n. 11.343/06 (fls. 17-29).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, deu parcial provimento ao apelo defensivo para reduzir a pena do paciente para 5 anos de reclusão, mais pagamento de 500 dias-multa, consoante voto condutor do acórdão de fls. 42-56.
+Dai o presente writ, onde o impetrante aponta constrangimento ilegal na negativa de reconhecimento da causa especial de diminuição do § 4º do artigo 33 da Lei de Drogas.
+Para tanto, sustenta que " ..  a quantidade de droga apreendida foi sopesada, isoladamente (ou seja, sem nenhum outro fundamento idôneo), para levar à conclusão de que o paciente seria dedicada a atividades criminosas, fica evidenciado o constrangimento ilegal de que estaria sendo vítima. Até porque, o paciente foi absolvido do crime de associação para o tráfico, conforme art. 35 da Lei de Tóxicos." (fl. 9).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem " ..  a fim de reconhecer a minorante prevista no §4º do art. 33 da lei 11.343/06 em favor do paciente e aplicá-la no patamar máximo e, ainda, a detração do tempo que permaneceu encarcerado a fim de readequar a reprimenda imposta ao réu, e consequentemente, modificar o regime inicial de cumprimento de pena." (fl. 12).
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração o reconhecimento da figura do tráfico privilegiado, com consequente detração e readequação do regime prisional.
+Ocorre que o habeas corpus investe contra acórdão do Tribunal de Justiça do Estado da Paraíba com trânsito em julgado, em substituição à revisão criminal, não podendo ser conhecido.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019)
+Por outro lado, a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Com efeito, o parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas, nem integre organização criminosa.
+Assinale-se, ainda, que a Terceira Seção deste Sodalício firmou o entendimento de que, a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no artigo 33, § 4º, da Lei n. 11.343/06.
+Nesse sentido: AgRg no AREsp n. 2.296.168/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/5/2023 e AgRg no AgRg no AgRg no AREsp n. 2.108.796/SC, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 15/12/2022.
+Na presente hipótese, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o benefício capitulado no parágrafo 4º, do art. 33 da Lei n. 11.343/06 foi afastado, tão somente, com base na quantidade de drogas apreendidas, a saber, "105 (cento e cinco) papelotes de substância vegetal semelhante a maconha, 114 (cento e catorze) papelotes de substância de cor amarelada, semelhante a crack, 14 (catorze) papelotes desubstância de cor branca, semelhante a cocaína" (fl. 18).
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06.
+Passo, assim, ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 anos de reclusão, mais pagamento de 500 dias-multa (fl. 54).
+Na segunda fase, a reprimenda permaneceu inalterada (Súmula 231 do STJ).
+Na terceira fase, ausentes outras causas modificadoras, reduzo a pena em 1/6, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, alcançando a reprimenda o total definitivo de 4 anos e 2 meses de reclusão e 416 dias-multa.
+No ponto, abro um parêntese para destacar que, segundo os autos, foram apreendidos com o paciente "105 (cento e cinco) papelotes de substância vegetal semelhante a maconha, 114 (cento e catorze) papelotes de substância de cor amarelada, semelhante a crack, 14 (catorze) papelotes desubstância de cor branca, semelhante a cocaína" (fl. 18). Como tal vetorial não foi considerada quando da fixação da pena-base, justifica a modulação da causa especial de diminuição.
+De mais a mais, o regime prisional inicial deve ser o semiaberto, nos termos determinados pelo art. 33, § 2º, do Código Penal, tendo em vista o quantum de pena e a integral favorabilidade das circunstâncias judiciais.
+Nesse compasso, verifica-se que o acusado não atende ao requisito objetivo da substituição da pena privativa de liberdade por restritiva de direitos, porquanto condenado à pena superior a 4 anos.
+Por fim, uma vez que já houve o trânsito em julgado da condenação, a pretendida aplicação da detração penal deve ser pleiteada ao Juízo das Execuções Penais, a quem caberá a análise do pedido, juntamente com eventual pleito de progressão de regime.
+Ante o exposto, não conheço do habeas corpus. Concedo em parte a ordem, de ofício, para redimensionar a reprimenda do paciente para 4 anos e 2 meses de reclusão e 416 dias-multa, bem como fixar o regime prisional semiaberto para o início do cumprimento da pena, sendo extensivo ao corréu, Thiago Pereira da Silva, nos termos do artigo 580 do Código de Processo Penal.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
