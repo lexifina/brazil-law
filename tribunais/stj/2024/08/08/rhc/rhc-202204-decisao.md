@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ANTONIEL SILVA DA CRUZ desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5646793-94.2024.8.09.0000).
+Depreende-se dos autos que o recorrente, processado pela prática de furto, teve concedida a liberdade provisória mediante a imposição de medidas cautelares, inclusive com uso de monitoração eletrônica.
+Impetrado prévio writ na origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 131):
+Furto. Liberdade provisória, com monitoração eletrônica. Habeas corpus sustentando desproporcionalidade do uso de equipamento de monitoração. (1) O paciente é suspeito de subtrair uma bicicleta, que estaria na porta de uma panificadora e a revendido, segundo as declarações dele, para um traficante. (2) O crime não foi cometido com emprego de violência ou grave ameaça, razão pela qual, foi concedida liberdade provisória, com cautelares diversas, dentre elas, o monitoramento eletrônico.(3) Embora a Defensoria Pública tenha sustentado desproporcionalidade do monitoramento eletrônico, assevera-se que: (a) o paciente possui condenação, sem trânsito em julgado, por furto simples; (b) possui ação penal por furto qualificado, em tramitação; e (c) possui inquérito policial por suspeita de furto, no qual também foi concedida liberdade provisória em 16/2/2024, com imposição de cautelares diversas, as quais não o teriam impedido de, em tese, praticar novo delito de mesma espécie. (4) Ordem conhecida e denegada.
+No presente recurso, a defesa sustenta ausência dos requisitos da medida de monitoramento eletrônico.
+Afirma que, muito embora o acórdão tenha fundamentado a manutenção do uso do monitoramento eletrônico nos antecedentes criminais, o recorrente não possui condenação em crime doloso transitada em julgado. Ademais, o ilícito foi praticado sem violência ou grave ameaça, e a pena a ele relativa não supera 4 anos.
+Requer, liminarmente e no mérito, a revogação do monitoramento eletrônico.
+É o relatório.
+Decido.
+Consoante relatado, a defesa se insurge contra a imposição da medida cautelar de monitoração eletrônica.
+É importante ressaltar que, "para a aplicação das medidas cautelares diversas da prisão, exige-se fundamentação específica que demonstre a necessidade e adequação da medida em relação ao caso concreto" (HC n. 399.099/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 21/11/2017, DJe de 1º/12/2017).
+Ademais, "para a imposição das medidas cautelares deverá ser observada a presença do fumus comissi delicti - materialidade e indícios de autoria - e do periculum ao regular andamento da ação penal, exigindo-se, ainda, em cada caso concreto, o exame dos vetores necessidade e adequabilidade" (RHC n. 93.516/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 6/11/2018, DJe 16/11/2018).
+No caso, são estes os fundamentos invocados pelo Tribunal de origem para manter a medida de monitoração eletrônica (e-STJ fls. 133/135):
+Na audiência de custódia, foi concedida liberdade provisória, com imposição de cautelares diversas, dentre elas, a monitoração eletrônica, nos seguintes termos (fl.94):
+"Compulsando, detidamente, o opúsculo objurgado extraio como possível o restabelecimento do ius libertatis de Antoniel Silva da Cruz."
+"A restituição da liberdade, tanto quanto extraio em linha preliminar, pode não colocar em risco a garantia da ordem pública, o resguardo da instrução criminal e a aplicação da lei penal, já que serão aplicadas medidas descarcerizadoras."
+"Em consulta à(s) certidão(ões) de antecedentes criminais juntada(s) no movimento nº 06 e 11, extraio que Antoniel Silva da Cruz, responde a outro(s)procedimento(s) em trâmite na(o) 1ª Vara das Garantias da Comarca de Goiânia-GO (autos nº 5098714-85.2024.8.09.0051 - por furto), 5ª Vara de Crimes Punidos com Reclusão e Detenção da Comarca de Goiânia-GO (autos nº 5135211-98.2024.8.09.0051 - por furto qualificado), 3ª Vara de Crimes Punidos com Reclusão e Detenção da Comarca de Goiânia-GO (autos nº 5672825-17.2023.8.09.0051 - por furto) e 7ª Vara de Crimes Punidos com Reclusão e Detenção da Comarca de Goiânia-GO (autos nº 5685072-30.2023.8.09.0051 - por furto qualificado), sendo primário."
+"Dentre as soluções ofertadas pela Lei nº 12.403/2011, no procedimento objurgado a segregação preventiva não é a medida mais eficaz, já que as cautelares prisionais deverão ser impostas a criminosos eventuais, o que se configura no caso sub examine, em que pese a gravidade da conduta."
+"Vergando-me ao acervo probatório carreado ao feito e em consonância como sistema normativo processual penal pátrio, o autuado será submetido aos favores normativos."
+"Ex positis, concedo liberdade provisória vinculada ao cumprimento das medidas cautelares abaixo relacionadas, já que nos moldes transcritos em nosso ordenamento jurídico, as mesmas ensejam a possibilidade do juízo ter controle das atividades diárias desenvolvidas pelo flagrado após a outorga da benesse e, bem assim, visam impedir que o mesmo obstaculize a instrução do feito criminal ou reitere na prática de outras infrações penais:"
+"a) comparecimento semestral à sede do juízo, durante o curso da persecução penal, para informar e justificar suas atividades."
+"b) comparecimento a todos os atos do procedimento para os quais seja intimado;"
+"c) que não frequente casas de tavolagem, de prostituição e outros locais de má fama;"
+"d) que não mude de residência, sem prévia cientificação da autoridade processante;"
+"e) que se ausente desta comarca somente com autorização judicial."
+"f) que não pratique qualquer outro crime ou contravenção."
+"g) monitoração eletrônica, pelo período de 90 (noventa) dias da instalação do equipamento. Decorrido o prazo, o equipamento deverá ser retirado independentemente de nova ordem judicial;"
+"h) ser levado à Unidade Prisional para tomar conhecimento dos requisitos do uso e instalação do aparelho eletrônico;"
+"i) não ter nenhum tipo de comportamento que possa afetar o normal funcionamento da tornozeleira eletrônica, especialmente atos tendentes a desligá-la ou dificultar a transmissão das informações para a Unidade Gestora de Monitoração Eletrônica, causar estragos ao equipamento ou permitir que outrem o faça;"
+"j) informar, imediatamente, à Unidade Gestora de Monitoração Eletrônica se detectar falhas no equipamento;"
+"k)recarregar a tornozeleira, de forma correta, todos os dias, conforme orientação da equipe de instalação;
+"l) comparecer, quando convocada, à Unidade Gestora de Monitoração Eletrônica, devendo retornar após, de imediato, ao seu domicílio, local da sua prisão;"
+"m)atender com rapidez e boa vontade as intimações das autoridades judiciárias e policiais e fornecer todas as informações requisitadas pelos órgãos de fiscalização destas condições;"
+"n) receber visita da fiscalização pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações;"
+"o) portar documento de identidade e cópia desta decisão para exibi-los quando solicitados;"
+"p) deverá comparecer, imediatamente após a audiência de custódia ao Serviço de Atendimento à Pessoa Custodiada - APEC, situada(o) no Fórum Cível Doutor Heitor Moraes Fleury (Av. Olinda, 722, quadra G, lote 04, Park Lozandes, Goiânia-GO, 74884-120,subsolo sala S-12, telefones (62) 3018-8408 - (62) 3018-8409- (62) 3018-8412), para acolhimento e encaminhamento à rede de proteção social, consoante determinação do Conselho Nacional de Justiça."
+"O descumprimento das condições elencadas supra acarretará a imediata revogação do benefício."
+A Defensoria Pública insurge-se contra a imposição do monitoramento eletrônico, sustentando desproporcionalidade com a conduta imputada.
+II. Tese de desproporcionalidade do monitoramento eletrônico.
+No caso, o paciente é suspeito de subtrair uma bicicleta, que estaria na porta de uma panificadora e a revendido, segundo as declarações dele, para um traficante.
+De fato, o crime não foi cometido com emprego de violência ou grave ameaça, razão pela qual, foi concedida liberdade provisória, com cautelares diversas, dentre elas, o monitoramento eletrônico.
+Embora a Defensoria Pública tenha sustentado desproporcionalidade do monitoramento eletrônico, notadamente, pelas circunstâncias em que o delito foi cometido, assevera-se que: (a) o paciente possui condenação, sem trânsito em julgado, por furto simples; (b) possui ação penal por furto qualificado, em tramitação; e (c) possui inquérito policial por suspeita de furto (Proc. 5098714-85), no qual também foi concedida liberdade provisória em 16/2/2024, com imposição de cautelares diversas, as quais não o teriam impedido de, em tese, praticar novo delito de mesma espécie.
+Assim, as condições pessoais do paciente indicam que, para a garantia da ordem pública, é necessária e adequada a manutenção da monitoração eletrônica.
+Como se pode observar, há fundamentos idôneos à imposição do monitoramento eletrônico (art. 319, inciso IX, do CPP), que não se mostra desproporcional, mas, ao contrário, constitui meio de fiscalização das demais medidas cautelares concomitantemente impostas.
+A propósito, confiram-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MEDIDA CAUTELAR DE MONITORAMENTO ELETRÔNICO. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE COMPROVADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE INDEVIDA SUPLEMENTAÇÃO DE FUNDAMENTOS. NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte firmou entendimento no sentido de que, "para a aplicação das medidas cautelares diversas da prisão, exige-se fundamentação específica que demonstre a necessidade e adequação de cada medida imposta no caso concreto (HC 480.001/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 7/3/2019).
+2. Hipótese em que o agravante foi preso em flagrante na posse de vultosa quantia, sem a devida comprovação de origem, em moeda nacional e estrangeira (R$ 42.276 00 - quarenta e dois mil e duzentos e setenta e seis reais - e US$ 40.000,00 - quarenta mil dólares), havendo notícia, prestada pelo próprio flagranteado, que tais valores teriam relação com o crime de descaminho.
+3. Contexto fático que demonstra a presença de fundadas razões para aplicação da medida cautelar de monitoramento eletrônico, que, a um só tempo, assegura de forma eficaz a ordem pública, diminuindo os riscos de reiteração delitiva, bem como evita a adoção de medida mais invasiva, a exemplo da prisão provisória, que, em tese, seria cabível diante da notícia de existência de ações penais tendo por objeto delitos semelhantes.
+4. Ausência de demonstração de indevida suplementação de fundamentos por parte da Corte local, considerando que a decisão proferida pelo juízo singular destacou expressamente a necessidade do monitoramento eletrônico para minimizar risco de reiteração delitiva, vinculando o investigado ao distrito de culpa.
+5. Agrado regimental desprovido.
+(AgRg no RHC n. 194.619/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1º/7/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE RECEPTAÇÃO. IMPUGNAÇÃO ÀS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO IMPOSTAS QUANDO DA HOMOLOGAÇÃO DO FLAGRANTE. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE E RAZOABILIDADE. MULTIREINCIDENCIA EM CRIMES PATRIMONIAIS. REVOGAÇÃO DO MONITORAMENTO ELETRÔNICO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O Juízo de primeira instância homologou o flagrante e, considerando a multirreincidência do Agravante em crimes contra o patrimônio, pois ostenta seis condenações anteriores por furto, além de responder outras ações penais por diversos crimes, estabeleceu as medidas cautelares diversas da prisão de "1) obrigação de manter o endereço atualizado; 2) proibição de se ausentar da Comarca; 3) recolhimento domiciliar no período noturno e nos dias de folga; e 4) monitoramento eletrônico".
+2. As medidas foram fundamentadas e inexiste desproporcionalidade ou ausência de razoabilidade nas cautelares impostas, mostrando-se prematura a revogação do monitoramento eletrônico que, diante das peculiaridades do caso, está adequadamente justificado, sobretudo considerando a reiteração delitiva do Réu, que apesar de ostentar diversas condenações e responder a outros processos, está em relativa liberdade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 649.960/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+PROCESSUAL PENAL. HABEAS CORPUS. DESCAMINHO E ASSOCIAÇÃO CRIMINOSA. CAUTELARES DIVERSAS DA PRISÃO. MONITORAMENTO ELETRÔNICO. RECOLHIMENTO NOTURNO. MODUS OPERANDI E MAUS ANTECEDENTES. FUNDAMENTO IDÔNEO. ORDEM DENEGADA.
+1. A aplicação de medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal, exige fundamentação idônea. Precedentes.
+2. No caso, a aplicação das cautelares de monitoramento eletrônico e de recolhimento noturno se encontra justificada, haja vista a necessidade de impedir a reiteração delitiva, tendo em vista não só o modus operandi utilizado, que reclamava o deslocamento dos pacientes para outro país, como também o fato de um dos pacientes (Renan) apresentar maus antecedentes.
+3. Ordem denegada.
+(HC n. 532.927/PR, de minha relatoria, Sexta Turma, julgado em 26/11/2019, DJe de 5/12/2019.)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
