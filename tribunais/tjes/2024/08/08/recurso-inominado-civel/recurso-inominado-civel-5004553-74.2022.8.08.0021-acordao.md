@@ -1,0 +1,63 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5004553-74.2022.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: FELIPE ROCHA MENDES TEIXEIRA
+RECORRIDO: JULIANDERSON DOS SANTOS
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro aos autores os benefícios da assistência judiciária gratuita.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO EM DANOS MATERIAIS E MORAIS. COMPRA DE PRODUTO REALIZADA POR WHATSAPP. PRODUTO NÃO ENTREGUE. DANO MORAL E LUCROS CESSANTES NÃO COMPROVADOS.
+
+ALEGA A PARTE AUTORA QUE NO DIA 09 DE MAIO DE 2022 EFETUOU A COMPRA DE 06 AGASALHOS, JUNTO À EMPRESA RÉ PELO WHATSAPP, COM PAGAMENTO EM 02 PARCELAS, NO VALOR DE R$ 420,00, PORÉM, PASSADOS MAIS DE 50 DIAS, OS PRODUTOS NÃO FORAM ENTREGUES. ACRESCENTA O REQUERENTE QUE É PROFISSIONAL DA ÁREA DE ESPORTES E REALIZOU A COMPRA DOS AGASALHOS PARA REVENDER AOS ALUNOS, PORÉM PELA DEMORA, ESTES DESISTIRAM DA COMPRA, ALEGANDO QUE EM RAZÃO DISSO, CHEGOU A PERDER ALGUNS ALUNOS. ASSIM, REQUER A RESTITUIÇÃO DO VALOR DE R$ 420,00, A QUANTIA DE R$5.000,00 A TÍTULO DE LUCROS CESSANTES, E POR FIM, A INDENIZAÇÃO POR DANOS MORAIS DE R$5.000,00.
+
+SENTENÇA
+QUE JULGOU PROCEDENTE O PEDIDO DA PARTE AUTORA NO TOCANTE AO PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS, DEVENDO A PARTE RÉ SER CONDENADA AO PAGAMENTO NA QUANTIA DE R$ 420,00. E IMPROCEDENTE O PEDIDO DE LUCROS CESSANTES E INDENIZAÇÃO POR DANOS MORAIS.
+
+RECURSO INOMINADO DA PARTE REQUERENTE
+PLEITEANDO A CONDENAÇÃO POR DANO MORAL E LUCROS CESSANTES.
+
+RECURSO CONHECIDO E IMPROVIDO
+. NESSE SENTIDO ESCORREITA A SENTENÇA DE PRIMEIRO GRAU: “
+No entanto, inviável qualquer reparação quanto ao lucro cessante, pois este depende de prova efetiva, não havendo nos autos elemento probatório contundente sobre o ganho médio, cujo ônus era da parte autora, em respeito e atenção às determinações contidas no artigo 434 do Código de Processo Civil. Nesse sentido”
+. A LESÃO MORAL DECORRE, DENTRE OUTROS FATORES, DO SOFRIMENTO EXPERIMENTADO PELA PESSOA, CAUSANDO SIGNIFICATIVA PERTURBAÇÃO NO SEU BEM-ESTAR PSÍQUICO E NA SUA TRANQUILIDADE, AFETANDO, DESTA FORMA, OS DIREITOS DA PERSONALIDADE, NÃO SE CONFUNDINDO COM OS MEROS DISSABORES COTIDIANOS ORIUNDOS DOS RELACIONAMENTOS PESSOAIS E PROFISSIONAIS. ASSIM, NÃO INDUZEM AO RECONHECIMENTO DO DANO MORAL, CERTAS SITUAÇÕES QUE, A DESPEITO DE SEREM DESAGRADÁVEIS, SÃO INERENTES À VIDA EM SOCIEDADE.
+
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+,
+NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE AO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”. SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL, ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DO AUTOR.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
