@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Social - INSS, contra decisão que inadmitiu recurso especial.
+O apelo nobre obstado, interposto com fundamento no art. 105, inciso III, na alínea "a", da CF, ataca acórdão do TRF da 4ª Região, assim ementado (e-STJ fl. 535)
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. ART. 203, V, DA CONSTITUIÇÃO FEDERAL DE 1988. LEI Nº 8.742/93. REQUISITOS.
+1. O direito ao benefício assistencial previsto no art. 203, V, da Constituição Federal pressupõe o preenchimento dos seguintes requisitos: a) condição de deficiente (incapacidade para o trabalho e para a vida independente, de acordo com a redação original do artigo 20 da Lei 8.742/93; ou impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir a participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, conforme redação atual do referido dispositivo) ou idoso (neste caso, considerando-se, desde 01.01.2004, a idade de 65 anos); e b) situação de risco social (estado de miserabilidade, hipossuficiência econômica ou situação de desamparo) da parte autora e de sua família.
+2. Não atendidos os requisitos definidos pela Lei n. 8.742/93, a parte autora não tem direito ao benefício assistencial de prestação continuada previsto no artigo 203, V, da Constituição Federal.
+Embargos de declaração rejeitados (e-STJ fls. 576-581).
+O recorrente alega, em preliminar, que o acórdão recorrido violou o art. 1.022, II, do CPC/2015, pois a despeito de adequadamente provocado, o TRF da 4ª Região deixou de enfrentar o art. 2º da lei 13.146/2015 c.c. art. 20, §3º, da Lei nº 8.742/93 art. 34, § único., limitando-se a afirmar que inexiste omissão a ser sanada. Defende que:
+Quanto à questão de fundo, alega violação do art. 2º da lei n. 13.146/2015, do Estatuto da Pessoa com Deficiência e art. 20, §§2º e 3º, da Lei n. 8.742/93, uma vez que a miserabilidade do núcleo familiar resta automaticamente inferida, pois a renda remanescente é insuficiente para fazer frente às despesas essenciais da família, consoante os elementos fáticos admitidos no próprio acórdão e o grau de deficiência.
+Por fim, requer "seja provido o presente recurso especial para o fim de se excluir o Laudo Pericial Lacônico na aferição do quesito da incapacidade e da miserabilidade" (e-STJ fl. 600).
+Transcorrido in albis o prazo para apresentação de contrarrazões, sobreveio decisão inadmitindo o recurso especial (e-STJ fls. 607-609).
+Neste agravo o agravante afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista (Enunciado Administrativo n. 3, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Considerando que a agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Na origem, cuida-se de ação ordinária ajuizada por Saulo Ferreira Ramos contra o INSS, pretendendo o restabelecimento de benefício de amparo ao deficiente ou concessão do benefício de prestação continuada. O Juízo de primeiro grau julgou improcedente o pedido autoral. O Tribunal a quo, ao apreciar a apelação da parte autora, manteve a sentença julgando improcedente o apelo.
+Dito isso, tem-se que a irresignação não merece prosperar.
+Verifica-se, de início, que não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal local haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+Por outro lado, o Tribunal de origem decidiu pela não implementação dos requisitos exigidos para a concessão do benefício assistencial, mormente porque não restou minimamente comprovada a condição de deficiente do autor que o impediria a sua participação plena e efetiva na sociedade. Assim, ao examinar a situação concreta dos autos, restou consignado no acórdão recorrido os seguintes fundamentos (e-STJ fls. 547-554):
+Caso Concreto
+Na hipótese vertente, a parte autora busca o pagamento do benefício assistencial à pessoa portadora de deficiência.
+A sentença julgou improcedente o pedido, sob a fundamentação de que a parte autora não comprovou o preenchimento do requisito legal referente deficiência.
+No tocante à condição de deficiência, o laudo médico pericial atesta que, embora apresente perda de audição (CID H90), o autor não encontra-se incapacitado para a atividade laboral (ev. 79.1).
+ ..
+Tenho, pois, que a sentença, da lavra do MM. Juiz de Direito, Dr. Rodolfo Figueiredo de Faria, examinou e decidiu com precisão todos os pontos relevantes da lide, devolvidos à apreciação do Tribunal, assim como o respectivo conjunto probatório produzido nos autos. As questões suscitadas no recurso não têm o condão de ilidir os fundamentos da decisão recorrida. Evidenciando-se a desnecessidade da construção de nova fundamentação jurídica, destinada à confirmação da bem lançada sentença, transcrevo e adoto como razões de decidir os seus fundamentos, in verbis:
+"No caso dos autos, a perícia médica constatou que o autor possui diagnóstico de perda de audição (CID H90). Entretanto, foi conclusiva no que se refere à inexistência de incapacidade, seja para o labor, seja para as atividades diárias (mov. 79). Vejamos:
+ ..
+Em síntese, a apelação restringe-se a argumentar que o autor cumpre com os requisitos exigidos para o recebimento do benefício assistencial e, ademais, salienta que a perícia médica produzida foi insuficiente e, assim, requer a anulação da sentença para que se produza um novo laudo médico por profissional especializado no ramo de otorrinolaringologia.
+Pois bem, inicialmente, cumpre salientar que a prova se direciona ao magistrado, ao qual incumbe aferir da suficiência do material probatório produzido para a entrega da prestação jurisdicional. Com efeito, o julgador, via de regra, firma sua convicção com base no laudo do expert, embora não esteja jungido à sua literalidade, sendo-lhe facultada ampla e livre avaliação da prova.
+O laudo judicial é completo, coerente e não apresenta contradições formais, tendo se prestado ao fim ao qual se destina, que é o de fornecer ao juízo a quo os subsídios de ordem médico/clínica para a formação da convicção jurídica. O quadro apresentado pela parte autora, na data da feitura da perícia, foi descrito de forma satisfatória e clara, demonstrando que foi considerado o seu histórico, bem como realizado o exame físico.
+Vale destacar, ademais, que o perito judicial é profissional de confiança do juízo, que tem por compromisso examinar a parte com imparcialidade. A mera discordância da parte quanto às conclusões periciais, quando os quesitos foram satisfatoriamente respondidos, não tem poder de descaracterizar a prova.
+Ademais, esta Corte tem decidido que, quando suficientes as informações contidas no laudo pericial, não se faz necessária a realização de nova perícia médica, verbis:
+ ..
+No caso em tela, há no laudo pericial informações suficientes para que o Juízo possa decidir corretamente, pois o perito responde todos os quesitos e esclarece todas as questões importantes para a solução do caso (ev.79.1).
+Demais disso, assim como registrado pelo magistrado a quo, cumpre salientar que a veracidade do estudo médico realizado resta comprovado quando se analisa a perícia produzida no processo n. 5004248-79.2018.4.04.7004, onde o autor pleiteou o restabelecimento do benefício previdenciário de auxílio-doença, que foi indeferido pela inexistência de incapacidade laboral.
+Impende salientar, ainda, que o autor, após ter seu benefício cessado em 23.07.2003, laborou desde 2005 até 2019.  ..
+ ..
+Todavia, cumpre ressaltar que há de ser feita uma distinção entre a incapacidade laboral e a condição de deficiência, uma não se confunde com a outra.
+O diagnóstico do autor é inequívoco quanto a sua condição de surdez bilateral, entretanto, o benefício assistencial de prestação continuada é devido àqueles que cumprem com a totalidade dos requisitos, sendo eles: pessoa com deficiência ou idoso com 65 (sessenta e cinco) anos ou mais que comprovem não possuir meios de prover a própria manutenção nem de tê- la provida por sua família.
+Dado o exposto, percebe-se que o autor, embora possua perda de audição (CID H90), está apto para prover a sua própria manutenção.
+Dessa forma, uma vez que se tratam de exigências cumulativas, resta prejudicada a análise quanto ao cumprimento do requisito de miserabilidade e vulnerabilidade social.
+Portanto, não atendidos os requisitos legais definidos pela Lei n. 8.742/93, o direito da parte autora à concessão do benefício assistencial de prestação continuada, previsto no artigo 203, V, da Constituição Federal, não deve ser reconhecido.
+Examinando-se de forma percuciente o acórdão recorrido, em confronto com o recurso especial, verifica-se que os fundamentos do acórdão recorrido não foram impugnados, limitando-se o recorrente a defender a "exclusão do Laudo Pericial que avalia lacônico" e a defender a sua condição de miserabilidade. Dessa forma, aplicam-se, analogicamente, os enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal, uma vez que os argumentos do recurso especial se mostram dissociados dos alicerces esposados na decisão recorrida, não os impugnando adequadamente.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.  ..  FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. RAZÕES DO RECURSO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+ ..
+III. Os fundamentos adotados pela Corte de origem não foram objeto de impugnação específica, no Recurso Especial, cujas razões estão dissociadas dos fundamentos do acórdão recorrido, devendo incidir, nesse ponto, os óbices das Súmulas 283 e 284 do STF. Precedentes do STJ.
+ ..
+V. Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no REsp n. 1.781.824/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 20/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. MÚTUO. SÚMULA 284/STF. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACÓRDÃO RECORRIDO QUE APRESENTOU FUNDAMENTAÇÃO SUCINTA, MAS SUFICIENTE. EXAME ESPECÍFICO DO CASO CONCRETO. AUSÊNCIA DE FUNDAMENTAÇÃO GENÉRICA. PRESCRIÇÃO. TERMO INICIAL. CONSTITUIÇÃO EM MORA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. ALEGAÇÃO DE QUE A MORA NÃO SERIA EX PERSONA. IMPOSSIBILIDADE DE REEXAME DE FATOS. SÚMULA 7/STJ. JUROS DE MORA APLICÁVEIS DESDE A DATA DA INTERPELAÇÃO EXTRAJUDICIAL. SÚMULA 7/STJ.
+1. Não deve ser conhecido o agravo interno quanto às questões sobre as quais há fundamentos da decisão agravada que não foram especificamente impugnados.
+ ..
+AGRAVO INTERNO CONHECIDO EM PARTE E DESPROVIDO.
+(AgInt no REsp 1859831/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 18/12/2020)
+Ademais, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Na mesma linha de entendimento precedentes desta Corte:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, COM BASE NAS PROVAS DOS AUTOS E EM EXAME DO LAUDO PERICIAL, RECONHECE A AUSÊNCIA DOS REQUISITOS LEGAIS AUTORIZADORES DA CONCESSÃO DO BENEFÍCIO. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. Cuida-se, na origem, de Ação Ordinária proposta contra o INSS com vistas à concessão do benefício de auxílio-acidente.
+ ..
+3. In casu, apesar da alegação do recorrente de que seu Recurso não pretende reexame de prova, mas sim sua revaloração, saliento que não é possível o seguimento do Recurso Especial quando nele visa-se reformar entendimento do Tribunal de origem, que, calcado no suporte fático-probatório dos autos, concluiu pela inexistência de incapacidade laboral apta à concessão do benefício do auxílio-acidente. Óbice intransponível da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. A incidência da referida súmula é óbice também para o exame da divergência jurisprudencial, o que inviabiliza o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp n. 2.232.670/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/6/2023, DJe de 27/6/2023.)
+PROCESSO CIVIL. PREVIDENCIÁRIO. AUXÍLIO ACIDENTE. TERMO INICIAL. DIB. RECURSO ESPECIAL INADMITIDO. SÚMULA N. 284 DO STF E SÚMULA N. 7 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, trata-se de ação de indenização por acidente do trabalho contra o INSS, alegando, em suma, que em virtude das condições agressivas do trabalho que desempenhava, foi acometido de perda auditiva, moléstia que reduziu sua capacidade laborativa, pleiteando, assim, benefício acidentário. Na sentença, julgou-se improcedente o pedido. No Tribunal a sentença foi mantida, ao argumento de ausência de incapacidade laborativa a ensejar indenização pretendida.
+ ..
+V - Por outro lado verifica-se que a afirmação do recorrente da existência de documentos comprobatórios da perda laborativa vai de encontro à convicção do magistrado que, fundado na prova dos autos, entendeu o contrário. Incidência da súmula 7/STJ.
+VI - Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+ ..
+VIII - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.959.171/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 .
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO E RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
