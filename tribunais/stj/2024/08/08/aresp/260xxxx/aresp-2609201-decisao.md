@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLUBE PIRATININGA impugnando decisão que inadmitiu recurso especial interposto contra acórdão, assim ementado (fl. 145):
+Agravo de Instrumento Execução Fiscal IPTU do Exercício de 2013 Município de São Paulo Decisão que rejeitou a exceção de pré-executividade afastando a alegação de nulidade da CDA Insurgência do excipiente/executado Não acolhimento - Título que preenche todos os requisitos do artigo 202, do CTN e do artigo 2º, §5º, da LEF Acordo de parcelamento do débito realizado pelo próprio executado Evidência de que eventual vício na CDA não impediu a sua compreensão quanto às exigências tributárias Precedente desta Colenda Câmara em caso análogo envolvendo as mesmas partes Decisão mantida Recurso não provido.
+Embargos de declaração opostos e rejeitados.
+No recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, o recorrente, sustentando o prequestionamento ficto da matéria, a teor do disposto no art. 1.025 do CPC/2015, aponta violação dos arts. 142, 202, I a V, do CTN; 2º, I a VI, da LEF; e arts. 783, 786 e 803, I, do CPC/2015, para alegar nulidade da CDA por falta de preenchimento de todos os requisitos legais, ao argumento de que insuficiente a fundamentação legal, assim consignando: "A CDA que instrui os autos possui descrição de diversos preceitos normativos inerentes à matéria tributária do Município de São Pulo, sem qualquer especificação" (fl. 181).
+Contrarrazões apresentadas.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que interessa à controvérsia, conforme destaques, o Tribunal a quo, considerando o disposto nos arts. 202 do CTN e 2º, § 5º, da LEF, assim dispôs na fundamentação adotada no acórdão combatido (fls. 146-148, grifos nossos):
+Discute-se no presente recurso a nulidade do título executivo que acompanha a petição inicial, relativo a créditos de IPTU do Exercício de 2013 relativo ao imóvel contribuinte nº020.066.0338-9 (fls.16/21).
+No tocante aos requisitos necessários para a validade das CDA, dispõe o artigo 202 do CTN e o artigo 2º, § 5º, da LEF:
+ ..
+Na espécie, o título executivo de fls.20/21 contém todos os elementos legalmente exigíveis, a saber, o nome do devedor, o domicílio do devedor, o valor originário da dívida, o termo inicial e a forma de calcular juros e demais encargos; a origem, natureza e fundamento legal da dívida; forma, fundamento e termo inicial da correção monetária; e a data e o número de inscrição em dívida ativa.
+Assim, a CDA contém as informações necessárias à identificação do imóvel, do tributo incidente e do valor exigido, não havendo que se falar em cerceamento de defesa.
+Pois bem.
+No caso, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, para se concluir pela nulidade da CDA, demanda reexame do suporte fático-probatório dos autos, providência vedada no âmbito do recurso especial, por força do óbice d a Súmula 7/STJ.
+Com efeito,  o  recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Félix Fischer, Quinta Turma, DJe 7/3/2019, grifo nosso).
+Quanto aos demais artigos legais apontados violados, o recurso não se viabiliza pelos seguintes fundamentos: (i) Súmula 284/STF: trata-se de alegação genérica de violação, não demonstrando o recorrente em que medida teria o acórdão incorrido na suposta vulneração, o que configura deficiência da fundamentação recursal, a impedir o conhecimento do recurso especial; (ii) Súmula 282/STF: ausência de prequestionamento dos referidos dispositivos legais, os quais nem sequer foram arguidos nas razões dos embargos de declaração.
+Ante todo o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CDA. VALIDADE. REQUISITOS LEGAIS. PREENCHIMENTO. PREMISSAS FÁTICAS. REVISÃO DO JUÍZO. ÓBICE DA SÚMULA 7/STJ. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
