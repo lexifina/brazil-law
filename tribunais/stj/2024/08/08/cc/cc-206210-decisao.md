@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO FEDERAL DA 1ª VARA DE PONTA GROSSA - SJ/PR suscita conflito de competência, em processo penal, diante do JUÍZO DE DIREITO DA VARA CRIMINAL DE JAGUARIAIVA - PR.
+Cinge-se a controvérsia estabelecida neste incidente processual a saber a competência (federal ou estadual) para o processo e julgamento de feito relacionado à suposta prática do delito previsto no art. 20 da Lei n. 7.716/1989, com a interpretação dada pela ADO n. 26 e pelo Mandado de Injunção n. 4.733.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 1ª Vara de Ponta Grossa - SJ/PR, ora suscitante (fls. 216-220).
+Decido.
+A prática de racismo, homofobia ou mesmo injúria racial, por si só, não é suficiente para determinar a competência da Justiça Federal, a qual pressupõe também que o delito seja transnacional, ex vi do art. 109, V, da Constituição Federal.
+Na espécie, observa-se que o suposto delito teria ocorrido em aplicativo público (twitter), tal como assinala o Juízo suscitado, situação que permite inferir, ao menos até o momento das investigações, o potencial concreto de transnacionalidade, notadamente porque se trataria de aplicativo com possível acesso de pessoas de todo o mundo.
+De fato, a transnacionalidade da conduta de crime cometido por meio da rede mundial de computadores não exige que o conteúdo seja efetivamente acessado no estrangeiro, sendo suficiente para configurar a transnacionalidade a mera potencialidade de o material disponibilizado na internet poder ser acessado no exterior, como na hipótese dos autos, já que o aplicativo era aberto.
+Em casos similares, mutatis mutandis, decidiu esta Corte: "Demonstrado que as falas de suposto cunho homofóbico foram divulgadas pela internet, em perfis abertos da rede social Facebook e da plataforma de compartilhamento de vídeos Youtube, ambos de abrangência internacional, está configurada a competência da Justiça Federal para o processamento e julgamento do feito" (CC n. 191.970/RS, relatora Ministra Laurita Vaz, Terceira Seção, DJe 19/12/2022).
+Correto, portanto, o Parquet Federal, quando assinalou que "o processamento e julgamento do crime de injúria racional passou a ser da competência da Justiça Federal, nos termos do artigo 109, inciso V, da Constituição Federal, tendo em vista o fato de ser o Brasil signatário da Convenção Internacional sobre a eliminação de todas as formas de discriminação racial" (fl. 219).
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de Ponta Grossa - SJ/PR, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
