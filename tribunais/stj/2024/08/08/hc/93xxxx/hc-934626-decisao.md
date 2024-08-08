@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PETERSON ROBERTO DOMICIANO DA SILVA contra acórdão assim ementado (HC n. 2142538-33.2024.8.26.0000 e-STJ fl. 15):
+HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGAS - FLAGRANTE VÁLIDO - CRIME DE NATUREZA PERMANENTE - POSSIBILIDADE DE INGRESSO POLICIAL NA RESIDÊNCIA DO AGENTE, INDEPENDENTEMENTE DE MANDADO JUDICIAL - PRECEDENTES DESTA C. CÂMARA CRIMINAL - PRISÃO CAUTELAR, ADEMAIS, NECESSÁRIA PARA SALVAGUARDAR A ORDEM PÚBLICA - MEDIDAS ALTERNATIVAS AO CÁRCERE INSUFICIENTES - CONSTRANGIMENTO ILEGAL NÃO CONSTATADO - ORDEM DENEGADA.
+Imputa-se ao paciente a prática do crime de tráfico de drogas, previsto no artigo 33, caput, da Lei nº 11.343/2006.
+A defesa alega, em síntese, que a prova utilizada para a prisão do paciente é ilícita, pois foi obtida mediante violação de domicílio sem mandado judicial, baseada apenas em denúncia anônima e suposto consentimento do acusado, o que contraria os artigos 240 e 244 do CPP e os incisos X e XI do artigo 5º da CF. Argumenta que não houve qualquer diligência prévia ou situação de flagrante delito que justificasse a invasão do domicílio.
+Ao final, requer a concessão da ordem para que se proceda ao desentranhamento da prova ilícita, ao relaxamento da prisão ilegal e ao trancamento do procedimento policial
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Isso porque, da leitura do acórdão impugnado (e-STJ fls. 14/20), observa-se que o Tribunal de origem, soberano na análise fático-probatória dos autos, entendeu que havia justa causa para a entrada dos policiais na residência do paciente. A decisão baseou-se em denúncia anônima específica e detalhada, que indicava a prática de tráfico de drogas no local. Conforme registrado no Boletim de Ocorrência, a denúncia informava que um veículo Fiat Palio preto, com placas AOT1553, estava realizando a entrega de uma expressiva quantidade de maconha em uma residência na Avenida SF-Onze, nº 308, em Barretos.
+Os policiais, ao chegarem ao local indicado, localizaram o veículo mencionado e, durante a abordagem, conseguiram visualizar pela janela uma balança de precisão e porções de maconha em cima de uma mesa. Isso configurou a existência de fundadas razões para suspeitar da prática delituosa, justificando a entrada no domicílio sem mandado judicial.
+A ação policial foi legitimada pela necessidade de impedir a continuidade do crime permanente de tráfico de drogas. No interior da residência, foram encontrados 11 porções de maconha (24,84 gramas) e 28 porções de maconha (808,93 gramas), além de uma balança de precisão, papel filme, um celular e a quantia de R$ 861,00, comprovando a veracidade da denúncia e a prática do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. CRIME PERMANENTE. CIRCUNSTÂNCIAS CONCRETAS. JUSTA CAUSA CONFIGURADA. ILEGALIDADE. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. CAUTELAR MANTIDA. AGRAVO NÃO PROVIDO.
+1. No julgamento do RE n. 603.616, o Pleno do Supremo Tribunal Federal afirmou que, para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito.
+2. Não se verifica ilegalidade quando o contexto do flagrante (apreensão de drogas durante busca pessoal realizada na porta da residência apontada em denúncias anônimas como local ponto de tráfico) legitima a entrada forçada na casa que era utilizado como refúgio.
+3. A existência de registros criminais anteriores, ainda que em fase investigativa, justifica a manutenção da prisão preventiva de acusado preso novamente pelo delito de tráfico de drogas.
+Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 902.204/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
