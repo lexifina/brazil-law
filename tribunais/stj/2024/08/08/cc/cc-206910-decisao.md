@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO FEDERAL DA 2ª VARA DE TAUBATÉ - SJ/SP suscita conflito de competência, em processo penal, diante do JUÍZO DE DIREITO DE NATIVIDADE DA SERRA - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para o processo e julgamento de feito relacionado à prática de crime ambiental, o qual teve seu regular prosseguimento diante do não cumprimento das condições impostas em transação penal.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 2ª Vara de Taubaté - SJ/SP, ora suscitante (fls. 12-14).
+Decido.
+De início, tal como ressaltou o Ministério Público Federal, à fl. 13, assinalo que conforme a Súmula Vinculante n. 35 do STF, " a  homologação da transação penal prevista no artigo 76 da Lei 9.099/1995 não faz coisa julgada material e, descumpridas suas cláusulas, retoma-se a situação anterior, possibilitando-se ao Ministério Público a continuidade da persecução penal mediante oferecimento de denúncia ou requisição de inquérito policial".
+Essa tese é reiterada pela Suprema Corte (exatamente nesses termos) no Tema n. 238 da Repercussão Geral, a qual se reflete, evidentemente, na inexistência de coisa julgada material, de tal modo que não há que se falar na preclusão pro judicato que impediria o declínio de competência a posteriori, ao contrário do que entendeu o suscitante.
+No caso, muito embora a transação penal haja sido realizada por Juízo de Direito, o não cumprimento das condições acabou por reavivar a necessidade de prosseguimento da ação penal, situação que ensejou a avaliação pelo referido Magistrado acerca da competência para o processo e julgamento do feito, o qual versaria sobre crime ambiental com dano direto em unidade de conservação federal (APA), a atrair a competência federal.
+De fato, conforme entendimento desta Corte, " s e o crime ambiental foi cometido em unidade de conservação criada por decreto federal, evidencia-se o interesse federal na manutenção e preservação da região, ante a possível lesão a bens, serviços ou interesses da União, nos termos do artigo 109, inciso IV, da Constituição Federal" (CC n. 147.694/MS, relator Ministro Reynaldo Soares da Fonseca, DJe 16/8/2016).
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 2ª Vara de Taubaté - SJ/SP, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
