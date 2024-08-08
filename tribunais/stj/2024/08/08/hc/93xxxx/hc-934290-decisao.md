@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARLOS NORBERTO VITALLI, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (agravo interno criminal nº 2027095-34.2024.8.26.0000/50000).
+Consta dos autos que o paciente foi incurso em faltas graves, por supostamente ter infringido o disposto no art. 52 e 50, VII, ambos da Lei de Execução Penal (fl. 24).
+A decisão que homologou a falta grave transitou em julgado sem recurso.
+Neste habeas corpus, a defesa busca afastar o reconhecimento de falta grave em desfavor do paciente.
+Alega que os agentes ouvidos não teriam presenciado o paciente descartando nada de ilícito.
+Sustenta que as versões são conflitantes e que as provas não embasariam a homologação da referida falta.
+Requer, inclusive liminarmente, "ABSOLVER (..) da falta que lhe foi atribuída, datada de 07/12/2022, fazendo-se as necessárias anotações e exclusões no seu prontuário, destacando a similitude relatados e discutidos nos autos de Agravo de Execução Penal nº 0006252-53.2023.8.26.0506, da Comarca de Ribeirão Preto, no qual o agravante ELTHON CRISTIANO VECCHI DA SILVA, foi absolvido e que subsidiariamente pede extensão ao paciente CARLOS NORBERTO VITALLI, pois, presente na mesma acusação e circunstancias de ausência de provas de autoria" (fl. 13).
+É o relatório. DECIDO.
+Conforme consta, a defesa busca a absolvição da falta grave, contudo, como salientado pelo acórdão, contra uma decisão transitada em julgado em autos nos quais houve o acompanhamento da defesa, que, entretanto, optou por não recorrer em tempo.
+In verbis (fl. 21):
+"Realmente, como já referido na decisão monocrática, o recurso de agravo de execução penal se constitui no instrumento processual adequado e eficiente para impugnar decisão desfavorável emanada do Juízo da Execução Criminal, conforme o disposto no artigo 197 da Lei de Execução Penal, que não foi devidamente interposto no prazo estabelecido pela Súmula 700 do Supremo Tribunal Federal, já que a decisão combatida foi proferida em 17/04/2023 (cf. fls. 68/73), não sendo possível o conhecimento do remédio constitucional."
+No presente caso, de qualquer forma, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Ora, as instâncias ordinárias, mediante análise fática e probatória, entenderam que o paciente praticou falta grave prevista na Lei de Execução Penal.
+Sobre o direito de defesa, diga-se de passagem, que houve regular PAD e que, ao paciente, foi garantido o contraditório e a ampla defesa, inclusive por meio de sua defesa constituída (fl. 23):
+"No âmbito administrativo, instaurado procedimento disciplinar, concluiu-se que o sentenciado praticou falta disciplinar de natureza grave.
+Oportunizou-se a manifestação das partes, em observância ao contraditório."
+A o contrário da irresignação defensiva, não há falar em absolvição, na medida em que a conduta do paciente, no cometimento da falta grave, foi devidamente individualizada e comprovada (fl. 24):
+"Por outro lado, as provas produzidas comprovam, à saciedade, que o condenado, cumprindo pena privativa de liberdade em regime prisional semiaberto, cometeu, em 07/12/2022, faltas disciplinares de natureza grave, previstas nos art. 52 e 50, inciso VII, ambos da Lei de Execução Penal, porquanto praticou fato definido como crime doloso, tal seja, posse de balança de precisão, bem como foi encontrado na posse de aparelho celular, no interior do estabelecimento penal (confira-se, a respeito: fls. 669/721). Como se vê, a conduta adotada, acima mencionada, encontra expressa previsão legal. Satisfeito, assim, à saciedade, o princípio da legalidade."
+No mais, as teses defensivas foram invocadas em indevida supressão de instância.
+No que atine à questão da validade dos depoimentos dos agentes prisionais em geral, esta Corte também é pacífica no sentido de que eles merecem a credibilidade e a fé pública inerente ao depoimento de qualquer funcionário estatal no exercício de suas funções e ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada da parte investigada (AgRg no AREsp n. 1.281.468/BA, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/12/2018; AgRg nos EDcl no HC n. 446.151/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 27/2/2019 e AgRg no HC n. 791.300/SP, Quinta Turma, de minha relatoria, DJe 15/08/2023).
+Dos autos, portanto, não se afere qualquer ilegalidade, visto que devidamente fundamentados no fato de que as provas foram suficientes ao reconhecimento da falta imputada, de forma que não há como se afastar, ou mesmo desclassificar, a infração disciplinar na hipótese.
+Nesse contexto, para modificar as dec isões das instâncias ordinárias para absolver ou desclassificar a falta imputada ao paciente, seria necessária a aprofundada incursão no acervo fático-probatório produzido no processo disciplinar, providência, sabidamente, inviável na via estreita do habeas corpus ou do seu recurso ordinário, remédio de rito célere e que não admite dilação probatória (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Não há falar, portanto, em absolvição ou desclassificação da falta grave.
+Ante o exposto, denego o habeas corpus.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intime-se.
+EMENTA
