@@ -1,0 +1,16 @@
+DECISÃO
+Por meio da Petição n. 52071/2024 (e-STJ fls. 2-6 - expediente avulso), a defesa requer a nulidade da decisão que não conheceu dos embargos de declaração pela intempestividade (e-STJ fl. 1.303), argumentando que não houve intimação pessoal do defensor dativo, conforme determina o art. 370, § 4º, do CPP.
+É o relatório. Decido.
+Da análise dos autos, observo que a decisão proferida pela Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial pela incidência da Súmula n. 182 do STJ (e-STJ fls. 1.275/1.278), foi disponibilizada no Diário da Justiça Eletrônico/STJ em 5.8.2022 e considerada publicada em 8.8. 2022 (e-STJ fl. 1.279).
+O defensor dativo, Dr. Paulo Henrique de Oliveira, foi intimado pessoalmente da referida decisão em 9.9.2022, assinando o aviso de recebimento, conforme se verifica à e-STJ fl. 1.292.
+Ciente da decisão, opôs os embargos de declaração apenas em 20.9.2022, intempestivamente, portanto.
+Tendo a intimação alcançado sua finalidade (ciência do ato judicial), não há que se falar em nulidade. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO INTEMPESTIVO. PRAZO DE 5 DIAS. NÃO OBSERVÂNCIA. ART 39 DA LEI N. 8.038/1990, ART. 258 DO RISTJ E ART. 798 DO CPP. DEFENSOR DATIVO. PRAZO SIMPLES PARA RECORRER. CONVÊNIO ENTRE A OAB E A DEFENSORIA PÚBLICA. IRRELEVANTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP.
+2. Na espécie, a decisão monocrática agravada foi disponibilizada no Diário de Justiça eletrônico em 31/5/2019 (sexta-feira), considerando-se publicada em 3/6/2019 (segunda-feira), conforme certidão de e-STJ fl. 458. O defensor dativo, por sua vez, foi intimado em 6/6/2019 (quinta-feira), consoante aviso de recebimento acostado às e-STJ fls. 464/465, de modo que o prazo para interposição do agravo se iniciou em 7/6/2019 (sexta-feira) e findou-se em 11/6/2019 (terça-feira). Não obstante, o presente agravo foi interposto apenas em 17/6/2019, sendo, portanto, manifestamente intempestivo.
+3. Ademais, como é cediço, a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o prazo em dobro para recorrer, previsto no art. 5º, § 5º, da Lei n. 1.060/1950, só é devido aos Defensores Públicos e àqueles que fazem parte do serviço estatal de assistência judiciária, não se estendendo a prerrogativa aos defensores dativos, porquanto não integram o quadro do serviço de assistência judiciária gratuita do Estado, sendo irrelevante a existência de convênio previamente celebrado com o órgão público.
+Precedentes: HC n. 27.786/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, Corte Especial, julgado em 23/10/2003, DJe 19/12/2003; AgRg no AREsp n. 1130826/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018; AgRg no AREsp 1217916/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/2/2019, DJe 8/3/2019.
+3. Agravo regimental não conhecido. (AgRg no REsp n. 1.808.613/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5/8/2019.)
+Ante o exposto, indefiro o pedido.
+Intimem-se.
+EMENTA
