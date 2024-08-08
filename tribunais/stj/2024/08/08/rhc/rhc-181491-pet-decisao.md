@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido da defesa para suspensão da sessão do júri, marcada para amanhã, 07/08/24, até o julgamento do presente writ.
+O presente recurso possui decisão de minha relatoria, que negou provimento ao recurso, e aguarda julgamento do agravo regimental.
+Na decisão destaco que:
+"De início, quanto a tese de nulidade do reconhecimento fotográfico, cumpre sublinhar que não se olvida que esta Corte, a partir do paradigmático julgamento do habeas corpus n. 598.886/SC, da relatoria do Ministro Rogério Schietti Cruz, firmou o entendimento no sentido de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa".
+Em atenção ao referido precedente, ambas as turmas que integram a Terceira Seção desta Corte têm proferido decisões que endossam tal entendimento.
+Ocorre, todavia, que no caso dos autos, verifica-se que, o Tribunal de origem consignou que "não há nos presentes autos o termo de reconhecimento que ora se combate/questiona, ou mesmo qualquer outro documento que ateste a forma como este foi realizado". Além disso, asseverou que pela leitura da decisão de pronúncia está fundamentada em elementos de informação e de prova acostados aos autos, sobretudo, o depoimento da vítima sobrevivente.
+Desse modo, frise-se, revela-se temerário anular as provas obtidas, razão pela qual não se pode afirmar, por ora, que o reconhecimento fotográfico é o único elemento de prova a embasar uma eventual futura condenação do paciente.
+(..)
+Contudo, a partir dos excertos transcritos e dentro dos limites cognitivos do habeas corpus, verifico que, ao contrário do que alega a defesa, a pronúncia do paciente não está fundamentada, exclusivamente, nos elementos de prova colhidos na fase inquisitorial e em testemunhos indiretos.
+Os depoimentos das testemunhas destacam as minuciosas e abundantes informações sobre o complexo fato delituoso, que foram obtidas, também, a partir de diligências policiais. Embora realmente existam nos depoimentos referências a declarações feitas por terceiros, nem todas as circunstâncias fáticas narradas em juízo advém de testemunhos indiretos.
+Não há, portanto, nulidade decorrente da violação ao art. 155, do Código de Processo Penal, pois o Tribunal de origem, cotejando os elementos de convicção produzidos em ambas as fases da persecução penal, concluiu pela higidez da pronúncia. Nesse sentido: AgRg no HC n. 778.453/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023 e AgRg no AREsp n. 1.997.474/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/6/2023, DJe de 30/6/2023."
+Desse modo, não se verifica de plano flagrante constrangimento ilegal, que implique ameaça de direito do paciente em se submeter ao julgamento do tribunal do júri na data referida, uma vez que o presente feito não possui efeito suspensivo e não verifico perigo na demora da prestação jurisdicional.
+Pelo exposto, julgo improcedente o pedido defensivo.
+Publique-se. Intimem-se.
+EMENTA
