@@ -1,0 +1,14 @@
+DECISÃO
+O JUÍZO FEDERAL DA 4ª VARA DE CASCAVEL - SJ/PR suscita conflito de competência, em procedimento investigativo, diante do JUÍZO FEDERAL DA 1ª VARA DE ANDRADINA - SJ/SP.
+Depreende-se dos autos que houve a apreensão, no interior de um ônibus de tursmo da empresa Trans Isaak Ltda., em Cascavel - PR, de mercadorias de origem estrangeira com possível documentação fraudada, a qual teria sido remetida por empresa sediada em Pauliceia - SP, de jurisdição do Juízo suscitado.
+O Juízo suscitante, diante disso, entendeu que por se tratar de local conhecido da sede da empresa que remeteu as mercadorias, a competência seria dessa localidade, para facilitar a produção de provas e defesa, de modo a ser flexibilizado o entendimento consubstanciado na Súmula n. 151 do STJ.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 1ª Vara de Andradina - SP, ora suscitado (fls. 274-282).
+Decido.
+Não descuro do entendimento estabelecido por esta Corte, que consubstanciou no enunciado da Súmula n. 151 do STJ. Entretanto, na espécie, estou de acordo com o parecer ministerial.
+Com efeito, em julgamento de caso similar, pela Terceira Seção (CC n. 172.392/SP, Rel. Ministro Joel Ilan Paciornik, DJe 29/06/2020), ficou estabelecido que, em algumas hipóteses, é possível que seja mitigado o referido entendimento sumular, em nome da "facilidade para a coleta de provas e para a instrução do processo, tendo em conta os princípios que atendem à finalidade maior do processo que é a busca da verdade real" (CC n. 151.836/GO, Rel. Min. Reynaldo Soares da Fonseca, DJe 26/6/2017).
+No caso, a mercadoria possui remetente conhecido, cuja sede da pessoa jurídica fica em Pauliceia - SP, de jurisdição do Juízo suscitado. Embora a sua apreensão haja ocorrido em trânsito em outra cidade, a qual não guarda nenhuma relação com os atos praticados, infere-se que a adoção, de modo inflexível, do entendimento consubstanciado na Súmula n. 151 do STJ, acarretará, na hipótese, maior dificuldade (entrave) na investigação.
+É necessário, portanto, que se estabeleça, na espécie, a competência do Juízo suscitado, porquanto este seria o local da sede da pessoa jurídica que remeteu a mercadoria apreendida, cuja importação se deu de forma irregular e sobre a qual (ou seu responsável) recairá a persecução penal.
+Deveras, nos casos em que há o comércio de mercadorias estrangeiras irregularmente introduzidas em território nacional, as obrigações tributárias decorrentes de sua importação irregular recaem, via de regra, sobre a pessoa física ou jurídica responsável pela sua comercialização dentro do território nacional, motivo pelo qual o domicílio fiscal deste contribuinte deve nortear a fixação da competência criminal.
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de Andradina - SP, ora suscitado.
+Publique-se e intimem-se.
+EMENTA
