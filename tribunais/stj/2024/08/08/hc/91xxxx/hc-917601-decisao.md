@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de MELISSA GREGORIO OLIVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo nos autos da Apelação Criminal n. 1515335-70.2022.8.26.0050.
+Narra a defesa que a paciente foi condenada pela prática do delito previsto no art. 157, §2º, incisos II, V e VII, por duas vezes, c/c artigo 61, inciso II, letra h; art. 158, §§1º e 3º, na forma do artigo 69, todos do Código Penal, em regime inicialmente fechado, a pena de 15 (quinze) anos, 5 (cinco) meses e 18 (dezoito) dias de reclusão, em sentença prolatada em 25 de novembro de 2022. Contra essa decisão, interpôs recurso de apelação em 14/12/2022, que fora enviado ao Tribunal em 17/7/2023, estando pendente de julgamento.
+Na presente impetração, a defesa alega o excesso de prazo para o julgamento da apelação criminal.
+Diante disso, pede, em liminar e no mérito, a concessão da liberdade provisória ao paciente, com aplicação de medidas cautelares, para que possa aguardar o julgamento da apelação criminal em liberdade.
+A liminar foi indeferida (e-STJ fls. 12/13). As informações foram prestadas (e-STJ fls. 19/21 e 22/73).
+Em petição incidental, a defesa alega que os autos se encontram aguardando manifestação do MPF, desde o dia 7/6/2024 (e-STJ fls. 77/78).
+O Ministério Público Federal, previamente ouvido, manifestou-se pela denegação da ordem (e-STJ fls. 79/82).
+É o relatório. Decido.
+A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+Para a caracterização do excesso de prazo, a demora excessiva deve estar vinculada à desídia do Poder Público, em decorrência, por exemplo, de eventual procedimento omissivo do magistrado ou da acusação, o que não se verifica na espécie, uma vez que conforme visita ao site do Tribunal de São Paulo, os autos já foram encaminhados em 22/7/2024 para o processamento de Grupos e Câmaras, encontrando-se prontos para julgamento.
+Por outro lado, trata-se de processo complexo que conta com pluralidades de réus e tem-se ainda, neste caso, a suposta prática de crime com a cominação de pena reclusiva elevada, o que atrai a compreensão de que "o tempo de custódia cautelar não se mostra desproporcional diante da pena em abstrato atribuída aos delitos imputados ao paciente" (AgRg no HC n. 603.753/RJ, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 27/10/2020, REPDJe 12/11/2020, DJe 3/11/2020).
+Além disso, vale lembrar que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+Ademais, " a  existência de édito condenatório enfraquece a presunção de não culpabilidade, de modo que seria incoerente, não havendo alterações do quadro fático, conceder, nesse momento, a liberdade" (RHC n. 105.918/BA, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 12/3/2019, DJe 25/3/2019).
+Assim, considerados os dados do processo, considerando, ainda, que os autos encontram-se prontos para julgamento, não vislumbro ofensa aos princípios constitucionais da proporcionalidade e da razoável duração do processo (art. 5º, LXXVIII, da Constituição Federal), o que afasta o acolhimento da tese defensiva de excesso de prazo.
+Ante o exposto, denego o habeas corpus.
+Intimem-se.
+EMENTA
