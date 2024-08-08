@@ -1,0 +1,95 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000108-30.2023.8.08.0004
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EVILAZIO DE ALMEIDA POMPERMAYER e outros
+RECORRIDO: BANCO C6 CONSIGNADO S.A. e outros (2)
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5000108-30.2023.8.08.0004
+
+Recorrente:
+BANCO C6 CONSIGNADO S.A. e EVILÁSIO DE ALMEIDA POMPERMAYER
+
+Recorridos:
+EVILÁSIO DE ALMEIDA POMPERMAYER, BANCO C6 CONSIGNADO S.A. e ATUAL INTERMEDIACOES FINANCEIRAS LTDA.
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+DEFIRO
+os benefícios da assistência judiciária gratuita ao autor/recorrente.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MATERIAIS E MORAIS. ACEITAÇÃO DE OFERTA DE CARTÃO DE CRÉDITO. CONTRATO DE EMPRÉSTIMO NÃO REALIZADO. FALHA NA PRESTAÇÃO DO SERVIÇO. RESTITUIÇÃO DE VALORES REALIZADA PARA TERCEIROS. GOLPE. BOA FÉ DO AUTOR. NULIDADE DA RELAÇÃO CONTRATUAL. DANO MORAL CONFIGURADO.
+
+ALEGA O AUTOR QUE RECEBEU PROPOSTA DO BANCO REQUERIDO PARA OBTER UM CARTÃO DE CRÉDITO, TENDO ACEITADO. CONTUDO, FORAM LANÇADOS DOIS EMPRÉSTIMOS EM SEU BENEFÍCIO PREVIDENCIÁRIO. APÓS ENTRAR EM CONTATO COM O BANCO, OBTEVE CHAVE PIX EM NOME DA SEGUNDA REQUERIDA, OPORTUNIDADE QUE REALIZOU A DEVOLUÇÃO DOS VALORES DE R$12.371,29 e R$3.658,10, OS QUAIS HAVIAM SIDO DEPOSITADOS EM SUA CONTA SEM ANUÊNCIA.
+
+SENTENÇA
+DE PROCEDÊNCIA PARCIAL, CONSOANTE TRECHO A SEGUIR:
+“
+Portanto, deve ser declarada a nulidade dos contratos, pois havia a manifesta intenção de devolver os valores, mas por falha das prestadoras, esses valores não foram abatidos. Contudo, à míngua de outras provas, não reconheço o dever de indenização por danos morais, bem como devolução em dobro, pois restou demonstrado que o requerente seguiu o passo a passo da contratação, incluindo a foto de seu rosto. Assim, limito a responsabilidade à devolução dos valores descontados em conta, bem como à invalidação dos contratos de empréstimo, visto que descumpriram a norma, no que tange ao arrependimento e devida informação. A devolução deve ocorrer de forma simples, tendo em vista que não restou comprovada a manifesta ma-fé da parte requerida. Ante o exposto,
+JULGO PARCIALMENTE PROCEDENTES OS PEDIDOS,
+invalidando os contratos apresentados (cédulas) e determinando ao C6 a devolução simples das parcelas descontadas, acrescidas de juros e correção monetária desde a data de cada desconto”
+.
+
+RECURSO INOMINADO INTERPOSTO PELO BANCO C6 CONSIGNADO
+, NO QUAL DESTACA A RESPONSABILIDADE DO AUTOR AO PROCEDER A DEVOLUÇÃO DO VALOR DEPOSITADO EM SUA CONTA A TERCEIROS. ADUZ QUE A CONTRATAÇÃO FOI LEGÍTIMA, DE MODO QUE O CONTRATO É VÁLIDO. INEXISTEM DANOS MORAIS A SEREM ARBITRADOS EM FAVOR DO AUTOR. PUGNA PELA REFORMA DA SENTENÇA E/OU A COMPENSAÇÃO DE VALORES.
+
+RECURSO INOMINADO INTERPOSTO PELO AUTOR
+, ATRAVÉS DO QUAL PLEITEIA A CONDENAÇÃO DAS PARTES RÉS EM DANOS MORAIS E DEVOLUÇÃO EM DOBRO DOS DESCONTOS REALIZADOS.
+
+DA CONCLUSÃO:
+AUSÊNCIA DE MANIFESTAÇÃO DE VONTADE DO CONSUMIDOR. AUTOR ACEITOU APENAS CONTRATAÇÃO DO SERVIÇO DE CARTÃO DE CRÉDITO. CONTRATOS DE EMPRÉSTIMOS REALIZADOS DE FORMA UNILATERAL E ABUSIVA PELO BANCO REQUERIDO.
+AUSÊNCIA DE AUTENTICIDADE DA ASSINATURA DIGITAL E FORMAÇÃO DO CONTRATO.
+TEMA Nº 1061,DO STJ, DETERMINA QUE
+“na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a autenticidade - CPC, arts. 6º, 369 e 429, II”.
+DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO MANTIDA.
+
+COM RELAÇÃO AO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS, OS DESCONTOS INDEVIDOS, POR SI SÓ, SÃO PROVAS SUFICIENTES DO DANO, GERANDO ASSIM, O DEVER DE INDENIZAR.
+PRÁTICA ABUSIVA CONDENADA PELO ART. 39, INCISO IV, DO CDC. DE MODO QUE O PEDIDO DE CONDENAÇÃO EM DANOS MORAIS MERECE ACOLHIMENTO. CONDENAÇÃO DAS PARTES RÉS EM R$ 4.000,00 (QUATRO MIL REAIS) DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE, POR ESTAR EM CONSONÂNCIA COM AS ESPECIFICIDADES DO CASO, GRAU DE CULPA, EXTENSÃO DO DANO. MANTIDA RESTITUIÇÃO DE VALORES NA FORMA SIMPLES.
+
+INDEFIRO
+O PEDIDO DE COMPENSAÇÃO DE VALORES TENDO EM VISTA A DEVOLUÇÃO, POR PARTE DO AUTOR, DAS QUANTIAS DEPOSITADAS EM SUA CONTA. EM QUE PESE A ALEGAÇÃO DO BANCO REQUERIDO DA QUANTIA TER SIDO DEVOLVIDA À TERCEIROS, O AUTOR AGIU DE BOA FÉ NO INTUITO DE SOLUCIONAR O IMBRÓGLIO CAUSADO PELA PRÓPRIA INSTITUIÇÃO BANCÁRIA.
+
+RECURSO DO BANCO C6 CONSIGNADO, CONHECIDO E NÃO PROVIDO. RECURSO DO AUTOR, CONHECIDO E PROVIDO EM PARTE
+. SENTENÇA REFORMADA PARA CONDENAR, DE FORMA SOLIDÁRIA, O B
+ANCO C6 CONSIGNADO S.A. E ATUAL INTERMEDIAÇÕES FINANCEIRAS LTDA A INDENIZAR O AUTOR POR
+DANOS MORAIS ARBITRADOS NO MONTANTE DE R$4.000,00 (QUATRO MIL REAIS), ACRESCIDOS DE JUROS DE MORA DESDE O ARBITRAMENTO E CORREÇÃO MONETÁRIA A PARTIR DA CITAÇÃO.
+NO RESTANTE, A
+SENTENÇA DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95 E ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF.
+
+POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95)
+CONDENA-SE
+A PARTE RECORRENTE (BANCO C6 CONSIGNADO) NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.
+
+SEM CONDENAÇÃO DO AUTOR/RECORRENTE EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, POIS ENCONTRA-SE AMPARADO PELA ASSISTÊNCIA JUDICIÁRIA GRATUITA. ALÉM DISSO, SAGROU-SE VENCEDOR NA INSTÂNCIA RECURSAL EM, AO MENOS, PARTE DE SEU PLEITO (ART. 55, DA LEI 9.099/95 E ENUNCIADO Nº 06 DA TURMA DE UNIFORMIZAÇÃO E INTERPRETAÇÃO DE LEI DOS JUIZADOS ESPECIAIS DO ESPÍRITO SANTO).
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
