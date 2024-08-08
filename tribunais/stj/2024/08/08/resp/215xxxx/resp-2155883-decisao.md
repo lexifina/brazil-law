@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (e-STJ, fls. 789-799):
+"PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. REJEIÇÃO DA DENÚNCIA. INÉPCIA. EXPOSIÇÃO DO FATO CRIMINOSO E SUAS CIRCUNSTÂNCIAS. AUSÊNCIA".
+Os embargos de declaração foram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 41 e 624 do CPP, além do art. 926 do CPC. Aduz para tanto, em síntese, que: (I) o juízo feito pelo TRF diria respeito ao mérito da ação penal, sendo inviável exercê-lo no momento de recebimento da denúncia; e (II) haveria precedente do mesmo Tribunal favorável à tese da acusação.
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fl. 879).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 893-900).
+É o relatório.
+Decido.
+Inicialmente, não há prequestionamento dos art. 624 do CPP e 926 do CPP. Com efeito, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre as matérias tratadas nos dispositivos legais apontados pela parte recorrente, o que atrai a incidência da Súmula 211/STJ. Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não demonstrou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local. Neste sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido".
+(AgRg no REsp 1902294/SP, de minha relatoria, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Quanto ao art. 41 do CPP, o juízo de primeira instância constatou a inexistência de indícios mínimos da materialidade delitiva. É o que se colhe dos autos (e-STJ, fls. 791-792):
+"De acordo com a tese acusatória, o crime consistiu na construção de imóvel em área de APP, sem autorização ambiental, o que teria acarretado, ainda, o impedimento de regeneração natural da vegetação.
+Ocorre que o MPF não informou a data, sequer aproximada, em que a construção foi realizada.
+Destaque-se a data do suposto fato criminoso é imprescindível para o recebimento da denúncia, dada a possibilidade, inclusive, de estar prescrito o crime previsto no art. 63, da Lei nº 9.605/98.
+Ademais, a denúncia não justificou a razão pela qual considerou a área em que ocorreu a construção como rural, e não urbana, nem mencionou a distância da construção para o nível máximo do reservatório. Tais informações mostram-se imprescindíveis para análise do fato, já que, conforme o art. 3º, I, da Lei nº 12.651/2012, a APP - área de preservação permanente consiste em faixa de 100 metros no entorno dos reservatórios artificiais de água situados em área rural e em faixa de 30 metros quando eles estão na zona urbana.
+Sobre o ponto, imperioso destacar que a referida área é considerada como urbana pela Lei Complementar nº 60/2018, do Município de Sobral, in verbis:
+ ..
+Diante de tais inconsistências, em que não restou informada a data em que ocorreu a construção, nem há qualquer comprovação razoável de que o imóvel está, de fato, em área de preservação permanente, tem-se que a denúncia não preenche as condições mínimas para ser recebida".
+E, no julgamento do recurso em sentido estrito, o TRF acrescentou (e-STJ, fls. 793-795):
+"Adentrando ao mérito da argumentação exposta no recurso, percebe-se que não houve a alegada omissão na análise dos documentos acostados aos autos. Em verdade, foi justamente após a análise dos referidos documentos instrutórios que se concluiu pela inépcia da denúncia, notadamente porque se baseou sobre pressuposto de fato equivocado, de que a construção ocorreu em área RURAL . com faixa de APP de 100 metros, sendo que na verdade a área é URBANA, com faixa de APP bastante inferior (30 metros). E não há nem na denúncia, nem nos documentos acostados, qualquer informação de que as construções distam menos de 30 metros do corpo d"água.
+A presunção de veracidade e legitimidade dos atos administrativos não pode ser arguida para propositura de ação penal quando, pela simples análise da legislação, percebe-se que os pressupostos fáticos mostram-se equivocados.
+ ..
+A denúncia não logrou demonstrar que Alexandre Rangel Mendes Carneiro executou obra de construção civil irregular na APP do Açude Cachoeiro, no Município de Sobral.
+ ..
+Não resta dúvida de que Alexandre Rangel Mendes Carneiro executou obra de construção civil.
+Contudo, a denúncia não demonstrou que a construção se encontra localizada dentro da Área de Preservação Permanente localizada às margens do Açude Cachoeiro, que corresponde à faixa de 30m do seu entorno (art. 5º da Lei n. 12.651/2012. c/c o art. 3º. I. da Resolução n. 302/2002 do CONAMA), já que se encontra em área urbana, conforme disciplinado pela lei de uso e ocupação do solo da cidade de Sobral (Lei Complementar n. 60 2018. que alterou a LC n. 6/2000)".
+Logo, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos - sobretudo dos relatórios técnicos e das fotografias abordados pelo Parquet às fls. 861-863 (e-STJ) -, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. A propósito, assim já se pronunciou este Tribunal sobre recursos especiais da acusação que buscavam alterar o entendimento das instâncias ordinárias quanto à falta de justa causa para o recebimento da denúncia:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL. OPERAÇÃO "CÂMBIO, DESLIGO". FORMAÇÃO DE QUADRILHA. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. EVASÃO DE DIVISAS. AMEAÇA E OBSTRUÇÃO À JUSTIÇA. DESTRANCAMENTO DE AÇÃO PENAL. DENÚNCIA CALCADA EXCLUSIVAMENTE NA PALAVRA DE COLABORADORES PREMIADOS. AUSÊNCIA DE JUSTA CAUSA. INVERSÃO DO JULGADO DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL PELA VIA DO RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Tendo o Tribunal de origem concluído que a ausência de justa causa ancora-se no fato de que a denúncia baseou-se exclusivamente na palavra dos colaboradores premiados, alterar a referida conclusão, com o intuito de dar seguimento à ação penal, na forma pretendida pelo Ministério Público, no caso, demandaria maior incursão no suporte fático-probatório dos autos, providência obstada segundo o teor da Súmula 7/STJ.
+4. Agravo regimental desprovido".
+(AgRg no REsp n. 2.026.587/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE DE PREFEITO MUNICIPAL. ART. 1º, INCISO XIV, DO DECRETO-LEI N. 201/1967. DESCUMPRIMENTO IMOTIVADO DE ORDEM JUDICIAL. MINISTÉRIO PÚBLICO ESTADUAL. LEGITIMIDADE. DENÚNCIA REJEITADA. FALTA DE JUSTA CAUSA. RECEBIMENTO. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+ ..
+2. O Tribunal de origem rejeitou a denúncia oferecida contra prefeito municipal por suposto descumprimento de decisão judicial (art. 1º, inciso XIV, do Decreto-Lei n. 201/1967) haja vista a falta de justa causa. Nesse contexto, o acolhimento do pedido recursal de reconhecer a existência de lastro probatório mínimo sobre o descumprimento injustificado, especialmente quanto à apresentação de motivos para o desatendimento da ordem judicial, exigiria, necessariamente, o reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte.
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 905.199/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe de 12/3/2019.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DENÚNCIA REJEITADA POR SER INEPTA. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos dos arts. 41 do CPP e 5º, LV, da CF/1988, a peça acusatória deve conter a exposição do fato delituoso em toda a sua essência e com todas as suas circunstâncias, de maneira a individualizar o quanto possível a conduta imputada, bem como sua tipificação, com vistas a viabilizar a persecução penal e o exercício da ampla defesa e do contraditório pelo réu. 2. Rejeitada a denúncia pelo Tribunal a quo por ausência de justa causa, a alteração desse entendimento para se receber a exordial acusatória enseja o reexame do conteúdo probatório dos autos, providência inadmissível em recurso especial (Súmula 7/STJ). Precedentes.
+3. Agravo regimental não provido".
+(AgInt no REsp n. 1.629.758/RS, de minha relatoria, Quinta Turma, julgado em 19/2/2019, DJe de 26/2/2019.)
+Destaco, finalmente, que não houve supressão de instância, pois foi o próprio MPF quem, nas razões do recurso em sentido estrito, provocou o Tribunal local a se manifestar sobre a documentação comprobatória por ele apresentada.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
