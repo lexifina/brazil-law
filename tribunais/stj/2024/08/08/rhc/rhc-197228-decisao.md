@@ -1,0 +1,14 @@
+DECISÃO
+IVAN CORREA LAUREA NO alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado do Paraná, que negou provimento ao Agravo Regimental no Habeas Corpus n. 5006242-95.2024.4.04.0000/PR.
+O paciente é investigado pelo crime de descaminho, tipificado no art. 334 do Código Penal.
+A defesa pretende o trancamento do procedimento investigativo, sob o argumento de que o princípio da insignificância é aplicável ao caso concreto, observado que, a despeito de eventual reiteração delitiva, a soma dos valores dos produtos não excede R$ 20.000,00.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 502-506).
+Decido.
+Consoante reiterada jurisprudência desta Corte Superior, o trancamento do processo - inquérito policial ou ação penal - em habeas corpus, por ser medida excepcional, somente é cabível quando ficarem demonstradas, de maneira inequívoca e a um primeiro olhar, a atipicidade da conduta, a absoluta falta de provas da materialidade do crime e de indícios de autoria ou a existência de causa extintiva da punibilidade.
+O caso dos autos não se encaixa em nenhuma das hipóteses excepcionais que autorizam o encerramento do processo originário.
+A Terceira Seção desta Corte, recentemente, no julgamento do Tema n. 1.218, submetido ao rito dos recursos repetitivos, fixou a seguinte tese:
+ ..  A reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho - independentemente do valor do tributo não recolhido -, ressalvada a possibilidade de, no caso concreto, se concluir que a medida é socialmente recomendável. A contumácia pode ser aferida a partir de procedimentos penais e fiscais pendentes de definitividade, sendo inaplicável o prazo previsto no art. 64, I, do CP, incumbindo ao julgador avaliar o lapso temporal transcorrido desde o último evento delituoso à luz dos princípios da proporcionalidade e razoabilidade (REsp n. 2.083.701/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 28/2/2024, DJe de 5/3/2024, grifei).
+No caso, independentemente do valor do tributo não recolhido, "a existência de dois processos administrativos decorrentes de apreensões ocorridas em 20/09/2018 (17833.732195/2018-98) e 01/11/2018 (17833.738832/2018-30) (processo 5010487-23.2023.4.04.7005/PR, evento 1, ANEXOSPET2, p. 156), situados dentro do lapso temporal de 5 anos, considerando a data do fato objeto do processo administrativo 833.732216/2018-75, ocorrido em 22/10/2021" (fl. 283), denota reiteração delitiva e impede a aplicação do princípio da insignificância. Ademais, entendo que a medida pleiteada não se mostra socialmente re comendável, pois o acusado foi autuado três vezes em curto período de tempo.
+Ante o exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
+EMENTA
