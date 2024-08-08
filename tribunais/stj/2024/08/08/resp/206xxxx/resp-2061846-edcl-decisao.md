@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Antuino Antonio Riva contra decisão monocrática, assim ementa (fls. 1.544):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO HABITACIONAL OBRIGATÓRIO. RESPONSABILIDADEDO SEGURADOR. VÍCIO CONSTRUTIVO. ABRANGÊNCIA. PRECEDENTES. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, PROVIDO.
+O embargante sustenta que a decisão embargada encontra-se omissa, "vez que reconhece e responsabiliza a Seguradora pelos vícios construtivos, mas deixa de condená-la ao pagamento da indenização devida ao Embargante para reforma da sua residência" (fls. 1.552).
+Aponta também omissão quanto ao pedido de condenação da seguradora e da CEF ao pagamento da multa decendial, bem como quanto ao arbitramento dos honorários advocatícios sucumbenciais.
+A Traditio Companhia de Seguros apresentou impugnação às fls. 1.560/1.608, pela rejeição dos embargos, sustentando, em suma, que "o processo deverá, sob pena de cerceamento de defesa da parte, necessariamente retornar à origem para que sejam apreciadas e julgadas as demais alegações das partes" (fls. 1.561).
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque o acórdão embargado decidiu a controvérsia de forma clara e fundamentada, tendo concluído que a jurisprudência desta Corte é firme no sentido de que os vícios estruturais de construção estão acobertados pelo contrato de seguro habitacional vinculado ao SFH, sendo que a exclusão da responsabilidade da seguradora deve ficar limitada aos vícios decorrentes de atos praticados pelo próprio segurado ou do uso e desgaste natural do bem.
+Assim, constatando que o posicionamento adotado pelo acórdão estadual quanto ao ponto estava em dissonância com a jurisprudência deste STJ proferida em casos análogos, concluiu ser caso de provimento ao recurso especial, tão somente para determinar o retorno dos autos à Corte de origem para que proceda a um novo julgamento da causa, nos termos da fundamentação acima.
+Como se pode perceber, não há falar em omissão na decisão embargada no tocante aà indenização, multa decendial e honorários sucumbenciais, tendo em vista que, ao contrário do que quer fazer crer o embargante, não se decidiu pela procedência dos pedidos autorais, mas apenas pelo retorno dos autos à origem para o rejulgamento da causa, ante a definição da tese de que os vícios construtivos possuem cobertura securitária.
+Fato é que eventuais vícios estruturais, assim como os demais temas que ora se alega omissão, serão devidamente examinados pela origem, mediante o exame de provas nos autos, providência descabida nesta instância recursal.
+Nesse contexto, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, sendo descabida a pretensão de mero rejulgamento do feito.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO REUCRSO ESPECIAL ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
