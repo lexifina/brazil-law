@@ -1,0 +1,63 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5025971-89.2023.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CREFISA SA CREDITO FINANCIAMENTO E INVESTIMENTOS
+RECORRIDO: SONIA MARIA FREITAS MELONE
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Embargos de Declaração no Processo de n° 5025971-89.2023.8.08.0035
+
+Embargante:
+CREFISA SA CRÉDITO FINANCIAMENTO E INVESTIMENTOS
+
+Embargada:
+SONIA MARIA FREITAS MELONE
+
+V O T O
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Dispensado o relatório, na forma do art. 38 e 46, da Lei nº 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: EMBARGOS DE DECLARAÇÃO EM RECURSO INOMINADO. SENTENÇA DE PROCEDÊNCIA PARCIAL.
+
+INTERPOSTO RECURSO INOMINADO PELA PARTE REQUERIDA, O RECURSO FOI CONHECIDO E NÃO PROVIDO. A PARTE EMBARGANTE ALEGA QUE HOUVE ERRO DE OMISSÃO NO JULGADO. ADUZ QUE O CONTRATO FOI ANULADO INDEVIDAMENTE PELA SENTENÇA E MANTIDO NO ACÓRDÃO, EM RAZÃO DE NÃO EXISTIR PEDIDO NESSE SENTENDO. AFIRMA AINDA, QUE A SENTENÇA NÃO ENFRENTOU A QUESTÃO SOBRE A NECESSIDADE EM REALIZAR PROVA PERICIAL A FIM DE COMPROVAR A LEGALIDADE DA CONTRATAÇÃO.
+
+DE SIMPLES ANÁLISE DOS AUTOS VÊ-SE QUE TAIS ALEGAÇÕES NÃO PROSPERAM. A EMBARGANTE LANÇA REITERAÇÃO COM MESMOS ARGUMENTOS JÁ CONSIDERADOS POR DECISÃO ANTERIOR. COM RELAÇÃO AO NÃO ENFRENTAMENTO DA MATÉRIA MENCIONADA, TAMBÉM NÃO DEVE PROSPERAR, ISSO PORQUE TAL PRELIMINAR SEQUER FOI SUSCITADA EM SEDE DE CONTESTAÇÃO. TODAS AS PRELIMINARES ARGUIDAS TANTO NA SENTENÇA, QUANTO NO RECURSO, FORAM SANADAS. O VOTO ESTÁ CLARO E DEVIDAMENTE FUNDAMENTADO SOBRE A MATÉRIA JULGADA. CARÁTER PROTELATÓRIO. CONDENAÇÃO NA MULTA DO ART. 1.026, §2º, DO CPC.
+
+EMBARGOS DECLARATÓRIOS QUE, AO FUNDAMENTO DE “VÍCIOS”, ALMEJAM A REDISCUSSÃO DO JULGADO. SENDO QUE O REFERIDO RECURSO MANEJADO NÃO SE PRESTA A TAL FINALIDADE. VÍCIOS INEXISTENTES.
+RECURSO CONHECIDO, MAS IMPROVIDO.
+
+ADEMAIS, TRATANDO-SE DE RECURSOS MANIFESTAMENTE PROTELATÓRIOS,
+APLICO
+EM DESFAVOR DA EMBARGANTE, A MULTA DO ART. 1.026, §2º, DO CPC, NO IMPORTE DE 1% (UM POR CENTO) SOBRE O VALOR ATUALIZADO DA CAUSA, A REVERTER EM FAVOR DA PARTE AUTORA. ADVIRTO, DESDE JÁ, QUE A REITERAÇÃO DE EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE PROTELATÓRIOS PODERÁ ENSEJAR A APLICAÇÃO DA MULTA QUE SERÁ ELEVADA A ATÉ DEZ POR CENTO SOBRE O VALOR ATUALIZADO DA CAUSA, NA FORMA DO ART. 1.026, §3º, DO CPC.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
