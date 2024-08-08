@@ -22,23 +22,6 @@ II - ao montante acrescido de capacidade instalada, caso a solicitação de alte
 § 1º-H. As diretrizes de que trata o § 1º-G deste artigo não disporão sobre os empreendimentos de que tratam os §§ 1º, 1º-A, 1º-B e 1º-C deste artigo.
 § 1º-I. As diretrizes de que trata o § 1º-G deste artigo deverão prever a possibilidade futura de integração dos mecanismos nele referidos a outros setores, observada a articulação dos Ministérios envolvidos.
 § 1º-J As diretrizes de que trata o § 1º-G deste artigo também são aplicáveis aos microgeradores e minigeradores distribuídos.
-§ 1º-K Os empreendimentos enquadrados no disposto no § 1º-C deste artigo que, em até doze meses da publicação da Lei nº 14.120, de 1º de março de 2021, tenham solicitado a outorga ou a alteração de outorga que resulte em aumento na capacidade instalada, poderão requerer prorrogação de trinta e seis meses dos prazos previstos nos incisos I e II do § 1º-C, para início da operação de todas as suas unidades geradoras, mantido o direito aos percentuais de redução de que tratam os § 1º, § 1º-A e § 1º-B, mediante requerimento por seus titulares à Aneel, no prazo de sessenta dias, contado da data de publicação da Medida Provisória nº 1.212, de 9 de abril de 2024.
-§ 1º-L Para manterem o direito ao prazo adicional previsto no § 1º-K, os empreendedores, independentemente da fonte de geração, aportarão garantia de fiel cumprimento em até noventa dias e iniciarão as obras do empreendimento em até dezoito meses, ambos os prazos contados da data de publicação da Medida Provisória nº 1.212, de 2024, observados os seguintes parâmetros:
-I - o valor da garantia de fiel cumprimento será correspondente a cinco por cento do valor estimado do empreendimento, a ser estabelecido em ato do Ministério de Minas e Energia;
-II - a garantia de fiel cumprimento terá a Aneel como beneficiária e o interessado como tomador e vigorará por até seis meses após a entrada em operação comercial da última unidade geradora do empreendimento;
-III - as garantias de fiel cumprimento serão aportadas na Aneel ou em agente custodiante contratado pela Aneel;
-IV - o início das obras será caracterizado nos termos estabelecidos pelo Ministério de Minas e Energia;
-V - o empreendedor deverá optar por uma das seguintes modalidades de garantia:
-a) caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados por seus valores econômicos, conforme estabelecido pelo Ministério da Fazenda;
-b) fiança bancária emitida por banco ou instituição financeira autorizada pelo Banco Central do Brasil a operar no País; e
-c) seguro - garantia; e
-VI - a execução da garantia de fiel cumprimento dependerá de determinação expressa da Aneel, nas seguintes hipóteses:
-a) não início das obras do empreendimento outorgado no prazo previsto no § 1º-L;
-b) não implantação do empreendimento outorgado no prazo previsto no § 1º-K;
-c) descumprimento das condições previstas no ato autorizativo quanto à potência instalada; ou
-d) revogação da outorga de autorização.
-§ 1º-M A garantia de fiel cumprimento poderá ser utilizada para cobrir penalidades aplicadas pela inobservância total ou parcial às obrigações previstas na outorga de autorização, assegurados os princípios do contraditório e da ampla defesa, mediante execução até o limite de seu valor, em qualquer modalidade, por determinação expressa da Aneel.
-§ 1º-N A Aneel firmará termo de adesão com os empreendedores de que tratam o § 1º-K deste artigo, o qual conterá os requisitos e as condicionantes previstos na Medida Provisória nº 1.212, de 2024, no prazo de quarenta e cinco dias, contado da solicitação.
 § 2º Ao aproveitamento referido neste artigo que funcionar interligado e ou integrado ao sistema elétrico, é assegurada a participação nas vantagens técnicas e econômicas da operação interligada, especialmente em sistemática ou mecanismo de realocação de energia entre usinas, destinado a mitigação dos riscos hidrológicos, devendo também se submeter ao rateio do ônus, quando ocorrer.
 § 3º A comercialização da energia elétrica resultante da atividade referida nos incisos II, III e IV, far-se-á nos termos dos arts. 12, 15 e 16 da Lei nº 9.074, de 1995.
 § 4º Ressalvado o disposto no art. 2º da Lei nº 12.783, de 11 de janeiro de 2013, é estendida às usinas hidroelétricas referidas no inciso I do caput deste artigo que iniciarem a operação após a publicação desta Lei a isenção de que trata o inciso I do art. 4º da Lei nº 7.990, de 28 de dezembro de 1989.
