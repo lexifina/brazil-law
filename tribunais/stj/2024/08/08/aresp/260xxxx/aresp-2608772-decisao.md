@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto em favor de JUAN DA ROCHA BARBOSA, fundamentado na alínea "a" do permissivo constitucional, que visa reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Em suas razões recursais, o recorrente aponta violação aos arts. 59 e 68 do CP e aos arts. 42 e 33, §4º, ambos da Lei 11.343/06.
+Aduz, em síntese, que a Corte a quo incorreu em bis in idem ao utilizar a quantidade de drogas tanto para exasperar a pena-base quanto para negar a benesse do tráfico privilegiado. Dessa forma, o privilégio deve ser reconhecido, uma vez que o recorrente preenche todos os requisitos legais, com a consequente fixação de regime inicial menos gravoso e a substituição por restritivas de direitos.
+Com contrarrazões (e-STJ, fls. 435-439), o recurso especial foi inadmitido na origem (e-STJ, fls. 467-475), ao que se seguiu a interposição de agravo (e-STJ, fls. 467-475).
+Remetidos os autos a esta Corte Superior, com contraminuta às fls. 482-486 (e-STJ), o Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 504-513).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+O legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Sobre o tema, o acórdão objurgado assim se pronunciou:
+"As Defesas pugnam ainda pelo reconhecimento da minorante do art. 33, § 4º, da Lei 11.343/06 e pela substituição da pena por restritivas de direitos. Ainda, a Defesa de Juan pugna pelo abrandamento do regime inicial para o aberto.
+Sem razão.
+Como é cediço, a Lei 11.343/06 encontra-se alinhada com o tratamento constitucional destinado ao crime de tráfico de drogas, sendo editada com o intuito de tratar com maior rigor os traficantes.
+Contudo, se o agente é cumulativamente primário e de bons antecedentes, não integra organização criminosa e não faz da prática delitiva seu meio de vida, poderá beneficiar-se da minorante em questão, que foi prevista justamente com o fim de melhor aparelhar o magistrado no processo de individualização da pena, permitindo-lhe tratar os traficantes de modo diferenciado, na medida do nível de envolvimento de cada um com a prática ilícita.
+Vale ressaltar que a constatação acerca dos requisitos legais não está adstrita à versão declinada pelo réu, podendo o julgador valer-se de outros elementos probatórios e das evidências que exsurgem do flagrante para dirimir se a causa de diminuição é, ou não, cabível na situação concreta.
+Na hipótese vertente, conquanto os réus sejam primários e de bons antecedentes criminais, foi comprovado nos autos que os condenados transportavam quase cem quilos de maconha (95 kg), em compartimento falso no carro, demonstrando que a quantidade considerada alta e sua tentativa de ocultá-la denotam um modus operandi que revela que os réus integrem organização criminosa, inviabilizando o reconhecimento da benesse do tráfico privilegiado." (e-STJ, fls. 386-387; grifou-se.)
+Na hipótese, o Tribunal de origem afastou o tráfico privilegiado diante do transporte de 95kg de maconha em compartimento falso no carro.
+Inicialmente, convém pontuar que não há bis in idem, "pois a quantidade de droga foi conjugada com outros elementos para o afastamento do tráfico privilegiado." (AgRg no REsp 2125440/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/06/2024, DJe 19/06/2024).
+Todavia, o mero transporte de drogas em fundo falso não é suficiente para afastar o redutor do §4º, art. 33, da Lei 11.343/06.
+A referida situação configura, na verdade, a condição de "mula" do tráfico, em que o agente realiza o transporte, de forma esporádica ou eventual, de entorpecentes.
+Conforme jurisprudência pacífica desta Corte e do STF, a figura de "mula" não demonstra prova inequívoca do envolvimento, estável e permanente, do agente com o grupo criminoso, ainda que ele receba contraprestação pecuniária, esteja ciente de sua ação e que transporte grande quantidade de drogas.
+Dessa forma, à míngua de outros elementos que comprovem a habitualidade delitiva do agente, somados a sua primariedade e seus bons antecedentes, de rigor é o reconhecimento do tráfico privilegiado.
+Ademais, embora o exercício dessa função não demonstre a integração do acusado com organização criminosa, tal fato constitui circunstância concreta a ser valorada na modulação do índice de redução do §4º, art. 33, da Lei 11.343/06, uma vez que se reveste de maior gravidade. Portanto, o privilégio deve ser aplicado na fração mínima de 1/6.
+Nestes termos, colaciono os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE DA DROGA. PROPORCIONALIDADE. FRAÇÃO DA MINORANTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação do art. 59 do Código Penal, reduzir a reprimenda-base estabelecida ao acusado.
+2. O Tribunal de origem fundamentou concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6, salientando, para tanto, a posição do réu na cadeia criminosa, como uma "mula" do tráfico, havendo transportado a droga acondicionada em fundos falsos de suas duas malas despachada em voo para o exterior.
+3. Agravo regimental não provido."
+(AgRg no AREsp n. 2.562.308/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/4/2024, DJe de 11/4/2024; destacou-se.)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ILEGALIDADE DA BUSCA PESSOAL. INOCORRÊNCIA. PRESENÇA DE FUNDADAS RAZÕES. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. FUNÇÃO DE "MULA" DO TRÁFICO. COLABORAÇÃO COM O CRIME ORGANIZAÇÃO. FRAÇÃO MÍNIMA DEVIDAMENTE JUSTIFICADA. AGRAVO DESPROVIDO.
+ ..
+3. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+4. A jurisprudência desta Corte, acompanhando o atual posicionamento do STF, no sentido de que a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o réu faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez que se reveste de maior gravidade.
+5. Agravo regimental não provido."
+(AgRg no AREsp n. 2.546.520/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024; frisou-se.)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL. CONFISSÃO. CIRCUNSTÂNCIA ATENUANTE. IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO AO PREVISTO NO PRECEITO SECUNDÁRIO DO TIPO PENAL VIOLADO. SÚMULA N. 231/STJ. SUPERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DO ART. 33, §4º, DA LEI Nº 11.3434/06 NO PATAMAR DE 1/6. "MULA". FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. Tratando-se de acusado que exerceu a função de "mula", de forma pontual, inexistindo envolvimento comprovado, de forma concreta, em outras condutas no crime de tráfico, e que transportou a droga em claro contexto de patrocínio por organização criminosa, justificada a redução da pena em 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+5. Agravo regimental não provido."
+(AgRg no AREsp n. 2.576.145/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/5/2024, DJe de 14/5/2024; destacou-se.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DA PENA DO ART. 33, § 4º, DA LEI DE DROGAS. MULA. CONSCIÊNCIA DE COLABORAÇÃO COM ORGANIZAÇÃO CRIMINOSA. INAPLICABILIDADE DA FRAÇÃO MÁXIMA. FUNDAMENTAÇÃO IDÔNEA.
+1. "Nos termos da orientação firmada nesta Corte Superior de Justiça, o fato de o Acusado ostentar a condição de "mula" do tráfico justifica a aplicação da fração mínima (1/6 - um sexto) do redutor previsto no art. 33, § 4.º, da Lei de Drogas, dada a maior gravidade da conduta decorrente do exercício dessa função de transporte" (AgRg no HC n. 782.526/RS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.)
+2. A condição de "mula" justifica a incidência do redutor em seu mínimo legal. Embora a condição de "mula" do tráfico, por si só, não afaste a incidência do art. 33, § 4º, da Lei 11.343/2006, pode autorizar a aplicação da causa de diminuição em 1/6, pois, mesmo como transportadora, a ré se deixou cooptar pelo tráfico.
+3. Agravo regimental improvido."
+(AgRg no AREsp n. 2.246.874/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/5/2024, DJe de 13/5/2024.)
+Portanto, passo à nova dosimetria da pena para JUAN DA ROCHA BARBOSA.
+Na primeira fase, mantenho a pena-base em 06 (seis) anos e 600 (seiscentos) dias-multa, diante da apreensão de 95kg de maconha.
+Na segunda fase, ausentes atenuantes e minorantes, resta inalterada a pena intermediária.
+Na terceira fase, presente a majorante do art. 40, V, da Lei 11.343/06 em 1/6 e a minorante do tráfico privilegiado na fração mínima, torno definitiva a reprimenda em 05 (cinco) anos e 10 (dez) meses de reclusão, mais 583 (quinhentos e oitenta e três) dias-multa.
+Diante do quantum de pena, mantenho o regime semiaberto para início do cumprimento da privativa de liberdade, nos termos do §2º, "b", art. 33 do Código Penal, sendo inviável a substituição por restritivas de direitos diante da pena superior a 04 (quatro) anos de reclusão.
+Extensão dos efeitos:
+Nos termos do art. 580 do Código de Processo Penal, a decisão do recurso interposto por um dos acusados, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Portanto, restando comprovada a similitude fática entre o corréu Jeferson Rêgo da Silva e o recorrente Juan da Rocha Barbosa, o reconhecimento da função de "mula" do tráfico deve ser-lhe estendida.
+Procedo com o redimensionamento da pena do corréu.
+Na primeira fase, a basilar é fixada em 06 (seis) anos e 600 (seiscentos) dias-multa diante do vetor do art. 42 da Lei 11.343/06.
+Na segunda fase, presentes as atenuantes da menoridade relativa e da confissão espontânea, estabeleço a pena intermediária no mínimo legal, em respeito à Súmula 231/STJ.
+Na terceira fase, com a incidência da causa de aumento do art. 40, V, da Lei 11.343/06 em 1/6 e da causa de diminuição do §4º, art. 33, do mesmo diploma legal, a perna total é de 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, somados ao pagamento de 486 (quatrocentos e oitenta e seis) dias-multa.
+Mantenho o regime semiaberto, conforme preceitua o §2º, "b", art. 33 do Código Penal.
+Ante o exposto, com apoio no art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de reconhecer a minorante do tráfico privilegiado em 1/6, redimensionando a pena do recorrente para 05 (cinco) anos e 10 (dez) meses de reclusão, mais 583 (quinhentos e oitenta e três) dias-multa. Nos termos do art. 580 do CPP, estendo os efeitos da decisão ao corréu Jeferson Rêgo da Silva, estabelecendo sua pena definitiva em 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão e 486 (quatrocentos e oitenta e seis) dias-multa.
+Publique-se. Intimem-se.
+EMENTA
