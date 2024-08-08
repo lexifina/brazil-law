@@ -1,0 +1,55 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5024824-62.2022.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JAMEF TRANSPORTES EIRELI
+RECORRIDO: ERIKA DE SA CAVALCANTE TEIXEIRA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5024824-62.2022.8.08.0035
+Recorrente: JAMEF TRANSPORTES LTDA
+Recorrido: ERIKA DE SA CAVALCANTE TEIXEIRA
+
+V O T O S
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+Recursos conhecidos por preencherem os pressupostos de admissibilidade.
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO INDENIZATÓRIA COM PEDIDO DE DANOS MORAIS. FALHA NA PRESTAÇÃO DE SERVIÇOS. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO. DANO MORAL CONFIGURADO.
+ALEGA A PARTE AUTORA QUE CONTRATOU A EMPRESA REQUERIDA PARA COLETAR A MERCADORIA REFERENTE AO ORÇAMENTO 13455 E ENTREGÁ-LA NO DIA 03/05/2022. NO DIA 04/05/2022 FOI SURPREENDIDA COM INFORMAÇÃO DE SEU FORNECEDOR ORIGINÁRIO, DA CIDADE DE CURITIBA, DE QUE A RÉ ESTAVA ALEGANDO QUE NÃO TERIA CONSEGUIDO EFETUAR A ENTREGA DA MERCADORIA NO ENDEREÇO PREVIAMENTE DISPONIBILIZADO. ATO CONTÍNUO, PASSOU NOVO ENDEREÇO, MAS EM NENHUM MOMENTO FOI INFORMADA DE QUE, PARA NOVA TENTATIVA DE ENTREGA, SERIA COBRADA A QUANTIA DE R$970,00. POR NÃO CONCORDAR COM A COBRANÇA, NÃO REALIZOU O PAGAMENTO, O QUE ENSEJOU A NEGATIVAÇÃO DOS SEUS DADOS CADASTRAIS. REQUER QUE SEJA DECLARADA A INEXISTÊNCIA DO DÉBITO E PLEITEIA A INDENIZAÇÃO A TÍTULO DE DANO MORAL.
+
+SENTENÇA QUE JULGOU PROCEDENTES EM PARTE OS PEDIDOS AUTORAIS PARA DECLARAR A INEXISTÊNCIA DO DÉBITO DA AUTORA REFERENTE À MULTA PELA “REENTREGA” DA MERCADORIA DA RÉ. DETERMINOU À REQUERIDA RETIRAR O NOME DA PARTE AUTORA DOS CADASTROS DE PROTEÇÃO AO CRÉDITO, NO PRAZO DE 05 (CINCO) DIAS, SOB PENA DE MULTA DIÁRIA DE R$200,00 ATÉ O LIMITE DE R$2.000,00. CONDENOU-A, POR DERRADEIRO, AO PAGAMENTO DO VALOR DE R$8.000,00, A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS.
+
+RECURSO INOMINADO DA PARTE REQUERIDA PLEITEANDO A REFORMA DA SENTENÇA, A FIM DE QUE SEJA RECONHECIDA A EXISTÊNCIA DA DÍVIDA, BEM COMO A LEGALIDADE DAS COBRANÇAS E DA NEGATIVAÇÃO, JULGANDO IMPROCEDENTE, POIS, O PLEITO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO; QUE SEJA RECONHECIDA A APLICAÇÃO DA SÚMULA 385 DO STJ AO PRESENTE CASO, AFASTANDO, DESSA FORMA, A CONDENAÇÃO EM REPARAÇÃO POR DANOS MORAIS; E A MINORAÇÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS.
+
+AFASTA-SE DE PLANO A PRELIMINAR DE FALTA DE DIALETICIDADE RECURSAL, UMA VEZ QUE FORAM APRESENTADOS E REFUTADOS OS ARGUMENTOS QUE EMBASARAM A SENTENÇA RECORRIDA, HAVENDO CABAL PERTINÊNCIA ENTRE OS ARGUMENTOS RECURSAIS E A PRETENSÃO DE REFORMA.
+
+NÃO SE CONHECE, EM CONTRAPARTIDA, DA TESE DE INCIDÊNCIA DA SÚMULA STJ Nº 385, UMA VEZ QUE SE CUIDA DE INOVAÇÃO RECURSAL, NÃO TENDO SIDO ESSA EXCEÇÃO SUBSTANCIAL SUSCITADA, TAMPOUCO PROVADA, POR OCASIÃO DA CONTESTAÇÃO E INSTRUÇÃO NO JUÍZO A QUO.
+
+RECURSO, QUANTO AO MAIS, CONHECIDO E IMPROVIDO. NO ÂMBITO DAS RELAÇÕES CONTRATUAIS EM GERAL PREPONDERA O DEVER DE BOA-FÉ E SEUS CONSECTÁRIOS, NOTADAMENTE OS DEVERES ANEXOS DE COOPERAÇÃO E DE INFORMAÇÃO. NO CASO VERTENTE, NÃO HÁ NOS AUTOS QUALQUER PROVA DE A PESSOA JURÍDICA AUTORA FORA DEVIDAMENTE INFORMADA, DE MANEIRA CLARA, PRÉVIA E ADEQUADA, SOBRE A PENDÊNCIA DA ENTREGA E O VALOR DA MULTA INCIDENTE NA HIPÓTESE DE SER NECESSÁRIA A “REENTREGA”. SENTENÇA DEVIDAMENTE FUNDAMENTADA NAS PROVAS ANEXADAS AOS AUTOS, IN VERBIS: “Do compulsar dos autos, verifico que a ré justifica em sua defesa que fez uma primeira tentativa de entrega no endereço indicado, no entanto, recebeu a informação de a autora havia se mudado, oportunidade na qual entrou em contato com a mesma para obter o novo local para entrega. Ocorre que, nos autos não comprova qual era o endereço originalmente informado, nem juntou o comprovante de tentativa, visto que os endereços são idênticos no CTE de ID 20917911 e 20917912. Inclusive, tal endereço é o locado para sede da requerente, conforme se verifica no contrato de ID 21217833. Em que pese a taxa de reentrega tenha sido advertida no e-mail a autora, conforme print juntado pela própria no ID 18391029, não restou informado qual seria o valor deste. [...] No presente, houve falha na prestação de serviços da ré ao impor uma obrigação acessória a autora sem explicar claramente e previamente qual seria o seu custo. Ademais, não comprova qual endereço fornecido originalmente, a fim de verificar se de fato houve culpa da requerente, nem tampouco a tentativa de entrega.”. NEGATIVAÇÃO INDEVIDA. APTIDÃO A CAUSAR LESÃO À IMAGEM DA PESSOA JURÍDICA. DANO MORAL ARBITRADO DE FORMA CONDIZENTE COM O CASO CONCRETO, HARMONIZANDO-SE COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DE CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA” (ART. 55, 2ª PARTE, DA LEI 9.099/95).
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
