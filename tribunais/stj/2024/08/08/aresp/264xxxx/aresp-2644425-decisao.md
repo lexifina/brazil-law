@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (e-STJ, fls. 468-473):
+"PENAL. APELAÇÃO. RESTITUIÇÃO DE BENS APREENDIDOS. PRAZO DECADÊNCIA. CONCLUSÃO DA MEDIDA. INSTAURAÇÃO DA AÇÃO PENAL. 60 DIAS. CADUCIDADE. OCORRÊNCIA".
+Os embargos de declaração foram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 118 e 131, I, do CPP. Aduz para tanto, em síntese, que: (I) o mero decurso do prazo de 60 dias não autorizaria o levantamento do sequestro; (II) os bens constritos ainda interessam ao processo, sendo inviável sua restituição antes do término da ação penal; e (III) haveria indícios sólidos da origem ilícita dos bens.
+Com contrarrazões (e-STJ, fls. 1.430-1.446), o recurso especial foi inadmitido na origem (e-STJ, fls. 1.447-1.449), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 1.495-1.497).
+É o relatório.
+Decido.
+O agravo impugna adequad amente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não supera o juízo de admissibilidade.
+Sobre o art. 118 do CPP, o TRF constatou que os bens não mais interessam à persecução penal, como se vê no acórdão de julgamento dos embargos de declaração (e-STJ, fl. 1.339):
+"Também não deve ser acolhida a tese de aplicabilidade do art. 118 do CPP, uma vez que, no caso, os bens pertencem a terceiro, que não é réu na ação penal oriunda das investigações e já houve dilação probatória quanto ao interesse de sua manutenção, que foi desqualificado no acórdão embargado".
+Por conseguinte, a inversão de suas conclusões encontra óbice na Súmula 7/STJ. O recurso especial, aliás, não explica propriamente qual seria o interesse dos bens para o processo, nem combate a fundamentação de que sua propriedade é de terceira pessoa, que não integra a ação penal. Logo, a Súmula 283/STF se soma aos motivos para não conhecer do recurso especial nesse tópico.
+Quanto ao prazo para ajuizamento da ação penal após a efetivação do sequestro, este STJ entende, de fato, que o decurso dos 60 dias referidos no art. 131, I, do CPP não conduz automaticamente ao fim da constrição, somente havendo excesso de prazo se restar caracterizada alguma situação de demora injustificada. A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BLOQUEIO DE BENS. LEVANTAMENTO. SÚMULA 7/STJ. EXCESSO DE PRAZO. PECULIARIDADES DO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O princípio da razoabilidade impede que o prazo previsto no art. 131, inciso I, do CPP incida de forma peremptória, devendo ser examinados para esse fim a complexidade e as peculiaridades do caso concreto, tal como ocorreu na hipótese dos autos. Assim, não há que se falar em excesso de prazo, não havendo qualquer ilegalidade a ser sanada.
+4. Agravo regimental não provido".
+(AgRg no AREsp n. 2.521.506/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024.)
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL PENAL. SEQUESTRO DE BENS. ALEGAÇÃO NÃO AVENTADA NAS RAZÕES DO RECURSO ANTERIORMENTE INTERPOSTO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. ALEGADA VIOLAÇÃO AO PRAZO PREVISTO NO ART. 131, INCISO I, DO CÓDIGO DE PROCESSO PENAL. EXCESSO DE PRAZO NÃO CONFIGURADO. COMPLEXIDADE DA CAUSA. EXISTÊNCIA DE DÚVIDA FUNDADA SOBRE A ORIGEM LÍCITA. DILAÇÃO PROBATÓRIA. NECESSIDADE. UTILIZAÇÃO. VIA MANDAMENTAL. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de que, na hipótese dos autos, até o momento, não houve a devida formalização do sequestro de semoventes, tratando-se de simulação processual, não tendo sido suscitados nas razões do recurso ordinário em mandado de segurança, constitui inovação recursal, descabida no âmbito do presente recurso, pela preclusão consumativa.
+2. In casu, as instâncias ordinárias esclareceram e justificaram devidamente o lapso de tempo de duração do sequestro porque o Agravante é suspeito de liderar organização criminosa complexa, hierarquizada, com divisão de tarefas, divisão de atividades, agindo no País e no exterior, obtendo, por meio dos atos ilícitos e em curto prazo de tempo, expressivo montante de recursos financeiros.
+3. A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o princípio da razoabilidade impede que o prazo previsto no art. 131, inciso I, do Código de Processo Penal incida de forma peremptória, devendo ser examinado para esse fim, tal como ocorreu na hipótese dos autos, a complexidade e as peculiaridades do caso concreto.
+4. Existindo dúvida fundada acerca da origem lícita dos recursos utilizados para a aquisição dos bens sequestrados, a análise do pedido de liberação demandaria dilação probatória, incabível na via mandamental.
+5. Agravo regimental desprovido".
+(AgRg no RMS n. 70.218/TO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+A questão é que, no caso dos autos, nem o acórdão recorrido, nem o recurso especial trazem nenhuma informação que permita a este STJ aferir, sem o reexame dos fatos e provas da causa, qual foi realmente a situação ocorrida em primeira instância: se (por exemplo, pela complexidade das investigações) havia justificativa plausível para a superação do prazo legal, ou se a inércia de mais de 1 ano do Parquet é apenas a ele imputável. Os embargos de declaração, semelhantemente, nada trouxeram de relevante sobre o tema, nem pediram a manifestação do Tribunal local sobre eventos que pudessem justificar a extrapolação por mais de 6 vezes do prazo.
+Em atenção aos estreitos limites cognitivos do recurso especial, seu julgamento precisa se ater aos fatos reconhecidos como incontroversos no acórdão recorrido. Quando este não delimita os fatos que dariam suporte à tese recursal, e o próprio recorrente não provoca a Corte de origem a fazê-lo, simplesmente não há no aresto impugnado subsídios fáticos suficientes para acolher a tese recursal. Assim, a Súmula 7/STJ obsta o conhecimento do recurso especial no ponto.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
