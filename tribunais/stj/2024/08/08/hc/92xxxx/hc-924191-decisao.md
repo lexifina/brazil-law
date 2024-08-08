@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 31):
+APELAÇÃO CRIMINAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. RECURSO DA DEFESA. DOSIMETRIA. PRIMEIRA FASE. REDUÇÃO DA PENA-BASE. INVIABILIDADE. FUNDAMENTAÇÃOIDÔNEA. SEGUNDA FASE. ALEGAÇÃO DE BIS IN IDEM. UTILIZAÇÃO DAS QUALIFICADORAS REMANESCENTES PARA RECONHECIMENTO DE CIRCUNSTÂNCIAS AGRAVANTES. AUSÊNCIA DE IRREGULARIDADE. AFASTAMENTO DA CONDENAÇÃO A TÍTULO DE INDENIZAÇÃO POR DANOS AUSÊNCIA DE PEDIDO NA INICIAL ACUSATÓRIA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O magistrado sentenciante analisou corretamente as circunstâncias judiciais do artigo 59, do Código Penal, fundamentando de forma satisfatória aquelas que macularam a pena do apelante, não havendo nenhuma mácula a ser corrigida e, portanto, sendo inviável a redução da pena-base ao mínimo legal.
+2. É assente o entendimento jurisprudencial no sentido de que, reconhecida mais de uma qualificadora pelo Conselho de Sentença, é facultado ao julgador utilizar uma delas para formar o tipo qualificado, e as demais serem utilizadas na primeira fase da dosimetria para fins de aumento da pena-base, ou na fase intermediária da dosimetria, como agravante de pena.
+3. Conforme entendimento do Superior Tribunal de Justiça, para a fixação de valor mínimo indenizatório se exige o atendimento de três requisitos cumulativos, quais sejam, pedido expresso na inicial, indicação do montante pretendido, e a realização de instrução específica, em observância aos princípios do contraditório e ampla defesa. No caso em comento, a fixação de valor mínimo a título de danos morais sequer foi pleiteada na inicial acusatória, de modo que, nos termos do aludido posicionamento da Corte Superior, deve ser afastada.
+4. Recursos conhecido e parcialmente provido.
+O paciente foi condenado por homicídio qualificado (art. 121, §2º, II, III e IV). A defesa aduz que o magistrado incorreu em "error em judicando quando reconheceu como agravantes o motivo fútil e o recurso que impossibilitou a defesa da vítima, configurando bis in idem" (fl. 3). Afirma que não houve o deslocamento de qualificadoras sobressalentes para a primeira e segunda fases, e sim a utilização de três qualificadoras para aumentar a pena-base, e de duas para agravamento.
+Busca a reforma do acórdão "para que não sejam mais valoradas as agravantes das alíneas "a" (motivo fútil) e "c" (recurso que impossibilitou a defesa da vítima), ambas do inciso II do art. 61 do CP, e para que a pena-base seja recalculada com base no afastamento dessas circunstâncias agravantes, nos moldes do art. 59 e 61 do Código Penal" (fl. 7).
+Sem pedido liminar.
+Prestadas informações, o Ministério Público Federal juntou parecer referente a habeas corpus diverso.
+Na origem, apelação criminal n. 0001667-39.2022.8.08.0038, após despacho prestando as informações deste HC em 26/6/2024, os autos foram devolvidos à secretaria para continuação dos trâmites e baixa definitiva, consoante informações processuais disponíveis na página da Corte estadual (acesso em 2/8/2024).
+É o relatório.
+DECIDO.
+Compulsando os autos, verifica-se que, após o julgamento da apelação em 29/4/2024 e depois de escoado o prazo recursal, foi impetrado o presente writ, em 24/6/2024.
+Tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+Com efeito, nos termos da jurisprudência desta Corte, "" n ão deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+No mesmo sentido, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesúino Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 6/4/2024.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
