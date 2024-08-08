@@ -1,0 +1,67 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001010-14.2023.8.08.0026
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDUARDO FISCHER COMERCIO DE ELETROELETRONICOS LTDA e outros
+RECORRIDO: GEIQUISANE RAPOSO TAVARES e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5001010-14.2023.8.08.0026
+
+Recorrente: MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;
+
+Recorridos: GEIQUISANE RAPOSO TAVARES;
+DIOGO LOPES GARCIA;
+
+RELATOR: DR. SALOMÃO A. Z. SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DEFEITO EM PROCESSADOR DE ALIMENTOS. PRAZO DE GARANTIA. DESCUMPRIMENTO DO PRAZO DE 30 DIAS PARA A CORREÇÃO DO VÍCIO (ART. 18, CDC), COM A REINCIDÊNCIA DO DEFEITO.
+
+RECORRENTE QUE SUSCITOU PRELIMINAR DE ILEGITIMIDADE PASSIVA, ADUZINDO QUE É SOMENTE PLATAFORMA DE VENDAS, NÃO TENDO RESPONSABILIDADE QUANTO À NÃO RESOLUÇÃO DA DEMANDA DA PARTE AUTORA.
+
+JUÍZO DE ORIGEM QUE JULGOU PROCEDENTE EM PARTE O PEDIDO AUTORAL, CONDENANDO AS REQUERIDAS SOLIDARIAMENTE AO RESSARCIMENTO DO VALOR DE R$ 4.699,00 (QUATRO MIL SEISCENTOS E NOVENTA E NOVE REAIS), AUTORIZANDO O RECOLHIMENTO DO PRODUTO, BEM COMO INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$ 800,00.
+
+RECURSO DA REQUERIDA MERCADO LIVRE SUSCITANDO NOVAMENTE SUA ILEGITIMIDADE PASSIVA, POR SER APENAS PLATAFORMA DE ANÚNCIOS. PLATAFORMA DE VENDAS VIRTUAL QUE AUFERE RENDIMENTOS A PARTIR DE CADA VENDA POR ELA INTERMEDIADA, O QUE A INTEGRA À CADEIA DE CONSUMO E DETERMINA A SUA RESPONSABILIDADE SOLIDÁRIA POR EVENTUAIS FALHAS DO FORNECEDOR, NOS TERMOS DO PARÁGRAFO ÚNICO DO ART. 7º , DA LEI Nº 8.078 /90. PRECEDENTE DESTA TURMA: "[...] NO CASO EM QUESTÃO ESTAMOS DIANTE DE UM VÍCIO DO PRODUTO, DESSA FORMA, TANTO O FABRICANTE, QUANTO OS FORNECEDORES SÃO RESPONSÁVEIS PELA SOLUÇÃO DA FALHA. O PRIMEIRO REQUERIDO INSERE-SE NA CADEIA DE FORNECEDORES AO VEICULAR ANÚNCIO EM SEU PORTAL DE INTERNET E INTERMEDIAR O PAGAMENTO, DE SORTE QUE A PRELIMINAR DE ILEGITIMIDADE PASSIVA FOI CORRETAMENTE AFASTADA PELO JUÍZO DE PRIMEIRA INSTÂNCIA" (RI 5031659-02.2022.8.08.0024; 2A TURMA RECURSAL / ES; RELATOR: DR. GRÉCIO NOGUEIRA GRÉGIO).
+
+RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS DESPESAS DO PROCESSO E HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+FABIANO CUZINI SCARPINI
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. SALOMÃO A. Z. SPENCER ELESBON – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
