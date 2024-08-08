@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Kayke Jovino Pereira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2174023-51.2024.8.26.0000).
+Colhe-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de droga em 15/6/2024. A prisão em flagrante foi convertida em preventiva (fls. 28/31), com posterior denúncia. Isso porque guardava e tinha em depósito 1.015,33 g de maconha; 286,17 g de haxixe; e 37,29 g de crack (fl. 33).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem (fls. 45/49).
+Neste writ, a defesa sustenta haver nulidade da prisão em flagrante sob o argumento de violação de domicílio.
+Ainda, segundo a defesa, não estão presentes os pressupostos para manutenção da prisão preventiva.
+Pede, em liminar, que o paciente permaneça em liberdade até o julgamento final do writ.
+No mérito, busca a concessão da ordem, para, reconhecendo-se a ilicitude das provas obtidas a partir da violação de domicílio e de todas as dela derivadas, absolver o paciente (fl. 13). Subsidiariamente, pleiteia a liberdade provisória.
+É o relatório.
+De início, destaco que  a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 629.625/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+Portanto, passo a analisar diretamente a insurgência.
+Nos termos do art. 5º, inciso XI, da Constituição da República, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial (grifo nosso).
+No caso, a Corte local, ao afastar a alegação de violação de domicílio, considerou o seguinte (fl. 49 - grifo nosso):
+Incabível o reconhecimento da ocorrência de ofensa ao princípio da inviolabilidade do domicílio, diante da autorização de acesso à residência, pelo do padrasto do paciente, e ao seu quarto, onde foram localizadas as drogas apreendias, por sua própria mãe.
+Ademais, está consignado no auto de prisão em flagrante que a abordagem foi filmada, tendo o Delegado de Polícia, inclusive, representado pela expedição de ofício ao Comando da Polícia Militar da região, para apresentação das filmagens das câmeras corporais dos Policiais Militares (fl. 22 - grifo nosso).
+Nesse contexto, a tese de ilicitude das provas não pode ser acolhida, pois, como destacado no excerto acima, a entrada da guarnição na residência do paciente foi franqueada, tendo sido filmada a abordagem.
+A propósito, mutatis mutandis: AgRg no HC n. 697.699/SP, Ministra Laurita Vaz, Sexta Turma, DJe 31/03/2023; e AgRg no HC n. 701.294/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 31/05/2022.
+Saliento que, para desconstituir a convicção do Tribunal local de que o ingresso no domicílio teria se dado de modo diverso, imprescindível seria o revolvimento fático-probatório dos autos, providência inviável de se promover no rito célere e estreito do habeas corpus ou do recurso que lhe faz as vezes.
+Convém destacar que o feito se encontra em sua fase instrutória, devendo a tese de violação de domicílio no momento da prisão em flagrante ser analisada durante a instrução processual em juízo, em cognição plena (AgRg no HC n. 854.089/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024 - grifo nosso).
+De outra parte, há muito, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130.708/SP, Ministra Cármen Lúcia, Segunda Turma, DJe 6/4/2016).
+Com efeito, no âmbito desta Corte Superior, ambas as Turmas da Terceira Seção compartilham a compreensão de que a elevada quantidade de drogas evidencia a gravidade concreta da conduta imputada, de modo a justificar a segregação cautelar para garantia da ordem pública. A propósito: AgRg no HC n. 884.870/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/4/2024; e AgRg no HC n. 892.877/SE, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/4/2024.
+No caso, o Juízo de primeiro grau, no que foi acompanhado pela Corte local, converteu a prisão em flagrante em preventiva considerando a quantidade e a natureza dos entorpecentes encontrados em poder do custodiado (fl. 30)  1.015,33 g de maconha; 286,17 g de haxixe; e 37,29 g de crack  , o que está em consonância com a jurisprudência das Cortes de Vértice.
+Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes (HC n. 550.688/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/3/2020; e HC n. 558.099/SP, Ministro Jorge Mussi, Quinta Turma, DJe 5/3/2020).
+Ante o exposto, indefiro liminarmente a petição inicial de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES NA ESPÉCIE.
+Writ indeferido liminarmente.
