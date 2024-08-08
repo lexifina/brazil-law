@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANDREY GABRIEL DE JESUS STRASSER contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, no julgamento da apelação criminal n. 5015766-78.2022.8.21.0033.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 3ª Vara Criminal da Comarca de São Leopoldo, como incurso nas sanções do artigo 33, caput, da Lei 11.343/06, em combinação com o artigo 61, inciso I ,do Código Penal, à pena de 6 anos, 9 meses e 20 dias de reclusão, cumulada com multa pecuniária equivalente a 680 dias-multa, conforme a sentença de fls. 352-366.
+Ambas as partes apelaram ao Tribunal de Justiça, negou provimento ao recurso da apelação e proveu parcialmente o da defesa para reduzir a multa pecuniária para 500 dias-multa, consoante o acórdão de fls. 11-33.
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem para decotar da condenação a exasperação da pena-base acima do mínimo legal.
+É o relatório. DECIDO.
+Centra-se a controvérsia em ilegalidade flagrante: exasperação da pena-base do delito de tráfico de drogas acima do mínimo legal, despida de fundamentação idônea.
+Para uma melhor análise, transcrevo os fundamentos do acórdão impugnado (fls. 11-33):
+ ..
+A pena-base do réu Andrey foi fixada em 10 meses acima do mínimo legal de 05 anos de reclusão em razão da valoração negativa da vetorial circunstâncias do Art. 42 da Lei nº 11.343/2006, tendo em vista "a quantidade e o tipo das drogas apreendidas, cocaína e cocaína processada na forma de crack, de alto poder viciante, não podendo tal circunstância ser desconsiderada, possuindo especial peso nesta fase da fixação da pena" (sic).
+É de ser mantida, portanto, a valoração negativa da referida circunstância judicial, uma vez que a natureza e a quantidade de drogas apreendidas são inequivocamente dignas de nota.
+No que toca ao critério de exasperação da pena, tenho que atende aos parâmetros estabelecidos pelo Superior Tribunal de Justiça nesta fase, qual seja, a elevação da pena na fração de 1/6 sobre a pena-base (AgRg no HC n. 771.519/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de14/3/2023).
+Na segunda fase da dosimetria da pena, tenho por correto o não reconhecimento da atenuante da confissão espontânea, pois que, nos termos da fundamentação contida no ato sentencial, "os réus Andrey e Sabrino, que, como se viu, buscaram isentar Ezequiel, réu de maior hierarquia e que exercia a função de gerência do ponto de tráfico." (sic).
+Assim sendo, uma vez reconhecida a agravante da reincidência, mantenho a pena privativa de liberdade do réu Andrey em 06 anos, 09 meses e20 dias de reclusão.
+ ..
+O presente writ investe contra acórdão em substituição ao recurso próprio, não podendo ser conhecido. A Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, verifico que o Tribunal de Apelação apresentou fundamentação idônea para a exasperação da pena-base acima do mínimo legal - quantidade (287 porções de cocaína, pesando aproximadamente 189g, 05 porções de cocaína, pesando aproximadamente 03g, 73 porções de crack, pesando aproximadamente 20g, e 07 porções de crack, pesando aproximadamente 01g), conjugada com o alto poder destrutivo da cocaína e do crack.
+Tais fatores conjugados levaram o Tribunal de Apelação a manter a exasperação da pena-base em 1/6, guardando razão de proporcionalidade com a gravidade da conduta, em posicionamento alinhado com a jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE, NATUREZA E VARIEDADE DAS DROGAS VALORADAS NEGATIVAMENTE. FUNDAMENTOS VÁLIDOS. AGRAVO NÃO PROVIDO.
+1. A teor do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+2. É firme o entendimento deste Tribunal Superior de que "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 21/9/2020).
+3. Na hipótese, as instâncias ordinárias consideraram como desfavoráveis a quantidade, a natureza e variedade dos entorpecentes apreendidos - 96 porções de maconha (133,9g) e 104 de cocaína (68, 7g) - para elevar as penas iniciais dos pacientes em 10 meses acima do mínimo legal, o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos).
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.164/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. NÃO CONHECIMENTO. DOSIMETRIA. PENA-BASE. NATUREZA DELETÉRIA DA DROGA. ANTECEDENTES CRIMINAIS. FUNDAMENTAÇÃO SUFICIENTE. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. FRAÇÃO DE 1/2. NATUREZA DELETÉRIA DA DROGA APREENDIDA. VALORAÇÃO APENAS NA TERCEIRA FASE DOSIMÉTRICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A via eleita do habeas corpus é inadequada para a insurgência contra o ato apontado como coator, uma vez que o ordenamento jurídico prevê recurso específico.
+2. A dosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. No caso, a pena base foi recrudescida em razão dos maus antecedentes do agravante e da natureza deletéria da droga apreendida. Não se verifica, pois, flagrante ilegalidade na fundamentação da exasperação da sanção basilar a justificar a reconsideração da decisão agravada, porquanto concretamente demonstradas as circunstâncias judiciais desfavoráveis ao paciente.
+4. A Terceira Seção uniformizou entendimento de que a natureza/quantidade do material ilícito apreendido deve ser valorado, preferencialmente, na primeira fase da dosimetria (REsp 1.887.511/SP), podendo, ainda, modular o patamar de diminuição da minorante do tráfico privilegiado, desde que não tenha sido considerada na primeira fase do cálculo da pena.
+3. No caso, o Tribunal de origem, acompanhando a jurisprudência desta Corte, fixou em 1/2 (meio) a fração da redutora do tráfico com fundamento na natureza deletéria da droga apreendida (cocaína), que não foi utilizada na primeira fase da dosimetria.
+4. Agravo regimental não provido.
+(AgRg no HC n. 865.664/MS, relatora Ministra Daniela Teixeira, Quinta Turm a, julgado em 14/5/2024, DJe de 23/5/2024.)
+Portanto, não vislumbro ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
