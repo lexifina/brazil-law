@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Catalão contra decisão da Corte de origem que não admitiu o recurso especial. O apelo nobre obstado enfrenta acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 924):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃ O FAZER COM PEDIDO DE TUTELA ANTECIPADA C/C DANOS MORAIS. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. MANUTENÇÃO DA SENTENÇA. 1. O Código de Processo Civil consagra como critério determinante para a condenação ao pagamento das custas processuais e honorários advocatícios a sucumbência. Contudo, nem sempre a sucumbência é o fator determinante, sendo aplicado também o princípio da causalidade, segundo o qual a parte que deu causa à existência do processo, ainda que vencedora, seja condenada ao pagamento dos honorários à vencida, bem como das despesas processuais. 2. No caso em apreço, responde pelos honorários advocatícios é quem deu causa ao processo, na hipótese, o apelante que entregou programa social de habitação (lote legal) sem a devida infraestrutura. 3. Honorários recursais majorados (artigo 85, § 11, CPC). APELA ÇÃ O C Í VEL CONHECIDA MAS DESPROVIDA.
+Embargos de declaração rejeitados.
+No recurso especial, a parte recorrente alega violação do artigo 1.022, incisos I e II, do CPC, porquanto, "ao argumentar a omissão do acórdão sobre a responsabilidade do loteador quanto à obrigação de disponibilizar a infraestrutura, nos termos do artigo 40 da lei federal 6.766/79, não teve superado o referido vício" (fl. 989).
+Com contrarrazões.
+Neste agravo afirma que o recurso especial foi apresentado dentro do prazo legal, sendo possível a comprovação posterior da suspensão do prazo por ocasião do presente agravo.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Preliminarmente, não se pode conhecer da apontada violação do art. 1.022, I e II, do CPC/2015, uma vez que o recurso se cinge a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE INFRINGÊNCIA À SÚMULA. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. No que se refere à alegação de infringência à Súmula, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF.
+3. A jurisprudência desta Corte é uníssona no sentido de que, sobrevindo extinção da execução fiscal em razão do cancelamento da certidão de dívida ativa após a citação válida do executado, a Fazenda Pública deve responder pelos honorários advocatícios, em homenagem ao princípio da causalidade. Precedentes: AgRg no AREsp 791.465/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 23/08/2016, DJe 31/08/2016; REsp 1648213/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/03/2017, DJe 20/04/2017.
+4. Agravo interno a que se nega provimento.(AgInt no AREsp 1.134.984/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/03/2018).
+Por outro lado, a partir do que se verifica do acórdão recorrido, a solução da lide se deu à luz da legislação municipal (Lei municipal nº 3.267/2015), o que refoge à competência desta Corte, nos termos do enunciado 280 da Súmula do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. ANÁLISE DE LEGISLAÇÃO MUNICIPAL. INCIDÊNCIA DA SÚMULA 280/STF.
+1. Pretende o recorrente análise de legislação municipal (Lei Municipal n. 2.343/2006 e Estatuto da Guarda Municipal do Município do Cabo de Santo Agostinho), o que afasta a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+2. O exame de normas de caráter local é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+Agravo regimental improvido.
+(AgRg no AREsp n. 447.090/PE, relator Ministro Humberto Martins, Segunda Turma, julgado em 18/2/2014, DJe de 24/2/2014.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃ O FAZER. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284 DO STF. ANÁLISE DE LEGISLAÇÃO MUNICIPAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
