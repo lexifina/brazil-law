@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Alessandro dos Santos Franco, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo que denegou o Habeas Corpus n. 2185759-66.2024.8.26.0000, mantendo a prisão preventiva do paciente decretada nos Autos n. 1500988-56.2024.8.26.0599, pela suposta prática do crime de furto qualificado tentado .
+Neste writ, sustenta a defesa, em síntese, a ausência de fundamentação concreta a justificar a imposição da custódia, bem como a desproporcionalidade da medida em relação ao resultado final do processo, sendo cabível ao caso a aplicação de medidas cautelares menos gravosas.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Inicialmente, quanto à desproporcionalidade da medida em relação ao resultado final do processo, não há como concluir se, na sentença, será fixado regime inicial diverso do fechado ou se o paciente terá substituída a pena privativa de liberdade por restritiva de direitos. Tais temas serão apreciados em momento processual oportuno e não impedem a imposição da constrição cautelar.
+No tocante aos motivos da custódia, infere-se do decreto prisional (fl. 112 - grifo nosso):
+ ..
+No presente caso, os Policiais Militares relataram que realizavam patrulhamento de rotina quando, ao adentrarem o pátio de veículos do posto de combustíveis conhecido como "Amigão", avistaram dois indivíduos sob um caminhão, aparentemente desmontando um servo freio do veículo ali estacionado. Imediatamente, deram a voz de prisão aos suspeitos, os quais, ao perceberem a presença policial, empreenderam fuga em direções opostas, sendo que lograram êxito em alcançar e deter apenas o averiguado Alessandro, enquanto o outro suspeito conseguiu se evadir adentrando um matagal próximo. Durante a ação, foi apreendida uma mochila contendo diversas ferramentas utilizadas para a prática do furto.
+Analisando as circunstâncias pessoais do indiciado (fls. 54/59 e 60/69), verifica-se que este é multirreincidente específico (processos0001739-15.2018.8.26.0604 e 0002327-93.2015.8.26.0582), possuindo ainda outra condenação recente não definitiva (processo1502171-55.2023.8.26.0548), também por furto.
+Assim, apesar de não se tratar de crime com emprego de violência e grave ameaça contra pessoa, resta que o "periculum libertatis" está bem demonstrado, ante a condutado indiciado que insiste em se envolver em fatos criminosos, situação que gera abalo sensível à ordem pública, ante o ataque ao patrimônio alheio e fazendo da reiteração na conduta criminosa meio de vida, do que se infere a incompatibilidade das medidas alternativas à prisão contidas no artigo 319 do Código de Processo Penal.
+ ..
+Mantendo a constrição cautelar do paciente, a Corte estadual ponderou (fl. 144 - grifo nosso):
+ ..
+De mais a mais, conforme informações constantes na Certidões de Distribuições Criminais do acusado (páginas 68/73), é indivíduo reincidente na prática de delitos patrimoniais. Verifica-se, pois, que o paciente é indivíduo que não respeita a lei e a ninguém.
+Ressalte-se, ainda, que a Lei n.º 12.403/11, mesmo que de forma excepcional, prevê a possibilidade da decretação da prisão preventiva para os crimes dolosos com o máximo de pena privativa de liberdade superior a 4 anos, o que engloba o crime em questão. Portanto, considerando-se que a situação processual do paciente admite o decreto preventivo, não era mesmo razoável a concessão de outra medida cautelar em seu favor. Aliás, medida diversa da prisão seria claramente insuficiente e geraria sentimento de impunidade e risco concreto para a sociedade.
+ ..
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+In casu, a segregação cautelar do paciente encontra-se devidamente justificada na garantia da ordem pública, diante da periculosidade social do custodiado, que é multirreincidente específico e, inclusive, possui condenação recente por furto, fundamentos hábeis à manutenção da medida.
+No mesmo sentido, confiram-se os seguintes precedentes: AgRg no HC n. 865.528/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2023; e AgRg no RHC n. 171.320/MT, Minis tra Laurita Va z, Sexta Turma, DJe 19/12/2022.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE DA MEDIDA. IMPOSSIBILIDADE DE ANÁLISE . MATÉRIA AFETA À AÇÃO PENAL. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE SOCIAL DO CUSTODIADO. REINCIDÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Writ indeferido liminarmente.
