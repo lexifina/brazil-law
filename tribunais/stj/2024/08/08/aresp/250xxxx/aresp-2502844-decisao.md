@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba assim ementado:
+APELAÇÃO. AÇÃO DE EXECUÇÃO FISCAL. DECISÃO QUE EXTINGUIU O FEITO SEM RESOLUÇÃO DO MÉRITO. NÃO CUMPRIMENTO DA DETERMINAÇÃO FAZENDA EXEQUENTE QUANTO AO RECOLHIMENTO ANTECIPADO DE DILIGÊNCIAS DE OFICIAIS DE JUSTIÇA. RECURSO. ALEGAÇÃO DE DEVIDO PAGAMENTO DA VERBA PELO TRIBUNAL DE JUSTIÇA. SÚMULA 190 DO STJ. INSUBSISTÊNCIA. APLICAÇÃO DO ART. 932, IV, DO CPC. MANUTENÇÃO DA SENTENÇA. APELO DESPROVIDO.
+Opostos dois embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 91, 485 e 1.022 do CPC/2015 e dos arts. 37, 39 e 40 da Lei n. 6.830/1980, sustentando, em síntese (fls. 248/266):
+Nada consta no acórdão recorrido acerca da impossibilidade da extinção da execução fiscal por abandono sem observar o procedimento de suspensão e posterior arquivamento previsto no art. 40 da Lei nº 6.830/80, a subsunção do teor da súmula 240/STJ e aplicação de prévia intimação na forma do art. 485, §1º, do CPC.
+Com contrarrazões da parte recorrida, o recurso não foi admitido, o que deu ensejo à interposição do Agravo em Recurso Especial, em que a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 361/365):
+Repise-se, pois, que o presente recurso não merece prosperar, relativamente ao decidido em comento, porquanto a sentença se afigura isenta de vícios quanto ao reconhecimento da necessidade de antecipação das diligências de oficiais de justiça, além de ter existido expressa e prévia menção à penalidade de extinção do feito, caso não ocorresse o cumprimento da determinação judicial  ..  Deste modo, como o exequente foi intimado para recolher as diligências do Oficial de Justiça, nos termos determinados, mas não o fez, tampouco recorreu no momento oportuno, oferecendo o competente agravo de instrumento, tem-se que a sentença proferida pelo MM. Juiz singular deve ser mantida em todos os seus termos.
+Nos embargos de declaração, o Estado da Paraíba pediu integração quanto à regra do art. 40 da Lei n. 6.830/1980, às disposições do art. 485, inc. III, do CPC/2015 e à Lei Estadual n. 11.838/2021 (fls. 158/164).
+Entretanto, por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 173/178).
+Pois bem.
+Preenchidos os requisitos de admissibilidade, deve ser conhecido o Agravo em Recurso Especial. E, considerado o contexto fático-jurídico descrito no acórdão recorrido, o recurso especial deve ser provido.
+De fato, o Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas". Não obstante, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, verifica-se violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador não torna desnecessária a integração pedida nos aclaratórios, notadamente, quanto aos requisitos necessários para se determinar a extinção do processo executivo fiscal e quanto à legislação estadual invocada.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, cassar o acórdão dos embargos de declaração e determinar o retorno dos autos ao Tribunal de Justiça para enfrentamento das teses neles veiculadas.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OCORRÊCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
