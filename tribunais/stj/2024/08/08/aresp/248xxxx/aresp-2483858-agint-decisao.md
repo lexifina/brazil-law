@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONSTRUTORA E INCORPORADORA J.A. RUSSI LTDA contra decisão da il. Presidência deste Tribunal Superior que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica à decisão de inadmissão.
+Sem impugnação pela parte agravada.
+É o relatório. Decido.
+Em melhor análise, observa-se a necessidade de reconsideração da decisão agravada, pois houve efetiva impugnação à decisão de inadmissão e o agravo em recurso especial preenche os demais requisitos de admissibilidade.
+Não obstante, está correta a decisão de inadmissão do especial, pois não se verifica violação do art. 1.022 do CPC/2015 e as súmulas 7 e 211 do STJ e 280, 282 e 283 do STF são mesmo óbices ao conhecimento do recurso.
+A propósito, vejamos a situação retratada no acórdão recorrido (fls. 69/71):
+Acerca da ventilada ilegitimidade ativa, denota-se que a narrativa é de todo impertinente, porquanto absolutamente pacífico no âmbito normativo e jurisprudencial que tanto a parte quanto o patrono possuem, concorrentemente, legitimidade para vindicarem o adimplemento da verba sucumbencial, nada obstante o montante perfazer "direito autônomo" do advogado (art. 23 da Lei n. 8.906/94)
+ ..
+De mais a mais, denota-se que a verba honorária destinada aos procuradores do Município de Itapema foi devidamente regulamentada pela Lei Municipal n. 3.540/2016, atribuindo-se ao Município - em atenção ao teto remuneratório constitucional (art. 37, inc. "XI", da CRFB) - a incumbência de distribuição equânime dos honorários sucumbenciais aos seus patronos.
+ ..
+Assim, o Município exequente é parte legítima para reivindicar a verba honorária fixada em favor de seus causídicos.
+No que concerne à suposta "inexequibilidade" dos honorários ante a sua fixação sobre "proveito econômico zero", razão também não lhe assiste.
+ ..
+Em impugnação à execução, o Município, ora agravado, ventilou a inexequibilidade do título, porquantoa ação de conhecimento não o condenou à repetição do indébito, mas sim, tão e somente, determinou " ..  ocancelamento da inscrição em dívida ativa, ato que já foi executado de ofício pelo Município" (Evento 1 - anexo 3 -autos de origem); daí porque não haveriam valores a serem reivindicados pela empresa.
+A impugnação, pois, restou "parcialmente acolhida" " ..  a fim de excluir da execução a repetição do indébito, porquanto a sentença foi apenas declaratória, devendo a execução prosseguir com relação aos honorários advocatícios de sucumbência", complementando-se o julgado para condenar " ..  a parte impugnada/embargada ao pagamento de honorários advocatícios que fixo em 10% sobre o valor da importância a ser expurgada em decorrência do acolhimento parcial da impugnação ofertada" (Evento 1 - execução/cumprimento de sentença 5 e 6 -autos de origem); dando-se seguimento, assim, à cobrança do valor dos honorários sucumbenciais (R$ 30.940,19),e extirpando-se da actio executiva o montante de R$ 188.461,69, sobre o qual - após a devida atualização - incide a verba sucumbencial.
+É esse, pois, o "proveito econômico" logrado pelo Município exequente quando da impugnação à malfadada execução proposta pela empresa; inexistindo lastro lógico, legal ou moral para corroborar a vil narrativa de que o proveito "é igual a zero".
+Ora, a narrativa ventilada pela agravante, além de equivocada, está totalmente fora do contexto fático e jurídico da impugnação, podendo conduzir até mesmo para cogitação de má-fé, devendo-se advertir o litigante que a reiteração da conduta poderá ensejar penalização na forma dos artigos 80 e 81 do CPC
+Ao julgar os embargos de declaração, o órgão julgador a quo nada acresceu à fundamentação (fls. 96/98).
+E, nas razões do especial, a parte recorrente alega "violação ao art. 85, §14 e 85, § 3º, I, II, III e IV, do CPC e ao art. 1.022, II, do CPC" porque "não cabe à parte, mas sim ao advogado, requerer o cumprimento de sentença de honorários advocatícios"; "há reconhecimento da Prefeitura para cancelamento do débito e, inclusive, compensação/devolução do valor pago, deixando clara a inexistência de proveito econômico, o que seria imprescindível para fixação da base de cálculo de honorários sucumbenciais" (fls. 110/120).
+Pois bem.
+No contexto, percebe-se a ausência de impugnação específica à fundamentação do acórdão recorrido e, por isso, a súmula 283 do STF é mesmo óbice ao conhecimento do recurso; e, ainda que não fosse, à luz das Súmulas 7 do STJ e 280 do STF, não haveria como alterar a conclusão do acórdão recorrido, na via do especial, pois o órgão julgador a quo, de forma fundamentada e coerente, decidiu a questão dos honorários com apoio na lei municipal e em atenção à prova dos autos, o que, inclusive, torna desnecessária a integração pedida nos embargos de declaração e enseja o não acolhimento da alegação de violação do art. 1.022 do CPC/2015.
+Ante o exposto, reconsidero a decisão agravada; e conheço do agravo para conhecer, em parte, do recurso especial e nego-lhe provimento. Fica prejudicado o agravo interno.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
