@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus , interposto por JULIO CESAR MORAIS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o Recorrente foi preso preventivamente, pela prática, em tese, dos crimes descritos no art. 2º da lei 12.850, art. 171 e 168, ambos do Código Penal. Posteriormente, por decisão deste Superior Tribunal de Justiça, teve sua prisão substituída por medidas cautelares alternativas, dentre elas, o monitoramento eletrônico.
+Diante disso, requereu a concessão liminar da ordem para que seja revogada a medida cautelar de monitoramento eletrônico. O pedido liminar foi indeferido.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve o monitoramento eletrônico, em acórdão assim ementado: "(..) HABEAS CORPUS-ORGANIZAÇÃO CRIMINOSA -ESTELIONATO -APROPRIAÇÃO INDÉBITA -MONITORAMENTO ELETRÔNICO -DECISÃO DO STJ -DESCUMPRIMENTO DA MEDIDA -GRAVIDADE DOS DELITOS -EXPEDIÇÃO DE GUIA DE EXECUÇÃO -COMPUTO DA PENA -ORDEM DENEGADA.1. Considerando a gravidade dos delitos imputados ao paciente, bem como o descumprimento anterior da medida cautelar que lhe foi imposta, não há que se falar em sua revogação ou ampliação.2. Não tendo sido apresentada prova pré-constituída que evidencie, de maneira efetiva, a ocorrência de constrangimento ilegal à liberdade de locomoção do paciente, deve ser denegada a ordem.3. Ordem denegada. (..)"  (fl. 8673); conforme acórdão de fls. 8673-8679.
+Na hipótese, a Defesa, neste Recurso Ordinário Constitucional, alega constrangimento ilegal.
+Aduz que:
+"E isto porque, a medida cautelar alternativa, embora permita uma pequena margem de locomoção, impõe ao recorrente grande limitação de locomoção, possuindo uma carga pena, passível de ser descontada no cumprimento de sua pena. Vale ressaltar que a monitoração eletrônica, por si só, não é capaz de ensejar o desconto na condenação." (fl. 8695)
+O recorrente requer liminarmente a concessão da ordem, para revogar a medida cautelar de monitoramento eletrônico, alternativamente, que seja determinada a expedição de guia de execução de pena.
+Informações prestadas às fls. 8717-14501, 14502-16579, 16580-17130, 17131-17132 e 17149-17161.
+O Ministério Público Federal, às fls. 17149-17161, em parecer, manifestou-se pelo conhecimento e desprovimento do recurso:
+"RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. DELITOS DE ORGANIZAÇÃO CRIMINOSA,ESTELIONATO E APROPRIAÇÃO INDÉBITA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. REQUERIMENTO DE REVOGAÇÃO DE MONITORAMENTO ELETRÔNICO. IMPOSSIBILIDADE. PROPORCIONALIDADE E RAZOABILIDADE DEMONSTRADAS. GARANTIA DA ORDEM PÚBLICA. PACIENTE QUE TEM PARTICIPAÇÃO RELEVANTE NO ESQUEMA CRIMINOSO. DESCUMPRIMENTO DAS REGRAS DE USO DA TORNOZELEIRA ELETRÔNICA. PRECEDENTES DO STJ. PLEITO DE EXPEDIÇÃO DE GUIA DE EXECUÇÃO PROVISÓRIA. REJEIÇÃO. MONITORAMENTO ELETRÔNICO IMPOSTO NO DECORRER DA INSTRUÇÃO CRIMINAL É DE NATUREZA CAUTELAR, NÃO PODENDO SER CONSIDERADO COMO TEMPO DE PRISÃO PARA A DETRAÇÃO DE PENA. PRECEDENTES DO STJ. PEDIDO DE LEVANTAMENTO DA OBRIGAÇÃO DE PERMANECER NOS LIMITES DA CIDADE DE TIMÓTEO/MG. RECHAÇADO. FALTA DE COMPROVAÇÃO DE QUE TAL MEDIDA TEM RESTRINGIDO A ATIVIDADE LABORATIVA DO PACIENTE. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO." (fl. 17149)
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/MG-, na data de hoje, foi proferida sentença, em 31/05/2023, condenando o Paciente, logo, há um novo título judicial que deva ser desafiado por meio judicial próprio.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, julgo o presente recurso ordinário em habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
