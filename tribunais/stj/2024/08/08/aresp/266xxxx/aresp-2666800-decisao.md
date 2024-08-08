@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDO HENRIQUE PINTO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - REPARATÓRIA DE DANOS MORAIS - DECRETO DE PROCEDÊNCIA - OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO - REJEIÇÃO PEDIDO DE REFORMA DE UM DOS DOIS CORRÉUS - PARCIAL CABIMENTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 186 do CC, no que concerne ao cabimento da obrigação de reparar o dano causado, haja vista o excesso no exercício regular do direito que causou constrangimento e sofrimento nos recorrentes, trazendo a seguinte argumentação:
+Conforme previsto no Código Civil, no artigo 186, aquele que comete ato ilícito deve reparar o dano causado.
+No r. acórdão, o entendimento foi que o segurança agiu no exercício regular de direito, excludente prevista no artigo 188, porém, conforme decidido em ampla jurisprudência,  o exercício regular de direito não pode permitir ao agente qualquer ato irresponsável, sem qualquer penalidade.
+Assim, estando comprovado nos autos que o segurança acusou injustamente os recorrentes, somente se demonstrando a inocência através da filmagem do local, houve excesso nesse exercício regular, com o constrangimento e sofrimento dos recorrentes, o qual deve ser ressarcido, conforme acertada sentença de primeiro grau.
+As violação ao artigo 186 do Código Civil, lastreada em decisões de julgados juntados nos autos, é suficiente como requisito objetivo para a aceitação e análise do presente Recurso Especial (fls. 637).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Na mesma esteira, não se verifica concreto resultado nocivo ("secundum eventum litis"), que seria traduzido por situação vexatória a sua honra objetiva ou subjetiva, com espeque no artigo 5% inciso X da Constituição Federal, que dita:
+ ..
+Aliás, são corriqueiros, na realidade, os mais triviais aborrecimentos do dia-a-dia. Logo, estão, hoje, sendo equiparados a um sofrimento qualificado como insuportável, resultado de forte dor emocional e psíquica, acompanhado de vergonha. Chega-se a poder afirmar que qualquer contrariedade, mesmo que mínima, é, para alguns nódoa indelével e permanente.
+A sensibilidade moral da apelante não pode alcançar a pretensão indenizatória que reclama na inicial. A esse respeito, vale trazer à colação voto do Desembargador SÉRGIO CAVALLIERI FILHO do Egrégio Tribunal de Justiça do Rio de Janeiro, no julgamento da Apelação Cível nº 8218/95, que assim se expressa (fls. 574-575).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
