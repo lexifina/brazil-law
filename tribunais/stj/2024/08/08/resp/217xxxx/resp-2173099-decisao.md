@@ -1,0 +1,9 @@
+DECISÃO
+Reconsidero o despacho de fls. 3.364-3.367.
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado da Bahia (TJBA), no Incidente de Resolução de Demandas Repetitivas (IRDR) 0000225-15.2017.8.05.0000 que, na análise do mérito, fixou a seguinte tese (fl. 2.529):
+A percepção do adicional de insalubridade, por servidores públicos, fica sujeita às seguintes condições: (i) existência de lei municipal; (ii) em não havendo regulamentação, por sua desnecessidade, ou por inércia do Poder Executivo, garante-se ao servidor o exame do seu direito em ação ordinária, com aplicação supletiva da regulamentação federal (NR 15 do Ministério do trabalho); e (iii) elaboração de perícia, salvo quando for evidentemente desnecessária, nas hipóteses em que o fato narrado na exordial ficar incontroverso (art. 374, II e III do CPC/2015) ou estiver provado por outros meios de prova.
+Nos termos do art. 256-H do Regimento Interno do Superior Tribunal de Justiça (RISTJ), o recurso especial interposto em face de acórdão de tribunal de justiça ou de tribunal regional federal, que julgue o mérito de IRDR, deve seguir o procedimento regimental dos recursos indicados como representativos da controvérsia (art. 256 a 256-G).
+À vista do exposto, com base no art. 46-A do RISTJ e na delegação prevista na Portaria STJ/GP 59, de 5 de fevereiro de 2024, determino a abertura de vista dos autos ao Ministério Público Federal para que, no prazo de 15 dias, se pronuncie a respeito da admissibilidade do referido especial como representativo da controvérsia, nos termos do art. 256-B, II, do RISTJ.
+Intimem-se as partes recorrente e recorrida para, caso entendam pertinente, apresentarem, em prazo comum ao do Ministério Público Federal, manifestações escritas sobre a possível seleção desse recurso como representativo da controvérsia, candidato à afetação sob o rito dos repetitivos.
+Publique-se.
+EMENTA
