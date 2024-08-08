@@ -1,0 +1,70 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005066-29.2023.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ZELI SOUZA OTTO
+RECORRIDO: IDEAL INVEST S.A
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5005066-29.2023.8.08.0014
+
+Recorrente: ZELI SOUZA OTTO;
+
+Recorrido: IDEAL INVEST S.A;
+
+RELATOR: DR. SALOMÃO A. Z. SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Deferido o pedido de justiça gratuita.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. FINANCIAMENTO ESTUDANTIL. NEGATIVAÇÃO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. PARTE AUTORA QUE AJUIZOU DEMANDA ALEGANDO DESCONHECER A ORIGEM DA RESTRIÇÃO. SUSCITOU AUSÊNCIA DE RELAÇÃO COMERCIAL COM A REQUERIDA. POR DERRADEIRO, ASSEVEROU NÃO TER SIDO NOTIFICADA PREVIAMENTE AO APONTAMENTO.
+
+JUÍZO DE ORIGEM QUE JULGOU IMPROCEDENTE O PEDIDO, POIS ESTE FORA FUNDADO NA SUPOSTA IRREGULARIDADE DE ASSINATURA DO CONTRATO, E AUSÊNCIA DE CONSTITUIÇÃO EM MORA DO DEVEDOR. PARTE AUTORA QUE NÃO NEGOU A CONDIÇÃO DE FIADORA. NOTIFICAÇÕES RELACIONADAS À NEGATIVAÇÃO QUE CABERIAM AOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO.
+
+EVIDENCIADO NOS AUTOS QUE A AUTORA FIGURA COMO FIADORA DE SEU NETO EM CONTRATO DE FINANCIAMENTO ESTUDANTIL. DOCUMENTOS ACOSTADOS AO CADERNO PROCESSUAL QUE INFORMAM SOBEJAMENTE A EXISTÊNCIA DA CONTRATAÇÃO DESSA GARANTIA.
+
+NOTIFICAÇÃO DO DEVEDOR NÃO COMPROVADA. RESPONSABILIDADE PELA INCORREÇÃO DOS DADOS E PELA AUSÊNCIA DE NOTIFICAÇÃO REGULAR QUE SE ESPRAIA, DE FORMA SOLIDÁRIA, SOBRE TODAS AS FIGURAS QUE COMPÕEM ESSA CADEIA DE SERVIÇOS (CREDOR E BANCO DE DADOS ARQUIVISTA). ART. 16, DA LEI Nº 12.414/2011, QUE PRECONIZA A IMPUTAÇÃO DO BANCO DE DADOS, DA FONTE E DO CONSULENTE PELOS DANOS MATERIAIS E MORAIS OCASIONADOS AO CADASTRADO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA (V.G. STJ. RESP 1630889 / DF RECURSO ESPECIAL 2016/0263665-1. RELATOR(A) MINISTRA NANCY ANDRIGHI. TERCEIRA TURMA. DATA DO JULGAMENTO 11/09/2018).
+
+TESE DE FALTA DE NOTIFICAÇÃO QUE FORA MANIFESTADA DESDE A EXORDIAL E REITERADA EM RECURSO. SOLIDARIEDADE ENTRE O ARQUIVISTA E O CREDOR, QUANTO A TODAS AS ETAPAS QUE CULMINAM NO REGISTRO EM DESFAVOR DO CONSUMIDOR. ÔNUS DA PROVA QUE RECAI SOBRE A PARTE CREDORA (ART. 14, §3º, DO CDC), QUE DELE NÃO SE DESINCUMBIU. IRREGULARIDADE DO APONTAMENTO QUE ACARRETA DANO MORAL IN RE IPSA.
+
+RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA PARA CONDENAR A PARTE REQUERIDA AO PAGAMENTO DE DANOS MORAIS, NO IMPORTE DE R$ 5.000,00, CORRIGIDOS A PARTIR DESTE ARBITRAMENTO, COM JUROS LEGAIS RETROATIVOS À DATA DO APONTAMENTO INDEVIDO. SEM CUSTAS E HONORÁRIOS.
+
+FABIANO CUZINI SCARPINI
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. SALOMÃO A. Z. SPENCER ELESBON – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
