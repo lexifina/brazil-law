@@ -1,0 +1,17 @@
+DECISÃO
+LEONARDO GONÇALVES DOS SANTOS interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação Criminal n. 0002495-54.2024.8.16.0131 .
+Depreende-se dos autos que o ora recorrente foi condenado a 4 anos, 10 meses e 10 dias de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação do art. 33, § 4º, da Lei n. 11.343/2006 e requer, em síntese, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo.
+Decisão de admissibilidade às fls. 726-727.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso.
+Decido.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+Nos autos em exame, o Tribunal de origem preservou o benefício em patamar diferente do máximo em razão da "quantidade e  da  variedade de entorpecentes, inclusive de elevado potencial deletério como a cocaína e o LSD, justifica a redução da reprimenda na fração mínima de 1/6" (fl. 609).
+Veja-se, portanto, que o Tribunal a quo fundamentou concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6, salientando, para tanto, condições entre as estabelecidas no art. 42 da Lei de Drogas, quais sejam, a quantidade e a variedade dos entorpecentes apreendidos - 25 g de maconha, 85 g de cocaína e 121 pontos de LSD.
+Ainda, destaco que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que reputo devidamente caracterizada nos autos.
+Assim, não identifico a contrariedade ao § 4º do art. 33 da Lei n. 11.3 43/2006.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 257 do RISTJ, nego provimento ao recurso especial.
+P ublique-se e intimem-se.
+EMENTA
