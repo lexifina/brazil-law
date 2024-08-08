@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO PROPOSTA CONTRA A CEF E A FUNCEF. PEDIDO QUE NÃO SE RESTRINGE À ANÁLISE DAS REGRAS DA PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA, INICIALMENTE, DA JUSTIÇA DO TRABALHO. HIPÓTESE DIVERSA DA QUE FOI JULGADA PELO STF NO RE N. 586.453/SE, SOB O REGIME DE REPERCUSSÃO GERAL. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que a matéria em discussão é afeta à relação de emprego estabelecida com a Caixa Econômica Federal, ainda que haja reflexos no valor dos benefícios de responsabilidade da entidade de previdência privada, a FUNCEF, aplica-se ao caso, com as devidas adaptações, o comando da Súmula 170/STJ: "Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo de nova causa, com pedido remanescente, no juízo próprio". Precedentes da Segunda Seção.
+2. Hipótese que não se enquadra, portanto, no entendimento firmado pelo Supremo Tribunal Federal, no julgamento do RE n. 586.453/SE, sob o regime de repercussão geral, no qual foi reconhecida a competência da Justiça comum para o processamento, em regra, de demandas ajuizadas contra entidades privadas de previdência nas quais se busca o complemento de aposentadoria.
+3. Agravo interno desprovido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 114, IX, e 202, § 2º, da Constituição Federal e aduz haver repercussão geral da matéria tratada.
+Alega que o acórdão recorrido contraria a orientação firmada no Tema n. 190 do STF, argumentando que a simples inclusão do fundo de previdência no polo passivo da demanda impõe a competência da Justiça comum para o processamento do feito.
+Acrescenta que essa solução permanece cabível mesmo em hipótese na qual a condenação do patrocinador ao pagamento de verba remuneratória implique reflexos na complementação de aposentadoria.
+Afirma, assim, que o objeto da demanda engloba apenas pedidos de matéria previdenciária, destacando que contribuição do empregador não integra o contrato de trabalho.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas.
+É o relatório.
+O Superior Tribunal de Justiça proferiu julgamento no seguinte sentido (fls. 171-176):
+Depreende-se do que ficou registrado na decisão agravada que a causa de pedir principal da contenda tem origem na inclusão na base de cálculo da contribuição da autora da parcela denominada Complemento Temporário Variável de Ajuste ao Piso de Mercado - CTVA, a qual teria natureza salarial.
+O pedido exordial refere-se a uma relação jurídica prévia, uma vez que a matéria demarcada é afeta à relação de emprego, ainda que haja reflexos no valor dos benefícios de responsabilidade da entidade de previdência privada, a FUNCEF.
+ ..
+Desse modo, a questão em análise não se amolda aos precedentes do STF mencionados (RE n. 586.453 e 583.050), por se tratar de discussão que não envolve a simples interpretação de regras estatutárias, sendo necessário definir, previamente, se a parcela denominada CTVA tem ou não natureza salarial e, por conseguinte, se poderia, na hipótese, ter sido excluída do salário de contribuição do empregado, tendo em vista que esse fato terá reflexo no valor de suas suplementações de aposentadoria.
+Em verdade, o autor cumulou, indevidamente, o pedido de condenação da ex-empregadora em aportar contribuições previdenciárias sobre determinada parcela salarial, cujo resultado depende da análise da anterior relação de trabalho, com o consequente pedido de repasse desses valores aos futuros proventos de aposentadoria complementar, em que o sucesso, a ser aferido pela Justiça comum, depende do reconhecimento do pedido anterior pela Justiça trabalhista.
+Por esses motivos, compete, inicialmente, à Justiça laboral, analisando a anterior relação de trabalho e concluindo que a indigitada CTVA possui natureza salarial, decidir acerca dos consequentes reflexos na respectiva contribuição previdenciária patronal.
+Em resumo, pretende-se na ação a responsabilização do empregador pelas contribuições ao fundo de previdência e pela recomposição da reserva matemática, como reflexos do pagamento de verba remuneratória, e não apenas o simples ajuste no benefício de complementação de aposentadoria.
+Consequentemente, a resolução da controvérsia não é possível mediante simples análise do contrato previdenciário.
+Nesse sentido, o Supremo Tribunal Federal, ao examinar o RE n. 1.265.564/SC, sob o regime de repercussão geral, firmou a seguinte tese (Tema n. 1.166 do STF):
+Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada.
+Confira-se a ementa do precedente paradigma:
+RECURSO EXTRAORDINÁRIO. TRABALHISTA. COMPETÊNCIA. PEDIDO DE CONDENAÇÃO DA EMPRESA EMPREGADORA AO PAGAMENTO DE VERBAS TRABALHISTAS E AO CONSEQUENTE REFLEXO DAS DIFERENÇAS SALARIAIS NAS CONTRIBUIÇÕES AO PLANO DE PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INAPLICABILIDADE DO TEMA N. 190 DA REPERCUSSÃO GERAL. PRECEDENTES. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+(RE n. 1.265.564-RG, relator Ministro Luiz Fux - Presidente, Tribunal Pleno, julgado em 2/9/2021, DJe de 14/9/2021.)
+Verifica-se, portanto, que o julgado recorrido está em consonância com a jurisprudência firmada pelo Supremo Tribunal Federal, motivo pelo qual incide o Tema n. 1.166 do STF.
+Ante o exposto, nos termos do art. 1.030, I, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. PRETENSÕES DE RECOLHIMENTO DE CONTRIBUIÇÕES, RECOMPOSIÇÃO DA RESERVA MATEMÁTICA E DE REAJUSTE NO VALOR DO BENEFÍCIO. REFLEXOS DO PAGAMENTO DE VERBA REMUNERATÓRIA. QUESTÃO PREJUDICIAL AO DEBATE PREVIDENCIÁRIO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. TEMA N. 1.166 DO STF. NEGATIVA DE SEGUIMENTO.
