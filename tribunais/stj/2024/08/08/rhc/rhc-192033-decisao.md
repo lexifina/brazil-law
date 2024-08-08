@@ -1,0 +1,42 @@
+DECISÃO
+Aproveito o bem lançado relatório da decisão que indeferiu o pedido liminar (e-STJ fl . 840):
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ERICK RAFAEL MARQUES DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi condenado como incurso no art. 157, § 2º, II , §2º-A, I; e art. 311, caput, c/c art. 61, I, na forma do art. 69, todos do Código Penal, à pena total de 11 anos, 3 meses e 10 dias de reclusão e 29 dias-multa. O Tribunal de origem negou provimento ao recurso de apelação da defesa, e a condenação transitou em julgado em 06/09/2023.
+Alega a ocorrência de constrangimento ilegal diante da nulidade do julgamento do recurso de apelação "pelo fato de a intimação para tomar ciência da sessão de julgamento ter ocorrido na pessoa do advogado anterior" (fl. 379).
+Assevera que, antes da sessão de julgamento do referido recurso de apelação, fora realizado substabelecimento sem reserva de poderes, não tendo o causídico substabelecido recebido qualquer intimação acerca da sessão de julgamento do recurso, o impossibilitando de realizar sustentação oral, em claro prejuízo ao recorrente.
+A parte recorrente objetiva, em suma, a declaração de nulidade do julgamento do recurso de apelação, cassando-se o respectivo acórdão, com a expedição de alvará de soltura em seu favor.
+É o relatório.
+A liminar foi indeferida (e-STJ fls. 770/771).
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Decido.
+Com razão a defesa.
+De fato, houve a juntada de substabelecimento sem reservas, perante o Tribunal de Justiça local, em 29/3/2023 (e-STJ fl. 293).
+Contudo, observo que as publicações referentes ao julgamento da apelação defensiva foram realizadas em nome do advogado substabelecente (e-STJ fl. 397).
+Desse modo, não há nenhuma dúvida quanto à nulidade das aludidas publicações, caracterizando, assim, indevido cerceamento do direito de defesa do paciente.
+Sobre o tema, é o teor do enunciado n. 431 da Súmula do Supremo Tribunal Federal: "É nulo o julgamento de recurso criminal, na segunda instância, sem prévia intimação, ou publicação da pauta, salvo em habeas corpus."
+No mesmo sentido, a firme jurisprudência do Superior Tribunal de Justiça:
+QUESTÃO DE ORDEM. PROCESSUAL PENAL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÕES PROFERIDAS NESTA CORTE SUPERIOR. INTIMAÇÃO PUBLICADA EM NOME DE ADVOGADA QUE SUBSTABELECERA SEM RESERVA DE PODERES. NULIDADE ABSOLUTA CONFIGURADA. ADVOGADA QUE MESMO NÃO TENDO MAIS PODERES DE REPRESENTAÇÃO INTERPÔS AGRAVOS REGIMENTAIS. RECURSOS INEXISTENTES. SÚMULA N. 115 DO STJ. PRESERVAÇÃO DA DECISÃO NA PARTE FAVORÁVEL À DEFESA. VEDAÇÃO À REFORMATIO IN PEJUS. PEDIDO PARCIALMENTE ACOLHIDO.
+1. É pacífico o entendimento desta Corte Superior no sentido de ser nula a intimação feita equivocadamente em nome do advogado que não possui mandato para atuar no feito, em razão de anterior substabelecimento sem reserva de poderes.
+2. São nulas, em relação à Defesa, as intimações de todas as decisões, monocráticas e Colegiada, proferidas no presente feito, nesta Corte Superior, pois publicadas em nome da advogada que, ainda no Tribunal de origem, substabelecera sem reserva de poderes.
+3. Situação concreta em que a advogada que substabelecera sem reserva de poderes, ao ser equivocadamente intimada, mesmo não mais tendo poderes para atuar no feito, interpôs agravos regimentais contra as decisões monocráticas proferidas no Superior Tribunal de Justiça. Contudo, os recursos subscritos pela advogada que não mais possuía mandato são juridicamente inexistentes, nos termos da Súmula n. 115 do Superior Tribunal de Justiça.
+4. Se o primeiro agravo regimental defensivo interposto pela advogada, mesmo sem procuração, foi provido, deve ser preservada a decisão que acolheu a referida insurgência interna, sob pena de haver indevida reformatio in pejus, pois a anulação desse decisum revigoraria a decisão da Presidência que fora desfavorável à Defesa.
+Assim, a nulidade deve ser declarada a partir da intimação por decisão de minha lavra que, não obstante tenha provido o agravo regimental, não conheceu do agravo em recurso especial defensivo por fundamento diverso.
+5. Pedido de declaração de nulidade acolhido, em menor extensão, para tornar sem efeito a certificação do trânsito em julgado (fl. 1695) e anular o feito desde a intimação da decisão que deu provimento ao agravo regimental, porém não conheceu do agravo em recurso especial (fls. 1656-1660), disponibilizada em 19/08/2021 e considerada publicada em 19/08/2021 (fl. 1661), determinando que sejam os advogados intimados em relação a ela e reabrindo o prazo recursal quanto ao referido decisum, tão-somente em relação à Defesa.
+(PET no AREsp n. 1.902.776/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/2/2022, DJe de 25/2/2022.)
+HABEAS CORPUS. NULIDADE DO JULGAMENTO DO RECURSO DE APELAÇÃO. AUSÊNCIA DE INTIMAÇÃO DO ADVOGADO CONSTITUÍDO. NULIDADE RECONHECIDA. PRECEDENTES. DIREITO DE APELAR EM LIBERDADE RESTABELECIDO. ORDEM CONCEDIDA.
+1. A intimação da sessão de julgamento da Apelação n. 0007673-60.2010.8.19.0205 foi disponibilizada no dia 13/6/2012 e considerada publicada em 14/6/2012, todavia foi feita em nome dos antigos advogados do paciente, mesmo após a juntada do substabelecimento sem reservas de poderes, que ocorreu em 29/5/2012.
+2. "A ausência de intimação do defensor constituído pelo acusado sobre a data do julgamento do recurso de apelação, a teor do disposto no artigo 370, § 1º, do Código de Processo Penal, gera nulidade do processo, tendo em vista que a ausência de publicidade do ato viola o princípio da ampla defesa" (HC n. 342.748/MA, Rel. Min. Jorge Mussi, Quinta Turma, Dje 13/4/2016). No mesmo sentido é o teor do enunciado n. 431 da Súmula do Supremo Tribunal Federal - STF que estabelece que "é nulo o julgamento de recurso criminal, na segunda instância, sem prévia intimação, ou publicação da pauta, salvo em habeas corpus".
+3. Tendo a sentença condenatória assegurado ao paciente o direito de apelar em liberdade, deve ser expedido contra mandado de prisão em seu benefício, até o exaurimento dos recursos cabíveis perante as instâncias ordinárias.
+4. Ordem de habeas corpus concedida para, anular o julgamento da Apelação n. 0007673-60.2010.8.19.0205, determinando sua renovação mediante nova intimação da defesa constituída. Concedo, ainda, a ordem para, assegurar ao paciente o direito de aguardar em liberdade o julgamento dos recursos perante as instâncias ordinários.
+(HC 450.768/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/3/2019, DJe 4/4/2019.)
+Na mesma linha é o manifestação ministerial, conforme consta do parecer (e-STJ fl. 840):
+Da análise do presentes autos, verifica-se que assiste razão à defesa, tendo em vista que, após a apresentação da Apelação defensiva, houve o devido substabelecimento sem reserva de poderes, na data de 29/03/2023, para os novos patronos constituídos do processo (fl. 293).
+Entretanto, diante da determinada modificação expressa nos autos, quando do julgamento do acórdão, o advogado que não mais representava o acusado fora intimado, excluindo a defesa que atuava em sua causa, sem a sua devida intimação, como comprovada na cadeia de substabelecimento (fl. 397).
+Diante do julgamento e indeferimento da Apelação, o réu e a defesa não foram intimados do acórdão, impedindo-os que tomassem conhecimento de tal acórdão condenatório, visto que manteve a sentença os impedindo, consequentemente, de tomarem as medidas recursais cabíveis.
+Assim, conforme se deu a sessão para julgamento do Recurso, sem a devida presença da defesa para que pudesse sustentar oralmente em prol do réu, este ficou prejudicado, evidenciando assim, certo constrangimento ilegal.
+Cumpre ressaltar também que, nos Embargos de Declaração do impetrante (fl. 349), em que houve requerimento de declaração de nulidade da sessão de julgamento da data de 08/08/2023, em razão da ausência de intimação da defesa, não fora analisado até o momento, sem a devida manifestação pelo Tribunal de Origem.
+Tal o contexto, dou provimento ao recurso para declarar a nulidade da publicação levada a efeito pelo Tribunal de origem, no julgamento da Apelação Criminal n. 1.0000.22.182928-6/001, desconstituindo o trânsito em julgado do feito, a fim de que o referido recurso seja novamente julgado, agora com a prévia intimação do defensor substabelecido.
+Publique-se. Intimem-se.
+EMENTA
