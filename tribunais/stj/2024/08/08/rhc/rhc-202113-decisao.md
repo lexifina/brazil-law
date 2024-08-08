@@ -1,0 +1,10 @@
+DECISÃO
+LEANDRO DOS SANTOS PEREIRA VITAL, condenado por roubo circunstanciado, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva mantida pela sentença condenatória, objetivo este reiterado nesta oportunidade, notadamente pela aventada incompatibilidade do regime semiaberto com a custódia cautelar.
+O caso comporta o julgamento antecipado, visto que se adequa a pacífica orientação desta Corte sobre o tema.
+Deveras, segundo o acórdão impugnado, que se lastreou na sentença condenatória, ficou evidenciada a gravidade concreta da conduta, consubstanciada pelo modus operandi com que praticado o delito, o qual se valeu, inclusive da utilização de arma de fogo.
+No particular, conforme a jurisprudência deste Superior Tribunal, a gravidade dos fatos concretamente considerados, evidenciada por deu modus operandi, justifica a constrição cautelar (HC n. 566.968/RJ, relator Ministro Rogerio Schietti, Sexta Turma, DJe 17/6/2020).
+E ainda: "A decretação da prisão preventiva está suficientemente fundamentada, nos termos no art. 312 do Código de Processo Penal, pois foi amparada na gravidade concreta da conduta e na periculosidade do agente, evidenciadas pelo modus operandi do delito  .. " (AgRg no RHC n. 165.485/BA, Rel. Ministra Laurita Vaz, DJe 2/12/2022).
+Além disso e mais importante é destacar " ser  firme a orientação do Superior Tribunal de Justiça no sentido de que não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime inicial semiaberto. Nesse sentido: AgRg no RHC n. 176.364/BA, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023 (AgRg no RHC n. 190.688/BA, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 7/3/2024, destaquei).
+À vista do exposto, com fundamento nos arts. 34, XX c/c 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
