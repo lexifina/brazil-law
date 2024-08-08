@@ -1,0 +1,44 @@
+DECISÃO
+MARCIUS VINICIUS MINEIRO DE OLIVEIRA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501069-27.2020.8.26.0637.
+O recorrente foi condenado, por furto simples, a 1 ano e 13 dias de reclusão, em regime semiaberto, e 10 dias-multa.
+No especial, a defesa apontou as seguintes ilegalidades:
+a) violação do art. 59 do CP, diante do aumento desproporcional da pena-base em virtude dos maus antecedentes;
+b) ofensa aos arts. 65, III, "d", e 67, ambos do CP, pois é devida a compensação integral da reincidência com a atenuante de confissão;
+c) vulneração do art. 16 do CP, uma vez que a fração redutora relativa ao arrependimento posterior foi aplicada em apenas 1/3, sem fundamentação adequada, quando deveria haver sido adotado o índice máximo de 2/3;
+d) infringência do art. 33, § 2º, "c", do CP, porquanto o crime foi cometido sem violência ou grave ameaça, o que impõe o estabelecimento do regime menos gravoso - aberto.
+Apresentadas as contrarrazões, o recurso foi admitido na origem, e o Ministério Público Federal manifestou-se por seu parcial provimento (fls. 299-301).
+Decido.
+O recurso especial preenche os requisitos de admissibilidade. No mérito, comporta parcial provimento.
+I. Pena-base
+A discricionariedade judicial motivada na dosimetria da pena é reconhecida por esta Corte. Não existe direito subjetivo, critério rígido ou puramente matemático para a exasperação da pena-base. Em regra, afasta-se a tese de desproporcionalidade em casos de aplicação de frações de 1/6 sobre a pena-mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo do tipo, admitido outro critério mais severo, desde que devidamente justificado, como no caso dos autos. Nesse sentido: AgRg no HC n. 844.533/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024.
+Confira-se ainda o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO E ASSOCIAÇÃO CRIMINOSA. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE PELO RECONHECIMENTO DE UMA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PATAMAR SUPERIOR A UM SEXTO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE DEMONSTRAM A MAIOR GRAVIDADE DA CONDUTA CRIMINOSA. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A majoração da pena na primeira fase de dosimetria deve seguir, em regra, a fração de 1/6 (um sexto) para cada circunstância judicial considerada desfavorável. A eleição de patamar superior a esse quantum exige que o Órgão Judiciário decline fundamentos idôneos e concretos capazes de demonstrar que o contexto na hipótese exorbita a gravidade inerente àquela vetorial. Precedentes.
+2. Nessa linha de intelecção, é possível, inclusive, "estabelecer a pena-base no patamar máximo com fundamento em apenas uma circunstância judicial desabonadora" (STJ, AgRg no AREsp 1445055/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/05/2019, DJe 21/05/2019), caso sejam apontados fundamentos concretos para tanto.
+3. No caso em apreço, as instâncias ordinárias motivaram adequadamente a exasperação da reprimenda básica, porquanto ressaltaram que a vítima foi mantida em cativeiro (restrição de liberdade) por longo período (cerca de sete horas), sendo que durante esse lapso temporal sofreu ameaças de morte mediante o uso de arma de fogo. Tais circunstâncias evidenciam que o quantum de 1/3 (um terço) utilizados para a majoração da sanção penal foi proporcional à maior gravidade da conduta.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 711.280/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022, destaquei)
+No caso, não identifico a ilegalidade apontada, pois a adoção do índice de 1/3, em virtude de única circunstância judicial - maus antecedentes -, recebeu fundamentação concreta - o réu ostenta três condenações definitivas, registradas nos autos n. 0000426-61.2011.8.26.0637, 0001937-84.2017.8.26.0637 e 0011609-97.2009.8.26.0637 (fls. 218-219).
+II. Compensação entre a reincidência e a atenuante de confissão
+Quanto ao tópico, eis o excerto pertinente do acórdão (fl. 219):
+Na segunda fase, sopesadas a atenuante da confissão espontânea e a reincidência específica ostentada pelo réu (fls.122/128autosnº 0000218-08.2017.8.26.0592), a pena foi majorada em um sexto (1/6), totalizando 02 (dois) anos e 15 (quinze) dias de reclusão e 19 (dezenove) dias-multa, no mínimo legal.
+Nesse ponto, não assiste razão ao apelante quando pleiteia a integral compensação da confissão espontânea com a reincidência específica.
+Como se observa, o Tribunal de origem deixou de compensar integralmente a atenuante de confissão com a única condenação transitada em julgado a título de reincidência, meramente por ser a recidiva específica, o que contraria a jurisprudência desta Corte, firmada nos Temas n. 585 e 1.172 do STJ, sob o rito dos recursos repetitivos, cujas teses são as seguintes, respectivamente:
+É possível, n a segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+A reincidência específica como único fundamento só justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso.
+Portanto, passo a compensar integralmente a atenuante de confissão com a única reincidência.
+III. Arrependimento posterior
+Segundo a jurisprudência desta Corte,
+ ..  a incidência do instituto do arrependimento posterior pressupõe a integral reparação do dano antes do recebimento da denúncia, cuja fração de diminuição de pena será fixada de acordo com o aspecto temporal entre a prática do ilícito e a conduta voluntária do agente em restituir à vítima o seu prejuízo (AgRg no REsp n. 1.262.608/BA, relator Ministro Jorge Mussi, Quinta Turma, DJe 21/10/2015, grifei).
+Na hipótese em exame, quanto à causa redutora do arrependimento posterior, as instâncias antecedentes aplicaram a redução mínima (1/3) e, para tanto, empregaram fundamentação idônea e suficiente, assim registrada na sentença: "o bem foi restituído somente após ter sido noticiado pela vítima o furto dos bens e mediante intervenção da Polícia" (fl. 159). O acórdão esclarece que "a restituição dos bens pelo apelante ocorreu dias após a subtração e, ainda, após a vítima divulgar a ocorrência do furto em diversos grupos do aplicativo "Whatsapp"" (fl. 220).
+Entendo que, a despeito de o bem haver sido restituído dias depois do furto, a fração adotada se justifica, pois considero mitigado o requisito da voluntariedade, diante do fato de que, para a devolução do objeto, foi necessário a vítima divulgar amplamente o crime e a polícia havê-la auxiliado.
+IV. Nova dosimetria
+Em razão dos três maus antecedentes do réu, mantenho sua pena-base em 1/3 acima do mínimo legal - 1 ano e 4 meses de reclusão e 13 dias-multa. Compenso integralmente a única reincidência com a atenuante de confissão, o que deixa a reprimenda inalterada na fase intermediária. Preservo a incidência da redutora de 1/3 decorrente do arrependimento posterior, o que resulta na sanção definitiva de 10 meses e 20 dias de reclusão e 8 dias-multa.
+V. Regime prisional
+A jurisprudência desta Corte, conforme dicção da Súmula n. 269 do STJ, autoriza, no melhor cenário possível, a incidência do regime semiaberto em favor do réu reincidente se a pena for igual ou inferior a 4 anos de reclusão, quando favoráveis as circunstâncias judiciais. A propósito: AgRg no HC n. 822.961/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Quando o réu é reincidente e ostenta circunstância judicial negativa, a jurisprudência deste Tribunal Superior é firme quanto a ser cabível o regime fechado para penas iguais ou inferiores a 4 anos de reclusão. Oportunamente: AgRg no AREsp n. 2.357.358/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.
+No caso, apesar da reincidência e dos maus antecedentes - circunstância negativa - do sentenciado (fl. 221), ainda assim, ele foi beneficiado com o regime semiaberto, quando, na verdade, caberia o fechado. Portanto, não há ilegalidade no acórdão recorrido.
+VI. Dispositivo
+Ante o exposto, dou parcial provimento ao recurso especial para estabelecer a pena definitiva do recorrente em 10 meses e 20 dias de reclusão e 8 dias-multa, mantido o regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
