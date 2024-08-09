@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de David Ferreira do Nascimento, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o Tribunal de origem negou provimento ao recurso de apelação, mantendo a sentença que, nos termos dos arts. 96 e 97 do Código Penal, aplicou ao paciente a medida de segurança de internação em hospital de custódia e tratamento psiquiátrico pelo prazo mínimo de três anos (Processo n. 1506191-50.2021.8.26.0228 - fls. 63/68).
+Sustenta-se, em síntese, que a internação do paciente é ilegal, apontando a Lei n. 10.216/2001 e a Resolução do CNJ n. 487/2023.
+Argumenta-se que a internação compulsória (leia-se medida de segurança e medida cautelar de internação provisória), como qualquer outra modalidade de internação psiquiátrica, será efetivada em Hospital Geral, de acordo como os paradigmas do SUS (Sistema Único de Saúde) e somente nos casos em que qualquer alternativa terapêutica revelar-se completamente inócua. Mais que isso, a internação compulsória persistirá enquanto houver indicação médica para tanto, os critérios de duração são exclusivamente médicos (paciente em surto) - fl. 17.
+Argumenta-se que o paciente está, ao todo, 3 anos e 7 meses de PRESO/internado e, considerando que o perito sugeriu 3 meses de internação, deveria ter sido revogada a sua prisão/internação, encaminhado se, à RAPS/SUS (fl. 21).
+Afirma-se que a perícia havia indicado a internação em hospital psiquiátrico COMUM  ou seja, da RAPs/SUS  por, pelo menos, três meses (fl. 22), bem como que o paciente não está recebendo o tratamento adequado.
+Requer-se, em liminar e no mérito, a concessão da ordem para cassar o acórdão com encaminhamento do paciente para tratamento ambulatorial no SUS.
+É o relatório.
+Em consulta ao portal eletrônico do Tribunal de origem, verifiquei que já houve o trânsito em julgado da ação penal.
+Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, de minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..
+(HC n. 288.978/SP, de minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018 - grifo nosso).
+De toda maneira, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+De um lado, é firme o entendimento desta Corte Superior de que o laudo técnico apresentado não vincula o julgador, considerando o princípio do livre convencimento motivado. Nesse sentido, dentre outros, o HC n. 524.571/ES, Ministra Laurita Vaz, Sexta Turma, DJe 22/2/2021.
+De outro, além de a medida ter sido determinada nos termos do art. 96 e 97 do Código Penal, segundo entendimento desta Corte, não se presta a via estreita do habeas corpus à substituição da medida de segurança de internação pela de tratamento ambulatorial, na medida em que, para tanto, seria necessário infirmar o entendimento das instâncias ordinárias acerca da conveniência da aplicação da medida de segurança imposta em matéria eminentemente técnica, com exame aprofundado das provas dos autos, insuscetível de ser realizado nesta sede. Precedentes. (HC n. 335.665/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 6/11/2015).
+Por fim, as alegações de que o paciente não está recebendo o tratamento adequado e de que o prazo de prisão/internação já ultrapassou 3 anos, não foram objeto de debate no Tribunal a quo, sendo vedada a pretendida supressão de instância. Ainda, considerando o trânsito em julgado da ação penal, tais matérias são de competência do Juízo da execução, sendo certo, ademais, que o próprio Código Penal autoriza a realização de perícia para a verificação da cessação da periculosidade (art. 97, §§ 1º e 2º, do CP).
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO TENTADO. ABSOLVIÇÃO IMPRÓPRIA. APLICAÇÃO DE MEDIDA DE SEGURANÇA DE INTERNAÇÃO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. LAUDO PERICIAL. LIVRE CONVENCIMENTO MOTIVADO. REVISÃO DO JULGAMENTO DAS INSTÂNCIAS ORDINÁRIAS QUANTO À CONVENIÊNCIA DA MEDIDA DE SEGURANÇA APLICADA. VIA IMPRÓPRIA. ALEGAÇÃO DE AUSÊNCIA DE TRATAMENTO ADEQUADO E DE QUE O PERÍODO DE SEGREGAÇÃO DO PACIENTE SUPEROU O PRAZO MÍNIMO FIXADO PARA A MEDIDA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
