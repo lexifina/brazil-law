@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO BRADESCO FINANCIAMENTOS S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO PELO DECRETO-LEI Nº 911/1969. LIMINAR. NOTIFICAÇÃO EXTRAJUDICIAL EQUIVOCADA. MORA NÃO COMPROVADA. EXTINÇÃO DA AÇÃO. EFEITO TRANSLATIVO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. DECISÃO CASSADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 2º, §§ 2º e 3º, do Decreto-Lei n. 911/1969, no que concerne à validade da notificação da mora da parte recorrida no momento do ajuizamento da ação, trazendo a seguinte argumentação:
+Compulsando os autos, constata-se que a decisão recorrida é, data vênia, completamente injusta, uma vez que a Recorrente demonstrou de maneira incessante, e em todos os momentos que se manifestou, a validade do instrumento de constituição em mora da Recorrida.
+Compulsando os autos, constata-se que a Recorrida consubstanciou sua peça de defesa e sua peça de Agravo de Instrumento com comprovantes de pagamento realizados a partir da parcela de nº 14, sem juntar, contudo, a comprovação de pagamento das parcelas anteriores.
+Isto porque, a Recorrida não realizou o pagamento das parcelas da maneira correta, realizando os pagamentos fora da ordem de vencimento, motivo pelo qual os pagamentos realizados a partir da parcela de nº 14 foram sendo compensados nas parcelas que se encontravam em aberto no momento do pagamento.
+Tal fato foi devidamente esclarecido quanto o Recorrente foi intimado a especificar as provas que pretendia produzir nos autos originários, uma vez que obteve acesso às telas do Banco que comprovaram o ocorrido, conforme se demonstra novamente a seguir:
+ ..
+Se extrai das telas acima, que a partir da parcela de nº 5, a Recorrida passou a adimplir as parcelas com mais de 1 mês de atraso, chegando até a 3 (TRÊS) meses de atraso, como é o caso a partir da parcela de nº 11!
+ ..
+Conforme restou devidamente fundamentado e comprovado nos autos, não pode ser considerada descaracterizada a mora pelo simples fato de a Recorrida realizar o pagamento em atraso das parcelas do contrato, uma vez que o que ensejou o ajuizamento da ação de Busca e Apreensão não foi somente o vencimento de uma parcela, mas sim da contratualidade ante o inadimplemento, conforme previsto no contrato.
+O saldo devedor do cliente corresponde a todas as parcelas do contrato e não apenas as parcelas vencidas. Desta forma, ainda que tenha havido o pagamento das parcelas, tal fato, por si só, não tem o condão de afastar a mora, visto que tais pagamentos foram realizados com atraso significativo, quando o evento do vencimento antecipado já estava concretizado.
+Dispõe o Decreto-Lei 911/69 acerca do simples inadimplemento, o qual implica na antecipação de vencimento da dívida e confere ao credor o direito de considerá-la integralmente vencida.
+ ..
+É cristalino que o inadimplemento faculta ao credor considerar vencidas todas as obrigações contratuais, isto é, a integralidade da dívida. O vencimento antecipado está previsto contratualmente e amparado pela legislação pátria e jurisprudência uníssona.
+Noutro turno, a CCB também prevê o vencimento antecipado em caso de multas e ausência de pagamento do licenciamento do veículo, sendo omisso o Acórdão ora recorrido também quanto à este ponto:
+ ..
+Diante do exposto, conforme restou demonstrado, a Recorrida se encontrava em mora quando notificada, uma vez que os pagamentos realizados, embora utilizando-se do boleto do carnê relativo ao vencimento do mês que estava sendo realizado, foram sendo compensados em parcelas que se encontravam abertas no momento do pagamento, conforme previsto em contrato e amplamente comprovado nos autos (fls. 337/343).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+O fato é que, na alienação fiduciária em garantia de bens móveis, por força do dispositivo legal supratranscrito, a mora do devedor constitui-se ex re, isto é, tão logo vença o prazo para o adimplemento, de modo automático. Não obstante, para que seja ajuizada a ação de busca e apreensão, exige o mesmo dispositivo que a mora seja comprovada por meio da notificação extrajudicial.
+ ..
+No caso, segundo a instituição financeira, as parcelas de números 1 (um) a 13 (treze) estavam devidamente adimplidas pela agravante, enquanto a partir da parcela 14 (quatorze), vencida aos 03/07/2023, haveria inadimplência apta a gerar a consequente mora.
+Não obstante, verifica-se que as parcelas do veículo alienado fiduciariamente em garantia se encontravam quitadas na data da notificação, conforme comprovantes de pagamento em favor da instituição financeira agravada acostados aos autos (evento nº 1, arquivos 5 e 6).
+Como se vê, a notificação extrajudicial indicou, de forma equivocada, parcelas já adimplidas. Nesse contexto, não há como considerar que a agravante foi devidamente constituída em mora, estando, pois, ausente requisito imprescindível para o prosseguimento da ação de busca e apreensão.
+ ..
+Assim, não configurada a regularidade da constituição em mora da devedora para satisfazer o requisito específico de desenvolvimento válido e regular da ação de busca e apreensão, impõe-se a extinção do feito, sem julgamento do mérito (fls. 86/89)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
