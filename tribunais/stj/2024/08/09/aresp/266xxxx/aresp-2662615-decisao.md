@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WILMA MARIA DE OLIVEIRA RIBEIRO (WILMA) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 642/652).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, WILMA alegou a violação dos arts. 1.022 do CPC; e arts. 14, § 3º, 38 do CDC, ao sustentar que (1) o acórdão recorrido incorreu em negativa de prestação jurisdicional, pois deixou de se pronunciar sobre a tese de que a portabilidade foi fundada por uma operação sem o cartão de crédito pessoal, além de outras questões que envolvem a segurança da instituição bancária em fortuito interno; (2) não podem ser aceitas as provas unilaterais advindas de telas sistêmicas do banco recorrido para validar um contrato de empréstimo consignado de uma idosa que não teve o animus de contratar. Pleiteou a aplicação da Súmula 479/STJ; (3) suscitou dissídio jurisprudencial, apontando como paradigma o acórdão proferido pelo TJMG (apelação nº 10000221105307001).
+(1) Negativa de prestação jurisdicional
+Quanto à primeira controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que WILMA apontou violação do art. 1.022 do CPC, sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019).
+Ainda que assim não fosse, verifica-se que o Tribunal de Justiça do Estado de São Paulo apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção, com base nos elementos de prova que entendeu pertinentes.
+Assim, forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, a alegada violação.
+(2) Violação ao art. 14, § 3º do CDC
+Trata-se, na origem, de ação declaratória de nulidade contratual com indenização por danos morais ajuizada por WILMA contra ITAÚ UNIBANCO S/A (ITAÚ), alegando desconhecer o contrato de empréstimo consignado vinculado ao seu benefício previdenciário, no valor de R$ 26.570,56.
+A r. sentença julgou a ação procedente, para declarar a nulidade da relação contratual entre as partes, determinando ao ITAÚ a devolução dos valores , além de indenização por danos morais no valor de R$ 5.000,00.
+O Tribunal estadual reformou a sentença, sob o fundamento de que as provas carreadas aos autos demonstraram a regularidade da contratação. Confira-se:
+Ocorre que dos documentos juntados aos autos verifica-se que efetivamente houve a portabilidade narrada pelo banco requerido. A contestação veio acompanhada do contrato indicando a portabilidade do10015872315 (fls. 100/109).
+Embora tenha negado a celebração deste contrato, consta do extrato enviado pelo Instituto Nacional de Seguridade Social (fls. 178), a prévia existência do contrato nº 10015872315 vinculado ao benefício da requerente, razão pela qual mostra-se desnecessária a expedição de ofício ao Banco C6 Consignado S/A solicitando a comprovação da existência desta operação.
+Além disso, como bem destacado as fls. 165 e 246, não resta dúvidas que a operação foi realizada mediante a utilização de cartão e senha da apelante, fato que indica a celebração do negócio impugnado.
+Verifica-se, portanto, que a Câmara Colegiada decidiu em decorrência de convicção formada pelas provas e circunstâncias fáticas próprias do processo sub judice, sendo certo que, por esse prisma, as razões do recurso se baseiam em uma perspectiva de reexame desses elementos. A esse objetivo, todavia, não se presta o apelo nobre, a teor do disposto na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO STF. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. FALHA NA PRESTAÇÃO DOS SERVIÇOS DA INSTITUIÇÃO FINANCEIRA NÃO EVIDENCIADA. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não se conhece do recurso especial por violação a norma da Constituição Federal, uma vez que se trata de matéria constitucional, cuja competência para exame é do col. Supremo Tribunal Federal, consoante preconiza o art. 102 da Carta Magna.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+3. Na hipótese, o Tribunal a quo, após o exame dos autos e das provas, concluiu que ficou comprovada a contratação do empréstimo consignado, bem como a validade e a eficácia do ajuste, afastando qualquer reparação, moral ou material, em favor do recorrente. A modificação da conclusão do Tribunal de origem demandaria o revolvimento do suporte fático-probatório dos autos.
+4. É inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 2028684 / MS, Rel Ministro RAUL ARAÚJO, Quarta Turma, j. 02/05/2022 - sem destaques no original).
+Ademais, a hipótese fática dos autos não autoriza a aplicação da Súmula 479 do STJ, porquanto em casos como o dos autos, de desconhecimento da contratação de empréstimo, é essencial a comprovação de que houve, de fato, uma fraude ou delito praticado por terceiro, o que não se verificou na hipótese.
+Ressalte-se que a incidência da Súmula n. 7, quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ITAÚ, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. FRAUDE NA CONTRATAÇÃO NÃO COMPROVADA. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
