@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLEIDIANE DA CUNHA FERREIRA CARNEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REQUISITOS DA CDA. FATO GERADOR. OCORRÊNCIA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e interpretação jurisprudencial divergente do art. 5º da Lei 12.514/2011; e o §2º da Resolução Conter nº 14, no que concerne à inexigibilidade das anuidades, pois houve apenas a inscrição provisória, que não foi convolada em definitiva, assim, inexistindo o fato gerador. Aduz a seguinte argumentação:
+Sabe-se, pois, que, a relação estabelecida entre os Conselhos e os profissionais é tributária e submetem-se, portanto, aos regramentos próprios do Sistema Tributário Nacional, sujeita à observância da estrita legalidade. Dessa forma, é imprescindível que haja fato gerador da obrigação tributária legalmente previsto, sendo irrelevante a voluntariedade da parte para fins de surgimento da relação jurídico-tributária. O fato gerador do tributo é a inscrição da pessoa física ou jurídica no Conselho Profissional, nos termos do art. 5º da Lei nº 12.514/2011.
+ ..
+Já no tocante a inscrição provisória, citamos o §2º, da Resolução CONTER nº 14, vejamos:
+§ 2º As inscrições provisórias de que trata o caput deste artigo terão validade por prazo determinado de 180 (cento e oitenta) dias, prorrogáveis por igual período, prazo em que o inscrito deverá apresentar o diploma do curso e requerer a inscrição DEFINITIVA, sob pena de cancelamento do registro.
+Temos ainda que ante a ausência de inscrição definitiva, que, saliente-se, não se dá de forma automática, tornam-se inexigíveis as anuidades executadas, uma vez que inexiste o fato gerador para sua cobrança.
+DO DISSÍDIO JURISPRUDENCIAL
+A jurisprudência pátria vem ressalvando a inexigibilidade de anuidades aos Conselhos profissionais em casos de inscrições provisórias não confirmadas posteriormente, como no caso dos autos.
+Destacam-se, entre os pródigos julgados:
+ACÓRDÃOS PARADIGMAS
+ ..
+COTEJO ANALÍTICO
+Há o confronto de dois entendimentos discrepantes acerca da existência do fato gerador da anuidade para o Conselho profissional:  ..
+(fls. 99-102).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não é cabível a interposição de recurso especial fundado na violação ou interpretação divergente de resolução, ato normativo secundário que não está compreendido no conceito de lei federal.
+Nesse sentido: ""Não é possível a interposição do Recurso Especial sob a alegação de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal" (REsp 1722614/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018)  g.n. "". (AgInt no AREsp 1.494.832/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 18/2/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.817.715/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020; AgInt no REsp 1.837.800/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/6/2020; e AgInt no REsp 1.222.756/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 29/11/2019.
+Além disso, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+A cognição sumária realizada neste momento processual não indica a existência de plausibilidade jurídica na tese defendida pela Agravante, cujos fundamentos, ao menos por ora, não abalam as razões expostas pelo ilustre Juízo a quo na fundamentação do ato judicial impugnado.
+Apenas em casos de decisão teratológica, fora da razoabilidade jurídica, ou quando o ato se apresenta flagrantemente ilegal, ilegítimo e abusivo, cabe a reforma pelo órgão ad quem, em agravo de instrumento. E, nesse contexto, a ilegalidade da decisão deve ficar clara e inequívoca, pois, do contrário, tudo deve ser resolvido ao final, no bojo da sentença e pode ser examinado pelo Tribunal competente, em grau de recurso (TRF2, Oitava Turma Especializada, AG 0005070-44.2016.4.02.0000, Rel. Des. Federal MARCELO PEREIRA DA SILVA, e-DJF2R12/12/2016, unânime).
+(fls. 47).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ainda, o Tribunal de origem se manifestou nos seguintes termos:
+Ademais, não há nos autos qualquer demonstração de inexistência do fato gerador.
+(fls. 47).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
