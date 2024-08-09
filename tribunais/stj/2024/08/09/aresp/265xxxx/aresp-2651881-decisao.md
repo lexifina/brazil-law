@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOAO ELIAS DA SILVA NASCIMENTO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. LEI 8.429/92. LEI Nº14.230/2021. TEMA 1199 DO STF. ART. 9º, I, VIII e X, DA LIA. OPERAÇÃO "MATINTAPERERA." AUDITOR FISCAL DO TRABALHO. VANTAGEM INDEVIDA. RECEBIMENTO. FISCALIZAÇÃO DE EMPRESAS. CONFISSÃO. ENRIQUECIMENTO ILÍCITO CONFIGURADO. ATO DE IMPROBIDADE CARACTERIZADO. CONCORRÊNCIA DOS PARTICULARES. DOLO PRESENTE. APELAÇÃO PROVIDA. CONDENAÇÃO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art 372 do CPC, no que concerne à impossibilidade de se reconhecer como válida a prova emprestada de ação penal para a presente ação de improbidade, visto que somente a esfera penal pode fazê-lo e, até o momento, não o fez de forma definitiva, assim, diante da existência de dúvida sobre a validade da prova deve-se observar o o princípio da presunção de inocência. Aduz a seguinte argumentação:
+O art. 372 do CPC/2015 assim dispõe sobre o uso da prova emprestada: " O juiz poderá admitir a utilização de prova produzida em outro processo, atribuindo- lhe o valor que considerar adequado, observado o contraditório " .
+No caso dos autos, a discussão da prova emprestada não se dá sobre a existência ou não de contraditório no juízo de origem ou de destino da prova, ou mesmo sobre a possibilidade de a prova ser emprestada de uma ação penal para uma ação de improbidade. Todas estas questões já estão resolvidas nos autos.
+Deveras, o ponto central - e que é inerente ao próprio art. 372, CPC - sendo, na verdade, uma discussão subjacente e primordial a qualquer outra, é se a prova emprestada usada para condenar o Recorrente é válida.
+O primeiro ponto a este respeito é que somente a esfera penal pode decidir sobre a nulidade da prova. E, até o presente momento, o fez de modos divergentes, o que mostra inequivocamente que há dúvidas sobre sua validade.
+Realmente, a despeito de a 4ª Turma do TRF1 ter reformado a sentença de 1º grau e considerado as provas válidas, o fato é que tal decisão ainda não transitou em julgado. Aliás, a jurisdição ordinária sequer foi esgotada, pois foram opostos vários aclaratórios pelos acusados e nenhum deles ainda foi julgado.
+Frise-se que, neste exato momento, o feito processo está em processo de migração para o pje, conforme mostra print abaixo:
+ ..
+Em suma, Exa., inexistindo pronunciamento judicial do juízo criminal sobre a validade da prova, até que haja uma decisão transitada em julgado considerando-a plenamente válida deve persistir dúvidas sobre sua aptidão para condenar, não apenas porque já houve decisum anterior julgando-a nula, mas mormente porque vigora igualmente nas ações de improbidade o princípio da presunção de inocência que, segundo o Min. Celso de Mello 1 , tem aplicação em todos os ramos do ordenamento, não unicamente no penal. É sua lição: "Ressalto, como aqui já foi afirmado, a importância deste julgamento, em que o Supremo Tribunal Federal, interpretado a Constituição da República, deixa bastante claro que o princípio da não-culpabilidade projeta-se para além de uma dimensão estritamente penal, alcançando quaisquer medidas restritivas de direito, independentemente de seu conteúdo, ainda que em sede administrativa".
+De fato, o próprio STJ, em diversas oportunidades, já julgou que "(..). 11.
+As sanções da ação por improbidade podem ser mais graves que as sanções criminais tout court , mercê do gravame para o equilíbrio jurídico-institucional, o que lhe empresta notável colorido de infração penal que distingue os atos ilícitos civis dos atos ilícitos criminais. (..). (REsp n. 769.811/SP, relator Ministro Francisco Falcão, relator para acórdão Ministro Luiz Fux, Primeira Turma, julgado em 19/6/2008, DJe de 6/10/2008)".
+Ou seja, Exas., mais que evidente que o favor rei se aplica às ações de improbidade e, assim, não pode o Recorrente ser condenado por uma prova emprestada provavelmente ilícita até que haja, na esfera penal, emanação definitiva sobre tal questão.
+Afinal, os argumentos utilizados pelo juízo de 1º grau para declarar tais provas nulas nos autos do processo nº 1009-59.2006.4.01.3900 (2006.39.00.001009-0) são muito fortes e, por tal razão, merecem destaque abaixo:
+ ..
+Após juntar julgados que sustentam seu entendimento, continua o magistrado argumentando pela nulidade da interceptação:
+ ..
+Em consequência, assevera de modo inquestionável que todas as provas que sucederam à interceptação, por terem sido diretamente produzidas pela fonte contaminada, estão igualmente eivadas de nulidade:
+ ..
+Consectariamente, decidiu:
+ ..
+Frise-se, Exa: a despeito de tal decisão ter sido reformada pelo juízo criminal em grau de apelação, a jurisdição ordinária ainda não terminou e, assim, inexiste pronunciamento final sobre o caráter nulo da prova, razão pela qual é inapta para gerar efeitos na esfera cível até que seja definitivamente julgada.
+Mister, portanto, suspender a ação de improbidade para aguardar o decisum peremptório da esfera criminal, seja em HC ou em recurso excepcional, preservando intacto o devido processo legal, a ampla defesa e a presunção de inocência.
+Por fim, Exa., cumpre asseverar que, diferentemente do que consta do acórdão, a prova emprestada é a única apta a sustentar uma condenação do Recorrente, tanto assim que em 1º grau os pedidos foram julgados totalmente improcedentes pois, naquele momento processual, as interceptações estavam invalidadas.
+(fls. 2647-2652).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
