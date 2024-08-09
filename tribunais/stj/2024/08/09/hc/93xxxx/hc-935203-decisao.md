@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ARI ZANETTI, CLAIR MARIA VARNIER ZANETTI e outros, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que os pacientes foram condenados pela prática do crime previsto no art. 90 da Lei 8.666/19933, por duas vezes, na forma do art. 69 do CP.
+O impetrante alega, em síntese, que não deveria ser considerado o concurso de crimes, de maneira a possibilitar o oferecimento do acordo de não persecução penal.
+Requer a concessão da liminar para suspender os efeitos da condenação e, no mérito, a concessão do habeas corpus para ordenar a remessa dos autos ao Ministério Público Federal para que seja ofertado acordo de não persecução penal ou, ao menos, examinada a possibilidade de sua aplicação, uma vez que preenchidos os requisitos legais do art. 28-A do Código de Processo Penal.
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, o afastamento do concurso de crimes com possibilidade de aplicação do acordo de não persecução penal.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que, "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
