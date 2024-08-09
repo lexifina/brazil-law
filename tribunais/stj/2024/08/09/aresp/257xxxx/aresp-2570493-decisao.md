@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial tirado contra acórdão do TJSP assim ementado (e-STJ, fl. 1.186):
+APELAÇÃO CUMPRIMENTO PROVISÓRIO DE SENTENÇA Decisão que extinguiu a ação em razão da anulação do título executivo pelo E. TJSP DANOS MATERIAIS Inexistência de abusividade na instauração do cumprimento provisório de sentença, sendo permitida a execução provisória Exercício regular de direito Ausência de comprovação de prejuízos DANOS MORAIS Inclusão do nome do executado nos órgãos de proteção ao crédito que não resulta caracterizado ilícito extracontratual, na medida em que à época da inclusão, estava amparado pelo exercício regular do direito Recurso desprovido.
+DISPOSITIVO: Negaram provimento ao recurso.
+Os embargos de declaração opostos ao aresto foram rejeitados (e-STJ, fls. 1.196/1.200 e 1.200/1.204).
+Nas razões do especial (e-STJ, fls. 1.206/1.223), o recorrente indica negativa de prestação jurisdicional, do que resultariam malferidos os arts. 1.022, II, e 489, § 1º, IV, do CPC/2015. Quanto ao mérito da controvérsia, sustenta violação do art. 520, I e II, do CPC/2015, argumentando pela responsabilidade objetiva de sua contraparte em razão do pedido de cumprimento provisório de sentença ulteriormente extinto porque anulada a sentença condenatória. Por fim, aduz que não lhe foi outorgada a possibilidade de fazer prova dos prejuízos que suportou, o que ofende o art. 355 da lei processual civil.
+Sem contrarrazões (e-STJ, fls. 1.239).
+Decisão pela inadmissibilidade do recurso às fls. 1.240/1.243 (e-STJ).
+Razões do agravo às fls. 1.246/1.278 (e-STJ).
+Contraminuta às fls. 1.281/1.294 (e-STJ).
+É o relatório.
+A irresignação prospera.
+Dispõe o art. 520 do CPC/2015:
+Art. 520. O cumprimento provisório da sentença impugnada por recurso desprovido de efeito suspensivo será realizado da mesma forma que o cumprimento definitivo, sujeitando-se ao seguinte regime:
+I - corre por iniciativa e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido;
+II - fica sem efeito, sobrevindo decisão que modifique ou anule a sentença objeto da execução, restituindo-se as partes ao estado anterior e liquidando-se eventuais prejuízos nos mesmos autos;
+ ..
+Tem-se hipótese de responsabilidade objetiva, imposta por lei, a que se sujeita o credor que opta pelo cumprimento provisório da sentença, amparado em título judicial posteriormente reformado ou anulado. No ponto:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LIQUIDAÇÃO DE DANO EM EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. RESPONSABILIDADE CIVIL OBJETIVA DA EXEQUENTE. EXECUÇÃO EXTINTA. CULPA. IRRELEVÂNCIA. RECURSO ESPECIAL DESPROVIDO.
+ ..
+3. A responsabilidade civil objetiva de reparar os eventuais prejuízos causados ao devedor, restituindo-se as partes ao estado anterior, é imposta ao credor (CPC, arts. 520, I, e 776), uma vez que a ele se imputa o risco da execução. Precedentes.
+ ..
+(REsp n. 1.931.620/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/12/2023, DJe de 23/1/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. DECISÃO DA PRESIDÊNCIA DO STJ. RECURSO ESPECIAL. EFEITO SUSPENSIVO. JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA. INCOMPETÊNCIA DO STJ. EXCEPCIONALIDADE NÃO IDENTIFICADA. DECISÃO MANTIDA.
+ ..
+3. O cumprimento provisório da sentença é direito e prerrogativa do credor, e tramita sob sua responsabilidade, com a obrigação de reparar os danos que o devedor houver sofrido no caso de reforma ou nulidade do julgado objeto da execução (CPC/2015, art. 520, I), de sorte que o mero início da fase processual satisfativa não qualifica, por si, risco de dano irreparável.
+4. Agravo interno desprovido.
+(AgInt na TutCautAnt n. 74/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO POPULAR. LOCAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REITERAÇÃO DE EMBARGOS DE DECLARAÇÃO. INTUITO PROTELATÓRIO. MULTA MANTIDA. COISA JULGADA. REVOGAÇÃO POSTERIOR DE LIMINAR DEFERIDA. REPARAÇÃO DE DANO PROCESSUAL. PEDIDO QUE DEVE SER PROCESSADO NOS PRÓPRIOS AUTOS. RESPONSABILIDADE PROCESSUAL OBJETIVA. PRECEDENTE DA SEGUNDA SEÇÃO. RECURSO PROVIDO, EM PARTE.
+ ..
+4. A Segunda Seção do STJ é firme no entendimento de que os danos decorrentes da execução de tutela antecipada, assim como de tutela cautelar e execução provisória, são disciplinados pelo sistema processual vigente, independentemente da análise sobre culpa da parte, ou se esta agiu de má-fé.
+5. Esta Corte Superior compreende que a obrigação de indenizar o dano causado pela execução de tutela antecipada posteriormente revogada é consequência natural da improcedência do pedido, dispensando-se, inclusive, pedido da parte interessada.
+6. A sentença de improcedência, quando revoga tutela concedida por antecipação, constitui, como efeito secundário, título de certeza da obrigação de o autor indenizar o réu pelos danos eventualmente experimentados, cujo valor exato será posteriormente apurado em liquidação nos próprios autos. Precedente: REsp 1.548.749/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe 6/6/2016.
+7. Recurso especial parcialmente provido.
+(REsp n. 1.767.956/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/10/2018, DJe de 26/10/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA. REPARAÇÃO DE DANO, DECORRENTE DE MEDIDA LIMINAR DEFERIDA NOS AUTOS. POSSIBILIDADE. RESPONSABILIDADE PROCESSUAL OBJETIVA. OBRIGAÇÃO DE REPARAR O DANO PROCESSUAL. DECORRE DA LEI, NÃO DEPENDENDO DE PRÉVIOS RECONHECIMENTO JUDICIAL E/OU PEDIDO DO LESADO. POSSIBILIDADE DE DESCONTO, COM ATUALIZAÇÃO MONETÁRIA, DO PERCENTUAL DE 10% DO MONTANTE BRUTO DO BENEFÍCIO SUPLEMENTAR, ATÉ QUE OCORRA A COMPENSAÇÃO DO DANO. UTILIZAÇÃO DE ANALOGIA. LEI N. 8.112/1990. MATÉRIA PACIFICADA NO ÂMBITO DO STJ, EM VISTA DA AFETAÇÃO À SEGUNDA SEÇÃO E JULGAMENTO DO RESP 1.548.749/RS. INCIDÊNCIA DE JUROS DE MORA. INVIABILIDADE. NÃO HÁ COMO RECONHECER FATO OU OMISSÃO IMPUTÁVEL AOS DEVEDORES - AUTORES DA AÇÃO DE REVISÃO DE BENEFÍCIO, ORA RECORRIDOS. A TEOR DO ART. 396 DO CC, NÃO INCORREM EM MORA. CABE À ENTIDADE PREVIDENCIÁRIA PRATICAR OS ATOS NECESSÁRIOS À REPARAÇÃO DO DANO PROCESSUAL. É O PLEITO INFUNDADO, SUSCITADO RECURSO ESPECIAL E NO PRESENTE AGRAVO INTERNO DA ENTIDADE PREVIDENCIÁRIA, QUE RETARDA O TRÂNSITO EM JULGADO.
+1. Segundo o entendimento firmado na Segunda Seção desta Corte Superior, "Os danos causados a partir da execução de tutela antecipada (assim também a tutela cautelar e a execução provisória) são disciplinados pelo sistema processual vigente à revelia da indagação acerca da culpa da parte, ou se esta agiu de má-fé ou não. Com efeito, à luz da legislação, cuida-se de responsabilidade processual objetiva, bastando a existência do dano decorrente da pretensão deduzida em juízo para que sejam aplicados os arts. 273, § 3º, 475-O, incisos I e II, e 811 do CPC/1973 (correspondentes aos arts. 297, parágrafo único, 520, I e II, e 302 do novo CPC)".
+2. Salientou-se também que "Em linha de princípio, a obrigação de indenizar o dano causado pela execução de tutela antecipada posteriormente revogada é consequência natural da improcedência do pedido, decorrência ex lege da sentença, e, por isso, independe de pronunciamento judicial, dispensando também, por lógica, pedido da parte interessada. A sentença de improcedência, quando revoga tutela antecipadamente concedida, constitui, como efeito secundário, título de certeza da obrigação de o autor indenizar o réu pelos danos eventualmente experimentados, cujo valor exato será posteriormente apurado em liquidação nos próprios autos".
+ ..
+(AgInt no REsp n. 1.630.716/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/12/2016, DJe de 2/2/2017)
+Registre-se que a norma legal determina que a liquidação dos prejuízos deve ser feita nos próprios autos (CPC/2015, art. 520, II), prerrogativa que não foi outorgada ao agora recorrente, cujo pedido foi outrossim denegado pelo fundamento de que não comprovados quaisquer danos.
+É forçoso reconhecer, assim, violação do art. 520, I e II, da lei processual, afigurando-se impositivo cassar o acórdão e a sentença de primeiro grau para que seja previamente franqueada ao recorrente a oportunidade de demonstrar e fazer prova dos danos que alega ter suportado em razão do cumprimento provisório extinto. Após. caberá ao magistrado de primeira instância decidir a respeito da responsabilidade do exequente-recorrido em relação a cada um dos desses danos, sujeitando-se a decisão aos recursos processuais comportados.
+Ante o exposto, CONHEÇO do agravo nos próprios autos para DAR PROVIMENTO ao recurso especial, na forma da fundamentação acima.
+Prejudicado o exame da alegada negativa de prestação jurisdicional.
+Publique-se. Intimem-se.
+EMENTA
