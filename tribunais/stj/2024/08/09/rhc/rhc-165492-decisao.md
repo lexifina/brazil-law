@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por CIBELE CARVALHO BRAGA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2256255-28.2021.8.26.0000), no qual pugna a defesa pelo trancamento da ação penal na origem, na qual foi denunciada a recorrente pela prática do delito previsto no art. 356 do Código Penal.
+O retrospecto foi bem delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 794/795):
+1. Trata-se de recurso ordinário manejado em favor da advogada Cibele Carvalho Braga, com fulcro no artigo 105, II, a, da Constituição, contra acórdão da 15ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que não concedeu a ordem rogada nos autos do habeas corpus n. 2256255-28.2021.8.26.0000.
+2. A ré Cibele Carvalho Braga possui denúncia recebida e em processamento perante a 1ª Vara Criminal da Comarca de São Paulo, nos autos da ação penal n. 0002516-18.2015.8.26.0050, pela prática, em tese, por duas vezes, do delito tipificado no artigo 356 do Código Penal (sonegação de papel ou objeto de valor probatório).
+3. O acórdão combatido possui como ementa (e-STJ fl. 722):
+HABEAS CORPUS - Trancamento da ação penal por atipicidade de conduta; consunção e prescrição, derivada de ação penal autônoma - Impossibilidade de análise aprofundada da prova para se estabelecer a autoria da paciente, ou a tipicidade da conduta, o que não se admite nesta via eleita - Conduta imputada que, de início, se amolda ao tipo penal - Justa causa exigida para o oferecimento da denúncia ou queixa-crime que não se caracteriza por provas cabais e conclusivas, mas tão somente por lastro indiciário mínimo acerca da materialidade e autoria delitivas - Denúncia que viabiliza o exercício da ampla defesa -Condutas constantes da denúncia que não se relacionam com aquela apurada nos autos a ação penal nº 0033884-50.2012.8.26.0050, cuja prescrição, a par de não comprovada, não afeta o feito originário deste writ. Cerceamento de defesa - Não ocorrência - Decisão que, mediante regular exercício da discricionariedade regrada do juiz, indeferiu, justificadamente, pleito de oitiva de testemunhas alheias aos fatos - De spacho suficientemente fundamentado - Mácula do cerceamento probatório não encontrado na estreita via deste writ - Ordem denegada, na parte não prejudicada.
+4. Em suas razões (e-STJ fls. 742-761), a defesa sustenta que há nulidade na citação da ré Cibele Carvalho Braga, e narra incidente de falsidade. Ainda, defende que os fatos narrados na denuncia não constituiriam delitos, além de estarem prescritos, requerendo o trancamento da ação penal. Ampara a irresignação com cópia de acórdão proferido no RHC n. 45.651/SP (Relatora Ministra Laurita Vaz, DJe de 25.08.2014).
+5. No fim, a defesa relata fatos supostamente ilícitos vinculados aos autos não devolvidos e que motivaram as duas ações penais promovidas pelo Ministério Público do Estado de São Paulo contra a advogada Cibele Carvalho Braga: 0033884-50.2012.8.26.0050 (apropriação de valores recebidos em ações judiciais) e 0002516-18.2015.8.26.0050 (sonegação dos autos físicos das ações judicais).
+6. O Ministério Público do Estado de São Paulo, em manifestação ao recurso ordinário, apresentou um apanhado dos atos regulares expressos na ação penal e do acerto do acórdão recorrido (e-STJ fls. 771-784).
+Ao final, opinou o Parquet pelo desprovimento do recurso.
+É o necessário relatório.
+Decido.
+O recurso está prejudicado.
+É que, em consulta aos assentamentos processuais desta Corte, notadamente os autos do AREsp n. 2582033/SP, verifica-se a superveniência de acórdão que julgou a apelação, declarando-se extinta a punibilidade da ora recorrente pelo advento da prescrição.
+É forçoso reconhecer, portanto, a perda de objeto do presente recurso ordinário.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+EMENTA
