@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por PEDRO HENRIQUE LELIS DA COSTA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (HC n. 0708495-83.2024.8.07.0000).
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva pela prática, em tese, de tráfico de drogas e receptação.
+Narram os autos que ele "tinha em depósito, para fins de difusão ilícita, as seguintes substâncias entorpecentes: a) 79 (setenta e nove) porções de da mesma substância entorpecente (cocaína), em forma de pó, acondicionadas em microtubos de plástico; b) 09 (nove) porções de cocaína, acondicionadas em sacola/segmento plástico, perfazendo a massa líquida de 437,52g (quatrocentos e trinta e sete gramas e cinquenta e dois centigramas); e c) 01 (uma) porção de substância de tonalidade amarelada conhecida popularmente como crack, em forma de pedra, acondicionada em sacola/segmento plástico, perfazendo a massa líquida de 4,71g (quatro gramas e setenta e um centigramas)" (e-STJ fl. 267).
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 264/275).
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva, ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Destaca a ilegalidade das buscas pessoal e domiciliar.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, verifiquei que, em 24 de maio de 2024, o recorrente foi condenado à pena de 6 anos, 2 meses e 15 dias de reclusão, a ser cumprida inicialmente no regime semiaberto, mais pagamento de 510 dias-multa. Na ocasião, foi-lhe negado o direito de recorrer em liberdade.
+Assim, patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+No mesmo caminhar:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DOS REQUISITOS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE AGREGA FUNDAMENTOS AO DECRETO PRISIONAL. PREJUDICIALIDADE. ALEGAÇÃO DE ILEGALIDADE NA BUSCA PESSOAL. PLEITO PREJUDICADO. TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. PREJUDICADO PELA SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. ENTENDIMENTO DA SÚMULA N. 648 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NULIDADE. SUPOSTA AGRESSÃO AO AGRAVANTE PELOS AGENTES ESTATAIS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE DE ANÁLISE NA PRESENTE VIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do agravante, agregando fundamentos novos ao decreto prisional, tendo ressaltado que: "Considerando que o réu respondeu ao processo preso, foi condenado ao regime fechado, é reincidente, havendo reiteração delitiva, indefiro o direito de apelar em liberdade". Dessa forma, quanto à ausência de fundamentos da prisão preventiva, o pleito encontra-se prejudicado.
+2. As razões expendidas pelo juízo de primeiro grau para indeferir o pedido de nulidade em razão da busca pessoal não mais subsistem. Após encerrada a devida instrução processual, fundamentos diversos e complementares foram apresentados pelo magistrado sentenciante. Assim, diante do novo contexto fático, evidente a perda do objeto do presente reclamo. Os novos fundamentos devem ser submetidos perante o Tribunal a quo antes de serem aqui analisados, sob pena de incidir em indevida supressão de instância.
+3. O pedido de trancamento da ação penal por ausência de justa causa fica prejudicado com a superveniência de sentença condenatória. Inteligência da Súmula n. 648 desta Corte Superior de Justiça, que dispõe que "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".4. No que se refere à alegada agressão por um dos guardas e possível nulidade da prisão, o entendimento desta Corte Superior é no sentido de que "A comprovação a respeito da ocorrência ou não das alegadas agressões policiais é matéria que demanda incursão no contexto fático-probatório, providência incabível na via ora trilhada" (AgRg no HC n. 669.316/PR, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/6/2021, DJe de 14/6/2021).
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 188.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024, grifei.)
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
