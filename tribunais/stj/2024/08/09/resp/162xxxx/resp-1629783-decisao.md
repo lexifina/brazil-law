@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA contra o acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+AMBIENTAL. INFRAÇÃO AMBIENTAL. IN N 22/2013. AUTUAÇÃO COM FUNDAMENTO NO INCISO III DO ARTIGO 8º. HABITUALIDADE. DESCARACTERIZAÇÃO. PENALIDADE APLICADA. DESPROPORÇÃO  ..  (fl. 300).
+Os embargos de declaração foram acolhidos apenas para afirmar o prequestionamento das matérias suscitadas.
+Nas razões recursais, a parte recorrente sustenta, em síntese: i) vício de fundamentação sobre a litispendência, a gravidade do histórico de infrações ambientais da empresa, a reiteração de infrações (inclusive com violação do depósito das madeiras apreendidas e progressiva e significativa ampliação do volume de madeira ilícita verificada em cada uma) nas três últimas fiscalizações, a possibilidade de a empresa seguir operando mesmo com a restrição ao DOF, a distinção entre os fatos ensejadores da multa e da suspensão de acesso ao DOF, e a necessidade e adequação da sanção, inclusive à luz do princípio da precaução (arts. 535 do CPC/1973 e 1.022 do CPC/2015); e ii) adequação da pena aplicada, à luz dos elementos anteriormente listados (arts. 45 da Lei 9.784/1999; 101, § 1º, do Decreto 6.514/2008; 82 do Decreto 6.514/2008; e 54, § 3º, da Lei 9.605/1998).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Com relação à alegada violação aos arts. 535 do CPC/1973 e 1.022 do CPC/2015, tem razão a parte recorrente.
+O acórdão incorre em obscuridades que carecem de integração, notadamente quanto à gravidade da sanção e à habitualidade. Isso porque o fato de a empresa atuar há 20 anos, como alegado, não afasta a habitualidade do que parece ser uma sequência consistente de infrações, por três vezes, em três fiscalizações seguidas, com progressiva ampliação do volume de madeira ilegal detectada e reiterado descumprimento dos deveres do depositário fiel dos bens. É preciso que se esclareça se a repetição, em três fiscalizações seguidas, afasta a habitualidade infracional da empresa.
+Quanto à gravidade, é preciso esclarecer o conceito adotado pela origem de pena mínima. Isso porque a norma reguladora das sanções prevê cinco categorias de gravidade, de A a E, e gradua as multas possíveis em cada uma delas. Como, conforme os autos, a conduta foi enquadrada na categoria C, intermediária, portanto, não é claro como a origem a considerou como penalidade mínima possível.
+Ademais, há omissões relevantes. A habitualidade, conforme a norma, é premissa de incidência da sanção. Porém, a norma não indica parâmetros para a restrição temporal de acesso ao sistema DOF, impondo apenas um limite máximo. A origem considerou como parâmetro a penalidade de multa aplicada, porém, além da obscuridade acima tratada, não respondeu ao argumento da autarquia de que as sanções decorrem de fatos diversos.
+É preciso ainda que se resolva a alegação de litispendência, bem como sobre a incidência do princípio da precaução ambiental, além da inexistência de inviabilização comercial da empresa pela mera restrição de acesso ao DOF.
+Isso posto, dou provimento ao recurso especial para determinar o reenvio do feito à origem, para saneamento dos vícios de fundamentação ora reconhecidos.
+Intimem-se.
+EMENTA
