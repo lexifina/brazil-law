@@ -1,0 +1,24 @@
+DECISÃO
+Na origem, trata-se de ação indenizatória a título de danos materiais e lucros cessantes relativa a incêndio em propriedade rural ocasionado por rompimento de cabos de energia elétrica. Na sentença, julgou-se parcialmente procedente o pedido para condenar a concessionária ré à indenização. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 305.908,00 (trezentos e cinco mil, novecentos e oito reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. PRELIMINAR DE NULIDADE DA SENTENÇA - DOCUMENTOS JUNTADOS APÓS O ENCERRAMENTO DA INSTRUÇÃO - IMPOSSIBILIDADE DE JUNTADA EM DATA ANTERIOR - OPORTUNIZADO O CONTRADITÓRIO - AFASTADA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO DE ENERGIA ELÉTRICA - RESPONSABILIDADE OBJETIVA NOS TERMOS DO §6º DO ARTI. 37 DA CF - INCÊNDIO OCASIONADO PELA MÁ PRESTAÇÃO DO SERVIÇO PÚBLICO COMPROVADO POR LAUDO PERICIAL - PRESENTE NEXO DE CAUSALIDADE - DEVER DE INDENIZAR. DANO MATERIAL E LUCRO CESSANTE - APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA. JUROS DE MORA - A PARTIR DO EVENTO DANOSO. CORREÇÃO MONETÁRIA - A CONTAR DO EFETIVO PREJUÍZO. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Em sendo os documentos novos juntados antes da sentença, com prévia intimação da parte adversa para manifestação, bem como demonstrado que os documentos foram produzidos após a instrução, não há falar em nulidade.
+Sendo a demandada concessionária de serviço público de fornecimento de energia elétrica e, portanto, configurada sua qualidade de agente estatal, o alegado dano por ela praticado será apreciado à luz da Teoria do Risco Administrativo, consagrada no § 6º, do art. 37, da Constituição Federal.
+Comprovado por meio de laudo pericial que o incêndio iniciou-se em razão da quebra das cruzetas, cuja responsabilidade é da requerida, evidenciado a má prestação de serviço público e o nexo de causalidade, portanto, presente o dever de indenizar pelo dano material e lucro cessante.
+O termo inicial dos juros de mora deverá incidir a contar do evento danoso, marco inicial observado pelo Magistrado a quo.
+Nos termos da súmula 43 do STJ a correção monetária será a partir do efetivo prejuízo, conforme observado na sentença.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Considerando que o referido dispositivo legal determina a intimação da parte contrária, acerca da juntada de documentos novos, aparentemente o despacho equivocou-se, eis que os documentos foram juntados pelo autor, de modo que a requerida é quem deveria ser intimada.
+Ocorre que, o autor atendeu a intimação, manifestou-se e juntou notas fiscais, referentes a reestruturação das terras queimadas, sendo a requerida intimada em seguida para manifestar-se acerca dos novos documentos (f. 517), ocasião em que requereu seu desentranhamento, ao argumento de que foram juntados após a instrução.
+Assim, tem-se que foi oportunizado a requerente o contraditório, posto que intimada antes da sentença acerca dos documentos novos, atendendo ao disposto no artigo 437, §1º, do CPC.
+ ..
+Portanto, comprovado que a conduta omissa da requerida ocasionou o incêndio, ou seja, demonstrado o nexo de causalidade, não comporta reforma a sentença, pois, presente o dever de indenizar.
+Inicialmente, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
