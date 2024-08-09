@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MULTA COMINATÓRIA. DESCUMPRIMENTO INJUSTIFICADO DA LIMINAR IMPOSTA. VALOR EXIGIDO QUE NÀO SE MOSTRA EXCESSIVO, POR ISSO QUE SEM REDUÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e divergência jurisprudencial em relação aos arts. 537, § 1º, I e II, do CPC e 884 do CC, no que concerne à inexistência de descumprimento da decisão judicial passível de aplicação de multa cominatória e à exorbitância das astreintes impostas, razão pela qual deve a multa ser afastada ou reduzida de forma a evitar o enriquecimento ilícito da parte recorrida, trazendo a seguinte argumentação:
+Necessário esclarecer que, no caso em questão, a Recorrida pretende utilizar-se do judiciário para enriquecer ilicitamente às custas da Recorrente.
+Da análise dos autos, o acórdão ora guerreado entendeu como devida a multa por descumprimento da decisão que deferiu a liminar pleiteada, no entanto, de forma precoce e de maneira a prejudicar de forma exagerada os interesses da Recorrente, promovendo certo desequilíbrio entre as partes.
+ ..
+Diante dessas considerações, infere-se que é possível obter redução do valor, tendo em vista se tratar de alta quantia pecuniária requerida pela exequente, não se podendo tratar como valor adequado aos fins propostos da multa, pois não é razoável uma cobrança em quantia tão alta que promova o enriquecimento sem causa da parte exequente.
+ ..
+Mesmo que se conclua por um atraso, é necessária a consideração dos fatos acima demonstrado para que a multa cominatória seja afastada, pois trata-se de obrigação complexa e de difícil cumprimento, isso porque, a multa em questão tem como único objetivo compelir a parte demandante a cumprir uma obrigação, e assim, uma vez cumprida, não há o que se falar aplicação de astreintes, até porque, a multa cominatória, não é absoluta e é passível de revisão e até mesmo de exclusão na forma permitida pelo artigo 537 do Código Civil.
+ ..
+Além disso, necessário que se considere que a operadora sempre agiu de boa-fé, podendo perfeitamente ser excluída a multa fixada conforme autoriza o parágrafo primeiro do artigo 537 do CPC, tendo em vista que o valor arbitrado é incompatível com o valor estimado pela decisão objurgada, pois repisa-se, a paciente sempre assistida e nenhum prejuízo à sua saúde foi atribuído.
+ ..
+Ora, não há o que se falar em descumprimento da decisão, tendo em vista que não há indícios de que a Recorrente tenha descumprido com a obrigação de fazer, e, por conseguinte, inexiste motivos para que a operadora seja penalizada com a multa cominatória.
+ ..
+Desse modo, a aplicação de multa cominatória em valores exorbitantes, por fatos que fogem ao controle desta operadora, não podem prevalecer, sendo de rigor a sua minoração aos parâmetros mínimos, a teor do que estabelece o artigo 537, §1º, incisos I e II do CPC.
+ ..
+Diante do exposto, manifestamente divergentes as decisões confrontadas, as quais possuem idêntica moldura fática, não havendo que se falar em reapreciação de fatos e provas, é medida de direito que o colendo Superior Tribunal de Justiça se manifeste a respeito de matéria de direito trazida à baila e pacifique a jurisprudência pátria, reformando a decisão ora impugnada nos termos requeridos por esta recorrente.(fls. 85/98).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Assente-se, de início, ter sido deferida liminar a fls. 49/50 dos autos principais para o fim de "determinar à ré que autorize a realização da intervenção cirúrgica da autora, indicando a unidade hospitalar e provendo todo o necessário, com a efetiva realização do procedimento no prazo máximo de 48 horas, a contar da ciência desta decisão, sob pena de multa diária de R$1.000,00, até o limite de R$30.000,00" (g. n.).
+Conforme apontado na decisão recorrida, não consta ter sido interposto recurso pela ré na ocasião, questionando a obrigação que lhe foi imposta ou o prazo para o seu cumprimento.
+Ademais, também não se questionam no recurso a data em que efetivamente realizada a intimação para cumprimento 25/10/2022 e a data em que realizado o procedimento 03/11/2022.
+Pois, sendo assim, a inobservância ao prazo de 48 horas é evidente.
+O e-mail de fls. 07 que parece ter sido trocado entre os funcionários da agravante e um correspondente do hospital não tem o condão de denotar integral cumprimento da obrigação imposta.
+Ademais, também não juntou a agravante qualquer prova que justificasse de forma cabal a inobservância do prazo, indicando eventuais óbices de forma concreta.
+Neste contexto, não há que se falar em inexistência de causa a justificar a incidência das astreintes.
+ ..
+Contudo, no caso concreto, os valores exigidos não se mostram excessivos em históricos R$7.000,00, cf. fls. 02 de origem , especialmente considerando a obrigação que por meio das astreintes se procurava assegurar ("transplante de córnea penetrante de urgência por úlcera de córnea infectada perfurada"), conforme fls. 26 dos autos principais (fls. 68/74).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria, a toda evidência, o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ademais, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
