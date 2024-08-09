@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de conflito negativo de competência, no qual é suscitante o JUÍZO DE DIREITO DA 1ª VARA DE URUSSANGA - SC e suscitado o JUÍZO FEDERAL DA 4ª VARA DE CRICIÚMA - SJ/SC.
+O suscitado considerou inexistir interesse do IBAMA e determinou o encaminhamento dos autos à Justiça Comum. O suscitante entendeu que "eventual anulação da carta de arrematação do evento 1, CARTAARREMT25, acarretará na retirada do bem adquirido pelo réu Vaudimar Piva, de modo que eventuais vícios em seu procedimento, caso reconhecidos, dizem respeito à atos ocorridos perante a Justiça Federal, o que atrai a sua competência para processar e julgar esta ação" (e-STJ fl. 1.181).
+O Ministério Público Federal manifestou-se nos seguintes termos (e-STJ fl. 1.193):
+CONFLITO NEGATIVO DE COMPETÊNCIA. OBRIGAÇÕES. AÇÃO ANULATÓRIA DE ATO JURÍDICO, REFERENTE A ANULAÇÃO DE ARREMATAÇÃO DE BEM PENHORADO. IBAMA QUE SE MANIFESTOU PELA FALTA DE INTERESSE NA DEMANDA. JUSTIÇA FEDERAL QUE NÃO RECONHECEU O INTERESSE FEDERAL. ENTENDIMENTO DA SÚMULA 150/STJ. COMPETÊNCIA QUE RECAI SOBRE O JUÍZO ESTADUAL. FALTA DE INTERESSE DA UNIÃO.
+PARECER PELO CONHECIMENTO DO CONFLITO DE COMPETÊNCIA, COM A FIXAÇÃO DA COMPETÊNCIA DO JUÍZO DE DIREITO DA IA VARA DE URUSSANGA/SC, ORA SUSCITANTE.
+É o relatório.
+Decido.
+Na origem, ODILON JONAS PIVA ajuizou ação de preferência cumulada com anulatória de ato jurídico e pedido de tutela antecipada contra VALDIMAR PIVA perante a Justiça Federal. Objetivava desconstituir arrematação realizada em processo de cumprimento de sentença perante o JUÍZO FEDERAL DA 4ª VARA DE CRICIÚMA - SJ/SC, tendo como exequente o IBAMA (Proc. n. 5004753-52.2018.4.04.7204).
+Consta da petição inicial que (e-STJ fls. 8/13):
+A Sra. Albertina Piva responde processo de cumprimento de sentença, autuado sob o nº 5004753-52.2018.4.04.7204, movido pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, para cobrança de um crédito advindo de uma aplicação de multa diária arbitrada nos autos nº 5009038-30.2014.4.04.7204.
+Naquele feito, a Sr. Albertina Piva, teve penhorado seu imóvel matriculado sob o nº 17.095, do Registro de Imóveis da Comarca de Urussanga/SC, sendo ele um terreno rural (Recibo de Inscrição do Imóvel Rural no CAR e Recibo de Entrega de Declaração do ITR, em anexo).
+Acontece, Excelência, que o referido imóvel está arrendado para o autor, sobrinho da Sra. Albertina Piva, desde o ano de 2018, para plantação de milho, sogro e mandioca para alimentar (tratar) gados de propriedade daquele.
+(..)
+Assim sendo, denota-se, Excelência, que a vasta e forte prova documental acostada a presente, comprovam que, realmente, foi ajustado um contrato verbal de arrendamento rural no ano de 2018 entre a Sra. Albertina Piva e o seu sobrinho, ora autor, tendo como objeto o imóvel matriculado sob o nº 17.095, em questão, que tal contrato estava em plena vigência no momento da alienação judicial, não tendo sido respeitado o seu direito de preferência e, desta forma, não existe outra solução que não a de recorrer ao Poder Judiciário para não ser mais sofrer prejuízos e obter reparação pelos danos causados.
+Requereu (e-STJ fls. 19/20):
+b) a concessão da liminar, inaudita altera parte, para o deferimento do depósito judicial, no prazo de até 48 (horas), do valor atualizado constante na carta de arrematação, juntamente com o depósito do valor do ITBI e dos honorários do leiloeiro, bem como seja determinada a reintegração de posse do autor no imóvel em questão e a não liberação do valor depositado pelos réus nos autos nº 5004753-52.2018.4.04.7204, decorrentes da alienação judicial, até o trânsito em julgado da presente ação;
+(..)
+f) ao final, seja julgado procedente a presente ação, confirmando os efeitos da antecipação de tutela, conferindo o seu caráter definitivo, para seja anulada a alienação judicial realizada para os réus nos autos nº 5004753-52.2018.4.04.7204, referente ao imóvel matriculado sob o nº 17.095, do Registro de Imóveis da Comarca de Urussanga/SC, bem como acolhido o pedido de preferência postulado pelo autor, determinando-se a expedição da carta de arrematação e/ou adjudicação do imóvel em questão em seu nome. (Grifei.)
+A Justiça Federal declarou-se incompetente pois, "apesar do IBAMA figurar como exequente nos referidos autos, não há nulidade acerca do ato de arrematação em si, mas sim entre o autor e o arrematante, pela alegada inobservância da preferência legal. Tanto é, que o autor manifestou interesse em depositar judicialmente o valor pelo qual o imóvel foi arrematado, não atingindo a esfera patrimonial e o interesse do IBAMA" (e-STJ fl. 1.152).
+O suscitante deduziu o presente conflito por entender que (e-STJ fls. 1.180/1.181):
+Em consulta ao referido processo via Internet, no portal da Justiça Federal de Santa Catarina, antes da expedição da carta de arrematação em favor do referido réu, foi proferida a seguinte decisão (evento 157):
+Nos termos do disposto no art. 784, § l s, do CPC, "A propositura de qualquer ação relativa a débito constante de título executivo não inibe o credor de promover-lhe a execução." Assim, descabida a pretensão da executada de "suspensão dos atos de expropriação e/ou alienação do bem indicado no evento 97" (evento 155 - PET1).
+Intimem-se, sendo o exequente IBAMA inclusive para, no prazo de 30 dias, informar os dados para a conversão em renda do valor da alienação do imóvel (evento 153).
+Sem prejuízo, expeça-se carta de arrematação em favor do arrematante Vaudimar Plva, uma vez já depositado o valor respectivo e pagos a comissão da leiloeira e o ITBI (evento 152).
+Após, foi expedida a carta de arrematação de n. 720010807442 em favor do réu Vaudimar Piva, a qual encontra-se anexada a estes autos (evento 1, CARTAARREMT25).
+Em atenção à supracitada decisão proferida pelo Juízo Federal, o IBAMA informou que (evento 1, OUT26),
+a orientação é que havendo condenação em dinheiro decorrente de ACP ou de muita por descumprimento de TAC, esses recursos deverão necessariamente ser revertidos ao FDD, com vistas à recomposição dos bens lesados, inclusive, é informado que recolhimentos de valores ao FDD devem obedecer ao disposto na Resolução CFDD ns 30/2013, especificamente para este caso.
+Em outros palavras, a conversão em renda do valor da alienação do bem será destinada ao Fundo de Defesa de Direitos Difusos, regulamentado pela Lei n. 9.008/1995 e vinculado ao Ministério da Justiça.
+Significa dizer que há nítido interesse de órgão federal na presente ação, a qual objetiva anular a alienação judicial realizada em favor de Vaudimar Piva nos autos do cumprimento de sentença n. 5004753-52.2018.4.04.7204, da Justiça Federal de Criciúma/SC.
+Ademais, eventual anulação da carta de arrematação do evento 1, CARTAARREMT25, acarretará na retirada do bem adquirido pelo réu Vaudimar Piva, de modo que eventuais vícios em seu procedimento, caso reconhecidos, dizem respeito à atos ocorridos perante a Justiça Federal, o que atrai a sua competência para processar e julgar esta ação.
+Constata-se que o objetivo da ação é a desconstituição de ato judicial realizado pelo JUÍZO FEDERAL DA 4ª VARA DE CRICIÚMA - SJ/S, a saber: a arrematação do imóvel. Nessa hipótese, compete à Justiça Federal apreciar pedido de anulação de seus próprios atos processuais, a fim de evitar decisões conflitantes sobre o mesmo bem.
+Como destacado no julgamento do AgInt no CC n. 164.110/SP, da relatoria do Ministro MOURA RIBEIRO:
+No meu sentir a segurança jurídica ficaria abalada com a propositura de ações em Juízos diversos visando discutir os efeitos de arrematação ocorrida na Justiça Especializada.
+(..)
+A possibilidade de um juiz de primeira instância atingir a eficácia do comando jurisdicional da Justiça Especializada contraria o sistema processual pátrio.
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL E CIVIL. BEM IMÓVEL INDIVISÍVEL. PROPRIEDADE DE CONDÔMINOS. ARREMATAÇÃO NA JUSTIÇA DO TRABALHO POR TERCEIROS. AÇÃO DE IMISSÃO NA POSSE AJUIZADA NA JUSTIÇA DO TRABALHO. AÇÃO DE PREEMPÇÃO AJUIZADA NA JUSTIÇA ESTADUAL COMUM. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Justiça Especializada é competente para processar e julgar todas as questões decorrentes da execução trabalhista, inclusive os incidentes surgidos em decorrência direta de suas decisões.
+2. Embora a competência ratione materiae seja determinada em função da natureza jurídica da pretensão, decorrendo diretamente do pedido e da causa de pedir deduzidos em juízo, a determinação da competência da Justiça do Trabalho não importa que dependa a solução da lide de questões de Direito Civil (STF - Conflito de Jurisdição nº 6.959-6, Rel. Ministro SEPÚLVEDA PERTENCE, j. 23/5/1990).
+3. A questão possessória e o direito de preempção estão vinculados ao ato judicial de arrematação promovido nos autos da execução trabalhista, devendo ser julgados na Justiça Especializada todos os incidentes a ele relacionados, a fim de evitar decisões conflitantes.
+4. Agravo interno não provido.
+(AgInt no CC n. 164.110/SP, Relator Ministro RAUL ARAÚJO, Relator para acórdão Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe de 3/10/2019.)
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM ESTADUAL. CARTA DE ARREMATAÇÃO EXPEDIDA EM EXECUÇÃO TRABALHISTA. AÇÃO DECLARATÓRIA DE NULIDADE DE REGISTRO IMOBILIÁRIO PROPOSTA NA JUSTIÇA ESTADUAL. IMPOSSIBILIDADE. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES.
+1. Compete com exclusividade à Justiça do Trabalho o julgamento de ação anulatória de registro de imóvel decorrente de arrematação levada a efeito no juízo trabalhista, pois o apontado vício, se reconhecido, terá ocorrido perante a justiça especializada.
+2. Eventual desconstituição da decisão que homologou a arrematação e determinou o registro da carta só pode ser obtida mediante processo próprio, perante aquela Justiça Especializada. Precedentes.
+3. Conflito conhecido, para declarar competente a Justiça Especializada.
+(CC n. 86.065/MG, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/12/2010, DJe de 16/12/2010.)
+Diante do exposto, CONHEÇO do presente conflito negativo de competência para DECLARAR COMPETENTE o JUÍZO FEDERAL DA 4ª VARA DE CRICIÚMA - SJ/SC .
+Publique-se e intimem-se.
+EMENTA
