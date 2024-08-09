@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional em habeas corpus, com pedido liminar, interposto por OSMAR DA CRUZ, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Depreende-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do crime previsto no artigo 121, § 2º, II, do Código Penal Brasileiro. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local (fls. 170-177), em acórdão assim ementado:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS LIBERATÓRIO. CRIME DE HOMICÍDIO QUALIFICADO (ART. 121, § 2º, II, DO CP) PRATICADO CONTRA IRMÃO. ILEGALIDADE DA PRISÃO PREVENTIVA - NÃO EVIDENCIADA. PLEITO DE PRISÃO DOMICILIAR -NÃO CONHECIDO - SUPRESSÃO DE INSTÂNCIA. DECISUM PAUTADO EM ELEMENTOS CONCRETOS - PRESENTES OS REQUISITOS LEGAIS- NECESSIDADE DE MANUTENÇÃO DA CUSTÓDIA PARA GARANTIADA ORDEM PÚBLICA - PERICULOSIDADE DO PACIENTE. ACUSADO IDOSO COM TRANSTORNO MENTAL - SUPOSTA ENFERMIDADE QUE PODE SER TRATADA NO ESTABELECIMENTO PRISIONAL. CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA. HABEAS CORPUS CONHECIDO EM PARTE E, NA EXTENSÃO, ORDEM DENEGADA.  ..  " (fl. 170).
+No presente writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado na ausência de fundamentação para a prisão preventiva do recorrente.
+Aduz que:
+"No presente caso é desnecessária a prisão preventiva. Ora; o Paciente é réu primário; não responde a outros processos criminais; nunca foi preso nem processado e possui residência fixa no distrito de culpa; demonstrando que a presente imputação é fato isolado em sua vida. Além disso, colaborou com as diligências policiais e não deu qualquer indício de que pretende furtar-se à aplicação da lei penal. Também não há qualquer possível risco à ordem econômica; em razão da reduzida repercussão econômica do delito imputado." (fl. 205).
+Requer a concessão da ordem liminarmente e, no mérito, subsidiariamente, a imposição de medidas cautelares diversas da prisão preventiva.
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta, consistente em homicídio qualificado; haja vista que, em tese, o recorrente teria ceifado a vida do seu irmão.
+No ponto, consta no acórdão hostilizado:
+"Verifica-se do decisum invectivado, que este se encontra pautado na gravidade concreta do delito, visando resguardar a garantia da ordem pública, sobretudo porque o crime fora praticado contra o próprio irmão, por motivo fútil, ou seja, por causa dos netos da vítima.
+Além disso, importa registrar que, logo após o ocorrido o Paciente tentou se esconder no matagal, mas fora alcançado pela polícia militar. Nesse viés, há indicativo de que iria empreender fuga, circunstância que dificultaria a aplicação da lei penal.
+Lado outro, impende consignar que, o pleito de prisão domiciliar não deve ser conhecido, eis que não fora submetido a apontada autoridade coatora. Prudente, pois, que o pedido seja apresentado ao respectivo juízo, a fim de evitar a indevida supressão de instância. " (fl. 176).
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo"" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022).
+Como registro a fundamentação do Tribunal de origem acerca do estado de saúde do recorrente:
+"Em relação ao estado de saúde do Paciente, ao contrário do que alega a Impetrante, que o estabelecimento prisional é inadequado à sua condição enferma, o Relatório Médico acostado no ID 6204614, informa que: "O Conjunto Penal de Teixeira de Freitas oferece o serviço de assistência à saúde mental composto pela equipe multidisciplinar e fornecimento de medicamentos disponibilizados pelo SUS. A assistência é avaliada de forma individual e conforme necessidade de cada paciente".
+Assim, não há qualquer risco de vida ao Acusado que necessite de um tratamento diário extramuros, tanto que não foram indicados medicamentos para controle de qualquer patologia." (fl. 176)
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+O Tribunal de origem, em seu acórdão, às fls. 176, salientou que "Além disso, importa registrar que, logo após o ocorrido o Paciente tentou se esconder no matagal, mas fora alcançado pela polícia militar. Nesse viés, há indicativo de que iria empreender fuga, circunstância que dificultaria a aplicação da lei penal  .. ", o que reforça os motivos para que a prisão preventiva seja mantida.
+Nessa toada:
+"A fuga do distrito da culpa, como constatado pelas instâncias ordinárias, demonstra a indispensabilidade da custódia cautelar para garantir a aplicação da lei penal, não havendo manifesta ilegalidade" (AgRg no RHC n. 164.660/SE, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/2/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, nego provimento ao recurso ordinário constitucional em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
