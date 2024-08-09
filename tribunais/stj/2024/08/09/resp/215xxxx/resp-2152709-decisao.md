@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+O recorrente foi condenado "pela prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/06 e no art. 180, caput, do CP, em concurso material, à pena de 07 (sete) anos e 05 (cinco) meses de reclusão, em regime fechado, mais 671 (seiscentos e setenta e um) dias-multa, no valor unitário mínimo legal" (fl. 746).
+Nas razões de seu recurso, aponta violação dos arts. 42 da Lei n. 11.343/2006 e 33, §§ 2º e 3º, do Código Penal, pugnando, ao final, pelo afastamento da desvaloração da culpabilidade, na fase inicial da dosimetria, e alteração do regime prisional para o modo intermediário.
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal "pela concessão de ordem de habeas corpus, de ofício, para que o recorrente seja absolvido da imputação de tráfico de drogas nos termos do artigo 386, incisos III, do Código de Processo Penal, ou, ainda, para que sua conduta seja desclassificada para o tipo do art. 28 da Lei n.º 11.343/06. Subsistindo, porém, a condenação por tráfico de drogas, pugna o Parquet Federal, desde logo, pelo parcial provimento do presente recurso especial, para que seja afastada a circunstância judicial da culpabilidade, com a consequente redução da pena-base imposta ao réu" (fl. 824).
+A respeito das pretensões aqui trazidas, assim se manifestou o Tribunal local (fl. 750):
+ ..  pelo fato de o tráfico praticado nessas circunstâncias revelar envolvimento mais sério do agente com a espécie delitiva, em razão da maior responsabilidade assumida para lidar com entorpecentes de elevado valor econômico e poder viciante, igualmente o alto potencial deletério da droga deve ensejar maior reprovação, independentemente de sua quantidade.
+De mais a mais, como é de conhecimento amplo, não raramente traficantes optam por fracionar drogas, a fim de transportá-las ou guardá-las somente em pequenas quantidades, com o objetivo de dificultar sua descoberta pela polícia ou mesmo alegar a exclusiva destinação ao consumo pessoal. Portanto, também por esse motivo, eventual pouca quantidade de entorpecente apreendida não deve mesmo impedir a valoração de sua natureza, ainda que de forma autônoma.
+ ..
+Melhor sorte não socorre ao apelante quando pede a detração da pena e o abrandamento do regime prisional.
+Isso porque, mesmo considerando o tempo cumprido em prisão preventiva, não seria possível afixação de regime diverso do fechado, nos termos do art. 33, §§ 2º e 3º, do CP, tendo em vista a carga penal, a reincidência do acusado e a presença de circunstâncias judiciais negativas. ..
+Como visto, majorou-se a basilar em virtude da nocividade da droga apreendida, qual seja, "1,2 gramas do entorpecente vulgarmente conhecido como crack" (fl. 560), quantidade essa, no entanto, que destoa da jurisprudência desta Corte ao acréscimo em apreço.
+"A pequena quantidade de droga apreendida (2,5g de cocaína, 23,4g de crack e 61g de maconha) não justifica a imposição da pena acima do mínimo legal." (AgRg no AREsp n. 1.911.962/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 23/11/2021, DJe de 29/11/2021).
+Sendo assim, perfaz a pena-base o quantum de 5 anos e 5 meses de reclusão (fl. 561), totalizando a sanção final do réu, ora recorrente, em relação ao crime em comento, 6 anos de reclusão.
+Em relação ao regime prisional, entende esta Corte:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE SUBSTÂNCIA ENTORPECENTE. REGIME. PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REINCIDÊNCIA. REGIME FECHADO. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. No caso, não obstante as circunstâncias judiciais terem sido consideradas favoráveis, mostra-se adequada a fixação de regime inicial mais gravoso, diante da reincidência do agravante, nos termos do artigo 33, §§ 2º e 3º, do Código Penal.
+2. Agravo regimental não provido. (AgRg no REsp n. 2.011.544/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+"Mantida a pena, com exasperação da pena-base, e sendo o réu reincidente, adequado o regime fechado, justificado por mais de um argumento." (AgRg no REsp n. 2.026.544/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+Ante o exposto, dou parcial provimento ao recurso especial para redimensionar a pena final de GEOVANE APARECIDO MALAQUIAS, relativa ao delito de tráfico de entorpecentes, ao total de 6 anos de reclusão, mantendo-se, no mais, o acórdão condenatório.
+Publique-se.
+Intimem-se.
+EMENTA
