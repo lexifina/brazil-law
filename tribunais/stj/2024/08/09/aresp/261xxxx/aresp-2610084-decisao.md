@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de ação de rito comum ajuizada por JOSE GRACI DA CUNHA SILVA contra o ESTADO DO PIAUI, requerendo a cobrança de 27 vinte e sete períodos de férias não gozadas. Na sentença, julgou-se parcialmente procedente o pedido, para determinar o pagamento de férias não gozadas nos períodos de (1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986,1987, 1988, 1991, 1992, 1993, 1995, 2000, 2001, 2002, 2003, 2004, 2005, 2006,2007, 2008, 2009, 2010 e 2011), indeferindo o pedido de que o valor da indenização seja a última remuneração da atividade. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 115.118,55 (Cento e quinze mil, cento e dezoito reais e cinquenta e cinco centavos)
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. GRATUIDADE JUDICIÁRIA. PRESCRIÇÃO. CONVERSÃO DE FÉRIAS NÃO GOZADAS EM PECÚNIA. INATIVIDADE. POSSIBILIDADE. RESPONSABILIDADE OBJETIVA DA ADMINISTRAÇÃO PÚBLICA. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. RECURSO CONHECIDO E NÃO PROVIDO. .. . 1. CONSIDERANDO QUE O DIREITO À CONVERSÃO EM PECÚNIA DOS PERÍODOS RELATIVOS A FÉRIAS E LICENÇAS SURGE COM A RUPTURA DO VÍNCULO, É A PARTIR DESSE MOMENTO QUE OSERVIDOR EXONERADO OU APOSENTADO PODE REIVINDICÁ-LO, DE TAL MODO QUE SOMENTE NA DATA DO DESLIGAMENTO INICIA-SE O PRAZO PRESCRICIONAL QUINQUENAL PREVISTO NO ART. 1º DO DECRETO Nº. 20.910/32. 2. É ASSEGURADA AO SERVIDOR PÚBLICO A CONVERSÃO DE FÉRIAS E LICENÇA ESPECIAL NÃO GOZADAS EM INDENIZAÇÃO PECUNIÁRIA, HAJA VISTA A RESPONSABILIDADE OBJETIVA DA ADMINISTRAÇÃO PÚBLICA,EM VIRTUDE DA VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. 3. RECURSO CONHECIDO E NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+O servidor público faz jus à remuneração respectiva pelo trabalho prestado e às consequentes parcelas relativas às férias anuais, acrescidas do terço constitucional, direito previsto no inciso XVII do art. 7º da Constituição Federal, sob pena de enriquecimento ilícito da Administração. Já é entendimento consolidado na jurisprudência constitucional que o pagamento de adicional de um terço decorrente de férias é incidente sobre todo o período, já que o constituinte não impôs qualquer limitação temporal sobre o adicional, o qual abrange todo o período de afastamento.
+A jurisprudência pacífica do Supremo Tribunal Federal se firmou no sentido de que é assegurada ao servidor público a conversão de férias não usufruídas ou de outros direitos de natureza remuneratória em indenização pecuniária, dada a responsabilidade objetiva da Administração Pública em virtude da vedação ao enriquecimento sem causa.
+ ..
+Também é este o entendimento dominante desta Corte, inclusive no que tange à base de cálculo da indenização, que deverá ser a dos proventos recebidos à época do não gozo das férias e da licença, e não o da remuneração recebida pelo apelante na data da passagem para a inatividade, devendo ser mantida a sentença de piso nesse ponto, como se pode ver nos julgados abaixo:
+ ..
+Logo, é forçoso concluir que o servidor público tem direito ao pagamento das férias adquiridas e não gozadas, sendo que o Estado do Piauí não pode se eximir destes pagamentos.
+A sentença recorrida harmoniza-se, portanto, com a jurisprudência do Supremo Tribunal Federal que assentou incidir o terço de férias do inc. XVII do art. 7º da Constituição da República sobre todo o período ao qual o servidor tem direito. Vejamos exemplo de julgado neste sentido:
+ ..
+ EMENTA
