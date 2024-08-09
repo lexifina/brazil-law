@@ -1,0 +1,46 @@
+DECISÃO
+Em análise, recurso ordinário em mandado de segurança impetrado por DIONAS ALMIR MIRANDA REMEDIO em face do ESTADO DO RIO DE JANEIRO, em que requer a reforma do acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 20):
+MANDADO DE SEGURANÇA.
+Concurso Público para o cargo de Soldado da Polícia Militar do Estado do Rio de Janeiro, realizado em 2014. Impugnação de questões do concurso. Inobservância do prazo previsto na Lei nº 12.016/09. Autor indica como ato impugnado a decisão de indeferimento do recurso administrativo. Impossibilidade. O direito de impetrar Mandado de Segurança se extingue após decorridos 120 (cento e vinte) dias da ciência do ato impugnado pelo interessado, na forma do disposto no artigo 23 da Lei n.º 12.016/09. Divulgação do resultado final da prova objetiva que ocorreu em 28.10.2014.
+Distribuição do mandado de segurança se deu somente em 12.03.2024, pelo que se operou o prazo decadencial previsto no artigo 23 da Lei nº. 12.016/09.
+Indeferimento da inicial.
+O recorrente argumenta que sua pretensão "não vista atacar a reprovação ocorrida no dia 28 de outubro de 2014, mas tão somente o indeferimento de seu recurso administrativo que foi em 13 de novembro de 2023" (fl. 39).
+Sustenta que:
+não ocorreu a decadência e não está prescrita a pretensão do Impetrante, podendo ser movida pelo presente mandado de segurança, uma vez que distribuída do prazo de 120 dias a contar da data que foi notificado do indeferimento de seu requerimento administrativo, estando, portanto, de acordo com o disposto no art. 23 Lei Federal nº 12.016, de 07 de agosto de 2009 (fl. 40).
+O Ministério Público Federal opina pelo desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+Na origem, DIONAS ALMIR MIRANDA REMEDIO impetrou mandado de segurança contra ato atribuído ao Secretário de Estado de Polícia Militar do Rio de Janeiro, que, administrativamente, indeferiu seu pedido de atribuição da pontuação de questões cuja anulação teria sido obtida por outros candidatos, consoante prova emprestada.
+O Tribunal de origem denegou a ordem com base nos seguintes fundamentos (fls. 22-25):
+Trata-se de mandado de segurança impetrado por DIONAS ALMIR MIRANDA REMEDIO, que participou do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro e foi reprovado na primeira etapa, prova objetiva, com a publicação do resultado em 28.10.14, como é de conhecimento público e se constata de pesquisa aos sítios eletrônicos que divulgaram o resultado, já que não instruído o mandado de segurança com essa informação.
+ ..
+O direito de impetrar Mandado de Segurança se extingue após decorridos 120 (cento e vinte) dias da ciência do ato impugnado pelo interessado, na forma do disposto no artigo 23 da Lei n.º 12.016/09:
+ ..
+Ao contrário do que afirma o candidato, nem o ato de homologação do certame publicado em março de 2022 (anexo 244), nem o indeferimento do pedido administrativo em 08 de novembro de 2023 possuem o condão de reabrir a oportunidade para impetrar a segurança, na medida em que o ato causador da alegada ofensa ao suposto direito líquido e certo consistiu na sua exclusão do certame.
+O Impetrante foi reprovado em 2014, mas somente agora em 2024 distribuiu o mandado de segurança, certa é a consumação da decadência e a extinção do direito de impetrar o presente mandamus, o que não impede que a impetrante busque o direito que afirma possuir na via ordinária.
+ ..
+Ante o exposto, indefiro a inicial do Mandado de Segurança, na forma do artigo 10 da Lei nº 12.016/2009 e julgo extinto o processo sem resolução do mérito.
+Como se vê, o Tribunal de origem reconheceu a decadência do direito à impetração do writ, anotando que o indeferimento de pedido administrativo de contagem de pontos não reabre prazo para a impetração da segurança, e que, no caso, o candidato reprovado na primeira fase do concurso para ingresso no curso de formação de soldado da Polícia Militar do Estado do Rio de Janeiro teve seu resultado publicado em outubro de 2014, tendo sido o mandado de segurança impetrado em 2024, após o término do prazo decadencial estabelecido pelo art. 23 da Lei 12.016/2009.
+Conforme anotado pelo parecer ministerial, o manejo de pedido de reconsideração ou de recurso administrativo sem efeito suspensivo não tem o condão de suspender ou interromper o prazo para impetração da ação mandamental, consoante inteligência da Súmula 430/STF: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PRETENSÃO DE REVISÃO DE ATO DE DECLARAÇÃO DE ANISTIADO POLÍTICO. PEDIDO DE RECONSIDERAÇÃO NÃO CONHECIDO NA ESFERA ADMINISTRATIVA. SÚMULA 430/STF. DECADÊNCIA. SEGURANÇA DENEGADA.
+1. "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança" (Súmula 430/STF).
+2. No caso, em 27/10/2010, foi publicada portaria na qual a autoridade impetrada não conheceu, por intempestivo, de anterior pedido de reconsideração formulado pela parte impetrante, em que busca a revisão de ato de declaração de anistiado político post mortem. Assim, tendo a impetração ocorrido apenas em 6/6/2018, com reiteração dos pedidos formulados na esfera administrativa, é forçoso o reconhecimento da decadência do direito de pedir segurança.
+3. Segurança denegada (MS n. 24.365/DF, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 28/2/2024, DJe de 8/3/2024.).
+Com efeito, o entendimento adotado pelo Tribunal de origem não destoa da jurisprudência deste Superior Tribunal de Justiça, no sentido de que "o termo a quo do prazo decadencial para impetração do Mandado de Segurança passa a fluir com a ciência inequívoca do ato que efetivamente se alega ter violado o direito líquido e certo da impetrante. Precedentes" (STJ, AgInt no REsp 1.586.124/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/06/2020).
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO APÓS O PRAZO DE 120 (CENTO E VINTE) DIAS. DECADÊNCIA CONFIGURADA.
+1. Trata-se de mandado de segurança impetrado contra ato do Ministro da Justiça e da Segurança Pública, por meio do qual foi anulada deliberação anterior, na qual restou reconhecida ao impetrante a condição de anistiado político.
+2. Nos termos da jurisprudência deste Tribunal Superior, "a Lei n. 12.016/2009, em seu art. 23, no mesmo sentido já consagrado pela lei anterior, previu o prazo decadencial de 120 (cento e vinte) dias para a impetração do mandado de segurança. Prazo este que possui, como termo inicial, a ciência, pelo interess ado, do ato impugnado" (MS n. 15.118/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 29/3/2019).
+3. Caso no qual ação mandamental foi proposta em 31/7/2023, há mais de dez anos após a publicação do ato impugnado, o que torna inescapável o reconhecimento da decadência e, por consequência, o não acolhimento da pretensão recursal.
+4. Agravo interno não provido (AgInt no MS n. 29.545/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 28/2/2024, DJe de 4/3/2024.).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. CONCESSÃO INICIAL. ATUAÇÃO DO TRIBUNAL DE CONTAS. JULGAMENTO DA LEGALIDADE. PRAZO DECADENCIAL. OBSERVÂNCIA.
+1. O STF, em julgamento realizado sob a sistemática da repercussão geral, pacificou o entendimento de que, em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas (Tema 445, RE 636.553/RS).
+2. O Superior Tribunal de Justiça entende possível a aplicação imediata dos precedentes firmados em julgamentos submetidos à sistemática do recurso repetitivo ou da repercussão geral, independentemente da publicação do acórdão paradigma ou do julgamento de eventuais embargos de declaração opostos.
+3. Hipótese em que a atuação do Tribunal de Contas do Distrito Federal, no julgamento a respeito da legalidade da aposentadoria concedida à servidora, ocorreu dentro do curso do prazo decadencial, contado a partir da chegada do processo na Corte de Contas.
+4. Inviável a adoção da tese da impetrante de que o termo inicial do prazo decadencial, na hipótese, deveria ocorrer a partir da data em que as verbas em questão foram incorporadas administrativamente, tendo em vista que a Corte de Contas não participa de todos os atos praticados pela Administração, sendo certo que sua atuação inicia-se apenas com o exercício da sua competência de controle externo da atividade administrativa, ao analisar a legalidade, para fins de registro, das concessões das aposentadorias pela Administração, de acordo com o estabelecido no art. 71, III, da Constituição Federal.
+5. Agravo interno desprovido (AgInt no AgInt no RMS n. 51.444/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/6/2020, DJe de 22/6/2020.).
+Isto posto, nego provimento ao recurso em mandado de segurança.
+Custas pelas partes. Sem condenação em honorários advocatícios  art. 25 da Lei 12.016/2009; e Súmula 105/STJ.
+Intimem-se.
+EMENTA
