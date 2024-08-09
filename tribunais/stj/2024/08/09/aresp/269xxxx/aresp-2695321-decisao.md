@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA EUNICE DE SOUZA, contra decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Maranhão, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. SENTENÇA COLETIVA. ILEGITIMIDADE. PARTE INTEGRANTE DE SINDICATO DIVERSO DO QUE AJUIZOU A AÇÃO ORIUNDA DO TÍTULO EXECUTIVO.ARGUMENTOS INSUFICIENTES PARA INFIRMAR A DECISÃO AGRAVADA, QUE SE MANTÉM POR SEU PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E IMPROVIDO." (e-STJ, fl. 198).
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 220/230).
+Nas razões do recurso especial, a agravante alega violação aos arts. 1.022, inciso II e 489, §1º, inciso IV do Código de Processo Civil de 2015, sustentando, em síntese, (a) houve omissão com relação a documentos que comprovam filiação e que seu nome estava em lista homologada nos autos coletivos e (b) que não houve análise de questões relevantes à aferição da legitimidade, como a preclusão do tema, uma vez que que foi reconhecida a ilegitimidade em cumprimento de sentença após individualização e homologação do crédito,
+Juízo negativo de admissibilidade às fls. 250/253.
+Interposto agravo em recurso especial às fls. 254/264.
+É o relatório. Passo a decidir.
+Afasta-se a alegada violação ao artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, em especial acerca da ilegitimidade da ora agravante em decorrência do princípio da unicidade sindical, apenas não adotando as razões da recorrente, o que não configura violação do dispositivo invocado, in verbis:
+"Desta feita, a interpretação correta do texto constitucional deve ser a seguinte: ainda que o trabalhador possua a liberdade de associação, este não vai poder se associar (sindicalizar) em mais de uma entidade, cabendo-lhe adentrar, portanto, naquela que atue, de forma mais específica, junto à sua categoria.
+Nesse contexto, a jurisprudência desta e. Corte Estadual é firme no sentido de que o SINTSEP/MA só representa os servidores públicos estaduais que não possuam sindicato específico, com fulcro no Princípio da Unicidade Sindical.
+Ou seja, o SINTSEP/MA representa os servidores públicos estaduais que não possuem Sindicato para a categoria específica.
+No caso sub examine, a ora Agravante possui sindicato próprio, no caso o SINDSAUDE" (e-STJ, fls. 199/200)
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que: "Não resta configurada nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado. Não é ele obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa de suas teses, devendo, apenas, enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no REsp n. 2.103.088/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
