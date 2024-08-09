@@ -1,0 +1,94 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por KOMPORT COMERCIAL IMPORTADORA S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/2/2024.
+Concluso ao gabinete em: 21/6/2024.
+Ação: de obrigação de fazer, ajuizada pela agravante em desfavor de CERÂMICA PORTINARI S/A, objetivando o cumprimento de obrigações atinentes à antecipação dos valores necessários ao pagamento dos custos de frete marítimo, objeto de cumprimento provisório de sentença decorrente de ação de cobrança.
+Sentença: reconheceu a perda do objeto e, extinta a ação, condenou a parte autora ao pagamento dos honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+Acórdão: negou provimento ao agravo interno na apelação interposta pela agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AORECURSO APELATIVO. INSURGÊNCIA DA APELANTE.
+NULIDADE DO PRONUNCIAMENTO UNIPESSOAL. SUSCITADA A AUSÊNCIA DOS REQUISITOS INDISPENSÁVEIS AO ENFOQUE DO TEMA. REJEIÇÃO. MATÉRIA DEVIDAMENTE ANALISADA À LUZ DO CONTEXTO FÁTICO E DO ENTENDIMENTO JURISPRUDENCIAL CORRELATO. SUBMISSÃO DA TEMÁTICA POR OCASIÃO DO PRESENTE EXPEDIENTE AO COLEGIADO SUSCETÍVEL DE CONVALIDAR QUALQUER MÁCULA. ALEGADA VIOLAÇÃO DO PRINCÍPIO DA NÃO SURPRESA. INSUBSISTÊNCIA. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO DAS PARTES PARA SE MANIFESTAR SOBRE FUNDAMENTO LEGAL A SER ADOTADO. PRECEDENTES DO STJ.
+SUSTENTADA A ADOÇÃO DE PREMISSA EQUIVOCADA PARA APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. REJEIÇÃO. AGRAVANTE QUE DEU CAUSA AO AFORAMENTO PREMATURO DESTA ACTIO. NÍTIDA INTENÇÃO DE DISCUTIR EM NOVA DEMANDA PEDIDO DE DENUNCIAÇÃO DA LIDE INDEFERIDO EM AÇÃO DE COBRANÇA CONTRA SI AJUIZADA POR TERCEIRO. IMPOSSIBILIDADE DE AJUIZAMENTO DE AÇÃO REGRESSIVA À ÉPOCA EM RAZÃO DO PRONUNCIAMENTO JUDICIAL PROFERIDO NA AÇÃO DE COBRANÇA NÃO TER TRANSITADO EM JULGADO. PERDA SUPERVENIENTE DO OBJETO DESTA DEMANDA EM RAZÃO DE ACORDO REALIZADO EM CUMPRIMENTO DE SENTENÇA.
+PRETENDIDO O ARBITRAMENTO DOS HONORÁRIOS MEDIANTE APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. MATÉRIA PACIFICADA PELO STJ. TEMA REPETITIVO 1.076. DECISÃO PRESERVADA.
+RECURSO DESPROVIDO.
+(e-STJ fl. 1494)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 9º, 10, 85, § 2º e 10º, 489, §1º, IV, e 1.022, I e II, do CPC, art. 132, XV, do Regimento Interno do TJSC, bem como dissídio jurisprudencial. A par da negativa de prestação jurisdicional e nulidade por ausência de fundamentação, sustenta flagrante decisão surpresa e aduz a impossibilidade de julgamento monocrático da apelação, porquanto a hipótese não se enquadra nos permissivos legais para tanto. Refere que a decisão inverteu a ordem dos pedidos recursais, desconsiderando a natureza subsidiária do pedido de fixação equitativa para negar provimento ao recurso de apelação de forma unipessoal. Assevera que a perda do objeto não enseja a aplicação do princípio da causalidade para fins de fixação da sucumbência à agravante. Sustenta, assim, que o referido princípio foi aplicado de forma equivocada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de regimento interno
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do julgamento monocrático e à posterior submissão recursal ao julgamento colegiado, bem como aos pedidos formulados, de maneira que os embargos de declaração opostos pelo agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC, quando o Tribunal de origem examina "de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO, 3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+- Da existência de fundamento não impugnado
+O agravante, no que tange à nulidade do julgamento monocrático e à vedação às decisões surpresa, a par, inclusive, da própria aplicação do princípio da causalidade, não impugnou os seguintes fundamentos utilizados pelo TJ/SC, inclusive em atenção à jurisprudência desta Corte (e-STJ Fls. 1497/1498):
+(..) Rejeito a suscitada impossibilidade do julgamento monocrático em razão de suposta violação a dispositivo legal e regimental indispensáveis à autorização do enfoque recursal de maneira unipessoal (art. 932, IV, do CPC e art. 132, XV, do RITJSC), pois a matéria foi amplamente analisada de acordo com o contexto fático abordado e entendimento jurisprudencial correlato.
+Ademais, a possibilidade de submissão do tema ao Órgão Fracionário por ocasião do presente expediente afasta qualquer alegação de ofensa ao contraditório, à ampla defesa ou ao princípio da colegialidade, consoante entendimento sedimentado pelo STJ:
+ ..  1. Consoante a jurisprudência deste STJ, a legislação processual (art. 557 do CPC/73, equivalente ao art. 932 do CPC/15, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes (AgInt no REsp n. 1.255.169/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022).
+(..)
+Outrossim, não há que se falar em violação ao princípio da não surpresa pela ausência de intimação das partes acerca do fundamento legal a ser adotado para a aplicação do princípio da causalidade no caso concreto.
+Isso porque, como pacificado pelo Superior Tribunal de Justiça, "o "fundamento" ao qual se refere o art. 10 do CPC/2015 é fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação -, não se confundindo com o fundamento legal (dispositivo de lei regente da matéria)" (AgInt no REsp 1.695.519/MG, rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 26/03/2019).
+Demais disso, não se constata erro material, este consubstanciado no pronunciamento jurisdicional embasado em premissa equivocada, quando a decisão está fundamentada especificamente em todos os pedidos formulados e rejeitados.
+O objeto da ação, como ressaltado na decisão agravada, visava, em verdade, a direta responsabilização da ré ao pagamento de condenação a que foi compelida a autora em ação de cobrança ajuizada pela transportadora marítima internacional e na qual foi indeferido o pedido de denunciação da lide. O fato do pleito ter sido formulado como uma cominatória não afasta a real intenção buscada pela agravante com a actio, mormente porque, como afirmado por ela própria em sua exordial, era incabível a responsabilização da parte ré, ora agravada, em ação regressiva, porquanto ainda não transitada em julgado o pronunciamento judicial proferido naquela demanda.
+Assim, vê-se que a recorrente não desconstituiu a premissa firmada na decisão agravada, razão pela qual deve arcar com o pagamento dos ônus sucumbenciais, por força do princípio da causalidade.
+A fixação dos honorários sucumbenciais em percentual sobre o valor da causa encontra previsão legal (§ 2º do art. 85 do CPC) e jurisprudencial (STJ Tema Repetitivo 1.076), além de ter sido estipulado no mínimo legal.
+Ao contrário do aduzido pela agravante, em recente decisão a Corte Superior ratificou a aplicação da temática em processo extinto sem resolução do mérito, senão vejamos:
+(..)
+Não há, pois, que se falar em superação do Tema Repetitivo 1.076 do STJ.
+Nesse contexto, fica preservada a decisão agravada.
+(..) (grifos nossos)
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Do reexame de fatos e provas
+Nessa mesma esteira, considerando os fatos submetidos a contraditório e supracitados no excerto acima consignado, alterar o decidido no acórdão impugnado, assim, no que se refere à alegação de decisão surpresa e à suposta aplicação equivocada do princípio da causalidade, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+A corroborar:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO. SEGURO. ART. 10 DO CPC. PRINCÍPIO DA NÃO SURPRESA. AFRONTA. AUSÊNCIA. PRODUÇÃO PROBATÓRIA. PROVA PERICIAL. NECESSIDADE. SÚMULA Nº 7/STJ. DESCONSIDERAÇÃO DOS LIMITES DA APÓLICE. AFASTAMENTO NA ORIGEM. REEXAME. SÚMULAS NºS 5 e 7/STJ.
+1. O princípio da não surpresa, constante no art. 10 do CPC, não é aplicável à hipótese em que há adoção de fundamentos jurídicos contrários à pretensão da parte com aplicação da lei aos fatos narrados pelas partes, como no caso dos autos.
+2. O juízo acerca da produção da prova compete soberanamente às instâncias ordinárias, e o seu reexame, na estreita via do recurso especial, recai no óbice da Súmula nº 7/STJ.
+3. Na hipótese, rever a conclusão firmada pela Corte local, no sentido de ser desnecessária a produção de prova pericial, demandaria a análise de fatos e provas dos autos, o que também recai na aplicação da Súmula nº 7/STJ.
+4. A reforma do acórdão na parte em que afirma não haver a desconsideração dos limites da apólice no pagamento da indenização implicaria em revolver matéria fático-probatória, bem como interpretar cláusula do contrato, providências vedadas pelas Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.721.344/RN, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023, grifo nosso.)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AÇÃO DE INDENIZAÇÃO. SEGURO DE VEÍCULO. ACIDENTE. MOTORISTA UTILIZANDO CELULAR. AGRAVAMENTO DO RISCO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. PRINCÍPIO DA NÃO SUPRESA. FATO CONFESSADO. AUSÊNCIA DE VIOLAÇÃO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Conforme jurisprudência pacífica desta Corte, é permitido ao magistrado extrair dos autos o provimento jurisdicional que mais se adeque aos fatos e à causa de pedir, não configurando julgamento extra petita a decisão proferida nos limites objetivos da controvérsia.
+3. "Não constitui julgamento surpresa aquele lastreado em fundamentos jurídicos, ainda que diversos dos apresentados pelas partes, desde que embasados em provas submetidas ao contraditório (Enunciados nº 2 e 6 da ENFAM)" (AgInt nos EDcl no AREsp 1295964/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/12/2020, DJe 17/12/2020).
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.930.876/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022, grifo nosso.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022. NÃO OCORRÊNCIA. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO. NÃO OCORRÊNCIA. MANIFESTAÇÃO DAS PARTES ACERCA DA QUESTÃO CONTROVERTIDA DEVIDAMENTE OPORTUNIZADA. INICIATIVA PROBATÓRIA. JUÍZO RECURSAL. POSSIBILIDADE.
+1. O acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. O enunciado processual da "não surpresa" não implica exigir do julgador que toda solução dada ao deslinde da controvérsia seja objeto de consulta às partes antes da efetiva prestação jurisdicional, mormente quando já lhe foi oportunizada manifestação acerca do ponto em discussão - no caso, a produção probatória. Precedentes: AgInt no AREsp 1.359.921/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 21/11/2019; AgInt no AREsp 1.512.115/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 10/9/2019.
+3. É possível a iniciativa probatória por parte do juízo recursal. Isso porque "o destinatário final das provas produzidas é o juiz, a quem cabe avaliar quanto à sua suficiência e necessidade, em consonância com o disposto na parte final do artigo 370 do CPC" (AgInt no AREsp 1.331.437/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 27.6.2019). Precedente: REsp 1.818.766/AM, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/10/2019.
+4. Agravo interno não provido. (AgInt no REsp n. 1.841.905/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 31/8/2020, DJe de 2/9/2020, grifo nosso.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO DE MÚTUO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+1. O Tribunal de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. Conforme entendimento desta Corte Superior, em especial da 4ª Turma, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+3. Para acolher a pretensão recursal acerca da condenação das verbas sucumbenciais, ante o princípio da causalidade, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.082.846/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024, grifo nosso.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento firmado neste Superior Tribunal, aquele que der causa à instauração do processo deve arcar com os honorários sucumbenciais na hipótese de perda superveniente do objeto, de acordo com o princípio da causalidade.
+2. Rever as conclusões quanto ao arbitramento dos honorários com fundamento no princípio da causalidade demanda o revolvimento do acervo fático-probatório, providência inviável na esfera especial. Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.536.721/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024, grifo nosso.)
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, consubstanciado na aplicação errônea do princípio da causalidade, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente à agravante em 1%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. OFENSA A REGIMENTO INTERNO. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de obrigação de fazer.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
