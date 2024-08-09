@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AMAZONAS ENERGIA S.A, contra decisão de fls. 525/531, que deu parcial provimento ao seu recurso ordinário, apenas para afastar a multa imposta, mantendo o acórdão recorrido no tocante à ilegitimidade passiva do Secretário de Fazenda do Estado para figurar no polo passivo da demanda.
+Sustenta a parte embargante, em resumo, a existência de erro de premissa fática no decisum, argumentando que "a declaração de ilegitimidade de parte das autoridades indicadas, não configura elemento suficiente para justificar a extinção do feito sem resolução do mérito devendo prosseguir o feito para análise pelo juízo de primeiro grau, tendo em vista a existência de autoridade coatora remanescente no feito - ainda que aquela não estivesse incluída nas hipóteses que justificariam a competência originária do Tribunal" (fl. 541) e "uma vez mantido o entendimento pela ilegitimidade passiva das autoridades que atrairiam a competência originária do Tribunal de Justiça do Estado do Amazonas, o que se busca é o reconhecimento da legitimidade passiva do Gerente de Fiscalização de Contribuintes, notadamente indicado na inicial e indiscutivelmente sujeito ao foro de primeira instância e, por conseguinte, a remessa dos autos para o juízo competente" (fl. 543).
+Aberta vista à parte embargada, o Estado do Amazonas apresentou impugnação às fls. 567/572, postulando a rejeição dos aclaratórios.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhimento.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+No caso, não há omissão, contradição, obscuridade ou erro de premissa a sanar.
+A decisão embargada claramente reconheceu a ilegitimidade da autoridade apontada como coatora para figurar no polo passivo do presente mandamus, visto que o Governador do Estado e o Secretário de Estado da Fazenda não detém competência para afastar eventual cobrança indevida de tributo.
+Ademais, consignou-se que, nos termos da Súmula 628/STJ, não é possível valer-se da teoria da encampação na espécie, uma vez que haveria alteração de competência jurisdicional, pois cabe originariamente ao Tribunal de Justiça Estadual o julgamento de mandado de segurança contra ato de Governador de Estado e de Secretário de Estado (art. 72 da Constituição do Estado do Amazonas), prerrogativa de foro não extensível ao Gerente de Fiscalização de Contribuintes da Secretaria da Fazenda do Estado do Amazonas.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se .
+EMENTA
