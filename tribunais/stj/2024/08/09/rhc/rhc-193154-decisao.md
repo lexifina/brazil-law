@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por LUIZ ANTONIO SILVA RAMOS contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO (HC nº 5028565-58.2023.4.03.0000).
+O recorrente foi denunciado pela prática, em tese, do delito previsto no art. 334, caput, c/c o art. 14, II, do Código Penal.
+O habeas corpus impetrado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 91):
+PROCESSUAL PENAL. HABEAS CORPUS. CRIME PREVISTO NO ARTIGO 334, CAPUT, C/C ART. 14, II, AMBOS DO CÓDIGO PENAL. CONSTRANGIMENTO ILEGAL. ACORDO DE NÃO PERSECUÇÃO PENAL. TRANSAÇÃO PENAL E SUSPENSÃO CONDICIONAL DO PROCESSO NEGADOS. POSSIBILIDADE. ORDEM DENEGADA.
+1. O impetrante argumenta que está sofrendo constrangimento ilegal, diante da recusa, pelo MPF, da concessão de qualquer benefício processual ao ora paciente, e que fora referendada pelo E. Juízo de primeiro grau no momento em que determinou o prosseguimento da ação penal.
+2. O oferecimento de ANPP não é direito público subjetivo do investigado. Ao revés, tal instituto constitui poder-dever do titular da ação penal, a quem cabe analisar a possibilidade de sua aplicação.
+3. Descabe ao Poder Judiciário imiscuir-se na análise discricionária e de atribuição exclusiva do Ministério Público Federal quanto à adequação do acordo de não persecução penal, da transação penal e da suspensão condicional do processo ao caso concreto, razão pela qual não há que se falar em constrangimento ilegal.
+4. Ordem denegada.
+A defesa alega, em síntese: a) direito do recorrente à transação penal, à suspensão condicional do processo ou ao oferecimento do acordo de não persecução penal (ANPP), pois negados com amparo em fundamentação inidônea; b) o recorrente "não apresenta antecedentes criminais impedientes da concessão e fruição de qualquer dos benefícios que pretende" (e-STJ fl. 115); e c) "simplesmente não tem base fática nem se sustenta juridicamente, sendo portanto incorreta e errada a conclusão e a afirmação - seja do Ministério Público de primeira instância ou do Ministério Público de segunda instância (administrativa) - de que haja nos autos elementos probatórios que indicam conduta criminal reiterada e habitual" (e-STJ fl. 127).
+Requer liminar para suspender a realização de interrogatório que fora agendado ou o encaminhamento dos autos à instância revisional do Ministério Público Federal para a reanálise das questões referentes à transação penal, à suspensão condicional do processo ou ao acordo de não persecução penal. No mérito, pugna pelo provimento do recurso para que o recorrente seja beneficiado com a transação penal, a suspensão condicional do processo ou o acordo de não persecução penal (ANPP). Subsidiariamente, pleiteia o sobrestamento da ação penal até a reanálise pela instância revisional.
+A liminar foi indeferida (e-STJ fls. 172/175).
+Solicitadas, as informações foram apresentadas (e-STJ fls. 180/192 e 193/198).
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ fls. 202/207).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Consoante informações acostadas às fls. 194/197 (e-STJ), observa-se que sobreveio sentença condenando o recorrente à pena de 2 anos e 20 dias de reclusão, em regime inicial aberto, substituindo-se a pena privativa de liberdade por duas penas restritivas de direitos, consistentes em prestação de serviços comunitários pelo prazo da pena substituída, e prestação pecuniária no valor equivalente a 30 salários-mínimos.
+Como o pedido constante da petição inicial diz respeito ao sobrestamento da ação penal, a superveniência de sentença condenatória torna prejudicada análise da impetração, por força do enunciado da Súmula n. 648 desta Corte Superior de Justiça, que dispõe que "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+Ademais, a condenação do réu em sentença de primeiro grau altera substancialmente a realidade processual, tornando prejudicados os pedidos de benefícios processuais como a transação penal, a suspensão condicional do processo ou o acordo de não persecução penal. Tais medidas, se não concedidas antes da prolação da sentença condenatória, perdem seu objeto, uma vez que a ação penal já alcançou um desfecho com análise de mérito. Assim, as questões trazidas a esta Corte durante o trâmite da instrução processual deverão ser debatidas, agora, pela via recursal própria e perante a instância revisora adequada.
+Ante  o  exposto,  julgo  prejudicado  o presente recurso em habeas corpus.
+Publique-se. Intime-se
+ EMENTA
