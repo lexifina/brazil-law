@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Marlon Fabiano de Souza Franca opõe embargos de declaração ao acórdão de fls. 147/153, assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. DECISÃO FUNDAMENTADA. AUSÊNCIA DO REQUISITO SUBJETIVO. PARTICULARIDADES DO CASO CONCRETO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. REMIÇÃO DE PENA. INOVAÇÃO EM REGIMENTAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não é vedado ao Juiz singular o indeferimento da progressão de regime quando, a despeito de o sentenciado apresentar bom comportamento carcerário, certificado pelo diretor do estabelecimento prisional onde esteja cumprindo pena, entender não implementado o requisito subjetivo, desde que aponte particularidades fáticas, no curso da execução da pena, que expressem a ausência de mérito do condenado.
+2. Na hipótese, foi apontada a prática de infrações disciplinares ao longo do cumprimento da pena.
+3. A discussão sobre o pleito de remição de pena constitui indevida inovação em regimental, não suscitada na inicial, sendo inviável o conhecimento.
+4. Agravo regimental improvido.
+Alega o embargante que há contrariedade no v. acordão embargado apto a ensejar o manejo dos presentes declaratórios, uma vez que fora utilizado como fundamento para o desacolhimento do pedido a falta de preenchimento, pelo embargante, do requisito subjetivo consistente na prática de infrações disciplinares ao longo do cumprimento da pena (fls. 158/159), contudo, da análise do Boletim Informativo e Atestado de Conduta Carcerária, de fls. e-STJ 118/124, se constata que a última falta disciplinar praticada pelo embargante se deu na data de 5/7/2019, se encontrando reabilitado desde a data de 5/7/2020, nos termos do art. 112, § 7º da Lei de Execução Penal.
+Requer sejam acolhidos os presentes embargos declaratórios a fim de que seja concedido ao embargante a progressão para o regime semiaberto, uma vez que preenchido os requisitos objetivo e subjetivo, ante a reabilitação ocorrida com fundamento no § 7º, do art. 112, da Lei de Execução Penal.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. DECISÃO FUNDAMENTADA. AUSÊNCIA DO REQUISITO SUBJETIVO. PARTICULARIDADES DO CASO CONCRETO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. EFEITOS INFRINGENTES. INADMISSIBILIDADE.
+Embargos de declaração rejeitados.
+VOTO
+Não há contradição, obscuridade ou omissão no acórdão embargado.
+O acórdão embargado, às fls. 149/151, contém ampla e suficiente fundamentação na linha de que os elementos concretos demonstram o não adimplemento, por ora, do requisito subjetivo para a progressão de regime, sendo certo que, segundo entendimento desta Corte, não há limite temporal estabelecido na Lei de Execução Penal para o preenchimento do requisito subjetivo para progressão de regime, devendo ser considerado todo o período de execução da pena, a fim de se aferir o mérito do apenado, ainda que haja atestado de boa conduta carcerária (AgRg no HC n. 494.742/SP, Ministra Laurita Vaz, Sexta Turma, DJe 14/6/2020).
+Devidamente esclarecido, ainda, que não seja vedado ao Juiz singular o indeferimento da benesse quando, a despeito de o sentenciado apresentar bom comportamento carcerário certificado pelo diretor do estabelecimento prisional onde esteja cumprindo pena, entender não implementado o requisito subjetivo, desde que aponte particularidades fáticas, no curso da execução da pena, que expressem a ausência de mérito do condenado, o que ocorreu na hipótese, ressaltado, por outro lado, que a estreita via do habeas corpus não se presta a contrariar o entendimento firmado pelas instâncias ordinárias acerca do preenchimento ou não do requisito subjetivo, dada a necessidade de incursão na seara fático-probatória, insuscetível nesta sede.
+Rejeito os embargos de declaração.
