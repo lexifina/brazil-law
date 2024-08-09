@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por Nadar Morro Administradora Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 1.796/1.797):
+ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. PARQUE NACIONAL DA SERRA DO ITAJAÍ. LEGITIMIDADE ATIVA. LEGITIMIDADE PASSIVA DA UNIÃO. PRESCRIÇÃO DA PRETENSÃO INDENIZATÓRIA. DESAPOSSAMENTO ADMINISTRATIVO. ESVAZIAMENTO ECONÔMICO DA PROPRIEDADE. VALOR DA INDENIZAÇÃO. ACOLHIMENTO DO LAUDO TÉCNICO. INDENIZAÇÃO. JUROS COMPENSATÓRIOS. AFASTAMENTO. HONORÁRIOS ADVOCATÍCIOS.
+I. Restando evidenciado, pela matrícula atualizada do imóvel, que os autores são proprietários da área, sobressai a legitimidade dos mesmos para propor a ação.
+II. A demanda fundamenta-se nos prejuízos causados à parte autora em decorrência da edição, pela União Federal, do Decreto de 04-06-2004. Desta forma, sendo a União Federal a responsável pela edição do r. ato normativo, sobressai a sua legitimidade passiva ad causam.
+II. No caso de desapropriação indireta o prazo aplicável é o do Código Civil, ou seja, 10 anos, nos termos do art. 205 do CC de 2002.
+III. A União, por meio do Decreto s/nº de 04-06-2004, criou o Parque Nacional da Serra do Itajaí, no Estado de Santa Catarina, para preservar amostra representativa do bioma Mata Atlântica, transformando-o em área de preservação ambiental, insuscetível de ocupação ou exploração econômica.
+IV. O simples fato de a área ser elevada a status de Parque Nacional, por si só, passa a gerar restrições de utilização da terra tão severas que, na prática, anula a possibilidade de exploração econômica do imóvel.
+V. Considerando a omissão do Estado em proceder à desapropriação de imóvel particular localizado nos limites do parque, com a prévia e justa indenização, surge o direito do proprietário à indenização por desapropriação indireta, englobando o valor da terra nua, benfeitorias e a cobertura vegetal, se esta for passível de exploração.
+VI. Não se vislumbra qualquer ilegalidade na decisão que estabeleceu indenização com base no laudo do perito oficial, se o mesmo examinou devidamente as condições do imóvel, com a consideração das peculiaridades próprias do local.
+VII. Afasta-se a condenação em juros compensatórios, em observância ao entendimento firmado no precedente vinculante, ADI 2332-DF.
+VIII. O limite previsto no § 1º do art. 27 do Decreto-Lei nº 3365/41deve ser observado, por analogia, também nas ações de desapropriação indireta, nos termos do § 3º do mesmo artigo, razão pela qual devem ser reduzidos os honorários advocatícios para 3% do valor total da indenização(cujo quantum precisa ser liquidado), já que não houve oferta do Poder Público, mantida a sucumbência recíproca, porém no percentual de 50% para o autor e 50% para os réus (pro rata).
+Opostos embargos declaratórios, foram rejeitados (fls. 1.857/1.883).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 85, § 3º, 371, 489, § 1º, IV, e 1.022, II, do CPC; 15-A e 27, § 1º, do Decreto-Lei n. 3.365/41; e 11, § 1º, Lei n. 9.985/2020. Sustenta, em suma, que não houve uma adequada valoração das provas carreadas aos autos, que são cabíveis os juros compensatórios, bem como, que devem ser majorados os honorários de sucumbência.
+Contrarrazões apresentadas (fls. 2.007/2.020 - 2.061/2.069).
+Parecer do Ministério Público Federal às fls. 2.409/2.425 .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Constata-se que, na data de hoje, proferi decisão em que dei provimento ao apelo nobre da UNIÃO, reconhecendo a existência de omissão no acórdão recorrido e determinando o retorno dos autos à instância ordinária, para novo julgamento dos aclaratórios opostos pela referida parte.
+Nesse contexto, tendo em vista a cisão do julgamento originário, bem como a possibilidade de proferimento de novo entendimento, é o caso de se ter por prejudicado, no momento, o exame da presente irresignação.
+ANTE O EXPOSTO, julgo prejudicado o exame do recurso.
+Publique-se.
+EMENTA
