@@ -1,0 +1,36 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança impetrado por FH DISTRIBUIDORA DE ALIMENTOS E BEBIDAS LTDA contra ato dos Chefes do DEPARTAMENTO DE FISCALIZAÇÃO - DEFIS - FAZENDA DO ESTADO DO AMAZONAS, requerendo a declaração de ilegalidade e inconstitucionalidade do aumento do ICMS por ato infralegal. Na sentença, julgou-se parcialmente procedente o pedido, para afastar a incidência do Decreto n. 37.465/2016 (art. 1º, II). No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 1.000,00 (Mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS contra acórdão com o seguinte resumo de ementa:
+PROCESSO CIVIL. TRIBUTÁRIO. APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. VIOLAÇÃO À SÚMULA 266 DO STF NÃO CONSTATADA. DESNECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE. ICMS - SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. ALTERAÇÃO DO CÁLCULO DA MARGEM DE VALOR AGREGADO. ILEGALIDADE DO ART. 1.º, II, DO DECRETO ESTADUAL N.º 37.465/16. MAJORAÇÃO DA BASE DE CÁLCULO. OFENSA AO PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA ESTRITA. DIREITO LÍQUIDO E CERTO DO APELADO. MANUTENÇÃO INTEGRAL DA SENTENÇA ORIGINÁRIA. APELAÇÃO CÍVEL CONHECIDA E NÃO PROVIDA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Com efeito, a alteração realizada pelo Decreto Estadual 37.456/2016 representa, na verdade, o aumento da base de cálculo do ICMS por meio da introdução da chamada "substituição tributária interna" que, consequentemente, acarreta a majoração do referido imposto, em patente violação às normas legais, especialmente à LC 87/1962 e ao Código Tributário Nacional.
+ ..
+Concluo, então, que o art. 1.º, II, do Decreto Estadual 37.465/2016 viola o princípio da legalidade estrita em matéria tributária, em afronta ao art. 8.º, § 4.º, da Lei Complementar n.º 87/1962, art. 97, IV, §1º, do Código Tributário Nacional e, reflexamente, o art. 150, I, da Constituição Federal.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Quanto à suposta violação (art. 8º, II, c, e § 4º da Lei Complementar n. 87/96 e o art. 97, § 2º, do CTN), o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, o Decreto Estadual n. 37.465/2016, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.)
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
