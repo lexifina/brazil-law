@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS em objeção à decisão vista às fls. 1369-1374, por meio da qual foi conhecido o agravo para não conhecer do recurso especial fundamentado no art. 105, III, a, da Constituição Federal, diante do óbice da Súmula 735/STF, aplicada por analogia; e da Súmula 7/STJ.
+O agravante sustenta, em síntese, que o conteúdo da súmula 735/STF não detém caráter absoluto e que há necessidade de retificar o entendimento jurídico adotado pelo Tribunal goiano, pautado na irreversibilidade da medida, quando reconhece a presença do periculum in mora e o fumus boni iuris. Diz não ser razoável aguardar até o provimento final para se admitir o recurso especial, sob pena de prejuízos de difícil ou incerta reparação e destaca a desnecessidade de revolvimento do conjunto fático-probatório dos autos. Pugna pelo provimento do recurso.
+Contraminuta às fls. 1417-1431.
+É o relatório.
+Passo a decidir.
+O recurso encontra-se prejudicado.
+Isso porque, consoante informado na petição de fls. 1437-1441, foi proferida sentença na ação originária, a qual já foi inclusive objeto de recurso de apelação. É o que se extrai também do andamento do processo nº 5336307.18.2020.8.09.0048, no site do Tribunal de origem na Internet.
+Há, então, fato superveniente que acarreta a perda de objeto do presente recurso.
+Nesse sentido, a jurisprudência deste Superior Tribunal de justiça:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO PROFERIDO EM AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO PROLATADA PELO JUÍZO DE 1º GRAU, QUE APRECIARA O PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO, NA AÇÃO PRINCIPAL. PERDA DE OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental, interposto na vigência do CPC/73.
+II. Na origem, trata-se de Agravo de Instrumento, interposto pela parte ora agravada, contra decisão que indeferira a antecipação dos efeitos da tutela, requerida nos autos da ação revisional de vencimentos de militar da ativa (gratificação de anuênio), proposta contra a PBPREV - Paraíba Previdência e o Estado da Paraíba.
+III. Consoante a jurisprudência desta Corte, "na específica hipótese de deferimento ou indeferimento da antecipação de tutela, a prolatação de sentença meritória implica a perda de objeto do agravo de instrumento por ausência superveniente de interesse recursal, uma vez que: a) a sentença de procedência do pedido - que substitui a decisão deferitória da tutela de urgência - torna-se plenamente eficaz ante o recebimento da apelação tão somente no efeito devolutivo, permitindo desde logo a execução provisória do julgado (art. 520, VII, do Código de Processo Civil); b) a sentença de improcedência do pedido tem o condão de revogar a decisão concessiva da antecipação, ante a existência de evidente antinomia entre elas" (STJ, AgRg nos EREsp 1.199.135/DF, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 06/05/2016). No mesmo sentido: STJ, AgRg no AREsp 311.214/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 24/02/2016, AgRg nos EREsp 1.494.389/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe de 18/03/2016. IV. Agravo Regimental improvido. (AgRg no REsp 1.434.026/PB, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/6/2016, DJe de 24/6/2016).
+Isso posto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o agravo e este recurso vinculado.
+Intimem-se.
+EMENTA
