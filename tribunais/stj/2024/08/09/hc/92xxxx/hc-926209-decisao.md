@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de MARLON BERNARDO VARGAS DOS SANTOS, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento da Apelação Criminal n. 1500544-21.2020.8.26.0451.
+Consta dos autos que o paciente foi condenado, pelo Tribunal do Júri, à pena de 12 de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 121, § 2º, I, II e IV, do Código (e-STJ, fls. 316/325).
+Irresignada, a defesa apelou e o Tribunal estadual negou provimento ao recurso (e-STJ, fls. 794/808), em acórdão assim ementado:
+APELAÇÃO CRIME. HOMICÍDIO QUALIFICADO. FRAUDE PROCESSUAL. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVADOS AUTOS. NÃO OCORRÊNCIA. DOSIMETRIA DA PENA. MANUTENÇÃO.
+DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA CONTIDA NOS AUTOS. Os veredictos populares, por expressa determinação do art. 5º, XXXVIII,"C", da Constituição Federal, são soberanos, de modo que a sua desconstituição somente encontrará cabimento quando aviltante à prova relativa ao fato delituoso. Pelo cotejo dos elementos probatórios, não há falar em decisão manifestamente contrária à prova dos autos, uma vez que o entendimento popular se encontra arrimado em parcela da prova carreada, existindo vertente probatória judicializada que sustenta as imputações.
+DOSIMETRIA DA PENA. (i) É possível o deslocamento de uma das qualificadoras para a valoração da pena-base ou pena provisória. Precedente; (ii) O entendimento expresso na Súmula nº 231 pretende registrar a interpretação pacífica adotada pelo colendo Superior Tribunal de Justiça, unificando a jurisprudência dos tribunais, e, assim, promovendo uma maior segurança jurídica.
+RECURSO DESPROVIDO.
+No presente writ (e-STJ, fls. 3/17), a impetrante sustenta que o acórdão recorrido impôs constrangimento ao paciente na medida em que, apesar de reconhecer a incidência da confissão espontânea, não reduziu a sanção do paciente porque ela ficaria abaixo do mínimo legal.
+Para tanto, afirma que a caracterização de uma circunstância atenuante em um caso penal concreto é algo que sempre deve funcionar para diminuir a sanção penal aplicada, sem qualquer limitador legalmente previsto (e-STJ, fls. 8/9).
+Desse modo, defende ser o caso de superação do Enunciado sumular n. 231 do STJ, para que se proceda a redução da pena provisória na fração de 1/6, tornando-a definitiva em 10 anos, 11 meses e 18 dias de reclusão (e-STJ, fl. 16).
+Diante disso, requer, liminarmente e no mérito, a superação da Súmula 231 do STJ, com a fixação da pena intermediária do paciente aquém do piso legal.
+O pedido liminar foi indeferido, às e-STJ fls. 829/831 e, suficientemente instruídos os autos, dispensei o envio de informações.
+O Ministério Público Federal, em parecer exarado às e-STJ fls. 840/843, opinou pelo não conhecimento do mandamus.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca-se o redimensionamento da sanção do paciente, ante a incidência da atenuante da confissão espontânea, em razão da superação do Enunciado 231 da Súmula do STJ.
+Sobre o tema, ressalto que ambas as Turmas da Terceira Seção do Superior Tribunal de Justiça têm julgados recentes no sentido de que, sendo fixada a pena-base no mínimo legal previsto, é inviável a redução da pena pelo reconhecimento de quaisquer das circunstâncias atenuantes do rol do art. 65 do Código Penal, como dispõe a Súmula n. 231 do STJ, in verbis:
+"A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Desse modo, é incabível, pois, a superação de referido entendimento sumular, porquanto sua aplicação representa a jurisprudência pacífica e atualizada do STJ sobre a matéria, conforme os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. TRANSNACIONALIDADE. PRETENSÃO DE AFASTAMENTO. IMPOSSIBILIDADE DE REEXAME FÁTICO/PROBATÓRIO. SÚMULA 7/STJ. PENA-BASE. QUANTIDADE E NATUREZA DA DROGA E CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. INCABÍVEL A REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL.  ..
+5. Salienta-se, que a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça.
+6. A Corte local ao exasperar a pena base em 1 ano e 6 meses, em atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Drogas, apontou a quantidade e natureza do entorpecente apreendido - 18kg de haxixe - bem como a valoração negativa das circunstâncias do crime, não havendo qualquer ilegalidade a ser sanada, uma vez que o aumento não se mostrou desproporcional.
+7. É inviável a superação da Súmula n. 231 do STJ, porquanto sua aplicação representa a jurisprudência pacífica e atualizada do Superior Tribunal de Justiça sobre a questão nela tratada.
+8. Agravo regimental não provido (AgRg no AREsp n. 2.352.792/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 17/10/2023, DJe 30/10/2023, grifei).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO . SÚMULA N. 231/STJ. IMPOSSIBILIDADE DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. ENTENDIMENTO MANTIDO. PLEITO DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. A incidência do verbete da Súmula n. 231 permanece firme na jurisprudência desta Corte. Além disso, o agravante não trouxe argumento idôneo para justificar uma modificação do entendimento acerca do tema (overruling).
+2. O art. 543-C do CPC, que regula o julgamento do recurso especial repetitivo, prevê o sobrestamento dos autos que tratam de matéria afetada como representativa da controvérsia somente em relação aos feitos da instância ordinária, não se aplicando àqueles que tramitam no âmbito desta Corte Superior. Precedentes.
+3. Agravo regimental a que se nega provimento (AgRg no HC n. 819.986/GO, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), Sexta Turma, julgado em 28/8/2023, DJe 30/8/2023, grifei).
+Desse modo, a pretensão formulada pela impetrante encontra óbice na jurisprudência desta Corte de Justiça, sendo, portanto, manifestamente improcedente .
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
