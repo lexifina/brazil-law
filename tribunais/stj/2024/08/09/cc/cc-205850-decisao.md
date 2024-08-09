@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de pedido de reconsideração proposto por CONTAX S/A, atual denominação de LIQ CORP S.A, integrante do GRUPO ATMA - EM RECUPERAÇÃO JUDICIAL em face da decisão que não conheceu do conflito de competência, considerando que "o d. Juízo da Recuperação Judicial ainda não foi informado, pelo d. Juízo da Execução Fiscal, de ofício, ou por provocação de interessado, por qualquer meio, a respeito da determinação de constrição de bens e direitos da suscitante em recuperação judicial, dando início ao procedimento de cooperação judicial, fato que afasta a configuração do conflito de competência" (na fl. 241).
+Requeridas as informações, ambos os Juízos ainda não as apresentaram.
+A parte alega que decisão deve ser reformada, porque:
+a) "no caso em testilha, diante do requerimento da reclamante, que pretende a liberação dos depósitos realizados pela empresa recuperanda em seu favor, bem como da decisão da Justiça Trabalhista, que não autorizou a liberação dos depósitos realizados pela ré diretamente nos autos do Juízo Universal, há evidente decisão conflitante com àquela proferida pelo Juízo onde tramita os autos da Recuperação Judicial" (nas fls. 247/248);
+b) "a atual e predominante Jurisprudência no âmbito deste C. Superior Tribunal de Justiça é no sentido de que, independentemente do momento de constituição do crédito trabalhista, após deferido o processamento da recuperação judicial, a competência da Justiça do Trabalho limita-se à definição do Direito e à consequente apuração do crédito, como acima registrado, cabendo ao Juízo da recuperação judicial a realização dos atos de execução do patrimônio da empresa em recuperação, a fim de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial" (na fl. 248);
+c) "o Supremo Tribunal Federal, ao analiso/STF Leading RE 583955 (tema 90), fixou, em sede de repercussão geral, tese case no sentido de que "Compete ao juízo comum falimentar processar e julgar a execução dos créditos trabalhistas no caso de empresa em fase de recuperação judicial" (na fl. 248) e
+d) "com o deferimento da recuperação judicial ou decretação da falência, a execução passará a tramitar perante a vara empresarial, nos termos do art. 6º e §§ da Lei 11.101/05, vedado qualquer ato expropriatório neste Juízo, mesmo em caso de inadimplência superveniente, entendimento já pacificado no STJ" (na fl. 249).
+Pugna pela reconsideração da decisão.
+O pedido não foi contestado.
+É o relatório.
+Passo a decidir.
+O pedido de reconsideração não merece provimento.
+Deveras, de início, verifica-se que o destacado tema 90/STF foi definido com fundamento legal superado pela Lei 14.112/2020, que é, destaque-se, a base legal sob a qual se assenta a decisão reconsideranda.
+Assim, avançando na análise da questão, não há reparos a serem feitos na decisão impugnada, porque, segundo ela afirma, o Legislador ordinário, visando compatibilizar o princípio da preservação da empresa com a indisponibilidade e com o privilégio do crédito tributário, editou a Lei 14.112/2020 introduzindo importantes inovações na Lei 11.101/2005, em especial com a nova redação do art. 6º, § 7º-B:
+Art. 6º A decretação da falência ou o deferimento do processamento da recuperação judicial implica:
+I - suspensão do curso da prescrição das obrigações do devedor sujeitas ao regime desta Lei;
+II - suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência;
+III - proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência.
+..
+§ 7º-B. O disposto nos incisos I, II e III do caput deste artigo não se aplica às execuções fiscais, admitida, todavia, a competência do juízo da recuperação judicial para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), observado o disposto no art. 805 do referido Código.
+Desse modo, restou assente na jurisprudência desta Corte, que a caracterização do conflito de competência pressupõe a oposição concreta do Juízo da recuperação judicial à deliberação do Juízo da execução fiscal, a respeito de atos constritivos incidentes sobre bens de capital essenciais ao plano de soerguimento empresarial, quando compete ao Juízo recuperacional, no exercício de juízo de prudência, determinar a substituição dos atos de constrição que recaiam sobre tais bens.
+Todavia, constatou-se no presente caso que o d. Juízo da Recuperação Judicial ainda não foi informado, pelo d. Juízo da Execução Fiscal, de ofício, ou por provocação de interessado, por qualquer meio , a respeito da determinação de constrição de bens e direitos da suscitante em recuperação judicial, dando início ao procedimento de cooperação judicial, fato que afasta a configuração do conflito de competência.
+Ante o exposto, indefiro o pedido de reconsideração.
+Publique-se.
+ EMENTA
