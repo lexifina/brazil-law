@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 83/STJ.
+No recurso especial, sustenta a defesa violação do art. 44, § 3º, do CP, aduzindo ser devida a conversão da pena privativa de liberdade em restritivas de direitos.
+Requer o provimento do recurso, para a substituição da pena reclusiva.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido:
+II.3.3. Substituição da pena privativa de liberdade.
+A pena não supera os 4 anos de reclusão. No entanto, o réu apresenta maus antecedentes, inclusive na prática do mesmo crime, de modo que a substituição da pena privativa de liberdade não é suficiente para o devido apenamento. Deste modo, não se verifica o requisito do artigo 44, III, do Código Penal.
+Além disso, chama atenção que, nos autos da ação penal nº 0002615-45.2012.4.03.6103/SP, em que o apelante foi também condenado pelo crime de moeda falsa, sua pena foi substituída por duas restritivas de direitos (conforme demonstra consulta pública no site daJFSP1).
+Apesar disso, cometeu o mesmo crime posteriormente, mais de uma vez.
+Nesse contexto, entendo que no presente caso a substituição não é socialmente recomendável, porque os elementos dos autos indicam que ela não se revela suficiente para reprimir o crime.
+Portanto, além de o embargante contar com antecedentes pela prática do mesmo crime, já teve a medida de substituição da pena deferida no passado, sem que ela surtisse o efeito esperado, o que justifica o não cabimento da substituição no presente caso. Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECEPTAÇÃO E USODE DOCUMENTO FALSO. 1) DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DOCRIME. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE ERRO OU FLAGRANTE ILEGALIDADE. INCIDÊNCIADA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 2) REGIME INICIAL DE CUMPRIMENTO DAPENA INFERIOR A 4 ANOS. REGIME SEMIABERTO. POSSIBILIDADE. PRESENÇA DE CIRCUNSTÂNCIAJUDICIAL DESFAVORÁVEL. 3) SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DEDIREITOS. INVIABILIDADE. SUBSTITUIÇÃO NÃO RECOMENDÁVEL. SENTENCIADO BENEFICIADOANTERIORMENTE COM A SUBSTITUIÇÃO, VINDO NOVAMENTE A SER CONDENADO, ALÉM DA PRESENÇADE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. 4) AGRAVO REGIMENTAL DESPROVIDO. ..  3. Inviável a substituição da pena privativa de liberdade por restritiva de direitos, tendoem vista a ausência dos requisitos previstos no art. 44, incisos II e III, e § 3º do CódigoPenal, sobretudo considerando que a substituição não era socialmente recomendável, umavez que o sentenciado já teria sido beneficiado com a substituição da pena privativa deliberdade por restritiva de direitos, vindo novamente a ser condenado. Ademais, a presençade circunstância judicial desfavorável também justifica a não substituição da pena privativade liberdade por restritiva de direitos. 4. Agravo regimental desprovido" (AgRg nos EDcl no REspn. 1.940.825/PE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/11/2021) - grifo nosso
+Assim, descabida a substituição da pena.
+"Para a substituição da sanção privativa de liberdade por restritiva de direitos, é necessário que estejam preenchidos, cumulativamente, os requisitos objetivos e subjetivos exigidos para a concessão dessa benesse, os quais se encontram previstos no art. 44 do Código Penal" (AgRg nos EDcl nos EDcl no AgRg no AREsp n. 2.427.215/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/5/2024, DJe de 23/5/2024.)
+No caso, o Tribunal de origem concluiu que a substituição da pena reclusiva não seria recomendável, pois, "além de o embargante contar com antecedentes pela prática do mesmo crime, já teve a medida de substituição da pena deferida no passado, sem que ela surtisse o efeito esperado", estando a negativa devidamente fundamentada no inciso III do art. 44 do CP. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. CONTUMÁCIA DELITIVA E TRÊS QUALIFICADORAS. EXASPERAÇÃO DA PENA-BASE. BIS IN IDEM. INOCORRÊNCIA. DESLOCAMENTO DE QUALIFICADORAS REMANESCENTES PARA PRIMEIRA FASE. POSSIBILIDADE. FURTO PRIVILEGIADO. SUBSTITUIÇÃO POR PENA DE DETENÇÃO. FUNDAMENTAÇÃO CONCRETA. MAUS ANTECEDENTES E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PLEITO DE SUSBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+VI - A análise desfavorável das circunstâncias judiciais e os maus antecedentes justificam o afastamento da substituição da sanção privativa de liberdade por restritivas de direitos, consoante o disposto no art. 44, III, do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 841.482/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+O acórdão recorrido se harmoniza com a jurisprudência desta Corte, razão pela qual incide, na hipótese, a Súmula 83/STJ, também aplicável aos recursos especiais interpostos com fulcro na alínea a do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "b", do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
