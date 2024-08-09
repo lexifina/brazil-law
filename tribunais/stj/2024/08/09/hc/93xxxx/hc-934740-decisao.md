@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. DELITO DE HOMICÍDIO. PRISÃO TEMPORÁRIA. TESES PREJUDICADAS. DECISÃO SUPERVENIENTE QUE DECRETOU A PRISÃO PREVENTIVA. CUSTÓDIA CAUTELAR QUE SE FUNDAMENTA EM NOVO TÍTULO. SUPERAÇÃO DOS ARGUMENTOS DA IMPETRAÇÃO QUE VISAM DESCONSTITUIR A PRISÃO TEMPORÁRIA. PERDA DO OBJETO DO WRIT. PREJUDICIALIDADE. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. ORDEM DE HABEAS CORPUS PREJUDICADA.
+Imputa-se ao paciente a prática do crime de homicídio.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+A matéria relativa à inidoneidade da conversão da prisão temporária em preventiva não foi apreciada no acórdão impugnado.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Com efeito, "Ausente manifestação colegiada do Tribunal sobre a matéria ora trazida a exame, incabível o conhecimento do presente habeas corpus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ)." (AgRg no HC 911447 / MT, Relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, Data do Julgamento 01/07/2024, Data da Publicação/Fonte DJe 02/08/2024)
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, que justifique a concessão de ofício do habeas corpus.
+Com efeito, inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos concretos que indicam gravidade concreta que desborda o tipo. (AgRg no HC 801.642/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023; AgRg no HC 782.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+Por fim, certo é que "esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023). 3. Agravo regimental a que se nega provimento. (AgRg no HC nº 868.208/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 30/11/2023, DJe de 5/12/2023 - destaquei)
+Com efeito, "É do devido processo legal que a causa não seja processada, simultaneamente, na origem e na instância recursal. Questões relativas à fragilidade das provas da autoria delitiva não podem ser dirimidas na via sumária do habeas corpus ou do seu recurso por demandarem reexame aprofundado das provas coletadas no curso da instrução criminal, inviável na via eleita. A temática deve ser solucionada, em princípio, na ação penal a que responde o ora agravante e pelo Togado singular." (AgRg no RECURSO EM HABEAS CORPUS Nº 170264 - MT, Relator Ministro JOÃO BATISTA MOREIRA (DESEMBARGADOR CONVOCADO DO TRF1) Julgado em 08/08/2023, DJe/STJ nº 3698 de 16/08/2023)
+Afirmada a materialidade e a autoria do paciente, alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória no "writ".
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
