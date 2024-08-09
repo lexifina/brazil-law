@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito de competência proposto por GRUPO MOBRA - MASSA
+FALIDA (GRUPO MOBRA), apontando como suscitados o JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE/RS, Falência nº 5092815-63.2023.8.21.0001 (JUÍZO UNIVERSAL) e o JUÍZO DA 14ª VARA DO TRABALHO DE PORTO ALEGRE/RS, Reclamação Trabalhista nº 0001306-72.2013.5.04.0014 (JUÍZO TRABALHISTA).
+Informou que com o decreto da falência, as ações e execuções contra ele ajuizada foram suspensas, atraindo todas as questões referentes ao pagamento dos seus débitos ao juízo universal.
+Porém, o JUÍZO TRABALHISTA manteve o prosseguimento da reclamatória e autorizou o levantamento do depósito recursal em favor do reclamante.
+O pedido de concessão de medida liminar foi deferido (e-STJ, fls. 373/374).
+Foram prestadas as informações (e-STJ, fls. 385/386).
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República, Dr. MAURÍCIO VIEIRA BRACKS, se manifestou pela declaração da competência do juízo universal (e-STJ, fls. 388/392).
+É o relatório.
+DECIDO.
+De acordo com o art. 6º, I e II, da Lei nº 11.101/05, a decretação da falência ou o deferimento da recuperação judicial (1) suspende o curso de todas as ações e execuções ajuizadas contra o devedor; e (2) proíbe qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência.
+Esta norma consagra o princípio da universalidade do juízo da falência e da recuperação judicial, pelo qual todas as ações de interesse da massa falida ou da empresa em recuperação judicial são atraídas pelo juízo universal.
+A concentração de ações no juízo universal ocorre para preservar o plano de recuperação ou o procedimento de falência da empresa, cabendo àquele juízo distribuir os créditos de modo a respeitar as classes de credores e possibilitar a continuidade da atividade empresarial ou a preservação e otimização do uso produtivo do patrimônio da empresa falida, conforme previsto nos arts. 47 e 75 da Lei nº 11.101/051.
+Na hipótese dos autos, o JUÍZO LABORAL liberou os valores recolhidos a título de depósito recursal para pagamento do débito apurado na reclamação trabalhista, mesmo após ter sido decretada a falência da empresa suscitante.
+A jurisprudência que se consolidou no âmbito da Segunda Seção do Superior Tribunal de Justiça reconhece ser o Juízo falimentar é o competente para decidir sobre os depósitos recursais efetivados em demandas trabalhistas, ainda que anteriores ao decreto de falência.
+Eis alguns precedentes nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO TRABALHISTA COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS - INSURGÊNCIA DO AGRAVANTE.
+1. O Superior Tribunal de Justiça é competente para examinar o presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Nos termos da jurisprudência consolidada da Segunda Seção, é competente o juízo universal para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no CC n. 190.173/RJ, relator Ministro MARCO BUZZI, Segunda Seção, j. 4/10/2022, DJe de 10/10/2022 - sem destaque no original)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL X EXECUÇÕES INDIVIDUAIS. LEI 11.101/05. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DOS SEUS DISPOSITIVOS. CRÉDITO TRABALHISTA CONSTITUÍDO APÓS O DEFERIMENTO DA RECUPERAÇÃO. LIQUIDAÇÃO E HABILITAÇÃO DO CRÉDITO. NATUREZA EXTRACONCURSAL. DELIBERAÇÃO ACERCA DE VALORES RETIDOS A TÍTULO DE DEPÓSITO RECURSAL EM RECLAMAÇÃO TRABALHISTA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no CC 152.280/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, j. 8/8/2018, DJe 14/8/2018 - sem destaque no original)
+Desse modo, não compete à Justiça Trabalhista decidir sobre o destino do depósito recursal realizado nos autos da reclamação trabalhista, ainda que tenha sido efetuado antes da recuperação judicial ou da decretação da falência da empresa em crise, devendo ser submetido ao controle do Juízo da recuperação judicial, de acordo com os precedentes acima colacionados.
+Nessas condições, CONHEÇO do conflito e declaro competente o JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE/RS para decidir sobre as questões concernentes ao patrimônio da falida.
+Por oportuno, previno as partes de que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. FALÊNCIA. EXECUÇÃO TRABALHISTA. DEPÓSITO RECURSAL. SUJEIÇÃO AO JUÍZO UNIVERSAL. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO UNIVERSAL.
