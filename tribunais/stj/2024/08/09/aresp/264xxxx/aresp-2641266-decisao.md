@@ -1,0 +1,43 @@
+DECISÃO
+Na origem, trata-se de ação regressiva promovida pelo INSS, objetivando o ressarcimento de valores expendidos em função de acidente de trabalho pelas empresas responsáveis. Na sentença, julgou-se parcialmente procedente o pedido para condenar solidariamente as rés a ressarcirem ao INSS o montante correspondente aos valores pagos aos segurados vítimas do acidente de trabalho. No Tribunal a quo, a sentença foi reformada para reconhecer a ilegitimidade passiva de uma ré e julgar improcedente o pedido. O valor da causa foi fixado em R$ 115.000,00.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+DIREITO CIVIL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO REGRESSIVA. INSS. ACIDENTE DE TRABALHO. RESSARCIMENTO AO ERÁRIO. EMPREGADOR. EMPRESA TOMADORA DE SERVIÇOS. ILEGITIMIDADE PASSIVA AD CAUSAM. PRECEDENTE JULGADO SOB A TÉCNICA DO ARTIGO 942 DO CPC/2015. NÃO VIOLAÇÃO DE NORMAS GERAIS DE SEGURANÇA E HIGIENE DO TRABALHO. NÃO CRIAÇÃO DE RISCO EXTRAORDINÁRIO ÀQUELE COBERTO PELA SEGURIDADE SOCIAL. HONORÁRIOS.
+1. A ação de regresso prevista no artigo 120, da Lei n 8.213/91, não se confunde com a responsabilidade civil geral, dado que elege como elemento necessário para sua incidência a existência de "negligência quanto às normas gerais de padrão de segurança e higiene do trabalho".
+2. O atual regime constitucional da responsabilidade acidentária prevê que o risco social do acidente do trabalho está coberto pelo sistema de seguridade social, gerido pelo INSS e para o qual contribuem os empregadores.
+3. Desta forma, para que se decida pelo dever de ressarcimento à autarquia previdenciária, tornam-se necessárias as demonstrações de que a) a empresa tenha deixado de observar as normas gerais de segurança e higiene do trabalho e b) que o acidente tenha decorrido diretamente desta inobservância.
+4. O comando legal inscrito no art. 120 da Lei nº 8.213/1991, sobre o qual se funda a pretensão ressarcitória deduzida pelo INSS, destina-se unicamente ao empregador do segurado acidentado, eis que somente ele pode atender ao critério legal de "negligência quanto às normas padrão de segurança e higiene do trabalho indicados para a proteção individual e coletiva", sendo parte ilegítima para o feito a corré LIUGONG LATIN AMERICA MÁQUINAS PARA CONSTRUÇÃO PESADA LTDA., enquanto meras tomadoras dos serviços prestados por empregado da correquerida ABACK LUMINOSOS COMERCIAL LTDA ME
+5. No caso dos autos, em 20/10/2015, três segurados da Previdência Social e empregados da correquerida ABACK LUMINOSOS COMERCIAL LTDA ME., exerciam suas atividades laborais sobre um cesto suspenso quando o referido cesto caiu, ocasionando o óbito de um deles e lesões corporais aos demais.
+6. A causa direta e imediata do infortúnio foi a queda do trabalhador. As causas efetivas da queda, no entanto, não foram minimamente esclarecidas. Não houve prova de que a pressão do líquido que saiu da mangueira tenha sido suficiente para derrubar o trabalhador.
+7. A situação de infortú nio retratada nos autos não induz à conclusão de haver a correquerida (empregadora) violado "normas gerais de segurança e higiene do trabalho", a justificar sua responsabilidade civil, de modo regressivo. Por tais razões, conclui-se que não restou demonstrada nos autos a criação, por esta parte, de risco extraordinário àquele coberto pela Seguridade Social, não devendo ela arcar com o ressarcimento dos valores gastos pela autarquia apelada a título de benefício previdenciário.
+8. Condena-se o INSS ao pagamento de custas processuais em reembolso e de honorários advocatícios sucumbenciais, estes fixados em 10% sobre o valor atualizado da causa, a ser igualmente dividido entre os patronos de ambas as correqueridas.
+9. Apelação da corré LIUGONG LATIN AMERICA MÁQUINAS PARA CONSTRUÇÃO PESADA LTDA. provida para reconhecer sua ilegitimidade passiva.
+10. Apelação da corré ABACK LUMINOSOS COMERCIAL LTDA ME provida para julgar improcedente o pedido em relação a esta parte.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Ocorre que a ação de regresso prevista no artigo 120, da Lei n 8.213/91, não se confunde com a responsabilidade civil geral, dado que elege como elemento necessário para sua incidência a existência de "negligência quanto às normas gerais de padrão de segurança e higiene do trabalho".
+A dicção legal é clara ao não estabelecer a responsabilidade também por negligência quanto a eventuais condutas pontuais em desacordo com aquelas normas de segurança e higiene do trabalho. A lei não elege, como se vê, a responsabilidade (regressiva) em razão de acidente ocorrido sob o manto da infortunística pura.
+ ..
+Já o artigo 120, que não tem estofo constitucional, como se vê dos termos claros do artigo 7º, que trata de dolo ou culpa (responsabilidade civil, portanto), introduziu uma outra exceção à regra da cobertura social exclusivamente pelo INSS (suportada por contribuições dos segmentos econômicos correspondentes), estabelecendo um direito que denomina "de regresso" contra o empregador em caso de descumprimento a "normas gerais de segurança e higiene do trabalho").
+ ..
+Assim, o direito de regresso posto pelo artigo 120, da Lei nº 8.213/91 só se justificará nas hipóteses de ocorrências das circunstâncias expressas na própria lei de regência excepcional.
+ ..
+De se concluir, portanto, que, à exceção da sociedade empregadora da vítima, não estava a corré LIUGONG sujeita à observância de normas gerais de segurança e higiene do trabalho próprias da empresa empregadora do segurado vítima do acidente em questão.
+ ..
+Sendo assim, de rigor reconhecer a ilegitimidade passiva ad causam da correquerida LIUGONG, que não era empregadora do segurado acidentado.
+ ..
+Da mera leitura da descrição do infortúnio se extrai que sua causa direta e imediata foi a queda do cesto suspenso em que estavam os trabalhadores.
+ ..
+Não consta, no entanto, a(s) efetiva(s) causa dessa ruptura.
+ ..
+Cumpre registrar que o ônus probatório quanto à efetiva causa do infortúnio incumbe ao INSS, enquanto fato constitutivo de seu direito (art. 373, I, do CPC/2015).
+ ..
+Desta forma, tenho que não é possível responsabilizar a corré ABACK pelo ressarcimento dos valores despendidos pelo INSS a título de benefício previdenciário, sendo de rigor a improcedência do pedido formulado pela autarquia previdenciária.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ademais,, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
