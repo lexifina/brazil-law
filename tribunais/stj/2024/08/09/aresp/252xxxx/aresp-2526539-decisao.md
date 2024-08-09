@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial tirado contra acórdão do TJSP assim ementado (e-STJ, fl. 3.756):
+EMBARGOS À EXECUÇÃO Execução fundada em multa contratual estabelecida em "Instrumento Particular de Promessa de Compra e Venda de Imóvel, com permuta e torna, transação, assunção de obrigações recíprocas e outras avenças" Alegada violação de nomas sanitárias a ensejar a referida multa Embargos julgados procedentes, considerando a ausência de título executivo líquido, certo e exigível Apelo do exequente, buscando a inversão do julgado Admissibilidade Hipótese em que restou demonstrado que o embargante fabricou medicamentos e correlatos pela Ativus-Myrallis, de responsabilidade de Olinto, sem a devida licença de funcionamento, incorrendo em infração contratual e dando ensejo à multa estabelecida no contrato Farta prova nesse sentido Auto de Infração, lavrado pela Secretaria de Saúde do Município de Valinhos/SP que foi anulado por vício formal, não contendo justificativa legal para afastar a alegada produção ilegal de medicamentos Carência de ação não verificada Existência de título executivo, a dar ensejo ao prosseguimento da execução Sentença modificada Sucumbência invertida RECURSO PROVIDO.
+Os embargos de declaração opostos ao aresto foram rejeitados (e-STJ, fls. 3.765/3.789 e 3.793/3.795).
+Nas razões do especial (e-STJ, fls. 3.797/3.840), o recorrente suscita, preliminarmente, negativa de prestação jurisdicional, em violação dos arts. 11, 489, II, e § 1º, IV e V, e 1.022, I e II, § ún., II, do CPC/2015. Argumenta que o TJSP não se manifestou sobre questões relevantes para a adequada solução da lide.
+Relativamente ao mérito da controvérsia, aduz ofensa aos arts. 186, 187, 188, I, 394, 396, 408, 409, 413 e 884 do CC/2002, ao fundamento de que inexigível a multa contratual reivindicada por sua contraparte, que ademais se afigura excessiva, sendo impositiva sua redução, se acaso devida. Indica violação dos arts. 2º, 141 e 492 do CPC/2015, afirmando que o acórdão recorrido extrapolou os limites do litígio, bem assim dos arts. 783, 786 e 803, I, do mesmo Código, sustentando a inexistência de título executivo, porque ausente a certeza e a liquidez da dívida executada. Ao fim, irresigna-se com os honorários advocatícios sucumbenciais arbitrados em favor do patrono de sua contraparte, que em seu entender contraria o comando dos arts. 85, §§ 1º, 2º e 8º, e 827, caput e § 2º, da lei processual civil.
+Contrarrazões às fls. 3.859/3.884 (e-STJ).
+Decisão pela inadmissibilidade do recurso às fls. 3.898/3.901 (e-STJ).
+Razões do agravo às fls. 3.904/3.943 (e-STJ).
+Contraminuta às fls. 4.035/4.070 (e-STJ).
+É o relatório.
+Decido.
+No que se refere à alegada violação dos arts. 489 e 1.022 do CPC/2015, a irresignação prospera em parte.
+Por meio do recurso declaratório de fls. 3.765/3.789 (e-STJ), o recorrente reivindicou do TJSP que fosse analisado o pedido de redução da multa contratual, à luz do art. 413 da lei material civil, questão jurídica oportunamente suscitada em caráter subsidiário nas contrarrazões da apelação (e-STJ, fl. 3.676).
+Tem-se, contudo, tema não examinado pela Corte local, traduzindo omissão e configurando negativa de prestação jurisdicional, do que resulta a nulidade do aresto proferido no julgamento do recurso declaratório, na forma prevista pelo art. 93, IX, da CF/1988 c.c. os arts. 489, § 1º, IV, e 1.022, § ún., II, do CPC/2015.
+No ponto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. JURISPRUDÊNCIA DOMINANTE. POSSIBILIDADE. CONFIRMAÇÃO PELO COLEGIADO. NULIDADE. AUSÊNCIA. TEMA RELEVANTE PARA O JULGAMENTO DA CONTROVÉRSIA. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+(..)
+2. Deixando a Corte local de se manifestar sobre questão relevante, apontada em embargos de declaração que, em tese, poderiam alterar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.765.292/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO PROFERIDA PELO TRIBUNAL DE JUSTIÇA, NÃO AFETADA PELA POSTERIOR PROLAÇÃO DE SENTENÇA DE MÉRITO NA INSTÂNCIA A QUO. PERDA DE OBJETO. NÃO OCORRÊNCIA. OBRIGAÇÃO IMPOSTA PELA INSTÂNCIA AD QUEM EM SEDE DE AGRAVO DE INSTRUMENTO. CARACTERIZADA A OFENSA AO ART. 535 DO CPC/1973. NULIDADE DO ACÓRDÃO ESTADUAL NOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+(..)
+2. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca de questões que não podem ser examinadas, de plano, na via estreita do apelo nobre. Omitindo-se a Corte de origem sobre a irresignação suscitada nas razões dos embargos de declaração, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente.
+3. Agravo interno provido para conhecer do agravo a fim de dar parcial provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios, com o retorno dos autos ao eg. Tribunal de Justiça.
+(AgInt no AgInt no AREsp n. 1.096.039/SP, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 25/5/2021, DJe de 5/8/2021)
+Ante o exposto, CONHEÇO do agravo nos próprios autos para CONHECER EM PARTE do recurso especial e, na parte conhecida, DAR-LHE PROVIMENTO para CASSAR o acórdão proferido no julgamento dos embargos de declaração (e-STJ, fls. 3.793/3.795), determinando o retorno dos autos à origem para o exame da questão sobre a qual foi reconhecida a omissão.
+Prejudicada a análise das demais teses recursais.
+Publique-se. Intimem-se.
+EMENTA
