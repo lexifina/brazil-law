@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 176e):
+AGRAVO DE INSTRUMENTO. FORNECIMENTO DE MEDICAMENTO. ALTO CUSTO. DERMATITE ATÓPICA GRAVE. TUTELA DEFERIDA. DECISÃO MANTIDA. Afigura-se viável, diante do posicionamento das Cortes superiores e com ressalva de ponto de vista, manter decisão que, ao asseverar a presença dos requisitos do art. 300 do CPC, determina o fornecimento de medicamento de alto custo contra dermatite atópica grave, ainda não analisado pela CONITEC, mas com registro e indicação para o caso. À luz do indicado pelo NATJus e pela prescrição de médica do SUS, não há, em princípio, o óbice da repercussão geral do STF. De outro lado, o valor da causa é reduzido, já que o tema é de saúde, valor inestimável, e não definido pelo preço do fármaco. Agravo de instrumento parcialmente provido.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 292, § 3º, do CPC/2015, ao argumento de que a Corte de origem não poderia alterar de ofício o valor da causa, pois não houve requerimento da União em tal sentido, bem como o juízo de primeira instância não apreciou a matéria.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 176e.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A Corte de origem, ao apreciar agravo de instrumento interposto pela União, concluiu pela redução do valor da causa, conforme destacado à fl. 77e.
+No entanto, o aspecto lateral criticado no agravo recomenda, mantido o deferimento da gratuidade de justiça, a redução do valor da causa para R$ 80.000,00 (oitenta mil reais), de modo a apenas fixá-lo fora da alçada dos Juizados. E isto porque o tema é de saúde, valor inestimável, e não definido pelo preço do fármaco. E o próprio STJ admite o afastamento do tema 1076 em casos da espécie, e a fixação de honorários por mero arbitramento.
+Nesse contexto, o agravo da União ataca fortemente o elevado ônus financeiro que ações como a presente impõem aos entes federados. E não se pode perder de vista, ademais, o impacto que eventual condenação em honorários advocatícios, se fixados com base em elevado valor da causa, desproporcionalmente estabelecido, causará.
+O ponto, de qualquer forma, é que o pleito caminha para seu desate. Assim, merece manutenção a liminar, sem prejuízo de posterior reexame, pelo Juiz da causa, à luz de melhor prova ou na sentença, já que aí o juízo é definitivo.
+Ao julgar os embargos de declaração opostos pela recorrente, o Tribunal local manteve o entendimento firmado anteriormente, conforme registrado à fl. 126.
+Quanto à alegação de supressão de instância, melhor sorte também não resta ao segundo embargante. Conforme ressaltado no acórdão, o agravo da União ataca fortemente o elevado ônus financeiro que ações como a presente impõem aos entes federados, de modo que o agravado poderia ter rebatido tais alegações em contrarrazões, porém não o fez.
+Ademais, a correção do valor da causa é medida que pode ser feita pelo Magistrado inclusive de ofício. Logo, não há que se falar que este Tribunal estaria impossibilitado de fazê-lo. Ao contrário, há expressa autorização no art. 292, §3º, do CPC, do que inexiste error in procedendo no julgado.
+E não há, neste momento processual, qualquer sentido na tese do segundo embargante de que a alteração do valor da causa "encontra limite no marco temporal da prolação da sentença, em homenagem à coisa julgada".
+Portanto, observa-se, a partir da leitura do acórdão recorrido, que a fundamentação expendida não foi especificamente impugnada nas razões do apelo especial, o que caracteriza deficiência na argumentação recursal. À falta de devida impugnação, preservam-se inalterados os fundamentos aplicados na decisão, que se mostram capazes, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou. Incidem ao caso as Súmulas 283 e 284 do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VALOR DA CAUSA. CORREÇÃO DE OFÍCIO. RAZÕES RECURSAIS DISSOCIADAS E QUE NÃO IMPUGNAM FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO NÃO CONHECIDO.
