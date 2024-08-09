@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+TRIBUTÁRIO. INDÉBITO TRIBUTÁRIO RECONHECIDO EM SENTENÇA (EXCLUSÃO DO ICMS DÁ BASE DE CÁLCULO DO PIS E DA COFINS). MOMENTO DA INCIDÊNCIA DA TRIBUTAÇÃO PELO IRPJ E CSLL. HOMOLOGAÇÃO (EXPRESSA OU TÁCITA) DA RESPECTIVA COMPENSAÇÃO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta "que o recolhimento do IRPJ e da CSLL, em face de crédito a compensar decorrente de decisão judicial ilíquida, deve ocorrer no momento da escrituração dos créditos" (fl. 762).
+Contrarrazões apresentadas às fls. 787-799.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+Cinge-se a controvérsia em saber o momento de incidência do IRPL/CSLL sobre o indébito compensável reconhecido judicialmente.
+O Tribunal de origem entendeu que "a homologação da compensação é o marco temporal a evidenciar a disponibilidade jurídica ou econômica da renda, de modo a caracterizar o fato gerador do IRPJ e da CSLL" (fl. 657).
+Todavia, em recente julgado, a Segunda Turma desta Corte, analisando a mesma discussão posta nestes autos, firmou a orientação de que a disponibilidade jurídica do acréscimo patrimonial - fato gerador do IRPJ e da CSLL - proveniente de decisão judicial transitada em julgado que reconhecera o direito à compensação de indébito tributário ocorre com o deferimento do pedido de prévia habilitação do crédito, "ainda que a posterior declaração de compensação esteja sujeita à homologação expressa ou tácita pela Fazenda Nacional".
+Eis a ementa do julgado:
+TRIBUTÁRIO. IRPJ. CSLL. COMPENSAÇÃO. DECISÃO JUDICIAL TRANSITADA EM JULGADO. FATO GERADOR. HABILITAÇÃO DE CRÉDITO DECORRENTE DE DECISÃO JUDICIAL TRANSITADA EM JULGADO.
+I. A jurisprudência do STJ é firm e no sentido de que não há violação do art. 1.022 e ao art. 489 do CPC/2015, quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+II. O aspecto material do IR se perfaz com a aquisição de disponibilidade econômica e jurídica de rendas ou de proventos de qualquer natureza (acréscimo patrimonial), independentemente da denominação, condição jurídica, origem ou forma de percepção das receitas ou dos rendimentos, nos termos do caput e § 1º do art. 43 do CTN.
+III. A disponibilidade econômica dar-se-á nas situações de fato e jurídicas em que se verifica a disposição material da renda ou dos proventos, independentemente do efetivo recebimento de recursos financeiros, da materialização em dinheiro ou da "utilidade" da renda (disponibilidade financeira).
+IV. A disponibilidade jurídica surge a partir da atribuição da titularidade de direito de conteúdo econômico capaz de ampliar o patrimônio do contribuinte, referindo-se a uma situação jurídica em que se constata a perfectibilização dos elementos, inclusive acidentais, para o recebimento da renda ou dos proventos.
+V. A compensação dos créditos decorrentes de decisão judicial transitada em julgado, em um primeiro momento, está condicionada à abertura do processo administrativo de prévia habilitação do aludido crédito perante a Receita Federal do Brasil, na forma do art. 100 e seguintes da Instrução Normativa RFB n. 2.055/2021.
+VI. O procedimento de prévia habilitação do crédito decorrente de decisão judicial transitada em julgada tem por escopo a confirmação de que o sujeito passivo da obrigação tributária figura no polo ativo da demanda judicial e de que a certificação de ser o tributo administrado pela RFB, bem como objetiva a verificação do efetivo trânsito em julgado da demanda e da inexistência de prescrição.
+VII. Deferida a habilitação do crédito decorrente de decisão judicial transitada em julgado, os créditos a compensar poderão ser posteriormente declarados pela contribuinte na forma do § 1º do art. 74 da Lei n. 9.430/1996. A compensação declarada, conforme se extrai do § 2º do art. 74 da Lei n. 9.430/1996, extingue o crédito tributário, submetendo-se à condição resolutória de ulterior homologação, a ser realizada no prazo do § 5º do art. 74 da Lei n. 9.430/1996.
+VIII. Nos termos dos arts. 127 e 128 do Código Civil, a condição resolutória, enquanto não se realizar efetivamente, não será capaz de extinguir o direito a que ela se opõe. Ou seja, a previsão de uma condição resolutória não interfere por si só na certeza, na liquidez e na exigibilidade de eventual crédito decorrente de uma obrigação, não impedindo a produção de efeitos e a aquisição do direito.
+IX. A declaração de compensação, ao apresentar as informações sobre a existência e a extensão dos créditos a compensar, é juridicamente apta a extinguir o crédito tributário, conquanto possa ocorrer a condição resolutória de não homologação pelo Fisco.
+X. Desse modo, o IRPJ e a CSLL incidirão após o deferimento do pedido de prévia habilitação do crédito decorrente de decisão judicial transitada em julgado, quando se constata a disponibilidade jurídica do acréscimo patrimonial, ainda que a posterior declaração de compensação esteja sujeita à homologação expressa ou tácita pela Fazenda Nacional.
+XI. Recurso especial parcialmente provido.
+(REsp n. 2.071.754/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/3/2024, DJe de 15/3/2024.)
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Intimem-se.
+EMENTA
