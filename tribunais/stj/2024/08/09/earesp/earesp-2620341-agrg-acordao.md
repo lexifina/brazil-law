@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto por Bruno Amaral contra a decisão monocrática de minha lavra na qual não conheci do recurso especial ante a ausência de impugnação aos fundamentos da decisão de inadmissão do recurso especial na origem, quais sejam, deficiência de fundamentação, porque o dispositivo indicado com violado não detém alcance normativo para amparar as assertivas da insurgência; e deficiência de fundamentação, também em razão da ausência de exposição dos motivos pelos quais entende ter ocorrido dissídio jurisprudencial. Em fundamento subsidiário, acresci a incidência da Súmula 284/STF também em razão da ausência de indicação de violação do art. 621 do Código de Processo Penal (fls. 684/689).
+Nas razões, a defesa alega que se reporta à fundamentação elencada em sede de Recurso Especial, com a finalidade de evitar-se tautologia desnecessária (fl. 700), sustentando que foi completamente rechaçada a aplicação da Súmula 182 deste Superior Tribunal de Justiça (idem).
+Requer o provimento do agravo regimental ou que se conceda o aqui requerido de ofício, ante a inarredável aplicabilidade in casu (fl. 700).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não comporta conhecimento.
+Em obediência ao princípio da dialeticidade, cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada mediante impugnação clara e específica dos fundamentos do decisum combatido.
+No caso, o agravo em recurso especial foi inadmitido considerando que a parte agravante deixou de impugnar os fundamentos da decisão de inadmissão na origem, quais sejam, a deficiência de fundamentação (Súmula 284/STF) tanto porque o dispositivo indicado com violado não detém alcance normativo para amparar as assertivas da insurgência, pois aborda temática distinta do caso em exame, bem como em razão da ausência de exposição dos motivos pelos quais entende ter ocorrido o mencionado dissídio jurisprudencial (fls. 684/689).
+Em fundamento subsidiário, acrescentei que, além da manutenção da decisão de inadmissão do recurso especial pelos seus próprios fundamentos, haveria ainda outro óbice ao conhecimento do recurso, pois, tendo o acórdão impugnado sido proferido em sede de ação de revisão criminal, teria que ter sido indicada a violação de um dos incisos do art. 621 do CPP.
+Caberia, então, ao agravante, nas razões do presente regimental, infirmar os fundamentos da decisão agravada, o que não se verifica nas razões do presente agravo regimental, tendo em vista que se limitou a fazer menção à fundamentação elencada em sede de Recurso Especial, com a finalidade de evitar-se tautologia desnecessária (fl. 700), sustentando, genericamente, que foi completamente rechaçada a aplicação da Súmula 182 deste Superior Tribunal de Justiça (idem).
+Ora, nenhum argumento foi declinado para afastar o óbice da incidência da Súmula 284/STF aplicado sob três enfoques acerca dos quais entendeu-se deficiente a fundamentação adotada nas razões do recurso especial.
+Assim, tenho que o agravante inobservou o disposto no art. 932, III, do CPC/2015, atraindo, ainda, o óbice da Súmula 182/STJ: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido: AgRg no AREsp n. 2.384.030/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/9/2023; e AgRg no AREsp n. 2.152.990/RS, Ministra Laurita Vaz, Sexta Turma, DJe 22/8/2023.
+Ademais, anoto que não há falar em excesso de formalismo ou, nos dizeres do agravante, ausência de oportunidade para análise valorativa das razões recursais (fl. 699), pois o acesso à Justiça se dá na forma disciplinada pelas leis e pela jurisprudência consolidada nos tribunais. Por isso, impõe-se o cumprimento dos requisitos de admissibilidade do recurso, não por simples formalismo, mas por observância das normas legais (AgRg no AgRg no Ag n. 900.380/RJ, Ministro Vasco Della Giustina, Desembargador convocado do TJ/RS, Terceira Turma, DJe 18/5/2009).
+Por fim, registro ser descabida a postulação de habeas corpus de ofício, caso não ultrapassado o juízo de admissibilidade.
+Com efeito, a concessão do mandamus, de ofício, é feita por iniciativa do próprio Órgão Julgador, quando constata a existência de ilegalidade, na forma do art. 654, § 2º, do Código de Processo Penal e não para suprir eventuais falhas na interposição do recurso (AgRg no AREsp n. 266.574/SC, de minha relatoria, Sexta Turma, DJe 22/2/2013).
+Ante o exposto, não conheço do agravo regimental.
