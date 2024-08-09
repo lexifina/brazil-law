@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUIZ FERNANDO DE FARIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia recursal, alega violação dos arts. 83 e 89, ambos do CP, no que concerne à necessidade de concessão, em execução penal, do benefício do livramento condicional, uma vez que o recorrente preenche o requisito subjetivo para tanto, trazendo a seguinte argumentação:
+Todavia, o referido dispositivo legal foi afastado com a fundamentação de que o Recorrente não há certeza inequívoca que o Recorrente não voltará a delinquir, pois no exame psicológico há apontamentos que o Recorrente seria imaturo e impulsivo.
+Segundo a decisão ora atacada, os requisitos necessário para a obtenção do benefício não foram cumpridos integralmente.
+Apesar dos apontamentos, nenhum indicio concreto de que solto, volte a delinquir há nos autos.
+Ainda, deve ser observado que se trata de direito subjetivo do Recorrente, devendo ser concedido o livramento condicional.
+Assim, de rigor a reforma da decisão para conceder o livramento condicional ao Recorrente.
+ ..
+Por todo exposto, requer seja o presente recurso conhecido e provido, reformando-se o V. Acórdão combatido, nos termos das razões recursais, reconhecendo a violação do artigo 89 do Código Penal, para conceder o Livramento condicional ao Recorrente (fl. 232).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito. É certo que a longa pena a cumprir não é óbice à progressão, assim como a natureza dos delitos por si sós. No entanto, no presente, caso, o sentenciado, registrando prática de falta grave no curso da execução, foi submetido a exame criminológico, com apontamentos desabonadores.
+ ..
+Portanto, o quadro reportado não demonstra, com a certeza necessária ao caso, a presença do requisito subjetivo, especialmente considerado que se trata da liberdade antecipada, última etapa da execução, que recoloca, em contato social amplo, indivíduo que tem longo período de pena até seu término e que ostenta apontamentos que trazem claras dúvidas pertinentes à aptidão para o gozo de benesse de tamanha amplitude.
+ ..
+Por fim, vale observar que a avaliação psicológica não apresenta indicação da necessidade de exames mais aprofundados, por certo porque a profissional entendeu suficientes os elementos por ela colhidos para a conclusão lançada em seu relatório. E as falhas apontadas se coadunam com as ações criminosas pelas quais condenado o ora agravado (roubos), que refletem a impulsividade verificada, aliada à imaturidade (fls. 219/221).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto ao preenchimento do requisito subjetivo para concessão de benefício na execução penal, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "Não é possível, em sede de recurso especial, a análise relativa ao preenchimento do requisito subjetivo para concessão de progressão de regime prisional ou livramento condicional, tendo em vista que depende do exame aprofundado do conjunto fático-probatório relativo à execução da pena. Óbice da Súmula n. 7/STJ." (AgRg no REsp n. 1.989.973/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 12/5/2022.)
+Na mesma linha: "O Tribunal de origem concluiu que o reeducando implementou o mérito subjetivo para a concessão do livramento condicional, sobretudo diante do atestado de conduta carcerária favorável e das peculiaridades da situação fática. A inexistência de informações sobre a data do cometimento e apuração das faltas graves, bem como se houve a reabilitação, impede a desconstituição da conclusão a que chegou a instância ordinária por demandar o reexame de matéria fático-probatória, providência vedada em sede de recurso especial, nos termos do enunciado n. 7 da Súmula deste STJ." (AgRg no REsp n. 1.834.964/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/11/2019.)
+De igual sorte: "A revisão dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do ora agravante, a fim de concluir pela inexistência de seu vínculo com facção criminosa ou mesmo pela ausência de disponibilização de cursos ou trabalho na unidade prisional, demandaria o exame de prova, o que é vedado em sede de recurso especial, a teor do óbice da Súmula 7/STJ." (AgRg no AREsp n. 1.515.606/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/3/2020.)
+Confiram-se ainda os seguintes julgados: AgRg no REsp n. 2.006.696/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2022; AgRg no REsp n. 2.006.696/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2022; AgRg no AREsp n. 1.359.280/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/11/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
