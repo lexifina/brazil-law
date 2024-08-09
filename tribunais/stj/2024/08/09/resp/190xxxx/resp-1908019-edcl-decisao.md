@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por LATICINIO GOLEITE INDUSTRIA E COMERCIO LTDA contra decisão que conheceu, em parte, do Recurso Especial e, nesta parte, negou-lhe provimento.
+Inconformada, sustenta a parte embargante que:
+"I - OMISSÃO SOBRE PONTO FUNDAMENTAL PARA A SOLUÇÃO DA LIDE - CREDITO DE NATUREZA CIVIL - VIOLAÇÃO AO ART. 1022 do CPC PELO TRIBUNAL DE ORIGEM:
+(..)
+3. À leitura das razões recursais, constata-se que foi sustentado perante o Tribunal de origem, não apenas via Embargos de Declaração, a necessidade de pronunciamento expresso sobre a natureza do crédito e, por consequência, sobre a regra prescricional aplicável à luz do Código Civil.
+4. O ora embargante insistiu que AMBAS as partes admitiram expressamente tratar-se de um crédito de natureza civil e contratual. Em outras palavras, não se tratava de crédito decorrente de auto de infração.
+5. Para sustentar suas alegações e postular o pronunciamento expresso do Tribunal de Origem, o embargante chegou a juntar aos autos até mesmo as notas taquigráficas da Sustentação Oral, proferida pelo procurador ex adverso, no julgamento do Agravo no Tribunal de origem.
+6. Com o devido respeito, o embargante parece enfrentar um verdadeiro martírio para que seja apreciado algo absolutamente flagrante nos autos. O crédito em discussão tem natureza civil. Natureza contratual.
+(..)
+8. Data maxima venia, o TRIBUNAL DE ORIGEM não se pronunciou a respeito e, em que pese a clareza do entendimento desta Superior Instância, a r. decisão monocrática também deixou de se pronunciar a respeito.
+9. Este ponto do Recurso Especial é de fundamental importância para a recorrente, já que, obstado que está pela Sumula nº 07 para reexame de conjunto fático-probatório, segundo entendimento consignado na r. decisão monocrática, a omissão do julgado mineiro e da decisão monocrática impedem a aplicação da única norma prescricional aplicável ao caso, caracterizando violação inequívoca ao direito da embargante.
+10. Frise-se, uma vez mais, que as partes ADMITIRAM EXPRESSAMENTE TRATAR-SE DE CRÉDITO DE NATUREZA CIVIL, CONTRATUAL, não lhe sendo aplicável o prazo prescricional do Decreto 20.910/32.
+11. O julgamento proferido pelo TJMG culminará em um precedente perigoso, já que aplicou o Decreto 20.910/32 à créditos do Estado de natureza meramente civil.
+12. Assim sendo, torna-se necessário o conhecimento e provimento dos Embargos de Declaração para que essa Colenda Superior Instância aprecie a omissão do Tribunal de Origem, especificamente sobre um fato incontroverso, qual seja a natureza civil do crédito, caracterizando a violação ao artigo 1.022 do CPC.
+II - OMISSÃO - FATO INCONTROVERSO - NÃO APLICAÇÃO DA SÚMULA nº 07 - PRECEDENTE DE RELATORIA DA MINISTRA ASSUSETE MAGALHÃES:
+(..)
+18. Enquanto o Tribunal de origem afirmou que se tratava de multa decorrente de auto de infração (o que nunca houve, bastando ver até mesmo a natureza do procedimento de execução civil), as partes afirmaram categoricamente ser crédito de natureza civil.
+19. Como se está diante de fato incontroverso, o caso dos autos exige a mera revaloração dos critérios jurídicos, o que não é obstado pela Súmula 07/STJ (AgRg no REsp 1338350/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/05/2015, DJe 12/05/2015) 20. Em inúmeros julgados esse Egrégio Tribunal, acompanhando Vossa Excelência, já decidiu que a mera revaloração de dados explicitamente admitidos pelas partes e delineados no decisório recorrido não implica o vedado reexame do material de conhecimento.
+21. Desse modo, pede o conhecimento e provimento dos presentes Embargos de Declaração para que essa Superior Instância possa apreciar a natureza civil do crédito como SENDO FATO INCONTROVERSO, afastando a aplicação da Súmula 07/STJ, e, ao fazê-lo, dar provimento ao Recurso Especial".
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Nas razões de impugnação, a parte embargada pugna pela rejeição dos Embargos Declaratórios.
+É o relatório. Decido.
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que: a) inexiste violação ao art. 1.022 do CPC/2015, eis que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente; b) a modificação das conclusões adotadas pelo Tribunal de origem, de que "a demanda versa sobre questão de natureza administrativa, tratando de cobrança de multa por infração ambiental, razão pela qual se aplica legislação específica, por isonomia, à falta de regra específica ao caso para regular o prazo prescricional", ensejaria, inevitavelmente, o reexame fático-probatório dos autos, procedimento vedado, pela Súmula n. 7 desta Corte.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO. AMBIENTAL. EXECUÇÃO. PRESCRIÇÃO DO CRÉDITO. AUSÊNCIA NATUREZA DO CRÉDITO. OMISSÃO NO ACÓRDÃO. AUSÊNCIA.
