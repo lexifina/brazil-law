@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MONISE LINHARES GLATZL BELLINI GONCALVES, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de reparação por dano material, ajuizada pela agravante, em face da agravada, na qual alega ter sido vítima de fraude por meio do aplicativo disponibilizado pela agravada. Pleiteia reparação por dano material.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO -INDENIZAÇÃO -IMPUGNAÇÃO À JUSTIÇA GRATUITA -OFENSA À DIALETICIDADE -PROVEDOR DE SERVIÇOS NA INTERNET -PLATAFORMA DIGITAL -MECANISMOS DE SEGURANÇA -DANO MATERIAL. Os artigos 98 e seguintes do CPC/15, que regulamentam a justiça gratuita, estipulam que a parte gozará dos benefícios, mediante simples afirmação, na própria petição inicial, de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio. Os recursos devem ser claros e objetivos para demonstrar a irresignação do recorrente com relação ao trabalho decisório, sendo inviável o exame e decisão de apelação que não apresenta argumentos jurídicos pertinentes para enfrentá-lo, por ofensa ao princípio da dialeticidade. Dano é qualquer mal ou ofensa pessoal, deterioração, prejuízo a uma pessoa, conforme Dicionário da Língua Portuguesa, Caldas Aulete, sendo que, na linguagem jurídica, constitui a efetiva diminuição do patrimônio alheio, provocada por ação ou omissão de terceiro. A maioria dos atos ilícitos praticados na internet, tais como o ora analisado, são realizados por terceiros que utilizam os serviços prestados pelo provedor, que não é responsável por tais atos. (e-STJ Fl. 451)
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão do seguinte fundamento: incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz, de forma genérica, que a análise das razões recursais independe do revolvimento do acervo fático-probatório carreado aos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
