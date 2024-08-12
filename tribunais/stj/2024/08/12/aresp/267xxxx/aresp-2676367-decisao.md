@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto pelo BANCO DO BRASIL S.A contra a decisão de fls. 703-708 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O recurso especial foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado (fls. 566-567, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO CONTRATUAL EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE HOMOLOGOU LAUDO PERICIAL. PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. REJEITADA. PEDIDO EM CONTRARAZÕES. IMPOSSIBILIDADE. LAUDO PERICIAL EM CONFORMIDADE COM OS PARÂMETROS DA SENTENÇA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. O art. 93, IX, da CF exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão." (AI791.292QORG, Rel. Min. Gilmar Mendes, julgamento em 23-6-2010, Plenário, DJE de13-8-2010, com repercussão geral.).
+2. As contrarrazões servem tão somente para impugnar as razões do recurso interposto pela parte contrária, não sendo a via adequada para requerer a reforma da decisão.
+3. No caso dos autos, o laudo pericial foi realizado em conformidade com o disposto na sentença.
+4. Decisão mantida.
+5. Recurso desprovido.
+Os embargos de declaração opostos foram desacolhidos (fls. 608-613, e-STJ).
+Nas razões do recurso especial, o agravante alegou violação aos arts. 502, 503, 489, II e §1º, IV, e 1.022, II, do Código de Processo Civil; e 884 do Código Civil.
+Apontou, inicialmente, que, mesmo após ter sido provocado com a oposição de embargos de declaração, o Tribunal local manteve-se inerte quanto à análise das questões suscitadas.
+Sustentou, em síntese, o desacerto das instâncias originárias na homologação dos cálculos apresentados pelo perito, pois foram elaborados em desconformidade com o título judicial transitado em julgado, em clara ofensa à coisa julgada, além de importar em enriquecimento ilícito da parte adversa.
+Foram apresentadas contrarrazões (fls. 686-701, e-STJ).
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+De início, consoante análise dos autos, a alegação de violação aos arts. 489 e 1.022 do CPC/2015 não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses do insurgente. Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+A jurisprudência desta Casa dispõe no sentido de que a solução integral da controvérsia, com fundamento suficiente - situação facilmente constatável no caso -, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FALHA NA PRESTAÇÃO DE SERVIÇOS FUNERÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.
+7/STJ).
+3. No caso concreto, a reforma do acórdão recorrido, que concluiu pela caracterização dos danos morais decorrentes da ausência de disponibilização de local adequado para a realização de velório, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento (AgInt no AREsp 1.639.983/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 07/12/2020, DJe 14/12/2020).
+Nesse contexto, verifica-se que o TJMT dirimiu a questão posta nos autos sob os seguintes fundamentos (fls. 569-570, e-STJ; sem destaques no original):
+Sustenta o agravante que o laudo pericial apresentado não está em conformidade os parâmetros delineados na sentença exequenda, pois: 1) não está abrangendo as CRPH 96/6002-0 e a Escritura Pública de Confissão e Assunção de Dívidas nº 492300132; 2) deixou de informar qual é o valor que os agravados têm a pagar para o agravante.
+Os argumentos não se sustentam.
+Verifico que o no laudo pericial verifico o perito refutou a tese de que seria necessária a análise da CRPH 96/6002-0 e a Escritura Pública de Confissão e Assunção de Dívidas nº492300132, pois partiu do valor tido por incontroverso entre as partes, qual seja R$ 202.850,35 (duzentos e dois mil oitocentos e cinquenta reais e trinta e cinco centavos), em outubro de 1996.
+Assim, tenho que assiste razão ao perito, uma vez que a Escritura Pública de Confissão e Assunção de Dívida n. 492300132 foi emitida em 30-09-2003 e teve como finalidade a renegociação da dívida da CRPH 96/6002-0, logo, os valores respectivos a essas operações já estão inclusos no valor tido por incontroverso.
+E, no caso concreto não há falar em valor devido pelos agravados ao banco agravante, pois o laudo pericial apurou excessos realizados pelo banco agravante nas operações discutidas, de forma que os agravados é que são credores do banco agravante.
+Para viabilizar eventual acesso às vias extraordinária e especial, considera-se prequestionada toda matéria infraconstitucional e constitucional, observado o pacífico entendimento do Superior Tribunal de Justiça no sentido de que, "Para fins de prequestionamento não se exige a citação numérica dos dispositivos tidos como afrontados, mas sim o efetivo debate das questões por eles tratadas, com a emissão de juízo de valor sobre tais matérias  .. " (AgRg nos EDcl no REsp 966.229/RS, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 05/02/2013, DJe 18/02/2013)
+Portanto, apresentando o Tribunal originário os fundamentos pelos quais chegou à conclusão dos fatos expostos nos autos, inexiste violação aos arts. 489 e 1.022 do CPC/2015.
+Por outro lado, do trecho acima transcrito, depreende-se que a instância originária entendeu pela higidez dos cálculos apresentados pelo perito judicial, conclusão esta pautada nos aspectos fáticos do caso concreto.
+Verifica-se, assim, que reverter a conclusão do Tribunal local, para acolher a pretensão recursal, sobretudo no que concerne à não observância dos cálculos apresentados aos parâmetros da sentença exequenda, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante o enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO CONTRATUAL. FASE DE CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. HIGIDEZ DOS CÁLCULOS APRESENTADOS PELO PERITO JUDICIAL. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
