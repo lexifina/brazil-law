@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+No caso, o fundamento utilizado pela origem para afastar a aplicação da referida causa de diminuição de pena foi o de dedicação da ora agravante às atividades criminosas, ressaltando, sobretudo, que a própria apenada confessou que realizava a empreitada criminosa há pelo menos cinco meses.
+A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito. Precedentes.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GABRIELA CRISTINA GRECCO VICENTE contra decisão singular que não conheceu do habeas corpus.
+A agravante, em síntese, reitera a tese de que preenche todos os requisitos exigidos para a aplicação da causa especial de diminuição de pena (art. 33, § 4º, da Lei n. 11.343/06).
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+No caso, o fundamento utilizado pela origem para afastar a aplicação da referida causa de diminuição de pena foi o de dedicação da ora agravante às atividades criminosas, ressaltando, sobretudo, que a própria apenada confessou que realizava a empreitada criminosa há pelo menos cinco meses.
+A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito. Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+A controvérsia diz respeito à causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, a qual é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas e nem integre organização criminosa.
+Nesse ponto, asseverou o Tribunal a quo:
+" ..
+Com efeito, nas duas fases da persecução penal, narraram os policiais militares Guilherme Henrique Carvalho dos Santos e Carlos Eduardo Vessoni que fiscalizavam o trânsito, quando o condutor da motocicleta desrespeitou o sinal de parada. Durante a perseguição, a acusada arremessou embrulho formado por filme plástico contendo entorpecentes. Indagada a respeito, a ré admitiu a traficância exercida há pelo menos cinco meses, indicando que adquiria as drogas em Itápolis por R$ 500,00 para revenda em Borborema, de modo a auferir aproximadamente R$ 1.500,00 de lucro (fls. 03/04 e mídia SAJ a fls. 187).
+ ..
+Evidente o equívoco, mormente porque, primeiro, a denunciada não comprovou exercer função lícita de forma satisfatória, detalhe apto a indicar ser a mercancia espúria a "profissão" ou meio de vida dela, daí a habitual dedicação a atividade criminosa incondizente com a minorante em pauta, algo corroborado pela traficância desempenhada há pelo menos cinco meses, consoante informou a agente, reprise-se" (fls. 37/42).
+Verifica-se que o fundamento utilizado pela origem para afastar a aplicação da referida causa de diminuição de pena foi o de dedicação da ora agravante às atividades criminosas, ressaltando, sobretudo, que a própria apenada confessou que realizava a empreitada criminosa há pelo menos cinco meses.
+A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito. Confiram-se, a propósito, os seguintes julgados:
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE PROVAS. PENA SUPERIOR A 4 (QUATRO) ANOS DE RECLUSÃO. REGIME INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. FALTA DO PREENCHIMENTO DO REQUISITO OBJETIVO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+2. Os requisitos legais para a incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa.
+3. Concluído pelas instâncias ordinárias, com fulcro nas circunstâncias fáticas do delito e na natureza da droga apreendida, assim como nos demais elementos colhidos na instrução, que o paciente se dedica ao tráfico de drogas, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+4. Mantido o quantum da sanção imposta (5 anos de reclusão), é incabível a substituição da pena privativa de liberdade por restritiva de direitos, pela falta do preenchimento do requisito objetivo (art. 44, I, do Código Penal), assim como a alteração do regime prisional para o aberto, a teor do art. 33, § 2º, "b", do CP.
+5. Habeas corpus não conhecido.
+(HC 330.342/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 27/4/2016; sem grifos no original.)
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. NEGATIVA DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N.º 11.343/06. BIS IN IDEM. NÃO OCORRÊNCIA. MOTIVOS DIVERSOS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. CONCLUSÃO DE QUE O PACIENTE DEDICAVA-SE ÀS ATIVIDADES CRIMINOSAS E INTEGRAVA ORGANIZAÇÃO CRIMINOSA. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. NÃO CONHECIMENTO.
+1. Não há falar em bis in idem na dosimetria da pena, haja vista que a exasperação da pena-base deu-se em razão da quantidade e natureza da substância entorpecente apreendida - 514,3 kg de cocaína - , e a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06, por sua vez, foi negada por entenderem as instâncias de origem, com base nas circunstâncias do caso concreto, que o paciente dedicava-se às atividades criminosas e integrava organização criminosa, motivos diversos, pois.
+2. Concluído pelas instâncias ordinárias, com arrimo nos fatos da causa, que o paciente se dedicava às atividades criminosas e integrava organização criminosa, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.º 11.343/06. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+3. A substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal, segundo o qual só faz jus ao benefício legal o condenado a pena inferior a 4 anos. Na espécie, tendo a reprimenda final alcançado 6 anos, 9 meses e 20 dias de reclusão, não é possível a pretendida substituição.
+4. Devidamente fundamentada a imposição do regime inicial fechado, com base nas circunstâncias do caso concreto, considerando-se a quantidade e a natureza da droga apreendida - 514,3 kg de cocaína (art. 42 da Lei n.º 11.343/2006), não há constrangimento ilegal a ser sanado.
+5. Habeas corpus não conhecido.
+(HC 353.208/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 29/4/2016; sem grifos no original.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DO REDUTOR DE PENA PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. CIRCUNSTÂNCIAS DO CASO CONCRETO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. REGIME PRISIONAL INICIAL FECHADO. GRAVIDADE CONCRETA DA CONDUTA. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTO VÁLIDO. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 está condicionada ao preenchimento cumulativo dos seguintes requisitos legais: primariedade, bons antecedentes, não dedicação a atividades criminosas ou integração a organização criminosa. No caso, o redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006 foi afastado pelas instâncias ordinárias em razão das circunstâncias fáticas do delito. Para se desconstituir tal assertiva, como pretendido, seria necessário o revolvimento da moldura fático-probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 783.726/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022; sem grifos no original.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
