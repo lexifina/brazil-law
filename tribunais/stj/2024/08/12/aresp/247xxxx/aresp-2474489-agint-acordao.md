@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO NÃO RECONHECIDA PELO TRIBUNAL A QUO. SUPOSTA OFENSA AO ART. 1º DO DECRETO 20.910/1932. DISSOCIAÇÃO DAS RAZÕES RECURSAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Cumprimento de Sentença individual promovido por Douglas Rodrigues Martins contra o Município de Sorocaba, "objetivando o pagamento do valor de R$ 3.103,91 (fl. 88 daqueles autos), em razão do quanto decidido no âmbito da Ação Coletiva nº 1000156-81.2018.8.26.0602" (fl. 81, e-STJ).
+2. O Recurso Especial apresenta razões dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido, atraindo, na espécie, a Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles") e a Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+3. Considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter procedência verificada mediante reexame de matéria fática. Não cabe ao STJ, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto pelo Município de Sorocaba da decisão (fls. 172-174, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante sustenta, em suma:
+Não obstante, Nobres Ministros, da leitura das razões do Recurso Especial é possível extrair fundamentos suficientes para infirmar este fundamento utilizado nov. acórdão do Tribunal a quo.
+Quanto a isto, as razões recursais foram expressas ao abordar que o v. acórdão violou as normas legais que determinam que a prescrição relativa ao pagamento das parcelas vencidas deve ser contada a partir do ajuizamento da ação individual de execução, e não desde a propositura da ação coletiva, de tal sorte que não poderia a parte pretender receber valores considerando a prescrição em período alargado, desde o ajuizamento da ação coletiva.
+Houve, a bem da verdade, expressa insurgência em relação ao entendimento adotado no v. acórdão, já que as razões recursais expressamente consignaram que o fato de se tratar de apenas um cumprimento individual, como é o caso dos autos, justamente atrai a interpretação legal de que a prescrição da execução das parcelas vencidas deve ser contado a partir do ajuizamento da própria execução individual.
+Aliás, a discussão a respeito de existir duas ações (uma individual e outra coletiva) ou apenas uma individual é irrelevante para o caso, já que a norma legal quanto ao termo inicial da prescrição é o mesmo.
+É preciso observar, Nobres Ministros, que o apontamento de julgados e jurisprudência na impugnação se deram com o intuito de demonstrar a forma como este C. Superior Tribunal de Justiça vem decidindo situações semelhantes, mas a fundamentação principal está calcada em elementos de direito a partir da interpretação das normas contidas nos artigos 1º c. c. art. 3º, do Decreto 20.910/1932 e entendimento consagrado no verbete nº 85 da Súmula de Jurisprudências deste C. Superior Tribunal de Justiça.
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão do feito ao Órgão Colegiado.
+Impugnação às fls. 191-196, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO NÃO RECONHECIDA PELO TRIBUNAL A QUO. SUPOSTA OFENSA AO ART. 1º DO DECRETO 20.910/1932. DISSOCIAÇÃO DAS RAZÕES RECURSAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Cumprimento de Sentença individual promovido por Douglas Rodrigues Martins contra o Município de Sorocaba, "objetivando o pagamento do valor de R$ 3.103,91 (fl. 88 daqueles autos), em razão do quanto decidido no âmbito da Ação Coletiva nº 1000156-81.2018.8.26.0602" (fl. 81, e-STJ).
+2. O Recurso Especial apresenta razões dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido, atraindo, na espécie, a Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles") e a Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+3. Considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter procedência verificada mediante reexame de matéria fática. Não cabe ao STJ, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5 de junho de 2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Na origem, cuida-se de Cumprimento de Sentença individual promovido por Douglas Rodrigues Martins contra o Município de Sorocaba, "objetivando o pagamento do valor de R$ 3.103,91 (fl. 88 daqueles autos), em razão do quanto decidido no âmbito da Ação Coletiva nº 1000156-81.2018.8.26.0602" (fl. 81, e-STJ).
+O Colegiado originário, atento às peculiaridades do caso, assim se manifestou (fl. 93, e-STJ, grifos acrescidos):
+(..)
+Nesse quadro, em se tratando, no caso, de execução individual de título coletivo, não prospera a alegação municipal, no sentido de que "a prescrição das parcelas vencidas deve ser contada a partir do ajuizamento da execução individual, e não desde a propositura da ação coletiva, como fez a parte exequente em seus cálculos" (fl. 73).
+Aliás, é necessário apontar que os precedentes do C. Superior Tribunal de Justiça citados pelo Município em sua impugnação referem-se à situação fática distinta destes autos. Naqueles casos, existiram duas ações de conhecimento concomitantes (coletiva e individual), definindo-se o termo inicial da prescrição parcelar como sendo a propositura da ação individual. No caso presente, não foi proposta ação de conhecimento individual pela parte exequente, mas, apenas, o cumprimento individual de sentença coletiva.
+Frisa-se, a prescrição quinquenal dos créditos pretendidos deve ser computada a partir da propositura da ação coletiva, o que obsta seu reconhecimento no caso.
+O recorrente, contudo, não impugnou o ponto central do acórdão recorrido - acima transcrito e grifado - que é apto, por si só, para manter o decisum combatido. Ao proceder dessa forma, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os argumentos fornecidos pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+Ilustrativamente, cito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ART. 6º DA LINDB. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. RAZÕES RECURSAIS DISSOCIADAS DAS CONCLUSÕES DO TRIBUNALA QUO. FUNDAMENTO SUFICIENTE NÃO IMPUGNADO. SÚMULAS 283/STF E 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, ou quando a deficiência na fundamentação não permite a exata compreensão da controvérsia. Súmulas 283/STF e 284/STF, aplicadas por analogia.
+(..)
+4. Agravo interno não provido.(AgInt no AREsp 1.866.607/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/10/2021)
+Ademais, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante reexame de matéria fática. Não cabe ao STJ, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
