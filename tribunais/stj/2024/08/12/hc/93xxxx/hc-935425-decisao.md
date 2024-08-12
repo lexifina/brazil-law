@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VALDECIR RODRIGUES PASCOA contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 16 anos de reclusão, em regime inicial fechado, mais o pagamento de 35 dias-multa, como incurso no art. 157, §2º, I, II e V, por três vezes, em concurso formal, e no art. 288, parágrafo único, todos do Código Penal (e-STJ, fls. 24-38).
+Interposta apelação, a Corte Estadual deu parcial provimento ao recurso da defesa, para julgar extinta a punibilidade do paciente em relação ao delito do art. 288 do CP, em razão da prescrição da pre tensão punitiva retroativa, e reduzir a pena a ele imposta pelo roubo, fixando-a em 10 anos e 6 meses de reclusão, mantido o regime prisional inicial fechado, mais o pagamento de 26 dias-multa. O aresto foi acostado aos autos às fls. 39-55, e-STJ.
+Neste writ, a defesa alega, em síntese, a ocorrência de constrangimento ilegal na dosimetria da pena imposta ao paciente, eis que a Corte Estadual "fixou  em razão das circunstâncias do artigo 59 do Código Penal, tal como culpabilidade, personalidade do agente e consequências dos crimes. Acontece que, a circunstância judicial da conduta social é avaliada como o agente age e se vincula na sociedade, e não se possui antecedentes criminais, não cabendo jamais ser utilizada incriminações anteriores para a valoração da conduta social" (e-STJ, fl. 9).
+Aduz que não foi declinada motivação idônea para o incremento da pena-base, sendo apresentados elementos inerentes ao tipo penal, já considerados para a tipificação da conduta.
+Sustenta que, caso mantidas vetoriais desabonadoras, que o aumento seja efetivado em patamar menos elevado, e ressalta ser indevido o aumento da reprimenda pela presença de três causas de aumento, somente pelo critério matemático, sem qualquer fundamentação, o que ofenderia o disposto na Súmula 443/STJ.
+Requer, liminarmente e no mérito, a concessão da ordem, para que seja redimensionada a pena imposta ao paciente.
+É o relatório.
+Decido.
+Em consulta à base de dados processuais desta Corte, verifica-se que este habeas corpus traz pedido que já foi apreciado por esta Corte nos autos do HC822.546/SP, onde foi requerida a extensão da ordem concedida ao corréu Oraci Humberto Galdino. Na oportunidade, foi concedida ordem, de ofício, a fim redimensionar a pena imposta ao paciente, tendo sido analisados os fundamentos da pena-base aplicada ao réu, bem como o quantum de aumento, além de ter sido reduzida a majoração efetivada na terceira fase da dosimetria, estabelecendo-se a pena do paciente em 10 anos de reclusão, mantido o regime inicial fechado.
+Desse modo, tratando-se de reiteração de processo anteriormente apreciado por esta Corte, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
