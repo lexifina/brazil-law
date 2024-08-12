@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Defensoria Pública do Estado do Tocantins com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fls. 110/111):
+APELAÇÃO CÍVEL. LIQUIDAÇÃO DE SENTENÇA VISANDO O RECEBIMENTO DE HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM FAVOR DA DEFENSORIA PÚBLICA. AUSÊNCIA DE BASE DE CÁLCULO NA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM PROCESSO TRANSITADO EM JULGADO. NECESSIDADE DE AÇÃO AUTÔNOMA, INTELIGÊNCIA DO ARTIGO 85, § 18, CPC. RECURSO CONHECIDO E NÃO PROVIDO.
+1. No novo Código de Processo Civil, a liquidação de sentença foi concebida como um módulo do procedimento do processo de conhecimento, não tendo aptidão para inaugurar novo processo, mantendo-se vinculada à relação processual inicialmente estabelecida.
+2. No caso, vê-se que ao proferir a sentença nos autos da ação de obrigação de fazer nº 0000159-42.2016.827.2721, o Juiz sentenciante condenou o Município de Guaraí ao pagamento de honorários advocatícios em favor da Defensoria Pública, porém, não fixou valor ou percentual da verba sucumbencial.
+3. Ausente a base de cálculo na fixação dos honorários advocatícios em processo transitado em julgado, impõe-se a correção respectiva por meio de ação autônoma, nos termos do disposto no artigo 85, § 18, do Código de Processo Civil. Assim, impõe-se que eventual direito a honorários sucumbenciais seja pleiteado em ação autônoma, para fins de definição e cobrança dos valores apurados.
+4. Considerando que a recorrente ajuizou o procedimento de liquidação de sentença previsto no artigo 509 do CPC para o recebimento de honorários advocatícios, coaduno com o entendimento consignado na sentença de inadequação da via eleita.
+5. Recurso conhecido e não provido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 85, § 18, e 509 do CPC, sustentando que a presente ação autônoma decorre do fato de não ter sido fixada a quantia devida a título de honorários advocatícios ao vencido, o que "enseja justamente o processo de liquidação de sentença, com o intuito de averiguar o valor  ..  a serem recebidos" (fl. 123).
+Salienta que "a Ação de Liquidação ajuizada pela Recorrente é uma ação autônoma em que haverá citação do réu, prazo para apresentar contestação, designação de audiência, ou seja, o procedimento adotado em primeira instância foi coerente com o que determina a legislação" (fl. 125).
+Foram ofertadas contrarrazões às fls. 136/141.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origem asseverou (fls. 102/104):
+No caso, vê-se que ao proferir a sentença nos autos da ação de obrigação de fazer nº 0000159-42.2016.827.2721, o Juiz sentenciante condenou o Município de Guaraí ao pagamento de honorários advocatícios em favor da Defensoria Pública, porém, não fixou valor ou percentual da verba sucumbencial, senão vejamos:
+Posto isso, com fundamento no artigo 487, I do CPC, resolvo o mérito. Julgo Procedente o pedido da inicial e, assim:
+a. Condeno o requerido o fornecimento mensamente do medicamento denominado Januvia 100 mg e Cloridratode Fluoxetina 20 mg, e, Fitas Reagentes para Teste de Glicemia; bem como, a entrega da Máquina de Monitoração de Glicemia. (sic.) b. Condeno o Requerido ao pagamento de custas processuais e honorários em favor da Defensoria Pública do Estado do Tocantins. (g. n.)
+Com efeito, ausente a base de cálculo na fixação dos honorários advocatícios em processo transitado em julgado, impõe-se a correção respectiva por meio de ação autônoma, nos termos do disposto no artigo 85, § 18, do Código de Processo Civil:
+ ..
+Assim, impõe-se que eventual direito a honorários sucumbenciais seja pleiteado em ação autônoma, para fins de definição e cobrança dos valores apurados.
+ ..
+Desse modo, considerando que a recorrente ajuizou o procedimento de liquidação de sentença previsto no artigo 509 do CPC para o recebimento de honorários advocatícios, coaduno com o entendimento consignado na sentença de inadequação da via eleita.
+Acrescenta-se que o art. 509, inciso II, do CPC prevê que "quando a sentença condenar ao pagamento de quantia ilíquida, proceder-se-á à sua liquidação, a requerimento do credor ou do devedor: pelo procedimento comum, quando houver necessidade de alegar e provar fato novo". Sendo assim, é possível asseverar que, a liquidação por artigos será utilizada quando o credor pretender alegar e, por óbvio, provar fatos novos, situação que não se ajusta ao caso.
+O acórdão recorrido está consoante jurisprudência desta Corte, a qual compreende que, omisso o título judicial sobre o valor ou base de cálculo dos honorários advocatícios, após o trânsito em julgado, não cabe o manejo de liquidação de sentença, mas o ajuizamento de ação autônoma para a definição desse consectário.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA OMISSA (CPC/2015, ART. 85, § 18). IMPOSSIBILIDADE DE FIXAÇÃO EM CUMPRIMENTO DE SENTENÇA. SÚMULA 453/STJ. PARCIAL SUPERAÇÃO. POSSIBILIDADE DE AÇÃO AUTÔNOMA. AGRAVO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Esta Corte possui entendimento sumulado de que "os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria" (Súmula 453/STJ).
+3. Com o advento do novo Código de Processo Civil, ficou parcialmente superada a inviabilidade reconhecida no aludido enunciado sumular, em sua parte final ("ou em ação própria"), pois o art. 85, § 18, do Código prevê expressamente a possibilidade de ser ajuizada ação autônoma, ou seja, ação própria, para a definição e cobrança de honorários sucumbenciais omitidos em decisão transitada em julgado.
+4. Na hipótese, ao julgar improcedente a ação em relação ao ora agravante, a sentença foi omissa no tocante aos honorários advocatícios sucumbenciais, sendo a fase de cumprimento de sentença meio impróprio para dedução de tal pretensão, ressalvando-se ao causídico legitimado o ajuizamento de ação autônoma.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.979.888/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 27/3/2023)
+PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA SENTENÇA. REFORMA NO JUÍZO DE SEGUNDO GRAU. OMISSÃO DA NECESSÁRIA INVERSÃO DA VERBA. TRÂNSITO EM JULGADO. COBRANÇA DE HONORÁRIOS EM CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. NECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA. ART. 85, §18, DO CPC/2015.
+I - O art. 85, §18, do CPC/2015 estabelece que, transitada em julgado a decisão, caso haja omissão quanto à fixação de honorários, é cabível ação autônoma para definição e cobrança.
+II - Na hipótese dos autos, existindo reforma total da sentença que havia condenado o recorrente em honorários, embora a inversão da verba seja automática, a decisão que transitou em julgado foi omissa nessa parte, sendo impositivo, naquela oportunidade, que o causídico tivesse oposto embargos de declaração manifestando a omissão da referida inversão. Não o fazendo, transitou em julgado a decisão na qual não constou a necessária fixação de honorários.
+III - Nessa hipótese, resta ao causídico ajuizar ação própria para pleitear a fixação de honorários advocatícios partindo da definição do percentual de honorários fixados no Juízo de primeiro grau.
+IV - Recurso especial improvido.
+(REsp n. 1.884.778/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/5/2022, DJe de 27/5/2022)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS OMITIDOS NO TÍTULO JUDICIAL. IMPOSSIBILIDADE DE COBRANÇA EM EXECUÇÃO. SÚMULA 453/STJ. POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO AUTÔNOMA. ART. 85, § 18, DO CPC. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir se é possível que os honorários advocatícios sucumbenciais, omitidos na decisão exequenda, sejam objeto de cobrança na fase de cumprimento de sentença.
+2. No caso em questão, o Tribunal de origem, apesar de ter reconhecido que não foram fixados honorários na fase de conhecimento, julgou válida a sua cobrança em cumprimento de sentença, ante a natureza de ordem pública da matéria e a natureza alimentar dessa verba, bem como por entender que ela é devida independentemente de previsão expressa no título judicial.
+3. Esta Corte possui entendimento sumulado no sentido de que "os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria."
+(Súmula 453/STJ).
+4. Com o advento do atual Código de Processo Civil, no entanto, a parte final do enunciado sumular ("ou em ação própria") ficou superada, pois o art. 85, §18, do CPC prevê a possibilidade de ser ajuizada ação autônoma para a definição e cobrança dos honorários sucumbenciais omitidos em decisão transitada em julgado. Precedente.
+5. Recurso especial provido para reconhecer a inexigibilidade da cobrança dos honorários omitidos na fase de conhecimento, ressalvada a possibilidade de ajuizamento de ação autônoma para definição e cobrança dessa verba sucumbencial..
+(REsp n. 1.919.800/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/4/2021, DJe de 27/4/2021)
+ANTE O EXPOSTO, nega-se provimento a o recurso especial. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
