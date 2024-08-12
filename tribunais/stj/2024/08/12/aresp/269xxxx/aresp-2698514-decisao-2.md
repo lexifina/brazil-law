@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A. contra decisão que inadmitiu recurso especial fundamentada nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/04/2024.
+Concluso ao gabinete em: 07/08/2024.
+Ação: de obrigação de fazer com pedido de tutela de urgência e compensação por danos morais ajuizada por ROGERIO NETTO DOS SANTOS em face da agravante visando a cobertura de internação e exame de urgência, negado por falta de cumprimento da carência.
+Sentença: julgou procedente a demanda para condenar a agravante na cobertura do atendimento médico necessário e no pagamento de compensação por danos morais no valor de R$ 20.000,00 (vinte mil reais).
+Acórdão: deu parcial provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+DIREITOS CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS. PROCEDÊNCIA DA PRETENSÃO. APELAÇÃO CÍVEL. PLANO DE SAÚDE. CATETERISMO. PRESCRIÇÃO MÉDICA. PRAZO DE CARÊNCIA. IRRELEVÂNCIA. PROCEDIMENTO DE URGÊNCIA/EMERGÊNCIA. ENUNCIADO Nº 597 DA SÚMULADO STJ. ENUNCIADO Nº 30 DA SÚMULA DO TJRN. RECUSA ABUSIVA. LIMITAÇÃO DA INTERNAÇÃO POR TEMPO DETERMINADO. DOZE PRIMEIRAS HORAS (RESOLUÇÃO Nº 13/1998 DO CONSELHO DE SAÚDE SUPLEMENTAR). NORMA DE HIERARQUIA INFERIOR QUE NÃO PODE RESTRINGIR O QUE A LEIESPECIAL NÃO RESTRINGE. PRECEDENTES. DANOS MORAIS CARACTERIZADOS. INDENIZATÓRIO NA ORIGEM (R$ 20.000,00). REDUÇÃO (R$ 5.000,00). QUANTUM PROPORCIONALIDADE E RAZOABILIDADE. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. ARBITRAMENTO. PROVIMENTO PARCIAL DO RECURSO.
+Recurso especial: alega violação dos arts. 12, V, "b" e VI, 16 e 35-C da Lei 9656/98, 54, §§ 3º e 4º e 42, parágrafo único do CDC, bem como dissídio jurisprudencial. Sustenta a legalidade da previsão contratual de carência, e defende a inexistência de quaisquer atos ilícitos, tendo a parte beneficiária sido regularmente atendida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+Nos termos da jurisprudência desta Corte, é abusiva a negativa, pela operadora de plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando injusta recusa de cobertura, a ensejar reparação por dano moral. Nesse sentido: AgInt no REsp 2.002.772/DF, Terceira Turma, julgado em 28/11/2022, DJe de 9/12/2022; AgInt no AREsp 1.902.458/SP, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022; AgInt no REsp 1.832.535/SP, Quarta Turma, julgado em 12/9/2022, DJe de 29/9/2022; AgInt no AREsp 1.994.842/AP, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022; AgInt no AREsp 1.942.424/PE, Terceira Turma, julgado em 6/6/2022, DJe de 10/6/2022; AgInt no AREsp 1.903.044/SP, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fls. 599) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. COM PEDIDO DE TUTELA DE URGÊNCIA E COMPENSAÇÃO POR DANOS MORAIS. INTERNAÇÃO E EXAME DE URGÊNCIA. CARÊNCIA NÃO CUMPRIDA. RECUSA INDEVIDA.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Nos termos da jurisprudência desta Corte, é abusiva a negativa, pela operadora de plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando injusta recusa de cobertura, a ensejar reparação por dano moral. Precedentes.
+3. Recurso especial conhecido e desprovido.
