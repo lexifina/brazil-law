@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE ALUGUEL. CONTRATO DE LOCAÇÃO COMERCIAL. CITAÇÃO DA SOCIEDADE RÉ NO ENDEREÇO APONTADO COMO SENDO DO SÓCIO. CARTA RECEBIDA PELO PORTEIRO DO PRÉDIO. REVELIA. SENTENÇA DE PROCEDÊNCIA DETERMINANDO A REDUÇÃO DO VALOR DO ALUGUEL. FASE DE CUMPRIMENTO DE SENTENÇA. NOTÍCIA DE EXTINÇÃO DA PESSOA JURÍDICA RÉ. INGRESSO DOS SÓCIOS NO POLO PASSIVO POR SUCESSÃO PROCESSUAL. COMPARECIMENTO ESPONTÂNEO DE UM DOS SÓCIOS NO PROCESSO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ALEGANDO NULIDADE DA CITAÇÃO E EXCESSO NA EXECUÇÃO. ENDEREÇO DE ENTREGA DA CARTA DE CITAÇÃO QUE NÃO CORRESPONDE AO LOCAL DE RESIDÊNCIA DOS SÓCIOS. DECISÃO AGRAVADA QUE REJEITOU OS PEDIDOS. INCONFORMISMO. 1. NULIDADE DA CITAÇÃO. ACOLHIMENTO. CASO CONCRETO EM QUE A CARTA FOI ENTREGUE NA PORTARIA DE UM PRÉDIO RESIDENCIAL. AUSÊNCIA DE ELEMENTO PROBATÓRIO SEGURO SOBRE A REGULARIDADE DO ENDEREÇO DE CUMPRIMENTO DA CITAÇÃO. AUTOR QUE NÃO FEZ PROVA DE QUE O LOCAL SE TRATAVA DA RESIDÊNCIA DO RÉU. NULIDADE RECONHECIDA. DEVOLUÇÃO DO PRAZO PARA APRESENTAÇÃO DE CONTESTAÇÃO. DECISÃO REFORMADA. 2. ALEGAÇÃO DE EXCESSO NA EXECUÇÃO. ANÁLISE PREJUDICADA. .
+RECURSO CONHECIDO E PROVIDO"
+Opostos embargos de declara ção, foram rejeitados.
+A agravante aponta , além de divergência jurisprudencial, violação aos arts. 248, § 4, e 373, inciso II, do Código de Processo Civil, sustentando a validade da citação efetivada no caso, uma vez que a notificação foi enviada ao endereço correto do sócio da empresa.
+Contrarrazões às fls. 178/193 e-STJ.
+Juízo negativo de admissibilidade proferido à fls. 194/195 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Incide à espécie a Súmula 7/STJ. Explico.
+O Tribunal de origem, ao apreciar a controvérsia, com base nos elementos probatórios constantes dos autos, consignou expressamente que o endereço constante no aviso de recebimento acostado aos autos não corresponde ao endereço do sócio sob o qual teria recaído a citação e que:
+"Embora o autor, agravado, insista em defender a regularidade da citação, alegando que o endereço no qual foi cumprida a citação está correto, porque o sócio Luciano ajuizou uma ação indicando esse mesmo endereço como residencial, é preciso considerar que a referida ação (0066434-64.2011.8.16.0001) foi ajuizada em 14 de dezembro de 2011 e a entrega da carta de citação dos autos aqui originários (0024277-66.2017.8.16.0001) na portaria do mesmo local se deu em agosto de 2018, não sendo possível concluir com segurança, pelo transcurso de tempo, que efetivamente a carta tenha chegado ao destinatário, porque não há indicativo de que ele ainda residisse no local"
+Verifica-se, portanto, que para a revisão da conclusão de que a citação não foi efetivada com sucesso seria necessário o reexame do contexto probatório dos autos.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
