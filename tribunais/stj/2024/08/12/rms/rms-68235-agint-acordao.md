@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. PAD. POLICIAL MILITAR AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CASSAÇÃO DE APOSENTORIA. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. DECISÃO DO CONSELHO DE JUSTIFICAÇÃO. FATOS OCORRIDOS ANTES DA RESERVA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de ser constitucional a pena de cassação de aposentadoria, não obstante o caráter contributivo de que se reveste o benefício previdenciário.
+III - Em mesmo sentido, a jurisprudência do STJ fixou orientação segundo a qual é possível a aplicação da penalidade de exclusão das fileiras ao policial militar reformado, em decorrência de crimes praticados quando ainda no serviço ativo.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão que negou provimento ao Recurso Ordinário, fundamentada na orientação desta Corte que afirma a constitucionalidade da cassação de aposentadoria na hipótese de rompimento do vínculo com a Administração Pública do militar indigno para o oficialato.
+Defende que a exclusão da corporação não pode repercutir nos benefícios previdenciários para os quais efetivamente contribuiu, sob pena de ofensa ao direito adquirido ao benefício previdenciário, com fundamento na quitação das respectivas contribuições mensais
+Ademais, o Conselho de Justificação não poderia ter determinado a cassação dos proventos de militar inativo, porquanto a Justiça Militar não determinou a aplicação de tal medida.
+Insiste na tese de que a legislação estadual só prevê a cassação de aposentadoria na hipótese de sentença penal condenatória transitada em julgado.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do Colegiado.
+O prazo para apresentação de impugnação transcorreu in albis (certidão à fl. 257e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. PAD. POLICIAL MILITAR AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CASSAÇÃO DE APOSENTORIA. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. DECISÃO DO CONSELHO DE JUSTIFICAÇÃO. FATOS OCORRIDOS ANTES DA RESERVA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de ser constitucional a pena de cassação de aposentadoria, não obstante o caráter contributivo de que se reveste o benefício previdenciário.
+III - Em mesmo sentido, a jurisprudência do STJ fixou orientação segundo a qual é possível a aplicação da penalidade de exclusão das fileiras ao policial militar reformado, em decorrência de crimes praticados quando ainda no serviço ativo.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao Agravante.
+Trata-se de recurso objetivando a anulação da cassação dos proventos decorrente de procedimento disciplinar no Conselho de Justificação, após o julgamento do Tribunal de Justiça Militar estadual.
+O Supremo Tribunal Federal firmou o entendimento no sentido de ser constitucional a pena de cassação de aposentadoria, não obstante a natureza contributiva do benefício previdenciário, ainda quando se tratar de policial militar.
+Confirmando tal orientação:
+RECURSO EXTRAORDINÁRIO COM AGRAVO - POLICIAL MILITAR - RESERVA REMUNERADA - CASSAÇÃO DE APOSENTADORIA - POSSIBILIDADE - DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL - CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA - SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA - SUCUMBÊNCIA RECURSAL (CPC/15, ART. 85, § 11) - NÃO DECRETAÇÃO, NO CASO, ANTE A INADMISSIBILIDADE DE CONDENAÇÃO EM VERBA HONORÁRIA, POR TRATAR-SE DE PROCESSO DE MANDADO DE SEGURANÇA (SÚMULA 512/STF E LEI Nº 12.016/2009, ART. 25) - AGRAVO INTERNO IMPROVIDO.
+(ARE 1220543 ED-AgR, Relator(a): CELSO DE MELLO, Segunda Turma, julgado em 4.5.2020, DJe 15.5.2020 - destaquei).
+Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Policial Militar. Demissão. Preenchimento dos requisitos para aposentadoria antes da aplicação da sanção. Irrelevância, na medida em que a penalidade de cassação de aposentadoria poderia ser aplicada à infração cometida. 4. Acórdão recorrido em consonância com a jurisprudência desta Corte. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. Majoração dos honorários advocatícios em 10%.
+(ARE 1100391 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 25.5.2018, DJe 6.6.2018 - destaquei).
+Em mesma direção, esta Corte pacificou orientação segundo a qual é possível a aplicação da penalidade de exclusão das fileiras ao policial militar reformado, em decorrência de crimes praticados quando ainda no serviço ativo.
+Nesse sentido:
+DIREITO ADMINISTRATIVO MILITAR. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EXCLUSÃO EX OFFICIO A BEM DA DISCIPLINA. PERDA DO DIREITO À REFORMA. LEGALIDADE. AGRAVO NÃO PROVIDO.
+1. Em razão do que prescreve o art. 42 da Constituição Federal, sujeita-se o policial militar aos princípios da hierarquia e da disciplina, inerentes e basilares da carreira que voluntariamente abraçou.
+2. "A disciplina e o respeito à hierarquia devem ser mantidos em todas as circunstâncias da vida entre os militares da ativa, da reserva remunerada e reformados, ainda que no âmbito civil, sob pena de prática de ato contrário ao dever militar" (ABREU, Jorge Luiz Nogueira de. Direito administrativo militar. São Paulo: Método, 2010, p. 293).
+3. Por tal razão, cabível se revela a cassação da aposentadoria (reserva), com a cessação do pagamento de proventos, em decorrência de crimes praticados pelo militar quando ainda no serviço ativo. Precedentes do STJ.
+4. A infração disciplinar, mormente no ambiente castrense, tem repercussões que extrapolam o âmbito individual, influenciando nocivamente, não só no seio da tropa, mas também maculando a imagem da corporação junto à sociedade que a organizou e a sustém, e à qual deve servir.
+5. A exclusão ex officio de militar da Corporação, a bem da disciplina, em razão de crime cometido quando ainda no serviço ativo (corrupção passiva), retira-lhe, também, o direito de passar à reserva remunerada, sob pena de, não o fazendo o Poder Público, quedar inócua a reprimenda ao transgressor (sentido repressivo da sanção) e esvaziar, para o restante da tropa, o propósito pedagógico e dissuasivo da penalidade (sentido preventivo da sanção).
+6. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 61.024/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22.10.2019, DJe de 28.10.2019 - destaquei).
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CASSAÇÃO DE PROVENTOS DE POLICIAL MILITAR. POSSIBILIDADE.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+2. O Tribunal de origem consignou: "Esta Corte, majoritariamente, firmou o entendimento de que, inobstante o caráter contributivo de que se revestem os proventos da reforma, é, sim, aplicável a sua cassação, por ser inconcebível que um policial militar que deixa de observar os preceitos contidos no Regulamento Disciplinar da Polícia Militar, violando-o tão gravemente, ao ponto de levar à declaração de sua incompatibilidade para o oficialato da Polícia Militar, mantenha qualquer vínculo com a Administração Pública. (..)
+Ressalte-se que o então justificante, praticou o ato que resultou na decretação da perda de seu posto e patente quando ainda não havia sido reformado. (..) A fim de expurgar quaisquer dúvidas a respeito da possibilidade de cassação dos proventos da inatividade do militar, colacionam-se as recentes decisões do Pretório Excelso a respeito (..)". (fls. 304-305, e-STJ) 3. Com efeito, a orientação jurisprudencial tanto do Supremo Tribunal Federal quanto do Superior Tribunal de Justiça admitem a aplicação da sanção disciplinar "cassação de aposentadoria" contra militares que, embora aposentados, tenham cometido faltas graves ainda em atividade.
+4. Agravo Interno não provido.
+(AgInt no RMS n. 59.454/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15.8.2019, DJe de 10.9.2019).
+No caso, a aplicação da pena de cassação não decorreu de mero consectário da decisão da Justiça Militar, ao contrário, a punição do militar decorreu de processo administrativo conduzido pelo Conselho de Justificação após a decisão da justiça castrense.
+Além do mais, o parágrafo único do art. 1º da Lei n. 5.836/1972 expressamente estabelece a competência do Conselho de Justificação para apreciação da incapacidade do oficial da reserva remunerada ou reformado, presumivelmente incapaz de permanecer na situação de inatividade.
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016 - destaque meu).
+No caso, apesar do improvimento do Agravo Interno, não se configura a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+É o voto.
