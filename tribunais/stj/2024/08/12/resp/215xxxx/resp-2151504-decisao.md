@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por Geovanni Xavier, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 1503941-20.2020.8.26.0506, assim ementado (fl. 260):
+FURTO RECURSO DEFENSIVO: fixação do regime aberto e substituição da pena privativa de liberdade por restritiva de direitos inadmissibilidade reincidência novo crime praticado antes mesmo da extinção da penalidade imposta na condenação anterior necessidade de maior rigor na penalização observâncias dos princípios da individualização e da proporcionalidade inteligência dos §§ 2º e 3º, do art. 33, e incs. II e III, do art, 44, ambos do CP DESPROVIMENTO.
+No recurso especial, a defesa aponta violação dos arts. 33, 44 e 59 do Código Penal, sob a tese de que apenas a reincidência do réu não justifica a imposição do regime inicial semiaberto e a não substituição da pena privativa de liberdade por restritivas de direitos.
+Afirma que, tendo a pena-base sido aplicada no mínimo legal, a gravidade em abstrato do delito ou a opinião do julgador não servem como base para fixação de regime mais gravoso do que a lei estabelece, sob pena de literal afronta ao enunciado de súmula 440 do STJ (fl. 278).
+Ressalta que, segundo dispõe o § 3º, do artigo 44, do Código Penal, tem aplicação a substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que a reincidência não é específica, isto é, não diz respeito à prática do mesmo crime. Além disso, não há nada a indicar que a medida não seja socialmente recomendável, pelo contrário (fl. 279).
+Ao final da peça recursal, requer o provimento da insurgência para fixar o regime inicial aberto e substituir a pena privativa de liberdade por restritivas de direitos.
+Oferecidas contrarrazões (fls. 284/291), o recurso especial foi parcialmente admitido na origem (fls . 294/295).
+O Ministério Público Federal opina pelo desprovimento da insurgência, nos termos da seguinte ementa (fl. 304):
+RECURSO ESPECIAL. FIXAÇÃO DE REGIME. REINCIDÊNCIA. ALEGADA DESPROPORCIONALIDADE NA FIXAÇÃO DO REGIME INICIAL SEMIABERTO. PENA-BASE FIXADA NO MÍNIMO LEGAL. CONDENAÇÃO. PLEITO DE SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA. IMPOSSIBILIDADE DIANTE DO CASO ANALISADO PELO TRIBUNAL. FUNDAMENTAÇÃO IDÔNEA.
+- PARECER PELO IMPROVIMENTO DO RECURSO.
+É o relatório.
+Para elucidação do quanto requerido, do combatido aresto extraem-se os seguintes fundamentos a respeito do regime carcerário e da substituição da pena (fl. 262 - grifo nosso):
+ ..  Com efeito, como se observa da certidão criminal, o réu ostenta reincidência pela prática de crime de roubo e voltou à criminalidade antes mesmo da extinção da pena anterior (fl. 74), o que demonstra sua predisposição à criminalidade, em especial de natureza patrimonial, descaso com a justiça e a ordem social, exigindo maior rigor na penalização e, portanto, adequado o regime inicial semiaberto, como medida necessária e suficiente à prevenção e reprovação do crime, em observância aos princípios da individualização da pena e da proporcionalidade e dos §§ 2º e 3º, do art. 33, do Código Penal.
+Pelos mesmos motivos, incabível a substituição da pena privativa de liberdade por restritiva de direitos, nos termos dos incs. II e III, do art. 44, do estatuto repressivo.
+ ..
+Da leitura do excerto acima transcrito, verifica-se que o acórdão recorrido se encontra em consonância com o disposto nos arts. 33, § 2º, c, e 44, § 3º, do Código Penal, e com a jurisprudência desta Corte, no sentido de que a reincidência impede o resgate da reprimenda corporal no modo aberto, ainda que a pena seja inferior a 4 anos, bem como sua substituição por penas restritivas de direitos, já que a condenação anterior se deu em crime violento de roubo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGSO DE DECLRAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. RECEPTAÇÃO. PENA INFERIOR A 4 ANOS. RÉU REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. REGIME FECHADO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão monocrática por Ministro Relator não viola o Princípio da Colegialidade, como sugere a defesa do agravante, pois está autorizada pelo art. 34, inciso XX, do Regimento Interno desta Corte. Tal entendimento foi consolidado pela jurisprudência deste Tribunal, expressa no enunciado n. 568 da Súmula do Superior Tribunal de Justiça.
+2. É pacífico o entendimento desta Corte Superior no sentido de admitir a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a 4 (quatro) anos, se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ. Na espécie, contudo, o agravante, além de reincidente, possui maus antecedentes, tendo as instâncias ordinárias adotado a referida vetorial desfavorável para afastar a pena-base do seu mínimo legal, o que afasta a incidência da Súmula n. 269/STJ, e constitui fundamentação idônea para a imposição do regime inicial fechado.
+3. No caso concreto, diante da inércia ministerial foi fixado o regime semiaberto, o que já se mostra bastante benéfico ao recorrente.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AgRg no AREsp n. 2.321.835/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023 - grifo nosso).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. SANÇÃO INFERIOR A QUATRO ANOS. REGIME INICIAL SEMIABERTO E NÃO SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. RÉ REINCIDENTE. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 83 STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reincidência pode justificar a fixação do regime inicial semiaberto e a não substituição da pena privativa de liberdade aos condenados à sanção inferior a 4 anos de reclusão. Precedentes. Incidência do disposto na Súmula n. 83 do STJ.
+2. Na hipótese, em que pese a sanção haver sido inferior a 4 anos, o regime inicial semiaberto e a não substituição da pena privativa de liberdade foram devidamente justificados na reincidência da acusada.
+3. A questão relativa ao fato de a acusada ser genitora de criança menor de 12 anos não foi submetida à apreciação da Corte de origem, o que, além da ausência de prequestionamento, significa inovação recursal indevida.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.204.191/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/3/2023 - grifo nosso).
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. MEDIDA NÃO RECOMENDÁVEL. REINCIDÊNCIA. PRIMEIRO CRIME COMETIDO (ROUBO) TEM A VIOLÊNCIA (OU GRAVE AMEAÇA) COMO ELEMENTO DA TIPICIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. No caso, a decisão agravada deve ser mantida, pois inaplicável a regra prevista no art. 44, § 3º, do CP, uma vez que não se mostra socialmente recomendável, isso porque o primeiro crime cometido pelo agravante (roubo) tem a violência (ou grave ameaça) como elemento típico objetivo. Apesar de não existir reincidência específica para os fins do art. 44, § 3º, do CP, este STJ já rejeitou a substituição em hipóteses análogas, porque a análise da suficiência do benefício, para os réus reincidentes, deve ser feita à luz da condenação anterior (AgRg no AREsp n. 1.716.664/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe de 31/8/2021).
+2. Agravo regimental improvido.
+(AgRg no HC n. 775.644/SC, de minha relatoria, Sexta Turma, DJe de 16/3/2023 - grifo nosso ).
+Portanto, inviável o acolhimento do pleito defensivo.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO. VIOLAÇÃO DOS ARTS. 33, 44 E 59 DO CP. REGIME CARCERÁRIO INICIAL. PENA INFERIOR A 4 ANOS. RÉU REINCIDENTE. MODO ABERTO INVIÁVEL. SUBSTITUIÇÃO DA PENA NÃO RECOMENDÁVEL EM FACE DA CONDENAÇÃO ANTERIOR.
+Recurso especial não provido.
