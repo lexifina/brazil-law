@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA JULGADA PROCEDENTE. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELO RECONHECIMENTO DA LEGITIMIDADE PASSIVA, AUSÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO, E DE NÃO CONFIGURAÇÃO DA PRESCRIÇÃO DA PRETENSÃO AUTORAL. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do colegiado originário - acerca da ausência de configuração da prescrição do pedido autoral e do alegado litisconsórcio passivo necessário, bem como pela legitimidade passiva da insurgente, para assim acolher a pretensão recursal, nos moldes em que requerida - demandaria necessariamente o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ASSOCIAÇÃO PARAIBANA DO MINISTÉRIO PÚBLICO contra a decisão de fls. 487-491 (e-STJ), da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial por ela manejado, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA JULGADA PROCEDENTE. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELO RECONHECIMENTO DA LEGITIMIDADE PASSIVA, AUSENCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO, E DE PRESCRIÇÃO DA PRETENSÃO AUTORAL. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O recurso especial foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal do Estado da Paraíba assim ementado (fls. 384-385, e-STJ):
+APELAÇÃO CÍVEL AÇÃO DE COBRANÇA. PRELIMINAR DE NULIDADE DA. SENTENÇA ANTE A EXISTÊNCIA DE LITISCONSORTE PASSIVO NECESSÁRIO. INEXISTÊNCIA. REJEIÇÃO. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. PRAZO DECENAL. INOCORRÊNCIA. REJEIÇÃO. MÉRITO. DIFERENÇA DE PECÚLIO RECEBIDO E O DEVIDO. PREVISÃO NA REDAÇÃO ANTERIOR DO ESTATUTO DA ASSOCIAÇÃO PARAIBANA DO MINISTÉRIO PÚBLICO. DELIBERAÇÃO EM ASSEMBLEIA GERAL EXTRAORDINÁRIA PELA REDUÇÃO DO PECÚLIO. DESRESPEITO AO QUÓRUMDE INSTALAÇÃO. NULIDADE DA ALTERAÇÃO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO.
+- Considerando que a Associação possui personalidade jurídica, cabe a esta a defesa em Juízo de seus atos (alterações estatutárias, por exemplo), não havendo que se falar em litisconsórcio passivo necessário.
+- Tendo a Ação sido ajuizada em 2009 e a alteração estatutária impugnada ocorrido em 2006,não se consumou o prazo prescricional previsto no art. 205 do CC.
+- A alteração remuneratória dos membros do parquet para subsídio não altera seu conteúdo, porquanto a expressão "vencimentos" contida no dispositivo compreende a remuneração dos membros do Parquet, independentemente da modalidade.
+- A alteração do art. 61 do Estatuto do Ministério Público, através da Assembleia Extraordinária ocorrida em 22/05/2006 não é válida, pois foi instalada em segunda convocação sem a maioria absoluta dos associados (ferindo o artigo 24 do Estatuto).
+Para modificação estatutária seria necessária a presença de pelo menos 1/3 dos associados em qualquer convocação, quórum que não teria sido alcançado com apenas 79 associados (violando o artigo 13 do Estatuto).
+Nas razões do recurso especial (fls. 401-409, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 114 do Código de Processo Civil de 2015 e 206, § 1º, II, do Código Civil de 2002.
+Sustentou, em suma:
+(i) estar configurada a prescrição da pretensão autoral, de anular a alteração do Estatuto da AMPPB, ocorrido em 22/5/2006, tendo em vista o escoamento integral do prazo prescricional ânuo aplicável à espécie, porquanto a presente demanda somente foi ajuizada em 2009;
+(ii) sua ilegitimidade passiva para compor o polo passivo deste feito, tendo em vista a necessidade de formação de litisconsórcio passivo necessário com todos os associados, pois "esta não passa de mera gestora dos valores repassados pelos associados" (fl. 405, e-STJ), sob pena de nulidade da decisão recorrida.
+Em razão do juízo prévio negativo de admissibilidade a insurgente interpôs agravo, do qual se conheceu para não conhecer do recurso especial, ante a aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido.
+Neste agravo interno (fls. 494-498, e-STJ), a agravante pugna pela inaplicabilidade do óbice apontado para o não conhecimento de seu reclamo, ao tempo que repisa as mesmas razões trazidas no recurso especial.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Sem impugnação, conforme certificado à fl. 503 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA JULGADA PROCEDENTE. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELO RECONHECIMENTO DA LEGITIMIDADE PASSIVA, AUSÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO, E DE NÃO CONFIGURAÇÃO DA PRESCRIÇÃO DA PRETENSÃO AUTORAL. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do colegiado originário - acerca da ausência de configuração da prescrição do pedido autoral e do alegado litisconsórcio passivo necessário, bem como pela legitimidade passiva da insurgente, para assim acolher a pretensão recursal, nos moldes em que requerida - demandaria necessariamente o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Conforme asseverado na decisão agravada, no caso em estudo, o Tribunal de origem, ao dirimir a controvérsia concluiu pela ausência de litisconsórcio passivo necessário, pela não configuração da prescrição do pedido autoral, pela legitimidade passiva da recorrente, bem como por ser indevida a redução da complementação de seu pecúlio de 1/30 para 1/60 de seus vencimentos, nos termos da seguinte transcrição (fls. 386-390, e-STJ - sem grifos no original):
+Relatam os autos que Maria Bernadete Nóbrega ajuizou Ação de Cobrança, pleiteando o recebimento de diferença do valor do pecúlio, em virtude de alteração feita no estatuto da Associação Paraibana do Ministério Público que reduziu o valor do mencionado pecúlio de 1/30 (um trinta avos) da soma dos vencimentos para 1/60 (um sessenta avos) do valor do subsídio percebido por cada membro associado à demandada, quando, o percentual deveria ser de 1/30 (um trinta avos), nos termos do artigo 61 dos estatutos da promovida.
+Sustentou que o estatuto foi alterado de forma ilegal e inconstitucional pela entidade, que sem observar o quorum estatutário da presença de 2/3 dos associados, promoveu a alteração do dispositivo (art. 61), passando a constar onde tinha "1/30 (um trinta avos) sobre a soma dos seus vencimentos", a constar "1/60(um sessenta avos) dos seus subsídios.
+(..)
+Inicialmente, cabe ressaltar que a questão posta em análise se refere à Associação (alteração do estatuto) e não diante de direitos individuais dos associados.
+Assim, "a causa de pedir" da Ação reside na invalidade da alteração no próprio estatuto da Associação Apelante. Logo, ela será atingida diretamente pela Decisão, enquanto os Associados, apenas indiretamente, serão atingidos.
+Desta feita, resta claro que tendo a Associação personalidade jurídica, cabe a esta a defesa em Juízo de seus atos (alterações estatutárias, por exemplo), não havendo que se falar em litisconsórcio passivo da Associação com cada um de seus Associados, sobretudo porque "Não há, entre os associados, direitos e obrigações recíprocos"(art. 53, parágrafo único, do C.
+C)Ademais, ainda que se tratasse de defesa de direitos dos Associados, teria a Associação legitimação ordinária (caso dos direitos difusos e coletivos) ou extraordinária, como substituta processual (casos dos direitos individuais homogêneos ou individuais), para atuar em Juízo, segundo o art. 6º do CPC, também não cabendo aqui a arguição de litisconsórcio passivo necessário. A propósito, dispõe o artigo 6º do Código de Processo Civil:
+(..)
+A recorrente suscita a ocorrência da prescrição, com fundamento no art. 206 do Código Civil. Apesar do referido artigo referendar várias hipóteses de prescrição e o recorrente não delimitar em qual das situações se encaixaria a situação em testilha, observa-se que o caso em comento não se subsume a nenhuma das hipóteses perfilhadas do art.206.
+In casu, aplica-se a regra de prazo prescricional decenal previsto no art. 205 do CC:
+(..)
+Desse modo, tendo a Ação sido ajuizada em 2010 e a alteração estatutária impugnada ocorrido em 2006,não se consumou o prazo prescricional, razão pela qual rejeito a prejudicial de prescrição.
+(..)
+Conforme já mencionado, o cerne do litígio consiste em aferir qual o percentual do pecúlio a que faria jus a autora por ocasião de sua aposentadoria, se 1/30 (um trinta avos) ou 1/60 (um sessenta avos) sobre a soma dos vencimentos dos integrantes do Ministério Público.
+A apelada formulou a sua pretensão, sob o argumento de que houve alteração inválida do artigo 61 do Estatuto do Ministério Público Estadual, que dispunha:
+(..)
+Pois bem. A deliberação sobre o pagamento de 1/60 (um sessenta avos) do valor bruto da soma dos subsídios dos membros do Parquet foi tomada em uma Assembleia Geral Extraordinária ocorrida em 22/05/2006, conforme cópia de ata acostada ao Id. 8251685, págs. 45/46, com a finalidade de deliberar sobre a modalidade de pagamento do pecúlio em face da modificação do sistema remuneratório.
+Como se vê, a alteração no referido sistema dos membros do Ministério Público, que passaram a receber subsídios, não implica em revogação do artigo 61 do Estatuto, porquanto a expressão "vencimentos", contida no dispositivo, compreende a remuneração dos membros do Parquet, independentemente da modalidade. Nesse contexto, não se fazia necessário a deliberação em Assembleia sobre o pecúlio, eis que permanecia vigente o artigo 61.
+Contudo, a partir daquela deliberação, o dispositivo restou alterado, mesmo que tacitamente, uma vez que, desde aquela data, passou-se a pagar pelo pecúlio o valor de 1/60 (um sessenta avos) da quantia bruta da soma dos subsídios dos membros do Parquet.
+Demais disso, essa alteração do art. 61 do Estatuto foi procedida sem a observância do quórum mínimo de instalação e deliberação. Isso porque o artigo 24 do Estatuto vigente em 22/05/2006 exigia a presença da maioria absoluta dos Associados em primeira ou segunda convocação para modificação do seu Estatuto, quórum este que não foi observado, uma vez que somente 79 (setenta e nove) integrantes do Parquet compareceram à Assembleia, quando se fazia necessário, pelo menos, 148 (cento e quarenta e oito).
+Como se não bastasse, o artigo 13 do aludido Estatuto em seu parágrafo único dispõe que a Assembleia não pode deliberar sobre modificações estatutárias com menos de um terço dos Associados presentes, quórum este que também não é alcançado com apenas 79 associados.
+(..)
+Desse modo, faz jus à apelada ao recebimento do pecúlio no valor de 1/30 (um trinta avos) do valor bruto da soma dos subsídios dos Associados e não 1/60 (um sessenta avos) conforme lhe foi pago pela Associação.
+Por conseguinte, a revisão das conclusões do acórdão recorrido - acerca da ausência de configuração da prescrição do pedido autoral e do alegado litisconsórcio passivo necessário, bem como pela legitimidade passiva da insurgente, para assim acolher a pretensão recursal - demandaria a incursão no acervo fático-probatório dos autos, providencia inviável no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
