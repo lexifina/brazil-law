@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. INCIDÊNCIA DA REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão, de minha lavra, que indeferiu liminarmente o habeas corpus impetrado em favor de Carlos Gomes da Silva. Eis o resumo do decisum ora agravado (fl. 603):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. INCIDÊNCIA DA REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+Nas razões do recurso, o agravante alega que o trânsito em julgado não é limitação para a impetração de habeas corpus, nomeadamente quando a concessão da ordem pode impactar o status libertatis do paciente - como no presente mandamus (fl. 615).
+Aduz que os elementos probatórios declinados no r. ato decisório agravado Relator constituem, renovadas as vênias, motivação inidônea para a manutenção da condenação pelo art. 35 da Lei n. 11.343/2006, uma vez que nada demonstram sobre a tipicidade objetiva do delito associativo, sobretudo em relação à estabilidade e permanência (fl. 615).
+Defende que eventual comprovação de dedicação do paciente a atividades criminosas não se confunde com a comprovação da prática do crime do art. 35 da Lei n. 11.343/2006, que exige a associação estável e permanente com, ao menos, outra pessoa (fl. 615).
+Requer, assim, o provimento do recurso, com o consequente conhecimento da impetração, para que a ordem de habeas corpus seja concedida, ainda que de ofício (art. 654, § 2º, do Código de Processo Penal), para restabelecer a sentença condenatória do Paciente, com o afastamento da condenação do delito de associação ao tráfico de drogas (art. 35 da Lei n. 11.343/2006) e a aplicação da minorante do art. 33, § 4º, do mesmo diploma (fl. 621).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. INCIDÊNCIA DA REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+Agravo regimental improvido.
+VOTO
+A despeito das alegações defensivas, a decisão agravada deve ser mantida, visto que amparada em precedentes de ambas as Turmas da Terceira Seção.
+Como já disse, além de ser o habeas corpus sucedâneo de revisão criminal, sendo forçoso reconhecer a incompetência desta Corte Superior para o processamento do pleito, não se evidencia ilegalidade apta a justificar a concessão da ordem de ofício, considerando que as instâncias de origem apontaram elementos concretos nos autos de dedicação do agravante a atividades criminosas: quantidade e diversidade das drogas apreendidas, inscrições alusivas à conhecida facção criminosa atuante na comercialização de drogas na localidade, além da apreensão de um rádio transmissor (fls. 60/63).
+Conforme o entendimento desta Corte, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do acusado à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos (AgRg no HC n. 765.490/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/10/2022).
+Ademais, as instâncias ordinárias entenderam que a estabilidade e permanência, necessárias à tipificação do crime de associação para o tráfico, estão demonstradas nos autos. Rever esse entendimento, como pretende a defesa, com o fim de absolver a paciente pela ausência de provas acerca do vínculo associativo estável e permanente entre os agentes, importa em amplo revolvimento de matéria fático-probatória, procedimento vedado na via estreita do habeas corpus (AgRg no HC n. 877.835/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/4/2024).
+Pelo exposto, nego provimento ao agravo regimental.
