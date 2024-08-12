@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE INDICAÇÃO DA SEQUÊNCIA DO CÓDIGO DE BARRAS NO SUPOSTO COMPROVANTE DE PAGAMENTO. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DO PREPARO. DESCUMPRIMENTO. RECONHECIMENTO DA DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Embargos de terceiro.
+2. Consoante reiterada e uníssona jurisprudência desta Corte Superior, é inafastável a Súmula n. 187/STJ, visto que incide o " ..  referido óbice quando for impossível verificar a correspondência entre o código de barras e a guia de recolhimento, como na presente hipótese, visto que o comprovante de pagamento digitalizado pela parte não permite a verificação completa do código de barras  .. " (AgInt no AREsp n. 1.225.592/RJ, Quarta Turma, DJe 25/3/2020). Precedentes.
+3. Nos termos do artigo 1.007, § 4º, do CPC, a parte será intimada para recolhimento do preparo recursal em dobro quando interpor o recurso sem a comprovação das respectivas taxas judiciárias, de modo que, caso não atenda a determinação, seu recurso será considerado deserto, nos termos da Súmula n. 187/STJ. Precedentes.
+4. Agravo interno nos embargos de declaração no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por C. I. DE M. D. L. contra decisão singular, da Presidência desta Corte Superior, que não conheceu do recurso, nos termos do artigo 21-E, V, do RISTJ, em razão da incidência da Súmula n. 187/STJ, nos seguintes termos (e-STJ fls. 1.159/1.160):
+ ..
+Mediante análise do recurso de C I DE M D L, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. 1032 não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção".
+(AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo e na representação processual do recurso. A parte, embora regularmente intimada para sanar referidos vícios, apenas regularizou a representação (fl. 1155), permanecendo, porém, o vício quanto ao preparo.
+Veja que a parte apenas colacionou aos autos a guia e o comprovante de pagamento das custas, comprovando o recolhimento efetuado quando da interposição do recurso especial (fls. 1149/1151), todavia não realizou a complementação das custas que eram devidas em dobro.
+Registre-se que não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, as custas são devidas em dobro, nos termos do art. 1.007, § 4º, do CPC. Note-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+ ..
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1.183/1.186).
+Impugnação às fls. 1.203/1.223 (e-STJ), em que se pleiteia a aplicação da multa prevista no § 4º do artigo 1.021 do CPC.
+Ação: embargos de terceiro opostos por M. L. DA F. L., S. F. DE F. e R. F. DA F., em face da agravante.
+Sentença: julgou procedente os embargos opostos pelos agravados.
+Acórdão: negou provimento à apelação de C. I. DE M. D. L., nos termos da seguinte ementa (e-STJ fl. 1.010):
+EMBARGOS DE TERCEIROS. Sentença de procedência para reconhecer a nulidade de compromisso de compra e venda e desconstituir a penhora sobre o imóvel.
+Apela o embargado sustentando preliminarmente a nulidade da sentença; a ação anulatória proposta pelos embargantes foi extinta sem resolução do mérito; a discussão sobre o contrato de compra e venda está prescrita; os embargantes perderam os direitos sobre o bem, pois há anos o executado erigiu construção no local, cedendo-a por sua vez ao embargado, adquirente de boa-fé; falta interesse processual, pois os embargantes não exerceram mais qualquer ato de posse sobre o bem.
+Descabimento. Houve reconhecimento da nulidade do compromisso de compra e venda do imóvel em sede de embargos de terceiro, julgado anteriormente, pois o imóvel foi vendido sem autorização prévia do juízo de interdição, havendo interesse de maior incapaz. A nulidade é absoluta e não convalesce para quaisquer das partes. Irrelevante que os embargantes não tenham exercido mais atos de posse sobre o bem desde a transmissão por compromisso de compra e venda nulo. O reconhecimento da nulidade opera efeitos ex tunc, retroagem no tempo como se o contrato anulado jamais tivesse existido. O fato de ser nulo torna a discussão acerca do contrato imprescritível.
+Recurso improvido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou, além do dissídio jurisprudencial, violação ao artigo 85, § 10, do CPC; bem como aplicação do Tema n. 872/STJ.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 187/STJ.
+Agravo interno: limita-se a repisar as alegações do recurso especial e do agravo em recurso especial, bem como a inaplicabilidade do óbice supracitado e, ao final, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado.
+É o relatóri o.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE INDICAÇÃO DA SEQUÊNCIA DO CÓDIGO DE BARRAS NO SUPOSTO COMPROVANTE DE PAGAMENTO. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DO PREPARO. DESCUMPRIMENTO. RECONHECIMENTO DA DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Embargos de terceiro.
+2. Consoante reiterada e uníssona jurisprudência desta Corte Superior, é inafastável a Súmula n. 187/STJ, visto que incide o " ..  referido óbice quando for impossível verificar a correspondência entre o código de barras e a guia de recolhimento, como na presente hipótese, visto que o comprovante de pagamento digitalizado pela parte não permite a verificação completa do código de barras  .. " (AgInt no AREsp n. 1.225.592/RJ, Quarta Turma, DJe 25/3/2020). Precedentes.
+3. Nos termos do artigo 1.007, § 4º, do CPC, a parte será intimada para recolhimento do preparo recursal em dobro quando interpor o recurso sem a comprovação das respectivas taxas judiciárias, de modo que, caso não atenda a determinação, seu recurso será considerado deserto, nos termos da Súmula n. 187/STJ. Precedentes.
+4. Agravo interno nos embargos de declaração no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Com efeito, consoante reiterada e uníssona jurisprudência desta Corte Superior, é inafastável a Súmula n. 187/STJ, visto que incide o " ..  referido óbice quando for impossível verificar a correspondência entre o código de barras e a guia de recolhimento, como na presente hipótese, visto que o comprovante de pagamento digitalizado pela parte não permite a verificação completa do código de barras  .. " (AgInt no AREsp n. 1.225.592/RJ, Quarta Turma, DJe 25/3/2020).
+Nesse sentido, vejam-se os seguintes precedentes do Superior Tribunal de Justiça: AgInt no AREsp n. 2.258.263/SE, Terceira Turma, DJe de 9/6/2023; AgInt no AREsp n. 1.535.725/PR, Terceira Turma, DJe de 19/6/2020; AgInt no AREsp n. 2.231.055/GO, Quarta Turma, DJe de 19/4/2023; e AgInt no AREsp n. 2.016.407/RS, Quarta Turma, DJe de 10/3/2023.
+Ademais, a Secretaria Judiciária desta Corte Superior, diante da ausência do comprovante do recolhimento do preparo, intimou a parte a proceder ao seu pagamento em dobro, conforme previsão do artigo 1.007, § 4º, do CPC, bem como a regularizar a representação processual, nos termos do artigo 76, combinado com o artigo 932, parágrafo único, todos do CPC (e-STJ fl. 1.143), o que foi atendido somente quanto à regularização da representação, ensejando, portanto, o decreto de deserção.
+Dessa forma, o Superior Tribunal de Justiça possui entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso, caracteriza a sua deserção, sendo inviável nova intimação para sanar o vício.
+A propósito, os seguintes julgados desta Corte Superior: AgInt nos EDcl nos EAREsp n. 1.541.516/SP, Corte Especial, DJe de 16/6/2023; AgInt no AREsp n. 1.669.029/PR, Terceira Turma, DJe de 31/5/2023; AgInt no AREsp n. 2.221.282/DF, Terceira Turma, DJe de 9/3/2023; AgInt no AREsp n. 2.318.541/SP, Quarta Turma, DJe de 28/6/2023; e AgInt no AREsp n. 2.266.084/RJ, Quarta Turma, DJe de 1º/6/2023.
+Assim sendo, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial e, ainda, sendo unânime o julgamento, aplica-se multa de 5% (cinco por cento) sobre o valor atualizado da causa, com fulcro no artigo 1.021, § 4º, CPC.
