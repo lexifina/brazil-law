@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Pedro Henrique Martins dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça do Paraná que denegou a ordem ali impetrada (Habeas Corpus n. 0049778-78.2024.8.16.0000).
+Extrai-se dos autos que o paciente foi preso preventivamente e denunciado pela suposta prática do crime de homicídio qualificado tentado (Ação Penal n. 0001259-39.2024.8.16.0108 em trâmite na Vara Criminal de Mandaguaçu/PR ).
+No pres ente mandamus, a defesa sustenta ausência de provas de autoria delitiva; e que inexistem quaisquer das hipóteses previstas no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada em elementos concretos. Ressalta as condições pessoais favoráveis e a suficiência das medidas cautelares alternativas.
+Requer, em li minar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria.
+Para a decretação de custódia cautelar, a lei processual penal exige a reunião dos seguintes requisitos: fumus comissi delicti e o periculum in libertatis (art. 312 do CPP).
+No caso, o Juízo de primeiro grau decretou a prisão preventiva com base na seguinte fundamentação (fl. 31 - grifo nosso):
+ ..
+Extrai-se dos autos que na data de 23/04/2024, por volta das 20h40min, a equipe policial recebeu informação sobre disparos de arma de fogo na Avenida Chapecó nº410, no qual atingiu de raspão a perna esquerda de Andressa Alves de Polli. No decorrer das diligências, foi possível apurar que objetivo dos criminosos era matar a pessoa de Guilherme Gabriel Velozo.
+Apurou-se ainda, que os suspeitos de atentar contra a vida da vítima seriam os irmãos João Gabriel Martins vulgo "Biel" e Pedro Henrique Martins dos Santos vulgo "Pedrinho", em razão de desavenças ocorridas na cidade de Iguatemi/Pr.
+Nesta toada, observa-se que não é a primeira vez que os investigados tentam ceifar a vida da vítima Guilherme, eis que na data de 25/11/2023 tentaram mata-lo conforme é possível apurar nos áudios juntados mov. 1.11. Ainda, apura-se também a tentativa de homicídio da pessoa de Pedro Paulo Justino Cardoso que também seria alvo dos irmãos (IP nº 117963/2024).
+Deste modo, há fortes indícios acerca da autoria e prova da materialidade do ilícito, pelos elementos até então colhidos.
+A necessidade de garantia da ordem pública mostrou-se evidenciada devido à gravidade dos fatos que são imputados. Isto porque, os irmãos João Gabriel Martins vulgo "Biel" e Pedro Henrique Martins dos Santos vulgo "Pedrinho" estão atuando em conjunto para eliminar desafetos na cidade de Mandaguaçu, mas não conseguir am, até o momento, por circunstancias alheias as próprias vontades.
+Nota-se que, os envolvidos encaminharam diversas mensagens para vítima Guilherme afirmando que "da próxima vez você vai dormir com o satanás, vou estourar sua cabeça", sem contar que na data de 25/11/2023 teriam atentando contra vítima, mas não conseguiram êxito.
+Aliado a isso, verifica-se que na mesma data 23/04/2024 os mesmos indivíduos teriam tentado contra a vida de Pedro Paulo Justino Cardoso com o mesmo modus operandi como se extrai dos autos nº 0001217-87.2024.8.16.0108, Boletim de Ocorrência nº 2024/510584.
+Assim, constata-se que os acusados possuem condutas delitivas reiteradas e se tratam de pessoas extremante perigosas que, na primeira oportunidade, consumarão certamente os homicídios caso continuem em liberdade, evidenciado o perigo gerado pelo estado de liberdade do imputados.
+ ..
+O Tribunal de origem, por sua vez, considerou adequada a determinação de prisão preventiva do paciente em decorrência da gravidade concreta do delito, in verbis (fls. 23 - grifo nosso):
+ ..
+A prisão preventiva também restou fundamentada no risco concreto de reiteração delitiva, aferível pelos registros criminais anteriores dos pacientes. Consoante consignado na decisão impugnada, "verifica-se que na mesma data 23/04/2024 os mesmos indivíduos teriam tentado contra a vida de P. P. J. C. com o mesmo modus operandi como se extrai dos autos nº 0001217-87.2024.8.16.0108, Boletim de Ocorrência nº 2024/510584. Assim, constata-se que os acusados possuem condutas delitivas reiteradas e se tratam de pessoas extremante perigosas que, na primeira oportunidade, consumarão certamente os homicídios caso continuem em liberdade, evidenciado o perigo gerado pelo estado de liberdade do imputados (..).
+ ..
+Por conseguinte, a custódia está corretamente motivada no modus operandi e na gravidade concreta do crime (AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022), pois o paciente efetuou disparos de arma de fogo contra a vítima, que não a levaram a óbito por circunstâncias alheias à sua vontade, com o fim de eliminar desafetos na cidade de Mandaguaçu/PR, o que demonstra também o risco de reiteração delitiva e a necessidade de se resguardar a ordem pública .
+Inclusive, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, e m face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Igualmente, confira-se: HC n. 852.065/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/3/2024; e AgRg no HC n. 800.656/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/6/2023.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. AUSÊNCIA DE PROVAS DE AUTORIA. CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE EXAME NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. RISCO DE REITERAÇÃO DELITIVA. PRESERVAÇÃO DA ORDEM PÚBLICA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
