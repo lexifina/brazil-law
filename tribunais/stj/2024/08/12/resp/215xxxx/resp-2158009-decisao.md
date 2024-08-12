@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial, interposto por JOÃO WOITEXEN NETO e OUTRA, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 334/335, e-STJ):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SENTENÇA QUE RECONHECEUA PRESCRIÇÃO INTERCORRENTE E JULGOU EXTINTO O FEITO, COM RESOLUÇÃO DO MÉRITO, CONDENANDO O EXEQUENTE AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADOS. DECISUM ANTERIOR À LEI N. 14.195/2021, A QUAL PASSOU A ISENTAR AS PARTES LITIGANTES DO PAGAMENTO DOS ÔNUS SUCUMBENCIAIS EM CASOS DE EXTINÇÃO DO PROCESSO POR OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE. RECURSO DO EXEQUENTE. PRETENDIDA A CONDENAÇÃO DA PARTE EXECUTADA AO PAGAMENTO DE VERBA HONORÁRIA. ACOLHIMENTO.
+COMPORTAMENTO DO DEVEDOR (INADIMPLEMENTO CONTRATUAL) QUE DEU ENSEJO AO AJUIZAMENTO DA DEMANDA EXPROPRIATÓRIA. INCIDÊNCIA DO PRINCÍPIO DA CAUSALIDADE EM DESFAVOR DO EXECUTADO. ENTENDIMENTO CONSOLIDADO NA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA E ADOTADO NO ÂMBITO DESTA CORTE. PROCESSO INSTAURADO POR CONTA DA INADIMPLÊNCIA DA PARTE DEVEDORA E EXTINTO EM RAZÃO DA AUSÊNCIA DE BENS PASSÍVEIS DE PENHORA. ADVENTO DA CAUSA EXTINTIVA DA PRESCRIÇÃO INTERCORRENTE RECONHECIDO PELO POLO CREDOR.
+DECISÃO REFORMADA, PARA FINS DE RESPONSABILIZAR OS EXECUTADOS AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. RECURSO CONHECIDO EPROVIDO.
+Opostos embargos de declaração (fls. 432/436, e-STJ), esses foram rejeitados.
+Em suas razões de recurso especial (fls. 462/481, e-STJ), os Recorrentes apontaram ofensa aos artigos 10, 85, caput, 489 do Código de Processo Civil/15. Sustentaram, em síntese: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões suscitadas nos aclaratórios no que tange à existência de pens penhorados nos autos. No caso concreto, é incontroverso que a prescrição intercorrente não restou alcançada em razão da ausência de localização de bens do Devedor, MAS SIM pela paralisação do processo por lapso superior ao prazo legal.
+Contrarrazões às fls. 492/499, e-STJ, e após decisão de admissão do recurso especial (fls. 503/504 , e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A insurgência merece prosperar no que tange à preliminar de negativa de prestação jurisdicional.
+1. Em seu apelo nobre, os recorrentes alegam, inicialmente, ofensa ao artigo 489 do CPC/2015, ao argumento de que o acórdão recorrido, a despeito de instado por meio de embargos de declaração, não teria se pronunciado sobre à existência de pens penhorados nos autos. A prescrição intercorrente não restou alcançada em razão da ausência de localização de bens do Devedor, MAS SIM pela paralisação do processo por lapso superior ao prazo legal.
+Nota-se que o Tribunal local assim se manifestou (fls. 447/448, e-STJ):
+De pronto, adianto que razão não assiste aos Embargantes.
+Dos Embargos interpostos por JOAO WOITEXEN NETO e RITA DE CASSIA MELLO WOITEXEN observo a nítida intenção de rediscussão do julgado, uma vez que a decisão embargada abordou todos os pontos necessários ao deslinde da quaestio, fundamentando, inclusive, sobre a fixação da verba advocatícia.
+Logo, tenho que, indubitavelmente, o Embargante objetiva unicamente rediscutir os termos da decisão que lhe foi desfavorável, contudo, "os embargos declaratórios não têm por finalidade revisar ou anular as decisões judiciais (STJ, 2ª Turma, EDcl no REsp 930.515/SP, rel. Min. CASTROMEIRA, j. 02.10.2007, DJ 18.10.2007, p. 338)" (MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz ;MITIDIERO, Daniel. Novo Código de Processo Civil Comentado. São Paulo: Revista dos Tribunais,2015. p. 953).
+Destaque-se, por oportuno, que tal omissão não fora sanada quando da apreciação dos aclaratórios, oportunidade em que tão somente se alegou inexistir em omissões e ou contradições no julgado embargado. Nesse sentido, de rigor o reconhecimento de violação dos arts. 489 e 1022 do CPC/2015 em relação à presente questão.
+Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE RESCISÃO CONTRATUAL. ART. 535 DO CPC/1973. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal local, a despeito da interposição de embargos de declaração, é derigor o reconhecimento de violação do art. 535 do Código de Processo Civil de 1973, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no AREsp 889.277/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. MODALIDADE. PCT. OMISSÃO DO ACÓRDÃO RECORRIDO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação do art. 535 do CPC/73 quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre as questões federais que lhe foram apresentadas por ocasião dos embargos de declaração, relevantes ao deslinde da controvérsia.
+2. Agravo interno provido para dar parcial provimento ao recurso especial, com determinação do retorno dos autos ao Tribunal de origem para que sane as omissões verificadas.
+(AgInt no AREsp 843.220/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018)
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do recurso e dou-lhe provimento para cassar o acórdão que julgou os embargos de declaração (fls. 446/449, e-STJ) e determinar a devolução dos autos ao Tribunal a quo, a fim de que profira novo julgamento dos embargos declaratórios apresentado pelos ora insurgentes, sanando as omissões apontadas, restando prejudicada a análise das demais questões suscitadas nas razões recursais.
+Publique-se.
+Intimem-se.
+EMENTA
