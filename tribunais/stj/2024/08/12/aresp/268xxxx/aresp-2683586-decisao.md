@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por DEJANIR NUNES CARDOSO contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Amazonas assim ementado (e-STJ, fl. 259):
+DUAS APELAÇÕES. A PRETENSÃO DE DISCUSSÃO DE PERDAS E DANOS NÃO ENCONTRA NA AÇÃO DE REINTEGRAÇÃO DE POSSE, AÇÃO DE RITO ESPECIAL, VIA ADEQUADA. A EXIGÊNCIA DO CPC DE NOMEAÇÃO DO CURADOR ESPECIAL NÃO GARANTE AO RÉU REVÊ NOVO PRAZO PARA APRESENTAR CONTESTAÇÃO OU ABERTURA DE NOVO PRAZO PARA ALÉM DAQUELE JÁ PREVISTO PREVIAMENTE. RECURSOS CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 293-295).
+Nas razões do recurso especial (e-STJ, fls. 299-323), a/o recorrente apontou violação aos arts. 72, II, 489, § 1º, IV e 1.022, II, do CPC/2015, 4º, XVI, da Lei Complementar n. 80/1994, e 5º, LV, Constituição Federal.
+Sustentou, em síntese, negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido por omissão quanto à obrigatoriedade de renovação do prazo de defesa, a fim de viabilizar o exercício da curadoria especial, sempre que o réu citado por edital não oferece contestação no prazo legal.
+Alegou a nulidade absoluta da sentença, tendo em vista que a Defensoria Pública não foi intimada para assumir a função de curador especial antes da prolação da sentença.
+Foram apresentadas contrarrazões (e-STJ, fls. 329-335).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, vale ressaltar que, concernente à alegação de ofensa ao art. 5º, LV, da CF/1988, é evidente a inadequação da via recursal eleita, porquanto "não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no artigo 102 da Constituição Federal" (AgInt no REsp 1.933.028/SP, Relator Ministro Ricardo Villas Bôas Cueva, DJe 30/9/2021).
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pela recorrente, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Confira-se o seguinte excerto do voto dos aclaratórios (e-STJ, fl. 294):
+Em reexame das provas e das alegações apresentadas, verifico que o inconformismo alegado não se trata de uma omissão, uma vez que o acórdão recorrido foi claro quanto à inexistência do citado direito de renovação de prazo processual, uma vez que este não se confunde com o direito à curatela.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fl. 261):
+O artigo 72, inciso II, do Código de Processo Civil garante ao réu revel citado por edital o direito de ser assistido por curador especial.
+Art. 72. O juiz nomeará curador especial ao:
+II - réu preso revel, bem como ao réu revel citado por edital ou com hora certa, enquanto não for constituído advogado.
+Parágrafo único. A curatela especial será exercida pela Defensoria Pública, nos termos da lei.
+Como se observa, a Lei exige a nomeação do curador especial, mas não a abertura de segundo prazo para que o réu já revel tenha a oportunidade pela segunda vez de oferecer contestação ou qualquer outro tipo de defesa previamente à sentença. Este entendimento, por sua vez, não contraria os dispostos nos artigos 9.º e 10 do CPC, que exigem do juiz o dever de ouvir as partes antes de proferir uma decisão, pois, no caso, o direito de ser ouvido (contestar) fora concedido ao réu, que, apesar de tal ato de notificação, não se defendeu por desídia. À vista disso, entendo que não houve violação do devido processo legal que viesse a justificar a nulidade da sentença.
+Desse modo, ressai evidente a deficiência na fundamentação formulada pela recorrente, que apontou como supostamente violados pelo Tribunal de origem apenas dispositivos legais (arts. 72, II, 489, § 1º, IV e 1.022, II, do CPC/2015, 4º, XVI, da Lei Complementar n. 80/1994, e 5º, LV, Constituição Federal), os quais, por sua vez, não se mostram hábeis a amparar a tese vertida no presente recurso especial quanto à necessidade de reabertura de prazo de defesa e a modificar a conclusão delineada nas instâncias ordinárias, atraindo, assim, a incidência da Súmula 284 do STF, por analogia.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE DE COISA MÓVEL. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE EXAME PELO STJ. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO VISLUMBRADA. REABERTURA DE PRAZO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
