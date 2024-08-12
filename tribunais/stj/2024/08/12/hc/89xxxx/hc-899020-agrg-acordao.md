@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  D ROGAS.  BUSCA  PESSOAL.  FUNDADA  SUSPEITA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  art.  244  do  CPP  assevera  que  "a  busca  pessoal  independerá  de  mandado,  no  caso  de  prisão  ou  quando  houver  fundada  suspeita  de  que  a  pessoa  esteja  na  posse  de  arma  proibida  ou  de  objetos  ou  papéis  que  constituam  corpo  de  delito,  ou  quando  a  medida  for  determinada  no  curso  de  busca  domiciliar".
+2.  No  caso,  verifique-se que o paciente estava em local conhecido como ponto de venda de drogas, e, ao notar a aproximação dos policiais, tentou se esconder dentro de um bar, a fim de evitar o flagrante. Nesse contexto, não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso.
+3.  Agravo  regimental  não  provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VAGNER KELSON REIS FREITAS, de decisão na qual não conheci do habeas corpus (e-STJ, fls. 130-133).
+A defesa alega, em suma, que o agravante "não empreendeu fuga ao avistar a viatura", o que, em tese, poderia levantar suspeitas concretas, mas ele tão somente entrou do estabelecimento comercial, em atitude completamente normal de qualquer pessoa" (e-STJ, fl. 141).
+Aduz que " r estou mais que comprovado que a abordagem pessoal foi realizada como algo normal, ou seja, aquela prática truculenta e ilegal, conhecida por "baculejo", em que pessoas pobres e periféricas são submetidas diariamente." (e-STJ, fl. 147)
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  D ROGAS.  BUSCA  PESSOAL.  FUNDADA  SUSPEITA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  art.  244  do  CPP  assevera  que  "a  busca  pessoal  independerá  de  mandado,  no  caso  de  prisão  ou  quando  houver  fundada  suspeita  de  que  a  pessoa  esteja  na  posse  de  arma  proibida  ou  de  objetos  ou  papéis  que  constituam  corpo  de  delito,  ou  quando  a  medida  for  determinada  no  curso  de  busca  domiciliar".
+2.  No  caso,  verifique-se que o paciente estava em local conhecido como ponto de venda de drogas, e, ao notar a aproximação dos policiais, tentou se esconder dentro de um bar, a fim de evitar o flagrante. Nesse contexto, não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso.
+3.  Agravo  regimental  não  provido.
+VOTO
+O agravo não merece prosperar.
+A decisão recorrida, a seguir transcrita, deve ser mantida pelos seus próprios fundamentos:
+" ..
+No acórdão impugnado, consta:
+"Feita essa breve exposição e voltando os olhos à hipótese em tela, tenho para mim que não há como ser decretada a absolvição do peticionário, pois o édito encontra-se apoiado em elementos colhidos durante a instrução criminal.
+Narra a exordial acusatória que, no dia 14 de dezembro de 2020, por volta das 20 horas, em ocasião de calamidade pública, na Rua São Sebastião Pereira, nas proximidades do nº 24, Conjunto Residencial Araretama, município e Comarca de Pindamonhangaba, o requerente trazia consigo, guardava e tinha em depósito, para entregar e fornecer a consumo de terceiros, 31 porções de maconha, pesando 65,63g (sessenta e cinco gramas e sessenta e três centigramas), e 01 frasco contendo 211,39g de lança-perfume , substâncias entorpecentes causadoras de dependência química e física, sem autorização e em desacordo com determinação legal ou regulamentar.
+Na delegacia (fls. 18), o peticionário confirmou a posse de apenas 10 porções de maconha e do lança-perfumes, que seriam para uso pessoal. Em Juízo (fls. 151/156) confessou a posse de todas as porções de maconha e do lança-perfumes, repetindo que seriam para consumo próprio.
+Todavia, analisando-se os elementos de convicção carreados ao longo de toda a persecutio criminis, verifica-se que se acham bem provadas, na espécie, a autoria e a materialidade do crime (fls. 04/42, 72/73, 97/99, 130/142, 148/150, e registros audiovisuais), cabendo destacar os seguros depoimentos dos policiais civis Marcelo de Andrade Cunha e Edson Rafael Marques da Silva Machado, os quais relataram que efetuavam ronda ostensiva, quando avistaram o réu na via pública. Assim que avistou a viatura policial, o requerente tentou se evadir para o interior de um bar, mas foi abordado e revistado, tendo sido localizadas em seu poder as drogas descritas peticionário na denúncia.
+Informalmente, confessou a traficância, o pois precisava quitar uma dívida na cidade de Jacarei (fls. de drogas contraída 09/10 e registros audiovisuais).
+Mister esclarecer-se, nesse passo, que o policial não está legalmente impedido de de depor e o valor de seu depoimento não pode ser sumariamente desprezado.
+Inclusive tal questão já se encontra pacificada pela doutrina e jurisprudência, prevalecendo o entendimento de que os testemunhos prestados por policiais merecem a mesma credibilidade que aqueles dados por pessoas comuns, sendo imprescindível que se apresente uma razão clara e concreta, para tornar referidas declarações eivadas de suspeição, o que não ocorreu no caso vertente, não se demonstrando qualquer motivo para que os policiais o acusasse, gratuitamente, de crime tão grave.
+Outrossim, não há que se falar em nulidade das provas produzidas, em razão da alegada ilicitude ocorrida na busca pessoal efetuada no réu.
+De acordo com artigo 244 do Código de Processo Penal, a busca pessoal será realizada, independentemente de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou ou quando a medida for determinada no curso de busca domiciliar.
+No presente caso, a revista pessoal foi realizada dentre os ditames da lei, uma vez que os agentes públicos se dirigiram ao local dos fatos, conhecido como ponto de tráfico, e suspeitaram da atitude do peticionário, que se evadiu para o interior de um bar ao perceber a chegada da viatura policial.
+Portanto, a legalidade da diligência encontra respaldo em todos esses elementos.
+ ..  Dessarte, à luz do acervo fático - probatório delineado na hipótese vertente, revela - se descabido cogitar da absolvição do peticionário, sob a alegação de que a condenação se baseou em prova ilícita.
+O quadro probatório contém elementos de convicção, de modo que a única solução cabível à hipótese vertente é a condenatória, nos moldes adotados, em Primeira e Segunda Instâncias, nos autos do feito originário não se verificando, no caso em tela, quaisquer das hipóteses previstas no artigo 386 do Código de Processo Penal." (e- STJ, fls. 48-55; sem grifos no original)
+De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+No caso, observa-se que o paciente estava em local conhecido como ponto de venda de drogas, e, ao notar a aproximação dos policiais, tentou se esconder dentro de um bar, a fim de evitar o flagrante. Nesse contexto, não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso.
+A seguir os julgados que respaldam esse entendimento:
+ ..
+Ante o exposto, não conheço do habeas corpus." (e-STJ, fls. 130-133)
+Ante o exposto, nego provimento ao agravo.
+É o voto.
