@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTENRO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. AFERIÇÃO DE SUCUMBÊNCIA RECÍPROCA OU MÍNIMA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação proposta por servidores públicos estaduais, em face da FAZENDA DO ESTADO DE SÃO PAULO, alegando erro no cálculo do beneficio denominado adicional por tempo de serviço (quinquênio).
+2. No caso em análise, verifica-se que não é possível, na via do recurso especial, a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, uma vez que implica reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LEDA DUCATTI e OUTROS , contra decisão proferida por esta Relatoria, ementada no seguinte sentido (fl. 536 e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. AFERIÇÃO DE SUCUMBÊNCIA RECÍPROCA OU MÍNIMA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+No agravo interno, a parte agravante afirma que não há incidência da Súmula 7/STJ, uma vez que a análise da demanda independe do revolvimento do conjunto fático-probatório dos autos.
+Contraminuta não apresentada (fl. 556 e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTENRO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. AFERIÇÃO DE SUCUMBÊNCIA RECÍPROCA OU MÍNIMA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação proposta por servidores públicos estaduais, em face da FAZENDA DO ESTADO DE SÃO PAULO, alegando erro no cálculo do beneficio denominado adicional por tempo de serviço (quinquênio).
+2. No caso em análise, verifica-se que não é possível, na via do recurso especial, a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, uma vez que implica reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7/STJ.
+3. Agravo interno não provido.
+VOTO
+A pretensão não merece acolhida.
+Na hipótese dos autos, cuida-se de ação proposta por servidores públicos estaduais, em face da FAZENDA DO ESTADO DE SÃO PAULO, alegando que recebem o beneficio denominado adicional por tempo de serviço (quinquênio), o qual, contudo, vem sendo calculado sem a incidência sobre os vencimentos integrais, em afronta ao art. 129 da Constituição do Estado de São Paulo.
+O Tribunal de origem manteve a sentença de parcial procedência e a fixação de sucumbência recíproca do juízo sentenciante, à consideração de que "a sucumbência é mesmo reciproca, e a reforma aqui promovida a evidencia. Portanto, cada parte deverá arcar com as custas e despesas processuais a que deu causa e com as verbas honorárias de seu advogado" (fl. 219 e-STJ).
+Assim, quanto à alegada violação ao artigo 21, parágrafo único do CPC/73 (atual 86, parágrafo único do CPC/2015), verifica-se não ser possível, na via do recurso especial, a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, uma vez que implica reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7/STJ.
+No ponto, muito embora a parte ora agravante defenda que é possível a revaloração do contexto probatório presente no próprio acórdão recorrido, verifica-se que não é possível conclusão diversa a possibilitar a reforma do julgado nos termos em que pretende.
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. CORREÇÃO MONETÁRIA. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 284/STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ALEGADA OFENSA AO ART. 55, III, DA LEI 8.666/93. CORREÇÃO MONETÁRIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS CLÁUSULAS CONTRATUAIS E DO ACERVO PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE, EM SEDE DE RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação Ordinária, ajuizada pela parte ora agravante, em desfavor do Departamento de Estradas de Rodagem - DER, objetivando o recebimento de diferenças relativas à execução de contrato administrativo. O Tribunal de origem, por sua vez, reformou parcialmente a sentença, apenas quanto ao critério de fixação dos honorários sucumbenciais recíprocos.
+III. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à incidência da Súmula 284/STF -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+IV. No caso, o Tribunal de origem, com base no exame dos elementos fáticos dos autos e das cláusulas contratuais, consignou que "os contratos administrativos estabelecem no item 5.5 (fls. 23 e 177) que "os valores das medições e de seu reajustamento serão atualizados monetariamente através da aplicação da taxa de variação da UFESP  Unidade Fiscal do Estado de São Paulo, a contar do 31º (trigésimo primeiro) dia da data da medição até o dia do efetivo pagamento bem como juros moratórios, estes à razão de 0,5% (meio por cento) ao mês, calculados pro rata temporer em relação ao atraso verificado, por motivo não imputável à CONTRATANDA"".
+V. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente,
+de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+VI. No caso, a controvérsia foi resolvida, pelo Tribunal de origem, à luz do exame das provas dos autos e das cláusulas contratuais, e, portanto, o acórdão recorrido somente poderia ser modificado mediante o reexame dos
+aspectos concretos da causa e do aludido contrato administrativo, o que é vedado, no âmbito do Recurso Especial, pelas Súmulas 5 e 7 desta Corte.
+Precedentes do STJ.
+VII. Do mesmo modo, o entendimento firmado pelo Tribunal a quo, quanto à
+caracterização de sucumbência recíproca, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+VIII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp n. 1.801.321/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 30/3/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIO NO JULGADO. OCORRÊNCIA. ERRO DE PREMISSA. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. Na espécie, a decisão que julgou o recurso especial baseou-se em premissa equivocada em relação aos honorários advocatícios, pois considerou a fixação da verba honorária pelo Tribunal de origem no julgamento da apelação (R$ 1.000,00), sem considerar a modificação realizada no julgamento dos embargos de declaração, em que se reconheceu a existência de sucumbência recíproca.
+3. A jurisprudência desta Corte possui entendimento de que a aferição do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para não conhecer do recurso especial.
+(EDcl no AgInt no REsp n. 1.780.421/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS C.C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO A SÚMULA. INCIDÊNCIA DA SÚMULA 518/STJ. DANO MORAL. REVISÃO. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. PRECEDENTES. HONORÁRIOS SUCUMBENCIAIS. DISTRIBUIÇÃO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Não cabe ao Superior Tribunal de Justiça apreciar violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+3. Modificar o entendimento do Tribunal local, acerca da configuração dos danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Com efeito, a jurisprudência desta Corte firmou-se no sentido de ser a citação o termo inicial para a incidência dos juros de mora em caso de responsabilidade contratual.
+5. Em relação à alegada sucumbência reciproca, observa-se que a jurisprudência deste Superior Tribunal é no sentido de que "é inviável a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, a teor do disposto na Súmula 7 do STJ" (AgInt no AREsp 1.907.253/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/02/2022, DJe 09/03/2022).
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.494.899/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNIA DE FUNDAMENTAÇÃO. ART. 1022 DO CPC. NÃO CONFIGURADA. AÇÃO MONITÓRIA. CAPACIDADE DA PARTE. SUPERVENIÊNCIA DA INCAPACIDADE. CONTRATO VÁLIDO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+2. A sentença de interdição, salvo pronunciamento judicial expresso em sentido contrário, opera efeitos "ex nunc". Precedentes.
+3. Verificar se efetivamente a parte agravante era incapaz no momento da celebração do negócio jurídico que embasou a ação monitória, ou revisar o quantitativo em que o autor e réu decaíram do pedido para aferir sucumbência recíproca ou mínima, demandaria reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.335.639/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
