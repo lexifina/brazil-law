@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 542):
+MANDADO DE SEGURANÇA. EXTINÇÃO DO FEITO SEM EXAME DO MÉRITO.
+DESCABIMENTO. AFRMM - ADICIONAL DE FRETE PARA RENOVAÇÃO DA MARINHAMERCANTE. LEGITIMIDADE. CLÁUSULA DE TRATAMENTO NACIONAL. NAVEGAÇÃO DELONGO CURSO. BASE DE CÁLCULO. DENEGAÇÃO DO WRIT.
+Embargos de declaração rejeitados às fls. 566-570.
+O recorrente alega violação do artigo 1.022, II e §único c/c o §1º do 489, ambos do CPC, argumentando que o tribunal de origem não enfrentou os pontos suscitados pela recorrente nos embargos de declaração.
+Aduz, à fl. 604, ofensa ao arts. 4º e 5º da Lei n. 10.893/2004, uma vez que o frete não está enquadradonas hipóteses previstas para as CIDEs (alíquotas ad valoremou valor aduaneiro).
+Aponta, à fl. 606, violação dos arts. 17 e 18 da Lei n. 10.893/2004, já que tais dispositivos são claros na destinação do AFRMM.
+Afirma ter havido desvio de finalidade do FRMM em razão da destinação do fundo.
+Defende que houve violação a cláusula de tratamento nacional (GATT) e ao princípio da isonomia.
+Subsidiariamente, requer o reconhecimento do direito em recolher o AFRMM em alíquota adequada à isonomia tributária e atual destinação dos valores.
+Ao fim, salienta seu direito a compensação/restituição dos valores que não efetuou o creditamento.
+Contrarrazões às fls. 622-631.
+Juízo positivo de admissibilidade à fl. 636.
+Parecer do MPF, às fls. 657-661, pelo não conhecimento do recurso.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o acórdão integrativo assim consignou à fl. 567:
+ ..
+O STF, ao julgar o RE 165.939 (Rel. Carlos Velloso, Tribunal Pleno, julgado em 24-05-1995),já decidiu, para fins de aferição da constitucionalidade do AFRMM, pela Irrelevância, sob o aspectotributário, da alegação no sentido de que o Fundo da Marinha Mercante teria sido extinto, na forma dodisposto no art. 36, ADCT.
+Outrossim, o Adicional ao Frete para Renovação da Marinha Mercante, foi criado com o intuito de fomentar o desenvolvimento da marinha mercante brasileira e a indústria de construção ereparação naval brasileira, constituindo a principal fonte do Fundo da Marinha Mercante, buscando,assim, concretizar o princípio da soberania nacional (art. 170, I da Constituição Federal). Da mesmaforma, a não incidência da contribuição, pelo prazo de 10 anos, sobre as mercadorias cuja origem ou cujo destino final seja porto localizado na Região Norte ou Nordeste do País, materializa (art. 4º da Leinº 10.893, de 2004) a efetivação da redução das desigualdades regionais e sociais (art. 170, VII daConstituição Federal).
+Ademais, conforme entendimento deste Tribunal, A incidência do AFRMM não viola os princípios constitucionais da isonomia, da capacidade contributiva e da vedação ao confisco (AC5011547-38.2022.4.04.7208, PRIMEIRA TURMA, Relator GIOVANI BIGOLIN, juntado aos autos em 09-09-2023).
+Quanto às demais alegações, ao contrário do que sustenta a parte embargante, não se verifica omissão, tendo o voto condutor do acórdão embargado apreciado de forma fundamentada esuficiente a controvérsia. Confira-se:
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Igualmente, não há falar em ofensa ao art. 489 do CPC/15, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido.
+A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Sublinha-se que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Ademais, verifca-se que a corte de origem examinou a contenda destes autos sob o viés constitucional.
+Nesse panorama, tem-se que o apelo nobre não se presta para revisão de julgado, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. AFRMM. PRETENSÃO DE DECLARAR A ILEGALIDADE DO ADICIONAL. SEM AMPARO NOS ARTS. 3º, 4º, 5º, CAPUT E § 1º DA LEI N. 10.893/2004. VIOLAÇÃO AO ART. 110 DO CTN. NÃO DEMONSTRADA. SÚMULA N. 284/STF. GATT E COMPENSAÇÃO. MATÉRIAS NÃO PREQUESTIONADAS. SÚMULA N. 282/STF. LEGALIDADE DO AFRMM RECONHECIDA PELA CORTE DE ORIGEM APOIADA EM FUNDAMENTO CONSTITUCIONAL. REVISÃO DO ACORDÃO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte regional examinou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição, erro material ou obscuridade.
+III - A pretensão de declarar a ilegalidade do Adicional de Frete para a Renovação da Marinha Mercante não encontra amparo nos arts.
+3º, 4º, 5º, caput e § 1º da Lei n. 10.893/2004 e a violação ao art. 110 do CTN não está demonstrada. É deficiente o recurso quando os dispositivos apontados como violados não têm comando normativo capaz de infirmar os fundamentos do acórdão recorrido ou quando a alegação de ofensa é genérica, circunstâncias que atraem, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+IV - O Tratado do GATT e a compensação tributária não foram examinadas pelo Colegiado a quo. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+V - A Corte regional concluiu que o AFRMM tem por finalidade a obtenção de recursos financeiros para custear a intervenção da União nas atividades de apoio ao desenvolvimento da marinha mercante, bem como ao desenvolvimento de nossa indústria de construção e reparação naval. Vale dizer, consubstancia-se em forma de custeio para a intervenção e não a intervenção propriamente dita, o que encontra respaldo no artigo 149 da Constituição Federal - destaquei.
+V - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamento constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.111.434/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 16/5/2024, grifo nosso.)
+TRIBUTÁRIO. RECURSO ESPECIAL. ADUANEIRO. MANDADO DE SEGURANÇA. ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE - AFRMM. BASE DE CÁLCULO. LEI Nº 10.983/2004. INCLUSÃO DESPESAS PORTUÁRIAS COM A MANIPULAÇÃO DA CARGA. CONTROVÉRSIA DIRIMIDA NO ACÓRDÃO DE ORIGEM COM ALICERCE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Deveras, a recorrente almeja a declaração de incompatibilidade (fls. 2.141, e-STJ) entre a base de cálculo e o aspecto material da hipótese de incidência do AFRMM, enquanto disposições do art. 4º e art. 5º da Lei nº 10.893/2004, alegando a indevida a cobrança do AFRMM incidente nas operações de importação, bem como nas operações internas, correspondente à inclusão em sua base de cálculo de valores que sejam relacionados à remuneração/tarifas do operador portuário brasileiro por serviços prestados após a chegada do navio à sua instalação portuária (capatazia, estiva, conferência de carga, conserto de carga, vigilância das embarcações, bloco, armazenagem, sobre estadia) ou pela utilização de sua infraestrutura.
+2. A Corte de origem examinou a contenda destes autos sob o viés constitucional, concernente à constitucionalidade do artigo 5º, Lei 10.893/2004, tendo como parâmetro o artigo 149, § 2º, inciso III, alínea "a", da Constituição Federal.
+3. Nesse sentido, não cabe em sede de recurso especial inspecionar ou adentrar nos parâmetros constitucionais para se aferir a juridicidade da inclusão de determinadas despesas aduaneiras na composição da contribuição denominada Adicional do Frete da Marinha Mercante - AFMM.
+4. Recurso Especial não conhecido.
+(REsp n. 2.082.134/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/11/2023, DJe de 10/11/2023, grifo nosso.)
+Por fim, tem-que que é inviável a análise, em recurso especial, da irresignação fundada na violação a princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE NORMA CONSTITUCIONAL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME NESTA CORTE. COMPETÊNCIA DO STF. ARTIGOS 77 E 78 DO CTN. REPRODUÇÃO DE PRECEITO CONSTITUCIONAL.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual a decisão agravada está correta ao não conhecer o recurso especial relativamente à apontada ofensa ao art. 145 da Constituição Federal.
+3. É inviável a análise, em recurso especial, da irresignação fundada na violação a princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+4. No que diz respeito a ofensa aos arts. 77 e 78 do CTN, o STJ é firme no sentido de que essa matéria não pode ser analisada por esta Corte Superior, haja vista que são mera repetição de dispositivo constitucional (art. 145 da Constituição Federal de 1988), cabendo ao Supremo Tribunal Federal o seu exame.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.957.964/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Ante o exposto, conheço parcialmente do recurso especial e nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONTROVÉRSIA DIRIMIDA NO ACÓRDÃO DE ORIGEM COM FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME NESTA CORTE. COMPETÊNCIA DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
