@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. DANO MORAL. VALOR ADEQUADO PARA O CASO. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou orientação de que é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. A Corte de origem ressaltou que "o dano moral restou caracterizado porque a conduta do motorista da caminhonete, ao invadir a via preferencial sem se atentar à sinalização de "PARE", acabou por causar a colisão com a motocicleta e o falecimento do seu condutor, que morreu no local do acidente".
+3. In casu, o valor da compensação por danos morais, arbitrado em R$ 40.000,00 (quarenta mil reais), em favor da mulher do de cujus, não é exorbitante nem desproporcional aos danos sofridos, ante o falecimento de seu marido e a interposição de recurso apenas pelos réus.
+4. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por GLEYDISON VIEIRA DE SOUZA e OUTRA, inconformados com a decisão de fls. 547/552, que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a parte agravante aponta que, "ao imputar o valor de R$ 40.000,00 (quarenta mil reais) a título indenizatório, alcançando patamares máximos, há flagrante violação aos Artigos 944 e 948 Código Civil e do Artigo 8º do Código de Processo Civil, uma vez que os alegados danos materiais, (que deveriam corresponder a efetiva perda patrimonial e econômica do lesado) não foram especificados nem tampouco provados pelos Agravados" (fl. 560).
+Impugnação apresentada às fls. 564/571.
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. DANO MORAL. VALOR ADEQUADO PARA O CASO. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou orientação de que é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. A Corte de origem ressaltou que "o dano moral restou caracterizado porque a conduta do motorista da caminhonete, ao invadir a via preferencial sem se atentar à sinalização de "PARE", acabou por causar a colisão com a motocicleta e o falecimento do seu condutor, que morreu no local do acidente".
+3. In casu, o valor da compensação por danos morais, arbitrado em R$ 40.000,00 (quarenta mil reais), em favor da mulher do de cujus, não é exorbitante nem desproporcional aos danos sofridos, ante o falecimento de seu marido e a interposição de recurso apenas pelos réus.
+4. Agravo interno desprovido.
+VOTO
+Inexistem razões que justifiquem o acolhimento da pretensão recursal, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Conforme mencionado na decisão agravada, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010). A propósito, colhem-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - ATROPELAMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. Não constatada violação aos artigos 458, II e 535, II, do CPC/73, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. Para o reconhecimento da existência de causa excludente do nexo causal, concernente à culpa exclusiva das vítimas, seria imprescindível o revolvimento dos fatos e provas juntadas aos autos, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais fixado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula 7 do STJ. No caso dos autos, verifica-se que o quantum estabelecido pelo Tribunal a quo não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 513.191/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/08/2017, DJe 23/08/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. DANO MORAL. REVISÃO DO VALOR DA INDENIZAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO. 1. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Enunciado 182 da Súmula do STJ).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1005931/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/05/2017, DJe 22/05/2017, g.n.)
+Na espécie, o eg. Tribunal a quo fixou a respectiva indenização a título de danos morais em R$ 40.000,00 (quarenta mil reais). É o que se infere da transcrição do seguinte excerto:
+"No caso dos autos, o dano moral restou caracterizado porque a conduta do motorista da caminhonete, ao invadir a via preferencial sem se atentar à sinalização de "PARE", acabou por causar a colisão com a motocicleta e o falecimento do seu condutor, que morreu no local do acidente, causando imensa dor à sua esposa, ora apelada, que perdeu seu marido de apenas 25(vinte e cinco) anos de idade (evento nº 01, p. 34). Assim, estamos diante de dano moral in re ipsa ou dano moral puro, uma vez que o sofrimento, a angústia e o transtorno causados pelos recorrentes são presumidos, conferindo o direito à reparação sem a necessidade de produção de outras provas. Vale dizer, que o próprio fato já configura o dano.
+Com efeito, na esteira do precedente do colendo Superior Tribunal de Justiça, presume-se o dano moral na hipótese de morte de parente, tendo em vista que o trauma e o sentimento causado pela perda da pessoa amada são inerentes aos familiares próximos à vítima, in verbis:(..)Ao cotejar as condições econômicas das partes, a dor experimentada pela autora e a conduta dos réus, penso não ser razoável a indenização a título de danos morais fixada no édito sentencial, no importe de R$ 80.000,00 (oitenta mil reais), mostrando-se necessária a sua minoração para R$ 40.000,00 (quarenta mil reais), amoldando-se aos princípios da razoabilidade e da proporcionalidade, como se denota da jurisprudência consolidada e da súmula nº 32 deste egrégio Sodalício." (fls. 442/443)
+Em suma, a Corte de origem ressaltou que "o dano moral restou caracterizado porque a conduta do motorista da caminhonete, ao invadir a via preferencial sem se atentar à sinalização de "PARE", acabou por causar a colisão com a motocicleta e o falecimento do seu condutor, que morreu no local do acidente".
+In casu, o valor da compensação por danos morais, arbitrado em R$ 40.000,00 (quarenta mil reais), em favor da mulher do de cujus, não é exorbitante nem desproporcional aos danos sofridos, ante o falecimento de seu marido e a interposição de recurso apenas pelos réus. A propósito:
+CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. MORTE DO MARIDO E PAI DOS AUTORES. DANOS MORAIS. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de indicação do dispositivo de lei com interpretação divergente por outros tribunais, inviabiliza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal. Incidência da Súmula 284 do STF.
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 40.000,00 (quarenta mil reais), para cada autor (esposa e filhos da vítima)
+não se mostra exorbitante nem desproporcional aos danos suportados em razão de morte do marido e pai dos promoventes.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 345.654/RJ, relator Ministro RAUL ARAÚJO , Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Evidencia-se, pois, que a ora agravante não deduz argumentação nova capaz de modificar a decisão ora agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
