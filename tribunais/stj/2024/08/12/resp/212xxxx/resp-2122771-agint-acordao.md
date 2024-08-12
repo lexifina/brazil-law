@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022, I, II E III DO CPC. NÃO OCORRÊNCIA. SÚMULA 283/STF. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou, integralmente, a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Está correta a decisão ao observar que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Paraná desafiando decisão que negou provimento ao recurso especial, sob os seguintes fundamentos: (I) inexistência de ofensa ao artigo 1.022, I, II e III, do CPC; (II) ausência de interesse recursal; e (III) incidência do óbice da Súmula 283/STF.
+Opostos embargos declaratórios, foram rejeitados (fls. 459/461).
+A parte agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional, bem como a não incidência ao caso da Súmula 283/STF, sob a alegação de que "inaplicável neste caso, em que se trata da prescrição da execução de forma individual, em face da independência dos prazos prescricionais dos cumprimentos de sentença de obrigação de fazer e de obrigação de pagar, consoante pacífica posição do e. STJ. Conclui-se, então, que merece reconsideração a decisão proferida no presente REsp, uma vez refutados todos os fundamentos e não aplicáveis os óbices da decisão ora agravada" (fl. 438).
+As razões do recurso foram impugnadas às fls. 445/457.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022, I, II E III DO CPC. NÃO OCORRÊNCIA. SÚMULA 283/STF. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou, integralmente, a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Está correta a decisão ao observar que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte recorrente não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado no decisum, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional" (AgInt no AREsp n. 879.172/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/9/2016, DJe 28/9/2016).
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016).
+Quanto ao mais, o Sodalício de origem se manifestou nos seguintes termos (fls. 158/161):
+Não se deve desconsiderar que no cumprimento de sentença iniciado pelo Sindicato (nº0008041-64.2016.8.16.0004), no qual houve o requerimento das fichas financeiras, as partes tentaram acordo, o que resultou na suspensão do feito por 60 dias em 06.10.2020 e, depois, por mais 90 dias, em 05.03.2021 (mov. 86 e 279 dos autos 0008041-64.2016.8.16.0004).
+Verifica-se, assim, que o processo esteve suspenso por convenção das partes, conforme previsão do art. 313, inc. II, do CPC (mov. 84 e 85 dos autos mencionados), e após, por determinação judicial.
+Em que pese, de fato, a suspensão do processo não esteja elencada no rol taxativo de causas suspensivas da prescrição, previstas no Código Civil de 2002 (lei geral), deve ser observado no caso concreto o princípio da especialidade.
+A Lei de Mediação (Lei 13.140, publicada em 26.06.2015 e que entrou em vigor 180 dias depois, conforme art. 47), expressamente prevê sua aplicabilidade aos processos judiciais (arts. 24 a 29), buscando a solução de controvérsias e a autocomposição de conflitos também envolvendo a Fazenda Pública.
+Trata-se de lei especial (prevalece sobre a lei geral, lex specialis derrogat lex generalis) que dispõe expressamente em seu art. 17, parágrafo único, que: " Enquanto transcorrer o procedimento de mediação, ficará suspenso o prazo prescricional" e mais, no art. 34, que: "A instauração de procedimento administrativo para a resolução consensual de conflito no âmbito da administração pública suspende a prescrição (destaquei).
+ ..
+Além do que bem destacou o magistrado a quo, é certo que o atual CPC incentiva a busca por decisões consensuais, ao passo que, não entender suspensa a fluência do prazo prescricional durante os períodos em que as partes requereram a suspensão para buscar uma solução consensual, estaria indo ao revés da própria sistemática processual.
+No caso em concreto, em 06.10.2020 o Estado do Paraná nos autos 0008041- 64.2016.8.16.000 (mov. 84.1) expressamente peticionou ao Juiz da 2ª Vara da Fazenda Pública para "requerer a suspensão do processo, o que está consensado com a parte adversa. Esta peticionará concordando com o presente pedido" (destaques originais).
+ ..
+Através da decisão de mov. 86.1 (autos 0008041-64.2016.8.16.000), o pedido restou deferido:"1. Defiro o prazo de 60 (sessenta) de suspensão do feito para tratativas acordo entre as partes, sem prejuízo de manifestação em momento anterior".
+Em momento posterior, o mesmo Magistrado determinou, de ofício, a renovação da suspensão, pelo prazo de 90 dias, para o prosseguimento das tratativas de acordo. (mov.279.1 - autos 0008041-64.2016.8.16.000).
+Isso significa que, ao manifestar em juízo que havia espaço para a autocomposição, o agravante fez a admissibilidade a que se refere o § 1º do art.
+34 da Lei 13.140/2015 e, portanto, a partir de então, a prescrição esteve suspensa.
+Vale dizer, o Estado requereu a suspensão do processo, e, portanto, entender que diante de tal contexto, o prazo teria decorrido, seria beneficiar a Fazenda Pública que assume comportamento contraditório, com afronta direta aos princípios de cooperação processual, boa-fé objetiva, dentre outros.
+ ..
+Logo, considerando o período de suspensão (150 dias), o prazo prescricional quinquenal que se findaria em 07.04.2021, na verdade, teria seu termo último em 04.09.2021. Portanto, tendo em conta que o cumprimento de sentença foi protocolizado em 14.04.2021, não estaria fulminado pela prescrição.
+Corrobora tal entendimento o fato de não ter havido inércia da parte credora.
+Nesse contexto, está correto o decisório ao observar que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que "ao manifestar em juízo que havia espaço para a autocomposição, o agravante fez a admissibilidade a que se refere o § 1º do art. 34 da Lei 13.140/2015" e que "o Estado requereu a suspensão do processo, e, portanto, entender que diante de tal contexto, o prazo teria decorrido, seria beneficiar a Fazenda Pública que assume comportamento contraditório, com afronta direta aos princípios de cooperação processual, boa-fé objetiva, dentre outros" esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp n. 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp n. 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
