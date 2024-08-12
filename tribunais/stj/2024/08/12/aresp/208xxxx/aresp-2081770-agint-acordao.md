@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROUBO DE CARGA. RESPONSABILIDADE DA TRANSPORTADORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. ROUBO À MÃO ARMADA QUE CONSTITUI FORTUITO EXTERNO E AFASTA A RESPONSABILIDADE DA TRANSPORTADORA QUE NÃO TENHA SIDO NEGLIGENTE. PRECEDENTES. CONFISSÃO. SÚMULA Nº 7 DO STJ. BOA-FÉ CONTRATUAL. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em negativa de prestação jurisdicional quando o órgão julgador tenha se manifestado de forma adequada e suficiente a respeito de todos os temas necessários ao completo julgamento da lide.
+2. No caso, não há falar em omissão quanto às circunstâncias que teriam configurado de sídia da transportadora, porque a conclusão do Tribunal local, em sentido contrário, se mostra suficientemente fundamentada.
+3. Desde que não haja negligência da Transportadora, o roubo de carga configura fortuito externo capaz de afastar a responsabilidade da transportadora.
+4. A alegação de que a transportadora teria confessado sua responsabilidade não restou, de acordo com o acórdão recorrido, suficientemente comprovada, de modo que não pode ser acolhida sem ultrapassar a Súmula nº 7 do STJ.
+5. A alegação de que a transportadora não teria observado a boa-fé contratual esbarra nas Súmulas nºs 5 e 7 do STJ.
+6. Agravo interno não provido.
+RELATÓRIO
+ATOMEX INDÚSTRIA REPRESENTAÇÃO, ASSESSORIA E COMÉRCIO DE LIGAS E METAIS LTDA. (ATOMEX) propôs ação indenizatória contra TRANSPORTADORA DANDIER LTDA. ME (DANDIER) por não ter sido entregue a mercadoria transportada no destino. Afirmou que, aos 29/9/17, contratou a empresa DANDIER para transportar uma carga de lingote de alumínio avaliada em R$ 214.356,25 (duzentos e quatorze mil, trezentos e cinquenta e seis reais e vinte e cinco centavos), porém esta foi roubada quando do deslocamento para o destinatário final no dia 2/10/2017. Aduziu que a DANDIER acionou a seguradora que, todavia, não ressarciu integralmente a carga transportada (e-STJ, fl. 1/7).
+A sentença julgou improcedente o pedido, sob o fundamento de que a carga foi roubada com emprego de arma de fogo, configurando, assim, a ocorrência de caso fortuito, situação que se enquadra em exclusão da responsabilidade do transportador rodoviário de carga, por força do art. 12, inciso V, da Lei n.º 11.442/2007 (e-STJ, fls. 146/154).
+O Tribunal de Justiça de São Paulo negou provimento ao recurso de apelação interposto pela ATOMEX em acórdão da relatoria do Des. LAVÍNIO DONIZETTI PASCHOALÃO, assim ementado:
+APELAÇÃO - Ação de Indenização - Contrato de transporte rodoviário de carga - Sentença de improcedência - Insurgência da autora - Pretensão de ressarcimento de prejuízo decorrente do roubo da carga em percurso - Fator excludente da responsabilidade da transportadora - Configuração - Inexistência de conduta inesperada da ré que tenha contribuído para o evento - Ausência de monitoramento do veículo - Fator que não induz a responsabilidade da transportadora pelo evento - Conduta de terceiros estranhos ao contrato de transporte - Nexo de causalidade - Não ocorrência - Precedentes desta C. Corte e do E. Superior Tribunal de Justiça - Sentença de improcedência mantida - RECURSO NÃO PROVIDO. (e-STJ, fls. 197/203)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 213/217).
+Irresignada, ATOMEX interpôs recurso especial com fulcro no art. 105, inciso III, alínea a, da CF, alegando violação dos arts. (1) 489, § 1º, IV, do CPC, porque o TJSP não teria se manifestado quanto (1.a) à confissão da DANDIER sobre a ausência do rastreamento; e (1.b) à não confecção do Plano de Gerenciamento de Riscos que impediu o pagamento integral da indenização securitária; (2) 12, V, da Lei nº 11.422/2007 e 393 do CPC, pois não teria havido caso fortuito na hipótese dos autos; (3) 212 e 389 do CPC, pois a DANDIER teria confessado sua responsabilidade; e (4) 422 do CC, pois a DANDIER não teria atendido às exigências contratualmente previstas de rastreamento da carga transportada, nem repassado a documentação necessária à seguradora para obtenção de uma indenização securitária integral, violando, assim, a boa-fé contratual.
+Não foram apresentas contrarrazões (e-STJ, fl. 253).
+O apelo nobre não foi admitido na origem, e o agravo que seguiu foi conhecido para negar-lhe provimento em decisão monocrática de minha lavra assim resumida:
+CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ROUBO DE CARGA. NULIDADE NO ACÓRDÃO. NÃO VERIFICAÇÃO. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. FORÇA MAIOR. DESÍDIA DA TRANSPORTADORA. INOCORRÊNCIA. RESPONSABILIDADE OBJETIVA AFASTADA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. REVISÃO. SÚMULAS N.os. 5 E 7 DO STJ. CONFISSÃO DA RÉ VIA E-MAIL. FALTA DE ELEMENTOS. REVISÃO. SÚMULA N.º7 DO STJ. BOA-FÉ CONTRATUAL. VERIFICAÇÃO. IMPOSSIBILIDADE. ANÁLISE DE CLÁUSULAS CONTRATUAIS E REVISÃO DO ACÕRDÃO OBJURGADO. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO (e-STJ, fl. 315).
+Nas razões do presente inconformismo, ATOMEX (1) alegou que estaria efetivamente caracterizada negativa de prestação jurisdicional; (2) refutou a aplicação das Súmulas nºs 5 e 7 do STJ; e (3) reiterou as demais alegações suscitadas no seu recurso especial.
+Foi apresentada impugnação (e-STJ, fl. 338/354).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROUBO DE CARGA. RESPONSABILIDADE DA TRANSPORTADORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. ROUBO À MÃO ARMADA QUE CONSTITUI FORTUITO EXTERNO E AFASTA A RESPONSABILIDADE DA TRANSPORTADORA QUE NÃO TENHA SIDO NEGLIGENTE. PRECEDENTES. CONFISSÃO. SÚMULA Nº 7 DO STJ. BOA-FÉ CONTRATUAL. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em negativa de prestação jurisdicional quando o órgão julgador tenha se manifestado de forma adequada e suficiente a respeito de todos os temas necessários ao completo julgamento da lide.
+2. No caso, não há falar em omissão quanto às circunstâncias que teriam configurado de sídia da transportadora, porque a conclusão do Tribunal local, em sentido contrário, se mostra suficientemente fundamentada.
+3. Desde que não haja negligência da Transportadora, o roubo de carga configura fortuito externo capaz de afastar a responsabilidade da transportadora.
+4. A alegação de que a transportadora teria confessado sua responsabilidade não restou, de acordo com o acórdão recorrido, suficientemente comprovada, de modo que não pode ser acolhida sem ultrapassar a Súmula nº 7 do STJ.
+5. A alegação de que a transportadora não teria observado a boa-fé contratual esbarra nas Súmulas nºs 5 e 7 do STJ.
+6. Agravo interno não provido.
+VOTO
+A irresignação não colhe êxito.
+(1) Negativa de prestação jurisdicional
+ATOMEX alegou que o TJSP teria violado o art. 489, § 1º, IV, do CPC, porque não se manifestou quanto (1.a) à confissão da DANDIER sobre a ausência do rastreamento; e (1.b) à não confecção do Plano de Gerenciamento de Riscos que impediu o pagamento integral da indenização securitária. Essas circunstâncias, segundo alegado, teriam caracterizado a quebra da boa-fé objetiva.
+Não há falar em omissão com relação ao item 1a, porque houve manifestação expressa acerca do tema:
+Anote-se:
+Dada as circunstâncias em que se sucedeu o evento, o caso é mesmo de configuração de força maior, fator excludente da responsabilidade da transportadora pelos danos alegados.
+No caso em tela, não se tem demonstrado qualquer ato de desídia ou culpa da transportadora pelo acontecido, nem mesmo se pode presumir que a contratação do monitoramento do veículo seria capaz de afastar o risco ou, ao menos, afirmar que dada a sua ausência o risco se agravou. (fls. 201)
+No que concerne ao item 1.b, tampouco é possível falar em omissão, porque o TJSP foi expresso em afirmar que não houve desídia por parte da DANDIER, consoante se extrai da própria passagem transcrita.
+(2) Fortuito externo
+ATOMEX alegou que não seria possível falar em caso fortuito, na hipótese, porque o roubo de carga constitui risco totalmente previsível e poderia ser afastado caso fossem tomadas as providências contratuais devidas.
+O Tribunal bandeirante entendeu que a transportadora não demonstrou desídia pelo acontecido e, baseando-se em jurisprudência do STJ, constatou que a perda da carga se deu em razão de ocorrência de força maior, situação que afastou a responsabilidade objetiva da transportadora em seu dever de indenizar.
+Confira-se trecho do acórdão:
+Dada as circunstâncias em que se sucedeu o evento, o caso é mesmo de configuração de força maior, fator excludente da responsabilidade da transportadora pelos danos alegados. No caso em tela, não se tem demonstrado qualquer ato de desídia ou culpa da transportadora pelo acontecido, nem mesmo se pode presumir que a contratação do monitoramento do veículo seria capaz de afastar o risco ou, ao menos, afirmar que dada a sua ausência o risco se agravou. Segundo jurisprudência firmada na Corte Superior e neste E. Tribunal de Justiça, o roubo da carga configura força maior, fator excludente da responsabilidade da transportadora:
+ ..
+Cumpre destacar trecho da decisão do E. Ministro Luis Felipe Salomão em que aponta que nem mesmo a ausência de contratação de escolta armada ou seguro são fatores a induzir a responsabilidade da transportadora:
+ ..
+Em conclusão, inexistente conduta inesperada da transportadora que tenha contribuído para o evento, configurada está a causa excludente da responsabilidade da contratada, uma vez que o evento danoso se originou de conduta de terceiros estranhos ao contrato de transporte, de tal forma que não se verifica o nexo de causalidade entre a atividade da empresa-ré e os danos sofridos pela autora. (e-STJ, fls. 201/203)
+Realmente, a jurisprudência deste Sodalício é no sentido de que, desde que não haja negligência da Transportadora, o roubo de carga afasta a responsabilidade objetiva da transportadora, em razão do reconhecimento de força maior.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS. RESPONSABILIDADE CIVIL. ROUBO DE VEÍCULO. CASO FORTUITO. EXCLUDENTE DE RESPONSABILIDADE DO TRANSPORTADOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Esta Corte de Justiça possui jurisprudência de que o roubo de carga, com ameaça de arma de fogo, durante o transporte constitui evento de força maior, de ordem a isentar de responsabilidade a transportadora. Precedentes.
+3. No caso, as instâncias ordinárias, com fundamento nas provas, afastaram a responsabilidade da agravada, concluindo que o evento decorreu em razão do roubo do caminhão, com violência e grave ameaça, levando ao acionamento do serviço de rastreamento por satélite, que imobilizou o veículo sobre a rodovia.
+4. O entendimento adotado pelo acórdão recorrido está em harmonia com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AgRg no AREsp n. 569.564/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/4/2020, DJe de 4/5/2020)
+AGRAVO INTERNO DO RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. TRANSPORTE DE CARGAS. OBRIGAÇÃO DO TRANSPORTADOR. OBRIGAÇÃO DE RESULTADO. FORTUITO EXTERNO OU INTERNO. DIFERENÇAS. HIPÓTESE DE FORTUITO EXTERNO. ROUBO À MÃO ARMADA. REFORMA DO ACÓRDÃO. FUNDAMENTO INATACADO. SÚMULA 283 DO STF POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, trata-se de ação indenizatória ajuizada em decorrência de roubo de cargas durante os transportes.
+2. Segundo o Código Civil "a responsabilidade do transportador, limitada ao valor constante do conhecimento começa no momento em que ele, ou seus prepostos recebem a coisa; termina quando é entregue ao destinatário ou depositada em juízo, se aquele não for encontrado", o que nada mais é senão a tão denominada obrigação de resultado.
+3. Apesar da obrigação de resultado do transportador em entregar as mercadorias até o destinatário final, ainda assim sua responsabilidade é informada objetivamente, com possibilidade de ensejar excludentes, tais como fato de terceiro ou caso fortuito ou força maior.
+4. O roubo de carga, com ameaça de arma de fogo, durante o transporte constitui evento de força maior, de ordem a isentar de responsabilidade a transportadora. Precedentes.
+5. A subsistência de fundamento inatacado apto a manter a conclusão da decisão agravada impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.033.685/MG, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TRANSPORTE DE MERCADORIAS. PREQUESTIONAMENTO. AUSÊNCIA. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. AUSÊNCIA. ROUBO DURANTE O TRAJETO. FORTUITO EXTERNO. EXCLUDENTE DE RESPONSABILIDADE. 1. Ação ajuizada em 19/03/2007. Recurso especial interposto em 21/01/2013 e atribuído a este gabinete em 25/08/2016.
+2. O propósito recursal consiste em verificar a existência do direito de regresso ao ressarcimento por seguro de mercadoria, que foi roubada, com o emprego de arma de fogo, durante a prestação do serviço de transporte pela recorrente.
+3. Inviável o reconhecimento de violação ao art. 535 do CPC/73 quando não verificada no acórdão recorrido omissão, contradição ou obscuridade apontadas pelos recorrentes.
+4. A ausência de prequestionamento das matérias relacionadas no recurso pelo Tribunal de origem impõe a aplicação da Súmula 211/STJ.
+5. O roubo de mercadoria transportada, praticado mediante ameaça exercida com arma de fogo, é fato desconexo ao contrato de transporte e, sendo inevitável, diante das cautelas exigíveis da transportadora, constitui-se em caso fortuito ou força maior, excluindo-se sua responsabilidade pelos danos causados, nos termos do CC/2002.
+6. Conforme jurisprudência do STJ, "se não for demonstrado que a transportadora não adotou as cautelas que razoavelmente dela se poderia esperar, o roubo de carga constitui motivo de força maior a isentar a responsabilidade daquela" (REsp 435.865/RJ, 2ª Seção).
+7. Na hipótese dos autos, o Tribunal de origem parece pôr em dúvida a própria ocorrência do fato delitivo. Contudo, não é possível ao Tribunal de origem atribuir responsabilidade à transportadora, apenas por haver detalhes supostamente ausentes no boletim de ocorrência, cuja ausência, ademais, não desconfiguraria a própria ocorrência do roubo com emprego de arma de fogo.
+8. Mesmo diante de todas as precauções e cautelas possíveis, a força maior é por si mesma inevitável e irresistível e, por mais que se exija dos prestadores de serviço de transporte terrestre de mercadoria, o roubo com emprego de arma de fogo pode continuar a ocorrer, não sendo exigível a existência de escolta armada, sem a prévia estipulação contratual.
+9. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp n. 1.660.163/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 6/3/2018, DJe de 9/3/2018.)
+Assim, como o acórdão objurgado afirmou que não houve negligência da transportadora, não há como afastar a configuração do fortuito externo.
+(3) Confissão
+ATOMEX alegou ofensa aos arts. 212 e 389 do CPC, pois, em troca de e-mails, a DANDIER teria confessado sua responsabilidade e se proposto a pagar o débito.
+Anote-se:
+A partir de então, a Ré, através de troca de e-mails (doc. 7), reconheceu o dever de ressarcir a Autora pelo valor constante no Conhecimento de Transporte, porém sustenta, supostamente, não possuir condições financeiras para tanto. (e-STJ, fl. 2)
+Por seu turno, o Tribunal paulista entendeu não ter a ATOMEX trazido nos autos elementos suficientes para a reforma da decisão outrora atacada, verbis:
+Pois bem. No que tange a suposta omissão quanto à tese de confissão da embargada, verifica-se que embora relate a ocorrência do referido ato confessional, não traz a embargante, em suas razões recursais, qualquer fundamento nesse sentido para a reforma da sentença recorrida. Portanto, não há que se falar em omissão no v. acórdão embargado. (e-STJ, fl. 216)
+Dessa forma, a análise da questão demandaria revolvimento do conjunto fático-probatório, diligência que esbarra no disposto na Súmula n.º 7 do STJ.
+(4) Boa-fé contratual
+ATOMEX alegou violação do art. 422 do CC, pois como a transportadora não atendeu as exigências referentes a necessidade de rastreamento da carga nem forneceu Plano de Gerenciamento de Riscos, não teria agido com boa-fé contratual, situação que implicaria quebra de contrato e, por conseguinte, imporia o dever de indenizar.
+Mas o Tribunal local afastou a desídia da transportadora e entendeu que, mesmo que houvesse tido o monitoramento do caminhão, o risco não seria afastado ou reduzido. Confira-se trecho do acórdão:
+No caso em tela, não se tem demonstrado qualquer ato de desídia ou culpa da transportadora pelo acontecido, nem mesmo se pode presumir que a contratação do monitoramento do veículo seria capaz de afastar o risco ou, ao menos, afirmar que dada a sua ausência o risco se agravou. (e-STJ, fl. 201)
+Nesse contexto, revisar as condições do contrato sobre necessidade de rastreamento firmadas entre ATOMEX e DANDIER, bem como afastar o entendimento do Tribunal sobre a ausência de desídia da transportadora, necessitaria, invariavelmente, da incursão em cláusulas contratuais e revolvimento do conjunto fático-probatório, providências inviáveis ante os óbices contidos nas Súmulas n.ºs 5 e 7 do STJ, respectivamente.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
