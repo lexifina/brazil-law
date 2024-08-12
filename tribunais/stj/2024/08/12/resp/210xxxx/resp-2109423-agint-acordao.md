@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE DE EX-EMPREGADO. ART. 31 DA LEI 9656/98. DATA DO INÍCIO DA DISTINÇÃO INDEVIDA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo interno desprovido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por ELIANA CARDOSO DE ALMEIDA, JOAO AKASHI, MARIA AUGUSTA MARQUES, MASSAE KOGA DOS SANTOS, contra decisão que conheceu em parte do seu recurso especial para negar-lhe provimento.
+Ação: de obrigação de fazer ajuizada por ELIANA CARDOSO DE ALMEIDA, JOAO AKASHI, MARIA AUGUSTA MARQUES e MASSAE KOGA DOS SANTOS em face de TELEFÔNICA BRASIL. S.A., visando a sua manutenção no plano de saúde coletivo contratado por ex-empregadora, nas mesmas condições ofertadas aos empregados da ativa.
+Sentença: julgou parcialmente procedente a demanda para determinar a restituição dos valores pagos a maior pelos autores.
+Acórdão: negou provimento às apelações de ambas as partes, nos termos da seguinte ementa:
+ILEGITIMIDADE "AD CAUSAM" Contrato Prestação de serviços Plano de saúde Pretensão de ex-empregados em permanecerem como segurados Ação proposta em face da seguradora Legitimidade passiva Configuração Empresa que é a destinatária final dos pagamentos efetuados pelos segurados Preliminar rejeitada Recursos improvidos.
+PRESCRIÇÃO Contrato Plano de saúde. Reparação civil Lapso prescricional decenal. Reconhecimento Incidência do disposto no art. 205do CC, ante a ausência de regra específica Pretensão à devolução das quantias pagas a maior que prescreve em 03 (três) anos, incidindo a regra contida no art. 206,§ 3º, IV, do CC/2002 Tese fixada ao serem julgados os REsp nºs 1.361.182-RS e 1.360.969-RS Recursos improvidos.
+CONTRATO Prestação de serviços Plano de saúde Aplicação do Código de Defesa do Consumidor. Desligamento de empregados Manutenção sua, por prazo indeterminado, como beneficiários do seguro saúde prestado pela ex-empregadora, sem distinção de condições entre ativos e inativos, pagando a soma das quotas-partes de empregado e empregadora. Necessidade Hipótese em que há diferenciação entre os empregados Inobservância do entendimento expresso nos REsp nºs 1.818.487/SP e 1.816.482/SP do C. Superior Tribunal de Justiça, ao julgar recursos repetitivos Possibilidade, no entanto, de reestruturar o plano, com escalonamento por faixa etária, sem, contudo, haver distinção entre funcionários em atividade ou não Pedido de condenação por litigância de má-fé afastado Recursos improvidos.
+Embargos de Declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1022 do CPC, bem como dissídio jurisprudencial. Sustenta que o termo inicial para a contagem do prazo prescricional não pode ser o mês de abril de 2020, tendo em vista que o aditivo contratual, no qual se baseou a referida data como início dos tratamentos diferenciados, é idêntico à forma de custeio vigente desde o ano de 2016. Aduz, ademais, a existência de julgado deste Superior Tribunal concernente a outros beneficiários do mesmo plano, sob a mesma diferenciação das massas de empregados ativos e inativos, cujo termo inicial da indevida diferenciação foi reconhecido como o ano de 2016.
+Decisão unipessoal: conheceu em parte do recurso especial e negou-lhe provimento ante à ausência de negativa de prestação jurisdicional e de demonstração do dissídio jurisprudencial.
+Agravo interno: a parte agravante renova a alegação recursal, repisada em seus embargos de declaração de que o acórdão baseou-se tão somente em documento específico assinado em abril de 2020, tendo deixado de analisar contrato de 2016 que previa a indevida diferenciação entre empregados ativos e inativos. Reitera, assim, as razões de seu recurso especial quanto à apontada omissão quanto a data do início da indevida distinção entre empregados ativos e inativos, além de dissídio jurisprudencial quanto ao tema.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE DE EX-EMPREGADO. ART. 31 DA LEI 9656/98. DATA DO INÍCIO DA DISTINÇÃO INDEVIDA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo interno desprovido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Quanto à data em que se verificou a indevida distinção de tratamento entre empregados ativos e inativos, é este o teor do acórdão recorrido:
+"Como se vê do quanto decidido acima, é assegurada ao ex-empregado a sua manutenção no plano de saúde, oferecido pela sua ex-empregadora, vedada a distinção entre ativos e inativos, mas com possibilidade de substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores, e a diferenciação por mudança de faixa etária. Além disso, como vinha sendo decidido por esta Corte, o empregado, após o seu desligamento, deve de arcar com a quantia que pagava mensalmente acrescida daquela que cabe à sua ex-empregadora.
+Vale lembrar que o que a Lei garante é que o inativo aposentado ou demitido seja mantido, nas mesmas condições oferecidas aos funcionários em atividade, acrescida da parte patronal, como já dito, e não a manutenção ad eternum dos valores do prêmio.
+E como demonstram os documentos de fls.515 e ss., o aditivo indica a contratação de planos per capita e por faixa etária, para funcionários em atividade e inativos, respectivamente, tendo sido firmado em 07 de abril de 2020, sendo certo que, a partir desta data, está configuradaa diferenciação da contratação para empregados ativos e em inatividade. Nos termos do entendimento da Corte Superior, devem de ser observadas as mesmas condições oferecidas aos empregados da ativa, sem que haja qualquer discriminação entre eles e os inativos, mas com possibilidade de escalonamento de reajuste por mudança de faixa etária." (fls. 1934/1935, e-STJ).
+Acrescente-se, ainda, no tocante à alegação de que teria sido analisado tão comente um documento de 2020, insuficiente à análise da desigualdade perpetrada, a Corte de origem também decidiu integralmente a questão, como se vê do seguinte trecho:
+"A pretensão dos embargantes já foi, inclusive, objeto dos embargos de declaração opostos contra a r. sentença.
+Ao contrário do afirmado por eles, não foi analisado apenas um documento, em detrimento dos demais, mas aquele que indica que a situação de desigualdade entre ativos e inativos passou a vigorar, qual seja, a data do aditamento contratual.
+Em decorrência de tal reconhecimento diferenciação ocorrida a partir de 2020, não há falar-se em contradição, como pretendem os embargantes." (fls. 2068/2069, e-STJ).
+Constata-se, desse modo, que o artigo 1.022 do CPC realmente não foi violado, porquanto o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente, não havendo falar em omissão alguma a ser sanada.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no AREsp 2.164.998/RJ, 3ª Turma, DJe 16/02/2023; AgInt no REsp 1.850.632/MT, 4ª Turma, DJe 08/09/2023; e AgInt no REsp 1.655.141/MT, 1ª Turma, DJe de 06/03/2024.
+Melhor sorte não merece o recurso quanto ao dissídio jurisprudencial apontado. Com efeito, a similitude fática é a semelhança entre os fatos que servem como base para uma análise comparativa entre os acórdãos. Em consequência, é requisito indispensável para a demonstração da divergência, pois é necessário que os fatos sejam comparáveis para que se possa estabelecer uma discrepância ou semelhança entre eles, o que não ocorreu na espécie. Assim, sem a adequada demonstração da similitude fática, a análise do dissídio jurisprudencial não é possível.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no recurso especial.
