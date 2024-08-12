@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  EM MANDADO DE SEGURANÇA.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2.  Agravo  interno  não  conhecido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  DANIEL PINHEIRO  contra  a  decisão  que  negou provimento em recurso em mandado de segurança em razão  da  incidência  da  Súmula  283/STF.
+O agravante repisa as razões de seu recurso em mandado de segurança, aduzindo que "não pode a administração pública preterir um candidato aprovado e mais bem colocado em concurso público em prol de outros candidatos em classificações inferiores" (fl. 789).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação às fls. 799-806.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  EM MANDADO DE SEGURANÇA.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2.  Agravo  interno  não  conhecido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O agravo interno não merece conhecimento, porquanto não fora observado o princípio da dialeticidade recursal.
+Conforme dispõe o § 1º do art. 1.021 do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Inicialmente, cumpre observar os fundamentos do Tribunal de origem ao negar provimento ao recurso em mandado de segurança:
+Convém assentar que o "direito à preferência" refere-se tão somente à nomeação, e isso é referendado pelo próprio instrumento convocatório quando prevê expressamente que "o candidato poderá ser lotado, após a posse, para qualquer uma das unidades prisionais do estado, respeitando a ordem classificatória para a escolha de de vaga, e permanecerá lotado na respectiva regional de sua escolha durante o período de estágio probatório" (item 2.2), bem como que "a escolha de vagas para lotação e exercício profissional, dentre as que forem disponibilizadas, obedecerá a ordem de classificação final (lista geral) do concurso público" (item 2.3).
+compete à Administração, atuando com discricionariedade, nomear os candidatos aprovados de acordo com sua conveniência e oportunidade" (STJ, Recurso Ordinário em Mandado de Segurança n. 51.321/ES, rel. Min. Herman Benjamin, Segunda Turma, j. 16-8-2016), inclusive naquilo que diz com a necessidade de pessoal em cada uma da unidades prisionais do Estado e também com a análise de quais vagas serão por primeiro preenchidas. E isso, aliás, encontra-se exprimido no próprio item 18.1 do edital do certame, in verbis:
+ ..
+Neste aspecto, registro que a posse "é a aceitação do servidor das atribuições do cargo, momento em que assume o compromisso de bem servir. Nesse momento, forma-se a relação jurídica: a Administração atribui o cargo e o servidor aceita o, formando-se assim o vínculo estatutário, o que se denomina investidura" (MARINELA, Fernanda. Manual de direito administrativo. 15. ed. rev. atual. e ampl. Salvador: Editora JusPodivm, 2021. p. 780), a partir de quando serão observadas as normas relativas à carreira pública iniciada, no caso a de policial penal, atualmente regida pela Lei Complementar Estadual n. 774/2021, a qual, reproduzindo preceito contido na hoje revogada Lei Complementar Estadual n. 675/2016, dispõe que "ficam vedados, durante o estágio probatório  de três anos ..  a remoção do Policial Penal, observado o disposto no § 1º do art. 55 desta Lei Complementar" (art. 25, III).
+Por derradeiro, cediço ressaltar que, embora a intenção inicial da Secretaria de Estado da Administração Prisional e Socioeducativa fosse, diante da necessidade de mais policiais penais nas unidades prisionais do Estado, efetuar "a nomeação imediata de 600 (seiscentos) candidatos aprovados no Concurso Público Edital 01/2019 - SAP/SC" (Ev. 15, ANEXO15, p. 10), a pandemia provocada pelo novo coronavírus (SARS-CoV-2) ensejou a edição, em âmbito federal, da Lei Complementar n. 173/2020, que continha a determinação de que enquanto perdurasse o estado de calamidade pública (inicialmente previsto até 31-12-2021) estariam os entes federados proibidos de admitir ou contratar pessoal, a qualquer título, ressalvada a possibilidade de reposição decorrentes da vacância de cargos públicos (art. 8º, IV).
+ ..
+Nesse contexto, acatando a orientação exarada no Parecer n. 574/2020 da Procuradoria-Geral do Estado de Santa Catarina (Ev. 15, ANEXO15, p. 29-37), a Secretaria de Estado da Administração Prisional e Socioeducativa procedeu à nomeação dos candidatos aprovados em diferentes oportunidades, a depender de vacâncias verificadas durante o prazo de validade do certame, observando as unidades prisionais que à época estavam disponíveis para lotação.
+Nesse contexto, segundo a decisão ora agravada, havia motivo legal suficiente e razoável para que a Administração realizasse a chamada de lotações da forma que fez, qual seja, as restrições da LC 173/2020, que estabeleceu o programa federativo de enfrentamento à pandemia mundial do coronavírus. Não obstante, a parte não mencionou em suas razões recursais o apontado fundamento decisório, suficiente, por si só, à manutenção do julgado, limitando-se a, basicamente, repisar a sua exordial. Circunstância que atrai a aplicação do óbice da Súmula 283/STF.
+No presente agravo interno, as razões da irresignação do recorrente não são aptas a atacar o fundamento da decisão recorrida, deixando de impugnar especificamente os fundamentos da decisão agravada, notadamente a incidência da Súmula 283/STF.
+Deveria a parte agravante ter demonstrado, de forma clara e fundamentada, que impugnara especificamente todos os fundamentos da decisão que inadmitiu o recurso especial, o que não o fez, ensejando, dessa vez, a aplicação direta do enunciado sumular 182/STJ.
+Com efeito, a dialeticidade recursal é um princípio fundamental da validade dos recursos, a partir do qual entende-se que o agravante deve atacar os argumentos da decisão, e não somente manifestar a vontade de recorrer, ou aduzir razões genéricas.
+A propósito:
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO DOS TERMOS DO PEDIDO ORIGINÁRIO. AGRAVO NÃO CONHECIDO.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. O princípio da dialeticidade recursal impõe à parte agravante o dever de impugnar de forma clara, objetiva e concreta os fundamentos da decisão agravada de modo a demonstrar o desacerto do julgado.
+3. Agravo interno não conhecido (AgInt na SS 3.430/MA, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 15/9/2023).
+Portanto, conforme jurisprudência desta Corte, à luz do que dispõem o art. 1.021, § 1º, do CPC/2015; e a Súmula 182/STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada
+Isso posto, não conheço do recurso.
