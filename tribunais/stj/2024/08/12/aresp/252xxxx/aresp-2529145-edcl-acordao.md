@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLAR AÇÃO. REQUISITOS. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por IRMANDADE DE MISERICORDIA DE PORTO FERREIRA contra acórdão que desproveu o agravo interno, o qual foi assim ementado (e-STJ fl. 1.261):
+PROCESSUALCIVIL E ADMINISTRATIVO. PREQUESTIONAMETNO. OCORRÊNCIA. ENTIDADE PRIVADA. SUS. TABELA. DEFASAGEM. ENTE FEDERAL CONTRATANTE. LITISCONSÓRCIO PASSIVO NECESSÁRIO. EXIGÊNCIA.
+1. Para que o prequestionamento, não se faz necessário que a Corte de origem cite dos dispositivos apontados como contrariados, mas que se manifeste sobre a questão defendida, como ocorreu na hipótese.
+2. A Primeira Turma do STJ, no julgamento do AREsp 2.067.898/DF, de relatoria do em. Ministro Sérgio Kukina (DJe 20/12/2022), firmou o entendimento de que, nas demandas relacionadas a desequilíbrio econômico-financeiro de contrato ou convênio com entidade privada para prestação de serviço complementar ao SUS, há litisconsórcio passivo necessário com os entes políticos locais que celebraram diretamente o negócio jurídico.
+3. Agravo interno desprovido.
+Sustenta a parte embargante que o acórdão embargado padece de omissão, uma vez que o agravo em recurso especial não impugnou todos os fundamentos do juízo de prelibação.
+Aduz que referida questão é matéria de ordem pública e, no caso, o agravo em recurso especial não enfrentou o fundamento do juízo de prelibação quanto à incidência do Tema 1.033 do STJ, devendo-se aplicar o mesmo entendimento proferido pela Segunda Turma no AgInt no AREsp 2352518/CE, de relatoria do em. Ministro Herman Benjamin (DJe 18/12/2023).
+Defende também a ocorrência de omissão quanto à ausência de prequestionamento da matéria decidia (reconhecimento litisconsórcio passivo necessário), existência de decisão monocrática em julgado sobre a mesma questão em que se reconheceu a ausência de prequestionamento e incidência da Súmula 283 do STF, porque a legitimidade passiva da União foi decidida com base no art. 26 da Lei n. 8.080/1990.
+Alega, ainda, a ocorrência de obscuridade, porque o entendimento manifestado na decisão monocrática e mantido no acórdão corresponde a jurisprudência minoritária, citando julgados que corroborariam com seu entendimento.
+Impugnação às e-STJ fls. 1.276/1.289.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLAR AÇÃO. REQUISITOS. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+Relativamente à ausência de impugnação de todos os fundamentos do juízo de inadmissão proferidos pelo Tribunal de origem, observa-se que tal alegação não foi trazida nas razões do agravo interno, de modo que o Colegiado não estava obrigado a revisitá-las no aresto combatido.
+Registre-se que consta da decisão monocrática agravada que o Tribunal de origem negou seguimento ao recurso especial em relação à tese de impossibilidade de utilização da tabela TUNEP (por entender que a conclusão do acórdão está em consonância com a tese firmada no Tema 1.033 do STF) e inadmitiu-o quanto às demais questões, tendo sido apresentado agravo em recurso especial impugnando as razões do juízo de inadmissão (e-STJ fl. 1.120).
+Além disso, a alegação de que não foi impugnado o Tema n. 1.033 do STJ em nada altera a conclusão alcançada naquela decisão monocrática, visto que, no ponto, o apelo nobre teve seu seguimento negado e não inadmitido. Dessa forma, eventual insurgência quanto ao tema apreciado em repercussão geral importaria em recurso diverso do agravo de que trata o art. 1.042 do CPC/2015.
+Tal conclusão, inclusive, é a seguida tanto na decisão monocrática quanto no acórdão proferido pela Segunda Turma no AREsp 2352518, citado pelo ora embargante.
+Também não se observa a existência de omissão quanto ao prequestionamento na matéria referente a existência de litisconsórcio passivo necessário.
+Com efeito, o acórdão foi expresso ao afirmar que (e-STJ fl. 1.265):
+Inicialmente, cumpre observar que, para que haja o prequestionamento, não se faz necessário que a Corte de origem cite os dispositivos apontados como contrariados, mas que se manifeste sobre a questão defendida.
+No caso, o Tribunal de origem se manifestou sobre a tese de litisconsorte passivo necessário, afastando-a nos seguintes termos (e-STJ fl. 813):
+Não prosperam as preliminares de ilegitimidade passiva ad causam da União, bem como da necessidade de litisconsórcio passivo necessário dos demais entes da Federação.
+(..)
+A presente demanda visa a revisã o dos valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do SUS razão pela qual. considerando que a direção nacional do Sistema Único de Saúde - SUS é exercida pelo Ministério da Saúde resta manifesta a legitimidade passiva ad causam da União. Pelas mesmas razões ora apontadas não se vislumbra a necessidade de litisconsórcio passivo dos demais entes da federação pois a procedência do pedido e revisão dos valores da tabela de remuneração dos serviços prestados no âmbito do SUS implica a imposição de obrigação tão somente à União.
+Cabe, ainda, observar que existência de decisão monocrática proferida por outro Ministro em julgado sobre a mesma questão, na qual se chegou a conclusão diversa (ausência de prequestionamento), não tem o condão de alterar o entendimento alcançado nestes autos em julgado proferido por Colegiado, no qual os seus membros tiveram a oportunidade de apreciar, em concreto, a questão.
+Além disso, a decisão monocrática citada (Resp 2072877, relatora Ministra Regina Helena, DJe 18/12/2023) foi objeto de agravo interno ainda não submetido a apreciação do órgão colegiado ou a eventual reconsideração.
+Oportuno, destacar que o acórdão recorrido também apreciou o disposto no art. 26 da Lei n. 8.080/1990, reiterando que a União possui legitimidade para figurar no polo passivo da demanda em que se busca a revisão dos valores da tabela SUS por suposta defasagem, por ser responsável pelo estabelecimento de parâmetros mínimos de critérios e valores a serem observados, em face do referido dispositivo legal (e-STJ fls. 1.265/1.268).
+Entretanto, destacou que os negócios jurídicos que dão ensejo a participação complementar na iniciativa privada são celebrados diretamente pelos Estados e/ou Municípios, de acordo com a realidade e necessidade de complementação dos serviços públicos de saúde observadas em seus respectivos territórios, bem como que o SUS é cofinanciado por todos os entes da Federação (conforme da CF/1988), dispondo a lei complementar sobre valores mínimos de investimentos de cada um deles para ações e serviços públicos de saúde e (e-STJ fl. 1.268):
+Nesse contexto, em que se discute eventual desequilíbrio econômico-financeiro do contrato, inclusive quanto a despesas pretéritas, é necessário que haja também a participação daqueles que celebraram o contrato, o convênio ou o termo de parceria, diante na natureza da relação jurídica controvertida (art. 114 do CPC/2015), sob pena, inclusive, de a parte autora não alcançar a pretensão de efetivo reequilíbrio, ainda que a demanda seja julgada procedente em relação a União.
+Como bem destacado pelo em. Ministro Sérgio Kukina no voto condutor, "não parece razoável que a unidade federativa que tenha figurado direta e exclusivamente no contrato, seja este escrito ou não, deixe de também responder à demanda judicial, na qual o prestador complementar questiona exatamente a justeza dos valores recebidos pela execução de seu objeto" (AREsp 2.067.898/DF, Primeira Turma, julgado em 15/12/2022, DJe de 20/12/2022).
+Registre-se, ainda, que as razões do apelo nobre não fazem menção a incidência da Súmula 283 do STF.
+Ademais, o aresto embargado apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao último vício de integração alegado, melhor sorte não possui a parte insurgente.
+O acórdão é claro ao afirmar que se reconhece que a jurisprudência do STF e do STJ entende a responsabilidade solidária dos entes da Federação nas demandas relacionadas à prestação se serviço público de saúde ao cidadão.
+Entretanto, a questão discutida no autos, diz respeito a situação diversa, relacionada a eventual desequilíbrio econômico-financeiro decorrente de negócio jurídico celebrado com a entidade privada de saúde para prestação de serviço ao SUS na modalidade complementar (e-STJ fls. 1.266/1.268).
+Constou, também, de forma expressa no aresto embargado que a Rcl 50482 AgR. (STF, Primeira Turma, Rel. Min. Rosa Weber. Dje 04/11/2022), bem como o AgInt no CC n. 178.683/SC (relator Ministro Humberto Martins, Primeira Seção, julgado em 30/5/2023, DJe de 5/6/2023) e o AgInt no AREsp n. 2.081.423/DF (relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2022, DJe de 30/9/2022), dizem respeito a matéria diversa, qual seja, o fornecimento de medicação para tratamento da saúde de cidadãos (e-STJ fls. 1.268/1.269).
+Registre-se, ainda, que o AgInt nos EDcl no CC 190.116 (relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 22/6/2023), assim como os acima descritos, refere-se a fornecimento de medicamento adequado ao tratamento de saúde de pessoa física, não tendo relação com eventual desequilíbrio nos valores referentes ao serviço de saúde complementar.
+Ademais, asseverou-se que o entendimento adotado na decisão agravada e mantido no acórdão embargado foi alcançado após esta Turma se debruçar novamente sobre a questão no julgamento do AREsp 2.067.898/DF, de relatoria do em. Ministro Sérgio Kukina, julgado em 15/12/2022.
+Na oportunidade, acrescentou-se que "uma vez que o Colegiado passou a adotar entendimento diferente, cumpre aos seus membros aplicar a nova orientação, em respeito ao princípio da colegialidade, cabendo eventual ressalva quanto ao entendimento individual, o que não é o caso" (e-STJ fl. 1.269).
+Destacou-se, ainda, que "na existência de entendimentos conflitantes entre as Turmas desta Corte Superior, a parte pode fazer uso do meio processual previsto na legislação pátria para suscitar eventual uniformidade na jurisprudência no momento adequado" (e-STJ fl. 1.269).
+Observa-se, portanto, que os vícios de integração invocados pela parte embargante manifestam o seu inconformismo com o julgado embargado e repisam argumentos já apreciados , objetivando a modificação da aludida conclusão, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURADO. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata a omissão alegada pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração parcialmente acolhidos, para sanar erro material.
+(EDcl no AgInt nos EDcl no AREsp n. 1.960.434/PR, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+Por fim, advirto a parte recorrente que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
