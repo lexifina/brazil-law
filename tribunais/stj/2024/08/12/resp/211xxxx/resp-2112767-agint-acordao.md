@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento quanto à incidência dos óbices das Súmulas n.ºs 211 do STJ, 283 e 284 do STF, bem como quanto à ausência de comprovação do suposto dissídio jurisprudencial na forma legal.  Inobservância do art. 1.021, § 1º, do CPC e aplicação da Súmula nº 182 do STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA (IMOBILIÁRIA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDOS DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO DOS PROMITENTES COMPRADORES. VIOLAÇÃO DO ART. 489 DO CPC. ARGUMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N.º 284 DO STF, POR ANALOGIA. TAXA DE FRUIÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS ESPECIFICAMENTE. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E DEMONSTRAÇÃO DA SIMILITUDE FÁTICA. AUSÊNCIA. INOBSERVÂNCIA DOS ARTS. 1.029, § 1º, DO CPC E 255, § 1º, DO RISTJ. RESPONSABILIDADE PELO PAGAMENTO DOS TRIBUTOS INCIDENTES SOBRE O IMÓVEL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N.º 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 397).
+Nas razões do presente inconformismo, defendeu que (1) importantes matérias não foram apreciadas pelo Tribunal estadual, caracterizando omissão do acórdão recorrido; (2) a divergência jurisprudencial, relativa ao art. 876 do CC foi demonstrada a contento; e, (3) a matéria ventilada no recurso especial foi prequestionada em sede de embargos de declaração, de modo que não se aplica aos autos a Súmula n.º 211 do STJ.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento quanto à incidência dos óbices das Súmulas n.ºs 211 do STJ, 283 e 284 do STF, bem como quanto à ausência de comprovação do suposto dissídio jurisprudencial na forma legal.  Inobservância do art. 1.021, § 1º, do CPC e aplicação da Súmula nº 182 do STJ.
+2. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+A decisão agravada, ao apreciar o recurso especial, assentou sua inadmissibilidade aos fundamentos de que (a) houve alegação genérica de violação do art. 489 do CPC, porquanto a IMOBILIÁRIA não indicou expressamente as teses que teriam sido omitidas pelo Tribunal a quo; (b) as razões do apelo nobre não impugnaram, de maneira específica, os fundamentos do v. acórdão recorrido, no tocante à taxa de fruição, a atrair a incidência, por analogia, do óbice da Súmula n.º 283 do STF; (c) o suposto dissídio jurisprudencial não foi comprovado nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, pois IMOBILIÁRIA apenas transcreveu excertos dos acórdãos paradigmas e recorrido, deixando de realizar o cotejo analítico e demonstrar a similitude fática ente os arestos trazidos à colação; e, (d) apesar da oposição de embargos de declaração, o Tribunal estadual não se pronunciou sobre a responsabilidade pelo pagamento dos tributos incidentes sobre o imóvel, a impedir o conhecimento da questão por esta Corte, nos termos da Súmula n.º 211 do STJ (e-STJ, fls. 397/403).
+Nas razões do presente agravo interno, contudo, a IMOBILIÁRIA limitou-se a afirmar, genericamente, que inexistem os óbices indicados na decisão agravada, sem evidenciar, de forma arrazoada, o desacerto do julgado quanto às suas conclusões.
+Deveras, deixou a IMOBILIÁRIA, uma vez mais, de indicar quais matérias teriam sido omitidas pelo Tribunal estadual, a caracterizar a violação do art. 489 do CPC e, ainda, (i) não comprovou a efetiva impugnação, nas razões do apelo nobre, dos fundamentos adotados pelo TJSP para reduzir equitativamente a indenização devida pela parte consumidora a título de taxa de fruição; (ii) não evidenciou que houve a demonstração analítica do alegado dissídio jurisprudencial e, outrossim, em que consistiria a similitude fática entre os acórdãos tidos por divergentes; (iii) não comprovou o efetivo debate, pelas instâncias ordinárias, acerca da questão relativa à responsabilidade pelo pagamento dos tributos, de modo a satisfazer o requisito do prequestionamento.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula n.º 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+De fato, conforme a pacífica jurisprudência desta Corte, não basta à parte agravante deduzir alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge, devendo, isso sim, desenvolver argumentação consistente que evidencie o equívoco de julgamento na decisão impugnada.
+Nessa linha, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA DEMANDADA.
+ ..
+2. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2.1. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. A impugnação tardia do fundamento da decisão que inadmitiu o recurso especial caracteriza indevida inovação recursal, não tendo o condão de infirmar o não conhecimento do agravo, em face da preclusão consumativa. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.290.842/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA. INCIDÊNCIA DO ART. 1021, § 1º, DO CPC/2015.
+1. O agravo interno que limita-se a tecer impugnações genéricas quanto aos fundamentos da decisão agravada, bem como a repetir as mesmas razões do agravo em recurso especial, não atende o ônus da dialeticidade previsto no art. 1021, § 1º do CPC/2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.973.779/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA. INCIDÊNCIA DO ART. 1021, § 1º, DO CPC/2015.
+Assim, porque os argumentos que IMOBILIÁRIA trouxe não atacaram de maneira específica os fundamentos da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula n.º 182 desta Corte.
+Nessas condições, NÃO CONHEÇO do agravo interno.
+É o voto.
