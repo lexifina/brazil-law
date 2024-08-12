@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. COMPENSAÇÃO. ILEGALIDADE. OFENSA À LEI LOCAL. SÚMULA N. 280/STF. VALIDADE DA LEI LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Ao apontar os dispositivos legais violados, a recorrente apontou em seu especial violação do art. 16, §2º, da Lei Estadual n. 8.820/89 (e-STJ fl. 5714). Apontado como ofendido dispositivo de norma local, é inafastável a incidência da Súmula n. 280/STF.
+2. No mais, a pretensão veiculada no especial é de reconhecimento da ilegalidade da previsão contida na legislação estadual em face dos dispositivos de lei federal suscitados. Entretanto, a validade de norma local em face de norma federal é competência constitucionalmente atribuída ao Supremo Tribunal Federal (art. 102, III, "d", da CRFB/88), não podendo ser examinada em sede de especial.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por J A TEIXEIRA VETERINARIA LTDA, contra a decisão de minha relatoria, assim ementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. COMPENSAÇÃO. ILEGALIDADE. OFENSA À LEI LOCAL. SÚMULA N. 280/STF. VALIDADE DA LEI LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões recursais, o agravante sustenta que não incide o óbice da Súmula n. 280/STF uma vez que o art. 16, § 2º, da Lei Estadual n. 8.820/89 foi utilizado tão somente como dispositivo subsidiário aos dispositivos de lei federal apresentados, não sendo motivo para a inadmissão do apelo.
+Ademais, argumenta que toda a fundamentação do apelo nobre envolve discussão acerca da violação de dispositivos federais, razão pela qual é necessário o regular processamento e julgamento do recurso.
+Pugna, por fim, pelo conhecimento e provimento do presente agravo interno para que seja julgado o especial.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. COMPENSAÇÃO. ILEGALIDADE. OFENSA À LEI LOCAL. SÚMULA N. 280/STF. VALIDADE DA LEI LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Ao apontar os dispositivos legais violados, a recorrente apontou em seu especial violação do art. 16, §2º, da Lei Estadual n. 8.820/89 (e-STJ fl. 5714). Apontado como ofendido dispositivo de norma local, é inafastável a incidência da Súmula n. 280/STF.
+2. No mais, a pretensão veiculada no especial é de reconhecimento da ilegalidade da previsão contida na legislação estadual em face dos dispositivos de lei federal suscitados. Entretanto, a validade de norma local em face de norma federal é competência constitucionalmente atribuída ao Supremo Tribunal Federal (art. 102, III, "d", da CRFB/88), não podendo ser examinada em sede de especial.
+3. Agravo interno não provido.
+VOTO
+Cuida-se, na origem, de mandado de segurança impetrado pela ora agravante para afastar a restrição de compensação dos créditos de ICMS, em face do benefício do não estorno previsto no art. 35 do Livro I do RICMS, com tributos de espécies diferentes, e reconhecido o direito à compensação dos valores indevidamente recolhidos em razão da restrição do art. 37, § 8º, Livro I do RICMS e eventuais multas, ou àqueles que a impetrante deixou de se creditar, a tais títulos nos últimos 5 (cinco) anos, podendo compensar o indébito com contribuições de qualquer natureza.
+Denegada a segurança, foi interposto o cabível apelo nobre, apontando-se ofensa aos arts. 19 e 20 da Lei Complementar n. 87/96, 16, § 2º, da Lei Estadual n. 8.820/89; 74 da Lei n. 9.430/96 e 99 do Código Tributário Nacional e à Lei n. 13.670/18. Argumenta "a ilegalidade do óbice à compensação dos créditos de ICMS, oriundos do benefício do não estorno previsto no art. 35 do Livro I do RICMS, com tributos de espécies diferentes, conforme determinado no art. 37, § 8º do Licro I do RICMS, haja vista a clara ofensa ao direito tutelado pelos artigos 19 e 20 da Lei Complementar nº 87/1996, cumulados com o artigo 16 § 2º, da Lei Estadual nº 8.820/89, juntamente com o artigo 99 do Código Tributário Nacional" (e-STJ fl. 5718). No mais, pleiteia a compensação dos valores indevidamente recolhidos.
+No presente, aduz a inaplicabilidade da Súmula n. 280/STF e a necessidade de análise da violação dos dispositivos federais apontados.
+O pleito não comporta acolhida.
+Inicialmente, verifica-se que, ao apontar os dispositivos legais violados, a recorrente apontou em seu especial violação do art. 16, §2º, da Lei Estadual n. 8.820/89 (e-STJ fl. 5714).
+Apontado como ofendido dispositivo de norma local, é inafastável a incidência da Súmula n. 280/STF.
+Na mesma linha:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PRETENSÃO DE ACESSO A INFORMAÇÕES CONCERNENTES AO SERVIÇO DE TRANSPORTE AÉREO DISPONIBILIZADO AO GOVERNADOR DO ESTADO (ROTAS, MOTIVAÇÃO, HORÁRIOS). NECESSIDADE DE REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. LEGISLAÇÃO LOCAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. INADMISSIBILIDADE DE PARADIGMA PROLATADO EM MANDADO DE SEGURANÇA. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+I - Na origem, trata-se de mandado de segurança objetivando o fornecimento de informações dos voos realizados em 2015 pelo Governador em aviões fretados pelo governo com Lider Táxi Aéreo, com data, trajeto, lista de passageiros e motivo da viagem; situação de cada aeronave do governo nas datas em que o Governador utilizou serviço de fretamento de aeronaves com Líder Táxi Aéreo em 2015, evidenciando se as aeronaves estavam em manutenção, disponível para voo ou sendo utilizadas por outro membro do governo, indicando neste caso o membro do governo, o trajeto e o motivo da viagem. No Tribunal a quo, a sentença foi reformada para denegar a segurança e julgar prejudicado o apelo voluntário.
+II - Ainda que se tenha como prequestionados todos os dispositivos ditos violados - o que não é o caso dos autos, observa-se que o acórdão recorrido foi fundamentado em legislação local, princípios constitucionais e no acervo fático da causa.
+III - O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, o Decreto n. 45.969/2012 e a Lei Delegada Estadual n. 180/2011, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Por fim, além da aplicação dos mesmos óbices sumulares, a inviabilizar o conhecimento do recurso pela alínea c do permissivo constitucional, como cediço, não se admite a utilização de acórdãos oriundos de julgados proferidos em habeas corpus, recurso em habeas corpus, mandados de segurança, recurso em mandado de segurança e habeas data como paradigma para configuração da divergência. Nesse sentido: AgInt nos EAREsp n. 354.792/SP, relatora Ministra Laurita Vaz, Corte Especial, julgado em 22/8/2023, DJe de 29/8/2023.
+VI - Agravo interno improvido.
+(AgInt no REsp n. 1.818.172/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. LEI MUNICIPAL. ANÁLISE. IMPOSSIBILIDADE. CONTESTAÇÃO EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL. OMISSÃO. AGRAVO INTERNO. ERRO GROSSEIRO.
+1. Consoante enuncia a Súmula 282 do STF, não se conhece de recurso especial quando não prequestionados os dispositivos de lei federal tidos por violados.
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. Caso em que a Corte local decidiu a questão relativa à validade da notificação pessoal da recorrente em processo administrativo de infração ambiental, sob a ótica de lei complementar municipal.
+4. Encerra natureza constitucional, de competência do Supremo Tribunal Federal, a pretensão recursal que questiona a validade de lei local contestada em face de lei federal (art. 102, III, "d", da Constituição Federal).
+5. O agravo interno não se presta para sanar eventual omissão da decisão monocrática, no caso, analisar o dissídio pretoriano invocado, já que a via adequada são os embargos de declaração, constituindo essa interposição erro grosseiro, que não admite aplicação do princípio da fungibilidade. Precedentes.
+6. Agravo interno parcialmente conhecido e desprovido.
+(AgInt no AREsp n. 2.421.357/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+No mais, com relação à violação de lei federal, também escorreita a decisão agravada.
+Isso porque a pretensão veiculada no especial é de reconhecimento da ilegalidade da previsão contida na legislação estadual em face dos dispositivos de lei federal suscitados. Entretanto, a validade de norma local em face de norma federal é competência constitucionalmente atribuída ao Supremo Tribunal Federal (art. 102, III, "d", da CRFB/88), não podendo ser examinada em sede de especial.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. ICMS- IMPORTAÇÃO. ADICIONAL AO FRETE PARA RENOCAÇÃO DA MARINHA MERCANTE (AFRMM). BASE DE CÁLCULO. PREVISÃO NA LEGISLAÇÃO ESTADUAL. SÚMULA N. 280/STF. VALIDADE DA LEI LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão referente à inclusão do AFRMM na base de cálculo do ICMS Importação foi fundamentadamente decidida à luz da legislação aplicável e da natureza jurídica do AFRMM, de forma que não é possível reconhecer negativa de prestação jurisdicional, ainda que solucionada a controvérsia em sentido distinto da pretensão recursal.
+2. No que tange à questão de fundo, o acórdão recorrido decidiu por incluir o AFRMM na base de cálculo do ICMS Impor tação em virtude de expressa previsão pela inclusão no art. 43, I, "e", do RICMS.
+Decidida a matéria na origem à luz da legislação local, o exame da questão por este e.STJ esbarra no óbice da Súmula n. 280/STF.
+3. Ainda que a parte argumente que a legislação local ofende o art. 13, V, "e" da LC n. 87/96, permanece inviável a análise da questão em sede de apelo nobre. Isso porque a análise da validade da legislação estadual em face da legislação federal é competência constitucionalmente atribuída à Suprema Corte (art. 102, III, "d", da CRFB/88).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.364.067/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. ART. 1.032 DO CPC. FUNGIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. CONTRAPOSIÇÃO DE LEI LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA EM AGRAVO INTERNO. PRECLUSÃO. PROVIMENTO NEGADO.
+1. A fungibilidade perseguida não preenche as balizas estabelecidas pelo Superior Tribunal de Justiça (STJ) ao interpretar o art. 1.032 do Código de Processo Civil, tendo em vista que o recurso especial não versa exclusivamente sobre matéria constitucional, impedindo sua convolação em recurso extraordinário.
+2. Recurso especial que busca contestar lei local em face de lei federal, conduta que implicaria invasão de competência do Supremo Tribunal Federal (STF) prevista pela Constituição Federal.
+3. A ausência de impugnação a fundamento ensejador do não conhecimento do recurso especial, manifestado pela Presidência, gera preclusão quanto ao ponto não combatido.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.112.532/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
