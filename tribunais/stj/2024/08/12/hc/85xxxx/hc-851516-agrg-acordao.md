@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE ILICITUDE DA PROVA COLHIDA EM BUSCA PESSOAL E INGRESSO EM DOMICÍLIO. IMPETRAÇÃO APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. IMPOSSIBILIDADE. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+1. Inviável o conhecimento da impetração, uma vez que o Superior Tribunal de Justiça possui entendimento, segundo o qual, o advento do trânsito em julgado impossibilita a admissão do writ, visto que o conhecimento de habeas corpus em substituição à revisão criminal subverte o sistema de competências constitucionais, transferindo a análise do feito de órgão estadual para este Tribunal Superior (AgRg no HC n. 789.984/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+2. No caso, o recurso de apelação transitou em julgado, e o habeas corpus foi impetrado nesta Corte apenas após esta data do trânsito em julgado. Nessa condição, não se deve dele conhecer, visto que foi utilizado como substituto de revisão criminal, sem que a competência desta Corte tenha sido estabelecida.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão que não conheceu do habeas corpus.
+O agravante foi condenado pela prática do delito do art. 35 da Lei n. 11.343/2006, c/c o art. 61, I, do Código Penal, às penas de 4 anos, 9 meses e 5 dias de reclusão, em regime fechado, além do pagamento de 1.110 dias-multa.
+O Tribunal de origem deu parcial provimento ao recurso de apelação da defesa técnica para redimensionar a pena do paciente para 7 anos e 4 meses de reclusão (fls. 42-49).
+A decisão agravada não conheceu do habeas corpus por não ser a via adequada para desconstituir condenação transitada em julgado, visto que a substituição da revisão criminal pelo habeas corpus subverte o sistema de competências constitucionais, transferindo a análise do caso de um órgão estadual para este Tribunal Superior.
+No regimental, a defesa sustenta que houve entrada ilegal no domicílio do agravante e que não estão presentes os requisitos para a configuração de associação para o tráfico.
+Requer a reconsideração da decisão agravada ou conhecimento e provimento do agravo para absolver o agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE ILICITUDE DA PROVA COLHIDA EM BUSCA PESSOAL E INGRESSO EM DOMICÍLIO. IMPETRAÇÃO APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. IMPOSSIBILIDADE. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+1. Inviável o conhecimento da impetração, uma vez que o Superior Tribunal de Justiça possui entendimento, segundo o qual, o advento do trânsito em julgado impossibilita a admissão do writ, visto que o conhecimento de habeas corpus em substituição à revisão criminal subverte o sistema de competências constitucionais, transferindo a análise do feito de órgão estadual para este Tribunal Superior (AgRg no HC n. 789.984/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+2. No caso, o recurso de apelação transitou em julgado, e o habeas corpus foi impetrado nesta Corte apenas após esta data do trânsito em julgado. Nessa condição, não se deve dele conhecer, visto que foi utilizado como substituto de revisão criminal, sem que a competência desta Corte tenha sido estabelecida.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada não conheceu do habeas corpus pelos seguintes fundamentos (fls. 297-301):
+Conforme as informações contidas no parecer ministerial (fl. 290), verificou-se que houve o transitou em julgado da ação penal em 10/03/2023, tendo sido o presente habeas corpus impetrado em data posterior, em 1º/09/2023. Assim, o presente habeas corpus é sucedâneo de revisão criminal, sendo, portanto, inadmissível.
+Esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que "O trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus, impetrado nesta Corte Superior de Justiça, como substitutivo de revisão criminal, ressalvada a possibilidade de concessão da ordem de ofício, se presente flagrante ilegalidade." (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+ ..
+Cumpre ressaltar a impossibilidade de amplo reexame de fatos e provas nos autos de habeas corpus, de cognição sumária.
+Pelo exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+A competência do Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus, a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas b e c, da CF/88, o que não se vislumbra ocorrer no caso.
+Conforme as informações contidas no parecer ministerial (fl. 290), verificou-se que houve o trânsito em julgado da ação penal em 10/3/2023, tendo sido o presente habeas corpus impetrado em data posterior, em 1º/ 9/2023. Assim, o presente habeas corpus é sucedâneo de revisão criminal, sendo, portanto, inadmissível.
+Com efeito, conforme consignado na decisão agravada, "O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022)." (AgRg no HC n. 869.292/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+"Inviável o conhecimento da impetração, uma vez que o Superior Tribunal de Justiça possui entendimento segundo o qual o advento do trânsito em julgado impossibilita a admissão do writ, visto que o conhecimento de habeas corpus em substituição à revisão criminal subverte o sistema de competências constitucionais, transferindo a análise do feito de órgão estadual para este Tribunal Superior (AgRg no HC n. 789.984/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023)." (AgRg no HC n. 793.120/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Em conclusão: uma vez que o agravante não apresentou fatos novos ou teses jurídicas diversas que permitam analisar o caso sob ótica diferente, deve ser mantida incólume a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
