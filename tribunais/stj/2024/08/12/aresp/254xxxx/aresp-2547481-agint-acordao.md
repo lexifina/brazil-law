@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DA CADEIA DE PROCURAÇÕES E/OU SUBSTABELECIMENTOS CONFERINDO PODERES. INTIMAÇÃO PARA REGULARIZAÇÃO. VÍCIO NÃO SANADO. AGRAVO INTERNO NÃO PROVIDO.
+1. É assente neste Superior Tribunal o entendimento segundo o qual a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, nos termos da Súmula 115 do STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+2. No caso, verifica-se que, embora regularmente intimada para sanar o vício apontado à fl. 119, a parte agravante dele não se desincumbiu. Assim, escorreita a decisão que não conheceu do agravo em recurso especial, ante o óbice da Súmula 115/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por MARIA CRISTINA ROMANO MACIEL e OUTROS contra decisão de fls. 131/132, proferida pela Presidência desta Corte, que não conheceu de seu agravo em recurso especial em razão do óbice da Súmula 115/STJ.
+Sustentam os agravantes, em resumo, que "as procurações não foram juntadas ao ser determinado diante de que o processo de número 1504277-79.2019.8.26.0014 é digital, fls. 29/35, a qual entendeu este advogado a não necessidade, podendo ser consultado no site do TJSP" (fl. 137).
+Requerem a reconsideração do decisório agravado para que sejam consideradas as procurações aqui informadas e prosseguirem no julgamento do feito.
+Sem impugnação (fl. 154).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DA CADEIA DE PROCURAÇÕES E/OU SUBSTABELECIMENTOS CONFERINDO PODERES. INTIMAÇÃO PARA REGULARIZAÇÃO. VÍCIO NÃO SANADO. AGRAVO INTERNO NÃO PROVIDO.
+1. É assente neste Superior Tribunal o entendimento segundo o qual a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, nos termos da Súmula 115 do STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+2. No caso, verifica-se que, embora regularmente intimada para sanar o vício apontado à fl. 119, a parte agravante dele não se desincumbiu. Assim, escorreita a decisão que não conheceu do agravo em recurso especial, ante o óbice da Súmula 115/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não prospera.
+Da análise dos autos, observa-se que, intimados Maria Cristina Romano Maciel e outros para regularização do vício de representação processual, as partes agravantes dele não se desincumbiram. Assim, escorreita a decisão que não conheceu do agravo em recurso especial, ante o óbice da Súmula 115/STJ.
+Nesses casos, a jurisprudência desta Corte é firme no sentido de que, "A alegação de existência de procuração nos autos originários não sana a irregularidade na representação processual, que deve ser comprovada no ato da interposição do recurso especial" (AgInt no AREsp n. 2.256.022/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023).
+No mesmo sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PROCURAÇÃO E/OU CADEIA DE SUBSTABELECIMENTO OUTORGANDO PODERES AO ADVOGADO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. VÍCIO NÃO SANADO. JUNTADA POSTERIOR. IMPOSSIBILIDADE. ARGUMENTAÇÃO INSUFICIENTE. APELO NOBRE INEXISTENTE. INCIDÊNCIA DA SÚMULA N. 115 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não constando dos autos instrumento de mandato e/ou respectiva cadeia de substabelecimento outorgando poderes ao subscritor de recurso para a instância superior, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do recurso, nos termos da Súmula n. 115/STJ, in verbis: "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+2. Não sendo suprida a falta de procuração e/ou cadeia de substabelecimento após regular intimação, a juntada extemporânea não é bastante para corrigir a deficiência processual.
+3. "A alegação de existência de procuração nos autos originários não sana a irregularidade na representação processual, que deve ser comprovada no ato da interposição do recurso especial. Precedentes." (AgInt no AREsp n. 2.256.022/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.) 4. "A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, §5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento". Precedentes."(AgInt no AREsp n. 1.893.277/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/11/2021, DJe de 1/12/2021.) 5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.472.071/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2024, DJe de 27/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. COMPROVAÇÃO. AUSÊNCIA. PREPARO. NÃO RECOLHIMENTO. ÓBICE. SANEAMENTO. PRAZO. NÃO ATENDIMENTO. SÚMULA N. 187/STJ. AUSÊNCIA DE PROCURAÇÃO DA SUBSCRITORA DO AGRAVO E DO APELO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA N. 115/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. A mera alegação de que a parte litiga sob o manto da gratuidade da justiça não é suficiente para afastar a deserção do recurso, notadamente se está desprovida de comprovação idônea acerca de seu deferimento.
+2. O descumprimento da intimação para o recolhimento do preparo ou para a comprovação da gratuidade de justiça acarreta a deserção do recurso. Incidência da Súmula n. 187/STJ.
+3. Conforme se depreende dos autos, a parte agravante não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do recurso especial e do agravo em recurso especial, no momento de sua interposição, o que torna inexistente o recurso, na linha da jurisprudência do Superior Tribunal de Justiça. A parte agravante, devidamente intimada, não sanou o vício de sua representação no prazo determinado.
+4. Esta Corte já assentou o entendimento de que a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo, visto que o referido dispositivo é direcionado apenas à classe agravo de instrumento.
+5. A alegação de existência de procuração nos autos originários não sana a irregularidade na representação processual, que deve ser comprovada no ato da interposição do recurso especial. Incidência da Sumula n. 115 do STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.404.741/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO SUBSCRITOR DO APELO ESPECIAL E DO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA.
+NÃO CONHECIMENTO DO RECURSO. AGRAVO INTERNO NÃO PROVIDO.
+1. Interposto recurso por advogado sem procuração dos autos, dele não se pode conhecer, nos termos do art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência da Súmula n. 115/STJ.2. A parte agravante, devidamente intimada, não regularizou a representação processual e criou, ela própria, fundada dúvida sobre a regularidade da representação da pessoa jurídica, ao juntar alteração de contrato social na qual os subscritores da procuração não constam como sócios da referida empresa.3. Não foi possível identificar, na procuração apresentada, se os subscritores da procuração possuiam poderes para representar a pessoa jurídica em questão, de modo que não foi sanada a irregularidade processual dos autos.
+4. "Deixando a parte transcorrer o prazo sem que a representação processual seja regularizada, inviável o conhecimento do recurso (Súmula 115 do STJ)" (PET no AREsp 1.387.998/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/06/2019, DJe 17/06/2019).
+5. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento"
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.809.999/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe de 17/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. IRREGULARIDADE NÃO SANADA. SÚMULA 115/STJ. AGRAVO DE INSTRUMENTO QUE TRAMITOU DE FORMA ELETRÔNICA NO TRIBUNAL DE ORIGEM. ART. 1.017, § 5º, DO CPC/2015. INAPLICABILIDADE NESTA CORTE SUPERIOR. PRECEDENTES.
+1. A decisão ora agravada consignou não haver documentos nos autos que permitam identificar o outorgante que assina a procuração pela agravante (pessoa jurídica) e verificar se realmente possui poderes de representar a pessoa jurídica em questão.
+2. Intimada, a parte não regularizou a representação processual. Incidência da Súmula 115/STJ: "É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso".
+3. A dispensa prevista no art. 1017, § 5º, do CPC/2015 aplica-se à interposição do agravo de instrumento e está voltada à primeira e à segunda instância de jurisdição, não alcançando as instâncias superiores, diante da impossibilidade de acesso deste Tribunal Superior aos autos eletrônicos originais. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.931.426/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 6/12/2021, DJe de 9/12/2021.)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
