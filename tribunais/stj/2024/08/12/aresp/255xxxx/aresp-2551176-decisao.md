@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA. PRESUNÇÃO DE CERTEZA, LIQUIDEZ E EXIGIBLIDADE. EXCESSO NÃO COMPROVADO. IMPROCEDÊNCIA QUE SE MANTÉM. SENTENÇA QUE JÁ HAVIA SIDO ANULADA PARA OPORTUNIZAR A PRODUÇÃO DA PROVA PERICIAL. MESMO SENDO OPORTUNIZADA A PRODUÇÃO DA PROVA PERICIAL, O APELANTE NÃO RECOLHEU AS CUSTAS PARA A SUA PRODUÇÃO, O QUE ACARRETOU A DECRETAÇÃO DA PERDA DA PROVA, ANTE A SUA INÉRCIA, CONFORME SE VERIFICA EM DECISÃO DE FLS. 291. LOGO, CASO O APELANTE, DE FATO, TIVESSE O INTERESSE NA REALIZAÇÃO DA PROVA PERICIAL, TERIA REALIZADO O DEPÓSITO CORRESPONDENTE, NÃO PODENDO APÓS A REJEIÇÃO DO PEDIDO, BUSCAR, NOVAMENTE, A NULIDADE DO JULGADO POR SUPOSTO CERCEAMENTO DE DEFESA. EMBARGANTE QUE NÃO SE DESINCUMBIU DO ÔNUS DE COMPROVAR A VERACIDADE DE SUAS AFIRMAÇÕES, DE ACORDO COM O PREVISTO NO ART. 373, I DO CÓDIGO DE PROCESSO CIVIL. SENTENÇA QUE SE MANTÉM. DESPROVIMENTO DO RECURSO"
+O agravante aponta violação aos arts. 3º, § 2º, e 14 do Código de Defesa do Consumidor e arts. 1º, 156, 370, 373, § 1º, 464 e 465 do Código de Processo Civil, sustentando que, no caso, houve cerceamento de defesa, tendo em vista que, apesar de ser necessária perícia, houve a decretação da perda da prova pericial por ausência de recolhimentos das custas para sua realização.
+Defende que, por ser parte hipossuficiente, é necessário que lhe seja concedido o parcelamento das custas da perícia, uma vez que não possui condições de financiá-la.
+Sem contrarrazões.
+Juízo negativo de admissibilidade proferido à fl. 461 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, o Tribunal de origem, negou o pedido de concessão do benefício da assistência judiciária gratuita, por entender ausentes os requisitos necessários para tanto (fl. 390).
+Sobre o tema, este Superior Tribunal de Justiça possui jurisprudência no sentido de que a reforma da conclusão adotada pela Corte local acerca do preenchimento dos requisitos para concessão da gratuidade de Justiça, por demandar, necessariamente, o reexame do contexto fático-probatório dos autos, esbarra no óbice da Súmula 7/STJ.
+Ilustrativamente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE LAVRA DA PRESIDÊNCIA. MANUTENÇÃO DA DECISÃO. SÚMULA 182 DO STJ. NÃO IMPUGNAÇÃO QUANTO À INCIDÊNCIA DA SÚMULA 7 DO STJ. DIREITO PROCESSUAL CIVIL. JUSTIÇA GRATUITA. ART. 98 DO CPC. REVOGAÇÃO DO BENEFÍCIO NA ORIGEM. RECEBIMENTO DE INDENIZAÇÃO DE ALTO VALOR. PRESUNÇÃO RELATIVA ILIDIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Na espécie sob análise, as instâncias ordinárias, examinando a situação patrimonial e financeira da agravante - após apresentação de documentos por parte da agravada que demonstravam o ganho de indenização de alto montante -, concluíram haver elementos suficientes para afastar a declaração de hipossuficiência.
+4. A pretensão de reforma da decisão agravada, acerca da situação de hipossuficiência financeira da parte, imprescindível à concessão da gratuidade da justiça, demandaria necessariamente o reexame da matéria fático-probatória dos autos, atraindo, assim, o óbice da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.180.436/SP, minha relatoria, QUARTA TURMA, DJe de 25/5/2023.)
+Nesse contexto, não há como se acolher a tese de cerceamento de defesa formulada. Com efeito, se indeferida a assistência judiciária gratuita, deveria a parte arcar com os valores para a realização da perícia, sob pena de indeferimento, o que ocorreu.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
