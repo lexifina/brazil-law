@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REEXAME DOS PRESSUPOSTOS DA PRISÃO PREVENTIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do CPP.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada pelos próprios fundamentos.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDRÉ LUIZ DA COSTA e JOÃO CARLOS DA COSTA interpõem agravo regimental contra decisão de minha relatoria em que deneguei a ordem de habeas corpus por eles impetrada, na qual postulavam a revogação da custódia provisória.
+Nas razões deste regimental, a defesa reitera o pleito e alega, em síntese, a ausência de fundamentação idônea para a negativa da revogação da medida cautelar severa (fl. 727):
+ ..  a própria sentença precisa apresentar os fundamentos, não podendo apenas fazer referência aos anteriores; aliás, os Superiores já reconheceram que quando uma decisão servir a mais de uma situação, obviamente lhe falta fundamentação. De mais a mais, ainda que a análise seja para recorrer em liberdade, é exigível fundamentação idônea e suficiente não verificada in casu  .. .
+Pede, assim, a reconsideração da decisão anteriormente proferida ou a submissão do feito a julgamento pelo órgão colegiado, para que seja provido o agravo e concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REEXAME DOS PRESSUPOSTOS DA PRISÃO PREVENTIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do CPP.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada pelos próprios fundamentos.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos da defesa, entendo que não lhe assiste razão. Mantenho, assim, a decisão agravada por seus próprios fundamentos.
+Por ocasião da denegação da ordem de habeas corpus, verifica-se a fundamentação nos termos seguintes (fls. 713-718, destaquei):
+ ..  O Juízo sentenciante, ao condenar os ora pacientes pelos crimes dos arts. 33 e 35, ambos da Lei n. 11.343/2006 às penas de 9 anos e 4 meses de reclusão, mais 1.400 dias-multa e a 10 anos, 10 meses e 20 dias de reclusão, além de 1.633 dias-multa, manteve as constrições cautelares ao ressaltar que (fl. 89, grifei):
+ ..  Nego aos réus o direito de recorrerem em liberdade, pois os fundamentos que alicerçaram a decretação e manutenção da prisão preventiva, expostos nas decisões do evento 13 dos autos n.5002833-80.2023.8.24.0057 e dos eventos 7 e 110 destes autos, se mantêm hígidos e, ademais, foram reforçados pela presente condenação. EXPEÇAM-SE os processos de execução provisório  .. .
+A Corte local, por ocasião da análise do mérito do writ impetrado pela defesa, denegou a ordem ao consignar, in verbis (fls. 22-23, destaquei):
+ ..  ..  É importante salientar, ainda, que considerando a permanência dos acusados sob prisão durante todo o decorrer da instrução probatória em virtude da preservação da ordem pública, não apresenta coerência ou fundamento liberá-los após a primeira condenação, quando já se alcançou uma convicção conclusiva sobre o envolvimento de ambos nos delitos imputados na denúncia. Se inicialmente a segregação se mostrava necessária, esta, por óbvio, foi reforçada com a condenação.
+Diante dessas circunstâncias e considerando os fundamentos substanciais que respaldam a imposição e a continuidade da medida extrema, visando à preservação da ordem pública, e tendo em vista a manutenção da necessidade da prisão, respaldada pela persistência (segundo o entendimento exposto na origem) dos motivos originais que justificaram a prisão preventiva e, agora, pela condenação dos indivíduos, não se observa qualquer tipo de constrangimento ilegal.
+Ademais, consoante destacado na liminar, a decisão questionada mostra-se compatível com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, "tendo o paciente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação ou da sentença de pronúncia, fosse-lhe deferida a liberdade" (AgRg no AgRg no HC 761058/SP, rel. Min. Jesuíno Rissato, Des. convocado do TJDFT, DJe. 25.10.2022)  .. .
+ ..  verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão dos pacientes, porquanto contextualizaram, em dados dos autos, a necessidade cautelar da segregação da liberdade.
+No caso em exame, o Juiz, consoante preconizado no art. 387, § 2º, do CPP, ao manter a prisão preventiva na sentença para garantir a ordem pública, ressaltou o fundado risco de reiteração delitiva diante da circunstância de os réus haverem permanecido presos durante o trâmite processual, bem como em virtude da habitualidade delitiva  .. .
+ ..  o risco de reiteração delitiva enseja a necessidade de manutenção da segregação cautelar, afastadas, por conseguinte, a alegação de suposta configuração de constrangimento ilegal em detrimento dos postulantes e a possibilidade de imposição de medidas cautelares.
+A expressiva quantidade de drogas recolhidas - acima de 31.000 kg de maconha - e a recalcitrância na seara criminosa justificam a incidência da custódia provisória como a medida mais adequada à hipótese sub judice.
+Em casos similares, a jurisprudência desta Corte Superior consolidou o posicionamento de que a expressiva quantidade de droga apreendida - a revelar a habitualidade da traficância - pode justificar idoneamente a prisão preventiva  .. .
+ ..  as hipóteses em que a dinâmica dos fatos e as demais particularidades do caso revelem a maior reprovabilidade da conduta investigada, tais dados são capazes de demonstrar a necessidade de garantia da ordem pública, por isso mesmo constituem fundamento idôneo para a custódia provisória.
+Pelos mesmos motivos, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais  .. .
+Os agravantes visam, tão somente, a rediscussão de matéria já apreciada no âmbito do habeas corpus, vale dizer, os pressupostos para a prisão preventiva. E, em consonância com o entendimento jurisprudencial desta Corte Superior:
+ ..  é assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos  ..  (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
+Publique-se e intimem-se.
