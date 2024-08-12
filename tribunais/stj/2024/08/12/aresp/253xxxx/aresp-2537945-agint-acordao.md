@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Modificar a conclusão do Tribunal de origem no sentido de que há indícios que justificam o deferimento da tutela de urgência na hipótese dos autos implica reexame de fatos e provas.
+5. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por BANCO DO BRASIL SA, contra decisão unipessoal que conheceu do agravo, para, conhecendo parcialmente do recurso especial que interpu sera, negar-lhe provimento.
+Ação: embargos de terceiro opostos por JOÃO PARENTE DE SÁ BARRETO e TEREZINHA DE JESUS VIEIRA BARRETO, contra execução movida pela agravante.
+Decisão interlocutória: deferiu parcialmente a liminar postulada pelo agravados, a fim de suspender as medidas constritivas sobre o bem litigioso objeto da execução de matrícula 21.299 do Cartório de Registro de Imóveis de Tangará da Serra, MT.
+Acórdão: negou provimento ao agravo de instrumento do banco agravante, nos termos da ementa:
+"AGRAVO DE INSTRUMENTO - EMBARGOS DE TERCEIRO - PENHORA DE IMÓVEL EM AÇÃO DE EXECUÇÃO - DOMÍNIO E POSSE - PROVA RAZOÁVEL - SUSPENSÃO DOS ATOS EXPROPRIATÓRIOS - ILEGITIMIDADE ATIVA - PRELIMINAR REJEITADA - DECISÃO MANTIDA - RECURSO NAO PROVIDO". (e-STJ fl. 141)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 300, 489, 674, 678, 886, VI, 872, e 1.022 do CPC; e 54, § 1º, da Lei 13.097/2015. Sustenta negativa de prestação jurisdicional, ao argumento de que o acórdão foi omisso, uma vez que não cuidou da escorreita análise sobre a presunção de veracidade e legitimidade da avaliação realizada pelo Oficial de Justiça; de que não há prova de domínio e posse dos recorridos que justifique sua legitimidade; bem como não foi apontado qual o documento e conteúdo que comprova que as matrículas 371, 372 e 368 de Tangará da Serra têm a mesma localização que a matrícula 21.299.
+Alega que Da análise dos autos, verifica-se que os recorridos não têm legitimidade para defender um patrimônio que sequer está em seu nome via dos embargos de terceiro. Argumenta que o embargante ora agravado não se enquadra no rol de legitimados previstos no Artigo 674 do CPC para a propositura dos embargos de terceiro. Aduz que o texto legal estabelece como legitimados para propositura dos embargos de terceiro o proprietário do bem objeto do ato de constrição ou o seu possuidor, portanto, não consta nos presentes autos qualquer documento que comprove ser o embargante um dos legitimados para tal ato.
+Defende que está evidenciado que não foram cumpridos os requisitos para concessão da liminar, uma vez que a simples citação de documentos apresentados não é hábil a comprovar a posse ou propriedade dos executados e desconfigurar um laudo de avaliação homologado pelo Juízo a quo. Aduz que o acórdão também violou o previsto no artigo 872 do CPC/2015, uma vez que a avaliação feita pelo Oficial de Justiça dispõe de presunção de legitimidade e veracidade, a qual para ser afastada exige prova robusta em sentido diverso.
+Assevera que não existe qualquer registro na matrícula do imóvel 21.299 constando a propriedade do agravado João Parente de Sá Barreto ou qualquer ligação com as matrículas nº 371, 372 e 368 do Cartório de Registro de Imóveis de Tangará da Serra citadas na inicial.
+Decisão unipessoal: conheceu do agravo, para, conhecendo parcialmente do recurso especial que interpusera, negar-lhe provimento, com fundamento no art. 932, III e IV, "a", do CPC/15.
+Agravo interno: repisa as alegações de negativa de prestação jurisdicional e pugna pelo prequestionamento ficto. Defende a desnecessidade do revolvimento do quadro fático probatório dos autos. Verbera que a decisão que não reconhece a negativa de prestação jurisdicional e aplica a Súmula 7/STJ é contraditória.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Modificar a conclusão do Tribunal de origem no sentido de que há indícios que justificam o deferimento da tutela de urgência na hipótese dos autos implica reexame de fatos e provas.
+5. Agravo interno não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo, para, conhecendo parcialmente do recurso especial que interpusera, negar-lhe provimento, com base nas seguintes razões: i) ausência de negativa de prestação jurisdicional e ii) Súmula 7/STJ.
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Inicialmente, constata-se que os arts. 489 e 1.022 do CPC/15 realmente não foram violados, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade.
+A parte agravante alega que a negativa de prestação jurisdicional advém do não pronunciamento acerca da escorreita análise sobre a presunção de veracidade e legitimidade da avaliação realizada pelo Oficial de Justiça; de que não há prova de domínio e posse dos recorridos que justifique sua legitimidade; bem como não foi apontado qual o documento e conteúdo que comprova que as matrículas 371, 372 e 368 de Tangará da Serra têm a mesma localização que a matrícula 21.299.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da necessidade de suspensão do leilão do imóvel até o esclarecimento da situação:
+"Assim, para a concessão da liminar nos Embargos de Terceiro, não é necessária a comprovação absoluta do domínio ou posse, basta a plausibilidade do direito.
+Neste caso, os agravados anexaram aos Embargos contratos de arrendamento da Fazenda São José, dos quais o mais antigo foi firmado em agosto de 2012 e o último em agosto de 2019; certidão de cadastro de imóvel rural; registro de georreferenciamento das três matrículas; boleto do Imposto sobre a Propriedade Territorial Rural; matrículas; relatório de notas fiscais e fotos tiradas nos mesmos locais das constantes no laudo de avaliação.
+Essa documentação demonstra, em juízo de cognição sumária, que a localização dos imóveis dos agravados é a mesma do que foi penhorado na Execução". (e-STJ fl. 144).
+Ademais, em resposta aos embargos de declaração opostos pela parte agravante, o TJ/MT reiterou que:
+"No aresto ficou consignado que a documentação anexada nos Embargos de Terceiro demonstra, em juízo de cognição sumária, que a localização dos imóveis dos embargantes é a mesma do que foi penhorado na Execução. Portanto é razoável e prudente que essa situação seja esclarecida antes que sejam leiloadas". (e-STJ fl. 182 - sem destaque no original)
+Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente à necessidade de suspensão do leilão do imóvel até o esclarecimento da situação, sob viés diverso daquele pretendido por BANCO DO BRASIL SA, fato que não dá ensejo à interposição de embargos de declaração. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Por fim, observa-se que parte agravante, na origem, se utilizou dos embargos de declaração com efeitos meramente infringenciais, uma vez que suas alegações consubstanciam o mero descontentamento com o resultado do julgamento. Por essa razão, não se verifica, na hipótese, a pretensa ofensa dos art. 489 e 1.022 do CPC/15, devendo ser mantida a aplicação da Súmula 568/STJ.
+Acerca da alegação de inaplicabilidade da Súmula 7 do STJ, no que se refere à documentação acostada aos autos demonstrarem, em cognição sumária, que a localização dos imóveis dos agravados é a mesma do que foi penhorado na execução, tem-se que o Tribunal de origem assim se manifestou acerca da matéria:
+"Assim, para a concessão da liminar nos Embargos de Terceiro, não é necessária a comprovação absoluta do domínio ou posse, basta a plausibilidade do direito.
+Neste caso, os agravados anexaram aos Embargos contratos de arrendamento da Fazenda São José, dos quais o mais antigo foi firmado em agosto de 2012 eo último em agosto de 2019; certidão de cadastro de imóvel rural; registro de georreferenciamento das três matrículas; boleto do Imposto sobre a Propriedade Territorial Rural; matrículas; relatório de notas fiscais e fotos tiradas nos mesmos locais das constantes no laudo de avaliação.
+Essa documentação demonstra, em juízo de cognição sumária, que a localização dos imóveis dos agravados é a mesma do que foi penhorado na Execução.
+Nesse contexto, os documentos juntados nesta lide são suficientes para autorizar o deferimento da medida postulada nos Embargos. Além disso, é evidente a urgência em cessar a possibilidade de as terras serem leiloadas na Execução" (e-STJ fl. 144)
+E, conforme consignado na decisão agravada, observa-se que o Tribunal de origem, ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos, pelo que, rever aquele entendimento é vedado em recurso especial, mantendo-se a incidência da Súmula 7 do STJ, na espécie.
+Ademais, não há qualquer contrariedade da incidência conjunta dos fundamentos relativos à negativa de prestação jurisdicional e Súmula 7/STJ, uma vez que TJ/MT analisou todas as insurgências do banco, mas não do modo como este gostaria, bem como todas as provas carreadas ao processo, que por prudência e razoabilidade autorizam o deferimento da medida liminar para que não haja prejuízo às partes.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
