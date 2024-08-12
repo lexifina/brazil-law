@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE CABIMENTO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A reanálise, nesta instância, da existência dos requisitos autorizadores da rescisória, pressupõe o reexame dos elementos fático-probatórios valorados pelas instância ordinárias, o que é inviável em sede de recurso especial. Súmula 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por Renato Carlos Godniak contra decisão que conheceu do agravo para não conhecer do recurso especial, assim resumida:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE CABIMENTO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A parte agravante pleiteia a reconsideração da decisão agravada aduzindo, para tanto, que "Exsurge do caso concreto uma questão exclusivamente de direito, qual seja, até que ponto o formulário PPP, emitido na forma exigida pela legislação previdenciária, pode ser simplesmente desconsiderado em desfavor do destinatário das normas de proteção previdenciária", e que "Não se pretende valorar (novamente) a prova: o que avaliamos com esse grau de justificação obtido (ou seja, o resultado da decisão) é suficiente para a Corte Cidadã agora dizer se o tribunal está (ou não) negando vigência ao art. 966, V, do CPC, compartilhando seu ceticismo em relação à prova do labor especial".
+O prazo para resposta transcorreu in albis.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE CABIMENTO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A reanálise, nesta instância, da existência dos requisitos autorizadores da rescisória, pressupõe o reexame dos elementos fático-probatórios valorados pelas instância ordinárias, o que é inviável em sede de recurso especial. Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+A pretensão recursal não é exitosa.
+No que tange ao cabimento da ação rescisória, o acórdão ora recorrido concluiu que:
+Na decisão rescindenda, ao tratar da eventual insalubridade das atividades desempenhadas pelo autor nos períodos em questão, ficou consignado:
+As atividades do autor descritas nos PPPs, da ASSOCIAÇÃO BENEFICENTE DECANOAS (23/11/1982 a 26/01/1987 - evento 1 dos autos originários,PROCADM1, fls. 4/5), do HOSPITAL MUNICIPAL SÃO CAMILO (períodos de01/07/1989 a 04/09/2007 e de 10/12/2012 a 04/12/2013, nos cargos de: Comprador; Supervisor de Material; Técnico Manutenção Equip. Médicos Hosp. - evento 1 dos autos originários, PROCADM1, fls. 6/7) e na PREFEITURA MUNICIPAL DE ESTEIO (para o Hospital Municipal São Camilo, no período de 01/01/2009 a 01/03/2012, nos cargos de Supervisor Geral de Programas de Saúde e de Coordenador de Controle de Materiais - evento 1dos autos originários, PROCADM1, fls 9/10) não indicam qualquer contato com pacientes portadores de doenças infectocontagiosas ou manuseio de materiais contaminados.
+Na apelação, o autor defende que os PPPs comprovam a exposição a "agentes infecto-contagiantes, microorganismos e parasitas infecciosos vivos e suas toxinas". Todavia, a simples análise de agentes biológicos no Perfil Profissiográfico Previdenciário - PPP não infere a especialidade da atividade. E a descrição das atividade afasta a presunção.
+O risco de contágio, alegado, não é o que permite a caracterização do trabalho como de tempo especial.
+O autor não logrou refutar a fundamentação da sentença, de que se é remota e indireta a exposição aos agentes agressivos, por si só, afasta o eventual caráter especial da atividade. Demais, a sentença foi embasada em precedente desta Turma (TRF4, AC 2007.71.00.040900-4, Quinta Turma, Relator Francisco Donizete Gomes, D.E. 27/01/2011).
+Com efeito, não se evidencia interpretação descabida dos preceitos jurídicos contidos nos dispositivos indicados.
+Na verdade o fundamento do presente pedido reflete o inconformismo do autor com o juízo efetuado frente as provas carreadas aos autos. Ocorre que a ação rescisória não se presta ao reexame da (in)justiça do julgado, sendo indevido seu manejo como forma de reapreciar o que foi decidido pelo juízo prolator da decisão. (e-STJ fls. 100/104)
+O fundamento do pedido rescisório é a manifesta violação à norma contida nos seguintes artigos da Lei nº 8.213/91:
+Art. 57. A aposentadoria especial será devida, uma vez cumprida a carência exigida nesta Lei, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física, durante 15(quinze), 20 (vinte) ou 25 (vinte e cinco) anos, conforme dispuser a lei.
+(..)
+§ 3º A concessão da aposentadoria especial dependerá de comprovação pelo segurado, perante o Instituto Nacional do Seguro Social-INSS, do tempo de trabalho permanente, não ocasional nem intermitente, em condições especiais que prejudiquem a saúde ou a integridade física, durante o período mínimo fixado.
+Art. 58. A relação dos agentes nocivos químicos, físicos e biológicos ou associação de agentes prejudiciais à saúde ou à integridade física considerados para fins de concessão da aposentadoria especial de que trata o artigo anterior será definida pelo Poder Executivo.
+§ 1º A comprovação da efetiva exposição do segurado aos agentes nocivos será feita mediante formulário, na forma estabelecida pelo Instituto Nacional do Seguro Social - INSS, emitido pela empresa ou seu preposto, com base em laudo técnico de condições ambientais do trabalho expedido por médico do trabalho ou engenheiro de segurança do trabalho nos termos da legislação trabalhista.
+Com efeito, para que seja reconhecida a eventual insalubridade da atividade desempenhada pelo segurado, é ônus deste demonstrar a exposição à agentes nocivos.
+Para afastar a Súmula 7/STJ, por exemplo, competia à recorrente demonstrar de que maneira o recurso especial, de fato, não depende de reanálise do conjunto fático-probatório, o que não foi efetuado no caso em análise.
+O respectivo exame da prova foi efetuado pelo juízo na decisão objeto da presente rescisória, conforme transcrito no voto ora embargado.
+O fato de o recorrente não concordar com a análise realizada, que resultou com o não reconhecimento da especialidade do trabalho desenvolvido, não autoriza o ajuizamento da ação rescisória para rever os respectivos fundamentos, isso porque a ação rescisória não pode ser manejada como sucedâneo recursal, com o fim de revisar a justiça da decisão rescindenda mediante a mera reavaliação da prova produzida no processo originário. Precedentes do STJ e do TRF4 (TRF4, AR 5041555-59.2020.4.04.0000, 3ª Seção, rel. Des. Federal Paulo Afonso Brum Vaz, juntado aos autos em 24/11/2022).
+Dos fundamentos trazidas nos presentes embargos de declaração é nítida a intenção do recorrente em utilizar a via rescisória como sucedâneo recursal, buscar um novo juízo sobre a prova contida nos autos sob a alegação de violação aos dispositivos apontados.
+Todavia, como referido no voto embargado, para o acolhimento da pretensão é imprescindível que a violação seja manifesta, que o entendimento exarado na decisão que se objetiva desconstituir seja flagrantemente descabida, circunstância que não se evidenciou no caso.
+Ademais, também não é função da ação rescisória a unificação de entendimento jurisprudencial dos tribunais, conforme pretendido pelo embargante, o que corrobora sua intenção de reabrir a discussão sobre a (in)justiça proferida na ação originária. (e-STJ fls. 123/125)
+Como bem assinalado pela decisão ora agravada, a reanálise, nesta instância, da existência dos requisitos necessários para o julgamento da rescisória, pressupõe o reexame dos elementos fático-probatórios valorados pelas instância ordinárias, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+Saliente-se que "a viabilidade da ação rescisória por ofensa à literal disposição de lei pressupõe violação frontal e direta, contra a literalidade da norma jurídica, (..) sendo inviável sua utilização como meio de reavaliar os fatos da causa ou corrigir eventual injustiça da decisão" (AgRg nos EDcl no REsp 1419033/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 06/05/2014, DJe 25/06/2014).
+Sobre o tema:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AOS ARTS. 489 E 1.022 DO CPC NÃO CARACTERIZADA. PARCELA AUTÔNOMA DE EQUIVALÊNCIA - PAE. PENSIONISTAS DE MAGISTRADOS. INSURGÊNCIA DAS AGRAVANTES CONTRA O AFASTAMENTO DA PRESCRIÇÃO. VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. INVIABILIDADE. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Ação Rescisória ajuizada pela São Paulo Previdência e pelo Estado de São Paulo, com base no art. 966, V, do CPC/2015, objetivando desconstituir decisão proferida no Processo 1016927-69.2 017.8.26.0053, transitada em julgado em 29.1.2021, na qual reconheceu, em favor dos associados, o direito ao pagamento de valores a título de Parcela Autônoma de Equivalência - PAE relativa ao período de 1994 a 1997.
+(..)
+4. No que se refere ao argumento de violação literal a dispositivo de lei (art. 966, V, do CPC/2015), a orientação do STJ é de que tal ofensa deve ser "direta, evidente, que ressai da análise do aresto rescindendo" e, "se, ao contrário, o acórdão rescindendo elege uma dentre as interpretações cabíveis, ainda que não seja a melhor, a Ação Rescisória não merece vingar, sob pena de tornar-se um mero "recurso" com prazo de "interposição" de dois anos". (AgInt nos EDcl na AR 6.230/PR, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 4.6.2021).
+5. Assim, o cabimento da Ação Rescisória, com fundamento do art. 966, V, do CPC/2015, exige que a decisão rescindenda emita pronunciamento exegético quanto à norma tida como violada, de forma a conferir-lhe interpretação teratológica, aberrante, detectável primo icto oculi, sem o que não se poderá falar em ""violação literal de disposição de lei".
+6. Nessa conjuntura, alterar a convicção formada pelo Tribunal a quo, a fim de reconhecer a existência de ofensa à norma jurídica na espécie, com o objetivo de acolher a pretensão recursal, acerca da ocorrência da prescrição, demanda revolvimento de matéria fática, o que é inviável Recurso Especial, à luz do óbice contido na Súmula 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+7. Saliente-se que a Ação Rescisória não é instrumento processual apto a corrigir eventual injustiça da decisão rescindenda, má interpretação dos fatos, reexaminar as provas ou complementá-las.
+8. Agravo Interno não provido. (AgInt no AREsp n. 2.491.448/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 29/5/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDEFERIMENTO. REQUISITOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Rever o entendimento do Tribunal de origem a fim de analisar os requisitos autorizadores da ação rescisória, demandaria, necessariamente, a incursão na seara fático - probatória dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido. (AgInt no AgInt no AREsp 1846587/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/09/2021, D Je 08/10/2021)
+Assim, não tendo o agravante apresentado qualquer argumento apto a infirmar os fundamentos da decisão hostilizada, deve ser mantida a incidência do enunciado da Súmula 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
