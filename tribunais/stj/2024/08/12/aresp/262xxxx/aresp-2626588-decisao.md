@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CE ENGENHARIALTDA, RAFAELE CE (CE) e LUCIANO CE (LUCIANO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 437/438).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, CE e OUTRO alegaram a violação dos arts. 700 do CPC, ao sustentarem que (1) não foi juntado aos autos o contrato de cartão de crédito do BNDES, bem como o demonstrativo de evolução do débito e faturas que demonstrem a efetiva disponibilização do crédito; (2) o contrato de mútuo apresentado não tem qualquer relação com a causa de pedir ou pedido formulado na inicial, o que afasta a possibilidade de propositura da ação monitória.
+Da ausência dos requisitos da ação monitória
+CE e OUTRO sustentaram que a ação monitória foi proposta com esteio no contrato de cartão de crédito do BNDES, o que contraria a prova escrita juntada aos autos, que se trata de cédula de crédito bancário.
+No tocante ao tema, o colegiado estadual concluiu que foram preenchidos os requisitos estipulados pelo art. 700 do CPC, nos seguintes termos:
+Em que pese a inicial faça menção à expressão "cartão de crédito", extrai-se da causa de pedir que a monitória refere-se a uma cédula de crédito bancário de abertura de crédito, tendo feito referência inclusive ao número do contrato, bem como juntado toda a documentação pertinente ao aludido empréstimo.
+Ademais, vige na causa de pedir a teoria da substanciação, concernente ao interesse do legislador em privilegiar a descrição do contexto fático em que as partes se encontram envolvidas.
+Como é cediço, o procedimento monitório dispensa prova literal do quantum devido, bastando que os elementos probatórios da inicial constituam indícios suficientes para permitir um juízo de probabilidade sobre a existência do direito do autor ao recebimento da dívida, ou à entrega da coisa ou bem móvel, ou ao adimplemento de obrigação de fazer ou não fazer. No caso dos autos, verifica-se que a inicial encontra-se devidamente instruída com os documentos necessários, quais sejam, cédula de crédito bancário de abertura de crédito, o histórico do extrato, demonstrativo de débito e evolução da dívida. Assim, a CEF juntou elementos suficientes ao julgamento do mérito, a teor da Súmula nº 247, do STJ, de forma que restou demonstrado o liame obrigacional (e-STJ, fls. 363/364).
+Com efeito, cumpre destacar que esta Corte Superior possui entendimento de que
+(..) nos termos do art. 1.102-A do Código de Processo Civil, basta a instrução da monitória prova escrita suficiente para, efetivamente, influir na convicção do magistrado. Assim, para a admissibilidade da ação monitória, não é necessária a apresentação de prova robusta, estreme de dúvida, sendo suficiente a presença de dados idôneos, ainda que unilaterais, desde que deles exsurja juízo de probabilidade acerca do direito afirmado
+(AgRg no REsp 1.278.643/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/2/2016, DJe de 29/2/2016).
+Cediço, outrossim, que a reforma do acórdão recorrido, para se concluir pela insuficiência da documentação apresentada pela CAIXA ECONOMICA FEDERAL (CEF) e, assim, entender pela extinção da ação monitória, demandaria a incursão no acervo fático-probatório dos autos, prática vedada pela Súmula nº 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. OMISSÃO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. AÇÃO MONITÓRIA. PREENCHIMENTO DOS REQUISITOS ESSENCIAIS À PROPOSITURA DA AÇÃO. ART. 700 DO CPC. REVISÃO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Para a admissibilidade da ação monitória, não é necessária a apresentação de prova robusta, sendo suficiente que os documentos permitam o juízo de probabilidade acerca do direito afirmado.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. A| incidência da Súmula n. 7 do STJ prejudica o conhecimento do recurso especial no que diz respeito à divergência jurisprudencial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.117.977/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+No mais, o simples fato de a petição ter mencionado que a ação estava lastreada no contrato de "cartão de crédito BNDES", é insuficiente para acolher a pretensão de extinção do processo por falta de documentos indispensáveis.
+Isso porque, como bem fundamentado pelo acórdão, é possível extrair da causa de pedir que a monitória refere-se à cédula de crédito bancário, tanto que o número do contrato mencionado na própria inicial coincide com o documento apresentado como prova escrita, aplicando-se a teoria da substanciação. Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE IMPUGNAÇÃO DE SENTENÇA ARBITRAL. VÍCIOS FORMAIS. AUSÊNCIA.
+1. Demanda na qual se questiona a validade de sentença arbitral por ofensa aos princípios da motivação e do contraditório, além de outros vícios formais.
+2. Na ação de invalidação de sentença arbitral, o controle judicial, exercido somente após a sua prolação, está circunscrito a aspectos de ordem formal, a exemplo dos vícios previamente elencados pelo legislador (art. 32 da Lei nº 9.307/1996), em especial aqueles que dizem respeito às garantias constitucionais aplicáveis a todos os processos, que não podem ser afastados pela vontade das partes.
+3. Hipótese em que a sentença arbitral não está fundada em meras suposições, mas, sobretudo, na ausência de cláusula penal para a hipótese de resolução antecipada do contrato e na vedação ao enriquecimento sem causa.
+4. Aplica-se à arbitragem, à semelhança do processo judicial, a teoria da substanciação, segundo a qual apenas os fatos vinculam o julgador, que poderá atribuir-lhes a qualificação jurídica que entender adequada ao acolhimento ou à rejeição do pedido, não se podendo afirmar, no caso em exame, que a solução apresentada desbordou das postulações inicialmente propostas.
+5. No procedimento arbitral, é plenamente admitida a prorrogação dos prazos legalmente previstos por livre disposição entre as partes e respectivos árbitros, sobretudo em virtude da maior flexibilidade desse meio alternativo de solução de conflitos, no qual deve prevalecer, em regra, a autonomia da vontade.
+6. Se a anulação da sentença proferida fora do prazo está condicionada à prévia notificação do árbitro ou do presidente do tribunal arbitral, concedendo-lhe um prazo suplementar de dez dias (art. 32, VII, da Lei de Arbitragem), não há motivo razoável para não aplicar a mesma disciplina ao pedido de esclarecimentos, que, em última análise, visa tão somente aclarar eventuais dúvidas, omissões, obscuridades ou contradições, ou corrigir possíveis erros materiais.
+7. Sentença arbitral pautada em princípios basilares do direito civil, não importando se houve ou não referência expressa aos dispositivos legais que lhes conferem sustentação, não havendo como afirmar que houve julgamento por equidade, em desrespeito às condições estabelecidas no compromisso arbitral.
+8. O mero inconformismo quanto ao conteúdo meritório da sentença arbitral não pode ser apreciado pelo Poder Judiciário. Precedentes.
+9. Recursos especiais não providos.
+(REsp n. 1.636.102/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 13/6/2017, DJe de 1/8/2017, sem destaque no original .)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da CEF, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. MONITÓRIA. ALEGAÇÃO DE QUE NÃO FORAM PREENCHIDOS OS REQUISITOS PARA PROPOSITURA DA AÇÃO. SUFICIÊNCIA DA DOCUMENTAÇÃO APRESENTADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. MENÇÃO NA INICIAL DE CONTRATO DIFERENTE DAQUELE JUNTADO COMO PROVA ESCRITA. EXTINÇÃO DO PROCESSO. INADMISSIBILIDADE. APLICAÇÃO DA TEORIA DA SUBSTANCIAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
