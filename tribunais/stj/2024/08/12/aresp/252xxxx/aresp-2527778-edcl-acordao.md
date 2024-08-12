@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DE CABIMENTO. OMISSÃO. INEXISTÊNCIA. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por AUTOVIAS S/A contra acórdão assim ementado (e-STJ fls. 1859/1860):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. CONTRATO DE CONCESSÃO DE RODOVIAS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO NÃO VERIFICADO. ACÓRDÃO BASEADO NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. RESOLUÇÕES SLT 013/2011 E ARTESP 01/2014. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o artigo 1.022 do CPC. Jurisprudência do Superior Tribunal de Justiça.
+2. Na hipótese dos autos, o Tribunal de origem concluiu, após análise do contrato de concessão, bem como da Resolução SLT nº 013/2011 e ARTESP nº 01/2014, que não se verificou atribuição de ônus imprevisto com a previsão do dever de modernização, adaptação e atualização do sistema automático de arrecadação de pedágios a ponto de configurar álea econômica extraordinária e extracontratual que pudesse retardar ou impedir a execução do avençado e, assim, ensejar direito a eventual reequilíbrio econômico-financeiro.
+3. O recurso especial não é, em razão das Súmulas 5 e 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em análise de cláusulas contratuais e no contexto fático-probatório próprio da causa.
+4. O exame da matéria demandaria a análise de atos normativos estaduais, especificamente da Resolução SLT 013/2011 e ARTESP 01/2014, o que é inviável nesta via, porquanto Regulamentos, Instruções Normativas, Resoluções e Portarias, ainda que tenham caráter normativo, não se enquadram no conceito de "tratado ou lei federal" inserido na alínea "a" do inciso III do artigo 105 da Constituição da República, bem como da Súmula 280/STF.
+5. Agravo interno não provido.
+Afirma, em síntese, haver omissões no posicionamento do acórdão embargado quanto à não incidência das Súmulas nº 05 e 07, do STJ ao presente caso, já que a constatação do direito da AUTOVIAS ao reequilíbrio econômico-financeiro do contrato de concessão dispensa a análise de cláusulas contratuais, fatos e provas constantes dos autos; e à ausência de fundamentação adequada dos vv. acórdãos prolatados pelo Tribunal a quo, já que, nos termos do art. 489, § 1º, IV, do CPC, não se consideram fundamentadas as decisões que "não enfrentarem todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Pugna pelo conhecimento e acolhimento dos presentes aclaratórios.
+É o necessário relatar.
+EMENTA
+PROCESSUAL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DE CABIMENTO. OMISSÃO. INEXISTÊNCIA. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Sustenta a embargante que ocorreram omissões no posicionamento do acórdão embargado quanto à não incidência das Súmulas nº 05 e 07, do STJ ao presente caso, já que a constatação do direito da AUTOVIAS ao reequilíbrio econômico-financeiro do contrato de concessão dispensa a análise de cláusulas contratuais, fatos e provas constantes dos autos; e à ausência de fundamentação adequada dos vv. acórdãos prolatados pelo Tribunal a quo, já que, nos termos do art. 489, § 1º, IV, do CPC, não se consideram fundamentadas as decisões que "não enfrentarem todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+As razões não merecem acolhimento.
+Isso porque, os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+Ocorre que o acórdão embargado posicionou-se de forma clara, adequada e suficiente acerca do não provimento do agravo interno em virtude de que não houve a alegada ofensa ao artigo 1.022 do CPC por negativa de prestação jurisdicional, bem como que, o Tribunal de origem concluiu, após análise do contrato de concessão, e das Resoluções SLT nº 013/2011 e ARTESP nº 01/2014, que não se verificou atribuição de ônus imprevisto com a previsão do dever de modernização, adaptação e atualização do sistema automático de arrecadação de pedágios a ponto de configurar álea econômica extraordinária e extracontratual que pudesse retardar ou impedir a execução do avençado e, assim, ensejar direito a eventual reequilíbrio econômico-financeiro.
+Ademais, restou esclarecido que o julgado atrelava-se ao contexto fático-probatório da causa e, para admitir entendimento contrário conforme a pretensão recursal, necessário que se adotasse o mesmo procedimento, o que todavia escapa ao âmbito do recurso especial diante das Súmulas 5 e 7 do STJ .
+Dessa forma, infere-se das razões destes aclaratórios a nítida pretensão da parte embargante de provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC/2015, não é compatível com o recurso protocolado.
+Não havendo omissão, obscuridade ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
