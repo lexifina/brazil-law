@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TRANSFERÊNCIA PARA A INATIVIDADE. DIREITO À PROMOÇÃO AUTOMÁTICA, TENDO COMO REFERÊNCIA O POSTO OU A GRADUAÇÃO OCUPADA PELO IMPETRANTE POR OCASIÃO DO AJUIZAMENTO DO MANDAMUS. ACOLHIMENTO.
+1. Embargos de Declaração opostos a acórdão que proveu o Recurso Ordinário, para assegurar ao impetrante o direito à promoção à graduação imediatamente superior à que ocupava no momento em que solicitou administrativamente a transferência para a inatividade.
+2. O acórdão embargado não levou em consideração o lapso temporal entre o requerimento administrativo e a impetração do Mandado de Segurança, quando o impetrante já ocupava outro posto ou graduação.
+3. Logo, a promoção ao posto ou graduação imediatamente superior deve ter como parâmetro aquele ocupado pelo impetrante no momento do ajuizamento do mandamus, e não a que ocupava quando do pedido administrativo.
+4. Embargos de Declaração acolhidos.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos a acórdão assim ementado:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. MILITAR DO ESTADO DE GOIÁS. TRANSFERÊNCIA PARA A INATIVIDADE. ART. 24-F DO DECRETO-LEI 667/69 E ART. 68 DA LEI ESTADUAL 20.946/20. DIREITO À APLICAÇÃO DO REGIME JURÍDICO ANTERIOR À LEI 13.954/19. ART. 100, § 12 E 13 DA CONSTITUIÇÃO ESTADUAL. DIREITO À PROMOÇÃO AUTOMÁTICA. PROVIMENTO.
+1. Na origem, cuida-se de Mandado de Segurança preventivo impetrado por policial militar, para que lhe seja assegurado o direito à promoção à graduação imediatamente superior no momento em que for transferido para a inatividade, nos termos do art. 100, §§ 12 e 13, da Constituição do Estado de Goiás.
+2. No art. 100, § 12 e 13, a Constituição do Estado de Goiás garantia ao militar que contasse com 30 anos de serviço, se homem, e 25 anos, se mulher, a promoção ao posto ou graduação imediatamente superior quando requeresse a transferência para a reserva remunerada.
+3. No entanto, a norma foi tacitamente revogada pela Emenda Constitucional 103/19, que definiu como de competência privativa da União legislar sobre normas gerais de inatividades e pensões dos policiais militares (art. 22, XXI, da CF/88).
+4. Exercendo a competência legislativa, a União editou a Lei 13.954/19, que alterou a Lei 6.880/80, para estabelecer que o provento do militar deve ser calculado com base no soldo integral do posto ou graduação que possuía por ocasião da transferência para a inatividade (art. 50, II), revogando o benefício da promoção automática ao posto ou graduação imediatamente superior.
+5. Para evitar prejuízo aos que estavam próximos de preencher os requisitos para a inatividade, o art. 24-F do Decreto-Lei 667/69 (acrescentado pela Lei 13.954/19) e o art. 68 da Lei estadual 20.946/20 garantiram a aplicação do regime jurídico anterior das inatividades aos militares que preenchiam os requisitos para a transferência para a reserva remunerada em 31/12/2021.
+6. Logo, os policiais militares do Estado de Goiás que cumpriram, até 31 de dezembro de 2021, os requisitos exigidos pela legislação anterior à Lei 13.954/19 para a transferência para a reserva remunerada, têm direito à promoção ao posto ou graduação imediatamente superior. Este ponto não é objeto de divergência. A controvérsia posta nesses autos diz respeito àqueles militares que, tendo cumprido as exigências para a transferência para a inatividade até 31/12/2021, decidiram continuar na ativa.
+7. O impetrante afirma que, em setembro de 2022, foi promovido à graduação de 1º Sargento. Como já satisfazia os requisitos para a transferência para a reserva remunerada em 31/12/2021, defende ter direito à aplicação do regime jurídico anterior, que garantia a promoção para a graduação imediatamente superior no momento da transferência para a inatividade. Conclui, então, que deve ser agora - momento em que requer a transferência para a reserva - promovido para a graduação de subtenente, nos termos do art. 100, § 12 e 13, da Constituição estadual.
+8. O Estado de Goiás, por sua vez, sustenta ser indevida a nova promoção, porquanto somente aquelas obtidas até 31/12/2021 devem ser levadas em conta para fins de aplicação do art. 100, § 12 e 13, da Constituição estadual. Assim, se o impetrante, em 31/12/2021, ocupava o posto de 2º Sargento, terá direito, por ocasião da transferência para a reserva, à promoção para o posto de 1º Sargento, ainda que essa mesma promoção já tenha sido alcançada na atividade após o dia 31/12/2021.
+9. Não há, na norma de transição, previsão no sentido de que a situação funcional do militar deva ser "congelada" na data de 31/12/2021. Pelo contrário, os dispositivos prescrevem que esse direito é garantido "a qualquer tempo (..), observados os critérios de concessão e de cálculo em vigor na data do atendimento dos requisitos". Como um dos critérios de concessão e de cálculo à época em vigor é o direito à promoção automática, previsto no § 12 do art. 100 da Constituição Estadual, tal regra deve ser aplicada à situação jurídica existente no momento do requerimento da inatividade, como dispõe o § 13 do art. 100 da Constituição Estadual, e não à situação passada, sob pena de tornar sem efeito a própria regra de transição.
+10. Ao contrário do que sustenta o Estado do Goiás, não se trata de cumulação de benefícios de regimes jurídicos distintos. O regime jurídico aplicável é apenas um: aquele anterior às modificações introduzidas pela Lei 13.954/19. Não há como confundir as regras aplicáveis com o suporte fático sobre o qual incidem. A regra é aquela prevista nos §§ 12 e 13 do art. 100 da Constituição Estadual; a situação fática (funcional) é aquela existente no momento do requerimento da transferência para a reserva remunerada.
+11. Recurso Ordinário provido.
+Nas razões recursais (fls. 575-616), alega-se:
+Além do mais, da forma em que ficou definido no acordão, a ilegalidade ora combatida não será corrigida, de modo que o impetrado vai dar se por cumprida a decisão, haja vista que a graduação que o impetrante fazia jus no momento em que ele solicitou a transferência para a inatividade, era a de 1º Sargento, considerando que ele já se encontra nesta graduação desde 21/09/2022, data em que foi promovido pelo critério de antiguidade.
+Em suma, da forma em que restou estabelecido no acordão, a decisão não surtirá efeito algum, permanecendo o impetrante na situação atual. Este impasse destaca a necessidade de revisão, a fim de garantir que a justiça seja verdadeiramente alcançada.
+Desse modo, faz-se necessário a eliminação da contradição apontada, para corrigir a parte final do acordão, garantindo a promoção à graduação imediatamente superior à que ocupava no momento da data da impetração do Mandado de Segurança, conforme pedido da inicial.
+Impugnação às fls. 637-640.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TRANSFERÊNCIA PARA A INATIVIDADE. DIREITO À PROMOÇÃO AUTOMÁTICA, TENDO COMO REFERÊNCIA O POSTO OU A GRADUAÇÃO OCUPADA PELO IMPETRANTE POR OCASIÃO DO AJUIZAMENTO DO MANDAMUS. ACOLHIMENTO.
+1. Embargos de Declaração opostos a acórdão que proveu o Recurso Ordinário, para assegurar ao impetrante o direito à promoção à graduação imediatamente superior à que ocupava no momento em que solicitou administrativamente a transferência para a inatividade.
+2. O acórdão embargado não levou em consideração o lapso temporal entre o requerimento administrativo e a impetração do Mandado de Segurança, quando o impetrante já ocupava outro posto ou graduação.
+3. Logo, a promoção ao posto ou graduação imediatamente superior deve ter como parâmetro aquele ocupado pelo impetrante no momento do ajuizamento do mandamus, e não a que ocupava quando do pedido administrativo.
+4. Embargos de Declaração acolhidos.
+VOTO
+Os autos foram recebidos neste Gabinete em 11/6/2024.
+Com razão a parte embargante.
+O Recurso Ordinário foi provido para assegurar ao impetrante o direito à promoção à graduação imediatamente superior à que ocupava no momento em que solicitou a transferência para a inatividade.
+No entanto, não se levou em consideração o lapso temporal entre o requerimento administrativo e a impetração do Mandado de Segurança.
+Logo, a promoção ao posto ou à graduação imediatamente superior deve ter como parâmetro aquele ocupado pelo impetrante no momento do ajuizamento do mandamus, e não a que ocupava quando do pedido administrativo.
+Ante o exposto, acolho os Embargos de Declaração.
+É como voto.
