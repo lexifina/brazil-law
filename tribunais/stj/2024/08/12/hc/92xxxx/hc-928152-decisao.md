@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JAIRO ADRIANO DA SILVA e SIDINEI MORAIS DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que os pacientes foram pronunciados, como incu rsos no art. 121, § 2º, IV, c/c o art. 14, II, do Código Penal.
+Foi negado provimento ao recurso em sentido estrito interposto pela defesa. O acórdão está assim ementado (e-STJ fl. 813):
+RECURSO EM SENTIDO ESTRITO. CRIME CONTRA A VIDA. HOMICÍDIO QUALIFICADO PELO EMPREGO DE RECURSO QUE TERIA DIFICULTADO A DEFESA DO OFENDIDO (CÓDIGO PENAL, ART. 121, § 2º, IV). DECISÃO DE PRONÚNCIA. INSURGIMENTO DA DEFESA.
+JUÍZO DE ADMISSIBILIDADE. JUSTIÇA GRATUITA. ISENÇÃO DAS CUSTAS PROCESSUAIS. ANÁLISE QUE COMPETE AO JUÍZO DE PRIMEIRO GRAU. NÃO CONHECIMENTO NO PONTO.
+AVENTADA IMPRONÚNCIA. DESCABIMENTO. SUBSTRATOS DE CONVICÇÃO APTOS A INDICAR A MATERIALIDADE DELITIVA E A VINCULAÇÃO DO INSURGENTE AO ILÍCITO. VÍTIMA QUE REVELOU A POSSÍVEL DINÂMICA DO FATO. VERSÃO CONVERGENTE COM O CONJUNTO PROBATÓRIO ARREGIMENTADO AOS AUTOS. PREVALÊNCIA DO PRINCÍPIO DO IN DUBIO PRO SOCIETATE . MATÉRIA A SER APRECIADA PELO TRIBUNAL DO JÚRI.
+REQUESTADA EXCLUSÃO DA QUALIFICADORA ADMITIDA NO JUÍZO PROVISÓRIO. IMPOSSIBILIDADE. CABEDAL PROBATÓRIO MÍNIMO. CIRCUNSTÂNCIA QUE SÓ DEVE SER AFASTADA SE FOR MANIFESTAMENTE IMPROCEDENTE. QUESTÃO A SER TAMBÉM DIRIMIDA PELOS JURADOS, COMPETENTES PARA A ANÁLISE VALORATIVA DAS PROVAS.
+PRONUNCIAMENTO MANTIDO. RECURSO EM PARTE CONHECIDO E DESPROVIDO.
+Nesta impetração, sustenta a defesa que não há elementos probatórios suficientes para a manutenção da pronúncia dos pacientes. Destaca que "a pronúncia foi amparada apenas por elementos produzidos no inquérito, de modo que não foram produzidas provas durante o processo judicial. Ou seja, a única testemunha que indicou os Pacientes como autores do crime sequer foi ouvida judicialmente" (e-STJ fl. 10).
+O pedido liminar foi indeferido às e-STJ fls. 822/823.
+Informações prestadas às e-STJ fls. 830/833 e 834/877.
+O MPF, às e-STJ fls. 879/882, manifestou-se pelo não conhecimento do writ.
+É, em síntese, o relatório.
+Conforme consignado no relatório, contra a decisão de pronúncia a defesa interpôs recurso em sentido estrito, ao qual foi negado provimento.
+No caso, a leitura do voto condutor do acórdão atacado revela que a pronúncia do paciente foi mantida em razão da existência de indícios de autoria obtidos a partir do cotejo das provas produzidas em juízo com os elementos obtidos no inquérito policial. Confira-se (e-STJ fl. 810):
+Feito o registro, tem-se que os substratos de convicção constantes do feito se mostram suficientes para lastrear a decisão de pronúncia tal como levada a efeito, tendo em vista que indicam a possibilidade de Sidnei Moraes da Silva ter sido um dos responsáveis pelo crime de homicídio qualificado praticado na forma tentada contra o ofendido Márcio Duarte do Prado, mormente pelas palavras deste e de sua companheira, Francieli Aparecida Moraes, em ambas as etapas procedimentais, aliadas aos dizeres extrajudiciais da testemunha Claudinéia de Moura, que assegurou que os disparos de arma de fogo foram desferidos de forma inesperada contra a vítima.
+Assim, vê-se que foi observado o disposto no art. 413 do Código de Processo Penal, porquanto, além de prova de materialidade, apontou-se a existência de indícios de autoria, não havendo flagrante ilegalidade a ser reparada.
+Com efeito, tanto a decisão de pronúncia como o acórdão que a manteve, obtido com o julgamento do recurso em sentido estrito, destacam a versão apresentada pela vítima sobrevivente, na fase extrajudicial e ratificada em juízo, que aponta os pacientes como os possíveis autores do delito. Tal afirmação foi corroborada por elementos produzidos no inquérito policial.
+Esse cenário, insta salientar, não evidencia a configuração do apontado constrangimento ilegal, pois foi estritamente observado o disposto no art. 413 do Código de Processo Penal.
+Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. EXISTÊNCIA DE PROVAS JUDICIALIZADAS PARA SUSTENTAR A DECISÃO DE PRONÚNCIA. SUBMISSÃO DO JULGAMENTO AO CONSELHO DE SENTENÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Constituição da República determinou ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida e os a eles conexos, conferindo-lhe a soberania de seus vereditos.
+2. Entretanto, a fim de reduzir o erro judiciário (art. 5º, LXXV, CF), seja para absolver, seja para condenar, exige-se uma prévia instrução, sob o crivo do contraditório e com a garantia da ampla defesa, perante o juiz togado, com a finalidade de submeter a julgamento no Tribunal do Júri somente os casos em que se verifiquem a comprovação da materialidade e a existência de indícios suficientes de autoria, nos termos do art. 413, § 1º, do CPP, que encerra a primeira etapa do procedimento previsto no Código de Processo Penal.
+3. Assim, a primeira fase do procedimento bifásico do Tribunal do Júri tem o objetivo de avaliar a suficiência ou não de razões (justa causa) para levar o acusado ao seu juízo natural. Não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem nenhum lastro probatório produzido em juízo, fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial.
+4. No caso vertente, há prova produzida sob o crivo do contraditório - notadamente o depoimento da filha da vítima - que autoriza a submissão da acusado ao julgamento pelo Tribunal Popular.
+5. Não cabe às instâncias ordinárias, tampouco a esta Corte Superior, valorar as provas dos autos e decidir pela tese prevalente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É adequado, tão somente, averiguar se a pronúncia encontra respaldo no caderno probatório, o que ficou demonstrado na hipótese em exame. Deveras, incumbe aos jurados, no exercício da sua soberana função constitucional, cotejar as provas produzidas, escolher a versão que lhes parecer mais verossímil e decidir a causa conforme suas convicções, nos termos do art. 5º, XXXVIII, "d", da CF.
+6. Pedido de reconsideração recebido como agravo regimental não provido.
+(RCD no HC n. 915.269/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
