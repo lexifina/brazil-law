@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JONATAS SOARES RANGEL apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação n. 0008034-83.2019.8.08.0006).
+Depreende-se dos autos que o réu foi condenado a 14 anos, 10 meses e 20 dias, no regime fechado, por ter sido flagrado em posse de 30kg (trinta quilogramas) de maconha e itens produtos de roubos (e-STJ fl. 28).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 26/30).
+Daí o presente writ, no qual sustenta a defesa ilegalidade na dosimetria quanto ao aumento da pena-base (e-STJ fl. 7).
+Destaca a ilegalidade da aplicação da multirreincidência em razão da confissão espontânea (e-STJ fl. 10).
+Requer, liminarmente e no mérito, a redução da pena-base, o afastamento da multirreincidência e a desclassificação do delito de receptação para sua forma culposa (e-STJ fl. 13).
+O pedido liminar foi indeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Inicialmente, no concernente ao pedido de desclassificação do crime de receptação para a modalidade culposa, tem-se que a Corte de origem, ao julgar o recurso de apelação, não se manifestou a respeito de tal ponto. Assim, a análise diretamente por esta Corte Superior incorreria em indevida supressão de instância.
+No concernente à dosimetria da pena, constato que o Tribunal a quo entendeu que (e-STJ fls. 27/29):
+Quanto à dosimetria da pena imposta pela prática do crime de tráfico de drogas, a pena-base foi fixada em 10 anos de reclusão, valorando 04 circunstâncias judiciais desfavoráveis:
+culpabilidade: o grau de reprovabilidade da conduta do acusado é extremamente elevado, vez que o tráfico de drogas era exercido em concurso de agentes, envolvendo a atuação do réu em concurso com outro indivíduo identificado apenas como "JOAQUIM" (fl. 16), estando na iminência de configuração do crime de associação para o tráfico. Em relação aos seus antecedentes, reputo-os maculados, haja vista a condenação nos autos nº 048100175180, transitada em julgado em 31/10/2008 (conforme consultas ao SIEP de fls. 218-verso). ( ) As circunstâncias do delito merecem censura, tendo em vista que o tráfico de drogas era cometido com o apoio logístico de um veículo (fl. 16), ou seja, meio de locomoção que maximiza a disseminação da droga em maior espaço geográfico. Ademais, observa-se que o crime era cometido de forma intermunicipal, em que as drogas eram trazidas de Vitória/ES, para comercialização em Aracruz/ES (fl. 16) ( ) A quantidade de drogas é reprovável, vez que foram apreendidos cerca de 30kg de maconha, ou seja, quantidade excessiva e muito além do necessário à consumação do tipo (..) Na inteligência do art. 59 do CP, a exasperação da pena-base em razão de circunstâncias judiciais reconhecidas não se revela numa mera operação aritmética, em que se atribuem pesos absolutos a cada uma das circunstâncias judiciais, mas sim num exercício de discricionariedade vinculada, pautada pela proporcionalidade, razoabilidade e pelo princípio da individualização da pena.
+Desse modo, considerando a incidência de 04 circunstâncias judiciais devidamente fundamentadas com base em elementos concretos, entendo que o quantum fixado é proporcional e adequado.
+Em que pese a confissão do acusado, agiu com acerto o magistrado, uma vez que o réu é multirreincidente. Sendo assim, a atenuante e a agravante foram parcialmente compensadas, prevalecendo a última, razão pela qual a pena foi agravada em 10 meses.
+Na terceira fase, impossível afastar a causa de aumento prevista no art. 40, inciso VI da Lei 11.343/2006, sendo certo o envolvimento do menor, quem teria auxiliado na guarda dos entorpecentes. O magistrado utilizou a fração mínima de 1/6, fixando a pena definitiva de 12 anos, 07 meses e 20 dias de reclusão.
+Impossível também reconhecer o tráfico privilegiado, pois, conforme demonstrado, trata-se de réu reincidente. Ademais, as circunstâncias em que ocorreram o crime, a exemplo da quantidade de drogas e das palavras do recorrente, demonstram a sua dedicação à atividade criminosa, afirmando não se tratar da primeira vez que guardava entorpecentes para a pessoa de "Joaquim" (fl.16).
+Quanto ao crime de receptação, igualmente não verifico motivos para reformar a dosimetria, eis que adequada ao caso concreto.
+A pena-base foi fixada em 01 ano e 09 meses em razão dos maus antecedentes e posteriormente agravada para 02 anos e 03 meses de reclusão, diante da múltipla reincidência. Impossível aplicar a atenuante de confissão, pois o réu nega a propriedade dos aparelhos, transferindo a culpa ao menor.
+Conforme se observa, a pena-base do crime de tráfico de drogas foi exasperada em razão da consideração negativa da culpabilidade, dos antecedentes, das circunstâncias e da quantidade de drogas apreendidas.
+No concernente à culpabilidade e circunstâncias, destaco que não foram indicados fundamentos concretos que justifiquem a exasperação, uma vez que o concurso de agentes foi valorado na terceira etapa da dosimetria, e a prática do delito com auxílio de um carro, além da transmunicipalidade, não são fundamentos concretos aptos a exasperar a reprimenda.
+Com relação aos antecedentes, não é possível analisar a alegação de que tais antecedentes não seriam do paciente, uma vez que tal tese não foi debatida perante a Corte de origem. Assim, a análise diretamente por esta Corte Superior incorreria em indevida supressão de instância.
+Assim, mantém-se a consideração negativa dos antecedentes e da quantidade de drogas apreendidas, e valendo-se da mesma proporcionalidade das instâncias de origem, a reprimenda básica deve ser reduzida para 7 anos e 6 meses de reclusão, e multa.
+Na segunda fase da dosimetria, correto o aumento da reprimenda em 10 meses de reclusão, pela compensação parcial da multirreincidência com a atenuante da confissão espontânea. Assim, tem-se a sanção intermediária de 8 anos e 4 meses de reclusão, e multa.
+Por fim, exaspera-se em 1/6 pela prática do delito em concurso de agentes, resultando a reprimenda final em 9 anos, 8 meses e 20 dias de reclusão, e em multa.
+Mantém-se a sanção do crime de rece ptação em 2 anos e 3 meses de reclusão, e aplicada a regra do concurso material, tem-se a reprimenda de 11 anos, 11 meses e 20 dias de reclusão, e de multa.
+Ante o exposto, concedo parcialmente a ordem nos termos acima.
+Publique-se. Intimem-se.
+EMENTA
